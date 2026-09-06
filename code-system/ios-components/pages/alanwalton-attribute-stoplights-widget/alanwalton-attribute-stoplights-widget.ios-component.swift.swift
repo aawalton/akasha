@@ -8,6 +8,7 @@ struct AttributeStoplight: Decodable, Hashable {
     let nextTier: Tier?
     let progress: Double?
     let label: String?
+    var figureOffScale: Bool? = nil
 }
 
 struct AttributeStoplightsResponse: Decodable {
@@ -89,7 +90,8 @@ struct AttributeHomeView: View {
                     reading: $0.reading,
                     nextTier: $0.nextTier,
                     progress: $0.progress,
-                    label: $0.label ?? $0.attribute
+                    label: $0.label ?? $0.attribute,
+                    figureOffScale: $0.figureOffScale ?? false
                 )
             }
         }

@@ -8,6 +8,7 @@ struct UpkeepStoplight: Decodable, Hashable {
     let nextTier: Tier?
     let progress: Double?
     let label: String?
+    var figureOffScale: Bool? = nil
 }
 
 struct UpkeepStoplightsResponse: Decodable {
@@ -92,7 +93,8 @@ struct UpkeepHomeView: View {
                     reading: $0.reading,
                     nextTier: $0.nextTier,
                     progress: $0.progress,
-                    label: $0.label ?? $0.habit
+                    label: $0.label ?? $0.habit,
+                    figureOffScale: $0.figureOffScale ?? false
                 )
             }
         }

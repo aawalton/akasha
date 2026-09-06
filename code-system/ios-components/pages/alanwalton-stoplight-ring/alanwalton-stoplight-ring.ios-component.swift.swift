@@ -6,6 +6,7 @@ struct StoplightRing: View {
     let nextTier: Tier?
     let progress: Double?
     let label: String?
+    var figureOffScale: Bool = false
 
     private static let zero = "0"
 
@@ -41,7 +42,7 @@ struct StoplightRing: View {
                 radius: tier == .blue ? 6 : 0
             )
         ) { metrics in
-            if !isAtEnd {
+            if figureOffScale || !isAtEnd {
                 let size = metrics.diameter * Self.readingFraction
                 let line = size * Self.lineHeightFactor
                 let halfWidth = max(

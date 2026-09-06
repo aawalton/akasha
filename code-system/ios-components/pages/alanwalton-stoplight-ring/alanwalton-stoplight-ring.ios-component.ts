@@ -9,11 +9,16 @@ export const alanwaltonStoplightRing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading past either end of its scale draws no number.",
+      statement:
+        "Whether a reading past either end of its scale draws its number is read off the reading sent.",
     },
     {
       invariantKind: "departure",
-      statement: "The tile drawing one reading alone draws that number, which this one does not.",
+      statement: "A reading saying nothing of that draws no number past either end.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here works out whether a reading past either end draws its number.",
     },
   ],
 } as const satisfies IosComponent

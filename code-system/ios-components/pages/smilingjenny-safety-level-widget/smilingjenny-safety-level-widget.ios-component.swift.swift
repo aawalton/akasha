@@ -8,7 +8,7 @@ enum SafetyLevelFeed: WidgetFeed {
         stoplights: [
             HabitStoplight(
                 habit: nil, tier: .yellow, reading: "2.5", nextTier: .green,
-                progress: 0.50, label: "Alan's Safety"
+                progress: 0.50, label: "Alan's Safety", figureOffScale: true
             )
         ]
     )
@@ -67,7 +67,8 @@ struct SafetyLevelHomeView: View {
             reading: safety?.reading,
             caption: safetyCaption(entry.state),
             nextTier: safety?.nextTier,
-            progress: safety?.progress
+            progress: safety?.progress,
+            figureOffScale: safety?.figureOffScale ?? false
         )
     }
 }

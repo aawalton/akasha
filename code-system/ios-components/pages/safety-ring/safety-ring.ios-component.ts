@@ -13,11 +13,16 @@ export const safetyRing = {
     },
     {
       invariantKind: "departure",
-      statement: "The level is drawn whatever the level is.",
+      statement:
+        "Whether a level past either end of its scale draws its number is read off the reading sent.",
     },
     {
       invariantKind: "departure",
-      statement: "A level at either end of its scale draws its number as any other level does.",
+      statement: "A reading saying nothing of that has the level past either end draw no number.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here works out whether a level past either end draws its number.",
     },
     {
       invariantKind: "departure",

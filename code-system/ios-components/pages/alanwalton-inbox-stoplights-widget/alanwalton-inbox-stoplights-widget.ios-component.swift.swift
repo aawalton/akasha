@@ -8,6 +8,7 @@ struct InboxStoplight: Decodable, Hashable {
     let nextTier: Tier?
     let progress: Double?
     let label: String?
+    var figureOffScale: Bool? = nil
 }
 
 struct InboxStoplightsResponse: Decodable {
@@ -92,7 +93,8 @@ struct InboxHomeView: View {
                     reading: $0.reading,
                     nextTier: $0.nextTier,
                     progress: $0.progress,
-                    label: INBOX_LABEL[$0.inbox] ?? $0.inbox
+                    label: INBOX_LABEL[$0.inbox] ?? $0.inbox,
+                    figureOffScale: $0.figureOffScale ?? false
                 )
             }
         }
