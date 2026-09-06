@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
+index 240a3261734453b365bf9a7d70d9ee2016fd0156..b90cce13fe4187930968d5a2fb7791dacc4d1240 100644
+--- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
++++ b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
+@@ -31,7 +31,7 @@ export const exerciseRows = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Which rows are wanted, in what order and how many is settled here rather than asked of a store.",
++        "The rows wanted and their order and their number are settled here rather than asked of a store.",
+     },
+     {
+       invariantKind: "departure",
