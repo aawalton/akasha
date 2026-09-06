@@ -1,0 +1,105 @@
+writerOwesReading: false
+diff --git a/alan/books/my-projects/sections/solar-power/customer-generation.book-section.ts b/alan/books/my-projects/sections/solar-power/customer-generation.book-section.ts
+index 5551802c2e3e263128147f7470c28651ca984432..4172f73cf2e75053afd90e940d56856e46b8223d 100644
+--- a/alan/books/my-projects/sections/solar-power/customer-generation.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/customer-generation.book-section.ts
+@@ -7,7 +7,7 @@ export const customerGeneration = {
+   title: "Customer Generation — Provo Power",
+   description:
+     "Provo Power net-metering / customer-generation program — compensation mechanism, system size cap, annual reset, interconnection. Plus federal ITC status check.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["solar-power"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/efficiency-factors.book-section.ts b/alan/books/my-projects/sections/solar-power/efficiency-factors.book-section.ts
+index 1c54f4211bc8af64b4da8e36bad54b9a1e5afb4b..2f8838f923f0ee80a3bcac643251b61f49635cba 100644
+--- a/alan/books/my-projects/sections/solar-power/efficiency-factors.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/efficiency-factors.book-section.ts
+@@ -7,7 +7,7 @@ export const efficiencyFactors = {
+   title: "Rooftop Solar Efficiency Factors (Provo, UT)",
+   description:
+     "Mechanical decomposition of rooftop solar efficiency factors — from atmospheric irradiance to AC power at the meter — calibrated for Provo, UT.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["solar-power"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/energy-demand.book-section.ts b/alan/books/my-projects/sections/solar-power/energy-demand.book-section.ts
+index 9ff6040d31901ebdc4e40bb64423ccf322ac74f1..b918c29d1c96f8bb3990e5ddd8e69143f3b7c923 100644
+--- a/alan/books/my-projects/sections/solar-power/energy-demand.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/energy-demand.book-section.ts
+@@ -7,7 +7,7 @@ export const energyDemand = {
+   title: "Annual Energy Demand (1350 Apple Ave, Provo, UT)",
+   description:
+     "Annual energy demand plan for all-electric 6000 sq ft Provo home with heat pumps, 12 gaming PCs, two EVs — sized for self-sufficiency.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["solar-power"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/envelope.book-section.ts b/alan/books/my-projects/sections/solar-power/envelope.book-section.ts
+index bbcd21d95b46dcf8d5bc74e78632676690f73190..ebcfeb5a6a8cc60aa1e2348969afbe29d2112674 100644
+--- a/alan/books/my-projects/sections/solar-power/envelope.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/envelope.book-section.ts
+@@ -7,7 +7,7 @@ export const envelope = {
+   title: "Envelope Retrofit Decision",
+   description:
+     "Envelope retrofit decision for a 1970s 6000 sq ft Provo house — assessment options, retrofit packages ranked by leverage, and recommended sequence.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["solar-power"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/installers.book-section.ts b/alan/books/my-projects/sections/solar-power/installers.book-section.ts
+index 8986ff1ff968c9ad3f66dd00b6e8ecf6ec20dfc8..dc0c85a93da2a40f857a630889e926040a5a5b1d 100644
+--- a/alan/books/my-projects/sections/solar-power/installers.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/installers.book-section.ts
+@@ -7,7 +7,7 @@ export const installers = {
+   title: "Rooftop Solar Installers Serving Provo, UT",
+   description:
+     "Comprehensive list of rooftop solar installers serving Provo, UT (1350 Apple Ave) with credentials, ratings, warranties, and red flags.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["solar-power"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/pricing.book-section.ts b/alan/books/my-projects/sections/solar-power/pricing.book-section.ts
+index 90c9450af1059bbfa0bcf4c6b4d981c834eb4919..eae13cabbf114092cbd025194042ead32670992b 100644
+--- a/alan/books/my-projects/sections/solar-power/pricing.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/pricing.book-section.ts
+@@ -7,7 +7,7 @@ export const pricing = {
+   title: "Rooftop Solar Pricing",
+   description:
+     "Rooftop solar pricing — component breakdown, levers, and cost-curve history for residential US (with Utah context).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["solar-power"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/scope.book-section.ts b/alan/books/my-projects/sections/solar-power/scope.book-section.ts
+index 85e4c9152a184776559dfd54e442137f5c6cbb8a..9a473e6f8611446e3a19293e12c13820036a8054 100644
+--- a/alan/books/my-projects/sections/solar-power/scope.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/scope.book-section.ts
+@@ -7,7 +7,7 @@ export const scope = {
+   title: "Scope",
+   description:
+     "Scope and architectural decisions for the solar power project — site inputs, loads in/out of scope, and the constraints that shape sizing.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["solar-power"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/sizing.book-section.ts b/alan/books/my-projects/sections/solar-power/sizing.book-section.ts
+index 4077970602003220ea886e6c2af4772289ab86f0..ba6e9ab40318bfe89b724538bb711ffd9b71191a 100644
+--- a/alan/books/my-projects/sections/solar-power/sizing.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/sizing.book-section.ts
+@@ -7,7 +7,7 @@ export const sizing = {
+   title: "Sizing",
+   description:
+     "Annual net-zero sizing math for the solar power project — PV, battery, inverter, service panel, roof area, and cost stack with one planning-case recommendation.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["solar-power"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
