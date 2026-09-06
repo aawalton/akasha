@@ -31,6 +31,10 @@ export const introducedPropertyIsAPart = {
     },
     {
       invariantKind: "departure",
+      statement: "The properties a page type introduces are worked out once for the whole run.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page type the change carries is read as the change leaves the page type.",
     },
     {
