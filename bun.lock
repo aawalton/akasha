@@ -172,7 +172,7 @@
         "@akasha/indexes": "workspace:*",
         "@akasha/named-for": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/pages-system-service": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
         "@akasha/session-planning": "workspace:*",
       },
     },
@@ -183,7 +183,7 @@
         "@akasha/day": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/pages-system-service": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -211,7 +211,7 @@
         "@akasha/command-system": "workspace:*",
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/pages-system-service": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
       },
     },
     "alan/library/reading": {
@@ -240,7 +240,7 @@
         "@akasha/indexes": "workspace:*",
         "@akasha/music-choosing": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/pages-system-service": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
         "@akasha/spotify": "workspace:*",
         "@akasha/utils-sync": "workspace:*",
       },
@@ -273,7 +273,7 @@
         "@akasha/object-store": "workspace:*",
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
-        "@akasha/pages-system-service": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
         "@akasha/pages-ui": "workspace:*",
         "@akasha/pages-ui-components": "workspace:*",
         "@akasha/pages-ui-store": "workspace:*",
@@ -499,7 +499,7 @@
         "@akasha/indexes": "workspace:*",
         "@akasha/k8s-synth": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/pages-system-service": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
         "zod": "^4.3.6",
       },
     },
@@ -549,6 +549,13 @@
       },
       "devDependencies": {
         "@capacitor/cli": "^8.4.1",
+      },
+    },
+    "collections/great-courses": {
+      "name": "@akasha/great-courses",
+      "dependencies": {
+        "@akasha/pages-query": "workspace:*",
+        "jsdom": "^28.1.0",
       },
     },
     "collections/royal-road": {
@@ -845,19 +852,12 @@
     "graph": {
       "name": "@akasha/graph",
     },
-    "great-courses": {
-      "name": "@akasha/great-courses",
-      "dependencies": {
-        "@akasha/pages-query": "workspace:*",
-        "jsdom": "^28.1.0",
-      },
-    },
     "health-samples-access": {
       "name": "@akasha/health-samples-access",
       "dependencies": {
         "@akasha/day": "workspace:*",
         "@akasha/pages": "workspace:*",
-        "@akasha/pages-system-service": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
       },
     },
     "health-samples-day": {
@@ -1169,7 +1169,7 @@
         "@akasha/named-for": "workspace:*",
         "@akasha/pages": "workspace:*",
         "@akasha/pages-core": "workspace:*",
-        "@akasha/pages-system-service": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",
@@ -1204,7 +1204,7 @@
       },
     },
     "pages/system-service": {
-      "name": "@akasha/pages-system-service",
+      "name": "@akasha/pages-service",
       "dependencies": {
         "@akasha/checks": "workspace:*",
         "@akasha/code-system": "workspace:*",
@@ -1293,7 +1293,7 @@
       "name": "@akasha/person-system",
       "dependencies": {
         "@akasha/health-samples-access": "workspace:*",
-        "@akasha/pages-system-service": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/supabase-auth": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
@@ -1320,7 +1320,7 @@
     "readout-system": {
       "name": "@akasha/readout-system",
       "dependencies": {
-        "@akasha/pages-system-service": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
         "zod": "^4.3.6",
       },
       "peerDependencies": {
@@ -2713,7 +2713,7 @@
         "@akasha/pages-access": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/pages-query": "workspace:*",
-        "@akasha/pages-system-service": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
         "@akasha/recurrence": "workspace:*",
         "@akasha/temper-addon-generators": "workspace:*",
         "@akasha/temper-build-codec": "workspace:*",
@@ -3053,7 +3053,7 @@
 
     "@akasha/graph": ["@akasha/graph@workspace:graph"],
 
-    "@akasha/great-courses": ["@akasha/great-courses@workspace:great-courses"],
+    "@akasha/great-courses": ["@akasha/great-courses@workspace:collections/great-courses"],
 
     "@akasha/health-samples-access": ["@akasha/health-samples-access@workspace:health-samples-access"],
 
@@ -3117,7 +3117,7 @@
 
     "@akasha/pages-query": ["@akasha/pages-query@workspace:pages/query"],
 
-    "@akasha/pages-system-service": ["@akasha/pages-system-service@workspace:pages/system-service"],
+    "@akasha/pages-service": ["@akasha/pages-service@workspace:pages/system-service"],
 
     "@akasha/pages-ui": ["@akasha/pages-ui@workspace:pages/ui"],
 

@@ -6,7 +6,6 @@
     "**"
   ],
   "dependencies": {
-    "@akasha/pages-system-service": "workspace:@akasha/pages-service@*",
     "@akasha/analysis-complexity": "workspace:*",
     "@akasha/browser-launch-env": "workspace:*",
     "@akasha/browser-test-harness": "workspace:*",
