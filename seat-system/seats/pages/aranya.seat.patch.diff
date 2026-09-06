@@ -132,3 +132,17 @@ index 0000000000000000000000000000000000000000..15555443f9834645fd6f33efec5a4f96
 +  slug: "collections-secrets-postgres-password",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "POSTGRES_PASSWORD" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-postgrest-db-url.secret.ts b/service-system/secrets/pages/collections-secrets-postgrest-db-url.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..568d5f62d6b38b2841d624572683e85069df51f0
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-postgrest-db-url.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsPostgrestDbUrl = {
++  id: "01a076b7-47e0-7c5e-b785-a3d9bdd0aabf",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-postgrest-db-url",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "POSTGREST_DB_URL" }],
++} as const satisfies Secret
