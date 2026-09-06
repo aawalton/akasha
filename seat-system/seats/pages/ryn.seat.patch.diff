@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/infrastructure/backup-retention/backup-retention.workspace-package.ts b/infrastructure/backup-retention/backup-retention.workspace-package.ts
+index 62568758425915918ea7f8a4d5e7a6d01496fa02..caa3e79ac9367ad20b0ad6a6543e5fd7c1d0dd23 100644
+--- a/infrastructure/backup-retention/backup-retention.workspace-package.ts
++++ b/infrastructure/backup-retention/backup-retention.workspace-package.ts
+@@ -53,7 +53,7 @@ export const backupRetention = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The cluster starts both of these runs on a schedule.",
++      statement: "The cluster runs the promoter and the longtail copier on a schedule.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
