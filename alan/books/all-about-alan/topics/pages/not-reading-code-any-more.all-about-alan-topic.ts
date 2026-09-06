@@ -10,6 +10,4 @@ export const notReadingCodeAnyMore = {
   relatedSlugs: ["when-my-docs-are-my-code"],
   settled:
     "I do not think I have read code at all in 2026.\n\nI read docs, because that is where human intervention is most necessary, especially with the domain system.",
-  unsettled:
-    "How I would find out if the code stopped matching the documentation it runs off is unwritten.\n\nWhat reading docs instead of code costs me, if anything, has not been probed. I have only said I do not miss coding.",
 } as const satisfies AllAboutAlanTopic
