@@ -13,7 +13,7 @@ index e82ba15b20bb164fb438597376cf79202af42313..30cc08ecd57a5838a7fc73f5dcab829d
      read.dryRun
        ? `nothing was put in place — ${DRY_RUN}`
 diff --git a/command-system/commands/index/index.command.ts b/command-system/commands/index/index.command.ts
-index 1aa59aa4de05ea7e346e6b5ce6ff16bdfc4c0040..8823c4cba2e434a85836257443c13950c929d12a 100644
+index 1aa59aa4de05ea7e346e6b5ce6ff16bdfc4c0040..90775d7c0117b38844170bb5db8fe2ee9b9a79ea 100644
 --- a/command-system/commands/index/index.command.ts
 +++ b/command-system/commands/index/index.command.ts
 @@ -4,7 +4,7 @@ export const index = {
@@ -35,6 +35,56 @@ index 1aa59aa4de05ea7e346e6b5ce6ff16bdfc4c0040..8823c4cba2e434a85836257443c13950
    ],
    helpNotes: [
      "refresh is the act it carries, and one call names one act.",
+@@ -35,40 +34,39 @@ export const index = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A worktree standing apart from HEAD is refused.",
++      statement: "The commit the report names is read from HEAD as the repair opens.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "`--unlanded` builds over a worktree standing apart from HEAD.",
++      statement: "The index is repaired in place, file by file.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The commit the index names is stamped by the rebuild rather than by this command.",
++      statement: "The landing lock is held from reading HEAD to the last file written.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The index is built aside and put in place whole.",
++      statement: "A flag belonging to a command that writes is refused rather than ignored.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The landing lock is held from reading HEAD to putting the index in place.",
++      statement: "`--dry-run` says what the repair would change and writes nothing.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag belonging to a command that writes is refused rather than ignored.",
++      statement: "An entry that would not file is refused.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "`--dry-run` builds the index aside and puts nothing in place.",
++      statement: "A path under the index belonging to no index is taken away before the repair.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An entry that would not file is refused.",
++      statement: "A dry run takes none away.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The index that was built still stands.",
++      statement: "The report counts those taken away where any were.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
 index c049133ce6ffad2655675c56e6adacdc5bf20243..5199324f0ab21d9fd436e314e0e32e71e304b1ba 100644
 --- a/pages/indexes/indexing/indexing.module.code.ts
