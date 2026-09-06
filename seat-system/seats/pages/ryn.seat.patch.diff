@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts b/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
+index 52ec3872487ea29ca33e3cad5a746f192b4f7296..80324bdbee50b05c523049756f96762ddfe9a1fc 100644
+--- a/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
++++ b/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
+@@ -9,7 +9,7 @@ export const monarchRuleClauses = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Nothing skips a clause it does not understand.",
++      statement: "Nothing skips a clause that is not understood.",
+     },
+     {
+       invariantKind: "departure",
