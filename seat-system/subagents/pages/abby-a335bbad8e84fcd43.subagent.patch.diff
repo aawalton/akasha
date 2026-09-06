@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/where-my-lotion-bottles-sit.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-my-lotion-bottles-sit.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..309dbd5c2ab76e7871eaa8e2300b54017beabfdd
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-my-lotion-bottles-sit.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereMyLotionBottlesSit = {
++  id: "01a077e7-263a-7d59-8759-a43714d10aa3",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-my-lotion-bottles-sit",
++  topicSlug: "keeping-my-hands-lotioned",
++  ask: "Which rooms hold a lotion bottle, how were those rooms chosen, and what happens when a bottle runs out?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-an-unchosen-disruption-is-a-second-shape.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-an-unchosen-disruption-is-a-second-shape.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f101298ce81c53ef7c9998625e73fb9b9da0b103
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-an-unchosen-disruption-is-a-second-shape.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAnUnchosenDisruptionIsASecondShape = {
++  id: "01a077e7-263b-7a4f-937e-afec23b204d9",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-an-unchosen-disruption-is-a-second-shape",
++  topicSlug: "keeping-my-hands-lotioned",
++  ask: "The lotion shape has no relief direction the way sound and clothes do, and the disruption is done to me rather than chosen. Does that refine the one cost mechanism or make a second shape?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-lotion-brand-i-keep.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-lotion-brand-i-keep.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..577bb58b9bb0264b66f4da1f222647f699dc9241
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-lotion-brand-i-keep.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichLotionBrandIKeep = {
++  id: "01a077e7-2639-79d1-bcf2-485c316e3559",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-lotion-brand-i-keep",
++  topicSlug: "keeping-my-hands-lotioned",
++  ask: "Which lotion brand do I keep, and what about its texture or its scent makes that brand the one?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-i-wait-five-minutes-after-a-handwash.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-i-wait-five-minutes-after-a-handwash.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3508cfc0dfe2a4ae3b6c51aa1d3c6a9df0c409b8
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/why-i-wait-five-minutes-after-a-handwash.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whyIWaitFiveMinutesAfterAHandwash = {
++  id: "01a077e7-263b-7c2f-ad7f-e9196bb0f698",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "why-i-wait-five-minutes-after-a-handwash",
++  topicSlug: "keeping-my-hands-lotioned",
++  ask: "Why do I wait five minutes after a handwash rather than two or ten, and is that skin biology or just where I landed?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/keeping-my-hands-lotioned.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/keeping-my-hands-lotioned.all-about-alan-topic.ts
+index fc8f21104458ec71edf6593833a0318c739f3f05..168203f5a846974fde8fe2963a9b713403f73d25 100644
+--- a/alan/books/all-about-alan/topics/pages/keeping-my-hands-lotioned.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/keeping-my-hands-lotioned.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const keepingMyHandsLotioned = {
+   parentSlugs: ["what-my-senses-cost-me"],
+   settled:
+     "Dry skin costs me even when I am touching nothing, so the layer is maintained rather than reached for.\n\nEvery handwash strips it, and I put it back about five minutes later, once the skin is dry enough to hold it.\n\nBottles in more than a dozen places, all the same brand.",
+-  unsettled:
+-    "Which brand, and what about its texture or its scent makes it the one, is unrecorded.\n\nWhich rooms hold a bottle, how they were chosen, and what happens when one runs out is uncaptured.\n\nWhy five minutes rather than two or ten, whether that is skin biology or just where I landed, is unasked.\n\nThis shape has no relief direction, unlike sound and clothes. The disruption is done to me rather than chosen. Whether that refines the one cost mechanism or is a second shape of its own is open.",
+ } as const satisfies AllAboutAlanTopic
