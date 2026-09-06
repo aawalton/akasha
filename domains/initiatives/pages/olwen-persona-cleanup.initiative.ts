@@ -15,12 +15,12 @@ export const olwenPersonaCleanup = {
     {
       statement: "All persona files are organized in the personas/ folder.",
       workingMemory:
-        "`persona-system/` holds 2,995 files across 15 folders, and `personas/` is one its workspace package declares no part for. 9 files carry 11 spellings of `@akasha/persona-system` and nothing outside reaches in by a relative path, so the npm rename is small. Nothing claims `workspace-package/persona`, and the persona page type already states `personas` as its plural.",
+        "`personas/` holds 2,995 files across 15 folders, and `personas/` is one its workspace package declares no part for. 9 files carry 11 spellings of `@akasha/persona-system` and nothing outside reaches in by a relative path, so the npm rename is small. Nothing claims `workspace-package/persona`, and the persona page type already states `personas` as its plural.",
     },
     {
       statement: "The personas/ folder passes the folder-matches-a-shape check.",
       workingMemory:
-        "The check refuses 102 times over `persona-system/`. 96 are the dated folders under `persona-days/pages/`, each holding a page per persona where a shape takes one. The rest are the package root, `personas/` holding three pages at its own root, and the `pages/` folders under `questions/` and `review-sessions/`.",
+        "The check refuses 102 times over `personas/`. 96 are the dated folders under `persona-days/pages/`, each holding a page per persona where a shape takes one. The rest are the package root, `personas/` holding three pages at its own root, and the `pages/` folders under `questions/` and `review-sessions/`.",
     },
   ],
 } as const satisfies Initiative

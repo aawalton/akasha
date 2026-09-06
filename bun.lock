@@ -1304,7 +1304,7 @@
         "react": "^18 || ^19",
       },
     },
-    "persona-system": {
+    "personas": {
       "name": "@akasha/persona-system",
       "dependencies": {
         "@akasha/pages": "workspace:*",
@@ -3133,7 +3133,7 @@
 
     "@akasha/person-system": ["@akasha/person-system@workspace:person-system"],
 
-    "@akasha/persona-system": ["@akasha/persona-system@workspace:persona-system"],
+    "@akasha/persona-system": ["@akasha/persona-system@workspace:personas"],
 
     "@akasha/personas-core": ["@akasha/personas-core@workspace:personas-core"],
 

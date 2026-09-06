@@ -4,7 +4,7 @@ import { bodyAt, filedAmong, filedValue } from "./page-file-body.module.code.ts"
 
 const ROOT = join(import.meta.dir, "..", "..")
 
-const A_PERSONA_AT = "persona-system/ember/ember.persona.ts"
+const A_PERSONA_AT = "personas/ember/ember.persona.ts"
 
 const PORTRAIT = { key: "portrait", propertySlug: "portrait", pageTypeSlug: "file-property" }
 
@@ -31,7 +31,7 @@ test("a file the page names that is not there is refused", () => {
 })
 
 test("a path that is no page file is refused", () => {
-  const said = bodyAt(ROOT, "persona-system/ember/ember.persona.portrait.md", "portrait", "md")
+  const said = bodyAt(ROOT, "personas/ember/ember.persona.portrait.md", "portrait", "md")
   expect("refused" in said && said.refused).toContain("is no page file")
 })
 
