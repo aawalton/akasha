@@ -1,0 +1,21 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/pages/rename-path/rename-path.change.code.ts b/changes/pages/rename-path/rename-path.change.code.ts
+index 86629daee04b8e941c0dfed7db8fd946c11e1721..b272b91ac038a400af51cfbcf83385f8846648e6 100644
+--- a/changes/pages/rename-path/rename-path.change.code.ts
++++ b/changes/pages/rename-path/rename-path.change.code.ts
+@@ -4,12 +4,12 @@ import type { Answer, Edit } from "../../modules/change-answer/change-answer.mod
+ import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+ import { repointed } from "../repoint-imports/repoint-imports.change.code.ts"
+ 
+-export type Asked = {
++export type RenamePathAsked = {
+   readonly from: string
+   readonly to: string
+ }
+ 
+-export function renamePath(world: World, given: Asked): Answer {
++export function renamePath(world: World, given: RenamePathAsked): Answer {
+   if (given.from === given.to) return refusing(`\`${given.to}\` is the path it already sits at`)
+   const text = world.textOf(given.from)
+   if (text === null) return refusing(`\`${given.from}\` could not be read`)
