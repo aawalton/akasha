@@ -1,0 +1,13 @@
+diff --git a/command-system/commands/refactor/package-renaming/package-renaming.module.ts b/command-system/commands/refactor/package-renaming/package-renaming.module.ts
+index 338912ebb23897091de5876e1841ba5fc2904e92..f69d16cfcb4fbc7ed0602cf41fb20eae57beec1f 100644
+--- a/command-system/commands/refactor/package-renaming/package-renaming.module.ts
++++ b/command-system/commands/refactor/package-renaming/package-renaming.module.ts
+@@ -30,7 +30,7 @@ export const packageRenaming = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A longer name this one only opens is not the package.",
++      statement: "A longer name the package's name only opens is not the package.",
+     },
+     {
+       invariantKind: "departure",
