@@ -6,8 +6,6 @@ import { parsePageSeq } from "../parse-page-seq/parse-page-seq.module.code.ts"
 import type { RawPageRow } from "../raw-page-row/raw-page-row.module.code.ts"
 import type { QueryRow } from "../types/types.module.code.ts"
 
-export type FilePageRow = Omit<RawPageRow, "seq"> & { readonly seq: number | null }
-
 const LIFTED_COLUMN = {
   id: "id",
   title: "title",
@@ -127,7 +125,7 @@ export function buildRawPageRows({
   definitions,
   pageTypeId,
   pageTypeSlug,
-}: BuildRowsArgs): readonly FilePageRow[] {
+}: BuildRowsArgs): readonly RawPageRow[] {
   const typeOf = new Map(definitions.map((d) => [d.id, d.type]))
   return rows.map((row) => {
     const attributes: Record<string, unknown> = {}
