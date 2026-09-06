@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/readout-system/readout-system.workspace-package.ts b/readout-system/readout-system.workspace-package.ts
+index 270ff693d88406832036a86cb4d305aa0a0f187f..f281d6de3038b6dc0007bcc1f1da38a7ee95f3b7 100644
+--- a/readout-system/readout-system.workspace-package.ts
++++ b/readout-system/readout-system.workspace-package.ts
+@@ -70,7 +70,7 @@ export const readoutSystem = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A feed sending no reading is the one feed a readout refuses.",
++      statement: "A feed sending no reading is the single feed a readout refuses.",
+     },
+     {
+       invariantKind: "gap",
