@@ -14,12 +14,19 @@ export const apnsPushNotifier = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Nothing is sent while `APNS_AUTH_KEY_P8` is unset, and the feed is followed.",
+      statement: "Nothing is sent while `APNS_AUTH_KEY_P8` is unset.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A push is claimed before that push is sent, so a notification read twice is pushed once.",
+      statement: "The feed is followed while `APNS_AUTH_KEY_P8` is unset.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A push is claimed before that push is sent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A notification read twice is pushed once.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +34,11 @@ export const apnsPushNotifier = {
     },
     {
       invariantKind: "departure",
-      statement: "No push carries an app-icon badge, and nothing refreshes one.",
+      statement: "No push carries an app-icon badge.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing refreshes an app-icon badge.",
     },
     {
       invariantKind: "gap",
