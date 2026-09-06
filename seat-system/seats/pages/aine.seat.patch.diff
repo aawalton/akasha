@@ -1,0 +1,60 @@
+diff --git a/alan/books/my-projects/sections/second-passport.book-section.chapter-text.md b/alan/books/my-projects/sections/second-passport.book-section.chapter-text.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..b727290f82c3d6c691beb3b4062f0ef6e2dd092f
+--- /dev/null
++++ b/alan/books/my-projects/sections/second-passport.book-section.chapter-text.md
+@@ -0,0 +1,5 @@
++# Second Passport
++
++A second citizenship for a family of five.
++
++The sections beneath this one carry the routes by active income and by passive income, and the country readings for citizenship and residency inside the EU and outside it. Each country reading is a snapshot of the law at the date that reading names.
+diff --git a/alan/books/my-projects/sections/second-passport.book-section.ts b/alan/books/my-projects/sections/second-passport.book-section.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5651f7c13e643153e6a1d2e44d89c6fd6a4b08e5
+--- /dev/null
++++ b/alan/books/my-projects/sections/second-passport.book-section.ts
+@@ -0,0 +1,13 @@
++import type { BookSection } from "../../../library/reading/book-chapters/book-section.page-type.ts"
++
++export const secondPassport = {
++  id: "01a076ee-ecd6-776d-aa3a-59a3ad29206f",
++  pageTypeSlug: "book-section",
++  slug: "second-passport",
++  title: "Second Passport",
++  description:
++    "Finding a second citizenship for the family. The sections beneath hold the routes by active income and by passive income, and country-by-country readings of citizenship and residency inside the EU and outside it, each a snapshot of the law as it was on the date that reading names.",
++  partOfSlugs: ["my-projects"],
++  unitSlug: "words",
++  chapterText: "md",
++} as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power.book-section.chapter-text.md b/alan/books/my-projects/sections/solar-power.book-section.chapter-text.md
+new file mode 100644
+index 0000000000000000000000000000000000000000..2917641cc729e2c9456955c1ae5ef990a47188a0
+--- /dev/null
++++ b/alan/books/my-projects/sections/solar-power.book-section.chapter-text.md
+@@ -0,0 +1,5 @@
++# Solar Power
++
++Generation on the roof of the Provo house, sized against what the household actually uses.
++
++The sections beneath this one carry the scope, the demand figures, the sizing, the pricing, the installers, and what the interconnection allows.
+diff --git a/alan/books/my-projects/sections/solar-power.book-section.ts b/alan/books/my-projects/sections/solar-power.book-section.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b8000cede2ee2567a3b2c2dd0b3ce9bf8deb754e
+--- /dev/null
++++ b/alan/books/my-projects/sections/solar-power.book-section.ts
+@@ -0,0 +1,13 @@
++import type { BookSection } from "../../../library/reading/book-chapters/book-section.page-type.ts"
++
++export const solarPower = {
++  id: "01a076ee-ecd3-735d-8f62-ba763d3bcbc1",
++  pageTypeSlug: "book-section",
++  slug: "solar-power",
++  title: "Solar Power",
++  description:
++    "Putting photovoltaic generation on the Provo house, and the envelope work that sets how much generation the house needs. The sections beneath hold the scope, the demand the system is sized against, the sizing itself, the pricing, the installers, and the interconnection the design must fit.",
++  partOfSlugs: ["my-projects"],
++  unitSlug: "words",
++  chapterText: "md",
++} as const satisfies BookSection
