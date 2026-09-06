@@ -11,3 +11,42 @@ index c415f25bd5438210be1bc545f5c214216a3e057b..b6653475c11f07bd12243ab29920c850
  }
  
  export interface PropertyWrite {
+diff --git a/pages/ui/supabase/use-view-callbacks/use-view-callbacks.module.code.ts b/pages/ui/supabase/use-view-callbacks/use-view-callbacks.module.code.ts
+index 3a86837e046f62a4f9d86dd46fbe52b297d1e3f4..b1ae9c139b80f4163ce6b02bf2e676b78fec38b2 100644
+--- a/pages/ui/supabase/use-view-callbacks/use-view-callbacks.module.code.ts
++++ b/pages/ui/supabase/use-view-callbacks/use-view-callbacks.module.code.ts
+@@ -36,11 +36,11 @@ function projectViewRows(views: readonly PageWithProperties[]): readonly ViewRow
+ 
+ export function useSupabaseViewCallbacks({
+   userId,
+-  ownerNavItemId,
++  ownerNavSlug,
+   views,
+ }: {
+   userId: string
+-  ownerNavItemId: string
++  ownerNavSlug: string
+   views: readonly PageWithProperties[]
+ }): ViewCallbacks {
+   const boundCreate = useCallback((args: CreatePageArgs): Promise<Page> => createPage(args), [])
+@@ -63,7 +63,7 @@ export function useSupabaseViewCallbacks({
+       for (const effect of effects) {
+         switch (effect.kind) {
+           case "createPage": {
+-            const initial: Record<string, Json> = { userId }
++            const initial: Record<string, Json> = {}
+             for (const pw of effect.properties ?? []) {
+               if (!isJson(pw.value)) {
+                 throw new Error(
+@@ -133,9 +133,9 @@ export function useSupabaseViewCallbacks({
+   const buildCtx = useCallback(
+     () => ({
+       newPageId: crypto.randomUUID(),
+-      ownerNavItemId,
++      ownerNavSlug,
+     }),
+-    [ownerNavItemId]
++    [ownerNavSlug]
+   )
+ 
+   const onCreateView = useCallback(
