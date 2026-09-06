@@ -1,0 +1,12 @@
+diff --git a/changes/runners/pages/change-running/probe.ts b/changes/runners/pages/change-running/probe.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..383c07812d379e36c5581ecf77e30b217a7873c7
+--- /dev/null
++++ b/changes/runners/pages/change-running/probe.ts
+@@ -0,0 +1,6 @@
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { runChange } from "./change-running.change-runner.code.ts"
++
++export async function probe(world: World) {
++  return await runChange(world, "change-command/no-such-change", { at: "x" })
++}
