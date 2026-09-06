@@ -909,3 +909,211 @@ index 7da8713269fa26473f7b8114b3eae05c1fdc5741..1999bb8ebc28104a6d8f99abe068f66a
    unitSlug: "words",
    chapterText: "md",
  } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-andorra.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-andorra.book-section.ts
+index b650a480d3756c005af3540bd9be1b213fdbbf66..780090744239233fe1b7babb9b5149a1341f3823 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-andorra.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-andorra.book-section.ts
+@@ -6,7 +6,7 @@ export const otherResidencyAndorra = {
+   slug: "other-residency-andorra",
+   title: "Andorra",
+   description: "Andorra residency paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-australia.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-australia.book-section.ts
+index 9827cb4852cce23bc96bec91a9b4ef50b5681561..43788db84d83fc749b45cba232ee1ea18bf0d038 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-australia.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-australia.book-section.ts
+@@ -7,7 +7,7 @@ export const otherResidencyAustralia = {
+   title: "Australia",
+   description:
+     "Australia residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/australia.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-canada.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-canada.book-section.ts
+index 54c546f6ac823b49bae390191ec8b929df76d57a..71f192d8568596f1e5b746a63373fbdbb791fae2 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-canada.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-canada.book-section.ts
+@@ -6,7 +6,7 @@ export const otherResidencyCanada = {
+   slug: "other-residency-canada",
+   title: "Canada",
+   description: "Canada residency paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-iceland.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-iceland.book-section.ts
+index 0246e605bf93df9ada5693ed099c35ed3bf96706..9c4678e50dc1b52ffce898e2ee102777d2252460 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-iceland.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-iceland.book-section.ts
+@@ -6,7 +6,7 @@ export const otherResidencyIceland = {
+   slug: "other-residency-iceland",
+   title: "Iceland",
+   description: "Iceland residency paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-japan.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-japan.book-section.ts
+index 4eea42f18717873e90af85810d4c92362407e6d4..70e34badb96f89578e3d8f0d82b8f8ae4035eb35 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-japan.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-japan.book-section.ts
+@@ -6,7 +6,7 @@ export const otherResidencyJapan = {
+   slug: "other-residency-japan",
+   title: "Japan",
+   description: "Japan residency paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-liechtenstein.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-liechtenstein.book-section.ts
+index 2544f3cb95358aee9936149bce8c9b89af772212..e3426becae3490e9145a3536c871110812d0ba4e 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-liechtenstein.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-liechtenstein.book-section.ts
+@@ -6,7 +6,7 @@ export const otherResidencyLiechtenstein = {
+   slug: "other-residency-liechtenstein",
+   title: "Liechtenstein",
+   description: "Liechtenstein residency paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-mexico.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-mexico.book-section.ts
+index aa9bcd7ae1dd817b1c194a97fbc55c30c2a4ccb5..f523ddef24c9383d091400b12040750276f47e1c 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-mexico.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-mexico.book-section.ts
+@@ -6,7 +6,7 @@ export const otherResidencyMexico = {
+   slug: "other-residency-mexico",
+   title: "Mexico",
+   description: "Mexico residency paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-monaco.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-monaco.book-section.ts
+index fc88735044cd44f5d489975db68e771b4933eaba..c045ddfd53c94db3c49574ce965cff8af0881924 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-monaco.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-monaco.book-section.ts
+@@ -6,7 +6,7 @@ export const otherResidencyMonaco = {
+   slug: "other-residency-monaco",
+   title: "Monaco",
+   description: "Monaco residency paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-new-zealand.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-new-zealand.book-section.ts
+index 91545ef42946d7829402dc9243d5d030f059c0cf..6e51111050f3e22550d70acff876c68da838da9b 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-new-zealand.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-new-zealand.book-section.ts
+@@ -6,7 +6,7 @@ export const otherResidencyNewZealand = {
+   slug: "other-residency-new-zealand",
+   title: "New Zealand",
+   description: "New Zealand residency paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-norway.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-norway.book-section.ts
+index 51cd21e5de42f7f6123374192679adfb50ce4f57..3888d3306fa9d8a30f4c07d27cfb993c60daa9a8 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-norway.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-norway.book-section.ts
+@@ -6,7 +6,7 @@ export const otherResidencyNorway = {
+   slug: "other-residency-norway",
+   title: "Norway",
+   description: "Norway residency paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-san-marino.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-san-marino.book-section.ts
+index c73b7d227ac6a95eb3dd5498c97461aeba18b8d3..9587c539d9433811d4908d1eaf7c4fa1bef3d4a3 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-san-marino.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-san-marino.book-section.ts
+@@ -6,7 +6,7 @@ export const otherResidencySanMarino = {
+   slug: "other-residency-san-marino",
+   title: "San Marino",
+   description: "San Marino residency paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-south-korea.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-south-korea.book-section.ts
+index c6312a648ceb4622ace40c5cce93988dc99057d1..bf10d5718bdc2a77aa06fe73244ab183f4dd7c62 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-south-korea.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-south-korea.book-section.ts
+@@ -6,7 +6,7 @@ export const otherResidencySouthKorea = {
+   slug: "other-residency-south-korea",
+   title: "South Korea",
+   description: "South Korea residency paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-summary.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-summary.book-section.ts
+index fb71aff710742666c1b61bcb68441fff84776bc6..d945ded45b3ac139b337e01c04c2fa54f506216b 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-summary.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-summary.book-section.ts
+@@ -5,7 +5,7 @@ export const otherResidencySummary = {
+   pageTypeSlug: "book-section",
+   slug: "other-residency-summary",
+   title: "Summary",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-switzerland.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-switzerland.book-section.ts
+index 26d81a8eee7a9180c952be35134c5a3b6ea61148..d481eda7be2901238f0e9de8f4ed0721372820c9 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-switzerland.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-switzerland.book-section.ts
+@@ -6,7 +6,7 @@ export const otherResidencySwitzerland = {
+   slug: "other-residency-switzerland",
+   title: "Switzerland",
+   description: "Switzerland residency paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-uk.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-uk.book-section.ts
+index 851626ee669b50fef49d4b9de955e8f478ae04b7..64f07461decbb9b35cc89439caa93e67509d0c39 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-uk.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-uk.book-section.ts
+@@ -7,7 +7,7 @@ export const otherResidencyUk = {
+   title: "Uk",
+   description:
+     "UK residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/uk.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-uruguay.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-uruguay.book-section.ts
+index 26d8e48c6289e0d2b2b7cc119f5a84664c52e413..2565286127fe2811cd316161c61255194679c19f 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-uruguay.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-uruguay.book-section.ts
+@@ -6,7 +6,7 @@ export const otherResidencyUruguay = {
+   slug: "other-residency-uruguay",
+   title: "Uruguay",
+   description: "Uruguay residency paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
