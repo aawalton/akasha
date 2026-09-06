@@ -1,3 +1,18 @@
+diff --git a/readout-system/package.json b/readout-system/package.json
+index 2d0b359c96217bbae3b5f7331c176701d786c2ad..279ebd5974686ce1e5a1810029fd990da764d5f2 100644
+--- a/readout-system/package.json
++++ b/readout-system/package.json
+@@ -28,7 +28,9 @@
+     "./readout-reading": "./readout-reading/readout-reading.module.code.ts",
+     "./readout-relay": "./readout-relay/readout-relay.module.code.ts",
+     "./readout-scale-reading": "./readout-scale-reading/readout-scale-reading.module.code.ts",
+-    "./readout-tier": "./readout-tier/readout-tier.module.code.ts"
++    "./readout-tier": "./readout-tier/readout-tier.module.code.ts",
++    "./widget-tap-counting": "./widget-tap-counting/widget-tap-counting.module.code.ts",
++    "./widget-tap-link": "./widget-tap-link/widget-tap-link.module.code.ts"
+   },
+   "dependencies": {
+     "@akasha/pages-service": "workspace:*",
 diff --git a/readout-system/readout-system.workspace-package.ts b/readout-system/readout-system.workspace-package.ts
 index f281d6de3038b6dc0007bcc1f1da38a7ee95f3b7..31e13c8e45bd6ab81a9be6ff32499f488b7775a0 100644
 --- a/readout-system/readout-system.workspace-package.ts
