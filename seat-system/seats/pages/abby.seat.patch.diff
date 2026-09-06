@@ -60,20 +60,6 @@ index 0000000000000000000000000000000000000000..63641ef2722c5ba9d086d279396f611a
 +  topicSlug: "how-i-remember-anything",
 +  ask: "How wide does a level of one of my memory trees get before I split it, how deep do the trees run, and what makes me choose a level's cue?",
 +} as const satisfies AllAboutAlanQuestion
-diff --git a/alan/books/all-about-alan/questions/pages/when-a-memory-cue-misses.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/when-a-memory-cue-misses.all-about-alan-question.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..8b145214a81576dd0cc0675d89b2ce3b252a2c1b
---- /dev/null
-+++ b/alan/books/all-about-alan/questions/pages/when-a-memory-cue-misses.all-about-alan-question.ts
-@@ -0,0 +1,8 @@
-+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
-+
-+export const whenAMemoryCueMisses = {
-+  pageTypeSlug: "all-about-alan-question",
-+  slug: "when-a-memory-cue-misses",
-+  topicSlug: "how-i-remember-anything",
-+  ask: "What makes one of my cues miss, and has a cue ever fired and brought me the wrong thing?",
-+} as const satisfies AllAboutAlanQuestion
 diff --git a/alan/books/all-about-alan/questions/pages/where-cueing-stops-working.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-cueing-stops-working.all-about-alan-question.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..f76ded80598d74155b8c8ab5e2987c24490770f7
