@@ -17,7 +17,7 @@ export const composeSeatName = {
     },
     {
       invariantKind: "departure",
-      statement: "An empty attribute is left out of the name the same way a missing one is.",
+      statement: "An empty attribute is left out of the name the same way a missing attribute is.",
     },
     {
       invariantKind: "departure",
