@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
-index fbc7a9818ae1fc6199af11edf6429bbe8c499ead..4fafa392a83297d93d3323d82973610fc25c4739 100644
+index fbc7a9818ae1fc6199af11edf6429bbe8c499ead..59cb8e0ebb412452dd6aeba554bf52406e58d70d 100644
 --- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
 +++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
 @@ -9,7 +9,7 @@ export const monarchRuleDocuments = {
@@ -8,6 +8,16 @@ index fbc7a9818ae1fc6199af11edf6429bbe8c499ead..4fafa392a83297d93d3323d82973610f
        invariantKind: "departure",
 -      statement: "The rules are TypeScript pages, one file to a rule.",
 +      statement: "The rules are TypeScript pages with one file to a rule.",
+     },
+     {
+       invariantKind: "departure",
+@@ -25,8 +25,7 @@ export const monarchRuleDocuments = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Two pages carrying one slug are refused, because nothing would say which is the rule.",
++      statement: "Two pages carrying one slug are refused.",
      },
      {
        invariantKind: "departure",
