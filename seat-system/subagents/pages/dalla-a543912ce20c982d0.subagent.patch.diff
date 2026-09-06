@@ -69,6 +69,18 @@ index be09656e00895bfd5ee55c4cc17e81f07fb11267..fea323f128c4cae696d076e516f49272
 -  return { bodies, refused: null }
 +  return respelled(root, given.at, over, given.of, given.to, textOf)
  }
+diff --git a/code-system/code-system.workspace-package.ts b/code-system/code-system.workspace-package.ts
+index eb639a346dc685c03db7523c9eb3e23126bafd8d..8f72bc6566fc086f3d732f01d86f04cf0eabbc42 100644
+--- a/code-system/code-system.workspace-package.ts
++++ b/code-system/code-system.workspace-package.ts
+@@ -50,6 +50,7 @@ export const codeSystem = {
+     "module/package-manifest",
+     "module/shape-progress",
+     "module/carried-file",
++    "module/export-respelling",
+     "module/name-series",
+   ],
+ } as const satisfies WorkspacePackage
 diff --git a/code-system/export-respelling/export-respelling.module.code.ts b/code-system/export-respelling/export-respelling.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..ece8e1e39057724dc483bd015c34d1e1b8ff9875
@@ -312,3 +324,15 @@ index 0000000000000000000000000000000000000000..779125b0e023d7071b7050cdfdc76b29
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/code-system/package.json b/code-system/package.json
+index 43b0cc27e7e2d7cf17a44fbb0aff6de6bb604536..1477f7e1467221b1f596249e0733859bd4946efa 100644
+--- a/code-system/package.json
++++ b/code-system/package.json
+@@ -22,6 +22,7 @@
+     "./eso-addon": "./eso-addons/eso-addon.page-type.ts",
+     "./eso-addon/bindings": "./eso-addons/properties/bindings.named-file-property.ts",
+     "./eso-interface": "./eso-interfaces/eso-interface.page-type.ts",
++    "./export-respelling": "./export-respelling/export-respelling.module.code.ts",
+     "./ios-app": "./ios-apps/ios-app.page-type.ts",
+     "./ios-program/alanwalton-decode-harness": "./ios-programs/pages/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts",
+     "./ios-program/alanwalton-widget": "./ios-programs/pages/alanwalton-widget/alanwalton-widget.ios-program.ts",
