@@ -1,0 +1,36 @@
+diff --git a/alan/fitness/exercise-access/session-volume/session-volume.module.code.ts b/alan/fitness/exercise-access/session-volume/session-volume.module.code.ts
+index 7225ac563b235fe28331816fb682e1b8ebaa5757..db516de6fc116bc3f1332a23c2dd6efde7e333dd 100644
+--- a/alan/fitness/exercise-access/session-volume/session-volume.module.code.ts
++++ b/alan/fitness/exercise-access/session-volume/session-volume.module.code.ts
+@@ -13,7 +13,9 @@ const EXERCISE = "exercise"
+ 
+ const WORKOUT_SESSION = "workout-session"
+ 
+-const CLIENT_PROFILE = "client-profile"
++const PERSON = "person"
++
++const ALAN = "alan"
+ 
+ export type Counted = { readonly volume: number } | { readonly refused: string }
+ 
+@@ -65,14 +67,18 @@ export function exerciseSlugsIn(setLogs: readonly Row[]): readonly string[] {
+ }
+ 
+ export async function statedBodyweight(): Promise<Weighed> {
+-  const found = await rowsFor({ pageTypeSlug: CLIENT_PROFILE, select: ["id", "bodyweight"] })
++  const found = await rowsFor({
++    pageTypeSlug: PERSON,
++    where: [{ key: "slug", eq: ALAN }],
++    select: ["id", "bodyweight"],
++  })
+   if ("unread" in found) return { refused: found.unread }
+   const first = found.rows[0]
+   const bodyweight = first === undefined ? undefined : numberIn(first, "bodyweight")
+   if (bodyweight === undefined) {
+     return {
+       refused:
+-        "no `client-profile` page states a bodyweight, and volume counted without one counts every " +
++        "the `person/alan` page states no bodyweight, and volume counted without one counts every " +
+         "bodyweight movement as nothing",
+     }
+   }
