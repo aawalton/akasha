@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
-index 2366ad1a4ca599711b9290dcfd6fb11f7e12c7e4..5be2afacd6a796d2fd657b6c48a17b5271066b47 100644
+index 2366ad1a4ca599711b9290dcfd6fb11f7e12c7e4..833194b06f22f01542874c43a9eba60463bb4e3e 100644
 --- a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
 +++ b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
 @@ -9,7 +9,7 @@ export const dueReminderSending = {
@@ -12,7 +11,17 @@ index 2366ad1a4ca599711b9290dcfd6fb11f7e12c7e4..5be2afacd6a796d2fd657b6c48a17b52
      },
      {
        invariantKind: "departure",
-@@ -55,7 +55,7 @@ export const dueReminderSending = {
+@@ -45,8 +45,7 @@ export const dueReminderSending = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A reminder whose message is refused stays due, so the next run tries that reminder again.",
++      statement: "A reminder whose message is refused stays due.",
+     },
+     {
+       invariantKind: "departure",
+@@ -55,7 +54,7 @@ export const dueReminderSending = {
      },
      {
        invariantKind: "departure",
