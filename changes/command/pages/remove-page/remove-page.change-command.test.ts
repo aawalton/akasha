@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  NOTHING_OVER,
+  type World,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { removePage } from "./remove-page.change-command.code.ts"
 
 const ASKED = "the world was asked"
@@ -17,6 +20,7 @@ const UNASKED: World = {
   textOf: () => {
     throw new Error(ASKED)
   },
+  over: NOTHING_OVER,
 }
 
 test("a page type is refused, and the refusal names the change that takes a page type away", () => {

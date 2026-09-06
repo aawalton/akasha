@@ -19,6 +19,18 @@ export const changeGuarding = {
     },
     {
       invariantKind: "departure",
+      statement: "The answer the world already holds is gathered with the answer judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file an earlier answer took away is gone from the files a guard reads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two answers that will not gather refuse rather than being judged apart.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A guard is handed the world the change read before that change answered.",
     },
     {

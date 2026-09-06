@@ -42,6 +42,18 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "A world carries the answer that world was built over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world over no answer carries an answer holding no edit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world built over a second answer carries both answers gathered.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A path an answer writes reads back the body that answer leaves at the path.",
     },
     {

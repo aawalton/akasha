@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+import { NOTHING_OVER, type World } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { addFile } from "./add-file.change.code.ts"
 
 const AT = "akasha/one.held.ts"
@@ -9,6 +9,7 @@ function worldOf(held: Readonly<Record<string, string>>): World {
     root: "/nowhere",
     index: {} as World["index"],
     textOf: (path) => held[path] ?? null,
+    over: NOTHING_OVER,
   }
 }
 

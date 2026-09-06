@@ -5,7 +5,10 @@ import {
   writing,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  NOTHING_OVER,
+  type World,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { partsOf, ranBy } from "./change-running.change-runner.code.ts"
 
 const AT = "akasha/one.held.ts"
@@ -13,7 +16,12 @@ const AT = "akasha/one.held.ts"
 const WROTE: Answer = answered([writing(AT, null, "held\n")])
 
 function worldOf(): World {
-  return { root: "/nowhere", index: {} as World["index"], textOf: () => null }
+  return {
+    root: "/nowhere",
+    index: {} as World["index"],
+    textOf: () => null,
+    over: NOTHING_OVER,
+  }
 }
 
 test("an address is parted at the first slash into a page type and a slug", () => {

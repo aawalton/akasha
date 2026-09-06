@@ -6,6 +6,7 @@ import {
   shadowAt,
   shadowFor,
 } from "../../../pages/shadow/shadow.module.code.ts"
+import { gathered } from "../change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../change-answer/change-answer.module.types.ts"
 
 const BYTES = new TextEncoder()
@@ -15,7 +16,10 @@ export type World = {
   readonly root: string
   readonly index: Answering
   readonly textOf: (path: string) => string | null
+  readonly over: Answer
 }
+
+export const NOTHING_OVER: Answer = { edits: [], refused: null }
 
 function bytesOf(body: string | null): Uint8Array | null {
   return body === null ? null : BYTES.encode(body)
@@ -60,7 +64,7 @@ function bodiesIn(said: Answer): ReadonlyMap<string, string | null> {
 }
 
 export function worldAt(root: string, textOf: (path: string) => string | null): World {
-  return { root, index: shadowAt(root).index, textOf }
+  return { root, index: shadowAt(root).index, textOf, over: NOTHING_OVER }
 }
 
 export function worldOver(world: World, said: Answer): World {
@@ -70,5 +74,6 @@ export function worldOver(world: World, said: Answer): World {
     root: world.root,
     index,
     textOf: (path) => (held.has(path) ? (held.get(path) ?? null) : world.textOf(path)),
+    over: gathered([world.over, said]),
   }
 }
