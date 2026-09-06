@@ -1,0 +1,89 @@
+diff --git a/infrastructure/cluster-operations/create-tunnel/create-tunnel.shell-script.shell.sh b/infrastructure/cluster-operations/create-tunnel/create-tunnel.shell-script.shell.sh
+index 66885ff29abae33604af727cb207f5b4e92ec79c..8621630b62d74c3df14e4629b60008743d246914 100644
+--- a/infrastructure/cluster-operations/create-tunnel/create-tunnel.shell-script.shell.sh
++++ b/infrastructure/cluster-operations/create-tunnel/create-tunnel.shell-script.shell.sh
+@@ -14,7 +14,7 @@ if [[ $# -lt 1 ]]; then
+   echo "Create a new Cloudflare Tunnel and generate K8s secret + configmap."
+   echo ""
+   echo "Options:"
+-  echo "  --force    Overwrite existing cloudflared.k8s-secret.sops.yaml"
++  echo "  --force    Overwrite the credentials the cloudflared-creds page already holds"
+   echo ""
+   echo "Prerequisites:"
+   echo "  - cloudflared CLI installed and authenticated (cert.pem in ~/.cloudflared/)"
+@@ -30,7 +30,8 @@ if [[ "${2:-}" == "--force" ]]; then
+ fi
+ 
+ CLOUDFLARED_DIR="${CLOUDFLARED_DIR:-${HOME}/.cloudflared}"
+-SOPS_SECRET="${AKASHA_ROOT}/service-system/cluster-services/pages/cloudflared/cloudflared.k8s-secret.sops.yaml"
++CREDS_PAGE="service-system/secrets/pages/cloudflared-creds-credentials-json.secret.ts"
++CREDS_HELD="${AKASHA_ROOT}/service-system/secrets/pages/cloudflared-creds-credentials-json.secret.sops.yaml"
+ TUNNEL_CONFIG="${AKASHA_ROOT}/service-system/cluster-services/pages/cloudflared/config-header.yaml"
+ 
+ if ! command -v cloudflared &>/dev/null; then
+@@ -45,8 +46,8 @@ if [[ ! -f "${CLOUDFLARED_DIR}/cert.pem" ]]; then
+   die "No cert.pem found at ${CLOUDFLARED_DIR}/cert.pem — run: cloudflared tunnel login"
+ fi
+ 
+-if [[ -f "$SOPS_SECRET" && "$FORCE" != true ]]; then
+-  die "Secret already exists at ${SOPS_SECRET} — use --force to overwrite"
++if [[ -f "$CREDS_HELD" && "$FORCE" != true ]]; then
++  die "The cloudflared-creds page already holds credentials — use --force to overwrite"
+ fi
+ 
+ log "Creating Cloudflare Tunnel: ${TUNNEL_NAME}"
+@@ -66,35 +67,16 @@ if [[ ! -f "$CREDS_FILE" ]]; then
+ fi
+ 
+ log "Reading credentials from ${CREDS_FILE}"
+-if [[ "$(wc -l < "$CREDS_FILE")" -gt 1 ]]; then
+-  die "Credentials file contains multiple lines — cannot embed in YAML literal block safely"
++log "Putting the credentials into ${CREDS_PAGE}"
++# The value is piped in, so it is enciphered before it reaches disk and never
++# written anywhere in the clear. What names the Secret, its namespace, its type
++# and its labels is the workflow step placing the page, not this script.
++if ! printf '%s' "$(< "$CREDS_FILE")" | (cd "$AKASHA_ROOT" && akasha page-secret-set \
++  --file-path "$CREDS_PAGE" --key value \
++  --message "put the ${TUNNEL_NAME} tunnel's credentials into the page holding them"); then
++  die "akasha page-secret-set refused the credentials — the tunnel is created but unheld"
+ fi
+-creds_json="$(< "$CREDS_FILE")"
+-
+-PLAIN_SECRET="$(mktemp)"
+-trap 'rm -f "$PLAIN_SECRET"' EXIT
+-
+-cat > "$PLAIN_SECRET" <<EOF
+-apiVersion: v1
+-kind: Secret
+-metadata:
+-  name: cloudflared-creds
+-  namespace: infra
+-  labels:
+-    app.kubernetes.io/name: cloudflared
+-    app.kubernetes.io/instance: infra
+-    app.kubernetes.io/component: tunnel
+-    app.kubernetes.io/part-of: infra
+-    app.kubernetes.io/managed-by: deploy-script
+-type: Opaque
+-stringData:
+-  credentials.json: |
+-    ${creds_json}
+-EOF
+-
+-log "Encrypting secret with SOPS → ${SOPS_SECRET}"
+-sops -e "$PLAIN_SECRET" > "$SOPS_SECRET"
+-ok "Encrypted secret written to ${SOPS_SECRET}"
++ok "Credentials held by ${CREDS_PAGE}"
+ 
+ log "Updating tunnel ID in ${TUNNEL_CONFIG}"
+ sed -i "s|tunnel: .*|tunnel: ${tunnel_id}|" "$TUNNEL_CONFIG"
+@@ -106,6 +88,6 @@ ok "  Tunnel '${TUNNEL_NAME}' (${tunnel_id}) bootstrapped!"
+ ok "================================================================"
+ echo ""
+ log "Next steps:"
+-echo "  1. Review changes:  git diff service-system/cluster-services/pages/cloudflared/"
+-echo "  2. Commit:          git add service-system/cluster-services/pages/cloudflared/ && git commit -m 'Bootstrap cloudflared tunnel'"
+-echo "  3. Push:            git push (CI will apply secret + configmap + sync DNS)"
++echo "  1. The credentials are committed already — page-secret-set landed them."
++echo "  2. Commit the tunnel id:  git add ${TUNNEL_CONFIG} && git commit -m 'Bootstrap cloudflared tunnel'"
++echo "  3. Push:                  git push (CI will place the secret, apply the configmap and sync DNS)"
