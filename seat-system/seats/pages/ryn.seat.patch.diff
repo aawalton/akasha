@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/move/move.command.ts b/command-system/commands/move/move.command.ts
-index 06819a89735338d86a2b6ad59215869fea03196b..825285de372a0d14d0f332e31497213e0e848564 100644
+index 06819a89735338d86a2b6ad59215869fea03196b..af517ca7220424dbff9d1fb2664c6183d5e4833d 100644
 --- a/command-system/commands/move/move.command.ts
 +++ b/command-system/commands/move/move.command.ts
 @@ -60,7 +60,7 @@ export const move = {
@@ -22,6 +22,15 @@ index 06819a89735338d86a2b6ad59215869fea03196b..825285de372a0d14d0f332e31497213e
        invariantKind: "absence",
 -      statement: "A name carrying more of a segment than the path that moved is left alone.",
 +      statement: "A name carrying a longer segment than the path that moved is left alone.",
+     },
+     {
+       invariantKind: "departure",
+@@ -291,7 +291,7 @@ export const move = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A path two pages claim leaves what names that path unread rather than read from one of those pages.",
++        "A path two pages claim leaves what names that path unread rather than read from either page.",
      },
      {
        invariantKind: "departure",
