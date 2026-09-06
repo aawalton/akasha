@@ -16,7 +16,7 @@ export const upkeepSafety = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The level now is the one the open tracking session carries.",
+      statement: "The level now is the level the open tracking session carries.",
     },
     {
       invariantKind: "departure",
