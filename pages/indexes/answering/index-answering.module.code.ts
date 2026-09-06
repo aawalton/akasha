@@ -31,6 +31,8 @@ import { knownIn, type Shaped } from "../reaching/reaching.module.code.ts"
 import {
   everyOfType,
   everyPath,
+  filesIn,
+  foldersIn,
   idsNaming,
   importersOf,
   type Listed,
@@ -55,6 +57,8 @@ export type Answering = {
   readonly entryShapesAt: () => ReadonlySet<string>
   readonly everyOfType: (pageTypeSlug: string) => readonly Listed[]
   readonly everyPath: () => readonly string[]
+  readonly filesIn: (folder: string) => readonly string[]
+  readonly foldersIn: (folder: string) => readonly string[]
   readonly fileKeysAt: () => ReadonlyMap<string, string | null>
   readonly filePropertiesAt: () => FilePropertiesBy
   readonly idsNaming: (id: string, propertySlug: string) => readonly string[]
@@ -86,6 +90,8 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     entryShapesAt: () => entryShapesAt(reading),
     everyOfType: (pageTypeSlug) => everyOfType(reading, pageTypeSlug),
     everyPath: () => everyPath(reading),
+    filesIn: (folder) => filesIn(reading, folder),
+    foldersIn: (folder) => foldersIn(reading, folder),
     fileKeysAt: () => fileKeysAt(reading),
     filePropertiesAt: () => filePropertiesAt(reading),
     idsNaming: (id, propertySlug) => idsNaming(reading, id, propertySlug),

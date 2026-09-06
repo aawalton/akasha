@@ -19,6 +19,14 @@ export const indexReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The files sitting in one folder are one directory listed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The folders sitting in one folder are that same directory listed.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A name saying no page type costs one read for each page type the name might be filed under.",
     },

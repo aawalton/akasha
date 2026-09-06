@@ -340,6 +340,26 @@ export function everyPath(given: string | Reading): readonly string[] {
   )
 }
 
+export function filesIn(given: string | Reading, folder: string): readonly string[] {
+  return answered(given, ROOT, `which files sit in \`${folder}\``, (reading) =>
+    reading
+      .listing(join(PATH, folder))
+      .filter((one) => !one.directory && one.name.endsWith(ENDING))
+      .map((one) => beneath(folder, one.name.slice(0, -ENDING.length)))
+      .sort()
+  )
+}
+
+export function foldersIn(given: string | Reading, folder: string): readonly string[] {
+  return answered(given, ROOT, `which folders sit in \`${folder}\``, (reading) =>
+    reading
+      .listing(join(PATH, folder))
+      .filter((one) => one.directory)
+      .map((one) => beneath(folder, one.name))
+      .sort()
+  )
+}
+
 function slugOf(standing: Listed | null, id: string): string | null {
   if (standing === null) return null
   const said = partedIn(standing.path)
