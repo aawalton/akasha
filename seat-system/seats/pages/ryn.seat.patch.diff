@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.ts b/service-system/cluster-services/web-app-building/web-app-building.module.ts
+index 9f6a688d2f4d94f51d19ad504c5b6af74f45d355..6483e0a20018518272835569b1cf3ec4cde9b443 100644
+--- a/service-system/cluster-services/web-app-building/web-app-building.module.ts
++++ b/service-system/cluster-services/web-app-building/web-app-building.module.ts
+@@ -10,7 +10,7 @@ export const webAppBuilding = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The package built is the one a container's working directory names.",
++      statement: "The package built is the package a container's working directory names.",
+     },
+     {
+       invariantKind: "departure",
