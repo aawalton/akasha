@@ -1,0 +1,14 @@
+diff --git a/command-system/address-mapping/address-mapping.module.ts b/command-system/address-mapping/address-mapping.module.ts
+index 0f18f729c5fc011fb5263978ac84001a5cf6fea4..d9f7962c120c2f5ecdfe3719b7e005bee1515a85 100644
+--- a/command-system/address-mapping/address-mapping.module.ts
++++ b/command-system/address-mapping/address-mapping.module.ts
+@@ -47,5 +47,9 @@ export const addressMapping = {
+       invariantKind: "gap",
+       statement: "A generator that throws leaves a stale map for the typecheck to refuse.",
+     },
++    {
++      invariantKind: "gap",
++      statement: "The page types a change is filed under are listed here rather than descended.",
++    },
+   ],
+ } as const satisfies Module
