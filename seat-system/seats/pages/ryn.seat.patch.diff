@@ -1,9 +1,21 @@
-readersOweReading: false
 diff --git a/pages/ui-store/pages-ui-store.workspace-package.ts b/pages/ui-store/pages-ui-store.workspace-package.ts
-index 5305523a202c76b9b14ddf415527e148e8f4daaf..f2329eafc1ec199783515396978af8ac97ea9695 100644
+index 5305523a202c76b9b14ddf415527e148e8f4daaf..b28b50c1d171b01ac5f59b70a3a92cade76ebe3d 100644
 --- a/pages/ui-store/pages-ui-store.workspace-package.ts
 +++ b/pages/ui-store/pages-ui-store.workspace-package.ts
-@@ -31,7 +31,7 @@ export const pagesUiStore = {
+@@ -19,7 +19,11 @@ export const pagesUiStore = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A write is shown before that write lands and settled once that write does.",
++      statement: "A write is shown before the write lands.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A write is settled once the write lands.",
+     },
+     {
+       invariantKind: "departure",
+@@ -31,7 +35,7 @@ export const pagesUiStore = {
      },
      {
        invariantKind: "stopgap",
