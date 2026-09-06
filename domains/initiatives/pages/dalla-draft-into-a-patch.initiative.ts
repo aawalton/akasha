@@ -67,6 +67,16 @@ export const dallaDraftIntoAPatch = {
       workingMemory:
         "`atomic-change` becomes `change-atomic` under `changes/atomic`, and `refactor-change` becomes `change-refactor` under `changes/refactor`. The refactor command now runs the change page, so what these two wait on is no longer the command but `rename-page-type`, a page type's slug being renamed by another act. `change-partial` was born under this naming at `changes/partial`, so the two older types alone wait.",
     },
+    {
+      statement: "Removing a page, a page type and a page property are three peer changes.",
+      workingMemory:
+        "Each composes `remove-file` and `remove-property-value` rather than calling a sibling, so each asserts its own precondition. A sibling call would bar that precondition. Guards are scoped to the change rather than branched inside one change. A guard inert on most calls breaks without notice. Misuse of an unguarded `remove-page` is caught by the landing checks and mended in the composer. Open: whether `remove-page` refuses a page type outright.",
+    },
+    {
+      statement: "A page type is not removed while the value index still holds pages of that type.",
+      workingMemory:
+        "Only the import guard catches this today, through the `satisfies` import every page of a type carries, and that import is a convention rather than a rule. `pageTypeSlug` files no relation edge: `reaching.module.code.ts:26` holds that key in FILED_AS_IDENTITY, so `namersOf` never answers pages of a type. `everyOfType` answers that population off the value index. `orphaning.module.code.ts:35` answers `[]` on a refused shadow.",
+    },
   ],
   constraints: [
     "A read hands back the body at HEAD rather than the body the patch would leave.",
