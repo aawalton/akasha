@@ -18,7 +18,7 @@ export const pushRegisterBody = {
     },
     {
       invariantKind: "departure",
-      statement: "A body carrying more than the token and the platform is refused.",
+      statement: "A body carrying anything beyond the token and the platform is refused.",
     },
   ],
 } as const satisfies Module
