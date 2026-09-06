@@ -9,7 +9,7 @@ export const domainTreeView = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A filter that reads the same as the one held redraws nothing.",
+      statement: "A filter that reads the same as the filter held redraws nothing.",
     },
     {
       invariantKind: "departure",
@@ -18,8 +18,7 @@ export const domainTreeView = {
 
     {
       invariantKind: "departure",
-      statement:
-        "A row is identified apart while a filter is there, so the editor redraws that row.",
+      statement: "A row is identified apart while a filter is there.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +34,7 @@ export const domainTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row opens the whole path that row carries rather than one composed here.",
+      statement: "A row opens the whole path that row carries rather than a path composed here.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +46,7 @@ export const domainTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "How many rows matched is answered as none where no filter is there.",
+      statement: "How many rows matched is answered as no number where no filter is there.",
     },
     {
       invariantKind: "absence",
