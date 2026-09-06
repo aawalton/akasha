@@ -1,0 +1,26 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-the-wider-world-drains-my-safety.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-the-wider-world-drains-my-safety.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1b9d227ad32a9c4402c3525e92ab418d99206afc
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-the-wider-world-drains-my-safety.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howTheWiderWorldDrainsMySafety = {
++  id: "01a077e7-a0ec-79f4-8379-075b65b6464c",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-the-wider-world-drains-my-safety",
++  topicSlug: "safety-bar",
++  ask: "How does the wider world drain my safety bar, as a steady drain separate from home, from work and from the people in front of me?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/safety-bar.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/safety-bar.all-about-alan-topic.ts
+index 411a9f2eb583aab0b2312c3c3067b41e83bde109..efee8f17e8bb441d1f8c86d66b3ea5ece56ab272 100644
+--- a/alan/books/all-about-alan/topics/pages/safety-bar.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/safety-bar.all-about-alan-topic.ts
+@@ -8,6 +8,4 @@ export const safetyBar = {
+   definition: "the calm my body can hold",
+   parentSlugs: ["resource-bars"],
+   relatedSlugs: ["safety-level"],
+-  unsettled:
+-    "The wider world is its own steady drain on this, separate from home and work and the people in front of me, and it has never been worked on its own.",
+ } as const satisfies AllAboutAlanTopic
