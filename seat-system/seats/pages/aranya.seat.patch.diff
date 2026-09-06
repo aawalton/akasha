@@ -193,10 +193,10 @@ index a3d4f28e587dbe44921c3cd9cbf66f9849705cd1..9e746702eeb5a2e8595b56a25496a3c4
      lines.push(`${key}=${escapeEnvValue(value)}`)
    }
 diff --git a/service-system/web-apps/dev-server-env-writing/dev-server-env-writing.module.ts b/service-system/web-apps/dev-server-env-writing/dev-server-env-writing.module.ts
-index 832b8ef54017e544184ad74fc9e6830d0dec88aa..a0854a4cfbcffae5d80743a1f8e94e36ea2b7e94 100644
+index 832b8ef54017e544184ad74fc9e6830d0dec88aa..1fb1ed7783e9ef5677a7e12d68ccad3ffd772bca 100644
 --- a/service-system/web-apps/dev-server-env-writing/dev-server-env-writing.module.ts
 +++ b/service-system/web-apps/dev-server-env-writing/dev-server-env-writing.module.ts
-@@ -4,24 +4,23 @@ export const devServerEnvWriting = {
+@@ -4,24 +4,26 @@ export const devServerEnvWriting = {
    id: "01a06583-0030-7006-a432-522c63fe9935",
    pageTypeSlug: "module",
    slug: "dev-server-env-writing",
@@ -213,31 +213,31 @@ index 832b8ef54017e544184ad74fc9e6830d0dec88aa..a0854a4cfbcffae5d80743a1f8e94e36
      {
        invariantKind: "departure",
 -      statement: "One key given two values across sops documents is refused.",
-+      statement:
-+        "An app names one resource, and the keys written are the keys that resource holds.",
++      statement: "An app names one resource.",
      },
      {
        invariantKind: "departure",
 -      statement: "A `data` value is base64 and a `stringData` value is not.",
--    },
--    {
--      invariantKind: "departure",
++      statement: "The keys written are the keys that resource holds.",
+     },
+     {
+       invariantKind: "departure",
 -      statement: "A base64 value decoding to nothing from something is refused.",
 +      statement:
 +        "A resource no page places a value in is refused rather than written as an empty file.",
      },
      {
        invariantKind: "departure",
-@@ -29,7 +28,7 @@ export const devServerEnvWriting = {
+@@ -29,7 +31,7 @@ export const devServerEnvWriting = {
      },
      {
        invariantKind: "departure",
 -      statement: "A secret the sops file already names is never overwritten by a minted one.",
-+      statement: "A secret the resource already names is never overwritten by a minted one.",
++      statement: "A secret the resource already names is never overwritten by a minted value.",
      },
      {
        invariantKind: "departure",
-@@ -39,5 +38,9 @@ export const devServerEnvWriting = {
+@@ -39,5 +41,9 @@ export const devServerEnvWriting = {
        invariantKind: "departure",
        statement: "The file says at its head that the file is not committed.",
      },
