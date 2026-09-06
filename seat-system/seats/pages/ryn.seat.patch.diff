@@ -1,9 +1,14 @@
 readersOweReading: false
 diff --git a/alan/harness/monarch/candidate/monarch-candidate.module.ts b/alan/harness/monarch/candidate/monarch-candidate.module.ts
-index 5882142fbeaf855c8a412eafcccd80ca2251da80..7c6f036fe9305d94e779666b79969d96f74775cf 100644
+index 5882142fbeaf855c8a412eafcccd80ca2251da80..96418406d3019effc95de44511bd8d7ba510b548 100644
 --- a/alan/harness/monarch/candidate/monarch-candidate.module.ts
 +++ b/alan/harness/monarch/candidate/monarch-candidate.module.ts
-@@ -18,7 +18,7 @@ export const monarchCandidate = {
+@@ -14,11 +14,11 @@ export const monarchCandidate = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A candidate names exactly one outcome: a category, or a reservation.",
++      statement: "A candidate names a category or a reservation and never both.",
      },
      {
        invariantKind: "departure",
@@ -12,3 +17,14 @@ index 5882142fbeaf855c8a412eafcccd80ca2251da80..7c6f036fe9305d94e779666b79969d96
      },
      {
        invariantKind: "departure",
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+index ed717412cb7ba57467b26765758b60b5f4ca71c4..ce3b534a499edf83a8d3630fd98cb5d68ac6a7fe 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+@@ -1 +1,5 @@
+-export type Changes = {}
++export type Changes = {
++  "change-command/remove-page": Parameters<
++    typeof import("../../../command/pages/remove-page/remove-page.change-command.code.ts")["runChange"]
++  >[1]
++}
