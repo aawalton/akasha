@@ -72,8 +72,15 @@ export const claudeAccountUpkeep = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A window whose reset has passed, is unknown, or will not read counts as inactive.",
+      statement: "A window whose reset has passed counts as inactive.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A window whose reset is unknown counts as inactive.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A window whose reset will not read counts as inactive.",
     },
     {
       invariantKind: "departure",
@@ -109,7 +116,8 @@ export const claudeAccountUpkeep = {
     },
     {
       invariantKind: "constraint",
-      statement: "Every clock read, wait taken, line said and body fetched goes through a door.",
+      statement:
+        "Every clock read and wait taken and line said and body fetched goes through a door.",
     },
     {
       invariantKind: "constraint",
@@ -129,7 +137,7 @@ export const claudeAccountUpkeep = {
     },
     {
       invariantKind: "gap",
-      statement: "A renewal that throws ends the pass before the accounts after that one.",
+      statement: "A renewal that throws ends the pass before the accounts after that account.",
     },
     {
       invariantKind: "gap",
