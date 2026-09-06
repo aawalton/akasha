@@ -173,10 +173,18 @@ index 17f733ec596a0fdf6df4e49381c51a17542dde69..6aef4f2a8034b12f041a07ff1aaa9feb
    return said.length === 0 ? "" : `${said.join("\n")}\n`
  }
 diff --git a/command-system/drafting/drafting.module.test.ts b/command-system/drafting/drafting.module.test.ts
-index 617880ccbb324e91f3e2a67e6d425a6697f4246c..fa02a5a8c6f4a5086499667af809c9c6d344b604 100644
+index 617880ccbb324e91f3e2a67e6d425a6697f4246c..a7cd00cccaabefda121b262fdeb7a6dd0023dd4d 100644
 --- a/command-system/drafting/drafting.module.test.ts
 +++ b/command-system/drafting/drafting.module.test.ts
-@@ -32,11 +32,23 @@ const ALSO_NOT_TEXT = new Uint8Array([0x80, 0x81, 0x03])
+@@ -6,6 +6,7 @@ import { textIn } from "@akasha/code/body-text"
+ import { said as gitSaid } from "@akasha/git/git-running"
+ import { bytesOf as bytes } from "@akasha/testing-system/bodying"
+ import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
++import type { Kind } from "../calling/calling.module.code.ts"
+ import { blobsIn, bodyOf } from "../patching/patching.module.code.ts"
+ import { scratchWorld } from "../scratching/scratching.module.code.ts"
+ import { writing } from "../scratching/scratching.module.test-fixtures.ts"
+@@ -32,11 +33,23 @@ const ALSO_NOT_TEXT = new Uint8Array([0x80, 0x81, 0x03])
  const THEN_NOT_TEXT = new Uint8Array([0xc0, 0xaf, 0x07])
  const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=false"]
  
