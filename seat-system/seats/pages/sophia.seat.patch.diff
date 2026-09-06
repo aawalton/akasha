@@ -126,3 +126,15 @@ index 0000000000000000000000000000000000000000..aa0e4bf5ca98d16bbdec7cee6d63e047
 +export function typeMoved(): Promise<Moved> {
 +  return movedIn(renaming(), ["--from", THING_TYPE, "--to", "akasha/other.page-type.ts"])
 +}
+diff --git a/command-system/commands/move/renaming/move-renaming.module.ts b/command-system/commands/move/renaming/move-renaming.module.ts
+index b53b0e6fc49726d3c72af08c4949b8258850faa8..7ea1dd2787d3ff33383ac003218f3bedded48db8 100644
+--- a/command-system/commands/move/renaming/move-renaming.module.ts
++++ b/command-system/commands/move/renaming/move-renaming.module.ts
+@@ -7,6 +7,7 @@ export const moveRenaming = {
+   definition: "a page's slug restated in its own body and in the pages addressing it",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
