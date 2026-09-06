@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.ts b/command-system/commands/measure/check-measuring/check-measuring.module.ts
-index deca30d98dfc44057befd023332874825df0bdac..50839c29ecafe5661ce307a2130007b76be9210f 100644
+index deca30d98dfc44057befd023332874825df0bdac..8cded704322c7c58f628879c2942fefd0be1526d 100644
 --- a/command-system/commands/measure/check-measuring/check-measuring.module.ts
 +++ b/command-system/commands/measure/check-measuring/check-measuring.module.ts
 @@ -23,7 +23,7 @@ export const checkMeasuring = {
@@ -28,13 +28,18 @@ index deca30d98dfc44057befd023332874825df0bdac..50839c29ecafe5661ce307a2130007b7
      },
      {
        invariantKind: "departure",
-@@ -68,7 +69,8 @@ export const checkMeasuring = {
+@@ -68,11 +69,12 @@ export const checkMeasuring = {
      },
      {
        invariantKind: "departure",
 -      statement: "An average is the total a phase's runs took shared out over how many there were.",
 +      statement:
 +        "An average is the total a phase's runs took shared out over the count of those runs.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "How many runs a phase holds is said beside that phase's averages.",
++      statement: "The count of runs a phase holds is said beside that phase's averages.",
      },
      {
        invariantKind: "departure",
