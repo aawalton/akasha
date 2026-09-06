@@ -13,6 +13,7 @@ function kept(over: Partial<SeatTurnRecords> = {}): SeatTurnRecords {
     presence: "present" as SeatPresence,
     pending: { "live-subagent": OFF },
     working: { activeTurn: false },
+    onCallRole: false,
     ...over,
   }
 }
@@ -22,6 +23,7 @@ test("a seat holding no record at all is stopped", () => {
     presence: "present",
     pending: {},
     working: {},
+    onCallRole: false,
   })
 
   expect(read.state).toBe("stopped")
@@ -62,4 +64,39 @@ test("a seat waiting on something is waiting, and names what for", () => {
 
 test("a seat waiting on nothing is idle rather than waiting", () => {
   expect(readSeatTurn(kept()).state).toBe("idle")
+})
+
+test("a seat in an on-call role is waiting on work sent to it rather than idle", () => {
+  const read = readSeatTurn(kept({ onCallRole: true }))
+
+  expect(read.state).toBe("idle-pending")
+  expect(read.waitingOn).toBe("work sent to it")
+})
+
+test("what an on-call seat already waits on is named over the work sent to it", () => {
+  const read = readSeatTurn(kept({ onCallRole: true, pending: { compacting: ON } }))
+
+  expect(read.state).toBe("idle-pending")
+  expect(read.waitingOn).toBe("compacting")
+})
+
+test("an on-call role is read as working while the seat works", () => {
+  expect(readSeatTurn(kept({ onCallRole: true, working: { activeTurn: true } })).state).toBe(
+    "working"
+  )
+})
+
+test("an on-call role whose process is gone is stopped", () => {
+  expect(readSeatTurn(kept({ onCallRole: true, presence: "absent" })).state).toBe("stopped")
+})
+
+test("a seat that has taken no turn at all is stopped whatever its role", () => {
+  const read = readSeatTurn({
+    presence: "present",
+    pending: {},
+    working: {},
+    onCallRole: true,
+  })
+
+  expect(read.state).toBe("stopped")
 })

@@ -27,7 +27,19 @@ export const seatTurnState = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat waiting on nothing is idle rather than waiting.",
+      statement: "A seat in an on-call role is waiting on work sent to it rather than idle.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a seat's role is on call answers this rather than whether the seat is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat in no on-call role waiting on nothing is idle rather than waiting.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat that has taken no turn at all is stopped whatever its role.",
     },
     {
       invariantKind: "departure",

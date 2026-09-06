@@ -95,6 +95,7 @@ export const seatSystem = {
     "module/seat-record",
     "module/seat-registration-account",
     "module/seat-resolve",
+    "module/seat-role-on-call",
     "module/seat-rotated-session",
     "module/seat-session",
     "module/seat-stated",
