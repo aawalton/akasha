@@ -14,7 +14,7 @@ export const applyCompletionOverrides = {
     },
     {
       invariantKind: "constraint",
-      statement: "An override never carries a count past the most its source can give.",
+      statement: "An override never carries a count past the largest count its source can give.",
     },
   ],
 } as const satisfies Module
