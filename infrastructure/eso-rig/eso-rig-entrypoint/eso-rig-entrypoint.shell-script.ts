@@ -91,7 +91,7 @@ export const esoRigEntrypoint = {
     },
     {
       invariantKind: "constraint",
-      statement: "Xorg registers the one named input device twice and refuses the second.",
+      statement: "Xorg registers the named input device twice and refuses the second registration.",
     },
     {
       invariantKind: "departure",
