@@ -6,4 +6,5 @@ export const wallpaperCandidates = {
   slug: "wallpaper-candidates",
   definition: "the covers a wallpaper may be drawn from, in the order they are tried",
   code: "ts",
+  test: "ts",
 } as const satisfies Module
