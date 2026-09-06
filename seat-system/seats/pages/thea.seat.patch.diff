@@ -1576,6 +1576,19 @@ index e5b30a8bbfd4ebb2fd6e8f26ddf8c66105168360..51df1a853a1a902459b6a159370ecc8e
 +  maxLength: 300,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/library/book-of-everything/mastery-levels/properties/mastery-behaviour.text-property.ts b/alan/library/book-of-everything/mastery-levels/properties/mastery-behaviour.text-property.ts
+index cc84de6abfc01cd7153fafe514a7db37f1e48391..7d82094fe7ba06674902bcd60212fd231d2a65e5 100644
+--- a/alan/library/book-of-everything/mastery-levels/properties/mastery-behaviour.text-property.ts
++++ b/alan/library/book-of-everything/mastery-levels/properties/mastery-behaviour.text-property.ts
+@@ -8,7 +8,7 @@ export const masteryBehaviour = {
+   slug: "mastery-behaviour",
+   propertySlug: "behaviour",
+   definition: "what Alan does in an interview at a rung",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+   invariants: [
+     {
 diff --git a/alan/library/reading/books/properties/isbn.text-property.ts b/alan/library/reading/books/properties/isbn.text-property.ts
 index f9f924b5d2ed4925d31f543ad408adb44ee41503..27176c84962e928d45bcdaaddcdb22067e43dc98 100644
 --- a/alan/library/reading/books/properties/isbn.text-property.ts
