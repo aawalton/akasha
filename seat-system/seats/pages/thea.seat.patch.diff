@@ -128,6 +128,19 @@ index 20618e4cac5e2045666537bcacbb9f8a2ea07e7d..d2895b82a79d32bb1006a2a1ec707cec
    pageTypeSlug: "workflow-step",
    slug: "rbac-apply",
    definition: "a step putting a namespace's role profiles and their bindings onto the cluster",
+diff --git a/changes/workflow-language/rbac-types/rbac-types.module.ts b/changes/workflow-language/rbac-types/rbac-types.module.ts
+index 961e8df4012ee44f129b539603cea2d6b57e2d67..511a61e8043b92c6df6dbeedc867c00cfe452047 100644
+--- a/changes/workflow-language/rbac-types/rbac-types.module.ts
++++ b/changes/workflow-language/rbac-types/rbac-types.module.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "../../../code-system/modules/module.page-type.ts"
+ 
+ export const rbacTypes = {
+-  id: "01a06f10-7000-7007-b0007-9d4a2f6c0007e1",
++  id: "01a07740-d031-781d-95c7-d652fbd17ab2",
+   pageTypeSlug: "module",
+   slug: "rbac-types",
+   definition: "the shape of a namespace role profile and of the rules it grants",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
