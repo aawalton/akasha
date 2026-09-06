@@ -57,7 +57,7 @@ index 72c2f8dc7ed85e7c912a5651b9e781a607b199d8..dd45d669293484a93da133bd259f809e
  }
  
 diff --git a/seat-system/subagents/presence/subagent-presence.module.test.ts b/seat-system/subagents/presence/subagent-presence.module.test.ts
-index e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac..a62b0330a53e4b08b2e56e4839efcd466ba336c3 100644
+index e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac..f4b07c38fe6618382143e8978da99ceed69d8e3e 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.test.ts
 +++ b/seat-system/subagents/presence/subagent-presence.module.test.ts
 @@ -12,12 +12,15 @@ import {
@@ -76,3 +76,26 @@ index e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac..a62b0330a53e4b08b2e56e4839efcd46
    WRITING,
    wrote,
  } from "./subagent-presence.module.code.ts"
+@@ -25,11 +28,14 @@ import {
+   AGAIN,
+   AGENT,
+   ANOTHER,
++  counting,
++  GOING,
+   HELD_ASSIGNMENT,
+   HELD_ID,
+   heldInHistory,
+   heldUnder,
+   idIn,
++  LOCKED,
+   landedAt,
+   landedUnder,
+   loggedAt,
+@@ -37,6 +43,7 @@ import {
+   messageIn,
+   OWN,
+   pastTheStamp,
++  REFUSED,
+   SEAT_AT,
+   SEAT_BODY,
+   SEAT_ID,
