@@ -66,13 +66,20 @@ export function edgesOf(
   return new Set<string>(edgesIn(bodyOf({ root, path, bytes }), path, naming))
 }
 
+export function foldersAbove(change: Change): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const one of change.changed) {
+    for (const at of ancestorsOf(one)) found.add(at)
+  }
+  return found
+}
+
 export function foldersTouchedBy(
   change: Change,
   naming: Naming = NAMING_NONE
 ): ReadonlySet<string> {
-  const found = new Set<string>()
+  const found = new Set<string>(foldersAbove(change))
   for (const one of change.changed) {
-    for (const at of ancestorsOf(one)) found.add(at)
     const now = edgesOf(change.root, one, change.after(one), naming)
     const before = edgesOf(change.root, one, change.before(one), naming)
     for (const target of new Set([...now, ...before])) {
@@ -227,10 +234,8 @@ export function foldersJudgedBy(
   holds: Holds
 ): ReadonlySet<string> {
   const found = new Set<string>(foldersTouchedBy(change, naming))
-  for (const one of change.changed) {
-    for (const above of ancestorsOf(one)) {
-      for (const under of answeringTo(above, grouped, holds)) found.add(under)
-    }
+  for (const above of foldersAbove(change)) {
+    for (const under of answeringTo(above, grouped, holds)) found.add(under)
   }
   return found
 }
