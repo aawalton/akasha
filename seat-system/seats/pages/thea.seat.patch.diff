@@ -4653,6 +4653,18 @@ index 66302224b95717126a926442b9d509e4b40a550b..8b662114a86df7089703c959df40f8ca
      "relation-property/generator",
      "relation-property/unique",
      "text-property/property-slug",
+diff --git a/pages/types/page-properties/properties/max.number-property.ts b/pages/types/page-properties/properties/max.number-property.ts
+index 5d006312114194c1a8d4d33d3668a244e69f35ff..9d5fb171a07afa1277dbd6cc250282d50349c82b 100644
+--- a/pages/types/page-properties/properties/max.number-property.ts
++++ b/pages/types/page-properties/properties/max.number-property.ts
+@@ -7,6 +7,6 @@ export const max = {
+   pageTypeSlug: "number-property",
+   slug: "max",
+   propertySlug: "max",
+-  definition: "the most a value may run to, in characters or entries",
++  definition: "the largest a number may be",
+   max: null,
+ } as const satisfies NumberProperty
 diff --git a/pages/types/page-properties/properties/property-slug.text-property.ts b/pages/types/page-properties/properties/property-slug.text-property.ts
 index b0472265b556de9c09af366196fb67c547bacfac..f13d58b6a2fd396d23028bb2fe943f991b459e11 100644
 --- a/pages/types/page-properties/properties/property-slug.text-property.ts
