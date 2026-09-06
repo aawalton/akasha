@@ -1,0 +1,124 @@
+diff --git a/context/warrants/file-property/file-property.context-warrant.test.ts b/context/warrants/file-property/file-property.context-warrant.test.ts
+index 709ff94f08a3cd749db494237f3706db8aeeabd0..de54b3e612bbdb25cb15f7eabacd64d099644448 100644
+--- a/context/warrants/file-property/file-property.context-warrant.test.ts
++++ b/context/warrants/file-property/file-property.context-warrant.test.ts
+@@ -4,7 +4,7 @@ import { join } from "node:path"
+ import { blobIdOf, recordRead } from "@akasha/command-system/reading"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { writing } from "@akasha/command-system/scratching/testing"
+-import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
++import { listedFiled, schemaFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+ import { mintedId } from "@akasha/testing-system/minting"
+ import {
+   knowingIn,
+@@ -25,15 +25,26 @@ const AGENT = "01a04ee0-3078-7000-9069-e5db5da797ad"
+ 
+ const PATH = "akasha/thing/thing.module.ts"
+ 
+-function pageType(root: string, slug: string): undefined {
++type Declared = {
++  readonly pageTypeSlug: string
++  readonly slug: string
++}
++
++function declaring(said: readonly Declared[]): readonly Record<string, unknown>[] {
++  return said.map((one) => ({
++    pagePropertySlug: `${one.pageTypeSlug}/${one.slug}`,
++    required: false,
++    many: false,
++  }))
++}
++
++function pageType(root: string, slug: string, said: readonly Declared[] = []): undefined {
+   const id = mintedId(slug)
+   const path = `akasha/${slug}/${slug}.page-type.ts`
+-  writing(
+-    root,
+-    path,
+-    `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}" }\n`
+-  )
++  const value = { id, pageTypeSlug: "page-type", slug, properties: declaring(said) }
++  writing(root, path, `export const held = ${JSON.stringify(value)}\n`)
+   listedFiled(root, "page-type", slug, [{ path, id }])
++  valueAlsoFiled(root, "page-type", [{ path, value }])
+ }
+ 
+ function propertyPage(root: string, slug: string, pageTypeSlug: string): string {
+@@ -45,12 +56,19 @@ function propertyPage(root: string, slug: string, pageTypeSlug: string): string
+     `export const held = { id: "${id}", pageTypeSlug: "${pageTypeSlug}", slug: "${slug}" }\n`
+   )
+   listedFiled(root, pageTypeSlug, slug, [{ path, id }])
+-  schemaFiled(root, pageTypeSlug, slug, [{ pageTypeSlug, targetPageTypeSlug: null, slug }])
++  schemaFiled(root, pageTypeSlug, slug, [
++    { pageTypeSlug, targetPageTypeSlug: null, slug, propertySlug: slug },
++  ])
+   return path
+ }
+ 
+ function statingWorld(root: string): readonly string[] {
+-  pageType(root, "module")
++  pageType(root, "module", [
++    { pageTypeSlug: "text-property", slug: "id" },
++    { pageTypeSlug: "relation-property", slug: "page-type-slug" },
++    { pageTypeSlug: "text-property", slug: "slug" },
++    { pageTypeSlug: "text-property", slug: "definition" },
++  ])
+   const id = propertyPage(root, "id", "text-property")
+   const pageTypeSlug = propertyPage(root, "page-type-slug", "relation-property")
+   const slug = propertyPage(root, "slug", "text-property")
+@@ -94,18 +112,12 @@ test("a page stating no property warrants nothing", () => {
+ 
+ test("a property the type allows and the page does not state warrants nothing", () => {
+   const root = scratch.rootFor("akasha-file-property-")
+-  pageType(root, "module")
+   const definition = propertyPage(root, "definition", "text-property")
+   const code = propertyPage(root, "code", "file-property")
+-  writing(
+-    root,
+-    "akasha/module/module.page-type.ts",
+-    [
+-      `export const module_ = { id: "${mintedId("module")}", pageTypeSlug: "page-type", slug: "module",`,
+-      `  properties: [{ pagePropertySlug: "definition" }, { pagePropertySlug: "code" }] }`,
+-      "",
+-    ].join("\n")
+-  )
++  pageType(root, "module", [
++    { pageTypeSlug: "text-property", slug: "definition" },
++    { pageTypeSlug: "file-property", slug: "code" },
++  ])
+   stating(root, PATH, ["definition"])
+   expect(pathsOf(warrantsAt(root, PATH))).toEqual([definition])
+   expect(pathsOf(warrantsAt(root, PATH))).not.toContain(code)
+@@ -128,9 +140,14 @@ test("a property the index defines nowhere warrants nothing", () => {
+ 
+ test("a property the schema names and the identity index does not warrants nothing", () => {
+   const root = scratch.rootFor("akasha-file-property-")
+-  pageType(root, "module")
++  pageType(root, "module", [{ pageTypeSlug: "text-property", slug: "loose" }])
+   schemaFiled(root, "text-property", "loose", [
+-    { pageTypeSlug: "text-property", targetPageTypeSlug: null, slug: "loose" },
++    {
++      pageTypeSlug: "text-property",
++      targetPageTypeSlug: null,
++      slug: "loose",
++      propertySlug: "loose",
++    },
+   ])
+   stating(root, PATH, ["loose"])
+   expect(pathsOf(warrantsAt(root, PATH))).toEqual([])
+@@ -189,13 +206,13 @@ test("a page that will not load warrants nothing", () => {
+ 
+ test("a page defining a property does not warrant itself for it", () => {
+   const root = scratch.rootFor("akasha-file-property-")
+-  pageType(root, "text-property")
++  pageType(root, "text-property", [{ pageTypeSlug: "text-property", slug: "slug" }])
+   const path = "akasha/thing/properties/slug.text-property.ts"
+   const id = mintedId("slug")
+   writing(root, path, `export const slug = { id: "${id}", slug: "slug" }\n`)
+   listedFiled(root, "text-property", "slug", [{ path, id }])
+   schemaFiled(root, "text-property", "slug", [
+-    { pageTypeSlug: "text-property", targetPageTypeSlug: null, slug: "slug" },
++    { pageTypeSlug: "text-property", targetPageTypeSlug: null, slug: "slug", propertySlug: "slug" },
+   ])
+   expect(pathsOf(warrantsAt(root, path))).toEqual([])
+ })
