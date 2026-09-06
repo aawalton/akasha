@@ -19,7 +19,11 @@ export const supervisorIterationOutcomeDb = {
     },
     {
       invariantKind: "departure",
-      statement: "The timer is unrefed, so a call being waited on never holds the process open.",
+      statement: "The timer is unrefed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call being waited on never holds the process open.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +35,11 @@ export const supervisorIterationOutcomeDb = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches a database; only the wait is bounded.",
+      statement: "Nothing here reaches a database.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Only the wait is bounded.",
     },
   ],
 } as const satisfies Module
