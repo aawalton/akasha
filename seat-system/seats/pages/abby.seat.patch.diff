@@ -13,6 +13,30 @@ index 0000000000000000000000000000000000000000..b11e3c1d8dc1e69c8be159a8c790728a
 +  topicSlug: "the-rating-my-budget-rests-on",
 +  ask: "I revise my safety or difficulty afterwards where I miss a transition. How often do I miss one, and does the revision mostly move the number down or up?",
 +} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-jen-does-with-my-surplus-alert.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-jen-does-with-my-surplus-alert.all-about-alan-question.ts
+index 9eb3c871fb3e9338832e278519f5ac4e6f160928..04cd64eece2b888f1fdaf378da50058b2e2154af 100644
+--- a/alan/books/all-about-alan/questions/pages/what-jen-does-with-my-surplus-alert.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-jen-does-with-my-surplus-alert.all-about-alan-question.ts
+@@ -4,6 +4,6 @@ export const whatJenDoesWithMySurplusAlert = {
+   id: "01a07820-4065-7106-bc70-653d3cc05fa7",
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-jen-does-with-my-surplus-alert",
+-  topicSlug: "the-budget-i-run-my-days-on",
++  topicSlug: "the-rating-my-budget-rests-on",
+   ask: "Jen gets the alert as my surplus color drops. What does she do with the alert, and has her knowing changed what either of us picks that evening?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-surplus-alert-wants-an-action.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-surplus-alert-wants-an-action.all-about-alan-question.ts
+index f68e41492226812da5ae7f765b54a6d267e0fc5a..f1eb7d380961ce260b9f6bf0bec29628643682c7 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-my-surplus-alert-wants-an-action.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-my-surplus-alert-wants-an-action.all-about-alan-question.ts
+@@ -4,6 +4,6 @@ export const whetherMySurplusAlertWantsAnAction = {
+   id: "01a07820-4066-7b4c-91af-6bfb7b97ecd0",
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-my-surplus-alert-wants-an-action",
+-  topicSlug: "the-budget-i-run-my-days-on",
++  topicSlug: "the-rating-my-budget-rests-on",
+   ask: "I do nothing when my surplus alert fires, beyond knowing where I am. Is the knowing worth the alert on its own, or does the alert want an act attached to it?",
+ } as const satisfies AllAboutAlanQuestion
 diff --git a/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts
 index 88c2f4637f994607e6f7cb4eef1ecfcf3509a580..e84a939378c8bab1a95ff42a0333c5fa3d6065dc 100644
 --- a/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts
