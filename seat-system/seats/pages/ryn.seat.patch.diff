@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/idle-system/idle-persona-cards/properties/images.text-property.ts b/idle-system/idle-persona-cards/properties/images.text-property.ts
+index 1c7de83fbcaeb340beb9723e224e6d74a3befd81..5e6a341f53c63ce964d623a253d3b0bdf3c8fec4 100644
+--- a/idle-system/idle-persona-cards/properties/images.text-property.ts
++++ b/idle-system/idle-persona-cards/properties/images.text-property.ts
+@@ -14,7 +14,7 @@ export const images = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The picture a card is shown by is one of these pictures.",
++      statement: "The picture a card is shown by is drawn from these pictures.",
+     },
+   ],
+ } as const satisfies TextProperty
