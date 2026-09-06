@@ -1,0 +1,12 @@
+diff --git a/pages/indexes/property-carrying/property-carrying.module.test.ts b/pages/indexes/property-carrying/property-carrying.module.test.ts
+index f9510b6ab3d0e74d71df0452837617d601820cb7..36a9ca0460d5fdbf50c8d886c7292fb7ee68e39a 100644
+--- a/pages/indexes/property-carrying/property-carrying.module.test.ts
++++ b/pages/indexes/property-carrying/property-carrying.module.test.ts
+@@ -6,6 +6,7 @@ import {
+   listedFiled,
+   relationFiled,
+   schemaFiled,
++  valueAlsoFiled,
+ } from "../reading/index-reading.module.test-fixtures.ts"
+ import {
+   type Carried,
