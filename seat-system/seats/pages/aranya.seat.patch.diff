@@ -1,3 +1,17 @@
+diff --git a/service-system/secrets/pages/pgbouncer-auth-userlist-txt.secret.ts b/service-system/secrets/pages/pgbouncer-auth-userlist-txt.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..58f6497ad2fd2768fbdcebd8770f0a861f696e0a
+--- /dev/null
++++ b/service-system/secrets/pages/pgbouncer-auth-userlist-txt.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const pgbouncerAuthUserlistTxt = {
++  id: "01a0768e-ed14-785e-8e43-b136fe71ae0c",
++  pageTypeSlug: "secret",
++  slug: "pgbouncer-auth-userlist-txt",
++  placements: [{ resourceName: "pgbouncer-auth", resourceKey: "userlist.txt" }],
++} as const satisfies Secret
 diff --git a/service-system/secrets/pages/pgbouncer-tls-tls-crt.secret.ts b/service-system/secrets/pages/pgbouncer-tls-tls-crt.secret.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..5711311f2121ebbdeaa989d9f29a1bfd699f5f30
