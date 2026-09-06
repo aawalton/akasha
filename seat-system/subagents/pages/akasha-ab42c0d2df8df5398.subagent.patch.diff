@@ -1,0 +1,12 @@
+diff --git a/seat-system/subagent-page/subagent-page.module.test-fixtures.ts b/seat-system/subagent-page/subagent-page.module.test-fixtures.ts
+index 6a08db76ca784bed870347d20f4ef3122507d2aa..8456b686b9d3793f9b0bb93080c9d0f10701ea96 100644
+--- a/seat-system/subagent-page/subagent-page.module.test-fixtures.ts
++++ b/seat-system/subagent-page/subagent-page.module.test-fixtures.ts
+@@ -1,6 +1,6 @@
+ import { writing } from "@akasha/command-system/scratching/testing"
+ import { said as gitIn } from "@akasha/git/git-running"
+-import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
++import { listedFiled, rebuiltIn, valueAlsoFiled } from "@akasha/indexes/testing"
+ import { declaringUnder } from "@akasha/testing-system/declaring"
+ import { standingSubagentsOf } from "./subagent-page.module.code.ts"
+ 
