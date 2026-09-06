@@ -191,7 +191,7 @@ index bd4fb7f4bb5fbd5b135539a4a1603213fecf6863..25f8c8162bf9d3c8f56e4677f2082f73
 +  return out.sort()
 +}
 diff --git a/editor-extension/subagent-core/subagent-core.module.ts b/editor-extension/subagent-core/subagent-core.module.ts
-index fcb97004f625876cb78201526602e671bef6bde8..c5b4692eed4e7221f571bde1c18ea82ff25d27c1 100644
+index fcb97004f625876cb78201526602e671bef6bde8..2f275444e96c35c4e0daef0aaba1c61a3de88c07 100644
 --- a/editor-extension/subagent-core/subagent-core.module.ts
 +++ b/editor-extension/subagent-core/subagent-core.module.ts
 @@ -55,5 +55,33 @@ export const subagentCore = {
@@ -208,7 +208,7 @@ index fcb97004f625876cb78201526602e671bef6bde8..c5b4692eed4e7221f571bde1c18ea82f
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "An ended subagent is one whose launch and whose stop were both read.",
++      statement: "An ended subagent is a subagent whose launch and whose stop were both read.",
 +    },
 +    {
 +      invariantKind: "departure",
