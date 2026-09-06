@@ -13,7 +13,7 @@ export const supervisorIdleObserve = {
     },
     {
       invariantKind: "departure",
-      statement: "A refused, failed or unparsed in-flight read is null, never zero.",
+      statement: "A read that is refused or failed or unparsed is null rather than zero.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,11 @@ export const supervisorIdleObserve = {
     },
     {
       invariantKind: "departure",
-      statement: "The rule is asked once for all cmdlines, and answers are read back by position.",
+      statement: "The rule is asked once for every cmdline.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Answers are read back by position.",
     },
     {
       invariantKind: "departure",
@@ -38,11 +42,15 @@ export const supervisorIdleObserve = {
     },
     {
       invariantKind: "departure",
-      statement: "A busy child's age is now less the mtime of its /proc directory, or null.",
+      statement: "A busy child's age is now less the mtime of its /proc directory or null.",
     },
     {
       invariantKind: "departure",
-      statement: "Seat ids come from the akasha seat list, and no page is opened for one.",
+      statement: "Seat ids come from the akasha seat list.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No page is opened for a seat id.",
     },
   ],
 } as const satisfies Module
