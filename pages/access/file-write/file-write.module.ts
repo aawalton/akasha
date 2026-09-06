@@ -18,8 +18,11 @@ export const fileWrite = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A `where` is answered by the service, and the slugs it names are the pages written.",
+      statement: "A `where` is answered by the service.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The slugs that answer names are the pages written.",
     },
     {
       invariantKind: "departure",
@@ -43,11 +46,11 @@ export const fileWrite = {
     },
     {
       invariantKind: "departure",
-      statement: "A write naming at most one page refuses where several match.",
+      statement: "A write naming a single page refuses where several match.",
     },
     {
       invariantKind: "departure",
-      statement: "A create states its slug among its values or is handed one as a name.",
+      statement: "A create states its slug among its values or is handed a slug as a name.",
     },
     {
       invariantKind: "departure",
