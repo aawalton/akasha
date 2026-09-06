@@ -1,18 +1,30 @@
 diff --git a/pages/query/store-spelling/store-spelling.module.ts b/pages/query/store-spelling/store-spelling.module.ts
-index 45673df66f3eb2cf5b1cbd64102e34945cbcc44d..932c9910c87134ef8d2ea52cf1b94b4f2d5303fd 100644
+index 45673df66f3eb2cf5b1cbd64102e34945cbcc44d..4bd0b10717aafe964c279b535d9fcebca6249814 100644
 --- a/pages/query/store-spelling/store-spelling.module.ts
 +++ b/pages/query/store-spelling/store-spelling.module.ts
-@@ -30,8 +30,11 @@ export const storeSpelling = {
+@@ -30,17 +30,21 @@ export const storeSpelling = {
      },
      {
        invariantKind: "departure",
 -      statement:
 -        "The store leaves out a key the store has no column for and answers null for one the store has.",
 +      statement: "The store leaves out a key the store has no column for.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "The store answers null for a key the store has a column for.",
      },
      {
        invariantKind: "departure",
+-      statement: "The two spellings are written here rather than reached for.",
++      statement: "The store answers null for a key the store has a column for.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The camel spelling and the declared spelling are written here rather than reached for.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "Reaching the two spellings would put a page-file reader behind a package that opens none.",
++        "Reaching those spellings would put a page-file reader behind a package that opens no page file.",
+     },
+     {
+       invariantKind: "absence",
