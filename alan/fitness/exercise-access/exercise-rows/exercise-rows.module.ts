@@ -26,12 +26,12 @@ export const exerciseRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A field that is no text, no number and no truth reads as absent.",
+      statement: "A field that is no text and no number and no truth reads as absent.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Which rows are wanted, in what order and how many is settled here rather than asked of a store.",
+        "The rows wanted and their order and their number are settled here rather than asked of a store.",
     },
     {
       invariantKind: "departure",
