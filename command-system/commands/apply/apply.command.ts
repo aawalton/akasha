@@ -20,6 +20,7 @@ export const apply = {
     "an apply is the apply `akasha patch apply` runs, so the checks, the commit and the record are the same.",
     "a fold the patch refuses leaves the edits where the edits are.",
     "an apply that refuses puts the fold back, so the edits are kept for a change to mend.",
+    "an edit for a body the apply writes again is dropped rather than folded, and the report names it.",
     "an apply over no edits applies the patch the agent already holds.",
     "--break-the-glass applies with no check run, and the reason is said in the commit.",
   ],
@@ -51,6 +52,18 @@ export const apply = {
     {
       invariantKind: "departure",
       statement: "A draft the patch refuses leaves the edits where the edits are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row for a body written again on every apply is dropped rather than folded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every row dropped is named in the report.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run holding nothing but such rows drops those rows and applies the patch.",
     },
     {
       invariantKind: "departure",

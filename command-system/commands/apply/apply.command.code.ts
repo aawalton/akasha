@@ -32,7 +32,11 @@ const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweRea
 export type Unfold = { readonly patch: string | null; readonly rows: readonly Edit[] }
 
 export type Folded =
-  | { readonly folded: readonly string[]; readonly unfold: Unfold | null }
+  | {
+      readonly folded: readonly string[]
+      readonly dropped: readonly string[]
+      readonly unfold: Unfold | null
+    }
   | { readonly refusals: readonly string[] }
 
 function bytesOf(body: string | null): Uint8Array | null {
@@ -68,13 +72,21 @@ export function draftsOf(edits: readonly Edit[]): readonly Draft[] {
 
 // What the fold found is answered beside what the fold made, so a caller landing the patch after
 // this can put the fold back where the landing refuses. A fold that made nothing answers no unfold,
-// because putting back a patch no fold wrote would take away the patch the agent already held.
+// because putting back a patch no fold wrote would take away the patch the agent already held. A
+// row for a body written again on every apply is named as dropped rather than folded, because a row
+// going without being named reads as a row that landed.
 export function folding(root: string, page: string): Folded {
-  let answer: Folded = { folded: [], unfold: null }
+  let answer: Folded = { folded: [], dropped: [], unfold: null }
   const kept = keptEdits(root, page, (had) => {
     if (had.length === 0) return had
     const held = had.filter((one) => !writtenAgain(one.path))
-    if (held.length === 0) return null
+    const dropped = [
+      ...new Set(had.filter((one) => writtenAgain(one.path)).map((one) => one.path)),
+    ].sort()
+    if (held.length === 0) {
+      answer = { folded: [], dropped, unfold: null }
+      return null
+    }
     const said = foldedIn(held)
     if (said.refused !== null) {
       answer = { refusals: [said.refused] }
@@ -88,6 +100,7 @@ export function folding(root: string, page: string): Folded {
     }
     answer = {
       folded: said.edits.map((one) => one.path).sort(),
+      dropped,
       unfold: { patch: was, rows: had },
     }
     return null
@@ -138,7 +151,11 @@ export async function apply(argv: readonly string[], given: Given): Promise<Answ
   const put = said.unfold === null ? null : undone(given.root, page, said.unfold)
   if (put !== null) return { report: [put], refusals: answered.refusals, code: answered.code }
   return {
-    report: [...said.folded.map((one) => `folded ${one} into the patch`), ...answered.report],
+    report: [
+      ...said.dropped.map((one) => `${one} is dropped — that body is written again on every apply`),
+      ...said.folded.map((one) => `folded ${one} into the patch`),
+      ...answered.report,
+    ],
     refusals: answered.refusals,
     code: answered.code,
   }

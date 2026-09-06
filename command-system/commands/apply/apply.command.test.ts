@@ -21,6 +21,8 @@ const ONE = "akasha/one.page.ts"
 
 const TWO = "akasha/two.page.ts"
 
+const MAPPED = "akasha/mapped.change-runner.addressed.ts"
+
 const WAS = "a\nb\nc\n"
 
 const NOW = "a\nB\nc\n"
@@ -59,7 +61,11 @@ test("an edit is drafted into the patch and the rows it came from go", async () 
   const row = taking(ONE, WAS)
   appendEdits(root, PAGE, [row])
 
-  expect(folding(root, PAGE)).toEqual({ folded: [ONE], unfold: { patch: null, rows: [row] } })
+  expect(folding(root, PAGE)).toEqual({
+    folded: [ONE],
+    dropped: [],
+    unfold: { patch: null, rows: [row] },
+  })
 
   expect(editsIn(root, PAGE)).toEqual({ rows: [] })
   expect(carried(root)).toEqual([ONE])
@@ -72,7 +78,11 @@ test("a patch the agent already holds takes the folded edits in", async () => {
   const row = writing(ONE, WAS, NOW)
   appendEdits(root, PAGE, [row])
 
-  expect(folding(root, PAGE)).toEqual({ folded: [ONE], unfold: { patch: was, rows: [row] } })
+  expect(folding(root, PAGE)).toEqual({
+    folded: [ONE],
+    dropped: [],
+    unfold: { patch: was, rows: [row] },
+  })
 
   expect(carried(root)).toEqual([ONE, TWO])
 })
@@ -81,9 +91,30 @@ test("a fold over no row leaves the patch as that patch is", async () => {
   const root = await repo()
   drafted(root, PAGE, [{ path: TWO, was: null, body: BYTES.encode(NOW) }])
 
-  expect(folding(root, PAGE)).toEqual({ folded: [], unfold: null })
+  expect(folding(root, PAGE)).toEqual({ folded: [], dropped: [], unfold: null })
 
   expect(carried(root)).toEqual([TWO])
+})
+
+test("a row for a body written again on every apply is dropped and named", async () => {
+  const root = await repo()
+  appendEdits(root, PAGE, [writing(MAPPED, WAS, NOW)])
+
+  expect(folding(root, PAGE)).toEqual({ folded: [], dropped: [MAPPED], unfold: null })
+
+  expect(editsIn(root, PAGE)).toEqual({ rows: [] })
+  expect(patchIn(root, PAGE)).toBe(null)
+})
+
+test("a row written again on every apply is dropped where another row folds", async () => {
+  const root = await repo()
+  appendEdits(root, PAGE, [writing(ONE, WAS, NOW), writing(MAPPED, WAS, NOW)])
+
+  const said = folding(root, PAGE)
+
+  expect("folded" in said ? said.dropped : []).toEqual([MAPPED])
+  expect("folded" in said ? said.folded : []).toEqual([ONE])
+  expect(carried(root)).toEqual([ONE])
 })
 
 test("a fold the apply refuses is undone, and the patch and the rows come back", async () => {
