@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { DEFAULT_ACCOUNT } from "../../seat-launching/seat-launching.module.code.ts"
 import { HANDLER } from "../../seat-naming/seat-naming.module.code.ts"
+import { SEAT_ATTACH_FN } from "../terminal-seat-marks/terminal-seat-marks.module.code.ts"
 import {
   SEAT_LIVE_FN,
   seatLiveFnLines,
@@ -61,7 +62,7 @@ describe("the launch", () => {
   })
 
   test("attaches once the session is there", () => {
-    expect(launching.trimEnd().endsWith('tmux attach-session -t "=$_seat"\n}')).toBe(true)
+    expect(launching.trimEnd().endsWith(`${SEAT_ATTACH_FN} "$_seat"\n}`)).toBe(true)
   })
 
   test("parses", async () => {
@@ -116,7 +117,7 @@ describe("a resume", () => {
     expect(resuming.indexOf(`${SEAT_LIVE_FN} "$name"`)).toBeLessThan(
       resuming.indexOf("seat-resume.module.code.ts")
     )
-    expect(resuming).toContain('tmux attach-session -t "=$name"\n    return $?')
+    expect(resuming).toContain(`${SEAT_ATTACH_FN} "$name"\n    return $?`)
   })
 
   test("takes no force flag, because it stops nothing", () => {

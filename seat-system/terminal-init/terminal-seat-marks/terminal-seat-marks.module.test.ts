@@ -18,6 +18,11 @@ function markOf(pid: number, startedAt: string, seat: string): SeatMark {
   return { pid, startedAt, seat }
 }
 
+async function parses(text: string): Promise<number> {
+  const ran = Bun.spawn({ cmd: ["bash", "-n"], stdin: new TextEncoder().encode(text) })
+  return await ran.exited
+}
+
 describe("a mark a shell left", () => {
   it("names the seat that shell attached to", () => {
     const found = seatByShellPid([markOf(40, "9931", "amy")], SEATS, startedIn({ 40: "9931" }))
@@ -79,5 +84,9 @@ describe("the shell that attaches", () => {
     const said = seatAttachFnLines().join("\n")
     expect(said).toContain("local _rc=$?")
     expect(said).toContain("return $_rc")
+  })
+
+  it("parses", async () => {
+    expect(await parses(seatAttachFnLines().join("\n"))).toBe(0)
   })
 })
