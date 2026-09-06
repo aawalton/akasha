@@ -79,6 +79,22 @@ export const pageCalling = {
     },
     {
       invariantKind: "departure",
+      statement: "A page's file is asked for through this module as a question is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file answered well is taken as bytes rather than read as JSON.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file answered badly is read as JSON to find the reason.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file the service refuses for its own reasons is not asked for again.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A shape answered as no page type is refused rather than read on.",
     },
     {
