@@ -82,7 +82,7 @@ export const transportLog = {
     },
     {
       invariantKind: "departure",
-      statement: "The first termination is the one written down.",
+      statement: "The first termination is the termination written down.",
     },
     {
       invariantKind: "departure",
