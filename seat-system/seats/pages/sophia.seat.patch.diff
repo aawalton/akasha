@@ -1,5 +1,5 @@
 diff --git a/context/modules/warranting/warranting.module.code.ts b/context/modules/warranting/warranting.module.code.ts
-index 84f32740d33a237774639e5b6a313dd2374e1529..47b8eaf5eb91606fc313a3b4d89f032fe6624a79 100644
+index 84f32740d33a237774639e5b6a313dd2374e1529..f9e08dc7a92f883972fcd1974be9b504b943dd05 100644
 --- a/context/modules/warranting/warranting.module.code.ts
 +++ b/context/modules/warranting/warranting.module.code.ts
 @@ -69,7 +69,6 @@ export type Owing = {
@@ -10,3 +10,17 @@ index 84f32740d33a237774639e5b6a313dd2374e1529..47b8eaf5eb91606fc313a3b4d89f032f
  }
  
  export type Knowing = () => Known
+@@ -102,12 +101,7 @@ const loadFrom = createRequire(import.meta.url)
+ 
+ export function knowingIn(root: string): Knowing {
+   let known: Known | null = null
+-  let above: ReadonlyMap<string, readonly string[]> | null = null
+-  return () =>
+-    (known ??= {
+-      types: new Set<string>([PAGE_TYPE, ...slugsOfType(root, PAGE_TYPE)]),
+-      above: () => (above ??= listedAbove(indexReadingIn(root), (path) => valueAt(path, root))),
+-    })
++  return () => (known ??= { types: new Set<string>([PAGE_TYPE, ...slugsOfType(root, PAGE_TYPE)]) })
+ }
+ 
+ export function fromTabooTerm(warrant: Warrant): boolean {
