@@ -1,0 +1,32 @@
+diff --git a/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts b/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
+index 6f6ab1a435df06d96e65145371eb49457979a94b..ee8982c1ef69de2afa4235e23141d8754487f75e 100644
+--- a/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
++++ b/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
+@@ -38,11 +38,25 @@ export const deepLinkOpenSync = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "One link arriving twice at startup reads as two identical links arriving.",
++      statement: "One link arriving twice reads as two identical links arriving.",
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "The second of two identical links at startup is counted as no tap of its own.",
++      statement:
++        "The delivery after the launch link is counted as no tap where the two links match.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A delivery naming another widget spends the launch link's hold on the count.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The widget that launched the app is the only widget that loses a tap this way.",
++    },
++    {
++      invariantKind: "gap",
++      statement:
++        "A tap made after the app was launched is told apart from one link arriving twice.",
+     },
+   ],
+ } as const satisfies Module
