@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts b/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
+index 3ceea1d5fe7737660da6df60fca45120b8bdf7be..12d32b68bf07d0571af8fcb6a0c0b875e550e47a 100644
+--- a/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
++++ b/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
+@@ -46,7 +46,7 @@ export const claudeAccountRenewing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A pair the page holds a fresher one than counts as written back.",
++      statement: "A pair the page holds a fresher pair than counts as written back.",
+     },
+     {
+       invariantKind: "departure",
