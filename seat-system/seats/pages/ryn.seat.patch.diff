@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-holdings/sales/temper-sale.page-type.ts b/temper/temper-holdings/sales/temper-sale.page-type.ts
+index 634f08c4922f0b66508119ecd4bdc585cb41da6d..4f06917e2bf2f767e51364065d09ab5e701d4cde 100644
+--- a/temper/temper-holdings/sales/temper-sale.page-type.ts
++++ b/temper/temper-holdings/sales/temper-sale.page-type.ts
+@@ -63,7 +63,7 @@ export const temperSale = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A sale's slug is the sale id in lower case with each other run of characters a dash.",
++        "A sale's slug is the sale id in lower case with each run of other characters a dash.",
+     },
+     {
+       invariantKind: "departure",
