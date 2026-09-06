@@ -64,3 +64,25 @@ index 2d6d7fd185aa6227dab1deb3a36b86f0e3c9a018..713b517b520929d10f99437d18222ce3
    } catch (thrown) {
      process.stderr.write(`${PREFIX} ${thrown instanceof Error ? thrown.message : String(thrown)}\n`)
      return 1
+diff --git a/service-system/secrets/secret-saying/secret-saying.module.test.ts b/service-system/secrets/secret-saying/secret-saying.module.test.ts
+index 4396f44e07a24d352f5adb0de01869df1a6cf128..81b59ea81894a7a863b80217070c817fea32f31b 100644
+--- a/service-system/secrets/secret-saying/secret-saying.module.test.ts
++++ b/service-system/secrets/secret-saying/secret-saying.module.test.ts
+@@ -63,6 +63,17 @@ describe("secretYaml", () => {
+       ].join("\n")
+     )
+   })
++
++  test("says the type it is given, a cluster refusing a type changed under it", () => {
++    const said = secretYaml(
++      { "tls.crt": "a", "tls.key": "b" },
++      "pgbouncer-tls",
++      "pgbouncer",
++      "kubernetes.io/tls"
++    )
++    expect(said).toContain("type: kubernetes.io/tls")
++    expect(said).not.toContain("Opaque")
++  })
+ })
+ 
+ describe("flagValue", () => {
