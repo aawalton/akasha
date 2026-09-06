@@ -9,6 +9,4 @@ export const myFaith = {
   parentSlugs: ["alan"],
   settled:
     "I hold it as a conclusion I reasoned my way to, not as a relationship I feel.\n\nThe reasoning has carried the faith the whole time, including the years the feeling was still running.\n\nFeeling never got a vote on the verdict.",
-  unsettled:
-    "Whether the reasoning strengthened as the feeling went dark, one side taking the load as the other failed, is untested. The dig into the foundations at BYU sits in the same window, around twenty.",
 } as const satisfies AllAboutAlanTopic
