@@ -1,3 +1,15 @@
+diff --git a/alan/atlas-web/alan-atlas-web.router-app.ts b/alan/atlas-web/alan-atlas-web.router-app.ts
+index 451ef0f98c2d9bc2089aaf4523e7dd6c0e6d0450..54f9eca9bf3942fcc76f7785739ab79ac47fa8cd 100644
+--- a/alan/atlas-web/alan-atlas-web.router-app.ts
++++ b/alan/atlas-web/alan-atlas-web.router-app.ts
+@@ -6,6 +6,7 @@ export const alanAtlasWeb = {
+   slug: "alan-atlas-web",
+   definition: "the routes Alan's map site serves to a browser",
+   manifest: "json",
++  appLayout: "tsx",
+   rootRoute: "tsx",
+   routeTable: "ts",
+   serverEntry: "tsx",
 diff --git a/alan/web/alan-web.router-app.ts b/alan/web/alan-web.router-app.ts
 index 1f09360758660bbdd602e90374b350107c67473e..612d2e2a4dd3a22eab757804e92c35d6c5333710 100644
 --- a/alan/web/alan-web.router-app.ts
