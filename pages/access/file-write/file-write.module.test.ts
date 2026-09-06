@@ -170,18 +170,31 @@ describe("a write hands over the body of a file a property is held in", () => {
     )
     expect(standing.taken.writes[0]?.pages?.[0]?.bodies).toEqual({ portrait: "# one" })
 
-    const fresh = watching([])
+    // A CREATE READS ITSELF BACK, so the fresh branch answers empty only until the page is
+    // addressed by its slug — the same shape `matching none makes it` already uses.
+    const writes: Writing[] = []
+    const fresh: FileWriteDeps = {
+      ask: (query) =>
+        Promise.resolve({
+          rows: query.where?.slug === undefined ? [] : [{ slug: "two" }],
+        } as Asked),
+      read: () => Promise.resolve({ at: "a", bodies: [], unplaced: [] }),
+      write: (asked) => {
+        writes.push(asked)
+        return Promise.resolve({ commit: "c", wrote: [], took: [] })
+      },
+    }
     await upsertFilePage(
       {
         pageTypeSlug: "thing",
-        where: [{ key: "slug", eq: "two" }],
+        where: [{ key: "other", eq: "x" }],
         set: { slug: "two", portrait: "md" },
         bodies: { portrait: "# two" },
       },
       "upsertPage",
-      fresh.deps
+      fresh
     )
-    expect(fresh.taken.writes[0]?.pages?.[0]?.bodies).toEqual({ portrait: "# two" })
+    expect(writes[0]?.pages?.[0]?.bodies).toEqual({ portrait: "# two" })
   })
 
   test("a write handing over none names no bodies at all", async () => {
