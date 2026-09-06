@@ -17,6 +17,20 @@ index 30fee7537d48d4841d1d791988bd9bb039e89395..49abd63c30c5fd87c5b9a7a7b3516b6a
    columns.record(seats)
    const placed = seats.filter((s) => s.column !== undefined).length
    recordSweep(feature, { ...counted, boundMs: PROCESS_ID_TIMEOUT_MS, ms, trigger })
+diff --git a/editor-extension/seat-acts/seat-acts.module.code.ts b/editor-extension/seat-acts/seat-acts.module.code.ts
+index 0ab8b4c4a1e023e9317ebb586ab90ec581329b91..df55bfe5eb2153a8cfa1166d124d4422a10cf2c7 100644
+--- a/editor-extension/seat-acts/seat-acts.module.code.ts
++++ b/editor-extension/seat-acts/seat-acts.module.code.ts
+@@ -28,8 +28,7 @@ async function runSeat(args: readonly string[]): Promise<undefined> {
+ }
+ 
+ async function attachTerminal(seat: ToggleTarget, line: string): Promise<undefined> {
+-  const { seatNames, psRows, tmuxClients } = await readSeatLookup()
+-  const column = await columnForSeat(seat, seatNames, psRows, tmuxClients)
++  const column = await columnForSeat(seat, readSeatLookup() ?? new Map<number, string>())
+   output.appendLine(`[attach] ${seat.name}: terminal in column ${column.column} (${column.reason})`)
+   const terminal = vscode.window.createTerminal(seatTerminalOptions(seat.name, column.column))
+   terminal.sendText(line)
 diff --git a/editor-extension/seat-showing/seat-showing.module.code.ts b/editor-extension/seat-showing/seat-showing.module.code.ts
 index f5c9ec733709e3a8e9fd43fee918cc98d5178364..b9da93a13f30f690746c9a000e74de190e06b9c9 100644
 --- a/editor-extension/seat-showing/seat-showing.module.code.ts
