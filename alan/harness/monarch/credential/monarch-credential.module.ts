@@ -22,8 +22,11 @@ export const monarchCredential = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The headers are frozen, so the headers handed out cannot be altered by their holder.",
+      statement: "The headers are frozen.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The headers handed out cannot be altered by their holder.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +38,7 @@ export const monarchCredential = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here keeps a cookie or reads one from a file.",
+      statement: "Nothing here keeps a cookie or reads a cookie from a file.",
     },
   ],
 } as const satisfies Module
