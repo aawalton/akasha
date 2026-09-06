@@ -9,13 +9,23 @@ export const monarchAgreement = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Three counts are compared: every transaction, the ones needing review, and the uncategorized ones.",
+      statement: "The count of all transactions is compared.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Monarch is asked for a count rather than for the rows, so agreement costs three calls.",
+      statement: "The count of transactions needing review is compared.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The count of uncategorized transactions is compared.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Monarch is asked for a count rather than for the rows.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Agreement costs three calls.",
     },
     {
       invariantKind: "departure",
