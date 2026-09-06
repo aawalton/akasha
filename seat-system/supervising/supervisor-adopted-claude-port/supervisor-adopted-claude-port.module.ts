@@ -11,7 +11,7 @@ export const supervisorAdoptedClaudePort = {
     {
       invariantKind: "departure",
       statement:
-        "A port is read from the adopted child's own environment rather than from this one.",
+        "A port is read from the adopted child's own environment rather than from this environment.",
     },
     {
       invariantKind: "departure",
