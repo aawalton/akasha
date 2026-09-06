@@ -4,6 +4,7 @@ import type { Phone } from "@akasha/person-system/phone"
 import type { RoleSlug } from "@akasha/seat-system/role-slug"
 import type { Appearance } from "./properties/appearance.file-property.ts"
 import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.relation-property.ts"
+import type { DesktopWallpaper } from "./properties/desktop-wallpaper.file-property.ts"
 import type { EmailAddress } from "./properties/email-address.email-address-property.ts"
 import type { GreenDayPoints } from "./properties/green-day-points.number-property.ts"
 import type { History } from "./properties/history.text-property.ts"
@@ -29,6 +30,7 @@ export type Persona = Domain & {
   greenDayPoints?: GreenDayPoints
   history?: History
   lastMessagedAt?: LastMessagedAt
+  desktopWallpaper?: DesktopWallpaper
   mobileWallpaper?: MobileWallpaper
   voiceInstruction?: VoiceInstruction
   voiceReferenceSha256?: VoiceReferenceSha256
@@ -51,6 +53,7 @@ export const persona = {
   },
   partSlugs: [
     "file-property/appearance",
+    "file-property/desktop-wallpaper",
     "file-property/mobile-wallpaper",
     "file-property/portrait",
     "relation-property/championed-domain-slug",
@@ -81,6 +84,7 @@ export const persona = {
       many: false,
       uncommitted: true,
     },
+    { pagePropertySlug: "file-property/desktop-wallpaper", required: false, many: false },
     { pagePropertySlug: "file-property/mobile-wallpaper", required: false, many: false },
   ],
   invariants: [
