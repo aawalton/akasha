@@ -164,3 +164,15 @@ index b8c505abc9d994a62e77599b23767282a05300a8..3ed16d0974b8a0469dc6fb00b3ef1d60
    viewPlace: 0,
    layout: "cards",
    pageSize: 12,
+diff --git a/pages/views/pages/personas-accounts.view.ts b/pages/views/pages/personas-accounts.view.ts
+index fadc1191b41210bbcfc365dea1a039fe622b8de4..68b51514d8324ae1a213fca55313bde677fd082d 100644
+--- a/pages/views/pages/personas-accounts.view.ts
++++ b/pages/views/pages/personas-accounts.view.ts
+@@ -6,6 +6,7 @@ export const personasAccounts = {
+   slug: "personas-accounts",
+   title: "Accounts",
+   navSlug: "personas",
++  pageType: "claude-account",
+   viewPlace: 5,
+   layout: "cards",
+   viewSorts: [{ key: "alias-index", descending: false }],
