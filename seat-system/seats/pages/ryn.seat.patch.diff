@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/agents/models/gateway/modules/server-error/server-error.module.ts b/agents/models/gateway/modules/server-error/server-error.module.ts
+index ae57a30dd477a14b344c5beb37469c7dee7c9a03..7b9d651f2ef36a70580dfba43cdea690c1dd8f1e 100644
+--- a/agents/models/gateway/modules/server-error/server-error.module.ts
++++ b/agents/models/gateway/modules/server-error/server-error.module.ts
+@@ -78,7 +78,7 @@ export const serverError = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A `Retry-After` of zero or less reads the schedule instead.",
++      statement: "A `Retry-After` at zero or below reads the schedule instead.",
+     },
+     {
+       invariantKind: "departure",
