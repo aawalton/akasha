@@ -6,5 +6,5 @@ export const claudeAccountsMeanWeeklyUsed = {
   slug: "claude-accounts-mean-weekly-used",
   asksOfSlug: "claude-account",
   reduction: "mean",
-  targetKey: "effective-seven-day-percent-used",
+  targetKey: "effectiveSevenDayPercentUsed",
 } as const satisfies PageQuery
