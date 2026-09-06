@@ -17,12 +17,15 @@ export const extendsSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "Where two of the types named declare one property, the nearer type decides.",
+      statement: "The nearer type decides where two of the types named declare one property.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Where both are equally near, the last named decides, so reordering changes the type's properties.",
+      statement: "The last named type decides where two types are equally near.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Reordering the types changes the type's properties.",
     },
     {
       invariantKind: "departure",
