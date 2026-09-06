@@ -28,6 +28,41 @@ index d35a88a6634e6982b3bef280938ab959c3f130eb..22f5f04aa58f7085207ebe5f77524d3d
      },
    ],
  } as const satisfies Command
+diff --git a/alan/fitness/commands/exercise-profile-show/exercise-profile-show.command.ts b/alan/fitness/commands/exercise-profile-show/exercise-profile-show.command.ts
+index 33cafb9fdd744d599052fcac2521ec8b71847c72..e6f6a1625e0ee0750dc37ded54764daca5c738ff 100644
+--- a/alan/fitness/commands/exercise-profile-show/exercise-profile-show.command.ts
++++ b/alan/fitness/commands/exercise-profile-show/exercise-profile-show.command.ts
+@@ -11,25 +11,25 @@ export const exerciseProfileShow = {
+     { said: "--json", takes: "give the bodyweight as JSON rather than as a tab-separated row" },
+   ],
+   helpNotes: [
+-    "the bodyweight is on the client-profile page and is read from there on every call.",
++    "the bodyweight is on the person page and is read from there on every call.",
+     "the weight is in pounds.",
+   ],
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The bodyweight is read from the client-profile page.",
++      statement: "The bodyweight is read from the person page.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "No profile page existing is a refusal.",
++      statement: "No person page existing is a refusal.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A profile stating no bodyweight is a refusal rather than a zero.",
++      statement: "A person stating no bodyweight is a refusal rather than a zero.",
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here changes the profile.",
++      statement: "Nothing here changes the person.",
+     },
+   ],
+ } as const satisfies Command
 diff --git a/alan/fitness/exercise-access/selection-policy/selection-policy.module.code.ts b/alan/fitness/exercise-access/selection-policy/selection-policy.module.code.ts
 index e271a33e66f6efc4d2c79ec72d8fb8e230d1f0f0..e82b51e8efecf1af4029f31b30412dab506d5005 100644
 --- a/alan/fitness/exercise-access/selection-policy/selection-policy.module.code.ts
