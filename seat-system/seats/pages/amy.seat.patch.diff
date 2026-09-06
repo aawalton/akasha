@@ -1,0 +1,14 @@
+diff --git a/alan/fitness/exercise-access/exercise-access.workspace-package.ts b/alan/fitness/exercise-access/exercise-access.workspace-package.ts
+index 717e838f6eb0c985c494c40ae261ce32d80452d0..f7473615fc9a088c1d3e9167dd04ca6d0b6448b8 100644
+--- a/alan/fitness/exercise-access/exercise-access.workspace-package.ts
++++ b/alan/fitness/exercise-access/exercise-access.workspace-package.ts
+@@ -37,9 +37,5 @@ export const exerciseAccess = {
+       invariantKind: "departure",
+       statement: "The exercise pages are read from the checkout this code runs in.",
+     },
+-    {
+-      invariantKind: "stopgap",
+-      statement: "The pages read here are the collections package's rather than akasha's.",
+-    },
+   ],
+ } as const satisfies WorkspacePackage
