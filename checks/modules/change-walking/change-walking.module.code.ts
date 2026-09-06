@@ -95,7 +95,7 @@ export function bodyNamed(path: string): boolean {
   return textNamed(path) || styleNamed(path)
 }
 
-function textsBy(named: string, taken: (path: string) => boolean): Selector<Text> {
+export function textsBy(named: string, taken: (path: string) => boolean): Selector<Text> {
   return {
     named,
     isInput: (path) => taken(path),

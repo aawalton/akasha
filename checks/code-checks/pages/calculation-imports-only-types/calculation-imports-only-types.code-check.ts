@@ -54,6 +54,11 @@ export const calculationImportsOnlyTypes = {
       statement: "Only a file named `.computed-property.code.ts` is judged.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "This check's input is those files alone, so a change carrying none does not run it.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here judges a calculation's exports.",
     },

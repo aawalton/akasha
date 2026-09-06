@@ -3,7 +3,7 @@ import ts from "typescript"
 import {
   judgingEach,
   overEachText,
-  TEXTS,
+  textsBy,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 
 const CALCULATED = ".computed-property.code.ts"
@@ -50,13 +50,19 @@ function reasonFor(one: Found): string {
   return `line ${one.line} imports \`${one.named}\` from \`${one.from}\` as a value — ${ONLY}`
 }
 
+function calculated(path: string): boolean {
+  return path.endsWith(CALCULATED)
+}
+
 function refusalsIn(path: string, text: string): readonly string[] {
-  if (!path.endsWith(CALCULATED)) return []
+  if (!calculated(path)) return []
   return valueImportsIn(path, text).map(reasonFor)
 }
 
 export const reasonsIn = overEachText(refusalsIn)
 
-export const calculationImportsOnlyTypes = judgingEach(TEXTS, (given) =>
+const CALCULATIONS = textsBy("calculations", calculated)
+
+export const calculationImportsOnlyTypes = judgingEach(CALCULATIONS, (given) =>
   refusalsIn(given.path, given.text)
 )
