@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
+index faf7ca4eec73be3dda33968c3c8c84a3495f9f5f..2e850bad5d347916c43644e32e0a97669eec8f4c 100644
+--- a/domains/initiatives/pages/thea-checks-system.initiative.ts
++++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
+@@ -10,7 +10,7 @@ export const theaChecksSystem = {
+     {
+       statement: "Every check is cheap enough for patch and runs there.",
+       workingMemory:
+-        "Four steps: 1 category, 2 right files at patch, 3 cheap at patch, 4 on. Seed a fault before believing a zero: the count of checks judging rises when one goes on. Measure the replacement before believing it cheaper. key-names-one-property is on refusing 57. lint-clean is on refusing 302 of 80388. manifest-lands-on-a-file is on and green. manifest-names-what-is-reached is on at 630ms, refusing 67 over 9 manifests plus 2708 an unfinished package rename leaves. name-format-judges-by-one-shape next.",
++        "Steps: 1 category, 2 right files at patch, 3 cheap at patch, 4 on. Seed a fault before believing a zero; the count of checks judged rises when one goes on. Charge a check what it adds on a warm shadow, not the shared shadow build, and measure a replacement before believing it cheaper. key-names-one-property is on refusing 57. lint-clean is on refusing 302 of 80388. manifest-lands-on-a-file and name-format-judges-by-one-shape are green. manifest-names-what-is-reached refuses 67. no-class next.",
+     },
+     {
+       statement: "The tests beside a changed file judge the change that carries it.",
