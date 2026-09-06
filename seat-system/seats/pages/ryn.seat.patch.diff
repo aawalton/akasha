@@ -1,5 +1,5 @@
 diff --git a/editor-extension/panel-judging/panel-judging.module.ts b/editor-extension/panel-judging/panel-judging.module.ts
-index adb0a71bb79268a65b6e7f0569caae9c7930f417..d10ed63ae7bff2bd2d3c1f0f8edb3b1f873972b7 100644
+index adb0a71bb79268a65b6e7f0569caae9c7930f417..9988448fa35c73124607a899ab90bf9e077420d0 100644
 --- a/editor-extension/panel-judging/panel-judging.module.ts
 +++ b/editor-extension/panel-judging/panel-judging.module.ts
 @@ -11,7 +11,7 @@ export const panelJudging = {
@@ -17,6 +17,20 @@ index adb0a71bb79268a65b6e7f0569caae9c7930f417..d10ed63ae7bff2bd2d3c1f0f8edb3b1f
        invariantKind: "departure",
 -      statement: "A row with no id is red, the editor collapsing rows that share one.",
 +      statement: "A row with no id is red.",
+     },
+     {
+       invariantKind: "departure",
+@@ -73,8 +73,11 @@ export const panelJudging = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A variation selector rides on a glyph without being one, so it is dropped before the count.",
++      statement: "A variation selector rides on a glyph without being a glyph.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A variation selector is dropped before the count.",
      },
      {
        invariantKind: "departure",
