@@ -1,11 +1,13 @@
 import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
+import type { HoldsBytes } from "./properties/holds-bytes.boolean-property.ts"
 import type { MachineWritten } from "./properties/machine-written.boolean-property.ts"
 import type { RunsFileLength } from "./properties/runs-file-length.boolean-property.ts"
 
 export type FileProperty = PageProperty & {
   machineWritten?: MachineWritten
   runsFileLength?: RunsFileLength
+  holdsBytes?: HoldsBytes
 }
 
 export const fileProperty = {
@@ -14,11 +16,16 @@ export const fileProperty = {
   slug: "file-property",
   definition: "a page property held in its own file",
   pluralSlug: "file-properties",
-  partSlugs: ["boolean-property/machine-written", "boolean-property/runs-file-length"],
+  partSlugs: [
+    "boolean-property/holds-bytes",
+    "boolean-property/machine-written",
+    "boolean-property/runs-file-length",
+  ],
   extendsSlug: ["page-type/page-property"],
   properties: [
     { pagePropertySlug: "boolean-property/machine-written", required: false, many: false },
     { pagePropertySlug: "boolean-property/runs-file-length", required: false, many: false },
+    { pagePropertySlug: "boolean-property/holds-bytes", required: false, many: false },
   ],
   invariants: [
     {

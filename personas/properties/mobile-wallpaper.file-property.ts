@@ -10,6 +10,7 @@ export const mobileWallpaper = {
   definition: "the picture a persona is shown as on Alan's phone",
   machineWritten: true,
   runsFileLength: false,
+  holdsBytes: true,
   invariants: [
     {
       invariantKind: "departure",
