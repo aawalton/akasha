@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-separates-a-blanket-hit-from-a-miss.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-separates-a-blanket-hit-from-a-miss.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..287d5ca3f2ef6a7850ea9b4084a6c819b44a75c6
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-separates-a-blanket-hit-from-a-miss.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatSeparatesABlanketHitFromAMiss = {
++  id: "01a077ed-8068-7d64-8521-ceaee605111b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-separates-a-blanket-hit-from-a-miss",
++  topicSlug: "the-weighted-blanket",
++  ask: "The weighted blanket helps about half the times I reach for it. What separates the hits from the misses?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-blanket-still-grounds-me.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-blanket-still-grounds-me.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a7218c19dd8a5e4e50bf7235461d4a8209cf1a8e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-blanket-still-grounds-me.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheBlanketStillGroundsMe = {
++  id: "01a077ed-806a-7d8c-a531-41a78d592b2e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-blanket-still-grounds-me",
++  topicSlug: "the-weighted-blanket",
++  ask: "I first called the weighted blanket grounding and now reach for it for stillness and heat. Does grounding still fire at all?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-blankets-thermal-numbers-are-calculable.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-blankets-thermal-numbers-are-calculable.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3ba2e847d853026d7fe0c698128974613ad41c46
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-blankets-thermal-numbers-are-calculable.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheBlanketsThermalNumbersAreCalculable = {
++  id: "01a077ed-806a-794f-8bc3-705484d566b5",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-blankets-thermal-numbers-are-calculable",
++  topicSlug: "the-weighted-blanket",
++  ask: "Does the weighted blanket have thermal numbers that make the heat-sink account calculable?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-weighted-blanket.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-weighted-blanket.all-about-alan-topic.ts
+index 0df80f5022d4871791ad823ad49f182d98645b41..bb0c7a7193e1f891d1cc2a3c28786054ec314fa5 100644
+--- a/alan/books/all-about-alan/topics/pages/the-weighted-blanket.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-weighted-blanket.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const theWeightedBlanket = {
+   parentSlugs: ["sleep"],
+   settled:
+     "Off by default. I reach for it on a bad night rather than keeping it on the bed.\n\nComfortable on the legs, where on the chest it blocks my breathing.\n\nIt works by stilling me and drawing heat off, so it helps when I am too hot rather than when I am cold.",
+-  unsettled:
+-    "It helps about half the times I reach for it, and nothing separates the hits from the misses.\n\nI first called it grounding and now reach for it for stillness and heat. Whether grounding still fires at all is open.\n\nWhether the blanket has thermal numbers that make the heat-sink account calculable is unasked.",
+ } as const satisfies AllAboutAlanTopic
