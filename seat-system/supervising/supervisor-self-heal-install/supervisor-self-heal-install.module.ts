@@ -9,11 +9,16 @@ export const supervisorSelfHealInstall = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path the install script reads reaches it as an argument rather than as text.",
+      statement:
+        "A path the install script reads reaches the script as an argument rather than as text.",
     },
     {
       invariantKind: "departure",
-      statement: "One install runs at a time across every supervisor, held by a lock file.",
+      statement: "One install runs at a time across every supervisor.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lock file holds that install.",
     },
     {
       invariantKind: "departure",
@@ -26,12 +31,12 @@ export const supervisorSelfHealInstall = {
     },
     {
       invariantKind: "departure",
-      statement: "A verify that fails is answered by installing once more before it is refused.",
+      statement:
+        "A verify that fails is answered by installing once more before the verify is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Where the verifier is, is worked out when an install runs rather than on loading.",
+      statement: "The verifier's place is worked out when an install runs rather than on loading.",
     },
   ],
 } as const satisfies Module
