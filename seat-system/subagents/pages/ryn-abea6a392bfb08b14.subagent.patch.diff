@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/code-system/code-format/code-format.module.ts b/code-system/code-format/code-format.module.ts
+index 2fd4602507e520ca0619788aba53d720d66389a7..d5ee6c847b1c077f78368484da09db99304a06cb 100644
+--- a/code-system/code-format/code-format.module.ts
++++ b/code-system/code-format/code-format.module.ts
+@@ -16,7 +16,7 @@ export const codeFormat = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The formatter is the one the repo already stands on reached inside the root it is run for.",
++        "The formatter is the formatter the repo already stands on reached inside the root the run is for.",
+     },
+     {
+       invariantKind: "departure",
