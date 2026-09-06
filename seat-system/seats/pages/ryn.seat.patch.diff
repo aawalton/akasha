@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/readout-system/readout-ring/readout-ring.module.ts b/readout-system/readout-ring/readout-ring.module.ts
+index b4afbe82401a56a5395e654cd3a1169b2e052d72..2a2b12f7778a5230497a471a0563fc2dd962865d 100644
+--- a/readout-system/readout-ring/readout-ring.module.ts
++++ b/readout-system/readout-ring/readout-ring.module.ts
+@@ -42,7 +42,8 @@ export const readoutRing = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The ring the widgets draw in SwiftUI and this one are read from one page.",
++      statement:
++        "The ring the widgets draw in SwiftUI and the ring drawn here are read from one page.",
+     },
+   ],
+ } as const satisfies Module
