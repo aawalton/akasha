@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/agents/models/gateway/modules/committed-keepalive/committed-keepalive.module.ts b/agents/models/gateway/modules/committed-keepalive/committed-keepalive.module.ts
+index ee7b4957f09adb8088c8961aed74c7244370d044..95c4323da986df3c6f04150f957c777921aa76f4 100644
+--- a/agents/models/gateway/modules/committed-keepalive/committed-keepalive.module.ts
++++ b/agents/models/gateway/modules/committed-keepalive/committed-keepalive.module.ts
+@@ -167,7 +167,7 @@ export const committedKeepalive = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "`tools/lib/model-gateway/committed-keepalive.ts` names the pipeline rather than taking one.",
++        "`tools/lib/model-gateway/committed-keepalive.ts` names the pipeline rather than taking a pipeline.",
+     },
+     {
+       invariantKind: "gap",
