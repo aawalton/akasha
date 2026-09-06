@@ -34,6 +34,7 @@ import {
   readingLaidOver,
   relationFiled,
   schemaFiled,
+  valueAlsoFiled,
 } from "../reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
 import { answeringOver } from "./index-answering.module.code.ts"
@@ -103,6 +104,11 @@ function seeded(): string {
   listedFiled(root, MODULE, "held", [{ path: HELD_AT, id: HELD_ID }])
   listedFiled(root, PAGE_TYPE, MODULE, [{ path: TYPE_AT, id: TYPE_ID }])
   listedFiled(root, PAGE_TYPE, "domain", [{ path: DOMAIN_AT, id: DOMAIN_ID }])
+  valueAlsoFiled(root, MODULE, [{ path: HELD_AT, value: HELD_VALUE }])
+  valueAlsoFiled(root, PAGE_TYPE, [
+    { path: TYPE_AT, value: TYPE_VALUE },
+    { path: DOMAIN_AT, value: DOMAIN_VALUE },
+  ])
   idFiled(root, HELD_ID, [{ path: HELD_AT, id: HELD_ID }])
   idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   pathFiled(root, HELD_AT, [{ path: HELD_AT, id: HELD_ID }])
@@ -112,6 +118,12 @@ function seeded(): string {
   relationFiled(root, SLUG_ID, DECLARES, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   return root
 }
+
+test("the world these questions are asked of answers each reader with pages rather than none", () => {
+  const reading = readingIn(seeded())
+  expect(everyOfType(reading, MODULE)).toEqual([{ path: HELD_AT, id: HELD_ID }])
+  expect(listedAt(reading, MODULE, "held")).toEqual([{ path: HELD_AT, id: HELD_ID }])
+})
 
 test("every question answers what the reader beneath it answers with the reading bound", () => {
   const root = seeded()
