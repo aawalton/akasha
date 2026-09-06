@@ -26,7 +26,12 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "A line carries the object id a mechanical change left.",
+      statement: "A line carries the object id a carry left.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement:
+        "A line written before the carried oid was named carries that oid under `mechanicalOid`.",
     },
     {
       invariantKind: "departure",
@@ -58,38 +63,37 @@ export const reading = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading of a path replaces the one before that reading.",
+      statement: "The record keeps the last reading of a path and drops every earlier reading.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A body answers a reading where the body is the body read or the body a mechanical change left.",
+        "A body answers a reading where the body is the body read or the body a carry left.",
     },
     {
       invariantKind: "departure",
-      statement: "Reading a body again clears the object id a mechanical change left.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A mechanical change carries a reading of the changed file onto the body and path the change left.",
+      statement: "Reading a body again clears the object id a carry left.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A reading is carried only where its body is the body the mechanical change started from.",
+        "A carry moves a reading of the changed file onto the body and path the change left.",
     },
     {
       invariantKind: "departure",
-      statement: "A mechanical change carries how far into the body the agent had read.",
+      statement: "A reading is carried only where its body is the body the carry started from.",
     },
     {
       invariantKind: "departure",
-      statement: "The body a mechanical change left answers the question a warrant asks.",
+      statement: "A carry moves how far into the body the agent had read.",
     },
     {
       invariantKind: "departure",
-      statement: "The body a mechanical change left does not answer writing over that body itself.",
+      statement: "The body a carry left answers the question a warrant asks.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The body a carry left does not answer writing over that body itself.",
     },
     {
       invariantKind: "departure",
