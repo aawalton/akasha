@@ -1,5 +1,5 @@
 diff --git a/person-system/people/email/email-rules/email-rule.page-type.ts b/person-system/people/email/email-rules/email-rule.page-type.ts
-index 6e42c9d3703adee9a502fb1356219aa6d3e7dd25..4f55c622252d6674d9f605403526de4d9be09407 100644
+index 6e42c9d3703adee9a502fb1356219aa6d3e7dd25..dceec7e0e07497c6f83c40e21a09514ff4b2d151 100644
 --- a/person-system/people/email/email-rules/email-rule.page-type.ts
 +++ b/person-system/people/email/email-rules/email-rule.page-type.ts
 @@ -16,6 +16,8 @@ export const emailRule = {
@@ -11,6 +11,25 @@ index 6e42c9d3703adee9a502fb1356219aa6d3e7dd25..4f55c622252d6674d9f605403526de4d
      "record-property/email-rule-matches",
      "select-property/email-rule-match-comparison",
      "select-property/email-rule-match-field",
+@@ -26,17 +28,13 @@ export const emailRule = {
+     { pagePropertySlug: "record-property/email-rule-matches", required: true, many: true, max: 10 },
+   ],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A rule is a match, a filing, the actions to take and a kind.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A rule is matched against an email message.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One person's rules are a set of their own, sharing nothing with another's.",
++      statement: "One person's rules are a set of their own.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/person-system/people/email/email.domain.ts b/person-system/people/email/email.domain.ts
 index 8361a36791233670dbe5be467d5f0fe544eb2d30..17e304f7c7d5940dd8ca35ff2ec2f7003fde9a86 100644
 --- a/person-system/people/email/email.domain.ts
