@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/compose-seat-name/compose-seat-name.module.ts b/seat-system/compose-seat-name/compose-seat-name.module.ts
+index cbcc8209502e42364b6b6250ef387e1bdeb72aba..7b75701700a0515512dea3d9f9e5de5bde788c00 100644
+--- a/seat-system/compose-seat-name/compose-seat-name.module.ts
++++ b/seat-system/compose-seat-name/compose-seat-name.module.ts
+@@ -17,7 +17,7 @@ export const composeSeatName = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An empty attribute is left out of the name the same way a missing one is.",
++      statement: "An empty attribute is left out of the name the same way a missing attribute is.",
+     },
+     {
+       invariantKind: "departure",
