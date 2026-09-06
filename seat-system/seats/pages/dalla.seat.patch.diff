@@ -1,0 +1,35 @@
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index 363b2a39914f07553b4e9215099430256c485cef..02d2f085259cfa8cf2f27cc91fe41b06d7dc5cab 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -1,7 +1,10 @@
+ import type { Module } from "../code-system/modules/module.page-type.ts"
++import type { ChangeKindSlug } from "../command-system/commands/properties/change-kind-slug.relation-property.ts"
+ import type { PageType } from "../pages/types/page-type.page-type.ts"
+ 
+-export type Change = Module
++export type Change = Module & {
++  changeKindSlug: ChangeKindSlug
++}
+ 
+ export const change = {
+   id: "01a05df1-e261-76a1-ad1e-0db3d857450e",
+@@ -18,11 +21,18 @@ export const change = {
+     "page-type/change-kind",
+     "workspace-package/workflow-language",
+   ],
++  properties: [
++    { pagePropertySlug: "relation-property/change-kind-slug", required: true, many: false },
++  ],
+   invariants: [
+     {
+       invariantKind: "departure",
+       statement: "Nothing lands but through an akasha command or a service.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A change states the kind of change that change is.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The checks a change is judged by follow from its kind.",
