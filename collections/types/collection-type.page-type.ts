@@ -19,9 +19,9 @@ export const collectionType = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["select-property/collection-type-status"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "unit-slug", required: true, many: false },
-    { pagePropertySlug: "collection-type-status", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/unit-slug", required: true, many: false },
+    { pagePropertySlug: "select-property/collection-type-status", required: true, many: false },
   ],
   invariants: [
     {

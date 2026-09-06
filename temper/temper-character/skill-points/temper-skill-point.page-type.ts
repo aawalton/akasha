@@ -23,10 +23,10 @@ export const temperSkillPoint = {
     "number-property/max-value",
   ],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "category", required: true, many: false },
-    { pagePropertySlug: "max-quests", required: false, many: false },
-    { pagePropertySlug: "max-skyshards", required: false, many: false },
-    { pagePropertySlug: "max-value", required: false, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "text-property/category", required: true, many: false },
+    { pagePropertySlug: "number-property/max-quests", required: false, many: false },
+    { pagePropertySlug: "number-property/max-skyshards", required: false, many: false },
+    { pagePropertySlug: "number-property/max-value", required: false, many: false },
   ],
 } as const satisfies PageType

@@ -17,8 +17,8 @@ export const temperCharacterThing = {
   extendsSlug: ["page-type/temper-thing"],
   partSlugs: ["file-property/completion", "text-property/target-build-id"],
   properties: [
-    { pagePropertySlug: "completion", required: false, many: false },
-    { pagePropertySlug: "target-build-id", required: false, many: false },
+    { pagePropertySlug: "file-property/completion", required: false, many: false },
+    { pagePropertySlug: "text-property/target-build-id", required: false, many: false },
   ],
   invariants: [
     {

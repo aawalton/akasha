@@ -56,8 +56,8 @@ export const temperMine = {
     "text-property/trait-description",
   ],
   properties: [
-    { pagePropertySlug: "items", required: false, many: false },
-    { pagePropertySlug: "quests", required: false, many: false },
+    { pagePropertySlug: "page-property-entry/items", required: false, many: false },
+    { pagePropertySlug: "page-property-entry/quests", required: false, many: false },
   ],
   invariants: [
     {

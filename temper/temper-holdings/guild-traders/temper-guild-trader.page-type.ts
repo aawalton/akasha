@@ -14,5 +14,5 @@ export const temperGuildTrader = {
   pluralSlug: "temper-guild-traders",
   extendsSlug: ["page-type/temper-thing"],
   partSlugs: ["number-property/kiosk-id"],
-  properties: [{ pagePropertySlug: "kiosk-id", required: true, many: false }],
+  properties: [{ pagePropertySlug: "number-property/kiosk-id", required: true, many: false }],
 } as const satisfies PageType

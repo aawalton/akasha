@@ -11,7 +11,7 @@ export const temperCompanionProgress = {
   pluralSlug: "temper-companion-progresses",
   extendsSlug: ["page-type/temper-character-thing"],
   properties: [
-    { pagePropertySlug: "companion-id", required: true, many: false },
-    { pagePropertySlug: "account-page", required: true, many: false },
+    { pagePropertySlug: "text-property/companion-id", required: true, many: false },
+    { pagePropertySlug: "text-property/account-page", required: true, many: false },
   ],
 } as const satisfies PageType

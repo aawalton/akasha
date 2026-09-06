@@ -17,9 +17,9 @@ export const generationLog = {
     "file-property/generation-runs",
   ],
   properties: [
-    { pagePropertySlug: "generation-runs", required: true, many: false },
-    { pagePropertySlug: "generation-images", required: false, many: false },
-    { pagePropertySlug: "generation-audios", required: false, many: false },
+    { pagePropertySlug: "file-property/generation-runs", required: true, many: false },
+    { pagePropertySlug: "file-property/generation-images", required: false, many: false },
+    { pagePropertySlug: "file-property/generation-audios", required: false, many: false },
   ],
   invariants: [
     {

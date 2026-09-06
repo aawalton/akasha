@@ -29,10 +29,10 @@ export const temperPlayer = {
     "text-property/player-handle",
   ],
   properties: [
-    { pagePropertySlug: "completion-visibility", required: true, many: false },
-    { pagePropertySlug: "platform", required: false, many: false },
-    { pagePropertySlug: "player-handle", required: false, many: false },
-    { pagePropertySlug: "server", required: false, many: false },
-    { pagePropertySlug: "settings", required: false, many: false },
+    { pagePropertySlug: "text-property/completion-visibility", required: true, many: false },
+    { pagePropertySlug: "select-property/platform", required: false, many: false },
+    { pagePropertySlug: "text-property/player-handle", required: false, many: false },
+    { pagePropertySlug: "select-property/server", required: false, many: false },
+    { pagePropertySlug: "file-property/settings", required: false, many: false },
   ],
 } as const satisfies PageType

@@ -9,8 +9,8 @@ export const openCooldowns = {
   propertySlug: "open-cooldowns",
   definition: "when each timed activity comes round again, one activity to a line",
   properties: [
-    { pagePropertySlug: "cooldown-key", required: true, many: false },
-    { pagePropertySlug: "ready-at", required: true, many: false },
+    { pagePropertySlug: "text-property/cooldown-key", required: true, many: false },
+    { pagePropertySlug: "instant-property/ready-at", required: true, many: false },
   ],
   invariants: [
     {

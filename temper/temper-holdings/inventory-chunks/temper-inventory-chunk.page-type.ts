@@ -23,10 +23,10 @@ export const temperInventoryChunk = {
     "relation-property/inventory",
   ],
   properties: [
-    { pagePropertySlug: "account-page", required: true, many: false },
-    { pagePropertySlug: "inventory", required: true, many: false },
-    { pagePropertySlug: "chunk-index", required: true, many: false },
-    { pagePropertySlug: "byte-count", required: true, many: false },
+    { pagePropertySlug: "text-property/account-page", required: true, many: false },
+    { pagePropertySlug: "relation-property/inventory", required: true, many: false },
+    { pagePropertySlug: "number-property/chunk-index", required: true, many: false },
+    { pagePropertySlug: "number-property/byte-count", required: true, many: false },
   ],
   invariants: [
     {
