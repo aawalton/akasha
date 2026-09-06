@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-sets-off-my-flapping.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-sets-off-my-flapping.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..688d87897ea37082efa8a8f7c3de5bf5a63b433d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-sets-off-my-flapping.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatSetsOffMyFlapping = {
++  id: "01a077e4-49a8-7a7f-b050-0786c7ad9702",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-sets-off-my-flapping",
++  topicSlug: "the-repeating-i-do-to-settle",
++  ask: "What sets off my flapping, plain excitement or being overloaded?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-anniversaries-earn-their-keep-on-function.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-anniversaries-earn-their-keep-on-function.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..68557e1d68a80c181bbed3b5f5c4953ca49595f5
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-anniversaries-earn-their-keep-on-function.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAnniversariesEarnTheirKeepOnFunction = {
++  id: "01a077e4-49a8-71fc-8a61-f0ba38c68c44",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-anniversaries-earn-their-keep-on-function",
++  topicSlug: "the-repeating-i-do-to-settle",
++  ask: "Do anniversaries and traditions earn their keep on function alone, with no sentiment behind them?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-smaller-stims-need-separating.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-smaller-stims-need-separating.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c8b405b6c2fb070dc351ffe1761de48fa043547e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-smaller-stims-need-separating.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMySmallerStimsNeedSeparating = {
++  id: "01a077e4-49a8-76fa-9b78-090c6ef87c07",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-smaller-stims-need-separating",
++  topicSlug: "the-repeating-i-do-to-settle",
++  ask: "Finger tapping, hair twirling, picking, chewing and humming all sit at one recorded amount. Does anything need each of the five separated out?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-my-mental-loops-settle-and-interest-me-at-once.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-my-mental-loops-settle-and-interest-me-at-once.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..41b6dc79e96245fd2bbbcfc52260143ebec6a3ea
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/why-my-mental-loops-settle-and-interest-me-at-once.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whyMyMentalLoopsSettleAndInterestMeAtOnce = {
++  id: "01a077e4-49a7-7d6d-be42-dac08219cfe6",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "why-my-mental-loops-settle-and-interest-me-at-once",
++  topicSlug: "the-repeating-i-do-to-settle",
++  ask: "Do the mental loops settle me and feed my interest at once by accident, or because my day is built that way? The answer decides how I describe the pattern.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-repeating-i-do-to-settle.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-repeating-i-do-to-settle.all-about-alan-topic.ts
+index a90f1de8d576e25560d4045103b154dd9b71b8b3..1ca83dad11c3db9671cce440fcc592cfcaa9285d 100644
+--- a/alan/books/all-about-alan/topics/pages/the-repeating-i-do-to-settle.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-repeating-i-do-to-settle.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const theRepeatingIDoToSettle = {
+   relatedSlugs: ["how-something-joins-the-rotation", "how-i-keep-sound-down"],
+   settled:
+     "Walking is the main one, lifelong: while eating, while talking, instead of driving. It does not read as stimming from outside.\n\nTapping a foot carries the sitting, rocking and bouncing where neither works, flapping only when I am really excited.\n\nNone of it wears out, because the input never costs less than it did.\n\nCounting and ordering stand in for the picturing others ground themselves with.\n\nMusic, a familiar game, new books by familiar authors and coding settle me as much as the body ones.",
+-  unsettled:
+-    "Whether the mental ones settle me and feed my interest at once by accident, or because my day is built that way, decides how the pattern is described.\n\nWhether anniversaries and traditions earn their keep on function alone, with no sentiment behind, is unsettled.\n\nWhat sets off the flapping, plain excitement or being overloaded, has never been asked.\n\nFinger tapping, hair twirling, picking, chewing and humming are all recorded as some, and are worth separating only if something needs the detail.",
+ } as const satisfies AllAboutAlanTopic
