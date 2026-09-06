@@ -1,8 +1,8 @@
 diff --git a/editor-extension/work-tree-view/work-tree-view.module.ts b/editor-extension/work-tree-view/work-tree-view.module.ts
-index 24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c..3b0c18340f59ff581ba8d47729ded880bc6e8b7f 100644
+index 24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c..e34c8eb4d11afea9b3448e16428c741f3c2bfb97 100644
 --- a/editor-extension/work-tree-view/work-tree-view.module.ts
 +++ b/editor-extension/work-tree-view/work-tree-view.module.ts
-@@ -9,7 +9,7 @@ export const workTreeView = {
+@@ -9,17 +9,16 @@ export const workTreeView = {
    invariants: [
      {
        invariantKind: "departure",
@@ -11,7 +11,9 @@ index 24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c..3b0c18340f59ff581ba8d47729ded880
      },
      {
        invariantKind: "departure",
-@@ -18,8 +18,7 @@ export const workTreeView = {
+-      statement: "A row is matched against its label, its detail and its note.",
++      statement: "A row is matched against its label and its detail and its note.",
+     },
  
      {
        invariantKind: "departure",
