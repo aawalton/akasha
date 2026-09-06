@@ -1,0 +1,18 @@
+diff --git a/seat-system/seat-running/seat-running.module.ts b/seat-system/seat-running/seat-running.module.ts
+index 0cacdf0b3d23b46d7c7794543cd88c02b758d87d..5c45a0d92b9164971b87452f5d50f705f5bc6bc9 100644
+--- a/seat-system/seat-running/seat-running.module.ts
++++ b/seat-system/seat-running/seat-running.module.ts
+@@ -9,8 +9,11 @@ export const seatRunning = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The command reads the arguments and writes the answer, and the function it calls does neither.",
++      statement: "The command reads the arguments and writes the answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A function the command calls reads no argument and writes no answer.",
+     },
+     {
+       invariantKind: "departure",
