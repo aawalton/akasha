@@ -1,3 +1,15 @@
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index 1afe4db238958a5e321003bffb3136c5e721ec8f..787918d2ed1143cba17240dfbe8a6c23fa7d88ca 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -71,6 +71,7 @@ export const command = {
+     "command/replace",
+     "command/restore",
+     "command/seat",
++    "command/seat-messaged",
+     "command/seat-transcripts",
+     "command/subagent-sweep",
+     "command/service",
 diff --git a/command-system/commands/seat-messaged/seat-messaged.command.code.ts b/command-system/commands/seat-messaged/seat-messaged.command.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..106ddc5cf500cee01fe9c20291a52fce8a243871
