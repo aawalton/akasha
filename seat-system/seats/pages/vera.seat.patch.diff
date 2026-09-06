@@ -1,0 +1,13 @@
+diff --git a/seat-system/seats/pages/vera.seat.ts b/seat-system/seats/pages/vera.seat.ts
+index ec48b8e2b33e5dc4e0684fb1e5501822354b0fb3..2e06d9d11dd5058652b466f17f9d41744d87ee78 100644
+--- a/seat-system/seats/pages/vera.seat.ts
++++ b/seat-system/seats/pages/vera.seat.ts
+@@ -5,7 +5,7 @@ export const vera = {
+   pageTypeSlug: "seat",
+   slug: "vera",
+   personaSlug: "vera",
+-  assignmentSlug: "initiative/vera-context-cleanup",
++  assignmentSlug: "page-type/collection",
+   roleSlug: "definer",
+   personSlug: "alan",
+   startMode: "interactive",
