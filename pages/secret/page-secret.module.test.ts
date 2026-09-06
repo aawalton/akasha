@@ -39,9 +39,13 @@ test("a value is written as one sorted line for each key, quoted", () => {
   expect(yamlOf(held({ refresh: "b", access: "a" }))).toBe('access: "a"\nrefresh: "b"\n')
 })
 
-test("an empty value and one carrying a newline are refused, and one line of text is not", () => {
+test("a value carrying a newline is written as one line, the newline escaped", () => {
+  expect(yamlOf(held({ access: "one\ntwo\n" }))).toBe('access: "one\\ntwo\\n"\n')
+})
+
+test("an empty value is refused, and text carrying newlines is not", () => {
   expect(unfit("access", "")).toContain("arrived empty")
-  expect(unfit("access", "one\ntwo")).toContain("one line")
+  expect(unfit("access", "one\ntwo")).toBeNull()
   expect(unfit("access", "one")).toBeNull()
 })
 
@@ -60,10 +64,14 @@ test("composing nothing is refused, a sops file holding nothing being taken away
   expect(cipherFor(rooted(), PAGE, new Map()).text).toBeNull()
 })
 
-test("a value that is no single line is refused before sops is reached", () => {
-  const said = cipherFor(rooted(), PAGE, held({ "access-token": "one\ntwo" }))
-  expect(said.text).toBeNull()
-  expect(said.why).toContain("one line")
+test("a value of many lines is enciphered and decrypts back byte for byte", () => {
+  const root = rooted()
+  const whole = "-----BEGIN-----\none\ntwo\n-----END-----\n"
+  const said = cipherFor(root, PAGE, held({ "access-token": whole }))
+  if (said.text === null) throw new Error(said.why)
+  expect(keysHeldIn(said.text)).toEqual(["access-token"])
+  writeFileSync(join(root, BESIDE), said.text, "utf8")
+  expect(secretsIn(root, PAGE)).toEqual(held({ "access-token": whole }))
 })
 
 test("what is composed is encrypted, names its keys in the open, and decrypts back", () => {

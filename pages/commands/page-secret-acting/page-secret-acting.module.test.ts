@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   FILE_PATH,
+  KEEP_LAST_NEWLINE,
   KEY,
   MESSAGE,
   readIn,
@@ -43,13 +44,37 @@ test("a message is what this does not require", () => {
     path: AT,
     key: null,
     message: null,
+    keepLastNewline: false,
   })
 })
 
 test("what is read carries the path, the key and the message apart", () => {
   expect(
     readIn([FILE_PATH, AT, KEY, "accessToken", MESSAGE, "m"], [FILE_PATH, KEY, MESSAGE])
-  ).toEqual({ path: AT, key: "accessToken", message: "m" })
+  ).toEqual({ path: AT, key: "accessToken", message: "m", keepLastNewline: false })
+})
+
+test("a flag carrying no value is read as said rather than eating the word after it", () => {
+  expect(readIn([KEEP_LAST_NEWLINE, FILE_PATH, AT], [FILE_PATH], [KEEP_LAST_NEWLINE])).toEqual({
+    path: AT,
+    key: null,
+    message: null,
+    keepLastNewline: true,
+  })
+})
+
+test("a flag carrying no value is refused where the call does not offer it", () => {
+  const read = readIn([FILE_PATH, AT, KEEP_LAST_NEWLINE], [FILE_PATH])
+  expect("refused" in read).toBe(true)
+})
+
+test("a flag carrying no value said twice is refused", () => {
+  const read = readIn(
+    [FILE_PATH, AT, KEEP_LAST_NEWLINE, KEEP_LAST_NEWLINE],
+    [FILE_PATH],
+    [KEEP_LAST_NEWLINE]
+  )
+  expect("refused" in read).toBe(true)
 })
 
 test("a key the page type does not declare is named against the ones it does", () => {
@@ -74,14 +99,20 @@ test("a value carrying no trailing newline is taken whole", () => {
   expect(valueOf(new TextEncoder().encode("held"))).toBe("held")
 })
 
-test("a value holding a newline of its own is refused", () => {
-  expect(valueOf(new TextEncoder().encode("one\ntwo\n"))).toEqual({
-    refused: "what was piped in holds a newline, and a secret's value is one line",
-  })
+test("a value holding newlines of its own is taken whole", () => {
+  expect(valueOf(new TextEncoder().encode("one\ntwo\n"))).toBe("one\ntwo")
+})
+
+test("the trailing newline is kept where the caller says to keep it", () => {
+  expect(valueOf(new TextEncoder().encode("one\ntwo\n"), true)).toBe("one\ntwo\n")
 })
 
 test("a value that arrives empty is refused rather than standing for a usable one", () => {
   expect(typeof valueOf(new TextEncoder().encode("\n"))).toBe("object")
+})
+
+test("a value that is one newline kept is a value rather than empty", () => {
+  expect(valueOf(new TextEncoder().encode("\n"), true)).toBe("\n")
 })
 
 test("what is piped in that is no utf-8 text is refused", () => {

@@ -14,6 +14,8 @@ export const KEY = "--key"
 
 export const MESSAGE = "--message"
 
+export const KEEP_LAST_NEWLINE = "--keep-last-newline"
+
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
 const INPUT_AT = "/dev/stdin"
@@ -34,16 +36,27 @@ export type Said = {
   readonly path: string
   readonly key: string | null
   readonly message: string | null
+  readonly keepLastNewline: boolean
 }
 
 export type Read = Said | { readonly refused: readonly string[] }
 
-export function readIn(argv: readonly string[], taken: readonly string[]): Read {
+export function readIn(
+  argv: readonly string[],
+  taken: readonly string[],
+  flagged: readonly string[] = []
+): Read {
   const refusals: string[] = []
   const held = new Map<string, string>()
+  const said = new Set<string>()
   for (let at = 0; at < argv.length; at += 1) {
     const one = argv[at]
     if (one === undefined) continue
+    if (flagged.includes(one)) {
+      if (said.has(one)) refusals.push(`${one} is said twice, and one call names one of it`)
+      said.add(one)
+      continue
+    }
     if (taken.includes(one)) {
       const value = argv[at + 1]
       at += 1
@@ -56,7 +69,7 @@ export function readIn(argv: readonly string[], taken: readonly string[]): Read 
       continue
     }
     if (one.startsWith("-")) {
-      refusals.push(`\`${one}\` is no flag this takes — it takes ${listed(taken)}`)
+      refusals.push(`\`${one}\` is no flag this takes — it takes ${listed([...taken, ...flagged])}`)
       continue
     }
     refusals.push(`\`${one}\` is said as no flag, and everything this takes is named by one`)
@@ -70,6 +83,7 @@ export function readIn(argv: readonly string[], taken: readonly string[]): Read 
     path: held.get(FILE_PATH) as string,
     key: held.get(KEY) ?? null,
     message: held.get(MESSAGE) ?? null,
+    keepLastNewline: said.has(KEEP_LAST_NEWLINE),
   }
 }
 
@@ -123,19 +137,19 @@ export function pipedIn(): Taken {
   }
 }
 
-export function valueOf(bytes: Uint8Array): string | { readonly refused: string } {
+export function valueOf(
+  bytes: Uint8Array,
+  keepLastNewline = false
+): string | { readonly refused: string } {
   let text: string
   try {
     text = new TextDecoder("utf-8", { fatal: true }).decode(bytes)
   } catch {
     return { refused: "what was piped in is no utf-8 text, and a secret's value is text" }
   }
-  const value = text.endsWith("\n") ? text.slice(0, -1) : text
+  const value = !keepLastNewline && text.endsWith("\n") ? text.slice(0, -1) : text
   if (value === "") {
     return { refused: "what was piped in is empty, and an empty secret stands for a usable one" }
-  }
-  if (value.includes("\n")) {
-    return { refused: "what was piped in holds a newline, and a secret's value is one line" }
   }
   return value
 }
@@ -190,9 +204,10 @@ export async function caught(run: () => Answer | Promise<Answer>): Promise<Answe
 export function aiming(
   argv: readonly string[],
   given: Given,
-  taken: readonly string[]
+  taken: readonly string[],
+  flagged: readonly string[] = []
 ): { readonly said: Said; readonly target: Target; readonly key: string | null } | Answer {
-  const read = readIn(argv, taken)
+  const read = readIn(argv, taken, flagged)
   if ("refused" in read) return mistaken(read.refused)
   const target = targetIn(given.root, read.path)
   if ("refused" in target) return wrongData(target.refused)

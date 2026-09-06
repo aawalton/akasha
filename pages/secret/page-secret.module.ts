@@ -18,7 +18,7 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "A secret's value is one line of text.",
+      statement: "A secret's value is the text given, newlines and all.",
     },
     {
       invariantKind: "departure",

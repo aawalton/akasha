@@ -45,7 +45,6 @@ export function yamlOf(values: Secrets): string {
 export function unfit(key: string, value: string): string | null {
   if (value === "")
     return `\`${key}\` arrived empty, and an empty secret would represent a usable one`
-  if (value.includes("\n")) return `\`${key}\` holds a newline, and a secret's value is one line`
   return null
 }
 
