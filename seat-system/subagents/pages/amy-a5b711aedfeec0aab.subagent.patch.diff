@@ -1,0 +1,12 @@
+diff --git a/readout-system/readout-widgets/properties/opens.text-property.ts b/readout-system/readout-widgets/properties/opens.text-property.ts
+index eb84b501aadb37e0ae21fabf80beaf67609831ff..88b82b420e7d83bb969cf963aca4c62cad99b664 100644
+--- a/readout-system/readout-widgets/properties/opens.text-property.ts
++++ b/readout-system/readout-widgets/properties/opens.text-property.ts
+@@ -8,6 +8,6 @@ export const opens = {
+   slug: "opens",
+   propertySlug: "opens",
+   definition: "where a tap on a widget goes",
+-  max: 100,
++  max: 150,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
