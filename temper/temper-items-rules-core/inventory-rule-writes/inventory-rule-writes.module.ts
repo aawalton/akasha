@@ -14,7 +14,7 @@ export const inventoryRuleWrites = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule page no rule wants any more is taken away.",
+      statement: "A rule page no rule wants any longer is taken away.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,11 @@ export const inventoryRuleWrites = {
     },
     {
       invariantKind: "gap",
-      statement: "A key a rule drops is kept by the page, because a write merges onto the page.",
+      statement: "A key a rule drops is kept by the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write merges onto the page.",
     },
   ],
 } as const satisfies Module
