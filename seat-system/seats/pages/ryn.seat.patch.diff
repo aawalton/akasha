@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-eso-typings/eso-opt-in/eso-opt-in.module.ts b/temper/temper-eso-typings/eso-opt-in/eso-opt-in.module.ts
+index 510b7305d77aeee4d8a2567de25a772b30a59d4c..e0df9ae76a9048c24bc2cc2ff2b8d1b7fad40bd8 100644
+--- a/temper/temper-eso-typings/eso-opt-in/eso-opt-in.module.ts
++++ b/temper/temper-eso-typings/eso-opt-in/eso-opt-in.module.ts
+@@ -14,7 +14,7 @@ export const esoOptIn = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A manifest naming no function is refused rather than read as a scope that names none.",
++        "A manifest naming no function is refused rather than read as a scope naming no function.",
+     },
+   ],
+ } as const satisfies Module
