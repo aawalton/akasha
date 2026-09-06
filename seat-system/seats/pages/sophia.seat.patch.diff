@@ -33,6 +33,19 @@ index a87980fc09e4875973e1ddc43a32387be5566b39..bc16a12180fdef8b98750ffa77d088ea
      )
    } catch (thrown) {
      return { report: [], refusals: [`nothing was drafted — ${whyOf(thrown)}`], code: 3 }
+diff --git a/command-system/asking/asking.module.test-fixtures.ts b/command-system/asking/asking.module.test-fixtures.ts
+index f651f60dd17d7c2ca8c4fb8fc6b6d2328d530d9a..e42487860f717cf564573072fca86ba91ce02943 100644
+--- a/command-system/asking/asking.module.test-fixtures.ts
++++ b/command-system/asking/asking.module.test-fixtures.ts
+@@ -11,7 +11,7 @@ import { put } from "@akasha/testing-system/putting"
+ import type { Answer, Given } from "../calling/calling.module.code.ts"
+ import { patch } from "../commands/patch/patch.command.code.ts"
+ import { write } from "../commands/write/write.command.code.ts"
+-import { drafted, type Running } from "../drafting/drafting.module.code.ts"
++import { drafted } from "../drafting/drafting.module.code.ts"
+ import { blobIdOf, recordRead } from "../reading/reading.module.code.ts"
+ import { rootOf } from "../rooting/rooting.module.code.ts"
+ import { scratchWorld } from "../scratching/scratching.module.code.ts"
 diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
 index 17f733ec596a0fdf6df4e49381c51a17542dde69..6aef4f2a8034b12f041a07ff1aaa9feb91bb5f44 100644
 --- a/command-system/drafting/drafting.module.code.ts
