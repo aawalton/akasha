@@ -15,18 +15,24 @@ export const surplusFallNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "Where the day opened is Alan's sleep on the readout's own scale, before the day's costs come off.",
+        "Where the day opened is Alan's sleep on the readout's own scale before the day's costs come off.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Where the day sits is the readout's reading now, and a reading below the open is a fall.",
+      statement: "Where the day sits is the readout's reading now.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading below the open is a fall.",
     },
 
     {
       invariantKind: "departure",
-      statement:
-        "Rungs said today are read back off the notifications sent, each naming its rung in its own source.",
+      statement: "Rungs said today are read back off the notifications sent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A notification names its rung in its own source.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +46,7 @@ export const surplusFallNotifying = {
     {
       invariantKind: "departure",
       statement:
-        "The readout, its scale and the day's reading are read on the tick rather than compiled in.",
+        "The readout and its scale and the day's reading are read on the tick rather than compiled in.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +54,11 @@ export const surplusFallNotifying = {
     },
     {
       invariantKind: "departure",
-      statement: "This module writes a notification, and nothing here knows about devices.",
+      statement: "This module writes a notification.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing here knows about devices.",
     },
     {
       invariantKind: "departure",
@@ -57,13 +67,19 @@ export const surplusFallNotifying = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Enough thrown ticks in a row end the process non-zero, while one thrown tick is a store blinking.",
+      statement: "Enough thrown ticks in a row end the process non-zero.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The loop runs until stopped, and SIGTERM and SIGINT both end that loop at its next boundary.",
+      statement: "One thrown tick is a store blinking.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The loop runs until stopped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "SIGTERM or SIGINT ends that loop at its next boundary.",
     },
     {
       invariantKind: "gap",
