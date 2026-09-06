@@ -31,7 +31,7 @@ const features = (
   { name: "page-tree", start: async () => pageTree.activate(context) },
   { name: "status-bar", start: async () => statusBar.activate(context) },
   { name: "editor-layout", start: async () => editorLayout.activate(context) },
-  { name: "seat-terminal-enter", start: async () => seatEnter.activate(context, say) },
+  { name: "seat-terminal-enter", start: async () => seatEnter.activate(vscode, context, say) },
 ]
 
 export async function activate(context: vscode.ExtensionContext): Promise<void> {

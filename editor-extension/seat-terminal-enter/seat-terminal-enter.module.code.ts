@@ -1,7 +1,6 @@
-import * as vscode from "vscode"
+import type * as vscode from "vscode"
 import { seatTerminals } from "../agent-tree-state/agent-tree-state.module.code.ts"
 import { runCommand } from "../harness-call/harness-call.module.code.ts"
-import type { SeatTerminal } from "../seat-terminals/seat-terminals.module.code.ts"
 
 export const FOCUS_KEY = "opsAgentTree.seatTerminalFocused"
 
@@ -14,6 +13,12 @@ const SUBMIT = "\r"
 const MESSAGED_TIMEOUT_MS = 10_000
 
 const MAX_BUFFER = 64 * 1024
+
+const SET_CONTEXT = "setContext"
+
+// THE EDITOR IS HANDED IN RATHER THAN IMPORTED. A test runs outside the editor, where importing
+// `vscode` throws before a line of this is read, and the decision this file makes is worth proving.
+export type Editor = typeof import("vscode")
 
 export interface Held {
   readonly terminal: unknown
@@ -32,16 +37,23 @@ export function seatOfTerminal(seats: readonly Held[], terminal: unknown): strin
   return undefined
 }
 
+function held(): readonly Held[] {
+  return seatTerminals as readonly Held[]
+}
+
 // THE KEY GOES THROUGH BEFORE THE MARK IS ASKED FOR. The editor holds the key while this runs, so a
-// mark that waits on a command server would hold Alan's own typing behind it, and a mark that throws
+// mark waiting on a command server would hold Alan's own typing behind it, and a mark that throws
 // would swallow the keystroke rather than the mark.
-export async function enterPressed(say: (text: string) => void): Promise<undefined> {
-  const terminal = vscode.window.activeTerminal
+export async function enterPressed(
+  editor: Editor,
+  say: (text: string) => void
+): Promise<undefined> {
+  const terminal = editor.window.activeTerminal
   if (terminal === undefined) {
     return undefined
   }
   terminal.sendText(SUBMIT, false)
-  const name = seatOfTerminal(seatTerminals as readonly SeatTerminal[] as readonly Held[], terminal)
+  const name = seatOfTerminal(held(), terminal)
   if (name === undefined) {
     return undefined
   }
@@ -56,23 +68,23 @@ export async function enterPressed(say: (text: string) => void): Promise<undefin
   return undefined
 }
 
-export async function publishFocus(): Promise<undefined> {
-  const held =
-    seatOfTerminal(
-      seatTerminals as readonly SeatTerminal[] as readonly Held[],
-      vscode.window.activeTerminal
-    ) !== undefined
-  await vscode.commands.executeCommand("setContext", FOCUS_KEY, held)
+export async function publishFocus(editor: Editor): Promise<undefined> {
+  const focused = seatOfTerminal(held(), editor.window.activeTerminal) !== undefined
+  await editor.commands.executeCommand(SET_CONTEXT, FOCUS_KEY, focused)
   return undefined
 }
 
-export function activate(context: vscode.ExtensionContext, say: (text: string) => void): undefined {
+export function activate(
+  editor: Editor,
+  context: vscode.ExtensionContext,
+  say: (text: string) => void
+): undefined {
   context.subscriptions.push(
-    vscode.commands.registerCommand(ENTER_COMMAND, () => enterPressed(say)),
-    vscode.window.onDidChangeActiveTerminal(() => {
-      void publishFocus()
+    editor.commands.registerCommand(ENTER_COMMAND, () => enterPressed(editor, say)),
+    editor.window.onDidChangeActiveTerminal(() => {
+      void publishFocus(editor)
     })
   )
-  void publishFocus()
+  void publishFocus(editor)
   return undefined
 }
