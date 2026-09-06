@@ -33,9 +33,9 @@ export const person = {
     "domain/email",
   ],
   properties: [
-    { pagePropertySlug: "answered-by", required: true, many: false },
-    { pagePropertySlug: "phone", required: false, many: false },
-    { pagePropertySlug: "email-address", required: false, many: false },
-    { pagePropertySlug: "supabase-auth-user-id", required: false, many: false },
+    { pagePropertySlug: "relation-property/answered-by", required: true, many: false },
+    { pagePropertySlug: "phone-number-property/phone", required: false, many: false },
+    { pagePropertySlug: "email-address-property/email-address", required: false, many: false },
+    { pagePropertySlug: "text-property/supabase-auth-user-id", required: false, many: false },
   ],
 } as const satisfies PageType

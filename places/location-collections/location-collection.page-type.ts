@@ -19,9 +19,13 @@ export const locationCollection = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["file-property/location-collection-description"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "location-collection-description", required: false, many: false },
-    { pagePropertySlug: "icon", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    {
+      pagePropertySlug: "file-property/location-collection-description",
+      required: false,
+      many: false,
+    },
+    { pagePropertySlug: "text-property/icon", required: false, many: false },
   ],
   invariants: [
     {

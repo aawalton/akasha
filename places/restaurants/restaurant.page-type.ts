@@ -13,5 +13,5 @@ export const restaurant = {
   definition: "a place Alan eats at",
   pluralSlug: "restaurants",
   extendsSlug: ["page-type/collection"],
-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

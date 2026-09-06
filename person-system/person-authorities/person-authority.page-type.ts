@@ -23,8 +23,12 @@ export const personAuthority = {
     "text-property/person-authority-target",
   ],
   properties: [
-    { pagePropertySlug: "person-authority-person-slug", required: true, many: false },
-    { pagePropertySlug: "person-authority-kind", required: true, many: false },
-    { pagePropertySlug: "person-authority-target", required: true, many: false },
+    {
+      pagePropertySlug: "relation-property/person-authority-person-slug",
+      required: true,
+      many: false,
+    },
+    { pagePropertySlug: "relation-property/person-authority-kind", required: true, many: false },
+    { pagePropertySlug: "text-property/person-authority-target", required: true, many: false },
   ],
 } as const satisfies PageType

@@ -26,9 +26,13 @@ export const personAccess = {
     "text-property/person-access-target",
   ],
   properties: [
-    { pagePropertySlug: "person-access-person-slug", required: true, many: false },
-    { pagePropertySlug: "person-access-kind", required: true, many: false },
-    { pagePropertySlug: "person-access-target", required: true, many: false },
-    { pagePropertySlug: "person-access-serves", required: false, many: false },
+    {
+      pagePropertySlug: "relation-property/person-access-person-slug",
+      required: true,
+      many: false,
+    },
+    { pagePropertySlug: "relation-property/person-access-kind", required: true, many: false },
+    { pagePropertySlug: "text-property/person-access-target", required: true, many: false },
+    { pagePropertySlug: "text-property/person-access-serves", required: false, many: false },
   ],
 } as const satisfies PageType
