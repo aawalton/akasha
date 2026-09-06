@@ -167,7 +167,7 @@ export const committedKeepalive = {
     {
       invariantKind: "gap",
       statement:
-        "`tools/lib/model-gateway/committed-keepalive.ts` names the pipeline rather than taking one.",
+        "`tools/lib/model-gateway/committed-keepalive.ts` names the pipeline rather than taking a pipeline.",
     },
     {
       invariantKind: "gap",
