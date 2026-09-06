@@ -81,5 +81,8 @@ export const dallaDraftIntoAPatch = {
     "A subagent drafts by default rather than applying.",
     "Alan settles each block's shape before it lands.",
     "The worktree waits until drafting works without it.",
+    "A mechanical change is landed by a change page rather than by the command that page replaces.",
+    "A change page takes no dry run.",
+    "The patch a draft keeps is the dry run.",
   ],
 } as const satisfies Initiative
