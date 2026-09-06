@@ -17,7 +17,11 @@ export const transportAuth = {
     },
     {
       invariantKind: "departure",
-      statement: "A basic credential closes the question, so no other way in is tried after one.",
+      statement: "A basic credential closes the question.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No other way in is tried after a basic credential.",
     },
     {
       invariantKind: "departure",
