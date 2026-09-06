@@ -45,7 +45,7 @@ export const lifeTheme = {
     },
     {
       invariantKind: "departure",
-      statement: "A life theme is under another life theme, or under none.",
+      statement: "A life theme is under another life theme or under no life theme.",
     },
   ],
 } as const satisfies PageType
