@@ -18,7 +18,7 @@ export const nameFormatJudgesByOneShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A format no property names is judged like any other.",
+      statement: "A format no property names is judged like a format a property names.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const nameFormatJudgesByOneShape = {
     },
     {
       invariantKind: "departure",
-      statement: "The one name a format exports is the one its slug answers to.",
+      statement: "The name a format exports is the name its slug answers to.",
     },
     {
       invariantKind: "constraint",
