@@ -70,7 +70,7 @@ index 2c135825e99e8fa24880b9b64fc0ff6edab349cb..6f3933a241d8f67f1e188601f4be9734
    const root = rooted()
    mkdirSync(join(root, FOLDER), { recursive: true })
 diff --git a/command-system/package-linking/package-linking.module.ts b/command-system/package-linking/package-linking.module.ts
-index 700515127d28e3266609c1dc6c138071a6a1f580..172791392b35934a630d1766344fabfdf904d5d2 100644
+index 700515127d28e3266609c1dc6c138071a6a1f580..1a84813a10e043b8d99affb8c8a262ff31375677 100644
 --- a/command-system/package-linking/package-linking.module.ts
 +++ b/command-system/package-linking/package-linking.module.ts
 @@ -29,6 +29,15 @@ export const packageLinking = {
@@ -89,3 +89,14 @@ index 700515127d28e3266609c1dc6c138071a6a1f580..172791392b35934a630d1766344fabfd
      {
        invariantKind: "departure",
        statement: "A name already taken by something that is no link is left alone.",
+@@ -41,6 +50,10 @@ export const packageLinking = {
+       invariantKind: "constraint",
+       statement: "A link whose folder is not there resolves nowhere.",
+     },
++    {
++      invariantKind: "constraint",
++      statement: "A reader resolving a name races every write of the link that name reaches.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Making a link hands back the call that takes that link back.",
