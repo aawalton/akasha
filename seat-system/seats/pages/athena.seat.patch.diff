@@ -1,5 +1,5 @@
 diff --git a/command-system/package-linking/package-linking.module.code.ts b/command-system/package-linking/package-linking.module.code.ts
-index 8c0bcce156a9df4dd27786cd023d38bda4cf841d..f6192014d4e41db1f6ade99f62be157b05b57c9f 100644
+index 8c0bcce156a9df4dd27786cd023d38bda4cf841d..47e72809b8095493bd8c6ec60ef0cbc979d73611 100644
 --- a/command-system/package-linking/package-linking.module.code.ts
 +++ b/command-system/package-linking/package-linking.module.code.ts
 @@ -3,6 +3,7 @@ import {
@@ -10,6 +10,39 @@ index 8c0bcce156a9df4dd27786cd023d38bda4cf841d..f6192014d4e41db1f6ade99f62be157b
    rmdirSync,
    rmSync,
    symlinkSync,
+@@ -95,6 +96,17 @@ function cleared(made: readonly string[]): undefined {
+   }
+ }
+ 
++// Whoever resolves a name through this link holds no lock on it, so a link taken away and written
++// again leaves a gap where the package reaches nothing, and an import landing in that gap fails.
++// Writing the link beside its place and renaming over that place hands every reader one link or the
++// other, because a rename within one folder happens all at once.
++function placed(to: string, at: string): undefined {
++  const beside = `${at}.${process.pid}.linking`
++  rmSync(beside, { force: true })
++  symlinkSync(to, beside)
++  renameSync(beside, at)
++}
++
+ export function reachedFor(root: string, one: Linking): (() => undefined) | null {
+   const at = reachedAt(root, one.name)
+   const was = linkAt(at)
+@@ -109,11 +121,10 @@ export function reachedFor(root: string, one: Linking): (() => undefined) | null
+         }
+   }
+   mkdirSync(dirname(at), { recursive: true })
+-  if (was !== null) rmSync(at, { force: true })
+-  symlinkSync(now, at)
++  placed(now, at)
+   return () => {
+-    rmSync(at, { force: true })
+-    if (was !== null) symlinkSync(was, at)
++    if (was === null) rmSync(at, { force: true })
++    else placed(was, at)
+     cleared(made)
+   }
+ }
 diff --git a/command-system/package-linking/package-linking.module.test.ts b/command-system/package-linking/package-linking.module.test.ts
 index 2c135825e99e8fa24880b9b64fc0ff6edab349cb..6f3933a241d8f67f1e188601f4be9734b18ead6a 100644
 --- a/command-system/package-linking/package-linking.module.test.ts
