@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/service-system/workstation-services/pages/recipient-resolver.workstation-service.ts b/service-system/workstation-services/pages/recipient-resolver.workstation-service.ts
+index f67ebec3a11a5a05072cdedaae31bff42f1db6ec..34193994259f771f4bea3f3b17724668b731c76f 100644
+--- a/service-system/workstation-services/pages/recipient-resolver.workstation-service.ts
++++ b/service-system/workstation-services/pages/recipient-resolver.workstation-service.ts
+@@ -20,7 +20,7 @@ export const recipientResolver = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A recipient that matches no seat has one created.",
++      statement: "A recipient that matches no seat has a seat created.",
+     },
+   ],
+ } as const satisfies WorkstationService
