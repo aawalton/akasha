@@ -12,7 +12,11 @@ import {
 } from "@akasha/indexes/indexing/testing"
 import { schemaFiled } from "@akasha/indexes/testing"
 import { NOT_WORKED_OUT } from "@akasha/pages/shadow"
-import { answered, taking } from "../../../modules/change-answer/change-answer.module.code.ts"
+import {
+  answered,
+  taking,
+  writing,
+} from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {
   guardedBy,
@@ -66,7 +70,9 @@ function takingAway(root: string, path: string): Answer {
 test("a shadow that will not build refuses rather than answering no hanging relation", () => {
   const root = brokenRoot()
 
-  const said = guardedBy(root, answered([taking(APART_PAGE, APART_BODY)]), GUARDS)
+  const took = [taking(HELD_PAGE, HELD_BODY), writing(APART_PAGE, null, APART_BODY)]
+
+  const said = guardedBy(root, answered(took), GUARDS)
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(NOT_WORKED_OUT)
