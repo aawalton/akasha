@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/commands/refactor/arguing/refactor-arguing.module.ts b/command-system/commands/refactor/arguing/refactor-arguing.module.ts
+index d317b074c49227b030101f29c65699afc349ff96..0718faf9120552e1210dc92d2538546bbf19ea85 100644
+--- a/command-system/commands/refactor/arguing/refactor-arguing.module.ts
++++ b/command-system/commands/refactor/arguing/refactor-arguing.module.ts
+@@ -14,7 +14,7 @@ export const refactorArguing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag said more than once is refused.",
++      statement: "A flag said twice is refused.",
+     },
+     {
+       invariantKind: "departure",
