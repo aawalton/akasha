@@ -1,0 +1,13 @@
+import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+
+export const whyIOverspendOnTheMarriage = {
+  id: "01a0785e-aa6d-7ab4-a65c-f0a083a6d4f7",
+  pageTypeSlug: "all-about-alan-topic",
+  slug: "why-i-overspend-on-the-marriage",
+  title: "Why I Overspend On The Marriage",
+  definition: "why I keep paying above the affordable line for time with Jen",
+  parentSlugs: ["the-marriage-lever-i-cannot-read"],
+  relatedSlugs: ["the-budget-i-run-my-days-on", "blank-check-mode-and-recovery-mode"],
+  settled:
+    "Where my spend on time with Jen runs above the affordable line, the overshoot counterbalances itself a good deal on the marriage lever.\n\nI have no visibility into the rate of that exchange. What I know is that the middle is better than all of one or all of the other.\n\nI learned painfully that not depositing enough into the marriage in the short term brings long term losses that outweigh the savings.\n\nI lose either way right now. This way I lose less overall.",
+} as const satisfies AllAboutAlanTopic

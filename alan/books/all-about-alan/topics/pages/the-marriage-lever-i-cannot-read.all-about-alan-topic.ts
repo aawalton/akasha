@@ -9,5 +9,5 @@ export const theMarriageLeverICannotRead = {
   parentSlugs: ["the-harness-around-my-safety"],
   relatedSlugs: ["the-budget-i-run-my-days-on", "what-holds-my-marriage"],
   settled:
-    "The marriage lever has no working tracking at all. I know the lever has an impact, and my best proxy is the Charisma measure, where affordable time spent with Jen is a strong positive signal.\n\nI hold a hypothesis that positive affordable social raises safety in its own right, perhaps as a reach of the marriage dimension, and perhaps even when the social is unaffordable, where the two forces pull opposite ways.\n\nWhere my spend on time with Jen runs above the affordable line, the overshoot counterbalances itself a good deal on this lever.\n\nI have no visibility into the rate of that exchange. What I know is that the middle is better than all of one or all of the other.",
+    "The marriage lever has no working tracking at all. I know the lever has an impact, and my best proxy is the Charisma measure, where affordable time spent with Jen is a strong positive signal.\n\nI hold a hypothesis that positive affordable social raises safety in its own right, perhaps as a reach of the marriage dimension, and perhaps even when the social is unaffordable, where the two forces pull opposite ways.",
 } as const satisfies AllAboutAlanTopic
