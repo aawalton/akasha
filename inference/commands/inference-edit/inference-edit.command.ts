@@ -32,7 +32,7 @@ export const inferenceEdit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The first image named is the subject and every later one is a reference.",
+      statement: "The first image named is the subject and every later image is a reference.",
     },
     {
       invariantKind: "departure",
