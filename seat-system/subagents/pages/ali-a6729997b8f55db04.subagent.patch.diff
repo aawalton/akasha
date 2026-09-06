@@ -760,7 +760,7 @@ index 01b33cc9845f1dcf8757fdc46309c90e4b04c12f..b2d3da9f92017f673994668aa85509b5
  
  export function measureLearning(argv: readonly string[], given: Given): Answer {
 diff --git a/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.ts b/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.ts
-index 381cf63e50264e3288738426ecc7a024a005a3bf..9dee7afed0b8b6ef2c9f3344b17eaa844165c39d 100644
+index 381cf63e50264e3288738426ecc7a024a005a3bf..a583840c45994ab96e8502e7f475278c990ffdab 100644
 --- a/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.ts
 +++ b/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.ts
 @@ -19,6 +19,7 @@ export const measureLearning = {
@@ -771,13 +771,21 @@ index 381cf63e50264e3288738426ecc7a024a005a3bf..9dee7afed0b8b6ef2c9f3344b17eaa84
    ],
    invariants: [
      {
-@@ -41,6 +42,14 @@ export const measureLearning = {
+@@ -41,6 +42,22 @@ export const measureLearning = {
        invariantKind: "departure",
        statement: "A row is one part of the book rather than one topic beneath a part.",
      },
 +    {
 +      invariantKind: "departure",
++<<<<<<< what this change would leave
 +      statement: "A count is every topic under a part, counting that part itself.",
++=======
++      statement: "A count is every topic under a part.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A part counts itself.",
++>>>>>>> what HEAD holds
 +    },
 +    {
 +      invariantKind: "departure",
@@ -1744,7 +1752,7 @@ index bc5bdf8b778784864a6ef0b803466085d451947e..0b322e8435db72b84825bf168ffa0dd9
 +  return pool.slice(0, draws)
 +}
 diff --git a/alan/library/book-of-everything/seeded-draw/seeded-draw.module.ts b/alan/library/book-of-everything/seeded-draw/seeded-draw.module.ts
-index 7e2f9e780ef409c1b985539f20525cf51cc2f791..d326b4a7d3132a299874b17e016c1065e9c65bdb 100644
+index 7e2f9e780ef409c1b985539f20525cf51cc2f791..e5ef4aacd9411f4e21d3c7e8c13b4f9a558c896d 100644
 --- a/alan/library/book-of-everything/seeded-draw/seeded-draw.module.ts
 +++ b/alan/library/book-of-everything/seeded-draw/seeded-draw.module.ts
 @@ -4,7 +4,7 @@ export const seededDraw = {
@@ -1756,7 +1764,7 @@ index 7e2f9e780ef409c1b985539f20525cf51cc2f791..d326b4a7d3132a299874b17e016c1065
    code: "ts",
    test: "ts",
    invariants: [
-@@ -29,5 +29,17 @@ export const seededDraw = {
+@@ -29,5 +29,21 @@ export const seededDraw = {
        invariantKind: "departure",
        statement: "Two seeds that differ give runs that differ.",
      },
@@ -1766,7 +1774,11 @@ index 7e2f9e780ef409c1b985539f20525cf51cc2f791..d326b4a7d3132a299874b17e016c1065
 +    },
 +    {
 +      invariantKind: "departure",
++<<<<<<< what this change would leave
 +      statement: "A draw takes its source of randomness handed in rather than reaching for one.",
++=======
++      statement: "The source of randomness is handed in rather than reached for.",
++>>>>>>> what HEAD holds
 +    },
 +    {
 +      invariantKind: "departure",
