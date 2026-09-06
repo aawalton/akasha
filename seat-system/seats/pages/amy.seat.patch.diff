@@ -34,3 +34,16 @@ index 7225ac563b235fe28331816fb682e1b8ebaa5757..db516de6fc116bc3f1332a23c2dd6efd
          "bodyweight movement as nothing",
      }
    }
+diff --git a/alan/fitness/exercise-access/session-volume/session-volume.module.ts b/alan/fitness/exercise-access/session-volume/session-volume.module.ts
+index 571e0f6844f7d1f63bf3a9a419f591274897d016..1790fe6faebcd086acbcec462f39f0061e10ffb0 100644
+--- a/alan/fitness/exercise-access/session-volume/session-volume.module.ts
++++ b/alan/fitness/exercise-access/session-volume/session-volume.module.ts
+@@ -11,7 +11,7 @@ export const sessionVolume = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Volume is counted against the weight the client profile states.",
++      statement: "Volume is counted against the weight the person's page states.",
+     },
+     {
+       invariantKind: "departure",
