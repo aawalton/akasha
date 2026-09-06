@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/language-design/lua-compiler/typescript-internals/typescript-internals.type-declaration.ts b/language-design/lua-compiler/typescript-internals/typescript-internals.type-declaration.ts
+index 71720a7ad3ea1481f121a8752b16d110bf2df69b..d555a513f1b805d2cb880b059dfac45c8536973b 100644
+--- a/language-design/lua-compiler/typescript-internals/typescript-internals.type-declaration.ts
++++ b/language-design/lua-compiler/typescript-internals/typescript-internals.type-declaration.ts
+@@ -9,7 +9,7 @@ export const typescriptInternals = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Each name here is one the compiler ships without declaring.",
++      statement: "Each name here is a name the compiler ships without declaring.",
+     },
+     {
+       invariantKind: "departure",
