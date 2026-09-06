@@ -1,5 +1,5 @@
 diff --git a/alan/tracking/daily/day-entry-keys/day-entry-keys.module.code.ts b/alan/tracking/daily/day-entry-keys/day-entry-keys.module.code.ts
-index ff6d344229100570f44cba97af0a2a909448d03d..adee6edd2a4b5d962399514fd9d7482e06c37d57 100644
+index ff6d344229100570f44cba97af0a2a909448d03d..199885b15190e629c716f75845f8c203936ec667 100644
 --- a/alan/tracking/daily/day-entry-keys/day-entry-keys.module.code.ts
 +++ b/alan/tracking/daily/day-entry-keys/day-entry-keys.module.code.ts
 @@ -1,4 +1,5 @@
@@ -8,6 +8,15 @@ index ff6d344229100570f44cba97af0a2a909448d03d..adee6edd2a4b5d962399514fd9d7482e
  import { asking } from "@akasha/pages-service/asking"
  import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
  
+@@ -37,7 +38,7 @@ export function entryKeysDeclared(
+   const keys = new Set<string>(["id"])
+   for (const one of stated) {
+     const slug = (one as { readonly pagePropertySlug?: unknown }).pagePropertySlug
+-    if (typeof slug === "string") keys.add(camelizeKey(slug))
++    if (typeof slug === "string") keys.add(camelizeKey(slugOf(slug)))
+   }
+   return keys
+ }
 diff --git a/command-system/commit-author/commit-author.module.code.ts b/command-system/commit-author/commit-author.module.code.ts
 index 2adf96c97bee91bdb3dea0cfbeb0e2cc3ac8091d..f0edc8f5cdfc3be86eea7a5d0a1e6232bcf21f28 100644
 --- a/command-system/commit-author/commit-author.module.code.ts
