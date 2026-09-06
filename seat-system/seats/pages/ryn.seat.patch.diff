@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-items-rules-core/use-destination-resolver/use-destination-resolver.module.ts b/temper/temper-items-rules-core/use-destination-resolver/use-destination-resolver.module.ts
+index eb71ed07fb36296649fd0ae20fc42c2192665eab..5446eaf68e7e8f780d1ba02b72043a368041ff80 100644
+--- a/temper/temper-items-rules-core/use-destination-resolver/use-destination-resolver.module.ts
++++ b/temper/temper-items-rules-core/use-destination-resolver/use-destination-resolver.module.ts
+@@ -21,7 +21,7 @@ export const useDestinationResolver = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One character may take more than one consumable.",
++      statement: "One character may take several consumables.",
+     },
+     {
+       invariantKind: "departure",
