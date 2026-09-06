@@ -14,17 +14,24 @@ export const supervisorInteractive = {
     },
     {
       invariantKind: "departure",
-      statement: "A null child from adoption ends the loop, and nothing is spawned in its place.",
+      statement: "A null child from adoption ends the loop.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing is spawned in the place of a null child.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "exit-after-iterations counts the iterations already begun.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The loop runs exactly the count exit-after-iterations states.",
     },
     {
       invariantKind: "departure",
       statement:
-        "exit-after-iterations counts passes already begun, so the loop runs exactly that many.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "The agent id, session id, resume and prompt are loop variables rewritten each pass.",
+        "The agent id and session id and resume and prompt are loop variables rewritten each round.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +48,7 @@ export const supervisorInteractive = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here spawns a child, wires its streams or reads a word of its output.",
+      statement: "Nothing here spawns a child or wires its streams or reads a word of its output.",
     },
   ],
 } as const satisfies Module
