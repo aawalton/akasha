@@ -1,17 +1,22 @@
 diff --git a/seat-system/seat-session/seat-session.module.ts b/seat-system/seat-session/seat-session.module.ts
-index bea197f71807793d5f0f93a2483f0b7df0072db7..036b2d875290e7799b6af967fd93f095c1df4c36 100644
+index bea197f71807793d5f0f93a2483f0b7df0072db7..11d3890a07a035569b0eb05d57faf4a25be2c7e9 100644
 --- a/seat-system/seat-session/seat-session.module.ts
 +++ b/seat-system/seat-session/seat-session.module.ts
-@@ -22,7 +22,11 @@ export const seatSession = {
+@@ -22,11 +22,15 @@ export const seatSession = {
      },
      {
        invariantKind: "departure",
 -      statement: "A session cannot be observed again, so that session is committed with the page.",
 +      statement: "A session cannot be observed again.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A session is committed with the page.",
      },
      {
        invariantKind: "departure",
+-      statement: "Keeping a session does nothing, because the page write lands that session.",
++      statement: "A session is committed with the page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Keeping a session does nothing.",
+     },
+   ],
+ } as const satisfies Module
