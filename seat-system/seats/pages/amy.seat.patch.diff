@@ -17,6 +17,107 @@ index 5030466e5641f179a9f752597ac2fda3109092f1..11ff5af4e3a5a1d02e18a381dad7dff1
  "$CAP" "$MODE" ios
 -bash "$HERE/../alanwalton-ios-seam/alanwalton-ios-seam.shell-script.shell.sh"
 +bash "$HERE/../ios-seam/alanwalton-ios-seam.shell-script.shell.sh"
+diff --git a/code-system/ios-apps/pages/alanwalton/scripts/ios-seam/alanwalton-ios-seam.shell-script.shell.sh b/code-system/ios-apps/pages/alanwalton/scripts/ios-seam/alanwalton-ios-seam.shell-script.shell.sh
+index a077579964bc9e2630a7a6a4d5de4eebe18b23c9..9dd9c769c206ff984ee5076bafc57a581b7bb364 100644
+--- a/code-system/ios-apps/pages/alanwalton/scripts/ios-seam/alanwalton-ios-seam.shell-script.shell.sh
++++ b/code-system/ios-apps/pages/alanwalton/scripts/ios-seam/alanwalton-ios-seam.shell-script.shell.sh
+@@ -41,15 +41,15 @@ PB="/usr/libexec/PlistBuddy"
+ # writes is under ios/ and reached from the working directory. This script has not
+ # moved into akasha yet, so it reaches in from outside — which is the allowed
+ # direction — rather than answering to whatever cwd the manifest was run in.
+-SHARED_WIDGET_SRC_DIR="$AKASHA_HERE/ios-component/ios-components"
++SHARED_WIDGET_SRC_DIR="$AKASHA_HERE/ios-components"
+ # Each thing this package builds is an akasha ios-program page, and the files Xcode
+ # reads by a fixed name stand beside that page under names the grammar builds.
+-PROGRAMS_DIR="$AKASHA_HERE/ios-program/ios-programs"
++PROGRAMS_DIR="$AKASHA_HERE/ios-programs"
+ WIDGET_PROGRAM="alanwalton-widget"
+ APP_PROGRAM="alanwalton-app"
+ WIDGET_INFO_PLIST="$PROGRAMS_DIR/$WIDGET_PROGRAM/$WIDGET_PROGRAM.ios-program.info-plist.plist"
+ WIDGET_ENTITLEMENTS="$PROGRAMS_DIR/$WIDGET_PROGRAM/$WIDGET_PROGRAM.ios-program.entitlements.entitlements"
+-SHARED_IOS_SEAM_DIR="$AKASHA_HERE/ios-app/shell-scripts"
++SHARED_IOS_SEAM_DIR="$AKASHA_HERE/ios-apps/scripts"
+ if [[ ! -f "$SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh" ]]; then
+   echo "ERROR: $SHARED_IOS_SEAM_DIR/build-stamp/build-stamp.shell-script.shell.sh not found — neither binary could be stamped, and an unstamped binary is refused at the upload gate." >&2
+   exit 1
+@@ -145,55 +145,55 @@ fi
+ 
+ SEAM_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/plist-keys/alanwalton-plist-keys.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-plist-keys/alanwalton-plist-keys.shell-script.shell.sh"
++. "$SEAM_DIR/plist-keys/alanwalton-plist-keys.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/appdelegate-imports/alanwalton-appdelegate-imports.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-appdelegate-imports/alanwalton-appdelegate-imports.shell-script.shell.sh"
++. "$SEAM_DIR/appdelegate-imports/alanwalton-appdelegate-imports.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/seam-reset/alanwalton-seam-reset.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-seam-reset/alanwalton-seam-reset.shell-script.shell.sh"
++. "$SEAM_DIR/seam-reset/alanwalton-seam-reset.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/crash-capture/alanwalton-crash-capture.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-crash-capture/alanwalton-crash-capture.shell-script.shell.sh"
++. "$SEAM_DIR/crash-capture/alanwalton-crash-capture.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/native-audio/alanwalton-native-audio.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-native-audio/alanwalton-native-audio.shell-script.shell.sh"
++. "$SEAM_DIR/native-audio/alanwalton-native-audio.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/kokoro-tts/alanwalton-kokoro-tts.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-kokoro-tts/alanwalton-kokoro-tts.shell-script.shell.sh"
++. "$SEAM_DIR/kokoro-tts/alanwalton-kokoro-tts.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/kokoro-synthesis/alanwalton-kokoro-synthesis.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-kokoro-synthesis/alanwalton-kokoro-synthesis.shell-script.shell.sh"
++. "$SEAM_DIR/kokoro-synthesis/alanwalton-kokoro-synthesis.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/keyboard-accessory-suppressor/alanwalton-keyboard-accessory-suppressor.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-keyboard-accessory-suppressor/alanwalton-keyboard-accessory-suppressor.shell-script.shell.sh"
++. "$SEAM_DIR/keyboard-accessory-suppressor/alanwalton-keyboard-accessory-suppressor.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/apns-forwarding/alanwalton-apns-forwarding.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-apns-forwarding/alanwalton-apns-forwarding.shell-script.shell.sh"
++. "$SEAM_DIR/apns-forwarding/alanwalton-apns-forwarding.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/widget-refresh/alanwalton-widget-refresh.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-widget-refresh/alanwalton-widget-refresh.shell-script.shell.sh"
++. "$SEAM_DIR/widget-refresh/alanwalton-widget-refresh.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/badge/alanwalton-badge.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-badge/alanwalton-badge.shell-script.shell.sh"
++. "$SEAM_DIR/badge/alanwalton-badge.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/wallpaper-intent/alanwalton-wallpaper-intent.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-wallpaper-intent/alanwalton-wallpaper-intent.shell-script.shell.sh"
++. "$SEAM_DIR/wallpaper-intent/alanwalton-wallpaper-intent.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/health-samples-intent/alanwalton-health-samples-intent.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-health-samples-intent/alanwalton-health-samples-intent.shell-script.shell.sh"
++. "$SEAM_DIR/health-samples-intent/alanwalton-health-samples-intent.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/health-samples-drain/alanwalton-health-samples-drain.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-health-samples-drain/alanwalton-health-samples-drain.shell-script.shell.sh"
++. "$SEAM_DIR/health-samples-drain/alanwalton-health-samples-drain.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/app-shortcuts/alanwalton-app-shortcuts.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-app-shortcuts/alanwalton-app-shortcuts.shell-script.shell.sh"
++. "$SEAM_DIR/app-shortcuts/alanwalton-app-shortcuts.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/device-secret/alanwalton-device-secret.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-device-secret/alanwalton-device-secret.shell-script.shell.sh"
++. "$SEAM_DIR/device-secret/alanwalton-device-secret.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/monarch-tap/alanwalton-monarch-tap.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-monarch-tap/alanwalton-monarch-tap.shell-script.shell.sh"
++. "$SEAM_DIR/monarch-tap/alanwalton-monarch-tap.shell-script.shell.sh"
+ 
+ # Where 09-monarch-tap-and-build-stamp.sh called it, between the relay and the
+ # registrations. The sibling shell calls it from its own seam too.
+ native_shell_stamp_app "$APPDELEGATE"
+ 
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/plugin-registrations/alanwalton-plugin-registrations.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-plugin-registrations/alanwalton-plugin-registrations.shell-script.shell.sh"
++. "$SEAM_DIR/plugin-registrations/alanwalton-plugin-registrations.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/fluidaudio-pin/alanwalton-fluidaudio-pin.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-fluidaudio-pin/alanwalton-fluidaudio-pin.shell-script.shell.sh"
++. "$SEAM_DIR/fluidaudio-pin/alanwalton-fluidaudio-pin.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/app-icon/alanwalton-app-icon.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-app-icon/alanwalton-app-icon.shell-script.shell.sh"
++. "$SEAM_DIR/app-icon/alanwalton-app-icon.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/widget-target/alanwalton-widget-target.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-widget-target/alanwalton-widget-target.shell-script.shell.sh"
++. "$SEAM_DIR/widget-target/alanwalton-widget-target.shell-script.shell.sh"
+ 
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/app-entitlements/alanwalton-app-entitlements.shell-script.shell.sh
+-. "$SEAM_DIR/alanwalton-app-entitlements/alanwalton-app-entitlements.shell-script.shell.sh"
++. "$SEAM_DIR/app-entitlements/alanwalton-app-entitlements.shell-script.shell.sh"
+ 
+ echo "Next: open the project in Xcode (npm run ios:open), select your free"
+ echo "Apple ID signing team, plug in the iPhone, and Run."
 diff --git a/code-system/ios-apps/pages/smilingjenny/scripts/ios-add/smilingjenny-ios-add.shell-script.shell.sh b/code-system/ios-apps/pages/smilingjenny/scripts/ios-add/smilingjenny-ios-add.shell-script.shell.sh
 index 41a808f9cee49fad09f9f23c1ac5b3b92e24b16a..c65d415e8851335875db15132c18bea987b41f57 100644
 --- a/code-system/ios-apps/pages/smilingjenny/scripts/ios-add/smilingjenny-ios-add.shell-script.shell.sh
