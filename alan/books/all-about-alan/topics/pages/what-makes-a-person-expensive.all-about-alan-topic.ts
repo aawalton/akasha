@@ -13,5 +13,5 @@ export const whatMakesAPersonExpensive = {
     "why-people-read-as-unsafe",
   ],
   settled:
-    "Conflict is the single biggest factor in what a person's company costs me.\n\nLizzy is usually a two, and I think that is because she is very conflict-avoidant.\n\nJen is conflict-able. She does not seek conflict out and she does not avoid it either.\n\nWhat I am paying for is the not knowing rather than the conflict itself. Variable punishment operant conditioning.",
+    "Conflict is the single biggest factor in what a person's company costs me.\n\nLizzy is usually a two, and I think that is because she is very conflict-avoidant.\n\nJen is conflict-able. She does not seek conflict out and she does not avoid it either.\n\nWhat I am paying for is the not knowing rather than the conflict itself. Variable punishment operant conditioning.\n\nNothing tells me in advance which kind of evening it will be. I am incredibly bad at predicting the results, mostly because of the aphantasia.",
 } as const satisfies AllAboutAlanTopic
