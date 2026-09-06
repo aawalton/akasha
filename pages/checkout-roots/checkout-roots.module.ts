@@ -14,7 +14,7 @@ export const checkoutRoots = {
     },
     {
       invariantKind: "stopgap",
-      statement: "A path under no marked checkout answers the folder two above this one.",
+      statement: "A path under no marked checkout answers the folder two above that path.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const checkoutRoots = {
     },
     {
       invariantKind: "departure",
-      statement: "A root stated in the environment stands over the one found on disk.",
+      statement: "A root stated in the environment wins over the root found on disk.",
     },
     {
       invariantKind: "departure",
