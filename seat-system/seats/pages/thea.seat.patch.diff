@@ -1,5 +1,18 @@
 writerOwesReading: false
 readersOweReading: false
+diff --git a/agents/claude-accounts/claude-account.page-type.ts b/agents/claude-accounts/claude-account.page-type.ts
+index 3a361bda56e27a8b383d73edc8827e017340e673..a846fc3b5d76e25747c3bc2459024b6f7e4b881a 100644
+--- a/agents/claude-accounts/claude-account.page-type.ts
++++ b/agents/claude-accounts/claude-account.page-type.ts
+@@ -114,7 +114,7 @@ export const claudeAccount = {
+     { pagePropertySlug: "text-property/subscription-type", required: false, many: false },
+     { pagePropertySlug: "text-property/rate-limit-tier", required: false, many: false },
+     { pagePropertySlug: "number-property/renewal-day", required: false, many: false },
+-    { pagePropertySlug: "text-property/scopes", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/scopes", required: false, many: true, maxCount: null },
+     { pagePropertySlug: "text-property/access-token", required: true, many: false, secret: true },
+     { pagePropertySlug: "text-property/refresh-token", required: true, many: false, secret: true },
+     {
 diff --git a/agents/claude-accounts/properties/access-token.text-property.ts b/agents/claude-accounts/properties/access-token.text-property.ts
 index 880a9083330e504a6a6332ed247e6648d51aef7a..c168a66dd239f3141105c27aa3773685e3d3f958 100644
 --- a/agents/claude-accounts/properties/access-token.text-property.ts
@@ -338,6 +351,24 @@ index 5a78ae4f5ec5191130afb6df1ed7963b4ca24ced..da92f0abf81bc68157f218d2984c1129
 +  maxLength: 2000,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/car-research/car-models/car-model.page-type.ts b/alan/car-research/car-models/car-model.page-type.ts
+index 52645ead54c82f2e3e066e2ed2a9f4ed3c09da07..3060e679742680226d25e567fa361ed2e6d87dd7 100644
+--- a/alan/car-research/car-models/car-model.page-type.ts
++++ b/alan/car-research/car-models/car-model.page-type.ts
+@@ -42,7 +42,12 @@ export const carModel = {
+     { pagePropertySlug: "text-property/generation", required: true, many: false },
+     { pagePropertySlug: "text-property/model-years-available", required: true, many: false },
+     { pagePropertySlug: "text-property/overview", required: true, many: false },
+-    { pagePropertySlug: "text-property/powertrain-options", required: true, many: true, max: null },
++    {
++      pagePropertySlug: "text-property/powertrain-options",
++      required: true,
++      many: true,
++      maxCount: null,
++    },
+     { pagePropertySlug: "text-property/segment", required: true, many: false },
+     { pagePropertySlug: "relation-property/car-make-slug", required: true, many: false },
+   ],
 diff --git a/alan/car-research/car-models/properties/body-style.text-property.ts b/alan/car-research/car-models/properties/body-style.text-property.ts
 index 65ca4a5d777dd07731a2ec2678f27735986edc36..9442070ba5d44f403c6d81af1b733c0b8c6d415e 100644
 --- a/alan/car-research/car-models/properties/body-style.text-property.ts
@@ -661,6 +692,37 @@ index 4c071cd1e5774165937bdc91eaea511c33fde64a..4fb86434f1393deef30cd03705623f5d
 +  maxLength: 50,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/fitness/coaching-constraints/coaching-constraint.page-type.ts b/alan/fitness/coaching-constraints/coaching-constraint.page-type.ts
+index 4813491379fa10bbb3233e7f661b23bcb253bc47..04d5ee7960d7a30b961230d807a3d4ccda1b5c79 100644
+--- a/alan/fitness/coaching-constraints/coaching-constraint.page-type.ts
++++ b/alan/fitness/coaching-constraints/coaching-constraint.page-type.ts
+@@ -37,7 +37,7 @@ export const coachingConstraint = {
+       required: true,
+       many: false,
+     },
+-    { pagePropertySlug: "select-property/focus-tags", required: true, many: true, max: null },
++    { pagePropertySlug: "select-property/focus-tags", required: true, many: true, maxCount: null },
+     { pagePropertySlug: "select-property/coaching-constraint-kind", required: true, many: false },
+     {
+       pagePropertySlug: "number-property/coaching-constraint-sort-order",
+diff --git a/alan/fitness/equipment-items/equipment-item.page-type.ts b/alan/fitness/equipment-items/equipment-item.page-type.ts
+index 793750f851181f50beda0f718620a5bdb4d4c6ac..1366467484fca15b0315d8b4ba85a06324967060 100644
+--- a/alan/fitness/equipment-items/equipment-item.page-type.ts
++++ b/alan/fitness/equipment-items/equipment-item.page-type.ts
+@@ -44,7 +44,12 @@ export const equipmentItem = {
+     { pagePropertySlug: "select-property/equipment-category", required: true, many: false },
+     { pagePropertySlug: "select-property/equipment-configuration", required: true, many: false },
+     { pagePropertySlug: "boolean-property/equipment-available", required: true, many: false },
+-    { pagePropertySlug: "number-property/equipment-loads", required: false, many: true, max: 20 },
++    {
++      pagePropertySlug: "number-property/equipment-loads",
++      required: false,
++      many: true,
++      maxCount: 20,
++    },
+     { pagePropertySlug: "text-property/equipment-notes", required: false, many: false },
+     { pagePropertySlug: "number-property/equipment-sort-order", required: false, many: false },
+   ],
 diff --git a/alan/fitness/equipment-items/properties/equipment-item-loads.text-property.ts b/alan/fitness/equipment-items/properties/equipment-item-loads.text-property.ts
 index 0656ff1f6abe0cfec339a7d7128201424404cc08..96e121958a92dd139348df99fb9b618706817c1a 100644
 --- a/alan/fitness/equipment-items/properties/equipment-item-loads.text-property.ts
@@ -697,6 +759,24 @@ index 54432cbc155b468e406c5e61f2bcf09819f8ae6c..b3ec703a7ef2b7241d2899a605d65bcd
 +  maxLength: 500,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/fitness/exercises/exercise.page-type.ts b/alan/fitness/exercises/exercise.page-type.ts
+index d5a3c3a2dd11b9e64ddd78ca74c2eda4af5b066f..941dd09a5db9823272750f73517d49d34aa5f70f 100644
+--- a/alan/fitness/exercises/exercise.page-type.ts
++++ b/alan/fitness/exercises/exercise.page-type.ts
+@@ -116,7 +116,12 @@ export const exercise = {
+     { pagePropertySlug: "select-property/mechanic", required: false, many: false },
+     { pagePropertySlug: "select-property/movement-pattern", required: true, many: false },
+     { pagePropertySlug: "select-property/muscle-focus", required: true, many: false },
+-    { pagePropertySlug: "select-property/primary-muscles", required: true, many: true, max: null },
++    {
++      pagePropertySlug: "select-property/primary-muscles",
++      required: true,
++      many: true,
++      maxCount: null,
++    },
+     { pagePropertySlug: "select-property/scoring-mode", required: true, many: false },
+     {
+       pagePropertySlug: "select-property/secondary-muscles",
 diff --git a/alan/fitness/exercises/properties/exercise-external-id.text-property.ts b/alan/fitness/exercises/properties/exercise-external-id.text-property.ts
 index e3cb5cba2a0519e24cefffd459f60f3978836d5a..1887b4d4c81d1c5dd58f7a49043ac8e02294f376 100644
 --- a/alan/fitness/exercises/properties/exercise-external-id.text-property.ts
@@ -896,6 +976,24 @@ index 80b5471dfb03241997d95160c647c21cc15ae536..6b183571e5e83ec94059e7d04e648427
 +  maxLength: 400,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
+index 19095fff8e5ef5521e6975a9eb21483dd5a8cb20..f073b993ba52ced61607aca6edb26b33e567fc6c 100644
+--- a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
++++ b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
+@@ -81,7 +81,12 @@ export const calendarEvent = {
+       many: true,
+       max: 20,
+     },
+-    { pagePropertySlug: "text-property/calendar-event-tags", required: false, many: true, max: 20 },
++    {
++      pagePropertySlug: "text-property/calendar-event-tags",
++      required: false,
++      many: true,
++      maxCount: 20,
++    },
+     { pagePropertySlug: "url-property/calendar-event-image-url", required: false, many: false },
+     {
+       pagePropertySlug: "number-property/calendar-event-max-attendees",
 diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-age-groups.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-age-groups.text-property.ts
 index 83a16dee0e263658cbf12df6b54611eabe9a87c1..713f253197a34d9fb5be61fbad39e27fa0fafe49 100644
 --- a/alan/harness/calendar/calendar-events/properties/calendar-event-age-groups.text-property.ts
@@ -1014,6 +1112,19 @@ index c62dbc2b035eab103defb8ff1dfecaa7d9d48b89..bd9a0e44763cd6387e464d336d20cb09
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/alan/harness/monarch/category-rules/category-rule.page-type.ts b/alan/harness/monarch/category-rules/category-rule.page-type.ts
+index d1f4c763a9f9eb10514b83db2c1f60d3d266a2bd..c9ae5848503f0c5d434232c35988164c917854d3 100644
+--- a/alan/harness/monarch/category-rules/category-rule.page-type.ts
++++ b/alan/harness/monarch/category-rules/category-rule.page-type.ts
+@@ -32,7 +32,7 @@ export const categoryRule = {
+   ],
+   properties: [
+     { pagePropertySlug: "text-property/title", required: true, many: false },
+-    { pagePropertySlug: "record-property/matches", required: true, many: true, max: 10 },
++    { pagePropertySlug: "record-property/matches", required: true, many: true, maxCount: 10 },
+     { pagePropertySlug: "relation-property/category-slug", required: false, many: false },
+     { pagePropertySlug: "text-property/rule-note", required: false, many: false },
+     { pagePropertySlug: "number-property/counterpart-within-days", required: false, many: false },
 diff --git a/alan/harness/monarch/category-rules/properties/match-values.text-property.ts b/alan/harness/monarch/category-rules/properties/match-values.text-property.ts
 index 894caadf554851bfd9077864bcf0af50bc644ccc..9f41af674487f2427dc43f931d8f9e5d73e41239 100644
 --- a/alan/harness/monarch/category-rules/properties/match-values.text-property.ts
@@ -1114,6 +1225,24 @@ index 8310e754d28ba7ce800777f87e901ce700b76ee1..b23c694d2e89766e7771b34e30d59106
 +  maxLength: 12,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts b/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
+index 7eff1453a8ce0a839aa074b4f65c4e4434948d0d..c6030e6589ef5eec2dbcd5d9098ae2f5b603f000 100644
+--- a/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
++++ b/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
+@@ -18,7 +18,12 @@ export const monarchMerchant = {
+   partSlugs: ["text-property/merchant-patterns"],
+   properties: [
+     { pagePropertySlug: "text-property/title", required: true, many: false },
+-    { pagePropertySlug: "text-property/merchant-patterns", required: true, many: true, max: 20 },
++    {
++      pagePropertySlug: "text-property/merchant-patterns",
++      required: true,
++      many: true,
++      maxCount: 20,
++    },
+   ],
+   invariants: [
+     {
 diff --git a/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts b/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts
 index 6ca3a6045c8583738d10fb42d4af71b14083de5a..2e80c327427b2d407303c1dd4297a7f0154afd8d 100644
 --- a/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts
@@ -1410,6 +1539,19 @@ index bd60f9f07f6f0fe4efb80603ff321a780754793d..398cd9bcb707b0615ace6754291f9db9
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/alan/library/watching/movies/movie.page-type.ts b/alan/library/watching/movies/movie.page-type.ts
+index e6721963aebfc6053ac23fda7f0bc8d5ebacea83..e24e84349cecc8b6ca9d5cd555a16160f9c1b1bd 100644
+--- a/alan/library/watching/movies/movie.page-type.ts
++++ b/alan/library/watching/movies/movie.page-type.ts
+@@ -26,7 +26,7 @@ export const movie = {
+   partSlugs: [],
+   properties: [
+     { pagePropertySlug: "text-property/title", required: true, many: false },
+-    { pagePropertySlug: "text-property/genres", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/genres", required: false, many: true, maxCount: null },
+     { pagePropertySlug: "text-property/imdb-id", required: false, many: false },
+     { pagePropertySlug: "text-property/poster-path", required: false, many: false },
+     { pagePropertySlug: "select-property/production-status", required: false, many: false },
 diff --git a/alan/library/watching/properties/genres.text-property.ts b/alan/library/watching/properties/genres.text-property.ts
 index 71dd7fd1d1dcd4894f1102d6625cd27827f5fd04..5561c129d0362dc9a170976ea747417efcf16f8c 100644
 --- a/alan/library/watching/properties/genres.text-property.ts
@@ -1449,6 +1591,32 @@ index 8e05617aa4e90865f201ad0f894c144eec0eb68b..5e7a0f31aa6a97ae362eaab9936d8fa4
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/alan/library/watching/shows/show.page-type.ts b/alan/library/watching/shows/show.page-type.ts
+index 9a761d950bda8938d296516b2158c5387bcd070c..68ea6f31a04892747eba6fc053e103346e5f55b6 100644
+--- a/alan/library/watching/shows/show.page-type.ts
++++ b/alan/library/watching/shows/show.page-type.ts
+@@ -28,7 +28,7 @@ export const show = {
+   partSlugs: ["calendar-date-property/last-air-date"],
+   properties: [
+     { pagePropertySlug: "text-property/title", required: true, many: false },
+-    { pagePropertySlug: "text-property/genres", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/genres", required: false, many: true, maxCount: null },
+     { pagePropertySlug: "text-property/imdb-id", required: false, many: false },
+     { pagePropertySlug: "calendar-date-property/last-air-date", required: false, many: false },
+     { pagePropertySlug: "text-property/poster-path", required: false, many: false },
+diff --git a/alan/music/catalog/artists/artist.page-type.ts b/alan/music/catalog/artists/artist.page-type.ts
+index ea74f3708beeba973797d8b6523feef5e4137371..95276b927ef180f0e397e82cd88d60260abe7196 100644
+--- a/alan/music/catalog/artists/artist.page-type.ts
++++ b/alan/music/catalog/artists/artist.page-type.ts
+@@ -20,7 +20,7 @@ export const artist = {
+   partSlugs: ["file-property/reaction", "text-property/artist-genre"],
+   properties: [
+     { pagePropertySlug: "text-property/title", required: true, many: false },
+-    { pagePropertySlug: "text-property/artist-genre", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/artist-genre", required: false, many: true, maxCount: null },
+     { pagePropertySlug: "file-property/reaction", required: false, many: false },
+   ],
+ } as const satisfies PageType
 diff --git a/alan/music/catalog/artists/properties/artist-genre.text-property.ts b/alan/music/catalog/artists/properties/artist-genre.text-property.ts
 index 815ddcd2d005dcf1f2f4f5129cf1f20a0a39232a..45574e8ddb165b58f238cd456b3741a6261ad436 100644
 --- a/alan/music/catalog/artists/properties/artist-genre.text-property.ts
@@ -1901,6 +2069,21 @@ index f1624f230eb4966a5a5f70a48311420aca07f46d..965cfe1633fed8f090560bd7363d736d
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.ts b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+index d2dd1a99ef196d4724c8f397cec5a751a24e31cf..d906b399940bbe7f7695e9f24bcf43b89664307f 100644
+--- a/alan/tracking/daily/wake-days/wake-day.page-type.ts
++++ b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+@@ -152,8 +152,8 @@ export const wakeDay = {
+     { pagePropertySlug: "text-property/version", required: false, many: false },
+     { pagePropertySlug: "instant-property/last-viewed-at", required: false, many: false },
+     { pagePropertySlug: "text-property/safety-level", required: false, many: false },
+-    { pagePropertySlug: "text-property/persona-days", required: false, many: true, max: null },
+-    { pagePropertySlug: "text-property/meals", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/persona-days", required: false, many: true, maxCount: null },
++    { pagePropertySlug: "text-property/meals", required: false, many: true, maxCount: null },
+     { pagePropertySlug: "number-property/health-points", required: false, many: false },
+     { pagePropertySlug: "number-property/task-points", required: false, many: false },
+     { pagePropertySlug: "number-property/wealth-points", required: false, many: false },
 diff --git a/alan/tracking/location-traces/properties/device-id.text-property.ts b/alan/tracking/location-traces/properties/device-id.text-property.ts
 index c64f09667379fbd1823f3aca5771ad64780131b7..8b2950f69e0920678a1e34f33268b4a3e9871252 100644
 --- a/alan/tracking/location-traces/properties/device-id.text-property.ts
@@ -1972,6 +2155,24 @@ index f64dbd5d5689177c4a94b6166f225d37e64a6052..a64fba111814981d8701e5de24a57f47
 +  maxLength: 50,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index 8cbc5f1e81952b08585ae7355d58f15db87219a1..0baebf9e5838ed77ae9706be4ac97fcce0ee7db4 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -55,7 +55,12 @@ export const change = {
+   ],
+   properties: [
+     { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
+-    { pagePropertySlug: "relation-property/guard-slugs", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "relation-property/guard-slugs",
++      required: false,
++      many: true,
++      maxCount: null,
++    },
+     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
+     { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
+     { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
 diff --git a/checks/cluster-checks/properties/closure-policy.text-property.ts b/checks/cluster-checks/properties/closure-policy.text-property.ts
 index 8defeaff31ea38b45954a16c774142fd0813326f..3cae489e1460eec60aafc836e95fdd647543b5de 100644
 --- a/checks/cluster-checks/properties/closure-policy.text-property.ts
@@ -2082,6 +2283,38 @@ index c936bbd690782c7bb5d74102490356a3ccbb3ec7..d658373fafe695c8499e031911ed725a
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/code-system/ios-apps/ios-app.page-type.ts b/code-system/ios-apps/ios-app.page-type.ts
+index 62733bf5ae3a2c6dc4d40eb394cd88ea0d99fbb0..0cc11caea107a183276c6236556d15f759c7dbd3 100644
+--- a/code-system/ios-apps/ios-app.page-type.ts
++++ b/code-system/ios-apps/ios-app.page-type.ts
+@@ -94,7 +94,12 @@ export const iosApp = {
+   extendsSlug: ["page-type/workspace-package"],
+   properties: [
+     { pagePropertySlug: "text-property/app-profile-name", required: true, many: false },
+-    { pagePropertySlug: "text-property/asc-capabilities", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "text-property/asc-capabilities",
++      required: false,
++      many: true,
++      maxCount: null,
++    },
+     { pagePropertySlug: "relation-property/build-script", required: false, many: false },
+     { pagePropertySlug: "text-property/bundle-id", required: true, many: false },
+     { pagePropertySlug: "file-property/capacitor-config", required: true, many: false },
+@@ -109,7 +114,12 @@ export const iosApp = {
+     { pagePropertySlug: "text-property/mac-www-staging-rel", required: false, many: false },
+     { pagePropertySlug: "text-property/marketing-version", required: true, many: false },
+     { pagePropertySlug: "text-property/native-shell-repo-path", required: false, many: false },
+-    { pagePropertySlug: "relation-property/program-slugs", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "relation-property/program-slugs",
++      required: false,
++      many: true,
++      maxCount: null,
++    },
+     { pagePropertySlug: "text-property/spa-source-path", required: false, many: false },
+     { pagePropertySlug: "relation-property/stage-script", required: false, many: false },
+     { pagePropertySlug: "file-property/web-entry", required: false, many: false },
 diff --git a/code-system/ios-apps/properties/app-profile-name.text-property.ts b/code-system/ios-apps/properties/app-profile-name.text-property.ts
 index 61035d369e6ece91deb3ea76f7fb7995d33a57e6..9611a1f9cf1dc468a8d4c15a752e0ca386a63dd3 100644
 --- a/code-system/ios-apps/properties/app-profile-name.text-property.ts
@@ -2320,6 +2553,35 @@ index a825db13186669f2e9a36636aa8cee482de20cfe..37cdc8d83b4605dddc4600e0111a66e1
    nameFormatSlug: "name-format/lower-snake-case",
    invariants: [
      {
+diff --git a/collections/collection.page-type.ts b/collections/collection.page-type.ts
+index 9908816787aa7ad674440ce9c74372e390b9d0c6..7bcc832c90e0a2842d943bce0a6b3ae53c60b3ab 100644
+--- a/collections/collection.page-type.ts
++++ b/collections/collection.page-type.ts
+@@ -98,12 +98,22 @@ export const collection = {
+     },
+     { pagePropertySlug: "number-property/own-length", required: false, many: false },
+     { pagePropertySlug: "number-property/own-progress", required: false, many: false },
+-    { pagePropertySlug: "relation-property/part-of-slugs", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "relation-property/part-of-slugs",
++      required: false,
++      many: true,
++      maxCount: null,
++    },
+     { pagePropertySlug: "number-property/position", required: false, many: false },
+     { pagePropertySlug: "one-of-property/collection-published-at", required: false, many: false },
+     { pagePropertySlug: "rank-property/rank", required: false, many: false },
+     { pagePropertySlug: "select-property/status", required: false, many: false },
+-    { pagePropertySlug: "text-property/collection-tags", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "text-property/collection-tags",
++      required: false,
++      many: true,
++      maxCount: null,
++    },
+     { pagePropertySlug: "relation-property/unit-slug", required: false, many: false },
+     { pagePropertySlug: "computed-property/collection-completion", required: false, many: false },
+     { pagePropertySlug: "relation-property/collection-type-slug", required: false, many: false },
 diff --git a/collections/externals/properties/external-id.text-property.ts b/collections/externals/properties/external-id.text-property.ts
 index 58435225fdee5bf8aa4aabdb36cb095ef439f939..d3e6ebb98fbfda8de03f76e24da0f773c68beb8e 100644
 --- a/collections/externals/properties/external-id.text-property.ts
@@ -2418,6 +2680,70 @@ index d6239bcb4094fe10744bd770cc48cd8b9a5ebbe7..f5c7c4f20b21f3593a05d26fb10a81ca
 +  maxLength: 500,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/collections/syncs/sync.page-type.ts b/collections/syncs/sync.page-type.ts
+index 99eb587f4cb6e2db23b84b73f6acf01e2a5f68d9..31119f231b3d69649923f2cd36a87857c4c38c32 100644
+--- a/collections/syncs/sync.page-type.ts
++++ b/collections/syncs/sync.page-type.ts
+@@ -15,7 +15,12 @@ export const sync = {
+   extendsSlug: ["page-type/page"],
+   partSlugs: ["page-property-entry/sync-runs"],
+   properties: [
+-    { pagePropertySlug: "page-property-entry/sync-runs", required: true, many: true, max: null },
++    {
++      pagePropertySlug: "page-property-entry/sync-runs",
++      required: true,
++      many: true,
++      maxCount: null,
++    },
+   ],
+   invariants: [
+     {
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index 787918d2ed1143cba17240dfbe8a6c23fa7d88ca..00815181e134c2be9f19d120c99e7e2368217f16 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -110,19 +110,34 @@ export const command = {
+   loadedBySlug: "module/calling",
+   properties: [
+     { pagePropertySlug: "relation-property/change-kind-slug", required: true, many: false },
+-    { pagePropertySlug: "record-property/taking", required: false, many: true, max: null },
+-    { pagePropertySlug: "text-property/help-notes", required: false, many: true, max: null },
++    { pagePropertySlug: "record-property/taking", required: false, many: true, maxCount: null },
++    { pagePropertySlug: "text-property/help-notes", required: false, many: true, maxCount: null },
+     {
+       pagePropertySlug: "record-property/help-positionals",
+       required: false,
+       many: true,
+       max: null,
+     },
+-    { pagePropertySlug: "record-property/help-flags", required: false, many: true, max: null },
+-    { pagePropertySlug: "record-property/help-env-vars", required: false, many: true, max: null },
+-    { pagePropertySlug: "record-property/help-exclusions", required: false, many: true, max: null },
+-    { pagePropertySlug: "record-property/help-exits", required: false, many: true, max: null },
+-    { pagePropertySlug: "text-property/help-examples", required: false, many: true, max: null },
++    { pagePropertySlug: "record-property/help-flags", required: false, many: true, maxCount: null },
++    {
++      pagePropertySlug: "record-property/help-env-vars",
++      required: false,
++      many: true,
++      maxCount: null,
++    },
++    {
++      pagePropertySlug: "record-property/help-exclusions",
++      required: false,
++      many: true,
++      maxCount: null,
++    },
++    { pagePropertySlug: "record-property/help-exits", required: false, many: true, maxCount: null },
++    {
++      pagePropertySlug: "text-property/help-examples",
++      required: false,
++      many: true,
++      maxCount: null,
++    },
+   ],
+   invariants: [
+     {
 diff --git a/command-system/commands/properties/help-arg-alias-of-flag.text-property.ts b/command-system/commands/properties/help-arg-alias-of-flag.text-property.ts
 index 3930a02350df699a7cdb593192e5ed02cdb37a10..c2a65bd189698fd5bc9cf9a6a47d7fb73a4e4d89 100644
 --- a/command-system/commands/properties/help-arg-alias-of-flag.text-property.ts
@@ -2601,6 +2927,28 @@ index 05d975cfa0486b7844de3c537763747adaf8dd0f..a27c366253799fd8ce59de77f89ff886
 +  maxLength: 20,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/domains/domain.page-type.ts b/domains/domain.page-type.ts
+index a3f999f1949cc03ab3fd1148e0ae4af3d278a508..a969bc51715e45f6aef38396a534df6a504417d3 100644
+--- a/domains/domain.page-type.ts
++++ b/domains/domain.page-type.ts
+@@ -42,9 +42,14 @@ export const domain = {
+   properties: [
+     { pagePropertySlug: "text-property/definition", required: true, many: false },
+     { pagePropertySlug: "text-property/plural-slug", required: false, many: false },
+-    { pagePropertySlug: "relation-property/part-slugs", required: false, many: true, max: null },
+-    { pagePropertySlug: "record-property/invariants", required: false, many: true, max: null },
+-    { pagePropertySlug: "record-property/directives", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "relation-property/part-slugs",
++      required: false,
++      many: true,
++      maxCount: null,
++    },
++    { pagePropertySlug: "record-property/invariants", required: false, many: true, maxCount: null },
++    { pagePropertySlug: "record-property/directives", required: false, many: true, maxCount: null },
+     { pagePropertySlug: "boolean-property/expands", required: false, many: false },
+   ],
+   invariants: [
 diff --git a/domains/findings/properties/claim.text-property.ts b/domains/findings/properties/claim.text-property.ts
 index 2b9ed046b55865432309c9afb77fcc4c0a8a3405..59c52f9f104598adbf8b3df8deeddf26462b390f 100644
 --- a/domains/findings/properties/claim.text-property.ts
@@ -2625,6 +2973,21 @@ index 9c257c8af2416d9de34dee68fb4061e0f24fbe06..940257ef6b1fdf61ee8c14517a9b5e0a
 +  maxLength: 6000,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/domains/initiatives/initiative.page-type.ts b/domains/initiatives/initiative.page-type.ts
+index 6287829db694d25c937894d28b42ffb38eb21dc9..c5502bb845fcb0217964525d129f3e33107da510 100644
+--- a/domains/initiatives/initiative.page-type.ts
++++ b/domains/initiatives/initiative.page-type.ts
+@@ -34,8 +34,8 @@ export const initiative = {
+     { pagePropertySlug: "relation-property/domain-slug", required: true, many: false },
+     { pagePropertySlug: "relation-property/initiative-persona-slug", required: true, many: false },
+     { pagePropertySlug: "relation-property/parent-slug", required: false, many: false },
+-    { pagePropertySlug: "record-property/intents", required: false, many: true, max: null },
+-    { pagePropertySlug: "text-property/constraints", required: false, many: true, max: 30 },
++    { pagePropertySlug: "record-property/intents", required: false, many: true, maxCount: null },
++    { pagePropertySlug: "text-property/constraints", required: false, many: true, maxCount: 30 },
+   ],
+   mortal: true,
+   invariants: [
 diff --git a/domains/initiatives/properties/constraints.text-property.ts b/domains/initiatives/properties/constraints.text-property.ts
 index 3d16b819671bc5f894e79ab119bc14376fcc60bc..3bc7ee19ebed2dfdf8753f561635f0212d964134 100644
 --- a/domains/initiatives/properties/constraints.text-property.ts
@@ -2661,6 +3024,19 @@ index 4e11186712c8f1844c24acef1842bfaec2f2e068..fa6a46aedf43d3fbb9890a51eeb9e337
 -  max: 500,
 +  maxLength: 500,
    nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/domains/lists/list.page-type.ts b/domains/lists/list.page-type.ts
+index aabad4f180f9a57746245ac57197a6b0593933b6..4dc78422234d491ea589e1fac3761015a6f7ee9d 100644
+--- a/domains/lists/list.page-type.ts
++++ b/domains/lists/list.page-type.ts
+@@ -15,7 +15,7 @@ export const list = {
+   extendsSlug: ["page-type/domain"],
+   partSlugs: ["record-property/members", "text-property/member-name"],
+   properties: [
+-    { pagePropertySlug: "record-property/members", required: true, many: true, max: null },
++    { pagePropertySlug: "record-property/members", required: true, many: true, maxCount: null },
+   ],
    invariants: [
      {
 diff --git a/domains/lists/properties/member-name.text-property.ts b/domains/lists/properties/member-name.text-property.ts
@@ -2824,6 +3200,26 @@ index f763d73c46515b833083fe87bb2df4b30d13c60b..964ef6e75ce10f01a40adfef86fbaa82
 +  maxLength: 200,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/domains/taboo-terms/taboo-term.page-type.ts b/domains/taboo-terms/taboo-term.page-type.ts
+index 7ec1ffffae318c9ad3e9b338905d5632c553c615..76f2c4561f77d4fcbe8b6f6408acb0d5deb1fbaf 100644
+--- a/domains/taboo-terms/taboo-term.page-type.ts
++++ b/domains/taboo-terms/taboo-term.page-type.ts
+@@ -26,8 +26,13 @@ export const tabooTerm = {
+   extendsSlug: ["page-type/page"],
+   properties: [
+     { pagePropertySlug: "text-property/pattern", required: true, many: false },
+-    { pagePropertySlug: "record-property/taboo-senses", required: true, many: true, max: null },
+-    { pagePropertySlug: "text-property/kept-senses", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "record-property/taboo-senses",
++      required: true,
++      many: true,
++      maxCount: null,
++    },
++    { pagePropertySlug: "text-property/kept-senses", required: false, many: true, maxCount: null },
+   ],
+   invariants: [
+     {
 diff --git a/errors-core/runtime-errors/properties/error-app.text-property.ts b/errors-core/runtime-errors/properties/error-app.text-property.ts
 index dff912b9e3e7c07a567a7c119f0407b133eb98f0..70d234c785fc8ffb341a439d6912c6b1aacbd5cb 100644
 --- a/errors-core/runtime-errors/properties/error-app.text-property.ts
@@ -2939,6 +3335,21 @@ index 5a4243caee3e0770b6836099902a170a4a3e3857..96c4cfebb634ddcf579fb5927eb6bfc8
 +  maxLength: 100,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/hook-system/agent-hooks/agent-hook.page-type.ts b/hook-system/agent-hooks/agent-hook.page-type.ts
+index 49c030834043ece96d39f07b8692c0bfa1b8d5f6..3099d6bc95adeb13540f503b7995010bcdc5b720 100644
+--- a/hook-system/agent-hooks/agent-hook.page-type.ts
++++ b/hook-system/agent-hooks/agent-hook.page-type.ts
+@@ -34,8 +34,8 @@ export const agentHook = {
+   ],
+   extendsSlug: ["page-type/module"],
+   properties: [
+-    { pagePropertySlug: "text-property/runs-at", required: true, many: true, max: null },
+-    { pagePropertySlug: "text-property/over-tools", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/runs-at", required: true, many: true, maxCount: null },
++    { pagePropertySlug: "text-property/over-tools", required: false, many: true, maxCount: null },
+   ],
+   invariants: [
+     {
 diff --git a/hook-system/agent-hooks/properties/over-tools.text-property.ts b/hook-system/agent-hooks/properties/over-tools.text-property.ts
 index 69fa16314a241c5f935bf08c8c4ce95e6f207a5b..909f9622fc14223c76dc2cd04a66c08ff1f979f2 100644
 --- a/hook-system/agent-hooks/properties/over-tools.text-property.ts
@@ -2965,6 +3376,19 @@ index 2d2ff0495490e1d4ee60682852feb3890f66b896..99da776174546fa7df1284aca70bcf6f
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/idle-system/idle-persona-cards/idle-persona-card.page-type.ts b/idle-system/idle-persona-cards/idle-persona-card.page-type.ts
+index f993db293aacda1d693033a6d6168c3b1106b5eb..34e323edc07015caf4b7a818945270df36004563 100644
+--- a/idle-system/idle-persona-cards/idle-persona-card.page-type.ts
++++ b/idle-system/idle-persona-cards/idle-persona-card.page-type.ts
+@@ -67,7 +67,7 @@ export const idlePersonaCard = {
+     { pagePropertySlug: "boolean-property/specialize-locked", required: true, many: false },
+     { pagePropertySlug: "relation-property/card-persona-slug", required: false, many: false },
+     { pagePropertySlug: "text-property/cover-image-id", required: false, many: false },
+-    { pagePropertySlug: "text-property/images", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/images", required: false, many: true, maxCount: null },
+     { pagePropertySlug: "number-property/seat-index", required: false, many: false },
+   ],
+   invariants: [
 diff --git a/idle-system/idle-persona-cards/properties/card-slug.text-property.ts b/idle-system/idle-persona-cards/properties/card-slug.text-property.ts
 index 687d578f8f2f711197c78ca452f797aab0df0750..cb8cec977c21167a7a64d3ea482e12b3cd7f12a4 100644
 --- a/idle-system/idle-persona-cards/properties/card-slug.text-property.ts
@@ -3189,6 +3613,24 @@ index b07f8096c9d8a970a849011c6d0e550c5467f9f6..b32092deeb00b92a521e2bd79993bdde
 +  maxLength: 100,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/pages/one-of-properties/one-of-property.page-type.ts b/pages/one-of-properties/one-of-property.page-type.ts
+index 753f7d0a175e061e4b8be19b286824c88e1a826e..8d824ad08cdf3f920e17bd4ef78c8c382178ddac 100644
+--- a/pages/one-of-properties/one-of-property.page-type.ts
++++ b/pages/one-of-properties/one-of-property.page-type.ts
+@@ -15,7 +15,12 @@ export const oneOfProperty = {
+   partSlugs: ["relation-property/member-slugs"],
+   extendsSlug: ["page-type/page-property"],
+   properties: [
+-    { pagePropertySlug: "relation-property/member-slugs", required: true, many: true, max: null },
++    {
++      pagePropertySlug: "relation-property/member-slugs",
++      required: true,
++      many: true,
++      maxCount: null,
++    },
+   ],
+   invariants: [
+     {
 diff --git a/pages/properties/cover.text-property.ts b/pages/properties/cover.text-property.ts
 index 484504733e57b981c7f74c325421773d86e769aa..76fb7fae5313ee2eaeb903a5d4d135c427cd418b 100644
 --- a/pages/properties/cover.text-property.ts
@@ -3253,6 +3695,40 @@ index 8dfcac5ad1a8474efcf476cfa97a183989ea82e5..42032bf2e9d0ce3406afbc1315b1fe94
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/pages/property-entries/page-property-entry.page-type.ts b/pages/property-entries/page-property-entry.page-type.ts
+index 887f5c1d80f26d8107e6cf9e41973faa405cf926..0019ed8c976ffaf035115f1043100027c6a59b12 100644
+--- a/pages/property-entries/page-property-entry.page-type.ts
++++ b/pages/property-entries/page-property-entry.page-type.ts
+@@ -14,7 +14,7 @@ export const pagePropertyEntry = {
+   pluralSlug: "page-property-entries",
+   extendsSlug: ["page-type/page-property"],
+   properties: [
+-    { pagePropertySlug: "record-property/properties", required: true, many: true, max: null },
++    { pagePropertySlug: "record-property/properties", required: true, many: true, maxCount: null },
+   ],
+   invariants: [
+     {
+diff --git a/pages/queries/page-query.page-type.ts b/pages/queries/page-query.page-type.ts
+index 57c39e3a4596841998f0bf065cea7ec0351c6dca..b3e625308c3de7cfa36f28576f034553838d866d 100644
+--- a/pages/queries/page-query.page-type.ts
++++ b/pages/queries/page-query.page-type.ts
+@@ -53,12 +53,12 @@ export const pageQuery = {
+   extendsSlug: ["page-type/page"],
+   properties: [
+     { pagePropertySlug: "text-property/asks-of-slug", required: true, many: false },
+-    { pagePropertySlug: "record-property/parameters", required: false, many: true, max: 5 },
+-    { pagePropertySlug: "record-property/narrows", required: false, many: true, max: 10 },
+-    { pagePropertySlug: "text-property/count-by", required: false, many: true, max: 10 },
++    { pagePropertySlug: "record-property/parameters", required: false, many: true, maxCount: 5 },
++    { pagePropertySlug: "record-property/narrows", required: false, many: true, maxCount: 10 },
++    { pagePropertySlug: "text-property/count-by", required: false, many: true, maxCount: 10 },
+     { pagePropertySlug: "text-property/reduction", required: false, many: false },
+     { pagePropertySlug: "text-property/target-key", required: false, many: false },
+-    { pagePropertySlug: "text-property/keys", required: false, many: true, max: 40 },
++    { pagePropertySlug: "text-property/keys", required: false, many: true, maxCount: 40 },
+     { pagePropertySlug: "text-property/sort-by", required: false, many: false },
+     {
+       pagePropertySlug: "boolean-property/descending",
 diff --git a/pages/queries/properties/asks-of-slug.text-property.ts b/pages/queries/properties/asks-of-slug.text-property.ts
 index 2bcad4d489db226fa8a5df9620f56175a90f1976..2bcc667c4d66fd3cdd54870e49a0fe0502c2d2e6 100644
 --- a/pages/queries/properties/asks-of-slug.text-property.ts
@@ -3396,6 +3872,18 @@ index 9b8838160241c1caad228d476a260aab7ab72b35..179e543fe896a5883b332d34249e5a2e
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/pages/record-properties/record-property.page-type.ts b/pages/record-properties/record-property.page-type.ts
+index 7363b136bc8963df81e06690474a873a0f278f22..1faf8a3187448f2a8393f991697f2db87b476aa7 100644
+--- a/pages/record-properties/record-property.page-type.ts
++++ b/pages/record-properties/record-property.page-type.ts
+@@ -14,6 +14,6 @@ export const recordProperty = {
+   pluralSlug: "record-properties",
+   extendsSlug: ["page-type/page-property"],
+   properties: [
+-    { pagePropertySlug: "record-property/properties", required: true, many: true, max: null },
++    { pagePropertySlug: "record-property/properties", required: true, many: true, maxCount: null },
+   ],
+ } as const satisfies PageType
 diff --git a/pages/select-properties/properties/select-values.text-property.ts b/pages/select-properties/properties/select-values.text-property.ts
 index 2305ee7e36021d83881f97756ac7d8f79176e250..0e4d49ed571436a556d7dae73629061f30a4ff1a 100644
 --- a/pages/select-properties/properties/select-values.text-property.ts
@@ -3407,6 +3895,19 @@ index 2305ee7e36021d83881f97756ac7d8f79176e250..0e4d49ed571436a556d7dae73629061f
 -  max: 100,
 +  maxLength: 100,
    nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/select-properties/select-property.page-type.ts b/pages/select-properties/select-property.page-type.ts
+index c8da18b8448f7545db7e06aca19d197ac2cd5ddc..501d3b6ec9fdc38d858a94877c714174d3ba5517 100644
+--- a/pages/select-properties/select-property.page-type.ts
++++ b/pages/select-properties/select-property.page-type.ts
+@@ -15,7 +15,7 @@ export const selectProperty = {
+   partSlugs: ["text-property/select-values"],
+   extendsSlug: ["page-type/page-property"],
+   properties: [
+-    { pagePropertySlug: "text-property/select-values", required: true, many: true, max: null },
++    { pagePropertySlug: "text-property/select-values", required: true, many: true, maxCount: null },
+   ],
    invariants: [
      {
 diff --git a/pages/types/page-properties/properties/property-slug.text-property.ts b/pages/types/page-properties/properties/property-slug.text-property.ts
@@ -3422,6 +3923,26 @@ index b0472265b556de9c09af366196fb67c547bacfac..f13d58b6a2fd396d23028bb2fe943f99
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
+diff --git a/pages/types/page-type.page-type.ts b/pages/types/page-type.page-type.ts
+index d9fcd5b96dd7a9a0990e3284b862c4958a905035..9575727ae49712a44a90b7cb880d5725903d5c4f 100644
+--- a/pages/types/page-type.page-type.ts
++++ b/pages/types/page-type.page-type.ts
+@@ -87,8 +87,13 @@ export const pageType = {
+   ],
+   extendsSlug: ["page-type/domain"],
+   properties: [
+-    { pagePropertySlug: "relation-property/extends-slug", required: true, many: true, max: null },
+-    { pagePropertySlug: "record-property/properties", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "relation-property/extends-slug",
++      required: true,
++      many: true,
++      maxCount: null,
++    },
++    { pagePropertySlug: "record-property/properties", required: false, many: true, maxCount: null },
+     { pagePropertySlug: "boolean-property/mortal", required: false, many: false },
+     { pagePropertySlug: "text-property/plural-slug", required: true, many: false },
+     { pagePropertySlug: "relation-property/loaded-by-slug", required: false, many: false },
 diff --git a/pages/types/properties/body-property-id.text-property.ts b/pages/types/properties/body-property-id.text-property.ts
 index 2d086bc2038418a548782aaafe3dbb247a4c8772..87a64553538a4f2fb27b280d932115d85d23c774 100644
 --- a/pages/types/properties/body-property-id.text-property.ts
@@ -3702,6 +4223,24 @@ index 08067074e74f6b5880ed98ce93fd6b6cbe049c7d..2f33e33f9b5fd41cceb5935a2fb8f651
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/pages/views/view.page-type.ts b/pages/views/view.page-type.ts
+index 95cd27462b9d5f9a76b2ebc8b4833b27a9b18dbd..5edcfe4b0f29cd3d2bc02eb227e409f1d21314e7 100644
+--- a/pages/views/view.page-type.ts
++++ b/pages/views/view.page-type.ts
+@@ -82,10 +82,10 @@ export const view = {
+     { pagePropertySlug: "text-property/view-predicate", required: false, many: false },
+     { pagePropertySlug: "number-property/view-place", required: false, many: false },
+     { pagePropertySlug: "select-property/layout", required: false, many: false },
+-    { pagePropertySlug: "record-property/narrows", required: false, many: true, max: 10 },
+-    { pagePropertySlug: "record-property/view-sorts", required: false, many: true, max: 5 },
++    { pagePropertySlug: "record-property/narrows", required: false, many: true, maxCount: 10 },
++    { pagePropertySlug: "record-property/view-sorts", required: false, many: true, maxCount: 5 },
+     { pagePropertySlug: "text-property/group-by", required: false, many: false },
+-    { pagePropertySlug: "record-property/group-sorts", required: false, many: true, max: 5 },
++    { pagePropertySlug: "record-property/group-sorts", required: false, many: true, maxCount: 5 },
+     { pagePropertySlug: "select-property/group-granularity", required: false, many: false },
+     {
+       pagePropertySlug: "text-property/visible-properties",
 diff --git a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts b/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
 index 7ba787eb6911c17f5c71ff99984fa9e62f7d3d65..494f7bde84a67f2dbb4eecacd1f844efa55f19e2 100644
 --- a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
@@ -3803,6 +4342,24 @@ index 6abb4605c8be1a30d5aa2785dfe5f554e6b222a9..80c650d4880e022340a7fb16e107222a
 -  max: 10,
 +  maxLength: 10,
    nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/person-system/people/email/rules/email-rule.page-type.ts b/person-system/people/email/rules/email-rule.page-type.ts
+index dceec7e0e07497c6f83c40e21a09514ff4b2d151..d22457ea7151f6005ef47494ae8f84c0a9a24a15 100644
+--- a/person-system/people/email/rules/email-rule.page-type.ts
++++ b/person-system/people/email/rules/email-rule.page-type.ts
+@@ -25,7 +25,12 @@ export const emailRule = {
+   ],
+   properties: [
+     { pagePropertySlug: "text-property/title", required: true, many: false },
+-    { pagePropertySlug: "record-property/email-rule-matches", required: true, many: true, max: 10 },
++    {
++      pagePropertySlug: "record-property/email-rule-matches",
++      required: true,
++      many: true,
++      maxCount: 10,
++    },
+   ],
    invariants: [
      {
 diff --git a/person-system/people/email/rules/properties/email-rule-match-values.text-property.ts b/person-system/people/email/rules/properties/email-rule-match-values.text-property.ts
@@ -4220,6 +4777,47 @@ index 518e7f75278f9fc9a202dfcd47afb658c3ce6e9b..212adbd1042e7b43c64961252591a68a
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/personas/questions/question.page-type.ts b/personas/questions/question.page-type.ts
+index fff4e1d9a0f1fb8f5c5c15505e4764af85887a09..71c16620de2b6277d6e201fbbaba1d045fde8335 100644
+--- a/personas/questions/question.page-type.ts
++++ b/personas/questions/question.page-type.ts
+@@ -53,11 +53,21 @@ export const question = {
+       many: false,
+       default: "open",
+     },
+-    { pagePropertySlug: "text-property/question-offered", required: false, many: true, max: 12 },
++    {
++      pagePropertySlug: "text-property/question-offered",
++      required: false,
++      many: true,
++      maxCount: 12,
++    },
+     { pagePropertySlug: "text-property/question-answer", required: false, many: false },
+     { pagePropertySlug: "instant-property/question-closed-at", required: false, many: false },
+     { pagePropertySlug: "file-property/question-context", required: false, many: false },
+-    { pagePropertySlug: "record-property/question-links", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "record-property/question-links",
++      required: false,
++      many: true,
++      maxCount: null,
++    },
+   ],
+   invariants: [
+     {
+diff --git a/places/location-deals/location-deal.page-type.ts b/places/location-deals/location-deal.page-type.ts
+index a16c6d6885c2e0a40b49026c726fe2f4f0a4c8ab..1ba23451f8bdfec50ed92f35429c46ae37f1ceef 100644
+--- a/places/location-deals/location-deal.page-type.ts
++++ b/places/location-deals/location-deal.page-type.ts
+@@ -52,7 +52,7 @@ export const locationDeal = {
+     { pagePropertySlug: "relation-property/collection", required: true, many: false },
+     { pagePropertySlug: "text-property/deal-key", required: true, many: false },
+     { pagePropertySlug: "text-property/fine-print", required: false, many: false },
+-    { pagePropertySlug: "relation-property/locations", required: true, many: true, max: null },
++    { pagePropertySlug: "relation-property/locations", required: true, many: true, maxCount: null },
+     { pagePropertySlug: "text-property/offer-text", required: true, many: false },
+     { pagePropertySlug: "text-property/offer-type", required: true, many: false },
+     { pagePropertySlug: "text-property/redemption-code", required: false, many: false },
 diff --git a/places/location-deals/properties/deal-key.text-property.ts b/places/location-deals/properties/deal-key.text-property.ts
 index 32cf934911156d936ab44d7831510f8510be6f59..bd306df0ae367720367e5a080d03d816d6b1d6d9 100644
 --- a/places/location-deals/properties/deal-key.text-property.ts
@@ -4508,6 +5106,31 @@ index eb84b501aadb37e0ae21fabf80beaf67609831ff..1561d7f47195dd954d729318285f5853
 +  maxLength: 100,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/readout-system/readout-widgets/readout-widget.page-type.ts b/readout-system/readout-widgets/readout-widget.page-type.ts
+index 48872e8c324bfdc2d2e884df1d383e68c5895beb..6b3172573d5c91a899f32c170a4eee3cdae19a96 100644
+--- a/readout-system/readout-widgets/readout-widget.page-type.ts
++++ b/readout-system/readout-widgets/readout-widget.page-type.ts
+@@ -58,13 +58,18 @@ export const readoutWidget = {
+     { pagePropertySlug: "relation-property/app-slug", required: true, many: false },
+     { pagePropertySlug: "relation-property/component-slug", required: true, many: false },
+     { pagePropertySlug: "text-property/kind", required: true, many: false },
+-    { pagePropertySlug: "text-property/families", required: true, many: true, max: null },
++    { pagePropertySlug: "text-property/families", required: true, many: true, maxCount: null },
+     { pagePropertySlug: "url-property/feed", required: true, many: false },
+     { pagePropertySlug: "text-property/caption", required: false, many: false },
+     { pagePropertySlug: "text-property/gallery-name", required: true, many: false },
+     { pagePropertySlug: "text-property/gallery-description", required: true, many: false },
+     { pagePropertySlug: "text-property/opens", required: false, many: false },
+-    { pagePropertySlug: "relation-property/group-slugs", required: true, many: true, max: null },
++    {
++      pagePropertySlug: "relation-property/group-slugs",
++      required: true,
++      many: true,
++      maxCount: null,
++    },
+     { pagePropertySlug: "number-property/place", required: true, many: false },
+   ],
+   invariants: [
 diff --git a/readout-system/readouts/properties/color-slug.text-property.ts b/readout-system/readouts/properties/color-slug.text-property.ts
 index 2834b4ec74658b73cc9c340a864c8ae344bb9f60..bcec446acc2e788a5a0d3946c24ae1b653a085bd 100644
 --- a/readout-system/readouts/properties/color-slug.text-property.ts
@@ -4673,6 +5296,42 @@ index 7731c4cdd7b5e259488604d3f8b39692307e36b2..a1ef2a1d0d1fffa9ea35ab181c050c3b
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/readout-system/readouts/readout.page-type.ts b/readout-system/readouts/readout.page-type.ts
+index ca966da46a40d425682cda29da7e86a01598a446..6c70e722b7eb1c77e21e73293c237d10896033bb 100644
+--- a/readout-system/readouts/readout.page-type.ts
++++ b/readout-system/readouts/readout.page-type.ts
+@@ -89,7 +89,12 @@ export const readout = {
+     { pagePropertySlug: "text-property/color-slug", required: false, many: false },
+     { pagePropertySlug: "relation-property/color-from-slug", required: false, many: false },
+     { pagePropertySlug: "text-property/earned-key", required: false, many: false },
+-    { pagePropertySlug: "relation-property/group-slugs", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "relation-property/group-slugs",
++      required: false,
++      many: true,
++      maxCount: null,
++    },
+     { pagePropertySlug: "text-property/none-left-words", required: false, many: false },
+     { pagePropertySlug: "text-property/none-left-emoji", required: false, many: false },
+     { pagePropertySlug: "text-property/wire-key", required: true, many: false },
+diff --git a/readout-system/values/value.page-type.ts b/readout-system/values/value.page-type.ts
+index 873cebc39bac0d6a4584755116933011a6ce3c03..0084229a077812a686b34e6a9664bfc608214ec8 100644
+--- a/readout-system/values/value.page-type.ts
++++ b/readout-system/values/value.page-type.ts
+@@ -50,7 +50,12 @@ export const value = {
+     { pagePropertySlug: "number-property/place", required: true, many: false },
+     { pagePropertySlug: "text-property/unit", required: false, many: false },
+     { pagePropertySlug: "relation-property/scale-slug", required: false, many: false },
+-    { pagePropertySlug: "relation-property/group-slugs", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "relation-property/group-slugs",
++      required: false,
++      many: true,
++      maxCount: null,
++    },
+     { pagePropertySlug: "text-property/query-slug", required: false, many: false },
+     { pagePropertySlug: "text-property/query-key", required: false, many: false },
+     { pagePropertySlug: "text-property/query-argument", required: false, many: false },
 diff --git a/reminder-system/reminders/properties/reminder-schedule.text-property.ts b/reminder-system/reminders/properties/reminder-schedule.text-property.ts
 index 37030a7f3da45dc2526c86a0a476f5b6a2ab6e3b..2acd046de58294201317257a1d2fb236f3552208 100644
 --- a/reminder-system/reminders/properties/reminder-schedule.text-property.ts
@@ -5071,6 +5730,19 @@ index b9125e765b0a27b1367e5555201ff35aa3679f18..50fa92d07fb957f5ddd70ede72470a77
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/service-system/secrets/secret.page-type.ts b/service-system/secrets/secret.page-type.ts
+index 3e462dff96e0262a28e0d74bc75f71c22dd76eab..1b82773a5ffb04dc29c9cd1f7a08581751c4e8f8 100644
+--- a/service-system/secrets/secret.page-type.ts
++++ b/service-system/secrets/secret.page-type.ts
+@@ -21,7 +21,7 @@ export const secret = {
+     "text-property/secret-value",
+   ],
+   properties: [
+-    { pagePropertySlug: "record-property/placements", required: true, many: true, max: null },
++    { pagePropertySlug: "record-property/placements", required: true, many: true, maxCount: null },
+     { pagePropertySlug: "text-property/secret-value", required: false, many: false, secret: true },
+   ],
+   invariants: [
 diff --git a/service-system/web-apps/properties/build-command.text-property.ts b/service-system/web-apps/properties/build-command.text-property.ts
 index ef2adb051fdcca37fe2935065c0435963153f4dd..e7ae440d24e5a128e1295b50b6ba745865d94f07 100644
 --- a/service-system/web-apps/properties/build-command.text-property.ts
@@ -5108,6 +5780,19 @@ index 3821e1dd3b48458f5281ed0abf9a0c0fc45bd491..52944e2df1eca47a98b51bc12f516508
 -  max: 200,
 +  maxLength: 200,
    nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/web-apps/web-app.page-type.ts b/service-system/web-apps/web-app.page-type.ts
+index fee578efa65267d2f23f724026a7b630e2f2991a..959bd6e4b1b4542e4821142fe8784bbef6ed68f2 100644
+--- a/service-system/web-apps/web-app.page-type.ts
++++ b/service-system/web-apps/web-app.page-type.ts
+@@ -40,7 +40,7 @@ export const webApp = {
+       many: true,
+       max: 20,
+     },
+-    { pagePropertySlug: "text-property/hostnames", required: false, many: true, max: 20 },
++    { pagePropertySlug: "text-property/hostnames", required: false, many: true, maxCount: 20 },
+   ],
    invariants: [
      {
 diff --git a/service-system/workstation-services/properties/after.text-property.ts b/service-system/workstation-services/properties/after.text-property.ts
@@ -5211,6 +5896,25 @@ index fafe7cf397ac6aeb4b1514cf51a62be858917cbc..c10589fb6a1a7d93749fa450427f7b81
 -  max: 100,
 +  maxLength: 100,
    nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/workstation-services/workstation-service.page-type.ts b/service-system/workstation-services/workstation-service.page-type.ts
+index 31ef86dc88f485e575754b9b8b3cc655bfaa700e..53439c0b5eff9a87ad472538850abc96393852cc 100644
+--- a/service-system/workstation-services/workstation-service.page-type.ts
++++ b/service-system/workstation-services/workstation-service.page-type.ts
+@@ -78,12 +78,12 @@ export const workstationService = {
+     "module/tick-ratchet",
+   ],
+   properties: [
+-    { pagePropertySlug: "text-property/runs", required: true, many: true, max: null },
++    { pagePropertySlug: "text-property/runs", required: true, many: true, maxCount: null },
+     { pagePropertySlug: "boolean-property/enabled", required: true, many: false },
+     { pagePropertySlug: "record-property/systemd", required: false, many: false },
+     { pagePropertySlug: "boolean-property/needs-secrets", required: false, many: false },
+     { pagePropertySlug: "number-property/port", required: false, many: false },
+-    { pagePropertySlug: "text-property/binds", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/binds", required: false, many: true, maxCount: null },
+   ],
    invariants: [
      {
 diff --git a/sms-access/sms-discards/properties/sms-discard-reason.text-property.ts b/sms-access/sms-discards/properties/sms-discard-reason.text-property.ts
@@ -5657,6 +6361,19 @@ index 6e0cdcf45cf04f55636a6e45f1b5c051ba90dd7b..66cdd24e65a290f78da7ca48c7c0d55b
 +  maxLength: 2000,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/story/games/game.page-type.ts b/story/games/game.page-type.ts
+index 0ca26c4d8fcd04683d2944e9a332d95eafcfa10d..267d5b60e9c0f4bbc27ec2ce284dca393316af79 100644
+--- a/story/games/game.page-type.ts
++++ b/story/games/game.page-type.ts
+@@ -119,7 +119,7 @@ export const game = {
+     { pagePropertySlug: "text-property/premise", required: false, many: false },
+     { pagePropertySlug: "text-property/tone", required: false, many: false },
+     { pagePropertySlug: "text-property/reader-framing", required: false, many: false },
+-    { pagePropertySlug: "text-property/genre", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/genre", required: false, many: true, maxCount: null },
+     { pagePropertySlug: "text-property/themes", required: false, many: false },
+     { pagePropertySlug: "boolean-property/maintains-lore", required: false, many: false },
+     { pagePropertySlug: "boolean-property/maintains-design", required: false, many: false },
 diff --git a/story/games/properties/coordinator-agent.text-property.ts b/story/games/properties/coordinator-agent.text-property.ts
 index d164df2ed597582bccb3fa80ed4eab54ede42b4f..67f85123778529fc8359a64aa836f18116ba7fbe 100644
 --- a/story/games/properties/coordinator-agent.text-property.ts
