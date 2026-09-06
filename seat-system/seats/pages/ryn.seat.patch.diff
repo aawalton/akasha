@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/types/properties/sequence.record-property.ts b/pages/types/properties/sequence.record-property.ts
+index 5aafa719f730b0442fa26f16e5db398037be68d9..04257747214109b7ea8955a5bdb365f84d4adea0 100644
+--- a/pages/types/properties/sequence.record-property.ts
++++ b/pages/types/properties/sequence.record-property.ts
+@@ -27,7 +27,7 @@ export const sequence = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page type stating none takes the sequence the page type above states.",
++      statement: "A page type stating no sequence takes the sequence the page type above states.",
+     },
+     {
+       invariantKind: "departure",
