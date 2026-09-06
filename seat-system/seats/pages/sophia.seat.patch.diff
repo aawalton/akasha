@@ -1,0 +1,334 @@
+runsWarrants: false
+diff --git a/context/warrants/agent-role/agent-role.context-warrant.code.ts b/context/warrants/agent-role/agent-role.context-warrant.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e1e8f0bdcc97fa5b27da56647c45ac2dfb35176b
+--- /dev/null
++++ b/context/warrants/agent-role/agent-role.context-warrant.code.ts
+@@ -0,0 +1,24 @@
++import { listedAt } from "@akasha/indexes"
++import { partedIn } from "@akasha/pages/page-file-name"
++import { slugStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
++import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
++
++export const ROLE_TYPE =
++  "A subagent is held to what every role is held to, and that is read before the subagent is changed."
++
++const PAGE_TYPE = "page-type"
++
++const ROLE = "role"
++
++const SUBAGENT = "subagent"
++
++const KEY = "slug"
++
++export function agentRole(root: string, path: string): readonly Warrant[] {
++  if (partedIn(path)?.pageType !== SUBAGENT) return []
++  if (slugStated(root, path, KEY) === null) return []
++  const listed = listedAt(root, PAGE_TYPE, ROLE)[0]
++  if (listed === undefined) return []
++  const oid = blobAt(root, listed.path)
++  return oid === null ? [] : [{ path: listed.path, oid, owed: ROLE_TYPE }]
++}
+diff --git a/context/warrants/agent-role/agent-role.context-warrant.test.ts b/context/warrants/agent-role/agent-role.context-warrant.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..98f0faa767bc21ca5f70354c200727d0491d17f5
+--- /dev/null
++++ b/context/warrants/agent-role/agent-role.context-warrant.test.ts
+@@ -0,0 +1,86 @@
++import { afterAll, expect, test } from "bun:test"
++import { readFileSync, rmSync } from "node:fs"
++import { join } from "node:path"
++import { blobIdOf, recordRead } from "@akasha/command-system/reading"
++import { scratchWorld } from "@akasha/command-system/scratching"
++import { writing } from "@akasha/command-system/scratching/testing"
++import { unreadIn } from "../../modules/warranting/warranting.module.code.ts"
++import {
++  pageTypeListed,
++  pathsOf,
++  seatListed,
++  warrantsSeeded,
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
++import { agentRole, ROLE_TYPE } from "./agent-role.context-warrant.code.ts"
++
++const scratch = scratchWorld()
++
++afterAll(scratch.sweep)
++
++const AGENT = "01a0596c-0000-7000-8000-000000000001"
++
++const AT = "seat-system/subagent/subagents/one-suba.subagent.ts"
++
++const BODY = `export const oneSuba = { slug: "one-suba" }\n`
++
++function subaged(root: string, path: string = AT): string {
++  writing(root, path, BODY)
++  return path
++}
++
++test("a subagent warrants the role page type", () => {
++  const root = scratch.rootFor("akasha-subagent-role-")
++  const held = pageTypeListed(root, "role", ["domain"])
++  expect(pathsOf(agentRole(root, subaged(root)))).toEqual([held])
++})
++
++test("only a subagent warrants the role page type this way", () => {
++  const root = scratch.rootFor("akasha-subagent-role-")
++  pageTypeListed(root, "role", ["domain"])
++  const at = seatListed(root, "one", `slug: "one"`)
++  expect(pathsOf(agentRole(root, at))).toEqual([])
++})
++
++test("a subagent whose body cannot be loaded warrants nothing", () => {
++  const root = scratch.rootFor("akasha-subagent-role-")
++  pageTypeListed(root, "role", ["domain"])
++  writing(root, AT, "this is no module {\n")
++  expect(pathsOf(agentRole(root, AT))).toEqual([])
++})
++
++test("a role page type that is listed nowhere is no warrant", () => {
++  const root = scratch.rootFor("akasha-subagent-role-")
++  pageTypeListed(root, "persona", ["domain"])
++  expect(pathsOf(agentRole(root, subaged(root)))).toEqual([])
++})
++
++test("a role page type whose body is gone warrants nothing of itself", () => {
++  const root = scratch.rootFor("akasha-subagent-role-")
++  const held = pageTypeListed(root, "role", ["domain"])
++  const at = subaged(root)
++  rmSync(join(root, held))
++  expect(pathsOf(agentRole(root, at))).toEqual([])
++})
++
++test("a warrant carries the body at the role page type, and why it is owed", () => {
++  const root = scratch.rootFor("akasha-subagent-role-")
++  const typed = pageTypeListed(root, "role", ["domain"])
++  const held = agentRole(root, subaged(root))[0]
++  expect(held?.path).toBe(typed)
++  expect(held?.oid).toBe(
++    blobIdOf(new TextEncoder().encode(readFileSync(join(root, held?.path ?? ""), "utf8")))
++  )
++  expect(held?.owed).toBe(ROLE_TYPE)
++})
++
++test("a role page type not read is refused, and the refusal says why it is owed", () => {
++  const root = scratch.rootFor("akasha-subagent-role-")
++  warrantsSeeded(root, ["subagent-role"])
++  const held = pageTypeListed(root, "role", ["domain"])
++  const oid = writing(root, AT, BODY)
++  recordRead(root, AGENT, { path: AT, oid, seenAt: 1, mechanicalOid: null })
++  const said = unreadIn(root, AGENT, [AT])
++  expect(said.length).toBe(1)
++  expect(said[0]).toContain(ROLE_TYPE)
++  expect(said[0]).toContain(held)
++})
+diff --git a/context/warrants/agent-role/agent-role.context-warrant.ts b/context/warrants/agent-role/agent-role.context-warrant.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..eb226f3b763b7e4a4225272bb07775d688b97431
+--- /dev/null
++++ b/context/warrants/agent-role/agent-role.context-warrant.ts
+@@ -0,0 +1,32 @@
++import type { ContextWarrant } from "../context-warrant.page-type.ts"
++
++export const agentRole = {
++  id: "01a0734f-8b0b-7000-b77c-72cd290f2287",
++  pageTypeSlug: "context-warrant",
++  slug: "agent-role",
++  definition: "what a subagent must read for the type every role is held to",
++  code: "ts",
++  test: "ts",
++  runsOnRead: true,
++  runsOnWrite: true,
++  transitive: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A subagent warrants the role page type.",
++    },
++
++    {
++      invariantKind: "absence",
++      statement: "A subagent states no role, so no role of its own is warranted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Only a subagent warrants the role page type this way.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A role page type that cannot be found is no warrant.",
++    },
++  ],
++} as const satisfies ContextWarrant
+diff --git a/context/warrants/context-warrant.page-type.ts b/context/warrants/context-warrant.page-type.ts
+index 2297b439f1596d6c9d80ffc75de490464c1eec92..2c48170cce757f8cc527c8618c68894f2510bb80 100644
+--- a/context/warrants/context-warrant.page-type.ts
++++ b/context/warrants/context-warrant.page-type.ts
+@@ -38,7 +38,7 @@ export const contextWarrant = {
+     "context-warrant/role-itself",
+     "context-warrant/role-page-type",
+     "context-warrant/agent-akasha",
+-    "context-warrant/subagent-role",
++    "context-warrant/agent-role",
+   ],
+   extendsSlug: ["page-type/module"],
+   loadedBySlug: "module/warranting",
+diff --git a/context/warrants/subagent-role/subagent-role.context-warrant.code.ts b/context/warrants/subagent-role/subagent-role.context-warrant.code.ts
+deleted file mode 100644
+index 7fe5692f6251a2bc23fa866e2093f997402e76df..0000000000000000000000000000000000000000
+--- a/context/warrants/subagent-role/subagent-role.context-warrant.code.ts
++++ /dev/null
+@@ -1,24 +0,0 @@
+-import { listedAt } from "@akasha/indexes"
+-import { partedIn } from "@akasha/pages/page-file-name"
+-import { slugStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
+-import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
+-
+-export const ROLE_TYPE =
+-  "A subagent is held to what every role is held to, and that is read before the subagent is changed."
+-
+-const PAGE_TYPE = "page-type"
+-
+-const ROLE = "role"
+-
+-const SUBAGENT = "subagent"
+-
+-const KEY = "slug"
+-
+-export function subagentRole(root: string, path: string): readonly Warrant[] {
+-  if (partedIn(path)?.pageType !== SUBAGENT) return []
+-  if (slugStated(root, path, KEY) === null) return []
+-  const listed = listedAt(root, PAGE_TYPE, ROLE)[0]
+-  if (listed === undefined) return []
+-  const oid = blobAt(root, listed.path)
+-  return oid === null ? [] : [{ path: listed.path, oid, owed: ROLE_TYPE }]
+-}
+diff --git a/context/warrants/subagent-role/subagent-role.context-warrant.test.ts b/context/warrants/subagent-role/subagent-role.context-warrant.test.ts
+deleted file mode 100644
+index 276a0a9dece31f58e99b4de58334f004343d40ec..0000000000000000000000000000000000000000
+--- a/context/warrants/subagent-role/subagent-role.context-warrant.test.ts
++++ /dev/null
+@@ -1,86 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import { readFileSync, rmSync } from "node:fs"
+-import { join } from "node:path"
+-import { blobIdOf, recordRead } from "@akasha/command-system/reading"
+-import { scratchWorld } from "@akasha/command-system/scratching"
+-import { writing } from "@akasha/command-system/scratching/testing"
+-import { unreadIn } from "../../modules/warranting/warranting.module.code.ts"
+-import {
+-  pageTypeListed,
+-  pathsOf,
+-  seatListed,
+-  warrantsSeeded,
+-} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+-import { ROLE_TYPE, subagentRole } from "./subagent-role.context-warrant.code.ts"
+-
+-const scratch = scratchWorld()
+-
+-afterAll(scratch.sweep)
+-
+-const AGENT = "01a0596c-0000-7000-8000-000000000001"
+-
+-const AT = "seat-system/subagent/subagents/one-suba.subagent.ts"
+-
+-const BODY = `export const oneSuba = { slug: "one-suba" }\n`
+-
+-function subaged(root: string, path: string = AT): string {
+-  writing(root, path, BODY)
+-  return path
+-}
+-
+-test("a subagent warrants the role page type", () => {
+-  const root = scratch.rootFor("akasha-subagent-role-")
+-  const held = pageTypeListed(root, "role", ["domain"])
+-  expect(pathsOf(subagentRole(root, subaged(root)))).toEqual([held])
+-})
+-
+-test("only a subagent warrants the role page type this way", () => {
+-  const root = scratch.rootFor("akasha-subagent-role-")
+-  pageTypeListed(root, "role", ["domain"])
+-  const at = seatListed(root, "one", `slug: "one"`)
+-  expect(pathsOf(subagentRole(root, at))).toEqual([])
+-})
+-
+-test("a subagent whose body cannot be loaded warrants nothing", () => {
+-  const root = scratch.rootFor("akasha-subagent-role-")
+-  pageTypeListed(root, "role", ["domain"])
+-  writing(root, AT, "this is no module {\n")
+-  expect(pathsOf(subagentRole(root, AT))).toEqual([])
+-})
+-
+-test("a role page type that is listed nowhere is no warrant", () => {
+-  const root = scratch.rootFor("akasha-subagent-role-")
+-  pageTypeListed(root, "persona", ["domain"])
+-  expect(pathsOf(subagentRole(root, subaged(root)))).toEqual([])
+-})
+-
+-test("a role page type whose body is gone warrants nothing of itself", () => {
+-  const root = scratch.rootFor("akasha-subagent-role-")
+-  const held = pageTypeListed(root, "role", ["domain"])
+-  const at = subaged(root)
+-  rmSync(join(root, held))
+-  expect(pathsOf(subagentRole(root, at))).toEqual([])
+-})
+-
+-test("a warrant carries the body at the role page type, and why it is owed", () => {
+-  const root = scratch.rootFor("akasha-subagent-role-")
+-  const typed = pageTypeListed(root, "role", ["domain"])
+-  const held = subagentRole(root, subaged(root))[0]
+-  expect(held?.path).toBe(typed)
+-  expect(held?.oid).toBe(
+-    blobIdOf(new TextEncoder().encode(readFileSync(join(root, held?.path ?? ""), "utf8")))
+-  )
+-  expect(held?.owed).toBe(ROLE_TYPE)
+-})
+-
+-test("a role page type not read is refused, and the refusal says why it is owed", () => {
+-  const root = scratch.rootFor("akasha-subagent-role-")
+-  warrantsSeeded(root, ["subagent-role"])
+-  const held = pageTypeListed(root, "role", ["domain"])
+-  const oid = writing(root, AT, BODY)
+-  recordRead(root, AGENT, { path: AT, oid, seenAt: 1, mechanicalOid: null })
+-  const said = unreadIn(root, AGENT, [AT])
+-  expect(said.length).toBe(1)
+-  expect(said[0]).toContain(ROLE_TYPE)
+-  expect(said[0]).toContain(held)
+-})
+diff --git a/context/warrants/subagent-role/subagent-role.context-warrant.ts b/context/warrants/subagent-role/subagent-role.context-warrant.ts
+deleted file mode 100644
+index 272ab0a0f8e74995d604f0864ba22f6962115383..0000000000000000000000000000000000000000
+--- a/context/warrants/subagent-role/subagent-role.context-warrant.ts
++++ /dev/null
+@@ -1,32 +0,0 @@
+-import type { ContextWarrant } from "../context-warrant.page-type.ts"
+-
+-export const subagentRole = {
+-  id: "01a0734f-8b0b-7000-b77c-72cd290f2287",
+-  pageTypeSlug: "context-warrant",
+-  slug: "subagent-role",
+-  definition: "what a subagent must read for the type every role is held to",
+-  code: "ts",
+-  test: "ts",
+-  runsOnRead: true,
+-  runsOnWrite: true,
+-  transitive: false,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A subagent warrants the role page type.",
+-    },
+-
+-    {
+-      invariantKind: "absence",
+-      statement: "A subagent states no role, so no role of its own is warranted.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Only a subagent warrants the role page type this way.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A role page type that cannot be found is no warrant.",
+-    },
+-  ],
+-} as const satisfies ContextWarrant
