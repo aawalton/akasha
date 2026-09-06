@@ -1,8 +1,6 @@
 import { asking } from "@akasha/pages-service/asking"
-import {
-  readAttributes,
-  type Taken,
-} from "../../../alan/harness/attributes/reading/attributes-reading.module.code.ts"
+import type { Taken } from "../../../alan/harness/attributes/reading/attributes-reading.module.code.ts"
+import { totalAttributes } from "../../../alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 
 const READOUT = "readout"
@@ -75,7 +73,7 @@ export function linesOf(measured: readonly Measured[]): readonly string[] {
 }
 
 export async function measureAttributes(_argv: readonly string[], given: Given): Promise<Answer> {
-  const taken = await readAttributes()
+  const taken = await totalAttributes(given.root)
   const measured = measuredIn(taken, drawnIn(given.root))
   if (measured.length === 0) {
     return { report: [], refusals: [NOTHING_READ, ...taken.unread], code: 2 }

@@ -51,7 +51,7 @@ export type Taken = {
   readonly unread: readonly string[]
 }
 
-function whyOf(thrown: unknown): string {
+export function whyOf(thrown: unknown): string {
   return thrown instanceof Error ? thrown.message : String(thrown)
 }
 
@@ -65,7 +65,7 @@ async function trackedDay(day: string): Promise<Readonly<Record<string, unknown>
   return asked.rows[0]?.values ?? null
 }
 
-function spelledBack(stretch: Readonly<Record<string, unknown>>): Row {
+export function spelledBack(stretch: Readonly<Record<string, unknown>>): Row {
   const values: Record<string, unknown> = {}
   for (const [kept, answered] of Object.entries(AS_THE_STORE_ANSWERS)) {
     values[kept] = stretch[answered]
