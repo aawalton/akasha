@@ -6,7 +6,7 @@ import {
   type Typing,
   typed,
   typingOver,
-} from "@akasha/code-system/code-typing"
+} from "@akasha/code/code-typing"
 import ts from "typescript"
 import { renameExport } from "../../../atomic-changes/pages/rename-export/rename-export.atomic-change.code.ts"
 import { renameLocalVariable } from "../../../atomic-changes/pages/rename-local-variable/rename-local-variable.atomic-change.code.ts"

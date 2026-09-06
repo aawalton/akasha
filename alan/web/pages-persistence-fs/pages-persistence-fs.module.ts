@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pagesPersistenceFs = {
   id: "01a0655d-daab-78ac-a2a5-ed45c80fe2c6",

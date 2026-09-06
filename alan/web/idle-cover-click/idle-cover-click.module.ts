@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const idleCoverClick = {
   id: "01a0655d-dabf-74ef-848f-1fd953cd7910",

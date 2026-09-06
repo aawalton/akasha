@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const offlineDownloadButton = {
   id: "01a0655d-dab8-7704-a82d-b8945c947d76",

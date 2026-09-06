@@ -1,4 +1,4 @@
-import { typed } from "@akasha/code-system/code-typing"
+import { typed } from "@akasha/code/code-typing"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { respelled } from "../../../partial/pages/respell-export/respell-export.change-partial.code.ts"
 

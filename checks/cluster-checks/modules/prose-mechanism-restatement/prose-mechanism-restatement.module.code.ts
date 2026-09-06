@@ -1,4 +1,4 @@
-import { classifyExtension, type FileKind } from "@akasha/code-system/file-kind"
+import { classifyExtension, type FileKind } from "@akasha/code/file-kind"
 import { type FileKindNodeType, nodeTypeOf } from "@akasha/graph/file-kind-authorship"
 import { blankCode, type CommentSyntax } from "../blank-comments/blank-comments.module.code.ts"
 

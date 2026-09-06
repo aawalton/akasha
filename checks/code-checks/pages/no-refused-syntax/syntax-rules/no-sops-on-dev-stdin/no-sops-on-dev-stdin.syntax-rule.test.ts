@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parsedAs } from "@akasha/code-system/code-source"
+import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 import { PROBE_AT, parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
 import { noSopsOnDevStdin, spelledIn } from "./no-sops-on-dev-stdin.syntax-rule.code.ts"

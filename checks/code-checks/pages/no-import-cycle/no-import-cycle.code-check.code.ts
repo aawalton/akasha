@@ -1,5 +1,5 @@
-import { skimmedAs } from "@akasha/code-system/code-source"
-import { landingOf } from "@akasha/code-system/code-specifier"
+import { skimmedAs } from "@akasha/code/code-source"
+import { landingOf } from "@akasha/code/code-specifier"
 import type { Change } from "@akasha/pages/change"
 import ts from "typescript"
 import {

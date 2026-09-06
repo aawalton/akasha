@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const astGrepConfigs = {
   id: "01a069cc-a5de-7782-a90d-1466419d530a",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const prewarm = {
   id: "01a05ca9-d803-7af2-9d91-623f009fb638",

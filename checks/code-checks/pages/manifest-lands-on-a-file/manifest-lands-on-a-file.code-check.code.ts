@@ -1,4 +1,4 @@
-import { reachesIn } from "@akasha/code-system/package-manifest"
+import { reachesIn } from "@akasha/code/package-manifest"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
 import { FILES, input, textIn } from "../../../modules/change-walking/change-walking.module.code.ts"

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const idleTrainVerb = {
   id: "01a0655d-dabf-7728-923c-5382413f3d33",

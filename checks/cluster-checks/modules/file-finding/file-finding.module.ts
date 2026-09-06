@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fileFinding = {
   id: "01a06829-124f-7835-8108-40ec195ea376",

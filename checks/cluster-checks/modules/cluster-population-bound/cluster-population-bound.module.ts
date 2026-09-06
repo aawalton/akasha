@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const clusterPopulationBound = {
   id: "01a06829-124f-786a-9dbd-9ce891c54621",

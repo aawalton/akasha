@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const kokoroTtsAdapter = {
   id: "01a0655d-daab-73fd-b73c-22bee34a5828",

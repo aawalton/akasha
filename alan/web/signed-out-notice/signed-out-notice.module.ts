@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const signedOutNotice = {
   id: "01a0655d-dab9-769e-9db5-ee314f862058",

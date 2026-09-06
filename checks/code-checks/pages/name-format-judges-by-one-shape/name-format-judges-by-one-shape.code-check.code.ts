@@ -1,4 +1,4 @@
-import { parsedAs } from "@akasha/code-system/code-source"
+import { parsedAs } from "@akasha/code/code-source"
 import type { Change } from "@akasha/pages/change"
 import { matchingIn } from "@akasha/pages/name-format/format-reaching"
 import { exportedAs } from "@akasha/pages/page-export-name"

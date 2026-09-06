@@ -1,4 +1,4 @@
-import { type Placed, spelledIn } from "@akasha/code-system/code-specifier"
+import { type Placed, spelledIn } from "@akasha/code/code-specifier"
 import { indexNamed } from "@akasha/indexes"
 import {
   judgingEach,

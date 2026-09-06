@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pagesUnheld = {
   id: "01a0655d-daab-7e2d-87b3-2f04937720ed",

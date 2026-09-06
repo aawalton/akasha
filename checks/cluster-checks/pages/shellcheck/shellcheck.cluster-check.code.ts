@@ -1,7 +1,7 @@
 #!/usr/bin/env bun
 
 import { resolve } from "node:path"
-import { classifyExtension } from "@akasha/code-system/file-kind"
+import { classifyExtension } from "@akasha/code/file-kind"
 import { parseArgs, STANDARD_FLAGS } from "../../modules/cli-args/cli-args.module.code.ts"
 import { examinePopulation } from "../../modules/population/population.module.code.ts"
 import { discoverRepoFiles } from "../../modules/repo-files/repo-files.module.code.ts"

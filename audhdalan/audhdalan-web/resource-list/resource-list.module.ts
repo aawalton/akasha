@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const resourceList = {
   id: "01a06558-c2cc-7004-83e1-2eea1213cc29",

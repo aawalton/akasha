@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const nextUnread = {
   id: "01a0655d-daab-759e-b169-df249a359828",

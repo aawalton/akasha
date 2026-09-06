@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const functionalType = {
   id: "01a06829-124f-7902-b251-5bba69b7b650",

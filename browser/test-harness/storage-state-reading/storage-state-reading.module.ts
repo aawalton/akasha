@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const storageStateReading = {
   id: "01a0659d-b1ba-7002-af95-6de723e71593",

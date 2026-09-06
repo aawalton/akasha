@@ -1,5 +1,5 @@
-import { lineOf, parsedAs } from "@akasha/code-system/code-source"
-import { compiled } from "@akasha/code-system/code-typing"
+import { lineOf, parsedAs } from "@akasha/code/code-source"
+import { compiled } from "@akasha/code/code-typing"
 import ts from "typescript"
 import type { Selector, Text } from "../../../modules/change-walking/change-walking.module.code.ts"
 import { judgingEach, TEXTS } from "../../../modules/change-walking/change-walking.module.code.ts"

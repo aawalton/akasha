@@ -1,5 +1,5 @@
 import { dirname, join } from "node:path"
-import { parsedAs } from "@akasha/code-system/code-source"
+import { parsedAs } from "@akasha/code/code-source"
 import { schemaOf } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"

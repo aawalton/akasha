@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const idleLockVerb = {
   id: "01a0655d-dabf-790f-8075-3e49fc5ff180",

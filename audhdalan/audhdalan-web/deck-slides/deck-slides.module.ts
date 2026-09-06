@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const deckSlides = {
   id: "01a06558-c2cc-7007-a8fb-c181e9ed96cd",

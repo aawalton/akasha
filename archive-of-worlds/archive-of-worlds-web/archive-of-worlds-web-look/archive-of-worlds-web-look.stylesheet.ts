@@ -1,4 +1,4 @@
-import type { Stylesheet } from "@akasha/code-system/stylesheet"
+import type { Stylesheet } from "@akasha/code/stylesheet"
 
 export const archiveOfWorldsWebLook = {
   id: "01a06582-2737-7346-8ca6-342385498900",

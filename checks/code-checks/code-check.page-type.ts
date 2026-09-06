@@ -1,5 +1,5 @@
-import type { Module } from "@akasha/code-system/module"
-import type { Test } from "@akasha/code-system/module/test"
+import type { Module } from "@akasha/code/module"
+import type { Test } from "@akasha/code/module/test"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Entries } from "./properties/entries.file-property.ts"
 import type { RunsOnAudit } from "./properties/runs-on-audit.boolean-property.ts"

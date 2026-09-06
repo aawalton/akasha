@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const idleProtectedUser = {
   id: "01a0655d-dabf-7ac8-8c3c-cb506859e06c",

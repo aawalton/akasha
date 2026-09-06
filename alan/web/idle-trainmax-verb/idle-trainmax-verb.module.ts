@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const idleTrainmaxVerb = {
   id: "01a0655d-dabf-7602-b21b-0285af70eaab",

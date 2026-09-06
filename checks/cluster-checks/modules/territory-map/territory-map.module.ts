@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const territoryMap = {
   id: "01a06890-2000-7000-9000-00000000000a",

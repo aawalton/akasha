@@ -1,4 +1,4 @@
-import { lineOf } from "@akasha/code-system/code-source"
+import { lineOf } from "@akasha/code/code-source"
 import ts from "typescript"
 import type { Given, Refusal } from "../syntax-rule.page-type.ts"
 

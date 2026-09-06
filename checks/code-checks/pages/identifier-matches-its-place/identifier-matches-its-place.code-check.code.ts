@@ -1,4 +1,4 @@
-import { lineOf, parsedAs } from "@akasha/code-system/code-source"
+import { lineOf, parsedAs } from "@akasha/code/code-source"
 import type { Answering } from "@akasha/indexes/answering"
 import { matchingIn } from "@akasha/pages/name-format/format-reaching"
 import type { Matching } from "@akasha/pages/name-format/name-matching"

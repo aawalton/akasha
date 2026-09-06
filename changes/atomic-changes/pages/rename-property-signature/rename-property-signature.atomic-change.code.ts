@@ -6,7 +6,7 @@ import {
   type Typing,
   typed,
   typingOver,
-} from "@akasha/code-system/code-typing"
+} from "@akasha/code/code-typing"
 import ts from "typescript"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 

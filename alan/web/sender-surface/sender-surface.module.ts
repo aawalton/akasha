@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const senderSurface = {
   id: "01a0655d-dab8-72ee-acf8-77bc35e6f4cb",

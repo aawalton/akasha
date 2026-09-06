@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code-system/route"
+import type { Route } from "@akasha/code/route"
 
 export const inboxStoplights = {
   id: "01a072b2-59cc-72dc-9f34-01e609e3f191",

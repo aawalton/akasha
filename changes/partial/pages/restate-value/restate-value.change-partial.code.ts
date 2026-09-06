@@ -1,4 +1,4 @@
-import { literalOf, parsedAs } from "@akasha/code-system/code-source"
+import { literalOf, parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 
 export type Restated = {

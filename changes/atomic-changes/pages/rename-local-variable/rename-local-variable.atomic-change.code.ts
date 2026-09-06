@@ -1,4 +1,4 @@
-import { parsedAs } from "@akasha/code-system/code-source"
+import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const population = {
   id: "01a06829-124f-785d-8df7-d560a1385c10",

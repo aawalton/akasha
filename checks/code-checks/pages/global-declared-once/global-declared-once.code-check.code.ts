@@ -1,5 +1,5 @@
-import { lineOf, parsedAs } from "@akasha/code-system/code-source"
-import { compiled } from "@akasha/code-system/code-typing"
+import { lineOf, parsedAs } from "@akasha/code/code-source"
+import { compiled } from "@akasha/code/code-typing"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
 import ts from "typescript"

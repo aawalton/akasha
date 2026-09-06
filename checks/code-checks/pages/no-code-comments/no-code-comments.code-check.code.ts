@@ -1,4 +1,4 @@
-import { lineAt, parsedAs } from "@akasha/code-system/code-source"
+import { lineAt, parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 import {
   BODIES,

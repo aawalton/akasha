@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const offlineCacheNamespace = {
   id: "01a0655d-daab-70a8-aa8c-abca4e99c9fe",

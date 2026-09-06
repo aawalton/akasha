@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pushRegistrationSync = {
   id: "01a0655d-dab9-7b64-a9ef-667c2948bf1d",

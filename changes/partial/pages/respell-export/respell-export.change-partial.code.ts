@@ -5,7 +5,7 @@ import {
   readingOf,
   referencesOf,
   typingOver,
-} from "@akasha/code-system/code-typing"
+} from "@akasha/code/code-typing"
 
 export type Respelled = {
   readonly bodies: ReadonlyMap<string, string> | null

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const miniPlayerBar = {
   id: "01a0655d-dab8-79dc-aa5f-911e572577ad",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const violationReporting = {
   id: "01a06829-124f-75d7-b0a3-f03d0155c184",

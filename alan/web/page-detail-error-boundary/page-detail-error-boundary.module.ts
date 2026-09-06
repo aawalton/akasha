@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageDetailErrorBoundary = {
   id: "01a0655d-dac0-73c6-af33-519a4bbf0ffc",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const archiveOfWorldsAppId = {
   id: "01a06582-2737-76d4-93d2-6b3e1e0803e4",

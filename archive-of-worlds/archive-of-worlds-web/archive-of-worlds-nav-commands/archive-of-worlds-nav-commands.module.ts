@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const archiveOfWorldsNavCommands = {
   id: "01a06582-2737-740d-be77-3b504657c86b",

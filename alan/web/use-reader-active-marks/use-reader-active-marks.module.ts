@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useReaderActiveMarks = {
   id: "01a0655d-dab9-7d77-a9cd-fbcec82c356b",

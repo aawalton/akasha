@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { parsedAs } from "@akasha/code-system/code-source"
+import { parsedAs } from "@akasha/code/code-source"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { listedFiled, noneOfTypeFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"

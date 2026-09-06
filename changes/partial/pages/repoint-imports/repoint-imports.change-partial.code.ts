@@ -1,5 +1,5 @@
 import { basename, dirname, extname, join, relative } from "node:path"
-import { landingOf, placedIn, spelledIn } from "@akasha/code-system/code-specifier"
+import { landingOf, placedIn, spelledIn } from "@akasha/code/code-specifier"
 
 const GENERATED = "+types"
 

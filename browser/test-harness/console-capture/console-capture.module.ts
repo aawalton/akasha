@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const consoleCapture = {
   id: "01a05ca9-d802-7e8d-8a1c-61187202e954",

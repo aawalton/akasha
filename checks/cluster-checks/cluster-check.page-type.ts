@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Image } from "@akasha/service-system/image"
 import type { AlwaysRun } from "./properties/always-run.boolean-property.ts"

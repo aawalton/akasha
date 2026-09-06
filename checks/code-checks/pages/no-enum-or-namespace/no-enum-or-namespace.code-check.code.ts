@@ -1,4 +1,4 @@
-import { lineOf, parsedAs } from "@akasha/code-system/code-source"
+import { lineOf, parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 import {
   judgingEach,

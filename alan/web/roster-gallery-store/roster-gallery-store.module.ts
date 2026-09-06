@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const rosterGalleryStore = {
   id: "01a0655d-dac0-72c6-b978-a032d1b6391d",

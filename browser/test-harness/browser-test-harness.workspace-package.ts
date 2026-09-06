@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const browserTestHarness = {
   id: "01a05ca9-d801-7799-a4a3-de2a41d35502",

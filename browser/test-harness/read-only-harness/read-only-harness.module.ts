@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const readOnlyHarness = {
   id: "01a05ca9-d803-7362-b933-e54ad04b2b64",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const archiveOfWorldsAppShell = {
   id: "01a06582-2737-7d8f-ad6c-6aac1e470170",

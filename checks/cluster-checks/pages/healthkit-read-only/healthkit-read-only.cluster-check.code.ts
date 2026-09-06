@@ -1,6 +1,6 @@
 #!/usr/bin/env bun
 
-import { classifyExtension } from "@akasha/code-system/file-kind"
+import { classifyExtension } from "@akasha/code/file-kind"
 import {
   alanwaltonIosSeamFiles,
   readAlanwaltonIosSeam,

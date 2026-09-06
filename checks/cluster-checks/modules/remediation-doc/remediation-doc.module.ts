@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const remediationDoc = {
   id: "01a06829-124f-7b25-bc32-0301847e9b74",

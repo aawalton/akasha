@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const idleReorderVerb = {
   id: "01a0655d-dabf-7554-985a-dc53f7e8f47e",

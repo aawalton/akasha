@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parsedAs } from "@akasha/code-system/code-source"
+import { parsedAs } from "@akasha/code/code-source"
 import { parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
 import { noRunOutsideTheRunner } from "./no-run-outside-the-runner.syntax-rule.code.ts"
 

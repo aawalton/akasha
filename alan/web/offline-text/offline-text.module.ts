@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const offlineText = {
   id: "01a0655d-daab-77d7-a316-1495d9684b74",

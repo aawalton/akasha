@@ -1,5 +1,5 @@
 import { basename } from "node:path"
-import { NAMING_NONE, type Naming } from "@akasha/code-system/code-specifier"
+import { NAMING_NONE, type Naming } from "@akasha/code/code-specifier"
 import type { Answering } from "@akasha/indexes/answering"
 import { claimsOf, type FilePropertiesBy, type SidecarsBy } from "@akasha/indexes/entries"
 import { edgesIn } from "@akasha/indexes/import"

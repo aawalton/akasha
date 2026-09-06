@@ -1,4 +1,4 @@
-import { literalOf, parsedAs } from "@akasha/code-system/code-source"
+import { literalOf, parsedAs } from "@akasha/code/code-source"
 import { type Named, namersOf, slugsOfType } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { slugFor } from "@akasha/pages/page-property-key"

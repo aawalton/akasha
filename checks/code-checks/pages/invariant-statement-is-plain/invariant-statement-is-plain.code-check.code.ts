@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { lineOf, parsedAs } from "@akasha/code-system/code-source"
+import { lineOf, parsedAs } from "@akasha/code/code-source"
 import type { Answering } from "@akasha/indexes/answering"
 import { scanned } from "@akasha/plain-language"
 import { makeSentence } from "@akasha/plain-language/dependency-graph"

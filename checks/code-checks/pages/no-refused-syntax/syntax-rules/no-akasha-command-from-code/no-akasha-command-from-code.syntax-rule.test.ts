@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { parsedAs } from "@akasha/code-system/code-source"
+import { parsedAs } from "@akasha/code/code-source"
 import { parsed } from "../../no-refused-syntax.code-check.test-fixtures.ts"
 import { noAkashaCommandFromCode } from "./no-akasha-command-from-code.syntax-rule.code.ts"
 

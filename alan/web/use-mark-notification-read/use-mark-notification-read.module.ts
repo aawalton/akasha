@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useMarkNotificationRead = {
   id: "01a064b3-9ea3-75bb-a562-5ce83ef4b622",

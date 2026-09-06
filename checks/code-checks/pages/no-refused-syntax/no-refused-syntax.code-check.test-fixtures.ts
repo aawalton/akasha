@@ -1,4 +1,4 @@
-import { parsedAs } from "@akasha/code-system/code-source"
+import { parsedAs } from "@akasha/code/code-source"
 import type { Given } from "./syntax-rules/syntax-rule.page-type.ts"
 
 export const PROBE_AT = "akasha/one/probe.module.code.ts"

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const wallpaperCandidates = {
   id: "01a0655d-dab8-73e0-a462-8cc66e1a9be3",

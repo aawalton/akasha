@@ -1,4 +1,4 @@
-import { speltIn } from "@akasha/code-system/code-rule"
+import { speltIn } from "@akasha/code/code-rule"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
 import {

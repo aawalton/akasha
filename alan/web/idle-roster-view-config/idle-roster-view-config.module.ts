@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const idleRosterViewConfig = {
   id: "01a0655d-dabf-7cce-a438-7a3456aefaa3",

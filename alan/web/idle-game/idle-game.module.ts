@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const idleGame = {
   id: "01a0655d-dab9-7786-909b-05144f7efffa",

@@ -1,5 +1,5 @@
-import type { Module } from "@akasha/code-system/module"
-import type { Test } from "@akasha/code-system/module/test"
+import type { Module } from "@akasha/code/module"
+import type { Test } from "@akasha/code/module/test"
 import type { Held } from "@akasha/pages/page-file-name"
 import type { PageType } from "@akasha/pages/page-type"
 import type { FolderShapeEnabled } from "./properties/folder-shape-enabled.boolean-property.ts"

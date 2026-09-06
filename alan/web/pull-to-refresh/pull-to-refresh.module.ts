@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pullToRefresh = {
   id: "01a0655d-dab9-7ef1-aa03-e4a84f90aeb9",
