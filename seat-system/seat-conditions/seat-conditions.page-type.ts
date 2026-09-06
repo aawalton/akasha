@@ -93,11 +93,15 @@ export const seatConditions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One page carries a seat's conditions, and there is never a second.",
+      statement: "One page carries a seat's conditions.",
     },
     {
       invariantKind: "departure",
-      statement: "A second page standing is read as neither of the two pages holding.",
+      statement: "There is never a second page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A second page there is read as no page holding.",
     },
     {
       invariantKind: "departure",
