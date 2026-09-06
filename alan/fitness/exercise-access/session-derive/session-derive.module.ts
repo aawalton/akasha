@@ -10,7 +10,7 @@ export const sessionDerive = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A session's slug says the day of the week, the focus and the day.",
+      statement: "A session's slug says the day of the week and the focus and the day.",
     },
     {
       invariantKind: "departure",
@@ -19,11 +19,12 @@ export const sessionDerive = {
     },
     {
       invariantKind: "departure",
-      statement: "A set's number is one past the highest already logged against its session.",
+      statement:
+        "A set's number is the next number after the highest already logged against its session.",
     },
     {
       invariantKind: "departure",
-      statement: "The first set of a session is numbered one.",
+      statement: "The first set of a session carries the number one.",
     },
     {
       invariantKind: "departure",
