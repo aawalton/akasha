@@ -10,7 +10,8 @@ export const inventorySettingsHandle = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Settings are read and written for the signed-in player rather than a named one.",
+      statement:
+        "Settings are read and written for the signed-in player rather than a named player.",
     },
     {
       invariantKind: "departure",
