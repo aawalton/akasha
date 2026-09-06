@@ -1,0 +1,152 @@
+runsWarrants: false
+diff --git a/command-system/applying/applying.module.code.ts b/command-system/applying/applying.module.code.ts
+index 223248cc883b5e1cc872632bd8e1a5fb8da3ff04..89ec135163747de3c8bc67cc98472688a0407f17 100644
+--- a/command-system/applying/applying.module.code.ts
++++ b/command-system/applying/applying.module.code.ts
+@@ -103,7 +103,8 @@ export async function applied(
+   const said0 = running.checks ? message : bypassedIn(message, noCheckSaid(MECHANICAL.slug))
+   const prepared = preparing(root, head, editsOf(said.held))
+   const formatting = prepared.formatting
+-  if (running.warrants && agentId !== null) warrantedAgain(root, agentId, said.held, said.moved)
++  if (running.writerOwesReading && agentId !== null)
++    warrantedAgain(root, agentId, said.held, said.moved)
+   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
+   const done = await landing(root, prepared.changes, said0, gate, writer, head, asRead, carries)
+   if ("refusals" in done) return done
+diff --git a/command-system/applying/applying.module.test.ts b/command-system/applying/applying.module.test.ts
+index c94e1935ec09627fce1b4957029da55f18b874cc..4657ca1bba24ec1cbe1a3b1dadb59e6885652b82 100644
+--- a/command-system/applying/applying.module.test.ts
++++ b/command-system/applying/applying.module.test.ts
+@@ -120,8 +120,10 @@ test("a patch carrying a conflict does not apply", async () => {
+ test("a patch a mechanical draft opened is a diff git still reads", async () => {
+   const root = await indexed()
+   const draft = [{ path: PAGE, was: bytes(A), body: bytes(MORE) }]
+-  expect("why" in drafted(root, PAGE, draft, { checks: false, warrants: false })).toBe(false)
+-  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, warrants: false })
++  expect("why" in drafted(root, PAGE, draft, { checks: false, writerOwesReading: false })).toBe(
++    false
++  )
++  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, writerOwesReading: false })
+   expect(() => gitSaid(root, ["apply", "--check", patchAt(PAGE) as string])).not.toThrow()
+ })
+ 
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index 80bcc8ecbfe68bf35a056fde9b84b3b89396d55d..eef3f0177a469fb5d770d037b181e0c3397b6129 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -237,7 +237,7 @@ export function noCheckSaid(slug: string): string {
+ export function runningOf(given: Given): Running {
+   const kind = given.changeKind
+   if (kind === undefined) return AUTHORED
+-  return { checks: kind.runsChecks, warrants: kind.writerOwesReading }
++  return { checks: kind.runsChecks, writerOwesReading: kind.writerOwesReading }
+ }
+ 
+ function bypassIn(given: Given, asked: Asked): Bypass | null {
+diff --git a/command-system/asking/asking.module.test.ts b/command-system/asking/asking.module.test.ts
+index b51e473e0e383e91f2b3368d143bfa3d06e51b0f..fd14e65fc5310996f2b71941ca5fbc252a0ba4db 100644
+--- a/command-system/asking/asking.module.test.ts
++++ b/command-system/asking/asking.module.test.ts
+@@ -221,13 +221,13 @@ test("a landing made by a program is told apart from a glass that was broken", a
+ })
+ 
+ test("a change kind says what a draft runs, its checks apart from its warrants", () => {
+-  expect(ranBy(true, false)).toEqual({ checks: true, warrants: false })
+-  expect(ranBy(true, true)).toEqual({ checks: true, warrants: true })
+-  expect(ranBy(false, false)).toEqual({ checks: false, warrants: false })
++  expect(ranBy(true, false)).toEqual({ checks: true, writerOwesReading: false })
++  expect(ranBy(true, true)).toEqual({ checks: true, writerOwesReading: true })
++  expect(ranBy(false, false)).toEqual({ checks: false, writerOwesReading: false })
+ })
+ 
+ test("a call carrying no change kind runs every check and every warrant", () => {
+-  expect(runningOf(givenIn(""))).toEqual({ checks: true, warrants: true })
++  expect(runningOf(givenIn(""))).toEqual({ checks: true, writerOwesReading: true })
+ })
+ 
+ test("a mechanical change under an agent drafts into its patch rather than landing", async () => {
+diff --git a/command-system/commands/patch/patch.command.test.ts b/command-system/commands/patch/patch.command.test.ts
+index 394d2ca8d15664cd20a8c7845d093a1bf7589e47..bf89e0da46b80713e4720d20ae8c76bdefcd449c 100644
+--- a/command-system/commands/patch/patch.command.test.ts
++++ b/command-system/commands/patch/patch.command.test.ts
+@@ -279,10 +279,12 @@ test("a path taken out leaves a mechanical patch mechanical", async () => {
+     { path: ONE, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
+     { path: TWO, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
+   ]
+-  expect("why" in drafted(root, PAGE, draft, { checks: false, warrants: false })).toBe(false)
+-  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, warrants: false })
++  expect("why" in drafted(root, PAGE, draft, { checks: false, writerOwesReading: false })).toBe(
++    false
++  )
++  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, writerOwesReading: false })
+   expect(dropping(root, PAGE, ["--file-path", ONE]).code).toBe(0)
+-  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, warrants: false })
++  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, writerOwesReading: false })
+ })
+ 
+ test("a path a rename left the body at is the path named", async () => {
+diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
+index 0315a229d4c9bf5eb05cd86e61cac1d3fc911f3f..c7b8401e0624056d1e043bbdc976db1df713c2fb 100644
+--- a/command-system/drafting/drafting.module.code.ts
++++ b/command-system/drafting/drafting.module.code.ts
+@@ -42,11 +42,11 @@ const NO_WARRANTS_AT = "runsWarrants: false"
+ 
+ const DIFF_AT = "diff --git "
+ 
+-export type Running = { readonly checks: boolean; readonly warrants: boolean }
++export type Running = { readonly checks: boolean; readonly writerOwesReading: boolean }
+ 
+-export const AUTHORED: Running = { checks: true, warrants: true }
++export const AUTHORED: Running = { checks: true, writerOwesReading: true }
+ 
+-const RUNS_NOTHING: Running = { checks: false, warrants: false }
++const RUNS_NOTHING: Running = { checks: false, writerOwesReading: false }
+ 
+ export type Draft = {
+   readonly path: string
+@@ -208,17 +208,23 @@ export function runningIn(patch: string | null): Running {
+   if (patch === null) return RUNS_NOTHING
+   const at = patch.indexOf(DIFF_AT)
+   const lines = (at < 0 ? patch : patch.slice(0, at)).split("\n")
+-  return { checks: !lines.includes(NO_CHECKS_AT), warrants: !lines.includes(NO_WARRANTS_AT) }
++  return {
++    checks: !lines.includes(NO_CHECKS_AT),
++    writerOwesReading: !lines.includes(NO_WARRANTS_AT),
++  }
+ }
+ 
+ function eitherOf(one: Running, two: Running): Running {
+-  return { checks: one.checks || two.checks, warrants: one.warrants || two.warrants }
++  return {
++    checks: one.checks || two.checks,
++    writerOwesReading: one.writerOwesReading || two.writerOwesReading,
++  }
+ }
+ 
+ function preambleOf(running: Running): string {
+   const said = [
+     ...(running.checks ? [] : [NO_CHECKS_AT]),
+-    ...(running.warrants ? [] : [NO_WARRANTS_AT]),
++    ...(running.writerOwesReading ? [] : [NO_WARRANTS_AT]),
+   ]
+   return said.length === 0 ? "" : `${said.join("\n")}\n`
+ }
+diff --git a/command-system/drafting/drafting.module.test.ts b/command-system/drafting/drafting.module.test.ts
+index 59bd9941d16522f2feaf44d4e1267a2f36eae4c7..617880ccbb324e91f3e2a67e6d425a6697f4246c 100644
+--- a/command-system/drafting/drafting.module.test.ts
++++ b/command-system/drafting/drafting.module.test.ts
+@@ -32,11 +32,11 @@ const ALSO_NOT_TEXT = new Uint8Array([0x80, 0x81, 0x03])
+ const THEN_NOT_TEXT = new Uint8Array([0xc0, 0xaf, 0x07])
+ const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=false"]
+ 
+-const NOTHING_RUNS: Running = { checks: false, warrants: false }
++const NOTHING_RUNS: Running = { checks: false, writerOwesReading: false }
+ 
+-const BOTH_RUN: Running = { checks: true, warrants: true }
++const BOTH_RUN: Running = { checks: true, writerOwesReading: true }
+ 
+-const CHECKS_RUN: Running = { checks: true, warrants: false }
++const CHECKS_RUN: Running = { checks: true, writerOwesReading: false }
+ 
+ const scratch = scratchWorld()
+ 
