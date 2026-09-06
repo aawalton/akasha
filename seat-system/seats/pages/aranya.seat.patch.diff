@@ -61,7 +61,7 @@ index fcb97004f625876cb78201526602e671bef6bde8..c5b4692eed4e7221f571bde1c18ea82f
    ],
  } as const satisfies Module
 diff --git a/editor-extension/subagent-reading/subagent-reading.module.code.ts b/editor-extension/subagent-reading/subagent-reading.module.code.ts
-index 257d033b5bc2baf6028c990560eb57b9494833eb..b6110108d881fa55c2ee339bf6282bc1d7d72ea8 100644
+index 257d033b5bc2baf6028c990560eb57b9494833eb..41169f99fbbbf0ece2ce128ccb3c27314f886509 100644
 --- a/editor-extension/subagent-reading/subagent-reading.module.code.ts
 +++ b/editor-extension/subagent-reading/subagent-reading.module.code.ts
 @@ -9,6 +9,7 @@ import {
@@ -80,3 +80,16 @@ index 257d033b5bc2baf6028c990560eb57b9494833eb..b6110108d881fa55c2ee339bf6282bc1
    readonly dropUntouched: () => Promise<undefined>
  }
  
+@@ -158,6 +160,12 @@ export function createSubagentReader(): SubagentReader {
+       const subagentsDir = path.join(transcriptPath.replace(/\.jsonl$/, ""), "subagents")
+       return descend(runningSubagents(state), subagentsDir, 1, new Set())
+     },
++    // THE SEAT'S OWN FOLD AND NO DESCENT. A child transcript is opened to draw
++    // the tree under a running subagent, and a subagent that ended has no tree
++    // left to draw, so the ids answered here are the ones the seat's own
++    // transcript saw start and finish.
++    endedForSeat: async (agentId: string, transcriptPath: string) =>
++      endedSubagents(await advance(agentId, transcriptPath)),
+     dropUntouched: async () => {
+       for (const key of [...cursors.keys()]) {
+         if (!touched.has(key)) {
