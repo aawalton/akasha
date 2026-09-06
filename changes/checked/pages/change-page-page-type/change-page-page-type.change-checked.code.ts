@@ -14,7 +14,7 @@ import { guardedBy } from "../../../modules/change-guarding/change-guarding.modu
 import { type World, worldOver } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 import { changeFile } from "../../../pages/change-file/change-file.change.code.ts"
-import { moveFile } from "../../../pages/move-file/move-file.change.code.ts"
+
 import { repointed } from "../../../pages/repoint-imports/repoint-imports.change.code.ts"
 
 const GUARDS = [importNotLeftHanging]
@@ -67,7 +67,7 @@ function stepped(world: World, held: Answer, run: (over: World) => Answer): Answ
   return one.refused === null ? gathered([held, one]) : one
 }
 
-function restating(over: World, at: string, was: string, now: string): Answer {
+function restating(over: World, at: string, was: string): Answer {
   const text = over.textOf(at)
   if (text === null) return refusing(`\`${at}\` holds no body once the page is carried`)
   const name = typedAs(was)
@@ -110,10 +110,14 @@ export function changePagePageType(world: World, given: ChangePagePageTypeAsked)
   if (at === undefined) return refusing(`\`${given.at}\` names no file the page type moves`)
   const wasName = typedAs(said.pageType)
   const nowName = typedAs(type.slug)
-  let held = gathered(
-    [...moved].map(([one, next]) => moveFile({ from: one, to: next }, world.textOf))
-  )
-  held = stepped(world, held, (over) => restating(over, at, said.pageType, type.slug))
+  const carried: Edit[] = []
+  for (const [one, next] of moved) {
+    const text = world.textOf(one)
+    if (text === null) return refusing(`\`${one}\` could not be read`)
+    carried.push(...repointed(one, next, text, moved).edits)
+  }
+  let held = answered(carried)
+  held = stepped(world, held, (over) => restating(over, at, said.pageType))
   held = stepped(world, held, (over) => {
     const text = over.textOf(at) ?? ""
     const line = importingFor(wasName).exec(text)
