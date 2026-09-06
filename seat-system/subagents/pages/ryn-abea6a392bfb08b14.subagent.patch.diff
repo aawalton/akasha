@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/readout-system/readout-group-serving/readout-group-serving.module.ts b/readout-system/readout-group-serving/readout-group-serving.module.ts
-index fcb8591053e24558ffb12d45c1f69a55979f9aed..fde9b475e0e19a2fdc80e54a458fea0a2485a50c 100644
+index fcb8591053e24558ffb12d45c1f69a55979f9aed..3ac51239bf64b04351d7355dfec6333875aa6cf5 100644
 --- a/readout-system/readout-group-serving/readout-group-serving.module.ts
 +++ b/readout-system/readout-group-serving/readout-group-serving.module.ts
 @@ -27,11 +27,11 @@ export const readoutGroupServing = {
@@ -34,6 +34,16 @@ index fcb8591053e24558ffb12d45c1f69a55979f9aed..fde9b475e0e19a2fdc80e54a458fea0a
 -      statement: "The reading carried in is the one taken on the machine that took the reading.",
 +      statement:
 +        "The reading carried in is the reading taken on the machine that took the reading.",
+     },
+     {
+       invariantKind: "departure",
+@@ -116,7 +118,8 @@ export const readoutGroupServing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That is read once for the group rather than once for each reading in the group.",
++      statement:
++        "Whether a figure is drawn past either end is read once for the group rather than once per reading.",
      },
      {
        invariantKind: "departure",
