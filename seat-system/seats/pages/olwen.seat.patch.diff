@@ -1,0 +1,196 @@
+diff --git a/persona-system/personas/persona-day-score.domain.ts b/persona-system/personas/persona-day-score.domain.ts
+deleted file mode 100644
+index 08da0913aaf011d4b5e7c6606d45fd54b5cb3bc8..0000000000000000000000000000000000000000
+--- a/persona-system/personas/persona-day-score.domain.ts
++++ /dev/null
+@@ -1,23 +0,0 @@
+-import type { Domain } from "../../domains/domain.page-type.ts"
+-
+-export const personaDayScore = {
+-  id: "01a0675b-16f7-7934-860f-30346687b95a",
+-  pageTypeSlug: "domain",
+-  slug: "persona-day-score",
+-  definition: "what one persona is worth on one day",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A persona day states its own points, computed from the formula its property declares.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Active calories already sit inside a persona day's points.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Replacing a day's active calories moves that day's points by the difference.",
+-    },
+-  ],
+-} as const satisfies Domain
+diff --git a/persona-system/personas/persona-points.domain.ts b/persona-system/personas/persona-points.domain.ts
+deleted file mode 100644
+index 43a48967e71aa84bbffe28ec65faaa20a1adab7d..0000000000000000000000000000000000000000
+--- a/persona-system/personas/persona-points.domain.ts
++++ /dev/null
+@@ -1,63 +0,0 @@
+-import type { Domain } from "../../domains/domain.page-type.ts"
+-
+-export const personaPoints = {
+-  id: "01a0675b-16f8-7862-b5f6-3061651ce2a8",
+-  pageTypeSlug: "domain",
+-  slug: "persona-points",
+-  definition: "a measure of the attention Alan gave one part of his life",
+-  partSlugs: ["domain/persona-day-score"],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Attention counts where that attention made that part of Alan's life better, no matter the worker.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The stoplight built from a persona's points prompts Alan.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A change to a persona's green day points rescores her history as far as her stored days reach.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A persona's daily points and her running total read the same source.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "For some sources a persona's running total is the sum of her days.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A persona's running total only ever rises, unless a rebuild rewrites that total downward.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A day's color is computed rather than stored.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement:
+-        "A stored day agrees with the points its recipe computes, for every persona at once.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "A persona's points compute the same wherever the command is run from.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "Nothing tells Alan a persona has no figure while something else shows Alan one.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "No figure Alan reads is arrived at by counting files in a directory.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "Every persona under a value can move that value's light.",
+-    },
+-  ],
+-} as const satisfies Domain
+diff --git a/persona-system/personas/points/day-score/persona-day-score.domain.ts b/persona-system/personas/points/day-score/persona-day-score.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a9feebcc831e6c249eceb82d14933e6d86d5fd10
+--- /dev/null
++++ b/persona-system/personas/points/day-score/persona-day-score.domain.ts
+@@ -0,0 +1,23 @@
++import type { Domain } from "../../../../domains/domain.page-type.ts"
++
++export const personaDayScore = {
++  id: "01a0675b-16f7-7934-860f-30346687b95a",
++  pageTypeSlug: "domain",
++  slug: "persona-day-score",
++  definition: "what one persona is worth on one day",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A persona day states its own points, computed from the formula its property declares.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Active calories already sit inside a persona day's points.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Replacing a day's active calories moves that day's points by the difference.",
++    },
++  ],
++} as const satisfies Domain
+diff --git a/persona-system/personas/points/persona-points.domain.ts b/persona-system/personas/points/persona-points.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9adf3fac345b12d28268b2c9eea957c39df95862
+--- /dev/null
++++ b/persona-system/personas/points/persona-points.domain.ts
+@@ -0,0 +1,63 @@
++import type { Domain } from "../../../domains/domain.page-type.ts"
++
++export const personaPoints = {
++  id: "01a0675b-16f8-7862-b5f6-3061651ce2a8",
++  pageTypeSlug: "domain",
++  slug: "persona-points",
++  definition: "a measure of the attention Alan gave one part of his life",
++  partSlugs: ["domain/persona-day-score"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "Attention counts where that attention made that part of Alan's life better, no matter the worker.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The stoplight built from a persona's points prompts Alan.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A change to a persona's green day points rescores her history as far as her stored days reach.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A persona's daily points and her running total read the same source.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "For some sources a persona's running total is the sum of her days.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A persona's running total only ever rises, unless a rebuild rewrites that total downward.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A day's color is computed rather than stored.",
++    },
++    {
++      invariantKind: "gap",
++      statement:
++        "A stored day agrees with the points its recipe computes, for every persona at once.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A persona's points compute the same wherever the command is run from.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "Nothing tells Alan a persona has no figure while something else shows Alan one.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "No figure Alan reads is arrived at by counting files in a directory.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "Every persona under a value can move that value's light.",
++    },
++  ],
++} as const satisfies Domain
