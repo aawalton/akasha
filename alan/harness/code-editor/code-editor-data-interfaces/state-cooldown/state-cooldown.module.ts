@@ -22,7 +22,7 @@ export const stateCooldown = {
     },
     {
       invariantKind: "departure",
-      statement: "A line the same as the one already written is not written again.",
+      statement: "A line the same as the line already written is not written again.",
     },
     {
       invariantKind: "departure",
