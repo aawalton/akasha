@@ -32,3 +32,27 @@ index 3b36c7d782c1d9f25260d3ad59c2e6a1acdd7f47..ead45918d669dcc411f897fa2bddcf98
 +  expect(linesOf([{ label: "Wisdom", figure: 0 }])).toEqual(["Wisdom  0.00"])
 +  expect(linesOf([{ label: "Wisdom", figure: 3 }])).toEqual(["Wisdom  3.00"])
  })
+diff --git a/command-system/commands/measure-attributes/measure-attributes.command.ts b/command-system/commands/measure-attributes/measure-attributes.command.ts
+index c6fcff64a5733850af7f391c815315886dede5cb..2a600dae99e2f8592d0a2ccf16a803fd4c25345c 100644
+--- a/command-system/commands/measure-attributes/measure-attributes.command.ts
++++ b/command-system/commands/measure-attributes/measure-attributes.command.ts
+@@ -11,7 +11,7 @@ export const measureAttributes = {
+   helpNotes: [
+     "the reading is worked out at the moment of asking rather than read off the tiles.",
+     "an attribute is answered for the day Alan is in rather than for the calendar date.",
+-    "a figure is floored to two decimal places, so a figure short of a hundredth reads `0`.",
++    "a figure is floored to two decimal places, so a figure short of a hundredth reads `0.00`.",
+     "an attribute nothing can be read for is named beneath the figures rather than drawn as zero.",
+     "the attributes sit in the order their readouts state.",
+   ],
+@@ -24,6 +24,10 @@ export const measureAttributes = {
+       invariantKind: "departure",
+       statement: "A figure is floored to two decimal places rather than rounded.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A figure is written to two decimal places whatever digits that figure has.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "An attribute that could not be read is named rather than answered as zero.",
