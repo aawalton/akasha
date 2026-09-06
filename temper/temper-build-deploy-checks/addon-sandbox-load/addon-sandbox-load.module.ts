@@ -13,7 +13,7 @@ export const addonSandboxLoad = {
     },
     {
       invariantKind: "constraint",
-      statement: "A traceback longer than ten lines is shortened and says how many went.",
+      statement: "A traceback longer than ten lines is shortened and says how many lines went.",
     },
     {
       invariantKind: "constraint",
