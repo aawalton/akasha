@@ -9,5 +9,5 @@ export const theRatingMyBudgetRestsOn = {
   parentSlugs: ["the-budget-i-run-my-days-on"],
   relatedSlugs: ["how-i-read-my-safety-level"],
   settled:
-    "Only the clock is counted. Each stretch's duration is multiplied by how safe I was against how hard the thing was, and the safety rating is one I type and one that carries forward until I change it.\n\nI try to catch the transitions as they happen. Where I miss one, I revise the safety or the difficulty afterwards.\n\nA notification fires as my surplus color drops, and Jen gets the same alert. I do nothing when the alert lands. What the alert buys me for now is knowing where I am.",
+    "Only the clock is counted. Each stretch's duration is multiplied by how safe I was against how hard the thing was, and the safety rating is one I type and one that carries forward until I change it.\n\nI try to catch the transitions as they happen. Where I miss one, I revise the safety or the difficulty afterwards.\n\nThe revision usually moves down, so my live reading runs optimistic. The optimistic reading is still better than nothing.\n\nI am working on catching the changes earlier and on erring low.\n\nA notification fires as my surplus color drops, and Jen gets the same alert. I do nothing when the alert lands. What the alert buys me for now is knowing where I am.",
 } as const satisfies AllAboutAlanTopic
