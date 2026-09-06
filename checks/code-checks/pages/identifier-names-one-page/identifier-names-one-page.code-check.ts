@@ -51,7 +51,7 @@ export const identifierNamesOnePage = {
     },
     {
       invariantKind: "departure",
-      statement: "Two pages in one change carrying one value are refused against each other.",
+      statement: "Two pages in one change carrying one value are refused.",
     },
     {
       invariantKind: "absence",
