@@ -45,6 +45,7 @@ export const setLog = {
     "number-property/weight",
     "relation-property/exercise-slug",
     "relation-property/session-slug",
+    "computed-property/set-volume",
     "select-property/activity-type",
     "text-property/note",
   ],
@@ -61,7 +62,9 @@ export const setLog = {
     { pagePropertySlug: "relation-property/session-slug", required: true, many: false },
     { pagePropertySlug: "number-property/set-number", required: true, many: false },
     { pagePropertySlug: "number-property/weight", required: false, many: false },
+    { pagePropertySlug: "computed-property/set-volume", required: false, many: false },
   ],
+  worked: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -70,6 +73,14 @@ export const setLog = {
     {
       invariantKind: "absence",
       statement: "A session lists no set of its own.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A set states no volume of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A set's volume is worked out from the set and the movement and the lifter.",
     },
     {
       invariantKind: "departure",
