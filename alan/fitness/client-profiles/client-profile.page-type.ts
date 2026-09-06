@@ -23,13 +23,19 @@ export const clientProfile = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement:
-        "One client profile page exists, and a second leaves neither of those two pages holding.",
+      statement: "One client profile page exists.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A second client profile page leaves neither of those two pages holding.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "Volume is counted against the weight this page states, never a number a caller hands in.",
+      statement: "Volume is counted against the weight this page states.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Volume is never counted against a number a caller hands in.",
     },
   ],
 } as const satisfies PageType
