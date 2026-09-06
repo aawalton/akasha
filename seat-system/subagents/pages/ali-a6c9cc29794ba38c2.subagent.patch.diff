@@ -3798,13 +3798,14 @@ index 0000000000000000000000000000000000000000..2941d2d8a16acff35092e190d0309132
 +} as const satisfies MasteryLevel
 diff --git a/alan/library/book-of-everything/mastery-levels/pages/master.mastery-level.ts b/alan/library/book-of-everything/mastery-levels/pages/master.mastery-level.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..60a9723c27b72017e96e9fc27efb978e5292085c
+index 0000000000000000000000000000000000000000..4bb31e945644f7b14fbd540d404572416be3bd43
 --- /dev/null
 +++ b/alan/library/book-of-everything/mastery-levels/pages/master.mastery-level.ts
-@@ -0,0 +1,10 @@
+@@ -0,0 +1,11 @@
 +import type { MasteryLevel } from "../mastery-level.page-type.ts"
 +
 +export const master = {
++  id: "01a0784a-cdb9-7d81-8f89-5d3165f75722",
 +  pageTypeSlug: "mastery-level",
 +  slug: "master",
 +  definition: "sight of the frontier",
