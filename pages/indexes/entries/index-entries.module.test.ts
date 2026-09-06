@@ -314,7 +314,7 @@ test("a page type the change carries reaches the page properties the index carri
 test("a page type no page type page names is answered by nothing rather than by every key", () => {
   const { root } = grounded()
 
-  expect(filePropertiesOver(readingAt(root), []).get("module")).toBe(undefined)
+  expect(filePropertiesOver(readingAt(root), []).get("note")).toBe(undefined)
 })
 
 test("what each page type holds in a file is answered off the index carrying no change", () => {
