@@ -173,3 +173,41 @@ index e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac..7c60c0997f5e6cbd8a8ae1659595f4b3
 +  expect(run.count()).toBe(1)
 +  expect(run.waits).toEqual([])
 +})
+diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
+index 71b1c9cff57cffa813d5b45643073156c9a76e96..a46c356d2e2cec69b46a56b16f3a8a3f9c07a0b0 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.ts
+@@ -164,5 +164,33 @@ export const subagentPresence = {
+       invariantKind: "departure",
+       statement: "A take-in that throws leaves that patch alone and reaps the page still.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A landing another landing's held lock refused is asked for again.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A refusal naming no held lock is answered at once.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A landing is asked for five times at most.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An ask is made thirty seconds after the ask that refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Each ask composes the page again rather than resuming the landing that refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page another process wrote meanwhile is left as that page is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A take-down refused for a held lock is asked for again as a put-up is.",
++    },
+   ],
+ } as const satisfies Module
