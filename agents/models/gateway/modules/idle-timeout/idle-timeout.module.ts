@@ -50,7 +50,7 @@ export const idleTimeout = {
     },
     {
       invariantKind: "departure",
-      statement: "A fetch given an idle span of zero or less is left unguarded.",
+      statement: "A fetch given an idle span at zero or below is left unguarded.",
     },
     {
       invariantKind: "departure",
