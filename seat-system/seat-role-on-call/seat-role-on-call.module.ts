@@ -22,7 +22,8 @@ export const seatRoleOnCall = {
     },
     {
       invariantKind: "departure",
-      statement: "Every role is answered by one read of the index rather than one read each.",
+      statement:
+        "Every role is answered by one read of the index rather than by a read for each role.",
     },
     {
       invariantKind: "departure",
