@@ -1,0 +1,17 @@
+diff --git a/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts b/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
+index f3712fbe6e252c7d131cf788252033a7f6301bf4..7f55535845cc60cbfe1392bced981af4826a1ad4 100644
+--- a/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
++++ b/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
+@@ -25,7 +25,11 @@ export const notifications = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Notifications sit in the order those notifications were pushed, oldest first.",
++      statement: "Notifications sit in the order those notifications were pushed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The oldest notification sits first.",
+     },
+     {
+       invariantKind: "absence",
