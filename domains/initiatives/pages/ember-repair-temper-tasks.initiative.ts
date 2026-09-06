@@ -60,11 +60,11 @@ export const emberRepairTemperTasks = {
     {
       statement: "The browser reads and writes the file beside a page.",
       workingMemory:
-        "Both roads are built and proven against the running store. A query names `files`, camelized like `keys`; pages-access carries `bodies` through upsert, and a seeded body round-tripped whole. The import now narrows on the keys the types declare and hands the merge over as a body: 20 characters, 5,535,066 chars, none an ending. A path road was refused: the store limits no caller. Left: the completion display, which narrows on `userId` no type declares and reads the ending as no completion.",
+        "Met. A query names `files`, camelized like `keys`; pages-access carries `bodies` through upsert. The import and the display both narrow on the keys the types declare, and the completion tabs ask for their own bodies: 20 characters at 5,535,571 chars and one account at 1,963,567, against 20 endings and 1 on the same query without `files`. A listing stays at about 1,300 bytes. A path road was refused: the store limits no caller. No companion carries a completion at all.",
     },
   ],
   constraints: [
-    "The watcher and the addons count as off-workstation, so they reach pages through pages-system-service rather than by reading the repository.",
+    "The watcher and the addons count as off-workstation, so they reach pages through pages-service rather than by reading the repository.",
     "Supabase is used for auth and for nothing else.",
   ],
 } as const satisfies Initiative
