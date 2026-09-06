@@ -11,7 +11,7 @@ export const measureAttributes = {
   helpNotes: [
     "the reading is worked out at the moment of asking rather than read off the tiles.",
     "an attribute is answered for the day Alan is in rather than for the calendar date.",
-    "a figure is floored to two decimal places, so a figure short of a hundredth reads `0`.",
+    "a figure is floored to two decimal places, so a figure short of a hundredth reads `0.00`.",
     "an attribute nothing can be read for is named beneath the figures rather than drawn as zero.",
     "the attributes sit in the order their readouts state.",
   ],
@@ -23,6 +23,10 @@ export const measureAttributes = {
     {
       invariantKind: "departure",
       statement: "A figure is floored to two decimal places rather than rounded.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A figure is written to two decimal places whatever digits that figure has.",
     },
     {
       invariantKind: "departure",

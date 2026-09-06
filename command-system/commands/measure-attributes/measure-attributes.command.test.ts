@@ -41,5 +41,10 @@ test("the labels are padded so the figures line up", () => {
       { label: "Strength", figure: 2.7 },
       { label: "Wisdom", figure: 0.02 },
     ])
-  ).toEqual(["Strength  2.7", "Wisdom    0.02"])
+  ).toEqual(["Strength  2.70", "Wisdom    0.02"])
+})
+
+test("a figure with no hundredths and no tenths is written to two places anyway", () => {
+  expect(linesOf([{ label: "Wisdom", figure: 0 }])).toEqual(["Wisdom  0.00"])
+  expect(linesOf([{ label: "Wisdom", figure: 3 }])).toEqual(["Wisdom  3.00"])
 })

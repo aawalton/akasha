@@ -66,9 +66,12 @@ export function measuredIn(taken: Taken, drawn: ReadonlyMap<string, Drawn>): rea
   return held.map((one) => ({ label: one.label, figure: one.figure }))
 }
 
+// EVERY FIGURE IS WRITTEN TO THE SAME WIDTH. A number written as the number it is drops the places
+// it has no digits for, so a column reads `0`, `0.6` and `0.63`, and the hundredths of one
+// attribute sit under the tenths of the next.
 export function linesOf(measured: readonly Measured[]): readonly string[] {
   const width = measured.reduce((most, one) => Math.max(most, one.label.length), 0)
-  return measured.map((one) => `${one.label.padEnd(width)}  ${one.figure}`)
+  return measured.map((one) => `${one.label.padEnd(width)}  ${one.figure.toFixed(PLACES)}`)
 }
 
 export async function measureAttributes(_argv: readonly string[], given: Given): Promise<Answer> {
