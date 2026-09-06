@@ -29,6 +29,11 @@ export const instantPropertySlugClosesWithAt = {
     {
       invariantKind: "absence",
       statement:
+        "A file whose own name states no page type under `instant-property` is not judged.",
+    },
+    {
+      invariantKind: "absence",
+      statement:
         "A file named otherwise than the slug the page states is `page-named-as-stated`'s to refuse.",
     },
   ],

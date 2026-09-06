@@ -73,3 +73,19 @@ test("a body that is not text refuses rather than being passed over", () => {
 test("a page type the index holds under nothing is passed over", () => {
   expect(reasonsIn(new Set())(page("instant-property", "created"))).toEqual([])
 })
+
+const describing = bodiesAt(ROOT, "akasha/made-up.test.ts")
+
+test("a file describing an instant property rather than being one is passed over", () => {
+  const body =
+    'export const held = {\n  pageTypeSlug: "instant-property",\n  slug: "not-closing",\n} as const\n'
+  expect(judge(describing(body))).toEqual([])
+})
+
+const beside = bodiesAt(ROOT, "akasha/created-at.instant-property.code.ts")
+
+test("a file sitting beside an instant property rather than holding one is passed over", () => {
+  const body =
+    'export const held = {\n  pageTypeSlug: "instant-property",\n  slug: "created",\n} as const\n'
+  expect(judge(beside(body))).toEqual([])
+})

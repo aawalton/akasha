@@ -1,4 +1,5 @@
 import type { Change } from "@akasha/pages/change"
+import { namedUnder } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
 import {
@@ -23,6 +24,7 @@ function reasonFor(pageTypeSlug: string, slug: string): string {
 }
 
 function found(path: string, text: string, under: ReadonlySet<string>): readonly string[] {
+  if (namedUnder(path, under) === null) return []
   const stated = pageIn(path, text)
   if (stated === null || !under.has(stated.pageTypeSlug)) return []
   if (stated.slug.endsWith(CLOSING)) return []
