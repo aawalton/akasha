@@ -24,7 +24,7 @@ export const supervisorArgs = {
     },
     {
       invariantKind: "departure",
-      statement: "A re-exec line carries the mode flag the line it was built from carried.",
+      statement: "A re-exec line carries the mode flag the earlier line carried.",
     },
     {
       invariantKind: "departure",
