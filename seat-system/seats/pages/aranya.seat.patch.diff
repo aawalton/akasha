@@ -1,3 +1,15 @@
+diff --git a/service-system/secrets/pages/cloudflare-api-token.secret.ts b/service-system/secrets/pages/cloudflare-api-token.secret.ts
+index fca115dc9263b6a3534a680d851bb0157ef5dab8..8be43aaa4218ed62c68bcea25b07409581ac0cde 100644
+--- a/service-system/secrets/pages/cloudflare-api-token.secret.ts
++++ b/service-system/secrets/pages/cloudflare-api-token.secret.ts
+@@ -4,6 +4,5 @@ export const cloudflareApiToken = {
+   id: "01a06832-cf2d-7b77-944a-9a5e2b62edfe",
+   pageTypeSlug: "secret",
+   slug: "cloudflare-api-token",
+-  resourceName: "cloudflare-api-token",
+-  resourceKey: "api-token",
++  placements: [{ resourceName: "cloudflare-api-token", resourceKey: "api-token" }],
+ } as const satisfies Secret
 diff --git a/service-system/secrets/pages/gotrue-secrets-database-url.secret.ts b/service-system/secrets/pages/gotrue-secrets-database-url.secret.ts
 index b32138afbf497c0636910c83da3e4bb6dc98fd04..05fed8c54be1dd9fdcf179937a81ee5363ae0d5f 100644
 --- a/service-system/secrets/pages/gotrue-secrets-database-url.secret.ts
