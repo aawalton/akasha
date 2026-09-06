@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/alan/harness/monarch/amazon-notes/monarch-amazon-notes.module.ts b/alan/harness/monarch/amazon-notes/monarch-amazon-notes.module.ts
-index 305c551b7ecbc0c37c192da938d0ddd9ccd20909..3c41b5de20c046c91dd7924d7b1400b0eed4b1a5 100644
+index 305c551b7ecbc0c37c192da938d0ddd9ccd20909..77c10cc59f9b57e7eb35ce93c318328cbd3fa52d 100644
 --- a/alan/harness/monarch/amazon-notes/monarch-amazon-notes.module.ts
 +++ b/alan/harness/monarch/amazon-notes/monarch-amazon-notes.module.ts
 @@ -9,7 +9,7 @@ export const monarchAmazonNotes = {
@@ -12,3 +12,12 @@ index 305c551b7ecbc0c37c192da938d0ddd9ccd20909..3c41b5de20c046c91dd7924d7b1400b0
      },
      {
        invariantKind: "departure",
+@@ -36,7 +36,7 @@ export const monarchAmazonNotes = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The rows written, the rows declined and the order numbers owed are all tallied at the end.",
++        "The rows written and the rows declined and the order numbers owed are all tallied at the end.",
+     },
+   ],
+ } as const satisfies Module
