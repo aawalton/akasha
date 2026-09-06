@@ -86,6 +86,29 @@ index 3e3e91e7b8a8fa444a9f1a05a63e17ef0587caed..b7a663d45606a0d7417b509301fc0479
                  let size = metrics.diameter * Self.readingFraction
                  let line = size * Self.lineHeightFactor
                  let halfWidth = max(
+diff --git a/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts b/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts
+index ec6d05e28524d0c5bb150fcc9a40d21e614646d1..5308377e664a6c7099c4cb2e69df182382d8973b 100644
+--- a/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts
++++ b/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts
+@@ -9,11 +9,16 @@ export const alanwaltonStoplightRing = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A reading past either end of its scale draws no number.",
++      statement:
++        "Whether a reading past either end of its scale draws its number is read off the reading sent.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The tile drawing one reading alone draws that number, which this one does not.",
++      statement: "A reading saying nothing of that draws no number past either end.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here works out whether a reading past either end draws its number.",
+     },
+   ],
+ } as const satisfies IosComponent
 diff --git a/code-system/ios-components/pages/alanwalton-upkeep-stoplights-widget/alanwalton-upkeep-stoplights-widget.ios-component.swift.swift b/code-system/ios-components/pages/alanwalton-upkeep-stoplights-widget/alanwalton-upkeep-stoplights-widget.ios-component.swift.swift
 index a542834cc8af1efce6415bb53db136ccad25bc7a..b5dbe6f1f230c3c88b5b1f7c2f238a9e11359f9d 100644
 --- a/code-system/ios-components/pages/alanwalton-upkeep-stoplights-widget/alanwalton-upkeep-stoplights-widget.ios-component.swift.swift
