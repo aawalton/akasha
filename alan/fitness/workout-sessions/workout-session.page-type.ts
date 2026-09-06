@@ -27,6 +27,7 @@ export const workoutSession = {
   extendsSlug: ["page-type/page"],
   partSlugs: [
     "calendar-date-property/workout-session-date",
+    "computed-property/session-volume",
     "instant-property/workout-session-completed-at",
     "instant-property/workout-session-started-at",
     "relation-property/schedule-day-slug",
@@ -53,7 +54,9 @@ export const workoutSession = {
       many: false,
     },
     { pagePropertySlug: "relation-property/wake-day-slug", required: false, many: false },
+    { pagePropertySlug: "computed-property/session-volume", required: false, many: false },
   ],
+  worked: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -70,6 +73,14 @@ export const workoutSession = {
     {
       invariantKind: "departure",
       statement: "A session falling on a day no page tracks names no day.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A session states no volume of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A session's volume is worked out from the sets naming that session.",
     },
   ],
 } as const satisfies PageType
