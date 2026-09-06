@@ -33,7 +33,8 @@ export const claudeUsage = {
     },
     {
       invariantKind: "departure",
-      statement: "A mean is taken over the accounts carrying a figure rather than over every one.",
+      statement:
+        "A mean is taken over the accounts carrying a figure rather than over every account.",
     },
     {
       invariantKind: "departure",
@@ -50,16 +51,27 @@ export const claudeUsage = {
     },
     {
       invariantKind: "departure",
-      statement: "An account's page body is loaded with `Bun.Transpiler`, which only bun carries.",
+      statement: "An account's page body is loaded with `Bun.Transpiler`.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The editor host is node, so that host asks this command as a child rather than reading itself.",
+      statement: "Only bun carries `Bun.Transpiler`.",
     },
     {
       invariantKind: "departure",
-      statement: "This command takes no word at all, so any word said to that command is refused.",
+      statement: "The editor host is node.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The editor host asks this command as a child rather than reading itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This command takes no word at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word said to that command is refused.",
     },
     {
       invariantKind: "absence",
