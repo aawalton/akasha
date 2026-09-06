@@ -1,0 +1,13 @@
+diff --git a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
+index 66fb5485b0d50bbf177269316e4c5cc5fdeb4b16..0d2e345095086fff2a6e96781d475caecd45f23b 100644
+--- a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
++++ b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
+@@ -21,7 +21,7 @@ export const pendingMaintaining = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Three of the four components are maintained here.",
++      statement: "Every component but the compacting component is maintained here.",
+     },
+     {
+       invariantKind: "departure",
