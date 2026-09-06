@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-my-mission-and-congregation-hold.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-my-mission-and-congregation-hold.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..23c8d56f35d680e4ceb2cb05907619ac02c81aeb
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-my-mission-and-congregation-hold.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMyMissionAndCongregationHold = {
++  id: "01a077e7-85d5-7c58-a4ff-322d16333d5b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-my-mission-and-congregation-hold",
++  topicSlug: "how-i-practise-my-faith",
++  ask: "What is there to write about my mission, about worthiness and leadership — bishop, calling, temple — and about congregation settings including talks and singing?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-my-observance-and-attendance-are.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-my-observance-and-attendance-are.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d39f6187041389c9bbccfb68fbbda2c5cab6cebd
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-my-observance-and-attendance-are.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMyObservanceAndAttendanceAre = {
++  id: "01a077e7-85d6-7894-bdb5-adbc39cb235f",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-my-observance-and-attendance-are",
++  topicSlug: "how-i-practise-my-faith",
++  ask: "What are my observance and my attendance at present?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-ordinances-land-as-practice.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-ordinances-land-as-practice.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1984fb4d342a30cc944808dce3b1e11af23ef1b1
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-ordinances-land-as-practice.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherOrdinancesLandAsPractice = {
++  id: "01a077e7-85d5-7019-8936-eb4aef7e0abc",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-ordinances-land-as-practice",
++  topicSlug: "how-i-practise-my-faith",
++  ask: "Do ordinances, covenants, the sacrament, tithing and the priesthood land as practice for me, rather than as a statement about what is true?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-worship-moves-me.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-worship-moves-me.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..050e8e1249f77e005846b9aa9fdd3ca97fa7c26e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-worship-moves-me.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherWorshipMovesMe = {
++  id: "01a077e7-85d4-7122-9e75-f45e4e0665ca",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-worship-moves-me",
++  topicSlug: "how-i-practise-my-faith",
++  ask: "Does any worship actually move me?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-practise-my-faith.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-practise-my-faith.all-about-alan-topic.ts
+index c20df3f7b25e5c33c868de3141439e7dee4faf54..bbf992f522a4f6f9adf711d0ff95aa902270a1d3 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-practise-my-faith.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-practise-my-faith.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const howIPractiseMyFaith = {
+   parentSlugs: ["my-faith"],
+   settled:
+     "Church is a judgment setting with survival stakes, and the judgment there always runs through people rather than through a felt God.",
+-  unsettled:
+-    "Whether any worship actually moves me is uncaptured.\n\nThe mission, worthiness and leadership — bishop, calling, temple — and the congregation settings including talks and singing are three areas with almost nothing written.\n\nOrdinances, covenants, the sacrament, tithing and the priesthood are blank: whether any of them lands as practice rather than as a claim about what is true is uncaptured.\n\nWhat my observance and attendance currently are is unwritten.",
+ } as const satisfies AllAboutAlanTopic
