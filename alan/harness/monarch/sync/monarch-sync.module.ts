@@ -14,8 +14,11 @@ export const monarchSync = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Accounts land before transactions, so a transaction always has an account to name.",
+      statement: "Accounts land before transactions.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A transaction always has an account to name.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +26,11 @@ export const monarchSync = {
     },
     {
       invariantKind: "departure",
-      statement: "A failing account does not stop the rest; each is caught and named.",
+      statement: "A failing account does not stop the other accounts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every failure is caught and named.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +48,7 @@ export const monarchSync = {
     {
       invariantKind: "departure",
       statement:
-        "A row claimed by more than one rule leaves the run non-zero, after everything else has been done.",
+        "A row claimed by more than one rule leaves the run non-zero after everything else is done.",
     },
   ],
 } as const satisfies Module
