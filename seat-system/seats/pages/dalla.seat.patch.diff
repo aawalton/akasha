@@ -1,0 +1,67 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/command-system/commands/apply/apply.command.test.ts b/command-system/commands/apply/apply.command.test.ts
+index 2a362c30aad5286daf937290d4b2e26f1b25d627..3c4bac312c375ec4a8f06a458ef59fc7fe6ebfc4 100644
+--- a/command-system/commands/apply/apply.command.test.ts
++++ b/command-system/commands/apply/apply.command.test.ts
+@@ -1,5 +1,5 @@
+ import { afterAll, expect, test } from "bun:test"
+-import { dropPatch, patchIn } from "@akasha/agents/patch-keeping"
++import { dropPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
+ import { said as gitSaid } from "@akasha/git/git-running"
+ import {
+   taking,
+@@ -10,7 +10,7 @@ import {
+   editsIn,
+ } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+ import { drafted } from "../../drafting/drafting.module.code.ts"
+-import { blobsIn } from "../../patching/patching.module.code.ts"
++import { blobsIn, refFor } from "../../patching/patching.module.code.ts"
+ import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+ import { writing as putting } from "../../scratching/scratching.module.test-fixtures.ts"
+ import { draftsOf, folding, undone } from "./apply.command.code.ts"
+@@ -48,6 +48,12 @@ function carried(root: string): readonly string[] {
+   return [...blobsIn(patchIn(root, PAGE) ?? "")].map(([path]) => path).sort()
+ }
+ 
++// The ref keeping the blobs is read as well as the patch text, because a patch put back naming
++// blobs no ref keeps reads whole and loses its bodies to the next pruning.
++function kept(root: string): string {
++  return gitSaid(root, ["rev-parse", refFor(patchAt(PAGE) ?? "")]).trim()
++}
++
+ test("an edit is drafted into the patch and the rows it came from go", async () => {
+   const root = await repo()
+   const row = taking(ONE, WAS)
+@@ -86,14 +92,18 @@ test("a fold the apply refuses is undone, and the patch and the rows come back",
+   const was = patchIn(root, PAGE)
+   const row = writing(ONE, WAS, NOW)
+   appendEdits(root, PAGE, [row])
++  const wasKept = kept(root)
+   const said = folding(root, PAGE)
+   if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
++  const folded = kept(root)
+ 
+   expect(undone(root, PAGE, said.unfold)).not.toBe(null)
+ 
+   expect(patchIn(root, PAGE)).toEqual(was)
+   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+   expect(carried(root)).toEqual([TWO])
++  expect(folded).not.toBe(wasKept)
++  expect(kept(root)).toBe(wasKept)
+ })
+ 
+ test("a fold that made the patch is undone by taking the patch away", async () => {
+diff --git a/command-system/patching/patching.module.code.ts b/command-system/patching/patching.module.code.ts
+index f416d5c908eae7636bca1b00aa6302e2332c8993..6f834dc917ca4358f8bf0dc2e44a85f6804d4c64 100644
+--- a/command-system/patching/patching.module.code.ts
++++ b/command-system/patching/patching.module.code.ts
+@@ -173,7 +173,7 @@ export function bodyOf(root: string, blob: string): Uint8Array | null {
+   return blob === ZERO ? null : bodyRead(root, blob)
+ }
+ 
+-function refFor(at: string): string {
++export function refFor(at: string): string {
+   return `${KEPT}/${at}`
+ }
+ 
