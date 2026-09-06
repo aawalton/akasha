@@ -275,3 +275,44 @@ index 5ca6cfc5605513873b540a4ed30d6670ad65640a..7731cabb30b57bcdc93975d6ec461643
 +    },
    ],
  } as const satisfies Module
+diff --git a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts
+index b5bad81a445d5dc232fe5b74ae26bd09ab3187c7..d8493e39b7ff7c88fcd9ea9880800d15e4cb6684 100644
+--- a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts
++++ b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.code.ts
+@@ -6,6 +6,7 @@ import {
+   getCurrentSessionIdForSelfHeal,
+ } from "@akasha/seat-system/supervisor-self-heal-state"
+ import { keepBeside } from "../../seat-beside/seat-beside.module.code.ts"
++import { runningModeIn } from "../../seat-modes/seat-modes.module.code.ts"
+ import { type BeatReport, beat } from "../../seat-page-beat/seat-page-beat.module.code.ts"
+ import { nameFromHistory } from "../../seat-page-history/seat-page-history.module.code.ts"
+ import {
+@@ -74,11 +75,27 @@ async function beatReport(args: readonly string[]): Promise<BeatReport> {
+   }
+ }
+ 
++// THE PROCESS KEY AND THE MODE ARE WRITTEN TOGETHER BECAUSE THEY ARE ONE OBSERVATION. Both are
++// facts about the supervisor running this code: which process is holding the seat, and which of
++// the two modes that process was execed into. Writing them on one beat is what lets a reader take
++// the pair as answering for one another rather than as two values that might have come from two
++// supervisors.
++//
++// THE MODE WAS UNWRITTEN UNTIL NOW AND THAT COST FOUR SEATS THEIR REMOTE CONTROL. A seat page
++// states the mode it was asked to start in, once, and nothing ever revisits it; the mode a
++// supervisor is actually running in was decided from its command line at exec, handed to the
++// child as an environment variable, and then dropped. `akasha seat` printed the stated mode under
++// the heading `mode`, so four seats read as `interactive` for days while their supervisors held
++// `--headless` — and every reader, including the one deciding remote control, agreed with the
++// page. Nothing in the fleet could tell the two apart, so nothing reported the drift.
+ export function writeSeatProcessKey(seatName: string, supervisorPid: number): void {
+   const key = readSeatProcKey(supervisorPid)
+   if (key === null) return
+   try {
+-    keepBeside(seatName, { "supervisor-process": formatSeatProcKey(key) })
++    keepBeside(seatName, {
++      "supervisor-process": formatSeatProcKey(key),
++      mode: runningModeIn(process.argv),
++    })
+   } catch (err) {
+     console.error(`${LOG} heartbeat: writing the seat process key failed for ${seatName}:`, err)
+   }
