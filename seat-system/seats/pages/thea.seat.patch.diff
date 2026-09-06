@@ -1,10 +1,8 @@
-writerOwesReading: false
-readersOweReading: false
 diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
-index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..ca6c9629efef875a3b290f834f9a05c162153dc0 100644
+index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..6a88358d3c16999cb1a9a2d17baf7367493483c6 100644
 --- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
 +++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
-@@ -130,17 +130,22 @@ test("a restatement turning a property from one to many is refused", () => {
+@@ -130,17 +130,17 @@ test("a restatement turning a property from one to many is refused", () => {
    expect(said[0]?.reason).toContain("`many` turns from `false` to `true`")
  })
  
@@ -15,13 +13,9 @@ index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..ca6c9629efef875a3b290f834f9a05c1
      root,
      judged,
 -    { required: true, many: true, max: 5 },
-+<<<<<<< what this change would leave
+-    { required: true, many: true, max: 20 }
 +    { required: true, many: true, maxCount: 5 },
-     { required: true, many: true, max: 20 }
-+=======
-+    { required: true, many: true, max: 5 },
 +    { required: true, many: true, maxCount: 20 }
-+>>>>>>> what HEAD holds
    )
  
    expect(said).toHaveLength(1)
@@ -30,18 +24,14 @@ index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..ca6c9629efef875a3b290f834f9a05c1
  })
  
  test("a restatement letting a bounded property go unbounded is refused", () => {
-@@ -148,21 +153,31 @@ test("a restatement letting a bounded property go unbounded is refused", () => {
+@@ -148,21 +148,21 @@ test("a restatement letting a bounded property go unbounded is refused", () => {
    const said = restating(
      root,
      judged,
 -    { required: true, many: true, max: 5 },
-+<<<<<<< what this change would leave
+-    { required: true, many: true, max: null }
 +    { required: true, many: true, maxCount: 5 },
-     { required: true, many: true, max: null }
-+=======
-+    { required: true, many: true, max: 5 },
 +    { required: true, many: true, maxCount: null }
-+>>>>>>> what HEAD holds
    )
  
    expect(said).toHaveLength(1)
@@ -55,13 +45,10 @@ index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..ca6c9629efef875a3b290f834f9a05c1
    const said = restating(
      root,
      judged,
-+<<<<<<< what this change would leave
-     { required: true, many: true, max: 20 },
-+    { required: true, many: true, maxCount: 5 }
-+=======
+-    { required: true, many: true, max: 20 },
+-    { required: true, many: true, max: 5 }
 +    { required: true, many: true, maxCount: 20 },
-     { required: true, many: true, max: 5 }
-+>>>>>>> what HEAD holds
++    { required: true, many: true, maxCount: 5 }
    )
  
    expect(said).toEqual([])
