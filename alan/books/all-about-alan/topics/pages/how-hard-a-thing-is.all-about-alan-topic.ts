@@ -9,6 +9,4 @@ export const howHardAThingIs = {
   parentSlugs: ["what-an-activity-costs-me"],
   settled:
     "Its rung is what my safety level gets compared against.\n\nMy projects have a base of rung two, and rebuilding the foundational layers under them raises the difficulty above that base.",
-  unsettled:
-    "Where the ladder tops out is open. Door-knocking in a foreign language sits above criticism, and that label may be two things rather than one rung.\n\nThe downward probe assumes an ordered list of easier things to walk down. Is that list these rungs, or a finer personal ordering I actually step through?\n\nThe rebuild was priced at rung three in a question I answered rather than in my own words. Abby's note: he confirmed the cost at that framing without naming the rung, so three is unconfirmed.",
 } as const satisfies AllAboutAlanTopic
