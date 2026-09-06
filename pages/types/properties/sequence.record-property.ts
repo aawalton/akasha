@@ -27,11 +27,11 @@ export const sequence = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type stating none takes the sequence the page type above states.",
+      statement: "A page type stating no sequence takes the sequence the page type above states.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type with none above that page type and none of its own stands in no run.",
+      statement: "A page type with no sequence here or above stands in no run.",
     },
     {
       invariantKind: "departure",
