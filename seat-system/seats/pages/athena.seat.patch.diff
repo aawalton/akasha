@@ -1,0 +1,73 @@
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.code.ts b/readout-system/readout-group-serving/readout-group-serving.module.code.ts
+index 3d91c070d2a725cd4e1dd83e1e4a0bd8f57a91ec..515f568e794bd2097a071d0a1931054804e22b2b 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.code.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.code.ts
+@@ -23,7 +23,7 @@ const READOUT_SCALE = "readout-scale"
+ 
+ const READOUT_GROUP = "readout-group"
+ 
+-const HABIT = "habit"
++export const HABIT = "habit"
+ 
+ const NO_FIGURE = ""
+ 
+@@ -40,7 +40,7 @@ export type Stoplight = {
+   readonly figureOffScale?: boolean
+ }
+ 
+-type Values = Readonly<Record<string, unknown>>
++export type Values = Readonly<Record<string, unknown>>
+ 
+ export type ReadingHeld = (row: Values) => HeldReading
+ 
+@@ -66,11 +66,18 @@ async function rungsOf(scaleSlug: string): Promise<readonly Rung[]> {
+   return row === undefined ? [] : rungsIn(row)
+ }
+ 
+-export async function stoplightOf(
++// THE STOPLIGHT ONE ROW AND ITS RUNGS MAKE, WITH NOTHING FETCHED.
++//
++// Two callers compose a group. The route below asks the store for every page it needs. The
++// workstation's status bar reads the same pages off the checkout it is already sitting in, and is
++// called from a file watch that has no turn to await in. So what the two share is stated once here
++// and takes its rungs handed in.
++export function stoplightWith(
+   row: Values,
++  rungs: readonly Rung[],
+   wireKeyName: string = HABIT,
+   readingHeld: ReadingHeld = relayedReading
+-): Promise<Stoplight | null> {
++): Stoplight | null {
+   const slug = stated(row.slug)
+   const label = stated(row.label)
+   const scaleSlug = stated(row.scaleSlug)
+@@ -90,7 +97,7 @@ export async function stoplightOf(
+     }
+   }
+ 
+-  const reached = tierAt(reading.value, await rungsOf(scaleSlug))
++  const reached = tierAt(reading.value, rungs)
+   if (reached === null) return null
+ 
+   return {
+@@ -103,6 +110,20 @@ export async function stoplightOf(
+   }
+ }
+ 
++// The scale is asked for only where a fresh reading will be read against it, so a readout carrying
++// no reading or a reading too old costs no ask.
++export async function stoplightOf(
++  row: Values,
++  wireKeyName: string = HABIT,
++  readingHeld: ReadingHeld = relayedReading
++): Promise<Stoplight | null> {
++  const scaleSlug = stated(row.scaleSlug)
++  if (scaleSlug === undefined) return null
++  const reading = readingHeld(row)
++  const rungs = reading.held === "fresh" ? await rungsOf(scaleSlug) : []
++  return stoplightWith(row, rungs, wireKeyName, () => reading)
++}
++
+ export function stilled(row: Values): boolean {
+   return row.enabled === false
+ }
