@@ -13,7 +13,7 @@ export const calendarCredentials = {
     },
     {
       invariantKind: "departure",
-      statement: "A default calendar id that is empty counts as none given.",
+      statement: "A default calendar id that is empty counts as no id given.",
     },
   ],
 } as const satisfies Module
