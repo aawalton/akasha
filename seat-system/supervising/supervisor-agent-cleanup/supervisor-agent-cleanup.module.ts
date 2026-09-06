@@ -14,8 +14,11 @@ export const supervisorAgentCleanup = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A per-process config directory is removed, and a shared one is pushed back instead.",
+      statement: "A per-process config directory is removed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shared config directory is pushed back instead.",
     },
     {
       invariantKind: "departure",
