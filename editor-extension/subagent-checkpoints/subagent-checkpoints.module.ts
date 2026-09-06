@@ -10,11 +10,11 @@ export const subagentCheckpoints = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A checkpoint is the offset, the anchor and the state taken together.",
+      statement: "A checkpoint is the offset and the anchor and the state taken together.",
     },
     {
       invariantKind: "departure",
-      statement: "An anchor is the sixty-four bytes ending the offset, in base sixty-four.",
+      statement: "An anchor is the sixty-four bytes ending the offset written in base sixty-four.",
     },
     {
       invariantKind: "departure",
