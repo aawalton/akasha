@@ -1,0 +1,31 @@
+import type { ComputedProperty } from "@akasha/pages/computed-property"
+
+export type StrengthVolume = number
+
+export const strengthVolume = {
+  id: "01a077d1-f967-7eef-a0ce-7139eaa1b54d",
+  pageTypeSlug: "computed-property",
+  slug: "strength-volume",
+  propertySlug: "strength-volume",
+  definition: "the weight Alan moved on one day, in pounds",
+  holds: "number",
+  code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A day's volume is the volume of every session naming that day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A session's volume is worked out on the page of the session.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day no session names is worth nothing rather than no reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day counts the sessions naming that day rather than the sessions dated alike.",
+    },
+  ],
+} as const satisfies ComputedProperty

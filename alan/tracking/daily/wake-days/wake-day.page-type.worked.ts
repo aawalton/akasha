@@ -14,6 +14,7 @@ import type { SleepHours } from "./properties/sleep-hours.computed-property.ts"
 import type { SpendHours } from "./properties/spend-hours.computed-property.ts"
 import type { Stoplights } from "./properties/stoplights.computed-property.ts"
 import type { StrengthCalories } from "./properties/strength-calories.computed-property.ts"
+import type { StrengthVolume } from "./properties/strength-volume.computed-property.ts"
 import type { SurplusHours } from "./properties/surplus-hours.computed-property.ts"
 import type { TotalLevel } from "./properties/total-level.computed-property.ts"
 import type { WealthLevel } from "./properties/wealth-level.computed-property.ts"
@@ -24,6 +25,7 @@ export type WorkedWakeDay = Omit<WakeDay, "sessions"> & {
   sessions?: WorkedSessions
   activityCalories?: ActivityCalories
   strengthCalories?: StrengthCalories
+  strengthVolume?: StrengthVolume
   faithLevel?: FaithLevel
   loveLevel?: LoveLevel
   healthLevel?: HealthLevel
