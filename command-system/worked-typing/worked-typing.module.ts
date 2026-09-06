@@ -43,7 +43,8 @@ export const workedTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A stored property declaring a worked form is omitted from the type it extends.",
+      statement:
+        "A stored property declaring a worked form is omitted from the type the worked type extends.",
     },
     {
       invariantKind: "departure",
@@ -55,11 +56,12 @@ export const workedTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A body is handed to the formatter here, so no landing reformats what this wrote.",
+      statement:
+        "A body written here is handed to the formatter rather than left for a landing to reformat.",
     },
     {
       invariantKind: "departure",
-      statement: "A file already holding what would be written again is left alone.",
+      statement: "A file already holding the body that would be written again is left alone.",
     },
     {
       invariantKind: "departure",
