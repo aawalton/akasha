@@ -70,3 +70,14 @@ index c9d140dec7b41ffa3c1de6e1313497df721a5f1f..ed168355f65271dcf425ac353a93bb93
    viewPlace: 0,
    layout: "table",
    viewSorts: [{ key: "title", descending: false }],
+diff --git a/pages/views/pages/connection-list.view.ts b/pages/views/pages/connection-list.view.ts
+index 0119fb7ba924fb575c008cd3f65755c77704bf91..7b9b6fa8d185d26169ce957a8eb8a13bfc9b2709 100644
+--- a/pages/views/pages/connection-list.view.ts
++++ b/pages/views/pages/connection-list.view.ts
+@@ -6,5 +6,6 @@ export const connectionList = {
+   slug: "connection-list",
+   title: "List",
+   navSlug: "connection",
++  pageType: "relationship",
+   viewPlace: 0,
+ } as const satisfies View
