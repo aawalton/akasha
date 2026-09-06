@@ -10,12 +10,12 @@ export const nimueComputedProperties = {
     {
       statement: "A property states the calculation that fills it.",
       workingMemory:
-        "Every wake-day property and every collection property is a calculation now, and no formula-property page remains anywhere in akasha. A calculation loads by transpiling its code file's text, so the pages package reaches one without naming the domain holding it. Left here: the generated registry the compiler checks, and the WorkedX types each page type hand-writes beside its stored type.",
+        "Every wake-day property and every collection property is a calculation now, and no formula-property page remains anywhere in akasha. A calculation loads by transpiling its code file's text, so the pages package reaches one without naming the domain holding it. Left here: the WorkedX type each page type hand-writes beside its stored type, which a generator is to write instead.",
     },
     {
       statement: "A calculation names its inputs rather than reaching for what it likes.",
       workingMemory:
-        "One shape rather than three. A same-page read needs no surface at all, the page type already declaring every key and typing it, which is why all twenty-eight landed calculations read `page` alone and none has used `reach` yet. A cross-page read goes through `reach.target<T>(slug)`, answering the same lazily worked page so hops compose. A generated slug-to-type registry would make that generic inferrable without one call site changing.",
+        "One shape rather than three. A same-page read needs nothing of its own, the page type already declaring every key and typing it, which is why all thirty-one landed calculations read `page` alone and none has used `reach` yet. A cross-page read goes through `reach.target<T>(slug)`, answering the same lazily worked page so hops compose. A generated WorkedX type would make that generic inferrable without one call site changing.",
     },
     {
       statement:
@@ -44,8 +44,8 @@ export const nimueComputedProperties = {
     "A fault of the evaluator is repaired in the evaluator rather than handed to whoever writes a calculation.",
     "A page file may state no value for a computed property, so what is stored and what is worked are two types.",
     "Activity is not part of this work: its keys are declared and written, and its silence is an outage.",
-    "A registry naming each calculation is machine-written rather than composed by an agent.",
-    "A registry is generated where `bun.lock` is generated, so a mechanical change leaves it current.",
+    "The type carrying a page type's calculations beside its stored keys is machine-written rather than composed by an agent.",
+    "That type is generated where `bun.lock` is generated, so a mechanical change leaves it current.",
     "The pages package imports no domain, so a calculation is loaded at boot rather than compiled in.",
   ],
 } as const satisfies Initiative
