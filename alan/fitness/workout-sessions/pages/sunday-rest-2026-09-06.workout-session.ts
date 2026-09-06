@@ -5,6 +5,7 @@ export const sundayRest20260906 = {
   pageTypeSlug: "workout-session",
   slug: "sunday-rest-2026-09-06",
   title: "Sunday rest — 2026-09-06",
+  workoutSessionCompletedAt: "2026-09-06T15:57:10.349Z",
   workoutSessionDate: "2026-09-06",
   notes: "a verification run amy opened to prove the writer, and takes away again",
   scheduleDaySlug: "push-pull-legs-3beb3d9a-sunday",
