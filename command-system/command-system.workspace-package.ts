@@ -48,6 +48,7 @@ export const commandSystem = {
     "module/outside-naming",
     "module/manifest-locking",
     "module/worked-typing",
+    "module/address-mapping",
     "module/body-merging",
     "module/patching",
     "module/drafting",
