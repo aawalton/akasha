@@ -1,5 +1,5 @@
 diff --git a/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.ts b/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.ts
-index a74790346cfc124ddafa992370bc9326f08d4fd0..8b4ea4a77170ca3c0ad64f74054dfc8a89cc88ce 100644
+index a74790346cfc124ddafa992370bc9326f08d4fd0..99f70fefe9ac5c9ddc4e4a1a830fa190cfda4718 100644
 --- a/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.ts
 +++ b/temper/temper-addon-data/addon-data-output-dirs/addon-data-output-dirs.module.ts
 @@ -13,7 +13,7 @@ export const addonDataOutputDirs = {
@@ -8,6 +8,19 @@ index a74790346cfc124ddafa992370bc9326f08d4fd0..8b4ea4a77170ca3c0ad64f74054dfc8a
        invariantKind: "departure",
 -      statement: "A checkout named in `CODE_ROOT` is the one an output dir is under.",
 +      statement: "A checkout named in `CODE_ROOT` is the checkout an output dir is under.",
+     },
+     {
+       invariantKind: "departure",
+@@ -21,7 +21,11 @@ export const addonDataOutputDirs = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No dir is guarded over, the guarded list being empty.",
++      statement: "No dir is guarded over.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "The guarded list is empty.",
      },
      {
        invariantKind: "departure",
