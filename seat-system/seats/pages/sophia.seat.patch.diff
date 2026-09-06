@@ -1,5 +1,5 @@
 diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
-index a87980fc09e4875973e1ddc43a32387be5566b39..1d8d2eb927284942c96d7d8b1742e2e1983e07e0 100644
+index a87980fc09e4875973e1ddc43a32387be5566b39..6272b9c615425775c58b9f29c6829618d3bff825 100644
 --- a/command-system/asking/asking.module.code.ts
 +++ b/command-system/asking/asking.module.code.ts
 @@ -7,7 +7,7 @@ import { agentPathOf } from "@akasha/context/warranting"
@@ -11,6 +11,19 @@ index a87980fc09e4875973e1ddc43a32387be5566b39..1d8d2eb927284942c96d7d8b1742e2e1
  import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
  import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
  import { passedOver, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
+@@ -239,12 +239,6 @@ export function noCheckSaid(slug: string): string {
+   return `a \`${slug}\` change ${NO_CHECKS}`
+ }
+ 
+-export function runningOf(given: Given): Running {
+-  const kind = given.changeKind
+-  if (kind === undefined) return AUTHORED
+-  return { checks: kind.runsChecks, writerOwesReading: kind.writerOwesReading }
+-}
+-
+ function bypassIn(given: Given, asked: Asked): Bypass | null {
+   if (asked.glass !== null) return { reason: asked.glass, said: glassSaid(asked.glass) }
+   const kind = given.changeKind
 diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
 index 17f733ec596a0fdf6df4e49381c51a17542dde69..6aef4f2a8034b12f041a07ff1aaa9feb91bb5f44 100644
 --- a/command-system/drafting/drafting.module.code.ts
