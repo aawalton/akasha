@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-my-list-of-usual-sources-holds.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-my-list-of-usual-sources-holds.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bb0da162a198445b004dac2c448dc0701f624aaf
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-my-list-of-usual-sources-holds.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMyListOfUsualSourcesHolds = {
++  id: "01a077ee-213f-7d29-84b5-93739ec33b3f",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-my-list-of-usual-sources-holds",
++  topicSlug: "what-wears-my-body-down",
++  ask: "What is on my list of usual sources, with each marked covered, partial or open? Until the list is written out, what is left is asserted rather than auditable.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-source-particular-to-me-is-off-the-list.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-source-particular-to-me-is-off-the-list.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8c478fa12920137d2f35f5ccef62973ab76d7742
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-source-particular-to-me-is-off-the-list.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherASourceParticularToMeIsOffTheList = {
++  id: "01a077ee-213f-725a-9f63-029da6486972",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-source-particular-to-me-is-off-the-list",
++  topicSlug: "what-wears-my-body-down",
++  ask: "Does a source particular to me sit off the list of usual sources, where ruling things out cannot reach? Grinding a problem at the edge of sleep is one candidate.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-proxy-tracks-my-stress-load.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-proxy-tracks-my-stress-load.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..97a2a5e19dc6dcf3f3dfde25cde97ba658abeea0
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-proxy-tracks-my-stress-load.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichProxyTracksMyStressLoad = {
++  id: "01a077ee-213e-775a-961f-87621641285e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-proxy-tracks-my-stress-load",
++  topicSlug: "what-wears-my-body-down",
++  ask: "Which proxy tracks the load down as a source closes, heart rate variability or cortisol or inflammatory markers, and would turn my reasoning into a measurement?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-wears-my-body-down.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-wears-my-body-down.all-about-alan-topic.ts
+index cc5684d8efb71ff5210ae7df58d987e1e2ec2c09..9252e07719a3326d5701d442f0345e2d82015dd3 100644
+--- a/alan/books/all-about-alan/topics/pages/what-wears-my-body-down.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-wears-my-body-down.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatWearsMyBodyDown = {
+   relatedSlugs: ["what-limits-me", "what-calms-me-down"],
+   settled:
+     "It is the bottleneck everything else sits under, ahead of any one organ or diagnosis.\n\nI breathe eight to twelve hours a day. The whole recovery stack exists to defend this one thing.\n\nI cannot feel the load at all, so I work over the list of usual sources and follow whatever is left.\n\nEvery trip for ten years put me past capacity and ended in illness. The current one lands merely at the edge, and being overwhelmed is still my base case.",
+-  unsettled:
+-    "A proxy that tracks the load down as a source closes, heart rate variability or cortisol or inflammatory markers, would turn the reasoning into a measurement.\n\nThe list of usual sources has never been written out with each marked covered, partial or open, so what is left is asserted rather than auditable.\n\nWhether some source particular to me sits off that list is exactly what ruling things out cannot reach. Grinding a problem at the edge of sleep is one candidate.",
+ } as const satisfies AllAboutAlanTopic
