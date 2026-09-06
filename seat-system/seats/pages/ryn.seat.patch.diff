@@ -1,5 +1,5 @@
 diff --git a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
-index 2bab7c74a2ce06194583442e995277bd8137f24e..210b52ceee99082502eecc208f8bc805315e407f 100644
+index 2bab7c74a2ce06194583442e995277bd8137f24e..b353098b6b3b289e38976893a3721b013a646deb 100644
 --- a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
 +++ b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
 @@ -17,7 +17,7 @@ export const inventorySettingsAccess = {
@@ -11,7 +11,7 @@ index 2bab7c74a2ce06194583442e995277bd8137f24e..210b52ceee99082502eecc208f8bc805
      },
      {
        invariantKind: "departure",
-@@ -29,7 +29,8 @@ export const inventorySettingsAccess = {
+@@ -29,12 +29,16 @@ export const inventorySettingsAccess = {
      },
      {
        invariantKind: "departure",
@@ -21,7 +21,17 @@ index 2bab7c74a2ce06194583442e995277bd8137f24e..210b52ceee99082502eecc208f8bc805
      },
      {
        invariantKind: "departure",
-@@ -47,7 +48,7 @@ export const inventorySettingsAccess = {
+-      statement:
+-        "The automation settings live under one settings key, and the page store refuses every keyed write.",
++      statement: "The automation settings live under one settings key.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The page store refuses every keyed write.",
+     },
+     {
+       invariantKind: "gap",
+@@ -47,7 +51,7 @@ export const inventorySettingsAccess = {
      {
        invariantKind: "departure",
        statement:
