@@ -7,6 +7,4 @@ export const whetherMy2026ForecastIsHolding = {
   title: "Whether My 2026 Forecast Is Holding",
   definition: "the forecast I set for this year, against what I actually read",
   parentSlugs: ["where-safety-has-got-to"],
-  unsettled:
-    "The 2026 forecast, a 3.5 to 4.5 baseline and a climb back to 4 to 5, is falsifiable once the June illness clears. The same check answers whether reclimbing runs faster than the original four-month climb.\n\nMy August reading of two to three sits below that forecast baseline, and nothing yet says whether the forecast is wrong or the illness has not cleared.",
 } as const satisfies AllAboutAlanTopic
