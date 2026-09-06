@@ -55,7 +55,7 @@ export const upkeepCapacity = {
     },
     {
       invariantKind: "departure",
-      statement: "That bound is the one the reach taking the reading carries.",
+      statement: "That bound is the bound the reach taking the reading carries.",
     },
 
     {
