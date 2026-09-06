@@ -10,11 +10,16 @@ export const stateReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The folder is watched rather than the file, a write replacing the file itself.",
+      statement: "The folder is watched rather than the file.",
     },
     {
       invariantKind: "departure",
-      statement: "One watcher serves every part of the editor rather than one watcher each.",
+      statement: "A write replaces the file itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "One watcher serves every part of the editor rather than one watcher for each part.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +27,11 @@ export const stateReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A read that failed draws nothing, leaving the last good read on the screen.",
+      statement: "A read that failed draws nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The last good read is left on the screen.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +39,7 @@ export const stateReading = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here holds a timer, the cooldown being the service's.",
+      statement: "Nothing here holds a timer.",
     },
     {
       invariantKind: "absence",
