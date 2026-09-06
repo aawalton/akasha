@@ -3,14 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratch } from "@akasha/indexes/indexing/testing"
 import { taking, writing } from "../change-answer/change-answer.module.code.ts"
-import {
-  appendEdits,
-  dropEdits,
-  editsAt,
-  editsIn,
-  foldedIn,
-  keptEdits,
-} from "./edits-keeping.module.code.ts"
+import { appendEdits, editsAt, editsIn, foldedIn, keptEdits } from "./edits-keeping.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -82,7 +75,7 @@ test("a file worked out to no row is taken away", () => {
   const root = rootFor()
   appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
 
-  expect(dropEdits(root, PAGE)).toEqual({ rows: [] })
+  expect(keptEdits(root, PAGE, () => null)).toEqual({ rows: [] })
   expect(editsIn(root, PAGE)).toEqual({ rows: [] })
 })
 

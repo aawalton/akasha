@@ -108,10 +108,6 @@ export function appendEdits(root: string, page: string, edits: readonly Edit[]):
   return keptEdits(root, page, (had) => [...had, ...edits])
 }
 
-export function dropEdits(root: string, page: string): Kept {
-  return keptEdits(root, page, () => null)
-}
-
 export function foldedIn(rows: readonly Edit[]): Answer {
   return gathered(rows.map((one) => ({ edits: [one], refused: null })))
 }
