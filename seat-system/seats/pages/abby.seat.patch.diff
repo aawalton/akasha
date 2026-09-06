@@ -1,0 +1,26 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-budget-prices-tomorrows-sleep.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-budget-prices-tomorrows-sleep.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d7ac1538ecb6333db28e27f48f8fe717c1313b92
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-budget-prices-tomorrows-sleep.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyBudgetPricesTomorrowsSleep = {
++  id: "01a07830-3232-7a8d-a809-c6705e8cdcdd",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-budget-prices-tomorrows-sleep",
++  topicSlug: "the-budget-i-run-my-days-on",
++  ask: "An evening spends capacity hours today and takes hours off tomorrow's sleep. Does my budget price the sleep I will lose, or only the hours I spend tonight?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-rating-my-budget-rests-on.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-rating-my-budget-rests-on.all-about-alan-topic.ts
+index f7ade33e488efda3ebc6f13789e30ea0fc964ab3..0cdad772543aa7199fb4e7ed7dcdff6c9608ade5 100644
+--- a/alan/books/all-about-alan/topics/pages/the-rating-my-budget-rests-on.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-rating-my-budget-rests-on.all-about-alan-topic.ts
+@@ -9,5 +9,5 @@ export const theRatingMyBudgetRestsOn = {
+   parentSlugs: ["the-budget-i-run-my-days-on"],
+   relatedSlugs: ["how-i-read-my-safety-level"],
+   settled:
+-    "Only the clock is counted. Each stretch's duration is multiplied by how safe I was against how hard the thing was, and the safety rating is one I type and one that carries forward until I change it.\n\nI try to catch the transitions as they happen. Where I miss one, I revise the safety or the difficulty afterwards.\n\nThe revision usually moves down, so my live reading runs optimistic. The optimistic reading is still better than nothing.\n\nI am working on catching the changes earlier and on erring low.\n\nA notification fires as my surplus color drops, and Jen gets the same alert. I do nothing when the alert lands. What the alert buys me for now is knowing where I am.",
++    "Only the clock is counted. Each stretch's duration is multiplied by how safe I was against how hard the thing was, and the safety rating is one I type and one that carries forward until I change it.\n\nAffordable means the multiplier is one or less, which is the same as my safety level sitting at or above the difficulty level. Better again is free, where my safety level is at least one above the difficulty and the stretch costs nothing.\n\nI try to catch the transitions as they happen. Where I miss one, I revise the safety or the difficulty afterwards.\n\nThe revision usually moves down, so my live reading runs optimistic. The optimistic reading is still better than nothing.\n\nI am working on catching the changes earlier and on erring low.\n\nA notification fires as my surplus color drops, and Jen gets the same alert. I do nothing when the alert lands. What the alert buys me for now is knowing where I am.",
+ } as const satisfies AllAboutAlanTopic
