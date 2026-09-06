@@ -36,11 +36,14 @@ function pathFor(slug: string): string {
   return `akasha/${slug}.page-type.ts`
 }
 
+function aboveValued(above: string | readonly string[] | null): string | readonly string[] | null {
+  if (above === null) return null
+  return typeof above === "string" ? `page-type/${above}` : above.map((one) => `page-type/${one}`)
+}
+
 function abovedIn(above: string | readonly string[] | null): string {
-  if (above === null) return ""
-  const named =
-    typeof above === "string" ? `page-type/${above}` : above.map((one) => `page-type/${one}`)
-  return `, extendsSlug: ${JSON.stringify(named)}`
+  const named = aboveValued(above)
+  return named === null ? "" : `, extendsSlug: ${JSON.stringify(named)}`
 }
 
 function stated(
@@ -67,8 +70,19 @@ function typed(
 ): undefined {
   const path = pathFor(slug)
   listedFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
+  const named = aboveValued(above)
   valueAlsoFiled(root, PAGE_TYPE, [
-    { path, value: { id: `id-${slug}`, pageTypeSlug: PAGE_TYPE, slug } },
+    {
+      path,
+      value: {
+        id: `id-${slug}`,
+        pageTypeSlug: PAGE_TYPE,
+        slug,
+        ...(named === null ? {} : { extendsSlug: named }),
+        properties: declares.map((one) => ({ pagePropertySlug: one })),
+        partSlugs: parts,
+      },
+    },
   ])
   mkdirSync(join(root, "akasha"), { recursive: true })
   writeFileSync(join(root, path), stated(slug, above, declares, parts))
