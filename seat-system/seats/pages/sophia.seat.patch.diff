@@ -1,0 +1,13 @@
+diff --git a/seat-system/seats/pages/sophia.seat.ts b/seat-system/seats/pages/sophia.seat.ts
+index c0eeef80d902d5746fd48327483a45d706b84879..cece696a9da7fd1601f0c2a5b8f0b85f3089582f 100644
+--- a/seat-system/seats/pages/sophia.seat.ts
++++ b/seat-system/seats/pages/sophia.seat.ts
+@@ -5,7 +5,7 @@ export const sophia = {
+   pageTypeSlug: "seat",
+   slug: "sophia",
+   personaSlug: "sophia",
+-  assignmentSlug: "initiative/sophia-warrant-reach",
++  assignmentSlug: "workspace-package/persona",
+   roleSlug: "persona-craft",
+   personSlug: "alan",
+   startMode: "interactive",
