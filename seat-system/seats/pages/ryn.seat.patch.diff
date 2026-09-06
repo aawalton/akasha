@@ -1,5 +1,5 @@
 diff --git a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
-index 2bab7c74a2ce06194583442e995277bd8137f24e..8cda801e2238da644c223d96a9ed831496182a55 100644
+index 2bab7c74a2ce06194583442e995277bd8137f24e..210b52ceee99082502eecc208f8bc805315e407f 100644
 --- a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
 +++ b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
 @@ -17,7 +17,7 @@ export const inventorySettingsAccess = {
@@ -21,3 +21,12 @@ index 2bab7c74a2ce06194583442e995277bd8137f24e..8cda801e2238da644c223d96a9ed8314
      },
      {
        invariantKind: "departure",
+@@ -47,7 +48,7 @@ export const inventorySettingsAccess = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A refusal says how much went unkept rather than only that the page store refused.",
++        "A refusal says how many characters went unkept rather than only that the page store refused.",
+     },
+   ],
+ } as const satisfies Module
