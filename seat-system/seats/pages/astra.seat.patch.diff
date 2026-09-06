@@ -1,0 +1,56 @@
+runsWarrants: false
+diff --git a/pages/system-service/pages-service.workspace-package.ts b/pages/system-service/pages-service.workspace-package.ts
+index bc80f515e571ab1db1cd3dc6fd1774b306cb5207..466a0b20c27994392e14fa1671cb68c3e1e22d6e 100644
+--- a/pages/system-service/pages-service.workspace-package.ts
++++ b/pages/system-service/pages-service.workspace-package.ts
+@@ -17,7 +17,7 @@ export const pagesService = {
+     "module/page-serving",
+     "module/page-writing",
+     "module/where-testing",
+-    "workstation-service/pages-system-service",
++    "workstation-service/pages-service",
+   ],
+   invariants: [
+     {
+diff --git a/pages/system-service/workstation-services/pages-service.workstation-service.ts b/pages/system-service/workstation-services/pages-service.workstation-service.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..90b13194329af20914dba598ddecc3db1e8b9cd9
+--- /dev/null
++++ b/pages/system-service/workstation-services/pages-service.workstation-service.ts
+@@ -0,0 +1,15 @@
++import type { WorkstationService } from "@akasha/service-system/workstation-service"
++
++export const pagesService = {
++  id: "01a05a43-5afa-7d0d-8d60-dbd3c3498f99",
++  pageTypeSlug: "workstation-service",
++  slug: "pages-service",
++  definition: "the service answering page queries and landing page writes",
++  runs: ["bun pages/system-service/page-listening/page-listening.module.code.ts"],
++  enabled: true,
++  port: 8787,
++  binds: ["127.0.0.1", "::1", "workstation.alanwalton.ts.net"],
++  systemd: {
++    restartDelaySeconds: 1,
++  },
++} as const satisfies WorkstationService
+diff --git a/pages/system-service/workstation-services/pages-system-service.workstation-service.ts b/pages/system-service/workstation-services/pages-system-service.workstation-service.ts
+deleted file mode 100644
+index 3f086298c0aaabf3c23898d62ff2f1cb71bd89ad..0000000000000000000000000000000000000000
+--- a/pages/system-service/workstation-services/pages-system-service.workstation-service.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import type { WorkstationService } from "@akasha/service-system/workstation-service"
+-
+-export const pagesSystemService = {
+-  id: "01a05a43-5afa-7d0d-8d60-dbd3c3498f99",
+-  pageTypeSlug: "workstation-service",
+-  slug: "pages-system-service",
+-  definition: "the service answering page queries and landing page writes",
+-  runs: ["bun pages/system-service/page-listening/page-listening.module.code.ts"],
+-  enabled: true,
+-  port: 8787,
+-  binds: ["127.0.0.1", "::1", "workstation.alanwalton.ts.net"],
+-  systemd: {
+-    restartDelaySeconds: 1,
+-  },
+-} as const satisfies WorkstationService
