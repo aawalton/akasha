@@ -1,3 +1,15 @@
+diff --git a/alan/harness/attributes/reading/attributes-reading.module.code.ts b/alan/harness/attributes/reading/attributes-reading.module.code.ts
+index ef0ab11656f4ae00defaf8713909353456a66e4a..c888ca900ff38776d51163c965a1088acc25531b 100644
+--- a/alan/harness/attributes/reading/attributes-reading.module.code.ts
++++ b/alan/harness/attributes/reading/attributes-reading.module.code.ts
+@@ -37,6 +37,7 @@ const AS_THE_STORE_ANSWERS: Readonly<Record<string, string>> = {
+   "difficulty-level": "difficultyLevel",
+   "start-time": "startTime",
+   "end-time": "endTime",
++  relationships: "relationships",
+ }
+ 
+ const STRETCH_KEYS = Object.keys(AS_THE_STORE_ANSWERS)
 diff --git a/readout-system/readouts/pages/attribute-charisma/attribute-charisma.readout.code.ts b/readout-system/readouts/pages/attribute-charisma/attribute-charisma.readout.code.ts
 index 13013813a1dc07113373fda8e26b36c94febcd43..a4248c8c545e93de44a434fd82e5dc0bffca00a7 100644
 --- a/readout-system/readouts/pages/attribute-charisma/attribute-charisma.readout.code.ts
