@@ -1,0 +1,13 @@
+diff --git a/temper/temper-web/plan-tab/plan-tab.module.code.tsx b/temper/temper-web/plan-tab/plan-tab.module.code.tsx
+index 435909b6177b573890aa88b48f1068394880a980..c7760dfa2bdf4b8d853b371c98fb4716ed46e1cc 100644
+--- a/temper/temper-web/plan-tab/plan-tab.module.code.tsx
++++ b/temper/temper-web/plan-tab/plan-tab.module.code.tsx
+@@ -152,7 +152,7 @@ export function PlanTab({
+               { key: "accountPage", eq: userId },
+               { key: "esoCharacterId", eq: entity.esoCharacterId },
+             ],
+-            set: { sortOrder: index },
++            set: { displayOrder: index },
+           })
+         )
+       )
