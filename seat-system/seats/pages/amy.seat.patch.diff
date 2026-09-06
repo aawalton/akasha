@@ -1,0 +1,15 @@
+diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.ts b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+index fb5bbd899002c0546128aea1974b4b79c3f39413..137387526269edf4fc934eedf99419b02a5c1e91 100644
+--- a/editor-extension/work-tree-panel/work-tree-panel.module.ts
++++ b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+@@ -48,10 +48,6 @@ export const workTreePanel = {
+       invariantKind: "absence",
+       statement: "Nothing here composes the tree.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here raises a color through the rows.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here decides a row's appearance.",
