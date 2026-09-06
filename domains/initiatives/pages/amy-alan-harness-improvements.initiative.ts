@@ -10,7 +10,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "The Strength stoplight shows a figure taken from data that arrives every day.",
       workingMemory:
-        "The readout asks the tracking day for `strength-volume`, and no day page has carried that key since 2026-09-02. `rollupStrengthForDay` has no caller, and the shape to copy is `active-calories-service`: a run block over the four days ending today, and a timer naming it. The volume itself comes from `dayVolume` in `session-volume`, which counts a day's exercise sessions and refuses a day where no bodyweight is stated. `session-volume` declares that no client profile page exists, so what that weight is read from is unsettled.",
+        "Built and proven. `strength-volume-service` runs the rollup every ten minutes over the four days ending today, and the tile takes a reading rather than drawing empty. `composedFor` wrote neither `pageTypeSlug` nor `slug`, so every session a command opened landed unfiled; that is mended, and proven by a session opened, logged against, closed and taken away again. What is left is the logging itself: no session since 2026-08-10, so every day counts 0. The road in is `akasha track workout start`, then `set`, then `finish`.",
     },
   ],
 } as const satisfies Initiative
