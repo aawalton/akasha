@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/pages/checkout-roots/checkout-roots.module.ts b/pages/checkout-roots/checkout-roots.module.ts
-index 09d1f0ac6ef63758a283223888d90d7d691b0ec9..c92cd76a7de9563ee65a038493b31f15d4903074 100644
+index 09d1f0ac6ef63758a283223888d90d7d691b0ec9..d475695aedb853968a5316d84536d368757fdf58 100644
 --- a/pages/checkout-roots/checkout-roots.module.ts
 +++ b/pages/checkout-roots/checkout-roots.module.ts
 @@ -14,7 +14,7 @@ export const checkoutRoots = {
@@ -9,6 +9,15 @@ index 09d1f0ac6ef63758a283223888d90d7d691b0ec9..c92cd76a7de9563ee65a038493b31f15
        invariantKind: "stopgap",
 -      statement: "A path under no marked checkout answers the folder two above this one.",
 +      statement: "A path under no marked checkout answers the folder two above that path.",
+     },
+     {
+       invariantKind: "departure",
+@@ -34,7 +34,7 @@ export const checkoutRoots = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A root stated in the environment stands over the one found on disk.",
++      statement: "A root stated in the environment wins over the root found on disk.",
      },
      {
        invariantKind: "departure",
