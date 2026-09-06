@@ -209,3 +209,28 @@ index 1c4e34423492bf6b75a15afcfddf809e6bbecc56..7774d77ada6d996aec3c970952e768ef
    }
  }
  
+diff --git a/seat-system/seat-turn-state/seat-turn-state.module.ts b/seat-system/seat-turn-state/seat-turn-state.module.ts
+index 0594608d7b81a331b6f491a0c4a7ffa0adb331a7..058fd48fcde7414d918811984611df144371a745 100644
+--- a/seat-system/seat-turn-state/seat-turn-state.module.ts
++++ b/seat-system/seat-turn-state/seat-turn-state.module.ts
+@@ -27,7 +27,19 @@ export const seatTurnState = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat waiting on nothing is idle rather than waiting.",
++      statement: "A seat in an on-call role is waiting on work sent to it rather than idle.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Whether a seat's role is on call answers this rather than whether the seat is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat in no on-call role waiting on nothing is idle rather than waiting.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat that has taken no turn at all is stopped whatever its role.",
+     },
+     {
+       invariantKind: "departure",
