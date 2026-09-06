@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/pages/service/page-writing/page-writing.module.ts b/pages/service/page-writing/page-writing.module.ts
-index 642acac10ce6c9be6a25a9ac049b42c1b19291aa..fb4a70525f09bf45b87717eb3c694c9d4cb55769 100644
+index 642acac10ce6c9be6a25a9ac049b42c1b19291aa..709c368c4b9ffa2acabbbab81ce219be6e915bd9 100644
 --- a/pages/service/page-writing/page-writing.module.ts
 +++ b/pages/service/page-writing/page-writing.module.ts
 @@ -47,7 +47,7 @@ export const pageWriting = {
@@ -9,6 +9,15 @@ index 642acac10ce6c9be6a25a9ac049b42c1b19291aa..fb4a70525f09bf45b87717eb3c694c9d
        statement:
 -        "A write stating one is refused where any of its paths no longer holds the body that commit held.",
 +        "A write stating a commit is refused where a path no longer holds the body that commit held.",
+     },
+     {
+       invariantKind: "departure",
+@@ -73,7 +73,7 @@ export const pageWriting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Two writes in one batch keeping one page merge onto one another in order.",
++      statement: "Two writes in one batch keeping one page merge in the order the writes arrived.",
      },
      {
        invariantKind: "departure",
