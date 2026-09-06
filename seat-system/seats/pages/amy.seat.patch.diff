@@ -60,3 +60,15 @@ index 52be85177c2a833dd30e69ee4972ad2435e27c42..b7456736f8dcc696213dd66ff3520200
 +  if (landed.length === 0) process.exit(1)
 +  process.stdout.write(`${day} carries ${landed.join(" and ")}\n`)
 +}
+diff --git a/alan/tracking/daily/tracking-daily.domain.ts b/alan/tracking/daily/tracking-daily.domain.ts
+index b4302b2164080726c620561f813debf45c566e56..3910498a6c6c1f967e295012bad55d386ab41806 100644
+--- a/alan/tracking/daily/tracking-daily.domain.ts
++++ b/alan/tracking/daily/tracking-daily.domain.ts
+@@ -39,6 +39,7 @@ export const trackingDaily = {
+     "module/task-points",
+     "module/strength-points",
+     "module/topic-words",
++    "workstation-service/topic-words-service",
+     "module/day-opening",
+   ],
+   invariants: [
