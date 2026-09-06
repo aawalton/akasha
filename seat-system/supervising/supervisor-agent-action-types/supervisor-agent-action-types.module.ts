@@ -9,7 +9,7 @@ export const supervisorAgentActionTypes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An action is one of restart, restart-now and swap-proxy.",
+      statement: "An action is restart or restart-now or swap-proxy.",
     },
     {
       invariantKind: "absence",
