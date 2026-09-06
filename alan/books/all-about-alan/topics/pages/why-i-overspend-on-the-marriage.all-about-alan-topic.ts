@@ -9,5 +9,5 @@ export const whyIOverspendOnTheMarriage = {
   parentSlugs: ["the-marriage-lever-i-cannot-read"],
   relatedSlugs: ["the-budget-i-run-my-days-on", "blank-check-mode-and-recovery-mode"],
   settled:
-    "Where my spend on time with Jen runs above the affordable line, the overshoot counterbalances itself a good deal on the marriage lever.\n\nI have no visibility into the rate of that exchange. What I know is that the middle is better than all of one or all of the other.\n\nI learned painfully that not depositing enough into the marriage in the short term brings long term losses that outweigh the savings.\n\nI lose either way right now. This way I lose less overall.",
+    "Where my spend on time with Jen runs above the affordable line, the overshoot counterbalances itself a good deal on the marriage lever.\n\nI have no visibility into the rate of that exchange. What I know is that the middle is better than all of one or all of the other.\n\nI learned painfully that not depositing enough into the marriage in the short term brings long term losses that outweigh the savings.\n\nI lose either way right now. This way I lose less overall.\n\nHow the relationship is going moves the difficulty of our time inside its band. The better it goes, the more of that time is rated three rather than five. It never goes below three.",
 } as const satisfies AllAboutAlanTopic
