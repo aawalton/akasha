@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
-index b8ade63be5844cd954278abdc774889eed65f2dc..d5e49dc64bf3bf4a1593bf03828879c100246642 100644
+index b8ade63be5844cd954278abdc774889eed65f2dc..43be1b96e8c816e158f2e8c0cdd888cff8b2a099 100644
 --- a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
 +++ b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
 @@ -41,7 +41,8 @@ export const temperInventoryRule = {
@@ -13,13 +13,19 @@ index b8ade63be5844cd954278abdc774889eed65f2dc..d5e49dc64bf3bf4a1593bf03828879c1
      },
      {
        invariantKind: "departure",
-@@ -49,7 +50,8 @@ export const temperInventoryRule = {
+@@ -49,11 +50,13 @@ export const temperInventoryRule = {
      },
      {
        invariantKind: "departure",
 -      statement: "A chain is read ahead of a destination where a rule states each.",
 +      statement:
 +        "A chain is read ahead of a destination where a rule states a chain and a destination.",
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A rule states a destination or a chain of them rather than both.",
++      statement:
++        "A rule states a destination or a chain of destinations rather than a destination and a chain.",
      },
      {
        invariantKind: "gap",
