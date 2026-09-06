@@ -1,0 +1,13 @@
+diff --git a/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.ts b/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.ts
+index 6fa2b85fc97ae88d0ced73e911d09fd8d8852103..f845eeb25ba4b61fa540486830161cbe89297e2d 100644
+--- a/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.ts
++++ b/checks/code-checks/pages/identifier-names-one-page/identifier-names-one-page.code-check.ts
+@@ -51,7 +51,7 @@ export const identifierNamesOnePage = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Two pages in one change carrying one value are refused against each other.",
++      statement: "Two pages in one change carrying one value are refused.",
+     },
+     {
+       invariantKind: "absence",
