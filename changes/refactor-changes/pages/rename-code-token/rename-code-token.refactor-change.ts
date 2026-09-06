@@ -10,7 +10,7 @@ export const renameCodeToken = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An exported name is renamed by the export rename, which reaches every importer.",
+      statement: "An exported name is renamed by the export rename.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +30,7 @@ export const renameCodeToken = {
     },
     {
       invariantKind: "departure",
-      statement: "The bodies are answered rather than written, so the caller lands them as one.",
+      statement: "The bodies are answered rather than written.",
     },
     {
       invariantKind: "gap",
