@@ -20,7 +20,6 @@ import {
   seatMarksAt,
 } from "@akasha/seat-system/terminal-seat-marks"
 import { followFolders, followWithin } from "@akasha/service-system/file-following"
-import { statusBarLine } from "../beat-drawing/beat-drawing.module.code.ts"
 import {
   decide,
   type Held,
@@ -29,6 +28,10 @@ import {
   released,
   releasedHeld,
 } from "../state-cooldown/state-cooldown.module.code.ts"
+import {
+  statusBarLine,
+  watchedFoldersIn,
+} from "../status-bar-composing/status-bar-composing.module.code.ts"
 import {
   agentTreeLine,
   domainTreeLine,
@@ -54,7 +57,6 @@ const INDEX_VALUE_AT = ".git/data/index/value"
 const SIDECAR = ".uncommitted.ts"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
 const SETTLE_MS = 25
-const STATUS_EVERY_MS = 30_000
 
 // One picture, the folders it is made from, and the cooldown it is written under. `holds` answers
 // whether a file is one this picture reads, so a change reaches only the pictures it can move.
@@ -65,8 +67,6 @@ type Picture = {
   readonly holds: (at: string) => boolean
   readonly movesWithIndex?: boolean
   readonly line: () => string | null
-  readonly refresh?: () => Promise<undefined>
-  readonly everyMs?: number
   held: Held
   waking: ReturnType<typeof setTimeout> | null
 }
@@ -92,6 +92,14 @@ function within(folder: string, ...endings: readonly string[]): (at: string) => 
 
 function either(...tests: readonly ((at: string) => boolean)[]): (at: string) => boolean {
   return (at) => tests.some((test) => test(at))
+}
+
+// The same test as `within` over a set of folders rather than one. What the status bar reads sits
+// one file to a folder across a folder for every readout and every account, which is too many to
+// spell as a list of `within`.
+function endingWithin(folders: readonly string[], ending: string): (at: string) => boolean {
+  const held = new Set(folders)
+  return (at) => held.has(dirname(at)) && at.endsWith(ending)
 }
 
 function agentColorsLine(): string {
@@ -127,18 +135,12 @@ function terminalTabsLine(root: string): string | null {
   } satisfies TerminalTabsState)
 }
 
-let statusHeld: string | null = null
-
-async function refreshStatusBar(): Promise<undefined> {
-  statusHeld = await statusBarLine()
-  return undefined
-}
-
 export function picturesOf(root: string): ReadonlyMap<string, Picture> {
   const seats = join(root, SEATS_AT)
   const turnStates = join(root, TURN_STATES_AT)
   const subagents = join(root, SUBAGENTS_AT)
   const terminals = seatMarksAt(root)
+  const readings = watchedFoldersIn(root)
   return new Map<string, Picture>([
     [
       "agent-colors",
@@ -174,11 +176,9 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "status-bar",
       {
         cooldownMs: 1_000,
-        folders: [],
-        holds: () => false,
-        line: () => statusHeld,
-        refresh: refreshStatusBar,
-        everyMs: STATUS_EVERY_MS,
+        folders: readings,
+        holds: endingWithin(readings, SIDECAR),
+        line: () => statusBarLine(root),
         held: NOTHING_WRITTEN,
         waking: null,
       },
@@ -275,31 +275,7 @@ export function watchEditorData(): () => undefined {
   const folders = new Set<string>()
   for (const picture of pictures.values()) for (const at of picture.folders) folders.add(at)
   const holds = either(...[...pictures.values()].map((picture) => picture.holds))
-  const beats: ReturnType<typeof setInterval>[] = []
-  for (const [slug, picture] of pictures) {
-    const refresh = picture.refresh
-    if (refresh === undefined || picture.everyMs === undefined) {
-      keep(root, slug, picture)
-      continue
-    }
-    // A throw inside a beat is left to end the process, as a throw anywhere here is. A beat still
-    // running when the next falls due is left to finish rather than joined by a second of itself,
-    // because the fleet read is slower than its own beat when the fleet is busy.
-    let beating = false
-    const beat = async (): Promise<undefined> => {
-      if (beating) return undefined
-      beating = true
-      try {
-        await refresh()
-        keep(root, slug, picture)
-      } finally {
-        beating = false
-      }
-      return undefined
-    }
-    void beat()
-    beats.push(setInterval(() => void beat(), picture.everyMs))
-  }
+  for (const [slug, picture] of pictures) keep(root, slug, picture)
   const following = followWithin(
     folders,
     holds,
@@ -320,7 +296,6 @@ export function watchEditorData(): () => undefined {
     SETTLE_MS
   )
   return () => {
-    for (const beat of beats) clearInterval(beat)
     following.stop()
     indexed.stop()
     return undefined

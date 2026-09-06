@@ -66,6 +66,18 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
+      statement: "The stoplight a row makes is worked out from rungs handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller holding the rungs already works a stoplight out without awaiting.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The scale is asked for only where a fresh reading is read against that scale.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A caller handing in nothing has each reading read from the values the relay holds.",
     },

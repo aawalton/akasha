@@ -59,19 +59,11 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A picture no file change can announce is taken again on a beat of its own.",
+      statement: "The folders a picture reads are worked out as the service starts.",
     },
     {
       invariantKind: "departure",
-      statement: "A picture taken on a beat is not taken a second time as the service starts.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A picture nothing has read yet answers no line at all.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A beat that could not take its picture leaves the earlier picture unchanged.",
+      statement: "A picture that could not be taken answers no line rather than an empty line.",
     },
     {
       invariantKind: "departure",
@@ -83,11 +75,11 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A beat stops when the watching stops.",
+      statement: "A throw ends the service rather than being caught and logged.",
     },
     {
-      invariantKind: "departure",
-      statement: "A throw ends the service rather than being caught and logged.",
+      invariantKind: "absence",
+      statement: "No picture here is taken on a beat.",
     },
   ],
 } as const satisfies Module
