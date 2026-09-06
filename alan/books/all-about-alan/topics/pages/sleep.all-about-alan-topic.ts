@@ -8,5 +8,5 @@ export const sleep = {
   definition: "how I sleep, and what it does for me",
   parentSlugs: ["resources"],
   settled:
-    "Nine or ten hours, and I almost always wake without an alarm.\n\nIt is the nearest thing to a cure-all I have found.",
+    "Seven hours most days at the moment, where I want nine or ten.\n\nI almost always wake without an alarm.\n\nIt is the nearest thing to a cure-all I have found.",
 } as const satisfies AllAboutAlanTopic
