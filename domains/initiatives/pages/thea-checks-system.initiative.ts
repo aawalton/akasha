@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Four steps: 1 the failure category prevented, 2 the right files judged at patch, 3 cheap at patch, 4 turned on. A check no changed path satisfies never runs. Cost is read from the entries beside each check's page; their count is the change's size, not the check's own. 43 checks, alphabetical. Done: domain-is-named-by-a-parent, email-address-is-well-formed, file-has-its-page. Now: calculation-imports-only-types, steps 1-2 done, refusal seeded at patch. Then file-length.",
+        "Four steps: 1 the failure category prevented, 2 the right files judged at patch, 3 cheap at patch, 4 turned on. A check no changed path satisfies never runs. Cost is read from the entries beside each check's page; their count is the change's size, not the check's own. 43 checks, alphabetical. Done: domain-is-named-by-a-parent, email-address-is-well-formed, file-has-its-page. Now: calculation-imports-only-types, steps 1-3 done, 0.3ms mean and 2ms when it parses. Then file-length.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
