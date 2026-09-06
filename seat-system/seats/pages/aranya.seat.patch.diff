@@ -216,3 +216,17 @@ index 0000000000000000000000000000000000000000..247286b0af3403ee9f110d7457f8ca0a
 +  slug: "collections-secrets-seaweedfs-s3-endpoint",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "SEAWEEDFS_S3_ENDPOINT" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-service-role-key.secret.ts b/service-system/secrets/pages/collections-secrets-service-role-key.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ef0ba7f02c5303e9a282017ec6b8f1e0a2a2715f
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-service-role-key.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsServiceRoleKey = {
++  id: "01a076b7-b672-7b47-a270-e5f998b2bc48",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-service-role-key",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "SERVICE_ROLE_KEY" }],
++} as const satisfies Secret
