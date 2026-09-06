@@ -1,8 +1,21 @@
 diff --git a/hook-system/shell-calls/shell-calls.module.ts b/hook-system/shell-calls/shell-calls.module.ts
-index 61f3c4268f7fb6daefe0544fbe297b7e3ebcbf76..41699a1acc11bf36ecc1e8f56a89ccf5ddb8e29d 100644
+index 61f3c4268f7fb6daefe0544fbe297b7e3ebcbf76..6f3d129039639ed0be2f31fc7aa5c6b9d7ace772 100644
 --- a/hook-system/shell-calls/shell-calls.module.ts
 +++ b/hook-system/shell-calls/shell-calls.module.ts
-@@ -107,7 +107,7 @@ export const shellCalls = {
+@@ -35,7 +35,11 @@ export const shellCalls = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The line opening a body is kept, so a redirect on that line is read.",
++      statement: "The line opening a body is kept.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A redirect on the line opening a body is read.",
+     },
+     {
+       invariantKind: "departure",
+@@ -107,7 +111,7 @@ export const shellCalls = {
      },
      {
        invariantKind: "constraint",
