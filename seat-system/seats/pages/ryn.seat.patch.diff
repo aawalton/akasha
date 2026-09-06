@@ -1,5 +1,5 @@
 diff --git a/changes/partial/pages/repoint-imports/repoint-imports.change-partial.ts b/changes/partial/pages/repoint-imports/repoint-imports.change-partial.ts
-index bbfe61026dc8e5ef10056b9c7f76a1ab83259d67..c62fe791b0bf4901486613505b7a4995b0284dd4 100644
+index bbfe61026dc8e5ef10056b9c7f76a1ab83259d67..d3c175d35d72d76537e19fb996fa223db7300a2d 100644
 --- a/changes/partial/pages/repoint-imports/repoint-imports.change-partial.ts
 +++ b/changes/partial/pages/repoint-imports/repoint-imports.change-partial.ts
 @@ -28,11 +28,11 @@ export const repointImports = {
@@ -16,7 +16,7 @@ index bbfe61026dc8e5ef10056b9c7f76a1ab83259d67..c62fe791b0bf4901486613505b7a4995
      },
      {
        invariantKind: "absence",
-@@ -44,7 +44,7 @@ export const repointImports = {
+@@ -44,11 +44,12 @@ export const repointImports = {
      },
      {
        invariantKind: "departure",
@@ -25,3 +25,9 @@ index bbfe61026dc8e5ef10056b9c7f76a1ab83259d67..c62fe791b0bf4901486613505b7a4995
      },
      {
        invariantKind: "departure",
+-      statement: "A specifier naming them follows the body's new folder and new name.",
++      statement:
++        "A specifier naming those declarations follows the body's new folder and new name.",
+     },
+     {
+       invariantKind: "absence",
