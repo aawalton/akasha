@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
-index 1c16444c9184a15b0179bdcb186140b48ab14222..d2c191211506a8b5fb4a24c3624d353d6c2933ca 100644
+index 1c16444c9184a15b0179bdcb186140b48ab14222..94454a84da81b305876e1ccc121052d179c51fbc 100644
 --- a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
 +++ b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
 @@ -13,12 +13,15 @@ export const supervisorHeartbeatBeat = {
@@ -21,13 +21,18 @@ index 1c16444c9184a15b0179bdcb186140b48ab14222..d2c191211506a8b5fb4a24c3624d353d
      },
      {
        invariantKind: "departure",
-@@ -26,7 +29,8 @@ export const supervisorHeartbeatBeat = {
+@@ -26,11 +29,12 @@ export const supervisorHeartbeatBeat = {
      },
      {
        invariantKind: "departure",
 -      statement: "A beat that throws or never ran is a refusal naming the fault, not a throw.",
 +      statement:
 +        "A beat that throws or never ran is a refusal naming the fault rather than a throw.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refused write is logged and swallowed, so no beat fails its caller.",
++      statement: "A refused write is logged and swallowed.",
      },
      {
        invariantKind: "departure",
