@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.ts b/command-system/commands/measure/check-measuring/check-measuring.module.ts
-index deca30d98dfc44057befd023332874825df0bdac..db1c4c7497560f42183f82468b38b75debebf877 100644
+index deca30d98dfc44057befd023332874825df0bdac..bcd411e9d3f2634e51c6479a50aef27b248aeac4 100644
 --- a/command-system/commands/measure/check-measuring/check-measuring.module.ts
 +++ b/command-system/commands/measure/check-measuring/check-measuring.module.ts
 @@ -23,7 +23,7 @@ export const checkMeasuring = {
@@ -49,6 +49,15 @@ index deca30d98dfc44057befd023332874825df0bdac..db1c4c7497560f42183f82468b38b75d
        invariantKind: "departure",
 -      statement: "A check carrying no patch run is ordered after every check carrying one.",
 +      statement: "A check carrying no patch run is ordered after every check carrying a patch run.",
+     },
+     {
+       invariantKind: "departure",
+@@ -101,7 +103,7 @@ export const checkMeasuring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run naming a phase this does not split by is counted beneath the table.",
++      statement: "A run naming a phase the table does not split by is counted beneath the table.",
      },
      {
        invariantKind: "departure",
