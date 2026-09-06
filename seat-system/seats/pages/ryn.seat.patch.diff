@@ -1,0 +1,17 @@
+diff --git a/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts b/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts
+index d79b46998253874ce44843e01028771ed02066d9..6a068e821fa8e400918d3f8ebc0092cba440860e 100644
+--- a/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts
++++ b/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts
+@@ -27,7 +27,11 @@ export const apnsPushNotifier = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "No push carries an app-icon badge, and nothing refreshes one.",
++      statement: "No push carries an app-icon badge.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing refreshes an app-icon badge.",
+     },
+     {
+       invariantKind: "gap",
