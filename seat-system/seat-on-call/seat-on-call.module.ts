@@ -25,7 +25,7 @@ export const seatOnCall = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat that is not on call is reported as none stated rather than as blank.",
+      statement: "A seat that is not on call is reported as `none stated` rather than as blank.",
     },
   ],
 } as const satisfies Module
