@@ -67,3 +67,22 @@ index 698d4316f3c5a80f7b751f7fb9d801d4d8ef063f..4f5c17894ba0ad4dd806449f7858fd0a
    idFiled(root, CHECK_TYPE, [{ path: CHECK_TYPE_AT, id: CHECK_TYPE }])
  }
  
+diff --git a/testing-system/minting/minting.module.ts b/testing-system/minting/minting.module.ts
+index c135b0a016a0e89a7226542e30d92814f5a20bc6..7f613bc3998407e4d3bd032a647052a9a9738c65 100644
+--- a/testing-system/minting/minting.module.ts
++++ b/testing-system/minting/minting.module.ts
+@@ -15,6 +15,14 @@ export const minting = {
+       invariantKind: "departure",
+       statement: "One place mints the checks.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A check a test mints is one the index names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A check a test mints carries the same value in the index and in its own body.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A minted id is worked out from the slug the id is minted for.",
