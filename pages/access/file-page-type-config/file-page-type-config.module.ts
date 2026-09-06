@@ -19,7 +19,7 @@ export const filePageTypeConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type names one page type above that page type or several.",
+      statement: "A page type names one page type above that page type or several page types.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const filePageTypeConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "The page types above are asked a level at a time, the nearest level first.",
+      statement: "The page types above are asked a level at a time from the nearest level.",
     },
     {
       invariantKind: "departure",
@@ -36,11 +36,11 @@ export const filePageTypeConfig = {
     {
       invariantKind: "departure",
       statement:
-        "Where two page types above state a key and are equally near, the one named last is answered from.",
+        "A key two equally near page types above state is answered from the page type named last.",
     },
     {
       invariantKind: "departure",
-      statement: "Twenty page types is as many as are asked before a key is given up on.",
+      statement: "A key is given up on after twenty page types are asked.",
     },
     {
       invariantKind: "departure",
