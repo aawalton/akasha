@@ -121,3 +121,26 @@ index 81e7b483c9832e3637c1ecd3de8c14b6fc56734f..266ca1db9888039c3b6906214f47ad0f
      const wanted = known.targetOf(one.propertySlug)
      if (wanted === null) continue
      for (const named of namesIn(one.held)) {
+diff --git a/pages/indexes/relation/index-relation.index.ts b/pages/indexes/relation/index-relation.index.ts
+index 9a8a9ffdc2482f79f41084ea8bba2907c2442276..6d9791b9fab1199171a2c298358576ea27dd3598 100644
+--- a/pages/indexes/relation/index-relation.index.ts
++++ b/pages/indexes/relation/index-relation.index.ts
+@@ -23,15 +23,12 @@ export const indexRelation = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page's own id files no edge.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page's own slug files no edge.",
++      statement:
++        "A page's identity is its id, its slug and the page type its slug is unique within.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page's own page type files no edge.",
++      statement: "A page's identity files no edge, the identity index filing it.",
+     },
+     {
+       invariantKind: "departure",
