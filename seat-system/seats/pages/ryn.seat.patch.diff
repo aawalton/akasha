@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts b/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts
-index 333000c445084e4fb12e30d0b8df3e9c1a412a3f..16aa881bbc58615cb76368b323d0fc311c7f9a08 100644
+index 333000c445084e4fb12e30d0b8df3e9c1a412a3f..250052ab12389a4e548ad497fa9e14c14dcb8f7b 100644
 --- a/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts
 +++ b/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts
 @@ -13,7 +13,7 @@ export const supervisorIdleObserve = {
@@ -24,7 +24,12 @@ index 333000c445084e4fb12e30d0b8df3e9c1a412a3f..16aa881bbc58615cb76368b323d0fc31
      },
      {
        invariantKind: "departure",
-@@ -42,7 +46,11 @@ export const supervisorIdleObserve = {
+@@ -38,11 +42,15 @@ export const supervisorIdleObserve = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A busy child's age is now less the mtime of its /proc directory, or null.",
++      statement: "A busy child's age is now less the mtime of its /proc directory or null.",
      },
      {
        invariantKind: "departure",
