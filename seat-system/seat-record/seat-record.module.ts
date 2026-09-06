@@ -21,7 +21,7 @@ export const seatRecord = {
     },
     {
       invariantKind: "departure",
-      statement: "A write finds the seat's name first and does nothing when there is none.",
+      statement: "A write finds the seat's name first and does nothing where that name is missing.",
     },
     {
       invariantKind: "departure",
