@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/relating/relationship-topics/relationship-topic.page-type.ts b/alan/relating/relationship-topics/relationship-topic.page-type.ts
+index 5181acf39341455fef97ad92be42702135697d30..cb5dc9d4d261c064fc0c0ba884a5c5fbb137ab9b 100644
+--- a/alan/relating/relationship-topics/relationship-topic.page-type.ts
++++ b/alan/relating/relationship-topics/relationship-topic.page-type.ts
+@@ -50,7 +50,7 @@ export const relationshipTopic = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A relationship topic is under another relationship topic, or under none.",
++      statement: "A relationship topic is under another relationship topic or under no topic.",
+     },
+     {
+       invariantKind: "departure",
