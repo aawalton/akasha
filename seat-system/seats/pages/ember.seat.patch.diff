@@ -1,0 +1,13 @@
+diff --git a/pages/entries/page-entries.module.test.ts b/pages/entries/page-entries.module.test.ts
+index 5c990c3bdfb8b1e8470c81cb280d45a8422addba..da3eca40b51525edcec692ae1e1bcb74c17f9ee6 100644
+--- a/pages/entries/page-entries.module.test.ts
++++ b/pages/entries/page-entries.module.test.ts
+@@ -14,7 +14,7 @@ const scratch = scratchWorld()
+ 
+ afterAll(scratch.sweep)
+ 
+-const REPO = join(import.meta.dir, "..", "..", "..")
++const REPO = join(import.meta.dir, "..", "..")
+ 
+ const REAL = "agents/models/tests/pages/restatement/restatement.model-test.ts"
+ 
