@@ -6,13 +6,7 @@ export const bookOfEverythingCommands = {
   slug: "book-of-everything-commands",
   definition: "what an agent runs by name over how far Ali and Alan have got through the book",
   manifest: "json",
-  partSlugs: [
-    "command/ali-coverage",
-    "command/ali-next-unscored",
-    "command/ali-random-leaf",
-    "command/learn-next",
-    "command/measure-learning",
-  ],
+  partSlugs: ["command/learn-next", "command/measure-learning"],
   invariants: [
     {
       invariantKind: "departure",

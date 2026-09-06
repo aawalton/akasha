@@ -1,4 +1,4 @@
-import { type Topic, topicTreeIn } from "@akasha/book-of-everything/topic-tree"
+import { everyTopic, type Topic, topicTreeIn } from "@akasha/book-of-everything/topic-tree"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 
@@ -12,21 +12,52 @@ const SCALE = 7
 
 const PLACES = 2
 
+const GUTTER = 2
+
+const COVERAGE_HEAD = "Coverage"
+
+const TOPICS_HEAD = "Topics"
+
+const NAME_HEAD = "Part"
+
 export type Reading = {
   readonly title: string
   readonly coverage: number
+  readonly topics: number
 }
 
 export function readingOf(topic: Topic): Reading {
-  return { title: topic.title, coverage: Number(topic.coverage.toFixed(PLACES)) }
+  return {
+    title: topic.title,
+    coverage: Number(topic.coverage.toFixed(PLACES)),
+    topics: everyTopic(topic).length,
+  }
 }
 
 export function saidOf(parts: readonly Reading[], whole: Reading): readonly string[] {
-  const lines: string[] = ["| Part | Coverage |", "| --- | --- |"]
-  for (const one of [...parts, whole]) {
-    lines.push(`| ${one.title} | ${one.coverage.toFixed(PLACES)} of ${SCALE} |`)
+  const every = [...parts, whole]
+  const wideCoverage = Math.max(
+    COVERAGE_HEAD.length,
+    ...every.map((one) => one.coverage.toFixed(PLACES).length)
+  )
+  const wideTopics = Math.max(TOPICS_HEAD.length, ...every.map((one) => String(one.topics).length))
+  const gutter = " ".repeat(GUTTER)
+  const rowOf = (one: Reading): string => {
+    const coverage = one.coverage.toFixed(PLACES).padStart(wideCoverage)
+    const topics = String(one.topics).padStart(wideTopics)
+    return `${coverage}${gutter}${topics}${gutter}${one.title}`
   }
-  return lines
+  const heading =
+    `${COVERAGE_HEAD.padStart(wideCoverage)}${gutter}` +
+    `${TOPICS_HEAD.padStart(wideTopics)}${gutter}${NAME_HEAD}`
+  return [
+    `Book of Everything — how deep it goes, of ${SCALE}`,
+    "",
+    heading,
+    ...parts.map(rowOf),
+    "",
+    rowOf(whole),
+  ]
 }
 
 export function measureLearning(argv: readonly string[], given: Given): Answer {

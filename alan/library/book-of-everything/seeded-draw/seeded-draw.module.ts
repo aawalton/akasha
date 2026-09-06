@@ -4,7 +4,7 @@ export const seededDraw = {
   id: "01a077e7-e766-7e74-bb8e-f95b949f5b32",
   pageTypeSlug: "module",
   slug: "seeded-draw",
-  definition: "a seed number turned into a source of draws giving the same run of numbers again",
+  definition: "items drawn without replacement from a source of draws a seed makes repeatable",
   code: "ts",
   test: "ts",
   invariants: [
@@ -28,6 +28,18 @@ export const seededDraw = {
     {
       invariantKind: "departure",
       statement: "Two seeds that differ give runs that differ.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A draw asking for more items than there are gives every item there is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The source of randomness is handed in rather than reached for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An index the randomness returns from outside its bound is refused.",
     },
   ],
 } as const satisfies Module

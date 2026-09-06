@@ -1,5 +1,8 @@
-import { type Leaf, selectWithoutReplacement } from "@akasha/book-of-everything/random-leaf-select"
-import { drawsFromSeed } from "@akasha/book-of-everything/seeded-draw"
+import {
+  drawsFromSeed,
+  type Leaf,
+  selectWithoutReplacement,
+} from "@akasha/book-of-everything/seeded-draw"
 import { leavesOf, type Topic, topicTreeIn } from "@akasha/book-of-everything/topic-tree"
 import type { Answer, Given } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"

@@ -1,12 +1,11 @@
 import { valuesOfType } from "@akasha/indexes"
 import { asking } from "@akasha/pages-service/asking"
-import type { CoverageNode } from "../coverage-fold/coverage-fold.module.code.ts"
-import type { StatusNode } from "../coverage-status/coverage-status.module.code.ts"
-import { displayTitle, type ProfileStatus } from "../node-profile/node-profile.module.code.ts"
 
 const TOPIC = "learn-everything-topic"
 
 const STATUSES: readonly string[] = ["live", "resting", "unopened"]
+
+export type ProfileStatus = "live" | "resting" | "unopened"
 
 const UNOPENED: ProfileStatus = "unopened"
 
@@ -30,6 +29,12 @@ export type Row = {
   readonly coverage: number
   readonly status: ProfileStatus
   readonly parent: string | null
+}
+
+function displayTitle(nodeLabel: string): string {
+  const parts = nodeLabel.split("›")
+  const last = parts[parts.length - 1]
+  return (last ?? nodeLabel).trim()
 }
 
 function statusOf(said: unknown): ProfileStatus {
@@ -129,33 +134,10 @@ export function topicTreeIn(root: string): Topic {
   return treeOf(rowsIn(root))
 }
 
-export function topicAt(from: Topic, slug: string): Topic | null {
-  if (from.slug === slug) return from
-  for (const child of from.children) {
-    const found = topicAt(child, slug)
-    if (found !== null) return found
-  }
-  return null
-}
-
 export function leavesOf(from: Topic): readonly Topic[] {
   return from.children.length === 0 ? [from] : from.children.flatMap(leavesOf)
 }
 
 export function everyTopic(from: Topic): readonly Topic[] {
   return [from, ...from.children.flatMap(everyTopic)]
-}
-
-export function statusNodeOf(from: Topic): StatusNode {
-  return {
-    path: from.slug,
-    label: from.label,
-    title: from.title,
-    status: from.status,
-    children: from.children.map(statusNodeOf),
-  }
-}
-
-export function coverageNodeOf(from: Topic): CoverageNode {
-  return { d: from.depth, children: from.children.map(coverageNodeOf) }
 }

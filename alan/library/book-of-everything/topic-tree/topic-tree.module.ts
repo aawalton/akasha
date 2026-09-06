@@ -38,5 +38,13 @@ export const topicTree = {
       statement:
         "A topic naming several topics above that topic hangs under the first that topic names.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A chevron parts each name in a label from the next.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A title is the last name in a label.",
+    },
   ],
 } as const satisfies Module

@@ -6,18 +6,7 @@ export const bookOfEverything = {
   slug: "book-of-everything",
   definition: "how far into the whole of knowledge Ali has read, node by node",
   manifest: "json",
-  partSlugs: [
-    "page-type/learn-everything-topic",
-    "module/propaedia-outline",
-    "module/books-root",
-    "module/node-profile",
-    "module/coverage-fold",
-    "module/coverage-status",
-    "module/status-tree",
-    "module/topic-tree",
-    "module/random-leaf-select",
-    "module/seeded-draw",
-  ],
+  partSlugs: ["page-type/learn-everything-topic", "module/topic-tree", "module/seeded-draw"],
   invariants: [
     {
       invariantKind: "departure",
