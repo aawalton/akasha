@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
-index 48393ee6cdeb107303c200ac9681b2c347fa390d..1d4257e81a16631112786cfe6e4c57a9cd1673a1 100644
+index 48393ee6cdeb107303c200ac9681b2c347fa390d..40e1aa014e0063984a99306d3de55d8a621f71b9 100644
 --- a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
 +++ b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
 @@ -1,4 +1,4 @@
@@ -17,3 +17,13 @@ index 48393ee6cdeb107303c200ac9681b2c347fa390d..1d4257e81a16631112786cfe6e4c57a9
  export const SCOPE: readonly string[] = [
    "block-akasha-reads refuses a Read landing anywhere inside this checkout, and stands aside",
    "everywhere else.",
+@@ -65,7 +67,8 @@ export function refusalIn(filePath: string, from: string, root: string): string
+   if (filePath.trim() === "") return null
+   const here = settled(root)
+   const at = settled(resolve(from, filePath))
+-  return insideOf(settled(here), at) ? refusalFor(shownIn(here, at)) : null
++  if (!insideOf(here, at)) return null
++  return insideOf(settled(join(here, DATA_AT)), at) ? null : refusalFor(shownIn(here, at))
+ }
+ 
+ export async function ran(): Promise<number> {
