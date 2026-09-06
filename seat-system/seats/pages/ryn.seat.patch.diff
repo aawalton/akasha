@@ -1,9 +1,14 @@
 readersOweReading: false
 diff --git a/alan/fitness/commands/exercise-select/exercise-select.command.ts b/alan/fitness/commands/exercise-select/exercise-select.command.ts
-index 5dabfaaf0e744f45b1a7756c52717bed5a07667f..ed03113328ccd72271533b91887d16b361f10e94 100644
+index 5dabfaaf0e744f45b1a7756c52717bed5a07667f..dc2a501e273b55053796ae3156af4fa4962fb292 100644
 --- a/alan/fitness/commands/exercise-select/exercise-select.command.ts
 +++ b/alan/fitness/commands/exercise-select/exercise-select.command.ts
-@@ -37,7 +37,8 @@ export const exerciseSelect = {
+@@ -33,11 +33,12 @@ export const exerciseSelect = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every pick is answered with the scores, features and rules behind that pick.",
++      statement: "Every pick is answered with the scores and features and rules behind that pick.",
      },
      {
        invariantKind: "departure",
