@@ -1,17 +1,20 @@
 diff --git a/akasha.domain.ts b/akasha.domain.ts
-index 69332d0d43cf33802c325921eef52458772bac4a..d2b4bba01118e864c335c96f5a9b01273fe1c7bc 100644
+index 69332d0d43cf33802c325921eef52458772bac4a..c04a604942cec91e8c4c603f9ffd4c61c2a1ec2d 100644
 --- a/akasha.domain.ts
 +++ b/akasha.domain.ts
-@@ -6,7 +6,7 @@ export const akasha = {
+@@ -6,7 +6,10 @@ export const akasha = {
    slug: "akasha",
    definition: "code, data and text in a page with a type in a file",
    partSlugs: [
 -    "domain/code",
++<<<<<<< what this change would leave
 +    "workspace-package/code-system",
++=======
++>>>>>>> what HEAD holds
      "domain/data",
      "domain/text",
      "domain/file",
-@@ -26,7 +26,6 @@ export const akasha = {
+@@ -26,7 +29,6 @@ export const akasha = {
      "domain/akasha-check",
      "domain/instrument",
      "workspace-package/checks",
@@ -80,3 +83,61 @@ index 9a50b2b04ef240feb009c28592770d8d3090a239..3edf107ea4d88d800d6dfb5df6b3fbae
 +    },
 +  ],
  } as const satisfies WorkspacePackage
+diff --git a/code/code.domain.ts b/code/code.domain.ts
+deleted file mode 100644
+index c03d2884048c5bafe1ee88c2a69bb3e5ed82f5c4..0000000000000000000000000000000000000000
+--- a/code/code.domain.ts
++++ /dev/null
+@@ -1,52 +0,0 @@
+-import type { Domain } from "../domains/domain.page-type.ts"
+-
+-export const code = {
+-  id: "01a049e9-651c-7001-955c-09de7e27c23e",
+-  pageTypeSlug: "domain",
+-  slug: "code",
+-  definition: "the code a machine runs",
+-  partSlugs: [],
+-  directives: [
+-    {
+-      directiveKind: "rule",
+-      name: "Bounded Wait",
+-      act: "Give every wait a ceiling, and fail at that ceiling with the reason the wait was for.",
+-      warrant:
+-        "An unbounded wait emits nothing, neither finished nor failed, so nothing alerts and nothing retries.",
+-      aids: [
+-        "Bound the whole wait, not each attempt.",
+-        "Never go on past the ceiling without the result.",
+-      ],
+-    },
+-    {
+-      directiveKind: "rule",
+-      name: "Split First",
+-      act: "Split an authored file too big to read in one answer before you change it, never around it.",
+-      warrant:
+-        "A write needs a body read, and no read returns this one, so the two refusals point at each other.",
+-      aids: ["The split is derived, not authored.", "A part still too big to read is not split."],
+-    },
+-    {
+-      directiveKind: "rule",
+-      name: "No Code Comments",
+-      act: "Write a code comment only in one of the code comment forms; delete every other one.",
+-      warrant:
+-        "Opus 5 obeys a comment as readily as a domain, so a drifted one competes with what the domains say.",
+-      aids: [
+-        "Delete what it said rather than rehome it.",
+-        "Add it to a domain later, only where needed.",
+-      ],
+-    },
+-    {
+-      directiveKind: "rule",
+-      name: "Real Path",
+-      act: "Resolve a filesystem path to its real location where the path is made.",
+-      warrant:
+-        "Two spellings of a path open the same file, so nothing fails until a comparison quietly answers no.",
+-      aids: [
+-        "Follow the symlink; `path.resolve` does not.",
+-        "Where nothing is there yet, resolve the parent.",
+-      ],
+-    },
+-  ],
+-} as const satisfies Domain
