@@ -181,6 +181,19 @@ index 093a6c551f4a014435b9690f6ab8d1f48670b0f9..fbdc165197796303f18605698ce3db3d
  export function reconcile(
    under: string,
    entries: readonly Entry[],
+diff --git a/pages/indexes/rebuilding/rebuilding.module.test.ts b/pages/indexes/rebuilding/rebuilding.module.test.ts
+index 0c8a910f6630bd6c4b486f41479fd43dba803405..24b6dc465ae1fc5f2e1318f1694e6a80c89f0d66 100644
+--- a/pages/indexes/rebuilding/rebuilding.module.test.ts
++++ b/pages/indexes/rebuilding/rebuilding.module.test.ts
+@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
+ import { existsSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { reconcile } from "./rebuilding.module.code.ts"
++import { reconcile, sweptBeside } from "./rebuilding.module.code.ts"
+ 
+ const scratch = scratchWorld()
+ 
 diff --git a/pages/indexes/rebuilding/rebuilding.module.ts b/pages/indexes/rebuilding/rebuilding.module.ts
 index 6d5ec5151779dc82c22fa2bdffd4e5c302798fc2..d69134d12cc476012985b949cf3071cce042f99f 100644
 --- a/pages/indexes/rebuilding/rebuilding.module.ts
