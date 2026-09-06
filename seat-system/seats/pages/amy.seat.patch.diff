@@ -39,3 +39,26 @@ index 5de307229da53a3947a221c8a577f755d6b0eed6..52898fdaec0cda79ff280c78f12c3954
  export function spannedFromDayBoundaryIn(root: string, dayStr: string): boolean {
    return "refused" in wakeDayWindowIn(root, dayStr)
  }
+diff --git a/health-samples-day/wake-day-window/wake-day-window.module.ts b/health-samples-day/wake-day-window/wake-day-window.module.ts
+index b4655ee5bdd6727775287af3e5be2b126d88c592..e50c02f40e4db0b0f4742457140cae8cfb453930 100644
+--- a/health-samples-day/wake-day-window/wake-day-window.module.ts
++++ b/health-samples-day/wake-day-window/wake-day-window.module.ts
+@@ -48,6 +48,18 @@ export const wakeDayWindow = {
+       invariantKind: "departure",
+       statement: "A day refusing a window is a day spanned from the day boundary instead.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A day whose next wake is not recorded closes at the ESO day's own end.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The day being lived closes at the ESO day's own end.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A spanned window refuses only a day that will not parse.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Which of the two a day was is answered here rather than by each figure's writer.",
