@@ -1,3 +1,19 @@
+diff --git a/pages/ui/components/view-page-content/view-page-content.module.code.tsx b/pages/ui/components/view-page-content/view-page-content.module.code.tsx
+index 857d99f7b5d8f7316f0d13935cc38b70b6b9a804..58bdf6960c005571723f4a5cf650f7adfb0906ac 100644
+--- a/pages/ui/components/view-page-content/view-page-content.module.code.tsx
++++ b/pages/ui/components/view-page-content/view-page-content.module.code.tsx
+@@ -58,10 +58,7 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
+     [navItemPage]
+   )
+ 
+-  const { views: viewPages, isLoading: viewsLoading } = useViewsForNavItem({
+-    navItemId,
+-    navItemSlug,
+-  })
++  const { views: viewPages, isLoading: viewsLoading } = useViewsForNavItem({ navItemSlug })
+ 
+   const fromFiles = usePageTypeDirectory()
+   const pageTypeIdBySlug = useMemo(() => {
 diff --git a/pages/ui/supabase/hooks/hooks.module.code.ts b/pages/ui/supabase/hooks/hooks.module.code.ts
 index 3ea504d9832b64dcc8f59cd7a3568a63e161dba5..006137f1ae7d233656c2b4800a13a7d9255437bc 100644
 --- a/pages/ui/supabase/hooks/hooks.module.code.ts
