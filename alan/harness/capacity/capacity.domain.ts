@@ -24,7 +24,8 @@ export const capacity = {
 
     {
       invariantKind: "departure",
-      statement: "Every site showing the capacity is carried the capacity rather than taking one.",
+      statement:
+        "Every site showing the capacity is carried the capacity rather than taking that capacity.",
     },
     {
       invariantKind: "departure",
