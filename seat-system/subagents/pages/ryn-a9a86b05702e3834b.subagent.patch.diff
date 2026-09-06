@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/outside-naming/outside-naming.module.ts b/command-system/outside-naming/outside-naming.module.ts
-index eeea171c97123a76e0e61c0f0a0cc102949d317e..ad6f70f9e8806acebd5a17569eb2a5ac1580d9c7 100644
+index eeea171c97123a76e0e61c0f0a0cc102949d317e..644199ee0d108e0b2c9ff471ea805aa09f112988 100644
 --- a/command-system/outside-naming/outside-naming.module.ts
 +++ b/command-system/outside-naming/outside-naming.module.ts
 @@ -18,7 +18,7 @@ export const outsideNaming = {
@@ -18,6 +18,15 @@ index eeea171c97123a76e0e61c0f0a0cc102949d317e..ad6f70f9e8806acebd5a17569eb2a5ac
        invariantKind: "departure",
 -      statement: "The parts one call asks after share one pattern.",
 +      statement: "The parts a single call asks after share one pattern.",
+     },
+     {
+       invariantKind: "departure",
+@@ -67,7 +67,7 @@ export const outsideNaming = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A name carrying more of a segment than the part looked for is left out.",
++      statement: "A name carrying a segment longer than the part looked for is left out.",
      },
      {
        invariantKind: "departure",
