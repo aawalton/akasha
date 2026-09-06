@@ -40,7 +40,11 @@ export const talosRemoteInstall = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The node is named as a word or after `--node`, and naming both is refused.",
+      statement: "The node is named as a word or after `--node`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Naming the node twice is refused.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +52,7 @@ export const talosRemoteInstall = {
     },
     {
       invariantKind: "departure",
-      statement: "A method that is none of auto, kexec and dd is refused.",
+      statement: "A method that is not auto or kexec or dd is refused.",
     },
     {
       invariantKind: "departure",
