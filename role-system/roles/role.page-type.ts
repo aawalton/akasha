@@ -41,7 +41,7 @@ export const role = {
     {
       directiveKind: "rule",
       name: "Verification",
-      act: "Report only what you verified; where you could not, say so rather than reporting success.",
+      act: "Report only what you verified; where you could not verify, say so rather than reporting success.",
       warrant:
         "Your unverified claim reads exactly like a verified one, so nobody downstream can discount it.",
       aids: [
