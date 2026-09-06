@@ -37,8 +37,11 @@ export const vscodeStub = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A proxy hands back a fresh proxy, so a row written into one is not there to read.",
+      statement: "A proxy hands back a fresh proxy.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row written into a proxy is not there to read.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +53,7 @@ export const vscodeStub = {
     },
     {
       invariantKind: "gap",
-      statement: "An extension reaches far more of the editor's interface than is named here.",
+      statement: "An extension reaches parts of the editor's interface no page here names.",
     },
   ],
 } as const satisfies JavascriptModule
