@@ -26,3 +26,38 @@ index 0000000000000000000000000000000000000000..3a9555c6550151285ec444228347ee1d
 +    },
 +  ],
 +} as const satisfies NamedFileProperty
+diff --git a/code-system/router-apps/router-app.page-type.ts b/code-system/router-apps/router-app.page-type.ts
+index 3cc37a22de20d6faa9acdbff8b5f313f06938110..fd0f4d214da271681cb7f7b3cab33729857fbd3f 100644
+--- a/code-system/router-apps/router-app.page-type.ts
++++ b/code-system/router-apps/router-app.page-type.ts
+@@ -1,5 +1,6 @@
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
++import type { AppLayout } from "./properties/app-layout.named-file-property.ts"
+ import type { CompileConfig } from "./properties/compile-config.named-file-property.ts"
+ import type { RootRoute } from "./properties/root-route.named-file-property.ts"
+ import type { RouteTable } from "./properties/route-table.named-file-property.ts"
+@@ -12,6 +13,7 @@ export type RouterApp = WorkspacePackage & {
+   serverEntry: ServerEntry
+   routerConfig: RouterConfig
+   compileConfig?: CompileConfig
++  appLayout?: AppLayout
+ }
+ 
+ export const routerApp = {
+@@ -21,6 +23,7 @@ export const routerApp = {
+   definition: "what serves the routes its own table declares",
+   pluralSlug: "router-apps",
+   partSlugs: [
++    "named-file-property/app-layout",
+     "named-file-property/compile-config",
+     "named-file-property/root-route",
+     "named-file-property/route-table",
+@@ -35,6 +38,7 @@ export const routerApp = {
+     { pagePropertySlug: "named-file-property/server-entry", required: true, many: false },
+     { pagePropertySlug: "named-file-property/router-config", required: true, many: false },
+     { pagePropertySlug: "named-file-property/compile-config", required: false, many: false },
++    { pagePropertySlug: "named-file-property/app-layout", required: false, many: false },
+   ],
+   invariants: [
+     {
