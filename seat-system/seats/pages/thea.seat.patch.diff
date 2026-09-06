@@ -5323,10 +5323,10 @@ index 2517964331f5ba2252ccb2b53acc662115958465..163385cc2facdeadd4a0367ad1cdec53
    invariants: [
      {
 diff --git a/person-system/person-accesses/properties/person-access-serves.text-property.ts b/person-system/person-accesses/properties/person-access-serves.text-property.ts
-index ac7d9dc7eaac8f73bf6533525780bd6f0d10eeba..035a52ba9a82f9400ab5620f7cc09fc83d88f3c9 100644
+index ac7d9dc7eaac8f73bf6533525780bd6f0d10eeba..ed4362a18c79bdb2b33b456095c866fd0c61c97b 100644
 --- a/person-system/person-accesses/properties/person-access-serves.text-property.ts
 +++ b/person-system/person-accesses/properties/person-access-serves.text-property.ts
-@@ -8,7 +8,7 @@ export const personAccessServes = {
+@@ -8,13 +8,13 @@ export const personAccessServes = {
    slug: "person-access-serves",
    propertySlug: "serves",
    definition: "the shared page type the target represents",
@@ -5335,6 +5335,13 @@ index ac7d9dc7eaac8f73bf6533525780bd6f0d10eeba..035a52ba9a82f9400ab5620f7cc09fc8
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
+       invariantKind: "departure",
+       statement:
+-        "A target serves a page type only where that target is a person's own copy of one.",
++        "A target serves a page type only where that target is a person's own copy of that page type.",
+     },
+     {
+       invariantKind: "stopgap",
 diff --git a/person-system/person-accesses/properties/person-access-target.text-property.ts b/person-system/person-accesses/properties/person-access-target.text-property.ts
 index 033b0ff8af33e5eb30c257b20b21ff7a4cb6e9e7..036ea5d5ac033a79558a565edbcd68e47944eb19 100644
 --- a/person-system/person-accesses/properties/person-access-target.text-property.ts
