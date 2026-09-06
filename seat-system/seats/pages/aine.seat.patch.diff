@@ -25,6 +25,71 @@ index 1c54f4211bc8af64b4da8e36bad54b9a1e5afb4b..2f8838f923f0ee80a3bcac643251b61f
    unitSlug: "words",
    chapterText: "md",
  } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/efficiency-factors/degradation-system.book-section.ts b/alan/books/my-projects/sections/solar-power/efficiency-factors/degradation-system.book-section.ts
+index deda22ce56d2fea1829d58740d96c4ec8702b16e..28140744d25c2e12979322a4ccf1cde5a41862cc 100644
+--- a/alan/books/my-projects/sections/solar-power/efficiency-factors/degradation-system.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/efficiency-factors/degradation-system.book-section.ts
+@@ -7,7 +7,7 @@ export const degradationSystem = {
+   title: "Degradation, ILR, Albedo, Structural, UV",
+   description:
+     "Module degradation, DC/AC ratio & clipping, albedo, snow load structural, and high-altitude UV. The factors that act over years or at the system-design level.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["efficiency-factors"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/efficiency-factors/losses.book-section.ts b/alan/books/my-projects/sections/solar-power/efficiency-factors/losses.book-section.ts
+index 3f073bea7a0c3cd0e94424b917c1f7d10a784194..9d1b1b23b62a32b7a31ead9e98d4a79cd8637bdd 100644
+--- a/alan/books/my-projects/sections/solar-power/efficiency-factors/losses.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/efficiency-factors/losses.book-section.ts
+@@ -7,7 +7,7 @@ export const losses = {
+   title: "System Losses",
+   description:
+     "System losses — shading, soiling, snow, temperature, mismatch, wiring, inverter, availability. The PVWatts 14.08% bucket and what's in it.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["efficiency-factors"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/efficiency-factors/orientation.book-section.ts b/alan/books/my-projects/sections/solar-power/efficiency-factors/orientation.book-section.ts
+index ce5fb7736a828fd6a109ec1f8e46268c80fdc045..911fb7bf8219ae76961a044eeecbe07230137894 100644
+--- a/alan/books/my-projects/sections/solar-power/efficiency-factors/orientation.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/efficiency-factors/orientation.book-section.ts
+@@ -7,7 +7,7 @@ export const orientation = {
+   title: "Tilt and Azimuth (POA Irradiance)",
+   description:
+     "Plane-of-array (POA) irradiance — converting GHI to what actually hits the panel. Tilt, azimuth, and combined derate tables for Provo.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["efficiency-factors"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/efficiency-factors/provo.book-section.ts b/alan/books/my-projects/sections/solar-power/efficiency-factors/provo.book-section.ts
+index adb921c79925b6adee6e4385998bbe76bfa9f0c2..1fa3fdb88f09e9f31cc57c664a12f2576ba7a837 100644
+--- a/alan/books/my-projects/sections/solar-power/efficiency-factors/provo.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/efficiency-factors/provo.book-section.ts
+@@ -7,7 +7,7 @@ export const provo = {
+   title: "Provo-Specific Anchor Numbers",
+   description:
+     "Provo-specific anchor numbers — best-case specific yield, sensitivity ranges for roof orientation, and the inputs to plug into PVWatts.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["efficiency-factors"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/efficiency-factors/resource.book-section.ts b/alan/books/my-projects/sections/solar-power/efficiency-factors/resource.book-section.ts
+index 396a6660983d75a7640070d5e459843cd0de3ab2..3153c5202ac661f05ab37963d48a6b85e355fd85 100644
+--- a/alan/books/my-projects/sections/solar-power/efficiency-factors/resource.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/efficiency-factors/resource.book-section.ts
+@@ -7,7 +7,7 @@ export const resource = {
+   title: "Solar Resource at Provo",
+   description:
+     "Solar resource at Provo, UT — annual and monthly GHI/DNI, peak sun hours, altitude bonus. The denominator before any roof factor.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["efficiency-factors"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
 diff --git a/alan/books/my-projects/sections/solar-power/energy-demand.book-section.ts b/alan/books/my-projects/sections/solar-power/energy-demand.book-section.ts
 index 9ff6040d31901ebdc4e40bb64423ccf322ac74f1..b918c29d1c96f8bb3990e5ddd8e69143f3b7c923 100644
 --- a/alan/books/my-projects/sections/solar-power/energy-demand.book-section.ts
