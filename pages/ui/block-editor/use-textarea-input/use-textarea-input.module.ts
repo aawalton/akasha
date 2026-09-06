@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useTextareaInput = {
   id: "01a06252-344a-798e-852f-8b867fe1a378",

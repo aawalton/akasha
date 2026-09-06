@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useBlockCollapse = {
   id: "01a05c7d-d06a-7b77-86c9-2c7e176a7012",

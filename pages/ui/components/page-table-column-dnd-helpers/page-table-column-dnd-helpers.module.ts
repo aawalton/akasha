@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageTableColumnDndHelpers = {
   id: "01a05c3d-a2e6-7d5f-aada-bd2a227ba59f",

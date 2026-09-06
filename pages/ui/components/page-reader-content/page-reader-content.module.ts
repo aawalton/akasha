@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageReaderContent = {
   id: "01a06205-4f3c-700b-a569-c171ba916254",

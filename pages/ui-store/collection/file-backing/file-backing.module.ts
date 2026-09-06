@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fileBacking = {
   id: "01a05b69-4540-715d-a1fb-2ce95dde8cb6",

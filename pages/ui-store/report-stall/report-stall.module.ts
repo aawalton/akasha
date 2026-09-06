@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const reportStall = {
   id: "01a05b69-4559-70af-a7b9-baa8532cd964",

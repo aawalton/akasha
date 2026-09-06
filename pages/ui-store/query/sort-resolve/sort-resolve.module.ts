@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const sortResolve = {
   id: "01a05b69-4550-734f-b117-9948906f14a9",

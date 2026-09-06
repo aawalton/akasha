@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageDetailReferrers = {
   id: "01a06205-4f3c-7004-9b52-282051429cc8",

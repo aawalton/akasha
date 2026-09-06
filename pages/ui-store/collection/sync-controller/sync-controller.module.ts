@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const syncController = {
   id: "01a05b69-4547-747b-9629-3663477b0241",

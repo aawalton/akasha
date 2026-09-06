@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const testRunMarking = {
   id: "01a069c3-b0fd-7947-8715-46fad5843f53",

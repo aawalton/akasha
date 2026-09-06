@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const readerProseBlock = {
   id: "01a061ee-786e-700b-9b84-c070a8b099ef",

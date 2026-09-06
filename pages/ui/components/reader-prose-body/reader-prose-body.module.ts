@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const readerProseBody = {
   id: "01a06205-4f3b-700a-9501-bee91fcfd432",

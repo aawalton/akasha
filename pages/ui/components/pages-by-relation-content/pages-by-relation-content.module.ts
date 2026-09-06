@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pagesByRelationContent = {
   id: "01a06259-518a-7c74-bd4f-519d9f6c1719",

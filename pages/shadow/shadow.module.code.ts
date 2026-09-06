@@ -1,5 +1,5 @@
 import { createHash } from "node:crypto"
-import { textOf } from "@akasha/code-system/body-text"
+import { textOf } from "@akasha/code/body-text"
 import { everyValue, readingIn } from "@akasha/indexes"
 import { type Answering, answeringOver } from "@akasha/indexes/answering"
 import { settlingOver } from "@akasha/indexes/indexing"

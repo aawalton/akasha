@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pagesCollection = {
   id: "01a05b69-4543-700b-b4dc-8cbbeb663941",

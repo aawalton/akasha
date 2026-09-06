@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const aggregatePropertyBadge = {
   id: "01a0620f-82c5-7000-8a1a-5821ea5e911e",

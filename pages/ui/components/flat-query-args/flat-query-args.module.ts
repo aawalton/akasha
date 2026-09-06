@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const flatQueryArgs = {
   id: "01a05c3b-4fc4-7e60-929d-25e876de8431",

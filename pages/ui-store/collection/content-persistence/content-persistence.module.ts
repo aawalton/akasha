@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const contentPersistence = {
   id: "01a05b69-453e-733e-b49f-b2a6010daa7f",

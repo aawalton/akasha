@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageTable = {
   id: "01a06257-46f3-77d1-a828-191dbbd5a2c1",

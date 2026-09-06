@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const viewPipeline = {
   id: "01a05b69-4552-769b-b58a-70a14d2f7cb3",

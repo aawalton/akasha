@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const positionWriteEvent = {
   id: "01a05c3d-a2e5-709a-bf90-f8c567c4cfbe",

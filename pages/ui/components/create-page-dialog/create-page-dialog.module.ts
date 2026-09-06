@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const createPageDialog = {
   id: "01a06257-46f7-78ed-bb4c-fb1127a18588",

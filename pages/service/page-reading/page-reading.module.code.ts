@@ -1,4 +1,4 @@
-import { textOf } from "@akasha/code-system/body-text"
+import { textOf } from "@akasha/code/body-text"
 import { baseOf, changeOf } from "@akasha/command-system/landing"
 import { listedAt } from "@akasha/indexes"
 import { secretNamed, uncommittedNamed } from "@akasha/pages/page-file-name"

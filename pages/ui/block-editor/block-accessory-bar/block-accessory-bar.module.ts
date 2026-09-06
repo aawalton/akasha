@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const blockAccessoryBar = {
   id: "01a061ee-786e-7000-9d49-04de5d6b4867",

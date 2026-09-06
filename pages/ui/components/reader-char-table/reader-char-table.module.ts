@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const readerCharTable = {
   id: "01a05c3d-a2e7-7441-80a9-5e6d74c6fadb",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const storeWriting = {
   id: "01a05aec-eaaa-7be1-9528-6c84a071ce1c",

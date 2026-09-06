@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const whereTesting = {
   id: "01a05bdd-d54c-7989-aac7-52cb42d778c4",

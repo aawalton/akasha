@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageCalendarDndHelpers = {
   id: "01a05c3b-4fc5-7adb-bacc-af547a361223",

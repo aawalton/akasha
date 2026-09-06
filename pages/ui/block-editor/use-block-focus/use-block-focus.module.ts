@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useBlockFocus = {
   id: "01a06205-4f3b-7000-8405-dd8255de93e6",

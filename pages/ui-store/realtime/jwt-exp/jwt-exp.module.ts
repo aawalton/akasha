@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const jwtExp = {
   id: "01a05b69-4554-714f-9eff-377a5483bdac",

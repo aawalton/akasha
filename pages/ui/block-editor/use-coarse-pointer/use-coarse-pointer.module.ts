@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useCoarsePointer = {
   id: "01a05c7d-d06a-7c41-94f9-b9cd44eed247",

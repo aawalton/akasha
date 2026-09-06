@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageQueryShape = {
   id: "01a06876-e5ea-7000-a25d-769b1225404c",

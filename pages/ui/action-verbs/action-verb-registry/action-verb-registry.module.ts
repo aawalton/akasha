@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const actionVerbRegistry = {
   id: "01a05c7d-d06d-7923-aef3-5f5f50c5c334",

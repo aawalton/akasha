@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const multiSelectPropertyBadge = {
   id: "01a0620f-82c5-700b-bf45-b85fcd27055b",

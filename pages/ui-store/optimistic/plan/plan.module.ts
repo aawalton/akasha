@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const plan = {
   id: "01a05b69-454b-7a81-b10c-477bfcbd4896",

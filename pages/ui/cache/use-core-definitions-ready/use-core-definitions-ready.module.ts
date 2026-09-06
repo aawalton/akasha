@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useCoreDefinitionsReady = {
   id: "01a05cba-9cbb-70a5-a12e-4646925980e8",

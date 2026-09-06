@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageSystemViewSettings = {
   id: "01a06205-4f3b-7009-a2b5-865c829bdbb7",

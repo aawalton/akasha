@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const progressPropertyBadge = {
   id: "01a0620f-82c5-700e-8442-3316875e400c",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const navItemActions = {
   id: "01a061ee-786e-7007-b985-51d9bb9dea95",

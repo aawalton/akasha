@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const galleryOptionsPicker = {
   id: "01a0617e-0d2d-700e-9947-042b5fe25493",

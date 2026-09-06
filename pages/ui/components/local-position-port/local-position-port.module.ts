@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const localPositionPort = {
   id: "01a05c40-2193-7945-bf9f-7515d092af9d",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageBoardDndHelpers = {
   id: "01a05c3b-4fc4-752f-bd8a-d661af0f143b",

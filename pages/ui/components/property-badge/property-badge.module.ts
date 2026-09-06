@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const propertyBadge = {
   id: "01a0620f-82c5-700f-bcd7-80f904364925",

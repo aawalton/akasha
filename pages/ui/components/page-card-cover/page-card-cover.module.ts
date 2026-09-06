@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageCardCover = {
   id: "01a0610c-430c-7460-9b5b-091c301b235b",

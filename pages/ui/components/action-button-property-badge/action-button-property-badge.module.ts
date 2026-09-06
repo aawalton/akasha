@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const actionButtonPropertyBadge = {
   id: "01a0620f-82c4-7000-9e32-46738bc068af",

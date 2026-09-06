@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const storePageAsking = {
   id: "01a05aec-eaaa-78d0-9e24-94f935464bf0",

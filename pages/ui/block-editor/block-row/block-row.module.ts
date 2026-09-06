@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const blockRow = {
   id: "01a06252-3449-7964-ad5b-e1d8e3073421",

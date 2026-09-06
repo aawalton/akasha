@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const conditionExpr = {
   id: "01a05b69-454d-7b7a-b33e-c2de2e06ae06",

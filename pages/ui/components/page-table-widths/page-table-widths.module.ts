@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageTableWidths = {
   id: "01a05cce-25ec-76e9-9d53-768bfd67f3c6",

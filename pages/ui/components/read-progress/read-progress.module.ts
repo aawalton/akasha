@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const readProgress = {
   id: "01a05c3d-a2e5-7e5c-86bc-9dabc556a0d6",

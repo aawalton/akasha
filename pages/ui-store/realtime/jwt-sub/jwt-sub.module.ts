@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const jwtSub = {
   id: "01a05b69-4555-7824-9432-7eb9b786def0",

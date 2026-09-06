@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useKeyboardInset = {
   id: "01a05c7d-d06a-7cd0-99c8-305addb0417b",

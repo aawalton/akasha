@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const buildServerGroupedSections = {
   id: "01a061ee-786e-7006-b5d7-4f9801a2e33e",

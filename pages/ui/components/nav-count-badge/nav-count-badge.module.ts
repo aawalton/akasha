@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const navCountBadge = {
   id: "01a06205-4f3c-7003-90ce-ecbd39470bc4",

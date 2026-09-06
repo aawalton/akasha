@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageCardRenderer = {
   id: "01a06257-46e8-7470-a359-c1ab21da09b4",

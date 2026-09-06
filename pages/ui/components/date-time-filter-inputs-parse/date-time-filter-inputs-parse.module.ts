@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const dateTimeFilterInputsParse = {
   id: "01a05c40-2195-7fa0-a55b-3c06fdedfa46",

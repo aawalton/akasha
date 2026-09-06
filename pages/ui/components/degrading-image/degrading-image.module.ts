@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const degradingImage = {
   id: "01a05c40-2192-76a6-9bf0-a3b224e8b06b",

@@ -1,5 +1,5 @@
 import type { Judging } from "@akasha/checks/judging"
-import { formattedBody } from "@akasha/code-system/code-format"
+import { formattedBody } from "@akasha/code/code-format"
 import { type FileEdit, landing } from "@akasha/command-system/landing"
 import { mintingOnto } from "@akasha/command-system/value-minting"
 import { mergeUncommitted } from "@akasha/pages/page-uncommitted"

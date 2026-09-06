@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const regularPipeline = {
   id: "01a05b69-454f-7ac8-bd7a-ce6cef58fd49",

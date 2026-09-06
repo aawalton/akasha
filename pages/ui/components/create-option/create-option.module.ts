@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const createOption = {
   id: "01a06158-0a72-7000-baff-30ddc3385dbf",

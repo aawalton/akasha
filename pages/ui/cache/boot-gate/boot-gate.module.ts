@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const bootGate = {
   id: "01a05c7d-d068-79aa-9ca7-ec600a058f2d",
