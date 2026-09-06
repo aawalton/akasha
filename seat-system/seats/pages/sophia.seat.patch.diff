@@ -1,0 +1,29 @@
+diff --git a/command-system/commands/refactor/landing/refactor-landing.module.code.ts b/command-system/commands/refactor/landing/refactor-landing.module.code.ts
+index 71a1f6926a2d82114ee3e3e165a90f232b429325..d4f5623f5c870923b249a1ac8d650de007ba3ee1 100644
+--- a/command-system/commands/refactor/landing/refactor-landing.module.code.ts
++++ b/command-system/commands/refactor/landing/refactor-landing.module.code.ts
+@@ -7,7 +7,7 @@ import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
+ import type { FileCarry, FileEdit } from "../../../landing/landing.module.code.ts"
+ import { baseOf } from "../../../landing/landing.module.code.ts"
+ import type { Carry } from "../../../reading/reading.module.code.ts"
+-import { blobIdOf, carryReadings } from "../../../reading/reading.module.code.ts"
++import { blobIdOf } from "../../../reading/reading.module.code.ts"
+ import { glassIn, messageIn } from "../../write/write.command.code.ts"
+ 
+ const BYTES = new TextEncoder()
+@@ -81,13 +81,11 @@ export async function respelledLanded(
+     unmoved: [],
+     read: base,
+     carries: moving,
++    readings,
+     saying: () => saying(false),
+     draft: given.agentId !== null,
+   }
+   const landing = await landingAsked({ ...given, root }, asking)
+-  if (!dryRun) {
+-    if (landing.code === 0) carryReadings(root, readings)
+-    return landing
+-  }
++  if (!dryRun) return landing
+   return answering([...saying(true), ...landing.report], landing.refusals, landing.code)
+ }
