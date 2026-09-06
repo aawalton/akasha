@@ -1,0 +1,18 @@
+diff --git a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+index 7ebd6c69a6aef371fde996572826464c40c2224f..98020f5876e5c90ab18f4855e6bea3799f359d4e 100644
+--- a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
++++ b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+@@ -42,8 +42,11 @@ export const monarchAccount = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An account holding no transaction is still an account, a retirement or brokerage balance moving without a row against it.",
++      statement: "An account holding no transaction is still an account.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A retirement or brokerage balance moves without a row against that balance.",
+     },
+     {
+       invariantKind: "departure",
