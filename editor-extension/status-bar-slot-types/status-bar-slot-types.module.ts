@@ -21,7 +21,7 @@ export const statusBarSlotTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "Every slot says where the slot is drawn among the others.",
+      statement: "Every slot says where the slot is drawn among the other slots.",
     },
     {
       invariantKind: "departure",
