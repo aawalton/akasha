@@ -1,3 +1,16 @@
+diff --git a/command-system/asking/asking.module.test.ts b/command-system/asking/asking.module.test.ts
+index ed637c1c53e33a5845a32ff810e3caed5c9a8424..566bec97d3da218a3ca6b15c3381aa91ecfc15e0 100644
+--- a/command-system/asking/asking.module.test.ts
++++ b/command-system/asking/asking.module.test.ts
+@@ -1,7 +1,7 @@
+ import { afterAll, expect, test } from "bun:test"
+ import { existsSync, readFileSync } from "node:fs"
+ import { join } from "node:path"
+-import { listedTakenFrom } from "@akasha/indexes/testing"
++import { listedTakenFrom, valueTakenFrom } from "@akasha/indexes/testing"
+ import { ADMITS_CODE, REFUSES_CODE } from "@akasha/testing-system/minting"
+ import { put } from "@akasha/testing-system/putting"
+ import { patch } from "../commands/patch/patch.command.code.ts"
 diff --git a/pages/indexes/reading/index-reading.module.test-fixtures.ts b/pages/indexes/reading/index-reading.module.test-fixtures.ts
 index 30c55ac8efa8267cea89ae7820f7f7e78de60c42..5f17c1a789592741dd7efe0bdf2d78393ee17c8c 100644
 --- a/pages/indexes/reading/index-reading.module.test-fixtures.ts
