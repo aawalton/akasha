@@ -93,12 +93,12 @@ export const identityStatement = {
     {
       invariantKind: "departure",
       statement:
-        "A statement sits at a rank saying how hard it is to hold and a level saying how far along it is.",
+        "A statement sits at a rank saying how hard the statement is to hold and a level saying the progress.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A superseding statement names the superseded one, and the superseded one names the superseding one.",
+        "A supersession is stated on the superseding statement and on the superseded statement.",
     },
   ],
 } as const satisfies PageType
