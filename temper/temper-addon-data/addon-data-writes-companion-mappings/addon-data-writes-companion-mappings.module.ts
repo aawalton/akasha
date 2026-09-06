@@ -15,7 +15,7 @@ export const addonDataWritesCompanionMappings = {
     },
     {
       invariantKind: "departure",
-      statement: "A section states its writes rather than performing those writes.",
+      statement: "A section states its writes rather than performing a write.",
     },
   ],
 } as const satisfies Module
