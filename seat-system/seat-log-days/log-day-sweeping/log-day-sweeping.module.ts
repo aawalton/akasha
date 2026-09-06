@@ -22,8 +22,7 @@ export const logDaySweeping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page left that way is counted and named, so a sweep answers for the pages that sweep read.",
+      statement: "A page left that way is counted and named.",
     },
     {
       invariantKind: "departure",
@@ -31,11 +30,11 @@ export const logDaySweeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The removal lands mechanically, in process, owing no read record.",
+      statement: "The removal lands mechanically in process and owes no read record.",
     },
     {
       invariantKind: "departure",
-      statement: "The lines beside a page go with a plain remove, after the page has landed.",
+      statement: "The lines beside a page go with a plain remove after that page has landed.",
     },
     {
       invariantKind: "departure",
@@ -43,8 +42,11 @@ export const logDaySweeping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The days go in one call to land in one commit, and where that call refuses each is tried alone.",
+      statement: "The days go in one call to land in one commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day is tried alone where that call refuses.",
     },
     {
       invariantKind: "departure",
@@ -52,8 +54,7 @@ export const logDaySweeping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Nothing is taken away unless the sweep is asked to, because a removal the sweep makes is a commit.",
+      statement: "Nothing is taken away unless the sweep is asked to.",
     },
     {
       invariantKind: "gap",
