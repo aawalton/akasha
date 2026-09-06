@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/read/read.command.test-fixtures.ts b/command-system/commands/read/read.command.test-fixtures.ts
-index 0371d91d164c937dfd35c9a962cd6e50d8e0ff94..cd710577cb4e0590db4fc92c3a1d782e07cf3da3 100644
+index 0371d91d164c937dfd35c9a962cd6e50d8e0ff94..a4d85882a42ad5f567d32eb74f925f9fb9dec1ec 100644
 --- a/command-system/commands/read/read.command.test-fixtures.ts
 +++ b/command-system/commands/read/read.command.test-fixtures.ts
 @@ -1,7 +1,7 @@
@@ -47,3 +47,13 @@ index 0371d91d164c937dfd35c9a962cd6e50d8e0ff94..cd710577cb4e0590db4fc92c3a1d782e
    }
    for (const one of [...REAL, ...also]) {
      const id = mintedId(one.slug)
+@@ -437,6 +453,9 @@ export function rootWarranting(
+     planting(root, at, pageFor(one, id))
+     planting(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code)
+     listedFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
++    valueAlsoFiled(root, CONTEXT_WARRANT, [
++      { path: at, value: { id, pageTypeSlug: CONTEXT_WARRANT, slug: one.slug } },
++    ])
+   }
+   return root
+ }
