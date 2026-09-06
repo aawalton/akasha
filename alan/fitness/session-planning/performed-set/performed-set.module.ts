@@ -13,7 +13,11 @@ export const performedSet = {
     },
     {
       invariantKind: "departure",
-      statement: "A set log states no day, so the day comes from the session the set belongs to.",
+      statement: "A set log states no day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The day comes from the session the set belongs to.",
     },
     {
       invariantKind: "departure",
