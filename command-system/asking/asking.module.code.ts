@@ -6,6 +6,7 @@ import { formattedBody } from "@akasha/code/code-format"
 import { agentPathOf } from "@akasha/context/warranting"
 import { nameFaultIn } from "@akasha/pages/page-export-name"
 import { isMissing } from "@akasha/utils-fs/missing"
+import { mappedFor } from "../address-mapping/address-mapping.module.code.ts"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
 import { runningOf } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
@@ -112,10 +113,11 @@ export function preparing(root: string, base: string, changes: readonly FileEdit
   const formatting = formattingIn(root, changes)
   const locking = lockingFor(root, base, formatting.changes)
   const worked = workedFor(root, formatting.changes)
+  const mapped = mappedFor(root, formatting.changes)
   return {
     formatting,
-    changes: [...formatting.changes, ...locking.edits, ...worked.edits],
-    said: [...locking.said, ...worked.said],
+    changes: [...formatting.changes, ...locking.edits, ...worked.edits, ...mapped.edits],
+    said: [...locking.said, ...worked.said, ...mapped.said],
   }
 }
 
