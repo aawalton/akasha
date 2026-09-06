@@ -22,6 +22,18 @@ index b627048b606e558cc650eb69ae45a2fc9f18c8c1..d4b106f134e45b7610c1b3dce83e7515
 -  resourceKey: "DATABASE_URL",
 +  placements: [{ resourceName: "git-transport-secrets", resourceKey: "DATABASE_URL" }],
  } as const satisfies Secret
+diff --git a/service-system/secrets/pages/git-transport-secrets-git-access-token.secret.ts b/service-system/secrets/pages/git-transport-secrets-git-access-token.secret.ts
+index f62a8f8a9b3bd47f5de3423113393f3c03d6b210..3776944a3d0eea3c759f4163a176d00af82df808 100644
+--- a/service-system/secrets/pages/git-transport-secrets-git-access-token.secret.ts
++++ b/service-system/secrets/pages/git-transport-secrets-git-access-token.secret.ts
+@@ -4,6 +4,5 @@ export const gitTransportSecretsGitAccessToken = {
+   id: "01a06832-cf2d-7c2b-a782-eb5f6fc1dc27",
+   pageTypeSlug: "secret",
+   slug: "git-transport-secrets-git-access-token",
+-  resourceName: "git-transport-secrets",
+-  resourceKey: "GIT_ACCESS_TOKEN",
++  placements: [{ resourceName: "git-transport-secrets", resourceKey: "GIT_ACCESS_TOKEN" }],
+ } as const satisfies Secret
 diff --git a/service-system/secrets/pages/gotrue-secrets-database-url.secret.ts b/service-system/secrets/pages/gotrue-secrets-database-url.secret.ts
 index b32138afbf497c0636910c83da3e4bb6dc98fd04..05fed8c54be1dd9fdcf179937a81ee5363ae0d5f 100644
 --- a/service-system/secrets/pages/gotrue-secrets-database-url.secret.ts
