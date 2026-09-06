@@ -13,7 +13,7 @@ export const transcriptPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A command given no seat and no path asks Alan to pick one.",
+      statement: "A command given no seat and no path asks Alan to pick a seat.",
     },
     {
       invariantKind: "departure",
