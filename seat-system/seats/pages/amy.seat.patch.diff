@@ -11,6 +11,50 @@ index 4cd6135318f150327c41af8cdc1404418cff35ab..f56772ce27aa5b8ca71b54cb659e5fbc
    title: string | null
    icon: string | null
    attributes: unknown
+diff --git a/pages/ui-store/collection/fetch-attach/fetch-attach.module.test.ts b/pages/ui-store/collection/fetch-attach/fetch-attach.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8227dded98305391caeaef3ba70e211a898a8ebb
+--- /dev/null
++++ b/pages/ui-store/collection/fetch-attach/fetch-attach.module.test.ts
+@@ -0,0 +1,38 @@
++import { expect, test } from "bun:test"
++import { readAnswerRows } from "./fetch-attach.module.code.ts"
++
++const ONE = {
++  id: "01a06577-2613-700d-a041-62a4896e80cc",
++  page_type_id: "01a0680e-5e00-7007-a253-4c7d9b1a5108",
++  seq: null,
++  title: "Home",
++  icon: "home",
++  attributes: { navPlace: 0, appSlug: "alanwalton" },
++  page_type_slug: "nav",
++  unique_key: null,
++  status: null,
++  completed_at: null,
++  slug: "home",
++  favorited_at: null,
++  last_viewed_at: null,
++}
++
++test("a page carrying no sequence number is read rather than thrown away", () => {
++  const rows = readAnswerRows({ rows: [ONE] })
++  expect(rows?.length).toBe(1)
++  expect(rows?.[0]?.seq).toBe(null)
++  expect(rows?.[0]?.slug).toBe("home")
++})
++
++test("a sequence number written as text is read as a number", () => {
++  const rows = readAnswerRows({ rows: [{ ...ONE, seq: "12" }] })
++  expect(rows?.[0]?.seq).toBe(12)
++})
++
++test("a sequence number that is neither is refused", () => {
++  expect(readAnswerRows({ rows: [{ ...ONE, seq: "not a number" }] })).toBe(null)
++})
++
++test("an answer holding one row this reader cannot read carries none of them", () => {
++  expect(readAnswerRows({ rows: [ONE, { ...ONE, id: "not a uuid" }] })).toBe(null)
++})
 diff --git a/pages/ui-store/realtime/payload-translator/payload-translator.module.code.ts b/pages/ui-store/realtime/payload-translator/payload-translator.module.code.ts
 index 38a20193bcd144fd0225109c114945f991865db0..1959c8f9abbd8c809d0e3b31e99edb89b5cafdaa 100644
 --- a/pages/ui-store/realtime/payload-translator/payload-translator.module.code.ts
