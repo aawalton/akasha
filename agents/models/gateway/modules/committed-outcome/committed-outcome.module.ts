@@ -74,7 +74,7 @@ export const committedOutcome = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here sees more of a response than its status.",
+      statement: "Nothing here sees a response beyond its status.",
     },
   ],
 } as const satisfies Module
