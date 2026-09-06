@@ -1,0 +1,13 @@
+diff --git a/command-system/commands/read/read.command.ts b/command-system/commands/read/read.command.ts
+index 7efc3985cd6678c43e51e3694ff8b0be34acdc2d..76c7604eba2a528f1ce237f4bc91868b55dddb87 100644
+--- a/command-system/commands/read/read.command.ts
++++ b/command-system/commands/read/read.command.ts
+@@ -50,7 +50,7 @@ export const read = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The difference is worked out against the body the record names and against no other.",
++        "The difference is worked out against the body the record names and against no other body.",
+     },
+     {
+       invariantKind: "departure",
