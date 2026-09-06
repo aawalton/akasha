@@ -1,3 +1,202 @@
+diff --git a/alan/web/.server/widget-tap-answering/widget-tap-answering.module.code.ts b/alan/web/.server/widget-tap-answering/widget-tap-answering.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1936802bb1257e5f8fd2a1317247e591f6cc7be4
+--- /dev/null
++++ b/alan/web/.server/widget-tap-answering/widget-tap-answering.module.code.ts
+@@ -0,0 +1,66 @@
++import { countTap, type Tapped } from "@akasha/readout-system/widget-tap-counting"
++import { capacitorCorsHeaders, withCors } from "../../capacitor-cors/capacitor-cors.module.code.ts"
++import {
++  type DeviceTokenContext,
++  resolveDeviceTokenContext,
++} from "../device-token-context/device-token-context.module.code.ts"
++
++const CORS_METHODS = "POST, OPTIONS"
++
++export type TokenResolver = (request: Request) => Promise<DeviceTokenContext>
++
++export type TapCounter = (slug: string, at: Date) => Promise<Tapped | null>
++
++function widgetIn(body: unknown): string | null {
++  if (typeof body !== "object" || body === null) return null
++  const widget = (body as { widget?: unknown }).widget
++  return typeof widget === "string" && widget !== "" ? widget : null
++}
++
++export function answerWidgetTapAsked(request: Request): Response {
++  const cors = capacitorCorsHeaders(request, CORS_METHODS)
++  if (request.method === "OPTIONS") return new Response(null, { status: 204, headers: cors })
++  return Response.json({ ok: false, error: "A tap is carried in." }, { status: 405, headers: cors })
++}
++
++/**
++ * A tap counted on the widget the body names.
++ *
++ * THE PHONE HOLDS NO RELAY SECRET, so the guard the relay route presents cannot admit a tap. A tap
++ * arrives out of the web view under the account's own bearer token, which is what the push
++ * registration route beside this one is already shaped for.
++ */
++export async function answerWidgetTap(
++  request: Request,
++  resolveContext: TokenResolver = resolveDeviceTokenContext,
++  count: TapCounter = countTap
++): Promise<Response> {
++  const cors = capacitorCorsHeaders(request, CORS_METHODS)
++  const ctx = await resolveContext(request)
++  if (!ctx.authenticated) {
++    return Response.json(
++      { ok: false, error: "Not authenticated." },
++      { status: 401, headers: withCors(ctx.headers, cors) }
++    )
++  }
++
++  const widget = widgetIn(await request.json().catch(() => null))
++  if (widget === null) {
++    return Response.json(
++      { ok: false, error: "No widget." },
++      { status: 400, headers: withCors(ctx.headers, cors) }
++    )
++  }
++
++  const tapped = await count(widget, new Date())
++  if (tapped === null) {
++    return Response.json(
++      { ok: false, error: "No such widget." },
++      { status: 404, headers: withCors(ctx.headers, cors) }
++    )
++  }
++  return Response.json(
++    { ok: true, widget, taps: tapped.taps, at: tapped.at },
++    { headers: withCors(ctx.headers, cors) }
++  )
++}
+diff --git a/alan/web/.server/widget-tap-answering/widget-tap-answering.module.test.ts b/alan/web/.server/widget-tap-answering/widget-tap-answering.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..501b0bf769918c1374e7561c9176510c858f1622
+--- /dev/null
++++ b/alan/web/.server/widget-tap-answering/widget-tap-answering.module.test.ts
+@@ -0,0 +1,71 @@
++import { expect, test } from "bun:test"
++import { answerWidgetTap } from "./widget-tap-answering.module.code.ts"
++
++const CAPACITOR = "capacitor://localhost"
++
++const AT = "2026-09-06T12:00:00.000Z"
++
++const signedIn = async () => ({
++  authenticated: true as const,
++  userId: "alan",
++  headers: new Headers(),
++})
++
++const signedOut = async () => ({ authenticated: false as const, headers: new Headers() })
++
++const counted = async () => ({ taps: 4, at: AT })
++
++const uncounted = async () => null
++
++function asked(body: unknown): Request {
++  return new Request("https://alanwalton.com/api/widget-tap", {
++    method: "POST",
++    headers: { "Content-Type": "application/json", Origin: CAPACITOR },
++    body: JSON.stringify(body),
++  })
++}
++
++test("a caller who is not signed in is refused", async () => {
++  const answered = await answerWidgetTap(
++    asked({ widget: "alanwalton-surplus" }),
++    signedOut,
++    counted
++  )
++  expect(answered.status).toBe(401)
++})
++
++test("a body naming no widget is refused", async () => {
++  expect((await answerWidgetTap(asked({}), signedIn, counted)).status).toBe(400)
++  expect((await answerWidgetTap(asked({ widget: "" }), signedIn, counted)).status).toBe(400)
++  expect((await answerWidgetTap(asked({ widget: 7 }), signedIn, counted)).status).toBe(400)
++})
++
++test("a slug no widget page carries is answered as no widget", async () => {
++  const answered = await answerWidgetTap(asked({ widget: "no-such-widget" }), signedIn, uncounted)
++  expect(answered.status).toBe(404)
++})
++
++test("a tap is counted on the widget the body names", async () => {
++  const asks: string[] = []
++  const answered = await answerWidgetTap(
++    asked({ widget: "alanwalton-surplus" }),
++    signedIn,
++    async (slug) => {
++      asks.push(slug)
++      return { taps: 4, at: AT }
++    }
++  )
++  expect(answered.status).toBe(200)
++  expect(asks).toEqual(["alanwalton-surplus"])
++  expect(await answered.json()).toEqual({
++    ok: true,
++    widget: "alanwalton-surplus",
++    taps: 4,
++    at: AT,
++  })
++})
++
++test("an answer to the native shell carries the cross-origin headers that shell needs", async () => {
++  const answered = await answerWidgetTap(asked({ widget: "alanwalton-surplus" }), signedIn, counted)
++  expect(answered.headers.get("Access-Control-Allow-Origin")).toBe(CAPACITOR)
++})
+diff --git a/alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts b/alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bd0b26cf24a74cad76f4396e43ea014dd56de587
+--- /dev/null
++++ b/alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts
+@@ -0,0 +1,44 @@
++import type { Module } from "@akasha/code/module"
++
++export const widgetTapAnswering = {
++  id: "01a078aa-cea1-71ff-8aa2-0b3766623b39",
++  pageTypeSlug: "module",
++  slug: "widget-tap-answering",
++  definition: "what a route answers when the app says a widget was tapped",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A tap is admitted on the account the caller is signed in as.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A caller who is not signed in is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body naming no widget is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A slug no widget page carries is answered as no widget rather than as a tap.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The answer carries the count the tap left.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An answer to the native shell carries the cross-origin headers that shell needs.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a link.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reaches the page store.",
++    },
++  ],
++} as const satisfies Module
 diff --git a/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx b/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx
 index 22646802c58c7e44808a76f73cc6bf797bf90f34..48c8e98fceda7ef2a968529b710fe40bfcd3567b 100644
 --- a/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx
@@ -79,6 +278,41 @@ index 960a8269ae4b46af1fd89aec8975e84e6b744ad0..52a7b0e425f211b1f1f8e2ca0cebfa71
 +    },
 +  ],
  } as const satisfies Module
+diff --git a/alan/web/routes/widget-tap/widget-tap.route.code.ts b/alan/web/routes/widget-tap/widget-tap.route.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..64791a803595c0e6d2f9132c6e5b2771e13bf488
+--- /dev/null
++++ b/alan/web/routes/widget-tap/widget-tap.route.code.ts
+@@ -0,0 +1,13 @@
++import {
++  answerWidgetTap,
++  answerWidgetTapAsked,
++} from "../../.server/widget-tap-answering/widget-tap-answering.module.code.ts"
++import type { Route } from "./+types/widget-tap.route.code"
++
++export function loader({ request }: Route.LoaderArgs): Response {
++  return answerWidgetTapAsked(request)
++}
++
++export function action({ request }: Route.ActionArgs): Promise<Response> {
++  return answerWidgetTap(request)
++}
+diff --git a/alan/web/routes/widget-tap/widget-tap.route.ts b/alan/web/routes/widget-tap/widget-tap.route.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f18280c061cf78310fffc3509e4e79029a1b8432
+--- /dev/null
++++ b/alan/web/routes/widget-tap/widget-tap.route.ts
+@@ -0,0 +1,10 @@
++import type { Route } from "@akasha/code/route"
++
++export const widgetTap = {
++  id: "01a078aa-cea2-7140-b891-15301912614a",
++  pageTypeSlug: "route",
++  slug: "widget-tap",
++  definition: "a tap on one of Alan's widgets, counted on the widget the tap opened",
++  code: "ts",
++  urlPath: "api/widget-tap",
++} as const satisfies Route
 diff --git a/readout-system/package.json b/readout-system/package.json
 index 2d0b359c96217bbae3b5f7331c176701d786c2ad..279ebd5974686ce1e5a1810029fd990da764d5f2 100644
 --- a/readout-system/package.json
