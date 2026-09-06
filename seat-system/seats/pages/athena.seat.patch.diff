@@ -28,3 +28,28 @@ index 946e5564d799335ce55b0fcd501ac26ebc170f17..f51843f23de43fb013a1ac374d6497e4
    })
  
    test("takes no force flag, because it stops nothing", () => {
+diff --git a/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.test.ts b/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.test.ts
+index 6d735f32019813732706b759374322ba1252e045..0ad3b9444543827332f9ff3312dd436b5757ea71 100644
+--- a/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.test.ts
++++ b/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.test.ts
+@@ -18,6 +18,11 @@ function markOf(pid: number, startedAt: string, seat: string): SeatMark {
+   return { pid, startedAt, seat }
+ }
+ 
++async function parses(text: string): Promise<number> {
++  const ran = Bun.spawn({ cmd: ["bash", "-n"], stdin: new TextEncoder().encode(text) })
++  return await ran.exited
++}
++
+ describe("a mark a shell left", () => {
+   it("names the seat that shell attached to", () => {
+     const found = seatByShellPid([markOf(40, "9931", "amy")], SEATS, startedIn({ 40: "9931" }))
+@@ -80,4 +85,8 @@ describe("the shell that attaches", () => {
+     expect(said).toContain("local _rc=$?")
+     expect(said).toContain("return $_rc")
+   })
++
++  it("parses", async () => {
++    expect(await parses(seatAttachFnLines().join("\n"))).toBe(0)
++  })
+ })
