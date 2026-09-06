@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/history/monarch-history.module.ts b/alan/harness/monarch/history/monarch-history.module.ts
-index 594f4d26a9c365d8b68d291b927575bda382cc31..06b0022b952c8a844eebe59e928ba4ca46bde070 100644
+index 594f4d26a9c365d8b68d291b927575bda382cc31..37855eb33c30447c0dec3dad295e58767a63c892 100644
 --- a/alan/harness/monarch/history/monarch-history.module.ts
 +++ b/alan/harness/monarch/history/monarch-history.module.ts
 @@ -10,7 +10,12 @@ export const monarchHistory = {
@@ -16,16 +16,26 @@ index 594f4d26a9c365d8b68d291b927575bda382cc31..06b0022b952c8a844eebe59e928ba4ca
      },
      {
        invariantKind: "departure",
-@@ -30,7 +35,11 @@ export const monarchHistory = {
+@@ -30,12 +35,19 @@ export const monarchHistory = {
      },
      {
        invariantKind: "departure",
 -      statement: "A row a rule settles is not left unsettled, and a row no rule settles is.",
 +      statement: "A row a rule settles is not left unsettled.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A row no rule settles is left unsettled.",
      },
      {
        invariantKind: "departure",
+-      statement:
+-        "A missing field reads as empty rather than as absent, so every row has the same shape.",
++      statement: "A row no rule settles is left unsettled.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A missing field reads as empty rather than as absent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every row has the same shape.",
+     },
+     {
+       invariantKind: "absence",
