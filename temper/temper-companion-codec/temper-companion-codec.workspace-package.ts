@@ -20,7 +20,7 @@ export const temperCompanionCodec = {
     },
     {
       invariantKind: "departure",
-      statement: "Every past update stays readable and only the newest one is written.",
+      statement: "Every past update stays readable and only the newest update is written.",
     },
     {
       invariantKind: "departure",
