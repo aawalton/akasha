@@ -14,3 +14,22 @@ index 23d00bc1c85f1645c599a97310ea448466eab113..2c63d1bd3d194852814c44c4bdf4a08d
  export const CAPPED_CEILING_MS = 10_000
  
  const OUTPUT_CEILING = 256 * 1024 * 1024
+diff --git a/git/git-pushing/git-pushing.module.code.ts b/git/git-pushing/git-pushing.module.code.ts
+index fdcaf7515ca2bbebd11605d44c631b80463060a6..a9a98c677d78725c986d5a5c89abe7042be65353 100644
+--- a/git/git-pushing/git-pushing.module.code.ts
++++ b/git/git-pushing/git-pushing.module.code.ts
+@@ -1,4 +1,4 @@
+-import { git, NETWORK_CEILING_MS } from "../git-capping/git-capping.module.code.ts"
++import { git, PUSH_CEILING_MS } from "../git-capping/git-capping.module.code.ts"
+ 
+ export interface PushOutcome {
+   readonly failed: boolean
+@@ -20,7 +20,7 @@ export function remoteOf(root: string): string | null {
+   return first === "" ? null : first
+ }
+ 
+-export function pushBranch(root: string, ceilingMs: number = NETWORK_CEILING_MS): PushOutcome {
++export function pushBranch(root: string, ceilingMs: number = PUSH_CEILING_MS): PushOutcome {
+   const remote = remoteOf(root)
+   if (remote === null) {
+     return {
