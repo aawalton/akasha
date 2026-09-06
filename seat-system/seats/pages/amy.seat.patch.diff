@@ -10,3 +10,15 @@ index 01b91c8ec5e79f90ff253073ad938184663c386a..3fa0f9ece2f5324adaf7eb2dddffc89e
    viewPlace: 1,
    layout: "list",
    narrows: [{ key: "source", comparison: "is", values: ["royal-road"] }],
+diff --git a/pages/views/pages/stories-the-wandering-inn.view.ts b/pages/views/pages/stories-the-wandering-inn.view.ts
+index 2d0607969007de3db416b5016df8ef21bc7986c0..19d6dd97e20e04077d18bed218db8b5302273828 100644
+--- a/pages/views/pages/stories-the-wandering-inn.view.ts
++++ b/pages/views/pages/stories-the-wandering-inn.view.ts
+@@ -6,6 +6,7 @@ export const storiesTheWanderingInn = {
+   slug: "stories-the-wandering-inn",
+   title: "The Wandering Inn",
+   navSlug: "stories",
++  pageType: "story-chapter-read",
+   viewPlace: 0,
+   layout: "list",
+   narrows: [
