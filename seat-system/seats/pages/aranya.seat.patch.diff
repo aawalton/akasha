@@ -1,0 +1,24 @@
+diff --git a/editor-extension/subagent-core/subagent-core.module.code.ts b/editor-extension/subagent-core/subagent-core.module.code.ts
+index bd4fb7f4bb5fbd5b135539a4a1603213fecf6863..25f8c8162bf9d3c8f56e4677f2082f731275637d 100644
+--- a/editor-extension/subagent-core/subagent-core.module.code.ts
++++ b/editor-extension/subagent-core/subagent-core.module.code.ts
+@@ -210,3 +210,19 @@ export function runningSubagents(state: SubagentState): readonly RunningSubagent
+   }
+   return out.sort((a, b) => a.label.localeCompare(b.label) || a.key.localeCompare(b.key))
+ }
++
++// AN ID ANSWERED HERE WAS SEEN LAUNCHED AND THEN SEEN TO STOP. An agent id
++// enters `agentByTool` from a launch receipt and from nowhere else, so a fold
++// that missed the launch has no id to answer with, and a fold that missed the
++// stop leaves the id running. Either miss costs an id rather than inventing
++// one, which is what lets a caller read this as evidence that a subagent is
++// done rather than as a guess that one is.
++export function endedSubagents(state: SubagentState): readonly string[] {
++  const out: string[] = []
++  for (const [agentId, toolUseId] of state.agentByTool) {
++    if (state.running.get(toolUseId) === false) {
++      out.push(agentId)
++    }
++  }
++  return out.sort()
++}
