@@ -17,6 +17,7 @@ import type { LockedPageType } from "./properties/locked-page-type.boolean-prope
 import type { NavSlug } from "./properties/nav-slug.relation-property.ts"
 import type { PageSize } from "./properties/page-size.number-property.ts"
 import type { ReorderCommand } from "./properties/reorder-command.text-property.ts"
+import type { ViewPageType } from "./properties/view-page-type.relation-property.ts"
 import type { ViewPlace } from "./properties/view-place.number-property.ts"
 import type { ViewPredicate } from "./properties/view-predicate.text-property.ts"
 import type { ViewSorts } from "./properties/view-sorts.record-property.ts"
@@ -25,6 +26,7 @@ import type { VisibleProperties } from "./properties/visible-properties.text-pro
 export type View = Page & {
   title: Title
   navSlug: NavSlug
+  pageType?: ViewPageType
   viewPredicate?: ViewPredicate
   viewPlace?: ViewPlace
   layout?: Layout
@@ -64,6 +66,7 @@ export const view = {
     "record-property/group-sorts",
     "record-property/view-sorts",
     "relation-property/nav-slug",
+    "relation-property/view-page-type",
     "select-property/gallery-card-size",
     "select-property/group-granularity",
     "select-property/layout",
@@ -79,6 +82,7 @@ export const view = {
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/nav-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/view-page-type", required: false, many: false },
     { pagePropertySlug: "text-property/view-predicate", required: false, many: false },
     { pagePropertySlug: "number-property/view-place", required: false, many: false },
     { pagePropertySlug: "select-property/layout", required: false, many: false },
@@ -117,7 +121,7 @@ export const view = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A view names by slug the page type the view draws.",
+      statement: "A view naming no predicate names by slug the page type the view lists.",
     },
     {
       invariantKind: "departure",

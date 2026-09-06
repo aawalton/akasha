@@ -51,7 +51,7 @@ export function useAppNavItems({
   // app's id, and a question naming a key the page type does not declare is refused rather than
   // answered empty, so narrowing by an id would leave the whole navigation unread.
   const navWhere = useMemo<PageWhere>(
-    () => [{ key: "appSlug", eq: appSlug != null && appSlug !== "" ? appSlug : appId }],
+    () => [{ key: "appSlug", eq: appSlug != null && appSlug !== "" ? appSlug : "" }],
     [appId, appSlug]
   )
   const { rows: liveRows, isLoading } = usePages({

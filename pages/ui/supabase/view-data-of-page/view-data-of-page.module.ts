@@ -6,4 +6,5 @@ export const viewDataOfPage = {
   slug: "view-data-of-page",
   definition: "the view a page describes, read from the page or from the file it names",
   code: "ts",
+  test: "ts",
 } as const satisfies Module
