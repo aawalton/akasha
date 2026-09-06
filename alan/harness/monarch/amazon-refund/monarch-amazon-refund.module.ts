@@ -10,12 +10,12 @@ export const monarchAmazonRefund = {
     {
       invariantKind: "departure",
       statement:
-        "A refund names the order that refund is against, the total, and the item that refund is for.",
+        "A refund names the order that refund is against and the total and the item that refund is for.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A mail missing the order number, the total or the returned item is no refund and is passed over.",
+        "A mail missing the order number or the total or the returned item is no refund and is passed over.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const monarchAmazonRefund = {
     {
       invariantKind: "departure",
       statement:
-        "A stated reason for return is kept where Amazon wrote one and is null where Amazon did not.",
+        "A stated reason for return is kept where Amazon wrote a reason and is null where Amazon did not.",
     },
     {
       invariantKind: "departure",
