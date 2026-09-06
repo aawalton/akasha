@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/alan/library/watching/watching.domain.ts b/alan/library/watching/watching.domain.ts
+index d83e16e6407f3e1c2b759c741744d0a6d448428c..d4a7464ecd808b848fb1f9bd07c47b85909f76db 100644
+--- a/alan/library/watching/watching.domain.ts
++++ b/alan/library/watching/watching.domain.ts
+@@ -47,8 +47,7 @@ export const watching = {
+     },
+     {
+       invariantKind: "gap",
+-      statement:
+-        "Nothing here records that Alan watched any of the shows and films this domain holds.",
++      statement: "Nothing here records that Alan watched a show or a film this domain holds.",
+     },
+   ],
+ } as const satisfies Domain
