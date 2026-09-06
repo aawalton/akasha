@@ -14,12 +14,15 @@ export const trainingDigest = {
     },
     {
       invariantKind: "departure",
-      statement: "A focus named by the caller overrides the one the rotation schedules.",
+      statement: "A focus named by the caller overrides the focus the rotation schedules.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A day the rotation rests names no focus, and a digest of no focus holds no movement.",
+      statement: "A day the rotation rests names no focus.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A digest of no focus holds no movement.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +32,7 @@ export const trainingDigest = {
     {
       invariantKind: "departure",
       statement:
-        "The kit, the mobility and the constraints are read whether a focus is settled or not.",
+        "The kit and the mobility and the constraints are read whether a focus is settled or not.",
     },
     {
       invariantKind: "departure",
