@@ -956,3 +956,14 @@ index 8eeda56e59b26f5a6b3bebc9689c99fb9bb68ad1..00000000000000000000000000000000
 -    },
 -  ],
 -} as const satisfies Module
+diff --git a/seat-system/seat-initiative/seat-initiative.module.code.ts b/seat-system/seat-initiative/seat-initiative.module.code.ts
+index 6139e26b02d5dc4e5699310f5e0a4646f96776d9..4d5a25fd112e120f010f0d410e5c8fe58a7aec22 100644
+--- a/seat-system/seat-initiative/seat-initiative.module.code.ts
++++ b/seat-system/seat-initiative/seat-initiative.module.code.ts
+@@ -1,5 +1,5 @@
+ import { existsSync } from "node:fs"
+-import { initiativesDrawn } from "@akasha/editor-extension/work-initiatives"
++import { initiativesDrawn } from "@akasha/domains/work-initiatives"
+ import { AKASHA } from "@akasha/pages/checkout-roots"
+ import { addressIn } from "@akasha/pages/page-address"
+ import { pageTextOf } from "../seat-page-values/seat-page-values.module.code.ts"
