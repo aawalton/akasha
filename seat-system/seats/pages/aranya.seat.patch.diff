@@ -57,7 +57,7 @@ index 72c2f8dc7ed85e7c912a5651b9e781a607b199d8..dd45d669293484a93da133bd259f809e
  }
  
 diff --git a/seat-system/subagents/presence/subagent-presence.module.test.ts b/seat-system/subagents/presence/subagent-presence.module.test.ts
-index e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac..06a48a52716c8c933942de0619c066dc8fa8a89c 100644
+index e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac..f11095dd57918bd27fa1876fe4db91963881e71e 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.test.ts
 +++ b/seat-system/subagents/presence/subagent-presence.module.test.ts
 @@ -12,13 +12,18 @@ import {
@@ -79,6 +79,82 @@ index e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac..06a48a52716c8c933942de0619c066dc
    wrote,
  } from "./subagent-presence.module.code.ts"
  import {
+@@ -385,3 +390,75 @@ test("a write that landed leaves no reason in the log", async () => {
+     world.sweep()
+   }
+ }, 40000)
++
++const GOING: Went = { went: true }
++
++const LOCKED: Went = {
++  why: "another landing has held `.git/akasha-landing.lock` for longer than 120s",
++}
++
++const REFUSED: Went = { why: "no assignment is stated for the akasha seat" }
++
++test("a refusal naming a held lock is worth asking again and every other refusal is not", () => {
++  expect(worthAnotherTry("why" in LOCKED ? LOCKED.why : "")).toBe(true)
++  expect(worthAnotherTry("why" in REFUSED ? REFUSED.why : "")).toBe(false)
++})
++
++test("a landing refused for a held lock is asked for again until that landing goes", async () => {
++  let asked = 0
++  const waits: number[] = []
++  const went = await landingAgain(
++    () => {
++      asked += 1
++      return Promise.resolve(asked < 3 ? LOCKED : GOING)
++    },
++    (ms) => {
++      waits.push(ms)
++      return Promise.resolve()
++    }
++  )
++  expect(went).toEqual(GOING)
++  expect(asked).toBe(3)
++  expect(waits).toEqual([WAIT_MS, WAIT_MS])
++})
++
++test("a landing refused for a held lock every time is asked for five times and no more", async () => {
++  let asked = 0
++  const went = await landingAgain(
++    () => {
++      asked += 1
++      return Promise.resolve(LOCKED)
++    },
++    () => Promise.resolve()
++  )
++  expect(asked).toBe(TRIES)
++  expect(went).toEqual(LOCKED)
++})
++
++test("a refusal naming no held lock is answered at once and waits for nothing", async () => {
++  let asked = 0
++  let waited = 0
++  const went = await landingAgain(
++    () => {
++      asked += 1
++      return Promise.resolve(REFUSED)
++    },
++    () => {
++      waited += 1
++      return Promise.resolve()
++    }
++  )
++  expect(asked).toBe(1)
++  expect(waited).toBe(0)
++  expect(went).toEqual(REFUSED)
++})
++
++test("a landing that goes at once is asked for once", async () => {
++  let asked = 0
++  const went = await landingAgain(() => {
++    asked += 1
++    return Promise.resolve(GOING)
++  })
++  expect(asked).toBe(1)
++  expect(went).toEqual(GOING)
++})
 diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
 index 71b1c9cff57cffa813d5b45643073156c9a76e96..15d8960e564e93509f0026bcf075190045950118 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.ts
