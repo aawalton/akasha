@@ -113,3 +113,22 @@ index 4396f44e07a24d352f5adb0de01869df1a6cf128..81b59ea81894a7a863b80217070c817f
  })
  
  describe("flagValue", () => {
+diff --git a/service-system/secrets/secret-saying/secret-saying.module.ts b/service-system/secrets/secret-saying/secret-saying.module.ts
+index 8d8355b384b89d564da7fc52cad55d7b9253c535..fa87d69301ec5561f37c008e6f8fcff265e13c17 100644
+--- a/service-system/secrets/secret-saying/secret-saying.module.ts
++++ b/service-system/secrets/secret-saying/secret-saying.module.ts
+@@ -24,6 +24,14 @@ export const secretSaying = {
+       invariantKind: "departure",
+       statement: "A resource no page places a value in is refused rather than said empty.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A resource's type is said as given, and as Opaque where none is given.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "The type a Secret is on the cluster cannot be changed once that Secret is there.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Two pages placing a value in one resource at one key are refused here too.",
