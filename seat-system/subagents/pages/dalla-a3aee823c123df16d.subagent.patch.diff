@@ -88,6 +88,37 @@ index 6c3a12d0c996e5c3985d6e31adeaa2799c6b9e5c..148cc466ce43e58cb7b33ba1280b2ef3
    if (!typed(given.at)) return refusing(`\`${given.at}\` names no TypeScript body`)
    const text = world.textOf(given.at)
    if (text === null) return refusing(`\`${given.at}\` could not be read`)
+diff --git a/changes/pages/rename-export/rename-export.change.code.ts b/changes/pages/rename-export/rename-export.change.code.ts
+index de575d1b25b0816e4e16eb78cddc348f63426ae1..8bd92a32814d48cc5ac66ce64a01fc09685ce5e4 100644
+--- a/changes/pages/rename-export/rename-export.change.code.ts
++++ b/changes/pages/rename-export/rename-export.change.code.ts
+@@ -9,7 +9,7 @@ const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+ 
+ const BESIDE = [".code.ts", ".code.tsx", ".test.ts", ".test.tsx", ".test-fixtures.ts"]
+ 
+-export type Asked = {
++export type RenameExportAsked = {
+   readonly at: string
+   readonly of: string
+   readonly to: string
+@@ -19,7 +19,7 @@ function besideAPage(at: string): boolean {
+   return BESIDE.some((one) => at.endsWith(one))
+ }
+ 
+-function whyNot(given: Asked): string | null {
++function whyNot(given: RenameExportAsked): string | null {
+   if (!typed(given.at)) return `\`${given.at}\` names no TypeScript body`
+   if (!besideAPage(given.at)) return `\`${given.at}\` is a page, and a page's export is its slug`
+   if (!NAMED.test(given.of)) return `\`${given.of}\` is no name a body carries`
+@@ -28,7 +28,7 @@ function whyNot(given: Asked): string | null {
+   return null
+ }
+ 
+-export function renameExport(world: World, given: Asked): Answer {
++export function renameExport(world: World, given: RenameExportAsked): Answer {
+   const why = whyNot(given)
+   if (why !== null) return refusing(why)
+   const reading = importingOf(world.index, new Map([[given.at, given.at]]))
 diff --git a/changes/pages/rename-path/rename-path.change.code.ts b/changes/pages/rename-path/rename-path.change.code.ts
 index 86629daee04b8e941c0dfed7db8fd946c11e1721..b272b91ac038a400af51cfbcf83385f8846648e6 100644
 --- a/changes/pages/rename-path/rename-path.change.code.ts
