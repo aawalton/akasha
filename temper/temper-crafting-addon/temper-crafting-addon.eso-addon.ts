@@ -206,7 +206,7 @@ export const temperCraftingAddon = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One add-on holds the crafting stations rather than one add-on for each station.",
+      statement: "One add-on holds the crafting stations rather than an add-on for each station.",
     },
     {
       invariantKind: "departure",
