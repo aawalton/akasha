@@ -7,7 +7,7 @@ import {
 } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
 
-function keyOf(held: ts.PropertyAssignment): string | null {
+export function keyOf(held: ts.PropertyAssignment): string | null {
   const name = held.name
   return ts.isIdentifier(name) || ts.isStringLiteral(name) ? name.text : null
 }
@@ -27,16 +27,21 @@ function textsOf(held: ts.ObjectLiteralExpression): ReadonlyMap<string, ts.Strin
   return found
 }
 
-export function statedIn(source: ts.SourceFile): ReadonlyMap<string, ts.StringLiteral> {
+export function literalIn(source: ts.SourceFile): ts.ObjectLiteralExpression | null {
   for (const statement of source.statements) {
     if (!ts.isVariableStatement(statement) || !exported(statement)) continue
     for (const one of statement.declarationList.declarations) {
       if (one.initializer === undefined) continue
       const held = literalOf(one.initializer)
-      if (held !== null) return textsOf(held)
+      if (held !== null) return held
     }
   }
-  return new Map()
+  return null
+}
+
+export function statedIn(source: ts.SourceFile): ReadonlyMap<string, ts.StringLiteral> {
+  const held = literalIn(source)
+  return held === null ? new Map() : textsOf(held)
 }
 
 export function restated(path: string, text: string, key: string, to: string): Answer {
