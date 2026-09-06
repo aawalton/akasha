@@ -14,17 +14,20 @@ export const monarchSeat = {
     {
       invariantKind: "departure",
       statement:
-        "The commands the seat ran and was refused are both reported, not only the answer that seat gave.",
+        "The commands the seat ran and was refused are reported beside the answer that seat gave.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A refusal is read from the last event carrying one rather than from the exit code.",
+        "A refusal is read from the last event carrying a refusal rather than from the exit code.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The routing this process inherited is dropped, so the seat reaches the model service directly.",
+      statement: "The routing this process inherited is dropped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seat reaches the model service directly.",
     },
     {
       invariantKind: "departure",
