@@ -2568,6 +2568,21 @@ index 154418076c30c01ef2955feee5a0c534295649b2..e6b8b6999a4c0568aa8bbb181c196383
        if (why !== null) said.push(why)
        const twice = twiceIn(stated, `${slug} ${field}`)
        if (twice !== null) said.push(twice)
+diff --git a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test-fixtures.ts b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test-fixtures.ts
+index 1abed86d91060e67ace77655fe45b40b0a3c4e97..dc319c775c108ae73762f7ff600784bc5a3ed106 100644
+--- a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test-fixtures.ts
++++ b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test-fixtures.ts
+@@ -26,8 +26,8 @@ const ANSWER: Carried = {
+   declaredBy: "cases",
+   required: true,
+   many: false,
+-  max: null,
+-  total: null,
++  maxCount: null,
++  maxLength: null,
+   uncommitted: false,
+   secret: false,
+ }
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
 index 1ae1f614b0451b489dda7df9e2045afde1f1ec3b..c077c84259985b9aefdf39af0955b39939b8f502 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
@@ -3883,7 +3898,7 @@ index 642772092fb0053dbfbb4476a066ffae91ffe9c5..75096bbdbfda9a53d75548a4fe2c47f1
    invariants: [
      {
 diff --git a/hook-system/agent-hooks/properties/over-tools.text-property.ts b/hook-system/agent-hooks/properties/over-tools.text-property.ts
-index 69fa16314a241c5f935bf08c8c4ce95e6f207a5b..909f9622fc14223c76dc2cd04a66c08ff1f979f2 100644
+index e483c8a6260aa2200def880df30ee4ca66fae5e1..90f1f9cd7eb9764bd00c856accff080196f586f6 100644
 --- a/hook-system/agent-hooks/properties/over-tools.text-property.ts
 +++ b/hook-system/agent-hooks/properties/over-tools.text-property.ts
 @@ -11,7 +11,7 @@ export const overTools = {
