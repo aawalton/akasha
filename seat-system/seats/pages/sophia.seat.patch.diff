@@ -61,6 +61,34 @@ index 017d8a16b4e39af6a7055431bb13b9baad7301f0..7cbd90a8827da2a907fe3e2374f97d79
  test("a path the patch moved under has no reading recorded", async () => {
    const root = pagesRepo()
    drafting(root)
+diff --git a/command-system/applying/applying.module.ts b/command-system/applying/applying.module.ts
+index 362dd6f9032892ae274f445c307a008913a07d73..f51b908f18c6cf6653ad374e8f0bb69da2888755 100644
+--- a/command-system/applying/applying.module.ts
++++ b/command-system/applying/applying.module.ts
+@@ -114,6 +114,23 @@ export const applying = {
+       invariantKind: "departure",
+       statement: "An agent is never left owing a read of the bodies that agent's own apply landed.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "An apply whose patch owes its readers no reading carries their readings onto the bodies applied.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An apply whose patch owes its readers reading carries no reading.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A reading is carried after the applying agent's own reading is recorded.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A path the patch renamed carries the reading of the body that path came from.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A patch applied is taken away with the ref keeping the blobs of that patch.",
 diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
 index bc16a12180fdef8b98750ffa77d088ea3d62129f..993ab13a1ad763b9bf612ee9cdac3a8f683c25c5 100644
 --- a/command-system/asking/asking.module.code.ts
