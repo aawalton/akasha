@@ -18,7 +18,7 @@ export const deviceSecretDeviceId = {
     },
     {
       invariantKind: "departure",
-      statement: "A device uninstalling the app states a new one.",
+      statement: "A device uninstalling the app states a new device id.",
     },
   ],
 } as const satisfies TextProperty
