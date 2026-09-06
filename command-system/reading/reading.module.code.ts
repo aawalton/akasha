@@ -83,7 +83,6 @@ function readingOf(value: unknown): Reading | null {
     path?: unknown
     oid?: unknown
     seenAt?: unknown
-    carriedOid?: unknown
     mechanicalOid?: unknown
     readThrough?: unknown
   }
@@ -91,7 +90,7 @@ function readingOf(value: unknown): Reading | null {
   if (typeof path !== "string" || path === "") return null
   if (typeof oid !== "string" || oid === "") return null
   if (typeof seenAt !== "number" || !Number.isFinite(seenAt)) return null
-  const said = held.carriedOid ?? held.mechanicalOid
+  const said = held.mechanicalOid
   const left = typeof said === "string" && said !== "" ? said : null
   return withReach({ path, oid, seenAt, mechanicalOid: left }, reachOf(readThrough))
 }
