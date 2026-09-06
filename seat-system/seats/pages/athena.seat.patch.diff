@@ -360,3 +360,69 @@ index 59881315ff632504df695a9b718da7ef1b8422a7..7af6b04579158ce42fc892e9f004066d
 +  champions(root, ONE, HER)
 +  expect(domainsDrawn(root).find((held) => held.slug === "domain/two")?.persona).toBe(null)
 +})
+diff --git a/editor-extension/panel-domains/panel-domains.module.ts b/editor-extension/panel-domains/panel-domains.module.ts
+index 7b306eb9e8f7e4f885edf442720dcffcc96bd3a4..4bba2d67c4f169dbbbcf4d9428c7f785c3c8e249 100644
+--- a/editor-extension/panel-domains/panel-domains.module.ts
++++ b/editor-extension/panel-domains/panel-domains.module.ts
+@@ -28,7 +28,15 @@ export const panelDomains = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The index files a part edge under the part.",
++      statement: "A part edge is read off the page naming the part.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The parts a page names are read off the value the index carries for that page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A part naming no page drawn here makes no edge.",
+     },
+     {
+       invariantKind: "departure",
+@@ -36,7 +44,11 @@ export const panelDomains = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An order is read out of the page.",
++      statement: "An order is the parts a page names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The parts keep the order that page names the parts in.",
+     },
+     {
+       invariantKind: "departure",
+@@ -65,11 +77,29 @@ export const panelDomains = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Only a page the index says holds parts is opened for its order.",
++      statement: "The index is asked which personas champion a page only where a persona could.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A page a persona could be naming is a page whose address or whose slug that persona states.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A slug two page types each hold widens the pages asked about rather than narrowing the pages.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No page is opened for the parts that page names.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No page is opened for the order those parts keep.",
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here walks the pages.",
++      statement: "Nothing here reads the pages line by line.",
+     },
+     {
+       invariantKind: "absence",
