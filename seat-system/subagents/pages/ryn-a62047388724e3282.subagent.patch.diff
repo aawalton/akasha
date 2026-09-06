@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/refactor/refactor.command.ts b/command-system/commands/refactor/refactor.command.ts
-index 809e2755b6345bd49330528a3f4d701006939552..c8ab6f55875cb8fc87a89b847f7ed30b5f7763a8 100644
+index 809e2755b6345bd49330528a3f4d701006939552..811b22625f7f54b0feb7e864f96109b11b822bc0 100644
 --- a/command-system/commands/refactor/refactor.command.ts
 +++ b/command-system/commands/refactor/refactor.command.ts
 @@ -190,7 +190,7 @@ export const refactor = {
@@ -18,6 +18,15 @@ index 809e2755b6345bd49330528a3f4d701006939552..c8ab6f55875cb8fc87a89b847f7ed30b
        invariantKind: "departure",
 -      statement: "A rename naming no line renames the one declaration or refuses the many.",
 +      statement: "A rename naming no line renames a lone declaration or refuses many declarations.",
+     },
+     {
+       invariantKind: "departure",
+@@ -215,7 +215,7 @@ export const refactor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A package is renamed where its manifest calls the package that name.",
++      statement: "A package is renamed where the package's manifest calls the package that name.",
      },
      {
        invariantKind: "departure",
