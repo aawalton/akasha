@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/service/pages-service.workspace-package.ts b/pages/service/pages-service.workspace-package.ts
+index 11e97843c14aa68f135427f8c381862691ab994c..528e024b10dc495043d4ae8465c0ccdee6173f8b 100644
+--- a/pages/service/pages-service.workspace-package.ts
++++ b/pages/service/pages-service.workspace-package.ts
+@@ -27,7 +27,7 @@ export const pagesService = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The pages system service answers for the pages standing in akasha and for no others.",
++        "The pages system service answers for the pages in akasha and for no page outside akasha.",
+     },
+     {
+       invariantKind: "departure",
