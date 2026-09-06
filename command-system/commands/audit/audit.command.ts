@@ -55,7 +55,7 @@ export const audit = {
     {
       invariantKind: "departure",
       statement:
-        "A path naming no file this repository holds and no folder holding one is refused.",
+        "A path naming no file this repository holds and no folder holding a file is refused.",
     },
     {
       invariantKind: "departure",
