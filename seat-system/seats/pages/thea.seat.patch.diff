@@ -115,6 +115,19 @@ index 09f6105a20c93030293c080301531c93ebf05a04..05c593742998d656f760251218829a31
    pageTypeSlug: "module",
    slug: "pod-selection",
    definition: "shell lines naming one live pod of a deployment in a namespace",
+diff --git a/changes/workflow-language/rbac-apply/rbac-apply.workflow-step.ts b/changes/workflow-language/rbac-apply/rbac-apply.workflow-step.ts
+index 20618e4cac5e2045666537bcacbb9f8a2ea07e7d..d2895b82a79d32bb1006a2a1ec707cecfa53b512 100644
+--- a/changes/workflow-language/rbac-apply/rbac-apply.workflow-step.ts
++++ b/changes/workflow-language/rbac-apply/rbac-apply.workflow-step.ts
+@@ -1,7 +1,7 @@
+ import type { WorkflowStep } from "../workflow-steps/workflow-step.page-type.ts"
+ 
+ export const rbacApply = {
+-  id: "01a06f10-7000-700d-b000d-9d4a2f6c000de1",
++  id: "01a07740-d031-714c-ac83-463fb6c4cf3d",
+   pageTypeSlug: "workflow-step",
+   slug: "rbac-apply",
+   definition: "a step putting a namespace's role profiles and their bindings onto the cluster",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
