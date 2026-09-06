@@ -1,0 +1,13 @@
+diff --git a/changes/partial/change-partial.page-type.ts b/changes/partial/change-partial.page-type.ts
+index b2a7a50fd3db9f0f9bb4d0551f2713a1ae2ce95e..de3d1ed9a12e3bdeac4be6b41492f4d60652c160 100644
+--- a/changes/partial/change-partial.page-type.ts
++++ b/changes/partial/change-partial.page-type.ts
+@@ -7,7 +7,7 @@ export const changePartial = {
+   id: "01a07656-40f5-7e99-b777-dcc9351443fe",
+   pageTypeSlug: "page-type",
+   slug: "change-partial",
+-  definition: "a piece of a change that leaves the tree broken on its own",
++  definition: "a rewrite of the bodies handed to it, deciding nothing and finding nothing",
+   pluralSlug: "change-partial",
+   partSlugs: ["change-partial/repoint-imports", "change-partial/respell-export"],
+   extendsSlug: ["page-type/module"],
