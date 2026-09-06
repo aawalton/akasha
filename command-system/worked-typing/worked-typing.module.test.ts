@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Key } from "./worked-typing.module.code.ts"
-import { bodyFor, workedAtOf } from "./worked-typing.module.code.ts"
+import { bodyFor, textIn, workedAtOf } from "./worked-typing.module.code.ts"
 
 const AT = "collections/collection.page-type.ts"
 
@@ -72,4 +72,14 @@ test("two stored properties declaring a worked form are both omitted", () => {
     { key: "two", typeName: "WorkedTwo", at: "collections/properties/two.x.ts", overrides: true },
   ])
   expect(body).toContain(`Omit<Collection, "one" | "two">`)
+})
+
+test("a body is read at the path the shadow says holds that body", () => {
+  const read = textIn(
+    "/root",
+    (path) => (path === "held.ts" ? "came-from.ts" : null),
+    (at) => (at === "/root/came-from.ts" ? "BODY" : null)
+  )
+  expect(read("held.ts")).toBe("BODY")
+  expect(read("anew.ts")).toBeNull()
 })

@@ -1,3 +1,5 @@
+import { readFileSync } from "node:fs"
+import { join } from "node:path"
 import { formattedBody } from "@akasha/code-system/code-format"
 import type { Schema } from "@akasha/indexes"
 import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
@@ -54,6 +56,29 @@ function declaresWorked(text: string, typeName: string): boolean {
   return new RegExp(`export type ${WORKED}${typeName}\\b`).test(text)
 }
 
+function onDisk(at: string): string | null {
+  try {
+    return readFileSync(at, "utf8")
+  } catch {
+    return null
+  }
+}
+
+// `codeAt` answers the path on disk holding the body this change leaves at a path rather than
+// that body, so a body is read by reading the path it answers. A path the change carries away
+// to another path stands at the path it came from, and one the change writes anew stands at no
+// path and is answered as nothing.
+export function textIn(
+  root: string,
+  codeAt: (path: string) => string | null,
+  readAt: (at: string) => string | null
+): (path: string) => string | null {
+  return (path) => {
+    const at = codeAt(path)
+    return at === null ? null : readAt(join(root, at))
+  }
+}
+
 // The schema is filed under `<page type>/<slug>`, and a page type names a property either way,
 // so a bare slug is taken only where one page property carries it.
 function narrowedIn(schema: ReadonlyMap<string, Schema>): ReadonlyMap<string, Schema | null> {
@@ -65,7 +90,11 @@ function narrowedIn(schema: ReadonlyMap<string, Schema>): ReadonlyMap<string, Sc
   return found
 }
 
-export function keysFor(shadow: Shadow, value: Record<string, unknown>): readonly Key[] {
+export function keysFor(
+  shadow: Shadow,
+  value: Record<string, unknown>,
+  textAt: (path: string) => string | null
+): readonly Key[] {
   const declared = value[PROPERTIES]
   if (!Array.isArray(declared)) return []
   const schema = shadow.index.schemaAt()
@@ -86,7 +115,7 @@ export function keysFor(shadow: Shadow, value: Record<string, unknown>): readonl
       found.push({ key, typeName, at: listed.path, overrides: false })
       continue
     }
-    const text = shadow.codeAt(listed.path)
+    const text = textAt(listed.path)
     if (text === null || !declaresWorked(text, typeName)) continue
     found.push({ key, typeName: `${WORKED}${typeName}`, at: listed.path, overrides: true })
   }
@@ -117,6 +146,7 @@ export function bodyFor(pageTypePath: string, slug: string, keys: readonly Key[]
 export function workedOver(root: string, shadow: Shadow): Worked {
   const edits: FileEdit[] = []
   const said: string[] = []
+  const textAt = textIn(root, shadow.codeAt, onDisk)
   for (const listed of shadow.index.everyOfType(PAGE_TYPE)) {
     const value = shadow.pageOf(listed.path)
     if (value === null) continue
@@ -125,12 +155,12 @@ export function workedOver(root: string, shadow: Shadow): Worked {
     // A page type opts in by stating the property that holds the file, so a type carrying
     // calculations and claiming no file is left alone rather than given an unclaimed one.
     if (value[WORKED_AT] !== HOLDS) continue
-    const keys = keysFor(shadow, value as Record<string, unknown>)
+    const keys = keysFor(shadow, value as Record<string, unknown>, textAt)
     if (keys.length === 0) continue
     const at = workedAtOf(listed.path)
     const raw = new TextEncoder().encode(bodyFor(listed.path, slug, keys))
     const body = formattedBody(root, at, raw).body
-    const was = shadow.codeAt(at)
+    const was = textAt(at)
     if (was !== null && was === new TextDecoder().decode(body)) continue
     edits.push({ path: at, body })
     said.push(`\`${at}\` was written again from the ${keys.length} keys \`${slug}\` declares`)

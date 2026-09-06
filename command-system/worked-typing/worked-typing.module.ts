@@ -51,6 +51,10 @@ export const workedTyping = {
     },
     {
       invariantKind: "departure",
+      statement: "A property's file is read at the path the shadow says holds that file.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body is handed to the formatter here, so no landing reformats what this wrote.",
     },
     {
