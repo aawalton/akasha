@@ -9,5 +9,4 @@ export const whatIInventedAndWhatIRead = {
   parentSlugs: ["why-i-keep-my-data-in-files"],
   settled:
     "I did not invent the idea that agents do better with files. I saw research papers on that.\n\nI have not seen anyone take it to its conclusion and replace Postgres with agent-readable files. Even if I was not the first to invent that solution, I invented it independently.",
-  unsettled: "Which research papers, and what they actually claimed, is not recorded.",
 } as const satisfies AllAboutAlanTopic
