@@ -20,7 +20,7 @@ export const noLibcByName = {
 
     {
       invariantKind: "departure",
-      statement: "`dlopen` reached through an object is refused as a bare one is.",
+      statement: "`dlopen` reached through an object is refused as a bare call is.",
     },
     {
       invariantKind: "departure",
