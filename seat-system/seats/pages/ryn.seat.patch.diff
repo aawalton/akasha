@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts b/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts
+index 80258578d2c82b7ce8311a2e727fa0ffeb5e7f6e..1bbe4452c15fb81af26617a526757ba485d0a3ba 100644
+--- a/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts
++++ b/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts
+@@ -16,7 +16,7 @@ export const equipmentLoads = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A piece whose load is not chosen in steps names none.",
++      statement: "A piece whose load is not chosen in steps names no load.",
+     },
+     {
+       invariantKind: "departure",
