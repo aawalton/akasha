@@ -1,3 +1,16 @@
+diff --git a/alan/harness/alan-harness.domain.ts b/alan/harness/alan-harness.domain.ts
+index a7b1395fd6278ff11c4bd251c15dc2c4f0bb8745..696e0e66f1fb4da7f91dc9b15b556a192c36097b 100644
+--- a/alan/harness/alan-harness.domain.ts
++++ b/alan/harness/alan-harness.domain.ts
+@@ -105,7 +105,7 @@ export const alanHarness = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Health samples are imported by `akasha importing health`.",
++      statement: "Health samples are imported by `akasha track health import`.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/command-system/commands/track-health-import/track-health-import.command.code.ts b/command-system/commands/track-health-import/track-health-import.command.code.ts
 index 42c3211bd58e9ce715d78049ac9e51d5b173cb0d..b50a5405973674db67bdc369e292741439ae7973 100644
 --- a/command-system/commands/track-health-import/track-health-import.command.code.ts
