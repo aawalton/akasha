@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-fails-in-the-metering-when-i-am-low.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-fails-in-the-metering-when-i-am-low.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..57981a0994baa933ff38c7f9bcf7bc395f5c95cf
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-fails-in-the-metering-when-i-am-low.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatFailsInTheMeteringWhenIAmLow = {
++  id: "01a077ef-d2c0-776c-ac7f-eac3e19b6179",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-fails-in-the-metering-when-i-am-low",
++  topicSlug: "why-too-much-and-too-little-swap-over",
++  ask: "What actually fails in the metering when I am low on resources?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-would-test-one-neurotype-under-both-diagnoses.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-would-test-one-neurotype-under-both-diagnoses.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..70e5669c6230ee34dadabac4fb68d21794c7f0bd
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-would-test-one-neurotype-under-both-diagnoses.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatWouldTestOneNeurotypeUnderBothDiagnoses = {
++  id: "01a077ef-d2bf-7b4c-98bf-e3a0292c1806",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-would-test-one-neurotype-under-both-diagnoses",
++  topicSlug: "why-too-much-and-too-little-swap-over",
++  ask: "I take one neurotype to sit under both diagnoses, autism and ADHD being surface presentations. What would confirm or falsify that, and do the two ever come apart cleanly?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-extra-wiring-raises-my-ceiling.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-extra-wiring-raises-my-ceiling.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d30467c5200c8416a52d8ca78565ddb306c663c2
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-extra-wiring-raises-my-ceiling.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyExtraWiringRaisesMyCeiling = {
++  id: "01a077ef-d2c0-74d6-bc52-245a852818c6",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-extra-wiring-raises-my-ceiling",
++  topicSlug: "why-too-much-and-too-little-swap-over",
++  ask: "Does the extra wiring raise my ceiling too, so more attention is available when the metering holds, or does the wiring only change what I draw at rest?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/why-too-much-and-too-little-swap-over.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/why-too-much-and-too-little-swap-over.all-about-alan-topic.ts
+index 043bd88766ae222f69fe6c3428f2fbfffb997bc8..c2089e94c652982269a67c36bf728718ceacdcf2 100644
+--- a/alan/books/all-about-alan/topics/pages/why-too-much-and-too-little-swap-over.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/why-too-much-and-too-little-swap-over.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whyTooMuchAndTooLittleSwapOver = {
+   relatedSlugs: ["how-warm-i-run", "what-wears-my-body-down"],
+   settled:
+     "My wiring carries more than most: more connections, less pruned away. That part does not change.\n\nWhat changes is whether the metering sitting on top of it is working.\n\nLow on resources nothing meters, and the same traffic jams. The jam is the overwhelm.\n\nHigh on resources it clears so cleanly the day can feel empty at exactly the same load.\n\nThe metering runs warm, which is why cold reads as too much and hot reads as too little.",
+-  unsettled:
+-    "I take one neurotype to sit under both diagnoses, with autism and ADHD as surface presentations of it. What would confirm or falsify that, and whether the two ever come apart cleanly, is unprobed.\n\nWhether the extra wiring raises my ceiling too, so there is more attention available when the metering holds, or only changes what it draws at rest, is open.\n\nWhat actually fails in the metering when I am low is unpinned.",
+ } as const satisfies AllAboutAlanTopic
