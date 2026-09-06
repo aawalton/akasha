@@ -1,0 +1,89 @@
+diff --git a/command-system/commands/refactor/slug-renaming/slug-renaming.module.code.ts b/command-system/commands/refactor/slug-renaming/slug-renaming.module.code.ts
+index d3fe11c6d1e3982f413a7ca7533c4ec04a904f14..1847e934bafb9f2959b84d0b2115ce380a6250e0 100644
+--- a/command-system/commands/refactor/slug-renaming/slug-renaming.module.code.ts
++++ b/command-system/commands/refactor/slug-renaming/slug-renaming.module.code.ts
+@@ -2,8 +2,6 @@ import { basename, dirname, join } from "node:path"
+ import type { Listed } from "@akasha/indexes"
+ import { addressIn } from "@akasha/pages/page-address"
+ import { besideRenamed } from "../../move/renaming/move-renaming.module.code.ts"
+-import { MESSAGE, MESSAGE_FILE } from "../../write/write.command.code.ts"
+-import { FROM, TO } from "../arguing/refactor-arguing.module.code.ts"
+ 
+ const PAGE_TYPE = "page-type"
+ 
+@@ -52,18 +50,3 @@ export function pairFor(
+   const to = join(dirname(one.path), besideRenamed(basename(one.path), renaming))
+   return { pair: { from: one.path, to, was: slug } }
+ }
+-
+-export function passedOn(pair: Pair, now: string, rest: readonly string[]): readonly string[] {
+-  const said = [FROM, pair.from, TO, pair.to]
+-  for (let at = 0; at < rest.length; at = at + 1) {
+-    const one = rest[at]
+-    if (one === undefined) break
+-    if (one === FROM || one === TO) {
+-      at = at + 1
+-      continue
+-    }
+-    said.push(one)
+-  }
+-  if (said.includes(MESSAGE) || said.includes(MESSAGE_FILE)) return said
+-  return [...said, MESSAGE, `rename the page \`${pair.was}\` to \`${now}\``]
+-}
+diff --git a/command-system/commands/refactor/slug-renaming/slug-renaming.module.test.ts b/command-system/commands/refactor/slug-renaming/slug-renaming.module.test.ts
+index 0db5856fd68b451d00858d2c5a0565b0a9877e04..9b2e845182f82949b6ec928de8bf27afe47e15be 100644
+--- a/command-system/commands/refactor/slug-renaming/slug-renaming.module.test.ts
++++ b/command-system/commands/refactor/slug-renaming/slug-renaming.module.test.ts
+@@ -1,6 +1,6 @@
+ import { expect, test } from "bun:test"
+ import type { Listed } from "@akasha/indexes"
+-import { pairFor, passedOn } from "./slug-renaming.module.code.ts"
++import { pairFor } from "./slug-renaming.module.code.ts"
+ 
+ const AT = "akasha/one/held.thing.ts"
+ 
+@@ -33,25 +33,3 @@ test("an index that will not answer refuses, and so does an address two pages an
+   const two = pairFor("thing/held", "renamed", () => [...HELD, { path: AT, id: AAAA }])
+   expect("refused" in two ? two.refused : "").toContain("2 pages carry")
+ })
+-
+-test("the flags a call said are carried on but for the two naming the page", () => {
+-  const pair = { from: AT, to: THERE, was: "held" }
+-  const rest = ["--from", "thing/held", "--to", "renamed", "--dry-run"]
+-  expect(passedOn(pair, "renamed", rest)).toEqual([
+-    "--from",
+-    AT,
+-    "--to",
+-    THERE,
+-    "--dry-run",
+-    "--message",
+-    "rename the page `held` to `renamed`",
+-  ])
+-  expect(passedOn(pair, "renamed", ["--message", "said"])).toEqual([
+-    "--from",
+-    AT,
+-    "--to",
+-    THERE,
+-    "--message",
+-    "said",
+-  ])
+-})
+diff --git a/command-system/commands/refactor/slug-renaming/slug-renaming.module.ts b/command-system/commands/refactor/slug-renaming/slug-renaming.module.ts
+index c7e0d2963f886c39d5c172f7aa029e91a4fac9cf..5f29269e79be8805c0234d01781b65efce34bf8c 100644
+--- a/command-system/commands/refactor/slug-renaming/slug-renaming.module.ts
++++ b/command-system/commands/refactor/slug-renaming/slug-renaming.module.ts
+@@ -36,14 +36,6 @@ export const slugRenaming = {
+       invariantKind: "departure",
+       statement: "A file arriving under the new slug keeps the tail that file already carries.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The flags a call said are carried on but for the two naming the page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A call saying no message is carried on with a message naming the rename.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here reads the index or the disk.",
