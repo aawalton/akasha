@@ -13,7 +13,7 @@ export const supervisorSpawnAgents = {
     },
     {
       invariantKind: "departure",
-      statement: "The compose module is imported from beside this one and its function called.",
+      statement: "The compose module is imported from beside this module and its function called.",
     },
     {
       invariantKind: "departure",
@@ -21,8 +21,7 @@ export const supervisorSpawnAgents = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An empty map is no definitions, because a seat given one would delegate to nothing.",
+      statement: "An empty map is no definitions.",
     },
   ],
 } as const satisfies Module
