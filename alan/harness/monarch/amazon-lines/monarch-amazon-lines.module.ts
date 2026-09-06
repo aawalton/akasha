@@ -13,8 +13,7 @@ export const monarchAmazonLines = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A row already carrying a note is passed over, because a note is written only where none stands.",
+      statement: "A row already carrying a note is passed over.",
     },
     {
       invariantKind: "departure",
@@ -22,8 +21,7 @@ export const monarchAmazonLines = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Which direction is wanted is asked of the caller, so charges and refunds draw from one reader.",
+      statement: "Which direction is wanted is asked of the caller.",
     },
     {
       invariantKind: "absence",
