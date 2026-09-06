@@ -1,0 +1,64 @@
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.code.ts b/readout-system/readout-group-serving/readout-group-serving.module.code.ts
+index 0f84f43ff8206873d99058816c30b594ae72b5c8..3d91c070d2a725cd4e1dd83e1e4a0bd8f57a91ec 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.code.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.code.ts
+@@ -21,6 +21,8 @@ const READOUT = "readout"
+ 
+ const READOUT_SCALE = "readout-scale"
+ 
++const READOUT_GROUP = "readout-group"
++
+ const HABIT = "habit"
+ 
+ const NO_FIGURE = ""
+@@ -35,6 +37,7 @@ export type Stoplight = {
+   readonly readingHeld?: ReadingUnheld
+   readonly nextTier?: TierColor
+   readonly progress?: number
++  readonly figureOffScale?: boolean
+ }
+ 
+ type Values = Readonly<Record<string, unknown>>
+@@ -104,6 +107,25 @@ export function stilled(row: Values): boolean {
+   return row.enabled === false
+ }
+ 
++// WHETHER A READING PAST EITHER END OF ITS SCALE STILL DRAWS ITS FIGURE BELONGS TO THE GROUP.
++//
++// One readout is drawn in more than one group: safety is drawn alone on a tile of its own and again
++// among the upkeep stoplights, and those two drawings answer this differently. A tile drawing one
++// reading has room for the figure at every reading; six readings to a tile has room for none past
++// the ends. So the readout cannot carry the answer and the group can, one answer to each drawing.
++//
++// A group stating nothing draws no figure past either end, which is what every group did before any
++// group stated anything.
++async function figureOffScaleOf(groupSlug: string): Promise<boolean> {
++  const asked = await askingFor({
++    pageTypeSlug: READOUT_GROUP,
++    where: { slug: { is: groupSlug } },
++  })
++  if ("refused" in asked) return false
++  const [row] = asked.rows
++  return row?.figureOffScale === true
++}
++
+ export async function stoplightsInGroup(
+   groupSlug: string,
+   wireKeyName: string = HABIT,
+@@ -115,11 +137,15 @@ export async function stoplightsInGroup(
+   })
+   if ("refused" in asked) return []
+ 
++  // The group is asked for once for the group rather than once for each reading in it, and the
++  // answer is carried on each reading because each reading is what a ring is handed.
++  const figureOffScale = await figureOffScaleOf(groupSlug)
++
+   const stoplights: Stoplight[] = []
+   for (const row of inPlaceOrder(asked.rows)) {
+     if (stilled(row)) continue
+     const one = await stoplightOf(row, wireKeyName, readingHeld)
+-    if (one !== null) stoplights.push(one)
++    if (one !== null) stoplights.push(figureOffScale ? { ...one, figureOffScale } : one)
+   }
+   return stoplights
+ }
