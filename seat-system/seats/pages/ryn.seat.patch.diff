@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/monarch.domain.ts b/alan/harness/monarch/monarch.domain.ts
-index a8ee11b857479f78b2472a01c65be09c2ed0c733..d6843b3edcb216e32346862af1659ade5a215a11 100644
+index a8ee11b857479f78b2472a01c65be09c2ed0c733..5644b20ade7b75d9b8d08d4736ecd3ab54e37327 100644
 --- a/alan/harness/monarch/monarch.domain.ts
 +++ b/alan/harness/monarch/monarch.domain.ts
 @@ -87,7 +87,8 @@ export const monarch = {
@@ -12,7 +12,7 @@ index a8ee11b857479f78b2472a01c65be09c2ed0c733..d6843b3edcb216e32346862af1659ade
      },
      {
        invariantKind: "departure",
-@@ -101,13 +102,16 @@ export const monarch = {
+@@ -101,17 +102,24 @@ export const monarch = {
      { invariantKind: "absence", statement: "Monarch's own rules engine is never written to." },
      {
        invariantKind: "departure",
@@ -29,6 +29,15 @@ index a8ee11b857479f78b2472a01c65be09c2ed0c733..d6843b3edcb216e32346862af1659ade
        statement:
 -        "Category rules run without asking on that sync, over a window narrower than the copy's.",
 +        "Category rules run without asking on that sync over a window narrower than the copy's.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Transactions are checked every minute.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Transactions are checked every minute, and only changed rows move.",
++      statement: "Only changed rows move.",
      },
      {
        invariantKind: "departure",
