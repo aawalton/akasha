@@ -1,0 +1,13 @@
+diff --git a/command-system/commands/move/move.command.ts b/command-system/commands/move/move.command.ts
+index 06819a89735338d86a2b6ad59215869fea03196b..00008dac2c044dbb7ab3ecb89e2ffcf46e095bca 100644
+--- a/command-system/commands/move/move.command.ts
++++ b/command-system/commands/move/move.command.ts
+@@ -60,7 +60,7 @@ export const move = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "One naming a package is left alone.",
++      statement: "A specifier naming a package is left alone.",
+     },
+     {
+       invariantKind: "departure",
