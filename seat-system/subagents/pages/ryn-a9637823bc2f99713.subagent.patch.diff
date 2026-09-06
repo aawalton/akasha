@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/panel-domains/panel-domains.module.ts b/editor-extension/panel-domains/panel-domains.module.ts
+index 5ad41df774743de28f1c4bd92f8192044ac1b966..b41cea38e0d5149303dceab6845d956209ec43a5 100644
+--- a/editor-extension/panel-domains/panel-domains.module.ts
++++ b/editor-extension/panel-domains/panel-domains.module.ts
+@@ -32,7 +32,7 @@ export const panelDomains = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page under other than one parent is answered as under none.",
++      statement: "A page under other than one parent is answered as under no parent.",
+     },
+     {
+       invariantKind: "departure",
