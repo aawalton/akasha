@@ -29,7 +29,7 @@ export const propertiesOfTheTypeAbove = {
     },
     {
       invariantKind: "departure",
-      statement: "A file beside a property page is one that property page states.",
+      statement: "A file beside a property page is a file that property page states.",
     },
     {
       invariantKind: "departure",
