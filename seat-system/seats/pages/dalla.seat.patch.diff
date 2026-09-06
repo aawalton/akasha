@@ -1,0 +1,10 @@
+diff --git a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts
+index 8b44a061b1834e856dc2ed09c96842f7b12e8f05..f4aae604971ef1ac9fef03448baf345d6b559055 100644
+--- a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts
++++ b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts
+@@ -1,4 +1,4 @@
+-import { repointed } from "@akasha/code-system/path-repointing"
++import { repointed } from "../../../../code-system/path-repointing/path-repointing.module.code.ts"
+ import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
+ 
+ export type Asked = {
