@@ -24,6 +24,37 @@ index ef40f9fb7686be1468a822df5a44ac6ff955fd23..0c650b6f7b4b5f1741f29a437a5ecd60
  
  function account(held: Record<string, unknown>): WorkedClaudeAccount {
    return { slug: "aine", ...held } as unknown as WorkedClaudeAccount
+diff --git a/pages/calculation-loading/calculation-loading.module.test.ts b/pages/calculation-loading/calculation-loading.module.test.ts
+index 9308cb282e5473b17cbaec7f002528d77a270ee5..840d90442e5481413770e5be49f93e4d77a9cb5b 100644
+--- a/pages/calculation-loading/calculation-loading.module.test.ts
++++ b/pages/calculation-loading/calculation-loading.module.test.ts
+@@ -1,7 +1,9 @@
+ import { describe, expect, test } from "bun:test"
+-import type { Held } from "../computing/page-computing.module.code.ts"
++import type { Held, Reach } from "../computing/page-computing.module.code.ts"
+ import { workIn } from "./calculation-loading.module.code.ts"
+ 
++const REACH: Reach = { target: () => null, naming: () => [] }
++
+ const CALCULATION = [
+   'import type { Work } from "@akasha/pages/computed-property"',
+   'import type { WakeDay } from "../wake-day.page-type.ts"',
+@@ -16,13 +18,13 @@ describe("the calculation a code file exports", () => {
+   test("a code file exporting `work` answers that function", () => {
+     const loaded = workIn(CALCULATION)
+     if ("failed" in loaded) throw new Error(loaded.failed)
+-    expect(loaded.work({ strengthVolume: 700 } as Held, { target: () => null })).toBe(100)
++    expect(loaded.work({ strengthVolume: 700 } as Held, REACH)).toBe(100)
+   })
+ 
+   test("a calculation reading a key the page does not carry answers nothing", () => {
+     const loaded = workIn(CALCULATION)
+     if ("failed" in loaded) throw new Error(loaded.failed)
+-    expect(loaded.work({} as Held, { target: () => null })).toBe(null)
++    expect(loaded.work({} as Held, REACH)).toBe(null)
+   })
+ 
+   test("a type an import names is gone before the text is run", () => {
 diff --git a/pages/computed-properties/computed-property.page-type.ts b/pages/computed-properties/computed-property.page-type.ts
 index 107c961306ba1cefe320d969ead9cc9ac713d287..76ca81a18f4783532e845715b470756ef9bed811 100644
 --- a/pages/computed-properties/computed-property.page-type.ts
