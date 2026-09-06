@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+index 1977feb1291d4009b1a84838b58cd36607b8ad6f..f22323d4fc1ac0f478b18bb47e6c479e34d2a78b 100644
+--- a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
++++ b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+@@ -28,7 +28,7 @@ export const accountUpkeepStallReading = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An account holding less token life than the floor is one upkeep should have renewed and did not.",
++        "An account below the token life floor is an account upkeep should have renewed and did not.",
+     },
+     {
+       invariantKind: "departure",
