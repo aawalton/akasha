@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+index 42193d452f106d3d48ca53bd3c89714f73376770..1b00a54c7ddfb08841b2c53781a868e3ab3ad083 100644
+--- a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
++++ b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+@@ -41,7 +41,7 @@ export const athenaCommandsAtTheRoot = {
+     {
+       statement: "An index written as changes land matches what a rebuild would write.",
+       workingMemory:
+-        "A refresh over 5e6b09d17d added 30933 files, changed none and took 24 away. That was the gap the 09:36 outage left, when the index could not read its own page types and every settle under-wrote. A dry run before a landing and a dry run after both read the index as matching, so a landing leaks nothing. Nothing measures this between rebuilds and nothing fails as it grows. A dry run resolves relations against the index as it is, so its drift is not the drift a real refresh lands.",
++        "A refresh over 5e6b09d17d added 30933 files, changed none and took 24 away: the gap the 09:36 outage left, when the index could not read its own page types and every settle under-wrote. Repaired, it held for one landing. Fourteen hours of swarm later a refresh over d68a11cd26 read 9 files missing, 2 wrong and 175 the pages no longer imply, so the settle leaves entries behind as pages move. Nothing measures this between rebuilds and nothing fails as it grows.",
+     },
+     {
+       statement: "The index holds no folder left behind by a design that is gone.",
