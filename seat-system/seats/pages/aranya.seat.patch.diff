@@ -174,3 +174,17 @@ index 0000000000000000000000000000000000000000..47dda28746af96d9f5875753adf0e8e4
 +  slug: "collections-secrets-royalroad-username",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "ROYALROAD_USERNAME" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-scraperapi-api-key.secret.ts b/service-system/secrets/pages/collections-secrets-scraperapi-api-key.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f1b211249301909c369e923a1d64980e2e0aa6d3
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-scraperapi-api-key.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsScraperapiApiKey = {
++  id: "01a076b7-80c3-7f10-98df-e609509e1646",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-scraperapi-api-key",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "SCRAPERAPI_API_KEY" }],
++} as const satisfies Secret
