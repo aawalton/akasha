@@ -48,6 +48,33 @@ index 2b3d6e36a093af82434f3dca510ca775745e3694..bfa722be8f21e4f72e5dafeadc8c7ee8
      const listed = Array.isArray(held)
      if (one.many && !listed)
        said.push(`states \`${slug}\` singly, and \`${named}\` declares it many`)
+diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
+index 0d41449bfcf28d7b867a3f982a4c29337607bd18..81bb417ecbf3a6c3785beaef1e84cfe25c34e8ef 100644
+--- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
++++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
+@@ -46,6 +46,22 @@ export const pageMatchesItsType = {
+       invariantKind: "departure",
+       statement: "A page stating a property its type declares secret is refused.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A property its type works out is not demanded of the page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Such a value is worked out as the page is read rather than kept in the page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page stating a property its type works out is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The words that refusal prints are read from the refusal's own page.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A page type the change carries is read as the change leaves that page type.",
 diff --git a/checks/refusals/pages/page-key-computed.refusal.ts b/checks/refusals/pages/page-key-computed.refusal.ts
 index aff8423b805aa30f849a1581533fc979afa87ddf..712a6333c606b44b06954e422d268fa77731b16e 100644
 --- a/checks/refusals/pages/page-key-computed.refusal.ts
