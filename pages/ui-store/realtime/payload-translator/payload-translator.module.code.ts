@@ -13,11 +13,16 @@ const isoTimestamp = z.union([z.string(), z.date()]).transform((v, ctx) => {
 export const PageRowSchema = z.object({
   id: z.string().uuid(),
   page_type_id: z.string().uuid(),
+  // A PAGE KEPT AS A FILE CARRIES NO SEQUENCE NUMBER. Only a page type numbering its pages gives
+  // one, so every other file-backed answer states seq as null, and a reader refusing null throws
+  // away the whole batch rather than the one field it could not read.
   seq: z
     .number()
     .int()
     .or(z.string())
+    .nullable()
     .transform((v, ctx) => {
+      if (v === null) return null
       const n = typeof v === "number" ? v : Number(v)
       if (!Number.isFinite(n)) {
         ctx.addIssue({ code: z.ZodIssueCode.custom, message: `invalid seq: ${String(v)}` })
