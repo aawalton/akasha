@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-local-midnight-parse/no-local-midnight-parse.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-local-midnight-parse/no-local-midnight-parse.syntax-rule.ts
+index 274c22bebc8581a0cb1c6d329466a75020cf9712..bc6f9502da3a564018cdf25c8c567803e4d044bc 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-local-midnight-parse/no-local-midnight-parse.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-local-midnight-parse/no-local-midnight-parse.syntax-rule.ts
+@@ -10,7 +10,7 @@ export const noLocalMidnightParse = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A midnight written into a template is read as one written with `+`.",
++      statement: "A midnight written into a template is read as a midnight written with `+`.",
+     },
+     {
+       invariantKind: "departure",
