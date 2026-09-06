@@ -62,11 +62,7 @@ export const indexReading = {
     {
       invariantKind: "departure",
       statement:
-        "Only the importers of a file are refused for a tree missing beneath an index that stands.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An address stating no page type is answered under the one its caller names.",
+        "An address stating no page type is answered under the page type its caller names.",
     },
     {
       invariantKind: "departure",

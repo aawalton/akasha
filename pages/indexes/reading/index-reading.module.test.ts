@@ -296,11 +296,19 @@ test("a path nothing imports is answered with nothing rather than by throwing", 
   expect(importersOf("akasha/nowhere.module.code.ts", readingIn(root))).toEqual([])
 })
 
-test("what imports a file is refused when the import index is not there, no folder being no answer", () => {
+test("what imports a file is nothing where the import tree is missing beneath the index", () => {
   const root = rootAt()
   nothingFiled(root)
 
-  expect(() => importersOf("akasha/a.module.code.ts", readingIn(root))).toThrow(/import\/path/)
+  expect(importersOf("akasha/a.module.code.ts", readingIn(root))).toEqual([])
+})
+
+test("what imports a file is refused where the index itself is not there", () => {
+  const root = rootAt()
+
+  expect(() => importersOf("akasha/a.module.code.ts", readingIn(root))).toThrow(
+    /is not an index naming none/
+  )
 })
 
 test("an index's own place is answered under the index root", () => {
