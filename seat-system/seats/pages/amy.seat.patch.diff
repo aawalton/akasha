@@ -49,3 +49,21 @@ index 08f938473586f5a80cd393a94a018620334cfad6..a63cca532ffde4ef8c90fb8084bba5cd
    code: "ts",
 +  test: "ts",
  } as const satisfies Module
+diff --git a/pages/views/properties/view-predicate.text-property.ts b/pages/views/properties/view-predicate.text-property.ts
+index 965e3a49ae7191862f5e93926a8827abf664e72d..356ec3f6ee0a7c37aad941a0463e0867ee34aa11 100644
+--- a/pages/views/properties/view-predicate.text-property.ts
++++ b/pages/views/properties/view-predicate.text-property.ts
+@@ -19,5 +19,13 @@ export const viewPredicate = {
+       invariantKind: "departure",
+       statement: "A view naming a predicate and a page type at once is refused.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A predicate is named in lower kebab.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A predicate no registry answers for lists nothing.",
++    },
+   ],
+ } as const satisfies TextProperty
