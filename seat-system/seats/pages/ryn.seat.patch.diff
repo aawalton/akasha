@@ -1,8 +1,8 @@
 diff --git a/alan/harness/monarch/eval-run/monarch-eval-run.module.ts b/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
-index cbe0f202507ace32cfd7f5b098fd94ba7209a3f7..97c27af7751f1f93de40dfc83ecac28cdb6ac357 100644
+index cbe0f202507ace32cfd7f5b098fd94ba7209a3f7..60872baa6084866f503b287bfd3d55f80af0c68a 100644
 --- a/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
 +++ b/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
-@@ -18,12 +18,15 @@ export const monarchEvalRun = {
+@@ -18,17 +18,20 @@ export const monarchEvalRun = {
      },
      {
        invariantKind: "departure",
@@ -18,6 +18,12 @@ index cbe0f202507ace32cfd7f5b098fd94ba7209a3f7..97c27af7751f1f93de40dfc83ecac28c
        invariantKind: "departure",
 -      statement: "Batches are asked four at a time rather than one by one or all at once.",
 +      statement: "Batches are asked four at a time rather than one by one or every batch at once.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "The whole run is kept: the categories offered, the rows drawn, the proposals and the cost.",
++        "The categories offered and the rows drawn and the proposals and the cost are all kept.",
      },
      {
        invariantKind: "departure",
