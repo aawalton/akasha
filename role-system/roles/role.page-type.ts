@@ -53,17 +53,6 @@ export const role = {
     },
     {
       directiveKind: "rule",
-      name: "Named Key",
-      act: "Ask a payload which keys it carries before asking which of its rows match one.",
-      warrant:
-        "A key that is not there is legal, so a wrong name returns a clean zero rather than an error.",
-      aids: [
-        "Spelling, case and nesting are part of the name.",
-        "A key on one row may be missing on the next.",
-      ],
-    },
-    {
-      directiveKind: "rule",
       name: "Ask Upward",
       act: "Put a question to your principal, never past them to whoever they answer to.",
       warrant:
