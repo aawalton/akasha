@@ -1,0 +1,54 @@
+diff --git a/command-system/commands/track/day-landing/day-landing.module.ts b/command-system/commands/track/day-landing/day-landing.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6486668e7799e1e4a8df91c1b7b283f51effdf13
+--- /dev/null
++++ b/command-system/commands/track/day-landing/day-landing.module.ts
+@@ -0,0 +1,48 @@
++import type { Module } from "@akasha/code/module"
++
++export const dayLanding = {
++  id: "01a076f7-5c91-738d-ad4a-402881e78c12",
++  pageTypeSlug: "module",
++  slug: "day-landing",
++  definition: "the files a landing writes beside the day that landing lands rows on",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A day page declares the stretches beside that day.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A reader reaches a stretch through the declaration its day page carries.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A day carrying rows and declaring no stretches reads as a day with no stretch.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The declaration is written the first time a row lands on a day.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A day page already declaring the stretches is left as it is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The rows of the last day a landing writes are handed to the write as the body.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A day page a landing rewrites is written whether that day is the last or not.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here decides what a row holds.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reaches git.",
++    },
++  ],
++} as const satisfies Module
