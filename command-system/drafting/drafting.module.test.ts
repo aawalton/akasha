@@ -32,11 +32,11 @@ const ALSO_NOT_TEXT = new Uint8Array([0x80, 0x81, 0x03])
 const THEN_NOT_TEXT = new Uint8Array([0xc0, 0xaf, 0x07])
 const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=false"]
 
-const NOTHING_RUNS: Running = { checks: false, warrants: false }
+const NOTHING_RUNS: Running = { checks: false, writerOwesReading: false }
 
-const BOTH_RUN: Running = { checks: true, warrants: true }
+const BOTH_RUN: Running = { checks: true, writerOwesReading: true }
 
-const CHECKS_RUN: Running = { checks: true, warrants: false }
+const CHECKS_RUN: Running = { checks: true, writerOwesReading: false }
 
 const scratch = scratchWorld()
 

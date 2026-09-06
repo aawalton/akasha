@@ -221,13 +221,13 @@ test("a landing made by a program is told apart from a glass that was broken", a
 })
 
 test("a change kind says what a draft runs, its checks apart from its warrants", () => {
-  expect(ranBy(true, false)).toEqual({ checks: true, warrants: false })
-  expect(ranBy(true, true)).toEqual({ checks: true, warrants: true })
-  expect(ranBy(false, false)).toEqual({ checks: false, warrants: false })
+  expect(ranBy(true, false)).toEqual({ checks: true, writerOwesReading: false })
+  expect(ranBy(true, true)).toEqual({ checks: true, writerOwesReading: true })
+  expect(ranBy(false, false)).toEqual({ checks: false, writerOwesReading: false })
 })
 
 test("a call carrying no change kind runs every check and every warrant", () => {
-  expect(runningOf(givenIn(""))).toEqual({ checks: true, warrants: true })
+  expect(runningOf(givenIn(""))).toEqual({ checks: true, writerOwesReading: true })
 })
 
 test("a mechanical change under an agent drafts into its patch rather than landing", async () => {

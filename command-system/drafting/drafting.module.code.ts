@@ -42,11 +42,11 @@ const NO_WARRANTS_AT = "runsWarrants: false"
 
 const DIFF_AT = "diff --git "
 
-export type Running = { readonly checks: boolean; readonly warrants: boolean }
+export type Running = { readonly checks: boolean; readonly writerOwesReading: boolean }
 
-export const AUTHORED: Running = { checks: true, warrants: true }
+export const AUTHORED: Running = { checks: true, writerOwesReading: true }
 
-const RUNS_NOTHING: Running = { checks: false, warrants: false }
+const RUNS_NOTHING: Running = { checks: false, writerOwesReading: false }
 
 export type Draft = {
   readonly path: string
@@ -208,17 +208,23 @@ export function runningIn(patch: string | null): Running {
   if (patch === null) return RUNS_NOTHING
   const at = patch.indexOf(DIFF_AT)
   const lines = (at < 0 ? patch : patch.slice(0, at)).split("\n")
-  return { checks: !lines.includes(NO_CHECKS_AT), warrants: !lines.includes(NO_WARRANTS_AT) }
+  return {
+    checks: !lines.includes(NO_CHECKS_AT),
+    writerOwesReading: !lines.includes(NO_WARRANTS_AT),
+  }
 }
 
 function eitherOf(one: Running, two: Running): Running {
-  return { checks: one.checks || two.checks, warrants: one.warrants || two.warrants }
+  return {
+    checks: one.checks || two.checks,
+    writerOwesReading: one.writerOwesReading || two.writerOwesReading,
+  }
 }
 
 function preambleOf(running: Running): string {
   const said = [
     ...(running.checks ? [] : [NO_CHECKS_AT]),
-    ...(running.warrants ? [] : [NO_WARRANTS_AT]),
+    ...(running.writerOwesReading ? [] : [NO_WARRANTS_AT]),
   ]
   return said.length === 0 ? "" : `${said.join("\n")}\n`
 }

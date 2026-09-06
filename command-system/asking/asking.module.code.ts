@@ -237,7 +237,7 @@ export function noCheckSaid(slug: string): string {
 export function runningOf(given: Given): Running {
   const kind = given.changeKind
   if (kind === undefined) return AUTHORED
-  return { checks: kind.runsChecks, warrants: kind.writerOwesReading }
+  return { checks: kind.runsChecks, writerOwesReading: kind.writerOwesReading }
 }
 
 function bypassIn(given: Given, asked: Asked): Bypass | null {

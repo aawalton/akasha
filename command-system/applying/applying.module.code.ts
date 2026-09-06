@@ -103,7 +103,8 @@ export async function applied(
   const said0 = running.checks ? message : bypassedIn(message, noCheckSaid(MECHANICAL.slug))
   const prepared = preparing(root, head, editsOf(said.held))
   const formatting = prepared.formatting
-  if (running.warrants && agentId !== null) warrantedAgain(root, agentId, said.held, said.moved)
+  if (running.writerOwesReading && agentId !== null)
+    warrantedAgain(root, agentId, said.held, said.moved)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
   const done = await landing(root, prepared.changes, said0, gate, writer, head, asRead, carries)
   if ("refusals" in done) return done

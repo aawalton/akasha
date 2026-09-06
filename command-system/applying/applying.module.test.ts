@@ -120,8 +120,10 @@ test("a patch carrying a conflict does not apply", async () => {
 test("a patch a mechanical draft opened is a diff git still reads", async () => {
   const root = await indexed()
   const draft = [{ path: PAGE, was: bytes(A), body: bytes(MORE) }]
-  expect("why" in drafted(root, PAGE, draft, { checks: false, warrants: false })).toBe(false)
-  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, warrants: false })
+  expect("why" in drafted(root, PAGE, draft, { checks: false, writerOwesReading: false })).toBe(
+    false
+  )
+  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, writerOwesReading: false })
   expect(() => gitSaid(root, ["apply", "--check", patchAt(PAGE) as string])).not.toThrow()
 })
 
