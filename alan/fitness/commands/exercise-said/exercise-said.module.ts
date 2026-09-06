@@ -13,7 +13,7 @@ export const exerciseSaid = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag named twice is refused rather than settled by the last one said.",
+      statement: "A flag named twice is refused rather than settled by the last flag said.",
     },
     {
       invariantKind: "departure",
