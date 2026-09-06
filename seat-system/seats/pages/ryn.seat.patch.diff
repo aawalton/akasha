@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/person-system/person-accesses/properties/person-access-serves.text-property.ts b/person-system/person-accesses/properties/person-access-serves.text-property.ts
+index ac7d9dc7eaac8f73bf6533525780bd6f0d10eeba..b71fdf29005b8dce0b44b1aa4b5aeb9a7dd25c83 100644
+--- a/person-system/person-accesses/properties/person-access-serves.text-property.ts
++++ b/person-system/person-accesses/properties/person-access-serves.text-property.ts
+@@ -14,7 +14,7 @@ export const personAccessServes = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A target serves a page type only where that target is a person's own copy of one.",
++        "A target serves a page type only where that target is a person's own copy of that page type.",
+     },
+     {
+       invariantKind: "stopgap",
