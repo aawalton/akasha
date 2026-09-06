@@ -244,10 +244,10 @@ index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..041bc1f9574edf2ec71e9a5dbb2e5efa
    listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
    schemaFiledFor(root, "relation-property", "extends-slug")
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
-index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..cbd7dba434ba195a91a37fca3c524ceef001c80f 100644
+index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..af9100ac3e34091eb3da3aa10d8f4008ca67f6d6 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
-@@ -135,13 +135,13 @@ test("a property the page type does not declare is refused", () => {
+@@ -135,15 +135,15 @@ test("a property the page type does not declare is refused", () => {
    ])
  })
  
@@ -262,8 +262,11 @@ index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..cbd7dba434ba195a91a37fca3c524cee
 -test("a list over the max its declaration states is refused", () => {
 +test("a list over the count its declaration states is refused", () => {
    expect(over({ id: "a", slug: "one", test: "ts", aids: ["x", "y", "z"] }, "check")).toEqual([
-     "holds 3 of `aids`, over the max of 2",
+-    "holds 3 of `aids`, over the max of 2",
++    "holds 3 of `aids`, over the count of 2",
    ])
+ })
+ 
 @@ -186,12 +186,14 @@ test("a record field naming its page type is read under the key its own property
  
  test("a record field's property page is reached by the page type its declaration names", () => {
