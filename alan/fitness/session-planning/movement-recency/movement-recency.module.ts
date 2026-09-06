@@ -18,7 +18,7 @@ export const movementRecency = {
     },
     {
       invariantKind: "departure",
-      statement: "The gain rises with the days since and stops at the saturation day.",
+      statement: "The gain rises with the days elapsed and stops at the saturation day.",
     },
     {
       invariantKind: "departure",
