@@ -9,7 +9,11 @@ export const supervisorLogSweeping = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every supervisor keeps a directory named for its agent, holding its socket.",
+      statement: "Every supervisor keeps a directory named for its agent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A supervisor's directory holds that supervisor's socket.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +57,7 @@ export const supervisorLogSweeping = {
     {
       invariantKind: "departure",
       statement:
-        "A file directly under the supervisors root, past the window, goes with the departed directories.",
+        "A file directly under the supervisors root past the window goes with the departed directories.",
     },
     {
       invariantKind: "departure",
@@ -69,8 +73,7 @@ export const supervisorLogSweeping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Nothing is taken away unless the sweep is asked to, because the removal cannot be undone.",
+      statement: "Nothing is taken away unless the sweep is asked to.",
     },
     {
       invariantKind: "gap",
