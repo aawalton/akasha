@@ -1,5 +1,6 @@
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
+import { rootOf } from "@akasha/command-system/rooting"
 import { listedFiled, rebuiltIn, schemaFiled } from "@akasha/indexes/testing"
 import type { Formatting } from "@akasha/pages/name-format/format-reaching"
 import { exportedAs } from "@akasha/pages/page-export-name"
@@ -406,9 +407,9 @@ const DEMANDS =
 
 export const NARROWED = `${DEMANDS}, { pagePropertySlug: "name", required: true, many: false }`
 
-const REPO = join(import.meta.dir, "..", "..", "..", "..", "..")
+const REPO = rootOf(import.meta.path)
 
-const RESTATEMENT = "akasha/agents/models/tests/pages/restatement/restatement.model-test.ts"
+const RESTATEMENT = "agents/models/tests/pages/restatement/restatement.model-test.ts"
 
 export const NO_ID = "keeps an entry of `cases` carrying no id, and every entry carries an id"
 
