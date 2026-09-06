@@ -1,9 +1,8 @@
-readersOweReading: false
 diff --git a/alan/harness/monarch/amazon-match/monarch-amazon-match.module.ts b/alan/harness/monarch/amazon-match/monarch-amazon-match.module.ts
-index dead489e220531989a292de590ff7f80a927e5b6..01b9100cbfb62336b94847a888db2519f9d6d486 100644
+index dead489e220531989a292de590ff7f80a927e5b6..8160c4307611b1e9ecbae14132a814367aa95fd2 100644
 --- a/alan/harness/monarch/amazon-match/monarch-amazon-match.module.ts
 +++ b/alan/harness/monarch/amazon-match/monarch-amazon-match.module.ts
-@@ -10,7 +10,7 @@ export const monarchAmazonMatch = {
+@@ -10,11 +10,15 @@ export const monarchAmazonMatch = {
      {
        invariantKind: "departure",
        statement:
@@ -12,7 +11,16 @@ index dead489e220531989a292de590ff7f80a927e5b6..01b9100cbfb62336b94847a888db2519
      },
      {
        invariantKind: "departure",
-@@ -46,7 +46,7 @@ export const monarchAmazonMatch = {
+-      statement: "A charge is matched only by a movement out, and a refund only by a movement in.",
++      statement: "A charge is matched only by a movement out.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A refund is matched only by a movement in.",
+     },
+     {
+       invariantKind: "departure",
+@@ -46,7 +50,7 @@ export const monarchAmazonMatch = {
      {
        invariantKind: "departure",
        statement:
