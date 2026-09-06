@@ -1,8 +1,22 @@
 diff --git a/command-system/commands/complexity/complexity.command.ts b/command-system/commands/complexity/complexity.command.ts
-index 3f38405f26c3a504998dfcc5c35aa031d3a5b3b5..3b2624cf8bebb73f56a1581879a5a3604f6cde4d 100644
+index 3f38405f26c3a504998dfcc5c35aa031d3a5b3b5..7e7c6cf10471bd4cca4d17bec68ab518867c4410 100644
 --- a/command-system/commands/complexity/complexity.command.ts
 +++ b/command-system/commands/complexity/complexity.command.ts
-@@ -78,7 +78,7 @@ export const complexity = {
+@@ -63,8 +63,11 @@ export const complexity = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A threshold is a floor for every metric but the maintainability index, a ceiling for that index.",
++      statement: "A threshold is a floor for every metric but the maintainability index.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A threshold is a ceiling for the maintainability index.",
+     },
+ 
+     {
+@@ -78,7 +81,7 @@ export const complexity = {
      {
        invariantKind: "stopgap",
        statement:
