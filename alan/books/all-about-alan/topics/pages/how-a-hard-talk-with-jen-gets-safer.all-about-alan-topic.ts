@@ -10,6 +10,4 @@ export const howAHardTalkWithJenGetsSafer = {
   relatedSlugs: ["how-an-alarm-wears-off", "what-comes-back-into-reach-as-i-climb"],
   settled:
     "The alarm is to her, not to criticism in general, so it cannot be practised on anybody easier.\n\nI start one only when I have the reserve to stay steady while she is not. My steadiness is the anchor.\n\nHeld steady, a trigger can fire without the talk tipping, and that is what re-teaches my body.\n\nRepeated enough, my steadiness lowers hers, and the loop that normally amplifies runs backwards.\n\nIt is not textbook exposure. What I fear is also my partner in it, and she cannot hold still on command.",
-  unsettled:
-    "What the rungs after the first one are is unbuilt, and grading by intensity does not work when the intensity is another person.\n\nWhether a physical proxy could tell me I have anchor-grade reserve right now would turn the go or no-go from a felt sense into an instrument.\n\nA pause we can both hold under stress, and a way to bring the stress down before trying again rather than carrying on already stressed, is missing.\n\nWhich subjects still have to be dosed down is not inventoried.",
 } as const satisfies AllAboutAlanTopic
