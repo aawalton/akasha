@@ -1,9 +1,9 @@
 import { literalOf, parsedAs } from "@akasha/code-system/code-source"
-import { respelled } from "@akasha/code-system/export-respelling"
 import { type Named, namersOf, slugsOfType } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import ts from "typescript"
+import { respelled } from "../../../../code-system/export-respelling/export-respelling.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 
 const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
