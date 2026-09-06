@@ -49,11 +49,12 @@ export const packageReachedWhereNamed = {
     {
       invariantKind: "departure",
       statement:
-        "A file reached inside a package standing inside another belongs to the inner one.",
+        "A file reached inside a package nested inside another package belongs to the inner package.",
     },
     {
       invariantKind: "departure",
-      statement: "The package a file belongs to is the only one answering for reaching that file.",
+      statement:
+        "The package a file belongs to is the only package answering for reaching that file.",
     },
     {
       invariantKind: "departure",
