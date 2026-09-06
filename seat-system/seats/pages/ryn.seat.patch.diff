@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.ts b/seat-system/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.ts
-index 3a161bf233be3b0785fee52831227e512463a987..19b5719314efb594cf5e14e74cd477e2b9047b34 100644
+index 3a161bf233be3b0785fee52831227e512463a987..be9dfc7f8264cc0018a26a25b3517984b5bab6b3 100644
 --- a/seat-system/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.ts
 +++ b/seat-system/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.ts
 @@ -19,7 +19,11 @@ export const supervisorIterationOutcomeDb = {
@@ -15,3 +15,16 @@ index 3a161bf233be3b0785fee52831227e512463a987..19b5719314efb594cf5e14e74cd477e2
      },
      {
        invariantKind: "departure",
+@@ -31,7 +35,11 @@ export const supervisorIterationOutcomeDb = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reaches a database; only the wait is bounded.",
++      statement: "Nothing here reaches a database.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Only the wait is bounded.",
+     },
+   ],
+ } as const satisfies Module
