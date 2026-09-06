@@ -1,0 +1,18 @@
+diff --git a/inference/pool/provision-script/provision-script.module.ts b/inference/pool/provision-script/provision-script.module.ts
+index 165c9601fae9ec805adc8fa91a8d509dbf53cecf..81955816bec04942b818528339181b3f97e5da00 100644
+--- a/inference/pool/provision-script/provision-script.module.ts
++++ b/inference/pool/provision-script/provision-script.module.ts
+@@ -18,8 +18,11 @@ export const provisionScript = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An always-on service is loaded at login and kept alive; a pool service is neither.",
++      statement: "An always-on service is loaded at login and kept alive.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A pool service is not loaded at login and is not kept alive.",
+     },
+     {
+       invariantKind: "departure",
