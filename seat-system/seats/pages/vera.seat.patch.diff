@@ -1,0 +1,1757 @@
+runsWarrants: false
+diff --git a/alan/chess/chess-games/chess-game.page-type.ts b/alan/chess/chess-games/chess-game.page-type.ts
+index 7032035d039e7cbaef4821b55a96b1de6396b8fb..6be03ce410fcd3c171424936163cfdb0d32b225d 100644
+--- a/alan/chess/chess-games/chess-game.page-type.ts
++++ b/alan/chess/chess-games/chess-game.page-type.ts
+@@ -1,6 +1,6 @@
+ import type { Page } from "@akasha/pages/page"
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { ExternalId } from "../../../collections/collection-externals/properties/external-id.text-property.ts"
++import type { ExternalId } from "../../../collections/externals/properties/external-id.text-property.ts"
+ import type { Title } from "../../../pages/properties/title.text-property.ts"
+ import type { PlayedAt } from "../../tracking/daily/eso-days/properties/played-at.instant-property.ts"
+ import type { ChessBlack } from "./properties/chess-black.text-property.ts"
+diff --git a/alan/library/reading/authors/author.page-type.ts b/alan/library/reading/authors/author.page-type.ts
+index a4932c5779f2999be12cb10f2508df36f1ac2732..701479279253934fda99f70798cc8d4832370fe0 100644
+--- a/alan/library/reading/authors/author.page-type.ts
++++ b/alan/library/reading/authors/author.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ 
+ export type Author = CollectionExternal & {
+diff --git a/alan/library/reading/book-collections/book-collection.page-type.ts b/alan/library/reading/book-collections/book-collection.page-type.ts
+index d204aa5a0854f31ce90a275bde87a5e0927a8fae..d7b7b612954cc4c8c1d1584610d699e8c2f1d1d7 100644
+--- a/alan/library/reading/book-collections/book-collection.page-type.ts
++++ b/alan/library/reading/book-collections/book-collection.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ 
+ export type BookCollection = CollectionExternal & {
+diff --git a/alan/library/reading/book-series/book-series.page-type.ts b/alan/library/reading/book-series/book-series.page-type.ts
+index c1b4a5fbbc0fc5a2b4a542e408b8817a09c4fb84..4870f1e8ca0138ec0f178f2cc00ca320e633a9ce 100644
+--- a/alan/library/reading/book-series/book-series.page-type.ts
++++ b/alan/library/reading/book-series/book-series.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { MaturityRating } from "./properties/maturity-rating.select-property.ts"
+ 
+diff --git a/alan/library/reading/books/book.page-type.ts b/alan/library/reading/books/book.page-type.ts
+index fa8c396d28ae49aaa9bb88cced6831b78f672082..2773d15ca1943b6d10841b02033b8f0792ef194e 100644
+--- a/alan/library/reading/books/book.page-type.ts
++++ b/alan/library/reading/books/book.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { Isbn } from "./properties/isbn.text-property.ts"
+ import type { Isbn13 } from "./properties/isbn13.text-property.ts"
+diff --git a/alan/library/reading/scripture-collections/scripture-collection.page-type.ts b/alan/library/reading/scripture-collections/scripture-collection.page-type.ts
+index 31e7de589613273fcf4ce1d2fc5adac4323cc89c..a7bc66e96b63f12d1cbd2ccb58d00c04a6f2a599 100644
+--- a/alan/library/reading/scripture-collections/scripture-collection.page-type.ts
++++ b/alan/library/reading/scripture-collections/scripture-collection.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ 
+ export type ScriptureCollection = CollectionExternal & {
+diff --git a/alan/library/reading/scripture-passages/scripture-passage.page-type.ts b/alan/library/reading/scripture-passages/scripture-passage.page-type.ts
+index d406fb0bc764d2e56cd5ca39503c7b08504392f0..3005e6131383e39c11b6e5cfc92ce3203ba543b3 100644
+--- a/alan/library/reading/scripture-passages/scripture-passage.page-type.ts
++++ b/alan/library/reading/scripture-passages/scripture-passage.page-type.ts
+@@ -1,6 +1,6 @@
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { Collection } from "../../../../collections/collection.page-type.ts"
+-import type { ExternalId } from "../../../../collections/collection-externals/properties/external-id.text-property.ts"
++import type { ExternalId } from "../../../../collections/externals/properties/external-id.text-property.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { PassageText } from "./properties/passage-text.file-property.ts"
+ import type { ScriptureBook } from "./properties/scripture-book.text-property.ts"
+diff --git a/alan/library/studying/great-courses-collections/great-courses-collection.page-type.ts b/alan/library/studying/great-courses-collections/great-courses-collection.page-type.ts
+index d044fa5d092735abd7fe9a5b0d0ec06136ebe5d1..ec06d2e330c2817fd34bda6f3afb7fed4def4241 100644
+--- a/alan/library/studying/great-courses-collections/great-courses-collection.page-type.ts
++++ b/alan/library/studying/great-courses-collections/great-courses-collection.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ 
+ export type GreatCoursesCollection = CollectionExternal & {
+diff --git a/alan/library/studying/great-courses-subjects/great-courses-subject.page-type.ts b/alan/library/studying/great-courses-subjects/great-courses-subject.page-type.ts
+index a3f3b77352181984967c3a0f247de6d9db75e1e1..9e588e04ee2978f9a6f054b48f6849c2a2479584 100644
+--- a/alan/library/studying/great-courses-subjects/great-courses-subject.page-type.ts
++++ b/alan/library/studying/great-courses-subjects/great-courses-subject.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ 
+ export type GreatCoursesSubject = CollectionExternal & {
+diff --git a/alan/library/studying/great-courses/great-course.page-type.ts b/alan/library/studying/great-courses/great-course.page-type.ts
+index 02b6cb0724fd11211468f8cb94972d3a70a89cf5..e0c50ea1e41b8607e99096f288be9fbeec697021 100644
+--- a/alan/library/studying/great-courses/great-course.page-type.ts
++++ b/alan/library/studying/great-courses/great-course.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ 
+ export type GreatCourse = CollectionExternal & {
+diff --git a/alan/library/watching/episodes/episode.page-type.ts b/alan/library/watching/episodes/episode.page-type.ts
+index ecbd60abdd86e069ba1fbe1a53211ab38e4487c3..bdcbf5d330a7470438a91cff799d015baaea0cb1 100644
+--- a/alan/library/watching/episodes/episode.page-type.ts
++++ b/alan/library/watching/episodes/episode.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { VoteAverage } from "../properties/vote-average.number-property.ts"
+ import type { EpisodeType } from "./properties/episode-type.select-property.ts"
+diff --git a/alan/library/watching/fandoms/fandom.page-type.ts b/alan/library/watching/fandoms/fandom.page-type.ts
+index 9dbe032a0f82cb99044451d54da2568a5c185539..54d3c3e26b26d86ec1bddab58ac11f8fc5c624bc 100644
+--- a/alan/library/watching/fandoms/fandom.page-type.ts
++++ b/alan/library/watching/fandoms/fandom.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ 
+ export type Fandom = CollectionExternal & {
+diff --git a/alan/library/watching/franchises/franchise.page-type.ts b/alan/library/watching/franchises/franchise.page-type.ts
+index 1373aee7675a7195270373baaf87afd4fc88135f..76428d1f66b752af8d49829703d40aadb8fcd7d3 100644
+--- a/alan/library/watching/franchises/franchise.page-type.ts
++++ b/alan/library/watching/franchises/franchise.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ 
+ export type Franchise = CollectionExternal & {
+diff --git a/alan/library/watching/movies/movie.page-type.ts b/alan/library/watching/movies/movie.page-type.ts
+index 5911de3b779fd0d1f1e65052b8d3fb29749ef380..e6721963aebfc6053ac23fda7f0bc8d5ebacea83 100644
+--- a/alan/library/watching/movies/movie.page-type.ts
++++ b/alan/library/watching/movies/movie.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { Genres } from "../properties/genres.text-property.ts"
+ import type { ImdbId } from "../properties/imdb-id.text-property.ts"
+diff --git a/alan/library/watching/seasons/season.page-type.ts b/alan/library/watching/seasons/season.page-type.ts
+index 7e284dda8abbd64d131d9f6697e041601caf3cf5..bddbbff651d8c30d6196c71b704192a24423601b 100644
+--- a/alan/library/watching/seasons/season.page-type.ts
++++ b/alan/library/watching/seasons/season.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { PosterPath } from "../properties/poster-path.text-property.ts"
+ import type { VoteAverage } from "../properties/vote-average.number-property.ts"
+diff --git a/alan/library/watching/show-collections/show-collection.page-type.ts b/alan/library/watching/show-collections/show-collection.page-type.ts
+index dbde66710d80cc3b1cbfeb84d0bd627ae47b0091..5ab989bc1a85c6dce81165b61e759a41c5d4fde3 100644
+--- a/alan/library/watching/show-collections/show-collection.page-type.ts
++++ b/alan/library/watching/show-collections/show-collection.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ 
+ export type ShowCollection = CollectionExternal & {
+diff --git a/alan/library/watching/shows/show.page-type.ts b/alan/library/watching/shows/show.page-type.ts
+index a203f713550fab38e544a7a199126a411a5698e0..9a761d950bda8938d296516b2158c5387bcd070c 100644
+--- a/alan/library/watching/shows/show.page-type.ts
++++ b/alan/library/watching/shows/show.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { Genres } from "../properties/genres.text-property.ts"
+ import type { ImdbId } from "../properties/imdb-id.text-property.ts"
+diff --git a/alan/music/catalog/artists/artist.page-type.ts b/alan/music/catalog/artists/artist.page-type.ts
+index c959a668fa173f0b715a7e11fb8d0d8f572fb486..ea74f3708beeba973797d8b6523feef5e4137371 100644
+--- a/alan/music/catalog/artists/artist.page-type.ts
++++ b/alan/music/catalog/artists/artist.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { ArtistGenre } from "./properties/artist-genre.text-property.ts"
+ import type { Reaction } from "./properties/reaction.file-property.ts"
+diff --git a/alan/music/catalog/releases/release.page-type.ts b/alan/music/catalog/releases/release.page-type.ts
+index 4c286cd861a428fefc7e1de4ac74f6657dd3978e..5429ffe4e4793b5c3dc0623bfd39d88bdba626ec 100644
+--- a/alan/music/catalog/releases/release.page-type.ts
++++ b/alan/music/catalog/releases/release.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ 
+ export type Release = CollectionExternal & {
+diff --git a/alan/music/catalog/songs/song.page-type.ts b/alan/music/catalog/songs/song.page-type.ts
+index ebfac1bfec5f8a4ea25d2cfe0337cc68da24b2eb..b5382e3a2443521a27a66e57daa8847b4d75ad76 100644
+--- a/alan/music/catalog/songs/song.page-type.ts
++++ b/alan/music/catalog/songs/song.page-type.ts
+@@ -1,6 +1,6 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
+-import type { ExternalId } from "../../../../collections/collection-externals/properties/external-id.text-property.ts"
++import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
++import type { ExternalId } from "../../../../collections/externals/properties/external-id.text-property.ts"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { ArtistSlug } from "./properties/artist-slug.relation-property.ts"
+ import type { Insights } from "./properties/insights.file-property.ts"
+diff --git a/collections/collection-externals/collection-external.page-type.ts b/collections/collection-externals/collection-external.page-type.ts
+deleted file mode 100644
+index 5298a1a941e0ab34dd89957daa7a1833310faa96..0000000000000000000000000000000000000000
+--- a/collections/collection-externals/collection-external.page-type.ts
++++ /dev/null
+@@ -1,52 +0,0 @@
+-import type { PageType } from "@akasha/pages/page-type"
+-import type { Collection } from "../collection.page-type.ts"
+-import type { ExternalId } from "./properties/external-id.text-property.ts"
+-import type { ExternalLink } from "./properties/external-link.url-property.ts"
+-import type { LastSyncedAt } from "./properties/last-synced-at.calendar-date-property.ts"
+-import type { Source } from "./properties/source.text-property.ts"
+-
+-export type CollectionExternal = Collection & {
+-  externalId?: ExternalId
+-  externalLink?: ExternalLink
+-  source?: Source
+-  lastSyncedAt?: LastSyncedAt
+-}
+-
+-export const collectionExternal = {
+-  id: "01a063de-2c60-701b-ab74-7e3436f4abe3",
+-  pageTypeSlug: "page-type",
+-  slug: "collection-external",
+-  definition: "a collection a provider outside akasha is the record of",
+-  pluralSlug: "collection-externals",
+-  partSlugs: [
+-    "calendar-date-property/last-synced-at",
+-    "text-property/external-id",
+-    "text-property/source",
+-    "url-property/external-link",
+-  ],
+-  extendsSlug: ["page-type/collection"],
+-  properties: [
+-    { pagePropertySlug: "external-id", required: false, many: false },
+-    { pagePropertySlug: "external-link", required: false, many: false },
+-    { pagePropertySlug: "source", required: false, many: false },
+-    { pagePropertySlug: "last-synced-at", required: false, many: false },
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A field the provider does not answer with is left as the field was.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The values a person records about a collection outlive every sync.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A provider that answered with no id leaves the collection stating none.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A collection never synced states no moment that collection was synced at.",
+-    },
+-  ],
+-} as const satisfies PageType
+diff --git a/collections/collection-externals/properties/external-id.text-property.ts b/collections/collection-externals/properties/external-id.text-property.ts
+deleted file mode 100644
+index 58435225fdee5bf8aa4aabdb36cb095ef439f939..0000000000000000000000000000000000000000
+--- a/collections/collection-externals/properties/external-id.text-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type ExternalId = string
+-
+-export const externalId = {
+-  id: "01a063de-2c60-701c-a29a-210d22f0ac68",
+-  pageTypeSlug: "text-property",
+-  slug: "external-id",
+-  propertySlug: "external-id",
+-  definition: "the id the source gives a collection",
+-  max: 100,
+-  nameFormatSlug: null,
+-} as const satisfies TextProperty
+diff --git a/collections/collection-externals/properties/external-link.url-property.ts b/collections/collection-externals/properties/external-link.url-property.ts
+deleted file mode 100644
+index 8390baf27872c0785499a6436b40006bff90582e..0000000000000000000000000000000000000000
+--- a/collections/collection-externals/properties/external-link.url-property.ts
++++ /dev/null
+@@ -1,12 +0,0 @@
+-import type { UrlProperty } from "@akasha/pages/url-property"
+-
+-export type ExternalLink = string
+-
+-export const externalLink = {
+-  id: "01a063de-2c60-701d-a691-4a8731d32875",
+-  pageTypeSlug: "url-property",
+-  slug: "external-link",
+-  propertySlug: "external-link",
+-  definition: "the page at the source a collection was read from",
+-  max: 200,
+-} as const satisfies UrlProperty
+diff --git a/collections/collection-externals/properties/last-synced-at.calendar-date-property.ts b/collections/collection-externals/properties/last-synced-at.calendar-date-property.ts
+deleted file mode 100644
+index ecd63ac584ac2fa1c87eb57961d497f981dc1128..0000000000000000000000000000000000000000
+--- a/collections/collection-externals/properties/last-synced-at.calendar-date-property.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { CalendarDateProperty } from "@akasha/pages/calendar-date-property"
+-
+-export type LastSyncedAt = string
+-
+-export const lastSyncedAt = {
+-  id: "01a063de-2c60-701f-a275-5b8d3b2d03bb",
+-  pageTypeSlug: "calendar-date-property",
+-  slug: "last-synced-at",
+-  propertySlug: "last-synced-at",
+-  definition: "the day a collection was last read from its source",
+-} as const satisfies CalendarDateProperty
+diff --git a/collections/collection-externals/properties/source.text-property.ts b/collections/collection-externals/properties/source.text-property.ts
+deleted file mode 100644
+index f57465842655d28e78929b8d3054a08334550af4..0000000000000000000000000000000000000000
+--- a/collections/collection-externals/properties/source.text-property.ts
++++ /dev/null
+@@ -1,34 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type Source =
+-  | "kindle"
+-  | "musicbrainz"
+-  | "open-library"
+-  | "royal-road"
+-  | "the-great-courses"
+-  | "the-wandering-inn"
+-  | "tmdb"
+-
+-export const source = {
+-  id: "01a063de-2c60-701e-9aed-2067429a2664",
+-  pageTypeSlug: "text-property",
+-  slug: "source",
+-  propertySlug: "source",
+-  definition: "where a collection was imported from",
+-  max: 100,
+-  nameFormatSlug: "name-format/lower-kebab-case",
+-  invariants: [
+-    {
+-      invariantKind: "absence",
+-      statement: "No page names `spotify` as a source.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A provider is named here before a page may state that provider.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "This property is a select over the providers akasha reads from.",
+-    },
+-  ],
+-} as const satisfies TextProperty
+diff --git a/collections/collection-types/collection-type.page-type.ts b/collections/collection-types/collection-type.page-type.ts
+deleted file mode 100644
+index da2236228efdead8f927754c73f40fa5accbba0c..0000000000000000000000000000000000000000
+--- a/collections/collection-types/collection-type.page-type.ts
++++ /dev/null
+@@ -1,41 +0,0 @@
+-import type { Page } from "@akasha/pages/page"
+-import type { PageType } from "@akasha/pages/page-type"
+-import type { Title } from "../../pages/properties/title.text-property.ts"
+-import type { UnitSlug } from "../properties/unit-slug.relation-property.ts"
+-import type { CollectionTypeStatus } from "./properties/collection-type-status.select-property.ts"
+-
+-export type CollectionType = Page & {
+-  title: Title
+-  unitSlug: UnitSlug
+-  collectionTypeStatus: CollectionTypeStatus
+-}
+-
+-export const collectionType = {
+-  id: "01a0680f-6f00-7001-b374-6d2a9f5c6102",
+-  pageTypeSlug: "page-type",
+-  slug: "collection-type",
+-  definition: "a kind of thing collected, and what one of that kind is measured in",
+-  pluralSlug: "collection-types",
+-  extendsSlug: ["page-type/page"],
+-  partSlugs: ["select-property/collection-type-status"],
+-  properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "unit-slug", required: true, many: false },
+-    { pagePropertySlug: "collection-type-status", required: true, many: false },
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A collection takes its unit from its kind unless the collection states its own.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A collection's `type` names the kind.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement:
+-        "Six thousand collections of these kinds sit outside akasha and have no page of their own.",
+-    },
+-  ],
+-} as const satisfies PageType
+diff --git a/collections/collection-types/pages/artist-collection.collection-type.ts b/collections/collection-types/pages/artist-collection.collection-type.ts
+deleted file mode 100644
+index d95068363385e9b87ea0b758b6bad34bb7715116..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/artist-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const artistCollection = {
+-  id: "01a06579-855c-7000-8eee-000c8f802cf9",
+-  pageTypeSlug: "collection-type",
+-  slug: "artist-collection",
+-  title: "Artist Collection",
+-  unitSlug: "minutes",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/artist.collection-type.ts b/collections/collection-types/pages/artist.collection-type.ts
+deleted file mode 100644
+index 129a5e5eda99204c404018b19f9425d99c4138d0..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/artist.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const artist = {
+-  id: "01a06579-855c-7001-8e2b-9d3bf35bfae6",
+-  pageTypeSlug: "collection-type",
+-  slug: "artist",
+-  title: "Artist",
+-  unitSlug: "minutes",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/author-collection.collection-type.ts b/collections/collection-types/pages/author-collection.collection-type.ts
+deleted file mode 100644
+index 1412d56584faaab37e5a079ffb7d945805c5065b..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/author-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const authorCollection = {
+-  id: "01a06579-855c-7002-a4b8-1a1937eb6822",
+-  pageTypeSlug: "collection-type",
+-  slug: "author-collection",
+-  title: "Author Collection",
+-  unitSlug: "words",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/author.collection-type.ts b/collections/collection-types/pages/author.collection-type.ts
+deleted file mode 100644
+index 8927d463e1fbe3b40782ad3191b0eccf30af9082..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/author.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const author = {
+-  id: "01a06579-855d-7000-a75f-3c6b6c6218d7",
+-  pageTypeSlug: "collection-type",
+-  slug: "author",
+-  title: "Author",
+-  unitSlug: "words",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/book-collection.collection-type.ts b/collections/collection-types/pages/book-collection.collection-type.ts
+deleted file mode 100644
+index a589f9759bd20a6e50a1c2c96bcad6c513f0ec3f..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/book-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const bookCollection = {
+-  id: "01a06579-855d-7001-ac63-0eab7a76b0e0",
+-  pageTypeSlug: "collection-type",
+-  slug: "book-collection",
+-  title: "Book Collection",
+-  unitSlug: "words",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/book-series.collection-type.ts b/collections/collection-types/pages/book-series.collection-type.ts
+deleted file mode 100644
+index 5f6e9716ea167d2244c1b450f300a851c515fb99..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/book-series.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const bookSeries = {
+-  id: "01a06579-855d-7002-ab9f-05d44875e69d",
+-  pageTypeSlug: "collection-type",
+-  slug: "book-series",
+-  title: "Book Series",
+-  unitSlug: "words",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/book.collection-type.ts b/collections/collection-types/pages/book.collection-type.ts
+deleted file mode 100644
+index 82637edf961cd877f85c853775bcff0dee6798fe..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/book.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const book = {
+-  id: "01a06579-855d-7003-b22a-9cb72fdef468",
+-  pageTypeSlug: "collection-type",
+-  slug: "book",
+-  title: "Book",
+-  unitSlug: "words",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/comic-collection.collection-type.ts b/collections/collection-types/pages/comic-collection.collection-type.ts
+deleted file mode 100644
+index 0699c7248132ec0015160f8e668e2b3e2038f368..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/comic-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const comicCollection = {
+-  id: "01a06579-855d-7004-b7ac-68a1894b53de",
+-  pageTypeSlug: "collection-type",
+-  slug: "comic-collection",
+-  title: "Comic Collection",
+-  unitSlug: "words",
+-  collectionTypeStatus: "someday-maybe",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/elder-scrolls-online-collection.collection-type.ts b/collections/collection-types/pages/elder-scrolls-online-collection.collection-type.ts
+deleted file mode 100644
+index c7d689c7dbabf6e0149dd62926a0eafbf69b8732..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/elder-scrolls-online-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const elderScrollsOnlineCollection = {
+-  id: "01a06579-855d-7005-bca6-bb824f7e45bb",
+-  pageTypeSlug: "collection-type",
+-  slug: "elder-scrolls-online-collection",
+-  title: "Elder Scrolls Online Collection",
+-  unitSlug: "words",
+-  collectionTypeStatus: "someday-maybe",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/fandom-collection.collection-type.ts b/collections/collection-types/pages/fandom-collection.collection-type.ts
+deleted file mode 100644
+index 419d96aa07af9d42bd0f898195b57bc69c638996..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/fandom-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const fandomCollection = {
+-  id: "01a06579-855d-7006-89d8-d47ae525e6ef",
+-  pageTypeSlug: "collection-type",
+-  slug: "fandom-collection",
+-  title: "Fandom Collection",
+-  unitSlug: "words",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/fandom.collection-type.ts b/collections/collection-types/pages/fandom.collection-type.ts
+deleted file mode 100644
+index e5313311d1c958c0d381b58c831eb01430a3b370..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/fandom.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const fandom = {
+-  id: "01a06579-855d-7007-a64d-391f8a38ae5a",
+-  pageTypeSlug: "collection-type",
+-  slug: "fandom",
+-  title: "Fandom",
+-  unitSlug: "words",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/game-achievement.collection-type.ts b/collections/collection-types/pages/game-achievement.collection-type.ts
+deleted file mode 100644
+index 502d2207b5a13fcfafb36dd338558fa47858f984..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/game-achievement.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const gameAchievement = {
+-  id: "01a06579-855d-7008-83ad-e42b509d6353",
+-  pageTypeSlug: "collection-type",
+-  slug: "game-achievement",
+-  title: "Game Achievement",
+-  unitSlug: "words",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/great-course.collection-type.ts b/collections/collection-types/pages/great-course.collection-type.ts
+deleted file mode 100644
+index 527770e19df6402bef0b4b46449d5984a675a13f..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/great-course.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const greatCourse = {
+-  id: "01a06579-855d-7009-a1a7-1b4fb58f4a12",
+-  pageTypeSlug: "collection-type",
+-  slug: "great-course",
+-  title: "Great Course",
+-  unitSlug: "minutes",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/great-courses-collection.collection-type.ts b/collections/collection-types/pages/great-courses-collection.collection-type.ts
+deleted file mode 100644
+index cefab08da02ed712b619ae1ff3b3ea724333eead..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/great-courses-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const greatCoursesCollection = {
+-  id: "01a06579-855d-700a-bca4-86ddbc615484",
+-  pageTypeSlug: "collection-type",
+-  slug: "great-courses-collection",
+-  title: "Great Courses Collection",
+-  unitSlug: "minutes",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/great-courses-subject.collection-type.ts b/collections/collection-types/pages/great-courses-subject.collection-type.ts
+deleted file mode 100644
+index ae59c8834df6588ceff3eef60d4e72602188015c..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/great-courses-subject.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const greatCoursesSubject = {
+-  id: "01a06579-855d-700b-a812-893736784813",
+-  pageTypeSlug: "collection-type",
+-  slug: "great-courses-subject",
+-  title: "Great Courses Subject",
+-  unitSlug: "minutes",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/litrpg-collection.collection-type.ts b/collections/collection-types/pages/litrpg-collection.collection-type.ts
+deleted file mode 100644
+index 4a06887aa502ad126737e90b36ec2564ca4f22ba..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/litrpg-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const litrpgCollection = {
+-  id: "01a06579-855d-700c-b5f9-b1bd806cca83",
+-  pageTypeSlug: "collection-type",
+-  slug: "litrpg-collection",
+-  title: "LitRPG Collection",
+-  unitSlug: "words",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/litrpg.collection-type.ts b/collections/collection-types/pages/litrpg.collection-type.ts
+deleted file mode 100644
+index c1e98e1c026e59a91a3c265d99f51e7eb6d3cfeb..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/litrpg.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const litrpg = {
+-  id: "01a06579-855d-700d-b78c-db789b3c2d70",
+-  pageTypeSlug: "collection-type",
+-  slug: "litrpg",
+-  title: "LitRPG",
+-  unitSlug: "words",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/movie.collection-type.ts b/collections/collection-types/pages/movie.collection-type.ts
+deleted file mode 100644
+index cbc2387e41a3885e2384a8817848b53540d2e224..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/movie.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const movie = {
+-  id: "01a06579-855d-700e-9aa9-9c4a0d2b2c36",
+-  pageTypeSlug: "collection-type",
+-  slug: "movie",
+-  title: "Movie",
+-  unitSlug: "minutes",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/recipe-collection.collection-type.ts b/collections/collection-types/pages/recipe-collection.collection-type.ts
+deleted file mode 100644
+index 15af1790f45a2f0f99566d1d532629bfdbd65bc1..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/recipe-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const recipeCollection = {
+-  id: "01a06579-855d-700f-ae15-ab94a81f8ad7",
+-  pageTypeSlug: "collection-type",
+-  slug: "recipe-collection",
+-  title: "Recipe Collection",
+-  unitSlug: "words",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/recipe.collection-type.ts b/collections/collection-types/pages/recipe.collection-type.ts
+deleted file mode 100644
+index 365287137190bb6df31104716e1e989da7d1a671..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/recipe.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const recipe = {
+-  id: "01a06579-855d-7010-9a4a-32649765375d",
+-  pageTypeSlug: "collection-type",
+-  slug: "recipe",
+-  title: "Recipe",
+-  unitSlug: "words",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/release-collection.collection-type.ts b/collections/collection-types/pages/release-collection.collection-type.ts
+deleted file mode 100644
+index 7bfb6071dfe13bb5b2bf44a2cb01056941f6e283..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/release-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const releaseCollection = {
+-  id: "01a06579-855d-7011-a8f6-26412a1a4a6f",
+-  pageTypeSlug: "collection-type",
+-  slug: "release-collection",
+-  title: "Release Collection",
+-  unitSlug: "minutes",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/release.collection-type.ts b/collections/collection-types/pages/release.collection-type.ts
+deleted file mode 100644
+index 7d3eac16c557e446bc3ab9280c797e6b2dd9721b..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/release.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const release = {
+-  id: "01a06579-855d-7012-a45a-0f4a23d26caa",
+-  pageTypeSlug: "collection-type",
+-  slug: "release",
+-  title: "Release",
+-  unitSlug: "minutes",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/restaurant-collection.collection-type.ts b/collections/collection-types/pages/restaurant-collection.collection-type.ts
+deleted file mode 100644
+index f50eb15e018aced636bff5bb6940ac8292fc5884..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/restaurant-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const restaurantCollection = {
+-  id: "01a06579-855d-7013-a474-1fadfa2e42b3",
+-  pageTypeSlug: "collection-type",
+-  slug: "restaurant-collection",
+-  title: "Restaurant Collection",
+-  unitSlug: "words",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/restaurant-menu-item.collection-type.ts b/collections/collection-types/pages/restaurant-menu-item.collection-type.ts
+deleted file mode 100644
+index 6f384ef7b961c496c6d71c7ff24a1504e9f7fbef..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/restaurant-menu-item.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const restaurantMenuItem = {
+-  id: "01a06579-855d-7014-8763-cf229a87fd77",
+-  pageTypeSlug: "collection-type",
+-  slug: "restaurant-menu-item",
+-  title: "Restaurant Menu Item",
+-  unitSlug: "words",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/restaurants.collection-type.ts b/collections/collection-types/pages/restaurants.collection-type.ts
+deleted file mode 100644
+index 856082cc87000c03a20ac46b84b41243d559cbeb..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/restaurants.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const restaurants = {
+-  id: "01a06579-855d-7015-8fbe-5f32399190bf",
+-  pageTypeSlug: "collection-type",
+-  slug: "restaurants",
+-  title: "Restaurants",
+-  unitSlug: "words",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/scripture-chapter.collection-type.ts b/collections/collection-types/pages/scripture-chapter.collection-type.ts
+deleted file mode 100644
+index 1f65a829e81944907ae37c08e1f82f91851eb0be..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/scripture-chapter.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const scriptureChapter = {
+-  id: "01a06579-855d-7016-95f5-101684960f7d",
+-  pageTypeSlug: "collection-type",
+-  slug: "scripture-chapter",
+-  title: "Scripture Chapter",
+-  unitSlug: "words",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/scripture-collection.collection-type.ts b/collections/collection-types/pages/scripture-collection.collection-type.ts
+deleted file mode 100644
+index 78eb4be14d234bd35e1331cf89a95b799edbb799..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/scripture-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const scriptureCollection = {
+-  id: "01a06579-855d-7017-a844-bca1465c5748",
+-  pageTypeSlug: "collection-type",
+-  slug: "scripture-collection",
+-  title: "Scripture Collection",
+-  unitSlug: "words",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/season.collection-type.ts b/collections/collection-types/pages/season.collection-type.ts
+deleted file mode 100644
+index de4e10f046e29b3a947fa6d65e083f8c3e77942f..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/season.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const season = {
+-  id: "01a06579-855d-7018-95ee-be93ba336738",
+-  pageTypeSlug: "collection-type",
+-  slug: "season",
+-  title: "Season",
+-  unitSlug: "minutes",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/show-collection.collection-type.ts b/collections/collection-types/pages/show-collection.collection-type.ts
+deleted file mode 100644
+index c11f05f159ebc7ea21d111fb9411428d29e9cc36..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/show-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const showCollection = {
+-  id: "01a06579-855d-7019-991c-1f9f7b13c39c",
+-  pageTypeSlug: "collection-type",
+-  slug: "show-collection",
+-  title: "Show Collection",
+-  unitSlug: "minutes",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/show.collection-type.ts b/collections/collection-types/pages/show.collection-type.ts
+deleted file mode 100644
+index b25794a73192a96457e17b35db52ee516662d65f..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/show.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const show = {
+-  id: "01a06579-855d-701a-b01e-80c9b9a561eb",
+-  pageTypeSlug: "collection-type",
+-  slug: "show",
+-  title: "Show",
+-  unitSlug: "minutes",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/the-wandering-inn-chapter.collection-type.ts b/collections/collection-types/pages/the-wandering-inn-chapter.collection-type.ts
+deleted file mode 100644
+index 786ac27c59f8ba85229b1f9131bfa92348088f7b..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/the-wandering-inn-chapter.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const theWanderingInnChapter = {
+-  id: "01a06579-855d-701b-8c66-0cbe1ad7e7d0",
+-  pageTypeSlug: "collection-type",
+-  slug: "the-wandering-inn-chapter",
+-  title: "The Wandering Inn Chapter",
+-  unitSlug: "words",
+-  collectionTypeStatus: "done",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/pages/travel-collection.collection-type.ts b/collections/collection-types/pages/travel-collection.collection-type.ts
+deleted file mode 100644
+index 4e3c4c354cbe9a2a13e05711b8c98110098d4e1a..0000000000000000000000000000000000000000
+--- a/collections/collection-types/pages/travel-collection.collection-type.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CollectionType } from "../collection-type.page-type.ts"
+-
+-export const travelCollection = {
+-  id: "01a06579-855d-701c-bd66-636fd33e97a8",
+-  pageTypeSlug: "collection-type",
+-  slug: "travel-collection",
+-  title: "Travel Collection",
+-  unitSlug: "words",
+-  collectionTypeStatus: "not-doing",
+-} as const satisfies CollectionType
+diff --git a/collections/collection-types/properties/collection-type-status.select-property.ts b/collections/collection-types/properties/collection-type-status.select-property.ts
+deleted file mode 100644
+index cdd7fb7a5b0b3380de94b0e5d92a04d14f29ffb9..0000000000000000000000000000000000000000
+--- a/collections/collection-types/properties/collection-type-status.select-property.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import type { SelectProperty } from "@akasha/pages/select-property"
+-
+-export const collectionTypeStatus = {
+-  id: "01a0680f-6f00-7000-9a52-4c7b3d8e6101",
+-  pageTypeSlug: "select-property",
+-  slug: "collection-type-status",
+-  propertySlug: "collection-type-status",
+-  definition: "how far a person has got with gathering a kind of thing at all",
+-  values: ["done", "not-doing", "someday-maybe"],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "This property says whether the kind is gathered, not how far one collection has got.",
+-    },
+-  ],
+-} as const satisfies SelectProperty
+-
+-export type CollectionTypeStatus = (typeof collectionTypeStatus.values)[number]
+diff --git a/collections/externals/collection-external.page-type.ts b/collections/externals/collection-external.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5298a1a941e0ab34dd89957daa7a1833310faa96
+--- /dev/null
++++ b/collections/externals/collection-external.page-type.ts
+@@ -0,0 +1,52 @@
++import type { PageType } from "@akasha/pages/page-type"
++import type { Collection } from "../collection.page-type.ts"
++import type { ExternalId } from "./properties/external-id.text-property.ts"
++import type { ExternalLink } from "./properties/external-link.url-property.ts"
++import type { LastSyncedAt } from "./properties/last-synced-at.calendar-date-property.ts"
++import type { Source } from "./properties/source.text-property.ts"
++
++export type CollectionExternal = Collection & {
++  externalId?: ExternalId
++  externalLink?: ExternalLink
++  source?: Source
++  lastSyncedAt?: LastSyncedAt
++}
++
++export const collectionExternal = {
++  id: "01a063de-2c60-701b-ab74-7e3436f4abe3",
++  pageTypeSlug: "page-type",
++  slug: "collection-external",
++  definition: "a collection a provider outside akasha is the record of",
++  pluralSlug: "collection-externals",
++  partSlugs: [
++    "calendar-date-property/last-synced-at",
++    "text-property/external-id",
++    "text-property/source",
++    "url-property/external-link",
++  ],
++  extendsSlug: ["page-type/collection"],
++  properties: [
++    { pagePropertySlug: "external-id", required: false, many: false },
++    { pagePropertySlug: "external-link", required: false, many: false },
++    { pagePropertySlug: "source", required: false, many: false },
++    { pagePropertySlug: "last-synced-at", required: false, many: false },
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A field the provider does not answer with is left as the field was.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The values a person records about a collection outlive every sync.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A provider that answered with no id leaves the collection stating none.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A collection never synced states no moment that collection was synced at.",
++    },
++  ],
++} as const satisfies PageType
+diff --git a/collections/externals/properties/external-id.text-property.ts b/collections/externals/properties/external-id.text-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..58435225fdee5bf8aa4aabdb36cb095ef439f939
+--- /dev/null
++++ b/collections/externals/properties/external-id.text-property.ts
+@@ -0,0 +1,13 @@
++import type { TextProperty } from "@akasha/pages/text-property"
++
++export type ExternalId = string
++
++export const externalId = {
++  id: "01a063de-2c60-701c-a29a-210d22f0ac68",
++  pageTypeSlug: "text-property",
++  slug: "external-id",
++  propertySlug: "external-id",
++  definition: "the id the source gives a collection",
++  max: 100,
++  nameFormatSlug: null,
++} as const satisfies TextProperty
+diff --git a/collections/externals/properties/external-link.url-property.ts b/collections/externals/properties/external-link.url-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8390baf27872c0785499a6436b40006bff90582e
+--- /dev/null
++++ b/collections/externals/properties/external-link.url-property.ts
+@@ -0,0 +1,12 @@
++import type { UrlProperty } from "@akasha/pages/url-property"
++
++export type ExternalLink = string
++
++export const externalLink = {
++  id: "01a063de-2c60-701d-a691-4a8731d32875",
++  pageTypeSlug: "url-property",
++  slug: "external-link",
++  propertySlug: "external-link",
++  definition: "the page at the source a collection was read from",
++  max: 200,
++} as const satisfies UrlProperty
+diff --git a/collections/externals/properties/last-synced-at.calendar-date-property.ts b/collections/externals/properties/last-synced-at.calendar-date-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ecd63ac584ac2fa1c87eb57961d497f981dc1128
+--- /dev/null
++++ b/collections/externals/properties/last-synced-at.calendar-date-property.ts
+@@ -0,0 +1,11 @@
++import type { CalendarDateProperty } from "@akasha/pages/calendar-date-property"
++
++export type LastSyncedAt = string
++
++export const lastSyncedAt = {
++  id: "01a063de-2c60-701f-a275-5b8d3b2d03bb",
++  pageTypeSlug: "calendar-date-property",
++  slug: "last-synced-at",
++  propertySlug: "last-synced-at",
++  definition: "the day a collection was last read from its source",
++} as const satisfies CalendarDateProperty
+diff --git a/collections/externals/properties/source.text-property.ts b/collections/externals/properties/source.text-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f57465842655d28e78929b8d3054a08334550af4
+--- /dev/null
++++ b/collections/externals/properties/source.text-property.ts
+@@ -0,0 +1,34 @@
++import type { TextProperty } from "@akasha/pages/text-property"
++
++export type Source =
++  | "kindle"
++  | "musicbrainz"
++  | "open-library"
++  | "royal-road"
++  | "the-great-courses"
++  | "the-wandering-inn"
++  | "tmdb"
++
++export const source = {
++  id: "01a063de-2c60-701e-9aed-2067429a2664",
++  pageTypeSlug: "text-property",
++  slug: "source",
++  propertySlug: "source",
++  definition: "where a collection was imported from",
++  max: 100,
++  nameFormatSlug: "name-format/lower-kebab-case",
++  invariants: [
++    {
++      invariantKind: "absence",
++      statement: "No page names `spotify` as a source.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A provider is named here before a page may state that provider.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "This property is a select over the providers akasha reads from.",
++    },
++  ],
++} as const satisfies TextProperty
+diff --git a/collections/types/collection-type.page-type.ts b/collections/types/collection-type.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..da2236228efdead8f927754c73f40fa5accbba0c
+--- /dev/null
++++ b/collections/types/collection-type.page-type.ts
+@@ -0,0 +1,41 @@
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
++import type { Title } from "../../pages/properties/title.text-property.ts"
++import type { UnitSlug } from "../properties/unit-slug.relation-property.ts"
++import type { CollectionTypeStatus } from "./properties/collection-type-status.select-property.ts"
++
++export type CollectionType = Page & {
++  title: Title
++  unitSlug: UnitSlug
++  collectionTypeStatus: CollectionTypeStatus
++}
++
++export const collectionType = {
++  id: "01a0680f-6f00-7001-b374-6d2a9f5c6102",
++  pageTypeSlug: "page-type",
++  slug: "collection-type",
++  definition: "a kind of thing collected, and what one of that kind is measured in",
++  pluralSlug: "collection-types",
++  extendsSlug: ["page-type/page"],
++  partSlugs: ["select-property/collection-type-status"],
++  properties: [
++    { pagePropertySlug: "title", required: true, many: false },
++    { pagePropertySlug: "unit-slug", required: true, many: false },
++    { pagePropertySlug: "collection-type-status", required: true, many: false },
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A collection takes its unit from its kind unless the collection states its own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A collection's `type` names the kind.",
++    },
++    {
++      invariantKind: "gap",
++      statement:
++        "Six thousand collections of these kinds sit outside akasha and have no page of their own.",
++    },
++  ],
++} as const satisfies PageType
+diff --git a/collections/types/pages/artist-collection.collection-type.ts b/collections/types/pages/artist-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d95068363385e9b87ea0b758b6bad34bb7715116
+--- /dev/null
++++ b/collections/types/pages/artist-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const artistCollection = {
++  id: "01a06579-855c-7000-8eee-000c8f802cf9",
++  pageTypeSlug: "collection-type",
++  slug: "artist-collection",
++  title: "Artist Collection",
++  unitSlug: "minutes",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/artist.collection-type.ts b/collections/types/pages/artist.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..129a5e5eda99204c404018b19f9425d99c4138d0
+--- /dev/null
++++ b/collections/types/pages/artist.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const artist = {
++  id: "01a06579-855c-7001-8e2b-9d3bf35bfae6",
++  pageTypeSlug: "collection-type",
++  slug: "artist",
++  title: "Artist",
++  unitSlug: "minutes",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/author-collection.collection-type.ts b/collections/types/pages/author-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1412d56584faaab37e5a079ffb7d945805c5065b
+--- /dev/null
++++ b/collections/types/pages/author-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const authorCollection = {
++  id: "01a06579-855c-7002-a4b8-1a1937eb6822",
++  pageTypeSlug: "collection-type",
++  slug: "author-collection",
++  title: "Author Collection",
++  unitSlug: "words",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/author.collection-type.ts b/collections/types/pages/author.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8927d463e1fbe3b40782ad3191b0eccf30af9082
+--- /dev/null
++++ b/collections/types/pages/author.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const author = {
++  id: "01a06579-855d-7000-a75f-3c6b6c6218d7",
++  pageTypeSlug: "collection-type",
++  slug: "author",
++  title: "Author",
++  unitSlug: "words",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/book-collection.collection-type.ts b/collections/types/pages/book-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a589f9759bd20a6e50a1c2c96bcad6c513f0ec3f
+--- /dev/null
++++ b/collections/types/pages/book-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const bookCollection = {
++  id: "01a06579-855d-7001-ac63-0eab7a76b0e0",
++  pageTypeSlug: "collection-type",
++  slug: "book-collection",
++  title: "Book Collection",
++  unitSlug: "words",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/book-series.collection-type.ts b/collections/types/pages/book-series.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5f6e9716ea167d2244c1b450f300a851c515fb99
+--- /dev/null
++++ b/collections/types/pages/book-series.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const bookSeries = {
++  id: "01a06579-855d-7002-ab9f-05d44875e69d",
++  pageTypeSlug: "collection-type",
++  slug: "book-series",
++  title: "Book Series",
++  unitSlug: "words",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/book.collection-type.ts b/collections/types/pages/book.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..82637edf961cd877f85c853775bcff0dee6798fe
+--- /dev/null
++++ b/collections/types/pages/book.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const book = {
++  id: "01a06579-855d-7003-b22a-9cb72fdef468",
++  pageTypeSlug: "collection-type",
++  slug: "book",
++  title: "Book",
++  unitSlug: "words",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/comic-collection.collection-type.ts b/collections/types/pages/comic-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0699c7248132ec0015160f8e668e2b3e2038f368
+--- /dev/null
++++ b/collections/types/pages/comic-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const comicCollection = {
++  id: "01a06579-855d-7004-b7ac-68a1894b53de",
++  pageTypeSlug: "collection-type",
++  slug: "comic-collection",
++  title: "Comic Collection",
++  unitSlug: "words",
++  collectionTypeStatus: "someday-maybe",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/elder-scrolls-online-collection.collection-type.ts b/collections/types/pages/elder-scrolls-online-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c7d689c7dbabf6e0149dd62926a0eafbf69b8732
+--- /dev/null
++++ b/collections/types/pages/elder-scrolls-online-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const elderScrollsOnlineCollection = {
++  id: "01a06579-855d-7005-bca6-bb824f7e45bb",
++  pageTypeSlug: "collection-type",
++  slug: "elder-scrolls-online-collection",
++  title: "Elder Scrolls Online Collection",
++  unitSlug: "words",
++  collectionTypeStatus: "someday-maybe",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/fandom-collection.collection-type.ts b/collections/types/pages/fandom-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..419d96aa07af9d42bd0f898195b57bc69c638996
+--- /dev/null
++++ b/collections/types/pages/fandom-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const fandomCollection = {
++  id: "01a06579-855d-7006-89d8-d47ae525e6ef",
++  pageTypeSlug: "collection-type",
++  slug: "fandom-collection",
++  title: "Fandom Collection",
++  unitSlug: "words",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/fandom.collection-type.ts b/collections/types/pages/fandom.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e5313311d1c958c0d381b58c831eb01430a3b370
+--- /dev/null
++++ b/collections/types/pages/fandom.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const fandom = {
++  id: "01a06579-855d-7007-a64d-391f8a38ae5a",
++  pageTypeSlug: "collection-type",
++  slug: "fandom",
++  title: "Fandom",
++  unitSlug: "words",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/game-achievement.collection-type.ts b/collections/types/pages/game-achievement.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..502d2207b5a13fcfafb36dd338558fa47858f984
+--- /dev/null
++++ b/collections/types/pages/game-achievement.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const gameAchievement = {
++  id: "01a06579-855d-7008-83ad-e42b509d6353",
++  pageTypeSlug: "collection-type",
++  slug: "game-achievement",
++  title: "Game Achievement",
++  unitSlug: "words",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/great-course.collection-type.ts b/collections/types/pages/great-course.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..527770e19df6402bef0b4b46449d5984a675a13f
+--- /dev/null
++++ b/collections/types/pages/great-course.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const greatCourse = {
++  id: "01a06579-855d-7009-a1a7-1b4fb58f4a12",
++  pageTypeSlug: "collection-type",
++  slug: "great-course",
++  title: "Great Course",
++  unitSlug: "minutes",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/great-courses-collection.collection-type.ts b/collections/types/pages/great-courses-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cefab08da02ed712b619ae1ff3b3ea724333eead
+--- /dev/null
++++ b/collections/types/pages/great-courses-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const greatCoursesCollection = {
++  id: "01a06579-855d-700a-bca4-86ddbc615484",
++  pageTypeSlug: "collection-type",
++  slug: "great-courses-collection",
++  title: "Great Courses Collection",
++  unitSlug: "minutes",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/great-courses-subject.collection-type.ts b/collections/types/pages/great-courses-subject.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ae59c8834df6588ceff3eef60d4e72602188015c
+--- /dev/null
++++ b/collections/types/pages/great-courses-subject.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const greatCoursesSubject = {
++  id: "01a06579-855d-700b-a812-893736784813",
++  pageTypeSlug: "collection-type",
++  slug: "great-courses-subject",
++  title: "Great Courses Subject",
++  unitSlug: "minutes",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/litrpg-collection.collection-type.ts b/collections/types/pages/litrpg-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4a06887aa502ad126737e90b36ec2564ca4f22ba
+--- /dev/null
++++ b/collections/types/pages/litrpg-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const litrpgCollection = {
++  id: "01a06579-855d-700c-b5f9-b1bd806cca83",
++  pageTypeSlug: "collection-type",
++  slug: "litrpg-collection",
++  title: "LitRPG Collection",
++  unitSlug: "words",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/litrpg.collection-type.ts b/collections/types/pages/litrpg.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c1e98e1c026e59a91a3c265d99f51e7eb6d3cfeb
+--- /dev/null
++++ b/collections/types/pages/litrpg.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const litrpg = {
++  id: "01a06579-855d-700d-b78c-db789b3c2d70",
++  pageTypeSlug: "collection-type",
++  slug: "litrpg",
++  title: "LitRPG",
++  unitSlug: "words",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/movie.collection-type.ts b/collections/types/pages/movie.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cbc2387e41a3885e2384a8817848b53540d2e224
+--- /dev/null
++++ b/collections/types/pages/movie.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const movie = {
++  id: "01a06579-855d-700e-9aa9-9c4a0d2b2c36",
++  pageTypeSlug: "collection-type",
++  slug: "movie",
++  title: "Movie",
++  unitSlug: "minutes",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/recipe-collection.collection-type.ts b/collections/types/pages/recipe-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..15af1790f45a2f0f99566d1d532629bfdbd65bc1
+--- /dev/null
++++ b/collections/types/pages/recipe-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const recipeCollection = {
++  id: "01a06579-855d-700f-ae15-ab94a81f8ad7",
++  pageTypeSlug: "collection-type",
++  slug: "recipe-collection",
++  title: "Recipe Collection",
++  unitSlug: "words",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/recipe.collection-type.ts b/collections/types/pages/recipe.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..365287137190bb6df31104716e1e989da7d1a671
+--- /dev/null
++++ b/collections/types/pages/recipe.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const recipe = {
++  id: "01a06579-855d-7010-9a4a-32649765375d",
++  pageTypeSlug: "collection-type",
++  slug: "recipe",
++  title: "Recipe",
++  unitSlug: "words",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/release-collection.collection-type.ts b/collections/types/pages/release-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7bfb6071dfe13bb5b2bf44a2cb01056941f6e283
+--- /dev/null
++++ b/collections/types/pages/release-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const releaseCollection = {
++  id: "01a06579-855d-7011-a8f6-26412a1a4a6f",
++  pageTypeSlug: "collection-type",
++  slug: "release-collection",
++  title: "Release Collection",
++  unitSlug: "minutes",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/release.collection-type.ts b/collections/types/pages/release.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7d3eac16c557e446bc3ab9280c797e6b2dd9721b
+--- /dev/null
++++ b/collections/types/pages/release.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const release = {
++  id: "01a06579-855d-7012-a45a-0f4a23d26caa",
++  pageTypeSlug: "collection-type",
++  slug: "release",
++  title: "Release",
++  unitSlug: "minutes",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/restaurant-collection.collection-type.ts b/collections/types/pages/restaurant-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f50eb15e018aced636bff5bb6940ac8292fc5884
+--- /dev/null
++++ b/collections/types/pages/restaurant-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const restaurantCollection = {
++  id: "01a06579-855d-7013-a474-1fadfa2e42b3",
++  pageTypeSlug: "collection-type",
++  slug: "restaurant-collection",
++  title: "Restaurant Collection",
++  unitSlug: "words",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/restaurant-menu-item.collection-type.ts b/collections/types/pages/restaurant-menu-item.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6f384ef7b961c496c6d71c7ff24a1504e9f7fbef
+--- /dev/null
++++ b/collections/types/pages/restaurant-menu-item.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const restaurantMenuItem = {
++  id: "01a06579-855d-7014-8763-cf229a87fd77",
++  pageTypeSlug: "collection-type",
++  slug: "restaurant-menu-item",
++  title: "Restaurant Menu Item",
++  unitSlug: "words",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/restaurants.collection-type.ts b/collections/types/pages/restaurants.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..856082cc87000c03a20ac46b84b41243d559cbeb
+--- /dev/null
++++ b/collections/types/pages/restaurants.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const restaurants = {
++  id: "01a06579-855d-7015-8fbe-5f32399190bf",
++  pageTypeSlug: "collection-type",
++  slug: "restaurants",
++  title: "Restaurants",
++  unitSlug: "words",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/scripture-chapter.collection-type.ts b/collections/types/pages/scripture-chapter.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1f65a829e81944907ae37c08e1f82f91851eb0be
+--- /dev/null
++++ b/collections/types/pages/scripture-chapter.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const scriptureChapter = {
++  id: "01a06579-855d-7016-95f5-101684960f7d",
++  pageTypeSlug: "collection-type",
++  slug: "scripture-chapter",
++  title: "Scripture Chapter",
++  unitSlug: "words",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/scripture-collection.collection-type.ts b/collections/types/pages/scripture-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..78eb4be14d234bd35e1331cf89a95b799edbb799
+--- /dev/null
++++ b/collections/types/pages/scripture-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const scriptureCollection = {
++  id: "01a06579-855d-7017-a844-bca1465c5748",
++  pageTypeSlug: "collection-type",
++  slug: "scripture-collection",
++  title: "Scripture Collection",
++  unitSlug: "words",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/season.collection-type.ts b/collections/types/pages/season.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..de4e10f046e29b3a947fa6d65e083f8c3e77942f
+--- /dev/null
++++ b/collections/types/pages/season.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const season = {
++  id: "01a06579-855d-7018-95ee-be93ba336738",
++  pageTypeSlug: "collection-type",
++  slug: "season",
++  title: "Season",
++  unitSlug: "minutes",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/show-collection.collection-type.ts b/collections/types/pages/show-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c11f05f159ebc7ea21d111fb9411428d29e9cc36
+--- /dev/null
++++ b/collections/types/pages/show-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const showCollection = {
++  id: "01a06579-855d-7019-991c-1f9f7b13c39c",
++  pageTypeSlug: "collection-type",
++  slug: "show-collection",
++  title: "Show Collection",
++  unitSlug: "minutes",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/show.collection-type.ts b/collections/types/pages/show.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b25794a73192a96457e17b35db52ee516662d65f
+--- /dev/null
++++ b/collections/types/pages/show.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const show = {
++  id: "01a06579-855d-701a-b01e-80c9b9a561eb",
++  pageTypeSlug: "collection-type",
++  slug: "show",
++  title: "Show",
++  unitSlug: "minutes",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/the-wandering-inn-chapter.collection-type.ts b/collections/types/pages/the-wandering-inn-chapter.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..786ac27c59f8ba85229b1f9131bfa92348088f7b
+--- /dev/null
++++ b/collections/types/pages/the-wandering-inn-chapter.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const theWanderingInnChapter = {
++  id: "01a06579-855d-701b-8c66-0cbe1ad7e7d0",
++  pageTypeSlug: "collection-type",
++  slug: "the-wandering-inn-chapter",
++  title: "The Wandering Inn Chapter",
++  unitSlug: "words",
++  collectionTypeStatus: "done",
++} as const satisfies CollectionType
+diff --git a/collections/types/pages/travel-collection.collection-type.ts b/collections/types/pages/travel-collection.collection-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4e3c4c354cbe9a2a13e05711b8c98110098d4e1a
+--- /dev/null
++++ b/collections/types/pages/travel-collection.collection-type.ts
+@@ -0,0 +1,10 @@
++import type { CollectionType } from "../collection-type.page-type.ts"
++
++export const travelCollection = {
++  id: "01a06579-855d-701c-bd66-636fd33e97a8",
++  pageTypeSlug: "collection-type",
++  slug: "travel-collection",
++  title: "Travel Collection",
++  unitSlug: "words",
++  collectionTypeStatus: "not-doing",
++} as const satisfies CollectionType
+diff --git a/collections/types/properties/collection-type-status.select-property.ts b/collections/types/properties/collection-type-status.select-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cdd7fb7a5b0b3380de94b0e5d92a04d14f29ffb9
+--- /dev/null
++++ b/collections/types/properties/collection-type-status.select-property.ts
+@@ -0,0 +1,19 @@
++import type { SelectProperty } from "@akasha/pages/select-property"
++
++export const collectionTypeStatus = {
++  id: "01a0680f-6f00-7000-9a52-4c7b3d8e6101",
++  pageTypeSlug: "select-property",
++  slug: "collection-type-status",
++  propertySlug: "collection-type-status",
++  definition: "how far a person has got with gathering a kind of thing at all",
++  values: ["done", "not-doing", "someday-maybe"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "This property says whether the kind is gathered, not how far one collection has got.",
++    },
++  ],
++} as const satisfies SelectProperty
++
++export type CollectionTypeStatus = (typeof collectionTypeStatus.values)[number]
+diff --git a/games/game-achievements/game-achievement.page-type.ts b/games/game-achievements/game-achievement.page-type.ts
+index b200784be8ead833a6b9f1202806206c97caeecd..56c0c3c7323454f2cace03dc061cc1031affa16a 100644
+--- a/games/game-achievements/game-achievement.page-type.ts
++++ b/games/game-achievements/game-achievement.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ 
+ export type GameAchievement = CollectionExternal & {
+diff --git a/ki/ki-collection-templates/ki-collection-template.page-type.ts b/ki/ki-collection-templates/ki-collection-template.page-type.ts
+index e3421d5d11d534bb22c4781302453c7cac99433c..69af9c800ee5b8a63b5621687aab5d8347060ca1 100644
+--- a/ki/ki-collection-templates/ki-collection-template.page-type.ts
++++ b/ki/ki-collection-templates/ki-collection-template.page-type.ts
+@@ -1,5 +1,5 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../collections/collection-externals/collection-external.page-type.ts"
++import type { CollectionExternal } from "../../collections/externals/collection-external.page-type.ts"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ 
+ export type KiCollectionTemplate = CollectionExternal & {
+diff --git a/story/games/game.page-type.ts b/story/games/game.page-type.ts
+index ffb42f51634037be807360a175291ddd606c71f5..e178b40df9a5a12bb95971692dc71cfa43e922a5 100644
+--- a/story/games/game.page-type.ts
++++ b/story/games/game.page-type.ts
+@@ -1,6 +1,6 @@
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { Collection } from "../../collections/collection.page-type.ts"
+-import type { ExternalId } from "../../collections/collection-externals/properties/external-id.text-property.ts"
++import type { ExternalId } from "../../collections/externals/properties/external-id.text-property.ts"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { Config } from "./properties/config.file-property.ts"
+ import type { ControlledEntityKind } from "./properties/controlled-entity-kind.select-property.ts"
+diff --git a/story/stories-read/story-read.page-type.ts b/story/stories-read/story-read.page-type.ts
+index 5b7f6e160388c34c2769c09958bc68b36955e51b..d9ba2ddc7c11e1cf4610ab34d0d07d820ba986a5 100644
+--- a/story/stories-read/story-read.page-type.ts
++++ b/story/stories-read/story-read.page-type.ts
+@@ -1,6 +1,6 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../collections/collection-externals/collection-external.page-type.ts"
+-import type { Source } from "../../collections/collection-externals/properties/source.text-property.ts"
++import type { CollectionExternal } from "../../collections/externals/collection-external.page-type.ts"
++import type { Source } from "../../collections/externals/properties/source.text-property.ts"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { Prose } from "../stories-played/properties/prose.file-property.ts"
+ import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"
+diff --git a/story/story-chapters-read/story-chapter-read.page-type.ts b/story/story-chapters-read/story-chapter-read.page-type.ts
+index 596c676419f5bcd9b91d78478c75528b0a93a9ad..85f04e5b6a26fd5875c7eca65562f28b47c0caf4 100644
+--- a/story/story-chapters-read/story-chapter-read.page-type.ts
++++ b/story/story-chapters-read/story-chapter-read.page-type.ts
+@@ -1,6 +1,6 @@
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { CollectionExternal } from "../../collections/collection-externals/collection-external.page-type.ts"
+-import type { ExternalLink } from "../../collections/collection-externals/properties/external-link.url-property.ts"
++import type { CollectionExternal } from "../../collections/externals/collection-external.page-type.ts"
++import type { ExternalLink } from "../../collections/externals/properties/external-link.url-property.ts"
+ import type { OwnLength } from "../../collections/properties/own-length.number-property.ts"
+ import type { Title } from "../../pages/properties/title.text-property.ts"
+ import type { Prose } from "../stories-played/properties/prose.file-property.ts"
