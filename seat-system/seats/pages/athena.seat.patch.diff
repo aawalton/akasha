@@ -1,3 +1,125 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.code.ts
+deleted file mode 100644
+index 1a71958358a1314a1be91e8f589b3cf07cfc2b9b..0000000000000000000000000000000000000000
+--- a/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.code.ts
++++ /dev/null
+@@ -1,58 +0,0 @@
+-// THE STATUS BAR, WHOSE STOPLIGHTS NO FILE CHANGE ANNOUNCES.
+-//
+-// A readout is written by a relay elsewhere and reached over HTTP, so the three stoplight sections
+-// are taken again on a beat rather than followed. What that buys is not fewer reads but fewer
+-// readers: every open window was paying for them, and they do not differ between windows.
+-//
+-// The fleet's spend rides the same beat though it is a page read, because the beat drawing it
+-// beside them has to run anyway.
+-
+-import { readFleetUsage } from "@akasha/agents/claude-account-usage"
+-import { drawGroup } from "../../../../../editor-extension/group-stoplights/group-stoplights.module.code.ts"
+-import {
+-  readingOf,
+-  type UsageReading,
+-} from "../../../../../editor-extension/status-bar-usage/status-bar-usage.module.code.ts"
+-
+-const INBOX_GROUP = "inboxes"
+-const UPKEEP_GROUP = "upkeep"
+-const ATTRIBUTES_GROUP = "attributes"
+-
+-// Four reads, none of which is allowed to lose the other three. A section that threw is null, and
+-// the editor keeps what it last drew there rather than blanking it.
+-async function stoplightsOf(group: string): Promise<StatusBarStoplights | null> {
+-  try {
+-    const drawn = await drawGroup(group)
+-    // A store that cannot be reached answers no stoplights rather than throwing, so an empty
+-    // group is a read that failed rather than a group that is well. Every group names at least
+-    // one readout, and answering null here is what keeps the last good glyphs on the screen.
+-    if (drawn.glyphs === "") return null
+-    return { glyphs: drawn.glyphs, legend: drawn.legend }
+-  } catch {
+-    return null
+-  }
+-}
+-
+-function usageNow(): UsageReading | null {
+-  try {
+-    const fleet = readFleetUsage()
+-    return readingOf(fleet.session, fleet.weekly)
+-  } catch {
+-    return null
+-  }
+-}
+-
+-export async function statusBarLine(): Promise<string> {
+-  const [inbox, upkeep, attributes] = await Promise.all([
+-    stoplightsOf(INBOX_GROUP),
+-    stoplightsOf(UPKEEP_GROUP),
+-    stoplightsOf(ATTRIBUTES_GROUP),
+-  ])
+-  const usage = usageNow()
+-  return JSON.stringify({
+-    usage,
+-    inbox,
+-    upkeep,
+-    attributes,
+-  } satisfies StatusBarState)
+-}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.ts
+deleted file mode 100644
+index 44dbc7ec2152b58fc918d3612e80def90443e9ed..0000000000000000000000000000000000000000
+--- a/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.ts
++++ /dev/null
+@@ -1,52 +0,0 @@
+-import type { Module } from "../../../../../code-system/modules/module.page-type.ts"
+-
+-export const beatDrawing = {
+-  id: "01a0728f-6afc-76a1-acde-2cdaeed6213c",
+-  pageTypeSlug: "module",
+-  slug: "beat-drawing",
+-  definition: "what the status bar draws, whose stoplights no file announces",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A stoplight section is reached over HTTP rather than read off a file.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The status bar is read once for the workstation rather than once for each window.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The fleet's spend is read off the account pages rather than asked of a command.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The spend rides the stoplights' beat rather than a watch of its own.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A section of the status bar that could not be read is null.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "One section failing leaves the other three read.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every group names a stoplight.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A group answering no stoplights was not read.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here writes a file or holds a timer.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here draws the agents panel.",
+-    },
+-  ],
+-} as const satisfies Module
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
 index 68bd675f8341e204e0c56b77a9be31866b70fc56..0c3bf753c477921583a013781f0756242fbcbf14 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
