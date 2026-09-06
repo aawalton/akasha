@@ -24,7 +24,7 @@ export const exerciseConstraintList = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A constraint tagged for every focus answers to each of those focuses.",
+      statement: "A constraint tagged for every focus answers to every focus.",
     },
     {
       invariantKind: "departure",
