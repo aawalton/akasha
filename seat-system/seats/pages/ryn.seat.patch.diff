@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/readout-system/readout-reading/readout-reading.module.ts b/readout-system/readout-reading/readout-reading.module.ts
+index 3fe8f6d38de49fef2d60584bd22f1e97c0063b09..2dba1a3cfdc5a3b90d8ce3f7e46304761326c0a7 100644
+--- a/readout-system/readout-reading/readout-reading.module.ts
++++ b/readout-system/readout-reading/readout-reading.module.ts
+@@ -26,7 +26,7 @@ export const readoutReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reading replaces the one before that reading.",
++      statement: "A reading replaces the reading before that reading.",
+     },
+     {
+       invariantKind: "departure",
