@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-page-beat/seat-page-beat.module.ts b/seat-system/seat-page-beat/seat-page-beat.module.ts
-index 779ef98a27bdf301aef5615d3fdbad2fee10e12e..5a6e6e7523767be11fdb5ffbc5fa725d3da8b08c 100644
+index 779ef98a27bdf301aef5615d3fdbad2fee10e12e..7e7c34e4d8aaab61f19a69417394769ccd5e538b 100644
 --- a/seat-system/seat-page-beat/seat-page-beat.module.ts
 +++ b/seat-system/seat-page-beat/seat-page-beat.module.ts
 @@ -9,11 +9,13 @@ export const seatPageBeat = {
@@ -15,6 +15,15 @@ index 779ef98a27bdf301aef5615d3fdbad2fee10e12e..5a6e6e7523767be11fdb5ffbc5fa725d
 -      statement: "A write that cannot await runs this as a program rather than calling it.",
 +      statement:
 +        "A write that cannot await runs this module as a program rather than calling this module.",
+     },
+     {
+       invariantKind: "departure",
+@@ -25,7 +27,7 @@ export const seatPageBeat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat with no composed name and none in its history is left unwritten.",
++      statement: "A seat with no composed name and no name in its history is left unwritten.",
      },
      {
        invariantKind: "departure",
