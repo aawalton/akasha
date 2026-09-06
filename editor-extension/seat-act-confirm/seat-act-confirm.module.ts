@@ -9,11 +9,11 @@ export const seatActConfirm = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reset is always confirmed, whether the seat runs or not.",
+      statement: "A reset is always confirmed whether the seat runs or not.",
     },
     {
       invariantKind: "departure",
-      statement: "A stopped seat is asked nothing, because that seat has no turn to lose.",
+      statement: "A stopped seat is asked nothing.",
     },
     {
       invariantKind: "departure",
