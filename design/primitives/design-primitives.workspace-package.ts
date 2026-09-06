@@ -73,7 +73,7 @@ export const designPrimitives = {
     },
     {
       invariantKind: "gap",
-      statement: "The manifest names every package this one reaches.",
+      statement: "The manifest names every package this package reaches.",
     },
   ],
 } as const satisfies WorkspacePackage
