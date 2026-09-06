@@ -1,3 +1,171 @@
+diff --git a/alan/harness/attributes/levelling/attributes-levelling.module.code.ts b/alan/harness/attributes/levelling/attributes-levelling.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..84375f26759de803e6eb6edfb4d53f5160439b21
+--- /dev/null
++++ b/alan/harness/attributes/levelling/attributes-levelling.module.code.ts
+@@ -0,0 +1,30 @@
++const RUNG = 10
++
++// THE RUNGS ARE WORKED OUT RATHER THAN WRITTEN OUT. The climb has no top, so a list written here
++// would hold every attribute at the last rung that list reached from the day Alan passed that rung
++// onward, and a level that has stopped climbing reads exactly like a level that was not earned.
++export function* rungs(): Generator<number> {
++  let cost = 1
++  let nextCost = 1
++  let reached = 0
++  for (;;) {
++    reached += cost * RUNG
++    yield reached
++    const following = cost + nextCost
++    cost = nextCost
++    nextCost = following
++  }
++}
++
++// A LEVEL IS THE HIGHEST RUNG THE POINTS HAVE REACHED. Points short of the next rung are the climb
++// toward that rung rather than the rung itself, so a level says what an attribute has earned rather
++// than what that attribute is near.
++export function levelOf(points: number): number {
++  if (!Number.isFinite(points) || points <= 0) return 0
++  let level = 0
++  for (const rung of rungs()) {
++    if (points < rung) break
++    level += 1
++  }
++  return level
++}
+diff --git a/alan/harness/attributes/levelling/attributes-levelling.module.test.ts b/alan/harness/attributes/levelling/attributes-levelling.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6678e7c1d913cfde9ff747d06fe09894ca2d20d3
+--- /dev/null
++++ b/alan/harness/attributes/levelling/attributes-levelling.module.test.ts
+@@ -0,0 +1,56 @@
++import { expect, test } from "bun:test"
++import { levelOf, rungs } from "./attributes-levelling.module.code.ts"
++
++function firstRungs(count: number): readonly number[] {
++  const held: number[] = []
++  for (const rung of rungs()) {
++    held.push(rung)
++    if (held.length === count) break
++  }
++  return held
++}
++
++test("the climb to each level costs ten times the next Fibonacci number", () => {
++  expect(firstRungs(8)).toEqual([10, 20, 40, 70, 120, 200, 330, 540])
++})
++
++test("the rungs are still worked out past the eighth", () => {
++  expect(firstRungs(12)).toEqual([10, 20, 40, 70, 120, 200, 330, 540, 880, 1430, 2320, 3760])
++})
++
++test("no points at all is level 0", () => {
++  expect(levelOf(0)).toBe(0)
++})
++
++test("points below zero are level 0", () => {
++  expect(levelOf(-5)).toBe(0)
++})
++
++test("points short of the first rung are level 0", () => {
++  expect(levelOf(9)).toBe(0)
++  expect(levelOf(9.99)).toBe(0)
++})
++
++test("ten points is level 1", () => {
++  expect(levelOf(10)).toBe(1)
++})
++
++test("points short of the second rung are level 1", () => {
++  expect(levelOf(19)).toBe(1)
++})
++
++test("twenty points is level 2", () => {
++  expect(levelOf(20)).toBe(2)
++})
++
++test("seventy points is level 4 and sixty nine is level 3", () => {
++  expect(levelOf(69)).toBe(3)
++  expect(levelOf(70)).toBe(4)
++})
++
++test("a level past the eighth rung is worked out rather than capped", () => {
++  expect(levelOf(540)).toBe(8)
++  expect(levelOf(879)).toBe(8)
++  expect(levelOf(880)).toBe(9)
++  expect(levelOf(100000)).toBe(18)
++})
+diff --git a/alan/harness/attributes/levelling/attributes-levelling.module.ts b/alan/harness/attributes/levelling/attributes-levelling.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..28dd03a096d620fea7124ce6684c034c123320e4
+--- /dev/null
++++ b/alan/harness/attributes/levelling/attributes-levelling.module.ts
+@@ -0,0 +1,64 @@
++import type { Module } from "../../../../code-system/modules/module.page-type.ts"
++
++export const attributesLevelling = {
++  id: "01a078c1-e871-721c-bb31-4940b59e4afe",
++  pageTypeSlug: "module",
++  slug: "attributes-levelling",
++  definition: "the level an attribute's points have climbed to",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Every attribute starts at level 0.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A level is the highest rung an attribute's points have reached or passed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A rung is what every climb up to that rung has cost together.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The climb to level 1 costs ten points.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The climb to each later level costs ten times the next Fibonacci number.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The rungs are worked out as far as a figure reaches rather than read off a list.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The rungs have no top.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Points short of the next rung leave the level unchanged.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A level is a whole number.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Points of zero or below are level 0.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here adds up an attribute's points.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here says how a level is written out.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes.",
++    },
++  ],
++} as const satisfies Module
 diff --git a/alan/harness/attributes/totalling/attributes-totalling.module.code.ts b/alan/harness/attributes/totalling/attributes-totalling.module.code.ts
 index 401913388254532eb0f0244049da10fcbba9c13b..b408e715f950a2bf61d6ccf678c64300e4a393c8 100644
 --- a/alan/harness/attributes/totalling/attributes-totalling.module.code.ts
