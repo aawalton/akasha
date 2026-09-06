@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/committing/committing.module.ts b/command-system/committing/committing.module.ts
+index a2a1ddbccda944ec046d31101d3a7f871130dc1a..0f878e5b9e55ded1c0dadc878731f6685314bdf3 100644
+--- a/command-system/committing/committing.module.ts
++++ b/command-system/committing/committing.module.ts
+@@ -92,7 +92,7 @@ export const committing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A checkout configured with no git user commits as any other does.",
++      statement: "A checkout configured with no git user commits as every other checkout does.",
+     },
+     {
+       invariantKind: "departure",
