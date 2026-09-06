@@ -14,11 +14,11 @@ export const movementScoring = {
     },
     {
       invariantKind: "absence",
-      statement: "No score is read off a page, so a page states no score.",
+      statement: "A page states no score.",
     },
     {
       invariantKind: "departure",
-      statement: "Each goal is scored between zero and one.",
+      statement: "Each goal is scored between zero and a whole mark.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,7 @@ export const movementScoring = {
     },
     {
       invariantKind: "departure",
-      statement: "Weights summing to nothing blend as though those weights summed to one.",
+      statement: "Weights summing to nothing blend as though those weights summed to a whole.",
     },
     {
       invariantKind: "departure",
