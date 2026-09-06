@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/seat-system/seat-proc-tree/seat-proc-tree.module.ts b/seat-system/seat-proc-tree/seat-proc-tree.module.ts
-index aa5e0e82570685bc90bb0b8b1412719ca6011180..6422e284bc33b18b0f8cd20fc35b52e1ff2a673e 100644
+index aa5e0e82570685bc90bb0b8b1412719ca6011180..9ab9607f19fa5ccedd32e60324c31565dfb06b2c 100644
 --- a/seat-system/seat-proc-tree/seat-proc-tree.module.ts
 +++ b/seat-system/seat-proc-tree/seat-proc-tree.module.ts
 @@ -16,11 +16,11 @@ export const seatProcTree = {
@@ -14,6 +14,15 @@ index aa5e0e82570685bc90bb0b8b1412719ca6011180..6422e284bc33b18b0f8cd20fc35b52e1
        invariantKind: "departure",
 -      statement: "An agent whose processes form one tree has outlived none of them.",
 +      statement: "An agent whose processes form one tree has outlived no tree.",
+     },
+     {
+       invariantKind: "departure",
+@@ -28,7 +28,7 @@ export const seatProcTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Where no keeper is stated, the tree kept is the tree holding the newest process.",
++      statement: "The tree kept where no keeper is stated is the tree holding the newest process.",
      },
      {
        invariantKind: "departure",
