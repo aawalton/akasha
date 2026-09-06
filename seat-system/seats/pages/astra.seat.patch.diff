@@ -1,0 +1,339 @@
+runsWarrants: false
+diff --git a/domains/findings/pages/a-credential-on-the-page-store-write-breaks-every-caller-at-once.finding.ts b/domains/findings/pages/a-credential-on-the-page-store-write-breaks-every-caller-at-once.finding.ts
+index a15baa1c3daffa722f90b56271e8e4d9ad9c07e5..0eb0e8aaa477b47da8ab47687af2352a8417e9a2 100644
+--- a/domains/findings/pages/a-credential-on-the-page-store-write-breaks-every-caller-at-once.finding.ts
++++ b/domains/findings/pages/a-credential-on-the-page-store-write-breaks-every-caller-at-once.finding.ts
+@@ -4,7 +4,7 @@ export const aCredentialOnThePageStoreWriteBreaksEveryCallerAtOnce = {
+   id: "01a05ba6-1855-7000-b73b-7b7fde2810ea",
+   pageTypeSlug: "finding",
+   slug: "a-credential-on-the-page-store-write-breaks-every-caller-at-once",
+-  domainSlug: "workspace-package/pages-system-service",
++  domainSlug: "workspace-package/pages-service",
+   claim:
+     "Asking `/write` for a credential stops every caller in the same instant, because none carries one and no second route stands to fall back to. The callers are the workstation's own tools, the pods, and the agents, and the pods are reached through a socat that forwards bytes and can add no header. What the change costs is counted here so the call takes one sitting rather than a re-derivation.",
+   evidence:
+diff --git a/domains/findings/pages/a-page-composed-through-composedfor-carries-neither-page-type-slug-nor-slug.finding.ts b/domains/findings/pages/a-page-composed-through-composedfor-carries-neither-page-type-slug-nor-slug.finding.ts
+index afe7e22175a34702d65955dd8795449ef9580195..6e21ea1e92a9a27d1a72362e746ecd4c8caf7310 100644
+--- a/domains/findings/pages/a-page-composed-through-composedfor-carries-neither-page-type-slug-nor-slug.finding.ts
++++ b/domains/findings/pages/a-page-composed-through-composedfor-carries-neither-page-type-slug-nor-slug.finding.ts
+@@ -4,7 +4,7 @@ export const aPageComposedThroughComposedforCarriesNeitherPageTypeSlugNorSlug =
+   id: "01a06881-344f-7000-8927-0012711fb717",
+   pageTypeSlug: "finding",
+   slug: "a-page-composed-through-composedfor-carries-neither-page-type-slug-nor-slug",
+-  domainSlug: "workspace-package/pages-system-service",
++  domainSlug: "workspace-package/pages-service",
+   claim:
+     "A page written through `composedFor` carries neither `pageTypeSlug` nor `slug`, though the page page-type declares both required, so the index never files it and the next command asking for it is answered that it does not stand. No page in the checkout carries the defect today; it is latent in the writer.",
+   evidence:
+diff --git a/domains/findings/pages/page-asking-reads-the-checkout-while-page-calling-fetches-from-the-same-package.finding.ts b/domains/findings/pages/page-asking-reads-the-checkout-while-page-calling-fetches-from-the-same-package.finding.ts
+index de2e77974d60b3c8edc7eecf990511ea67e1c1d4..e3c710f62df7f74cb55b291ed49afc1816fe0c53 100644
+--- a/domains/findings/pages/page-asking-reads-the-checkout-while-page-calling-fetches-from-the-same-package.finding.ts
++++ b/domains/findings/pages/page-asking-reads-the-checkout-while-page-calling-fetches-from-the-same-package.finding.ts
+@@ -4,7 +4,7 @@ export const pageAskingReadsTheCheckoutWhilePageCallingFetchesFromTheSamePackage
+   id: "01a068c4-ede7-7a57-a838-ec6d85846c7c",
+   pageTypeSlug: "finding",
+   slug: "page-asking-reads-the-checkout-while-page-calling-fetches-from-the-same-package",
+-  domainSlug: "workspace-package/pages-system-service",
++  domainSlug: "workspace-package/pages-service",
+   claim:
+     "`@akasha/pages-service` holds both roads constraint 19 parts. `./asking` is the query engine and reads this checkout in the calling process; `./calling` is the HTTP client to the pod. So an import from that package is no evidence either way, and the package name is the trap rather than the guide: a lane reading the name will repair a compliant import, and a fetching export added to the package later makes every importer a violator with nothing to say so. Read the closure, not the name.",
+   evidence:
+diff --git a/domains/findings/pages/page-listening-states-concurrency-by-measuring-completion-order.finding.ts b/domains/findings/pages/page-listening-states-concurrency-by-measuring-completion-order.finding.ts
+index b77ca484bc66b4f0eb595ac6efa93d1bfae342ca..3d1f393a544d2b1b46f1436c8d19530672653fbb 100644
+--- a/domains/findings/pages/page-listening-states-concurrency-by-measuring-completion-order.finding.ts
++++ b/domains/findings/pages/page-listening-states-concurrency-by-measuring-completion-order.finding.ts
+@@ -4,7 +4,7 @@ export const pageListeningStatesConcurrencyByMeasuringCompletionOrder = {
+   id: "01a05d97-6c09-7000-b36d-9171fc5f32c2",
+   pageTypeSlug: "finding",
+   slug: "page-listening-states-concurrency-by-measuring-completion-order",
+-  domainSlug: "workspace-package/pages-system-service",
++  domainSlug: "workspace-package/pages-service",
+   claim:
+     "`page-listening`'s test for concurrent reads asserts that a narrow question finishes inside the first ten of 21 real HTTP round-trips. That measures completion order under load rather than concurrency. It failed 3 of 4 whole-tree runs on 2026-09-01 and passed 7 of 7 every time it was run alone. The invariant it reaches for is real and is written on the package: a read is answered while another read is being answered.",
+   evidence:
+diff --git a/domains/findings/pages/the-page-store-now-answers-any-body-under-akasha.finding.ts b/domains/findings/pages/the-page-store-now-answers-any-body-under-akasha.finding.ts
+index 6310784d5b710d1c0b8d70879ec1b2392432f538..cce782f245e7cb324cd934226da0911fbb5ab4e9 100644
+--- a/domains/findings/pages/the-page-store-now-answers-any-body-under-akasha.finding.ts
++++ b/domains/findings/pages/the-page-store-now-answers-any-body-under-akasha.finding.ts
+@@ -4,7 +4,7 @@ export const thePageStoreNowAnswersAnyBodyUnderAkasha = {
+   id: "01a05b34-b267-7443-82fe-92d2d4224aa7",
+   pageTypeSlug: "finding",
+   slug: "the-page-store-now-answers-any-body-under-akasha",
+-  domainSlug: "workspace-package/pages-system-service",
++  domainSlug: "workspace-package/pages-service",
+   claim:
+     "`POST /read` hands any caller the whole body standing at any path under `akasha/`, out of the commit at HEAD, save the two sidecars a page's own values stand in: a `.sops.yaml` and an `.uncommitted.ts` are refused by name. Until this route the store answered only the keys a page declares. Whoever reaches the store reads the rest of the tree.",
+   evidence:
+diff --git a/pages/page.workspace-package.ts b/pages/page.workspace-package.ts
+index a5655e61cc76b694c99f5417068337922b248661..bade613674f6a15e88d54736d8a478a74648d514 100644
+--- a/pages/page.workspace-package.ts
++++ b/pages/page.workspace-package.ts
+@@ -56,7 +56,7 @@ export const page = {
+     "page-type/page-query",
+     "workspace-package/index",
+     "workspace-package/pages-query",
+-    "workspace-package/pages-system-service",
++    "workspace-package/pages-service",
+     "workspace-package/pages-core",
+     "workspace-package/pages-access",
+     "workspace-package/pages-ui-store",
+diff --git a/pages/system-service/pages-service.workspace-package.ts b/pages/system-service/pages-service.workspace-package.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bc80f515e571ab1db1cd3dc6fd1774b306cb5207
+--- /dev/null
++++ b/pages/system-service/pages-service.workspace-package.ts
+@@ -0,0 +1,124 @@
++import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++
++export const pagesService = {
++  id: "01a059f5-b807-7dee-b0fc-4f45379fca1c",
++  pageTypeSlug: "workspace-package",
++  slug: "pages-service",
++  definition: "the pages reached over HTTP",
++  manifest: "json",
++  partSlugs: [
++    "manifest/page-store",
++    "module/kinds-gathering",
++    "module/page-asking",
++    "module/page-calling",
++    "module/page-composing",
++    "module/page-listening",
++    "module/page-reading",
++    "module/page-serving",
++    "module/page-writing",
++    "module/where-testing",
++    "workstation-service/pages-system-service",
++  ],
++  invariants: [
++    {
++      invariantKind: "constraint",
++      statement: "The pages system service runs on a workstation.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The pages system service answers for the pages standing in akasha and for no others.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A query is answered from the index and from the values beside the pages that query names.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A read takes no lock.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A read is answered while another read is being answered.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An answer is never older than the file that answer speaks for.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A write commits the values its pages keep in the commit.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A value a page keeps outside the commit is written beside the page and committed with nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A write is not gated by the checks.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A write is not a break of the glass.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Writes arriving while one is committing are committed together.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A write names its writer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The writer a write names stands in the commit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A write that did not commit put nothing into the commit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The index the pages system service reads is built from the commit at HEAD.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The index names the paths the pages system service does not answer for.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A pod reaches the pages system service over the tailnet.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The port the pages system service listens on is read from a page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The host names the pages system service answers on are read from a page.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "The pages system service answers on the house network.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page stating no port is refused when the page is written.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The store the cluster reaches reads as ready only while the pages system service is listening.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "The pages system service does not limit any caller of the pages system service.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "An answer costs nothing where the pages the answer rests on have not changed.",
++    },
++  ],
++} as const satisfies WorkspacePackage
+diff --git a/pages/system-service/pages-system-service.workspace-package.ts b/pages/system-service/pages-system-service.workspace-package.ts
+deleted file mode 100644
+index 652510e78733d0f77a325efb029c1144b40910e5..0000000000000000000000000000000000000000
+--- a/pages/system-service/pages-system-service.workspace-package.ts
++++ /dev/null
+@@ -1,124 +0,0 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+-
+-export const pagesSystemService = {
+-  id: "01a059f5-b807-7dee-b0fc-4f45379fca1c",
+-  pageTypeSlug: "workspace-package",
+-  slug: "pages-system-service",
+-  definition: "the pages reached over HTTP",
+-  manifest: "json",
+-  partSlugs: [
+-    "manifest/page-store",
+-    "module/kinds-gathering",
+-    "module/page-asking",
+-    "module/page-calling",
+-    "module/page-composing",
+-    "module/page-listening",
+-    "module/page-reading",
+-    "module/page-serving",
+-    "module/page-writing",
+-    "module/where-testing",
+-    "workstation-service/pages-system-service",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "constraint",
+-      statement: "The pages system service runs on a workstation.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The pages system service answers for the pages standing in akasha and for no others.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A query is answered from the index and from the values beside the pages that query names.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A read takes no lock.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A read is answered while another read is being answered.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An answer is never older than the file that answer speaks for.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A write commits the values its pages keep in the commit.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A value a page keeps outside the commit is written beside the page and committed with nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A write is not gated by the checks.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A write is not a break of the glass.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Writes arriving while one is committing are committed together.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A write names its writer.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The writer a write names stands in the commit.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A write that did not commit put nothing into the commit.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The index the pages system service reads is built from the commit at HEAD.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The index names the paths the pages system service does not answer for.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A pod reaches the pages system service over the tailnet.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The port the pages system service listens on is read from a page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The host names the pages system service answers on are read from a page.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "The pages system service answers on the house network.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page stating no port is refused when the page is written.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The store the cluster reaches reads as ready only while the pages system service is listening.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "The pages system service does not limit any caller of the pages system service.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "An answer costs nothing where the pages the answer rests on have not changed.",
+-    },
+-  ],
+-} as const satisfies WorkspacePackage
