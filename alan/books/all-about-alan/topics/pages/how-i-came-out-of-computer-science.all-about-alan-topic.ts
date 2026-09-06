@@ -10,6 +10,4 @@ export const howICameOutOfComputerScience = {
   relatedSlugs: ["the-code-in-my-family", "why-i-stopped-working"],
   settled:
     "I was a programmer in one form or another professionally for eighteen years.\n\nI put computer science as my major on my college application, and then changed it the first day of school.\n\nI went through eleven different majors and ended on Math.\n\nI only took one CS course, and finished it in a week.",
-  unsettled:
-    "The eleven majors are a count with no list. What they were, and what moved me off each, is unwritten.",
 } as const satisfies AllAboutAlanTopic
