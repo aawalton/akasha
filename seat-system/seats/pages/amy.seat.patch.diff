@@ -1,0 +1,17 @@
+diff --git a/code-system/ios-apps/pages/alanwalton/scripts/ios-seam/alanwalton-ios-seam.shell-script.shell.sh b/code-system/ios-apps/pages/alanwalton/scripts/ios-seam/alanwalton-ios-seam.shell-script.shell.sh
+index 9dd9c769c206ff984ee5076bafc57a581b7bb364..4ab587ce3932913777b5c19f687ad5a5c6696788 100644
+--- a/code-system/ios-apps/pages/alanwalton/scripts/ios-seam/alanwalton-ios-seam.shell-script.shell.sh
++++ b/code-system/ios-apps/pages/alanwalton/scripts/ios-seam/alanwalton-ios-seam.shell-script.shell.sh
+@@ -41,10 +41,10 @@ PB="/usr/libexec/PlistBuddy"
+ # writes is under ios/ and reached from the working directory. This script has not
+ # moved into akasha yet, so it reaches in from outside — which is the allowed
+ # direction — rather than answering to whatever cwd the manifest was run in.
+-SHARED_WIDGET_SRC_DIR="$AKASHA_HERE/ios-components"
++SHARED_WIDGET_SRC_DIR="$AKASHA_HERE/ios-components/pages"
+ # Each thing this package builds is an akasha ios-program page, and the files Xcode
+ # reads by a fixed name stand beside that page under names the grammar builds.
+-PROGRAMS_DIR="$AKASHA_HERE/ios-programs"
++PROGRAMS_DIR="$AKASHA_HERE/ios-programs/pages"
+ WIDGET_PROGRAM="alanwalton-widget"
+ APP_PROGRAM="alanwalton-app"
+ WIDGET_INFO_PLIST="$PROGRAMS_DIR/$WIDGET_PROGRAM/$WIDGET_PROGRAM.ios-program.info-plist.plist"
