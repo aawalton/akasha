@@ -1,0 +1,183 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/pages/navs/pages/docs.nav.ts b/pages/navs/pages/docs.nav.ts
+deleted file mode 100644
+index ffe3c83ea6c224839d816b56d71e759061910742..0000000000000000000000000000000000000000
+--- a/pages/navs/pages/docs.nav.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Nav } from "../nav.page-type.ts"
+-
+-export const docs = {
+-  id: "01a06577-2613-7009-9d9f-888c13b9d20d",
+-  pageTypeSlug: "nav",
+-  slug: "docs",
+-  title: "Docs",
+-  icon: "files",
+-  navPlace: 2,
+-  appSlug: "alanwalton",
+-} as const satisfies Nav
+diff --git a/pages/navs/pages/errors.nav.ts b/pages/navs/pages/errors.nav.ts
+deleted file mode 100644
+index f8b420342cc29d1583491872c52e81e456149b63..0000000000000000000000000000000000000000
+--- a/pages/navs/pages/errors.nav.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Nav } from "../nav.page-type.ts"
+-
+-export const errors = {
+-  id: "01a06577-2613-700b-b901-9d5689994f4d",
+-  pageTypeSlug: "nav",
+-  slug: "errors",
+-  title: "Errors",
+-  icon: "bug",
+-  navPlace: 2,
+-  appSlug: "alanwalton",
+-} as const satisfies Nav
+diff --git a/pages/navs/pages/notifications.nav.ts b/pages/navs/pages/notifications.nav.ts
+deleted file mode 100644
+index cf1d21aa3877f9067273f83e1e8e96a04c6aa61c..0000000000000000000000000000000000000000
+--- a/pages/navs/pages/notifications.nav.ts
++++ /dev/null
+@@ -1,12 +0,0 @@
+-import type { Nav } from "../nav.page-type.ts"
+-
+-export const notifications = {
+-  id: "01a06577-2613-7012-b863-d1b5d0c9c33f",
+-  pageTypeSlug: "nav",
+-  slug: "notifications",
+-  title: "Notifications",
+-  icon: "bell",
+-  navPlace: 1,
+-  appSlug: "alanwalton",
+-  showCountBadge: true,
+-} as const satisfies Nav
+diff --git a/pages/views/pages/docs-all-pages.view.ts b/pages/views/pages/docs-all-pages.view.ts
+deleted file mode 100644
+index 4293d8e90413f4b2ccf7df95fd486c54f6e87cd7..0000000000000000000000000000000000000000
+--- a/pages/views/pages/docs-all-pages.view.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { View } from "../view.page-type.ts"
+-
+-export const docsAllPages = {
+-  id: "01a06577-2614-7011-a63b-e26a99799552",
+-  pageTypeSlug: "view",
+-  slug: "docs-all-pages",
+-  title: "All Pages",
+-  navSlug: "docs",
+-  viewPlace: 2,
+-} as const satisfies View
+diff --git a/pages/views/pages/docs-claude-md.view.ts b/pages/views/pages/docs-claude-md.view.ts
+deleted file mode 100644
+index 92bcc0da4d26d0b088e3a099529a54272dbe84fb..0000000000000000000000000000000000000000
+--- a/pages/views/pages/docs-claude-md.view.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { View } from "../view.page-type.ts"
+-
+-export const docsClaudeMd = {
+-  id: "01a06577-2614-7012-a712-91ce7be2a1c2",
+-  pageTypeSlug: "view",
+-  slug: "docs-claude-md",
+-  title: "CLAUDE.md",
+-  navSlug: "docs",
+-  viewPlace: 1,
+-  narrows: [{ key: "source-path", comparison: "has", values: ["CLAUDE.md"] }],
+-} as const satisfies View
+diff --git a/pages/views/pages/notifications-closed.view.ts b/pages/views/pages/notifications-closed.view.ts
+deleted file mode 100644
+index 14b23d2a2869240ece9de4052e9a5a31cf8d7992..0000000000000000000000000000000000000000
+--- a/pages/views/pages/notifications-closed.view.ts
++++ /dev/null
+@@ -1,15 +0,0 @@
+-import type { View } from "../view.page-type.ts"
+-
+-export const notificationsClosed = {
+-  id: "01a06577-2614-701c-92b8-fc33a64fcfb4",
+-  pageTypeSlug: "view",
+-  slug: "notifications-closed",
+-  title: "Closed",
+-  navSlug: "notifications",
+-  viewPlace: 1,
+-  layout: "list",
+-  viewSorts: [{ key: "sent-at", descending: true }],
+-  pageSize: 12,
+-  itemPageSize: 12,
+-  groupPageSize: 6,
+-} as const satisfies View
+diff --git a/pages/views/pages/notifications-unread.view.ts b/pages/views/pages/notifications-unread.view.ts
+deleted file mode 100644
+index c194b27513a892c1cc08638bb4a2c74017fcaf25..0000000000000000000000000000000000000000
+--- a/pages/views/pages/notifications-unread.view.ts
++++ /dev/null
+@@ -1,16 +0,0 @@
+-import type { View } from "../view.page-type.ts"
+-
+-export const notificationsUnread = {
+-  id: "01a06577-2614-701d-8a11-e9989b1c3a6c",
+-  pageTypeSlug: "view",
+-  slug: "notifications-unread",
+-  title: "Unread",
+-  navSlug: "notifications",
+-  viewPlace: 0,
+-  layout: "list",
+-  narrows: [{ key: "cover", comparison: "empty", values: ["false"] }],
+-  viewSorts: [{ key: "sent-at", descending: true }],
+-  pageSize: 12,
+-  itemPageSize: 12,
+-  groupPageSize: 6,
+-} as const satisfies View
+diff --git a/pages/views/pages/tracking-session-tracking.view.ts b/pages/views/pages/tracking-session-tracking.view.ts
+deleted file mode 100644
+index b853360e92ab0a6d9567efdbc5f81303bb7e3528..0000000000000000000000000000000000000000
+--- a/pages/views/pages/tracking-session-tracking.view.ts
++++ /dev/null
+@@ -1,47 +0,0 @@
+-import type { View } from "../view.page-type.ts"
+-
+-export const trackingSessionTracking = {
+-  id: "01a06577-2615-7015-b2c3-feb2457548f1",
+-  pageTypeSlug: "view",
+-  slug: "tracking-session-tracking",
+-  title: "Session Tracking",
+-  navSlug: "tracking",
+-  viewPlace: 0,
+-  layout: "table",
+-  viewSorts: [{ key: "start-time", descending: true }],
+-  groupSorts: [{ key: "created-at", descending: true }],
+-  groupBy: "daily-tracking",
+-  visibleProperties: [
+-    "title",
+-    "safety-level",
+-    "difficulty-level",
+-    "start-time",
+-    "end-time",
+-    "value",
+-    "type",
+-  ],
+-  alwaysShowProperties: ["safety-level", "difficulty-level", "start-time", "end-time"],
+-  hiddenPropertiesOrder: [
+-    "daily-tracking",
+-    "duration-seconds",
+-    "page-type-id",
+-    "health-capacity-hours",
+-    "seq",
+-    "version",
+-    "breathing-sets",
+-    "cost-multiplier",
+-    "created-at",
+-    "love-points",
+-    "projects",
+-    "relationships",
+-    "slug",
+-    "updated-at",
+-    "wealth-points",
+-    "owners",
+-    "verified",
+-    "verified-expiry",
+-  ],
+-  pageSize: 12,
+-  itemPageSize: 24,
+-  groupPageSize: 7,
+-} as const satisfies View
