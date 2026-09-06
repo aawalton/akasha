@@ -1,5 +1,5 @@
 diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.ts b/editor-extension/node-cleanliness/node-cleanliness.module.ts
-index 26ab398b56ae8d45f4dbb302d6a1c47c0fc2b083..9550759733170e3ac4c3e8d5f08a569b1ff9a16b 100644
+index 26ab398b56ae8d45f4dbb302d6a1c47c0fc2b083..15e6f5662f0bfffd405b791fc248697c284c020a 100644
 --- a/editor-extension/node-cleanliness/node-cleanliness.module.ts
 +++ b/editor-extension/node-cleanliness/node-cleanliness.module.ts
 @@ -22,7 +22,7 @@ export const nodeCleanliness = {
@@ -11,12 +11,21 @@ index 26ab398b56ae8d45f4dbb302d6a1c47c0fc2b083..9550759733170e3ac4c3e8d5f08a569b
      },
      {
        invariantKind: "departure",
-@@ -51,7 +51,7 @@ export const nodeCleanliness = {
+@@ -51,11 +51,15 @@ export const nodeCleanliness = {
      {
        invariantKind: "departure",
        statement:
 -        "`Bun.*`, `import.meta.path`, `import.meta.dir` and `import.meta.dirname` are refused.",
 +        "`Bun.*` or `import.meta.path` or `import.meta.dir` or `import.meta.dirname` is refused.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "`import.meta.main` is carried, node holding `import.meta.main`.",
++      statement: "`import.meta.main` is carried.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Node holds `import.meta.main`.",
      },
      {
        invariantKind: "departure",
