@@ -4288,7 +4288,7 @@ index 887f5c1d80f26d8107e6cf9e41973faa405cf926..0019ed8c976ffaf035115f1043100027
    invariants: [
      {
 diff --git a/pages/queries/page-query.page-type.ts b/pages/queries/page-query.page-type.ts
-index 57c39e3a4596841998f0bf065cea7ec0351c6dca..b3e625308c3de7cfa36f28576f034553838d866d 100644
+index 57c39e3a4596841998f0bf065cea7ec0351c6dca..031b312ae655b48463fb40ea725aeb8a25102738 100644
 --- a/pages/queries/page-query.page-type.ts
 +++ b/pages/queries/page-query.page-type.ts
 @@ -53,12 +53,12 @@ export const pageQuery = {
@@ -4308,6 +4308,15 @@ index 57c39e3a4596841998f0bf065cea7ec0351c6dca..b3e625308c3de7cfa36f28576f034553
      { pagePropertySlug: "text-property/sort-by", required: false, many: false },
      {
        pagePropertySlug: "boolean-property/descending",
+@@ -76,7 +76,7 @@ export const pageQuery = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A query names one page type rather than several at once.",
++      statement: "A query names one page type rather than several page types at once.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/queries/properties/asks-of-slug.text-property.ts b/pages/queries/properties/asks-of-slug.text-property.ts
 index 2bcad4d489db226fa8a5df9620f56175a90f1976..2bcc667c4d66fd3cdd54870e49a0fe0502c2d2e6 100644
 --- a/pages/queries/properties/asks-of-slug.text-property.ts
