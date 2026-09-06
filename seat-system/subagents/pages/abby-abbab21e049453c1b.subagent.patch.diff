@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-much-of-the-residue-an-interview-reaches.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-much-of-the-residue-an-interview-reaches.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4eb0497a1bc398d60d5304f61a085cde68f0ebae
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-much-of-the-residue-an-interview-reaches.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howMuchOfTheResidueAnInterviewReaches = {
++  id: "01a077e7-fd11-7680-aae2-64d9743c5e0c",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-much-of-the-residue-an-interview-reaches",
++  topicSlug: "how-i-prevent-a-category-of-wrong",
++  ask: "How much of the residue, what agents do not know is in my head, can an interview actually reach, when the interview is the only instrument aimed at that residue?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-checks-always-win-should-live.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-checks-always-win-should-live.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0a43adc2373959cb7e29890e634557c008b39437
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-checks-always-win-should-live.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereChecksAlwaysWinShouldLive = {
++  id: "01a077e7-fd12-7194-982c-4b0b2c1cb993",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-checks-always-win-should-live",
++  topicSlug: "how-i-prevent-a-category-of-wrong",
++  ask: "Where should the rule that checks always win live, so the rule binds rather than only describing me? No domain carries the rule today.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-prevent-a-category-of-wrong.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-prevent-a-category-of-wrong.all-about-alan-topic.ts
+index cc698ef1fdf14d45b10629ae22bc0e2b309750e3..b8bc005c489216f29fa3c5f10508263256471068 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-prevent-a-category-of-wrong.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-prevent-a-category-of-wrong.all-about-alan-topic.ts
+@@ -15,6 +15,4 @@ export const howIPreventACategoryOfWrong = {
+   ],
+   settled:
+     "For every failure I ask what went wrong, and how that category of wrong can be prevented.\n\nSome things can be prevented programmatically, through checks or architecture. Some only through agent instructions.\n\nChecks always win. Instructions are only for things a check cannot catch.\n\nThat includes telling agents what the checks are catching, so agents do not corrupt the checks.\n\nThe failure neither a check nor an instruction can prevent is agents not knowing what is in my head.",
+-  unsettled:
+-    "Abby's reading: the residue is what this book is for, and the interview is the only instrument aimed at it. Nothing yet says how much of it an interview can actually reach.\n\nChecks always winning is a rule I stated and no domain carries. Where it should live, so it binds rather than only describes me, is unsettled.",
+ } as const satisfies AllAboutAlanTopic
