@@ -1,0 +1,26 @@
+diff --git a/changes/command/pages/remove-page/remove-page.change-command.code.ts b/changes/command/pages/remove-page/remove-page.change-command.code.ts
+index dd75401e5b0ed13c4cb0942c2331a41d7a3b944b..281bff0e9957820c7caf37c5efb9c0f93ed41bcd 100644
+--- a/changes/command/pages/remove-page/remove-page.change-command.code.ts
++++ b/changes/command/pages/remove-page/remove-page.change-command.code.ts
+@@ -6,11 +6,11 @@ import { removePage as removeOrdinaryPage } from "../../../pages/remove-page/rem
+ 
+ const PAGE_TYPE = "page-type"
+ 
+-export type Asked = {
++export type RemovePageAsked = {
+   readonly at: string
+ }
+ 
+-export function removePage(world: World, given: Asked): Answer {
++export function removePage(world: World, given: RemovePageAsked): Answer {
+   const said = partedIn(given.at)
+   if (said === null || said.sections.length > 0) {
+     return refusing(`\`${given.at}\` reads as no page file, so no page is taken away`)
+@@ -22,3 +22,7 @@ export function removePage(world: World, given: Asked): Answer {
+   }
+   return removeOrdinaryPage(world, { at: given.at })
+ }
++
++export function runChange(world: World, given: RemovePageAsked): Answer {
++  return removePage(world, given)
++}
