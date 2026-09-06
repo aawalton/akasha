@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/agents/claude-accounts/modules/making/claude-account-making.module.ts b/agents/claude-accounts/modules/making/claude-account-making.module.ts
-index ce16a3d26e2578d6fa85cb0c89405d8dc9257307..8443b68acc8667c89f57b24aacccc8350d28d64f 100644
+index ce16a3d26e2578d6fa85cb0c89405d8dc9257307..9a86c05e6f9478fd1cf304ea20b930068c969a78 100644
 --- a/agents/claude-accounts/modules/making/claude-account-making.module.ts
 +++ b/agents/claude-accounts/modules/making/claude-account-making.module.ts
 @@ -23,7 +23,7 @@ export const claudeAccountMaking = {
@@ -9,6 +9,15 @@ index ce16a3d26e2578d6fa85cb0c89405d8dc9257307..8443b68acc8667c89f57b24aacccc835
        statement:
 -        "An account states its id, its page type, its slug, its address and its alias slot.",
 +        "An account states its id and its page type and its slug and its address and its alias slot.",
+     },
+     {
+       invariantKind: "departure",
+@@ -64,7 +64,7 @@ export const claudeAccountMaking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An identity the caller names is written rather than a fresh one.",
++      statement: "An identity the caller names is written rather than a fresh identity.",
      },
      {
        invariantKind: "departure",
