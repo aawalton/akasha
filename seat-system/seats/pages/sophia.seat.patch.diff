@@ -1,0 +1,24 @@
+diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
+index 9ad9435c3895da4094bc780d0cb206362d4d7375..4b913b15391d1506a3400367cfc36e2aedd2c6f2 100644
+--- a/command-system/asking/asking.module.ts
++++ b/command-system/asking/asking.module.ts
+@@ -175,6 +175,19 @@ export const asking = {
+       invariantKind: "departure",
+       statement: "A path outside this repository is held to no reading of the caller's.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A landing whose readers owe no reading carries their readings onto the bodies it left.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A landing whose readers owe reading carries no reading.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A reading is carried at the landing rather than by the command that asked.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Reaching a body tells a path nothing is at from a path that will not open.",
