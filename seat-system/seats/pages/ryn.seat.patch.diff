@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/seat/monarch-seat.module.ts b/alan/harness/monarch/seat/monarch-seat.module.ts
+index 16989ca6bd6b3be802160e04b476ed9c63906ca6..efde8866006581cee82e9a7e5a58b28502c4637a 100644
+--- a/alan/harness/monarch/seat/monarch-seat.module.ts
++++ b/alan/harness/monarch/seat/monarch-seat.module.ts
+@@ -14,7 +14,7 @@ export const monarchSeat = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The commands the seat ran and was refused are both reported, not only the answer that seat gave.",
++        "The commands the seat ran and was refused are reported beside the answer that seat gave.",
+     },
+     {
+       invariantKind: "departure",
