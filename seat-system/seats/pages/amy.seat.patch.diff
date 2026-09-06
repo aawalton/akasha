@@ -1,0 +1,13 @@
+diff --git a/pages/core/schema/cross-type-predicates/cross-type-predicates.module.code.ts b/pages/core/schema/cross-type-predicates/cross-type-predicates.module.code.ts
+index 0bd8666fb79eb141a5e5d5946eec279c8d25d39d..70fda391cb94252d2243d37de5b46b980968478a 100644
+--- a/pages/core/schema/cross-type-predicates/cross-type-predicates.module.code.ts
++++ b/pages/core/schema/cross-type-predicates/cross-type-predicates.module.code.ts
+@@ -8,7 +8,7 @@ export interface CrossTypePredicate {
+ }
+ 
+ const FAVORITES: CrossTypePredicate = {
+-  key: "FAVORITES",
++  key: "favorites",
+   filters: [{ propertyId: "favoritedAt", operator: "is_not_empty" }],
+   sorts: [{ field: "favoritedAt", direction: "desc" }],
+   limit: 100,
