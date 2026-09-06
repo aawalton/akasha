@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+index 5120465d4d831c5aa02455f10b92c787cf9eb403..d394522069cf93b60bf4df83404b50a96978a428 100644
+--- a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
++++ b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+@@ -17,7 +17,7 @@ export const aranyaClusterCleanup = {
+     {
+       statement: "All cluster-specific files are in the cluster/ folder.",
+       workingMemory:
+-        "`manifestCode` is gone: all 51 cluster services name a manifest page and no attachment is left, so every manifest code file sits beside a page of its own. 659 tracked files are left to move: cluster-checks 300, cluster-manifests 143, cluster-services 100, cluster-provisioning 41, k8s-types 28, cluster-operations 24, k8s-synth 15, cluster-api 8. The 51 manifest pages are not among them, since this initiative's constraint puts each under the domain it serves. Alan settles those.",
++        "`infrastructure/cluster/` holds `api`, `provisioning`, `k8s-types` and `k8s-synth`. Three folders are left, each blocked by a file no page claims, which a move refuses: `cluster-operations` by `nodes.json`, `cluster-manifests` by `tunnel-routes.ts` and four `cluster-secrets` sops files, and `service-system/cluster-services` by eleven more sops orphans, `registry.conf` and two grafana json files over the 15,000 byte ceiling. `checks/cluster-checks` stays. The 51 manifest pages sit under the domains they serve; Alan settles whether they move.",
+     },
+     {
+       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
