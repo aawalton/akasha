@@ -1,0 +1,17 @@
+diff --git a/infrastructure/infrastructure-commands/talos-config-gen/talos-config-gen.command.ts b/infrastructure/infrastructure-commands/talos-config-gen/talos-config-gen.command.ts
+index 8915d6a294fe58671940a0cc76b06d1fc8f26487..2334ee9d26dee233615d2d5bb93033485085f05d 100644
+--- a/infrastructure/infrastructure-commands/talos-config-gen/talos-config-gen.command.ts
++++ b/infrastructure/infrastructure-commands/talos-config-gen/talos-config-gen.command.ts
+@@ -26,7 +26,11 @@ export const talosConfigGen = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The node is named as a word or after `--node`, and naming both is refused.",
++      statement: "The node is named as a word or after `--node`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Naming the node twice is refused.",
+     },
+     {
+       invariantKind: "departure",
