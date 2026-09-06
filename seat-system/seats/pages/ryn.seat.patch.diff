@@ -1,5 +1,5 @@
 diff --git a/alan/fitness/exercise-access/session-closing/session-closing.module.ts b/alan/fitness/exercise-access/session-closing/session-closing.module.ts
-index 871c30f3a0037e65e1e5a4d4912a6d84db6064e6..286f003272bfa1df1c6662bf4c9d9e19c5c66455 100644
+index 871c30f3a0037e65e1e5a4d4912a6d84db6064e6..edc71f2a9e75c1ef1e351f182102bc803b7ca615 100644
 --- a/alan/fitness/exercise-access/session-closing/session-closing.module.ts
 +++ b/alan/fitness/exercise-access/session-closing/session-closing.module.ts
 @@ -19,8 +19,11 @@ export const sessionClosing = {
@@ -16,7 +16,7 @@ index 871c30f3a0037e65e1e5a4d4912a6d84db6064e6..286f003272bfa1df1c6662bf4c9d9e19
      },
      {
        invariantKind: "departure",
-@@ -29,8 +32,7 @@ export const sessionClosing = {
+@@ -29,13 +32,15 @@ export const sessionClosing = {
      },
      {
        invariantKind: "gap",
@@ -26,3 +26,13 @@ index 871c30f3a0037e65e1e5a4d4912a6d84db6064e6..286f003272bfa1df1c6662bf4c9d9e19
      },
      {
        invariantKind: "gap",
+-      statement:
+-        "Nothing here writes a close back, because the on-workstation write of a page file is the service's.",
++      statement: "Nothing here writes a close back.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "The on-workstation write of a page file is the service's.",
+     },
+   ],
+ } as const satisfies Module
