@@ -1,0 +1,79 @@
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index eef3f0177a469fb5d770d037b181e0c3397b6129..b621d8d76a17c9e0f01d0cbe96ead277c87677ea 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -432,6 +432,7 @@ export const MECHANICAL: Kind = {
+   slug: "change-mechanical",
+   runsChecks: false,
+   writerOwesReading: false,
++  readersOweReading: false,
+ }
+ 
+ export async function landedMechanically(
+diff --git a/command-system/asking/asking.module.test-fixtures.ts b/command-system/asking/asking.module.test-fixtures.ts
+index 31175dfc23325325e2e089cfb60c0dd872d6b333..a31d57a8ffba8c8d71b293ee1b3290b7dae73283 100644
+--- a/command-system/asking/asking.module.test-fixtures.ts
++++ b/command-system/asking/asking.module.test-fixtures.ts
+@@ -239,7 +239,12 @@ export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
+ export const ranBy = (runsChecks: boolean, owesReading: boolean): Running =>
+   runningOf({
+     ...givenIn(""),
+-    changeKind: { slug: "held", runsChecks, writerOwesReading: owesReading },
++    changeKind: {
++      slug: "held",
++      runsChecks,
++      writerOwesReading: owesReading,
++      readersOweReading: false,
++    },
+   })
+ 
+ export function seeded(root: string): boolean {
+diff --git a/command-system/calling/calling.module.test.ts b/command-system/calling/calling.module.test.ts
+index 795624d305e291b1c295fd98ba8465fa5da9f659..ba96faeb3ebdd13511cc4774d350503511458887 100644
+--- a/command-system/calling/calling.module.test.ts
++++ b/command-system/calling/calling.module.test.ts
+@@ -285,7 +285,12 @@ test("a name no command carries is told where the surface is written down", asyn
+   expect(said.refusals[0]).toContain("Say `akasha --help` for what each of them takes.")
+ })
+ 
+-const CARRIED = { slug: "change-mechanical", runsChecks: false, writerOwesReading: false }
++const CARRIED = {
++  slug: "change-mechanical",
++  runsChecks: false,
++  writerOwesReading: false,
++  readersOweReading: false,
++}
+ 
+ test("the change kind a call already carries is what the command is handed", async () => {
+   const root = rootWith([{ slug: "held", body: SAYS_KIND }])
+diff --git a/command-system/calling/calling.module.ts b/command-system/calling/calling.module.ts
+index 0dac9d7f60216ab48372c75ddd2b4d721bf9c4de..8ee27d9126247421e93973ca3964acb8600160c1 100644
+--- a/command-system/calling/calling.module.ts
++++ b/command-system/calling/calling.module.ts
+@@ -94,7 +94,7 @@ export const calling = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The checks a kind runs and the reading its writer owes are read off that kind's own page.",
++        "The checks a kind runs and the readings a change of that kind owes are read off its page.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/command-system/commands/replace/replace.command.test.ts b/command-system/commands/replace/replace.command.test.ts
+index 188d543115bd51437232e1b3ca6b63c14b5e8b4b..bf244516e1c691ca586ebfe0421bb08e996df107 100644
+--- a/command-system/commands/replace/replace.command.test.ts
++++ b/command-system/commands/replace/replace.command.test.ts
+@@ -33,7 +33,12 @@ function givenIn(root: string): Given {
+   }
+ }
+ 
+-const CHECKED = { slug: "change-checked", runsChecks: true, writerOwesReading: false }
++const CHECKED = {
++  slug: "change-checked",
++  runsChecks: true,
++  writerOwesReading: false,
++  readersOweReading: false,
++}
+ 
+ function checkedIn(root: string): Given {
+   return { ...givenIn(root), changeKind: CHECKED }
