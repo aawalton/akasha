@@ -1,0 +1,54 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-affordable-social-raises-safety.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-affordable-social-raises-safety.all-about-alan-question.ts
+index 263a5190a7b3c760375ad0a9f104d4b6b0004cd2..fe1fa6c2c91c7142da5c14256785a06211a68294 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-affordable-social-raises-safety.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-affordable-social-raises-safety.all-about-alan-question.ts
+@@ -4,6 +4,6 @@ export const whetherAffordableSocialRaisesSafety = {
+   id: "01a0780b-3f60-7d47-bd01-8caf43bb2b44",
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-affordable-social-raises-safety",
+-  topicSlug: "the-harness-around-my-safety",
++  topicSlug: "the-marriage-lever-i-cannot-read",
+   ask: "Does positive affordable social raise my safety in its own right, and is that a reach of the marriage dimension or a lever of its own?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-charisma-misses-the-costly-time.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-charisma-misses-the-costly-time.all-about-alan-question.ts
+index 143bf97a44e9690ec55bce2c4ea8641f022fc98e..a842f0fc35ead0d83af6d80c00b654884c372361 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-charisma-misses-the-costly-time.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-charisma-misses-the-costly-time.all-about-alan-question.ts
+@@ -4,6 +4,6 @@ export const whetherCharismaMissesTheCostlyTime = {
+   id: "01a0782e-0fd0-7d13-9c40-f6d6b1c7b805",
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-charisma-misses-the-costly-time",
+-  topicSlug: "the-harness-around-my-safety",
++  topicSlug: "the-marriage-lever-i-cannot-read",
+   ask: "My Charisma proxy reads affordable time with Jen. Does the time that moves the marriage sit inside the affordable band, or is the costly time the time that counts?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts
+index 94f099f3e6a49c32de3e5b34de918d5ce510a6f0..0b79191063d323558642bcc04ab46abc95bb4431 100644
+--- a/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts
+@@ -9,5 +9,5 @@ export const theHarnessAroundMySafety = {
+   parentSlugs: ["how-safety-climbs"],
+   relatedSlugs: ["how-i-get-anything-done"],
+   settled:
+-    "I am building my harness out around safety as well, and the harness takes a different set of interventions from the ones executive function took.\n\nFour are visible to me so far. Changes flowing smoothly through akasha, read off whether my list of work is getting longer or shorter. My marriage being good, and more so getting better. The flow through my life going well, read off more green and blue stoplights. Banking surplus over time.\n\nAll four could be measured, and not all four are measured yet. The marriage lever has no working tracking at all. I know the lever has an impact, and my best proxy is the Charisma measure, where affordable time spent with Jen is a strong positive signal.\n\nI hold a hypothesis that positive affordable social raises safety in its own right, perhaps as a reach of the marriage dimension, and perhaps even when the social is unaffordable, where the two forces pull opposite ways.",
++    "I am building my harness out around safety as well, and the harness takes a different set of interventions from the ones executive function took.\n\nFour are visible to me so far. Changes flowing smoothly through akasha, read off whether my list of work is getting longer or shorter. My marriage being good, and more so getting better. The flow through my life going well, read off more green and blue stoplights. Banking surplus over time.\n\nAll four could be measured, and not all four are measured yet.\n\nMy own effort goes into the flow and the stoplights.",
+ } as const satisfies AllAboutAlanTopic
+diff --git a/alan/books/all-about-alan/topics/pages/the-marriage-lever-i-cannot-read.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-marriage-lever-i-cannot-read.all-about-alan-topic.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8d86298e86bedad65373c526d53897f4b3e50092
+--- /dev/null
++++ b/alan/books/all-about-alan/topics/pages/the-marriage-lever-i-cannot-read.all-about-alan-topic.ts
+@@ -0,0 +1,13 @@
++import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
++
++export const theMarriageLeverICannotRead = {
++  id: "01a0784a-5761-7614-9bc5-c0913da356b1",
++  pageTypeSlug: "all-about-alan-topic",
++  slug: "the-marriage-lever-i-cannot-read",
++  title: "The Marriage Lever I Cannot Read",
++  definition: "the marriage intervention on my safety, and the proxy I read it by",
++  parentSlugs: ["the-harness-around-my-safety"],
++  relatedSlugs: ["the-budget-i-run-my-days-on", "what-holds-my-marriage"],
++  settled:
++    "The marriage lever has no working tracking at all. I know the lever has an impact, and my best proxy is the Charisma measure, where affordable time spent with Jen is a strong positive signal.\n\nI hold a hypothesis that positive affordable social raises safety in its own right, perhaps as a reach of the marriage dimension, and perhaps even when the social is unaffordable, where the two forces pull opposite ways.\n\nWhere my spend on time with Jen runs above the affordable line, the overshoot counterbalances itself a good deal on this lever.",
++} as const satisfies AllAboutAlanTopic
