@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-something-gets-added-to-the-rotation.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-something-gets-added-to-the-rotation.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d2e297f264cad05a5f61b6a286c5ad6a6e7a70fa
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-something-gets-added-to-the-rotation.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howSomethingGetsAddedToTheRotation = {
++  id: "01a077ef-f63f-784b-9d2d-cb59ff0defe3",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-something-gets-added-to-the-rotation",
++  topicSlug: "how-something-joins-the-rotation",
++  ask: "How do I decide to add something to the rotation: does interest fire, or do I put the thing there deliberately?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-something-retires-from-the-rotation.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-something-retires-from-the-rotation.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..44d3bd93b267542b077b4d0b06a62b5cde5a8b2f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-something-retires-from-the-rotation.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howSomethingRetiresFromTheRotation = {
++  id: "01a077ef-f640-75a6-be55-89a1101ea18d",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-something-retires-from-the-rotation",
++  topicSlug: "how-something-joins-the-rotation",
++  ask: "How does something retire from the rotation — finished, quit, or forgotten — when no convention says which of the three it was?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-happens-when-a-thing-resists-chunking.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-happens-when-a-thing-resists-chunking.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b2f44410b4a688b4e24871cb23974481d2cbb6b6
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-happens-when-a-thing-resists-chunking.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatHappensWhenAThingResistsChunking = {
++  id: "01a077ef-f641-7687-a917-84c2db248f77",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-happens-when-a-thing-resists-chunking",
++  topicSlug: "how-something-joins-the-rotation",
++  ask: "What do I do with something so engaging I will not chunk it, or something so dull I chunk it to nothing? Both failure modes are named and unworked.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-something-joins-the-rotation.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-something-joins-the-rotation.all-about-alan-topic.ts
+index 9636d5ce117a875e034efb398659609fd0b8e568..0728ab0ede0489143764976ae9d1c966af7c29cd 100644
+--- a/alan/books/all-about-alan/topics/pages/how-something-joins-the-rotation.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-something-joins-the-rotation.all-about-alan-topic.ts
+@@ -7,6 +7,4 @@ export const howSomethingJoinsTheRotation = {
+   title: "How Something Joins The Rotation",
+   definition: "what gets into the set I am working through, and what leaves it",
+   parentSlugs: ["small-bites-of-many-things"],
+-  unsettled:
+-    "How I decide to add something, whether interest fires or I put it there deliberately, is uncaptured.\n\nHow things retire, finished against quit against forgotten, has no convention.\n\nThe failure modes are named and unworked: something so engaging I will not chunk it, something so dull I chunk it to nothing.",
+ } as const satisfies AllAboutAlanTopic
