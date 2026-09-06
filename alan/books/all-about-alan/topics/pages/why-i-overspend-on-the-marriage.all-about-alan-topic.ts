@@ -7,7 +7,11 @@ export const whyIOverspendOnTheMarriage = {
   title: "Why I Overspend On The Marriage",
   definition: "why I keep paying above the affordable line for time with Jen",
   parentSlugs: ["the-marriage-lever-i-cannot-read"],
-  relatedSlugs: ["the-budget-i-run-my-days-on", "blank-check-mode-and-recovery-mode"],
+  relatedSlugs: [
+    "the-budget-i-run-my-days-on",
+    "blank-check-mode-and-recovery-mode",
+    "the-odds-of-a-hard-evening",
+  ],
   settled:
-    "Where my spend on time with Jen runs above the affordable line, the overshoot counterbalances itself a good deal on the marriage lever.\n\nI have no visibility into the rate of that exchange. What I know is that the middle is better than all of one or all of the other.\n\nI learned painfully that not depositing enough into the marriage in the short term brings long term losses that outweigh the savings.\n\nI lose either way right now. This way I lose less overall.\n\nHow the relationship is going moves the difficulty of our time inside its band. The better it goes, the more of that time is rated three rather than five. It never goes below three.",
+    "Where my spend on time with Jen runs above the affordable line, the overshoot counterbalances itself a good deal on the marriage lever.\n\nI have no visibility into the rate of that exchange. What I know is that the middle is better than all of one or all of the other.\n\nI learned painfully that not depositing enough into the marriage in the short term brings long term losses that outweigh the savings.\n\nI lose either way right now. This way I lose less overall.\n\nHow the relationship is going moves the difficulty of our time inside its band. The better it goes, the more of that time is rated three rather than five. It never goes below three.\n\nThe share of hard evenings came down in September rather than climbing past half. I read that as the middle working, and I hope it gets better.",
 } as const satisfies AllAboutAlanTopic
