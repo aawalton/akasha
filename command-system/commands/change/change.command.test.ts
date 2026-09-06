@@ -105,7 +105,10 @@ test("a call naming no change is refused with the changes this command runs", ()
 test("a flag the change named does not take is refused", () => {
   const said = changing(repo(), PAGE, ["remove-page", "--message", "why"])
 
-  expect(said.refusals).toEqual(["`--message` is no flag this takes"])
+  expect(said.refusals).toEqual([
+    "`--message` is no flag this takes",
+    "`why` is no flag this takes",
+  ])
 })
 
 test("a call naming no path is refused", () => {
