@@ -208,3 +208,35 @@ index 5a064472cf2f1c7bb35a7006513c16e318651acd..4d6f73cc025bf25e2e42383f1db03116
    if (page.agentId === "" || page.seatId === "") {
      return {
        page,
+diff --git a/seat-system/subagent-census/subagent-census.module.ts b/seat-system/subagent-census/subagent-census.module.ts
+index 31dae6ddd7b2f0f3387678f5c5a147b4b2f7938a..88a2ddc2533f6424fbc7b5fb2c9077ca7484d661 100644
+--- a/seat-system/subagent-census/subagent-census.module.ts
++++ b/seat-system/subagent-census/subagent-census.module.ts
+@@ -31,11 +31,25 @@ export const subagentCensus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Transcript evidence is weighed before every rule that could reach stale.",
++      statement: "A subagent its seat's transcript saw start and finish reads that page as stale.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "What a transcript says of life is weighed before what that transcript says of an end.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "What a transcript says of life is weighed before every rule that could reach stale.",
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing read from a transcript makes a page stale.",
++      statement: "The absence of a running subagent in a transcript makes no page stale.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An agent id a transcript never read a launch receipt for ends no page.",
+     },
+     {
+       invariantKind: "departure",
