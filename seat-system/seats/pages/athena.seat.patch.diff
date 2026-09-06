@@ -1,5 +1,3 @@
-writerOwesReading: false
-readersOweReading: false
 diff --git a/domains/domain.workspace-package.ts b/domains/domain.workspace-package.ts
 index 480577f989cd4aca74faac5cd4512f2ec93e3543..8fd93de361db96d651477274d2cb074a08258ca2 100644
 --- a/domains/domain.workspace-package.ts
@@ -449,6 +447,18 @@ index 0000000000000000000000000000000000000000..880b93ddb43a4dcf6c125f8b8cb45fbd
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/domains/package.json b/domains/package.json
+index 3c3bcdb8e18661a9b4d5af795f51d9aa2cfc57c0..009a2fd4f4ad1f018d8c56e0e34ada90ced2511d 100644
+--- a/domains/package.json
++++ b/domains/package.json
+@@ -7,6 +7,7 @@
+     "./domain-slug": "./properties/domain-slug.relation-property.ts",
+     "./initiative-slug": "./initiatives/properties/initiative-slug.relation-property.ts",
+     "./domain-reading": "./modules/reading/domain-reading.module.code.ts",
++    "./domain-rows": "./modules/domain-rows/domain-rows.module.code.ts",
+     "./work-initiatives": "./modules/work-initiatives/work-initiatives.module.code.ts"
+   }
+ }
 diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
 index e395f0709ad9291da58978ab1a83a23f79ad9f0f..4d5e87a5f8eb8655f8e47f98c4371fb2214a0433 100644
 --- a/editor-extension/editor-extension.workspace-package.ts
