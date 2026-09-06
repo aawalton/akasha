@@ -1,0 +1,13 @@
+diff --git a/editor-extension/subagent-checkpoints/subagent-checkpoints.module.ts b/editor-extension/subagent-checkpoints/subagent-checkpoints.module.ts
+index 1e86a9eae7d8a39db59317a27bcce98f1f31be5e..1fca6913a08f9780a1553c4be27e30fc13ded7a4 100644
+--- a/editor-extension/subagent-checkpoints/subagent-checkpoints.module.ts
++++ b/editor-extension/subagent-checkpoints/subagent-checkpoints.module.ts
+@@ -10,7 +10,7 @@ export const subagentCheckpoints = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A checkpoint is the offset, the anchor and the state taken together.",
++      statement: "A checkpoint is the offset and the anchor and the state taken together.",
+     },
+     {
+       invariantKind: "departure",
