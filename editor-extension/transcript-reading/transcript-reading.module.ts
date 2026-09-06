@@ -9,7 +9,7 @@ export const transcriptReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A file is folded only over the bytes appended since the last read.",
+      statement: "A file is folded only over the bytes appended after the last read.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const transcriptReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A read says how many bytes that read folded and how many remain.",
+      statement: "A read says how many bytes that read folded and how many bytes remain.",
     },
     {
       invariantKind: "departure",
