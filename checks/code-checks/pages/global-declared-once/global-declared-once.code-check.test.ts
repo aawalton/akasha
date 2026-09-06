@@ -152,11 +152,22 @@ test("a value and a type two declaration files declare alike are two names", () 
   expect(across(HOLDS_VALUE, HOLDS_ALIAS)).toEqual([])
 })
 
-test("a refusal against a module the change leaves untouched says so", () => {
+test("a clash the change carries the module of is refused", () => {
+  expect(over(HOLDS_VALUE, HOLDS_VALUE).map((each) => each.path)).toEqual([MODULE_AT])
+})
+
+test("a clash the change carries neither of the two files of is refused nothing", () => {
+  const held = globally(indented(HOLDS_VALUE))
+  const root = staging(HOLDS_VALUE, held)
+  const apart = "akasha/two.module.code.ts"
+  expect(judged(change(root, { [apart]: "export const away = 2\n" }))).toEqual([])
+})
+
+test("a clash the change carries the declaration file of alone is refused", () => {
   const held = globally(indented(HOLDS_VALUE))
   const root = staging(HOLDS_VALUE, held)
   const said = judged(change(root, { [SHARED_AT]: HOLDS_VALUE }))
-  expect(reasoned(said)).toContain("This change does not carry that module")
+  expect(said.map((each) => each.path)).toEqual([MODULE_AT])
 })
 
 test("a module spelling no declare global states no global", () => {

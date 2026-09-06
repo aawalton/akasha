@@ -21,9 +21,6 @@ const MEMBER_HARM =
 const NAME_HARM =
   "A name declared twice is a redeclaration, and a redeclared name stops being typechecked wherever it is read."
 
-const ELSEWHERE =
-  "This change does not carry that module, and the name is declared twice all the same."
-
 export type Space = "value" | "type"
 
 export type Kind =
@@ -136,10 +133,9 @@ export function readingIn(change: Change, shadow: Shadow): readonly string[] {
   return [...held].sort()
 }
 
-export function reasonFor(one: Stated, held: Stated, carried: boolean): string {
+export function reasonFor(one: Stated, held: Stated): string {
   const harm = one.kind === "member" ? MEMBER_HARM : NAME_HARM
-  const said = `\`${one.name}\` is declared at ${one.path}:${one.line} and at ${held.path}:${held.line}. ${ONE_HOME} ${harm}`
-  return carried ? said : `${said} ${ELSEWHERE}`
+  return `\`${one.name}\` is declared at ${one.path}:${one.line} and at ${held.path}:${held.line}. ${ONE_HOME} ${harm}`
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
@@ -170,10 +166,8 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     clashes.push({ one, held })
   }
   const carried = new Set(change.changed)
-  return clashes.map(({ one, held }) => ({
-    path: one.path,
-    reason: reasonFor(one, held, carried.has(one.path)),
-  }))
+  const found = clashes.filter(({ one, held }) => carried.has(one.path) || carried.has(held.path))
+  return found.map(({ one, held }) => ({ path: one.path, reason: reasonFor(one, held) }))
 }
 
 const GLOBALS: Selector<Body> = {

@@ -70,7 +70,13 @@ export const globalDeclaredOnce = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal against a module the change leaves untouched says so.",
+      statement:
+        "A clash is refused only where the change carries one of the two files declaring the name.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A refusal names the same file whether the change carries that file or the other file.",
     },
     {
       invariantKind: "departure",
