@@ -63,9 +63,9 @@ export const dallaDraftIntoAPatch = {
         "Three tiers, told apart by who finds the reach. Partial: `repoint-imports`, `respell-export`, `restate-value`, each handed the files it works over. Atomic: `rename-local-variable`, `rename-export`, `rename-property-signature`, `rename-path`, `rename-page-slug`. Refactor: `rename-code-token`, `rename-page`. `akasha refactor rename page-slug` runs `rename-page` through `page-renaming` and takes no dry run. Left: `rename-page-type-slug` and `rename-page-type`. `retype` is the last act of that command still landing through the code a change page replaces.",
     },
     {
-      statement: "The change page types are named change-atomic and change-refactor.",
+      statement: "Every change page is a change-partial or a change-command.",
       workingMemory:
-        "`atomic-change` becomes `change-atomic` under `changes/atomic`, and `refactor-change` becomes `change-refactor` under `changes/refactor`. The refactor command now runs the change page, so what these two wait on is no longer the command but `rename-page-type`, a page type's slug being renamed by another act. `change-partial` was born under this naming at `changes/partial`, so the two older types alone wait.",
+        "`change-partial` narrows `isCommand` and `runsChecks` to false and `change-command` narrows both to true, so the four invariants leave no third shape. A command dispatches to the partials for a page, a page type and a page property, so no second command is needed. One slug sits under both types, which `slug` allows by being unique per page type. `atomic-change` and `refactor-change` go rather than being renamed: every change now takes a `World`, so the partial/atomic line is gone.",
     },
     {
       statement: "Removing a page, a page type and a page property are three peer changes.",
