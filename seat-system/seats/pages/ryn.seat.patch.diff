@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/seat-system/agent-settings/agent-settings.page-type.ts b/seat-system/agent-settings/agent-settings.page-type.ts
+index 80e0e7ae0b3f98ceca68937b521a29090ac7231c..99103fc2ec80aeaefc04e457e035e2cd7ff1b6c2 100644
+--- a/seat-system/agent-settings/agent-settings.page-type.ts
++++ b/seat-system/agent-settings/agent-settings.page-type.ts
+@@ -35,7 +35,8 @@ export const agentSettings = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A derived document is merged over this one and written outside the repository.",
++      statement:
++        "A derived document is merged over this document and written outside the repository.",
+     },
+     {
+       invariantKind: "departure",
