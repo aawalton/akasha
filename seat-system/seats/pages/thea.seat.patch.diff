@@ -3701,29 +3701,6 @@ index d09704deb1ae356c9453c7ffeed5830cb222e3d7..a7695954ae8b7d81d87e0d3ed61618bf
    nameFormatSlug: null,
    invariants: [
      {
-diff --git a/domains/properties/definition.text-property.ts b/domains/properties/definition.text-property.ts
-index c4f285d1e65546d50af8c7873988598e7f87d2c4..c2d51f6db5f8984ef2fb281adc5a80126c782eed 100644
---- a/domains/properties/definition.text-property.ts
-+++ b/domains/properties/definition.text-property.ts
-@@ -8,7 +8,7 @@ export const definition = {
-   slug: "definition",
-   propertySlug: "definition",
-   definition: "the sentence naming what a page's subject is",
--  max: 100,
-+  maxLength: 100,
-   nameFormatSlug: null,
-   invariants: [
-     {
-@@ -29,8 +29,7 @@ export const definition = {
-     },
-     {
-       invariantKind: "departure",
--      statement:
--        "Where a second concern is needed to cover the area, that area is more than one domain.",
-+      statement: "An area needing a second concern to cover it is more than one domain.",
-     },
-     {
-       invariantKind: "departure",
 diff --git a/domains/properties/directives.record-property.ts b/domains/properties/directives.record-property.ts
 index d68bb8e6a725017435ccaadb039dc2dd5406057a..ba7dab64d3fd6c94bd54fd7dee3549f0636f7783 100644
 --- a/domains/properties/directives.record-property.ts
