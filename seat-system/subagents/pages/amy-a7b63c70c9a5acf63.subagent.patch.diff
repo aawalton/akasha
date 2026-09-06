@@ -246128,3 +246128,15 @@ toj*PAzw)>Jbl%=a^M!x?<v*U^{BJ<;wW1_4@Ff5M002ovPDHLkV1g(fNrC_X
 literal 0
 HcmV?d00001
 
+diff --git a/personas/natalie/natalie.persona.ts b/personas/natalie/natalie.persona.ts
+index 95d307aa70fca2d5b5697e368fe8c3395e7e01a6..7d43f222490b6c6ab5665122dc6a476793aa7c2a 100644
+--- a/personas/natalie/natalie.persona.ts
++++ b/personas/natalie/natalie.persona.ts
+@@ -18,6 +18,7 @@ export const natalie = {
+     "A warm Southern woman with a low, slightly husky, honey-rich voice, but talking quick and bright and bubbly with lively energy and a grin you can hear — deep-toned yet sunny and fast, grounded, never high, never slow.",
+   voiceReferenceSha256: "9e71f7f422b8e34d45064c053597ae521de9e8d3fe3d2be4f4ea030db5109ebd",
+   cover: "/api/image/019f324d-5718-7969-aa4f-5e1e0e3ec9ef",
++  desktopWallpaper: "png",
+   mobileWallpaper: "png",
+   greenDayPoints: 160,
+   history:
