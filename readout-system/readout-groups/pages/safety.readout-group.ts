@@ -5,10 +5,15 @@ export const safety = {
   pageTypeSlug: "readout-group",
   slug: "safety",
   definition: "how safe things are where Alan is",
+  figureOffScale: true,
   invariants: [
     {
       invariantKind: "departure",
       statement: "The color reports where Alan is rather than whether Alan did well.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A level draws its figure at either end of its scale, the tile drawing it alone.",
     },
   ],
 } as const satisfies ReadoutGroup
