@@ -52,6 +52,34 @@ index 1077bcb7b46035f676134ac393c557fa8f4cefbb..223248cc883b5e1cc872632bd8e1a5fb
      commit: done.commit,
    }
  }
+diff --git a/command-system/applying/applying.module.ts b/command-system/applying/applying.module.ts
+index e37857267e7a7f74b0b53d3cca5ddc1a1d7398ed..b3365be082a260748adb812e6ecdd00a8c7615aa 100644
+--- a/command-system/applying/applying.module.ts
++++ b/command-system/applying/applying.module.ts
+@@ -48,6 +48,23 @@ export const applying = {
+       invariantKind: "departure",
+       statement: "A body the formatter moved is named in the answer.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An apply carrying a manifest carries the lockfile those manifests warrant.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An apply writes a page type's worked type again as any other landing does.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An apply carrying a manifest installs the checkout onto the commit it landed.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "An install the apply's tree would not take is answered as the landing road answers it.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
 diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
 index f4c920cb9d9d83da19c9986b11a6dfe486387a53..b23d2f325e17f886e912fb7940f3fc3b29dc0c7c 100644
 --- a/command-system/asking/asking.module.code.ts
