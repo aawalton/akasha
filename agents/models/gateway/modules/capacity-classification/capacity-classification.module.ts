@@ -10,7 +10,7 @@ export const capacityClassification = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A window status present and other than allowed is capacity.",
+      statement: "A window status present with a value other than allowed is capacity.",
     },
     {
       invariantKind: "departure",
