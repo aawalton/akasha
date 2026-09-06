@@ -63,7 +63,7 @@ export const piping = {
     },
     {
       invariantKind: "departure",
-      statement: "A run of its own is the letters, digits and dashes after the opening run.",
+      statement: "A run of its own is the letters and digits and dashes after the opening run.",
     },
     {
       invariantKind: "departure",
@@ -93,7 +93,7 @@ export const piping = {
     },
     {
       invariantKind: "departure",
-      statement: "Each of the two is ended mid-line on its own.",
+      statement: "Each marker is ended mid-line on its own.",
     },
     {
       invariantKind: "departure",
@@ -130,7 +130,7 @@ export const piping = {
     {
       invariantKind: "gap",
       statement:
-        "An input no second descriptor can be opened on is answered as one that would not open.",
+        "An input no second descriptor can be opened on is answered as an input that would not open.",
     },
   ],
 } as const satisfies Module
