@@ -179,3 +179,184 @@ index e5c152086ce46a8501ccea0610e5d1e3276208a3..7067afe70ad2e794dd412cf111219c3d
      drawn.push({
        slug: address,
        path: one.path,
+diff --git a/editor-extension/panel-domains/panel-domains.module.test.ts b/editor-extension/panel-domains/panel-domains.module.test.ts
+index 59881315ff632504df695a9b718da7ef1b8422a7..7af6b04579158ce42fc892e9f004066d915805ce 100644
+--- a/editor-extension/panel-domains/panel-domains.module.test.ts
++++ b/editor-extension/panel-domains/panel-domains.module.test.ts
+@@ -16,7 +16,9 @@ const THREE = "01a04e9f-1111-7000-8000-00000000000c"
+ 
+ const KIND = "01a04e9f-1111-7000-8000-00000000000d"
+ 
+-const PART_SLUGS = "part-slugs"
++const HER = "01a04e9f-1111-7000-8000-00000000000e"
++
++const CHAMPIONED = "championed-domain-slug"
+ 
+ const scratch = scratchWorld()
+ 
+@@ -28,34 +30,38 @@ function pageAt(root: string, path: string, body: string): undefined {
+   writeFileSync(at, body)
+ }
+ 
+-// The pages of a page type are read out of the value index, one line for each page, so that is
+-// where a test puts them. The identity index answers which page carries one slug, which is a
+-// narrower question than this panel asks.
+-function filing(root: string, kind: string, slug: string, id: string, body?: string): undefined {
++// The pages of a page type are read out of the value index, one line for each page carrying that
++// page's whole value, so that is where a test puts them and their parts both. The identity index
++// answers which page carries one slug, which is a narrower question than this panel asks.
++function filing(
++  root: string,
++  kind: string,
++  slug: string,
++  id: string,
++  value: Readonly<Record<string, unknown>> = {}
++): undefined {
+   const path = `akasha/held/${slug}.${kind}.ts`
+-  valueAlsoFiled(root, kind, [{ path, value: { id, slug } }])
+-  if (body !== undefined) pageAt(root, path, body)
++  valueAlsoFiled(root, kind, [{ path, value: { id, slug, ...value } }])
+ }
+ 
+-function under(root: string, child: string, parent: string): undefined {
+-  relationFiled(root, child, PART_SLUGS, parent, [
+-    { path: "akasha/held/naming.domain.ts", id: parent },
+-  ])
++// A page type says what it extends in its body rather than in the index, so the descent opens it.
++function typing(root: string, slug: string, id: string, above: string): undefined {
++  const path = `akasha/held/${slug}.page-type.ts`
++  valueAlsoFiled(root, "page-type", [{ path, value: { id, slug } }])
++  pageAt(
++    root,
++    path,
++    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ["${above}"] }\n`
++  )
+ }
+ 
+-function parts(slug: string, held: readonly string[]): string {
+-  return `export const held = { slug: ${JSON.stringify(slug)}, partSlugs: ${JSON.stringify(held)} }\n`
++function champions(root: string, id: string, her: string): undefined {
++  relationFiled(root, id, CHAMPIONED, her, [{ path: `personas/${her}.persona.ts`, id: her }])
+ }
+ 
+ test("a page type under domain is a kind that is drawn", () => {
+   const root = scratch.rootFor("akasha-domains-")
+-  filing(
+-    root,
+-    "page-type",
+-    "module",
+-    KIND,
+-    'export const held = { slug: "module", extendsSlug: ["page-type/domain"] }\n'
+-  )
++  typing(root, "module", KIND, "page-type/domain")
+   const kinds = kindsUnderDomain(root)
+   expect(kinds.has("domain")).toBe(true)
+   expect(kinds.has("module")).toBe(true)
+@@ -63,32 +69,14 @@ test("a page type under domain is a kind that is drawn", () => {
+ 
+ test("a page type under one that sits under domain is drawn too", () => {
+   const root = scratch.rootFor("akasha-domains-")
+-  filing(
+-    root,
+-    "page-type",
+-    "module",
+-    KIND,
+-    'export const held = { slug: "module", extendsSlug: ["page-type/domain"] }\n'
+-  )
+-  filing(
+-    root,
+-    "page-type",
+-    "check",
+-    TWO,
+-    'export const held = { slug: "check", extendsSlug: ["page-type/module"] }\n'
+-  )
++  typing(root, "module", KIND, "page-type/domain")
++  typing(root, "check", TWO, "page-type/module")
+   expect(kindsUnderDomain(root).has("check")).toBe(true)
+ })
+ 
+ test("a page type outside domain is no kind of this panel", () => {
+   const root = scratch.rootFor("akasha-domains-")
+-  filing(
+-    root,
+-    "page-type",
+-    "finding",
+-    KIND,
+-    'export const held = { slug: "finding", extendsSlug: ["page-type/page"] }\n'
+-  )
++  typing(root, "finding", KIND, "page-type/page")
+   expect(kindsUnderDomain(root).has("finding")).toBe(false)
+ })
+ 
+@@ -98,11 +86,10 @@ test("a page is answered under its address", () => {
+   expect(domainsDrawn(root).map((held) => held.slug)).toEqual(["domain/one"])
+ })
+ 
+-test("the part edge is filed under the part, so the part is the one that sits under", () => {
++test("the part edge is read off the page naming the part", () => {
+   const root = scratch.rootFor("akasha-domains-")
+-  filing(root, "domain", "over", ONE, parts("over", ["domain/under"]))
++  filing(root, "domain", "over", ONE, { partSlugs: ["domain/under"] })
+   filing(root, "domain", "under", TWO)
+-  under(root, TWO, ONE)
+   const drawn = domainsDrawn(root)
+   expect(drawn.find((held) => held.slug === "domain/under")?.parent).toBe("domain/over")
+   expect(drawn.find((held) => held.slug === "domain/over")?.parent).toBe(null)
+@@ -110,27 +97,48 @@ test("the part edge is filed under the part, so the part is the one that sits un
+ 
+ test("an order is read off the page holding the parts", () => {
+   const root = scratch.rootFor("akasha-domains-")
+-  filing(root, "domain", "over", ONE, parts("over", ["domain/second", "domain/first"]))
++  filing(root, "domain", "over", ONE, { partSlugs: ["domain/second", "domain/first"] })
+   filing(root, "domain", "first", TWO)
+   filing(root, "domain", "second", THREE)
+-  under(root, TWO, ONE)
+-  under(root, THREE, ONE)
+   const over = domainsDrawn(root).find((held) => held.slug === "domain/over")
+   expect(over?.sequence).toEqual(["domain/second", "domain/first"])
+ })
+ 
+-test("a page the index says holds no part is answered with no order", () => {
++test("a page whose every part names nothing listed is answered with no order", () => {
+   const root = scratch.rootFor("akasha-domains-")
+-  filing(root, "domain", "one", ONE, parts("one", ["domain/absent"]))
++  filing(root, "domain", "one", ONE, { partSlugs: ["domain/absent"] })
+   expect(domainsDrawn(root)[0]?.sequence).toEqual([])
+ })
+ 
+ test("a page under two parents sits under none", () => {
+   const root = scratch.rootFor("akasha-domains-")
+-  filing(root, "domain", "over", ONE, parts("over", ["domain/under"]))
+-  filing(root, "domain", "also", TWO, parts("also", ["domain/under"]))
++  filing(root, "domain", "over", ONE, { partSlugs: ["domain/under"] })
++  filing(root, "domain", "also", TWO, { partSlugs: ["domain/under"] })
+   filing(root, "domain", "under", THREE)
+-  under(root, THREE, ONE)
+-  under(root, THREE, TWO)
+   expect(domainsDrawn(root).find((held) => held.slug === "domain/under")?.parent).toBe(null)
+ })
++
++test("a domain a persona names by address answers with that persona", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  filing(root, "domain", "one", ONE)
++  filing(root, "persona", "athena", HER, { championedDomainSlug: "domain/one" })
++  champions(root, ONE, HER)
++  expect(domainsDrawn(root).find((held) => held.slug === "domain/one")?.persona).toBe("athena")
++})
++
++test("a domain a persona names by a bare slug answers with that persona", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  filing(root, "domain", "one", ONE)
++  filing(root, "persona", "athena", HER, { championedDomainSlug: "one" })
++  champions(root, ONE, HER)
++  expect(domainsDrawn(root).find((held) => held.slug === "domain/one")?.persona).toBe("athena")
++})
++
++test("a domain no persona names answers with no champion", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  filing(root, "domain", "one", ONE)
++  filing(root, "domain", "two", TWO)
++  filing(root, "persona", "athena", HER, { championedDomainSlug: "domain/one" })
++  champions(root, ONE, HER)
++  expect(domainsDrawn(root).find((held) => held.slug === "domain/two")?.persona).toBe(null)
++})
