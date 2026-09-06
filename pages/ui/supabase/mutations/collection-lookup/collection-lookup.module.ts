@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const collectionLookup = {
   id: "01a05cb4-fefb-7990-96fb-d24f59b499f3",

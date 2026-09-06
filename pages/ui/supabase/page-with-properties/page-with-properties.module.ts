@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageWithProperties = {
   id: "01a05cac-2a4f-74fa-a0c3-9ea5542cdf79",

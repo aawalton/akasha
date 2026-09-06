@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const recurrence = {
   id: "01a05c6f-c7c2-7806-b684-baa6549863dc",

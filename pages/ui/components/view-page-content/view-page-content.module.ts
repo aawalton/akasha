@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const viewPageContent = {
   id: "01a06259-518d-7b02-91ff-6612d1ce5b85",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useNavMutations = {
   id: "01a061df-fe7f-7003-bf04-240a326c87cb",

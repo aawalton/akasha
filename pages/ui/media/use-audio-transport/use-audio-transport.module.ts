@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useAudioTransport = {
   id: "01a06164-b506-7005-b8d6-5b08ee408ce6",

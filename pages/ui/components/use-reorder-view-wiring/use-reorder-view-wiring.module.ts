@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useReorderViewWiring = {
   id: "01a05cb4-fefc-75e4-a671-ccff6c400635",

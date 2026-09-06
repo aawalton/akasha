@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const readoutRing = {
   id: "01a05b1a-4c00-7000-9d21-6f0f1a3c7b40",

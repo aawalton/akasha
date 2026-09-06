@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const usePageCalendarState = {
   id: "01a05cba-9cbc-7a49-be89-7ec830d2b8ca",

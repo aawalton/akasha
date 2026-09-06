@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const viewDataOfPage = {
   id: "01a05cce-25ec-7756-a742-f0d31cf07f6e",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const extractTargetIds = {
   id: "01a05cac-2a50-78f7-921e-dd914651ad29",

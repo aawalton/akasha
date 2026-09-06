@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
 import type { ColorFromSlug } from "./properties/color-from-slug.relation-property.ts"
 import type { ColorSlug } from "./properties/color-slug.text-property.ts"

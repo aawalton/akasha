@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageResolverContext = {
   id: "01a05cce-25ec-7360-9d83-4713f15015c8",

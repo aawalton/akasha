@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const reminderSystem = {
   id: "01a05f42-d941-7000-8906-8852e706c156",

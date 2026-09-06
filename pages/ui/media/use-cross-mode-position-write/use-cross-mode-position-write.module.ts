@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useCrossModePositionWrite = {
   id: "01a061ee-786e-7004-ac48-79218b824b75",

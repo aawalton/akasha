@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useViewTabContentData = {
   id: "01a06205-4f3c-700a-a70f-5a87a7d010b4",

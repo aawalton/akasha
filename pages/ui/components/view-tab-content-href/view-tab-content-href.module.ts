@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const viewTabContentHref = {
   id: "01a05cba-9cbb-7235-9232-307020453762",

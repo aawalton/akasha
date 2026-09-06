@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const timelinePicker = {
   id: "01a0617e-0d2d-700f-8a06-63089779bc24",

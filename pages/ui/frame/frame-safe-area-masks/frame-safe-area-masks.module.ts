@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const frameSafeAreaMasks = {
   id: "01a06164-b506-700a-bebc-ba784e8b6276",

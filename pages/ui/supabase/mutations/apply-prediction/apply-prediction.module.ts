@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const applyPrediction = {
   id: "01a06164-b506-7004-907a-c0f6cdc5b6ca",

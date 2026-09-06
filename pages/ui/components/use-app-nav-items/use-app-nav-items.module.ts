@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useAppNavItems = {
   id: "01a063ba-3eb6-7d77-a305-4984882f48bb",

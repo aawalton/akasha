@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const usePageDefaultContent = {
   id: "01a06205-4f3c-7008-8e50-44c6018074e7",

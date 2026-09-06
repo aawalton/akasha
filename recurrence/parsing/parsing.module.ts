@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const parsing = {
   id: "01a05c6f-c7c3-7f40-b36e-54f054cb61d6",

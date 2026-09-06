@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const composeContentTierPage = {
   id: "01a05cb4-fefb-7dd3-9ebe-8960581aaa6d",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const viewTabs = {
   id: "01a061ee-786e-700d-9204-4d659fe7ea9a",

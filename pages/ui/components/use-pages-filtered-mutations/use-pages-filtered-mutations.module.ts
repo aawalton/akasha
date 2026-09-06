@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const usePagesFilteredMutations = {
   id: "01a061ee-786e-700e-b9a8-ef81c27a08f1",

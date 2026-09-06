@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageValue = {
   id: "01a0592a-2e05-7e6a-941f-9dfd06790615",

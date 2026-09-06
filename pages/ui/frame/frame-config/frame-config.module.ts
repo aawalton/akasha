@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const frameConfig = {
   id: "01a05c7d-d06d-78ef-ac98-425ed71ab9d4",

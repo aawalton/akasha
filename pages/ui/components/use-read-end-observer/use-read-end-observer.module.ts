@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useReadEndObserver = {
   id: "01a05cb4-fefc-73ce-a348-b63760cbdafb",

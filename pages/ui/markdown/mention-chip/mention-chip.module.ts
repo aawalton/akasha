@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mentionChip = {
   id: "01a061df-fe7f-7005-b349-3f1a9f8520a8",

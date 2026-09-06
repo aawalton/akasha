@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useOptimisticPatchPropertyDefinition = {
   id: "01a061cd-1a4e-7005-9858-4e40f08144bd",

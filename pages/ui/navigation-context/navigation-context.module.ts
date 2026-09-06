@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const navigationContext = {
   id: "01a05cce-25ec-7499-ac36-739e7996488b",

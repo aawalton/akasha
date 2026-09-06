@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useGalleryViewProps = {
   id: "01a05cba-9cbb-7309-b76a-ab4a1c1dc77b",

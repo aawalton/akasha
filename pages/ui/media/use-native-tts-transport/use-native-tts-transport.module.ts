@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useNativeTtsTransport = {
   id: "01a05cce-25ec-76ff-ad68-d2546cedae2f",

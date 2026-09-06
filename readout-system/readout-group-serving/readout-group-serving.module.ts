@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const readoutGroupServing = {
   id: "01a05f42-92f5-7006-91fc-290b825bc130",

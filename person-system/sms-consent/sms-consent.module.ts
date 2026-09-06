@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const smsConsent = {
   id: "01a05b54-a902-76be-b1e3-8d624a488ea5",

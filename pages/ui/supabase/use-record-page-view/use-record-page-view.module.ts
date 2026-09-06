@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useRecordPageView = {
   id: "01a05cb4-fefb-7e34-b75b-0f9b37eda5e4",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useShellMediaSrc = {
   id: "01a05c27-31ee-79ab-989c-5bb4295c108b",

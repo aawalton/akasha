@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const deviceSecretBody = {
   id: "01a05b54-a905-71cf-a52e-7ce099efef28",

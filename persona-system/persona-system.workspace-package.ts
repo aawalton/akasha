@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const personaSystem = {
   id: "01a0532a-a54c-785e-97fa-4e56cb1bc0d1",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const optionCreateContext = {
   id: "01a0610c-430b-7286-8611-cfef8bc8ef07",

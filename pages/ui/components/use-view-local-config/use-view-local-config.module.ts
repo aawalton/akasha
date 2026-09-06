@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useViewLocalConfig = {
   id: "01a05cba-9cbc-70e3-ba10-e39a6ae459a5",

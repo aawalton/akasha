@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const coverUrl = {
   id: "01a05c13-a262-7e57-a44c-0cb6651d500d",

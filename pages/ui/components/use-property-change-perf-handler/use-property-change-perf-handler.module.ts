@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const usePropertyChangePerfHandler = {
   id: "01a06158-0a59-7000-bcad-f29283da62e2",

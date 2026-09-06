@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const dueReminderSending = {
   id: "01a0686a-7a57-78a3-96ed-968543d56042",

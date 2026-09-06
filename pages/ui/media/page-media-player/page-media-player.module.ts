@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageMediaPlayer = {
   id: "01a06205-4f3b-7003-9c61-b343281dd0c3",

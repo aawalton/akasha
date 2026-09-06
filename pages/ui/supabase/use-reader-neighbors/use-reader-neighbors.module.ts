@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useReaderNeighbors = {
   id: "01a061df-fe7f-7001-b116-df9e087a052d",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const viewportThresholds = {
   id: "01a05c43-02b9-7702-9bd9-b55543d6439a",

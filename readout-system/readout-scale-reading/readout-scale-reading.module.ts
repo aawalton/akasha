@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const readoutScaleReading = {
   id: "01a05b54-a904-78de-9a09-417c68322618",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const viewFilterToCondition = {
   id: "01a05cb4-fefa-7c31-bb93-bd8f415d9342",

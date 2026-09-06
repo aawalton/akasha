@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const relationPicker = {
   id: "01a06164-b506-7002-bd6a-2888defdf06d",

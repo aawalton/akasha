@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const groupByHooks = {
   id: "01a06164-b506-7000-96d8-f93d8e08fff0",

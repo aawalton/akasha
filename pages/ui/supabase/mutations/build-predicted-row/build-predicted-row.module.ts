@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const buildPredictedRow = {
   id: "01a05cb4-fefb-7ea5-a292-762a20e202a3",

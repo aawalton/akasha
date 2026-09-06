@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useNavCommandBindings = {
   id: "01a06277-79a3-7000-a306-6c29af8e710c",

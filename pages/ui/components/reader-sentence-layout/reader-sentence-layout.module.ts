@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const readerSentenceLayout = {
   id: "01a05cce-25ec-74ec-a1aa-9c081bed8037",

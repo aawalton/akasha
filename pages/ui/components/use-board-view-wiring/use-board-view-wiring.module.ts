@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useBoardViewWiring = {
   id: "01a05cba-9cbb-7913-a82a-5a9718774fcb",

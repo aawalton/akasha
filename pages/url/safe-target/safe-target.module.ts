@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const safeTarget = {
   id: "01a05c13-a262-762b-bc38-6efce5cc6c01",

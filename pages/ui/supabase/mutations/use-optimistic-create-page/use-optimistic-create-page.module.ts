@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useOptimisticCreatePage = {
   id: "01a061cd-1a4e-7000-96b1-be78648de486",

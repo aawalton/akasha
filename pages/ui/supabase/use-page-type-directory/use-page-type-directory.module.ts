@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const usePageTypeDirectory = {
   id: "01a06164-b506-7001-b35d-312b7a7d55ae",

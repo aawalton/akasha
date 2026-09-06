@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useViewRowAggregates = {
   id: "01a05cba-9cbb-7d34-b99f-ce7784f913dd",
