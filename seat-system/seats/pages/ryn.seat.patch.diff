@@ -1,21 +1,31 @@
 diff --git a/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts b/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts
-index d79b46998253874ce44843e01028771ed02066d9..594c1d5d721b5367b738c85df567493f721e168c 100644
+index d79b46998253874ce44843e01028771ed02066d9..2bd5b40e064f96f9a8cec71d4d69ae8570b297a8 100644
 --- a/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts
 +++ b/service-system/workstation-services/pages/apns-push-notifier.workstation-service.ts
-@@ -14,7 +14,11 @@ export const apnsPushNotifier = {
+@@ -14,12 +14,19 @@ export const apnsPushNotifier = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "Nothing is sent while `APNS_AUTH_KEY_P8` is unset, and the feed is followed.",
 +      statement: "Nothing is sent while `APNS_AUTH_KEY_P8` is unset.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "The feed is followed while `APNS_AUTH_KEY_P8` is unset.",
      },
      {
        invariantKind: "departure",
-@@ -27,7 +31,11 @@ export const apnsPushNotifier = {
+-      statement:
+-        "A push is claimed before that push is sent, so a notification read twice is pushed once.",
++      statement: "The feed is followed while `APNS_AUTH_KEY_P8` is unset.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A push is claimed before that push is sent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A notification read twice is pushed once.",
+     },
+     {
+       invariantKind: "departure",
+@@ -27,7 +34,11 @@ export const apnsPushNotifier = {
      },
      {
        invariantKind: "departure",
