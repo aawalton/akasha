@@ -495,3 +495,120 @@ index 02cf786c18da72ae13b566a1ce6268b9cab9388a..7a8b0bedf9f8fde7e13faa32e8ab7b75
  test("an edit writing a body becomes a change carrying that body", () => {
    expect(editsFor([{ path: "a/b.ts", was: null, body: "held" }])).toEqual([
      { path: "a/b.ts", body: new TextEncoder().encode("held") },
+diff --git a/command-system/commands/change/change.command.ts b/command-system/commands/change/change.command.ts
+index 2a8c83b2cf874d02ec9146da7570182cd8cc3027..684e3b96061b32efe02f03885badebd72ae84d5c 100644
+--- a/command-system/commands/change/change.command.ts
++++ b/command-system/commands/change/change.command.ts
+@@ -9,12 +9,17 @@ export const change = {
+   test: "ts",
+   changeKindSlug: "change-mechanical",
+   taking: [
++    { said: "add-file", takes: "the change to run, which writes one body at one path" },
++    { said: "change-file", takes: "the change to run, which replaces one passage of one body" },
+     { said: "remove-page", takes: "the change to run, which takes one page away" },
+     { said: "drop", takes: "the act taking away every edit kept beside this agent's page" },
+-    { said: "--file-path <path>", takes: "the path the change named acts on" },
+   ],
+   helpNotes: [
+-    "the change is the first word, and the flags after it are the ones that change takes.",
++    "the change is the first word, and the arguments that change takes are piped in.",
++    "an argument is a line `key: value`, or `key <fence>` opening a body that `<fence>` alone closes.",
++    "the fence is yours to pick, so a body carrying one run of characters is opened with another.",
++    "nothing on the command line carries a value, so no shell reads a quote or a backslash.",
++    "`at` names a path, read against the repository root.",
+     "a change answers edits rather than writing them, and the edits are appended beside this agent's page.",
+     "nothing lands here, and `akasha apply` compiles the edits into the patch and lands them.",
+     "two runs leave two sets of edits in the order the runs were made.",
+@@ -32,11 +37,45 @@ export const change = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A word naming no change is refused with the changes this command runs.",
++      statement:
++        "A change is reached by its address rather than by a name this command's code holds.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The flags a call takes are the flags the change named takes.",
++      statement: "A word reaching no change is refused by the address that reached nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The change is loaded before the turn over the edits is taken.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No flag is said on the command line.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The arguments a change takes are read from standard input.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A call piping nothing in is refused rather than run with no argument.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A value carrying a quote or a newline reaches the change as the caller wrote that value.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The key `at` names a path.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path is read against the repository root here rather than by the change.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path outside the repository is refused before the change is loaded.",
+     },
+     {
+       invariantKind: "departure",
+@@ -74,22 +113,6 @@ export const change = {
+       invariantKind: "departure",
+       statement: "The edits are read and appended to under one turn over the file the edits fill.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here lands.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here writes a body onto the tree.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "This command takes no dry run.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "The changes this runs are spelled here rather than read off the index.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "`drop` names no change and takes away every edit kept.",
+@@ -122,5 +145,21 @@ export const change = {
+       invariantKind: "departure",
+       statement: "A change whose page runs no check is judged by no check here.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here lands.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes a body onto the tree.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "This command takes no dry run.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "The changes this runs are named here as well as read off the index.",
++    },
+   ],
+ } as const satisfies Command
