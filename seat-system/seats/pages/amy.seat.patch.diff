@@ -513,6 +513,89 @@ index bfa722be8f21e4f72e5dafeadc8c7ee8a4b9c028..1ae1f614b0451b489dda7df9e2045afd
  // THE WORDS COME FROM THE REFUSAL'S OWN PAGE. A page stating a key its page type works out carries
  // a second answer, and the worked answer replaces it wherever the page is worked out, so the
  // stated one is read by whatever reads the file and by nothing else.
+diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
+index de23a3ae2bfae7c2ac4fff936d14a75241d5f5dc..2e3a9fc7c1650366bf45fdd1a9ee9cae4c4483f0 100644
+--- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
++++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
+@@ -1,14 +1,9 @@
+-import { existsSync, readFileSync } from "node:fs"
+-import { join } from "node:path"
+-import { rootOf } from "@akasha/command-system/rooting"
+ import { listedFiled, rebuiltIn, schemaFiled } from "@akasha/indexes/testing"
+-import type { Formatting } from "@akasha/pages/name-format/format-reaching"
+ import { exportedAs } from "@akasha/pages/page-export-name"
+ import type { Carried } from "@akasha/pages/page-type-properties"
+-import { type Value, valueAt } from "@akasha/pages/page-value"
++import type { Value } from "@akasha/pages/page-value"
+ import { type Shadow, shadowAt } from "@akasha/pages/shadow"
+ import { put } from "@akasha/testing-system/putting"
+-import { entryReasonsIn, type Shaping } from "./page-matches-its-type.code-check.code.ts"
+ 
+ export const FORMAT = "all-lower"
+ 
+@@ -407,62 +402,6 @@ const DEMANDS =
+ 
+ export const NARROWED = `${DEMANDS}, { pagePropertySlug: "name", required: true, many: false }`
+ 
+-const REPO = rootOf(import.meta.path)
+-
+-const RESTATEMENT = "agents/models/tests/pages/restatement/restatement.model-test.ts"
+-
+-export const NO_ID = "keeps an entry of `cases` carrying no id, and every entry carries an id"
+-
+-export const ID_LESS = '{"page":"a","definition":"b","statement":"c","answer":"YES"}\n'
+-
+-const ANSWER: Carried = {
+-  pagePropertySlug: "case-answer",
+-  pageTypeSlug: "text-property",
+-  propertySlug: "answer",
+-  key: "answer",
+-  unique: null,
+-  declaredBy: "cases",
+-  required: true,
+-  many: false,
+-  max: null,
+-  total: null,
+-  uncommitted: false,
+-  secret: false,
+-}
+-
+-export function shapingFor(formatting: Formatting): Shaping {
+-  return { fields: new Map([["answer", ANSWER]]), slug: "cases", pageFor: () => null, formatting }
+-}
+-
+-const CASES = `${RESTATEMENT.slice(0, -3)}.cases`
+-
+-function judged(formatting: Formatting, beside: (at: string) => string | null): readonly string[] {
+-  const shadow = shadowAt(REPO)
+-  return entryReasonsIn(
+-    valueAt(RESTATEMENT, REPO) ?? {},
+-    shadow.index.propertiesOf("model-test"),
+-    shadow,
+-    RESTATEMENT,
+-    beside,
+-    formatting
+-  )
+-}
+-
+-export function entriesJudged(formatting: Formatting, text: string | null): readonly string[] {
+-  return judged(formatting, (at) => {
+-    if (text !== null) return at === `${CASES}.jsonl` ? text : null
+-    return existsSync(join(REPO, at)) ? readFileSync(join(REPO, at), "utf8") : null
+-  })
+-}
+-
+-export function partsJudged(formatting: Formatting, one: string, two: string): readonly string[] {
+-  const held = new Map([
+-    [`${CASES}.jsonl`, one],
+-    [`${CASES}.part2.jsonl`, two],
+-  ])
+-  return judged(formatting, (at) => held.get(at) ?? null)
+-}
+-
+ export function besideCarried(uncommitted: boolean, secret = false): readonly Carried[] {
+   return [
+     {
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
 index 81bb417ecbf3a6c3785beaef1e84cfe25c34e8ef..4a1852b02ab8be6cb9ad17429238822d8d1e3ff1 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
