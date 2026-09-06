@@ -1,8 +1,17 @@
 readersOweReading: false
 diff --git a/seat-system/messaging/message-page-address/message-page-address.module.ts b/seat-system/messaging/message-page-address/message-page-address.module.ts
-index fac35df8239a9f8c4ddcaf557c593f22ee8545ef..34bee679190c49dcfbf6fd53bfe9a31240c2e003 100644
+index fac35df8239a9f8c4ddcaf557c593f22ee8545ef..2ef81ced9aeea34d1a44b9fd2c6640d248b38026 100644
 --- a/seat-system/messaging/message-page-address/message-page-address.module.ts
 +++ b/seat-system/messaging/message-page-address/message-page-address.module.ts
+@@ -9,7 +9,7 @@ export const messagePageAddress = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A name of three segments is a domain, a role and an identity.",
++      statement: "A name of three segments is a domain and a role and an identity.",
+     },
+     {
+       invariantKind: "departure",
 @@ -21,7 +21,7 @@ export const messagePageAddress = {
      },
      {
