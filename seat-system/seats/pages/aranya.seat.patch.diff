@@ -10,3 +10,16 @@ index 492db9eb9807aa1f1eb2ebc1080571be48963968..60e9128049a8808c8623828e95ffebdb
    return null
  }
  
+diff --git a/pages/secret/page-secret.module.ts b/pages/secret/page-secret.module.ts
+index 47f5edf2519981f88ccd780258d3d9feed315fa2..0078a8f35098c6080b718118787755d3463193fa 100644
+--- a/pages/secret/page-secret.module.ts
++++ b/pages/secret/page-secret.module.ts
+@@ -18,7 +18,7 @@ export const pageSecret = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A secret's value is one line of text.",
++      statement: "A secret's value is the text given, newlines and all.",
+     },
+     {
+       invariantKind: "departure",
