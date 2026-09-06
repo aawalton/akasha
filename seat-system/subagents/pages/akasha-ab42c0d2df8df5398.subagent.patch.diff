@@ -1,0 +1,26 @@
+diff --git a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.test.ts b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.test.ts
+index 3a4cd1a17784538fdfed08993dfd38282dfdd19b..eb0ea646c21364d877cb4a5e84d35b2011febf49 100644
+--- a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.test.ts
++++ b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.test.ts
+@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
+ import { mkdirSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { listedFiled } from "@akasha/indexes/testing"
++import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+ import type { Change } from "@akasha/pages/change"
+ import { type Shadow, shadowFor } from "@akasha/pages/shadow"
+ import {
+diff --git a/pages/types/descent/page-type-descent.module.test.ts b/pages/types/descent/page-type-descent.module.test.ts
+index 24ce80d421d1f2bec66cedd243d571d78eed20bf..8b4b844ff48ca039e036241d9ca7fbe2151d7b35 100644
+--- a/pages/types/descent/page-type-descent.module.test.ts
++++ b/pages/types/descent/page-type-descent.module.test.ts
+@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { readingIn } from "@akasha/indexes"
+-import { listedFiled } from "@akasha/indexes/testing"
++import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+ import { valueAt } from "@akasha/pages/page-value"
+ import { kindsUnder, listedAbove } from "./page-type-descent.module.code.ts"
+ 
