@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/refactor/refactor.command.ts b/command-system/commands/refactor/refactor.command.ts
-index 809e2755b6345bd49330528a3f4d701006939552..8bdd0b82a8c335859d0bc0121bae4d41857e06da 100644
+index 809e2755b6345bd49330528a3f4d701006939552..40fdb4d91f23c78ec6192302b1ec8d74a99d302c 100644
 --- a/command-system/commands/refactor/refactor.command.ts
 +++ b/command-system/commands/refactor/refactor.command.ts
 @@ -190,7 +190,7 @@ export const refactor = {
@@ -39,3 +39,12 @@ index 809e2755b6345bd49330528a3f4d701006939552..8bdd0b82a8c335859d0bc0121bae4d41
      },
      {
        invariantKind: "absence",
+@@ -304,7 +304,7 @@ export const refactor = {
+ 
+     {
+       invariantKind: "departure",
+-      statement: "The type a retyped page satisfies is the one its new page type declares.",
++      statement: "The type a retyped page satisfies is the type the new page type declares.",
+     },
+     {
+       invariantKind: "departure",
