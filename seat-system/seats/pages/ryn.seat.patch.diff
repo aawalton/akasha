@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/hook-system/agent-hooks/properties/over-tools.text-property.ts b/hook-system/agent-hooks/properties/over-tools.text-property.ts
+index 69fa16314a241c5f935bf08c8c4ce95e6f207a5b..e483c8a6260aa2200def880df30ee4ca66fae5e1 100644
+--- a/hook-system/agent-hooks/properties/over-tools.text-property.ts
++++ b/hook-system/agent-hooks/properties/over-tools.text-property.ts
+@@ -20,7 +20,8 @@ export const overTools = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A hook is handed the calls of the tools that hook states here and no others.",
++      statement:
++        "A hook is handed the calls of the tools that hook states here and no other calls.",
+     },
+     {
+       invariantKind: "departure",
