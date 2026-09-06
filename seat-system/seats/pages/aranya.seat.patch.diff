@@ -151,7 +151,7 @@ index c8ea8d0b0f43b7b986809b7c17914000f76fc4a4..c3d5e68fd4a353d5eaeda4809dce24c0
  
  export const THROWS: RunningSaid = () => Promise.reject(new Error("no transcript would open"))
 diff --git a/command-system/commands/subagent-sweep/subagent-sweep.command.test.ts b/command-system/commands/subagent-sweep/subagent-sweep.command.test.ts
-index bb758bb73548940221f03db391727d6555ba4f55..4f946555732164571cc21863e2a8ea2c138b9e9c 100644
+index bb758bb73548940221f03db391727d6555ba4f55..9d10102977cbc709bd19ddd6f5786ea77d2447c0 100644
 --- a/command-system/commands/subagent-sweep/subagent-sweep.command.test.ts
 +++ b/command-system/commands/subagent-sweep/subagent-sweep.command.test.ts
 @@ -9,6 +9,7 @@ import {
@@ -162,6 +162,97 @@ index bb758bb73548940221f03db391727d6555ba4f55..4f946555732164571cc21863e2a8ea2c
    logPut,
    node,
    OTHER_ID,
+@@ -186,20 +187,41 @@ test("a running entry naming no agent id adds nothing to what the transcripts sa
+   const { root } = worldWith()
+   const pages = pagesIn(root)
+   const none = await runningOwnIn(pages, reading({ [SEAT_ID]: [node(null)] }), () => NOWHERE)
+-  expect(none.size).toBe(0)
++  expect(none.running.size).toBe(0)
+   const some = await runningOwnIn(
+     pages,
+     reading({ [SEAT_ID]: [node(null), node(OWN, [node(null), node(AGAIN)])] }),
+     () => NOWHERE
+   )
+-  expect([...some].sort()).toEqual([AGAIN, OWN].sort())
++  expect([...some.running].sort()).toEqual([AGAIN, OWN].sort())
+   world.sweep()
+ })
+ 
+ test("a seat whose reading throws costs that seat alone rather than the whole run", async () => {
+   const { root } = worldWith()
+-  const pages = pagesIn(root)
+-  expect((await runningOwnIn(pages, UNREADABLE, () => NOWHERE)).size).toBe(0)
++  const said = await runningOwnIn(pagesIn(root), UNREADABLE, () => NOWHERE)
++  expect(said.running.size).toBe(0)
++  expect(said.ended.size).toBe(0)
++  world.sweep()
++})
++
++test("a seat whose running reading throws still answers for the ids that seat saw end", async () => {
++  const { root } = worldWith()
++  const said = await runningOwnIn(pagesIn(root), halfReading({ [SEAT_ID]: [OWN] }), () => NOWHERE)
++  expect(said.running.size).toBe(0)
++  expect([...said.ended]).toEqual([OWN])
++  world.sweep()
++})
++
++test("an id both readings name is answered as running and never as ended", async () => {
++  const { root } = worldWith()
++  const said = await runningOwnIn(
++    pagesIn(root),
++    reading({ [SEAT_ID]: [node(OWN)] }, { [SEAT_ID]: [OWN, AGAIN] }),
++    () => NOWHERE
++  )
++  expect([...said.running]).toEqual([OWN])
++  expect([...said.ended]).toEqual([AGAIN])
+   world.sweep()
+ })
+ 
+@@ -211,8 +233,43 @@ test("a seat naming no transcript is asked for no reading at all", async () => {
+       asked += 1
+       return Promise.resolve([])
+     },
++    endedForSeat: () => {
++      asked += 1
++      return Promise.resolve([])
++    },
+   }
+-  expect((await runningOwnIn(pagesIn(root), counted, () => null)).size).toBe(0)
++  const said = await runningOwnIn(pagesIn(root), counted, () => null)
++  expect(said.running.size).toBe(0)
++  expect(said.ended.size).toBe(0)
+   expect(asked).toBe(0)
+   world.sweep()
+ })
++
++test("a transcript naming a page's own id as ended reads that page stale", async () => {
++  const { root, base } = worldWith()
++  const bare = (await subagentSweep([], givenIn(root), ALIVE, base, saying([]))).report.join("\n")
++  expect(bare).toContain("0 working, 0 stale, 1 undetermined")
++  const said = (await subagentSweep([], givenIn(root), ALIVE, base, saying([], [OWN]))).report.join(
++    "\n"
++  )
++  expect(said).toContain("1 subagent page(s): 0 working, 1 stale, 0 undetermined")
++  expect(said).toContain("started and returned")
++  world.sweep()
++})
++
++test("a page the transcript says ended goes on a run told to remove", async () => {
++  const { root, base, at } = worldWith()
++  const said = await subagentSweep(["--remove"], givenIn(root), ALIVE, base, saying([], [OWN]))
++  expect(said.code).toBe(0)
++  expect(there(root, at)).toBe(false)
++  world.sweep()
++})
++
++test("a page a live process acts under stays though the transcript says that page ended", async () => {
++  const { root, base, at } = worldWith()
++  const said = await subagentSweep(["--remove"], givenIn(root), ACTS, base, saying([], [OWN]))
++  expect(said.report.join("\n")).toContain("1 working, 0 stale, 0 undetermined")
++  expect(said.report.join("\n")).toContain("no page was judged STALE, so nothing went")
++  expect(there(root, at)).toBe(true)
++  world.sweep()
++})
 diff --git a/command-system/commands/subagent-sweep/subagent-sweep.command.ts b/command-system/commands/subagent-sweep/subagent-sweep.command.ts
 index f6fa01866168dc7de0dec4d0b28e3593cfba6107..f9a3b941f9d7921285740f23dca4c80be30669ed 100644
 --- a/command-system/commands/subagent-sweep/subagent-sweep.command.ts
