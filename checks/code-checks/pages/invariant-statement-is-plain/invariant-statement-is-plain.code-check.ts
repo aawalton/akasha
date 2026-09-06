@@ -7,7 +7,7 @@ export const invariantStatementIsPlain = {
   definition: "the check refusing an invariant that is not written in plain language",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
@@ -44,29 +44,28 @@ export const invariantStatementIsPlain = {
     },
     {
       invariantKind: "departure",
-      statement: "The grammar is built from the sentence shapes the index names.",
+      statement: "A statement is judged against every refused shape the index names.",
     },
     {
       invariantKind: "departure",
-      statement: "A statement already refused for a mark is not judged against the grammar too.",
+      statement: "A statement already refused for a mark is not judged against the shapes too.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the shape the grammar read the statement in.",
+      statement: "A refusal names the shape that matched.",
     },
     {
       invariantKind: "departure",
-      statement: "A statement no shape of the grammar reads is passed over rather than refused.",
+      statement: "A statement no refused shape matches is passed over rather than refused.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A shape the grammar lacks is a gap in the grammar rather than a fault in the statement.",
+        "A sentence no shape reaches is a gap in the shapes rather than a fault in the statement.",
     },
     {
       invariantKind: "stopgap",
-      statement:
-        "Every phase is off until the shapes are settled and the invariants are rewritten.",
+      statement: "The phases past patch stay off while the tree still carries refusals.",
     },
     {
       invariantKind: "gap",
