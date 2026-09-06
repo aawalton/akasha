@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/sync/monarch-sync.module.ts b/alan/harness/monarch/sync/monarch-sync.module.ts
-index 3de86955f6d0dd0663d8d25bdd6103185c09dba2..a67f1cce48ac4eee8b00f0b0d99c4c964d099817 100644
+index 3de86955f6d0dd0663d8d25bdd6103185c09dba2..40d38e030901069d4671202b4d04594b5623b1dc 100644
 --- a/alan/harness/monarch/sync/monarch-sync.module.ts
 +++ b/alan/harness/monarch/sync/monarch-sync.module.ts
 @@ -14,8 +14,11 @@ export const monarchSync = {
@@ -29,3 +29,12 @@ index 3de86955f6d0dd0663d8d25bdd6103185c09dba2..a67f1cce48ac4eee8b00f0b0d99c4c96
      },
      {
        invariantKind: "departure",
+@@ -41,7 +48,7 @@ export const monarchSync = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A row claimed by more than one rule leaves the run non-zero, after everything else has been done.",
++        "A row claimed by more than one rule leaves the run non-zero after everything else is done.",
+     },
+   ],
+ } as const satisfies Module
