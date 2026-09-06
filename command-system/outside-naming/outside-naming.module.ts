@@ -18,7 +18,7 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "Git is asked for many names at once rather than once for each one.",
+      statement: "Git is asked for many names at once rather than once for each name.",
     },
     {
       invariantKind: "departure",
@@ -26,9 +26,11 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body is read through once however many names are looked for, a name standing only " +
-        "where a path-like run of that body starts.",
+      statement: "A body is read through once however many names are looked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name is found only where a path-like run of the body starts.",
     },
     {
       invariantKind: "departure",
@@ -36,9 +38,7 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name another name asked after ends with is the only one looked for, since a body " +
-        "carrying the longer name carries the shorter one too.",
+      statement: "A name another name asked after ends with is the only name looked for.",
     },
     {
       invariantKind: "departure",
@@ -54,7 +54,7 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The parts one call asks after share one pattern.",
+      statement: "The parts a single call asks after share one pattern.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const outsideNaming = {
     },
     {
       invariantKind: "absence",
-      statement: "A name carrying more of a segment than the part looked for is left out.",
+      statement: "A name carrying a segment longer than the part looked for is left out.",
     },
     {
       invariantKind: "departure",
@@ -117,7 +117,7 @@ export const outsideNaming = {
     {
       invariantKind: "absence",
       statement:
-        "A body carrying the name looked for only inside a longer path is answered in neither.",
+        "A body carrying the name looked for only inside a longer path is left out of the answer.",
     },
     {
       invariantKind: "departure",
@@ -134,7 +134,7 @@ export const outsideNaming = {
     },
     {
       invariantKind: "absence",
-      statement: "A name carrying more of a segment than the name looked for is left alone.",
+      statement: "A name carrying a segment longer than the name looked for is left alone.",
     },
     {
       invariantKind: "absence",
