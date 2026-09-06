@@ -67,7 +67,7 @@ index 25747c3ca24bea0fc9678d07fba20adfcc03578a..cc96b28cbec1ad9a39a76a543ffcc624
    if (first === undefined) return []
    const world = worldOf(change.root, carried, change.after, null)
 diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts
-index cf37de23240f15fed7db9212386b1be7fb836949..005a6d944778e2743df9b5ea9fa38362a0fa1bfb 100644
+index cf37de23240f15fed7db9212386b1be7fb836949..8618e40f57bfb8c21b83c0d4c5fba5dcdc7fdad1 100644
 --- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts
 +++ b/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts
 @@ -17,9 +17,14 @@ import {
@@ -104,7 +104,7 @@ index cf37de23240f15fed7db9212386b1be7fb836949..005a6d944778e2743df9b5ea9fa38362
      "akasha/held.css",
      "akasha/held.tsx",
      "akasha/one.ts",
-@@ -83,10 +89,27 @@ test("the files judged are the ones the linter reads, said once and in order", (
+@@ -83,15 +89,32 @@ test("the files judged are the ones the linter reads, said once and in order", (
  })
  
  test("a stylesheet and a body written with JSX are both read, and a note is not", () => {
@@ -136,3 +136,9 @@ index cf37de23240f15fed7db9212386b1be7fb836949..005a6d944778e2743df9b5ea9fa38362
  })
  
  test("a file the change takes away is judged by nothing", () => {
+   const root = repo({ "akasha/one.ts": CLEAN })
+-  expect(carriedIn(change(root, ["akasha/one.ts"], gone))).toEqual([])
++  expect(carriedIn(change(root, ["akasha/one.ts"], gone), READS)).toEqual([])
+ })
+ 
+ test("a change carrying no file the linter reads is judged by no run", () => {
