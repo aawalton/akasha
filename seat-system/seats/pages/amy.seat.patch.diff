@@ -1,0 +1,29 @@
+diff --git a/seat-system/seat-turn-states/pages/ready.seat-turn-state.ts b/seat-system/seat-turn-states/pages/ready.seat-turn-state.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..38f79b6f653f51ab2de593ea9c4e3a0b4867079e
+--- /dev/null
++++ b/seat-system/seat-turn-states/pages/ready.seat-turn-state.ts
+@@ -0,0 +1,23 @@
++import type { SeatTurnState } from "../seat-turn-state.page-type.ts"
++
++export const ready = {
++  id: "01a076c0-d7f8-7aac-8883-230f77f30349",
++  pageTypeSlug: "seat-turn-state",
++  slug: "ready",
++  definition: "an agent between turns whose role is on call",
++  colorSlug: "green",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A seat here is between turns rather than taking one.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The role being on call is what tells this apart from idle.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat already waiting on something of its own is waiting rather than ready.",
++    },
++  ],
++} as const satisfies SeatTurnState
