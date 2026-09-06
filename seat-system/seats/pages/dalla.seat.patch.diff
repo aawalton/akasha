@@ -1,0 +1,16 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/pages/types/page-type.page-type.ts b/pages/types/page-type.page-type.ts
+index 0141d14d4ca28e905cf639e3836bac6e9a91f281..60af624bc0e37aeec2df0b560e6766e20ca48279 100644
+--- a/pages/types/page-type.page-type.ts
++++ b/pages/types/page-type.page-type.ts
+@@ -102,9 +102,6 @@ export const pageType = {
+     { pagePropertySlug: "record-property/media-config", required: false, many: false },
+     { pagePropertySlug: "record-property/sequence", required: false, many: false },
+     { pagePropertySlug: "boolean-property/runs-taboo-check", required: false, many: false },
+-    { pagePropertySlug: "boolean-property/runs-checks", required: false, many: false },
+-    { pagePropertySlug: "boolean-property/writer-owes-reading", required: false, many: false },
+-    { pagePropertySlug: "boolean-property/readers-owe-reading", required: false, many: false },
+     { pagePropertySlug: "boolean-property/allows-tmp-paths", required: false, many: false },
+     { pagePropertySlug: "number-property/next-seq", required: false, many: false },
+     { pagePropertySlug: "relation-property/owner-slug", required: false, many: false },
