@@ -10,7 +10,7 @@ import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
 export type Kind = {
   readonly slug: string
   readonly runsChecks: boolean
-  readonly runsWarrants: boolean
+  readonly writerOwesReading: boolean
 }
 
 export type Outside = {
@@ -160,7 +160,7 @@ export function kindNamed(root: string, slug: string): Kind | null {
   const checks = page[RUNS_CHECKS]
   const warrants = page[RUNS_WARRANTS]
   if (typeof checks !== "boolean" || typeof warrants !== "boolean") return null
-  return { slug, runsChecks: checks, runsWarrants: warrants }
+  return { slug, runsChecks: checks, writerOwesReading: warrants }
 }
 
 function kindOf(root: string, page: Record<string, unknown> | null): Kind | null {

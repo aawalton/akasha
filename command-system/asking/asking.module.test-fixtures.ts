@@ -237,7 +237,10 @@ export const mechanically = async (root: string): Promise<number> =>
 export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
 
 export const ranBy = (runsChecks: boolean, runsWarrants: boolean): Running =>
-  runningOf({ ...givenIn(""), changeKind: { slug: "held", runsChecks, runsWarrants } })
+  runningOf({
+    ...givenIn(""),
+    changeKind: { slug: "held", runsChecks, writerOwesReading: runsWarrants },
+  })
 
 export function seeded(root: string): boolean {
   const held = [{ path: "akasha/one.ts", was: bytes("committed\n"), body: bytes(PROPOSED) }]

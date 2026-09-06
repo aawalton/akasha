@@ -48,7 +48,7 @@ export function unwarrantedIn(
   glass: string | null,
   changes: readonly FileEdit[]
 ): readonly string[] {
-  if (given.changeKind?.runsWarrants === false) return []
+  if (given.changeKind?.writerOwesReading === false) return []
   if (glass !== null) return []
   return owedIn(
     given.root,

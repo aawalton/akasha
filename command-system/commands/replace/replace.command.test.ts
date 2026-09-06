@@ -33,7 +33,7 @@ function givenIn(root: string): Given {
   }
 }
 
-const CHECKED = { slug: "change-checked", runsChecks: true, runsWarrants: false }
+const CHECKED = { slug: "change-checked", runsChecks: true, writerOwesReading: false }
 
 function checkedIn(root: string): Given {
   return { ...givenIn(root), changeKind: CHECKED }

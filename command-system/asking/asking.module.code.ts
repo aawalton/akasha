@@ -237,7 +237,7 @@ export function noCheckSaid(slug: string): string {
 export function runningOf(given: Given): Running {
   const kind = given.changeKind
   if (kind === undefined) return AUTHORED
-  return { checks: kind.runsChecks, warrants: kind.runsWarrants }
+  return { checks: kind.runsChecks, warrants: kind.writerOwesReading }
 }
 
 function bypassIn(given: Given, asked: Asked): Bypass | null {
@@ -431,7 +431,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
 export const MECHANICAL: Kind = {
   slug: "change-mechanical",
   runsChecks: false,
-  runsWarrants: false,
+  writerOwesReading: false,
 }
 
 export async function landedMechanically(
