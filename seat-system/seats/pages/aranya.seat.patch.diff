@@ -174,6 +174,22 @@ index 93c250ad4e9e7b521868006ec5e90e53e7c6dd2a..f46810fe1da90e65ce9e7141946e868b
  test("what is piped in that is no utf-8 text is refused", () => {
    expect(typeof valueOf(new Uint8Array([0xff, 0xfe, 0xfd]))).toBe("object")
  })
+diff --git a/pages/commands/page-secret-acting/page-secret-acting.module.ts b/pages/commands/page-secret-acting/page-secret-acting.module.ts
+index 4816c61f6977778a0a992d0d0f9abb7b8e2b697e..b9cbdbc505612396938846fe98561c67fbf82a23 100644
+--- a/pages/commands/page-secret-acting/page-secret-acting.module.ts
++++ b/pages/commands/page-secret-acting/page-secret-acting.module.ts
+@@ -28,6 +28,11 @@ export const pageSecretActing = {
+       invariantKind: "departure",
+       statement: "A flag standing where a value should be is refused rather than read as one.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A flag carrying no value is read as said rather than as taking the word after it.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A word said as no flag is refused, since everything taken here is named by one.",
 diff --git a/pages/commands/page-secret-set/page-secret-set.command.code.ts b/pages/commands/page-secret-set/page-secret-set.command.code.ts
 index d40ebcfda40c54740b3a527ebf180a7b925cc214..c58bd0fbc30bda2a17da248ae4fc90fbba97843f 100644
 --- a/pages/commands/page-secret-set/page-secret-set.command.code.ts
