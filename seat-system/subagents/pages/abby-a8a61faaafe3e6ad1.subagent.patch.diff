@@ -1,0 +1,88 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-fraction-of-my-understanding-matches-what-others-feel.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-fraction-of-my-understanding-matches-what-others-feel.all-about-alan-question.ts
+index 522a367db609169c9eac22e37980e2bba6dbb6e7..11cb2e14e5bcf0e05cd96a29a3f594f00f8bd270 100644
+--- a/alan/books/all-about-alan/questions/pages/what-fraction-of-my-understanding-matches-what-others-feel.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-fraction-of-my-understanding-matches-what-others-feel.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatFractionOfMyUnderstandingMatchesWhatOthersFeel = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-fraction-of-my-understanding-matches-what-others-feel",
+   topicSlug: "getting-to-a-feeling-through-an-idea",
+-  ask: "What fraction of what I understand matches what other people feel? I flagged my own figure provisional and nobody has rechecked it.",
++  ask: "I flagged my own figure provisional and nobody has rechecked the figure. What fraction of what I understand matches what other people feel?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-ground-my-centre-belief-rests-on.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-ground-my-centre-belief-rests-on.all-about-alan-question.ts
+index 186b6bf43536001a45d94f4eee057a955394eb4b..5acbbe22477d8fe5125d94e330c4af130f37a72b 100644
+--- a/alan/books/all-about-alan/questions/pages/what-ground-my-centre-belief-rests-on.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-ground-my-centre-belief-rests-on.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatGroundMyCentreBeliefRestsOn = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-ground-my-centre-belief-rests-on",
+   topicSlug: "testing-the-thing-at-my-centre",
+-  ask: "What positive ground does the belief at my centre rest on, now that because-an-authority-says-so is gone? I have never stated that ground straight out.",
++  ask: "I have never stated the ground straight out. What positive ground does the belief at my centre rest on, now that because-an-authority-says-so is gone?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-happens-when-a-thing-resists-chunking.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-happens-when-a-thing-resists-chunking.all-about-alan-question.ts
+index b2f44410b4a688b4e24871cb23974481d2cbb6b6..5da6eb02ac40bcc2817593822d1155cffb1a8904 100644
+--- a/alan/books/all-about-alan/questions/pages/what-happens-when-a-thing-resists-chunking.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-happens-when-a-thing-resists-chunking.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatHappensWhenAThingResistsChunking = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-happens-when-a-thing-resists-chunking",
+   topicSlug: "how-something-joins-the-rotation",
+-  ask: "What do I do with something so engaging I will not chunk it, or something so dull I chunk it to nothing? Both failure modes are named and unworked.",
++  ask: "Both failure modes are named and unworked. What do I do with something so engaging I will not chunk it, or something so dull I chunk it to nothing?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-i-built-that-fits-neither-line.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-i-built-that-fits-neither-line.all-about-alan-question.ts
+index b76e56b68f4c64b5f7aafae64f21ba8cb37d132a..2fd778d148b984e6f0c8c4f5f4c5d18c3e69bc39 100644
+--- a/alan/books/all-about-alan/questions/pages/what-i-built-that-fits-neither-line.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-i-built-that-fits-neither-line.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatIBuiltThatFitsNeitherLine = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-i-built-that-fits-neither-line",
+   topicSlug: "what-happens-when-something-gets-cheap",
+-  ask: "What did I build this year that fits neither line? Abby asked and I could not recall one, which Abby reads as a fact about what my memory returns.",
++  ask: "Abby asked and I could not recall one, which Abby reads as a fact about what my memory returns. What did I build this year that fits neither line?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-is-rightly-compulsory-at-my-capacity.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-is-rightly-compulsory-at-my-capacity.all-about-alan-question.ts
+index 811377e21d7dca10cfd9796b8f8e0bcab327ed33..85bc8f8dfb6ac7a21dd1e4f948546ae152a6d388 100644
+--- a/alan/books/all-about-alan/questions/pages/what-is-rightly-compulsory-at-my-capacity.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-is-rightly-compulsory-at-my-capacity.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatIsRightlyCompulsoryAtMyCapacity = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-is-rightly-compulsory-at-my-capacity",
+   topicSlug: "what-i-have-stopped-treating-as-compulsory",
+-  ask: "What is rightly classified as compulsory at the capacity I have now? That is the one check that could come back saying nothing needs to change.",
++  ask: "The one check that could come back saying nothing needs to change: what is rightly classified as compulsory at the capacity I have now?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-is-under-her-jealousy.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-is-under-her-jealousy.all-about-alan-question.ts
+index ad902b1b8317c6a1ccf9db56719e4763f80474d0..f7a253055d3fdb2f220fdfb69a472f74b83b40bf 100644
+--- a/alan/books/all-about-alan/questions/pages/what-is-under-her-jealousy.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-is-under-her-jealousy.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatIsUnderHerJealousy = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-is-under-her-jealousy",
+   topicSlug: "working-out-how-she-thinks",
+-  ask: "What is the psychology under Jen's jealousy, which feels excessive to me? What I have is the wanting to know, not a model.",
++  ask: "What I have is the wanting to know, not a model. What is the psychology under Jen's jealousy, which feels excessive to me?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-lifts-the-low-feeling-modifier.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-lifts-the-low-feeling-modifier.all-about-alan-question.ts
+index 021cacedefc65b65b304e7bdcda6b7277b7373c3..7402961f51cfcfbbfc48f86029c8bc93b3ae0eb6 100644
+--- a/alan/books/all-about-alan/questions/pages/what-lifts-the-low-feeling-modifier.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-lifts-the-low-feeling-modifier.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatLiftsTheLowFeelingModifier = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-lifts-the-low-feeling-modifier",
+   topicSlug: "the-low-feeling-that-costs-me-a-level",
+-  ask: "What actually lifts the modifier? Reading my record returns the fact of what I did and not the experience, and no other counter has been named.",
++  ask: "Reading my record returns the fact of what I did and not the experience, and no other counter has been named. What actually lifts the modifier?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-my-capacity-budget-is-without-compute.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-my-capacity-budget-is-without-compute.all-about-alan-question.ts
+index 03aa326fb9cd00effd9eb41babc550a78651cd05..21f94c1f848990709ef935d646ecbb05fc507539 100644
+--- a/alan/books/all-about-alan/questions/pages/what-my-capacity-budget-is-without-compute.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-my-capacity-budget-is-without-compute.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatMyCapacityBudgetIsWithoutCompute = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-my-capacity-budget-is-without-compute",
+   topicSlug: "the-money-we-are-living-on",
+-  ask: "What would the capacity category be sized at with compute taken out of it? That figure has never been given for either half.",
++  ask: "The figure has never been given for either half. What would the capacity category be sized at with compute taken out of the category?",
+ } as const satisfies AllAboutAlanQuestion
