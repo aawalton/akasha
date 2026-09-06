@@ -22,7 +22,11 @@ export const equipmentKit = {
     },
     {
       invariantKind: "absence",
-      statement: "The equipment values are already slugs, so nothing is slugged here.",
+      statement: "The equipment values are already slugs.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing is slugged here.",
     },
   ],
 } as const satisfies Module
