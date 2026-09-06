@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-becomes-of-the-parked-headset.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-becomes-of-the-parked-headset.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d33cfca1a83924d7e92871a3622d16c354657dc2
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-becomes-of-the-parked-headset.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatBecomesOfTheParkedHeadset = {
++  id: "01a077e9-2b3b-7870-9d2c-f4c6a1c5398e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-becomes-of-the-parked-headset",
++  topicSlug: "sex",
++  ask: "The headset and the game on it are parked, and the behaviour is recorded only by what the behaviour costs me. What becomes of the headset and the game?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-belief-layer-of-sex-holds.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-belief-layer-of-sex-holds.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..94e1268f2dfb3c2d3a1ba2d5c1315907329021ed
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-the-belief-layer-of-sex-holds.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTheBeliefLayerOfSexHolds = {
++  id: "01a077e9-2b3c-79f4-aa29-33eff50ba766",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-the-belief-layer-of-sex-holds",
++  topicSlug: "sex",
++  ask: "The marriage layer and the plain need are worked, and the belief layer tangled in with them is thin. What does the belief layer hold?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-faith-warrants-zero-tolerance.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-faith-warrants-zero-tolerance.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..95d40078aab901fca67fe428e7f42125c5d6ccfb
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-faith-warrants-zero-tolerance.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyFaithWarrantsZeroTolerance = {
++  id: "01a077e9-2b3c-7e01-972f-7a94d119d75b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-faith-warrants-zero-tolerance",
++  topicSlug: "sex",
++  ask: "Does my faith actually warrant my zero-tolerance rule? I decided on that check and never ran it, and the chastity theology under the rule is barely dug.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-i-do-not-attach-to-the-act.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-i-do-not-attach-to-the-act.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..52dcec2bf60413c7cdb9aac962d83c267995e88d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/why-i-do-not-attach-to-the-act.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whyIDoNotAttachToTheAct = {
++  id: "01a077e9-2b3c-744b-b359-f2e7535e5d93",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "why-i-do-not-attach-to-the-act",
++  topicSlug: "sex",
++  ask: "Most people seem to attach to the act itself, apart from a partner, and I do not. What is behind my not attaching?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/sex.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/sex.all-about-alan-topic.ts
+index 3328dd20653fc2bf515a139fc1a29e48b1bb6348..9c3cf112b16984ac3a98b2be2f9ffeeec08246d8 100644
+--- a/alan/books/all-about-alan/topics/pages/sex.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/sex.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const sex = {
+   relatedSlugs: ["sharing-a-bed"],
+   settled:
+     "Everywhere else my body is a whisper. Here it turns all the way up.\n\nThree things fire at once in it: what I believe, my marriage, and plain bodily need.\n\nThe pornography and the masturbation are regulation rather than desire, which is why nothing ever made them stop.\n\nPartnered sex gives me about a tenth of what it gives most people, because the anticipating and the savouring are both missing.\n\nThis opens further only from enough safety, and how deep it goes is mine to set.",
+-  unsettled:
+-    "The headset and the game on it are parked, and the behaviour is recorded only by what it costs.\n\nWhether my faith actually warrants the zero-tolerance rule is a check I decided on and have not run, and the chastity theology under it is barely dug.\n\nMost people seem to attach to the act itself, apart from a partner. I do not, and that is held for its own pass.\n\nOf the three things tangled in it, the marriage layer and the plain need are worked and the belief layer is thin.",
+ } as const satisfies AllAboutAlanTopic
