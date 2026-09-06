@@ -9,7 +9,8 @@ export const beatDrawing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A fleet is read by the reader that already read it rather than by new code.",
+      statement:
+        "A fleet is read by the reader that already read the fleet rather than by new code.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +30,11 @@ export const beatDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A group answering no stoplights was not read, every group naming at least one.",
+      statement: "Every group names a stoplight.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group answering no stoplights was not read.",
     },
     {
       invariantKind: "absence",
