@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-my-hundred-checks-cover.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-my-hundred-checks-cover.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b4cacd2b415de00d9c23444f29c85221a9538d84
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-my-hundred-checks-cover.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMyHundredChecksCover = {
++  id: "01a077ea-9a61-7c0c-b554-26771edfc412",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-my-hundred-checks-cover",
++  topicSlug: "how-many-checks-i-run",
++  ask: "What do my hundred checks actually cover, and which failure case did each check come from?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-my-practice-was-before-checks-got-cheap.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-my-practice-was-before-checks-got-cheap.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1a6bc64558bfc4b37839e8caf080e8eba4bc5de5
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-my-practice-was-before-checks-got-cheap.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMyPracticeWasBeforeChecksGotCheap = {
++  id: "01a077ea-9a62-7bcf-aa29-922d5f3c1850",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-my-practice-was-before-checks-got-cheap",
++  topicSlug: "how-many-checks-i-run",
++  ask: "What was my practice for preventing a category of wrong before custom checks got cheap enough to turn that prevention into a routine?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-many-checks-i-run.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-many-checks-i-run.all-about-alan-topic.ts
+index 65bd02f494756b57f3ab2fd7fd65bd9fe6cd63eb..1223fa7dfc74bbe945109915ad3624752420a624 100644
+--- a/alan/books/all-about-alan/topics/pages/how-many-checks-i-run.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-many-checks-i-run.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const howManyChecksIRun = {
+   relatedSlugs: ["the-graph-i-built-to-run-my-checks"],
+   settled:
+     "In two decades in tech, the normal pattern I saw for checks was a handful, three to twelve, almost all external packages like typecheck and eslint, with maybe the occasional custom linter rule.\n\nThis year, AI coding ten hours a day sustained, I found it so easy to create custom checks for my specific failure cases that I ended up with about a hundred total.\n\nMost of mine are vendored or custom rather than external packages.",
+-  unsettled:
+-    "What the hundred actually cover, and which failure case each one came from, is not catalogued.\n\nAbby's reading: cheap custom checks are what turned preventing a category of wrong from a decision into a routine. What the practice was before checks got cheap is unwritten.",
+ } as const satisfies AllAboutAlanTopic
