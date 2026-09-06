@@ -42,7 +42,11 @@ export const packagePhasing = {
     },
     {
       invariantKind: "departure",
-      statement: "A batch is the files naming the old name, no wider than the width asked for.",
+      statement: "A batch is the files naming the old name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A batch is no wider than the width asked for.",
     },
     {
       invariantKind: "departure",
@@ -62,11 +66,12 @@ export const packagePhasing = {
     },
     {
       invariantKind: "departure",
-      statement: "Contract judges every path the rename touched rather than the paths it changes.",
+      statement:
+        "Contract judges every path the rename touched rather than the paths contract changes.",
     },
     {
       invariantKind: "departure",
-      statement: "A path the rename respelled is judged once, by contract, over the final body.",
+      statement: "A path the rename respelled is judged once by contract over the final body.",
     },
     {
       invariantKind: "absence",
