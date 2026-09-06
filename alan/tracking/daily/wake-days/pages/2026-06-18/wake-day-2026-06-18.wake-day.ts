@@ -23,7 +23,6 @@ export const wakeDay20260618 = {
   lovePoints: 1.0556,
   sleepPoints: 0,
   strengthPoints: 0,
-  strengthVolume: 0,
   nutritionPoints: 0,
   spannedFromDayBoundary: true,
   completedTasks: "jsonl",

@@ -27,7 +27,6 @@ export const wakeDay20260622 = {
   sleepPoints: 360,
   funPoints: 961250,
   strengthPoints: 3220,
-  strengthVolume: 3220,
   cardioPoints: 70,
   nutritionPoints: 465,
   breathingPoints: 0,
