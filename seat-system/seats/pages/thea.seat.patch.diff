@@ -1,0 +1,57 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.ts b/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0057978cd626af7c8f43ebf2a234a1938e475035
+--- /dev/null
++++ b/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.ts
+@@ -0,0 +1,51 @@
++import type { Module } from "@akasha/code/module"
++
++export const folderGrouping = {
++  id: "01a076cf-5fcb-7ab6-b5e6-9af17ef2e7d0",
++  pageTypeSlug: "module",
++  slug: "folder-grouping",
++  definition: "the folders a path sits under, and what a change leaves sitting in a folder",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The folders above a path are answered from the nearest folder outward.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder an importer sits inside is no folder that import reaches into.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder is asked of the index one folder at a time.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No answer here reads every path the index files.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The files in a folder are the index's answer joined to the paths a change adds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path a change takes away is dropped from the folder that path sat in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder a change opens is answered under the folder above that folder.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder a change empties is dropped by the index rather than dropped here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An answer is held for the folder that answer was asked about.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here judges a folder.",
++    },
++  ],
++} as const satisfies Module
