@@ -1,0 +1,77 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-the-right-context-reaches-an-agent.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-the-right-context-reaches-an-agent.all-about-alan-question.ts
+index 1781af3b6b842a1f80c00483779e5cfe0f77fd66..37ec616e54d315071360e43e9ebd2e1e2167e4ac 100644
+--- a/alan/books/all-about-alan/questions/pages/how-the-right-context-reaches-an-agent.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-the-right-context-reaches-an-agent.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const howTheRightContextReachesAnAgent = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-the-right-context-reaches-an-agent",
+   topicSlug: "why-i-rebuilt-everything",
+-  ask: "Abby reads an agent of mine on 27 August as holding every domain governing its seat and still needing to be told the book about me existed. How do I get an agent the right context at the right time?",
++  ask: "Abby's reading is that on 27 August an agent of mine held every domain governing its seat and still had to be told the book about me existed. How does the right context reach an agent in time?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-i-built-that-fits-neither-line.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-i-built-that-fits-neither-line.all-about-alan-question.ts
+index 2fd778d148b984e6f0c8c4f5f4c5d18c3e69bc39..700710389bf81d7ec8aae09b6f446b8f71b87729 100644
+--- a/alan/books/all-about-alan/questions/pages/what-i-built-that-fits-neither-line.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-i-built-that-fits-neither-line.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatIBuiltThatFitsNeitherLine = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-i-built-that-fits-neither-line",
+   topicSlug: "what-happens-when-something-gets-cheap",
+-  ask: "Abby asked and I could not recall one, which Abby reads as a fact about what my memory returns. What did I build this year that fits neither line?",
++  ask: "Abby asked and I could not recall one. Abby's reading is that my blank is a fact about what my memory returns rather than evidence that nothing fits. What did I build that fits neither line?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-abbys-four-step-shape-holds.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-abbys-four-step-shape-holds.all-about-alan-question.ts
+index be15ae839b117c07020657e4c183ece9ba125f5a..3fba86de54fe32521551b4026d40cdbe0b97983c 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-abbys-four-step-shape-holds.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-abbys-four-step-shape-holds.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherAbbysFourStepShapeHolds = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-abbys-four-step-shape-holds",
+   topicSlug: "the-shape-behind-the-two-lines",
+-  ask: "Abby read four steps under both my lines: a cost collapses, I do a hundred times more, the volume breaks something new, and I build one shared structure. Does that shape hold?",
++  ask: "Abby's reading is that both my lines run four steps: a cost collapses, I do a hundred times more, the volume breaks something new, and I build one shared structure. Does that reading hold?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-personas-are-a-room-catching-up.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-personas-are-a-room-catching-up.all-about-alan-question.ts
+index fdb23a6fb6033e012e60e50851fcb7075eb3adcc..29661a26b520e76d9d9b7b2cd47ea20351e85c90 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-my-personas-are-a-room-catching-up.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-my-personas-are-a-room-catching-up.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherMyPersonasAreARoomCatchingUp = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-my-personas-are-a-room-catching-up",
+   topicSlug: "why-my-doing-lags-my-believing",
+-  ask: "The reading is Abby's rather than mine and was never put to me plainly. Are my personas the second kind, the room catching up to a map already whole?",
++  ask: "Abby's reading is that my personas are the second kind, the room catching up to a map already whole. Does that reading hold?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-wins-evaporate-and-loose-ends-persist.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-wins-evaporate-and-loose-ends-persist.all-about-alan-question.ts
+index 14093df2ad3fccd9cb8210681cf027fecfd9b5b4..26c476750b60619aa01dd86244b9885ea7389231 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-my-wins-evaporate-and-loose-ends-persist.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-my-wins-evaporate-and-loose-ends-persist.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherMyWinsEvaporateAndLooseEndsPersist = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-my-wins-evaporate-and-loose-ends-persist",
+   topicSlug: "what-my-record-gives-me-back",
+-  ask: "Abby reads my wins as evaporating while my loose ends persist, since only the unfinished revolutions stay present to me. Is that reading of what it costs me right?",
++  ask: "Abby's reading is that my wins evaporate while my loose ends persist, since only the unfinished revolutions stay present to me. Does that reading of what it costs me hold?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-one-shape-fits-both-collapses.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-one-shape-fits-both-collapses.all-about-alan-question.ts
+index 5e04cc1239ec47fc4e97dba088020e0736a51ac8..c14dc25b8d5c63e78e0be4eaf872e36d21f33309 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-one-shape-fits-both-collapses.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-one-shape-fits-both-collapses.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherOneShapeFitsBothCollapses = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-one-shape-fits-both-collapses",
+   topicSlug: "what-happens-when-something-gets-cheap",
+-  ask: "Abby reads one shape turning up twice: cheap instructions breaking on volume, cheap checks breaking on evaluation, each fixed by one structure built once and read many times. Does that shape hold?",
++  ask: "Abby's reading is that one shape turned up twice: cheap instructions breaking on volume, cheap checks breaking on evaluation, each fixed by one structure built once. Does that reading hold?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-open-questions-keep-the-lost-nuance.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-open-questions-keep-the-lost-nuance.all-about-alan-question.ts
+index 0e4343b58181109b1131d3997072e419f172ca8e..eb3f7d5ae9c30088af7a69a67a68d79458931034 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-open-questions-keep-the-lost-nuance.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-open-questions-keep-the-lost-nuance.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherOpenQuestionsKeepTheLostNuance = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-open-questions-keep-the-lost-nuance",
+   topicSlug: "what-a-model-leaves-out",
+-  ask: "Abby reads what is open on every topic in this book as where the nuance a definition simplified out is kept rather than thrown away. Does that reading hold?",
++  ask: "Abby's reading is that what stays open on every topic in this book is where the nuance a definition simplified out is kept rather than thrown away. Does that reading hold?",
+ } as const satisfies AllAboutAlanQuestion
