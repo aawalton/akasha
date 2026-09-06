@@ -90,6 +90,14 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
+      statement: "A page carries the page type the caller named.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page carries the slug the caller named.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page the index already holds keeps the identity the page has.",
     },
     {

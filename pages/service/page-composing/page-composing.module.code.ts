@@ -16,6 +16,10 @@ const PLURAL = "pluralSlug"
 
 const ID = "id"
 
+const PAGE_TYPE_SLUG = "pageTypeSlug"
+
+const SLUG = "slug"
+
 const JSONL = "jsonl"
 
 export function bodyRefused(
@@ -251,6 +255,12 @@ export function composedFor(root: string, named: Naming): Composed {
   }
   const wasId = was === null ? undefined : was[ID]
   if (inside[ID] === undefined && wasId !== undefined) inside[ID] = wasId
+  // THE NAMING IS THE AUTHORITY FOR BOTH OF THESE KEYS. A caller hands its page type and its slug
+  // over beside the values rather than among them, so without these two lines the two keys every
+  // page type declares required are the two keys no body written here carries, and the index files
+  // no such page.
+  inside[PAGE_TYPE_SLUG] = named.pageTypeSlug
+  inside[SLUG] = named.slug
   const content = bodyOf({
     pageTypeSlug: named.pageTypeSlug,
     slug: named.slug,
