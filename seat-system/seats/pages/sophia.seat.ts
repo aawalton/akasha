@@ -5,7 +5,7 @@ export const sophia = {
   pageTypeSlug: "seat",
   slug: "sophia",
   personaSlug: "sophia",
-  assignmentSlug: "initiative/sophia-warrant-reach",
+  assignmentSlug: "workspace-package/persona",
   roleSlug: "persona-craft",
   personSlug: "alan",
   startMode: "interactive",
