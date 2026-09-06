@@ -75,3 +75,14 @@ index 0d41449bfcf28d7b867a3f982a4c29337607bd18..81bb417ecbf3a6c3785beaef1e84cfe2
      {
        invariantKind: "departure",
        statement: "A page type the change carries is read as the change leaves that page type.",
+diff --git a/checks/refusals/pages/page-key-computed.refusal.ts b/checks/refusals/pages/page-key-computed.refusal.ts
+index aff8423b805aa30f849a1581533fc979afa87ddf..8ba066889dcdf356abe16fd6ac7f504f49b0d1b3 100644
+--- a/checks/refusals/pages/page-key-computed.refusal.ts
++++ b/checks/refusals/pages/page-key-computed.refusal.ts
+@@ -5,5 +5,5 @@ export const pageKeyComputed = {
+   pageTypeSlug: "refusal",
+   slug: "page-key-computed",
+   title: "Page key computed",
+-  text: "`{key}` is computed on `{on}`, so the engine supplies it and no file states it",
++  text: "states `{key}`, which `{on}` works out, and such a value is worked out as the page is read rather than kept in it",
+ } as const satisfies Refusal
