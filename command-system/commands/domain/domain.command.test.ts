@@ -1,8 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { listedFiled } from "@akasha/indexes/testing"
+import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import {
   AT_DOMAIN,
   DAG,
@@ -20,7 +21,7 @@ import {
 } from "./domain.command.code.ts"
 import { domain as domainCommand } from "./domain.command.ts"
 
-const ROOT = new URL("../../", import.meta.url).pathname.replace(/\/$/, "")
+const ROOT = rootOf(import.meta.path)
 
 const scratch = scratchWorld()
 
@@ -168,10 +169,13 @@ test("a domain open above the point being drawn is marked rather than drawn agai
 
 function typed(root: string, slug: string, above: readonly string[]): undefined {
   const path = `akasha/held/${slug}.page-type.ts`
+  const named = above.map((one) => `page-type/${one}`)
   listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
+  valueAlsoFiled(root, "page-type", [
+    { path, value: { id: `id-${slug}`, pageTypeSlug: "page-type", slug, extendsSlug: named } },
+  ])
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })
-  const named = above.map((one) => `page-type/${one}`)
   writeFileSync(
     page,
     `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${JSON.stringify(named)} }\n`
