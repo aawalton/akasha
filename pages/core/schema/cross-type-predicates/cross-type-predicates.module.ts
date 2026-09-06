@@ -6,4 +6,5 @@ export const crossTypePredicates = {
   slug: "cross-type-predicates",
   definition: "a preset defining a smart list of pages across all types",
   code: "ts",
+  test: "ts",
 } as const satisfies Module

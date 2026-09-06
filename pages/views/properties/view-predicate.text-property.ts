@@ -19,5 +19,13 @@ export const viewPredicate = {
       invariantKind: "departure",
       statement: "A view naming a predicate and a page type at once is refused.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A predicate is named in lower kebab.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A predicate no registry answers for lists nothing.",
+    },
   ],
 } as const satisfies TextProperty

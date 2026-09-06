@@ -8,7 +8,7 @@ export interface CrossTypePredicate {
 }
 
 const FAVORITES: CrossTypePredicate = {
-  key: "FAVORITES",
+  key: "favorites",
   filters: [{ propertyId: "favoritedAt", operator: "is_not_empty" }],
   sorts: [{ field: "favoritedAt", direction: "desc" }],
   limit: 100,
