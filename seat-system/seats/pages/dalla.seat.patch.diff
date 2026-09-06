@@ -1,0 +1,31 @@
+diff --git a/code-system/modules/properties/types.file-property.ts b/code-system/modules/properties/types.file-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f9a45520f2d5c03f7305af3db8df3384425df893
+--- /dev/null
++++ b/code-system/modules/properties/types.file-property.ts
+@@ -0,0 +1,25 @@
++import type { FileProperty } from "@akasha/pages/file-property"
++
++export type Types = "ts"
++
++export const types = {
++  id: "01a0771d-937f-7d2e-bf5a-ae4d922fcda9",
++  pageTypeSlug: "file-property",
++  slug: "types",
++  propertySlug: "types",
++  definition: "the type declarations a module's code and its callers both state",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A module states its shared declarations here rather than in its code.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A caller naming only a declaration does not load the code that answers it.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here runs.",
++    },
++  ],
++} as const satisfies FileProperty
