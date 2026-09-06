@@ -5,5 +5,5 @@ export const howMyHarnessHoldsEachKindOfThing = {
   pageTypeSlug: "all-about-alan-question",
   slug: "how-my-harness-holds-each-kind-of-thing",
   topicSlug: "small-bites-of-many-things",
-  ask: "How does my harness hold a book, a show, a course, a project or a game? No worked shape has been written for any of the five.",
+  ask: "No worked shape has been written for any of the five. How does my harness hold a book, a show, a course, a project or a game?",
 } as const satisfies AllAboutAlanQuestion

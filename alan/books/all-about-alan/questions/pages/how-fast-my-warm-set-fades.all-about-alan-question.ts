@@ -5,5 +5,5 @@ export const howFastMyWarmSetFades = {
   pageTypeSlug: "all-about-alan-question",
   slug: "how-fast-my-warm-set-fades",
   topicSlug: "what-stays-warm-for-a-while",
-  ask: "Does the freshness fade over about a day to almost nothing? I hold that guess at about one in five.",
+  ask: "I hold the guess at about one in five: does the freshness fade over about a day to almost nothing?",
 } as const satisfies AllAboutAlanQuestion

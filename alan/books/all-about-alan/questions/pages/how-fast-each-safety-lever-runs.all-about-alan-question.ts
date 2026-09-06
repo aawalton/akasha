@@ -5,5 +5,5 @@ export const howFastEachSafetyLeverRuns = {
   pageTypeSlug: "all-about-alan-question",
   slug: "how-fast-each-safety-lever-runs",
   topicSlug: "how-safety-climbs",
-  ask: "What duration does each lever run at: slow surplus, faster repair with Jen, and a daily health shock? The three speeds are not pinned.",
+  ask: "The three speeds are not pinned. What duration does each lever run at: slow surplus, faster repair with Jen, and a daily health shock?",
 } as const satisfies AllAboutAlanQuestion

@@ -5,5 +5,5 @@ export const howINoticeThePiecesOfLoveLive = {
   pageTypeSlug: "all-about-alan-question",
   slug: "how-i-notice-the-pieces-of-love-live",
   topicSlug: "working-out-what-love-is",
-  ask: "How do I notice the other pieces of love as they happen? The model is walked and the detection side empty, with a single piece of thirteen carrying a bridge I can notice live.",
+  ask: "The model is walked and the detection side empty, with a single piece of thirteen carrying a bridge I can notice live. How do I notice the other pieces of love as they happen?",
 } as const satisfies AllAboutAlanQuestion

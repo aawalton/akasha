@@ -5,5 +5,5 @@ export const howMuchOfASocialHourIsThePausedBreathing = {
   pageTypeSlug: "all-about-alan-question",
   slug: "how-much-of-a-social-hour-is-the-paused-breathing",
   topicSlug: "what-interrupts-my-breathing",
-  ask: "How much of what a social hour costs me is the paused breathing rather than the compensating? A coding hour against a social one would tell the two apart.",
+  ask: "A coding hour against a social one would tell the two apart. How much of what a social hour costs me is the paused breathing rather than the compensating?",
 } as const satisfies AllAboutAlanQuestion

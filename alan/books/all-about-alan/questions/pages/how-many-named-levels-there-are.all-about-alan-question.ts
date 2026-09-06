@@ -5,5 +5,5 @@ export const howManyNamedLevelsThereAre = {
   pageTypeSlug: "all-about-alan-question",
   slug: "how-many-named-levels-there-are",
   topicSlug: "the-coloured-circles-i-run-on",
-  ask: "How many named levels are there? I described five, one account records four, and what runs shows five.",
+  ask: "I described five named levels, one account records four, and what runs shows five. How many named levels are there?",
 } as const satisfies AllAboutAlanQuestion

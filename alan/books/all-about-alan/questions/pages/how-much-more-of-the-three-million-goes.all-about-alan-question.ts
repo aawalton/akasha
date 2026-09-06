@@ -5,5 +5,5 @@ export const howMuchMoreOfTheThreeMillionGoes = {
   pageTypeSlug: "all-about-alan-question",
   slug: "how-much-more-of-the-three-million-goes",
   topicSlug: "why-i-rebuilt-everything",
-  ask: "How much more of the three million lines has to go? I have only said I need to get rid of more.",
+  ask: "I have only said I need to get rid of more. How much more of the three million lines has to go?",
 } as const satisfies AllAboutAlanQuestion
