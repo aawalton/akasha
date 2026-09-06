@@ -1,0 +1,1797 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/authored/pages/add-file/add-file.change-authored.code.ts b/changes/authored/pages/add-file/add-file.change-authored.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..16547edd936fc5095b5f144fd8386839ce83c85e
+--- /dev/null
++++ b/changes/authored/pages/add-file/add-file.change-authored.code.ts
+@@ -0,0 +1,28 @@
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { addFile } from "../../../pages/add-file/add-file.change-mechanical.code.ts"
++
++const AT = "at"
++
++const BODY = "body"
++
++export type Asked = Readonly<Record<string, string>>
++
++function missing(key: string): string {
++  return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
++}
++
++// A command line hands the arguments in as text worked out while the command runs, so the shape is
++// read here rather than trusted, and a shape this change cannot use is refused by name.
++export function addFileCommand(world: World, given: Asked): Answer {
++  const at = given[AT]
++  if (at === undefined) return refusing(missing(AT))
++  const body = given[BODY]
++  if (body === undefined) return refusing(missing(BODY))
++  return addFile(world, { at, body })
++}
++
++export function runChange(world: World, given: Asked): Answer {
++  return addFileCommand(world, given)
++}
+diff --git a/changes/authored/pages/add-file/add-file.change-authored.test.ts b/changes/authored/pages/add-file/add-file.change-authored.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f51d5e71118b51eb853dc185993b77b2851bfe6a
+--- /dev/null
++++ b/changes/authored/pages/add-file/add-file.change-authored.test.ts
+@@ -0,0 +1,38 @@
++import { expect, test } from "bun:test"
++import {
++  NOTHING_OVER,
++  type World,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { addFileCommand } from "./add-file.change-authored.code.ts"
++
++const AT = "akasha/one.held.ts"
++
++function worldOf(held: Readonly<Record<string, string>>): World {
++  return {
++    root: "/nowhere",
++    index: {} as World["index"],
++    textOf: (path) => held[path] ?? null,
++    over: NOTHING_OVER,
++  }
++}
++
++test("the arguments naming a path and a body are answered as one edit", () => {
++  const said = addFileCommand(worldOf({}), { at: AT, body: "alpha\n" })
++
++  expect(said.refused).toBeNull()
++  expect(said.edits).toEqual([{ path: AT, was: null, body: "alpha\n" }])
++})
++
++test("arguments holding no path are refused by the name of the argument", () => {
++  const said = addFileCommand(worldOf({}), { body: "alpha\n" })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/`at`/)
++})
++
++test("arguments holding no body are refused by the name of the argument", () => {
++  const said = addFileCommand(worldOf({}), { at: AT })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/`body`/)
++})
+diff --git a/changes/authored/pages/add-file/add-file.change-authored.ts b/changes/authored/pages/add-file/add-file.change-authored.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d0407ff27181f11a0a9779817f5989011736b5c1
+--- /dev/null
++++ b/changes/authored/pages/add-file/add-file.change-authored.ts
+@@ -0,0 +1,40 @@
++import type { ChangeAuthored } from "../../change-authored.page-type.ts"
++
++export const addFile = {
++  id: "01a07813-6e3b-77c3-9c1e-b0c5778fd31b",
++  pageTypeSlug: "change-authored",
++  slug: "add-file",
++  definition: "one body written at one path, judged by the checks a landing runs",
++  code: "ts",
++  test: "ts",
++  isCommand: true,
++  runsChecks: true,
++  readersOweReading: true,
++  writerOwesReading: true,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The arguments are read here rather than trusted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An argument this change is handed no value for is refused by name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body is handed in whole rather than as a passage.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Writing the body is left to the partial this change runs.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No guard runs here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The checks judge the tree the edits leave.",
++    },
++  ],
++} as const satisfies ChangeAuthored
+diff --git a/changes/authored/pages/change-file/change-file.change-authored.code.ts b/changes/authored/pages/change-file/change-file.change-authored.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3164237afa9f40b7eafa19eafbd93f7669bb84df
+--- /dev/null
++++ b/changes/authored/pages/change-file/change-file.change-authored.code.ts
+@@ -0,0 +1,32 @@
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { changeFile } from "../../../pages/change-file/change-file.change-mechanical.code.ts"
++
++const AT = "at"
++
++const OLD = "old"
++
++const NEW = "new"
++
++export type Asked = Readonly<Record<string, string>>
++
++function missing(key: string): string {
++  return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
++}
++
++// A command line hands the arguments in as text worked out while the command runs, so the shape is
++// read here rather than trusted, and a shape this change cannot use is refused by name.
++export function changeFileCommand(world: World, given: Asked): Answer {
++  const at = given[AT]
++  if (at === undefined) return refusing(missing(AT))
++  const old = given[OLD]
++  if (old === undefined) return refusing(missing(OLD))
++  const becomes = given[NEW]
++  if (becomes === undefined) return refusing(missing(NEW))
++  return changeFile(world, { at, old, new: becomes })
++}
++
++export function runChange(world: World, given: Asked): Answer {
++  return changeFileCommand(world, given)
++}
+diff --git a/changes/authored/pages/change-file/change-file.change-authored.test.ts b/changes/authored/pages/change-file/change-file.change-authored.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fd0bb46ccb6a12749a22f4528483bd7eab9b04fb
+--- /dev/null
++++ b/changes/authored/pages/change-file/change-file.change-authored.test.ts
+@@ -0,0 +1,46 @@
++import { expect, test } from "bun:test"
++import {
++  NOTHING_OVER,
++  type World,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { changeFileCommand } from "./change-file.change-authored.code.ts"
++
++const AT = "akasha/one.held.ts"
++
++function worldOf(held: Readonly<Record<string, string>>): World {
++  return {
++    root: "/nowhere",
++    index: {} as World["index"],
++    textOf: (path) => held[path] ?? null,
++    over: NOTHING_OVER,
++  }
++}
++
++test("the arguments naming a path and two passages are answered as one edit", () => {
++  const said = changeFileCommand(worldOf({ [AT]: "one two\n" }), {
++    at: AT,
++    old: "two",
++    new: "four",
++  })
++
++  expect(said.refused).toBeNull()
++  expect(said.edits).toEqual([{ path: AT, was: "one two\n", body: "one four\n" }])
++})
++
++test("arguments holding no path are refused by the name of the argument", () => {
++  const said = changeFileCommand(worldOf({}), { old: "two", new: "four" })
++
++  expect(said.refused ?? "").toMatch(/`at`/)
++})
++
++test("arguments holding no passage are refused by the name of the argument", () => {
++  const said = changeFileCommand(worldOf({}), { at: AT, new: "four" })
++
++  expect(said.refused ?? "").toMatch(/`old`/)
++})
++
++test("arguments saying nothing the passage becomes are refused by the name of the argument", () => {
++  const said = changeFileCommand(worldOf({}), { at: AT, old: "two" })
++
++  expect(said.refused ?? "").toMatch(/`new`/)
++})
+diff --git a/changes/authored/pages/change-file/change-file.change-authored.ts b/changes/authored/pages/change-file/change-file.change-authored.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..980beb7884cf40a19e7429bb05768abf1ada4a4b
+--- /dev/null
++++ b/changes/authored/pages/change-file/change-file.change-authored.ts
+@@ -0,0 +1,40 @@
++import type { ChangeAuthored } from "../../change-authored.page-type.ts"
++
++export const changeFile = {
++  id: "01a07813-6e3d-7d39-a28a-164766ab0fed",
++  pageTypeSlug: "change-authored",
++  slug: "change-file",
++  definition: "one passage of one body replaced, judged by the checks a landing runs",
++  code: "ts",
++  test: "ts",
++  isCommand: true,
++  runsChecks: true,
++  readersOweReading: true,
++  writerOwesReading: true,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The arguments are read here rather than trusted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An argument this change is handed no value for is refused by name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The passage and the replacement are two arguments.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Working the passage is left to the partial this change runs.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No guard runs here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The checks judge the tree the edits leave.",
++    },
++  ],
++} as const satisfies ChangeAuthored
+diff --git a/changes/checked/pages/rename-code-token/rename-code-token.change-checked.code.ts b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5c7340e4d060630537cd90d2930ea2ae70631060
+--- /dev/null
++++ b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.code.ts
+@@ -0,0 +1,91 @@
++import {
++  declaredNamed,
++  declaredOn,
++  exportsNamed,
++  readingOf,
++  type Typing,
++  typed,
++  typingOver,
++} from "@akasha/code/code-typing"
++import ts from "typescript"
++import { gathered, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { renameExport } from "../../../pages/rename-export/rename-export.change-mechanical.code.ts"
++import { renameLocalVariable } from "../../../pages/rename-local-variable/rename-local-variable.change-mechanical.code.ts"
++
++export const LINE = "--line"
++
++export type RenameCodeTokenAsked = {
++  readonly at: string
++  readonly of: string
++  readonly to: string
++  readonly line?: number
++}
++
++type Picked = { readonly node: ts.Node } | { readonly refused: string }
++
++function namedOf(node: ts.Node): ts.Node | null {
++  if (ts.isFunctionDeclaration(node)) return node.name ?? null
++  if (ts.isTypeAliasDeclaration(node) || ts.isInterfaceDeclaration(node)) return node.name
++  if (ts.isVariableDeclaration(node)) return ts.isIdentifier(node.name) ? node.name : null
++  return null
++}
++
++function linesOf(typing: Typing, path: string, declared: readonly ts.Node[]): string {
++  const lines = new Set<number>()
++  for (const one of declared) {
++    const line = declaredOn(typing, path, one)
++    if (line !== null) lines.add(line)
++  }
++  return [...lines].sort((here, there) => here - there).join(" or ")
++}
++
++function pickedIn(
++  typing: Typing,
++  given: RenameCodeTokenAsked,
++  declared: readonly ts.Node[]
++): Picked {
++  if (given.line === undefined) {
++    const first = declared[0]
++    if (declared.length === 1 && first !== undefined) return { node: first }
++    return {
++      refused:
++        `\`${given.at}\` declares \`${given.of}\` in more than one place, so say ` +
++        `${LINE} with ${linesOf(typing, given.at, declared)}`,
++    }
++  }
++  for (const one of declared) {
++    if (declaredOn(typing, given.at, one) === given.line) return { node: one }
++  }
++  return {
++    refused:
++      `\`${given.at}\` declares no \`${given.of}\` on line ${given.line}, so say ` +
++      `${LINE} with ${linesOf(typing, given.at, declared)}`,
++  }
++}
++
++export function renameCodeToken(world: World, given: RenameCodeTokenAsked): Answer {
++  if (!typed(given.at)) return refusing(`\`${given.at}\` names no TypeScript body`)
++  const text = world.textOf(given.at)
++  if (text === null) return refusing(`\`${given.at}\` could not be read`)
++  const typing = typingOver(world.root, [given.at], readingOf(world.root, world.textOf))
++  if (exportsNamed(typing, given.at, given.of).length > 0) {
++    return gathered([renameExport(world, { at: given.at, of: given.of, to: given.to })])
++  }
++  const declared = declaredNamed(typing, given.at, given.of)
++  if (declared.length === 0) return refusing(`\`${given.at}\` declares no \`${given.of}\``)
++  const found = pickedIn(typing, given, declared)
++  if ("refused" in found) return refusing(found.refused)
++  const source = typing.sourceAt(given.at)
++  if (source === null) return refusing(`\`${given.at}\` could not be read`)
++  const named = namedOf(found.node)
++  if (named === null) return refusing(`\`${given.of}\` is no simple declaration`)
++  return gathered([
++    renameLocalVariable(given.at, text, { at: named.getStart(source), to: given.to }),
++  ])
++}
++
++export function runChange(world: World, given: RenameCodeTokenAsked): Answer {
++  return renameCodeToken(world, given)
++}
+diff --git a/changes/checked/pages/rename-code-token/rename-code-token.change-checked.test.ts b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c1a883e0f1b5b10bc15920f3369a63f80de4540e
+--- /dev/null
++++ b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.test.ts
+@@ -0,0 +1,74 @@
++import { afterAll, expect, test } from "bun:test"
++import {
++  HELD_CODE,
++  HELD_EXPORT,
++  indexedRepo,
++  NAMER_CODE,
++  scratch,
++  textIn,
++} from "@akasha/indexes/indexing/testing"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { renameCodeToken } from "./rename-code-token.change-checked.code.ts"
++
++afterAll(scratch.sweep)
++
++const CARRIED = "carried"
++
++const NOTHING = (): null => null
++
++const LOCAL = "akasha/one/local.module.code.ts"
++
++const BODY = `export function held(): number {
++  const kept = 1
++  return kept + 1
++}
++`
++
++function bodyOf(path: string): string | null {
++  return path === LOCAL ? BODY : null
++}
++
++function pathsOf(said: Answer): readonly string[] {
++  return said.edits.map((one) => one.path).sort()
++}
++
++function bodyIn(said: Answer, path: string): string {
++  return said.edits.find((one) => one.path === path)?.body ?? ""
++}
++
++test("a path that is no TypeScript body is refused", () => {
++  const world = worldAt(scratch.rootFor("token-"), NOTHING)
++  const said = renameCodeToken(world, { at: "a.md", of: "one", to: "two" })
++  expect(said.refused).toBe("`a.md` names no TypeScript body")
++})
++
++test("a body that could not be read is refused", () => {
++  const world = worldAt(scratch.rootFor("token-"), NOTHING)
++  const said = renameCodeToken(world, { at: LOCAL, of: "one", to: "two" })
++  expect(said.refused).toBe("`akasha/one/local.module.code.ts` could not be read")
++})
++
++test("an exported name is renamed through every importer", () => {
++  const root = indexedRepo()
++  const world = worldAt(root, textIn(root))
++  const said = renameCodeToken(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
++  expect(said.refused).toBe(null)
++  expect(pathsOf(said)).toEqual([HELD_CODE, NAMER_CODE])
++})
++
++test("a name no export carries is renamed over its own file", () => {
++  const world = worldAt(scratch.rootFor("token-"), bodyOf)
++  const said = renameCodeToken(world, { at: LOCAL, of: "kept", to: CARRIED })
++  expect(said.refused).toBe(null)
++  expect(bodyIn(said, LOCAL)).toBe(BODY.replaceAll("kept", CARRIED))
++  expect(said.edits[0]?.was).toBe(BODY)
++  expect(said.edits[0]?.from).toBe(undefined)
++})
++
++test("a name the file declares nowhere is refused", () => {
++  const world = worldAt(scratch.rootFor("token-"), bodyOf)
++  const said = renameCodeToken(world, { at: LOCAL, of: "missing", to: CARRIED })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe("`akasha/one/local.module.code.ts` declares no `missing`")
++})
+diff --git a/changes/checked/pages/rename-code-token/rename-code-token.change-checked.ts b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2135564be0de568f989dcd95bcab1fa8c8fde1d4
+--- /dev/null
++++ b/changes/checked/pages/rename-code-token/rename-code-token.change-checked.ts
+@@ -0,0 +1,14 @@
++import type { ChangeChecked } from "../../change-checked.page-type.ts"
++
++export const renameCodeToken = {
++  id: "01a07718-c9b6-7d80-aebd-b1155f08ab77",
++  pageTypeSlug: "change-checked",
++  slug: "rename-code-token",
++  definition: "a name a code file declares renamed wherever it reaches, exported or not",
++  code: "ts",
++  test: "ts",
++  isCommand: true,
++  runsChecks: true,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies ChangeChecked
+diff --git a/changes/checked/pages/rename-page/rename-page.change-checked.code.ts b/changes/checked/pages/rename-page/rename-page.change-checked.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..974f3fbba71412ed17108663e4db82ca4c73f8b5
+--- /dev/null
++++ b/changes/checked/pages/rename-page/rename-page.change-checked.code.ts
+@@ -0,0 +1,162 @@
++import { basename, dirname, join } from "node:path"
++import { parsedAs } from "@akasha/code/code-source"
++import { besideAt } from "@akasha/pages/page-file-name"
++import { slugFor } from "@akasha/pages/page-property-key"
++import { folderFor } from "../../../../pages/service/page-composing/page-composing.module.code.ts"
++import {
++  answered,
++  gathered,
++  refusing,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { type World, worldOver } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { renameSlug } from "../../../pages/rename-page-slug/rename-page-slug.change-mechanical.code.ts"
++import { renamePath } from "../../../pages/rename-path/rename-path.change-mechanical.code.ts"
++import { statedIn } from "../../../pages/restate-value/restate-value.change-mechanical.code.ts"
++
++const TYPED = ".ts"
++
++const SLUG = "slug"
++
++const PAGE_TYPE_SLUG = "pageTypeSlug"
++
++const PAGE_TYPE = "page-type"
++
++const FILE_PROPERTY = "file-property"
++
++const PLURAL_SLUG = "pluralSlug"
++
++export type RenamePageAsked = {
++  readonly at: string
++  readonly to: string
++  readonly plural?: string
++}
++
++type Held = {
++  readonly slug: string
++  readonly pageTypeSlug: string
++  readonly said: ReadonlyMap<string, string>
++}
++
++type Read = { readonly held: Held } | { readonly refused: string }
++
++type Move = { readonly from: string; readonly to: string }
++
++function readIn(at: string, text: string): Read {
++  const source = parsedAs(at, text)
++  const said = statedIn(source)
++  const slug = said.get(SLUG)
++  const pageTypeSlug = said.get(PAGE_TYPE_SLUG)
++  if (slug === undefined) return { refused: `\`${at}\` states no \`${SLUG}\`` }
++  if (pageTypeSlug === undefined) return { refused: `\`${at}\` states no \`${PAGE_TYPE_SLUG}\`` }
++  return {
++    held: {
++      slug: slug.text,
++      pageTypeSlug: pageTypeSlug.text,
++      said: new Map([...said].map(([key, one]) => [key, one.text])),
++    },
++  }
++}
++
++type Beside = { readonly propertySlug: string; readonly ending: string }
++
++function besideIn(world: World, held: Held): readonly Beside[] {
++  const found: Beside[] = []
++  for (const [key, ending] of held.said) {
++    const answer = world.index.schemaOf(slugFor(key))
++    if ("refused" in answer) continue
++    const one = answer.schema
++    if (one.pageTypeSlug !== FILE_PROPERTY) continue
++    const propertySlug = one.propertySlug
++    if (propertySlug === null) continue
++    found.push({ propertySlug, ending })
++  }
++  return found
++}
++
++function movesOver(beside: readonly Beside[], at: string, to: string): readonly Move[] {
++  const found: Move[] = []
++  for (const one of beside) {
++    const from = besideAt(at, one.propertySlug, one.ending)
++    const next = besideAt(to, one.propertySlug, one.ending)
++    if (from === null || next === null) continue
++    found.push({ from, to: next })
++  }
++  return found.sort((one, two) => (one.from < two.from ? -1 : one.from > two.from ? 1 : 0))
++}
++
++function pluralIn(world: World, held: Held): string {
++  const at = world.index.listedAt(PAGE_TYPE, held.pageTypeSlug)[0]?.path
++  if (at === undefined) return ""
++  const text = world.textOf(at)
++  if (text === null) return ""
++  const read = readIn(at, text)
++  return "refused" in read ? "" : (read.held.said.get(PLURAL_SLUG) ?? "")
++}
++
++function ownsIn(world: World, held: Held, at: string, beside: readonly Beside[]): boolean {
++  if (beside.length === 0) return false
++  const opening = `${held.slug}.${held.pageTypeSlug}.`
++  const files = world.index.filesIn(dirname(at))
++  return files.length > 0 && files.every((one) => basename(one).startsWith(opening))
++}
++
++function landingIn(
++  world: World,
++  held: Held,
++  given: RenamePageAsked,
++  beside: readonly Beside[]
++): string {
++  const name = `${given.to}.${held.pageTypeSlug}${TYPED}`
++  const folder = dirname(given.at)
++  if (!ownsIn(world, held, given.at, beside)) return join(folder, name)
++  return join(dirname(folder), folderFor(pluralIn(world, held), held.pageTypeSlug, given.to), name)
++}
++
++export function renamePage(world: World, given: RenamePageAsked): Answer {
++  const text = world.textOf(given.at)
++  if (text === null) return refusing(`\`${given.at}\` could not be read`)
++  const read = readIn(given.at, text)
++  if ("refused" in read) return refusing(read.refused)
++  const held = read.held
++  if (held.pageTypeSlug === PAGE_TYPE) {
++    return refusing(`\`${given.at}\` names a page type, whose slug is renamed by another act`)
++  }
++  let lands: string
++  let beside: readonly Beside[]
++  try {
++    beside = besideIn(world, held)
++    lands = landingIn(world, held, given, beside)
++  } catch (cause) {
++    const why = cause instanceof Error ? cause.message : String(cause)
++    return refusing(`${why}, so no file was carried`)
++  }
++  const answers: Answer[] = []
++  let folded = answered([])
++  let seen = world
++  if (given.to === held.slug) {
++    const carries = `\`${given.to}\` is the slug this page carries`
++    if (given.plural !== undefined) return refusing(`${carries}, so no plural is restated`)
++    if (lands === given.at) return refusing(`${carries}, in the folder that slug names`)
++  } else {
++    const said = renameSlug(seen, { at: given.at, to: given.to, plural: given.plural })
++    if (said.refused !== null) return said
++    answers.push(said)
++    folded = gathered(answers)
++    if (folded.refused !== null) return folded
++    seen = worldOver(world, folded)
++  }
++  for (const one of [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]) {
++    const carried = renamePath(seen, one)
++    if (carried.refused !== null) return carried
++    answers.push(carried)
++    folded = gathered(answers)
++    if (folded.refused !== null) return folded
++    seen = worldOver(world, folded)
++  }
++  return folded
++}
++
++export function runChange(world: World, given: RenamePageAsked): Answer {
++  return renamePage(world, given)
++}
+diff --git a/changes/checked/pages/rename-page/rename-page.change-checked.test.ts b/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5be95a536a585e47ea4c2518b386e0ff16995507
+--- /dev/null
++++ b/changes/checked/pages/rename-page/rename-page.change-checked.test.ts
+@@ -0,0 +1,240 @@
++import { afterAll, expect, test } from "bun:test"
++import {
++  bodyOf,
++  HELD_CODE,
++  HELD_PAGE,
++  HELD_SLUG,
++  idOf,
++  indexedRepo,
++  NAMER_CODE,
++  NAMER_PAGE,
++  pageOf,
++  scratch,
++  textIn,
++} from "@akasha/indexes/indexing/testing"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { renamePage } from "./rename-page.change-checked.code.ts"
++
++afterAll(scratch.sweep)
++
++const CARRIED = "carried"
++
++const CARRIED_PAGE = "akasha/carried/carried.module.ts"
++
++const CARRIED_CODE = "akasha/carried/carried.module.code.ts"
++
++const OTHER_PAGE = "akasha/three/other-one.module.ts"
++
++const OTHER_SLUG = "other-one"
++
++const OTHER_CODE = "akasha/three/other-one.module.code.ts"
++
++const WIDE_PAGE = "akasha/four/wide.module.ts"
++
++const SEATED_SLUG = "seated"
++
++const SEATED_PAGE = "akasha/seated/seated.module.ts"
++
++const SEATED_CODE = "akasha/seated/seated.module.code.ts"
++
++const NOTHING = (): null => null
++
++const saying =
++  (body: string) =>
++  (path: string): string | null =>
++    path === HELD_PAGE ? body : null
++
++const statedAs = (value: Record<string, unknown>, named: string): string =>
++  bodyOf(value).replace("export const it", `export const ${named}`)
++
++function movesOf(said: Answer): readonly (readonly [string, string])[] {
++  const found: (readonly [string, string])[] = []
++  for (const one of said.edits) {
++    if (one.from !== undefined) found.push([one.from, one.path])
++  }
++  return found
++}
++
++function bodyIn(said: Answer, path: string): string | null | undefined {
++  return said.edits.find((one) => one.path === path)?.body
++}
++
++function holdsIn(said: Answer, path: string): boolean {
++  return said.edits.some((one) => one.path === path)
++}
++
++test("a body that could not be read is refused", () => {
++  const said = renamePage(worldAt(scratch.rootFor("slug-"), NOTHING), {
++    at: HELD_PAGE,
++    to: CARRIED,
++  })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe("`akasha/one/held.module.ts` could not be read")
++})
++
++test("a body stating no slug is refused", () => {
++  const body = bodyOf({ id: idOf("8"), pageTypeSlug: "module" })
++  const world = worldAt(scratch.rootFor("slug-"), saying(body))
++  const said = renamePage(world, { at: HELD_PAGE, to: CARRIED })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe("`akasha/one/held.module.ts` states no `slug`")
++})
++
++test("a body stating no page type is refused", () => {
++  const body = bodyOf({ id: idOf("8"), slug: HELD_SLUG })
++  const world = worldAt(scratch.rootFor("slug-"), saying(body))
++  const said = renamePage(world, { at: HELD_PAGE, to: CARRIED })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe("`akasha/one/held.module.ts` states no `pageTypeSlug`")
++})
++
++test("a page type is refused, its slug being renamed by another act", () => {
++  const body = bodyOf({ id: idOf("8"), pageTypeSlug: "page-type", slug: HELD_SLUG })
++  const world = worldAt(scratch.rootFor("slug-"), saying(body))
++  const said = renamePage(world, { at: HELD_PAGE, to: CARRIED })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(
++    "`akasha/one/held.module.ts` names a page type, whose slug is renamed by another act"
++  )
++})
++
++test("a refusal from the slug rename is answered as this change's own", () => {
++  const root = indexedRepo()
++  const said = renamePage(worldAt(root, textIn(root)), { at: HELD_PAGE, to: "namer" })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe("a `module` carries the slug `namer` already")
++})
++
++test("a page whose slug is more than one word has its camel export renamed too", () => {
++  const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
++  const root = indexedRepo({
++    [OTHER_PAGE]: statedAs(value, "otherOne"),
++    [OTHER_CODE]: "export const kept = 2\n",
++  })
++  const said = renamePage(worldAt(root, textIn(root)), { at: OTHER_PAGE, to: CARRIED })
++  expect(said.refused).toBe(null)
++  expect(bodyIn(said, CARRIED_PAGE)).toContain(`export const ${CARRIED} =`)
++  expect(bodyIn(said, CARRIED_PAGE)).not.toContain("export const otherOne")
++})
++
++test("a page's slug is renamed in its data, and its files are carried with it", () => {
++  const root = indexedRepo()
++  const was = textIn(root)
++  const page = was(HELD_PAGE) ?? ""
++  const namer = was(NAMER_PAGE) ?? ""
++  const namerCode = was(NAMER_CODE) ?? ""
++  const heldCode = was(HELD_CODE) ?? ""
++  const said = renamePage(worldAt(root, was), { at: HELD_PAGE, to: CARRIED })
++  expect(said.refused).toBe(null)
++  expect(movesOf(said)).toEqual([
++    [HELD_PAGE, CARRIED_PAGE],
++    [HELD_CODE, CARRIED_CODE],
++  ])
++  expect(bodyIn(said, CARRIED_PAGE)).toBe(
++    page
++      .replace(`"slug": "${HELD_SLUG}"`, `"slug": "${CARRIED}"`)
++      .replace(`export const ${HELD_SLUG} =`, `export const ${CARRIED} =`)
++  )
++  expect(bodyIn(said, NAMER_PAGE)).toBe(
++    namer
++      .replace(`"note": "${HELD_SLUG}"`, `"note": "${CARRIED}"`)
++      .replace(`"module/${HELD_SLUG}"`, `"module/${CARRIED}"`)
++  )
++  expect(bodyIn(said, CARRIED_CODE)).toBe(heldCode)
++  expect(bodyIn(said, NAMER_CODE)).toBe(
++    namerCode.replace(
++      `../one/${HELD_SLUG}.module.code.ts`,
++      `../${CARRIED}/${CARRIED}.module.code.ts`
++    )
++  )
++  expect(holdsIn(said, HELD_PAGE)).toBe(false)
++  expect(holdsIn(said, HELD_CODE)).toBe(false)
++})
++
++test("a body a move carries states the body on disk before the change", () => {
++  const root = indexedRepo()
++  const was = textIn(root)
++  const said = renamePage(worldAt(root, was), { at: HELD_PAGE, to: CARRIED })
++  expect(said.refused).toBe(null)
++  for (const one of said.edits) {
++    expect(one.was).toBe(was(one.from ?? one.path))
++  }
++})
++
++test("a beside file whose key is more than one word is carried too", () => {
++  const root = indexedRepo({
++    "akasha/test-fixtures.file-property.ts": bodyOf({
++      id: idOf("d"),
++      pageTypeSlug: "file-property",
++      slug: "test-fixtures",
++      propertySlug: "test-fixtures",
++    }),
++    [WIDE_PAGE]: pageOf({
++      id: idOf("f"),
++      pageTypeSlug: "module",
++      slug: "wide",
++      code: "ts",
++      testFixtures: "ts",
++    }),
++    "akasha/four/wide.module.code.ts": "export const kept = 3\n",
++    "akasha/four/wide.module.test-fixtures.ts": "export const set = 4\n",
++  })
++  const said = renamePage(worldAt(root, textIn(root)), { at: WIDE_PAGE, to: CARRIED })
++  expect(said.refused).toBe(null)
++  expect(movesOf(said)).toEqual([
++    [WIDE_PAGE, CARRIED_PAGE],
++    ["akasha/four/wide.module.code.ts", CARRIED_CODE],
++    ["akasha/four/wide.module.test-fixtures.ts", "akasha/carried/carried.module.test-fixtures.ts"],
++  ])
++})
++
++test("a page sharing its folder is renamed in the folder that page sits in", () => {
++  const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
++  const root = indexedRepo({
++    [OTHER_PAGE]: statedAs(value, "otherOne"),
++    [OTHER_CODE]: "export const kept = 2\n",
++    "akasha/three/second.module.ts": pageOf({
++      id: idOf("e"),
++      pageTypeSlug: "module",
++      slug: "second",
++    }),
++  })
++  const said = renamePage(worldAt(root, textIn(root)), { at: OTHER_PAGE, to: CARRIED })
++  expect(said.refused).toBe(null)
++  expect(movesOf(said)).toEqual([
++    [OTHER_PAGE, "akasha/three/carried.module.ts"],
++    [OTHER_CODE, "akasha/three/carried.module.code.ts"],
++  ])
++})
++
++test("a page carrying the slug asked for is carried into the folder that slug names", () => {
++  const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
++  const root = indexedRepo({
++    [OTHER_PAGE]: statedAs(value, "otherOne"),
++    [OTHER_CODE]: "export const kept = 2\n",
++  })
++  const said = renamePage(worldAt(root, textIn(root)), { at: OTHER_PAGE, to: OTHER_SLUG })
++  expect(said.refused).toBe(null)
++  expect(movesOf(said)).toEqual([
++    [OTHER_PAGE, `akasha/${OTHER_SLUG}/${OTHER_SLUG}.module.ts`],
++    [OTHER_CODE, `akasha/${OTHER_SLUG}/${OTHER_SLUG}.module.code.ts`],
++  ])
++})
++
++test("a page carrying the slug asked for, in the folder that slug names, is refused", () => {
++  const root = indexedRepo({
++    [SEATED_PAGE]: pageOf({
++      id: idOf("e"),
++      pageTypeSlug: "module",
++      slug: SEATED_SLUG,
++      code: "ts",
++    }),
++    [SEATED_CODE]: "export const kept = 5\n",
++  })
++  const said = renamePage(worldAt(root, textIn(root)), { at: SEATED_PAGE, to: SEATED_SLUG })
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(
++    `\`${SEATED_SLUG}\` is the slug this page carries, in the folder that slug names`
++  )
++})
+diff --git a/changes/checked/pages/rename-page/rename-page.change-checked.ts b/changes/checked/pages/rename-page/rename-page.change-checked.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8838207b76925443d0aced4069cadad7ac4f94dc
+--- /dev/null
++++ b/changes/checked/pages/rename-page/rename-page.change-checked.ts
+@@ -0,0 +1,14 @@
++import type { ChangeChecked } from "../../change-checked.page-type.ts"
++
++export const renamePage = {
++  id: "01a07718-c9b6-7e8c-bc13-5927529ac249",
++  pageTypeSlug: "change-checked",
++  slug: "rename-page",
++  definition: "a page renamed and carried to where its slug says, in the data and in every name",
++  code: "ts",
++  test: "ts",
++  isCommand: true,
++  runsChecks: true,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies ChangeChecked
+diff --git a/changes/command/pages/add-file/add-file.change-authored.code.ts b/changes/command/pages/add-file/add-file.change-authored.code.ts
+deleted file mode 100644
+index 16547edd936fc5095b5f144fd8386839ce83c85e..0000000000000000000000000000000000000000
+--- a/changes/command/pages/add-file/add-file.change-authored.code.ts
++++ /dev/null
+@@ -1,28 +0,0 @@
+-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { addFile } from "../../../pages/add-file/add-file.change-mechanical.code.ts"
+-
+-const AT = "at"
+-
+-const BODY = "body"
+-
+-export type Asked = Readonly<Record<string, string>>
+-
+-function missing(key: string): string {
+-  return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
+-}
+-
+-// A command line hands the arguments in as text worked out while the command runs, so the shape is
+-// read here rather than trusted, and a shape this change cannot use is refused by name.
+-export function addFileCommand(world: World, given: Asked): Answer {
+-  const at = given[AT]
+-  if (at === undefined) return refusing(missing(AT))
+-  const body = given[BODY]
+-  if (body === undefined) return refusing(missing(BODY))
+-  return addFile(world, { at, body })
+-}
+-
+-export function runChange(world: World, given: Asked): Answer {
+-  return addFileCommand(world, given)
+-}
+diff --git a/changes/command/pages/add-file/add-file.change-authored.test.ts b/changes/command/pages/add-file/add-file.change-authored.test.ts
+deleted file mode 100644
+index f51d5e71118b51eb853dc185993b77b2851bfe6a..0000000000000000000000000000000000000000
+--- a/changes/command/pages/add-file/add-file.change-authored.test.ts
++++ /dev/null
+@@ -1,38 +0,0 @@
+-import { expect, test } from "bun:test"
+-import {
+-  NOTHING_OVER,
+-  type World,
+-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { addFileCommand } from "./add-file.change-authored.code.ts"
+-
+-const AT = "akasha/one.held.ts"
+-
+-function worldOf(held: Readonly<Record<string, string>>): World {
+-  return {
+-    root: "/nowhere",
+-    index: {} as World["index"],
+-    textOf: (path) => held[path] ?? null,
+-    over: NOTHING_OVER,
+-  }
+-}
+-
+-test("the arguments naming a path and a body are answered as one edit", () => {
+-  const said = addFileCommand(worldOf({}), { at: AT, body: "alpha\n" })
+-
+-  expect(said.refused).toBeNull()
+-  expect(said.edits).toEqual([{ path: AT, was: null, body: "alpha\n" }])
+-})
+-
+-test("arguments holding no path are refused by the name of the argument", () => {
+-  const said = addFileCommand(worldOf({}), { body: "alpha\n" })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toMatch(/`at`/)
+-})
+-
+-test("arguments holding no body are refused by the name of the argument", () => {
+-  const said = addFileCommand(worldOf({}), { at: AT })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toMatch(/`body`/)
+-})
+diff --git a/changes/command/pages/add-file/add-file.change-authored.ts b/changes/command/pages/add-file/add-file.change-authored.ts
+deleted file mode 100644
+index 34f0d5c2f7e019cf12ad6fc88d50ea591cc0be6d..0000000000000000000000000000000000000000
+--- a/changes/command/pages/add-file/add-file.change-authored.ts
++++ /dev/null
+@@ -1,40 +0,0 @@
+-import type { ChangeAuthored } from "../../../authored/change-authored.page-type.ts"
+-
+-export const addFile = {
+-  id: "01a07813-6e3b-77c3-9c1e-b0c5778fd31b",
+-  pageTypeSlug: "change-authored",
+-  slug: "add-file",
+-  definition: "one body written at one path, judged by the checks a landing runs",
+-  code: "ts",
+-  test: "ts",
+-  isCommand: true,
+-  runsChecks: true,
+-  readersOweReading: true,
+-  writerOwesReading: true,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The arguments are read here rather than trusted.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An argument this change is handed no value for is refused by name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The body is handed in whole rather than as a passage.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Writing the body is left to the partial this change runs.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No guard runs here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The checks judge the tree the edits leave.",
+-    },
+-  ],
+-} as const satisfies ChangeAuthored
+diff --git a/changes/command/pages/change-file/change-file.change-authored.code.ts b/changes/command/pages/change-file/change-file.change-authored.code.ts
+deleted file mode 100644
+index 3164237afa9f40b7eafa19eafbd93f7669bb84df..0000000000000000000000000000000000000000
+--- a/changes/command/pages/change-file/change-file.change-authored.code.ts
++++ /dev/null
+@@ -1,32 +0,0 @@
+-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { changeFile } from "../../../pages/change-file/change-file.change-mechanical.code.ts"
+-
+-const AT = "at"
+-
+-const OLD = "old"
+-
+-const NEW = "new"
+-
+-export type Asked = Readonly<Record<string, string>>
+-
+-function missing(key: string): string {
+-  return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
+-}
+-
+-// A command line hands the arguments in as text worked out while the command runs, so the shape is
+-// read here rather than trusted, and a shape this change cannot use is refused by name.
+-export function changeFileCommand(world: World, given: Asked): Answer {
+-  const at = given[AT]
+-  if (at === undefined) return refusing(missing(AT))
+-  const old = given[OLD]
+-  if (old === undefined) return refusing(missing(OLD))
+-  const becomes = given[NEW]
+-  if (becomes === undefined) return refusing(missing(NEW))
+-  return changeFile(world, { at, old, new: becomes })
+-}
+-
+-export function runChange(world: World, given: Asked): Answer {
+-  return changeFileCommand(world, given)
+-}
+diff --git a/changes/command/pages/change-file/change-file.change-authored.test.ts b/changes/command/pages/change-file/change-file.change-authored.test.ts
+deleted file mode 100644
+index fd0bb46ccb6a12749a22f4528483bd7eab9b04fb..0000000000000000000000000000000000000000
+--- a/changes/command/pages/change-file/change-file.change-authored.test.ts
++++ /dev/null
+@@ -1,46 +0,0 @@
+-import { expect, test } from "bun:test"
+-import {
+-  NOTHING_OVER,
+-  type World,
+-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { changeFileCommand } from "./change-file.change-authored.code.ts"
+-
+-const AT = "akasha/one.held.ts"
+-
+-function worldOf(held: Readonly<Record<string, string>>): World {
+-  return {
+-    root: "/nowhere",
+-    index: {} as World["index"],
+-    textOf: (path) => held[path] ?? null,
+-    over: NOTHING_OVER,
+-  }
+-}
+-
+-test("the arguments naming a path and two passages are answered as one edit", () => {
+-  const said = changeFileCommand(worldOf({ [AT]: "one two\n" }), {
+-    at: AT,
+-    old: "two",
+-    new: "four",
+-  })
+-
+-  expect(said.refused).toBeNull()
+-  expect(said.edits).toEqual([{ path: AT, was: "one two\n", body: "one four\n" }])
+-})
+-
+-test("arguments holding no path are refused by the name of the argument", () => {
+-  const said = changeFileCommand(worldOf({}), { old: "two", new: "four" })
+-
+-  expect(said.refused ?? "").toMatch(/`at`/)
+-})
+-
+-test("arguments holding no passage are refused by the name of the argument", () => {
+-  const said = changeFileCommand(worldOf({}), { at: AT, new: "four" })
+-
+-  expect(said.refused ?? "").toMatch(/`old`/)
+-})
+-
+-test("arguments saying nothing the passage becomes are refused by the name of the argument", () => {
+-  const said = changeFileCommand(worldOf({}), { at: AT, old: "two" })
+-
+-  expect(said.refused ?? "").toMatch(/`new`/)
+-})
+diff --git a/changes/command/pages/change-file/change-file.change-authored.ts b/changes/command/pages/change-file/change-file.change-authored.ts
+deleted file mode 100644
+index 71ecdfd168448768ae9d338412ef1649193fd260..0000000000000000000000000000000000000000
+--- a/changes/command/pages/change-file/change-file.change-authored.ts
++++ /dev/null
+@@ -1,40 +0,0 @@
+-import type { ChangeAuthored } from "../../../authored/change-authored.page-type.ts"
+-
+-export const changeFile = {
+-  id: "01a07813-6e3d-7d39-a28a-164766ab0fed",
+-  pageTypeSlug: "change-authored",
+-  slug: "change-file",
+-  definition: "one passage of one body replaced, judged by the checks a landing runs",
+-  code: "ts",
+-  test: "ts",
+-  isCommand: true,
+-  runsChecks: true,
+-  readersOweReading: true,
+-  writerOwesReading: true,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The arguments are read here rather than trusted.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An argument this change is handed no value for is refused by name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The passage and the replacement are two arguments.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Working the passage is left to the partial this change runs.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No guard runs here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The checks judge the tree the edits leave.",
+-    },
+-  ],
+-} as const satisfies ChangeAuthored
+diff --git a/changes/pages/rename-code-token/rename-code-token.change-checked.code.ts b/changes/pages/rename-code-token/rename-code-token.change-checked.code.ts
+deleted file mode 100644
+index d4562fe2f6b47211e7df0efea12a2cb0bd40063b..0000000000000000000000000000000000000000
+--- a/changes/pages/rename-code-token/rename-code-token.change-checked.code.ts
++++ /dev/null
+@@ -1,91 +0,0 @@
+-import {
+-  declaredNamed,
+-  declaredOn,
+-  exportsNamed,
+-  readingOf,
+-  type Typing,
+-  typed,
+-  typingOver,
+-} from "@akasha/code/code-typing"
+-import ts from "typescript"
+-import { gathered, refusing } from "../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+-import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+-import { renameExport } from "../rename-export/rename-export.change-mechanical.code.ts"
+-import { renameLocalVariable } from "../rename-local-variable/rename-local-variable.change-mechanical.code.ts"
+-
+-export const LINE = "--line"
+-
+-export type RenameCodeTokenAsked = {
+-  readonly at: string
+-  readonly of: string
+-  readonly to: string
+-  readonly line?: number
+-}
+-
+-type Picked = { readonly node: ts.Node } | { readonly refused: string }
+-
+-function namedOf(node: ts.Node): ts.Node | null {
+-  if (ts.isFunctionDeclaration(node)) return node.name ?? null
+-  if (ts.isTypeAliasDeclaration(node) || ts.isInterfaceDeclaration(node)) return node.name
+-  if (ts.isVariableDeclaration(node)) return ts.isIdentifier(node.name) ? node.name : null
+-  return null
+-}
+-
+-function linesOf(typing: Typing, path: string, declared: readonly ts.Node[]): string {
+-  const lines = new Set<number>()
+-  for (const one of declared) {
+-    const line = declaredOn(typing, path, one)
+-    if (line !== null) lines.add(line)
+-  }
+-  return [...lines].sort((here, there) => here - there).join(" or ")
+-}
+-
+-function pickedIn(
+-  typing: Typing,
+-  given: RenameCodeTokenAsked,
+-  declared: readonly ts.Node[]
+-): Picked {
+-  if (given.line === undefined) {
+-    const first = declared[0]
+-    if (declared.length === 1 && first !== undefined) return { node: first }
+-    return {
+-      refused:
+-        `\`${given.at}\` declares \`${given.of}\` in more than one place, so say ` +
+-        `${LINE} with ${linesOf(typing, given.at, declared)}`,
+-    }
+-  }
+-  for (const one of declared) {
+-    if (declaredOn(typing, given.at, one) === given.line) return { node: one }
+-  }
+-  return {
+-    refused:
+-      `\`${given.at}\` declares no \`${given.of}\` on line ${given.line}, so say ` +
+-      `${LINE} with ${linesOf(typing, given.at, declared)}`,
+-  }
+-}
+-
+-export function renameCodeToken(world: World, given: RenameCodeTokenAsked): Answer {
+-  if (!typed(given.at)) return refusing(`\`${given.at}\` names no TypeScript body`)
+-  const text = world.textOf(given.at)
+-  if (text === null) return refusing(`\`${given.at}\` could not be read`)
+-  const typing = typingOver(world.root, [given.at], readingOf(world.root, world.textOf))
+-  if (exportsNamed(typing, given.at, given.of).length > 0) {
+-    return gathered([renameExport(world, { at: given.at, of: given.of, to: given.to })])
+-  }
+-  const declared = declaredNamed(typing, given.at, given.of)
+-  if (declared.length === 0) return refusing(`\`${given.at}\` declares no \`${given.of}\``)
+-  const found = pickedIn(typing, given, declared)
+-  if ("refused" in found) return refusing(found.refused)
+-  const source = typing.sourceAt(given.at)
+-  if (source === null) return refusing(`\`${given.at}\` could not be read`)
+-  const named = namedOf(found.node)
+-  if (named === null) return refusing(`\`${given.of}\` is no simple declaration`)
+-  return gathered([
+-    renameLocalVariable(given.at, text, { at: named.getStart(source), to: given.to }),
+-  ])
+-}
+-
+-export function runChange(world: World, given: RenameCodeTokenAsked): Answer {
+-  return renameCodeToken(world, given)
+-}
+diff --git a/changes/pages/rename-code-token/rename-code-token.change-checked.test.ts b/changes/pages/rename-code-token/rename-code-token.change-checked.test.ts
+deleted file mode 100644
+index 6ac628a319635a0bc79108157f02036c9ba4e305..0000000000000000000000000000000000000000
+--- a/changes/pages/rename-code-token/rename-code-token.change-checked.test.ts
++++ /dev/null
+@@ -1,74 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import {
+-  HELD_CODE,
+-  HELD_EXPORT,
+-  indexedRepo,
+-  NAMER_CODE,
+-  scratch,
+-  textIn,
+-} from "@akasha/indexes/indexing/testing"
+-import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+-import { worldAt } from "../../modules/change-shadow/change-shadow.module.code.ts"
+-import { renameCodeToken } from "./rename-code-token.change-checked.code.ts"
+-
+-afterAll(scratch.sweep)
+-
+-const CARRIED = "carried"
+-
+-const NOTHING = (): null => null
+-
+-const LOCAL = "akasha/one/local.module.code.ts"
+-
+-const BODY = `export function held(): number {
+-  const kept = 1
+-  return kept + 1
+-}
+-`
+-
+-function bodyOf(path: string): string | null {
+-  return path === LOCAL ? BODY : null
+-}
+-
+-function pathsOf(said: Answer): readonly string[] {
+-  return said.edits.map((one) => one.path).sort()
+-}
+-
+-function bodyIn(said: Answer, path: string): string {
+-  return said.edits.find((one) => one.path === path)?.body ?? ""
+-}
+-
+-test("a path that is no TypeScript body is refused", () => {
+-  const world = worldAt(scratch.rootFor("token-"), NOTHING)
+-  const said = renameCodeToken(world, { at: "a.md", of: "one", to: "two" })
+-  expect(said.refused).toBe("`a.md` names no TypeScript body")
+-})
+-
+-test("a body that could not be read is refused", () => {
+-  const world = worldAt(scratch.rootFor("token-"), NOTHING)
+-  const said = renameCodeToken(world, { at: LOCAL, of: "one", to: "two" })
+-  expect(said.refused).toBe("`akasha/one/local.module.code.ts` could not be read")
+-})
+-
+-test("an exported name is renamed through every importer", () => {
+-  const root = indexedRepo()
+-  const world = worldAt(root, textIn(root))
+-  const said = renameCodeToken(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
+-  expect(said.refused).toBe(null)
+-  expect(pathsOf(said)).toEqual([HELD_CODE, NAMER_CODE])
+-})
+-
+-test("a name no export carries is renamed over its own file", () => {
+-  const world = worldAt(scratch.rootFor("token-"), bodyOf)
+-  const said = renameCodeToken(world, { at: LOCAL, of: "kept", to: CARRIED })
+-  expect(said.refused).toBe(null)
+-  expect(bodyIn(said, LOCAL)).toBe(BODY.replaceAll("kept", CARRIED))
+-  expect(said.edits[0]?.was).toBe(BODY)
+-  expect(said.edits[0]?.from).toBe(undefined)
+-})
+-
+-test("a name the file declares nowhere is refused", () => {
+-  const world = worldAt(scratch.rootFor("token-"), bodyOf)
+-  const said = renameCodeToken(world, { at: LOCAL, of: "missing", to: CARRIED })
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe("`akasha/one/local.module.code.ts` declares no `missing`")
+-})
+diff --git a/changes/pages/rename-code-token/rename-code-token.change-checked.ts b/changes/pages/rename-code-token/rename-code-token.change-checked.ts
+deleted file mode 100644
+index 7f772b4e6620e7516b414679c91abf9b52cc5ce7..0000000000000000000000000000000000000000
+--- a/changes/pages/rename-code-token/rename-code-token.change-checked.ts
++++ /dev/null
+@@ -1,14 +0,0 @@
+-import type { ChangeChecked } from "../../checked/change-checked.page-type.ts"
+-
+-export const renameCodeToken = {
+-  id: "01a07718-c9b6-7d80-aebd-b1155f08ab77",
+-  pageTypeSlug: "change-checked",
+-  slug: "rename-code-token",
+-  definition: "a name a code file declares renamed wherever it reaches, exported or not",
+-  code: "ts",
+-  test: "ts",
+-  isCommand: true,
+-  runsChecks: true,
+-  readersOweReading: false,
+-  writerOwesReading: false,
+-} as const satisfies ChangeChecked
+diff --git a/changes/pages/rename-page/rename-page.change-checked.code.ts b/changes/pages/rename-page/rename-page.change-checked.code.ts
+deleted file mode 100644
+index 24dfdc938347658e225a5c274ae60f00eec1fd00..0000000000000000000000000000000000000000
+--- a/changes/pages/rename-page/rename-page.change-checked.code.ts
++++ /dev/null
+@@ -1,162 +0,0 @@
+-import { basename, dirname, join } from "node:path"
+-import { parsedAs } from "@akasha/code/code-source"
+-import { besideAt } from "@akasha/pages/page-file-name"
+-import { slugFor } from "@akasha/pages/page-property-key"
+-import { folderFor } from "../../../pages/service/page-composing/page-composing.module.code.ts"
+-import {
+-  answered,
+-  gathered,
+-  refusing,
+-} from "../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+-import { type World, worldOver } from "../../modules/change-shadow/change-shadow.module.code.ts"
+-import { renameSlug } from "../rename-page-slug/rename-page-slug.change-mechanical.code.ts"
+-import { renamePath } from "../rename-path/rename-path.change-mechanical.code.ts"
+-import { statedIn } from "../restate-value/restate-value.change-mechanical.code.ts"
+-
+-const TYPED = ".ts"
+-
+-const SLUG = "slug"
+-
+-const PAGE_TYPE_SLUG = "pageTypeSlug"
+-
+-const PAGE_TYPE = "page-type"
+-
+-const FILE_PROPERTY = "file-property"
+-
+-const PLURAL_SLUG = "pluralSlug"
+-
+-export type RenamePageAsked = {
+-  readonly at: string
+-  readonly to: string
+-  readonly plural?: string
+-}
+-
+-type Held = {
+-  readonly slug: string
+-  readonly pageTypeSlug: string
+-  readonly said: ReadonlyMap<string, string>
+-}
+-
+-type Read = { readonly held: Held } | { readonly refused: string }
+-
+-type Move = { readonly from: string; readonly to: string }
+-
+-function readIn(at: string, text: string): Read {
+-  const source = parsedAs(at, text)
+-  const said = statedIn(source)
+-  const slug = said.get(SLUG)
+-  const pageTypeSlug = said.get(PAGE_TYPE_SLUG)
+-  if (slug === undefined) return { refused: `\`${at}\` states no \`${SLUG}\`` }
+-  if (pageTypeSlug === undefined) return { refused: `\`${at}\` states no \`${PAGE_TYPE_SLUG}\`` }
+-  return {
+-    held: {
+-      slug: slug.text,
+-      pageTypeSlug: pageTypeSlug.text,
+-      said: new Map([...said].map(([key, one]) => [key, one.text])),
+-    },
+-  }
+-}
+-
+-type Beside = { readonly propertySlug: string; readonly ending: string }
+-
+-function besideIn(world: World, held: Held): readonly Beside[] {
+-  const found: Beside[] = []
+-  for (const [key, ending] of held.said) {
+-    const answer = world.index.schemaOf(slugFor(key))
+-    if ("refused" in answer) continue
+-    const one = answer.schema
+-    if (one.pageTypeSlug !== FILE_PROPERTY) continue
+-    const propertySlug = one.propertySlug
+-    if (propertySlug === null) continue
+-    found.push({ propertySlug, ending })
+-  }
+-  return found
+-}
+-
+-function movesOver(beside: readonly Beside[], at: string, to: string): readonly Move[] {
+-  const found: Move[] = []
+-  for (const one of beside) {
+-    const from = besideAt(at, one.propertySlug, one.ending)
+-    const next = besideAt(to, one.propertySlug, one.ending)
+-    if (from === null || next === null) continue
+-    found.push({ from, to: next })
+-  }
+-  return found.sort((one, two) => (one.from < two.from ? -1 : one.from > two.from ? 1 : 0))
+-}
+-
+-function pluralIn(world: World, held: Held): string {
+-  const at = world.index.listedAt(PAGE_TYPE, held.pageTypeSlug)[0]?.path
+-  if (at === undefined) return ""
+-  const text = world.textOf(at)
+-  if (text === null) return ""
+-  const read = readIn(at, text)
+-  return "refused" in read ? "" : (read.held.said.get(PLURAL_SLUG) ?? "")
+-}
+-
+-function ownsIn(world: World, held: Held, at: string, beside: readonly Beside[]): boolean {
+-  if (beside.length === 0) return false
+-  const opening = `${held.slug}.${held.pageTypeSlug}.`
+-  const files = world.index.filesIn(dirname(at))
+-  return files.length > 0 && files.every((one) => basename(one).startsWith(opening))
+-}
+-
+-function landingIn(
+-  world: World,
+-  held: Held,
+-  given: RenamePageAsked,
+-  beside: readonly Beside[]
+-): string {
+-  const name = `${given.to}.${held.pageTypeSlug}${TYPED}`
+-  const folder = dirname(given.at)
+-  if (!ownsIn(world, held, given.at, beside)) return join(folder, name)
+-  return join(dirname(folder), folderFor(pluralIn(world, held), held.pageTypeSlug, given.to), name)
+-}
+-
+-export function renamePage(world: World, given: RenamePageAsked): Answer {
+-  const text = world.textOf(given.at)
+-  if (text === null) return refusing(`\`${given.at}\` could not be read`)
+-  const read = readIn(given.at, text)
+-  if ("refused" in read) return refusing(read.refused)
+-  const held = read.held
+-  if (held.pageTypeSlug === PAGE_TYPE) {
+-    return refusing(`\`${given.at}\` names a page type, whose slug is renamed by another act`)
+-  }
+-  let lands: string
+-  let beside: readonly Beside[]
+-  try {
+-    beside = besideIn(world, held)
+-    lands = landingIn(world, held, given, beside)
+-  } catch (cause) {
+-    const why = cause instanceof Error ? cause.message : String(cause)
+-    return refusing(`${why}, so no file was carried`)
+-  }
+-  const answers: Answer[] = []
+-  let folded = answered([])
+-  let seen = world
+-  if (given.to === held.slug) {
+-    const carries = `\`${given.to}\` is the slug this page carries`
+-    if (given.plural !== undefined) return refusing(`${carries}, so no plural is restated`)
+-    if (lands === given.at) return refusing(`${carries}, in the folder that slug names`)
+-  } else {
+-    const said = renameSlug(seen, { at: given.at, to: given.to, plural: given.plural })
+-    if (said.refused !== null) return said
+-    answers.push(said)
+-    folded = gathered(answers)
+-    if (folded.refused !== null) return folded
+-    seen = worldOver(world, folded)
+-  }
+-  for (const one of [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]) {
+-    const carried = renamePath(seen, one)
+-    if (carried.refused !== null) return carried
+-    answers.push(carried)
+-    folded = gathered(answers)
+-    if (folded.refused !== null) return folded
+-    seen = worldOver(world, folded)
+-  }
+-  return folded
+-}
+-
+-export function runChange(world: World, given: RenamePageAsked): Answer {
+-  return renamePage(world, given)
+-}
+diff --git a/changes/pages/rename-page/rename-page.change-checked.test.ts b/changes/pages/rename-page/rename-page.change-checked.test.ts
+deleted file mode 100644
+index a88948de44c6534a2a5eefff92b594b5264d2dbe..0000000000000000000000000000000000000000
+--- a/changes/pages/rename-page/rename-page.change-checked.test.ts
++++ /dev/null
+@@ -1,240 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import {
+-  bodyOf,
+-  HELD_CODE,
+-  HELD_PAGE,
+-  HELD_SLUG,
+-  idOf,
+-  indexedRepo,
+-  NAMER_CODE,
+-  NAMER_PAGE,
+-  pageOf,
+-  scratch,
+-  textIn,
+-} from "@akasha/indexes/indexing/testing"
+-import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+-import { worldAt } from "../../modules/change-shadow/change-shadow.module.code.ts"
+-import { renamePage } from "./rename-page.change-checked.code.ts"
+-
+-afterAll(scratch.sweep)
+-
+-const CARRIED = "carried"
+-
+-const CARRIED_PAGE = "akasha/carried/carried.module.ts"
+-
+-const CARRIED_CODE = "akasha/carried/carried.module.code.ts"
+-
+-const OTHER_PAGE = "akasha/three/other-one.module.ts"
+-
+-const OTHER_SLUG = "other-one"
+-
+-const OTHER_CODE = "akasha/three/other-one.module.code.ts"
+-
+-const WIDE_PAGE = "akasha/four/wide.module.ts"
+-
+-const SEATED_SLUG = "seated"
+-
+-const SEATED_PAGE = "akasha/seated/seated.module.ts"
+-
+-const SEATED_CODE = "akasha/seated/seated.module.code.ts"
+-
+-const NOTHING = (): null => null
+-
+-const saying =
+-  (body: string) =>
+-  (path: string): string | null =>
+-    path === HELD_PAGE ? body : null
+-
+-const statedAs = (value: Record<string, unknown>, named: string): string =>
+-  bodyOf(value).replace("export const it", `export const ${named}`)
+-
+-function movesOf(said: Answer): readonly (readonly [string, string])[] {
+-  const found: (readonly [string, string])[] = []
+-  for (const one of said.edits) {
+-    if (one.from !== undefined) found.push([one.from, one.path])
+-  }
+-  return found
+-}
+-
+-function bodyIn(said: Answer, path: string): string | null | undefined {
+-  return said.edits.find((one) => one.path === path)?.body
+-}
+-
+-function holdsIn(said: Answer, path: string): boolean {
+-  return said.edits.some((one) => one.path === path)
+-}
+-
+-test("a body that could not be read is refused", () => {
+-  const said = renamePage(worldAt(scratch.rootFor("slug-"), NOTHING), {
+-    at: HELD_PAGE,
+-    to: CARRIED,
+-  })
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe("`akasha/one/held.module.ts` could not be read")
+-})
+-
+-test("a body stating no slug is refused", () => {
+-  const body = bodyOf({ id: idOf("8"), pageTypeSlug: "module" })
+-  const world = worldAt(scratch.rootFor("slug-"), saying(body))
+-  const said = renamePage(world, { at: HELD_PAGE, to: CARRIED })
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe("`akasha/one/held.module.ts` states no `slug`")
+-})
+-
+-test("a body stating no page type is refused", () => {
+-  const body = bodyOf({ id: idOf("8"), slug: HELD_SLUG })
+-  const world = worldAt(scratch.rootFor("slug-"), saying(body))
+-  const said = renamePage(world, { at: HELD_PAGE, to: CARRIED })
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe("`akasha/one/held.module.ts` states no `pageTypeSlug`")
+-})
+-
+-test("a page type is refused, its slug being renamed by another act", () => {
+-  const body = bodyOf({ id: idOf("8"), pageTypeSlug: "page-type", slug: HELD_SLUG })
+-  const world = worldAt(scratch.rootFor("slug-"), saying(body))
+-  const said = renamePage(world, { at: HELD_PAGE, to: CARRIED })
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(
+-    "`akasha/one/held.module.ts` names a page type, whose slug is renamed by another act"
+-  )
+-})
+-
+-test("a refusal from the slug rename is answered as this change's own", () => {
+-  const root = indexedRepo()
+-  const said = renamePage(worldAt(root, textIn(root)), { at: HELD_PAGE, to: "namer" })
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe("a `module` carries the slug `namer` already")
+-})
+-
+-test("a page whose slug is more than one word has its camel export renamed too", () => {
+-  const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
+-  const root = indexedRepo({
+-    [OTHER_PAGE]: statedAs(value, "otherOne"),
+-    [OTHER_CODE]: "export const kept = 2\n",
+-  })
+-  const said = renamePage(worldAt(root, textIn(root)), { at: OTHER_PAGE, to: CARRIED })
+-  expect(said.refused).toBe(null)
+-  expect(bodyIn(said, CARRIED_PAGE)).toContain(`export const ${CARRIED} =`)
+-  expect(bodyIn(said, CARRIED_PAGE)).not.toContain("export const otherOne")
+-})
+-
+-test("a page's slug is renamed in its data, and its files are carried with it", () => {
+-  const root = indexedRepo()
+-  const was = textIn(root)
+-  const page = was(HELD_PAGE) ?? ""
+-  const namer = was(NAMER_PAGE) ?? ""
+-  const namerCode = was(NAMER_CODE) ?? ""
+-  const heldCode = was(HELD_CODE) ?? ""
+-  const said = renamePage(worldAt(root, was), { at: HELD_PAGE, to: CARRIED })
+-  expect(said.refused).toBe(null)
+-  expect(movesOf(said)).toEqual([
+-    [HELD_PAGE, CARRIED_PAGE],
+-    [HELD_CODE, CARRIED_CODE],
+-  ])
+-  expect(bodyIn(said, CARRIED_PAGE)).toBe(
+-    page
+-      .replace(`"slug": "${HELD_SLUG}"`, `"slug": "${CARRIED}"`)
+-      .replace(`export const ${HELD_SLUG} =`, `export const ${CARRIED} =`)
+-  )
+-  expect(bodyIn(said, NAMER_PAGE)).toBe(
+-    namer
+-      .replace(`"note": "${HELD_SLUG}"`, `"note": "${CARRIED}"`)
+-      .replace(`"module/${HELD_SLUG}"`, `"module/${CARRIED}"`)
+-  )
+-  expect(bodyIn(said, CARRIED_CODE)).toBe(heldCode)
+-  expect(bodyIn(said, NAMER_CODE)).toBe(
+-    namerCode.replace(
+-      `../one/${HELD_SLUG}.module.code.ts`,
+-      `../${CARRIED}/${CARRIED}.module.code.ts`
+-    )
+-  )
+-  expect(holdsIn(said, HELD_PAGE)).toBe(false)
+-  expect(holdsIn(said, HELD_CODE)).toBe(false)
+-})
+-
+-test("a body a move carries states the body on disk before the change", () => {
+-  const root = indexedRepo()
+-  const was = textIn(root)
+-  const said = renamePage(worldAt(root, was), { at: HELD_PAGE, to: CARRIED })
+-  expect(said.refused).toBe(null)
+-  for (const one of said.edits) {
+-    expect(one.was).toBe(was(one.from ?? one.path))
+-  }
+-})
+-
+-test("a beside file whose key is more than one word is carried too", () => {
+-  const root = indexedRepo({
+-    "akasha/test-fixtures.file-property.ts": bodyOf({
+-      id: idOf("d"),
+-      pageTypeSlug: "file-property",
+-      slug: "test-fixtures",
+-      propertySlug: "test-fixtures",
+-    }),
+-    [WIDE_PAGE]: pageOf({
+-      id: idOf("f"),
+-      pageTypeSlug: "module",
+-      slug: "wide",
+-      code: "ts",
+-      testFixtures: "ts",
+-    }),
+-    "akasha/four/wide.module.code.ts": "export const kept = 3\n",
+-    "akasha/four/wide.module.test-fixtures.ts": "export const set = 4\n",
+-  })
+-  const said = renamePage(worldAt(root, textIn(root)), { at: WIDE_PAGE, to: CARRIED })
+-  expect(said.refused).toBe(null)
+-  expect(movesOf(said)).toEqual([
+-    [WIDE_PAGE, CARRIED_PAGE],
+-    ["akasha/four/wide.module.code.ts", CARRIED_CODE],
+-    ["akasha/four/wide.module.test-fixtures.ts", "akasha/carried/carried.module.test-fixtures.ts"],
+-  ])
+-})
+-
+-test("a page sharing its folder is renamed in the folder that page sits in", () => {
+-  const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
+-  const root = indexedRepo({
+-    [OTHER_PAGE]: statedAs(value, "otherOne"),
+-    [OTHER_CODE]: "export const kept = 2\n",
+-    "akasha/three/second.module.ts": pageOf({
+-      id: idOf("e"),
+-      pageTypeSlug: "module",
+-      slug: "second",
+-    }),
+-  })
+-  const said = renamePage(worldAt(root, textIn(root)), { at: OTHER_PAGE, to: CARRIED })
+-  expect(said.refused).toBe(null)
+-  expect(movesOf(said)).toEqual([
+-    [OTHER_PAGE, "akasha/three/carried.module.ts"],
+-    [OTHER_CODE, "akasha/three/carried.module.code.ts"],
+-  ])
+-})
+-
+-test("a page carrying the slug asked for is carried into the folder that slug names", () => {
+-  const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
+-  const root = indexedRepo({
+-    [OTHER_PAGE]: statedAs(value, "otherOne"),
+-    [OTHER_CODE]: "export const kept = 2\n",
+-  })
+-  const said = renamePage(worldAt(root, textIn(root)), { at: OTHER_PAGE, to: OTHER_SLUG })
+-  expect(said.refused).toBe(null)
+-  expect(movesOf(said)).toEqual([
+-    [OTHER_PAGE, `akasha/${OTHER_SLUG}/${OTHER_SLUG}.module.ts`],
+-    [OTHER_CODE, `akasha/${OTHER_SLUG}/${OTHER_SLUG}.module.code.ts`],
+-  ])
+-})
+-
+-test("a page carrying the slug asked for, in the folder that slug names, is refused", () => {
+-  const root = indexedRepo({
+-    [SEATED_PAGE]: pageOf({
+-      id: idOf("e"),
+-      pageTypeSlug: "module",
+-      slug: SEATED_SLUG,
+-      code: "ts",
+-    }),
+-    [SEATED_CODE]: "export const kept = 5\n",
+-  })
+-  const said = renamePage(worldAt(root, textIn(root)), { at: SEATED_PAGE, to: SEATED_SLUG })
+-  expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(
+-    `\`${SEATED_SLUG}\` is the slug this page carries, in the folder that slug names`
+-  )
+-})
+diff --git a/changes/pages/rename-page/rename-page.change-checked.ts b/changes/pages/rename-page/rename-page.change-checked.ts
+deleted file mode 100644
+index 005898c8eb83ac8ac583034ef2d0a32e566075e3..0000000000000000000000000000000000000000
+--- a/changes/pages/rename-page/rename-page.change-checked.ts
++++ /dev/null
+@@ -1,14 +0,0 @@
+-import type { ChangeChecked } from "../../checked/change-checked.page-type.ts"
+-
+-export const renamePage = {
+-  id: "01a07718-c9b6-7e8c-bc13-5927529ac249",
+-  pageTypeSlug: "change-checked",
+-  slug: "rename-page",
+-  definition: "a page renamed and carried to where its slug says, in the data and in every name",
+-  code: "ts",
+-  test: "ts",
+-  isCommand: true,
+-  runsChecks: true,
+-  readersOweReading: false,
+-  writerOwesReading: false,
+-} as const satisfies ChangeChecked
+diff --git a/command-system/commands/refactor/page-renaming/page-renaming.module.code.ts b/command-system/commands/refactor/page-renaming/page-renaming.module.code.ts
+index 69770cb78953a08c77cb339d526d0947c3681170..32f8d539aedba6cf5ba043708be542f4c1061546 100644
+--- a/command-system/commands/refactor/page-renaming/page-renaming.module.code.ts
++++ b/command-system/commands/refactor/page-renaming/page-renaming.module.code.ts
+@@ -1,7 +1,7 @@
+ import { listedAt } from "@akasha/indexes"
++import { renamePage } from "../../../../changes/checked/pages/rename-page/rename-page.change-checked.code.ts"
+ import type { Edit } from "../../../../changes/modules/change-answer/change-answer.module.types.ts"
+ import { worldAt } from "../../../../changes/modules/change-shadow/change-shadow.module.code.ts"
+-import { renamePage } from "../../../../changes/pages/rename-page/rename-page.change-checked.code.ts"
+ import { counted } from "../../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../../calling/calling.module.code.ts"
+ import { answering } from "../../../calling/calling.module.code.ts"
