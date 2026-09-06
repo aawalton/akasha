@@ -38,3 +38,24 @@ index d95b74ae0fd956d84b64fabca32d53b463b04308..309b1ff3a93ccc9f644e9c6f4b26d0e4
    ]
    if (said.swept.length > 0) {
      report.push(`took away ${counted(said.swept.length, "path")} belonging to no index`)
+diff --git a/command-system/commands/index/index.command.test.ts b/command-system/commands/index/index.command.test.ts
+index 9c2b540fd5fcdf31da91378cb3c04eaac1c80dc6..17e03920a5326c901b29c3552daf4bdf523a47b5 100644
+--- a/command-system/commands/index/index.command.test.ts
++++ b/command-system/commands/index/index.command.test.ts
+@@ -244,6 +244,16 @@ test("a bad act is the caller's trouble", () => {
+   expect(index(["verify"], givenAt(root)).code).toBe(INPUT)
+ })
+ 
++test("the files the index differed in are named rather than only counted", () => {
++  const root = repoAt()
++  seeded(root)
++  listedUnreadableFiled(root, "domain", "gone")
++  const answer = index(["refresh", "--dry-run"], givenAt(root))
++  expect(answer.code).toBe(OK)
++  expect(said(answer)).toContain("taken away — ")
++  expect(said(answer)).toContain(".jsonl")
++})
++
+ test("every act and flag the surface shows is one this takes", () => {
+   for (const one of indexCommand.taking) {
+     const said = readIn([one.said.split(" ")[0] ?? ""])
