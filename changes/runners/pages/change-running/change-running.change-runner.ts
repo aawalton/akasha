@@ -6,6 +6,7 @@ export const changeRunning = {
   slug: "change-running",
   definition: "the runner loading a change from its address and running the guards it names",
   code: "ts",
+  test: "ts",
   addressed: "ts",
   invariants: [
     {
