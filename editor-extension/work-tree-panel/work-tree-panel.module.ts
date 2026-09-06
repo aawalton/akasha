@@ -50,10 +50,6 @@ export const workTreePanel = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here raises a color through the rows.",
-    },
-    {
-      invariantKind: "absence",
       statement: "Nothing here decides a row's appearance.",
     },
   ],
