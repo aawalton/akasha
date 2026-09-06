@@ -1,8 +1,8 @@
 diff --git a/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts b/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts
-index 4ffba304db5e59d5af6946af0b751bb5a40091b5..d8d514037ddf1f18f8a3cab728fa0a35af98a77e 100644
+index 4ffba304db5e59d5af6946af0b751bb5a40091b5..cf97b9b33e559731dad415b216b79d08e20e1f17 100644
 --- a/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts
 +++ b/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts
-@@ -14,12 +14,19 @@ export const supervisorInteractive = {
+@@ -14,17 +14,24 @@ export const supervisorInteractive = {
      },
      {
        invariantKind: "departure",
@@ -22,6 +22,12 @@ index 4ffba304db5e59d5af6946af0b751bb5a40091b5..d8d514037ddf1f18f8a3cab728fa0a35
 +    {
 +      invariantKind: "departure",
 +      statement: "The loop runs exactly the count exit-after-iterations states.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "The agent id, session id, resume and prompt are loop variables rewritten each pass.",
++        "The agent id and session id and resume and prompt are loop variables rewritten each round.",
      },
      {
        invariantKind: "departure",
