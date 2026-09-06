@@ -1,0 +1,238 @@
+diff --git a/person-system/people/email/email-action/archive/email-action-archive.domain.ts b/person-system/people/email/email-action/archive/email-action-archive.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..22f616e0b71548a034bc38662f303d33746592d0
+--- /dev/null
++++ b/person-system/people/email/email-action/archive/email-action-archive.domain.ts
+@@ -0,0 +1,14 @@
++import type { Domain } from "../../../../../domains/domain.page-type.ts"
++
++export const emailActionArchive = {
++  id: "01a0675b-16e2-769a-9b2a-c1b1edede150",
++  pageTypeSlug: "domain",
++  slug: "email-action-archive",
++  definition: "taking mail out of a person's inbox",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Mail is archived and never deleted.",
++    },
++  ],
++} as const satisfies Domain
+diff --git a/person-system/people/email/email-action/email-action-archive.domain.ts b/person-system/people/email/email-action/email-action-archive.domain.ts
+deleted file mode 100644
+index b23d668c4e10cae27ff3425741b7b3d0428cf8d5..0000000000000000000000000000000000000000
+--- a/person-system/people/email/email-action/email-action-archive.domain.ts
++++ /dev/null
+@@ -1,14 +0,0 @@
+-import type { Domain } from "../../../../domains/domain.page-type.ts"
+-
+-export const emailActionArchive = {
+-  id: "01a0675b-16e2-769a-9b2a-c1b1edede150",
+-  pageTypeSlug: "domain",
+-  slug: "email-action-archive",
+-  definition: "taking mail out of a person's inbox",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Mail is archived and never deleted.",
+-    },
+-  ],
+-} as const satisfies Domain
+diff --git a/person-system/people/email/email-action/email-action-forward.domain.ts b/person-system/people/email/email-action/email-action-forward.domain.ts
+deleted file mode 100644
+index 45c3802c28f2551995f0d4704d0a359e472b4833..0000000000000000000000000000000000000000
+--- a/person-system/people/email/email-action/email-action-forward.domain.ts
++++ /dev/null
+@@ -1,8 +0,0 @@
+-import type { Domain } from "../../../../domains/domain.page-type.ts"
+-
+-export const emailActionForward = {
+-  id: "01a0675b-16e3-7354-b8d1-c5d553d18cc6",
+-  pageTypeSlug: "domain",
+-  slug: "email-action-forward",
+-  definition: "sending a copy of a person's mail to someone else",
+-} as const satisfies Domain
+diff --git a/person-system/people/email/email-action/email-action-notify.domain.ts b/person-system/people/email/email-action/email-action-notify.domain.ts
+deleted file mode 100644
+index 1bc75fb95d3e77a32e6e7eb4817f18f78ba629c0..0000000000000000000000000000000000000000
+--- a/person-system/people/email/email-action/email-action-notify.domain.ts
++++ /dev/null
+@@ -1,8 +0,0 @@
+-import type { Domain } from "../../../../domains/domain.page-type.ts"
+-
+-export const emailActionNotify = {
+-  id: "01a0675b-16e4-79c5-b78b-e333b399492e",
+-  pageTypeSlug: "domain",
+-  slug: "email-action-notify",
+-  definition: "telling a person about a piece of their mail",
+-} as const satisfies Domain
+diff --git a/person-system/people/email/email-action/email-action-skip.domain.ts b/person-system/people/email/email-action/email-action-skip.domain.ts
+deleted file mode 100644
+index 10829c995b7fbbb4ae4effd72d505198e644ac81..0000000000000000000000000000000000000000
+--- a/person-system/people/email/email-action/email-action-skip.domain.ts
++++ /dev/null
+@@ -1,8 +0,0 @@
+-import type { Domain } from "../../../../domains/domain.page-type.ts"
+-
+-export const emailActionSkip = {
+-  id: "01a0675b-16e5-72ee-95ac-98cc467b6b00",
+-  pageTypeSlug: "domain",
+-  slug: "email-action-skip",
+-  definition: "doing nothing to a piece of mail",
+-} as const satisfies Domain
+diff --git a/person-system/people/email/email-action/email-action-unsubscribe.domain.ts b/person-system/people/email/email-action/email-action-unsubscribe.domain.ts
+deleted file mode 100644
+index 6a56dfc28aa3ae75987040f9ae38a98b4e15e55c..0000000000000000000000000000000000000000
+--- a/person-system/people/email/email-action/email-action-unsubscribe.domain.ts
++++ /dev/null
+@@ -1,8 +0,0 @@
+-import type { Domain } from "../../../../domains/domain.page-type.ts"
+-
+-export const emailActionUnsubscribe = {
+-  id: "01a0675b-16e6-7f0b-8d21-99bb1fc872bc",
+-  pageTypeSlug: "domain",
+-  slug: "email-action-unsubscribe",
+-  definition: "telling a sender to stop sending",
+-} as const satisfies Domain
+diff --git a/person-system/people/email/email-action/forward/email-action-forward.domain.ts b/person-system/people/email/email-action/forward/email-action-forward.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1474598cb671145554c9aafb2822bf9cf8b47500
+--- /dev/null
++++ b/person-system/people/email/email-action/forward/email-action-forward.domain.ts
+@@ -0,0 +1,8 @@
++import type { Domain } from "../../../../../domains/domain.page-type.ts"
++
++export const emailActionForward = {
++  id: "01a0675b-16e3-7354-b8d1-c5d553d18cc6",
++  pageTypeSlug: "domain",
++  slug: "email-action-forward",
++  definition: "sending a copy of a person's mail to someone else",
++} as const satisfies Domain
+diff --git a/person-system/people/email/email-action/notify/email-action-notify.domain.ts b/person-system/people/email/email-action/notify/email-action-notify.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..11a0ad5d2000fb7d163030d0742e101cadb5252f
+--- /dev/null
++++ b/person-system/people/email/email-action/notify/email-action-notify.domain.ts
+@@ -0,0 +1,8 @@
++import type { Domain } from "../../../../../domains/domain.page-type.ts"
++
++export const emailActionNotify = {
++  id: "01a0675b-16e4-79c5-b78b-e333b399492e",
++  pageTypeSlug: "domain",
++  slug: "email-action-notify",
++  definition: "telling a person about a piece of their mail",
++} as const satisfies Domain
+diff --git a/person-system/people/email/email-action/skip/email-action-skip.domain.ts b/person-system/people/email/email-action/skip/email-action-skip.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9b1d3fac1d78b84c13b22b3b23cca30a24dd5135
+--- /dev/null
++++ b/person-system/people/email/email-action/skip/email-action-skip.domain.ts
+@@ -0,0 +1,8 @@
++import type { Domain } from "../../../../../domains/domain.page-type.ts"
++
++export const emailActionSkip = {
++  id: "01a0675b-16e5-72ee-95ac-98cc467b6b00",
++  pageTypeSlug: "domain",
++  slug: "email-action-skip",
++  definition: "doing nothing to a piece of mail",
++} as const satisfies Domain
+diff --git a/person-system/people/email/email-action/unsubscribe/email-action-unsubscribe.domain.ts b/person-system/people/email/email-action/unsubscribe/email-action-unsubscribe.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..064ced465930314a03c91df780f2ded81680063a
+--- /dev/null
++++ b/person-system/people/email/email-action/unsubscribe/email-action-unsubscribe.domain.ts
+@@ -0,0 +1,8 @@
++import type { Domain } from "../../../../../domains/domain.page-type.ts"
++
++export const emailActionUnsubscribe = {
++  id: "01a0675b-16e6-7f0b-8d21-99bb1fc872bc",
++  pageTypeSlug: "domain",
++  slug: "email-action-unsubscribe",
++  definition: "telling a sender to stop sending",
++} as const satisfies Domain
+diff --git a/person-system/people/email/email-rule-delay.domain.ts b/person-system/people/email/email-rule-delay.domain.ts
+deleted file mode 100644
+index 1d9b8e3cf2135db83eb6900b95e037650e69c3f6..0000000000000000000000000000000000000000
+--- a/person-system/people/email/email-rule-delay.domain.ts
++++ /dev/null
+@@ -1,23 +0,0 @@
+-import type { Domain } from "../../../domains/domain.page-type.ts"
+-
+-export const emailRuleDelay = {
+-  id: "01a0675b-16e7-7b45-9ae7-d696d37fe279",
+-  pageTypeSlug: "domain",
+-  slug: "email-rule-delay",
+-  definition: "how long after a piece of mail arrives before an email rule acts on it",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A delay is measured from when the mail arrived rather than from when the rule was consulted.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The delay postpones the acting rather than the matching.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A delay is on the rule rather than on an action.",
+-    },
+-  ],
+-} as const satisfies Domain
+diff --git a/person-system/people/email/email-rule-match/condition/email-rule-match-condition.domain.ts b/person-system/people/email/email-rule-match/condition/email-rule-match-condition.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a780459ab550239cad9374158b0ef51ce54d06f7
+--- /dev/null
++++ b/person-system/people/email/email-rule-match/condition/email-rule-match-condition.domain.ts
+@@ -0,0 +1,8 @@
++import type { Domain } from "../../../../../domains/domain.page-type.ts"
++
++export const emailRuleMatchCondition = {
++  id: "01a0675b-16e9-7d65-9584-38ea7dd137ee",
++  pageTypeSlug: "domain",
++  slug: "email-rule-match-condition",
++  definition: "one thing about a piece of mail that a match requires",
++} as const satisfies Domain
+diff --git a/person-system/people/email/email-rule-match/email-rule-match-condition.domain.ts b/person-system/people/email/email-rule-match/email-rule-match-condition.domain.ts
+deleted file mode 100644
+index 09d87a945f8fd066ef354afc39969dcb66c6cc61..0000000000000000000000000000000000000000
+--- a/person-system/people/email/email-rule-match/email-rule-match-condition.domain.ts
++++ /dev/null
+@@ -1,8 +0,0 @@
+-import type { Domain } from "../../../../domains/domain.page-type.ts"
+-
+-export const emailRuleMatchCondition = {
+-  id: "01a0675b-16e9-7d65-9584-38ea7dd137ee",
+-  pageTypeSlug: "domain",
+-  slug: "email-rule-match-condition",
+-  definition: "one thing about a piece of mail that a match requires",
+-} as const satisfies Domain
+diff --git a/person-system/people/email/rule-delay/email-rule-delay.domain.ts b/person-system/people/email/rule-delay/email-rule-delay.domain.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..42ccb05bbc88aef0e8359f0c92cb923e9ee72872
+--- /dev/null
++++ b/person-system/people/email/rule-delay/email-rule-delay.domain.ts
+@@ -0,0 +1,23 @@
++import type { Domain } from "../../../../domains/domain.page-type.ts"
++
++export const emailRuleDelay = {
++  id: "01a0675b-16e7-7b45-9ae7-d696d37fe279",
++  pageTypeSlug: "domain",
++  slug: "email-rule-delay",
++  definition: "how long after a piece of mail arrives before an email rule acts on it",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A delay is measured from when the mail arrived rather than from when the rule was consulted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The delay postpones the acting rather than the matching.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A delay is on the rule rather than on an action.",
++    },
++  ],
++} as const satisfies Domain
