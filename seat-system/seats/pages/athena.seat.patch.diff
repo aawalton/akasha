@@ -1,5 +1,5 @@
 diff --git a/pages/indexes/entries/index-entries.module.test-fixtures.ts b/pages/indexes/entries/index-entries.module.test-fixtures.ts
-index 98b22117d796a29e267053cf125b0e4845f47f92..da11b801b9deeaeca5bfaf700707a0d9378a35ce 100644
+index 98b22117d796a29e267053cf125b0e4845f47f92..29ee3334bef21e906ad9513634e2ff48a1b0412d 100644
 --- a/pages/indexes/entries/index-entries.module.test-fixtures.ts
 +++ b/pages/indexes/entries/index-entries.module.test-fixtures.ts
 @@ -109,6 +109,7 @@ const TARGETS: Readonly<Record<string, string | readonly string[]>> = {
@@ -23,8 +23,16 @@ index 98b22117d796a29e267053cf125b0e4845f47f92..da11b801b9deeaeca5bfaf700707a0d9
    parts: "parts",
    heldSlugs: "held-slugs",
    holds: "holds",
+@@ -129,6 +133,7 @@ export function shaped(pages: Readonly<Record<string, string>>): Shaped {
+   return {
+     targetOf: (propertySlug) => TARGETS[propertySlug] ?? null,
+     admitting: (target) => ADMITTING[target] ?? [],
++    mortal: (pageTypeSlug) => MORTAL.has(pageTypeSlug),
+     at: (pageTypeSlug, slug) => {
+       const id = pages[`${pageTypeSlug}/${slug}`]
+       return id === undefined ? [] : [{ path: `${slug}.${pageTypeSlug}.ts`, id }]
 diff --git a/pages/indexes/reaching/reaching.module.code.ts b/pages/indexes/reaching/reaching.module.code.ts
-index 8f715ec47d1e9d63d561ff33b40a7a1193ef240a..cbff92a635a40e431f287ad2e5ae7a699e0b0f79 100644
+index 8f715ec47d1e9d63d561ff33b40a7a1193ef240a..3a196136311fa3da1056b2c622abac62eb87a50a 100644
 --- a/pages/indexes/reaching/reaching.module.code.ts
 +++ b/pages/indexes/reaching/reaching.module.code.ts
 @@ -21,6 +21,8 @@ const DECLARED = "properties"
@@ -36,8 +44,16 @@ index 8f715ec47d1e9d63d561ff33b40a7a1193ef240a..cbff92a635a40e431f287ad2e5ae7a69
  const NOT_A_RELATION = new Set(["id", "slug", "pageTypeSlug"])
  
  export type Wanted = string | readonly string[] | null
+@@ -28,6 +30,7 @@ export type Wanted = string | readonly string[] | null
+ export type Known = {
+   readonly targetOf: (propertySlug: string) => Wanted
+   readonly admitting: (target: string) => readonly string[]
++  readonly mortal: (pageTypeSlug: string) => boolean
+   readonly at: (pageTypeSlug: string, slug: string) => readonly Listed[]
+   readonly byId: (id: string) => Listed | null
+ }
 diff --git a/pages/indexes/reaching/reaching.module.test.ts b/pages/indexes/reaching/reaching.module.test.ts
-index ab369e0d793b347ced77622062532f1a815028b8..4bff35b9a4e1a588af9fcfe1e51fdb7366cead11 100644
+index ab369e0d793b347ced77622062532f1a815028b8..a97a64f1a0f784bc899dedf6bf3ac3534b4a52ba 100644
 --- a/pages/indexes/reaching/reaching.module.test.ts
 +++ b/pages/indexes/reaching/reaching.module.test.ts
 @@ -11,7 +11,7 @@ import {
@@ -48,6 +64,28 @@ index ab369e0d793b347ced77622062532f1a815028b8..4bff35b9a4e1a588af9fcfe1e51fdb73
 +import { knownIn, namesMortal, reaches, type Shaped } from "./reaching.module.code.ts"
  
  afterAll(scratch.sweep)
+ 
+@@ -168,6 +168,21 @@ test("a record property answers the fields it declares, and another property ans
+   expect(known.fieldsOf("part-slugs")).toEqual([])
+ })
+ 
++test("a name states its own page type's mortality, over whatever its property targets", () => {
++  const known = shaped({})
++
++  expect(namesMortal("note/gone", "domain", known)).toBe(true)
++  expect(namesMortal("domain/gone", "note", known)).toBe(false)
++})
++
++test("a name stating no page type is mortal only where every target its property declares is", () => {
++  const known = shaped({})
++
++  expect(namesMortal("gone", "note", known)).toBe(true)
++  expect(namesMortal("gone", ["domain", "note"], known)).toBe(false)
++  expect(namesMortal("gone", null, known)).toBe(false)
++})
++
+ test("an address naming a parent is refused rather than read as the slug it ends with", () => {
+   const reached = reaches("domain/whatever/b", "domain", shaped({ "domain/b": B }))
  
 diff --git a/pages/indexes/reaching/reaching.module.ts b/pages/indexes/reaching/reaching.module.ts
 index c3cb311af272a39276ac808f4ba32236485e5290..a021d240ba4c7104e6ad322fd9100e92bb9108e2 100644
@@ -73,7 +111,7 @@ index c3cb311af272a39276ac808f4ba32236485e5290..a021d240ba4c7104e6ad322fd9100e92
        invariantKind: "departure",
        statement: "Which property each key of a page carries is read here.",
 diff --git a/pages/indexes/relation/index-relation.index.code.ts b/pages/indexes/relation/index-relation.index.code.ts
-index fad1b430fd576958238871248688d5260ea186e3..37143e4909c372792b63908d29a86b978a106204 100644
+index fad1b430fd576958238871248688d5260ea186e3..8c38ec31dc4364af3f493a289542e52c741e7fa5 100644
 --- a/pages/indexes/relation/index-relation.index.code.ts
 +++ b/pages/indexes/relation/index-relation.index.code.ts
 @@ -1,7 +1,13 @@
@@ -92,6 +130,15 @@ index fad1b430fd576958238871248688d5260ea186e3..37143e4909c372792b63908d29a86b97
  import { indexRelation } from "./index-relation.index.ts"
  
  const RELATION = indexRelation.name
+@@ -18,6 +24,8 @@ export const NOTHING_FILED: Filed = { entries: [], refused: [] }
+ export function relationIn(value: Value, path: string, known: Shaped, repo: string): Filed {
+   const id = textAt(value, "id")
+   if (id === null) return NOTHING_FILED
++  const own = textAt(value, "pageTypeSlug")
++  const dies = own !== null && known.mortal(slugOf(own))
+   const line = JSON.stringify({ path: under(repo, path) })
+   const entries: Entry[] = []
+   const refused: string[] = []
 diff --git a/pages/indexes/relation/index-relation.index.test.ts b/pages/indexes/relation/index-relation.index.test.ts
 index 84117f6cb1d995a23537bbf4f4aecb5d23286fe2..917eb4b65f11a60d103851cb01f89990d446efff 100644
 --- a/pages/indexes/relation/index-relation.index.test.ts
