@@ -204,6 +204,45 @@ index d40ebcfda40c54740b3a527ebf180a7b925cc214..c58bd0fbc30bda2a17da248ae4fc90fb
      if (typeof value !== "string") return mistaken([value.refused])
      const next = new Map(secretsIn(given.root, aimed.target.path) ?? [])
      next.set(key, value)
+diff --git a/pages/commands/page-secret-set/page-secret-set.command.ts b/pages/commands/page-secret-set/page-secret-set.command.ts
+index 4d43da72f674497e739ca6308c860ca6a3cd12a6..82119db3b6c3f07508e6c59fa5821d42d4a2265b 100644
+--- a/pages/commands/page-secret-set/page-secret-set.command.ts
++++ b/pages/commands/page-secret-set/page-secret-set.command.ts
+@@ -13,6 +13,10 @@ export const pageSecretSet = {
+       takes: "the page, read against the root, rather than its sops file",
+     },
+     { said: "--key <name>", takes: "the one secret this sets" },
++    {
++      said: "--keep-last-newline",
++      takes: "the trailing newline, for a value that is a whole file ending in one",
++    },
+     {
+       said: "--message <msg>",
+       takes: "what the commit is for, where the one naming the sops file will not do",
+@@ -21,7 +25,8 @@ export const pageSecretSet = {
+   helpNotes: [
+     "the value is enciphered before it reaches disk and is never written anywhere in the clear.",
+     "the value is piped in rather than said as an argument, since an argument stands in the process table and in whatever recorded the call.",
+-    "one trailing newline is dropped, since that is what a shell adds, and a value holding a newline of its own is refused.",
++    "one trailing newline is dropped, since that is what a shell adds, and `--keep-last-newline` keeps it instead.",
++    "a value holding newlines of its own is taken whole, so a certificate or a config file is set as it is.",
+     "which keys a page may hold is its page type's call, and a key it does not declare secret is refused naming the ones it does.",
+     "what a set replaces stands in the commit before it.",
+   ],
+@@ -32,11 +37,11 @@ export const pageSecretSet = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One trailing newline is dropped.",
++      statement: "One trailing newline is dropped unless the call says to keep it.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A value holding a newline of its own is refused.",
++      statement: "A value holding newlines of its own is taken whole.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/secret/page-secret.module.code.ts b/pages/secret/page-secret.module.code.ts
 index 492db9eb9807aa1f1eb2ebc1080571be48963968..60e9128049a8808c8623828e95ffebdb005b9862 100644
 --- a/pages/secret/page-secret.module.code.ts
