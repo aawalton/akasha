@@ -60,12 +60,12 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Every mechanical change is a change page a refactor command runs.",
       workingMemory:
-        "Three tiers, told apart by who finds the reach. Partial: `repoint-imports`, `respell-export`, `restate-value`, each handed the files it works over. Atomic: `rename-local-variable`, `rename-export`, `rename-property-signature`, `rename-path`, `rename-slug`. Refactor: `rename-code-token`, `rename-page`. Only `repoint-imports` is run by a command, by accident of a move. The folder `rename-page-slug` keeps its old name until a change page can move a folder.",
+        "Three tiers, told apart by who finds the reach. Partial: `repoint-imports`, `respell-export`, `restate-value`, each handed the files it works over. Atomic: `rename-local-variable`, `rename-export`, `rename-property-signature`, `rename-path`, `rename-page-slug`. Refactor: `rename-code-token`, `rename-page`. `akasha refactor rename page-slug` runs `rename-page` through `page-renaming` and takes no dry run. Left: `rename-page-type-slug` and `rename-page-type`, and `passedOn` in `slug-renaming` is dead but for its own test.",
     },
     {
       statement: "The change page types are named change-atomic and change-refactor.",
       workingMemory:
-        "`atomic-change` becomes `change-atomic` under `changes/atomic`, and `refactor-change` becomes `change-refactor` under `changes/refactor`. Held until the refactor command is built here: these renames are landed by that command rather than by `akasha refactor rename page-slug`, which is the command it replaces. `change-partial` was born under this naming at `changes/partial`, so the two older types alone wait.",
+        "`atomic-change` becomes `change-atomic` under `changes/atomic`, and `refactor-change` becomes `change-refactor` under `changes/refactor`. The refactor command now runs the change page, so what these two wait on is no longer the command but `rename-page-type`, a page type's slug being renamed by another act. `change-partial` was born under this naming at `changes/partial`, so the two older types alone wait.",
     },
   ],
   constraints: [

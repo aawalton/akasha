@@ -100,5 +100,13 @@ export const renamePage = {
       invariantKind: "departure",
       statement: "The bodies and the paths that moved are answered rather than written.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A file holding uncommitted values is left where that file sits.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A numbered part of a property's file is left where that part sits.",
+    },
   ],
 } as const satisfies RefactorChange

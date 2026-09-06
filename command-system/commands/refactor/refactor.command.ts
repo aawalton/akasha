@@ -150,6 +150,10 @@ export const refactor = {
       statement: "A file holding uncommitted values is carried rather than rewritten.",
     },
     {
+      invariantKind: "gap",
+      statement: "A page slug rename carries no uncommitted file and no numbered part.",
+    },
+    {
       invariantKind: "departure",
       statement: "A reading of a file a rename carries is carried with that file.",
     },
