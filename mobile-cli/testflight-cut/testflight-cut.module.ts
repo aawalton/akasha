@@ -30,7 +30,7 @@ export const testflightCut = {
     },
     {
       invariantKind: "departure",
-      statement: "The ref is pinned to one commit per repository before anything is built.",
+      statement: "The ref is pinned to a single commit per repository before anything is built.",
     },
     {
       invariantKind: "departure",
