@@ -1,0 +1,689 @@
+diff --git a/command-system/commands/apply/apply.command.code.ts b/command-system/commands/apply/apply.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..972b53c823e43336608e11a150f64098d737cc47
+--- /dev/null
++++ b/command-system/commands/apply/apply.command.code.ts
+@@ -0,0 +1,79 @@
++import { agentPathOf } from "@akasha/context/warranting"
++import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
++import {
++  editsAt,
++  foldedIn,
++  keptEdits,
++} from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
++import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
++import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import { type Draft, drafted, type Running } from "../../drafting/drafting.module.code.ts"
++import { applying } from "../patch/patch.command.code.ts"
++import { MESSAGE, MESSAGE_FILE, unknownIn } from "../write/write.command.code.ts"
++
++const BYTES = new TextEncoder()
++
++const APPLYING = [MESSAGE, MESSAGE_FILE, BREAK_GLASS]
++
++const BARE: readonly string[] = []
++
++const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
++
++const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: false }
++
++export type Folded =
++  | { readonly folded: readonly string[] }
++  | { readonly refusals: readonly string[] }
++
++function bytesOf(body: string | null): Uint8Array | null {
++  return body === null ? null : BYTES.encode(body)
++}
++
++export function draftsOf(edits: readonly Edit[]): readonly Draft[] {
++  const held: Draft[] = []
++  for (const one of edits) {
++    const came = one.from
++    if (came !== undefined && came !== one.path) {
++      held.push({ path: came, was: bytesOf(one.was), body: null })
++      held.push({ path: one.path, was: null, body: bytesOf(one.body) })
++      continue
++    }
++    held.push({ path: one.path, was: bytesOf(one.was), body: bytesOf(one.body) })
++  }
++  return held
++}
++
++export function folding(root: string, page: string): Folded {
++  let answer: Folded = { folded: [] }
++  const kept = keptEdits(root, page, (had) => {
++    if (had.length === 0) return had
++    const said = foldedIn(had)
++    if (said.refused !== null) {
++      answer = { refusals: [said.refused] }
++      return had
++    }
++    const took = drafted(root, page, draftsOf(said.edits), CHANGED)
++    if ("why" in took) {
++      answer = { refusals: [took.why] }
++      return had
++    }
++    answer = { folded: said.edits.map((one) => one.path).sort() }
++    return null
++  })
++  return "why" in kept ? { refusals: [kept.why] } : answer
++}
++
++export async function apply(argv: readonly string[], given: Given): Promise<Answer> {
++  const unknown = unknownIn(argv, APPLYING, BARE)
++  if (unknown.length > 0) return mistaking(unknown)
++  const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
++  if (page === null || editsAt(page) === null) return mistaking([NO_PAGE])
++  const said = folding(given.root, page)
++  if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
++  const answered = await applying(given, page, argv)
++  return {
++    report: [...said.folded.map((one) => `folded ${one} into the patch`), ...answered.report],
++    refusals: answered.refusals,
++    code: answered.code,
++  }
++}
+diff --git a/command-system/commands/apply/apply.command.test.ts b/command-system/commands/apply/apply.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..935a06cec5ba594347aa26beabd68a80151189f8
+--- /dev/null
++++ b/command-system/commands/apply/apply.command.test.ts
+@@ -0,0 +1,116 @@
++import { afterAll, expect, test } from "bun:test"
++import { patchIn } from "@akasha/agents/patch-keeping"
++import { said as gitSaid } from "@akasha/git/git-running"
++import {
++  taking,
++  writing,
++} from "../../../changes/modules/change-answer/change-answer.module.code.ts"
++import {
++  appendEdits,
++  editsIn,
++} from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
++import { drafted } from "../../drafting/drafting.module.code.ts"
++import { blobsIn } from "../../patching/patching.module.code.ts"
++import { scratchWorld } from "../../scratching/scratching.module.code.ts"
++import { writing as putting } from "../../scratching/scratching.module.test-fixtures.ts"
++import { draftsOf, folding } from "./apply.command.code.ts"
++
++const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
++
++const ONE = "akasha/one.page.ts"
++
++const TWO = "akasha/two.page.ts"
++
++const WAS = "a\nb\nc\n"
++
++const NOW = "a\nB\nc\n"
++
++const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=false"]
++
++const BYTES = new TextEncoder()
++
++const scratch = scratchWorld()
++
++afterAll(() => {
++  scratch.sweep()
++})
++
++async function repo(): Promise<string> {
++  const root = scratch.rootFor("akasha-apply-")
++  gitSaid(root, ["init", "-q", "-b", "main", "."])
++  await putting(root, ONE, WAS)
++  gitSaid(root, ["add", "--", ONE])
++  gitSaid(root, [...WHO, "commit", "-q", "-m", "base", "--", ONE])
++  return root
++}
++
++function carried(root: string): readonly string[] {
++  return [...blobsIn(patchIn(root, PAGE) ?? "")].map(([path]) => path).sort()
++}
++
++test("an edit is drafted into the patch and the rows it came from go", async () => {
++  const root = await repo()
++  appendEdits(root, PAGE, [taking(ONE, WAS)])
++
++  expect(folding(root, PAGE)).toEqual({ folded: [ONE] })
++
++  expect(editsIn(root, PAGE)).toEqual({ rows: [] })
++  expect(carried(root)).toEqual([ONE])
++})
++
++test("a patch the agent already holds takes the folded edits in", async () => {
++  const root = await repo()
++  drafted(root, PAGE, [{ path: TWO, was: null, body: BYTES.encode(NOW) }])
++  appendEdits(root, PAGE, [writing(ONE, WAS, NOW)])
++
++  expect(folding(root, PAGE)).toEqual({ folded: [ONE] })
++
++  expect(carried(root)).toEqual([ONE, TWO])
++})
++
++test("a fold over no row leaves the patch as that patch is", async () => {
++  const root = await repo()
++  drafted(root, PAGE, [{ path: TWO, was: null, body: BYTES.encode(NOW) }])
++
++  expect(folding(root, PAGE)).toEqual({ folded: [] })
++
++  expect(carried(root)).toEqual([TWO])
++})
++
++test("two rows for one path the later did not follow refuse the fold and leave the rows", async () => {
++  const root = await repo()
++  appendEdits(root, PAGE, [writing(ONE, WAS, NOW), writing(ONE, "z\n", NOW)])
++
++  const said = folding(root, PAGE)
++
++  expect("refusals" in said).toBe(true)
++  expect(patchIn(root, PAGE)).toBe(null)
++  expect("why" in editsIn(root, PAGE) ? [] : editsIn(root, PAGE)).not.toEqual({ rows: [] })
++})
++
++test("a path that is no page keeps no edits", async () => {
++  const root = await repo()
++
++  expect(folding(root, "akasha/notes.md")).toEqual({
++    refusals: ["a path that is no page keeps no edits"],
++  })
++})
++
++test("an edit stating no body drafts as a path holding no body", () => {
++  expect(draftsOf([taking(ONE, WAS)])).toEqual([{ path: ONE, was: BYTES.encode(WAS), body: null }])
++})
++
++test("an edit naming the path that edit came from drafts as two paths", () => {
++  const said = draftsOf([{ path: TWO, was: WAS, body: NOW, from: ONE }])
++
++  expect(said).toEqual([
++    { path: ONE, was: BYTES.encode(WAS), body: null },
++    { path: TWO, was: null, body: BYTES.encode(NOW) },
++  ])
++})
++
++test("an edit naming the path it lands at as the path it came from drafts as one path", () => {
++  expect(draftsOf([{ path: ONE, was: WAS, body: NOW, from: ONE }])).toEqual([
++    { path: ONE, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
++  ])
++})
+diff --git a/command-system/commands/apply/apply.command.ts b/command-system/commands/apply/apply.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c89bf7740609f46bf105a580c2ed7e18c86e283d
+--- /dev/null
++++ b/command-system/commands/apply/apply.command.ts
+@@ -0,0 +1,84 @@
++import type { Command } from "../command.page-type.ts"
++
++export const apply = {
++  id: "01a0777f-642f-79f8-8173-c979c96581b2",
++  pageTypeSlug: "command",
++  slug: "apply",
++  definition: "the edits an agent has answered compiled into that agent's patch and landed",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-authored",
++  taking: [
++    { said: "--message <text>", takes: "what the commit this makes is for" },
++    { said: "--message-file <file>", takes: "a file that message is read from" },
++    { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
++  ],
++  helpNotes: [
++    "the edits `akasha change` appended are folded into one answer and drafted into this agent's patch.",
++    "a patch this agent already holds takes the folded edits in rather than being written over.",
++    "the folded edits leave the file holding them once the patch carries the edits.",
++    "an apply is the apply `akasha patch apply` runs, so the checks, the commit and the record are the same.",
++    "a fold the patch refuses leaves the edits where the edits are.",
++    "an apply over no edits applies the patch the agent already holds.",
++    "--break-the-glass applies with no check run, and the reason is said in the commit.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The edits beside the calling agent's page are folded into one answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A fold that refuses refuses the apply and leaves the edits as the edits were.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The folded answer is drafted into the patch the agent already holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An edit naming the path that edit came from is drafted as two paths.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The path a move came from is drafted as holding no body.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The edits go once the patch carries what the edits said.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A draft the patch refuses leaves the edits where the edits are.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The patch is applied by the act `akasha patch apply` runs.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The landing lock, the checks, the commit and the record stay with that act.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An agent whose page is nowhere is refused rather than answered with nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The paths folded in are named in the report before the report the apply makes.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "This command takes no dry run.",
++    },
++    {
++      invariantKind: "gap",
++      statement:
++        "The edits fold under one running rather than the running each change's page states.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "An apply over edits alone still commits the patch file before landing.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/command-system/commands/change/change.command.code.ts b/command-system/commands/change/change.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a3bc5a1caa3528fa694cf0fde02ffea4d256c5ff
+--- /dev/null
++++ b/command-system/commands/change/change.command.code.ts
+@@ -0,0 +1,154 @@
++import { readFileSync } from "node:fs"
++import { join } from "node:path"
++import { agentPathOf } from "@akasha/context/warranting"
++import { removePage } from "../../../changes/command/pages/remove-page/remove-page.change-command.code.ts"
++import type {
++  Edit,
++  Answer as Said,
++} from "../../../changes/modules/change-answer/change-answer.module.types.ts"
++import {
++  type World,
++  worldAt,
++  worldOver,
++} from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
++import {
++  editsAt,
++  foldedIn,
++  keptEdits,
++} from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
++import { mistaking } from "../../asking/asking.module.code.ts"
++import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
++import { FILE_PATH, offRepo, pathAt, unknownIn, valuesOf } from "../write/write.command.code.ts"
++
++const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
++
++const BARE: readonly string[] = []
++
++export type Wrong = { readonly refusals: readonly string[] }
++
++export type Over = (world: World) => Said
++
++export type Option = {
++  readonly slug: string
++  readonly valued: readonly string[]
++  readonly over: (root: string, argv: readonly string[]) => Over | Wrong
++}
++
++function onePathIn(root: string, argv: readonly string[]): { readonly path: string } | Wrong {
++  const said = valuesOf(argv, FILE_PATH, [FILE_PATH])
++  if (said.length === 0) {
++    return { refusals: [`${FILE_PATH} names the path the change acts on, and none is given`] }
++  }
++  if (said.length > 1) {
++    return {
++      refusals: [
++        `${FILE_PATH} is given ${String(said.length)} times, and one change names one path`,
++      ],
++    }
++  }
++  const one = said[0]
++  if (one === undefined || one === null) {
++    return { refusals: [`${FILE_PATH} takes a path, and none follows it`] }
++  }
++  const path = pathAt(root, one)
++  return path === null ? { refusals: [offRepo(one)] } : { path }
++}
++
++export const OPTIONS: readonly Option[] = [
++  {
++    slug: "remove-page",
++    valued: [FILE_PATH],
++    over: (root, argv) => {
++      const named = onePathIn(root, argv)
++      if ("refusals" in named) return named
++      return (world) => removePage(world, { at: named.path })
++    },
++  },
++]
++
++function optionFor(slug: string): Option | null {
++  return OPTIONS.find((one) => one.slug === slug) ?? null
++}
++
++function optionsSaid(): string {
++  return OPTIONS.map((one) => `\`${one.slug}\``).join(", ")
++}
++
++function textIn(root: string): (path: string) => string | null {
++  return (path) => {
++    try {
++      return readFileSync(join(root, path), "utf8")
++    } catch {
++      return null
++    }
++  }
++}
++
++function worldFor(root: string, had: readonly Edit[], before: Said): World {
++  const base = worldAt(root, textIn(root))
++  return had.length === 0 ? base : worldOver(base, before)
++}
++
++function saidOf(one: Edit): string {
++  const came = one.from
++  if (came !== undefined && came !== one.path) return `moves ${came} to ${one.path}`
++  if (one.body === null) return `takes ${one.path} away`
++  if (one.was === null) return `adds ${one.path}`
++  return `changes ${one.path}`
++}
++
++export function appending(root: string, page: string, over: Over): Answer {
++  let answer: Answer = mistaking([NO_PAGE])
++  const kept = keptEdits(root, page, (had) => {
++    const before = foldedIn(had)
++    if (before.refused !== null) {
++      answer = { report: [], refusals: [before.refused], code: 3 }
++      return had
++    }
++    let said: Said
++    try {
++      said = over(worldFor(root, had, before))
++    } catch (thrown) {
++      answer = { report: [], refusals: [whyOf(thrown)], code: 3 }
++      return had
++    }
++    if (said.refused !== null) {
++      answer = { report: [], refusals: [said.refused], code: 1 }
++      return had
++    }
++    answer = {
++      report: [
++        ...said.edits.map(saidOf).sort(),
++        `the edits are kept at ${editsAt(page) ?? ""}, and \`akasha apply\` lands them`,
++      ],
++      refusals: [],
++      code: 0,
++    }
++    return [...had, ...said.edits]
++  })
++  return "why" in kept ? { report: [], refusals: [kept.why], code: 3 } : answer
++}
++
++export function changing(root: string, page: string, argv: readonly string[]): Answer {
++  const slug = argv[0]
++  if (slug === undefined) {
++    return mistaking([`no change is named, and this runs one of ${optionsSaid()}`])
++  }
++  const option = optionFor(slug)
++  if (option === null) {
++    return mistaking([`\`${slug}\` is no change this runs, which takes ${optionsSaid()}`])
++  }
++  const rest = argv.slice(1)
++  const unknown = unknownIn(rest, option.valued, BARE)
++  if (unknown.length > 0) return mistaking(unknown)
++  const over = option.over(root, rest)
++  if ("refusals" in over) return mistaking(over.refusals)
++  return appending(root, page, over)
++}
++
++export function change(argv: readonly string[], given: Given): Answer {
++  const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
++  if (page === null || editsAt(page) === null) return mistaking([NO_PAGE])
++  return changing(given.root, page, argv)
++}
+diff --git a/command-system/commands/change/change.command.test.ts b/command-system/commands/change/change.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..19fdb128555ba1e60c0aff9279e1c17b3b0577ed
+--- /dev/null
++++ b/command-system/commands/change/change.command.test.ts
+@@ -0,0 +1,130 @@
++import { afterAll, expect, test } from "bun:test"
++import {
++  idOf,
++  indexedRepo,
++  NAMER_CODE,
++  NAMER_PAGE,
++  pageOf,
++  scratch,
++} from "@akasha/indexes/indexing/testing"
++import { editsIn } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
++import { changing } from "./change.command.code.ts"
++
++afterAll(scratch.sweep)
++
++const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
++
++const MISSING = "akasha/one/missing.module.ts"
++
++const LONE_PAGE = "akasha/three/lone.module.ts"
++
++const LONE_CODE = "akasha/three/lone.module.code.ts"
++
++const LONE: Readonly<Record<string, string>> = {
++  [LONE_PAGE]: pageOf({
++    id: idOf("d"),
++    pageTypeSlug: "module",
++    slug: "lone",
++    definition: "a page no other page names",
++    code: "ts",
++  }),
++  [LONE_CODE]: "export const lone = 1\n",
++}
++
++function pathsIn(root: string): readonly string[] {
++  const said = editsIn(root, PAGE)
++  return "why" in said ? [] : said.rows.map((one) => one.path)
++}
++
++test("a change answers its edits and appends the edits beside the calling agent's page", () => {
++  const root = indexedRepo()
++
++  const said = changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
++
++  expect(said.refusals).toEqual([])
++  expect(said.code).toBe(0)
++  expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
++})
++
++test("nothing is landed and nothing is written onto the tree", () => {
++  const root = indexedRepo()
++
++  changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
++
++  expect(editsIn(root, NAMER_PAGE)).toEqual({ rows: [] })
++  expect(pathsIn(root).length).toBe(2)
++})
++
++test("a change reads the world as every edit appended before that change had landed", () => {
++  const root = indexedRepo()
++  changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
++
++  const said = changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
++
++  expect(said.refusals).toEqual([`\`${NAMER_PAGE}\` names no page, so no page is taken away`])
++  expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
++})
++
++test("two runs leave two sets of edits in the order the runs were made", () => {
++  const root = indexedRepo(LONE)
++
++  changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
++  changing(root, PAGE, ["remove-page", "--file-path", LONE_PAGE])
++
++  const said = pathsIn(root)
++  expect(said.length).toBe(4)
++  expect([...said.slice(0, 2)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
++  expect([...said.slice(2)].sort()).toEqual([LONE_CODE, LONE_PAGE])
++})
++
++test("a change that refuses appends nothing and says why that change refused", () => {
++  const root = indexedRepo()
++
++  const said = changing(root, PAGE, ["remove-page", "--file-path", MISSING])
++
++  expect(said.refusals).toEqual([`\`${MISSING}\` names no page, so no page is taken away`])
++  expect(pathsIn(root)).toEqual([])
++})
++
++test("a word naming no change is refused with the changes this command runs", () => {
++  const said = changing(indexedRepo(), PAGE, ["remove-file", "--file-path", NAMER_PAGE])
++
++  expect(said.refusals).toEqual(["`remove-file` is no change this runs, which takes `remove-page`"])
++})
++
++test("a call naming no change is refused with the changes this command runs", () => {
++  const said = changing(indexedRepo(), PAGE, [])
++
++  expect(said.refusals).toEqual(["no change is named, and this runs one of `remove-page`"])
++})
++
++test("a flag the change named does not take is refused", () => {
++  const said = changing(indexedRepo(), PAGE, ["remove-page", "--message", "why"])
++
++  expect(said.refusals).toEqual(["`--message` is no flag this takes"])
++})
++
++test("a call naming no path is refused", () => {
++  const said = changing(indexedRepo(), PAGE, ["remove-page"])
++
++  expect(said.refusals).toEqual([
++    "--file-path names the path the change acts on, and none is given",
++  ])
++})
++
++test("a path outside the repository is refused", () => {
++  const said = changing(indexedRepo(), PAGE, ["remove-page", "--file-path", "/etc/hosts"])
++
++  expect(said.refusals.length).toBe(1)
++  expect(said.refusals[0] ?? "").toContain("is no path inside the repository")
++})
++
++test("a path that is no page keeps no edits", () => {
++  const said = changing(indexedRepo(), "akasha/notes.md", [
++    "remove-page",
++    "--file-path",
++    NAMER_PAGE,
++  ])
++
++  expect(said.refusals).toEqual(["a path that is no page keeps no edits"])
++})
+diff --git a/command-system/commands/change/change.command.ts b/command-system/commands/change/change.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4f24c6630adda7c54bb9e9c348b6d587030def58
+--- /dev/null
++++ b/command-system/commands/change/change.command.ts
+@@ -0,0 +1,90 @@
++import type { Command } from "../command.page-type.ts"
++
++export const change = {
++  id: "01a0777f-642e-7b08-aea6-a5ac00c95a19",
++  pageTypeSlug: "command",
++  slug: "change",
++  definition: "one mechanical change run for the edits it answers rather than for a landing",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-mechanical",
++  taking: [
++    { said: "remove-page", takes: "the change to run, which takes one page away" },
++    { said: "--file-path <path>", takes: "the path the change named acts on" },
++  ],
++  helpNotes: [
++    "the change is the first word, and the flags after it are the ones that change takes.",
++    "a change answers edits rather than writing them, and the edits are appended beside this agent's page.",
++    "nothing lands here, and `akasha apply` compiles the edits into the patch and lands them.",
++    "two runs leave two sets of edits in the order the runs were made.",
++    "a change reads the world as every edit appended before it had already landed.",
++    "a change that refuses appends nothing and leaves the edits as the edits were.",
++    "making the edits and applying them are two calls, so the edits held unapplied are the dry run.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The change to run is named by the first word.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A word naming no change is refused with the changes this command runs.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The flags a call takes are the flags the change named takes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The edits a change answers are appended beside the calling agent's page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An agent whose page is nowhere is refused rather than answered with nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Two runs leave two sets of edits in the order the runs were made.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A change is handed the world the edits appended before that change leave.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The edits appended before are folded into one answer to work that world out.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A fold that refuses refuses the run rather than being read as an empty world.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A change that refuses appends nothing and says why the change refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A world whose shadow will not build refuses the run.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The edits are read and appended to under one turn over the file holding them.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here lands, commits or writes a body onto the tree.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "This command takes no dry run.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "The changes this runs are spelled here rather than read off the index.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A change is judged by no check until the edits that change answered apply.",
++    },
++  ],
++} as const satisfies Command
