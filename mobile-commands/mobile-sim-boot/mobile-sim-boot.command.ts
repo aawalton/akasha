@@ -31,7 +31,7 @@ export const mobileSimBoot = {
     {
       invariantKind: "departure",
       statement:
-        "A call naming no simulator takes the first booted one, else the first iPhone there is.",
+        "A call naming no simulator takes the first booted simulator or the first iPhone there is.",
     },
     {
       invariantKind: "absence",
