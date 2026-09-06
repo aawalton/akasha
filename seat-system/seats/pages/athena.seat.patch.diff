@@ -1,0 +1,13 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
+index bf8100a697b850ffe420b0763e21534e841ae263..358cc8c15c98c1d20db18d9bd5d5a5e3d7ff59ba 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
+@@ -13,7 +13,7 @@ import { dirname, join } from "node:path"
+ import { akashaRoot, akashaSeatsThatExist } from "@akasha/seat-system/seat-akasha-beside"
+ import { colorOfState } from "@akasha/seat-system/seat-turn-color"
+ import { SEAT_TURN_STATES, seatTurnStateOf } from "@akasha/seat-system/seat-turn-state"
+-import { followWithin } from "@akasha/service-system/file-following"
++import { followFolders, followWithin } from "@akasha/service-system/file-following"
+ import { agentTreeLine, statusBarLine } from "../beat-drawing/beat-drawing.module.code.ts"
+ import {
+   decide,
