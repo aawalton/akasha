@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/calendar-sync/sync-all/sync-all.module.ts b/calendar-sync/sync-all/sync-all.module.ts
+index a5c8ea0ba68dc7d218ac04c2aa88e3802e344feb..5a4e04a5a85fa1ea148c3be0b9c650ad3d35e92a 100644
+--- a/calendar-sync/sync-all/sync-all.module.ts
++++ b/calendar-sync/sync-all/sync-all.module.ts
+@@ -13,7 +13,7 @@ export const syncAll = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A source missing any of the fields that source is reached by is passed over.",
++      statement: "A source missing a field that source is reached by is passed over.",
+     },
+     {
+       invariantKind: "departure",
