@@ -1,0 +1,11 @@
+import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+
+export const alternatives = {
+  id: "01a06594-c674-700d-9d60-85204b73ee42",
+  pageTypeSlug: "book-section",
+  slug: "alternatives",
+  title: "Alternatives",
+  partOfSlugs: ["all-about-alan"],
+  unitSlug: "words",
+  chapterText: "md",
+} as const satisfies BookSection

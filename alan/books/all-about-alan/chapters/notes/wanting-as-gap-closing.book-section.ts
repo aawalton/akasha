@@ -1,0 +1,11 @@
+import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+
+export const wantingAsGapClosing = {
+  id: "01a06594-c686-7002-83cd-f8e8684bb108",
+  pageTypeSlug: "book-section",
+  slug: "wanting-as-gap-closing",
+  title: "Wanting as gap-closing",
+  partOfSlugs: ["all-about-alan"],
+  unitSlug: "words",
+  chapterText: "md",
+} as const satisfies BookSection

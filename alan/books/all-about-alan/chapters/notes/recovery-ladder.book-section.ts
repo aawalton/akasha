@@ -1,0 +1,11 @@
+import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+
+export const recoveryLadder = {
+  id: "01a06594-c67c-700c-ae61-931e270f5e3d",
+  pageTypeSlug: "book-section",
+  slug: "recovery-ladder",
+  title: "The recovery ladder",
+  partOfSlugs: ["all-about-alan"],
+  unitSlug: "words",
+  chapterText: "md",
+} as const satisfies BookSection

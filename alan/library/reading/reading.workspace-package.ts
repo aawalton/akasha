@@ -15,7 +15,7 @@ export const reading = {
     "module/story-choosing",
     "module/offline-reading",
     "page-type/book",
-    "page-type/book-chapter",
+    "page-type/book-section",
     "page-type/book-series",
     "page-type/scripture-passage",
     "page-type/author-collection",

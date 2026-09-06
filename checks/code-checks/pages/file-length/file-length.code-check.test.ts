@@ -159,12 +159,12 @@ test("a test file under the ceiling is let through, so naming the relief refuses
 
 test("prose beside a page is held wider than a code file, whatever the page type", () => {
   const held = sized(CEILING + 1)
-  expect(reasonsIn(given("akasha/one.book-chapter.chapter-text.md", held))).toEqual([])
+  expect(reasonsIn(given("akasha/one.book-section.chapter-text.md", held))).toEqual([])
   expect(reasonsIn(given("akasha/one.story-chapter-read.prose.txt", held))).toEqual([])
 })
 
 test("prose over its own ceiling is refused, and the refusal names what dividing it costs", () => {
-  const at = "akasha/one.book-chapter.chapter-text.md"
+  const at = "akasha/one.book-section.chapter-text.md"
   const said = reasonsIn(given(at, sized(PROSE_CEILING + 1)))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("131,072 byte ceiling")
@@ -175,7 +175,7 @@ const WHOLE = "akasha/one.story-chapter-read.prose.txt"
 
 const PART = "akasha/one.story-chapter-read.prose.part2.txt"
 
-const OTHER = "akasha/one.book-chapter.chapter-text.md"
+const OTHER = "akasha/one.book-section.chapter-text.md"
 
 test("the whole prose of a page is held wider than other prose, because dividing it is what hid it", () => {
   expect(reasonsIn(given(WHOLE, sized(PROSE_CEILING + 1)))).toEqual([])

@@ -34,12 +34,12 @@ function over(said: Over): (names: readonly string[]) => Standing {
 const folder = over({})
 
 test("chapters of the book above sitting as flat files take the shape", () => {
-  expect(chaptersOfTheBookAbove(folder(["one.book-chapter.ts", "two.book-chapter.ts"]))).toEqual([])
+  expect(chaptersOfTheBookAbove(folder(["one.book-section.ts", "two.book-section.ts"]))).toEqual([])
 })
 
 test("a chapter carrying its prose beside the chapter takes the shape", () => {
   const said = chaptersOfTheBookAbove(
-    folder(["one.book-chapter.ts", "one.book-chapter.chapter-text.md"])
+    folder(["one.book-section.ts", "one.book-section.chapter-text.md"])
   )
   expect(said).toEqual([])
 })
@@ -54,7 +54,7 @@ test("a folder named otherwise is refused, and the reason names both", () => {
       extending: (pageTypeSlug, wanted) => pageTypeSlug === wanted,
       holds: (at) => (at === ABOVE ? [`alan-book/${BOOK}`] : []),
       partOf: (): readonly string[] => [BOOK],
-    })(["one.book-chapter.ts"])
+    })(["one.book-section.ts"])
   )
   expect(held).toBeDefined()
   expect(said).toHaveLength(1)
@@ -64,21 +64,21 @@ test("a folder named otherwise is refused, and the reason names both", () => {
 
 test("a folder above holding no page of its own is refused", () => {
   const held = over({ holds: () => [] })
-  const said = chaptersOfTheBookAbove(held(["one.book-chapter.ts"]))
+  const said = chaptersOfTheBookAbove(held(["one.book-section.ts"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("holds no page of its own")
 })
 
 test("a folder above holding a page that is no book Alan writes is refused", () => {
   const held = over({ holds: (at) => (at === ABOVE ? ["book/plato-apology-crito"] : []) })
-  const said = chaptersOfTheBookAbove(held(["one.book-chapter.ts"]))
+  const said = chaptersOfTheBookAbove(held(["one.book-section.ts"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`book`")
   expect(said[0]).toContain("`alan-book`")
 })
 
 test("a page that is no book chapter is refused", () => {
-  const said = chaptersOfTheBookAbove(folder(["one.book-chapter.ts", "other.book.ts"]))
+  const said = chaptersOfTheBookAbove(folder(["one.book-section.ts", "other.book.ts"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("`book-chapter`")
   expect(said[0]).toContain("other.book.ts")
@@ -86,31 +86,31 @@ test("a page that is no book chapter is refused", () => {
 
 test("a chapter naming another book is refused", () => {
   const held = over({ partOf: (page) => (page.slug === "two" ? ["my-math"] : [BOOK]) })
-  const said = chaptersOfTheBookAbove(held(["one.book-chapter.ts", "two.book-chapter.ts"]))
+  const said = chaptersOfTheBookAbove(held(["one.book-section.ts", "two.book-section.ts"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain(`\`${BOOK}\``)
-  expect(said[0]).toContain("two.book-chapter.ts")
+  expect(said[0]).toContain("two.book-section.ts")
 })
 
 test("a folder sitting inside chapters is refused", () => {
-  const held = over({ deep: ["sources/three.book-chapter.ts"] })
-  const said = chaptersOfTheBookAbove(held(["one.book-chapter.ts"]))
+  const held = over({ deep: ["sources/three.book-section.ts"] })
+  const said = chaptersOfTheBookAbove(held(["one.book-section.ts"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("sources")
 })
 
 test("a file that is neither a chapter nor a file beside one is refused", () => {
-  const said = chaptersOfTheBookAbove(folder(["one.book-chapter.ts", "readme.md"]))
+  const said = chaptersOfTheBookAbove(folder(["one.book-section.ts", "readme.md"]))
   expect(said).toHaveLength(1)
   expect(said[0]).toContain("readme.md")
 })
 
 test("a file sitting beside no chapter here is refused", () => {
   const said = chaptersOfTheBookAbove(
-    folder(["one.book-chapter.ts", "ghost.book-chapter.chapter-text.md"])
+    folder(["one.book-section.ts", "ghost.book-section.chapter-text.md"])
   )
   expect(said).toHaveLength(1)
-  expect(said[0]).toContain("ghost.book-chapter.chapter-text.md")
+  expect(said[0]).toContain("ghost.book-section.chapter-text.md")
 })
 
 test("a folder named chapters holding no chapter is refused", () => {

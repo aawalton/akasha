@@ -1,0 +1,11 @@
+import type { BookSection } from "../../../../../library/reading/book-chapters/book-section.page-type.ts"
+
+export const progression = {
+  id: "01a06594-c67e-7004-87d6-fc8d7a223020",
+  pageTypeSlug: "book-section",
+  slug: "progression",
+  title: "Safety — progression and the two pillars",
+  partOfSlugs: ["all-about-alan"],
+  unitSlug: "words",
+  chapterText: "md",
+} as const satisfies BookSection

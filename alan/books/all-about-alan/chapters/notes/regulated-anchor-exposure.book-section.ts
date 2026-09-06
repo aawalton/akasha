@@ -1,0 +1,11 @@
+import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+
+export const regulatedAnchorExposure = {
+  id: "01a06594-c67c-700f-8cab-6c85e3a52b75",
+  pageTypeSlug: "book-section",
+  slug: "regulated-anchor-exposure",
+  title: "Regulated-anchor exposure",
+  partOfSlugs: ["all-about-alan"],
+  unitSlug: "words",
+  chapterText: "md",
+} as const satisfies BookSection

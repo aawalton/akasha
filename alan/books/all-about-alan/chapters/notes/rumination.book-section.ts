@@ -1,0 +1,11 @@
+import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+
+export const rumination = {
+  id: "01a06594-c67c-7015-bdf5-300ee8d7ead6",
+  pageTypeSlug: "book-section",
+  slug: "rumination",
+  title: "Rumination",
+  partOfSlugs: ["all-about-alan"],
+  unitSlug: "words",
+  chapterText: "md",
+} as const satisfies BookSection
