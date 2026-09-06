@@ -3764,13 +3764,14 @@ index 0000000000000000000000000000000000000000..a58885968c10b6e7067599129c834488
 +} as const satisfies PageType
 diff --git a/alan/library/book-of-everything/mastery-levels/pages/doctor.mastery-level.ts b/alan/library/book-of-everything/mastery-levels/pages/doctor.mastery-level.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..c7a27b65fd6246762148e003c89399ac4e80097f
+index 0000000000000000000000000000000000000000..037cf6c92dee255ba466cdf904bfda404e18dc13
 --- /dev/null
 +++ b/alan/library/book-of-everything/mastery-levels/pages/doctor.mastery-level.ts
-@@ -0,0 +1,10 @@
+@@ -0,0 +1,11 @@
 +import type { MasteryLevel } from "../mastery-level.page-type.ts"
 +
 +export const doctor = {
++  id: "01a0784a-cdb9-7f1a-9941-bd4f4802ffe5",
 +  pageTypeSlug: "mastery-level",
 +  slug: "doctor",
 +  definition: "a contribution to the frontier",
