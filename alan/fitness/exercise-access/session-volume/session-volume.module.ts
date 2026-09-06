@@ -31,10 +31,5 @@ export const sessionVolume = {
       statement:
         "Which store the rows come from is settled where the rows are read rather than handed in here.",
     },
-    {
-      invariantKind: "gap",
-      statement:
-        "No client profile page exists, so nothing states the weight volume is counted against.",
-    },
   ],
 } as const satisfies Module
