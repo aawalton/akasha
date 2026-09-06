@@ -35,7 +35,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "A file property holds bytes as well as text.",
       workingMemory:
-        "`pages/file-body/page-file-body.module.code.ts` reads every file property with readFileSync(path, 'utf8'), so a PNG loses its leading byte to U+FFFD and cannot be recovered. Alan settled that a page property states whether the files that property holds are bytes, as an optional flag beside `machine-written` and `runs-file-length`.",
+        "Met. `bytesAt` reads the bytes before any decoding is chosen, `bodyAt` decodes those bytes for text, and `holds-bytes` is the optional flag beside `machine-written` and `runs-file-length`. Twelve tests pass, two of them a picture read back byte for byte and the same picture losing its leading byte down the text road. A picture also survives `akasha write`, the working tree and git unchanged.",
     },
     {
       statement: "The pages service answers a file property's bytes unchanged.",
@@ -45,7 +45,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "The route serving Alan's phone reads the persona's mobile wallpaper.",
       workingMemory:
-        "`mobileWallpaper` is declared and landed. Forty cover pictures are staged outside the checkout at /tmp/amy-tw-f5a66efa/covers, 47 MB, every one checked as a PNG; nova's was a JPEG under a .png key and was drawn again as a PNG. The pictures wait on a byte-safe reader before landing, so that no history is kept for a road that does not work.",
+        "Amy carries a picture beside her page. Forty are staged outside the checkout at /tmp/amy-tw-f5a66efa/covers, 47 MB; nova's was a JPEG under a name ending png and was drawn again as a PNG. The check looking for a global read every changed path as text and now reads only the code that check takes as input. What is left is the road from the pod: `api.wallpaper.ts` asks for keys, and a key names the ending rather than the picture.",
     },
   ],
 } as const satisfies Initiative
