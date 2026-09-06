@@ -292,11 +292,18 @@ function holdingBy(
 ): ReadonlyMap<string, readonly string[]> {
   const found = new Map<string, string[]>()
   for (const one of folders) found.set(one, [])
+  const known = new Set(folders)
   for (const path of every) {
     if (!bodyNamed(path)) continue
-    const owner = ownerOf(folders, path)
-    if (owner === null) continue
-    found.get(owner)?.push(path)
+    let cut = path.lastIndexOf(PARTED_BY)
+    while (cut > 0) {
+      const owner = path.slice(0, cut)
+      if (known.has(owner)) {
+        found.get(owner)?.push(path)
+        break
+      }
+      cut = path.lastIndexOf(PARTED_BY, cut - 1)
+    }
   }
   return found
 }
