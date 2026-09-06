@@ -85,3 +85,15 @@ index 0000000000000000000000000000000000000000..486879c8364d6b8b3907b1f286cae008
 +  readonly edits: readonly Edit[]
 +  readonly refused: string | null
 +}
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index 0844fff94182a275bec32c2f329ad4ffcc641349..77dc8b49b222716884cd70bc7cd898f3ccf8f1ae 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -37,6 +37,7 @@ export const change = {
+     "change/repoint-imports",
+     "change/respell-export",
+     "change/restate-value",
++    "module/change-answer",
+   ],
+   properties: [
+     { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
