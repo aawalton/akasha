@@ -12,3 +12,20 @@ index 0000000000000000000000000000000000000000..235ce0697333e7be4453a3b95069cfc1
 +  slug: "collections-secrets-anon-key",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "ANON_KEY" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-database-url.secret.ts b/service-system/secrets/pages/collections-secrets-database-url.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bac3c802b7b5266015becf9030eb33bff791f6e1
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-database-url.secret.ts
+@@ -0,0 +1,11 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsDatabaseUrl = {
++  id: "01a07697-e59e-7dd5-8261-24e05620416d",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-database-url",
++  placements: [
++    { resourceName: "collections-secrets", resourceKey: "DATABASE_URL" },
++    { resourceName: "collections-secrets", resourceKey: "ZERO_UPSTREAM_DB" },
++  ],
++} as const satisfies Secret
