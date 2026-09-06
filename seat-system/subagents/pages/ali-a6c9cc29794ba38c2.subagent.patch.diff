@@ -89,6 +89,32 @@ index 0dddb1ff7b44f404b8c6a080112620240e433974..0344c390a3e05946c450a9b8789d60e8
    scoredOn: "2026-06-19",
    status: "resting",
    partOfSlugs: ["learn-everything-topic-01-atoms"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/01-theory-and-classification-of-the-arts/learn-everything-topic-01-theory-and-classification-of-the-arts.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/01-theory-and-classification-of-the-arts/learn-everything-topic-01-theory-and-classification-of-the-arts.learn-everything-topic.ts
+index 6c7a1bbc294d68f2b679f96e8bdf695d6bd67468..cad0c9285d922d0f3ebf7519a7c316b869562017 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/01-theory-and-classification-of-the-arts/learn-everything-topic-01-theory-and-classification-of-the-arts.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/01-theory-and-classification-of-the-arts/learn-everything-topic-01-theory-and-classification-of-the-arts.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic01TheoryAndClassificationOfTheArts = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-01-theory-and-classification-of-the-arts",
+   node: "Art › Art in General › Theory and Classification of the Arts",
+-  depth: 4,
++  masteryLevelSlug: "mastery-level/expert",
+   scoredOn: "2026-06-23",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-01-art-in-general"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/02-divisions-of-philosophy/learn-everything-topic-02-divisions-of-philosophy.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/02-divisions-of-philosophy/learn-everything-topic-02-divisions-of-philosophy.learn-everything-topic.ts
+index 9138e2839469de68835300e5c6b324e16c0747c1..7086af0ee03f9af05c365acd4fef4031c264a953 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/02-divisions-of-philosophy/learn-everything-topic-02-divisions-of-philosophy.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/02-divisions-of-philosophy/learn-everything-topic-02-divisions-of-philosophy.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic02DivisionsOfPhilosophy = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-02-divisions-of-philosophy",
+   node: "The Branches of Knowledge › Philosophy › Divisions of Philosophy",
+-  depth: 4,
++  masteryLevelSlug: "mastery-level/expert",
+   scoredOn: "2026-06-23",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-05-philosophy"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/02-dormant-mechanics-and-content-cadence/learn-everything-topic-02-dormant-mechanics-and-content-cadence.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/02-dormant-mechanics-and-content-cadence/learn-everything-topic-02-dormant-mechanics-and-content-cadence.learn-everything-topic.ts
 index 9640c48391b59d5791714ec7d7ef409f7bfd7e06..4c78516c897b3cf1bcdfdbea40c779e6a2e4998b 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/02-dormant-mechanics-and-content-cadence/learn-everything-topic-02-dormant-mechanics-and-content-cadence.learn-everything-topic.ts
@@ -258,6 +284,19 @@ index f756c23f953ad57a3c6ebbf56b53e219d9ba480f..1c4e796a72b2eb33d35222b5a7097bfa
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-05-the-biosphere"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/02-religious-life-institutions-and-practices/learn-everything-topic-02-religious-life-institutions-and-practices.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/02-religious-life-institutions-and-practices/learn-everything-topic-02-religious-life-institutions-and-practices.learn-everything-topic.ts
+index e1380369ac3ef171fb9c617d95c3cc87aa74b206..29d519fdbd0b2ef7c9d0705a862e331466e04e19 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/02-religious-life-institutions-and-practices/learn-everything-topic-02-religious-life-institutions-and-practices.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/02-religious-life-institutions-and-practices/learn-everything-topic-02-religious-life-institutions-and-practices.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic02ReligiousLifeInstitutionsAndPractices = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-02-religious-life-institutions-and-practices",
+   node: "Religion › Religion in General › Religious Life: Institutions and Practices",
+-  depth: 4,
++  masteryLevelSlug: "mastery-level/expert",
+   scoredOn: "2026-06-19",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-01-religion-in-general"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/02-the-development-of-human-culture/learn-everything-topic-02-the-development-of-human-culture.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/02-the-development-of-human-culture/learn-everything-topic-02-the-development-of-human-culture.learn-everything-topic.ts
 index a09c2a174c67d3cffa2b109c3faa71a2ffbc086d..45587437e5702069ed611d8c55d21f6b319e66c3 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/02-the-development-of-human-culture/learn-everything-topic-02-the-development-of-human-culture.learn-everything-topic.ts
@@ -440,6 +479,19 @@ index 66dc86a4c864998fff442d55b87979fa147bf832..af057c37da9db81e4bbeddc29136d25d
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-01-social-groups-ethnic-groups-and-cultures"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-motion-pictures/learn-everything-topic-03-motion-pictures.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-motion-pictures/learn-everything-topic-03-motion-pictures.learn-everything-topic.ts
+index dc2d4c0041ea2009edcf5b84bb1d1e6497fa1f16..2cde50721ca54c02670324c60e2c88c629cf6dab 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-motion-pictures/learn-everything-topic-03-motion-pictures.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-motion-pictures/learn-everything-topic-03-motion-pictures.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic03MotionPictures = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-03-motion-pictures",
+   node: "Art › Particular Arts › Motion Pictures",
+-  depth: 4,
++  masteryLevelSlug: "mastery-level/expert",
+   scoredOn: "2026-06-23",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-02-particular-arts"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-philosophical-schools-and-doctrines/learn-everything-topic-03-philosophical-schools-and-doctrines.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-philosophical-schools-and-doctrines/learn-everything-topic-03-philosophical-schools-and-doctrines.learn-everything-topic.ts
 index 24b369c94e002774701ea87aac0588f83dee8d75..6311cdc54fec4c9e5ec26881fd566d06713e4105 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/03-philosophical-schools-and-doctrines/learn-everything-topic-03-philosophical-schools-and-doctrines.learn-everything-topic.ts
@@ -544,6 +596,19 @@ index 53ae470cced0035cfc6507a5c7b3fa07e6f87f43..f51833954b80fc51238eb9fbf68f583b
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-02-the-earth"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-technology-of-measurement-observation-and-control/learn-everything-topic-03-technology-of-measurement-observation-and-control.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-technology-of-measurement-observation-and-control/learn-everything-topic-03-technology-of-measurement-observation-and-control.learn-everything-topic.ts
+index 915e7ac4661a5ea3a19bfe3fedbcea99f9149457..763bafe6d28097d9e2301ba466a18e06c6dfb9fb 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-technology-of-measurement-observation-and-control/learn-everything-topic-03-technology-of-measurement-observation-and-control.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-technology-of-measurement-observation-and-control/learn-everything-topic-03-technology-of-measurement-observation-and-control.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic03TechnologyOfMeasurementObservationAndControl
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-03-technology-of-measurement-observation-and-control",
+   node: "Technology › Elements of Technology › Technology of Measurement, Observation, and Control",
+-  depth: 4,
++  masteryLevelSlug: "mastery-level/expert",
+   scoredOn: "2026-06-20",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-02-elements-of-technology"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-the-earth-sciences/learn-everything-topic-03-the-earth-sciences.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-the-earth-sciences/learn-everything-topic-03-the-earth-sciences.learn-everything-topic.ts
 index 1738358efdd4b292c363031455b3abbf23477dc9..17670f6cbb5f9f330e6d67c1bbad32d136a48312 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/03-the-earth-sciences/learn-everything-topic-03-the-earth-sciences.learn-everything-topic.ts
@@ -1090,6 +1155,19 @@ index bf2aded87d52c8bcf66a702da5207a7e38aead8e..a25ae96ef56684fcbe406d9dc269e6c8
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-05-human-society"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/05-liturgical-calendar-and-observance/learn-everything-topic-05-liturgical-calendar-and-observance.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/05-liturgical-calendar-and-observance/learn-everything-topic-05-liturgical-calendar-and-observance.learn-everything-topic.ts
+index 5bb70491db525a401d965bf89270b0538a3b9f40..00079eab0aae06d6a560f21731769fb007ccb3de 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/05-liturgical-calendar-and-observance/learn-everything-topic-05-liturgical-calendar-and-observance.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/05-liturgical-calendar-and-observance/learn-everything-topic-05-liturgical-calendar-and-observance.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic05LiturgicalCalendarAndObservance = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-05-liturgical-calendar-and-observance",
+   node: "Religion › Religion in General › Religious Life: Institutions and Practices › Liturgical Calendar and Observance",
+-  depth: 4,
++  masteryLevelSlug: "mastery-level/expert",
+   scoredOn: "2026-06-20",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-02-religious-life-institutions-and-practices"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/05-macroeconomics/learn-everything-topic-05-macroeconomics.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/05-macroeconomics/learn-everything-topic-05-macroeconomics.learn-everything-topic.ts
 index 8554c59a625716471d6ce50f8d52d7895835ad7e..6ecb893af871822f239caa52f6e008a94e1f502b 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/05-macroeconomics/learn-everything-topic-05-macroeconomics.learn-everything-topic.ts
@@ -1584,6 +1662,19 @@ index 8f15a816d0c4085a27b7b24c56b0afbc63a05a1f..3d7d181011c6bb49669352229bdbae0d
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-play-games-and-fun/learn-everything-topic-07-play-games-and-fun.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-play-games-and-fun/learn-everything-topic-07-play-games-and-fun.learn-everything-topic.ts
+index 57e5e8df67a6523d3a5a4d719cd84a0ba97e7cbf..8c5d218c5175b547f7c79dccf5dfb497882438c2 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-play-games-and-fun/learn-everything-topic-07-play-games-and-fun.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-play-games-and-fun/learn-everything-topic-07-play-games-and-fun.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07PlayGamesAndFun = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-play-games-and-fun",
+   node: "Human Life › Human Behavior and Experience › Play, Games, and Fun",
+-  depth: 4,
++  masteryLevelSlug: "mastery-level/expert",
+   scoredOn: "2026-06-25",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-03-human-behavior-and-experience"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-progress-realness-and-save-design/learn-everything-topic-07-progress-realness-and-save-design.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-progress-realness-and-save-design/learn-everything-topic-07-progress-realness-and-save-design.learn-everything-topic.ts
 index e2669bad4f818f48c53c16810bb1030cdf15a011..abcb324e9f399dab4e71b51bab3ab2380e51c00a 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/07-progress-realness-and-save-design/learn-everything-topic-07-progress-realness-and-save-design.learn-everything-topic.ts
@@ -1909,6 +2000,19 @@ index bd50e1e42fcbd3edf27e665b7ea585498932ffa3..7e4b30392651e5e6c164d63beaadc626
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-06-the-modern-world-to-1920"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/10-game-design/learn-everything-topic-10-game-design.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/10-game-design/learn-everything-topic-10-game-design.learn-everything-topic.ts
+index 301880f32a17a478e87866606cfd632735cdf7e1..55fcbab8aa6e4749d2c50764c93a33f1105456be 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/10-game-design/learn-everything-topic-10-game-design.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/10-game-design/learn-everything-topic-10-game-design.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic10GameDesign = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-10-game-design",
+   node: "Art › Particular Arts › Game Design",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-25",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-02-particular-arts"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/10-the-branches-of-knowledge/learn-everything-topic-10-the-branches-of-knowledge.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/10-the-branches-of-knowledge/learn-everything-topic-10-the-branches-of-knowledge.learn-everything-topic.ts
 index d6732f38cd4c25f64581cb3f526138766cde531a..59faaf6327c11b644c83b02c41cbf13c12ed7a2a 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/10-the-branches-of-knowledge/learn-everything-topic-10-the-branches-of-knowledge.learn-everything-topic.ts
