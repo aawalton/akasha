@@ -1,0 +1,11 @@
+diff --git a/pages/queries/pages/alan-harness-tracking-field-all.page-query.ts b/pages/queries/pages/alan-harness-tracking-field-all.page-query.ts
+index 7263933e154496ae554b50822bf38896c69a78e8..84892ea7787e5fe19074f228bf65cab0930b096a 100644
+--- a/pages/queries/pages/alan-harness-tracking-field-all.page-query.ts
++++ b/pages/queries/pages/alan-harness-tracking-field-all.page-query.ts
+@@ -5,5 +5,5 @@ export const alanHarnessTrackingFieldAll = {
+   pageTypeSlug: "page-query",
+   slug: "alan-harness-tracking-field-all",
+   asksOfSlug: "tracking-field",
+-  keys: ["slug", "key", "defined-on-slug", "type"],
++  keys: ["slug", "propertySlug", "pageTypeSlug"],
+ } as const satisfies PageQuery
