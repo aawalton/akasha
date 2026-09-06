@@ -1,0 +1,12 @@
+diff --git a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.code.ts b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.code.ts
+index 1ff1759729e012d7e70bcac17a40caa94cd3db6c..e7c56b82f165e001688ff9b6620609f60566dcbc 100644
+--- a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.code.ts
++++ b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.code.ts
+@@ -115,7 +115,6 @@ function reasonFor(propertySlug: string, typeSlug: string): string {
+ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
+   if (!change.changed.some((path) => typeNamedIn(path) !== null)) return []
+   const carried = carriedBy(change, shadow.index.pageTypesIn())
+-  if (!carried.some((one) => typeNamedIn(one.path) !== null)) return []
+   const types = everyType(shadow, carried)
+   const introducers = introducersIn(types, shadow)
+   const said: Judged[] = []
