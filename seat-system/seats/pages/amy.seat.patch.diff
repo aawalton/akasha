@@ -88,3 +88,16 @@ index be470b97170d17928f02bfb84d022c6cadb3cb15..b4e0f619a8b098dd1e0f2af405c8c843
        movements: slugs.map((slug) => titled.titles.get(slug) ?? slug),
      },
    }
+diff --git a/alan/fitness/exercise-access/training-digest/training-digest.module.code.ts b/alan/fitness/exercise-access/training-digest/training-digest.module.code.ts
+index c6299afc92c173eba096d6163ebfd7cf4580b011..66e2442c2d82c2e7277d1e7414fbd931e46bca36 100644
+--- a/alan/fitness/exercise-access/training-digest/training-digest.module.code.ts
++++ b/alan/fitness/exercise-access/training-digest/training-digest.module.code.ts
+@@ -71,7 +71,7 @@ export async function trainingDigest(
+ 
+   const equipment = await equipmentStandings()
+   if ("refused" in equipment) return equipment
+-  const lastSession = await sessionStanding(recentRows[0], bodyweight)
++  const lastSession = await sessionStanding(recentRows[0])
+   if ("refused" in lastSession) return lastSession
+   const mobility = await mobilityStandings()
+   if ("refused" in mobility) return mobility
