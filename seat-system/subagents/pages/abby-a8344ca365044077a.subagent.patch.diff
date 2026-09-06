@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-much-margin-i-actually-have.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-much-margin-i-actually-have.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fbe5e7f3cdff3a3d78a5fa97bf71c4d22a0934ef
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-much-margin-i-actually-have.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howMuchMarginIActuallyHave = {
++  id: "01a077e3-14c5-7b5a-b95e-00cbc12b2bbe",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-much-margin-i-actually-have",
++  topicSlug: "having-no-margin",
++  ask: "How much margin do I actually have, and is margin worth measuring apart from what I can do at all?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-stressors-push-me-back-into-deficit.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-stressors-push-me-back-into-deficit.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4ec32c1edd1446b5c43b102b211052784b81952f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-stressors-push-me-back-into-deficit.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichStressorsPushMeBackIntoDeficit = {
++  id: "01a077e3-14c5-76a5-96e5-0102b426386b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-stressors-push-me-back-into-deficit",
++  topicSlug: "having-no-margin",
++  ask: "Which unexpected stressors actually push me back into deficit?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/having-no-margin.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/having-no-margin.all-about-alan-topic.ts
+index 9e1f9554087b76d288e108260f920f87a8a1be9e..0b4a95cc79c3308b4198ee35725118ae8e52231a 100644
+--- a/alan/books/all-about-alan/topics/pages/having-no-margin.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/having-no-margin.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const havingNoMargin = {
+     "living with almost no slack, so a surprise costs far more than it looks like it should",
+   parentSlugs: ["how-i-get-anything-done"],
+   settled: "Turning to something else is easy. Paying for something I had not budgeted is not.",
+-  unsettled:
+-    "How much margin I actually have, and whether it is worth measuring apart from what I can do at all, is unworked.\n\nWhich unexpected stressors actually push me back into deficit has never been collected, so where I sit is described but not what breaks it.",
+ } as const satisfies AllAboutAlanTopic
