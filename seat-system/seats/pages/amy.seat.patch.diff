@@ -319,3 +319,47 @@ index 0000000000000000000000000000000000000000..49dfa62c8d558541e825e06db98b52ee
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
+index 81bb417ecbf3a6c3785beaef1e84cfe25c34e8ef..4a1852b02ab8be6cb9ad17429238822d8d1e3ff1 100644
+--- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
++++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
+@@ -5,6 +5,7 @@ export const pageMatchesItsType = {
+   pageTypeSlug: "code-check",
+   slug: "page-matches-its-type",
+   definition: "the check refusing a page that does not carry what its page type declares",
++  partSlugs: ["module/entry-reasons"],
+   code: "ts",
+   test: "ts",
+   testFixtures: "ts",
+@@ -71,31 +72,6 @@ export const pageMatchesItsType = {
+       statement:
+         "Where a page type sits is read from the index as the change leaves that page type.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A record's fields are judged against the record property that declares those fields.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An entry beside the page is judged against the fields its property declares.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A numbered entry file beside the page is judged as the first file is judged.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An entry's own id is not judged as a field of the shape declaring the entry.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An entry carrying no id refuses the page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An entry file that will not read refuses the page.",
+-    },
+     {
+       invariantKind: "gap",
+       statement: "A change carrying an entry file alone is an input to this check.",
