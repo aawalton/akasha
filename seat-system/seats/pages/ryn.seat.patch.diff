@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/cluster-checks/modules/remediation-doc/remediation-doc.module.ts b/checks/cluster-checks/modules/remediation-doc/remediation-doc.module.ts
+index 8bca861168d07fb2695943249dbf08c7692cb630..c4f795f59ef79b4988186c1654b82ec0a4986f87 100644
+--- a/checks/cluster-checks/modules/remediation-doc/remediation-doc.module.ts
++++ b/checks/cluster-checks/modules/remediation-doc/remediation-doc.module.ts
+@@ -31,7 +31,7 @@ export const remediationDoc = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Every one of these refusals is made where the code is read rather than where that code runs.",
++        "Every refusal here is made where the code is read rather than where that code runs.",
+     },
+     {
+       invariantKind: "departure",
