@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const routerContext = {
   id: "01a05b82-8b9a-7789-970b-0800cfa712ea",

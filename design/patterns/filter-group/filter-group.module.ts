@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const filterGroup = {
   id: "01a05c69-c061-72df-a9a9-0d74819af701",

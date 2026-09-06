@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const brandTab = {
   id: "01a05c95-5647-74d5-bc89-01014641faf2",

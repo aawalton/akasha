@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const authPageContent = {
   id: "01a05c69-c060-7a0b-82f0-afe275e7317a",

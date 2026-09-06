@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const columnLayout = {
   id: "01a05b82-8b98-70f6-91e7-a736a50fe914",

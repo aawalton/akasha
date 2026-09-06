@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const filterableList = {
   id: "01a05be9-d4c3-7f1a-8d3d-a5b97538bebd",

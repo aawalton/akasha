@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const appShellContext = {
   id: "01a05b82-8b98-7a53-8b16-b30c4ce182c1",

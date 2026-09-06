@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const componentsInputPanels = {
   id: "01a05c95-5648-760a-b017-7d6a4cfa55ee",

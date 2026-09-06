@@ -1,4 +1,4 @@
-import type { Stylesheet } from "@akasha/code-system/stylesheet"
+import type { Stylesheet } from "@akasha/code/stylesheet"
 
 export const themeBridge = {
   id: "01a05c95-564a-70ee-9a3c-9ed4117a6f44",

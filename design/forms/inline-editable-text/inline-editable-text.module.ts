@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inlineEditableText = {
   id: "01a05b7e-679a-7753-9966-3b28115fe355",

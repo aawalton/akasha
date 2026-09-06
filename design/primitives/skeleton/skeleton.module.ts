@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const skeleton = {
   id: "01a05be9-d4c4-79bb-9b53-4a122e985104",

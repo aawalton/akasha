@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const visualIdentity = {
   id: "01a05c95-5647-7631-b8b8-5c55ebcf336c",

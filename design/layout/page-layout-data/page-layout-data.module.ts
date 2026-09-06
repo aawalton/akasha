@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageLayoutData = {
   id: "01a05b82-8b99-72aa-848b-65772d7f24da",

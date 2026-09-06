@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const horizontalScrollFade = {
   id: "01a05be9-d4c3-7761-9057-a5585e74b510",

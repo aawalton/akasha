@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const componentsSortFilterPanels = {
   id: "01a05c95-5649-70a5-b6c2-8d753621defd",

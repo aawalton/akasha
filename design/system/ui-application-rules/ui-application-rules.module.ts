@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const uiApplicationRules = {
   id: "01a05c95-5647-73ec-a3df-672b8171687a",

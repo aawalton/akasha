@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const patternsUxLayoutPanels = {
   id: "01a05c95-5649-7c85-8c0e-fe42e07f3b72",

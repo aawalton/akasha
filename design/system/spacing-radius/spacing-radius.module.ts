@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const spacingRadius = {
   id: "01a05c95-5648-746b-a9ec-ee59481ca5be",

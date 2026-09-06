@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const loadMoreButton = {
   id: "01a05b82-8b98-7b7a-b9be-d0e388635464",

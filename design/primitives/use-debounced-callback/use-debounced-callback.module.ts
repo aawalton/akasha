@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useDebouncedCallback = {
   id: "01a05be9-d4c6-753d-b53e-122d76b1850e",

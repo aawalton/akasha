@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const searchButton = {
   id: "01a05c69-c063-7f98-887a-fe0225b48041",

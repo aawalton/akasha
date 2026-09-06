@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const spinner = {
   id: "01a05be9-d4c5-7cd7-adae-224bb014d0eb",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const sonner = {
   id: "01a05be9-d4c5-7ed3-b6c3-ba5422009604",

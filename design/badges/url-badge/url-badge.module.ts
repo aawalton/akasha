@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const urlBadge = {
   id: "01a05b55-a539-7bc7-91a9-d5b91de4f605",

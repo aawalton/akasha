@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const gemstoneColors = {
   id: "01a05c95-5647-7596-970d-ec53ab25f0df",

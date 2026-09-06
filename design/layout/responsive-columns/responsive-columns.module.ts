@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const responsiveColumns = {
   id: "01a05b82-8b99-7a6d-8635-7e3a3408d4da",

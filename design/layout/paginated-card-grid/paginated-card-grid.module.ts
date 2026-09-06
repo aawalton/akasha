@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const paginatedCardGrid = {
   id: "01a05b82-8b99-7d72-a281-3ee142f34027",

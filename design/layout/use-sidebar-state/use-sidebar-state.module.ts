@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useSidebarState = {
   id: "01a05b82-8b9a-7fea-9b8b-749c13238183",

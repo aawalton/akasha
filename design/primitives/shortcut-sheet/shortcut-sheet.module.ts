@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const shortcutSheet = {
   id: "01a05be9-d4c4-701c-b8d9-286a744f94ba",

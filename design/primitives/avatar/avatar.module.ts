@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const avatar = {
   id: "01a05be9-d4c2-7882-989a-df828c0e79b6",

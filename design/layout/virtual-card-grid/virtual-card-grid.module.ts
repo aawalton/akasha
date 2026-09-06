@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const virtualCardGrid = {
   id: "01a05b82-8b9a-7b53-945f-457a4646081d",

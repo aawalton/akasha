@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const balancedColumns = {
   id: "01a05b82-8b98-7547-8245-8bc1a83d0070",

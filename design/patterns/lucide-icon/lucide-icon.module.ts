@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const lucideIcon = {
   id: "01a05c51-8285-797d-8c57-8f2880ff6207",

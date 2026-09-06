@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useColumnCount = {
   id: "01a05b82-8b9a-72af-a4da-d3e3930a464d",

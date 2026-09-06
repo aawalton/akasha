@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const popoverTokens = {
   id: "01a05be9-d4c3-7afc-b1a4-933947a50064",

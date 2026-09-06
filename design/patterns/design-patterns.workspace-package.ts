@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const designPatterns = {
   id: "01a05c51-8287-7dba-82e4-64786876e805",

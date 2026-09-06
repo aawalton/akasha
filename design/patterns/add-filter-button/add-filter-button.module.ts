@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addFilterButton = {
   id: "01a05c69-c05f-7f3f-896f-2ed09e30ff65",

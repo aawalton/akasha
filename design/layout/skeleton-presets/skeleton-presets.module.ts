@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const skeletonPresets = {
   id: "01a05b82-8b9a-73a6-a2cb-0e962dd7458c",

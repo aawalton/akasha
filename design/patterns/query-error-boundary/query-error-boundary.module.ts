@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const queryErrorBoundary = {
   id: "01a061ed-653b-73ef-8556-969d798ee2a5",

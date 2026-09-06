@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const label = {
   id: "01a05be9-d4c3-75cb-b814-5714c24c3bc3",

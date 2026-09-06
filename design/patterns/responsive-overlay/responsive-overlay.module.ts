@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const responsiveOverlay = {
   id: "01a05c69-c063-71be-aa2b-40407173dfec",

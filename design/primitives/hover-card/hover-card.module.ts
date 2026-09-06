@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const hoverCard = {
   id: "01a05be9-d4c3-7581-bd42-0c010ed6c170",

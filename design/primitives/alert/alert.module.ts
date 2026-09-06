@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const alert = {
   id: "01a05be9-d4c2-79bc-818d-6b54ee9d769d",

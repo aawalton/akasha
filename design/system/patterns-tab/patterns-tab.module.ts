@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const patternsTab = {
   id: "01a05c95-5649-7e8a-b4e9-fa91b30eb9b6",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const backButton = {
   id: "01a05c51-8281-789b-95ee-a9c18f8a36e9",

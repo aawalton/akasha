@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useFilterPersistence = {
   id: "01a05c69-c066-7baf-aa6f-854857bae3fc",
