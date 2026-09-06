@@ -22,3 +22,14 @@ index e3faed1f5d3b92fef55c6dc63d7e4fcfb4eabde2..1265d5f2ad6aad950df92e0c936ddea8
    viewPlace: 0,
    layout: "cards",
    visibleProperties: ["color"],
+diff --git a/pages/views/pages/alanwalton-temper-tasks.view.ts b/pages/views/pages/alanwalton-temper-tasks.view.ts
+index 17874741f024b49ae0280dc9a6fb3c9364db22fb..78e3ba1adcb0f51e60e9e8049196760f4a73047e 100644
+--- a/pages/views/pages/alanwalton-temper-tasks.view.ts
++++ b/pages/views/pages/alanwalton-temper-tasks.view.ts
+@@ -6,5 +6,6 @@ export const alanwaltonTemperTasks = {
+   slug: "alanwalton-temper-tasks",
+   title: "Tasks",
+   navSlug: "alanwalton-temper",
++  pageType: "temper-task",
+   viewPlace: 0,
+ } as const satisfies View
