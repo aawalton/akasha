@@ -17,7 +17,7 @@ export const alertDomain = {
     },
     {
       invariantKind: "departure",
-      statement: "Some of the areas named here are yet to move into akasha.",
+      statement: "An area named here is not always a page in akasha yet.",
     },
     {
       invariantKind: "departure",
