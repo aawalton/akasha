@@ -1,18 +1,3 @@
-diff --git a/checks/cluster-checks/modules/retired/retired.module.code.ts b/checks/cluster-checks/modules/retired/retired.module.code.ts
-index f71f1327d0719b380178f87bfaaac05e4791b0c6..59a145253fb4468e6effaa148b595b5598bf4ac3 100644
---- a/checks/cluster-checks/modules/retired/retired.module.code.ts
-+++ b/checks/cluster-checks/modules/retired/retired.module.code.ts
-@@ -33,8 +33,8 @@ const SAID = [
-   "",
-   "    akasha audit          every check that runs at audit, over every file the",
-   "                          akasha folder holds",
--  "    akasha lint <path>    what the linter finds in the paths you name",
--  "    akasha test <path>    the tests beside the code you name",
-+  "    akasha lint --file-path <path>  what the linter finds in the paths you name",
-+  "    akasha test --file-path <path>  the tests in the one test file you name",
-   "",
-   "  This refusal is not a redirection. Not one rule held here stands as a code",
-   "  check: the names under checks/code-checks/pages/ and the names here do",
 diff --git a/command-system/commands/test/test.command.code.ts b/command-system/commands/test/test.command.code.ts
 index b43d652ca84cedcd78d6b9d991a9b040d344b0b7..11e40cca7cedd1acd018178379200a1d6d134e2d 100644
 --- a/command-system/commands/test/test.command.code.ts
