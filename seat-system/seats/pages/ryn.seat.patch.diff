@@ -1,0 +1,17 @@
+diff --git a/seat-system/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.ts b/seat-system/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.ts
+index 3a161bf233be3b0785fee52831227e512463a987..19b5719314efb594cf5e14e74cd477e2b9047b34 100644
+--- a/seat-system/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.ts
++++ b/seat-system/supervisor-iteration-outcome-db/supervisor-iteration-outcome-db.module.ts
+@@ -19,7 +19,11 @@ export const supervisorIterationOutcomeDb = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The timer is unrefed, so a call being waited on never holds the process open.",
++      statement: "The timer is unrefed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A call being waited on never holds the process open.",
+     },
+     {
+       invariantKind: "departure",
