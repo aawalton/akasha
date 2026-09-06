@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts b/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
+index 1cbd6e273edb0f043db17442a9a5811a87bb30a3..bf31473c53c96fdc5eba884345da11abfa5630bc 100644
+--- a/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
++++ b/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
+@@ -54,7 +54,7 @@ export const allAboutAlanTopic = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A topic sits under another topic or under none.",
++      statement: "A topic sits under another topic or under no topic.",
+     },
+     {
+       invariantKind: "departure",
