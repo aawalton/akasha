@@ -1,10 +1,16 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
-index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..856fb3b8f6a122106dc749a135ce563183adcf16 100644
+index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..5f59757bb53623136d29e973f08fe36b7dc8cb6a 100644
 --- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
 +++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
-@@ -135,12 +135,17 @@ test("a restatement raising a max is refused", () => {
+@@ -130,17 +130,22 @@ test("a restatement turning a property from one to many is refused", () => {
+   expect(said[0]?.reason).toContain("`many` turns from `false` to `true`")
+ })
+ 
+-test("a restatement raising a max is refused", () => {
++test("a restatement raising a max count is refused", () => {
+   const root = rooted()
    const said = restating(
      root,
      judged,
