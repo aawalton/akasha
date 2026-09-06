@@ -22,7 +22,7 @@ export const seatPageAkasha = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat given no parent name takes the one derived from its agent id.",
+      statement: "A seat given no parent name takes the name derived from its agent id.",
     },
     {
       invariantKind: "departure",
