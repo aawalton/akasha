@@ -10,11 +10,11 @@ export const addonDataWritesAlchemy = {
     {
       invariantKind: "departure",
       statement:
-        "The restore metrics are rendered from the item sweep's rows rather than a page type's.",
+        "The restore metrics are rendered from the item sweep's rows rather than from a page type's rows.",
     },
     {
       invariantKind: "departure",
-      statement: "A section states its writes rather than performing those writes.",
+      statement: "A section states its writes rather than performing a write.",
     },
   ],
 } as const satisfies Module
