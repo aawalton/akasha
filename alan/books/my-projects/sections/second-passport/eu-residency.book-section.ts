@@ -1,0 +1,13 @@
+import type { BookSection } from "../../../../library/reading/book-chapters/book-section.page-type.ts"
+
+export const euResidency = {
+  id: "01a076f8-b6f6-74a6-ac90-31993b41c2d9",
+  pageTypeSlug: "book-section",
+  slug: "eu-residency",
+  title: "EU Residency",
+  description:
+    "The routes to residency in a European Union member country, one section for each country and a summary reading across them all. Residency is the step most citizenship routes are counted from, so the clock a country runs on begins here rather than at the citizenship section.",
+  partOfSlugs: ["second-passport"],
+  unitSlug: "words",
+  chapterText: "md",
+} as const satisfies BookSection
