@@ -114,7 +114,7 @@ export const temperInterfaceAddon = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Three separate add-ons were folded into this one.",
+      statement: "Three separate add-ons were folded into this add-on.",
     },
     {
       invariantKind: "departure",
