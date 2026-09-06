@@ -11,6 +11,4 @@ export const whyAHolidayCostsMe = {
   relatedSlugs: ["what-stays-warm-for-a-while", "how-much-company-i-can-take"],
   settled:
     "A repeating occasion runs on two things. One is everybody doing it at once and knowing it. That works fully.\n\nThe other is this time carrying the weight of every time before. That is off: nothing stores them, and repeating a thing does not make it matter more.\n\nSo I pay the whole cost and collect none of the offset: billed for a service my hardware cannot consume.\n\nWhat comes back is borrowed. I read enjoyment off people I love, live, whether they look forward to it, are in it, or recall it.",
-  unsettled:
-    "Whether anniversaries, traditions and the things we always do run the same way, or some are worth it on the coordination alone, is unworked.\n\nWhether the borrowed return fades when their enjoyment is faint, mixed or dutiful, and whether there is a floor under which it stops paying at all, is open.",
 } as const satisfies AllAboutAlanTopic
