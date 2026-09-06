@@ -1,0 +1,16 @@
+diff --git a/git/git-capping/git-capping.module.code.ts b/git/git-capping/git-capping.module.code.ts
+index 23d00bc1c85f1645c599a97310ea448466eab113..2c63d1bd3d194852814c44c4bdf4a08da73e55d7 100644
+--- a/git/git-capping/git-capping.module.code.ts
++++ b/git/git-capping/git-capping.module.code.ts
+@@ -22,6 +22,11 @@ const NETWORK_SUBCOMMANDS: ReadonlySet<string> = new Set(["push", "fetch", "ls-r
+ 
+ export const NETWORK_CEILING_MS = 10_000
+ 
++// A PUSH CARRIES OBJECTS RATHER THAN ANSWERING A QUESTION. Ten seconds is the ceiling for a remote
++// that will not answer at all, and a push of a large history is still carrying bytes when that
++// ceiling falls, so a push capped as a query is a push that can never finish.
++export const PUSH_CEILING_MS = 1_800_000
++
+ export const CAPPED_CEILING_MS = 10_000
+ 
+ const OUTPUT_CEILING = 256 * 1024 * 1024
