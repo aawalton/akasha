@@ -35,6 +35,20 @@ index 15233a426d3edd5fa82390ad37ecef089490d480..b5956a14523c4b4bac0551b92c9fffef
  export function akashaValueOf(agentId: string, key: string): unknown {
    const where = CARRIED[key]
    if (where === undefined) return undefined
+diff --git a/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts b/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
+index 28946a70a034fb58215f8d31a18cc82c70023e22..f89f018de8ba04b83a4485dbdec86b2f25b8fc19 100644
+--- a/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
++++ b/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
+@@ -36,5 +36,9 @@ export const seatAkashaBeside = {
+       statement:
+         "The moment beside a seat is the modification time of the file holding the value beside that seat.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An empty text beside a seat is answered as no value rather than as an empty one.",
++    },
+   ],
+ } as const satisfies Module
 diff --git a/seat-system/seats/properties/mode.text-property.ts b/seat-system/seats/properties/mode.text-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..a778a898bbb5b11ec49e0abe1b6c242fd1117e45
