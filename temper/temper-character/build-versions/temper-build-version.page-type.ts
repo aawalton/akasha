@@ -43,7 +43,7 @@ export const temperBuildVersion = {
     },
     {
       invariantKind: "departure",
-      statement: "A version number rises by one for each version one build takes.",
+      statement: "Each version a build takes carries the next version number.",
     },
     {
       invariantKind: "departure",
