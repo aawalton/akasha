@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/language-design/lua-compiler/language-extensions/language-extensions.type-declaration.ts b/language-design/lua-compiler/language-extensions/language-extensions.type-declaration.ts
+index 5961a66aac5ea6175cd8bf1376df0331e7a6bc1f..4c4a2b1ab7e1e1ec92082c2336b796e0123363b3 100644
+--- a/language-design/lua-compiler/language-extensions/language-extensions.type-declaration.ts
++++ b/language-design/lua-compiler/language-extensions/language-extensions.type-declaration.ts
+@@ -9,7 +9,7 @@ export const languageExtensions = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Each name here is one the compiler gives a meaning of its own at a call site.",
++      statement: "Each name here is a name the compiler gives a meaning of its own at a call site.",
+     },
+   ],
+ } as const satisfies TypeDeclaration
