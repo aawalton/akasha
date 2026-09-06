@@ -37,7 +37,11 @@ export const tracking = {
     },
     {
       invariantKind: "departure",
-      statement: "This reads the arguments, and the function it calls knows no command line.",
+      statement: "This command reads the arguments.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The function this command calls knows no command line.",
     },
     {
       invariantKind: "departure",
