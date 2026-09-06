@@ -33,7 +33,7 @@ export const exerciseToday = {
     },
     {
       invariantKind: "departure",
-      statement: "The session answered is the newest one started on that date.",
+      statement: "The session answered is the newest session started on that date.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const exerciseToday = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here starts, finishes or changes a session.",
+      statement: "Nothing here starts or finishes or changes a session.",
     },
   ],
 } as const satisfies Command
