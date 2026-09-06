@@ -1,4 +1,4 @@
-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
 import { step } from "@akasha/workflow-language/step"
 import { verifyRolloutCommands } from "@akasha/workflow-language/verify-rollout"
 import { workflow } from "@akasha/workflow-language/workflow"
@@ -42,11 +42,11 @@ export default workflow("registry", {
       },
     }),
     {
-      ...sopsDecryptApply({
+      ...secretPlaceApply({
         name: "registry-apply-tls",
         namespace: "registry",
-        secretFile:
-          "service-system/cluster-services/pages/registry/registry-tls.k8s-secret.sops.yaml",
+        resource: "registry-tls",
+        type: "kubernetes.io/tls",
       }),
       dependsOn: ["registry-apply"],
     },
