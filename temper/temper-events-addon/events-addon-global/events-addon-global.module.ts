@@ -10,7 +10,7 @@ export const eventsAddonGlobal = {
     {
       invariantKind: "departure",
       statement:
-        "Another add-on reaches this one through the global rather than through an import.",
+        "Another add-on reaches this add-on through the global rather than through an import.",
     },
     {
       invariantKind: "departure",
