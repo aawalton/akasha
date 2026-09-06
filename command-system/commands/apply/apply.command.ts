@@ -19,6 +19,7 @@ export const apply = {
     "the folded edits leave the file holding them once the patch carries the edits.",
     "an apply is the apply `akasha patch apply` runs, so the checks, the commit and the record are the same.",
     "a fold the patch refuses leaves the edits where the edits are.",
+    "an apply that refuses puts the fold back, so the edits are kept for a change to mend.",
     "an apply over no edits applies the patch the agent already holds.",
     "--break-the-glass applies with no check run, and the reason is said in the commit.",
   ],
@@ -77,8 +78,24 @@ export const apply = {
         "The edits fold under one running rather than the running each change's page states.",
     },
     {
-      invariantKind: "gap",
-      statement: "An apply over edits alone still commits the patch file before landing.",
+      invariantKind: "departure",
+      statement: "A fold and the apply following that fold are one act.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply that refuses puts the folded edits back where the fold found the edits.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The patch is put back as that patch stood before the fold.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether the apply landed is read off the patch rather than off the refusals.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply that landed leaves the fold standing.",
     },
   ],
 } as const satisfies Command

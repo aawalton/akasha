@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join } from "node:path"
-import { dropPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
+import { dropPatch, keepPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import {
   clashing,
@@ -36,6 +36,8 @@ const DRAFTED = "is drafted into; the change it draws is not landed"
 export const APPLIED = "goes; the patch it held is applied"
 
 export const DROPPED = "goes; the patch it held is dropped"
+
+export const UNFOLDED = "is put back; the fold the apply made is undone"
 
 const NO_CHECKS_AT = "runsChecks: false"
 
@@ -109,6 +111,25 @@ export function droppedPatch(root: string, page: string, why: string): boolean {
   dropPatch(root, page)
   dropBlobs(root, at)
   committedPatch(root, at, why)
+  return true
+}
+
+// A caller that folds into the patch and then lands the patch leaves work in a patch no change
+// reaches where the landing refuses between the two, so the fold is put back rather than left. The
+// bytes handed in are the bytes the fold found, because a patch worked out again would merge a
+// second time what the fold already merged. The fold committed the patch the fold wrote, so putting
+// that patch back is a commit of its own rather than a file written over.
+export function putBack(root: string, page: string, patch: string | null): boolean {
+  const at = patchAt(page)
+  if (at === null) return false
+  if (patch === null) {
+    dropPatch(root, page)
+    dropBlobs(root, at)
+  } else {
+    keepBlobs(root, at, patch)
+    keepPatch(root, page, patch)
+  }
+  committedPatch(root, at, UNFOLDED)
   return true
 }
 

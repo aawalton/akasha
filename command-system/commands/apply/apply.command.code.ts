@@ -1,3 +1,4 @@
+import { patchIn } from "@akasha/agents/patch-keeping"
 import { formattedBody } from "@akasha/code/code-format"
 import { agentPathOf } from "@akasha/context/warranting"
 import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
@@ -9,7 +10,7 @@ import {
 import { writtenAgain } from "../../address-mapping/address-mapping.module.code.ts"
 import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { type Draft, drafted, type Running } from "../../drafting/drafting.module.code.ts"
+import { type Draft, drafted, putBack, type Running } from "../../drafting/drafting.module.code.ts"
 import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
 import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
 import { editsFor } from "../change/change.command.code.ts"
@@ -28,8 +29,10 @@ const NO_PAGE = "this call names no agent whose page the edits would be kept bes
 
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: false }
 
+export type Unfold = { readonly patch: string | null; readonly rows: readonly Edit[] }
+
 export type Folded =
-  | { readonly folded: readonly string[] }
+  | { readonly folded: readonly string[]; readonly unfold: Unfold | null }
   | { readonly refusals: readonly string[] }
 
 function bytesOf(body: string | null): Uint8Array | null {
@@ -63,8 +66,11 @@ export function draftsOf(edits: readonly Edit[]): readonly Draft[] {
   return held
 }
 
+// What the fold found is answered beside what the fold made, so a caller landing the patch after
+// this can put the fold back where the landing refuses. A fold that made nothing answers no unfold,
+// because putting back a patch no fold wrote would take away the patch the agent already held.
 export function folding(root: string, page: string): Folded {
-  let answer: Folded = { folded: [] }
+  let answer: Folded = { folded: [], unfold: null }
   const kept = keptEdits(root, page, (had) => {
     if (had.length === 0) return had
     const held = had.filter((one) => !writtenAgain(one.path))
@@ -74,12 +80,16 @@ export function folding(root: string, page: string): Folded {
       answer = { refusals: [said.refused] }
       return had
     }
+    const was = patchIn(root, page)
     const took = drafted(root, page, draftsOf(formattedEdits(root, said.edits)), CHANGED)
     if ("why" in took) {
       answer = { refusals: [took.why] }
       return had
     }
-    answer = { folded: said.edits.map((one) => one.path).sort() }
+    answer = {
+      folded: said.edits.map((one) => one.path).sort(),
+      unfold: { patch: was, rows: had },
+    }
     return null
   })
   return "why" in kept ? { refusals: [kept.why] } : answer
@@ -101,6 +111,18 @@ async function refusedBefore(root: string, page: string): Promise<readonly strin
   return said.map((one) => `${one.path} — ${one.reason}`)
 }
 
+// The fold and the apply are one act, so an apply that refuses puts the edits back where the fold
+// found them, for a change to mend rather than a hand. Whether the apply landed is read off the
+// patch rather than off the refusals, because an apply that lands and then refuses something
+// carries refusals too, and the patch it landed is gone. A row appended while the apply ran follows
+// the rows put back, which is the order the rows were appended in.
+export function undone(root: string, page: string, unfold: Unfold): string | null {
+  if (patchIn(root, page) === null) return null
+  putBack(root, page, unfold.patch)
+  keptEdits(root, page, (had) => [...unfold.rows, ...had])
+  return "the fold is undone — the edits are kept where the edits were, for a change to mend"
+}
+
 export async function apply(argv: readonly string[], given: Given): Promise<Answer> {
   const unknown = unknownIn(argv, APPLYING, BARE)
   if (unknown.length > 0) return mistaking(unknown)
@@ -113,6 +135,8 @@ export async function apply(argv: readonly string[], given: Given): Promise<Answ
   const said = folding(given.root, page)
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
   const answered = await applying(given, page, argv)
+  const put = said.unfold === null ? null : undone(given.root, page, said.unfold)
+  if (put !== null) return { report: [put], refusals: answered.refusals, code: answered.code }
   return {
     report: [...said.folded.map((one) => `folded ${one} into the patch`), ...answered.report],
     refusals: answered.refusals,

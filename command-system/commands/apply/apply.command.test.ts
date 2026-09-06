@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { patchIn } from "@akasha/agents/patch-keeping"
+import { dropPatch, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import {
   taking,
@@ -13,7 +13,7 @@ import { drafted } from "../../drafting/drafting.module.code.ts"
 import { blobsIn } from "../../patching/patching.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { writing as putting } from "../../scratching/scratching.module.test-fixtures.ts"
-import { draftsOf, folding } from "./apply.command.code.ts"
+import { draftsOf, folding, undone } from "./apply.command.code.ts"
 
 const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
 
@@ -50,9 +50,10 @@ function carried(root: string): readonly string[] {
 
 test("an edit is drafted into the patch and the rows it came from go", async () => {
   const root = await repo()
-  appendEdits(root, PAGE, [taking(ONE, WAS)])
+  const row = taking(ONE, WAS)
+  appendEdits(root, PAGE, [row])
 
-  expect(folding(root, PAGE)).toEqual({ folded: [ONE] })
+  expect(folding(root, PAGE)).toEqual({ folded: [ONE], unfold: { patch: null, rows: [row] } })
 
   expect(editsIn(root, PAGE)).toEqual({ rows: [] })
   expect(carried(root)).toEqual([ONE])
@@ -61,9 +62,11 @@ test("an edit is drafted into the patch and the rows it came from go", async () 
 test("a patch the agent already holds takes the folded edits in", async () => {
   const root = await repo()
   drafted(root, PAGE, [{ path: TWO, was: null, body: BYTES.encode(NOW) }])
-  appendEdits(root, PAGE, [writing(ONE, WAS, NOW)])
+  const was = patchIn(root, PAGE)
+  const row = writing(ONE, WAS, NOW)
+  appendEdits(root, PAGE, [row])
 
-  expect(folding(root, PAGE)).toEqual({ folded: [ONE] })
+  expect(folding(root, PAGE)).toEqual({ folded: [ONE], unfold: { patch: was, rows: [row] } })
 
   expect(carried(root)).toEqual([ONE, TWO])
 })
@@ -72,9 +75,51 @@ test("a fold over no row leaves the patch as that patch is", async () => {
   const root = await repo()
   drafted(root, PAGE, [{ path: TWO, was: null, body: BYTES.encode(NOW) }])
 
-  expect(folding(root, PAGE)).toEqual({ folded: [] })
+  expect(folding(root, PAGE)).toEqual({ folded: [], unfold: null })
 
   expect(carried(root)).toEqual([TWO])
+})
+
+test("a fold the apply refuses is undone, and the patch and the rows come back", async () => {
+  const root = await repo()
+  drafted(root, PAGE, [{ path: TWO, was: null, body: BYTES.encode(NOW) }])
+  const was = patchIn(root, PAGE)
+  const row = writing(ONE, WAS, NOW)
+  appendEdits(root, PAGE, [row])
+  const said = folding(root, PAGE)
+  if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
+
+  expect(undone(root, PAGE, said.unfold)).not.toBe(null)
+
+  expect(patchIn(root, PAGE)).toEqual(was)
+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+  expect(carried(root)).toEqual([TWO])
+})
+
+test("a fold that made the patch is undone by taking the patch away", async () => {
+  const root = await repo()
+  const row = taking(ONE, WAS)
+  appendEdits(root, PAGE, [row])
+  const said = folding(root, PAGE)
+  if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
+
+  undone(root, PAGE, said.unfold)
+
+  expect(patchIn(root, PAGE)).toBe(null)
+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+})
+
+test("a fold the apply landed is left where the apply left it", async () => {
+  const root = await repo()
+  const row = taking(ONE, WAS)
+  appendEdits(root, PAGE, [row])
+  const said = folding(root, PAGE)
+  if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
+  dropPatch(root, PAGE)
+
+  expect(undone(root, PAGE, said.unfold)).toBe(null)
+
+  expect(editsIn(root, PAGE)).toEqual({ rows: [] })
 })
 
 test("two rows for one path the later did not follow refuse the fold and leave the rows", async () => {

@@ -216,6 +216,22 @@ export const drafting = {
       statement: "A commit that will not land leaves the draft as the draft is.",
     },
     {
+      invariantKind: "departure",
+      statement: "A patch is put back as the bytes a caller held rather than worked out again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The blobs the bytes put back name are kept again with those bytes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Putting a patch back is committed as writing that patch is committed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Putting back no patch takes the patch away.",
+    },
+    {
       invariantKind: "absence",
       statement: "No check judges the body of a patch file.",
     },
