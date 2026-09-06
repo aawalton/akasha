@@ -1,3 +1,23 @@
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index a41b236bb5bb2f2dad085073bb655b2a59ca26ad..0844fff94182a275bec32c2f329ad4ffcc641349 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -27,6 +27,15 @@ export const change = {
+     "page-type/change-kind",
+     "workspace-package/workflow-language",
+     "boolean-property/is-command",
++    "change/rename-code-token",
++    "change/rename-export",
++    "change/rename-local-variable",
++    "change/rename-page",
++    "change/rename-page-slug",
++    "change/rename-path",
++    "change/rename-property-signature",
++    "change/repoint-imports",
++    "change/respell-export",
+     "change/restate-value",
+   ],
+   properties: [
 diff --git a/changes/pages/rename-code-token/rename-code-token.change.code.ts b/changes/pages/rename-code-token/rename-code-token.change.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..de7ed33916fa5d879ad16ccd24df5cf096e9593e
