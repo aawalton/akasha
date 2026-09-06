@@ -18,6 +18,7 @@ export const selah = {
     "A warm, low-pitched woman's voice, calm and unhurried, intimate and gentle, with a hushed reverent stillness; speaks softly and close, with quiet steadiness.",
   voiceReferenceSha256: "1d9f721d47a2254350d563e795e4d6138e59c179d15ac9cd24b8d3cdf2cebcc8",
   cover: "/api/image/019f324d-657c-7667-ae9c-a4d0e2557563",
+  desktopWallpaper: "png",
   mobileWallpaper: "png",
   greenDayPoints: 15,
   history:
