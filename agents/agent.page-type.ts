@@ -2,12 +2,14 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { AssignmentSlug } from "../seat-system/seats/properties/assignment-slug.one-of-property.ts"
 import type { PrincipalSeatName } from "../seat-system/seats/properties/principal-seat-name.relation-property.ts"
+import type { Edits } from "./properties/edits.file-property.ts"
 import type { Patch } from "./properties/patch.file-property.ts"
 
 export type Agent = Page & {
   assignmentSlug: AssignmentSlug
   principalSeatName?: PrincipalSeatName
   patch?: Patch
+  edits?: Edits
 }
 
 export const agent = {
@@ -19,6 +21,7 @@ export const agent = {
   extendsSlug: ["page-type/page"],
   mortal: true,
   partSlugs: [
+    "file-property/edits",
     "file-property/patch",
     "one-of-property/assignment-slug",
     "relation-property/principal-seat-name",
@@ -32,6 +35,7 @@ export const agent = {
     },
     { pagePropertySlug: "relation-property/principal-seat-name", required: false, many: false },
     { pagePropertySlug: "file-property/patch", required: false, many: false, default: "diff" },
+    { pagePropertySlug: "file-property/edits", required: false, many: false, default: "jsonl" },
   ],
   invariants: [
     {
