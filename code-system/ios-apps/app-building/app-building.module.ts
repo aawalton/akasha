@@ -15,7 +15,7 @@ export const appBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "The program stating a name of its own is the one shipped inside the app.",
+      statement: "The program stating a name of its own is the program shipped inside the app.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const appBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "An app naming one half of its staging and not the other is refused.",
+      statement: "An app naming part of its staging is refused.",
     },
     {
       invariantKind: "absence",
