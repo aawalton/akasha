@@ -16,7 +16,7 @@ export const partOf = {
     },
     {
       invariantKind: "departure",
-      statement: "A page part of more than one page is filed under each of those pages.",
+      statement: "A page part of more than one page is filed under every such page.",
     },
     {
       invariantKind: "departure",
