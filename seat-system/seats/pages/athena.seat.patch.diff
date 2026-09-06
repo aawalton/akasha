@@ -17,6 +17,18 @@ index 30fee7537d48d4841d1d791988bd9bb039e89395..49abd63c30c5fd87c5b9a7a7b3516b6a
    columns.record(seats)
    const placed = seats.filter((s) => s.column !== undefined).length
    recordSweep(feature, { ...counted, boundMs: PROCESS_ID_TIMEOUT_MS, ms, trigger })
+diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
+index c9169759c32932c812f415695d1a66bde0826bc4..242c0ba614217354d89f124c455ebb138873440c 100644
+--- a/editor-extension/editor-extension.workspace-package.ts
++++ b/editor-extension/editor-extension.workspace-package.ts
+@@ -32,7 +32,6 @@ export const editorExtension = {
+     "module/window-identity",
+     "module/activation",
+     "module/group-stoplights",
+-    "module/terminal-lookup",
+     "module/harness-call",
+     "module/terminal-pids",
+     "module/subagent-core",
 diff --git a/editor-extension/editor-layout-panel/editor-layout-panel.module.code.ts b/editor-extension/editor-layout-panel/editor-layout-panel.module.code.ts
 index 509ce8a91afe0c0686d2e7cf209db84074dbf321..7e9acceb391e28970e9ce3bd864b50d6ed9f73f7 100644
 --- a/editor-extension/editor-layout-panel/editor-layout-panel.module.code.ts
@@ -38,6 +50,18 @@ index 509ce8a91afe0c0686d2e7cf209db84074dbf321..7e9acceb391e28970e9ce3bd864b50d6
      recordSweep(FEATURE, { ...counted, boundMs: PROCESS_ID_TIMEOUT_MS, ms, trigger: "write" })
      for (const seat of seats) {
        seatByTerminal.set(seat.terminal, seat.name)
+diff --git a/editor-extension/package.json b/editor-extension/package.json
+index 9633db6a2414e255a5994f9ef3015e387947218d..87d138d2509a6577aa9b48a025599e8293212002 100644
+--- a/editor-extension/package.json
++++ b/editor-extension/package.json
+@@ -50,7 +50,6 @@
+     "./subagent-core": "./subagent-core/subagent-core.module.code.ts",
+     "./subagent-reading": "./subagent-reading/subagent-reading.module.code.ts",
+     "./tail-fold": "./tail-fold/tail-fold.module.code.ts",
+-    "./terminal-lookup": "./terminal-lookup/terminal-lookup.module.code.ts",
+     "./terminal-marks": "./terminal-marks/terminal-marks.module.code.ts",
+     "./terminal-pids": "./terminal-pids/terminal-pids.module.code.ts",
+     "./terminal-renaming": "./terminal-renaming/terminal-renaming.module.code.ts",
 diff --git a/editor-extension/seat-acts/seat-acts.module.code.ts b/editor-extension/seat-acts/seat-acts.module.code.ts
 index 0ab8b4c4a1e023e9317ebb586ab90ec581329b91..df55bfe5eb2153a8cfa1166d124d4422a10cf2c7 100644
 --- a/editor-extension/seat-acts/seat-acts.module.code.ts
@@ -215,3 +239,207 @@ index 11371b42e9347e7283f30eb3adacd582a87b5c4e..9e82eab4fcb6086668c7d24e36c1a29a
 -  return { seatNames, psRows, tmuxClients }
 +  return found
  }
+diff --git a/editor-extension/terminal-lookup/terminal-lookup.module.code.ts b/editor-extension/terminal-lookup/terminal-lookup.module.code.ts
+deleted file mode 100644
+index 9915434d3eb16bd0a61affb177026f71d2f9ab91..0000000000000000000000000000000000000000
+--- a/editor-extension/terminal-lookup/terminal-lookup.module.code.ts
++++ /dev/null
+@@ -1,127 +0,0 @@
+-import { execFile } from "node:child_process"
+-import { promisify } from "node:util"
+-
+-const execFileP = promisify(execFile)
+-
+-const MAX_TREE_HOPS = 20
+-
+-export type PsRow = { readonly pid: number; readonly ppid: number; readonly comm: string }
+-
+-const PS_TIMEOUT_MS = 5_000
+-
+-export async function loadPsRows(): Promise<readonly PsRow[]> {
+-  let stdout: string
+-  try {
+-    ;({ stdout } = await execFileP("ps", ["-Ao", "pid=,ppid=,comm="], {
+-      timeout: PS_TIMEOUT_MS,
+-    }))
+-  } catch {
+-    return []
+-  }
+-  const rows: PsRow[] = []
+-  for (const line of stdout.split("\n")) {
+-    const trimmed = line.trim()
+-    if (trimmed === "") {
+-      continue
+-    }
+-    const firstSep = trimmed.indexOf(" ")
+-    if (firstSep < 0) {
+-      continue
+-    }
+-    const pidStr = trimmed.slice(0, firstSep)
+-    const rest = trimmed.slice(firstSep).trimStart()
+-    const secondSep = rest.indexOf(" ")
+-    if (secondSep < 0) {
+-      continue
+-    }
+-    const ppidStr = rest.slice(0, secondSep)
+-    const comm = rest.slice(secondSep).trim()
+-    const pid = Number(pidStr)
+-    const ppid = Number(ppidStr)
+-    if (!Number.isFinite(pid) || !Number.isFinite(ppid)) {
+-      continue
+-    }
+-    rows.push({ pid, ppid, comm })
+-  }
+-  return rows
+-}
+-
+-export function findDescendant(
+-  shellPid: number,
+-  psRows: readonly PsRow[],
+-  candidatePids: ReadonlySet<number>
+-): number | undefined {
+-  if (candidatePids.size === 0) {
+-    return undefined
+-  }
+-  const byPid = new Map(psRows.map((r) => [r.pid, r]))
+-  for (const r of psRows) {
+-    if (!candidatePids.has(r.pid)) {
+-      continue
+-    }
+-    let cur: PsRow | undefined = r
+-    let hops = 0
+-    while (cur !== undefined && hops++ < MAX_TREE_HOPS) {
+-      if (cur.ppid === shellPid) {
+-        return r.pid
+-      }
+-      cur = byPid.get(cur.ppid)
+-    }
+-  }
+-  return undefined
+-}
+-
+-export type TmuxClient = { readonly pid: number; readonly session: string }
+-
+-export async function loadTmuxClients(): Promise<readonly TmuxClient[]> {
+-  let stdout: string
+-  try {
+-    ;({ stdout } = await execFileP(
+-      "tmux",
+-      ["list-clients", "-F", "#{client_pid} #{session_name}"],
+-      {
+-        timeout: PS_TIMEOUT_MS,
+-      }
+-    ))
+-  } catch {
+-    return []
+-  }
+-  const clients: TmuxClient[] = []
+-  for (const line of stdout.split("\n")) {
+-    const trimmed = line.trim()
+-    if (trimmed === "") {
+-      continue
+-    }
+-    const sep = trimmed.indexOf(" ")
+-    if (sep < 0) {
+-      continue
+-    }
+-    const pid = Number(trimmed.slice(0, sep))
+-    const session = trimmed.slice(sep + 1).trim()
+-    if (!Number.isFinite(pid) || session === "") {
+-      continue
+-    }
+-    clients.push({ pid, session })
+-  }
+-  return clients
+-}
+-
+-export function seatNameForShellPid(
+-  shellPid: number,
+-  seatNames: ReadonlySet<string>,
+-  psRows: readonly PsRow[],
+-  tmuxClients: readonly TmuxClient[] = []
+-): string | undefined {
+-  if (tmuxClients.length === 0) {
+-    return undefined
+-  }
+-  const clientPid = findDescendant(shellPid, psRows, new Set(tmuxClients.map((c) => c.pid)))
+-  if (clientPid === undefined) {
+-    return undefined
+-  }
+-  const session = tmuxClients.find((c) => c.pid === clientPid)?.session
+-  if (session === undefined) {
+-    return undefined
+-  }
+-  return seatNames.has(session) ? session : undefined
+-}
+diff --git a/editor-extension/terminal-lookup/terminal-lookup.module.ts b/editor-extension/terminal-lookup/terminal-lookup.module.ts
+deleted file mode 100644
+index 4b9cfcb081ebde9b627c8a2d7a2a4ce291eecd89..0000000000000000000000000000000000000000
+--- a/editor-extension/terminal-lookup/terminal-lookup.module.ts
++++ /dev/null
+@@ -1,65 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const terminalLookup = {
+-  id: "01a064e4-627c-7dcd-9bdb-3870ddce4d21",
+-  pageTypeSlug: "module",
+-  slug: "terminal-lookup",
+-  definition: "the seat name a shell reaches through the tmux client running under that shell",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A shell's seat is the tmux session of the tmux client running under that shell.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A client runs under a shell where the parent chain from that client reaches the shell.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The parent chain is walked twenty hops at most.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A session that is no seat name is no seat.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A lookup given no tmux client answers with no seat before reading a parent chain.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A command name may hold spaces so a process row is parted at two spaces alone.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A process row whose pid or parent pid is no finite number is dropped.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A tmux row whose session is empty is dropped.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A `ps` call that fails answers with no process rows.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A `tmux` call that fails answers with no clients.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A `ps` or `tmux` call is given five seconds.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here knows which seats exist.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here knows which shell a terminal runs.",
+-    },
+-  ],
+-} as const satisfies Module
