@@ -16,7 +16,7 @@ export const cards = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A card here is one a patron lets a player upgrade.",
+      statement: "A card here is a card a patron lets a player upgrade.",
     },
   ],
 } as const satisfies PagePropertyEntry
