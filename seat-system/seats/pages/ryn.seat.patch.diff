@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/games/clear-the-world/clear-the-world.domain.ts b/games/clear-the-world/clear-the-world.domain.ts
+index 05be02137a653fb7a6e0413afc2034efafea5b91..668d3b77df18c0b80aeec6684cd8b77a594b6124 100644
+--- a/games/clear-the-world/clear-the-world.domain.ts
++++ b/games/clear-the-world/clear-the-world.domain.ts
+@@ -9,7 +9,7 @@ export const clearTheWorld = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every player clears the one shared minefield.",
++      statement: "Every player clears a single shared minefield.",
+     },
+   ],
+ } as const satisfies Domain
