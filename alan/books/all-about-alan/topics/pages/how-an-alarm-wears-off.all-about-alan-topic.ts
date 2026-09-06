@@ -9,6 +9,4 @@ export const howAnAlarmWearsOff = {
   parentSlugs: ["safety-bar"],
   settled:
     "A bad thing landing below my safety line proves the alarm wrong. Above it, it proves the alarm right.\n\nOne band is catastrophic whatever my level, and no level I could reach clears it.",
-  unsettled:
-    "The truly-catastrophic band is described as fixed, cleared by no level I could reach. Does it drift down as the centre rises, so fewer things count as catastrophic, or does it stay put?\n\nLow enough for long enough names a hold time without quantifying it. How many clean repetitions, over how long, before my nervous system marks the cue safe?\n\nFour things govern whether a response fades: not habituating, noticing change, novelty wearing off, extinction. Whether that is four dials or one is open.",
 } as const satisfies AllAboutAlanTopic
