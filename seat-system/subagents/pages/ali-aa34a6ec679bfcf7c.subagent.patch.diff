@@ -3598,7 +3598,7 @@ index 0000000000000000000000000000000000000000..ce042cd0027e06e9425b11a6544058b2
 +}
 diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.computed-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.computed-property.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..06b184ec836d69db3cfa8df9e0cbf6bd4a3a64bd
+index 0000000000000000000000000000000000000000..50f69f25ad3438309292098bbdea303ac10eb95a
 --- /dev/null
 +++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.computed-property.ts
 @@ -0,0 +1,27 @@
@@ -3625,7 +3625,7 @@ index 0000000000000000000000000000000000000000..06b184ec836d69db3cfa8df9e0cbf6bd
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A topic no coverage is worked out for counts nought in the mean above it.",
++      statement: "A child no coverage is worked out for counts nought in the mean of the children.",
 +    },
 +  ],
 +} as const satisfies ComputedProperty
