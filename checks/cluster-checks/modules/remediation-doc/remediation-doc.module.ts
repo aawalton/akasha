@@ -14,7 +14,7 @@ export const remediationDoc = {
     {
       invariantKind: "departure",
       statement:
-        "A path is refused unless that path sits under apps, docs, infra, scripts or tools.",
+        "A path is refused unless that path sits under apps or docs or infra or scripts or tools.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const remediationDoc = {
     {
       invariantKind: "departure",
       statement:
-        "Every one of these refusals is made where the code is read rather than where that code runs.",
+        "Every refusal here is made where the code is read rather than where that code runs.",
     },
     {
       invariantKind: "departure",
