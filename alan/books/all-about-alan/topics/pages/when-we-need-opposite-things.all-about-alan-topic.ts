@@ -9,6 +9,4 @@ export const whenWeNeedOppositeThings = {
   parentSlugs: ["living-with-jen"],
   settled:
     "Light steadies her and drains me. I defer to her by default and override only when I am really not doing well.\n\nThe cost is paid the whole time the arrangement runs, not once when we set it.",
-  unsettled:
-    "Whether sound, temperature and scheduling settle the same way, deferring by default with an override underneath, is unprobed.",
 } as const satisfies AllAboutAlanTopic
