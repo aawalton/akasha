@@ -1,3 +1,15 @@
+diff --git a/checks/modules/judging/judging.module.ts b/checks/modules/judging/judging.module.ts
+index afcd7a7619970f36cc99fe058e55f5be0cf2ca66..7e8f27d82a12c80730acbc74e31f258694cba203 100644
+--- a/checks/modules/judging/judging.module.ts
++++ b/checks/modules/judging/judging.module.ts
+@@ -6,6 +6,7 @@ export const judging = {
+   slug: "judging",
+   definition: "the refusals a check answers with",
+   code: "ts",
++  types: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/checks/modules/judging/judging.module.types.ts b/checks/modules/judging/judging.module.types.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..fd98e9343c66452c65633616c7edbe17429c8bbb
