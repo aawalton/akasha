@@ -72,7 +72,7 @@ export const iosProgram = {
     },
     {
       invariantKind: "departure",
-      statement: "A component named by more than one program is a shared one.",
+      statement: "A component named by more than one program is a shared component.",
     },
     {
       invariantKind: "constraint",
