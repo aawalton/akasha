@@ -1,3 +1,20 @@
+diff --git a/changes/partial/change-partial.page-type.ts b/changes/partial/change-partial.page-type.ts
+index de3d1ed9a12e3bdeac4be6b41492f4d60652c160..565c028911326f81209f55753bd5430a9924fef6 100644
+--- a/changes/partial/change-partial.page-type.ts
++++ b/changes/partial/change-partial.page-type.ts
+@@ -9,7 +9,11 @@ export const changePartial = {
+   slug: "change-partial",
+   definition: "a rewrite of the bodies handed to it, deciding nothing and finding nothing",
+   pluralSlug: "change-partial",
+-  partSlugs: ["change-partial/repoint-imports", "change-partial/respell-export"],
++  partSlugs: [
++    "change-partial/repoint-imports",
++    "change-partial/respell-export",
++    "change-partial/restate-value",
++  ],
+   extendsSlug: ["page-type/module"],
+   invariants: [
+     {
 diff --git a/changes/partial/pages/restate-value/restate-value.change-partial.code.ts b/changes/partial/pages/restate-value/restate-value.change-partial.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..f25bd4510a31ea0ef05da172d63e82bb77eb0230
