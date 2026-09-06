@@ -1,9 +1,9 @@
 readersOweReading: false
 diff --git a/alan/fitness/exercise-access/exercise-load-model/exercise-load-model.module.ts b/alan/fitness/exercise-access/exercise-load-model/exercise-load-model.module.ts
-index f5aad4b11a67537f3aded4f11e7f594a0f9fb6fd..48bcda4dc246f7d34ee506e9e248201effbb22a7 100644
+index f5aad4b11a67537f3aded4f11e7f594a0f9fb6fd..b4084b37451b7dd47d4445f480044f86678af6c7 100644
 --- a/alan/fitness/exercise-access/exercise-load-model/exercise-load-model.module.ts
 +++ b/alan/fitness/exercise-access/exercise-load-model/exercise-load-model.module.ts
-@@ -20,12 +20,12 @@ export const exerciseLoadModel = {
+@@ -20,17 +20,17 @@ export const exerciseLoadModel = {
      {
        invariantKind: "departure",
        statement:
@@ -18,3 +18,9 @@ index f5aad4b11a67537f3aded4f11e7f594a0f9fb6fd..48bcda4dc246f7d34ee506e9e248201e
      },
      {
        invariantKind: "departure",
+       statement:
+-        "A leg or hip movement lifts bodyweight only where its name says squat, lunge or hinge.",
++        "A leg or hip movement lifts bodyweight only where its name says squat or lunge or hinge.",
+     },
+   ],
+ } as const satisfies Module
