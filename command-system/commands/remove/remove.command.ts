@@ -36,7 +36,7 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "A link reaching nothing is a path that is there rather than one already gone.",
+      statement: "A link reaching nothing is a path that is there rather than a path already gone.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +64,7 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "Neither kind of path is reported as the other.",
+      statement: "Neither kind of path is reported as the other kind.",
     },
     {
       invariantKind: "departure",
@@ -88,7 +88,8 @@ export const remove = {
     },
     {
       invariantKind: "departure",
-      statement: "A directory holding nothing goes only once every other named path has landed.",
+      statement:
+        "A directory holding nothing goes only once every other path the call names has landed.",
     },
     {
       invariantKind: "departure",
