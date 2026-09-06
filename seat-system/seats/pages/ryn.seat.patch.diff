@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/commands/refactor/page-retyping/page-retyping.module.ts b/command-system/commands/refactor/page-retyping/page-retyping.module.ts
+index d9a89e090d56d78a4d070d13c40d19645027f229..10da359f1c48d0306f881f9a1236d4b490c9ca7d 100644
+--- a/command-system/commands/refactor/page-retyping/page-retyping.module.ts
++++ b/command-system/commands/refactor/page-retyping/page-retyping.module.ts
+@@ -68,7 +68,7 @@ export const pageRetyping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The type a page's own body satisfies is the one its new page type declares.",
++      statement: "The type a page's own body satisfies is the type its new page type declares.",
+     },
+     {
+       invariantKind: "departure",
