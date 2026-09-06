@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-player-completion/completion-item-set-progress/completion-item-set-progress.module.ts b/temper/temper-player-completion/completion-item-set-progress/completion-item-set-progress.module.ts
+index 8a06c552c46bc0a3e68fa144e6569a98d938024d..d0113a0d484a77e22635532e898513baaa9303d8 100644
+--- a/temper/temper-player-completion/completion-item-set-progress/completion-item-set-progress.module.ts
++++ b/temper/temper-player-completion/completion-item-set-progress/completion-item-set-progress.module.ts
+@@ -27,7 +27,7 @@ export const completionItemSetProgress = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A category holding more than one named root nests its subcategories under those roots.",
++        "A category holding several named roots nests its subcategories under those roots.",
+     },
+   ],
+ } as const satisfies Module
