@@ -1,0 +1,19 @@
+diff --git a/domains/initiatives/pages/astra-pages-cleanup.initiative.ts b/domains/initiatives/pages/astra-pages-cleanup.initiative.ts
+index 0ad13939c7e4fffb8c166a27684ce5854dd7bdce..6eabf1aaeaee434fa116d0364cfee90ba53dbaa4 100644
+--- a/domains/initiatives/pages/astra-pages-cleanup.initiative.ts
++++ b/domains/initiatives/pages/astra-pages-cleanup.initiative.ts
+@@ -10,12 +10,12 @@ export const astraPagesCleanup = {
+     {
+       statement: "All pages-specific files are organized in the pages/ folder.",
+       workingMemory:
+-        "`@akasha/pages-system` is renamed to `@akasha/pages` across the repository: expand at `98dc779f`, eight mechanical migrate batches, contract at `1ff9f931`. `akasha refactor rename package` runs one phase a call and reads which phase from the manifests. The alias expand writes, `workspace:@akasha/pages@*` under the old name, makes `bun install` refuse here, though that same spelling installs in a stub workspace built from these manifests, so no seat could install for the whole migrate window.",
++        "`@akasha/pages-system` is renamed to `@akasha/pages`, and `@akasha/pages-system-service` to `@akasha/pages-service` in `pages/service/`, both pages under it slugged `pages-service`. `akasha refactor rename package` runs one phase a call and reads which phase from the manifests. Two faults it leaves: the alias expand writes makes `bun install` refuse here though that spelling installs in a stub workspace, and a page-slug rename reports what it will not repoint as a list to judge by hand, where I missed the `SERVICE_SLUG` const that took the store down.",
+     },
+     {
+       statement: "The pages/ folder passes the `folder-matches-a-shape` check.",
+       workingMemory:
+-        "A workspace-package page paired with a page type takes the singular slug now, and `folder-matches-a-shape` reads it that way: `pairedIn` takes the pair, `packageIn` matches the page type's slug, and `holds` answers both identities. What `pages/` refuses cannot be read: 291 untracked symlinks sit in the checkout, 9 of them under `pages/`, and the walk offers each as a file, so the check judges nothing until they go. `system-service/workstation-services` still holds one page of one type, which only the disabled `pages-of-one-type` admits.",
++        "Met: `pages/` judges 1630 files and refuses none. A workspace-package page paired with a page type takes the singular slug, `folder-matches-a-shape` reads it that way, and `pages/address-kinds` no longer opens with the name of the page above it. A folder holding one workstation service with its parts has a shape of its own, `a-workstation-service-with-its-parts`, and the page type shape holds `workstation-services` beside `modules`, `pages`, `properties` and `scripts`.",
+     },
+   ],
+ } as const satisfies Initiative
