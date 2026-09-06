@@ -1,9 +1,9 @@
-runsWarrants: false
+writerOwesReading: false
 diff --git a/editor-extension/seat-showing/seat-showing.module.ts b/editor-extension/seat-showing/seat-showing.module.ts
-index d63b81368fddc77248aa0836ca2808b7242b345b..acec38af6e8ade81cd4560c2301c59a200810e91 100644
+index d63b81368fddc77248aa0836ca2808b7242b345b..804cc762c00fdc6c6a5697579e637fb1ce19479d 100644
 --- a/editor-extension/seat-showing/seat-showing.module.ts
 +++ b/editor-extension/seat-showing/seat-showing.module.ts
-@@ -21,11 +21,11 @@ export const seatShowing = {
+@@ -21,15 +21,15 @@ export const seatShowing = {
      },
      {
        invariantKind: "departure",
@@ -14,6 +14,11 @@ index d63b81368fddc77248aa0836ca2808b7242b345b..acec38af6e8ade81cd4560c2301c59a2
        invariantKind: "departure",
 -      statement: "The nearest ancestor holding a terminal is the one whose column is taken.",
 +      statement: "The nearest ancestor holding a terminal is the ancestor whose column is taken.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The lowest open column is taken where neither is to be had.",
++      statement: "The lowest open column is taken where neither column is to be had.",
      },
      {
        invariantKind: "departure",
