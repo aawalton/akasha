@@ -1,3 +1,21 @@
+diff --git a/command-system/applying/applying.module.test.ts b/command-system/applying/applying.module.test.ts
+index 4657ca1bba24ec1cbe1a3b1dadb59e6885652b82..017d8a16b4e39af6a7055431bb13b9baad7301f0 100644
+--- a/command-system/applying/applying.module.test.ts
++++ b/command-system/applying/applying.module.test.ts
+@@ -120,10 +120,9 @@ test("a patch carrying a conflict does not apply", async () => {
+ test("a patch a mechanical draft opened is a diff git still reads", async () => {
+   const root = await indexed()
+   const draft = [{ path: PAGE, was: bytes(A), body: bytes(MORE) }]
+-  expect("why" in drafted(root, PAGE, draft, { checks: false, writerOwesReading: false })).toBe(
+-    false
+-  )
+-  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, writerOwesReading: false })
++  const nothing = { checks: false, writerOwesReading: false, readersOweReading: false }
++  expect("why" in drafted(root, PAGE, draft, nothing)).toBe(false)
++  expect(runningIn(patchIn(root, PAGE))).toEqual(nothing)
+   expect(() => gitSaid(root, ["apply", "--check", patchAt(PAGE) as string])).not.toThrow()
+ })
+ 
 diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
 index a87980fc09e4875973e1ddc43a32387be5566b39..bc16a12180fdef8b98750ffa77d088ea3d62129f 100644
 --- a/command-system/asking/asking.module.code.ts
