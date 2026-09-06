@@ -1,9 +1,9 @@
 import type { Initiative } from "../initiative.page-type.ts"
 
-export const olwenCommandCleanup = {
+export const olwenPersonaCleanup = {
   id: "01a06d80-f837-7845-8ef8-bfccd653aab4",
   pageTypeSlug: "initiative",
-  slug: "olwen-command-cleanup",
+  slug: "olwen-persona-cleanup",
   domainSlug: "workspace-package/command-system",
   personaSlug: "olwen",
   constraints: [
