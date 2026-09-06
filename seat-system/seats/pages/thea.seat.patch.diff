@@ -1363,10 +1363,10 @@ index c330f9e126bcd71295f81c4a251594ac6ec79547..514b70012f8ac3b5ca7310712e2674ff
    invariants: [
      {
 diff --git a/alan/harness/monarch/monarch-directions/properties/directs.text-property.ts b/alan/harness/monarch/monarch-directions/properties/directs.text-property.ts
-index 82af70e544b76d02aec9cccef9f255bc15fb5998..a98a7c7fe03fd5f7f902ba7c6ef0119c02b2b5c8 100644
+index 82af70e544b76d02aec9cccef9f255bc15fb5998..7f66d10565ad8f57b0b5d951285264f7f716b307 100644
 --- a/alan/harness/monarch/monarch-directions/properties/directs.text-property.ts
 +++ b/alan/harness/monarch/monarch-directions/properties/directs.text-property.ts
-@@ -8,7 +8,7 @@ export const directs = {
+@@ -8,12 +8,16 @@ export const directs = {
    slug: "directs",
    propertySlug: "directs",
    definition: "what an agent settling a transaction is told to weigh",
@@ -1375,6 +1375,16 @@ index 82af70e544b76d02aec9cccef9f255bc15fb5998..a98a7c7fe03fd5f7f902ba7c6ef0119c
    nameFormatSlug: null,
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "A direction says the things to weigh, never the decision to make.",
++      statement: "A direction says the things to weigh.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A direction never says the decision to make.",
+     },
+   ],
+ } as const satisfies TextProperty
 diff --git a/alan/harness/monarch/monarch-holdings/properties/security-name.text-property.ts b/alan/harness/monarch/monarch-holdings/properties/security-name.text-property.ts
 index 26ca8f520266912be46bd4155e4b6e0356500640..422623aeab828fdefb9e78c36d4042573e263acc 100644
 --- a/alan/harness/monarch/monarch-holdings/properties/security-name.text-property.ts
