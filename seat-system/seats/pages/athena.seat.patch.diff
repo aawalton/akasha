@@ -1,3 +1,21 @@
+diff --git a/command-system/commands/index/index.command.code.ts b/command-system/commands/index/index.command.code.ts
+index 309b1ff3a93ccc9f644e9c6f4b26d0e4f722dfa1..1161fb020952657c5188f03013eae1e2ab7fbcef 100644
+--- a/command-system/commands/index/index.command.code.ts
++++ b/command-system/commands/index/index.command.code.ts
+@@ -112,7 +112,12 @@ function refreshing(root: string, read: { dryRun: boolean }): Answer {
+     ...driftSaid(said.drift),
+   ]
+   if (said.swept.length > 0) {
+-    report.push(`took away ${counted(said.swept.length, "path")} belonging to no index`)
++    const many = counted(said.swept.length, "path")
++    report.push(
++      read.dryRun
++        ? `${many} belonging to no index would be taken away — ${named(said.swept)}`
++        : `took away ${many} belonging to no index — ${named(said.swept)}`
++    )
+   }
+   report.push(
+     read.dryRun
 diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
 index 5199324f0ab21d9fd436e314e0e32e71e304b1ba..9d1042b5054246acaecc65eedd9fd9f32b5df5a0 100644
 --- a/pages/indexes/indexing/indexing.module.code.ts
