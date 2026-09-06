@@ -5,5 +5,5 @@ export const howMuchOfTheResidueAnInterviewReaches = {
   pageTypeSlug: "all-about-alan-question",
   slug: "how-much-of-the-residue-an-interview-reaches",
   topicSlug: "how-i-prevent-a-category-of-wrong",
-  ask: "How much of the residue, what agents do not know is in my head, can an interview actually reach, when the interview is the only instrument aimed at that residue?",
+  ask: "Abby's reading is that this book is for the residue agents do not know is in my head, and the interview is the only instrument aimed there. How much of that residue can an interview reach?",
 } as const satisfies AllAboutAlanQuestion

@@ -5,5 +5,5 @@ export const whatMyPracticeWasBeforeChecksGotCheap = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-my-practice-was-before-checks-got-cheap",
   topicSlug: "how-many-checks-i-run",
-  ask: "What was my practice for preventing a category of wrong before custom checks got cheap enough to turn that prevention into a routine?",
+  ask: "Abby's reading is that cheap custom checks turned preventing a category of wrong from a decision into a routine. What was my practice before custom checks got cheap?",
 } as const satisfies AllAboutAlanQuestion

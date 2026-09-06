@@ -5,5 +5,5 @@ export const whetherTheRebuildIsReallyRungThree = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-the-rebuild-is-really-rung-three",
   topicSlug: "how-hard-a-thing-is",
-  ask: "The rebuild was priced at rung three in a question I answered rather than in my own words, so I confirmed the cost without naming the rung. Is the rebuild rung three?",
+  ask: "Abby's reading is that I confirmed the cost at a framing that priced the rebuild at rung three without ever naming the rung. Is the rebuild really rung three?",
 } as const satisfies AllAboutAlanQuestion
