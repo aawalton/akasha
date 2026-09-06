@@ -69,19 +69,24 @@ index c6fbec494976b921749cba91d27c7e7027d69cb1..9c24eadd9c9a9410293886b7878a2796
    const read = readSeatTurn(kept({ onCallRole: true, pending: { compacting: ON } }))
  
 diff --git a/seat-system/seat-turn-state/seat-turn-state.module.ts b/seat-system/seat-turn-state/seat-turn-state.module.ts
-index 058fd48fcde7414d918811984611df144371a745..f444e5ca0f6f1632dbac0c65abbbd9de43303b71 100644
+index 058fd48fcde7414d918811984611df144371a745..9c16e85a566b607a060b6fcc173e032894aff9ad 100644
 --- a/seat-system/seat-turn-state/seat-turn-state.module.ts
 +++ b/seat-system/seat-turn-state/seat-turn-state.module.ts
-@@ -27,7 +27,11 @@ export const seatTurnState = {
+@@ -27,11 +27,15 @@ export const seatTurnState = {
      },
      {
        invariantKind: "departure",
 -      statement: "A seat in an on-call role is waiting on work sent to it rather than idle.",
 +      statement: "A seat in an on-call role is ready for work sent to it rather than idle.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Whether a seat's role is on call answers this rather than whether the seat is.",
++      statement: "A seat ready for work is told apart from a seat waiting on a turn it arranged.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A seat ready for work is told apart from a seat waiting on a turn it arranged.",
++      statement: "The role being on call decides, rather than the seat's own on-call flag.",
      },
      {
        invariantKind: "departure",
