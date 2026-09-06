@@ -125,25 +125,11 @@ export function editsFor(rows: readonly Edit[]): readonly FileEdit[] {
   return held
 }
 
-async function judgedSaid(root: string, rows: readonly Edit[]): Promise<readonly string[]> {
-  const built = gateBuilt(root)
-  if ("broken" in built) return [`no check ran — the checks would not load: ${built.broken}`]
-  const change = changeOf(root, { base: baseOf(root), edits: editsFor(rows) })
-  const said = await built.gate.over(change)
-  if (said.length === 0) return ["every check judged the edits kept, and none refused"]
-  return [...said.map((one) => `${one.path} — ${one.reason}`), STILL_KEPT]
-}
-
 // A slug names one page under one of the types a command change carries, and a slug naming none
 // reads as the old type, so the refusal a caller sees for a name that is nowhere stays what it was.
 function typeOf(world: World, slug: string): string {
   for (const one of COMMAND_TYPES) if (world.index.pageAt(one, slug) !== null) return one
   return CHANGE_COMMAND
-}
-
-function checkedIn(world: World, slug: string): boolean {
-  const value = world.index.pageAt(typeOf(world, slug), slug)
-  return value !== null && value[RUNS_CHECKS] === true
 }
 
 function saidOf(one: Edit): string {
@@ -166,12 +152,7 @@ export function dropping(root: string, page: string): Answer {
   return { report: [...went, DROPPED], refusals: [], code: 0 }
 }
 
-export async function appending(
-  root: string,
-  page: string,
-  over: Over,
-  checked: boolean
-): Promise<Answer> {
+export async function appending(root: string, page: string, over: Over): Promise<Answer> {
   let answer: Answer = mistaking([NO_PAGE])
   const kept = keptEdits(root, page, (had) => {
     const before = foldedIn(had)
@@ -201,8 +182,7 @@ export async function appending(
     return [...had, ...said.edits]
   })
   if ("why" in kept) return { report: [], refusals: [kept.why], code: 3 }
-  if (!checked || answer.code !== 0) return answer
-  return { ...answer, report: [...answer.report, ...(await judgedSaid(root, kept.rows))] }
+  return answer
 }
 
 export type Loading = (world: World, at: string) => Promise<Loaded | string>
@@ -231,7 +211,7 @@ export async function changing(
   const loaded = await loading(world, `${typeOf(world, slug)}/${slug}`)
   if (typeof loaded === "string") return mistaking([loaded, DROP_SAID])
   const held: Loaded = loaded
-  return await appending(root, page, (one) => ranBy(one, held, given), checkedIn(world, slug))
+  return await appending(root, page, (one) => ranBy(one, held, given))
 }
 
 export async function change(argv: readonly string[], given: Given): Promise<Answer> {

@@ -8,6 +8,9 @@ import {
 import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { type Draft, drafted, type Running } from "../../drafting/drafting.module.code.ts"
+import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
+import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
+import { editsFor } from "../change/change.command.code.ts"
 import { applying } from "../patch/patch.command.code.ts"
 import { MESSAGE, MESSAGE_FILE, unknownIn } from "../write/write.command.code.ts"
 
@@ -63,11 +66,28 @@ export function folding(root: string, page: string): Folded {
   return "why" in kept ? { refusals: [kept.why] } : answer
 }
 
+// The edits are judged where the edits are kept, so a refusal leaves the edits beside the agent's
+// page for another change to mend rather than in a patch no change reaches.
+async function refusedBefore(root: string, page: string): Promise<readonly string[]> {
+  const kept = keptEdits(root, page, (had) => had)
+  if ("why" in kept) return [kept.why]
+  if (kept.rows.length === 0) return []
+  const built = gateBuilt(root)
+  if ("broken" in built) return [`no check ran — the checks would not load: ${built.broken}`]
+  const change = changeOf(root, { base: baseOf(root), edits: editsFor(kept.rows) })
+  const said = await built.gate.over(change)
+  return said.map((one) => `${one.path} — ${one.reason}`)
+}
+
 export async function apply(argv: readonly string[], given: Given): Promise<Answer> {
   const unknown = unknownIn(argv, APPLYING, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) return mistaking([NO_PAGE])
+  if (!argv.includes(BREAK_GLASS)) {
+    const refused = await refusedBefore(given.root, page)
+    if (refused.length > 0) return { report: [], refusals: refused, code: 3 }
+  }
   const said = folding(given.root, page)
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
   const answered = await applying(given, page, argv)
