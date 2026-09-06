@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/seat-system/supervising/memory-reaper-kill/memory-reaper-kill.module.ts b/seat-system/supervising/memory-reaper-kill/memory-reaper-kill.module.ts
+index 3bdda342d45383c0bd466b2a35af68c768788059..e02d443d7e9eaaa6ba630fb724ed8263bc565912 100644
+--- a/seat-system/supervising/memory-reaper-kill/memory-reaper-kill.module.ts
++++ b/seat-system/supervising/memory-reaper-kill/memory-reaper-kill.module.ts
+@@ -21,7 +21,8 @@ export const memoryReaperKill = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A whole tree is asked together and waited on together rather than one at a time.",
++      statement:
++        "A whole tree is asked together and waited on together rather than a process at a time.",
+     },
+   ],
+ } as const satisfies Module
