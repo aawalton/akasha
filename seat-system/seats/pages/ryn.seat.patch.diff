@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
-index 1c16444c9184a15b0179bdcb186140b48ab14222..94454a84da81b305876e1ccc121052d179c51fbc 100644
+index 1c16444c9184a15b0179bdcb186140b48ab14222..bad7ae615584df6ce4733ff5b031bbfad9b8b332 100644
 --- a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
 +++ b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
 @@ -13,12 +13,15 @@ export const supervisorHeartbeatBeat = {
@@ -36,7 +36,7 @@ index 1c16444c9184a15b0179bdcb186140b48ab14222..94454a84da81b305876e1ccc121052d1
      },
      {
        invariantKind: "departure",
-@@ -39,7 +43,7 @@ export const supervisorHeartbeatBeat = {
+@@ -39,29 +43,29 @@ export const supervisorHeartbeatBeat = {
      },
      {
        invariantKind: "departure",
@@ -45,14 +45,26 @@ index 1c16444c9184a15b0179bdcb186140b48ab14222..94454a84da81b305876e1ccc121052d1
      },
      {
        invariantKind: "departure",
-@@ -54,14 +58,10 @@ export const supervisorHeartbeatBeat = {
-       invariantKind: "departure",
-       statement: "That mode is read off this supervisor's own command line.",
+-      statement: "The process key is written beside the seat, and a failure there is logged alone.",
++      statement: "The process key is written beside the seat.",
      },
--    {
--      invariantKind: "departure",
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The mode a supervisor is running in is written beside the seat with that supervisor's process key.",
++      statement: "A failure writing the process key is logged alone.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That mode is read off this supervisor's own command line.",
++      statement:
++        "The mode a supervisor is running in is written beside the seat with that supervisor's process key.",
+     },
+     {
+       invariantKind: "departure",
 -      statement: "The beat module is reached beside this one rather than by a path from the root.",
--    },
++      statement: "That mode is read off this supervisor's own command line.",
+     },
      {
        invariantKind: "departure",
        statement:
