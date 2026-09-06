@@ -253,7 +253,7 @@ function alsoSeeded(root: string): undefined {
     held += 1
     listedFiled(root, kind, slug, [{ path, id }])
     idFiled(root, id, [{ path, id }])
-    valueAlsoFiled(root, kind, [{ path, value }])
+    valueAlsoFiled(root, kind, [{ path, value: { id, ...value } }])
   }
   for (const [slug, above] of ABOVE) {
     const value = { pageTypeSlug: PAGE_TYPE, slug, extendsSlug: [above] }
@@ -280,7 +280,12 @@ function seeded(value: Value): string {
       fileName: LOCKFILE,
     },
   ])
-  valueAlsoFiled(root, NAMED, [{ path: PROPERTY_AT, value }])
+  valueAlsoFiled(root, NAMED, [
+    {
+      path: PROPERTY_AT,
+      value: { id: PROPERTY_ID, pageTypeSlug: NAMED, slug: "lockfile", ...value },
+    },
+  ])
   listedFiled(root, "page-type", "workspace", [{ path: TYPE_AT, id: TYPE_ID }])
   valueAlsoFiled(root, "page-type", [
     { path: TYPE_AT, value: { id: TYPE_ID, pageTypeSlug: "page-type", slug: "workspace" } },
