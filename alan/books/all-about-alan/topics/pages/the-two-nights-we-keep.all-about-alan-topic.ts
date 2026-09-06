@@ -14,6 +14,4 @@ export const theTwoNightsWeKeep = {
   ],
   settled:
     "They are calendar items, not set by how I am on the day, because unscheduled they do not happen.\n\nThe hard night clears things that stood for years, and the clearing holds because what changed is understanding, not a promise.\n\nThe cost is delayed: it lands the day after rather than during the night.\n\nI have noticed a pull in myself to cancel the hard one.\n\nBoth sit on top of a cost that lands almost every night anyway.",
-  unsettled:
-    "One hard night is one observation and I am not certain the cost is fixed. Whether about six hours and a delayed cost is the price in general, or the price of that night, is open.\n\nBoth nights ran from near the top of my normal range. Whether the same night from a low base produces the same change is untested, and it is scheduled by calendar rather than by level.\n\nThe beautiful night is Jen's pattern and I am not reliably providing it. No mechanism for that is recorded.",
 } as const satisfies AllAboutAlanTopic
