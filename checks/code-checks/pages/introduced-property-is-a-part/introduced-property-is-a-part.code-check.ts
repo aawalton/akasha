@@ -8,7 +8,7 @@ export const introducedPropertyIsAPart = {
     "the check holding a page type to naming the properties it introduces among its parts",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
