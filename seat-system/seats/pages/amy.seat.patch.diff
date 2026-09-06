@@ -117,3 +117,15 @@ index 8a611de1d82ea80d9fa0fdba49d6aef55661fc8d..64d0c6bbb62a6f05bb0cf682c0372333
    viewPlace: 0,
    layout: "gallery",
    narrows: [{ key: "seat-index", comparison: "empty", values: ["false"] }],
+diff --git a/pages/views/pages/idle-lineup-team.view.ts b/pages/views/pages/idle-lineup-team.view.ts
+index 16f7d8522cdc5a87f0b0a65f3231f0b618872c18..f9caae6f0fa5097a94a0b33353bc5504526fc488 100644
+--- a/pages/views/pages/idle-lineup-team.view.ts
++++ b/pages/views/pages/idle-lineup-team.view.ts
+@@ -6,6 +6,7 @@ export const idleLineupTeam = {
+   slug: "idle-lineup-team",
+   title: "Team",
+   navSlug: "idle-lineup",
++  pageType: "idle-persona-card",
+   viewPlace: 0,
+   layout: "gallery",
+   narrows: [{ key: "seat-index", comparison: "empty", values: ["false"] }],
