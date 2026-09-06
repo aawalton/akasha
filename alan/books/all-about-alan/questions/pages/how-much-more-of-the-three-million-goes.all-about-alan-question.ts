@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+
+export const howMuchMoreOfTheThreeMillionGoes = {
+  id: "01a077e9-e11a-7626-8507-d43e823b6018",
+  pageTypeSlug: "all-about-alan-question",
+  slug: "how-much-more-of-the-three-million-goes",
+  topicSlug: "why-i-rebuilt-everything",
+  ask: "How much more of the three million lines has to go? I have only said I need to get rid of more.",
+} as const satisfies AllAboutAlanQuestion
