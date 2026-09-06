@@ -61,7 +61,7 @@ index fcb97004f625876cb78201526602e671bef6bde8..c5b4692eed4e7221f571bde1c18ea82f
    ],
  } as const satisfies Module
 diff --git a/editor-extension/subagent-reading/subagent-reading.module.code.ts b/editor-extension/subagent-reading/subagent-reading.module.code.ts
-index 257d033b5bc2baf6028c990560eb57b9494833eb..4b2a4eec07f8261baace614bbcc709886fff5af4 100644
+index 257d033b5bc2baf6028c990560eb57b9494833eb..b6110108d881fa55c2ee339bf6282bc1d7d72ea8 100644
 --- a/editor-extension/subagent-reading/subagent-reading.module.code.ts
 +++ b/editor-extension/subagent-reading/subagent-reading.module.code.ts
 @@ -9,6 +9,7 @@ import {
@@ -72,3 +72,11 @@ index 257d033b5bc2baf6028c990560eb57b9494833eb..4b2a4eec07f8261baace614bbcc70988
    isJsonObject,
    type RunningSubagent,
    runningSubagents,
+@@ -35,6 +36,7 @@ interface Cursor {
+ 
+ export interface SubagentReader {
+   readonly forSeat: (agentId: string, transcriptPath: string) => Promise<readonly SubagentNode[]>
++  readonly endedForSeat: (agentId: string, transcriptPath: string) => Promise<readonly string[]>
+   readonly dropUntouched: () => Promise<undefined>
+ }
+ 
