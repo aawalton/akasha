@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-companions-core/companion-light-attack/companion-light-attack.module.ts b/temper/temper-companions-core/companion-light-attack/companion-light-attack.module.ts
+index 4c9fb197b09bd5ba0604e528a41d474b5d824a08..acb2cc058ab53048fd71f98aa9c592579d6c4170 100644
+--- a/temper/temper-companions-core/companion-light-attack/companion-light-attack.module.ts
++++ b/temper/temper-companions-core/companion-light-attack/companion-light-attack.module.ts
+@@ -9,7 +9,7 @@ export const companionLightAttack = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The strongest active light attack heal buff is the only one applied on a swing.",
++      statement: "The strongest active light attack heal buff is the only buff applied on a swing.",
+     },
+     {
+       invariantKind: "departure",
