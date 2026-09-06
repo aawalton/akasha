@@ -1,0 +1,13 @@
+diff --git a/pages/query-request/page-query-request.module.ts b/pages/query-request/page-query-request.module.ts
+index ced52ce454c7ebef6eb355f32b3b64f4ade0fbed..e6ccdd0479e3ea8c4eed789e20d4fb60918298df 100644
+--- a/pages/query-request/page-query-request.module.ts
++++ b/pages/query-request/page-query-request.module.ts
+@@ -22,7 +22,7 @@ export const pageQueryRequest = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A list is a value only where every one of its entries is text.",
++      statement: "A list is a value only where every entry in that list is text.",
+     },
+     {
+       invariantKind: "departure",
