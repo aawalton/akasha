@@ -1,0 +1,13 @@
+diff --git a/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.test.ts b/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.test.ts
+index 6ec9c209a1716353710d3fc3299757c9cb5eb018..00d9be400a33c5b778151354d71fe84aed9dc5ae 100644
+--- a/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.test.ts
++++ b/checks/code-checks/pages/no-index-path-spelled/no-index-path-spelled.code-check.test.ts
+@@ -11,7 +11,7 @@ const AT = indexNamed()
+ 
+ const HELD = "akasha/command-system/held.module.code.ts"
+ 
+-const OWNED = "akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
++const OWNED = "pages/indexes/reading/index-reading.module.code.ts"
+ 
+ test("a body spelling a path into the index is refused", () => {
+   const said = reasonsIn(given(HELD, `const at = "${AT}/identity/check/slug"\n`))
