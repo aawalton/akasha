@@ -14,7 +14,7 @@ import type { ReviewFlag } from "./properties/review-flag.text-property.ts"
 import type { ReviewRating } from "./properties/review-rating.number-property.ts"
 import type { ReviewText } from "./properties/review-text.text-property.ts"
 import type { ScheduledEnd } from "./properties/scheduled-end.instant-property.ts"
-import type { ScheduledStart } from "./properties/scheduled-start.instant-property.ts"
+import type { ScheduledStart } from "./properties/scheduled-start-at.instant-property.ts"
 import type { SourcePlaceId } from "./properties/source-place-id.text-property.ts"
 import type { SourceUrl } from "./properties/source-url.url-property.ts"
 import type { Visited } from "./properties/visited.boolean-property.ts"
@@ -51,7 +51,7 @@ export const location = {
     "boolean-property/visited",
     "calendar-date-property/review-date",
     "instant-property/scheduled-end",
-    "instant-property/scheduled-start",
+    "instant-property/scheduled-start-at",
     "number-property/latitude",
     "number-property/longitude",
     "number-property/review-rating",
@@ -80,7 +80,7 @@ export const location = {
     { pagePropertySlug: "number-property/review-rating", required: false, many: false },
     { pagePropertySlug: "text-property/review-text", required: false, many: false },
     { pagePropertySlug: "instant-property/scheduled-end", required: false, many: false },
-    { pagePropertySlug: "instant-property/scheduled-start", required: false, many: false },
+    { pagePropertySlug: "instant-property/scheduled-start-at", required: false, many: false },
     { pagePropertySlug: "text-property/source-place-id", required: false, many: false },
     { pagePropertySlug: "url-property/source-url", required: false, many: false },
     { pagePropertySlug: "text-property/location-source", required: false, many: false },
