@@ -31,7 +31,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "Alan can load a view.",
       workingMemory:
-        "A view is reached at the page type's plural slug, so `/to-dos` rather than `/to-do`. The shell, the sidebar and the nav all draw there. The main area spins forever: the browser asks `/api/page-types` over and over and is answered 501 each time. That route is stubbed, and its body says the roster it drew named a repository and a glob per page type, which the pages service does not carry.",
+        "A view is reached at the page type's plural slug, so `/to-dos` rather than `/to-do`. The shell and the nav draw; the content never does. Three faults stack: `/api/page-types` answers 501 and the browser asks it again and again; the interface narrows views by `nav` and by `owner` where every row carries `navSlug`; and the order asks for `sortOrder` where the rows carry `viewPlace`. The rows are held: `/api/pages/view` answers 55 of them.",
     },
     {
       statement: "Alan can load the view for task pages.",
