@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-cost-doubles-for-easy-things.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-cost-doubles-for-easy-things.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bb2425439de5793dd2d7dc4f703d96435649290a
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-cost-doubles-for-easy-things.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherCostDoublesForEasyThings = {
++  id: "01a077e8-f609-7e1c-88f3-929cd1bd63e0",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-cost-doubles-for-easy-things",
++  topicSlug: "what-an-activity-costs-me",
++  ask: "The doubling per safety level is anchored at the hard end, at difficulty three against a safety level of two. Does the cost double the same way for easy things?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-half-of-talking-costs-more.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-half-of-talking-costs-more.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c4cd2abcdfcd32146cfd2c99c017594d3400a839
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-half-of-talking-costs-more.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichHalfOfTalkingCostsMore = {
++  id: "01a077e8-f60a-7409-a0eb-09d9eb6f6640",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-half-of-talking-costs-more",
++  topicSlug: "what-an-activity-costs-me",
++  ask: "Talking costs me twice, in the work of keeping up and in the recovery talking pauses. Which half is the bigger one?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-an-activity-costs-me.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-an-activity-costs-me.all-about-alan-topic.ts
+index e3dd3ef0da52e15f264ba481eaf6aa132f6ef172..54c72c354b86a04bcb67e1d130805916fea7d3e4 100644
+--- a/alan/books/all-about-alan/topics/pages/what-an-activity-costs-me.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-an-activity-costs-me.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatAnActivityCostsMe = {
+   relatedSlugs: ["what-the-pod-does-to-the-price"],
+   settled:
+     "The price is set by how far above my safety level the thing sits.\n\nAn hour one rung above my safety level costs me two capacity hours, so I start paying a cost where I normally would not.",
+-  unsettled:
+-    "The estimate of doubling per safety level is now anchored at the hard end and one rung up, at difficulty three against a safety level of two. Whether it doubles the same way for easy things is still open. Programming stayed affordable through deep burnout, which points at less amplification down there.\n\nTalking costs me twice, once in the work of keeping up and once in the recovery it pauses. Which of the two is the bigger half has never been split out.",
+ } as const satisfies AllAboutAlanTopic
