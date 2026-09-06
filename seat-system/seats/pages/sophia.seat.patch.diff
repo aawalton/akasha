@@ -15,7 +15,7 @@ index f3f2970ef2d24e5840e53f17e58002a4374b8d47..8d5305705ae1c14917e93b8f257560af
  const IPA = "build/export/App.ipa"
  
 diff --git a/mobile-cli/git-tree-hash/git-tree-hash.module.test.ts b/mobile-cli/git-tree-hash/git-tree-hash.module.test.ts
-index c0580f9155f58e95bba1225b0f16f451f1be2801..c1effdd2208163bd92c947f37a3257301508beb4 100644
+index c0580f9155f58e95bba1225b0f16f451f1be2801..0e30fb5cdd6b609ad7baa1940fb970cb9132f617 100644
 --- a/mobile-cli/git-tree-hash/git-tree-hash.module.test.ts
 +++ b/mobile-cli/git-tree-hash/git-tree-hash.module.test.ts
 @@ -61,9 +61,9 @@ function makeShellRepo(): { root: string; cleanup: () => void } {
@@ -49,6 +49,15 @@ index c0580f9155f58e95bba1225b0f16f451f1be2801..c1effdd2208163bd92c947f37a325730
          "struct Ring { let width = 1 }\n"
        )
        expect(hashOf(codeRoot, shellRoot)).not.toBe(before)
+@@ -182,7 +182,7 @@ describe("computeBuildInputTreeHash — build-input closure scope", () => {
+     const { codeRoot, shellRoot, cleanup } = bothRepos()
+     try {
+       const before = hashOf(codeRoot, shellRoot)
+-      commitRemoval(shellRoot, "akasha/code-system/ios-apps/scripts/build-stamp.sh")
++      commitRemoval(shellRoot, "code-system/ios-apps/scripts/build-stamp.sh")
+       expect(hashOf(codeRoot, shellRoot)).not.toBe(before)
+     } finally {
+       cleanup()
 diff --git a/mobile-cli/sim-run-tree/sim-run-tree.module.test.ts b/mobile-cli/sim-run-tree/sim-run-tree.module.test.ts
 index 0252679a396c194a0246b01d3695449cba5a568f..ea43a38a7b96b1b6da62f6f9163154e823c4bd53 100644
 --- a/mobile-cli/sim-run-tree/sim-run-tree.module.test.ts
