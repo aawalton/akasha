@@ -1,7 +1,7 @@
 import { IMAGES } from "@akasha/workflow-language/images"
 import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
 import { applyRbac } from "@akasha/workflow-language/rbac-apply"
-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
 import { step } from "@akasha/workflow-language/step"
 import { verifyRolloutCommands } from "@akasha/workflow-language/verify-rollout"
 import { workflow } from "@akasha/workflow-language/workflow"
@@ -26,28 +26,26 @@ export default workflow("pgbouncer", {
     {
       ...applyRbac({
         name: "pgbouncer-apply-rbac",
-        rbacFile:
-          "infrastructure/cluster-manifests/pgbouncer-rbac/pgbouncer-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/pgbouncer-rbac/pgbouncer-rbac.module.code.ts",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },
 
     {
-      ...sopsDecryptApply({
+      ...secretPlaceApply({
         name: "pgbouncer-apply-tls",
         namespace: "pgbouncer",
-        secretFile:
-          "service-system/cluster-services/pages/pgbouncer/tls.k8s-secret.sops.yaml",
+        resource: "pgbouncer-tls",
+        type: "kubernetes.io/tls",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },
 
     {
-      ...sopsDecryptApply({
+      ...secretPlaceApply({
         name: "pgbouncer-apply-auth",
         namespace: "pgbouncer",
-        secretFile:
-          "service-system/cluster-services/pages/pgbouncer/auth.k8s-secret.sops.yaml",
+        resource: "pgbouncer-auth",
       }),
       dependsOn: ["pgbouncer-apply-namespace"],
     },
