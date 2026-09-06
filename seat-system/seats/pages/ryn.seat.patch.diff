@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/query/store-reaching/store-reaching.module.ts b/pages/query/store-reaching/store-reaching.module.ts
+index 2dc5b24353d235506bcdd90dd1793a6d7ea64543..d7788a7cbba5d90194ef206d7aa5e4a00d770973 100644
+--- a/pages/query/store-reaching/store-reaching.module.ts
++++ b/pages/query/store-reaching/store-reaching.module.ts
+@@ -19,7 +19,7 @@ export const storeReaching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A caller may put its own fetcher in place of the global one.",
++      statement: "A caller may put its own fetcher in place of the global fetcher.",
+     },
+     {
+       invariantKind: "departure",
