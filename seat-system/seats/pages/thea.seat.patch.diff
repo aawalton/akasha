@@ -2971,3 +2971,771 @@ index 9ce04d2fd9de2e6e1ec8916033cb185b1d905a27..c798ff5ab9949c56f00b8fca012ef4e9
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/mobile-cli/mobile-cuts/properties/main-sha.text-property.ts b/mobile-cli/mobile-cuts/properties/main-sha.text-property.ts
+index dd243237d962eeaf9ed9083c34b3c80992027fa2..9f4511501829b3f87bd5bcd721baded3673e9892 100644
+--- a/mobile-cli/mobile-cuts/properties/main-sha.text-property.ts
++++ b/mobile-cli/mobile-cuts/properties/main-sha.text-property.ts
+@@ -8,6 +8,6 @@ export const mainSha = {
+   slug: "main-sha",
+   propertySlug: "main-sha",
+   definition: "the commit of the main repo a cut was built from",
+-  max: 40,
++  maxLength: 40,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/mobile-cli/mobile-cuts/properties/shell-sha.text-property.ts b/mobile-cli/mobile-cuts/properties/shell-sha.text-property.ts
+index 5dabccd5197d446c904cc25689a9e417a12b4260..ade626d2dbfa17d0470d8c2dbf997d4a63eba2fa 100644
+--- a/mobile-cli/mobile-cuts/properties/shell-sha.text-property.ts
++++ b/mobile-cli/mobile-cuts/properties/shell-sha.text-property.ts
+@@ -8,7 +8,7 @@ export const shellSha = {
+   slug: "shell-sha",
+   propertySlug: "shell-sha",
+   definition: "the commit of the app shell a cut was built from",
+-  max: 40,
++  maxLength: 40,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/indexes/properties/index-name.text-property.ts b/pages/indexes/properties/index-name.text-property.ts
+index 46de7a6ce0eeb4c19e77819e7ebf2f74c2aee9b3..f705f9c5879a608aa09aa6cfdf1feb7d44f13989 100644
+--- a/pages/indexes/properties/index-name.text-property.ts
++++ b/pages/indexes/properties/index-name.text-property.ts
+@@ -8,7 +8,7 @@ export const indexName = {
+   slug: "index-name",
+   propertySlug: "name",
+   definition: "the name an index's answers are filed under",
+-  max: 30,
++  maxLength: 30,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   unique: "page-type",
+   invariants: [
+diff --git a/pages/named-file-properties/properties/file-name.text-property.ts b/pages/named-file-properties/properties/file-name.text-property.ts
+index a0511048ff239e8b2647e2974d8d0c04762cbb54..5e76c0f7af7f9d20009b0619297178f8b984d610 100644
+--- a/pages/named-file-properties/properties/file-name.text-property.ts
++++ b/pages/named-file-properties/properties/file-name.text-property.ts
+@@ -8,7 +8,7 @@ export const fileName = {
+   slug: "file-name",
+   propertySlug: "file-name",
+   definition: "the name a property's file is under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/navs/properties/back-href.text-property.ts b/pages/navs/properties/back-href.text-property.ts
+index b7836133ec00240d49083f4be87ee7fec52949f3..c7678aafc008d10586bb9b010e90846d2357fb34 100644
+--- a/pages/navs/properties/back-href.text-property.ts
++++ b/pages/navs/properties/back-href.text-property.ts
+@@ -8,6 +8,6 @@ export const backHref = {
+   slug: "back-href",
+   propertySlug: "back-href",
+   definition: "where the way back out of a nav item leads",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/pages/navs/properties/nav-app-slug.text-property.ts b/pages/navs/properties/nav-app-slug.text-property.ts
+index b07f8096c9d8a970a849011c6d0e550c5467f9f6..b32092deeb00b92a521e2bd79993bddef6495103 100644
+--- a/pages/navs/properties/nav-app-slug.text-property.ts
++++ b/pages/navs/properties/nav-app-slug.text-property.ts
+@@ -8,6 +8,6 @@ export const navAppSlug = {
+   slug: "nav-app-slug",
+   propertySlug: "app-slug",
+   definition: "the app a nav item belongs to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/pages/properties/cover.text-property.ts b/pages/properties/cover.text-property.ts
+index 484504733e57b981c7f74c325421773d86e769aa..76fb7fae5313ee2eaeb903a5d4d135c427cd418b 100644
+--- a/pages/properties/cover.text-property.ts
++++ b/pages/properties/cover.text-property.ts
+@@ -8,7 +8,7 @@ export const cover = {
+   slug: "cover",
+   propertySlug: "cover",
+   definition: "the image that represents a page",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/properties/description.text-property.ts b/pages/properties/description.text-property.ts
+index 3795363c86e81f4fa31fd677366e1222263d045a..5ad2da05e8480db0117c615fbabab642409a49c6 100644
+--- a/pages/properties/description.text-property.ts
++++ b/pages/properties/description.text-property.ts
+@@ -8,6 +8,6 @@ export const description = {
+   slug: "description",
+   propertySlug: "description",
+   definition: "what a thing is, said for a reader",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/pages/properties/id.text-property.ts b/pages/properties/id.text-property.ts
+index 887ca7d242919164b1ecef2259cbe3c12345b662..2430f185bd6cc402ede065f16049da7049680f44 100644
+--- a/pages/properties/id.text-property.ts
++++ b/pages/properties/id.text-property.ts
+@@ -8,7 +8,7 @@ export const id = {
+   slug: "id",
+   propertySlug: "id",
+   definition: "the identity a page keeps for its whole life",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+   unique: "always",
+   generator: "uuid-v7",
+diff --git a/pages/properties/slug.text-property.ts b/pages/properties/slug.text-property.ts
+index e972eb85a8c9fe6ae2dd5cc3b90a6fae2351aa07..acce29580698342ac26a3947b4cef3b38d0fe75b 100644
+--- a/pages/properties/slug.text-property.ts
++++ b/pages/properties/slug.text-property.ts
+@@ -8,7 +8,7 @@ export const slug = {
+   slug: "slug",
+   propertySlug: "slug",
+   definition: "the name a page is reached by",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   unique: "page-type",
+   invariants: [
+diff --git a/pages/properties/title.text-property.ts b/pages/properties/title.text-property.ts
+index 8dfcac5ad1a8474efcf476cfa97a183989ea82e5..42032bf2e9d0ce3406afbc1315b1fe94bb85fbe5 100644
+--- a/pages/properties/title.text-property.ts
++++ b/pages/properties/title.text-property.ts
+@@ -8,7 +8,7 @@ export const title = {
+   slug: "title",
+   propertySlug: "title",
+   definition: "the name a thing is shown under",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/queries/properties/asks-of-slug.text-property.ts b/pages/queries/properties/asks-of-slug.text-property.ts
+index 2bcad4d489db226fa8a5df9620f56175a90f1976..2bcc667c4d66fd3cdd54870e49a0fe0502c2d2e6 100644
+--- a/pages/queries/properties/asks-of-slug.text-property.ts
++++ b/pages/queries/properties/asks-of-slug.text-property.ts
+@@ -8,7 +8,7 @@ export const asksOfSlug = {
+   slug: "asks-of-slug",
+   propertySlug: "asks-of-slug",
+   definition: "the page type a query asks of",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/pages/queries/properties/count-by.text-property.ts b/pages/queries/properties/count-by.text-property.ts
+index 14dc5718f880978c51bc8494c8b024d2964ced23..e90f50ff5fb7f0d9791024b704ae6a46e7b3ea91 100644
+--- a/pages/queries/properties/count-by.text-property.ts
++++ b/pages/queries/properties/count-by.text-property.ts
+@@ -10,7 +10,7 @@ export const countBy = {
+   slug: "count-by",
+   propertySlug: "count-by",
+   definition: "the keys a query gathers its pages under to count them",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/queries/properties/keys.text-property.ts b/pages/queries/properties/keys.text-property.ts
+index c05e21e08662e3e7bbdb6a9d51d1612945f930e6..48f8d28213b511a37b81cab916e8712baa13d253 100644
+--- a/pages/queries/properties/keys.text-property.ts
++++ b/pages/queries/properties/keys.text-property.ts
+@@ -10,7 +10,7 @@ export const keys = {
+   slug: "keys",
+   propertySlug: "keys",
+   definition: "the keys a query answers with, in the order it answers them",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/queries/properties/narrow-comparison.text-property.ts b/pages/queries/properties/narrow-comparison.text-property.ts
+index 7250cfd9e0bf9f6bf313033e453b55b9422490ac..d20606aac875a0d64821d2ae7bcf6b7b532e771b 100644
+--- a/pages/queries/properties/narrow-comparison.text-property.ts
++++ b/pages/queries/properties/narrow-comparison.text-property.ts
+@@ -17,7 +17,7 @@ export const narrowComparison = {
+   slug: "narrow-comparison",
+   propertySlug: "comparison",
+   definition: "how one narrow weighs a page's value against what it names",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/queries/properties/narrow-key.text-property.ts b/pages/queries/properties/narrow-key.text-property.ts
+index ec5d1ebdc7170d40df1461f48315bed2e365ae8c..85c66c7cac00f35d390fb324780efd00ebe925ba 100644
+--- a/pages/queries/properties/narrow-key.text-property.ts
++++ b/pages/queries/properties/narrow-key.text-property.ts
+@@ -8,7 +8,7 @@ export const narrowKey = {
+   slug: "narrow-key",
+   propertySlug: "key",
+   definition: "the key one narrow reads off a page",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/queries/properties/narrow-values.text-property.ts b/pages/queries/properties/narrow-values.text-property.ts
+index 8e2442fdab9498cadeaf6677bc347fc7f4247ff7..43963e30c7b7158b6f6c0041281203ff707effb2 100644
+--- a/pages/queries/properties/narrow-values.text-property.ts
++++ b/pages/queries/properties/narrow-values.text-property.ts
+@@ -10,7 +10,7 @@ export const narrowValues = {
+   slug: "narrow-values",
+   propertySlug: "values",
+   definition: "what one narrow weighs a page's value against",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/queries/properties/parameter-name.text-property.ts b/pages/queries/properties/parameter-name.text-property.ts
+index b9b2f70b595f88bedba3609e6f5dad76c7563f23..69c93332df66c16853769b79fa9770af6bace6b4 100644
+--- a/pages/queries/properties/parameter-name.text-property.ts
++++ b/pages/queries/properties/parameter-name.text-property.ts
+@@ -8,7 +8,7 @@ export const parameterName = {
+   slug: "parameter-name",
+   propertySlug: "name",
+   definition: "what one value a query is given is called",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/queries/properties/parameter-type.text-property.ts b/pages/queries/properties/parameter-type.text-property.ts
+index e60db308ed0079a795fbc03fbfa1832e8d43f204..c3953335685b8c94455a79219a4ef88930cba58e 100644
+--- a/pages/queries/properties/parameter-type.text-property.ts
++++ b/pages/queries/properties/parameter-type.text-property.ts
+@@ -15,7 +15,7 @@ export const parameterType = {
+   slug: "parameter-type",
+   propertySlug: "type",
+   definition: "the type one value a query is given holds",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/queries/properties/reduction.text-property.ts b/pages/queries/properties/reduction.text-property.ts
+index 631b733d00da225d5044d9ee435bc934ffb479b0..dba1a5a88231e2e8081147fcd73e3ebe8b8d1641 100644
+--- a/pages/queries/properties/reduction.text-property.ts
++++ b/pages/queries/properties/reduction.text-property.ts
+@@ -8,7 +8,7 @@ export const reduction = {
+   slug: "reduction",
+   propertySlug: "reduction",
+   definition: "how a query works the pages that passed down to one number",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/queries/properties/sort-by.text-property.ts b/pages/queries/properties/sort-by.text-property.ts
+index 0b526df54bff2f2d80046cef4cdf2d3683642da7..25c4435ebff757ee157d61fa516b01ea51f2d590 100644
+--- a/pages/queries/properties/sort-by.text-property.ts
++++ b/pages/queries/properties/sort-by.text-property.ts
+@@ -8,7 +8,7 @@ export const sortBy = {
+   slug: "sort-by",
+   propertySlug: "sort-by",
+   definition: "the key a query orders its answer by",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/queries/properties/target-key.text-property.ts b/pages/queries/properties/target-key.text-property.ts
+index 9b8838160241c1caad228d476a260aab7ab72b35..179e543fe896a5883b332d34249e5a2e6ac5338d 100644
+--- a/pages/queries/properties/target-key.text-property.ts
++++ b/pages/queries/properties/target-key.text-property.ts
+@@ -8,7 +8,7 @@ export const targetKey = {
+   slug: "target-key",
+   propertySlug: "target-key",
+   definition: "the key a query reduces to one number",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/select-properties/properties/select-values.text-property.ts b/pages/select-properties/properties/select-values.text-property.ts
+index 2305ee7e36021d83881f97756ac7d8f79176e250..0e4d49ed571436a556d7dae73629061f30a4ff1a 100644
+--- a/pages/select-properties/properties/select-values.text-property.ts
++++ b/pages/select-properties/properties/select-values.text-property.ts
+@@ -9,7 +9,7 @@ export const selectValues = {
+   slug: "select-values",
+   propertySlug: "values",
+   definition: "one value a select property admits",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/types/page-properties/properties/property-slug.text-property.ts b/pages/types/page-properties/properties/property-slug.text-property.ts
+index b0472265b556de9c09af366196fb67c547bacfac..f13d58b6a2fd396d23028bb2fe943f991b459e11 100644
+--- a/pages/types/page-properties/properties/property-slug.text-property.ts
++++ b/pages/types/page-properties/properties/property-slug.text-property.ts
+@@ -8,7 +8,7 @@ export const propertySlug = {
+   slug: "property-slug",
+   propertySlug: "property-slug",
+   definition: "the key a page carries this property's value under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/pages/types/properties/body-property-id.text-property.ts b/pages/types/properties/body-property-id.text-property.ts
+index 2d086bc2038418a548782aaafe3dbb247a4c8772..87a64553538a4f2fb27b280d932115d85d23c774 100644
+--- a/pages/types/properties/body-property-id.text-property.ts
++++ b/pages/types/properties/body-property-id.text-property.ts
+@@ -8,7 +8,7 @@ export const bodyPropertyId = {
+   slug: "body-property-id",
+   propertySlug: "body-property-id",
+   definition: "the key of the property a page's body is read from",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: "name-format/lower-camel-case",
+   invariants: [
+     {
+diff --git a/pages/types/properties/child-relation.text-property.ts b/pages/types/properties/child-relation.text-property.ts
+index ced44c7095835a765f0b271de1381d1031534a87..710d32a555db0c4fc7862b4f180c9a05ec4b0133 100644
+--- a/pages/types/properties/child-relation.text-property.ts
++++ b/pages/types/properties/child-relation.text-property.ts
+@@ -8,7 +8,7 @@ export const childRelation = {
+   slug: "child-relation",
+   propertySlug: "child-relation",
+   definition: "the key by which a gathered page names the page gathering it",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: "name-format/lower-camel-case",
+   invariants: [
+     {
+diff --git a/pages/types/properties/default-value.text-property.ts b/pages/types/properties/default-value.text-property.ts
+index a5274efdb893f6cd3769dcf6f7f248a3bd3ede07..04a1ccb4eb3187c4a7f5be2df1e20dc08ca30aa7 100644
+--- a/pages/types/properties/default-value.text-property.ts
++++ b/pages/types/properties/default-value.text-property.ts
+@@ -8,7 +8,7 @@ export const defaultValue = {
+   slug: "default-value",
+   propertySlug: "default",
+   definition: "the value a writer states for a property when it is told none",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/types/properties/detail-display.text-property.ts b/pages/types/properties/detail-display.text-property.ts
+index c839bcea3c2f692363ecf8218f8d88acd34444b1..a26c659f5f80d198ec1573b554ca8e4f2e5a2cea 100644
+--- a/pages/types/properties/detail-display.text-property.ts
++++ b/pages/types/properties/detail-display.text-property.ts
+@@ -8,7 +8,7 @@ export const detailDisplay = {
+   slug: "detail-display",
+   propertySlug: "display",
+   definition: "the layout a page type's pages are drawn in",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/pages/types/properties/header-fields.text-property.ts b/pages/types/properties/header-fields.text-property.ts
+index 3d2561bb4ee5c0c862cf5bcd3127daff144fd3ab..83609be0cffa9797829a561129cfea37321740a0 100644
+--- a/pages/types/properties/header-fields.text-property.ts
++++ b/pages/types/properties/header-fields.text-property.ts
+@@ -8,7 +8,7 @@ export const headerFields = {
+   slug: "header-fields",
+   propertySlug: "fields",
+   definition: "the keys of the properties standing above the pages a page gathers",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: "name-format/lower-camel-case",
+   invariants: [
+     {
+diff --git a/pages/types/properties/length-property-id.text-property.ts b/pages/types/properties/length-property-id.text-property.ts
+index cf81b7e53581b3c3977e1eaec928d1b45deb95fb..d034fefe901ad23c2a4fef0146b11203e3fac477 100644
+--- a/pages/types/properties/length-property-id.text-property.ts
++++ b/pages/types/properties/length-property-id.text-property.ts
+@@ -8,7 +8,7 @@ export const lengthPropertyId = {
+   slug: "length-property-id",
+   propertySlug: "length-property-id",
+   definition: "the key of the property holding how long a page is",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: "name-format/lower-camel-case",
+   invariants: [
+     {
+diff --git a/pages/types/properties/load-scroll.text-property.ts b/pages/types/properties/load-scroll.text-property.ts
+index bf5fe102e1c249b299e851acaf232114278067a0..8bfcc048aa1e422139adeb1faf49c3f339138216 100644
+--- a/pages/types/properties/load-scroll.text-property.ts
++++ b/pages/types/properties/load-scroll.text-property.ts
+@@ -8,7 +8,7 @@ export const loadScroll = {
+   slug: "load-scroll",
+   propertySlug: "load-scroll",
+   definition: "the place in a page the reader is put at as the page opens",
+-  max: 8,
++  maxLength: 8,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/pages/types/properties/media-renderer.text-property.ts b/pages/types/properties/media-renderer.text-property.ts
+index ac6c534375b1a7882cdf38faee568fc06d1a9383..476739668521037c62422ce9ea44492c8aa2f139 100644
+--- a/pages/types/properties/media-renderer.text-property.ts
++++ b/pages/types/properties/media-renderer.text-property.ts
+@@ -8,7 +8,7 @@ export const mediaRenderer = {
+   slug: "media-renderer",
+   propertySlug: "renderer",
+   definition: "the model that makes a page type's audio or image",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/types/properties/media-source-property-id.text-property.ts b/pages/types/properties/media-source-property-id.text-property.ts
+index 792294463805bad7babfbc46a3d6a45220ff827e..2d9ad85f2b1b305e33dacba19fc03227b91cb88d 100644
+--- a/pages/types/properties/media-source-property-id.text-property.ts
++++ b/pages/types/properties/media-source-property-id.text-property.ts
+@@ -8,7 +8,7 @@ export const mediaSourcePropertyId = {
+   slug: "media-source-property-id",
+   propertySlug: "source-property-id",
+   definition: "the key of the property a page's audio is rendered from",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/types/properties/media-variant-axis.text-property.ts b/pages/types/properties/media-variant-axis.text-property.ts
+index b6e50a8eb1e2d996901c486030f85e80098067d5..cb1c64e3321597be92ceaf74d4ca40107325b185 100644
+--- a/pages/types/properties/media-variant-axis.text-property.ts
++++ b/pages/types/properties/media-variant-axis.text-property.ts
+@@ -8,7 +8,7 @@ export const mediaVariantAxis = {
+   slug: "media-variant-axis",
+   propertySlug: "variant-axis",
+   definition: "what a page's audio is rendered once per, so one page holds several renditions",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/types/properties/progress-property-id.text-property.ts b/pages/types/properties/progress-property-id.text-property.ts
+index 85dd17422c41a828ab88fd81d535758a87711bb0..040dcee1a7215e94d77f768e96d15792bc458d2f 100644
+--- a/pages/types/properties/progress-property-id.text-property.ts
++++ b/pages/types/properties/progress-property-id.text-property.ts
+@@ -8,7 +8,7 @@ export const progressPropertyId = {
+   slug: "progress-property-id",
+   propertySlug: "progress-property-id",
+   definition: "the key of the property holding how far into a page the reader has come",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: "name-format/lower-camel-case",
+   invariants: [
+     {
+diff --git a/pages/types/properties/sequence-direction.text-property.ts b/pages/types/properties/sequence-direction.text-property.ts
+index 533e864cba0bacfec0bfffa941e64e95617c0786..76edc887a5ef2a09b673a9b1d974d5710e31bd9a 100644
+--- a/pages/types/properties/sequence-direction.text-property.ts
++++ b/pages/types/properties/sequence-direction.text-property.ts
+@@ -8,7 +8,7 @@ export const sequenceDirection = {
+   slug: "sequence-direction",
+   propertySlug: "direction",
+   definition: "whether a run of pages is sorted upward or downward",
+-  max: 4,
++  maxLength: 4,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/pages/types/properties/sequence-group-by.text-property.ts b/pages/types/properties/sequence-group-by.text-property.ts
+index 95bb7ebf205d3dba559af994aea86d2938cac949..a64cf0847e4623410ffa95307dbad53689a5a168 100644
+--- a/pages/types/properties/sequence-group-by.text-property.ts
++++ b/pages/types/properties/sequence-group-by.text-property.ts
+@@ -8,7 +8,7 @@ export const sequenceGroupBy = {
+   slug: "sequence-group-by",
+   propertySlug: "group-by",
+   definition: "the key whose value gathers a page type's pages into one run",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: "name-format/lower-camel-case",
+   invariants: [
+     {
+diff --git a/pages/types/properties/sequence-order-by.text-property.ts b/pages/types/properties/sequence-order-by.text-property.ts
+index 2329c5e389a60bea1f2410994e1574394d5a6295..7c4e07f862d66e97359fe3c0e774d274f6d74372 100644
+--- a/pages/types/properties/sequence-order-by.text-property.ts
++++ b/pages/types/properties/sequence-order-by.text-property.ts
+@@ -8,7 +8,7 @@ export const sequenceOrderBy = {
+   slug: "sequence-order-by",
+   propertySlug: "order-by",
+   definition: "the key a run of pages is sorted by",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: "name-format/lower-camel-case",
+   invariants: [
+     {
+diff --git a/pages/views/properties/always-show-properties.text-property.ts b/pages/views/properties/always-show-properties.text-property.ts
+index bc4228974f9438b4d01a5145e2c61ead9fa1127e..11b4f0183ef82fd31357c604e398316b00063f5d 100644
+--- a/pages/views/properties/always-show-properties.text-property.ts
++++ b/pages/views/properties/always-show-properties.text-property.ts
+@@ -8,6 +8,6 @@ export const alwaysShowProperties = {
+   slug: "always-show-properties",
+   propertySlug: "always-show-properties",
+   definition: "the properties a view draws even where a page holds no value for them",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/pages/views/properties/gallery-cover-source.text-property.ts b/pages/views/properties/gallery-cover-source.text-property.ts
+index 1156261a4a4247f3ef1f16ae3acf0416607eb194..bdb4e7fd66f86d289d067f833980d15c5979ace0 100644
+--- a/pages/views/properties/gallery-cover-source.text-property.ts
++++ b/pages/views/properties/gallery-cover-source.text-property.ts
+@@ -8,6 +8,6 @@ export const galleryCoverSource = {
+   slug: "gallery-cover-source",
+   propertySlug: "gallery-cover-source",
+   definition: "the property a gallery takes its picture from",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/pages/views/properties/group-by.text-property.ts b/pages/views/properties/group-by.text-property.ts
+index 33dc774e09a394ee594bc6af9566f4ba361c4e05..e3df6b9041bcbc71c74fc962efe11dd0fc7f2c08 100644
+--- a/pages/views/properties/group-by.text-property.ts
++++ b/pages/views/properties/group-by.text-property.ts
+@@ -8,6 +8,6 @@ export const groupBy = {
+   slug: "group-by",
+   propertySlug: "group-by",
+   definition: "the property a view gathers its pages under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/pages/views/properties/hidden-properties-order.text-property.ts b/pages/views/properties/hidden-properties-order.text-property.ts
+index 6875bfb1a68b7bd8511fd2b8349ae4acbee58508..ade9e0759d4ba31b5b92306606fa52c5f2457f09 100644
+--- a/pages/views/properties/hidden-properties-order.text-property.ts
++++ b/pages/views/properties/hidden-properties-order.text-property.ts
+@@ -8,6 +8,6 @@ export const hiddenPropertiesOrder = {
+   slug: "hidden-properties-order",
+   propertySlug: "hidden-properties-order",
+   definition: "the properties a view hides, in the order a person would reach them",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/pages/views/properties/reorder-command.text-property.ts b/pages/views/properties/reorder-command.text-property.ts
+index c1f7f2db03221efc82703ab93dc6ad454a871e1e..1b588e2fad2f01da96460914baced5a0ced8d83b 100644
+--- a/pages/views/properties/reorder-command.text-property.ts
++++ b/pages/views/properties/reorder-command.text-property.ts
+@@ -8,6 +8,6 @@ export const reorderCommand = {
+   slug: "reorder-command",
+   propertySlug: "reorder-command",
+   definition: "the command a view hands a reordering to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/pages/views/properties/sort-key.text-property.ts b/pages/views/properties/sort-key.text-property.ts
+index d78c36105de5798ff1a57b1a17f19e55548b9b70..b056605ac5e8fed0992a9df486c74a1a1e8be987 100644
+--- a/pages/views/properties/sort-key.text-property.ts
++++ b/pages/views/properties/sort-key.text-property.ts
+@@ -8,6 +8,6 @@ export const sortKey = {
+   slug: "sort-key",
+   propertySlug: "key",
+   definition: "a property a view orders its pages by",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/pages/views/properties/view-predicate.text-property.ts b/pages/views/properties/view-predicate.text-property.ts
+index 23cfd41f276bce4bcc1a0d84b751f1597a6ff736..965e3a49ae7191862f5e93926a8827abf664e72d 100644
+--- a/pages/views/properties/view-predicate.text-property.ts
++++ b/pages/views/properties/view-predicate.text-property.ts
+@@ -8,7 +8,7 @@ export const viewPredicate = {
+   slug: "view-predicate",
+   propertySlug: "view-predicate",
+   definition: "the named test a cross-type view draws by",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/pages/views/properties/visible-properties.text-property.ts b/pages/views/properties/visible-properties.text-property.ts
+index 08067074e74f6b5880ed98ce93fd6b6cbe049c7d..2f33e33f9b5fd41cceb5935a2fb8f651bb4fa8f6 100644
+--- a/pages/views/properties/visible-properties.text-property.ts
++++ b/pages/views/properties/visible-properties.text-property.ts
+@@ -8,7 +8,7 @@ export const visibleProperties = {
+   slug: "visible-properties",
+   propertySlug: "visible-properties",
+   definition: "the properties a view draws",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts b/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
+index 7ba787eb6911c17f5c71ff99984fa9e62f7d3d65..494f7bde84a67f2dbb4eecacd1f844efa55f19e2 100644
+--- a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
++++ b/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
+@@ -8,7 +8,7 @@ export const deviceSecretDeviceId = {
+   slug: "device-secret-device-id",
+   propertySlug: "device-id",
+   definition: "the device a secret was minted onto",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/upper-uuid",
+   invariants: [
+     {
+diff --git a/person-system/device-secrets/properties/device-secret-hash.text-property.ts b/person-system/device-secrets/properties/device-secret-hash.text-property.ts
+index 6e3dbdc8197113691f3a802a577545aef95e2aa1..b68d12e175168f8f0affaf870d1d11d4dfccb2b4 100644
+--- a/person-system/device-secrets/properties/device-secret-hash.text-property.ts
++++ b/person-system/device-secrets/properties/device-secret-hash.text-property.ts
+@@ -8,7 +8,7 @@ export const deviceSecretHash = {
+   slug: "device-secret-hash",
+   propertySlug: "secret-hash",
+   definition: "the sha-256 of the secret a device presents, written as lower hex",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: null,
+   unique: "page-type",
+   invariants: [
+diff --git a/person-system/device-secrets/properties/device-secret-user-id.text-property.ts b/person-system/device-secrets/properties/device-secret-user-id.text-property.ts
+index 8e33fef6b051d3ec69174d243d3cd9c1be459d29..8af2efd974e8c4e9a2e623619bdeba532fd67fab 100644
+--- a/person-system/device-secrets/properties/device-secret-user-id.text-property.ts
++++ b/person-system/device-secrets/properties/device-secret-user-id.text-property.ts
+@@ -8,7 +8,7 @@ export const deviceSecretUserId = {
+   slug: "device-secret-user-id",
+   propertySlug: "user-id",
+   definition: "the account a device secret was minted for",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+   invariants: [
+     {
+diff --git a/person-system/device-tokens/properties/device-token-token.text-property.ts b/person-system/device-tokens/properties/device-token-token.text-property.ts
+index 9c1fc767254b90e2e1b14384822563c80e2c3d8f..c72978773e6c25d5b6f758cf53c6dab4e9f15c48 100644
+--- a/person-system/device-tokens/properties/device-token-token.text-property.ts
++++ b/person-system/device-tokens/properties/device-token-token.text-property.ts
+@@ -8,7 +8,7 @@ export const deviceTokenToken = {
+   slug: "device-token-token",
+   propertySlug: "token",
+   definition: "the value Apple delivers a push to",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/person-system/people/email/gmail-mailboxes/properties/gmail-decision.text-property.ts b/person-system/people/email/gmail-mailboxes/properties/gmail-decision.text-property.ts
+index 0cd6e35d0fa848b7dbef0bd79a5140c23093ec35..d79e4e60be04d1368c27934573f2a676afa5e22c 100644
+--- a/person-system/people/email/gmail-mailboxes/properties/gmail-decision.text-property.ts
++++ b/person-system/people/email/gmail-mailboxes/properties/gmail-decision.text-property.ts
+@@ -8,6 +8,6 @@ export const gmailDecision = {
+   slug: "gmail-decision",
+   propertySlug: "decision",
+   definition: "what was settled about a message the mailbox went through",
+-  max: 40,
++  maxLength: 40,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/person-system/people/email/gmail-mailboxes/properties/gmail-message-id.text-property.ts b/person-system/people/email/gmail-mailboxes/properties/gmail-message-id.text-property.ts
+index 80db1dd5461b82b0b79b8dfadf5572d9ee9bf0ff..034896e9d3791fec08133f13ef8e98a660fcfe05 100644
+--- a/person-system/people/email/gmail-mailboxes/properties/gmail-message-id.text-property.ts
++++ b/person-system/people/email/gmail-mailboxes/properties/gmail-message-id.text-property.ts
+@@ -8,7 +8,7 @@ export const gmailMessageId = {
+   slug: "gmail-message-id",
+   propertySlug: "message-id",
+   definition: "the id Gmail gives a message",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/person-system/people/email/rules/agents/properties/email-rule-judgement.text-property.ts b/person-system/people/email/rules/agents/properties/email-rule-judgement.text-property.ts
+index 0eb8bd93cb303bb99ff2a553313b014bbda7cb6f..b7cf81280eaa3961855d83380ae740bc9bad9191 100644
+--- a/person-system/people/email/rules/agents/properties/email-rule-judgement.text-property.ts
++++ b/person-system/people/email/rules/agents/properties/email-rule-judgement.text-property.ts
+@@ -8,7 +8,7 @@ export const emailRuleJudgement = {
+   slug: "email-rule-judgement",
+   propertySlug: "judgement",
+   definition: "what an agent reaching a rule's mail is told to do with it",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/person-system/people/email/rules/codes/properties/email-rule-code-delay.text-property.ts b/person-system/people/email/rules/codes/properties/email-rule-code-delay.text-property.ts
+index 6abb4605c8be1a30d5aa2785dfe5f554e6b222a9..80c650d4880e022340a7fb16e107222a4d09c1e3 100644
+--- a/person-system/people/email/rules/codes/properties/email-rule-code-delay.text-property.ts
++++ b/person-system/people/email/rules/codes/properties/email-rule-code-delay.text-property.ts
+@@ -8,7 +8,7 @@ export const emailRuleCodeDelay = {
+   slug: "email-rule-code-delay",
+   propertySlug: "delay",
+   definition: "how long after mail arrives before the rule acts on it",
+-  max: 10,
++  maxLength: 10,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/person-system/people/email/rules/properties/email-rule-match-values.text-property.ts b/person-system/people/email/rules/properties/email-rule-match-values.text-property.ts
+index 3e4bd42d1360d2897d4e95813fab679ffb0c8efb..a26142c74af68e9ce6ce6c51c2ca58fcde1f4311 100644
+--- a/person-system/people/email/rules/properties/email-rule-match-values.text-property.ts
++++ b/person-system/people/email/rules/properties/email-rule-match-values.text-property.ts
+@@ -8,7 +8,7 @@ export const emailRuleMatchValues = {
+   slug: "email-rule-match-values",
+   propertySlug: "values",
+   definition: "what a clause holds to weigh a piece of mail against",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/person-system/people/properties/supabase-auth-user-id.text-property.ts b/person-system/people/properties/supabase-auth-user-id.text-property.ts
+index 2517964331f5ba2252ccb2b53acc662115958465..163385cc2facdeadd4a0367ad1cdec5323e1d8ab 100644
+--- a/person-system/people/properties/supabase-auth-user-id.text-property.ts
++++ b/person-system/people/properties/supabase-auth-user-id.text-property.ts
+@@ -8,7 +8,7 @@ export const supabaseAuthUserId = {
+   slug: "supabase-auth-user-id",
+   propertySlug: "supabase-auth-user-id",
+   definition: "the account a person signs in with",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+   invariants: [
+     {
+diff --git a/person-system/person-accesses/properties/person-access-serves.text-property.ts b/person-system/person-accesses/properties/person-access-serves.text-property.ts
+index ac7d9dc7eaac8f73bf6533525780bd6f0d10eeba..035a52ba9a82f9400ab5620f7cc09fc83d88f3c9 100644
+--- a/person-system/person-accesses/properties/person-access-serves.text-property.ts
++++ b/person-system/person-accesses/properties/person-access-serves.text-property.ts
+@@ -8,7 +8,7 @@ export const personAccessServes = {
+   slug: "person-access-serves",
+   propertySlug: "serves",
+   definition: "the shared page type the target represents",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/person-system/person-accesses/properties/person-access-target.text-property.ts b/person-system/person-accesses/properties/person-access-target.text-property.ts
+index 033b0ff8af33e5eb30c257b20b21ff7a4cb6e9e7..036ea5d5ac033a79558a565edbcd68e47944eb19 100644
+--- a/person-system/person-accesses/properties/person-access-target.text-property.ts
++++ b/person-system/person-accesses/properties/person-access-target.text-property.ts
+@@ -8,7 +8,7 @@ export const personAccessTarget = {
+   slug: "person-access-target",
+   propertySlug: "target",
+   definition: "the one thing of that kind the access reaches, or `all`",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/person-system/person-authorities/properties/person-authority-target.text-property.ts b/person-system/person-authorities/properties/person-authority-target.text-property.ts
+index c1d27c7d9c0fddbd95f33ed29910dc152203c355..5849df92da9d5b58e7f366d7e01d5e52d0f7cb6c 100644
+--- a/person-system/person-authorities/properties/person-authority-target.text-property.ts
++++ b/person-system/person-authorities/properties/person-authority-target.text-property.ts
+@@ -8,7 +8,7 @@ export const personAuthorityTarget = {
+   slug: "person-authority-target",
+   propertySlug: "target",
+   definition: "the area the authority covers",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/person-system/sms-consents/properties/sms-consent-ip-address.text-property.ts b/person-system/sms-consents/properties/sms-consent-ip-address.text-property.ts
+index 32e123d433b6e32dcb060ce5ea01461a7410c4d7..f0c9875b03189da67f686a6a636cf5f2320b5416 100644
+--- a/person-system/sms-consents/properties/sms-consent-ip-address.text-property.ts
++++ b/person-system/sms-consents/properties/sms-consent-ip-address.text-property.ts
+@@ -8,6 +8,6 @@ export const smsConsentIpAddress = {
+   slug: "sms-consent-ip-address",
+   propertySlug: "ip-address",
+   definition: "the address the agreement was sent from",
+-  max: 45,
++  maxLength: 45,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
