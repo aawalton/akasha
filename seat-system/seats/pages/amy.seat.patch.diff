@@ -20,3 +20,20 @@ index 39654fc3150eaac016b63e72138b5e53f983ffbc..862a437b99bc7c35097c60821ae90dda
  echo "OK: appended StreamHealthSamplesIntent to $APPDELEGATE"
  else
  echo "OK: stream-health-samples app intent seam SKIPPED — NATIVE_SHELL_HEALTH_SAMPLES_INTENT=0 (no Swift appended)."
+diff --git a/code-system/ios-apps/pages/alanwalton/scripts/health-samples-intent/alanwalton-health-samples-intent.shell-script.shell.sh b/code-system/ios-apps/pages/alanwalton/scripts/health-samples-intent/alanwalton-health-samples-intent.shell-script.shell.sh
+index 7e9c7dc070ec17de055128caa4737123515fc2f6..2c18a2be1debf3b0cd9b21096219df5856ea94ba 100644
+--- a/code-system/ios-apps/pages/alanwalton/scripts/health-samples-intent/alanwalton-health-samples-intent.shell-script.shell.sh
++++ b/code-system/ios-apps/pages/alanwalton/scripts/health-samples-intent/alanwalton-health-samples-intent.shell-script.shell.sh
+@@ -4,9 +4,9 @@ SEAM_PART_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
+ 
+ if [[ "$HEALTH_SAMPLES_INTENT_ENABLED" == "1" ]]; then
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/health-intent-declaration/alanwalton-health-intent-declaration.shell-script.shell.sh
+-. "$SEAM_PART_DIR/alanwalton-health-intent-declaration/alanwalton-health-intent-declaration.shell-script.shell.sh"
++. "$SEAM_PART_DIR/health-intent-declaration/alanwalton-health-intent-declaration.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/health-intent-perform/alanwalton-health-intent-perform.shell-script.shell.sh
+-. "$SEAM_PART_DIR/alanwalton-health-intent-perform/alanwalton-health-intent-perform.shell-script.shell.sh"
++. "$SEAM_PART_DIR/health-intent-perform/alanwalton-health-intent-perform.shell-script.shell.sh"
+ # shellcheck source=code-system/ios-apps/pages/alanwalton/scripts/health-intent-anchored-drain/alanwalton-health-intent-anchored-drain.shell-script.shell.sh
+-. "$SEAM_PART_DIR/alanwalton-health-intent-anchored-drain/alanwalton-health-intent-anchored-drain.shell-script.shell.sh"
++. "$SEAM_PART_DIR/health-intent-anchored-drain/alanwalton-health-intent-anchored-drain.shell-script.shell.sh"
+ fi
