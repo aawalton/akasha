@@ -1,0 +1,13 @@
+diff --git a/changes/atomic-changes/atomic-change.page-type.ts b/changes/atomic-changes/atomic-change.page-type.ts
+index c0114ddde5d87cdccccf3e05c35832f6606886cb..22c32e7aca25289ed85f743ea5052fad20e44488 100644
+--- a/changes/atomic-changes/atomic-change.page-type.ts
++++ b/changes/atomic-changes/atomic-change.page-type.ts
+@@ -24,7 +24,7 @@ export const atomicChange = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An atomic change runs no atomic change.",
++      statement: "An atomic change runs partial changes and no other change.",
+     },
+     {
+       invariantKind: "departure",
