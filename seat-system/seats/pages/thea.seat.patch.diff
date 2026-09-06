@@ -5280,7 +5280,7 @@ index 08067074e74f6b5880ed98ce93fd6b6cbe049c7d..2f33e33f9b5fd41cceb5935a2fb8f651
    invariants: [
      {
 diff --git a/pages/views/view.page-type.ts b/pages/views/view.page-type.ts
-index 95cd27462b9d5f9a76b2ebc8b4833b27a9b18dbd..b4329f22aa07484f57aa8d8b517b407cb1d28610 100644
+index 95cd27462b9d5f9a76b2ebc8b4833b27a9b18dbd..18a2675aab29d11ed23d83932bb86fe89d6e8368 100644
 --- a/pages/views/view.page-type.ts
 +++ b/pages/views/view.page-type.ts
 @@ -82,28 +82,28 @@ export const view = {
@@ -5318,8 +5318,32 @@ index 95cd27462b9d5f9a76b2ebc8b4833b27a9b18dbd..b4329f22aa07484f57aa8d8b517b407c
      },
      { pagePropertySlug: "number-property/page-size", required: false, many: false },
      { pagePropertySlug: "number-property/item-page-size", required: false, many: false },
+@@ -117,13 +117,19 @@ export const view = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A view names the page type the view draws by slug, and its properties by each declaration's key.",
++      statement: "A view names by slug the page type the view draws.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A view carries the order its properties are shown in, the hidden ones among those properties.",
++      statement: "A view names a property by that property's declaration key.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A view carries the order its properties are shown in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A view carries its hidden properties.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts b/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
-index 7ba787eb6911c17f5c71ff99984fa9e62f7d3d65..a081a0ba0c31f4b460f9fa1c7cae752dc8247e02 100644
+index 5a63086367fddc1a6a962a3fb6aaa783edd821c0..afd5f961233350a3d3505de02de23a66f6b9c5f2 100644
 --- a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
 +++ b/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
 @@ -8,7 +8,7 @@ export const deviceSecretDeviceId = {
@@ -5331,12 +5355,15 @@ index 7ba787eb6911c17f5c71ff99984fa9e62f7d3d65..a081a0ba0c31f4b460f9fa1c7cae752d
    nameFormatSlug: "name-format/upper-uuid",
    invariants: [
      {
-@@ -18,7 +18,7 @@ export const deviceSecretDeviceId = {
+@@ -18,7 +18,11 @@ export const deviceSecretDeviceId = {
      },
      {
        invariantKind: "departure",
--      statement: "A device uninstalling the app states a new one.",
++<<<<<<< what this change would leave
 +      statement: "A device uninstalling the app states a new identifier.",
++=======
+       statement: "A device uninstalling the app states a new device id.",
++>>>>>>> what HEAD holds
      },
    ],
  } as const satisfies TextProperty
