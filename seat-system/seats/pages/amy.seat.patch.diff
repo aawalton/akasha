@@ -85,6 +85,39 @@ index 12ee87c54a930a50ed86d0bffa10df3c08925f34..7c1a63f52b7ec312257f843afdb9599a
  // HOW A SEAT STARTED AND HOW IT WAS LAUNCHED ARE THE SAME FACT UNDER TWO VOCABULARIES. The mode is
  // what a seat states of itself; the launch is what the environment tells the agent inside it. These
  // two carry one to the other so that neither vocabulary has to know the other's spellings.
+diff --git a/seat-system/seat-modes/seat-modes.module.ts b/seat-system/seat-modes/seat-modes.module.ts
+index 9c705c296449d0faa1122c9ff2fd6f8391461197..7e47e25127f90fc6e5a968eb62089df638ef7b0d 100644
+--- a/seat-system/seat-modes/seat-modes.module.ts
++++ b/seat-system/seat-modes/seat-modes.module.ts
+@@ -4,7 +4,8 @@ export const seatModes = {
+   id: "01a06867-7fc9-7001-ab42-25809f0fc7df",
+   pageTypeSlug: "module",
+   slug: "seat-modes",
+-  definition: "the two modes a seat starts in, and the launch each one is seen as",
++  definition:
++    "the two modes a seat runs in, the flag that sets one, and the launch each is seen as",
+   code: "ts",
+   test: "ts",
+   invariants: [
+@@ -24,6 +25,18 @@ export const seatModes = {
+       invariantKind: "departure",
+       statement: "A mode carried to a launch and back is the mode that mode set out as.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The flag putting a seat in headless is spelled here and nowhere else.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A command line carrying that flag is running headless.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A command line carrying no flag at all is running interactive.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here reads a seat.",
 diff --git a/seat-system/seats/properties/mode.text-property.ts b/seat-system/seats/properties/mode.text-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..a778a898bbb5b11ec49e0abe1b6c242fd1117e45
