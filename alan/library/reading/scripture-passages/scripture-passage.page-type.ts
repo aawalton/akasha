@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { Collection } from "../../../../collections/collection.page-type.ts"
-import type { ExternalId } from "../../../../collections/collection-externals/properties/external-id.text-property.ts"
+import type { ExternalId } from "../../../../collections/externals/properties/external-id.text-property.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { PassageText } from "./properties/passage-text.file-property.ts"
 import type { ScriptureBook } from "./properties/scripture-book.text-property.ts"

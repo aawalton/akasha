@@ -1,5 +1,5 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
+import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { Genres } from "../properties/genres.text-property.ts"
 import type { ImdbId } from "../properties/imdb-id.text-property.ts"

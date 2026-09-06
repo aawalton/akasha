@@ -1,6 +1,6 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
-import type { ExternalId } from "../../../collections/collection-externals/properties/external-id.text-property.ts"
+import type { ExternalId } from "../../../collections/externals/properties/external-id.text-property.ts"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { PlayedAt } from "../../tracking/daily/eso-days/properties/played-at.instant-property.ts"
 import type { ChessBlack } from "./properties/chess-black.text-property.ts"

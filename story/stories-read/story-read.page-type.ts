@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CollectionExternal } from "../../collections/collection-externals/collection-external.page-type.ts"
-import type { Source } from "../../collections/collection-externals/properties/source.text-property.ts"
+import type { CollectionExternal } from "../../collections/externals/collection-external.page-type.ts"
+import type { Source } from "../../collections/externals/properties/source.text-property.ts"
 import type { Title } from "../../pages/properties/title.text-property.ts"
 import type { Prose } from "../stories-played/properties/prose.file-property.ts"
 import type { WorldSlug } from "../stories-played/properties/world-slug.relation-property.ts"

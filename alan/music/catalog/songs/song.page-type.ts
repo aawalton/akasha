@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { CollectionExternal } from "../../../../collections/collection-externals/collection-external.page-type.ts"
-import type { ExternalId } from "../../../../collections/collection-externals/properties/external-id.text-property.ts"
+import type { CollectionExternal } from "../../../../collections/externals/collection-external.page-type.ts"
+import type { ExternalId } from "../../../../collections/externals/properties/external-id.text-property.ts"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { ArtistSlug } from "./properties/artist-slug.relation-property.ts"
 import type { Insights } from "./properties/insights.file-property.ts"
