@@ -219,6 +219,30 @@ index 3b539b09d77b90976ba50b7a94d462771d47be10..240cebaa87d4118bd5a20529aa841f89
      "lint": "biome check .",
      "lint:fix": "biome check --write .",
      "test": "bun test"
+diff --git a/temper/temper-commands/temper-package-typecheck/temper-package-typecheck.command.code.ts b/temper/temper-commands/temper-package-typecheck/temper-package-typecheck.command.code.ts
+index 28abaff1afe1e67a9c5389345c1010929b7b3287..98a5b16d325655badc245fe95e23dabced7e25d5 100644
+--- a/temper/temper-commands/temper-package-typecheck/temper-package-typecheck.command.code.ts
++++ b/temper/temper-commands/temper-package-typecheck/temper-package-typecheck.command.code.ts
+@@ -10,7 +10,8 @@ const FAILED = 3
+ 
+ const UNDER = "temper"
+ const CONFIG = "tsconfig.json"
+-const COMPILER = ["bunx", "@typescript/native-preview", "--noEmit", "--listFiles", "-p"]
++const COMPILER_AT = "node_modules/typescript-7/bin/tsc"
++const COMPILER = ["--noEmit", "--listFiles", "-p"]
+ const CEILING_MS = 30 * 60 * 1000
+ const A_MINUTE = 60000
+ const SAYS_ERROR = "error TS"
+@@ -45,7 +46,8 @@ function packagesUnder(at: string): readonly string[] {
+ 
+ function judged(root: string, at: string, name: string, left: number): Judged {
+   const here = join(at, name)
+-  const said = ran([...COMPILER, join(here, CONFIG)], { cwd: root, timeout: left })
++  const called = [join(root, COMPILER_AT), ...COMPILER, join(here, CONFIG)]
++  const said = ran(called, { cwd: root, timeout: left })
+   const lines = `${said.out}\n${said.err}`.split("\n").map((one) => one.trim())
+   const errors = lines.filter((one) => one.includes(SAYS_ERROR))
+   const files = lines.filter((one) => one.startsWith("/") && !one.includes(SAYS_ERROR))
 diff --git a/temper/temper-web/package.json b/temper/temper-web/package.json
 index 81d5f23dec5e9da2295236dc5f4b23d5662360aa..8f8ca1d5d22131d0bd5f32e945bf6347a84bce0a 100644
 --- a/temper/temper-web/package.json
