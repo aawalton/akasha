@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/temper/temper-web/routes/_app-layout.tsx b/temper/temper-web/routes/_app-layout.tsx
+index a0fd945d2415482d604eae85fea73d1d3f72da98..cdb3e7cd9b7878daa6059114673fac15ec8ab4f6 100644
+--- a/temper/temper-web/routes/_app-layout.tsx
++++ b/temper/temper-web/routes/_app-layout.tsx
+@@ -15,7 +15,7 @@ export async function loader({ request }: Route.LoaderArgs) {
+     try {
+       const result = await getPages({
+         pageTypeSlug: "nav",
+-        where: [{ key: "app", eq: TEMPER_APP_ID }],
++        where: [{ key: "appSlug", eq: TEMPER_APP_SLUG }],
+         limit: 200,
+       })
+       navItems = result.rows
