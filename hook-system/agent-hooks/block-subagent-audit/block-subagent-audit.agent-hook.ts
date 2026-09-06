@@ -27,20 +27,19 @@ export const blockSubagentAudit = {
     {
       invariantKind: "departure",
       statement:
-        "A prefix that only runs the call behind that prefix does not hide this one from this hook.",
+        "A prefix that only runs the call behind that prefix does not hide that call from this hook.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The refusal says a run's cost, the command's own help saying only the changes that command writes.",
+      statement: "The refusal says a run's cost.",
     },
     {
       invariantKind: "departure",
-      statement: "A run narrowed to named checks is refused as a whole one is.",
+      statement: "A run narrowed to named checks is refused as a whole run is.",
     },
     {
       invariantKind: "departure",
-      statement: "A run narrowed to named paths is refused as a whole one is.",
+      statement: "A run narrowed to named paths is refused as a whole run is.",
     },
     {
       invariantKind: "departure",
