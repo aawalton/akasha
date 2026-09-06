@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
-index b8ade63be5844cd954278abdc774889eed65f2dc..43be1b96e8c816e158f2e8c0cdd888cff8b2a099 100644
+index b8ade63be5844cd954278abdc774889eed65f2dc..0c5651aff99e623ee2d16be177b60679a59f3b45 100644
 --- a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
 +++ b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
 @@ -41,7 +41,8 @@ export const temperInventoryRule = {
@@ -13,7 +13,7 @@ index b8ade63be5844cd954278abdc774889eed65f2dc..43be1b96e8c816e158f2e8c0cdd888cf
      },
      {
        invariantKind: "departure",
-@@ -49,11 +50,13 @@ export const temperInventoryRule = {
+@@ -49,15 +50,17 @@ export const temperInventoryRule = {
      },
      {
        invariantKind: "departure",
@@ -29,3 +29,8 @@ index b8ade63be5844cd954278abdc774889eed65f2dc..43be1b96e8c816e158f2e8c0cdd888cf
      },
      {
        invariantKind: "gap",
+-      statement: "A rule adopted from a template and since edited says the changes that rule made.",
++      statement: "A rule adopted from a template and later edited says the changes that rule made.",
+     },
+   ],
+ } as const satisfies PageType
