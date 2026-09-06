@@ -50,7 +50,7 @@ export const relationshipTopic = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A relationship topic is under another relationship topic, or under none.",
+      statement: "A relationship topic is under another relationship topic or under no topic.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +58,7 @@ export const relationshipTopic = {
     },
     {
       invariantKind: "absence",
-      statement: "A person named here is one the system reaches rather than any relationship.",
+      statement: "A person named here is a person the system reaches rather than a relationship.",
     },
   ],
 } as const satisfies PageType
