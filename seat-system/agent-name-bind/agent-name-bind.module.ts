@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const agentNameBind = {
   id: "01a0695a-d2ea-7203-a1a2-06a2a8188bc0",

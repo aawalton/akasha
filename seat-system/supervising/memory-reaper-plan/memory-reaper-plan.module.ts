@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const memoryReaperPlan = {
   id: "01a0686c-f06b-7004-8e58-5c2972baf99d",

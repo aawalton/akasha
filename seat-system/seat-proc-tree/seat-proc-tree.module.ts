@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seatProcTree = {
   id: "01a0686d-9d5e-700a-b949-3878b576dfa8",

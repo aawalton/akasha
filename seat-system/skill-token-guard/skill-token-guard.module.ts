@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const skillTokenGuard = {
   id: "01a06983-278f-7783-8ab5-b3999bf58fcb",

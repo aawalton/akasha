@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seatRelaunchNameDecide = {
   id: "01a0686d-9d5e-700f-b204-fb26482a5d38",

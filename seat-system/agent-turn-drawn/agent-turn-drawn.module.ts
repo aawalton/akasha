@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const agentTurnDrawn = {
   id: "01a06966-501e-7364-ba85-aba175e8b52a",

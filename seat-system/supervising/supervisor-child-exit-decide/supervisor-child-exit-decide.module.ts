@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorChildExitDecide = {
   id: "01a0683e-3dbe-700e-bc70-8aac8a65c77d",

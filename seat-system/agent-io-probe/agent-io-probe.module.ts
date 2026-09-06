@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const agentIoProbe = {
   id: "01a0695a-d2ea-7a83-ac29-18a8a68f3c6d",

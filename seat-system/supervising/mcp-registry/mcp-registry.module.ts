@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mcpRegistry = {
   id: "01a0686c-f06b-7009-b6fa-ed9426be09a5",

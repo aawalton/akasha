@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const ptyTerminalDeath = {
   id: "01a069c2-9357-7002-8c4b-9929c9d4cb5a",

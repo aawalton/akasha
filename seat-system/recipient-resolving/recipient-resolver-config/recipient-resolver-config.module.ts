@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const recipientResolverConfig = {
   id: "01a0657d-a75e-7000-8cb9-c08b467911d7",

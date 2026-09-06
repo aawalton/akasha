@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const launchFlags = {
   id: "01a06964-d998-7def-b199-95bb54b08519",

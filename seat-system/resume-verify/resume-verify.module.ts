@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const resumeVerify = {
   id: "01a0695a-d2ea-7d56-ac15-1ff57dc76422",

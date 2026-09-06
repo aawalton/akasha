@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const launchSeatTmux = {
   id: "01a06983-278f-7269-bd88-794f83800559",

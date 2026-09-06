@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const turnWorking = {
   id: "01a0687b-3c85-7000-b60f-9d7b8c037697",

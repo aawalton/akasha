@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorBootStage = {
   id: "01a0683e-3dbe-700d-8afe-952b34ffad1a",

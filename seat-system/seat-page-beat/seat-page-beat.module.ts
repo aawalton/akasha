@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seatPageBeat = {
   id: "01a0692a-1110-7af0-a99e-53fc742d08aa",

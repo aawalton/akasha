@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seatTranscriptPath = {
   id: "01a06949-b281-7c83-952b-22f6213b7460",

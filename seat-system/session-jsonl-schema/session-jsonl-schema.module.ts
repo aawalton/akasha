@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const sessionJsonlSchema = {
   id: "01a06983-278f-7fa0-b3e1-dc549e824d94",

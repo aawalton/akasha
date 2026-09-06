@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const accountTerminal = {
   id: "01a069bf-f8d9-7000-aa5b-257908ffc88e",

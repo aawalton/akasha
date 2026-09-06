@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const killTargetPlan = {
   id: "01a06983-278f-7720-b731-2e7ba480b718",

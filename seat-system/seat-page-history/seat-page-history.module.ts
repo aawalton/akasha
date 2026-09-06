@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seatPageHistory = {
   id: "01a06949-b281-73d6-bbcd-230e36f15701",

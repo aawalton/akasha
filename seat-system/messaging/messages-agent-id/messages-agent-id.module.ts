@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const messagesAgentId = {
   id: "01a0686c-f06b-700f-b509-474c22d7c815",

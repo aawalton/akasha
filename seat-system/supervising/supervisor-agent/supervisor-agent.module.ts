@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorAgent = {
   id: "01a0683e-3dbe-7003-8c74-a74611900fdd",

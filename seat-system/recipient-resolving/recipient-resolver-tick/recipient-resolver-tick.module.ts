@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const recipientResolverTick = {
   id: "01a0657d-a75e-7005-b58c-0987d7b7e34f",

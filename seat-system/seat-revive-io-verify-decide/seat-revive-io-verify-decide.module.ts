@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seatReviveIoVerifyDecide = {
   id: "01a0686d-9d5e-700d-914f-8bcfda76a867",

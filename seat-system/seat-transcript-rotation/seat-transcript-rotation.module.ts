@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seatTranscriptRotation = {
   id: "01a071f5-4e4d-79a8-aff6-911818ba3e7e",

@@ -53,7 +53,7 @@ index bc486a1cbf93f91716cb51bbab99491b6dcfa857..00000000000000000000000000000000
 --- a/utils-narrow/as-boolean/as-boolean.module.ts
 +++ /dev/null
 @@ -1,9 +0,0 @@
--import type { Module } from "@akasha/code-system/module"
+-import type { Module } from "@akasha/code/module"
 -
 -export const asBoolean = {
 -  id: "01a05cf2-453a-79a8-abf8-4a76a72f4145",
@@ -681,7 +681,7 @@ index 5c3e6457a08898af00f51f970cfb6756a99efa76..00000000000000000000000000000000
 --- a/utils-narrow/no-op/no-op.module.ts
 +++ /dev/null
 @@ -1,9 +0,0 @@
--import type { Module } from "@akasha/code-system/module"
+-import type { Module } from "@akasha/code/module"
 -
 -export const noOp = {
 -  id: "01a05cf2-453a-7cba-9514-812f41ef987e",
@@ -1172,7 +1172,7 @@ index 2688e7130a47f57ebebdb21ec590b5dce6fdf033..00000000000000000000000000000000
 --- a/utils-narrow/shape-core/shape-core.module.ts
 +++ /dev/null
 @@ -1,9 +0,0 @@
--import type { Module } from "@akasha/code-system/module"
+-import type { Module } from "@akasha/code/module"
 -
 -export const shapeCore = {
 -  id: "01a06983-278f-76b7-8ed0-9afe9d90f7be",
@@ -1442,7 +1442,7 @@ index 77603ce2534645885085ca8688bf582761db70af..00000000000000000000000000000000
 --- a/utils-narrow/shape-object/shape-object.module.ts
 +++ /dev/null
 @@ -1,9 +0,0 @@
--import type { Module } from "@akasha/code-system/module"
+-import type { Module } from "@akasha/code/module"
 -
 -export const shapeObject = {
 -  id: "01a06983-278f-798f-9e80-5d6ce48a6cf8",
@@ -1711,7 +1711,7 @@ index 47c6b9db87cc20ad4c1f48b9c67d1fc118324f51..00000000000000000000000000000000
 --- a/utils-narrow/shape-scalar/shape-scalar.module.ts
 +++ /dev/null
 @@ -1,9 +0,0 @@
--import type { Module } from "@akasha/code-system/module"
+-import type { Module } from "@akasha/code/module"
 -
 -export const shapeScalar = {
 -  id: "01a06983-278f-79a6-b1ea-de46cdea4760",
@@ -1902,7 +1902,7 @@ index 0000000000000000000000000000000000000000..bc486a1cbf93f91716cb51bbab99491b
 --- /dev/null
 +++ b/utils-narrowing/as-boolean/as-boolean.module.ts
 @@ -0,0 +1,9 @@
-+import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
 +
 +export const asBoolean = {
 +  id: "01a05cf2-453a-79a8-abf8-4a76a72f4145",
@@ -2530,7 +2530,7 @@ index 0000000000000000000000000000000000000000..5c3e6457a08898af00f51f970cfb6756
 --- /dev/null
 +++ b/utils-narrowing/no-op/no-op.module.ts
 @@ -0,0 +1,9 @@
-+import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
 +
 +export const noOp = {
 +  id: "01a05cf2-453a-7cba-9514-812f41ef987e",
@@ -3021,7 +3021,7 @@ index 0000000000000000000000000000000000000000..2688e7130a47f57ebebdb21ec590b5dc
 --- /dev/null
 +++ b/utils-narrowing/shape-core/shape-core.module.ts
 @@ -0,0 +1,9 @@
-+import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
 +
 +export const shapeCore = {
 +  id: "01a06983-278f-76b7-8ed0-9afe9d90f7be",
@@ -3291,7 +3291,7 @@ index 0000000000000000000000000000000000000000..77603ce2534645885085ca8688bf5827
 --- /dev/null
 +++ b/utils-narrowing/shape-object/shape-object.module.ts
 @@ -0,0 +1,9 @@
-+import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
 +
 +export const shapeObject = {
 +  id: "01a06983-278f-798f-9e80-5d6ce48a6cf8",
@@ -3560,7 +3560,7 @@ index 0000000000000000000000000000000000000000..47c6b9db87cc20ad4c1f48b9c67d1fc1
 --- /dev/null
 +++ b/utils-narrowing/shape-scalar/shape-scalar.module.ts
 @@ -0,0 +1,9 @@
-+import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
 +
 +export const shapeScalar = {
 +  id: "01a06983-278f-79a6-b1ea-de46cdea4760",

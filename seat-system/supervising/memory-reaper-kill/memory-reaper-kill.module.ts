@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const memoryReaperKill = {
   id: "01a0686c-f06b-7006-9d1b-e53dd0c8cb4a",

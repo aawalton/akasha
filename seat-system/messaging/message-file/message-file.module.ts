@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const messageFile = {
   id: "01a06a00-69c9-7000-9e16-a5778d6ad576",

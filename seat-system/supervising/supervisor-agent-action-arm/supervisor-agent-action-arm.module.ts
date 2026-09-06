@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorAgentActionArm = {
   id: "01a0683e-3dbe-7005-8bd3-faecca604871",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const messageTo = {
   id: "01a0686c-f06b-700b-b0ac-bf88b0cd5564",

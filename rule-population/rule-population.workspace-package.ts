@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const rulePopulation = {
   id: "01a0657b-9adc-7000-965c-fbd541f6a04d",

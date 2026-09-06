@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pendingMaintaining = {
   id: "01a0686a-7a57-7e87-825d-ae7e67bf9301",

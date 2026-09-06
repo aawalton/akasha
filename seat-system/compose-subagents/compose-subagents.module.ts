@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const composeSubagents = {
   id: "01a0693a-bad9-717d-acdb-f16a6ac2554c",

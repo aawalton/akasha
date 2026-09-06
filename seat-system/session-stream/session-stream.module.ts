@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const sessionStream = {
   id: "01a06983-278f-7a83-9918-2c291cd81291",

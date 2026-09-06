@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const composeNotices = {
   id: "01a06938-eca5-74c0-8f2c-68975c8da6f1",

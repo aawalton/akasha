@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seatTurnColor = {
   id: "01a06964-d998-7c3e-8f55-91ff918f96ac",

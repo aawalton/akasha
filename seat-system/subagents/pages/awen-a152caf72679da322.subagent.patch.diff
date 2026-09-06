@@ -75,9 +75,9 @@ index 45fb57f05c5d861089db72f17da6ebea1803a521..77f3ae757fb8c79b45b50f08e884ed05
 -import { dirname, resolve } from "node:path"
 +import { readdirSync } from "node:fs"
 +import { dirname, join, resolve } from "node:path"
- import { textIn } from "@akasha/code-system/body-text"
--import { lineAt, parsedAs } from "@akasha/code-system/code-source"
-+import { parsedAs } from "@akasha/code-system/code-source"
+ import { textIn } from "@akasha/code/body-text"
+-import { lineAt, parsedAs } from "@akasha/code/code-source"
++import { parsedAs } from "@akasha/code/code-source"
  import {
    compiled,
 -  insideOf,
@@ -87,9 +87,9 @@ index 45fb57f05c5d861089db72f17da6ebea1803a521..77f3ae757fb8c79b45b50f08e884ed05
 -  programOver,
    readingOf,
 +  servedOf,
- } from "@akasha/code-system/code-typing"
- import { reachesIn } from "@akasha/code-system/package-manifest"
- import { rootRoute } from "@akasha/code-system/router-app/root-route"
+ } from "@akasha/code/code-typing"
+ import { reachesIn } from "@akasha/code/package-manifest"
+ import { rootRoute } from "@akasha/code/router-app/root-route"
 @@ -20,10 +19,11 @@ import type { Change } from "@akasha/pages/change"
  import { pageNamed } from "@akasha/pages/page-file-name"
  import type { Shadow } from "@akasha/pages/shadow"
@@ -812,7 +812,7 @@ index 8a12f3322abf11b82470244803794390be2145a9..00000000000000000000000000000000
 @@ -1,144 +0,0 @@
 -import { readdirSync } from "node:fs"
 -import { join, resolve } from "node:path"
--import { servedOf } from "@akasha/code-system/code-typing"
+-import { servedOf } from "@akasha/code/code-typing"
 -import { waitingKeys } from "@akasha/indexes/generated-properties"
 -import type { Change } from "@akasha/pages/change"
 -import type { Shadow } from "@akasha/pages/shadow"
@@ -1108,8 +1108,8 @@ index 4dbc4873535da8dc11fd36f7b44237157e7708a1..de95ffcc2783d88052b5e0f48db9c725
 @@ -1,6 +1,6 @@
  import { realpathSync } from "node:fs"
  import { dirname, join, resolve } from "node:path"
--import { buildInfoAt, stamped, versionOf, writtenTo } from "@akasha/code-system/typing-keeping"
-+import { stamped, versionOf, writtenTo } from "@akasha/code-system/typing-keeping"
+-import { buildInfoAt, stamped, versionOf, writtenTo } from "@akasha/code/typing-keeping"
++import { stamped, versionOf, writtenTo } from "@akasha/code/typing-keeping"
  import ts from "typescript"
  
  const TS = ".ts"

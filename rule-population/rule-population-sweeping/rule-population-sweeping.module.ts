@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const rulePopulationSweeping = {
   id: "01a0686a-7a57-7ebe-a257-9653a695a03e",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const spawnSeat = {
   id: "01a06983-278f-7aef-a9d5-646b542b1d97",

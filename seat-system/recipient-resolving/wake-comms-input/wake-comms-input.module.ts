@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const wakeCommsInput = {
   id: "01a0691b-4f64-7b71-ba64-5c92023f77fe",

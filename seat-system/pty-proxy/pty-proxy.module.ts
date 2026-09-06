@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const ptyProxy = {
   id: "01a069c2-9357-7003-bbea-553c17c4e0dd",

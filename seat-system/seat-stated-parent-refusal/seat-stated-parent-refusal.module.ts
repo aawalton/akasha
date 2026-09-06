@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seatStatedParentRefusal = {
   id: "01a0686d-9d5e-7013-b269-67c3e7b3038a",

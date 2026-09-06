@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const agentHookRegistration = {
   id: "01a069ca-e863-7000-a1ae-b2d92e543dd0",

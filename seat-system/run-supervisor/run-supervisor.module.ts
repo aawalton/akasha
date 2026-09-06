@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const runSupervisor = {
   id: "01a069c8-f654-7d87-acd6-65d71f1132ff",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const memoryReaping = {
   id: "01a0686a-7a57-73d2-a05d-06bd52f76154",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seatPending = {
   id: "01a0657f-4492-7003-914d-556c08c04bef",

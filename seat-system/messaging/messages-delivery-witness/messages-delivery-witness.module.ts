@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const messagesDeliveryWitness = {
   id: "01a0686c-f06b-7011-b06e-16258f8aa85f",
