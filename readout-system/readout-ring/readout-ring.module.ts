@@ -42,7 +42,8 @@ export const readoutRing = {
     },
     {
       invariantKind: "gap",
-      statement: "The ring the widgets draw in SwiftUI and this one are read from one page.",
+      statement:
+        "The ring the widgets draw in SwiftUI and the ring drawn here are read from one page.",
     },
   ],
 } as const satisfies Module
