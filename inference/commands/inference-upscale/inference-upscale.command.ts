@@ -41,7 +41,7 @@ export const inferenceUpscale = {
     },
     {
       invariantKind: "departure",
-      statement: "The seed the recipe carries is used where nothing names one.",
+      statement: "The seed the recipe carries is used where nothing names a seed.",
     },
     {
       invariantKind: "departure",
