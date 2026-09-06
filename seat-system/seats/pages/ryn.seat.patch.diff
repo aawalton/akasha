@@ -1,8 +1,17 @@
 readersOweReading: false
 diff --git a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
-index 469ed3afc2a9f972892f1800ac7eecd6e815a011..b4d0c93260ceb9b5ec57dcb36d688148f357bdff 100644
+index 469ed3afc2a9f972892f1800ac7eecd6e815a011..9e03d018a75fe86b8079ce652cdd20f2c1c43206 100644
 --- a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
 +++ b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
+@@ -44,7 +44,7 @@ export const violationReporting = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A violation is said as file, line and message where the violation carries file, line and message.",
++        "A violation is said as file and line and message where the violation carries those fields.",
+     },
+     {
+       invariantKind: "departure",
 @@ -53,7 +53,7 @@ export const violationReporting = {
      },
      {
