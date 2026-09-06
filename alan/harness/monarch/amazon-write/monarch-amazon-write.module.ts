@@ -9,7 +9,7 @@ export const monarchAmazonWrite = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A note is written only where the row carries none.",
+      statement: "A note is written only where the row carries no note.",
     },
     {
       invariantKind: "departure",
@@ -35,8 +35,11 @@ export const monarchAmazonWrite = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Nothing is written at all where the caller did not ask to write, and the writes are said instead.",
+      statement: "Nothing is written where the caller did not ask to write.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The writes are said where the caller did not ask to write.",
     },
     {
       invariantKind: "departure",
