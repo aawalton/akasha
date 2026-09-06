@@ -1,0 +1,523 @@
+diff --git a/agents/claude-accounts/claude-account.page-type.ts b/agents/claude-accounts/claude-account.page-type.ts
+index a10f1969bce762847dcc278227f99732e04c469c..0f8b731541780d011dd9f53b9785ede7aa14b580 100644
+--- a/agents/claude-accounts/claude-account.page-type.ts
++++ b/agents/claude-accounts/claude-account.page-type.ts
+@@ -212,6 +212,7 @@ export const claudeAccount = {
+       many: false,
+     },
+   ],
++  worked: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/agents/claude-accounts/claude-account.page-type.worked.ts b/agents/claude-accounts/claude-account.page-type.worked.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a0e69bc8affa846fe33c41116d2b3714c042e41a
+--- /dev/null
++++ b/agents/claude-accounts/claude-account.page-type.worked.ts
+@@ -0,0 +1,8 @@
++import type { ClaudeAccount } from "./claude-account.page-type.ts"
++import type { EffectiveFiveHourPercentUsed } from "./properties/effective-five-hour-percent-used.computed-property.ts"
++import type { EffectiveSevenDayPercentUsed } from "./properties/effective-seven-day-percent-used.computed-property.ts"
++
++export type WorkedClaudeAccount = ClaudeAccount & {
++  effectiveFiveHourPercentUsed?: EffectiveFiveHourPercentUsed
++  effectiveSevenDayPercentUsed?: EffectiveSevenDayPercentUsed
++}
+diff --git a/agents/claude-accounts/properties/effective-five-hour-percent-used.computed-property.code.ts b/agents/claude-accounts/properties/effective-five-hour-percent-used.computed-property.code.ts
+index eda1eb28a63fce09af0f3c66a729f6d4aeed247d..12c0a2a52e837073cee1fc2006d1e5fd296fe89b 100644
+--- a/agents/claude-accounts/properties/effective-five-hour-percent-used.computed-property.code.ts
++++ b/agents/claude-accounts/properties/effective-five-hour-percent-used.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { ClaudeAccount } from "../claude-account.page-type.ts"
++import type { WorkedClaudeAccount } from "../claude-account.page-type.worked.ts"
+ 
+ const CEILING = 100
+ 
+@@ -14,7 +14,7 @@ function percentIn(said: unknown): number | null {
+   return Number.isFinite(found) ? found : null
+ }
+ 
+-export const work: Work<ClaudeAccount, number> = (page) => {
++export const work: Work<WorkedClaudeAccount, number> = (page) => {
+   if (withdrawn(page.subscriptionDisabledReason)) return CEILING
+   const seven = percentIn(page.sevenDayPercentUsed)
+   if (seven !== null && seven >= CEILING) return CEILING
+diff --git a/agents/claude-accounts/properties/effective-seven-day-percent-used.computed-property.code.ts b/agents/claude-accounts/properties/effective-seven-day-percent-used.computed-property.code.ts
+index 12a1ca724e5db5eaf07ad2126afcc947a76080d7..f42fc88ca3aa24e04f37b6518c2dcdcea81302ac 100644
+--- a/agents/claude-accounts/properties/effective-seven-day-percent-used.computed-property.code.ts
++++ b/agents/claude-accounts/properties/effective-seven-day-percent-used.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { ClaudeAccount } from "../claude-account.page-type.ts"
++import type { WorkedClaudeAccount } from "../claude-account.page-type.worked.ts"
+ 
+ const CEILING = 100
+ 
+@@ -14,7 +14,7 @@ function percentIn(said: unknown): number | null {
+   return Number.isFinite(found) ? found : null
+ }
+ 
+-export const work: Work<ClaudeAccount, number> = (page) => {
++export const work: Work<WorkedClaudeAccount, number> = (page) => {
+   if (withdrawn(page.subscriptionDisabledReason)) return CEILING
+   return percentIn(page.sevenDayPercentUsed)
+ }
+diff --git a/alan/tracking/daily/wake-days/properties/faith-stoplight.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/faith-stoplight.computed-property.code.ts
+index 6a21695b42303b173286cc1f21d2fb08c9347947..12f7a24b9c9a0a042463027298b69443d3f23be8 100644
+--- a/alan/tracking/daily/wake-days/properties/faith-stoplight.computed-property.code.ts
++++ b/alan/tracking/daily/wake-days/properties/faith-stoplight.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
+ 
+ export const work: Work<WorkedWakeDay, string> = (page) => {
+   const level = page.faithLevel
+diff --git a/alan/tracking/daily/wake-days/properties/fun-stoplight.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/fun-stoplight.computed-property.code.ts
+index 21efb82da4403a7ce7e14fd9eee0ce7b839b5ab0..9abfad86a2fcd4e1d8a14630c3991b818d6ce259 100644
+--- a/alan/tracking/daily/wake-days/properties/fun-stoplight.computed-property.code.ts
++++ b/alan/tracking/daily/wake-days/properties/fun-stoplight.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
+ 
+ export const work: Work<WorkedWakeDay, string> = (page) => {
+   const level = page.funLevel
+diff --git a/alan/tracking/daily/wake-days/properties/health-stoplight.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/health-stoplight.computed-property.code.ts
+index ded9fc489f8c846511641973e1986cd8fdc250e2..a8acdfc03491ea3c0611a59a18b6591f4a6efc75 100644
+--- a/alan/tracking/daily/wake-days/properties/health-stoplight.computed-property.code.ts
++++ b/alan/tracking/daily/wake-days/properties/health-stoplight.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
+ 
+ export const work: Work<WorkedWakeDay, string> = (page) => {
+   const level = page.healthLevel
+diff --git a/alan/tracking/daily/wake-days/properties/learn-stoplight.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/learn-stoplight.computed-property.code.ts
+index d453f8df674ea8be5bde8a44abf65120c5ea120e..b20094af4bc0c9f7ee88e6448b7a387619743575 100644
+--- a/alan/tracking/daily/wake-days/properties/learn-stoplight.computed-property.code.ts
++++ b/alan/tracking/daily/wake-days/properties/learn-stoplight.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
+ 
+ export const work: Work<WorkedWakeDay, string> = (page) => {
+   const level = page.learnLevel
+diff --git a/alan/tracking/daily/wake-days/properties/love-stoplight.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/love-stoplight.computed-property.code.ts
+index 32457448ced578e3c60bebfb32101481ca9c4acb..4da93f84259158b1c87d61759a2f22043904d277 100644
+--- a/alan/tracking/daily/wake-days/properties/love-stoplight.computed-property.code.ts
++++ b/alan/tracking/daily/wake-days/properties/love-stoplight.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
+ 
+ export const work: Work<WorkedWakeDay, string> = (page) => {
+   const level = page.loveLevel
+diff --git a/alan/tracking/daily/wake-days/properties/sleep-hours.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/sleep-hours.computed-property.code.ts
+index 1f68880d72897e5c8915f86ccaf19a25584f2e84..cbf4fec2b2b10a26f962a28df12be5aaf0e98571 100644
+--- a/alan/tracking/daily/wake-days/properties/sleep-hours.computed-property.code.ts
++++ b/alan/tracking/daily/wake-days/properties/sleep-hours.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
+ 
+ const AN_HOUR = 3600000
+ 
+diff --git a/alan/tracking/daily/wake-days/properties/spend-hours.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/spend-hours.computed-property.code.ts
+index 65d34c875563653db3fa619b14054ea0c9403d52..a7f82f0f0b440b7dd8d817c4e9b74e9c475cb68a 100644
+--- a/alan/tracking/daily/wake-days/properties/spend-hours.computed-property.code.ts
++++ b/alan/tracking/daily/wake-days/properties/spend-hours.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
+ 
+ const AN_HOUR = 3600000
+ 
+diff --git a/alan/tracking/daily/wake-days/properties/stoplights.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/stoplights.computed-property.code.ts
+index 47eff942467f5df0c5253d6c96df9ff5d8344418..4cabd151e2db77278412abe78cfba33e86c72ba2 100644
+--- a/alan/tracking/daily/wake-days/properties/stoplights.computed-property.code.ts
++++ b/alan/tracking/daily/wake-days/properties/stoplights.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
+ 
+ export const work: Work<WorkedWakeDay, string> = (page) => {
+   const lights = [
+diff --git a/alan/tracking/daily/wake-days/properties/surplus-hours.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/surplus-hours.computed-property.code.ts
+index 223df63dd7398937f377ab8430926130399f5d91..c854266f57fe2659633bbe3678a4a2e696bce075 100644
+--- a/alan/tracking/daily/wake-days/properties/surplus-hours.computed-property.code.ts
++++ b/alan/tracking/daily/wake-days/properties/surplus-hours.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
+ 
+ export const work: Work<WorkedWakeDay, number> = (page) => {
+   const sleep = page.sleepHours
+diff --git a/alan/tracking/daily/wake-days/properties/total-level.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/total-level.computed-property.code.ts
+index 145e54a0d69c72c9003bff1ccef0a708581e10b2..ce1d12be5c5f8b2dea6c5e1f7c1aad22678dfcff 100644
+--- a/alan/tracking/daily/wake-days/properties/total-level.computed-property.code.ts
++++ b/alan/tracking/daily/wake-days/properties/total-level.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
+ 
+ const NO_RUNG = 0
+ 
+diff --git a/alan/tracking/daily/wake-days/properties/wealth-stoplight.computed-property.code.ts b/alan/tracking/daily/wake-days/properties/wealth-stoplight.computed-property.code.ts
+index fe2fb8d54f539f9d4e29af29504f137dbec1f340..f343feceaeb0d808e8ba4abaff2d680e5ab2519d 100644
+--- a/alan/tracking/daily/wake-days/properties/wealth-stoplight.computed-property.code.ts
++++ b/alan/tracking/daily/wake-days/properties/wealth-stoplight.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedWakeDay } from "../wake-day.page-type.ts"
++import type { WorkedWakeDay } from "../wake-day.page-type.worked.ts"
+ 
+ export const work: Work<WorkedWakeDay, string> = (page) => {
+   const level = page.wealthLevel
+diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.ts b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+index 329032e68ad42863a16bb64219ecd0eb7bf80547..690f8fd074efe90dbd19f3bc0bcdb0df47e0def7 100644
+--- a/alan/tracking/daily/wake-days/wake-day.page-type.ts
++++ b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+@@ -2,21 +2,14 @@ import type { Page } from "@akasha/pages/page"
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { ActiveCalories } from "./properties/active-calories.number-property.ts"
+-import type { ActivityCalories } from "./properties/activity-calories.computed-property.ts"
+ import type { BreathingPoints } from "./properties/breathing-points.number-property.ts"
+ import type { CardioPoints } from "./properties/cardio-points.number-property.ts"
+ import type { CompletedTasks } from "./properties/completed-tasks.page-property-entry.ts"
+ import type { CompletionSnapshot } from "./properties/completion-snapshot.number-property.ts"
+ import type { Date as TrackedDate } from "./properties/date.text-property.ts"
+-import type { FaithLevel } from "./properties/faith-level.computed-property.ts"
+ import type { FaithPoints } from "./properties/faith-points.number-property.ts"
+-import type { FaithStoplight } from "./properties/faith-stoplight.computed-property.ts"
+-import type { FunLevel } from "./properties/fun-level.computed-property.ts"
+ import type { FunPoints } from "./properties/fun-points.number-property.ts"
+-import type { FunStoplight } from "./properties/fun-stoplight.computed-property.ts"
+-import type { HealthLevel } from "./properties/health-level.computed-property.ts"
+ import type { HealthPoints } from "./properties/health-points.number-property.ts"
+-import type { HealthStoplight } from "./properties/health-stoplight.computed-property.ts"
+ import type { InboxCalendar } from "./properties/inbox-calendar.number-property.ts"
+ import type { InboxCalendarClearedToday } from "./properties/inbox-calendar-cleared-today.boolean-property.ts"
+ import type { InboxTasks } from "./properties/inbox-tasks.number-property.ts"
+@@ -27,32 +20,20 @@ import type { InboxTexts } from "./properties/inbox-texts.number-property.ts"
+ import type { InboxTextsClearedToday } from "./properties/inbox-texts-cleared-today.boolean-property.ts"
+ import type { IntelligenceWords } from "./properties/intelligence-words.number-property.ts"
+ import type { LastViewedAt } from "./properties/last-viewed-at.instant-property.ts"
+-import type { LearnLevel } from "./properties/learn-level.computed-property.ts"
+ import type { LearnPoints } from "./properties/learn-points.number-property.ts"
+-import type { LearnStoplight } from "./properties/learn-stoplight.computed-property.ts"
+-import type { LoveLevel } from "./properties/love-level.computed-property.ts"
+ import type { LovePoints } from "./properties/love-points.number-property.ts"
+-import type { LoveStoplight } from "./properties/love-stoplight.computed-property.ts"
+ import type { Meals } from "./properties/meals.text-property.ts"
+ import type { NutritionPoints } from "./properties/nutrition-points.number-property.ts"
+ import type { PersonaDays } from "./properties/persona-days.text-property.ts"
+ import type { SafetyLevel } from "./properties/safety-level.text-property.ts"
+-import type { Sessions, WorkedSessions } from "./properties/sessions.page-property-entry.ts"
+-import type { SleepHours } from "./properties/sleep-hours.computed-property.ts"
++import type { Sessions } from "./properties/sessions.page-property-entry.ts"
+ import type { SleepPoints } from "./properties/sleep-points.number-property.ts"
+ import type { SpannedFromDayBoundary } from "./properties/spanned-from-day-boundary.boolean-property.ts"
+-import type { SpendHours } from "./properties/spend-hours.computed-property.ts"
+-import type { Stoplights } from "./properties/stoplights.computed-property.ts"
+-import type { StrengthCalories } from "./properties/strength-calories.computed-property.ts"
+ import type { StrengthPoints } from "./properties/strength-points.number-property.ts"
+ import type { StrengthVolume } from "./properties/strength-volume.number-property.ts"
+-import type { SurplusHours } from "./properties/surplus-hours.computed-property.ts"
+ import type { TaskPoints } from "./properties/task-points.number-property.ts"
+-import type { TotalLevel } from "./properties/total-level.computed-property.ts"
+ import type { Version } from "./properties/version.text-property.ts"
+-import type { WealthLevel } from "./properties/wealth-level.computed-property.ts"
+ import type { WealthPoints } from "./properties/wealth-points.number-property.ts"
+-import type { WealthStoplight } from "./properties/wealth-stoplight.computed-property.ts"
+ import type { WisdomWords } from "./properties/wisdom-words.number-property.ts"
+ import type { WordsReadPoints } from "./properties/words-read-points.number-property.ts"
+ import type { WordsReadSnapshot } from "./properties/words-read-snapshot.number-property.ts"
+@@ -97,29 +78,6 @@ export type WakeDay = Page & {
+   completedTasks?: CompletedTasks
+ }
+ 
+-export type WorkedWakeDay = Omit<WakeDay, "sessions"> & {
+-  sessions?: WorkedSessions
+-  strengthCalories?: StrengthCalories
+-  activityCalories?: ActivityCalories
+-  faithLevel?: FaithLevel
+-  loveLevel?: LoveLevel
+-  healthLevel?: HealthLevel
+-  learnLevel?: LearnLevel
+-  funLevel?: FunLevel
+-  wealthLevel?: WealthLevel
+-  faithStoplight?: FaithStoplight
+-  loveStoplight?: LoveStoplight
+-  healthStoplight?: HealthStoplight
+-  totalLevel?: TotalLevel
+-  learnStoplight?: LearnStoplight
+-  funStoplight?: FunStoplight
+-  wealthStoplight?: WealthStoplight
+-  stoplights?: Stoplights
+-  sleepHours?: SleepHours
+-  spendHours?: SpendHours
+-  surplusHours?: SurplusHours
+-}
+-
+ export const wakeDay = {
+   id: "01a05fd8-c30f-72ee-80d9-eb1c179b8359",
+   pageTypeSlug: "page-type",
+@@ -246,6 +204,7 @@ export const wakeDay = {
+     { pagePropertySlug: "spend-hours", required: false, many: false },
+     { pagePropertySlug: "surplus-hours", required: false, many: false },
+   ],
++  worked: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.worked.ts b/alan/tracking/daily/wake-days/wake-day.page-type.worked.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2f73bf5df13a4f81211c6b55baa28ddde82ee5a1
+--- /dev/null
++++ b/alan/tracking/daily/wake-days/wake-day.page-type.worked.ts
+@@ -0,0 +1,44 @@
++import type { ActivityCalories } from "./properties/activity-calories.computed-property.ts"
++import type { FaithLevel } from "./properties/faith-level.computed-property.ts"
++import type { FaithStoplight } from "./properties/faith-stoplight.computed-property.ts"
++import type { FunLevel } from "./properties/fun-level.computed-property.ts"
++import type { FunStoplight } from "./properties/fun-stoplight.computed-property.ts"
++import type { HealthLevel } from "./properties/health-level.computed-property.ts"
++import type { HealthStoplight } from "./properties/health-stoplight.computed-property.ts"
++import type { LearnLevel } from "./properties/learn-level.computed-property.ts"
++import type { LearnStoplight } from "./properties/learn-stoplight.computed-property.ts"
++import type { LoveLevel } from "./properties/love-level.computed-property.ts"
++import type { LoveStoplight } from "./properties/love-stoplight.computed-property.ts"
++import type { WorkedSessions } from "./properties/sessions.page-property-entry.ts"
++import type { SleepHours } from "./properties/sleep-hours.computed-property.ts"
++import type { SpendHours } from "./properties/spend-hours.computed-property.ts"
++import type { Stoplights } from "./properties/stoplights.computed-property.ts"
++import type { StrengthCalories } from "./properties/strength-calories.computed-property.ts"
++import type { SurplusHours } from "./properties/surplus-hours.computed-property.ts"
++import type { TotalLevel } from "./properties/total-level.computed-property.ts"
++import type { WealthLevel } from "./properties/wealth-level.computed-property.ts"
++import type { WealthStoplight } from "./properties/wealth-stoplight.computed-property.ts"
++import type { WakeDay } from "./wake-day.page-type.ts"
++
++export type WorkedWakeDay = Omit<WakeDay, "sessions"> & {
++  sessions?: WorkedSessions
++  activityCalories?: ActivityCalories
++  strengthCalories?: StrengthCalories
++  faithLevel?: FaithLevel
++  loveLevel?: LoveLevel
++  healthLevel?: HealthLevel
++  learnLevel?: LearnLevel
++  funLevel?: FunLevel
++  wealthLevel?: WealthLevel
++  totalLevel?: TotalLevel
++  faithStoplight?: FaithStoplight
++  loveStoplight?: LoveStoplight
++  healthStoplight?: HealthStoplight
++  learnStoplight?: LearnStoplight
++  funStoplight?: FunStoplight
++  wealthStoplight?: WealthStoplight
++  stoplights?: Stoplights
++  sleepHours?: SleepHours
++  spendHours?: SpendHours
++  surplusHours?: SurplusHours
++}
+diff --git a/collections/collection.page-type.ts b/collections/collection.page-type.ts
+index 90aeeda9fbd8a60aa704f0d1cb77ef497b0740bb..9908816787aa7ad674440ce9c74372e390b9d0c6 100644
+--- a/collections/collection.page-type.ts
++++ b/collections/collection.page-type.ts
+@@ -2,31 +2,19 @@ import type { Page } from "@akasha/pages/page"
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { CollectionAuthor } from "./properties/collection-author.text-property.ts"
+ import type { CollectionCompletedAt } from "./properties/collection-completed-at.instant-property.ts"
+-import type { CollectionCompletion } from "./properties/collection-completion.computed-property.ts"
+ import type { CollectionDescription } from "./properties/collection-description.text-property.ts"
+ import type { CollectionPublishedAt } from "./properties/collection-published-at.one-of-property.ts"
+ import type { CollectionTags } from "./properties/collection-tags.text-property.ts"
+ import type { CollectionTypeSlug } from "./properties/collection-type-slug.relation-property.ts"
+ import type { Following } from "./properties/following.boolean-property.ts"
+ import type { OwnLength } from "./properties/own-length.number-property.ts"
+-import type { OwnLengthInWords } from "./properties/own-length-in-words.computed-property.ts"
+ import type { OwnProgress } from "./properties/own-progress.number-property.ts"
+-import type { OwnProgressInWords } from "./properties/own-progress-in-words.computed-property.ts"
+-import type { OwnRemaining } from "./properties/own-remaining.computed-property.ts"
+-import type { OwnRemainingInWords } from "./properties/own-remaining-in-words.computed-property.ts"
+ import type { PartOfSlugs } from "./properties/part-of-slugs.relation-property.ts"
+ import type { PartsLengthInWords } from "./properties/parts-length-in-words.number-property.ts"
+ import type { PartsProgressInWords } from "./properties/parts-progress-in-words.number-property.ts"
+-import type { PartsRemainingInWords } from "./properties/parts-remaining-in-words.computed-property.ts"
+ import type { Position } from "./properties/position.number-property.ts"
+ import type { Rank } from "./properties/rank.rank-property.ts"
+ import type { Status } from "./properties/status.select-property.ts"
+-import type { TotalLength } from "./properties/total-length.computed-property.ts"
+-import type { TotalLengthInWords } from "./properties/total-length-in-words.computed-property.ts"
+-import type { TotalProgress } from "./properties/total-progress.computed-property.ts"
+-import type { TotalProgressInWords } from "./properties/total-progress-in-words.computed-property.ts"
+-import type { TotalRemaining } from "./properties/total-remaining.computed-property.ts"
+-import type { TotalRemainingInWords } from "./properties/total-remaining-in-words.computed-property.ts"
+ import type { UnitSlug } from "./properties/unit-slug.relation-property.ts"
+ import type { UnitWords } from "./properties/unit-words.number-property.ts"
+ 
+@@ -50,21 +38,6 @@ export type Collection = Page & {
+   collectionTypeSlug?: CollectionTypeSlug
+ }
+ 
+-export type WorkedCollection = Collection & {
+-  completion?: CollectionCompletion
+-  ownLengthInWords?: OwnLengthInWords
+-  ownProgressInWords?: OwnProgressInWords
+-  ownRemaining?: OwnRemaining
+-  ownRemainingInWords?: OwnRemainingInWords
+-  partsRemainingInWords?: PartsRemainingInWords
+-  totalLength?: TotalLength
+-  totalLengthInWords?: TotalLengthInWords
+-  totalProgress?: TotalProgress
+-  totalProgressInWords?: TotalProgressInWords
+-  totalRemaining?: TotalRemaining
+-  totalRemainingInWords?: TotalRemainingInWords
+-}
+-
+ export const collection = {
+   id: "01a063de-2c60-7006-8395-50a12e499f8e",
+   pageTypeSlug: "page-type",
+@@ -157,6 +130,7 @@ export const collection = {
+     { pagePropertySlug: "number-property/parts-progress-in-words", required: false, many: false },
+     { pagePropertySlug: "number-property/unit-words", required: false, many: false },
+   ],
++  worked: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/collections/collection.page-type.worked.ts b/collections/collection.page-type.worked.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0b4eaa72563bc97dd47bcd823ff92620f095011e
+--- /dev/null
++++ b/collections/collection.page-type.worked.ts
+@@ -0,0 +1,28 @@
++import type { Collection } from "./collection.page-type.ts"
++import type { CollectionCompletion } from "./properties/collection-completion.computed-property.ts"
++import type { OwnLengthInWords } from "./properties/own-length-in-words.computed-property.ts"
++import type { OwnProgressInWords } from "./properties/own-progress-in-words.computed-property.ts"
++import type { OwnRemaining } from "./properties/own-remaining.computed-property.ts"
++import type { OwnRemainingInWords } from "./properties/own-remaining-in-words.computed-property.ts"
++import type { PartsRemainingInWords } from "./properties/parts-remaining-in-words.computed-property.ts"
++import type { TotalLength } from "./properties/total-length.computed-property.ts"
++import type { TotalLengthInWords } from "./properties/total-length-in-words.computed-property.ts"
++import type { TotalProgress } from "./properties/total-progress.computed-property.ts"
++import type { TotalProgressInWords } from "./properties/total-progress-in-words.computed-property.ts"
++import type { TotalRemaining } from "./properties/total-remaining.computed-property.ts"
++import type { TotalRemainingInWords } from "./properties/total-remaining-in-words.computed-property.ts"
++
++export type WorkedCollection = Collection & {
++  completion?: CollectionCompletion
++  ownLengthInWords?: OwnLengthInWords
++  ownProgressInWords?: OwnProgressInWords
++  ownRemaining?: OwnRemaining
++  ownRemainingInWords?: OwnRemainingInWords
++  partsRemainingInWords?: PartsRemainingInWords
++  totalLength?: TotalLength
++  totalLengthInWords?: TotalLengthInWords
++  totalProgress?: TotalProgress
++  totalProgressInWords?: TotalProgressInWords
++  totalRemaining?: TotalRemaining
++  totalRemainingInWords?: TotalRemainingInWords
++}
+diff --git a/collections/properties/collection-completion.computed-property.code.ts b/collections/properties/collection-completion.computed-property.code.ts
+index 60e80582efb91c6c2e9f191a4baa1f1e9cc7c1d5..4cf7e20d56fc8efec29b6b375a6dba526d196f15 100644
+--- a/collections/properties/collection-completion.computed-property.code.ts
++++ b/collections/properties/collection-completion.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedCollection } from "../collection.page-type.ts"
++import type { WorkedCollection } from "../collection.page-type.worked.ts"
+ import type { CollectionCompletion } from "./collection-completion.computed-property.ts"
+ 
+ export const work: Work<WorkedCollection, CollectionCompletion> = (page) => {
+diff --git a/collections/properties/own-remaining-in-words.computed-property.code.ts b/collections/properties/own-remaining-in-words.computed-property.code.ts
+index e523669fef88461c34f329483cd8fe760396e79d..c35ecfdd8350f50694d01e9b76ee64cd8f8231eb 100644
+--- a/collections/properties/own-remaining-in-words.computed-property.code.ts
++++ b/collections/properties/own-remaining-in-words.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedCollection } from "../collection.page-type.ts"
++import type { WorkedCollection } from "../collection.page-type.worked.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+   const answer = (page.ownLengthInWords ?? 0) - (page.ownProgressInWords ?? 0)
+diff --git a/collections/properties/total-length-in-words.computed-property.code.ts b/collections/properties/total-length-in-words.computed-property.code.ts
+index a1ddf8e9c5f20b3738872d553a0095f12208bee9..5cd9ba9459fcf013a98fa26cdabd44aaf21c5ddf 100644
+--- a/collections/properties/total-length-in-words.computed-property.code.ts
++++ b/collections/properties/total-length-in-words.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedCollection } from "../collection.page-type.ts"
++import type { WorkedCollection } from "../collection.page-type.worked.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+   const answer = (page.ownLengthInWords ?? 0) + (page.partsLengthInWords ?? 0)
+diff --git a/collections/properties/total-length.computed-property.code.ts b/collections/properties/total-length.computed-property.code.ts
+index 52cecede61dd7dc824c230dbe024bce2b009221a..799f1172a42668681f8d35b0fd94abf2b35f1d82 100644
+--- a/collections/properties/total-length.computed-property.code.ts
++++ b/collections/properties/total-length.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedCollection } from "../collection.page-type.ts"
++import type { WorkedCollection } from "../collection.page-type.worked.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+   // The formula divides by `{unit-words}` with no `?? 0`, so an absent divisor answers absent.
+diff --git a/collections/properties/total-progress-in-words.computed-property.code.ts b/collections/properties/total-progress-in-words.computed-property.code.ts
+index 7913877306e957ad0c77111b369d674fc33c2932..4d195c5e5df7ff44c0e4dc6045ec43575058f075 100644
+--- a/collections/properties/total-progress-in-words.computed-property.code.ts
++++ b/collections/properties/total-progress-in-words.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedCollection } from "../collection.page-type.ts"
++import type { WorkedCollection } from "../collection.page-type.worked.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+   const answer = (page.ownProgressInWords ?? 0) + (page.partsProgressInWords ?? 0)
+diff --git a/collections/properties/total-progress.computed-property.code.ts b/collections/properties/total-progress.computed-property.code.ts
+index ea63e73f6f5bc0870c4734c5f62831ee42625506..93152ee4878f979fd2c615ca331d7fdc36e06739 100644
+--- a/collections/properties/total-progress.computed-property.code.ts
++++ b/collections/properties/total-progress.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedCollection } from "../collection.page-type.ts"
++import type { WorkedCollection } from "../collection.page-type.worked.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+   // The formula divides by `{unit-words}` with no `?? 0`, so an absent divisor answers absent.
+diff --git a/collections/properties/total-remaining-in-words.computed-property.code.ts b/collections/properties/total-remaining-in-words.computed-property.code.ts
+index 5dc9b9d24b29d48eac631a9425530555b5b6eb5a..2db641267efcde8a02588138a3a6d7312730a17f 100644
+--- a/collections/properties/total-remaining-in-words.computed-property.code.ts
++++ b/collections/properties/total-remaining-in-words.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedCollection } from "../collection.page-type.ts"
++import type { WorkedCollection } from "../collection.page-type.worked.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+   const answer = (page.totalLengthInWords ?? 0) - (page.totalProgressInWords ?? 0)
+diff --git a/collections/properties/total-remaining.computed-property.code.ts b/collections/properties/total-remaining.computed-property.code.ts
+index 3738be87a3d7be260093a93e57decf158df61765..e6281db7c587f589806e1a84fee387bc6f64d912 100644
+--- a/collections/properties/total-remaining.computed-property.code.ts
++++ b/collections/properties/total-remaining.computed-property.code.ts
+@@ -1,5 +1,5 @@
+ import type { Work } from "@akasha/pages/computed-property"
+-import type { WorkedCollection } from "../collection.page-type.ts"
++import type { WorkedCollection } from "../collection.page-type.worked.ts"
+ 
+ export const work: Work<WorkedCollection, number> = (page) => {
+   // The formula divides by `{unit-words}` with no `?? 0`, so an absent divisor answers absent.
