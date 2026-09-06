@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/agents/claude-accounts/modules/measuring/claude-account-measuring.module.ts b/agents/claude-accounts/modules/measuring/claude-account-measuring.module.ts
+index 15e63123faf420fa589188b835341797bd7f4d98..24a3bdc44e1c8e616a44a94544f01713506e6969 100644
+--- a/agents/claude-accounts/modules/measuring/claude-account-measuring.module.ts
++++ b/agents/claude-accounts/modules/measuring/claude-account-measuring.module.ts
+@@ -51,7 +51,7 @@ export const claudeAccountMeasuring = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An account no window has been read of is marked unread rather than as spending none.",
++        "An account no window has been read of is marked unread rather than as spending zero.",
+     },
+     {
+       invariantKind: "absence",
