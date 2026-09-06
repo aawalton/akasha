@@ -531,3 +531,27 @@ index 43b97888b23e3cbc8ffa7195979f436429727037..eb7da0cdaaf4226059d577dcb6bede0f
      },
      {
        invariantKind: "departure",
+diff --git a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
+index 8a65945cb95ce37ea9db6cb9d19fdb8a48081f11..92e8016345e56bd6f60f794210dfdde380795c07 100644
+--- a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.code.ts
+@@ -19,12 +19,14 @@ const REFUSED = [
+   "`bun test` runs the akasha tests outside the akasha commands.",
+   "Every test file in this repository is an akasha test, so no path bounds a run away from",
+   "them, and a run naming no path reaches every one of them.",
+-  "`akasha test` counts the test files under what it was named and refuses a run that",
+-  "reached fewer, and it reads the verdict from what the run printed rather than from the exit",
+-  "code, which a suite leaking a handle makes non-zero on a run where nothing failed.",
++  "`akasha test` runs the tests in the one test file it is named, and it reads the verdict from",
++  "what the run printed rather than from the exit code, which a suite leaking a handle makes",
++  "non-zero on a run where nothing failed.",
+   "",
+-  "  akasha test                     every test in this repository",
+-  "  akasha test --file-path <path>  the tests under one path",
++  "  akasha test --file-path <path>  the tests in the one test file at that path",
++  "",
++  "It runs no folder and no whole suite. Running every test in this repository is the checks'",
++  "work rather than a call you make by hand.",
+   "",
+   HELP,
+ ]
