@@ -13,7 +13,7 @@ export const addonDataOutputDirs = {
     },
     {
       invariantKind: "departure",
-      statement: "A checkout named in `CODE_ROOT` is the one an output dir is under.",
+      statement: "A checkout named in `CODE_ROOT` is the checkout an output dir is under.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,11 @@ export const addonDataOutputDirs = {
     },
     {
       invariantKind: "absence",
-      statement: "No dir is guarded over, the guarded list being empty.",
+      statement: "No dir is guarded over.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The guarded list is empty.",
     },
     {
       invariantKind: "departure",
