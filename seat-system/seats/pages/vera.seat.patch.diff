@@ -1,0 +1,2007 @@
+runsChecks: false
+runsWarrants: false
+diff --git a/design/tokens/text-color/text-color.module.ts b/design/tokens/text-color/text-color.module.ts
+index 79f0d171b2f451f3c2baeff321fe0efa378e167b..299be97283baa16652b5108bb9a40e5024673dc3 100644
+--- a/design/tokens/text-color/text-color.module.ts
++++ b/design/tokens/text-color/text-color.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const textColor = {
+   id: "01a05c97-5302-71a3-b9f8-f3bbd1c59f22",
+diff --git a/domains/domain.workspace-package.ts b/domains/domain.workspace-package.ts
+index beb3f6b45bde74d939c9c2bc7472490673128a52..c539546892c12cebae214beb180e681a31ed53ce 100644
+--- a/domains/domain.workspace-package.ts
++++ b/domains/domain.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const domain = {
+   id: "01a04a26-9105-7001-a1cc-60a031152982",
+diff --git a/domains/findings/pages/a-workspace-alias-bun-cannot-resolve-breaks-every-fresh-install.finding.ts b/domains/findings/pages/a-workspace-alias-bun-cannot-resolve-breaks-every-fresh-install.finding.ts
+index afb92311115c0bbf8ba3a519372a46b9a9fe2a63..a295140abe025c61680d9fad0062094bbb862824 100644
+--- a/domains/findings/pages/a-workspace-alias-bun-cannot-resolve-breaks-every-fresh-install.finding.ts
++++ b/domains/findings/pages/a-workspace-alias-bun-cannot-resolve-breaks-every-fresh-install.finding.ts
+@@ -9,5 +9,5 @@ export const aWorkspaceAliasBunCannotResolveBreaksEveryFreshInstall = {
+   claim:
+     'Expand writes `"<old name>": "workspace:<new name>@*"` among the root manifest\'s dependencies, and bun reads what follows `workspace:` as a folder path rather than as a package name, so every fresh install from expand until contract fails to resolve. A checkout that installed once keeps working, since the links `node_modules` already carries reach both names, which is why the invariant `Every commit from expand to contract resolves under the old name and the new` reads as true here and is false on a clean checkout.',
+   evidence:
+-    'Measured 2026-09-06 while renaming `@akasha/code-system` to `@akasha/code`.\n\nWHAT BUN SAYS. `bun install --dry-run` at the repository root exits 1 with `error: Workspace dependency "@akasha/code-system" not found / Searched in "./@akasha/code@*"` and then `error: @akasha/code-system@workspace:@akasha/code@* failed to resolve`. The searched-in line names the value as a path, so bun is reading `@akasha/code@*` as a folder to look in rather than as a package to alias. bun 1.3.14.\n\nTHE MINIMAL CASE. `git worktree add --detach /tmp/wt HEAD`, then `bun install --dry-run` inside it: exits 1 with the text above. Delete the one alias line from the root manifest and run the same call: it resolves and ends `1 package removed [173.00ms]`. One line, both readings, nothing else changed.\n\nWHY NOTHING NOTICED. `package-renaming` makes the link itself, so `node_modules/@akasha` holds `code -> ../../code-system` beside `code-system -> ../../code-system`. Every import under either name resolves through those links with no install at all, and the checks read the same. The alias in the manifest is doing no resolving work; it is where `package-phasing` reads the phase from.\n\nTHE SAME LINE LANDED TWICE BEFORE. `git log -S` over the root manifest finds `98dc779f1a` writing `"@akasha/pages-system": "workspace:@akasha/pages@*"` and `1ff9f931d3` taking it away, then `2fcc223f2c` writing `"@akasha/pages-system-service": "workspace:@akasha/pages-service@*"` and `aec38b62ff` taking it away. Both renames finished. So the window is real and has been open before without anyone installing into it.\n\nWHAT IS NOT CLAIMED. Whether some other spelling gives bun a working alias was not measured, and neither was what a deploy does with a checkout it installs fresh. The reading is that the phase marker and the resolving are one line doing two jobs, and only one of them works.',
++    'Measured 2026-09-06 while renaming `@akasha/code` to `@akasha/code`.\n\nWHAT BUN SAYS. `bun install --dry-run` at the repository root exits 1 with `error: Workspace dependency "@akasha/code" not found / Searched in "./@akasha/code@*"` and then `error: @akasha/code@workspace:@akasha/code@* failed to resolve`. The searched-in line names the value as a path, so bun is reading `@akasha/code@*` as a folder to look in rather than as a package to alias. bun 1.3.14.\n\nTHE MINIMAL CASE. `git worktree add --detach /tmp/wt HEAD`, then `bun install --dry-run` inside it: exits 1 with the text above. Delete the one alias line from the root manifest and run the same call: it resolves and ends `1 package removed [173.00ms]`. One line, both readings, nothing else changed.\n\nWHY NOTHING NOTICED. `package-renaming` makes the link itself, so `node_modules/@akasha` holds `code -> ../../code-system` beside `code-system -> ../../code-system`. Every import under either name resolves through those links with no install at all, and the checks read the same. The alias in the manifest is doing no resolving work; it is where `package-phasing` reads the phase from.\n\nTHE SAME LINE LANDED TWICE BEFORE. `git log -S` over the root manifest finds `98dc779f1a` writing `"@akasha/pages-system": "workspace:@akasha/pages@*"` and `1ff9f931d3` taking it away, then `2fcc223f2c` writing `"@akasha/pages-system-service": "workspace:@akasha/pages-service@*"` and `aec38b62ff` taking it away. Both renames finished. So the window is real and has been open before without anyone installing into it.\n\nWHAT IS NOT CLAIMED. Whether some other spelling gives bun a working alias was not measured, and neither was what a deploy does with a checkout it installs fresh. The reading is that the phase marker and the resolving are one line doing two jobs, and only one of them works.',
+ } as const satisfies Finding
+diff --git a/domains/findings/pages/naming-a-reach-would-empty-the-import-index.finding.ts b/domains/findings/pages/naming-a-reach-would-empty-the-import-index.finding.ts
+index 0b3dfb509ebfff15358ae4790dec7fc5f721e5d7..326f968fcae62e7535274fc78de77d1018d08e3b 100644
+--- a/domains/findings/pages/naming-a-reach-would-empty-the-import-index.finding.ts
++++ b/domains/findings/pages/naming-a-reach-would-empty-the-import-index.finding.ts
+@@ -8,5 +8,5 @@ export const namingAReachWouldEmptyTheImportIndex = {
+   claim:
+     "This was true when filed at 20:43 and was answered within the hour. The index filed an edge only for a specifier opening with a dot, so rewriting the akasha imports that reach past a package edge to the names their manifests state would have blinded the required reading gate, the folder shape check and the repointing a move does. `347d2776cc` gave `landingOf` a naming and `f62007f1b6` made the index file an edge for a package specifier; the rewrite followed at 22:14 and 22:23.",
+   evidence:
+-    "What it described: `landingOf` in `code-specifier` answered null for any specifier not matching `/^\\.\\.?\\//`, `edgesIn` in `index-import` dropped a null landing, and the index page said outright `A relative specifier makes an edge and a package specifier makes none.`\n\nNone of those three sentences holds now. `code-specifier.module.code.ts:58-65` takes a `naming` and answers `naming.get(specifier) ?? null` for a specifier that is not relative. `index-import.index.code.ts:19-31` takes that naming and hands it to `landingOf` at :26. The index page now states instead: `A relative specifier makes an edge.` beside `A specifier naming a package makes an edge at the file the naming handed in resolves it to.` and `A specifier the naming handed in does not resolve makes none.`\n\nProved against the standing index rather than the source: the import index entry for `code-specifier.module.code.ts` carries thirteen importer lines, twelve of which reach it by the bare specifier `@akasha/code-system/code-specifier`. The index really does carry `@akasha/...` edges.\n\nOne number here was already stale as written and is worth correcting for anyone reading the history: eighteen akasha packages stood in the root workspaces list, and twenty-five stand there now.\n\nWhat this does not cover is the one reader that was left unthreaded. `no-import-cycle` still calls `landingOf` with no naming, so a cycle running through a package edge lands unrefused, and the cost of that is no longer nothing now the rewrite has landed. That is carried by a-cycle-through-a-package-edge-goes-unseen.",
++    "What it described: `landingOf` in `code-specifier` answered null for any specifier not matching `/^\\.\\.?\\//`, `edgesIn` in `index-import` dropped a null landing, and the index page said outright `A relative specifier makes an edge and a package specifier makes none.`\n\nNone of those three sentences holds now. `code-specifier.module.code.ts:58-65` takes a `naming` and answers `naming.get(specifier) ?? null` for a specifier that is not relative. `index-import.index.code.ts:19-31` takes that naming and hands it to `landingOf` at :26. The index page now states instead: `A relative specifier makes an edge.` beside `A specifier naming a package makes an edge at the file the naming handed in resolves it to.` and `A specifier the naming handed in does not resolve makes none.`\n\nProved against the standing index rather than the source: the import index entry for `code-specifier.module.code.ts` carries thirteen importer lines, twelve of which reach it by the bare specifier `@akasha/code/code-specifier`. The index really does carry `@akasha/...` edges.\n\nOne number here was already stale as written and is worth correcting for anyone reading the history: eighteen akasha packages stood in the root workspaces list, and twenty-five stand there now.\n\nWhat this does not cover is the one reader that was left unthreaded. `no-import-cycle` still calls `landingOf` with no naming, so a cycle running through a package edge lands unrefused, and the cost of that is no longer nothing now the rewrite has landed. That is carried by a-cycle-through-a-package-edge-goes-unseen.",
+ } as const satisfies Finding
+diff --git a/domains/initiatives/pages/vera-code-cleanup.initiative.ts b/domains/initiatives/pages/vera-code-cleanup.initiative.ts
+index 2514f3f688207f762395f8c3b8611b43eb86e7d8..d62fdb5da2cfaa6e742ff535a73b0b534e30457d 100644
+--- a/domains/initiatives/pages/vera-code-cleanup.initiative.ts
++++ b/domains/initiatives/pages/vera-code-cleanup.initiative.ts
+@@ -10,7 +10,7 @@ export const veraCodeCleanup = {
+     {
+       statement: "All code-system files are in the code/ folder.",
+       workingMemory:
+-        "372 files are under `code-system`, and 7,742 outside it spell that name, 4,649 of those as `@akasha/code-system/module`. `code/` is taken: `code.domain.ts` is `domain/code`, definition `the code a machine runs`, carrying 4 directives and naming 2 parts. Both pages are parts of `akasha`. A workspace package extends a domain, so the package absorbs the domain the way `collection` absorbed `collection-system`.",
++        "372 files are under `code-system`, and 7,742 outside it spell that name, 4,649 of those as `@akasha/code/module`. `code/` is taken: `code.domain.ts` is `domain/code`, definition `the code a machine runs`, carrying 4 directives and naming 2 parts. Both pages are parts of `akasha`. A workspace package extends a domain, so the package absorbs the domain the way `collection` absorbed `collection-system`.",
+     },
+     {
+       statement: "The code folder tree passes the folder-matches-a-shape check.",
+diff --git a/domains/modules/reading/domain-reading.module.ts b/domains/modules/reading/domain-reading.module.ts
+index b47018a2f56ef75c32fb18a531c9071b71dbc563..46f33534017b7d14e3dcf50600111f4e4331db47 100644
+--- a/domains/modules/reading/domain-reading.module.ts
++++ b/domains/modules/reading/domain-reading.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const domainReading = {
+   id: "01a06949-b280-73e9-9ded-65530eee9efa",
+diff --git a/domains/plain-language/dependency-graph/dependency-graph.module.ts b/domains/plain-language/dependency-graph/dependency-graph.module.ts
+index f8aa7f370e28a0f9b1d9a4e3940ec1a7ab77f01c..007561510c1b3df3d016fd0793855bef10d074f0 100644
+--- a/domains/plain-language/dependency-graph/dependency-graph.module.ts
++++ b/domains/plain-language/dependency-graph/dependency-graph.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const dependencyGraph = {
+   id: "01a06cd8-d030-7f85-92a3-d5c7d03b4e55",
+diff --git a/domains/plain-language/onnx-parsing/onnx-parsing.module.ts b/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
+index 8e0e813f8168f4bb0944903ff251339012f9ae9d..8cbb93eb5dae9feb7beea08c199b84ed6c7f80e6 100644
+--- a/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
++++ b/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const onnxParsing = {
+   id: "01a06d3b-743d-7534-a0c5-08148c804484",
+diff --git a/domains/plain-language/parse-cache/parse-cache.module.ts b/domains/plain-language/parse-cache/parse-cache.module.ts
+index 742050b4940878d29a4de04eb0339cf6c89e6737..1d1797f33408b54f9307bcd712e0c891698097c7 100644
+--- a/domains/plain-language/parse-cache/parse-cache.module.ts
++++ b/domains/plain-language/parse-cache/parse-cache.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const parseCache = {
+   id: "01a071f0-796a-7957-a5e6-d600ac1d3f8a",
+diff --git a/domains/plain-language/plain-language.workspace-package.ts b/domains/plain-language/plain-language.workspace-package.ts
+index c5067a32808707ef23e86293e18e8409469e4ae1..6a1c6c99e6a0ee32545e3f20e0d3ea0388290129 100644
+--- a/domains/plain-language/plain-language.workspace-package.ts
++++ b/domains/plain-language/plain-language.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const plainLanguage = {
+   id: "01a05d93-dbec-79d5-a299-9264b3de7464",
+diff --git a/domains/plain-language/shape-predicate/shape-predicate.module.ts b/domains/plain-language/shape-predicate/shape-predicate.module.ts
+index 4d1001398c2c7263ae6fcff09fc485ae0bc9c276..05b2808fdd3199c94fd7f740508c7b408dd4aa81 100644
+--- a/domains/plain-language/shape-predicate/shape-predicate.module.ts
++++ b/domains/plain-language/shape-predicate/shape-predicate.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const shapePredicate = {
+   id: "01a06d15-c08a-7cb9-a166-2c8d5553765b",
+diff --git a/domains/plain-language/shape-reading/shape-reading.module.ts b/domains/plain-language/shape-reading/shape-reading.module.ts
+index ddc8f2fe77568ba34d75f32a3c84ce53f0a3796b..2a8b9de603b4a3ca3f4ccc3fe18ef6d3c1de69f7 100644
+--- a/domains/plain-language/shape-reading/shape-reading.module.ts
++++ b/domains/plain-language/shape-reading/shape-reading.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const shapeReading = {
+   id: "01a05dba-d49f-70b7-a3a3-7eb1c069e14d",
+diff --git a/domains/plain-language/spelt-scanning/spelt-scanning.module.ts b/domains/plain-language/spelt-scanning/spelt-scanning.module.ts
+index 49673bf61be0177a8af8c0e01bc5ed562448f7a4..1a6cff7b3981fe56c595c5d8b40ef7428279c724 100644
+--- a/domains/plain-language/spelt-scanning/spelt-scanning.module.ts
++++ b/domains/plain-language/spelt-scanning/spelt-scanning.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const speltScanning = {
+   id: "01a073e3-354d-7124-8a2c-e116b5340d81",
+diff --git a/domains/plain-language/word-tokenizing/word-tokenizing.module.ts b/domains/plain-language/word-tokenizing/word-tokenizing.module.ts
+index 95dc469df4c3c44f731fea71f8889a87472ed495..a2f85b532e85b162e8484841b8cd13017930eb07 100644
+--- a/domains/plain-language/word-tokenizing/word-tokenizing.module.ts
++++ b/domains/plain-language/word-tokenizing/word-tokenizing.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const wordTokenizing = {
+   id: "01a06cd8-d032-72f6-9824-e37f2a2d3ed0",
+diff --git a/domains/sentence-shapes/sentence-shape.page-type.ts b/domains/sentence-shapes/sentence-shape.page-type.ts
+index 26060c1f6b3e95559986b3bb4e03eb7bca16cc67..4bacef9915b4f3a43633be024eb4f5945e7f123f 100644
+--- a/domains/sentence-shapes/sentence-shape.page-type.ts
++++ b/domains/sentence-shapes/sentence-shape.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { Allowed } from "./properties/allowed.boolean-property.ts"
+ import type { Reason } from "./properties/reason.text-property.ts"
+diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
+index 93613f68cf810864357909d1e2c1a5995437e3c9..f60c54f4fcaa28332bace82d0b4599229ec6d290 100644
+--- a/editor-extension/editor-extension.workspace-package.ts
++++ b/editor-extension/editor-extension.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const editorExtension = {
+   id: "01a063f4-6690-7556-b094-e83b2ecfe46d",
+diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.ts b/editor-extension/node-cleanliness/node-cleanliness.module.ts
+index b0371dbf4ed8cb151e1b05cd4fe5f75d0b062399..26ab398b56ae8d45f4dbb302d6a1c47c0fc2b083 100644
+--- a/editor-extension/node-cleanliness/node-cleanliness.module.ts
++++ b/editor-extension/node-cleanliness/node-cleanliness.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const nodeCleanliness = {
+   id: "01a06954-f7dc-76b7-bb15-538baf68f93e",
+diff --git a/editor-extension/ops-extension/ops-extension.workspace-package.ts b/editor-extension/ops-extension/ops-extension.workspace-package.ts
+index b993e665da9616af5cba80b293319445bbf2e797..4b84257272cbc6be8559807c45fe85990dd45e64 100644
+--- a/editor-extension/ops-extension/ops-extension.workspace-package.ts
++++ b/editor-extension/ops-extension/ops-extension.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const opsExtension = {
+   id: "01a0680b-7175-7002-8feb-84b86f70fc2f",
+diff --git a/editor-extension/panel-judging/panel-judging.module.ts b/editor-extension/panel-judging/panel-judging.module.ts
+index c9bb546cb25d496cc36a8687c8a722e97e3b3d40..adb0a71bb79268a65b6e7f0569caae9c7930f417 100644
+--- a/editor-extension/panel-judging/panel-judging.module.ts
++++ b/editor-extension/panel-judging/panel-judging.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const panelJudging = {
+   id: "01a06954-f7dd-7561-b73b-111f01c90afc",
+diff --git a/editor-extension/panel-reading/panel-reading.module.ts b/editor-extension/panel-reading/panel-reading.module.ts
+index 0fc506470fed61b6f9941b1c132e2f8fed9300cc..4dca3679ec81c5754d24cf26229926e1d8584203 100644
+--- a/editor-extension/panel-reading/panel-reading.module.ts
++++ b/editor-extension/panel-reading/panel-reading.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const panelReading = {
+   id: "01a06954-f7dd-77bf-9553-4fdcb4d6edbe",
+diff --git a/editor-extension/status-bar-legends/status-bar-legends.module.ts b/editor-extension/status-bar-legends/status-bar-legends.module.ts
+index 11220a3c7ad8586a37b60186858ede0a62068344..db56be45e65804a3a8270c6f9fe440464882c53d 100644
+--- a/editor-extension/status-bar-legends/status-bar-legends.module.ts
++++ b/editor-extension/status-bar-legends/status-bar-legends.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const statusBarLegends = {
+   id: "01a0655b-ae42-7398-bbea-589a74f1d120",
+diff --git a/editor-extension/status-bar-slot-types/status-bar-slot-types.module.ts b/editor-extension/status-bar-slot-types/status-bar-slot-types.module.ts
+index 3d4fcdad82120720d0bcccaa495a506738093bc5..0fbdf2f1d71838aa1d1b6798b9b62828929c12de 100644
+--- a/editor-extension/status-bar-slot-types/status-bar-slot-types.module.ts
++++ b/editor-extension/status-bar-slot-types/status-bar-slot-types.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const statusBarSlotTypes = {
+   id: "01a0655b-ae42-766d-a390-829beb9775ea",
+diff --git a/editor-extension/status-bar-slots/status-bar-slots.module.ts b/editor-extension/status-bar-slots/status-bar-slots.module.ts
+index c90ce3fd159a341ef1e678837e76418b3df94fa8..c0d6839efeaa63ab0efae0f6ac48643088f8cea9 100644
+--- a/editor-extension/status-bar-slots/status-bar-slots.module.ts
++++ b/editor-extension/status-bar-slots/status-bar-slots.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const statusBarSlots = {
+   id: "01a0655b-ae42-7bea-952e-e649cf68bc8c",
+diff --git a/editor-extension/status-bar-usage/status-bar-usage.module.ts b/editor-extension/status-bar-usage/status-bar-usage.module.ts
+index da617b29a2e2b81a7bd430c67285a7e116d67a27..dba351e3521cc29e0e56d17c92b3005fd8de0dc6 100644
+--- a/editor-extension/status-bar-usage/status-bar-usage.module.ts
++++ b/editor-extension/status-bar-usage/status-bar-usage.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const statusBarUsage = {
+   id: "01a0655b-ae42-784d-bd36-ba69482649b6",
+diff --git a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
+index 001ad8a70432801771d27139e7e71802633ebaf2..01a01f5b31e5c4ae98aa58a30a6441efe287ab0c 100644
+--- a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
++++ b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
+@@ -1,4 +1,4 @@
+-import type { JavascriptModule } from "@akasha/code-system/javascript-module"
++import type { JavascriptModule } from "@akasha/code/javascript-module"
+ 
+ export const vscodeStub = {
+   id: "01a06957-955c-7cf6-9b2b-b7ef62ac9c75",
+diff --git a/email-watch/email-rule-deciding/email-rule-deciding.module.ts b/email-watch/email-rule-deciding/email-rule-deciding.module.ts
+index 5a7dbe7d55cb5f0d34bfd00ee05ff54d1db5563a..9768bbea7fe994180772f220de98ae4b7bdf6fe6 100644
+--- a/email-watch/email-rule-deciding/email-rule-deciding.module.ts
++++ b/email-watch/email-rule-deciding/email-rule-deciding.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const emailRuleDeciding = {
+   id: "01a06871-54e5-7002-a44f-3d96cfa5d667",
+diff --git a/email-watch/email-rule-reading/email-rule-reading.module.ts b/email-watch/email-rule-reading/email-rule-reading.module.ts
+index 15b9f4e1c81e974510a51d2717a003da27cf2fe3..14b4f836938d08603b576ad9be46848ed6cddcfa 100644
+--- a/email-watch/email-rule-reading/email-rule-reading.module.ts
++++ b/email-watch/email-rule-reading/email-rule-reading.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const emailRuleReading = {
+   id: "01a06871-54e5-7001-a2eb-d37372c1e8a3",
+diff --git a/email-watch/email-rule-set/email-rule-set.module.ts b/email-watch/email-rule-set/email-rule-set.module.ts
+index 4651e1baab5ebaa8bbaef1e3612c81813af66d68..f44678c3f5c759ea5c4a96bf48f190ba030c5625 100644
+--- a/email-watch/email-rule-set/email-rule-set.module.ts
++++ b/email-watch/email-rule-set/email-rule-set.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const emailRuleSet = {
+   id: "01a06871-54e5-7000-b703-1ea0c1101a4d",
+diff --git a/email-watch/inbox-watching/inbox-watching.module.ts b/email-watch/inbox-watching/inbox-watching.module.ts
+index 85d238b6398a7d05f5ce4cea94ab51655f822f26..3880736ccd4258accac556ca06f49a6abea47a06 100644
+--- a/email-watch/inbox-watching/inbox-watching.module.ts
++++ b/email-watch/inbox-watching/inbox-watching.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inboxWatching = {
+   id: "01a0686a-7a57-789b-82d6-c6d715e27ae4",
+diff --git a/file-system/answer-keeping/answer-keeping.module.ts b/file-system/answer-keeping/answer-keeping.module.ts
+index c4b0daf71108cc537f5503c971ef51de0a8fc970..eb88248208a468a9514809987b47f74125d37604 100644
+--- a/file-system/answer-keeping/answer-keeping.module.ts
++++ b/file-system/answer-keeping/answer-keeping.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const answerKeeping = {
+   id: "01a05cb3-7cca-755d-8ec0-66cd112b7c85",
+diff --git a/file-system/answer-mark/answer-mark.module.ts b/file-system/answer-mark/answer-mark.module.ts
+index 3d1ea5c9ad60fe02c75b7c460252e063a6e3815f..35099bf4ba78af1314be557acd3d10b9c5fdf7c8 100644
+--- a/file-system/answer-mark/answer-mark.module.ts
++++ b/file-system/answer-mark/answer-mark.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const answerMark = {
+   id: "01a05cb3-7cca-73df-aa84-7bd0d93da845",
+diff --git a/file-system/data-place/data-place.module.ts b/file-system/data-place/data-place.module.ts
+index e7e101f8260df437ec6551de632459a1399a48aa..ab1c465263b1b431c818980f6ada04f9c270b8a4 100644
+--- a/file-system/data-place/data-place.module.ts
++++ b/file-system/data-place/data-place.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const dataPlace = {
+   id: "01a05361-09df-7452-a3cc-9443498c1d89",
+diff --git a/file-system/exclusive/exclusive.module.ts b/file-system/exclusive/exclusive.module.ts
+index 04766782eacecc450e791faab51d4c6c89f641c8..eea6bc4abb27e74f5dee7d77569e94923944f773 100644
+--- a/file-system/exclusive/exclusive.module.ts
++++ b/file-system/exclusive/exclusive.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const exclusive = {
+   id: "01a05cb3-7cca-7c81-8846-ff73179e6498",
+diff --git a/file-system/file-system.workspace-package.ts b/file-system/file-system.workspace-package.ts
+index 6fdc5c95599ebfdc8aed4b66714d1f529d6e3eeb..4180db602c03eee0ccd6c41091b5ccbac76d8388 100644
+--- a/file-system/file-system.workspace-package.ts
++++ b/file-system/file-system.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const fileSystem = {
+   id: "01a05231-61c5-775c-a479-ffa46b4fe6bc",
+diff --git a/file-system/lock-holder-runs/lock-holder-runs.module.ts b/file-system/lock-holder-runs/lock-holder-runs.module.ts
+index 99880efb6d42be060ed4617aa7f1a8f016441ec3..157e57c69f56fab222d8ff1fc5252367d0c6d98f 100644
+--- a/file-system/lock-holder-runs/lock-holder-runs.module.ts
++++ b/file-system/lock-holder-runs/lock-holder-runs.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const lockHolderRuns = {
+   id: "01a068ae-fd9b-7000-b173-e42fd71f9bab",
+diff --git a/file-system/lock-holder/lock-holder.module.ts b/file-system/lock-holder/lock-holder.module.ts
+index ed45f04cd8028daa239abf9173e6975e137706c1..fa90a8399f952ccc45aa72f059750a9eecb55c43 100644
+--- a/file-system/lock-holder/lock-holder.module.ts
++++ b/file-system/lock-holder/lock-holder.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const lockHolder = {
+   id: "01a05231-61c5-7336-8fa7-302f778209a9",
+diff --git a/git-transport/backend-env/backend-env.module.ts b/git-transport/backend-env/backend-env.module.ts
+index 481d0c06983ef30b4096024a31d1ea78b0437c28..6867818392c0b5bc5d005bbe0863c69a890a8397 100644
+--- a/git-transport/backend-env/backend-env.module.ts
++++ b/git-transport/backend-env/backend-env.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const backendEnv = {
+   id: "01a06816-2f11-7757-88ad-94ef5cc38f0f",
+diff --git a/git-transport/bare-repo-init/bare-repo-init.module.ts b/git-transport/bare-repo-init/bare-repo-init.module.ts
+index 136891a32a99659ee7efdfbf3a0e03948ae7ab9a..d0ac01c081b226aac07040bd6f75edb65cb8bf73 100644
+--- a/git-transport/bare-repo-init/bare-repo-init.module.ts
++++ b/git-transport/bare-repo-init/bare-repo-init.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const bareRepoInit = {
+   id: "01a06816-2f11-7d89-91b6-f31d958dbb60",
+diff --git a/git-transport/git-transport.workspace-package.ts b/git-transport/git-transport.workspace-package.ts
+index 237a7d62fcd90927857c10a72117f556e20a6d80..06490f94332bc75804b1f44f7d6c5f1f1f821bfd 100644
+--- a/git-transport/git-transport.workspace-package.ts
++++ b/git-transport/git-transport.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const gitTransport = {
+   id: "01a06816-2f11-7be3-9bd7-706fac3996ff",
+diff --git a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
+index 2634195e24b5bad0fc95fe3fb26529bbb96a652a..a4ddc23220965d233be8e4893047e0939dac4395 100644
+--- a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
++++ b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const postReceiveMirror = {
+   id: "01a06816-2f11-7d8b-bc04-3b874435b755",
+diff --git a/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts b/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts
+index a7507a658832a4f6b6f4de4a4557edf57db77dc1..2d8c3265115c7226a49d7c04a0d4ad3c96c6a4c2 100644
+--- a/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts
++++ b/git-transport/hooks/pre-receive-change-branches/pre-receive-change-branches.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const preReceiveChangeBranches = {
+   id: "01a06816-2f11-7f55-8c92-79bf5163f688",
+diff --git a/git-transport/hooks/pre-receive-main-append-only/pre-receive-main-append-only.shell-script.ts b/git-transport/hooks/pre-receive-main-append-only/pre-receive-main-append-only.shell-script.ts
+index 8e143065514becb04288293d15e0ca33e6e06189..63fe94b26149acaac0bf445fdb23a7735e812e02 100644
+--- a/git-transport/hooks/pre-receive-main-append-only/pre-receive-main-append-only.shell-script.ts
++++ b/git-transport/hooks/pre-receive-main-append-only/pre-receive-main-append-only.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const preReceiveMainAppendOnly = {
+   id: "01a06816-2f11-729c-b258-50cbded51bb9",
+diff --git a/git-transport/http-backend/http-backend.module.ts b/git-transport/http-backend/http-backend.module.ts
+index e2cc3e0acfd21900045f943c4f1ee6ba8a0dbbb6..0d0d6ac25c2a867998a9fbfc2cd000d0788becc8 100644
+--- a/git-transport/http-backend/http-backend.module.ts
++++ b/git-transport/http-backend/http-backend.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const httpBackend = {
+   id: "01a06816-2f11-7e5b-9f14-546cff64fb03",
+diff --git a/git-transport/push-event/push-event.module.ts b/git-transport/push-event/push-event.module.ts
+index a45c6c1c9c9eaffd119b3c0426982c9a96fed5cf..b741fe978f0d5f8f0d4776146e5d4693b0888579 100644
+--- a/git-transport/push-event/push-event.module.ts
++++ b/git-transport/push-event/push-event.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pushEvent = {
+   id: "01a06816-2f11-7261-bb1b-dbb58f9c4476",
+diff --git a/git-transport/transport-auth/transport-auth.module.ts b/git-transport/transport-auth/transport-auth.module.ts
+index a2ba5ed66de1056adeea31b67b020b32867906f7..d8ada4168f91e57b80f145ed277515fa3b48bcb3 100644
+--- a/git-transport/transport-auth/transport-auth.module.ts
++++ b/git-transport/transport-auth/transport-auth.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const transportAuth = {
+   id: "01a06816-2f11-7992-90a6-8cecd8ef0699",
+diff --git a/git-transport/transport-deployment/transport-deployment.module.ts b/git-transport/transport-deployment/transport-deployment.module.ts
+index 8cfd02ab94f55aafd42e410ea37d0ff8d5f26e2d..4afaa751d0285cf495406d1ccc19e638ee715203 100644
+--- a/git-transport/transport-deployment/transport-deployment.module.ts
++++ b/git-transport/transport-deployment/transport-deployment.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const transportDeployment = {
+   id: "01a06816-2f11-7368-876c-6dd1f691b8bf",
+diff --git a/git-transport/transport-naming/transport-naming.module.ts b/git-transport/transport-naming/transport-naming.module.ts
+index ee4e3ab158fc98843b2ace19458166fb6f0da6fa..32677f25d326985fb5929a7119524c92fceda4ac 100644
+--- a/git-transport/transport-naming/transport-naming.module.ts
++++ b/git-transport/transport-naming/transport-naming.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const transportNaming = {
+   id: "01a06816-2f11-7561-81cd-c9dd76b64b8a",
+diff --git a/git-transport/transport-repos/transport-repos.module.ts b/git-transport/transport-repos/transport-repos.module.ts
+index dd48fef70d8922d3c64ce996e2a903217cc0c715..4d481b14e46b3453b9451eba458ee54715e5438e 100644
+--- a/git-transport/transport-repos/transport-repos.module.ts
++++ b/git-transport/transport-repos/transport-repos.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const transportRepos = {
+   id: "01a06816-2f11-7211-912e-3de2033fc331",
+diff --git a/git-transport/transport-serving/transport-serving.module.ts b/git-transport/transport-serving/transport-serving.module.ts
+index 58d04352ac47498b6c00f08fc0c61807d68caba6..cefbb68181575f12c06897abceaeb2a773d2037a 100644
+--- a/git-transport/transport-serving/transport-serving.module.ts
++++ b/git-transport/transport-serving/transport-serving.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const transportServing = {
+   id: "01a06816-2f11-7332-be0c-24c2750a723d",
+diff --git a/git/git-answering/git-answering.module.ts b/git/git-answering/git-answering.module.ts
+index 27b4cad429cc8aae2296c865e8f0c842261b08bf..8a7210195c1c57f524996876a8a527fbefea3922 100644
+--- a/git/git-answering/git-answering.module.ts
++++ b/git/git-answering/git-answering.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const gitAnswering = {
+   id: "01a06816-2f10-79aa-bee4-b5831ee0eaca",
+diff --git a/git/git-capping/git-capping.module.ts b/git/git-capping/git-capping.module.ts
+index 0e1191e4b7641fc828c76d1cd0f972469097b1cc..36a5b60d1c40ef541e1964dcb4f9237eede70af2 100644
+--- a/git/git-capping/git-capping.module.ts
++++ b/git/git-capping/git-capping.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const gitCapping = {
+   id: "01a06893-5354-7000-a08b-3fa0ccdb05c0",
+diff --git a/git/git-committing/git-committing.module.ts b/git/git-committing/git-committing.module.ts
+index bb8d698deda9e9208677da0738dd109f7a4200f1..47696e1c7ff686fcbcfbecde03200a0999639a4f 100644
+--- a/git/git-committing/git-committing.module.ts
++++ b/git/git-committing/git-committing.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const gitCommitting = {
+   id: "01a068ae-fd9c-7002-a92c-6db5c1336239",
+diff --git a/git/git-landing-lock/git-landing-lock.module.ts b/git/git-landing-lock/git-landing-lock.module.ts
+index 2079ff46a424186c29b311f905cd8766a62affe6..66671d38038e3e130df3cfdbc35e6a88e8d0d3db 100644
+--- a/git/git-landing-lock/git-landing-lock.module.ts
++++ b/git/git-landing-lock/git-landing-lock.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const gitLandingLock = {
+   id: "01a068ae-fd9c-7000-b1a4-27f1d42e2a33",
+diff --git a/git/git-pathspec/git-pathspec.module.ts b/git/git-pathspec/git-pathspec.module.ts
+index 3830e3b8f6cfdf4840d6ec9b544cb68d19d1fcc9..1a2298bce9e165b2351e167008680dcd85d1673f 100644
+--- a/git/git-pathspec/git-pathspec.module.ts
++++ b/git/git-pathspec/git-pathspec.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const gitPathspec = {
+   id: "01a068ae-fd9c-7001-ba59-e2b9fc02888f",
+diff --git a/git/git-push-handoff/git-push-handoff.module.ts b/git/git-push-handoff/git-push-handoff.module.ts
+index 25c58b39fca2eb6f698b3ade2a9eafc13cb81f9c..fe375f205259225e1c24a08cbd3af3dd5fb35d93 100644
+--- a/git/git-push-handoff/git-push-handoff.module.ts
++++ b/git/git-push-handoff/git-push-handoff.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const gitPushHandoff = {
+   id: "01a068b3-8055-7000-b301-1ef5cf968dde",
+diff --git a/git/git-pushing/git-pushing.module.ts b/git/git-pushing/git-pushing.module.ts
+index 93dd5f2dc88ad73676eb4be0eb805de17e4112e5..f467085862cff1f88428c232cdb76b8a2815993e 100644
+--- a/git/git-pushing/git-pushing.module.ts
++++ b/git/git-pushing/git-pushing.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const gitPushing = {
+   id: "01a068ae-fd9c-7003-9693-a93bade6fb89",
+diff --git a/git/git.workspace-package.ts b/git/git.workspace-package.ts
+index 82ecc319d1f53995c48ee6004c0155ed141352ac..d1ebcd75af5ba7faa21298d889d0120a82541a8d 100644
+--- a/git/git.workspace-package.ts
++++ b/git/git.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const git = {
+   id: "01a05d7f-23fc-7000-b2b7-266f4611121a",
+diff --git a/git/porcelain-status-reading/porcelain-status-reading.module.ts b/git/porcelain-status-reading/porcelain-status-reading.module.ts
+index a441bc0a585a4f388f4a6e78eae30cdeae68fd90..9f73117b71fc3ce6c4be7f89a0da31bfd49b857b 100644
+--- a/git/porcelain-status-reading/porcelain-status-reading.module.ts
++++ b/git/porcelain-status-reading/porcelain-status-reading.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const porcelainStatusReading = {
+   id: "01a06816-2f10-7367-b0af-3052e7774a7c",
+diff --git a/git/porcelain-status/porcelain-status.module.ts b/git/porcelain-status/porcelain-status.module.ts
+index f113dfb72699c4969aa0d1e6bab6b0a010de4030..105cccb04c2c229728dc21941974e15718768a79 100644
+--- a/git/porcelain-status/porcelain-status.module.ts
++++ b/git/porcelain-status/porcelain-status.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const porcelainStatus = {
+   id: "01a06816-2f10-7f63-bec8-aabc4cd78c0b",
+diff --git a/git/push-repo/push-repo.module.ts b/git/push-repo/push-repo.module.ts
+index e67ef968a3fa016d039b236a517399d6b0f8595c..694e1855acf78ad92fb325faa7f31b9ba4901117 100644
+--- a/git/push-repo/push-repo.module.ts
++++ b/git/push-repo/push-repo.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pushRepo = {
+   id: "01a06977-65e5-7e5f-8bc6-bd63299bc924",
+diff --git a/git/running/git-running.module.ts b/git/running/git-running.module.ts
+index c2fb619892115f4ba6a35db34a9e1a2688e9f35e..f01bb47001ab471d1e8853750fad7f84af87c533 100644
+--- a/git/running/git-running.module.ts
++++ b/git/running/git-running.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const gitRunning = {
+   id: "01a05d7f-23fc-7001-9aaa-0ba0969f501e",
+diff --git a/git/served-tip/served-tip.module.ts b/git/served-tip/served-tip.module.ts
+index 27967ce5a00429e21d1894686126aa0252c9b206..2d751905207e060d55dbf8b40efab50ffa4b40d8 100644
+--- a/git/served-tip/served-tip.module.ts
++++ b/git/served-tip/served-tip.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const servedTip = {
+   id: "01a0691b-4f64-7e7b-882f-6c45e18374af",
+diff --git a/git/tree-sha/tree-sha.module.ts b/git/tree-sha/tree-sha.module.ts
+index 6e6e0fcb4dfeb43f205704403ba393a807d485aa..a905e16b68ad6a1c1017508cee2e8ea71a1dfc16 100644
+--- a/git/tree-sha/tree-sha.module.ts
++++ b/git/tree-sha/tree-sha.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const treeSha = {
+   id: "01a06816-2f10-79f0-a96f-ee6577f1c3a8",
+diff --git a/google/email/commands/email-command-reading/email-command-reading.module.ts b/google/email/commands/email-command-reading/email-command-reading.module.ts
+index 29941fa618ad18480de8fdbb008cd61db615770a..dab119b34c9931eff514c67b490a2c7b3b9bb4fa 100644
+--- a/google/email/commands/email-command-reading/email-command-reading.module.ts
++++ b/google/email/commands/email-command-reading/email-command-reading.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const emailCommandReading = {
+   id: "01a06810-cf11-7676-b503-15195a7cff5b",
+diff --git a/graph/asking/graph-asking.module.ts b/graph/asking/graph-asking.module.ts
+index 5271270ed0ee9cba43bfcaeba37a458ceb2e4b57..a5345ba5aafa7b66c9641232ca187b0ce8eb73b5 100644
+--- a/graph/asking/graph-asking.module.ts
++++ b/graph/asking/graph-asking.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const graphAsking = {
+   id: "01a04ff4-320c-7689-9d79-b3b0caa05ab1",
+diff --git a/graph/closure/graph-closure.module.ts b/graph/closure/graph-closure.module.ts
+index cb96278ef55c9d8fdfc71b1017abf8ac2409c687..f33f80ef56186fc52b507b9fa994ba5a06f4233b 100644
+--- a/graph/closure/graph-closure.module.ts
++++ b/graph/closure/graph-closure.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const graphClosure = {
+   id: "01a06949-b281-77a7-a26f-52612d6b3af0",
+diff --git a/graph/file-kind-authorship/file-kind-authorship.module.code.ts b/graph/file-kind-authorship/file-kind-authorship.module.code.ts
+index 8dffe9cc8d8eb8e846c37ee04efd3f68e09de16a..a6782120574da6e0ace7f69828cb9a1023907187 100644
+--- a/graph/file-kind-authorship/file-kind-authorship.module.code.ts
++++ b/graph/file-kind-authorship/file-kind-authorship.module.code.ts
+@@ -1,4 +1,4 @@
+-import type { FileKind } from "@akasha/code-system/file-kind"
++import type { FileKind } from "@akasha/code/file-kind"
+ 
+ export type FileKindAuthorship = "authored" | "serialized"
+ 
+diff --git a/graph/file-kind-authorship/file-kind-authorship.module.ts b/graph/file-kind-authorship/file-kind-authorship.module.ts
+index 8917a7fc25d475c21b78dc1af2bbfde376dd893d..a2df6c62799b840be5854f13ea4d4b99713c0653 100644
+--- a/graph/file-kind-authorship/file-kind-authorship.module.ts
++++ b/graph/file-kind-authorship/file-kind-authorship.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const fileKindAuthorship = {
+   id: "01a0685e-59a0-7002-862e-796571404269",
+diff --git a/graph/graph.workspace-package.ts b/graph/graph.workspace-package.ts
+index 4d14e2f3f7dff5b88f49f4d89e2c2e28b280a86f..c40b0faadf7bacc388fbeb92f60808bb796b190a 100644
+--- a/graph/graph.workspace-package.ts
++++ b/graph/graph.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const graph = {
+   id: "01a04fcf-588c-7772-afed-357ed2e459d4",
+diff --git a/hook-system/agent-hooks/agent-hook.page-type.ts b/hook-system/agent-hooks/agent-hook.page-type.ts
+index 3e620605caf79b48fdc9d9da45b9fb4b8dc4797f..49c030834043ece96d39f07b8692c0bfa1b8d5f6 100644
+--- a/hook-system/agent-hooks/agent-hook.page-type.ts
++++ b/hook-system/agent-hooks/agent-hook.page-type.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { OverTools } from "./properties/over-tools.text-property.ts"
+ import type { RunsAt } from "./properties/runs-at.text-property.ts"
+diff --git a/hook-system/bun-calls/bun-calls.module.ts b/hook-system/bun-calls/bun-calls.module.ts
+index 4833989d6d6ff374672d73d8bc5e2dc7b27f1196..1d9cadb6b5db0f05e037e88c0182163cc9da7927 100644
+--- a/hook-system/bun-calls/bun-calls.module.ts
++++ b/hook-system/bun-calls/bun-calls.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const bunCalls = {
+   id: "01a04eab-d4ef-7000-bdff-3446eef0bf24",
+diff --git a/hook-system/chain-refusal/chain-refusal.module.ts b/hook-system/chain-refusal/chain-refusal.module.ts
+index 242b2700b7b88256ab4995593de7e6d747ab49eb..0822378349b434fd17a001aa6bb3390e916bb100 100644
+--- a/hook-system/chain-refusal/chain-refusal.module.ts
++++ b/hook-system/chain-refusal/chain-refusal.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const chainRefusal = {
+   id: "01a04f71-0570-763b-ac55-da9d9fca21da",
+diff --git a/hook-system/git-calls/git-calls.module.ts b/hook-system/git-calls/git-calls.module.ts
+index 3e7020f7edd055b8fcf84511328489e04eb47192..56fa60bb68e0a5047c72643bd7c20db4f79f5acc 100644
+--- a/hook-system/git-calls/git-calls.module.ts
++++ b/hook-system/git-calls/git-calls.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const gitCalls = {
+   id: "01a04e16-d380-7000-aca5-c084a6730236",
+diff --git a/hook-system/hook-answer/hook-answer.module.ts b/hook-system/hook-answer/hook-answer.module.ts
+index 7ca3b50e0d5048c84e21d648893db765503fea35..d94c01e7da5de9b5ea1a9af8089b0f3791f4a823 100644
+--- a/hook-system/hook-answer/hook-answer.module.ts
++++ b/hook-system/hook-answer/hook-answer.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const hookAnswer = {
+   id: "01a04e16-d380-7001-96b2-4990b06a9094",
+diff --git a/hook-system/hook-judging/hook-judging.module.ts b/hook-system/hook-judging/hook-judging.module.ts
+index 932e745de009972d40218ec7af6e090c800f7c9a..708aca8fa5f443d2d6fb97419a6ff6663c4473ad 100644
+--- a/hook-system/hook-judging/hook-judging.module.ts
++++ b/hook-system/hook-judging/hook-judging.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const hookJudging = {
+   id: "01a04f83-5df2-71b1-a666-6309398763b8",
+diff --git a/hook-system/hook-payload/hook-payload.module.ts b/hook-system/hook-payload/hook-payload.module.ts
+index d61d8e03dcf9d237150e5c1a0337c60e312840da..408d62c66dd359d60fb94a8d2a2fd7df771433b6 100644
+--- a/hook-system/hook-payload/hook-payload.module.ts
++++ b/hook-system/hook-payload/hook-payload.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const hookPayload = {
+   id: "01a04f4d-f0ea-791d-8bb4-ce41b59e46b1",
+diff --git a/hook-system/hook-system.workspace-package.ts b/hook-system/hook-system.workspace-package.ts
+index f271f381e2638e89fa5c19f806d451ffae570931..aee83fdc155b1a09cd55820b0b866e368e50735c 100644
+--- a/hook-system/hook-system.workspace-package.ts
++++ b/hook-system/hook-system.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const hookSystem = {
+   id: "01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f",
+diff --git a/hook-system/path-showing/path-showing.module.ts b/hook-system/path-showing/path-showing.module.ts
+index 6efc03df798d11ee1cf2c41ac393fc9feb40b5f4..5b1427d59a176d70ba89fb6cf2376e6aa714f25a 100644
+--- a/hook-system/path-showing/path-showing.module.ts
++++ b/hook-system/path-showing/path-showing.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pathShowing = {
+   id: "01a04f6a-0db6-72c2-9b05-8e1a84ed9649",
+diff --git a/hook-system/settling/settling.module.ts b/hook-system/settling/settling.module.ts
+index 0af910fbd0d810ca1dc5771ff472990d92a8931f..eba1b2f63766a31e1b3de3837c50d972820c6653 100644
+--- a/hook-system/settling/settling.module.ts
++++ b/hook-system/settling/settling.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const settling = {
+   id: "01a04eb3-0e17-7660-850e-4311257ed9fa",
+diff --git a/hook-system/shell-calls/shell-calls.module.ts b/hook-system/shell-calls/shell-calls.module.ts
+index 70f99eaf933b97379ceaba41f075389c98ad69ff..61f3c4268f7fb6daefe0544fbe297b7e3ebcbf76 100644
+--- a/hook-system/shell-calls/shell-calls.module.ts
++++ b/hook-system/shell-calls/shell-calls.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const shellCalls = {
+   id: "01a04eab-4522-7000-9e89-8627b48fbcc5",
+diff --git a/idle-system/idle-accrual/idle-accrual.module.ts b/idle-system/idle-accrual/idle-accrual.module.ts
+index f93736ffb5ae19d64dc420df22fb9b05d7c4b389..3267a7f2e27a2074d72b0a1ec28b25e6d0a2fbce 100644
+--- a/idle-system/idle-accrual/idle-accrual.module.ts
++++ b/idle-system/idle-accrual/idle-accrual.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const idleAccrual = {
+   id: "01a05b6a-d27b-7941-a3db-eebf9396c8bd",
+diff --git a/idle-system/idle-constants/idle-constants.module.ts b/idle-system/idle-constants/idle-constants.module.ts
+index 9945b498b20762bd56eb6ea6af53f4d7257c27a2..a81d92fc0ae367079aef201c3061a803237f1fe0 100644
+--- a/idle-system/idle-constants/idle-constants.module.ts
++++ b/idle-system/idle-constants/idle-constants.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const idleConstants = {
+   id: "01a05b68-ec5a-79b4-b7f2-0eac670c46b5",
+diff --git a/idle-system/idle-deriving/idle-deriving.module.ts b/idle-system/idle-deriving/idle-deriving.module.ts
+index 183ed3a78d33e626beea82680201dd8ea25525aa..48e02bc6a3b484a597872893766cc4c81135fce7 100644
+--- a/idle-system/idle-deriving/idle-deriving.module.ts
++++ b/idle-system/idle-deriving/idle-deriving.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const idleDeriving = {
+   id: "01a05b69-c24c-7187-ba21-83df7ae3528b",
+diff --git a/idle-system/idle-dormancy/idle-dormancy.module.ts b/idle-system/idle-dormancy/idle-dormancy.module.ts
+index 4dc0a95cac1b185252262d7e5230e80245f778e1..56b6e8a117750c1b12dfc39acfa6b5377fadb142 100644
+--- a/idle-system/idle-dormancy/idle-dormancy.module.ts
++++ b/idle-system/idle-dormancy/idle-dormancy.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const idleDormancy = {
+   id: "01a05b69-c23b-7762-9500-6c4cbe69c5ce",
+diff --git a/idle-system/idle-draw/idle-draw.module.ts b/idle-system/idle-draw/idle-draw.module.ts
+index 4090e66cb9656fcd2caa717ce3b462d2ad7fb080..c1e9ae7ed3e3cf5fe61702b281e1004c796e60ea 100644
+--- a/idle-system/idle-draw/idle-draw.module.ts
++++ b/idle-system/idle-draw/idle-draw.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const idleDraw = {
+   id: "01a05b6a-d28c-7e02-bb2f-8b334ef5a5f7",
+diff --git a/idle-system/idle-gacha-heat/idle-gacha-heat.module.ts b/idle-system/idle-gacha-heat/idle-gacha-heat.module.ts
+index 3d0069ceffb7c900e8a58103958e2744699fa602..6cff9c25e11cf10255b561708b3081104fb15dca 100644
+--- a/idle-system/idle-gacha-heat/idle-gacha-heat.module.ts
++++ b/idle-system/idle-gacha-heat/idle-gacha-heat.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const idleGachaHeat = {
+   id: "01a05b6a-d25c-70fc-9328-542009e321d2",
+diff --git a/idle-system/idle-gacha-state/idle-gacha-state.module.ts b/idle-system/idle-gacha-state/idle-gacha-state.module.ts
+index 9415f48a84208969b7acd57b3f6f844e30441e17..2d4811a9d0dbc1858bcef6ce409860bb06580591 100644
+--- a/idle-system/idle-gacha-state/idle-gacha-state.module.ts
++++ b/idle-system/idle-gacha-state/idle-gacha-state.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const idleGachaState = {
+   id: "01a05b68-ec6a-7cca-b316-e96983bc3731",
+diff --git a/idle-system/idle-rate/idle-rate.module.ts b/idle-system/idle-rate/idle-rate.module.ts
+index 44429720963ba8af8b2ecbdc7ba8047f255c99c7..763b6e92eaee83284ea1f5771b69790249cd493e 100644
+--- a/idle-system/idle-rate/idle-rate.module.ts
++++ b/idle-system/idle-rate/idle-rate.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const idleRate = {
+   id: "01a05b6a-d26b-707e-a786-4d200954d167",
+diff --git a/idle-system/idle-save/idle-save.module.ts b/idle-system/idle-save/idle-save.module.ts
+index 919b78568b975641bbdec3a076fbcfd460f607ee..b9ffec9882b289b9dc32d9f9ff77723caa7578fe 100644
+--- a/idle-system/idle-save/idle-save.module.ts
++++ b/idle-system/idle-save/idle-save.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const idleSave = {
+   id: "01a05b69-c25c-70a7-91de-c6f1639eb5e3",
+diff --git a/idle-system/idle-state/idle-state.module.ts b/idle-system/idle-state/idle-state.module.ts
+index b960674672a3b52a7fc4cf392cf83f9ecf59da25..d1ced4627ceb1234ee2ee4c0eeb008be07b7b21e 100644
+--- a/idle-system/idle-state/idle-state.module.ts
++++ b/idle-system/idle-state/idle-state.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const idleState = {
+   id: "01a05b63-a6f6-7fff-a5a8-d9a41ed04689",
+diff --git a/idle-system/idle-system.workspace-package.ts b/idle-system/idle-system.workspace-package.ts
+index 942cf6da1db7d7c2d0042ba356eb85fc09c86be0..67418c016d481a9f6dccc6e5a935dce8218f2d51 100644
+--- a/idle-system/idle-system.workspace-package.ts
++++ b/idle-system/idle-system.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const idleSystem = {
+   id: "01a05b63-a6e5-7573-b275-3738b378b2a5",
+diff --git a/inference/clients/ace-step-client/ace-step-client.module.ts b/inference/clients/ace-step-client/ace-step-client.module.ts
+index 8922e57c358fa131b6dbb8a39ffc0a5eaf329e32..eb70feb5a13208789e23c2b56c325d46b75ae113 100644
+--- a/inference/clients/ace-step-client/ace-step-client.module.ts
++++ b/inference/clients/ace-step-client/ace-step-client.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const aceStepClient = {
+   id: "01a0682d-8ef5-7006-9c39-daea2ba9c6dd",
+diff --git a/inference/clients/comfy-client/comfy-client.module.ts b/inference/clients/comfy-client/comfy-client.module.ts
+index 2814c7c481fa4e1e08f4c5c0b7fd9d66a1029fc9..1b6e1bba79412d98019ac8bae9a56c2fdeef2e0a 100644
+--- a/inference/clients/comfy-client/comfy-client.module.ts
++++ b/inference/clients/comfy-client/comfy-client.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const comfyClient = {
+   id: "01a0682d-8ef5-7008-9d37-824c7c7aafb6",
+diff --git a/inference/clients/cop-fetch/cop-fetch.module.ts b/inference/clients/cop-fetch/cop-fetch.module.ts
+index 0fc724ab21a0fb97e0dfaae49b5e9dbdae102c6e..a54807fe86e49ba0adfc948d86cc92e7218e9649 100644
+--- a/inference/clients/cop-fetch/cop-fetch.module.ts
++++ b/inference/clients/cop-fetch/cop-fetch.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const copFetch = {
+   id: "01a0685d-4b35-700d-9c90-fb07ff5e3a7d",
+diff --git a/inference/clients/gemini-image-client/gemini-image-client.module.ts b/inference/clients/gemini-image-client/gemini-image-client.module.ts
+index 37fc5b45c7272455087a19287f04b52ca496b484..36b50351fbd49383b1418bdf4072cc716e6c35b6 100644
+--- a/inference/clients/gemini-image-client/gemini-image-client.module.ts
++++ b/inference/clients/gemini-image-client/gemini-image-client.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const geminiImageClient = {
+   id: "01a0682d-8ef5-7004-ae3d-4d4efd7dcff0",
+diff --git a/inference/clients/inference-clients.workspace-package.ts b/inference/clients/inference-clients.workspace-package.ts
+index bc746bd2068f2457f5bd01b0aa1b56be6081d830..06c84fd9f74ed459354a0daede7e578a54a1b3cf 100644
+--- a/inference/clients/inference-clients.workspace-package.ts
++++ b/inference/clients/inference-clients.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const inferenceClients = {
+   id: "01a0682d-8f07-7000-ab6b-b7ebbf0863a0",
+diff --git a/inference/clients/inference-output-path/inference-output-path.module.ts b/inference/clients/inference-output-path/inference-output-path.module.ts
+index 7b98e3ea37e72ae7263bd532568d7b1a03db6152..2bcf1064655b24bf57e324eaaa8d0fc7573a1d32 100644
+--- a/inference/clients/inference-output-path/inference-output-path.module.ts
++++ b/inference/clients/inference-output-path/inference-output-path.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inferenceOutputPath = {
+   id: "01a0682d-8ef5-7000-94d2-cb350381788d",
+diff --git a/inference/clients/inference-seed/inference-seed.module.ts b/inference/clients/inference-seed/inference-seed.module.ts
+index 2dcbff3207955f6f87bb93e3680abf2402cd1438..8586ce35dfa5089b9d5cfb99015d059e0f92206d 100644
+--- a/inference/clients/inference-seed/inference-seed.module.ts
++++ b/inference/clients/inference-seed/inference-seed.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inferenceSeed = {
+   id: "01a0682d-8ef5-7001-96f7-f3b6bb839422",
+diff --git a/inference/clients/mlx-image-client/mlx-image-client.module.ts b/inference/clients/mlx-image-client/mlx-image-client.module.ts
+index fb0ef9eb313c9eaad51847c1452c31d554ecff91..36a537ef0e28d9b11ea6914b2e4c83dbe04fab2c 100644
+--- a/inference/clients/mlx-image-client/mlx-image-client.module.ts
++++ b/inference/clients/mlx-image-client/mlx-image-client.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const mlxImageClient = {
+   id: "01a0682d-8ef5-7002-bb72-c45901a73f64",
+diff --git a/inference/clients/mlx-vlm-client/mlx-vlm-client.module.ts b/inference/clients/mlx-vlm-client/mlx-vlm-client.module.ts
+index a37b1ef6719a27b78717c99715e404ed74a63912..17cfe5f66c4cd08fa171a773252dec0636132f76 100644
+--- a/inference/clients/mlx-vlm-client/mlx-vlm-client.module.ts
++++ b/inference/clients/mlx-vlm-client/mlx-vlm-client.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const mlxVlmClient = {
+   id: "01a0682d-8ef5-7003-ab7a-241d38f5e4c6",
+diff --git a/inference/clients/segment-client/segment-client.module.ts b/inference/clients/segment-client/segment-client.module.ts
+index 167fa693812903c534e1c1510382d11c21ecfb30..533134d3104556e08a0b9547421f995872b1b3d0 100644
+--- a/inference/clients/segment-client/segment-client.module.ts
++++ b/inference/clients/segment-client/segment-client.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const segmentClient = {
+   id: "01a0682d-8ef5-7005-81a3-8cc746c8acbf",
+diff --git a/inference/clients/voice-clone-client/voice-clone-client.module.ts b/inference/clients/voice-clone-client/voice-clone-client.module.ts
+index aad23f36f5aaa49a1ad80522f0de10d62f1f9917..bc3c953df82a946d42f03a66551acfbb6b788d67 100644
+--- a/inference/clients/voice-clone-client/voice-clone-client.module.ts
++++ b/inference/clients/voice-clone-client/voice-clone-client.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const voiceCloneClient = {
+   id: "01a0682d-8ef5-7007-9aeb-17efab6f532f",
+diff --git a/inference/comfy/comfy-graph/comfy-graph.module.ts b/inference/comfy/comfy-graph/comfy-graph.module.ts
+index c0ab75c8f83d17624ee3fb6625e05d7fa9fdd346..09f9f2d45eeb0f2fc8bb2371cb504949c671d719 100644
+--- a/inference/comfy/comfy-graph/comfy-graph.module.ts
++++ b/inference/comfy/comfy-graph/comfy-graph.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const comfyGraph = {
+   id: "01a06810-0b68-7ef9-b759-c81fe48c15c6",
+diff --git a/inference/comfy/comfy.workspace-package.ts b/inference/comfy/comfy.workspace-package.ts
+index 2eab7699e5a3d3af3fe91151f1bf00ff3fa0529e..720cd8891b6aee46154f28599a4d2c79035759c8 100644
+--- a/inference/comfy/comfy.workspace-package.ts
++++ b/inference/comfy/comfy.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const comfy = {
+   id: "01a06810-0b68-7eaa-8bd1-c312063e493d",
+diff --git a/inference/commands/inference-answering/inference-answering.module.ts b/inference/commands/inference-answering/inference-answering.module.ts
+index 53b6577c3b6db57809d3ae2cf903375dcbe4261d..bc2af5652a48b29e8651b8426376647844974128 100644
+--- a/inference/commands/inference-answering/inference-answering.module.ts
++++ b/inference/commands/inference-answering/inference-answering.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inferenceAnswering = {
+   id: "01a0685e-fd50-756a-85ea-473b887d050f",
+diff --git a/inference/commands/inference-commands.workspace-package.ts b/inference/commands/inference-commands.workspace-package.ts
+index 655ddc4c8957b395d0a00a7d8283254db71bea34..0e2847a025eb13daff9574f85f7e537a537cc18d 100644
+--- a/inference/commands/inference-commands.workspace-package.ts
++++ b/inference/commands/inference-commands.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const inferenceCommands = {
+   id: "01a0685e-fd50-7e21-9c04-6b31a0f2c7de",
+diff --git a/inference/generations/upscale/upscale-bench-runner/upscale-bench-runner.shell-script.ts b/inference/generations/upscale/upscale-bench-runner/upscale-bench-runner.shell-script.ts
+index 8211d426cf92536b4effcec1d12db2999386d805..f36f4d4e5b57a47152a8b07ba5c18485906a13cc 100644
+--- a/inference/generations/upscale/upscale-bench-runner/upscale-bench-runner.shell-script.ts
++++ b/inference/generations/upscale/upscale-bench-runner/upscale-bench-runner.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const upscaleBenchRunner = {
+   id: "01a06815-9efd-703d-a305-1eca8ff85289",
+diff --git a/inference/generations/upscale/upscale-bench-synth/upscale-bench-synth.module.ts b/inference/generations/upscale/upscale-bench-synth/upscale-bench-synth.module.ts
+index 033212cdcc3577891010bee484b98d2a63318d54..953262dbc7a04db05f0d3b92293ee48a869a616b 100644
+--- a/inference/generations/upscale/upscale-bench-synth/upscale-bench-synth.module.ts
++++ b/inference/generations/upscale/upscale-bench-synth/upscale-bench-synth.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const upscaleBenchSynth = {
+   id: "01a06815-9efd-7033-94e5-a09ca99e9413",
+diff --git a/inference/generations/upscale/upscale-cluster-image/upscale-cluster-image.container-recipe.ts b/inference/generations/upscale/upscale-cluster-image/upscale-cluster-image.container-recipe.ts
+index ead5e0f1df8afe613e3964c26126a7aa2a2e1ef0..166f188d5f5ddc1f1b2fe2a49c6489dbfe7f2ac5 100644
+--- a/inference/generations/upscale/upscale-cluster-image/upscale-cluster-image.container-recipe.ts
++++ b/inference/generations/upscale/upscale-cluster-image/upscale-cluster-image.container-recipe.ts
+@@ -1,4 +1,4 @@
+-import type { ContainerRecipe } from "@akasha/code-system/container-recipe"
++import type { ContainerRecipe } from "@akasha/code/container-recipe"
+ 
+ export const upscaleClusterImage = {
+   id: "01a06815-9efd-703f-830c-ec7f071cf0a0",
+diff --git a/inference/generations/upscale/upscale-cluster-publish/upscale-cluster-publish.shell-script.ts b/inference/generations/upscale/upscale-cluster-publish/upscale-cluster-publish.shell-script.ts
+index 2f1cd9587232a0cc420e959d1d2220283677ae93..eec0b76fa83cd6f7c4cf695658e2447bd66b83e0 100644
+--- a/inference/generations/upscale/upscale-cluster-publish/upscale-cluster-publish.shell-script.ts
++++ b/inference/generations/upscale/upscale-cluster-publish/upscale-cluster-publish.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const upscaleClusterPublish = {
+   id: "01a06815-9efd-703c-a63f-dfafe079c747",
+diff --git a/inference/generations/upscale/upscale-cluster/upscale-cluster.module.ts b/inference/generations/upscale/upscale-cluster/upscale-cluster.module.ts
+index faa0ab14408a699b11314c0a8967a8347df76ef1..4a247de77a52397e9f882873098eda60d84d1744 100644
+--- a/inference/generations/upscale/upscale-cluster/upscale-cluster.module.ts
++++ b/inference/generations/upscale/upscale-cluster/upscale-cluster.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const upscaleCluster = {
+   id: "01a0685d-4b35-7018-b4c3-09ff288b2bf1",
+diff --git a/inference/generations/upscale/upscale-down/upscale-down.shell-script.ts b/inference/generations/upscale/upscale-down/upscale-down.shell-script.ts
+index e340f7001fb697c4e1d23e345cb14e2d56ef3642..e537562e2b5c84be92d68f08bc88089fda026bfd 100644
+--- a/inference/generations/upscale/upscale-down/upscale-down.shell-script.ts
++++ b/inference/generations/upscale/upscale-down/upscale-down.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const upscaleDown = {
+   id: "01a06815-9efd-7036-9b91-c9c8ee0cf677",
+diff --git a/inference/generations/upscale/upscale-image/upscale-image.container-recipe.ts b/inference/generations/upscale/upscale-image/upscale-image.container-recipe.ts
+index 6d689cdb99d3204ea3ce1fbe2302c92c0a815e26..cea09b3af009ffaa2ef73b893052ce6f397f68d0 100644
+--- a/inference/generations/upscale/upscale-image/upscale-image.container-recipe.ts
++++ b/inference/generations/upscale/upscale-image/upscale-image.container-recipe.ts
+@@ -1,4 +1,4 @@
+-import type { ContainerRecipe } from "@akasha/code-system/container-recipe"
++import type { ContainerRecipe } from "@akasha/code/container-recipe"
+ 
+ export const upscaleImage = {
+   id: "01a06815-9efd-703e-b4a6-f5afa5889e2b",
+diff --git a/inference/generations/upscale/upscale-provision/upscale-provision.shell-script.ts b/inference/generations/upscale/upscale-provision/upscale-provision.shell-script.ts
+index 7e2d9536af082bcc162438eafef3378b9258ddd1..4dc20f5637c1f25f240b102809623ebe2e141780 100644
+--- a/inference/generations/upscale/upscale-provision/upscale-provision.shell-script.ts
++++ b/inference/generations/upscale/upscale-provision/upscale-provision.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const upscaleProvision = {
+   id: "01a06815-9efd-7038-aeee-ddf6f13990a9",
+diff --git a/inference/generations/upscale/upscale-run/upscale-run.shell-script.ts b/inference/generations/upscale/upscale-run/upscale-run.shell-script.ts
+index a2b44c1148f64486fbda52516110c36e1ab8f14b..8e6308cfe68cab09b816a96ce28ec7cbfbfcc35d 100644
+--- a/inference/generations/upscale/upscale-run/upscale-run.shell-script.ts
++++ b/inference/generations/upscale/upscale-run/upscale-run.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const upscaleRun = {
+   id: "01a06815-9efd-7039-8365-178025ed0b07",
+diff --git a/inference/generations/upscale/upscale-seedvr2/upscale-seedvr2.shell-script.ts b/inference/generations/upscale/upscale-seedvr2/upscale-seedvr2.shell-script.ts
+index bc2dcbd3ae36e82da504a2ead101d155413258e4..08926d1ac3ac8987433edee834e717fdc23379a0 100644
+--- a/inference/generations/upscale/upscale-seedvr2/upscale-seedvr2.shell-script.ts
++++ b/inference/generations/upscale/upscale-seedvr2/upscale-seedvr2.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const upscaleSeedvr2 = {
+   id: "01a06815-9efd-703a-8865-9954cf604135",
+diff --git a/inference/generations/upscale/upscale-serving-job/upscale-serving-job.module.ts b/inference/generations/upscale/upscale-serving-job/upscale-serving-job.module.ts
+index c381f5fccd2ca3f0db809ef7c3efe24a9fd32a82..d3aedf27ef24bf21cd9ca64c55c70a857d04e2bb 100644
+--- a/inference/generations/upscale/upscale-serving-job/upscale-serving-job.module.ts
++++ b/inference/generations/upscale/upscale-serving-job/upscale-serving-job.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const upscaleServingJob = {
+   id: "01a073af-4669-7130-ac05-5cb2a15a6313",
+diff --git a/inference/generations/upscale/upscale-srpo-graph/upscale-srpo-graph.python-module.ts b/inference/generations/upscale/upscale-srpo-graph/upscale-srpo-graph.python-module.ts
+index 0a3ed633b31669fb41f932f0b92d4253bca38e5e..ee4b6622fae4ccc45d85be5e59e1e44f5cd9c2c7 100644
+--- a/inference/generations/upscale/upscale-srpo-graph/upscale-srpo-graph.python-module.ts
++++ b/inference/generations/upscale/upscale-srpo-graph/upscale-srpo-graph.python-module.ts
+@@ -1,4 +1,4 @@
+-import type { PythonModule } from "@akasha/code-system/python-module"
++import type { PythonModule } from "@akasha/code/python-module"
+ 
+ export const upscaleSrpoGraph = {
+   id: "01a06815-9efd-7034-ad3f-3336504783e8",
+diff --git a/inference/generations/upscale/upscale-srpo/upscale-srpo.shell-script.ts b/inference/generations/upscale/upscale-srpo/upscale-srpo.shell-script.ts
+index 4cc6e39e737b4cba53f2c58b61c4806cc97f84b4..bc2b4e2064a69b8dbbde0daad4fe1f2c39c42e20 100644
+--- a/inference/generations/upscale/upscale-srpo/upscale-srpo.shell-script.ts
++++ b/inference/generations/upscale/upscale-srpo/upscale-srpo.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const upscaleSrpo = {
+   id: "01a06815-9efd-703b-9a4d-0e474ee50468",
+diff --git a/inference/generations/upscale/upscale-up/upscale-up.shell-script.ts b/inference/generations/upscale/upscale-up/upscale-up.shell-script.ts
+index c20f448f3f0dafad8ed36e80ff241785bfed1c9c..3f8c134b8641d009166a8ce614bd8a5fa9adca98 100644
+--- a/inference/generations/upscale/upscale-up/upscale-up.shell-script.ts
++++ b/inference/generations/upscale/upscale-up/upscale-up.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const upscaleUp = {
+   id: "01a06815-9efd-7035-9244-9043a5229750",
+diff --git a/inference/generations/upscale/upscale-workstation/upscale-workstation.module.ts b/inference/generations/upscale/upscale-workstation/upscale-workstation.module.ts
+index d95e43b82ebbd020b3c0b3ffa3337e6729da7e9f..8ac8b88c7081dd40802d8cf64dbae00924d29f6f 100644
+--- a/inference/generations/upscale/upscale-workstation/upscale-workstation.module.ts
++++ b/inference/generations/upscale/upscale-workstation/upscale-workstation.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const upscaleWorkstation = {
+   id: "01a0685d-4b35-7017-9e36-4673102a7874",
+diff --git a/inference/generations/upscale/upscale.workspace-package.ts b/inference/generations/upscale/upscale.workspace-package.ts
+index 448a67c83fa274f27d82d206523125637adf49ed..3504f4edbe32708d48a02fbc3c7428a4f768524f 100644
+--- a/inference/generations/upscale/upscale.workspace-package.ts
++++ b/inference/generations/upscale/upscale.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const upscale = {
+   id: "01a06815-9efd-7040-a13c-1048a109ba86",
+diff --git a/inference/generations/wan/wan-backbone/wan-backbone.module.ts b/inference/generations/wan/wan-backbone/wan-backbone.module.ts
+index e7b110534a5f656e6a4fab51bed3112c90c858b7..af74f68b1453c160010147eb5f8afe34c294a4de 100644
+--- a/inference/generations/wan/wan-backbone/wan-backbone.module.ts
++++ b/inference/generations/wan/wan-backbone/wan-backbone.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const wanBackbone = {
+   id: "01a06815-9efd-701f-8a18-b219fa4b317f",
+diff --git a/inference/generations/wan/wan-down/wan-down.shell-script.ts b/inference/generations/wan/wan-down/wan-down.shell-script.ts
+index 31ad8453f4509392527fc9abb76aaaebb6942e13..57ea740865f928a340e0b2201b2a3e637dc6f5a2 100644
+--- a/inference/generations/wan/wan-down/wan-down.shell-script.ts
++++ b/inference/generations/wan/wan-down/wan-down.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const wanDown = {
+   id: "01a06815-9efd-7024-8562-8fb716c958fe",
+diff --git a/inference/generations/wan/wan-extend-graph/wan-extend-graph.module.ts b/inference/generations/wan/wan-extend-graph/wan-extend-graph.module.ts
+index 7e9bba89af57d2a7649ee6ea37659ccaf39b496a..5ef776634ab701d265386abaa26712d6c4a7b6ec 100644
+--- a/inference/generations/wan/wan-extend-graph/wan-extend-graph.module.ts
++++ b/inference/generations/wan/wan-extend-graph/wan-extend-graph.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const wanExtendGraph = {
+   id: "01a06815-9efd-7021-ba2f-939c858115c2",
+diff --git a/inference/generations/wan/wan-frame-scoring/wan-frame-scoring.python-module.ts b/inference/generations/wan/wan-frame-scoring/wan-frame-scoring.python-module.ts
+index 5bf9419e69b33892309532c567dacda8c532e0c1..435061f9535a51828eae986f8633b1bb854ca229 100644
+--- a/inference/generations/wan/wan-frame-scoring/wan-frame-scoring.python-module.ts
++++ b/inference/generations/wan/wan-frame-scoring/wan-frame-scoring.python-module.ts
+@@ -1,4 +1,4 @@
+-import type { PythonModule } from "@akasha/code-system/python-module"
++import type { PythonModule } from "@akasha/code/python-module"
+ 
+ export const wanFrameScoring = {
+   id: "01a06815-9efd-7022-88a4-0adf23d8e3d9",
+diff --git a/inference/generations/wan/wan-i2v-graph/wan-i2v-graph.module.ts b/inference/generations/wan/wan-i2v-graph/wan-i2v-graph.module.ts
+index fc426e851d286d80ef5305429c603c4d0a900b26..143ea70870b9bbb3121eddc643e95abf35b8c055 100644
+--- a/inference/generations/wan/wan-i2v-graph/wan-i2v-graph.module.ts
++++ b/inference/generations/wan/wan-i2v-graph/wan-i2v-graph.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const wanI2vGraph = {
+   id: "01a06815-9efd-7020-9a10-8b4127354701",
+diff --git a/inference/generations/wan/wan-image/wan-image.container-recipe.ts b/inference/generations/wan/wan-image/wan-image.container-recipe.ts
+index 8771eb7837d1c28f9fe97c8386c75af79e09a66d..6472456dc99d8a4c75848a45702d9cf139f5dbc6 100644
+--- a/inference/generations/wan/wan-image/wan-image.container-recipe.ts
++++ b/inference/generations/wan/wan-image/wan-image.container-recipe.ts
+@@ -1,4 +1,4 @@
+-import type { ContainerRecipe } from "@akasha/code-system/container-recipe"
++import type { ContainerRecipe } from "@akasha/code/container-recipe"
+ 
+ export const wanImage = {
+   id: "01a06815-9efd-7027-9ba4-a87237aa9261",
+diff --git a/inference/generations/wan/wan-provision/wan-provision.shell-script.ts b/inference/generations/wan/wan-provision/wan-provision.shell-script.ts
+index d7cc8c601a74463dc1e6f836906cdd244a9938e5..4c30530652342867e0ed4db9d4759edd957f7a16 100644
+--- a/inference/generations/wan/wan-provision/wan-provision.shell-script.ts
++++ b/inference/generations/wan/wan-provision/wan-provision.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const wanProvision = {
+   id: "01a06815-9efd-7026-98f4-4fe808e955c2",
+diff --git a/inference/generations/wan/wan-size/wan-size.module.ts b/inference/generations/wan/wan-size/wan-size.module.ts
+index 7b6de36e5e715392cd001cc606dffa9df482690c..65912d45a3dc72f3ac0d3a9aac5da7ba3bef4fa5 100644
+--- a/inference/generations/wan/wan-size/wan-size.module.ts
++++ b/inference/generations/wan/wan-size/wan-size.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const wanSize = {
+   id: "01a067f1-4e2c-7000-b3a1-6c2f9d4a8e10",
+diff --git a/inference/generations/wan/wan-smoke/wan-smoke.shell-script.ts b/inference/generations/wan/wan-smoke/wan-smoke.shell-script.ts
+index 58992658d8a01b4fd407b61063466ed416df52c9..42931d23d6edc590daff970d19929b2585a69ab4 100644
+--- a/inference/generations/wan/wan-smoke/wan-smoke.shell-script.ts
++++ b/inference/generations/wan/wan-smoke/wan-smoke.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const wanSmoke = {
+   id: "01a06815-9efd-7025-a285-98a8e937ee09",
+diff --git a/inference/generations/wan/wan-up/wan-up.shell-script.ts b/inference/generations/wan/wan-up/wan-up.shell-script.ts
+index df40092c2cd619514ed75f09ae3644163b2f4b5a..57dbac4aa583de1eefe35ca8337f6754c4114a57 100644
+--- a/inference/generations/wan/wan-up/wan-up.shell-script.ts
++++ b/inference/generations/wan/wan-up/wan-up.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const wanUp = {
+   id: "01a06815-9efd-7023-a90a-d62e5e004185",
+diff --git a/inference/generations/wan/wan.workspace-package.ts b/inference/generations/wan/wan.workspace-package.ts
+index 68fcd376634d9a15a9475203081d55a0b9b41a83..e27595eb644ead145af7f06b2671f46c2cf8b9ea 100644
+--- a/inference/generations/wan/wan.workspace-package.ts
++++ b/inference/generations/wan/wan.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const wan = {
+   id: "01a06815-9efd-7028-bfc6-b3c3933ac08c",
+diff --git a/inference/generations/zimage/zimage-down/zimage-down.shell-script.ts b/inference/generations/zimage/zimage-down/zimage-down.shell-script.ts
+index 284bb9d9488efe4d4dce5d0d0b87f7656c7aaf8c..d65f9c230d5b36ee2a7f8ba06eaf593a17eb31c2 100644
+--- a/inference/generations/zimage/zimage-down/zimage-down.shell-script.ts
++++ b/inference/generations/zimage/zimage-down/zimage-down.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const zimageDown = {
+   id: "01a06815-9efd-702e-94af-c285cd2c2b02",
+diff --git a/inference/generations/zimage/zimage-explore-batch/zimage-explore-batch.module.ts b/inference/generations/zimage/zimage-explore-batch/zimage-explore-batch.module.ts
+index dc404f992b2934cdd35ffd3bcf7df888834dab1e..9a0bf581ba8cb13fe066eb889f55ba51fa5cbdb2 100644
+--- a/inference/generations/zimage/zimage-explore-batch/zimage-explore-batch.module.ts
++++ b/inference/generations/zimage/zimage-explore-batch/zimage-explore-batch.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const zimageExploreBatch = {
+   id: "01a06815-9efd-702b-918e-4790e2c76682",
+diff --git a/inference/generations/zimage/zimage-explore-worker/zimage-explore-worker.module.ts b/inference/generations/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
+index 89b17eb15950403d5c380b0b97ab07b5ccd45e4c..30b9303564e692f2395c1bc6eebdc153e24bb975 100644
+--- a/inference/generations/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
++++ b/inference/generations/zimage/zimage-explore-worker/zimage-explore-worker.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const zimageExploreWorker = {
+   id: "01a06815-9efd-702c-97c4-1d8fa5c36f48",
+diff --git a/inference/generations/zimage/zimage-graph/zimage-graph.module.ts b/inference/generations/zimage/zimage-graph/zimage-graph.module.ts
+index a6f8eb92575738fffa70ca150c26b7db98fe66da..d355abe32fcd8ecd2ca7c0d8eb8a9e0e2f4c54c9 100644
+--- a/inference/generations/zimage/zimage-graph/zimage-graph.module.ts
++++ b/inference/generations/zimage/zimage-graph/zimage-graph.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const zimageGraph = {
+   id: "01a06815-9efd-702a-9285-e03b1d269cbb",
+diff --git a/inference/generations/zimage/zimage-image/zimage-image.container-recipe.ts b/inference/generations/zimage/zimage-image/zimage-image.container-recipe.ts
+index 6f8d24a791a8c3296dbd3d63f83ab72ab1b22e20..1fb9e28e1593a5489b714013c64dbc713e5b5edb 100644
+--- a/inference/generations/zimage/zimage-image/zimage-image.container-recipe.ts
++++ b/inference/generations/zimage/zimage-image/zimage-image.container-recipe.ts
+@@ -1,4 +1,4 @@
+-import type { ContainerRecipe } from "@akasha/code-system/container-recipe"
++import type { ContainerRecipe } from "@akasha/code/container-recipe"
+ 
+ export const zimageImage = {
+   id: "01a06815-9efd-7031-a984-cc177378d515",
+diff --git a/inference/generations/zimage/zimage-models/zimage-models.module.ts b/inference/generations/zimage/zimage-models/zimage-models.module.ts
+index 1585031f8cbf1fe57dbec37aede6f6c65d5bb6de..7298657efeef984a7df2657e27fff1a1478b4eaa 100644
+--- a/inference/generations/zimage/zimage-models/zimage-models.module.ts
++++ b/inference/generations/zimage/zimage-models/zimage-models.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const zimageModels = {
+   id: "01a06815-9efd-7029-bfee-12492d050841",
+diff --git a/inference/generations/zimage/zimage-provision/zimage-provision.shell-script.ts b/inference/generations/zimage/zimage-provision/zimage-provision.shell-script.ts
+index 77685a77f4c32f58f67124a526778f636cfe7996..ab5c0d5dea47a371509db2ed5c9792582ad9d689 100644
+--- a/inference/generations/zimage/zimage-provision/zimage-provision.shell-script.ts
++++ b/inference/generations/zimage/zimage-provision/zimage-provision.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const zimageProvision = {
+   id: "01a06815-9efd-7030-be57-be6d4b92347a",
+diff --git a/inference/generations/zimage/zimage-smoke/zimage-smoke.shell-script.ts b/inference/generations/zimage/zimage-smoke/zimage-smoke.shell-script.ts
+index d16071e89ee2981ddd183fa0ac39bf29125feadf..95920acf1f42f09b2503bfffafffb3cfb176168d 100644
+--- a/inference/generations/zimage/zimage-smoke/zimage-smoke.shell-script.ts
++++ b/inference/generations/zimage/zimage-smoke/zimage-smoke.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const zimageSmoke = {
+   id: "01a06815-9efd-702f-bfe6-a79f0b83fe3e",
+diff --git a/inference/generations/zimage/zimage-up/zimage-up.shell-script.ts b/inference/generations/zimage/zimage-up/zimage-up.shell-script.ts
+index 310e2b12e60f88b23fda9397bb91ddbfa75b30fb..14c00cd4933c0d11961b625ed897e1910d840894 100644
+--- a/inference/generations/zimage/zimage-up/zimage-up.shell-script.ts
++++ b/inference/generations/zimage/zimage-up/zimage-up.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const zimageUp = {
+   id: "01a06815-9efd-702d-82a8-4cd32ae44d0d",
+diff --git a/inference/generations/zimage/zimage.workspace-package.ts b/inference/generations/zimage/zimage.workspace-package.ts
+index 5528b0eee51a5536668da90ed6a4dfd56d7ebdd3..80df47afd2208ebe7ee8ed633de4dadc9380711e 100644
+--- a/inference/generations/zimage/zimage.workspace-package.ts
++++ b/inference/generations/zimage/zimage.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const zimage = {
+   id: "01a06815-9efd-7032-89aa-a2f0ea5e1881",
+diff --git a/inference/pool/cop-admin/cop-admin.module.ts b/inference/pool/cop-admin/cop-admin.module.ts
+index 73fcda93daba3a98e6d152c3584f4c9fb877bd37..2ef8dfa30373f3686bc5f8cb34374c809a016cc1 100644
+--- a/inference/pool/cop-admin/cop-admin.module.ts
++++ b/inference/pool/cop-admin/cop-admin.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const copAdmin = {
+   id: "01a0685d-4b35-700b-a3ee-538f05dcbe5d",
+diff --git a/inference/pool/gui-session/gui-session.module.ts b/inference/pool/gui-session/gui-session.module.ts
+index a0f66d3e8ee2106db0b402afcbfd903ff216f5b7..4733c9a8302bdff41cad37674722e495ca623b82 100644
+--- a/inference/pool/gui-session/gui-session.module.ts
++++ b/inference/pool/gui-session/gui-session.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const guiSession = {
+   id: "01a0685d-4b35-7008-800a-b27956eea787",
+diff --git a/inference/pool/inference-hosts/inference-hosts.module.ts b/inference/pool/inference-hosts/inference-hosts.module.ts
+index d4e56221d7ce0802f578a2b752690886dc008a09..044c1c3a4f14eb2dc6eb35ce62fd7ba4263dcf7d 100644
+--- a/inference/pool/inference-hosts/inference-hosts.module.ts
++++ b/inference/pool/inference-hosts/inference-hosts.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inferenceHosts = {
+   id: "01a0685d-4b35-7002-9349-0c26e47c4b8f",
+diff --git a/inference/pool/inference-naming/inference-naming.module.ts b/inference/pool/inference-naming/inference-naming.module.ts
+index fbab57c61261d405471c97acb442316348776943..c0b3b14b9542b8fd2f54c4d51df11e4676cbad09 100644
+--- a/inference/pool/inference-naming/inference-naming.module.ts
++++ b/inference/pool/inference-naming/inference-naming.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inferenceNaming = {
+   id: "01a0685d-4b35-7001-b274-eaa316779db7",
+diff --git a/inference/pool/inference-pool.workspace-package.ts b/inference/pool/inference-pool.workspace-package.ts
+index 5fb78512d5f9142ff73c96c4c398a3e3c25c0495..b0d9c7939dd873d5528835861fc0d98228b7253a 100644
+--- a/inference/pool/inference-pool.workspace-package.ts
++++ b/inference/pool/inference-pool.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const inferencePool = {
+   id: "01a06815-9efd-7015-b82a-e620372e1e32",
+diff --git a/inference/pool/inference-reconcile/inference-reconcile.module.ts b/inference/pool/inference-reconcile/inference-reconcile.module.ts
+index d9af424e7b6560d1f1f23f9dbe73f76a02e6d2d2..30dd6174e176deab0235d2c8f19f137588d969ee 100644
+--- a/inference/pool/inference-reconcile/inference-reconcile.module.ts
++++ b/inference/pool/inference-reconcile/inference-reconcile.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inferenceReconcile = {
+   id: "01a0685d-4b35-700c-9b4c-80e9256ed4e8",
+diff --git a/inference/pool/inference-schema/inference-schema.module.ts b/inference/pool/inference-schema/inference-schema.module.ts
+index 40b96585fa6eaaae37ed70f0602659e156d630d8..a95635ace255e5e3d9391a15dc533234fda65b07 100644
+--- a/inference/pool/inference-schema/inference-schema.module.ts
++++ b/inference/pool/inference-schema/inference-schema.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inferenceSchema = {
+   id: "01a0685d-4b35-7000-a89c-fa9904f3e21d",
+diff --git a/inference/pool/inference-services/inference-services.module.ts b/inference/pool/inference-services/inference-services.module.ts
+index 83cda6b5b10d4991d106cc4c8b66608e3c431379..bb42e9e67a78748f5f3f3dd7cf97e93ce7e61824 100644
+--- a/inference/pool/inference-services/inference-services.module.ts
++++ b/inference/pool/inference-services/inference-services.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inferenceServices = {
+   id: "01a0685d-4b35-7004-84e3-d0c0ff89734f",
+diff --git a/inference/pool/inference-ssh/inference-ssh.module.ts b/inference/pool/inference-ssh/inference-ssh.module.ts
+index e406f564698f8f1883a517b06670298d1c29786a..fb3d049cda2addae0fa5dd47d09826941cf9b3e9 100644
+--- a/inference/pool/inference-ssh/inference-ssh.module.ts
++++ b/inference/pool/inference-ssh/inference-ssh.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inferenceSsh = {
+   id: "01a0685d-4b35-700a-9f89-da8520e5f3a8",
+diff --git a/inference/pool/launchd-service/launchd-service.module.ts b/inference/pool/launchd-service/launchd-service.module.ts
+index d40eff274cb16290250f7574afef7139fe944588..374d65ba6cc025ec032b9531695cfb3a2acd060a 100644
+--- a/inference/pool/launchd-service/launchd-service.module.ts
++++ b/inference/pool/launchd-service/launchd-service.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const launchdService = {
+   id: "01a06815-9efd-7008-be4f-6b32ac78657e",
+diff --git a/inference/pool/mlx-audio-provision/mlx-audio-provision.shell-script.ts b/inference/pool/mlx-audio-provision/mlx-audio-provision.shell-script.ts
+index 1a1e18b91bb8f094a7778c7061ac57d4daf72a70..e3c2caad7865005273e1b17465d3cb0a455875f0 100644
+--- a/inference/pool/mlx-audio-provision/mlx-audio-provision.shell-script.ts
++++ b/inference/pool/mlx-audio-provision/mlx-audio-provision.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const mlxAudioProvision = {
+   id: "01a06815-9efd-700e-b820-b0ec43c2e924",
+diff --git a/inference/pool/mlx-audio-services/mlx-audio-services.module.ts b/inference/pool/mlx-audio-services/mlx-audio-services.module.ts
+index 9aac9fd8a81023ba488f356fdfb6766abb02e23c..b3b06425d562382b8543d8f3ad88095131aad97d 100644
+--- a/inference/pool/mlx-audio-services/mlx-audio-services.module.ts
++++ b/inference/pool/mlx-audio-services/mlx-audio-services.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const mlxAudioServices = {
+   id: "01a0685d-4b35-7003-8698-253abd8dbd8d",
+diff --git a/inference/pool/mlx-openai-server-provision/mlx-openai-server-provision.shell-script.ts b/inference/pool/mlx-openai-server-provision/mlx-openai-server-provision.shell-script.ts
+index 6d09184727c4606a8e30b9e69b3133ab49bbac25..7f79507deeed4e7cdd556950ff08484583be5d17 100644
+--- a/inference/pool/mlx-openai-server-provision/mlx-openai-server-provision.shell-script.ts
++++ b/inference/pool/mlx-openai-server-provision/mlx-openai-server-provision.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const mlxOpenaiServerProvision = {
+   id: "01a06815-9efd-700f-81c2-2a39a0828fa9",
+diff --git a/inference/pool/mlx-vlm-provision/mlx-vlm-provision.shell-script.ts b/inference/pool/mlx-vlm-provision/mlx-vlm-provision.shell-script.ts
+index 85e00ca91c9c3891f0b55ff4ec34834d0855f477..bb6cc190b367ec6e6e8d8ba1e76cbf78d80133ac 100644
+--- a/inference/pool/mlx-vlm-provision/mlx-vlm-provision.shell-script.ts
++++ b/inference/pool/mlx-vlm-provision/mlx-vlm-provision.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const mlxVlmProvision = {
+   id: "01a06815-9efd-7010-b17f-2205819c5b61",
+diff --git a/inference/pool/music-gen-provision/music-gen-provision.shell-script.ts b/inference/pool/music-gen-provision/music-gen-provision.shell-script.ts
+index 79a4924e45c02615cec085f247501a3c9c548450..c590dae197d45a70a553f51cf86cdc84b0229aa5 100644
+--- a/inference/pool/music-gen-provision/music-gen-provision.shell-script.ts
++++ b/inference/pool/music-gen-provision/music-gen-provision.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const musicGenProvision = {
+   id: "01a06815-9efd-7011-949f-faefb74ed04f",
+diff --git a/inference/pool/ollama-provision/ollama-provision.shell-script.ts b/inference/pool/ollama-provision/ollama-provision.shell-script.ts
+index 4b8b15adea007ed9e1c0c96884e4069c126f3d79..9e27b5d2ed4b56a32be89eeda4a5847554f33115 100644
+--- a/inference/pool/ollama-provision/ollama-provision.shell-script.ts
++++ b/inference/pool/ollama-provision/ollama-provision.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const ollamaProvision = {
+   id: "01a06815-9efd-7012-a81f-ef701e245b2d",
+diff --git a/inference/pool/pool-config-build/pool-config-build.module.ts b/inference/pool/pool-config-build/pool-config-build.module.ts
+index 62b5a98120941a351ed90518d3076ae146d6baa4..8099e29528e7e5cf6d1711f7d30e01ddfea8861f 100644
+--- a/inference/pool/pool-config-build/pool-config-build.module.ts
++++ b/inference/pool/pool-config-build/pool-config-build.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const poolConfigBuild = {
+   id: "01a0685d-4b35-7006-9a61-f8b884dd2d47",
+diff --git a/inference/pool/pool-config/pool-config.module.ts b/inference/pool/pool-config/pool-config.module.ts
+index 5d64e8567bbdbe0ae08df016898d4641ab3cc56e..647d55d78e5e0f409ccbf1cb607f2888f8d34a6b 100644
+--- a/inference/pool/pool-config/pool-config.module.ts
++++ b/inference/pool/pool-config/pool-config.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const poolConfig = {
+   id: "01a06815-9efd-7005-9675-cc20b83e5c12",
+diff --git a/inference/pool/pool-mutex/pool-mutex.module.ts b/inference/pool/pool-mutex/pool-mutex.module.ts
+index 9e75a7585ddaf3781194728336db233c77fc0b59..6144b8144ec561006df5c34574a2888ff3a96c5a 100644
+--- a/inference/pool/pool-mutex/pool-mutex.module.ts
++++ b/inference/pool/pool-mutex/pool-mutex.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const poolMutex = {
+   id: "01a06815-9efd-7007-bb47-59690fe21158",
+diff --git a/inference/pool/pool-proxy/pool-proxy.module.ts b/inference/pool/pool-proxy/pool-proxy.module.ts
+index 99fb2ca2582d1bf3cd4ecb0cbe32f0de88dba887..415b3bfbf9b0e23cf63dd91b1d33a3994f9f127c 100644
+--- a/inference/pool/pool-proxy/pool-proxy.module.ts
++++ b/inference/pool/pool-proxy/pool-proxy.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const poolProxy = {
+   id: "01a06815-9efd-700a-90b6-f8c7600fbdc1",
+diff --git a/inference/pool/pool-server/pool-server.module.ts b/inference/pool/pool-server/pool-server.module.ts
+index 0febb14f1fa871f12ae88688fca62a2450945da0..109bee29d788d2ea6b85abb1c4e17d4ddda693da 100644
+--- a/inference/pool/pool-server/pool-server.module.ts
++++ b/inference/pool/pool-server/pool-server.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const poolServer = {
+   id: "01a06815-9efd-700c-8050-4496917a8db5",
+diff --git a/inference/pool/pool-swap/pool-swap.module.ts b/inference/pool/pool-swap/pool-swap.module.ts
+index 8606ca4a5879339bc47783efca8a09ec184b2556..f018c33fc6e833aa4a681986b39ec0fb1e9d20c3 100644
+--- a/inference/pool/pool-swap/pool-swap.module.ts
++++ b/inference/pool/pool-swap/pool-swap.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const poolSwap = {
+   id: "01a06815-9efd-700b-85d8-67266e792568",
+diff --git a/inference/pool/port-readiness/port-readiness.module.ts b/inference/pool/port-readiness/port-readiness.module.ts
+index 9095742fda805b4146c2f35ae3bc329d31eca726..7114e45c5ddbae6dd50685047d981ba1b9fe99ea 100644
+--- a/inference/pool/port-readiness/port-readiness.module.ts
++++ b/inference/pool/port-readiness/port-readiness.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const portReadiness = {
+   id: "01a06815-9efd-7009-ba3a-17a676912aec",
+diff --git a/inference/pool/provision-script/provision-script.module.ts b/inference/pool/provision-script/provision-script.module.ts
+index fae5796c3ec6f3b0effd310ddf09f6c24e1fb14e..165c9601fae9ec805adc8fa91a8d509dbf53cecf 100644
+--- a/inference/pool/provision-script/provision-script.module.ts
++++ b/inference/pool/provision-script/provision-script.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const provisionScript = {
+   id: "01a0685d-4b35-7007-bb8e-7ea5dbcfc851",
+diff --git a/inference/pool/reconcile-plan/reconcile-plan.module.ts b/inference/pool/reconcile-plan/reconcile-plan.module.ts
+index ae62df9d0f400d1abcc94889d50ceb9c2a5f807f..6c519f22bf05f5c6832275a60d8cb7d98952b909 100644
+--- a/inference/pool/reconcile-plan/reconcile-plan.module.ts
++++ b/inference/pool/reconcile-plan/reconcile-plan.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const reconcilePlan = {
+   id: "01a0685d-4b35-7009-a74b-6d64dd6c2f08",
+diff --git a/inference/pool/segment-rembg-provision/segment-rembg-provision.shell-script.ts b/inference/pool/segment-rembg-provision/segment-rembg-provision.shell-script.ts
+index 1765955003b6b882d35a078848d9ffd596ba41bd..15e6c3476737d8ba01ba7c69c3349592404f402a 100644
+--- a/inference/pool/segment-rembg-provision/segment-rembg-provision.shell-script.ts
++++ b/inference/pool/segment-rembg-provision/segment-rembg-provision.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const segmentRembgProvision = {
+   id: "01a06815-9efd-7013-95a5-e00f8aef8298",
+diff --git a/inference/pool/segment-rembg-server/segment-rembg-server.python-module.ts b/inference/pool/segment-rembg-server/segment-rembg-server.python-module.ts
+index 462a64f1bdb286f85ab332158b4b8408f7477118..b5316cb450edb7ae488670d8c85593abdd6129b9 100644
+--- a/inference/pool/segment-rembg-server/segment-rembg-server.python-module.ts
++++ b/inference/pool/segment-rembg-server/segment-rembg-server.python-module.ts
+@@ -1,4 +1,4 @@
+-import type { PythonModule } from "@akasha/code-system/python-module"
++import type { PythonModule } from "@akasha/code/python-module"
+ 
+ export const segmentRembgServer = {
+   id: "01a06815-9efd-7014-a878-84a434393806",
+diff --git a/inference/pool/service-hash/service-hash.module.ts b/inference/pool/service-hash/service-hash.module.ts
+index f531e38ba3c82de7cae06f2e42d5584a12eb7c08..d261613190bdd9a884ad018e27bb066e054ad531 100644
+--- a/inference/pool/service-hash/service-hash.module.ts
++++ b/inference/pool/service-hash/service-hash.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const serviceHash = {
+   id: "01a0685d-4b35-7005-a6aa-76a9e30cc3fe",
+diff --git a/inference/pool/swap-decision/swap-decision.module.ts b/inference/pool/swap-decision/swap-decision.module.ts
+index 996c8f8964e2d660496ddff8c4283074dbce404e..578dbc473fce439d9b900da15c93f5c0ad34250a 100644
+--- a/inference/pool/swap-decision/swap-decision.module.ts
++++ b/inference/pool/swap-decision/swap-decision.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const swapDecision = {
+   id: "01a06815-9efd-7006-bea5-94b31dc409e6",
+diff --git a/inference/pool/traffic-cop-provision/traffic-cop-provision.shell-script.ts b/inference/pool/traffic-cop-provision/traffic-cop-provision.shell-script.ts
+index f792227a4d47664cb08f9ce3fe98c3d86a253d0d..392f1ef7a5e5b82207e2693884c38e8e9c4f1d2b 100644
+--- a/inference/pool/traffic-cop-provision/traffic-cop-provision.shell-script.ts
++++ b/inference/pool/traffic-cop-provision/traffic-cop-provision.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const trafficCopProvision = {
+   id: "01a06815-9efd-700d-8b2c-70b98e4a7248",
+diff --git a/inference/runs/generation-log/generation-log.module.ts b/inference/runs/generation-log/generation-log.module.ts
+index 9bda3581db8d71f0bdcb669a0eab9c73d6020cd6..0ca218174c562b579920565e6d109a5cd7fdab5c 100644
+--- a/inference/runs/generation-log/generation-log.module.ts
++++ b/inference/runs/generation-log/generation-log.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const generationLog = {
+   id: "01a0685d-4b35-7010-9103-1427f940275e",
+diff --git a/inference/runs/inference-command-line/inference-command-line.module.ts b/inference/runs/inference-command-line/inference-command-line.module.ts
+index 9fcb32d2183119dd070e102a36a7b1a737a8b7a1..21efac27a291a5a8cebd20f124f4402d8d095163 100644
+--- a/inference/runs/inference-command-line/inference-command-line.module.ts
++++ b/inference/runs/inference-command-line/inference-command-line.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inferenceCommandLine = {
+   id: "01a0685d-4b35-7015-aa1c-9945a87334df",
+diff --git a/inference/runs/inference-run-record/inference-run-record.module.ts b/inference/runs/inference-run-record/inference-run-record.module.ts
+index 5f86d5f1f0b91b443af753b8f2757ad6d9685e06..76437967e588ab351674787d951ac761fa30b76b 100644
+--- a/inference/runs/inference-run-record/inference-run-record.module.ts
++++ b/inference/runs/inference-run-record/inference-run-record.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inferenceRunRecord = {
+   id: "01a0685d-4b35-700f-9344-dd7d49bdb87d",
+diff --git a/inference/runs/inference-run-services/inference-run-services.module.ts b/inference/runs/inference-run-services/inference-run-services.module.ts
+index 1fcacee6e76edc492ae187d29389cb93f4480afb..07b4959baed2aae05d211373e43d9046ab163284 100644
+--- a/inference/runs/inference-run-services/inference-run-services.module.ts
++++ b/inference/runs/inference-run-services/inference-run-services.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inferenceRunServices = {
+   id: "01a0685d-4b35-700e-a313-871e5b2440ad",
+diff --git a/inference/runs/inference-run-store/inference-run-store.module.ts b/inference/runs/inference-run-store/inference-run-store.module.ts
+index 72e836d0409ce4f53e233d9d6bde0d046f926309..c3e89e099a81e10cf08071aeabd05a7a6864015e 100644
+--- a/inference/runs/inference-run-store/inference-run-store.module.ts
++++ b/inference/runs/inference-run-store/inference-run-store.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const inferenceRunStore = {
+   id: "01a0685d-4b35-7014-819a-3402c8830118",
+diff --git a/inference/runs/inference-run.workspace-package.ts b/inference/runs/inference-run.workspace-package.ts
+index 4e68393657a14d3b966dd7ce7b77c1cab53db871..a869ce0b0c671d25066d7184fe2f8890d2b9752a 100644
+--- a/inference/runs/inference-run.workspace-package.ts
++++ b/inference/runs/inference-run.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const inferenceRun = {
+   id: "01a0685d-4b35-7019-9d54-b15d9954b9b1",
+diff --git a/inference/runs/persist-audio/persist-audio.module.ts b/inference/runs/persist-audio/persist-audio.module.ts
+index fa76973bf4a37277d8cf58a248ed1bc0416a3f0d..a48cc3b676f89b4a8f60aa72085564bb75f484ef 100644
+--- a/inference/runs/persist-audio/persist-audio.module.ts
++++ b/inference/runs/persist-audio/persist-audio.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const persistAudio = {
+   id: "01a0685d-4b35-7012-8f89-7a4a724dd167",
+diff --git a/inference/runs/persist-image/persist-image.module.ts b/inference/runs/persist-image/persist-image.module.ts
+index 1dac07509c904a122ef6eaa45ea483e951919f92..ce88d904b0fcc88689af48d9e3d8bb0bc94a156c 100644
+--- a/inference/runs/persist-image/persist-image.module.ts
++++ b/inference/runs/persist-image/persist-image.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const persistImage = {
+   id: "01a0685d-4b35-7013-8853-9ed4e36a99e3",
+diff --git a/inference/runs/persist-media/persist-media.module.ts b/inference/runs/persist-media/persist-media.module.ts
+index 76c64cb906072fcaea9857823897f281380b7029..87f006ab977914dca17ce55730ab2e81bd55d813 100644
+--- a/inference/runs/persist-media/persist-media.module.ts
++++ b/inference/runs/persist-media/persist-media.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const persistMedia = {
+   id: "01a0685d-4b35-7011-b5f2-eee71f6ba3fd",
+diff --git a/inference/voice-inference/voice-infer-cluster-publish/voice-infer-cluster-publish.shell-script.ts b/inference/voice-inference/voice-infer-cluster-publish/voice-infer-cluster-publish.shell-script.ts
+index e96ab776a5173ee93a6e91e427eea5fc890cdf8e..c37eb4f18f15d1139204e7ceb38cc6806eeb0a13 100644
+--- a/inference/voice-inference/voice-infer-cluster-publish/voice-infer-cluster-publish.shell-script.ts
++++ b/inference/voice-inference/voice-infer-cluster-publish/voice-infer-cluster-publish.shell-script.ts
+@@ -1,4 +1,4 @@
+-import type { ShellScript } from "@akasha/code-system/shell-script"
++import type { ShellScript } from "@akasha/code/shell-script"
+ 
+ export const voiceInferClusterPublish = {
+   id: "01a06815-9efd-701c-bcd5-2cd84cae11a1",
+diff --git a/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts b/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts
+index 14be46700fcf3208fee71e2b6403989fdfd39f3f..9b86342acd9da259f7c50475cde3b7e37d5d4a39 100644
+--- a/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts
++++ b/inference/voice-inference/voice-infer-image/voice-infer-image.container-recipe.ts
+@@ -1,4 +1,4 @@
+-import type { ContainerRecipe } from "@akasha/code-system/container-recipe"
++import type { ContainerRecipe } from "@akasha/code/container-recipe"
+ 
+ export const voiceInferImage = {
+   id: "01a06815-9efd-701b-b692-88c2eabada02",
+diff --git a/inference/voice-inference/voice-infer-server/voice-infer-server.python-module.ts b/inference/voice-inference/voice-infer-server/voice-infer-server.python-module.ts
+index 5d15a0a40ff7715a682d64543f31d0ca8593854c..f32f71e1700fee3bca6f20387b0eba1676ef5589 100644
+--- a/inference/voice-inference/voice-infer-server/voice-infer-server.python-module.ts
++++ b/inference/voice-inference/voice-infer-server/voice-infer-server.python-module.ts
+@@ -1,4 +1,4 @@
+-import type { PythonModule } from "@akasha/code-system/python-module"
++import type { PythonModule } from "@akasha/code/python-module"
+ 
+ export const voiceInferServer = {
+   id: "01a06815-9efd-7016-9a26-398afcd69f90",
+diff --git a/inference/voice-inference/voice-inference.workspace-package.ts b/inference/voice-inference/voice-inference.workspace-package.ts
+index 24b5c7e9cb99c49a3ddafac9803923422de96c0e..8c2784add00ae140ea85f42de0b5c652ec7d4ef2 100644
+--- a/inference/voice-inference/voice-inference.workspace-package.ts
++++ b/inference/voice-inference/voice-inference.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const voiceInference = {
+   id: "01a06815-9efd-701e-a4d4-a26f49e97554",
+diff --git a/inference/voice-inference/voice-models/voice-models.python-module.ts b/inference/voice-inference/voice-models/voice-models.python-module.ts
+index 7ad52155495046cc7030b7234955e922694fc830..b6f6740c693ddf9e0c043d37d5b9246cf2aa5f9c 100644
+--- a/inference/voice-inference/voice-models/voice-models.python-module.ts
++++ b/inference/voice-inference/voice-models/voice-models.python-module.ts
+@@ -1,4 +1,4 @@
+-import type { PythonModule } from "@akasha/code-system/python-module"
++import type { PythonModule } from "@akasha/code/python-module"
+ 
+ export const voiceModels = {
+   id: "01a06815-9efd-7017-a88f-f6cd228dc99c",
+diff --git a/inference/voice-inference/voice-object-store/voice-object-store.python-module.ts b/inference/voice-inference/voice-object-store/voice-object-store.python-module.ts
+index 1c757a27234c2c57251ca26473ae627394c18b3f..f6a00390ef73a9e5cf3255ddb102434411de1678 100644
+--- a/inference/voice-inference/voice-object-store/voice-object-store.python-module.ts
++++ b/inference/voice-inference/voice-object-store/voice-object-store.python-module.ts
+@@ -1,4 +1,4 @@
+-import type { PythonModule } from "@akasha/code-system/python-module"
++import type { PythonModule } from "@akasha/code/python-module"
+ 
+ export const voiceObjectStore = {
+   id: "01a06815-9efd-7018-9a5e-de26f9d0fc53",
+diff --git a/inference/voice-inference/voice-speech-hls/voice-speech-hls.python-module.ts b/inference/voice-inference/voice-speech-hls/voice-speech-hls.python-module.ts
+index 4e7f0000478673cca388dcf18a4c8ffddf05d40f..064bcb8faeff9da599be9aabae71451e202102ea 100644
+--- a/inference/voice-inference/voice-speech-hls/voice-speech-hls.python-module.ts
++++ b/inference/voice-inference/voice-speech-hls/voice-speech-hls.python-module.ts
+@@ -1,4 +1,4 @@
+-import type { PythonModule } from "@akasha/code-system/python-module"
++import type { PythonModule } from "@akasha/code/python-module"
+ 
+ export const voiceSpeechHls = {
+   id: "01a06815-9efd-701a-88c8-c37cdfb8110a",
+diff --git a/inference/voice-inference/voice-speech-mp3/voice-speech-mp3.python-module.ts b/inference/voice-inference/voice-speech-mp3/voice-speech-mp3.python-module.ts
+index 68daa27c48fb2b63e535a84fdddddaf887e23b25..83698f1778940ef012f1d5838d72b1e6e15ff78b 100644
+--- a/inference/voice-inference/voice-speech-mp3/voice-speech-mp3.python-module.ts
++++ b/inference/voice-inference/voice-speech-mp3/voice-speech-mp3.python-module.ts
+@@ -1,4 +1,4 @@
+-import type { PythonModule } from "@akasha/code-system/python-module"
++import type { PythonModule } from "@akasha/code/python-module"
+ 
+ export const voiceSpeechMp3 = {
+   id: "01a06815-9efd-7019-8ed2-fb4251b994b0",
+diff --git a/infrastructure/analysis-complexity/analysis-complexity.workspace-package.ts b/infrastructure/analysis-complexity/analysis-complexity.workspace-package.ts
+index 9ab9b886b23326f20eaa033875f99811d63abd5d..4693546e4c5ad906be796bdda7293a9845f4a0b9 100644
+--- a/infrastructure/analysis-complexity/analysis-complexity.workspace-package.ts
++++ b/infrastructure/analysis-complexity/analysis-complexity.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const analysisComplexity = {
+   id: "01a0680f-d1b7-7a4f-9195-8a87f5f16534",
+diff --git a/infrastructure/analysis-complexity/complexity-rows/complexity-rows.module.ts b/infrastructure/analysis-complexity/complexity-rows/complexity-rows.module.ts
+index aea287897ee3007f3f6d5c452619035cf3d2638c..640b342ca5bad3a1ac0329c23ec554385c1b21c7 100644
+--- a/infrastructure/analysis-complexity/complexity-rows/complexity-rows.module.ts
++++ b/infrastructure/analysis-complexity/complexity-rows/complexity-rows.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const complexityRows = {
+   id: "01a0680f-d1b7-76ad-870a-daf5928ec28b",
+diff --git a/infrastructure/analysis-complexity/cyclomatic/cyclomatic.module.ts b/infrastructure/analysis-complexity/cyclomatic/cyclomatic.module.ts
+index 99851031986c8a184cebfb61b3481152b7d3fc4e..aeda1daf90bfa862980bb08e1975094fed457990 100644
+--- a/infrastructure/analysis-complexity/cyclomatic/cyclomatic.module.ts
++++ b/infrastructure/analysis-complexity/cyclomatic/cyclomatic.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const cyclomatic = {
+   id: "01a0680f-d1b7-75cd-9668-69db68df9b0f",
+diff --git a/infrastructure/analysis-complexity/file-discovery/file-discovery.module.ts b/infrastructure/analysis-complexity/file-discovery/file-discovery.module.ts
+index 374d061f63e6da9501245a24dc0f4650fa517f44..b215bcc7cc54f191266576f51cf0c320852adc0a 100644
+--- a/infrastructure/analysis-complexity/file-discovery/file-discovery.module.ts
++++ b/infrastructure/analysis-complexity/file-discovery/file-discovery.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const fileDiscovery = {
+   id: "01a0680f-d1b7-7ed0-a713-09a7570e97b9",
+diff --git a/infrastructure/analysis-complexity/halstead/halstead.module.ts b/infrastructure/analysis-complexity/halstead/halstead.module.ts
+index a3be14ae7c3553efb4a7b9439ee8c8b81edf7c3d..1fd04eaf96f9765859c2b1689c4ee0bd1cac6118 100644
+--- a/infrastructure/analysis-complexity/halstead/halstead.module.ts
++++ b/infrastructure/analysis-complexity/halstead/halstead.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const halstead = {
+   id: "01a0680f-d1b7-7408-b0be-aace54b77d97",
+diff --git a/infrastructure/analysis-complexity/maintainability/maintainability.module.ts b/infrastructure/analysis-complexity/maintainability/maintainability.module.ts
+index 847d3621dc0b8e8b24b9d133407abf58c17d9ef6..6542eb8feffb79c821bc9e5ce64acd9e57460ca3 100644
+--- a/infrastructure/analysis-complexity/maintainability/maintainability.module.ts
++++ b/infrastructure/analysis-complexity/maintainability/maintainability.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const maintainability = {
+   id: "01a0680f-d1b7-7fad-a8e1-931817f12d1a",
+diff --git a/infrastructure/analysis-complexity/operator-classification/operator-classification.module.ts b/infrastructure/analysis-complexity/operator-classification/operator-classification.module.ts
+index c2dd301384d7cf9b2ec0aabdecaad52c03945dbc..5a04e192b8d66f4b515626348033f4c30806f521 100644
+--- a/infrastructure/analysis-complexity/operator-classification/operator-classification.module.ts
++++ b/infrastructure/analysis-complexity/operator-classification/operator-classification.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const operatorClassification = {
+   id: "01a0680f-d1b7-79ab-913f-0358ec466fac",
+diff --git a/infrastructure/analysis-complexity/walk-functions/walk-functions.module.ts b/infrastructure/analysis-complexity/walk-functions/walk-functions.module.ts
+index 7a0bba8d7115aef37740956fe41b2309372db32a..353af7ff989e763f00c10c7ea426baec886e85bb 100644
+--- a/infrastructure/analysis-complexity/walk-functions/walk-functions.module.ts
++++ b/infrastructure/analysis-complexity/walk-functions/walk-functions.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const walkFunctions = {
+   id: "01a0680f-d1b7-72c6-a3b9-0ccb673e665d",
+diff --git a/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts b/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts
+index 659fb2916562da1b70f5e1b13088a49249b05c62..654ee4fae904f15878f615dbe1ac27f809ff88ad 100644
+--- a/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts
++++ b/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const authProxyConfig = {
+   id: "01a06863-8e7c-7047-9da8-7b7f8e0ac120",
+diff --git a/infrastructure/auth-proxy/auth-proxy-server/auth-proxy-server.module.ts b/infrastructure/auth-proxy/auth-proxy-server/auth-proxy-server.module.ts
+index f6542c06e82d1f66556f369c2fea0c2aa6373dc1..a33ff7cfc95045e7a9b3c80b74412fadaf83b1b0 100644
+--- a/infrastructure/auth-proxy/auth-proxy-server/auth-proxy-server.module.ts
++++ b/infrastructure/auth-proxy/auth-proxy-server/auth-proxy-server.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const authProxyServer = {
+   id: "01a06863-8e7c-7ef6-a465-4e287ec25a18",
