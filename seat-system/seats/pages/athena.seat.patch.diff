@@ -43,6 +43,125 @@ index bf7fbe898595777850a801c70116540335beb2ce..cb05155cc21f84838f6850a4d75623fc
    return JSON.stringify({
      usage,
      inbox,
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts
+index 8030ed56df1c050226020297c44aaa19cc90159c..a01a69e72d07238083917db1995a0b6fa5031bd5 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts
+@@ -1,4 +1,4 @@
+-// THE THREE TREES THE EDITOR DRAWS, BUILT HERE RATHER THAN ON THE THREAD THAT DRAWS THEM.
++// THE FOUR TREES THE EDITOR DRAWS, BUILT HERE RATHER THAN ON THE THREAD THAT DRAWS THEM.
+ //
+ // Each tree already had a builder that holds no editor in it, so none of the working out is
+ // written again here: what this adds is the one name every row of every tree carries. Four panels
+@@ -10,11 +10,26 @@
+ // one on its own thread, inside a second's budget.
+ 
+ import { join } from "node:path"
++import type { SubagentPage } from "@akasha/seat-system/agent-page-reading"
++import { colorOfState } from "@akasha/seat-system/seat-turn-color"
++import {
++  type ForestSeat,
++  forestOver,
++  NOW,
++} from "../../../../../command-system/commands/agent-forest/agent-forest.command.code.ts"
+ import { domainRowsIn } from "../../../../../command-system/commands/domain-tree/domain-tree.command.code.ts"
+ import { pageAnswers } from "../../../../../command-system/commands/page-tree/page-tree.command.code.ts"
+ import { treeIn } from "../../../../../command-system/commands/work-tree/work-tree.command.code.ts"
++import {
++  ALAN,
++  assembleForest,
++  countRunning,
++  subagentKey,
++} from "../../../../../editor-extension/agent-forest/agent-forest.module.code.ts"
++import { readSeatPlaces } from "../../../../../editor-extension/agent-tree-lookup/agent-tree-lookup.module.code.ts"
+ import { championTree } from "../../../../../editor-extension/champions-tree/champions-tree.module.code.ts"
+ import { assemblePageTree } from "../../../../../editor-extension/page-tree-assemble/page-tree-assemble.module.code.ts"
++import type { SubagentNode } from "../../../../../editor-extension/subagent-reading/subagent-reading.module.code.ts"
+ 
+ // A row names a document by a whole path, the service knowing the checkout so the editor does not
+ // join one. A row that opens no document names none.
+@@ -117,3 +132,81 @@ export function pageTreeLine(root: string): string {
+     unreached: built.unreached,
+   } satisfies PageTreeState)
+ }
++
++type AgentNodeIn = {
++  readonly id: string
++  readonly name: string
++  readonly kind: string
++  readonly place?: string
++  readonly live: boolean
++  readonly state?: string
++  readonly waitingOn?: string
++  readonly color?: string
++  readonly at?: string
++  readonly children: readonly AgentNodeIn[]
++}
++
++// A value that is absent is null rather than missing, so a reader tells one case from the other
++// without knowing which keys this tree happens to carry.
++function agentRow(node: AgentNodeIn): AgentTreeRow {
++  return {
++    key: node.id,
++    label: node.name,
++    at: node.at ?? null,
++    color: node.color ?? null,
++    kind: node.kind === "subagent" ? "subagent" : "seat",
++    live: node.live,
++    place: node.place === "interactive" || node.place === "headless" ? node.place : null,
++    state: node.state ?? null,
++    waitingOn: node.waitingOn ?? null,
++    children: node.children.map(agentRow),
++  }
++}
++
++// THE SUBAGENTS UNDER A SEAT ARE THAT SEAT'S PAGES. A page names the seat by name and the forest
++// names each seat by id, so the pages are joined onto the rows through the name.
++function subagentsBySeat(
++  pages: readonly SubagentPage[],
++  rows: readonly ForestSeat[]
++): ReadonlyMap<string, readonly SubagentNode[]> {
++  const idByName = new Map<string, string>()
++  for (const row of rows) if (row.name !== null) idByName.set(row.name, row.id)
++  const bySeat = new Map<string, SubagentNode[]>()
++  for (const page of pages) {
++    const seatId = idByName.get(page.seat)
++    if (seatId === undefined) continue
++    const held = bySeat.get(seatId) ?? []
++    held.push({
++      key: page.own,
++      label: page.dispatchedAs ?? page.own,
++      agentId: page.own,
++      children: [],
++    })
++    bySeat.set(seatId, held)
++  }
++  return bySeat
++}
++
++export function agentTreeLine(root: string): string {
++  const answer = forestOver(root, NOW)
++  const rows = answer.rows
++  const bySubagent = new Map<string, string>()
++  for (const page of answer.subagents) {
++    bySubagent.set(subagentKey(page.seat, page.own), join(root, page.at))
++  }
++  const roots = assembleForest(
++    rows,
++    new Set(rows.filter((row) => row.live).map((row) => row.id)),
++    subagentsBySeat(answer.subagents, rows),
++    readSeatPlaces(rows),
++    colorOfState("working") ?? undefined,
++    root,
++    { bySubagent }
++  )
++  return JSON.stringify({
++    roots: roots.map((node) => agentRow(node as AgentNodeIn)),
++    alanPrincipalCount: rows.filter((row) => row.principal === ALAN).length,
++    runningCount: countRunning(roots),
++    unreadSeats: 0,
++  } satisfies AgentTreeState)
++}
 diff --git a/editor-extension/status-bar-usage/status-bar-usage.module.code.ts b/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
 index 5816968a67a917db9dabdaee3de5604107b76110..35e3ab95ff5ef8e075fc309e1c7c5b8282830ad6 100644
 --- a/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
