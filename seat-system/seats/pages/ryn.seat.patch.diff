@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts b/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts
+index 497f23604b5757731baf1d56f6b91113bf2607e1..b0556e4ad050c32cb47705c77e8c738a12e97ce8 100644
+--- a/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts
++++ b/checks/code-checks/pages/package-reached-where-named/package-reached-where-named.code-check.ts
+@@ -49,7 +49,7 @@ export const packageReachedWhereNamed = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A file reached inside a package standing inside another belongs to the inner one.",
++        "A file reached inside a package nested inside another package belongs to the inner package.",
+     },
+     {
+       invariantKind: "departure",
