@@ -1,0 +1,19 @@
+diff --git a/alan/fitness/client-profiles/properties/bodyweight.number-property.ts b/alan/fitness/client-profiles/properties/bodyweight.number-property.ts
+index 58938a3087867b8290b0c2262ad9a13fa2d3ab5b..b6a0d92693697b4ff490a9fb5b8fbb59995a8391 100644
+--- a/alan/fitness/client-profiles/properties/bodyweight.number-property.ts
++++ b/alan/fitness/client-profiles/properties/bodyweight.number-property.ts
+@@ -7,12 +7,12 @@ export const bodyweight = {
+   pageTypeSlug: "number-property",
+   slug: "bodyweight",
+   propertySlug: "bodyweight",
+-  definition: "what the body being trained weighs, in pounds",
++  definition: "what a person's body weighs, in pounds",
+   max: null,
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The weight is read off the profile rather than handed in by a caller.",
++      statement: "The weight is read off the person's page rather than handed in by a caller.",
+     },
+     {
+       invariantKind: "departure",
