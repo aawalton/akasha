@@ -349,6 +349,41 @@ index 5d19731099e19e3443a9b6b4aa466f2809e10c9b..84643f403174d503ed6a252b55ab1de2
      } else if (at.has(keyFor(demand.name, demand.key))) {
        keys.add(demand.key)
      } else {
+diff --git a/service-system/secrets/secret-placing/secret-placing.module.ts b/service-system/secrets/secret-placing/secret-placing.module.ts
+index 0f047da33c78f65c55ab6c9409e7fdb53aa92037..41156ce40cc7ac4e28eb9d29c5bf15882d9ffd9b 100644
+--- a/service-system/secrets/secret-placing/secret-placing.module.ts
++++ b/service-system/secrets/secret-placing/secret-placing.module.ts
+@@ -7,16 +7,30 @@ export const secretPlacing = {
+   definition:
+     "the secret values a plan's manifests ask for, put into the cluster from secret pages",
+   code: "ts",
++  test: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+       statement: "A value placed in the cluster comes from a secret page and from nowhere else.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "One page places its value into every resource and key that page names.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+         "Two secret pages placing a value in one resource at one key is refused before anything is applied.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "One page naming a resource and key twice is refused for the same reason two pages are.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page naming no placement holds a value nothing asks for and is read past.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
 diff --git a/service-system/secrets/secret.page-type.ts b/service-system/secrets/secret.page-type.ts
 index 189a79812deb8075f2eae6c8013f84d0d4a222e8..0d6280faf4517d91b17ae846d5d289641e658e3e 100644
 --- a/service-system/secrets/secret.page-type.ts
