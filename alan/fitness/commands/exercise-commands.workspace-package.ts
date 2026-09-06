@@ -14,7 +14,7 @@ export const exerciseCommands = {
     "command/exercise-equipment-set",
     "command/exercise-history",
     "command/exercise-log-activity",
-    "command/exercise-log-set",
+    "command/track-workout-set",
     "command/exercise-mobility-log",
     "command/exercise-mobility-show",
     "command/exercise-next-set",

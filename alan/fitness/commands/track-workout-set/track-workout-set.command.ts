@@ -1,9 +1,9 @@
 import type { Command } from "@akasha/command-system/command"
 
-export const exerciseLogSet = {
+export const trackWorkoutSet = {
   id: "01a0685c-7d81-7ca2-b8e5-868eace66ffc",
   pageTypeSlug: "command",
-  slug: "exercise-log-set",
+  slug: "track-workout-set",
   definition: "the command writing down one set Alan performed in the session that is open",
   code: "ts",
   changeKindSlug: "change-mechanical",

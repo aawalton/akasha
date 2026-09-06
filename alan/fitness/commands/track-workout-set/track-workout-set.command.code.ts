@@ -36,7 +36,7 @@ const AT_MOST = 200
 
 const NOTHING = "-"
 
-export async function exerciseLogSet(argv: readonly string[], given: Given): Promise<Answer> {
+export async function trackWorkoutSet(argv: readonly string[], given: Given): Promise<Answer> {
   const reading = saidIn(
     argv,
     [EXERCISE, REPS, WEIGHT, RPE, NOTE, `${NOTE}-file`, SESSION, SET_NUMBER],
