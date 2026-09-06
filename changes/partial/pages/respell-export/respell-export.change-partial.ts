@@ -7,6 +7,10 @@ export const respellExport = {
   definition: "a name one body exports spelled anew across the paths a caller hands in",
   code: "ts",
   test: "ts",
+  isCommand: false,
+  runsChecks: false,
+  readersOweReading: false,
+  writerOwesReading: false,
   invariants: [
     {
       invariantKind: "departure",
@@ -22,7 +26,7 @@ export const respellExport = {
     },
     {
       invariantKind: "departure",
-      statement: "A name nothing spells is refused, there being nothing to spell.",
+      statement: "A name nothing spells is refused.",
     },
     {
       invariantKind: "departure",
@@ -34,8 +38,7 @@ export const respellExport = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A body is spliced from its last place back, so the places before keep their spots.",
+      statement: "A body is spliced from its last place back.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +50,11 @@ export const respellExport = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads the index, which is the caller's to ask.",
+      statement: "Nothing here reads the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The caller asks the index.",
     },
     {
       invariantKind: "absence",

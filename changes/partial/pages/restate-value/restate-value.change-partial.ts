@@ -7,6 +7,10 @@ export const restateValue = {
   definition: "one key of a page's exported object stated anew",
   code: "ts",
   test: "ts",
+  isCommand: false,
+  runsChecks: false,
+  readersOweReading: false,
+  writerOwesReading: false,
   invariants: [
     {
       invariantKind: "departure",
