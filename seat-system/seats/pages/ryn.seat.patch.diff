@@ -1,7 +1,16 @@
 diff --git a/command-system/commands/read/read.command.ts b/command-system/commands/read/read.command.ts
-index 7efc3985cd6678c43e51e3694ff8b0be34acdc2d..5c1313eabac058cd71c9999d1b8264ff848a6ad4 100644
+index 7efc3985cd6678c43e51e3694ff8b0be34acdc2d..d2df3112eab4df552a6bb747e9493fe48e868a6d 100644
 --- a/command-system/commands/read/read.command.ts
 +++ b/command-system/commands/read/read.command.ts
+@@ -32,7 +32,7 @@ export const read = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A read returns the whole file or the difference since the agent read the file.",
++      statement: "A read returns the whole file or the difference after the agent read the file.",
+     },
+     {
+       invariantKind: "departure",
 @@ -50,7 +50,7 @@ export const read = {
      {
        invariantKind: "departure",
