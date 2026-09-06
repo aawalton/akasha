@@ -78,7 +78,7 @@ export const serverError = {
     },
     {
       invariantKind: "departure",
-      statement: "A `Retry-After` of zero or less reads the schedule instead.",
+      statement: "A `Retry-After` at zero or below reads the schedule instead.",
     },
     {
       invariantKind: "departure",
