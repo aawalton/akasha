@@ -8,7 +8,10 @@ import {
 
 const AUGMENTED = "global"
 
+const DECLARED = ".d.ts"
+
 function foundIn(at: string, text: string): readonly string[] {
+  if (at.endsWith(DECLARED)) return []
   const source = parsedAs(at, text)
   const found: string[] = []
   const held = (node: ts.Node): undefined => {

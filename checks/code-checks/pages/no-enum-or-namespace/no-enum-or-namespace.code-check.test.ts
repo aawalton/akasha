@@ -23,7 +23,13 @@ test("a const enum is an enum", () => {
 })
 
 test("a declared enum is an enum", () => {
-  expect(reasonsIn(given("akasha/held.d.ts", "declare enum One {\n  Two,\n}\n"))).toHaveLength(1)
+  expect(reasonsIn(given("akasha/held.ts", "declare enum One {\n  Two,\n}\n"))).toHaveLength(1)
+})
+
+test("a type declaration is let through, and the same body in a module is not", () => {
+  const body = "declare enum One {\n  Two,\n}\n"
+  expect(reasonsIn(given("akasha/held.d.ts", body))).toEqual([])
+  expect(reasonsIn(given("akasha/held.ts", body))).toHaveLength(1)
 })
 
 test("a named namespace is refused, and the reason names the line and the namespace", () => {
