@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Four steps: 1 the category prevented, 2 the right files at patch, 3 cheap at patch, 4 turned on. A check no changed path satisfies never runs; the entries beside its page are the instrument. Seed a fault before believing a zero. 43 checks, alphabetical, done through file-length. Now: folder-matches-a-shape, no phase on, 3 steps. Steps 1 and 3 done: the grouping and the manifests moved to one folder at a time, 1163ms to 20ms, audit flat. Step 2 says no: a rename breaks the folders beside a page.",
+        "Four steps: 1 the category prevented, 2 the right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero; a blind zero and a clean zero read alike. 43 checks, alphabetical, done through folder-matches-a-shape. Now global-declared-once: it catches a member two files restate alike, which typecheck takes in silence. It refuses changes carrying neither offending file, and reads 79024 files to use 296. Both repairs delegated.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
