@@ -19,7 +19,7 @@ export const claudeAccountIdentity = {
     {
       invariantKind: "departure",
       statement:
-        "A probe answered with anything but success throws, saying the status and a summary of the body.",
+        "A probe answered with anything but success throws saying the status and a summary of the body.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const claudeAccountIdentity = {
     {
       invariantKind: "departure",
       statement:
-        "A claude-account pinned to no upstream account takes the one that claude-account resolves to.",
+        "A claude-account pinned to no upstream account takes the account that claude-account resolves to.",
     },
     {
       invariantKind: "departure",
@@ -54,7 +54,7 @@ export const claudeAccountIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "A rebind names the upstream account moved off as well as the one moved to.",
+      statement: "A rebind names the upstream account moved off as well as the account moved to.",
     },
     {
       invariantKind: "departure",
@@ -71,7 +71,7 @@ export const claudeAccountIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "A push refused and a push finding no page both refuse the pin.",
+      statement: "A push refused or finding no page refuses the pin.",
     },
     {
       invariantKind: "departure",
@@ -79,7 +79,8 @@ export const claudeAccountIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "A page stating an upstream account other than the one handed in refuses the pin.",
+      statement:
+        "A page stating an upstream account other than the account handed in refuses the pin.",
     },
     {
       invariantKind: "departure",
@@ -108,7 +109,7 @@ export const claudeAccountIdentity = {
     },
     {
       invariantKind: "absence",
-      statement: "Deciding a pin reads no page, no clock and no network.",
+      statement: "Deciding a pin reads no page and no clock and no network.",
     },
     {
       invariantKind: "absence",
