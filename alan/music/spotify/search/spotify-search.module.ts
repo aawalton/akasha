@@ -18,7 +18,7 @@ export const spotifySearch = {
     },
     {
       invariantKind: "departure",
-      statement: "A section the answer omits is no result rather than an empty one.",
+      statement: "A section the answer omits is no result rather than an empty result.",
     },
     {
       invariantKind: "departure",
