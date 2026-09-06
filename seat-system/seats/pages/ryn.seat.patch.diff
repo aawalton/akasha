@@ -1,6 +1,6 @@
 writerOwesReading: false
 diff --git a/editor-extension/page-tree-view/page-tree-view.module.ts b/editor-extension/page-tree-view/page-tree-view.module.ts
-index 59936f69a0e963dcdf4f3efba2a249585e378806..96f8c65d2eae22b74f169864dc8cae0883627358 100644
+index 59936f69a0e963dcdf4f3efba2a249585e378806..7512cef27037671699c78374e6e295ebd18cd953 100644
 --- a/editor-extension/page-tree-view/page-tree-view.module.ts
 +++ b/editor-extension/page-tree-view/page-tree-view.module.ts
 @@ -9,7 +9,7 @@ export const pageTreeView = {
@@ -12,7 +12,7 @@ index 59936f69a0e963dcdf4f3efba2a249585e378806..96f8c65d2eae22b74f169864dc8cae08
      },
      {
        invariantKind: "departure",
-@@ -31,11 +31,12 @@ export const pageTreeView = {
+@@ -31,15 +31,16 @@ export const pageTreeView = {
      },
      {
        invariantKind: "departure",
@@ -27,3 +27,8 @@ index 59936f69a0e963dcdf4f3efba2a249585e378806..96f8c65d2eae22b74f169864dc8cae08
      },
      {
        invariantKind: "departure",
+-      statement: "How many rows matched is answered as none where no filter is there.",
++      statement: "How many rows matched is answered as no number where no filter is there.",
+     },
+     {
+       invariantKind: "absence",
