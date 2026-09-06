@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-player-completion/completion-named-shape/completion-named-shape.module.ts b/temper/temper-player-completion/completion-named-shape/completion-named-shape.module.ts
+index ead6b75127dcccc29808a1e73c22b42ddbd6caa0..b2967e26d96d0df7f9a78cb8cc14b35bde21eea6 100644
+--- a/temper/temper-player-completion/completion-named-shape/completion-named-shape.module.ts
++++ b/temper/temper-player-completion/completion-named-shape/completion-named-shape.module.ts
+@@ -13,7 +13,7 @@ export const completionNamedShape = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A completion record is stored in a fuller shape or in a terser one.",
++      statement: "A completion record is stored in a fuller shape or in a terser shape.",
+     },
+   ],
+ } as const satisfies Module
