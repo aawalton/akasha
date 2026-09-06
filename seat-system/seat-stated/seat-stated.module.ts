@@ -17,7 +17,7 @@ export const seatStated = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat short of a persona, a role or an account is one to recover.",
+      statement: "A seat short of a persona or a role or an account is a seat to recover.",
     },
     {
       invariantKind: "departure",
