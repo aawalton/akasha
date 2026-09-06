@@ -9,8 +9,11 @@ export const pushRepo = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "One pusher works a repository at a time, and a second one exits rather than queueing.",
+      statement: "One pusher works a repository at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A second pusher exits rather than queueing.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +26,7 @@ export const pushRepo = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here waits on a push, because a write is durable at its commit.",
+      statement: "Nothing here waits on a push.",
     },
   ],
 } as const satisfies Module
