@@ -1,8 +1,8 @@
 diff --git a/seat-system/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.ts b/seat-system/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.ts
-index 621a8079592202cd847da429b10b718a43fd8dcb..6eb779b5d2c87312e2fb9554b3e8249404c142e8 100644
+index 621a8079592202cd847da429b10b718a43fd8dcb..6c8ab614ea45aed68fb441265c339b4d8c2b49d2 100644
 --- a/seat-system/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.ts
 +++ b/seat-system/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.ts
-@@ -10,8 +10,11 @@ export const alertRecipientDecide = {
+@@ -10,12 +10,15 @@ export const alertRecipientDecide = {
    invariants: [
      {
        invariantKind: "departure",
@@ -13,6 +13,11 @@ index 621a8079592202cd847da429b10b718a43fd8dcb..6eb779b5d2c87312e2fb9554b3e82494
 +    {
 +      invariantKind: "departure",
 +      statement: "An alert reaching nobody says so rather than defaulting.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An alert two documents declare picks neither of those documents.",
++      statement: "An alert two documents declare picks no document.",
      },
      {
        invariantKind: "departure",
