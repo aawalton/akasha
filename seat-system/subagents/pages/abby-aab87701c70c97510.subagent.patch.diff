@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-many-repetitions-move-what-a-thing-costs.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-many-repetitions-move-what-a-thing-costs.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4cc984e0c6b3298ce18d25946bd829741ee740c7
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-many-repetitions-move-what-a-thing-costs.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howManyRepetitionsMoveWhatAThingCosts = {
++  id: "01a077e7-6eb2-7bfc-9057-fe4c7b4d5fed",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-many-repetitions-move-what-a-thing-costs",
++  topicSlug: "what-repetition-encodes",
++  ask: "How many safe repetitions make a thing measurably cheaper for me, and how few unsafe repetitions make that thing a threat?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-i-encoded-an-aversion-to-unfamiliar-content.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-i-encoded-an-aversion-to-unfamiliar-content.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7e2d22fbb5699aaed522998e8f3ab4ff951f939d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-i-encoded-an-aversion-to-unfamiliar-content.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherIEncodedAnAversionToUnfamiliarContent = {
++  id: "01a077e7-6eb2-7441-8eb1-7d664f008e78",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-i-encoded-an-aversion-to-unfamiliar-content",
++  topicSlug: "what-repetition-encodes",
++  ask: "Did being made to start unfamiliar things under low resources encode a blanket aversion to unfamiliar content in me?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-safety-speeds-each-repetition.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-safety-speeds-each-repetition.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..88d4d7c309efef383c0eca93da45a84043a03e2c
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-safety-speeds-each-repetition.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherSafetySpeedsEachRepetition = {
++  id: "01a077e7-6eb1-7a44-9246-050b8f729537",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-safety-speeds-each-repetition",
++  topicSlug: "what-repetition-encodes",
++  ask: "Does being safer while a thing encodes also make each repetition pay back faster, rather than only deciding whether the thing encodes as cheaper or as a threat?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-safety-reading-decides-the-encoding.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-safety-reading-decides-the-encoding.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ca851bf4ebf214f368aa976d89a2bc3b8fa8df39
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-safety-reading-decides-the-encoding.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichSafetyReadingDecidesTheEncoding = {
++  id: "01a077e7-6eb2-7e43-867a-03c1eac314f6",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-safety-reading-decides-the-encoding",
++  topicSlug: "what-repetition-encodes",
++  ask: "Does the encoding turn on how safe I was at each repetition, on the average safety across the run, or on the lowest safety in the run?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-repetition-encodes.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-repetition-encodes.all-about-alan-topic.ts
+index dd1817698e0d20e7740f30e124533ccb262230b2..87815f6f9f38daae889a5f50fd0c6f8b48c9877d 100644
+--- a/alan/books/all-about-alan/topics/pages/what-repetition-encodes.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-repetition-encodes.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const whatRepetitionEncodes = {
+   parentSlugs: ["what-an-activity-costs-me"],
+   settled:
+     "How safe I am while it encodes decides whether it encodes as cheaper or as something to avoid, so getting good at a thing and being hurt by a thing run on one mechanism.\n\nRehearsing it offline counts as repetition.",
+-  unsettled:
+-    "Whether being safer at the time also makes each repetition pay back faster, rather than only deciding the sign, is open.\n\nWhether being made to start unfamiliar things under low resources encoded a blanket aversion to unfamiliar content is untested.\n\nHow many safe repetitions make a thing measurably cheaper, and how few unsafe ones make it a threat, is unanchored.\n\nWhether what matters is how safe I was at each repetition, the average across the run, or its lowest point, is open.",
+ } as const satisfies AllAboutAlanTopic
