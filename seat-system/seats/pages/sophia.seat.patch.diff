@@ -50,30 +50,6 @@ index b621d8d76a17c9e0f01d0cbe96ead277c87677ea..a87980fc09e4875973e1ddc43a32387b
    const put = installingIn(given.root, held.changes)
    return {
      report: reported(counted, said, {
-diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
-index 9ad9435c3895da4094bc780d0cb206362d4d7375..ea0bb9c6b30c8d4b251fe2c672d33cd501f3d9b2 100644
---- a/command-system/asking/asking.module.ts
-+++ b/command-system/asking/asking.module.ts
-@@ -175,6 +175,19 @@ export const asking = {
-       invariantKind: "departure",
-       statement: "A path outside this repository is held to no reading of the caller's.",
-     },
-+    {
-+      invariantKind: "departure",
-+      statement:
-+        "A landing whose readers owe no reading carries their readings onto the bodies that landing left.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A landing whose readers owe reading carries no reading.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A reading is carried at the landing rather than by the command that asked.",
-+    },
-     {
-       invariantKind: "departure",
-       statement: "Reaching a body tells a path nothing is at from a path that will not open.",
 diff --git a/command-system/landing-reading/landing-reading.module.code.ts b/command-system/landing-reading/landing-reading.module.code.ts
 index 172cc4038c6b16e39123c6b0b0c8d713e34f2d87..07a7963d75d29c55fe2a9c8dbbceb309a0c82b4b 100644
 --- a/command-system/landing-reading/landing-reading.module.code.ts
