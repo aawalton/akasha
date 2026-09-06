@@ -16,7 +16,6 @@ import { answering } from "../../../calling/calling.module.code.ts"
 import type { FileEdit } from "../../../landing/landing.module.code.ts"
 import { baseOf } from "../../../landing/landing.module.code.ts"
 import type { Carry as Reading } from "../../../reading/reading.module.code.ts"
-import { carryReadings } from "../../../reading/reading.module.code.ts"
 import { outsideIn, saidFrom } from "../../move/outside/move-outside.module.code.ts"
 import { glassIn, messageIn } from "../../write/write.command.code.ts"
 import { bodyTextOf, were } from "../landing/refactor-landing.module.code.ts"
@@ -300,13 +299,11 @@ export async function retypeLanded(
     unmoved: [],
     read: base,
     carries: carried.moving,
+    readings,
     saying: () => retypeSaying(one, carries, named, false),
   }
   const landing = await landingAsked({ ...given, root }, asking)
-  if (!dryRun) {
-    if (landing.code === 0) carryReadings(root, readings)
-    return landing
-  }
+  if (!dryRun) return landing
   return answering(
     [...retypeSaying(one, carries, named, true), ...landing.report],
     landing.refusals,
