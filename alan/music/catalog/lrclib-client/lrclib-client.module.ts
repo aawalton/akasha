@@ -21,7 +21,7 @@ export const lrclibClient = {
     },
     {
       invariantKind: "departure",
-      statement: "An ask that fails waits as long as one that answers.",
+      statement: "An ask that fails waits as long as an ask that answers.",
     },
     {
       invariantKind: "departure",
