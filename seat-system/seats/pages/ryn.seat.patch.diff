@@ -1,0 +1,13 @@
+diff --git a/changes/refactor-changes/pages/rename-code-token/rename-code-token.refactor-change.ts b/changes/refactor-changes/pages/rename-code-token/rename-code-token.refactor-change.ts
+index f79f97d32886cf896838a014cde6ed98518e2069..1b21182d84bd7fa1fab2afb589bea951a84724fb 100644
+--- a/changes/refactor-changes/pages/rename-code-token/rename-code-token.refactor-change.ts
++++ b/changes/refactor-changes/pages/rename-code-token/rename-code-token.refactor-change.ts
+@@ -30,7 +30,7 @@ export const renameCodeToken = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The bodies are answered rather than written, so the caller lands them as one.",
++      statement: "The bodies are answered rather than written.",
+     },
+     {
+       invariantKind: "gap",
