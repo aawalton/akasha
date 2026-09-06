@@ -1,0 +1,13 @@
+diff --git a/inference/pool/pool-config-build/pool-config-build.module.ts b/inference/pool/pool-config-build/pool-config-build.module.ts
+index 8099e29528e7e5cf6d1711f7d30e01ddfea8861f..ac6034564fc459753f6847fc6e0e6e7bfcf61957 100644
+--- a/inference/pool/pool-config-build/pool-config-build.module.ts
++++ b/inference/pool/pool-config-build/pool-config-build.module.ts
+@@ -14,7 +14,7 @@ export const poolConfigBuild = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A loopback service is fronted on 127.0.0.1 and every other on 0.0.0.0.",
++      statement: "A loopback service is fronted on 127.0.0.1 and every other service on 0.0.0.0.",
+     },
+     {
+       invariantKind: "departure",
