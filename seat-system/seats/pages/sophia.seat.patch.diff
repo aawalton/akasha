@@ -1,0 +1,89 @@
+runsWarrants: false
+diff --git a/changes/kinds/change-kind.page-type.ts b/changes/kinds/change-kind.page-type.ts
+index abfb8ffc8dea009695ac303742a621d152f56e45..85af295c74cc0b5e3fba6dcb964bd5e0e6a40d2c 100644
+--- a/changes/kinds/change-kind.page-type.ts
++++ b/changes/kinds/change-kind.page-type.ts
+@@ -5,7 +5,7 @@ import type { RunsWarrants } from "./properties/runs-warrants.boolean-property.t
+ 
+ export type ChangeKind = Domain & {
+   runsChecks: RunsChecks
+-  runsWarrants: RunsWarrants
++  writerOwesReading: RunsWarrants
+ }
+ 
+ export const changeKind = {
+diff --git a/changes/kinds/pages/change-authored.change-kind.ts b/changes/kinds/pages/change-authored.change-kind.ts
+index 63d8d882e2dc49d1253085fbf8065e9eb3407f3b..c008e623201bae38116d2c1424e9a0ed740dba40 100644
+--- a/changes/kinds/pages/change-authored.change-kind.ts
++++ b/changes/kinds/pages/change-authored.change-kind.ts
+@@ -6,7 +6,7 @@ export const changeAuthored = {
+   slug: "change-authored",
+   definition: "a change composed by an agent",
+   runsChecks: true,
+-  runsWarrants: true,
++  writerOwesReading: true,
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/changes/kinds/pages/change-checked.change-kind.ts b/changes/kinds/pages/change-checked.change-kind.ts
+index 55b34331f77b8b67c9881922c98b410304d34eba..0b0a94cce2f9bf267aaad030fd1a98df228a7359 100644
+--- a/changes/kinds/pages/change-checked.change-kind.ts
++++ b/changes/kinds/pages/change-checked.change-kind.ts
+@@ -6,7 +6,7 @@ export const changeChecked = {
+   slug: "change-checked",
+   definition: "a change a program composed and the checks judge",
+   runsChecks: true,
+-  runsWarrants: false,
++  writerOwesReading: false,
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/changes/kinds/pages/change-mechanical.change-kind.ts b/changes/kinds/pages/change-mechanical.change-kind.ts
+index e02c1ea668f59440b2b06b3cf11e9932028f144b..a0e09b8d66eb51fb4bfc7e6242b7bc455b114468 100644
+--- a/changes/kinds/pages/change-mechanical.change-kind.ts
++++ b/changes/kinds/pages/change-mechanical.change-kind.ts
+@@ -6,7 +6,7 @@ export const changeMechanical = {
+   slug: "change-mechanical",
+   definition: "a change composed by a program",
+   runsChecks: false,
+-  runsWarrants: false,
++  writerOwesReading: false,
+   invariants: [
+     {
+       invariantKind: "absence",
+diff --git a/changes/kinds/pages/change-none.change-kind.ts b/changes/kinds/pages/change-none.change-kind.ts
+index 9319f328e186b27483c67c8f76514e202f69c31e..1ec0ca97c58af2418e91c6be0d6dcdade4959e9b 100644
+--- a/changes/kinds/pages/change-none.change-kind.ts
++++ b/changes/kinds/pages/change-none.change-kind.ts
+@@ -6,5 +6,5 @@ export const changeNone = {
+   slug: "change-none",
+   definition: "an act that edits nothing",
+   runsChecks: false,
+-  runsWarrants: false,
++  writerOwesReading: false,
+ } as const satisfies ChangeKind
+diff --git a/changes/kinds/pages/change-restated.change-kind.ts b/changes/kinds/pages/change-restated.change-kind.ts
+index 100e3c6c789a4faaa7fdb8bbb29eaf3db9cf89c2..61f84e175cd09bf1a4b93aca87d79f8eef41395f 100644
+--- a/changes/kinds/pages/change-restated.change-kind.ts
++++ b/changes/kinds/pages/change-restated.change-kind.ts
+@@ -6,7 +6,7 @@ export const changeRestated = {
+   slug: "change-restated",
+   definition: "a change saying what a page already said in other words",
+   runsChecks: true,
+-  runsWarrants: false,
++  writerOwesReading: false,
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/changes/kinds/properties/runs-warrants.boolean-property.ts b/changes/kinds/properties/runs-warrants.boolean-property.ts
+index f8d74132b213119ee0a6ea5f3453b2fb85123555..ad1706086b337d2d045f32338f1f67d65d3931c0 100644
+--- a/changes/kinds/properties/runs-warrants.boolean-property.ts
++++ b/changes/kinds/properties/runs-warrants.boolean-property.ts
+@@ -6,6 +6,6 @@ export const runsWarrants = {
+   id: "01a05e19-7ffb-7e64-a651-4f26f37b2e7b",
+   pageTypeSlug: "boolean-property",
+   slug: "runs-warrants",
+-  propertySlug: "runs-warrants",
++  propertySlug: "writer-owes-reading",
+   definition: "whether warrants run on a change of this kind",
+ } as const satisfies BooleanProperty
