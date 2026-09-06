@@ -1,6 +1,6 @@
 writerOwesReading: false
 diff --git a/editor-extension/page-tree-view/page-tree-view.module.ts b/editor-extension/page-tree-view/page-tree-view.module.ts
-index 59936f69a0e963dcdf4f3efba2a249585e378806..6d0d4fd10552b4f6b0feec0b94025fc33ede7c43 100644
+index 59936f69a0e963dcdf4f3efba2a249585e378806..96f8c65d2eae22b74f169864dc8cae0883627358 100644
 --- a/editor-extension/page-tree-view/page-tree-view.module.ts
 +++ b/editor-extension/page-tree-view/page-tree-view.module.ts
 @@ -9,7 +9,7 @@ export const pageTreeView = {
@@ -12,13 +12,18 @@ index 59936f69a0e963dcdf4f3efba2a249585e378806..6d0d4fd10552b4f6b0feec0b94025fc3
      },
      {
        invariantKind: "departure",
-@@ -31,7 +31,8 @@ export const pageTreeView = {
+@@ -31,11 +31,12 @@ export const pageTreeView = {
      },
      {
        invariantKind: "departure",
 -      statement: "A row representing no page opens no document rather than opening the wrong one.",
 +      statement:
 +        "A row representing no page opens no document rather than opening the wrong document.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row opens the whole path that row carries rather than one composed here.",
++      statement: "A row opens the whole path that row carries rather than a path composed here.",
      },
      {
        invariantKind: "departure",
