@@ -189,3 +189,20 @@ index 7b45e8f99c0a0dc91971e496498cf7b93fa77246..72cfbc629d1af55520c7c1ad2062f1e5
    } catch (thrown) {
      return {
        said: [],
+diff --git a/command-system/manifest-locking/manifest-locking.module.ts b/command-system/manifest-locking/manifest-locking.module.ts
+index b99045d2b97e8e6cab67cb38dabf0ec5664a2c7c..1f018fd02918f81f4a927f8419e99ab4092ebc47 100644
+--- a/command-system/manifest-locking/manifest-locking.module.ts
++++ b/command-system/manifest-locking/manifest-locking.module.ts
+@@ -76,7 +76,11 @@ export const manifestLocking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The install runs under the hold a landing takes.",
++      statement: "The install runs once the landing has given up the hold.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "Two landings carrying a manifest at once install at once.",
+     },
+     {
+       invariantKind: "departure",
