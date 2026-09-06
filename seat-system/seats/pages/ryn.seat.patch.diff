@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/code-system/eso-addons/eso-addon.page-type.ts b/code-system/eso-addons/eso-addon.page-type.ts
-index f805bd4a218bcfa8623b845c03aeb10f60a20de6..0dba3a1783b393c374067503de6baecba695f6c8 100644
+index f805bd4a218bcfa8623b845c03aeb10f60a20de6..ba85176c98ffc836a3dd70bf1b05198b35a184b1 100644
 --- a/code-system/eso-addons/eso-addon.page-type.ts
 +++ b/code-system/eso-addons/eso-addon.page-type.ts
 @@ -61,7 +61,7 @@ export const esoAddon = {
@@ -12,3 +12,12 @@ index f805bd4a218bcfa8623b845c03aeb10f60a20de6..0dba3a1783b393c374067503de6baecb
      },
      {
        invariantKind: "departure",
+@@ -90,7 +90,7 @@ export const esoAddon = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A second addon shipped inside one is versioned with the addon shipping that second addon.",
++        "A second addon shipped inside an addon is versioned with the addon shipping that second addon.",
+     },
+     {
+       invariantKind: "constraint",
