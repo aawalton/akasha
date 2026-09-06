@@ -18,7 +18,11 @@ export const renameSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "Those pages are asked for by the id, which a slug rename leaves alone.",
+      statement: "Those pages are asked for by the id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A slug rename leaves the id alone.",
     },
 
     {
@@ -31,7 +35,11 @@ export const renameSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A name is written back in the form it was written in, bare or under a page type.",
+      statement: "A name is written back in the form that name was written in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A form is bare or under a page type.",
     },
     {
       invariantKind: "departure",
@@ -44,15 +52,15 @@ export const renameSlug = {
 
     {
       invariantKind: "departure",
-      statement: "The exported const follows the slug, a page being one object named for its slug.",
+      statement: "The exported const follows the slug.",
     },
     {
       invariantKind: "departure",
-      statement: "A page carrying a plural is renamed with the plural it becomes said as well.",
+      statement: "A page carrying a plural has the plural that page becomes said as well.",
     },
     {
       invariantKind: "departure",
-      statement: "A plural said of a page carrying none refuses the change.",
+      statement: "A plural said of a page carrying no plural refuses the change.",
     },
     {
       invariantKind: "departure",
@@ -81,11 +89,12 @@ export const renameSlug = {
 
     {
       invariantKind: "absence",
-      statement: "No file moves, that being the path rename.",
+      statement: "No file moves here.",
     },
     {
       invariantKind: "departure",
-      statement: "A refactor change runs the path rename beside this one to rename a page whole.",
+      statement:
+        "A refactor change runs the path rename beside this change to rename a page whole.",
     },
     {
       invariantKind: "gap",
