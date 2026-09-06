@@ -479,3 +479,23 @@ index 0000000000000000000000000000000000000000..8f39761fe328822592905e814ff5c8e7
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/service-system/workstation-services/pages/desktop-wallpaper-setting.workstation-service.ts b/service-system/workstation-services/pages/desktop-wallpaper-setting.workstation-service.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..de04b49f2ad9a10ad289e0210235b44018822ae8
+--- /dev/null
++++ b/service-system/workstation-services/pages/desktop-wallpaper-setting.workstation-service.ts
+@@ -0,0 +1,14 @@
++import type { WorkstationService } from "../workstation-service.page-type.ts"
++
++export const desktopWallpaperSetting = {
++  id: "01a0786c-047b-7863-b793-0ff93be3d895",
++  pageTypeSlug: "workstation-service",
++  slug: "desktop-wallpaper-setting",
++  definition: "the service setting the desktop wallpaper to the persona Alan messaged last",
++  runs: ["bun personas-core/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"],
++  enabled: false,
++  systemd: {
++    schedule: "*:0/5",
++    catchUp: true,
++  },
++} as const satisfies WorkstationService
