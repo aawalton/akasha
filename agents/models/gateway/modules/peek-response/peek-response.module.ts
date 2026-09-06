@@ -38,7 +38,7 @@ export const peekResponse = {
     },
     {
       invariantKind: "departure",
-      statement: "A response to hand on is built only when a caller asks for one.",
+      statement: "A response to hand on is built only when a caller asks for a response.",
     },
     {
       invariantKind: "departure",
