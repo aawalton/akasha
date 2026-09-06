@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-ended-my-learning-decade.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-ended-my-learning-decade.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..743e8ac16c4b15e7206eb9d0f36c04aa26e50d17
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-ended-my-learning-decade.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatEndedMyLearningDecade = {
++  id: "01a077ef-1288-741c-972a-bbd0360ff1da",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-ended-my-learning-decade",
++  topicSlug: "playing-the-long-game",
++  ask: "What ended my learning decade and started the harness decade, and was the meta-skill judged enough or did life force the switch?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-the-five-thousand-figure-came-from.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-the-five-thousand-figure-came-from.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e3f1a2a39de273c2c230a977d6fc8cf1e9f2b30b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-the-five-thousand-figure-came-from.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereTheFiveThousandFigureCameFrom = {
++  id: "01a077ef-1286-7a97-82e4-5e2e6d492b49",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-the-five-thousand-figure-came-from",
++  topicSlug: "playing-the-long-game",
++  ask: "Was my five-thousand figure measured against anything or estimated from watching myself, and how does the crossover look from outside?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-the-long-game-strategy-runs.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-the-long-game-strategy-runs.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0b56e8db42252c9b88de41b389c495d1383b7d87
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-the-long-game-strategy-runs.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereTheLongGameStrategyRuns = {
++  id: "01a077ef-1288-7530-8c70-e137bafda9e4",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-the-long-game-strategy-runs",
++  topicSlug: "playing-the-long-game",
++  ask: "Which parts of my life is the long-game strategy actually running in?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-speed-reading-worked-where-a-palace-did-not.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-speed-reading-worked-where-a-palace-did-not.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..49dfe2903406b1fa99dc923993fdf178ff2109cd
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/why-speed-reading-worked-where-a-palace-did-not.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whySpeedReadingWorkedWhereAPalaceDidNot = {
++  id: "01a077ef-1287-7da1-8a17-9e662f7d7a55",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "why-speed-reading-worked-where-a-palace-did-not",
++  topicSlug: "playing-the-long-game",
++  ask: "Why did speed reading work for me where the memory palace could not? The result is on record with no mechanism under it.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/playing-the-long-game.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/playing-the-long-game.all-about-alan-topic.ts
+index 93017f864fc8ddc968da26e67c08dd865a4e7c3f..fd80e35c2f2d9823fef77b7ae2b884b2db1c68d6 100644
+--- a/alan/books/all-about-alan/topics/pages/playing-the-long-game.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/playing-the-long-game.all-about-alan-topic.ts
+@@ -11,6 +11,4 @@ export const playingTheLongGame = {
+   relatedSlugs: ["how-a-skill-gets-into-me"],
+   settled:
+     "I do not break even against other people until about five thousand goes at a thing.\n\nBelow that they look permanently better. Past it their slope flattens and mine keeps climbing.\n\nIt is a different curve rather than a delayed one, so late bloomer undersells it.\n\nTen years spent learning how to learn is what made twenty years of building the harness possible.\n\nPicking my battles holds, but the test is how long the horizon runs, not what I love.",
+-  unsettled:
+-    "Whether the five-thousand figure was measured against anything or estimated from watching myself is unanchored, and how the crossover looks from outside is undescribed.\n\nSpeed reading worked where the memory palace could not, and why is on record as a result with no mechanism.\n\nWhich parts of my life the strategy is actually running in has never been listed out.\n\nWhat ended the learning decade and started the harness one, whether the meta-skill was judged enough or life forced it, is unasked.",
+ } as const satisfies AllAboutAlanTopic
