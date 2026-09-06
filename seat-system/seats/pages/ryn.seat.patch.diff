@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/alan/harness/surplus/surplus.domain.ts b/alan/harness/surplus/surplus.domain.ts
+index 0be9ccf1df54fb8f6c8ec6d4b89fe9133512f73d..4cd2258388f359c27b6c16dc1187d5545c7b115b 100644
+--- a/alan/harness/surplus/surplus.domain.ts
++++ b/alan/harness/surplus/surplus.domain.ts
+@@ -23,7 +23,8 @@ export const surplus = {
+ 
+     {
+       invariantKind: "departure",
+-      statement: "Every site showing the surplus is carried the surplus rather than taking one.",
++      statement:
++        "Every site showing the surplus is carried the surplus rather than taking the surplus.",
+     },
+     {
+       invariantKind: "departure",
