@@ -40,7 +40,11 @@ export const monarchAgree = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes; every read runs read-only.",
+      statement: "Nothing here writes.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Every read runs read-only.",
     },
   ],
 } as const satisfies Module
