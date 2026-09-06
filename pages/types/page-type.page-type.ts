@@ -11,6 +11,7 @@ import type { OwnerSlug } from "./properties/owner-slug.relation-property.ts"
 import type { Properties } from "./properties/properties.record-property.ts"
 import type { RunsTabooCheck } from "./properties/runs-taboo-check.boolean-property.ts"
 import type { Sequence } from "./properties/sequence.record-property.ts"
+import type { Worked } from "./properties/worked.file-property.ts"
 
 export type PageType = Domain & {
   extendsSlug: readonly ExtendsSlug[]
@@ -25,6 +26,7 @@ export type PageType = Domain & {
   ownerSlug?: OwnerSlug
   runsTabooCheck?: RunsTabooCheck
   allowsTmpPaths?: AllowsTmpPaths
+  worked?: Worked
 }
 
 export const pageType = {
@@ -49,6 +51,7 @@ export const pageType = {
     "boolean-property/secret",
     "boolean-property/show-reading-progress",
     "boolean-property/uncommitted",
+    "file-property/worked",
     "number-property/next-seq",
     "page-type/page-property",
     "record-property/audio-media",
@@ -95,6 +98,7 @@ export const pageType = {
     { pagePropertySlug: "allows-tmp-paths", required: false, many: false },
     { pagePropertySlug: "next-seq", required: false, many: false },
     { pagePropertySlug: "owner-slug", required: false, many: false },
+    { pagePropertySlug: "worked", required: false, many: false },
   ],
   invariants: [
     {

@@ -36,6 +36,7 @@ import {
 import { type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 import type { Minted } from "../value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
+import { workedFor } from "../worked-typing/worked-typing.module.code.ts"
 
 export const DRY_RUN = "--dry-run"
 
@@ -353,12 +354,17 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   const unexportable = unexportableIn(formatting.changes)
   if (unexportable.length > 0) return mistaking([...unexportable, NOTHING])
   const locking = lockingFor(given.root, baseOf(given.root), formatting.changes)
+  const worked = workedFor(given.root, formatting.changes)
   const aside = [
     ...filledSaid(minted.filled),
     ...formattedSaid(formatting.formatted),
     ...locking.said,
+    ...worked.said,
   ]
-  const held: Asked = { ...asked, changes: [...formatting.changes, ...locking.edits] }
+  const held: Asked = {
+    ...asked,
+    changes: [...formatting.changes, ...locking.edits, ...worked.edits],
+  }
   const bypass = bypassIn(given, held)
   const built = gateBuilt(given.root)
   if ("broken" in built && bypass === null) return unloadable(built.broken)

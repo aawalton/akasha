@@ -47,6 +47,7 @@ export const commandSystem = {
     "module/folder-clearing",
     "module/outside-naming",
     "module/manifest-locking",
+    "module/worked-typing",
     "module/body-merging",
     "module/patching",
     "module/drafting",
