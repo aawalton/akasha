@@ -132,3 +132,15 @@ index 0000000000000000000000000000000000000000..f19cd6d9c5f5318c88ac3875a9a5d098
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/seat-system/seat-system.workspace-package.ts b/seat-system/seat-system.workspace-package.ts
+index da9c7761996fccfe93849c91ef3d4295896bb1dd..ec290c44491d7c92f3efd230600ed03774e7b660 100644
+--- a/seat-system/seat-system.workspace-package.ts
++++ b/seat-system/seat-system.workspace-package.ts
+@@ -95,6 +95,7 @@ export const seatSystem = {
+     "module/seat-record",
+     "module/seat-registration-account",
+     "module/seat-resolve",
++    "module/seat-role-on-call",
+     "module/seat-rotated-session",
+     "module/seat-session",
+     "module/seat-stated",
