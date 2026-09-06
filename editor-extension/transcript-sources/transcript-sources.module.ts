@@ -9,7 +9,7 @@ export const transcriptSources = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Where a seat's transcript is, is asked of a bun child.",
+      statement: "A bun child is asked where a seat's transcript is.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const transcriptSources = {
     },
     {
       invariantKind: "departure",
-      statement: "A row naming no agent id, seat name and transcript path is an error.",
+      statement: "A row naming no agent id and seat name and transcript path is an error.",
     },
     {
       invariantKind: "departure",
