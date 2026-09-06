@@ -1,0 +1,42 @@
+diff --git a/fmt-probe-sorted.ts b/fmt-probe-sorted.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3ee3a4317d51380ebabe3d87f0b2907c16898f43
+--- /dev/null
++++ b/fmt-probe-sorted.ts
+@@ -0,0 +1,8 @@
++import type { Page } from "@akasha/pages/page"
++import type { Alpha } from "./properties/alpha.computed-property.ts"
++import type { Zed } from "./properties/zed.computed-property.ts"
++
++export type WorkedThing = Thing & {
++  alpha?: Alpha
++  zed?: Zed
++}
+diff --git a/fmt-probe-unsorted.ts b/fmt-probe-unsorted.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3ee3a4317d51380ebabe3d87f0b2907c16898f43
+--- /dev/null
++++ b/fmt-probe-unsorted.ts
+@@ -0,0 +1,8 @@
++import type { Page } from "@akasha/pages/page"
++import type { Alpha } from "./properties/alpha.computed-property.ts"
++import type { Zed } from "./properties/zed.computed-property.ts"
++
++export type WorkedThing = Thing & {
++  alpha?: Alpha
++  zed?: Zed
++}
+diff --git a/fmt-probe.generated.ts b/fmt-probe.generated.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3ee3a4317d51380ebabe3d87f0b2907c16898f43
+--- /dev/null
++++ b/fmt-probe.generated.ts
+@@ -0,0 +1,8 @@
++import type { Page } from "@akasha/pages/page"
++import type { Alpha } from "./properties/alpha.computed-property.ts"
++import type { Zed } from "./properties/zed.computed-property.ts"
++
++export type WorkedThing = Thing & {
++  alpha?: Alpha
++  zed?: Zed
++}
