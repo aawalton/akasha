@@ -60,49 +60,6 @@ index 52be85177c2a833dd30e69ee4972ad2435e27c42..b7456736f8dcc696213dd66ff3520200
 +  if (landed.length === 0) process.exit(1)
 +  process.stdout.write(`${day} carries ${landed.join(" and ")}\n`)
 +}
-diff --git a/alan/tracking/daily/topic-words/topic-words.module.ts b/alan/tracking/daily/topic-words/topic-words.module.ts
-index 8d7363d1030fc2de0d3f445bbddb95f5367e807f..4ee797d65dc4cb3456742435278c945efe886928 100644
---- a/alan/tracking/daily/topic-words/topic-words.module.ts
-+++ b/alan/tracking/daily/topic-words/topic-words.module.ts
-@@ -7,4 +7,38 @@ export const topicWords = {
-   definition:
-     "the wisdom and intelligence words Alan wrote on one day, counted from the commits that landed in it",
-   code: "ts",
-+  invariants: [
-+    {
-+      invariantKind: "departure",
-+      statement: "A run of this file counts today's words onto today's day.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "The wisdom words and the intelligence words land one after the other.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A count that does not land leaves the other count to land.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A count that does not land is named on the error stream with its reason.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A run that landed neither count exits 1.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A count matching the one the day carries lands no commit.",
-+    },
-+    {
-+      invariantKind: "absence",
-+      statement: "Nothing here decides when a count is due.",
-+    },
-+    {
-+      invariantKind: "absence",
-+      statement: "Importing this file counts nothing.",
-+    },
-+  ],
- } as const satisfies Module
 diff --git a/alan/tracking/daily/tracking-daily.domain.ts b/alan/tracking/daily/tracking-daily.domain.ts
 index b4302b2164080726c620561f813debf45c566e56..3910498a6c6c1f967e295012bad55d386ab41806 100644
 --- a/alan/tracking/daily/tracking-daily.domain.ts
