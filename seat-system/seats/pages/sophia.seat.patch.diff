@@ -1,0 +1,21 @@
+diff --git a/domains/initiatives/pages/sophia-warrant-reach.initiative.ts b/domains/initiatives/pages/sophia-warrant-reach.initiative.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fed0c1c478368759d26f24344b7003c7bc0d580b
+--- /dev/null
++++ b/domains/initiatives/pages/sophia-warrant-reach.initiative.ts
+@@ -0,0 +1,15 @@
++import type { Initiative } from "../initiative.page-type.ts"
++
++export const sophiaWarrantReach = {
++  id: "01a076ad-ac77-7efa-8980-4bc6e16bffb8",
++  pageTypeSlug: "initiative",
++  slug: "sophia-warrant-reach",
++  domainSlug: "workspace-package/context",
++  personaSlug: "sophia",
++  intents: [
++    {
++      statement:
++        "A change kind states separately what its writer owes and what its landing stales for others.",
++    },
++  ],
++} as const satisfies Initiative
