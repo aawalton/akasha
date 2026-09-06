@@ -1,3 +1,17 @@
+diff --git a/service-system/secrets/pages/cloudflare-api-token.secret.ts b/service-system/secrets/pages/cloudflare-api-token.secret.ts
+index 8be43aaa4218ed62c68bcea25b07409581ac0cde..00cecec72383e2edbd0521a5fbdff117794c8bdb 100644
+--- a/service-system/secrets/pages/cloudflare-api-token.secret.ts
++++ b/service-system/secrets/pages/cloudflare-api-token.secret.ts
+@@ -4,5 +4,8 @@ export const cloudflareApiToken = {
+   id: "01a06832-cf2d-7b77-944a-9a5e2b62edfe",
+   pageTypeSlug: "secret",
+   slug: "cloudflare-api-token",
+-  placements: [{ resourceName: "cloudflare-api-token", resourceKey: "api-token" }],
++  placements: [
++    { resourceName: "cloudflare-api-token", resourceKey: "api-token" },
++    { resourceName: "pipeline-engine-secrets", resourceKey: "CLOUDFLARE_API_TOKEN" },
++  ],
+ } as const satisfies Secret
 diff --git a/service-system/secrets/pages/collections-secrets-anon-key.secret.ts b/service-system/secrets/pages/collections-secrets-anon-key.secret.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..235ce0697333e7be4453a3b95069cfc106902b0c
