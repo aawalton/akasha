@@ -1,0 +1,40 @@
+diff --git a/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.ts b/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.ts
+index 9f61093e746710a776186244098e4fe68b289d7f..4a4e53c11012abe9806d59bc1606128ab0cd9efe 100644
+--- a/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.ts
++++ b/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.ts
+@@ -14,7 +14,7 @@ export const renamePageSlug = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The exported const is the slug rename's own rather than a step of this one.",
++      statement: "The exported const is renamed by the slug rename rather than by a step here.",
+     },
+     {
+       invariantKind: "departure",
+@@ -26,11 +26,15 @@ export const renamePageSlug = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Each change reads the bodies the changes before it answered.",
++      statement: "Each change reads the bodies the changes before that change answered.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file beside the page is found from the keys its body states, not by a listing.",
++      statement: "A file beside the page is found from the keys the page's body states.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No file beside the page is found by listing the folder.",
+     },
+     {
+       invariantKind: "departure",
+@@ -42,7 +46,7 @@ export const renamePageSlug = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The page's own file is carried before the files beside it.",
++      statement: "The page's own file is carried before the files beside that file.",
+     },
+     {
+       invariantKind: "departure",
