@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-a-rep-out-loud-costs-and-buys.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-a-rep-out-loud-costs-and-buys.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..60f5cfc9b4aacdec723cf83f2321f534e7ff0d0a
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-a-rep-out-loud-costs-and-buys.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatARepOutLoudCostsAndBuys = {
++  id: "01a077e6-7be1-7570-af0f-6da949bf523a",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-a-rep-out-loud-costs-and-buys",
++  topicSlug: "walking-a-hard-subject-out-loud",
++  ask: "Talking to my surviving friend bills about two days in bed a rep. What do these conversations cost per rep, and what does each rep buy?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-doors-are-safe-at-which-safety-level.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-doors-are-safe-at-which-safety-level.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b76f519abac74a2b5d055373a5fa9c72bdb01870
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-doors-are-safe-at-which-safety-level.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichDoorsAreSafeAtWhichSafetyLevel = {
++  id: "01a077e6-7be0-7a19-860b-a6b63d667b6b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-doors-are-safe-at-which-safety-level",
++  topicSlug: "walking-a-hard-subject-out-loud",
++  ask: "Which doors are safe to open at which safety level, and what ladder would put that judgement on the footing the affordable-and-free ladder has?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-subjects-come-next-out-loud.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-subjects-come-next-out-loud.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8c00a26095af021b561d149428656be5c00ff1f8
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-subjects-come-next-out-loud.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichSubjectsComeNextOutLoud = {
++  id: "01a077e6-7bdf-7eb8-b9bd-d3b1af943ab5",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-subjects-come-next-out-loud",
++  topicSlug: "walking-a-hard-subject-out-loud",
++  ask: "Which subjects are waiting to be walked out loud, and in what order against what I can afford?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/walking-a-hard-subject-out-loud.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/walking-a-hard-subject-out-loud.all-about-alan-topic.ts
+index 95dfd8ec6d9b0f40a3a573d63b0a49f55d43f407..33069dc10d08dd8ed1f8c97af8f8640db5282b95 100644
+--- a/alan/books/all-about-alan/topics/pages/walking-a-hard-subject-out-loud.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/walking-a-hard-subject-out-loud.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const walkingAHardSubjectOutLoud = {
+   relatedSlugs: ["how-an-alarm-wears-off", "what-comes-back-into-reach-as-i-climb"],
+   settled:
+     "These conversations are not only for the book. Walking a hard subject out loud is a rep against it.\n\nMost people wear a thing down by replaying it alone. I have nothing to replay, so it has to be with someone.\n\nIt only works while the contact stays under my safety line. Above it, the same rep proves the alarm right.\n\nSo the dose is paced to where my safety is that day rather than to a fixed setting.\n\nAt the bottom the affordable dose is almost nothing, and the hardest doors stay mine to open.",
+-  unsettled:
+-    "Which subjects are queued for this, and in what order against what I can afford, has never been mapped.\n\nWhich doors are safe to open at which safety level is qualitative, with nothing like the affordable-and-free ladder behind it.\n\nTalking to my surviving friend bills about two days in bed a rep. What these conversations cost per rep, and what each buys, is unprobed.",
+ } as const satisfies AllAboutAlanTopic
