@@ -1,10 +1,16 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
-index 4a4ce62da0b1d5a2bd4e59439d828d2d25ff5293..04ac430053e989ea49205a1e23b808ce761e3a50 100644
+index 4a4ce62da0b1d5a2bd4e59439d828d2d25ff5293..259509a937985311aaa871d4f48c101d28347eab 100644
 --- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
 +++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
-@@ -83,8 +83,8 @@ test("a restatement lowering a max is let through", () => {
+@@ -78,13 +78,13 @@ test("a restatement making an optional property required is let through", () =>
+   expect(said).toEqual([])
+ })
+ 
+-test("a restatement lowering a max is let through", () => {
++test("a restatement lowering a max count is let through", () => {
+   const root = rooted()
    const said = restating(
      root,
      judged,
