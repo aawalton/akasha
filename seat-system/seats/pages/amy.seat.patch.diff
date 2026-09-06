@@ -1,3 +1,39 @@
+diff --git a/personas/persona.page-type.ts b/personas/persona.page-type.ts
+index bad94142721a56625f41fe3bbb19e09ec3d09af7..0cdd7b61a692f100b7b436dd31b344b9c487897b 100644
+--- a/personas/persona.page-type.ts
++++ b/personas/persona.page-type.ts
+@@ -4,6 +4,7 @@ import type { Phone } from "@akasha/person-system/phone"
+ import type { RoleSlug } from "@akasha/seat-system/role-slug"
+ import type { Appearance } from "./properties/appearance.file-property.ts"
+ import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.relation-property.ts"
++import type { DesktopWallpaper } from "./properties/desktop-wallpaper.file-property.ts"
+ import type { EmailAddress } from "./properties/email-address.email-address-property.ts"
+ import type { GreenDayPoints } from "./properties/green-day-points.number-property.ts"
+ import type { History } from "./properties/history.text-property.ts"
+@@ -29,6 +30,7 @@ export type Persona = Domain & {
+   greenDayPoints?: GreenDayPoints
+   history?: History
+   lastMessagedAt?: LastMessagedAt
++  desktopWallpaper?: DesktopWallpaper
+   mobileWallpaper?: MobileWallpaper
+   voiceInstruction?: VoiceInstruction
+   voiceReferenceSha256?: VoiceReferenceSha256
+@@ -51,6 +53,7 @@ export const persona = {
+   },
+   partSlugs: [
+     "file-property/appearance",
++    "file-property/desktop-wallpaper",
+     "file-property/mobile-wallpaper",
+     "file-property/portrait",
+     "relation-property/championed-domain-slug",
+@@ -81,6 +84,7 @@ export const persona = {
+       many: false,
+       uncommitted: true,
+     },
++    { pagePropertySlug: "file-property/desktop-wallpaper", required: false, many: false },
+     { pagePropertySlug: "file-property/mobile-wallpaper", required: false, many: false },
+   ],
+   invariants: [
 diff --git a/personas/properties/desktop-wallpaper.file-property.ts b/personas/properties/desktop-wallpaper.file-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..1ec1c459a07a67d271303fe038b67ff61d02e10f
