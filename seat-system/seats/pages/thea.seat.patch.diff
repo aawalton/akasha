@@ -53,3 +53,18 @@ index ab449f3942448340cfd57da319134c959ffebadd..2bf5ee11f3d194a0bd99dfeb016e29bb
      said.push(...collisionsIn(one, shadow))
    }
    return said
+diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
+index 64e6357e8ad87187933dc31adb29e64bb7c840e8..7443e53fed4d4366e0321c3e58af7cb6f121077b 100644
+--- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
++++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
+@@ -83,6 +83,10 @@ export const keyNamesOneProperty = {
+       statement:
+         "A page type is judged when the change carries that page type or a property that type declares.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A page type under a judged page type is judged as well.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A record property is judged on the same two counts.",
