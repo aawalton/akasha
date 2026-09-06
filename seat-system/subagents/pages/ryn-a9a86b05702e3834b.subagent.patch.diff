@@ -1,5 +1,5 @@
 diff --git a/command-system/outside-naming/outside-naming.module.ts b/command-system/outside-naming/outside-naming.module.ts
-index eeea171c97123a76e0e61c0f0a0cc102949d317e..de49ee3230408918ab720217e1e84da27cd9c524 100644
+index eeea171c97123a76e0e61c0f0a0cc102949d317e..cc250432d65711ab3d73a2d3e949b5b65c202a43 100644
 --- a/command-system/outside-naming/outside-naming.module.ts
 +++ b/command-system/outside-naming/outside-naming.module.ts
 @@ -18,7 +18,7 @@ export const outsideNaming = {
@@ -11,7 +11,22 @@ index eeea171c97123a76e0e61c0f0a0cc102949d317e..de49ee3230408918ab720217e1e84da2
      },
      {
        invariantKind: "departure",
-@@ -36,9 +36,7 @@ export const outsideNaming = {
+@@ -26,9 +26,11 @@ export const outsideNaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A body is read through once however many names are looked for, a name standing only " +
+-        "where a path-like run of that body starts.",
++      statement: "A body is read through once however many names are looked for.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name is found only where a path-like run of the body starts.",
+     },
+     {
+       invariantKind: "departure",
+@@ -36,9 +38,7 @@ export const outsideNaming = {
      },
      {
        invariantKind: "departure",
@@ -22,7 +37,7 @@ index eeea171c97123a76e0e61c0f0a0cc102949d317e..de49ee3230408918ab720217e1e84da2
      },
      {
        invariantKind: "departure",
-@@ -54,7 +52,7 @@ export const outsideNaming = {
+@@ -54,7 +54,7 @@ export const outsideNaming = {
      },
      {
        invariantKind: "departure",
@@ -31,7 +46,7 @@ index eeea171c97123a76e0e61c0f0a0cc102949d317e..de49ee3230408918ab720217e1e84da2
      },
      {
        invariantKind: "departure",
-@@ -67,7 +65,7 @@ export const outsideNaming = {
+@@ -67,7 +67,7 @@ export const outsideNaming = {
      },
      {
        invariantKind: "absence",
@@ -40,7 +55,7 @@ index eeea171c97123a76e0e61c0f0a0cc102949d317e..de49ee3230408918ab720217e1e84da2
      },
      {
        invariantKind: "departure",
-@@ -117,7 +115,7 @@ export const outsideNaming = {
+@@ -117,7 +117,7 @@ export const outsideNaming = {
      {
        invariantKind: "absence",
        statement:
@@ -49,7 +64,7 @@ index eeea171c97123a76e0e61c0f0a0cc102949d317e..de49ee3230408918ab720217e1e84da2
      },
      {
        invariantKind: "departure",
-@@ -134,7 +132,7 @@ export const outsideNaming = {
+@@ -134,7 +134,7 @@ export const outsideNaming = {
      },
      {
        invariantKind: "absence",
