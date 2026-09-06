@@ -1,14 +1,19 @@
 readersOweReading: false
 diff --git a/command-system/commands/move/siding/move-siding.module.ts b/command-system/commands/move/siding/move-siding.module.ts
-index 3ef385d65bdc75e8993b7fac72f3a721078d8114..60ba9cfd1c542139dd4057c8a815f87d7562339a 100644
+index 3ef385d65bdc75e8993b7fac72f3a721078d8114..e6083037baa4ca247cbc710149331d949ec27d66 100644
 --- a/command-system/commands/move/siding/move-siding.module.ts
 +++ b/command-system/commands/move/siding/move-siding.module.ts
-@@ -52,7 +52,7 @@ export const moveSiding = {
+@@ -52,11 +52,11 @@ export const moveSiding = {
      },
      {
        invariantKind: "departure",
 -      statement: "A name whose page type slot names no page type is neither.",
 +      statement: "A name whose page type slot names no page type belongs to no page.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name the grammar will not parse is neither.",
++      statement: "A name the grammar will not parse belongs to no page.",
      },
      {
        invariantKind: "departure",
