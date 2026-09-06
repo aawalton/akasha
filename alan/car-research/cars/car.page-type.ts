@@ -33,7 +33,7 @@ export const car = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every page type naming a level of a maker's catalogue builds on this one.",
+      statement: "Every page type naming a level of a maker's catalogue builds on this page type.",
     },
     {
       invariantKind: "departure",
