@@ -10,6 +10,18 @@ index b32138afbf497c0636910c83da3e4bb6dc98fd04..05fed8c54be1dd9fdcf179937a81ee53
 -  resourceKey: "DATABASE_URL",
 +  placements: [{ resourceName: "gotrue-secrets", resourceKey: "DATABASE_URL" }],
  } as const satisfies Secret
+diff --git a/service-system/secrets/pages/seaweedfs-creds-s3-config.secret.ts b/service-system/secrets/pages/seaweedfs-creds-s3-config.secret.ts
+index 8bc682fff3892d3961b003da1521d94d2809e2ec..9922dedc67aa62d40a2ea9e020df817d2f79264d 100644
+--- a/service-system/secrets/pages/seaweedfs-creds-s3-config.secret.ts
++++ b/service-system/secrets/pages/seaweedfs-creds-s3-config.secret.ts
+@@ -4,6 +4,5 @@ export const seaweedfsCredsS3Config = {
+   id: "01a06832-cf2d-745b-b397-adb52c0acad7",
+   pageTypeSlug: "secret",
+   slug: "seaweedfs-creds-s3-config",
+-  resourceName: "seaweedfs-creds",
+-  resourceKey: "s3-config.json",
++  placements: [{ resourceName: "seaweedfs-creds", resourceKey: "s3-config.json" }],
+ } as const satisfies Secret
 diff --git a/service-system/secrets/properties/placements.record-property.ts b/service-system/secrets/properties/placements.record-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..a5169276a8d50bbdb85c294495da1c201c0cf4d2
