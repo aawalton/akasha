@@ -1,3 +1,54 @@
+diff --git a/personas-core/desktop-wallpaper-setting/desktop-wallpaper-setting.module.ts b/personas-core/desktop-wallpaper-setting/desktop-wallpaper-setting.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..772e6cf5d8bc615b610b75352da7fc0c1b6534e4
+--- /dev/null
++++ b/personas-core/desktop-wallpaper-setting/desktop-wallpaper-setting.module.ts
+@@ -0,0 +1,45 @@
++import type { Module } from "../../code-system/modules/module.page-type.ts"
++
++export const desktopWallpaperSetting = {
++  id: "01a0786b-2a28-7d50-91e5-a54586893638",
++  pageTypeSlug: "module",
++  slug: "desktop-wallpaper-setting",
++  definition: "how Alan's desktop wallpaper is set to a persona's own picture",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The persona shown is the persona Alan messaged most recently.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The personas are ordered by the shared wallpaper order rather than by a rule here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A persona carrying no desktop wallpaper is passed over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A persona whose wallpaper file is absent is passed over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The wallpaper Plasma is pointed at is the file beside the persona's own page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run finding no wallpaper on disk exits non-zero and says so.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The command setting the wallpaper is handed in so that a test sets nothing.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here copies a wallpaper's bytes.",
++    },
++  ],
++} as const satisfies Module
 diff --git a/personas-core/personas-core.workspace-package.ts b/personas-core/personas-core.workspace-package.ts
 index fbd9333afc7ade1f9f3a17672af5232a4db27603..9a32108be3d13dfe2bb6c517d496c1dcc56a5261 100644
 --- a/personas-core/personas-core.workspace-package.ts
