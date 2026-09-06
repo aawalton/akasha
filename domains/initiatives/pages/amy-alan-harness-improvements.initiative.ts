@@ -19,7 +19,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "An attribute's stoplight shows what that attribute has reached.",
       workingMemory:
-        "Alan has reached a mark on intelligence and on wisdom, and both stoplights are black. Black is what a stoplight shows where no reading reached that stoplight, so the reading is what to look at before the attribute.",
+        "The counter subtracted what a commit removed from what that commit added, so a day spent rewriting scored nothing. It now counts every word added and reads a moved file as a move. Wisdom went from 1,856 to 6,397 and is yellow; intelligence went from 540 to 1,019 and sits under the red rung at 2,500 words. Endurance takes no reading because Alan's watch has sent no active energy since 2026-09-05. Days before today still carry figures the old rule worked out.",
     },
   ],
 } as const satisfies Initiative
