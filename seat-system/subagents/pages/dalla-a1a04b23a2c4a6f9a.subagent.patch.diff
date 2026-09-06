@@ -1,0 +1,132 @@
+diff --git a/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.test.ts b/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.test.ts
+index 4caaf20de3e842413e4563bf8a4a7dcd98db18dc..8810f7966b20bb4ac407c52566bf1151a7c66b55 100644
+--- a/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.test.ts
++++ b/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.test.ts
+@@ -1,32 +1,69 @@
+ import { afterAll, expect, test } from "bun:test"
+ import {
+   HELD_CODE,
++  idOf,
+   indexedRepo,
+   NAMER_CODE,
++  pageOf,
+   scratch,
+   textIn,
+ } from "@akasha/indexes/indexing/testing"
+ import { NOT_WORKED_OUT } from "@akasha/pages/shadow"
+ import { answered, taking } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
++import {
++  guardedBy,
++  NOT_READ,
++} from "../../../modules/change-guarding/change-guarding.module.code.ts"
+ import { importNotLeftHanging } from "./import-not-left-hanging.change-guard.code.ts"
+ 
+ afterAll(scratch.sweep)
+ 
+ const GUARDS = [importNotLeftHanging]
+ 
++const BROKEN = "export const held = ((\n"
++
++const HELD_PAGE = "akasha/one/held.module.ts"
++
++const SPARE_PAGE = "akasha/three/spare.module.ts"
++
++const SPARE_CODE = "akasha/three/spare.module.code.ts"
++
++function spareRepo(): string {
++  return indexedRepo({
++    [SPARE_PAGE]: pageOf({
++      id: idOf("d"),
++      pageTypeSlug: "module",
++      slug: "spare",
++      definition: "a page importing the page held",
++      code: "ts",
++    }),
++    [SPARE_CODE]:
++      'import { kept } from "../one/held.module.code.ts"\n\nexport const spare = kept\n',
++  })
++}
++
+ function takingAway(root: string, path: string): Answer {
+   const was = textIn(root)(path) ?? ""
+   return guardedBy(root, answered([taking(path, was)]), GUARDS)
+ }
+ 
+ test("a shadow that will not build refuses rather than answering no hanging import", () => {
++  const root = indexedRepo()
++
++  const said = guardedBy(root, answered([taking(HELD_PAGE, BROKEN)]), GUARDS)
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(NOT_WORKED_OUT)
++})
++
++test("an index that will not read refuses rather than answering no hanging import", () => {
+   const root = scratch.rootFor("import-no-index-")
++
+   const said = guardedBy(root, answered([taking(HELD_CODE, "export const kept = 1\n")]), GUARDS)
+ 
+   expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(NOT_WORKED_OUT)
++  expect(said.refused ?? "").toContain(NOT_READ)
+ })
+ 
+ test("a file another file still imports is refused", () => {
+@@ -41,7 +78,7 @@ test("a file another file still imports is refused", () => {
+ })
+ 
+ test("a file nothing imports is not refused", () => {
+-  const root = indexedRepo()
++  const root = spareRepo()
+ 
+   const said = takingAway(root, NAMER_CODE)
+ 
+diff --git a/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.test.ts b/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.test.ts
+index 6c846cb2d2a2ad0dcb919ac3cc48d9bd581f89e5..d1309cd7b50ace27889e92569985481c3a77d4ff 100644
+--- a/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.test.ts
++++ b/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.test.ts
+@@ -13,13 +13,18 @@ import {
+ import { NOT_WORKED_OUT } from "@akasha/pages/shadow"
+ import { answered, taking } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
++import {
++  guardedBy,
++  NOT_READ,
++} from "../../../modules/change-guarding/change-guarding.module.code.ts"
+ import { relationNotLeftHanging } from "./relation-not-left-hanging.change-guard.code.ts"
+ 
+ afterAll(scratch.sweep)
+ 
+ const GUARDS = [relationNotLeftHanging]
+ 
++const BROKEN = "export const held = ((\n"
++
+ const SPARK_TYPE = "akasha/spark.page-type.ts"
+ 
+ const SPARK_PAGE = "akasha/spark/one.spark.ts"
+@@ -40,11 +45,21 @@ function takingAway(root: string, path: string): Answer {
+ }
+ 
+ test("a shadow that will not build refuses rather than answering no hanging relation", () => {
++  const root = indexedRepo()
++
++  const said = guardedBy(root, answered([taking(HELD_PAGE, BROKEN)]), GUARDS)
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(NOT_WORKED_OUT)
++})
++
++test("an index that will not read refuses rather than answering no hanging relation", () => {
+   const root = scratch.rootFor("relation-no-index-")
++
+   const said = guardedBy(root, answered([taking(HELD_PAGE, "export const held = 1\n")]), GUARDS)
+ 
+   expect(said.edits).toEqual([])
+-  expect(said.refused).toBe(NOT_WORKED_OUT)
++  expect(said.refused ?? "").toContain(NOT_READ)
+ })
+ 
+ test("a page another page still names is refused", () => {
