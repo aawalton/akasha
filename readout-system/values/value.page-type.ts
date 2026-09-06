@@ -76,7 +76,7 @@ export const value = {
     },
     {
       invariantKind: "departure",
-      statement: "A value names its scale rather than carrying one.",
+      statement: "A value names its scale rather than carrying a scale.",
     },
     {
       invariantKind: "departure",
