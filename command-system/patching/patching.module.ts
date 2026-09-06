@@ -23,7 +23,7 @@ export const patching = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the same as the one at the base leaves nothing in the patch.",
+      statement: "A body the same as the body at the base leaves nothing in the patch.",
     },
     {
       invariantKind: "departure",
