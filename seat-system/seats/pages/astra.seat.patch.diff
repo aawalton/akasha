@@ -30,3 +30,20 @@ index 658da140850c662dc545023c40edbd2de49e839a..1d34f0b9a4323e86e9c7db8b2a4ded8d
      },
      {
        invariantKind: "departure",
+diff --git a/person-system/people/email/email-rules/properties/email-rule-match-field.select-property.ts b/person-system/people/email/email-rules/properties/email-rule-match-field.select-property.ts
+index 49147c158b98489238f9366394237da3ed8da609..0c8022ad63dafb22a818aa1855912fd6ae23a01d 100644
+--- a/person-system/people/email/email-rules/properties/email-rule-match-field.select-property.ts
++++ b/person-system/people/email/email-rules/properties/email-rule-match-field.select-property.ts
+@@ -15,7 +15,11 @@ export const emailRuleMatchField = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every field here holds text, so every field takes the same comparisons.",
++      statement: "Every field here holds text.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every field takes the same comparisons.",
+     },
+     {
+       invariantKind: "departure",
