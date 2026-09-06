@@ -9,6 +9,4 @@ export const howMyServicesDecideToDeploy = {
   parentSlugs: ["the-graph-i-built-to-run-my-checks"],
   settled:
     "Whether a service needs to deploy is also a predicate over the graph, so the graph is solving my deploy throughput problem too.\n\nI broke GitHub's team plan as an individual in January.\n\nI ended up building an entire custom CI system on Kubernetes from scratch.\n\nI am now growing past that to continuous deploy based on graph changes.",
-  unsettled:
-    "What exactly broke in the team plan, and what the limit was, is unwritten.\n\nWhat continuous deploy on graph changes still needs before it is running is not listed.",
 } as const satisfies AllAboutAlanTopic
