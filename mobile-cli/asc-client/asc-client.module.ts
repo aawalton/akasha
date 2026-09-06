@@ -28,7 +28,7 @@ export const ascClient = {
     {
       invariantKind: "departure",
       statement:
-        "a long-running read asks the token source for a token per request rather than holding one",
+        "a long-running read asks the token source for a token per request rather than holding a token",
     },
     {
       invariantKind: "departure",
