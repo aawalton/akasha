@@ -18,7 +18,7 @@ export function recordLanded(given: Given, changes: readonly FileEdit[]): undefi
       path: one.path,
       oid: blobIdOf(one.body),
       seenAt: Date.now(),
-      mechanicalOid: null,
+      carriedOid: null,
     })
   }
 }

@@ -148,7 +148,7 @@ test("a reading whose mechanical id is the body there now answers for it", () =>
 test("when the body was read is not asked, only which body", () => {
   const root = rootWith()
   const oid = writing(root, PATH, "one\n")
-  recordRead(root, AGENT, { path: PATH, oid, seenAt: 0, mechanicalOid: null })
+  recordRead(root, AGENT, { path: PATH, oid, seenAt: 0, carriedOid: null })
   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
 })
 

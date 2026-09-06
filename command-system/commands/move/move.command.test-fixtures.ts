@@ -227,7 +227,7 @@ export function held(root: string, path: string, body: string): undefined {
     path,
     oid: blobIdOf(new TextEncoder().encode(body)),
     seenAt: 1,
-    mechanicalOid: null,
+    carriedOid: null,
   })
 }
 

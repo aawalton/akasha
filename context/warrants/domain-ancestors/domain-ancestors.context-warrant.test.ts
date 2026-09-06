@@ -175,7 +175,7 @@ test("a domain above not read is refused, and the refusal says why it is owed", 
   namesPart(root, top, mid)
   const at = seatListed(root, "one", `assignmentSlug: "domain/context-system"`)
   const oid = writing(root, at, `export const one = { assignmentSlug: "domain/context-system" }\n`)
-  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
   const said = unreadIn(root, AGENT, [at])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(ABOVE)

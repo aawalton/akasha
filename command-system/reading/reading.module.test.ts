@@ -73,21 +73,21 @@ test("a reading is found by agent, then by path", () => {
 
 test("a reading recorded is the reading read back", () => {
   const root = scratch.rootFor("akasha-reading-")
-  const held = { path: "akasha/a.ts", oid: "abc123", seenAt: 1788000000000, mechanicalOid: null }
+  const held = { path: "akasha/a.ts", oid: "abc123", seenAt: 1788000000000, carriedOid: null }
   recordRead(root, AGENT, held)
   expect(readingIn(root, AGENT, "akasha/a.ts")).toEqual(held)
 })
 
 test("a reading of a path replaces the one before it", () => {
   const root = scratch.rootFor("akasha-reading-")
-  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "one", seenAt: 1, mechanicalOid: null })
-  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "two", seenAt: 2, mechanicalOid: null })
+  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "one", seenAt: 1, carriedOid: null })
+  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "two", seenAt: 2, carriedOid: null })
   expect(readingIn(root, AGENT, "akasha/a.ts")?.oid).toBe("two")
 })
 
 test("one agent's reading is not another's", () => {
   const root = scratch.rootFor("akasha-reading-")
-  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "one", seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "one", seenAt: 1, carriedOid: null })
   expect(readingIn(root, "another-agent", "akasha/a.ts")).toBeNull()
 })
 
@@ -115,17 +115,17 @@ test("a line missing what a reading carries reads as nothing", () => {
 test("a line saying nothing of a mechanical change left none behind", () => {
   const root = scratch.rootFor("akasha-reading-")
   thinAt(root, A, { path: A, oid: "abc", seenAt: 1 })
-  expect(readingIn(root, AGENT, A)).toEqual({ path: A, oid: "abc", seenAt: 1, mechanicalOid: null })
+  expect(readingIn(root, AGENT, A)).toEqual({ path: A, oid: "abc", seenAt: 1, carriedOid: null })
 })
 
 test("a mechanical id said as nothing at all is read as none", () => {
   const root = scratch.rootFor("akasha-reading-")
-  thinAt(root, A, { path: A, oid: "abc", seenAt: 1, mechanicalOid: "" })
-  expect(readingIn(root, AGENT, A)?.mechanicalOid).toBeNull()
+  thinAt(root, A, { path: A, oid: "abc", seenAt: 1, carriedOid: "" })
+  expect(readingIn(root, AGENT, A)?.carriedOid).toBeNull()
 })
 
 test("the body read and the body a mechanical change left both answer, and no third", () => {
-  const held = { path: A, oid: "one", seenAt: 1, mechanicalOid: "two" }
+  const held = { path: A, oid: "one", seenAt: 1, carriedOid: "two" }
   expect(sameBody(held, "one")).toBe(true)
   expect(sameBody(held, "two")).toBe(true)
   expect(sameBody(held, "three")).toBe(false)
@@ -133,17 +133,17 @@ test("the body read and the body a mechanical change left both answer, and no th
 })
 
 test("a reading of another body than the change started from is not carried", () => {
-  const held = { path: A, oid: "one", seenAt: 1, mechanicalOid: null }
+  const held = { path: A, oid: "one", seenAt: 1, carriedOid: null }
   expect(carriedInto(held, { was: A, now: B, from: "two" }, "three")).toBeNull()
 })
 
 test("a carry chains off the mechanical id, and the body read stays pinned", () => {
-  const held = { path: A, oid: "one", seenAt: 1, mechanicalOid: "two" }
+  const held = { path: A, oid: "one", seenAt: 1, carriedOid: "two" }
   expect(carriedInto(held, { was: A, now: B, from: "two" }, "three")).toEqual({
     path: B,
     oid: "one",
     seenAt: 1,
-    mechanicalOid: "three",
+    carriedOid: "three",
   })
   expect(carriedInto(held, { was: A, now: B, from: "one" }, "three")).toBeNull()
 })
@@ -152,13 +152,13 @@ test("a carried reading is at the new path and the old file is gone", () => {
   const root = scratch.rootFor("akasha-reading-")
   const was = writing(root, A, "one\n")
   const now = writing(root, B, "two\n")
-  recordRead(root, AGENT, { path: A, oid: was, seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: A, oid: was, seenAt: 1, carriedOid: null })
   carryReadings(root, [{ was: A, now: B, from: was }])
   expect(readingIn(root, AGENT, B)).toEqual({
     path: B,
     oid: was,
     seenAt: 1,
-    mechanicalOid: now,
+    carriedOid: now,
   })
   expect(readingIn(root, AGENT, A)).toBeNull()
   expect(existsSync(readingFileAt(root, AGENT, A))).toBe(false)
@@ -168,9 +168,9 @@ test("a body rewritten where it is keeps its path and gains the mechanical id", 
   const root = scratch.rootFor("akasha-reading-")
   const was = blobIdOf(new TextEncoder().encode("one\n"))
   const now = writing(root, A, "two\n")
-  recordRead(root, AGENT, { path: A, oid: was, seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: A, oid: was, seenAt: 1, carriedOid: null })
   carryReadings(root, [{ was: A, now: A, from: was }])
-  expect(readingIn(root, AGENT, A)).toEqual({ path: A, oid: was, seenAt: 1, mechanicalOid: now })
+  expect(readingIn(root, AGENT, A)).toEqual({ path: A, oid: was, seenAt: 1, carriedOid: now })
   expect(existsSync(readingFileAt(root, AGENT, A))).toBe(true)
 })
 
@@ -179,12 +179,12 @@ test("every agent holding the body is carried, not the first one found", () => {
   const was = writing(root, A, "one\n")
   const now = writing(root, B, "two\n")
   for (const one of [AGENT, OTHER]) {
-    recordRead(root, one, { path: A, oid: was, seenAt: 1, mechanicalOid: null })
+    recordRead(root, one, { path: A, oid: was, seenAt: 1, carriedOid: null })
   }
   expect(agentIdsIn(root)).toEqual([OTHER, AGENT])
   carryReadings(root, [{ was: A, now: B, from: was }])
   for (const one of [AGENT, OTHER]) {
-    expect(readingIn(root, one, B)?.mechanicalOid).toBe(now)
+    expect(readingIn(root, one, B)?.carriedOid).toBe(now)
     expect(readingIn(root, one, A)).toBeNull()
   }
 })
@@ -192,8 +192,8 @@ test("every agent holding the body is carried, not the first one found", () => {
 test("a removal forgets the reading, for every agent holding one", () => {
   const root = scratch.rootFor("akasha-reading-")
   for (const one of [AGENT, OTHER]) {
-    recordRead(root, one, { path: A, oid: "one", seenAt: 1, mechanicalOid: null })
-    recordRead(root, one, { path: B, oid: "two", seenAt: 1, mechanicalOid: null })
+    recordRead(root, one, { path: A, oid: "one", seenAt: 1, carriedOid: null })
+    recordRead(root, one, { path: B, oid: "two", seenAt: 1, carriedOid: null })
   }
   dropReadings(root, [A])
   for (const one of [AGENT, OTHER]) {
@@ -205,7 +205,7 @@ test("a removal forgets the reading, for every agent holding one", () => {
 
 test("forgetting a reading nobody holds takes nothing away and throws nothing", () => {
   const root = scratch.rootFor("akasha-reading-")
-  recordRead(root, AGENT, { path: B, oid: "two", seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: B, oid: "two", seenAt: 1, carriedOid: null })
   expect(() => dropReadings(root, [A])).not.toThrow()
   expect(() => dropReadings(scratch.rootFor("akasha-reading-"), [A])).not.toThrow()
   expect(readingIn(root, AGENT, B)?.oid).toBe("two")
@@ -259,21 +259,21 @@ test("an acting name without a seat named is not honoured either", () => {
 
 test("a subagent's readings sit under its own name and not its seat's", () => {
   const root = scratch.rootFor("akasha-reading-")
-  recordRead(root, UNDER, { path: A, oid: "one", seenAt: 1, mechanicalOid: null })
+  recordRead(root, UNDER, { path: A, oid: "one", seenAt: 1, carriedOid: null })
   expect(readingIn(root, UNDER, A)?.oid).toBe("one")
   expect(readingIn(root, AGENT, A)).toBeNull()
 })
 
 test("a seat's readings do not sit under its subagent's name", () => {
   const root = scratch.rootFor("akasha-reading-")
-  recordRead(root, AGENT, { path: A, oid: "one", seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: A, oid: "one", seenAt: 1, carriedOid: null })
   expect(readingIn(root, UNDER, A)).toBeNull()
 })
 
 test("a composite owner is a folder of its own beside the seat's", () => {
   const root = scratch.rootFor("akasha-reading-")
   for (const one of [AGENT, UNDER]) {
-    recordRead(root, one, { path: A, oid: one, seenAt: 1, mechanicalOid: null })
+    recordRead(root, one, { path: A, oid: one, seenAt: 1, carriedOid: null })
   }
   expect(agentIdsIn(root)).toEqual([AGENT, UNDER])
 })
@@ -327,7 +327,7 @@ test("output at a terminal reaches whoever asked", () => {
 
 test("a line carrying no reach into the body means the whole body reached the agent", () => {
   const root = scratch.rootFor("akasha-reading-")
-  thinAt(root, A, { path: A, oid: "abc", seenAt: 1, mechanicalOid: null })
+  thinAt(root, A, { path: A, oid: "abc", seenAt: 1, carriedOid: null })
   const held = readingIn(root, AGENT, A)
   expect(partly(held)).toBe(false)
   expect(sameBody(held, "abc")).toBe(true)
@@ -335,12 +335,12 @@ test("a line carrying no reach into the body means the whole body reached the ag
 
 test("a reach into the body is written and read back", () => {
   const root = scratch.rootFor("akasha-reading-")
-  recordRead(root, AGENT, { path: A, oid: "abc", seenAt: 1, mechanicalOid: null, readThrough: 42 })
+  recordRead(root, AGENT, { path: A, oid: "abc", seenAt: 1, carriedOid: null, readThrough: 42 })
   expect(readingIn(root, AGENT, A)?.readThrough).toBe(42)
 })
 
 test("a reading carrying a reach into the body answers no body", () => {
-  const held = { path: A, oid: "one", seenAt: 1, mechanicalOid: "two", readThrough: 5 }
+  const held = { path: A, oid: "one", seenAt: 1, carriedOid: "two", readThrough: 5 }
   expect(sameBody(held, "one")).toBe(false)
   expect(sameBody(held, "two")).toBe(false)
   expect(sameBody({ ...held, readThrough: null }, "one")).toBe(true)
@@ -349,13 +349,13 @@ test("a reading carrying a reach into the body answers no body", () => {
 test("a reach that is no whole line count is no reach", () => {
   const root = scratch.rootFor("akasha-reading-")
   for (const said of [0, -1, 1.5, "7", null]) {
-    thinAt(root, A, { path: A, oid: "abc", seenAt: 1, mechanicalOid: null, readThrough: said })
+    thinAt(root, A, { path: A, oid: "abc", seenAt: 1, carriedOid: null, readThrough: said })
     expect(partly(readingIn(root, AGENT, A))).toBe(false)
   }
 })
 
 test("a mechanical change carries how far into the body the agent had read", () => {
-  const held = { path: A, oid: "one", seenAt: 1, mechanicalOid: "two", readThrough: 9 }
+  const held = { path: A, oid: "one", seenAt: 1, carriedOid: "two", readThrough: 9 }
   const carried = carriedInto(held, { was: A, now: B, from: "two" }, "three")
   expect(carried?.readThrough).toBe(9)
   expect(sameBody(carried, "three")).toBe(false)

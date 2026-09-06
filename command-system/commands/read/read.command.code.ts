@@ -351,7 +351,7 @@ export function readWith(
         path: at,
         oid,
         seenAt: Date.now(),
-        mechanicalOid: null,
+        carriedOid: null,
         readThrough: reachedTo(long.run),
       })
       break
@@ -368,7 +368,7 @@ export function readWith(
         path: at,
         oid,
         seenAt: Date.now(),
-        mechanicalOid: null,
+        carriedOid: null,
       })
     }
   }

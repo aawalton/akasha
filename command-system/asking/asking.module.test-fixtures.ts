@@ -62,7 +62,7 @@ export function repoAt(root: string, named: Readonly<Record<string, string>>): s
   git(root, ["config", "user.name", "Held"])
   for (const [path, body] of Object.entries(named)) {
     put(root, path, body)
-    recordRead(root, AGENT, { path, oid: blobIdOf(bytes(body)), seenAt: 1, mechanicalOid: null })
+    recordRead(root, AGENT, { path, oid: blobIdOf(bytes(body)), seenAt: 1, carriedOid: null })
   }
   git(root, ["add", "-A"])
   git(root, ["commit", "--quiet", "-m", "first"])

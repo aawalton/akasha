@@ -171,7 +171,7 @@ test("a page taken away is forgotten by whoever read it", async () => {
   try {
     const root = seatedRoot(world.rootFor("seat-stopping-"))
     const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, HELD_AT), "utf8")))
-    recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, mechanicalOid: null })
+    recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
     expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
     expect(await took(givenIn(root), [HELD_AT], "athena was stopped, so its page goes")).toBe(true)
     expect(readingIn(root, AGENT, HELD_AT)).toBe(null)
@@ -186,7 +186,7 @@ test("a reading is kept where the page it names did not go", async () => {
     const root = world.rootFor("seat-stopping-unlanded-")
     writing(root, HELD_AT, HELD_BODY)
     const oid = blobIdOf(new TextEncoder().encode(HELD_BODY))
-    recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, mechanicalOid: null })
+    recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
     expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
     let went: boolean
     try {

@@ -70,8 +70,8 @@ test("a path that is not there is already gone, and what does stand is still tak
 
 test("a removal forgets the reading of what went, for every agent holding one", async () => {
   const root = repoWith({ [HELD]: BODY, [KEPT]: BODY })
-  recordRead(root, AGENT, { path: HELD, oid: "one", seenAt: 1, mechanicalOid: null })
-  recordRead(root, AGENT, { path: KEPT, oid: "two", seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: HELD, oid: "one", seenAt: 1, carriedOid: null })
+  recordRead(root, AGENT, { path: KEPT, oid: "two", seenAt: 1, carriedOid: null })
   const said = await removing(root, naming(HELD))
   expect(said.refusals).toEqual([])
   expect(readingIn(root, AGENT, HELD)).toBeNull()
@@ -81,7 +81,7 @@ test("a removal forgets the reading of what went, for every agent holding one", 
 test("naming a path already gone forgets its reading and commits nothing", async () => {
   const root = heldWorld()
   const was = head(root)
-  recordRead(root, AGENT, { path: GONE, oid: "one", seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: GONE, oid: "one", seenAt: 1, carriedOid: null })
   const said = await removing(root, naming(GONE))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)

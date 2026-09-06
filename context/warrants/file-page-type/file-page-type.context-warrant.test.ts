@@ -111,7 +111,7 @@ test("a type not read is refused, and the refusal says the type is owed", () => 
   warrantsSeeded(root)
   typeWorld(root)
   const oid = writing(root, PATH, "one\n")
-  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, carriedOid: null })
   const said = unreadIn(root, AGENT, [PATH])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(TYPE)
@@ -127,7 +127,7 @@ test("one reading of a type answers for every path of that type", () => {
       path: at,
       oid: writing(root, at, "one\n"),
       seenAt: 1,
-      mechanicalOid: null,
+      carriedOid: null,
     })
   }
   expect(unreadIn(root, AGENT, [PATH, other]).length).toBe(1)

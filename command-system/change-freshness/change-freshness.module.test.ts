@@ -35,8 +35,8 @@ function repoWith(named: Readonly<Record<string, string>>): string {
   return root
 }
 
-function asRead(path: string, oid: string, mechanicalOid: string | null = null): Reading {
-  return { path, oid, seenAt: 0, mechanicalOid }
+function asRead(path: string, oid: string, carriedOid: string | null = null): Reading {
+  return { path, oid, seenAt: 0, carriedOid }
 }
 
 const readA = (): Reading => asRead(AT, blobIdOf(bytes(A)))
@@ -129,7 +129,7 @@ const said = await landing(
   { named: ["admits"], over: async () => [] },
   null,
   null,
-  [{ path: ${JSON.stringify(AT)}, oid: ${JSON.stringify(oid)}, seenAt: 0, mechanicalOid: null }]
+  [{ path: ${JSON.stringify(AT)}, oid: ${JSON.stringify(oid)}, seenAt: 0, carriedOid: null }]
 )
 console.log("refusals" in said ? said.refusals.join("\\n") : "landed")`,
     ],

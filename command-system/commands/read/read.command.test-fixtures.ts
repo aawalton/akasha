@@ -253,7 +253,7 @@ export function telling(was: Uint8Array | null, now: string): readonly string[] 
     path: HELD,
     oid: blobIdOf(was ?? bodyOf("elsewhere\n")),
     seenAt: 1,
-    mechanicalOid: null,
+    carriedOid: null,
   }
   return tellingWith(HELD, bytes, blobIdOf(bytes), seen, was)
 }

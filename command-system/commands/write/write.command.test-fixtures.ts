@@ -53,5 +53,5 @@ export function alsoCommitted(root: string, path: string, body: string): string 
 }
 
 export function readAs(root: string, path: string, body: string): undefined {
-  recordRead(root, AGENT, { path, oid: blobIdOf(bytesOf(body)), seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path, oid: blobIdOf(bytesOf(body)), seenAt: 1, carriedOid: null })
 }

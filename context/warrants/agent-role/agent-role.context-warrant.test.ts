@@ -86,7 +86,7 @@ test("a role page type not read is refused, and the refusal says why it is owed"
   warrantsSeeded(root, ["agent-role"])
   const held = pageTypeListed(root, "role", ["domain"])
   const oid = writing(root, SUB_AT, SUB_BODY)
-  recordRead(root, AGENT, { path: SUB_AT, oid, seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: SUB_AT, oid, seenAt: 1, carriedOid: null })
   const said = unreadIn(root, AGENT, [SUB_AT])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(ROLE_TYPE)

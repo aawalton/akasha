@@ -174,7 +174,7 @@ export function readAt(
   was: string | null = null,
   reach: number | null = null
 ): undefined {
-  recordRead(root, agentId, { path, oid, seenAt: 1, mechanicalOid: was, readThrough: reach })
+  recordRead(root, agentId, { path, oid, seenAt: 1, carriedOid: was, readThrough: reach })
 }
 
 export function subaged(root: string, slug: string, path: string): undefined {

@@ -87,7 +87,7 @@ test("a person not read is refused, and the refusal says why it is owed", () => 
   const held = personListed(root, "alan")
   const at = seatListed(root, "one", `personSlug: "alan"`)
   const oid = writing(root, at, `export const one = { personSlug: "alan" }\n`)
-  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
   const said = unreadIn(root, AGENT, [at])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(PERSON)

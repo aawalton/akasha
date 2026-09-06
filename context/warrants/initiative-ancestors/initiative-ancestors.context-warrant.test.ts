@@ -127,7 +127,7 @@ test("an initiative above not read is refused, and the refusal says why it is ow
   initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-step"`)
   const oid = writing(root, at, `export const one = { assignmentSlug: "initiative/one-step" }\n`)
-  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
   const said = unreadIn(root, AGENT, [at])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(UNDER)

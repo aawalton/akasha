@@ -134,7 +134,7 @@ test("a naming page not read is refused, and the refusal says why it is owed", (
   const part = domainListed(root, "part")
   namesPart(root, whole, part)
   const oid = writing(root, part.path, "one\n")
-  recordRead(root, AGENT, { path: part.path, oid, seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: part.path, oid, seenAt: 1, carriedOid: null })
   const said = unreadIn(root, AGENT, [part.path])
   expect(said.length).toBe(1)
   expect(said[0]).toContain(WHOLE)

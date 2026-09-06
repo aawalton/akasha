@@ -47,7 +47,7 @@ export function warrantedAgain(
   for (const [path, one] of held) {
     if (moved.includes(path) || one.was === null) continue
     const oid = blobIdOf(one.was)
-    recordRead(root, agentId, { path, oid, seenAt: Date.now(), mechanicalOid: null })
+    recordRead(root, agentId, { path, oid, seenAt: Date.now(), carriedOid: null })
     again.push(path)
   }
   return again.sort()
@@ -69,7 +69,7 @@ function recordedAsLanded(root: string, agentId: string, changes: readonly FileE
       path: one.path,
       oid: blobIdOf(one.body),
       seenAt: Date.now(),
-      mechanicalOid: null,
+      carriedOid: null,
     })
   }
 }

@@ -231,7 +231,7 @@ test("a page taken away is forgotten by whoever read it", async () => {
     await wrote(root, "akasha", SEAT_ID, OWN, "Explore")
     const at = pathOf(slugOf("akasha", OWN))
     const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, at), "utf8")))
-    recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
+    recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
     expect(readingIn(root, AGENT, at)).not.toBe(null)
     expect(await took(root, "akasha", OWN)).toEqual(WENT)
     expect(readingIn(root, AGENT, at)).toBe(null)

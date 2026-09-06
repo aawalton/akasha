@@ -222,7 +222,7 @@ test("a property not read is refused, and the refusal says the property is owed"
   warrantsSeeded(root, ["file-property"])
   const every = statingWorld(root)
   const oid = stating(root, PATH, ["id", "pageTypeSlug", "slug", "definition"])
-  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
+  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, carriedOid: null })
   const said = unreadIn(root, AGENT, [PATH])
   expect(said.length).toBe(every.length)
   expect(said[0]).toContain(PROPERTY)

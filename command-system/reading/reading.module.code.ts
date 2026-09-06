@@ -38,7 +38,7 @@ export type Reading = {
   readonly path: string
   readonly oid: string
   readonly seenAt: number
-  readonly mechanicalOid: string | null
+  readonly carriedOid: string | null
   readonly readThrough?: number | null
 }
 
@@ -83,16 +83,16 @@ function readingOf(value: unknown): Reading | null {
     path?: unknown
     oid?: unknown
     seenAt?: unknown
-    mechanicalOid?: unknown
+    carriedOid?: unknown
     readThrough?: unknown
   }
   const { path, oid, seenAt, readThrough } = held
   if (typeof path !== "string" || path === "") return null
   if (typeof oid !== "string" || oid === "") return null
   if (typeof seenAt !== "number" || !Number.isFinite(seenAt)) return null
-  const said = held.mechanicalOid
+  const said = held.carriedOid
   const left = typeof said === "string" && said !== "" ? said : null
-  return withReach({ path, oid, seenAt, mechanicalOid: left }, reachOf(readThrough))
+  return withReach({ path, oid, seenAt, carriedOid: left }, reachOf(readThrough))
 }
 
 export function readingIn(root: string, agentId: string, path: string): Reading | null {
@@ -119,12 +119,12 @@ export function recordRead(root: string, agentId: string, held: Reading): undefi
 
 export function sameBody(held: Reading | null, oid: string): boolean {
   if (held === null || partly(held)) return false
-  return held.oid === oid || held.mechanicalOid === oid
+  return held.oid === oid || held.carriedOid === oid
 }
 
 export function carriedInto(held: Reading, carry: Carry, to: string): Reading | null {
-  if ((held.mechanicalOid ?? held.oid) !== carry.from) return null
-  const said = { path: carry.now, oid: held.oid, seenAt: held.seenAt, mechanicalOid: to }
+  if ((held.carriedOid ?? held.oid) !== carry.from) return null
+  const said = { path: carry.now, oid: held.oid, seenAt: held.seenAt, carriedOid: to }
   return withReach(said, reachOf(held.readThrough))
 }
 

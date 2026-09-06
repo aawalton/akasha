@@ -145,7 +145,7 @@ test("a reading carries to the new path, and the write it warranted is not refus
   expect(said.refusals).toEqual([])
   const now = readingIn(root, AGENT, DEEPER)
   expect(now?.oid).toBe(blobIdOf(new TextEncoder().encode(CODE)))
-  expect(now?.mechanicalOid).toBe(blobIdOf(readFileSync(join(root, DEEPER))))
+  expect(now?.carriedOid).toBe(blobIdOf(readFileSync(join(root, DEEPER))))
   expect(readingIn(root, AGENT, HOLDER)).toBeNull()
   expect(unreadIn(root, AGENT, [DEEPER])).toEqual([])
 })
@@ -154,7 +154,7 @@ test("a dry run carries no reading anywhere", async () => {
   const { root, said } = await readingMoved(["--dry-run"])
   expect(said.refusals).toEqual([])
   expect(readingIn(root, AGENT, DEEPER)).toBeNull()
-  expect(readingIn(root, AGENT, HOLDER)?.mechanicalOid).toBeNull()
+  expect(readingIn(root, AGENT, HOLDER)?.carriedOid).toBeNull()
 })
 
 test("a file moving in the same act is repointed from its body, not as an importer", async () => {

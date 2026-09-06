@@ -277,7 +277,7 @@ test("a page of an import not read is refused, and the refusal says the page is 
     path: at,
     oid: blobIdOf(new TextEncoder().encode('import { b } from "../b/b.module.code.ts"\n')),
     seenAt: 1,
-    mechanicalOid: null,
+    carriedOid: null,
   })
   const said = unreadIn(root, AGENT, [at])
   expect(said.length).toBe(1)
