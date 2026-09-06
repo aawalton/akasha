@@ -9,7 +9,7 @@ export const messagePageAddress = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A name of three segments is a domain, a role and an identity.",
+      statement: "A name of three segments is a domain and a role and an identity.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const messagePageAddress = {
     },
     {
       invariantKind: "departure",
-      statement: "A name of any other shape is no address rather than a refused one.",
+      statement: "A name of any other shape is no address rather than a refused address.",
     },
   ],
 } as const satisfies Module
