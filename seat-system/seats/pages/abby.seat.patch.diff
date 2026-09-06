@@ -1,0 +1,86 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-took-my-sleep-down-to-seven.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-took-my-sleep-down-to-seven.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c43b24083b90966e90e7fa1fa9b9ac61a2508b29
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-took-my-sleep-down-to-seven.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTookMySleepDownToSeven = {
++  id: "01a0780b-3f60-76b7-af1c-67ab8a2981f8",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-took-my-sleep-down-to-seven",
++  topicSlug: "sleep",
++  ask: "I want nine or ten hours and I am getting seven most days. What is taking the other two or three, and is the cause the same one every night?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-affordable-social-raises-safety.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-affordable-social-raises-safety.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..263a5190a7b3c760375ad0a9f104d4b6b0004cd2
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-affordable-social-raises-safety.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAffordableSocialRaisesSafety = {
++  id: "01a0780b-3f60-7d47-bd01-8caf43bb2b44",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-affordable-social-raises-safety",
++  topicSlug: "the-harness-around-my-safety",
++  ask: "Does positive affordable social raise my safety in its own right, and is that a reach of the marriage dimension or a lever of its own?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-way-unaffordable-social-lands.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-way-unaffordable-social-lands.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7a584639db20476eee51f1b59f98b9570641bbc9
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-way-unaffordable-social-lands.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichWayUnaffordableSocialLands = {
++  id: "01a0780b-3f60-779a-a0a7-463648f2f441",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-way-unaffordable-social-lands",
++  topicSlug: "the-harness-around-my-safety",
++  ask: "When social is not affordable the raise and the spend pull opposite ways. Which one wins, and is there a point where the raise stops paying for the hours?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-safety-climbs.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-safety-climbs.all-about-alan-topic.ts
+index ba5e221e3be678287e1f83fd65b88bdfb40f8998..46e6665a45e46f680fae96c918d466c21d4bb94c 100644
+--- a/alan/books/all-about-alan/topics/pages/how-safety-climbs.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-safety-climbs.all-about-alan-topic.ts
+@@ -9,5 +9,5 @@ export const howSafetyClimbs = {
+   parentSlugs: ["safety-bar"],
+   relatedSlugs: ["what-calms-me-down"],
+   settled:
+-    "It climbs the slow way through capacity I build back and the fast way straight at the nerve.\n\nHolding my line stops the drain but does not by itself raise it.\n\nI am building my harness out around safety now as well. The harness works here, and takes a different set of interventions from the ones executive function took.\n\nFour of those interventions are visible to me so far. Changes flowing smoothly through my akasha system, read off whether my list of work to be done is getting longer or shorter. My relationship with Jen being good, and more so getting better. The flow through my life going well, read off more green and blue stoplights. Banking surplus over time.\n\nAll four could be measured, and not all four are measured yet.\n\nSurplus is my stoplight, measured as sleep hours less capacity hours spent. Above zero my baseline safety rises over time, and below zero my baseline safety falls the same way.",
++    "It climbs the slow way through capacity I build back and the fast way straight at the nerve.\n\nHolding my line stops the drain but does not by itself raise it.",
+ } as const satisfies AllAboutAlanTopic
+diff --git a/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts
+index aab4a3087b67551a2d94459e5b707a4ebe0e5f20..dfe2e415b94d0527d26f32947b57288355897688 100644
+--- a/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts
+@@ -8,5 +8,5 @@ export const sleep = {
+   definition: "how I sleep, and what it does for me",
+   parentSlugs: ["resources"],
+   settled:
+-    "Nine or ten hours, and I almost always wake without an alarm.\n\nIt is the nearest thing to a cure-all I have found.",
++    "Seven hours most days at the moment, where I want nine or ten.\n\nI almost always wake without an alarm.\n\nIt is the nearest thing to a cure-all I have found.",
+ } as const satisfies AllAboutAlanTopic
+diff --git a/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..df623c8f7a95db0fb0a31699a57280a04c509152
+--- /dev/null
++++ b/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts
+@@ -0,0 +1,13 @@
++import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
++
++export const theHarnessAroundMySafety = {
++  id: "01a0780b-3f5f-7ebc-9aa0-1fc4bc403b06",
++  pageTypeSlug: "all-about-alan-topic",
++  slug: "the-harness-around-my-safety",
++  title: "The Harness Around My Safety",
++  definition: "the interventions I built to raise my safety, and what each one reads",
++  parentSlugs: ["how-safety-climbs"],
++  relatedSlugs: ["how-i-get-anything-done"],
++  settled:
++    "I am building my harness out around safety as well, and the harness takes a different set of interventions from the ones executive function took.\n\nFour are visible to me so far. Changes flowing smoothly through akasha, read off whether my list of work is getting longer or shorter. My marriage being good, and more so getting better. The flow through my life going well, read off more green and blue stoplights. Banking surplus over time.\n\nAll four could be measured, and not all four are measured yet.\n\nSurplus is my stoplight, sleep hours less capacity hours spent. Above zero my baseline safety rises over time, and below zero my baseline safety falls.\n\nSocial lands on the spending side of that subtraction, so my lever is not spending.\n\nI hold a hypothesis that positive affordable social raises safety in its own right, perhaps as a reach of the marriage dimension, and perhaps even when the social is unaffordable, where the two forces pull opposite ways.",
++} as const satisfies AllAboutAlanTopic
