@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
-index 7bcbf4c0ee6d49f9f64ed38c1cd8f17f974a5946..62565ceeac0b61a089d836c827638c940cbeafbb 100644
+index 7bcbf4c0ee6d49f9f64ed38c1cd8f17f974a5946..a3b1bd04e96a0faa856444e69e20b0e93dd60f3d 100644
 --- a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
 +++ b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
 @@ -7,7 +7,7 @@ export const invariantStatementIsPlain = {
@@ -11,7 +11,7 @@ index 7bcbf4c0ee6d49f9f64ed38c1cd8f17f974a5946..62565ceeac0b61a089d836c827638c94
    runsOnWorktree: false,
    runsOnDeploy: false,
    runsOnAudit: false,
-@@ -44,24 +44,24 @@ export const invariantStatementIsPlain = {
+@@ -44,29 +44,28 @@ export const invariantStatementIsPlain = {
      },
      {
        invariantKind: "departure",
@@ -41,3 +41,9 @@ index 7bcbf4c0ee6d49f9f64ed38c1cd8f17f974a5946..62565ceeac0b61a089d836c827638c94
      },
      {
        invariantKind: "stopgap",
+-      statement:
+-        "Every phase is off until the shapes are settled and the invariants are rewritten.",
++      statement: "The phases past patch stay off while the tree still carries refusals.",
+     },
+     {
+       invariantKind: "gap",
