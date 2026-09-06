@@ -1,8 +1,18 @@
 diff --git a/context/modules/warranting/warranting.module.ts b/context/modules/warranting/warranting.module.ts
-index 7b3c0ff4e210ccfa71d2466cf47ebd917a7903fa..295037729154f842f9e52285223c098640de6591 100644
+index 7b3c0ff4e210ccfa71d2466cf47ebd917a7903fa..4bce89e3aee29c6b2d6828af2b72b1a5284e4309 100644
 --- a/context/modules/warranting/warranting.module.ts
 +++ b/context/modules/warranting/warranting.module.ts
-@@ -67,10 +67,6 @@ export const warranting = {
+@@ -56,7 +56,8 @@ export const warranting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A list held back says how many readings are owed past it and to call again.",
++      statement:
++        "A list held back says how many readings are owed past the list and to call again.",
+     },
+     {
+       invariantKind: "departure",
+@@ -67,10 +68,6 @@ export const warranting = {
        statement:
          "A call charged to no agent is refused whole and said to be impossible rather than merely wrong.",
      },
