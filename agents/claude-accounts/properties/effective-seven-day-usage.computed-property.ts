@@ -1,12 +1,12 @@
 import type { ComputedProperty } from "@akasha/pages/computed-property"
 
-export type EffectiveSevenDayPercentUsed = number
+export type EffectiveSevenDayUsage = number
 
-export const effectiveSevenDayPercentUsed = {
+export const effectiveSevenDayUsage = {
   id: "01a07659-1796-79b2-9c53-f9a3eb5ed248",
   pageTypeSlug: "computed-property",
-  slug: "effective-seven-day-percent-used",
-  propertySlug: "effective-seven-day-percent-used",
+  slug: "effective-seven-day-usage",
+  propertySlug: "effective-seven-day-usage",
   definition:
     "how much of the seven-day allowance is spent, a withdrawn subscription counting as all of it",
   holds: "number",
@@ -23,6 +23,10 @@ export const effectiveSevenDayPercentUsed = {
     {
       invariantKind: "departure",
       statement: "A percent stated as text is read as the number that percent spells.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No code outside the effective seven-day usage works out the seven-day spend.",
     },
   ],
 } as const satisfies ComputedProperty

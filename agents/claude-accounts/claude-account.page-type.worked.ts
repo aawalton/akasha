@@ -1,8 +1,8 @@
 import type { ClaudeAccount } from "./claude-account.page-type.ts"
-import type { EffectiveFiveHourPercentUsed } from "./properties/effective-five-hour-percent-used.computed-property.ts"
-import type { EffectiveSevenDayPercentUsed } from "./properties/effective-seven-day-percent-used.computed-property.ts"
+import type { EffectiveFiveHourUsage } from "./properties/effective-five-hour-usage.computed-property.ts"
+import type { EffectiveSevenDayUsage } from "./properties/effective-seven-day-usage.computed-property.ts"
 
 export type WorkedClaudeAccount = ClaudeAccount & {
-  effectiveFiveHourPercentUsed?: EffectiveFiveHourPercentUsed
-  effectiveSevenDayPercentUsed?: EffectiveSevenDayPercentUsed
+  effectiveFiveHourUsage?: EffectiveFiveHourUsage
+  effectiveSevenDayUsage?: EffectiveSevenDayUsage
 }
