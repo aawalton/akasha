@@ -19,7 +19,7 @@ export const seatModes = {
     },
     {
       invariantKind: "departure",
-      statement: "A launch naming neither answers no mode rather than a default one.",
+      statement: "A launch naming neither answers no mode rather than a default mode.",
     },
     {
       invariantKind: "departure",
