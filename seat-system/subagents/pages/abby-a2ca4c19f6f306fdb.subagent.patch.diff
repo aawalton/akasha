@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-a-level-above-my-highest-would-mean.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-a-level-above-my-highest-would-mean.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c5331e4de8db2f03eeec9332a7c935920cc665e7
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-a-level-above-my-highest-would-mean.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatALevelAboveMyHighestWouldMean = {
++  id: "01a077f1-8985-7c90-8fd8-6ead09b99cbe",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-a-level-above-my-highest-would-mean",
++  topicSlug: "the-ceiling-i-am-climbing-back-to",
++  ask: "I think the old hundred percent was not the ceiling. What would a level above my own highest mean, and could this experiment measure such a level?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-highest-self-is-a-setting-or-a-kind.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-highest-self-is-a-setting-or-a-kind.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2ee0d2081bf7e59459abbd6f9baeec06e7c624ec
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-highest-self-is-a-setting-or-a-kind.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyHighestSelfIsASettingOrAKind = {
++  id: "01a077f1-8984-74f0-8ee2-5c6fdcd73a19",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-highest-self-is-a-setting-or-a-kind",
++  topicSlug: "the-ceiling-i-am-climbing-back-to",
++  ask: "Is what keeps me out of my highest self a setting nobody has built yet, which I could close, or a difference in kind I can only be walked into from outside?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-lever-the-medication-moves.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-lever-the-medication-moves.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dfc88efd4a03b8f8d793b4ca637a455c8595507f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-lever-the-medication-moves.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichLeverTheMedicationMoves = {
++  id: "01a077f1-8985-71fb-a327-b8232e74ffb4",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-lever-the-medication-moves",
++  topicSlug: "the-ceiling-i-am-climbing-back-to",
++  ask: "Which lever does the medication move: the reserve I can use, the rate I recover at, or what each thing costs me?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-ceiling-i-am-climbing-back-to.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-ceiling-i-am-climbing-back-to.all-about-alan-topic.ts
+index 40d5a0f859d99a12943bcd1d80865baf215e40fd..977c0c56459a818f05f934ad919667cc335390ea 100644
+--- a/alan/books/all-about-alan/topics/pages/the-ceiling-i-am-climbing-back-to.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-ceiling-i-am-climbing-back-to.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const theCeilingIAmClimbingBackTo = {
+   relatedSlugs: ["the-two-decades-i-came-through", "when-something-is-fun"],
+   settled:
+     "Measured at twenty against thirty-eight, my resilience had fallen by at least ninety-nine percent.\n\nI am back to about five percent of it, and near ten with medication.\n\nAgeing cannot explain a fall that size, so most of it is damage and most of it should come back.\n\nAt one percent I was a senior engineer and at two an executive, which is what the headroom means.\n\nThe highest version of me is proven rather than imagined. Play stands me in it. What I fear is reaching it for good.",
+-  unsettled:
+-    "Whether what keeps me from standing in my highest self is a setting nobody has built yet, which I could close, or a difference in kind I can only be walked into from outside, is open.\n\nWhich lever the medication moves, the reserve I can use, the rate I recover at, or what each thing costs me, is unprobed.\n\nI think the old hundred percent was not the ceiling. What a level above my own highest would mean, and whether this experiment could measure it, is open.",
+ } as const satisfies AllAboutAlanTopic
