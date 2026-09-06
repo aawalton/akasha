@@ -20,17 +20,17 @@ export const exerciseLoadModel = {
     {
       invariantKind: "departure",
       statement:
-        "A movement named outright takes the implement count named rather than the worked one.",
+        "A movement named outright takes the implement count named rather than the count worked out.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A movement lifting no bodyweight states a load factor of nothing rather than none.",
+        "A movement lifting no bodyweight states a load factor of zero rather than no load factor.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A leg or hip movement lifts bodyweight only where its name says squat, lunge or hinge.",
+        "A leg or hip movement lifts bodyweight only where its name says squat or lunge or hinge.",
     },
   ],
 } as const satisfies Module
