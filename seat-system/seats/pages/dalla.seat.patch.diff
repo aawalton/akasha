@@ -1,0 +1,234 @@
+diff --git a/changes/pages/rename-code-token/rename-code-token.change.code.ts b/changes/pages/rename-code-token/rename-code-token.change.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..de7ed33916fa5d879ad16ccd24df5cf096e9593e
+--- /dev/null
++++ b/changes/pages/rename-code-token/rename-code-token.change.code.ts
+@@ -0,0 +1 @@
++export * from "../../refactor-changes/pages/rename-code-token/rename-code-token.refactor-change.code.ts"
+diff --git a/changes/pages/rename-code-token/rename-code-token.change.ts b/changes/pages/rename-code-token/rename-code-token.change.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..874da8ec60e72b0260224055188d2373c12f3f05
+--- /dev/null
++++ b/changes/pages/rename-code-token/rename-code-token.change.ts
+@@ -0,0 +1,13 @@
++import type { Change } from "../../change.page-type.ts"
++
++export const renameCodeToken = {
++  id: "01a07718-c9b6-7d80-aebd-b1155f08ab77",
++  pageTypeSlug: "change",
++  slug: "rename-code-token",
++  definition: "a name a code file declares renamed wherever it reaches, exported or not",
++  code: "ts",
++  isCommand: true,
++  runsChecks: true,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies Change
+diff --git a/changes/pages/rename-export/rename-export.change.code.ts b/changes/pages/rename-export/rename-export.change.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..390c588e0958ff49076d3438f0ef09a4c7b6d500
+--- /dev/null
++++ b/changes/pages/rename-export/rename-export.change.code.ts
+@@ -0,0 +1 @@
++export * from "../../atomic-changes/pages/rename-export/rename-export.atomic-change.code.ts"
+diff --git a/changes/pages/rename-export/rename-export.change.ts b/changes/pages/rename-export/rename-export.change.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..19017a33abfe49a2fb04077e4c4c2b467f3ae4e1
+--- /dev/null
++++ b/changes/pages/rename-export/rename-export.change.ts
+@@ -0,0 +1,13 @@
++import type { Change } from "../../change.page-type.ts"
++
++export const renameExport = {
++  id: "01a07718-c9b4-77ab-8808-bca59667ac93",
++  pageTypeSlug: "change",
++  slug: "rename-export",
++  definition: "the change spelling one export and everything that names it anew",
++  code: "ts",
++  isCommand: false,
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies Change
+diff --git a/changes/pages/rename-local-variable/rename-local-variable.change.code.ts b/changes/pages/rename-local-variable/rename-local-variable.change.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..da75b057f445c92af5f1751b690f73c4d42bdf45
+--- /dev/null
++++ b/changes/pages/rename-local-variable/rename-local-variable.change.code.ts
+@@ -0,0 +1 @@
++export * from "../../atomic-changes/pages/rename-local-variable/rename-local-variable.atomic-change.code.ts"
+diff --git a/changes/pages/rename-local-variable/rename-local-variable.change.ts b/changes/pages/rename-local-variable/rename-local-variable.change.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..01b74de5241d9d528750207dc6a5fd01f07372f1
+--- /dev/null
++++ b/changes/pages/rename-local-variable/rename-local-variable.change.ts
+@@ -0,0 +1,13 @@
++import type { Change } from "../../change.page-type.ts"
++
++export const renameLocalVariable = {
++  id: "01a07718-c9b5-7a1b-822f-308aef9ac22a",
++  pageTypeSlug: "change",
++  slug: "rename-local-variable",
++  definition: "the change spelling a local binding and its references anew in one file",
++  code: "ts",
++  isCommand: false,
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies Change
+diff --git a/changes/pages/rename-page-slug/rename-page-slug.change.code.ts b/changes/pages/rename-page-slug/rename-page-slug.change.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f39b87b1d62b82423784fc70c0c485de281481f1
+--- /dev/null
++++ b/changes/pages/rename-page-slug/rename-page-slug.change.code.ts
+@@ -0,0 +1 @@
++export * from "../../atomic-changes/pages/rename-page-slug/rename-page-slug.atomic-change.code.ts"
+diff --git a/changes/pages/rename-page-slug/rename-page-slug.change.ts b/changes/pages/rename-page-slug/rename-page-slug.change.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..54481ec6d6e01f035ebe433da188ceb81b5fbb72
+--- /dev/null
++++ b/changes/pages/rename-page-slug/rename-page-slug.change.ts
+@@ -0,0 +1,13 @@
++import type { Change } from "../../change.page-type.ts"
++
++export const renamePageSlug = {
++  id: "01a07718-c9b6-7230-ae96-ff2f36a19ec1",
++  pageTypeSlug: "change",
++  slug: "rename-page-slug",
++  definition: "one page's slug restated in its own body and in the data of every page naming it",
++  code: "ts",
++  isCommand: false,
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies Change
+diff --git a/changes/pages/rename-page/rename-page.change.code.ts b/changes/pages/rename-page/rename-page.change.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a5e721e9b9f4e42bcfd05a74b38c0b45435462f8
+--- /dev/null
++++ b/changes/pages/rename-page/rename-page.change.code.ts
+@@ -0,0 +1 @@
++export * from "../../refactor-changes/pages/rename-page/rename-page.refactor-change.code.ts"
+diff --git a/changes/pages/rename-page/rename-page.change.ts b/changes/pages/rename-page/rename-page.change.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..570330c03377a8e88066a50213e652cbedb82013
+--- /dev/null
++++ b/changes/pages/rename-page/rename-page.change.ts
+@@ -0,0 +1,13 @@
++import type { Change } from "../../change.page-type.ts"
++
++export const renamePage = {
++  id: "01a07718-c9b6-7e8c-bc13-5927529ac249",
++  pageTypeSlug: "change",
++  slug: "rename-page",
++  definition: "a page renamed and carried to where its slug says, in the data and in every name",
++  code: "ts",
++  isCommand: true,
++  runsChecks: true,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies Change
+diff --git a/changes/pages/rename-path/rename-path.change.code.ts b/changes/pages/rename-path/rename-path.change.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..32541351e33f2c135832d722f06dd28562202d9c
+--- /dev/null
++++ b/changes/pages/rename-path/rename-path.change.code.ts
+@@ -0,0 +1 @@
++export * from "../../atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts"
+diff --git a/changes/pages/rename-path/rename-path.change.ts b/changes/pages/rename-path/rename-path.change.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..45a69f1e72ee4b10cc09d5f1592479df3fd686b7
+--- /dev/null
++++ b/changes/pages/rename-path/rename-path.change.ts
+@@ -0,0 +1,13 @@
++import type { Change } from "../../change.page-type.ts"
++
++export const renamePath = {
++  id: "01a07718-c9b6-7bb2-9eb2-27a44ed4fe7d",
++  pageTypeSlug: "change",
++  slug: "rename-path",
++  definition: "one file's path changed, with every body importing it repointed",
++  code: "ts",
++  isCommand: false,
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies Change
+diff --git a/changes/pages/rename-property-signature/rename-property-signature.change.code.ts b/changes/pages/rename-property-signature/rename-property-signature.change.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fab454116a31d3ac8a838dedcd5a7b2dc9bf2648
+--- /dev/null
++++ b/changes/pages/rename-property-signature/rename-property-signature.change.code.ts
+@@ -0,0 +1 @@
++export * from "../../atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.code.ts"
+diff --git a/changes/pages/rename-property-signature/rename-property-signature.change.ts b/changes/pages/rename-property-signature/rename-property-signature.change.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ce1028c8cfbc9f4683a91b102a10bc498513255b
+--- /dev/null
++++ b/changes/pages/rename-property-signature/rename-property-signature.change.ts
+@@ -0,0 +1,13 @@
++import type { Change } from "../../change.page-type.ts"
++
++export const renamePropertySignature = {
++  id: "01a07718-c9b6-74eb-b71b-e0d52b81f5b7",
++  pageTypeSlug: "change",
++  slug: "rename-property-signature",
++  definition: "one property a type declares spelled anew wherever the checker resolves to it",
++  code: "ts",
++  isCommand: false,
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies Change
+diff --git a/changes/pages/repoint-imports/repoint-imports.change.code.ts b/changes/pages/repoint-imports/repoint-imports.change.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c60b67d914e91947e737bc589fa76e77bd153b58
+--- /dev/null
++++ b/changes/pages/repoint-imports/repoint-imports.change.code.ts
+@@ -0,0 +1 @@
++export * from "../../partial/pages/repoint-imports/repoint-imports.change-partial.code.ts"
+diff --git a/changes/pages/repoint-imports/repoint-imports.change.ts b/changes/pages/repoint-imports/repoint-imports.change.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..50caf64e9734931d3ae1d8c88b16f63edc6ae832
+--- /dev/null
++++ b/changes/pages/repoint-imports/repoint-imports.change.ts
+@@ -0,0 +1,13 @@
++import type { Change } from "../../change.page-type.ts"
++
++export const repointImports = {
++  id: "01a07718-c9b6-7696-a9d0-77a8605d3a0b",
++  pageTypeSlug: "change",
++  slug: "repoint-imports",
++  definition: "a body rewritten so the paths it names follow the files that moved",
++  code: "ts",
++  isCommand: false,
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies Change
+diff --git a/changes/pages/respell-export/respell-export.change.code.ts b/changes/pages/respell-export/respell-export.change.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ccc49a4337361a7925b3b956ff23f6c7fe7d5d31
+--- /dev/null
++++ b/changes/pages/respell-export/respell-export.change.code.ts
+@@ -0,0 +1 @@
++export * from "../../partial/pages/respell-export/respell-export.change-partial.code.ts"
+diff --git a/changes/pages/respell-export/respell-export.change.ts b/changes/pages/respell-export/respell-export.change.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e31576ea97452bde435a5795f331ae7c9889592d
+--- /dev/null
++++ b/changes/pages/respell-export/respell-export.change.ts
+@@ -0,0 +1,13 @@
++import type { Change } from "../../change.page-type.ts"
++
++export const respellExport = {
++  id: "01a07718-c9b7-70da-a720-619f59483340",
++  pageTypeSlug: "change",
++  slug: "respell-export",
++  definition: "a name one body exports spelled anew across the paths a caller hands in",
++  code: "ts",
++  isCommand: false,
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++} as const satisfies Change
