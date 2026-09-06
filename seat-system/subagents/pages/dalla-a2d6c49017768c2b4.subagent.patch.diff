@@ -1,0 +1,16 @@
+diff --git a/checks/modules/judging/judging.module.types.ts b/checks/modules/judging/judging.module.types.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fd98e9343c66452c65633616c7edbe17429c8bbb
+--- /dev/null
++++ b/checks/modules/judging/judging.module.types.ts
+@@ -0,0 +1,10 @@
++import { readFileSync } from "node:fs"
++
++export type Seeded = {
++  readonly path: string
++  readonly reason: string
++}
++
++export function seededFrom(at: string): Seeded {
++  return { path: at, reason: readFileSync(at, "utf-8") }
++}
