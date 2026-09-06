@@ -1,3 +1,52 @@
+diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
+index e373d042f2ce7912ab9e8714f5453895ba8b02f5..9ad9435c3895da4094bc780d0cb206362d4d7375 100644
+--- a/command-system/asking/asking.module.ts
++++ b/command-system/asking/asking.module.ts
+@@ -27,7 +27,7 @@ export const asking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A draft runs the checks a landing runs and the warrants a landing runs.",
++      statement: "A draft runs the checks a landing runs and owes the reading a landing owes.",
+     },
+     {
+       invariantKind: "departure",
+@@ -56,7 +56,7 @@ export const asking = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "That refusal names the hook that puts a subagent's page up and the command to run to put one up.",
++        "That refusal names the hook putting a subagent's page up and the command to put that page up.",
+     },
+     {
+       invariantKind: "departure",
+@@ -129,7 +129,7 @@ export const asking = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Formatting, the lockfile and the worked type are worked out before the hold is taken.",
++        "Formatting and the lockfile and the worked type are worked out before the hold is taken.",
+     },
+     {
+       invariantKind: "departure",
+@@ -177,7 +177,7 @@ export const asking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Reaching a body tells a path nothing is at from one that will not open.",
++      statement: "Reaching a body tells a path nothing is at from a path that will not open.",
+     },
+     {
+       invariantKind: "departure",
+@@ -197,7 +197,7 @@ export const asking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The kind that ran no check is named in the commit as the reason none ran.",
++      statement: "The kind that ran no check is named in the commit as the reason no check ran.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/command-system/calling/calling.module.ts b/command-system/calling/calling.module.ts
 index 7afc868f082e3fbda80db98e4af26720585aa678..0dac9d7f60216ab48372c75ddd2b4d721bf9c4de 100644
 --- a/command-system/calling/calling.module.ts
