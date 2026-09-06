@@ -1,0 +1,58 @@
+diff --git a/readout-system/readout-groups/pages/safety.readout-group.ts b/readout-system/readout-groups/pages/safety.readout-group.ts
+index cba786b5d06b450b423e88234a6b3de4e6152c52..f3659a412aa7a74e3ebf6e9bd8a386b40a45c5c2 100644
+--- a/readout-system/readout-groups/pages/safety.readout-group.ts
++++ b/readout-system/readout-groups/pages/safety.readout-group.ts
+@@ -5,10 +5,15 @@ export const safety = {
+   pageTypeSlug: "readout-group",
+   slug: "safety",
+   definition: "how safe things are where Alan is",
++  figureOffScale: true,
+   invariants: [
+     {
+       invariantKind: "departure",
+       statement: "The color reports where Alan is rather than whether Alan did well.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A level draws its figure at either end of its scale, the tile drawing it alone.",
++    },
+   ],
+ } as const satisfies ReadoutGroup
+diff --git a/readout-system/readout-groups/properties/figure-off-scale.boolean-property.ts b/readout-system/readout-groups/properties/figure-off-scale.boolean-property.ts
+index 5db2c491ebea2c19852a64decd2142b24275413f..8d3e1fd62738633be3df58eeb918c5c9136c9601 100644
+--- a/readout-system/readout-groups/properties/figure-off-scale.boolean-property.ts
++++ b/readout-system/readout-groups/properties/figure-off-scale.boolean-property.ts
+@@ -11,7 +11,16 @@ export const figureOffScale = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A readout stating nothing draws no number past either end of its scale.",
++      statement: "A group stating nothing draws no number past either end of its scale.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A reading has no number to draw past either end of its scale where this is false.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A reading between two rungs draws its number whatever this states.",
+     },
+   ],
+ } as const satisfies BooleanProperty
+diff --git a/readout-system/readout-groups/readout-group.page-type.ts b/readout-system/readout-groups/readout-group.page-type.ts
+index 4dc8f7d7ad6bc005a7ec77ab69e169a0eff3add4..ed9f21650f769b97f6dc80dcd73eb7bc5904cd89 100644
+--- a/readout-system/readout-groups/readout-group.page-type.ts
++++ b/readout-system/readout-groups/readout-group.page-type.ts
+@@ -1,9 +1,11 @@
+ import type { Domain } from "@akasha/domains/domain"
+ import type { PageType } from "@akasha/pages/page-type"
++import type { FigureOffScale } from "./properties/figure-off-scale.boolean-property.ts"
+ import type { SortOrder } from "./properties/sort-order.text-property.ts"
+ 
+ export type ReadoutGroup = Domain & {
+   sortOrder?: SortOrder
++  figureOffScale?: FigureOffScale
+ }
+ 
+ export const readoutGroup = {
