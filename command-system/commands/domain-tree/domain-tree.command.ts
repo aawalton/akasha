@@ -37,7 +37,11 @@ export const domainTree = {
     },
     {
       invariantKind: "departure",
-      statement: "This command takes no word, and a call naming one is refused.",
+      statement: "This command takes no word.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming a word is refused.",
     },
     {
       invariantKind: "absence",
