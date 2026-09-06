@@ -6214,19 +6214,22 @@ index 7a1c6482bac7c4b08c2e8085a690449869d43149..4ccf73210ec92d66dad157f6a2536dd3
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/readout-system/readout-widgets/properties/opens.text-property.ts b/readout-system/readout-widgets/properties/opens.text-property.ts
-index eb84b501aadb37e0ae21fabf80beaf67609831ff..1561d7f47195dd954d729318285f5853e5d05252 100644
+index 88b82b420e7d83bb969cf963aca4c62cad99b664..6935935c4ec9d4002a7184027efb7746920d1164 100644
 --- a/readout-system/readout-widgets/properties/opens.text-property.ts
 +++ b/readout-system/readout-widgets/properties/opens.text-property.ts
-@@ -8,6 +8,6 @@ export const opens = {
+@@ -8,6 +8,10 @@ export const opens = {
    slug: "opens",
    propertySlug: "opens",
    definition: "where a tap on a widget goes",
--  max: 100,
++<<<<<<< what this change would leave
 +  maxLength: 100,
++=======
+   max: 150,
++>>>>>>> what HEAD holds
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/readout-system/readout-widgets/readout-widget.page-type.ts b/readout-system/readout-widgets/readout-widget.page-type.ts
-index c8b0478b238de7f6033f139cc395624892b34115..c56704aa91bb2e5813706fbe1cd564a19a1db3af 100644
+index d3aef2ee3054214655ee487d6607f675033fa24e..256cee7ed8c7dcb93ff0ed23a1f41ac863344fae 100644
 --- a/readout-system/readout-widgets/readout-widget.page-type.ts
 +++ b/readout-system/readout-widgets/readout-widget.page-type.ts
 @@ -64,13 +64,18 @@ export const readoutWidget = {
@@ -6790,6 +6793,19 @@ index 2e71331c11481ef46883539d589465903e377d5e..b6176b0057de2968dc4caeb2c25457c4
    definition: "the times the cluster starts a workload",
 -  max: 100,
 +  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/cluster-services/properties/image.text-property.ts b/service-system/cluster-services/properties/image.text-property.ts
+index 7c96243acd9002f26e0980a1cfb33a694abe4c1f..031901f4e1ae4b273d6b6579328e40a5deba1d72 100644
+--- a/service-system/cluster-services/properties/image.text-property.ts
++++ b/service-system/cluster-services/properties/image.text-property.ts
+@@ -8,7 +8,7 @@ export const image = {
+   slug: "image",
+   propertySlug: "image",
+   definition: "the container image a workload's pods run",
+-  max: 253,
++  maxLength: 253,
    nameFormatSlug: null,
    invariants: [
      {
