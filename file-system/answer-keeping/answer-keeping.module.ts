@@ -31,7 +31,7 @@ export const answerKeeping = {
     },
     {
       invariantKind: "departure",
-      statement: "The code working an answer out is one of that answer's inputs.",
+      statement: "The code working an answer out is an input to that answer.",
     },
     {
       invariantKind: "departure",
