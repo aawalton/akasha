@@ -11,6 +11,19 @@ index 56c57c2cc7c3ca080f1f4f6ebfaa89928e85a233..ade0a3c1dac500425fbe75dcf6cc366c
    groupSlugs: ["claude-usage"],
    place: 2,
  } as const satisfies ReadoutWidget
+diff --git a/readout-system/readout-widgets/pages/alanwalton-inbox-stoplights.readout-widget.ts b/readout-system/readout-widgets/pages/alanwalton-inbox-stoplights.readout-widget.ts
+index 269d5dca4c00043c180218bc91faf65d862c4514..3399888a29335c0cd2b330e3871282d345d8a4e8 100644
+--- a/readout-system/readout-widgets/pages/alanwalton-inbox-stoplights.readout-widget.ts
++++ b/readout-system/readout-widgets/pages/alanwalton-inbox-stoplights.readout-widget.ts
+@@ -12,7 +12,7 @@ export const alanwaltonInboxStoplights = {
+   feed: "https://alanwalton.com/api/inbox-stoplights",
+   galleryName: "Inboxes",
+   galleryDescription: "Your three inbox stoplights, at a glance.",
+-  opens: "capacitor://localhost/nav/tasks-a7242626",
++  opens: "capacitor://localhost/nav/tasks-a7242626#widget=alanwalton-inbox-stoplights",
+   groupSlugs: ["inboxes"],
+   place: 3,
+ } as const satisfies ReadoutWidget
 diff --git a/readout-system/readout-widgets/pages/alanwalton-safety-level.readout-widget.ts b/readout-system/readout-widgets/pages/alanwalton-safety-level.readout-widget.ts
 index 93e545350c87d28726a225c516b962ff47f84393..446fa56996c59b3b933d3c03214320ae93cedaaf 100644
 --- a/readout-system/readout-widgets/pages/alanwalton-safety-level.readout-widget.ts
