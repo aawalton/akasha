@@ -37,6 +37,13 @@ export default workflow("grafana", {
         name: "grafana-apply-secrets",
         namespace: "grafana",
         resource: "grafana-secrets",
+        labels: {
+          "app.kubernetes.io/name": "grafana",
+          "app.kubernetes.io/instance": "grafana",
+          "app.kubernetes.io/component": "secrets",
+          "app.kubernetes.io/part-of": "monitoring",
+          "app.kubernetes.io/managed-by": "bootstrap",
+        },
       }),
       dependsOn: ["grafana-apply-namespace"],
     },

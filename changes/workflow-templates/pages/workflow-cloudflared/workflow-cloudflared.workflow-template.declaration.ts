@@ -26,6 +26,13 @@ export default workflow("cloudflared", {
       name: "cloudflared-apply-secret",
       namespace: "cloudflared",
       resource: "cloudflared-creds",
+      labels: {
+        "app.kubernetes.io/name": "cloudflared",
+        "app.kubernetes.io/instance": "infra",
+        "app.kubernetes.io/component": "tunnel",
+        "app.kubernetes.io/part-of": "infra",
+        "app.kubernetes.io/managed-by": "deploy-script",
+      },
     }),
     step({
       name: "cloudflared-generate-and-apply-config",

@@ -47,6 +47,12 @@ export default workflow("registry", {
         namespace: "registry",
         resource: "registry-tls",
         type: "kubernetes.io/tls",
+        labels: {
+          "app.kubernetes.io/component": "registry",
+          "app.kubernetes.io/instance": "infra",
+          "app.kubernetes.io/name": "registry",
+          "app.kubernetes.io/part-of": "infra",
+        },
       }),
       dependsOn: ["registry-apply"],
     },
