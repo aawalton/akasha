@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/imessage/commands/imessage-unread-list/imessage-unread-list.command.ts b/imessage/commands/imessage-unread-list/imessage-unread-list.command.ts
+index 174708727c9290102e53e2ab7a0b35fbe69ecfce..be009600d33e508178190bf63cd0eee948cbf954 100644
+--- a/imessage/commands/imessage-unread-list/imessage-unread-list.command.ts
++++ b/imessage/commands/imessage-unread-list/imessage-unread-list.command.ts
+@@ -30,7 +30,7 @@ export const imessageUnreadList = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Saying no limit answers every unread message rather than a first few.",
++      statement: "Saying no limit answers every unread message rather than a capped list.",
+     },
+     {
+       invariantKind: "departure",
