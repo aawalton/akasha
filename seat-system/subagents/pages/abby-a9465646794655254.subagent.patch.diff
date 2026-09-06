@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-my-game-of-life-algorithm-worked.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-my-game-of-life-algorithm-worked.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1819ccc2f5fded4843307806b3009ae738b84bd9
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-my-game-of-life-algorithm-worked.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howMyGameOfLifeAlgorithmWorked = {
++  id: "01a077e2-fc02-7d52-8809-eef426f0a3f3",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-my-game-of-life-algorithm-worked",
++  topicSlug: "being-an-inventor-not-a-coder",
++  ask: "How did my novel algorithm for optimising The Game of Life work?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-my-ms-cs-program-ended.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-my-ms-cs-program-ended.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..774e64ae29bfc4e0f17bed699da962a3b6a35e14
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-my-ms-cs-program-ended.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howMyMsCsProgramEnded = {
++  id: "01a077e2-fc04-7cde-9ac2-b063334ee0e7",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-my-ms-cs-program-ended",
++  topicSlug: "being-an-inventor-not-a-coder",
++  ask: "How did the MS CS program I did for a while end?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-moore-method-gave-me.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-moore-method-gave-me.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..426df539a0454f10974f4dd5c81964444516f445
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-the-moore-method-gave-me.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTheMooreMethodGaveMe = {
++  id: "01a077e2-fc04-7a4d-aae6-6e11dc6dc04f",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-the-moore-method-gave-me",
++  topicSlug: "being-an-inventor-not-a-coder",
++  ask: "What did the Moore method give me, and does the Moore method show up in how I build now?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/being-an-inventor-not-a-coder.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/being-an-inventor-not-a-coder.all-about-alan-topic.ts
+index bec8f9d67f80c4428373f3f9f038dc2511cd73bf..95bdd239a7cef21bc8504137cbb30995c4483b4d 100644
+--- a/alan/books/all-about-alan/topics/pages/being-an-inventor-not-a-coder.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/being-an-inventor-not-a-coder.all-about-alan-topic.ts
+@@ -14,6 +14,4 @@ export const beingAnInventorNotACoder = {
+   ],
+   settled:
+     "I am an excellent coder, but that has never been my identity.\n\nI am an inventor and problem solver. Code is just a powerful way to stack abstractions.\n\nI loved the Moore method in math.\n\nOne of my proudest moments was inventing a novel algorithm for optimising The Game of Life, in an MS CS program I did for a while.\n\nI am doing the same thing now that I was a year ago, just with literally a hundred times more leverage than I had before.",
+-  unsettled:
+-    "The Game of Life algorithm is named and never described.\n\nThe MS CS program is one I did for a while. How it ended is unwritten.\n\nWhat the Moore method gave me, and whether it shows up in how I build now, is unprobed.",
+ } as const satisfies AllAboutAlanTopic
