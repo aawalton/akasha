@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/commands/track/session-rows/session-rows.module.ts b/command-system/commands/track/session-rows/session-rows.module.ts
+index cdce95577de19890cd9535df7f55ac6ba9c92fa8..a0b68153f7e81db3c534a47735adff2fcb5f3e30 100644
+--- a/command-system/commands/track/session-rows/session-rows.module.ts
++++ b/command-system/commands/track/session-rows/session-rows.module.ts
+@@ -55,7 +55,7 @@ export const sessionRows = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A relationship a caller names is kept beside one a title tagged.",
++      statement: "A relationship a caller names is kept beside a relationship a title tagged.",
+     },
+     {
+       invariantKind: "absence",
