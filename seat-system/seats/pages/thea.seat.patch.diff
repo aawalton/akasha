@@ -9067,10 +9067,10 @@ index 0173d3ad721fc060f325452b7f15be9f9bbc022e..27874a9d11802d67bf4f5f9f03977564
    ],
  } as const satisfies PageType
 diff --git a/temper/temper-catalog/temper-gear/temper-gear-things/temper-gear-thing.page-type.ts b/temper/temper-catalog/temper-gear/temper-gear-things/temper-gear-thing.page-type.ts
-index 1da526c54235e4b6aa0854e5f8ca6e2cd06aa5eb..04a26e73ec6c8289de9875760733ddc3817f541e 100644
+index 1da526c54235e4b6aa0854e5f8ca6e2cd06aa5eb..396b850ce96ac71cbf7ad5712ddda67e887c59d2 100644
 --- a/temper/temper-catalog/temper-gear/temper-gear-things/temper-gear-thing.page-type.ts
 +++ b/temper/temper-catalog/temper-gear/temper-gear-things/temper-gear-thing.page-type.ts
-@@ -37,7 +37,7 @@ export const temperGearThing = {
+@@ -37,15 +37,14 @@ export const temperGearThing = {
      { pagePropertySlug: "text-property/glyph-name", required: false, many: false },
      { pagePropertySlug: "text-property/essence-rune", required: false, many: false },
      { pagePropertySlug: "text-property/eso-enchant-constant-name", required: false, many: false },
@@ -9079,6 +9079,15 @@ index 1da526c54235e4b6aa0854e5f8ca6e2cd06aa5eb..04a26e73ec6c8289de9875760733ddc3
      { pagePropertySlug: "text-property/item-level", required: false, many: false },
      { pagePropertySlug: "number-property/potion-seconds", required: false, many: false },
    ],
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A key two gear page types both carry is declared here rather than in each page type.",
++      statement: "A key two gear page types carry is declared here rather than in each page type.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/temper/temper-catalog/temper-gear/weapon-types/temper-weapon-type.page-type.ts b/temper/temper-catalog/temper-gear/weapon-types/temper-weapon-type.page-type.ts
 index ad24c763d9d176b8e09c8cf109b2794e45e8bffb..2a848686ac862ef7dd3faf878b7442788b777b2e 100644
 --- a/temper/temper-catalog/temper-gear/weapon-types/temper-weapon-type.page-type.ts
