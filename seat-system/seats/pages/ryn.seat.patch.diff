@@ -1,0 +1,18 @@
+diff --git a/seat-system/seat-resume/seat-resume.module.ts b/seat-system/seat-resume/seat-resume.module.ts
+index d99c083c385f21c6e49e99fa6a46b8ebd6522ffa..57a806ca7cf76f13930e8b6f332964915f43ba00 100644
+--- a/seat-system/seat-resume/seat-resume.module.ts
++++ b/seat-system/seat-resume/seat-resume.module.ts
+@@ -13,8 +13,11 @@ export const seatResume = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The command reads arguments and writes the answer, and the functions the command calls do neither.",
++      statement: "The command reads the arguments and writes the answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A function the command calls reads no argument and writes no answer.",
+     },
+     {
+       invariantKind: "departure",
