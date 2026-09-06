@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/alan/fitness/commands/exercise-ranks/exercise-ranks.command.ts b/alan/fitness/commands/exercise-ranks/exercise-ranks.command.ts
+index 7db02c5580d955b21cd7acc985ef22e4fc4dac48..99fb8b418cf414ae3261d99bf7525917e1fcdb95 100644
+--- a/alan/fitness/commands/exercise-ranks/exercise-ranks.command.ts
++++ b/alan/fitness/commands/exercise-ranks/exercise-ranks.command.ts
+@@ -34,8 +34,7 @@ export const exerciseRanks = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Naming movements ranks those movements alone and holds back none of those movements.",
++      statement: "Naming movements ranks those movements alone and holds back no movement named.",
+     },
+     {
+       invariantKind: "departure",
