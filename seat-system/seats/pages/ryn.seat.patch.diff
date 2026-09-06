@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/infrastructure/metrics/metric.domain.ts b/infrastructure/metrics/metric.domain.ts
+index e8119cdbc5cc9a4ce15046611da669b1cc60a027..cb7d5a6fac34da9acbcd69be9ef74f82c191a810 100644
+--- a/infrastructure/metrics/metric.domain.ts
++++ b/infrastructure/metrics/metric.domain.ts
+@@ -13,7 +13,7 @@ export const metric = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Most of a metric comes from an instrument rather than from the thing measured.",
++      statement: "A metric comes largely from an instrument rather than from the thing measured.",
+     },
+   ],
+ } as const satisfies Domain
