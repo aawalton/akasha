@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts b/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
+index 7c191ed94adb556b0ea9abb225500e508446bfb5..d6ee8063d30ed04d2def47034086946654d96dcf 100644
+--- a/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
++++ b/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
+@@ -14,7 +14,8 @@ export const accountUpkeepRunning = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Everything else that holds a credential reads one and makes none.",
++      statement:
++        "Everything else that holds a credential reads the credential rather than making a credential.",
+     },
+     {
+       invariantKind: "departure",
