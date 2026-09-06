@@ -1,26 +1,49 @@
 diff --git a/alan/relating/connection-activities/connection-activity.page-type.ts b/alan/relating/connection-activities/connection-activity.page-type.ts
-index 015e68668e7a0ea2c8ee574cbaf01c2302556685..4216a67915960dbdd98f53d781224730bee9457b 100644
+index 015e68668e7a0ea2c8ee574cbaf01c2302556685..432a1f39e5a3e5d1f7236477d2ba6260d242e4ba 100644
 --- a/alan/relating/connection-activities/connection-activity.page-type.ts
 +++ b/alan/relating/connection-activities/connection-activity.page-type.ts
-@@ -171,16 +171,17 @@ export const connectionActivity = {
+@@ -169,23 +169,39 @@ export const connectionActivity = {
+       invariantKind: "absence",
+       statement: "The number ordering the activities is no rating.",
      },
++    {
++      invariantKind: "departure",
++      statement: "The multiplier is the fourteen ratings multiplied together.",
++    },
      {
        invariantKind: "departure",
--      statement:
+       statement:
 -        "The multiplier is maturity, attractiveness, femininity, wit, kindness, reality, energy, positivity, attention, identification, intensity, novelty, modality and safety multiplied together.",
-+      statement: "The multiplier is the fourteen ratings multiplied together.",
++        "Reality counts a whole for authentic and a half for professional and a quarter for celebrity.",
      },
      {
        invariantKind: "departure",
 -      statement: "Reality counts one authentic, a half professional and a quarter celebrity.",
 +      statement:
-+        "Reality counts a whole for authentic and a half for professional and a quarter for celebrity.",
++        "Safety counts a quarter at L3 and a half at L4 and three quarters at L5 and a whole at L6.",
      },
      {
        invariantKind: "departure",
 -      statement: "Safety counts a quarter at L3, a half at L4, three quarters at L5 and one at L6.",
-+      statement:
-+        "Safety counts a quarter at L3 and a half at L4 and three quarters at L5 and a whole at L6.",
++      statement: "Modality adds a half for presence.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Modality adds up a half presence, a quarter audio, 0.15 digital presence, 0.15 text and 0.1 image.",
++      statement: "Modality adds a quarter for audio.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Modality adds 0.15 for digital presence.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Modality adds 0.15 for text.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Modality adds 0.1 for image.",
      },
      {
        invariantKind: "departure",
