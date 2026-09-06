@@ -7,7 +7,7 @@ export const changePartial = {
   id: "01a07656-40f5-7e99-b777-dcc9351443fe",
   pageTypeSlug: "page-type",
   slug: "change-partial",
-  definition: "a piece of a change that leaves the tree broken on its own",
+  definition: "a rewrite of the bodies handed to it, deciding nothing and finding nothing",
   pluralSlug: "change-partial",
   partSlugs: ["change-partial/repoint-imports", "change-partial/respell-export"],
   extendsSlug: ["page-type/module"],
