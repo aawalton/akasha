@@ -1,0 +1,14 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/editor-extension/vscode-api/vscode-api.type-declaration.d.ts b/editor-extension/vscode-api/vscode-api.type-declaration.d.ts
+index 953f7fee2b7737b6c7ae89672acfcf0ca384b47d..d04c58458fd4ce1fc3f3c59eba1fbc54443d1684 100644
+--- a/editor-extension/vscode-api/vscode-api.type-declaration.d.ts
++++ b/editor-extension/vscode-api/vscode-api.type-declaration.d.ts
+@@ -1,7 +1,3 @@
+-/*---------------------------------------------------------------------------------------------
+- *  Copyright (c) Microsoft Corporation. All rights reserved.
+- *  Licensed under the MIT License. See License.txt in the project root for license information.
+- *--------------------------------------------------------------------------------------------*/
+ 
+ declare module 'vscode' {
+ 
