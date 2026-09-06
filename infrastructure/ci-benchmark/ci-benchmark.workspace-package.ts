@@ -14,11 +14,15 @@ export const ciBenchmark = {
     },
     {
       invariantKind: "departure",
-      statement: "A pod the kubelet rejects is a destroyed run rather than a retried one.",
+      statement: "A pod the kubelet rejects is a destroyed run rather than a retried run.",
     },
     {
       invariantKind: "departure",
-      statement: "The store is empty at the start of every run, and independent of the node.",
+      statement: "The store is empty at the start of every run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The store is independent of the node.",
     },
     {
       invariantKind: "departure",
