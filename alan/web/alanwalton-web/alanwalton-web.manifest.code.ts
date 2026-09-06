@@ -13,6 +13,7 @@ import {
 import {
   ALANWALTON_WEB_CACHE,
   BUN_RUNTIME_IMAGE,
+  CONTAINER_TMP_PATH,
   ORCHESTRATOR_CACHE_REPO_PATH,
 } from "@akasha/k8s-types/orchestrator-cache-locations"
 import { secretChecksum } from "@akasha/k8s-types/secret-checksum"
@@ -39,6 +40,62 @@ const GIT_ACCESS_TOKEN_REF = {
   secretName: SECRET_NAME,
   secretKey: "GIT_ACCESS_TOKEN",
 } as const
+
+// A POD FINDING NO BUILD BESIDE THE SERVER MAKES ONE BEFORE THE SERVER IS ASKED TO START.
+//
+// The server loads build/server/index.js on its first line, so a pod with no build never becomes
+// ready. A deploy makes its build inside a pod that is already running, which that pod never is,
+// and the two together are a deadlock: nothing can build until something is up, and nothing comes
+// up until something has built. A node whose cache is cold, or a rename moving the source folder
+// away from the build the old folder held, is what puts a pod there.
+//
+// A build already beside the server is left alone, so what a deploy builds for a fresh commit is
+// what gets served rather than being made twice.
+function webBuildInitContainer(): object {
+  const script = [
+    "set -e",
+    `cd ${orchestratorCacheEntrypointPath("alan/web")}`,
+    "if [ -f build/server/index.js ]; then",
+    '  echo "init-build: a build is beside the server already"',
+    "  exit 0",
+    "fi",
+    `NEXT_PUBLIC_BUILD_SHA=$(git -C ${ORCHESTRATOR_CACHE_REPO_PATH} rev-parse HEAD)`,
+    "export NEXT_PUBLIC_BUILD_SHA",
+    'echo "init-build: building alan/web at $NEXT_PUBLIC_BUILD_SHA"',
+    "bun run build",
+    'echo "init-build: build complete"',
+  ].join("\n")
+
+  return {
+    name: "init-build",
+    image: BUN_RUNTIME_IMAGE,
+    imagePullPolicy: "IfNotPresent",
+    command: ["sh", "-c", script],
+    envFrom: [{ secretRef: { name: SECRET_NAME } }],
+    env: [
+      { name: "HOME", value: CONTAINER_TMP_PATH },
+      { name: "NODE_ENV", value: "production" },
+      { name: "NEXT_PUBLIC_SUPABASE_URL", value: "https://supabase.alanwalton.com" },
+      {
+        name: "NEXT_PUBLIC_ELECTRIC_URL",
+        value: "https://supabase.alanwalton.com/electric/v1/shape",
+      },
+      { name: "NEXT_PUBLIC_SUPABASE_COOKIE_DOMAIN", value: ".alanwalton.com" },
+    ],
+    resources: {
+      requests: { cpu: "500m", memory: "1Gi" },
+      limits: { memory: "4Gi" },
+    },
+    securityContext: {
+      runAsNonRoot: true,
+      runAsUser: 1000,
+      readOnlyRootFilesystem: true,
+      allowPrivilegeEscalation: false,
+      capabilities: { drop: ["ALL"] },
+    },
+    volumeMounts: orchestratorCacheVolumeMounts(),
+  }
+}
 
 function webDeploymentYaml(): string {
   return synthOne(NAMESPACE, "deployment", {
@@ -71,6 +128,7 @@ function webDeploymentYaml(): string {
               location: ALANWALTON_WEB_CACHE,
               memory: { request: "256Mi", limit: "2Gi" },
             }),
+            webBuildInitContainer(),
           ],
           containers: [
             {
