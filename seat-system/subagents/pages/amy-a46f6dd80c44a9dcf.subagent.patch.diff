@@ -60,6 +60,56 @@ index 401913388254532eb0f0244049da10fcbba9c13b..b408e715f950a2bf61d6ccf678c64300
    if (constitution.status === "fulfilled") kept[CONSTITUTION_PAGE] = constitution.value
    else unread.push(`${CONSTITUTION_PAGE} — ${whyOf(constitution.reason)}`)
  
+diff --git a/alan/harness/attributes/totalling/attributes-totalling.module.test.ts b/alan/harness/attributes/totalling/attributes-totalling.module.test.ts
+index 184b8ae757128e57437172f31445a6686e505c32..68d6816117559972a92efacdadd44114d830af72 100644
+--- a/alan/harness/attributes/totalling/attributes-totalling.module.test.ts
++++ b/alan/harness/attributes/totalling/attributes-totalling.module.test.ts
+@@ -1,6 +1,12 @@
+ import { expect, test } from "bun:test"
+ import { wisdomIn } from "@akasha/readout-system/attribute-wisdom"
+-import { charismaOf, type Day, totalOver } from "./attributes-totalling.module.code.ts"
++import {
++  ATTRIBUTES_COUNTED_FROM,
++  charismaOf,
++  type Day,
++  daysCounted,
++  totalOver,
++} from "./attributes-totalling.module.code.ts"
+ 
+ const AT_EASE_WITH_SOMEONE = {
+   safetyLevel: "3",
+@@ -30,6 +36,31 @@ test("a total over no day at all is absent", () => {
+   expect(totalOver([], wisdomIn)).toBeNull()
+ })
+ 
++test("the counting begins on 2026-09-06", () => {
++  expect(ATTRIBUTES_COUNTED_FROM).toBe("2026-09-06")
++})
++
++test("a day before the day the counting begins adds nothing", () => {
++  const days: readonly Day[] = [
++    { date: "2026-03-05", "wisdom-words": 10000 },
++    { date: "2026-09-05", "wisdom-words": 10000 },
++    { date: ATTRIBUTES_COUNTED_FROM, "wisdom-words": 10000 },
++  ]
++  expect(totalOver(daysCounted(days), wisdomIn)).toBe(1)
++})
++
++test("a run of days beginning before the day the counting begins opens on that day", () => {
++  const days: readonly Day[] = [
++    { date: "2026-03-05" },
++    { date: ATTRIBUTES_COUNTED_FROM },
++    { date: "2026-09-07" },
++  ]
++  expect(daysCounted(days).map((day) => day["date"])).toEqual([
++    ATTRIBUTES_COUNTED_FROM,
++    "2026-09-07",
++  ])
++})
++
+ test("a day's charisma is the hours of its stretches at ease with someone", () => {
+   expect(charismaOf({ sessions: [AT_EASE_WITH_SOMEONE] })).toBe(2)
+ })
 diff --git a/alan/harness/attributes/totalling/attributes-totalling.module.ts b/alan/harness/attributes/totalling/attributes-totalling.module.ts
 index c5006be3e5251ed4beed6c940fe41dea891c6381..4f8f857aa67f35411a996d5a7c2cd698583bdacc 100644
 --- a/alan/harness/attributes/totalling/attributes-totalling.module.ts
