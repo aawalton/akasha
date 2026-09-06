@@ -278,6 +278,18 @@ index 960a8269ae4b46af1fd89aec8975e84e6b744ad0..52a7b0e425f211b1f1f8e2ca0cebfa71
 +    },
 +  ],
  } as const satisfies Module
+diff --git a/alan/web/routes.ts b/alan/web/routes.ts
+index f4faae1752f01e2b0b6785c99252ce4681370d59..c5064529a6b2b78fdd936f7a55ae716f2f008693 100644
+--- a/alan/web/routes.ts
++++ b/alan/web/routes.ts
+@@ -31,6 +31,7 @@ export default [
+   route("api/safety-level", "routes/api.safety-level.ts"),
+   route("api/categorization", "routes/api.categorization.ts"),
+   route("api/readout-relay", "routes/api.readout-relay.ts"),
++  route("api/widget-tap", "routes/widget-tap/widget-tap.route.code.ts"),
+   route("api/sms/webhook", "routes/api.sms.webhook.ts"),
+   route("api/sms/opt-in", "routes/api.sms.opt-in.ts"),
+   route("api/spotify/callback", "routes/api.spotify.callback.ts"),
 diff --git a/alan/web/routes/widget-tap/widget-tap.route.code.ts b/alan/web/routes/widget-tap/widget-tap.route.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..64791a803595c0e6d2f9132c6e5b2771e13bf488
