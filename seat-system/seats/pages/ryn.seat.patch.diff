@@ -1,8 +1,8 @@
 diff --git a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
-index 1c16444c9184a15b0179bdcb186140b48ab14222..34fc216e59dc67d05f7b54336daa54d073532310 100644
+index 1c16444c9184a15b0179bdcb186140b48ab14222..f2884baa97b71b2bc51f2ad32453050215ac1be4 100644
 --- a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
 +++ b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
-@@ -13,8 +13,11 @@ export const supervisorHeartbeatBeat = {
+@@ -13,12 +13,15 @@ export const supervisorHeartbeatBeat = {
      },
      {
        invariantKind: "departure",
@@ -13,6 +13,11 @@ index 1c16444c9184a15b0179bdcb186140b48ab14222..34fc216e59dc67d05f7b54336daa54d0
 +    {
 +      invariantKind: "departure",
 +      statement: "A write that cannot await the beat runs the beat as a child.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A child's report is the last line of its stdout, read as JSON.",
++      statement: "A child's report is the last line of that child's stdout read as JSON.",
      },
      {
        invariantKind: "departure",
