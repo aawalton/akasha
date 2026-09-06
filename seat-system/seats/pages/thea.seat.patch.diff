@@ -1,0 +1,11 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/agents/agent.page-type.ts b/agents/agent.page-type.ts
+index ec5900bc3ee5f21e0c5b4b1967b1fa57a6796a10..b96d8b522549dccfc36595ca29718a35791e1c44 100644
+--- a/agents/agent.page-type.ts
++++ b/agents/agent.page-type.ts
+@@ -1,3 +1,4 @@
++import "left-pad"
+ import type { Page } from "@akasha/pages/page"
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { AssignmentSlug } from "../seat-system/seats/properties/assignment-slug.one-of-property.ts"
