@@ -1,0 +1,87 @@
+diff --git a/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts b/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts
+index aff9d890cea266fcc2ed6fc0b5386fa864bb1dc5..ec6d05e28524d0c5bb150fcc9a40d21e614646d1 100644
+--- a/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts
++++ b/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.ts
+@@ -6,4 +6,14 @@ export const alanwaltonStoplightRing = {
+   slug: "alanwalton-stoplight-ring",
+   definition: "the ring a stoplight reading is drawn on",
+   swift: "swift",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A reading past either end of its scale draws no number.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The tile drawing one reading alone draws that number, which this one does not.",
++    },
++  ],
+ } as const satisfies IosComponent
+diff --git a/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.swift.swift b/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.swift.swift
+index 1bc10cbc16a38e8b503e56bc99a7c834be667770..474411c369c899f60b1c1fb8590c35ba40075f90 100644
+--- a/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.swift.swift
++++ b/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.swift.swift
+@@ -51,10 +51,6 @@ struct SafetyRing: View {
+         return (nextTier, progress)
+     }
+ 
+-    private var isAtEnd: Bool {
+-        arc == nil && (tier == .black || tier == .blue)
+-    }
+-
+     var body: some View {
+         Ring(
+             stroke: .centred,
+@@ -73,14 +69,22 @@ struct SafetyRing: View {
+                 radius: tier == .blue ? 6 : 0
+             )
+         ) { metrics in
+-            if !isAtEnd {
+-                Text(reading ?? "—")
+-                    .font(.system(size: 44, weight: .bold, design: .rounded))
+-                    .foregroundStyle(Color(.label))
+-                    .minimumScaleFactor(0.4)
+-                    .lineLimit(1)
+-                    .padding(.horizontal, metrics.strokeWidth + SPACING_1)
+-            }
++            // THE LEVEL IS DRAWN WHEREVER THE LEVEL IS, INCLUDING AT EITHER END OF ITS SCALE.
++            //
++            // A level at the top of its scale has no tier above it, so the feed sends no next tier
++            // and no progress and there is no arc to draw. The number was hidden along with that
++            // arc, which left the tile showing a bare ring at the very reading worth showing, and
++            // did the same at the bottom. The arc says how far the next tier is and the number says
++            // where the level is; only the first of those runs out at the ends.
++            //
++            // The stoplight drawn among other stoplights goes on hiding it, six readings to a tile
++            // leaving no room for a number, and that ring is a view of its own.
++            Text(reading ?? "—")
++                .font(.system(size: 44, weight: .bold, design: .rounded))
++                .foregroundStyle(Color(.label))
++                .minimumScaleFactor(0.4)
++                .lineLimit(1)
++                .padding(.horizontal, metrics.strokeWidth + SPACING_1)
+         }
+     }
+ }
+diff --git a/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.ts b/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.ts
+index 41f0e8e0acb8b44ed20142209f960a57a1729bc0..89cd551984652de00035a53ef63850b2820f155a 100644
+--- a/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.ts
++++ b/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.ts
+@@ -11,5 +11,17 @@ export const safetyRing = {
+       invariantKind: "departure",
+       statement: "The feed sends a list of stoplights and only the first is drawn.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The level is drawn whatever the level is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A level at either end of its scale draws its number as any other level does.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A level with no tier above it draws no arc, the arc saying how far the next is.",
++    },
+   ],
+ } as const satisfies IosComponent
