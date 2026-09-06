@@ -47,3 +47,17 @@ index 49147c158b98489238f9366394237da3ed8da609..0c8022ad63dafb22a818aa1855912fd6
      },
      {
        invariantKind: "departure",
+diff --git a/person-system/people/email/email-rules/properties/email-rule-matches.record-property.ts b/person-system/people/email/email-rules/properties/email-rule-matches.record-property.ts
+index ce97fc18307da67b49a902a1c44fb085f8877bb8..d17f310729fc051e0900217938c2be8b81839638 100644
+--- a/person-system/people/email/email-rules/properties/email-rule-matches.record-property.ts
++++ b/person-system/people/email/email-rules/properties/email-rule-matches.record-property.ts
+@@ -39,9 +39,5 @@ export const emailRuleMatches = {
+     },
+     { invariantKind: "departure", statement: "A rule holding no clause catches nothing." },
+     { invariantKind: "departure", statement: "Two clauses on one field are two entries." },
+-    {
+-      invariantKind: "departure",
+-      statement: "A clause is one field, one comparison and the values the comparison weighs.",
+-    },
+   ],
+ } as const satisfies RecordProperty
