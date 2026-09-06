@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/client/monarch-client.module.ts b/alan/harness/monarch/client/monarch-client.module.ts
-index 27b9f42f81624034578071666f1346c0f6729807..f105d20edb57ee705d9c061ae505051839365700 100644
+index 27b9f42f81624034578071666f1346c0f6729807..68ec88b1017c233ddc2eca65f3fc6ab05505d446 100644
 --- a/alan/harness/monarch/client/monarch-client.module.ts
 +++ b/alan/harness/monarch/client/monarch-client.module.ts
 @@ -15,7 +15,7 @@ export const monarchClient = {
@@ -11,20 +11,30 @@ index 27b9f42f81624034578071666f1346c0f6729807..f105d20edb57ee705d9c061ae5050518
      },
      {
        invariantKind: "departure",
-@@ -29,8 +29,11 @@ export const monarchClient = {
+@@ -29,13 +29,19 @@ export const monarchClient = {
      },
      {
        invariantKind: "departure",
 -      statement:
 -        "An update stamp is asked for on its own, so a minute where nothing moved costs one call.",
 +      statement: "An update stamp is asked for on its own.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A minute where nothing moved costs one call.",
      },
      {
        invariantKind: "departure",
+-      statement:
+-        "The credential is handed in rather than read here, so the credential is one module's business.",
++      statement: "A minute where nothing moved costs one call.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The credential is handed in rather than read here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The credential is one module's business.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
 index e65a0ef521116b0d89798ba39460059e9ff719cc..16c40f535188cf056624dc2c7ae8f10f9e835128 100644
 --- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
