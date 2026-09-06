@@ -10,7 +10,7 @@ export const monarchSyncing = {
     {
       invariantKind: "departure",
       statement:
-        "The accounts, categories, tags, merchants, holdings and transactions are all landed on a full pass.",
+        "Every account and category and tag and merchant and holding and transaction lands on a full run.",
     },
     {
       invariantKind: "departure",
