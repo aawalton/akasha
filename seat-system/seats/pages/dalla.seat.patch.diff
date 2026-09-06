@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index c66bb7e018cfd5516752b88fe056f4b3ce2f7838..6c2907e34d3351f7a70bee613939cca9592fb273 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -81,5 +81,8 @@ export const dallaDraftIntoAPatch = {
+     "A subagent drafts by default rather than applying.",
+     "Alan settles each block's shape before it lands.",
+     "The worktree waits until drafting works without it.",
++    "A mechanical change is landed by a change page rather than by the command that page replaces.",
++    "A change page takes no dry run.",
++    "The patch a draft keeps is the dry run.",
+   ],
+ } as const satisfies Initiative
