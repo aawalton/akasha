@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/index/index.command.code.ts b/command-system/commands/index/index.command.code.ts
-index d95b74ae0fd956d84b64fabca32d53b463b04308..bf28a954a5716ff2309f8fdbc15b647ae47ef36a 100644
+index d95b74ae0fd956d84b64fabca32d53b463b04308..309b1ff3a93ccc9f644e9c6f4b26d0e4f722dfa1 100644
 --- a/command-system/commands/index/index.command.code.ts
 +++ b/command-system/commands/index/index.command.code.ts
 @@ -77,15 +77,19 @@ export function named(paths: readonly string[]): string {
@@ -29,3 +29,12 @@ index d95b74ae0fd956d84b64fabca32d53b463b04308..bf28a954a5716ff2309f8fdbc15b647a
  }
  
  function refusing(said: readonly string[], code: number): Answer {
+@@ -105,7 +109,7 @@ function refreshing(root: string, read: { dryRun: boolean }): Answer {
+   const report = [
+     `the index was built over ${root} as it stands, at ${head}`,
+     `${counted(said.pages, "page")}, ${said.entries} entries, ${said.refused.length} refused`,
+-    driftSaid(said.drift),
++    ...driftSaid(said.drift),
+   ]
+   if (said.swept.length > 0) {
+     report.push(`took away ${counted(said.swept.length, "path")} belonging to no index`)
