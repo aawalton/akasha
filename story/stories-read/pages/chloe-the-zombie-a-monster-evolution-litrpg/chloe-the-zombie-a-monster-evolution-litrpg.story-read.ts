@@ -30,6 +30,7 @@ export const chloeTheZombieAMonsterEvolutionLitrpg = {
     "Magic",
     "Monster Evolution",
     "Mythos",
+    "Survival",
   ],
   publicationStatus: "ongoing",
 } as const satisfies StoryRead
