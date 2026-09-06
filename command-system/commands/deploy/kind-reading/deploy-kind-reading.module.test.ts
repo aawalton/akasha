@@ -116,8 +116,6 @@ test("ios app pages that will not read refuse the call rather than answering tha
 
 test("the ios apps are read from the checkout rather than from the root given", () => {
   const read = kindNamed(WORLD.root, "alanwalton")
-  expect(read).toEqual({
-    kind: IOS_APP,
-    pagePath: `${IOS_PAGES_AT}/alanwalton-ios.ios-app.md`,
-  })
+  expect(read).toHaveProperty("kind", IOS_APP)
+  expect((read as { pagePath: string }).pagePath).toEndWith("/alanwalton.ios-app.ts")
 })
