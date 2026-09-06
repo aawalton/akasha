@@ -22,11 +22,15 @@ export const supervisorPrecliffRestartDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "A restart already deferred or an action already pending holds this one back.",
+      statement: "A restart already deferred or an action already pending holds this restart back.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here restarts anything; only the arming is decided.",
+      statement: "Nothing here restarts anything.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only the arming is decided here.",
     },
   ],
 } as const satisfies Module
