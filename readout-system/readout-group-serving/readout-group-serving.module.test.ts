@@ -20,6 +20,7 @@ import {
   READOUT_ROW,
   SCALE_ROW,
   servingStore,
+  storeGoes,
 } from "./readout-group-serving.module.test-fixtures.ts"
 
 let store: ReturnType<typeof Bun.serve>
@@ -29,7 +30,7 @@ beforeAll(() => {
 })
 
 afterAll(() => {
-  store.stop()
+  storeGoes(store)
 })
 
 beforeEach(() => {
