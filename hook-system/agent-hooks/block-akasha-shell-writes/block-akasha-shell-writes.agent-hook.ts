@@ -108,7 +108,7 @@ export const blockAkashaShellWrites = {
     },
     {
       invariantKind: "gap",
-      statement: "A path a word represents rather than spells is judged as a spelled one is.",
+      statement: "A path a word represents rather than spells is judged as a spelled path is.",
     },
   ],
 } as const satisfies AgentHook
