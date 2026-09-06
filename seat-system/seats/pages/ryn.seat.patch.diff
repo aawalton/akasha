@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
-index b79b45cfb73d2615e03bc7c1171eebc52ddde19b..1954e81194e9bf37a778d91f9f4731a96aa474d3 100644
+index b79b45cfb73d2615e03bc7c1171eebc52ddde19b..f820b97b4e5b09a14c8ec3a9d51a65c0eecdf66a 100644
 --- a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
 +++ b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
 @@ -72,8 +72,15 @@ export const claudeAccountUpkeep = {
@@ -30,3 +30,12 @@ index b79b45cfb73d2615e03bc7c1171eebc52ddde19b..1954e81194e9bf37a778d91f9f4731a9
      },
      {
        invariantKind: "constraint",
+@@ -129,7 +137,7 @@ export const claudeAccountUpkeep = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A renewal that throws ends the pass before the accounts after that one.",
++      statement: "A renewal that throws ends the pass before the accounts after that account.",
+     },
+     {
+       invariantKind: "gap",
