@@ -1,3 +1,15 @@
+diff --git a/pages/page.workspace-package.ts b/pages/page.workspace-package.ts
+index bade613674f6a15e88d54736d8a478a74648d514..88bc9a71bbf4c549af6473bc3e4fabfeac9a4651 100644
+--- a/pages/page.workspace-package.ts
++++ b/pages/page.workspace-package.ts
+@@ -25,6 +25,7 @@ export const page = {
+     "module/page-secret",
+     "module/page-uncommitted",
+     "module/page-value",
++    "module/page-value-reading",
+     "page-type/view",
+     "page-type/nav",
+     "page-type/page",
 diff --git a/pages/value-reading/page-value-reading.module.ts b/pages/value-reading/page-value-reading.module.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..e90f1350969a9a9c49a7326637445075d9d04032
