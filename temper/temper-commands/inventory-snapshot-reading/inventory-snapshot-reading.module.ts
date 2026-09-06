@@ -9,7 +9,7 @@ export const inventorySnapshotReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The latest reading for an account is the one captured last.",
+      statement: "The latest reading for an account is the reading captured last.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +17,11 @@ export const inventorySnapshotReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The bytes are read from the snapshot's own data file, already rejoined.",
+      statement: "The bytes are read from the snapshot's own data file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The bytes in that data file are already rejoined.",
     },
     {
       invariantKind: "departure",
