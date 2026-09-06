@@ -1,5 +1,5 @@
 diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
-index e4a067b2d2530db18f5b8c041a41c30da030aa54..4f030a50ae71b47caffc276e7da3d0c9d66fcdeb 100644
+index e4a067b2d2530db18f5b8c041a41c30da030aa54..be07b14b17854ab4f654c087f639a668c88ade06 100644
 --- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 +++ b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 @@ -15,18 +15,24 @@ export const surplusFallNotifying = {
@@ -54,17 +54,27 @@ index e4a067b2d2530db18f5b8c041a41c30da030aa54..4f030a50ae71b47caffc276e7da3d0c9
      },
      {
        invariantKind: "departure",
-@@ -57,8 +67,11 @@ export const surplusFallNotifying = {
+@@ -57,13 +67,19 @@ export const surplusFallNotifying = {
      },
      {
        invariantKind: "departure",
 -      statement:
 -        "Enough thrown ticks in a row end the process non-zero, while one thrown tick is a store blinking.",
 +      statement: "Enough thrown ticks in a row end the process non-zero.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "One thrown tick is a store blinking.",
      },
      {
        invariantKind: "departure",
+-      statement:
+-        "The loop runs until stopped, and SIGTERM and SIGINT both end that loop at its next boundary.",
++      statement: "One thrown tick is a store blinking.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The loop runs until stopped.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "SIGTERM or SIGINT ends that loop at its next boundary.",
+     },
+     {
+       invariantKind: "gap",
