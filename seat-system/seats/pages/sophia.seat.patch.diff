@@ -14,6 +14,23 @@ index f3f2970ef2d24e5840e53f17e58002a4374b8d47..8d5305705ae1c14917e93b8f257560af
  const COMMIT = "977e7d5a3e2f4fbc3942db6faff252272809668e"
  const IPA = "build/export/App.ipa"
  
+diff --git a/mobile-cli/git-tree-hash/git-tree-hash.module.test.ts b/mobile-cli/git-tree-hash/git-tree-hash.module.test.ts
+index c0580f9155f58e95bba1225b0f16f451f1be2801..5fdaa02dc6f4266be8b0d0b332ec9fd4a5a289ec 100644
+--- a/mobile-cli/git-tree-hash/git-tree-hash.module.test.ts
++++ b/mobile-cli/git-tree-hash/git-tree-hash.module.test.ts
+@@ -61,9 +61,9 @@ function makeShellRepo(): { root: string; cleanup: () => void } {
+   return makeRepo({
+     "native-shell/example/package.json": '{"name":"@example/native-shell"}\n',
+     "native-shell/example/scripts/apply-ios-seam.sh": "#!/usr/bin/env bash\n",
+-    "akasha/code-system/ios-apps/scripts/build-stamp.sh": "#!/usr/bin/env bash\n",
+-    "akasha/code-system/ios-components/pages/ring/Ring.swift": "struct Ring {}\n",
+-    "akasha/code-system/ios-programs/pages/example.ts": "export const example = 1\n",
++    "code-system/ios-apps/scripts/build-stamp.sh": "#!/usr/bin/env bash\n",
++    "code-system/ios-components/pages/ring/Ring.swift": "struct Ring {}\n",
++    "code-system/ios-programs/pages/example.ts": "export const example = 1\n",
+     "agent/seat/somebody.seat.md": "outside the shell tree\n",
+   })
+ }
 diff --git a/mobile-cli/sim-run-tree/sim-run-tree.module.test.ts b/mobile-cli/sim-run-tree/sim-run-tree.module.test.ts
 index 0252679a396c194a0246b01d3695449cba5a568f..ea43a38a7b96b1b6da62f6f9163154e823c4bd53 100644
 --- a/mobile-cli/sim-run-tree/sim-run-tree.module.test.ts
