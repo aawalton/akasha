@@ -9,7 +9,7 @@ export const charactersHirelingMailSubscriber = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "A loot of nothing or less is ignored.",
+      statement: "A loot of nothing or a negative amount is ignored.",
     },
   ],
 } as const satisfies Module
