@@ -98,6 +98,19 @@ index 620a2bf7ec89a36d14549aac5d1fc54b4eaddcbe..f2fd18594a2e189dfea4e24c87bd6ee9
    }
    const lines = setLinesOf(setLogs.rows, movements)
  
+diff --git a/alan/fitness/commands/track-workout-show/track-workout-show.command.ts b/alan/fitness/commands/track-workout-show/track-workout-show.command.ts
+index bbf59583c37c65eec5c982873c34bbeaa0c5f3d2..8522f9573539e433a52a3442c474fc4090bca17e 100644
+--- a/alan/fitness/commands/track-workout-show/track-workout-show.command.ts
++++ b/alan/fitness/commands/track-workout-show/track-workout-show.command.ts
+@@ -17,7 +17,7 @@ export const trackWorkoutShow = {
+   helpNotes: [
+     "the sets come grouped by movement, and within a movement by set number.",
+     "a movement is named by its exercise page's title, falling back to its slug.",
+-    "the volume counts the bodyweight the client profile states.",
++    "the volume is the figure the session carries rather than a count made here.",
+   ],
+   invariants: [
+     {
 diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
 index f0fa55ced9031bfdc5c83cabe230428f8954e0ae..916d3b5dfbcb1754b8f07fecab7992d5872eb0dc 100644
 --- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
