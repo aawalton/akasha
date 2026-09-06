@@ -92,7 +92,7 @@ export const committing = {
     },
     {
       invariantKind: "departure",
-      statement: "A checkout configured with no git user commits as any other does.",
+      statement: "A checkout configured with no git user commits as every other checkout does.",
     },
     {
       invariantKind: "departure",
