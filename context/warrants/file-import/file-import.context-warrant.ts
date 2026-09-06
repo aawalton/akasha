@@ -13,8 +13,11 @@ export const fileImport = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A code file warrants the page of every file the code file imports rather than one imported in turn.",
+      statement: "A code file warrants the page of every file the code file imports.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file imported in turn is not warranted.",
     },
     {
       invariantKind: "departure",
