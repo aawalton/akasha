@@ -79,3 +79,18 @@ index 97e53f9e96d0197a25972d029fb6f02036baf4a2..c83ab6de697261b6a24c32280a20cafb
      {
        invariantKind: "departure",
        statement: "A page whose body exports no name its slug makes is refused as malformed.",
+diff --git a/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.ts b/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.ts
+index 241cec4bedcd60ccb1ed5c5e975131c9b17d4fd4..9f61093e746710a776186244098e4fe68b289d7f 100644
+--- a/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.ts
++++ b/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.ts
+@@ -16,6 +16,10 @@ export const renamePageSlug = {
+       invariantKind: "departure",
+       statement: "The exported const is the slug rename's own rather than a step of this one.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The plural is handed down to the slug rename rather than worked out here.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The slug carried now and the page type are read off the page's own body.",
