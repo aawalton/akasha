@@ -1,0 +1,306 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/command-system/commands/apply/apply.command.code.ts b/command-system/commands/apply/apply.command.code.ts
+index 85d9aa35fd4e9731a125382f9142f9793184bc72..3cc5c8e20e67fbb350606cf1f32977b750785b17 100644
+--- a/command-system/commands/apply/apply.command.code.ts
++++ b/command-system/commands/apply/apply.command.code.ts
+@@ -1,3 +1,4 @@
++import { patchIn } from "@akasha/agents/patch-keeping"
+ import { formattedBody } from "@akasha/code/code-format"
+ import { agentPathOf } from "@akasha/context/warranting"
+ import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
+@@ -9,7 +10,7 @@ import {
+ import { writtenAgain } from "../../address-mapping/address-mapping.module.code.ts"
+ import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+-import { type Draft, drafted, type Running } from "../../drafting/drafting.module.code.ts"
++import { type Draft, drafted, putBack, type Running } from "../../drafting/drafting.module.code.ts"
+ import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
+ import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
+ import { editsFor } from "../change/change.command.code.ts"
+@@ -28,8 +29,10 @@ const NO_PAGE = "this call names no agent whose page the edits would be kept bes
+ 
+ const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: false }
+ 
++export type Unfold = { readonly patch: string | null; readonly rows: readonly Edit[] }
++
+ export type Folded =
+-  | { readonly folded: readonly string[] }
++  | { readonly folded: readonly string[]; readonly unfold: Unfold | null }
+   | { readonly refusals: readonly string[] }
+ 
+ function bytesOf(body: string | null): Uint8Array | null {
+@@ -63,8 +66,11 @@ export function draftsOf(edits: readonly Edit[]): readonly Draft[] {
+   return held
+ }
+ 
++// What the fold found is answered beside what the fold made, so a caller landing the patch after
++// this can put the fold back where the landing refuses. A fold that made nothing answers no unfold,
++// because putting back a patch no fold wrote would take away the patch the agent already held.
+ export function folding(root: string, page: string): Folded {
+-  let answer: Folded = { folded: [] }
++  let answer: Folded = { folded: [], unfold: null }
+   const kept = keptEdits(root, page, (had) => {
+     if (had.length === 0) return had
+     const held = had.filter((one) => !writtenAgain(one.path))
+@@ -74,12 +80,16 @@ export function folding(root: string, page: string): Folded {
+       answer = { refusals: [said.refused] }
+       return had
+     }
++    const was = patchIn(root, page)
+     const took = drafted(root, page, draftsOf(formattedEdits(root, said.edits)), CHANGED)
+     if ("why" in took) {
+       answer = { refusals: [took.why] }
+       return had
+     }
+-    answer = { folded: said.edits.map((one) => one.path).sort() }
++    answer = {
++      folded: said.edits.map((one) => one.path).sort(),
++      unfold: { patch: was, rows: had },
++    }
+     return null
+   })
+   return "why" in kept ? { refusals: [kept.why] } : answer
+@@ -101,6 +111,18 @@ async function refusedBefore(root: string, page: string): Promise<readonly strin
+   return said.map((one) => `${one.path} — ${one.reason}`)
+ }
+ 
++// The fold and the apply are one act, so an apply that refuses puts the edits back where the fold
++// found them, for a change to mend rather than a hand. Whether the apply landed is read off the
++// patch rather than off the refusals, because an apply that lands and then refuses something
++// carries refusals too, and the patch it landed is gone. A row appended while the apply ran follows
++// the rows put back, which is the order the rows were appended in.
++export function undone(root: string, page: string, unfold: Unfold): string | null {
++  if (patchIn(root, page) === null) return null
++  putBack(root, page, unfold.patch)
++  keptEdits(root, page, (had) => [...unfold.rows, ...had])
++  return "the fold is undone — the edits are kept where the edits were, for a change to mend"
++}
++
+ export async function apply(argv: readonly string[], given: Given): Promise<Answer> {
+   const unknown = unknownIn(argv, APPLYING, BARE)
+   if (unknown.length > 0) return mistaking(unknown)
+@@ -113,6 +135,8 @@ export async function apply(argv: readonly string[], given: Given): Promise<Answ
+   const said = folding(given.root, page)
+   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
+   const answered = await applying(given, page, argv)
++  const put = said.unfold === null ? null : undone(given.root, page, said.unfold)
++  if (put !== null) return { report: [put], refusals: answered.refusals, code: answered.code }
+   return {
+     report: [...said.folded.map((one) => `folded ${one} into the patch`), ...answered.report],
+     refusals: answered.refusals,
+diff --git a/command-system/commands/apply/apply.command.test.ts b/command-system/commands/apply/apply.command.test.ts
+index 935a06cec5ba594347aa26beabd68a80151189f8..2a362c30aad5286daf937290d4b2e26f1b25d627 100644
+--- a/command-system/commands/apply/apply.command.test.ts
++++ b/command-system/commands/apply/apply.command.test.ts
+@@ -1,5 +1,5 @@
+ import { afterAll, expect, test } from "bun:test"
+-import { patchIn } from "@akasha/agents/patch-keeping"
++import { dropPatch, patchIn } from "@akasha/agents/patch-keeping"
+ import { said as gitSaid } from "@akasha/git/git-running"
+ import {
+   taking,
+@@ -13,7 +13,7 @@ import { drafted } from "../../drafting/drafting.module.code.ts"
+ import { blobsIn } from "../../patching/patching.module.code.ts"
+ import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+ import { writing as putting } from "../../scratching/scratching.module.test-fixtures.ts"
+-import { draftsOf, folding } from "./apply.command.code.ts"
++import { draftsOf, folding, undone } from "./apply.command.code.ts"
+ 
+ const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
+ 
+@@ -50,9 +50,10 @@ function carried(root: string): readonly string[] {
+ 
+ test("an edit is drafted into the patch and the rows it came from go", async () => {
+   const root = await repo()
+-  appendEdits(root, PAGE, [taking(ONE, WAS)])
++  const row = taking(ONE, WAS)
++  appendEdits(root, PAGE, [row])
+ 
+-  expect(folding(root, PAGE)).toEqual({ folded: [ONE] })
++  expect(folding(root, PAGE)).toEqual({ folded: [ONE], unfold: { patch: null, rows: [row] } })
+ 
+   expect(editsIn(root, PAGE)).toEqual({ rows: [] })
+   expect(carried(root)).toEqual([ONE])
+@@ -61,9 +62,11 @@ test("an edit is drafted into the patch and the rows it came from go", async ()
+ test("a patch the agent already holds takes the folded edits in", async () => {
+   const root = await repo()
+   drafted(root, PAGE, [{ path: TWO, was: null, body: BYTES.encode(NOW) }])
+-  appendEdits(root, PAGE, [writing(ONE, WAS, NOW)])
++  const was = patchIn(root, PAGE)
++  const row = writing(ONE, WAS, NOW)
++  appendEdits(root, PAGE, [row])
+ 
+-  expect(folding(root, PAGE)).toEqual({ folded: [ONE] })
++  expect(folding(root, PAGE)).toEqual({ folded: [ONE], unfold: { patch: was, rows: [row] } })
+ 
+   expect(carried(root)).toEqual([ONE, TWO])
+ })
+@@ -72,11 +75,53 @@ test("a fold over no row leaves the patch as that patch is", async () => {
+   const root = await repo()
+   drafted(root, PAGE, [{ path: TWO, was: null, body: BYTES.encode(NOW) }])
+ 
+-  expect(folding(root, PAGE)).toEqual({ folded: [] })
++  expect(folding(root, PAGE)).toEqual({ folded: [], unfold: null })
+ 
+   expect(carried(root)).toEqual([TWO])
+ })
+ 
++test("a fold the apply refuses is undone, and the patch and the rows come back", async () => {
++  const root = await repo()
++  drafted(root, PAGE, [{ path: TWO, was: null, body: BYTES.encode(NOW) }])
++  const was = patchIn(root, PAGE)
++  const row = writing(ONE, WAS, NOW)
++  appendEdits(root, PAGE, [row])
++  const said = folding(root, PAGE)
++  if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
++
++  expect(undone(root, PAGE, said.unfold)).not.toBe(null)
++
++  expect(patchIn(root, PAGE)).toEqual(was)
++  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
++  expect(carried(root)).toEqual([TWO])
++})
++
++test("a fold that made the patch is undone by taking the patch away", async () => {
++  const root = await repo()
++  const row = taking(ONE, WAS)
++  appendEdits(root, PAGE, [row])
++  const said = folding(root, PAGE)
++  if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
++
++  undone(root, PAGE, said.unfold)
++
++  expect(patchIn(root, PAGE)).toBe(null)
++  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
++})
++
++test("a fold the apply landed is left where the apply left it", async () => {
++  const root = await repo()
++  const row = taking(ONE, WAS)
++  appendEdits(root, PAGE, [row])
++  const said = folding(root, PAGE)
++  if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
++  dropPatch(root, PAGE)
++
++  expect(undone(root, PAGE, said.unfold)).toBe(null)
++
++  expect(editsIn(root, PAGE)).toEqual({ rows: [] })
++})
++
+ test("two rows for one path the later did not follow refuse the fold and leave the rows", async () => {
+   const root = await repo()
+   appendEdits(root, PAGE, [writing(ONE, WAS, NOW), writing(ONE, "z\n", NOW)])
+diff --git a/command-system/commands/apply/apply.command.ts b/command-system/commands/apply/apply.command.ts
+index 2abf50ba7b32bcfc37faea44265980d65f087472..26688a765bdacf25c7f25e837722fd89335a19a0 100644
+--- a/command-system/commands/apply/apply.command.ts
++++ b/command-system/commands/apply/apply.command.ts
+@@ -19,6 +19,7 @@ export const apply = {
+     "the folded edits leave the file holding them once the patch carries the edits.",
+     "an apply is the apply `akasha patch apply` runs, so the checks, the commit and the record are the same.",
+     "a fold the patch refuses leaves the edits where the edits are.",
++    "an apply that refuses puts the fold back, so the edits are kept for a change to mend.",
+     "an apply over no edits applies the patch the agent already holds.",
+     "--break-the-glass applies with no check run, and the reason is said in the commit.",
+   ],
+@@ -77,8 +78,24 @@ export const apply = {
+         "The edits fold under one running rather than the running each change's page states.",
+     },
+     {
+-      invariantKind: "gap",
+-      statement: "An apply over edits alone still commits the patch file before landing.",
++      invariantKind: "departure",
++      statement: "A fold and the apply following that fold are one act.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An apply that refuses puts the folded edits back where the fold found the edits.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The patch is put back as that patch stood before the fold.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Whether the apply landed is read off the patch rather than off the refusals.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An apply that landed leaves the fold standing.",
+     },
+   ],
+ } as const satisfies Command
+diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
+index 6aef4f2a8034b12f041a07ff1aaa9feb91bb5f44..780cf0b4e643fe9f8d40f3c1d8449786a5efc813 100644
+--- a/command-system/drafting/drafting.module.code.ts
++++ b/command-system/drafting/drafting.module.code.ts
+@@ -1,6 +1,6 @@
+ import { existsSync } from "node:fs"
+ import { join } from "node:path"
+-import { dropPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
++import { dropPatch, keepPatch, keptPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
+ import { said as gitSaid } from "@akasha/git/git-running"
+ import {
+   clashing,
+@@ -37,6 +37,8 @@ export const APPLIED = "goes; the patch it held is applied"
+ 
+ export const DROPPED = "goes; the patch it held is dropped"
+ 
++export const UNFOLDED = "is put back; the fold the apply made is undone"
++
+ const NO_CHECKS_AT = "runsChecks: false"
+ 
+ const NOT_OWED_AT = "writerOwesReading: false"
+@@ -112,6 +114,25 @@ export function droppedPatch(root: string, page: string, why: string): boolean {
+   return true
+ }
+ 
++// A caller that folds into the patch and then lands the patch leaves work in a patch no change
++// reaches where the landing refuses between the two, so the fold is put back rather than left. The
++// bytes handed in are the bytes the fold found, because a patch worked out again would merge a
++// second time what the fold already merged. The fold committed the patch the fold wrote, so putting
++// that patch back is a commit of its own rather than a file written over.
++export function putBack(root: string, page: string, patch: string | null): boolean {
++  const at = patchAt(page)
++  if (at === null) return false
++  if (patch === null) {
++    dropPatch(root, page)
++    dropBlobs(root, at)
++  } else {
++    keepBlobs(root, at, patch)
++    keepPatch(root, page, patch)
++  }
++  committedPatch(root, at, UNFOLDED)
++  return true
++}
++
+ function merged(
+   base: Uint8Array | null,
+   mine: Uint8Array | null,
+diff --git a/command-system/drafting/drafting.module.ts b/command-system/drafting/drafting.module.ts
+index 16079d85272ce5bc24c9cb7247c21b53ebfd9af4..8e59182e456a70dd2a59afcd3b200a308943d884 100644
+--- a/command-system/drafting/drafting.module.ts
++++ b/command-system/drafting/drafting.module.ts
+@@ -215,6 +215,22 @@ export const drafting = {
+       invariantKind: "departure",
+       statement: "A commit that will not land leaves the draft as the draft is.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A patch is put back as the bytes a caller held rather than worked out again.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The blobs the bytes put back name are kept again with those bytes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Putting a patch back is committed as writing that patch is committed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Putting back no patch takes the patch away.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "No check judges the body of a patch file.",
