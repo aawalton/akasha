@@ -1,0 +1,178 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.test.ts b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..319d8b247a013d4257fd0d74ce346618a25897db
+--- /dev/null
++++ b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.test.ts
+@@ -0,0 +1,89 @@
++import { afterAll, expect, test } from "bun:test"
++import { bodyOf, idOf, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
++import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { changePagePageType } from "./change-page-page-type.change-checked.code.ts"
++
++afterAll(scratch.sweep)
++
++const KEPT_TYPE = "akasha/kept.page-type.ts"
++
++const SPARE_TYPE = "akasha/spare.page-type.ts"
++
++const ONE_PAGE = "akasha/kept/one.kept.ts"
++
++const ONE_MOVED = "akasha/kept/one.spare.ts"
++
++const ONE_BODY = `import type { Kept } from "../kept.page-type.ts"
++
++export const one = {
++  id: "${idOf("1")}",
++  pageTypeSlug: "kept",
++  slug: "one",
++  definition: "a page stated as another page type",
++} as const satisfies Kept
++`
++
++function typeBody(slug: string, at: string): string {
++  return bodyOf({
++    id: idOf(at),
++    pageTypeSlug: "page-type",
++    slug,
++    pluralSlug: `${slug}s`,
++    extendsSlug: ["page-type/page"],
++  })
++}
++
++function repoIn(): string {
++  return indexedRepo({
++    [KEPT_TYPE]: typeBody("kept", "e"),
++    [SPARE_TYPE]: typeBody("spare", "f"),
++    [ONE_PAGE]: ONE_BODY,
++  })
++}
++
++function worldIn(root: string): World {
++  return worldAt(root, textIn(root))
++}
++
++test("a page stated as another page type is carried to the name that type spells", () => {
++  const said = changePagePageType(worldIn(repoIn()), { at: ONE_PAGE, to: SPARE_TYPE })
++
++  expect(said.refused).toBeNull()
++  expect(said.edits.map((one) => one.path)).toContain(ONE_MOVED)
++})
++
++test("the page type a page states is restated in the body", () => {
++  const said = changePagePageType(worldIn(repoIn()), { at: ONE_PAGE, to: SPARE_TYPE })
++  const one = said.edits.find((edit) => edit.path === ONE_MOVED)
++
++  expect(one?.body ?? "").toContain(`pageTypeSlug: "spare"`)
++  expect(one?.body ?? "").toContain("satisfies Spare")
++  expect(one?.body ?? "").toContain(`from "../spare.page-type.ts"`)
++})
++
++test("the page type a page already is refuses rather than carrying the page", () => {
++  const said = changePagePageType(worldIn(repoIn()), { at: ONE_PAGE, to: KEPT_TYPE })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/the page already is/)
++})
++
++test("a path naming no page refuses and answers no edit", () => {
++  const said = changePagePageType(worldIn(repoIn()), {
++    at: "akasha/kept/nobody.kept.ts",
++    to: SPARE_TYPE,
++  })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/names no page/)
++})
++
++test("a page type whose page holds no body refuses", () => {
++  const said = changePagePageType(worldIn(repoIn()), {
++    at: ONE_PAGE,
++    to: "akasha/nowhere.page-type.ts",
++  })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/holds no body/)
++})
+diff --git a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts
+index 6102efa28c6cec3321b035846f63bf03e87c84b9..5102939284196c5e07b3bed03a02ca062f9d26a7 100644
+--- a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts
++++ b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts
+@@ -6,6 +6,7 @@ export const changePagePageType = {
+   slug: "change-page-page-type",
+   definition: "one page stated as another page type, in the data and in every file name",
+   code: "ts",
++  test: "ts",
+ 
+   isCommand: true,
+   runsChecks: true,
+diff --git a/command-system/commands/change/change.command.code.ts b/command-system/commands/change/change.command.code.ts
+index 0e8dd55a60bd082da820029c61a809aba1db44fa..63e036bb5d81c995f7a6bbf2a91b3d2982f0b385 100644
+--- a/command-system/commands/change/change.command.code.ts
++++ b/command-system/commands/change/change.command.code.ts
+@@ -28,9 +28,7 @@ import {
+ import { mistaking } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+ import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+-import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
+ import type { FileEdit } from "../../landing/landing.module.code.ts"
+-import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
+ import { inputIn, type Piping } from "../../piping/piping.module.code.ts"
+ import { offRepo, pathAt, unknownIn } from "../write/write.command.code.ts"
+ 
+@@ -42,8 +40,6 @@ const BYTES = new TextEncoder()
+ 
+ const AT = "at"
+ 
+-const RUNS_CHECKS = "runsChecks"
+-
+ const CHANGE_COMMAND = "change-command"
+ 
+ // A change reached from the command line is typed for the kind that change is, and the old
+@@ -51,9 +47,6 @@ const CHANGE_COMMAND = "change-command"
+ // until no page is left carrying the old type.
+ const COMMAND_TYPES: readonly string[] = [CHANGE_COMMAND, "change-checked", "change-authored"]
+ 
+-const STILL_KEPT =
+-  "the edits are kept — mend what refused with more changes before `akasha apply` lands them"
+-
+ const DROP = "drop"
+ 
+ const DROPPED = "these edits are gone, and no apply lands them"
+diff --git a/command-system/commands/change/change.command.ts b/command-system/commands/change/change.command.ts
+index 0e3854a450968245385a1948559649b333188784..c994aac9feef9e49c654b3fd77507d8b7efec2e1 100644
+--- a/command-system/commands/change/change.command.ts
++++ b/command-system/commands/change/change.command.ts
+@@ -30,7 +30,7 @@ export const change = {
+     "making the edits and applying them are two calls, so the edits held unapplied are the dry run.",
+     "`drop` is the one first word naming no change, and takes away every edit kept.",
+     "a drop names each edit that went, because nothing puts a dropped edit back.",
+-    "a change whose page runs the checks is judged here, and the edits are kept whatever refused.",
++    "no check runs here, and an apply judges the edits kept before the edits are folded in.",
+   ],
+   invariants: [
+     {
+@@ -137,11 +137,11 @@ export const change = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A change whose page runs the checks has the whole set of edits kept judged here.",
++      statement: "No check runs here.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A check refusing is reported rather than taking the edits kept away.",
++      statement: "An apply judges the whole set of edits kept before folding the edits in.",
+     },
+     {
+       invariantKind: "departure",
+@@ -149,7 +149,7 @@ export const change = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A change whose page runs no check is judged by no check here.",
++      statement: "A check refusing at an apply leaves the edits kept where the edits are.",
+     },
+     {
+       invariantKind: "absence",
