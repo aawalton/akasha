@@ -8,7 +8,7 @@ export const mortgage9756 = {
   definition: "money the family owes, sitting in a loan account",
   monarchId: "148851207159290324",
   accountDisplayName: "Mortgage 9756 (...9756)",
-  currentBalance: -475875.4,
+  currentBalance: -477047.8,
   accountType: "loan",
   asset: false,
   accountActive: true,
