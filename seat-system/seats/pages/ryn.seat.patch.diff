@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/commands/refactor/key-respelling/key-respelling.module.ts b/command-system/commands/refactor/key-respelling/key-respelling.module.ts
+index 8bf840a2de76e9a0aeddda390f7291cb88ae3299..66402f467cbe14b87ac42d8af998447958b3b2bb 100644
+--- a/command-system/commands/refactor/key-respelling/key-respelling.module.ts
++++ b/command-system/commands/refactor/key-respelling/key-respelling.module.ts
+@@ -90,7 +90,7 @@ export const keyRespelling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every file a key rename touches lands in one commit or none of those files does.",
++      statement: "Every file a key rename touches lands in one commit or does not land.",
+     },
+     {
+       invariantKind: "departure",
