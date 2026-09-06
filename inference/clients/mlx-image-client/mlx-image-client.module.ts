@@ -17,7 +17,7 @@ export const mlxImageClient = {
     },
     {
       invariantKind: "departure",
-      statement: "A guidance scale or a step count the caller told none of is left off the body.",
+      statement: "A guidance scale or a step count the caller left unsaid is left off the body.",
     },
     {
       invariantKind: "departure",
