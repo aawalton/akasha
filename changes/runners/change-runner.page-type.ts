@@ -37,7 +37,7 @@ export const changeRunner = {
       statement: "A guard runs on the answer of the change naming that guard.",
     },
     {
-      invariantKind: "departure",
+      invariantKind: "gap",
       statement: "A change reaches another change through a runner rather than through an import.",
     },
     {
