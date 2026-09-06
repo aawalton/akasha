@@ -1,0 +1,54 @@
+diff --git a/checks/modules/run-cost/run-cost.module.code.ts b/checks/modules/run-cost/run-cost.module.code.ts
+index 8fb94481fa796c5d429f93a41b0d7135130e4854..6cf8a8fa6b3f654cc2576d365a3e5ea7dae953fa 100644
+--- a/checks/modules/run-cost/run-cost.module.code.ts
++++ b/checks/modules/run-cost/run-cost.module.code.ts
+@@ -1,19 +1,10 @@
+ import { readFileSync } from "node:fs"
+ 
+-export const BANDS = [
+-  "instant",
+-  "fast",
+-  "lagging",
+-  "slow",
+-  "painful",
+-  "torture",
+-  "eternal",
+-] as const
++export const BANDS = ["fast", "lagging", "slow", "painful", "torture", "eternal"] as const
+ 
+ export type Band = (typeof BANDS)[number]
+ 
+ export const CEILING_MS: Readonly<Record<Band, number>> = {
+-  instant: 1_000,
+   fast: 5_000,
+   lagging: 15_000,
+   slow: 60_000,
+diff --git a/checks/modules/run-cost/run-cost.module.ts b/checks/modules/run-cost/run-cost.module.ts
+index bdd0b0808c8b5bafd90dd663b3ba01a89b2a2c9d..b6c005222bbe1efbe3af1036b27dfc5525bfd1f3 100644
+--- a/checks/modules/run-cost/run-cost.module.ts
++++ b/checks/modules/run-cost/run-cost.module.ts
+@@ -9,7 +9,7 @@ export const runCost = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The bands go from instant to eternal, each one looser than the last.",
++      statement: "The bands go from fast to eternal, each one looser than the last.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/instrument/run-cost/run-cost.domain.ts b/instrument/run-cost/run-cost.domain.ts
+index 974c6039c036c8e1eaba097c6defb4a82fd83841..9ef7551e80b2abd268d1b2373ffefa19e36994d1 100644
+--- a/instrument/run-cost/run-cost.domain.ts
++++ b/instrument/run-cost/run-cost.domain.ts
+@@ -4,10 +4,9 @@ export const runCost = {
+   id: "01a06860-a0ef-7619-8f93-c450df9427ad",
+   pageTypeSlug: "domain",
+   slug: "run-cost",
+-  definition: "how long a run takes, said as one of seven named bands",
++  definition: "how long a run takes, said as one of six named bands",
+   pluralSlug: "run-costs",
+   partSlugs: [
+-    "domain/run-cost-instant",
+     "domain/run-cost-fast",
+     "domain/run-cost-lagging",
+     "domain/run-cost-slow",
