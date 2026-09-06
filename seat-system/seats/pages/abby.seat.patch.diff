@@ -1,0 +1,29 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-recovery-mode-was-the-replacement-or-the-gap.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-recovery-mode-was-the-replacement-or-the-gap.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..83bb32d6566fa8a9a4cf89980a7ca8488d5070e0
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-recovery-mode-was-the-replacement-or-the-gap.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherRecoveryModeWasTheReplacementOrTheGap = {
++  id: "01a0785c-b087-7043-85e8-12ce4774e38b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-recovery-mode-was-the-replacement-or-the-gap",
++  topicSlug: "blank-check-mode-and-recovery-mode",
++  ask: "Was recovery mode the new belief already catching, or the unprotected stretch before it caught?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/blank-check-mode-and-recovery-mode.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/blank-check-mode-and-recovery-mode.all-about-alan-topic.ts
+index d8e24de70215dc69607c91aa7372233a46db5367..4b9fac477df6a38cbf42685fb8d0c6bcdd7becc3 100644
+--- a/alan/books/all-about-alan/topics/pages/blank-check-mode-and-recovery-mode.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/blank-check-mode-and-recovery-mode.all-about-alan-topic.ts
+@@ -11,7 +11,8 @@ export const blankCheckModeAndRecoveryMode = {
+     "the-budget-i-run-my-days-on",
+     "when-i-lost-who-i-was",
+     "the-years-with-my-parents",
++    "digging-up-an-old-belief",
+   ],
+   settled:
+-    "I have lived at both ends of this trade, which is how I know the middle beats either one.\n\nBlank check mode was paying whatever was needed without counting the cost. I ran it for at least eighteen years, and it reached my employer as much as it reached my marriage. I left it because it broke me.\n\nNo fear of counting held me there. I did not realize that not writing the blank check was an option.\n\nI have been out of it for about two years, starting about six months before the firing. What started me counting was realizing that blank check mode was a trauma response to being neglected as a child. Employment only worked while I gave my employer a blank check too, so switching out of the mode is part of what caused the firing.\n\nRecovery mode was all surplus. I ran that for eighteen months and it almost broke the marriage.",
++    "I have lived at both ends of this trade, which is how I know the middle beats either one.\n\nBlank check mode was paying whatever was needed without counting the cost. I ran it for at least eighteen years, and it reached my employer as much as it reached my marriage. I left it because it broke me.\n\nNo fear of counting held me there. I did not realize that not writing the blank check was an option.\n\nI have been out of it for about two years, starting about six months before the firing. What started me counting was realizing that blank check mode was a trauma response to being neglected as a child. The belief I put in its place is that my needs are just as important as the needs of others.\n\nEmployment only worked while I gave my employer a blank check too, so switching out of the mode is part of what caused the firing.\n\nRecovery mode was all surplus. I ran that for eighteen months and it almost broke the marriage.",
+ } as const satisfies AllAboutAlanTopic
