@@ -1,0 +1,20 @@
+diff --git a/command-system/reading/reading.module.code.ts b/command-system/reading/reading.module.code.ts
+index e90e5a1ad72d065f2e501c668493cdb1fa9e8920..47627278388ff4938478b011074fd63fd1f92ca4 100644
+--- a/command-system/reading/reading.module.code.ts
++++ b/command-system/reading/reading.module.code.ts
+@@ -84,13 +84,14 @@ function readingOf(value: unknown): Reading | null {
+     oid?: unknown
+     seenAt?: unknown
+     carriedOid?: unknown
++    mechanicalOid?: unknown
+     readThrough?: unknown
+   }
+   const { path, oid, seenAt, readThrough } = held
+   if (typeof path !== "string" || path === "") return null
+   if (typeof oid !== "string" || oid === "") return null
+   if (typeof seenAt !== "number" || !Number.isFinite(seenAt)) return null
+-  const said = held.carriedOid
++  const said = held.carriedOid ?? held.mechanicalOid
+   const left = typeof said === "string" && said !== "" ? said : null
+   return withReach({ path, oid, seenAt, carriedOid: left }, reachOf(readThrough))
+ }
