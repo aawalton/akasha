@@ -235,6 +235,64 @@ index 0000000000000000000000000000000000000000..9ec190862b59bce893484e7badc10c09
 +  expect(saidOf("partSlugs", "beta", textOf).refused).toBe(null)
 +  expect(textOf(PAGE)).toBe(BODY)
 +})
+diff --git a/changes/pages/remove-property-value/remove-property-value.change.ts b/changes/pages/remove-property-value/remove-property-value.change.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..62030efceac36a229077d3f12af8da3ccb3fd003
+--- /dev/null
++++ b/changes/pages/remove-property-value/remove-property-value.change.ts
+@@ -0,0 +1,52 @@
++import type { Change } from "../../change.page-type.ts"
++
++export const removePropertyValue = {
++  id: "01a07758-01be-7649-a91a-f8952f0b468e",
++  pageTypeSlug: "change",
++  slug: "remove-property-value",
++  definition: "one value taken out of one page property in a page's body",
++  code: "ts",
++  test: "ts",
++  isCommand: false,
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A property holding many values keeps its key when the last value goes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A property holding one value goes with that value.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Whether a property is required is read from the type the page's body satisfies.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A required property is refused rather than taken away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Taking a required property away is a retype.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A property that could not be read as required or not is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A value the property does not hold is refused rather than taken away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body is answered rather than written.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads the index.",
++    },
++  ],
++} as const satisfies Change
 diff --git a/changes/pages/restate-value/restate-value.change.code.ts b/changes/pages/restate-value/restate-value.change.code.ts
 index ffb6feead1650a1bcba929d286d5622a0b1415e8..da535fcda179719d93cc7b9c0f70e17558ef922e 100644
 --- a/changes/pages/restate-value/restate-value.change.code.ts
