@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.test.ts b/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.test.ts
-index dba881a665e68744d4e25c4dd4ddad0bdbabc721..763f18d5c136b27e7b5f1159bc6427a9ff542768 100644
+index dba881a665e68744d4e25c4dd4ddad0bdbabc721..740e7a195956a08151f6a5c671eee22f1fd607bd 100644
 --- a/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.test.ts
 +++ b/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.test.ts
 @@ -1,7 +1,7 @@
@@ -11,8 +11,18 @@ index dba881a665e68744d4e25c4dd4ddad0bdbabc721..763f18d5c136b27e7b5f1159bc6427a9
  import type { Change } from "@akasha/pages/change"
  import { type Shadow, shadowAt } from "@akasha/pages/shadow"
  import type { SourceFile } from "typescript"
+@@ -46,6 +46,9 @@ function changing(root: string, before: string | null, after: string | null): Ch
+ 
+ function ruleFiled(root: string): undefined {
+   listedFiled(root, RULE, PROBE_SLUG, [{ path: PROBE_RULE_AT, id: PROBE_ID }])
++  valueAlsoFiled(root, RULE, [
++    { path: PROBE_RULE_AT, value: { id: PROBE_ID, pageTypeSlug: RULE, slug: PROBE_SLUG } },
++  ])
+   return undefined
+ }
+ 
 diff --git a/checks/modules/checking/checking.module.test-fixtures.ts b/checks/modules/checking/checking.module.test-fixtures.ts
-index dd17db7deba4794b1315fcdba35d840be26364a6..62e07eee8d0e7ddbf4020932ade49e1127135f7d 100644
+index dd17db7deba4794b1315fcdba35d840be26364a6..5cb1981235ada37ac85c141719c7524c8e0e530b 100644
 --- a/checks/modules/checking/checking.module.test-fixtures.ts
 +++ b/checks/modules/checking/checking.module.test-fixtures.ts
 @@ -2,7 +2,13 @@ import { mkdirSync, writeFileSync } from "node:fs"
@@ -30,3 +40,13 @@ index dd17db7deba4794b1315fcdba35d840be26364a6..62e07eee8d0e7ddbf4020932ade49e11
  import type { Change } from "@akasha/pages/change"
  import { exportedAs } from "@akasha/pages/page-export-name"
  import { onDisk } from "../change-walking/change-walking.module.code.ts"
+@@ -81,6 +87,9 @@ export function rootWith(
+     const id = `01a04bc4-0000-7000-8000-00000000000${minted}`
+     const held = [{ path: at, id }]
+     listedFiled(root, filedUnder.slug, one.slug, held)
++    valueAlsoFiled(root, filedUnder.slug, [
++      { path: at, value: { id, pageTypeSlug: filedUnder.slug, slug: one.slug } },
++    ])
+     idFiled(root, id, held)
+     pathFiled(root, at, held)
+     pathFiled(root, `${at.slice(0, -".ts".length)}.code.ts`, held)
