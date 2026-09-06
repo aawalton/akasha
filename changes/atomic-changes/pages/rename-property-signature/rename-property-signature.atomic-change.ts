@@ -10,7 +10,8 @@ export const renamePropertySignature = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A property is named by the type declaring it rather than by its own name alone.",
+      statement:
+        "A property is named by the type declaring that property rather than by its own name alone.",
     },
     {
       invariantKind: "departure",
@@ -18,17 +19,18 @@ export const renamePropertySignature = {
     },
     {
       invariantKind: "departure",
-      statement: "A type written as an intersection declares the members of each part it spells.",
+      statement:
+        "A type written as an intersection declares the members of each part that type spells.",
     },
 
     {
       invariantKind: "departure",
-      statement: "A property declared outside the named file as well is refused, being two things.",
+      statement: "A property declared outside the named file as well is refused.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A shorthand filling the renamed property is spelled out so the name it named is kept.",
+        "A shorthand filling the renamed property is spelled out so the name that shorthand named is kept.",
     },
     {
       invariantKind: "departure",
@@ -41,8 +43,7 @@ export const renamePropertySignature = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A body reaching the type through a re-export is out of reach, and `no-re-export` bars one.",
+      statement: "A body reaching the type through a re-export is out of reach.",
     },
   ],
 } as const satisfies AtomicChange
