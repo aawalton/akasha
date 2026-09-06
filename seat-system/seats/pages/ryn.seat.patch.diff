@@ -1,14 +1,20 @@
 readersOweReading: false
 diff --git a/mobile-cli/mobile-cli.workspace-package.ts b/mobile-cli/mobile-cli.workspace-package.ts
-index b791530312e2e86625fd4f09e998658050cca5ee..7a09800b25c7a185c63d3902bc5e1a3dfec10ea4 100644
+index b791530312e2e86625fd4f09e998658050cca5ee..82b08c7acf7080a15a6ad3d6bc63e01b4fd5e6f1 100644
 --- a/mobile-cli/mobile-cli.workspace-package.ts
 +++ b/mobile-cli/mobile-cli.workspace-package.ts
-@@ -41,7 +41,7 @@ export const mobileCli = {
+@@ -41,12 +41,11 @@ export const mobileCli = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "Every build runs on the one mac this workstation reaches over ssh.",
 +      statement: "Every build runs on the single mac this workstation reaches over ssh.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "What a program compiles is read off its `ios-program` page rather than off the Swift.",
++      statement: "The sources a program compiles are read off that program's `ios-program` page.",
      },
      {
        invariantKind: "departure",
