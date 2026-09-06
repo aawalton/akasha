@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts b/readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts
+index e33e99745feed77d741ec5874f09a49342bd4e6c..fba2d1ebc1877b823f19984980b22ae62ce3d7ed 100644
+--- a/readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts
++++ b/readout-system/readouts/pages/upkeep-activity/upkeep-activity.readout.ts
+@@ -16,7 +16,7 @@ export const upkeepActivity = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The reading is the one the tracking day carries for the day asked for.",
++      statement: "The reading is the reading the tracking day carries for the day asked for.",
+     },
+     {
+       invariantKind: "departure",
