@@ -132,11 +132,9 @@ export function statedIn(path: string, text: string): readonly Stated[] {
   return found
 }
 
-function declaringIn(shadow: Shadow): readonly string[] {
+function declaringIn(shadow: Shadow): readonly string[] | null {
   const carried = shadow.index.carryingOf(AMBIENT)
-  if ("refused" in carried) {
-    throw new Error(`the index cannot say which pages carry ${AMBIENT}: ${carried.refused}`)
-  }
+  if ("refused" in carried) return null
   const found: string[] = []
   for (const one of carried.carrying) {
     const beside = besideAt(one.path, AMBIENT_KEY, AMBIENT_KIND)
@@ -159,7 +157,8 @@ function carryingIn(change: Change): boolean {
 }
 
 export function readingIn(change: Change, shadow: Shadow): readonly string[] {
-  const reach = declaringAmong(change.changed) ? shadow.index.everyPath() : declaringIn(shadow)
+  const narrow = declaringAmong(change.changed) ? null : declaringIn(shadow)
+  const reach = narrow ?? shadow.index.everyPath()
   const held = new Set<string>()
   for (const one of [...reach, ...change.changed]) {
     if (compiled(one) && change.after(one) !== null) held.add(one)

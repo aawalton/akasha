@@ -94,6 +94,10 @@ export const globalDeclaredOnce = {
     },
     {
       invariantKind: "departure",
+      statement: "Every file the index names is read where the index names no declaration files.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A change carrying no declaration file and no `declare global` is refused nothing.",
     },
