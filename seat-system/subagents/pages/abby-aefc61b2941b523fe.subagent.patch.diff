@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-my-whole-set-of-values-orders.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-my-whole-set-of-values-orders.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..df247b0bb04baf09069057804d01c33841b464de
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-my-whole-set-of-values-orders.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howMyWholeSetOfValuesOrders = {
++  id: "01a077ec-4d9c-72bc-b561-6f2ae32c17ff",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-my-whole-set-of-values-orders",
++  topicSlug: "the-values-i-have-not-placed",
++  ask: "What I run on now is wider than the six. How does the whole set order, including where identity sits?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-wealth-is-worth-to-me.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-wealth-is-worth-to-me.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..012e5b1d5c80194c0d60dacf5e197cb3a258b050
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-wealth-is-worth-to-me.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatWealthIsWorthToMe = {
++  id: "01a077ec-4d9c-79b0-b1d9-6f7961a62822",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-wealth-is-worth-to-me",
++  topicSlug: "the-values-i-have-not-placed",
++  ask: "What does wealth amount to as a value of mine, including which part of me wealth improves?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-fun-sits-among-my-values.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-fun-sits-among-my-values.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..10908948d263157135064d5589d15c49e6e70c14
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-fun-sits-among-my-values.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereFunSitsAmongMyValues = {
++  id: "01a077ec-4d9a-705c-bbe6-a5aee6896c7d",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-fun-sits-among-my-values",
++  topicSlug: "the-values-i-have-not-placed",
++  ask: "Which part of me does fun improve, does fun feed the top three the way learning does, and why does fun rank under health?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-values-i-have-not-placed.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-values-i-have-not-placed.all-about-alan-topic.ts
+index 4d887b3639f7f1f87b4f906556cb5a21af16ecf3..c558116ab4ffe839c69f3ffca13cd633dc647d6d 100644
+--- a/alan/books/all-about-alan/topics/pages/the-values-i-have-not-placed.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-values-i-have-not-placed.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const theValuesIHaveNotPlaced = {
+   parentSlugs: ["what-i-value-in-order"],
+   settled:
+     "Only the top four of the six are pointed at a part of me.\n\nThe six were set before the wider set of things I run on existed.",
+-  unsettled:
+-    "Where fun sits is unresolved: which part of me it improves, whether it feeds the top three the way learning does, and why it ranks under health.\n\nWealth has never been glossed at all, including which part of me it improves.\n\nWhat I run on now is wider than the six, and how the whole set orders, including where identity sits, has never been recorded.",
+ } as const satisfies AllAboutAlanTopic
