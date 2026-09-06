@@ -1,0 +1,37 @@
+diff --git a/changes/workflow-templates/pages/workflow-seaweedfs/workflow-seaweedfs.workflow-template.declaration.ts b/changes/workflow-templates/pages/workflow-seaweedfs/workflow-seaweedfs.workflow-template.declaration.ts
+index e3e14dfa1dc3c5449d7ab928d36d5456ffa3ff35..be2e2579aa9ccd5ed5508af7547db8a87bc62d0b 100644
+--- a/changes/workflow-templates/pages/workflow-seaweedfs/workflow-seaweedfs.workflow-template.declaration.ts
++++ b/changes/workflow-templates/pages/workflow-seaweedfs/workflow-seaweedfs.workflow-template.declaration.ts
+@@ -2,7 +2,7 @@ import { checksumHashCommands } from "@akasha/workflow-language/checksum-hash"
+ import { IMAGES } from "@akasha/workflow-language/images"
+ import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+ import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
++import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
+ import { step } from "@akasha/workflow-language/step"
+ import { verifyRolloutCommands } from "@akasha/workflow-language/verify-rollout"
+ import { workflow } from "@akasha/workflow-language/workflow"
+@@ -33,8 +33,7 @@ const foundationSeaweedfs = workflow("seaweedfs", {
+     {
+       ...applyRbac({
+         name: "seaweedfs-apply-rbac",
+-        rbacFile:
+-          "infrastructure/cluster-manifests/seaweedfs-rbac/seaweedfs-rbac.module.code.ts",
++        rbacFile: "infrastructure/cluster-manifests/seaweedfs-rbac/seaweedfs-rbac.module.code.ts",
+       }),
+       dependsOn: ["seaweedfs-apply-namespace"],
+     },
+@@ -284,11 +283,10 @@ const foundationSeaweedfs = workflow("seaweedfs", {
+     },
+ 
+     {
+-      ...sopsDecryptApply({
++      ...secretPlaceApply({
+         name: "seaweedfs-apply-etcd-talosconfig",
+         namespace: "seaweedfs",
+-        secretFile:
+-          "infrastructure/seaweedfs/etcd-snapshot/etcd-snapshot.k8s-secret.sops.yaml",
++        resource: "etcd-snapshot-talosconfig",
+       }),
+       dependsOn: ["seaweedfs-apply-namespace"],
+     },
