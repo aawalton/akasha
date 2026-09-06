@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-lifts-the-low-feeling-modifier.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-lifts-the-low-feeling-modifier.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..021cacedefc65b65b304e7bdcda6b7277b7373c3
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-lifts-the-low-feeling-modifier.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatLiftsTheLowFeelingModifier = {
++  id: "01a077e9-a71e-71ce-8af6-93b3ada0cc02",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-lifts-the-low-feeling-modifier",
++  topicSlug: "the-low-feeling-that-costs-me-a-level",
++  ask: "What actually lifts the modifier? Reading my record returns the fact of what I did and not the experience, and no other counter has been named.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-low-feeling-has-its-own-time-constant.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-low-feeling-has-its-own-time-constant.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c2292c1eac0feec157fafdad672b0e1b55ddd086
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-low-feeling-has-its-own-time-constant.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheLowFeelingHasItsOwnTimeConstant = {
++  id: "01a077e9-a71f-7b86-b5a1-7455995aa63b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-low-feeling-has-its-own-time-constant",
++  topicSlug: "the-low-feeling-that-costs-me-a-level",
++  ask: "Does the modifier have its own time constant, or does it track something else that has one?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-low-feeling-moves-my-level.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-low-feeling-moves-my-level.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c64830f6f3292a1706a10ea3319d6dfd62410a74
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-low-feeling-moves-my-level.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheLowFeelingMovesMyLevel = {
++  id: "01a077e9-a71f-794f-89e6-f33d3dc46f4a",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-low-feeling-moves-my-level",
++  topicSlug: "the-low-feeling-that-costs-me-a-level",
++  ask: "Does the modifier move my safety level itself, or only what I can reach at that level?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-low-feeling-that-costs-me-a-level.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-low-feeling-that-costs-me-a-level.all-about-alan-topic.ts
+index 0ead091a038b46b29e6f23ac63988cb006c25a33..a4e04ea7211fccbc493876fe5eeef159d92c40cb 100644
+--- a/alan/books/all-about-alan/topics/pages/the-low-feeling-that-costs-me-a-level.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-low-feeling-that-costs-me-a-level.all-about-alan-topic.ts
+@@ -11,6 +11,4 @@ export const theLowFeelingThatCostsMeALevel = {
+   relatedSlugs: ["where-safety-has-got-to", "what-my-record-gives-me-back"],
+   settled:
+     "Feeling down is often just what it feels like in there.\n\nIt acts as a minus one or minus two modifier to my safety level.\n\nIf my level is high enough it is not a problem. If it is low enough I do not even start.\n\nWhen I am on the margin, it matters.\n\nOn 27 August 2026 I was at two to three against a rebuild at difficulty three, which is that band.",
+-  unsettled:
+-    "What actually lifts the modifier is unnamed. Reading my record returns the fact of what I did and not the experience, and nothing else has been named as a counter.\n\nWhether the modifier moves the level itself or only what I can reach at that level is not separated.\n\nWhether it has its own time constant, or tracks something else that does, is unrecorded.",
+ } as const satisfies AllAboutAlanTopic
