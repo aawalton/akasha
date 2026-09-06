@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts b/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
+index 504173f5f215c49e7c866f5d6fbfeb5a964fbe3e..a2eb225ad6bb329d3581fdcc548299748000c73f 100644
+--- a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
++++ b/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
+@@ -11,7 +11,7 @@ export const amyAlanHarnessImprovements = {
+       statement:
+         "`akasha measure attributes` answers each attribute's total level, floored to two decimals.",
+       workingMemory:
+-        "The command answers the reading for the day rather than a total, and every attribute page carries a lifetime of zero, so nothing sums a day into a lifetime yet. The flooring and the two decimal places are done. Each readout's own code holds what one point of that attribute costs, so a total is those daily points added up rather than the arithmetic written again.",
++        "The total and the two decimal places are landed. What is left is the level: an attribute starts at 0 and climbs by 10, 10, 20, 30, 50, 80, 130, 210, which is Fibonacci times ten, so a level is the highest rung the points have reached. The points may sit beside the level. Every total counts from 2026-09-06 and no earlier. Charisma carries no rate: an hour at ease is a whole point where a point of strength is a metric ton lifted, so charisma climbs far faster than the rest.",
+     },
+     {
+       statement: "Alan can see how much each widget on his phone is used.",
