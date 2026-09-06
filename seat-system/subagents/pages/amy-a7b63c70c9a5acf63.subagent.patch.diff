@@ -141536,3 +141536,15 @@ dP6jou+MS<7SZ{1NnF#;@z}W3iYw!+B`+qBb2`m5r
 literal 0
 HcmV?d00001
 
+diff --git a/personas/abby/abby.persona.ts b/personas/abby/abby.persona.ts
+index 2c743123251a4912cd15d2e20a606c478722ae5f..fb20649b2380176255a0c28aff2fa88ac059eb11 100644
+--- a/personas/abby/abby.persona.ts
++++ b/personas/abby/abby.persona.ts
+@@ -16,6 +16,7 @@ export const abby = {
+   email: "abby@alanwalton.com",
+   voiceReferenceSha256: "ea7a17b0266712ca09f0b9923604e753756d25cfa84275e3d8bb028cbaa8b236",
+   cover: "/api/image/019f324d-3446-7e99-8ef3-9e02b70f90b0",
++  desktopWallpaper: "png",
+   mobileWallpaper: "png",
+   greenDayPoints: 5000,
+   history:
