@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts b/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts
+index 9b21382c711677566a35463f84b30e4f835a4870..8919454d290139cc18edc4c7564d71dca4527a4d 100644
+--- a/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts
++++ b/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts
+@@ -23,7 +23,8 @@ export const mobileSimScreenshot = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A picture is taken of the session already there rather than of one opened here.",
++      statement:
++        "A picture is taken of the session already there rather than of a session opened here.",
+     },
+     {
+       invariantKind: "departure",
