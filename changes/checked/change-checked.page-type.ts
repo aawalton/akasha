@@ -19,6 +19,8 @@ export const changeChecked = {
     "change-checked/move-page",
     "change-checked/remove-page",
     "change-checked/remove-page-type",
+    "change-checked/rename-code-token",
+    "change-checked/rename-page",
   ],
   invariants: [
     {

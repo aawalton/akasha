@@ -19,6 +19,17 @@ export const changeMechanical = {
     "change-mechanical/remove-file",
     "change-mechanical/repoint-imports",
     "change-mechanical/restate-value",
+    "change-mechanical/add-file",
+    "change-mechanical/change-file",
+    "change-mechanical/remove-page",
+    "change-mechanical/remove-page-type",
+    "change-mechanical/remove-property-value",
+    "change-mechanical/rename-export",
+    "change-mechanical/rename-local-variable",
+    "change-mechanical/rename-page-slug",
+    "change-mechanical/rename-path",
+    "change-mechanical/rename-property-signature",
+    "change-mechanical/respell-export",
   ],
   invariants: [
     {
