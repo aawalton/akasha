@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/code-system/ios-apps/app-building/app-building.module.ts b/code-system/ios-apps/app-building/app-building.module.ts
-index b3c3cddfc20c46b470ff6f6e5c7b5a7e3cc5c4bb..c050d9f89369a0fbde026ed645364b8bd3133e73 100644
+index b3c3cddfc20c46b470ff6f6e5c7b5a7e3cc5c4bb..3b0e756d987af1a85147a30563eb5c16b0e2aaa9 100644
 --- a/code-system/ios-apps/app-building/app-building.module.ts
 +++ b/code-system/ios-apps/app-building/app-building.module.ts
 @@ -15,7 +15,7 @@ export const appBuilding = {
@@ -12,3 +11,12 @@ index b3c3cddfc20c46b470ff6f6e5c7b5a7e3cc5c4bb..c050d9f89369a0fbde026ed645364b8b
      },
      {
        invariantKind: "departure",
+@@ -28,7 +28,7 @@ export const appBuilding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An app naming one half of its staging and not the other is refused.",
++      statement: "An app naming part of its staging is refused.",
+     },
+     {
+       invariantKind: "absence",
