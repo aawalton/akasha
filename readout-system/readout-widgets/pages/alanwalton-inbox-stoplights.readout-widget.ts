@@ -12,7 +12,7 @@ export const alanwaltonInboxStoplights = {
   feed: "https://alanwalton.com/api/inbox-stoplights",
   galleryName: "Inboxes",
   galleryDescription: "Your three inbox stoplights, at a glance.",
-  opens: "capacitor://localhost/nav/tasks-a7242626",
+  opens: "capacitor://localhost/nav/tasks-a7242626#widget=alanwalton-inbox-stoplights",
   groupSlugs: ["inboxes"],
   place: 3,
 } as const satisfies ReadoutWidget

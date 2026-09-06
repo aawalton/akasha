@@ -8,6 +8,6 @@ export const opens = {
   slug: "opens",
   propertySlug: "opens",
   definition: "where a tap on a widget goes",
-  max: 100,
+  max: 150,
   nameFormatSlug: null,
 } as const satisfies TextProperty

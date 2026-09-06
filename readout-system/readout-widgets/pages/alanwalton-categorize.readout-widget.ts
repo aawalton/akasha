@@ -13,7 +13,7 @@ export const alanwaltonCategorize = {
   galleryName: "Left to Review",
   galleryDescription:
     "How many of the past year's transactions Monarch is waiting to have reviewed.",
-  opens: "capacitor://monarch-relay",
+  opens: "capacitor://monarch-relay#widget=alanwalton-categorize",
   groupSlugs: ["categorization"],
   place: 7,
 } as const satisfies ReadoutWidget

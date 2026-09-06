@@ -100,7 +100,7 @@ export const readoutWidget = {
     },
     {
       invariantKind: "departure",
-      statement: "A widget's link carries the slug of the widget the link opens.",
+      statement: "A widget's link names that widget in the link's fragment.",
     },
     {
       invariantKind: "departure",
