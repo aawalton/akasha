@@ -1,0 +1,144 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/pages/remove-file/remove-file.change.code.ts b/changes/pages/remove-file/remove-file.change.code.ts
+index 776275be4f400c70112fbeaa727781e03ddd1946..9e3a9a4ecdf62b8168f951abcdec0654ca57a84e 100644
+--- a/changes/pages/remove-file/remove-file.change.code.ts
++++ b/changes/pages/remove-file/remove-file.change.code.ts
+@@ -4,6 +4,7 @@ import {
+   taking,
+ } from "../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ export type Asked = {
+   readonly at: string
+@@ -16,3 +17,7 @@ export function removeFile(given: Asked, textOf: (path: string) => string | null
+   }
+   return answered([taking(given.at, text)])
+ }
++
++export function runChange(world: World, given: Asked): Answer {
++  return removeFile(given, world.textOf)
++}
+diff --git a/changes/pages/rename-local-variable/rename-local-variable.change.code.ts b/changes/pages/rename-local-variable/rename-local-variable.change.code.ts
+index 5a1ebd4153c57aa3fa815264df533602990cfaa7..31c24f98080ac762a3cd772c1c05f06fc03f563c 100644
+--- a/changes/pages/rename-local-variable/rename-local-variable.change.code.ts
++++ b/changes/pages/rename-local-variable/rename-local-variable.change.code.ts
+@@ -6,6 +6,7 @@ import {
+   writing,
+ } from "../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+ 
+@@ -237,3 +238,17 @@ export function renameLocalVariable(path: string, text: string, given: Asked): A
+   }
+   return answered([writing(path, text, body)])
+ }
++
++// The offset is `spot` rather than `at`, because `at` names the path a change acts on everywhere a
++// change is reached by address.
++export type Given = {
++  readonly at: string
++  readonly spot: number
++  readonly to: string
++}
++
++export function runChange(world: World, given: Given): Answer {
++  const text = world.textOf(given.at)
++  if (text === null) return refusing(`\`${given.at}\` holds no body, so nothing is renamed`)
++  return renameLocalVariable(given.at, text, { at: given.spot, to: given.to })
++}
+diff --git a/changes/pages/repoint-imports/repoint-imports.change.code.ts b/changes/pages/repoint-imports/repoint-imports.change.code.ts
+index 38d21a336a8bb99c526648d5794378cd6891d3d5..a5d10011d846a02d8d4f2aa7217ff49cdca4afd5 100644
+--- a/changes/pages/repoint-imports/repoint-imports.change.code.ts
++++ b/changes/pages/repoint-imports/repoint-imports.change.code.ts
+@@ -1,7 +1,13 @@
+ import { basename, dirname, extname, join, relative } from "node:path"
+ import { landingOf, placedIn, spelledIn } from "@akasha/code/code-specifier"
+-import { answered, moving, writing } from "../../modules/change-answer/change-answer.module.code.ts"
++import {
++  answered,
++  moving,
++  refusing,
++  writing,
++} from "../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ const GENERATED = "+types"
+ 
+@@ -77,3 +83,17 @@ export function repointed(
+   const body = `${out}${text.slice(at)}`
+   return answered([was === now ? writing(now, text, body) : moving(was, now, text, body)])
+ }
++
++// The paths that moved arrive as a plain object rather than a map, so an address reaches this
++// change with arguments a command line and a caller in code can both spell.
++export type Given = {
++  readonly was: string
++  readonly now: string
++  readonly moved: Readonly<Record<string, string>>
++}
++
++export function runChange(world: World, given: Given): Answer {
++  const text = world.textOf(given.was)
++  if (text === null) return refusing(`\`${given.was}\` holds no body, so nothing is repointed`)
++  return repointed(given.was, given.now, text, new Map(Object.entries(given.moved)))
++}
+diff --git a/changes/pages/respell-export/respell-export.change.code.ts b/changes/pages/respell-export/respell-export.change.code.ts
+index 3666d4734b2c4bebb56e51b93b6cb154f44bacbd..253f134efe160929ea1e5aa7e030a9e33ad288f1 100644
+--- a/changes/pages/respell-export/respell-export.change.code.ts
++++ b/changes/pages/respell-export/respell-export.change.code.ts
+@@ -12,6 +12,7 @@ import {
+   writing,
+ } from "../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer, Edit } from "../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ type Spot = {
+   readonly start: number
+@@ -60,3 +61,14 @@ export function respelled(
+   }
+   return answered(edits)
+ }
++
++export type Given = {
++  readonly at: string
++  readonly over: readonly string[]
++  readonly of: string
++  readonly to: string
++}
++
++export function runChange(world: World, given: Given): Answer {
++  return respelled(world.root, given.at, given.over, given.of, given.to, world.textOf)
++}
+diff --git a/changes/pages/restate-value/restate-value.change.code.ts b/changes/pages/restate-value/restate-value.change.code.ts
+index da535fcda179719d93cc7b9c0f70e17558ef922e..9514c483ae0948b4242785561b50c52bf4329212 100644
+--- a/changes/pages/restate-value/restate-value.change.code.ts
++++ b/changes/pages/restate-value/restate-value.change.code.ts
+@@ -6,6 +6,7 @@ import {
+   writing,
+ } from "../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
++import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ export function keyOf(held: ts.PropertyAssignment): string | null {
+   const name = held.name
+@@ -53,3 +54,15 @@ export function restated(path: string, text: string, key: string, to: string): A
+   const body = text.slice(0, start) + JSON.stringify(to) + text.slice(held.getEnd())
+   return answered([writing(path, text, body)])
+ }
++
++export type Given = {
++  readonly at: string
++  readonly key: string
++  readonly to: string
++}
++
++export function runChange(world: World, given: Given): Answer {
++  const text = world.textOf(given.at)
++  if (text === null) return refusing(`\`${given.at}\` holds no body, so nothing is restated`)
++  return restated(given.at, text, given.key, given.to)
++}
