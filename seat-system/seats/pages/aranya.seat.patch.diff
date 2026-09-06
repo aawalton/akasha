@@ -188,3 +188,17 @@ index 0000000000000000000000000000000000000000..f1b211249301909c369e923a1d64980e
 +  slug: "collections-secrets-scraperapi-api-key",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "SCRAPERAPI_API_KEY" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-seaweedfs-bucket.secret.ts b/service-system/secrets/pages/collections-secrets-seaweedfs-bucket.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9cd6b036671f49abff1618d13703faa3f99238e3
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-seaweedfs-bucket.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsSeaweedfsBucket = {
++  id: "01a076b7-92cf-733e-b55e-b0009460c1db",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-seaweedfs-bucket",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "SEAWEEDFS_BUCKET" }],
++} as const satisfies Secret
