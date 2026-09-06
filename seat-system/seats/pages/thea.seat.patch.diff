@@ -180,6 +180,19 @@ index cbac2fd22d1ddafb7389d83cd7043efb35a4830a..b93eb838083a1ccd419b07d3ab6067da
    pageTypeSlug: "module",
    slug: "secrets",
    definition: "the secret names a step may mount, and a reference to one of them",
+diff --git a/changes/workflow-language/set-image/set-image.module.ts b/changes/workflow-language/set-image/set-image.module.ts
+index 38f888a0d848ba79a9d9070a4635b4c10268bf95..6c5cad4d1ffe896470d6fa57782f4dc6155d5a83 100644
+--- a/changes/workflow-language/set-image/set-image.module.ts
++++ b/changes/workflow-language/set-image/set-image.module.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "../../../code-system/modules/module.page-type.ts"
+ 
+ export const setImage = {
+-  id: "01a06f10-7000-7010-b0010-9d4a2f6c0010e1",
++  id: "01a07740-d031-744a-9da4-6da5a8c7ce4e",
+   pageTypeSlug: "module",
+   slug: "set-image",
+   definition: "shell lines setting the image of a deployment's containers",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
