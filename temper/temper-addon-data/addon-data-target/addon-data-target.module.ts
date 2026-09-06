@@ -23,7 +23,7 @@ export const addonDataTarget = {
     },
     {
       invariantKind: "departure",
-      statement: "A part slug is written with no fewer than two digits.",
+      statement: "A part slug is written with at least two digits.",
     },
     {
       invariantKind: "departure",
