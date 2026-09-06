@@ -1,5 +1,5 @@
 diff --git a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
-index 2366ad1a4ca599711b9290dcfd6fb11f7e12c7e4..833194b06f22f01542874c43a9eba60463bb4e3e 100644
+index 2366ad1a4ca599711b9290dcfd6fb11f7e12c7e4..dd7396413a23ff58d6e391d7f767d4532a86ea20 100644
 --- a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
 +++ b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
 @@ -9,7 +9,7 @@ export const dueReminderSending = {
@@ -8,6 +8,15 @@ index 2366ad1a4ca599711b9290dcfd6fb11f7e12c7e4..833194b06f22f01542874c43a9eba604
        invariantKind: "departure",
 -      statement: "A reminder that has come due becomes a message file, and nothing else.",
 +      statement: "A reminder that has come due becomes a message file and nothing else.",
+     },
+     {
+       invariantKind: "departure",
+@@ -27,7 +27,7 @@ export const dueReminderSending = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A run finding many windows passed since the last sending sends once rather than once per window.",
++        "A run finding many windows passed after the last sending sends once rather than once per window.",
      },
      {
        invariantKind: "departure",
