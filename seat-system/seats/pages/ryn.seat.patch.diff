@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/harness/monarch/credential/monarch-credential.module.ts b/alan/harness/monarch/credential/monarch-credential.module.ts
+index e6c8f500e9638a58fb966ed724482c4859c6e0ae..41211040fff71b8234d35a20adff4747eda33e18 100644
+--- a/alan/harness/monarch/credential/monarch-credential.module.ts
++++ b/alan/harness/monarch/credential/monarch-credential.module.ts
+@@ -35,7 +35,7 @@ export const monarchCredential = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here keeps a cookie or reads one from a file.",
++      statement: "Nothing here keeps a cookie or reads a cookie from a file.",
+     },
+   ],
+ } as const satisfies Module
