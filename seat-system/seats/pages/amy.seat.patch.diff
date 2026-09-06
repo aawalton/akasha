@@ -200,3 +200,15 @@ index 608097ab0342f14b100e123465a40a9ac82f1f6f..13523677a0f3874cc7a7ac453dab71b6
    viewPlace: 2,
    layout: "gallery",
    groupSorts: [{ key: "role-slug", descending: false }],
+diff --git a/pages/views/pages/personas-not-empty.view.ts b/pages/views/pages/personas-not-empty.view.ts
+index b298bdd55dd7b44617efa09cf5ca4db2e394c22f..af415ff242b5b18c356188bced19685dfd0c1fa4 100644
+--- a/pages/views/pages/personas-not-empty.view.ts
++++ b/pages/views/pages/personas-not-empty.view.ts
+@@ -6,6 +6,7 @@ export const personasNotEmpty = {
+   slug: "personas-not-empty",
+   title: "Not Empty",
+   navSlug: "personas",
++  pageType: "persona",
+   viewPlace: 0,
+   layout: "notes",
+   narrows: [{ key: "alan-notes", comparison: "empty", values: ["false"] }],
