@@ -56,6 +56,19 @@ index 72c2f8dc7ed85e7c912a5651b9e781a607b199d8..dd45d669293484a93da133bd259f809e
    return saying(`\`${act}\` is no act this takes`)
  }
  
+diff --git a/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts b/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts
+index e0339fe70915197f0d3b5b3a6bf77cbc9200184d..42982dbb7a36abd03369ece8613823acdab3d54f 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts
+@@ -4,7 +4,7 @@ import { writing } from "@akasha/command-system/scratching/testing"
+ import { said as gitIn } from "@akasha/git/git-running"
+ import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
+ import { declaringUnder } from "@akasha/testing-system/declaring"
+-import { bodyOf, pathOf, slugOf } from "./subagent-presence.module.code.ts"
++import { bodyOf, pathOf, slugOf, type Went } from "./subagent-presence.module.code.ts"
+ 
+ export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
+ 
 diff --git a/seat-system/subagents/presence/subagent-presence.module.test.ts b/seat-system/subagents/presence/subagent-presence.module.test.ts
 index e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac..7c60c0997f5e6cbd8a8ae1659595f4b32d9e7769 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.test.ts
