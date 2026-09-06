@@ -1,5 +1,5 @@
 diff --git a/editor-extension/panel-judging/panel-judging.module.ts b/editor-extension/panel-judging/panel-judging.module.ts
-index adb0a71bb79268a65b6e7f0569caae9c7930f417..1a9cabc8bd3f6c757c88a5dac3f2cdc05f421d74 100644
+index adb0a71bb79268a65b6e7f0569caae9c7930f417..0aadcb0c754c94ba2355e9a4dd7c8ff731966977 100644
 --- a/editor-extension/panel-judging/panel-judging.module.ts
 +++ b/editor-extension/panel-judging/panel-judging.module.ts
 @@ -11,7 +11,7 @@ export const panelJudging = {
@@ -44,7 +44,7 @@ index adb0a71bb79268a65b6e7f0569caae9c7930f417..1a9cabc8bd3f6c757c88a5dac3f2cdc0
      },
      {
        invariantKind: "departure",
-@@ -90,8 +96,11 @@ export const panelJudging = {
+@@ -90,12 +96,15 @@ export const panelJudging = {
      },
      {
        invariantKind: "departure",
@@ -58,3 +58,8 @@ index adb0a71bb79268a65b6e7f0569caae9c7930f417..1a9cabc8bd3f6c757c88a5dac3f2cdc0
      },
      {
        invariantKind: "absence",
+-      statement: "No timing budget is pinned, these numbers moving with the load on a shared box.",
++      statement: "No timing budget is pinned.",
+     },
+     {
+       invariantKind: "departure",
