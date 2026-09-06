@@ -108,6 +108,29 @@ index 3bb9aec34882aeeed12c325c8aab647155897be2..8305cfac05a008f941a1fe5dca651dd2
      "@typescript/typescript-darwin-arm64": ["@typescript/typescript-darwin-arm64@7.1.0-dev.20260904.1", "", { "os": "darwin", "cpu": "arm64" }, "sha512-Lu45MVhqxD4guUqR0f8yJckWp8Qn11d01yX5p4bf9jN5KuLaq+7opjuLaK5O6140DcfC6eDgn8KsBlmJHr/UpA=="],
  
      "@typescript/typescript-darwin-x64": ["@typescript/typescript-darwin-x64@7.1.0-dev.20260904.1", "", { "os": "darwin", "cpu": "x64" }, "sha512-+F5eaVCnGJ6fBFTen6kcCMRRDfBj+a3IxS3L8o9s4LgIPBC0E8+3MmSX+esj0ig76xqIj+a/xqnfcGFS3MfJaA=="],
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+index ed717412cb7ba57467b26765758b60b5f4ca71c4..ce3b534a499edf83a8d3630fd98cb5d68ac6a7fe 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+@@ -1 +1,5 @@
+-export type Changes = {}
++export type Changes = {
++  "change-command/remove-page": Parameters<
++    typeof import("../../../command/pages/remove-page/remove-page.change-command.code.ts")["runChange"]
++  >[1]
++}
+diff --git a/checks/cluster-checks/cluster-check.page-type.ts b/checks/cluster-checks/cluster-check.page-type.ts
+index 222e778e17e6238eef67ed275d39a679ddba506f..77f7068b74e9b6e6d91b913faa4c157c1ad99de0 100644
+--- a/checks/cluster-checks/cluster-check.page-type.ts
++++ b/checks/cluster-checks/cluster-check.page-type.ts
+@@ -81,6 +81,7 @@ export const clusterCheck = {
+     "module/checksum-annotation-substitution",
+     "module/checksum-substitution-reachability",
+     "module/cluster-population-bound",
++    "module/dep-version-policy",
+     "module/file-finding",
+     "module/functional-type",
+     "module/held-addon-structure",
 diff --git a/checks/cluster-checks/modules/dep-version-policy/dep-version-policy.module.code.ts b/checks/cluster-checks/modules/dep-version-policy/dep-version-policy.module.code.ts
 index 9743fec73615b778489c1e1740e7c8af86f8e851..48b8da3566e946a692108ebac1e4f2c0495a29be 100644
 --- a/checks/cluster-checks/modules/dep-version-policy/dep-version-policy.module.code.ts
