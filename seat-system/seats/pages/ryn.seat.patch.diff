@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/access/pages-access.workspace-package.ts b/pages/access/pages-access.workspace-package.ts
+index 507aeaa7b4c206ec3f1c8df113609930c23b3a99..edd4818ab402bdd54c52f84e6a9d8c328bdebf75 100644
+--- a/pages/access/pages-access.workspace-package.ts
++++ b/pages/access/pages-access.workspace-package.ts
+@@ -67,7 +67,7 @@ export const pagesAccess = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "Most of this package's work is proved by no test of its own.",
++      statement: "This package's work is largely proved by no test of its own.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
