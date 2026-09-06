@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/sms-core/commands/sms-send/sms-send.command.ts b/sms-core/commands/sms-send/sms-send.command.ts
+index 0500404e08a85874591ce0eabcb921cfdab59da8..38b215d2e8f97971b3d5bc54abdb1fddaa1f4cd4 100644
+--- a/sms-core/commands/sms-send/sms-send.command.ts
++++ b/sms-core/commands/sms-send/sms-send.command.ts
+@@ -40,7 +40,7 @@ export const smsSend = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The number sent from is the toll-free one unless another number is said.",
++      statement: "The number sent from is the toll-free number unless another number is said.",
+     },
+     {
+       invariantKind: "departure",
