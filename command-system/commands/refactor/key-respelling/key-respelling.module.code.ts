@@ -191,7 +191,7 @@ export function respellingFor(
     respelling: {
       changes,
       declarers: declared.paths,
-      pages: [...held.keys()].filter((path) => carrying.has(path)).sort(),
+      pages: [...held.keys()].sort(),
       carries: carriesFor(root, one, carrying),
     },
   }
