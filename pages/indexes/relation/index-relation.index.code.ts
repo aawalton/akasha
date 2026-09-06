@@ -31,7 +31,7 @@ export function relationIn(value: Value, path: string, known: Shaped, repo: stri
   const refused: string[] = []
   const already = new Set<string>()
   for (const one of namingsIn(value, known)) {
-    if (one.own) continue
+    if (one.identity) continue
     const wanted = known.targetOf(one.propertySlug)
     if (wanted === null) continue
     for (const named of namesIn(one.held)) {

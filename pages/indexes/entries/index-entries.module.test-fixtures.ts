@@ -110,11 +110,13 @@ const TARGETS: Readonly<Record<string, string | readonly string[]>> = {
   "noted-slugs": "domain",
   "either-slug": ["domain", "note"],
   "gone-slugs": "note",
+  "page-type-slug": "page-type",
 }
 
 const ADMITTING: Readonly<Record<string, readonly string[]>> = {
   domain: ["domain", "module"],
   note: ["note"],
+  "page-type": ["page-type"],
 }
 
 const MORTAL: ReadonlySet<string> = new Set(["note"])
@@ -127,6 +129,7 @@ const KEYED: Readonly<Record<string, string>> = {
   heldSlugs: "held-slugs",
   holds: "holds",
   inner: "inner",
+  pageTypeSlug: "page-type-slug",
 }
 
 export function shaped(pages: Readonly<Record<string, string>>): Shaped {

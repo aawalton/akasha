@@ -90,19 +90,11 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's `id` is answered as the page's own.",
+      statement: "A page's `id`, `slug` and `pageTypeSlug` are answered as that page's identity.",
     },
     {
       invariantKind: "departure",
-      statement: "A page's `slug` is answered as the page's own.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page's `pageTypeSlug` is answered as the page's own.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "How a caller answers a key being the page's own is that caller's own.",
+      statement: "How a caller answers a naming being an identity is that caller's own.",
     },
     {
       invariantKind: "departure",

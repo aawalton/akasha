@@ -181,7 +181,7 @@ export type Naming = {
 export function namingFor(value: Value, known: Shaped, id: string): readonly Naming[] {
   const found: Naming[] = []
   for (const one of namingsIn(value, known)) {
-    if (one.own) continue
+    if (one.identity) continue
     const wanted = known.targetOf(one.propertySlug)
     if (wanted === null) continue
     const listed = Array.isArray(one.held)

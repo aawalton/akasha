@@ -39,6 +39,14 @@ test("a name for a mortal page type files no edge and is not reported", () => {
   })
 })
 
+test("a page's own page type files no edge, though its property reaches that page type", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
+
+  expect(
+    relationIn(value, "/repo/a.domain.ts", shaped({ "page-type/domain": B }), "/repo")
+  ).toEqual({ entries: [], refused: [] })
+})
+
 test("a relation nested in a record is filed from the page, and twice over files one edge", () => {
   const value = {
     id: A,

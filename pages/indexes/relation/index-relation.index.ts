@@ -23,15 +23,12 @@ export const indexRelation = {
     },
     {
       invariantKind: "departure",
-      statement: "A page's own id files no edge.",
+      statement:
+        "A page's identity is its id, its slug and the page type its slug is unique within.",
     },
     {
       invariantKind: "departure",
-      statement: "A page's own slug files no edge.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page's own page type files no edge.",
+      statement: "A page's identity files no edge, the identity index filing it.",
     },
     {
       invariantKind: "departure",
