@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
-index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..a2f3a04a93106d5627076575cd7ecf5a0acfab8a 100644
+index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..5f5bfb3db8b1dc131df08480eb897044d1b6cbe6 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
 @@ -9,7 +9,8 @@ export const treeDrawing = {
@@ -22,7 +22,7 @@ index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..a2f3a04a93106d5627076575cd7ecf5a
      },
      {
        invariantKind: "departure",
-@@ -33,7 +34,8 @@ export const treeDrawing = {
+@@ -33,11 +34,12 @@ export const treeDrawing = {
      },
      {
        invariantKind: "departure",
@@ -32,3 +32,8 @@ index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..a2f3a04a93106d5627076575cd7ecf5a
      },
      {
        invariantKind: "absence",
+-      statement: "Nothing here reads a clock, watches a file or writes one.",
++      statement: "Nothing here reads a clock or watches a file or writes a file.",
+     },
+   ],
+ } as const satisfies Module
