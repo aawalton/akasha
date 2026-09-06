@@ -56,7 +56,7 @@ export const indexSurface = {
     },
     {
       invariantKind: "departure",
-      statement: "An index that stands nowhere yet is read as one standing and holding nothing.",
+      statement: "An index not there yet is read as an index that is there and holds nothing.",
     },
     {
       invariantKind: "absence",
