@@ -10,7 +10,7 @@ export const voiceSpec = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A voice cloned from a real speaker runs in lane R and no other.",
+      statement: "A voice cloned from a real speaker runs in lane R and no other lane.",
     },
     {
       invariantKind: "departure",
