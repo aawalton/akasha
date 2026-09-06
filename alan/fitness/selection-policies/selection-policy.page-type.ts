@@ -78,7 +78,7 @@ export const selectionPolicy = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One page carries the numbers, and there is never a second.",
+      statement: "One page carries the numbers and there is never a second page.",
     },
     {
       invariantKind: "departure",
