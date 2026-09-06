@@ -16,6 +16,7 @@
     "./rbac-types": "./rbac-types/rbac-types.module.code.ts",
     "./retry-transient-ddl": "./retry-transient-ddl/retry-transient-ddl.module.code.ts",
     "./rollback-image": "./rollback-image/rollback-image.module.code.ts",
+    "./secret-place": "./secret-place/secret-place.workflow-step.code.ts",
     "./secrets": "./secrets/secrets.module.code.ts",
     "./set-image": "./set-image/set-image.module.code.ts",
     "./sops-decrypt": "./sops-decrypt/sops-decrypt.workflow-step.code.ts",

@@ -27,6 +27,7 @@ export const workflowLanguage = {
     "module/retry-transient-ddl",
     "module/rollback-image",
     "module/set-image",
+    "workflow-step/secret-place",
     "workflow-step/sops-decrypt",
     "workflow-step/source-sync",
     "module/verify-rollout",

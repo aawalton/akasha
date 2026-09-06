@@ -1,6 +1,6 @@
 import { IMAGES } from "@akasha/workflow-language/images"
 import { applyRbac } from "@akasha/workflow-language/rbac-apply"
-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
 import { step } from "@akasha/workflow-language/step"
 import { workflow } from "@akasha/workflow-language/workflow"
 
@@ -20,11 +20,10 @@ export default workflow("cert-manager", {
         "infrastructure/cluster-manifests/cert-manager-rbac/cert-manager-rbac.module.code.ts",
     }),
     {
-      ...sopsDecryptApply({
+      ...secretPlaceApply({
         name: "cert-manager-apply-cloudflare-token",
         namespace: "cert-manager",
-        secretFile:
-          "infrastructure/cluster-manifests/cluster-secrets/cloudflare-api-token.k8s-secret.sops.yaml",
+        resource: "cloudflare-api-token",
       }),
       dependsOn: ["cert-manager-apply-rbac"],
     },
