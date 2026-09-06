@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/read/read.command.test-fixtures.ts b/command-system/commands/read/read.command.test-fixtures.ts
-index c82e39778bc2661656f9d63514d96840ffdc8840..868c342d3e587ca9f67594c9bea70d5b91db44f9 100644
+index c82e39778bc2661656f9d63514d96840ffdc8840..1926fa20ba108055b31c533e87174bdb19fdd87f 100644
 --- a/command-system/commands/read/read.command.test-fixtures.ts
 +++ b/command-system/commands/read/read.command.test-fixtures.ts
 @@ -294,7 +294,7 @@ const TYPES: readonly {
@@ -11,3 +11,12 @@ index c82e39778bc2661656f9d63514d96840ffdc8840..868c342d3e587ca9f67594c9bea70d5b
  
  export function thingRoot(): string {
    return rootWarranting([{ at: THING, body: "one\n" }])
+@@ -310,7 +310,7 @@ export function leftIn(report: readonly string[]): readonly string[] {
+ }
+ 
+ export function everyPaged(): readonly string[] {
+-  return [...namingPages().filter((one) => one !== "--file-path"), THING_TYPE, PAGE_TYPE]
++  return [...namingPages().filter((one) => one !== "--file-path"), THING_TYPE]
+ }
+ 
+ export type Ceilinged = {
