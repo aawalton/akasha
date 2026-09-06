@@ -1,7 +1,16 @@
 diff --git a/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
-index 1337f0221d9288e093db16e1bd108fb366aa52bc..50595ae713053683c21229db470fd0de9926a5db 100644
+index 1337f0221d9288e093db16e1bd108fb366aa52bc..66a2d5cfa0c2002db1354b7610077f0c05b67057 100644
 --- a/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
 +++ b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
+@@ -47,7 +47,7 @@ export const calculationImportsOnlyTypes = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refusal names the line, and the name or the source the import came from.",
++      statement: "A refusal names the line and the name or the source the import came from.",
+     },
+     {
+       invariantKind: "absence",
 @@ -55,8 +55,11 @@ export const calculationImportsOnlyTypes = {
      },
      {
