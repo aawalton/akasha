@@ -11,6 +11,21 @@ index 3a361bda56e27a8b383d73edc8827e017340e673..a846fc3b5d76e25747c3bc2459024b6f
      { pagePropertySlug: "text-property/access-token", required: true, many: false, secret: true },
      { pagePropertySlug: "text-property/refresh-token", required: true, many: false, secret: true },
      {
+diff --git a/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts b/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts
+index 852ce95c8efc98482b849e79a0f1fc169e5ff719..be0d7c633f9d63d9472ab7641cabe3377f0fe500 100644
+--- a/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts
++++ b/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts
+@@ -157,8 +157,8 @@ export function carriedOf(key: string, said: Partial<Carried> = {}): Carried {
+     declaredBy: "claude-account",
+     required: false,
+     many: false,
+-    max: null,
+-    total: null,
++    maxCount: null,
++    maxLength: null,
+     uncommitted: false,
+     secret: false,
+     ...said,
 diff --git a/agents/claude-accounts/properties/access-token.text-property.ts b/agents/claude-accounts/properties/access-token.text-property.ts
 index 880a9083330e504a6a6332ed247e6648d51aef7a..c168a66dd239f3141105c27aa3773685e3d3f958 100644
 --- a/agents/claude-accounts/properties/access-token.text-property.ts
@@ -2512,6 +2527,21 @@ index 2bf5ee11f3d194a0bd99dfeb016e29bbd20c2ef4..e3f6cfa2b65c6ab6ff2b546a9eabc783
    }
    if (widthOf(nearer) > widthOf(further)) {
      return `\`unique\` widens from \`${reachIn(further)}\` to \`${reachIn(nearer)}\``
+diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test-fixtures.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test-fixtures.ts
+index dec9130cd44811e230686481986caade19c8b86a..45b0912bef743c2210743fb840b67c512a3a8e0e 100644
+--- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test-fixtures.ts
++++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test-fixtures.ts
+@@ -81,8 +81,8 @@ export function holding(one: Partial<Carried>): Carried {
+     declaredBy: "over",
+     required: true,
+     many: false,
+-    max: null,
+-    total: null,
++    maxCount: null,
++    maxLength: null,
+     uncommitted: false,
+     secret: false,
+     ...one,
 diff --git a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
 index 154418076c30c01ef2955feee5a0c534295649b2..e6b8b6999a4c0568aa8bbb181c196383890f953a 100644
 --- a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
@@ -3825,7 +3855,7 @@ index 5a4243caee3e0770b6836099902a170a4a3e3857..96c4cfebb634ddcf579fb5927eb6bfc8
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/graph/edges/graph-edge.page-type.ts b/graph/edges/graph-edge.page-type.ts
-index d8e8d33f53cd7a623c8c19d9271882bb5c98376a..f621bbebe6ffd55a8e0ccfc37163f69524d3d677 100644
+index 1c468470d27cefc13157e812ab23c234a1073ed2..4d6dc38cb2f8a19e13c4dc9baa72193fb71a0833 100644
 --- a/graph/edges/graph-edge.page-type.ts
 +++ b/graph/edges/graph-edge.page-type.ts
 @@ -27,7 +27,7 @@ export const graphEdge = {
@@ -3838,7 +3868,7 @@ index d8e8d33f53cd7a623c8c19d9271882bb5c98376a..f621bbebe6ffd55a8e0ccfc37163f695
    ],
    invariants: [
 diff --git a/hook-system/agent-hooks/agent-hook.page-type.ts b/hook-system/agent-hooks/agent-hook.page-type.ts
-index 49c030834043ece96d39f07b8692c0bfa1b8d5f6..3099d6bc95adeb13540f503b7995010bcdc5b720 100644
+index 642772092fb0053dbfbb4476a066ffae91ffe9c5..75096bbdbfda9a53d75548a4fe2c47f1bf8f3697 100644
 --- a/hook-system/agent-hooks/agent-hook.page-type.ts
 +++ b/hook-system/agent-hooks/agent-hook.page-type.ts
 @@ -34,8 +34,8 @@ export const agentHook = {
@@ -4436,6 +4466,21 @@ index c8da18b8448f7545db7e06aca19d197ac2cd5ddc..501d3b6ec9fdc38d858a94877c714174
    ],
    invariants: [
      {
+diff --git a/pages/service/page-composing/page-composing.module.test.ts b/pages/service/page-composing/page-composing.module.test.ts
+index 22566aad3dc2a330aad6363000f0aa8d9a51ac52..96700989ed3a9ab343a005a686a7fbc9d5d053c2 100644
+--- a/pages/service/page-composing/page-composing.module.test.ts
++++ b/pages/service/page-composing/page-composing.module.test.ts
+@@ -50,8 +50,8 @@ function carrying(key: string, declaredBy: string): Carried {
+     declaredBy,
+     required: false,
+     many: false,
+-    max: null,
+-    total: null,
++    maxCount: null,
++    maxLength: null,
+     uncommitted: false,
+     secret: false,
+   }
 diff --git a/pages/text-properties/text-property.page-type.ts b/pages/text-properties/text-property.page-type.ts
 index 3e74a7396aace37d5919a95771006b6814f6f077..983045625ae736a01f52bfae170bd158cc28f0e8 100644
 --- a/pages/text-properties/text-property.page-type.ts
