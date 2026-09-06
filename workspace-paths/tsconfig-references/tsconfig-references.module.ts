@@ -15,7 +15,7 @@ export const tsconfigReferences = {
     {
       invariantKind: "departure",
       statement:
-        "The tsconfig files read are the two at the repository root and the one in each workspace folder.",
+        "The tsconfig files read are the two at the repository root and the file in each workspace folder.",
     },
     {
       invariantKind: "departure",
