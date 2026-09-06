@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/voice-core/infer-endpoint/infer-endpoint.module.ts b/voice-core/infer-endpoint/infer-endpoint.module.ts
+index 84fdf35d1ca26bf028543cd08fcf9c75d7b17a67..3eeb6f1cb326ceb89047abae247ddb1661dab4ea 100644
+--- a/voice-core/infer-endpoint/infer-endpoint.module.ts
++++ b/voice-core/infer-endpoint/infer-endpoint.module.ts
+@@ -9,7 +9,7 @@ export const inferEndpoint = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The address is the one the cluster gives the service inside itself.",
++      statement: "The address is the address the cluster gives the service inside itself.",
+     },
+     {
+       invariantKind: "departure",
