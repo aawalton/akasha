@@ -9,7 +9,7 @@ export const seatPageValues = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat's values come from akasha, with no fallback to the older store.",
+      statement: "A seat's values come from akasha with no fallback to the older store.",
     },
     {
       invariantKind: "departure",
@@ -17,7 +17,8 @@ export const seatPageValues = {
     },
     {
       invariantKind: "departure",
-      statement: "The seat above a subagent is found by splitting its id, not by opening a file.",
+      statement:
+        "The seat above a subagent is found by splitting its id rather than by opening a file.",
     },
     {
       invariantKind: "departure",
