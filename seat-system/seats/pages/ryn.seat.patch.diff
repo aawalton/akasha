@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
-index 7bcbf4c0ee6d49f9f64ed38c1cd8f17f974a5946..f4832f9c2bffcf8d00c22bcc1e8e8ddd0704fe6d 100644
+index 7bcbf4c0ee6d49f9f64ed38c1cd8f17f974a5946..62565ceeac0b61a089d836c827638c940cbeafbb 100644
 --- a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
 +++ b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
 @@ -7,7 +7,7 @@ export const invariantStatementIsPlain = {
@@ -11,7 +11,7 @@ index 7bcbf4c0ee6d49f9f64ed38c1cd8f17f974a5946..f4832f9c2bffcf8d00c22bcc1e8e8ddd
    runsOnWorktree: false,
    runsOnDeploy: false,
    runsOnAudit: false,
-@@ -44,19 +44,19 @@ export const invariantStatementIsPlain = {
+@@ -44,24 +44,24 @@ export const invariantStatementIsPlain = {
      },
      {
        invariantKind: "departure",
@@ -35,3 +35,9 @@ index 7bcbf4c0ee6d49f9f64ed38c1cd8f17f974a5946..f4832f9c2bffcf8d00c22bcc1e8e8ddd
      },
      {
        invariantKind: "departure",
+       statement:
+-        "A shape the grammar lacks is a gap in the grammar rather than a fault in the statement.",
++        "A sentence no shape reaches is a gap in the shapes rather than a fault in the statement.",
+     },
+     {
+       invariantKind: "stopgap",
