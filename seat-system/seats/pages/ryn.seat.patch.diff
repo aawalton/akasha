@@ -1,8 +1,21 @@
 diff --git a/domains/lists/list.page-type.ts b/domains/lists/list.page-type.ts
-index aabad4f180f9a57746245ac57197a6b0593933b6..2276c6bfa8a7ea7dbd79c97256de263a0aab0376 100644
+index aabad4f180f9a57746245ac57197a6b0593933b6..bd064687b7a39c019b6068b5ee34e7a67a700738 100644
 --- a/domains/lists/list.page-type.ts
 +++ b/domains/lists/list.page-type.ts
-@@ -32,7 +32,7 @@ export const list = {
+@@ -24,7 +24,11 @@ export const list = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A member is a name and a gloss, and carries nothing else.",
++      statement: "A member is a name and a gloss.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A member carries nothing else.",
+     },
+     {
+       invariantKind: "departure",
+@@ -32,7 +36,7 @@ export const list = {
      },
      {
        invariantKind: "departure",
