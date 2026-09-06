@@ -176,7 +176,8 @@ export const game = {
     },
     {
       invariantKind: "departure",
-      statement: "A game character is one a player runs rather than one the game runs.",
+      statement:
+        "A game character is a character a player runs rather than a character the game runs.",
     },
     {
       invariantKind: "departure",
