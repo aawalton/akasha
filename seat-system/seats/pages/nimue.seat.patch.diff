@@ -70,3 +70,22 @@ index b1eb64c3a833c952a6e561c3bf2e812dc824354a..3ccb78d390a29edc502012b3596ffd4f
      },
  
      {
+diff --git a/agents/claude-accounts/modules/reading/claude-account-reading.module.ts b/agents/claude-accounts/modules/reading/claude-account-reading.module.ts
+index 631125aa040432d17d8165cf62274fe54fe81069..15b332d93ae8ccf8620fc70d2e35243220eb1fb8 100644
+--- a/agents/claude-accounts/modules/reading/claude-account-reading.module.ts
++++ b/agents/claude-accounts/modules/reading/claude-account-reading.module.ts
+@@ -19,11 +19,12 @@ export const claudeAccountReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The whole fleet is listed by one function here.",
++      statement: "The whole fleet is answered by one function here.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A fleet answer is that listing followed by a single-account read for each slug.",
++      statement:
++        "A fleet answer is one read of the index the fleet is filed in followed by a single-account read for each slug.",
+     },
+     {
+       invariantKind: "departure",
