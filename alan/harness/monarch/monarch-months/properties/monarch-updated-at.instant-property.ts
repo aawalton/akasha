@@ -11,7 +11,8 @@ export const monarchUpdatedAt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The poll refetches a transaction whose moment has moved past the one held here.",
+      statement:
+        "The poll refetches a transaction whose moment has moved past the moment held here.",
     },
   ],
 } as const satisfies InstantProperty
