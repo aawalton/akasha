@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/alan/harness/monarch/reconcile/monarch-reconcile.module.ts b/alan/harness/monarch/reconcile/monarch-reconcile.module.ts
-index b7546a692d9d3536bfe2d48197a3f4f2cd1efb0a..3570faf5af783dcc92b3901d43c5864bd6eab0af 100644
+index b7546a692d9d3536bfe2d48197a3f4f2cd1efb0a..16fc2e698b17e7344b0f0baea2f0cf9b804a50a8 100644
 --- a/alan/harness/monarch/reconcile/monarch-reconcile.module.ts
 +++ b/alan/harness/monarch/reconcile/monarch-reconcile.module.ts
 @@ -11,17 +11,16 @@ export const monarchReconcile = {
@@ -24,3 +23,13 @@ index b7546a692d9d3536bfe2d48197a3f4f2cd1efb0a..3570faf5af783dcc92b3901d43c5864b
      },
      {
        invariantKind: "departure",
+@@ -34,8 +33,7 @@ export const monarchReconcile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The scope reconciled against is named in the refusal, so a run says the scope that run weighed.",
++      statement: "The scope reconciled against is named in the refusal.",
+     },
+   ],
+ } as const satisfies Module
