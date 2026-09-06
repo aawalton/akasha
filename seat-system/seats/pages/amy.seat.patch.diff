@@ -1,3 +1,15 @@
+diff --git a/pages/views/pages/alanwalton-identity-identity-statements.view.ts b/pages/views/pages/alanwalton-identity-identity-statements.view.ts
+index 5d81c5bdba157570f3ea0463cb3a2150e383f20a..83886bb34b63be0b8d1e1fa3fc5a72862f257cab 100644
+--- a/pages/views/pages/alanwalton-identity-identity-statements.view.ts
++++ b/pages/views/pages/alanwalton-identity-identity-statements.view.ts
+@@ -6,6 +6,7 @@ export const alanwaltonIdentityIdentityStatements = {
+   slug: "alanwalton-identity-identity-statements",
+   title: "Identity Statements",
+   navSlug: "alanwalton-identity",
++  pageType: "identity-statement",
+   viewPlace: 2,
+   layout: "cards",
+   viewSorts: [{ key: "title", descending: false }],
 diff --git a/pages/views/pages/alanwalton-identity-themes.view.ts b/pages/views/pages/alanwalton-identity-themes.view.ts
 index 7592c542e42d27a33004a2b5cf850e0338e76b19..688de7318125bf0c2b7a08eb0c8fb816b0545488 100644
 --- a/pages/views/pages/alanwalton-identity-themes.view.ts
