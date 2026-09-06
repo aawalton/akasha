@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+
+export const whyMyMentalLoopsSettleAndInterestMeAtOnce = {
+  id: "01a077e4-49a7-7d6d-be42-dac08219cfe6",
+  pageTypeSlug: "all-about-alan-question",
+  slug: "why-my-mental-loops-settle-and-interest-me-at-once",
+  topicSlug: "the-repeating-i-do-to-settle",
+  ask: "Do the mental loops settle me and feed my interest at once by accident, or because my day is built that way? The answer decides how I describe the pattern.",
+} as const satisfies AllAboutAlanQuestion
