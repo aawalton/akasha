@@ -16,7 +16,7 @@ export const port = {
     },
     {
       invariantKind: "departure",
-      statement: "A service stating none listens nowhere.",
+      statement: "A service stating no port listens nowhere.",
     },
   ],
 } as const satisfies NumberProperty
