@@ -48,6 +48,7 @@ export const change = {
     "change/respell-export",
     "change/restate-value",
     "module/change-answer",
+    "module/edits-keeping",
   ],
   properties: [
     { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
