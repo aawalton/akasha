@@ -15,7 +15,7 @@ export const traits = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A trait here is one a player researches on the item a line names.",
+      statement: "A trait here is a trait a player researches on the item a line names.",
     },
   ],
 } as const satisfies PagePropertyEntry
