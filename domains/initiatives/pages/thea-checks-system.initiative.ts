@@ -21,7 +21,7 @@ export const theaChecksSystem = {
       statement:
         "A page type narrows an inherited property's reach to the collection it is part of.",
       workingMemory:
-        "168 routes across 7 apps share one page type and `slug` is unique per type, so `home` repeats 7 times, `sign-in` 6, `api.errors` 6; 5 route tests wait on this. `part-of` is declared and branched at index-identity.index.code.ts:29 but never written, read back or tested. The `unique` declaration field landed. Order: seed a test against the PART_OF branch, which has never run; then the identity map; then the consumers handing a page-type slug as the scope, each answering empty rather than erroring.",
+        "168 routes across 7 apps share one page type and `slug` is unique per type, so `home` repeats 7 times, `sign-in` 6, `api.errors` 6; 5 route tests wait on this. `part-of` works and is not the gap: book-section declares it over 455 pages, the index files them under the parent's slug, and a clash is refused both within one change and against the index. Try declaring `part-of` on the route slug, the same shape. Then the identity map, then the consumers handing a page-type slug as the scope.",
     },
     {
       statement: "Every file the repository tracks is claimed by a page.",
