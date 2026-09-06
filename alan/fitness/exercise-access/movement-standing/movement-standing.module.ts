@@ -32,8 +32,11 @@ export const movementStanding = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A set states no time that set was logged, so its sets are ordered by their names.",
+      statement: "A set states no time that set was logged.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A session's sets are ordered by their names.",
     },
   ],
 } as const satisfies Module
