@@ -23,7 +23,7 @@ export const observationStore = {
     },
     {
       invariantKind: "departure",
-      statement: "Writes run one after another rather than at once.",
+      statement: "Writes run in turn rather than at once.",
     },
     {
       invariantKind: "departure",
