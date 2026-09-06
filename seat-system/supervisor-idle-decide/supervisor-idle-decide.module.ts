@@ -11,12 +11,15 @@ export const supervisorIdleDecide = {
     {
       invariantKind: "departure",
       statement:
-        "A seat is idle only where nothing is in flight, no child is busy and Claude is present.",
+        "A seat is idle only where nothing is in flight and no child is busy and Claude is present.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A count that was not read is not a count of zero, so a seat that count belongs to is not idle.",
+      statement: "A count that was not read is not a count of zero.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat holding a count that was not read is not idle.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +33,7 @@ export const supervisorIdleDecide = {
     {
       invariantKind: "departure",
       statement:
-        "A busy reason names each count that is not zero and says `unread` for one never read.",
+        "A busy reason names each count that is not zero and says `unread` for a count never read.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +45,7 @@ export const supervisorIdleDecide = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a process, a port or a page.",
+      statement: "Nothing here reads a process or a port or a page.",
     },
   ],
 } as const satisfies Module
