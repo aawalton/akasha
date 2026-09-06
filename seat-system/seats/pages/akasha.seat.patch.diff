@@ -1,8 +1,18 @@
 diff --git a/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts b/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
-index d5deaca3a64eea1eb85d1b0414dfe02339149540..a6f0eeff9ed54634bc95df4bfd98bd6510d5517c 100644
+index d5deaca3a64eea1eb85d1b0414dfe02339149540..39d7de0583d48f8ac6e0c5cd4256e47f8ada4d50 100644
 --- a/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
 +++ b/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
-@@ -95,7 +95,7 @@ export const propertyIsDeclaredByAType = {
+@@ -35,7 +35,8 @@ export const propertyIsDeclaredByAType = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A one of declares its members the same way a page type declares its properties.",
++      statement:
++        "A one-of property declares its members the same way a page type declares its properties.",
+     },
+     {
+       invariantKind: "departure",
+@@ -95,7 +96,7 @@ export const propertyIsDeclaredByAType = {
      },
      {
        invariantKind: "constraint",
