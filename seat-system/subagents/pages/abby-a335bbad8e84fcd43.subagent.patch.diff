@@ -1,0 +1,26 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-other-accomplishments-verify-the-same-way.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-other-accomplishments-verify-the-same-way.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..164ccc71bbab545b2cd9b4939c3a3ecb4f76be34
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-other-accomplishments-verify-the-same-way.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherOtherAccomplishmentsVerifyTheSameWay = {
++  id: "01a077f0-5597-7fe0-b78f-a46364a80b33",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-other-accomplishments-verify-the-same-way",
++  topicSlug: "proof-i-can-do-things",
++  ask: "Finishing a project is the anchored case. Do physical accomplishment, social effectiveness and control over my surroundings run through the same verification?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/proof-i-can-do-things.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/proof-i-can-do-things.all-about-alan-topic.ts
+index 193bc89010c030f9709aaec5f63991bdc74a335b..e29af9da5f3f8630a2211231636f1f61e415287a 100644
+--- a/alan/books/all-about-alan/topics/pages/proof-i-can-do-things.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/proof-i-can-do-things.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const proofICanDoThings = {
+   parentSlugs: ["safety-bar"],
+   settled:
+     "It comes from pointing at something I actually did, never from feeling better about it.",
+-  unsettled:
+-    "Finishing a project is the anchored case. Whether physical accomplishment, social effectiveness or control over my surroundings runs through the same verification is open.",
+ } as const satisfies AllAboutAlanTopic
