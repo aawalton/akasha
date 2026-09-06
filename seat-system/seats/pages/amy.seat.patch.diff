@@ -1,5 +1,5 @@
 diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
-index f60c54f4fcaa28332bace82d0b4599229ec6d290..33d189b0d10476bbea17e417936a1ae45305e891 100644
+index f60c54f4fcaa28332bace82d0b4599229ec6d290..7bf74c666e6e76708e542783f888bf3b4d256c5b 100644
 --- a/editor-extension/editor-extension.workspace-package.ts
 +++ b/editor-extension/editor-extension.workspace-package.ts
 @@ -68,6 +68,7 @@ export const editorExtension = {
@@ -10,6 +10,15 @@ index f60c54f4fcaa28332bace82d0b4599229ec6d290..33d189b0d10476bbea17e417936a1ae4
      "module/seat-toggles",
      "module/seat-act-confirm",
      "module/agent-tree-lookup",
+@@ -99,7 +100,7 @@ export const editorExtension = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A feature that fails to start leaves the others running.",
++      statement: "A feature that fails to start leaves the features beside it running.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/editor-extension/seat-terminal-enter/seat-terminal-enter.module.code.ts b/editor-extension/seat-terminal-enter/seat-terminal-enter.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..56ffc0367c1e67bfeb659f8dac86fc07379eb58b
