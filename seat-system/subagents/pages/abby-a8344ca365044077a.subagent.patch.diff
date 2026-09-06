@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-stress-level-and-stress-capacity-separate.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-stress-level-and-stress-capacity-separate.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..82f01ebc2b1d0f1da1e460f9021c5340cb859097
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-stress-level-and-stress-capacity-separate.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howStressLevelAndStressCapacitySeparate = {
++  id: "01a077e3-561a-78d9-9606-a02fe8c9191c",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-stress-level-and-stress-capacity-separate",
++  topicSlug: "health-bar",
++  ask: "How do I separate stress level from stress capacity, given that one bar holds both and each runs on its own time scale?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-physical-symptoms-trace-to-undischarged-feeling.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-physical-symptoms-trace-to-undischarged-feeling.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c41901676299eac0220f9cb8d8ec4f8dc3cd6c51
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-physical-symptoms-trace-to-undischarged-feeling.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichPhysicalSymptomsTraceToUndischargedFeeling = {
++  id: "01a077e3-561c-75e0-a936-74e9e6927a50",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-physical-symptoms-trace-to-undischarged-feeling",
++  topicSlug: "health-bar",
++  ask: "What are the serious physical symptoms of the load I carry, and which symptom traces to undischarged feeling rather than elsewhere?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/health-bar.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/health-bar.all-about-alan-topic.ts
+index af3faf0a5e3f05029caed1421bd9daacee4064b5..2f560d10a00458b2e18be1eb21df3027042fdf4e 100644
+--- a/alan/books/all-about-alan/topics/pages/health-bar.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/health-bar.all-about-alan-topic.ts
+@@ -8,6 +8,4 @@ export const healthBar = {
+   definition: "the stress my body can carry",
+   parentSlugs: ["resource-bars"],
+   relatedSlugs: ["stress-capacity"],
+-  unsettled:
+-    "Stress level and stress capacity are treated as one bar but run on different time scales. They need separating properly.\n\nThe serious physical symptoms of the load are cited and never listed, and which of them trace to undischarged feeling rather than elsewhere is unsorted.",
+ } as const satisfies AllAboutAlanTopic
