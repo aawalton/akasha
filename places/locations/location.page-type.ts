@@ -33,7 +33,7 @@ export type Location = Page & {
   reviewRating?: ReviewRating
   reviewText?: ReviewText
   scheduledEnd?: ScheduledEnd
-  scheduledStart?: ScheduledStart
+  scheduledStartAt?: ScheduledStart
   sourcePlaceId?: SourcePlaceId
   sourceUrl?: SourceUrl
   locationSource?: LocationSource

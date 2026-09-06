@@ -9,5 +9,5 @@ export const brusselsAirportBruEuropeExit = {
   latitude: 50.9014,
   longitude: 4.4844,
   scheduledEnd: "2026-07-23T10:00:00.000Z",
-  scheduledStart: "2026-07-23T10:00:00.000Z",
+  scheduledStartAt: "2026-07-23T10:00:00.000Z",
 } as const satisfies Location

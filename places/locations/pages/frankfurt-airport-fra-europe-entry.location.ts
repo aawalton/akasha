@@ -9,5 +9,5 @@ export const frankfurtAirportFraEuropeEntry = {
   latitude: 50.0379,
   longitude: 8.5622,
   scheduledEnd: "2026-07-08T07:55:00.000Z",
-  scheduledStart: "2026-07-08T07:55:00.000Z",
+  scheduledStartAt: "2026-07-08T07:55:00.000Z",
 } as const satisfies Location
