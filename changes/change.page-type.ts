@@ -1,7 +1,10 @@
 import type { Module } from "../code-system/modules/module.page-type.ts"
+import type { ChangeKindSlug } from "../command-system/commands/properties/change-kind-slug.relation-property.ts"
 import type { PageType } from "../pages/types/page-type.page-type.ts"
 
-export type Change = Module
+export type Change = Module & {
+  changeKindSlug: ChangeKindSlug
+}
 
 export const change = {
   id: "01a05df1-e261-76a1-ad1e-0db3d857450e",
@@ -18,10 +21,17 @@ export const change = {
     "page-type/change-kind",
     "workspace-package/workflow-language",
   ],
+  properties: [
+    { pagePropertySlug: "relation-property/change-kind-slug", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",
       statement: "Nothing lands but through an akasha command or a service.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change states the kind of change that change is.",
     },
     {
       invariantKind: "departure",
