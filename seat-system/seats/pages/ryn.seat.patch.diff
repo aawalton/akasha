@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/changes/partial/pages/restate-value/restate-value.change-partial.ts b/changes/partial/pages/restate-value/restate-value.change-partial.ts
-index 62084de4763f955a87389014768b8526b7d881aa..f198ec54d52f06057dc0f69a24b9c75560a26c9d 100644
+index 62084de4763f955a87389014768b8526b7d881aa..c5447a81ad052934e9c70ec4e3208b64f6ef19b6 100644
 --- a/changes/partial/pages/restate-value/restate-value.change-partial.ts
 +++ b/changes/partial/pages/restate-value/restate-value.change-partial.ts
 @@ -23,11 +23,11 @@ export const restateValue = {
@@ -17,3 +16,12 @@ index 62084de4763f955a87389014768b8526b7d881aa..f198ec54d52f06057dc0f69a24b9c755
      },
      {
        invariantKind: "departure",
+@@ -35,7 +35,7 @@ export const restateValue = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here judges whether that key may be restated, which is the caller's.",
++      statement: "Nothing here judges whether that key may be restated.",
+     },
+     {
+       invariantKind: "absence",
