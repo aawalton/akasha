@@ -159,3 +159,15 @@ index 2bae8465dd0a09a4a85270a0bf60efe5cae3c994..3742727efdbe6cb295769c4610d1031d
 +    true,
 +  ])
 +})
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.ts b/readout-system/readout-group-serving/readout-group-serving.module.ts
+index 96cfecdb2cf6a389fb1ab9b66c5cbc63508cc315..86e7e503376eae4d5bfe9c2784bff10c42f41d1b 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.ts
+@@ -7,6 +7,7 @@ export const readoutGroupServing = {
+   definition: "what a route answers when a caller asks for a group of readings as colors",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
