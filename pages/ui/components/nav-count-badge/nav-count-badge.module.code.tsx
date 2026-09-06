@@ -16,12 +16,11 @@ import { useMemo } from "react"
 const PAGE_TYPE_SLUG = "page-type"
 
 interface NavCountBadgeProps {
-  navItemId: string
   navItemSlug?: string
 }
 
-export function NavCountBadge({ navItemId, navItemSlug }: NavCountBadgeProps) {
-  const { views } = useViewsForNavItem({ navItemId, navItemSlug })
+export function NavCountBadge({ navItemSlug }: NavCountBadgeProps) {
+  const { views } = useViewsForNavItem({ navItemSlug })
   const firstView = views[0]
 
   const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })

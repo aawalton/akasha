@@ -4,7 +4,7 @@ import type { AppNavItem } from "@akasha/design-layout/nav-types"
 import { IconPicker } from "@akasha/design-patterns/icon-picker"
 import { Icon } from "@akasha/design-patterns/lucide-icon"
 import { triggerSafeNode } from "@akasha/design-primitives/trigger-safe-node"
-import type { PageCondition, PageWhere } from "@akasha/pages-core/page-types"
+import type { PageWhere } from "@akasha/pages-core/page-types"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
 import { useNavMutations } from "@akasha/pages-ui/supabase/use-nav-mutations"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
@@ -47,11 +47,13 @@ export function useAppNavItems({
   primaryItems,
   initialRows,
 }: UseAppNavItemsArgs): PrimaryNavItemsResult {
-  const navWhere = useMemo<PageWhere>(() => {
-    const named: PageCondition[] = [{ key: "app", eq: appId }]
-    if (appSlug != null && appSlug !== "") named.push({ key: "app", eq: appSlug })
-    return named.length === 1 ? named : [{ or: named }]
-  }, [appId, appSlug])
+  // A NAV ITEM NAMES ITS APP BY SLUG. The `nav` page type declares `appSlug` and no key holding an
+  // app's id, and a question naming a key the page type does not declare is refused rather than
+  // answered empty, so narrowing by an id would leave the whole navigation unread.
+  const navWhere = useMemo<PageWhere>(
+    () => [{ key: "appSlug", eq: appSlug != null && appSlug !== "" ? appSlug : appId }],
+    [appId, appSlug]
+  )
   const { rows: liveRows, isLoading } = usePages({
     pageTypeSlug: NAV_SLUG,
     where: navWhere,
@@ -151,23 +153,27 @@ export function useAppNavItems({
     type NavPage = (typeof navItemPages)[number] & { id: string }
     const pages = navItemPages.filter((p): p is NavPage => typeof p.id === "string")
 
+    const idBySlug = new Map<string, string>()
+    for (const page of pages) {
+      if (typeof page.slug === "string" && page.slug !== "") idBySlug.set(page.slug, page.id)
+    }
+
     const sorted = [...pages].sort((a, b) => {
-      const aOrder = typeof a.sortOrder === "number" ? a.sortOrder : Number.POSITIVE_INFINITY
-      const bOrder = typeof b.sortOrder === "number" ? b.sortOrder : Number.POSITIVE_INFINITY
+      const aOrder = typeof a.navPlace === "number" ? a.navPlace : Number.POSITIVE_INFINITY
+      const bOrder = typeof b.navPlace === "number" ? b.navPlace : Number.POSITIVE_INFINITY
       return aOrder - bOrder
     })
 
+    // A NAV ITEM NAMES ITS PARENT BY SLUG. `navParent` is a relation carrying the parent's slug,
+    // and every grouping below is by page id, so the slug is resolved against the items loaded
+    // here. A parent naming an item outside this app resolves to nothing and leaves its child at
+    // the top, which is where an item whose parent went unread belongs.
     const getEffectiveParentId = (page: (typeof sorted)[number]): string | null => {
       if (optimisticParents?.has(page.id)) {
         return optimisticParents.get(page.id) ?? null
       }
-      const raw = page.parentId
-      if (typeof raw === "string") return raw
-      if (typeof raw === "object" && raw !== null && "id" in raw) {
-        const { id } = raw
-        return typeof id === "string" ? id : null
-      }
-      return null
+      const raw = page.navParent
+      return typeof raw === "string" ? (idBySlug.get(raw) ?? null) : null
     }
 
     const pageIdSet = new Set(sorted.map((p) => p.id))
@@ -218,10 +224,7 @@ export function useAppNavItems({
         trailing: (
           <>
             {showCountBadge && (
-              <NavCountBadge
-                navItemId={page.id}
-                navItemSlug={typeof page.slug === "string" ? page.slug : undefined}
-              />
+              <NavCountBadge navItemSlug={typeof page.slug === "string" ? page.slug : undefined} />
             )}
             <NavItemActions pageId={page.id} href={href} />
           </>

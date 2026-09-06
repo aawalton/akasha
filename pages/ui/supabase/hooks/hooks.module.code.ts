@@ -146,32 +146,26 @@ export function useRelatedPages({
   return rows
 }
 
-export function useViewsForNavItem({
-  navItemId,
-  navItemSlug,
-}: {
-  navItemId: string | undefined
-  navItemSlug?: string | undefined
-}): {
+// A VIEW NAMES ITS NAV ITEM BY SLUG RATHER THAN BY ID. The `view` page type declares `navSlug` and
+// no key holding a nav item's id, and a question naming a key the page type does not declare is
+// refused rather than answered empty. So a nav item whose slug went unread narrows to nothing on
+// purpose, where narrowing by its id would refuse the question and draw no view at all.
+export function useViewsForNavItem({ navItemSlug }: { navItemSlug?: string | undefined }): {
   views: readonly PageWithProperties[]
   isLoading: boolean
 } {
-  const asked = navItemSlug ?? navItemId
+  const asked = navItemSlug
   const where = useMemo<PageWhere>(() => {
-    const reaches: PageCondition[] = []
-    if (navItemSlug != null && navItemSlug !== "") reaches.push({ key: "nav", eq: navItemSlug })
-    if (navItemId != null && navItemId !== "") reaches.push({ key: "owner", eq: navItemId })
-    if (reaches.length === 0) return [{ key: "id", eq: NEVER_MATCH_VALUE }]
-    return reaches.length === 1 ? reaches : [{ or: reaches }]
-  }, [navItemId, navItemSlug])
+    if (navItemSlug == null || navItemSlug === "") {
+      return [{ key: "id", eq: NEVER_MATCH_VALUE }]
+    }
+    return [{ key: "navSlug", eq: navItemSlug }]
+  }, [navItemSlug])
   const options = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: "view",
       where,
-      order: [
-        { by: "sortOrder", dir: "asc" },
-        { by: "sort_order", dir: "asc" },
-      ],
+      order: [{ by: "viewPlace", dir: "asc" }],
     }),
     [where]
   )

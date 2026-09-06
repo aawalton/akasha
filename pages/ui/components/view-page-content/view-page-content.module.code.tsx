@@ -58,10 +58,7 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
     [navItemPage]
   )
 
-  const { views: viewPages, isLoading: viewsLoading } = useViewsForNavItem({
-    navItemId,
-    navItemSlug,
-  })
+  const { views: viewPages, isLoading: viewsLoading } = useViewsForNavItem({ navItemSlug })
 
   const fromFiles = usePageTypeDirectory()
   const pageTypeIdBySlug = useMemo(() => {
