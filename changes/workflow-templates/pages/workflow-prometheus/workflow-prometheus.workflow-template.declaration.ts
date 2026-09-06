@@ -1,7 +1,7 @@
 import { IMAGES } from "@akasha/workflow-language/images"
 import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
 import { applyRbac } from "@akasha/workflow-language/rbac-apply"
-import { SECRETS, secret } from "@akasha/workflow-language/secrets"
+import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
 import { step } from "@akasha/workflow-language/step"
 import { verifyRolloutCommands } from "@akasha/workflow-language/verify-rollout"
 import { workflow } from "@akasha/workflow-language/workflow"
@@ -26,54 +26,25 @@ export default workflow("prometheus", {
     {
       ...applyRbac({
         name: "prometheus-apply-rbac",
-        rbacFile:
-          "infrastructure/cluster-manifests/prometheus-rbac/prometheus-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/prometheus-rbac/prometheus-rbac.module.code.ts",
       }),
       dependsOn: ["prometheus-apply-namespace"],
     },
 
     {
-      ...step({
+      ...secretPlaceApply({
         name: "prometheus-apply-secrets",
-        image: IMAGES.CI,
-        environment: {
-          HOME: "/tmp",
-          SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
-        },
-        commands: (ci) => [
-          "set -e",
-          `CONTENT_HASH="${ci.inputsHash}"`,
-          ...SKIP_CHECK,
-          `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/prometheus/prometheus.k8s-secret.sops.yaml)`,
-          `echo "$DECRYPTED" | kubectl apply --dry-run=client -n prometheus -f -`,
-          `echo "$DECRYPTED" | kubectl apply -n prometheus -f -`,
-        ],
-        backendOptions: {
-          kubernetes: { serviceAccountName: "pipeline-engine" },
-        },
+        namespace: "prometheus",
+        resource: "prometheus-secrets",
       }),
       dependsOn: ["prometheus-apply-namespace"],
     },
 
     {
-      ...step({
+      ...secretPlaceApply({
         name: "prometheus-apply-alertmanager-config",
-        image: IMAGES.CI,
-        environment: {
-          HOME: "/tmp",
-          SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
-        },
-        commands: (ci) => [
-          "set -e",
-          `CONTENT_HASH="${ci.inputsHash}"`,
-          ...SKIP_CHECK,
-          `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/prometheus/alertmanager-config.k8s-secret.sops.yaml)`,
-          `echo "$DECRYPTED" | kubectl apply --dry-run=client -n prometheus -f -`,
-          `echo "$DECRYPTED" | kubectl apply -n prometheus -f -`,
-        ],
-        backendOptions: {
-          kubernetes: { serviceAccountName: "pipeline-engine" },
-        },
+        namespace: "prometheus",
+        resource: "alertmanager-config",
       }),
       dependsOn: ["prometheus-apply-namespace"],
     },
