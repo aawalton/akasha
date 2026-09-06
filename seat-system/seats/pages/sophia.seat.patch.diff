@@ -1,3 +1,26 @@
+diff --git a/domains/initiatives/pages/sophia-warrant-reach.initiative.ts b/domains/initiatives/pages/sophia-warrant-reach.initiative.ts
+deleted file mode 100644
+index 9af0c1f6f7dd2400e89892f78cf209ae01c9cc2c..0000000000000000000000000000000000000000
+--- a/domains/initiatives/pages/sophia-warrant-reach.initiative.ts
++++ /dev/null
+@@ -1,17 +0,0 @@
+-import type { Initiative } from "../initiative.page-type.ts"
+-
+-export const sophiaWarrantReach = {
+-  id: "01a076ad-ac77-7efa-8980-4bc6e16bffb8",
+-  pageTypeSlug: "initiative",
+-  slug: "sophia-warrant-reach",
+-  domainSlug: "workspace-package/context",
+-  personaSlug: "sophia",
+-  intents: [
+-    {
+-      statement:
+-        "A change kind states separately what its writer owes and what its landing stales for others.",
+-      workingMemory:
+-        "Both flags landed and are read through `kindNamed`: authored owes writer and readers, restated owes its writer alone, checked owes neither. The carry fires once from `landingAsked`, and the four hand-written `carryReadings` calls are gone. `mechanicalOid` is now `carriedOid` across 30 files, with a stopgap in `readingOf` reading the old key off lines the record already holds. Left: drop that stopgap, and `NOT_OWED_WAS` in `drafting`, once nothing live carries the old spelling.",
+-    },
+-  ],
+-} as const satisfies Initiative
 diff --git a/seat-system/seats/pages/sophia.seat.ts b/seat-system/seats/pages/sophia.seat.ts
 index c0eeef80d902d5746fd48327483a45d706b84879..cece696a9da7fd1601f0c2a5b8f0b85f3089582f 100644
 --- a/seat-system/seats/pages/sophia.seat.ts
