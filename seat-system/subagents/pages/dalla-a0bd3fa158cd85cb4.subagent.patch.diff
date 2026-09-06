@@ -1,3 +1,15 @@
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index 510504cea7fc8c938defa8cf8e489a3ce5bacba7..c94a739e2d8c4031918222006430a4348d347b6f 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -35,6 +35,7 @@ export const change = {
+     "module/change-guarding",
+     "change/remove-file",
+     "change/remove-page",
++    "change/remove-property-value",
+     "change/rename-code-token",
+     "change/rename-export",
+     "change/rename-local-variable",
 diff --git a/changes/pages/remove-property-value/remove-property-value.change.code.ts b/changes/pages/remove-property-value/remove-property-value.change.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..c6f5b77b28c175ca7e45cc7073e57aa5d13e7a16
