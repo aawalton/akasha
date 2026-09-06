@@ -1,0 +1,16 @@
+diff --git a/role-system/roles/role.page-type.ts b/role-system/roles/role.page-type.ts
+index 7975cb163b8bb88e80bc97e1e6b6aa0258469df5..76c08e2d1715208455caf79d9924d813cbac955b 100644
+--- a/role-system/roles/role.page-type.ts
++++ b/role-system/roles/role.page-type.ts
+@@ -28,11 +28,6 @@ export const role = {
+   ],
+   properties: [{ pagePropertySlug: "on-call", required: true, many: false }],
+   invariants: [
+-    {
+-      invariantKind: "upkeep",
+-      statement:
+-        "Every figure an agent holds as true was taken after the last change to the figure's subject.",
+-    },
+     {
+       invariantKind: "departure",
+       statement:
