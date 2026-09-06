@@ -33,3 +33,15 @@ index 17874741f024b49ae0280dc9a6fb3c9364db22fb..78e3ba1adcb0f51e60e9e8049196760f
 +  pageType: "temper-task",
    viewPlace: 0,
  } as const satisfies View
+diff --git a/pages/views/pages/anime-and-shows-all-by-status.view.ts b/pages/views/pages/anime-and-shows-all-by-status.view.ts
+index d2b6cc38b698e1b7230eff1fd912fb7e80535bba..abbfc9eaa8896b3b3b67d90ba6b1e4a9abe1690d 100644
+--- a/pages/views/pages/anime-and-shows-all-by-status.view.ts
++++ b/pages/views/pages/anime-and-shows-all-by-status.view.ts
+@@ -6,6 +6,7 @@ export const animeAndShowsAllByStatus = {
+   slug: "anime-and-shows-all-by-status",
+   title: "All by Status",
+   navSlug: "anime-and-shows",
++  pageType: "ki-show",
+   viewPlace: 3,
+   layout: "cards",
+   viewSorts: [{ key: "title", descending: false }],
