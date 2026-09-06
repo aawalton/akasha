@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-a-stress-statement-refers-to.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-a-stress-statement-refers-to.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1e273f4fe51368aa90f49a35d50668422319216f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-a-stress-statement-refers-to.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatAStressStatementRefersTo = {
++  id: "01a077ef-53a8-7e7e-a42b-ea7f4314f579",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-a-stress-statement-refers-to",
++  topicSlug: "stress-level",
++  ask: "My stress level and my stress capacity get used for each other in the record. Which does a given statement mean?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-physiology-fails-when-the-lights-go.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-physiology-fails-when-the-lights-go.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a1870b0081688fee86a13eb9b9fdc627bcb337a4
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-physiology-fails-when-the-lights-go.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatPhysiologyFailsWhenTheLightsGo = {
++  id: "01a077ef-53a7-72d2-ac7a-01d3a45289ba",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-physiology-fails-when-the-lights-go",
++  topicSlug: "stress-level",
++  ask: "What actually fails when the lights go at low resources: sympathetic dominance, vagal withdrawal, or the stress axis?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-time-constants-link-stress-level-and-capacity.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-time-constants-link-stress-level-and-capacity.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c5b71bb13ae961021e6d577a906335b50b6c08b5
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-time-constants-link-stress-level-and-capacity.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTimeConstantsLinkStressLevelAndCapacity = {
++  id: "01a077ef-53a9-7b0f-b00d-8cbf252ca9cd",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-time-constants-link-stress-level-and-capacity",
++  topicSlug: "stress-level",
++  ask: "What are the time constants between my stress level and my stress capacity, and what does an intervention do to either?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/stress-level.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/stress-level.all-about-alan-topic.ts
+index 9377d35d6f0238b7189644a84f948b8af25b4e22..3f7972aab246a4a313624fbbc3fdf1df00cb46bf 100644
+--- a/alan/books/all-about-alan/topics/pages/stress-level.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/stress-level.all-about-alan-topic.ts
+@@ -8,6 +8,4 @@ export const stressLevel = {
+   definition: "how much my body is having to handle right now",
+   parentSlugs: ["safety-stack"],
+   settled: "My stress capacity is roughly this level's cost added up over time.",
+-  unsettled:
+-    "What actually fails when the lights go at low resources has no physiology attached to it: sympathetic dominance, vagal withdrawal, or the stress axis.\n\nThis and my capacity get used for each other in the record, so which of the two a given statement is about is often unsettled. The time constants between them are uncaptured, and so is what an intervention does to either.",
+ } as const satisfies AllAboutAlanTopic
