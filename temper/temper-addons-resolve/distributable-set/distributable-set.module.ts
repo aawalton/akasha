@@ -18,7 +18,7 @@ export const distributableSet = {
     },
     {
       invariantKind: "departure",
-      statement: "An optional dependency counts the same as a required one.",
+      statement: "An optional dependency counts the same as a required dependency.",
     },
     {
       invariantKind: "departure",
