@@ -13,7 +13,7 @@ import type { FileEdit } from "@akasha/command-system/landing"
 import { listedAt } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { type Value, valueAt } from "@akasha/pages/page-value"
-import { composedFor } from "@akasha/pages-system-service/composing"
+import { composedFor } from "@akasha/pages-service/composing"
 
 const INPUT = 1
 

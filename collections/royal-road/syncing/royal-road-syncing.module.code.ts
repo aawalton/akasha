@@ -3,8 +3,8 @@ import type { FileEdit } from "@akasha/command-system/landing"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
-import { asking, type Row } from "@akasha/pages-system-service/asking"
-import { composedFor } from "@akasha/pages-system-service/composing"
+import { asking, type Row } from "@akasha/pages-service/asking"
+import { composedFor } from "@akasha/pages-service/composing"
 import type { RawChapter } from "@akasha/royal-road/royal-road-pages"
 import {
   fetchHtml,

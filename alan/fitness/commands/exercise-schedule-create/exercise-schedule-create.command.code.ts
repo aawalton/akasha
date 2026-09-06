@@ -8,7 +8,7 @@ import { freeSlug, scheduleDaySlug } from "@akasha/exercise-access/session-deriv
 import { listedAt } from "@akasha/indexes"
 import { pageStem } from "@akasha/named-for/page-stem"
 import { type Value, valueAt } from "@akasha/pages/page-value"
-import { composedFor } from "@akasha/pages-system-service/composing"
+import { composedFor } from "@akasha/pages-service/composing"
 import {
   asJson,
   DATA,

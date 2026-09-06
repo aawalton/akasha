@@ -54,11 +54,11 @@ export const watcherSettingsEquipment = {
     },
     {
       invariantKind: "gap",
-      statement: "`@akasha/pages-system-service` lists no `character-build` page type.",
+      statement: "`@akasha/pages-service` lists no `character-build` page type.",
     },
     {
       invariantKind: "gap",
-      statement: "`@akasha/pages-system-service` lists no `companion-build` page type.",
+      statement: "`@akasha/pages-service` lists no `companion-build` page type.",
     },
   ],
 } as const satisfies Module

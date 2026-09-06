@@ -4,15 +4,10 @@ import {
   type PageCondition,
   type PageWhere,
 } from "@akasha/pages-core/page-types"
-import type { Asked, Query, Row, Test } from "@akasha/pages-system-service/asking"
-import {
-  askingFor,
-  readingFor,
-  type Writing,
-  writingFor,
-} from "@akasha/pages-system-service/calling"
-import type { Read, Asked as Sought } from "@akasha/pages-system-service/reading"
-import type { Wrote } from "@akasha/pages-system-service/writing"
+import type { Asked, Query, Row, Test } from "@akasha/pages-service/asking"
+import { askingFor, readingFor, type Writing, writingFor } from "@akasha/pages-service/calling"
+import type { Read, Asked as Sought } from "@akasha/pages-service/reading"
+import type { Wrote } from "@akasha/pages-service/writing"
 import { z } from "zod"
 import { FileWriteError } from "../file-write-error/file-write-error.module.code.ts"
 import type { PageSelect } from "../types/types.module.code.ts"

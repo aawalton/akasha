@@ -10,7 +10,7 @@ export const fileRelation = {
     {
       invariantKind: "departure",
       statement:
-        "Whether a page is filed under a slug is asked of `@akasha/pages-system-service` by that slug.",
+        "Whether a page is filed under a slug is asked of `@akasha/pages-service` by that slug.",
     },
     {
       invariantKind: "departure",
@@ -31,11 +31,11 @@ export const fileRelation = {
     },
     {
       invariantKind: "absence",
-      statement: "`@akasha/pages-system-service` holds no index of which pages name which pages.",
+      statement: "`@akasha/pages-service` holds no index of which pages name which pages.",
     },
     {
       invariantKind: "absence",
-      statement: "`@akasha/pages-system-service` answers one page type at a time.",
+      statement: "`@akasha/pages-service` answers one page type at a time.",
     },
   ],
 } as const satisfies Module

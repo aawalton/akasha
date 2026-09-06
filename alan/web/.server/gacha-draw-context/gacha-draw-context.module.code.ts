@@ -1,7 +1,7 @@
 import type { DerivedMechanics } from "@akasha/idle-system/deriving"
 import type { DrawContext } from "@akasha/idle-system/draw"
-import type { Query } from "@akasha/pages-system-service/asking"
-import { askingFor } from "@akasha/pages-system-service/calling"
+import type { Query } from "@akasha/pages-service/asking"
+import { askingFor } from "@akasha/pages-service/calling"
 import { unheld } from "../../pages-unheld/pages-unheld.module.code.ts"
 import type { IdleSupabase } from "../idle-save-context/idle-save-context.module.code.ts"
 

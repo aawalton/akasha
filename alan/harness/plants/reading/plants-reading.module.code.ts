@@ -1,5 +1,5 @@
 import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
-import { asking } from "@akasha/pages-system-service/asking"
+import { asking } from "@akasha/pages-service/asking"
 import type { Asking } from "@akasha/readout-system/readout-asking"
 import { keepReading } from "@akasha/readout-system/readout-reading"
 import { fetchPlantGrams } from "@akasha/readout-system/upkeep-plants"

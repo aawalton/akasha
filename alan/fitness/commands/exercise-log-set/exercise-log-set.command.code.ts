@@ -7,7 +7,7 @@ import { exerciseNamed, openSession } from "@akasha/exercise-access/exercise-fin
 import { numberIn, rowsFor, titleOf } from "@akasha/exercise-access/exercise-rows"
 import { nextSetNumber, setLogSlug } from "@akasha/exercise-access/session-derive"
 import type { Value } from "@akasha/pages/page-value"
-import { composedFor } from "@akasha/pages-system-service/composing"
+import { composedFor } from "@akasha/pages-service/composing"
 import { firstOf, JSON_SAID, proseIn, saidIn } from "../exercise-said/exercise-said.module.code.ts"
 
 const INPUT = 1

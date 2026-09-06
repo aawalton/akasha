@@ -21,7 +21,7 @@ export const filePageName = {
     },
     {
       invariantKind: "absence",
-      statement: "`@akasha/pages-system-service` reports no path for a row.",
+      statement: "`@akasha/pages-service` reports no path for a row.",
     },
     {
       invariantKind: "absence",

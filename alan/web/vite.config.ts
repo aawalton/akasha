@@ -15,7 +15,7 @@ import { defineConfig } from "vite"
 //
 // The local half is gone. `@shared/pages-query` asks and writes over HTTP on every path now, and
 // `./ask` and `./ask-remote` name one file, so both alias rules resolved a module onto itself.
-// This app asks `@akasha/pages-system-service` directly for what it reads; what still reaches
+// This app asks `@akasha/pages-service` directly for what it reads; what still reaches
 // `@shared/pages-query` reaches it through `@akasha/pages-access`, and reaches nothing node-only
 // on the way. `alan/web-capacitor`'s `no-node-in-client` guard is what holds that true.
 

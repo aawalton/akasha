@@ -1,8 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import type { Asked, Query } from "@akasha/pages-system-service/asking"
-import type { Writing } from "@akasha/pages-system-service/calling"
-import type { Read, Asked as Sought } from "@akasha/pages-system-service/reading"
-import type { Wrote } from "@akasha/pages-system-service/writing"
+import type { Asked, Query } from "@akasha/pages-service/asking"
+import type { Writing } from "@akasha/pages-service/calling"
+import type { Read, Asked as Sought } from "@akasha/pages-service/reading"
+import type { Wrote } from "@akasha/pages-service/writing"
 import {
   createFilePage,
   type FileWriteDeps,

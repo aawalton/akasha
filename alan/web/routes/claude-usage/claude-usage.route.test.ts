@@ -3,7 +3,7 @@
  *
  * This route moved off `@shared/pages-query`, whose store could not see the figures it reduces —
  * they are declared `uncommitted` on the claude-account page type and stand beside each account's
- * page rather than in the commit — onto `@akasha/pages-system-service`, which reads them. The
+ * page rather than in the commit — onto `@akasha/pages-service`, which reads them. The
  * service reduces nothing, so the mean and the three "next instant" picks the four saved page
  * queries carried are taken here over plain rows.
  *

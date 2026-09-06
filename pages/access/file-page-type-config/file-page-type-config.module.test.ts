@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Asked, Query, Row } from "@akasha/pages-system-service/asking"
+import type { Asked, Query, Row } from "@akasha/pages-service/asking"
 import {
   type FilePageTypeConfigDeps,
   fileMediaPageTypeSlugs,

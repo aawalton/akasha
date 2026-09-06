@@ -6,7 +6,7 @@ import type { FileEdit } from "@akasha/command-system/landing"
 import { valuesOfType } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
-import { composedFor, type Put } from "@akasha/pages-system-service/composing"
+import { composedFor, type Put } from "@akasha/pages-service/composing"
 import { todayYYYYMMDD } from "@akasha/utils-sync/today"
 import { searchLyrics } from "../../catalog/lrclib-client/lrclib-client.module.code.ts"
 import {

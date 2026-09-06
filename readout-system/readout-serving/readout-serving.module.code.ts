@@ -1,4 +1,4 @@
-import { askingFor } from "@akasha/pages-system-service/calling"
+import { askingFor } from "@akasha/pages-service/calling"
 import {
   READOUT_CACHE_CONTROL,
   RING_CREDENTIAL_HEADER,

@@ -1,6 +1,6 @@
 import { seaweedFSObjectStoreFromEnv } from "@akasha/object-store/seaweedfs-store"
-import type { Query } from "@akasha/pages-system-service/asking"
-import { askingFor } from "@akasha/pages-system-service/calling"
+import type { Query } from "@akasha/pages-service/asking"
+import { askingFor } from "@akasha/pages-service/calling"
 import {
   resolveServableImage,
   serveResolvedImage,

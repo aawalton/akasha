@@ -43,7 +43,7 @@ export function targetsIn(
 }
 
 const NO_SAVED_QUERY =
-  "a saved query is answered by the page engine that has been removed. ask `@akasha/pages-system-service/calling` for every `calendar-event-source` page and hand its rows to `targetsIn`"
+  "a saved query is answered by the page engine that has been removed. ask `@akasha/pages-service/calling` for every `calendar-event-source` page and hand its rows to `targetsIn`"
 
 export async function syncAll(_options: SyncAllOptions = {}): Promise<SyncResult> {
   throw new Error(

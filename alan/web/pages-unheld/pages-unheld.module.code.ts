@@ -1,7 +1,7 @@
 // WHAT THE PAGES SYSTEM SERVICE DOES NOT HOLD IS REFUSED RATHER THAN READ AS NOTHING.
 //
 // Every page query in this app used to reach `@shared/pages-query`, which asked this pod's own
-// checkout. That reach is severed. The pages are asked of `@akasha/pages-system-service` over
+// checkout. That reach is severed. The pages are asked of `@akasha/pages-service` over
 // HTTP now, and the service answers for the page types the akasha index files and for no others.
 // `nav`, `game`, `game-turn`, `game-state`, `idle-game`, `idle-save`, `idle-persona-card`,
 // `persona-cover-image`, `message`, `sms-consent` and `page-property-definition` are none of them

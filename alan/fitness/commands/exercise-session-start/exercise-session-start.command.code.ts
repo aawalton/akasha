@@ -8,7 +8,7 @@ import { abandonedSessions, type Closing } from "@akasha/exercise-access/session
 import { freeSlug, sessionSlugStem } from "@akasha/exercise-access/session-derive"
 import { listedAt } from "@akasha/indexes"
 import { type Value, valueAt } from "@akasha/pages/page-value"
-import { composedFor } from "@akasha/pages-system-service/composing"
+import { composedFor } from "@akasha/pages-service/composing"
 import {
   asJson,
   DATA,

@@ -13,8 +13,7 @@ export const fileWriteBacking = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "`@akasha/pages-system-service` says nothing about where a page type's files are kept.",
+      statement: "`@akasha/pages-service` says nothing about where a page type's files are kept.",
     },
     {
       invariantKind: "departure",

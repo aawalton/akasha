@@ -49,8 +49,7 @@ export const answer = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "`@akasha/pages-system-service` names no repository and no glob for a page type's pages.",
+      statement: "`@akasha/pages-service` names no repository and no glob for a page type's pages.",
     },
   ],
 } as const satisfies Module

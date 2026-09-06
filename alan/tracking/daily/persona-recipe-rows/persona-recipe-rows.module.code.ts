@@ -1,5 +1,5 @@
-import type { Asked, Query, Row } from "@akasha/pages-system-service/asking"
-import { askingFor } from "@akasha/pages-system-service/calling"
+import type { Asked, Query, Row } from "@akasha/pages-service/asking"
+import { askingFor } from "@akasha/pages-service/calling"
 import { numberOf, textOf } from "../day-scan-window/day-scan-window.module.code.ts"
 
 const PERSONA_PAGE_TYPE_SLUG = "persona"

@@ -3,8 +3,8 @@ import type { FileEdit } from "@akasha/command-system/landing"
 import { akashaRoot } from "@akasha/pages/checkout-roots"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
-import { asking } from "@akasha/pages-system-service/asking"
-import { composedFor } from "@akasha/pages-system-service/composing"
+import { asking } from "@akasha/pages-service/asking"
+import { composedFor } from "@akasha/pages-service/composing"
 import { chapterWords as countChapterWords } from "@akasha/story-engine-core/chapter-words"
 import {
   CHAPTER_PAGE_TYPE,

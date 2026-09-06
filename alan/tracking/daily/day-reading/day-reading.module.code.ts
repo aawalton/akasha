@@ -1,6 +1,6 @@
 import { dataError } from "@akasha/errors-core/exit-code"
 import { kebabisedRow } from "@akasha/pages/akasha-page-values"
-import { asking } from "@akasha/pages-system-service/asking"
+import { asking } from "@akasha/pages-service/asking"
 import type {
   Answered,
   AnsweredRow,

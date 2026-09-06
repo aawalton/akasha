@@ -8,7 +8,7 @@ import { valuesOfType } from "@akasha/indexes"
 import { entriesAt } from "@akasha/pages/page-entries"
 import { besideAt } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
-import { composedFor } from "@akasha/pages-system-service/composing"
+import { composedFor } from "@akasha/pages-service/composing"
 import { getRecentlyPlayed } from "@akasha/spotify/player"
 import {
   buildPlayRow,

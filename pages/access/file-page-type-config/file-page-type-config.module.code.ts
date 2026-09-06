@@ -1,8 +1,8 @@
 import { slugsIn } from "@akasha/pages/page-value"
 import { type MediaConfig, parseMediaConfig } from "@akasha/pages-core/schema/media-config"
 import { parseSequenceConfig, type SequenceConfig } from "@akasha/pages-core/schema/sequence-config"
-import type { Asked, Query } from "@akasha/pages-system-service/asking"
-import { askingFor } from "@akasha/pages-system-service/calling"
+import type { Asked, Query } from "@akasha/pages-service/asking"
+import { askingFor } from "@akasha/pages-service/calling"
 import { z } from "zod"
 
 const PAGE_TYPE_SLUG = "page-type"

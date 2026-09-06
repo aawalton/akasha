@@ -1,5 +1,5 @@
-import type { Query } from "@akasha/pages-system-service/asking"
-import { askingFor } from "@akasha/pages-system-service/calling"
+import type { Query } from "@akasha/pages-service/asking"
+import { askingFor } from "@akasha/pages-service/calling"
 import { climbs, rungsIn } from "@akasha/readout-system/readout-tier"
 import { sleepIn } from "@akasha/readout-system/upkeep-sleep"
 import { surplusIn } from "@akasha/readout-system/upkeep-surplus"

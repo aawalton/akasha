@@ -23,7 +23,7 @@ import {
 } from "@akasha/exercise-access/exercise-vocabulary"
 import { selectionFeatureProps } from "@akasha/exercise-access/selection-features"
 import type { Value } from "@akasha/pages/page-value"
-import { composedFor } from "@akasha/pages-system-service/composing"
+import { composedFor } from "@akasha/pages-service/composing"
 import { firstOf, JSON_SAID, saidIn } from "../exercise-said/exercise-said.module.code.ts"
 
 const INPUT = 1

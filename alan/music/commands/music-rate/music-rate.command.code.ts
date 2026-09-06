@@ -7,7 +7,7 @@ import { MUSIC_RATINGS } from "@akasha/music-choosing/rating-ladder"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { type Value, valueAt } from "@akasha/pages/page-value"
-import { composedFor } from "@akasha/pages-system-service/composing"
+import { composedFor } from "@akasha/pages-service/composing"
 
 const INPUT = 1
 

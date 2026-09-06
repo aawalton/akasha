@@ -10,7 +10,7 @@ export const fileWrite = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every write here is handed to `@akasha/pages-system-service`.",
+      statement: "Every write here is handed to `@akasha/pages-service`.",
     },
     {
       invariantKind: "departure",

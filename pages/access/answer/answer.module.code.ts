@@ -1,5 +1,5 @@
-import type { Asked } from "@akasha/pages-system-service/asking"
-import { askingFor } from "@akasha/pages-system-service/calling"
+import type { Asked } from "@akasha/pages-service/asking"
+import { askingFor } from "@akasha/pages-service/calling"
 import { RosterUnreachable, valuedRows } from "../file-read/file-read.module.code.ts"
 import { buildRawPageRows } from "../file-rows/file-rows.module.code.ts"
 import { getPageTypeBySlug } from "../page-type/page-type.module.code.ts"

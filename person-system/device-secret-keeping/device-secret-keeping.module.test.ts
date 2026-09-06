@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Fetcher } from "@akasha/pages-system-service/calling"
+import type { Fetcher } from "@akasha/pages-service/calling"
 import {
   DEVICE_SECRET_PREFIX,
   hasDeviceSecretShape,

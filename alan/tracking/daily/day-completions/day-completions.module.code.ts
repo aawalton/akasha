@@ -1,5 +1,5 @@
 import { dataError } from "@akasha/errors-core/exit-code"
-import { asking } from "@akasha/pages-system-service/asking"
+import { asking } from "@akasha/pages-service/asking"
 import { entryKeysDeclared } from "../day-entry-keys/day-entry-keys.module.code.ts"
 import { checkoutRoot, WAKE_DAY } from "../day-place/day-place.module.code.ts"
 

@@ -50,7 +50,7 @@ export type Translated =
     }
 
 const NOTHING_NAMES =
-  "a name here was the file's own stem, worked out from the path a row reported and the glob a page type was filed under. `@akasha/pages-system-service` answers a page's values and reports no path, and there is no glob left to measure a path against. Nothing was looked at, so this says nothing about whether that page is there. A page is reached by its page type and its slug through `@akasha/pages-system-service`, and there is no file name to translate an id into."
+  "a name here was the file's own stem, worked out from the path a row reported and the glob a page type was filed under. `@akasha/pages-service` answers a page's values and reports no path, and there is no glob left to measure a path against. Nothing was looked at, so this says nothing about whether that page is there. A page is reached by its page type and its slug through `@akasha/pages-service`, and there is no file name to translate an id into."
 
 export function nameOfPageId(pageTypeSlug: string, id: string): Promise<Translated> {
   if (typeof id !== "string" || !lowerUuid(id.trim().toLowerCase())) {

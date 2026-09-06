@@ -1,4 +1,4 @@
-import { askingFor, type Fetcher, type Sleeper } from "@akasha/pages-system-service/calling"
+import { askingFor, type Fetcher, type Sleeper } from "@akasha/pages-service/calling"
 import { personSlugForAccount } from "../person-enrolment/person-enrolment.module.code.ts"
 
 export const PERSON_ACCESS_PAGE_TYPE = "person-access"

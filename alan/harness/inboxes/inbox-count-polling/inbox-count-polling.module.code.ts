@@ -2,7 +2,7 @@ import { dayAfter } from "@akasha/day/day-string"
 import { makeGmailClient } from "@akasha/google-email/client"
 import { INBOX_LABEL, listMessages } from "@akasha/google-email/messages"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
-import { asking } from "@akasha/pages-system-service/asking"
+import { asking } from "@akasha/pages-service/asking"
 import type { InboxKey } from "../inbox-keys/inbox-keys.module.code.ts"
 
 const EMAIL_MAX = 100

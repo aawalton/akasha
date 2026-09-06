@@ -6,7 +6,7 @@ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { refuseALiveTestWrite } from "@akasha/pages/live-store-write-guard"
 import { bodyOf, importedFrom, unnamedIn } from "@akasha/pages/page-body"
 import { nameFaultIn } from "@akasha/pages/page-export-name"
-import { asking } from "@akasha/pages-system-service/asking"
+import { asking } from "@akasha/pages-service/asking"
 import { wakeDayOf } from "../../../tracking/daily/day-opening/day-opening.module.code.ts"
 
 const EMAIL_ENTRY_PAGE_TYPE_SLUG = "email-entry"

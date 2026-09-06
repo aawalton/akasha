@@ -15,7 +15,7 @@ import {
   NO_SIDE,
 } from "@akasha/exercise-access/mobility-derive"
 import type { Value } from "@akasha/pages/page-value"
-import { composedFor } from "@akasha/pages-system-service/composing"
+import { composedFor } from "@akasha/pages-service/composing"
 import { JSON_SAID, proseIn, saidIn } from "../exercise-said/exercise-said.module.code.ts"
 
 const INPUT = 1

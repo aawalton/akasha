@@ -1,4 +1,4 @@
-import { shapeFor } from "@akasha/pages-system-service/calling"
+import { shapeFor } from "@akasha/pages-service/calling"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import type { Json } from "@akasha/utils-narrow/json-value"
 import { z } from "zod"
