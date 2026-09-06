@@ -14,7 +14,7 @@ export const atomicChange = {
     "atomic-change/rename-property-signature",
     "atomic-change/rename-local-variable",
     "atomic-change/rename-path",
-    "atomic-change/rename-slug",
+    "atomic-change/rename-page-slug",
   ],
   extendsSlug: ["page-type/module"],
   invariants: [

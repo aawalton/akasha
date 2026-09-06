@@ -7,7 +7,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { renameSlug } from "./rename-slug.atomic-change.code.ts"
+import { renameSlug } from "./rename-page-slug.atomic-change.code.ts"
 
 afterAll(scratch.sweep)
 

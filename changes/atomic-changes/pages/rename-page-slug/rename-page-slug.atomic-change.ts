@@ -1,9 +1,9 @@
 import type { AtomicChange } from "../../atomic-change.page-type.ts"
 
-export const renameSlug = {
+export const renamePageSlug = {
   id: "01a0737b-b0e1-72ca-9152-c56abe8398f5",
   pageTypeSlug: "atomic-change",
-  slug: "rename-slug",
+  slug: "rename-page-slug",
   definition: "one page's slug restated in its own body and in the data of every page naming it",
   code: "ts",
   test: "ts",
