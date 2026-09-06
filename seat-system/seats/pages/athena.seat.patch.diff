@@ -347,6 +347,75 @@ index 8030ed56df1c050226020297c44aaa19cc90159c..a01a69e72d07238083917db1995a0b6f
 +    unreadSeats: 0,
 +  } satisfies AgentTreeState)
 +}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
+index 802bb36f1b461546c5c5be93b5d69ea121f7b4fc..a798e7891d60c2b8d5eb07ce64e1676d6f6619c9 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
+@@ -4,7 +4,7 @@ export const treeDrawing = {
+   id: "01a07290-1f4c-7a63-9e21-58c0bd47e3f2",
+   pageTypeSlug: "module",
+   slug: "tree-drawing",
+-  definition: "the work, domains and pages trees put into the one row every tree carries",
++  definition: "the work, domains, pages and agents trees put into the one row every tree carries",
+   code: "ts",
+   invariants: [
+     {
+@@ -32,6 +32,38 @@ export const treeDrawing = {
+       invariantKind: "departure",
+       statement: "A work row carries the kind that row is among the work tree's two kinds.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The subagents under a seat are the subagent pages naming that seat.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A subagent page is joined onto its seat's row through the seat's name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A subagent page naming a seat no row answers to is left out.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A subagent row is labelled by the kind that subagent was dispatched as.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A subagent stating no kind is labelled by the id that subagent runs under.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every subagent hangs directly under its seat rather than under another subagent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "No seat is counted as unread.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Reading a seat's turn banks how far that seat's transcript was read.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+@@ -39,7 +71,15 @@ export const treeDrawing = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reads a clock or watches a file or writes a file.",
++      statement: "Nothing here reads a clock or watches a file.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here starts a child process.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here folds a transcript for the subagents a seat is running.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/command-system/commands/agent-forest/agent-forest.command.test.ts b/command-system/commands/agent-forest/agent-forest.command.test.ts
 index 7068d06d9a7c524485014cc42a14ddd1a364a437..bf981f301eee13db66bd88423ae985c4f537f2d9 100644
 --- a/command-system/commands/agent-forest/agent-forest.command.test.ts
