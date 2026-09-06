@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/tracking/tracking-capture/tracking-capture.domain.ts b/alan/tracking/tracking-capture/tracking-capture.domain.ts
+index bc5d340bacc2076b5e3340732008ac91fd866bb2..a303411f5c4a5db8f12e5923c94c9efde31ff39a 100644
+--- a/alan/tracking/tracking-capture/tracking-capture.domain.ts
++++ b/alan/tracking/tracking-capture/tracking-capture.domain.ts
+@@ -16,7 +16,7 @@ export const trackingCapture = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every tracked field states the one capture its values come of.",
++      statement: "Every tracked field states the single capture its values come of.",
+     },
+     {
+       invariantKind: "departure",
