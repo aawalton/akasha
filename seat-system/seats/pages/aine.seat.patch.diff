@@ -463,7 +463,7 @@ index 0000000000000000000000000000000000000000..ede1a54d3aa0fba99ce460ea6e0fba2d
 +})
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..75a24886771b129bdeb4f569febe7cb046444492
+index 0000000000000000000000000000000000000000..43acf1c9cf84a99866bd409d6935fc243678cf83
 --- /dev/null
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.ts
 @@ -0,0 +1,55 @@
@@ -514,11 +514,11 @@ index 0000000000000000000000000000000000000000..75a24886771b129bdeb4f569febe7cb0
 +    },
 +    {
 +      invariantKind: "gap",
-+      statement: "A folder inside `sections` is named for the section that folder belongs to.",
++      statement: "A folder inside `sections` is named for one section of this book.",
 +    },
 +    {
 +      invariantKind: "gap",
-+      statement: "A section inside such a folder names its own section as what holds it.",
++      statement: "A section inside a folder is held by the section the folder is named for.",
 +    },
 +  ],
 +} as const satisfies FolderShape
