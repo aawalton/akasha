@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/code-system/rust-crates/rust-crate.page-type.ts b/code-system/rust-crates/rust-crate.page-type.ts
+index 76b821f648659c47098ebecb3b7faad9ff2273f0..7cfbeec328451d60d72b1f4ca810d8acece0ae99 100644
+--- a/code-system/rust-crates/rust-crate.page-type.ts
++++ b/code-system/rust-crates/rust-crate.page-type.ts
+@@ -47,7 +47,7 @@ export const rustCrate = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A module named by more than one crate is a shared one.",
++      statement: "A module named by more than one crate is a shared module.",
+     },
+     {
+       invariantKind: "constraint",
