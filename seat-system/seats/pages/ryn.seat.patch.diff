@@ -1,5 +1,5 @@
 diff --git a/browser/browser-commands/verify-render-plan/verify-render-plan.module.ts b/browser/browser-commands/verify-render-plan/verify-render-plan.module.ts
-index 8b377a0ae35f06cbad0c6d3e6bdbd7f9a3a4ab05..e4bf49ab5f94deddb59bd7470eb32a532871a339 100644
+index 8b377a0ae35f06cbad0c6d3e6bdbd7f9a3a4ab05..aaa66807bbbab22f8c821876fba6c1a0431ad654 100644
 --- a/browser/browser-commands/verify-render-plan/verify-render-plan.module.ts
 +++ b/browser/browser-commands/verify-render-plan/verify-render-plan.module.ts
 @@ -10,8 +10,11 @@ export const verifyRenderPlan = {
@@ -16,7 +16,18 @@ index 8b377a0ae35f06cbad0c6d3e6bdbd7f9a3a4ab05..e4bf49ab5f94deddb59bd7470eb32a53
      },
      {
        invariantKind: "departure",
-@@ -25,7 +28,7 @@ export const verifyRenderPlan = {
+@@ -19,13 +22,16 @@ export const verifyRenderPlan = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A hydration marker is waited on ahead of expected text, and expected text ahead of a populated root.",
++      statement: "A hydration marker is waited on ahead of expected text.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Expected text is waited on ahead of a populated root.",
+     },
      {
        invariantKind: "departure",
        statement:
