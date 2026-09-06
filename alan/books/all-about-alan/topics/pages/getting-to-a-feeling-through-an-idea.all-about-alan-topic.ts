@@ -11,6 +11,4 @@ export const gettingToAFeelingThroughAnIdea = {
   relatedSlugs: ["letting-a-feeling-in-through-a-story", "how-understanding-arrives"],
   settled:
     "It comes rare and strong at once, which fits a gate that filters out everything not built past some threshold and passes the rest whole.",
-  unsettled:
-    "The fraction of what I understand that matches what other people feel is a figure I flagged provisional myself, and nobody has rechecked it.\n\nWhether every feeling of mine needs a concept built first, or only the ones anchored in the past, is open, and how much structure is enough to set one off is unknown.\n\nHow much of that direction is still live is unmeasured, and it is to be probed directly rather than worked out from anything nearby.",
 } as const satisfies AllAboutAlanTopic
