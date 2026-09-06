@@ -1,0 +1,13 @@
+diff --git a/changes/runners/change-runner.page-type.ts b/changes/runners/change-runner.page-type.ts
+index 90089fe35f2ce25583b1f224afc74a1a302fa712..064aa14a44a7df40e543dae2fbc314e1375572a1 100644
+--- a/changes/runners/change-runner.page-type.ts
++++ b/changes/runners/change-runner.page-type.ts
+@@ -37,7 +37,7 @@ export const changeRunner = {
+       statement: "A guard runs on the answer of the change naming that guard.",
+     },
+     {
+-      invariantKind: "departure",
++      invariantKind: "gap",
+       statement: "A change reaches another change through a runner rather than through an import.",
+     },
+     {
