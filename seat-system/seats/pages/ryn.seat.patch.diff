@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/inference/clients/mlx-image-client/mlx-image-client.module.ts b/inference/clients/mlx-image-client/mlx-image-client.module.ts
+index 36a537ef0e28d9b11ea6914b2e4c83dbe04fab2c..73fee90b6b0baad81e8695000ce054e8243960b3 100644
+--- a/inference/clients/mlx-image-client/mlx-image-client.module.ts
++++ b/inference/clients/mlx-image-client/mlx-image-client.module.ts
+@@ -17,7 +17,7 @@ export const mlxImageClient = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A guidance scale or a step count the caller told none of is left off the body.",
++      statement: "A guidance scale or a step count the caller left unsaid is left off the body.",
+     },
+     {
+       invariantKind: "departure",
