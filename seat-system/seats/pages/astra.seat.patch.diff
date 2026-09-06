@@ -1,3 +1,22 @@
+diff --git a/pages/service/page-composing/page-composing.module.code.ts b/pages/service/page-composing/page-composing.module.code.ts
+index 419d971ef1cd34735f7786ab210af8f09f9b04a4..f19b6e4ee5715df60d5944ea3373ab9420ae0a7e 100644
+--- a/pages/service/page-composing/page-composing.module.code.ts
++++ b/pages/service/page-composing/page-composing.module.code.ts
+@@ -224,11 +224,11 @@ export function composedFor(root: string, named: Naming): Composed {
+       const ending = value as string
+       const why = endingRefused(one.key, one.propertySlug, at, ending)
+       if (why !== null) return { refused: why }
+-      const beside = besideAt(at, one.propertySlug, ending)
+-      if (beside === null) {
++      const besideFile = besideAt(at, one.propertySlug, ending)
++      if (besideFile === null) {
+         return { refused: `\`${at}\` is no page file, so no file sits beside it` }
+       }
+-      parts.push({ path: beside, content: bodies[one.key] ?? "" })
++      parts.push({ path: besideFile, content: bodies[one.key] ?? "" })
+       inside[one.key] = ending
+       continue
+     }
 diff --git a/pages/service/page-serving/page-serving.module.code.ts b/pages/service/page-serving/page-serving.module.code.ts
 index 09134c88fffeb6be596c797d577e5f3daf63b8c5..210173b58caa7f607e18cc1eb7f1bc74c3a21a05 100644
 --- a/pages/service/page-serving/page-serving.module.code.ts
