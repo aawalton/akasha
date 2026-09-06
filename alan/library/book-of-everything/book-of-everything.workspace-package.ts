@@ -16,6 +16,7 @@ export const bookOfEverything = {
     "module/status-tree",
     "module/topic-tree",
     "module/random-leaf-select",
+    "module/seeded-draw",
   ],
   invariants: [
     {
