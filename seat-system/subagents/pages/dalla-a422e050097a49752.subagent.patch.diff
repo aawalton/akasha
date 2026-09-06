@@ -1,3 +1,17 @@
+diff --git a/changes/refactor-changes/refactor-change.page-type.ts b/changes/refactor-changes/refactor-change.page-type.ts
+index 4564637f2296137b5f90b7f0552702676c11ed80..28d3f4bd3db556cd5b0b14a6d38b3723147ecc23 100644
+--- a/changes/refactor-changes/refactor-change.page-type.ts
++++ b/changes/refactor-changes/refactor-change.page-type.ts
+@@ -37,9 +37,5 @@ export const refactorChange = {
+       invariantKind: "departure",
+       statement: "A refactor change no command runs is a refactor change all the same.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here is reached from the command line.",
+-    },
+   ],
+ } as const satisfies PageType
 diff --git a/command-system/commands/refactor/page-renaming/page-renaming.module.code.ts b/command-system/commands/refactor/page-renaming/page-renaming.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..1a9141a92a21af5b5f6a34002251711ca85302c3
