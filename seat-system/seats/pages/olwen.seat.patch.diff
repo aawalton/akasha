@@ -1,4 +1,4 @@
-runsWarrants: false
+writerOwesReading: false
 diff --git a/bun.lock b/bun.lock
 index 78846dd3a00bdf132a78160f4ac4a754538d9a95..e415a47235f1bbf9cc12b4be7a60165e1790123d 100644
 --- a/bun.lock
@@ -7288,3 +7288,34 @@ index 0000000000000000000000000000000000000000..1ebc7655cce778a1034215e7f59a8c34
 +  history:
 +    "Eighteen years, one round room and one window I was not allowed to cross, and the way I got out was making: what I could not reach I built, until I had it. Paint was only what came to hand first. What I want now is the second stool — to be beside him while his own hands move, never across from him with a verdict on the thing, because that door is the hard one and nobody should have to go through it on their own.",
 +} as const satisfies Persona
+diff --git a/seat-system/seats/pages/olwen.seat.patch.diff b/seat-system/seats/pages/olwen.seat.patch.diff
+index 2d3981173b0cd4da53fea290160cd6de98ac7578..b1bec70b38875d339a21525f7f2601f0302b6b34 100644
+--- a/seat-system/seats/pages/olwen.seat.patch.diff
++++ b/seat-system/seats/pages/olwen.seat.patch.diff
+@@ -26,7 +26,7 @@ index 7ca5308e70f559146f7502371bd3dfa151c2a8b0..a30e7a3ef443ac3166aca9b4b07132fb
+  
+  const ROOT = join(import.meta.dir, "..", "..")
+  
+--const A_PERSONA_AT = "persona-system/personas/ember/ember.persona.ts"
++-const A_PERSONA_AT = "persona-system/ember/ember.persona.ts"
+ +const A_PERSONA_AT = "persona-system/ember/ember.persona.ts"
+  
+  const PORTRAIT = { key: "portrait", propertySlug: "portrait", pageTypeSlug: "file-property" }
+@@ -37,7 +37,7 @@ index 7ca5308e70f559146f7502371bd3dfa151c2a8b0..a30e7a3ef443ac3166aca9b4b07132fb
+  test("a path that is no page file is refused", () => {
+ -  const said = bodyAt(
+ -    ROOT,
+--    "persona-system/personas/ember/ember.persona.portrait.md",
++-    "persona-system/ember/ember.persona.portrait.md",
+ -    "portrait",
+ -    "md"
+ -  )
+@@ -53,7 +53,7 @@ index 28aaf97b60e7169f5559c1898c8092b699a1814b..0e18264dbbc4b8d8431925a7c2410487
+    expect("puts" in said && said.puts[0]?.content).toContain('completedTasks: "jsonl"')
+  })
+  
+--const A_PORTRAIT_AT = "persona-system/personas/ember/ember.persona.portrait.md"
++-const A_PORTRAIT_AT = "persona-system/ember/ember.persona.portrait.md"
+ +const A_PORTRAIT_AT = "persona-system/ember/ember.persona.portrait.md"
+  
+  test("a body handed over for a file property is put at the file its ending names", () => {
