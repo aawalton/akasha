@@ -1,0 +1,15 @@
+diff --git a/command-system/commands/domain/domain.command.test.ts b/command-system/commands/domain/domain.command.test.ts
+index 7b69f08716ac692f5d73e2f542bb132343f269b9..67fb65720ff7ac4c345e32b3b2c1ae9fc53501db 100644
+--- a/command-system/commands/domain/domain.command.test.ts
++++ b/command-system/commands/domain/domain.command.test.ts
+@@ -1,8 +1,9 @@
+ import { afterAll, expect, test } from "bun:test"
+ import { mkdirSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
++import { rootOf } from "@akasha/command-system/rooting"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { listedFiled } from "@akasha/indexes/testing"
++import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+ import {
+   AT_DOMAIN,
+   DAG,
