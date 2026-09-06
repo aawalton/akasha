@@ -1,5 +1,5 @@
 diff --git a/editor-extension/work-tree-view/work-tree-view.module.ts b/editor-extension/work-tree-view/work-tree-view.module.ts
-index 24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c..2ed823a6f1f3ff35eb267e21bf55faa73d99435c 100644
+index 24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c..3b0c18340f59ff581ba8d47729ded880bc6e8b7f 100644
 --- a/editor-extension/work-tree-view/work-tree-view.module.ts
 +++ b/editor-extension/work-tree-view/work-tree-view.module.ts
 @@ -9,7 +9,7 @@ export const workTreeView = {
@@ -18,6 +18,15 @@ index 24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c..2ed823a6f1f3ff35eb267e21bf55faa7
 -      statement:
 -        "A row is identified apart while a filter is there, so the editor redraws that row.",
 +      statement: "A row is identified apart while a filter is there.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,7 +38,7 @@ export const workTreeView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every row carries a blank icon, so a colored row and an uncolored one line up.",
++      statement: "Every row carries a blank icon.",
      },
      {
        invariantKind: "departure",
