@@ -1,0 +1,92 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/alan/fitness/client-profiles/client-profile.page-type.ts b/alan/fitness/client-profiles/client-profile.page-type.ts
+index 035849fa3d01f5d0883e6266fa5be98cefd5f993..54c0435e4b62703cee466a17cbb5a71a78e7b8cf 100644
+--- a/alan/fitness/client-profiles/client-profile.page-type.ts
++++ b/alan/fitness/client-profiles/client-profile.page-type.ts
+@@ -1,7 +1,7 @@
+ import type { Page } from "@akasha/pages/page"
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../../pages/properties/title.text-property.ts"
+-import type { Bodyweight } from "./properties/bodyweight.number-property.ts"
++import type { Bodyweight } from "../../../person-system/people/properties/bodyweight.number-property.ts"
+ 
+ export type ClientProfile = Page & {
+   title: Title
+@@ -15,7 +15,7 @@ export const clientProfile = {
+   definition: "what the coach knows about the body she is training",
+   pluralSlug: "client-profiles",
+   extendsSlug: ["page-type/page"],
+-  partSlugs: ["number-property/bodyweight"],
++  partSlugs: [],
+   properties: [
+     { pagePropertySlug: "text-property/title", required: true, many: false },
+     { pagePropertySlug: "number-property/bodyweight", required: false, many: false },
+diff --git a/alan/fitness/client-profiles/properties/bodyweight.number-property.ts b/alan/fitness/client-profiles/properties/bodyweight.number-property.ts
+deleted file mode 100644
+index b6a0d92693697b4ff490a9fb5b8fbb59995a8391..0000000000000000000000000000000000000000
+--- a/alan/fitness/client-profiles/properties/bodyweight.number-property.ts
++++ /dev/null
+@@ -1,22 +0,0 @@
+-import type { NumberProperty } from "@akasha/pages/number-property"
+-
+-export type Bodyweight = number
+-
+-export const bodyweight = {
+-  id: "01a06860-a0ef-76b6-bebf-a5ed8fc42f7b",
+-  pageTypeSlug: "number-property",
+-  slug: "bodyweight",
+-  propertySlug: "bodyweight",
+-  definition: "what a person's body weighs, in pounds",
+-  max: null,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The weight is read off the person's page rather than handed in by a caller.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A movement's load factor is the share of this weight that movement carries.",
+-    },
+-  ],
+-} as const satisfies NumberProperty
+diff --git a/person-system/people/person.page-type.ts b/person-system/people/person.page-type.ts
+index 0dcde7ff70ecd0ded93beaec1334f9debeb7ee10..54172334f0825a07652d52b8ee870843a5f7f0e3 100644
+--- a/person-system/people/person.page-type.ts
++++ b/person-system/people/person.page-type.ts
+@@ -20,6 +20,7 @@ export const person = {
+   pluralSlug: "people",
+   extendsSlug: ["page-type/domain"],
+   partSlugs: [
++    "number-property/bodyweight",
+     "person/alan",
+     "person/david",
+     "person/jenny",
+diff --git a/person-system/people/properties/bodyweight.number-property.ts b/person-system/people/properties/bodyweight.number-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b6a0d92693697b4ff490a9fb5b8fbb59995a8391
+--- /dev/null
++++ b/person-system/people/properties/bodyweight.number-property.ts
+@@ -0,0 +1,22 @@
++import type { NumberProperty } from "@akasha/pages/number-property"
++
++export type Bodyweight = number
++
++export const bodyweight = {
++  id: "01a06860-a0ef-76b6-bebf-a5ed8fc42f7b",
++  pageTypeSlug: "number-property",
++  slug: "bodyweight",
++  propertySlug: "bodyweight",
++  definition: "what a person's body weighs, in pounds",
++  max: null,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The weight is read off the person's page rather than handed in by a caller.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A movement's load factor is the share of this weight that movement carries.",
++    },
++  ],
++} as const satisfies NumberProperty
