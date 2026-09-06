@@ -40,7 +40,7 @@ export const smsSend = {
     },
     {
       invariantKind: "departure",
-      statement: "The number sent from is the toll-free one unless another number is said.",
+      statement: "The number sent from is the toll-free number unless another number is said.",
     },
     {
       invariantKind: "departure",
