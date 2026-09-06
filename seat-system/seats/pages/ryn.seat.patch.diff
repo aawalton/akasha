@@ -1,14 +1,19 @@
 writerOwesReading: false
 diff --git a/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts b/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts
-index bca1535bc75d79679d34ac468ab63474c8cb4338..fc5bb6d1d3b0d95f78ac44546adaedb33509aad8 100644
+index bca1535bc75d79679d34ac468ab63474c8cb4338..85cdc7761f8b949a9c1f41fd0e80b32fc0870122 100644
 --- a/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts
 +++ b/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts
-@@ -20,7 +20,7 @@ export const monarchRuleDates = {
+@@ -20,11 +20,11 @@ export const monarchRuleDates = {
      },
      {
        invariantKind: "departure",
 -      statement: "An excluded month is weighed before an included one.",
 +      statement: "An excluded month is weighed before an included month.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A clause naming no month matches every month rather than none.",
++      statement: "A clause naming no month matches every month rather than no month.",
      },
      {
        invariantKind: "departure",
