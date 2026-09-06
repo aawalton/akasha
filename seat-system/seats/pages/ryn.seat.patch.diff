@@ -1,8 +1,8 @@
 diff --git a/inference/pool/pool-config-build/pool-config-build.module.ts b/inference/pool/pool-config-build/pool-config-build.module.ts
-index 8099e29528e7e5cf6d1711f7d30e01ddfea8861f..ac6034564fc459753f6847fc6e0e6e7bfcf61957 100644
+index 8099e29528e7e5cf6d1711f7d30e01ddfea8861f..a7c69c9a6b9ffe95a0d70bdc038d116a4b1a6fa6 100644
 --- a/inference/pool/pool-config-build/pool-config-build.module.ts
 +++ b/inference/pool/pool-config-build/pool-config-build.module.ts
-@@ -14,7 +14,7 @@ export const poolConfigBuild = {
+@@ -14,12 +14,15 @@ export const poolConfigBuild = {
      },
      {
        invariantKind: "departure",
@@ -11,3 +11,13 @@ index 8099e29528e7e5cf6d1711f7d30e01ddfea8861f..ac6034564fc459753f6847fc6e0e6e7b
      },
      {
        invariantKind: "departure",
+-      statement:
+-        "The pool file folds into the traffic cop's hash, so changing that file re-provisions the cop.",
++      statement: "The pool file folds into the traffic cop's hash.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Changing the pool file re-provisions the traffic cop.",
+     },
+   ],
+ } as const satisfies Module
