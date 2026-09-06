@@ -9,12 +9,16 @@ export const inferenceRunStore = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run that throws is still finished, as failed, and the failure is raised on.",
+      statement: "The failure a run throws is raised on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An audio operation records the output that operation made as audio.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An audio operation records the output that operation made as audio and every other as an image.",
+        "An operation that is not audio records the output that operation made as an image.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +27,7 @@ export const inferenceRunStore = {
     },
     {
       invariantKind: "departure",
-      statement: "A run lands at most one of an image page and an audio page.",
+      statement: "No run lands both an image page and an audio page.",
     },
   ],
 } as const satisfies Module
