@@ -34,7 +34,7 @@ export const musicNext = {
     },
     {
       invariantKind: "departure",
-      statement: "The key a grade is read under is one the page type declares or inherits.",
+      statement: "The key a grade is read under is a key the page type declares or inherits.",
     },
     {
       invariantKind: "departure",
