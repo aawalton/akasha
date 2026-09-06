@@ -10,8 +10,11 @@ export const moveSiding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A pair is read against the repository root, and one side outside that root is refused.",
+      statement: "A pair is read against the repository root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A pair with a side outside that root is refused.",
     },
     {
       invariantKind: "departure",
@@ -52,15 +55,16 @@ export const moveSiding = {
     },
     {
       invariantKind: "departure",
-      statement: "A name whose page type slot names no page type is neither.",
+      statement: "A name whose page type slot names no page type belongs to no page.",
     },
     {
       invariantKind: "departure",
-      statement: "A name the grammar will not parse is neither.",
+      statement: "A name the grammar will not parse belongs to no page.",
     },
     {
       invariantKind: "departure",
-      statement: "A file that is neither is carried under whatever name a pair gives that file.",
+      statement:
+        "A file belonging to no page is carried under whatever name a pair gives that file.",
     },
     {
       invariantKind: "departure",
