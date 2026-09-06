@@ -55,6 +55,18 @@ index 0000000000000000000000000000000000000000..8227dded98305391caeaef3ba70e211a
 +test("an answer holding one row this reader cannot read carries none of them", () => {
 +  expect(readAnswerRows({ rows: [ONE, { ...ONE, id: "not a uuid" }] })).toBe(null)
 +})
+diff --git a/pages/ui-store/collection/fetch-attach/fetch-attach.module.ts b/pages/ui-store/collection/fetch-attach/fetch-attach.module.ts
+index e30d04bff5d9b3d73bef8a5023ab0fa3de2fa286..a3380ecb22c3328fbdf469b13da8d8558e5385e9 100644
+--- a/pages/ui-store/collection/fetch-attach/fetch-attach.module.ts
++++ b/pages/ui-store/collection/fetch-attach/fetch-attach.module.ts
+@@ -4,6 +4,7 @@ export const fetchAttach = {
+   id: "01a05b69-453f-78b8-a67b-fe573df190bf",
+   pageTypeSlug: "module",
+   slug: "fetch-attach",
++  test: "ts",
+   definition: "the rows of a file-backed page type read into the store over HTTP",
+   code: "ts",
+ } as const satisfies Module
 diff --git a/pages/ui-store/realtime/payload-translator/payload-translator.module.code.ts b/pages/ui-store/realtime/payload-translator/payload-translator.module.code.ts
 index 38a20193bcd144fd0225109c114945f991865db0..1959c8f9abbd8c809d0e3b31e99edb89b5cafdaa 100644
 --- a/pages/ui-store/realtime/payload-translator/payload-translator.module.code.ts
