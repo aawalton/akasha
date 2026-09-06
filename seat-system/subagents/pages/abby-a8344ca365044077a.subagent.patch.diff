@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-autisms-half-of-my-executive-function-is.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-autisms-half-of-my-executive-function-is.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6ba228a00ec367d5eebc799089b4a3d2a42a9153
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-autisms-half-of-my-executive-function-is.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatAutismsHalfOfMyExecutiveFunctionIs = {
++  id: "01a077ee-12cd-74d1-94fe-087b316d051c",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-autisms-half-of-my-executive-function-is",
++  topicSlug: "how-i-get-anything-done",
++  ask: "My executive function is hit twice, autism on top of ADHD. What does autism's half look like on its own?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-else-raises-how-much-i-get-done.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-else-raises-how-much-i-get-done.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b54e729572b631446d8a390c286701d52a9f4134
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-else-raises-how-much-i-get-done.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatElseRaisesHowMuchIGetDone = {
++  id: "01a077ee-12cc-783e-92fa-a065f13febf2",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-else-raises-how-much-i-get-done",
++  topicSlug: "how-i-get-anything-done",
++  ask: "What else raises how much I get done, across medication, how I arrange my surroundings, and moving memory outside my head?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-no-pull-back-makes-pivoting-cheap.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-no-pull-back-makes-pivoting-cheap.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..117bd218e93b9d1ad259affdff59ed5f6e062117
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-no-pull-back-makes-pivoting-cheap.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherNoPullBackMakesPivotingCheap = {
++  id: "01a077ee-12cd-7ea5-887d-bf55f51995fb",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-no-pull-back-makes-pivoting-cheap",
++  topicSlug: "how-i-get-anything-done",
++  ask: "Is having no pull back toward the past what makes both pivoting cheap and letting an impulse pass easy?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-budget-framing-holds-across-my-executive-functions.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-budget-framing-holds-across-my-executive-functions.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..93dc2abb610adfdc57ea58b48408a2a17ea15e4f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-budget-framing-holds-across-my-executive-functions.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheBudgetFramingHoldsAcrossMyExecutiveFunctions = {
++  id: "01a077ee-12ce-7c3a-a818-92e06841e1ff",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-budget-framing-holds-across-my-executive-functions",
++  topicSlug: "how-i-get-anything-done",
++  ask: "The budget framing was drawn from part of my executive functions. Does that framing hold against the rest of them?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-get-anything-done.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-get-anything-done.all-about-alan-topic.ts
+index 0eee29aa6eb8f1a98b06b7315ffa64cd18ff74ae..18409667922a27a6e3c1e4407c56e8b4bebbdb7f 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-get-anything-done.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-get-anything-done.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const howIGetAnythingDone = {
+   parentSlugs: ["alan"],
+   settled:
+     "Most of it is compensated well enough that the gap is invisible from outside and half invisible to me.\n\nInterest decides whether starting and holding on are effortless or nearly impossible.\n\nChanging course is cheap, because nothing in me pulls back toward the plan I just left.",
+-  unsettled:
+-    "What else raises it has never been listed out: medication, how I arrange my surroundings, moving memory outside my head.\n\nWhether having no pull back toward the past is what makes both pivoting cheap and letting an impulse pass easy is a chain nobody has checked.\n\nExecutive function is hit twice, autism on top of ADHD. What autism's half looks like alone has never been separated out.\n\nThe budget framing was drawn from some of my executive functions and never tested against the rest.",
+ } as const satisfies AllAboutAlanTopic
