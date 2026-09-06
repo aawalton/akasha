@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-blocks-me-wearing-sunglasses-indoors.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-blocks-me-wearing-sunglasses-indoors.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..78fbee2ecbc314b55d701235f0e15a965241773e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-blocks-me-wearing-sunglasses-indoors.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatBlocksMeWearingSunglassesIndoors = {
++  id: "01a077e3-0a55-7993-9969-678323a85638",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-blocks-me-wearing-sunglasses-indoors",
++  topicSlug: "how-i-keep-light-down",
++  ask: "What blocks the choice to wear sunglasses indoors, which I have considered and do not do?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-sunglasses-actually-save-me.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-sunglasses-actually-save-me.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..10a52c3b32142a0a7bb95344c255d74eedbb8320
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-sunglasses-actually-save-me.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatSunglassesActuallySaveMe = {
++  id: "01a077e3-0a54-73a7-b4bb-ff12a246bd02",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-sunglasses-actually-save-me",
++  topicSlug: "how-i-keep-light-down",
++  ask: "What anchors the rate light costs me, and what does a sunglasses-on against sunglasses-off comparison show?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-hour-drives-my-brightness-rules.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-hour-drives-my-brightness-rules.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a652da7560a842567b95b5f0f3af642d867da2e3
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-hour-drives-my-brightness-rules.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheHourDrivesMyBrightnessRules = {
++  id: "01a077e3-0a55-781f-b2f6-0fbd1fdb683d",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-hour-drives-my-brightness-rules",
++  topicSlug: "how-i-keep-light-down",
++  ask: "Is the hour the real driver of my brightness rules, or does the clock represent circadian arousal, ambient light, or the visual fatigue built up by then?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-keep-light-down.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-keep-light-down.all-about-alan-topic.ts
+index 44e19385afbe9d2f4b7ada8fdb5f16b455fa8653..f9cf8aed8d8b2142d5358d3434af4069030f51a0 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-keep-light-down.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-keep-light-down.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const howIKeepLightDown = {
+   parentSlugs: ["what-my-senses-cost-me"],
+   settled:
+     "The cost is a drain on my capacity rather than pain, and the squinting comes after it.\n\nThe indoor lever is on or off. Nothing I have dims.",
+-  unsettled:
+-    "Nothing anchors the rate. No sunglasses-on against sunglasses-off comparison has been run.\n\nIndoor sunglasses are considered and not used, and what blocks the choice is unnamed.\n\nMy brightness rules run on the clock, in the bath as well as at a screen. Whether the hour is the real driver, or stands in for circadian arousal, ambient light or the visual fatigue built up by then, is untested.",
+ } as const satisfies AllAboutAlanTopic
