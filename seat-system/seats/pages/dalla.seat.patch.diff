@@ -1,0 +1,44 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/alan/library/library.domain.ts b/alan/library/library.domain.ts
+index f4187662d0264e9d0df93b2e7f05dac5d6225a55..3085aa7d35331c287f96a823d86d9f7779954b12 100644
+--- a/alan/library/library.domain.ts
++++ b/alan/library/library.domain.ts
+@@ -6,7 +6,6 @@ export const library = {
+   slug: "library",
+   definition: "what Alan works through, and how far through it he has got",
+   partSlugs: [
+-    "domain/studying",
+     "domain/watching",
+     "workspace-package/reading",
+     "workspace-package/book-of-everything",
+diff --git a/alan/library/studying/studying.domain.ts b/alan/library/studying/studying.domain.ts
+deleted file mode 100644
+index 2b269fb813363baef9a0ebdc070f9f075f9ffd70..0000000000000000000000000000000000000000
+--- a/alan/library/studying/studying.domain.ts
++++ /dev/null
+@@ -1,24 +0,0 @@
+-import type { Domain } from "../../../domains/domain.page-type.ts"
+-
+-export const studying = {
+-  id: "01a06574-0291-7001-9087-db957190cd32",
+-  pageTypeSlug: "domain",
+-  slug: "studying",
+-  definition: "the courses Alan is taught by",
+-  partSlugs: [
+-    "page-type/great-course",
+-    "page-type/great-courses-collection",
+-    "page-type/great-courses-subject",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A course is counted in the minutes that course runs to.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A course sits under every shelf that course belongs to rather than under a single shelf.",
+-    },
+-  ],
+-} as const satisfies Domain
