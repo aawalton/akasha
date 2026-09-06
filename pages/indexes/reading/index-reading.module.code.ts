@@ -169,10 +169,12 @@ export function importersIn(given: string | Reading, path: string): readonly str
   return pathsIn(readingOf(given), join(IMPORT, AT_PATH, `${path}${ENDING}`))
 }
 
+// Whether the index is there is asked at its root, as every other read here asks it, because a
+// folder holding no file is a population with no members rather than an index nothing wrote.
 export function importersOf(path: string, reading: Reading): readonly string[] {
-  const asked = `which files import \`${path}\``
-  const under = join(IMPORT, AT_PATH)
-  return answered(reading, under, asked, (held) => importersIn(held, path))
+  return answered(reading, ROOT, `which files import \`${path}\``, (held) =>
+    importersIn(held, path)
+  )
 }
 
 function schemaIn(reading: Reading, at: string): readonly Schema[] {
