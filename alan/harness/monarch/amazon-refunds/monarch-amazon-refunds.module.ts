@@ -9,8 +9,11 @@ export const monarchAmazonRefunds = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A refund note names the item that came back, drawn from the order that bought that item.",
+      statement: "A refund note names the item that came back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The item a refund note names is drawn from the order that bought that item.",
     },
     {
       invariantKind: "departure",
@@ -19,7 +22,7 @@ export const monarchAmazonRefunds = {
     },
     {
       invariantKind: "departure",
-      statement: "A credit matching two or more refunds is abstained on and never written.",
+      statement: "A credit matching several refunds is abstained on and never written.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +31,7 @@ export const monarchAmazonRefunds = {
     {
       invariantKind: "departure",
       statement:
-        "A message missing the amount, the order number or the item is counted rather than skipped silently.",
+        "A message missing the amount or the order number or the item is counted rather than dropped.",
     },
     {
       invariantKind: "departure",
