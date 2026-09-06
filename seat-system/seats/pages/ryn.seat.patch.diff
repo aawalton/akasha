@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/reading/monarch-reading.module.ts b/alan/harness/monarch/reading/monarch-reading.module.ts
+index c489b7dfccfddc4f1dcb2690849379005a2efb5b..cb29fb89c8f92b2e64011ffcdcd35a64a21860bd 100644
+--- a/alan/harness/monarch/reading/monarch-reading.module.ts
++++ b/alan/harness/monarch/reading/monarch-reading.module.ts
+@@ -47,7 +47,8 @@ export const monarchReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The root read is the one the environment states or the one the call was made in.",
++      statement:
++        "The root read is the root the environment states or the folder the call was made in.",
+     },
+     {
+       invariantKind: "stopgap",
