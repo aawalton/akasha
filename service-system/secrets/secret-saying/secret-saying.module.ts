@@ -4,10 +4,14 @@ export const secretSaying = {
   id: "01a07667-e09b-7f6e-bc84-5a76ea3566f4",
   pageTypeSlug: "module",
   slug: "secret-saying",
-  definition: "the Secret one resource's pages hold, said as yaml for kubectl to apply",
+  definition: "the values one resource's pages hold, said as yaml or handed over key by key",
   code: "ts",
   test: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The same gathering of a resource's values serves the yaml and the handing over.",
+    },
     {
       invariantKind: "departure",
       statement: "The yaml is said rather than applied.",

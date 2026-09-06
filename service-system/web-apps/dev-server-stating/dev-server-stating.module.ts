@@ -13,6 +13,14 @@ export const devServerStating = {
     },
     {
       invariantKind: "departure",
+      statement: "An app names the cluster resource that app's secret values are placed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two apps may name one resource.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A port is the app's base port plus the change number modulo a hundred.",
     },
     {

@@ -4,24 +4,26 @@ export const devServerEnvWriting = {
   id: "01a06583-0030-7006-a432-522c63fe9935",
   pageTypeSlug: "module",
   slug: "dev-server-env-writing",
-  definition: "the `.env.local` an app reads, made from the sops secrets beside the app",
+  definition: "the `.env.local` an app reads, made from the secret pages placing the app's values",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A secret is read by running sops rather than by decrypting here.",
+      statement:
+        "A value comes from the page holding that value rather than from a file beside the app.",
     },
     {
       invariantKind: "departure",
-      statement: "One key given two values across sops documents is refused.",
+      statement: "An app names one resource.",
     },
     {
       invariantKind: "departure",
-      statement: "A `data` value is base64 and a `stringData` value is not.",
+      statement: "The keys written are the keys that resource holds.",
     },
     {
       invariantKind: "departure",
-      statement: "A base64 value decoding to nothing from something is refused.",
+      statement:
+        "A resource no page places a value in is refused rather than written as an empty file.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +31,7 @@ export const devServerEnvWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "A secret the sops file already names is never overwritten by a minted one.",
+      statement: "A secret the resource already names is never overwritten by a minted value.",
     },
     {
       invariantKind: "departure",
@@ -38,6 +40,10 @@ export const devServerEnvWriting = {
     {
       invariantKind: "departure",
       statement: "The file says at its head that the file is not committed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages are read from the worktree the app runs in.",
     },
   ],
 } as const satisfies Module

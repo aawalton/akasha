@@ -3,7 +3,7 @@ import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
 import {
   readEnvLocal,
   resolveEnvLocalPath,
-  writeEnvLocalFromSops,
+  writeEnvLocalFromPages,
 } from "@akasha/service-system/dev-server-env-writing"
 import {
   type DevServerRecord,
@@ -232,7 +232,7 @@ async function bootstrapping(read: {
   if (existsSync(envPath) && !read.force) {
     return refused(`${envPath} stands already — say \`${FORCE}\` to write over it`, 1)
   }
-  const written = await writeEnvLocalFromSops({ worktreePath, appName: read.app })
+  const written = await writeEnvLocalFromPages({ worktreePath, appName: read.app })
   const report = read.json
     ? [JSON.stringify({ ok: true, path: written.path, var_count: written.varCount })]
     : [`wrote ${written.path} (${written.varCount} vars)`]
@@ -259,8 +259,8 @@ async function starting(read: {
   }
 
   const envLocalPath = await resolveEnvLocalPath(worktreePath, read.app)
-  if (!existsSync(envLocalPath) && existsSync(`${cwd}/deploy/secrets.sops.yaml`)) {
-    const written = await writeEnvLocalFromSops({ worktreePath, appName: read.app })
+  if (!existsSync(envLocalPath)) {
+    const written = await writeEnvLocalFromPages({ worktreePath, appName: read.app })
     report.push(`auto-bootstrapped ${written.path} (${written.varCount} vars)`)
   }
   const envLocalVars = existsSync(envLocalPath) ? readEnvLocal(envLocalPath) : {}

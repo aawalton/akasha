@@ -33,6 +33,7 @@ export interface DevServerApp {
   readonly basePort: number
   readonly extraDevArgs: readonly string[]
   readonly devCommand: readonly string[]
+  readonly secretResource: string
 }
 
 const APP_REGISTRY: Readonly<Record<string, DevServerApp>> = Object.freeze({
@@ -42,6 +43,7 @@ const APP_REGISTRY: Readonly<Record<string, DevServerApp>> = Object.freeze({
     basePort: 3000,
     extraDevArgs: [],
     devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
+    secretResource: "alanwalton-secrets",
   },
   audhdalan: {
     name: "audhdalan",
@@ -49,6 +51,7 @@ const APP_REGISTRY: Readonly<Record<string, DevServerApp>> = Object.freeze({
     basePort: 3100,
     extraDevArgs: [],
     devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
+    secretResource: "audhdalan-secrets",
   },
   temper: {
     name: "temper",
@@ -56,6 +59,7 @@ const APP_REGISTRY: Readonly<Record<string, DevServerApp>> = Object.freeze({
     basePort: 3300,
     extraDevArgs: [],
     devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
+    secretResource: "temper-secrets",
   },
   "archive-of-worlds": {
     name: "archive-of-worlds",
@@ -63,6 +67,7 @@ const APP_REGISTRY: Readonly<Record<string, DevServerApp>> = Object.freeze({
     basePort: 3500,
     extraDevArgs: [],
     devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
+    secretResource: "archive-of-worlds-secrets",
   },
   atlas: {
     name: "atlas",
@@ -70,6 +75,7 @@ const APP_REGISTRY: Readonly<Record<string, DevServerApp>> = Object.freeze({
     basePort: 3600,
     extraDevArgs: [],
     devCommand: ["bunx", "react-router", "dev", "--port", "<PORT>"],
+    secretResource: "alanwalton-secrets",
   },
 })
 

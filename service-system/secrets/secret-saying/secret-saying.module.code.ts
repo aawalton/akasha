@@ -75,13 +75,7 @@ export function secretYaml(
   })
 }
 
-export function sayingFor(
-  akasha: string,
-  resource: string,
-  namespace: string,
-  type: string = OPAQUE,
-  labels: Record<string, string> = {}
-): string {
+export function valuesFor(akasha: string, resource: string): Record<string, string> {
   const pages = secretPages(akasha)
   placedAt(pages)
   const held = heldBy(pages, resource)
@@ -92,7 +86,17 @@ export function sayingFor(
   }
   const values: Record<string, string> = {}
   for (const one of held) values[one.key] = valueOf(akasha, one.page)
-  return secretYaml(values, resource, namespace, type, labels)
+  return values
+}
+
+export function sayingFor(
+  akasha: string,
+  resource: string,
+  namespace: string,
+  type: string = OPAQUE,
+  labels: Record<string, string> = {}
+): string {
+  return secretYaml(valuesFor(akasha, resource), resource, namespace, type, labels)
 }
 
 export function runSaying(argv: readonly string[]): number {
