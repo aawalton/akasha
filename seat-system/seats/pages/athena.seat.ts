@@ -11,4 +11,5 @@ export const athena = {
   startMode: "interactive",
   onCall: true,
   registrationAccount: "aawalton",
+  claudeCodeSessionUuid: "37c54386-3e31-4a8a-946f-f0617036cfb6",
 } as const satisfies Seat
