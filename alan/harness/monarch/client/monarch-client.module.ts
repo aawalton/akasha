@@ -15,7 +15,7 @@ export const monarchClient = {
     {
       invariantKind: "departure",
       statement:
-        "A reply carrying a GraphQL error is refused with that error's words, however the status read.",
+        "A reply carrying a GraphQL error is refused with that error's words whatever the status read.",
     },
     {
       invariantKind: "departure",
@@ -29,13 +29,19 @@ export const monarchClient = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An update stamp is asked for on its own, so a minute where nothing moved costs one call.",
+      statement: "An update stamp is asked for on its own.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The credential is handed in rather than read here, so the credential is one module's business.",
+      statement: "A minute where nothing moved costs one call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The credential is handed in rather than read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The credential is one module's business.",
     },
     {
       invariantKind: "absence",
