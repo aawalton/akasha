@@ -1,0 +1,26 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts b/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
+index 68e88db5016d921c74a19178c9c4b7d510ef6e14..a4c61577a28d6d3f3fb2fd02665da9ab5d4f0d19 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
+@@ -1,6 +1,6 @@
+ import type { FileProperty } from "@akasha/pages/file-property"
+ 
+-export type State = "jsonl"
++export type State = "json"
+ 
+ export const state = {
+   id: "01a07235-8d04-7c15-8c68-fc8181d908e4",
+@@ -30,11 +30,11 @@ export const state = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One line holds the whole state a part of the editor draws.",
++      statement: "One JSON document holds the whole state a part of the editor draws.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A write replaces that line rather than adding a line after that line.",
++      statement: "A write replaces the whole file rather than adding to the file.",
+     },
+   ],
+ } as const satisfies FileProperty
