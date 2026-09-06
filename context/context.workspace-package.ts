@@ -11,7 +11,7 @@ export const context = {
     {
       invariantKind: "departure",
       statement:
-        "A warrant applies to the seat changing a file rather than to one reading that file.",
+        "A warrant applies to the seat changing a file rather than to a seat reading that file.",
     },
     {
       invariantKind: "departure",
