@@ -53,7 +53,8 @@ export const mobileSimOpenUrl = {
     },
     {
       invariantKind: "departure",
-      statement: "A call naming no simulator takes the session's own, else the first booted one.",
+      statement:
+        "A call naming no simulator takes the session's own simulator or the first booted simulator.",
     },
   ],
 } as const satisfies Command
