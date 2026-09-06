@@ -146,3 +146,17 @@ index 0000000000000000000000000000000000000000..568d5f62d6b38b2841d624572683e850
 +  slug: "collections-secrets-postgrest-db-url",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "POSTGREST_DB_URL" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-royalroad-password.secret.ts b/service-system/secrets/pages/collections-secrets-royalroad-password.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6b62cdae6f28b2cac9124286aef2ef0d2ef17d44
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-royalroad-password.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsRoyalroadPassword = {
++  id: "01a076b7-5b5c-72ca-ae08-6482d4978d62",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-royalroad-password",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "ROYALROAD_PASSWORD" }],
++} as const satisfies Secret
