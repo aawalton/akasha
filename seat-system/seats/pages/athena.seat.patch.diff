@@ -1,3 +1,21 @@
+diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
+index 5199324f0ab21d9fd436e314e0e32e71e304b1ba..9d1042b5054246acaecc65eedd9fd9f32b5df5a0 100644
+--- a/pages/indexes/indexing/indexing.module.code.ts
++++ b/pages/indexes/indexing/indexing.module.code.ts
+@@ -186,10 +186,11 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
+ }
+ 
+ // The sweep runs before the build, so what the build files is filed over a folder holding the index
+-// and nothing else.
++// and nothing else. A dry run reads the same paths and takes none away, because a run answering none
++// whatever is there cannot be told from one that looked and found none.
+ export function rebuiltWhole(repo: string, tree: string, put: boolean): Rebuilt {
+   const root = indexIn(repo)
+-  const swept = put ? sweptBeside(root) : []
++  const swept = sweptBeside(root, put)
+   return { ...rebuiltFrom(tree, root, repo, put), swept }
+ }
+ 
 diff --git a/pages/indexes/rebuilding/rebuilding.module.code.ts b/pages/indexes/rebuilding/rebuilding.module.code.ts
 index 9868ea47506b20d0628cdfbbc223fe8a1022e8d0..ed211b7226d113adcebab03746d31a69d1fb3342 100644
 --- a/pages/indexes/rebuilding/rebuilding.module.code.ts
