@@ -13,7 +13,7 @@ index 45cbf76e61c120dcce7d741584bafca52665bab5..04fcd42a74ecb8e6fc7d6470bb756e4c
    },
    "formatter": {
 diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts
-index cc96b28cbec1ad9a39a76a543ffcc624dd2cba9d..c61003f3a8d526089676d345b00e2cf11efc3bf4 100644
+index cc96b28cbec1ad9a39a76a543ffcc624dd2cba9d..77efeff7d81a5c31851fcbb833fcc2d57f074bd7 100644
 --- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts
 +++ b/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts
 @@ -10,6 +10,10 @@ const CONFIG = "biome.json"
@@ -62,6 +62,23 @@ index cc96b28cbec1ad9a39a76a543ffcc624dd2cba9d..c61003f3a8d526089676d345b00e2cf1
    return reads === null || reads.some((one) => path.endsWith(one))
  }
  
+@@ -40,10 +70,14 @@ const LOOKED: Selector<Body> = {
+   from: (change, shadow) => FILES.from(change, shadow),
+ }
+ 
+-export function carriedIn(change: Change, reads: readonly string[] | null): readonly string[] {
++export function carriedIn(
++  change: Change,
++  reads: readonly string[] | null,
++  skips: readonly string[] = []
++): readonly string[] {
+   const held = new Set<string>()
+   for (const one of change.changed) {
+-    if (!lookedAt(one, reads)) continue
++    if (!lookedAt(one, reads, skips)) continue
+     if (change.after(one) === null) continue
+     held.add(one)
+   }
 diff --git a/code-system/type-declarations/properties/ambient-types.file-property.ts b/code-system/type-declarations/properties/ambient-types.file-property.ts
 index d53ee5424062f6d90beb0f68c0a8a31fc137b86c..da700b7ae0235e4630cd2a1a81e7be0b18673edd 100644
 --- a/code-system/type-declarations/properties/ambient-types.file-property.ts
