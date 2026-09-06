@@ -1,0 +1,17 @@
+diff --git a/seat-system/seat-conditions/seat-conditions.page-type.ts b/seat-system/seat-conditions/seat-conditions.page-type.ts
+index f29e2090f24ba8e112dbc985a11f16ebfb804ef8..101532e2cfd7d7baf27f4dd5e37fa6ef801556d3 100644
+--- a/seat-system/seat-conditions/seat-conditions.page-type.ts
++++ b/seat-system/seat-conditions/seat-conditions.page-type.ts
+@@ -93,7 +93,11 @@ export const seatConditions = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "One page carries a seat's conditions, and there is never a second.",
++      statement: "One page carries a seat's conditions.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "There is never a second page.",
+     },
+     {
+       invariantKind: "departure",
