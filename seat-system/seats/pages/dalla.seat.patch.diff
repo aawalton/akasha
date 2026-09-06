@@ -1,3 +1,16 @@
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index eb7bcaf1b56207cb6a3243c1c532d315050aac0a..8cbc5f1e81952b08585ae7355d58f15db87219a1 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -35,6 +35,8 @@ export const change = {
+     "relation-property/guard-slugs",
+     "module/change-shadow",
+     "module/change-guarding",
++    "change/add-file",
++    "change/change-file",
+     "change/remove-file",
+     "change/remove-page",
+     "change/remove-property-value",
 diff --git a/changes/pages/add-file/add-file.change.code.ts b/changes/pages/add-file/add-file.change.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..54d9ef728fe8050b6204b4ebb067f6188518d8de
