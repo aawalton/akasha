@@ -10,5 +10,5 @@ export const temperCompanionSkillSlot = {
   definition: "a place on a companion's bar one ability sits",
   pluralSlug: "temper-companion-skill-slots",
   extendsSlug: ["page-type/temper-companion-thing"],
-  properties: [{ pagePropertySlug: "key", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
 } as const satisfies PageType

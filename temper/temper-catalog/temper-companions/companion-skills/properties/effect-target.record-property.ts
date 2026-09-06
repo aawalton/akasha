@@ -20,10 +20,10 @@ export const effectTarget = {
   propertySlug: "target",
   definition: "who an effect lands on and how far it reaches",
   properties: [
-    { pagePropertySlug: "target-kind", required: false, many: false },
-    { pagePropertySlug: "target-scope", required: false, many: false },
-    { pagePropertySlug: "target-range", required: false, many: false },
-    { pagePropertySlug: "target-radius", required: false, many: false },
-    { pagePropertySlug: "max-targets", required: false, many: false },
+    { pagePropertySlug: "text-property/target-kind", required: false, many: false },
+    { pagePropertySlug: "text-property/target-scope", required: false, many: false },
+    { pagePropertySlug: "number-property/target-range", required: false, many: false },
+    { pagePropertySlug: "number-property/target-radius", required: false, many: false },
+    { pagePropertySlug: "number-property/max-targets", required: false, many: false },
   ],
 } as const satisfies RecordProperty

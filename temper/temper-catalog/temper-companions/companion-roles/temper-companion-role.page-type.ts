@@ -10,5 +10,5 @@ export const temperCompanionRole = {
   definition: "a mix of parts one companion plays at once",
   pluralSlug: "temper-companion-roles",
   extendsSlug: ["page-type/temper-companion-thing"],
-  properties: [{ pagePropertySlug: "key", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
 } as const satisfies PageType

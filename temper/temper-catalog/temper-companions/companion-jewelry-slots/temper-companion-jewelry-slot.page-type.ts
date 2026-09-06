@@ -15,8 +15,8 @@ export const temperCompanionJewelrySlot = {
   extendsSlug: ["page-type/temper-companion-thing"],
   partSlugs: ["text-property/slot-category"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "equip-type", required: true, many: false },
-    { pagePropertySlug: "slot-category", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "number-property/equip-type", required: true, many: false },
+    { pagePropertySlug: "text-property/slot-category", required: true, many: false },
   ],
 } as const satisfies PageType

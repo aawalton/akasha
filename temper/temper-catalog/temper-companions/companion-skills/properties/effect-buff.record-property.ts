@@ -18,9 +18,9 @@ export const effectBuff = {
   propertySlug: "buff",
   definition: "the helpful effect an effect grants, and how long it holds",
   properties: [
-    { pagePropertySlug: "buff-name", required: false, many: false },
-    { pagePropertySlug: "duration", required: false, many: false },
-    { pagePropertySlug: "effect-value", required: false, many: false },
-    { pagePropertySlug: "value-type", required: false, many: false },
+    { pagePropertySlug: "text-property/buff-name", required: false, many: false },
+    { pagePropertySlug: "number-property/duration", required: false, many: false },
+    { pagePropertySlug: "number-property/effect-value", required: false, many: false },
+    { pagePropertySlug: "text-property/value-type", required: false, many: false },
   ],
 } as const satisfies RecordProperty

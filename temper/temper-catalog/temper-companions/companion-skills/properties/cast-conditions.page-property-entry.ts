@@ -9,13 +9,18 @@ export const castConditions = {
   propertySlug: "cast-conditions",
   definition: "what must hold before a companion casts a skill, one test to a line",
   properties: [
-    { pagePropertySlug: "cast-condition-type", required: true, many: false },
-    { pagePropertySlug: "health-below", required: false, many: false },
-    { pagePropertySlug: "target-type", required: false, many: false },
-    { pagePropertySlug: "min-distance", required: false, many: false },
-    { pagePropertySlug: "is-movable", required: false, many: false },
-    { pagePropertySlug: "enemy-types", required: false, many: true, max: null },
-    { pagePropertySlug: "effect-conditions", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/cast-condition-type", required: true, many: false },
+    { pagePropertySlug: "number-property/health-below", required: false, many: false },
+    { pagePropertySlug: "text-property/target-type", required: false, many: false },
+    { pagePropertySlug: "number-property/min-distance", required: false, many: false },
+    { pagePropertySlug: "boolean-property/is-movable", required: false, many: false },
+    { pagePropertySlug: "text-property/enemy-types", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "record-property/effect-conditions",
+      required: false,
+      many: true,
+      max: null,
+    },
   ],
   invariants: [
     {
