@@ -22,6 +22,37 @@ index 509fbb5ce053e2c2359fd5543add5e6032b3655f..9dbb57e0814f6fc27c9920b32c501fba
    const beside = besideIn(world, given.at)
    if ("refused" in beside) return refusing(beside.refused)
    const taken = beside.paths.map((one) => removeFile({ at: one }, world.textOf))
+diff --git a/changes/pages/remove-property-value/remove-property-value.change.code.ts b/changes/pages/remove-property-value/remove-property-value.change.code.ts
+index 26bcec94bfac9b06f319a597d72199aa32598980..bb08d17c7759aaca12a96264b9fa31a8a64f77ca 100644
+--- a/changes/pages/remove-property-value/remove-property-value.change.code.ts
++++ b/changes/pages/remove-property-value/remove-property-value.change.code.ts
+@@ -12,7 +12,7 @@ import { keyOf, literalIn } from "../restate-value/restate-value.change.code.ts"
+ 
+ const BLIND = ts.TypeFlags.Any | ts.TypeFlags.Unknown
+ 
+-export type Asked = {
++export type RemovePropertyValueAsked = {
+   readonly at: string
+   readonly key: string
+   readonly value: string
+@@ -46,7 +46,7 @@ function without(
+   return text.slice(0, from) + text.slice(one.getEnd())
+ }
+ 
+-function requiredIn(world: World, given: Asked): boolean | null {
++function requiredIn(world: World, given: RemovePropertyValueAsked): boolean | null {
+   const typing = typingOver(world.root, [given.at], readingOf(world.root, world.textOf))
+   const source = typing.sourceAt(given.at)
+   const held = source === null ? null : literalIn(source)
+@@ -57,7 +57,7 @@ function requiredIn(world: World, given: Asked): boolean | null {
+   return found === undefined ? false : (found.flags & ts.SymbolFlags.Optional) === 0
+ }
+ 
+-export function removePropertyValue(world: World, given: Asked): Answer {
++export function removePropertyValue(world: World, given: RemovePropertyValueAsked): Answer {
+   const text = world.textOf(given.at)
+   if (text === null) return refusing(`\`${given.at}\` could not be read`)
+   const source = parsedAs(given.at, text)
 diff --git a/changes/pages/rename-path/rename-path.change.code.ts b/changes/pages/rename-path/rename-path.change.code.ts
 index 86629daee04b8e941c0dfed7db8fd946c11e1721..b272b91ac038a400af51cfbcf83385f8846648e6 100644
 --- a/changes/pages/rename-path/rename-path.change.code.ts
