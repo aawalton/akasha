@@ -43,3 +43,16 @@ index a5928dac150c859268a4c0711477d56365189854..75275095dbc1819574c6bfe487b8f5fe
          })
        }
      }
+diff --git a/pages/indexes/relation/index-relation.index.code.ts b/pages/indexes/relation/index-relation.index.code.ts
+index 81e7b483c9832e3637c1ecd3de8c14b6fc56734f..266ca1db9888039c3b6906214f47ad0f4df6102c 100644
+--- a/pages/indexes/relation/index-relation.index.code.ts
++++ b/pages/indexes/relation/index-relation.index.code.ts
+@@ -31,7 +31,7 @@ export function relationIn(value: Value, path: string, known: Shaped, repo: stri
+   const refused: string[] = []
+   const already = new Set<string>()
+   for (const one of namingsIn(value, known)) {
+-    if (one.own) continue
++    if (one.identity) continue
+     const wanted = known.targetOf(one.propertySlug)
+     if (wanted === null) continue
+     for (const named of namesIn(one.held)) {
