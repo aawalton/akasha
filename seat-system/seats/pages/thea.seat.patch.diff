@@ -6273,7 +6273,7 @@ index 7731c4cdd7b5e259488604d3f8b39692307e36b2..a1ef2a1d0d1fffa9ea35ab181c050c3b
    invariants: [
      {
 diff --git a/readout-system/readouts/readout.page-type.ts b/readout-system/readouts/readout.page-type.ts
-index ca966da46a40d425682cda29da7e86a01598a446..6c70e722b7eb1c77e21e73293c237d10896033bb 100644
+index ca966da46a40d425682cda29da7e86a01598a446..46b95dca700e33b82c6a246d9021b2d2f32c0e99 100644
 --- a/readout-system/readouts/readout.page-type.ts
 +++ b/readout-system/readouts/readout.page-type.ts
 @@ -89,7 +89,12 @@ export const readout = {
@@ -6290,6 +6290,15 @@ index ca966da46a40d425682cda29da7e86a01598a446..6c70e722b7eb1c77e21e73293c237d10
      { pagePropertySlug: "text-property/none-left-words", required: false, many: false },
      { pagePropertySlug: "text-property/none-left-emoji", required: false, many: false },
      { pagePropertySlug: "text-property/wire-key", required: true, many: false },
+@@ -124,7 +129,7 @@ export const readout = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A readout names its scale rather than carrying one.",
++      statement: "A readout names its scale rather than carrying a scale.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/readout-system/values/value.page-type.ts b/readout-system/values/value.page-type.ts
 index 873cebc39bac0d6a4584755116933011a6ce3c03..0084229a077812a686b34e6a9664bfc608214ec8 100644
 --- a/readout-system/values/value.page-type.ts
