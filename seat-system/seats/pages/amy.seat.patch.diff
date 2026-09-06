@@ -117,6 +117,28 @@ index 0000000000000000000000000000000000000000..dcc84d469d47b9aff1e36ca7ec000956
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/command-system/commands/track/session-rows/session-rows.module.code.ts b/command-system/commands/track/session-rows/session-rows.module.code.ts
+index 665a359e0df2ad7964bf6f52e02aa075a023e662..a931f4b6fa3cf510b18062d59f446b65d8e7a83b 100644
+--- a/command-system/commands/track/session-rows/session-rows.module.code.ts
++++ b/command-system/commands/track/session-rows/session-rows.module.code.ts
+@@ -104,6 +104,8 @@ export type Held = {
+   readonly day: string
+   readonly path: string
+   readonly page: string
++  readonly pageAt: string
++  readonly pageSaid: string
+   readonly rows: Row[]
+ }
+ 
+@@ -317,7 +319,7 @@ export function heldFor(root: string, day: string): Held | string {
+   } catch {
+     rows = []
+   }
+-  return { day, path, page: id, rows }
++  return { day, path, page: id, pageAt: page, pageSaid, rows }
+ }
+ 
+ export function openIn(rows: readonly Row[]): Row | null {
 diff --git a/command-system/commands/track/track.command.ts b/command-system/commands/track/track.command.ts
 index f1516a703ee8b15ad96856cc02ad6cf86192e6f5..f6803c070f844842f2bc841e8a012f154f3bad32 100644
 --- a/command-system/commands/track/track.command.ts
