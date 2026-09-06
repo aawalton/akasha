@@ -1,3 +1,16 @@
+diff --git a/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.test.ts b/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.test.ts
+index d3db5ab2791e252d0c8353e9b86c863a2b3ff833..0f3a2be5fe160c2dbb8d3c1c5378ae016ba11b64 100644
+--- a/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.test.ts
++++ b/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.test.ts
+@@ -5,7 +5,7 @@ import type { WorkedClaudeAccount } from "../claude-account.page-type.worked.ts"
+ import { work } from "./effective-five-hour-usage.computed-property.code.ts"
+ import { work as sevenDay } from "./effective-seven-day-usage.computed-property.code.ts"
+ 
+-const REACH: Reach = { target: () => null }
++const REACH: Reach = { target: () => null, naming: () => [] }
+ 
+ function account(held: Record<string, unknown>): WorkedClaudeAccount {
+   return { slug: "aine", ...held } as unknown as WorkedClaudeAccount
 diff --git a/pages/computed-properties/computed-property.page-type.ts b/pages/computed-properties/computed-property.page-type.ts
 index 107c961306ba1cefe320d969ead9cc9ac713d287..76ca81a18f4783532e845715b470756ef9bed811 100644
 --- a/pages/computed-properties/computed-property.page-type.ts
