@@ -1,0 +1,696 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.d.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.d.ts
+index ef72845872ed3d09978a6562814bd8aa6ffe23bd..785ffe2933a9eb2f5000030f90b67e51cc62f242 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.d.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/pages/work-tree.code-editor-data-interface.d.ts
+@@ -1,7 +1,12 @@
+ // The work panel. A row's color is already raised from the rows beneath it, so the editor draws
+ // the color it is given rather than working one out.
++//
++// A row is an initiative or one of the intents that initiative holds. The two are told apart by
++// `kind` rather than by whether a row has children, because an initiative holding no intent and
++// leading nowhere has none either.
+ 
+ declare type WorkTreeRow = TreeRow & {
++  readonly kind: "initiative" | "intent"
+   readonly detail: string | null
+   readonly note: string | null
+   readonly children: readonly WorkTreeRow[]
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts
+index 9802db428c049ad25907bafd2a1c63d59b1a1b83..8030ed56df1c050226020297c44aaa19cc90159c 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.code.ts
+@@ -31,7 +31,11 @@ function pathAfterRepo(root: string, at: string | null): string | null {
+   return wholePath(root, mark === -1 ? at : at.slice(mark + 1))
+ }
+ 
++// WHAT A WORK ROW IS HAS TO BE CARRIED ACROSS, because the work tree holds rows of two kinds and
++// the panel counts one kind apart from the other. The builder's node is read through this shape
++// rather than imported, so a field the builder adds is dropped here unless it is named here too.
+ type WorkNode = {
++  readonly kind: WorkTreeRow["kind"]
+   readonly key: string
+   readonly label: string
+   readonly relPath: string | null
+@@ -43,6 +47,7 @@ type WorkNode = {
+ 
+ function workRow(root: string, node: WorkNode): WorkTreeRow {
+   return {
++    kind: node.kind,
+     key: node.key,
+     label: node.label,
+     at: wholePath(root, node.relPath),
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
+index 3c76a2b1827bf413bbe8524b88086eff3cc11b8b..d9b9dfe7ea4fe520934347a63de162aa9c0e84cb 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
+@@ -27,6 +27,14 @@ export const treeDrawing = {
+       invariantKind: "departure",
+       statement: "A domains row carries its champion, which the panel makes the row's description.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A work row carries what that row is, the work tree holding rows of two kinds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A field the builder adds reaches the editor only where it is named here too.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here reads a clock, watches a file or writes one.",
+diff --git a/command-system/commands/work-tree/work-tree.command.code.ts b/command-system/commands/work-tree/work-tree.command.code.ts
+index f5dc73a65a2496cf8e6f970ba857886aa56a833b..18935277fbed5200aa3ca014ac948a6b7a4fe74d 100644
+--- a/command-system/commands/work-tree/work-tree.command.code.ts
++++ b/command-system/commands/work-tree/work-tree.command.code.ts
+@@ -14,8 +14,12 @@ const FLAGS = [JSON_OUT, COUNTS, COLORS]
+ 
+ const NOTHING_DRAWN: Drawn = { byInitiative: new Map() }
+ 
++const INTENT_MARK = "#"
++
++export type NodeKind = "initiative" | "intent"
++
+ export interface Node {
+-  readonly kind: "initiative"
++  readonly kind: NodeKind
+   readonly key: string
+   readonly label: string
+   readonly relPath: string | null
+@@ -101,6 +105,30 @@ function rootNote(
+     : `drawn as a root: it names parent ${declared}, which has no document`
+ }
+ 
++// AN INTENT IS A ROW OF THE INITIATIVE HOLDING IT RATHER THAN A PAGE OF ITS OWN. It carries no
++// page, so it opens the page of the initiative above it — which is where an intent is edited — and
++// it carries no color, a color being a seat's and a seat sitting on an initiative rather than on
++// one of that initiative's intents.
++//
++// The working memory becomes the note, which is the field a tooltip already shows and a filter
++// already searches, so what an intent is being held up by is found by typing part of it.
++function intentNodes(row: InitiativeRow): readonly Node[] {
++  return row.intents.map((one, at) => ({
++    kind: "intent" as const,
++    key: `${row.slug}${INTENT_MARK}${String(at + 1)}`,
++    label: one.statement,
++    relPath: row.path,
++    detail: null,
++    note: one.workingMemory,
++    color: null,
++    children: [],
++  }))
++}
++
++// THE INTENTS COME FIRST AND KEEP THE ORDER THEIR INITIATIVE STATES. An intent list reads as a
++// sequence of what to make so, and the author put it in that sequence: sorting it the way the
++// initiatives beneath are sorted would scramble that into alphabetical order by first letter of
++// the statement. So the intents are left as stated and the initiatives are sorted among themselves.
+ function nodeOf(
+   row: InitiativeRow,
+   parents: ReadonlyMap<string, string | null>,
+@@ -116,12 +144,15 @@ function nodeOf(
+     detail: row.persona,
+     note: rootNote(row.parent, parents.get(row.slug) ?? null, rows),
+     color: drawn.byInitiative.get(row.slug) ?? null,
+-    children: sorted(
+-      (children.get(row.slug) ?? []).flatMap((slug) => {
+-        const below = rows.get(slug)
+-        return below === undefined ? [] : [nodeOf(below, parents, children, rows, drawn)]
+-      })
+-    ),
++    children: [
++      ...intentNodes(row),
++      ...sorted(
++        (children.get(row.slug) ?? []).flatMap((slug) => {
++          const below = rows.get(slug)
++          return below === undefined ? [] : [nodeOf(below, parents, children, rows, drawn)]
++        })
++      ),
++    ],
+   }
+ }
+ 
+@@ -149,6 +180,12 @@ export function walk(nodes: readonly Node[]): readonly Node[] {
+   return nodes.flatMap((one) => [one, ...walk(one.children)])
+ }
+ 
++// THE ROWS ARE COUNTED BY WHAT EACH ROW IS RATHER THAN ALL TOGETHER, so that a count of the
++// initiatives stays a count of the initiatives now that the tree holds rows that are not one.
++export function countOf(nodes: readonly Node[], kind: NodeKind): number {
++  return walk(nodes).filter((one) => one.kind === kind).length
++}
++
+ export function render(nodes: readonly Node[], depth = 0): readonly string[] {
+   return nodes.flatMap((one) => {
+     const detail = one.detail === null ? "" : `  — ${one.detail}`
+@@ -170,7 +207,14 @@ function said(root: string, shown: Shown): Answer {
+     return { report: [JSON.stringify({ repo: root, roots: tree })], refusals: [], code: 0 }
+   }
+   if (shown === "counts") {
+-    return { report: [`initiatives:  ${String(walk(tree).length)}`], refusals: [], code: 0 }
++    return {
++      report: [
++        `initiatives:  ${String(countOf(tree, "initiative"))}`,
++        `intents:      ${String(countOf(tree, "intent"))}`,
++      ],
++      refusals: [],
++      code: 0,
++    }
+   }
+   if (tree.length === 0) {
+     return { report: [], refusals: [`no initiative was read from the index at ${root}`], code: 2 }
+diff --git a/command-system/commands/work-tree/work-tree.command.test.ts b/command-system/commands/work-tree/work-tree.command.test.ts
+index 8b944b321b50548627851c7f9c3e16250ccf213b..0fa0706d280b47bcd798057d8e2a27038c778706 100644
+--- a/command-system/commands/work-tree/work-tree.command.test.ts
++++ b/command-system/commands/work-tree/work-tree.command.test.ts
+@@ -1,7 +1,15 @@
+ import { expect, test } from "bun:test"
+ import type { Given } from "@akasha/command-system/calling"
+-import type { InitiativeRow } from "@akasha/editor-extension/work-initiatives"
+-import { colorsSaid, readIn, render, treeOf, walk, workTree } from "./work-tree.command.code.ts"
++import type { InitiativeIntent, InitiativeRow } from "@akasha/editor-extension/work-initiatives"
++import {
++  colorsSaid,
++  countOf,
++  readIn,
++  render,
++  treeOf,
++  walk,
++  workTree,
++} from "./work-tree.command.code.ts"
+ 
+ const ROOT = "/nowhere"
+ 
+@@ -9,8 +17,16 @@ function givenIn(): Given {
+   return { root: ROOT, calledAs: "akasha work-tree", from: ROOT, writer: null, agentId: null }
+ }
+ 
+-function rowIn(slug: string, parent: string | null): InitiativeRow {
+-  return { slug, path: `${slug}.initiative.ts`, parent, persona: null }
++function rowIn(
++  slug: string,
++  parent: string | null,
++  intents: readonly InitiativeIntent[] = []
++): InitiativeRow {
++  return { slug, path: `${slug}.initiative.ts`, parent, persona: null, intents }
++}
++
++function intentIn(statement: string, workingMemory: string | null = null): InitiativeIntent {
++  return { statement, workingMemory }
+ }
+ 
+ test("a call naming nothing prints the tree", () => {
+@@ -101,3 +117,86 @@ test("a child is drawn one step in from the initiative above it", () => {
+ 
+   expect(render(tree)).toEqual(["over", "  under"])
+ })
++
++test("an initiative's intents are drawn beneath that initiative", () => {
++  const tree = treeOf([rowIn("one", null, [intentIn("make it so"), intentIn("and this")])])
++
++  expect(tree[0]?.children.map((one) => one.label)).toEqual(["make it so", "and this"])
++})
++
++test("an intent keeps the place its initiative states rather than being sorted", () => {
++  const tree = treeOf([rowIn("one", null, [intentIn("zebra"), intentIn("apple")])])
++
++  expect(tree[0]?.children.map((one) => one.label)).toEqual(["zebra", "apple"])
++})
++
++test("the intents come ahead of the initiatives beneath", () => {
++  const tree = treeOf([rowIn("over", null, [intentIn("an intent")]), rowIn("aaa-under", "over")])
++
++  expect(tree[0]?.children.map((one) => one.kind)).toEqual(["intent", "initiative"])
++})
++
++test("an intent is told apart from an initiative by what it is", () => {
++  const tree = treeOf([rowIn("one", null, [intentIn("make it so")])])
++
++  expect(tree[0]?.kind).toBe("initiative")
++  expect(tree[0]?.children[0]?.kind).toBe("intent")
++})
++
++test("an intent is keyed under the initiative holding it", () => {
++  const tree = treeOf([rowIn("one", null, [intentIn("first"), intentIn("second")])])
++
++  expect(tree[0]?.children.map((one) => one.key)).toEqual(["one#1", "one#2"])
++})
++
++test("an intent opens the page of the initiative holding it", () => {
++  const tree = treeOf([rowIn("one", null, [intentIn("make it so")])])
++
++  expect(tree[0]?.children[0]?.relPath).toBe("one.initiative.ts")
++})
++
++test("an intent carries its working memory as the note", () => {
++  const tree = treeOf([rowIn("one", null, [intentIn("make it so", "cut at 74bda7f0")])])
++
++  expect(tree[0]?.children[0]?.note).toBe("cut at 74bda7f0")
++})
++
++test("an intent stating no working memory carries no note", () => {
++  const tree = treeOf([rowIn("one", null, [intentIn("make it so")])])
++
++  expect(tree[0]?.children[0]?.note).toBeNull()
++})
++
++test("an intent carries no color, a color being a seat's", () => {
++  const tree = treeOf([rowIn("one", null, [intentIn("make it so")])], {
++    byInitiative: new Map([["one", "green"]]),
++  })
++
++  expect(tree[0]?.children[0]?.color).toBeNull()
++})
++
++test("an intent leads nowhere", () => {
++  const tree = treeOf([rowIn("one", null, [intentIn("make it so")])])
++
++  expect(tree[0]?.children[0]?.children).toEqual([])
++})
++
++test("an initiative holding no intent draws none", () => {
++  expect(treeOf([rowIn("one", null)])[0]?.children).toEqual([])
++})
++
++test("a count of the initiatives counts no intent", () => {
++  const tree = treeOf([
++    rowIn("over", null, [intentIn("one"), intentIn("two")]),
++    rowIn("under", "over", [intentIn("three")]),
++  ])
++
++  expect(countOf(tree, "initiative")).toBe(2)
++  expect(countOf(tree, "intent")).toBe(3)
++})
++
++test("an intent is drawn one step in from the initiative holding it", () => {
++  const tree = treeOf([rowIn("one", null, [intentIn("make it so")])])
++
++  expect(render(tree)).toEqual(["one", "  make it so"])
++})
+diff --git a/command-system/commands/work-tree/work-tree.command.ts b/command-system/commands/work-tree/work-tree.command.ts
+index 5f32472495db78f6b0274fa12a3f0687360913e3..b3d2d841909b66ae483d03323513eb487fdbce04 100644
+--- a/command-system/commands/work-tree/work-tree.command.ts
++++ b/command-system/commands/work-tree/work-tree.command.ts
+@@ -4,24 +4,29 @@ export const workTree = {
+   id: "01a06866-8b85-79cd-a698-d3fa3f18a57b",
+   pageTypeSlug: "command",
+   slug: "work-tree",
+-  definition: "the command drawing each initiative under the initiative it sits beneath",
++  definition:
++    "the command drawing each initiative under the one above it, and the intents it holds",
+   code: "ts",
+   test: "ts",
+   changeKindSlug: "change-none",
+   taking: [
+     { said: "--json", takes: "the tree as one JSON object, for a caller rather than a reader" },
+-    { said: "--counts", takes: "how many initiatives the tree holds, in place of the tree" },
++    { said: "--counts", takes: "how many initiatives and how many intents the tree holds" },
+     { said: "--colors", takes: "the color each initiative is drawn in, keyed by its slug" },
+   ],
+   helpNotes: [
+     "named nothing, it prints the tree.",
+     "each word names what to print, so one call prints one thing.",
+     "an initiative is keyed by the slug it declares rather than by the name of its file.",
++    "an intent is keyed by its initiative's slug and its place in that initiative's list.",
+     "nothing is stored: the tree is composed from the pages at the moment of asking.",
+     "an initiative whose parent names a page that is not there is drawn as a root rather than lost with its children.",
+     "an initiative whose parent chain closes into a cycle is drawn as a root in the same way.",
++    "the intents an initiative holds are drawn beneath it, ahead of the initiatives beneath it.",
++    "an intent keeps the place its initiative states, the order of an intent list being the author's.",
++    "an intent opens the page of the initiative holding it, an intent being no page of its own.",
+     "a color is the turn state of a seat sitting on that initiative, and a row several seats state takes the liveliest of them.",
+-    "an initiative no seat sits on carries no color.",
++    "an initiative no seat sits on carries no color, and an intent carries none at all.",
+     "`--colors` opens no initiative page, so a caller repainting rows pays none of the walk the whole tree costs.",
+   ],
+   invariants: [
+@@ -43,6 +48,38 @@ export const workTree = {
+       invariantKind: "departure",
+       statement: "An initiative whose parent chain closes into a cycle is drawn as a root.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The intents an initiative holds are drawn beneath that initiative.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An intent keeps the place its initiative states rather than being sorted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The intents come ahead of the initiatives beneath.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An intent is keyed by its initiative's slug and its place in that list.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An intent opens the page of the initiative holding it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An intent carries its working memory as its note.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A row says whether it is an initiative or an intent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The rows are counted by what each row is rather than all together.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Each word names the thing to print.",
+@@ -63,6 +100,14 @@ export const workTree = {
+       invariantKind: "absence",
+       statement: "Reading the colors opens no initiative page.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "An intent carries no color.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "An intent leads nowhere.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A tree holding no initiative is refused rather than printed as nothing.",
+diff --git a/editor-extension/work-initiatives/work-initiatives.module.code.ts b/editor-extension/work-initiatives/work-initiatives.module.code.ts
+index 3a98d1102f7b8404b49daa359693bf6a9915524b..836103db61691f38572243a766304479ef0ff257 100644
+--- a/editor-extension/work-initiatives/work-initiatives.module.code.ts
++++ b/editor-extension/work-initiatives/work-initiatives.module.code.ts
+@@ -12,24 +12,67 @@ const PARENT = "parent-slug"
+ 
+ const PERSONA = "personaSlug"
+ 
++const INTENTS = "intents"
++
++const STATEMENT = "statement"
++
++const WORKING_MEMORY = "workingMemory"
++
++export type InitiativeIntent = {
++  readonly statement: string
++  readonly workingMemory: string | null
++}
++
+ export type InitiativeRow = {
+   readonly slug: string
+   readonly path: string
+   readonly parent: string | null
+   readonly persona: string | null
++  readonly intents: readonly InitiativeIntent[]
++}
++
++type Held = {
++  readonly persona: string | null
++  readonly intents: readonly InitiativeIntent[]
+ }
+ 
++const NOTHING_HELD: Held = { persona: null, intents: [] }
++
+ function slugIn(path: string, typeSlug: string): string | null {
+   const said = partedIn(path)
+   if (said === null || said.sections.length > 0 || said.pageType !== typeSlug) return null
+   return said.slug
+ }
+ 
+-function personaAt(root: string, path: string): string | null {
++function textIn(held: unknown): string | null {
++  return typeof held === "string" && held !== "" ? held : null
++}
++
++// AN INTENT WITH NO STATEMENT IS NO INTENT, and is passed over rather than drawn as a row with an
++// empty label. The statement is required of an intent where the page type declares one, so a page
++// short of it is a page the write gate would have refused — this reads what is on disk, which is
++// not always what the gate last judged.
++function intentsIn(held: unknown): readonly InitiativeIntent[] {
++  if (!Array.isArray(held)) return []
++  const drawn: InitiativeIntent[] = []
++  for (const one of held) {
++    if (one === null || typeof one !== "object" || Array.isArray(one)) continue
++    const row = one as Record<string, unknown>
++    const statement = textIn(row[STATEMENT])
++    if (statement === null) continue
++    drawn.push({ statement, workingMemory: textIn(row[WORKING_MEMORY]) })
++  }
++  return drawn
++}
++
++// WHAT THE PAGE ITSELF CARRIES, TAKEN IN ONE OPENING RATHER THAN ONE FOR EACH KEY. The index files
++// identities and edges and no text, so both the persona and the intents have to come out of the
++// page body — and transpiling a body to read it is the dearest thing this module does, so it is
++// done once for each initiative however many keys are wanted off it.
++function heldAt(root: string, path: string): Held {
+   const value = valueAt(path, root)
+-  if (value === null) return null
+-  const said = value[PERSONA]
+-  return typeof said === "string" && said !== "" ? said : null
++  if (value === null) return NOTHING_HELD
++  return { persona: textIn(value[PERSONA]), intents: intentsIn(value[INTENTS]) }
+ }
+ 
+ export function initiativesDrawn(root: string): readonly InitiativeRow[] {
+@@ -54,11 +97,13 @@ export function initiativesDrawn(root: string): readonly InitiativeRow[] {
+     const slug = slugById.get(one.id)
+     if (slug === undefined) continue
+     const named = parentsOf.get(slug) ?? []
++    const held = heldAt(root, one.path)
+     drawn.push({
+       slug,
+       path: one.path,
+       parent: named.length === 1 ? (named[0]?.parent ?? null) : null,
+-      persona: personaAt(root, one.path),
++      persona: held.persona,
++      intents: held.intents,
+     })
+   }
+   return drawn
+diff --git a/editor-extension/work-initiatives/work-initiatives.module.test.ts b/editor-extension/work-initiatives/work-initiatives.module.test.ts
+index b958151a4bdb371044a12ba26d37a673cc15e216..e510a23c3fe0e634671774ad15277d52bdfdb7c5 100644
+--- a/editor-extension/work-initiatives/work-initiatives.module.test.ts
++++ b/editor-extension/work-initiatives/work-initiatives.module.test.ts
+@@ -154,3 +154,75 @@ test("a page stating no persona answers none", () => {
+   pageAt(root, "amy-one", 'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one" }\n')
+   expect(initiativesDrawn(root)[0]?.persona).toBe(null)
+ })
++
++test("the intents are read out of the page in the order that page states them", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(
++    root,
++    "amy-one",
++    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
++      '{ statement: "zebra" }, { statement: "apple" }] }\n'
++  )
++  expect(initiativesDrawn(root)[0]?.intents.map((one) => one.statement)).toEqual(["zebra", "apple"])
++})
++
++test("an intent's working memory is read where the intent states one", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(
++    root,
++    "amy-one",
++    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
++      '{ statement: "make it so", workingMemory: "cut at 74bda7f0" }] }\n'
++  )
++  expect(initiativesDrawn(root)[0]?.intents[0]?.workingMemory).toBe("cut at 74bda7f0")
++})
++
++test("an intent stating no working memory carries none", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(
++    root,
++    "amy-one",
++    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
++      '{ statement: "make it so" }] }\n'
++  )
++  expect(initiativesDrawn(root)[0]?.intents[0]?.workingMemory).toBe(null)
++})
++
++test("a page stating no intents carries none", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(root, "amy-one", 'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one" }\n')
++  expect(initiativesDrawn(root)[0]?.intents).toEqual([])
++})
++
++test("a page the index named but no file holds carries no intent", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  expect(initiativesDrawn(root)[0]?.intents).toEqual([])
++})
++
++test("an entry stating no statement is no intent and is passed over", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(
++    root,
++    "amy-one",
++    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
++      '{ workingMemory: "held" }, { statement: "make it so" }] }\n'
++  )
++  expect(initiativesDrawn(root)[0]?.intents.map((one) => one.statement)).toEqual(["make it so"])
++})
++
++test("an intents key holding what is no list carries no intent", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(
++    root,
++    "amy-one",
++    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: "make it so" }\n'
++  )
++  expect(initiativesDrawn(root)[0]?.intents).toEqual([])
++})
+diff --git a/editor-extension/work-initiatives/work-initiatives.module.ts b/editor-extension/work-initiatives/work-initiatives.module.ts
+index 2abec6f0cf558ba9580bc7543d0a1f27f03d92d6..81ff66a340c93763925dfd896ca6e6c5f157cdb8 100644
+--- a/editor-extension/work-initiatives/work-initiatives.module.ts
++++ b/editor-extension/work-initiatives/work-initiatives.module.ts
+@@ -4,7 +4,7 @@ export const workInitiatives = {
+   id: "01a04e9f-4572-7339-8438-7d5a5777f8ab",
+   pageTypeSlug: "module",
+   slug: "work-initiatives",
+-  definition: "every initiative the work panel draws, and the one each sits under",
++  definition: "every initiative the work panel draws, what each holds, and the one each sits under",
+   code: "ts",
+   test: "ts",
+   invariants: [
+@@ -45,6 +45,26 @@ export const workInitiatives = {
+       invariantKind: "departure",
+       statement: "A persona is read out of the page.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The intents an initiative holds are read out of the page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The intents are answered in the order the page states them.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An entry stating no statement is no intent and is passed over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An intent stating no working memory carries none.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page is opened once however many of its keys are read.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The index files identities and edges.",
+diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.code.ts b/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
+index bcb0d9e6ef1457d15395da34351a2b03cf62608d..1112c62f9b9c29ff03a14f8e6239fc315f252779 100644
+--- a/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
++++ b/editor-extension/work-tree-panel/work-tree-panel.module.code.ts
+@@ -7,7 +7,11 @@ import {
+ import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
+ import { recordObservation } from "../observation-store/observation-store.module.code.ts"
+ import { REFRESH_COMMAND, VIEW_ID } from "../work-tree-ids/work-tree-ids.module.code.ts"
+-import { countRows, workKeys } from "../work-tree-reading/work-tree-reading.module.code.ts"
++import {
++  countOfKind,
++  countRows,
++  workKeys,
++} from "../work-tree-reading/work-tree-reading.module.code.ts"
+ import {
+   createWorkDecorationProvider,
+   createWorkTree,
+@@ -48,16 +52,21 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
+     try {
+       tree.replace(held.roots)
+       const rows = countRows(held.roots)
++      // WHAT WAS DRAWN IS SAID BY KIND. The badge counts every row, which is what a reader of the
++      // panel sees, and the channel and the observation count the initiatives apart from the
++      // intents, so neither number is read as the other.
++      const initiatives = countOfKind(held.roots, "initiative")
++      const intents = countOfKind(held.roots, "intent")
+       total = rows
+       describe()
+       view.badge = { value: rows, tooltip: rows === 1 ? "1 row" : `${rows} rows` }
+       view.message = undefined
+       const keys = workKeys(held.roots)
+       const duplicated = keys.filter((key, at) => keys.indexOf(key) !== at)
+-      output.appendLine(`[${trigger}] ${rows} initiative(s)`)
++      output.appendLine(`[${trigger}] ${initiatives} initiative(s), ${intents} intent(s)`)
+       recordObservation(FEATURE, {
+         outcome: "ok",
+-        counts: { initiatives: rows, drawnMoreThanOnce: new Set(duplicated).size },
++        counts: { initiatives, intents, drawnMoreThanOnce: new Set(duplicated).size },
+       })
+       if (duplicated.length > 0) {
+         output.appendLine(
+diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.ts b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+index 45cf3d5e70de166d414d8bac1eb2e19d402fcba8..fb5bbd899002c0546128aea1974b4b79c3f39413 100644
+--- a/editor-extension/work-tree-panel/work-tree-panel.module.ts
++++ b/editor-extension/work-tree-panel/work-tree-panel.module.ts
+@@ -20,7 +20,6 @@ export const workTreePanel = {
+       invariantKind: "departure",
+       statement: "The panel draws again when that file is written and at no other time.",
+     },
+-
+     {
+       invariantKind: "departure",
+       statement: "The rows the file carries are drawn as they are rather than spelled again.",
+@@ -33,7 +32,14 @@ export const workTreePanel = {
+       invariantKind: "departure",
+       statement: "A row drawn more than once is said to Alan once and named on the channel.",
+     },
+-
++    {
++      invariantKind: "departure",
++      statement: "The badge counts every row the panel drew, whatever each row is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The initiatives drawn and the intents drawn are counted apart from each other.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "No watcher on a seat file or an initiative file is registered here.",
+diff --git a/editor-extension/work-tree-reading/work-tree-reading.module.code.ts b/editor-extension/work-tree-reading/work-tree-reading.module.code.ts
+index 14b38112e7b669305e934724a6c34fbd02e80b09..633349b66eaa2d117fb4f8a9f8331f89dce75a80 100644
+--- a/editor-extension/work-tree-reading/work-tree-reading.module.code.ts
++++ b/editor-extension/work-tree-reading/work-tree-reading.module.code.ts
+@@ -6,6 +6,17 @@ export function countRows(nodes: readonly WorkTreeRow[]): number {
+   return total
+ }
+ 
++// THE ROWS ARE COUNTED BY WHAT EACH ROW IS AS WELL AS ALL TOGETHER. The panel says how many
++// initiatives it drew, and the tree now holds rows that are not initiatives, so a count of every
++// row would report intents as initiatives.
++export function countOfKind(nodes: readonly WorkTreeRow[], kind: WorkTreeRow["kind"]): number {
++  let total = 0
++  for (const node of nodes) {
++    total += (node.kind === kind ? 1 : 0) + countOfKind(node.children, kind)
++  }
++  return total
++}
++
+ export function workKeys(nodes: readonly WorkTreeRow[]): readonly string[] {
+   return nodes.flatMap((node) => [node.key, ...workKeys(node.children)])
+ }
+diff --git a/editor-extension/work-tree-reading/work-tree-reading.module.ts b/editor-extension/work-tree-reading/work-tree-reading.module.ts
+index 0556c57ec444f3d3b577cf9ef6cb62d7d6d14d64..e392f2fd7009aa063e881cf1859af9b0918d7eb3 100644
+--- a/editor-extension/work-tree-reading/work-tree-reading.module.ts
++++ b/editor-extension/work-tree-reading/work-tree-reading.module.ts
+@@ -11,6 +11,10 @@ export const workTreeReading = {
+       invariantKind: "departure",
+       statement: "A count of the rows counts every row beneath a root as well as that root.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The rows are counted by what each row is as well as all together.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The keys are answered with a row before every row beneath that row.",
