@@ -1,0 +1,36 @@
+diff --git a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+index d394522069cf93b60bf4df83404b50a96978a428..ac29fe3e608b98de373bd2d9d98abfe96a699011 100644
+--- a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
++++ b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+@@ -12,18 +12,30 @@ export const aranyaClusterCleanup = {
+     "What builds Kubernetes resources is named by a page type rather than by a file name suffix.",
+     "Each manifest code file has a page of its own rather than being named by a path.",
+     "A cluster service page sits under the domain it serves, and a folder is made where none is there.",
++    "A secret value is reused from the one page holding it rather than copied into a second resource.",
++    "No secret value changes; what moves is where a value is kept rather than what the value is.",
+   ],
+   intents: [
+     {
+       statement: "All cluster-specific files are in the cluster/ folder.",
+       workingMemory:
+-        "`infrastructure/cluster/` holds `api`, `provisioning`, `k8s-types` and `k8s-synth`. Three folders are left, each blocked by a file no page claims, which a move refuses: `cluster-operations` by `nodes.json`, `cluster-manifests` by `tunnel-routes.ts` and four `cluster-secrets` sops files, and `service-system/cluster-services` by eleven more sops orphans, `registry.conf` and two grafana json files over the 15,000 byte ceiling. `checks/cluster-checks` stays. The 51 manifest pages sit under the domains they serve; Alan settles whether they move.",
++        "`infrastructure/cluster/` holds `api`, `provisioning`, `k8s-types` and `k8s-synth`. Three folders are left, each blocked by a file no page claims, which a move refuses: `cluster-operations` by `nodes.json`, `cluster-manifests` by `tunnel-routes.ts` and four sops files, and `service-system/cluster-services` by eleven more sops orphans, `registry.conf` and two grafana json files over the 15,000 byte ceiling. `checks/cluster-checks` stays. Alan settles whether the 51 manifest pages move.",
+     },
+     {
+       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
+       workingMemory:
+         "`openingWith` refuses a folder whose name equals or opens with the name of the page above it, so `cluster-api`, `cluster-manifests`, `cluster-operations`, `cluster-provisioning` and `cluster-services` lose the prefix. Folder names only; slugs and npm names are untouched. That answers 23 of the 103 refusals here; the roots also fail on `tunnel-routes.ts`, `nodes.json`, an undeclared `cluster-secrets` and two domain pages in `cluster-provisioning`. 1137 refuse repo-wide.",
+     },
++    {
++      statement: "Every value the cluster holds as a Secret comes from a secret page.",
++      workingMemory:
++        "21 `*.k8s-secret.sops.yaml` files hold 72 keys as whole Secret manifests encrypted in place, against 15 secret pages holding the rest. What applies them is CI rather than `secret-placing`: 19 workflow templates call `sopsDecrypt` at 44 sites, naming 20 of the 21 by path and piping into `kubectl apply`. `cloudflare-api-token` is in both shapes carrying one value, settled by sha256 of the two plaintexts, so its manifest is pure duplication.",
++    },
++    {
++      statement: "One secret value is one page however many resources place it.",
++      workingMemory:
++        "87 placements hold 76 distinct values, so 11 placements copy 9 values. The cloudflare token is in `cloudflare-api-token/api-token` and `pipeline-engine-secrets/CLOUDFLARE_API_TOKEN`; `collections-secrets` copies `DATABASE_URL` to `ZERO_UPSTREAM_DB` and `JWT_SECRET` to `ZERO_AUTH_SECRET`. The page type keys one page to one `resourceName` and `resourceKey`, which forces the copy. A page needs a list of placements, and `placedAt` (`secret-placing.module.code.ts:109`) must key on those.",
++    },
+     {
+       statement: "Every working subagent has a page, and every stopped one has none.",
+       workingMemory:
