@@ -1,14 +1,19 @@
-runsWarrants: false
+writerOwesReading: false
 diff --git a/changes/atomic-changes/atomic-change.page-type.ts b/changes/atomic-changes/atomic-change.page-type.ts
-index 22c32e7aca25289ed85f743ea5052fad20e44488..5741a475ce1c33dbf783913fb41612ca762c4c1b 100644
+index 22c32e7aca25289ed85f743ea5052fad20e44488..400809110fcd2e054a2b398661fb96e9f568a978 100644
 --- a/changes/atomic-changes/atomic-change.page-type.ts
 +++ b/changes/atomic-changes/atomic-change.page-type.ts
-@@ -28,7 +28,7 @@ export const atomicChange = {
+@@ -28,11 +28,11 @@ export const atomicChange = {
      },
      {
        invariantKind: "departure",
 -      statement: "An atomic change lands every file the thing reaches, or none of them.",
 +      statement: "An atomic change lands every file the thing reaches or no file at all.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The bodies are answered rather than written, so the caller lands them as one.",
++      statement: "The bodies the caller lands as a unit are answered rather than written.",
      },
      {
        invariantKind: "departure",
