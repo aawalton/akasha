@@ -92,7 +92,7 @@ index c077c84259985b9aefdf39af0955b39939b8f502..d5ec680f9222f108ff5e6e4f3f327a24
        const off = offFormat(each, format, formatting, slug)
        if (off !== null) said.push(off)
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
-index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..d3cd857164b5ac57401979515b6756847974b7c4 100644
+index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..5e9951bac4986c32cd57252b70aab54075569694 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
 @@ -34,7 +34,7 @@ const TYPES: readonly Value[] = [
@@ -200,3 +200,12 @@ index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..d3cd857164b5ac57401979515b675684
      ],
    },
    "page-type-slug": {
+@@ -247,7 +247,7 @@ const PROPERTIES: Record<string, Value> = {
+     propertySlug: "directives",
+     properties: [
+       { pagePropertySlug: "name", required: true, many: false },
+-      { pagePropertySlug: "aids", required: false, many: true, max: 3, total: 6 },
++      { pagePropertySlug: "aids", required: false, many: true, maxCount: 3, maxLength: 4 },
+       { pagePropertySlug: "text-property/tag", required: false, many: false },
+     ],
+   },
