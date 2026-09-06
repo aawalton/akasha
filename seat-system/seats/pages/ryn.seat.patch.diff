@@ -1,0 +1,17 @@
+diff --git a/temper/temper-character/character-builds/properties/build-visibility.select-property.ts b/temper/temper-character/character-builds/properties/build-visibility.select-property.ts
+index 38aaefe51ff7628d7246462cb1202a7a2c5556b2..e300c09d58c5e56b4f5c55c82ca4f7e942870a0d 100644
+--- a/temper/temper-character/character-builds/properties/build-visibility.select-property.ts
++++ b/temper/temper-character/character-builds/properties/build-visibility.select-property.ts
+@@ -18,7 +18,11 @@ export const buildVisibility = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A private build is neither, and is there only for its author.",
++      statement: "A private build is neither worn now nor worked toward.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A private build is there only for its author.",
+     },
+   ],
+ } as const satisfies SelectProperty
