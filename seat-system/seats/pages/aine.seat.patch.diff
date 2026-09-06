@@ -207,6 +207,84 @@ index bbcd21d95b46dcf8d5bc74e78632676690f73190..ebcfeb5a6a8cc60aa1e2348969afbe29
    unitSlug: "words",
    chapterText: "md",
  } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/envelope/assessment.book-section.ts b/alan/books/my-projects/sections/solar-power/envelope/assessment.book-section.ts
+index 131593960229c6b3af9225b94578d266f7cec976..bd8a75c208d5b418051c8b5bc23fcdf8fa527edf 100644
+--- a/alan/books/my-projects/sections/solar-power/envelope/assessment.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/envelope/assessment.book-section.ts
+@@ -7,7 +7,7 @@ export const assessment = {
+   title: "Envelope Assessment Options",
+   description:
+     "Assessment options for the envelope — blower door, IR thermography, Manual J, BPI / RESNET audits — with current pricing and what each one resolves.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["envelope"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/envelope/baseline.book-section.ts b/alan/books/my-projects/sections/solar-power/envelope/baseline.book-section.ts
+index 94d4d58731a3a296dc56b3ccb2af0e666540cec3..e5117a977ea8d419012065f461585f700726db62 100644
+--- a/alan/books/my-projects/sections/solar-power/envelope/baseline.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/envelope/baseline.book-section.ts
+@@ -7,7 +7,7 @@ export const baseline = {
+   title: "1970s Utah House — Envelope Baseline",
+   description:
+     "Typical envelope characteristics of a 1970s Utah house — assemblies, R-values, air leakage, ductwork — that set the starting heating load.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["envelope"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/envelope/incentives.book-section.ts b/alan/books/my-projects/sections/solar-power/envelope/incentives.book-section.ts
+index 0b82e1cf15329e564ac52c1a1262c9dfa55fc7fa..f3fe545bacb7f7a8e4cc13b941e6ecc67b9de768 100644
+--- a/alan/books/my-projects/sections/solar-power/envelope/incentives.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/envelope/incentives.book-section.ts
+@@ -7,7 +7,7 @@ export const incentives = {
+   title: "Incentives and Utah Contractors",
+   description:
+     "Current envelope-retrofit incentives in Utah (May 2026) — federal 25C dead, Utah HOMES/HEAR pending, Rocky Mountain Power Wattsmart live — plus local contractor leads.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["envelope"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/envelope/math.book-section.ts b/alan/books/my-projects/sections/solar-power/envelope/math.book-section.ts
+index f27a92415d162d0dc6ad50cff1292a9134d2d83c..5df324d9a7f9ef30aa80996a06b23cd28ab23a16 100644
+--- a/alan/books/my-projects/sections/solar-power/envelope/math.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/envelope/math.book-section.ts
+@@ -7,7 +7,7 @@ export const math = {
+   title: "Heating-Load Reduction → PV Sizing Math",
+   description:
+     "Heating-load-reduction math — retrofit % → kWh/yr saved → PV kWp removed → dollars. Compares envelope-first, solar-first, and parallel orderings.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["envelope"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/envelope/retrofits.book-section.ts b/alan/books/my-projects/sections/solar-power/envelope/retrofits.book-section.ts
+index 6c5853ba6e5e0a71965b8e32f779757def301e9c..ee27c1e64327c89f4847a3a37b3db1853acf770e 100644
+--- a/alan/books/my-projects/sections/solar-power/envelope/retrofits.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/envelope/retrofits.book-section.ts
+@@ -7,7 +7,7 @@ export const retrofits = {
+   title: "Retrofit Packages — Leverage Ranking",
+   description:
+     "Envelope retrofit packages ranked by heating-load-reduction-per-dollar — air sealing dominates, windows lose on energy alone.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["envelope"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/envelope/sequence.book-section.ts b/alan/books/my-projects/sections/solar-power/envelope/sequence.book-section.ts
+index 95d85ec61a2472e3d7c831416539ef02a69a381a..6f1e9998f00af919e8db708d5e919c44bf8b3f4f 100644
+--- a/alan/books/my-projects/sections/solar-power/envelope/sequence.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/envelope/sequence.book-section.ts
+@@ -7,7 +7,7 @@ export const sequence = {
+   title: "Recommended Sequence",
+   description:
+     "Recommended project sequence for a 1970s 6000 sq ft Provo house — audit, retrofit, post-retrofit verification, then parallel heat pump and PV.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["envelope"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
 diff --git a/alan/books/my-projects/sections/solar-power/installers.book-section.ts b/alan/books/my-projects/sections/solar-power/installers.book-section.ts
 index 8986ff1ff968c9ad3f66dd00b6e8ecf6ec20dfc8..dc0c85a93da2a40f857a630889e926040a5a5b1d 100644
 --- a/alan/books/my-projects/sections/solar-power/installers.book-section.ts
