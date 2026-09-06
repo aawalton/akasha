@@ -1,0 +1,176 @@
+diff --git a/changes/partial/pages/restate-value/restate-value.change-partial.code.ts b/changes/partial/pages/restate-value/restate-value.change-partial.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f25bd4510a31ea0ef05da172d63e82bb77eb0230
+--- /dev/null
++++ b/changes/partial/pages/restate-value/restate-value.change-partial.code.ts
+@@ -0,0 +1,53 @@
++import { literalOf, parsedAs } from "@akasha/code-system/code-source"
++import ts from "typescript"
++
++export type Restated = {
++  readonly body: string | null
++  readonly refused: string | null
++}
++
++function refusing(why: string): Restated {
++  return { body: null, refused: why }
++}
++
++function keyOf(held: ts.PropertyAssignment): string | null {
++  const name = held.name
++  return ts.isIdentifier(name) || ts.isStringLiteral(name) ? name.text : null
++}
++
++function exported(statement: ts.VariableStatement): boolean {
++  return statement.modifiers?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword) === true
++}
++
++function textsOf(held: ts.ObjectLiteralExpression): ReadonlyMap<string, ts.StringLiteral> {
++  const found = new Map<string, ts.StringLiteral>()
++  for (const one of held.properties) {
++    if (!ts.isPropertyAssignment(one)) continue
++    const key = keyOf(one)
++    if (key === null || !ts.isStringLiteral(one.initializer)) continue
++    found.set(key, one.initializer)
++  }
++  return found
++}
++
++export function statedIn(source: ts.SourceFile): ReadonlyMap<string, ts.StringLiteral> {
++  for (const statement of source.statements) {
++    if (!ts.isVariableStatement(statement) || !exported(statement)) continue
++    for (const one of statement.declarationList.declarations) {
++      if (one.initializer === undefined) continue
++      const held = literalOf(one.initializer)
++      if (held !== null) return textsOf(held)
++    }
++  }
++  return new Map()
++}
++
++export function restated(path: string, text: string, key: string, to: string): Restated {
++  const source = parsedAs(path, text)
++  const held = statedIn(source).get(key)
++  if (held === undefined) return refusing(`\`${path}\` states no text under \`${key}\``)
++  if (held.text === to) return refusing(`\`${to}\` is what \`${key}\` states already`)
++  const start = held.getStart(source)
++  const body = text.slice(0, start) + JSON.stringify(to) + text.slice(held.getEnd())
++  return { body, refused: null }
++}
+diff --git a/changes/partial/pages/restate-value/restate-value.change-partial.test.ts b/changes/partial/pages/restate-value/restate-value.change-partial.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f8ac7bcc5d50acda2f2707b9cfbda3f7f751bf8f
+--- /dev/null
++++ b/changes/partial/pages/restate-value/restate-value.change-partial.test.ts
+@@ -0,0 +1,60 @@
++import { expect, test } from "bun:test"
++import { restated } from "./restate-value.change-partial.code.ts"
++
++const AT = "changes/atomic-changes/atomic-change.page-type.ts"
++
++const BODY = `import type { PageType } from "../../pages/types/page-type.page-type.ts"
++
++export const atomicChange = {
++  id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
++  pageTypeSlug: "page-type",
++  slug: "atomic-change",
++  pluralSlug: "atomic-changes",
++  partSlugs: ["atomic-change/rename-export"],
++} as const satisfies PageType
++`
++
++test("a key's text is stated anew", () => {
++  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
++  expect(said.refused).toBe(null)
++  expect(said.body).toContain(`pluralSlug: "change-atomic",`)
++})
++
++test("one key is restated and the rest of the body is left as it is", () => {
++  const said = restated(AT, BODY, "pluralSlug", "change-atomic")
++  expect(said.body).toBe(BODY.replace(`"atomic-changes"`, `"change-atomic"`))
++})
++
++test("a key the page states no text under is refused", () => {
++  expect(restated(AT, BODY, "definition", "x").refused).toBe(
++    `\`${AT}\` states no text under \`definition\``
++  )
++})
++
++test("a key holding something other than text is refused", () => {
++  expect(restated(AT, BODY, "partSlugs", "x").refused).toBe(
++    `\`${AT}\` states no text under \`partSlugs\``
++  )
++})
++
++test("a key stating what was asked for already is refused", () => {
++  expect(restated(AT, BODY, "slug", "atomic-change").refused).toBe(
++    "`atomic-change` is what `slug` states already"
++  )
++})
++
++test("the text is written back quoted", () => {
++  const said = restated(AT, BODY, "slug", 'has "quotes"')
++  expect(said.body).toContain(`slug: "has \\"quotes\\"",`)
++})
++
++test("an object above the exported one is not read", () => {
++  const held = `const held = { slug: "wrong" }\n${BODY}`
++  const said = restated(AT, held, "slug", "change-atomic")
++  expect(said.body).toContain(`const held = { slug: "wrong" }`)
++  expect(said.body).toContain(`slug: "change-atomic",`)
++})
++
++test("nothing here judges whether that key may be restated", () => {
++  expect(restated(AT, BODY, "id", "01a00000-0000-7000-8000-000000000000").refused).toBe(null)
++})
+diff --git a/changes/partial/pages/restate-value/restate-value.change-partial.ts b/changes/partial/pages/restate-value/restate-value.change-partial.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..62084de4763f955a87389014768b8526b7d881aa
+--- /dev/null
++++ b/changes/partial/pages/restate-value/restate-value.change-partial.ts
+@@ -0,0 +1,45 @@
++import type { ChangePartial } from "../../change-partial.page-type.ts"
++
++export const restateValue = {
++  id: "01a0769d-4e44-775a-ab97-c8a7943bbefc",
++  pageTypeSlug: "change-partial",
++  slug: "restate-value",
++  definition: "one key of a page's exported object stated anew",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "The keys read are the exported object's own rather than every key the body holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The first exported object literal in the body is the page's.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A key the page states no text under is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A key stating what was asked for already is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One key is restated and the rest of the body is left as it is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The text is written back quoted rather than spliced in bare.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here judges whether that key may be restated, which is the caller's.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads the disk or an index.",
++    },
++  ],
++} as const satisfies ChangePartial
