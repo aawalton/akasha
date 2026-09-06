@@ -3357,7 +3357,7 @@ index 4e11186712c8f1844c24acef1842bfaec2f2e068..fa6a46aedf43d3fbb9890a51eeb9e337
    invariants: [
      {
 diff --git a/domains/lists/list.page-type.ts b/domains/lists/list.page-type.ts
-index aabad4f180f9a57746245ac57197a6b0593933b6..4dc78422234d491ea589e1fac3761015a6f7ee9d 100644
+index bd064687b7a39c019b6068b5ee34e7a67a700738..1f454ab5184c2201c1a1913ecec6a9c5482e02af 100644
 --- a/domains/lists/list.page-type.ts
 +++ b/domains/lists/list.page-type.ts
 @@ -15,7 +15,7 @@ export const list = {
@@ -3969,6 +3969,17 @@ index b07f8096c9d8a970a849011c6d0e550c5467f9f6..b32092deeb00b92a521e2bd79993bdde
 +  maxLength: 100,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/pages/number-properties/number-property.page-type.ts b/pages/number-properties/number-property.page-type.ts
+index af47be659cad0168f821d9442c95408cf5a3ce0b..64e997c6e00194a6006fdbb0dc2db61b270b1e99 100644
+--- a/pages/number-properties/number-property.page-type.ts
++++ b/pages/number-properties/number-property.page-type.ts
+@@ -13,5 +13,6 @@ export const numberProperty = {
+   definition: "a page property holding a number",
+   pluralSlug: "number-properties",
+   extendsSlug: ["page-type/page-property"],
++  partSlugs: ["number-property/max"],
+   properties: [{ pagePropertySlug: "number-property/max", required: true, many: false }],
+ } as const satisfies PageType
 diff --git a/pages/one-of-properties/one-of-property.page-type.ts b/pages/one-of-properties/one-of-property.page-type.ts
 index 753f7d0a175e061e4b8be19b286824c88e1a826e..8d824ad08cdf3f920e17bd4ef78c8c382178ddac 100644
 --- a/pages/one-of-properties/one-of-property.page-type.ts
