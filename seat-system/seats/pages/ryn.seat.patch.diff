@@ -1,5 +1,5 @@
 diff --git a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
-index 2bab7c74a2ce06194583442e995277bd8137f24e..b353098b6b3b289e38976893a3721b013a646deb 100644
+index 2bab7c74a2ce06194583442e995277bd8137f24e..7ceb30bf3da2de49d9145b2cdfe09e02025942ad 100644
 --- a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
 +++ b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
 @@ -17,7 +17,7 @@ export const inventorySettingsAccess = {
@@ -11,7 +11,12 @@ index 2bab7c74a2ce06194583442e995277bd8137f24e..b353098b6b3b289e38976893a3721b01
      },
      {
        invariantKind: "departure",
-@@ -29,12 +29,16 @@ export const inventorySettingsAccess = {
+@@ -25,16 +25,20 @@ export const inventorySettingsAccess = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A slice that is not there reads as the empty one rather than refusing.",
++      statement: "A slice that is not there reads as an empty slice rather than refusing.",
      },
      {
        invariantKind: "departure",
