@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/claude-usage/claude-usage.command.ts b/command-system/commands/claude-usage/claude-usage.command.ts
-index cfd6a9ae69909e768fe8ca2fd1de4e6265f88a60..4eb46a3a53c78b2228b19662498cc0bda8d90756 100644
+index cfd6a9ae69909e768fe8ca2fd1de4e6265f88a60..d4ab91a6ce241581f1a2b696bdee8f07b1e136ac 100644
 --- a/command-system/commands/claude-usage/claude-usage.command.ts
 +++ b/command-system/commands/claude-usage/claude-usage.command.ts
 @@ -33,7 +33,8 @@ export const claudeUsage = {
@@ -12,28 +12,34 @@ index cfd6a9ae69909e768fe8ca2fd1de4e6265f88a60..4eb46a3a53c78b2228b19662498cc0bd
      },
      {
        invariantKind: "departure",
-@@ -50,7 +51,11 @@ export const claudeUsage = {
+@@ -50,16 +51,27 @@ export const claudeUsage = {
      },
      {
        invariantKind: "departure",
 -      statement: "An account's page body is loaded with `Bun.Transpiler`, which only bun carries.",
 +      statement: "An account's page body is loaded with `Bun.Transpiler`.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "Only bun carries `Bun.Transpiler`.",
      },
      {
        invariantKind: "departure",
-@@ -59,7 +64,11 @@ export const claudeUsage = {
+-      statement:
+-        "The editor host is node, so that host asks this command as a child rather than reading itself.",
++      statement: "Only bun carries `Bun.Transpiler`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The editor host is node.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The editor host asks this command as a child rather than reading itself.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "This command takes no word at all.",
      },
      {
        invariantKind: "departure",
 -      statement: "This command takes no word at all, so any word said to that command is refused.",
-+      statement: "This command takes no word at all.",
-+    },
-+    {
-+      invariantKind: "departure",
 +      statement: "A word said to that command is refused.",
      },
      {
