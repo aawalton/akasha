@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
-index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..5f5bfb3db8b1dc131df08480eb897044d1b6cbe6 100644
+index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..c109d2b3acb7b36519e845fe6c4a7198c1e4ab20 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
 @@ -9,7 +9,8 @@ export const treeDrawing = {
@@ -22,7 +22,12 @@ index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..5f5bfb3db8b1dc131df08480eb897044
      },
      {
        invariantKind: "departure",
-@@ -33,11 +34,12 @@ export const treeDrawing = {
+@@ -29,15 +30,16 @@ export const treeDrawing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A work row carries what that row is, the work tree holding rows of two kinds.",
++      statement: "A work row carries the kind that row is among the work tree's two kinds.",
      },
      {
        invariantKind: "departure",
