@@ -1237,10 +1237,10 @@ index b9f68b26c71ba684c3de46930e26964999da9253..79935dc4de94d3e424d2b91feae0e44c
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts b/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts
-index c62dbc2b035eab103defb8ff1dfecaa7d9d48b89..bd9a0e44763cd6387e464d336d20cb09c1858b4b 100644
+index c62dbc2b035eab103defb8ff1dfecaa7d9d48b89..5cbd63c32fc76e5876acc59beedc297536caada1 100644
 --- a/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts
 +++ b/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts
-@@ -8,7 +8,7 @@ export const judgement = {
+@@ -8,13 +8,16 @@ export const judgement = {
    slug: "judgement",
    propertySlug: "judgement",
    definition: "what an agent catching a transaction is told to do with it",
@@ -1249,6 +1249,17 @@ index c62dbc2b035eab103defb8ff1dfecaa7d9d48b89..bd9a0e44763cd6387e464d336d20cb09
    nameFormatSlug: null,
    invariants: [
      {
+       invariantKind: "departure",
+-      statement:
+-        "A judgement opens with the act, and the rest says why that act is worth an agent.",
++      statement: "A judgement opens with the act.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A judgement then says why that act is worth an agent.",
+     },
+   ],
+ } as const satisfies TextProperty
 diff --git a/alan/harness/monarch/category-rules/category-rule.page-type.ts b/alan/harness/monarch/category-rules/category-rule.page-type.ts
 index d1f4c763a9f9eb10514b83db2c1f60d3d266a2bd..c9ae5848503f0c5d434232c35988164c917854d3 100644
 --- a/alan/harness/monarch/category-rules/category-rule.page-type.ts
