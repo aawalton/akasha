@@ -5,5 +5,5 @@ export const whetherLongServingStaffCountAsContinuity = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-long-serving-staff-count-as-continuity",
   topicSlug: "when-a-company-changes-hands",
-  ask: "Do long-serving staff count as continuity once the leaders turn over? My leaning is no.",
+  ask: "My leaning is no. Do long-serving staff count as continuity once the leaders turn over?",
 } as const satisfies AllAboutAlanQuestion

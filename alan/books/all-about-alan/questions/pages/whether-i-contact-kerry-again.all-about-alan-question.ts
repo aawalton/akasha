@@ -5,5 +5,5 @@ export const whetherIContactKerryAgain = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-i-contact-kerry-again",
   topicSlug: "reaching-out-to-kerry",
-  ask: "Will I contact Kerry again? I have thought about it more as I have felt the want for connection in my life, so the question is live rather than closed.",
+  ask: "I have thought about Kerry more as I have felt the want for connection in my life, so the question is live rather than closed. Will I contact Kerry again?",
 } as const satisfies AllAboutAlanQuestion

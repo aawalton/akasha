@@ -5,5 +5,5 @@ export const whetherMyResourceStateDecidesMyMode = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-my-resource-state-decides-my-mode",
   topicSlug: "the-modes-i-run-in",
-  ask: "Does my resource state decide which mode is even available? Low mana pushing me onto the harness and low safety degrading my physical responses are both proposed and untested.",
+  ask: "Low mana pushing me onto the harness and low safety degrading my physical responses are both proposed and untested. Does my resource state decide which mode is even available?",
 } as const satisfies AllAboutAlanQuestion

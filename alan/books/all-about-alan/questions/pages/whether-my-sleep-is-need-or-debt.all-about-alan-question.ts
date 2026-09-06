@@ -5,5 +5,5 @@ export const whetherMySleepIsNeedOrDebt = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-my-sleep-is-need-or-debt",
   topicSlug: "sleep",
-  ask: "Are my nine or ten hours what I need, or what I currently owe? A debt should come down as I recover.",
+  ask: "A debt should come down as I recover. Are my nine or ten hours what I need, or what I currently owe?",
 } as const satisfies AllAboutAlanQuestion

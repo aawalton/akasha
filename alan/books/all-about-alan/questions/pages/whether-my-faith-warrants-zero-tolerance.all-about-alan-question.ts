@@ -5,5 +5,5 @@ export const whetherMyFaithWarrantsZeroTolerance = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-my-faith-warrants-zero-tolerance",
   topicSlug: "sex",
-  ask: "Does my faith actually warrant my zero-tolerance rule? I decided on that check and never ran it, and the chastity theology under the rule is barely dug.",
+  ask: "I decided on the check and never ran it, and the chastity theology under my zero-tolerance rule is barely dug. Does my faith actually warrant that rule?",
 } as const satisfies AllAboutAlanQuestion

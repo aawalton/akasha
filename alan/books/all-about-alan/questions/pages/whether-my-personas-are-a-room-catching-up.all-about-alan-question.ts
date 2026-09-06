@@ -5,5 +5,5 @@ export const whetherMyPersonasAreARoomCatchingUp = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-my-personas-are-a-room-catching-up",
   topicSlug: "why-my-doing-lags-my-believing",
-  ask: "Are my personas the second kind, the room catching up to a map already whole? That reading is Abby's rather than mine and was never put to me plainly.",
+  ask: "The reading is Abby's rather than mine and was never put to me plainly. Are my personas the second kind, the room catching up to a map already whole?",
 } as const satisfies AllAboutAlanQuestion
