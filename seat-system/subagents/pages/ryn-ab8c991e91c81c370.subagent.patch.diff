@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
-index 6bf8f1ad39460f66306639a8dc8d11e620b34634..95b923e448d432350e443a3701311005f8282fc5 100644
+index 6bf8f1ad39460f66306639a8dc8d11e620b34634..416dbe36e84e63eac550f0e2a55b36532273544f 100644
 --- a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
 +++ b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
 @@ -14,7 +14,7 @@ export const supervisorHeartbeatBeat = {
@@ -19,6 +19,16 @@ index 6bf8f1ad39460f66306639a8dc8d11e620b34634..95b923e448d432350e443a3701311005
 -      statement: "A seat with no composed name and none in its history is not recorded at all.",
 +      statement:
 +        "A seat with no composed name and no composed name in its history is not recorded at all.",
+     },
+     {
+       invariantKind: "departure",
+@@ -56,7 +57,8 @@ export const supervisorHeartbeatBeat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The beat module is reached beside this one rather than by a path from the root.",
++      statement:
++        "The beat module is reached beside this module rather than by a path from the root.",
      },
      {
        invariantKind: "departure",
