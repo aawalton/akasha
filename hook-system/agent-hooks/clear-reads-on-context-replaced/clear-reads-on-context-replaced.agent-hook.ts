@@ -11,7 +11,7 @@ export const clearReadsOnContextReplaced = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A context replaced holds none of the pages read into that context.",
+      statement: "A context replaced holds no page read into that context.",
     },
     {
       invariantKind: "departure",
@@ -76,7 +76,7 @@ export const clearReadsOnContextReplaced = {
     {
       invariantKind: "departure",
       statement:
-        "Every source that replaces the context is written down, whether or not a record went.",
+        "Every source that replaces the context is written down whether or not a record went.",
     },
     {
       invariantKind: "departure",
@@ -96,7 +96,7 @@ export const clearReadsOnContextReplaced = {
     },
     {
       invariantKind: "departure",
-      statement: "This hook is the only one that does.",
+      statement: "This hook is the only hook that does.",
     },
     {
       invariantKind: "gap",
