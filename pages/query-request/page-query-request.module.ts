@@ -18,15 +18,19 @@ export const pageQueryRequest = {
     {
       invariantKind: "departure",
       statement:
-        "A name holding an empty, a dot, a double dot or a backslash segment reads as no name.",
+        "A name holding a segment that is empty or a dot or a double dot or a backslash reads as no name.",
     },
     {
       invariantKind: "departure",
-      statement: "A list is a value only where every one of its entries is text.",
+      statement: "A list is a value only where every entry in that list is text.",
     },
     {
       invariantKind: "departure",
-      statement: "A list is no record, so a body that is a list reads as no record.",
+      statement: "A list is no record.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body that is a list reads as no record.",
     },
     {
       invariantKind: "absence",
