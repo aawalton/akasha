@@ -1,5 +1,5 @@
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.ts
-index 1b6ca926fbeeb4298ef93fef35a604ba18f905e4..a7256e74d2eb83ec350c14656fb6799b6ad66b22 100644
+index 1b6ca926fbeeb4298ef93fef35a604ba18f905e4..602146fc6ecf73b2d6d3a7ef27ba5d826ea0f676 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.ts
 @@ -13,7 +13,11 @@ export const treeRow = {
@@ -15,15 +15,24 @@ index 1b6ca926fbeeb4298ef93fef35a604ba18f905e4..a7256e74d2eb83ec350c14656fb6799b
      },
      {
        invariantKind: "departure",
-@@ -29,7 +33,11 @@ export const treeRow = {
+@@ -25,11 +29,19 @@ export const treeRow = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A path is whole, the service knowing the checkout the editor does not join.",
++      statement: "A path is whole.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The service knows the checkout the editor does not join.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A color is a name rather than a value.",
      },
      {
        invariantKind: "departure",
 -      statement: "A color is the name of one, the editor holding the color each name is drawn as.",
-+      statement: "A color is a name rather than a value.",
-+    },
-+    {
-+      invariantKind: "departure",
 +      statement: "The editor holds the color each name is drawn as.",
      },
    ],
