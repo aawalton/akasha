@@ -60,7 +60,7 @@ index e6b8b6999a4c0568aa8bbb181c196383890f953a..ff853c7c36567efef74ec3a3ba340510
        const off = offFormat(each, format, formatting, `${slug} ${field}`)
        if (off !== null) said.push(off)
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
-index c077c84259985b9aefdf39af0955b39939b8f502..7a551d601e32568f1a3b2dcd79ed3f241588380c 100644
+index c077c84259985b9aefdf39af0955b39939b8f502..fefb831144f5f7738333a24b5fdd1b865531d8f0 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
 @@ -20,8 +20,7 @@ import {
@@ -73,3 +73,12 @@ index c077c84259985b9aefdf39af0955b39939b8f502..7a551d601e32568f1a3b2dcd79ed3f24
    type Shaping,
    twiceIn,
  } from "./modules/entry-reasons/entry-reasons.module.code.ts"
+@@ -103,8 +102,6 @@ export function reasonsIn(
+       said.push(`holds ${held.length} of \`${slug}\`, over the count of ${one.maxCount}`)
+     }
+     if (one.many && listed) {
+-      const why = overTotal(held, null, slug)
+-      if (why !== null) said.push(why)
+       const twice = twiceIn(held, slug)
+       if (twice !== null) said.push(twice)
+     }
