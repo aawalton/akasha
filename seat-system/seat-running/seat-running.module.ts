@@ -9,8 +9,11 @@ export const seatRunning = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The command reads the arguments and writes the answer, and the function it calls does neither.",
+      statement: "The command reads the arguments and writes the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A function the command calls reads no argument and writes no answer.",
     },
     {
       invariantKind: "departure",
@@ -19,7 +22,7 @@ export const seatRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer carries the bytes the command writes, so the shell composes nothing.",
+      statement: "An answer carries the bytes the command writes.",
     },
     {
       invariantKind: "departure",
