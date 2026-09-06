@@ -3304,7 +3304,7 @@ index 9c257c8af2416d9de34dee68fb4061e0f24fbe06..940257ef6b1fdf61ee8c14517a9b5e0a
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/domains/initiatives/initiative.page-type.ts b/domains/initiatives/initiative.page-type.ts
-index 6287829db694d25c937894d28b42ffb38eb21dc9..c5502bb845fcb0217964525d129f3e33107da510 100644
+index e114c295651d89b32078dfe1a53e6d4c0730151c..70e9e85aa956d369f41020ad9854a05fc010ae0a 100644
 --- a/domains/initiatives/initiative.page-type.ts
 +++ b/domains/initiatives/initiative.page-type.ts
 @@ -34,8 +34,8 @@ export const initiative = {
@@ -4494,6 +4494,75 @@ index 85dd17422c41a828ab88fd81d535758a87711bb0..040dcee1a7215e94d77f768e96d15792
    nameFormatSlug: "name-format/lower-camel-case",
    invariants: [
      {
+diff --git a/pages/types/properties/properties.record-property.ts b/pages/types/properties/properties.record-property.ts
+index e54082c42e9560cf4516ccd546b9fb6b7db0fc32..65da519d4bf1fa87c440789a24006da43e51649e 100644
+--- a/pages/types/properties/properties.record-property.ts
++++ b/pages/types/properties/properties.record-property.ts
+@@ -1,7 +1,7 @@
+ import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
+ import type { List } from "../page-properties/page-property.page-type.ts"
+-import type { Max } from "../page-properties/properties/max.number-property.ts"
+-import type { Total } from "../page-properties/properties/total.number-property.ts"
++import type { MaxCount } from "../page-properties/properties/max-count.number-property.ts"
++import type { MaxLength } from "../page-properties/properties/max-length.number-property.ts"
+ import type { Unique } from "../page-properties/properties/unique.relation-property.ts"
+ import type { DefaultValue } from "./default-value.text-property.ts"
+ import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"
+@@ -15,6 +15,7 @@ export type Declaration =
+       required: Required
+       many: false
+       default?: DefaultValue
++      maxLength?: MaxLength
+       uncommitted?: Uncommitted
+       secret?: Secret
+       unique?: Unique
+@@ -23,8 +24,8 @@ export type Declaration =
+       pagePropertySlug: PagePropertySlug
+       required: Required
+       many: true
+-      max: Max | null
+-      total?: Total | null
++      maxCount: MaxCount | null
++      maxLength?: MaxLength
+       uncommitted?: Uncommitted
+       secret?: Secret
+       unique?: Unique
+@@ -37,14 +38,14 @@ export const properties = {
+   pageTypeSlug: "record-property",
+   slug: "properties",
+   propertySlug: "properties",
+-  definition: "the properties a page type adds, and the inherited ones it narrows",
++  definition: "the properties a page type adds, and the inherited properties it narrows",
+   properties: [
+     { pagePropertySlug: "relation-property/page-property-slug", required: true, many: false },
+     { pagePropertySlug: "boolean-property/required", required: true, many: false },
+     { pagePropertySlug: "boolean-property/many", required: true, many: false },
+     { pagePropertySlug: "text-property/default-value", required: false, many: false },
+-    { pagePropertySlug: "number-property/max", required: false, many: false },
+-    { pagePropertySlug: "number-property/total", required: false, many: false },
++    { pagePropertySlug: "number-property/max-count", required: false, many: false },
++    { pagePropertySlug: "number-property/max-length", required: false, many: false },
+     { pagePropertySlug: "boolean-property/uncommitted", required: false, many: false },
+     { pagePropertySlug: "boolean-property/secret", required: false, many: false },
+     { pagePropertySlug: "relation-property/unique", required: false, many: false },
+@@ -64,7 +65,7 @@ export const properties = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A max only falls.",
++      statement: "A length only falls.",
+     },
+     {
+       invariantKind: "departure",
+@@ -88,7 +89,7 @@ export const properties = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Only a declaration carrying many values states a max or a total.",
++      statement: "Only a declaration carrying many values states a count.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/types/properties/sequence-direction.text-property.ts b/pages/types/properties/sequence-direction.text-property.ts
 index 533e864cba0bacfec0bfffa941e64e95617c0786..76edc887a5ef2a09b673a9b1d974d5710e31bd9a 100644
 --- a/pages/types/properties/sequence-direction.text-property.ts
