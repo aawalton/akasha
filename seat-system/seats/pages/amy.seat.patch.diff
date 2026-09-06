@@ -312,3 +312,22 @@ index e9632f0fd1ccc025bbf9c8cb76fbcc8c366da33b..c50a04f41ea8b79df2e04a40940b47f1
 -  return writeDailyReading(dayStr, "intelligenceWords", intelligenceWords)
 +  return writeDailyReading(dayStr, "intelligenceTopics", intelligenceTopics)
  }
+diff --git a/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.code.ts b/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.code.ts
+index 19b936eda65f168178f1a71866e47831687f3844..cdd33bd6f3441188f50c84e49b2c215274fc7e50 100644
+--- a/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.code.ts
++++ b/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.code.ts
+@@ -1,10 +1,10 @@
+ import { statedAt } from "../../../readout-tier/readout-tier.module.code.ts"
+ 
+-const INTELLIGENCE_WORDS = "intelligence-words"
++const INTELLIGENCE_TOPICS = "intelligence-topics"
+ 
+-export const WORDS_TO_THE_POINT = 10000
++export const TOPICS_TO_THE_POINT = 4
+ 
+ export function intelligenceIn(values: Readonly<Record<string, unknown>>): number | null {
+-  const written = statedAt(values[INTELLIGENCE_WORDS])
+-  return written === null ? null : written / WORDS_TO_THE_POINT
++  const updated = statedAt(values[INTELLIGENCE_TOPICS])
++  return updated === null ? null : updated / TOPICS_TO_THE_POINT
+ }
