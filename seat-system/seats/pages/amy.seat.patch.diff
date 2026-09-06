@@ -72,3 +72,30 @@ index 4af6bc9223d13f5092874b0ada8a19fe8f90ccc6..332ba9c48ee4ec545a0ab0c2f546b697
  export async function writingFor(
    asked: Writing,
    fetcher: Fetcher = fetchThrough,
+diff --git a/pages/service/page-calling/page-calling.module.ts b/pages/service/page-calling/page-calling.module.ts
+index b576f07839239d84642a9e73d78685ba27e8109a..c57a248dd16d70cbcf6f8f47db4802a0a84cc731 100644
+--- a/pages/service/page-calling/page-calling.module.ts
++++ b/pages/service/page-calling/page-calling.module.ts
+@@ -77,6 +77,22 @@ export const pageCalling = {
+       invariantKind: "departure",
+       statement: "A page type's shape is asked for through this module.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A page's file is asked for through this module as a question is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file answered well is taken as bytes rather than read as JSON.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file answered badly is read as JSON to find the reason.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file the service refuses for its own reasons is not asked for again.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A shape answered as no page type is refused rather than read on.",
