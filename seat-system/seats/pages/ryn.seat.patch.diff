@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/temper/temper-player-completion-state/temper-player-completion-state.workspace-package.ts b/temper/temper-player-completion-state/temper-player-completion-state.workspace-package.ts
+index 99f20abc19d91c77b52400ef9aa720640e8ed3f0..838686df6e79728aa7f924c7f11eccf0ba013298 100644
+--- a/temper/temper-player-completion-state/temper-player-completion-state.workspace-package.ts
++++ b/temper/temper-player-completion-state/temper-player-completion-state.workspace-package.ts
+@@ -25,8 +25,7 @@ export const temperPlayerCompletionState = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A shape two addons both name is declared here rather than in either of those addons.",
++      statement: "A shape two addons both name is declared here rather than in those addons.",
+     },
+     {
+       invariantKind: "absence",
