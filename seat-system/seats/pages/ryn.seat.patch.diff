@@ -1,5 +1,5 @@
 diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.ts b/editor-extension/node-cleanliness/node-cleanliness.module.ts
-index 26ab398b56ae8d45f4dbb302d6a1c47c0fc2b083..15e6f5662f0bfffd405b791fc248697c284c020a 100644
+index 26ab398b56ae8d45f4dbb302d6a1c47c0fc2b083..e8f251290987ee75fc6d541b368079bf350cf389 100644
 --- a/editor-extension/node-cleanliness/node-cleanliness.module.ts
 +++ b/editor-extension/node-cleanliness/node-cleanliness.module.ts
 @@ -22,7 +22,7 @@ export const nodeCleanliness = {
@@ -26,6 +26,20 @@ index 26ab398b56ae8d45f4dbb302d6a1c47c0fc2b083..15e6f5662f0bfffd405b791fc248697c
 +    {
 +      invariantKind: "departure",
 +      statement: "Node holds `import.meta.main`.",
+     },
+     {
+       invariantKind: "departure",
+@@ -91,8 +95,11 @@ export const nodeCleanliness = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "That second stage sees only the code that runs at import, which is where activation dies.",
++      statement: "That second stage sees only the code that runs at import.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Activation dies in the code that runs at import.",
      },
      {
        invariantKind: "departure",
