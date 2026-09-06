@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.ts
+index 66e6e33869324f0136f514bd9f8ec80212cb066f..d4e6d85b8ee8281ca2d11bd764e8a0a0965b0b09 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-sops-on-dev-stdin/no-sops-on-dev-stdin.syntax-rule.ts
+@@ -23,7 +23,7 @@ export const noSopsOnDevStdin = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A string reached through an array literal counts as one written straight into the call.",
++        "A string reached through an array literal counts as a string written straight into the call.",
+     },
+     {
+       invariantKind: "departure",
