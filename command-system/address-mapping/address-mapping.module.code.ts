@@ -10,7 +10,14 @@ import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 
 const RUNNER = "change-runner"
 
-const REACHED = ["change", "change-partial", "change-command"]
+const REACHED = [
+  "change",
+  "change-partial",
+  "change-command",
+  "change-mechanical",
+  "change-checked",
+  "change-authored",
+]
 
 const ADDRESSED = "addressed"
 

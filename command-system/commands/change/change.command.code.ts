@@ -46,6 +46,11 @@ const RUNS_CHECKS = "runsChecks"
 
 const CHANGE_COMMAND = "change-command"
 
+// A change reached from the command line is typed for the kind that change is, and the old
+// `change-command` is the type those kinds replace, so a slug is looked for under each of them
+// until no page is left carrying the old type.
+const COMMAND_TYPES: readonly string[] = [CHANGE_COMMAND, "change-checked", "change-authored"]
+
 const STILL_KEPT =
   "the edits are kept — mend what refused with more changes before `akasha apply` lands them"
 
@@ -78,10 +83,11 @@ function worldFor(root: string, had: readonly Edit[], before: Said): World {
 }
 
 export function runsSaid(world: World): string {
-  const held = world.index
-    .everyOfType(CHANGE_COMMAND)
-    .map((one) => partedIn(one.path)?.slug ?? null)
-    .filter((one): one is string => one !== null)
+  const held = COMMAND_TYPES.flatMap((type) =>
+    [...world.index.everyOfType(type)]
+      .map((one) => partedIn(one.path)?.slug ?? null)
+      .filter((one): one is string => one !== null)
+  )
   return [...held]
     .sort()
     .map((one) => `\`${one}\``)
@@ -128,8 +134,15 @@ async function judgedSaid(root: string, rows: readonly Edit[]): Promise<readonly
   return [...said.map((one) => `${one.path} — ${one.reason}`), STILL_KEPT]
 }
 
+// A slug names one page under one of the types a command change carries, and a slug naming none
+// reads as the old type, so the refusal a caller sees for a name that is nowhere stays what it was.
+function typeOf(world: World, slug: string): string {
+  for (const one of COMMAND_TYPES) if (world.index.pageAt(one, slug) !== null) return one
+  return CHANGE_COMMAND
+}
+
 function checkedIn(world: World, slug: string): boolean {
-  const value = world.index.pageAt(CHANGE_COMMAND, slug)
+  const value = world.index.pageAt(typeOf(world, slug), slug)
   return value !== null && value[RUNS_CHECKS] === true
 }
 
@@ -215,7 +228,7 @@ export async function changing(
   if (typeof said === "string") return mistaking([said])
   const given = rootedIn(root, said)
   if (typeof given === "string") return mistaking([given])
-  const loaded = await loading(world, `${CHANGE_COMMAND}/${slug}`)
+  const loaded = await loading(world, `${typeOf(world, slug)}/${slug}`)
   if (typeof loaded === "string") return mistaking([loaded, DROP_SAID])
   const held: Loaded = loaded
   return await appending(root, page, (one) => ranBy(one, held, given), checkedIn(world, slug))
