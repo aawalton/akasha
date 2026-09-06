@@ -14,11 +14,12 @@ export const setTarget = {
     },
     {
       invariantKind: "departure",
-      statement: "A best set carrying no load names no target rather than naming an unloaded one.",
+      statement:
+        "A best set carrying no load names no target rather than naming an unloaded target.",
     },
     {
       invariantKind: "departure",
-      statement: "A best set counted at no repetitions is beaten at one.",
+      statement: "A best set counted at no repetitions is beaten at a single repetition.",
     },
     {
       invariantKind: "departure",
