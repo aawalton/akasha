@@ -41,7 +41,7 @@ export const initiative = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An initiative sits under another initiative or under none.",
+      statement: "An initiative sits under another initiative or under no initiative.",
     },
     {
       invariantKind: "departure",
