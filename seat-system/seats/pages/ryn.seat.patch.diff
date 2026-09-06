@@ -1,26 +1,27 @@
 diff --git a/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts b/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
-index 6343d236d5236913518e13e531427e3921f693d8..d7cb69d8875b17df0894cf292d228c5a0e31175c 100644
+index 6343d236d5236913518e13e531427e3921f693d8..e5e81fa96d3e2289212fc39c2eb38f86c6bab5f3 100644
 --- a/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
 +++ b/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
-@@ -9,7 +9,8 @@ export const monarchEvalAgent = {
+@@ -9,15 +9,20 @@ export const monarchEvalAgent = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "The agent is offered the household's own categories and may name no other.",
 +      statement:
 +        "The agent is offered the household's own categories and may name no further category.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Uncategorized is not offered.",
      },
      {
        invariantKind: "departure",
-@@ -17,7 +18,11 @@ export const monarchEvalAgent = {
+-      statement: "Uncategorized is not offered, because Uncategorized is no answer.",
++      statement: "Every transaction gets a category.",
      },
      {
        invariantKind: "departure",
 -      statement: "Every transaction gets a category, and low confidence is how one is declined.",
-+      statement: "Every transaction gets a category.",
-+    },
-+    {
-+      invariantKind: "departure",
 +      statement: "A category is declined by low confidence.",
      },
      {
