@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-companion-codec/temper-companion-codec.workspace-package.ts b/temper/temper-companion-codec/temper-companion-codec.workspace-package.ts
+index 7098217b761a4a0ab2b16f5c2c1a57389bbcd01b..02eeb0835b0fb4b7ecf9ca073ad6a8fec0f174d6 100644
+--- a/temper/temper-companion-codec/temper-companion-codec.workspace-package.ts
++++ b/temper/temper-companion-codec/temper-companion-codec.workspace-package.ts
+@@ -20,7 +20,7 @@ export const temperCompanionCodec = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every past update stays readable and only the newest one is written.",
++      statement: "Every past update stays readable and only the newest update is written.",
+     },
+     {
+       invariantKind: "departure",
