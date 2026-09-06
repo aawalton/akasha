@@ -23,7 +23,7 @@ const TYPES: readonly Valued[] = [
       extendsSlug: ["page-type/page"],
       properties: [
         { pagePropertySlug: "title", required: true, many: false },
-        { pagePropertySlug: "note", required: false, many: true, max: 3 },
+        { pagePropertySlug: "note", required: false, many: true, maxCount: 3 },
       ],
     },
   },
