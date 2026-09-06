@@ -711,3 +711,26 @@ index 3d91c070d2a725cd4e1dd83e1e4a0bd8f57a91ec..515f568e794bd2097a071d0a19310548
  export function stilled(row: Values): boolean {
    return row.enabled === false
  }
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.ts b/readout-system/readout-group-serving/readout-group-serving.module.ts
+index 75f7929a2a3c884d2b9ae37b2412ee045a881c7b..7c9522db1468c5efeace4197190ab7e80e77b8cf 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.ts
+@@ -64,6 +64,18 @@ export const readoutGroupServing = {
+       invariantKind: "departure",
+       statement: "Where each reading is read from is handed in rather than settled here.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The stoplight a row makes is worked out from rungs handed in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A caller holding the rungs already works a stoplight out without awaiting.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The scale is asked for only where a fresh reading is read against that scale.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
