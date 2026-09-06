@@ -1,0 +1,86 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-a-candidate-replacement-belief-is-generated.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-a-candidate-replacement-belief-is-generated.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e5626b21a47cbf3f4554ef7f84b7780a7b5ead20
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-a-candidate-replacement-belief-is-generated.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howACandidateReplacementBeliefIsGenerated = {
++  id: "01a077eb-ffdc-7383-9e3d-23604620d11b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-a-candidate-replacement-belief-is-generated",
++  topicSlug: "digging-up-an-old-belief",
++  ask: "How does a candidate replacement belief get generated, as against how one gets chosen?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-changed-after-my-last-belief-replacement.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-changed-after-my-last-belief-replacement.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..daa1cb6154d20e9a5383cb11b80f93f869179a4e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-changed-after-my-last-belief-replacement.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatChangedAfterMyLastBeliefReplacement = {
++  id: "01a077eb-ffdb-725a-8832-9cc9a546e112",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-changed-after-my-last-belief-replacement",
++  topicSlug: "digging-up-an-old-belief",
++  ask: "What actually changed after my last belief replacement, and over what span?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-protective-belief-needs-a-replacement-first.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-protective-belief-needs-a-replacement-first.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7ba8c4f2445fcf395f30bd956370fd5f993005ad
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-protective-belief-needs-a-replacement-first.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAProtectiveBeliefNeedsAReplacementFirst = {
++  id: "01a077eb-ffdd-7313-9f2e-f5dbd6ee1aee",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-protective-belief-needs-a-replacement-first",
++  topicSlug: "digging-up-an-old-belief",
++  ask: "Does a protective belief need its replacement installed first, and how do I tell that a belief is load-bearing?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-belief-method-reaches-a-conditioned-response.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-belief-method-reaches-a-conditioned-response.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9a8ee62455737a7d168da17db3b02c4a442a5e3c
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-belief-method-reaches-a-conditioned-response.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheBeliefMethodReachesAConditionedResponse = {
++  id: "01a077eb-ffdd-7fef-847f-4a4654ae9935",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-belief-method-reaches-a-conditioned-response",
++  topicSlug: "digging-up-an-old-belief",
++  ask: "Does a method that works on beliefs reach a purely physical conditioned response?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-quiet-build-is-always-there.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-quiet-build-is-always-there.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d2232bab3e5fb4a6aa7319bb5a72ce12fc514637
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-quiet-build-is-always-there.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheQuietBuildIsAlwaysThere = {
++  id: "01a077eb-ffdd-77e6-ab58-fb8ee768bb70",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-quiet-build-is-always-there",
++  topicSlug: "digging-up-an-old-belief",
++  ask: "My last run took a day after months of quiet build. Is that quiet build always there?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/digging-up-an-old-belief.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/digging-up-an-old-belief.all-about-alan-topic.ts
+index 18495de09e2365c488c487e1a49649e3110dd540..780caa6cbb612616b4b545b1e50104f98d9cec97 100644
+--- a/alan/books/all-about-alan/topics/pages/digging-up-an-old-belief.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/digging-up-an-old-belief.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const diggingUpAnOldBelief = {
+   parentSlugs: ["how-i-know-things"],
+   settled:
+     "I never force the action against the want. I change the want, and the doing follows.\n\nA want has two causes, a belief and my surroundings. This is the method for the belief.\n\nThe chain has to be clear end to end before a change can take hold. The understanding is the change rather than the permission for it.\n\nAsk what the belief protects before replacing it. Taking out one that was holding weight left me unprotected until the replacement caught.",
+-  unsettled:
+-    "What actually changed after the last replacement, and over what span, is uncaptured.\n\nHow a candidate replacement gets generated, as against how one gets chosen, is unprobed.\n\nThe last run took a day after months of quiet build. Whether that build is always there is open.\n\nWhether a protective belief needs its replacement installed first, and how to tell one is load-bearing, is open.\n\nWhether a method that works on beliefs reaches a purely physical conditioned response is unresolved.",
+ } as const satisfies AllAboutAlanTopic
