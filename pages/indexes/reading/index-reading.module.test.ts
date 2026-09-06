@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { indexAt, indexIn } from "../surface/index-surface.module.code.ts"
 import {
+  everyOfType,
   everyPath,
   importersOf,
   listedById,
@@ -18,6 +19,7 @@ import {
   nothingFiled,
   pathFiled,
   schemaFiled,
+  valueAlsoFiled,
 } from "./index-reading.module.test-fixtures.ts"
 
 const A = "01a04bdd-0000-7000-8000-00000000000a"
@@ -313,4 +315,33 @@ test("a reader answers alike whether it is given the root or a reading of the in
   expect(listedByPath(readingIn(root), "akasha/a.module.ts")).toEqual(
     listedByPath(root, "akasha/a.module.ts")
   )
+})
+
+test("every page of one page type is answered from the values filed under that page type", () => {
+  const root = rootAt()
+  const one = { path: "akasha/one/one.module.ts", id: A }
+  const two = { path: "akasha/held/two.module.ts", id: B }
+  valueAlsoFiled(root, "module", [
+    { path: one.path, value: { id: A, pageTypeSlug: "module", slug: "one" } },
+    { path: two.path, value: { id: B, pageTypeSlug: "module", slug: "two" } },
+  ])
+
+  expect(everyOfType(root, "module")).toEqual([two, one])
+})
+
+test("a page filed under its slug alone is answered by nothing, the values being read instead", () => {
+  const root = rootAt()
+  listedFiled(root, "module", "one", [{ path: "akasha/one/one.module.ts", id: A }])
+
+  expect(everyOfType(root, "module")).toEqual([])
+})
+
+test("a value carrying no id is left out rather than answered under an id it does not carry", () => {
+  const root = rootAt()
+  valueAlsoFiled(root, "module", [
+    { path: "akasha/one/one.module.ts", value: { pageTypeSlug: "module", slug: "one" } },
+    { path: "akasha/two/two.module.ts", value: { id: B, pageTypeSlug: "module", slug: "two" } },
+  ])
+
+  expect(everyOfType(root, "module")).toEqual([{ path: "akasha/two/two.module.ts", id: B }])
 })
