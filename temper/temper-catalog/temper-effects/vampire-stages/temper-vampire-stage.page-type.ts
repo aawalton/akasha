@@ -15,9 +15,9 @@ export const temperVampireStage = {
   extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/eso-vampire-stage-id"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "description", required: true, many: false },
-    { pagePropertySlug: "display-order", required: true, many: false },
-    { pagePropertySlug: "eso-vampire-stage-id", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "text-property/description", required: true, many: false },
+    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pagePropertySlug: "number-property/eso-vampire-stage-id", required: true, many: false },
   ],
 } as const satisfies PageType

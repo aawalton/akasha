@@ -14,7 +14,7 @@ export const temperCompanionThing = {
   pluralSlug: "temper-companion-things",
   extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/equip-type"],
-  properties: [{ pagePropertySlug: "equip-type", required: false, many: false }],
+  properties: [{ pagePropertySlug: "number-property/equip-type", required: false, many: false }],
   invariants: [
     {
       invariantKind: "departure",

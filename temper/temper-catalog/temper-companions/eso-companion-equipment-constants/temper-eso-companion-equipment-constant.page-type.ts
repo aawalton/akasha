@@ -26,11 +26,11 @@ export const temperEsoCompanionEquipmentConstant = {
     "text-property/value-text",
   ],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "constant-kind", required: true, many: false },
-    { pagePropertySlug: "key-text", required: true, many: false },
-    { pagePropertySlug: "value-num", required: false, many: false },
-    { pagePropertySlug: "value-text", required: false, many: false },
-    { pagePropertySlug: "display-order", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "text-property/constant-kind", required: true, many: false },
+    { pagePropertySlug: "text-property/key-text", required: true, many: false },
+    { pagePropertySlug: "number-property/value-num", required: false, many: false },
+    { pagePropertySlug: "text-property/value-text", required: false, many: false },
+    { pagePropertySlug: "number-property/display-order", required: true, many: false },
   ],
 } as const satisfies PageType

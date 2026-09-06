@@ -15,7 +15,7 @@ export const temperTargetArmor = {
   extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/armor"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "armor", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "number-property/armor", required: true, many: false },
   ],
 } as const satisfies PageType

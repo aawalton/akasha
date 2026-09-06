@@ -23,9 +23,19 @@ export const temperCompanionWeaponRole = {
     "text-property/weapon-skill-line-id",
   ],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "weapon-skill-line-id", required: true, many: false },
-    { pagePropertySlug: "valid-main-hand-weapon-types", required: false, many: true, max: null },
-    { pagePropertySlug: "valid-off-hand-weapon-types", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "text-property/weapon-skill-line-id", required: true, many: false },
+    {
+      pagePropertySlug: "text-property/valid-main-hand-weapon-types",
+      required: false,
+      many: true,
+      max: null,
+    },
+    {
+      pagePropertySlug: "text-property/valid-off-hand-weapon-types",
+      required: false,
+      many: true,
+      max: null,
+    },
   ],
 } as const satisfies PageType

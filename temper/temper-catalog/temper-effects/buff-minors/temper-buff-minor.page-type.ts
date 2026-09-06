@@ -11,8 +11,8 @@ export const temperBuffMinor = {
   pluralSlug: "temper-buff-minors",
   extendsSlug: ["page-type/temper-catalog-thing"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "description", required: true, many: false },
-    { pagePropertySlug: "effects", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "text-property/description", required: true, many: false },
+    { pagePropertySlug: "page-property-entry/effects", required: true, many: false },
   ],
 } as const satisfies PageType

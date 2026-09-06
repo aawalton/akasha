@@ -17,9 +17,9 @@ export const temperArmorWeight = {
   extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["boolean-property/is-standard", "number-property/armor-base-value"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "armor-base-value", required: true, many: false },
-    { pagePropertySlug: "is-standard", required: true, many: false },
-    { pagePropertySlug: "skill-line-id", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "number-property/armor-base-value", required: true, many: false },
+    { pagePropertySlug: "boolean-property/is-standard", required: true, many: false },
+    { pagePropertySlug: "text-property/skill-line-id", required: true, many: false },
   ],
 } as const satisfies PageType

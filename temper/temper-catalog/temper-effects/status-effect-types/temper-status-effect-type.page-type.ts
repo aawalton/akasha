@@ -10,5 +10,5 @@ export const temperStatusEffectType = {
   definition: "a kind of condition a hit leaves on its target",
   pluralSlug: "temper-status-effect-types",
   extendsSlug: ["page-type/temper-catalog-thing"],
-  properties: [{ pagePropertySlug: "key", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
 } as const satisfies PageType
