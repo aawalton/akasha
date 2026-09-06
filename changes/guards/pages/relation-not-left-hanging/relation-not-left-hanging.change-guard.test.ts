@@ -13,12 +13,17 @@ import {
 import { NOT_WORKED_OUT } from "@akasha/pages/shadow"
 import { answered, taking } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+import {
+  guardedBy,
+  NOT_READ,
+} from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import { relationNotLeftHanging } from "./relation-not-left-hanging.change-guard.code.ts"
 
 afterAll(scratch.sweep)
 
 const GUARDS = [relationNotLeftHanging]
+
+const BROKEN = "export const held = ((\n"
 
 const SPARK_TYPE = "akasha/spark.page-type.ts"
 
@@ -40,11 +45,21 @@ function takingAway(root: string, path: string): Answer {
 }
 
 test("a shadow that will not build refuses rather than answering no hanging relation", () => {
-  const root = scratch.rootFor("relation-no-index-")
-  const said = guardedBy(root, answered([taking(HELD_PAGE, "export const held = 1\n")]), GUARDS)
+  const root = indexedRepo()
+
+  const said = guardedBy(root, answered([taking(HELD_PAGE, BROKEN)]), GUARDS)
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(NOT_WORKED_OUT)
+})
+
+test("an index that will not read refuses rather than answering no hanging relation", () => {
+  const root = scratch.rootFor("relation-no-index-")
+
+  const said = guardedBy(root, answered([taking(HELD_PAGE, "export const held = 1\n")]), GUARDS)
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain(NOT_READ)
 })
 
 test("a page another page still names is refused", () => {
