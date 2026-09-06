@@ -1,0 +1,13 @@
+diff --git a/service-system/workstation-services/pages/desktop-wallpaper-setting.workstation-service.ts b/service-system/workstation-services/pages/desktop-wallpaper-setting.workstation-service.ts
+index de04b49f2ad9a10ad289e0210235b44018822ae8..633fe43aa8417ece37d92c0dd4b38cffd4c646c5 100644
+--- a/service-system/workstation-services/pages/desktop-wallpaper-setting.workstation-service.ts
++++ b/service-system/workstation-services/pages/desktop-wallpaper-setting.workstation-service.ts
+@@ -6,7 +6,7 @@ export const desktopWallpaperSetting = {
+   slug: "desktop-wallpaper-setting",
+   definition: "the service setting the desktop wallpaper to the persona Alan messaged last",
+   runs: ["bun personas-core/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"],
+-  enabled: false,
++  enabled: true,
+   systemd: {
+     schedule: "*:0/5",
+     catchUp: true,
