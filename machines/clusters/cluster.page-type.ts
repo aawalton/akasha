@@ -28,7 +28,7 @@ export const cluster = {
     {
       invariantKind: "gap",
       statement:
-        "The work a person did on one of those machines under Windows, that person can still do.",
+        "The work a person did on a cluster machine under Windows is work that person can still do.",
     },
     {
       invariantKind: "gap",
