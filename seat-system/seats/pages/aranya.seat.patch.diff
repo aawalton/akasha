@@ -32,7 +32,7 @@ index 54cc145c4b9a725312a410cfa4c59f6532c304d8..ad32c5c72b06ee9bfc172bf7820d3573
    }
    const envLocalVars = existsSync(envLocalPath) ? readEnvLocal(envLocalPath) : {}
 diff --git a/command-system/commands/dev-server/dev-server.command.ts b/command-system/commands/dev-server/dev-server.command.ts
-index 9dadd60f69a705e6ac6114e4b0e8268714b4251b..c67febbd66c85587c7d12c8683d3374d2912c3f5 100644
+index 9dadd60f69a705e6ac6114e4b0e8268714b4251b..50ff29a520aea467e4690ac121e8676c4f87276c 100644
 --- a/command-system/commands/dev-server/dev-server.command.ts
 +++ b/command-system/commands/dev-server/dev-server.command.ts
 @@ -12,7 +12,7 @@ export const devServer = {
@@ -53,6 +53,15 @@ index 9dadd60f69a705e6ac6114e4b0e8268714b4251b..c67febbd66c85587c7d12c8683d3374d
      "a stop names one server by its seq and its app, or every tracked server with `--all`, and never both.",
      "a stop already stopped is answered as stopped, and the stale state file it left is taken.",
      "a state file naming a process that is gone reads as stopped, and a status takes no state file away.",
+@@ -59,7 +59,7 @@ export const devServer = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A start writes the app's `.env.local` from its sops secrets only where none stands.",
++        "A start writes the app's `.env.local` from the app's secret pages only where none is there.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/service-system/secrets/secret-saying/secret-saying.module.code.ts b/service-system/secrets/secret-saying/secret-saying.module.code.ts
 index 057008123102c4439afe4a227bcb7a404a936ee3..8269b2e6b3fd345c76920e2af42c715fd74a4014 100644
 --- a/service-system/secrets/secret-saying/secret-saying.module.code.ts
