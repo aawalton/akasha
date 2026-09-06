@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/where-music-sits-while-i-watch-agents.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-music-sits-while-i-watch-agents.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7e3c3a4631e3ac8a8db7211d179c22837848a35a
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-music-sits-while-i-watch-agents.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereMusicSitsWhileIWatchAgents = {
++  id: "01a077ea-3131-7085-a345-ddfdf464fe2d",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-music-sits-while-i-watch-agents",
++  topicSlug: "how-i-watch-my-agents",
++  ask: "Where does music sit while I watch my agents: is music only a knob on how wound up I am, or does music set which gear I scan in?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-another-game-would-fill-the-gap.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-another-game-would-fill-the-gap.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2ca40d589f8cc816fa88f4237594a0f2bc9d70ba
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-another-game-would-fill-the-gap.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAnotherGameWouldFillTheGap = {
++  id: "01a077ea-3131-7a31-bec7-b0bc4d1a325b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-another-game-would-fill-the-gap",
++  topicSlug: "how-i-watch-my-agents",
++  ask: "Would another game serve as the filler, or do the loading screens make this game the right one?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-boredom-starts-a-team-i-cannot-keep-up-with.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-boredom-starts-a-team-i-cannot-keep-up-with.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a7cf06b72c8c6068c7de511deb25ecee38a47632
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-boredom-starts-a-team-i-cannot-keep-up-with.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherBoredomStartsATeamICannotKeepUpWith = {
++  id: "01a077ea-312f-7a1e-947e-65b5432d2f1b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-boredom-starts-a-team-i-cannot-keep-up-with",
++  topicSlug: "how-i-watch-my-agents",
++  ask: "Does boredom ever start a team I cannot keep up with, a slot free but my attention already full?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-streams-share-one-resource.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-streams-share-one-resource.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..76ac701003bd68f3fd384ee65359eb99109ac611
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-streams-share-one-resource.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyStreamsShareOneResource = {
++  id: "01a077ea-3131-77b6-a81a-6900298a57b5",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-streams-share-one-resource",
++  topicSlug: "how-i-watch-my-agents",
++  ask: "Eight to twelve streams, a game and music run together without interfering. Do the three draw on different resources, or share one resource?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-watch-my-agents.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-watch-my-agents.all-about-alan-topic.ts
+index e8323c50a47fdace4a09237a74ceb9ee120d06ee..16096eee96daae680ce611e4209ef38e5d053e60 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-watch-my-agents.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-watch-my-agents.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const howIWatchMyAgents = {
+   relatedSlugs: ["how-stimulated-i-am"],
+   settled:
+     "Motion pulls my eye, and then I notice the still window next to it.\n\nBoredom is what moves me between them, and a free slot turns it into another project.\n\nTwelve is how many windows stay legible on half my screen, and that is the whole ceiling.\n\nWork that does not need to talk to me goes below the glass and reaches me through a manager.",
+-  unsettled:
+-    "Whether boredom ever starts a team I cannot keep up with, a slot free but my attention already full, is unprobed.\n\nWhere music sits in this is unclear. It may be only a knob on how wound up I am, or it may set which gear I scan in.\n\nAnd whether another game would serve as the filler, or the loading screens make this one right, is open.\n\nEight to twelve streams, a game and music run together without interfering. Whether they draw on different resources or share one is unsettled.",
+ } as const satisfies AllAboutAlanTopic
