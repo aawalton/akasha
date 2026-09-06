@@ -2512,6 +2512,33 @@ index 2bf5ee11f3d194a0bd99dfeb016e29bbd20c2ef4..e3f6cfa2b65c6ab6ff2b546a9eabc783
    }
    if (widthOf(nearer) > widthOf(further)) {
      return `\`unique\` widens from \`${reachIn(further)}\` to \`${reachIn(nearer)}\``
+diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts
+index 08c2f88bcaff14f57da00e413f16dfa99945a153..53d9436e44e79ca48011b57c5710753ad1f1344b 100644
+--- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts
++++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.ts
+@@ -26,11 +26,11 @@ export const restatementNarrowsSomething = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A max falling narrows.",
++      statement: "A count falling narrows.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A total falling narrows.",
++      statement: "A length falling narrows.",
+     },
+     {
+       invariantKind: "departure",
+@@ -76,7 +76,7 @@ export const restatementNarrowsSomething = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "A restatement raising a total while that restatement narrows something else is refused.",
++        "A restatement raising a length while that restatement narrows something else is refused.",
+     },
+   ],
+ } as const satisfies CodeCheck
 diff --git a/checks/model-checks/model-check.page-type.ts b/checks/model-checks/model-check.page-type.ts
 index 171a57a02e373d46659f577bff3add9ccf6060bf..c64240334b3a75b43bba5aa417d0175422be7285 100644
 --- a/checks/model-checks/model-check.page-type.ts
