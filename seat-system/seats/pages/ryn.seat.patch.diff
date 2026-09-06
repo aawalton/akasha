@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/report/monarch-report.module.ts b/alan/harness/monarch/report/monarch-report.module.ts
-index b7cd194a095c5b8cb97a284e6b199ad8c7dab41f..ffc53c7fd9d7cb158015a89e63b4849e794507be 100644
+index b7cd194a095c5b8cb97a284e6b199ad8c7dab41f..eff5f8200abedd5cc6bc2a300e30089086194899 100644
 --- a/alan/harness/monarch/report/monarch-report.module.ts
 +++ b/alan/harness/monarch/report/monarch-report.module.ts
 @@ -9,7 +9,11 @@ export const monarchReport = {
@@ -29,3 +29,12 @@ index b7cd194a095c5b8cb97a284e6b199ad8c7dab41f..ffc53c7fd9d7cb158015a89e63b4849e
      },
      {
        invariantKind: "departure",
+@@ -47,7 +54,7 @@ export const monarchReport = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A list cut to its limit says how many more there were.",
++      statement: "A list cut to its limit says how many rows were left out.",
+     },
+   ],
+ } as const satisfies Module
