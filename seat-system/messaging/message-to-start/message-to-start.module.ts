@@ -31,7 +31,11 @@ export const messageToStart = {
     },
     {
       invariantKind: "departure",
-      statement: "A start or a waking that outruns its patience is left, and the reach refused.",
+      statement: "A start or a waking that outruns its patience is left.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The reach is refused.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +56,7 @@ export const messageToStart = {
     },
     {
       invariantKind: "absence",
-      statement: "No command is spawned to start a seat or to revive one.",
+      statement: "No command is spawned to start a seat or to revive a seat.",
     },
   ],
 } as const satisfies Module
