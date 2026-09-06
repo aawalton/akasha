@@ -7,6 +7,4 @@ export const resourceBars = {
   title: "Resource Bars",
   definition: "how much I have of each thing I run on",
   parentSlugs: ["resources"],
-  unsettled:
-    "Connection debt tracks a need the way the four bars track theirs, but it is shaped as a payable debt stock rather than a capacity buffer. Does it belong inside the model or alongside it? The name predates it either way.\n\nInvesting beats banking for safety. Whether that carries to mana, stamina and stress capacity is open.",
 } as const satisfies AllAboutAlanTopic
