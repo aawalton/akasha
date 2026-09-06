@@ -6,7 +6,6 @@ export const learnEverythingTopic04CoveringAndSupportIntegumentarySkeletalAndMus
   slug: "learn-everything-topic-04-covering-and-support-integumentary-skeletal-and-musculatory-systems",
   node: "Life on Earth › The Structures and Functions of Organisms › Covering and Support: Integumentary, Skeletal, and Musculatory Systems",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],

@@ -6,7 +6,6 @@ export const learnEverythingTopic02OlmecPreclassicMotherCulture = {
   slug: "learn-everything-topic-02-olmec-preclassic-mother-culture",
   node: "The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Olmec: Preclassic Mother Culture",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-meso-american-civilization-to-ad-1540"],

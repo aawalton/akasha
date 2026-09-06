@@ -6,7 +6,6 @@ export const learnEverythingTopic02ThePhysicalSciences = {
   slug: "learn-everything-topic-02-the-physical-sciences",
   node: "The Branches of Knowledge › Science › The Physical Sciences",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-science"],

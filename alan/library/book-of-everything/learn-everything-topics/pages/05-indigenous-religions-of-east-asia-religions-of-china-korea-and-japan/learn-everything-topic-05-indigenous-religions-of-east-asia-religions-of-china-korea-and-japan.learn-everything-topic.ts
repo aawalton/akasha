@@ -6,7 +6,6 @@ export const learnEverythingTopic05IndigenousReligionsOfEastAsiaReligionsOfChina
   slug: "learn-everything-topic-05-indigenous-religions-of-east-asia-religions-of-china-korea-and-japan",
   node: "Religion › Particular Religions › Indigenous Religions of East Asia: Religions of China, Korea, and Japan",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-particular-religions"],

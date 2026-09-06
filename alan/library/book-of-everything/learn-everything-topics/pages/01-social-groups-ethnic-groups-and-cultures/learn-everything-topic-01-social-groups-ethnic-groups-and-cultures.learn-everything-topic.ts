@@ -6,7 +6,6 @@ export const learnEverythingTopic01SocialGroupsEthnicGroupsAndCultures = {
   slug: "learn-everything-topic-01-social-groups-ethnic-groups-and-cultures",
   node: "Human Society › Social Groups: Ethnic groups and Cultures",
   depth: 0,
-  coverage: 0.38,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-05-human-society"],

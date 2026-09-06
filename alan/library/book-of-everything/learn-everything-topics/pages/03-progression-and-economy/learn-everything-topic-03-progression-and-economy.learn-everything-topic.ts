@@ -6,7 +6,6 @@ export const learnEverythingTopic03ProgressionAndEconomy = {
   slug: "learn-everything-topic-03-progression-and-economy",
   node: "Art › Particular Arts › Game Design › Progression and Economy",
   depth: 2,
-  coverage: 2.0,
   scoredOn: "2026-06-25",
   status: "live",
   partOfSlugs: ["learn-everything-topic-10-game-design"],

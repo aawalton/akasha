@@ -6,7 +6,6 @@ export const learnEverythingTopic03CharacteristicsOfTheArtsInParticularCultures 
   slug: "learn-everything-topic-03-characteristics-of-the-arts-in-particular-cultures",
   node: "Art › Art in General › Characteristics of the Arts in Particular Cultures",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-art-in-general"],

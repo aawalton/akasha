@@ -6,7 +6,6 @@ export const learnEverythingTopic04Music = {
   slug: "learn-everything-topic-04-music",
   node: "Art › Particular Arts › Music",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-particular-arts"],

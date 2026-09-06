@@ -6,7 +6,6 @@ export const learnEverythingTopic02ExperienceAndCriticismOfArtTheNonaestheticCon
   slug: "learn-everything-topic-02-experience-and-criticism-of-art-the-nonaesthetic-context-of-art",
   node: "Art › Art in General › Experience and Criticism of Art; the Nonaesthetic Context of Art",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-art-in-general"],

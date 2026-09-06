@@ -6,7 +6,6 @@ export const learnEverythingTopic03CoordinationOfVitalProcessesRegulationAndInte
   slug: "learn-everything-topic-03-coordination-of-vital-processes-regulation-and-integration",
   node: "Life on Earth › The Structures and Functions of Organisms › Coordination of Vital Processes: Regulation and Integration",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],

@@ -6,7 +6,6 @@ export const learnEverythingTopic04Teotihuacan = {
   slug: "learn-everything-topic-04-teotihuacan",
   node: "The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Teotihuacan",
   depth: 3,
-  coverage: 3.0,
   scoredOn: "2026-06-20",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-02-meso-american-civilization-to-ad-1540"],

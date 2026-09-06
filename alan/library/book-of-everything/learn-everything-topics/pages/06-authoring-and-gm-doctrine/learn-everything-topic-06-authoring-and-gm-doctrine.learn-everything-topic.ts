@@ -6,7 +6,6 @@ export const learnEverythingTopic06AuthoringAndGmDoctrine = {
   slug: "learn-everything-topic-06-authoring-and-gm-doctrine",
   node: "Art › Particular Arts › Game Design › Authoring and GM Doctrine",
   depth: 3,
-  coverage: 3.0,
   scoredOn: "2026-06-25",
   status: "live",
   partOfSlugs: ["learn-everything-topic-10-game-design"],

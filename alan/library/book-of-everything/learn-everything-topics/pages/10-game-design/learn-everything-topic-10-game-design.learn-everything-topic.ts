@@ -6,7 +6,6 @@ export const learnEverythingTopic10GameDesign = {
   slug: "learn-everything-topic-10-game-design",
   node: "Art › Particular Arts › Game Design",
   depth: 3,
-  coverage: 2.79,
   scoredOn: "2026-06-25",
   status: "live",
   partOfSlugs: ["learn-everything-topic-02-particular-arts"],

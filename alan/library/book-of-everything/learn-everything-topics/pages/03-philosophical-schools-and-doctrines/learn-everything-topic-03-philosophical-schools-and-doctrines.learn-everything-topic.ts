@@ -6,7 +6,6 @@ export const learnEverythingTopic03PhilosophicalSchoolsAndDoctrines = {
   slug: "learn-everything-topic-03-philosophical-schools-and-doctrines",
   node: "The Branches of Knowledge › Philosophy › Philosophical Schools and Doctrines",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-05-philosophy"],

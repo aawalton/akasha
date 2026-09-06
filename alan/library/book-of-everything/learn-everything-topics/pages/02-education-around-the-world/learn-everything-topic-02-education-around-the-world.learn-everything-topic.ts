@@ -6,7 +6,6 @@ export const learnEverythingTopic02EducationAroundTheWorld = {
   slug: "learn-everything-topic-02-education-around-the-world",
   node: "Human Society › Education › Education Around the World",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-06-education"],

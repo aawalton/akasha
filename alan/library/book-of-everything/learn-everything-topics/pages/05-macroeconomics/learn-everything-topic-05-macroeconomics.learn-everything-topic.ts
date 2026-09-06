@@ -6,7 +6,6 @@ export const learnEverythingTopic05Macroeconomics = {
   slug: "learn-everything-topic-05-macroeconomics",
   node: "Human Society › The Production, Distribution, and Utilization of Wealth › Macroeconomics",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-the-production-distribution-and-utilization-of-wealth"],

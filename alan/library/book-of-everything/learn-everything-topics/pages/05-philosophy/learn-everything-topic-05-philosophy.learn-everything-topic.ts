@@ -6,7 +6,6 @@ export const learnEverythingTopic05Philosophy = {
   slug: "learn-everything-topic-05-philosophy",
   node: "The Branches of Knowledge › Philosophy",
   depth: 0,
-  coverage: 0.67,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-10-the-branches-of-knowledge"],

@@ -6,7 +6,6 @@ export const learnEverythingTopic05TechnologyOfInformationProcessingAndOfCommuni
   slug: "learn-everything-topic-05-technology-of-information-processing-and-of-communications-systems",
   node: "Technology › Fields of Technology › Technology of Information Processing and of Communications Systems",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-fields-of-technology"],

@@ -6,7 +6,6 @@ export const learnEverythingTopic04EuropeanColoniesInTheAmericas14921790 = {
   slug: "learn-everything-topic-04-european-colonies-in-the-americas-1492-1790",
   node: "The History of Mankind › The Modern World to 1920 › European Colonies in the Americas 1492–1790",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-06-the-modern-world-to-1920"],

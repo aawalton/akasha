@@ -6,7 +6,6 @@ export const learnEverythingTopic06AztecMexicaAndTheSpanishConquest = {
   slug: "learn-everything-topic-06-aztec-mexica-and-the-spanish-conquest",
   node: "The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Aztec/Mexica and the Spanish Conquest",
   depth: 3,
-  coverage: 3.0,
   scoredOn: "2026-06-19",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-02-meso-american-civilization-to-ad-1540"],

@@ -6,7 +6,6 @@ export const learnEverythingTopic02TheEarth = {
   slug: "learn-everything-topic-02-the-earth",
   node: "The Earth",
   depth: 0,
-  coverage: 0.11,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["profile"],

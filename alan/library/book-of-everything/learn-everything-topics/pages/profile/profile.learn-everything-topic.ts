@@ -6,7 +6,6 @@ export const profile = {
   slug: "profile",
   node: "Everything",
   depth: 0,
-  coverage: 0.05,
   scoredOn: "2026-06-19",
   status: "unopened",
 } as const satisfies LearnEverythingTopic

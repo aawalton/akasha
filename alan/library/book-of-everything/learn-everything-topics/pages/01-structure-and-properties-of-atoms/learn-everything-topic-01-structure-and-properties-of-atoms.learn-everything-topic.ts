@@ -6,7 +6,6 @@ export const learnEverythingTopic01StructureAndPropertiesOfAtoms = {
   slug: "learn-everything-topic-01-structure-and-properties-of-atoms",
   node: "Matter and Energy › Atoms › Structure and Properties of Atoms",
   depth: 2,
-  coverage: 2.0,
   scoredOn: "2026-06-19",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-01-atoms"],

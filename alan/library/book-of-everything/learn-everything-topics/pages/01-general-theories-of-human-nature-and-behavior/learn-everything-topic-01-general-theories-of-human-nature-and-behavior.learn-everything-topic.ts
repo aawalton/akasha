@@ -6,7 +6,6 @@ export const learnEverythingTopic01GeneralTheoriesOfHumanNatureAndBehavior = {
   slug: "learn-everything-topic-01-general-theories-of-human-nature-and-behavior",
   node: "Human Life › Human Behavior and Experience › General theories of human nature and behavior",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-human-behavior-and-experience"],

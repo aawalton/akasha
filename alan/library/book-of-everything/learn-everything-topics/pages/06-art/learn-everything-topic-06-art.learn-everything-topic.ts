@@ -6,7 +6,6 @@ export const learnEverythingTopic06Art = {
   slug: "learn-everything-topic-06-art",
   node: "Art",
   depth: 0,
-  coverage: 0.27,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["profile"],

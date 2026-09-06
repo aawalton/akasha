@@ -6,7 +6,6 @@ export const learnEverythingTopic08ParthianAndSasanianPersia = {
   slug: "learn-everything-topic-08-parthian-and-sasanian-persia",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › Parthian and Sasanian Persia",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-21",
   status: "unopened",
   partOfSlugs: [

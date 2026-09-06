@@ -6,7 +6,6 @@ export const learnEverythingTopic05Medicine = {
   slug: "learn-everything-topic-05-medicine",
   node: "The Branches of Knowledge › Science › Medicine",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-science"],

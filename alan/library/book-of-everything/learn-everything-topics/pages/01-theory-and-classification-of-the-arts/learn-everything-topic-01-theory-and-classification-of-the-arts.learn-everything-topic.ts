@@ -6,7 +6,6 @@ export const learnEverythingTopic01TheoryAndClassificationOfTheArts = {
   slug: "learn-everything-topic-01-theory-and-classification-of-the-arts",
   node: "Art › Art in General › Theory and Classification of the Arts",
   depth: 4,
-  coverage: 4.0,
   scoredOn: "2026-06-23",
   status: "live",
   partOfSlugs: ["learn-everything-topic-01-art-in-general"],

@@ -6,7 +6,6 @@ export const learnEverythingTopic07Christianity = {
   slug: "learn-everything-topic-07-christianity",
   node: "Religion › Particular Religions › Christianity",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-particular-religions"],

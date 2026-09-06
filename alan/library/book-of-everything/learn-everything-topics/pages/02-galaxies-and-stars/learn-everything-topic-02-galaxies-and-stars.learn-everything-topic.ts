@@ -6,7 +6,6 @@ export const learnEverythingTopic02GalaxiesAndStars = {
   slug: "learn-everything-topic-02-galaxies-and-stars",
   node: "Matter and Energy › The Universe › Galaxies and Stars",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-the-universe"],

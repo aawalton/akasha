@@ -6,7 +6,6 @@ export const learnEverythingTopic02MetabolismBioenergeticsAndBiosynthesis = {
   slug: "learn-everything-topic-02-metabolism-bioenergetics-and-biosynthesis",
   node: "Life on Earth › The Molecular Basis of Life › Metabolism: Bioenergetics and Biosynthesis",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-the-molecular-basis-of-life"],

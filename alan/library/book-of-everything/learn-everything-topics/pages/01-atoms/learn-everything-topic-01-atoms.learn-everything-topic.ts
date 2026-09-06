@@ -6,7 +6,6 @@ export const learnEverythingTopic01Atoms = {
   slug: "learn-everything-topic-01-atoms",
   node: "Matter and Energy › Atoms",
   depth: 0,
-  coverage: 0.5,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-matter-and-energy"],

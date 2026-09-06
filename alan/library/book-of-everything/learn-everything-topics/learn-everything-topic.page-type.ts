@@ -7,7 +7,6 @@ import type { Misconceptions } from "./properties/misconceptions.file-property.t
 import type { TopicCalibration } from "./properties/topic-calibration.number-property.ts"
 import type { TopicCalibrationRead } from "./properties/topic-calibration-read.text-property.ts"
 import type { TopicCapture } from "./properties/topic-capture.record-property.ts"
-import type { TopicCoverage } from "./properties/topic-coverage.number-property.ts"
 import type { TopicDepth } from "./properties/topic-depth.number-property.ts"
 import type { TopicEvidence } from "./properties/topic-evidence.file-property.ts"
 import type { TopicNode } from "./properties/topic-node.text-property.ts"
@@ -18,7 +17,6 @@ import type { TopicStatus } from "./properties/topic-status.select-property.ts"
 export type LearnEverythingTopic = Page & {
   node: TopicNode
   depth: TopicDepth
-  coverage: TopicCoverage
   scoredOn: TopicScoredOn
   status: TopicStatus
   partOfSlugs?: TopicPartOfSlugs
@@ -41,6 +39,7 @@ export const learnEverythingTopic = {
   extendsSlug: ["page-type/page"],
   partSlugs: [
     "calendar-date-property/topic-scored-on",
+    "computed-property/topic-coverage",
     "file-property/bites",
     "file-property/frontier",
     "file-property/integration",
@@ -49,7 +48,6 @@ export const learnEverythingTopic = {
     "instant-property/capture-through-at",
     "number-property/capture-through-line",
     "number-property/topic-calibration",
-    "number-property/topic-coverage",
     "number-property/topic-depth",
     "record-property/topic-capture",
     "relation-property/topic-part-of-slugs",
@@ -62,7 +60,7 @@ export const learnEverythingTopic = {
   properties: [
     { pagePropertySlug: "text-property/topic-node", required: true, many: false },
     { pagePropertySlug: "number-property/topic-depth", required: true, many: false },
-    { pagePropertySlug: "number-property/topic-coverage", required: true, many: false },
+    { pagePropertySlug: "computed-property/topic-coverage", required: false, many: false },
     { pagePropertySlug: "calendar-date-property/topic-scored-on", required: true, many: false },
     { pagePropertySlug: "select-property/topic-status", required: true, many: false },
     {
@@ -80,15 +78,24 @@ export const learnEverythingTopic = {
     { pagePropertySlug: "file-property/bites", required: false, many: false },
     { pagePropertySlug: "file-property/topic-evidence", required: false, many: false },
   ],
+  worked: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every level of the map is a topic, the whole of that map included.",
+      statement: "Every level of the map is a topic.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The whole of the map is a topic.",
     },
     {
       invariantKind: "departure",
       statement:
         "A topic's depth is judged by hand and its coverage worked out from beneath that topic.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A topic states no coverage of its own.",
     },
 
     {

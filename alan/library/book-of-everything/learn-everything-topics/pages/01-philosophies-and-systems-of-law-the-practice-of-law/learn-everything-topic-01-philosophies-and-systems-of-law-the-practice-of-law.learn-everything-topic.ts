@@ -6,7 +6,6 @@ export const learnEverythingTopic01PhilosophiesAndSystemsOfLawThePracticeOfLaw =
   slug: "learn-everything-topic-01-philosophies-and-systems-of-law-the-practice-of-law",
   node: "Human Society › Law › Philosophies and Systems of Law; the Practice of Law",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-05-law"],

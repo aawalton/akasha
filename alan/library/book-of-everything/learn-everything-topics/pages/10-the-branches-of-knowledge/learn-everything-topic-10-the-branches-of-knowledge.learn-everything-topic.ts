@@ -6,7 +6,6 @@ export const learnEverythingTopic10TheBranchesOfKnowledge = {
   slug: "learn-everything-topic-10-the-branches-of-knowledge",
   node: "The Branches of Knowledge",
   depth: 0,
-  coverage: 0.11,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["profile"],

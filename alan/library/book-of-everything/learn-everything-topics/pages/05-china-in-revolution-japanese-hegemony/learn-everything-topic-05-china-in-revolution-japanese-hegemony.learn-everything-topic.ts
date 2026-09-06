@@ -6,7 +6,6 @@ export const learnEverythingTopic05ChinaInRevolutionJapaneseHegemony = {
   slug: "learn-everything-topic-05-china-in-revolution-japanese-hegemony",
   node: "The History of Mankind › The World Since 1920 › China in Revolution, Japanese Hegemony",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-07-the-world-since-1920"],

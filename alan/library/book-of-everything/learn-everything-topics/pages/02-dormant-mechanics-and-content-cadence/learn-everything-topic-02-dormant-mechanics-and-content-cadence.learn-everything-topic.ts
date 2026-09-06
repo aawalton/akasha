@@ -6,7 +6,6 @@ export const learnEverythingTopic02DormantMechanicsAndContentCadence = {
   slug: "learn-everything-topic-02-dormant-mechanics-and-content-cadence",
   node: "Art › Particular Arts › Game Design › Dormant Mechanics and Content Cadence",
   depth: 3,
-  coverage: 3.0,
   scoredOn: "2026-06-25",
   status: "live",
   partOfSlugs: ["learn-everything-topic-10-game-design"],

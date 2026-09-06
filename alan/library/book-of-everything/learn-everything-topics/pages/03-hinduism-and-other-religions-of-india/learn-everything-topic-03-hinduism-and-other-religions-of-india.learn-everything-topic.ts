@@ -6,7 +6,6 @@ export const learnEverythingTopic03HinduismAndOtherReligionsOfIndia = {
   slug: "learn-everything-topic-03-hinduism-and-other-religions-of-india",
   node: "Religion › Particular Religions › Hinduism and Other Religions of India",
   depth: 2,
-  coverage: 2.0,
   scoredOn: "2026-06-23",
   status: "live",
   partOfSlugs: ["learn-everything-topic-02-particular-religions"],

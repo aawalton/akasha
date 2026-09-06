@@ -6,7 +6,6 @@ export const learnEverythingTopic04HumanLife = {
   slug: "learn-everything-topic-04-human-life",
   node: "Human Life",
   depth: 0,
-  coverage: 0.05,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["profile"],

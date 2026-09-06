@@ -6,7 +6,6 @@ export const learnEverythingTopic09TheHistoryOfMankind = {
   slug: "learn-everything-topic-09-the-history-of-mankind",
   node: "The History of Mankind",
   depth: 0,
-  coverage: 0.04,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["profile"],

@@ -6,7 +6,6 @@ export const learnEverythingTopic01EngagementLoopsAndReOptimization = {
   slug: "learn-everything-topic-01-engagement-loops-and-re-optimization",
   node: "Art › Particular Arts › Game Design › Engagement Loops and Re-optimization",
   depth: 3,
-  coverage: 3.0,
   scoredOn: "2026-06-25",
   status: "live",
   partOfSlugs: ["learn-everything-topic-10-game-design"],

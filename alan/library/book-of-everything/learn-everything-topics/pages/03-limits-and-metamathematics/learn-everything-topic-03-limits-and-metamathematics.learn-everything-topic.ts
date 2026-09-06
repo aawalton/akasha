@@ -6,7 +6,6 @@ export const learnEverythingTopic03LimitsAndMetamathematics = {
   slug: "learn-everything-topic-03-limits-and-metamathematics",
   node: "The Branches of Knowledge › Mathematics › History and Foundations of Mathematics › Limits and Metamathematics",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-20",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-history-and-foundations-of-mathematics"],

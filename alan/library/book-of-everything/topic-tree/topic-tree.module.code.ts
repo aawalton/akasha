@@ -1,4 +1,5 @@
 import { valuesOfType } from "@akasha/indexes"
+import { asking } from "@akasha/pages-service/asking"
 import type { CoverageNode } from "../coverage-fold/coverage-fold.module.code.ts"
 import type { StatusNode } from "../coverage-status/coverage-status.module.code.ts"
 import { displayTitle, type ProfileStatus } from "../node-profile/node-profile.module.code.ts"
@@ -50,17 +51,31 @@ function parentIn(said: unknown): string | null {
   return typeof first === "string" ? first : null
 }
 
+// COVERAGE IS WORKED OUT RATHER THAN STORED, SO THE ROWS COME FROM `asking`. A path is no key a
+// row carries, so the paths a topic sorts and reports by are read from the index alongside.
+function pathsIn(root: string): ReadonlyMap<string, string> {
+  const found = new Map<string, string>()
+  for (const one of valuesOfType(root, TOPIC)) {
+    const slug = one.value["slug"]
+    if (typeof slug === "string") found.set(slug, one.path)
+  }
+  return found
+}
+
 export function rowsIn(root: string): readonly Row[] {
-  return valuesOfType(root, TOPIC).flatMap((one) => {
-    const held = one.value as Record<string, unknown>
+  const asked = asking(root, { pageTypeSlug: TOPIC })
+  if ("refused" in asked) return failing(asked.refused)
+  const paths = pathsIn(root)
+  return asked.rows.flatMap((held) => {
     const slug = held["slug"]
     if (typeof slug !== "string") return []
+    const at = paths.get(slug) ?? slug
     const label = held["node"]
     return [
       {
         slug,
-        at: one.path,
-        order: orderOf(one.path),
+        at,
+        order: orderOf(at),
         label: typeof label === "string" ? label : slug,
         depth: numberOf(held["depth"]),
         coverage: numberOf(held["coverage"]),

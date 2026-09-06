@@ -6,7 +6,6 @@ export const learnEverythingTopic08DrawingPaintingPrintmakingPhotography = {
   slug: "learn-everything-topic-08-drawing-painting-printmaking-photography",
   node: "Art › Particular Arts › Drawing, Painting, Printmaking, Photography",
   depth: 3,
-  coverage: 1.5,
   scoredOn: "2026-06-19",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-02-particular-arts"],

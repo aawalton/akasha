@@ -6,7 +6,6 @@ export const learnEverythingTopic01PrehistoricReligionAndPrimitiveReligion = {
   slug: "learn-everything-topic-01-prehistoric-religion-and-primitive-religion",
   node: "Religion › Particular Religions › Prehistoric Religion and Primitive Religion",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-particular-religions"],

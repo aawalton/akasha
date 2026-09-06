@@ -6,7 +6,6 @@ export const learnEverythingTopic06Judaism = {
   slug: "learn-everything-topic-06-judaism",
   node: "Religion › Particular Religions › Judaism",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-particular-religions"],

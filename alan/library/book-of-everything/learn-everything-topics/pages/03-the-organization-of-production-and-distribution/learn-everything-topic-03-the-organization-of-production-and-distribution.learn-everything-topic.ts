@@ -6,7 +6,6 @@ export const learnEverythingTopic03TheOrganizationOfProductionAndDistribution = 
   slug: "learn-everything-topic-03-the-organization-of-production-and-distribution",
   node: "Human Society › The Production, Distribution, and Utilization of Wealth › The Organization of Production and Distribution",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-the-production-distribution-and-utilization-of-wealth"],

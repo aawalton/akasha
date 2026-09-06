@@ -6,7 +6,6 @@ export const learnEverythingTopic04Buddhism = {
   slug: "learn-everything-topic-04-buddhism",
   node: "Religion › Particular Religions › Buddhism",
   depth: 3,
-  coverage: 3.0,
   scoredOn: "2026-06-23",
   status: "live",
   partOfSlugs: ["learn-everything-topic-02-particular-religions"],

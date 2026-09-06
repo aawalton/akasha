@@ -6,7 +6,6 @@ export const learnEverythingTopic03TheProductionDistributionAndUtilizationOfWeal
   slug: "learn-everything-topic-03-the-production-distribution-and-utilization-of-wealth",
   node: "Human Society › The Production, Distribution, and Utilization of Wealth",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-05-human-society"],

@@ -6,7 +6,6 @@ export const learnEverythingTopic07ProgressRealnessAndSaveDesign = {
   slug: "learn-everything-topic-07-progress-realness-and-save-design",
   node: "Art › Particular Arts › Game Design › Progress Realness and Save Design",
   depth: 3,
-  coverage: 3.0,
   scoredOn: "2026-06-25",
   status: "live",
   partOfSlugs: ["learn-everything-topic-10-game-design"],

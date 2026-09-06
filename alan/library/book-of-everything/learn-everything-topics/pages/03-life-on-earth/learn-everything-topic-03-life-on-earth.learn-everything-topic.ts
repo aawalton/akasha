@@ -6,7 +6,6 @@ export const learnEverythingTopic03LifeOnEarth = {
   slug: "learn-everything-topic-03-life-on-earth",
   node: "Life on Earth",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["profile"],

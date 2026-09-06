@@ -6,7 +6,6 @@ export const learnEverythingTopic02EarthSEnvelope = {
   slug: "learn-everything-topic-02-earth-s-envelope",
   node: "The Earth › Earth's Envelope",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-the-earth"],

@@ -6,7 +6,6 @@ export const learnEverythingTopic01OriginsAndSourceCriticismOverview = {
   slug: "learn-everything-topic-01-origins-and-source-criticism-overview",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › Origins and Source-Criticism Overview",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-21",
   status: "unopened",
   partOfSlugs: [

@@ -6,7 +6,6 @@ export const learnEverythingTopic03StructureAndCompositionOfTheEarthSInterior = 
   slug: "learn-everything-topic-03-structure-and-composition-of-the-earth-s-interior",
   node: "The Earth › Earth's Properties, Structure, Composition › Structure and Composition of the Earth's Interior",
   depth: 3,
-  coverage: 3.0,
   scoredOn: "2026-06-19",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-01-earth-s-properties-structure-composition"],

@@ -6,7 +6,6 @@ export const learnEverythingTopic03WeatherAndClimate = {
   slug: "learn-everything-topic-03-weather-and-climate",
   node: "The Earth › Earth's Envelope › Weather and Climate",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-earth-s-envelope"],

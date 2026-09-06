@@ -6,7 +6,6 @@ export const learnEverythingTopic03CentralAndNortheastAsiaTo1750 = {
   slug: "learn-everything-topic-03-central-and-northeast-asia-to-1750",
   node: "The History of Mankind › East, Central, South, and Southeast Asia › Central and Northeast Asia to 1750",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-east-central-south-and-southeast-asia"],

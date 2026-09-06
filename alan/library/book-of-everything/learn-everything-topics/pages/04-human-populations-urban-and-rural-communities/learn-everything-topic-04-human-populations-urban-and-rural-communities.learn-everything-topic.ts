@@ -6,7 +6,6 @@ export const learnEverythingTopic04HumanPopulationsUrbanAndRuralCommunities = {
   slug: "learn-everything-topic-04-human-populations-urban-and-rural-communities",
   node: "Human Society › Social Organization and Social Change › Human Populations: Urban and Rural Communities",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-social-organization-and-social-change"],

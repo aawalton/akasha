@@ -6,7 +6,6 @@ export const learnEverythingTopic04EarthSHistory = {
   slug: "learn-everything-topic-04-earth-s-history",
   node: "The Earth › Earth's History",
   depth: 0,
-  coverage: 0.5,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-the-earth"],

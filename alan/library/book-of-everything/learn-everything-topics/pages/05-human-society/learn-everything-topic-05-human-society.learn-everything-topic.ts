@@ -6,7 +6,6 @@ export const learnEverythingTopic05HumanSociety = {
   slug: "learn-everything-topic-05-human-society",
   node: "Human Society",
   depth: 0,
-  coverage: 0.09,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["profile"],

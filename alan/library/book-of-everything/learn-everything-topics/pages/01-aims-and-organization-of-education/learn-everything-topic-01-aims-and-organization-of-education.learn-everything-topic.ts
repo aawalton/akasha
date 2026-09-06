@@ -6,7 +6,6 @@ export const learnEverythingTopic01AimsAndOrganizationOfEducation = {
   slug: "learn-everything-topic-01-aims-and-organization-of-education",
   node: "Human Society › Education › Aims and Organization of Education",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-06-education"],

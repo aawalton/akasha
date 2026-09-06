@@ -6,7 +6,6 @@ export const learnEverythingTopic02TheOriginAndEvolutionOfLife = {
   slug: "learn-everything-topic-02-the-origin-and-evolution-of-life",
   node: "Life on Earth › The Nature and Diversity of Life › The Origin and Evolution of Life",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-the-nature-and-diversity-of-life"],

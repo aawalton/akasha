@@ -6,7 +6,6 @@ export const learnEverythingTopic03AncientEgyptToThePersianConquest = {
   slug: "learn-everything-topic-03-ancient-egypt-to-the-persian-conquest",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › Ancient Egypt to the Persian Conquest",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-21",
   status: "unopened",
   partOfSlugs: [

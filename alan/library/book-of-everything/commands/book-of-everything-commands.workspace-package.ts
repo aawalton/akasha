@@ -8,7 +8,6 @@ export const bookOfEverythingCommands = {
   manifest: "json",
   partSlugs: [
     "command/ali-coverage",
-    "command/ali-fold",
     "command/ali-next-unscored",
     "command/ali-random-leaf",
     "command/learn-next",

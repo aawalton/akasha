@@ -6,7 +6,6 @@ export const learnEverythingTopic06TheSocialSciencesPsychologyLinguistics = {
   slug: "learn-everything-topic-06-the-social-sciences-psychology-linguistics",
   node: "The Branches of Knowledge › Science › The Social Sciences, Psychology, Linguistics",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-science"],

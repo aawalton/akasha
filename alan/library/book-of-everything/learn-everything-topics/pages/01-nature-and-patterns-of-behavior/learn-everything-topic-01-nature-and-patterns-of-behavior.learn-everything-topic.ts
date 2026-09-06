@@ -6,7 +6,6 @@ export const learnEverythingTopic01NatureAndPatternsOfBehavior = {
   slug: "learn-everything-topic-01-nature-and-patterns-of-behavior",
   node: "Life on Earth › The Behavior of Organisms › Nature and Patterns of Behavior",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-04-the-behavior-of-organisms"],

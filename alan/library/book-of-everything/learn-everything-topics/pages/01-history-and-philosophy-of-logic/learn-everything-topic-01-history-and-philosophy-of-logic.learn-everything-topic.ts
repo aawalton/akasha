@@ -6,7 +6,6 @@ export const learnEverythingTopic01HistoryAndPhilosophyOfLogic = {
   slug: "learn-everything-topic-01-history-and-philosophy-of-logic",
   node: "The Branches of Knowledge › Logic › History and Philosophy of Logic",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-logic"],

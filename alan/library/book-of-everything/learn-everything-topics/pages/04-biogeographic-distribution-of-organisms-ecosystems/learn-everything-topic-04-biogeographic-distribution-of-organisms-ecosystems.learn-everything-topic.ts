@@ -6,7 +6,6 @@ export const learnEverythingTopic04BiogeographicDistributionOfOrganismsEcosystem
   slug: "learn-everything-topic-04-biogeographic-distribution-of-organisms-ecosystems",
   node: "Life on Earth › The Biosphere › Biogeographic Distribution of Organisms: Ecosystems",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-05-the-biosphere"],

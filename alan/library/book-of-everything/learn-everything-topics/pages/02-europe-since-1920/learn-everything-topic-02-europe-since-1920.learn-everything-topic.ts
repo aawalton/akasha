@@ -6,7 +6,6 @@ export const learnEverythingTopic02EuropeSince1920 = {
   slug: "learn-everything-topic-02-europe-since-1920",
   node: "The History of Mankind › The World Since 1920 › Europe Since 1920",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-07-the-world-since-1920"],

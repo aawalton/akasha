@@ -6,7 +6,6 @@ export const learnEverythingTopic02DevelopmentAndRangeOfBehavioralCapacitiesIndi
   slug: "learn-everything-topic-02-development-and-range-of-behavioral-capacities-individual-and-group",
   node: "Life on Earth › The Behavior of Organisms › Development and Range of Behavioral Capacities: Individual and Group Behavior",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-04-the-behavior-of-organisms"],

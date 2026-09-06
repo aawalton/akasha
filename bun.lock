@@ -202,6 +202,7 @@
       "dependencies": {
         "@akasha/indexes": "workspace:*",
         "@akasha/pages": "workspace:*",
+        "@akasha/pages-service": "workspace:*",
       },
     },
     "alan/library/book-of-everything/commands": {

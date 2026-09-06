@@ -12,7 +12,6 @@ export const aliCoverage = {
     "a topic counts as opened where its status is anything but `unopened`, so a topic scored nought still counts.",
     "the section count is held against the sections the outline names, so it only climbs.",
     "the topic count is held against every topic page there is, so opening a topic up can drop it.",
-    "this says what has been opened; `akasha ali-fold` says how deep what was opened went.",
   ],
   invariants: [
     {

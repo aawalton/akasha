@@ -6,7 +6,6 @@ export const learnEverythingTopic05LiturgicalCalendarAndObservance = {
   slug: "learn-everything-topic-05-liturgical-calendar-and-observance",
   node: "Religion › Religion in General › Religious Life: Institutions and Practices › Liturgical Calendar and Observance",
   depth: 4,
-  coverage: 4.0,
   scoredOn: "2026-06-20",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-02-religious-life-institutions-and-practices"],

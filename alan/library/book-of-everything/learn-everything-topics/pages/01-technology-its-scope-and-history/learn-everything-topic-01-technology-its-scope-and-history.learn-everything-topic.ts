@@ -6,7 +6,6 @@ export const learnEverythingTopic01TechnologyItsScopeAndHistory = {
   slug: "learn-everything-topic-01-technology-its-scope-and-history",
   node: "Technology › Nature & Development of Technology › Technology: Its Scope and History",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-nature-development-of-technology"],

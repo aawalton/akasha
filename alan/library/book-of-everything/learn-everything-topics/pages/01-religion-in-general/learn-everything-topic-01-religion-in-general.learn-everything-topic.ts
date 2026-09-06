@@ -6,7 +6,6 @@ export const learnEverythingTopic01ReligionInGeneral = {
   slug: "learn-everything-topic-01-religion-in-general",
   node: "Religion › Religion in General",
   depth: 0,
-  coverage: 0.6,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-08-religion"],

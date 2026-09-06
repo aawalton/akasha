@@ -6,7 +6,6 @@ export const learnEverythingTopic07PlayGamesAndFun = {
   slug: "learn-everything-topic-07-play-games-and-fun",
   node: "Human Life › Human Behavior and Experience › Play, Games, and Fun",
   depth: 4,
-  coverage: 4.0,
   scoredOn: "2026-06-25",
   status: "live",
   partOfSlugs: ["learn-everything-topic-03-human-behavior-and-experience"],

@@ -6,7 +6,6 @@ export const learnEverythingTopic02TheDevelopmentOfHumanCulture = {
   slug: "learn-everything-topic-02-the-development-of-human-culture",
   node: "Human Society › Social Groups: Ethnic groups and Cultures › The Development of Human Culture",
   depth: 3,
-  coverage: 3.0,
   scoredOn: "2026-06-26",
   status: "live",
   partOfSlugs: ["learn-everything-topic-01-social-groups-ethnic-groups-and-cultures"],

@@ -7,7 +7,6 @@ export const learnEverythingTopic03InfluenceOfTheCurrentEnvironmentOnAPersonSBeh
     slug: "learn-everything-topic-03-influence-of-the-current-environment-on-a-person-s-behavior-and-conscious",
     node: "Human Life › Human Behavior and Experience › Influence of the current environment on a person's behavior and conscious experience: attention, sensation, and perception",
     depth: 0,
-    coverage: 0.0,
     scoredOn: "2026-06-19",
     status: "unopened",
     partOfSlugs: ["learn-everything-topic-03-human-behavior-and-experience"],

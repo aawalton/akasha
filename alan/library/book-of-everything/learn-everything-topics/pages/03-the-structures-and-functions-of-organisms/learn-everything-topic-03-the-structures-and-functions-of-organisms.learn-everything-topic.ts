@@ -6,7 +6,6 @@ export const learnEverythingTopic03TheStructuresAndFunctionsOfOrganisms = {
   slug: "learn-everything-topic-03-the-structures-and-functions-of-organisms",
   node: "Life on Earth › The Structures and Functions of Organisms",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-life-on-earth"],

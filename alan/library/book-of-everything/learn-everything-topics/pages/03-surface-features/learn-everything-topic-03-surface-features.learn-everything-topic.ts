@@ -6,7 +6,6 @@ export const learnEverythingTopic03SurfaceFeatures = {
   slug: "learn-everything-topic-03-surface-features",
   node: "The Earth › Surface Features",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-the-earth"],

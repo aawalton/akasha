@@ -6,7 +6,6 @@ export const learnEverythingTopic01Historiography = {
   slug: "learn-everything-topic-01-historiography",
   node: "The Branches of Knowledge › History and The Humanities › Historiography",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-04-history-and-the-humanities"],

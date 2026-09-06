@@ -6,7 +6,6 @@ export const learnEverythingTopic04InternationalRelationsPeaceAndWar = {
   slug: "learn-everything-topic-04-international-relations-peace-and-war",
   node: "Human Society › Politics and Government › International Relations: Peace and War",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-04-politics-and-government"],

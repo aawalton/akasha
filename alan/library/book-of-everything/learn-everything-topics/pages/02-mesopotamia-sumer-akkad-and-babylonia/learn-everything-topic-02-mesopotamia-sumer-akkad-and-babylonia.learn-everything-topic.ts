@@ -6,7 +6,6 @@ export const learnEverythingTopic02MesopotamiaSumerAkkadAndBabylonia = {
   slug: "learn-everything-topic-02-mesopotamia-sumer-akkad-and-babylonia",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › Mesopotamia: Sumer, Akkad, and Babylonia",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-21",
   status: "unopened",
   partOfSlugs: [

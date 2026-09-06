@@ -6,7 +6,6 @@ export const learnEverythingTopic06PersonalityAndTheSelfIntegrationAndDisintegra
   slug: "learn-everything-topic-06-personality-and-the-self-integration-and-disintegration",
   node: "Human Life › Human Behavior and Experience › Personality and the Self: Integration and Disintegration",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-human-behavior-and-experience"],

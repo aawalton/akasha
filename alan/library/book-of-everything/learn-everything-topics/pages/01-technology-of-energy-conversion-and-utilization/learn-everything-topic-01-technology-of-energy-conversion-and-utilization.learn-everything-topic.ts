@@ -6,7 +6,6 @@ export const learnEverythingTopic01TechnologyOfEnergyConversionAndUtilization = 
   slug: "learn-everything-topic-01-technology-of-energy-conversion-and-utilization",
   node: "Technology › Elements of Technology › Technology of Energy Conversion and Utilization",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-elements-of-technology"],

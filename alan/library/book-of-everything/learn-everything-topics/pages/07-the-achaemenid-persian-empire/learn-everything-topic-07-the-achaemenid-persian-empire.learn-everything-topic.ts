@@ -6,7 +6,6 @@ export const learnEverythingTopic07TheAchaemenidPersianEmpire = {
   slug: "learn-everything-topic-07-the-achaemenid-persian-empire",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › The Achaemenid Persian Empire",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-21",
   status: "unopened",
   partOfSlugs: [

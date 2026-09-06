@@ -6,7 +6,6 @@ export const learnEverythingTopic03SocialStatus = {
   slug: "learn-everything-topic-03-social-status",
   node: "Human Society › Social Organization and Social Change › Social Status",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-social-organization-and-social-change"],

@@ -6,7 +6,6 @@ export const learnEverythingTopic01HumanEvolution = {
   slug: "learn-everything-topic-01-human-evolution",
   node: "Human Life › The Development of Human Life › Human Evolution",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-the-development-of-human-life"],

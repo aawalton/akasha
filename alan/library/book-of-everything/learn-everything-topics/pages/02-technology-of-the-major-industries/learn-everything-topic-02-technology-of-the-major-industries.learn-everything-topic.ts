@@ -6,7 +6,6 @@ export const learnEverythingTopic02TechnologyOfTheMajorIndustries = {
   slug: "learn-everything-topic-02-technology-of-the-major-industries",
   node: "Technology › Fields of Technology › Technology of the Major Industries",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-fields-of-technology"],

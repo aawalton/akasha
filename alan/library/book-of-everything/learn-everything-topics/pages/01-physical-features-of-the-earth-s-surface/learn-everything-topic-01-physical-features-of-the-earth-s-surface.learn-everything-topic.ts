@@ -6,7 +6,6 @@ export const learnEverythingTopic01PhysicalFeaturesOfTheEarthSSurface = {
   slug: "learn-everything-topic-01-physical-features-of-the-earth-s-surface",
   node: "The Earth › Surface Features › Physical Features of the Earth's Surface",
   depth: 0,
-  coverage: 0.0,
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-surface-features"],
