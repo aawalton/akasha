@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/service-system/workstation-services/service-reaching/service-reaching.module.ts b/service-system/workstation-services/service-reaching/service-reaching.module.ts
+index ce636a39b690086d95424f327747ccd63c07cc79..f6d55c7e5f42eb79463d74e6c2c58e4fdabc768b 100644
+--- a/service-system/workstation-services/service-reaching/service-reaching.module.ts
++++ b/service-system/workstation-services/service-reaching/service-reaching.module.ts
+@@ -15,7 +15,7 @@ export const serviceReaching = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A file is reached at the path that file really is at rather than the one naming that file.",
++        "A file is reached at the path that file really is at rather than the path naming that file.",
+     },
+     {
+       invariantKind: "departure",
