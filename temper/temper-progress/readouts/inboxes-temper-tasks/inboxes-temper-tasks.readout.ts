@@ -20,7 +20,7 @@ export const inboxesTemperTasks = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The count is the one the tracking day carries.",
+      statement: "The count is the count the tracking day carries.",
     },
     {
       invariantKind: "departure",
