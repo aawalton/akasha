@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/unique-kinds/pages/part-of.unique-kind.ts b/pages/unique-kinds/pages/part-of.unique-kind.ts
+index eef6de8eb8cf36c01b35a75367635a2b36e91275..5779f035cfc9323e88ee9b9c243857e261af12dd 100644
+--- a/pages/unique-kinds/pages/part-of.unique-kind.ts
++++ b/pages/unique-kinds/pages/part-of.unique-kind.ts
+@@ -16,7 +16,7 @@ export const partOf = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page part of more than one page is filed under each of those pages.",
++      statement: "A page part of more than one page is filed under every such page.",
+     },
+     {
+       invariantKind: "departure",
