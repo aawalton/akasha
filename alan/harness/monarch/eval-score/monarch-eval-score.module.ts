@@ -13,8 +13,11 @@ export const monarchEvalScore = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Agreement is against the category standing on the row, which is the only answer there is.",
+      statement: "Agreement is against the category standing on the row.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The category standing on the row is the only answer there is.",
     },
     {
       invariantKind: "departure",
