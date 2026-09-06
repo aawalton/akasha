@@ -31,9 +31,8 @@ export const role = {
     {
       directiveKind: "principle",
       name: "Retention",
-      act: "Write anything from a tool result you will need later into your own output.",
-      warrant:
-        "A tool result can be cleared without notice; your own output stays, and nothing marks the loss.",
+      act: "Write into your own output anything from a tool result you will need later.",
+      warrant: "A tool result can be cleared without notice; your own output stays.",
       aids: [
         "Copy the value, not a note that you saw it.",
         "Copy what you will need, not the whole result.",
