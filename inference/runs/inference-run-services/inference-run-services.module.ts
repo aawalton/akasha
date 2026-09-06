@@ -10,8 +10,11 @@ export const inferenceRunServices = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Every service names the versions it ran, and a service that pins nothing names an empty set.",
+      statement: "Every service names the versions that service ran.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A service that pins nothing names an empty set.",
     },
   ],
 } as const satisfies Module
