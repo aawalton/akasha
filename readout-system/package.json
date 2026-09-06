@@ -31,7 +31,7 @@
     "./readout-tier": "./readout-tier/readout-tier.module.code.ts"
   },
   "dependencies": {
-    "@akasha/pages-system-service": "workspace:*",
+    "@akasha/pages-service": "workspace:*",
     "zod": "^4.3.6"
   },
   "peerDependencies": {

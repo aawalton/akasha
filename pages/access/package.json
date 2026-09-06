@@ -32,7 +32,7 @@
     "@akasha/named-for": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/file-page-identity": "workspace:*",
-    "@akasha/pages-system-service": "workspace:*",
+    "@akasha/pages-service": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"
   }

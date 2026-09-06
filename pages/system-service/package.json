@@ -1,5 +1,5 @@
 {
-  "name": "@akasha/pages-system-service",
+  "name": "@akasha/pages-service",
   "private": true,
   "type": "module",
   "exports": {

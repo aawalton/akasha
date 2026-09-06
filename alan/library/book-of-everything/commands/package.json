@@ -8,6 +8,6 @@
     "@akasha/command-system": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/pages-system-service": "workspace:*"
+    "@akasha/pages-service": "workspace:*"
   }
 }

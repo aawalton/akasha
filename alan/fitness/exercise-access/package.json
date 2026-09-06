@@ -36,7 +36,7 @@
     "@akasha/day": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/pages-system-service": "workspace:*",
+    "@akasha/pages-service": "workspace:*",
     "zod": "^4.3.6"
   }
 }

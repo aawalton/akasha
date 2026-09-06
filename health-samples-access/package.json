@@ -11,6 +11,6 @@
   "dependencies": {
     "@akasha/day": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/pages-system-service": "workspace:*"
+    "@akasha/pages-service": "workspace:*"
   }
 }

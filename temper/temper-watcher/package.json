@@ -66,7 +66,7 @@
     "@akasha/pages-core": "workspace:*",
     "@akasha/pages-query": "workspace:*",
     "@akasha/pages": "workspace:*",
-    "@akasha/pages-system-service": "workspace:*",
+    "@akasha/pages-service": "workspace:*",
     "@akasha/recurrence": "workspace:*",
     "@akasha/temper-addon-generators": "workspace:*",
     "@akasha/temper-build-codec": "workspace:*",
