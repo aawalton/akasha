@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/changes/atomic-changes/pages/rename-local-variable/rename-local-variable.atomic-change.ts b/changes/atomic-changes/pages/rename-local-variable/rename-local-variable.atomic-change.ts
+index 418c34bb3a9149e0604079f16817dfb542ef726d..f314f09944bab471e0cdbf1b07679eb9811b05f1 100644
+--- a/changes/atomic-changes/pages/rename-local-variable/rename-local-variable.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-local-variable/rename-local-variable.atomic-change.ts
+@@ -27,7 +27,7 @@ export const renameLocalVariable = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The binding is named by an offset any one of its occurrences covers.",
++      statement: "The binding is named by an offset a single occurrence covers.",
+     },
+     {
+       invariantKind: "absence",
