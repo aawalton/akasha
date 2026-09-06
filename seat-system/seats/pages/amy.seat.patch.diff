@@ -1,0 +1,15 @@
+diff --git a/code-system/ios-apps/pages/alanwalton/package.json b/code-system/ios-apps/pages/alanwalton/package.json
+index 6024d29a28faf16cf31be23bae2dee95da944423..03d056c2866200812d8eec6f0cc80edb1f6dfeea 100644
+--- a/code-system/ios-apps/pages/alanwalton/package.json
++++ b/code-system/ios-apps/pages/alanwalton/package.json
+@@ -6,8 +6,8 @@
+   "description": "iOS Capacitor shell (thin WKWebView over the live alanwalton.com site) + offline-audio native seam, written by the alanwalton-ios-seam shell script and the twenty-one it sources. Built on the macbook via Xcode.",
+   "scripts": {
+     "cap": "cap",
+-    "ios:add": "bash shell-scripts/alanwalton-ios-add/alanwalton-ios-add.shell-script.shell.sh add",
+-    "ios:sync": "bash shell-scripts/alanwalton-ios-add/alanwalton-ios-add.shell-script.shell.sh sync",
++    "ios:add": "bash scripts/ios-add/alanwalton-ios-add.shell-script.shell.sh add",
++    "ios:sync": "bash scripts/ios-add/alanwalton-ios-add.shell-script.shell.sh sync",
+     "ios:open": "cap open ios"
+   },
+   "dependencies": {
