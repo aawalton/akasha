@@ -21,7 +21,7 @@ export const apnsSending = {
     },
     {
       invariantKind: "departure",
-      statement: "A 410 answer and a bad device token both mark that token to be dropped.",
+      statement: "A 410 answer or a bad device token marks that token to be dropped.",
     },
     {
       invariantKind: "departure",
