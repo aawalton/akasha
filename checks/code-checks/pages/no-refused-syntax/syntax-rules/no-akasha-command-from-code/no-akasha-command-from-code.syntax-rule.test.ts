@@ -53,7 +53,7 @@ test("the command's name argued to another program is left", () => {
 })
 
 test("a file sitting in the dispatcher's own folder is refused nothing", () => {
-  const at = "akasha/command-system/cli/cli.module.test.ts"
+  const at = "command-system/cli/cli.module.test.ts"
   const text = 'Bun.spawnSync([process.execPath, "akasha/command-system/cli/cli.module.code.ts"])\n'
   expect(noAkashaCommandFromCode({ path: at, source: parsedAs(at, text) })).toEqual([])
 })
