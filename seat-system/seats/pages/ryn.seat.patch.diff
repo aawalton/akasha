@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/move/move.command.ts b/command-system/commands/move/move.command.ts
-index 06819a89735338d86a2b6ad59215869fea03196b..00008dac2c044dbb7ab3ecb89e2ffcf46e095bca 100644
+index 06819a89735338d86a2b6ad59215869fea03196b..731afa0a8be6415b12fa29906842d5cc8edece99 100644
 --- a/command-system/commands/move/move.command.ts
 +++ b/command-system/commands/move/move.command.ts
 @@ -60,7 +60,7 @@ export const move = {
@@ -11,3 +11,12 @@ index 06819a89735338d86a2b6ad59215869fea03196b..00008dac2c044dbb7ab3ecb89e2ffcf4
      },
      {
        invariantKind: "departure",
+@@ -274,7 +274,7 @@ export const move = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The files that reached in by a relative path are reported apart from those files that spelled one.",
++        "Files reaching in by a relative path are reported apart from files spelling the path itself.",
+     },
+     {
+       invariantKind: "absence",
