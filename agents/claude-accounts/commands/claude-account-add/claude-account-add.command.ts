@@ -31,7 +31,8 @@ export const claudeAccountAdd = {
     },
     {
       invariantKind: "departure",
-      statement: "The slot is one above the highest any page states, unless a slot is named.",
+      statement:
+        "The slot is a step above the highest slot any page states unless a slot is named.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +44,7 @@ export const claudeAccountAdd = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here signs in, reads a token, or writes a secret.",
+      statement: "Nothing here signs in or reads a token or writes a secret.",
     },
   ],
 } as const satisfies Command
