@@ -21,6 +21,8 @@ export const pageProperty = {
   partSlugs: [
     "module/page-property-key",
     "number-property/max",
+    "number-property/max-count",
+    "number-property/max-length",
     "number-property/total",
     "relation-property/generator",
     "relation-property/unique",
@@ -49,7 +51,7 @@ export const pageProperty = {
     {
       invariantKind: "departure",
       statement:
-        "How many of a property a page carries is stated where that property is declared rather than here.",
+        "How many values a page carries is stated in the declaration rather than on the property.",
     },
     {
       invariantKind: "departure",
