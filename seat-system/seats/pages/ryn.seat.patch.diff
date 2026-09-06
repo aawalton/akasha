@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipes.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipes.page-property-entry.ts
+index cf2100be44919530b2165b7697ed05aa0dffcfc5..939e92a5d32ceba265f1717865c7003b9eb361bf 100644
+--- a/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipes.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipes.page-property-entry.ts
+@@ -15,7 +15,7 @@ export const recipes = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A recipe here is one a player learns from an item the game names.",
++      statement: "A recipe here is a recipe a player learns from an item the game names.",
+     },
+     {
+       invariantKind: "departure",
