@@ -1,0 +1,15 @@
+diff --git a/domains/findings/finding.page-type.ts b/domains/findings/finding.page-type.ts
+index 320c26f719b22736949e67ae3d7b861b99487e8c..f8e71485265f5df0861c90e05952c78660efa13d 100644
+--- a/domains/findings/finding.page-type.ts
++++ b/domains/findings/finding.page-type.ts
+@@ -41,6 +41,10 @@ export const finding = {
+       invariantKind: "departure",
+       statement: "A finding carried into a domain intent or an initiative intent is done.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A finding written into the book section holding its subject is done.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A finding ruled not worth acting on is done.",
