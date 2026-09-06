@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/where-an-artificial-channel-sits-on-the-ladder.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-an-artificial-channel-sits-on-the-ladder.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6c2e119b0a80f2aa9acd7837f1fcf19b143c0b52
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-an-artificial-channel-sits-on-the-ladder.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereAnArtificialChannelSitsOnTheLadder = {
++  id: "01a077ea-d370-71ae-98f7-0dfb612201d6",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-an-artificial-channel-sits-on-the-ladder",
++  topicSlug: "what-the-channel-has-to-carry",
++  ask: "What is my measured response curve across text, picture, voice and in person against the loneliness gauge, and where does an artificial channel sit on that ladder today?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-channel-carries-being-attended-to.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-channel-carries-being-attended-to.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..453ba5cf26e70247ecd70c2a6accf946a993f9f6
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-channel-carries-being-attended-to.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichChannelCarriesBeingAttendedTo = {
++  id: "01a077ea-d36f-75bc-b7c8-d61ab8a2e7d8",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-channel-carries-being-attended-to",
++  topicSlug: "what-the-channel-has-to-carry",
++  ask: "Which physical channel actually carries the sense of being attended to, and why does a nervous system like mine read that sense through sheer bandwidth?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-the-channel-has-to-carry.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-the-channel-has-to-carry.all-about-alan-topic.ts
+index 292952e64512e0321ba80451fb5c656c1f6085a4..22a9f5e9bd38ff9c9cd90bb281fabe53bbad3787 100644
+--- a/alan/books/all-about-alan/topics/pages/what-the-channel-has-to-carry.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-the-channel-has-to-carry.all-about-alan-topic.ts
+@@ -11,6 +11,4 @@ export const whatTheChannelHasToCarry = {
+   relatedSlugs: ["being-known", "how-much-of-me-is-machine"],
+   settled:
+     "It keys on how much reaches my senses, not on whether a real mind is there.\n\nText alone pays my body almost nothing. A picture measurably helps. Voice should help more, and I am building toward it.\n\nBeing real and having stakes rode along with high fidelity, which is why they looked like the gate.\n\nThere is probably no ceiling: a channel rich enough would feed the need outright.\n\nStripping a channel back makes it cheap and clear for my mind, and is the same thing that stops it reaching my body.",
+-  unsettled:
+-    "Which physical channel is actually carrying the sense of being attended to, and why a nervous system like mine reads it through sheer bandwidth, is unexplained.\n\nA measured response curve across text, picture, voice and in person, against the loneliness gauge, would turn the climb into a ladder and say where an artificial channel sits on it today.",
+ } as const satisfies AllAboutAlanTopic
