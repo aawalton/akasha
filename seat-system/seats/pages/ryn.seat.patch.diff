@@ -1,8 +1,22 @@
 diff --git a/domains/plain-language/parse-cache/parse-cache.module.ts b/domains/plain-language/parse-cache/parse-cache.module.ts
-index 1d1797f33408b54f9307bcd712e0c891698097c7..e00071b39faeba908d4e23e7c73ff0ec6dadbe31 100644
+index 1d1797f33408b54f9307bcd712e0c891698097c7..dee686f4075ea034230f5aa0f77d85afebec78b5 100644
 --- a/domains/plain-language/parse-cache/parse-cache.module.ts
 +++ b/domains/plain-language/parse-cache/parse-cache.module.ts
-@@ -33,7 +33,7 @@ export const parseCache = {
+@@ -14,8 +14,11 @@ export const parseCache = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A key is a hash, so a text that moves between files keeps the parse already taken.",
++      statement: "A key is a hash.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A text that moves between files keeps the parse already taken.",
+     },
+     {
+       invariantKind: "departure",
+@@ -33,7 +36,7 @@ export const parseCache = {
      {
        invariantKind: "departure",
        statement:
