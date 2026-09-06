@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/person-system/device-tokens/device-token.page-type.ts b/person-system/device-tokens/device-token.page-type.ts
+index 0fce61545b2596112251eafebfb604dbafe7cfb9..18da9fe84b204df8525d0d3219394a93fc4162d0 100644
+--- a/person-system/device-tokens/device-token.page-type.ts
++++ b/person-system/device-tokens/device-token.page-type.ts
+@@ -52,7 +52,7 @@ export const deviceToken = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Registering a token again replaces the one that was there.",
++      statement: "Registering a token again replaces the token that was there.",
+     },
+     {
+       invariantKind: "departure",
