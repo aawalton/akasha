@@ -1,3 +1,15 @@
+diff --git a/command-system/commands-served/commands-served.module.code.ts b/command-system/commands-served/commands-served.module.code.ts
+index 560ec3509f880d0992686e06618208ecf369e01d..e07f7525932340ff020a2fd7400a04da667d3daf 100644
+--- a/command-system/commands-served/commands-served.module.code.ts
++++ b/command-system/commands-served/commands-served.module.code.ts
+@@ -13,6 +13,7 @@ export const COMMANDS_SERVED: readonly string[] = [
+   "agent-forest",
+   "agent-turn-colors",
+   "claude-usage",
++  "seat-messaged",
+   "seat-transcripts",
+   "work-tree",
+ ]
 diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
 index f60c54f4fcaa28332bace82d0b4599229ec6d290..d75ea2e70ecd28cd76b5285b763b5527c9e3c99c 100644
 --- a/editor-extension/editor-extension.workspace-package.ts
