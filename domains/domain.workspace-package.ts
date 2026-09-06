@@ -7,6 +7,7 @@ export const domain = {
   definition: "how we define how things should be",
   manifest: "json",
   partSlugs: [
+    "module/work-initiatives",
     "page-type/domain",
     "page-type/finding",
     "page-type/initiative",

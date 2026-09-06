@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Given } from "@akasha/command-system/calling"
-import type { InitiativeIntent, InitiativeRow } from "@akasha/editor-extension/work-initiatives"
+import type { InitiativeIntent, InitiativeRow } from "@akasha/domains/work-initiatives"
 import {
   colorsSaid,
   countOf,

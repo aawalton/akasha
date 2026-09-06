@@ -10,7 +10,6 @@ export const editorExtension = {
     "module/champions-tree",
     "module/page-tree-assemble",
     "module/command-server-client",
-    "module/work-initiatives",
     "module/panel-domains",
     "module/terminal-marks",
     "module/domain-tree-ids",
