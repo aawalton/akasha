@@ -1,0 +1,14 @@
+diff --git a/code-system/type-declarations/type-declaration.page-type.ts b/code-system/type-declarations/type-declaration.page-type.ts
+index 0ccaa58031909f5f8aca99a1e5a11d363db666ed..2d463a2069d10bcc294475b29dfa481858ab46e2 100644
+--- a/code-system/type-declarations/type-declaration.page-type.ts
++++ b/code-system/type-declarations/type-declaration.page-type.ts
+@@ -37,9 +37,5 @@ export const typeDeclaration = {
+       invariantKind: "departure",
+       statement: "A module states the types that module alone uses.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "No file ending `.d.ts` is written beside a module.",
+-    },
+   ],
+ } as const satisfies PageType
