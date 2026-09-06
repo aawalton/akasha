@@ -1,5 +1,5 @@
 diff --git a/editor-extension/panel-judging/panel-judging.module.ts b/editor-extension/panel-judging/panel-judging.module.ts
-index adb0a71bb79268a65b6e7f0569caae9c7930f417..6348a5249430cf7dfd482f32956b4f56d19ff951 100644
+index adb0a71bb79268a65b6e7f0569caae9c7930f417..d72d7db0975671663d48005c0ee059aff34fa075 100644
 --- a/editor-extension/panel-judging/panel-judging.module.ts
 +++ b/editor-extension/panel-judging/panel-judging.module.ts
 @@ -11,7 +11,7 @@ export const panelJudging = {
@@ -54,7 +54,20 @@ index adb0a71bb79268a65b6e7f0569caae9c7930f417..6348a5249430cf7dfd482f32956b4f56
      },
      {
        invariantKind: "departure",
-@@ -90,12 +95,15 @@ export const panelJudging = {
+@@ -82,7 +87,11 @@ export const panelJudging = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A surface may be genuinely empty, and emptiness is the answer to report.",
++      statement: "A surface may be genuinely empty.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Emptiness is the answer to report.",
+     },
+     {
+       invariantKind: "departure",
+@@ -90,12 +99,15 @@ export const panelJudging = {
      },
      {
        invariantKind: "departure",
