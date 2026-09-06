@@ -1203,7 +1203,7 @@
         "@akasha/utils-narrow": "workspace:*",
       },
     },
-    "pages/system-service": {
+    "pages/service": {
       "name": "@akasha/pages-service",
       "dependencies": {
         "@akasha/checks": "workspace:*",
@@ -3117,7 +3117,7 @@
 
     "@akasha/pages-query": ["@akasha/pages-query@workspace:pages/query"],
 
-    "@akasha/pages-service": ["@akasha/pages-service@workspace:pages/system-service"],
+    "@akasha/pages-service": ["@akasha/pages-service@workspace:pages/service"],
 
     "@akasha/pages-ui": ["@akasha/pages-ui@workspace:pages/ui"],
 
