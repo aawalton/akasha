@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATAHIrdAAIBiBRNC4RtQs8bUcO61CzutQs7rULO61CzutEEe7UEdvUQR7tJhEx2xEEx1sAAAHN0RAAABNgAAANZABE8AAgHUEgBAGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAcAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwAQGQYQyWeA",
+  "buildHash": "ATAHIqdAAIBiBRNC4RtQs8bUcO61CzutQs7rULO61CzutEEe7UEdvUQR7tJhEx2xEEx1sAAAHN0RAAABNgAAANZABE8AAgHUEgBAGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAcAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwAQGQYQyWeA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -785,6 +785,7 @@
     5791,
     5796,
     5798,
+    5799,
     5802,
     5803,
     5808,
@@ -841,8 +842,13 @@
     5991,
     6003,
     6014,
+    6025,
+    6046,
+    6047,
+    6048,
     6049,
     6050,
+    6052,
     6053,
     6057,
     6058,
@@ -909,6 +915,13 @@
     6218,
     6227,
     6228,
+    6241,
+    6243,
+    6244,
+    6245,
+    6246,
+    6259,
+    6266,
     6296,
     6300,
     6301,
@@ -6888,8 +6901,8 @@
     "groupDungeonTotal": 26,
     "tutorial": 0,
     "skyshardPoints": 176,
-    "unassigned": 127,
-    "zoneQuestTotal": 85,
+    "unassigned": 139,
+    "zoneQuestTotal": 97,
     "publicDungeons": {
       "EP4": 1,
       "AD1": 1,
@@ -7068,7 +7081,7 @@
       "HB": 6,
       "CL": 0,
       "SU": 3,
-      "MM": 0,
+      "MM": 7,
       "WP": 0,
       "NE": 2,
       "BW": 0,
@@ -7078,14 +7091,14 @@
       "AD3": 3,
       "AD4": 3,
       "GC": 8,
-      "CC": 3,
+      "CC": 8,
       "WW": 0,
       "EP5": 3,
       "EP1": 3,
       "AP": 8,
       "GY": 0
     },
-    "total": 415,
+    "total": 427,
     "maelstromArena": 1
   },
   "traitResearch": {
@@ -12101,6 +12114,15 @@
       }
     },
     "726": {
+      "1": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7
+      },
       "2": {
         "1": 1
       },
@@ -12113,7 +12135,8 @@
         "1": 1,
         "2": 2,
         "3": 3,
-        "4": 5
+        "4": 5,
+        "5": 5
       },
       "5": {
         "1": 1,
@@ -12136,7 +12159,8 @@
         "2": 2,
         "3": 3,
         "4": 5,
-        "5": 6
+        "5": 6,
+        "6": 6
       },
       "14": {
         "1": 3
@@ -12304,7 +12328,8 @@
         "11": 13,
         "12": 14,
         "13": 15,
-        "14": 15
+        "14": 15,
+        "15": 15
       },
       "5": {
         "1": 1,
@@ -12466,7 +12491,12 @@
       "1": {
         "1": 1,
         "2": 2,
-        "3": 3
+        "3": 3,
+        "4": 4,
+        "5": 5,
+        "6": 6,
+        "7": 7,
+        "8": 8
       },
       "2": {
         "1": 3
@@ -12501,7 +12531,8 @@
       "10": {
         "1": 2,
         "2": 5,
-        "3": 5
+        "3": 5,
+        "4": 5
       },
       "11": {
         "1": 1,
@@ -14700,7 +14731,10 @@
       "15": 20,
       "16": 22,
       "17": 23,
-      "18": 24
+      "18": 24,
+      "19": 22,
+      "20": 23,
+      "21": 24
     },
     "816": {
       "1": 1,
@@ -14793,7 +14827,9 @@
       "39": 85,
       "40": 91,
       "41": 85,
-      "42": 91
+      "42": 91,
+      "43": 85,
+      "44": 91
     },
     "888": {
       "1": 1,
@@ -14880,7 +14916,8 @@
       "9": 16,
       "10": 17,
       "11": 18,
-      "12": 18
+      "12": 18,
+      "13": 18
     },
     "1011": {
       "1": 1,
@@ -15381,8 +15418,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "completed": 7,
-    "date": "2026-09-04"
+    "date": "2026-09-04",
+    "completed": 7
   },
   "dailyWritStates": {
     "completed": {

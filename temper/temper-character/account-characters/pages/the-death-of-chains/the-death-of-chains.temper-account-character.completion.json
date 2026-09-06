@@ -9,7 +9,7 @@
   "className": "Arcanist",
   "classIcon": "/esoui/art/icons/class/class_arcanist.dds",
   "companionRapport": {
-    "13": 827
+    "13": 832
   },
   "quests": [
     465,
@@ -964,7 +964,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 14,
+            "numCompleted": 15,
             "numRequired": 20
           }
         }
@@ -977,7 +977,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 14,
+            "numCompleted": 15,
             "numRequired": 30
           }
         }
@@ -13339,7 +13339,7 @@
   },
   "dailyWrits": {
     "completed": 7,
-    "date": "2026-09-04"
+    "date": "2026-09-06"
   },
   "dailyWritStates": {
     "completed": {
@@ -13360,7 +13360,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-04"
+    "date": "2026-09-06"
   },
   "motifKnowledge": {
     "1": {
