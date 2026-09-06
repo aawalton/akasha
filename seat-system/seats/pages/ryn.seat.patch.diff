@@ -1,7 +1,16 @@
 diff --git a/command-system/commands/work-tree/work-tree.command.ts b/command-system/commands/work-tree/work-tree.command.ts
-index b3d2d841909b66ae483d03323513eb487fdbce04..1ef18f39083d6dacef40f1f6d59c3a407382cd86 100644
+index b3d2d841909b66ae483d03323513eb487fdbce04..27d80647831afdaaeb2ffe86e11e019f727c8334 100644
 --- a/command-system/commands/work-tree/work-tree.command.ts
 +++ b/command-system/commands/work-tree/work-tree.command.ts
+@@ -66,7 +66,7 @@ export const workTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An intent opens the page of the initiative holding it.",
++      statement: "An intent opens the page of the initiative holding that intent.",
+     },
+     {
+       invariantKind: "departure",
 @@ -74,11 +74,11 @@ export const workTree = {
      },
      {
