@@ -1,0 +1,18 @@
+diff --git a/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts b/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
+index 2fa6862412aabbe5bbd30976a97fe7538caee304..cf3e085b82c2ef4b39033ecd46de08e0812c5f61 100644
+--- a/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
++++ b/alan/fitness/exercise-access/movement-standing/movement-standing.module.ts
+@@ -32,8 +32,11 @@ export const movementStanding = {
+     },
+     {
+       invariantKind: "gap",
+-      statement:
+-        "A set states no time that set was logged, so its sets are ordered by their names.",
++      statement: "A set states no time that set was logged.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A session's sets are ordered by their names.",
+     },
+   ],
+ } as const satisfies Module
