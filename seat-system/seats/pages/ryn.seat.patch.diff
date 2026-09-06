@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/command-system/commands/dev-server/last-lines/last-lines.module.ts b/command-system/commands/dev-server/last-lines/last-lines.module.ts
+index 740daf838370dc7d838b934d36f1df3933dc306b..cd6d12bec8cdc0bb14773c0bd91f6077b22acd04 100644
+--- a/command-system/commands/dev-server/last-lines/last-lines.module.ts
++++ b/command-system/commands/dev-server/last-lines/last-lines.module.ts
+@@ -21,7 +21,8 @@ export const lastLines = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file holding fewer lines than the caller asked for answers with all it holds.",
++      statement:
++        "A file holding fewer lines than the caller asked for answers with every line the file holds.",
+     },
+     {
+       invariantKind: "absence",
