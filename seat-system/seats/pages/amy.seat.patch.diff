@@ -188,3 +188,15 @@ index ac56219bbd0c86c9b5f29267ce4a310b35b8601b..d99a3daf4e066cd517a834fed4647804
    viewPlace: 7,
    layout: "gallery",
    viewSorts: [
+diff --git a/pages/views/pages/personas-covers.view.ts b/pages/views/pages/personas-covers.view.ts
+index 608097ab0342f14b100e123465a40a9ac82f1f6f..13523677a0f3874cc7a7ac453dab71b6784d1ff1 100644
+--- a/pages/views/pages/personas-covers.view.ts
++++ b/pages/views/pages/personas-covers.view.ts
+@@ -6,6 +6,7 @@ export const personasCovers = {
+   slug: "personas-covers",
+   title: "Covers",
+   navSlug: "personas",
++  pageType: "persona",
+   viewPlace: 2,
+   layout: "gallery",
+   groupSorts: [{ key: "role-slug", descending: false }],
