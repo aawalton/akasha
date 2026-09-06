@@ -9,7 +9,7 @@ export const addonDependencyCycle = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A cycle the search reaches more than once is reported once.",
+      statement: "A cycle the search reaches a second time is reported once.",
     },
     {
       invariantKind: "constraint",
