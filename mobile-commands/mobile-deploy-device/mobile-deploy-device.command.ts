@@ -40,7 +40,7 @@ export const mobileDeployDevice = {
     },
     {
       invariantKind: "departure",
-      statement: "The build runs on the one mac this workstation reaches over ssh.",
+      statement: "The build runs on the single mac this workstation reaches over ssh.",
     },
     {
       invariantKind: "departure",
