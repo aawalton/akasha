@@ -15,6 +15,20 @@ index 0000000000000000000000000000000000000000..44e185dfbaae568481f13c0645b408e6
 +    { resourceName: "grafana-secrets", resourceKey: "GRAFANA_DB_RO_PASSWORD" },
 +  ],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/grafana-ro-password-username.secret.ts b/service-system/secrets/pages/grafana-ro-password-username.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1e09f3d7a4f11f485436d3c819c2029e0406b197
+--- /dev/null
++++ b/service-system/secrets/pages/grafana-ro-password-username.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const grafanaRoPasswordUsername = {
++  id: "01a0769a-c690-792a-9d36-f03a3c409ec6",
++  pageTypeSlug: "secret",
++  slug: "grafana-ro-password-username",
++  placements: [{ resourceName: "grafana-ro-password", resourceKey: "username" }],
++} as const satisfies Secret
 diff --git a/service-system/secrets/pages/postgres-cnpg-superuser-password.secret.ts b/service-system/secrets/pages/postgres-cnpg-superuser-password.secret.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..fea1425afcd0b9b65b0245b5814649572655027f
