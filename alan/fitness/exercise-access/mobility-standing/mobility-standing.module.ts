@@ -10,11 +10,15 @@ export const mobilityStanding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A metric read on each side counts as two, and one read on neither counts as one.",
+      statement: "A metric read on each side counts as two metrics.",
     },
     {
       invariantKind: "departure",
-      statement: "The latest reading of a metric is the one that says its standing.",
+      statement: "A metric read on neither side counts as one metric.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The latest reading of a metric is the reading that says the metric's standing.",
     },
     {
       invariantKind: "departure",
@@ -23,12 +27,15 @@ export const mobilityStanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading is stated as text, as a number, or as text and a number together.",
+      statement: "A reading is stated as text or as a number or as text and a number together.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The readings arrive oldest first, and the way a metric moved is read in that order.",
+      statement: "The readings arrive oldest first.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The way a metric moved is read in the order the readings arrive.",
     },
   ],
 } as const satisfies Module
