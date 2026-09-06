@@ -1,8 +1,17 @@
 readersOweReading: false
 diff --git a/editor-extension/terminal-renaming/terminal-renaming.module.ts b/editor-extension/terminal-renaming/terminal-renaming.module.ts
-index 6576ee5ec45347c15e3f13aefc06c476f78a4980..c55a6381b6f44ffaace7f219f714b8149ad02937 100644
+index 6576ee5ec45347c15e3f13aefc06c476f78a4980..e1a0b645aae4e6ef32b223a758bbfab167c41b6f 100644
 --- a/editor-extension/terminal-renaming/terminal-renaming.module.ts
 +++ b/editor-extension/terminal-renaming/terminal-renaming.module.ts
+@@ -25,7 +25,7 @@ export const terminalRenaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A write of that file, a terminal event or a command starts a naming.",
++      statement: "A write of that file or a terminal event or a command starts a naming.",
+     },
+     {
+       invariantKind: "departure",
 @@ -33,7 +33,7 @@ export const terminalRenaming = {
      },
      {
