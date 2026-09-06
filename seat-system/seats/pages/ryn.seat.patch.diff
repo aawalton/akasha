@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-collections-addon/collections-addon-global/collections-addon-global.module.ts b/temper/temper-collections-addon/collections-addon-global/collections-addon-global.module.ts
+index 4118ca4ccb3bcc2e3c5bb733db521bb751c2c304..5c1da76ddc101912e84ef4c49e6bc9b8ea4e6c87 100644
+--- a/temper/temper-collections-addon/collections-addon-global/collections-addon-global.module.ts
++++ b/temper/temper-collections-addon/collections-addon-global/collections-addon-global.module.ts
+@@ -10,7 +10,7 @@ export const collectionsAddonGlobal = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Another add-on reaches this one through the global rather than through an import.",
++        "Another add-on reaches this add-on through the global rather than through an import.",
+     },
+     {
+       invariantKind: "departure",
