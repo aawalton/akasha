@@ -27,5 +27,9 @@ export const deepLinkOpenSync = {
       invariantKind: "departure",
       statement: "A link the router refuses counts its tap all the same.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A link the listener already carried is not carried again as the launch link.",
+    },
   ],
 } as const satisfies Module

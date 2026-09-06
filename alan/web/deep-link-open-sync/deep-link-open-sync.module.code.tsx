@@ -47,8 +47,11 @@ export function DeepLinkOpenSync() {
       return
     }
 
+    let carried: string | null = null
+
     const route = (url: string | null | undefined, source: string) => {
       if (url == null) return
+      carried = url
       countTap(url)
       const path = decideOpenUrlRoute(url)
       if (path == null) {
@@ -68,8 +71,12 @@ export function DeepLinkOpenSync() {
       if (removed) void h.remove()
       else handle = h
       try {
+        // A COLD LAUNCH CAN DELIVER ONE TAP TWICE. The listener is registered before the launch
+        // link is read, so a link the listener already carried is also the link `getLaunchUrl`
+        // answers. Routing twice to one path lands in one place and hides that; a count does not.
         const launch = await plugin.getLaunchUrl()
-        route(launch?.url, "getLaunchUrl")
+        const launched = launch?.url ?? null
+        if (launched !== carried) route(launched, "getLaunchUrl")
       } catch (error: unknown) {
         console.error("[deep-link] getLaunchUrl threw", error)
       }
