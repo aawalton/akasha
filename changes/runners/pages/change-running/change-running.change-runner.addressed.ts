@@ -2,6 +2,12 @@ export type Changes = {
   "change-command/remove-page": Parameters<
     typeof import("../../../command/pages/remove-page/remove-page.change-command.code.ts")["runChange"]
   >[1]
+  "change/add-file": Parameters<
+    typeof import("../../../pages/add-file/add-file.change.code.ts")["runChange"]
+  >[1]
+  "change/change-file": Parameters<
+    typeof import("../../../pages/change-file/change-file.change.code.ts")["runChange"]
+  >[1]
   "change/remove-page": Parameters<
     typeof import("../../../pages/remove-page/remove-page.change.code.ts")["runChange"]
   >[1]

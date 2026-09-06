@@ -35,6 +35,8 @@ export const change = {
     "relation-property/guard-slugs",
     "module/change-shadow",
     "module/change-guarding",
+    "change/add-file",
+    "change/change-file",
     "change/remove-file",
     "change/remove-page",
     "change/remove-property-value",
