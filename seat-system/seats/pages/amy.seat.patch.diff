@@ -12,6 +12,18 @@ index c7a01345aa12810a4af4a918fe9c946d57836afc..8a9dbab6279ba39dc5e569efa0019fb1
    nutritionPoints: 0,
    spannedFromDayBoundary: true,
    completedTasks: "jsonl",
+diff --git a/alan/tracking/daily/wake-days/pages/2026-06-19/wake-day-2026-06-19.wake-day.ts b/alan/tracking/daily/wake-days/pages/2026-06-19/wake-day-2026-06-19.wake-day.ts
+index 97f35e01cc9b2508e5b6243f78ba97ba4722fb75..ac776a5319bdc231f4b4bb84b89b4d10cd9cca9b 100644
+--- a/alan/tracking/daily/wake-days/pages/2026-06-19/wake-day-2026-06-19.wake-day.ts
++++ b/alan/tracking/daily/wake-days/pages/2026-06-19/wake-day-2026-06-19.wake-day.ts
+@@ -28,7 +28,6 @@ export const wakeDay20260619 = {
+   sleepPoints: 445,
+   funPoints: 0,
+   strengthPoints: 2400,
+-  strengthVolume: 2400,
+   cardioPoints: 120,
+   nutritionPoints: 200,
+   breathingPoints: 0,
 diff --git a/alan/tracking/daily/wake-days/pages/2026-06-21/wake-day-2026-06-21.wake-day.ts b/alan/tracking/daily/wake-days/pages/2026-06-21/wake-day-2026-06-21.wake-day.ts
 index e721c0cb16252e89f5a7d06813a05c7a058a0485..7df3bf543dcd253204b10119e4a7d717d091503b 100644
 --- a/alan/tracking/daily/wake-days/pages/2026-06-21/wake-day-2026-06-21.wake-day.ts
