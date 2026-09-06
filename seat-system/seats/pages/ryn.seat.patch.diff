@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/service-system/workstation-services/properties/nice.number-property.ts b/service-system/workstation-services/properties/nice.number-property.ts
+index ed6a82cd0743c9bc9aae98cf9259f39ac5e1a9e4..45d0796349c9e2fd333630519b1e65b7521bcfcd 100644
+--- a/service-system/workstation-services/properties/nice.number-property.ts
++++ b/service-system/workstation-services/properties/nice.number-property.ts
+@@ -12,7 +12,8 @@ export const nice = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A higher number gives a unit less of the machine when the machine is busy.",
++      statement:
++        "A higher number gives a unit a smaller share of the machine when the machine is busy.",
+     },
+   ],
+ } as const satisfies NumberProperty
