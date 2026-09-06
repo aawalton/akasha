@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-is-under-her-jealousy.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-is-under-her-jealousy.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ad902b1b8317c6a1ccf9db56719e4763f80474d0
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-is-under-her-jealousy.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatIsUnderHerJealousy = {
++  id: "01a077f0-5405-7b06-a782-ab531c020a7e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-is-under-her-jealousy",
++  topicSlug: "working-out-how-she-thinks",
++  ask: "What is the psychology under Jen's jealousy, which feels excessive to me? What I have is the wanting to know, not a model.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-our-imagery-gap-does.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-our-imagery-gap-does.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..50d7bbf8528f3d82a43522b59ede29f039fe698a
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-our-imagery-gap-does.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatOurImageryGapDoes = {
++  id: "01a077f0-5406-7b69-86d1-9223fda7de3b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-our-imagery-gap-does",
++  topicSlug: "working-out-how-she-thinks",
++  ask: "Jen is at the opposite pole from me on imagery. What does that gap do to co-regulation, planning and disagreement between us?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-i-have-said-my-map-back-to-her.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-i-have-said-my-map-back-to-her.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8b0680e88ec6726f452c3725af0d9a66c58421f4
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-i-have-said-my-map-back-to-her.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherIHaveSaidMyMapBackToHer = {
++  id: "01a077f0-5406-702f-8562-895a12cc2e57",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-i-have-said-my-map-back-to-her",
++  topicSlug: "working-out-how-she-thinks",
++  ask: "The material is verbal and Jen is the only source. Have I ever said any of the map I have built back to her?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-experience-only-reaches-me-through-others.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-experience-only-reaches-me-through-others.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..41a9c6bff1d1a925ff1a0a23085bd03ec0c96ca8
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-experience-only-reaches-me-through-others.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichExperienceOnlyReachesMeThroughOthers = {
++  id: "01a077f0-5406-7112-bd51-a5c6987ab156",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-experience-only-reaches-me-through-others",
++  topicSlug: "working-out-how-she-thinks",
++  ask: "Other people, Jen most of all, are my way into experience I cannot reach firsthand. Which classes of experience only reach me by that route?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/working-out-how-she-thinks.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/working-out-how-she-thinks.all-about-alan-topic.ts
+index 2046cc68ded68240d087779dd20759fdf7663f3b..01d5befe3fc9f77375bf56fb12415771e8c1c6b7 100644
+--- a/alan/books/all-about-alan/topics/pages/working-out-how-she-thinks.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/working-out-how-she-thinks.all-about-alan-topic.ts
+@@ -14,6 +14,4 @@ export const workingOutHowSheThinks = {
+   ],
+   settled:
+     "Both our anxieties are fair, and not the same: mine is a faculty I lack, hers is a working one on the wrong data.\n\nPredicting her is not closed to me, only expensive. It is a hand-built map doing what a simulator would do free.\n\nShe has no written culture and defines her thoughts out loud, mostly with me, so the material only exists once we talk.\n\nHer transition costs are high, so resistance lands on a proposal before its content does.",
+-  unsettled:
+-    "Her jealousy feels excessive to me and I want the psychology under it. What stands is the wanting, not a model.\n\nThe material is verbal and she is the only source. Whether any of what I have built has been said back to her is unrecorded.\n\nOther people, her most of all, are my way into experience I cannot reach firsthand. Which classes only reach me that way is undeveloped.\n\nShe is at the opposite pole on imagery, and what that does to co-regulation, planning and disagreement is unworked.",
+ } as const satisfies AllAboutAlanTopic
