@@ -49,11 +49,11 @@ export const codeEditorDataInterface = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One service writes every one of these files.",
+      statement: "One service writes every file here.",
     },
     {
       invariantKind: "departure",
-      statement: "The editor reads these files and writes none of these files.",
+      statement: "The editor reads these files and writes no file here.",
     },
     {
       invariantKind: "departure",
