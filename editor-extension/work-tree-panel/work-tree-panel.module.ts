@@ -22,11 +22,15 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The rows the file carries are drawn as they are rather than spelled again.",
+      statement: "The rows the file carries are drawn unchanged rather than spelled again.",
     },
     {
       invariantKind: "departure",
-      statement: "A color is carried on as its name, the decoration being what reads that name.",
+      statement: "A color is carried on as its name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The decoration reads that name.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +38,7 @@ export const workTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The badge counts every row the panel drew, whatever each row is.",
+      statement: "The badge counts every row the panel drew whatever each row is.",
     },
     {
       invariantKind: "departure",
