@@ -1,5 +1,5 @@
 diff --git a/context/warrants/file-property-file/file-property-file.context-warrant.code.ts b/context/warrants/file-property-file/file-property-file.context-warrant.code.ts
-index 74fc9f126e3ddc61c4b7a376f8f2db621cb6e810..b19296a13c2b3bcbcfe21ffd0ef4b14167dd2604 100644
+index 74fc9f126e3ddc61c4b7a376f8f2db621cb6e810..23e858f47fef256cf3a0dfdfe434991450ff2e5f 100644
 --- a/context/warrants/file-property-file/file-property-file.context-warrant.code.ts
 +++ b/context/warrants/file-property-file/file-property-file.context-warrant.code.ts
 @@ -1,6 +1,8 @@
@@ -28,6 +28,15 @@ index 74fc9f126e3ddc61c4b7a376f8f2db621cb6e810..b19296a13c2b3bcbcfe21ffd0ef4b141
    if (listed === undefined) return null
    const oid = blobAt(root, listed.path)
    return oid === null ? null : { path: listed.path, oid, owed: PROPERTY }
+@@ -40,7 +43,7 @@ export function filePropertyFile(root: string, path: string, knowing: Knowing):
+   const oid = blobAt(root, page)
+   if (oid === null) return []
+   const found: Warrant[] = [{ path: page, oid: oid, owed: PAGE }]
+-  const held = propertyOf(root, only)
++  const held = propertyOf(root, said.pageType, only)
+   if (held !== null) found.push(held)
+   return found
+ }
 diff --git a/context/warrants/file-property/file-property.context-warrant.code.ts b/context/warrants/file-property/file-property.context-warrant.code.ts
 index e72d70d4cd601d12a20b4e3a8f4c2994d04eea55..be8fc933276134192289e0264cf1384a609042e9 100644
 --- a/context/warrants/file-property/file-property.context-warrant.code.ts
