@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts b/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
-index 3ceea1d5fe7737660da6df60fca45120b8bdf7be..4bafcd6638ffcbb7602a9388596fa57031c6fed6 100644
+index 3ceea1d5fe7737660da6df60fca45120b8bdf7be..c5af9097c984273fd0d866d96317142957fd23a7 100644
 --- a/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
 +++ b/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
 @@ -46,7 +46,7 @@ export const claudeAccountRenewing = {
@@ -27,3 +27,16 @@ index 3ceea1d5fe7737660da6df60fca45120b8bdf7be..4bafcd6638ffcbb7602a9388596fa570
      },
      {
        invariantKind: "constraint",
+@@ -85,7 +84,11 @@ export const claudeAccountRenewing = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here throws; every failure is answered as an outcome.",
++      statement: "Nothing here throws.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Every failure is answered as an outcome.",
+     },
+     {
+       invariantKind: "absence",
