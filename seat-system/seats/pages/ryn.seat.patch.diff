@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/code-system/code-rule/code-rule.module.ts b/code-system/code-rule/code-rule.module.ts
+index 1319ab77fb9c571f0d0d8013b3d315c597b2bc97..ddbf188b87eb97c4645ea3eaf8c332578cbbe4ce 100644
+--- a/code-system/code-rule/code-rule.module.ts
++++ b/code-system/code-rule/code-rule.module.ts
+@@ -35,7 +35,7 @@ export const codeRule = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A declaration carrying no body says no rule rather than saying an empty one.",
++      statement: "A declaration carrying no body says no rule rather than saying an empty rule.",
+     },
+     {
+       invariantKind: "departure",
