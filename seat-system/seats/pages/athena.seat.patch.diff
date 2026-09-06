@@ -303,6 +303,31 @@ index 8030ed56df1c050226020297c44aaa19cc90159c..a01a69e72d07238083917db1995a0b6f
 +    unreadSeats: 0,
 +  } satisfies AgentTreeState)
 +}
+diff --git a/command-system/commands/agent-forest/agent-forest.command.test.ts b/command-system/commands/agent-forest/agent-forest.command.test.ts
+index 7068d06d9a7c524485014cc42a14ddd1a364a437..bf981f301eee13db66bd88423ae985c4f537f2d9 100644
+--- a/command-system/commands/agent-forest/agent-forest.command.test.ts
++++ b/command-system/commands/agent-forest/agent-forest.command.test.ts
+@@ -47,6 +47,7 @@ const SUBAGENT: SubagentPage = {
+   seat: "astra",
+   own: "0123456789abcdef0",
+   at: "akasha/seat-system/subagents/pages/astra--0123456789abcdef0.subagent.ts",
++  dispatchedAs: "general-purpose",
+ }
+ 
+ function reading(
+@@ -164,6 +165,12 @@ test("what is said is one object carrying the repo, the rows and the subagent pa
+   expect(JSON.parse(saidOf(said)).repo).toBe("/repo")
+ })
+ 
++test("a subagent page carries the kind that subagent was dispatched as", () => {
++  const said: ForestSaid = forestOver("/repo", reading([ASTRA], {}))
++
++  expect(said.subagents[0]?.dispatchedAs).toBe("general-purpose")
++})
++
+ test("a fleet holding no seat answers an empty list rather than nothing at all", () => {
+   const said = JSON.parse(saidOf(forestOver("/repo", reading([], {}))))
+ 
 diff --git a/editor-extension/status-bar-usage/status-bar-usage.module.code.ts b/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
 index 5816968a67a917db9dabdaee3de5604107b76110..35e3ab95ff5ef8e075fc309e1c7c5b8282830ad6 100644
 --- a/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
