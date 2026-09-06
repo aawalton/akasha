@@ -46,20 +46,6 @@ index 0000000000000000000000000000000000000000..a69e2466d5f5064488a65b1182eea350
 +    },
 +  ],
 +} as const satisfies PageType
-diff --git a/alan/books/all-about-alan/questions/pages/how-my-memory-trees-are-shaped.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-my-memory-trees-are-shaped.all-about-alan-question.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..63641ef2722c5ba9d086d279396f611a5af80534
---- /dev/null
-+++ b/alan/books/all-about-alan/questions/pages/how-my-memory-trees-are-shaped.all-about-alan-question.ts
-@@ -0,0 +1,8 @@
-+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
-+
-+export const howMyMemoryTreesAreShaped = {
-+  pageTypeSlug: "all-about-alan-question",
-+  slug: "how-my-memory-trees-are-shaped",
-+  topicSlug: "how-i-remember-anything",
-+  ask: "How wide does a level of one of my memory trees get before I split it, how deep do the trees run, and what makes me choose a level's cue?",
-+} as const satisfies AllAboutAlanQuestion
 diff --git a/alan/books/all-about-alan/questions/pages/where-cueing-stops-working.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-cueing-stops-working.all-about-alan-question.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..f76ded80598d74155b8c8ab5e2987c24490770f7
