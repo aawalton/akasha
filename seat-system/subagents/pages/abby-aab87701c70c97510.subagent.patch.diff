@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-measuring-the-visual-side-would-show.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-measuring-the-visual-side-would-show.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3968dab124db545f2860ee3b5b02efc656749e99
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-measuring-the-visual-side-would-show.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMeasuringTheVisualSideWouldShow = {
++  id: "01a077e5-5c76-79fc-826c-9a80ff7dfb4f",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-measuring-the-visual-side-would-show",
++  topicSlug: "what-my-senses-cost-me",
++  ask: "My auditory case is worked and anchored, and my visual side is only inferred from the auditory one. What would measuring the visual side show?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-my-reading-brightness-tracks.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-my-reading-brightness-tracks.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7d20e986460be35e555f3257c4f5dacc9a1c20c6
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-my-reading-brightness-tracks.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMyReadingBrightnessTracks = {
++  id: "01a077e5-5c77-7336-b38b-fc615bea8830",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-my-reading-brightness-tracks",
++  topicSlug: "what-my-senses-cost-me",
++  ask: "I shift how bright I read at with the time of day without deciding to. Does that track the clock itself, how much light I can take, or how tired my eyes are?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-sensory-processing-label-adds-anything.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-sensory-processing-label-adds-anything.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fe047d65ddc1b6209612ff170fff8cdfbf3f3ffb
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-sensory-processing-label-adds-anything.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheSensoryProcessingLabelAddsAnything = {
++  id: "01a077e5-5c77-7028-ac98-1a79019d684c",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-sensory-processing-label-adds-anything",
++  topicSlug: "what-my-senses-cost-me",
++  ask: "Does the sensory-processing label name anything my own account of what sound, light and touch cost me does not already cover?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-my-senses-cost-me.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-my-senses-cost-me.all-about-alan-topic.ts
+index 829b721aa1be791615478701c14bf84e32df9056..0f8e07c65d21c3443b5406465f2bb9db22199410 100644
+--- a/alan/books/all-about-alan/topics/pages/what-my-senses-cost-me.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-my-senses-cost-me.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const whatMySensesCostMe = {
+   parentSlugs: ["safety-bar"],
+   relatedSlugs: ["how-much-attention-i-have"],
+   settled: "It moves with how safe I feel rather than staying fixed.",
+-  unsettled:
+-    "The auditory case is worked and anchored. The visual side is inferred from it and has not been measured.\n\nI shift how bright I read at with the time of day without deciding to. Whether that tracks the clock itself, or something under it like how much light I can take or how tired my eyes are, is open.\n\nWhether the sensory-processing label names anything this does not already cover is an open framing question.",
+ } as const satisfies AllAboutAlanTopic
