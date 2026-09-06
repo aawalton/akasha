@@ -14,7 +14,11 @@ export const terminalEntryPoints = {
     },
     {
       invariantKind: "departure",
-      statement: "The checkout is whatever the environment names, falling back to the one at home.",
+      statement: "The checkout is whatever the environment names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The checkout at home is used where the environment names no checkout.",
     },
     {
       invariantKind: "departure",
