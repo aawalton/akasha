@@ -1,0 +1,13 @@
+diff --git a/inference/commands/inference-answering/inference-answering.module.ts b/inference/commands/inference-answering/inference-answering.module.ts
+index bc2af5652a48b29e8651b8426376647844974128..20339143facc8444acf2896d04d9cdded51ed69c 100644
+--- a/inference/commands/inference-answering/inference-answering.module.ts
++++ b/inference/commands/inference-answering/inference-answering.module.ts
+@@ -18,7 +18,7 @@ export const inferenceAnswering = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag said more than once holds every value where that flag repeats.",
++      statement: "A flag that repeats holds every value the call said for that flag.",
+     },
+     {
+       invariantKind: "departure",
