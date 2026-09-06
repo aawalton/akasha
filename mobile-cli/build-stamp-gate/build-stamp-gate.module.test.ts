@@ -14,9 +14,9 @@ import {
 } from "./build-stamp-gate.module.code.ts"
 
 const APP = resolveApp("alanwalton")
-const SHARED_SEAM_DIR = "akasha/code-system/ios-apps/scripts"
+const SHARED_SEAM_DIR = "code-system/ios-apps/scripts"
 const STAMP_SEAM_REPO_PATH = `${SHARED_SEAM_DIR}/build-stamp/build-stamp.shell-script.shell.sh`
-const APP_SEAM_DIR = "akasha/code-system/ios-apps/pages"
+const APP_SEAM_DIR = "code-system/ios-apps/pages"
 const COMMIT = "977e7d5a3e2f4fbc3942db6faff252272809668e"
 const IPA = "build/export/App.ipa"
 
