@@ -17,7 +17,7 @@ export const initiativeAncestors = {
     },
     {
       invariantKind: "departure",
-      statement: "An initiative above another is the one that other names as its parent.",
+      statement: "An initiative is above the initiative naming that initiative as its parent.",
     },
     {
       invariantKind: "departure",
