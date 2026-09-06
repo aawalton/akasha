@@ -1,14 +1,20 @@
 readersOweReading: false
 diff --git a/alan/harness/monarch/category-rules/properties/counterpart-within-days.number-property.ts b/alan/harness/monarch/category-rules/properties/counterpart-within-days.number-property.ts
-index 3c25d16cc55b46a56766a5bb5b8f55df47e4682c..1633e9531fc6b751dbfd76b6809cfc2c0075e218 100644
+index 3c25d16cc55b46a56766a5bb5b8f55df47e4682c..4f5ccb20bf339fc9dd7181f8aac86da48db48b3a 100644
 --- a/alan/harness/monarch/category-rules/properties/counterpart-within-days.number-property.ts
 +++ b/alan/harness/monarch/category-rules/properties/counterpart-within-days.number-property.ts
-@@ -12,7 +12,7 @@ export const counterpartWithinDays = {
+@@ -12,11 +12,12 @@ export const counterpartWithinDays = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "A counterpart is a requirement a rule makes rather than one of its clauses.",
 +      statement: "A counterpart is a requirement a rule makes rather than a clause of that rule.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A rule requiring a counterpart settles nothing where none pairs uniquely.",
++      statement:
++        "A rule requiring a counterpart settles nothing where no transaction pairs uniquely.",
      },
      {
        invariantKind: "departure",
