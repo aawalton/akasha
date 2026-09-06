@@ -1,0 +1,139 @@
+diff --git a/command-system/commands/change/change.command.test.ts b/command-system/commands/change/change.command.test.ts
+index 19fdb128555ba1e60c0aff9279e1c17b3b0577ed..d1f3d5f183d3bb0086f862de8dc5e85bc4e17dfe 100644
+--- a/command-system/commands/change/change.command.test.ts
++++ b/command-system/commands/change/change.command.test.ts
+@@ -16,19 +16,23 @@ const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
+ 
+ const MISSING = "akasha/one/missing.module.ts"
+ 
+-const LONE_PAGE = "akasha/three/lone.module.ts"
++const SPARE_PAGE = "akasha/three/spare.module.ts"
+ 
+-const LONE_CODE = "akasha/three/lone.module.code.ts"
++const SPARE_CODE = "akasha/three/spare.module.code.ts"
+ 
+-const LONE: Readonly<Record<string, string>> = {
+-  [LONE_PAGE]: pageOf({
++const SPARE: Readonly<Record<string, string>> = {
++  [SPARE_PAGE]: pageOf({
+     id: idOf("d"),
+     pageTypeSlug: "module",
+-    slug: "lone",
+-    definition: "a page no other page names",
++    slug: "spare",
++    definition: "a page importing the page held",
+     code: "ts",
+   }),
+-  [LONE_CODE]: "export const lone = 1\n",
++  [SPARE_CODE]: 'import { kept } from "../one/held.module.code.ts"\n\nexport const spare = kept\n',
++}
++
++function repo(): string {
++  return indexedRepo(SPARE)
+ }
+ 
+ function pathsIn(root: string): readonly string[] {
+@@ -37,7 +41,7 @@ function pathsIn(root: string): readonly string[] {
+ }
+ 
+ test("a change answers its edits and appends the edits beside the calling agent's page", () => {
+-  const root = indexedRepo()
++  const root = repo()
+ 
+   const said = changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
+ 
+@@ -46,8 +50,8 @@ test("a change answers its edits and appends the edits beside the calling agent'
+   expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
+ })
+ 
+-test("nothing is landed and nothing is written onto the tree", () => {
+-  const root = indexedRepo()
++test("the edits are kept beside the agent's page rather than beside the page changed", () => {
++  const root = repo()
+ 
+   changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
+ 
+@@ -56,7 +60,7 @@ test("nothing is landed and nothing is written onto the tree", () => {
+ })
+ 
+ test("a change reads the world as every edit appended before that change had landed", () => {
+-  const root = indexedRepo()
++  const root = repo()
+   changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
+ 
+   const said = changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
+@@ -66,19 +70,19 @@ test("a change reads the world as every edit appended before that change had lan
+ })
+ 
+ test("two runs leave two sets of edits in the order the runs were made", () => {
+-  const root = indexedRepo(LONE)
++  const root = repo()
+ 
+   changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
+-  changing(root, PAGE, ["remove-page", "--file-path", LONE_PAGE])
++  changing(root, PAGE, ["remove-page", "--file-path", SPARE_PAGE])
+ 
+   const said = pathsIn(root)
+   expect(said.length).toBe(4)
+   expect([...said.slice(0, 2)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
+-  expect([...said.slice(2)].sort()).toEqual([LONE_CODE, LONE_PAGE])
++  expect([...said.slice(2)].sort()).toEqual([SPARE_CODE, SPARE_PAGE])
+ })
+ 
+ test("a change that refuses appends nothing and says why that change refused", () => {
+-  const root = indexedRepo()
++  const root = repo()
+ 
+   const said = changing(root, PAGE, ["remove-page", "--file-path", MISSING])
+ 
+@@ -87,25 +91,25 @@ test("a change that refuses appends nothing and says why that change refused", (
+ })
+ 
+ test("a word naming no change is refused with the changes this command runs", () => {
+-  const said = changing(indexedRepo(), PAGE, ["remove-file", "--file-path", NAMER_PAGE])
++  const said = changing(repo(), PAGE, ["remove-file", "--file-path", NAMER_PAGE])
+ 
+   expect(said.refusals).toEqual(["`remove-file` is no change this runs, which takes `remove-page`"])
+ })
+ 
+ test("a call naming no change is refused with the changes this command runs", () => {
+-  const said = changing(indexedRepo(), PAGE, [])
++  const said = changing(repo(), PAGE, [])
+ 
+   expect(said.refusals).toEqual(["no change is named, and this runs one of `remove-page`"])
+ })
+ 
+ test("a flag the change named does not take is refused", () => {
+-  const said = changing(indexedRepo(), PAGE, ["remove-page", "--message", "why"])
++  const said = changing(repo(), PAGE, ["remove-page", "--message", "why"])
+ 
+   expect(said.refusals).toEqual(["`--message` is no flag this takes"])
+ })
+ 
+ test("a call naming no path is refused", () => {
+-  const said = changing(indexedRepo(), PAGE, ["remove-page"])
++  const said = changing(repo(), PAGE, ["remove-page"])
+ 
+   expect(said.refusals).toEqual([
+     "--file-path names the path the change acts on, and none is given",
+@@ -113,18 +117,14 @@ test("a call naming no path is refused", () => {
+ })
+ 
+ test("a path outside the repository is refused", () => {
+-  const said = changing(indexedRepo(), PAGE, ["remove-page", "--file-path", "/etc/hosts"])
++  const said = changing(repo(), PAGE, ["remove-page", "--file-path", "/etc/hosts"])
+ 
+   expect(said.refusals.length).toBe(1)
+   expect(said.refusals[0] ?? "").toContain("is no path inside the repository")
+ })
+ 
+ test("a path that is no page keeps no edits", () => {
+-  const said = changing(indexedRepo(), "akasha/notes.md", [
+-    "remove-page",
+-    "--file-path",
+-    NAMER_PAGE,
+-  ])
++  const said = changing(repo(), "akasha/notes.md", ["remove-page", "--file-path", NAMER_PAGE])
+ 
+   expect(said.refusals).toEqual(["a path that is no page keeps no edits"])
+ })
