@@ -13,8 +13,7 @@ export const canSellFilter = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule whose action is other than `sell` or `fence-sell` is offered none of this condition.",
+      statement: "A rule whose action is not `sell` or `fence-sell` is not offered this condition.",
     },
   ],
 } as const satisfies Module
