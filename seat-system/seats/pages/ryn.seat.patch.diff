@@ -1,5 +1,5 @@
 diff --git a/alan/harness/plants/reading/plants-reading.module.ts b/alan/harness/plants/reading/plants-reading.module.ts
-index a1f9ccf76a14b622a979ddb8441371b8ea5d55a7..a2f17ae3600820d8ba391d7cb1fed2eb724eb28f 100644
+index a1f9ccf76a14b622a979ddb8441371b8ea5d55a7..0e4a2ea460c3e934c7d49abd3a50a85a518a9f81 100644
 --- a/alan/harness/plants/reading/plants-reading.module.ts
 +++ b/alan/harness/plants/reading/plants-reading.module.ts
 @@ -49,7 +49,8 @@ export const plantsReading = {
@@ -12,3 +12,12 @@ index a1f9ccf76a14b622a979ddb8441371b8ea5d55a7..a2f17ae3600820d8ba391d7cb1fed2eb
      },
      {
        invariantKind: "stopgap",
+@@ -61,7 +62,7 @@ export const plantsReading = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Importing this file takes none.",
++      statement: "Importing this file takes no reading.",
+     },
+     {
+       invariantKind: "absence",
