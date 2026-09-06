@@ -6,13 +6,16 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
+import { gathered } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../modules/change-answer/change-answer.module.types.ts"
-import { worldAt } from "../../modules/change-shadow/change-shadow.module.code.ts"
+import { worldAt, worldOver } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { renamePath } from "./rename-path.change.code.ts"
 
 afterAll(scratch.sweep)
 
 const KEPT = "akasha/one/kept.module.code.ts"
+
+const CARRIED = "akasha/one/carried.module.code.ts"
 
 const NOTHING = (): null => null
 
@@ -73,4 +76,17 @@ test("the path taken away is answered as the move the body arrives by", () => {
   expect(moves[0]?.from).toBe(HELD_CODE)
   expect(moves[0]?.path).toBe(KEPT)
   expect(moves[0]?.was).toBe(text(HELD_CODE))
+})
+
+test("a move off a path the move before it made reads that path and its importers", () => {
+  const root = indexedRepo()
+  const text = textIn(root)
+  const world = worldAt(root, text)
+  const first = renamePath(world, { from: HELD_CODE, to: KEPT })
+  expect(first.refused).toBe(null)
+  const said = renamePath(worldOver(world, gathered([first])), { from: KEPT, to: CARRIED })
+  expect(said.refused).toBe(null)
+  expect(pathsOf(said)).toEqual([CARRIED, NAMER_CODE].sort())
+  expect(bodyIn(said, NAMER_CODE)).toContain("../one/carried.module.code.ts")
+  expect(movesOf(said)[0]?.from).toBe(KEPT)
 })
