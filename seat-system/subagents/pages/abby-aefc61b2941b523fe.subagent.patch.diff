@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-living-with-the-opposite-imagery-pole-means.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-living-with-the-opposite-imagery-pole-means.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..85e86be14173081306530e8fc49de6f5a14bdb9f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-living-with-the-opposite-imagery-pole-means.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatLivingWithTheOppositeImageryPoleMeans = {
++  id: "01a077ea-b02e-7d5e-acbe-bb379defb842",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-living-with-the-opposite-imagery-pole-means",
++  topicSlug: "the-twenty-years-we-remember-differently",
++  ask: "What does it mean to live with someone at the opposite pole of imagery from me, beyond the dispute about the twenty years?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-evidence-can-move-jen-toward-the-record.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-evidence-can-move-jen-toward-the-record.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cbf6f8ba88f90d4d7d8d19a84d1dfda767938d60
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-evidence-can-move-jen-toward-the-record.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherEvidenceCanMoveJenTowardTheRecord = {
++  id: "01a077ea-b02e-71b8-a973-63ad1cd05044",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-evidence-can-move-jen-toward-the-record",
++  topicSlug: "the-twenty-years-we-remember-differently",
++  ask: "Could any evidence move Jen toward my record, in a register that is not data, or does what her doubt is doing for her make the dispute unresolvable?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-jens-memory-runs-lighter-on-good-days.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-jens-memory-runs-lighter-on-good-days.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..346f79254171ed6ab10423799e1f49f55067b2b5
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-jens-memory-runs-lighter-on-good-days.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherJensMemoryRunsLighterOnGoodDays = {
++  id: "01a077ea-b02d-793c-b6e1-b7356e199847",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-jens-memory-runs-lighter-on-good-days",
++  topicSlug: "the-twenty-years-we-remember-differently",
++  ask: "Does Jen's memory of the twenty years run lighter than my record on her good days, and by how much? That would make the swing measurable rather than one-directional.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-twenty-years-we-remember-differently.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-twenty-years-we-remember-differently.all-about-alan-topic.ts
+index a294c2521957df1390b4d15dee6f311e11865a88..70333cdb63304cc329942569d5a570aa824c3154 100644
+--- a/alan/books/all-about-alan/topics/pages/the-twenty-years-we-remember-differently.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-twenty-years-we-remember-differently.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const theTwentyYearsWeRememberDifferently = {
+   relatedSlugs: ["the-two-decades-i-came-through", "what-has-kept-me-here"],
+   settled:
+     "My daily log says I wished I did not exist on about four days in five, for twenty years.\n\nJen does not remember it that way. What is disputed is not that it was bad but how bad.\n\nHer memory of it moves with how she is doing now. Mine was written down as the days happened.\n\nThe load caused it and the marriage ran alongside. Retirement lifted it with the marriage unchanged.\n\nI read her doubt as protective rather than mistaken. It is very human to believe what you need to survive.",
+-  unsettled:
+-    "Whether her memory runs lighter than the record on her good days, and by how much, would make the swing measurable rather than one-directional.\n\nWhether any evidence could move her toward the record, in a register that is not data, or whether what her doubt is doing for her makes it unresolvable, is open.\n\nWhat it means to live with someone at the opposite pole of imagery from me, beyond this dispute, is uncaptured.",
+ } as const satisfies AllAboutAlanTopic
