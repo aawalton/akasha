@@ -11,7 +11,7 @@ index 4fa29956026bcf3d71f7826c0dc9f90dbc4ec500..510504cea7fc8c938defa8cf8e489a3c
      "change/rename-export",
      "change/rename-local-variable",
 diff --git a/changes/guards/change-guard.page-type.ts b/changes/guards/change-guard.page-type.ts
-index 9fab83a264edf1adc7affff43d56f88e5307656a..ab559f2e5ca16bb6e3ca374ab91c8d3e8a4b8f34 100644
+index 9fab83a264edf1adc7affff43d56f88e5307656a..34cca0de694ead08ea9d0012414a3cb11a764d7a 100644
 --- a/changes/guards/change-guard.page-type.ts
 +++ b/changes/guards/change-guard.page-type.ts
 @@ -10,7 +10,7 @@ export const changeGuard = {
@@ -29,7 +29,7 @@ index 9fab83a264edf1adc7affff43d56f88e5307656a..ab559f2e5ca16bb6e3ca374ab91c8d3e
      },
 +    {
 +      invariantKind: "departure",
-+      statement: "A guard reads the committed index for what the change leaves out of that index.",
++      statement: "A guard reads the committed index for a page the change takes away.",
 +    },
      {
        invariantKind: "departure",
