@@ -1,8 +1,13 @@
 diff --git a/seat-system/terminal-init/document-present/document-present.module.ts b/seat-system/terminal-init/document-present/document-present.module.ts
-index 6fb2094a07fde6fb35e28ffc22f94b10810f9e08..d060f261a25b751a13498bb5dcf02de9c2f1b32d 100644
+index 6fb2094a07fde6fb35e28ffc22f94b10810f9e08..d2555b3874223a298d2d5c3eb0edb0464e9be6bc 100644
 --- a/seat-system/terminal-init/document-present/document-present.module.ts
 +++ b/seat-system/terminal-init/document-present/document-present.module.ts
-@@ -18,12 +18,15 @@ export const documentPresent = {
+@@ -14,16 +14,19 @@ export const documentPresent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A shape is the path of a page that is there, with its slug blanked out.",
++      statement: "A shape is the path of a page that is there with its slug blanked out.",
      },
      {
        invariantKind: "departure",
