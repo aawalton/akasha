@@ -13,7 +13,7 @@ export const pageStem = {
     },
     {
       invariantKind: "departure",
-      statement: "An apostrophe closes the gap rather than opening one.",
+      statement: "An apostrophe closes the gap rather than opening a gap.",
     },
     {
       invariantKind: "departure",
