@@ -82,3 +82,15 @@ index 96e90888da47eec1a6291c9f7bfda31a88a47520..522c3406d1c5280ef238133e9de96a82
    viewPlace: 1,
    narrows: [
      { key: "completed-at", comparison: "empty", values: ["true"] },
+diff --git a/pages/views/pages/tracking-value-levels.view.ts b/pages/views/pages/tracking-value-levels.view.ts
+index 41e6915d2414e8e75300db44616cd3d5a5a9598d..62d73eafe8dcb0198b260873dfd68194524fc079 100644
+--- a/pages/views/pages/tracking-value-levels.view.ts
++++ b/pages/views/pages/tracking-value-levels.view.ts
+@@ -6,6 +6,7 @@ export const trackingValueLevels = {
+   slug: "tracking-value-levels",
+   title: "Value Levels",
+   navSlug: "tracking",
++  pageType: "wake-day",
+   viewPlace: 1,
+   layout: "table",
+   viewSorts: [{ key: "date", descending: true }],
