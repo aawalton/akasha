@@ -19,6 +19,7 @@ export const page = {
     "module/page-entry-queue",
     "module/page-entry-writing",
     "module/page-export-name",
+    "module/page-file-body",
     "module/page-file-name",
     "module/page-file-parts",
     "module/page-secret",

@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "exports": {
+    "./akasha-page-values": "./akasha-page-values/akasha-page-values.module.code.ts",
     "./boolean-property": "./boolean-properties/boolean-property.page-type.ts",
     "./calculation-loading": "./calculation-loading/calculation-loading.module.code.ts",
     "./calendar-date-property": "./calendar-date-properties/calendar-date-property.page-type.ts",
@@ -16,7 +17,9 @@
     "./file-property": "./file-properties/file-property.page-type.ts",
     "./generator-kind": "./generator-kinds/generator-kind.page-type.ts",
     "./generator-kind/uuid-v7": "./generator-kinds/pages/uuid-v7.generator-kind.ts",
+    "./index-reading": "./indexes/reading/index-reading.module.code.ts",
     "./instant-property": "./instant-properties/instant-property.page-type.ts",
+    "./live-store-write-guard": "./live-store-write-guard/live-store-write-guard.module.code.ts",
     "./markdown-document": "./markdown-document/markdown-document.module.code.ts",
     "./markdown-page-at": "./markdown-page-at/markdown-page-at.module.code.ts",
     "./markdown-page-name": "./markdown-page-name/markdown-page-name.module.code.ts",
@@ -48,6 +51,7 @@
     "./page-entry-queue": "./entry-queue/page-entry-queue.module.code.ts",
     "./page-entry-writing": "./entry-writing/page-entry-writing.module.code.ts",
     "./page-export-name": "./export-name/page-export-name.module.code.ts",
+    "./page-file-body": "./file-body/page-file-body.module.code.ts",
     "./page-file-name": "./file-name/page-file-name.module.code.ts",
     "./page-file-parts": "./file-parts/page-file-parts.module.code.ts",
     "./page-landing-journal": "./landing-journal/page-landing-journal.module.code.ts",
@@ -69,8 +73,8 @@
     "./page-type-descent": "./types/descent/page-type-descent.module.code.ts",
     "./page-type-properties": "./types/declared-properties/declared-properties.module.code.ts",
     "./page-uncommitted": "./uncommitted/page-uncommitted.module.code.ts",
-    "./page-value-key": "./value-key/page-value-key.module.code.ts",
     "./page-value": "./value/page-value.module.code.ts",
+    "./page-value-key": "./value-key/page-value-key.module.code.ts",
     "./page/id": "./properties/id.text-property.ts",
     "./page/slug": "./properties/slug.text-property.ts",
     "./phone-number-property": "./phone-number-properties/phone-number-property.page-type.ts",
@@ -81,11 +85,8 @@
     "./repo-path": "./repo-path/repo-path.module.code.ts",
     "./select-property": "./select-properties/select-property.page-type.ts",
     "./shadow": "./shadow/shadow.module.code.ts",
-    "./text-property": "./text-properties/text-property.page-type.ts",
-    "./url-property": "./url-properties/url-property.page-type.ts",
-    "./live-store-write-guard": "./live-store-write-guard/live-store-write-guard.module.code.ts",
     "./test-run-marking": "./test-run-marking/test-run-marking.module.code.ts",
-    "./akasha-page-values": "./akasha-page-values/akasha-page-values.module.code.ts",
-    "./index-reading": "./indexes/reading/index-reading.module.code.ts"
+    "./text-property": "./text-properties/text-property.page-type.ts",
+    "./url-property": "./url-properties/url-property.page-type.ts"
   }
 }

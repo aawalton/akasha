@@ -99,6 +99,7 @@ export function queryIn(given: unknown): Read {
     descending?: boolean
     limit?: number
     offset?: number
+    files?: readonly string[]
   } = { pageTypeSlug }
   if (held.where !== undefined) {
     const where = objectIn(held.where)
@@ -131,6 +132,11 @@ export function queryIn(given: unknown): Read {
   if (held.offset !== undefined) {
     if (typeof held.offset !== "number") return { refused: "`offset` is a number" }
     query.offset = held.offset
+  }
+  if (held.files !== undefined) {
+    const files = stringsIn(held.files)
+    if (files === null) return { refused: "`files` is a list of strings" }
+    query.files = files
   }
   return { query }
 }

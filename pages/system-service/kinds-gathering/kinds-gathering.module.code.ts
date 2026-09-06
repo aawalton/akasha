@@ -4,6 +4,7 @@ import { readingIn, type Valued, valuesOfType } from "@akasha/indexes"
 import { workIn } from "@akasha/pages/calculation-loading"
 import { type Computed, computingOver, type Subject } from "@akasha/pages/page-computing"
 import { entriedValue } from "@akasha/pages/page-entries"
+import { filedValue } from "@akasha/pages/page-file-body"
 import { kindsUnder } from "@akasha/pages/page-type-descent"
 import {
   type Carried,
@@ -148,11 +149,13 @@ export function computedInto(counting: readonly Counting[]): Counted {
 function valuedFor(
   root: string,
   read: readonly Valued[],
-  carried: readonly Carried[]
+  carried: readonly Carried[],
+  files: readonly string[]
 ): readonly Valued[] {
   return read.map((one) => {
     const beside = wholeValue(root, one.path, one.value)
-    const whole = entriedValue(root, one.path, beside, carried)
+    const entried = entriedValue(root, one.path, beside, carried)
+    const whole = filedValue(root, one.path, entried, carried, files)
     return whole === one.value ? one : { path: one.path, value: whole }
   })
 }
@@ -160,7 +163,8 @@ function valuedFor(
 export function gatheredFor(
   root: string,
   pageTypeSlug: string,
-  carried: readonly Carried[]
+  carried: readonly Carried[],
+  files: readonly string[] = []
 ): readonly Counting[] {
   const source = sourceFor(root)
   const counting: Counting[] = []
@@ -169,7 +173,7 @@ export function gatheredFor(
     if (read.length === 0) continue
     const own = kind === pageTypeSlug ? carried : carriedFor(root, kind, source)
     const computed = computedFor(root, own)
-    for (const row of valuedFor(root, read, own)) counting.push({ row, computed })
+    for (const row of valuedFor(root, read, own, files)) counting.push({ row, computed })
   }
   return counting
 }

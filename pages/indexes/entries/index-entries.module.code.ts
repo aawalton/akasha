@@ -43,7 +43,7 @@ export function under(repo: string, path: string): string {
   return isAbsolute(path) ? relative(repo, path) : path
 }
 
-const FILE_PROPERTY = "file-property"
+export const FILE_PROPERTY = "file-property"
 
 export const ENTRY_PROPERTY = "page-property-entry"
 

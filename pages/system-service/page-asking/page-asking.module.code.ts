@@ -50,6 +50,7 @@ export type Query = {
   readonly descending?: boolean
   readonly limit?: number
   readonly offset?: number
+  readonly files?: readonly string[]
 }
 
 export type Row = Readonly<Record<string, unknown>>
@@ -234,7 +235,7 @@ export function asking(root: string, query: Query): Asked {
   if (unnamed !== null) return { refused: unnamed }
   let held: readonly Valued[]
   try {
-    const counted = computedInto(gatheredFor(root, query.pageTypeSlug, carried))
+    const counted = computedInto(gatheredFor(root, query.pageTypeSlug, carried, query.files ?? []))
     const darkened = unlit(query, counted.dark)
     if (darkened !== null) return { refused: darkened }
     held = counted.rows.filter((one) => narrows(one.value, query.where))
