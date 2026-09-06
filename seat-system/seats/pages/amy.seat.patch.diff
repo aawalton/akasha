@@ -1,3 +1,15 @@
+diff --git a/pages/views/pages/tasks-not-completed.view.ts b/pages/views/pages/tasks-not-completed.view.ts
+index 916e7797a06bb42e023677b1517fed8b8d97d2bf..309cfc29187357a86d8fba90c4ff0e231c3019f5 100644
+--- a/pages/views/pages/tasks-not-completed.view.ts
++++ b/pages/views/pages/tasks-not-completed.view.ts
+@@ -6,6 +6,7 @@ export const tasksNotCompleted = {
+   slug: "tasks-not-completed",
+   title: "Not Completed",
+   navSlug: "tasks",
++  pageType: "to-do",
+   viewPlace: 2,
+   layout: "cards",
+   narrows: [{ key: "completed-at", comparison: "empty", values: ["true"] }],
 diff --git a/pages/views/pages/tasks-today.view.ts b/pages/views/pages/tasks-today.view.ts
 index 5d157e7cebb9f5d4105ad96fc9e3b74e25132b9a..c2f637bc6ad1890b3611744b315d9e6ebe6f1250 100644
 --- a/pages/views/pages/tasks-today.view.ts
