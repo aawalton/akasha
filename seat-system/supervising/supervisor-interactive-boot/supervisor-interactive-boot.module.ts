@@ -14,11 +14,13 @@ export const supervisorInteractiveBoot = {
     },
     {
       invariantKind: "departure",
-      statement: "An inherited Claude settles the process id, account, agent id and session id.",
+      statement:
+        "An inherited Claude settles the process id and account and agent id and session id.",
     },
     {
       invariantKind: "departure",
-      statement: "An agent id is created only where neither the handoff nor the options carry one.",
+      statement:
+        "An agent id is created only where neither the handoff nor the options carry an agent id.",
     },
     {
       invariantKind: "departure",
@@ -35,8 +37,11 @@ export const supervisorInteractiveBoot = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing here spawns a Claude child; this module readies the setup a child will need.",
+      statement: "Nothing here spawns a Claude child.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This module readies the setup a child will need.",
     },
     {
       invariantKind: "departure",
