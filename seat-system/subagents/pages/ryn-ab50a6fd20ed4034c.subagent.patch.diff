@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.ts
+index aa8eb38e237cd70ecf99d475a552bbe38b0be2ce..3cc77ad45200468b29d4ad601a0d477df93e8090 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.ts
+@@ -14,7 +14,8 @@ export const terminalSeatMapping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A client runs under a shell where the parent chain from that client reaches it.",
++      statement:
++        "A client runs under a shell where the parent chain from that client reaches that shell.",
+     },
+     {
+       invariantKind: "departure",
