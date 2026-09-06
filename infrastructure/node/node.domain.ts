@@ -19,8 +19,11 @@ export const node = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The GPU memory a node can use is measured from the card, and is less than its nominal size.",
+      statement: "The GPU memory a node can use is measured from the card.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The GPU memory a node can use falls short of the card's nominal size.",
     },
   ],
 } as const satisfies Domain
