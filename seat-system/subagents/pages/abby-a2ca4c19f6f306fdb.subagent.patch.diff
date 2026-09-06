@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-my-harness-holds-each-kind-of-thing.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-my-harness-holds-each-kind-of-thing.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..abc14d42bdea78ad3b381a65da3ef6c5a7147f80
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-my-harness-holds-each-kind-of-thing.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howMyHarnessHoldsEachKindOfThing = {
++  id: "01a077ed-fdca-7106-95ef-f730a4a4789f",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-my-harness-holds-each-kind-of-thing",
++  topicSlug: "small-bites-of-many-things",
++  ask: "How does my harness hold a book, a show, a course, a project or a game? No worked shape has been written for any of the five.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-rotating-and-going-deep-coexist.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-rotating-and-going-deep-coexist.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5845eaddec1d7748550017c91404c5a43038b7d9
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-rotating-and-going-deep-coexist.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howRotatingAndGoingDeepCoexist = {
++  id: "01a077ed-fdcb-70cf-adf9-b56978fcec18",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-rotating-and-going-deep-coexist",
++  topicSlug: "small-bites-of-many-things",
++  ask: "How does rotating across many things coexist with going deep on one? The two may alternate, or they may layer.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-something-enters-and-leaves-the-set.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-something-enters-and-leaves-the-set.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7e71e4bb02408a861bc3c84a4be56f914deb4f48
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-something-enters-and-leaves-the-set.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howSomethingEntersAndLeavesTheSet = {
++  id: "01a077ed-fdcb-7aae-8689-959d8361a371",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-something-enters-and-leaves-the-set",
++  topicSlug: "small-bites-of-many-things",
++  ask: "How does something enter the set I am working through, and how does it leave, finished or quit or forgotten or drifted?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-floor-on-a-bite-is.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-floor-on-a-bite-is.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e5f9b6d905d0534e07553fd096e55b9d1be5698b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-the-floor-on-a-bite-is.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTheFloorOnABiteIs = {
++  id: "01a077ed-fdc9-77d7-baf6-372eb2e9ee3b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-the-floor-on-a-bite-is",
++  topicSlug: "small-bites-of-many-things",
++  ask: "What is the floor on a bite, and does that floor differ between a book, a game and a project?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/small-bites-of-many-things.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/small-bites-of-many-things.all-about-alan-topic.ts
+index d251bee85c5ed8b8bc86d820a5d2743262f34cbf..730072b3a3b706c14844b80925dea2f0253d03ca 100644
+--- a/alan/books/all-about-alan/topics/pages/small-bites-of-many-things.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/small-bites-of-many-things.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const smallBitesOfManyThings = {
+   parentSlugs: ["how-i-get-anything-done"],
+   settled:
+     "Within one thing it stays the same and across the rotation it is always new, so both channels stay lit.\n\nAs long as each bite is over some floor, finishing is guaranteed, so there is nothing to estimate before starting.\n\nComing back after a year feels much like coming back after a day, because only the concept was ever kept.\n\nThe set I am working through cannot live in my head, so it lives in the harness.",
+-  unsettled:
+-    "What the floor on a bite actually is, and whether it differs between a book, a game and a project, is unnamed.\n\nNo worked shape has been written for how the harness holds a book, a show, a course, a project or a game.\n\nHow rotating across many coexists with going deep on one is unworked. They may alternate, or they may layer.\n\nHow something enters the set and how it leaves, finished or quit or forgotten or drifted, has no convention.",
+ } as const satisfies AllAboutAlanTopic
