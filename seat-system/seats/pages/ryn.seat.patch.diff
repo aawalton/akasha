@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts b/readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts
+index 2ca57e37c599cb94444b2e1c645c6e003c20532c..11cd37613837fc3afa631d062ca82015bbe2d26a 100644
+--- a/readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts
++++ b/readout-system/readouts/pages/upkeep-safety/upkeep-safety.readout.ts
+@@ -16,7 +16,7 @@ export const upkeepSafety = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The level now is the one the open tracking session carries.",
++      statement: "The level now is the level the open tracking session carries.",
+     },
+     {
+       invariantKind: "departure",
