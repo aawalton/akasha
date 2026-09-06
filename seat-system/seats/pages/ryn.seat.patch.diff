@@ -1,0 +1,14 @@
+diff --git a/alan/harness/attributes/reading/attributes-reading.module.ts b/alan/harness/attributes/reading/attributes-reading.module.ts
+index 5a16aa5bfad05be8629056ef9e4dbf479744b99d..1f3afc8ab7bcd8ce4d6e3eeb2e14e8400fc2cc0f 100644
+--- a/alan/harness/attributes/reading/attributes-reading.module.ts
++++ b/alan/harness/attributes/reading/attributes-reading.module.ts
+@@ -61,7 +61,8 @@ export const attributesReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The root read is the one the environment states or the one the call was made in.",
++      statement:
++        "The root read is the root the environment states or the folder the call was made in.",
+     },
+     {
+       invariantKind: "absence",
