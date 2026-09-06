@@ -1,5 +1,5 @@
 diff --git a/seat-system/compose-notices/compose-notices.module.ts b/seat-system/compose-notices/compose-notices.module.ts
-index 8fc620e81a1a70307fb9b8582c656e3a6a6a7cf9..c4305f8e5f7d14a43f6a5b18f3ded5fca5abfbc2 100644
+index 8fc620e81a1a70307fb9b8582c656e3a6a6a7cf9..72c615b4189e105728516b236875aed0486052d1 100644
 --- a/seat-system/compose-notices/compose-notices.module.ts
 +++ b/seat-system/compose-notices/compose-notices.module.ts
 @@ -14,11 +14,19 @@ export const composeNotices = {
@@ -24,3 +24,16 @@ index 8fc620e81a1a70307fb9b8582c656e3a6a6a7cf9..c4305f8e5f7d14a43f6a5b18f3ded5fc
      },
      {
        invariantKind: "departure",
+@@ -26,7 +34,11 @@ export const composeNotices = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A folder that is not there, or holds no notice, is refused rather than empty.",
++      statement: "A folder that is not there is refused rather than answered empty.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder holding no notice is refused rather than answered empty.",
+     },
+     {
+       invariantKind: "gap",
