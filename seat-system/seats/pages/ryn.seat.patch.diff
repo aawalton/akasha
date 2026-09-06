@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/alan/fitness/commands/exercise-select/exercise-select.command.ts b/alan/fitness/commands/exercise-select/exercise-select.command.ts
-index 5dabfaaf0e744f45b1a7756c52717bed5a07667f..dc2a501e273b55053796ae3156af4fa4962fb292 100644
+index 5dabfaaf0e744f45b1a7756c52717bed5a07667f..289168456a23a5f7db35baa7e0fbde8555658ef7 100644
 --- a/alan/fitness/commands/exercise-select/exercise-select.command.ts
 +++ b/alan/fitness/commands/exercise-select/exercise-select.command.ts
 @@ -33,11 +33,12 @@ export const exerciseSelect = {
@@ -18,3 +18,12 @@ index 5dabfaaf0e744f45b1a7756c52717bed5a07667f..dc2a501e273b55053796ae3156af4fa4
      },
      {
        invariantKind: "departure",
+@@ -49,7 +50,7 @@ export const exerciseSelect = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here writes a session, a set or a plan.",
++      statement: "Nothing here writes a session or a set or a plan.",
+     },
+   ],
+ } as const satisfies Command
