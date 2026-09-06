@@ -27,7 +27,7 @@ export const temperItemsRulesMatcher = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A matcher answers which items each rule takes and how many.",
+      statement: "A matcher answers which items each rule takes and how many items.",
     },
     {
       invariantKind: "absence",
