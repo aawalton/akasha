@@ -26,7 +26,7 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement: "No page claims this one.",
+      statement: "No page claims the uncommitted file.",
     },
     {
       invariantKind: "departure",
