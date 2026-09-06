@@ -1,5 +1,5 @@
 diff --git a/git/git-answering/git-answering.module.ts b/git/git-answering/git-answering.module.ts
-index 8a7210195c1c57f524996876a8a527fbefea3922..25358d1a7e2eeb0db4082a8249e3ebab867f7795 100644
+index 8a7210195c1c57f524996876a8a527fbefea3922..4c422ff4aff1cc0813731aa48c554b4fdfeff0c9 100644
 --- a/git/git-answering/git-answering.module.ts
 +++ b/git/git-answering/git-answering.module.ts
 @@ -38,7 +38,11 @@ export const gitAnswering = {
@@ -15,3 +15,16 @@ index 8a7210195c1c57f524996876a8a527fbefea3922..25358d1a7e2eeb0db4082a8249e3ebab
      },
      {
        invariantKind: "departure",
+@@ -47,7 +51,11 @@ export const gitAnswering = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "`git-running` runs git the other way, and the two doors are not one.",
++      statement: "`git-running` runs git the other way.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "The two doors are separate.",
+     },
+     {
+       invariantKind: "gap",
