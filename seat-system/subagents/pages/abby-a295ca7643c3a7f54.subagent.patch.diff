@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-i-come-back-out-of-fight-flight-freeze-or-fawn.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-i-come-back-out-of-fight-flight-freeze-or-fawn.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9c7bb28c31e6b80f885fd1bdc3c346c7ac87203c
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-i-come-back-out-of-fight-flight-freeze-or-fawn.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howIComeBackOutOfFightFlightFreezeOrFawn = {
++  id: "01a077e4-89f9-7461-861f-2ae9c3f046a5",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-i-come-back-out-of-fight-flight-freeze-or-fawn",
++  topicSlug: "what-i-do-when-i-am-past-bearing",
++  ask: "Coming back out is worked only for flop. What helps me come out of fight, flight, freeze or fawn, how long does coming out take, and what does not help?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-often-fight-flight-freeze-and-fawn-fire.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-often-fight-flight-freeze-and-fawn-fire.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1f89d848d994066a8d8223f6d9eb432b041536f5
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-often-fight-flight-freeze-and-fawn-fire.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howOftenFightFlightFreezeAndFawnFire = {
++  id: "01a077e4-89f9-7e11-a7a9-f2f302d3863c",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-often-fight-flight-freeze-and-fawn-fire",
++  topicSlug: "what-i-do-when-i-am-past-bearing",
++  ask: "Only flop has a number. How often does fight fire, how often flight, how often freeze, and how often fawn?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-pain-crosses-into-longing.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-pain-crosses-into-longing.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2b55bfc77d57fed3f052c6dbbbb05d62d56552d8
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-pain-crosses-into-longing.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const wherePainCrossesIntoLonging = {
++  id: "01a077e4-89fa-7786-a873-79a598c5c4b1",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-pain-crosses-into-longing",
++  topicSlug: "what-i-do-when-i-am-past-bearing",
++  ask: "Where does pain cross into the kind that generates longing, and does that crossing move with my state or only with the pain?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-knowing-the-mechanism-helps-past-flop.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-knowing-the-mechanism-helps-past-flop.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..23ef45a4106c402cd384191ab98285bec1217ae6
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-knowing-the-mechanism-helps-past-flop.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherKnowingTheMechanismHelpsPastFlop = {
++  id: "01a077e4-89f7-79c5-a4ec-3a557318a59a",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-knowing-the-mechanism-helps-past-flop",
++  topicSlug: "what-i-do-when-i-am-past-bearing",
++  ask: "Does knowing the mechanism help with fight, flight, freeze and fawn the way knowing the mechanism helps with flop?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-i-do-when-i-am-past-bearing.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-i-do-when-i-am-past-bearing.all-about-alan-topic.ts
+index 89d3f4c3e0c7ab845c1c4ef16e8da9b0c2f383a5..61538fe3551cc1c482998a6e7b89b786375a02ae 100644
+--- a/alan/books/all-about-alan/topics/pages/what-i-do-when-i-am-past-bearing.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-i-do-when-i-am-past-bearing.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatIDoWhenIAmPastBearing = {
+   relatedSlugs: ["after-something-alarms-me", "where-safety-has-got-to"],
+   settled:
+     "Meltdown and shutdown name what it looks like from outside. Underneath is fight, flight, freeze, fawn or flop.\n\nThe first four run hot, at minus one or worse, and in the moment I cannot tell them apart.\n\nFlop is the body giving up at minus two, and fires only where I see no way out at all. Half a dozen times in my life.\n\nA flop day swings rather than sitting flat, up when a way out looks possible and back down each time one fails.\n\nKnowing what is happening took the terror out of it.",
+-  unsettled:
+-    "Whether knowing the mechanism helps with the other four the way it helps with flop is unasked.\n\nOnly flop has a number. How often each of the others fires is unrecorded.\n\nComing back out is worked only for flop, where it takes a way forward that holds under load. What helps with the other four, how long it takes and what does not help, is unprobed.\n\nWhere pain crosses into the kind that generates longing is unplaced, and whether that moves with my state or only with the pain is unknown.",
+ } as const satisfies AllAboutAlanTopic
