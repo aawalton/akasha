@@ -23,7 +23,11 @@ export const monarchTag = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A tag is made in Monarch by hand, and nothing here creates one.",
+      statement: "A tag is made in Monarch by hand.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing here creates a tag.",
     },
   ],
 } as const satisfies PageType
