@@ -25,7 +25,7 @@ export const esouiCatalog = {
     },
     {
       invariantKind: "departure",
-      statement: "An entry naming no install folder is carried through as naming none.",
+      statement: "An entry naming no install folder is carried through as naming no folder.",
     },
     {
       invariantKind: "departure",
