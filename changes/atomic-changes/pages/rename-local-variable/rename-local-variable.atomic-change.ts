@@ -23,11 +23,11 @@ export const renameLocalVariable = {
     },
     {
       invariantKind: "departure",
-      statement: "A `var`, a destructuring and an import are refused rather than renamed.",
+      statement: "A `var` or a destructuring or an import is refused rather than renamed.",
     },
     {
       invariantKind: "departure",
-      statement: "The binding is named by an offset any one of its occurrences covers.",
+      statement: "The binding is named by an offset a single occurrence covers.",
     },
     {
       invariantKind: "absence",
