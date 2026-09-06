@@ -29,8 +29,11 @@ export const comfyClient = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A graph ComfyUI served wholly from cache makes no new output, so the prior render is recovered.",
+      statement: "A graph ComfyUI served wholly from cache makes no new output.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A graph that makes no new output is answered with the prior render.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +42,7 @@ export const comfyClient = {
     },
     {
       invariantKind: "departure",
-      statement: "The newest matching prior render is the one recovered.",
+      statement: "The newest matching prior render is the render recovered.",
     },
     {
       invariantKind: "departure",
