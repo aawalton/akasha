@@ -18,7 +18,7 @@ export const pageReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Every body one read answers with is read at that one commit.",
+      statement: "Every body a read answers with is read at that read's commit.",
     },
     {
       invariantKind: "departure",
@@ -70,7 +70,7 @@ export const pageReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The bodies of one read come back through one git process.",
+      statement: "The bodies of a read come back through one git process.",
     },
     {
       invariantKind: "departure",
