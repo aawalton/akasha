@@ -1,7 +1,5 @@
-writerOwesReading: false
-readersOweReading: false
 diff --git a/pages/file-name/page-file-name.module.test.ts b/pages/file-name/page-file-name.module.test.ts
-index 13aa26efd25ab2b745732662022ce04be319a93c..a4f9aaf818a13aa2068583912f2e0e1056334704 100644
+index 13aa26efd25ab2b745732662022ce04be319a93c..a7b99702ba4b99609202d672f4aba001a397aaf7 100644
 --- a/pages/file-name/page-file-name.module.test.ts
 +++ b/pages/file-name/page-file-name.module.test.ts
 @@ -30,13 +30,13 @@ function pageNameIn(path: string): string {
@@ -264,7 +262,7 @@ index 13aa26efd25ab2b745732662022ce04be319a93c..a4f9aaf818a13aa2068583912f2e0e10
      slug: "dalla",
      pageType: "seat",
      sections: ["uncommitted", "ts", "a1b2"],
-@@ -278,13 +266,13 @@ test("a name carrying three sections carries all three, so how many there are is
+@@ -278,36 +266,36 @@ test("a name carrying three sections carries all three, so how many there are is
  })
  
  test("a slug carrying hyphens and digits still anchors the name at its first part", () => {
@@ -278,9 +276,11 @@ index 13aa26efd25ab2b745732662022ce04be319a93c..a4f9aaf818a13aa2068583912f2e0e10
 -  expect(partedIn("akasha/one/temper-0000000000000fff.runtime-error.uncommitted.ts")).toEqual({
 +  expect(partedIn("one/temper-0000000000000fff.runtime-error.uncommitted.ts")).toEqual({
      slug: "temper-0000000000000fff",
-     pageType: "error",
+-    pageType: "error",
++    pageType: "runtime-error",
      sections: ["uncommitted"],
-@@ -293,21 +281,21 @@ test("a slug carrying hyphens and digits still anchors the name at its first par
+     held: "ts",
+   })
  })
  
  test("a part written in anything but lower kebab case answers nothing", () => {
