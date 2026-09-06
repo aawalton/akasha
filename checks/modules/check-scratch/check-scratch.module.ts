@@ -31,7 +31,7 @@ export const checkScratch = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading naming none refuses rather than answering empty.",
+      statement: "A reading naming nothing refuses rather than answering empty.",
     },
     {
       invariantKind: "departure",
@@ -59,13 +59,19 @@ export const checkScratch = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The properties a page type declares are read from its value, so typing one files that value.",
+      statement: "The properties a page type declares are read from that page type's value.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page type files the types above that page type as a list, empty where that page type names none.",
+      statement: "Typing a page type files that page type's value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type files the types above that page type as a list.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That list is empty where the page type names no type above.",
     },
     {
       invariantKind: "absence",
