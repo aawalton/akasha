@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-sets-the-rate-of-a-fall.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-sets-the-rate-of-a-fall.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..45a45b359c2c151dd3e89f29a75424b9d2366671
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-sets-the-rate-of-a-fall.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatSetsTheRateOfAFall = {
++  id: "01a077e8-2836-76a1-b59b-dde1951435b5",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-sets-the-rate-of-a-fall",
++  topicSlug: "what-a-level-of-recovery-costs",
++  ask: "A fall is only described as a fraction of the climb. What sets the rate of a fall, and do particular outside factors carry particular sizes?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-play-is-a-rung-or-its-own-end.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-play-is-a-rung-or-its-own-end.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b98083d0b2da6baae9d55b18d8ee91b387f77f74
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-play-is-a-rung-or-its-own-end.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherPlayIsARungOrItsOwnEnd = {
++  id: "01a077e8-2837-7194-a023-10e45c046063",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-play-is-a-rung-or-its-own-end",
++  topicSlug: "what-a-level-of-recovery-costs",
++  ask: "Is play a rung on this climb, or a thing worth reaching for on its own?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-a-level-of-recovery-costs.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-a-level-of-recovery-costs.all-about-alan-topic.ts
+index d5c8d79d2adeb9f48804cac84bc8c79acc748782..860fcda22cfb971f8e827b98e47cceae7c2a10eb 100644
+--- a/alan/books/all-about-alan/topics/pages/what-a-level-of-recovery-costs.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-a-level-of-recovery-costs.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatALevelOfRecoveryCosts = {
+   relatedSlugs: ["what-is-at-my-floor", "when-something-is-fun"],
+   settled:
+     "A level runs to something like a thousand hours of healing, so the climb is countable in hundreds of hours a rung.\n\nCost and willingness are settled. Healing is self-improvement, and I would pay ten thousand hours without a ledger.\n\nSo the fear is neither. It is whether I last long enough to spend what I would gladly spend.\n\nSlow to climb, fast to fall. Something dropped me from six or seven to the floor once.\n\nGuarding against outside drops is arithmetic, not nerves. I cannot out-climb a fall.",
+-  unsettled:
+-    "The fall is only described as a fraction of the climb. What sets its rate, and whether particular outside factors carry particular sizes, is unprobed.\n\nWhether play is a rung on this climb or a thing worth reaching for on its own was put to me and I did not answer it.",
+ } as const satisfies AllAboutAlanTopic
