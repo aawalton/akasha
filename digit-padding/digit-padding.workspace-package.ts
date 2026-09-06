@@ -22,7 +22,8 @@ export const digitPadding = {
     },
     {
       invariantKind: "departure",
-      statement: "A shorter answer breaks a caller that parses back the answer this writes.",
+      statement:
+        "A shorter answer breaks a caller that parses back the answer this package writes.",
     },
   ],
 } as const satisfies WorkspacePackage
