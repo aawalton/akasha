@@ -22,7 +22,11 @@ export const postReceiveMirror = {
     },
     {
       invariantKind: "departure",
-      statement: "The runner leaves the process group, which the transport sweeps.",
+      statement: "The runner leaves the process group.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The transport sweeps that process group.",
     },
     {
       invariantKind: "departure",
@@ -50,8 +54,7 @@ export const postReceiveMirror = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A push with no ceiling would outlive the reason for that push, so that push carries one.",
+      statement: "A push carries a ceiling.",
     },
     {
       invariantKind: "departure",
