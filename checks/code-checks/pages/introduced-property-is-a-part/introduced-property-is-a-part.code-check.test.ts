@@ -185,6 +185,22 @@ test("a type that stops introducing a property leaves the other introducer refus
   expect(said[0]?.path).toBe(pathFor("two"))
 })
 
+test("a type taken away leaves the other introducer refused", () => {
+  const root = rooted()
+  typed(root, "one", null, ["shared"], [`${TEXT}/shared`])
+  typed(root, "two", null, ["shared"], [])
+  const said = judged(
+    landing(
+      root,
+      { [pathFor("one")]: null },
+      { [pathFor("one")]: bytesOf("one", null, ["shared"], [`${TEXT}/shared`]) }
+    )
+  )
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(pathFor("two"))
+  expect(said[0]?.reason).toContain("`shared`")
+})
+
 test("a part is matched by the slug it addresses, whatever page type it names", () => {
   const root = rooted()
   typed(root, "held", null, ["mine"], ["number-property/mine"])

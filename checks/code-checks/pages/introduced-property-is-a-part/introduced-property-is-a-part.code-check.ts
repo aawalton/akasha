@@ -52,6 +52,14 @@ export const introducedPropertyIsAPart = {
       statement: "A change carrying no page type is passed over before the index is worked out.",
     },
     {
+      invariantKind: "departure",
+      statement: "A change taking a page type away is judged rather than passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type the change takes away is not itself judged.",
+    },
+    {
       invariantKind: "absence",
       statement: "Where the property's page stands in the folders is not judged here.",
     },

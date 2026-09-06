@@ -115,7 +115,6 @@ function reasonFor(propertySlug: string, typeSlug: string): string {
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   if (!change.changed.some((path) => typeNamedIn(path) !== null)) return []
   const carried = carriedBy(change, shadow.index.pageTypesIn())
-  if (!carried.some((one) => typeNamedIn(one.path) !== null)) return []
   const types = everyType(shadow, carried)
   const introducers = introducersIn(types, shadow)
   const said: Judged[] = []
