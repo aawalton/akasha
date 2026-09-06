@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/agent-forest/agent-forest.module.ts b/editor-extension/agent-forest/agent-forest.module.ts
+index 61440f82a1d07f8095daaf68b49cb1379b845976..65a0900fe3bd126530b713fd9857ec7986a13318 100644
+--- a/editor-extension/agent-forest/agent-forest.module.ts
++++ b/editor-extension/agent-forest/agent-forest.module.ts
+@@ -61,7 +61,7 @@ export const agentForest = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A path is joined against the repository the answer named rather than one guessed here.",
++        "A path is joined against the repository the answer named rather than a repository guessed here.",
+     },
+     {
+       invariantKind: "departure",
