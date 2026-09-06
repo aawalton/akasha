@@ -1,3 +1,15 @@
+diff --git a/alan/web/package.json b/alan/web/package.json
+index 8eec761c3074d7a45e5eb893bc795e96a530fb53..1da35824bc1bcaeb5daa434a840c3870e3b88d7d 100644
+--- a/alan/web/package.json
++++ b/alan/web/package.json
+@@ -61,6 +61,7 @@
+     "@akasha/pages-ui-store": "workspace:*",
+     "@akasha/pages-url": "workspace:*",
+     "@akasha/person-system": "workspace:*",
++    "@akasha/personas-core": "workspace:*",
+     "@akasha/reading": "workspace:*",
+     "@akasha/sms-access": "workspace:*",
+     "@akasha/sms-core": "workspace:*",
 diff --git a/alan/web/routes/wallpaper/wallpaper.route.code.ts b/alan/web/routes/wallpaper/wallpaper.route.code.ts
 index d7272fcfcf51ee27da06082b4955ad8095878e95..90c55a9e46797a248d14b665a3a8fdb08a8b7426 100644
 --- a/alan/web/routes/wallpaper/wallpaper.route.code.ts
@@ -142,10 +154,18 @@ index ca4d0d8d0c5a4656e5c08b60028645ce6d6e00ad..0d1741317125482645ffcfd1f92eb8f9
 -  test: "ts",
  } as const satisfies Module
 diff --git a/bun.lock b/bun.lock
-index e327b09593c48110b790d03fd1b7d90df8af1dfc..e0b33a7408bf868360a228c56a6ab179b515141e 100644
+index e327b09593c48110b790d03fd1b7d90df8af1dfc..e6489781ed57f39e4e9098cccd1b039230d93916 100644
 --- a/bun.lock
 +++ b/bun.lock
-@@ -1313,6 +1313,8 @@
+@@ -280,6 +280,7 @@
+         "@akasha/pages-ui-store": "workspace:*",
+         "@akasha/pages-url": "workspace:*",
+         "@akasha/person-system": "workspace:*",
++        "@akasha/personas-core": "workspace:*",
+         "@akasha/reading": "workspace:*",
+         "@akasha/sms-access": "workspace:*",
+         "@akasha/sms-core": "workspace:*",
+@@ -1313,6 +1314,8 @@
      "personas-core": {
        "name": "@akasha/personas-core",
        "dependencies": {
