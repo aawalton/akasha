@@ -11,11 +11,11 @@ export const panelJudging = {
     {
       invariantKind: "constraint",
       statement:
-        "An extension drawing four empty panels activates as cleanly as one drawing a full tree.",
+        "An extension drawing four empty panels activates as cleanly as an extension drawing a full tree.",
     },
     {
       invariantKind: "departure",
-      statement: "Five surfaces are judged: four trees and the status bar.",
+      statement: "Four trees and the status bar are judged.",
     },
     {
       invariantKind: "departure",
@@ -27,11 +27,11 @@ export const panelJudging = {
     },
     {
       invariantKind: "departure",
-      statement: "A row with no label is a blank line in the panel, so that row is red.",
+      statement: "A row with no label is red.",
     },
     {
       invariantKind: "departure",
-      statement: "A row with no id is red, the editor collapsing rows that share one.",
+      statement: "A row with no id is red.",
     },
     {
       invariantKind: "departure",
@@ -47,8 +47,7 @@ export const panelJudging = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A tree drawn from live state is held to no floor, a small answer being a true one.",
+      statement: "A tree drawn from live state is held to no floor.",
     },
     {
       invariantKind: "absence",
@@ -68,13 +67,19 @@ export const panelJudging = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Those two counts carry across because both surfaces read a group through the same membership.",
+      statement: "Those two counts carry across to both surfaces.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A variation selector rides on a glyph without being one, so it is dropped before the count.",
+      statement: "Both surfaces read a group through the same membership.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A variation selector rides on a glyph without being a glyph.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A variation selector is dropped before the count.",
     },
     {
       invariantKind: "departure",
@@ -82,7 +87,11 @@ export const panelJudging = {
     },
     {
       invariantKind: "departure",
-      statement: "A surface may be genuinely empty, and emptiness is the answer to report.",
+      statement: "A surface may be genuinely empty.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Emptiness is the answer to report.",
     },
     {
       invariantKind: "departure",
@@ -90,12 +99,15 @@ export const panelJudging = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Features start together, so the wall is the slowest of those features rather than their sum.",
+      statement: "Features start together.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The wall is the slowest feature rather than the sum of the features.",
     },
     {
       invariantKind: "absence",
-      statement: "No timing budget is pinned, these numbers moving with the load on a shared box.",
+      statement: "No timing budget is pinned.",
     },
     {
       invariantKind: "departure",
@@ -108,7 +120,7 @@ export const panelJudging = {
     },
     {
       invariantKind: "departure",
-      statement: "Where a surface is red, the lines each feature said on activation are printed.",
+      statement: "The lines each feature said on activation are printed where a surface is red.",
     },
     {
       invariantKind: "absence",
