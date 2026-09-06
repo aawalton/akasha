@@ -38,3 +38,22 @@ index bd36ce5ef5097281a791fb426152d932bd62421e..536ff6b02505e4c2bf335deb8cba0829
  }
  
  const GLOBALS: Selector<Body> = {
+diff --git a/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts b/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts
+index 4d4cbb158e04f6682e0289f1708e1bdb32b0a33b..8e8b754117ed0261ea367d569402a386a5d4c4fd 100644
+--- a/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts
++++ b/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts
+@@ -70,7 +70,13 @@ export const globalDeclaredOnce = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refusal against a module the change leaves untouched says so.",
++      statement:
++        "A clash is refused only where the change carries one of the two files declaring the name.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A refusal names the same file whether the change carries that file or the other file.",
+     },
+     {
+       invariantKind: "departure",
