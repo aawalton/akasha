@@ -17,8 +17,11 @@ export const orphanedResourcesSweep = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Only the app namespaces are swept, and in them only Deployments, Services and StatefulSets.",
+      statement: "Only the app namespaces are swept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only Deployments and Services and StatefulSets are swept in those namespaces.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +29,16 @@ export const orphanedResourcesSweep = {
     },
     {
       invariantKind: "departure",
-      statement: "A clean sweep says nothing, so every message this service sends is drift.",
+      statement: "A clean sweep says nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "The manifests compared against are read from the code checkout beside this one.",
+      statement: "Every message this service sends is drift.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The manifests compared against are read from the code checkout beside this checkout.",
     },
   ],
 } as const satisfies WorkstationService
