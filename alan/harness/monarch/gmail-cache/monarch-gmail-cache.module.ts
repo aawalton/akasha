@@ -13,7 +13,8 @@ export const monarchGmailCache = {
     },
     {
       invariantKind: "departure",
-      statement: "Messages are fetched eight at a time rather than one by one or all at once.",
+      statement:
+        "Messages are fetched eight at a time rather than one by one or every message at once.",
     },
     {
       invariantKind: "departure",
@@ -26,8 +27,11 @@ export const monarchGmailCache = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The listing bounds the answer, so a cached message no longer listed is not returned.",
+      statement: "The listing bounds the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cached message no longer listed is not returned.",
     },
     {
       invariantKind: "stopgap",
