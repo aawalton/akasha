@@ -74,3 +74,16 @@ index a9de3b8c68b0ffd7a589a1cc411c319cf23ebda4..dda7c70ce1bb550a3d9ebd9e4d3be95d
    evidence:
      "The seventeen pages under akasha/machines/provisioning/provisioned-files/pages each carry installPath, placedBy, onlyOn and reloadWith, which is everything the placer needs. The script was left spelling the table because it could not be run to test: a wrong projection breaks the workstation on the next provisioning run, and the block forbade installing or linking anything live. The projection is the remaining half of the adaptation and wants a command beside `service install`, which already projects workstation-service pages into units the same way.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/two-page-types-under-temper-world-are-neither-places-nor-people.finding.ts b/domains/findings/pages/two-page-types-under-temper-world-are-neither-places-nor-people.finding.ts
+index cf1ace5ae69b5fc06ebe3b618a9f4045e6e79f23..a8a830aedb3e573d2342162d704554235b52155b 100644
+--- a/domains/findings/pages/two-page-types-under-temper-world-are-neither-places-nor-people.finding.ts
++++ b/domains/findings/pages/two-page-types-under-temper-world-are-neither-places-nor-people.finding.ts
+@@ -6,7 +6,7 @@ export const twoPageTypesUnderTemperWorldAreNeitherPlacesNorPeople = {
+   slug: "two-page-types-under-temper-world-are-neither-places-nor-people",
+   domainSlug: "domain/temper-world",
+   claim:
+-    "`temper-catalog-domain` and `temper-source-category` are filed under a domain defined as the places of Tamriel and the people who live in them, and neither is a place or a person. The grouping was mine and it was wrong.",
++    "`temper-catalog-domain` and `temper-source-category` are filed under one domain defined as the places of Tamriel and the people who live in them, and neither is a place or a person. The grouping was mine and it was wrong.",
+   evidence:
+     "`temper-catalog-domain` carries capture bookkeeping — `api-version`, `manifest-api-version`, `captured-at`, and which version a generator last ran for — which is about the mirroring rather than about the game. `temper-source-category` names the groups a character's stat sources fall into, which reaches across gear, skills and effects rather than sitting in any of them. Both fit `temper-catalog` itself, defined as what the game holds mirrored. Moving them means carrying their property pages out of `temper-world/properties/` with them, so it is left until the clusters running in parallel have settled rather than done while they are landing.",
+ } as const satisfies Finding
