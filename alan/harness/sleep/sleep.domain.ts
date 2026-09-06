@@ -19,7 +19,7 @@ export const sleep = {
 
     {
       invariantKind: "departure",
-      statement: "Every site showing the sleep is carried the sleep rather than taking one.",
+      statement: "Every site showing the sleep is carried the sleep rather than taking the sleep.",
     },
     {
       invariantKind: "departure",
