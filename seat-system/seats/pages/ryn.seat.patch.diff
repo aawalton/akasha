@@ -1,9 +1,9 @@
 readersOweReading: false
 diff --git a/command-system/commands/move/siding/move-siding.module.ts b/command-system/commands/move/siding/move-siding.module.ts
-index 3ef385d65bdc75e8993b7fac72f3a721078d8114..e6083037baa4ca247cbc710149331d949ec27d66 100644
+index 3ef385d65bdc75e8993b7fac72f3a721078d8114..d6a28f776badda3bba0f6b0f2260cf58c64564a5 100644
 --- a/command-system/commands/move/siding/move-siding.module.ts
 +++ b/command-system/commands/move/siding/move-siding.module.ts
-@@ -52,11 +52,11 @@ export const moveSiding = {
+@@ -52,15 +52,16 @@ export const moveSiding = {
      },
      {
        invariantKind: "departure",
@@ -14,6 +14,12 @@ index 3ef385d65bdc75e8993b7fac72f3a721078d8114..e6083037baa4ca247cbc710149331d94
        invariantKind: "departure",
 -      statement: "A name the grammar will not parse is neither.",
 +      statement: "A name the grammar will not parse belongs to no page.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file that is neither is carried under whatever name a pair gives that file.",
++      statement:
++        "A file belonging to no page is carried under whatever name a pair gives that file.",
      },
      {
        invariantKind: "departure",
