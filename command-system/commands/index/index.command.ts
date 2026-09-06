@@ -22,10 +22,6 @@ export const index = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "`index` is found by its path rather than through the index the command repairs.",
-    },
-    {
-      invariantKind: "departure",
       statement: "`refresh` is the only act there is.",
     },
     {

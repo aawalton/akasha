@@ -6,7 +6,6 @@ import { indexNamed, indexThere } from "@akasha/indexes"
 import {
   everythingFiled,
   importUnreadableFiled,
-  indexTakenFrom,
   listedFiledIn,
   listedTakenFrom,
   listedUnreadableFiled,
@@ -17,7 +16,6 @@ import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
 import { textProperty } from "@akasha/pages/text-property"
 import type { Given } from "../../calling/calling.module.code.ts"
-import { calling } from "../../calling/calling.module.code.ts"
 import { DATA, INPUT, OK, OPERATIONAL } from "../../cli/cli.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { index, readIn } from "./index.command.code.ts"
@@ -166,37 +164,6 @@ test("the commit the index was built over is named in the report", () => {
   const root = repoAt()
   const answer = index(["refresh"], givenAt(root))
   expect(said(answer)).toContain(git(root, ["rev-parse", "HEAD"]).trim())
-})
-
-test("`index refresh` is reached with no index at all", async () => {
-  const root = repoAt()
-  indexTakenFrom(root)
-  const answer = await calling(["index", "refresh"], {
-    root,
-    calledAs: "akasha",
-    from: root,
-    writer: null,
-    agentId: null,
-  })
-  expect(answer.refusals).toEqual([])
-  expect(answer.code).toBe(OK)
-  expect(everythingFiled(root)).toEqual(wantedFor(root))
-})
-
-test("`index refresh` is reached through an index that will not parse", async () => {
-  const root = repoAt()
-  seeded(root)
-  listedUnreadableFiled(root, "command", "index")
-  const answer = await calling(["index", "refresh"], {
-    root,
-    calledAs: "akasha",
-    from: root,
-    writer: null,
-    agentId: null,
-  })
-  expect(answer.refusals).toEqual([])
-  expect(answer.code).toBe(OK)
-  expect(listedFiledIn(root, "command", "index")).toBe(false)
 })
 
 test("a damaged index is put back to what a clean rebuild builds", () => {
