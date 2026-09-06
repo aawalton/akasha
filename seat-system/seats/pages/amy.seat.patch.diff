@@ -1,0 +1,37 @@
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.ts b/readout-system/readout-group-serving/readout-group-serving.module.ts
+index 6a58737bb5af5e90c4e0659b32d7fec25f0a6a1c..96cfecdb2cf6a389fb1ab9b66c5cbc63508cc315 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.ts
+@@ -108,6 +108,32 @@ export const readoutGroupServing = {
+       invariantKind: "departure",
+       statement: "A stoplight carrying no figure carries no tier above and no fraction climbed.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "Whether a reading past either end of its scale draws its figure is read off the group's page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That is read once for the group rather than once for each reading in the group.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A group stating nothing has no reading of its draw a figure past either end.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A group the store withholds is answered as a group stating nothing is answered.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The answer is carried on each stoplight, a stoplight being what a ring is handed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A group drawing no figure past either end leaves that off rather than saying no.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A stoplight carrying a reading says nothing of how that reading is held.",
