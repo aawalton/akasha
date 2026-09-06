@@ -14,7 +14,7 @@ export interface ViewRow {
 
 export interface ReducerCtx {
   newPageId: string
-  ownerNavItemId: string
+  ownerNavSlug: string
 }
 
 export interface PropertyWrite {

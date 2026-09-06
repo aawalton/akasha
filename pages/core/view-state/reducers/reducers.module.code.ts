@@ -18,8 +18,8 @@ function escapePointer(segment: string): string {
   return segment.replace(/~/g, "~0").replace(/\//g, "~1")
 }
 
-function readSortOrder(row: ViewRow): number {
-  const raw = row.properties.sort_order
+function readViewPlace(row: ViewRow): number {
+  const raw = row.properties.viewPlace
   return typeof raw === "number" ? raw : 0
 }
 
@@ -27,18 +27,52 @@ function asViewDataJSON(value: Record<string, unknown> & { version: 1 }): ViewDa
   return value as ViewDataJSON
 }
 
+// A VIEW IS REACHED BY A SLUG NOBODY TYPED. Every page carries a slug, and a view's is derived
+// from the name given it, under the nav item's own slug so that two nav items may each hold a
+// view called the same thing. A name colliding with a view already under this nav item takes the
+// next free number.
+function slugForView(name: string, ownerNavSlug: string, taken: readonly ViewRow[]): string {
+  const stem =
+    name
+      .replace(/&/g, "and")
+      .replace(/[^A-Za-z0-9]+/g, "-")
+      .replace(/^-+|-+$/g, "")
+      .toLowerCase() || "view"
+  const used = new Set(
+    taken.map((one) => (typeof one.properties.slug === "string" ? one.properties.slug : ""))
+  )
+  const under = `${ownerNavSlug}-${stem}`
+  if (!used.has(under)) return under
+  for (let n = 2; ; n += 1) {
+    const candidate = `${under}-${n}`
+    if (!used.has(candidate)) return candidate
+  }
+}
+
+// THE VIEW PAGE TYPE DECLARES EVERY KEY WRITTEN HERE. A key it declares nothing for is refused
+// rather than kept, so writing the whole arrangement under one `config` would refuse the create
+// and leave no view at all. What the arrangement holds beyond a layout and a page type is not
+// written yet.
 function buildViewProperties(args: {
   name: string
   data: ViewDataJSON
-  sortOrder: number
-  ownerNavItemId: string
+  viewPlace: number
+  ownerNavSlug: string
+  taken: readonly ViewRow[]
 }) {
-  return [
+  const written: { propertyId: string; value: unknown }[] = [
     { propertyId: "title", value: args.name },
-    { propertyId: "owner", value: args.ownerNavItemId },
-    { propertyId: "config", value: args.data },
-    { propertyId: "sort_order", value: args.sortOrder },
+    { propertyId: "slug", value: slugForView(args.name, args.ownerNavSlug, args.taken) },
+    { propertyId: "navSlug", value: args.ownerNavSlug },
+    { propertyId: "viewPlace", value: args.viewPlace },
   ]
+  if (args.data.layout !== undefined) {
+    written.push({ propertyId: "layout", value: args.data.layout })
+  }
+  if (args.data.pageTypeSlug !== undefined) {
+    written.push({ propertyId: "pageType", value: args.data.pageTypeSlug })
+  }
+  return written
 }
 
 export function createView(
@@ -53,8 +87,9 @@ export function createView(
       properties: buildViewProperties({
         name: args.name,
         data: args.data,
-        sortOrder: state.length,
-        ownerNavItemId: ctx.ownerNavItemId,
+        viewPlace: state.length,
+        ownerNavSlug: ctx.ownerNavSlug,
+        taken: state,
       }),
     },
   ]
@@ -131,8 +166,9 @@ export function duplicateView(
       properties: buildViewProperties({
         name: newName,
         data: sourceConfig,
-        sortOrder: sourceIndex + 1,
-        ownerNavItemId: ctx.ownerNavItemId,
+        viewPlace: sourceIndex + 1,
+        ownerNavSlug: ctx.ownerNavSlug,
+        taken: state,
       }),
     },
   ]
@@ -144,8 +180,8 @@ export function duplicateView(
     effects.push({
       kind: "setProperty",
       pageId: row._id,
-      propertyId: "sort_order",
-      value: readSortOrder(row) + 1,
+      propertyId: "viewPlace",
+      value: readViewPlace(row) + 1,
     })
   }
 
@@ -162,7 +198,7 @@ export function reorderViews(
   for (let i = 0; i < args.viewIds.length; i++) {
     const id = args.viewIds[i]
     if (id === undefined || !known.has(id)) continue
-    effects.push({ kind: "setProperty", pageId: id, propertyId: "sort_order", value: i })
+    effects.push({ kind: "setProperty", pageId: id, propertyId: "viewPlace", value: i })
   }
   return effects
 }

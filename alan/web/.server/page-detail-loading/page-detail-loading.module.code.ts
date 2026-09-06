@@ -5,7 +5,11 @@ import {
   getPages,
 } from "@akasha/pages-access/get"
 import { getDescendantPageTypeSlugs } from "@akasha/pages-access/page-type"
-import { getMediaConfig, getSequenceConfig } from "@akasha/pages-access/page-type-config"
+import {
+  getMediaConfig,
+  getPropertyDefinitions,
+  getSequenceConfig,
+} from "@akasha/pages-access/page-type-config"
 import type { MediaVariant } from "@akasha/pages-ui/media/page-media-player"
 import type { ReaderNeighborLink } from "@akasha/pages-ui-components/reader-chrome"
 import { buildPageHref, parsePageHrefParam } from "@akasha/pages-url/page-href"
@@ -24,6 +28,17 @@ import { resolveNextUnreadHref } from "../../next-unread/next-unread.module.code
 import { selectPageDisplayKind } from "../../page-display-kind/page-display-kind.module.code.ts"
 
 const NAV_SLUG = "nav"
+const GAME_KEYS = ["externalId", "gameEngine"] as const
+
+// A KEY IS ASKED FOR ONLY OF A PAGE TYPE DECLARING IT. These two say whether a page is drawn as a
+// game, and only a game's page type declares them. A question naming a key the page type declares
+// nothing for is refused, so asking every page type for them refuses every detail page that is not
+// a game.
+async function gameKeysDeclaredBy(pageTypeSlug: ReturnType<typeof toPageTypeSlug>) {
+  const definitions = await getPropertyDefinitions({ pageTypeSlug })
+  const declared = new Set(definitions.map((one) => one.key))
+  return GAME_KEYS.filter((key) => declared.has(key))
+}
 const chessGamePgnSchema = z.string().catch("")
 const audioSentenceMarksSchema = z.array(sentenceMarkSchema)
 const READING_STORY_SLUG = "reading-story"
@@ -66,7 +81,7 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
     pageTypeSlug: brandedSlug,
     idSuffix: parsed.idSuffix,
     slug: parsed.slug ?? undefined,
-    select: ["id", "externalId", "gameEngine", "title"],
+    select: ["id", "title", ...(await gameKeysDeclaredBy(brandedSlug))],
   })
 
   let resolvedSlug = pageTypeSlug

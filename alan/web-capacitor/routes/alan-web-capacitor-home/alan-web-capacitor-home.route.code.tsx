@@ -1,6 +1,6 @@
 "use client"
 
-import { ALANWALTON_APP_ID, ALANWALTON_APP_SLUG } from "@akasha/alanwalton-web/alan-app-id"
+import { ALANWALTON_APP_SLUG } from "@akasha/alanwalton-web/alan-app-id"
 import { HOME_NAV_SLUG } from "@akasha/alanwalton-web/home-dni"
 import { PageLayout, PageLayoutSkeleton, PageTitle } from "@akasha/design-layout/page-layout"
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
@@ -38,14 +38,7 @@ export function homeUnresolvedBecause(args: {
 export default function CapacitorHome() {
   const { rows, isLoading, isDegraded, error } = usePages({
     pageTypeSlug: NAV_SLUG,
-    where: [
-      {
-        or: [
-          { key: "app", eq: ALANWALTON_APP_ID },
-          { key: "app", eq: ALANWALTON_APP_SLUG },
-        ],
-      },
-    ],
+    where: [{ key: "appSlug", eq: ALANWALTON_APP_SLUG }],
     limit: 200,
   })
 

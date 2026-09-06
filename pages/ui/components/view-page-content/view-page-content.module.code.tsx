@@ -98,7 +98,7 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
   const userId = useUserId()
   const viewCallbacks = useSupabaseViewCallbacks({
     userId: userId ?? "",
-    ownerNavItemId: navItemId ?? "",
+    ownerNavSlug: navItemSlug ?? "",
     views: viewPages,
   })
 

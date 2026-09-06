@@ -36,11 +36,11 @@ function projectViewRows(views: readonly PageWithProperties[]): readonly ViewRow
 
 export function useSupabaseViewCallbacks({
   userId,
-  ownerNavItemId,
+  ownerNavSlug,
   views,
 }: {
   userId: string
-  ownerNavItemId: string
+  ownerNavSlug: string
   views: readonly PageWithProperties[]
 }): ViewCallbacks {
   const boundCreate = useCallback((args: CreatePageArgs): Promise<Page> => createPage(args), [])
@@ -63,7 +63,7 @@ export function useSupabaseViewCallbacks({
       for (const effect of effects) {
         switch (effect.kind) {
           case "createPage": {
-            const initial: Record<string, Json> = { userId }
+            const initial: Record<string, Json> = {}
             for (const pw of effect.properties ?? []) {
               if (!isJson(pw.value)) {
                 throw new Error(
@@ -133,9 +133,9 @@ export function useSupabaseViewCallbacks({
   const buildCtx = useCallback(
     () => ({
       newPageId: crypto.randomUUID(),
-      ownerNavItemId,
+      ownerNavSlug,
     }),
-    [ownerNavItemId]
+    [ownerNavSlug]
   )
 
   const onCreateView = useCallback(
