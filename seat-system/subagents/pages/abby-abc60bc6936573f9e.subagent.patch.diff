@@ -1,0 +1,86 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-calming-survives-my-constraint.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-calming-survives-my-constraint.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d3cf573c37212e92d223b0a612c3bb8ff91c394c
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-calming-survives-my-constraint.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatCalmingSurvivesMyConstraint = {
++  id: "01a077e9-eb89-7a35-b020-c957a77a7c7b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-calming-survives-my-constraint",
++  topicSlug: "what-calms-me-down",
++  ask: "What calming methods survive the constraint that nothing built on a felt sense or on picturing something has anything in me to work with?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-vr-headset-does-for-me.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-vr-headset-does-for-me.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..03c1588acb9692ab56ba80797005e5f16c209dcc
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-the-vr-headset-does-for-me.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTheVrHeadsetDoesForMe = {
++  id: "01a077e9-eb8a-7f4c-9eac-36dc4a4c561e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-the-vr-headset-does-for-me",
++  topicSlug: "what-calms-me-down",
++  ask: "What does the VR headset do for me?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-everything-calming-runs-through-one-shift.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-everything-calming-runs-through-one-shift.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..66f9a7371003ffac5231361ee4f515520767a112
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-everything-calming-runs-through-one-shift.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherEverythingCalmingRunsThroughOneShift = {
++  id: "01a077e9-eb88-73d5-8243-47a08caa49a0",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-everything-calming-runs-through-one-shift",
++  topicSlug: "what-calms-me-down",
++  ask: "Does everything else that calms me run through the same shift, or are the bath, slow breathing and hard exercise a family of their own?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-more-exercise-carries-the-arousal-load.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-more-exercise-carries-the-arousal-load.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..352d91b19be197728f62c9c9b4ad834112179015
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-more-exercise-carries-the-arousal-load.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMoreExerciseCarriesTheArousalLoad = {
++  id: "01a077e9-eb8a-74c4-a969-d19881f16498",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-more-exercise-carries-the-arousal-load",
++  topicSlug: "what-calms-me-down",
++  ask: "Arousal runs the same up-then-down as exercise and returns more per dose. Could far more exercise carry that load instead?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-repetition-moves-my-baseline.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-repetition-moves-my-baseline.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..27c7402d586c3c2ebecd8afadecbd870dc2ff472
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-repetition-moves-my-baseline.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherRepetitionMovesMyBaseline = {
++  id: "01a077e9-eb8a-7dad-b4bb-402912f868a1",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-repetition-moves-my-baseline",
++  topicSlug: "what-calms-me-down",
++  ask: "Repeating the bath, slow breathing and hard exercise is meant to move my resting baseline rather than only the hour I am in. Does my baseline move?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-calms-me-down.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-calms-me-down.all-about-alan-topic.ts
+index a03687888d1e88460eb015cc1a80e722db5d0fef..93aafbac4b7cb215834b4b52bf1de96105d40bed 100644
+--- a/alan/books/all-about-alan/topics/pages/what-calms-me-down.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-calms-me-down.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatCalmsMeDown = {
+   relatedSlugs: ["how-safety-climbs"],
+   settled:
+     "The bath, slow breathing and hard exercise all seem to work by the same shift.\n\nAnything built on a felt sense, or on picturing something, has nothing in me to work with. What is left goes at the nerve directly, or through structure, ritual and the room.",
+-  unsettled:
+-    "Whether everything else that calms me runs through that shift, or these three are a family of their own, is open.\n\nThe list of what survives that constraint has never been built.\n\nRepeating them is meant to move my resting baseline rather than only the hour I am in, and that has never been measured.\n\nArousal runs the same up-then-down and returns more per dose than exercise. Whether far more exercise could carry that load is untested.\n\nWhat the VR headset does for me is unrecorded.",
+ } as const satisfies AllAboutAlanTopic
