@@ -1,0 +1,19 @@
+diff --git a/context/modules/warranting/warranting.module.test-fixtures.ts b/context/modules/warranting/warranting.module.test-fixtures.ts
+index 69615b83178a4f7c4e8922970a8bb564e074748a..804e5976614f63932a67eacc97ec476838c35d50 100644
+--- a/context/modules/warranting/warranting.module.test-fixtures.ts
++++ b/context/modules/warranting/warranting.module.test-fixtures.ts
+@@ -4,7 +4,13 @@ import { recordRead, SUBAGENT_MARK } from "@akasha/command-system/reading"
+ import { rootOf } from "@akasha/command-system/rooting"
+ import { writing } from "@akasha/command-system/scratching/testing"
+ import { dataAt } from "@akasha/file-system/data-place"
+-import { idFiled, listedFiled, pathFiled, relationFiled } from "@akasha/indexes/testing"
++import {
++  idFiled,
++  listedFiled,
++  pathFiled,
++  relationFiled,
++  valueAlsoFiled,
++} from "@akasha/indexes/testing"
+ import { exportedAs } from "@akasha/pages/page-export-name"
+ import { mintedId } from "@akasha/testing-system/minting"
+ import type { Warrant } from "./warranting.module.code.ts"
