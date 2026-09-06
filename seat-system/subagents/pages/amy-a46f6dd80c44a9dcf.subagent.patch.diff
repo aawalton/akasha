@@ -349,3 +349,67 @@ index c5006be3e5251ed4beed6c940fe41dea891c6381..4f8f857aa67f35411a996d5a7c2cd698
      },
      {
        invariantKind: "departure",
+diff --git a/command-system/commands/measure-attributes/measure-attributes.command.code.ts b/command-system/commands/measure-attributes/measure-attributes.command.code.ts
+index c7aacf04f8b8db833d06f55b9553d133e861d796..376691e4995d8f0e17355e362f75fae2feb35707 100644
+--- a/command-system/commands/measure-attributes/measure-attributes.command.code.ts
++++ b/command-system/commands/measure-attributes/measure-attributes.command.code.ts
+@@ -1,4 +1,5 @@
+ import { asking } from "@akasha/pages-service/asking"
++import { levelOf } from "../../../alan/harness/attributes/levelling/attributes-levelling.module.code.ts"
+ import type { Taken } from "../../../alan/harness/attributes/reading/attributes-reading.module.code.ts"
+ import { totalAttributes } from "../../../alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+@@ -15,6 +16,7 @@ const NOTHING_READ =
+ 
+ export type Measured = {
+   readonly label: string
++  readonly level: number
+   readonly figure: number
+ }
+ 
+@@ -58,18 +60,38 @@ export function measuredIn(taken: Taken, drawn: ReadonlyMap<string, Drawn>): rea
+   for (const [path, value] of Object.entries(taken.kept)) {
+     const shown = drawn.get(slugIn(path))
+     if (shown === undefined) continue
+-    held.push({ label: shown.label, figure: flooredTo(value, PLACES), place: shown.place })
++    held.push({
++      label: shown.label,
++      level: levelOf(value),
++      figure: flooredTo(value, PLACES),
++      place: shown.place,
++    })
+   }
+   held.sort((one, two) => one.place - two.place)
+-  return held.map((one) => ({ label: one.label, figure: one.figure }))
++  return held.map((one) => ({ label: one.label, level: one.level, figure: one.figure }))
+ }
+ 
+-// EVERY FIGURE IS WRITTEN TO THE SAME WIDTH. A number written as the number it is drops the places
+-// it has no digits for, so a column reads `0`, `0.6` and `0.63`, and the hundredths of one
+-// attribute sit under the tenths of the next.
++function widestOf(values: readonly string[]): number {
++  return values.reduce((most, one) => Math.max(most, one.length), 0)
++}
++
++// EVERY COLUMN IS WRITTEN TO THE WIDTH OF ITS OWN WIDEST ENTRY. A number written as the number it
++// is drops the places it has no digits for, so a column reads `0`, `0.6` and `0.63`, and the
++// hundredths of one attribute sit under the tenths of the next. A level of ten digits two wide
++// would shove the points of every other attribute across by one for the same reason.
+ export function linesOf(measured: readonly Measured[]): readonly string[] {
+-  const width = measured.reduce((most, one) => Math.max(most, one.label.length), 0)
+-  return measured.map((one) => `${one.label.padEnd(width)}  ${one.figure.toFixed(PLACES)}`)
++  const cells = measured.map((one) => ({
++    label: one.label,
++    level: String(one.level),
++    figure: one.figure.toFixed(PLACES),
++  }))
++  const labels = widestOf(cells.map((one) => one.label))
++  const levels = widestOf(cells.map((one) => one.level))
++  const figures = widestOf(cells.map((one) => one.figure))
++  return cells.map(
++    (one) =>
++      `${one.label.padEnd(labels)}  ${one.level.padStart(levels)}  ${one.figure.padStart(figures)}`
++  )
+ }
+ 
+ export async function measureAttributes(_argv: readonly string[], given: Given): Promise<Answer> {
