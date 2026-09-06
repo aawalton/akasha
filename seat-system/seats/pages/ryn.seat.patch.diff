@@ -1,8 +1,13 @@
 diff --git a/temper/temper-upstream-data/treasure-upstream-port/treasure-upstream-port.module.ts b/temper/temper-upstream-data/treasure-upstream-port/treasure-upstream-port.module.ts
-index 38d881083c7720d68ed64862807a900ae8216ba3..acc47d7505a68426d1cec0e9647b1ef558a35d37 100644
+index 38d881083c7720d68ed64862807a900ae8216ba3..df400e65c6df8b27e8960f518a79724c4253eb59 100644
 --- a/temper/temper-upstream-data/treasure-upstream-port/treasure-upstream-port.module.ts
 +++ b/temper/temper-upstream-data/treasure-upstream-port/treasure-upstream-port.module.ts
-@@ -18,8 +18,7 @@ export const treasureUpstreamPort = {
+@@ -14,12 +14,11 @@ export const treasureUpstreamPort = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A table keyed only by its own count from one is written as an array.",
++      statement: "A table whose keys count up from the first index is written as an array.",
      },
      {
        invariantKind: "departure",
