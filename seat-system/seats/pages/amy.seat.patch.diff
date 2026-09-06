@@ -1,0 +1,16 @@
+diff --git a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts b/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
+index 341969197749009869fb11f22c4c2ee7173aea17..a218bd3291d82d598b33c9b8c4393be847987b7b 100644
+--- a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
++++ b/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
+@@ -33,6 +33,11 @@ export const amyAlanHarnessImprovements = {
+       workingMemory:
+         "`temper-tasks-all`, `temper-tasks-completed`, `temper-tasks-today`, `temper-tasks-up-next` and `alanwalton-temper-tasks` each name `temper-task` and resolve that subject in the serving pod against 24 rows. The completed view narrowed nothing under a title saying otherwise and now narrows to the tasks carrying a completion.",
+     },
++    {
++      statement: "The serving pod carries the mends that are landed.",
++      workingMemory:
++        "The pod serves `e633e23af8`, which carries the four mends that stopped every view. Two mends landed since and cannot go up: `a096ceda0b` keys the favorites predicate as the home view spells it, and `5bb486c0ab` makes a new nav item take a slug free among every nav rather than among its own app's, where creating `Books` under alanwalton would have written over Archive of Worlds' `books.nav.ts` and kept that page's id. A web deploy serves what origin carries, and the akasha migration's sixteenth constraint keeps commits local, so no push can close that gap. View pages are answered live and needed no deploy.",
++    },
+     {
+       statement: "Temper, Atlas and Archive of Worlds each show their nav items.",
+       workingMemory:
