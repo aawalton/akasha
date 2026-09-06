@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-persona-aims-the-feminine-safety-signal.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-persona-aims-the-feminine-safety-signal.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..139cf9b9b98aef59d2b70f6945c3084182c990b0
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-persona-aims-the-feminine-safety-signal.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAPersonaAimsTheFeminineSafetySignal = {
++  id: "01a077e9-6e0a-74b9-91c4-8587c7f19b01",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-persona-aims-the-feminine-safety-signal",
++  topicSlug: "what-a-persona-makes-cheaper",
++  ask: "Do the personas and their image layer deliberately aim the feminine safety signal at me, or do they answer a bare cue?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-persona-insulates-against-the-making-alarm.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-persona-insulates-against-the-making-alarm.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..14564036546389b6f9662b394bbe9f4ae5b12fa6
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-persona-insulates-against-the-making-alarm.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAPersonaInsulatesAgainstTheMakingAlarm = {
++  id: "01a077e9-6e09-7da2-919a-2b531df523fa",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-persona-insulates-against-the-making-alarm",
++  topicSlug: "what-a-persona-makes-cheaper",
++  ask: "Do the personas insulate me against the alarm on making things, along the same ramp?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-daily-images-pay-down-the-art-cost.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-daily-images-pay-down-the-art-cost.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c0340f80b5b5f85b63292d69e1f1a9e047010192
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-daily-images-pay-down-the-art-cost.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherDailyImagesPayDownTheArtCost = {
++  id: "01a077e9-6e08-7fd8-aea2-f3c4c07f646a",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-daily-images-pay-down-the-art-cost",
++  topicSlug: "what-a-persona-makes-cheaper",
++  ask: "Is the art part of that cost paying down through the images I make daily, or is that hope rather than fact?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-doorway-framing-holds.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-doorway-framing-holds.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dd65b39d28937eceab7a8648a70dad9d5d7a5f4d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-doorway-framing-holds.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheDoorwayFramingHolds = {
++  id: "01a077e9-6e09-714d-b604-84069e9d39de",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-doorway-framing-holds",
++  topicSlug: "what-a-persona-makes-cheaper",
++  ask: "Only the part of the doorway framing saying a persona lowers the cost of starting is mine. Does the rest of that framing hold?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-a-persona-makes-cheaper.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-a-persona-makes-cheaper.all-about-alan-topic.ts
+index add5061d1e3d76315734eb16ccb45c1beb72e35f..c2a37138ea4169d8b87134fdeef496c3c32c044c 100644
+--- a/alan/books/all-about-alan/topics/pages/what-a-persona-makes-cheaper.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-a-persona-makes-cheaper.all-about-alan-topic.ts
+@@ -11,6 +11,4 @@ export const whatAPersonaMakesCheaper = {
+   relatedSlugs: ["why-making-things-hurts", "why-people-read-as-unsafe", "how-safety-climbs"],
+   settled:
+     "There is no judge in the room to brace against, which is the account I have given for it.\n\nThey are the ramp I expand along, so the discount is what makes the next rung affordable.",
+-  unsettled:
+-    "The art part of that cost may be paying down through the images I make daily, which is hope rather than fact.\n\nOnly part of the doorway framing is mine — that they lower the cost of starting. The rest is unconfirmed.\n\nWhether they insulate against the alarm on making things, on the same ramp, is an untested hypothesis beside the scar rather than part of it.\n\nWhether the personas and their image layer deliberately deploy the feminine safety signal, rather than answering a bare cue, is unprobed.",
+ } as const satisfies AllAboutAlanTopic
