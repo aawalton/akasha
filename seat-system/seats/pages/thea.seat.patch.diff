@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
-index e6b8b6999a4c0568aa8bbb181c196383890f953a..ef790b04fff7f1153afaaefbc0d62ac5b084a8f1 100644
+index e6b8b6999a4c0568aa8bbb181c196383890f953a..ff853c7c36567efef74ec3a3ba34051088d5c75c 100644
 --- a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
 @@ -11,15 +11,15 @@ const ID = "id"
@@ -44,3 +44,18 @@ index e6b8b6999a4c0568aa8bbb181c196383890f953a..ef790b04fff7f1153afaaefbc0d62ac5
  export function twiceIn(held: readonly unknown[], slug: string): string | null {
    const seen = new Set<string>()
    for (const one of held) {
+@@ -98,13 +86,11 @@ export function fieldsOf(
+       )
+     }
+     if (shaped.many && many) {
+-      const why = overTotal(stated, null, `${slug} ${field}`)
+-      if (why !== null) said.push(why)
+       const twice = twiceIn(stated, `${slug} ${field}`)
+       if (twice !== null) said.push(twice)
+     }
+     for (const each of many ? stated : [stated]) {
+-      const why = overMax(each, max, `${slug} ${field}`, "")
++      const why = overLength(each, max, `${slug} ${field}`, "")
+       if (why !== null) said.push(why)
+       const off = offFormat(each, format, formatting, `${slug} ${field}`)
+       if (off !== null) said.push(off)
