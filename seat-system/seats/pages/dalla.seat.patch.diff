@@ -43,6 +43,27 @@ index 6bcdc3a2641dd0acb12e1632810304839e4c4878..f492191180b7b494268b315266d19de2
    }
 +  return { edits: [...held.values()], refused: null }
  }
+diff --git a/changes/modules/change-answer/change-answer.module.ts b/changes/modules/change-answer/change-answer.module.ts
+index 1173ca912a905c2a57a18dc73d7e530e253540b9..3c7dd8c596d731ec4014080d0820348773ad1c3a 100644
+--- a/changes/modules/change-answer/change-answer.module.ts
++++ b/changes/modules/change-answer/change-answer.module.ts
+@@ -14,7 +14,15 @@ export const changeAnswer = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A move is the path one edit leaves and the path a second edit lands at.",
++      statement: "An edit naming a path that edit came from is a move.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An edit states the body that edit was worked out from.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Two edits to one path gather only where the later followed the earlier.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/changes/modules/change-answer/change-answer.module.types.ts b/changes/modules/change-answer/change-answer.module.types.ts
 index 486879c8364d6b8b3907b1f286cae0082d6cbaff..073e1d7dd683238a4a3176bf57dccea118dd076a 100644
 --- a/changes/modules/change-answer/change-answer.module.types.ts
