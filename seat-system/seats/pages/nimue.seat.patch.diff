@@ -57,3 +57,16 @@ index fee8272be6ce01df33e302244d68065f7197d2aa..adb2e726ec85b8f030f5fbb28b7c852d
  })
  
  test("the at-limit mark is the moment handed in plus the default backoff", () => {
+diff --git a/agents/claude-accounts/modules/marking/claude-account-marking.module.ts b/agents/claude-accounts/modules/marking/claude-account-marking.module.ts
+index b1eb64c3a833c952a6e561c3bf2e812dc824354a..3ccb78d390a29edc502012b3596ffd4fd3fe7bc7 100644
+--- a/agents/claude-accounts/modules/marking/claude-account-marking.module.ts
++++ b/agents/claude-accounts/modules/marking/claude-account-marking.module.ts
+@@ -94,7 +94,7 @@ export const claudeAccountMarking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Writing one account's mark lists no directory the accounts are filed under.",
++      statement: "Writing one account's mark reads no index the whole fleet is filed in.",
+     },
+ 
+     {
