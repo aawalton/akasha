@@ -107,3 +107,154 @@ index a3bc5a1caa3528fa694cf0fde02ffea4d256c5ff..cc9e113aba48e7549312c4701e71d150
 -  return changing(given.root, page, argv)
 +  return await changing(given.root, page, argv)
  }
+diff --git a/command-system/commands/change/change.command.test.ts b/command-system/commands/change/change.command.test.ts
+index 717dc1b19b6cc24af321472f1dfe4d231b00115b..57395788e062922fbef95c281465723031889b80 100644
+--- a/command-system/commands/change/change.command.test.ts
++++ b/command-system/commands/change/change.command.test.ts
+@@ -8,7 +8,7 @@ import {
+   scratch,
+ } from "@akasha/indexes/indexing/testing"
+ import { editsIn } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+-import { changing } from "./change.command.code.ts"
++import { changing, editsFor } from "./change.command.code.ts"
+ 
+ afterAll(scratch.sweep)
+ 
+@@ -40,40 +40,40 @@ function pathsIn(root: string): readonly string[] {
+   return "why" in said ? [] : said.rows.map((one) => one.path)
+ }
+ 
+-test("a change answers its edits and appends the edits beside the calling agent's page", () => {
++test("a change answers its edits and appends the edits beside the calling agent's page", async () => {
+   const root = repo()
+ 
+-  const said = changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
++  const said = await changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
+ 
+   expect(said.refusals).toEqual([])
+   expect(said.code).toBe(0)
+   expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
+ })
+ 
+-test("the edits are kept beside the agent's page rather than beside the page changed", () => {
++test("the edits are kept beside the agent's page rather than beside the page changed", async () => {
+   const root = repo()
+ 
+-  changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
++  await changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
+ 
+   expect(editsIn(root, NAMER_PAGE)).toEqual({ rows: [] })
+   expect(pathsIn(root).length).toBe(2)
+ })
+ 
+-test("a change reads the world as every edit appended before that change had landed", () => {
++test("a change reads the world as every edit appended before that change had landed", async () => {
+   const root = repo()
+-  changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
++  await changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
+ 
+-  const said = changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
++  const said = await changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
+ 
+   expect(said.refusals).toEqual([`\`${NAMER_PAGE}\` names no page, so no page is taken away`])
+   expect([...pathsIn(root)].sort()).toEqual([NAMER_CODE, NAMER_PAGE])
+ })
+ 
+-test("two runs leave two sets of edits in the order the runs were made", () => {
++test("two runs leave two sets of edits in the order the runs were made", async () => {
+   const root = repo()
+ 
+-  changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
+-  changing(root, PAGE, ["remove-page", "--file-path", SPARE_PAGE])
++  await changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
++  await changing(root, PAGE, ["remove-page", "--file-path", SPARE_PAGE])
+ 
+   const said = pathsIn(root)
+   expect(said.length).toBe(4)
+@@ -81,29 +81,29 @@ test("two runs leave two sets of edits in the order the runs were made", () => {
+   expect([...said.slice(2)].sort()).toEqual([SPARE_CODE, SPARE_PAGE])
+ })
+ 
+-test("a change that refuses appends nothing and says why that change refused", () => {
++test("a change that refuses appends nothing and says why that change refused", async () => {
+   const root = repo()
+ 
+-  const said = changing(root, PAGE, ["remove-page", "--file-path", MISSING])
++  const said = await changing(root, PAGE, ["remove-page", "--file-path", MISSING])
+ 
+   expect(said.refusals).toEqual([`\`${MISSING}\` names no page, so no page is taken away`])
+   expect(pathsIn(root)).toEqual([])
+ })
+ 
+-test("a word naming no change is refused with the changes this command runs", () => {
+-  const said = changing(repo(), PAGE, ["remove-file", "--file-path", NAMER_PAGE])
++test("a word naming no change is refused with the changes this command runs", async () => {
++  const said = await changing(repo(), PAGE, ["remove-file", "--file-path", NAMER_PAGE])
+ 
+   expect(said.refusals).toEqual(["`remove-file` is no change this runs, which takes `remove-page`"])
+ })
+ 
+-test("a call naming no change is refused with the changes this command runs", () => {
+-  const said = changing(repo(), PAGE, [])
++test("a call naming no change is refused with the changes this command runs", async () => {
++  const said = await changing(repo(), PAGE, [])
+ 
+   expect(said.refusals).toEqual(["no change is named, and this runs one of `remove-page`"])
+ })
+ 
+-test("a flag the change named does not take is refused", () => {
+-  const said = changing(repo(), PAGE, ["remove-page", "--message", "why"])
++test("a flag the change named does not take is refused", async () => {
++  const said = await changing(repo(), PAGE, ["remove-page", "--message", "why"])
+ 
+   expect(said.refusals).toEqual([
+     "`--message` is no flag this takes",
+@@ -111,23 +111,42 @@ test("a flag the change named does not take is refused", () => {
+   ])
+ })
+ 
+-test("a call naming no path is refused", () => {
+-  const said = changing(repo(), PAGE, ["remove-page"])
++test("a call naming no path is refused", async () => {
++  const said = await changing(repo(), PAGE, ["remove-page"])
+ 
+   expect(said.refusals).toEqual([
+     "--file-path names the path the change acts on, and none is given",
+   ])
+ })
+ 
+-test("a path outside the repository is refused", () => {
+-  const said = changing(repo(), PAGE, ["remove-page", "--file-path", "/etc/hosts"])
++test("a path outside the repository is refused", async () => {
++  const said = await changing(repo(), PAGE, ["remove-page", "--file-path", "/etc/hosts"])
+ 
+   expect(said.refusals.length).toBe(1)
+   expect(said.refusals[0] ?? "").toContain("is no path inside the repository")
+ })
+ 
+-test("a path that is no page keeps no edits", () => {
+-  const said = changing(repo(), "akasha/notes.md", ["remove-page", "--file-path", NAMER_PAGE])
++test("a path that is no page keeps no edits", async () => {
++  const said = await changing(repo(), "akasha/notes.md", ["remove-page", "--file-path", NAMER_PAGE])
+ 
+   expect(said.refusals).toEqual(["a path that is no page keeps no edits"])
+ })
++
++test("an edit writing a body becomes a change carrying that body", () => {
++  expect(editsFor([{ path: "a/b.ts", was: null, body: "held" }])).toEqual([
++    { path: "a/b.ts", body: new TextEncoder().encode("held") },
++  ])
++})
++
++test("an edit stating no body becomes a change taking that path away", () => {
++  expect(editsFor([{ path: "a/b.ts", was: "held", body: null }])).toEqual([
++    { path: "a/b.ts", body: null },
++  ])
++})
++
++test("a move becomes the path it came from taken away beside the path it lands at", () => {
++  expect(editsFor([{ path: "a/two.ts", was: "held", body: "held", from: "a/one.ts" }])).toEqual([
++    { path: "a/one.ts", body: null },
++    { path: "a/two.ts", body: new TextEncoder().encode("held") },
++  ])
++})
