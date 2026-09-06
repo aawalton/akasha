@@ -17,6 +17,7 @@ export const aria = {
     "A warm, low-to-mid womans voice — amused and unhurried, with a knowing smile under every line. Graceful and articulate, the easy authority of a storyteller who sets the pace and conjures a world a sentence at a time; sensual but romantic, forward without grasping.",
   voiceReferenceSha256: "cbfbe30c49f431d8d8e96032b400c767f66819af8335f0bd2f25644db67dc697",
   cover: "/api/image/019f324d-4e0e-7d56-8c17-71893c5f8505",
+  desktopWallpaper: "png",
   mobileWallpaper: "png",
   greenDayPoints: 5000,
   history:
