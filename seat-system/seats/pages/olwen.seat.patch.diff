@@ -1,0 +1,18 @@
+diff --git a/persona-system/personas/persona-day-score.domain.ts b/persona-system/personas/persona-day-score.domain.ts
+index 08da0913aaf011d4b5e7c6606d45fd54b5cb3bc8..5846f958a9696bf0a5f9e3772487bc670922e315 100644
+--- a/persona-system/personas/persona-day-score.domain.ts
++++ b/persona-system/personas/persona-day-score.domain.ts
+@@ -8,8 +8,11 @@ export const personaDayScore = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A persona day states its own points, computed from the formula its property declares.",
++      statement: "A persona day states its own points.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A persona day's points are computed from the formula its property declares.",
+     },
+     {
+       invariantKind: "departure",
