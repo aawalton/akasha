@@ -15,7 +15,7 @@ export const weeklyCoverage = {
     },
     {
       invariantKind: "departure",
-      statement: "Any one of the core anti-patterns covers the core for the week.",
+      statement: "A single core anti-pattern covers the core for the week.",
     },
     {
       invariantKind: "departure",
