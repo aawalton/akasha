@@ -1,5 +1,5 @@
 diff --git a/git/git-pathspec/git-pathspec.module.ts b/git/git-pathspec/git-pathspec.module.ts
-index 1a2298bce9e165b2351e167008680dcd85d1673f..be095ba9bf67884d6ee36c1b1463feda2212c979 100644
+index 1a2298bce9e165b2351e167008680dcd85d1673f..a5c642b0d45810231c48f623d0eab1ceaecc0414 100644
 --- a/git/git-pathspec/git-pathspec.module.ts
 +++ b/git/git-pathspec/git-pathspec.module.ts
 @@ -14,8 +14,11 @@ export const gitPathspec = {
@@ -16,3 +16,17 @@ index 1a2298bce9e165b2351e167008680dcd85d1673f..be095ba9bf67884d6ee36c1b1463feda
      },
      {
        invariantKind: "departure",
+@@ -28,8 +31,11 @@ export const gitPathspec = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A path git holds only in history counts as held, so a path already removed from disk is still named.",
++      statement: "A path git holds only in history counts as held.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path already removed from disk is still named.",
+     },
+   ],
+ } as const satisfies Module
