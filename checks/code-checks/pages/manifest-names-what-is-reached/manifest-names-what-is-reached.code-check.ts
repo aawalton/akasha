@@ -33,7 +33,7 @@ export const manifestNamesWhatIsReached = {
     {
       invariantKind: "departure",
       statement:
-        "A dependency judged for going unreached is one stated under `dependencies` or `devDependencies`.",
+        "A dependency judged for going unreached is stated under `dependencies` or `devDependencies`.",
     },
     {
       invariantKind: "departure",
