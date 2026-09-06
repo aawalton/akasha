@@ -18,11 +18,11 @@ export const pageSecret = {
     },
     {
       invariantKind: "departure",
-      statement: "A secret's value is the text given, newlines and all.",
+      statement: "A secret's value is the text given including its newlines.",
     },
     {
       invariantKind: "departure",
-      statement: "An empty value is refused rather than written over a usable one.",
+      statement: "An empty value is refused rather than written over a usable value.",
     },
     {
       invariantKind: "departure",
