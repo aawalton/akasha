@@ -10,6 +10,7 @@ import {
   taskStartedIn,
   taskStoppedIn,
   turnEnded,
+  withNothingOpen,
   workingOf,
 } from "./turn-working.module.code.ts"
 
@@ -160,4 +161,25 @@ test("a reading kept in a shape this does not know is unread", () => {
 
 test("a seat akasha holds nothing for is unread", () => {
   expect(workingOf("")).toEqual({})
+})
+
+test("a client spawned afresh runs no task the client before it started", () => {
+  expect(
+    withNothingOpen({ activeTurn: false, scannedTo: 90, openShells: ["b4"], openAgents: ["a0"] })
+  ).toEqual({ activeTurn: false, scannedTo: 90, openShells: [], openAgents: [] })
+})
+
+test("the byte the transcript was read to survives the tasks going", () => {
+  expect(withNothingOpen({ scannedTo: 90, openAgents: ["a0"] }).scannedTo).toBe(90)
+})
+
+test("a reading with nothing open is left as the reading is", () => {
+  const was = { activeTurn: true, scannedTo: 4, openShells: [], openAgents: [] }
+  expect(withNothingOpen(was)).toEqual(was)
+})
+
+test("no task is live once the tasks have gone", () => {
+  const gone = withNothingOpen({ openShells: ["b4"], openAgents: ["a0"] })
+  expect(anyLiveShell(gone)).toBe(false)
+  expect(anyLiveSubagent(gone)).toBe(false)
 })

@@ -57,7 +57,11 @@ export const turnWorking = {
     },
     {
       invariantKind: "departure",
-      statement: "A background command and a subagent each start a task the transcript names.",
+      statement: "A background command starts a task the transcript names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent starts a task the transcript names.",
     },
     {
       invariantKind: "departure",
@@ -91,6 +95,26 @@ export const turnWorking = {
     {
       invariantKind: "gap",
       statement: "A task in a replaced transcript is live to nothing here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A task runs inside the client the transcript belongs to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A client spawned in place of an earlier client runs no task already open.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The client running a task writes the notice closing the task.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A client replaced while a task was open writes nothing closing the task.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The byte the transcript was read to survives the open tasks being taken away.",
     },
     {
       invariantKind: "absence",

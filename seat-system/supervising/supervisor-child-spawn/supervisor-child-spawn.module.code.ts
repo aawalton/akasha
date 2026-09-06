@@ -5,6 +5,7 @@ import {
 import type { InheritedProc } from "@akasha/seat-system/supervisor-types"
 import { enforceMemoryGuard } from "@akasha/utils-system/memory-guard"
 import { scanProcEntries } from "../../proc-scan/proc-scan.module.code.ts"
+import { takeOpenTasks } from "../../seat-turn/turn-working/turn-working.module.code.ts"
 import {
   adoptInheritedProc,
   InheritedPidDeadError,
@@ -51,6 +52,14 @@ function adoptLiveChildOrSpawn(args: {
       console.error(`${LOG} adopt: live Claude pid=${livePid} could not be adopted:`, err)
     }
   }
+  // A CHILD SPAWNED AFRESH RUNS NO TASK THE CHILD BEFORE IT STARTED. A subagent and a background
+  // command both run inside the client, so the client this replaces took every one of them with it.
+  // What closes such a task in the transcript is written by the client running it, and a client that
+  // is gone writes nothing, so the seat would go on reading as one waiting on work nobody is doing.
+  //
+  // The adopt branches above return before this, and rightly: an adopted child is the same client
+  // and still holds whatever it was running.
+  takeOpenTasks(spawnOpts.agentId)
   enforceMemoryGuard("claude session")
   return { proc: spawnClaudeChild(spawnOpts), adoptedThisIter: false }
 }
