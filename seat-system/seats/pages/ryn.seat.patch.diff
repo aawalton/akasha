@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts b/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
+index f896d85af657d74ba505de97fb11f19318a90e90..bb4722bf7a1ca726c477319efa7a7624df7e829e 100644
+--- a/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
++++ b/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
+@@ -53,7 +53,8 @@ export const mobileSimOpenUrl = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A call naming no simulator takes the session's own, else the first booted one.",
++      statement:
++        "A call naming no simulator takes the session's own simulator or the first booted simulator.",
+     },
+   ],
+ } as const satisfies Command
