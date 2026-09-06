@@ -38,7 +38,8 @@ export const iconIndexRendering = {
     },
     {
       invariantKind: "departure",
-      statement: "The page anything outside imports reaches its shards by the path each stands at.",
+      statement:
+        "The page anything outside imports reaches its shards by the path every shard sits at.",
     },
     {
       invariantKind: "departure",
