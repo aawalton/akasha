@@ -17,6 +17,9 @@ export type Changes = {
   "change/change-file": Parameters<
     typeof import("../../../pages/change-file/change-file.change.code.ts")["runChange"]
   >[1]
+  "change/move-file": Parameters<
+    typeof import("../../../pages/move-file/move-file.change.code.ts")["runChange"]
+  >[1]
   "change/remove-file": Parameters<
     typeof import("../../../pages/remove-file/remove-file.change.code.ts")["runChange"]
   >[1]

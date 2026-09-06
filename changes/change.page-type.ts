@@ -35,6 +35,7 @@ export const change = {
     "module/change-guarding",
     "change/add-file",
     "change/change-file",
+    "change/move-file",
     "change/remove-file",
     "change/remove-page",
     "change/remove-page-type",
