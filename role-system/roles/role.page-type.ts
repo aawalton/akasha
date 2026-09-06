@@ -86,7 +86,7 @@ export const role = {
         "Debris and work in progress are one artifact at two different times, and clearing it looks tidy.",
       aids: [
         "A stale timestamp is not proof it was abandoned.",
-        "Do not build on it before you find out.",
+        "Never build on foreign state before you find out.",
       ],
     },
     {
