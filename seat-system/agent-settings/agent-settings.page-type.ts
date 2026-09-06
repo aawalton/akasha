@@ -35,7 +35,8 @@ export const agentSettings = {
     },
     {
       invariantKind: "departure",
-      statement: "A derived document is merged over this one and written outside the repository.",
+      statement:
+        "A derived document is merged over this document and written outside the repository.",
     },
     {
       invariantKind: "departure",
