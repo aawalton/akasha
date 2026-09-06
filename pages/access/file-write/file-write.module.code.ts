@@ -25,7 +25,7 @@ const SLUG = "slug"
 const ID = "id"
 
 const NO_WRITE_PATH =
-  "`@akasha/pages-system-service` writes a page by its page type, its slug and its values, and places the page from the index rather than from a name a caller works out."
+  "`@akasha/pages-service` writes a page by its page type, its slug and its values, and places the page from the index rather than from a name a caller works out."
 
 export type FileWriteDeps = {
   readonly ask: (query: Query) => Promise<Asked>
@@ -95,7 +95,7 @@ export function loweredFrom(condition: PageCondition): Lowered {
   if ("or" in condition) {
     return {
       refused:
-        "an `or` of conditions, and a question asked of `@akasha/pages-system-service` tests each key on its own",
+        "an `or` of conditions, and a question asked of `@akasha/pages-service` tests each key on its own",
     }
   }
   const key = condition.key
@@ -143,7 +143,7 @@ export function loweredFrom(condition: PageCondition): Lowered {
     return one === null ? noScalar : { key, test: { "at-or-after": one } }
   }
   return {
-    refused: `\`${key}\` is tested by something \`@akasha/pages-system-service\` runs no test for`,
+    refused: `\`${key}\` is tested by something \`@akasha/pages-service\` runs no test for`,
   }
 }
 

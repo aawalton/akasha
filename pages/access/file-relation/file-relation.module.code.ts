@@ -13,7 +13,7 @@ const POINTS = /\brelation(-(?:slug|seq|id|name))?\b/
 const SETTLED_BY_THE_ROW = "none"
 
 const NO_NAMING =
-  "reaching every page that names one page went through an index of what names what, built by asking each page type in turn. `@akasha/pages-system-service` answers one page type at a time and holds no such index, so which pages name a given page is not a question that can be put to it here."
+  "reaching every page that names one page went through an index of what names what, built by asking each page type in turn. `@akasha/pages-service` answers one page type at a time and holds no such index, so which pages name a given page is not a question that can be put to it here."
 
 export type FileRelationDeps = FileReadDeps
 
@@ -108,6 +108,6 @@ export async function getFilePagesByRelation(
   _deps: FileRelationDeps = LIVE
 ): Promise<readonly Page[]> {
   throw new Error(
-    `getFilePagesByRelation(${args.relationKey}): ${NO_NAMING} Name the page types to look under and ask each one for \`${args.relationKey}\` through \`@akasha/pages-system-service\`, or read what names a page from the index by \`@akasha/indexes\`.`
+    `getFilePagesByRelation(${args.relationKey}): ${NO_NAMING} Name the page types to look under and ask each one for \`${args.relationKey}\` through \`@akasha/pages-service\`, or read what names a page from the index by \`@akasha/indexes\`.`
   )
 }

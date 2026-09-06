@@ -48,10 +48,10 @@ const PAGE_TYPE = "page-type"
 const ROSTER_HELD_MS = 60_000
 
 const NO_ROSTER =
-  "the page types `@akasha/pages-system-service` lists are the page types whose pages it holds as files, and that listing did not come back"
+  "the page types `@akasha/pages-service` lists are the page types whose pages it holds as files, and that listing did not come back"
 
 const NO_PAGE_TYPE =
-  "`@akasha/pages-system-service` listed no page type at all, and an empty roster would read as a tree where no page is a file"
+  "`@akasha/pages-service` listed no page type at all, and an empty roster would read as a tree where no page is a file"
 
 export function pageOf(raw: Readonly<Record<string, unknown>>): Page {
   const page = flattenRow({ ...raw })

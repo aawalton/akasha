@@ -11,7 +11,7 @@ import {
 export const LISTING_CEILING = 5_000
 
 const NO_ROSTER =
-  "the roster this route answered with named, for each page type, the repository its pages were kept in and the glob those files were filed under. `@akasha/pages-system-service` answers for every page akasha holds and draws no such line, so there is no roster to report, and an empty one would read as a tree holding no page type at all."
+  "the roster this route answered with named, for each page type, the repository its pages were kept in and the glob those files were filed under. `@akasha/pages-service` answers for every page akasha holds and draws no such line, so there is no roster to report, and an empty one would read as a tree holding no page type at all."
 
 const UNREAD_PAGES =
   "the pages did not answer, so this route holds no pages to report; an empty list would read as a page type with nothing in it"
