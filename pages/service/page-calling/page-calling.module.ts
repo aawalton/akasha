@@ -35,7 +35,7 @@ export const pageCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may put its own fetcher in place of the global one.",
+      statement: "A caller may put its own fetcher in place of the global fetcher.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +55,7 @@ export const pageCalling = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer whose shape is not the one asked for is refused rather than read on.",
+      statement: "An answer whose shape is not the shape asked for is refused rather than read on.",
     },
     {
       invariantKind: "departure",
