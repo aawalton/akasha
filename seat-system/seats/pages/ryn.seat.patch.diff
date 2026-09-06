@@ -1,9 +1,14 @@
 readersOweReading: false
 diff --git a/alan/fitness/commands/exercise-saying/exercise-saying.module.ts b/alan/fitness/commands/exercise-saying/exercise-saying.module.ts
-index 7f6677625826da3c882a20dd73261a5fb2cfba15..a83b5020dbbcb1abfa516980b2a89f293b79afa2 100644
+index 7f6677625826da3c882a20dd73261a5fb2cfba15..c095374d4e2020427dd48e68c34eaccd8caa0882 100644
 --- a/alan/fitness/commands/exercise-saying/exercise-saying.module.ts
 +++ b/alan/fitness/commands/exercise-saying/exercise-saying.module.ts
-@@ -25,11 +25,11 @@ export const exerciseSaying = {
+@@ -21,15 +21,15 @@ export const exerciseSaying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag that may repeat holds every value said, in the order said.",
++      statement: "A flag that may repeat holds every value said in the order said.",
      },
      {
        invariantKind: "departure",
