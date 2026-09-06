@@ -1,4 +1,4 @@
-import { repointed } from "@akasha/code-system/path-repointing"
+import { repointed } from "../../../../code-system/path-repointing/path-repointing.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 
 export type Asked = {
