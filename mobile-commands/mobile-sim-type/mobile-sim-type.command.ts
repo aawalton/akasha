@@ -29,7 +29,7 @@ export const mobileSimType = {
     },
     {
       invariantKind: "departure",
-      statement: "A call naming no element types into the one already focused.",
+      statement: "A call naming no element types into the element already focused.",
     },
     {
       invariantKind: "departure",
