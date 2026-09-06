@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/index/index.command.code.ts b/command-system/commands/index/index.command.code.ts
-index 1161fb020952657c5188f03013eae1e2ab7fbcef..fe2b17266a45c81358ed3f75c095a3e56c879a62 100644
+index 1161fb020952657c5188f03013eae1e2ab7fbcef..f073ae92c95fd92d97483cc11425fefa56428c7f 100644
 --- a/command-system/commands/index/index.command.code.ts
 +++ b/command-system/commands/index/index.command.code.ts
 @@ -19,6 +19,8 @@ const DOMAIN_AT = "akasha.domain.ts"
@@ -34,3 +34,22 @@ index 1161fb020952657c5188f03013eae1e2ab7fbcef..fe2b17266a45c81358ed3f75c095a3e5
  export function driftSaid(drift: Drift): readonly string[] {
    const many = drift.added.length + drift.changed.length + drift.went.length
    if (many === 0) return ["nothing in the index differed from what the pages say"]
+@@ -86,9 +104,15 @@ export function driftSaid(drift: Drift): readonly string[] {
+       `${counted(drift.changed.length, "file")} changed, ` +
+       `${counted(drift.went.length, "file")} taken away`,
+   ]
+-  if (drift.added.length > 0) said.push(`added — ${named(drift.added)}`)
+-  if (drift.changed.length > 0) said.push(`changed — ${named(drift.changed)}`)
+-  if (drift.went.length > 0) said.push(`taken away — ${named(drift.went)}`)
++  if (drift.added.length > 0) {
++    said.push(`added — ${classed(drift.added)} — ${named(drift.added)}`)
++  }
++  if (drift.changed.length > 0) {
++    said.push(`changed — ${classed(drift.changed)} — ${named(drift.changed)}`)
++  }
++  if (drift.went.length > 0) {
++    said.push(`taken away — ${classed(drift.went)} — ${named(drift.went)}`)
++  }
+   return said
+ }
+ 
