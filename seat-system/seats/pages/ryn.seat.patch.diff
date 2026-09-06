@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts b/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
-index d63f5e54249530e4b745c8d64388b6470ee474c5..f95f1e9628126c73266a61e35bb82d01bb7ce994 100644
+index d63f5e54249530e4b745c8d64388b6470ee474c5..f85add7f04a8ed9cde3ec4c320c950fa3d274e79 100644
 --- a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
 +++ b/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
 @@ -9,8 +9,7 @@ export const monarchNotesWrite = {
@@ -26,3 +26,17 @@ index d63f5e54249530e4b745c8d64388b6470ee474c5..f95f1e9628126c73266a61e35bb82d01
      },
      {
        invariantKind: "departure",
+@@ -28,8 +30,11 @@ export const monarchNotesWrite = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Setting tags states the whole list, so the standing tags are carried rather than replaced.",
++      statement: "Setting tags states the whole list.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The standing tags are carried rather than replaced.",
+     },
+ 
+     {
