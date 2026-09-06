@@ -1,0 +1,17 @@
+diff --git a/person-system/people/email/email-rules/email-rule-agents/properties/email-rule-judgement.text-property.ts b/person-system/people/email/email-rules/email-rule-agents/properties/email-rule-judgement.text-property.ts
+index 92ea431604d96b5331948ff89bf13b8db23c9a7b..0eb8bd93cb303bb99ff2a553313b014bbda7cb6f 100644
+--- a/person-system/people/email/email-rules/email-rule-agents/properties/email-rule-judgement.text-property.ts
++++ b/person-system/people/email/email-rules/email-rule-agents/properties/email-rule-judgement.text-property.ts
+@@ -13,7 +13,11 @@ export const emailRuleJudgement = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A judgement opens with the act, and the rest is why that act is worth an agent.",
++      statement: "A judgement opens with the act.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The words after the act are why that act is worth an agent.",
+     },
+   ],
+ } as const satisfies TextProperty
