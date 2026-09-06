@@ -1,8 +1,8 @@
-import { existsSync } from "node:fs"
+import { existsSync, statSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
 import { textIn } from "@akasha/code/body-text"
 import type { Ran, Summary, Verdict } from "@akasha/code/code-tests"
-import { plain, ranOver, testNamed, testsUnder } from "@akasha/code/code-tests"
+import { plain, ranOver, testNamed, testsBesideOf } from "@akasha/code/code-tests"
 import { endingOf } from "@akasha/utils-run/running"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 
@@ -12,12 +12,16 @@ const NAMED = "--named"
 
 const WHOLE = "."
 
+const ONE_FILE = "one call runs the tests in one file"
+
+const CHECKS = `the checks run every test in this repository, and ${ONE_FILE}`
+
 export const ANSWER_CEILING = 28000
 
 type Meant = {
-  readonly paths: readonly string[]
+  readonly path: string | null
   readonly name: string | null
-  readonly refusal: string | null
+  readonly refusals: readonly string[]
 }
 
 type Aimed = {
@@ -26,34 +30,39 @@ type Aimed = {
 }
 
 function meaning(argv: readonly string[]): Meant {
-  const refused = (said: string): Meant => ({ paths: [], name: null, refusal: said })
-  const paths: string[] = []
+  const refused = (said: readonly string[]): Meant => ({ path: null, name: null, refusals: said })
+  let path: string | null = null
   let name: string | null = null
   for (let at = 0; at < argv.length; at += 1) {
     const one = argv[at] ?? ""
     if (one === FILE_PATH) {
       const value = argv[at + 1]
-      if (value === undefined) return refused(`${FILE_PATH} names a path, and nothing followed it`)
-      paths.push(value)
+      if (value === undefined) {
+        return refused([`${FILE_PATH} names a path, and nothing followed it`])
+      }
+      if (path !== null) {
+        return refused([`${FILE_PATH} is given more than once, and ${ONE_FILE}`, CHECKS])
+      }
+      path = value
       at += 1
       continue
     }
     if (one === NAMED) {
       const value = argv[at + 1]
-      if (value === undefined) return refused(`${NAMED} names a test, and nothing followed it`)
+      if (value === undefined) return refused([`${NAMED} names a test, and nothing followed it`])
       if (name !== null) {
-        return refused(`${NAMED} names one test, and it was given more than once`)
+        return refused([`${NAMED} names one test, and it was given more than once`])
       }
       name = value
       at += 1
       continue
     }
-    return refused(
+    return refused([
       `\`${one}\` is not an argument this takes — it takes \`${FILE_PATH} <path>\` and ` +
-        `\`${NAMED} <text>\``
-    )
+        `\`${NAMED} <text>\``,
+    ])
   }
-  return { paths, name, refusal: null }
+  return { path, name, refusals: [] }
 }
 
 export function aiming(paths: readonly string[], given: Given): Aimed {
@@ -82,14 +91,31 @@ export function aiming(paths: readonly string[], given: Given): Aimed {
   return { named, refusals }
 }
 
-export function bounded(output: string): readonly string[] {
+function refusedFor(root: string, at: string, said: string): readonly string[] | null {
+  const absolute = join(root, at)
+  if (statSync(absolute).isDirectory()) {
+    return [`${said} is a folder, and ${ONE_FILE}`, CHECKS]
+  }
+  if (testNamed(absolute)) return null
+  const beside = testsBesideOf(absolute)
+    .filter((one) => existsSync(one))
+    .map((one) => relative(root, one))
+  if (beside.length === 0) return [`${said} is no test file, and no test file is beside it`]
+  return [`${said} is no test file — name \`${beside.join("` or `")}\``]
+}
+
+const FEWER = "Name fewer paths to see the rest."
+
+const ONE_TEST = "Name one test to see the rest."
+
+export function bounded(output: string, advice: string = FEWER): readonly string[] {
   const bytes = new TextEncoder().encode(output)
   if (bytes.length <= ANSWER_CEILING) return output.split("\n")
   const dropped = bytes.length - ANSWER_CEILING
   const kept = textIn(bytes.subarray(dropped))
   return [
     `the first ${dropped} bytes of this run are not here — one answer holds ${ANSWER_CEILING}, and ` +
-      "the end is where the summary is. Name fewer paths to see the rest.",
+      `the end is where the summary is. ${advice}`,
     ...kept.split("\n").slice(1),
   ]
 }
@@ -101,8 +127,6 @@ const FAILED = "(fail) "
 const UNLOADED = "# Unhandled error between tests"
 
 const SAID = /^error:\s*(.*)$/
-
-const NONE: Summary = { files: 0, failed: 0, passed: 0 }
 
 const DETAIL =
   'name one test to see why: akasha test --file-path <path> --named "<the test\'s name>"'
@@ -242,7 +266,7 @@ function reportOf(
   return named ? [...told, ...detailOf(output)] : [...told, DETAIL]
 }
 
-function toldOf(done: Ran, expected: number): readonly string[] {
+function toldOf(done: Ran): readonly string[] {
   const said = done.summary
   const ended = endingOf(done.code, done.signal)
   if (done.verdict === "fail") {
@@ -250,11 +274,9 @@ function toldOf(done: Ran, expected: number): readonly string[] {
   }
   if (done.verdict === "short") {
     return [
-      `${said.files} of the ${expected} test files under what was named ran, so the ones that did ` +
-        "pass say nothing about the rest. A file that will not load is counted here as not run." +
-        (done.signal === null
-          ? ""
-          : ` A batch ${ended}, so what that batch held is in none of these counts.`),
+      "the file named was not reached, so nothing that did run says anything about it. A file " +
+        "that will not load is counted here as not run." +
+        (done.signal === null ? "" : ` The run ${ended}.`),
     ]
   }
   return [
@@ -265,21 +287,29 @@ function toldOf(done: Ran, expected: number): readonly string[] {
 
 export function test(argv: readonly string[], given: Given): Answer {
   const meant = meaning(argv)
-  if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
-  const root = resolve(given.root)
-  const aimed = aiming(meant.paths, given)
-  if (aimed.refusals.length > 0) return { report: [], refusals: aimed.refusals, code: 1 }
-  const expected = aimed.named.reduce((held, one) => held + testsUnder(join(root, one)), 0)
-  if (expected === 0) {
-    return { report: [...reportOf("pass", NONE, "", false)], refusals: [], code: 0 }
+  if (meant.refusals.length > 0) return { report: [], refusals: [...meant.refusals], code: 1 }
+  const said = meant.path
+  if (said === null) {
+    return {
+      report: [],
+      refusals: [`${FILE_PATH} names the test file to run, and none is given`, CHECKS],
+      code: 1,
+    }
   }
+  const root = resolve(given.root)
+  const aimed = aiming([said], given)
+  if (aimed.refusals.length > 0) return { report: [], refusals: aimed.refusals, code: 1 }
+  const at = aimed.named[0] ?? ""
+  const refused = refusedFor(root, at, said)
+  if (refused !== null) return { report: [], refusals: refused, code: 1 }
   const named = meant.name !== null
-  const done = ranOver(root, aimed.named, named ? 0 : expected, meant.name)
-  const report = [...bounded(reportOf(done.verdict, done.summary, done.output, named).join("\n"))]
+  const done = ranOver(root, [at], named ? 0 : 1, meant.name)
+  const held = reportOf(done.verdict, done.summary, done.output, named).join("\n")
+  const report = [...bounded(held, ONE_TEST)]
   if (done.verdict === "pass") return { report, refusals: [], code: 0 }
   return {
     report,
-    refusals: [...toldOf(done, expected)],
+    refusals: [...toldOf(done)],
     code: done.verdict === "fail" ? 1 : 3,
   }
 }

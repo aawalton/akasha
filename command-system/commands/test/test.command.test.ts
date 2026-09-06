@@ -54,9 +54,80 @@ check("every spelling of a path outside the folder is refused the same", () => {
   }
 })
 
-check("a run named nothing runs the whole checkout", () => {
+check("a call naming no file is refused, and the refusal says how to name one", () => {
   const root = repo({ "one.test.ts": PASSES })
-  expect(aiming([], given(root)).named).toEqual(["."])
+  const said = test([], given(root))
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("--file-path names the test file to run")
+})
+
+check("a call naming no file points at the checks for every test", () => {
+  const root = repo({ "one.test.ts": PASSES })
+  expect(test([], given(root)).refusals.join("\n")).toContain(
+    "the checks run every test in this repository"
+  )
+})
+
+check("a call naming a test but no file is refused", () => {
+  const root = repo({ "one.test.ts": PASSES })
+  const said = test(["--named", "one"], given(root))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--file-path names the test file to run")
+})
+
+check("a call naming a second file is refused, and nothing is run", () => {
+  const root = repo({ "one.test.ts": PASSES, "two.test.ts": PASSES })
+  const said = test(
+    ["--file-path", "akasha/one.test.ts", "--file-path", "akasha/two.test.ts"],
+    given(root)
+  )
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("--file-path is given more than once")
+  expect(said.refusals.join("\n")).toContain("the checks run every test in this repository")
+})
+
+check("naming one file twice over is refused as naming two is", () => {
+  const root = repo({ "one.test.ts": PASSES })
+  const said = test(
+    ["--file-path", "akasha/one.test.ts", "--file-path", "akasha/one.test.ts"],
+    given(root)
+  )
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("--file-path is given more than once")
+})
+
+check("a folder is refused rather than run, and the refusal points at the checks", () => {
+  const root = repo({ "held/one.test.ts": PASSES })
+  const said = test(["--file-path", "akasha/held"], given(root))
+  expect(said.code).toBe(1)
+  expect(said.report).toEqual([])
+  expect(said.refusals[0]).toContain("is a folder")
+  expect(said.refusals.join("\n")).toContain("the checks run every test in this repository")
+})
+
+check("the repository root is refused as any other folder is", () => {
+  const root = repo({ "one.test.ts": PASSES })
+  expect(test(["--file-path", "."], given(root)).refusals[0]).toContain("is a folder")
+})
+
+check("a file that is no test file is refused, and the test beside it is named", () => {
+  const root = repo({
+    "held.module.code.ts": "export const held = 1\n",
+    "held.module.test.ts": PASSES,
+  })
+  const said = test(["--file-path", "akasha/held.module.code.ts"], given(root))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("is no test file")
+  expect(said.refusals[0]).toContain("akasha/held.module.test.ts")
+})
+
+check("a file with no test beside it is refused and says so", () => {
+  const root = repo({ "notes.md": "held\n" })
+  const said = test(["--file-path", "akasha/notes.md"], given(root))
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).toContain("no test file is beside it")
 })
 
 check("a path that is not there is refused rather than run", () => {
@@ -64,12 +135,6 @@ check("a path that is not there is refused rather than run", () => {
   expect(aiming(["akasha/nowhere.test.ts"], given(root)).refusals[0]).toContain(
     "nothing that is there"
   )
-})
-
-check("a path named twice is refused rather than run twice", () => {
-  const root = repo({ "one.test.ts": PASSES })
-  const said = aiming(["akasha/one.test.ts", "akasha/one.test.ts"], given(root))
-  expect(said.refusals[0]).toContain("named more than once")
 })
 
 check("an argument this does not take is refused by name", () => {
@@ -84,14 +149,6 @@ check("a flag naming no path is refused", () => {
   expect(test(["--file-path"], given(root)).refusals[0]).toContain("nothing followed it")
 })
 
-check("a folder holding no test is an empty run rather than a refusal", () => {
-  const root = repo({ "held.ts": "export const held = 1\n" })
-  const said = test([], given(root))
-  expect(said.code).toBe(0)
-  expect(said.refusals).toEqual([])
-  expect(said.report).toEqual(["0 tests ran: 0 passed, 0 failed."])
-})
-
 check("an output past what one answer holds keeps its end, where the summary is", () => {
   const output = `${"held\n".repeat(ANSWER_CEILING)}Ran 1 tests across 1 files.`
   const said = bounded(output).join("\n")
@@ -100,43 +157,54 @@ check("an output past what one answer holds keeps its end, where the summary is"
   expect(new TextEncoder().encode(said).length).toBeLessThan(ANSWER_CEILING + 200)
 })
 
-check("a passing suite answers 0 and says how many tests ran", () => {
+check("the advice an over-long answer carries is the caller's own", () => {
+  const output = `${"held\n".repeat(ANSWER_CEILING)}Ran 1 tests across 1 files.`
+  expect(bounded(output).join("\n")).toContain("Name fewer paths to see the rest.")
+  expect(bounded(output, "Name one test to see the rest.").join("\n")).toContain(
+    "Name one test to see the rest."
+  )
+})
+
+check("a passing file answers 0 and says how many tests ran", () => {
   const root = repo({ "one.test.ts": PASSES })
-  const said = test([], given(root))
+  const said = test(["--file-path", "akasha/one.test.ts"], given(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(said.report).toEqual(["1 test ran: 1 passed, 0 failed."])
 })
 
-check("a failing run says how many ran, which files failed, and how many failed in each", () => {
-  const root = repo({ "one.test.ts": PASSES, "two.test.ts": TWICE })
-  const said = test([], given(root)).report
-  expect(said[0]).toBe("3 tests ran: 1 passed, 2 failed.")
+check("a failing run says how many ran, which file failed, and how many failed in it", () => {
+  const root = repo({ "two.test.ts": TWICE })
+  const said = test(["--file-path", "akasha/two.test.ts"], given(root)).report
+  expect(said[0]).toBe("2 tests ran: 0 passed, 2 failed.")
   expect(said[1]).toBe("1 test file failed:")
   expect(said[2]).toBe("  akasha/two.test.ts — 2 failed")
 })
 
 check("a file that will not load is named with the one line it gave", () => {
-  const root = repo({ "one.test.ts": PASSES, "gone.test.ts": LOADS })
-  const said = test([], given(root)).report.join("\n")
-  expect(said).toContain("1 file would not load:")
-  expect(said).toContain("akasha/gone.test.ts — Cannot find module './nowhere.ts'")
+  const root = repo({ "gone.test.ts": LOADS })
+  const said = test(["--file-path", "akasha/gone.test.ts"], given(root))
+  expect(said.code).not.toBe(0)
+  expect(said.report.join("\n")).toContain("1 file would not load:")
+  expect(said.report.join("\n")).toContain(
+    "akasha/gone.test.ts — Cannot find module './nowhere.ts'"
+  )
 })
 
 check("a report points at one test rather than carrying a trace or a failure in full", () => {
-  const root = repo({ "one.test.ts": PASSES, "two.test.ts": FAILS })
-  const said = test([], given(root)).report.join("\n")
+  const root = repo({ "two.test.ts": FAILS })
+  const said = test(["--file-path", "akasha/two.test.ts"], given(root)).report.join("\n")
   expect(said).toContain('--named "<the test\'s name>"')
   expect(said).not.toContain("at <anonymous>")
   expect(said).not.toContain("Expected: 2")
   expect(new TextEncoder().encode(said).length).toBeLessThan(500)
 })
 
-check("a failing suite answers 1 and says how many failed", () => {
-  const root = repo({ "one.test.ts": PASSES, "two.test.ts": FAILS })
-  const said = test([], given(root))
+check("a failing file answers 1 and says how many failed", () => {
+  const root = repo({ "two.test.ts": FAILS })
+  const said = test(["--file-path", "akasha/two.test.ts"], given(root))
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("1 of 2 tests failed")
+  expect(said.refusals[0]).toContain("1 of 1 tests failed")
 })
 
 check("one named file runs alone, and its neighbour does not", () => {
@@ -148,7 +216,7 @@ check("one named file runs alone, and its neighbour does not", () => {
 check("a run printing no summary carries what the runner printed rather than a pointer", () => {
   const root = repo({ "web/one.test.ts": PASSES })
   writeFileSync(join(root, "akasha/web/bunfig.toml"), '[test]\npreload = ["./nowhere.ts"]\n')
-  const said = test([], given(root))
+  const said = test(["--file-path", "akasha/web/one.test.ts"], given(root))
   expect(said.code).toBe(3)
   expect(said.report[0]).toBe("0 tests ran: 0 passed, 0 failed.")
   expect(said.report[1]).toContain("of what it printed")
@@ -168,7 +236,7 @@ check("the tail a crash carries is bounded in lines and in bytes alike", () => {
 
 check("a run naming a test runs that one, and no test whose name it opens", () => {
   const root = repo({ "one.test.ts": PAIR })
-  const said = test(["--named", "held (one)"], given(root))
+  const said = test(["--file-path", "akasha/one.test.ts", "--named", "held (one)"], given(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(said.report).toEqual(["1 test ran: 1 passed, 0 failed."])
@@ -176,7 +244,10 @@ check("a run naming a test runs that one, and no test whose name it opens", () =
 
 check("a name no test is called runs nothing rather than refusing", () => {
   const root = repo({ "one.test.ts": PAIR })
-  const said = test(["--named", "no test is called this"], given(root))
+  const said = test(
+    ["--file-path", "akasha/one.test.ts", "--named", "no test is called this"],
+    given(root)
+  )
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(said.report).toEqual(["0 tests ran: 0 passed, 0 failed."])
@@ -191,7 +262,7 @@ check("a name flag naming nothing, and a second one, are each refused", () => {
 
 check("a run naming one test carries why that test failed rather than a pointer", () => {
   const root = repo({ "one.test.ts": FAILS })
-  const said = test(["--named", "one"], given(root))
+  const said = test(["--file-path", "akasha/one.test.ts", "--named", "one"], given(root))
   expect(said.code).toBe(1)
   const report = said.report.join("\n")
   expect(report).toContain("what the runner said:")
@@ -202,7 +273,7 @@ check("a run naming one test carries why that test failed rather than a pointer"
 
 check("a run naming one test that passes carries no detail", () => {
   const root = repo({ "one.test.ts": PASSES })
-  const said = test(["--named", "one"], given(root))
+  const said = test(["--file-path", "akasha/one.test.ts", "--named", "one"], given(root))
   expect(said.code).toBe(0)
   expect(said.report).toEqual(["1 test ran: 1 passed, 0 failed."])
 })

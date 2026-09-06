@@ -47,7 +47,7 @@ const REFUSAL = toldOf(HOOK, [
   "changes rather than after each one. Hand back what you wanted judged and let it run there.",
   "",
   "WHAT ANSWERS INSTEAD, each scoped to what you touched:",
-  "  akasha test --file-path <path>   the tests under one path",
+  "  akasha test --file-path <path>   the tests in the one test file at that path",
   "  akasha lint --file-path <path>   the linter over one path",
   "",
   "A change landing through the akasha commands is checked as it lands, so what you wrote that",

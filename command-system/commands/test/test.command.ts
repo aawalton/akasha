@@ -4,17 +4,21 @@ export const test = {
   id: "01a04ea6-15a3-7000-830d-4cdb1779e81f",
   pageTypeSlug: "command",
   slug: "test",
-  definition: "the command running the akasha tests and saying whether they passed",
+  definition: "the command running one test file and saying whether its tests passed",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
   taking: [
-    { said: "--file-path <path>", takes: "a file or folder in the repository whose tests run" },
+    { said: "--file-path <path>", takes: "the one test file whose tests run" },
     { said: "--named <text>", takes: "the whole name of the one test that runs" },
   ],
   helpNotes: [
-    "--file-path repeats, so several paths run in one call.",
-    "named nothing, it runs every test in the repository.",
+    "--file-path names one test file, and a call naming none is refused.",
+    "--file-path given a second time is refused.",
+    "--file-path naming a folder is refused.",
+    "--file-path naming a file that is no test file is refused.",
+    "The checks run every test in this repository.",
+    "--named narrows the run to one test inside the file named.",
     "--named matches a whole test name rather than a pattern or a part of one.",
     "--named naming no test runs nothing rather than refusing.",
     "--named carries what the runner said about the test rather than a pointer back here.",
@@ -26,7 +30,35 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "A run named nothing runs every test in this repository.",
+      statement: "One call runs the tests in one file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming no file is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming a second file is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming a folder is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call naming a file that is no test file is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for a call naming no file names `--file-path`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal points at the checks for running every test in this repository.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal for a file that is no test file names the test beside that file.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +67,7 @@ export const test = {
     },
     {
       invariantKind: "departure",
-      statement: "A run reaching fewer files than are under it has failed rather than passed.",
+      statement: "A run reaching no test file has failed rather than passed.",
     },
     {
       invariantKind: "departure",
@@ -44,11 +76,6 @@ export const test = {
     {
       invariantKind: "departure",
       statement: "A run the runner died on names the signal that killed the runner.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A run reaching fewer files where a batch died names the signal that batch died on.",
     },
     {
       invariantKind: "departure",
@@ -72,11 +99,15 @@ export const test = {
     },
     {
       invariantKind: "departure",
+      statement: "A name is matched inside the file named rather than across this repository.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run naming a test no test is called runs nothing rather than refusing.",
     },
     {
       invariantKind: "departure",
-      statement: "A run naming a test is not weighed against the test files under the paths named.",
+      statement: "A run naming a test is not weighed against the test file named.",
     },
     {
       invariantKind: "departure",
