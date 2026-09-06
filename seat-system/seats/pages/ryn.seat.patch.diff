@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/agent-forest-reading/agent-forest-reading.module.ts b/editor-extension/agent-forest-reading/agent-forest-reading.module.ts
+index f743aa836ead140dfff453d0a451637af2ff1a4e..565f720a039e0189f56c7d4667c85cc7c099316f 100644
+--- a/editor-extension/agent-forest-reading/agent-forest-reading.module.ts
++++ b/editor-extension/agent-forest-reading/agent-forest-reading.module.ts
+@@ -13,7 +13,7 @@ export const agentForestReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every live seat is read at once rather than one after another.",
++      statement: "Every live seat is read at once rather than in turn.",
+     },
+     {
+       invariantKind: "departure",
