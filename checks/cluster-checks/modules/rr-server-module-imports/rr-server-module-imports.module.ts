@@ -13,7 +13,7 @@ export const rrServerModuleImports = {
     },
     {
       invariantKind: "departure",
-      statement: "A configuration naming no app directory represents the conventional one.",
+      statement: "A configuration naming no app directory represents the conventional directory.",
     },
     {
       invariantKind: "departure",
