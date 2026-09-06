@@ -909,6 +909,110 @@ index 7da8713269fa26473f7b8114b3eae05c1fdc5741..1999bb8ebc28104a6d8f99abe068f66a
    unitSlug: "words",
    chapterText: "md",
  } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/australia/bridging-visas.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/australia/bridging-visas.book-section.ts
+index cdd3a283187624cf1cf95e401257c48a0ec9ab49..73d54ce987463f583b23969f47912f305fe008ea 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/australia/bridging-visas.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/australia/bridging-visas.book-section.ts
+@@ -7,7 +7,7 @@ export const bridgingVisas = {
+   title: "Bridging Visas",
+   description:
+     "Australia bridging visas BVA–BVE: status-maintenance visas that hold lawful status while a substantive decision is pending (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["australia"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/australia/business-investment.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/australia/business-investment.book-section.ts
+index cd2acfa2e35ac8d8c0674d181e5dd337536a2e5b..503b1528772f58c785401fb349a7a7135b29d588 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/australia/business-investment.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/australia/business-investment.book-section.ts
+@@ -7,7 +7,7 @@ export const businessInvestment = {
+   title: "Business Investment",
+   description:
+     "Australia business/investment residency paths: the BIIP (incl. Significant Investor Visa) closure of 31 Jul 2024 and what replaced it (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["australia"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/australia/family-stream.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/australia/family-stream.book-section.ts
+index 7cda82cca9d860fb6bd4a372908897308792dc7f..24e16bfd26065d794dc4bec61c470c4eb9f520ff 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/australia/family-stream.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/australia/family-stream.book-section.ts
+@@ -7,7 +7,7 @@ export const familyStream = {
+   title: "Family Stream",
+   description:
+     "Australia family-stream residency paths: partner (309/100, 820/801), parent (103/143/864), and other family visas with current backlogs (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["australia"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/australia/humanitarian.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/australia/humanitarian.book-section.ts
+index 88e574cc83dbce69063ee4e63d7594df79e7d8ae..aea96fd7bbe824619f0fe75204260efdc98b241c 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/australia/humanitarian.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/australia/humanitarian.book-section.ts
+@@ -7,7 +7,7 @@ export const humanitarian = {
+   title: "Humanitarian",
+   description:
+     "Australia humanitarian/protection residency paths: offshore refugee (200–204), onshore protection (866), and phasing-out temporary protection (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["australia"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/australia/skilled-stream.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/australia/skilled-stream.book-section.ts
+index 7871503a1b328967d726e43183442af40d18e5d9..abf6139036b2630aa315354b73394a46257aeb2b 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/australia/skilled-stream.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/australia/skilled-stream.book-section.ts
+@@ -7,7 +7,7 @@ export const skilledStream = {
+   title: "Skilled Stream",
+   description:
+     "Australia skilled-migration residency paths: points-tested 189/190/491, employer-sponsored 482 (SID)/186/494, and the National Innovation Visa 858 (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["australia"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/australia/special-category.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/australia/special-category.book-section.ts
+index 4ae25ae303405901448bdcabd954c74e670a86de..4d6c76afed5fbc35692753e6e94d912a90227056 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/australia/special-category.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/australia/special-category.book-section.ts
+@@ -7,7 +7,7 @@ export const specialCategory = {
+   title: "Special Category",
+   description:
+     "Australia special-category residency: the New Zealand-citizen Special Category Visa 444 and its 2023 direct-citizenship path (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["australia"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/australia/student-graduate.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/australia/student-graduate.book-section.ts
+index 5e5cb491c2a7285b7207fb22f7be68271b508229..073f1c852d9a700e6aa5387b3be806722a955e6c 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/australia/student-graduate.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/australia/student-graduate.book-section.ts
+@@ -7,7 +7,7 @@ export const studentGraduate = {
+   title: "Student Graduate",
+   description:
+     "Australia student/graduate residency bridges: student visa 500 and Temporary Graduate 485, with the 2024 Genuine-Student and cap changes (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["australia"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-residency/australia/visitor-working-holiday.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/australia/visitor-working-holiday.book-section.ts
+index 5f42e6e14812818a9a0be2eeb396cff5953a2a6f..f48a303d9241d0783ade1da15832ede69fd43568 100644
+--- a/alan/books/my-projects/sections/second-passport/other-residency/australia/visitor-working-holiday.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-residency/australia/visitor-working-holiday.book-section.ts
+@@ -7,7 +7,7 @@ export const visitorWorkingHoliday = {
+   title: "Visitor Working Holiday",
+   description:
+     "Australia visitor and working-holiday options: Work and Holiday 462, Working Holiday 417, Visitor 600, and the digital-nomad gap (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["australia"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
 diff --git a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-andorra.book-section.ts b/alan/books/my-projects/sections/second-passport/other-residency/other-residency-andorra.book-section.ts
 index b650a480d3756c005af3540bd9be1b213fdbbf66..780090744239233fe1b7babb9b5149a1341f3823 100644
 --- a/alan/books/my-projects/sections/second-passport/other-residency/other-residency-andorra.book-section.ts
