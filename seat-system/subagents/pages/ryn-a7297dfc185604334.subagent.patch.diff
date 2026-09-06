@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/editor-extension/seat-showing/seat-showing.module.ts b/editor-extension/seat-showing/seat-showing.module.ts
+index d63b81368fddc77248aa0836ca2808b7242b345b..5665c397efe151184c450f8920de2547a8e51039 100644
+--- a/editor-extension/seat-showing/seat-showing.module.ts
++++ b/editor-extension/seat-showing/seat-showing.module.ts
+@@ -21,7 +21,7 @@ export const seatShowing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An ancestor's column is taken where none is remembered.",
++      statement: "An ancestor's column is taken where no column is remembered for the seat.",
+     },
+     {
+       invariantKind: "departure",
