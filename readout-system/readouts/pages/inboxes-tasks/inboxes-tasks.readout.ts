@@ -20,7 +20,7 @@ export const inboxesTasks = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The count is the one the tracking day carries for the day asked for.",
+      statement: "The count is the count the tracking day carries for the day asked for.",
     },
     {
       invariantKind: "departure",
