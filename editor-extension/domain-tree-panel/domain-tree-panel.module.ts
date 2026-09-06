@@ -31,11 +31,15 @@ export const domainTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The rows the file carries are drawn as they are rather than spelled again.",
+      statement: "The rows the file carries are drawn unchanged rather than spelled again.",
     },
     {
       invariantKind: "departure",
-      statement: "A row's champion is carried on, the panel making it the row's description.",
+      statement: "A row's champion is carried on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The panel makes that champion the row's description.",
     },
     {
       invariantKind: "departure",
