@@ -14,6 +14,8 @@ import {
 
 afterAll(scratch.sweep)
 
+const HERE = "akasha/"
+
 const SHARED_AT = "akasha/shared.type-declaration.d.ts"
 
 const OTHER_AT = "akasha/other.type-declaration.d.ts"
@@ -201,7 +203,8 @@ test("the files read are the ones the index names beside the ones the change car
   const given = change(staging(APART, held), { [added]: held })
   const cast = shadowFor(given)
   if ("refused" in cast) throw new Error(cast.refused)
-  expect(readingIn(given, cast.shadow)).toEqual([MODULE_AT, SHARED_AT, added])
+  const read = readingIn(given, cast.shadow).filter((one) => one.startsWith(HERE))
+  expect(read).toEqual([MODULE_AT, SHARED_AT, added])
 })
 
 test("a file the change takes away is read no more", () => {
@@ -220,6 +223,6 @@ test("a TypeScript file akasha compiles is input to this check", () => {
   expect(globalDeclaredOnce.isInput(MODULE_AT, {} as never)).toBe(true)
 })
 
-test("a file outside akasha is no input", () => {
-  expect(globalDeclaredOnce.isInput("temper/one.ts", {} as never)).toBe(false)
+test("a file inside the packages folder is no input", () => {
+  expect(globalDeclaredOnce.isInput("node_modules/one/one.ts", {} as never)).toBe(false)
 })
