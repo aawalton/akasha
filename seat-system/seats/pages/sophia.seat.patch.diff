@@ -1,0 +1,18 @@
+diff --git a/role-system/roles/role.page-type.ts b/role-system/roles/role.page-type.ts
+index 76c08e2d1715208455caf79d9924d813cbac955b..9084303ee3cc37e2a76cfa01509fc54063791bcc 100644
+--- a/role-system/roles/role.page-type.ts
++++ b/role-system/roles/role.page-type.ts
+@@ -27,13 +27,6 @@ export const role = {
+     "role/worker",
+   ],
+   properties: [{ pagePropertySlug: "on-call", required: true, many: false }],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The invariants and directives every role is held to are on the type rather than on any one role.",
+-    },
+-  ],
+   directives: [
+     {
+       directiveKind: "principle",
