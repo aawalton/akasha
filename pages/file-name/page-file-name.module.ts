@@ -44,10 +44,6 @@ export const pageFileName = {
     },
     {
       invariantKind: "departure",
-      statement: "A name outside `akasha/` is read no further.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "A name carrying a known page type but held as anything but TypeScript is no page.",
     },
@@ -126,7 +122,11 @@ export const pageFileName = {
 
     {
       invariantKind: "departure",
-      statement: "A part section is the word `part` and a number of two or more.",
+      statement: "A part section is the word `part` and a part number.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The least part number is two.",
     },
     {
       invariantKind: "departure",
