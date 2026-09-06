@@ -356,3 +356,17 @@ index 0000000000000000000000000000000000000000..d90f59e0ea872761df9411e1a626968b
 +  slug: "collections-secrets-webhook-username",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "WEBHOOK_USERNAME" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-zero-admin-password.secret.ts b/service-system/secrets/pages/collections-secrets-zero-admin-password.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ddffa49947ae0c17d28a8ebd7bc4c18535fee129
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-zero-admin-password.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsZeroAdminPassword = {
++  id: "01a076b8-753c-7d2b-8e17-c96e316e561d",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-zero-admin-password",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "ZERO_ADMIN_PASSWORD" }],
++} as const satisfies Secret
