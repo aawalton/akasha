@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts b/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
-index 08cfde9f32447596190f37cbc4813fb09aea8e41..1593faf0248ed7a11bf5faadb31fca5f19d8b818 100644
+index 08cfde9f32447596190f37cbc4813fb09aea8e41..6dccdd6f2fb76594a6472a00e95f98245572c6fd 100644
 --- a/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
 +++ b/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
 @@ -22,7 +22,7 @@ export const monarchEvalSnapshot = {
@@ -12,3 +12,12 @@ index 08cfde9f32447596190f37cbc4813fb09aea8e41..1593faf0248ed7a11bf5faadb31fca5f
      },
      {
        invariantKind: "departure",
+@@ -31,7 +31,7 @@ export const monarchEvalSnapshot = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A family present on one side and absent on the other is said as absent rather than passed over.",
++        "A family present on one side and absent on the second is said as absent rather than passed over.",
+     },
+     {
+       invariantKind: "absence",
