@@ -21,7 +21,7 @@ export const extensionEntry = {
     },
     {
       invariantKind: "departure",
-      statement: "One bun process answers this window, apart from any other window's.",
+      statement: "One bun process answers this window apart from any other window's process.",
     },
     {
       invariantKind: "departure",
@@ -49,8 +49,11 @@ export const extensionEntry = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A panel that did not start is named to Alan once, with the rest said to be running.",
+      statement: "A panel that did not start is named to Alan once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rest of the panels are said to be running.",
     },
     {
       invariantKind: "absence",
