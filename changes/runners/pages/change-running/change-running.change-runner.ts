@@ -41,6 +41,14 @@ export const changeRunning = {
       statement: "An address reaching no page is refused rather than answered with no edits.",
     },
     {
+      invariantKind: "departure",
+      statement: "An address written in code is held to the arguments the map states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An address worked out while a command runs is held to the change's refusals.",
+    },
+    {
       invariantKind: "absence",
       statement: "No change is imported here.",
     },

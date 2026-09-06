@@ -54,18 +54,25 @@ async function guardsIn(world: World, address: string): Promise<readonly Guard[]
   return found
 }
 
+export async function runAt(world: World, at: string, given: unknown): Promise<Answer> {
+  const run = await exportedAt(world, at, RUN_CHANGE)
+  if (typeof run !== "function") {
+    return refusing(`\`${at}\` reaches no change exporting \`${RUN_CHANGE}\``)
+  }
+  const said = (run as (world: World, given: unknown) => Answer)(world, given)
+  if (said.refused !== null) return said
+  const guards = await guardsIn(world, at)
+  if (typeof guards === "string") return refusing(guards)
+  return guardedBy(world, said, guards)
+}
+
+// A caller naming an address in its own text is held to the arguments the map states for that
+// address. A command line names an address as a string worked out while the command runs, so a
+// caller reaching the untyped form above is held by the change's own refusals instead.
 export async function runChange<K extends keyof Changes & string>(
   world: World,
   at: K,
   given: Changes[K]
 ): Promise<Answer> {
-  const run = await exportedAt(world, at, RUN_CHANGE)
-  if (typeof run !== "function") {
-    return refusing(`\`${at}\` reaches no change exporting \`${RUN_CHANGE}\``)
-  }
-  const said = (run as (world: World, given: Changes[K]) => Answer)(world, given)
-  if (said.refused !== null) return said
-  const guards = await guardsIn(world, at)
-  if (typeof guards === "string") return refusing(guards)
-  return guardedBy(world, said, guards)
+  return await runAt(world, at, given)
 }
