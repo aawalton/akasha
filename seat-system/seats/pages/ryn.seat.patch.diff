@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts b/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
+index e62ca33b4db76a7bbc5e9084cb55bb200432df11..1548c64df541710861db59f9bec9595d02e8fbb1 100644
+--- a/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
++++ b/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
+@@ -10,7 +10,7 @@ export const seatTranscriptRotation = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat naming no transcript has none rotated.",
++      statement: "A seat naming no transcript has no transcript rotated.",
+     },
+     {
+       invariantKind: "departure",
