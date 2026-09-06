@@ -1,0 +1,1043 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index 5dab01d31f365e7b3e7ff701bfafbc61a7e7fc4b..3af2a17ba8907fc5394e2583c8c4056225d2285f 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -50,7 +50,7 @@ export const command = {
+     "command/elaine",
+     "command/food",
+     "command/icloud",
+-    "command/importing",
++    "command/track-health-import",
+     "command/index",
+     "command/ios-app",
+     "command/lint",
+diff --git a/command-system/commands/importing/importing.command.code.ts b/command-system/commands/importing/importing.command.code.ts
+deleted file mode 100644
+index 01460b6f24f0c4a121e7b535f100f67d9990a778..0000000000000000000000000000000000000000
+--- a/command-system/commands/importing/importing.command.code.ts
++++ /dev/null
+@@ -1,226 +0,0 @@
+-import { upsertHealthSamples } from "@akasha/health-samples-access/sample-upsert"
+-import { streamExportLines } from "@akasha/health-samples-import/export-fetching"
+-import { buildFetchScript } from "@akasha/health-samples-import/health-export"
+-import { IMPORT_METRICS } from "@akasha/health-samples-import/health-import"
+-import { importReading } from "@akasha/health-samples-import/health-import-reading"
+-import {
+-  type ImportOutcome,
+-  type ImportRunDeps,
+-  MAX_IMPORT_BATCH,
+-  NO_LOWER_BOUND,
+-  runHealthImport,
+-} from "@akasha/health-samples-import/health-import-run"
+-import type { Answer } from "../../calling/calling.module.code.ts"
+-import { refused } from "../../calling/calling.module.code.ts"
+-import { saidBy } from "../../fault-saying/fault-saying.module.code.ts"
+-
+-const INPUT = 1
+-
+-const DATA = 2
+-
+-const OPERATIONAL = 3
+-
+-const NOTHING = "—"
+-
+-export const HEALTH = "health"
+-
+-const PATH = "--path"
+-
+-const SINCE = "--since"
+-
+-const BATCH = "--batch"
+-
+-const DRY_RUN = "--dry-run"
+-
+-const RESTART = "--restart"
+-
+-const VALUED = [PATH, SINCE, BATCH]
+-
+-const BARE = [DRY_RUN, RESTART]
+-
+-const CIVIL_DAY = /^\d{4}-\d{2}-\d{2}$/
+-
+-const NO_EXPORT =
+-  "no Apple Health export is on this workstation or on the macbook. On your iPhone, open Health, " +
+-  "tap your profile photo, then Export All Health Data, and put the zip in `~/Downloads` on either " +
+-  "machine — or name one with `--path`."
+-
+-const TAKEN_UP =
+-  "what already landed is written, and a call made again takes the run up where it ended unless `--restart` is said"
+-
+-export type Taken = {
+-  readonly path: string | undefined
+-  readonly since: string
+-  readonly batch: number
+-  readonly dryRun: boolean
+-  readonly restart: boolean
+-}
+-
+-export type Reading = Taken | { readonly refused: string }
+-
+-export function taken(argv: readonly string[]): Reading {
+-  const held = new Map<string, string>()
+-  const bare = new Set<string>()
+-  let at = 0
+-  while (at < argv.length) {
+-    const one = argv[at] as string
+-    at += 1
+-    if (BARE.includes(one)) {
+-      bare.add(one)
+-      continue
+-    }
+-    if (!one.startsWith("-")) {
+-      return {
+-        refused: `\`akasha importing\` brings in one subject, and \`${one}\` is named after \`${HEALTH}\``,
+-      }
+-    }
+-    const named = VALUED.find((each) => one === each || one.startsWith(`${each}=`))
+-    if (named === undefined) {
+-      return { refused: `\`${one}\` is nothing \`akasha importing ${HEALTH}\` takes` }
+-    }
+-    let value: string | undefined
+-    if (one === named) {
+-      value = argv[at]
+-      at += 1
+-    } else {
+-      value = one.slice(named.length + 1)
+-    }
+-    if (value === undefined || value === "" || value.startsWith("-")) {
+-      return { refused: `\`${named}\` takes a value, and this call names none after it` }
+-    }
+-    const before = held.get(named)
+-    if (before !== undefined) {
+-      return {
+-        refused: `\`${named}\` is named twice, as \`${before}\` and as \`${value}\`, so which is meant is unsettled`,
+-      }
+-    }
+-    held.set(named, value)
+-  }
+-  const since = held.get(SINCE)
+-  if (since !== undefined && !CIVIL_DAY.test(since)) {
+-    return {
+-      refused: `\`${SINCE}\` takes a civil day written YYYY-MM-DD, and this call names \`${since}\``,
+-    }
+-  }
+-  const said = held.get(BATCH)
+-  const batch = said === undefined ? MAX_IMPORT_BATCH : Number(said)
+-  if (!Number.isInteger(batch) || batch < 1 || batch > MAX_IMPORT_BATCH) {
+-    return {
+-      refused: `\`${BATCH}\` takes a whole number from 1 to ${MAX_IMPORT_BATCH}, and this call names \`${said}\``,
+-    }
+-  }
+-  return {
+-    path: held.get(PATH),
+-    since: since ?? NO_LOWER_BOUND,
+-    batch,
+-    dryRun: bare.has(DRY_RUN),
+-    restart: bare.has(RESTART),
+-  }
+-}
+-
+-export function minuteOf(ms: number | undefined): string {
+-  return ms === undefined ? NOTHING : new Date(ms).toISOString().slice(0, 16).replace("T", " ")
+-}
+-
+-export function linesOf(outcome: ImportOutcome, dryRun: boolean): readonly string[] {
+-  const said: string[] = [
+-    `import\t${HEALTH}\t${outcome.sourceFile ?? NOTHING}`,
+-    `exported\t${minuteOf(outcome.exportedAtMs)} UTC`,
+-  ]
+-  if (outcome.resumedFrom > 0) said.push(`resumed\tafter record line ${outcome.resumedFrom}`)
+-  for (const [metric, held] of Object.entries(outcome.perMetric)) {
+-    said.push(
+-      `${metric}\t${held.count} records\tearliest ${minuteOf(held.earliestMs)}\tlatest ${minuteOf(held.latestMs)}`
+-    )
+-  }
+-  said.push(`record lines\t${outcome.tally.recordLines}`)
+-  said.push(`converted\t${outcome.tally.converted}`)
+-  if (outcome.tally.unparseable > 0) said.push(`unparseable\t${outcome.tally.unparseable}`)
+-  if (outcome.tally.sourceDefaulted > 0) {
+-    said.push(`unattributed\t${outcome.tally.sourceDefaulted}`)
+-  }
+-  for (const [why, many] of Object.entries(outcome.tally.rejected)) {
+-    if (many > 0) said.push(`refused\t${why}\t${many}`)
+-  }
+-  if (dryRun) {
+-    said.push("dry-run\tnothing was written; run it again without `--dry-run` to carry it out")
+-    return said
+-  }
+-  said.push(`batches\t${outcome.batches}`)
+-  said.push(`inserted\t${outcome.write.inserted}`)
+-  said.push(`already filed\t${outcome.write.unchanged}`)
+-  if (outcome.write.valueChanged > 0) said.push(`value moved\t${outcome.write.valueChanged}`)
+-  return said
+-}
+-
+-export function readingLines(
+-  outcome: ImportOutcome,
+-  dryRun: boolean,
+-  atMs: number
+-): readonly string[] {
+-  const read = importReading(outcome, { dryRun, observedAtMs: atMs })
+-  const said = [`reading\t${read.state}\t${read.reason}`]
+-  for (const one of read.findings) {
+-    said.push(one.at === null ? `finding\t${one.detail}` : `finding\t${one.at}\t${one.detail}`)
+-  }
+-  return said
+-}
+-
+-export async function healthImported(
+-  held: Taken,
+-  deps: ImportRunDeps,
+-  atMs: number
+-): Promise<Answer> {
+-  let outcome: ImportOutcome
+-  try {
+-    outcome = await runHealthImport(
+-      {
+-        sinceDay: held.since,
+-        batchSize: held.batch,
+-        dryRun: held.dryRun,
+-        restart: held.restart,
+-        onProgress: () => undefined,
+-      },
+-      deps
+-    )
+-  } catch (thrown) {
+-    return { report: [], refusals: [saidBy(thrown), TAKEN_UP], code: OPERATIONAL }
+-  }
+-  if (outcome.sourceFile === null) return refused(NO_EXPORT, DATA)
+-  return {
+-    report: [...linesOf(outcome, held.dryRun), ...readingLines(outcome, held.dryRun, atMs)],
+-    refusals: [],
+-    code: 0,
+-  }
+-}
+-
+-export function reaching(held: Taken): ImportRunDeps {
+-  const script = buildFetchScript({
+-    path: held.path,
+-    sinceDay: held.since,
+-    metrics: IMPORT_METRICS,
+-  })
+-  return {
+-    openStream: () => streamExportLines(script),
+-    writeBatch: async (samples) => {
+-      if (held.dryRun) throw new Error("a dry run reached the writer, which writes nothing")
+-      return await upsertHealthSamples({ samples })
+-    },
+-  }
+-}
+-
+-export async function importing(argv: readonly string[]): Promise<Answer> {
+-  const subject = argv[0]
+-  if (subject === undefined) {
+-    return refused(`\`akasha importing\` takes a subject, which is \`${HEALTH}\``, INPUT)
+-  }
+-  if (subject !== HEALTH) {
+-    return refused(
+-      `\`${subject}\` is nothing \`akasha importing\` brings in, which is \`${HEALTH}\``,
+-      INPUT
+-    )
+-  }
+-  const held = taken(argv.slice(1))
+-  if ("refused" in held) return refused(held.refused, INPUT)
+-  return await healthImported(held, reaching(held), Date.now())
+-}
+diff --git a/command-system/commands/importing/importing.command.test.ts b/command-system/commands/importing/importing.command.test.ts
+deleted file mode 100644
+index f550df4b1c20abdb13660f37f0106306c47e0951..0000000000000000000000000000000000000000
+--- a/command-system/commands/importing/importing.command.test.ts
++++ /dev/null
+@@ -1,177 +0,0 @@
+-import { expect, test } from "bun:test"
+-import type { ImportOutcome, ImportRunDeps } from "@akasha/health-samples-import/health-import-run"
+-import { MAX_IMPORT_BATCH, NO_LOWER_BOUND } from "@akasha/health-samples-import/health-import-run"
+-import { healthImported, importing, linesOf, type Taken, taken } from "./importing.command.code.ts"
+-
+-const SOURCE = "/Users/nobody/Downloads/export.zip"
+-
+-const REACHED = "the writer was reached"
+-
+-function held(argv: readonly string[]): Taken {
+-  const said = taken(argv)
+-  if ("refused" in said) throw new Error(said.refused)
+-  return said
+-}
+-
+-function outcomeOf(): ImportOutcome {
+-  return {
+-    sourceFile: SOURCE,
+-    exportedAtMs: undefined,
+-    tally: {
+-      recordLines: 0,
+-      unparseable: 0,
+-      converted: 0,
+-      sourceDefaulted: 0,
+-      rejected: {
+-        "metric-not-imported": 0,
+-        "unit-unrecognised": 0,
+-        "value-not-a-number": 0,
+-        "span-inverted": 0,
+-      },
+-    },
+-    perMetric: {
+-      activeEnergy: { count: 0, earliestMs: undefined, latestMs: undefined },
+-      stepCount: { count: 0, earliestMs: undefined, latestMs: undefined },
+-    },
+-    write: { received: 0, distinct: 0, inserted: 0, unchanged: 0, valueChanged: 0 },
+-    batches: 0,
+-    samplesWritten: 0,
+-    resumedFrom: 0,
+-  }
+-}
+-
+-const NOTHING_THERE: ImportRunDeps = {
+-  openStream: async function* () {
+-    yield "NOFILE"
+-  },
+-  writeBatch: async () => {
+-    throw new Error(REACHED)
+-  },
+-}
+-
+-const EMPTY_EXPORT: ImportRunDeps = {
+-  openStream: async function* () {
+-    yield `FILE\t${SOURCE}`
+-  },
+-  writeBatch: async () => {
+-    throw new Error(REACHED)
+-  },
+-}
+-
+-const BROKEN_REACH: ImportRunDeps = {
+-  openStream: async function* () {
+-    yield `FILE\t${SOURCE}`
+-    throw new Error("ssh answered 255")
+-  },
+-  writeBatch: async () => {
+-    throw new Error(REACHED)
+-  },
+-}
+-
+-test("a call naming no subject is refused as the caller's fault", async () => {
+-  const answer = await importing([])
+-  expect(answer.code).toBe(1)
+-  expect(answer.refusals[0]).toContain("health")
+-})
+-
+-test("a subject this command does not bring in is refused by name", async () => {
+-  const answer = await importing(["weather"])
+-  expect(answer.code).toBe(1)
+-  expect(answer.refusals[0]).toContain("`weather`")
+-})
+-
+-test("a second subject is refused rather than chosen between", async () => {
+-  const answer = await importing(["health", "weather"])
+-  expect(answer.code).toBe(1)
+-  expect(answer.refusals[0]).toContain("one subject")
+-})
+-
+-test("a flag this command does not take is refused by name", async () => {
+-  const answer = await importing(["health", "--json"])
+-  expect(answer.code).toBe(1)
+-  expect(answer.refusals[0]).toContain("`--json`")
+-})
+-
+-test("a day not written as a civil day is refused", () => {
+-  const said = taken(["--since", "2026-9-1"])
+-  expect(said).toEqual({ refused: expect.stringContaining("YYYY-MM-DD") })
+-})
+-
+-test("a batch outside one to a thousand is refused", () => {
+-  expect(taken(["--batch", "0"])).toEqual({ refused: expect.stringContaining("1 to 1000") })
+-  expect(taken(["--batch", "1001"])).toEqual({ refused: expect.stringContaining("1 to 1000") })
+-  expect(taken(["--batch", "ten"])).toEqual({ refused: expect.stringContaining("1 to 1000") })
+-})
+-
+-test("a value named twice is refused rather than chosen between", () => {
+-  const said = taken(["--since", "2026-08-01", "--since", "2026-08-02"])
+-  expect(said).toEqual({ refused: expect.stringContaining("named twice") })
+-})
+-
+-test("a flag taking a value and given none is refused", () => {
+-  expect(taken(["--path"])).toEqual({ refused: expect.stringContaining("names none after it") })
+-  expect(taken(["--since", "--dry-run"])).toEqual({
+-    refused: expect.stringContaining("names none after it"),
+-  })
+-})
+-
+-test("a call naming nothing takes the whole history a thousand readings at a time", () => {
+-  expect(held([])).toEqual({
+-    path: undefined,
+-    since: NO_LOWER_BOUND,
+-    batch: MAX_IMPORT_BATCH,
+-    dryRun: false,
+-    restart: false,
+-  })
+-})
+-
+-test("a value is read whether it follows its flag or is joined to it", () => {
+-  expect(held([`--path=${SOURCE}`]).path).toBe(SOURCE)
+-  expect(held(["--path", SOURCE]).path).toBe(SOURCE)
+-})
+-
+-test("an export the macbook does not hold is refused as the data's fault", async () => {
+-  const answer = await healthImported(held([]), NOTHING_THERE, 0)
+-  expect(answer.code).toBe(2)
+-  expect(answer.refusals[0]).toContain("Export All Health Data")
+-})
+-
+-test("a dry run reads the export, reaches no writer, and says nothing was written", async () => {
+-  const answer = await healthImported(held(["--dry-run"]), EMPTY_EXPORT, 0)
+-  expect(answer.code).toBe(0)
+-  expect(answer.report[0]).toBe(`import\thealth\t${SOURCE}`)
+-  expect(answer.report.some((one) => one.startsWith("dry-run"))).toBe(true)
+-  expect(answer.report.some((one) => one.startsWith("batches"))).toBe(false)
+-})
+-
+-test("a run over an export holding no record reaches no writer and counts nothing", async () => {
+-  const answer = await healthImported(held([]), EMPTY_EXPORT, 0)
+-  expect(answer.code).toBe(0)
+-  expect(answer.report).toContain("batches\t0")
+-  expect(answer.report).toContain("inserted\t0")
+-  expect(answer.report).toContain("already filed\t0")
+-})
+-
+-test("a reach that breaks is refused as an operational fault, and the run can be taken up", async () => {
+-  const answer = await healthImported(held([]), BROKEN_REACH, 0)
+-  expect(answer.code).toBe(3)
+-  expect(answer.refusals[0]).toContain("255")
+-  expect(answer.refusals[1]).toContain("--restart")
+-})
+-
+-test("a dry run's report names no batch and no row, and a run's report names both", () => {
+-  const outcome = outcomeOf()
+-  const dry = linesOf(outcome, true)
+-  expect(dry[dry.length - 1]).toContain("dry-run")
+-  expect(dry.some((one) => one.startsWith("inserted"))).toBe(false)
+-  const wet = linesOf(outcome, false)
+-  expect(wet).toContain("batches\t0")
+-  expect(wet).toContain("inserted\t0")
+-})
+-
+-test("a report carries a count and an instant for each metric and no reading's own value", () => {
+-  const said = linesOf(outcomeOf(), true)
+-  expect(said).toContain("activeEnergy\t0 records\tearliest —\tlatest —")
+-  expect(said).toContain("stepCount\t0 records\tearliest —\tlatest —")
+-  expect(said).toContain("record lines\t0")
+-})
+diff --git a/command-system/commands/importing/importing.command.ts b/command-system/commands/importing/importing.command.ts
+deleted file mode 100644
+index d2a5894821babbde1a22e8bf30a11e4fd837fa3f..0000000000000000000000000000000000000000
+--- a/command-system/commands/importing/importing.command.ts
++++ /dev/null
+@@ -1,90 +0,0 @@
+-import type { Command } from "../command.page-type.ts"
+-
+-export const importing = {
+-  id: "01a0620c-6340-70c9-a176-730aa9470e96",
+-  pageTypeSlug: "command",
+-  slug: "importing",
+-  definition: "the command bringing a named subject in from outside",
+-  code: "ts",
+-  test: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "<subject>", takes: "what is brought in, which is `health`" },
+-    {
+-      said: "--path <file>",
+-      takes: "the export to read, in place of the newest export the machine holds",
+-    },
+-    { said: "--since <YYYY-MM-DD>", takes: "the first civil day to bring in" },
+-    { said: "--batch <n>", takes: "how many readings one write carries, 1 to 1000" },
+-    { said: "--dry-run", takes: "read and count and write nothing" },
+-    {
+-      said: "--restart",
+-      takes: "begin at the head of the export rather than where an earlier run ended",
+-    },
+-  ],
+-  helpNotes: [
+-    "the subject comes first, and one call brings in one subject.",
+-    "`health` reads an Apple Health export and lands the active energy and step count records that export holds in the sample store.",
+-    "the export is the newest `export*.zip` in `~/Downloads` unless `--path` names another.",
+-    "this workstation is looked in first and the macbook is reached over ssh only where this workstation holds no export.",
+-    "the phone writes that zip and nothing here makes the zip, so neither machine holding one refuses the call rather than waiting.",
+-    "records are filtered on the machine holding the export, so a call naming `--since` reads less than a call naming none.",
+-    "`--since` bounds the import below and nothing bounds the import above, so a day named far back brings in every record after that day.",
+-    "a call naming no `--since` brings in the whole history the export holds.",
+-    "a run that ends part way leaves a checkpoint keyed by the export, the day named and the metrics, and the next call takes that run up where the run ended.",
+-    "`--restart` begins at the head of the export whatever the checkpoint holds, and a newer export is a fresh run either way.",
+-    "a reading already filed at that value is written again by nothing, so a second call over one export writes nothing.",
+-    "nothing is said until the run ends, because a command prints nothing itself.",
+-    "the report counts records and names days and instants, and no reading's own value ever reaches the report.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "An import brings in one subject.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The subject comes first and what bounds the import comes after the subject.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A subject nothing here brings in is refused rather than chosen for.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A dry run reads and counts and writes nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A run taken up again begins where the earlier run ended.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A restart begins at the head of the export whatever a checkpoint holds.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A day named bounds the import below and nothing bounds the import above.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An import that ends part way keeps the readings already written.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "This workstation is looked in before the macbook is reached.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An export neither machine holds refuses the call.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No reading's own value reaches the report.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "Whether the export read is current is answered by nothing here.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/command-system/commands/track-health-import/track-health-import.command.code.ts b/command-system/commands/track-health-import/track-health-import.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..42c3211bd58e9ce715d78049ac9e51d5b173cb0d
+--- /dev/null
++++ b/command-system/commands/track-health-import/track-health-import.command.code.ts
+@@ -0,0 +1,226 @@
++import { upsertHealthSamples } from "@akasha/health-samples-access/sample-upsert"
++import { streamExportLines } from "@akasha/health-samples-import/export-fetching"
++import { buildFetchScript } from "@akasha/health-samples-import/health-export"
++import { IMPORT_METRICS } from "@akasha/health-samples-import/health-import"
++import { importReading } from "@akasha/health-samples-import/health-import-reading"
++import {
++  type ImportOutcome,
++  type ImportRunDeps,
++  MAX_IMPORT_BATCH,
++  NO_LOWER_BOUND,
++  runHealthImport,
++} from "@akasha/health-samples-import/health-import-run"
++import type { Answer } from "../../calling/calling.module.code.ts"
++import { refused } from "../../calling/calling.module.code.ts"
++import { saidBy } from "../../fault-saying/fault-saying.module.code.ts"
++
++const INPUT = 1
++
++const DATA = 2
++
++const OPERATIONAL = 3
++
++const NOTHING = "—"
++
++export const HEALTH = "health"
++
++const PATH = "--path"
++
++const SINCE = "--since"
++
++const BATCH = "--batch"
++
++const DRY_RUN = "--dry-run"
++
++const RESTART = "--restart"
++
++const VALUED = [PATH, SINCE, BATCH]
++
++const BARE = [DRY_RUN, RESTART]
++
++const CIVIL_DAY = /^\d{4}-\d{2}-\d{2}$/
++
++const NO_EXPORT =
++  "no Apple Health export is on this workstation or on the macbook. On your iPhone, open Health, " +
++  "tap your profile photo, then Export All Health Data, and put the zip in `~/Downloads` on either " +
++  "machine — or name one with `--path`."
++
++const TAKEN_UP =
++  "what already landed is written, and a call made again takes the run up where it ended unless `--restart` is said"
++
++export type Taken = {
++  readonly path: string | undefined
++  readonly since: string
++  readonly batch: number
++  readonly dryRun: boolean
++  readonly restart: boolean
++}
++
++export type Reading = Taken | { readonly refused: string }
++
++export function taken(argv: readonly string[]): Reading {
++  const held = new Map<string, string>()
++  const bare = new Set<string>()
++  let at = 0
++  while (at < argv.length) {
++    const one = argv[at] as string
++    at += 1
++    if (BARE.includes(one)) {
++      bare.add(one)
++      continue
++    }
++    if (!one.startsWith("-")) {
++      return {
++        refused: `\`akasha importing\` brings in one subject, and \`${one}\` is named after \`${HEALTH}\``,
++      }
++    }
++    const named = VALUED.find((each) => one === each || one.startsWith(`${each}=`))
++    if (named === undefined) {
++      return { refused: `\`${one}\` is nothing \`akasha importing ${HEALTH}\` takes` }
++    }
++    let value: string | undefined
++    if (one === named) {
++      value = argv[at]
++      at += 1
++    } else {
++      value = one.slice(named.length + 1)
++    }
++    if (value === undefined || value === "" || value.startsWith("-")) {
++      return { refused: `\`${named}\` takes a value, and this call names none after it` }
++    }
++    const before = held.get(named)
++    if (before !== undefined) {
++      return {
++        refused: `\`${named}\` is named twice, as \`${before}\` and as \`${value}\`, so which is meant is unsettled`,
++      }
++    }
++    held.set(named, value)
++  }
++  const since = held.get(SINCE)
++  if (since !== undefined && !CIVIL_DAY.test(since)) {
++    return {
++      refused: `\`${SINCE}\` takes a civil day written YYYY-MM-DD, and this call names \`${since}\``,
++    }
++  }
++  const said = held.get(BATCH)
++  const batch = said === undefined ? MAX_IMPORT_BATCH : Number(said)
++  if (!Number.isInteger(batch) || batch < 1 || batch > MAX_IMPORT_BATCH) {
++    return {
++      refused: `\`${BATCH}\` takes a whole number from 1 to ${MAX_IMPORT_BATCH}, and this call names \`${said}\``,
++    }
++  }
++  return {
++    path: held.get(PATH),
++    since: since ?? NO_LOWER_BOUND,
++    batch,
++    dryRun: bare.has(DRY_RUN),
++    restart: bare.has(RESTART),
++  }
++}
++
++export function minuteOf(ms: number | undefined): string {
++  return ms === undefined ? NOTHING : new Date(ms).toISOString().slice(0, 16).replace("T", " ")
++}
++
++export function linesOf(outcome: ImportOutcome, dryRun: boolean): readonly string[] {
++  const said: string[] = [
++    `import\t${HEALTH}\t${outcome.sourceFile ?? NOTHING}`,
++    `exported\t${minuteOf(outcome.exportedAtMs)} UTC`,
++  ]
++  if (outcome.resumedFrom > 0) said.push(`resumed\tafter record line ${outcome.resumedFrom}`)
++  for (const [metric, held] of Object.entries(outcome.perMetric)) {
++    said.push(
++      `${metric}\t${held.count} records\tearliest ${minuteOf(held.earliestMs)}\tlatest ${minuteOf(held.latestMs)}`
++    )
++  }
++  said.push(`record lines\t${outcome.tally.recordLines}`)
++  said.push(`converted\t${outcome.tally.converted}`)
++  if (outcome.tally.unparseable > 0) said.push(`unparseable\t${outcome.tally.unparseable}`)
++  if (outcome.tally.sourceDefaulted > 0) {
++    said.push(`unattributed\t${outcome.tally.sourceDefaulted}`)
++  }
++  for (const [why, many] of Object.entries(outcome.tally.rejected)) {
++    if (many > 0) said.push(`refused\t${why}\t${many}`)
++  }
++  if (dryRun) {
++    said.push("dry-run\tnothing was written; run it again without `--dry-run` to carry it out")
++    return said
++  }
++  said.push(`batches\t${outcome.batches}`)
++  said.push(`inserted\t${outcome.write.inserted}`)
++  said.push(`already filed\t${outcome.write.unchanged}`)
++  if (outcome.write.valueChanged > 0) said.push(`value moved\t${outcome.write.valueChanged}`)
++  return said
++}
++
++export function readingLines(
++  outcome: ImportOutcome,
++  dryRun: boolean,
++  atMs: number
++): readonly string[] {
++  const read = importReading(outcome, { dryRun, observedAtMs: atMs })
++  const said = [`reading\t${read.state}\t${read.reason}`]
++  for (const one of read.findings) {
++    said.push(one.at === null ? `finding\t${one.detail}` : `finding\t${one.at}\t${one.detail}`)
++  }
++  return said
++}
++
++export async function healthImported(
++  held: Taken,
++  deps: ImportRunDeps,
++  atMs: number
++): Promise<Answer> {
++  let outcome: ImportOutcome
++  try {
++    outcome = await runHealthImport(
++      {
++        sinceDay: held.since,
++        batchSize: held.batch,
++        dryRun: held.dryRun,
++        restart: held.restart,
++        onProgress: () => undefined,
++      },
++      deps
++    )
++  } catch (thrown) {
++    return { report: [], refusals: [saidBy(thrown), TAKEN_UP], code: OPERATIONAL }
++  }
++  if (outcome.sourceFile === null) return refused(NO_EXPORT, DATA)
++  return {
++    report: [...linesOf(outcome, held.dryRun), ...readingLines(outcome, held.dryRun, atMs)],
++    refusals: [],
++    code: 0,
++  }
++}
++
++export function reaching(held: Taken): ImportRunDeps {
++  const script = buildFetchScript({
++    path: held.path,
++    sinceDay: held.since,
++    metrics: IMPORT_METRICS,
++  })
++  return {
++    openStream: () => streamExportLines(script),
++    writeBatch: async (samples) => {
++      if (held.dryRun) throw new Error("a dry run reached the writer, which writes nothing")
++      return await upsertHealthSamples({ samples })
++    },
++  }
++}
++
++export async function trackHealthImport(argv: readonly string[]): Promise<Answer> {
++  const subject = argv[0]
++  if (subject === undefined) {
++    return refused(`\`akasha importing\` takes a subject, which is \`${HEALTH}\``, INPUT)
++  }
++  if (subject !== HEALTH) {
++    return refused(
++      `\`${subject}\` is nothing \`akasha importing\` brings in, which is \`${HEALTH}\``,
++      INPUT
++    )
++  }
++  const held = taken(argv.slice(1))
++  if ("refused" in held) return refused(held.refused, INPUT)
++  return await healthImported(held, reaching(held), Date.now())
++}
+diff --git a/command-system/commands/track-health-import/track-health-import.command.test.ts b/command-system/commands/track-health-import/track-health-import.command.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0fefc0d77e5fdaf7fc9109fecd41bf759477888c
+--- /dev/null
++++ b/command-system/commands/track-health-import/track-health-import.command.test.ts
+@@ -0,0 +1,183 @@
++import { expect, test } from "bun:test"
++import type { ImportOutcome, ImportRunDeps } from "@akasha/health-samples-import/health-import-run"
++import { MAX_IMPORT_BATCH, NO_LOWER_BOUND } from "@akasha/health-samples-import/health-import-run"
++import {
++  healthImported,
++  linesOf,
++  type Taken,
++  taken,
++  trackHealthImport,
++} from "./track-health-import.command.code.ts"
++
++const SOURCE = "/Users/nobody/Downloads/export.zip"
++
++const REACHED = "the writer was reached"
++
++function held(argv: readonly string[]): Taken {
++  const said = taken(argv)
++  if ("refused" in said) throw new Error(said.refused)
++  return said
++}
++
++function outcomeOf(): ImportOutcome {
++  return {
++    sourceFile: SOURCE,
++    exportedAtMs: undefined,
++    tally: {
++      recordLines: 0,
++      unparseable: 0,
++      converted: 0,
++      sourceDefaulted: 0,
++      rejected: {
++        "metric-not-imported": 0,
++        "unit-unrecognised": 0,
++        "value-not-a-number": 0,
++        "span-inverted": 0,
++      },
++    },
++    perMetric: {
++      activeEnergy: { count: 0, earliestMs: undefined, latestMs: undefined },
++      stepCount: { count: 0, earliestMs: undefined, latestMs: undefined },
++    },
++    write: { received: 0, distinct: 0, inserted: 0, unchanged: 0, valueChanged: 0 },
++    batches: 0,
++    samplesWritten: 0,
++    resumedFrom: 0,
++  }
++}
++
++const NOTHING_THERE: ImportRunDeps = {
++  openStream: async function* () {
++    yield "NOFILE"
++  },
++  writeBatch: async () => {
++    throw new Error(REACHED)
++  },
++}
++
++const EMPTY_EXPORT: ImportRunDeps = {
++  openStream: async function* () {
++    yield `FILE\t${SOURCE}`
++  },
++  writeBatch: async () => {
++    throw new Error(REACHED)
++  },
++}
++
++const BROKEN_REACH: ImportRunDeps = {
++  openStream: async function* () {
++    yield `FILE\t${SOURCE}`
++    throw new Error("ssh answered 255")
++  },
++  writeBatch: async () => {
++    throw new Error(REACHED)
++  },
++}
++
++test("a call naming no subject is refused as the caller's fault", async () => {
++  const answer = await trackHealthImport([])
++  expect(answer.code).toBe(1)
++  expect(answer.refusals[0]).toContain("health")
++})
++
++test("a subject this command does not bring in is refused by name", async () => {
++  const answer = await trackHealthImport(["weather"])
++  expect(answer.code).toBe(1)
++  expect(answer.refusals[0]).toContain("`weather`")
++})
++
++test("a second subject is refused rather than chosen between", async () => {
++  const answer = await trackHealthImport(["health", "weather"])
++  expect(answer.code).toBe(1)
++  expect(answer.refusals[0]).toContain("one subject")
++})
++
++test("a flag this command does not take is refused by name", async () => {
++  const answer = await trackHealthImport(["health", "--json"])
++  expect(answer.code).toBe(1)
++  expect(answer.refusals[0]).toContain("`--json`")
++})
++
++test("a day not written as a civil day is refused", () => {
++  const said = taken(["--since", "2026-9-1"])
++  expect(said).toEqual({ refused: expect.stringContaining("YYYY-MM-DD") })
++})
++
++test("a batch outside one to a thousand is refused", () => {
++  expect(taken(["--batch", "0"])).toEqual({ refused: expect.stringContaining("1 to 1000") })
++  expect(taken(["--batch", "1001"])).toEqual({ refused: expect.stringContaining("1 to 1000") })
++  expect(taken(["--batch", "ten"])).toEqual({ refused: expect.stringContaining("1 to 1000") })
++})
++
++test("a value named twice is refused rather than chosen between", () => {
++  const said = taken(["--since", "2026-08-01", "--since", "2026-08-02"])
++  expect(said).toEqual({ refused: expect.stringContaining("named twice") })
++})
++
++test("a flag taking a value and given none is refused", () => {
++  expect(taken(["--path"])).toEqual({ refused: expect.stringContaining("names none after it") })
++  expect(taken(["--since", "--dry-run"])).toEqual({
++    refused: expect.stringContaining("names none after it"),
++  })
++})
++
++test("a call naming nothing takes the whole history a thousand readings at a time", () => {
++  expect(held([])).toEqual({
++    path: undefined,
++    since: NO_LOWER_BOUND,
++    batch: MAX_IMPORT_BATCH,
++    dryRun: false,
++    restart: false,
++  })
++})
++
++test("a value is read whether it follows its flag or is joined to it", () => {
++  expect(held([`--path=${SOURCE}`]).path).toBe(SOURCE)
++  expect(held(["--path", SOURCE]).path).toBe(SOURCE)
++})
++
++test("an export the macbook does not hold is refused as the data's fault", async () => {
++  const answer = await healthImported(held([]), NOTHING_THERE, 0)
++  expect(answer.code).toBe(2)
++  expect(answer.refusals[0]).toContain("Export All Health Data")
++})
++
++test("a dry run reads the export, reaches no writer, and says nothing was written", async () => {
++  const answer = await healthImported(held(["--dry-run"]), EMPTY_EXPORT, 0)
++  expect(answer.code).toBe(0)
++  expect(answer.report[0]).toBe(`import\thealth\t${SOURCE}`)
++  expect(answer.report.some((one) => one.startsWith("dry-run"))).toBe(true)
++  expect(answer.report.some((one) => one.startsWith("batches"))).toBe(false)
++})
++
++test("a run over an export holding no record reaches no writer and counts nothing", async () => {
++  const answer = await healthImported(held([]), EMPTY_EXPORT, 0)
++  expect(answer.code).toBe(0)
++  expect(answer.report).toContain("batches\t0")
++  expect(answer.report).toContain("inserted\t0")
++  expect(answer.report).toContain("already filed\t0")
++})
++
++test("a reach that breaks is refused as an operational fault, and the run can be taken up", async () => {
++  const answer = await healthImported(held([]), BROKEN_REACH, 0)
++  expect(answer.code).toBe(3)
++  expect(answer.refusals[0]).toContain("255")
++  expect(answer.refusals[1]).toContain("--restart")
++})
++
++test("a dry run's report names no batch and no row, and a run's report names both", () => {
++  const outcome = outcomeOf()
++  const dry = linesOf(outcome, true)
++  expect(dry[dry.length - 1]).toContain("dry-run")
++  expect(dry.some((one) => one.startsWith("inserted"))).toBe(false)
++  const wet = linesOf(outcome, false)
++  expect(wet).toContain("batches\t0")
++  expect(wet).toContain("inserted\t0")
++})
++
++test("a report carries a count and an instant for each metric and no reading's own value", () => {
++  const said = linesOf(outcomeOf(), true)
++  expect(said).toContain("activeEnergy\t0 records\tearliest —\tlatest —")
++  expect(said).toContain("stepCount\t0 records\tearliest —\tlatest —")
++  expect(said).toContain("record lines\t0")
++})
+diff --git a/command-system/commands/track-health-import/track-health-import.command.ts b/command-system/commands/track-health-import/track-health-import.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4134c3578c5155dafe654d986c23a060b764bb49
+--- /dev/null
++++ b/command-system/commands/track-health-import/track-health-import.command.ts
+@@ -0,0 +1,90 @@
++import type { Command } from "../command.page-type.ts"
++
++export const trackHealthImport = {
++  id: "01a0620c-6340-70c9-a176-730aa9470e96",
++  pageTypeSlug: "command",
++  slug: "track-health-import",
++  definition: "the command bringing a named subject in from outside",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "<subject>", takes: "what is brought in, which is `health`" },
++    {
++      said: "--path <file>",
++      takes: "the export to read, in place of the newest export the machine holds",
++    },
++    { said: "--since <YYYY-MM-DD>", takes: "the first civil day to bring in" },
++    { said: "--batch <n>", takes: "how many readings one write carries, 1 to 1000" },
++    { said: "--dry-run", takes: "read and count and write nothing" },
++    {
++      said: "--restart",
++      takes: "begin at the head of the export rather than where an earlier run ended",
++    },
++  ],
++  helpNotes: [
++    "the subject comes first, and one call brings in one subject.",
++    "`health` reads an Apple Health export and lands the active energy and step count records that export holds in the sample store.",
++    "the export is the newest `export*.zip` in `~/Downloads` unless `--path` names another.",
++    "this workstation is looked in first and the macbook is reached over ssh only where this workstation holds no export.",
++    "the phone writes that zip and nothing here makes the zip, so neither machine holding one refuses the call rather than waiting.",
++    "records are filtered on the machine holding the export, so a call naming `--since` reads less than a call naming none.",
++    "`--since` bounds the import below and nothing bounds the import above, so a day named far back brings in every record after that day.",
++    "a call naming no `--since` brings in the whole history the export holds.",
++    "a run that ends part way leaves a checkpoint keyed by the export, the day named and the metrics, and the next call takes that run up where the run ended.",
++    "`--restart` begins at the head of the export whatever the checkpoint holds, and a newer export is a fresh run either way.",
++    "a reading already filed at that value is written again by nothing, so a second call over one export writes nothing.",
++    "nothing is said until the run ends, because a command prints nothing itself.",
++    "the report counts records and names days and instants, and no reading's own value ever reaches the report.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An import brings in one subject.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The subject comes first and what bounds the import comes after the subject.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A subject nothing here brings in is refused rather than chosen for.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A dry run reads and counts and writes nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run taken up again begins where the earlier run ended.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A restart begins at the head of the export whatever a checkpoint holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A day named bounds the import below and nothing bounds the import above.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An import that ends part way keeps the readings already written.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "This workstation is looked in before the macbook is reached.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An export neither machine holds refuses the call.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No reading's own value reaches the report.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "Whether the export read is current is answered by nothing here.",
++    },
++  ],
++} as const satisfies Command
