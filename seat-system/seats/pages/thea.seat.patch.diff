@@ -2512,6 +2512,31 @@ index 2bf5ee11f3d194a0bd99dfeb016e29bbd20c2ef4..e3f6cfa2b65c6ab6ff2b546a9eabc783
    }
    if (widthOf(nearer) > widthOf(further)) {
      return `\`unique\` widens from \`${reachIn(further)}\` to \`${reachIn(nearer)}\``
+diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
+index 4a1852b02ab8be6cb9ad17429238822d8d1e3ff1..97035222bcfec4f34c9ce68deac3914af82e61ae 100644
+--- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
++++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
+@@ -87,18 +87,11 @@ export const pageMatchesItsType = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement:
+-        "A max on a declaration counts entries and a max on a text property counts characters.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement:
+-        "A max on a declaration and a max on a text property come from one property page read two ways.",
++      statement: "A count on a declaration counts entries and a length counts characters.",
+     },
+     {
+       invariantKind: "constraint",
+-      statement:
+-        "A total on a declaration counts the characters of a list's values taken together.",
++      statement: "A declaration's length narrows the length its property states.",
+     },
+     {
+       invariantKind: "constraint",
 diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts
 index 68ea1a1615fea7596c72279dca331477ecba6b51..873fa5dfdc41d6f2069d6ba70f2bee547c902192 100644
 --- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.code.ts
