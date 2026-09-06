@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-emotional-availability-means-in-practice.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-emotional-availability-means-in-practice.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a1199416e72a3e854256a120620ca74fa9c75c8b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-emotional-availability-means-in-practice.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatEmotionalAvailabilityMeansInPractice = {
++  id: "01a077f1-e2fd-7d86-b4e2-e3ebfb46f420",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-emotional-availability-means-in-practice",
++  topicSlug: "when-she-is-in-pain",
++  ask: "Emotional availability is her word and has no definition yet. What does emotional availability mean in practice?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-picks-between-acknowledging-and-validating.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-picks-between-acknowledging-and-validating.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a315edd8d744f4aff0f9774a18d261d1fa0b859b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-picks-between-acknowledging-and-validating.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatPicksBetweenAcknowledgingAndValidating = {
++  id: "01a077f1-e30a-747c-8aa0-e8f1f9d23a21",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-picks-between-acknowledging-and-validating",
++  topicSlug: "when-she-is-in-pain",
++  ask: "Could anything pick between acknowledging, validating and just being there once the alarm has fired?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-the-empathy-script-never-compiled.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-the-empathy-script-never-compiled.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d2d6f3ac8bb5c63220004bc80cd78c9f6bf499b2
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/why-the-empathy-script-never-compiled.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whyTheEmpathyScriptNeverCompiled = {
++  id: "01a077f1-e30a-7941-8a66-8a0e913d764f",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "why-the-empathy-script-never-compiled",
++  topicSlug: "when-she-is-in-pain",
++  ask: "Why did the empathy script never compile where acknowledging and validating did?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/when-she-is-in-pain.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/when-she-is-in-pain.all-about-alan-topic.ts
+index ccbad5af874b3dee98256117e9528a3cdc61383d..6a58b2e4bbdaa9d092dc18c1f8e6c2a50d308a56 100644
+--- a/alan/books/all-about-alan/topics/pages/when-she-is-in-pain.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/when-she-is-in-pain.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const whenSheIsInPain = {
+   parentSlugs: ["working-out-what-love-is"],
+   settled:
+     "The alarm fires instantly and carries nothing about what she needs.\n\nAcknowledging and validating compiled. Empathy did not.",
+-  unsettled:
+-    "What emotional availability means in practice is her word, and it has no definition yet.\n\nWhether something could pick between acknowledging, validating and just being there once the alarm has fired is unbuilt.\n\nWhy the empathy script never compiled where the other two did is unexplained.",
+ } as const satisfies AllAboutAlanTopic
