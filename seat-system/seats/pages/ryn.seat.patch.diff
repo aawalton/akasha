@@ -1,0 +1,13 @@
+diff --git a/editor-extension/ops-extension/extension-entry/extension-entry.module.ts b/editor-extension/ops-extension/extension-entry/extension-entry.module.ts
+index aa632a7fff52a35c292dbf78873b8b21220eb12e..a948b02b0460c2bd4014be8122dbf976c54ff6de 100644
+--- a/editor-extension/ops-extension/extension-entry/extension-entry.module.ts
++++ b/editor-extension/ops-extension/extension-entry/extension-entry.module.ts
+@@ -21,7 +21,7 @@ export const extensionEntry = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One bun process answers this window, apart from any other window's.",
++      statement: "One bun process answers this window apart from any other window's process.",
+     },
+     {
+       invariantKind: "departure",
