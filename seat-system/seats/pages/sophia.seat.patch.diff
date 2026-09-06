@@ -529,3 +529,15 @@ index 617880ccbb324e91f3e2a67e6d425a6697f4246c..68bbc8ee1e93f087e1afe86a422d651a
 +test("a change staling its readers leaves the whole patch staling them", () => {
 +  expect(folding(repoAt(), RESTATED, BOTH_RUN)).toEqual(BOTH_RUN)
 +})
+diff --git a/command-system/drafting/drafting.module.ts b/command-system/drafting/drafting.module.ts
+index 39862448f1f8dc11d8ae3777eea35810e319cbb2..bf6631dfaa8e302d8818625933567956fa9bf40f 100644
+--- a/command-system/drafting/drafting.module.ts
++++ b/command-system/drafting/drafting.module.ts
+@@ -7,6 +7,7 @@ export const drafting = {
+   definition: "the change an agent drafts into its patch rather than onto the tree",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
