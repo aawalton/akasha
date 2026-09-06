@@ -9,7 +9,7 @@ export const companionLightAttack = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The strongest active light attack heal buff is the only one applied on a swing.",
+      statement: "The strongest active light attack heal buff is the only buff applied on a swing.",
     },
     {
       invariantKind: "departure",
