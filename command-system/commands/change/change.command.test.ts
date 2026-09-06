@@ -165,7 +165,10 @@ test("a flag given to a drop is refused", async () => {
 
   const said = await changing(root, PAGE, ["drop", "--file-path", NAMER_PAGE])
 
-  expect(said.code).toBe(2)
+  expect(said.refusals).toEqual([
+    "`--file-path` is no flag this takes",
+    `\`${NAMER_PAGE}\` is no flag this takes`,
+  ])
   expect(pathsIn(root)).toEqual([])
 })
 
