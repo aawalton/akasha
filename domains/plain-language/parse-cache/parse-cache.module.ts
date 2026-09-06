@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const parseCache = {
   id: "01a071f0-796a-7957-a5e6-d600ac1d3f8a",

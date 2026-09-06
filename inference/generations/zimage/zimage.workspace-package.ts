@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const zimage = {
   id: "01a06815-9efd-7032-89aa-a2f0ea5e1881",

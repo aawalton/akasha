@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const preReceiveChangeBranches = {
   id: "01a06816-2f11-7f55-8c92-79bf5163f688",

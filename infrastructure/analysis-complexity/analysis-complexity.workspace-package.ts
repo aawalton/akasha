@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const analysisComplexity = {
   id: "01a0680f-d1b7-7a4f-9195-8a87f5f16534",

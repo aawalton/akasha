@@ -1,4 +1,4 @@
-import type { ContainerRecipe } from "@akasha/code-system/container-recipe"
+import type { ContainerRecipe } from "@akasha/code/container-recipe"
 
 export const wanImage = {
   id: "01a06815-9efd-7027-9ba4-a87237aa9261",

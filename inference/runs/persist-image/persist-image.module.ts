@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const persistImage = {
   id: "01a0685d-4b35-7013-8853-9ed4e36a99e3",

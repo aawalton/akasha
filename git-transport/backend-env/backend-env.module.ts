@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const backendEnv = {
   id: "01a06816-2f11-7757-88ad-94ef5cc38f0f",

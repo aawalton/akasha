@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const panelJudging = {
   id: "01a06954-f7dd-7561-b73b-111f01c90afc",

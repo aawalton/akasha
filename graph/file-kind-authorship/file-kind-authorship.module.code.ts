@@ -1,4 +1,4 @@
-import type { FileKind } from "@akasha/code-system/file-kind"
+import type { FileKind } from "@akasha/code/file-kind"
 
 export type FileKindAuthorship = "authored" | "serialized"
 

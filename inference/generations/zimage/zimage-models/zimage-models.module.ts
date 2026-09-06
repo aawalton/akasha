@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const zimageModels = {
   id: "01a06815-9efd-7029-bfee-12492d050841",

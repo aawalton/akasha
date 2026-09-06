@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const nodeCleanliness = {
   id: "01a06954-f7dc-76b7-bb15-538baf68f93e",

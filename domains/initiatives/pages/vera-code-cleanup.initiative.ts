@@ -10,7 +10,7 @@ export const veraCodeCleanup = {
     {
       statement: "All code-system files are in the code/ folder.",
       workingMemory:
-        "372 files are under `code-system`, and 7,742 outside it spell that name, 4,649 of those as `@akasha/code-system/module`. `code/` is taken: `code.domain.ts` is `domain/code`, definition `the code a machine runs`, carrying 4 directives and naming 2 parts. Both pages are parts of `akasha`. A workspace package extends a domain, so the package absorbs the domain the way `collection` absorbed `collection-system`.",
+        "372 files are under `code-system`, and 7,742 outside it spell that name, 4,649 of those as `@akasha/code/module`. `code/` is taken: `code.domain.ts` is `domain/code`, definition `the code a machine runs`, carrying 4 directives and naming 2 parts. Both pages are parts of `akasha`. A workspace package extends a domain, so the package absorbs the domain the way `collection` absorbed `collection-system`.",
     },
     {
       statement: "The code folder tree passes the folder-matches-a-shape check.",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const swapDecision = {
   id: "01a06815-9efd-7006-bea5-94b31dc409e6",

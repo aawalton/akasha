@@ -1,4 +1,4 @@
-import type { PythonModule } from "@akasha/code-system/python-module"
+import type { PythonModule } from "@akasha/code/python-module"
 
 export const voiceInferServer = {
   id: "01a06815-9efd-7016-9a26-398afcd69f90",

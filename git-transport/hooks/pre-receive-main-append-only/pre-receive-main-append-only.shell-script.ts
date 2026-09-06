@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const preReceiveMainAppendOnly = {
   id: "01a06816-2f11-729c-b258-50cbded51bb9",

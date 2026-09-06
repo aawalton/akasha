@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const textColor = {
   id: "01a05c97-5302-71a3-b9f8-f3bbd1c59f22",

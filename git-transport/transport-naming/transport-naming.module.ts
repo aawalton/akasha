@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const transportNaming = {
   id: "01a06816-2f11-7561-81cd-c9dd76b64b8a",

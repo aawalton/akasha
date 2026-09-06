@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const upscaleSeedvr2 = {
   id: "01a06815-9efd-703a-8865-9954cf604135",

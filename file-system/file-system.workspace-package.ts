@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const fileSystem = {
   id: "01a05231-61c5-775c-a479-ffa46b4fe6bc",

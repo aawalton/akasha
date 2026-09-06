@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const domainReading = {
   id: "01a06949-b280-73e9-9ded-65530eee9efa",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const maintainability = {
   id: "01a0680f-d1b7-7fad-a8e1-931817f12d1a",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const gitLandingLock = {
   id: "01a068ae-fd9c-7000-b1a4-27f1d42e2a33",

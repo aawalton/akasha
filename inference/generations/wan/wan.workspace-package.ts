@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const wan = {
   id: "01a06815-9efd-7028-bfc6-b3c3933ac08c",

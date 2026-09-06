@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const gitPushHandoff = {
   id: "01a068b3-8055-7000-b301-1ef5cf968dde",

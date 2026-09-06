@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const statusBarUsage = {
   id: "01a0655b-ae42-784d-bd36-ba69482649b6",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const comfyClient = {
   id: "01a0682d-8ef5-7008-9d37-824c7c7aafb6",

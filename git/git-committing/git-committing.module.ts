@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const gitCommitting = {
   id: "01a068ae-fd9c-7002-a92c-6db5c1336239",

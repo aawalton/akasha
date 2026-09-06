@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const upscaleClusterPublish = {
   id: "01a06815-9efd-703c-a63f-dfafe079c747",

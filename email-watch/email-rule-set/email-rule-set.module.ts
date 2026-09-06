@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const emailRuleSet = {
   id: "01a06871-54e5-7000-b703-1ea0c1101a4d",

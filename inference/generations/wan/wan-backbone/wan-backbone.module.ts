@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const wanBackbone = {
   id: "01a06815-9efd-701f-8a18-b219fa4b317f",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const guiSession = {
   id: "01a0685d-4b35-7008-800a-b27956eea787",

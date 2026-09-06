@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const aceStepClient = {
   id: "01a0682d-8ef5-7006-9c39-daea2ba9c6dd",

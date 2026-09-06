@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const authProxyServer = {
   id: "01a06863-8e7c-7ef6-a465-4e287ec25a18",

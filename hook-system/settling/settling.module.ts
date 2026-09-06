@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const settling = {
   id: "01a04eb3-0e17-7660-850e-4311257ed9fa",

@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const segmentRembgProvision = {
   id: "01a06815-9efd-7013-95a5-e00f8aef8298",

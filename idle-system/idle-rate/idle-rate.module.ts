@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const idleRate = {
   id: "01a05b6a-d26b-707e-a786-4d200954d167",

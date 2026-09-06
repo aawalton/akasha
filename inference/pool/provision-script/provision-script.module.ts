@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const provisionScript = {
   id: "01a0685d-4b35-7007-bb8e-7ea5dbcfc851",

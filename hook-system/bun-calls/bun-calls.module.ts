@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const bunCalls = {
   id: "01a04eab-d4ef-7000-bdff-3446eef0bf24",

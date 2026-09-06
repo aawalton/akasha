@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fileKindAuthorship = {
   id: "01a0685e-59a0-7002-862e-796571404269",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const statusBarSlotTypes = {
   id: "01a0655b-ae42-766d-a390-829beb9775ea",

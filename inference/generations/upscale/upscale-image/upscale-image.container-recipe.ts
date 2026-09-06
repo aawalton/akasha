@@ -1,4 +1,4 @@
-import type { ContainerRecipe } from "@akasha/code-system/container-recipe"
+import type { ContainerRecipe } from "@akasha/code/container-recipe"
 
 export const upscaleImage = {
   id: "01a06815-9efd-703e-b4a6-f5afa5889e2b",

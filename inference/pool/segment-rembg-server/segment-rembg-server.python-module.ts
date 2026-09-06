@@ -1,4 +1,4 @@
-import type { PythonModule } from "@akasha/code-system/python-module"
+import type { PythonModule } from "@akasha/code/python-module"
 
 export const segmentRembgServer = {
   id: "01a06815-9efd-7014-a878-84a434393806",

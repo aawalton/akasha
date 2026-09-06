@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const speltScanning = {
   id: "01a073e3-354d-7124-8a2c-e116b5340d81",

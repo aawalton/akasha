@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const mlxAudioProvision = {
   id: "01a06815-9efd-700e-b820-b0ec43c2e924",

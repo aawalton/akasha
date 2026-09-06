@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inferenceCommandLine = {
   id: "01a0685d-4b35-7015-aa1c-9945a87334df",

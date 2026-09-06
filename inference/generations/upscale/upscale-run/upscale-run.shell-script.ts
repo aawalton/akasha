@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const upscaleRun = {
   id: "01a06815-9efd-7039-8365-178025ed0b07",

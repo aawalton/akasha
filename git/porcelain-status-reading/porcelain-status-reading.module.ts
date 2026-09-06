@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const porcelainStatusReading = {
   id: "01a06816-2f10-7367-b0af-3052e7774a7c",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const bareRepoInit = {
   id: "01a06816-2f11-7d89-91b6-f31d958dbb60",

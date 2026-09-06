@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const hookSystem = {
   id: "01a04e0a-f8f9-7f51-97ed-edfe4be9ba2f",

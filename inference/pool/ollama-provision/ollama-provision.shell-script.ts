@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const ollamaProvision = {
   id: "01a06815-9efd-7012-a81f-ef701e245b2d",

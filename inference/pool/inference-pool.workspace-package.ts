@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const inferencePool = {
   id: "01a06815-9efd-7015-b82a-e620372e1e32",

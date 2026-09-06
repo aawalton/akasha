@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const idleDeriving = {
   id: "01a05b69-c24c-7187-ba21-83df7ae3528b",

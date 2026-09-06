@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inferenceNaming = {
   id: "01a0685d-4b35-7001-b274-eaa316779db7",

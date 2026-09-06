@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const trafficCopProvision = {
   id: "01a06815-9efd-700d-8b2c-70b98e4a7248",

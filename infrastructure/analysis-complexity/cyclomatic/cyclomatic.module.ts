@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const cyclomatic = {
   id: "01a0680f-d1b7-75cd-9668-69db68df9b0f",

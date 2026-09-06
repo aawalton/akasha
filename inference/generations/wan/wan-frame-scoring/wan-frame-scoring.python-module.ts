@@ -1,4 +1,4 @@
-import type { PythonModule } from "@akasha/code-system/python-module"
+import type { PythonModule } from "@akasha/code/python-module"
 
 export const wanFrameScoring = {
   id: "01a06815-9efd-7022-88a4-0adf23d8e3d9",

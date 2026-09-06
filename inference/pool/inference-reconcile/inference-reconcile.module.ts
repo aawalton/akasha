@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inferenceReconcile = {
   id: "01a0685d-4b35-700c-9b4c-80e9256ed4e8",

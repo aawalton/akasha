@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const dataPlace = {
   id: "01a05361-09df-7452-a3cc-9443498c1d89",

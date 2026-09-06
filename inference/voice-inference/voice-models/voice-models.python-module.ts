@@ -1,4 +1,4 @@
-import type { PythonModule } from "@akasha/code-system/python-module"
+import type { PythonModule } from "@akasha/code/python-module"
 
 export const voiceModels = {
   id: "01a06815-9efd-7017-a88f-f6cd228dc99c",

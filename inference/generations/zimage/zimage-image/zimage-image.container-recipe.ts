@@ -1,4 +1,4 @@
-import type { ContainerRecipe } from "@akasha/code-system/container-recipe"
+import type { ContainerRecipe } from "@akasha/code/container-recipe"
 
 export const zimageImage = {
   id: "01a06815-9efd-7031-a984-cc177378d515",

@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const editorExtension = {
   id: "01a063f4-6690-7556-b094-e83b2ecfe46d",

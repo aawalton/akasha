@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const idleSystem = {
   id: "01a05b63-a6e5-7573-b275-3738b378b2a5",

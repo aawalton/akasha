@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const lockHolderRuns = {
   id: "01a068ae-fd9b-7000-b173-e42fd71f9bab",

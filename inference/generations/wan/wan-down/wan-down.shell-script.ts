@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const wanDown = {
   id: "01a06815-9efd-7024-8562-8fb716c958fe",

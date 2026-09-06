@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const gitPathspec = {
   id: "01a068ae-fd9c-7001-ba59-e2b9fc02888f",

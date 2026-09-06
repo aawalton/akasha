@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const poolMutex = {
   id: "01a06815-9efd-7007-bb47-59690fe21158",

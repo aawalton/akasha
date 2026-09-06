@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const plainLanguage = {
   id: "01a05d93-dbec-79d5-a299-9264b3de7464",

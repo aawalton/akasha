@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const statusBarLegends = {
   id: "01a0655b-ae42-7398-bbea-589a74f1d120",
