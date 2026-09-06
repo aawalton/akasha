@@ -244,10 +244,10 @@ index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..041bc1f9574edf2ec71e9a5dbb2e5efa
    listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
    schemaFiledFor(root, "relation-property", "extends-slug")
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
-index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..af9100ac3e34091eb3da3aa10d8f4008ca67f6d6 100644
+index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..dbc9681c56fec76ba5add2d2e2f8f40edc2441c7 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
-@@ -135,15 +135,15 @@ test("a property the page type does not declare is refused", () => {
+@@ -135,21 +135,22 @@ test("a property the page type does not declare is refused", () => {
    ])
  })
  
@@ -267,7 +267,16 @@ index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..af9100ac3e34091eb3da3aa10d8f4008
    ])
  })
  
-@@ -186,12 +186,14 @@ test("a record field naming its page type is read under the key its own property
+-test("a list over the total its declaration states is refused", () => {
++test("a list whose entry runs over the length its declaration states is refused", () => {
+   expect(over({ id: "a", slug: "one", test: "ts", aids: ["hello", "world"] }, "check")).toEqual([
+-    "holds 10 characters of `aids`, over the total of 6",
++    "`aids` runs to 5 characters, over the length of 3",
++    "`aids` runs to 5 characters, over the length of 3",
+   ])
+   expect(over({ id: "a", slug: "one", test: "ts", aids: ["ab", "cd"] }, "check")).toEqual([])
+ })
+@@ -186,12 +187,14 @@ test("a record field naming its page type is read under the key its own property
  
  test("a record field's property page is reached by the page type its declaration names", () => {
    const held = { id: "a", slug: "one", directives: [{ name: "go", tag: "hello" }] }
@@ -284,7 +293,7 @@ index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..af9100ac3e34091eb3da3aa10d8f4008
    ])
  })
  
-@@ -238,7 +240,7 @@ test("a record field is judged by the format its own property states", () => {
+@@ -238,7 +241,7 @@ test("a record field is judged by the format its own property states", () => {
  
  test("a value both over its max and off its format is refused for each", () => {
    expect(over({ id: "a", slug: "Far-Too-Long", test: "ts" }, "check")).toEqual([
