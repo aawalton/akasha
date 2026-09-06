@@ -1,9 +1,9 @@
 readersOweReading: false
 diff --git a/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.ts b/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.ts
-index 50cbb712f001239b5c22ecfab0afa8054c32fb44..8c41ef7737538d27b4b4db0f596f71f4b1b635cf 100644
+index 50cbb712f001239b5c22ecfab0afa8054c32fb44..e26a43e3d395ff4271297d5b50a31817798bc641 100644
 --- a/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.ts
 +++ b/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.ts
-@@ -13,7 +13,7 @@ export const supervisorResumeNotices = {
+@@ -13,11 +13,12 @@ export const supervisorResumeNotices = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,9 @@ index 50cbb712f001239b5c22ecfab0afa8054c32fb44..8c41ef7737538d27b4b4db0f596f71f4
      },
      {
        invariantKind: "departure",
+-      statement: "A compose that fails any way at all hands back a notice saying so, not a throw.",
++      statement:
++        "A compose that fails in any way hands back a notice saying so rather than a throw.",
+     },
+   ],
+ } as const satisfies Module
