@@ -138,6 +138,18 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
     return { report, refusals: [], code: 0 }
   }
 
+  // THE BUILD IS MADE BEFORE THE MANIFEST IS APPLIED. A pod starts on a build kept beside the
+  // package that pod runs from, so a manifest moving that package rolls out a pod with no build to
+  // start on, and the apply waits on a rollout only this build could have finished.
+  if (target !== null && !isBuilt) {
+    const built = buildInPod(target, sha, resolved)
+    for (const one of built.ran) {
+      report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
+    }
+    if (built.why !== null) return { report, refusals: [built.why], code: OPERATIONAL }
+    report.push(`built\t${target.packagePath}\tin ${built.pod} from ${sha}`)
+  }
+
   if (differs || !up) {
     for (const one of writeManifests(given.root, plan)) report.push(`wrote\t${one}`)
     const refusals: string[] = []
@@ -148,15 +160,6 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
       }
     }
     if (refusals.length > 0) return { report, refusals, code: OPERATIONAL }
-  }
-
-  if (target !== null && !isBuilt) {
-    const built = buildInPod(target, sha, resolved)
-    for (const one of built.ran) {
-      report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
-    }
-    if (built.why !== null) return { report, refusals: [built.why], code: OPERATIONAL }
-    report.push(`built\t${target.packagePath}\tin ${built.pod} from ${sha}`)
   }
 
   report.push(
