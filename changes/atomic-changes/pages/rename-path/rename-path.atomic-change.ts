@@ -15,11 +15,13 @@ export const renamePath = {
 
     {
       invariantKind: "departure",
-      statement: "The body that moves has its own relative reaches rebased on where it lands.",
+      statement:
+        "The body that moves has its own relative reaches rebased on where the body lands.",
     },
     {
       invariantKind: "departure",
-      statement: "The body that moves is answered under the path it lands at, changed or not.",
+      statement:
+        "The body that moves is answered under the path the body lands at whether the body changed or not.",
     },
     {
       invariantKind: "departure",
@@ -27,11 +29,11 @@ export const renamePath = {
     },
     {
       invariantKind: "departure",
-      statement: "A body already at the path this would move to refuses the change.",
+      statement: "A body already at the path the rename would move to refuses the change.",
     },
     {
       invariantKind: "departure",
-      statement: "The path taken away is answered beside the bodies, since no body says it.",
+      statement: "The path taken away is answered beside the bodies.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +41,7 @@ export const renamePath = {
     },
     {
       invariantKind: "gap",
-      statement: "A body naming the path in a string rather than in an import is left as it is.",
+      statement: "A body naming the path in a string rather than in an import is left unchanged.",
     },
   ],
 } as const satisfies AtomicChange
