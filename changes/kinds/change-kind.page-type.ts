@@ -1,11 +1,11 @@
 import type { Domain } from "../../domains/domain.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
 import type { RunsChecks } from "./properties/runs-checks.boolean-property.ts"
-import type { RunsWarrants } from "./properties/writer-owes-reading.boolean-property.ts"
+import type { WriterOwesReading } from "./properties/writer-owes-reading.boolean-property.ts"
 
 export type ChangeKind = Domain & {
   runsChecks: RunsChecks
-  writerOwesReading: RunsWarrants
+  writerOwesReading: WriterOwesReading
 }
 
 export const changeKind = {

@@ -1,6 +1,6 @@
 import type { BooleanProperty } from "../../../pages/boolean-properties/boolean-property.page-type.ts"
 
-export type RunsWarrants = boolean
+export type WriterOwesReading = boolean
 
 export const writerOwesReading = {
   id: "01a05e19-7ffb-7e64-a651-4f26f37b2e7b",
