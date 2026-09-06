@@ -18,7 +18,7 @@ export const supervisorInteractiveWire = {
     },
     {
       invariantKind: "departure",
-      statement: "A swap does nothing at all where the agent id handle is empty.",
+      statement: "A swap does nothing where the agent id handle is empty.",
     },
     {
       invariantKind: "departure",
