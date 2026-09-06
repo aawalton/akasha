@@ -282,8 +282,14 @@ function seeded(value: Value): string {
   ])
   valueAlsoFiled(root, NAMED, [{ path: PROPERTY_AT, value }])
   listedFiled(root, "page-type", "workspace", [{ path: TYPE_AT, id: TYPE_ID }])
+  valueAlsoFiled(root, "page-type", [
+    { path: TYPE_AT, value: { id: TYPE_ID, pageTypeSlug: "page-type", slug: "workspace" } },
+  ])
   idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   listedFiled(root, "workspace", "one", [{ path: OWNER_AT, id: OWNER_ID }])
+  valueAlsoFiled(root, "workspace", [
+    { path: OWNER_AT, value: { id: OWNER_ID, pageTypeSlug: "workspace", slug: "one" } },
+  ])
   relationFiled(root, PROPERTY_ID, "page-property-slug", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
   alsoSeeded(root)
   return root
