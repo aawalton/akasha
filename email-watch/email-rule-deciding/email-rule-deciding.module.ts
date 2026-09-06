@@ -13,7 +13,7 @@ export const emailRuleDeciding = {
     },
     {
       invariantKind: "departure",
-      statement: "A message no rule claims is answered as none rather than as a rule.",
+      statement: "A message no rule claims is answered as no rule rather than as a rule.",
     },
   ],
 } as const satisfies Module
