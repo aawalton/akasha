@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-commands/temper-inventory-master-writ-probe/temper-inventory-master-writ-probe.command.ts b/temper/temper-commands/temper-inventory-master-writ-probe/temper-inventory-master-writ-probe.command.ts
+index 10f711a275a25d31acc03a95cb98be0316b9b1a0..bfd2c825d2b5acf65f5b4627259abcba5d1da9d5 100644
+--- a/temper/temper-commands/temper-inventory-master-writ-probe/temper-inventory-master-writ-probe.command.ts
++++ b/temper/temper-commands/temper-inventory-master-writ-probe/temper-inventory-master-writ-probe.command.ts
+@@ -19,7 +19,7 @@ export const temperInventoryMasterWritProbe = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The capture read is the most recent one.",
++      statement: "The capture read is the most recent capture.",
+     },
+     {
+       invariantKind: "departure",
