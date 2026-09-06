@@ -1,0 +1,323 @@
+diff --git a/temper/temper-watcher/temper-watcher.workspace-package.ts b/temper/temper-watcher/temper-watcher.workspace-package.ts
+index f2ab1fe0d553a799e29e3fdf7b0be415d66f62bc..7da441feefbd6f06fb63dffe001c0507e2f57892 100644
+--- a/temper/temper-watcher/temper-watcher.workspace-package.ts
++++ b/temper/temper-watcher/temper-watcher.workspace-package.ts
+@@ -47,6 +47,7 @@ export const temperWatcher = {
+     "module/watcher-page-landing",
+     "module/watcher-net-worth-landing",
+     "module/watcher-task-landing",
++    "module/watcher-task-rolling",
+     "module/watcher-completed-day-landing",
+     "module/watcher-settings-consumables",
+     "module/watcher-import-completion",
+diff --git a/temper/temper-watcher/watcher-task-rolling/watcher-task-rolling.module.code.ts b/temper/temper-watcher/watcher-task-rolling/watcher-task-rolling.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0adf4713f1a7bd5eeb1ad9127e76eed39ea5808b
+--- /dev/null
++++ b/temper/temper-watcher/watcher-task-rolling/watcher-task-rolling.module.code.ts
+@@ -0,0 +1,100 @@
++export const NEXT_CHARACTER_SCOPE = "next_character"
++
++export const ALL_CHARACTERS_SCOPE = "all_characters"
++
++export interface CharacterMark {
++  readonly taskId: string
++  readonly characterId: string
++}
++
++export interface RollableTask {
++  readonly taskId: string
++  readonly scope: string | undefined
++  readonly effectiveCharacterId: string | undefined
++}
++
++export interface RollInputs {
++  readonly tasks: readonly RollableTask[]
++  readonly completed: readonly CharacterMark[]
++  readonly progressed: readonly CharacterMark[]
++  readonly roster: readonly string[]
++}
++
++export interface RollVerdict {
++  readonly taskId: string
++  readonly rolls: boolean
++  readonly why: string
++}
++
++function marksByTask(marks: readonly CharacterMark[]): Map<string, Set<string>> {
++  const held = new Map<string, Set<string>>()
++  for (const mark of marks) {
++    const one = held.get(mark.taskId) ?? new Set<string>()
++    one.add(mark.characterId)
++    held.set(mark.taskId, one)
++  }
++  return held
++}
++
++// A task of `next_character` scope waits on the one character it falls to, and that character
++// progressing is enough. A task of `all_characters` scope waits on the whole roster, where a
++// character counts as answered by completing the task or by progressing at it. A character the
++// game holds no record for has not progressed, so the roster is the count either way.
++export function rollVerdicts(inputs: RollInputs): readonly RollVerdict[] {
++  const completedBy = marksByTask(inputs.completed)
++  const progressedBy = marksByTask(inputs.progressed)
++  const verdicts: RollVerdict[] = []
++
++  for (const task of inputs.tasks) {
++    const done = completedBy.get(task.taskId) ?? new Set<string>()
++    const moved = progressedBy.get(task.taskId) ?? new Set<string>()
++
++    if (task.scope === NEXT_CHARACTER_SCOPE) {
++      const next = task.effectiveCharacterId
++      if (next === undefined) {
++        verdicts.push({
++          taskId: task.taskId,
++          rolls: false,
++          why: "the task falls to no character yet",
++        })
++        continue
++      }
++      const rolls = moved.has(next)
++      verdicts.push({
++        taskId: task.taskId,
++        rolls,
++        why: rolls
++          ? `the character it falls to progressed at it`
++          : `the character it falls to has not progressed at it`,
++      })
++      continue
++    }
++
++    if (task.scope === ALL_CHARACTERS_SCOPE) {
++      const waiting = inputs.roster.filter((one) => !done.has(one) && !moved.has(one))
++      verdicts.push({
++        taskId: task.taskId,
++        rolls: waiting.length === 0 && inputs.roster.length > 0,
++        why:
++          waiting.length === 0
++            ? `every one of the ${inputs.roster.length} characters answered it`
++            : `${waiting.length} of the ${inputs.roster.length} characters have neither completed nor progressed`,
++      })
++      continue
++    }
++
++    verdicts.push({
++      taskId: task.taskId,
++      rolls: false,
++      why: `a task of ${task.scope ?? "no"} scope is not rolled by a character's own progress`,
++    })
++  }
++
++  return verdicts
++}
++
++export function tasksThatRoll(inputs: RollInputs): readonly string[] {
++  return rollVerdicts(inputs)
++    .filter((one) => one.rolls)
++    .map((one) => one.taskId)
++}
+diff --git a/temper/temper-watcher/watcher-task-rolling/watcher-task-rolling.module.test.ts b/temper/temper-watcher/watcher-task-rolling/watcher-task-rolling.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ba7c8fb52205642eea463ca6c09c6f52b7d1c10f
+--- /dev/null
++++ b/temper/temper-watcher/watcher-task-rolling/watcher-task-rolling.module.test.ts
+@@ -0,0 +1,131 @@
++import { describe, expect, test } from "bun:test"
++import { rollVerdicts, tasksThatRoll } from "./watcher-task-rolling.module.code.ts"
++
++const ROSTER = ["c1", "c2", "c3"]
++
++describe("a task of next_character scope", () => {
++  test("rolls once the character it falls to has progressed", () => {
++    expect(
++      tasksThatRoll({
++        tasks: [{ taskId: "t", scope: "next_character", effectiveCharacterId: "c2" }],
++        completed: [],
++        progressed: [{ taskId: "t", characterId: "c2" }],
++        roster: ROSTER,
++      })
++    ).toEqual(["t"])
++  })
++
++  test("does not roll when another character progressed instead", () => {
++    expect(
++      tasksThatRoll({
++        tasks: [{ taskId: "t", scope: "next_character", effectiveCharacterId: "c2" }],
++        completed: [],
++        progressed: [{ taskId: "t", characterId: "c3" }],
++        roster: ROSTER,
++      })
++    ).toEqual([])
++  })
++
++  test("does not roll when the whole roster progressed but the one it falls to did not", () => {
++    expect(
++      tasksThatRoll({
++        tasks: [{ taskId: "t", scope: "next_character", effectiveCharacterId: "c1" }],
++        completed: [],
++        progressed: [
++          { taskId: "t", characterId: "c2" },
++          { taskId: "t", characterId: "c3" },
++        ],
++        roster: ROSTER,
++      })
++    ).toEqual([])
++  })
++
++  test("does not roll when it falls to nobody", () => {
++    const [one] = rollVerdicts({
++      tasks: [{ taskId: "t", scope: "next_character", effectiveCharacterId: undefined }],
++      completed: [],
++      progressed: [{ taskId: "t", characterId: "c1" }],
++      roster: ROSTER,
++    })
++    expect(one?.rolls).toBe(false)
++    expect(one?.why).toBe("the task falls to no character yet")
++  })
++})
++
++describe("a task of all_characters scope", () => {
++  test("rolls once every character has completed it or progressed at it", () => {
++    expect(
++      tasksThatRoll({
++        tasks: [{ taskId: "t", scope: "all_characters", effectiveCharacterId: undefined }],
++        completed: [{ taskId: "t", characterId: "c1" }],
++        progressed: [
++          { taskId: "t", characterId: "c2" },
++          { taskId: "t", characterId: "c3" },
++        ],
++        roster: ROSTER,
++      })
++    ).toEqual(["t"])
++  })
++
++  test("does not roll while one character has neither", () => {
++    const [one] = rollVerdicts({
++      tasks: [{ taskId: "t", scope: "all_characters", effectiveCharacterId: undefined }],
++      completed: [{ taskId: "t", characterId: "c1" }],
++      progressed: [{ taskId: "t", characterId: "c2" }],
++      roster: ROSTER,
++    })
++    expect(one?.rolls).toBe(false)
++    expect(one?.why).toBe("1 of the 3 characters have neither completed nor progressed")
++  })
++
++  test("counts a character the game holds no record for as not progressed", () => {
++    expect(
++      tasksThatRoll({
++        tasks: [{ taskId: "t", scope: "all_characters", effectiveCharacterId: undefined }],
++        completed: [
++          { taskId: "t", characterId: "c1" },
++          { taskId: "t", characterId: "c2" },
++          { taskId: "t", characterId: "c3" },
++        ],
++        progressed: [],
++        roster: [...ROSTER, "c4-never-played"],
++      })
++    ).toEqual([])
++  })
++
++  test("does not roll against an empty roster", () => {
++    expect(
++      tasksThatRoll({
++        tasks: [{ taskId: "t", scope: "all_characters", effectiveCharacterId: undefined }],
++        completed: [],
++        progressed: [],
++        roster: [],
++      })
++    ).toEqual([])
++  })
++})
++
++describe("a task of another scope", () => {
++  test("is not rolled by a character's own progress", () => {
++    const [one] = rollVerdicts({
++      tasks: [{ taskId: "t", scope: "character", effectiveCharacterId: "c1" }],
++      completed: [{ taskId: "t", characterId: "c1" }],
++      progressed: [{ taskId: "t", characterId: "c1" }],
++      roster: ROSTER,
++    })
++    expect(one?.rolls).toBe(false)
++  })
++})
++
++describe("marks for another task", () => {
++  test("do not answer for the task being judged", () => {
++    expect(
++      tasksThatRoll({
++        tasks: [{ taskId: "t", scope: "all_characters", effectiveCharacterId: undefined }],
++        completed: ROSTER.map((characterId) => ({ taskId: "other", characterId })),
++        progressed: [],
++        roster: ROSTER,
++      })
++    ).toEqual([])
++  })
++})
+diff --git a/temper/temper-watcher/watcher-task-rolling/watcher-task-rolling.module.ts b/temper/temper-watcher/watcher-task-rolling/watcher-task-rolling.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f02401abb66bb81725aeaa99bbd0c4eab4673891
+--- /dev/null
++++ b/temper/temper-watcher/watcher-task-rolling/watcher-task-rolling.module.ts
+@@ -0,0 +1,62 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const watcherTaskRolling = {
++  id: "01a076f0-9edd-79c4-9344-a257e806889d",
++  pageTypeSlug: "module",
++  slug: "watcher-task-rolling",
++  definition: "whether a task comes round again, judged from what each character did at it",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A task of `next_character` scope rolls once the character it falls to has progressed at it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The progress of a character a task does not fall to rolls that task no sooner.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A task of `next_character` scope falling to no character does not roll.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A task of `all_characters` scope rolls once every character on the roster has completed it or progressed at it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A character the game holds no record for counts as not progressed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The roster is every character the account holds rather than those lately played.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A task of any other scope is not rolled by what a character did.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A roster holding nobody rolls nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A mark naming another task answers for that task alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A verdict carries the reason that verdict was reached.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a file.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes.",
++    },
++  ],
++} as const satisfies Module
