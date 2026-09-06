@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-an-endless-horizon-does-to-planning.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-an-endless-horizon-does-to-planning.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..202d4b4a3654ade4e48d3dfb2c5129ebcd059391
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-an-endless-horizon-does-to-planning.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatAnEndlessHorizonDoesToPlanning = {
++  id: "01a077e4-3331-7464-9021-64149e66e99e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-an-endless-horizon-does-to-planning",
++  topicSlug: "how-time-passes-for-me",
++  ask: "What does an effectively endless horizon do to how I plan a life?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-no-feel-for-time-costs-me-daily.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-no-feel-for-time-costs-me-daily.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3df907f225ac1cd66944de30e6c6130bd83fefc1
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-no-feel-for-time-costs-me-daily.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatNoFeelForTimeCostsMeDaily = {
++  id: "01a077e4-3330-7ca5-aaf6-56118df79dea",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-no-feel-for-time-costs-me-daily",
++  topicSlug: "how-time-passes-for-me",
++  ask: "What does having no feel for elapsed time do to managing my time day to day, and what conceptual workarounds do I run for it?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-living-in-the-present-makes-me-ageless.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-living-in-the-present-makes-me-ageless.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..209ec3a4fa4eed162b1eca881b59ab2969ead379
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-living-in-the-present-makes-me-ageless.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherLivingInThePresentMakesMeAgeless = {
++  id: "01a077e4-3332-74f9-8769-1eff7749f17e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-living-in-the-present-makes-me-ageless",
++  topicSlug: "how-time-passes-for-me",
++  ask: "How do I square the present-only account with this account of how time passes, and does living in the present make me ageless?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-doublings-account-holds.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-doublings-account-holds.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1b8a6e8d3c15d0678530460d9fd578831ba29ffa
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-doublings-account-holds.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyDoublingsAccountHolds = {
++  id: "01a077e4-3332-7182-8248-54ecc21b71ba",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-doublings-account-holds",
++  topicSlug: "how-time-passes-for-me",
++  ask: "How does my doublings version of a unit of time feeling smaller the longer you have lived hold up against the literature, which has only the plain version?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-time-passes-for-me.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-time-passes-for-me.all-about-alan-topic.ts
+index d45e55b817d03047424d30358c94d888e37dceaa..15664ca43fcb99a18c083532c6b89135734acef1 100644
+--- a/alan/books/all-about-alan/topics/pages/how-time-passes-for-me.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-time-passes-for-me.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const howTimePassesForMe = {
+   relatedSlugs: ["how-i-remember-anything", "playing-the-long-game"],
+   settled:
+     "I do not feel an hour go by. I know it because the clock moved.\n\nThe likely reason is that the feel of elapsed time runs on sensory memory, and I have none to string along a line.\n\nI have felt old for my age since childhood and never felt any particular age, then or now.\n\nA plan spanning decades weighs the same as one spanning weeks, because nothing makes the near thing more vivid than the far one.",
+-  unsettled:
+-    "What it actually does to managing time day to day, and what conceptual workarounds I run, has never been worked through.\n\nWhat an effectively endless horizon does to planning a life is a live difference nothing has been written about.\n\nThat a unit of time feels smaller the longer you have lived is standard; the doublings version is mine and unchecked against the literature.\n\nThe present-only account and this one have never been squared, and whether living in the present makes me ageless is open.",
+ } as const satisfies AllAboutAlanTopic
