@@ -51,7 +51,7 @@ index 00891c8e80e63f723ae0efe2cf3b4634d56f3732..00000000000000000000000000000000
 -  definition: "the cost of a run finishing within a second",
 -} as const satisfies Domain
 diff --git a/instrument/run-cost/run-cost.domain.ts b/instrument/run-cost/run-cost.domain.ts
-index 974c6039c036c8e1eaba097c6defb4a82fd83841..9ef7551e80b2abd268d1b2373ffefa19e36994d1 100644
+index 974c6039c036c8e1eaba097c6defb4a82fd83841..32718d29b590bfcbfc2621b8418c30654d41c7a5 100644
 --- a/instrument/run-cost/run-cost.domain.ts
 +++ b/instrument/run-cost/run-cost.domain.ts
 @@ -4,10 +4,9 @@ export const runCost = {
@@ -66,3 +66,12 @@ index 974c6039c036c8e1eaba097c6defb4a82fd83841..9ef7551e80b2abd268d1b2373ffefa19
      "domain/run-cost-fast",
      "domain/run-cost-lagging",
      "domain/run-cost-slow",
+@@ -26,7 +25,7 @@ export const runCost = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The bands widen in order from instant through to eternal.",
++      statement: "The bands widen in order from fast through to eternal.",
+     },
+     {
+       invariantKind: "departure",
