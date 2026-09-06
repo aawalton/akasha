@@ -1,9 +1,15 @@
 readersOweReading: false
 diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
-index 240a3261734453b365bf9a7d70d9ee2016fd0156..b90cce13fe4187930968d5a2fb7791dacc4d1240 100644
+index 240a3261734453b365bf9a7d70d9ee2016fd0156..89ad07a24fc8e92c1907d4c0f4d2e5edbf72c9d8 100644
 --- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
 +++ b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
-@@ -31,7 +31,7 @@ export const exerciseRows = {
+@@ -26,12 +26,12 @@ export const exerciseRows = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A field that is no text, no number and no truth reads as absent.",
++      statement: "A field that is no text and no number and no truth reads as absent.",
+     },
      {
        invariantKind: "departure",
        statement:
