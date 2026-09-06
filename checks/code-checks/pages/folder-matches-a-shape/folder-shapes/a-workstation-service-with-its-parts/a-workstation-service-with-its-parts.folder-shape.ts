@@ -1,0 +1,33 @@
+import type { FolderShape } from "../folder-shape.page-type.ts"
+
+export const aWorkstationServiceWithItsParts = {
+  id: "01a076ab-4c17-7626-ad38-f06b550b24e2",
+  pageTypeSlug: "folder-shape",
+  slug: "a-workstation-service-with-its-parts",
+  definition: "the shape of a folder named workstation-services holding one service with its parts",
+  code: "ts",
+  test: "ts",
+  enabled: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The folder is named `workstation-services`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "It holds one page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That page is of the `workstation-service` page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other file in the folder is a part of that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding a subfolder is refused.",
+    },
+  ],
+} as const satisfies FolderShape

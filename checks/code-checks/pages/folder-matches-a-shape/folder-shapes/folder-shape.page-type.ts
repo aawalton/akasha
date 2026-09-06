@@ -50,6 +50,7 @@ export const folderShape = {
     "folder-shape/a-page-with-its-parts",
     "folder-shape/a-domain-with-its-parts",
     "folder-shape/a-page-type-with-its-parts",
+    "folder-shape/a-workstation-service-with-its-parts",
     "folder-shape/pages-of-one-type",
     "folder-shape/pages-of-the-type-above",
     "folder-shape/properties-of-the-type-above",

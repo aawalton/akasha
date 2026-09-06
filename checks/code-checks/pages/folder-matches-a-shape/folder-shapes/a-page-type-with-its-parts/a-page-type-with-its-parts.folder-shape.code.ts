@@ -7,7 +7,7 @@ const PAGE_TYPE = "page-type"
 
 const PACKAGE = "workspace-package"
 
-const HELD = new Set<string>(["modules", "pages", "properties", "scripts"])
+const HELD = new Set<string>(["modules", "pages", "properties", "scripts", "workstation-services"])
 
 function packageIn(standing: Standing): Held | null {
   if (standing.pages.length !== 2) return null
