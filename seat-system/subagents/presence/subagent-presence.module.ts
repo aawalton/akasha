@@ -31,15 +31,16 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent whose page is in history takes up that page rather than a new one.",
+      statement: "A subagent whose page is in history takes up that page rather than a new page.",
     },
     {
       invariantKind: "departure",
-      statement: "The page taken up is the one the newest commit wrote at the same path.",
+      statement: "The page taken up is the page the newest commit wrote at the same path.",
     },
     {
       invariantKind: "departure",
-      statement: "A page is taken up only where the agent id it states is the one asked for.",
+      statement:
+        "A page is taken up only where the agent id that page states is the agent id asked for.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +65,7 @@ export const subagentPresence = {
     {
       invariantKind: "departure",
       statement:
-        "A page taken up states the assignment history held only where its seat states none.",
+        "A page taken up states the assignment history held only where its seat states no assignment.",
     },
     {
       invariantKind: "departure",
@@ -93,7 +94,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A time is said to the millisecond, carrying the offset it was written at.",
+      statement: "A time is said to the millisecond with the offset that time was written at.",
     },
     {
       invariantKind: "departure",
@@ -153,7 +154,7 @@ export const subagentPresence = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch whose page went before this sweep is taken in like any other.",
+      statement: "A patch whose page went before this sweep is taken in like any other patch.",
     },
     {
       invariantKind: "departure",
