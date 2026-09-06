@@ -136,7 +136,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "The files those rows fill are put alongside the page carrying them.",
+      statement: "The files those rows fill are put alongside the page carrying those rows.",
     },
     {
       invariantKind: "departure",
@@ -152,7 +152,7 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "A merge into a page the index does not hold composes that page as a new one.",
+      statement: "A merge into a page the index does not hold composes that page as a new page.",
     },
     {
       invariantKind: "absence",
@@ -160,7 +160,8 @@ export const pageComposing = {
     },
     {
       invariantKind: "departure",
-      statement: "Several pages compose into the files one write puts, keeps and takes away.",
+      statement:
+        "Several pages compose into the files a single write puts and keeps and takes away.",
     },
     {
       invariantKind: "departure",
