@@ -6214,18 +6214,15 @@ index 7a1c6482bac7c4b08c2e8085a690449869d43149..4ccf73210ec92d66dad157f6a2536dd3
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/readout-system/readout-widgets/properties/opens.text-property.ts b/readout-system/readout-widgets/properties/opens.text-property.ts
-index 88b82b420e7d83bb969cf963aca4c62cad99b664..6935935c4ec9d4002a7184027efb7746920d1164 100644
+index 88b82b420e7d83bb969cf963aca4c62cad99b664..1be21c4508b521f3ebd8aeec8217e77a8781d2e5 100644
 --- a/readout-system/readout-widgets/properties/opens.text-property.ts
 +++ b/readout-system/readout-widgets/properties/opens.text-property.ts
-@@ -8,6 +8,10 @@ export const opens = {
+@@ -8,6 +8,6 @@ export const opens = {
    slug: "opens",
    propertySlug: "opens",
    definition: "where a tap on a widget goes",
-+<<<<<<< what this change would leave
-+  maxLength: 100,
-+=======
-   max: 150,
-+>>>>>>> what HEAD holds
+-  max: 150,
++  maxLength: 150,
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/readout-system/readout-widgets/readout-widget.page-type.ts b/readout-system/readout-widgets/readout-widget.page-type.ts
