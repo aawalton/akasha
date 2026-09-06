@@ -19,7 +19,7 @@ index 0b155357e845e1bc2ff86fae15b491dab2b6eb0b..f088fb9bfc437d6b9bc31082773ace13
    const put = installingIn(root, prepared.changes)
    return {
 diff --git a/command-system/applying/applying.module.test.ts b/command-system/applying/applying.module.test.ts
-index 017d8a16b4e39af6a7055431bb13b9baad7301f0..2ced0fa4b0d0a8b9d0cba7d4bc83e65f581d5079 100644
+index 017d8a16b4e39af6a7055431bb13b9baad7301f0..7cbd90a8827da2a907fe3e2374f97d797ee5a780 100644
 --- a/command-system/applying/applying.module.test.ts
 +++ b/command-system/applying/applying.module.test.ts
 @@ -18,7 +18,7 @@ import {
@@ -31,6 +31,36 @@ index 017d8a16b4e39af6a7055431bb13b9baad7301f0..2ced0fa4b0d0a8b9d0cba7d4bc83e65f
  import { applied } from "./applying.module.code.ts"
  
  const AGENT = "01a05f00-0000-7000-8000-000000000001"
+@@ -126,6 +126,29 @@ test("a patch a mechanical draft opened is a diff git still reads", async () =>
+   expect(() => gitSaid(root, ["apply", "--check", patchAt(PAGE) as string])).not.toThrow()
+ })
+ 
++const READER = "01a05f00-0000-7000-8000-000000000002"
++
++const RESTATED = { checks: true, writerOwesReading: true, readersOweReading: false }
++
++async function reading(running: typeof RESTATED | undefined): Promise<boolean> {
++  const root = await indexed()
++  const was = headOid(root, PAGE)
++  recordRead(root, READER, { path: PAGE, oid: was, seenAt: 1, carriedOid: null })
++  const draft = [{ path: PAGE, was: bytes(A), body: bytes(MORE) }]
++  expect("why" in drafted(root, PAGE, draft, running)).toBe(false)
++  const said = await applied(root, PAGE, AGENT, "applied", ADMITS, null)
++  if ("refusals" in said) throw new Error(said.refusals.join("; "))
++  return sameBody(readingIn(root, READER, PAGE), headOid(root, PAGE))
++}
++
++test("an apply owing its readers no reading carries their readings onto the bodies applied", async () => {
++  expect(await reading(RESTATED)).toBe(true)
++})
++
++test("an apply whose readers owe reading carries none, so every reader goes stale", async () => {
++  expect(await reading(undefined)).toBe(false)
++})
++
+ test("a path the patch moved under has no reading recorded", async () => {
+   const root = pagesRepo()
+   drafting(root)
 diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
 index bc16a12180fdef8b98750ffa77d088ea3d62129f..993ab13a1ad763b9bf612ee9cdac3a8f683c25c5 100644
 --- a/command-system/asking/asking.module.code.ts
