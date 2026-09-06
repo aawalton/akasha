@@ -25,7 +25,7 @@ export const codeEditor = {
     {
       invariantKind: "departure",
       statement:
-        "A panel, a tab or the status line reads one file and works nothing out from the repository.",
+        "A panel or a tab or the status line reads one file and works nothing out from the repository.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const codeEditor = {
     },
     {
       invariantKind: "departure",
-      statement: "A panel, a tab or the status line re-reads when its own file is written.",
+      statement: "A panel or a tab or the status line re-reads when its own file is written.",
     },
     {
       invariantKind: "departure",
@@ -212,7 +212,7 @@ export const codeEditor = {
     },
     {
       invariantKind: "departure",
-      statement: "An intent opens the page of the initiative holding it.",
+      statement: "An intent opens the page of the initiative holding that intent.",
     },
     {
       invariantKind: "gap",
