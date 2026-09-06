@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts
-index 1de0e910b68ab5725926d6ffd4a850278c873b49..a8de435d8387f7a4a29d255ae08af776c5a80ac2 100644
+index 1de0e910b68ab5725926d6ffd4a850278c873b49..66f5634a56b532680ee3b1529bb5761cdf4b1948 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts
 @@ -13,7 +13,7 @@ export const dataWatching = {
@@ -19,6 +19,16 @@ index 1de0e910b68ab5725926d6ffd4a850278c873b49..a8de435d8387f7a4a29d255ae08af776
 -      statement: "A file is replaced by writing it elsewhere and renaming it over.",
 +      statement:
 +        "A file is replaced by writing a second file elsewhere and renaming that second file over.",
+     },
+     {
+       invariantKind: "departure",
+@@ -37,7 +38,8 @@ export const dataWatching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A picture states the folders it reads and which files in them it is made from.",
++      statement:
++        "A picture states the folders that picture reads and the files there the picture is made from.",
      },
      {
        invariantKind: "departure",
