@@ -13,7 +13,7 @@ export const workTreeReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The rows are counted by what each row is as well as all together.",
+      statement: "The rows are counted by the kind each row is as well as all together.",
     },
     {
       invariantKind: "departure",
