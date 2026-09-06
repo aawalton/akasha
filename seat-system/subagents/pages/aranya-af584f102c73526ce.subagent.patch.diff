@@ -102,3 +102,17 @@ index 0000000000000000000000000000000000000000..c09462580181912bb6fdf3920cf5f999
 +  slug: "postgres-cnpg-superuser-username",
 +  placements: [{ resourceName: "postgres-cnpg-superuser", resourceKey: "username" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/supabase-studio-secrets-database-url.secret.ts b/service-system/secrets/pages/supabase-studio-secrets-database-url.secret.ts
+index 39e447874e0d20946e59b7f5189bd0012978b9df..691b5f241577b1a1d68f5706c14d5decb9d993b2 100644
+--- a/service-system/secrets/pages/supabase-studio-secrets-database-url.secret.ts
++++ b/service-system/secrets/pages/supabase-studio-secrets-database-url.secret.ts
+@@ -4,5 +4,8 @@ export const supabaseStudioSecretsDatabaseUrl = {
+   id: "01a06832-cf2d-708e-bb93-5dc6d58ee786",
+   pageTypeSlug: "secret",
+   slug: "supabase-studio-secrets-database-url",
+-  placements: [{ resourceName: "supabase-studio-secrets", resourceKey: "DATABASE_URL" }],
++  placements: [
++    { resourceName: "supabase-studio-secrets", resourceKey: "DATABASE_URL" },
++    { resourceName: "postgres-secrets", resourceKey: "DATABASE_URL" },
++  ],
+ } as const satisfies Secret
