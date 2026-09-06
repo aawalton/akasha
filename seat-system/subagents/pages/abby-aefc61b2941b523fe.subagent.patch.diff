@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-my-fathers-decline-and-my-mothers-years-hold.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-my-fathers-decline-and-my-mothers-years-hold.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d89b5ad8961c30136873e97deb6e1e05feeff497
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-my-fathers-decline-and-my-mothers-years-hold.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMyFathersDeclineAndMyMothersYearsHold = {
++  id: "01a077f0-3313-7e22-89a9-9f2bd3b5c0d8",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-my-fathers-decline-and-my-mothers-years-hold",
++  topicSlug: "the-years-with-my-parents",
++  ask: "What is there to write about my father's decline and death, the eighteen months I cared for him, and the eight years my mother lived with us? That run is nowhere written down.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-of-my-parents-years-i-open-and-when.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-of-my-parents-years-i-open-and-when.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d77f0b6bc11d015c27da9eee19d88116b2134553
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-of-my-parents-years-i-open-and-when.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatOfMyParentsYearsIOpenAndWhen = {
++  id: "01a077f0-3314-7856-9009-c6bc0de19140",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-of-my-parents-years-i-open-and-when",
++  topicSlug: "the-years-with-my-parents",
++  ask: "The years with my parents surfaced at a low state, so the call is mine rather than anyone else's. What do I open of those years, and when?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-trusteeship-and-the-estrangement-hold.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-trusteeship-and-the-estrangement-hold.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9364c19a22d67b8916d4f80665865cb0e7a86a93
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-the-trusteeship-and-the-estrangement-hold.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTheTrusteeshipAndTheEstrangementHold = {
++  id: "01a077f0-3314-75e4-97c2-6f74b52b703b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-the-trusteeship-and-the-estrangement-hold",
++  topicSlug: "the-years-with-my-parents",
++  ask: "What is there to write about the trusteeship and the ten years of unfiled trust taxes, the estrangement from my mother, and what she asked me about Medicaid?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-years-with-my-parents.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-years-with-my-parents.all-about-alan-topic.ts
+index 47d0b0298198c45bd9f25f2895d072fc629ab7a0..d1da024837f167829d1028f3f5610c805f07c065 100644
+--- a/alan/books/all-about-alan/topics/pages/the-years-with-my-parents.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-years-with-my-parents.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const theYearsWithMyParents = {
+     "my father's last years and my mother's, and the whole run of it that is nowhere written down",
+   parentSlugs: ["the-chapters-of-my-life"],
+   relatedSlugs: ["what-the-book-of-me-is-for", "why-getting-close-hurts"],
+-  unsettled:
+-    "My father's decline and death, the eighteen months of caring for him, and the eight years my mother lived with us are nowhere in the corpus.\n\nThe trusteeship and the ten years of unfiled trust taxes, the estrangement from my mother, and what she asked me about Medicaid, are unwritten too.\n\nThis surfaced at a low state, so what gets opened and when is my call rather than anyone else's.",
+ } as const satisfies AllAboutAlanTopic
