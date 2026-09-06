@@ -1,0 +1,11 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-dropped-my-safety-to-two.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-dropped-my-safety-to-two.all-about-alan-question.ts
+index cdc06e4e2d3af5b99cded23e9a59a912c8055e5e..30e43f910474a62994bc8e4f613fc0629a50a3fb 100644
+--- a/alan/books/all-about-alan/questions/pages/what-dropped-my-safety-to-two.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-dropped-my-safety-to-two.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatDroppedMySafetyToTwo = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-dropped-my-safety-to-two",
+   topicSlug: "the-budget-i-run-my-days-on",
+-  ask: "Four to six was my normal safety not long ago and I have been at two to three this week. What took me down, and is that the same thing taking my sleep?",
++  ask: "Leaving recovery mode on July 6 is what took my safety down. Is that the same thing taking my sleep, or does the sleep run on a cause of its own?",
+ } as const satisfies AllAboutAlanQuestion
