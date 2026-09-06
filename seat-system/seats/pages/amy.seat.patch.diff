@@ -75,7 +75,7 @@ index 0000000000000000000000000000000000000000..ec5632ea9ec446721798dc931d50c7e2
 +  return (one as Record<string, unknown> | undefined)?.figureOffScale
 +}
 diff --git a/readout-system/readout-group-serving/readout-group-serving.module.test.ts b/readout-system/readout-group-serving/readout-group-serving.module.test.ts
-index 2bae8465dd0a09a4a85270a0bf60efe5cae3c994..3742727efdbe6cb295769c4610d1031d32d9697d 100644
+index 2bae8465dd0a09a4a85270a0bf60efe5cae3c994..e1e91aa33c8406ff7e968bd7bd6042abe4beaa92 100644
 --- a/readout-system/readout-group-serving/readout-group-serving.module.test.ts
 +++ b/readout-system/readout-group-serving/readout-group-serving.module.test.ts
 @@ -27,10 +27,13 @@ const READOUT_ROW = {
@@ -109,7 +109,16 @@ index 2bae8465dd0a09a4a85270a0bf60efe5cae3c994..3742727efdbe6cb295769c4610d1031d
  })
  
  const drawn = () => answerStoplightsAdmittedBy(new Request("http://a.test/"), () => null, GROUP)
-@@ -378,3 +383,49 @@ test("a group every readout of which is stilled is answered as no reading", asyn
+@@ -328,8 +333,6 @@ test("nothing between here and the tile is allowed to keep an answer", async ()
+   expect((await drawn()).headers.get("Cache-Control")).toBe("no-store")
+ })
+ 
+-const OTHER = "another-readout-named-only-in-this-test"
+-
+ const OTHER_ROW = {
+   slug: OTHER,
+   label: "Surplus",
+@@ -378,3 +381,49 @@ test("a group every readout of which is stilled is answered as no reading", asyn
    ANSWERED.readouts = [{ ...READOUT_ROW, enabled: false }]
    expect((await drawn()).status).toBe(503)
  })
