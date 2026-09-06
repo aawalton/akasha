@@ -1,5 +1,5 @@
 diff --git a/infrastructure/infrastructure-commands/talos-image-build/talos-image-build.command.ts b/infrastructure/infrastructure-commands/talos-image-build/talos-image-build.command.ts
-index c8afdadecd496b5c4a931dfa1bfac9eeb7385321..540ebe1bd4a9734c7b8957c1c74c8bf1ad578c14 100644
+index c8afdadecd496b5c4a931dfa1bfac9eeb7385321..90df496d78015653694d6045c0037cda5569d0a7 100644
 --- a/infrastructure/infrastructure-commands/talos-image-build/talos-image-build.command.ts
 +++ b/infrastructure/infrastructure-commands/talos-image-build/talos-image-build.command.ts
 @@ -27,7 +27,11 @@ export const talosImageBuild = {
@@ -12,6 +12,16 @@ index c8afdadecd496b5c4a931dfa1bfac9eeb7385321..540ebe1bd4a9734c7b8957c1c74c8bf1
 +    {
 +      invariantKind: "departure",
 +      statement: "A node named as a word and after `--node` is refused.",
+     },
+     {
+       invariantKind: "departure",
+@@ -35,7 +39,8 @@ export const talosImageBuild = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A schematic id is the content of the schematic rather than a name given to it.",
++      statement:
++        "A schematic id is the content of the schematic rather than a name given to the schematic.",
      },
      {
        invariantKind: "departure",
