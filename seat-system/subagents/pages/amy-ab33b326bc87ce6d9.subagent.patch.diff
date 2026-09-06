@@ -499,3 +499,15 @@ index 0000000000000000000000000000000000000000..de04b49f2ad9a10ad289e0210235b440
 +    catchUp: true,
 +  },
 +} as const satisfies WorkstationService
+diff --git a/service-system/workstation-services/workstation-service.page-type.ts b/service-system/workstation-services/workstation-service.page-type.ts
+index 31ef86dc88f485e575754b9b8b3cc655bfaa700e..5cf4a8f1c348e4822d14aa8792156d8da87f46b4 100644
+--- a/service-system/workstation-services/workstation-service.page-type.ts
++++ b/service-system/workstation-services/workstation-service.page-type.ts
+@@ -56,6 +56,7 @@ export const workstationService = {
+     "workstation-service/claude-account-upkeep-stall",
+     "workstation-service/code-editor-data-watcher",
+     "workstation-service/dcgm-exporter",
++    "workstation-service/desktop-wallpaper-setting",
+     "workstation-service/great-courses-sync",
+     "workstation-service/inbox-tracking-poll",
+     "workstation-service/maintain-seat-pending",
