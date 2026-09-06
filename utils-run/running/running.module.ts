@@ -30,7 +30,7 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "How a process ended is spelled once here, as a code or as a signal.",
+      statement: "How a process ended is spelled once here as a code or as a signal.",
     },
     {
       invariantKind: "departure",
@@ -42,11 +42,11 @@ export const running = {
     },
     {
       invariantKind: "departure",
-      statement: "A process inherits the environment of the one that started that process.",
+      statement: "A process inherits the environment of its caller.",
     },
     {
       invariantKind: "departure",
-      statement: "An environment stated replaces the one inherited.",
+      statement: "An environment stated replaces the environment inherited.",
     },
     {
       invariantKind: "departure",
