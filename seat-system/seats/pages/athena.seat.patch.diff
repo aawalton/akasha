@@ -1,0 +1,78 @@
+diff --git a/command-system/commands/index/index.command.code.ts b/command-system/commands/index/index.command.code.ts
+index e82ba15b20bb164fb438597376cf79202af42313..30cc08ecd57a5838a7fc73f5dcab829d40d8151a 100644
+--- a/command-system/commands/index/index.command.code.ts
++++ b/command-system/commands/index/index.command.code.ts
+@@ -107,6 +107,9 @@ function refreshing(root: string, read: { dryRun: boolean }): Answer {
+     `${counted(said.pages, "page")}, ${said.entries} entries, ${said.refused.length} refused`,
+     driftSaid(said.drift),
+   ]
++  if (said.swept.length > 0) {
++    report.push(`${counted(said.swept.length, "path")} belonging to no index was taken away`)
++  }
+   report.push(
+     read.dryRun
+       ? `nothing was put in place — ${DRY_RUN}`
+diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
+index c049133ce6ffad2655675c56e6adacdc5bf20243..dfed45b3bfe76062927df3b992939f9b875b29cb 100644
+--- a/pages/indexes/indexing/indexing.module.code.ts
++++ b/pages/indexes/indexing/indexing.module.code.ts
+@@ -36,7 +36,12 @@ import { claimingIn } from "../path/index-path.index.code.ts"
+ import { indexPath } from "../path/index-path.index.ts"
+ import { knownIn } from "../reaching/reaching.module.code.ts"
+ import { everyPath, indexThere, namersOf } from "../reading/index-reading.module.code.ts"
+-import { type Drift, keepWhole, reconcile } from "../rebuilding/rebuilding.module.code.ts"
++import {
++  type Drift,
++  keepWhole,
++  reconcile,
++  sweptBeside,
++} from "../rebuilding/rebuilding.module.code.ts"
+ import { NOTHING_FILED, relationIn } from "../relation/index-relation.index.code.ts"
+ import { indexRelation } from "../relation/index-relation.index.ts"
+ import { schemaIn } from "../schema/index-schema.index.code.ts"
+diff --git a/pages/indexes/rebuilding/rebuilding.module.code.ts b/pages/indexes/rebuilding/rebuilding.module.code.ts
+index 093a6c551f4a014435b9690f6ab8d1f48670b0f9..d1277e89f7c34b8deefe0ff5ee51179f52ea8579 100644
+--- a/pages/indexes/rebuilding/rebuilding.module.code.ts
++++ b/pages/indexes/rebuilding/rebuilding.module.code.ts
+@@ -1,13 +1,17 @@
+ import {
+   existsSync,
+   mkdirSync,
++  readdirSync,
+   readFileSync,
+   renameSync,
+   rmdirSync,
+   rmSync,
+   writeFileSync,
+ } from "node:fs"
+-import { dirname, join } from "node:path"
++import { basename, dirname, join } from "node:path"
++
++const INDEX = "index"
++
+ import type { Entry } from "../entries/index-entries.module.code.ts"
+ import { walkedUnder } from "../tree-reading/tree-reading.module.code.ts"
+ 
+diff --git a/pages/indexes/rebuilding/rebuilding.module.ts b/pages/indexes/rebuilding/rebuilding.module.ts
+index 6d5ec5151779dc82c22fa2bdffd4e5c302798fc2..d69134d12cc476012985b949cf3071cce042f99f 100644
+--- a/pages/indexes/rebuilding/rebuilding.module.ts
++++ b/pages/indexes/rebuilding/rebuilding.module.ts
+@@ -36,6 +36,18 @@ export const rebuilding = {
+       invariantKind: "departure",
+       statement: "Where the index stands is derived from the repository root given here.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A file at the index's own top belongs to no index and is taken away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder beside the index whose name opens `index.` is taken away with it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That sweep answers only for a folder named `index`.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here decides whether a rebuild should run.",
