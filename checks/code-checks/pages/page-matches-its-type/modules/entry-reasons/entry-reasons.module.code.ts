@@ -11,15 +11,15 @@ const ID = "id"
 
 const OWN: ReadonlySet<string> = new Set([ID])
 
-export function overMax(
+export function overLength(
   said: unknown,
-  max: number | null,
+  length: number | null,
   slug: string,
   where: string
 ): string | null {
-  if (typeof said !== "string" || max === null) return null
-  if (said.length <= max) return null
-  return `${where}\`${slug}\` runs to ${said.length} characters, over the max of ${max}`
+  if (typeof said !== "string" || length === null) return null
+  if (said.length <= length) return null
+  return `${where}\`${slug}\` runs to ${said.length} characters, over the length of ${length}`
 }
 
 export function offFormat(
@@ -31,18 +31,6 @@ export function offFormat(
   if (typeof said !== "string" || nameFormatSlug === null) return null
   if (formatting(nameFormatSlug)(said)) return null
   return `\`${slug}\` is "${said}", which is not written in \`${nameFormatSlug}\``
-}
-
-export function overTotal(
-  held: readonly unknown[],
-  total: number | null,
-  slug: string
-): string | null {
-  if (total === null) return null
-  let sum = 0
-  for (const one of held) if (typeof one === "string") sum += one.length
-  if (sum <= total) return null
-  return `holds ${sum} characters of \`${slug}\`, over the total of ${total}`
 }
 
 export function twiceIn(held: readonly unknown[], slug: string): string | null {
@@ -98,13 +86,11 @@ export function fieldsOf(
       )
     }
     if (shaped.many && many) {
-      const why = overTotal(stated, null, `${slug} ${field}`)
-      if (why !== null) said.push(why)
       const twice = twiceIn(stated, `${slug} ${field}`)
       if (twice !== null) said.push(twice)
     }
     for (const each of many ? stated : [stated]) {
-      const why = overMax(each, max, `${slug} ${field}`, "")
+      const why = overLength(each, max, `${slug} ${field}`, "")
       if (why !== null) said.push(why)
       const off = offFormat(each, format, formatting, `${slug} ${field}`)
       if (off !== null) said.push(off)

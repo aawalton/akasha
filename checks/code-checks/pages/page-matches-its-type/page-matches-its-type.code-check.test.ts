@@ -135,33 +135,35 @@ test("a property the page type does not declare is refused", () => {
   ])
 })
 
-test("a value over its text max is refused", () => {
+test("a value over its text length is refused", () => {
   expect(over({ id: "a", slug: "far-too-long", test: "ts" }, "check")).toEqual([
-    "`slug` runs to 12 characters, over the max of 8",
+    "`slug` runs to 12 characters, over the length of 8",
   ])
 })
 
-test("a list over the max its declaration states is refused", () => {
+test("a list over the count its declaration states is refused", () => {
   expect(over({ id: "a", slug: "one", test: "ts", aids: ["x", "y", "z"] }, "check")).toEqual([
-    "holds 3 of `aids`, over the max of 2",
+    "holds 3 of `aids`, over the count of 2",
   ])
 })
 
-test("a list over the total its declaration states is refused", () => {
+test("a list whose entry runs over the length its declaration states is refused", () => {
   expect(over({ id: "a", slug: "one", test: "ts", aids: ["hello", "world"] }, "check")).toEqual([
-    "holds 10 characters of `aids`, over the total of 6",
+    "`aids` runs to 5 characters, over the length of 3",
+    "`aids` runs to 5 characters, over the length of 3",
   ])
   expect(over({ id: "a", slug: "one", test: "ts", aids: ["ab", "cd"] }, "check")).toEqual([])
 })
 
-test("a declaration stating no total lets a list run to any length", () => {
+test("a declaration stating no length holds a list to its property's length", () => {
   expect(over({ id: "a", slug: "one", aids: ["hello", "world"] }, "told")).toEqual([])
 })
 
-test("a record field over the total its declaration states is refused", () => {
+test("a record field whose entry runs over the length its declaration states is refused", () => {
   const beyond = { id: "a", slug: "one", directives: [{ name: "go", aids: ["hello", "world"] }] }
   expect(over(beyond, "told")).toEqual([
-    "holds 10 characters of `directives aids`, over the total of 6",
+    "`directives aids` runs to 5 characters, over the length of 4",
+    "`directives aids` runs to 5 characters, over the length of 4",
   ])
   const under = { id: "a", slug: "one", directives: [{ name: "go", aids: ["ab", "cd"] }] }
   expect(over(under, "told")).toEqual([])
@@ -171,11 +173,11 @@ test("a record field's entries and its characters are counted apart", () => {
   const value = {
     id: "a",
     slug: "one",
-    directives: [{ name: "go", aids: ["ab", "cd", "ef", "g"] }],
+    directives: [{ name: "go", aids: ["abcde", "cd", "ef", "g"] }],
   }
   expect(over(value, "told")).toEqual([
-    "holds 4 of `directives aids`, over the max of 3",
-    "holds 7 characters of `directives aids`, over the total of 6",
+    "holds 4 of `directives aids`, over the count of 3",
+    "`directives aids` runs to 5 characters, over the length of 4",
   ])
 })
 
@@ -186,12 +188,14 @@ test("a record field naming its page type is read under the key its own property
 
 test("a record field's property page is reached by the page type its declaration names", () => {
   const held = { id: "a", slug: "one", directives: [{ name: "go", tag: "hello" }] }
-  expect(over(held, "told")).toEqual(["`directives tag` runs to 5 characters, over the max of 4"])
+  expect(over(held, "told")).toEqual([
+    "`directives tag` runs to 5 characters, over the length of 4",
+  ])
 })
 
-test("a property stating a max is judged whatever page type that property is", () => {
+test("a property stating a length is judged whatever page type that property is", () => {
   expect(over({ id: "a", slug: "one", tally: "toolong" }, "told")).toEqual([
-    "`tally` runs to 7 characters, over the max of 4",
+    "`tally` runs to 7 characters, over the length of 4",
   ])
 })
 
@@ -238,7 +242,7 @@ test("a record field is judged by the format its own property states", () => {
 
 test("a value both over its max and off its format is refused for each", () => {
   expect(over({ id: "a", slug: "Far-Too-Long", test: "ts" }, "check")).toEqual([
-    "`slug` runs to 12 characters, over the max of 8",
+    "`slug` runs to 12 characters, over the length of 8",
     '`slug` is "Far-Too-Long", which is not written in `all-lower`',
   ])
 })

@@ -20,8 +20,7 @@ import {
   fieldsFor,
   fieldsOf,
   offFormat,
-  overMax,
-  overTotal,
+  overLength,
   type Shaping,
   twiceIn,
 } from "./modules/entry-reasons/entry-reasons.module.code.ts"
@@ -103,8 +102,6 @@ export function reasonsIn(
       said.push(`holds ${held.length} of \`${slug}\`, over the count of ${one.maxCount}`)
     }
     if (one.many && listed) {
-      const why = overTotal(held, null, slug)
-      if (why !== null) said.push(why)
       const twice = twiceIn(held, slug)
       if (twice !== null) said.push(twice)
     }
@@ -113,7 +110,7 @@ export function reasonsIn(
     const max = one.maxLength ?? numberAt(page, "maxLength")
     const format = textAt(page, FORMAT)
     for (const each of listed ? held : [held]) {
-      const why = overMax(each, max, slug, "")
+      const why = overLength(each, max, slug, "")
       if (why !== null) said.push(why)
       const off = offFormat(each, format, formatting, slug)
       if (off !== null) said.push(off)

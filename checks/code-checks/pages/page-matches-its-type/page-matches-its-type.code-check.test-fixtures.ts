@@ -34,7 +34,7 @@ const TYPES: readonly Value[] = [
     extendsSlug: ["page-type/module"],
     properties: [
       { pagePropertySlug: "test", required: true, many: false },
-      { pagePropertySlug: "aids", required: false, many: true, max: 2, total: 6 },
+      { pagePropertySlug: "aids", required: false, many: true, maxCount: 2, maxLength: 3 },
     ],
   },
   {
@@ -43,8 +43,8 @@ const TYPES: readonly Value[] = [
     slug: "told",
     extendsSlug: ["page-type/page"],
     properties: [
-      { pagePropertySlug: "directives", required: false, many: true, max: null },
-      { pagePropertySlug: "aids", required: false, many: true, max: null },
+      { pagePropertySlug: "directives", required: false, many: true, maxCount: null },
+      { pagePropertySlug: "aids", required: false, many: true, maxCount: null },
       { pagePropertySlug: "tally", required: false, many: false },
     ],
   },
@@ -74,9 +74,9 @@ const SHAPES: readonly Value[] = [
     slug: "page-type",
     extendsSlug: ["page-type/page"],
     properties: [
-      { pagePropertySlug: "extends-slug", required: false, many: true, max: null },
+      { pagePropertySlug: "extends-slug", required: false, many: true, maxCount: null },
       { pagePropertySlug: "page-type-slug", required: false, many: false },
-      { pagePropertySlug: "properties", required: false, many: true, max: null },
+      { pagePropertySlug: "properties", required: false, many: true, maxCount: null },
     ],
   },
   {
@@ -135,7 +135,7 @@ const PROPERTIES: Record<string, Value> = {
     pageTypeSlug: "text-property",
     slug: "id",
     propertySlug: "id",
-    max: 36,
+    maxLength: 36,
     unique: "always",
   },
   slug: {
@@ -143,7 +143,7 @@ const PROPERTIES: Record<string, Value> = {
     pageTypeSlug: "text-property",
     slug: "slug",
     propertySlug: "slug",
-    max: 8,
+    maxLength: 8,
     nameFormatSlug: FORMAT,
     unique: "page-type",
   },
@@ -152,21 +152,21 @@ const PROPERTIES: Record<string, Value> = {
     pageTypeSlug: "text-property",
     slug: "test",
     propertySlug: "test",
-    max: 4,
+    maxLength: 4,
   },
   aids: {
     id: "01a0540d-0000-7000-8000-00000000000c",
     pageTypeSlug: "text-property",
     slug: "aids",
     propertySlug: "aids",
-    max: 5,
+    maxLength: 5,
   },
   name: {
     id: "01a0540d-0000-7000-8000-00000000000d",
     pageTypeSlug: "text-property",
     slug: "name",
     propertySlug: "name",
-    max: 8,
+    maxLength: 8,
     nameFormatSlug: FORMAT,
   },
   tag: {
@@ -174,14 +174,14 @@ const PROPERTIES: Record<string, Value> = {
     pageTypeSlug: "text-property",
     slug: "tag",
     propertySlug: "tag",
-    max: 4,
+    maxLength: 4,
   },
   tally: {
     id: "01a0540d-0000-7000-8000-000000000016",
     pageTypeSlug: "worded-property",
     slug: "tally",
     propertySlug: "tally",
-    max: 4,
+    maxLength: 4,
   },
   "extends-slug": {
     id: "01a0540d-0000-7000-8000-000000000019",
@@ -207,18 +207,18 @@ const PROPERTIES: Record<string, Value> = {
     slug: "many",
     propertySlug: "many",
   },
-  max: {
+  "max-count": {
     id: "01a0540d-0000-7000-8000-00000000001d",
     pageTypeSlug: "number-property",
-    slug: "max",
-    propertySlug: "max",
+    slug: "max-count",
+    propertySlug: "maxCount",
     max: null,
   },
-  total: {
+  "max-length": {
     id: "01a0540d-0000-7000-8000-00000000001e",
     pageTypeSlug: "number-property",
-    slug: "total",
-    propertySlug: "total",
+    slug: "max-length",
+    propertySlug: "maxLength",
     max: null,
   },
   properties: {
@@ -230,8 +230,8 @@ const PROPERTIES: Record<string, Value> = {
       { pagePropertySlug: "page-property-slug", required: true, many: false },
       { pagePropertySlug: "required", required: false, many: false },
       { pagePropertySlug: "many", required: false, many: false },
-      { pagePropertySlug: "max", required: false, many: false },
-      { pagePropertySlug: "total", required: false, many: false },
+      { pagePropertySlug: "max-count", required: false, many: false },
+      { pagePropertySlug: "max-length", required: false, many: false },
     ],
   },
   "page-type-slug": {
@@ -247,7 +247,7 @@ const PROPERTIES: Record<string, Value> = {
     propertySlug: "directives",
     properties: [
       { pagePropertySlug: "name", required: true, many: false },
-      { pagePropertySlug: "aids", required: false, many: true, max: 3, total: 6 },
+      { pagePropertySlug: "aids", required: false, many: true, maxCount: 3, maxLength: 4 },
       { pagePropertySlug: "text-property/tag", required: false, many: false },
     ],
   },
@@ -371,8 +371,8 @@ function grounding(root: string): undefined {
   listedFiled(root, "page-type", "page", [{ path: pageAt, id: ROOT_ID }])
   const typeAt = "akasha/page-type.page-type.ts"
   const declares =
-    '{ pagePropertySlug: "extends-slug", many: true, max: null }, { pagePropertySlug: "page-type-slug" }' +
-    ', { pagePropertySlug: "properties", many: true, max: null }'
+    '{ pagePropertySlug: "extends-slug", many: true, maxCount: null }, { pagePropertySlug: "page-type-slug" }' +
+    ', { pagePropertySlug: "properties", many: true, maxCount: null }'
   put(root, typeAt, typing(PAGE_TYPE_ID, "page-type", '["page-type/page"]', declares))
   listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
   schemaFiledFor(root, "relation-property", "extends-slug")

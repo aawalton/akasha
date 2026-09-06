@@ -130,17 +130,17 @@ test("a restatement turning a property from one to many is refused", () => {
   expect(said[0]?.reason).toContain("`many` turns from `false` to `true`")
 })
 
-test("a restatement raising a max is refused", () => {
+test("a restatement raising a max count is refused", () => {
   const root = rooted()
   const said = restating(
     root,
     judged,
-    { required: true, many: true, max: 5 },
-    { required: true, many: true, max: 20 }
+    { required: true, many: true, maxCount: 5 },
+    { required: true, many: true, maxCount: 20 }
   )
 
   expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("`max` rises from `5` to `20`")
+  expect(said[0]?.reason).toContain("`max-count` rises from `5` to `20`")
 })
 
 test("a restatement letting a bounded property go unbounded is refused", () => {
@@ -148,21 +148,21 @@ test("a restatement letting a bounded property go unbounded is refused", () => {
   const said = restating(
     root,
     judged,
-    { required: true, many: true, max: 5 },
-    { required: true, many: true, max: null }
+    { required: true, many: true, maxCount: 5 },
+    { required: true, many: true, maxCount: null }
   )
 
   expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("`max` rises from `5` to `none`")
+  expect(said[0]?.reason).toContain("`max-count` rises from `5` to `none`")
 })
 
-test("a restatement lowering a max is let through", () => {
+test("a restatement lowering a max count is let through", () => {
   const root = rooted()
   const said = restating(
     root,
     judged,
-    { required: true, many: true, max: 20 },
-    { required: true, many: true, max: 5 }
+    { required: true, many: true, maxCount: 20 },
+    { required: true, many: true, maxCount: 5 }
   )
 
   expect(said).toEqual([])

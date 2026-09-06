@@ -102,13 +102,13 @@ test("a restatement binding a max that stood unbounded is let through", () => {
   expect(said).toEqual([])
 })
 
-test("a restatement lowering a total is let through", () => {
+test("a restatement lowering a length is let through", () => {
   const root = rooted()
   const said = restating(
     root,
     judged,
-    { required: true, many: true, max: null, total: 100 },
-    { required: true, many: true, max: null, total: 50 }
+    { required: true, many: true, maxCount: null, maxLength: 100 },
+    { required: true, many: true, maxCount: null, maxLength: 50 }
   )
 
   expect(said).toEqual([])
@@ -174,13 +174,13 @@ test("a restatement turning a property from one to many is left to the check ref
   expect(said).toEqual([])
 })
 
-test("a restatement raising a total alone is refused for narrowing nothing", () => {
+test("a restatement raising a length alone is refused for narrowing nothing", () => {
   const root = rooted()
   const said = restating(
     root,
     judged,
-    { required: true, many: true, max: null, total: 50 },
-    { required: true, many: true, max: null, total: 100 }
+    { required: true, many: true, maxCount: null, maxLength: 50 },
+    { required: true, many: true, maxCount: null, maxLength: 100 }
   )
 
   expect(said).toHaveLength(1)
