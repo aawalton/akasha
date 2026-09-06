@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.ts b/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.ts
+index 0910f59009cd4a3e9ef3dbaf7e71f255d1109862..96022d23004a849609bbca8f4f607368126c8b73 100644
+--- a/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.ts
++++ b/checks/code-checks/pages/no-code-comments/no-code-comments.code-check.ts
+@@ -7,7 +7,7 @@ export const noCodeComments = {
+   definition: "the check refusing a comment that is none of the code comment forms",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
