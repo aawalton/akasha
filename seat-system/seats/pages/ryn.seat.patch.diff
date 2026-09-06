@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.ts b/seat-system/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.ts
-index 7373b0b1803523b4e0eec44fcf9ed2449fed15c4..2ad9289db0a1dc6ece2a93615b06260381d28a34 100644
+index 7373b0b1803523b4e0eec44fcf9ed2449fed15c4..b77c56d9b7203e69420b45524ba86f9968a3c235 100644
 --- a/seat-system/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.ts
 +++ b/seat-system/supervisor-lifecycle-death-write/supervisor-lifecycle-death-write.module.ts
 @@ -10,8 +10,11 @@ export const supervisorLifecycleDeathWrite = {
@@ -16,3 +16,16 @@ index 7373b0b1803523b4e0eec44fcf9ed2449fed15c4..2ad9289db0a1dc6ece2a93615b062603
      },
      {
        invariantKind: "departure",
+@@ -19,7 +22,11 @@ export const supervisorLifecycleDeathWrite = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here writes anything; only the writing is decided.",
++      statement: "Nothing here writes anything.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Only the writing is decided.",
+     },
+   ],
+ } as const satisfies Module
