@@ -11,7 +11,7 @@ export const supervisorLimitResumeEffects = {
     {
       invariantKind: "departure",
       statement:
-        "A rate limit is read from the last assistant line of a transcript, not from any line.",
+        "A rate limit is read from the last assistant line of a transcript rather than from any line.",
     },
     {
       invariantKind: "departure",
@@ -31,12 +31,15 @@ export const supervisorLimitResumeEffects = {
     },
     {
       invariantKind: "departure",
-      statement: "The decide module is imported from beside this one and its function called.",
+      statement: "The decide module is imported from beside this module and its function called.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A decide that throws is at fault, and the fault carries that decide's own message.",
+      statement: "A decide that throws is at fault.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The fault carries that decide's own message.",
     },
   ],
 } as const satisfies Module
