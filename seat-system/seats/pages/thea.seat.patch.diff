@@ -40,6 +40,34 @@ index 7c718de6eb8aa6fb2a40c60048657157b149e575..6db33b0eedc2d0636523574c09b3c0f7
  
  const FILE_PROPERTIES = new Set<string>(["code", "test"])
  
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
+index 39dc2f31dd67ccec7fe35ef5b97bb508984a7381..0c78a39701cb09638480a3d9a965e353cd8f9504 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.test.ts
+@@ -8,18 +8,20 @@ import { onDisk } from "../../../modules/change-walking/change-walking.module.co
+ import { carrying, declaring } from "../../../modules/check-scratch/check-scratch.module.code.ts"
+ import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+ import {
+-  ancestorsOf,
+   edgesOf,
+   folderMatchesAShape,
+-  folderOf,
+   foldersTouchedBy,
+   type Holds,
+   heldFolder,
+   namesFiling,
+   namingFolderOf,
+   pageNameOf,
+-  reachedFolders,
+ } from "./folder-matches-a-shape.code-check.code.ts"
++import {
++  ancestorsOf,
++  folderOf,
++  reachedFolders,
++} from "./modules/folder-grouping/folder-grouping.module.code.ts"
+ 
+ const scratch = scratchWorld()
+ 
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
 index d30974c4b99ed1f105833d9a9c88e66f8fccc8de..c6f66081af02cc52441f197a9e60813c81222efc 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
