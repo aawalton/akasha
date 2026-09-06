@@ -9,7 +9,7 @@ export const catalogInvalidations = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A request no newer than the last one seen changes nothing.",
+      statement: "A request no newer than the last request seen changes nothing.",
     },
     {
       invariantKind: "departure",
