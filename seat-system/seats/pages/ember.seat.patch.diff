@@ -102,6 +102,18 @@ index 9e01c82c41ca25045781d5e6dce30b2d30e0a311..3af0fca916e371ca6398f3bc9e68306e
    esoCharacterId: string
    title?: string | null | undefined
    completion?: CharacterCompletion | null | undefined
+diff --git a/temper/temper-player-completion/completion-companion-row/completion-companion-row.module.code.ts b/temper/temper-player-completion/completion-companion-row/completion-companion-row.module.code.ts
+index 70ff11f7d4d2167f1ba1e3b67fa6351f61490e63..777c3b0159ac1f5bcee7dd72c80ebc8823c9cce7 100644
+--- a/temper/temper-player-completion/completion-companion-row/completion-companion-row.module.code.ts
++++ b/temper/temper-player-completion/completion-companion-row/completion-companion-row.module.code.ts
+@@ -2,7 +2,6 @@ import type { CompanionCompletion } from "@akasha/temper-completion/completion-p
+ 
+ export interface CompletionCompanionRow {
+   id: string
+-  userId: string
+   accountPage: string | null
+   companionId: string
+   completion: CompanionCompletion | null
 diff --git a/temper/temper-player-completion/completion-summaries/completion-summaries.module.test.ts b/temper/temper-player-completion/completion-summaries/completion-summaries.module.test.ts
 index 0d3c8a5d46f9a6d808b10e116a232245c5286639..c0f7938273796be6c2e62547f9106bd6a58b8915 100644
 --- a/temper/temper-player-completion/completion-summaries/completion-summaries.module.test.ts
