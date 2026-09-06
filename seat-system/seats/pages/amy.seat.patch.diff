@@ -152,3 +152,15 @@ index a39def7705da377aaa5f35a7f364beb510eccca6..abefc6d4785af122333b939ce0a084d9
 +  pageType: "proof",
    viewPlace: 1,
  } as const satisfies View
+diff --git a/pages/views/pages/math-propositions.view.ts b/pages/views/pages/math-propositions.view.ts
+index b8c505abc9d994a62e77599b23767282a05300a8..3ed16d0974b8a0469dc6fb00b3ef1d60717e40e1 100644
+--- a/pages/views/pages/math-propositions.view.ts
++++ b/pages/views/pages/math-propositions.view.ts
+@@ -6,6 +6,7 @@ export const mathPropositions = {
+   slug: "math-propositions",
+   title: "Propositions",
+   navSlug: "math",
++  pageType: "proposition",
+   viewPlace: 0,
+   layout: "cards",
+   pageSize: 12,
