@@ -27,6 +27,48 @@ index db3b648b8c55b48e77546ce0bef107519fe7a68d..627850c09a43a6d9c6b9e9035eb69ef8
        if (wrong !== null) return refusedFor(slug, wrong)
      }
      const at = instantOf(credential.accessTokenExpiresAtMs)
+diff --git a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test-fixtures.ts b/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test-fixtures.ts
+index d80c9bae978a9283555c2c69155302bd40c6753b..717dd66c0b579e975a8b264263bfeb302f78e3a6 100644
+--- a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test-fixtures.ts
++++ b/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test-fixtures.ts
+@@ -3,14 +3,21 @@ import { join } from "node:path"
+ import type { Answer } from "@akasha/command-system/calling"
+ import type { FileEdit } from "@akasha/command-system/landing"
+ import { scratchWorld } from "@akasha/command-system/scratching"
++import { readingIn } from "@akasha/indexes"
+ import { secretAt } from "@akasha/pages/page-file-name"
+ import { z } from "zod"
+ import {
+   ACCOUNT_DECLARED,
++  bodiesIn,
+   type Declared,
+   worldIn,
+ } from "../marking/claude-account-marking.module.test-fixtures.ts"
+-import type { Credential, Doors, Push } from "./claude-account-credential-push.module.code.ts"
++import {
++  type Credential,
++  type Doors,
++  type Push,
++  pushedIn,
++} from "./claude-account-credential-push.module.code.ts"
+ 
+ export const ACCESS_KEY = "access-token"
+ 
+@@ -55,6 +62,14 @@ export function credentialOf(slug: string, said: Partial<Credential> = {}): Cred
+   }
+ }
+ 
++export const NOWHERE = "/var/tmp/credential-push-no-such-root"
++
++export const FAILED: readonly string[] = ["[gate] fail: the landing said no"]
++
++export async function pushed(root: string, credential: Credential, doors: Doors): Promise<Push> {
++  return await pushedIn(root, credential, doors, readingIn(root), bodiesIn(root))
++}
++
+ export type Sops = {
+   readonly doors: Doors
+   readonly held: Map<string, string>
 diff --git a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test.ts b/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test.ts
 index a1fc1ec8fcea3357bb25217ad7ad40b4dcde1471..62786275a5cad4e1c2cd4598993dca70e9d782d6 100644
 --- a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test.ts
