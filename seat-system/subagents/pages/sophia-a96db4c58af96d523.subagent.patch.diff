@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.ts b/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.ts
-index d160fc69503a3db0bba483d77fa7d4f9d79ccf3a..da1b07d1fdd95986ae98b03f9cb3876f67863ecd 100644
+index d160fc69503a3db0bba483d77fa7d4f9d79ccf3a..62f0addfd50d62cb2374fd0cfe6c1cd528a49642 100644
 --- a/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.ts
 +++ b/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.ts
 @@ -25,10 +25,6 @@ export const identifierMatchesItsPlace = {
@@ -13,3 +13,12 @@ index d160fc69503a3db0bba483d77fa7d4f9d79ccf3a..da1b07d1fdd95986ae98b03f9cb3876f
      {
        invariantKind: "absence",
        statement: "A name a declaration file states is passed over.",
+@@ -118,7 +114,7 @@ export const identifierMatchesItsPlace = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The name passed over is the one the file's stem makes.",
++      statement: "The name passed over is the name the file's stem makes.",
+     },
+     {
+       invariantKind: "departure",
