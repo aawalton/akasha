@@ -1,5 +1,5 @@
 diff --git a/alan/harness/surplus/reading/surplus-reading.module.ts b/alan/harness/surplus/reading/surplus-reading.module.ts
-index 0966f1b6edd9c56fe11a783cbd93e0d0bfc614c0..31319d726c3eb23e7ef894626a543228450cdb7c 100644
+index 0966f1b6edd9c56fe11a783cbd93e0d0bfc614c0..7ad8589c4c535d4d71d7cf57f97dbc981c66d4b7 100644
 --- a/alan/harness/surplus/reading/surplus-reading.module.ts
 +++ b/alan/harness/surplus/reading/surplus-reading.module.ts
 @@ -49,7 +49,8 @@ export const surplusReading = {
@@ -12,3 +12,12 @@ index 0966f1b6edd9c56fe11a783cbd93e0d0bfc614c0..31319d726c3eb23e7ef894626a543228
      },
      {
        invariantKind: "stopgap",
+@@ -65,7 +66,7 @@ export const surplusReading = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Importing this file takes none.",
++      statement: "Importing this file takes no reading.",
+     },
+     {
+       invariantKind: "absence",
