@@ -212,3 +212,15 @@ index b298bdd55dd7b44617efa09cf5ca4db2e394c22f..af415ff242b5b18c356188bced19685d
    viewPlace: 0,
    layout: "notes",
    narrows: [{ key: "alan-notes", comparison: "empty", values: ["false"] }],
+diff --git a/pages/views/pages/personas-notes.view.ts b/pages/views/pages/personas-notes.view.ts
+index 129cb629af722d1f4b9e996126a8a618844d0dcb..8105f58c18e36f517ee2199c372a36d8cfb224e0 100644
+--- a/pages/views/pages/personas-notes.view.ts
++++ b/pages/views/pages/personas-notes.view.ts
+@@ -6,6 +6,7 @@ export const personasNotes = {
+   slug: "personas-notes",
+   title: "Notes",
+   navSlug: "personas",
++  pageType: "persona",
+   viewPlace: 1,
+   layout: "notes",
+   viewSorts: [{ key: "title", descending: false }],
