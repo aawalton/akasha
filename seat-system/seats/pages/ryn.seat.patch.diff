@@ -1,0 +1,18 @@
+diff --git a/seat-system/seat-relaunch-target/seat-relaunch-target.module.ts b/seat-system/seat-relaunch-target/seat-relaunch-target.module.ts
+index b42c983c372de66f65c38bbaa6bfa0ab7c4ba9ae..ed7df52e0008952a960d2271f9cb0c1c47a1a49d 100644
+--- a/seat-system/seat-relaunch-target/seat-relaunch-target.module.ts
++++ b/seat-system/seat-relaunch-target/seat-relaunch-target.module.ts
+@@ -9,8 +9,11 @@ export const seatRelaunchTarget = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A seat's page is read before its history, the history answering only where no page stands.",
++      statement: "A seat's page is read before its history.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The history answers only where no page stands.",
+     },
+     {
+       invariantKind: "departure",
