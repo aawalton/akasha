@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/agents/models/gateway/modules/forward/forward.module.ts b/agents/models/gateway/modules/forward/forward.module.ts
+index a2386896e225fafb9780770cf56180e126e52b2f..dc989fb45825d9f12c70c8238a31f9d1574a4d2b 100644
+--- a/agents/models/gateway/modules/forward/forward.module.ts
++++ b/agents/models/gateway/modules/forward/forward.module.ts
+@@ -56,7 +56,7 @@ export const forward = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An idle span of zero or less leaves a request unguarded.",
++      statement: "An idle span at zero or below leaves a request unguarded.",
+     },
+     {
+       invariantKind: "departure",
