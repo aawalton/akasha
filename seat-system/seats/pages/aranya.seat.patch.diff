@@ -230,3 +230,17 @@ index 0000000000000000000000000000000000000000..ef0ba7f02c5303e9a282017ec6b8f1e0
 +  slug: "collections-secrets-service-role-key",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "SERVICE_ROLE_KEY" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-spotify-client-id.secret.ts b/service-system/secrets/pages/collections-secrets-spotify-client-id.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..eda1cf723ffcdd7b337b7ad42433c944edb984fe
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-spotify-client-id.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsSpotifyClientId = {
++  id: "01a076b7-c85f-7513-97c6-8b551e181823",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-spotify-client-id",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "SPOTIFY_CLIENT_ID" }],
++} as const satisfies Secret
