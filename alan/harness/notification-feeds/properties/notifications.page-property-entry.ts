@@ -25,7 +25,11 @@ export const notifications = {
     },
     {
       invariantKind: "departure",
-      statement: "Notifications sit in the order those notifications were pushed, oldest first.",
+      statement: "Notifications sit in the order those notifications were pushed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The oldest notification sits first.",
     },
     {
       invariantKind: "absence",
