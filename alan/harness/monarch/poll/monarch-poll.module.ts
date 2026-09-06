@@ -25,7 +25,7 @@ export const monarchPoll = {
     },
     {
       invariantKind: "departure",
-      statement: "Rows are refetched in batches rather than all at once.",
+      statement: "Rows are refetched in batches rather than every row at once.",
     },
     {
       invariantKind: "departure",
@@ -42,8 +42,7 @@ export const monarchPoll = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A row Monarch no longer lists is retired, judged against the window that was fetched.",
+      statement: "A row Monarch no longer lists inside the window fetched is retired.",
     },
     {
       invariantKind: "departure",
