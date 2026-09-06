@@ -118,3 +118,17 @@ index 0000000000000000000000000000000000000000..f7c65f291ab3d66c8309926441539e72
 +  slug: "collections-secrets-port",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "PORT" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-postgres-password.secret.ts b/service-system/secrets/pages/collections-secrets-postgres-password.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..15555443f9834645fd6f33efec5a4f9698de0010
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-postgres-password.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsPostgresPassword = {
++  id: "01a076b7-34fc-77d6-a963-edebe3a2e1c1",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-postgres-password",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "POSTGRES_PASSWORD" }],
++} as const satisfies Secret
