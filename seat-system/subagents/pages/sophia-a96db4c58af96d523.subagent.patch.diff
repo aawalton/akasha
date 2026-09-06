@@ -1,0 +1,15 @@
+diff --git a/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.ts b/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.ts
+index d160fc69503a3db0bba483d77fa7d4f9d79ccf3a..da1b07d1fdd95986ae98b03f9cb3876f67863ecd 100644
+--- a/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.ts
++++ b/checks/code-checks/pages/identifier-matches-its-place/identifier-matches-its-place.code-check.ts
+@@ -25,10 +25,6 @@ export const identifierMatchesItsPlace = {
+       invariantKind: "departure",
+       statement: "Only a declaration is judged.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "A name outside akasha is passed over.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "A name a declaration file states is passed over.",
