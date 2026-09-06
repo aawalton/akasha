@@ -51,7 +51,6 @@ export const readout = {
   definition: "one reading a person is shown",
   pluralSlug: "readouts",
   partSlugs: [
-    "boolean-property/figure-off-scale",
     "boolean-property/readout-enabled",
     "instant-property/last-value-at",
     "number-property/last-value",
