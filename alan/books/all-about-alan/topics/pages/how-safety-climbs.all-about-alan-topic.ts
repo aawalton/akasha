@@ -10,6 +10,4 @@ export const howSafetyClimbs = {
   relatedSlugs: ["what-calms-me-down"],
   settled:
     "It climbs the slow way through capacity I build back and the fast way straight at the nerve.\n\nHolding my line stops the drain but does not by itself raise it.",
-  unsettled:
-    "The three levers run at different speeds, slow surplus against faster repair with Jen against a daily health shock, but the durations are not pinned.\n\nThe share of each recovery practice running through the direct nerve route rather than through rebuilt capacity is not separated out.\n\nAnd which lever lifts the centre rather than only the day's reading is undecomposed.\n\nI said a sleep cycle is worth about a level, and the record puts sleep in the slow route only. Which holds is unsettled.",
 } as const satisfies AllAboutAlanTopic
