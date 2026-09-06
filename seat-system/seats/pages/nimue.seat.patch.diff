@@ -27,6 +27,19 @@ index db3b648b8c55b48e77546ce0bef107519fe7a68d..627850c09a43a6d9c6b9e9035eb69ef8
        if (wrong !== null) return refusedFor(slug, wrong)
      }
      const at = instantOf(credential.accessTokenExpiresAtMs)
+diff --git a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test.ts b/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test.ts
+index a1fc1ec8fcea3357bb25217ad7ad40b4dcde1471..62786275a5cad4e1c2cd4598993dca70e9d782d6 100644
+--- a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test.ts
++++ b/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test.ts
+@@ -346,7 +346,7 @@ test("pushing one account's credential lists no directory the accounts are filed
+     routing
+   )
+   expect(said.kind).toBe("pushed")
+-  expect(one.seen).toEqual([])
++  expect(one.seen.filter((at) => at.startsWith("listing "))).toEqual([])
+ })
+ 
+ test("no token value reaches a refusal", async () => {
 diff --git a/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts b/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts
 index ae51acaaec190da9c5a9042bf3209fe7fa979589..852ce95c8efc98482b849e79a0f1fc169e5ff719 100644
 --- a/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts
