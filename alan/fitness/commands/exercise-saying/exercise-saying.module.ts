@@ -21,15 +21,15 @@ export const exerciseSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag that may repeat holds every value said, in the order said.",
+      statement: "A flag that may repeat holds every value said in the order said.",
     },
     {
       invariantKind: "departure",
-      statement: "Every refusal a call earns is gathered before any of those refusals is answered.",
+      statement: "Every refusal a call earns is gathered before the refusals are answered.",
     },
     {
       invariantKind: "departure",
-      statement: "A day is read as four digits, two digits and two digits, parted by dashes.",
+      statement: "A day is read as four digits and two digits and two digits parted by dashes.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +37,7 @@ export const exerciseSaying = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a page or writes one.",
+      statement: "Nothing here reads a page or writes a page.",
     },
   ],
 } as const satisfies Module
