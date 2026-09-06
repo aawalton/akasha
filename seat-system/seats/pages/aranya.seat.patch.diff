@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/dev-server/dev-server.command.code.ts b/command-system/commands/dev-server/dev-server.command.code.ts
-index 54cc145c4b9a725312a410cfa4c59f6532c304d8..4b8e95c6dae628e7043d2da5a8db72f7e2b5859f 100644
+index 54cc145c4b9a725312a410cfa4c59f6532c304d8..ad32c5c72b06ee9bfc172bf7820d357354b932be 100644
 --- a/command-system/commands/dev-server/dev-server.command.code.ts
 +++ b/command-system/commands/dev-server/dev-server.command.code.ts
 @@ -3,7 +3,7 @@ import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
@@ -20,6 +20,17 @@ index 54cc145c4b9a725312a410cfa4c59f6532c304d8..4b8e95c6dae628e7043d2da5a8db72f7
    const report = read.json
      ? [JSON.stringify({ ok: true, path: written.path, var_count: written.varCount })]
      : [`wrote ${written.path} (${written.varCount} vars)`]
+@@ -259,8 +259,8 @@ async function starting(read: {
+   }
+ 
+   const envLocalPath = await resolveEnvLocalPath(worktreePath, read.app)
+-  if (!existsSync(envLocalPath) && existsSync(`${cwd}/deploy/secrets.sops.yaml`)) {
+-    const written = await writeEnvLocalFromSops({ worktreePath, appName: read.app })
++  if (!existsSync(envLocalPath)) {
++    const written = await writeEnvLocalFromPages({ worktreePath, appName: read.app })
+     report.push(`auto-bootstrapped ${written.path} (${written.varCount} vars)`)
+   }
+   const envLocalVars = existsSync(envLocalPath) ? readEnvLocal(envLocalPath) : {}
 diff --git a/service-system/secrets/secret-saying/secret-saying.module.code.ts b/service-system/secrets/secret-saying/secret-saying.module.code.ts
 index 057008123102c4439afe4a227bcb7a404a936ee3..8269b2e6b3fd345c76920e2af42c715fd74a4014 100644
 --- a/service-system/secrets/secret-saying/secret-saying.module.code.ts
