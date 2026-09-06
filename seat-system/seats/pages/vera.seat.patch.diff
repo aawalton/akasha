@@ -1,0 +1,61 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.code.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.code.ts
+index 771b5d901d5cfbf69fe53a9994315393c6419dae..89f395ecca188f50c8051d65f2b900b7cbdde30d 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.code.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.code.ts
+@@ -6,6 +6,7 @@ import { edgesIn } from "@akasha/indexes/import"
+ import { reachingIn } from "@akasha/indexes/package-reaching"
+ import type { Known } from "@akasha/indexes/reaching"
+ import type { Change } from "@akasha/pages/change"
++import { slugIn } from "@akasha/pages/page-address"
+ import { type Held, heldIn, partedIn } from "@akasha/pages/page-file-name"
+ import { textAt, textsAt } from "@akasha/pages/page-value"
+ import type { Shadow } from "@akasha/pages/shadow"
+@@ -30,6 +31,10 @@ const PACKAGE = "workspace-package"
+ 
+ const RECORD_PROPERTY = "record-property"
+ 
++const ONE_OF_PROPERTY = "one-of-property"
++
++const MEMBER_SLUGS = "memberSlugs"
++
+ const PROPERTIES = "properties"
+ 
+ const MODULES = "modules"
+@@ -192,12 +197,25 @@ export function pageTypesAt(grouped: Grouped, folder: string): readonly string[]
+   return found
+ }
+ 
+-export function fieldsIn(index: Answering, grouped: Grouped, folder: string): readonly string[] {
++export function declaredBesideIn(
++  index: Answering,
++  grouped: Grouped,
++  folder: string
++): readonly string[] {
+   const found: string[] = []
+   for (const one of grouped.at(`${folder}/${PROPERTIES}`)) {
+     const said = partedIn(one)
+-    if (said === null || said.sections.length > 0) continue
+-    if (said.held !== TS || said.pageType !== RECORD_PROPERTY) continue
++    if (said === null || said.sections.length > 0 || said.held !== TS) continue
++    if (said.pageType === ONE_OF_PROPERTY) {
++      const held = index.pageAt(ONE_OF_PROPERTY, said.slug)
++      if (held === null) continue
++      for (const member of textsAt(held, MEMBER_SLUGS) ?? []) {
++        const bare = slugIn(member)
++        if (bare !== null) found.push(bare)
++      }
++      continue
++    }
++    if (said.pageType !== RECORD_PROPERTY) continue
+     const value = index.pageAt(RECORD_PROPERTY, said.slug)
+     if (value === null) continue
+     for (const carried of index.carriedIn(value, said.slug)) found.push(carried.pagePropertySlug)
+@@ -222,7 +240,7 @@ export function declaringOver(
+       made = {
+         slug,
+         pluralSlug: value === null ? null : textAt(value, PLURAL_SLUG),
+-        propertySlugs: new Set<string>([...declared, ...fieldsIn(index, grouped, folder)]),
++        propertySlugs: new Set<string>([...declared, ...declaredBesideIn(index, grouped, folder)]),
+       }
+     }
+     held.set(folder, made)
