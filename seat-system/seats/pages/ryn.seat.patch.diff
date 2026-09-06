@@ -1,5 +1,5 @@
 diff --git a/editor-extension/transcript-view/transcript-view.module.ts b/editor-extension/transcript-view/transcript-view.module.ts
-index ab1ed4ecfd5d386ef13047eea70927548411a470..863d76865d56a76d3dd6df1a73e9ebb07753f550 100644
+index ab1ed4ecfd5d386ef13047eea70927548411a470..a4217789f78d2778b8a729ccaf11b28ba6d7bf62 100644
 --- a/editor-extension/transcript-view/transcript-view.module.ts
 +++ b/editor-extension/transcript-view/transcript-view.module.ts
 @@ -45,7 +45,7 @@ export const transcriptView = {
@@ -17,6 +17,15 @@ index ab1ed4ecfd5d386ef13047eea70927548411a470..863d76865d56a76d3dd6df1a73e9ebb0
        statement:
 -        "Where the transcript is, is asked for once and then only where it can have moved.",
 +        "The transcript's place is asked for once and then only where that place can have moved.",
+     },
+     {
+       invariantKind: "departure",
+@@ -78,7 +78,7 @@ export const transcriptView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A folder that is not there yet is watched once the next read finds it.",
++      statement: "A folder that is not there yet is watched once the next read finds that folder.",
      },
      {
        invariantKind: "departure",
