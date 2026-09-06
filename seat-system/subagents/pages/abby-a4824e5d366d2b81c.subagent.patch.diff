@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-let-my-last-lift-reach-whole-world-scale.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-let-my-last-lift-reach-whole-world-scale.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f7c517371ec7fadd1c4f3700beb14f640b09a5fe
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-let-my-last-lift-reach-whole-world-scale.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatLetMyLastLiftReachWholeWorldScale = {
++  id: "01a077e4-c6cf-7a51-93a7-765f7d2d721a",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-let-my-last-lift-reach-whole-world-scale",
++  topicSlug: "why-climbing-sets-off-the-fall",
++  ask: "What let my last lift run all the way to whole-world scale, rather than stopping at a smaller uncovered case?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-numbers-tell-a-governed-climb.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-numbers-tell-a-governed-climb.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2c761df0737d73dacade6dedf6ab295ac80ffa01
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-numbers-tell-a-governed-climb.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatNumbersTellAGovernedClimb = {
++  id: "01a077e4-c6d0-75c6-a889-a3fff7d5545b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-numbers-tell-a-governed-climb",
++  topicSlug: "why-climbing-sets-off-the-fall",
++  ask: "What tells a governed climb from an ungoverned one in numbers, as a dose curve and a duration?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-my-coverage-runs-out-at-five-and-six.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-my-coverage-runs-out-at-five-and-six.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7824a351c55a7f4523a8be2919ad17d8f3970ef8
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-my-coverage-runs-out-at-five-and-six.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereMyCoverageRunsOutAtFiveAndSix = {
++  id: "01a077e4-c6d0-7ad9-903e-d32aedd7f20a",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-my-coverage-runs-out-at-five-and-six",
++  topicSlug: "why-climbing-sets-off-the-fall",
++  ask: "Where does my coverage run out at five and six, when the only two sixes I have are singing in front of people?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/why-climbing-sets-off-the-fall.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/why-climbing-sets-off-the-fall.all-about-alan-topic.ts
+index f4e818d5e6d2539fbdf47407a8050c16b0fad2f5..86884f5a77cf7ca840cd502292bf094bdf6d3475 100644
+--- a/alan/books/all-about-alan/topics/pages/why-climbing-sets-off-the-fall.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/why-climbing-sets-off-the-fall.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whyClimbingSetsOffTheFall = {
+   relatedSlugs: ["waiting-until-i-can-afford-people", "where-safety-has-got-to"],
+   settled:
+     "Higher means safer, safer means more, and more runs into cases I was not guarding against.\n\nThe guards were built at a level where I was not doing these things, so activity outruns coverage as a matter of course.\n\nThe ceiling is the mines rather than the altitude, and getting close is when they go off.\n\nNothing in me pre-feels the fall, so the brake has to be an outside gauge rather than dread.\n\nWhat separates this climb from the last is not the height but whether it is dosed and aimed.",
+-  unsettled:
+-    "What let the last lift run to whole-world scale, rather than stopping at a smaller uncovered case, is undug.\n\nWhere the coverage runs out at five and six is unnamed, and the only two sixes I have are singing in front of people.\n\nWhat tells a governed climb from an ungoverned one in numbers, a dose curve and a duration, does not exist yet.",
+ } as const satisfies AllAboutAlanTopic
