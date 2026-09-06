@@ -1,0 +1,12 @@
+diff --git a/pages/secret/page-secret.module.code.ts b/pages/secret/page-secret.module.code.ts
+index 492db9eb9807aa1f1eb2ebc1080571be48963968..60e9128049a8808c8623828e95ffebdb005b9862 100644
+--- a/pages/secret/page-secret.module.code.ts
++++ b/pages/secret/page-secret.module.code.ts
+@@ -45,7 +45,6 @@ export function yamlOf(values: Secrets): string {
+ export function unfit(key: string, value: string): string | null {
+   if (value === "")
+     return `\`${key}\` arrived empty, and an empty secret would represent a usable one`
+-  if (value.includes("\n")) return `\`${key}\` holds a newline, and a secret's value is one line`
+   return null
+ }
+ 
