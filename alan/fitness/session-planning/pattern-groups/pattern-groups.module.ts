@@ -22,7 +22,7 @@ export const patternGroups = {
     {
       invariantKind: "absence",
       statement:
-        "A pattern belongs to no region unless that pattern trains that region and no other.",
+        "A pattern belongs to no region unless that pattern trains that region and no other region.",
     },
   ],
 } as const satisfies Module
