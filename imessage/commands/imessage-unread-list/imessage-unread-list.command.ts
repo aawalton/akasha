@@ -30,7 +30,7 @@ export const imessageUnreadList = {
     },
     {
       invariantKind: "departure",
-      statement: "Saying no limit answers every unread message rather than a first few.",
+      statement: "Saying no limit answers every unread message rather than a capped list.",
     },
     {
       invariantKind: "departure",
