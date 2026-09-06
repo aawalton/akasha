@@ -1,0 +1,14 @@
+diff --git a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
+index d637d9be9f66b0a14f75bb0cfcc146608b1e9789..9fdf1acbf098cac0c071572ad044c490f573579c 100644
+--- a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
+@@ -10,7 +10,8 @@ export const renamePropertySignature = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A property is named by the type declaring it rather than by its own name alone.",
++      statement:
++        "A property is named by the type declaring that property rather than by its own name alone.",
+     },
+     {
+       invariantKind: "departure",
