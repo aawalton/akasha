@@ -85,6 +85,41 @@ index 12ee87c54a930a50ed86d0bffa10df3c08925f34..7c1a63f52b7ec312257f843afdb9599a
  // HOW A SEAT STARTED AND HOW IT WAS LAUNCHED ARE THE SAME FACT UNDER TWO VOCABULARIES. The mode is
  // what a seat states of itself; the launch is what the environment tells the agent inside it. These
  // two carry one to the other so that neither vocabulary has to know the other's spellings.
+diff --git a/seat-system/seat-modes/seat-modes.module.test.ts b/seat-system/seat-modes/seat-modes.module.test.ts
+index c1885e71d6e2233160386fd0cd28f2ab8bd09f99..318b48aab7dab9a1bcc5d257970d056b9ac06a9d 100644
+--- a/seat-system/seat-modes/seat-modes.module.test.ts
++++ b/seat-system/seat-modes/seat-modes.module.test.ts
+@@ -1,7 +1,9 @@
+ import { expect, test } from "bun:test"
+ import {
++  HEADLESS_FLAG,
+   isSeatMode,
+   rowLaunchOf,
++  runningModeIn,
+   SEAT_MODE_HEADLESS,
+   SEAT_MODE_INTERACTIVE,
+   SEAT_MODES,
+@@ -39,3 +41,20 @@ test("a launch naming neither answers no mode", () => {
+   expect(startModeOfRowLaunch("")).toBeNull()
+   expect(startModeOfRowLaunch("headless")).toBeNull()
+ })
++
++test("a command line carrying the flag is running headless", () => {
++  expect(runningModeIn([HEADLESS_FLAG, "-a", "aawalton"])).toBe(SEAT_MODE_HEADLESS)
++  expect(runningModeIn(["-a", "aawalton", HEADLESS_FLAG])).toBe(SEAT_MODE_HEADLESS)
++})
++
++test("a command line carrying no flag is running interactive", () => {
++  expect(runningModeIn([])).toBe(SEAT_MODE_INTERACTIVE)
++  expect(runningModeIn(["-a", "aawalton", "--agent-id", "one", "--resume"])).toBe(
++    SEAT_MODE_INTERACTIVE
++  )
++})
++
++test("a word merely holding the flag is not the flag", () => {
++  expect(runningModeIn(["--headlessly"])).toBe(SEAT_MODE_INTERACTIVE)
++  expect(runningModeIn(["run --headless now"])).toBe(SEAT_MODE_INTERACTIVE)
++})
 diff --git a/seat-system/seat-modes/seat-modes.module.ts b/seat-system/seat-modes/seat-modes.module.ts
 index 9c705c296449d0faa1122c9ff2fd6f8391461197..7e47e25127f90fc6e5a968eb62089df638ef7b0d 100644
 --- a/seat-system/seat-modes/seat-modes.module.ts
