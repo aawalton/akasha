@@ -35,3 +35,39 @@ index 0000000000000000000000000000000000000000..da8af66333be8d5e6b2549cb665b6bbc
 +    },
 +  ],
 +} as const satisfies ComputedProperty
+diff --git a/alan/fitness/workout-sessions/workout-session.page-type.ts b/alan/fitness/workout-sessions/workout-session.page-type.ts
+index 3a611e91a9ef3199cf56181a27cacf5be64d4d25..ca10d12eb2d0480b305f528fcc78f00874df15cd 100644
+--- a/alan/fitness/workout-sessions/workout-session.page-type.ts
++++ b/alan/fitness/workout-sessions/workout-session.page-type.ts
+@@ -27,6 +27,7 @@ export const workoutSession = {
+   extendsSlug: ["page-type/page"],
+   partSlugs: [
+     "calendar-date-property/workout-session-date",
++    "computed-property/session-volume",
+     "instant-property/workout-session-completed-at",
+     "instant-property/workout-session-started-at",
+     "relation-property/schedule-day-slug",
+@@ -53,7 +54,9 @@ export const workoutSession = {
+       many: false,
+     },
+     { pagePropertySlug: "relation-property/wake-day-slug", required: false, many: false },
++    { pagePropertySlug: "computed-property/session-volume", required: false, many: false },
+   ],
++  worked: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+@@ -71,5 +74,13 @@ export const workoutSession = {
+       invariantKind: "departure",
+       statement: "A session falling on a day no page tracks names no day.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "A session states no volume of its own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A session's volume is worked out from the sets naming that session.",
++    },
+   ],
+ } as const satisfies PageType
