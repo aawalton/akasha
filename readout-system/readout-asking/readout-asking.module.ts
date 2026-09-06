@@ -11,7 +11,7 @@ export const readoutAsking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A readout is handed its asking rather than holding one.",
+      statement: "A readout is handed its asking rather than holding an asking.",
     },
     {
       invariantKind: "departure",
