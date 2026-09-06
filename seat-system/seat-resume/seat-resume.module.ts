@@ -13,8 +13,11 @@ export const seatResume = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The command reads arguments and writes the answer, and the functions the command calls do neither.",
+      statement: "The command reads the arguments and writes the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A function the command calls reads no argument and writes no answer.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +53,7 @@ export const seatResume = {
     {
       invariantKind: "departure",
       statement:
-        "The seat this process itself sits in is read from its own environment where the caller states none.",
+        "The seat this process sits in is read from its own environment where the caller states no seat.",
     },
   ],
 } as const satisfies Module
