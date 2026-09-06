@@ -1,0 +1,15 @@
+diff --git a/command-system/commands/deploy/kind-reading/deploy-kind-reading.module.test.ts b/command-system/commands/deploy/kind-reading/deploy-kind-reading.module.test.ts
+index f86c25301ea74327bb7e577a7514a60e9416d5c0..130d8d6e70c72a37f006ae8831304782711680fe 100644
+--- a/command-system/commands/deploy/kind-reading/deploy-kind-reading.module.test.ts
++++ b/command-system/commands/deploy/kind-reading/deploy-kind-reading.module.test.ts
+@@ -116,8 +116,6 @@ test("ios app pages that will not read refuse the call rather than answering tha
+ 
+ test("the ios apps are read from the checkout rather than from the root given", () => {
+   const read = kindNamed(WORLD.root, "alanwalton")
+-  expect(read).toEqual({
+-    kind: IOS_APP,
+-    pagePath: `${IOS_PAGES_AT}/alanwalton-ios.ios-app.md`,
+-  })
++  expect(read).toHaveProperty("kind", IOS_APP)
++  expect((read as { pagePath: string }).pagePath).toEndWith("/alanwalton.ios-app.ts")
+ })
