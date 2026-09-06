@@ -1,7 +1,7 @@
 import type { Domain } from "../../../../domains/domain.page-type.ts"
 
 export const monarchEval = {
-  id: "01a0686a-c033-fae1-cb98-55decd42b2c4",
+  id: "01a07740-d031-7503-a291-ce61a5f353a4",
   pageTypeSlug: "domain",
   slug: "monarch-eval",
   definition:
@@ -35,8 +35,11 @@ export const monarchEval = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The report delivered is the partition, and within each part coverage and reliability together.",
+      statement: "The report delivered is the partition.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Coverage and reliability are reported together within each part.",
     },
     {
       invariantKind: "departure",
@@ -76,8 +79,11 @@ export const monarchEval = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Strata are declared from category names and Alan's recorded rulings, never from the agent's scores.",
+      statement: "Strata are declared from category names and Alan's recorded rulings.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No stratum is declared from the agent's scores.",
     },
     {
       invariantKind: "departure",
@@ -102,13 +108,19 @@ export const monarchEval = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The Monarch pages are marked before a run and again after, and both marks land in the result file.",
+      statement: "The Monarch pages are marked before a run and again after.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Both marks land in the result file.",
     },
     {
       invariantKind: "absence",
-      statement:
-        "Nothing is applied: no page is written, no category is set, and Monarch is not contacted at all.",
+      statement: "Nothing is applied.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Monarch is not contacted at all.",
     },
     {
       invariantKind: "departure",
@@ -120,7 +132,11 @@ export const monarchEval = {
     },
     {
       invariantKind: "departure",
-      statement: "A run spends money and keeps its whole result, and scoring reads that result.",
+      statement: "A run spends money and keeps its whole result.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Scoring reads that result.",
     },
     {
       invariantKind: "gap",

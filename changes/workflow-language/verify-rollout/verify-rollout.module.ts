@@ -1,7 +1,7 @@
 import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const verifyRollout = {
-  id: "01a06f10-7000-7013-b0013-9d4a2f6c0013e1",
+  id: "01a07740-d031-78cb-9e6d-1202970669f7",
   pageTypeSlug: "module",
   slug: "verify-rollout",
   definition: "the shell line waiting on a deployment's rollout to finish",

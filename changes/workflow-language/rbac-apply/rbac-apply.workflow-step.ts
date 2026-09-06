@@ -1,7 +1,7 @@
 import type { WorkflowStep } from "../workflow-steps/workflow-step.page-type.ts"
 
 export const rbacApply = {
-  id: "01a06f10-7000-700d-b000d-9d4a2f6c000de1",
+  id: "01a07740-d031-714c-ac83-463fb6c4cf3d",
   pageTypeSlug: "workflow-step",
   slug: "rbac-apply",
   definition: "a step putting a namespace's role profiles and their bindings onto the cluster",

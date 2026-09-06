@@ -1,7 +1,7 @@
 import type { WorkflowStep } from "../workflow-steps/workflow-step.page-type.ts"
 
 export const sopsDecrypt = {
-  id: "01a06f10-7000-7011-b0011-9d4a2f6c0011e1",
+  id: "01a07740-d031-71a9-a797-ffe0d2219c1e",
   pageTypeSlug: "workflow-step",
   slug: "sops-decrypt",
   definition: "a step decrypting a sops file and applying what it holds",

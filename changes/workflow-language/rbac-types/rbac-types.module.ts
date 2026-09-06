@@ -1,7 +1,7 @@
 import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const rbacTypes = {
-  id: "01a06f10-7000-7007-b0007-9d4a2f6c0007e1",
+  id: "01a07740-d031-781d-95c7-d652fbd17ab2",
   pageTypeSlug: "module",
   slug: "rbac-types",
   definition: "the shape of a namespace role profile and of the rules it grants",

@@ -73,11 +73,6 @@ export const page = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An identity replaced for being no uuid version 7 keeps the old identity's last eight hex.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Some page properties have their own files.",
     },
     {

@@ -1,7 +1,7 @@
 import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const workflowTypes = {
-  id: "01a06f10-7000-7000-b0000-9d4a2f6c0000e1",
+  id: "01a07740-d031-7529-a9c2-c53dba849ec5",
   pageTypeSlug: "module",
   slug: "workflow-types",
   definition:
