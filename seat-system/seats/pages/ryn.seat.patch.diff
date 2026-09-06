@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/propose/monarch-propose.module.ts b/alan/harness/monarch/propose/monarch-propose.module.ts
-index 8154b7ebdb2e2dc3e49669f7fd8ae4745bb90f22..62568765ead6b54eff08b1cd03b126c591e9a2aa 100644
+index 8154b7ebdb2e2dc3e49669f7fd8ae4745bb90f22..781a7a6b736ff8de006806197317aecc0b05ed97 100644
 --- a/alan/harness/monarch/propose/monarch-propose.module.ts
 +++ b/alan/harness/monarch/propose/monarch-propose.module.ts
 @@ -9,7 +9,11 @@ export const monarchPropose = {
@@ -15,7 +15,7 @@ index 8154b7ebdb2e2dc3e49669f7fd8ae4745bb90f22..62568765ead6b54eff08b1cd03b126c5
      },
      {
        invariantKind: "departure",
-@@ -18,8 +22,11 @@ export const monarchPropose = {
+@@ -18,12 +22,19 @@ export const monarchPropose = {
      },
      {
        invariantKind: "departure",
@@ -26,6 +26,15 @@ index 8154b7ebdb2e2dc3e49669f7fd8ae4745bb90f22..62568765ead6b54eff08b1cd03b126c5
 +    {
 +      invariantKind: "departure",
 +      statement: "The refusal for a named rule lists the rules that do stand.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run with no rule at all is refused.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run with no rule at all is refused, and where the rules stand is said.",
++      statement: "The refusal for a run with no rule names the folder the rules are in.",
      },
      {
        invariantKind: "departure",
