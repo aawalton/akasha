@@ -126,18 +126,3 @@ index 0000000000000000000000000000000000000000..a9b30e0fc94fc544ee30b91a136b2108
 +    },
 +  ],
 +} as const satisfies SeatTurnState
-diff --git a/seat-system/seat-turn/seat-turn.domain.ts b/seat-system/seat-turn/seat-turn.domain.ts
-index 3aaff6672b6bb542113aaf8de1c4b71fed351ff4..8339233b38de2c13e495074ab291e8212b5caad1 100644
---- a/seat-system/seat-turn/seat-turn.domain.ts
-+++ b/seat-system/seat-turn/seat-turn.domain.ts
-@@ -199,6 +199,10 @@ export const seatTurn = {
- 
-     { invariantKind: "departure", statement: "A working seat is drawn in green." },
-     { invariantKind: "departure", statement: "An idle seat is drawn in yellow." },
-+    {
-+      invariantKind: "departure",
-+      statement: "A seat in an on-call role between turns is drawn in green.",
-+    },
-     {
-       invariantKind: "departure",
-       statement: "An idle seat with a turn start still to come is drawn in blue.",
