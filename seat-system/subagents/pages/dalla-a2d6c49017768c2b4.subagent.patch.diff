@@ -212,10 +212,10 @@ index 0000000000000000000000000000000000000000..e07782306dfa0f202129aa70f0c6bd49
 +})
 diff --git a/checks/code-checks/pages/types-file-runs-nothing/types-file-runs-nothing.code-check.ts b/checks/code-checks/pages/types-file-runs-nothing/types-file-runs-nothing.code-check.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..86616793973269b26e08d547b2c6a7a1d0c48afb
+index 0000000000000000000000000000000000000000..0774d3da2c31e3a33cdd92af7792afd2550bc49d
 --- /dev/null
 +++ b/checks/code-checks/pages/types-file-runs-nothing/types-file-runs-nothing.code-check.ts
-@@ -0,0 +1,66 @@
+@@ -0,0 +1,78 @@
 +import type { CodeCheck } from "../../code-check.page-type.ts"
 +
 +export const typesFileRunsNothing = {
@@ -232,7 +232,8 @@ index 0000000000000000000000000000000000000000..86616793973269b26e08d547b2c6a7a1
 +  invariants: [
 +    {
 +      invariantKind: "departure",
-+      statement: "A module's types file states what a caller reads without loading the module.",
++      statement:
++        "A module's types file states the declarations a caller reads without loading the module.",
 +    },
 +    {
 +      invariantKind: "departure",
@@ -248,7 +249,11 @@ index 0000000000000000000000000000000000000000..86616793973269b26e08d547b2c6a7a1
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "Every other statement is refused, so a form nobody foresaw is refused as well.",
++      statement: "Every other statement is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A form nobody foresaw is refused as well.",
 +    },
 +    {
 +      invariantKind: "departure",
@@ -261,11 +266,15 @@ index 0000000000000000000000000000000000000000..86616793973269b26e08d547b2c6a7a1
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A refusal names the line and what the check found the line carrying.",
++      statement: "A refusal names the line.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "Refusals are answered in the order the lines those refusals name sit in.",
++      statement: "A refusal names the form the check found on that line.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Refusals are answered in line order.",
 +    },
 +    {
 +      invariantKind: "absence",
@@ -273,8 +282,11 @@ index 0000000000000000000000000000000000000000..86616793973269b26e08d547b2c6a7a1
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement:
-+        "This check's input is those files alone, so a change carrying none does not run this check.",
++      statement: "This check's input is the types files alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A change carrying no types file does not run this check.",
 +    },
 +    {
 +      invariantKind: "absence",
