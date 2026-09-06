@@ -22,7 +22,7 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carrying children is badged with how many that row carries.",
+      statement: "A row carrying children is badged with the count of children that row carries.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +58,7 @@ export const agentTreeDrawing = {
     },
     {
       invariantKind: "departure",
-      statement: "A stopped seat, a subagent and a turn colour each take their own decoration.",
+      statement: "A stopped seat or a subagent or a turn colour takes its own decoration.",
     },
     {
       invariantKind: "departure",
