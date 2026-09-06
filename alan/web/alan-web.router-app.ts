@@ -142,11 +142,13 @@ export const alanWeb = {
     "module/use-media-variants",
     "module/use-next-unread",
     "module/use-reader-active-marks",
+    "module/widget-tap-answering",
     "route/about",
     "route/claude-usage",
     "route/inbox-stoplights",
     "route/no-such-route",
     "route/pages-ready",
     "route/wallpaper",
+    "route/widget-tap",
   ],
 } as const satisfies RouterApp

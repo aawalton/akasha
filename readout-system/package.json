@@ -28,7 +28,9 @@
     "./readout-reading": "./readout-reading/readout-reading.module.code.ts",
     "./readout-relay": "./readout-relay/readout-relay.module.code.ts",
     "./readout-scale-reading": "./readout-scale-reading/readout-scale-reading.module.code.ts",
-    "./readout-tier": "./readout-tier/readout-tier.module.code.ts"
+    "./readout-tier": "./readout-tier/readout-tier.module.code.ts",
+    "./widget-tap-counting": "./widget-tap-counting/widget-tap-counting.module.code.ts",
+    "./widget-tap-link": "./widget-tap-link/widget-tap-link.module.code.ts"
   },
   "dependencies": {
     "@akasha/pages-service": "workspace:*",

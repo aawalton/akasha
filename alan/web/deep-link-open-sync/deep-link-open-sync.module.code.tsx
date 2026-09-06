@@ -1,13 +1,36 @@
 "use client"
 
 import { decideOpenUrlRoute } from "@akasha/person-system/push-routing"
+import { widgetTapped } from "@akasha/readout-system/widget-tap-link"
 import { useEffect, useRef } from "react"
 import { useNavigate } from "react-router"
+import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
 import {
   getApp,
   isNativeShell,
   type PluginListenerHandle,
 } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
+
+// THE WIDGET'S NAME IS READ OFF THE RAW LINK, not off the path the link routes to.
+// `decideOpenUrlRoute` builds that path from the pathname and the search alone, so the name sits in
+// the fragment where it cannot change where the tap lands.
+function countTap(url: string): undefined {
+  const widget = widgetTapped(url)
+  if (widget === null) return
+  void apiFetch("/api/widget-tap", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ widget }),
+  })
+    .then((answered) => {
+      if (!answered.ok) {
+        console.warn("[deep-link] tap not counted", widget, answered.status)
+      }
+    })
+    .catch((error: unknown) => {
+      console.warn("[deep-link] tap not counted", widget, error)
+    })
+}
 
 export function DeepLinkOpenSync() {
   const navigate = useNavigate()
@@ -26,6 +49,7 @@ export function DeepLinkOpenSync() {
 
     const route = (url: string | null | undefined, source: string) => {
       if (url == null) return
+      countTap(url)
       const path = decideOpenUrlRoute(url)
       if (path == null) {
         console.warn(`[deep-link] ${source} with no routable path`, url)
