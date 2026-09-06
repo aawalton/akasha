@@ -67,7 +67,7 @@ export const pagesAccess = {
     },
     {
       invariantKind: "gap",
-      statement: "Most of this package's work is proved by no test of its own.",
+      statement: "This package's work is largely proved by no test of its own.",
     },
   ],
 } as const satisfies WorkspacePackage
