@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/fitness/session-planning/slot-templates/slot-templates.module.ts b/alan/fitness/session-planning/slot-templates/slot-templates.module.ts
+index 5f2f52d1d4a1af8e15d89fb7cac5c009e9293721..5f211c5f975a3fd4a5b056d99cd53ec24f985e51 100644
+--- a/alan/fitness/session-planning/slot-templates/slot-templates.module.ts
++++ b/alan/fitness/session-planning/slot-templates/slot-templates.module.ts
+@@ -15,7 +15,7 @@ export const slotTemplates = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The first slot of a template is the one the session is anchored on.",
++      statement: "The first slot of a template is the slot the session is anchored on.",
+     },
+     {
+       invariantKind: "departure",
