@@ -1,0 +1,33 @@
+diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
+index 17f733ec596a0fdf6df4e49381c51a17542dde69..2d33318b36410fbddd13dbce0c23af3377cc19a3 100644
+--- a/command-system/drafting/drafting.module.code.ts
++++ b/command-system/drafting/drafting.module.code.ts
+@@ -42,13 +42,25 @@ const NOT_OWED_AT = "writerOwesReading: false"
+ 
+ const NOT_OWED_WAS = "runsWarrants: false"
+ 
++const NOT_STALED_AT = "readersOweReading: false"
++
+ const DIFF_AT = "diff --git "
+ 
+-export type Running = { readonly checks: boolean; readonly writerOwesReading: boolean }
++export type Running = {
++  readonly checks: boolean
++  readonly writerOwesReading: boolean
++  readonly readersOweReading: boolean
++}
++
++export const AUTHORED: Running = { checks: true, writerOwesReading: true, readersOweReading: true }
+ 
+-export const AUTHORED: Running = { checks: true, writerOwesReading: true }
++const RUNS_NOTHING: Running = { checks: false, writerOwesReading: false, readersOweReading: false }
+ 
+-const RUNS_NOTHING: Running = { checks: false, writerOwesReading: false }
++export function runningOf(kind: Kind | undefined): Running {
++  if (kind === undefined) return AUTHORED
++  const { runsChecks, writerOwesReading, readersOweReading } = kind
++  return { checks: runsChecks, writerOwesReading, readersOweReading }
++}
+ 
+ export type Draft = {
+   readonly path: string
