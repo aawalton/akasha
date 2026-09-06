@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/inference/runs/inference-command-line/inference-command-line.module.ts b/inference/runs/inference-command-line/inference-command-line.module.ts
+index 21efac27a291a5a8cebd20f124f4402d8d095163..fa46e932f7ee69ea996e205232f74c1fe1caa247 100644
+--- a/inference/runs/inference-command-line/inference-command-line.module.ts
++++ b/inference/runs/inference-command-line/inference-command-line.module.ts
+@@ -9,7 +9,7 @@ export const inferenceCommandLine = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An argument holding whitespace is quoted and every other is left bare.",
++      statement: "An argument holding whitespace is quoted and every other argument is left bare.",
+     },
+   ],
+ } as const satisfies Module
