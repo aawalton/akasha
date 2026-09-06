@@ -10,11 +10,15 @@ export const scheduleFocus = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One schedule is active, and a day is read against that one.",
+      statement: "One schedule is active.",
     },
     {
       invariantKind: "departure",
-      statement: "A day taking rest names no focus rather than naming rest as one.",
+      statement: "A day is read against the active schedule.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day taking rest names no focus rather than naming rest as a focus.",
     },
     {
       invariantKind: "departure",
