@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/subagent-sweep/subagent-sweep.command.code.ts b/command-system/commands/subagent-sweep/subagent-sweep.command.code.ts
-index e1cfdee8bdcbbb8395a62c147af4bad6104c8f54..3d1371db74ebe946f7f3ba8b43f54ba74ccf7ed2 100644
+index e1cfdee8bdcbbb8395a62c147af4bad6104c8f54..90733658a5c93c33c338e2b1f1f88e00259d7f71 100644
 --- a/command-system/commands/subagent-sweep/subagent-sweep.command.code.ts
 +++ b/command-system/commands/subagent-sweep/subagent-sweep.command.code.ts
 @@ -28,15 +28,17 @@ import { type Answer, answering, type Given } from "../../calling/calling.module
@@ -50,6 +50,47 @@ index e1cfdee8bdcbbb8395a62c147af4bad6104c8f54..3d1371db74ebe946f7f3ba8b43f54ba7
  
  export function namedIn(argv: readonly string[]): Read {
    let removing = false
+@@ -85,8 +95,9 @@ export async function runningOwnIn(
+   pages: readonly SubagentPage[],
+   reading: SeatTranscripts,
+   pathOf: TranscriptPathOf
+-): Promise<ReadonlySet<string>> {
+-  const held = new Set<string>()
++): Promise<OwnIds> {
++  const running = new Set<string>()
++  const ended = new Set<string>()
+   const seats = [...new Set(pages.map((one) => one.seatId))].filter((one) => one !== "").sort()
+   for (const seat of seats) {
+     let named: string | null
+@@ -97,13 +108,25 @@ export async function runningOwnIn(
+     }
+     if (named === null || named === "") continue
+     try {
+-      ownIdsInto(held, await reading.forSeat(seat, named))
++      ownIdsInto(running, await reading.forSeat(seat, named))
++    } catch {}
++    // ONE SEAT'S END READING IS ITS OWN TRY. A seat whose running reading threw may still answer
++    // for its ended ids, and a seat whose ended reading throws keeps the running ids already
++    // gathered. Neither failure reaches the other seat or the other reading.
++    try {
++      for (const one of await reading.endedForSeat(seat, named)) {
++        if (one !== "") ended.add(one)
++      }
+     } catch {}
+   }
+-  return held
++  // AN ID BOTH READINGS NAME IS RUNNING. The census asks life before it asks an end, so this would
++  // settle the same way without the line; it is here because a set answered from this function
++  // should mean what its name says on its own.
++  for (const one of running) ended.delete(one)
++  return { running, ended }
+ }
+ 
+-async function transcriptsSay(pages: readonly SubagentPage[]): Promise<ReadonlySet<string>> {
++async function transcriptsSay(pages: readonly SubagentPage[]): Promise<OwnIds> {
+   return runningOwnIn(pages, createSubagentReader(), (seat) => transcriptOf(seat)?.value ?? null)
+ }
+ 
 diff --git a/editor-extension/subagent-core/subagent-core.module.code.ts b/editor-extension/subagent-core/subagent-core.module.code.ts
 index bd4fb7f4bb5fbd5b135539a4a1603213fecf6863..25f8c8162bf9d3c8f56e4677f2082f731275637d 100644
 --- a/editor-extension/subagent-core/subagent-core.module.code.ts
