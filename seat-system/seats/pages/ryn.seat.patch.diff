@@ -1,9 +1,13 @@
-readersOweReading: false
 diff --git a/alan/fitness/session-planning/movement-scoring/movement-scoring.module.ts b/alan/fitness/session-planning/movement-scoring/movement-scoring.module.ts
-index 7fbdcd70fc191e4fcbcc185163473b4d23232450..a58a52682456c2c190cde3a7b4c3bde8ad735a26 100644
+index 7fbdcd70fc191e4fcbcc185163473b4d23232450..2acf343c28c019ce1b409ed6aaf6089676332a4a 100644
 --- a/alan/fitness/session-planning/movement-scoring/movement-scoring.module.ts
 +++ b/alan/fitness/session-planning/movement-scoring/movement-scoring.module.ts
-@@ -18,7 +18,7 @@ export const movementScoring = {
+@@ -14,11 +14,11 @@ export const movementScoring = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No score is read off a page, so a page states no score.",
++      statement: "A page states no score.",
      },
      {
        invariantKind: "departure",
