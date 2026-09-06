@@ -113,6 +113,19 @@ index b570ce5bb8710736ce1a9f68e94701acca44f38c..92e1ca70d518ea8376588424143a31ef
    evidence:
      "From project #17022 (status `someday_maybe`, `live-on: commit`, domain `all-about-alan`), captured and never defined.\n\nThe live 37-line map core did not survive the 2026-07-27 harness rebuild. Alan ruled restart-from-scratch (2026-07-28).\n\nScope this row held:\n1. Rebuild the ranked Leverage Map core from scratch, by interview.\n2. Hold the loose ends surfaced in the 2026-07-28 session as a ROUTING entry — evidence captured here, to be passed to Abby for Book-of-Alan intake when Alan is ready for full capture. He explicitly deferred full capture that day.\n\nNot in scope: writing the Book of Alan itself — that is knowledge/Abby's material; this row only held the pointer until intake.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/mint-mobile-trust-reset.finding.ts b/domains/findings/pages/mint-mobile-trust-reset.finding.ts
+index 5a7f416c0dd3bfeaefb494294c77b1e529b3c3b3..73243893bd684d882c83dc056042378c78b1e699 100644
+--- a/domains/findings/pages/mint-mobile-trust-reset.finding.ts
++++ b/domains/findings/pages/mint-mobile-trust-reset.finding.ts
+@@ -6,7 +6,7 @@ export const mintMobileTrustReset = {
+   slug: "mint-mobile-trust-reset",
+   domainSlug: "domain/all-about-alan",
+   claim:
+-    "T-Mobile's acquisition of Mint Mobile, closed in 2024, is a capture event under Alan's own framework, which resets the vendor's trust to zero regardless of how the service currently behaves. The household's cellular still runs on it, and no alternative has been evaluated against his trust criterion.",
++    "T-Mobile's acquisition of Mint Mobile, closed in 2024, is one capture event under Alan's own framework, which resets the vendor's trust to zero regardless of how the service currently behaves. The household's cellular still runs on it, and no alternative has been evaluated against his trust criterion.",
+   evidence:
+     "My own reading of Abby's backlog at `~/abby-backlog-2026-08-06/`, migrated here as a finding. Carried in `backlog/personal-freedom.md` line 25 as `VENDOR/mint-mobile` (was item 4), which records the acquisition as triggering a capture event per `notes/capture-events.md` and names US Mobile, Visible, Cricket and prepaid options as the alternatives to weigh against `notes/trust-criterion.md`.\n\nWhat I did not measure: I read none of those notes, so the trust-reset rule is the backlog's statement of Alan's framework rather than the framework's own words. That the household still uses Mint is implied by the item asking for a reassessment rather than stated outright, and I did not confirm it. I did not verify the acquisition or its closing date independently.",
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/priming-guards-the-first-capture-rather-than-the-first-after-a-gap.finding.ts b/domains/findings/pages/priming-guards-the-first-capture-rather-than-the-first-after-a-gap.finding.ts
 index 4383015427883d3359a6c6d4995e6726fa360c5b..f6569c84525d4556464865349ae9c20da3ceed06 100644
 --- a/domains/findings/pages/priming-guards-the-first-capture-rather-than-the-first-after-a-gap.finding.ts
