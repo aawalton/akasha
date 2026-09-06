@@ -1,0 +1,17 @@
+diff --git a/seat-system/supervisor-decide/supervisor-decide.module.ts b/seat-system/supervisor-decide/supervisor-decide.module.ts
+index 02388281ea4fe75636dbf738004114350871f63e..af9e7294f43c1d985d8b5f0d7feb6a17eee2746b 100644
+--- a/seat-system/supervisor-decide/supervisor-decide.module.ts
++++ b/seat-system/supervisor-decide/supervisor-decide.module.ts
+@@ -14,7 +14,11 @@ export const supervisorDecide = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The whole call is the JSON on stdin, and an argument is refused.",
++      statement: "The whole call is the JSON on stdin.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An argument given to this module is refused.",
+     },
+     {
+       invariantKind: "departure",
