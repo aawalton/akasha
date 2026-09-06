@@ -1,8 +1,8 @@
 diff --git a/seat-system/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.ts b/seat-system/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.ts
-index 621a8079592202cd847da429b10b718a43fd8dcb..29f1ca6d7b8fee89b41cb3c1add5e76c6bd125af 100644
+index 621a8079592202cd847da429b10b718a43fd8dcb..738b429785834ec87aa5a744bcc287e07136974b 100644
 --- a/seat-system/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.ts
 +++ b/seat-system/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.ts
-@@ -10,17 +10,19 @@ export const alertRecipientDecide = {
+@@ -10,21 +10,24 @@ export const alertRecipientDecide = {
    invariants: [
      {
        invariantKind: "departure",
@@ -24,6 +24,12 @@ index 621a8079592202cd847da429b10b718a43fd8dcb..29f1ca6d7b8fee89b41cb3c1add5e76c
 +    {
 +      invariantKind: "departure",
 +      statement: "An alert naming both a domain and a person names no recipient.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An alert naming neither a domain nor a person lands nowhere until one is stated.",
++      statement:
++        "An alert naming neither a domain nor a person lands nowhere until a recipient is stated.",
      },
      {
        invariantKind: "departure",
