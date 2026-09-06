@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/wan/wan-hosting/wan-hosting.module.ts b/command-system/commands/wan/wan-hosting/wan-hosting.module.ts
-index 132cf8b4a0bb547f58ef96c9bb2e7f2c25486bde..c9fe1ba8a436bc6f207bd8fe4d2e9d850ef46306 100644
+index 132cf8b4a0bb547f58ef96c9bb2e7f2c25486bde..5aee7c0197d28083a619acb38ebdef33e4f8d9cc 100644
 --- a/command-system/commands/wan/wan-hosting/wan-hosting.module.ts
 +++ b/command-system/commands/wan/wan-hosting/wan-hosting.module.ts
 @@ -15,7 +15,7 @@ export const wanHosting = {
@@ -11,7 +11,7 @@ index 132cf8b4a0bb547f58ef96c9bb2e7f2c25486bde..c9fe1ba8a436bc6f207bd8fe4d2e9d85
      },
      {
        invariantKind: "departure",
-@@ -23,7 +23,7 @@ export const wanHosting = {
+@@ -23,11 +23,12 @@ export const wanHosting = {
      },
      {
        invariantKind: "departure",
@@ -20,3 +20,9 @@ index 132cf8b4a0bb547f58ef96c9bb2e7f2c25486bde..c9fe1ba8a436bc6f207bd8fe4d2e9d85
      },
      {
        invariantKind: "departure",
+-      statement: "An ffprobe ending at anything but zero is answered with the last line it wrote.",
++      statement:
++        "An ffprobe ending at anything but zero is answered with the last line ffprobe wrote.",
+     },
+     {
+       invariantKind: "absence",
