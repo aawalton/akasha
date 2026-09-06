@@ -10,11 +10,11 @@ export const readoutBody = {
     {
       invariantKind: "departure",
       statement:
-        "The wire shape belongs to every readout rather than to the one that first had that shape.",
+        "The wire shape belongs to every readout rather than to the readout that first had that shape.",
     },
     {
       invariantKind: "departure",
-      statement: "A surface drawing a reading is held to these keys and no others.",
+      statement: "A surface drawing a reading is held to the keys named here and to no other key.",
     },
     {
       invariantKind: "stopgap",
