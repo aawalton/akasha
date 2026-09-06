@@ -160,3 +160,17 @@ index 0000000000000000000000000000000000000000..6b62cdae6f28b2cac9124286aef2ef0d
 +  slug: "collections-secrets-royalroad-password",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "ROYALROAD_PASSWORD" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-royalroad-username.secret.ts b/service-system/secrets/pages/collections-secrets-royalroad-username.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..47dda28746af96d9f5875753adf0e8e4ed8d1a0b
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-royalroad-username.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsRoyalroadUsername = {
++  id: "01a076b7-6ea7-7e32-98df-26d00edeeaf2",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-royalroad-username",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "ROYALROAD_USERNAME" }],
++} as const satisfies Secret
