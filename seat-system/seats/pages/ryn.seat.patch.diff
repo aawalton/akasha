@@ -1,0 +1,18 @@
+diff --git a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
+index 1c16444c9184a15b0179bdcb186140b48ab14222..be4a8cf1a9eb26e2ac44e784d5a3afea80ce24d5 100644
+--- a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
++++ b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
+@@ -13,8 +13,11 @@ export const supervisorHeartbeatBeat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A write that can await the beat calls it, and one that cannot runs it as a child.",
++      statement: "A write that can await the beat calls the beat.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A write that cannot await the beat runs the beat as a child.",
+     },
+     {
+       invariantKind: "departure",
