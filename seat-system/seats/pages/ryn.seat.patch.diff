@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.ts b/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.ts
+index 7c9a176696e3574e22d699a24824c36349c03fb4..34e41ba6b166c2631de810a9bba4d9d1bf08a8db 100644
+--- a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.ts
++++ b/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.ts
+@@ -57,7 +57,7 @@ export const claudeAccountCredentialPush = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A sops file reading back as other than the pair handed in is refused.",
++      statement: "A sops file reading back a different pair from the pair handed in is refused.",
+     },
+     {
+       invariantKind: "departure",
