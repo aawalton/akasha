@@ -1,3 +1,20 @@
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index a87980fc09e4875973e1ddc43a32387be5566b39..13bf843063a2a3d55243f50f72901c28c10098d9 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -242,7 +242,11 @@ export function noCheckSaid(slug: string): string {
+ export function runningOf(given: Given): Running {
+   const kind = given.changeKind
+   if (kind === undefined) return AUTHORED
+-  return { checks: kind.runsChecks, writerOwesReading: kind.writerOwesReading }
++  return {
++    checks: kind.runsChecks,
++    writerOwesReading: kind.writerOwesReading,
++    readersOweReading: kind.readersOweReading,
++  }
+ }
+ 
+ function bypassIn(given: Given, asked: Asked): Bypass | null {
 diff --git a/command-system/asking/asking.module.test-fixtures.ts b/command-system/asking/asking.module.test-fixtures.ts
 index f651f60dd17d7c2ca8c4fb8fc6b6d2328d530d9a..a58ec6ac291c33b253bdeca54616977d2938eede 100644
 --- a/command-system/asking/asking.module.test-fixtures.ts
