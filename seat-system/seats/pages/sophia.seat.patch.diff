@@ -1,13 +1,16 @@
 diff --git a/graph/asking/graph-asking.module.test.ts b/graph/asking/graph-asking.module.test.ts
-index 398a37f27ed4a59ef02a3834fbf99d4df858e47c..af9f40d1e0edda503df9e427f7528ca4ce23a35a 100644
+index 398a37f27ed4a59ef02a3834fbf99d4df858e47c..5feb96db35b107e20738a4cef69ac12aec1ad32b 100644
 --- a/graph/asking/graph-asking.module.test.ts
 +++ b/graph/asking/graph-asking.module.test.ts
-@@ -47,7 +47,7 @@ import {
+@@ -47,9 +47,9 @@ import {
  
  const REPO_AT = rootOf(import.meta.dir)
  
 -const NAMED = "akasha/code-system/modules/module.page-type.ts"
 +const NAMED = "code-system/modules/module.page-type.ts"
  
- const NAMER = "akasha/pages-system/indexes/index/index.page-type.ts"
+-const NAMER = "akasha/pages-system/indexes/index/index.page-type.ts"
++const NAMER = "pages/indexes/index.page-type.ts"
+ 
+ const EXTENDS = "extends-slug"
  
