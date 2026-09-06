@@ -1,17 +1,27 @@
 diff --git a/alan/harness/monarch/rule-amounts/monarch-rule-amounts.module.ts b/alan/harness/monarch/rule-amounts/monarch-rule-amounts.module.ts
-index 49e981d7f0af131ff6266d7e6782259632f7fe5e..6a634a0d54120329ae3cd4adbf2712869e1ae8df 100644
+index 49e981d7f0af131ff6266d7e6782259632f7fe5e..9ea4a13b9b90196d3e84dcf2930cab2edb581cd1 100644
 --- a/alan/harness/monarch/rule-amounts/monarch-rule-amounts.module.ts
 +++ b/alan/harness/monarch/rule-amounts/monarch-rule-amounts.module.ts
-@@ -11,7 +11,11 @@ export const monarchRuleAmounts = {
+@@ -11,12 +11,19 @@ export const monarchRuleAmounts = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "An amount is weighed in cents, so two sums a hundredth apart are two sums.",
 +      statement: "An amount is weighed in cents.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An exclusion is weighed before an inclusion, so an excluded amount never matches.",
++      statement: "Two sums a hundredth apart are two sums.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "Two sums a hundredth apart are two sums.",
++      statement: "An exclusion is weighed before an inclusion.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An excluded amount never matches.",
      },
      {
        invariantKind: "departure",
