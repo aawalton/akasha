@@ -15,3 +15,17 @@ index 0000000000000000000000000000000000000000..fea1425afcd0b9b65b0245b581464957
 +    { resourceName: "postgres-secrets", resourceKey: "POSTGRES_PASSWORD" },
 +  ],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/postgres-cnpg-superuser-username.secret.ts b/service-system/secrets/pages/postgres-cnpg-superuser-username.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c09462580181912bb6fdf3920cf5f9993fb6e0b7
+--- /dev/null
++++ b/service-system/secrets/pages/postgres-cnpg-superuser-username.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const postgresCnpgSuperuserUsername = {
++  id: "01a0769a-86d7-7e26-91ae-cdd6dc0fd508",
++  pageTypeSlug: "secret",
++  slug: "postgres-cnpg-superuser-username",
++  placements: [{ resourceName: "postgres-cnpg-superuser", resourceKey: "username" }],
++} as const satisfies Secret
