@@ -6130,7 +6130,7 @@ index adfdb0112bd2a0d1751a32e748fbffaa3578e1c8..8770be70c07b68188a054d9e0f6bb766
    invariants: [
      {
 diff --git a/readout-system/readout-scales/properties/earned-color-slug.text-property.ts b/readout-system/readout-scales/properties/earned-color-slug.text-property.ts
-index bf660563782d2ed8c98b87ad80ff67896f97d356..142e761f88225f9d9bca723a6f8605992643628a 100644
+index bf660563782d2ed8c98b87ad80ff67896f97d356..0d93c5b88eaf0a9ebec7fedb307a6b8397e22ccb 100644
 --- a/readout-system/readout-scales/properties/earned-color-slug.text-property.ts
 +++ b/readout-system/readout-scales/properties/earned-color-slug.text-property.ts
 @@ -8,7 +8,7 @@ export const earnedColorSlug = {
@@ -6142,19 +6142,6 @@ index bf660563782d2ed8c98b87ad80ff67896f97d356..142e761f88225f9d9bca723a6f860599
    nameFormatSlug: null,
    invariants: [
      {
-@@ -17,8 +17,12 @@ export const earnedColorSlug = {
-     },
-     {
-       invariantKind: "departure",
-+<<<<<<< what this change would leave
-+      statement: "A scale states its earned color whatever readouts are read against that scale.",
-+=======
-       statement:
-         "A scale states a single earned color whatever readouts are read against that scale.",
-+>>>>>>> what HEAD holds
-     },
-     {
-       invariantKind: "gap",
 diff --git a/readout-system/readout-widgets/properties/caption.text-property.ts b/readout-system/readout-widgets/properties/caption.text-property.ts
 index 20a4e3b702cfe94f3a6387c27452f982cc3cb9a5..7c6e8bec158d6ffeeae271219de46af1d8020b4c 100644
 --- a/readout-system/readout-widgets/properties/caption.text-property.ts
@@ -6447,7 +6434,7 @@ index c7b1dfc55257b50a7cc3dc532d8fd5f2d3baed75..46b95dca700e33b82c6a246d9021b2d2
      { pagePropertySlug: "text-property/none-left-emoji", required: false, many: false },
      { pagePropertySlug: "text-property/wire-key", required: true, many: false },
 diff --git a/readout-system/values/value.page-type.ts b/readout-system/values/value.page-type.ts
-index 873cebc39bac0d6a4584755116933011a6ce3c03..4e1d1f5d9351a75288f718f04d1dd5268ab3fb0d 100644
+index d4029012cc7bd80cb35d41f54f40b65a4f94b411..4e1d1f5d9351a75288f718f04d1dd5268ab3fb0d 100644
 --- a/readout-system/values/value.page-type.ts
 +++ b/readout-system/values/value.page-type.ts
 @@ -50,7 +50,12 @@ export const value = {
@@ -6464,15 +6451,6 @@ index 873cebc39bac0d6a4584755116933011a6ce3c03..4e1d1f5d9351a75288f718f04d1dd526
      { pagePropertySlug: "text-property/query-slug", required: false, many: false },
      { pagePropertySlug: "text-property/query-key", required: false, many: false },
      { pagePropertySlug: "text-property/query-argument", required: false, many: false },
-@@ -76,7 +81,7 @@ export const value = {
-     },
-     {
-       invariantKind: "departure",
--      statement: "A value names its scale rather than carrying one.",
-+      statement: "A value names its scale rather than carrying a scale.",
-     },
-     {
-       invariantKind: "departure",
 diff --git a/reminder-system/reminders/properties/reminder-schedule.text-property.ts b/reminder-system/reminders/properties/reminder-schedule.text-property.ts
 index 37030a7f3da45dc2526c86a0a476f5b6a2ab6e3b..2acd046de58294201317257a1d2fb236f3552208 100644
 --- a/reminder-system/reminders/properties/reminder-schedule.text-property.ts
