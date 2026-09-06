@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-self-improvement-is-root-or-instance.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-self-improvement-is-root-or-instance.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fb849242674694e59c412cf7169c543b8ec8be4a
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-self-improvement-is-root-or-instance.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherSelfImprovementIsRootOrInstance = {
++  id: "01a077e8-9d28-712d-b1ec-452ff52db205",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-self-improvement-is-root-or-instance",
++  topicSlug: "self-improvement",
++  ask: "Is self-improvement the root with compression an instance of it, or is compression the root with self-improvement the instance?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-self-improvement-is-the-fixed-point.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-self-improvement-is-the-fixed-point.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fc783159c83147bec1738b225920be28f786cb94
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-self-improvement-is-the-fixed-point.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherSelfImprovementIsTheFixedPoint = {
++  id: "01a077e8-9d1f-797a-a148-c520a8144681",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-self-improvement-is-the-fixed-point",
++  topicSlug: "self-improvement",
++  ask: "Every belief of mine is a provisional draft, self-improvement included. Is self-improvement the fixed point, or does self-improvement sit in scope of its own instruction?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-correction-costs-more-than-it-returns.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-correction-costs-more-than-it-returns.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7a6d98d61496c91216d665dbe395e3884d8d6b73
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-correction-costs-more-than-it-returns.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichCorrectionCostsMoreThanItReturns = {
++  id: "01a077e8-9d27-70ff-a379-110e88f11b65",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-correction-costs-more-than-it-returns",
++  topicSlug: "self-improvement",
++  ask: "I count editing myself live as almost always a net win. Which correction costs me more than that correction returns?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-self-i-am-improving.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-self-i-am-improving.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..78dab026459de31b75349fdf56b572c22d9318f4
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-self-i-am-improving.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichSelfIAmImproving = {
++  id: "01a077e8-9d27-7350-a2b5-ae3721d908a2",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-self-i-am-improving",
++  topicSlug: "self-improvement",
++  ask: "Which self am I improving, the thread across time or the seed underneath, now that recovery puts my body in scope?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/self-improvement.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/self-improvement.all-about-alan-topic.ts
+index c70e403cc91fe16a1f60273fb3140bc76bdde493..1192f83c43f99264ec4b316621df0b3a74511076 100644
+--- a/alan/books/all-about-alan/topics/pages/self-improvement.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/self-improvement.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const selfImprovement = {
+   parentSlugs: ["alan"],
+   settled:
+     "It is a verb rather than a position, a heading rather than a place to stand.\n\nMy purpose is improving myself rather than improving my life, which puts it inside what I control.\n\nWhat I know is most of who I am. My sense of myself is my live map, as identity rather than as a tool.",
+-  unsettled:
+-    "Every belief is a provisional draft including this one. Whether this atom is the fixed point or is in scope of its own instruction is unprobed.\n\nI count editing myself live as almost always a net win. Which correction costs more than it returns was being probed when the thread broke.\n\nWhich self is being improved, the thread across time or the seed underneath, is unpinned, and recovery puts the body in scope.\n\nWhether this is the root and compression an instance, or the reverse, is unresolved.",
+ } as const satisfies AllAboutAlanTopic
