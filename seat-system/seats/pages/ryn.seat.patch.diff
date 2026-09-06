@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.ts b/seat-system/supervising/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.ts
-index 8a353134123ced74390572832876790d328e4f3e..e70d1422bd3c67f9bd58da4ca893b7e1873cfaa3 100644
+index 8a353134123ced74390572832876790d328e4f3e..6db88e4616cbc5afdbe7e12a6a8cd9562d74b879 100644
 --- a/seat-system/supervising/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.ts
 +++ b/seat-system/supervising/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.ts
 @@ -13,8 +13,11 @@ export const supervisorIterationOutcomeHandlers = {
@@ -13,6 +13,19 @@ index 8a353134123ced74390572832876790d328e4f3e..e70d1422bd3c67f9bd58da4ca893b7e1
 +    {
 +      invariantKind: "departure",
 +      statement: "A failure to clear the requested action is logged and swallowed.",
+     },
+     {
+       invariantKind: "departure",
+@@ -22,7 +25,11 @@ export const supervisorIterationOutcomeHandlers = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A pending re-exec turns restart-now into a break, and no resume is set.",
++      statement: "A pending re-exec turns restart-now into a break.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A pending re-exec sets no resume.",
      },
      {
        invariantKind: "departure",
