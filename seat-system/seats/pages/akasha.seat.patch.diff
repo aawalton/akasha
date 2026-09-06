@@ -1,0 +1,406 @@
+runsWarrants: false
+diff --git a/temper/temper-catalog/temper-pursuits/achievement-categories/temper-achievement-category.page-type.ts b/temper/temper-catalog/temper-pursuits/achievement-categories/temper-achievement-category.page-type.ts
+index 2fd0a09d2aead2aee6b546b433967012388b1812..adce5d5797db0966e887eb21fb0e63b7c0820a3d 100644
+--- a/temper/temper-catalog/temper-pursuits/achievement-categories/temper-achievement-category.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/achievement-categories/temper-achievement-category.page-type.ts
+@@ -20,9 +20,9 @@ export const temperAchievementCategory = {
+     "page-property-entry/achievements",
+   ],
+   properties: [
+-    { pagePropertySlug: "category", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "achievements", required: false, many: false },
++    { pagePropertySlug: "text-property/category", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/achievements", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquities.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquities.page-property-entry.ts
+index 62624deed812e7c0cd06582226770c031df24d1f..9aae2fea10c76eeace2ee83819fc16b5f50ec22e 100644
+--- a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquities.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquities.page-property-entry.ts
+@@ -9,10 +9,10 @@ export const antiquities = {
+   propertySlug: "antiquities",
+   definition: "the antiquities a category holds, one antiquity to a line",
+   properties: [
+-    { pagePropertySlug: "eso-antiquity-id", required: true, many: false },
+-    { pagePropertySlug: "antiquity-name", required: true, many: false },
+-    { pagePropertySlug: "eso-antiquity-set-id", required: true, many: false },
+-    { pagePropertySlug: "total-lore-entries", required: true, many: false },
++    { pagePropertySlug: "number-property/eso-antiquity-id", required: true, many: false },
++    { pagePropertySlug: "text-property/antiquity-name", required: true, many: false },
++    { pagePropertySlug: "number-property/eso-antiquity-set-id", required: true, many: false },
++    { pagePropertySlug: "number-property/total-lore-entries", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-pursuits/antiquity-categories/temper-antiquity-category.page-type.ts b/temper/temper-catalog/temper-pursuits/antiquity-categories/temper-antiquity-category.page-type.ts
+index 022a594999d98f4303dad4dd867a4eaa71dc52bc..60eac2d9be6392f297441fbbfecaba244a9d2ebb 100644
+--- a/temper/temper-catalog/temper-pursuits/antiquity-categories/temper-antiquity-category.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/antiquity-categories/temper-antiquity-category.page-type.ts
+@@ -24,8 +24,8 @@ export const temperAntiquityCategory = {
+     "text-property/antiquity-name",
+   ],
+   properties: [
+-    { pagePropertySlug: "eso-antiquity-category-id", required: true, many: false },
+-    { pagePropertySlug: "antiquities", required: true, many: false },
++    { pagePropertySlug: "number-property/eso-antiquity-category-id", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/antiquities", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/cadwell-stops.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/cadwell-stops.page-property-entry.ts
+index 40f22963ce8403d7729d8d0e3227434770ef6086..e104a7d8a6313f0987ddbb76a2b12e965c9086a5 100644
+--- a/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/cadwell-stops.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/cadwell-levels/properties/cadwell-stops.page-property-entry.ts
+@@ -9,10 +9,10 @@ export const cadwellStops = {
+   propertySlug: "cadwell-stops",
+   definition: "the points of interest Cadwell names in a level, one point to a line",
+   properties: [
+-    { pagePropertySlug: "zone-index", required: true, many: false },
+-    { pagePropertySlug: "zone-name", required: true, many: false },
+-    { pagePropertySlug: "stop-index", required: true, many: false },
+-    { pagePropertySlug: "poi-name", required: true, many: false },
++    { pagePropertySlug: "number-property/zone-index", required: true, many: false },
++    { pagePropertySlug: "text-property/zone-name", required: true, many: false },
++    { pagePropertySlug: "number-property/stop-index", required: true, many: false },
++    { pagePropertySlug: "text-property/poi-name", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-pursuits/cadwell-levels/temper-cadwell-level.page-type.ts b/temper/temper-catalog/temper-pursuits/cadwell-levels/temper-cadwell-level.page-type.ts
+index a8221e236c2f91d7ad7f3457821ad2fce7f3d50a..facbe560b35d1874ca93e36ebaeebe933ad743f7 100644
+--- a/temper/temper-catalog/temper-pursuits/cadwell-levels/temper-cadwell-level.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/cadwell-levels/temper-cadwell-level.page-type.ts
+@@ -19,8 +19,8 @@ export const temperCadwellLevel = {
+     "page-property-entry/cadwell-stops",
+   ],
+   properties: [
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "cadwell-stops", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/cadwell-stops", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-pursuits/collectible-categories/properties/collectibles.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/collectible-categories/properties/collectibles.page-property-entry.ts
+index 86bd3fa7e6604627ab2e6a72e78617faf1c435c5..27ed29aee4b4bd7ba4b3f6279519122abbd12182 100644
+--- a/temper/temper-catalog/temper-pursuits/collectible-categories/properties/collectibles.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/collectible-categories/properties/collectibles.page-property-entry.ts
+@@ -9,8 +9,8 @@ export const collectibles = {
+   propertySlug: "collectibles",
+   definition: "the collectibles a category holds, one collectible to a line",
+   properties: [
+-    { pagePropertySlug: "eso-collectible-id", required: true, many: false },
+-    { pagePropertySlug: "collectible-name", required: true, many: false },
++    { pagePropertySlug: "number-property/eso-collectible-id", required: true, many: false },
++    { pagePropertySlug: "text-property/collectible-name", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-pursuits/collectible-categories/temper-collectible-category.page-type.ts b/temper/temper-catalog/temper-pursuits/collectible-categories/temper-collectible-category.page-type.ts
+index 5ec54ffb054bf2c7ba159ac032def642c3a8d4b0..736dd156045935ad3ff242323df02ec3939f16ad 100644
+--- a/temper/temper-catalog/temper-pursuits/collectible-categories/temper-collectible-category.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/collectible-categories/temper-collectible-category.page-type.ts
+@@ -21,8 +21,8 @@ export const temperCollectibleCategory = {
+     "text-property/collectible-name",
+   ],
+   properties: [
+-    { pagePropertySlug: "eso-category-index", required: false, many: false },
+-    { pagePropertySlug: "collectibles", required: false, many: false },
++    { pagePropertySlug: "number-property/eso-category-index", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/collectibles", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-pursuits/craft-types/temper-craft-type.page-type.ts b/temper/temper-catalog/temper-pursuits/craft-types/temper-craft-type.page-type.ts
+index 27867367a4148a8a28b17bbeabacd8ae9feb6a32..1f97214b96721737a80eb4e535bcb9c5259a1075 100644
+--- a/temper/temper-catalog/temper-pursuits/craft-types/temper-craft-type.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/craft-types/temper-craft-type.page-type.ts
+@@ -14,7 +14,9 @@ export const temperCraftType = {
+   pluralSlug: "temper-craft-types",
+   extendsSlug: ["page-type/temper-pursuit-thing"],
+   partSlugs: ["number-property/eso-craft-type-id"],
+-  properties: [{ pagePropertySlug: "eso-craft-type-id", required: true, many: false }],
++  properties: [
++    { pagePropertySlug: "number-property/eso-craft-type-id", required: true, many: false },
++  ],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-catalog/temper-pursuits/lore-collections/properties/books.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/lore-collections/properties/books.page-property-entry.ts
+index 45843c1894a73d88bc4ea8ecf7e06361fbb0359a..52b64a6ce5e0536d55ba0b308e8a4c72501fa452 100644
+--- a/temper/temper-catalog/temper-pursuits/lore-collections/properties/books.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/lore-collections/properties/books.page-property-entry.ts
+@@ -9,8 +9,8 @@ export const books = {
+   propertySlug: "books",
+   definition: "the books a lore collection holds, one book to a line",
+   properties: [
+-    { pagePropertySlug: "book-index", required: true, many: false },
+-    { pagePropertySlug: "book-name", required: true, many: false },
++    { pagePropertySlug: "number-property/book-index", required: true, many: false },
++    { pagePropertySlug: "text-property/book-name", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-pursuits/lore-collections/temper-lore-collection.page-type.ts b/temper/temper-catalog/temper-pursuits/lore-collections/temper-lore-collection.page-type.ts
+index 4cc47dfa2de58162ec583d84f143e8da2b943523..8fe9227e04ad8524d897e1f0593ebd15845a6a75 100644
+--- a/temper/temper-catalog/temper-pursuits/lore-collections/temper-lore-collection.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/lore-collections/temper-lore-collection.page-type.ts
+@@ -25,9 +25,9 @@ export const temperLoreCollection = {
+     "text-property/book-name",
+   ],
+   properties: [
+-    { pagePropertySlug: "eso-lore-category-id", required: true, many: false },
+-    { pagePropertySlug: "eso-collection-index", required: true, many: false },
+-    { pagePropertySlug: "books", required: true, many: false },
++    { pagePropertySlug: "number-property/eso-lore-category-id", required: true, many: false },
++    { pagePropertySlug: "number-property/eso-collection-index", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/books", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipes.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipes.page-property-entry.ts
+index 74182addb63e5cd2bd5030e4423dfe7e68361a66..cf2100be44919530b2165b7697ed05aa0dffcfc5 100644
+--- a/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipes.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/recipe-lists/properties/recipes.page-property-entry.ts
+@@ -9,8 +9,8 @@ export const recipes = {
+   propertySlug: "recipes",
+   definition: "the recipes a list covers, one recipe to a line",
+   properties: [
+-    { pagePropertySlug: "recipe-item-id", required: true, many: false },
+-    { pagePropertySlug: "recipe-name", required: true, many: false },
++    { pagePropertySlug: "number-property/recipe-item-id", required: true, many: false },
++    { pagePropertySlug: "text-property/recipe-name", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-pursuits/recipe-lists/temper-recipe-list.page-type.ts b/temper/temper-catalog/temper-pursuits/recipe-lists/temper-recipe-list.page-type.ts
+index b54dff4f9feb8bb08f7f0fe3763b16503e9c0605..bb796a81daf05b2eb5e0cbb1aa66d20609c08a03 100644
+--- a/temper/temper-catalog/temper-pursuits/recipe-lists/temper-recipe-list.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/recipe-lists/temper-recipe-list.page-type.ts
+@@ -19,7 +19,7 @@ export const temperRecipeList = {
+     "text-property/recipe-name",
+   ],
+   properties: [
+-    { pagePropertySlug: "display-order", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+     { pagePropertySlug: "page-property-entry/recipes", required: true, many: false },
+   ],
+   invariants: [
+diff --git a/temper/temper-catalog/temper-pursuits/research-lines/properties/traits.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/research-lines/properties/traits.page-property-entry.ts
+index 225dbaadfb64cc9cff7d28cb233bb77610763f03..b1821e947d72cba718b9cfb3791b8851b8bd6699 100644
+--- a/temper/temper-catalog/temper-pursuits/research-lines/properties/traits.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/research-lines/properties/traits.page-property-entry.ts
+@@ -9,8 +9,8 @@ export const traits = {
+   propertySlug: "traits",
+   definition: "the traits a research line covers, one trait to a line",
+   properties: [
+-    { pagePropertySlug: "trait-index", required: true, many: false },
+-    { pagePropertySlug: "trait-name", required: true, many: false },
++    { pagePropertySlug: "number-property/trait-index", required: true, many: false },
++    { pagePropertySlug: "text-property/trait-name", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-pursuits/research-lines/temper-research-line.page-type.ts b/temper/temper-catalog/temper-pursuits/research-lines/temper-research-line.page-type.ts
+index 89e49446f75a774e06962744f13e875e609e543c..8954f8e00def9990a5a1ace0da1957e097e6eeb9 100644
+--- a/temper/temper-catalog/temper-pursuits/research-lines/temper-research-line.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/research-lines/temper-research-line.page-type.ts
+@@ -19,9 +19,9 @@ export const temperResearchLine = {
+     "text-property/trait-name",
+   ],
+   properties: [
+-    { pagePropertySlug: "parent", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "traits", required: true, many: false },
++    { pagePropertySlug: "text-property/parent", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/traits", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-pursuits/temper-pursuit-things/temper-pursuit-thing.page-type.ts b/temper/temper-catalog/temper-pursuits/temper-pursuit-things/temper-pursuit-thing.page-type.ts
+index 947a922cc39b48cf9dca98ddb89f897cfbb7b841..06d0d39da195fa0baad68a17bb560d3da62741ff 100644
+--- a/temper/temper-catalog/temper-pursuits/temper-pursuit-things/temper-pursuit-thing.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/temper-pursuit-things/temper-pursuit-thing.page-type.ts
+@@ -14,7 +14,9 @@ export const temperPursuitThing = {
+   pluralSlug: "temper-pursuit-things",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   partSlugs: ["number-property/eso-collectible-id"],
+-  properties: [{ pagePropertySlug: "eso-collectible-id", required: false, many: false }],
++  properties: [
++    { pagePropertySlug: "number-property/eso-collectible-id", required: false, many: false },
++  ],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-catalog/temper-pursuits/tribute-patrons/properties/cards.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/tribute-patrons/properties/cards.page-property-entry.ts
+index 6e6726a302e165ef1b15ed17fb7bae063e12bbe9..d1c585243a66045e5dda23d60bcce99d2bc7ad85 100644
+--- a/temper/temper-catalog/temper-pursuits/tribute-patrons/properties/cards.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/tribute-patrons/properties/cards.page-property-entry.ts
+@@ -9,9 +9,9 @@ export const cards = {
+   propertySlug: "cards",
+   definition: "the cards a patron hands out, one card to a line",
+   properties: [
+-    { pagePropertySlug: "card-index", required: true, many: false },
+-    { pagePropertySlug: "base-card-name", required: true, many: false },
+-    { pagePropertySlug: "upgrade-card-name", required: true, many: false },
++    { pagePropertySlug: "number-property/card-index", required: true, many: false },
++    { pagePropertySlug: "text-property/base-card-name", required: true, many: false },
++    { pagePropertySlug: "text-property/upgrade-card-name", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-pursuits/tribute-patrons/temper-tribute-patron.page-type.ts b/temper/temper-catalog/temper-pursuits/tribute-patrons/temper-tribute-patron.page-type.ts
+index a78ca0a1f93cb92906b883e58766860654de9d15..6a0dc86fefe105785a9c6162c3dbcafd45e32748 100644
+--- a/temper/temper-catalog/temper-pursuits/tribute-patrons/temper-tribute-patron.page-type.ts
++++ b/temper/temper-catalog/temper-pursuits/tribute-patrons/temper-tribute-patron.page-type.ts
+@@ -23,10 +23,10 @@ export const temperTributePatron = {
+     "text-property/upgrade-card-name",
+   ],
+   properties: [
+-    { pagePropertySlug: "category", required: true, many: false },
+-    { pagePropertySlug: "eso-patron-id", required: true, many: false },
+-    { pagePropertySlug: "eso-collectible-id", required: true, many: false },
+-    { pagePropertySlug: "cards", required: true, many: false },
++    { pagePropertySlug: "text-property/category", required: true, many: false },
++    { pagePropertySlug: "number-property/eso-patron-id", required: true, many: false },
++    { pagePropertySlug: "number-property/eso-collectible-id", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/cards", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-skills/classes/temper-class.page-type.ts b/temper/temper-catalog/temper-skills/classes/temper-class.page-type.ts
+index bdb170ef5ed388fc1d07371e67d5b91a000bb24d..7d4e65069aa0028b7ddc0fa71b3e5980d821c4c9 100644
+--- a/temper/temper-catalog/temper-skills/classes/temper-class.page-type.ts
++++ b/temper/temper-catalog/temper-skills/classes/temper-class.page-type.ts
+@@ -15,7 +15,7 @@ export const temperClass = {
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   partSlugs: ["number-property/eso-class-id"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "eso-class-id", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "number-property/eso-class-id", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-skills/grimoires/temper-grimoire.page-type.ts b/temper/temper-catalog/temper-skills/grimoires/temper-grimoire.page-type.ts
+index 977778eab5903faf6882a4925617bcbc49754de3..dd21c54b88fa0a3b39bed0be01d2196ec12be3e2 100644
+--- a/temper/temper-catalog/temper-skills/grimoires/temper-grimoire.page-type.ts
++++ b/temper/temper-catalog/temper-skills/grimoires/temper-grimoire.page-type.ts
+@@ -28,11 +28,11 @@ export const temperGrimoire = {
+     "text-property/script-id",
+   ],
+   properties: [
+-    { pagePropertySlug: "icon", required: true, many: false },
+-    { pagePropertySlug: "ability-icon", required: true, many: false },
+-    { pagePropertySlug: "skill-line-id", required: true, many: false },
+-    { pagePropertySlug: "focus-scripts", required: true, many: true, max: null },
+-    { pagePropertySlug: "affix-scripts", required: true, many: false },
+-    { pagePropertySlug: "signature-scripts", required: true, many: false },
++    { pagePropertySlug: "text-property/icon", required: true, many: false },
++    { pagePropertySlug: "text-property/ability-icon", required: true, many: false },
++    { pagePropertySlug: "text-property/skill-line-id", required: true, many: false },
++    { pagePropertySlug: "text-property/focus-scripts", required: true, many: true, max: null },
++    { pagePropertySlug: "page-property-entry/affix-scripts", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/signature-scripts", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-skills/properties/affix-scripts.page-property-entry.ts b/temper/temper-catalog/temper-skills/properties/affix-scripts.page-property-entry.ts
+index 744af7cc6cbb4ab669839b1ec09712c5f04d4a26..b05a4715fb5bb9e5c28c0438ebcf2e2b9bd0138b 100644
+--- a/temper/temper-catalog/temper-skills/properties/affix-scripts.page-property-entry.ts
++++ b/temper/temper-catalog/temper-skills/properties/affix-scripts.page-property-entry.ts
+@@ -9,8 +9,8 @@ export const affixScripts = {
+   propertySlug: "affix-scripts",
+   definition: "the affix scripts a grimoire takes, one to a line",
+   properties: [
+-    { pagePropertySlug: "script-id", required: true, many: false },
+-    { pagePropertySlug: "class-id", required: false, many: false },
+-    { pagePropertySlug: "description", required: true, many: false },
++    { pagePropertySlug: "text-property/script-id", required: true, many: false },
++    { pagePropertySlug: "text-property/class-id", required: false, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
+   ],
+ } as const satisfies PagePropertyEntry
+diff --git a/temper/temper-catalog/temper-skills/properties/signature-scripts.page-property-entry.ts b/temper/temper-catalog/temper-skills/properties/signature-scripts.page-property-entry.ts
+index 4dbfa70475ccdd65ac6c047e6ae8c0c289ff9d76..09a95077f850a3277cb8e0fb7a340cfc380a3971 100644
+--- a/temper/temper-catalog/temper-skills/properties/signature-scripts.page-property-entry.ts
++++ b/temper/temper-catalog/temper-skills/properties/signature-scripts.page-property-entry.ts
+@@ -9,8 +9,8 @@ export const signatureScripts = {
+   propertySlug: "signature-scripts",
+   definition: "the signature scripts a grimoire takes, one to a line",
+   properties: [
+-    { pagePropertySlug: "script-id", required: true, many: false },
+-    { pagePropertySlug: "class-id", required: false, many: false },
+-    { pagePropertySlug: "description", required: true, many: false },
++    { pagePropertySlug: "text-property/script-id", required: true, many: false },
++    { pagePropertySlug: "text-property/class-id", required: false, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
+   ],
+ } as const satisfies PagePropertyEntry
+diff --git a/temper/temper-catalog/temper-skills/properties/tier-achievements.page-property-entry.ts b/temper/temper-catalog/temper-skills/properties/tier-achievements.page-property-entry.ts
+index dd8224123af18a1e98fb06b6c61247064c3a2093..7ddfaa7791cfed0fa0557e58a73c9c39830d3b0e 100644
+--- a/temper/temper-catalog/temper-skills/properties/tier-achievements.page-property-entry.ts
++++ b/temper/temper-catalog/temper-skills/properties/tier-achievements.page-property-entry.ts
+@@ -9,7 +9,7 @@ export const tierAchievements = {
+   propertySlug: "tier-achievements",
+   definition: "the achievements a scribing source's tiers are counted by, one to a line",
+   properties: [
+-    { pagePropertySlug: "achievement-name", required: true, many: false },
+-    { pagePropertySlug: "achievement-id", required: true, many: false },
++    { pagePropertySlug: "text-property/achievement-name", required: true, many: false },
++    { pagePropertySlug: "number-property/achievement-id", required: true, many: false },
+   ],
+ } as const satisfies PagePropertyEntry
+diff --git a/temper/temper-catalog/temper-skills/scribed-skills/temper-scribed-skill.page-type.ts b/temper/temper-catalog/temper-skills/scribed-skills/temper-scribed-skill.page-type.ts
+index 8528b4c56f452871ddcc29fe4365a71ab6d6aa59..100a0d96e91b5f50723116a40d9f6367bad3bd6c 100644
+--- a/temper/temper-catalog/temper-skills/scribed-skills/temper-scribed-skill.page-type.ts
++++ b/temper/temper-catalog/temper-skills/scribed-skills/temper-scribed-skill.page-type.ts
+@@ -17,8 +17,8 @@ export const temperScribedSkill = {
+   extendsSlug: ["page-type/temper-skill"],
+   partSlugs: ["text-property/focus-script-id", "text-property/grimoire-id"],
+   properties: [
+-    { pagePropertySlug: "icon", required: true, many: false },
+-    { pagePropertySlug: "focus-script-id", required: true, many: false },
+-    { pagePropertySlug: "grimoire-id", required: true, many: false },
++    { pagePropertySlug: "text-property/icon", required: true, many: false },
++    { pagePropertySlug: "text-property/focus-script-id", required: true, many: false },
++    { pagePropertySlug: "text-property/grimoire-id", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-skills/scribing-sources/temper-scribing-source.page-type.ts b/temper/temper-catalog/temper-skills/scribing-sources/temper-scribing-source.page-type.ts
+index 311c8c8688ec10468f5b04d66c17b0b3c31f58ee..51e94c645b2f6878717c34da804ea7df467efc7e 100644
+--- a/temper/temper-catalog/temper-skills/scribing-sources/temper-scribing-source.page-type.ts
++++ b/temper/temper-catalog/temper-skills/scribing-sources/temper-scribing-source.page-type.ts
+@@ -24,9 +24,9 @@ export const temperScribingSource = {
+     "text-property/zone-slugs",
+   ],
+   properties: [
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "script-type", required: true, many: false },
+-    { pagePropertySlug: "tier-achievements", required: true, many: false },
+-    { pagePropertySlug: "zone-slugs", required: true, many: true, max: null },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    { pagePropertySlug: "text-property/script-type", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/tier-achievements", required: true, many: false },
++    { pagePropertySlug: "text-property/zone-slugs", required: true, many: true, max: null },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-skills/scribing-things/temper-scribing-thing.page-type.ts b/temper/temper-catalog/temper-skills/scribing-things/temper-scribing-thing.page-type.ts
+index 86bd06655966208d621760a50ead51e959f36266..09559dab0a969a6732eff1639ee89a2347e9792b 100644
+--- a/temper/temper-catalog/temper-skills/scribing-things/temper-scribing-thing.page-type.ts
++++ b/temper/temper-catalog/temper-skills/scribing-things/temper-scribing-thing.page-type.ts
+@@ -15,8 +15,8 @@ export const temperScribingThing = {
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   partSlugs: ["number-property/uesp-id"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "item-id", required: true, many: false },
+-    { pagePropertySlug: "uesp-id", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "number-property/item-id", required: true, many: false },
++    { pagePropertySlug: "number-property/uesp-id", required: true, many: false },
+   ],
+ } as const satisfies PageType
