@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.ts b/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.ts
-index 642cc5907384974b919753c66e07dbd69583e2a8..986b3ef12495d273f43eb620c85d7a440b4c45c3 100644
+index 642cc5907384974b919753c66e07dbd69583e2a8..e2ef074b6b610e6d58db4b62c73a07e841e536ae 100644
 --- a/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.ts
 +++ b/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.ts
 @@ -11,12 +11,15 @@ export const supervisorIdleDecide = {
@@ -18,6 +18,15 @@ index 642cc5907384974b919753c66e07dbd69583e2a8..986b3ef12495d273f43eb620c85d7a44
 +    {
 +      invariantKind: "departure",
 +      statement: "A seat holding a count that was not read is not idle.",
+     },
+     {
+       invariantKind: "departure",
+@@ -30,7 +33,7 @@ export const supervisorIdleDecide = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A busy reason names each count that is not zero and says `unread` for one never read.",
++        "A busy reason names each count that is not zero and says `unread` for a count never read.",
      },
      {
        invariantKind: "departure",
