@@ -1,0 +1,18 @@
+diff --git a/git/git-pathspec/git-pathspec.module.ts b/git/git-pathspec/git-pathspec.module.ts
+index 1a2298bce9e165b2351e167008680dcd85d1673f..be095ba9bf67884d6ee36c1b1463feda2212c979 100644
+--- a/git/git-pathspec/git-pathspec.module.ts
++++ b/git/git-pathspec/git-pathspec.module.ts
+@@ -14,8 +14,11 @@ export const gitPathspec = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A writing command over the ceiling passes its paths on stdin, so one command still makes one change.",
++      statement: "A writing command over the ceiling passes its paths on stdin.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One command still makes one change.",
+     },
+     {
+       invariantKind: "departure",
