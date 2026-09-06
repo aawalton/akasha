@@ -1,0 +1,13 @@
+diff --git a/person-system/people/email/email.domain.ts b/person-system/people/email/email.domain.ts
+index 8361a36791233670dbe5be467d5f0fe544eb2d30..17e304f7c7d5940dd8ca35ff2ec2f7003fde9a86 100644
+--- a/person-system/people/email/email.domain.ts
++++ b/person-system/people/email/email.domain.ts
+@@ -11,8 +11,6 @@ export const email = {
+     "domain/email-rule-match",
+     "page-type/email-message",
+     "page-type/email-rule",
+-    "page-type/email-rule-agent",
+-    "page-type/email-rule-code",
+     "page-type/gmail-mailbox",
+   ],
+ } as const satisfies Domain
