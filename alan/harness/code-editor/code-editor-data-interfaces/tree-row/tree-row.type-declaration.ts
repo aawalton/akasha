@@ -13,7 +13,11 @@ export const treeRow = {
     },
     {
       invariantKind: "departure",
-      statement: "A tree names its own row type, which takes these fields and adds its own.",
+      statement: "A tree names its own row type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A tree's own row type takes these fields and adds its own fields.",
     },
     {
       invariantKind: "departure",
@@ -25,11 +29,19 @@ export const treeRow = {
     },
     {
       invariantKind: "departure",
-      statement: "A path is whole, the service knowing the checkout the editor does not join.",
+      statement: "A path is whole.",
     },
     {
       invariantKind: "departure",
-      statement: "A color is the name of one, the editor holding the color each name is drawn as.",
+      statement: "The service knows the checkout the editor does not join.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A color is a name rather than a value.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The editor holds the color each name is drawn as.",
     },
   ],
 } as const satisfies TypeDeclaration
