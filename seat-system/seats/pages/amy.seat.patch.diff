@@ -1,0 +1,16 @@
+diff --git a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts b/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
+index 080fc45da72e47632e58c1aea73dbd49851024b9..88d28d8a911341f74acdd1d1f269e2d018bda522 100644
+--- a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
++++ b/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
+@@ -6,4 +6,11 @@ export const amyAlanHarnessImprovements = {
+   slug: "amy-alan-harness-improvements",
+   domainSlug: "domain/alan-harness",
+   personaSlug: "amy",
++  intents: [
++    {
++      statement: "The Safety widget shows its number whatever that number is.",
++      workingMemory:
++        "Alan's version and Jenny's version both. The number is hidden at 4 and above today. Where the stoplight is drawn among other stoplights in a readout group it goes on hiding the number, so the two drawings differ in this and the rule belongs to the widget rather than to the stoplight.",
++    },
++  ],
+ } as const satisfies Initiative
