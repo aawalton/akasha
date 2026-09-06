@@ -1,13 +1,21 @@
-readersOweReading: false
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
-index dacc0ce54dd335a8f8457b6569ffcf09462c6307..fefa961fefd40c310e17dab2146ae3aa64eaf9e6 100644
+index dacc0ce54dd335a8f8457b6569ffcf09462c6307..a35b11f99701990d94c82f7eaa83fc8ea59b60ee 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
-@@ -14,7 +14,8 @@ export const stateReading = {
+@@ -10,11 +10,16 @@ export const stateReading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The folder is watched rather than the file, a write replacing the file itself.",
++      statement: "The folder is watched rather than the file.",
      },
      {
        invariantKind: "departure",
 -      statement: "One watcher serves every part of the editor rather than one watcher each.",
++      statement: "A write replaces the file itself.",
++    },
++    {
++      invariantKind: "departure",
 +      statement:
 +        "One watcher serves every part of the editor rather than one watcher for each part.",
      },
