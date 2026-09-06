@@ -35,7 +35,8 @@ export const propertyIsDeclaredByAType = {
     },
     {
       invariantKind: "departure",
-      statement: "A one of declares its members the same way a page type declares its properties.",
+      statement:
+        "`one-of-property` declares its members the same way a page type declares its properties.",
     },
     {
       invariantKind: "departure",
@@ -87,7 +88,7 @@ export const propertyIsDeclaredByAType = {
     },
     {
       invariantKind: "absence",
-      statement: "`relation-resolves` refuses one that does not.",
+      statement: "`relation-resolves` refuses a declared property that has no page.",
     },
     {
       invariantKind: "absence",
@@ -95,7 +96,7 @@ export const propertyIsDeclaredByAType = {
     },
     {
       invariantKind: "constraint",
-      statement: "A property is declared by slug alone.",
+      statement: "A property is declared by an address naming the page type that property is.",
     },
   ],
 } as const satisfies CodeCheck
