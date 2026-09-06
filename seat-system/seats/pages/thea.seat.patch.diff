@@ -1,0 +1,35 @@
+diff --git a/alan/atlas-web/pins/pins.module.code.ts b/alan/atlas-web/pins/pins.module.code.ts
+index efc67b62a40611aa5862809c8bffa45bab1356a3..12f7fba638b23e58a4fb99260c462b58e6afa0e3 100644
+--- a/alan/atlas-web/pins/pins.module.code.ts
++++ b/alan/atlas-web/pins/pins.module.code.ts
+@@ -8,8 +8,8 @@ export const LocationPinSchema = z.object({
+   latitude: z.number().min(-90).max(90),
+   longitude: z.number().min(-180).max(180),
+   address: z.string().optional(),
+-  scheduledStart: z.string().optional(),
+-  scheduledEnd: z.string().optional(),
++  scheduledStartAt: z.string().optional(),
++  scheduledEndAt: z.string().optional(),
+   colorToken: z.string().optional(),
+ })
+ 
+@@ -28,13 +28,13 @@ export function toPins(rows: readonly Page[]): readonly LocationPin[] {
+       latitude,
+       longitude,
+       address: typeof row.address === "string" && row.address.length > 0 ? row.address : undefined,
+-      scheduledStart:
+-        typeof row.scheduledStart === "string" && row.scheduledStart.length > 0
+-          ? row.scheduledStart
++      scheduledStartAt:
++        typeof row.scheduledStartAt === "string" && row.scheduledStartAt.length > 0
++          ? row.scheduledStartAt
+           : undefined,
+-      scheduledEnd:
+-        typeof row.scheduledEnd === "string" && row.scheduledEnd.length > 0
+-          ? row.scheduledEnd
++      scheduledEndAt:
++        typeof row.scheduledEndAt === "string" && row.scheduledEndAt.length > 0
++          ? row.scheduledEndAt
+           : undefined,
+     }
+     const parsed = LocationPinSchema.safeParse(candidate)
