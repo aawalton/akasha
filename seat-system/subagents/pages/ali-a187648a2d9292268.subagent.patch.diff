@@ -1,0 +1,123 @@
+diff --git a/alan/library/book-of-everything/commands/book-of-everything-commands.workspace-package.ts b/alan/library/book-of-everything/commands/book-of-everything-commands.workspace-package.ts
+index 99309d4262e277f5571d747d885d3c7299d1da7d..0ff6ff25b1d9585ecac2ca5aacef2165eaf547a7 100644
+--- a/alan/library/book-of-everything/commands/book-of-everything-commands.workspace-package.ts
++++ b/alan/library/book-of-everything/commands/book-of-everything-commands.workspace-package.ts
+@@ -11,6 +11,7 @@ export const bookOfEverythingCommands = {
+     "command/ali-next-unscored",
+     "command/ali-random-leaf",
+     "command/learn-next",
++    "command/measure-learning",
+   ],
+   invariants: [
+     {
+diff --git a/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.code.ts b/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..01b33cc9845f1dcf8757fdc46309c90e4b04c12f
+--- /dev/null
++++ b/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.code.ts
+@@ -0,0 +1,50 @@
++import { type Topic, topicTreeIn } from "@akasha/book-of-everything/topic-tree"
++import type { Answer, Given } from "@akasha/command-system/calling"
++import { refused } from "@akasha/command-system/calling"
++
++const INPUT = 1
++
++const DATA = 2
++
++const JSON_SAID = "--json"
++
++const SCALE = 7
++
++const PLACES = 2
++
++export type Reading = {
++  readonly title: string
++  readonly coverage: number
++}
++
++export function readingOf(topic: Topic): Reading {
++  return { title: topic.title, coverage: Number(topic.coverage.toFixed(PLACES)) }
++}
++
++export function saidOf(parts: readonly Reading[], whole: Reading): readonly string[] {
++  const lines: string[] = ["| Part | Coverage |", "| --- | --- |"]
++  for (const one of [...parts, whole]) {
++    lines.push(`| ${one.title} | ${one.coverage.toFixed(PLACES)} of ${SCALE} |`)
++  }
++  return lines
++}
++
++export function measureLearning(argv: readonly string[], given: Given): Answer {
++  const stray = argv.find((one) => one !== JSON_SAID)
++  if (stray !== undefined) return refused(`\`${stray}\` is nothing this takes`, INPUT)
++  let tree: Topic
++  try {
++    tree = topicTreeIn(given.root)
++  } catch (thrown) {
++    return refused(thrown instanceof Error ? thrown.message : String(thrown), DATA)
++  }
++  const parts = tree.children.map(readingOf)
++  const whole = readingOf(tree)
++  return {
++    report: argv.includes(JSON_SAID)
++      ? [JSON.stringify({ scale: SCALE, parts, whole })]
++      : [...saidOf(parts, whole)],
++    refusals: [],
++    code: 0,
++  }
++}
+diff --git a/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.ts b/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..381cf63e50264e3288738426ecc7a024a005a3bf
+--- /dev/null
++++ b/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.ts
+@@ -0,0 +1,49 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const measureLearning = {
++  id: "01a077fb-4ca8-7027-80b1-85c446d6786a",
++  pageTypeSlug: "command",
++  slug: "measure-learning",
++  definition:
++    "how far through the Book of Everything Alan has got, part by part and over the whole",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    {
++      said: "--json",
++      takes: "give the reading as one line of JSON rather than as a table",
++    },
++  ],
++  helpNotes: [
++    "a reading runs from nought to seven rather than from nought to a hundred.",
++    "a part's reading is folded up out of the topics beneath that part rather than kept on its own page.",
++    "the parts come in the order the book puts them in rather than in the order the readings sort.",
++    "the last row is the whole book rather than a part of it.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A reading runs from nought to seven.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A reading is read off the tree rather than folded again here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The rows come in the order the book puts its parts in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The last row is the whole book rather than a part.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A row is one part of the book rather than one topic beneath a part.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes a page.",
++    },
++  ],
++} as const satisfies Command
