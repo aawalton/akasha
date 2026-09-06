@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/agents/models/gateway/modules/committed-outcome/committed-outcome.module.ts b/agents/models/gateway/modules/committed-outcome/committed-outcome.module.ts
+index 57fd0c83895f2b5a43cb500617c99fdd2598e5a5..d71d56857841ff38d12ce20935fe974e42e34414 100644
+--- a/agents/models/gateway/modules/committed-outcome/committed-outcome.module.ts
++++ b/agents/models/gateway/modules/committed-outcome/committed-outcome.module.ts
+@@ -74,7 +74,7 @@ export const committedOutcome = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here sees more of a response than its status.",
++      statement: "Nothing here sees a response beyond its status.",
+     },
+   ],
+ } as const satisfies Module
