@@ -15,7 +15,7 @@ export const sessionSelection = {
     },
     {
       invariantKind: "departure",
-      statement: "A movement fills at most one slot of a session.",
+      statement: "A movement never fills two slots of one session.",
     },
     {
       invariantKind: "departure",
