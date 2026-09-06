@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-catalog/temper-pursuits/research-lines/properties/traits.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/research-lines/properties/traits.page-property-entry.ts
+index b1821e947d72cba718b9cfb3791b8851b8bd6699..2683f6cbcc395d42a9d8e7100e4202f4a65d5ea5 100644
+--- a/temper/temper-catalog/temper-pursuits/research-lines/properties/traits.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/research-lines/properties/traits.page-property-entry.ts
+@@ -15,7 +15,7 @@ export const traits = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A trait here is one a player researches on the item a line names.",
++      statement: "A trait here is a trait a player researches on the item a line names.",
+     },
+   ],
+ } as const satisfies PagePropertyEntry
