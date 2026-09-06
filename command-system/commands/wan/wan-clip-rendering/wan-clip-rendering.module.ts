@@ -23,7 +23,7 @@ export const wanClipRendering = {
     },
     {
       invariantKind: "departure",
-      statement: "An extend's whole length is four times a whole number plus one.",
+      statement: "An extend's whole length is a frame past four times a whole number.",
     },
     {
       invariantKind: "departure",
