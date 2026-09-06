@@ -1,0 +1,44 @@
+diff --git a/pages/indexes/answering/index-answering.module.code.ts b/pages/indexes/answering/index-answering.module.code.ts
+index 82376939c24a2de51ec5d78c7205dfddd3ce0a16..176be9c1a581ad5f9208e86845ab235ebe17535c 100644
+--- a/pages/indexes/answering/index-answering.module.code.ts
++++ b/pages/indexes/answering/index-answering.module.code.ts
+@@ -31,6 +31,8 @@ import { knownIn, type Shaped } from "../reaching/reaching.module.code.ts"
+ import {
+   everyOfType,
+   everyPath,
++  filesIn,
++  foldersIn,
+   idsNaming,
+   importersOf,
+   type Listed,
+diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
+index 1dbf0a62b85133bd46ad99ff171dd5c96e998a4a..9ac11579427a15f75d10ec6f69226e332f3c2f34 100644
+--- a/pages/indexes/reading/index-reading.module.code.ts
++++ b/pages/indexes/reading/index-reading.module.code.ts
+@@ -340,6 +340,26 @@ export function everyPath(given: string | Reading): readonly string[] {
+   )
+ }
+ 
++export function filesIn(given: string | Reading, folder: string): readonly string[] {
++  return answered(given, ROOT, `which files sit in \`${folder}\``, (reading) =>
++    reading
++      .listing(join(PATH, folder))
++      .filter((one) => !one.directory && one.name.endsWith(ENDING))
++      .map((one) => beneath(folder, one.name.slice(0, -ENDING.length)))
++      .sort()
++  )
++}
++
++export function foldersIn(given: string | Reading, folder: string): readonly string[] {
++  return answered(given, ROOT, `which folders sit in \`${folder}\``, (reading) =>
++    reading
++      .listing(join(PATH, folder))
++      .filter((one) => one.directory)
++      .map((one) => beneath(folder, one.name))
++      .sort()
++  )
++}
++
+ function slugOf(standing: Listed | null, id: string): string | null {
+   if (standing === null) return null
+   const said = partedIn(standing.path)
