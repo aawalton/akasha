@@ -24,3 +24,26 @@ index 25ba6289176f4eec57a0c2b64d9f40c9c69a0610..c1fc354ce8226317c2bdda29ab035e22
      },
      {
        invariantKind: "departure",
+diff --git a/persona-system/personas/properties/appearance.file-property.ts b/persona-system/personas/properties/appearance.file-property.ts
+index ffba692f58e834b96b9cb03e78df0f8af5d9ac37..d03f8e44895ae54642db86576b724063009d6eee 100644
+--- a/persona-system/personas/properties/appearance.file-property.ts
++++ b/persona-system/personas/properties/appearance.file-property.ts
+@@ -17,12 +17,15 @@ export const appearance = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A persona whose portrait already describes her still keeps this property apart from it.",
++        "A portrait that already describes a persona does not take the place of this property.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Two personas may look alike in their pictures; those personas may never sound alike in their words.",
++      statement: "Two personas may look alike in their pictures.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Two personas may never sound alike in their words.",
+     },
+     {
+       invariantKind: "upkeep",
