@@ -13,7 +13,7 @@ export const completionNamedShape = {
     },
     {
       invariantKind: "constraint",
-      statement: "A completion record is stored in a fuller shape or in a terser one.",
+      statement: "A completion record is stored in a fuller shape or in a terser shape.",
     },
   ],
 } as const satisfies Module
