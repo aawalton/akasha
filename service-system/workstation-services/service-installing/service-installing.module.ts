@@ -35,7 +35,7 @@ export const serviceInstalling = {
     },
     {
       invariantKind: "departure",
-      statement: "systemd is reloaded after the units are written and before any is enabled.",
+      statement: "systemd is reloaded after the units are written and before any unit is enabled.",
     },
     {
       invariantKind: "departure",
