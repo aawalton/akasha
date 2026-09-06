@@ -1,0 +1,13 @@
+diff --git a/checks/cluster-checks/modules/file-finding/file-finding.module.ts b/checks/cluster-checks/modules/file-finding/file-finding.module.ts
+index 2ef7a835cdef890f0e8b3cd8aba65702820f9601..876d2aa5de0894a0a12c22b0b63aa2bd2b40b339 100644
+--- a/checks/cluster-checks/modules/file-finding/file-finding.module.ts
++++ b/checks/cluster-checks/modules/file-finding/file-finding.module.ts
+@@ -9,7 +9,7 @@ export const fileFinding = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A path is left out where any one of its segments is a folder left out.",
++      statement: "A path is left out where a single segment is a folder left out.",
+     },
+     {
+       invariantKind: "departure",
