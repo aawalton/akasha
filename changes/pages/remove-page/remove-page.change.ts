@@ -40,7 +40,7 @@ export const removePage = {
     },
     {
       invariantKind: "departure",
-      statement: "Every index question here is asked of the shadow the caller hands in.",
+      statement: "Every index question here is asked of the world the caller hands in.",
     },
     {
       invariantKind: "absence",
@@ -52,7 +52,15 @@ export const removePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the shadow names no page at is refused.",
+      statement: "A path the world names no page at is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The guards named here run over the answer before that answer comes back.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A guard refusing refuses the removal.",
     },
     {
       invariantKind: "departure",
@@ -60,7 +68,7 @@ export const removePage = {
     },
     {
       invariantKind: "departure",
-      statement: "The parent naming the page in `part-slugs` is answered from that same shadow.",
+      statement: "The parent naming the page in `part-slugs` is answered from that same world.",
     },
     {
       invariantKind: "gap",
@@ -75,12 +83,8 @@ export const removePage = {
       statement: "`remove-property-value` is the change that will drop the parent's entry here.",
     },
     {
-      invariantKind: "absence",
-      statement: "Nothing here judges whether a page may go.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A guard the change names judges whether a page may go.",
+      invariantKind: "gap",
+      statement: "The guards named here are imported rather than reached through `guard-slugs`.",
     },
   ],
 } as const satisfies Change

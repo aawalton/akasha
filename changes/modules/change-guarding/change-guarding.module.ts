@@ -19,11 +19,19 @@ export const changeGuarding = {
     },
     {
       invariantKind: "departure",
-      statement: "A guard is handed the root that answer was worked out against.",
+      statement: "A guard is handed the world the change read before that change answered.",
     },
     {
       invariantKind: "departure",
       statement: "The index that answer leaves names no page that answer takes away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page taken away is found in the world the change read before answering.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No guard reads the index on disk.",
     },
     {
       invariantKind: "departure",
@@ -48,6 +56,10 @@ export const changeGuarding = {
     {
       invariantKind: "departure",
       statement: "No guard runs after a guard refuses.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The index that answer leaves is worked out over that answer alone.",
     },
   ],
 } as const satisfies Module

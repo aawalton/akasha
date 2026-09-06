@@ -1,7 +1,6 @@
 import type { Named } from "@akasha/indexes"
 import type { Known } from "@akasha/indexes/reaching"
 import { pageNamed, partedIn } from "@akasha/pages/page-file-name"
-import { shadowAt } from "@akasha/pages/shadow"
 import {
   takingIn,
   unreadable,
@@ -24,12 +23,11 @@ function hangingIn(given: Guarding, taken: readonly string[]): string | null {
   const index = given.shadow.index
   const pageTypes = index.pageTypesIn()
   const known = index.knownIn()
-  const committed = shadowAt(given.root).index
   for (const path of taken) {
     if (!pageNamed(path, pageTypes)) continue
     const own = partedIn(path)?.pageType
     if (own === undefined || known.mortal(own)) continue
-    for (const one of committed.listedByPath(path)) {
+    for (const one of given.before.index.listedByPath(path)) {
       const namer = namerIn(given, one.id, known)
       if (namer !== undefined) return hangingOn(path, namer)
     }

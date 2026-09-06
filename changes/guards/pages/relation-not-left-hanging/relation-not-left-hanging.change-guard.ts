@@ -10,7 +10,7 @@ export const relationNotLeftHanging = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The page an answer takes away is found by path in the index at the root.",
+      statement: "The page an answer takes away is found by path in the world before the change.",
     },
     {
       invariantKind: "departure",
@@ -54,7 +54,7 @@ export const relationNotLeftHanging = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads the working tree.",
+      statement: "Nothing here reads the working tree or the index on disk.",
     },
   ],
 } as const satisfies ChangeGuard

@@ -22,6 +22,7 @@ import {
   guardedBy,
   NOT_READ,
 } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { relationNotLeftHanging } from "./relation-not-left-hanging.change-guard.code.ts"
 
 afterAll(scratch.sweep)
@@ -64,7 +65,7 @@ function brokenRoot(): string {
 
 function takingAway(root: string, path: string): Answer {
   const was = textIn(root)(path) ?? ""
-  return guardedBy(root, answered([taking(path, was)]), GUARDS)
+  return guardedBy(worldAt(root, textIn(root)), answered([taking(path, was)]), GUARDS)
 }
 
 test("a shadow that will not build refuses rather than answering no hanging relation", () => {
@@ -72,7 +73,7 @@ test("a shadow that will not build refuses rather than answering no hanging rela
 
   const took = [taking(HELD_PAGE, HELD_BODY), writing(APART_PAGE, null, APART_BODY)]
 
-  const said = guardedBy(root, answered(took), GUARDS)
+  const said = guardedBy(worldAt(root, textIn(root)), answered(took), GUARDS)
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(NOT_WORKED_OUT)
@@ -81,7 +82,11 @@ test("a shadow that will not build refuses rather than answering no hanging rela
 test("an index that will not read refuses rather than answering no hanging relation", () => {
   const root = scratch.rootFor("relation-no-index-")
 
-  const said = guardedBy(root, answered([taking(HELD_PAGE, HELD_BODY)]), GUARDS)
+  const said = guardedBy(
+    worldAt(root, textIn(root)),
+    answered([taking(HELD_PAGE, HELD_BODY)]),
+    GUARDS
+  )
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toContain(NOT_READ)

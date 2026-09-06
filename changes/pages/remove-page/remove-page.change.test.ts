@@ -2,26 +2,29 @@ import { afterAll, expect, test } from "bun:test"
 import {
   aProperty,
   bodyOf,
-  HELD_CODE,
   HELD_PAGE,
   idOf,
   indexedRepo,
+  NAMER_CODE,
   NAMER_PAGE,
   pageOf,
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { type Shadow, shadowAt } from "@akasha/pages/shadow"
 import { answered, taking } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
-import { shadowOver } from "../../modules/change-shadow/change-shadow.module.code.ts"
+import {
+  type World,
+  worldAt,
+  worldOver,
+} from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { parentsOf, removePage } from "./remove-page.change.code.ts"
 
 afterAll(scratch.sweep)
 
 const MISSING = "akasha/one/missing.module.ts"
 
-const NOTES = aProperty(idOf("d"), "notes", "file-property")
+const NOTES = aProperty(idOf("c"), "notes", "file-property")
 
 const KEPT_TYPE = "akasha/kept.page-type.ts"
 
@@ -29,8 +32,28 @@ const KEPT_PAGE = "akasha/kept/one.kept.ts"
 
 const KEPT_NOTES = "akasha/kept/one.kept.notes.uncommitted.jsonl"
 
+const SPARE_PAGE = "akasha/three/spare.module.ts"
+
+const SPARE_CODE = "akasha/three/spare.module.code.ts"
+
+const SPARE: Readonly<Record<string, string>> = {
+  [SPARE_PAGE]: pageOf({
+    id: idOf("d"),
+    pageTypeSlug: "module",
+    slug: "spare",
+    definition: "a page importing the page held",
+    code: "ts",
+  }),
+  [SPARE_CODE]: 'import { kept } from "../one/held.module.code.ts"\n\nexport const spare = kept\n',
+}
+
+function worldIn(root: string): World {
+  return worldAt(root, textIn(root))
+}
+
 function keptRepo(): string {
   return indexedRepo({
+    ...SPARE,
     [`akasha/${NOTES[0]}`]: bodyOf(NOTES[1]),
     [KEPT_TYPE]: bodyOf({
       id: idOf("e"),
@@ -56,76 +79,79 @@ function tookAway(root: string, path: string): Answer {
   return answered([taking(path, textIn(root)(path) ?? "")])
 }
 
-function shadowFrom(root: string, said: Answer): Shadow {
-  const cast = shadowOver(root, said)
-  if ("refused" in cast) throw new Error(cast.refused)
-  return cast.shadow
-}
-
 test("a page and the file beside that page are taken away together", () => {
-  const root = indexedRepo()
+  const root = indexedRepo(SPARE)
   const was = textIn(root)
 
-  const said = removePage(root, shadowAt(root), { at: HELD_PAGE }, was)
+  const said = removePage(worldIn(root), { at: NAMER_PAGE })
 
   expect(said.refused).toBe(null)
-  expect(said.edits.map((one) => one.path).sort()).toEqual([HELD_CODE, HELD_PAGE])
+  expect(said.edits.map((one) => one.path).sort()).toEqual([NAMER_CODE, NAMER_PAGE])
   for (const one of said.edits) {
     expect(one.body).toBe(null)
     expect(one.was).toBe(was(one.path))
   }
 })
 
-test("a path the shadow names no page at is refused", () => {
+test("a page another page still names is refused by the guards this change names", () => {
+  const root = indexedRepo(SPARE)
+
+  const said = removePage(worldIn(root), { at: HELD_PAGE })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toContain(`\`${HELD_PAGE}\` is taken away`)
+})
+
+test("a path the world names no page at is refused", () => {
   const root = indexedRepo()
 
-  const said = removePage(root, shadowAt(root), { at: MISSING }, textIn(root))
+  const said = removePage(worldIn(root), { at: MISSING })
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${MISSING}\` names no page, so no page is taken away`)
 })
 
 test("a page holding no body is refused by the removal of its own file", () => {
-  const root = indexedRepo()
+  const root = indexedRepo(SPARE)
   const was = textIn(root)
-  const reading = (path: string): string | null => (path === HELD_PAGE ? null : was(path))
+  const reading = (path: string): string | null => (path === NAMER_PAGE ? null : was(path))
 
-  const said = removePage(root, shadowAt(root), { at: HELD_PAGE }, reading)
+  const said = removePage(worldAt(root, reading), { at: NAMER_PAGE })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${HELD_PAGE}\` holds no body, so a removal takes nothing away`)
+  expect(said.refused).toBe(`\`${NAMER_PAGE}\` holds no body, so a removal takes nothing away`)
 })
 
 test("a file beside the page git does not track is taken away too", () => {
   const root = keptRepo()
 
-  const said = removePage(root, shadowAt(root), { at: KEPT_PAGE }, textIn(root))
+  const said = removePage(worldIn(root), { at: KEPT_PAGE })
 
   expect(said.refused).toBe(null)
   expect(said.edits.map((one) => one.path).sort()).toEqual([KEPT_NOTES, KEPT_PAGE])
 })
 
 test("a page an earlier change in the same answer took away is no page here", () => {
-  const root = indexedRepo()
-  const shadow = shadowFrom(root, tookAway(root, HELD_PAGE))
+  const root = indexedRepo(SPARE)
+  const world = worldOver(worldIn(root), tookAway(root, NAMER_PAGE))
 
-  const said = removePage(root, shadow, { at: HELD_PAGE }, textIn(root))
+  const said = removePage(world, { at: NAMER_PAGE })
 
   expect(said.edits).toEqual([])
-  expect(said.refused).toBe(`\`${HELD_PAGE}\` names no page, so no page is taken away`)
+  expect(said.refused).toBe(`\`${NAMER_PAGE}\` names no page, so no page is taken away`)
 })
 
-test("the parent naming the page in part-slugs is answered from the shadow", () => {
+test("the parent naming the page in part-slugs is answered from the world", () => {
   const root = indexedRepo()
 
-  expect(parentsOf(shadowAt(root), HELD_PAGE)).toEqual([
+  expect(parentsOf(worldIn(root), HELD_PAGE)).toEqual([
     { path: NAMER_PAGE, propertySlug: "part-slugs" },
   ])
 })
 
 test("a parent an earlier change in the same answer took away is answered no longer", () => {
   const root = indexedRepo()
-  const shadow = shadowFrom(root, tookAway(root, NAMER_PAGE))
+  const world = worldOver(worldIn(root), tookAway(root, NAMER_PAGE))
 
-  expect(parentsOf(shadow, HELD_PAGE)).toEqual([])
+  expect(parentsOf(world, HELD_PAGE)).toEqual([])
 })
