@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts b/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
-index 7c191ed94adb556b0ea9abb225500e508446bfb5..5ae5f807411211fb869f36a5c7962c067df950b1 100644
+index 7c191ed94adb556b0ea9abb225500e508446bfb5..55169e593513d8c17d048b6e166057638450f28f 100644
 --- a/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
 +++ b/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
 @@ -14,7 +14,8 @@ export const accountUpkeepRunning = {
@@ -12,7 +12,7 @@ index 7c191ed94adb556b0ea9abb225500e508446bfb5..5ae5f807411211fb869f36a5c7962c06
      },
      {
        invariantKind: "departure",
-@@ -52,7 +53,11 @@ export const accountUpkeepRunning = {
+@@ -52,12 +53,16 @@ export const accountUpkeepRunning = {
      },
      {
        invariantKind: "departure",
@@ -25,3 +25,9 @@ index 7c191ed94adb556b0ea9abb225500e508446bfb5..5ae5f807411211fb869f36a5c7962c06
      },
      {
        invariantKind: "absence",
+       statement:
+-        "Whether upkeep is still running is ruled on elsewhere, from the stamps upkeep leaves on each page.",
++        "Whether upkeep is still running is ruled on elsewhere from the stamps upkeep leaves on each page.",
+     },
+   ],
+ } as const satisfies Module
