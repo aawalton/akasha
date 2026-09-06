@@ -1,0 +1,39 @@
+diff --git a/alan/tracking/daily/topic-words/topic-words.module.code.ts b/alan/tracking/daily/topic-words/topic-words.module.code.ts
+index 52be85177c2a833dd30e69ee4972ad2435e27c42..b7456736f8dcc696213dd66ff3520200b6084497 100644
+--- a/alan/tracking/daily/topic-words/topic-words.module.code.ts
++++ b/alan/tracking/daily/topic-words/topic-words.module.code.ts
+@@ -1,4 +1,4 @@
+-import { getEsoDayWindow } from "@akasha/day/eso-day"
++import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
+ import { runGit } from "@akasha/git/git-answering"
+ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+ import {
+@@ -145,3 +145,28 @@ export function countWisdomWordsForDay(root: string, dayStr: string): Promise<Da
+ export function countIntelligenceWordsForDay(root: string, dayStr: string): Promise<DayWords> {
+   return countWordsForDay(root, dayStr, INTELLIGENCE_PATHSPEC)
+ }
++
++type Landing = readonly [string, () => Promise<{ outcome: WriteOutcome }>]
++
++if (import.meta.main) {
++  const day = getEsoDayStr(new Date())
++  // THE TWO COUNTS LAND ONE AFTER THE OTHER. Each patches the same day page, so counting them
++  // together would put two writes on one file, and the second would land against a body the first
++  // had already moved out from under it.
++  const landings: readonly Landing[] = [
++    ["wisdom words", () => rollupWisdomWordsForDay(day)],
++    ["intelligence words", () => rollupIntelligenceWordsForDay(day)],
++  ]
++  const landed: string[] = []
++  for (const [field, rollup] of landings) {
++    try {
++      const { outcome } = await rollup()
++      landed.push(`${field} ${outcome}`)
++    } catch (thrown) {
++      const why = thrown instanceof Error ? thrown.message : String(thrown)
++      process.stderr.write(`the ${field} for ${day} did not land: ${why}\n`)
++    }
++  }
++  if (landed.length === 0) process.exit(1)
++  process.stdout.write(`${day} carries ${landed.join(" and ")}\n`)
++}
