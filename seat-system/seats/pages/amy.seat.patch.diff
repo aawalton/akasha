@@ -127,3 +127,15 @@ index 0000000000000000000000000000000000000000..ff2c3d51c9e6ac0093d275138428718f
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/pages/service/pages-service.workspace-package.ts b/pages/service/pages-service.workspace-package.ts
+index dd2c83b9697ecbc91e359a46e4f98da64e683227..aa89a0229e4e4efad281b3d29e43695386c4281b 100644
+--- a/pages/service/pages-service.workspace-package.ts
++++ b/pages/service/pages-service.workspace-package.ts
+@@ -8,6 +8,7 @@ export const pagesService = {
+   manifest: "json",
+   partSlugs: [
+     "manifest/page-store",
++    "module/file-answering",
+     "module/kinds-gathering",
+     "module/page-asking",
+     "module/page-calling",
