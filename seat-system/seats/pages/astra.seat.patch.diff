@@ -15,3 +15,17 @@ index 92ea431604d96b5331948ff89bf13b8db23c9a7b..0eb8bd93cb303bb99ff2a553313b014b
      },
    ],
  } as const satisfies TextProperty
+diff --git a/person-system/people/email/email-rules/email-rule-codes/email-rule-code.page-type.ts b/person-system/people/email/email-rules/email-rule-codes/email-rule-code.page-type.ts
+index e006b409e6ec3837e617039eac6b21322f928cc9..7b165d56eb108e6a3db0e447d3ad89625f88397b 100644
+--- a/person-system/people/email/email-rules/email-rule-codes/email-rule-code.page-type.ts
++++ b/person-system/people/email/email-rules/email-rule-codes/email-rule-code.page-type.ts
+@@ -47,8 +47,7 @@ export const emailRuleCode = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Filing is a key of its own, archiving or skipping, rather than one of the actions.",
++      statement: "Filing is a key of its own rather than an action.",
+     },
+     {
+       invariantKind: "departure",
