@@ -20,13 +20,20 @@ index ed637c1c53e33a5845a32ff810e3caed5c9a8424..37df6ac96e5cc9d91693f019caa9f01e
    const said = await wrote(root, ["--message", "held"])
    expect(said.code).toBe(0)
 diff --git a/pages/indexes/index.workspace-package.ts b/pages/indexes/index.workspace-package.ts
-index 6a49c4030fe112c55948c03a37494eca0d8840e7..419b8b46173af5a7963d96d1430331595163dcc3 100644
+index 6a49c4030fe112c55948c03a37494eca0d8840e7..8229b3e447eb16b1c3ef47b6099a8a62fde3ed30 100644
 --- a/pages/indexes/index.workspace-package.ts
 +++ b/pages/indexes/index.workspace-package.ts
-@@ -120,6 +120,14 @@ export const index = {
-       invariantKind: "gap",
-       statement: "Only an importer of a file is refused, and only for a path that makes an edge.",
+@@ -118,7 +118,19 @@ export const index = {
      },
+     {
+       invariantKind: "gap",
+-      statement: "Only an importer of a file is refused, and only for a path that makes an edge.",
++      statement: "Only an importer of a file is refused.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "Only a path that makes an edge refuses the importers of that path.",
++    },
 +    {
 +      invariantKind: "gap",
 +      statement: "A fixture files a page into every index a reader reads that page from.",
@@ -34,10 +41,9 @@ index 6a49c4030fe112c55948c03a37494eca0d8840e7..419b8b46173af5a7963d96d143033159
 +    {
 +      invariantKind: "gap",
 +      statement: "A fixture takes a page out of every index answering for that page.",
-+    },
+     },
      {
        invariantKind: "gap",
-       statement: "A question and its answer cross this boundary.",
 diff --git a/pages/indexes/reading/index-reading.module.test-fixtures.ts b/pages/indexes/reading/index-reading.module.test-fixtures.ts
 index 30c55ac8efa8267cea89ae7820f7f7e78de60c42..5f17c1a789592741dd7efe0bdf2d78393ee17c8c 100644
 --- a/pages/indexes/reading/index-reading.module.test-fixtures.ts
