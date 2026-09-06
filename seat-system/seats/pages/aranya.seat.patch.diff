@@ -1,3 +1,48 @@
+diff --git a/seat-system/subagents/presence/subagent-presence.module.code.ts b/seat-system/subagents/presence/subagent-presence.module.code.ts
+index 72c2f8dc7ed85e7c912a5651b9e781a607b199d8..1d5b814f8acf3bfabdd049999bb589948b4a9428 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.code.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.code.ts
+@@ -320,6 +320,40 @@ export function stampedAt(when: Date): string {
+   )
+ }
+ 
++// A LANDING REFUSED FOR A HELD LOCK IS ASKED FOR AGAIN HERE. This runs in a process detached from
++// the hook that spawned it, so the five seconds a hook is given does not bound it, and a put-up
++// that gives up leaves a subagent at work with no page for as long as its seat runs. A held lock
++// says another landing is mid-flight, which is a wait rather than a fault. Every other refusal is
++// answered at once, because asking again would only earn the same refusal.
++export const LOCK_HELD = "akasha-landing.lock"
++
++export const TRIES = 5
++
++export const WAIT_MS = 30_000
++
++export function worthAnotherTry(why: string): boolean {
++  return why.includes(LOCK_HELD)
++}
++
++export async function sleeping(ms: number): Promise<void> {
++  await Bun.sleep(ms)
++}
++
++// THE ASK IS RUN AGAIN RATHER THAN THE REFUSED LANDING RESUMED. Each ask composes the page from
++// the repository as the repository is at that moment, so a page another process wrote meanwhile is
++// answered as written at the first line of `wrote` rather than written a second time.
++export async function landingAgain(
++  ask: () => Promise<Went>,
++  waited: (ms: number) => Promise<void> = sleeping
++): Promise<Went> {
++  let went = await ask()
++  for (let tried = 1; tried < TRIES && "why" in went && worthAnotherTry(went.why); tried += 1) {
++    await waited(WAIT_MS)
++    went = await ask()
++  }
++  return went
++}
++
+ function saying(why: string): number {
+   process.stderr.write(`${stampedAt(new Date())} ${CALLED_AS}: ${why}\n`)
+   return 1
 diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
 index 71b1c9cff57cffa813d5b45643073156c9a76e96..15d8960e564e93509f0026bcf075190045950118 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.ts
