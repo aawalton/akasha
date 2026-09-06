@@ -13,7 +13,7 @@ index e82ba15b20bb164fb438597376cf79202af42313..30cc08ecd57a5838a7fc73f5dcab829d
      read.dryRun
        ? `nothing was put in place — ${DRY_RUN}`
 diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
-index c049133ce6ffad2655675c56e6adacdc5bf20243..dfed45b3bfe76062927df3b992939f9b875b29cb 100644
+index c049133ce6ffad2655675c56e6adacdc5bf20243..42e4be708dc0be518015739707e267ab951ed8c8 100644
 --- a/pages/indexes/indexing/indexing.module.code.ts
 +++ b/pages/indexes/indexing/indexing.module.code.ts
 @@ -36,7 +36,12 @@ import { claimingIn } from "../path/index-path.index.code.ts"
@@ -30,8 +30,16 @@ index c049133ce6ffad2655675c56e6adacdc5bf20243..dfed45b3bfe76062927df3b992939f9b
  import { NOTHING_FILED, relationIn } from "../relation/index-relation.index.code.ts"
  import { indexRelation } from "../relation/index-relation.index.ts"
  import { schemaIn } from "../schema/index-schema.index.code.ts"
+@@ -119,6 +124,7 @@ export type Rebuilt = {
+   readonly entries: number
+   readonly refused: readonly string[]
+   readonly drift: Drift
++  readonly swept: readonly string[]
+ }
+ 
+ function drifting(said: readonly Drift[]): Drift {
 diff --git a/pages/indexes/rebuilding/rebuilding.module.code.ts b/pages/indexes/rebuilding/rebuilding.module.code.ts
-index 093a6c551f4a014435b9690f6ab8d1f48670b0f9..d1277e89f7c34b8deefe0ff5ee51179f52ea8579 100644
+index 093a6c551f4a014435b9690f6ab8d1f48670b0f9..fbdc165197796303f18605698ce3db3dd335fbdd 100644
 --- a/pages/indexes/rebuilding/rebuilding.module.code.ts
 +++ b/pages/indexes/rebuilding/rebuilding.module.code.ts
 @@ -1,13 +1,17 @@
@@ -53,6 +61,35 @@ index 093a6c551f4a014435b9690f6ab8d1f48670b0f9..d1277e89f7c34b8deefe0ff5ee51179f
  import type { Entry } from "../entries/index-entries.module.code.ts"
  import { walkedUnder } from "../tree-reading/tree-reading.module.code.ts"
  
+@@ -49,6 +53,28 @@ function bodyAt(at: string): string | null {
+   }
+ }
+ 
++// Every file the index holds sits under a folder named for an index, and the index is one folder.
++// So a file at the index's own top, and a folder beside it whose name opens `index.`, belong to no
++// index. This answers only for a folder actually named `index`, because a scratch index built for a
++// test sits beside folders that are nobody's business here.
++export function sweptBeside(root: string): readonly string[] {
++  if (basename(root) !== INDEX) return []
++  const taken: string[] = []
++  for (const one of readdirSync(root, { withFileTypes: true })) {
++    if (one.isDirectory()) continue
++    const at = join(root, one.name)
++    rmSync(at)
++    taken.push(at)
++  }
++  for (const one of readdirSync(dirname(root), { withFileTypes: true })) {
++    if (!one.isDirectory() || !one.name.startsWith(`${INDEX}.`)) continue
++    const at = join(dirname(root), one.name)
++    rmSync(at, { recursive: true })
++    taken.push(at)
++  }
++  return taken.sort()
++}
++
+ export function reconcile(
+   under: string,
+   entries: readonly Entry[],
 diff --git a/pages/indexes/rebuilding/rebuilding.module.ts b/pages/indexes/rebuilding/rebuilding.module.ts
 index 6d5ec5151779dc82c22fa2bdffd4e5c302798fc2..d69134d12cc476012985b949cf3071cce042f99f 100644
 --- a/pages/indexes/rebuilding/rebuilding.module.ts
