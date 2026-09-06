@@ -1,0 +1,36 @@
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
+
+export const changeShadow = {
+  id: "01a07744-1311-740c-acbf-9e0092840193",
+  pageTypeSlug: "module",
+  slug: "change-shadow",
+  definition: "the files and index as the answer a change gives would leave both",
+  code: "ts",
+  test: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An answer is cast as the change shape the shadow already reads.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path a move leaves is among the paths the change changed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The path a move lands at held no body before that move.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edit stating no body leaves that path holding nothing after the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shadow that will not build comes back refused rather than as a shadow.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here builds a second shadow of its own.",
+    },
+  ],
+} as const satisfies Module
