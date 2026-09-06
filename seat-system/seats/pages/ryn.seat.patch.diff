@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/pages/one-of-properties/one-of-property.page-type.ts b/pages/one-of-properties/one-of-property.page-type.ts
-index 0421a210ef179b624c3aaa7974efc581a2d7561a..0a0466b8cf14277d54855d15f4930b11e1371230 100644
+index 0421a210ef179b624c3aaa7974efc581a2d7561a..753f7d0a175e061e4b8be19b286824c88e1a826e 100644
 --- a/pages/one-of-properties/one-of-property.page-type.ts
 +++ b/pages/one-of-properties/one-of-property.page-type.ts
 @@ -24,7 +24,7 @@ export const oneOfProperty = {
@@ -12,3 +12,12 @@ index 0421a210ef179b624c3aaa7974efc581a2d7561a..0a0466b8cf14277d54855d15f4930b11
      },
      {
        invariantKind: "departure",
+@@ -40,7 +40,7 @@ export const oneOfProperty = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A one of holding a member that admits every value refuses nothing.",
++      statement: "A property holding a member that admits every value refuses nothing.",
+     },
+   ],
+ } as const satisfies PageType
