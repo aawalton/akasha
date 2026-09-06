@@ -3882,13 +3882,14 @@ index 0000000000000000000000000000000000000000..396b54761b1ec45fe8fd6f6c76d67414
 +} as const satisfies MasteryLevel
 diff --git a/alan/library/book-of-everything/mastery-levels/pages/student.mastery-level.ts b/alan/library/book-of-everything/mastery-levels/pages/student.mastery-level.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..2bd7686d49418292a229d8cbbc134a69367b9bea
+index 0000000000000000000000000000000000000000..21818f0f56330f8a48073de27db1b6ad0c27f7c1
 --- /dev/null
 +++ b/alan/library/book-of-everything/mastery-levels/pages/student.mastery-level.ts
-@@ -0,0 +1,10 @@
+@@ -0,0 +1,11 @@
 +import type { MasteryLevel } from "../mastery-level.page-type.ts"
 +
 +export const student = {
++  id: "01a0784a-cdba-7ea0-ab7d-b3c46eb1c211",
 +  pageTypeSlug: "mastery-level",
 +  slug: "student",
 +  definition: "the taught account held and restated",
