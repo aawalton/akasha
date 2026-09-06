@@ -8942,10 +8942,10 @@ index 4e895c18a057babf3d26df2259cdb2f7bb478cf5..dd0d1a5c538c894b11fc2ee99ca5f0e6
    invariants: [
      { invariantKind: "gap", statement: "This property is a relation to a reagent." },
 diff --git a/temper/temper-catalog/temper-gear/properties/recipes.record-property.ts b/temper/temper-catalog/temper-gear/properties/recipes.record-property.ts
-index 5fed185c4f3168b29c84937913e91b9c47e25d0a..f76f838decb2d55611d38314aac27a3fc3a9605e 100644
+index 5fed185c4f3168b29c84937913e91b9c47e25d0a..01d5e3e2e7c9816aeada3b3d7774fdd724dd234e 100644
 --- a/temper/temper-catalog/temper-gear/properties/recipes.record-property.ts
 +++ b/temper/temper-catalog/temper-gear/properties/recipes.record-property.ts
-@@ -15,7 +15,7 @@ export const recipes = {
+@@ -15,12 +15,12 @@ export const recipes = {
    propertySlug: "reagents",
    definition: "the reagent sets a drink is brewed from, one set to an entry",
    properties: [
@@ -8954,6 +8954,12 @@ index 5fed185c4f3168b29c84937913e91b9c47e25d0a..f76f838decb2d55611d38314aac27a3f
    ],
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "Any one of the reagent sets brews the same drink.",
++      statement: "Every reagent set brews the same drink.",
+     },
+   ],
+ } as const satisfies RecordProperty
 diff --git a/temper/temper-catalog/temper-gear/properties/set-class-id.text-property.ts b/temper/temper-catalog/temper-gear/properties/set-class-id.text-property.ts
 index c0fbf780272337d17ffc3119b6d40ec4fd904d29..bfbfb5b261ce6232a676b23823bee3702c7fbebe 100644
 --- a/temper/temper-catalog/temper-gear/properties/set-class-id.text-property.ts
