@@ -21,7 +21,7 @@ export const agentRow = {
     },
     {
       invariantKind: "departure",
-      statement: "A row naming no page names none in its tooltip and opens none.",
+      statement: "A row naming no page names no page in its tooltip and opens no page.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,7 @@ export const agentRow = {
     },
     {
       invariantKind: "gap",
-      statement: "A row is spelled here as every other tree the editor draws spells one.",
+      statement: "A row is spelled here as every other tree the editor draws spells a row.",
     },
   ],
 } as const satisfies Module
