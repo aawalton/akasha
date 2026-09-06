@@ -1,4 +1,4 @@
-import { resolve } from "node:path"
+import { join, resolve } from "node:path"
 import { ranAsHook } from "../../hook-answer/hook-answer.module.code.ts"
 import { shownIn } from "../../path-showing/path-showing.module.code.ts"
 import { insideOf, settled } from "../../settling/settling.module.code.ts"
@@ -6,6 +6,8 @@ import { insideOf, settled } from "../../settling/settling.module.code.ts"
 const HOOK = "block-akasha-reads"
 
 const FILE_PATH = "file_path"
+
+const DATA_AT = ".git/data"
 
 export const SCOPE: readonly string[] = [
   "block-akasha-reads refuses a Read landing anywhere inside this checkout, and stands aside",
@@ -65,7 +67,8 @@ export function refusalIn(filePath: string, from: string, root: string): string 
   if (filePath.trim() === "") return null
   const here = settled(root)
   const at = settled(resolve(from, filePath))
-  return insideOf(settled(here), at) ? refusalFor(shownIn(here, at)) : null
+  if (!insideOf(here, at)) return null
+  return insideOf(settled(join(here, DATA_AT)), at) ? null : refusalFor(shownIn(here, at))
 }
 
 export async function ran(): Promise<number> {
