@@ -61,7 +61,7 @@ export const agentForest = {
     {
       invariantKind: "departure",
       statement:
-        "A path is joined against the repository the answer named rather than one guessed here.",
+        "A path is joined against the repository the answer named rather than a repository guessed here.",
     },
     {
       invariantKind: "departure",
