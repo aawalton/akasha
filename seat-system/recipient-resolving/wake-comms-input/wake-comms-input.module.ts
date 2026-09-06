@@ -9,8 +9,11 @@ export const wakeCommsInput = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A message from an agent is sent by the agent prefix and its id, and any other by its source.",
+      statement: "A message from an agent is sent by the agent prefix and its id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A message from anything else is sent by its source.",
     },
     {
       invariantKind: "absence",
