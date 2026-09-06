@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/outside-naming/outside-naming.module.ts b/command-system/outside-naming/outside-naming.module.ts
-index eeea171c97123a76e0e61c0f0a0cc102949d317e..644199ee0d108e0b2c9ff471ea805aa09f112988 100644
+index eeea171c97123a76e0e61c0f0a0cc102949d317e..cdb8d69362dc56c3851fe4aaf6a55214ead33a4a 100644
 --- a/command-system/outside-naming/outside-naming.module.ts
 +++ b/command-system/outside-naming/outside-naming.module.ts
 @@ -18,7 +18,7 @@ export const outsideNaming = {
@@ -30,3 +30,12 @@ index eeea171c97123a76e0e61c0f0a0cc102949d317e..644199ee0d108e0b2c9ff471ea805aa0
      },
      {
        invariantKind: "departure",
+@@ -134,7 +134,7 @@ export const outsideNaming = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A name carrying more of a segment than the name looked for is left alone.",
++      statement: "A name carrying a segment longer than the name looked for is left alone.",
+     },
+     {
+       invariantKind: "absence",
