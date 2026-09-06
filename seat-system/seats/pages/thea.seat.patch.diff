@@ -244,7 +244,7 @@ index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..041bc1f9574edf2ec71e9a5dbb2e5efa
    listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
    schemaFiledFor(root, "relation-property", "extends-slug")
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
-index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..f6750632ee3d7bfc2ddbae761dfb4ad5b7fcfe3d 100644
+index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..89022557c5bdf7a646014e19392bbc272fcfc190 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
 @@ -135,33 +135,35 @@ test("a property the page type does not declare is refused", () => {
@@ -317,7 +317,8 @@ index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..f6750632ee3d7bfc2ddbae761dfb4ad5
 +  ])
  })
  
- test("a property stating a max is judged whatever page type that property is", () => {
+-test("a property stating a max is judged whatever page type that property is", () => {
++test("a property stating a length is judged whatever page type that property is", () => {
    expect(over({ id: "a", slug: "one", tally: "toolong" }, "told")).toEqual([
 -    "`tally` runs to 7 characters, over the max of 4",
 +    "`tally` runs to 7 characters, over the length of 4",
