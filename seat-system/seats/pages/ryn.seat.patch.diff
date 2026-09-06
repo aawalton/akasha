@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts b/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
-index 3ceea1d5fe7737660da6df60fca45120b8bdf7be..09cb7e8850229427e85a95af083d42471e9a0186 100644
+index 3ceea1d5fe7737660da6df60fca45120b8bdf7be..4bafcd6638ffcbb7602a9388596fa57031c6fed6 100644
 --- a/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
 +++ b/agents/claude-accounts/modules/renewing/claude-account-renewing.module.ts
 @@ -46,7 +46,7 @@ export const claudeAccountRenewing = {
@@ -11,7 +11,7 @@ index 3ceea1d5fe7737660da6df60fca45120b8bdf7be..09cb7e8850229427e85a95af083d4247
      },
      {
        invariantKind: "departure",
-@@ -54,8 +54,7 @@ export const claudeAccountRenewing = {
+@@ -54,13 +54,12 @@ export const claudeAccountRenewing = {
      },
      {
        invariantKind: "departure",
@@ -21,3 +21,9 @@ index 3ceea1d5fe7737660da6df60fca45120b8bdf7be..09cb7e8850229427e85a95af083d4247
      },
      {
        invariantKind: "departure",
+       statement:
+-        "The scopes, the plan and the band are read off the page rather than off the response.",
++        "The scopes and the plan and the band are read off the page rather than off the response.",
+     },
+     {
+       invariantKind: "constraint",
