@@ -1,5 +1,5 @@
 diff --git a/pages/akasha-page-values/akasha-page-values.module.ts b/pages/akasha-page-values/akasha-page-values.module.ts
-index b85fbe213c5d2b2f7f228a774204455ed8404e34..f7955b747e85cc5074394494159d0238025cdf0c 100644
+index b85fbe213c5d2b2f7f228a774204455ed8404e34..1d69f669a0a142b0982de56c359622f09945f75f 100644
 --- a/pages/akasha-page-values/akasha-page-values.module.ts
 +++ b/pages/akasha-page-values/akasha-page-values.module.ts
 @@ -11,12 +11,16 @@ export const akashaPageValues = {
@@ -22,3 +22,17 @@ index b85fbe213c5d2b2f7f228a774204455ed8404e34..f7955b747e85cc5074394494159d0238
      },
      {
        invariantKind: "departure",
+@@ -35,8 +39,11 @@ export const akashaPageValues = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An entry property is left as its declaration says, so the rows beside a page are found.",
++      statement: "An entry property is left as its declaration says.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The rows beside a page are found.",
+     },
+   ],
+ } as const satisfies Module
