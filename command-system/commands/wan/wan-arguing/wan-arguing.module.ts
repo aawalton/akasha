@@ -13,11 +13,11 @@ export const wanArguing = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag said more than once is refused.",
+      statement: "A flag said twice is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A flag carrying a value and given none is refused.",
+      statement: "A flag carrying a value and given no value is refused.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const wanArguing = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches the GPU or the disk, past a flag routed through a path.",
+      statement: "Nothing here reaches the GPU or the disk past a flag routed through a path.",
     },
   ],
 } as const satisfies Module
