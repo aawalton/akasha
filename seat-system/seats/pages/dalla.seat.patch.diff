@@ -1,0 +1,554 @@
+runsWarrants: false
+diff --git a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts
+index f4aae604971ef1ac9fef03448baf345d6b559055..75a63c7e402569a43974a34c7361a91be48b0846 100644
+--- a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts
++++ b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts
+@@ -1,5 +1,5 @@
+-import { repointed } from "../../../../code-system/path-repointing/path-repointing.module.code.ts"
+ import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
++import { repointed } from "../../../partial/pages/repoint-imports/repoint-imports.module.code.ts"
+ 
+ export type Asked = {
+   readonly from: string
+diff --git a/changes/partial/change-partial.page-type.ts b/changes/partial/change-partial.page-type.ts
+index f94037a32df10e2489094a748a05d824c4484539..de9365038cc63145e39fdaad88e3fd068aede380 100644
+--- a/changes/partial/change-partial.page-type.ts
++++ b/changes/partial/change-partial.page-type.ts
+@@ -9,7 +9,7 @@ export const changePartial = {
+   slug: "change-partial",
+   definition: "a piece of a change that leaves the tree broken on its own",
+   pluralSlug: "change-partials",
+-  partSlugs: [],
++  partSlugs: ["module/repoint-imports"],
+   extendsSlug: ["page-type/module"],
+   invariants: [
+     {
+diff --git a/changes/partial/pages/repoint-imports/repoint-imports.module.code.ts b/changes/partial/pages/repoint-imports/repoint-imports.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e90714d3e26f6782ce82dbb567269c06f6a3aa48
+--- /dev/null
++++ b/changes/partial/pages/repoint-imports/repoint-imports.module.code.ts
+@@ -0,0 +1,76 @@
++import { basename, dirname, extname, join, relative } from "node:path"
++import { landingOf, placedIn, spelledIn } from "@akasha/code-system/code-specifier"
++
++const GENERATED = "+types"
++
++const UNDER = "/"
++
++function specifierFor(dir: string, target: string): string {
++  const said = relative(dir, target)
++  return said.startsWith(".") ? said : `./${said}`
++}
++
++function stemOf(path: string): string {
++  const name = basename(path)
++  const tail = extname(name)
++  return tail === "" ? name : name.slice(0, -tail.length)
++}
++
++/** What a body names its own generated declarations by, which follows the body's folder and name. */
++function generatedFor(was: string, now: string, said: string): string | null {
++  const landed = landingOf(was, said)
++  if (landed === null || landed !== join(dirname(was), GENERATED, stemOf(was))) return null
++  return `.${UNDER}${GENERATED}${UNDER}${stemOf(now)}`
++}
++
++/** Where a name carrying no leading dot lands, read against the folder of the body naming it. */
++function beneathFor(
++  was: string,
++  dir: string,
++  said: string,
++  moved: ReadonlyMap<string, string>
++): string | null {
++  if (said.startsWith(UNDER) || !said.includes(UNDER)) return null
++  const there = moved.get(join(dirname(was), said))
++  return there === undefined ? null : relative(dir, there)
++}
++
++function nextFor(
++  was: string,
++  now: string,
++  dir: string,
++  said: string,
++  moved: ReadonlyMap<string, string>,
++  specifier: boolean
++): string | null {
++  if (specifier) {
++    const generated = generatedFor(was, now, said)
++    if (generated !== null) return generated
++  }
++  const rooted = moved.get(said)
++  if (rooted !== undefined) return rooted
++  const landed = landingOf(was, said)
++  if (landed === null) return specifier ? null : beneathFor(was, dir, said, moved)
++  const there = moved.get(landed)
++  if (there !== undefined) return specifierFor(dir, there)
++  return specifier ? specifierFor(dir, landed) : null
++}
++
++export function repointed(
++  was: string,
++  now: string,
++  text: string,
++  moved: ReadonlyMap<string, string>
++): string {
++  const dir = dirname(now)
++  const specifier = new Set(placedIn(now, text).map((one) => one.start))
++  let out = ""
++  let at = 0
++  for (const one of spelledIn(now, text)) {
++    const next = nextFor(was, now, dir, one.text, moved, specifier.has(one.start))
++    if (next === null || next === one.text) continue
++    out = `${out}${text.slice(at, one.start)}${JSON.stringify(next)}`
++    at = one.end
++  }
++  return `${out}${text.slice(at)}`
++}
+diff --git a/changes/partial/pages/repoint-imports/repoint-imports.module.test.ts b/changes/partial/pages/repoint-imports/repoint-imports.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..303be77ee2012c9bad818b11f7b4555765349693
+--- /dev/null
++++ b/changes/partial/pages/repoint-imports/repoint-imports.module.test.ts
+@@ -0,0 +1,81 @@
++import { afterAll, expect, test } from "bun:test"
++import { move } from "../../../../command-system/commands/move/move.command.code.ts"
++import {
++  ARRIVES,
++  bodyIn,
++  CODE,
++  givenIn,
++  HOLDER,
++  rebuilt,
++  repoWith,
++  scratch,
++  TARGET,
++} from "../../../../command-system/commands/move/move.command.test-fixtures.ts"
++import { repointed } from "./repoint-imports.module.code.ts"
++
++afterAll(scratch.sweep)
++
++const TABLE = "akasha/one/routes.ts"
++
++const TYPED_ROUTE = "akasha/one/routes/api.addons.download.ts"
++
++const TYPED_ROUTE_AT = "akasha/one/routes/addon-parcel/addon-parcel.route.code.ts"
++
++const TYPED_CODE = `import type { Route } from "./+types/api.addons.download"
++
++export const it: Route | null = null
++`
++
++const TYPED_REPOINTED = `import type { Route } from "./+types/addon-parcel.route.code"
++
++export const it: Route | null = null
++`
++
++test("a specifier reaching a file that moves in the same act reaches its new path", () => {
++  const moved = new Map([[TARGET, ARRIVES]])
++  const said = repointed(HOLDER, HOLDER, CODE, moved)
++  expect(said).toContain('from "../four/other.module.code.ts"')
++  expect(said).toContain('import ts from "typescript"')
++})
++
++test("a body naming nothing that moved comes back as it stands", () => {
++  expect(repointed(HOLDER, HOLDER, CODE, new Map())).toBe(CODE)
++})
++
++test("a name that is no specifier is read against the folder of the body naming it", () => {
++  const moved = new Map([["akasha/one/two/held.ts", "akasha/one/three/held.ts"]])
++  const text = `export const at = "two/held.ts"\n`
++  expect(repointed(TABLE, TABLE, text, moved)).toBe(`export const at = "three/held.ts"\n`)
++})
++
++test("a name landing on nothing that moved, and one holding no slash, are left alone", () => {
++  const moved = new Map([[TARGET, ARRIVES]])
++  const text = `export const said = ["two/other.module.code.ts", "other.module.code.ts"]\n`
++  expect(repointed(TABLE, TABLE, text, moved)).toBe(text)
++})
++
++test("a name a body imports is read as a package however that name would resolve", () => {
++  const moved = new Map([["akasha/one/two/other.module.code.ts", "akasha/one/three/held.ts"]])
++  const text = `import { other } from "two/other.module.code.ts"\n\nexport const held = other\n`
++  expect(repointed(HOLDER, HOLDER, text, moved)).toBe(text)
++})
++
++test("a body's import of its own generated types follows that body's folder and name", () => {
++  const moved = new Map([[TYPED_ROUTE, TYPED_ROUTE_AT]])
++  expect(repointed(TYPED_ROUTE, TYPED_ROUTE_AT, TYPED_CODE, moved)).toBe(TYPED_REPOINTED)
++})
++
++test("a body moving under the name it has keeps the types specifier it already spells", () => {
++  const was = "akasha/one/routes/keep.ts"
++  const now = "akasha/one/routes/under/keep.ts"
++  const text = `import type { Route } from "./+types/keep"\n`
++  expect(repointed(was, now, text, new Map([[was, now]]))).toBe(text)
++})
++
++test("a move leaves a route naming the generated types of where that route arrived", async () => {
++  const root = rebuilt(repoWith({ [TYPED_ROUTE]: TYPED_CODE }))
++  expect(bodyIn(root, TYPED_ROUTE)).toBe(TYPED_CODE)
++  const said = await move(["--from", TYPED_ROUTE, "--to", TYPED_ROUTE_AT], givenIn(root))
++  expect(said.refusals).toEqual([])
++  expect(bodyIn(root, TYPED_ROUTE_AT)).toBe(TYPED_REPOINTED)
++})
+diff --git a/changes/partial/pages/repoint-imports/repoint-imports.module.ts b/changes/partial/pages/repoint-imports/repoint-imports.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a9ab01c7091cae5a864f1de9e6bbbc92044710ff
+--- /dev/null
++++ b/changes/partial/pages/repoint-imports/repoint-imports.module.ts
+@@ -0,0 +1,58 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const repointImports = {
++  id: "01a04efb-db14-7000-a96d-4bace8327509",
++  pageTypeSlug: "module",
++  slug: "repoint-imports",
++  definition: "a body rewritten so the paths it names follow the files that moved",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A body is rewritten in one run with each name replaced where the name sits rather than found again.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name is written back quoted matching the way the body spells that name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name reaching nothing that moved is left as the name stands.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The path a package's name reaches moves without that name changing.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A name that is no module specifier is read against the folder of the body naming it.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Such a name is written back only where it lands on a path that moved.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A name holding no slash is left as that name is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body's own generated declarations sit in a `+types` folder beside the body.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Those declarations are named for the body naming them.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A specifier naming them follows the body's new folder and new name.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No naming is handed in here.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/code-system/code-system.workspace-package.ts b/code-system/code-system.workspace-package.ts
+index 8f72bc6566fc086f3d732f01d86f04cf0eabbc42..bc5eb4abb1eaefabf31480df9748f608d872d2a9 100644
+--- a/code-system/code-system.workspace-package.ts
++++ b/code-system/code-system.workspace-package.ts
+@@ -7,7 +7,6 @@ export const codeSystem = {
+   definition: "how we write what runs",
+   manifest: "json",
+   partSlugs: [
+-    "module/path-repointing",
+     "page-type/component",
+     "page-type/module",
+     "page-type/container-recipe",
+diff --git a/code-system/package.json b/code-system/package.json
+index 1477f7e1467221b1f596249e0733859bd4946efa..35a41a911972dc221818d518fb9c03bdd7d0439d 100644
+--- a/code-system/package.json
++++ b/code-system/package.json
+@@ -37,7 +37,6 @@
+     "./name-series": "./name-series/name-series.module.code.ts",
+     "./module/test": "./modules/properties/test.file-property.ts",
+     "./package-manifest": "./package-manifest/package-manifest.module.code.ts",
+-    "./path-repointing": "./path-repointing/path-repointing.module.code.ts",
+     "./python-module": "./python-modules/python-module.page-type.ts",
+     "./route": "./routes/route.page-type.ts",
+     "./router-app/root-route": "./router-apps/properties/root-route.named-file-property.ts",
+diff --git a/code-system/path-repointing/path-repointing.module.code.ts b/code-system/path-repointing/path-repointing.module.code.ts
+deleted file mode 100644
+index e90714d3e26f6782ce82dbb567269c06f6a3aa48..0000000000000000000000000000000000000000
+--- a/code-system/path-repointing/path-repointing.module.code.ts
++++ /dev/null
+@@ -1,76 +0,0 @@
+-import { basename, dirname, extname, join, relative } from "node:path"
+-import { landingOf, placedIn, spelledIn } from "@akasha/code-system/code-specifier"
+-
+-const GENERATED = "+types"
+-
+-const UNDER = "/"
+-
+-function specifierFor(dir: string, target: string): string {
+-  const said = relative(dir, target)
+-  return said.startsWith(".") ? said : `./${said}`
+-}
+-
+-function stemOf(path: string): string {
+-  const name = basename(path)
+-  const tail = extname(name)
+-  return tail === "" ? name : name.slice(0, -tail.length)
+-}
+-
+-/** What a body names its own generated declarations by, which follows the body's folder and name. */
+-function generatedFor(was: string, now: string, said: string): string | null {
+-  const landed = landingOf(was, said)
+-  if (landed === null || landed !== join(dirname(was), GENERATED, stemOf(was))) return null
+-  return `.${UNDER}${GENERATED}${UNDER}${stemOf(now)}`
+-}
+-
+-/** Where a name carrying no leading dot lands, read against the folder of the body naming it. */
+-function beneathFor(
+-  was: string,
+-  dir: string,
+-  said: string,
+-  moved: ReadonlyMap<string, string>
+-): string | null {
+-  if (said.startsWith(UNDER) || !said.includes(UNDER)) return null
+-  const there = moved.get(join(dirname(was), said))
+-  return there === undefined ? null : relative(dir, there)
+-}
+-
+-function nextFor(
+-  was: string,
+-  now: string,
+-  dir: string,
+-  said: string,
+-  moved: ReadonlyMap<string, string>,
+-  specifier: boolean
+-): string | null {
+-  if (specifier) {
+-    const generated = generatedFor(was, now, said)
+-    if (generated !== null) return generated
+-  }
+-  const rooted = moved.get(said)
+-  if (rooted !== undefined) return rooted
+-  const landed = landingOf(was, said)
+-  if (landed === null) return specifier ? null : beneathFor(was, dir, said, moved)
+-  const there = moved.get(landed)
+-  if (there !== undefined) return specifierFor(dir, there)
+-  return specifier ? specifierFor(dir, landed) : null
+-}
+-
+-export function repointed(
+-  was: string,
+-  now: string,
+-  text: string,
+-  moved: ReadonlyMap<string, string>
+-): string {
+-  const dir = dirname(now)
+-  const specifier = new Set(placedIn(now, text).map((one) => one.start))
+-  let out = ""
+-  let at = 0
+-  for (const one of spelledIn(now, text)) {
+-    const next = nextFor(was, now, dir, one.text, moved, specifier.has(one.start))
+-    if (next === null || next === one.text) continue
+-    out = `${out}${text.slice(at, one.start)}${JSON.stringify(next)}`
+-    at = one.end
+-  }
+-  return `${out}${text.slice(at)}`
+-}
+diff --git a/code-system/path-repointing/path-repointing.module.test.ts b/code-system/path-repointing/path-repointing.module.test.ts
+deleted file mode 100644
+index d1813ec519d0500ea85c42da7d8f615c333aa187..0000000000000000000000000000000000000000
+--- a/code-system/path-repointing/path-repointing.module.test.ts
++++ /dev/null
+@@ -1,81 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import { move } from "../../command-system/commands/move/move.command.code.ts"
+-import {
+-  ARRIVES,
+-  bodyIn,
+-  CODE,
+-  givenIn,
+-  HOLDER,
+-  rebuilt,
+-  repoWith,
+-  scratch,
+-  TARGET,
+-} from "../../command-system/commands/move/move.command.test-fixtures.ts"
+-import { repointed } from "./path-repointing.module.code.ts"
+-
+-afterAll(scratch.sweep)
+-
+-const TABLE = "akasha/one/routes.ts"
+-
+-const TYPED_ROUTE = "akasha/one/routes/api.addons.download.ts"
+-
+-const TYPED_ROUTE_AT = "akasha/one/routes/addon-parcel/addon-parcel.route.code.ts"
+-
+-const TYPED_CODE = `import type { Route } from "./+types/api.addons.download"
+-
+-export const it: Route | null = null
+-`
+-
+-const TYPED_REPOINTED = `import type { Route } from "./+types/addon-parcel.route.code"
+-
+-export const it: Route | null = null
+-`
+-
+-test("a specifier reaching a file that moves in the same act reaches its new path", () => {
+-  const moved = new Map([[TARGET, ARRIVES]])
+-  const said = repointed(HOLDER, HOLDER, CODE, moved)
+-  expect(said).toContain('from "../four/other.module.code.ts"')
+-  expect(said).toContain('import ts from "typescript"')
+-})
+-
+-test("a body naming nothing that moved comes back as it stands", () => {
+-  expect(repointed(HOLDER, HOLDER, CODE, new Map())).toBe(CODE)
+-})
+-
+-test("a name that is no specifier is read against the folder of the body naming it", () => {
+-  const moved = new Map([["akasha/one/two/held.ts", "akasha/one/three/held.ts"]])
+-  const text = `export const at = "two/held.ts"\n`
+-  expect(repointed(TABLE, TABLE, text, moved)).toBe(`export const at = "three/held.ts"\n`)
+-})
+-
+-test("a name landing on nothing that moved, and one holding no slash, are left alone", () => {
+-  const moved = new Map([[TARGET, ARRIVES]])
+-  const text = `export const said = ["two/other.module.code.ts", "other.module.code.ts"]\n`
+-  expect(repointed(TABLE, TABLE, text, moved)).toBe(text)
+-})
+-
+-test("a name a body imports is read as a package however that name would resolve", () => {
+-  const moved = new Map([["akasha/one/two/other.module.code.ts", "akasha/one/three/held.ts"]])
+-  const text = `import { other } from "two/other.module.code.ts"\n\nexport const held = other\n`
+-  expect(repointed(HOLDER, HOLDER, text, moved)).toBe(text)
+-})
+-
+-test("a body's import of its own generated types follows that body's folder and name", () => {
+-  const moved = new Map([[TYPED_ROUTE, TYPED_ROUTE_AT]])
+-  expect(repointed(TYPED_ROUTE, TYPED_ROUTE_AT, TYPED_CODE, moved)).toBe(TYPED_REPOINTED)
+-})
+-
+-test("a body moving under the name it has keeps the types specifier it already spells", () => {
+-  const was = "akasha/one/routes/keep.ts"
+-  const now = "akasha/one/routes/under/keep.ts"
+-  const text = `import type { Route } from "./+types/keep"\n`
+-  expect(repointed(was, now, text, new Map([[was, now]]))).toBe(text)
+-})
+-
+-test("a move leaves a route naming the generated types of where that route arrived", async () => {
+-  const root = rebuilt(repoWith({ [TYPED_ROUTE]: TYPED_CODE }))
+-  expect(bodyIn(root, TYPED_ROUTE)).toBe(TYPED_CODE)
+-  const said = await move(["--from", TYPED_ROUTE, "--to", TYPED_ROUTE_AT], givenIn(root))
+-  expect(said.refusals).toEqual([])
+-  expect(bodyIn(root, TYPED_ROUTE_AT)).toBe(TYPED_REPOINTED)
+-})
+diff --git a/code-system/path-repointing/path-repointing.module.ts b/code-system/path-repointing/path-repointing.module.ts
+deleted file mode 100644
+index 02ce16fa628a3f1c73d0552240aefc87a09f0df8..0000000000000000000000000000000000000000
+--- a/code-system/path-repointing/path-repointing.module.ts
++++ /dev/null
+@@ -1,58 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const pathRepointing = {
+-  id: "01a04efb-db14-7000-a96d-4bace8327509",
+-  pageTypeSlug: "module",
+-  slug: "path-repointing",
+-  definition: "a body rewritten so the paths it names follow the files that moved",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A body is rewritten in one run with each name replaced where the name sits rather than found again.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A name is written back quoted matching the way the body spells that name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A name reaching nothing that moved is left as the name stands.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The path a package's name reaches moves without that name changing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A name that is no module specifier is read against the folder of the body naming it.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Such a name is written back only where it lands on a path that moved.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A name holding no slash is left as that name is.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A body's own generated declarations sit in a `+types` folder beside the body.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Those declarations are named for the body naming them.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A specifier naming them follows the body's new folder and new name.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No naming is handed in here.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/command-system/commands/move/move.command.code.ts b/command-system/commands/move/move.command.code.ts
+index 95dbb637bbb779672ea9ce74914578687f4bddd3..48e0f1e8730d06c4f2d07beda6415445a577d312 100644
+--- a/command-system/commands/move/move.command.code.ts
++++ b/command-system/commands/move/move.command.code.ts
+@@ -2,7 +2,7 @@ import { resolve } from "node:path"
+ import { typed } from "@akasha/code-system/code-typing"
+ import { everyPath } from "@akasha/indexes"
+ import { valuesOver } from "@akasha/pages/page-value"
+-import { repointed } from "../../../code-system/path-repointing/path-repointing.module.code.ts"
++import { repointed } from "../../../changes/partial/pages/repoint-imports/repoint-imports.module.code.ts"
+ import {
+   importingOf,
+   spellingOf,
+diff --git a/command-system/commands/refactor/refactor.command.code.ts b/command-system/commands/refactor/refactor.command.code.ts
+index 4f5e00cd89cbedd192f36c426e1cc1c026c3bb4a..c662e57eee3d63acbc0f88a3c2aa8969b77c9862 100644
+--- a/command-system/commands/refactor/refactor.command.code.ts
++++ b/command-system/commands/refactor/refactor.command.code.ts
+@@ -6,7 +6,7 @@ import { importEdge } from "@akasha/graph/import-edge"
+ import { everyPath, listedAt, readingIn } from "@akasha/indexes"
+ import { uncommittedNamed } from "@akasha/pages/page-file-name"
+ import { shadowAt } from "@akasha/pages/shadow"
+-import { repointed } from "../../../code-system/path-repointing/path-repointing.module.code.ts"
++import { repointed } from "../../../changes/partial/pages/repoint-imports/repoint-imports.module.code.ts"
+ import {
+   importingOf,
+   spellingOf,
+diff --git a/command-system/commands/refactor/retype-writing/retype-writing.module.code.ts b/command-system/commands/refactor/retype-writing/retype-writing.module.code.ts
+index 1e8a68f3ec6f7c306af9183fd5584c77520061f3..d72ae36930f9d5e5a1350e3485602fb6b5b57743 100644
+--- a/command-system/commands/refactor/retype-writing/retype-writing.module.code.ts
++++ b/command-system/commands/refactor/retype-writing/retype-writing.module.code.ts
+@@ -2,7 +2,7 @@ import { parsedAs } from "@akasha/code-system/code-source"
+ import { typed } from "@akasha/code-system/code-typing"
+ import { uncommittedNamed } from "@akasha/pages/page-file-name"
+ import ts from "typescript"
+-import { repointed } from "../../../../code-system/path-repointing/path-repointing.module.code.ts"
++import { repointed } from "../../../../changes/partial/pages/repoint-imports/repoint-imports.module.code.ts"
+ import {
+   importingOf,
+   spellingOf,
