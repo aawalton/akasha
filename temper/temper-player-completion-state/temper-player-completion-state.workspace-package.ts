@@ -25,8 +25,7 @@ export const temperPlayerCompletionState = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A shape two addons both name is declared here rather than in either of those addons.",
+      statement: "A shape two addons both name is declared here rather than in those addons.",
     },
     {
       invariantKind: "absence",
