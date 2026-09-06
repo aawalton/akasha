@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
-index b8ade63be5844cd954278abdc774889eed65f2dc..333929a30f3bdf9c06c93afd1f2be4755839926e 100644
+index b8ade63be5844cd954278abdc774889eed65f2dc..d5e49dc64bf3bf4a1593bf03828879c100246642 100644
 --- a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
 +++ b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
 @@ -41,7 +41,8 @@ export const temperInventoryRule = {
@@ -13,3 +13,13 @@ index b8ade63be5844cd954278abdc774889eed65f2dc..333929a30f3bdf9c06c93afd1f2be475
      },
      {
        invariantKind: "departure",
+@@ -49,7 +50,8 @@ export const temperInventoryRule = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A chain is read ahead of a destination where a rule states each.",
++      statement:
++        "A chain is read ahead of a destination where a rule states a chain and a destination.",
+     },
+     {
+       invariantKind: "gap",
