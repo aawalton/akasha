@@ -9,12 +9,15 @@ export const supervisorInteractiveIteration = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An agent id is created only where the pass was handed none.",
+      statement: "An agent id is created only where no agent id was handed in.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A carried name and a pending prompt reach a fresh agent alone, and are then cleared.",
+      statement: "A carried name and a pending prompt reach a fresh agent alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A carried name and a pending prompt are cleared once read.",
     },
     {
       invariantKind: "departure",
