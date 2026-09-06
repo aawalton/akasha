@@ -54,16 +54,33 @@ async function guardsIn(world: World, address: string): Promise<readonly Guard[]
   return found
 }
 
-export async function runAt(world: World, at: string, given: unknown): Promise<Answer> {
+export type Loaded = {
+  readonly run: (world: World, given: unknown) => Answer
+  readonly guards: readonly Guard[]
+}
+
+// Loading a change reaches the disk and running one does not, so the two are separate acts. A
+// caller holding a lock over a store of its own loads before the lock and runs inside the lock.
+export async function loadedAt(world: World, at: string): Promise<Loaded | string> {
   const run = await exportedAt(world, at, RUN_CHANGE)
   if (typeof run !== "function") {
-    return refusing(`\`${at}\` reaches no change exporting \`${RUN_CHANGE}\``)
+    return `\`${at}\` reaches no change exporting \`${RUN_CHANGE}\``
   }
-  const said = (run as (world: World, given: unknown) => Answer)(world, given)
-  if (said.refused !== null) return said
   const guards = await guardsIn(world, at)
-  if (typeof guards === "string") return refusing(guards)
-  return guardedBy(world, said, guards)
+  if (typeof guards === "string") return guards
+  return { run: run as (world: World, given: unknown) => Answer, guards }
+}
+
+export function ranBy(world: World, loaded: Loaded, given: unknown): Answer {
+  const said = loaded.run(world, given)
+  if (said.refused !== null) return said
+  return guardedBy(world, said, loaded.guards)
+}
+
+export async function runAt(world: World, at: string, given: unknown): Promise<Answer> {
+  const loaded = await loadedAt(world, at)
+  if (typeof loaded === "string") return refusing(loaded)
+  return ranBy(world, loaded, given)
 }
 
 // A caller naming an address in its own text is held to the arguments the map states for that

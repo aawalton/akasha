@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { agentPathOf } from "@akasha/context/warranting"
-import { removePage } from "../../../changes/command/pages/remove-page/remove-page.change-command.code.ts"
+import { partedIn } from "@akasha/pages/page-file-name"
 import type {
   Edit,
   Answer as Said,
@@ -16,19 +16,31 @@ import {
   foldedIn,
   keptEdits,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import {
+  type Loaded,
+  loadedAt,
+  ranBy,
+} from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
+import {
+  type Given as Arguments,
+  readingIn,
+} from "../../argument-reading/argument-reading.module.code.ts"
 import { mistaking } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
-import { FILE_PATH, offRepo, pathAt, unknownIn, valuesOf } from "../write/write.command.code.ts"
+import { inputIn, type Piping } from "../../piping/piping.module.code.ts"
+import { offRepo, pathAt, unknownIn } from "../write/write.command.code.ts"
 
 const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
 
 const BARE: readonly string[] = []
 
 const BYTES = new TextEncoder()
+
+const AT = "at"
 
 const RUNS_CHECKS = "runsChecks"
 
@@ -43,55 +55,12 @@ const DROPPED = "these edits are gone, and no apply lands them"
 
 const NOTHING_KEPT = "no edits are kept beside this agent's page, so nothing went"
 
-export type Wrong = { readonly refusals: readonly string[] }
+const DROP_SAID = "`drop` takes away the edits kept, and is the one word here naming no change"
+
+const NO_ARGUMENTS =
+  "a change reads its arguments from standard input, and this call piped nothing in"
 
 export type Over = (world: World) => Said
-
-export type Option = {
-  readonly slug: string
-  readonly valued: readonly string[]
-  readonly over: (root: string, argv: readonly string[]) => Over | Wrong
-}
-
-function onePathIn(root: string, argv: readonly string[]): { readonly path: string } | Wrong {
-  const said = valuesOf(argv, FILE_PATH, [FILE_PATH])
-  if (said.length === 0) {
-    return { refusals: [`${FILE_PATH} names the path the change acts on, and none is given`] }
-  }
-  if (said.length > 1) {
-    return {
-      refusals: [
-        `${FILE_PATH} is given ${String(said.length)} times, and one change names one path`,
-      ],
-    }
-  }
-  const one = said[0]
-  if (one === undefined || one === null) {
-    return { refusals: [`${FILE_PATH} takes a path, and none follows it`] }
-  }
-  const path = pathAt(root, one)
-  return path === null ? { refusals: [offRepo(one)] } : { path }
-}
-
-export const OPTIONS: readonly Option[] = [
-  {
-    slug: "remove-page",
-    valued: [FILE_PATH],
-    over: (root, argv) => {
-      const named = onePathIn(root, argv)
-      if ("refusals" in named) return named
-      return (world) => removePage(world, { at: named.path })
-    },
-  },
-]
-
-function optionFor(slug: string): Option | null {
-  return OPTIONS.find((one) => one.slug === slug) ?? null
-}
-
-function optionsSaid(): string {
-  return OPTIONS.map((one) => `\`${one.slug}\``).join(", ")
-}
 
 function textIn(root: string): (path: string) => string | null {
   return (path) => {
@@ -106,6 +75,37 @@ function textIn(root: string): (path: string) => string | null {
 function worldFor(root: string, had: readonly Edit[], before: Said): World {
   const base = worldAt(root, textIn(root))
   return had.length === 0 ? base : worldOver(base, before)
+}
+
+export function runsSaid(world: World): string {
+  const held = world.index
+    .everyOfType(CHANGE_COMMAND)
+    .map((one) => partedIn(one.path)?.slug ?? null)
+    .filter((one): one is string => one !== null)
+  return [...held]
+    .sort()
+    .map((one) => `\`${one}\``)
+    .join(", ")
+}
+
+// The arguments are text a caller piped in rather than flags, so a body carrying a quote or a
+// backslash reaches the change as the caller wrote the body and nothing is escaped on the way.
+export function argumentsIn(piping: Piping): Arguments | string {
+  const held = piping()
+  if ("tty" in held) return NO_ARGUMENTS
+  if ("unreadable" in held) return `the arguments would not open: ${held.unreadable}`
+  if (held.bytes.byteLength === 0) return NO_ARGUMENTS
+  const read = readingIn(new TextDecoder().decode(held.bytes))
+  return "refused" in read ? read.refused : read.given
+}
+
+// A path is the one argument this command reads rather than the change, because a change knows
+// nothing of where the repository sits and every change naming a path names that path as `at`.
+export function rootedIn(root: string, given: Arguments): Arguments | string {
+  const said = given[AT]
+  if (said === undefined) return given
+  const path = pathAt(root, said)
+  return path === null ? offRepo(said) : { ...given, [AT]: path }
 }
 
 // A change states whether the checks run over it, so a partial costs nothing here. The edits kept
@@ -128,8 +128,8 @@ async function judgedSaid(root: string, rows: readonly Edit[]): Promise<readonly
   return [...said.map((one) => `${one.path} — ${one.reason}`), STILL_KEPT]
 }
 
-function checkedIn(root: string, slug: string): boolean {
-  const value = worldAt(root, textIn(root)).index.pageAt(CHANGE_COMMAND, slug)
+function checkedIn(world: World, slug: string): boolean {
+  const value = world.index.pageAt(CHANGE_COMMAND, slug)
   return value !== null && value[RUNS_CHECKS] === true
 }
 
@@ -192,36 +192,37 @@ export async function appending(
   return { ...answer, report: [...answer.report, ...(await judgedSaid(root, kept.rows))] }
 }
 
+export type Loading = (world: World, at: string) => Promise<Loaded | string>
+
+// The change is loaded before the turn over the edits is taken, because loading reaches the disk
+// and the turn holds every other caller out while the turn runs.
 export async function changing(
   root: string,
   page: string,
-  argv: readonly string[]
+  argv: readonly string[],
+  piping: Piping,
+  loading: Loading
 ): Promise<Answer> {
+  const world = worldAt(root, textIn(root))
   const slug = argv[0]
   if (slug === undefined) {
-    return mistaking([`no change is named, and this runs one of ${optionsSaid()}`])
+    return mistaking([`no change is named, and this runs one of ${runsSaid(world)}`, DROP_SAID])
   }
-  const rest = argv.slice(1)
-  if (slug === DROP) {
-    const said = unknownIn(rest, [], BARE)
-    return said.length > 0 ? mistaking(said) : dropping(root, page)
-  }
-  const option = optionFor(slug)
-  if (option === null) {
-    return mistaking([
-      `\`${slug}\` is no change this runs, which takes ${optionsSaid()}`,
-      "`drop` takes away the edits kept, and is the one word here naming no change",
-    ])
-  }
-  const unknown = unknownIn(rest, option.valued, BARE)
+  const unknown = unknownIn(argv.slice(1), BARE, BARE)
   if (unknown.length > 0) return mistaking(unknown)
-  const over = option.over(root, rest)
-  if ("refusals" in over) return mistaking(over.refusals)
-  return await appending(root, page, over, checkedIn(root, slug))
+  if (slug === DROP) return dropping(root, page)
+  const said = argumentsIn(piping)
+  if (typeof said === "string") return mistaking([said])
+  const given = rootedIn(root, said)
+  if (typeof given === "string") return mistaking([given])
+  const loaded = await loading(world, `${CHANGE_COMMAND}/${slug}`)
+  if (typeof loaded === "string") return mistaking([loaded, DROP_SAID])
+  const held: Loaded = loaded
+  return await appending(root, page, (one) => ranBy(one, held, given), checkedIn(world, slug))
 }
 
 export async function change(argv: readonly string[], given: Given): Promise<Answer> {
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) return mistaking([NO_PAGE])
-  return await changing(given.root, page, argv)
+  return await changing(given.root, page, argv, inputIn, loadedAt)
 }

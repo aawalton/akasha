@@ -49,6 +49,23 @@ export const changeRunning = {
       statement: "An address worked out while a command runs is held to the change's refusals.",
     },
     {
+      invariantKind: "departure",
+      statement: "Loading a change and running that change are two acts.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Loading reaches the disk and running reaches nothing outside the world handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller holding a lock over a store loads before the lock is taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The guards are loaded alongside the change rather than after the change answers.",
+    },
+    {
       invariantKind: "absence",
       statement: "No change is imported here.",
     },
