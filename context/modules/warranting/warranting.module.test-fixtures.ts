@@ -256,6 +256,9 @@ export function pageTypeListed(root: string, slug: string, above: readonly strin
     `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}"${said} }\n`
   )
   listedFiled(root, "page-type", slug, [{ path, id }])
+  valueAlsoFiled(root, "page-type", [
+    { path, value: { id, pageTypeSlug: "page-type", slug, extendsSlug: named } },
+  ])
   return path
 }
 
