@@ -1,0 +1,27 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
+index e6b8b6999a4c0568aa8bbb181c196383890f953a..264fc75bf645af6d6abdfe5d1074d581670f3f48 100644
+--- a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
++++ b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
+@@ -11,15 +11,15 @@ const ID = "id"
+ 
+ const OWN: ReadonlySet<string> = new Set([ID])
+ 
+-export function overMax(
++export function overLength(
+   said: unknown,
+-  max: number | null,
++  length: number | null,
+   slug: string,
+   where: string
+ ): string | null {
+-  if (typeof said !== "string" || max === null) return null
+-  if (said.length <= max) return null
+-  return `${where}\`${slug}\` runs to ${said.length} characters, over the max of ${max}`
++  if (typeof said !== "string" || length === null) return null
++  if (said.length <= length) return null
++  return `${where}\`${slug}\` runs to ${said.length} characters, over the length of ${length}`
+ }
+ 
+ export function offFormat(
