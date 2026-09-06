@@ -1,8 +1,13 @@
 diff --git a/alan/harness/monarch/merchant/monarch-merchant-naming.module.ts b/alan/harness/monarch/merchant/monarch-merchant-naming.module.ts
-index b7cd87783df3bc180ea3684fb46789dd10739ed3..26f7fffb6b22ac48fa1e6546e38b0ce379c8c66c 100644
+index b7cd87783df3bc180ea3684fb46789dd10739ed3..e9e0379044f42b78c4da43cb3dd1c08b4ef52c05 100644
 --- a/alan/harness/monarch/merchant/monarch-merchant-naming.module.ts
 +++ b/alan/harness/monarch/merchant/monarch-merchant-naming.module.ts
-@@ -22,12 +22,15 @@ export const monarchMerchantNaming = {
+@@ -18,16 +18,19 @@ export const monarchMerchantNaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Both the value and the patterns are lowered, so naming is not a matter of case.",
++      statement: "Both the value and the patterns are lowered.",
      },
      {
        invariantKind: "departure",
