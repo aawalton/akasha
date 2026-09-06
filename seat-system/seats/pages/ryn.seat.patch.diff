@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/code-system/python-modules/python-module.page-type.ts b/code-system/python-modules/python-module.page-type.ts
+index ea3f2aaab013cbac61b7779333027fa335a6c814..119ea38437fca862983071e46ff24f0998c072d3 100644
+--- a/code-system/python-modules/python-module.page-type.ts
++++ b/code-system/python-modules/python-module.page-type.ts
+@@ -27,7 +27,7 @@ export const pythonModule = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A Python module reaches its siblings by the name each carries where that module runs.",
++        "A Python module reaches its siblings by the name a sibling carries where that module runs.",
+     },
+     {
+       invariantKind: "departure",
