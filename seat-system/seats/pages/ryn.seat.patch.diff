@@ -1,8 +1,8 @@
 diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
-index e4a067b2d2530db18f5b8c041a41c30da030aa54..412559a74000aca18d0f2eb3899728e4c106ac21 100644
+index e4a067b2d2530db18f5b8c041a41c30da030aa54..324753e2edb7e8ebe717cf53cd82a852a52891e1 100644
 --- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 +++ b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
-@@ -15,7 +15,7 @@ export const surplusFallNotifying = {
+@@ -15,12 +15,15 @@ export const surplusFallNotifying = {
      {
        invariantKind: "departure",
        statement:
@@ -11,3 +11,13 @@ index e4a067b2d2530db18f5b8c041a41c30da030aa54..412559a74000aca18d0f2eb3899728e4
      },
      {
        invariantKind: "departure",
+-      statement:
+-        "Where the day sits is the readout's reading now, and a reading below the open is a fall.",
++      statement: "Where the day sits is the readout's reading now.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A reading below the open is a fall.",
+     },
+ 
+     {
