@@ -1,9 +1,22 @@
-readersOweReading: false
 diff --git a/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts b/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
-index 7f3f32d4fc9af2c4ebca413726cfd6e1c3d62af1..2d31737e4e1b5a78707000c2aca66f6e832f03c5 100644
+index 7f3f32d4fc9af2c4ebca413726cfd6e1c3d62af1..3c286a8667b4d1dfce88fbe7f8bf2bccdd000c7c 100644
 --- a/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
 +++ b/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
-@@ -19,7 +19,7 @@ export const monarchAmazonRefunds = {
+@@ -9,8 +9,11 @@ export const monarchAmazonRefunds = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A refund note names the item that came back, drawn from the order that bought that item.",
++      statement: "A refund note names the item that came back.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The item a refund note names is drawn from the order that bought that item.",
+     },
+     {
+       invariantKind: "departure",
+@@ -19,7 +22,7 @@ export const monarchAmazonRefunds = {
      },
      {
        invariantKind: "departure",
