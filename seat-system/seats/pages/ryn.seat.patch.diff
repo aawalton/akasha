@@ -1,9 +1,9 @@
 readersOweReading: false
 diff --git a/pages/value-reading/page-value-reading.module.ts b/pages/value-reading/page-value-reading.module.ts
-index a7ddedd0811fc7515b6694f9399e6b5c411aa465..f56176aa8af34b5405bd39d6673e7d072e8cc360 100644
+index a7ddedd0811fc7515b6694f9399e6b5c411aa465..44de4031e2aa33e18e908549730dd4dc1a0aa444 100644
 --- a/pages/value-reading/page-value-reading.module.ts
 +++ b/pages/value-reading/page-value-reading.module.ts
-@@ -17,7 +17,7 @@ export const pageValueReading = {
+@@ -17,11 +17,11 @@ export const pageValueReading = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,8 @@ index a7ddedd0811fc7515b6694f9399e6b5c411aa465..f56176aa8af34b5405bd39d6673e7d07
      },
      {
        invariantKind: "departure",
+-      statement: "A browser reaches this and never what loads a value from a file.",
++      statement: "A browser reaches this module and never the module loading a value from a file.",
+     },
+     {
+       invariantKind: "absence",
