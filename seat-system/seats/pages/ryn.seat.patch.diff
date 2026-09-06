@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/google/calendar/send-updates-narrowing/send-updates-narrowing.module.ts b/google/calendar/send-updates-narrowing/send-updates-narrowing.module.ts
+index 2ec977a0bc974e1ebb465734c84dd140e056d3fa..35e0c01c8d3b80d0b7ceb489ac18d03a2dbf53fa 100644
+--- a/google/calendar/send-updates-narrowing/send-updates-narrowing.module.ts
++++ b/google/calendar/send-updates-narrowing/send-updates-narrowing.module.ts
+@@ -13,7 +13,7 @@ export const sendUpdatesNarrowing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Saying nothing about send-updates is not saying none.",
++      statement: "Saying nothing about send-updates is not asking for `none`.",
+     },
+   ],
+ } as const satisfies Module
