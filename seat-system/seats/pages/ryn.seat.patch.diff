@@ -1,5 +1,5 @@
 diff --git a/service-system/workstation-services/pages/orphaned-resources-sweep.workstation-service.ts b/service-system/workstation-services/pages/orphaned-resources-sweep.workstation-service.ts
-index 427370ace54e334845fcf0b8d1ad3c160b4935bb..594e7974330b3e280f209418c8058123c51c5001 100644
+index 427370ace54e334845fcf0b8d1ad3c160b4935bb..c5bebfd26bd07db4500ec4f75f216a582b98a495 100644
 --- a/service-system/workstation-services/pages/orphaned-resources-sweep.workstation-service.ts
 +++ b/service-system/workstation-services/pages/orphaned-resources-sweep.workstation-service.ts
 @@ -17,8 +17,11 @@ export const orphanedResourcesSweep = {
@@ -16,3 +16,22 @@ index 427370ace54e334845fcf0b8d1ad3c160b4935bb..594e7974330b3e280f209418c8058123
      },
      {
        invariantKind: "departure",
+@@ -26,11 +29,16 @@ export const orphanedResourcesSweep = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A clean sweep says nothing, so every message this service sends is drift.",
++      statement: "A clean sweep says nothing.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The manifests compared against are read from the code checkout beside this one.",
++      statement: "Every message this service sends is drift.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The manifests compared against are read from the code checkout beside this checkout.",
+     },
+   ],
+ } as const satisfies WorkstationService
