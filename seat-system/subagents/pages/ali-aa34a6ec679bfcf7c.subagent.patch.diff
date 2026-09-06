@@ -1438,3 +1438,363 @@ index 1c83690e76d831a6a7ed45b8f13cbee3d262ee83..360d27208162821faf76bb56adb88210
    scoredOn: "2026-06-20",
    status: "live",
    partOfSlugs: ["learn-everything-topic-02-mathematics"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-branches-of-private-law-substantive-and-procedural/learn-everything-topic-03-branches-of-private-law-substantive-and-procedural.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-branches-of-private-law-substantive-and-procedural/learn-everything-topic-03-branches-of-private-law-substantive-and-procedural.learn-everything-topic.ts
+index f4945b22fdefb21a3b6f1277688627adf26a48e6..0ff3f754c7c6b614d8e625059289721b75ff6e5f 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-branches-of-private-law-substantive-and-procedural/learn-everything-topic-03-branches-of-private-law-substantive-and-procedural.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-branches-of-private-law-substantive-and-procedural/learn-everything-topic-03-branches-of-private-law-substantive-and-procedural.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03BranchesOfPrivateLawSubstantiveAndProcedural
+   slug: "learn-everything-topic-03-branches-of-private-law-substantive-and-procedural",
+   node: "Human Society › Law › Branches of Private Law, Substantive and Procedural",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-05-law"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-central-and-northeast-asia-to-1750/learn-everything-topic-03-central-and-northeast-asia-to-1750.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-central-and-northeast-asia-to-1750/learn-everything-topic-03-central-and-northeast-asia-to-1750.learn-everything-topic.ts
+index 6415d6e45f214978bcb856951aa48871ffd4fff2..a5e0d8bb3c64a77871c0b3056bfaf50806d7915c 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-central-and-northeast-asia-to-1750/learn-everything-topic-03-central-and-northeast-asia-to-1750.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-central-and-northeast-asia-to-1750/learn-everything-topic-03-central-and-northeast-asia-to-1750.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03CentralAndNortheastAsiaTo1750 = {
+   slug: "learn-everything-topic-03-central-and-northeast-asia-to-1750",
+   node: "The History of Mankind › East, Central, South, and Southeast Asia › Central and Northeast Asia to 1750",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-03-east-central-south-and-southeast-asia"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-characteristics-of-the-arts-in-particular-cultures/learn-everything-topic-03-characteristics-of-the-arts-in-particular-cultures.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-characteristics-of-the-arts-in-particular-cultures/learn-everything-topic-03-characteristics-of-the-arts-in-particular-cultures.learn-everything-topic.ts
+index a5d00d978c5a33f6435c746cd91b9af69feb918f..d192b78c5d6e04ff588be4983dd4c36ec76ea8a5 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-characteristics-of-the-arts-in-particular-cultures/learn-everything-topic-03-characteristics-of-the-arts-in-particular-cultures.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-characteristics-of-the-arts-in-particular-cultures/learn-everything-topic-03-characteristics-of-the-arts-in-particular-cultures.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03CharacteristicsOfTheArtsInParticularCultures
+   slug: "learn-everything-topic-03-characteristics-of-the-arts-in-particular-cultures",
+   node: "Art › Art in General › Characteristics of the Arts in Particular Cultures",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-01-art-in-general"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-chemical-reactions/learn-everything-topic-03-chemical-reactions.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-chemical-reactions/learn-everything-topic-03-chemical-reactions.learn-everything-topic.ts
+index 91363f21f598381180ccaf49c7763ee3493eb96d..bf7f071b5419a2f137b4b957d97d277ac50ccb5a 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-chemical-reactions/learn-everything-topic-03-chemical-reactions.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-chemical-reactions/learn-everything-topic-03-chemical-reactions.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03ChemicalReactions = {
+   slug: "learn-everything-topic-03-chemical-reactions",
+   node: "Matter and Energy › Energy, Radiation, and States of Matter › Chemical Reactions",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-classic-maya/learn-everything-topic-03-classic-maya.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-classic-maya/learn-everything-topic-03-classic-maya.learn-everything-topic.ts
+index 2cc498d98355b6b70cb973b37fc41e09223bc3b0..b65fc3392591cf6f25a3b144b2ce925d13f9d351 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-classic-maya/learn-everything-topic-03-classic-maya.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-classic-maya/learn-everything-topic-03-classic-maya.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03ClassicMaya = {
+   slug: "learn-everything-topic-03-classic-maya",
+   node: "The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Classic Maya",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-02-meso-american-civilization-to-ad-1540"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-classification-of-living-things/learn-everything-topic-03-classification-of-living-things.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-classification-of-living-things/learn-everything-topic-03-classification-of-living-things.learn-everything-topic.ts
+index b9a9434e200b503bb52299b5c935c18f195e37dd..f3c718f215f0d4a6a2dfe9a4b649f6cd939ad1a3 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-classification-of-living-things/learn-everything-topic-03-classification-of-living-things.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-classification-of-living-things/learn-everything-topic-03-classification-of-living-things.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03ClassificationOfLivingThings = {
+   slug: "learn-everything-topic-03-classification-of-living-things",
+   node: "Life on Earth › The Nature and Diversity of Life › Classification of Living Things",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-01-the-nature-and-diversity-of-life"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-construction-technology/learn-everything-topic-03-construction-technology.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-construction-technology/learn-everything-topic-03-construction-technology.learn-everything-topic.ts
+index 31eb77e2050c41830b7957375458bd9f583fbc1a..36774cdd86943498c80636361d6af94c5ef7c8c9 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-construction-technology/learn-everything-topic-03-construction-technology.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-construction-technology/learn-everything-topic-03-construction-technology.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03ConstructionTechnology = {
+   slug: "learn-everything-topic-03-construction-technology",
+   node: "Technology › Fields of Technology › Construction Technology",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-03-fields-of-technology"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-coordination-of-vital-processes-regulation-and-integration/learn-everything-topic-03-coordination-of-vital-processes-regulation-and-integration.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-coordination-of-vital-processes-regulation-and-integration/learn-everything-topic-03-coordination-of-vital-processes-regulation-and-integration.learn-everything-topic.ts
+index 1e0f238ac827d1c234588a5c7f906f07016f66b9..309c28337213dc9b1f1fbcac4bd4cd4f202d58b6 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-coordination-of-vital-processes-regulation-and-integration/learn-everything-topic-03-coordination-of-vital-processes-regulation-and-integration.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-coordination-of-vital-processes-regulation-and-integration/learn-everything-topic-03-coordination-of-vital-processes-regulation-and-integration.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03CoordinationOfVitalProcessesRegulationAndInte
+   slug: "learn-everything-topic-03-coordination-of-vital-processes-regulation-and-integration",
+   node: "Life on Earth › The Structures and Functions of Organisms › Coordination of Vital Processes: Regulation and Integration",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-disease-and-death/learn-everything-topic-03-disease-and-death.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-disease-and-death/learn-everything-topic-03-disease-and-death.learn-everything-topic.ts
+index 4b65d2ea3055a4fb5d43cb5b62bf0a6b1f3946c5..5234ea88b59c61f6de83ade68d95b64e1769a58c 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-disease-and-death/learn-everything-topic-03-disease-and-death.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-disease-and-death/learn-everything-topic-03-disease-and-death.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03DiseaseAndDeath = {
+   slug: "learn-everything-topic-03-disease-and-death",
+   node: "Life on Earth › The Biosphere › Disease and Death",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-05-the-biosphere"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-east-africa-and-madagascar-to-1885/learn-everything-topic-03-east-africa-and-madagascar-to-1885.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-east-africa-and-madagascar-to-1885/learn-everything-topic-03-east-africa-and-madagascar-to-1885.learn-everything-topic.ts
+index fb6ef815cca3b7e7c15507556944a128c8dc6070..bc959ba482232e9fcbf3b005807fc03484d41fa1 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-east-africa-and-madagascar-to-1885/learn-everything-topic-03-east-africa-and-madagascar-to-1885.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-east-africa-and-madagascar-to-1885/learn-everything-topic-03-east-africa-and-madagascar-to-1885.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03EastAfricaAndMadagascarTo1885 = {
+   slug: "learn-everything-topic-03-east-africa-and-madagascar-to-1885",
+   node: "The History of Mankind › Sub-Saharan Africa to 1885 › East Africa and Madagascar to 1885",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-04-sub-saharan-africa-to-1885"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-east-central-south-and-southeast-asia/learn-everything-topic-03-east-central-south-and-southeast-asia.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-east-central-south-and-southeast-asia/learn-everything-topic-03-east-central-south-and-southeast-asia.learn-everything-topic.ts
+index c3a829ea098a98af98b969a7fe6b1c9aa5b28884..e06265df6c4164bde14d935a4a0d960524768e16 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-east-central-south-and-southeast-asia/learn-everything-topic-03-east-central-south-and-southeast-asia.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-east-central-south-and-southeast-asia/learn-everything-topic-03-east-central-south-and-southeast-asia.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03EastCentralSouthAndSoutheastAsia = {
+   slug: "learn-everything-topic-03-east-central-south-and-southeast-asia",
+   node: "The History of Mankind › East, Central, South, and Southeast Asia",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-09-the-history-of-mankind"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-eras-and-periods-of-geologic-time/learn-everything-topic-03-eras-and-periods-of-geologic-time.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-eras-and-periods-of-geologic-time/learn-everything-topic-03-eras-and-periods-of-geologic-time.learn-everything-topic.ts
+index 7a04e7961bd677cc65e0cafa6586b34f5d7cbded..b28d12f9a27245674dc4ed054e2e3305d69b52e2 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-eras-and-periods-of-geologic-time/learn-everything-topic-03-eras-and-periods-of-geologic-time.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-eras-and-periods-of-geologic-time/learn-everything-topic-03-eras-and-periods-of-geologic-time.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03ErasAndPeriodsOfGeologicTime = {
+   slug: "learn-everything-topic-03-eras-and-periods-of-geologic-time",
+   node: "The Earth › Earth's History › Eras and Periods of Geologic Time",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-04-earth-s-history"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-europe-1789-1920/learn-everything-topic-03-europe-1789-1920.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-europe-1789-1920/learn-everything-topic-03-europe-1789-1920.learn-everything-topic.ts
+index 774e5beeede377b182095aa889e5c1f885531b64..a26fbbb3edaf08076e17ca059d943ef32db30511 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-europe-1789-1920/learn-everything-topic-03-europe-1789-1920.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-europe-1789-1920/learn-everything-topic-03-europe-1789-1920.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03Europe17891920 = {
+   slug: "learn-everything-topic-03-europe-1789-1920",
+   node: "The History of Mankind › The Modern World to 1920 › Europe 1789–1920",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-06-the-modern-world-to-1920"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-fields-of-technology/learn-everything-topic-03-fields-of-technology.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-fields-of-technology/learn-everything-topic-03-fields-of-technology.learn-everything-topic.ts
+index 72f66b4623715ac737127aead52c254c8c4a93bc..25e14c2df6301a5ab8d47b82f3436ff04afd14d0 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-fields-of-technology/learn-everything-topic-03-fields-of-technology.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-fields-of-technology/learn-everything-topic-03-fields-of-technology.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03FieldsOfTechnology = {
+   slug: "learn-everything-topic-03-fields-of-technology",
+   node: "Technology › Fields of Technology",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-07-technology"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-functioning-of-government-the-dynamics-of-the-political-process/learn-everything-topic-03-functioning-of-government-the-dynamics-of-the-political-process.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-functioning-of-government-the-dynamics-of-the-political-process/learn-everything-topic-03-functioning-of-government-the-dynamics-of-the-political-process.learn-everything-topic.ts
+index 0a18798f7893929181aabcba942527d09ed0021b..7d1a6eac5c0c45a2508a737b0a0e622cbac4dc88 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-functioning-of-government-the-dynamics-of-the-political-process/learn-everything-topic-03-functioning-of-government-the-dynamics-of-the-political-process.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-functioning-of-government-the-dynamics-of-the-political-process/learn-everything-topic-03-functioning-of-government-the-dynamics-of-the-political-process.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03FunctioningOfGovernmentTheDynamicsOfThePoliti
+   slug: "learn-everything-topic-03-functioning-of-government-the-dynamics-of-the-political-process",
+   node: "Human Society › Politics and Government › Functioning of Government: the Dynamics of the Political Process",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-04-politics-and-government"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-hinduism-and-other-religions-of-india/learn-everything-topic-03-hinduism-and-other-religions-of-india.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-hinduism-and-other-religions-of-india/learn-everything-topic-03-hinduism-and-other-religions-of-india.learn-everything-topic.ts
+index b5a65449036229924a121fb8b329b6f12a6d7f50..e63a7ed527d465764d8d9a2d8e8bc7433d219ff6 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-hinduism-and-other-religions-of-india/learn-everything-topic-03-hinduism-and-other-religions-of-india.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-hinduism-and-other-religions-of-india/learn-everything-topic-03-hinduism-and-other-religions-of-india.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03HinduismAndOtherReligionsOfIndia = {
+   slug: "learn-everything-topic-03-hinduism-and-other-religions-of-india",
+   node: "Religion › Particular Religions › Hinduism and Other Religions of India",
+   depth: 2,
+-  coverage: 2.0,
+   scoredOn: "2026-06-23",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-02-particular-religions"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-human-behavior-and-experience/learn-everything-topic-03-human-behavior-and-experience.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-human-behavior-and-experience/learn-everything-topic-03-human-behavior-and-experience.learn-everything-topic.ts
+index 7b16a5559513582bfca6aa2b4906137da62ce657..fc1da885f4578702603b0579afb6ef4f8f7a9a87 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-human-behavior-and-experience/learn-everything-topic-03-human-behavior-and-experience.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-human-behavior-and-experience/learn-everything-topic-03-human-behavior-and-experience.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03HumanBehaviorAndExperience = {
+   slug: "learn-everything-topic-03-human-behavior-and-experience",
+   node: "Human Life › Human Behavior and Experience",
+   depth: 0,
+-  coverage: 0.29,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-04-human-life"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-human-diseases/learn-everything-topic-03-human-diseases.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-human-diseases/learn-everything-topic-03-human-diseases.learn-everything-topic.ts
+index b9576b8c862b217c7fff2573ed7402edea7abb4e..7224b4cfa392a61f6567a01e08f29889f2497c53 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-human-diseases/learn-everything-topic-03-human-diseases.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-human-diseases/learn-everything-topic-03-human-diseases.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03HumanDiseases = {
+   slug: "learn-everything-topic-03-human-diseases",
+   node: "Human Life › The Human Body: Health and Disease › Human Diseases",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-02-the-human-body-health-and-disease"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-influence-of-the-current-environment-on-a-person-s-behavior-and-conscious/learn-everything-topic-03-influence-of-the-current-environment-on-a-person-s-behavior-and-conscious.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-influence-of-the-current-environment-on-a-person-s-behavior-and-conscious/learn-everything-topic-03-influence-of-the-current-environment-on-a-person-s-behavior-and-conscious.learn-everything-topic.ts
+index 2267d9173f9d0839848569e8f57880420eaded61..5a4915e572e97a262d406408c7d6807b686579d2 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-influence-of-the-current-environment-on-a-person-s-behavior-and-conscious/learn-everything-topic-03-influence-of-the-current-environment-on-a-person-s-behavior-and-conscious.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-influence-of-the-current-environment-on-a-person-s-behavior-and-conscious/learn-everything-topic-03-influence-of-the-current-environment-on-a-person-s-behavior-and-conscious.learn-everything-topic.ts
+@@ -7,7 +7,6 @@ export const learnEverythingTopic03InfluenceOfTheCurrentEnvironmentOnAPersonSBeh
+     slug: "learn-everything-topic-03-influence-of-the-current-environment-on-a-person-s-behavior-and-conscious",
+     node: "Human Life › Human Behavior and Experience › Influence of the current environment on a person's behavior and conscious experience: attention, sensation, and perception",
+     depth: 0,
+-    coverage: 0.0,
+     scoredOn: "2026-06-19",
+     status: "unopened",
+     partOfSlugs: ["learn-everything-topic-03-human-behavior-and-experience"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-information-theory/learn-everything-topic-03-information-theory.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-information-theory/learn-everything-topic-03-information-theory.learn-everything-topic.ts
+index 4a41980718899698a046c1460a6d04c263e179f9..fbc2ffd454c30496ec9679081212b2ba499f9632 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-information-theory/learn-everything-topic-03-information-theory.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-information-theory/learn-everything-topic-03-information-theory.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03InformationTheory = {
+   slug: "learn-everything-topic-03-information-theory",
+   node: "The Branches of Knowledge › Mathematics › Applications of Mathematics › Information Theory",
+   depth: 3,
+-  coverage: 3.0,
+   scoredOn: "2026-06-20",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-03-applications-of-mathematics"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-life-on-earth/learn-everything-topic-03-life-on-earth.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-life-on-earth/learn-everything-topic-03-life-on-earth.learn-everything-topic.ts
+index b80f725c485bbb7072e48079ecaa13e9ea1e8ab2..6fe2facb065bc9d20d965f10bf907216caece33f 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-life-on-earth/learn-everything-topic-03-life-on-earth.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-life-on-earth/learn-everything-topic-03-life-on-earth.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03LifeOnEarth = {
+   slug: "learn-everything-topic-03-life-on-earth",
+   node: "Life on Earth",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["profile"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-limits-and-metamathematics/learn-everything-topic-03-limits-and-metamathematics.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-limits-and-metamathematics/learn-everything-topic-03-limits-and-metamathematics.learn-everything-topic.ts
+index f89725ad3813198a49087ce81f14707cb7106b51..a239c44dcfe11d7e52678a964f3e3897da20daa0 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-limits-and-metamathematics/learn-everything-topic-03-limits-and-metamathematics.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-limits-and-metamathematics/learn-everything-topic-03-limits-and-metamathematics.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03LimitsAndMetamathematics = {
+   slug: "learn-everything-topic-03-limits-and-metamathematics",
+   node: "The Branches of Knowledge › Mathematics › History and Foundations of Mathematics › Limits and Metamathematics",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-20",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-01-history-and-foundations-of-mathematics"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-major-cultural-components-and-institutions-of-societies/learn-everything-topic-03-major-cultural-components-and-institutions-of-societies.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-major-cultural-components-and-institutions-of-societies/learn-everything-topic-03-major-cultural-components-and-institutions-of-societies.learn-everything-topic.ts
+index 22c57081def3a9ab03dc5fbb0279d312346dfb3c..66dc86a4c864998fff442d55b87979fa147bf832 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-major-cultural-components-and-institutions-of-societies/learn-everything-topic-03-major-cultural-components-and-institutions-of-societies.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-major-cultural-components-and-institutions-of-societies/learn-everything-topic-03-major-cultural-components-and-institutions-of-societies.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03MajorCulturalComponentsAndInstitutionsOfSocie
+   slug: "learn-everything-topic-03-major-cultural-components-and-institutions-of-societies",
+   node: "Human Society › Social Groups: Ethnic groups and Cultures › Major Cultural Components and Institutions of Societies",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-01-social-groups-ethnic-groups-and-cultures"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-motion-pictures/learn-everything-topic-03-motion-pictures.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-motion-pictures/learn-everything-topic-03-motion-pictures.learn-everything-topic.ts
+index 6c8baa6c37f63c4cef473cf92f6ed6fcf70176cf..dc2d4c0041ea2009edcf5b84bb1d1e6497fa1f16 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-motion-pictures/learn-everything-topic-03-motion-pictures.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-motion-pictures/learn-everything-topic-03-motion-pictures.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03MotionPictures = {
+   slug: "learn-everything-topic-03-motion-pictures",
+   node: "Art › Particular Arts › Motion Pictures",
+   depth: 4,
+-  coverage: 4.0,
+   scoredOn: "2026-06-23",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-02-particular-arts"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-philosophical-schools-and-doctrines/learn-everything-topic-03-philosophical-schools-and-doctrines.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-philosophical-schools-and-doctrines/learn-everything-topic-03-philosophical-schools-and-doctrines.learn-everything-topic.ts
+index aa70407a310ae7f56038901dc2f1e7f04fdb7813..24b369c94e002774701ea87aac0588f83dee8d75 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-philosophical-schools-and-doctrines/learn-everything-topic-03-philosophical-schools-and-doctrines.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-philosophical-schools-and-doctrines/learn-everything-topic-03-philosophical-schools-and-doctrines.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03PhilosophicalSchoolsAndDoctrines = {
+   slug: "learn-everything-topic-03-philosophical-schools-and-doctrines",
+   node: "The Branches of Knowledge › Philosophy › Philosophical Schools and Doctrines",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-05-philosophy"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-pilgrimage/learn-everything-topic-03-pilgrimage.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-pilgrimage/learn-everything-topic-03-pilgrimage.learn-everything-topic.ts
+index 1530b4f044481ae84c2ecab33bd9a4a73e3de73b..92999520b57175ae57796033965920e571964732 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-pilgrimage/learn-everything-topic-03-pilgrimage.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-pilgrimage/learn-everything-topic-03-pilgrimage.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03Pilgrimage = {
+   slug: "learn-everything-topic-03-pilgrimage",
+   node: "Religion › Religion in General › Religious Life: Institutions and Practices › Pilgrimage",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-02-religious-life-institutions-and-practices"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-printmaking/learn-everything-topic-03-printmaking.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-printmaking/learn-everything-topic-03-printmaking.learn-everything-topic.ts
+index bd85ebe14d42e8957f6763afd401e3148c0883f6..a4f8d7bba7814a6685bc50cc2fccfb4f0e756c5b 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-printmaking/learn-everything-topic-03-printmaking.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-printmaking/learn-everything-topic-03-printmaking.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03Printmaking = {
+   slug: "learn-everything-topic-03-printmaking",
+   node: "Art › Particular Arts › Drawing, Painting, Printmaking, Photography › Printmaking",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-20",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-08-drawing-painting-printmaking-photography"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-progression-and-economy/learn-everything-topic-03-progression-and-economy.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-progression-and-economy/learn-everything-topic-03-progression-and-economy.learn-everything-topic.ts
+index 4842cf3345fe27f99116966abe3aba8b0df2fcca..1c01d6754c903f068e985ec7a2d773f03c8bfaf0 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-progression-and-economy/learn-everything-topic-03-progression-and-economy.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-progression-and-economy/learn-everything-topic-03-progression-and-economy.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03ProgressionAndEconomy = {
+   slug: "learn-everything-topic-03-progression-and-economy",
+   node: "Art › Particular Arts › Game Design › Progression and Economy",
+   depth: 2,
+-  coverage: 2.0,
+   scoredOn: "2026-06-25",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-10-game-design"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-science/learn-everything-topic-03-science.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-science/learn-everything-topic-03-science.learn-everything-topic.ts
+index fbafe9b8432d3ce8b9a34a7d5b304a12eef06ee0..20577c791f086af1f37523475a9e82c726ce3631 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-science/learn-everything-topic-03-science.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-science/learn-everything-topic-03-science.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03Science = {
+   slug: "learn-everything-topic-03-science",
+   node: "The Branches of Knowledge › Science",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-10-the-branches-of-knowledge"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-social-status/learn-everything-topic-03-social-status.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-social-status/learn-everything-topic-03-social-status.learn-everything-topic.ts
+index bf218cffbe8065623612af3ccfa1889a05f1d034..9c5f23f8499c020f7c41c1e45712a6569ce8261f 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-social-status/learn-everything-topic-03-social-status.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-social-status/learn-everything-topic-03-social-status.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const learnEverythingTopic03SocialStatus = {
+   slug: "learn-everything-topic-03-social-status",
+   node: "Human Society › Social Organization and Social Change › Social Status",
+   depth: 0,
+-  coverage: 0.0,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-02-social-organization-and-social-change"],
