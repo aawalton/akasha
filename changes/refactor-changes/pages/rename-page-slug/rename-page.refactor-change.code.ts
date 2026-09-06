@@ -83,7 +83,7 @@ function besideIn(root: string, held: Held, at: string, to: string): readonly Mo
   return found.sort((one, two) => (one.from < two.from ? -1 : one.from > two.from ? 1 : 0))
 }
 
-export function renamePageSlug(
+export function renamePage(
   root: string,
   given: Asked,
   textOf: (path: string) => string | null

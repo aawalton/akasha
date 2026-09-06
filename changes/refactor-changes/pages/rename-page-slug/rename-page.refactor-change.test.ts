@@ -12,7 +12,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { renamePageSlug } from "./rename-page-slug.refactor-change.code.ts"
+import { renamePage } from "./rename-page.refactor-change.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -41,7 +41,7 @@ const statedAs = (value: Record<string, unknown>, named: string): string =>
   bodyOf(value).replace("export const it", `export const ${named}`)
 
 test("a body that could not be read is refused", () => {
-  const said = renamePageSlug(scratch.rootFor("slug-"), { at: HELD_PAGE, to: CARRIED }, NOTHING)
+  const said = renamePage(scratch.rootFor("slug-"), { at: HELD_PAGE, to: CARRIED }, NOTHING)
   expect(said.bodies).toBe(null)
   expect(said.moved).toBe(null)
   expect(said.refused).toBe("`akasha/one/held.module.ts` could not be read")
@@ -49,33 +49,21 @@ test("a body that could not be read is refused", () => {
 
 test("a body stating no slug is refused", () => {
   const body = bodyOf({ id: idOf("8"), pageTypeSlug: "module" })
-  const said = renamePageSlug(
-    scratch.rootFor("slug-"),
-    { at: HELD_PAGE, to: CARRIED },
-    saying(body)
-  )
+  const said = renamePage(scratch.rootFor("slug-"), { at: HELD_PAGE, to: CARRIED }, saying(body))
   expect(said.bodies).toBe(null)
   expect(said.refused).toBe("`akasha/one/held.module.ts` states no `slug`")
 })
 
 test("a body stating no page type is refused", () => {
   const body = bodyOf({ id: idOf("8"), slug: HELD_SLUG })
-  const said = renamePageSlug(
-    scratch.rootFor("slug-"),
-    { at: HELD_PAGE, to: CARRIED },
-    saying(body)
-  )
+  const said = renamePage(scratch.rootFor("slug-"), { at: HELD_PAGE, to: CARRIED }, saying(body))
   expect(said.bodies).toBe(null)
   expect(said.refused).toBe("`akasha/one/held.module.ts` states no `pageTypeSlug`")
 })
 
 test("a page type is refused, its slug being renamed by another act", () => {
   const body = bodyOf({ id: idOf("8"), pageTypeSlug: "page-type", slug: HELD_SLUG })
-  const said = renamePageSlug(
-    scratch.rootFor("slug-"),
-    { at: HELD_PAGE, to: CARRIED },
-    saying(body)
-  )
+  const said = renamePage(scratch.rootFor("slug-"), { at: HELD_PAGE, to: CARRIED }, saying(body))
   expect(said.bodies).toBe(null)
   expect(said.refused).toBe(
     "`akasha/one/held.module.ts` names a page type, whose slug is renamed by another act"
@@ -84,7 +72,7 @@ test("a page type is refused, its slug being renamed by another act", () => {
 
 test("a refusal from the slug rename is answered as this change's own", () => {
   const root = indexedRepo()
-  const said = renamePageSlug(root, { at: HELD_PAGE, to: "namer" }, textIn(root))
+  const said = renamePage(root, { at: HELD_PAGE, to: "namer" }, textIn(root))
   expect(said.bodies).toBe(null)
   expect(said.moved).toBe(null)
   expect(said.refused).toBe("a `module` carries the slug `namer` already")
@@ -96,7 +84,7 @@ test("a page whose slug is more than one word has its camel export renamed too",
     [OTHER_PAGE]: statedAs(value, "otherOne"),
     "akasha/three/other-one.module.code.ts": "export const kept = 2\n",
   })
-  const said = renamePageSlug(root, { at: OTHER_PAGE, to: CARRIED }, textIn(root))
+  const said = renamePage(root, { at: OTHER_PAGE, to: CARRIED }, textIn(root))
   expect(said.refused).toBe(null)
   const bodies = said.bodies ?? new Map<string, string>()
   expect(bodies.get(OTHER_CARRIED)).toContain(`export const ${CARRIED} =`)
@@ -110,7 +98,7 @@ test("a page's slug is renamed in its data, and its files are carried with it", 
   const namer = was(NAMER_PAGE) ?? ""
   const namerCode = was(NAMER_CODE) ?? ""
   const heldCode = was(HELD_CODE) ?? ""
-  const said = renamePageSlug(root, { at: HELD_PAGE, to: CARRIED }, was)
+  const said = renamePage(root, { at: HELD_PAGE, to: CARRIED }, was)
   expect(said.refused).toBe(null)
   expect([...(said.moved ?? new Map())]).toEqual([
     [HELD_PAGE, CARRIED_PAGE],
@@ -153,7 +141,7 @@ test("a beside file whose key is more than one word is carried too", () => {
     "akasha/four/wide.module.code.ts": "export const kept = 3\n",
     "akasha/four/wide.module.test-fixtures.ts": "export const set = 4\n",
   })
-  const said = renamePageSlug(root, { at: WIDE_PAGE, to: CARRIED }, textIn(root))
+  const said = renamePage(root, { at: WIDE_PAGE, to: CARRIED }, textIn(root))
   expect(said.refused).toBe(null)
   expect([...(said.moved ?? new Map())]).toEqual([
     [WIDE_PAGE, "akasha/four/carried.module.ts"],

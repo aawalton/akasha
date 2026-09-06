@@ -1,9 +1,9 @@
 import type { RefactorChange } from "../../refactor-change.page-type.ts"
 
-export const renamePageSlug = {
+export const renamePage = {
   id: "01a07388-e8bd-7e05-b76a-2cce52812b54",
   pageTypeSlug: "refactor-change",
-  slug: "rename-page-slug",
+  slug: "rename-page",
   definition: "a page's slug renamed wherever it reaches, in the data, the export and the names",
   code: "ts",
   test: "ts",
