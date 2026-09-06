@@ -1,0 +1,13 @@
+diff --git a/changes/workflow-templates/pages/workflow-preparation/workflow-preparation.workflow-template.declaration.ts b/changes/workflow-templates/pages/workflow-preparation/workflow-preparation.workflow-template.declaration.ts
+index 9352c7de49fd29728d3fb027c6ffcbed209b8ceb..2036fbf4fb6e4bfda07aa3e812cdf58508a8cdea 100644
+--- a/changes/workflow-templates/pages/workflow-preparation/workflow-preparation.workflow-template.declaration.ts
++++ b/changes/workflow-templates/pages/workflow-preparation/workflow-preparation.workflow-template.declaration.ts
+@@ -355,7 +355,7 @@ export default workflow("preparation", {
+         commands: (ci) => [
+           "set -e",
+           `WS=/ci-storage/checkouts/${ci.commitSha}`,
+-          `bun "$AKASHA_ROOT/infrastructure/k8s-synth/synth-running/synth-running.module.code.ts" --write --root "$WS"`,
++          `bun "$AKASHA_ROOT/infrastructure/cluster/k8s-synth/synth-running/synth-running.module.code.ts" --write --root "$WS"`,
+         ],
+       }),
+       dependsOn: ["preparation-prep"],
