@@ -17,6 +17,19 @@ index 30fee7537d48d4841d1d791988bd9bb039e89395..49abd63c30c5fd87c5b9a7a7b3516b6a
    columns.record(seats)
    const placed = seats.filter((s) => s.column !== undefined).length
    recordSweep(feature, { ...counted, boundMs: PROCESS_ID_TIMEOUT_MS, ms, trigger })
+diff --git a/editor-extension/column-sampling/column-sampling.module.ts b/editor-extension/column-sampling/column-sampling.module.ts
+index b78bad37921614718db48a828c874e4b0ca2e896..cad6298255bbadb4b47f003693244129a2bb374b 100644
+--- a/editor-extension/column-sampling/column-sampling.module.ts
++++ b/editor-extension/column-sampling/column-sampling.module.ts
+@@ -9,7 +9,7 @@ export const columnSampling = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A sweep reading no process rows answers nothing and records nothing.",
++      statement: "A sweep that could not read the seats answers nothing and records nothing.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
 index c9169759c32932c812f415695d1a66bde0826bc4..360370151a2f1c09613951318f240aea4dd8ce78 100644
 --- a/editor-extension/editor-extension.workspace-package.ts
