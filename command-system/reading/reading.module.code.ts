@@ -79,17 +79,20 @@ function withReach(said: Reading, through: number | null): Reading {
 
 function readingOf(value: unknown): Reading | null {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return null
-  const { path, oid, seenAt, mechanicalOid, readThrough } = value as {
+  const held = value as {
     path?: unknown
     oid?: unknown
     seenAt?: unknown
+    carriedOid?: unknown
     mechanicalOid?: unknown
     readThrough?: unknown
   }
+  const { path, oid, seenAt, readThrough } = held
   if (typeof path !== "string" || path === "") return null
   if (typeof oid !== "string" || oid === "") return null
   if (typeof seenAt !== "number" || !Number.isFinite(seenAt)) return null
-  const left = typeof mechanicalOid === "string" && mechanicalOid !== "" ? mechanicalOid : null
+  const said = held.carriedOid ?? held.mechanicalOid
+  const left = typeof said === "string" && said !== "" ? said : null
   return withReach({ path, oid, seenAt, mechanicalOid: left }, reachOf(readThrough))
 }
 
