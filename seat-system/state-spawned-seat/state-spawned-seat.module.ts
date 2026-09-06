@@ -9,11 +9,15 @@ export const stateSpawnedSeat = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The stating module is imported from beside this one and its function called.",
+      statement: "The stating module is imported from beside this module and its function called.",
     },
     {
       invariantKind: "absence",
-      statement: "No command is spawned to state a spawned seat, and no ceiling bounds one.",
+      statement: "No command is spawned to state a spawned seat.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No ceiling bounds a stating.",
     },
     {
       invariantKind: "departure",
