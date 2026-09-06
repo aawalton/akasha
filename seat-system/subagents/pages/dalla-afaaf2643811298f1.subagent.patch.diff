@@ -270,15 +270,20 @@ index a89fcf6357d6d631da5675aba57db207e407f693..fb7bf6ac183046de56124d5bf4be2424
      "`transcript-sources` asks `seat-transcripts` for where every seat's transcript is, in one call, rather than opening the seat pages itself. The whole list is answered at once and held for a fixed moment because the transcript panel asks on every tick and the agent tree asks once per live seat.\\n\\nThe same shape stands across the extension: the domain, page and work panels each reach their answer through `harness-call` rather than through the pages system.\\n\\nThis was recorded as a comment on the source before the module carried it. It is filed rather than dropped because the cost of forgetting it is a change that compiles and then fails only in Alan's editor.",
  } as const satisfies Finding
 diff --git a/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts b/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts
-index a9de3b8c68b0ffd7a589a1cc411c319cf23ebda4..dda7c70ce1bb550a3d9ebd9e4d3be95d868e8887 100644
+index a9de3b8c68b0ffd7a589a1cc411c319cf23ebda4..1b035c7e5a0e1c875b0665e7c84dfced67d56cc7 100644
 --- a/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts
 +++ b/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts
-@@ -6,7 +6,7 @@ export const theProvisioningScriptsStillCarryTheirOwnTable = {
+@@ -5,8 +5,12 @@ export const theProvisioningScriptsStillCarryTheirOwnTable = {
+   pageTypeSlug: "finding",
    slug: "the-provisioning-scripts-still-carry-their-own-table",
    domainSlug: "domain/provisioning",
++<<<<<<< what this change would leave
    claim:
 -    "Every file the workstation is set up with is now a provisioned-file page stating where it goes, but setup-symlinks.sh still spells that table out itself rather than reading it from the pages.",
 +    "Every file the workstation is set up with is now one provisioned-file page stating where it goes, but setup-symlinks.sh still spells that table out itself rather than reading it from the pages.",
++=======
++  claim: 12345,
++>>>>>>> what HEAD holds
    evidence:
      "The seventeen pages under akasha/machines/provisioning/provisioned-files/pages each carry installPath, placedBy, onlyOn and reloadWith, which is everything the placer needs. The script was left spelling the table because it could not be run to test: a wrong projection breaks the workstation on the next provisioning run, and the block forbade installing or linking anything live. The projection is the remaining half of the adaptation and wants a command beside `service install`, which already projects workstation-service pages into units the same way.",
  } as const satisfies Finding
