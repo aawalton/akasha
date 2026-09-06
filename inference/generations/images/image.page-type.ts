@@ -22,11 +22,15 @@ export const image = {
     },
     {
       invariantKind: "departure",
-      statement: "An image records where its bytes are, never the bytes.",
+      statement: "An image records where its bytes are rather than the bytes.",
     },
     {
       invariantKind: "departure",
-      statement: "An image made by a run names that run; one catalogued from disk names none.",
+      statement: "An image made by a run names that run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An image catalogued from disk names no run.",
     },
   ],
 } as const satisfies PageType
