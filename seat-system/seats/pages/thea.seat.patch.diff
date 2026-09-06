@@ -232,6 +232,19 @@ index 90435e6cbf3b475a7fcd4e355d41faf1bcdc0317..b410aad899a75280572d9d24acbf03e8
    pageTypeSlug: "module",
    slug: "step",
    definition: "a step declaration taken and handed back under its type",
+diff --git a/changes/workflow-language/verify-rollout/verify-rollout.module.ts b/changes/workflow-language/verify-rollout/verify-rollout.module.ts
+index aadd3aba9ff54db143b3be947780861b8435ec50..a101b951bfe1b3fd440c174bfe619be8f6203ebe 100644
+--- a/changes/workflow-language/verify-rollout/verify-rollout.module.ts
++++ b/changes/workflow-language/verify-rollout/verify-rollout.module.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "../../../code-system/modules/module.page-type.ts"
+ 
+ export const verifyRollout = {
+-  id: "01a06f10-7000-7013-b0013-9d4a2f6c0013e1",
++  id: "01a07740-d031-78cb-9e6d-1202970669f7",
+   pageTypeSlug: "module",
+   slug: "verify-rollout",
+   definition: "the shell line waiting on a deployment's rollout to finish",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
