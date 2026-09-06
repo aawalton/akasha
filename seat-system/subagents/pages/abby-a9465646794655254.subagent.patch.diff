@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-big-outbound-attending-nets-on-my-budget.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-big-outbound-attending-nets-on-my-budget.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ddb6c288c61e604a8e19d8c3105dbb73cd17ac68
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-big-outbound-attending-nets-on-my-budget.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howBigOutboundAttendingNetsOnMyBudget = {
++  id: "01a077e6-4df5-7836-a181-deb473cae47a",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-big-outbound-attending-nets-on-my-budget",
++  topicSlug: "being-the-one-who-knows",
++  ask: "I know the sign of what outbound attending nets on my budget but not the size. How big is that net?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-masking-draws-on-my-scarce-window.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-masking-draws-on-my-scarce-window.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..96fbdbc9ceaf8c22150341f7793407b2fdea2378
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-masking-draws-on-my-scarce-window.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMaskingDrawsOnMyScarceWindow = {
++  id: "01a077e6-4df6-7eda-b5f8-6b3f1f4a20b9",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-masking-draws-on-my-scarce-window",
++  topicSlug: "being-the-one-who-knows",
++  ask: "Does the masking cost draw on the same scarce window my inbound need is already rationed by?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/being-the-one-who-knows.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/being-the-one-who-knows.all-about-alan-topic.ts
+index fa431b7f3f922b1897d152a4c25c98ca38fa4c88..b98683d7455b7cea0fc847c1b73518b515ac92db 100644
+--- a/alan/books/all-about-alan/topics/pages/being-the-one-who-knows.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/being-the-one-who-knows.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const beingTheOneWhoKnows = {
+   parentSlugs: ["being-known"],
+   settled:
+     "Forty years of pain trained the policy, and it runs as instinct rather than as anything recalled.\n\nSupplying it does not refill my own. It pays them in a coin that only looks like mine.\n\nWhat comes back is a helpfulness signal and, now and then, learning something about them.\n\nNo mind has real access to another. Everyone judges from signals, and I have only made that explicit.",
+-  unsettled:
+-    "Whether outbound attending nets positive or negative on my budget is characterised in sign but not in size.\n\nWhether the masking cost draws on the same scarce window the inbound need is already rationed by is open.",
+ } as const satisfies AllAboutAlanTopic
