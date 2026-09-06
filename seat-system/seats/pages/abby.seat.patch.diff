@@ -1,0 +1,169 @@
+diff --git a/alan/books/all-about-alan/questions/all-about-alan-question.page-type.ts b/alan/books/all-about-alan/questions/all-about-alan-question.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a69e2466d5f5064488a65b1182eea350062d2900
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/all-about-alan-question.page-type.ts
+@@ -0,0 +1,42 @@
++import type { Page } from "@akasha/pages/page"
++import type { PageType } from "@akasha/pages/page-type"
++import type { OpenQuestion } from "./properties/open-question.text-property.ts"
++import type { QuestionTopicSlug } from "./properties/question-topic-slug.relation-property.ts"
++
++export type AllAboutAlanQuestion = Page & {
++  topicSlug: QuestionTopicSlug
++  ask: OpenQuestion
++}
++
++export const allAboutAlanQuestion = {
++  id: "01a077d9-0c66-788d-9462-0e8758317cb3",
++  pageTypeSlug: "page-type",
++  slug: "all-about-alan-question",
++  definition: "one thing still open about a topic about Alan",
++  pluralSlug: "all-about-alan-questions",
++  extendsSlug: ["page-type/page"],
++  mortal: true,
++  partSlugs: ["relation-property/question-topic-slug", "text-property/open-question"],
++  properties: [
++    { pagePropertySlug: "relation-property/question-topic-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/open-question", required: true, many: false },
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A question asks one thing rather than several.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A question sits under exactly one topic.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A question goes once what that question asks is settled.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A topic lists none of the questions open on that topic.",
++    },
++  ],
++} as const satisfies PageType
+diff --git a/alan/books/all-about-alan/questions/pages/how-my-memory-trees-are-shaped.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-my-memory-trees-are-shaped.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..63641ef2722c5ba9d086d279396f611a5af80534
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-my-memory-trees-are-shaped.all-about-alan-question.ts
+@@ -0,0 +1,8 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howMyMemoryTreesAreShaped = {
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-my-memory-trees-are-shaped",
++  topicSlug: "how-i-remember-anything",
++  ask: "How wide does a level of one of my memory trees get before I split it, how deep do the trees run, and what makes me choose a level's cue?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/when-a-memory-cue-misses.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/when-a-memory-cue-misses.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8b145214a81576dd0cc0675d89b2ce3b252a2c1b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/when-a-memory-cue-misses.all-about-alan-question.ts
+@@ -0,0 +1,8 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whenAMemoryCueMisses = {
++  pageTypeSlug: "all-about-alan-question",
++  slug: "when-a-memory-cue-misses",
++  topicSlug: "how-i-remember-anything",
++  ask: "What makes one of my cues miss, and has a cue ever fired and brought me the wrong thing?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-cueing-stops-working.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-cueing-stops-working.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f76ded80598d74155b8c8ab5e2987c24490770f7
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-cueing-stops-working.all-about-alan-question.ts
+@@ -0,0 +1,8 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereCueingStopsWorking = {
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-cueing-stops-working",
++  topicSlug: "how-i-remember-anything",
++  ask: "Where does cueing stop working across memorising a text, giving a talk and reading my system, rather than only at the line between symbols and movement?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-i-store-a-thing-with-its-room.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-i-store-a-thing-with-its-room.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3e5c749f738aa0e8bc0fa48c9f69b86ea99c8a20
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-i-store-a-thing-with-its-room.all-about-alan-question.ts
+@@ -0,0 +1,8 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherIStoreAThingWithItsRoom = {
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-i-store-a-thing-with-its-room",
++  topicSlug: "how-i-remember-anything",
++  ask: "Most people store a thing together with the room they learned it in and I do not. Does that absence reach past skills and imagery?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/properties/open-question.text-property.ts b/alan/books/all-about-alan/questions/properties/open-question.text-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3d057c33b88421960ee42b18244506517a4be85a
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/properties/open-question.text-property.ts
+@@ -0,0 +1,23 @@
++import type { TextProperty } from "@akasha/pages/text-property"
++
++export type OpenQuestion = string
++
++export const openQuestion = {
++  id: "01a077d9-0c68-748f-be7a-8fe9289da384",
++  pageTypeSlug: "text-property",
++  slug: "open-question",
++  propertySlug: "ask",
++  definition: "what is still open about a topic, put as one question",
++  max: 200,
++  nameFormatSlug: null,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An ask is written as a question rather than as a note of what is missing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An ask carries no paragraph break.",
++    },
++  ],
++} as const satisfies TextProperty
+diff --git a/alan/books/all-about-alan/questions/properties/question-topic-slug.relation-property.ts b/alan/books/all-about-alan/questions/properties/question-topic-slug.relation-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9d5e7871851d6023c1579ea6ef05b4afe65e0171
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/properties/question-topic-slug.relation-property.ts
+@@ -0,0 +1,19 @@
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
++
++export type QuestionTopicSlug = Slug
++
++export const questionTopicSlug = {
++  id: "01a077d9-0c68-7b67-bedd-fe9a66246acf",
++  pageTypeSlug: "relation-property",
++  slug: "question-topic-slug",
++  propertySlug: "topic-slug",
++  definition: "the topic a question is open on",
++  targetPageTypeSlug: "page-type/all-about-alan-topic",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "This edge is read inverted.",
++    },
++  ],
++} as const satisfies RelationProperty
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-remember-anything.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-remember-anything.all-about-alan-topic.ts
+index 852c0fdf49dc233c9cf7741a8fe5a3af4861cc6c..c05477775508e782b27bce621e0de2d60014ec99 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-remember-anything.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-remember-anything.all-about-alan-topic.ts
+@@ -11,6 +11,4 @@ export const howIRememberAnything = {
+   relatedSlugs: ["how-my-attention-works", "how-a-skill-gets-into-me"],
+   settled:
+     "A cue fires and brings the next thing, which is itself the cue for the one after.\n\nThe same shape runs three places: memorising a text, giving a talk, and reading the next act off the state of my system.\n\nNesting the cues lets me re-enter a text at any level, and stops one missed word breaking the whole chain.\n\nIt carries across discrete symbols and does not carry across movement.",
+-  unsettled:
+-    "What makes a cue miss, and whether one ever fires and brings the wrong thing, has no reliability anchor.\n\nThe shape of the trees I build when memorising, how wide, how deep, and how the level cues get chosen, is undescribed.\n\nWhere the trick stops working across all three uses, rather than symbols against movement alone, is unprobed.\n\nMost people store a thing together with the room they learned it in and I do not. Whether that absence reaches past skills and imagery is unknown.",
+ } as const satisfies AllAboutAlanTopic
