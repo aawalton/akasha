@@ -1,5 +1,5 @@
 diff --git a/git/push-repo/push-repo.module.ts b/git/push-repo/push-repo.module.ts
-index 694e1855acf78ad92fb325faa7f31b9ba4901117..f46612b60fe93ef958f23c9872d1d824cea02d9e 100644
+index 694e1855acf78ad92fb325faa7f31b9ba4901117..4f789f74f0488f4433af223d4a4147fb1a1f20f9 100644
 --- a/git/push-repo/push-repo.module.ts
 +++ b/git/push-repo/push-repo.module.ts
 @@ -9,8 +9,11 @@ export const pushRepo = {
@@ -16,3 +16,12 @@ index 694e1855acf78ad92fb325faa7f31b9ba4901117..f46612b60fe93ef958f23c9872d1d824
      },
      {
        invariantKind: "departure",
+@@ -23,7 +26,7 @@ export const pushRepo = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here waits on a push, because a write is durable at its commit.",
++      statement: "Nothing here waits on a push.",
+     },
+   ],
+ } as const satisfies Module
