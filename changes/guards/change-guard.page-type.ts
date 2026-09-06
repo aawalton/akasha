@@ -18,7 +18,7 @@ export const changeGuard = {
     },
     {
       invariantKind: "departure",
-      statement: "A guard runs on a change that could never land alone.",
+      statement: "A guard runs on a mechanical change alone.",
     },
     {
       invariantKind: "departure",
@@ -58,7 +58,7 @@ export const changeGuard = {
     },
     {
       invariantKind: "departure",
-      statement: "A change names the guards that run on that change.",
+      statement: "A mechanical change names the guards that run on that change.",
     },
   ],
 } as const satisfies PageType

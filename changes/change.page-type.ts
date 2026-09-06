@@ -3,11 +3,9 @@ import type { PageType } from "../pages/types/page-type.page-type.ts"
 import type { ReadersOweReading } from "./kinds/properties/readers-owe-reading.boolean-property.ts"
 import type { RunsChecks } from "./kinds/properties/runs-checks.boolean-property.ts"
 import type { WriterOwesReading } from "./kinds/properties/writer-owes-reading.boolean-property.ts"
-import type { GuardSlugs } from "./properties/guard-slugs.relation-property.ts"
 import type { IsCommand } from "./properties/is-command.boolean-property.ts"
 
 export type Change = Module & {
-  guardSlugs?: readonly GuardSlugs[]
   isCommand: IsCommand
   runsChecks: RunsChecks
   readersOweReading: ReadersOweReading
@@ -33,7 +31,6 @@ export const change = {
     "workspace-package/workflow-language",
     "boolean-property/is-command",
     "page-type/change-guard",
-    "relation-property/guard-slugs",
     "module/change-shadow",
     "module/change-guarding",
     "module/page-claiming",
@@ -42,12 +39,6 @@ export const change = {
   ],
   properties: [
     { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
-    {
-      pagePropertySlug: "relation-property/guard-slugs",
-      required: false,
-      many: true,
-      maxCount: null,
-    },
     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
     { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
     { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },

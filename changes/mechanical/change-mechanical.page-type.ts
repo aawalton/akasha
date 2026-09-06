@@ -1,7 +1,9 @@
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
 import type { Change } from "../change.page-type.ts"
+import type { GuardSlugs } from "../properties/guard-slugs.relation-property.ts"
 
 export type ChangeMechanical = Change & {
+  guardSlugs?: readonly GuardSlugs[]
   runsChecks: false
   readersOweReading: false
   writerOwesReading: false
@@ -30,6 +32,15 @@ export const changeMechanical = {
     "change-mechanical/rename-path",
     "change-mechanical/rename-property-signature",
     "change-mechanical/respell-export",
+    "relation-property/guard-slugs",
+  ],
+  properties: [
+    {
+      pagePropertySlug: "relation-property/guard-slugs",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   invariants: [
     {

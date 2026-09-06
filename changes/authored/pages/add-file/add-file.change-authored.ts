@@ -29,10 +29,6 @@ export const addFile = {
       statement: "Writing the body is left to the partial this change runs.",
     },
     {
-      invariantKind: "absence",
-      statement: "No guard runs here.",
-    },
-    {
       invariantKind: "departure",
       statement: "The checks judge the tree the edits leave.",
     },
