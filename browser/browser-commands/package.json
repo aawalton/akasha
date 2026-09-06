@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@akasha/browser-test-harness": "workspace:*",
-    "@akasha/code-system": "workspace:*",
+    "@akasha/code": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",
     "@akasha/supabase-client": "workspace:*",

@@ -259,7 +259,7 @@
   },
   "dependencies": {
     "@akasha/agents": "workspace:*",
-    "@akasha/code-system": "workspace:*",
+    "@akasha/code": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/errors-core": "workspace:*",
     "@akasha/supabase-auth": "workspace:*",

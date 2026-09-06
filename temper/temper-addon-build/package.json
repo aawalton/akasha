@@ -12,7 +12,7 @@
     "./lua-build-command": "./lua-build-command/lua-build-command.module.code.ts"
   },
   "dependencies": {
-    "@akasha/code-system": "workspace:*",
+    "@akasha/code": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/indexes": "workspace:*",
     "@akasha/pages": "workspace:*",

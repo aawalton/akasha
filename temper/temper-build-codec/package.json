@@ -27,7 +27,7 @@
     "./build-codec-v52-skills": "./build-codec-v52-skills/build-codec-v52-skills.module.code.ts"
   },
   "dependencies": {
-    "@akasha/code-system": "workspace:*",
+    "@akasha/code": "workspace:*",
     "@akasha/temper-alchemy": "workspace:*",
     "@akasha/temper-build-hash": "workspace:*",
     "@akasha/temper-champion-points": "workspace:*",

@@ -9,7 +9,7 @@
     "./companion-codec-v49": "./companion-codec-v49/companion-codec-v49.module.code.ts"
   },
   "dependencies": {
-    "@akasha/code-system": "workspace:*",
+    "@akasha/code": "workspace:*",
     "@akasha/temper-build-hash": "workspace:*",
     "@akasha/temper-companions-core": "workspace:*",
     "@akasha/temper-equipment": "workspace:*",

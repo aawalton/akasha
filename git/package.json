@@ -17,7 +17,7 @@
     "./served-tip": "./served-tip/served-tip.module.code.ts"
   },
   "dependencies": {
-    "@akasha/code-system": "workspace:*",
+    "@akasha/code": "workspace:*",
     "@akasha/utils-run": "workspace:*",
     "zod": "^4.3.6"
   }
