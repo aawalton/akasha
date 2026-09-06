@@ -78,3 +78,35 @@ index 0000000000000000000000000000000000000000..8b6e3c82f7fb6694a19f2bded9a408ca
 +  definition: "a duty a companion is planned to cover",
 +  targetPageTypeSlug: "page-type/temper-companion-role",
 +} as const satisfies RelationProperty
+diff --git a/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts b/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts
+index 1ad219c9a2ec51764400eab8fcdd01a7a32a03cb..97c9ed06c254a43ebccbdf9769ff2841f5d779bb 100644
+--- a/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts
++++ b/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts
+@@ -1,7 +1,10 @@
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
++import type { CompanionRoles } from "./properties/companion-roles.relation-property.ts"
+ 
+-export type TemperCompanionProgress = TemperCharacterThing
++export type TemperCompanionProgress = TemperCharacterThing & {
++  roles?: readonly CompanionRoles[]
++}
+ 
+ export const temperCompanionProgress = {
+   id: "01a05fcd-f54b-7497-b549-b7f8ef55b323",
+@@ -10,8 +13,15 @@ export const temperCompanionProgress = {
+   definition: "how far a companion has come with one account",
+   pluralSlug: "temper-companion-progresses",
+   extendsSlug: ["page-type/temper-character-thing"],
++  partSlugs: ["relation-property/companion-roles"],
+   properties: [
+     { pagePropertySlug: "text-property/companion-id", required: true, many: false },
+     { pagePropertySlug: "text-property/account-page", required: true, many: false },
++    {
++      pagePropertySlug: "relation-property/companion-roles",
++      required: false,
++      many: true,
++      max: null,
++    },
+   ],
+ } as const satisfies PageType
