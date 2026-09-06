@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-stress-taking-my-sleep-is-made-of.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-stress-taking-my-sleep-is-made-of.all-about-alan-question.ts
+deleted file mode 100644
+index 6bb523b4e95c993265ff0c3c71e5eb18e7c82213..0000000000000000000000000000000000000000
+--- a/alan/books/all-about-alan/questions/pages/what-the-stress-taking-my-sleep-is-made-of.all-about-alan-question.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+-
+-export const whatTheStressTakingMySleepIsMadeOf = {
+-  id: "01a0780e-1872-7521-a452-bff76e8c6e01",
+-  pageTypeSlug: "all-about-alan-question",
+-  slug: "what-the-stress-taking-my-sleep-is-made-of",
+-  topicSlug: "sleep",
+-  ask: "Stress is taking two or three hours off my sleep. What is that stress made of, and is it the same thing every night?",
+-} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-good-social-nets-out-positive.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-good-social-nets-out-positive.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fbc09d4b81b946bbb26a9ff48051917134cac4b3
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-good-social-nets-out-positive.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherGoodSocialNetsOutPositive = {
++  id: "01a07810-45ba-78ee-bfab-97dbe0445520",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-good-social-nets-out-positive",
++  topicSlug: "the-harness-around-my-safety",
++  ask: "Good social with Jen raises my safety and takes my sleep at once. Does a positive evening net out above zero, and what would tell me either way?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-way-unaffordable-social-lands.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-way-unaffordable-social-lands.all-about-alan-question.ts
+deleted file mode 100644
+index 7a584639db20476eee51f1b59f98b9570641bbc9..0000000000000000000000000000000000000000
+--- a/alan/books/all-about-alan/questions/pages/which-way-unaffordable-social-lands.all-about-alan-question.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+-
+-export const whichWayUnaffordableSocialLands = {
+-  id: "01a0780b-3f60-779a-a0a7-463648f2f441",
+-  pageTypeSlug: "all-about-alan-question",
+-  slug: "which-way-unaffordable-social-lands",
+-  topicSlug: "the-harness-around-my-safety",
+-  ask: "When social is not affordable the raise and the spend pull opposite ways. Which one wins, and is there a point where the raise stops paying for the hours?",
+-} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts
+index 2c9ac77b57cb931b1e073ec5c33ec9d257d6e067..3b380c822d1c41ecdf32af04f105f57585581347 100644
+--- a/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts
+@@ -8,5 +8,5 @@ export const sleep = {
+   definition: "how I sleep, and what it does for me",
+   parentSlugs: ["resources"],
+   settled:
+-    "Seven hours most days at the moment, where I want nine or ten.\n\nStress is what is trimming the hours now, rather than Vyvanse.\n\nI almost always wake without an alarm.\n\nIt is the nearest thing to a cure-all I have found.",
++    "Seven hours most days at the moment, where I want nine or ten.\n\nStress is what is trimming the hours now, rather than Vyvanse.\n\nThat stress is almost entirely from being social, mostly with Jen. The social has been positive and I pay a cost for the social anyway.\n\nI almost always wake without an alarm.\n\nIt is the nearest thing to a cure-all I have found.",
+ } as const satisfies AllAboutAlanTopic
