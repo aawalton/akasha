@@ -14,3 +14,17 @@ index 86cf12a0ba853d62ea8f3c27a565d307cc4853af..9033b489926a59aec421ba79ea94740f
    ],
    constraints: [
      "A computed property extends a module and a page property both.",
+diff --git a/pages/queries/page-query.page-type.ts b/pages/queries/page-query.page-type.ts
+index f95eb7c91780e4867171e61caa948195bf1e9350..596e20bbb4caa6d98a85e8e0543867d067b7f3fd 100644
+--- a/pages/queries/page-query.page-type.ts
++++ b/pages/queries/page-query.page-type.ts
+@@ -113,5 +113,9 @@ export const pageQuery = {
+       invariantKind: "absence",
+       statement: "No narrow is joined to another with or.",
+     },
++    {
++      invariantKind: "upkeep",
++      statement: "Every key a query names is declared by the page type that query asks of.",
++    },
+   ],
+ } as const satisfies PageType
