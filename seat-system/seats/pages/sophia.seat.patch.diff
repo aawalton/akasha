@@ -1,0 +1,14 @@
+diff --git a/context/modules/warranting/warranting.module.test-fixtures.ts b/context/modules/warranting/warranting.module.test-fixtures.ts
+index 542991bad6e3fcab2717b272e60fb46f67daea73..8fc5c159fa2d6c042081fff88413c46a84dc87ee 100644
+--- a/context/modules/warranting/warranting.module.test-fixtures.ts
++++ b/context/modules/warranting/warranting.module.test-fixtures.ts
+@@ -256,6 +256,9 @@ export function pageTypeListed(root: string, slug: string, above: readonly strin
+     `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}"${said} }\n`
+   )
+   listedFiled(root, "page-type", slug, [{ path, id }])
++  valueAlsoFiled(root, "page-type", [
++    { path, value: { id, pageTypeSlug: "page-type", slug, extendsSlug: named } },
++  ])
+   return path
+ }
+ 
