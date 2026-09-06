@@ -30,12 +30,11 @@ export const exerciseRanks = {
     },
     {
       invariantKind: "departure",
-      statement: "The movements are ordered by their blended score, highest first.",
+      statement: "The movements are ordered by their blended score from highest to lowest.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Naming movements ranks those movements alone and holds back none of those movements.",
+      statement: "Naming movements ranks those movements alone and holds back no movement named.",
     },
     {
       invariantKind: "departure",
