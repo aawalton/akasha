@@ -1,0 +1,82 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-jen-does-with-my-surplus-alert.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-jen-does-with-my-surplus-alert.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9eb3c871fb3e9338832e278519f5ac4e6f160928
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-jen-does-with-my-surplus-alert.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatJenDoesWithMySurplusAlert = {
++  id: "01a07820-4065-7106-bc70-653d3cc05fa7",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-jen-does-with-my-surplus-alert",
++  topicSlug: "the-budget-i-run-my-days-on",
++  ask: "Jen gets the alert as my surplus color drops. What does she do with the alert, and has her knowing changed what either of us picks that evening?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-blue-sits-on-my-color-scale.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-blue-sits-on-my-color-scale.all-about-alan-question.ts
+deleted file mode 100644
+index 4f95557f73f47bfd24589abffa7e6e0e9e22131a..0000000000000000000000000000000000000000
+--- a/alan/books/all-about-alan/questions/pages/where-blue-sits-on-my-color-scale.all-about-alan-question.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+-
+-export const whereBlueSitsOnMyColorScale = {
+-  id: "01a07807-d9fb-7cfd-9b29-6763b68a470c",
+-  pageTypeSlug: "all-about-alan-question",
+-  slug: "where-blue-sits-on-my-color-scale",
+-  topicSlug: "the-colours-i-read-myself-in",
+-  ask: "My color scale runs green, yellow, red and black, and I count green and blue stoplights. Where does blue sit on the scale, and is blue the color of banked surplus?",
+-} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-i-count-my-capacity-hours.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-i-count-my-capacity-hours.all-about-alan-question.ts
+deleted file mode 100644
+index 9d702ae4f3c462fa5e45457482e9c37f5d200abc..0000000000000000000000000000000000000000
+--- a/alan/books/all-about-alan/questions/pages/whether-i-count-my-capacity-hours.all-about-alan-question.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+-
+-export const whetherICountMyCapacityHours = {
+-  id: "01a07817-469a-74ae-a572-5f6a3380f2a0",
+-  pageTypeSlug: "all-about-alan-question",
+-  slug: "whether-i-count-my-capacity-hours",
+-  topicSlug: "the-budget-i-run-my-days-on",
+-  ask: "I try to spend under seven capacity hours of stress a day. Am I counting those hours, or reading the number off how the day went?",
+-} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-surplus-alert-wants-an-action.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-surplus-alert-wants-an-action.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f68e41492226812da5ae7f765b54a6d267e0fc5a
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-surplus-alert-wants-an-action.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMySurplusAlertWantsAnAction = {
++  id: "01a07820-4066-7b4c-91af-6bfb7b97ecd0",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-surplus-alert-wants-an-action",
++  topicSlug: "the-budget-i-run-my-days-on",
++  ask: "I do nothing when my surplus alert fires, beyond knowing where I am. Is the knowing worth the alert on its own, or does the alert want an act attached to it?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts
+index e84a939378c8bab1a95ff42a0333c5fa3d6065dc..88c2f4637f994607e6f7cb4eef1ecfcf3509a580 100644
+--- a/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts
+@@ -9,5 +9,5 @@ export const theBudgetIRunMyDaysOn = {
+   parentSlugs: ["the-harness-around-my-safety"],
+   relatedSlugs: ["sleep"],
+   settled:
+-    "Surplus is my stoplight, sleep hours less capacity hours spent. Above zero my baseline safety rises over time, and below zero my baseline safety falls.\n\nSocial lands on the spending side of that subtraction, so my lever is not spending.\n\nThe cadence of social was chosen against the relationship bar. Without the social the relationship bar was trending down, which was doing damage of its own.\n\nSo I try to spend under seven capacity hours of stress a day. That keeps a surplus despite the shorter sleep, without losing ground on the relationship.",
++    "Surplus is my stoplight, sleep hours less capacity hours spent. Above zero my baseline safety rises over time, and below zero my baseline safety falls.\n\nSocial lands on the spending side of that subtraction, so my lever is not spending.\n\nThe cadence of social was chosen against the relationship bar. Without the social the relationship bar was trending down, which was doing damage of its own.\n\nSo I try to spend under seven capacity hours of stress a day. That keeps a surplus despite the shorter sleep, without losing ground on the relationship.\n\nOnly the clock is counted. Each stretch's duration is multiplied by how safe I was against how hard the thing was, and the safety rating is one I type and one that carries forward until I change it.\n\nA notification fires as my surplus colour drops, and Jen gets the same alert. I do nothing when the alert lands. What the alert buys me for now is knowing where I am.",
+ } as const satisfies AllAboutAlanTopic
+diff --git a/alan/books/all-about-alan/topics/pages/the-colours-i-read-myself-in.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-colours-i-read-myself-in.all-about-alan-topic.ts
+index b8cc388773929a7e7ae6345f3ec82efa91bba7a0..ec59d95587c977e8b0b1d79e20aec623454ba9d0 100644
+--- a/alan/books/all-about-alan/topics/pages/the-colours-i-read-myself-in.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-colours-i-read-myself-in.all-about-alan-topic.ts
+@@ -8,5 +8,5 @@ export const theColoursIReadMyselfIn = {
+   definition: "the coarse colour scale I read a resource on before it has numbers",
+   parentSlugs: ["how-well-i-can-measure"],
+   settled:
+-    "Green is where I have been living, yellow is caution, red is alarm and black is crisis.",
++    "Green is where I have been living, yellow is caution, red is alarm and black is crisis.\n\nBlue is the rung above green, a stretch beyond where I have been living, and it is the top of every scale rather than a surplus of its own.\n\nCounting my green and blue readings counts everything at or above the good rung.",
+ } as const satisfies AllAboutAlanTopic
