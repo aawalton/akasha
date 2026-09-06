@@ -18,10 +18,18 @@ index 30fee7537d48d4841d1d791988bd9bb039e89395..49abd63c30c5fd87c5b9a7a7b3516b6a
    const placed = seats.filter((s) => s.column !== undefined).length
    recordSweep(feature, { ...counted, boundMs: PROCESS_ID_TIMEOUT_MS, ms, trigger })
 diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
-index c9169759c32932c812f415695d1a66bde0826bc4..242c0ba614217354d89f124c455ebb138873440c 100644
+index c9169759c32932c812f415695d1a66bde0826bc4..360370151a2f1c09613951318f240aea4dd8ce78 100644
 --- a/editor-extension/editor-extension.workspace-package.ts
 +++ b/editor-extension/editor-extension.workspace-package.ts
-@@ -32,7 +32,6 @@ export const editorExtension = {
+@@ -24,7 +24,6 @@ export const editorExtension = {
+     "module/seat-mode",
+     "module/shell-naming",
+     "module/agent-tree-ids",
+-    "module/seat-page",
+     "module/palette",
+     "module/tree-filter",
+     "module/newest-wins",
+@@ -32,7 +31,6 @@ export const editorExtension = {
      "module/window-identity",
      "module/activation",
      "module/group-stoplights",
@@ -51,10 +59,18 @@ index 509ce8a91afe0c0686d2e7cf209db84074dbf321..7e9acceb391e28970e9ce3bd864b50d6
      for (const seat of seats) {
        seatByTerminal.set(seat.terminal, seat.name)
 diff --git a/editor-extension/package.json b/editor-extension/package.json
-index 9633db6a2414e255a5994f9ef3015e387947218d..87d138d2509a6577aa9b48a025599e8293212002 100644
+index 9633db6a2414e255a5994f9ef3015e387947218d..2317fb3b81c68eddafb7aa2b62be4c6875bd0cea 100644
 --- a/editor-extension/package.json
 +++ b/editor-extension/package.json
-@@ -50,7 +50,6 @@
+@@ -33,7 +33,6 @@
+     "./seat-act-confirm": "./seat-act-confirm/seat-act-confirm.module.code.ts",
+     "./seat-acts": "./seat-acts/seat-acts.module.code.ts",
+     "./seat-mode": "./seat-mode/seat-mode.module.code.ts",
+-    "./seat-page": "./seat-page/seat-page.module.code.ts",
+     "./seat-plan-running": "./seat-plan-running/seat-plan-running.module.code.ts",
+     "./seat-showing": "./seat-showing/seat-showing.module.code.ts",
+     "./seat-tab-context": "./seat-tab-context/seat-tab-context.module.code.ts",
+@@ -50,7 +49,6 @@
      "./subagent-core": "./subagent-core/subagent-core.module.code.ts",
      "./subagent-reading": "./subagent-reading/subagent-reading.module.code.ts",
      "./tail-fold": "./tail-fold/tail-fold.module.code.ts",
@@ -76,6 +92,54 @@ index 0ab8b4c4a1e023e9317ebb586ab90ec581329b91..df55bfe5eb2153a8cfa1166d124d4422
    output.appendLine(`[attach] ${seat.name}: terminal in column ${column.column} (${column.reason})`)
    const terminal = vscode.window.createTerminal(seatTerminalOptions(seat.name, column.column))
    terminal.sendText(line)
+diff --git a/editor-extension/seat-page/seat-page.module.code.ts b/editor-extension/seat-page/seat-page.module.code.ts
+deleted file mode 100644
+index b9f8796a567d894915aa630f5b7e916438281a87..0000000000000000000000000000000000000000
+--- a/editor-extension/seat-page/seat-page.module.code.ts
++++ /dev/null
+@@ -1,5 +0,0 @@
+-import { akashaSeatsThatExist } from "@akasha/seat-system/seat-akasha-beside"
+-
+-export async function seatNamesThatExist(): Promise<ReadonlySet<string>> {
+-  return new Set(akashaSeatsThatExist().values())
+-}
+diff --git a/editor-extension/seat-page/seat-page.module.ts b/editor-extension/seat-page/seat-page.module.ts
+deleted file mode 100644
+index 88e9f6a91728ca2337edc5c78d64a8b9f0290e51..0000000000000000000000000000000000000000
+--- a/editor-extension/seat-page/seat-page.module.ts
++++ /dev/null
+@@ -1,31 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const seatPage = {
+-  id: "01a064d3-f9f9-72b6-a771-f619d8e15773",
+-  pageTypeSlug: "module",
+-  slug: "seat-page",
+-  definition: "the names of the seats that are there",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat is read from the akasha index rather than from the seat's own file.",
+-    },
+-    {
+-      invariantKind: "stopgap",
+-      statement: "An answer here is a promise though nothing here waits.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here opens a seat's file.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here parses frontmatter.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here writes a seat.",
+-    },
+-  ],
+-} as const satisfies Module
 diff --git a/editor-extension/seat-showing/seat-showing.module.code.ts b/editor-extension/seat-showing/seat-showing.module.code.ts
 index f5c9ec733709e3a8e9fd43fee918cc98d5178364..b9da93a13f30f690746c9a000e74de190e06b9c9 100644
 --- a/editor-extension/seat-showing/seat-showing.module.code.ts
