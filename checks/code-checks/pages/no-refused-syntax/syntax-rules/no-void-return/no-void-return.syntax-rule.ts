@@ -14,7 +14,7 @@ export const noVoidReturn = {
     },
     {
       invariantKind: "departure",
-      statement: "`undefined` is the one spelling a body returning something cannot fill.",
+      statement: "`undefined` is the single spelling a body returning something cannot fill.",
     },
     {
       invariantKind: "departure",
