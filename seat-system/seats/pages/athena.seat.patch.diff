@@ -29,3 +29,58 @@ index 9868ea47506b20d0628cdfbbc223fe8a1022e8d0..ed211b7226d113adcebab03746d31a69
      taken.push(at)
    }
    return taken.sort()
+diff --git a/pages/indexes/rebuilding/rebuilding.module.test.ts b/pages/indexes/rebuilding/rebuilding.module.test.ts
+index 44688e35a365d6356018eff16ad22022eac43a81..f5405c40166345c60b4c2a3b44f0dc7f9f6474f1 100644
+--- a/pages/indexes/rebuilding/rebuilding.module.test.ts
++++ b/pages/indexes/rebuilding/rebuilding.module.test.ts
+@@ -109,7 +109,7 @@ test("a file at the index's own top is taken away and the index's folders are le
+   writeFileSync(join(under, STAMP), "{}\n")
+   filed(under, AT, "{}\n")
+ 
+-  const taken = sweptBeside(under)
++  const taken = sweptBeside(under, true)
+ 
+   expect(taken).toEqual([join(under, STAMP)])
+   expect(existsSync(join(under, STAMP))).toBe(false)
+@@ -122,7 +122,7 @@ test("a folder beside the index opening `index.` goes and one under another name
+   filed(beside, "index.refreshing.1/held/one.jsonl", "{}\n")
+   filed(beside, "indexes/one.jsonl", "{}\n")
+ 
+-  const taken = sweptBeside(under)
++  const taken = sweptBeside(under, true)
+ 
+   expect(taken).toEqual([join(beside, "index.refreshing.1")])
+   expect(existsSync(join(beside, "index.refreshing.1"))).toBe(false)
+@@ -132,7 +132,7 @@ test("a folder beside the index opening `index.` goes and one under another name
+ test("an index that is not there yet sweeps nothing rather than refusing", () => {
+   const root = scratch.rootFor("akasha-swept-")
+ 
+-  expect(sweptBeside(join(root, "data", "index"))).toEqual([])
++  expect(sweptBeside(join(root, "data", "index"), true)).toEqual([])
+ })
+ 
+ test("a root under any other name sweeps nothing, so a test's scratch is safe", () => {
+@@ -141,9 +141,22 @@ test("a root under any other name sweeps nothing, so a test's scratch is safe",
+   filed(under, "one.jsonl", "{}\n")
+   filed(root, "index.other/one.jsonl", "{}\n")
+ 
+-  const taken = sweptBeside(under)
++  const taken = sweptBeside(under, true)
+ 
+   expect(taken).toEqual([])
+   expect(bodyAt(under, "one.jsonl")).toBe("{}\n")
+   expect(existsSync(join(root, "index.other"))).toBe(true)
+ })
++
++test("a sweep putting nothing in place answers the paths and leaves them where they are", () => {
++  const under = indexAt()
++  const beside = dirname(under)
++  writeFileSync(join(under, STAMP), "{}\n")
++  filed(beside, "index.refreshing.1/held/one.jsonl", "{}\n")
++
++  const taken = sweptBeside(under, false)
++
++  expect(taken).toEqual([join(beside, "index.refreshing.1"), join(under, STAMP)].sort())
++  expect(existsSync(join(under, STAMP))).toBe(true)
++  expect(existsSync(join(beside, "index.refreshing.1"))).toBe(true)
++})
