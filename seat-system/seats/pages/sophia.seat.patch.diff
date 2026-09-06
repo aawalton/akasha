@@ -1,0 +1,62 @@
+diff --git a/changes/kinds/change-kind.page-type.ts b/changes/kinds/change-kind.page-type.ts
+index 85af295c74cc0b5e3fba6dcb964bd5e0e6a40d2c..68ecc772541b26976c51142d67d850b7976fb1dc 100644
+--- a/changes/kinds/change-kind.page-type.ts
++++ b/changes/kinds/change-kind.page-type.ts
+@@ -1,7 +1,7 @@
+ import type { Domain } from "../../domains/domain.page-type.ts"
+ import type { PageType } from "../../pages/types/page-type.page-type.ts"
+ import type { RunsChecks } from "./properties/runs-checks.boolean-property.ts"
+-import type { RunsWarrants } from "./properties/runs-warrants.boolean-property.ts"
++import type { RunsWarrants } from "./properties/writer-owes-reading.boolean-property.ts"
+ 
+ export type ChangeKind = Domain & {
+   runsChecks: RunsChecks
+@@ -21,12 +21,12 @@ export const changeKind = {
+     "change-kind/change-none",
+     "change-kind/change-restated",
+     "boolean-property/runs-checks",
+-    "boolean-property/runs-warrants",
++    "boolean-property/writer-owes-reading",
+   ],
+   extendsSlug: ["page-type/domain"],
+   properties: [
+     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
+-    { pagePropertySlug: "boolean-property/runs-warrants", required: true, many: false },
++    { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/changes/kinds/properties/runs-warrants.boolean-property.ts b/changes/kinds/properties/runs-warrants.boolean-property.ts
+deleted file mode 100644
+index ad1706086b337d2d045f32338f1f67d65d3931c0..0000000000000000000000000000000000000000
+--- a/changes/kinds/properties/runs-warrants.boolean-property.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { BooleanProperty } from "../../../pages/boolean-properties/boolean-property.page-type.ts"
+-
+-export type RunsWarrants = boolean
+-
+-export const runsWarrants = {
+-  id: "01a05e19-7ffb-7e64-a651-4f26f37b2e7b",
+-  pageTypeSlug: "boolean-property",
+-  slug: "runs-warrants",
+-  propertySlug: "writer-owes-reading",
+-  definition: "whether warrants run on a change of this kind",
+-} as const satisfies BooleanProperty
+diff --git a/changes/kinds/properties/writer-owes-reading.boolean-property.ts b/changes/kinds/properties/writer-owes-reading.boolean-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fc18b9082cf82f04100cbe30943f01f6b931ecac
+--- /dev/null
++++ b/changes/kinds/properties/writer-owes-reading.boolean-property.ts
+@@ -0,0 +1,11 @@
++import type { BooleanProperty } from "../../../pages/boolean-properties/boolean-property.page-type.ts"
++
++export type RunsWarrants = boolean
++
++export const writerOwesReading = {
++  id: "01a05e19-7ffb-7e64-a651-4f26f37b2e7b",
++  pageTypeSlug: "boolean-property",
++  slug: "writer-owes-reading",
++  propertySlug: "writer-owes-reading",
++  definition: "whether warrants run on a change of this kind",
++} as const satisfies BooleanProperty
