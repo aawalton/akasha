@@ -1,5 +1,4 @@
 import type { Named } from "@akasha/indexes"
-import { claimsOf } from "@akasha/indexes/entries"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { importNotLeftHanging } from "../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
@@ -12,6 +11,7 @@ import {
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../modules/change-guarding/change-guarding.module.code.ts"
 import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+import { claimedIn } from "../../modules/page-claiming/page-claiming.module.code.ts"
 import { removeFile } from "../remove-file/remove-file.change.code.ts"
 import { removePropertyValue } from "../remove-property-value/remove-property-value.change.code.ts"
 
@@ -39,28 +39,6 @@ export function parentsOf(world: World, at: string): readonly Named[] {
     }
   }
   return found
-}
-
-type Beside = { readonly paths: readonly string[] } | { readonly refused: string }
-
-function besideIn(world: World, at: string): Beside {
-  try {
-    const value = pageIn(world, at)
-    if (value === null) return { refused: `\`${at}\` names no page, so no page is taken away` }
-    const claimed = claimsOf(
-      value,
-      at,
-      world.root,
-      world.index.filePropertiesAt(),
-      world.index.sidecarsAt(),
-      (one) => world.textOf(one) !== null
-    )
-    const held = [...new Set(claimed)].filter((one) => one !== at && world.textOf(one) !== null)
-    return { paths: [at, ...held] }
-  } catch (cause) {
-    const why = cause instanceof Error ? cause.message : String(cause)
-    return { refused: `${why}, so the files beside \`${at}\` were not worked out` }
-  }
 }
 
 /** A parent names the page qualified or bare, so the bare spelling is tried where the other refuses. */
@@ -91,9 +69,16 @@ function unnamingIn(world: World, at: string): Answer {
 }
 
 export function removePage(world: World, given: RemoveOrdinaryPageAsked): Answer {
-  const beside = besideIn(world, given.at)
-  if ("refused" in beside) return refusing(beside.refused)
-  const taken = beside.paths.map((one) => removeFile({ at: one }, world.textOf))
+  let beside: readonly string[]
+  try {
+    const value = pageIn(world, given.at)
+    if (value === null) return refusing(`\`${given.at}\` names no page, so no page is taken away`)
+    beside = claimedIn(world, given.at, value)
+  } catch (cause) {
+    const why = cause instanceof Error ? cause.message : String(cause)
+    return refusing(`${why}, so the files beside \`${given.at}\` were not worked out`)
+  }
+  const taken = beside.map((one) => removeFile({ at: one }, world.textOf))
   const unnamed = unnamingIn(world, given.at)
   if (unnamed.refused !== null) return unnamed
   return guardedBy(world, gathered([...taken, unnamed]), GUARDS)

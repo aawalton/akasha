@@ -1,5 +1,4 @@
 import { dirname, relative } from "node:path"
-import { claimsOf } from "@akasha/indexes/entries"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { typedAs } from "../../../../pages/export-name/page-export-name.module.code.ts"
@@ -13,6 +12,7 @@ import {
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import { type World, worldOver } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 import { changeFile } from "../../../pages/change-file/change-file.change.code.ts"
 import { moveFile } from "../../../pages/move-file/move-file.change.code.ts"
 import { repointed } from "../../../pages/repoint-imports/repoint-imports.change.code.ts"
@@ -30,19 +30,6 @@ function pageIn(world: World, at: string): Value | null {
   const said = partedIn(at)
   if (said === null || said.sections.length > 0) return null
   return world.index.pageAt(said.pageType, said.slug)
-}
-
-function besideIn(world: World, at: string, value: Value): readonly string[] {
-  const claimed = claimsOf(
-    value,
-    at,
-    world.root,
-    world.index.filePropertiesAt(),
-    world.index.sidecarsAt(),
-    (one) => world.textOf(one) !== null
-  )
-  const held = [...new Set(claimed)].filter((one) => one !== at && world.textOf(one) !== null)
-  return [at, ...held]
 }
 
 function specifierFor(dir: string, target: string): string {
@@ -110,7 +97,7 @@ export function changePagePageType(world: World, given: ChangePagePageTypeAsked)
   if (value === null) return refusing(`\`${given.at}\` names no page, so no page type is changed`)
   let beside: readonly string[]
   try {
-    beside = besideIn(world, given.at, value)
+    beside = claimedIn(world, given.at, value)
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
     return refusing(`${why}, so the files beside \`${given.at}\` were not worked out`)

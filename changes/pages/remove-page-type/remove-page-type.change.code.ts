@@ -1,5 +1,4 @@
 import type { Named } from "@akasha/indexes"
-import { claimsOf } from "@akasha/indexes/entries"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { importNotLeftHanging } from "../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
@@ -8,6 +7,7 @@ import { gathered, refusing } from "../../modules/change-answer/change-answer.mo
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../modules/change-guarding/change-guarding.module.code.ts"
 import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
+import { claimedIn } from "../../modules/page-claiming/page-claiming.module.code.ts"
 import { removeFile } from "../remove-file/remove-file.change.code.ts"
 import { removePropertyValue } from "../remove-property-value/remove-property-value.change.code.ts"
 
@@ -41,19 +41,6 @@ export function carrySaid(slug: string, carrying: readonly string[]): string {
   const named = carrying.slice(0, NAMED).join(", ")
   const rest = carrying.length > NAMED ? `, and ${carrying.length - NAMED} more` : ""
   return `\`${slug}\` is the page type of ${carrying.length} pages, which go first — ${named}${rest}`
-}
-
-function besideIn(world: World, at: string, value: Value): readonly string[] {
-  const claimed = claimsOf(
-    value,
-    at,
-    world.root,
-    world.index.filePropertiesAt(),
-    world.index.sidecarsAt(),
-    (one) => world.textOf(one) !== null
-  )
-  const held = [...new Set(claimed)].filter((one) => one !== at && world.textOf(one) !== null)
-  return [at, ...held]
 }
 
 function parentsOf(world: World, at: string): readonly Named[] {
@@ -97,7 +84,7 @@ export function removePageType(world: World, given: RemovePageTypeAsked): Answer
     const value = typeIn(world, given.at)
     if (value === null) return refusing(nowhere)
     carrying = carryingIn(world, said.slug)
-    beside = besideIn(world, given.at, value)
+    beside = claimedIn(world, given.at, value)
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
     return refusing(`${why}, so \`${given.at}\` was not taken away`)

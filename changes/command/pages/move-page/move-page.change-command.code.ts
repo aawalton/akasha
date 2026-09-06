@@ -1,5 +1,4 @@
 import { dirname, join, relative } from "node:path"
-import { claimsOf } from "@akasha/indexes/entries"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
@@ -8,6 +7,7 @@ import { answered, refusing } from "../../../modules/change-answer/change-answer
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
 import { repointed } from "../../../pages/repoint-imports/repoint-imports.change.code.ts"
 
 const GUARDS = [importNotLeftHanging]
@@ -25,21 +25,6 @@ function pageIn(world: World, at: string): Value | null {
   const said = partedIn(at)
   if (said === null || said.sections.length > 0) return null
   return world.index.pageAt(said.pageType, said.slug)
-}
-
-// The files a page keeps beside that page are the files the page claims, and the page's own file
-// leads the list, so the folder every one of them leaves is the folder the page file sits in.
-function besideIn(world: World, at: string, value: Value): readonly string[] {
-  const claimed = claimsOf(
-    value,
-    at,
-    world.root,
-    world.index.filePropertiesAt(),
-    world.index.sidecarsAt(),
-    (one) => world.textOf(one) !== null
-  )
-  const held = [...new Set(claimed)].filter((one) => one !== at && world.textOf(one) !== null)
-  return [at, ...held]
 }
 
 // Each file keeps the place that file holds under the page's folder, so a file in a folder of its
@@ -65,7 +50,7 @@ export function movePage(world: World, given: MovePageAsked): Answer {
   if (value === null) return refusing(`\`${given.at}\` names no page, so no page is carried`)
   let beside: readonly string[]
   try {
-    beside = besideIn(world, given.at, value)
+    beside = claimedIn(world, given.at, value)
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
     return refusing(`${why}, so the files beside \`${given.at}\` were not worked out`)
