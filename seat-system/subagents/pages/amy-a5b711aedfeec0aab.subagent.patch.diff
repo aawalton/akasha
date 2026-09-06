@@ -197,6 +197,24 @@ index 0000000000000000000000000000000000000000..bd0b26cf24a74cad76f4396e43ea014d
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/alan/web/alan-web.router-app.ts b/alan/web/alan-web.router-app.ts
+index fc2420f7b9824f1a268603765edc2758975c3bba..1f09360758660bbdd602e90374b350107c67473e 100644
+--- a/alan/web/alan-web.router-app.ts
++++ b/alan/web/alan-web.router-app.ts
+@@ -142,11 +142,13 @@ export const alanWeb = {
+     "module/use-media-variants",
+     "module/use-next-unread",
+     "module/use-reader-active-marks",
++    "module/widget-tap-answering",
+     "route/about",
+     "route/claude-usage",
+     "route/inbox-stoplights",
+     "route/no-such-route",
+     "route/pages-ready",
+     "route/wallpaper",
++    "route/widget-tap",
+   ],
+ } as const satisfies RouterApp
 diff --git a/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx b/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx
 index 22646802c58c7e44808a76f73cc6bf797bf90f34..48c8e98fceda7ef2a968529b710fe40bfcd3567b 100644
 --- a/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx
