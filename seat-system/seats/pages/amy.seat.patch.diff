@@ -224,3 +224,15 @@ index 129cb629af722d1f4b9e996126a8a618844d0dcb..8105f58c18e36f517ee2199c372a36d8
    viewPlace: 1,
    layout: "notes",
    viewSorts: [{ key: "title", descending: false }],
+diff --git a/pages/views/pages/personas-seats.view.ts b/pages/views/pages/personas-seats.view.ts
+index 9ee14599f7097cf048be244233662030859ba610..0dd287e2f9fb9d94bd5d546993359b5e37838659 100644
+--- a/pages/views/pages/personas-seats.view.ts
++++ b/pages/views/pages/personas-seats.view.ts
+@@ -6,6 +6,7 @@ export const personasSeats = {
+   slug: "personas-seats",
+   title: "Seats",
+   navSlug: "personas",
++  pageType: "seat",
+   viewPlace: 4,
+   layout: "table",
+   viewSorts: [{ key: "title", descending: false }],
