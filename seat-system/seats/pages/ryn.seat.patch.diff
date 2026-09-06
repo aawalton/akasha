@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/seat-proc-key/seat-proc-key.module.ts b/seat-system/seat-proc-key/seat-proc-key.module.ts
+index 2166a6caaabab3d85a64af720afaf1565abcc5b6..39b4aabd160e6df69c2309fd6d7d544e48c9e3fb 100644
+--- a/seat-system/seat-proc-key/seat-proc-key.module.ts
++++ b/seat-system/seat-proc-key/seat-proc-key.module.ts
+@@ -11,7 +11,7 @@ export const seatProcKey = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A process is present only where the pid is there and its start tick is the one held.",
++        "A process is present only where the pid is there and its start tick is the tick held.",
+     },
+     {
+       invariantKind: "departure",
