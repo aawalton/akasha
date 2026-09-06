@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/domain/domain.command.test.ts b/command-system/commands/domain/domain.command.test.ts
-index 7b69f08716ac692f5d73e2f542bb132343f269b9..d9407eacf4e763ce2308c5430696beb374a523ac 100644
+index 7b69f08716ac692f5d73e2f542bb132343f269b9..400d12a9227e56d752c0c97e9050c0819569b7aa 100644
 --- a/command-system/commands/domain/domain.command.test.ts
 +++ b/command-system/commands/domain/domain.command.test.ts
 @@ -1,8 +1,9 @@
@@ -22,3 +22,18 @@ index 7b69f08716ac692f5d73e2f542bb132343f269b9..d9407eacf4e763ce2308c5430696beb3
  
  const scratch = scratchWorld()
  
+@@ -168,10 +169,13 @@ test("a domain open above the point being drawn is marked rather than drawn agai
+ 
+ function typed(root: string, slug: string, above: readonly string[]): undefined {
+   const path = `akasha/held/${slug}.page-type.ts`
++  const named = above.map((one) => `page-type/${one}`)
+   listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
++  valueAlsoFiled(root, "page-type", [
++    { path, value: { id: `id-${slug}`, pageTypeSlug: "page-type", slug, extendsSlug: named } },
++  ])
+   const page = join(root, path)
+   mkdirSync(dirname(page), { recursive: true })
+-  const named = above.map((one) => `page-type/${one}`)
+   writeFileSync(
+     page,
+     `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ${JSON.stringify(named)} }\n`
