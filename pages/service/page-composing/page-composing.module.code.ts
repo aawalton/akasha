@@ -224,11 +224,11 @@ export function composedFor(root: string, named: Naming): Composed {
       const ending = value as string
       const why = endingRefused(one.key, one.propertySlug, at, ending)
       if (why !== null) return { refused: why }
-      const beside = besideAt(at, one.propertySlug, ending)
-      if (beside === null) {
+      const besideFile = besideAt(at, one.propertySlug, ending)
+      if (besideFile === null) {
         return { refused: `\`${at}\` is no page file, so no file sits beside it` }
       }
-      parts.push({ path: beside, content: bodies[one.key] ?? "" })
+      parts.push({ path: besideFile, content: bodies[one.key] ?? "" })
       inside[one.key] = ending
       continue
     }

@@ -214,11 +214,11 @@ function namingsIn(given: unknown): readonly Naming[] | string {
       const bodies = objectIn(page.bodies)
       if (bodies === null) return "a page hands over its `bodies` as a JSON object"
       const held: Record<string, string> = {}
-      for (const [key, one] of Object.entries(bodies)) {
-        if (typeof one !== "string") {
+      for (const [key, body] of Object.entries(bodies)) {
+        if (typeof body !== "string") {
           return `\`bodies.${key}\` is the whole body that file holds, written as a string`
         }
-        held[key] = one
+        held[key] = body
       }
       naming.bodies = held
     }
