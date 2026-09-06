@@ -1,8 +1,14 @@
 diff --git a/code-system/code-typing/code-typing.module.ts b/code-system/code-typing/code-typing.module.ts
-index 62b7f5dd26ea07eaa22791aa6a370b99854b868a..023f6710c10733e448505de6228d09020aae0294 100644
+index 62b7f5dd26ea07eaa22791aa6a370b99854b868a..e2b69969e074bacdda6995e60ec1c205bf4695aa 100644
 --- a/code-system/code-typing/code-typing.module.ts
 +++ b/code-system/code-typing/code-typing.module.ts
-@@ -20,7 +20,7 @@ export const codeTyping = {
+@@ -15,12 +15,12 @@ export const codeTyping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every file compiles against the full ESNext library, so the browser is in scope.",
++      statement: "Every file compiles against the full ESNext library.",
+     },
      {
        invariantKind: "departure",
        statement:
