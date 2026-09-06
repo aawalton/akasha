@@ -1,3 +1,16 @@
+diff --git a/command-system/commands/move/renaming/move-renaming.module.code.ts b/command-system/commands/move/renaming/move-renaming.module.code.ts
+index b5793f626222789f0fb93aeee28fb5bf7939c95c..c2c4ab1fae85eaf1e35ad3af8aa1e924fa0752a1 100644
+--- a/command-system/commands/move/renaming/move-renaming.module.code.ts
++++ b/command-system/commands/move/renaming/move-renaming.module.code.ts
+@@ -117,7 +117,7 @@ export function rebound(path: string, text: string, was: string, now: string): s
+ export function addressingIn(value: Value, known: Shaped, id: string): readonly string[] {
+   const found = new Set<string>()
+   for (const one of namingsIn(value, known)) {
+-    if (one.own) continue
++    if (one.identity) continue
+     const wanted = known.targetOf(one.propertySlug)
+     if (wanted === null) continue
+     for (const named of namesIn(one.held)) {
 diff --git a/command-system/commands/refactor/type-respelling/type-respelling.module.code.ts b/command-system/commands/refactor/type-respelling/type-respelling.module.code.ts
 index 6ef075d897cc76ecf3e28b80b466ea9bf2fd6551..c0b100540020f6d2ddb9c9ef830412d5acf8c1ae 100644
 --- a/command-system/commands/refactor/type-respelling/type-respelling.module.code.ts
