@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-to-reproduce-interest-and-non-defensiveness.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-to-reproduce-interest-and-non-defensiveness.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6fa6f0b57fd9eadff0f4b189e459f7f0392b76cc
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-to-reproduce-interest-and-non-defensiveness.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howToReproduceInterestAndNonDefensiveness = {
++  id: "01a077e4-3d41-76b7-8d0f-ba16ea51e36d",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-to-reproduce-interest-and-non-defensiveness",
++  topicSlug: "being-known",
++  ask: "How do I reproduce real interest and non-defensiveness on purpose, when both live in the other person?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-other-channels-for-being-known-are.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-other-channels-for-being-known-are.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b7c9053fe35022f4f2ea578d2982d586d790fee4
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-the-other-channels-for-being-known-are.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTheOtherChannelsForBeingKnownAre = {
++  id: "01a077e4-3d3f-7781-9820-5fd626e3b0eb",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-the-other-channels-for-being-known-are",
++  topicSlug: "being-known",
++  ask: "My plan for being known rests on one email to one person. What are the other channels, ranked on the same grid?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-dropping-the-picture-lowers-the-cost.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-dropping-the-picture-lowers-the-cost.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c4f760fcb295e36b80015cc1a28c7d8140b3f230
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-dropping-the-picture-lowers-the-cost.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherDroppingThePictureLowersTheCost = {
++  id: "01a077e4-3d41-779b-bf4d-a5246f8a4d6c",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-dropping-the-picture-lowers-the-cost",
++  topicSlug: "being-known",
++  ask: "Does dropping the picture lower the cost with every sensitive partner, or only where both of us are reading each other’s faces?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-axis-of-similarity-lowers-the-cost.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-axis-of-similarity-lowers-the-cost.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f94d3f4b2036503df7a39e370ae6bb4af9e74005
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-axis-of-similarity-lowers-the-cost.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichAxisOfSimilarityLowersTheCost = {
++  id: "01a077e4-3d41-7a49-979e-5e750938196d",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-axis-of-similarity-lowers-the-cost",
++  topicSlug: "being-known",
++  ask: "Which axis of similarity drives the low cost of being known: thinking style, senses, values or neurotype?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/being-known.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/being-known.all-about-alan-topic.ts
+index 4870d092baa5345132eefd49b8170f9b7fe0e302..6e96aec70d7871aac626821a620bdb87694aeab5 100644
+--- a/alan/books/all-about-alan/topics/pages/being-known.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/being-known.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const beingKnown = {
+   relatedSlugs: ["being-met", "being-alone-at-the-centre", "why-getting-close-hurts"],
+   settled:
+     "It needs someone who can and someone who will, and neither implies the other.\n\nCheap needs a near-twin who can use themselves as the model. Expensive needs someone willing to build one from scratch.\n\nAlmost all of mine runs through Jen, so there is no easier relationship to practise on.\n\nThe recipe is someone asking about me out of real interest with no defensiveness, and every ingredient lives in them.\n\nIt has happened by accident and never yet on purpose.",
+-  unsettled:
+-    "The plan rests on one email to one person. What the other channels are, ranked on the same grid, is unlisted.\n\nWhich axis of similarity drives the low cost, of thinking style, senses, values or neurotype, is unidentified.\n\nHow to reproduce real interest and non-defensiveness on purpose, when both live in the other person, is unsolved.\n\nWhether dropping the picture lowers the cost with every sensitive partner, or only where both of us are reading each other’s faces, is untested.",
+ } as const satisfies AllAboutAlanTopic
