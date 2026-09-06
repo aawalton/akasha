@@ -9,17 +9,16 @@ export const workTreeView = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A filter that reads the same as the one held redraws nothing.",
+      statement: "A filter that reads the same as the filter held redraws nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A row is matched against its label, its detail and its note.",
+      statement: "A row is matched against its label and its detail and its note.",
     },
 
     {
       invariantKind: "departure",
-      statement:
-        "A row is identified apart while a filter is there, so the editor redraws that row.",
+      statement: "A row is identified apart while a filter is there.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +38,7 @@ export const workTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "Every row carries a blank icon, so a colored row and an uncolored one line up.",
+      statement: "Every row carries a blank icon.",
     },
     {
       invariantKind: "departure",
@@ -48,7 +47,7 @@ export const workTreeView = {
     },
     {
       invariantKind: "departure",
-      statement: "A row opens the whole path that row carries rather than one composed here.",
+      statement: "A row opens the whole path that row carries rather than a path composed here.",
     },
     {
       invariantKind: "departure",
