@@ -1,4 +1,30 @@
 writerOwesReading: false
+diff --git a/alan/books/my-projects/sections/second-passport/active-income.book-section.ts b/alan/books/my-projects/sections/second-passport/active-income.book-section.ts
+index 1f9b32bff17c0b2baddd3bbaf1722876445481c8..67f83dad01943c49cdbca239d8b6a1f040690a4c 100644
+--- a/alan/books/my-projects/sections/second-passport/active-income.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/active-income.book-section.ts
+@@ -5,7 +5,7 @@ export const activeIncome = {
+   pageTypeSlug: "book-section",
+   slug: "active-income",
+   title: "Active Income",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["second-passport"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/passive-income.book-section.ts b/alan/books/my-projects/sections/second-passport/passive-income.book-section.ts
+index 706f18ebf3033224abe88374808466af73ee5333..9dd1f217708d648556344a1778bb3050ec6dfc68 100644
+--- a/alan/books/my-projects/sections/second-passport/passive-income.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/passive-income.book-section.ts
+@@ -5,7 +5,7 @@ export const passiveIncome = {
+   pageTypeSlug: "book-section",
+   slug: "passive-income",
+   title: "Passive Income",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["second-passport"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
 diff --git a/alan/books/my-projects/sections/solar-power/customer-generation.book-section.ts b/alan/books/my-projects/sections/solar-power/customer-generation.book-section.ts
 index 5551802c2e3e263128147f7470c28651ca984432..4172f73cf2e75053afd90e940d56856e46b8223d 100644
 --- a/alan/books/my-projects/sections/solar-power/customer-generation.book-section.ts
