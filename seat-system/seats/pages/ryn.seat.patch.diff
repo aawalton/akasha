@@ -1,0 +1,17 @@
+diff --git a/infrastructure/infrastructure-commands/talos-image-build/talos-image-build.command.ts b/infrastructure/infrastructure-commands/talos-image-build/talos-image-build.command.ts
+index c8afdadecd496b5c4a931dfa1bfac9eeb7385321..540ebe1bd4a9734c7b8957c1c74c8bf1ad578c14 100644
+--- a/infrastructure/infrastructure-commands/talos-image-build/talos-image-build.command.ts
++++ b/infrastructure/infrastructure-commands/talos-image-build/talos-image-build.command.ts
+@@ -27,7 +27,11 @@ export const talosImageBuild = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The node is named as a word or after `--node`, and naming both is refused.",
++      statement: "The node is named as a word or after `--node`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A node named as a word and after `--node` is refused.",
+     },
+     {
+       invariantKind: "departure",
