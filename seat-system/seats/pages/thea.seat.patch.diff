@@ -11,6 +11,18 @@ index 9af0c40de01a4d8ef093d47ed82fb492bcfdcc2f..973d77ff8f0b2e2ec6d44aaf38d6aa6d
    extendsSlug: ["page-type/module"],
    properties: [
      { pagePropertySlug: "text-property/index-name", required: true, many: false },
+diff --git a/pages/indexes/index.workspace-package.ts b/pages/indexes/index.workspace-package.ts
+index 8229b3e447eb16b1c3ef47b6099a8a62fde3ed30..086b92ef86d5a6456288b8bd4155d15dc0ab0476 100644
+--- a/pages/indexes/index.workspace-package.ts
++++ b/pages/indexes/index.workspace-package.ts
+@@ -27,7 +27,6 @@ export const index = {
+     "module/property-carrying",
+     "module/index-answering",
+     "module/tree-reading",
+-    "text-property/index-name",
+   ],
+   invariants: [
+     {
 diff --git a/personas/persona.page-type.ts b/personas/persona.page-type.ts
 index 5b0a401b40d96b7e787ebfd3022c6f82ecb6e5f4..3916b11b7a0bd7cf10b00116d73d1a63b4174c3d 100644
 --- a/personas/persona.page-type.ts
