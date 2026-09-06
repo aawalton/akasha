@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/commands/properties/help-exclusions.record-property.ts b/command-system/commands/properties/help-exclusions.record-property.ts
+index 1614e9215c7a2eeeeb304447ecd79282b8ed82b9..db6475390cb33d17052c71e3b86d8361a53e5d58 100644
+--- a/command-system/commands/properties/help-exclusions.record-property.ts
++++ b/command-system/commands/properties/help-exclusions.record-property.ts
+@@ -25,7 +25,7 @@ export const helpExclusions = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A set names two flags or more.",
++      statement: "A set names at least two flags.",
+     },
+   ],
+ } as const satisfies RecordProperty
