@@ -1752,7 +1752,7 @@ index bc5bdf8b778784864a6ef0b803466085d451947e..0b322e8435db72b84825bf168ffa0dd9
 +  return pool.slice(0, draws)
 +}
 diff --git a/alan/library/book-of-everything/seeded-draw/seeded-draw.module.ts b/alan/library/book-of-everything/seeded-draw/seeded-draw.module.ts
-index 7e2f9e780ef409c1b985539f20525cf51cc2f791..e5ef4aacd9411f4e21d3c7e8c13b4f9a558c896d 100644
+index 7e2f9e780ef409c1b985539f20525cf51cc2f791..b54c86e65d2da0588c579903f251c101e2556432 100644
 --- a/alan/library/book-of-everything/seeded-draw/seeded-draw.module.ts
 +++ b/alan/library/book-of-everything/seeded-draw/seeded-draw.module.ts
 @@ -4,7 +4,7 @@ export const seededDraw = {
@@ -1764,7 +1764,7 @@ index 7e2f9e780ef409c1b985539f20525cf51cc2f791..e5ef4aacd9411f4e21d3c7e8c13b4f9a
    code: "ts",
    test: "ts",
    invariants: [
-@@ -29,5 +29,21 @@ export const seededDraw = {
+@@ -29,5 +29,17 @@ export const seededDraw = {
        invariantKind: "departure",
        statement: "Two seeds that differ give runs that differ.",
      },
@@ -1774,11 +1774,7 @@ index 7e2f9e780ef409c1b985539f20525cf51cc2f791..e5ef4aacd9411f4e21d3c7e8c13b4f9a
 +    },
 +    {
 +      invariantKind: "departure",
-+<<<<<<< what this change would leave
-+      statement: "A draw takes its source of randomness handed in rather than reaching for one.",
-+=======
 +      statement: "The source of randomness is handed in rather than reached for.",
-+>>>>>>> what HEAD holds
 +    },
 +    {
 +      invariantKind: "departure",
