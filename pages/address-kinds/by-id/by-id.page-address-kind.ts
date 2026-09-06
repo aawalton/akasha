@@ -23,7 +23,7 @@ export const byId = {
     {
       invariantKind: "gap",
       statement:
-        "A second property reaching every page leaves this kind unable to say which it names.",
+        "A second property reaching every page leaves an address of this kind pointing at two reaches.",
     },
   ],
 } as const satisfies PageAddressKind
