@@ -1,5 +1,5 @@
 diff --git a/pages/indexes/reading/index-reading.module.test-fixtures.ts b/pages/indexes/reading/index-reading.module.test-fixtures.ts
-index 30c55ac8efa8267cea89ae7820f7f7e78de60c42..99df11ff37107efcde4ba4e0a0be727333fd0b30 100644
+index 30c55ac8efa8267cea89ae7820f7f7e78de60c42..5f17c1a789592741dd7efe0bdf2d78393ee17c8c 100644
 --- a/pages/indexes/reading/index-reading.module.test-fixtures.ts
 +++ b/pages/indexes/reading/index-reading.module.test-fixtures.ts
 @@ -1,4 +1,12 @@
@@ -16,3 +16,27 @@ index 30c55ac8efa8267cea89ae7820f7f7e78de60c42..99df11ff37107efcde4ba4e0a0be7273
  import { dirname, join } from "node:path"
  import { everyFileUnder } from "@akasha/testing-system/walking"
  import type { Entry } from "../entries/index-entries.module.code.ts"
+@@ -251,6 +259,23 @@ export function listedTakenFrom(root: string, pageTypeSlug: string, slug: string
+   taking(root, join(indexIdentity.name, pageTypeSlug, SLUG, `${slug}${ENDING}`))
+ }
+ 
++function slugSaid(line: string): unknown {
++  try {
++    return (JSON.parse(line) as { value?: { slug?: unknown } }).value?.slug
++  } catch {
++    return undefined
++  }
++}
++
++export function valueTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
++  const at = under(root, `${join(indexValue.name, pageTypeSlug)}${ENDING}`)
++  if (!existsSync(at)) return
++  const kept = readFileSync(at, "utf8")
++    .split("\n")
++    .filter((one) => one !== "" && slugSaid(one) !== slug)
++  writeFileSync(at, kept.map((one) => `${one}\n`).join(""))
++}
++
+ export function importsListed(root: string): boolean {
+   return existsSync(under(root, indexImport.name))
+ }
