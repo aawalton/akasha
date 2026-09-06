@@ -22,7 +22,6 @@
     "./eso-addon": "./eso-addons/eso-addon.page-type.ts",
     "./eso-addon/bindings": "./eso-addons/properties/bindings.named-file-property.ts",
     "./eso-interface": "./eso-interfaces/eso-interface.page-type.ts",
-    "./export-respelling": "./export-respelling/export-respelling.module.code.ts",
     "./ios-app": "./ios-apps/ios-app.page-type.ts",
     "./ios-program/alanwalton-decode-harness": "./ios-programs/pages/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts",
     "./ios-program/alanwalton-widget": "./ios-programs/pages/alanwalton-widget/alanwalton-widget.ios-program.ts",

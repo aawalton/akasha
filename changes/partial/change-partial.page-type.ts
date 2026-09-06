@@ -9,7 +9,7 @@ export const changePartial = {
   slug: "change-partial",
   definition: "a piece of a change that leaves the tree broken on its own",
   pluralSlug: "change-partials",
-  partSlugs: ["change-partial/repoint-imports"],
+  partSlugs: ["change-partial/repoint-imports", "module/respell-export"],
   extendsSlug: ["page-type/module"],
   invariants: [
     {

@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code-system/module"
 
-export const exportRespelling = {
+export const respellExport = {
   id: "01a07651-187f-7ce5-a806-842a471da594",
   pageTypeSlug: "module",
-  slug: "export-respelling",
+  slug: "respell-export",
   definition: "a name one body exports spelled anew across the paths a caller hands in",
   code: "ts",
   test: "ts",

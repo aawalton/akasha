@@ -8,8 +8,8 @@ import {
   NAMER_CODE,
   scratch,
   textIn,
-} from "../../pages/indexes/indexing/indexing.module.test-fixtures.ts"
-import { respelled } from "./export-respelling.module.code.ts"
+} from "../../../../pages/indexes/indexing/indexing.module.test-fixtures.ts"
+import { respelled } from "./respell-export.module.code.ts"
 
 afterAll(scratch.sweep)
 

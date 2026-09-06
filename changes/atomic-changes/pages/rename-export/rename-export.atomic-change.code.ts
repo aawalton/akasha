@@ -1,6 +1,6 @@
 import { typed } from "@akasha/code-system/code-typing"
-import { respelled } from "../../../../code-system/export-respelling/export-respelling.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
+import { respelled } from "../../../partial/pages/respell-export/respell-export.module.code.ts"
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 

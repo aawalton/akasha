@@ -49,7 +49,6 @@ export const codeSystem = {
     "module/package-manifest",
     "module/shape-progress",
     "module/carried-file",
-    "module/export-respelling",
     "module/name-series",
   ],
 } as const satisfies WorkspacePackage
