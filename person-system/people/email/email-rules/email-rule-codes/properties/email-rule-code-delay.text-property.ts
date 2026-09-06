@@ -13,7 +13,11 @@ export const emailRuleCodeDelay = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A delay is a count of minutes or hours, written as digits and then `m` or `h`.",
+      statement: "A delay is a count of minutes or hours.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A delay is written as digits and then `m` or `h`.",
     },
     {
       invariantKind: "departure",
