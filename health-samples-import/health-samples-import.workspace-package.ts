@@ -4,7 +4,7 @@ export const healthSamplesImport = {
   id: "01a05c14-b11a-7006-9c17-e67776ab45af",
   pageTypeSlug: "workspace-package",
   slug: "health-samples-import",
-  definition: "health readings taken off Alan's laptop and brought into the store",
+  definition: "health readings taken off a machine of Alan's and brought into the store",
   manifest: "json",
   partSlugs: [
     "module/verdict-reading",
@@ -21,7 +21,7 @@ export const healthSamplesImport = {
     {
       invariantKind: "departure",
       statement:
-        "A reading is fetched over a shell on the laptop rather than from anything the laptop serves.",
+        "A reading is fetched over a shell on the machine holding the export rather than from anything that machine serves.",
     },
     {
       invariantKind: "departure",
