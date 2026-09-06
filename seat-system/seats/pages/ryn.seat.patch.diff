@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.ts b/seat-system/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.ts
+index aaee04bf14e63f51c2ecda05ab96e162b0b054eb..e91fc01c04e96758f92e2ed293f3cca073e27aa1 100644
+--- a/seat-system/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.ts
++++ b/seat-system/seat-revive-io-verify-decide/seat-revive-io-verify-decide.module.ts
+@@ -10,7 +10,7 @@ export const seatReviveIoVerifyDecide = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat that has advanced on any of its signals has advanced.",
++      statement: "A seat that has advanced on a single signal has advanced.",
+     },
+     {
+       invariantKind: "departure",
