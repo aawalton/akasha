@@ -1,0 +1,73 @@
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index a66c52fabd747e2abbdbb878960d2eeaf335089b..80bcc8ecbfe68bf35a056fde9b84b3b89396d55d 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -237,7 +237,7 @@ export function noCheckSaid(slug: string): string {
+ export function runningOf(given: Given): Running {
+   const kind = given.changeKind
+   if (kind === undefined) return AUTHORED
+-  return { checks: kind.runsChecks, warrants: kind.runsWarrants }
++  return { checks: kind.runsChecks, warrants: kind.writerOwesReading }
+ }
+ 
+ function bypassIn(given: Given, asked: Asked): Bypass | null {
+@@ -431,7 +431,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer>
+ export const MECHANICAL: Kind = {
+   slug: "change-mechanical",
+   runsChecks: false,
+-  runsWarrants: false,
++  writerOwesReading: false,
+ }
+ 
+ export async function landedMechanically(
+diff --git a/command-system/asking/asking.module.test-fixtures.ts b/command-system/asking/asking.module.test-fixtures.ts
+index 2a84728660d5ca9c0fedb540eb24b672ab3e7e56..7ba1bc987345d4d46f4237d4da26a9ce4449f32f 100644
+--- a/command-system/asking/asking.module.test-fixtures.ts
++++ b/command-system/asking/asking.module.test-fixtures.ts
+@@ -237,7 +237,10 @@ export const mechanically = async (root: string): Promise<number> =>
+ export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
+ 
+ export const ranBy = (runsChecks: boolean, runsWarrants: boolean): Running =>
+-  runningOf({ ...givenIn(""), changeKind: { slug: "held", runsChecks, runsWarrants } })
++  runningOf({
++    ...givenIn(""),
++    changeKind: { slug: "held", runsChecks, writerOwesReading: runsWarrants },
++  })
+ 
+ export function seeded(root: string): boolean {
+   const held = [{ path: "akasha/one.ts", was: bytes("committed\n"), body: bytes(PROPOSED) }]
+diff --git a/command-system/calling/calling.module.code.ts b/command-system/calling/calling.module.code.ts
+index 9b114c0edaa3a0681b6ce18adc57e5c37b4643d1..4a40ce7667be3a992547f53d77669501176f96de 100644
+--- a/command-system/calling/calling.module.code.ts
++++ b/command-system/calling/calling.module.code.ts
+@@ -10,7 +10,7 @@ import { saidBy } from "../fault-saying/fault-saying.module.code.ts"
+ export type Kind = {
+   readonly slug: string
+   readonly runsChecks: boolean
+-  readonly runsWarrants: boolean
++  readonly writerOwesReading: boolean
+ }
+ 
+ export type Outside = {
+@@ -160,7 +160,7 @@ export function kindNamed(root: string, slug: string): Kind | null {
+   const checks = page[RUNS_CHECKS]
+   const warrants = page[RUNS_WARRANTS]
+   if (typeof checks !== "boolean" || typeof warrants !== "boolean") return null
+-  return { slug, runsChecks: checks, runsWarrants: warrants }
++  return { slug, runsChecks: checks, writerOwesReading: warrants }
+ }
+ 
+ function kindOf(root: string, page: Record<string, unknown> | null): Kind | null {
+diff --git a/command-system/commands/write/write.command.code.ts b/command-system/commands/write/write.command.code.ts
+index a3c467f0ef012347b14403468cc653b6738ec149..9ff4c61c558976fa445455d72327bdd95f1a76b8 100644
+--- a/command-system/commands/write/write.command.code.ts
++++ b/command-system/commands/write/write.command.code.ts
+@@ -48,7 +48,7 @@ export function unwarrantedIn(
+   glass: string | null,
+   changes: readonly FileEdit[]
+ ): readonly string[] {
+-  if (given.changeKind?.runsWarrants === false) return []
++  if (given.changeKind?.writerOwesReading === false) return []
+   if (glass !== null) return []
+   return owedIn(
+     given.root,
