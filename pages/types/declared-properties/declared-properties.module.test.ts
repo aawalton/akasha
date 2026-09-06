@@ -67,7 +67,7 @@ test("a page type carries the properties it declares itself", () => {
   const root = rootAt()
   propertied(root, "text-property", "plural-slug", "plural-slug")
   typed(root, "page-type", null, [
-    { pagePropertySlug: "plural-slug", required: true, many: true, max: 20 },
+    { pagePropertySlug: "plural-slug", required: true, many: true, maxCount: 20 },
   ])
 
   expect(carriedBy(root, "page-type")).toEqual([
@@ -113,13 +113,13 @@ test("the nearest declaration binds, and a further one for the property is passe
   const root = rootAt()
   propertied(root, "record-property", "properties", "properties")
   typed(root, "domain", null, [
-    { pagePropertySlug: "properties", required: false, many: true, max: null },
+    { pagePropertySlug: "properties", required: false, many: true, maxCount: null },
   ])
   typed(
     root,
     "page-type",
     ["domain"],
-    [{ pagePropertySlug: "properties", required: true, many: true, max: 20 }]
+    [{ pagePropertySlug: "properties", required: true, many: true, maxCount: 20 }]
   )
 
   const carried = carriedBy(root, "page-type")
@@ -235,13 +235,13 @@ test("every declaration is answered, the shadowed one standing beside the one th
   const root = rootAt()
   propertied(root, "record-property", "properties", "properties")
   typed(root, "domain", null, [
-    { pagePropertySlug: "properties", required: false, many: true, max: null },
+    { pagePropertySlug: "properties", required: false, many: true, maxCount: null },
   ])
   typed(
     root,
     "page-type",
     ["domain"],
-    [{ pagePropertySlug: "properties", required: true, many: true, max: 20 }]
+    [{ pagePropertySlug: "properties", required: true, many: true, maxCount: 20 }]
   )
 
   expect(
