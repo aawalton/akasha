@@ -1,4 +1,4 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeChecked } from "../../change-checked.page-type.ts"
 
 export const removePageType = {
   id: "01a0783a-11c0-7891-a250-63a80bef1c95",

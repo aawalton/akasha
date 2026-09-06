@@ -1,4 +1,4 @@
-import type { ChangeChecked } from "../../../checked/change-checked.page-type.ts"
+import type { ChangeChecked } from "../../change-checked.page-type.ts"
 
 export const movePage = {
   id: "01a07883-67ee-7249-9045-121a02fac4bf",

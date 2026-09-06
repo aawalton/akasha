@@ -9,13 +9,13 @@ export type Changes = {
     typeof import("../../../checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts")["runChange"]
   >[1]
   "change-checked/move-page": Parameters<
-    typeof import("../../../command/pages/move-page/move-page.change-checked.code.ts")["runChange"]
+    typeof import("../../../checked/pages/move-page/move-page.change-checked.code.ts")["runChange"]
   >[1]
   "change-checked/remove-page": Parameters<
-    typeof import("../../../command/pages/remove-page/remove-page.change-checked.code.ts")["runChange"]
+    typeof import("../../../checked/pages/remove-page/remove-page.change-checked.code.ts")["runChange"]
   >[1]
   "change-checked/remove-page-type": Parameters<
-    typeof import("../../../command/pages/remove-page-type/remove-page-type.change-checked.code.ts")["runChange"]
+    typeof import("../../../checked/pages/remove-page-type/remove-page-type.change-checked.code.ts")["runChange"]
   >[1]
   "change-checked/rename-code-token": Parameters<
     typeof import("../../../pages/rename-code-token/rename-code-token.change-checked.code.ts")["runChange"]

@@ -7,7 +7,7 @@ import {
   pageOf,
   scratch,
 } from "@akasha/indexes/indexing/testing"
-import { removePage } from "../../../changes/command/pages/remove-page/remove-page.change-checked.code.ts"
+import { removePage } from "../../../changes/checked/pages/remove-page/remove-page.change-checked.code.ts"
 import { editsIn } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Loaded } from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
