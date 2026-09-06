@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/work-tree-reading/work-tree-reading.module.ts b/editor-extension/work-tree-reading/work-tree-reading.module.ts
+index e392f2fd7009aa063e881cf1859af9b0918d7eb3..983a686c2bb2b4ad4232641a1b9afc53d1f86fb4 100644
+--- a/editor-extension/work-tree-reading/work-tree-reading.module.ts
++++ b/editor-extension/work-tree-reading/work-tree-reading.module.ts
+@@ -13,7 +13,7 @@ export const workTreeReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The rows are counted by what each row is as well as all together.",
++      statement: "The rows are counted by the kind each row is as well as all together.",
+     },
+     {
+       invariantKind: "departure",
