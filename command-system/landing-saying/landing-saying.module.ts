@@ -32,7 +32,7 @@ export const landingSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A body that landed other than as that body was handed in is named in the report.",
+      statement: "A body that landed differently from the body handed in is named in the report.",
     },
     {
       invariantKind: "departure",
