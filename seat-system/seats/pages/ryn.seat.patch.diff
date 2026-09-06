@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/editor-extension/domain-tree-view/domain-tree-view.module.ts b/editor-extension/domain-tree-view/domain-tree-view.module.ts
+index 102ad76705e43e54ea7a080c4299aac6288b74b6..7c29587618c7a4d1a74b6f1fca3d71b1fede2c7c 100644
+--- a/editor-extension/domain-tree-view/domain-tree-view.module.ts
++++ b/editor-extension/domain-tree-view/domain-tree-view.module.ts
+@@ -9,7 +9,7 @@ export const domainTreeView = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A filter that reads the same as the one held redraws nothing.",
++      statement: "A filter that reads the same as the filter held redraws nothing.",
+     },
+     {
+       invariantKind: "departure",
