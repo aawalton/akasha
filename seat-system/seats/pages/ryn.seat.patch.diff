@@ -17,14 +17,3 @@ index 5882142fbeaf855c8a412eafcccd80ca2251da80..96418406d3019effc95de44511bd8d7b
      },
      {
        invariantKind: "departure",
-diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
-index ed717412cb7ba57467b26765758b60b5f4ca71c4..ce3b534a499edf83a8d3630fd98cb5d68ac6a7fe 100644
---- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
-+++ b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
-@@ -1 +1,5 @@
--export type Changes = {}
-+export type Changes = {
-+  "change-command/remove-page": Parameters<
-+    typeof import("../../../command/pages/remove-page/remove-page.change-command.code.ts")["runChange"]
-+  >[1]
-+}
