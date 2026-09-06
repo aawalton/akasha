@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-i-currently-call-weather.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-i-currently-call-weather.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5d31a4e7c8421e2946e5063f535615c287929e82
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-i-currently-call-weather.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatICurrentlyCallWeather = {
++  id: "01a077ea-1093-750a-9a06-c93812d299a9",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-i-currently-call-weather",
++  topicSlug: "calling-something-weather",
++  ask: "What do I currently call weather, what is still pulling that could be filed there, and what is filed wrongly so a drive got switched off too early?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-triggers-my-map-to-move.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-triggers-my-map-to-move.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..27f4fc96f78b78a4d474dd963b9fb74458ab5acd
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-triggers-my-map-to-move.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTriggersMyMapToMove = {
++  id: "01a077ea-1092-7604-9cae-534f815d1d43",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-triggers-my-map-to-move",
++  topicSlug: "calling-something-weather",
++  ask: "What actually triggers my map to move: direct evidence that a thing cannot change, repeated failed attempts, or someone else's framing?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-weather-gate-runs-both-ways.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-weather-gate-runs-both-ways.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5f97a80c232c7f7b39f9780ea0e3a2a16ea20758
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-weather-gate-runs-both-ways.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheWeatherGateRunsBothWays = {
++  id: "01a077ea-1093-7a1a-bcad-21a81d711353",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-weather-gate-runs-both-ways",
++  topicSlug: "calling-something-weather",
++  ask: "Does the weather gate run both ways, so something becomes mine again as I get more able, and does fresh bad news re-enter each time or get absorbed?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/calling-something-weather.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/calling-something-weather.all-about-alan-topic.ts
+index d4ca9639e21c13f4615f20962afeff8581a0e464..c95041823d6b8a3471167be6eb5f2fe4fe69cb4a 100644
+--- a/alan/books/all-about-alan/topics/pages/calling-something-weather.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/calling-something-weather.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const callingSomethingWeather = {
+   relatedSlugs: ["rumination", "what-pulls-me-into-doing-something"],
+   settled:
+     "An unresolved conflict pulls at full strength forever, because nothing fades. This is the one thing that switches it off.\n\nDeciding it is weather does nothing. The map has to actually move, which happens offline on evidence like any other change of mind.\n\nWhen it does move, the pull does not damp. It goes.\n\nWhat can stay behind is dislike, which registers that a thing is bad and asks nothing of me.\n\nPhysics being inconsistent with itself is weather. So, since May, is how broken the world is.",
+-  unsettled:
+-    "What actually triggers the map to move is unprobed: direct evidence that a thing cannot change, repeated failed attempts, or someone else's framing.\n\nNo pass has been made over what I currently call weather, what is still pulling that could be filed there, and what is filed wrongly so a drive got switched off too early.\n\nWhether the gate runs both ways, so something becomes mine again as I get more able, is unasked. Fresh bad news is the live case: it may re-enter each time or be absorbed.",
+ } as const satisfies AllAboutAlanTopic
