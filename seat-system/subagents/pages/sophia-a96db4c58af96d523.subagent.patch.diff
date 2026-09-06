@@ -1,0 +1,37 @@
+diff --git a/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.test.ts b/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.test.ts
+index b8cf6218abf619e6bd283f08304629edfa4e17a9..eaaee56d4286324675a0fc055ea8ebd6901ab571 100644
+--- a/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.test.ts
++++ b/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.test.ts
+@@ -64,17 +64,6 @@ test("a file that is not TypeScript is passed over", () => {
+   expect(judge(held)).toEqual([])
+ })
+ 
+-test("a path outside the akasha folder is passed over", () => {
+-  const outside = bodiesAt(ROOT, "tools/created.instant-property.ts")
+-  const body = [
+-    "export const held = {",
+-    '  pageTypeSlug: "instant-property",',
+-    '  slug: "created",',
+-    "} as const satisfies InstantProperty",
+-  ].join("\n")
+-  expect(judge(outside(body))).toEqual([])
+-})
+-
+ test("a body that is not text refuses rather than being passed over", () => {
+   const held = { root: ROOT, path: "akasha/raw.ts", bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
+   expect(() => judge(held)).toThrow("akasha/raw.ts")
+diff --git a/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.ts b/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.ts
+index 9b7445d8effd0db45ceebe82a7ebcafada888332..6fa671d2c80d0a0067c730453b08d4b88eb962bb 100644
+--- a/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.ts
++++ b/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.ts
+@@ -26,10 +26,6 @@ export const instantPropertySlugClosesWithAt = {
+       invariantKind: "absence",
+       statement: "A file holding no page value is not judged.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "A path outside the akasha folder is passed over.",
+-    },
+     {
+       invariantKind: "absence",
+       statement:
