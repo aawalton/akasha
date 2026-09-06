@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/harness/plants/plants.domain.ts b/alan/harness/plants/plants.domain.ts
+index 2e5ca05091c3b9efd571eb206a0a29edba9c37fe..06a0b209e06f9a5de946dcef92321e2c2f35886f 100644
+--- a/alan/harness/plants/plants.domain.ts
++++ b/alan/harness/plants/plants.domain.ts
+@@ -24,7 +24,7 @@ export const plants = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every site showing the grams is carried the grams rather than taking one.",
++      statement: "Every site showing the grams is carried the grams rather than taking the grams.",
+     },
+     {
+       invariantKind: "departure",
