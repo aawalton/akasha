@@ -3703,10 +3703,10 @@ index 0000000000000000000000000000000000000000..9a3a5655457aa117b610d991b6a66ca9
 +} as const satisfies RelationProperty
 diff --git a/alan/library/book-of-everything/mastery-levels/mastery-level.page-type.ts b/alan/library/book-of-everything/mastery-levels/mastery-level.page-type.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..cac0eac2f7531fe4b21a225ac60178b528f44302
+index 0000000000000000000000000000000000000000..a58885968c10b6e7067599129c8344883225a46b
 --- /dev/null
 +++ b/alan/library/book-of-everything/mastery-levels/mastery-level.page-type.ts
-@@ -0,0 +1,52 @@
+@@ -0,0 +1,54 @@
 +import type { Domain } from "@akasha/domains/domain"
 +import type { PageType } from "@akasha/pages/page-type"
 +import type { MasteryBehaviour } from "./properties/mastery-behaviour.text-property.ts"
@@ -3718,6 +3718,7 @@ index 0000000000000000000000000000000000000000..cac0eac2f7531fe4b21a225ac60178b5
 +}
 +
 +export const masteryLevel = {
++  id: "01a0784a-cdb9-75af-be55-75cc37d93123",
 +  pageTypeSlug: "page-type",
 +  slug: "mastery-level",
 +  definition: "one rung on the scale a topic's mastery is scored against",
@@ -3742,7 +3743,8 @@ index 0000000000000000000000000000000000000000..cac0eac2f7531fe4b21a225ac60178b5
 +  invariants: [
 +    {
 +      invariantKind: "departure",
-+      statement: "A rung is an observable interview behaviour rather than facts recalled or time spent.",
++      statement:
++        "A rung is an observable interview behaviour rather than facts recalled or time spent.",
 +    },
 +    {
 +      invariantKind: "departure",
