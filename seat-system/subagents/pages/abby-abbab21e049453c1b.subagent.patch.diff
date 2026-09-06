@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-broke-in-githubs-team-plan.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-broke-in-githubs-team-plan.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f7ff1f7fe17d8182c58bea42d617044ff5271d81
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-broke-in-githubs-team-plan.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatBrokeInGithubsTeamPlan = {
++  id: "01a077ee-76c6-7bc2-9856-bfc6f48b7936",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-broke-in-githubs-team-plan",
++  topicSlug: "how-my-services-decide-to-deploy",
++  ask: "What exactly broke in GitHub's team plan when I broke it as an individual in January, and what was the limit?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-continuous-deploy-still-needs.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-continuous-deploy-still-needs.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..793965ca12558f1424c60a16fe23a8fb50a7909a
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-continuous-deploy-still-needs.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatContinuousDeployStillNeeds = {
++  id: "01a077ee-76c7-766c-8c4b-a344c051c9ac",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-continuous-deploy-still-needs",
++  topicSlug: "how-my-services-decide-to-deploy",
++  ask: "What does continuous deploy on graph changes still need before it is running?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-my-services-decide-to-deploy.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-my-services-decide-to-deploy.all-about-alan-topic.ts
+index 25c980dcf97f03e8d1fdd91383aef8f8d5c42eca..57578adae6f0ad01f546e689e1748d46ec80dba3 100644
+--- a/alan/books/all-about-alan/topics/pages/how-my-services-decide-to-deploy.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-my-services-decide-to-deploy.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const howMyServicesDecideToDeploy = {
+   parentSlugs: ["the-graph-i-built-to-run-my-checks"],
+   settled:
+     "Whether a service needs to deploy is also a predicate over the graph, so the graph is solving my deploy throughput problem too.\n\nI broke GitHub's team plan as an individual in January.\n\nI ended up building an entire custom CI system on Kubernetes from scratch.\n\nI am now growing past that to continuous deploy based on graph changes.",
+-  unsettled:
+-    "What exactly broke in the team plan, and what the limit was, is unwritten.\n\nWhat continuous deploy on graph changes still needs before it is running is not listed.",
+ } as const satisfies AllAboutAlanTopic
