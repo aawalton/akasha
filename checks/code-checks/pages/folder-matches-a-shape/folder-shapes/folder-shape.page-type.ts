@@ -43,7 +43,7 @@ export const folderShape = {
   pluralSlug: "folder-shapes",
   partSlugs: [
     "boolean-property/folder-shape-enabled",
-    "folder-shape/chapters-of-the-book-above",
+    "folder-shape/sections-of-the-book-above",
     "folder-shape/folders-only",
     "folder-shape/modules-only",
     "folder-shape/one-page-with-its-properties",
@@ -67,7 +67,7 @@ export const folderShape = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A folder may match more than one shape.",
+      statement: "One folder matches two shapes at once.",
     },
     {
       invariantKind: "departure",
@@ -133,7 +133,7 @@ export const folderShape = {
     {
       invariantKind: "departure",
       statement:
-        "A page type declares the members of every one-of property in that page type's `properties` folder.",
+        "A page type declares the members every `one-of-property` in that page type's `properties` folder names.",
     },
     {
       invariantKind: "departure",
