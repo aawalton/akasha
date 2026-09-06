@@ -1,3 +1,42 @@
+diff --git a/alan/fitness/commands/track-workout-finish/track-workout-finish.command.code.ts b/alan/fitness/commands/track-workout-finish/track-workout-finish.command.code.ts
+index fb33970fb57851b6aba1dbdd387a00117f68bb70..714bd1cb16c49739881ff2f0e632cfb33905e7cd 100644
+--- a/alan/fitness/commands/track-workout-finish/track-workout-finish.command.code.ts
++++ b/alan/fitness/commands/track-workout-finish/track-workout-finish.command.code.ts
+@@ -2,8 +2,7 @@ import { landingAsked, wroteAndTook } from "@akasha/command-system/asking"
+ import type { Answer, Given } from "@akasha/command-system/calling"
+ import type { FileEdit } from "@akasha/command-system/landing"
+ import { openSession } from "@akasha/exercise-access/exercise-finding"
+-import { textIn } from "@akasha/exercise-access/exercise-rows"
+-import { sessionVolume, statedBodyweight } from "@akasha/exercise-access/session-volume"
++import { numberIn, textIn } from "@akasha/exercise-access/exercise-rows"
+ import { listedAt } from "@akasha/indexes"
+ import { type Value, valueAt } from "@akasha/pages/page-value"
+ import { composedFor } from "@akasha/pages-service/composing"
+@@ -92,19 +91,18 @@ export async function trackWorkoutFinish(argv: readonly string[], given: Given):
+   if (landed.code !== 0) return landed
+ 
+   const durationMin = durationOf(textIn(session, "workoutSessionStartedAt"), completedAt)
+-  const weighed = await statedBodyweight()
+-  if ("refused" in weighed) return refusedBy([weighed.refused], DATA)
+-  const counted = await sessionVolume(session.slug, weighed.bodyweight)
+-  if ("refused" in counted) return refusedBy([counted.refused], DATA)
++  // THE SESSION IS ASKED WHAT THAT SESSION MOVED. The formula sits on the set's own page, so
++  // counting the reps again here is a second answer that can differ from the day's.
++  const totalVolume = numberIn(session, "sessionVolume") ?? 0
+ 
+   if (wantsJson(said)) {
+-    return asJson({ id: session.id, completedAt, durationMin, totalVolume: counted.volume })
++    return asJson({ id: session.id, completedAt, durationMin, totalVolume })
+   }
+   return told([
+     ...rowsOf([
+       ["id", session.id],
+       ["duration", durationMin === null ? "-" : `${durationMin}m`],
+-      ["totalVolume", String(counted.volume)],
++      ["totalVolume", String(totalVolume)],
+     ]),
+     ...landed.report,
+   ])
 diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
 index f0fa55ced9031bfdc5c83cabe230428f8954e0ae..916d3b5dfbcb1754b8f07fecab7992d5872eb0dc 100644
 --- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
