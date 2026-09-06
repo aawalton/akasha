@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/read/read.command.test-fixtures.ts b/command-system/commands/read/read.command.test-fixtures.ts
-index c82e39778bc2661656f9d63514d96840ffdc8840..1926fa20ba108055b31c533e87174bdb19fdd87f 100644
+index c82e39778bc2661656f9d63514d96840ffdc8840..9805f9d3c47321e05f057fe65009881fa32aa8c4 100644
 --- a/command-system/commands/read/read.command.test-fixtures.ts
 +++ b/command-system/commands/read/read.command.test-fixtures.ts
 @@ -294,7 +294,7 @@ const TYPES: readonly {
@@ -20,3 +20,14 @@ index c82e39778bc2661656f9d63514d96840ffdc8840..1926fa20ba108055b31c533e87174bdb
  }
  
  export type Ceilinged = {
+@@ -344,9 +344,7 @@ export function priced(): Priced {
+   ]
+   const call = restCall(CALLED_AS, left)
+   const held =
+-    costOf(linesFor(THING_TYPE, bodyOf(THING_BODY))) +
+-    costOf(linesFor(PAGE_TYPE, bodyOf(PAGE_BODY))) +
+-    costOf(linesFor(two, bodyOf(body)))
++    costOf(linesFor(THING_TYPE, bodyOf(THING_BODY))) + costOf(linesFor(two, bodyOf(body)))
+   const want = ANSWER_CEILING - Math.floor(costOf(call) / 2) - held
+   const bare = costOf(linesFor(one, bodyOf("x\n")))
+   const root = rootWarranting([
