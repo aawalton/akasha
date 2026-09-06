@@ -24,7 +24,7 @@ export const mobileSimEval = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A script runs in the session already there rather than in one opened here.",
+      statement: "A script runs in the session already there rather than in a session opened here.",
     },
     {
       invariantKind: "departure",
