@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts b/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
+index 6fa08466942bff0f68bbc842914c474369f0320c..8bd624c7584b7cb7cf4045f2d8e7b71a4a920135 100644
+--- a/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
++++ b/service-system/cluster-services/pages/page-store/page-store.cluster-service.ts
+@@ -54,7 +54,7 @@ export const pageStore = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A pod that is reached is one the whole path represents rather than one that has bound a socket.",
++        "A pod that is reached is a pod the whole path represents rather than a pod that has bound a socket.",
+     },
+   ],
+ } as const satisfies ClusterService
