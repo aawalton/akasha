@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/person-system/push-register-body/push-register-body.module.ts b/person-system/push-register-body/push-register-body.module.ts
+index b291e86f598945935f2b96302acf423d6488bf91..0dd368c9b087b46649c972f9c2e174a0a4fce85c 100644
+--- a/person-system/push-register-body/push-register-body.module.ts
++++ b/person-system/push-register-body/push-register-body.module.ts
+@@ -18,7 +18,7 @@ export const pushRegisterBody = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body carrying more than the token and the platform is refused.",
++      statement: "A body carrying anything beyond the token and the platform is refused.",
+     },
+   ],
+ } as const satisfies Module
