@@ -1,5 +1,5 @@
 diff --git a/infrastructure/infrastructure-commands/talos-apply/talos-apply.command.ts b/infrastructure/infrastructure-commands/talos-apply/talos-apply.command.ts
-index c35be78a63bb3d1600b50c42cd1147c19f81161f..38631dc3ca5b3e4d3219512bbff7f67ebc31d5f1 100644
+index c35be78a63bb3d1600b50c42cd1147c19f81161f..3de5ce9ad78e7d2f8abd87d1a678e0f4b0b8ff8e 100644
 --- a/infrastructure/infrastructure-commands/talos-apply/talos-apply.command.ts
 +++ b/infrastructure/infrastructure-commands/talos-apply/talos-apply.command.ts
 @@ -27,7 +27,11 @@ export const talosApply = {
@@ -12,6 +12,15 @@ index c35be78a63bb3d1600b50c42cd1147c19f81161f..38631dc3ca5b3e4d3219512bbff7f67e
 +    {
 +      invariantKind: "departure",
 +      statement: "A node named as a word and after `--node` is refused.",
+     },
+     {
+       invariantKind: "departure",
+@@ -44,7 +48,7 @@ export const talosApply = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The control-plane endpoint is the cluster's VIP where the cluster states one.",
++      statement: "The control-plane endpoint is the cluster's VIP where the cluster states a VIP.",
      },
      {
        invariantKind: "departure",
