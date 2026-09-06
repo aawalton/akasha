@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-my-breath-counting-runs-on.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-my-breath-counting-runs-on.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f47adaaef36eaa6b72b2b25a56e10cd6dbb6e82b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-my-breath-counting-runs-on.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMyBreathCountingRunsOn = {
++  id: "01a077ea-34fb-72fb-a2e7-22a17f86674e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-my-breath-counting-runs-on",
++  topicSlug: "how-i-actually-breathe",
++  ask: "What does my counting run on, with nothing to see and nothing to hear?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/when-my-breathing-went-continuous.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/when-my-breathing-went-continuous.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3ea8f065fb22ef0dbcc5f614c45e0670f70fd569
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/when-my-breathing-went-continuous.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whenMyBreathingWentContinuous = {
++  id: "01a077ea-34fb-7465-a621-e4da970208cd",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "when-my-breathing-went-continuous",
++  topicSlug: "how-i-actually-breathe",
++  ask: "My breathing started with a phone call from Germany and is now most of my waking day, twenty years on. When did the cadence settle, and when did it go continuous?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-another-breathing-ratio-pays-back-better.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-another-breathing-ratio-pays-back-better.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a682464e1963b0b57a5d84be4615bb28e8d6b742
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-another-breathing-ratio-pays-back-better.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAnotherBreathingRatioPaysBackBetter = {
++  id: "01a077ea-34f9-76e0-a6a1-5dcbcad6950a",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-another-breathing-ratio-pays-back-better",
++  topicSlug: "how-i-actually-breathe",
++  ask: "Four-twelve is the only breathing ratio I have run. Would another ratio pay back better?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-breathing-beat-holds-while-programming.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-breathing-beat-holds-while-programming.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cfdcb2df1dfcb6cef96b394336a00b52d9d00632
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-breathing-beat-holds-while-programming.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyBreathingBeatHoldsWhileProgramming = {
++  id: "01a077ea-34fa-752b-8daa-576f823ec937",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-breathing-beat-holds-while-programming",
++  topicSlug: "how-i-actually-breathe",
++  ask: "Does my one-second beat hold through programming as well as it holds through walking?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-actually-breathe.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-actually-breathe.all-about-alan-topic.ts
+index 31d07feea029a6664bd6d43b0244eb9f7347e2a2..88b8f6a50e8c8d4175a634d543ec9b66ce66344e 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-actually-breathe.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-actually-breathe.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const howIActuallyBreathe = {
+   parentSlugs: ["what-calms-me-down"],
+   settled:
+     "Four counts in and twelve out, most of my waking day.\n\nThe counting is what makes it meditative rather than only slow.",
+-  unsettled:
+-    "Four-twelve is the only ratio I have run. Whether another one would pay back better is untested.\n\nWhether the one-second beat holds through programming as well as it holds through walking is unchecked.\n\nAnd what the counting runs on, with nothing to see and nothing to hear, is unknown.\n\nIt started with a phone call from Germany and is now most of my waking day, twenty years on. When the cadence settled and when it went continuous is unrecorded.",
+ } as const satisfies AllAboutAlanTopic
