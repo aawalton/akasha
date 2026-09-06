@@ -1,8 +1,17 @@
 readersOweReading: false
 diff --git a/command-system/piping/piping.module.ts b/command-system/piping/piping.module.ts
-index 9adfb5242bf56efeb0c8750de8ec7fd1c5084e45..f30761ea7e21d0ff3c62f667803e89209cb60847 100644
+index 9adfb5242bf56efeb0c8750de8ec7fd1c5084e45..b74783a7b227ddfd702db9f1f560a2b714d27358 100644
 --- a/command-system/piping/piping.module.ts
 +++ b/command-system/piping/piping.module.ts
+@@ -63,7 +63,7 @@ export const piping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run of its own is the letters, digits and dashes after the opening run.",
++      statement: "A run of its own is the letters and digits and dashes after the opening run.",
+     },
+     {
+       invariantKind: "departure",
 @@ -93,7 +93,7 @@ export const piping = {
      },
      {
