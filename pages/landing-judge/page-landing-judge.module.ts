@@ -9,11 +9,15 @@ export const pageLandingJudge = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A landing act is one of eight named acts and no other.",
+      statement: "The landing acts are the eight acts named here.",
     },
     {
       invariantKind: "departure",
-      statement: "Three of the eight acts land on a row rather than on the page.",
+      statement: "An act named nowhere here is no landing act.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Three named acts land on a row rather than on the page.",
     },
     {
       invariantKind: "absence",
