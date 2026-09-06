@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/restore/restore.command.ts b/command-system/commands/restore/restore.command.ts
-index 8af637815b76ede068336552f5450392f23ed9b2..3a9c0f98cc2aa66ecebf738ae956425987bef88c 100644
+index 8af637815b76ede068336552f5450392f23ed9b2..c9d0d1bb32269a2fe7d458d08b5c88ce46522fe2 100644
 --- a/command-system/commands/restore/restore.command.ts
 +++ b/command-system/commands/restore/restore.command.ts
 @@ -28,7 +28,8 @@ export const restore = {
@@ -26,6 +26,15 @@ index 8af637815b76ede068336552f5450392f23ed9b2..3a9c0f98cc2aa66ecebf738ae9564259
 +    {
 +      invariantKind: "absence",
 +      statement: "No flag meaning a folder or a whole tree is taken.",
+     },
+     {
+       invariantKind: "departure",
+@@ -60,7 +69,7 @@ export const restore = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The body written is the body HEAD holds, byte for byte.",
++      statement: "The body written is the body HEAD holds byte for byte.",
      },
      {
        invariantKind: "departure",
