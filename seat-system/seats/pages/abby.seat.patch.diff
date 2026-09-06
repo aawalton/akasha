@@ -1,0 +1,11 @@
+diff --git a/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts
+index 0b79191063d323558642bcc04ab46abc95bb4431..956a44dcd8e1fe1182cd94c0f61d65eb83911575 100644
+--- a/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts
+@@ -9,5 +9,5 @@ export const theHarnessAroundMySafety = {
+   parentSlugs: ["how-safety-climbs"],
+   relatedSlugs: ["how-i-get-anything-done"],
+   settled:
+-    "I am building my harness out around safety as well, and the harness takes a different set of interventions from the ones executive function took.\n\nFour are visible to me so far. Changes flowing smoothly through akasha, read off whether my list of work is getting longer or shorter. My marriage being good, and more so getting better. The flow through my life going well, read off more green and blue stoplights. Banking surplus over time.\n\nAll four could be measured, and not all four are measured yet.\n\nMy own effort goes into the flow and the stoplights.",
++    "I am building my harness out around safety as well, and the harness takes a different set of interventions from the ones executive function took.\n\nFour are visible to me so far. Changes flowing smoothly through akasha, read off whether my list of work is getting longer or shorter. My marriage being good, and more so getting better. The flow through my life going well, read off more green and blue stoplights. Banking surplus over time.\n\nAll four could be measured, and not all four are measured yet. Akasha flow has no working measurement either, only an observed sense of its proxies.\n\nMy own effort goes into the flow and the stoplights, because those two carry the less brutal tradeoffs. The marriage and the surplus each contradict the other, so ground is hard to gain on either one.",
+ } as const satisfies AllAboutAlanTopic
