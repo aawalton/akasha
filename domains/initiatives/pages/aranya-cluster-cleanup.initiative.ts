@@ -22,7 +22,7 @@ export const aranyaClusterCleanup = {
     {
       statement: "All cluster-specific files are in the cluster/ folder.",
       workingMemory:
-        "`infrastructure/cluster/` holds `api`, `provisioning`, `k8s-types` and `k8s-synth`. Three folders are left, each blocked by a file no page claims, which a move refuses: `cluster-operations` by `nodes.json`, `cluster-manifests` by `tunnel-routes.ts` and `pipeline-secrets.sops.yaml`, and `service-system/cluster-services` by `registry.conf` and two grafana json files over the 15,000 byte ceiling. Every k8s Secret manifest that blocked these is gone. `checks/cluster-checks` stays. Alan settles whether the manifest pages move.",
+        "`infrastructure/cluster/` holds `api`, `provisioning`, `k8s-types` and `k8s-synth`. Three folders are left, each blocked by a file no page claims, which a move refuses: `cluster-operations` by `nodes.json`, `cluster-manifests` by `tunnel-routes.ts`, and `service-system/cluster-services` by `registry.conf` and two grafana json files over the 15,000 byte ceiling. Every sops file that blocked these is gone. `checks/cluster-checks` stays. Alan settles whether the manifest pages move.",
     },
     {
       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
@@ -37,7 +37,7 @@ export const aranyaClusterCleanup = {
     {
       statement: "One secret value is one page however many resources place it.",
       workingMemory:
-        "A shared value is what couples two resources, so it settles which resources one agent migrates together. `git-transport-secrets-git-access-token` reaches seven resources, the supabase service role key and url four each. What the pages hold also settles what `pipeline-secrets.sops.yaml` is: six of its seven values are copies, which is why the finding on it now names the one value that is not.",
+        "A shared value is what couples two resources, so it settles which resources one agent migrates together. `git-transport-secrets-git-access-token` reaches seven resources, the supabase service role key and url four each. The same reading emptied `pipeline-secrets.sops.yaml`, which nothing read: six of its seven values were copies and the seventh is a page of its own now, so the file is gone.",
     },
     {
       statement: "Every working subagent has a page, and every stopped one has none.",
