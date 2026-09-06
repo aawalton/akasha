@@ -25,12 +25,19 @@ export const monarchRules = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every text clause holds where any of its values holds, and a clause naming nothing holds.",
+      statement: "A text clause holds where a value the clause names holds.",
     },
     {
       invariantKind: "departure",
-      statement: "A description clause is a list of groups, and every group must hold.",
+      statement: "A clause naming nothing holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A description clause is a list of groups.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every group of a description clause must hold.",
     },
     {
       invariantKind: "departure",
@@ -66,7 +73,7 @@ export const monarchRules = {
     },
     {
       invariantKind: "departure",
-      statement: "The bucketed neighbourhood is the plain one.",
+      statement: "The bucketed neighbourhood is the plain neighbourhood.",
     },
     {
       invariantKind: "absence",
