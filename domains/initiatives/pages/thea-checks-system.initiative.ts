@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Four steps: 1 the category prevented, 2 the right files judged at patch, 3 cheap at patch, 4 turned on. A check no changed path satisfies never runs; the entries beside its page are the only instrument for that. Seed a fault before believing a zero. 43 checks, alphabetical, done through file-length. Now: folder-matches-a-shape, no phase on, no turn-on step. 1076 refusals, mostly pages never written. Step 2 says no: judging only a change's ancestors, a page rename breaks folders beside it unseen.",
+        "Four steps: 1 the category prevented, 2 the right files at patch, 3 cheap at patch, 4 turned on. A check no changed path satisfies never runs; the entries beside its page are the instrument. Seed a fault before believing a zero. 43 checks, alphabetical, done through file-length. Now: folder-matches-a-shape, no phase on, 3 steps. Steps 1 and 3 done: the grouping and the manifests moved to one folder at a time, 1163ms to 20ms, audit flat. Step 2 says no: a rename breaks the folders beside a page.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
