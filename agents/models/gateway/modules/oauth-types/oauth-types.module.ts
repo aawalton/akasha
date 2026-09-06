@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const oauthTypes = {
   id: "01a0628c-26f7-76fc-b581-b548953cd882",

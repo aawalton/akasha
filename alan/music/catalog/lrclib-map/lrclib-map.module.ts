@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const lrclibMap = {
   id: "01a06262-ff4c-7005-b1fe-0f60b8c2ffbe",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const capacitorCors = {
   id: "01a063c9-03ff-733a-9c12-48399577ca75",

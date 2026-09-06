@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const modelUnavailableRebind = {
   id: "01a0643b-c946-7c01-9657-1bea04a89d30",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const alanAppId = {
   id: "01a0655d-daa1-7d0a-b507-fcae2bc1d900",

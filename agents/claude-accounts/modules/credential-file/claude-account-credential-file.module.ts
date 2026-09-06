@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const claudeAccountCredentialFile = {
   id: "01a0686d-236a-7000-8b8f-acbdc729fc69",

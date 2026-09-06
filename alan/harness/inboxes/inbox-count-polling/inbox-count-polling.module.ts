@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inboxCountPolling = {
   id: "01a069b6-bb6b-7e55-a1b8-4f2824914c87",

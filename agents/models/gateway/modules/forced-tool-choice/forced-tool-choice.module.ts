@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const forcedToolChoice = {
   id: "01a0643b-c942-7c90-8314-374492f9e097",

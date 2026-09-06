@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const exerciseLoadModel = {
   id: "01a06865-c36f-7e11-9c5b-094fd5903a10",

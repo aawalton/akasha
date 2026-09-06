@@ -1,4 +1,4 @@
-import type { Stylesheet } from "@akasha/code-system/stylesheet"
+import type { Stylesheet } from "@akasha/code/stylesheet"
 
 export const alanAtlasWebLook = {
   id: "01a06582-6b30-70ff-9e26-fbb6ba84b810",

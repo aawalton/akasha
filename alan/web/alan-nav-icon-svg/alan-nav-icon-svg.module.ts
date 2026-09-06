@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const alanNavIconSvg = {
   id: "01a0655d-daab-7e98-a969-b644671bba62",

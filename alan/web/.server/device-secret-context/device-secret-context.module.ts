@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const deviceSecretContext = {
   id: "01a0655e-d39a-7632-bb48-cb68d5895b87",

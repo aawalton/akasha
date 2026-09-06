@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Cases } from "./properties/cases.page-property-entry.ts"
 import type { ModelFamilySlug } from "./properties/model-family-slug.relation-property.ts"

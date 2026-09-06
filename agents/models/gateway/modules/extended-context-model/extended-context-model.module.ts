@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const extendedContextModel = {
   id: "01a0643b-c940-7c40-9250-4804121e2d3c",

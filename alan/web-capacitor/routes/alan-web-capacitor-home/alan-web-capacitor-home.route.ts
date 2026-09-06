@@ -1,4 +1,4 @@
-import type { Route } from "@akasha/code-system/route"
+import type { Route } from "@akasha/code/route"
 
 export const alanWebCapacitorHome = {
   id: "01a0767c-c1dc-7ce9-a6a0-1069be32dff7",

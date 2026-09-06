@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const surplusFallReadout = {
   id: "01a0697e-ded3-77d5-9cd4-07afe269931b",

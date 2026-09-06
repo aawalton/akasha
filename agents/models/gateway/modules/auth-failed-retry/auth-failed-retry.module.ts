@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const authFailedRetry = {
   id: "01a0629f-9062-7001-bdc1-9f1651af79cd",

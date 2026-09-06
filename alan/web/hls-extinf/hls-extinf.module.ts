@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const hlsExtinf = {
   id: "01a0655d-daa7-777a-9154-ebb3a0e0976a",

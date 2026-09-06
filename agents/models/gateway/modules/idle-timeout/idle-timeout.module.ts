@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const idleTimeout = {
   id: "01a0623c-6939-733d-a2e2-720ebbb1d28d",

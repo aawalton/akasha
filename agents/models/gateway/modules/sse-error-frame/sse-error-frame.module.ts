@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const sseErrorFrame = {
   id: "01a0622f-454f-7290-81e4-0dee69164263",

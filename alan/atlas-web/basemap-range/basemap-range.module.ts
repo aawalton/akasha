@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const basemapRange = {
   id: "01a06582-6b30-7a98-82e2-fb152784bc2e",

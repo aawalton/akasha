@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const freeExerciseMapping = {
   id: "01a06865-c36f-750c-be64-815879eb4ac0",

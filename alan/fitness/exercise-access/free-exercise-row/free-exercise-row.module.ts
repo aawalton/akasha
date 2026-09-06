@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const freeExerciseRow = {
   id: "01a06865-c36f-77f1-a9f3-9f2284e0f4d3",

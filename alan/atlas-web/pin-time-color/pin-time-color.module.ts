@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pinTimeColor = {
   id: "01a06582-6b30-7302-aec3-1a95f0a84b08",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const atlasAnswerPageTypes = {
   id: "01a06582-6b30-7c88-a713-2634f0d822f6",

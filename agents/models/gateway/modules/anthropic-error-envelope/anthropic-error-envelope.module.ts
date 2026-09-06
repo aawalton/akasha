@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const anthropicErrorEnvelope = {
   id: "01a06299-3f11-7a04-9c62-5d0b8e41f7a2",

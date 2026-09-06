@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const musicCommands = {
   id: "01a062f5-7bb2-750a-ba0b-8e132d65105f",

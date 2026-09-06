@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const placeCandidate = {
   id: "01a06582-6b30-7536-b9f0-7e1c5c474600",

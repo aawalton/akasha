@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const customExerciseFeatures = {
   id: "01a06865-c36f-7122-b04f-981b3753a95b",

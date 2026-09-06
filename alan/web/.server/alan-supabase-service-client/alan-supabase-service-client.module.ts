@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const alanSupabaseServiceClient = {
   id: "01a0655e-d399-7148-be05-81534b6c7284",

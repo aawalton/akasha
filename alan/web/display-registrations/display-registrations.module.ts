@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const displayRegistrations = {
   id: "01a0655d-daa7-7ed1-a36e-5d09585a26b6",

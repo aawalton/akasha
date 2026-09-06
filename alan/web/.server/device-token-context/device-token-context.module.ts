@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const deviceTokenContext = {
   id: "01a0655e-d399-7f83-8b69-496707b129e5",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const holdRegistry = {
   id: "01a0623c-6939-7f9a-848d-be904e3cf57c",

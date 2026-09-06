@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const locationBatch = {
   id: "01a06582-6b30-7821-aec9-e664610f024b",

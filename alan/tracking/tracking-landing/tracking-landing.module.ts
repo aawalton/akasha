@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const trackingLanding = {
   id: "01a072c2-e567-7000-a1b9-3a51eea84ed2",

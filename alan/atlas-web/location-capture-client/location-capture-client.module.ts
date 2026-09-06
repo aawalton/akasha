@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const locationCaptureClient = {
   id: "01a06582-6b30-7bd3-9a85-c6ccf0abc52e",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const geoapifySearch = {
   id: "01a06582-6b30-7237-8fd0-77dc680e779c",

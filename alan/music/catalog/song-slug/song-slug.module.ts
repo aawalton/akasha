@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const songSlug = {
   id: "01a06262-ff4c-7001-86ff-443d16400dc0",

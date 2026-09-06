@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const sessionPlanning = {
   id: "01a0685e-89d5-74be-a16b-eb86bd16a316",

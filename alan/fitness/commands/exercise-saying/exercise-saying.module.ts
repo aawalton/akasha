@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const exerciseSaying = {
   id: "01a0685d-b7ab-7b6c-a4d6-28e8b556428d",

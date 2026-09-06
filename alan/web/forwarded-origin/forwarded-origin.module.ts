@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const forwardedOrigin = {
   id: "01a0655d-daa7-729b-bedd-841af19e555b",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const claudeAccountReading = {
   id: "01a0632e-9847-7000-b57a-2eb827483f2f",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pushDeviceTokens = {
   id: "01a069b6-bb6b-79f2-adbe-d2024ad66374",

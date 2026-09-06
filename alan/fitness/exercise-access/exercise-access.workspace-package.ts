@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const exerciseAccess = {
   id: "01a0658f-e6c3-7003-8171-1757be2882f8",

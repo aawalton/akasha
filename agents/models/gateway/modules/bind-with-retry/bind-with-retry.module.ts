@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const bindWithRetry = {
   id: "01a0622e-02ab-7b1e-a875-ff5fdad4afbf",

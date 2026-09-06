@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const chessMaia = {
   id: "01a05be1-cb07-76aa-8e69-e19ff07d12aa",

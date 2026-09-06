@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const serverError = {
   id: "01a0628c-26f7-7201-b637-f25306c00618",

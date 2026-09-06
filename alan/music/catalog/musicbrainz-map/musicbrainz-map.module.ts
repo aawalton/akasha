@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const musicbrainzMap = {
   id: "01a06262-ff4c-7002-9c61-e7ce9273581d",

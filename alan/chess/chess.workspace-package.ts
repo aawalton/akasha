@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const chess = {
   id: "01a05be1-cb07-74d3-b8ca-8a6e71097f9b",

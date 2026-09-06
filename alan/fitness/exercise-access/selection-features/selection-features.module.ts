@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const selectionFeatures = {
   id: "01a06865-c36f-784c-8637-bc936c6354b2",

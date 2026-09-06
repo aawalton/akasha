@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const idleCardGrouping = {
   id: "01a0655d-dabf-7776-ad15-0959c54c103b",

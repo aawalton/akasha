@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const bookOfEverythingCommands = {
   id: "01a06862-5a9b-71d6-99e3-546a60266903",

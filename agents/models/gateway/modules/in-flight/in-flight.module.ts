@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inFlight = {
   id: "01a06421-4b72-78c7-b4b7-9bbcf4a60b46",

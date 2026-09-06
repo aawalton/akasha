@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const proxyHeaders = {
   id: "01a0622f-4550-7230-9809-915f90bdb897",

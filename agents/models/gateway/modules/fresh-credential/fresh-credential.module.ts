@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const freshCredential = {
   id: "01a06457-7855-7bf0-8b9e-bbf962cb7f4f",

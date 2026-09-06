@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const homeDniParam = {
   id: "01a0655e-d399-7f57-a5ed-36dc75b69609",

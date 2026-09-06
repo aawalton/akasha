@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const requestLog = {
   id: "01a06582-6b30-7dbc-a10f-0211fbe9fd53",

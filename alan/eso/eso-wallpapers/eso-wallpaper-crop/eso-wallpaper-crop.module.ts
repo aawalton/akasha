@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const esoWallpaperCrop = {
   id: "01a06865-abff-7022-9cc7-b3b89d9d4510",

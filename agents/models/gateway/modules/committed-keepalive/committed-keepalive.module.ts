@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const committedKeepalive = {
   id: "01a0643b-c949-7ef9-a390-9c33451d3e59",
