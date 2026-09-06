@@ -28,6 +28,25 @@ index 4c93b389da87f135c57b85e4200dd59c1a2485c0..8274088e2dd1dcf18f19ccab6baca071
        `echo "$SAID" | kubectl apply --dry-run=client -n ${namespace} -f -`,
        `echo "$SAID" | kubectl apply -n ${namespace} -f -`,
      ],
+diff --git a/changes/workflow-language/secret-place/secret-place.workflow-step.ts b/changes/workflow-language/secret-place/secret-place.workflow-step.ts
+index de152596a2df703fa663a6e3a43e112c8752484b..929624cfa5353fc600c9d8f241d89c0e926b4949 100644
+--- a/changes/workflow-language/secret-place/secret-place.workflow-step.ts
++++ b/changes/workflow-language/secret-place/secret-place.workflow-step.ts
+@@ -19,6 +19,14 @@ export const secretPlace = {
+       invariantKind: "departure",
+       statement: "A resource the cluster holds under another type is named with that type here.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A resource the cluster holds with a label is named with that label here.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "An apply takes off a label the cluster holds that the yaml applied does not say.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "What a resource holds is read from the pages placing a value in it.",
 diff --git a/service-system/secrets/secret-saying/secret-saying.module.code.ts b/service-system/secrets/secret-saying/secret-saying.module.code.ts
 index 713b517b520929d10f99437d18222ce3806d3c42..057008123102c4439afe4a227bcb7a404a936ee3 100644
 --- a/service-system/secrets/secret-saying/secret-saying.module.code.ts
