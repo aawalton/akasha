@@ -1,3 +1,15 @@
+diff --git a/temper/temper-web/temper-web.router-app.ts b/temper/temper-web/temper-web.router-app.ts
+index 4a9f211c2de0d250ae85343c12d1602b77b16636..29033477419da0908d6664425953cd78807ac10e 100644
+--- a/temper/temper-web/temper-web.router-app.ts
++++ b/temper/temper-web/temper-web.router-app.ts
+@@ -269,6 +269,7 @@ export const temperWeb = {
+     "module/use-companion-stats-calculation",
+     "module/use-companion-suggestions",
+     "module/use-companion-update",
++    "module/use-completion-bodies",
+     "module/use-completion-catalogs",
+     "module/use-completion-filters",
+     "module/use-completion-progress",
 diff --git a/temper/temper-web/use-completion-bodies/use-completion-bodies.module.code.ts b/temper/temper-web/use-completion-bodies/use-completion-bodies.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..8875c4afdfd5df7102cc03e506243e2a54913e68
