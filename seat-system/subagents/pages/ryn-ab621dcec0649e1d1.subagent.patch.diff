@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts b/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
-index 627863b505962685b7bf14b8c083e79e27d6441f..3cb17e5bd25ecf588fc626659fece6d078a29944 100644
+index 627863b505962685b7bf14b8c083e79e27d6441f..aa2d65a7790163e3d04a841282e235c7d330f3fd 100644
 --- a/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
 +++ b/alan/harness/monarch/categorize-recent/monarch-categorize-recent.module.ts
 @@ -9,7 +9,7 @@ export const monarchCategorizeRecent = {
@@ -18,6 +18,16 @@ index 627863b505962685b7bf14b8c083e79e27d6441f..3cb17e5bd25ecf588fc626659fece6d0
        invariantKind: "departure",
 -      statement: "A row claimed by more than one rule is written by none of them.",
 +      statement: "A row claimed by more than one rule is written by no rule.",
+     },
+     {
+       invariantKind: "departure",
+@@ -29,8 +29,7 @@ export const monarchCategorizeRecent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Why each row was left is tallied, so a run says the rows left as well as the rows written.",
++      statement: "Why each row was left is tallied for a run to say beside the rows written.",
      },
      {
        invariantKind: "departure",
