@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Four steps: 1 the category prevented, 2 the right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero, and check the scratch world exercises the path rather than a fallback. Done through global-declared-once, on at patch. Now id-is-a-uuid-version-7, steps 1-3 all yes: it alone judges version and variant, reads only the changed .ts, 6ms a patch and 132ms over the 100 largest files. 22 remain in the tree and a finding calls their remedy contested.",
+        "Four steps: 1 the category prevented, 2 the right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero, and check the scratch world exercises the path rather than a fallback. Done through id-is-a-uuid-version-7, on at patch, its 22 counterfeit ids re-minted and three findings closed. Re-minting an id orphans every edge naming it, the index filing an incoming edge under the target's id and the naming page writing it. Next identifier-matches-its-place.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
