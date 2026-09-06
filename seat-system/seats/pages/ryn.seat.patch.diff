@@ -1,0 +1,23 @@
+diff --git a/seat-system/terminal-init/document-present/document-present.module.ts b/seat-system/terminal-init/document-present/document-present.module.ts
+index 6fb2094a07fde6fb35e28ffc22f94b10810f9e08..d060f261a25b751a13498bb5dcf02de9c2f1b32d 100644
+--- a/seat-system/terminal-init/document-present/document-present.module.ts
++++ b/seat-system/terminal-init/document-present/document-present.module.ts
+@@ -18,12 +18,15 @@ export const documentPresent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Only the last two parts of a path carry the slug, so only those parts are blanked.",
++      statement: "Only the last two parts of a path carry the slug.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every shape the pages there take is asked, so a tree half moved still answers.",
++      statement: "Only the last two parts of a path are blanked.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every shape the pages there take is asked.",
+     },
+     {
+       invariantKind: "departure",
