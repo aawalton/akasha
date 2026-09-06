@@ -13,7 +13,7 @@ export const activation = {
     },
     {
       invariantKind: "departure",
-      statement: "Every start begins at once rather than one after another.",
+      statement: "Every start begins at once rather than in turn.",
     },
     {
       invariantKind: "departure",
