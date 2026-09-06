@@ -24,7 +24,7 @@ export const plants = {
     },
     {
       invariantKind: "departure",
-      statement: "Every site showing the grams is carried the grams rather than taking one.",
+      statement: "Every site showing the grams is carried the grams rather than taking the grams.",
     },
     {
       invariantKind: "departure",
