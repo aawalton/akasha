@@ -214,3 +214,42 @@ index 0000000000000000000000000000000000000000..5ce51f28746a9597966e49501238c699
 +  expect(() => draw(-3)).toThrow("bound must be a whole number of one or more")
 +  expect(() => draw(2.5)).toThrow("bound must be a whole number of one or more")
 +})
+diff --git a/alan/library/book-of-everything/seeded-draw/seeded-draw.module.ts b/alan/library/book-of-everything/seeded-draw/seeded-draw.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7e2f9e780ef409c1b985539f20525cf51cc2f791
+--- /dev/null
++++ b/alan/library/book-of-everything/seeded-draw/seeded-draw.module.ts
+@@ -0,0 +1,33 @@
++import type { Module } from "../../../../code-system/modules/module.page-type.ts"
++
++export const seededDraw = {
++  id: "01a077e7-e766-7e74-bb8e-f95b949f5b32",
++  pageTypeSlug: "module",
++  slug: "seeded-draw",
++  definition: "a seed number turned into a source of draws giving the same run of numbers again",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "One seed gives one run of draws.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A draw is a whole number from nought up to but not including the bound asked for.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The run is arithmetic on the seed rather than the machine's own entropy.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A bound that is no positive whole number is refused rather than answered.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Two seeds that differ give runs that differ.",
++    },
++  ],
++} as const satisfies Module
