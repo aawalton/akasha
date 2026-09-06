@@ -47,3 +47,18 @@ index fdcaf7515ca2bbebd11605d44c631b80463060a6..a9a98c677d78725c986d5a5c89abe704
    const remote = remoteOf(root)
    if (remote === null) {
      return {
+diff --git a/git/git-pushing/git-pushing.module.ts b/git/git-pushing/git-pushing.module.ts
+index 73497415bcde919af4237094aa3059bfac88ae7f..692ed0db3a4b81bc22ff529c2409c6b94a94a9ff 100644
+--- a/git/git-pushing/git-pushing.module.ts
++++ b/git/git-pushing/git-pushing.module.ts
+@@ -31,5 +31,10 @@ export const gitPushing = {
+       invariantKind: "departure",
+       statement: "A push that fails tells the caller not to run the command again.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A push is given the time carrying objects takes rather than the time a query takes.",
++    },
+   ],
+ } as const satisfies Module
