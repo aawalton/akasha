@@ -1,5 +1,5 @@
 diff --git a/git/git-push-handoff/git-push-handoff.module.ts b/git/git-push-handoff/git-push-handoff.module.ts
-index fe375f205259225e1c24a08cbd3af3dd5fb35d93..4556eafd1287d66f8dec279f0ef3e5167b8e15e9 100644
+index fe375f205259225e1c24a08cbd3af3dd5fb35d93..54af20b08b2453dca73d2e026d854bb968ffd81b 100644
 --- a/git/git-push-handoff/git-push-handoff.module.ts
 +++ b/git/git-push-handoff/git-push-handoff.module.ts
 @@ -14,8 +14,11 @@ export const gitPushHandoff = {
@@ -16,3 +16,17 @@ index fe375f205259225e1c24a08cbd3af3dd5fb35d93..4556eafd1287d66f8dec279f0ef3e516
      },
      {
        invariantKind: "departure",
+@@ -28,8 +31,11 @@ export const gitPushHandoff = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The state file records the last push's outcome, so a later landing can report that outcome.",
++      statement: "The state file records the last push's outcome.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A later landing reports that outcome.",
+     },
+   ],
+ } as const satisfies Module
