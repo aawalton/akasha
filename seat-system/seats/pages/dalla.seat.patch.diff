@@ -1,0 +1,62 @@
+diff --git a/command-system/address-mapping/address-mapping.module.code.ts b/command-system/address-mapping/address-mapping.module.code.ts
+index eef400b53b5567e6e79d9bd112e3c605b3770ba4..d0ba370c6782d3789b2b9408c7ad156fb58c4264 100644
+--- a/command-system/address-mapping/address-mapping.module.code.ts
++++ b/command-system/address-mapping/address-mapping.module.code.ts
+@@ -1,12 +1,12 @@
+ import { readFileSync } from "node:fs"
+-import { dirname, relative } from "node:path"
++import { dirname, join, relative } from "node:path"
+ import { formattedBody } from "@akasha/code/code-format"
++import type { Change } from "@akasha/pages/change"
+ import { besideAt } from "@akasha/pages/page-file-name"
+ import type { Shadow } from "@akasha/pages/shadow"
+ import { shadowFor } from "@akasha/pages/shadow"
+ import type { FileEdit } from "../landing/landing.module.code.ts"
+ import { baseOf, changeOf } from "../landing/landing.module.code.ts"
+-import { textIn } from "../worked-typing/worked-typing.module.code.ts"
+ 
+ const RUNNER = "change-runner"
+ 
+@@ -55,6 +55,17 @@ function declaresRun(text: string): boolean {
+   return new RegExp(`export (async )?function ${RUN_CHANGE}\\b`).test(text)
+ }
+ 
++// The shadow answers the path on disk holding a body, and a body the change rewrites sits at no
++// such path, so reading through the shadow drops every change the landing itself touches.
++export function textOver(root: string, change: Change): (path: string) => string | null {
++  const carried = new Set(change.changed)
++  return (path) => {
++    if (!carried.has(path)) return onDisk(join(root, path))
++    const after = change.after(path)
++    return after === null ? null : new TextDecoder().decode(after)
++  }
++}
++
+ export function addressesFor(
+   shadow: Shadow,
+   at: string,
+@@ -90,10 +101,13 @@ export function bodyFor(addresses: readonly Address[]): string {
+   return `${lines.join("\n")}\n`
+ }
+ 
+-export function mappedOver(root: string, shadow: Shadow): Mapped {
++export function mappedOver(
++  root: string,
++  shadow: Shadow,
++  textAt: (path: string) => string | null
++): Mapped {
+   const edits: FileEdit[] = []
+   const said: string[] = []
+-  const textAt = textIn(root, shadow.codeAt, onDisk)
+   for (const listed of shadow.index.everyOfType(RUNNER)) {
+     const value = shadow.pageOf(listed.path)
+     if (value === null || value[ADDRESSED] !== HOLDS) continue
+@@ -115,7 +129,7 @@ export function mappedFor(root: string, changes: readonly FileEdit[]): Mapped {
+     const change = changeOf(root, { base: baseOf(root), edits: changes })
+     const cast = shadowFor(change)
+     if ("refused" in cast) return NOTHING_MAPPED
+-    return mappedOver(root, cast.shadow)
++    return mappedOver(root, cast.shadow, textOver(root, change))
+   } catch (thrown) {
+     return {
+       edits: [],
