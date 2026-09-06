@@ -13,7 +13,11 @@ export const aceStepClient = {
     },
     {
       invariantKind: "departure",
-      statement: "The seed is always told, so the service draws none of its own.",
+      statement: "The seed is always told.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The service draws no seed of its own.",
     },
     {
       invariantKind: "departure",
