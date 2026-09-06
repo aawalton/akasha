@@ -1,3 +1,15 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+index 6356c5f4bccb93dbf768972a0e0f2be7d890e15a..68bd675f8341e204e0c56b77a9be31866b70fc56 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+@@ -24,7 +24,6 @@ export const codeEditorDataInterface = {
+     "module/state-cooldown",
+     "module/state-reading",
+     "type-declaration/tree-row",
+-    "module/terminal-seat-mapping",
+     "module/tree-drawing",
+     "number-property/cooldown-milliseconds",
+     "code-editor-data-interface/agent-colors",
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
 index 87aaddcb9d96eb21bea24425e6d9d02e7e439a08..32e6b382df035e23ff300161dc47e314cb88ad34 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
@@ -112,6 +124,253 @@ index 87aaddcb9d96eb21bea24425e6d9d02e7e439a08..32e6b382df035e23ff300161dc47e314
    const pictures = picturesOf(root)
    const folders = new Set<string>()
    for (const picture of pictures.values()) for (const at of picture.folders) folders.add(at)
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.code.ts
+deleted file mode 100644
+index 2bfa208f141283dfe7e9c153f1527a31cd346c26..0000000000000000000000000000000000000000
+--- a/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.code.ts
++++ /dev/null
+@@ -1,99 +0,0 @@
+-// WHICH SEAT A TERMINAL SITS ON, KEYED BY THE PID OF THE SHELL THAT TERMINAL RUNS.
+-//
+-// The editor holds `terminal.processId` and nothing else that names a seat, so what it can look a
+-// seat up by is that pid. Before this the editor forked `ps -Ao pid=,ppid=,comm=` and
+-// `tmux list-clients` once a second and walked the process tree itself, on the thread that draws.
+-//
+-// A parent chain is read from /proc one pid at a time, so no process table is taken: a client
+-// twenty hops under its shell costs twenty small reads rather than a scan of every process there
+-// is. The fork that is left is the one `tmux` call, and it happens here rather than in the editor.
+-
+-import { execFile } from "node:child_process"
+-import { readFileSync } from "node:fs"
+-import { promisify } from "node:util"
+-
+-const execFileP = promisify(execFile)
+-
+-const MAX_TREE_HOPS = 20
+-const TMUX_TIMEOUT_MS = 5_000
+-const FIRST_PROCESS = 1
+-
+-export type TmuxClient = { readonly pid: number; readonly session: string }
+-
+-// A command name may hold spaces and brackets of its own, so the fields after it are read from the
+-// last closing bracket rather than by parting the whole line on spaces.
+-export function parentOfPid(pid: number): number | undefined {
+-  let stat: string
+-  try {
+-    stat = readFileSync(`/proc/${pid}/stat`).toString("utf8")
+-  } catch {
+-    return undefined
+-  }
+-  const close = stat.lastIndexOf(")")
+-  if (close === -1) return undefined
+-  const after = stat
+-    .slice(close + 1)
+-    .trim()
+-    .split(/\s+/)
+-  const ppid = Number(after[1])
+-  return Number.isInteger(ppid) ? ppid : undefined
+-}
+-
+-// A CALL THAT FAILED ANSWERS NOTHING, WHICH IS NOT THE SAME ANSWER AS NO CLIENT. `tmux` refuses
+-// while its server is coming back up and answers nothing at all where the call runs past its
+-// bound, and both were handed back as an empty list. Whoever read that list then held that no
+-// terminal sits on any seat, which is a fact rather than a gap, and acted on it: sixteen tabs in
+-// Alan's window lost the seat's name and the seat's color together and were given them back a
+-// second later, by the next beat, whose call went through.
+-export async function tmuxClients(): Promise<readonly TmuxClient[] | null> {
+-  let stdout: string
+-  try {
+-    ;({ stdout } = await execFileP(
+-      "tmux",
+-      ["list-clients", "-F", "#{client_pid} #{session_name}"],
+-      { timeout: TMUX_TIMEOUT_MS }
+-    ))
+-  } catch {
+-    return null
+-  }
+-  const clients: TmuxClient[] = []
+-  for (const line of stdout.split("\n")) {
+-    const trimmed = line.trim()
+-    const sep = trimmed.indexOf(" ")
+-    if (sep < 0) continue
+-    const pid = Number(trimmed.slice(0, sep))
+-    const session = trimmed.slice(sep + 1).trim()
+-    if (!Number.isFinite(pid) || session === "") continue
+-    clients.push({ pid, session })
+-  }
+-  return clients
+-}
+-
+-// Every pid whose child chain reaches a tmux client sitting on a seat. The editor reads its
+-// terminal's pid out of this rather than walking a tree, so the walking is done once for the
+-// whole window instead of once for every tab.
+-//
+-// A pid two seats both reach is dropped rather than given to either. It is an ancestor they
+-// share, the editor itself being one, and no terminal of one seat runs under it alone.
+-export function seatByShellPid(
+-  clients: readonly TmuxClient[],
+-  seatNames: ReadonlySet<string>,
+-  parentOf: (pid: number) => number | undefined = parentOfPid
+-): ReadonlyMap<number, string> {
+-  const found = new Map<number, string>()
+-  const shared = new Set<number>()
+-  for (const client of clients) {
+-    if (!seatNames.has(client.session)) continue
+-    let cur = client.pid
+-    for (let hops = 0; hops < MAX_TREE_HOPS; hops++) {
+-      const parent = parentOf(cur)
+-      if (parent === undefined || parent <= FIRST_PROCESS) break
+-      const already = found.get(parent)
+-      if (already !== undefined && already !== client.session) shared.add(parent)
+-      found.set(parent, client.session)
+-      cur = parent
+-    }
+-  }
+-  for (const pid of shared) found.delete(pid)
+-  return found
+-}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.test.ts b/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.test.ts
+deleted file mode 100644
+index a881f7b085e435ac375d23ecf541280dc33a929f..0000000000000000000000000000000000000000
+--- a/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.test.ts
++++ /dev/null
+@@ -1,76 +0,0 @@
+-import { describe, expect, it } from "bun:test"
+-import { seatByShellPid, type TmuxClient } from "./terminal-seat-mapping.module.code.ts"
+-
+-// A tree read as a plain table, so no test here opens /proc.
+-function parentIn(tree: Readonly<Record<number, number>>): (pid: number) => number | undefined {
+-  return (pid) => tree[pid]
+-}
+-
+-const SEATS = new Set(["amy", "aranya"])
+-
+-describe("a terminal running a tmux client", () => {
+-  it("is named by the session that client sits on", () => {
+-    const clients: readonly TmuxClient[] = [{ pid: 50, session: "amy" }]
+-    const found = seatByShellPid(clients, SEATS, parentIn({ 50: 40, 40: 30, 30: 1 }))
+-    expect(found.get(40)).toBe("amy")
+-    expect(found.get(30)).toBe("amy")
+-  })
+-
+-  it("names nothing above the process that started every other", () => {
+-    const clients: readonly TmuxClient[] = [{ pid: 50, session: "amy" }]
+-    const found = seatByShellPid(clients, SEATS, parentIn({ 50: 40, 40: 1 }))
+-    expect(found.has(1)).toBe(false)
+-    expect([...found.keys()]).toEqual([40])
+-  })
+-
+-  it("is walked twenty hops at most", () => {
+-    const tree: Record<number, number> = {}
+-    for (let pid = 100; pid > 60; pid--) tree[pid] = pid - 1
+-    const found = seatByShellPid([{ pid: 100, session: "amy" }], SEATS, parentIn(tree))
+-    expect(found.size).toBe(20)
+-    expect(found.has(80)).toBe(true)
+-    expect(found.has(79)).toBe(false)
+-  })
+-})
+-
+-describe("a session that is no seat", () => {
+-  it("names no pid at all", () => {
+-    const found = seatByShellPid([{ pid: 50, session: "somebody" }], SEATS, parentIn({ 50: 40 }))
+-    expect(found.size).toBe(0)
+-  })
+-})
+-
+-describe("a pid two seats both reach", () => {
+-  it("is given to neither", () => {
+-    const clients: readonly TmuxClient[] = [
+-      { pid: 50, session: "amy" },
+-      { pid: 70, session: "aranya" },
+-    ]
+-    const found = seatByShellPid(clients, SEATS, parentIn({ 50: 40, 40: 9, 70: 60, 60: 9, 9: 1 }))
+-    expect(found.get(40)).toBe("amy")
+-    expect(found.get(60)).toBe("aranya")
+-    expect(found.has(9)).toBe(false)
+-  })
+-
+-  it("is kept where both reaches are the one seat", () => {
+-    const clients: readonly TmuxClient[] = [
+-      { pid: 50, session: "amy" },
+-      { pid: 70, session: "amy" },
+-    ]
+-    const found = seatByShellPid(clients, SEATS, parentIn({ 50: 9, 70: 9, 9: 1 }))
+-    expect(found.get(9)).toBe("amy")
+-  })
+-})
+-
+-describe("no tmux client at all", () => {
+-  it("names no pid", () => {
+-    expect(seatByShellPid([], SEATS, parentIn({ 50: 40 })).size).toBe(0)
+-  })
+-})
+-
+-describe("a chain that runs out", () => {
+-  it("stops where the parent cannot be read", () => {
+-    const found = seatByShellPid([{ pid: 50, session: "amy" }], SEATS, parentIn({ 50: 40 }))
+-    expect([...found.keys()]).toEqual([40])
+-  })
+-})
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.ts
+deleted file mode 100644
+index dcb1e557d3e298783874ef128211b363042c07d2..0000000000000000000000000000000000000000
+--- a/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.ts
++++ /dev/null
+@@ -1,54 +0,0 @@
+-import type { Module } from "../../../../../code-system/modules/module.page-type.ts"
+-
+-export const terminalSeatMapping = {
+-  id: "01a0727f-7a7b-7404-85f0-913fafdd2e3b",
+-  pageTypeSlug: "module",
+-  slug: "terminal-seat-mapping",
+-  definition: "the seat each terminal sits on, keyed by the pid of the shell that terminal runs",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A shell's seat is the tmux session of the tmux client running under that shell.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A client runs under a shell where the parent chain from that client reaches that shell.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The parent chain is walked twenty hops at most.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A parent chain is read one pid at a time rather than by taking a process table.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A chain stops where the chain reaches the process that started every other process.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A session that is no seat name is no seat.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A pid two seats reach is given to neither seat.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A `tmux` call that failed answers nothing rather than answering no client.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here knows which seats exist.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads a color.",
+-    },
+-  ],
+-} as const satisfies Module
 diff --git a/editor-extension/seat-toggles/seat-toggles.module.code.ts b/editor-extension/seat-toggles/seat-toggles.module.code.ts
 index 34fea6f2bea447fb9787784868e06dadf7f18e0a..1578ba14509bd41a40e6ac12b67881ae8c45397e 100644
 --- a/editor-extension/seat-toggles/seat-toggles.module.code.ts
