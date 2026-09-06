@@ -9,7 +9,7 @@ export const typescriptInternals = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each name here is one the compiler ships without declaring.",
+      statement: "Each name here is a name the compiler ships without declaring.",
     },
     {
       invariantKind: "departure",
