@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/commands-served/commands-served.module.ts b/command-system/commands-served/commands-served.module.ts
+index bc4e0fb3fbfed177e29bd5ad73e6b2e5b49c9070..8787e5d798e16c6f2424b2e428e1e0a4b8367ca1 100644
+--- a/command-system/commands-served/commands-served.module.ts
++++ b/command-system/commands-served/commands-served.module.ts
+@@ -10,7 +10,7 @@ export const commandsServed = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Both ends read the served commands from here rather than each holding a list of its own.",
++        "Both ends read the served commands from here rather than from lists of their own.",
+     },
+     {
+       invariantKind: "departure",
