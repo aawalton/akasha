@@ -19,7 +19,11 @@ export const pagesUiStore = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A write is shown before that write lands and settled once that write does.",
+      statement: "A write is shown before the write lands.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write is settled once the write lands.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +35,7 @@ export const pagesUiStore = {
     },
     {
       invariantKind: "stopgap",
-      statement: "This package reaches the old page store rather than the one akasha holds.",
+      statement: "This package reaches the old page store rather than the store akasha holds.",
     },
     {
       invariantKind: "gap",
