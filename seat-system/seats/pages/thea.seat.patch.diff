@@ -1,3 +1,31 @@
+diff --git a/pages/types/page-properties/properties/max-count.number-property.ts b/pages/types/page-properties/properties/max-count.number-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a7447765e61ac2c29aa27d519f47cd53577e8734
+--- /dev/null
++++ b/pages/types/page-properties/properties/max-count.number-property.ts
+@@ -0,0 +1,22 @@
++import type { NumberProperty } from "@akasha/pages/number-property"
++
++export type MaxCount = number
++
++export const maxCount = {
++  id: "01a07807-639f-78de-a246-cc6e8ef667e9",
++  pageTypeSlug: "number-property",
++  slug: "max-count",
++  propertySlug: "max-count",
++  definition: "the most entries a list may hold",
++  max: null,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "Only a declaration carrying many values states a count.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "How long one entry runs is stated as a length rather than as a count.",
++    },
++  ],
++} as const satisfies NumberProperty
 diff --git a/pages/types/page-properties/properties/max-length.number-property.ts b/pages/types/page-properties/properties/max-length.number-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..0044134f200d91f705c5dc9ba71d95540182f3cf
