@@ -6,9 +6,18 @@ export const changeRestated = {
   slug: "change-restated",
   definition: "a change saying what a page already said in other words",
   runsChecks: true,
-  writerOwesReading: false,
+  writerOwesReading: true,
   readersOweReading: false,
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A restated change owes the reading an authored change owes.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Every reading of a page a restatement changes answers for the page the restatement leaves.",
+    },
     {
       invariantKind: "departure",
       statement: "A restated change is composed by an agent rather than by a program.",

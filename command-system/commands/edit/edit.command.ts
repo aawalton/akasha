@@ -22,7 +22,7 @@ export const edit = {
   ],
   helpNotes: [
     "a mechanical change is made by the command for it rather than by passages stated here.",
-    "`--restated` runs every check and owes no reading, so say it only where the meaning is unchanged.",
+    "`--restated` owes the reading a write owes and stales no reader, so say it only where the meaning is unchanged.",
     "`move` carries and repoints, `refactor` renames and retypes, `replace` substitutes across files, `remove` takes away.",
     "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",
     "a passage stated must be in the file exactly once, or the call is refused.",
@@ -42,8 +42,7 @@ export const edit = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A substitution matching no times or more than once is refused before any check runs.",
+      statement: "A passage the file does not hold exactly once is refused before any check runs.",
     },
     {
       invariantKind: "departure",

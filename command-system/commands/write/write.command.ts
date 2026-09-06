@@ -20,7 +20,7 @@ export const write = {
   ],
   helpNotes: [
     "--file-path and --content-file repeat in pairs, so several files land in one commit.",
-    "`--restated` runs every check and owes no reading, so say it only where the meaning is unchanged.",
+    "`--restated` owes the reading a write owes and stales no reader, so say it only where the meaning is unchanged.",
     "a body is a file or standard input, never text said on the command line.",
     "a --file-path naming no --content-file reads that body from standard input.",
     "pipe the body in with a quoted heredoc: --message <text> <<'EOF', the body, then EOF.",
@@ -68,7 +68,7 @@ export const write = {
     },
     {
       invariantKind: "departure",
-      statement: "A change kind running no warrant warrants nothing.",
+      statement: "A change kind whose writer owes no reading warrants nothing.",
     },
     {
       invariantKind: "departure",
