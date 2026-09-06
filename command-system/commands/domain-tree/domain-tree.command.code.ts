@@ -5,8 +5,8 @@ import { AUTHOR } from "@akasha/command-system/committing"
 import { whyOf } from "@akasha/command-system/fault-saying"
 import { writerIn } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
+import { type DomainRow as Drawn, domainsDrawn } from "@akasha/domains/domain-rows"
 import { championTree, type DomainRow } from "@akasha/editor-extension/champions-tree"
-import { type DomainRow as Drawn, domainsDrawn } from "@akasha/editor-extension/panel-domains"
 
 // A domain as the panel reads it, said as the tree wants it. The two spell the path differently and
 // agree on the rest.

@@ -1,12 +1,12 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
 import {
   relationFiled,
   valueAlsoFiled,
-} from "../../pages/indexes/reading/index-reading.module.test-fixtures.ts"
-import { domainsDrawn, kindsUnderDomain } from "./panel-domains.module.code.ts"
+} from "../../../pages/indexes/reading/index-reading.module.test-fixtures.ts"
+import { domainsDrawn, kindsUnderDomain } from "./domain-rows.module.code.ts"
 
 const ONE = "01a04e9f-1111-7000-8000-00000000000a"
 
