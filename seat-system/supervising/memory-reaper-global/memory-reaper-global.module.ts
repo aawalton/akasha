@@ -14,7 +14,7 @@ export const memoryReaperGlobal = {
     },
     {
       invariantKind: "departure",
-      statement: "A host with no swap at all counts as one whose swap is drained.",
+      statement: "A host with no swap at all counts as a host whose swap is drained.",
     },
     {
       invariantKind: "departure",
