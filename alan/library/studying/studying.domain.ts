@@ -17,7 +17,8 @@ export const studying = {
     },
     {
       invariantKind: "departure",
-      statement: "A course sits under every shelf that course belongs to rather than under one.",
+      statement:
+        "A course sits under every shelf that course belongs to rather than under a single shelf.",
     },
   ],
 } as const satisfies Domain
