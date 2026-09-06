@@ -1520,10 +1520,10 @@ index efec6c64eeaae1b089da0c1f83090d9257dd6647..8b893fa5d6e74bf58cfdcaf97aba0d20
      {
        invariantKind: "departure",
 diff --git a/alan/harness/monarch/monarch-months/properties/transaction-note.text-property.ts b/alan/harness/monarch/monarch-months/properties/transaction-note.text-property.ts
-index 4b697f0a8e567b223972479b0c8f3a78371d22f6..3dec3db1998c5849c76338f590cc78f763eee9f8 100644
+index 4b697f0a8e567b223972479b0c8f3a78371d22f6..36db1ad3032ccc684d852f8854ec05d46c5d03f0 100644
 --- a/alan/harness/monarch/monarch-months/properties/transaction-note.text-property.ts
 +++ b/alan/harness/monarch/monarch-months/properties/transaction-note.text-property.ts
-@@ -8,7 +8,7 @@ export const transactionNote = {
+@@ -8,18 +8,20 @@ export const transactionNote = {
    slug: "transaction-note",
    propertySlug: "transaction-note",
    definition: "what somebody wrote on a transaction",
@@ -1532,6 +1532,23 @@ index 4b697f0a8e567b223972479b0c8f3a78371d22f6..3dec3db1998c5849c76338f590cc78f7
    nameFormatSlug: null,
    invariants: [
      {
+       invariantKind: "departure",
+-      statement:
+-        "A note is written only where Monarch, read at that moment, reports the note empty.",
++      statement: "A note is written only where Monarch reports the note empty at that moment.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Monarch keeps no earlier version, so a note replaced and a note nobody wrote read the same.",
++      statement: "Monarch keeps no earlier version.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A note replaced and a note nobody wrote read the same.",
+     },
+   ],
+ } as const satisfies TextProperty
 diff --git a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
 index 31bb4ddcbd58f344416366d135e7679c52657ad0..44457f5d1bc671d9e01345753373863df3bd502f 100644
 --- a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
@@ -4819,10 +4836,10 @@ index 2d086bc2038418a548782aaafe3dbb247a4c8772..87a64553538a4f2fb27b280d932115d8
    invariants: [
      {
 diff --git a/pages/types/properties/child-relation.text-property.ts b/pages/types/properties/child-relation.text-property.ts
-index ced44c7095835a765f0b271de1381d1031534a87..c367cb13cc6f0d5eb44bcc562b324dd0cfb762f3 100644
+index 8200faa6ae066b284175a9e5e5b43f873888bb3c..8c37c1e53d0c7662120e39f4d6efda61d64292ae 100644
 --- a/pages/types/properties/child-relation.text-property.ts
 +++ b/pages/types/properties/child-relation.text-property.ts
-@@ -8,12 +8,13 @@ export const childRelation = {
+@@ -8,12 +8,17 @@ export const childRelation = {
    slug: "child-relation",
    propertySlug: "child-relation",
    definition: "the key by which a gathered page names the page gathering it",
@@ -4832,9 +4849,12 @@ index ced44c7095835a765f0b271de1381d1031534a87..c367cb13cc6f0d5eb44bcc562b324dd0
    invariants: [
      {
        invariantKind: "departure",
--      statement: "A key named here that the gathered page type carries none of gathers nothing.",
++<<<<<<< what this change would leave
 +      statement:
 +        "A key named here gathers nothing where the gathered page type carries no such key.",
++=======
+       statement: "A key named here that the gathered page type does not carry gathers nothing.",
++>>>>>>> what HEAD holds
      },
    ],
  } as const satisfies TextProperty
