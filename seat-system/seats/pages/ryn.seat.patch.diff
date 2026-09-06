@@ -1,8 +1,17 @@
 readersOweReading: false
 diff --git a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
-index 2366ad1a4ca599711b9290dcfd6fb11f7e12c7e4..f83ee8f18ae0665bc88096c564cf0bb707b9807e 100644
+index 2366ad1a4ca599711b9290dcfd6fb11f7e12c7e4..5be2afacd6a796d2fd657b6c48a17b5271066b47 100644
 --- a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
 +++ b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+@@ -9,7 +9,7 @@ export const dueReminderSending = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A reminder that has come due becomes a message file, and nothing else.",
++      statement: "A reminder that has come due becomes a message file and nothing else.",
+     },
+     {
+       invariantKind: "departure",
 @@ -55,7 +55,7 @@ export const dueReminderSending = {
      },
      {
