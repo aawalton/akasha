@@ -92,7 +92,7 @@ index c077c84259985b9aefdf39af0955b39939b8f502..d5ec680f9222f108ff5e6e4f3f327a24
        const off = offFormat(each, format, formatting, slug)
        if (off !== null) said.push(off)
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
-index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..8a79a4be9a01830e6d0ec50f9be79d7cf81839e9 100644
+index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..74cb5f5ea4a68973749ec55a4cf7565819795e3a 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
 @@ -135,7 +135,7 @@ const PROPERTIES: Record<string, Value> = {
@@ -180,3 +180,14 @@ index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..8a79a4be9a01830e6d0ec50f9be79d7c
      max: null,
    },
    properties: {
+@@ -230,8 +230,8 @@ const PROPERTIES: Record<string, Value> = {
+       { pagePropertySlug: "page-property-slug", required: true, many: false },
+       { pagePropertySlug: "required", required: false, many: false },
+       { pagePropertySlug: "many", required: false, many: false },
+-      { pagePropertySlug: "max", required: false, many: false },
+-      { pagePropertySlug: "total", required: false, many: false },
++      { pagePropertySlug: "max-count", required: false, many: false },
++      { pagePropertySlug: "max-length", required: false, many: false },
+     ],
+   },
+   "page-type-slug": {
