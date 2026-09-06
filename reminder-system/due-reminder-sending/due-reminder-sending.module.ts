@@ -9,7 +9,7 @@ export const dueReminderSending = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reminder that has come due becomes a message file, and nothing else.",
+      statement: "A reminder that has come due becomes a message file and nothing else.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,7 @@ export const dueReminderSending = {
     {
       invariantKind: "departure",
       statement:
-        "A run finding many windows passed since the last sending sends once rather than once per window.",
+        "A run finding many windows passed after the last sending sends once rather than once per window.",
     },
     {
       invariantKind: "departure",
@@ -45,8 +45,7 @@ export const dueReminderSending = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A reminder whose message is refused stays due, so the next run tries that reminder again.",
+      statement: "A reminder whose message is refused stays due.",
     },
     {
       invariantKind: "departure",
@@ -55,7 +54,7 @@ export const dueReminderSending = {
     },
     {
       invariantKind: "departure",
-      statement: "Every run says how many sent, how many were armed and how many were taken away.",
+      statement: "Every run says the number of reminders sent and armed and taken away.",
     },
     {
       invariantKind: "departure",
