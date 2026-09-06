@@ -1,0 +1,18 @@
+diff --git a/alan/tracking/food-entries/properties/plant-grams.number-property.ts b/alan/tracking/food-entries/properties/plant-grams.number-property.ts
+index c6fb5205626c24704dc046830837327c66c890f9..2f5413162b0250622692de9d9f619775a0af450b 100644
+--- a/alan/tracking/food-entries/properties/plant-grams.number-property.ts
++++ b/alan/tracking/food-entries/properties/plant-grams.number-property.ts
+@@ -12,8 +12,11 @@ export const plantGrams = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A plant processed into something else stops counting: muesli counts and bread does not.",
++      statement: "A plant processed into something else stops counting.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Muesli counts and bread does not.",
+     },
+     {
+       invariantKind: "departure",
