@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/cluster-checks/modules/rr-server-module-imports/rr-server-module-imports.module.ts b/checks/cluster-checks/modules/rr-server-module-imports/rr-server-module-imports.module.ts
+index 0c7268052a984affab45b895e512399e9b3fa3c8..4ebbba35d7311937f7f67467befda069a74cb3c0 100644
+--- a/checks/cluster-checks/modules/rr-server-module-imports/rr-server-module-imports.module.ts
++++ b/checks/cluster-checks/modules/rr-server-module-imports/rr-server-module-imports.module.ts
+@@ -13,7 +13,7 @@ export const rrServerModuleImports = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A configuration naming no app directory represents the conventional one.",
++      statement: "A configuration naming no app directory represents the conventional directory.",
+     },
+     {
+       invariantKind: "departure",
