@@ -10,7 +10,7 @@ export const commandServerClient = {
     {
       invariantKind: "departure",
       statement:
-        "Asks arriving during a start wait on that start rather than each spawning a server.",
+        "Asks arriving during a start wait on that start rather than spawning a server apiece.",
     },
     {
       invariantKind: "departure",
