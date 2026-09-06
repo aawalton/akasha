@@ -1,8 +1,8 @@
 diff --git a/alan/harness/monarch/provenance/monarch-provenance.module.ts b/alan/harness/monarch/provenance/monarch-provenance.module.ts
-index f66aa0d77a4d8fc8826f5382df232d93f7fe4afd..cc17177b4e9877779bca1685cb7b7db89f5764da 100644
+index f66aa0d77a4d8fc8826f5382df232d93f7fe4afd..4b815e1e47b052282ee60c8b8f8dd8f9328513d0 100644
 --- a/alan/harness/monarch/provenance/monarch-provenance.module.ts
 +++ b/alan/harness/monarch/provenance/monarch-provenance.module.ts
-@@ -19,11 +19,15 @@ export const monarchProvenance = {
+@@ -19,15 +19,23 @@ export const monarchProvenance = {
      },
      {
        invariantKind: "departure",
@@ -20,3 +20,12 @@ index f66aa0d77a4d8fc8826f5382df232d93f7fe4afd..cc17177b4e9877779bca1685cb7b7db8
      },
      {
        invariantKind: "absence",
+-      statement: "Nothing here writes; this module composes the record a writer writes.",
++      statement: "Nothing here writes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "This module composes the record a writer writes.",
+     },
+   ],
+ } as const satisfies Module
