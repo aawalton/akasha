@@ -1,0 +1,13 @@
+diff --git a/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts b/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts
+index c3c70ce1b951d6a5e85ff3dcf05025277b694036..681b8dad57cc8c122a6ac68c1d20c3f7e26854db 100644
+--- a/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts
++++ b/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts
+@@ -9,7 +9,7 @@ export const supervisorHeartbeat = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The first beat runs at once, before the timer is ever set.",
++      statement: "The first beat runs at once before the timer is ever set.",
+     },
+     {
+       invariantKind: "departure",
