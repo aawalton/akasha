@@ -5,6 +5,7 @@ import {
   foldedIn,
   keptEdits,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { writtenAgain } from "../../address-mapping/address-mapping.module.code.ts"
 import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { type Draft, drafted, type Running } from "../../drafting/drafting.module.code.ts"
@@ -50,7 +51,9 @@ export function folding(root: string, page: string): Folded {
   let answer: Folded = { folded: [] }
   const kept = keptEdits(root, page, (had) => {
     if (had.length === 0) return had
-    const said = foldedIn(had)
+    const held = had.filter((one) => !writtenAgain(one.path))
+    if (held.length === 0) return null
+    const said = foldedIn(held)
     if (said.refused !== null) {
       answer = { refusals: [said.refused] }
       return had

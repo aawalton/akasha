@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { formattedBody } from "@akasha/code/code-format"
 import type { Change } from "@akasha/pages/change"
-import { besideAt } from "@akasha/pages/page-file-name"
+import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import { shadowFor } from "@akasha/pages/shadow"
 import type { FileEdit } from "../landing/landing.module.code.ts"
@@ -106,6 +106,15 @@ export function bodyFor(addresses: readonly Address[]): string {
     "}",
   ]
   return `${lines.join("\n")}\n`
+}
+
+// The address map is written again from the addresses reached on every apply, so this module is the
+// one writer of that body. An edit a change answers for the map is dropped rather than landed,
+// because two writers for one path make a stale read out of a body no reader read wrong.
+export function writtenAgain(path: string): boolean {
+  const said = partedIn(path)
+  if (said === null || said.pageType !== RUNNER) return false
+  return said.sections.length === 1 && said.sections[0] === ADDRESSED
 }
 
 export function mappedOver(
