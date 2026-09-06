@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts b/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
+index e910f1cf23143ab265cb85135db7a918535283af..3a3eee9ffd4a00b935ffe736a366f60d882005ff 100644
+--- a/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
++++ b/alan/harness/monarch/notes-revert/monarch-notes-revert.module.ts
+@@ -29,7 +29,7 @@ export const monarchNotesRevert = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Notes and tags are both put back, because both were changed together.",
++      statement: "Notes and tags are both put back.",
+     },
+     {
+       invariantKind: "departure",
