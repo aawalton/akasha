@@ -248,7 +248,7 @@ export const named = ${HELD_EXPORT} + 1
 
 const REPO_VOCABULARY: readonly Named[] = [
   aType(idOf("1"), "page", [], ["id", "slug"]),
-  aType(idOf("2"), "page-type", ["page-type/page"]),
+  aType(idOf("2"), "page-type", ["page-type/domain"]),
   aType(idOf("3"), "page-property", ["page-type/page"]),
   aType(idOf("4"), "file-property", ["page-type/page-property"]),
   aType(idOf("5"), "domain", ["page-type/page"]),
