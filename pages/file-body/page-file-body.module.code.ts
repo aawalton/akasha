@@ -60,7 +60,7 @@ export function filedValue(
     if (typeof said !== "string") continue
     const read = bodyAt(root, page, one.propertySlug, said)
     if ("refused" in read) throw new Error(read.refused)
-    held[one.key] = read.body
+    held[one.key] = said
     turned = true
   }
   return turned ? { ...value, ...held } : value
