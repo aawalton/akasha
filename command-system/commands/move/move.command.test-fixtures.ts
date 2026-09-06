@@ -12,7 +12,7 @@ import {
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import { admitting, mintedId, minting } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
-import { changeChecked } from "../../../changes/kinds/checked/change-checked.change-kind.ts"
+import { changeChecked } from "../../../changes/kinds/pages/change-checked.change-kind.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import { blobIdOf, recordRead } from "../../reading/reading.module.code.ts"
@@ -330,8 +330,8 @@ export const under = "what akasha/far/one/deep holds"
 `
 
 export function carriedMoved(): Promise<Moved> {
-  const held = { [HELD]: PAGE, [HOLDER]: CODE, [TARGET]: OTHER, [SPELLER]: SPELT }
-  return movedIn(rebuilt(repoWith(held)), FOLDER_PAIR)
+  const bodies = { [HELD]: PAGE, [HOLDER]: CODE, [TARGET]: OTHER, [SPELLER]: SPELT }
+  return movedIn(rebuilt(repoWith(bodies)), FOLDER_PAIR)
 }
 
 export const SAYING = [...PAIR, "--message", "held moves"]
