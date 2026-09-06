@@ -231,3 +231,22 @@ index d053681ccd5dba39c8c611d4ef73ddbab6774ecc..10819c543bb1892f330975a8ce9d4022
    },
  })
  
+diff --git a/service-system/web-apps/dev-server-stating/dev-server-stating.module.ts b/service-system/web-apps/dev-server-stating/dev-server-stating.module.ts
+index 223d089717f92de9808623db4f4f123717c7f0ce..17fc77f8effd859f26494d5e33177626a067333b 100644
+--- a/service-system/web-apps/dev-server-stating/dev-server-stating.module.ts
++++ b/service-system/web-apps/dev-server-stating/dev-server-stating.module.ts
+@@ -11,6 +11,14 @@ export const devServerStating = {
+       invariantKind: "departure",
+       statement: "An app the registry does not name is a caller's mistake.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An app names the cluster resource that app's secret values are placed in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Two apps may name one resource.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A port is the app's base port plus the change number modulo a hundred.",
