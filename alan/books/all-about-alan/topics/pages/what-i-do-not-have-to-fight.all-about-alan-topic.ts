@@ -9,6 +9,4 @@ export const whatIDoNotHaveToFight = {
   parentSlugs: ["how-i-get-anything-done"],
   settled:
     "Letting an impulse pass costs nothing. Fighting every one of them empties the budget before the harmful one arrives.\n\nIf I do not want to, I cannot. A thing done late is cheaper than a thing forced.",
-  unsettled:
-    "The shape is worked for holding an impulse back and for starting. Whether it applies to the rest is untested.\n\nIf I do not want to, I cannot is presumably one of several rules I run while recovering, and the others have never been written down.",
 } as const satisfies AllAboutAlanTopic
