@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/identity/claude-account-identity.module.ts b/agents/claude-accounts/modules/identity/claude-account-identity.module.ts
-index 6e391b431e3c1dd76e6bd52d0f5029b46339588e..0c17ec6397a8d69caf0c04912a793f14c0b8ba33 100644
+index 6e391b431e3c1dd76e6bd52d0f5029b46339588e..8c25a7a89aebf44e91e55db7770e579a3768c323 100644
 --- a/agents/claude-accounts/modules/identity/claude-account-identity.module.ts
 +++ b/agents/claude-accounts/modules/identity/claude-account-identity.module.ts
 @@ -41,7 +41,7 @@ export const claudeAccountIdentity = {
@@ -8,6 +8,15 @@ index 6e391b431e3c1dd76e6bd52d0f5029b46339588e..0c17ec6397a8d69caf0c04912a793f14
        statement:
 -        "A claude-account pinned to no upstream account takes the one that claude-account resolves to.",
 +        "A claude-account pinned to no upstream account takes the account that claude-account resolves to.",
+     },
+     {
+       invariantKind: "departure",
+@@ -54,7 +54,7 @@ export const claudeAccountIdentity = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A rebind names the upstream account moved off as well as the one moved to.",
++      statement: "A rebind names the upstream account moved off as well as the account moved to.",
      },
      {
        invariantKind: "departure",
