@@ -14,7 +14,7 @@ export const pageQueryShape = {
     },
     {
       invariantKind: "departure",
-      statement: "A query either counts by properties or reduces one.",
+      statement: "A query either counts by properties or reduces a property.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +27,11 @@ export const pageQueryShape = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here answers a query; these types are the shapes a query is said in.",
+      statement: "Nothing here answers a query.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "These types are the shapes a query is said in.",
     },
   ],
 } as const satisfies Module
