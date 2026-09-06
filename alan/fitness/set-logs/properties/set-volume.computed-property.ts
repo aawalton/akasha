@@ -38,7 +38,7 @@ export const setVolume = {
     },
     {
       invariantKind: "departure",
-      statement: "A set of any activity other than strength is worth nothing.",
+      statement: "A set stating an activity is worth nothing.",
     },
     {
       invariantKind: "departure",
