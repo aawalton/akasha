@@ -303,6 +303,49 @@ index 11371b42e9347e7283f30eb3adacd582a87b5c4e..9e82eab4fcb6086668c7d24e36c1a29a
 -  return { seatNames, psRows, tmuxClients }
 +  return found
  }
+diff --git a/editor-extension/seat-terminals/seat-terminals.module.ts b/editor-extension/seat-terminals/seat-terminals.module.ts
+index 417be74a78b14a0d56e19f1f8607b22b68c16691..711b09805bc259bb9a784ac9c4dc9e6099247730 100644
+--- a/editor-extension/seat-terminals/seat-terminals.module.ts
++++ b/editor-extension/seat-terminals/seat-terminals.module.ts
+@@ -10,23 +10,23 @@ export const seatTerminals = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A terminal is matched to a seat through the process running in that terminal.",
++      statement: "A terminal is matched to a seat by the shell that terminal answers with.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A terminal in no editor group names no column.",
++      statement: "The seat each shell works in is read off the file the service writes.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A tab that is no terminal names no instance id.",
++      statement: "A file that could not be read is told apart from a file naming no seat.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A sweep that reads no process rows looks up no seat name.",
++      statement: "A terminal in no editor group names no column.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The seat names and the tmux clients are read within one call.",
++      statement: "A tab that is no terminal names no instance id.",
+     },
+     {
+       invariantKind: "departure",
+@@ -36,5 +36,9 @@ export const seatTerminals = {
+       invariantKind: "absence",
+       statement: "Nothing here remembers a column.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "No child process is started here.",
++    },
+   ],
+ } as const satisfies Module
 diff --git a/editor-extension/terminal-lookup/terminal-lookup.module.code.ts b/editor-extension/terminal-lookup/terminal-lookup.module.code.ts
 deleted file mode 100644
 index 9915434d3eb16bd0a61affb177026f71d2f9ab91..0000000000000000000000000000000000000000
