@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/refactor/refactor.command.ts b/command-system/commands/refactor/refactor.command.ts
-index 809e2755b6345bd49330528a3f4d701006939552..26a6eafed5fb5be086c7a43f60529b558d2985de 100644
+index 809e2755b6345bd49330528a3f4d701006939552..c8ab6f55875cb8fc87a89b847f7ed30b5f7763a8 100644
 --- a/command-system/commands/refactor/refactor.command.ts
 +++ b/command-system/commands/refactor/refactor.command.ts
 @@ -190,7 +190,7 @@ export const refactor = {
@@ -9,6 +9,15 @@ index 809e2755b6345bd49330528a3f4d701006939552..26a6eafed5fb5be086c7a43f60529b55
        statement:
 -        "A name already carried in the file refuses a rename only where either scope encloses the other.",
 +        "A name the file already carries refuses a rename only where either scope encloses the other scope.",
+     },
+     {
+       invariantKind: "departure",
+@@ -199,7 +199,7 @@ export const refactor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A rename naming no line renames the one declaration or refuses the many.",
++      statement: "A rename naming no line renames a lone declaration or refuses many declarations.",
      },
      {
        invariantKind: "departure",
