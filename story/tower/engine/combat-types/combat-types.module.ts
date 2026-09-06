@@ -9,7 +9,8 @@ export const combatTypes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A combatant is known here by less than the sheet that combatant was stored as.",
+      statement:
+        "A combatant is known here by a smaller record than the sheet that combatant was stored as.",
     },
     {
       invariantKind: "departure",
