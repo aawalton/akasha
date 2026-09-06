@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-effort-per-update-stays-constant.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-effort-per-update-stays-constant.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ca44ec8cf4da0d5bd2c36b401b0535d0ecfe208b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-effort-per-update-stays-constant.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherEffortPerUpdateStaysConstant = {
++  id: "01a077e9-010a-72a4-bfe4-c5e7082f704b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-effort-per-update-stays-constant",
++  topicSlug: "what-it-costs-someone-to-know-me",
++  ask: "Does the effort per update stay constant, or change as the model someone already holds of me gets richer?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-mirroring-nets-positive-for-me.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-mirroring-nets-positive-for-me.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..941ab3177c716f9852532fa3103829235d7c26ef
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-mirroring-nets-positive-for-me.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMirroringNetsPositiveForMe = {
++  id: "01a077e9-010c-7f9b-b085-fd17c4811097",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-mirroring-nets-positive-for-me",
++  topicSlug: "what-it-costs-someone-to-know-me",
++  ask: "The mirror costs too, since attending to someone else means masking. Does the mirror net positive for me?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-knowing-gap-is-widening.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-knowing-gap-is-widening.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0ebd5fcede7c4ca025bdc2acff420c27143d1dd5
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-knowing-gap-is-widening.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyKnowingGapIsWidening = {
++  id: "01a077e9-010b-7f13-b7e3-518d598eb0fd",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-knowing-gap-is-widening",
++  topicSlug: "what-it-costs-someone-to-know-me",
++  ask: "How much does the channel carry against how fast I change, and is the gap widening or closing?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-window-of-room-can-be-widened.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-window-of-room-can-be-widened.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e843127dec492036e7be2642285c50b2ce2e4397
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-window-of-room-can-be-widened.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheWindowOfRoomCanBeWidened = {
++  id: "01a077e9-010c-7a3e-b664-61a946464682",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-window-of-room-can-be-widened",
++  topicSlug: "what-it-costs-someone-to-know-me",
++  ask: "Can the window where Jen and I both have room be widened, or spent on being known rather than on unblocking me?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-it-costs-someone-to-know-me.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-it-costs-someone-to-know-me.all-about-alan-topic.ts
+index 357003fa36735b165f2d1b75ef446410d9a331f5..bf6c8b203d5c95cf4e3dc3a04905f81b86488867 100644
+--- a/alan/books/all-about-alan/topics/pages/what-it-costs-someone-to-know-me.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-it-costs-someone-to-know-me.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatItCostsSomeoneToKnowMe = {
+   relatedSlugs: ["how-a-hard-talk-with-jen-gets-safer", "what-the-channel-has-to-carry"],
+   settled:
+     "Being known is work someone else does: holding a model of me and keeping it current as I change.\n\nEach update costs them the taking in, and more again where it cuts against what they believe.\n\nThe closer their mind is to mine the less they have to build, which is why a near twin is cheap.\n\nJen's whole life rests on me, so an update revises her own map, and her pushing back is what my alarm reads.\n\nI change faster than the channel carries, and what does not get across accrues as a widening gap.",
+-  unsettled:
+-    "Whether the effort per update stays constant or changes as the model they already hold gets richer is unsettled.\n\nNothing measures how much the channel carries against how fast I change, so whether the gap is widening or closing is unknown.\n\nWhether the window where we both have room can be widened, or spent on being known rather than on unblocking me, is open.\n\nThe mirror costs too: attending to someone else means masking, and whether that nets positive for me is unmeasured.",
+ } as const satisfies AllAboutAlanTopic
