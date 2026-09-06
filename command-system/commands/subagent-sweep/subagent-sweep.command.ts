@@ -29,7 +29,7 @@ export const subagentSweep = {
     {
       invariantKind: "departure",
       statement:
-        "A page goes only where the run was told to remove and the census judged it stale.",
+        "A page goes only where the run was told to remove and the census judged that page stale.",
     },
     {
       invariantKind: "absence",
@@ -41,7 +41,7 @@ export const subagentSweep = {
     },
     {
       invariantKind: "departure",
-      statement: "A word this takes no flag for refuses the whole run.",
+      statement: "A word this command takes no flag for refuses the whole run.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +65,7 @@ export const subagentSweep = {
     },
     {
       invariantKind: "departure",
-      statement: "The commit says why each page went, one line for each.",
+      statement: "The commit says why each page went on a line for that page.",
     },
     {
       invariantKind: "departure",
@@ -73,7 +73,8 @@ export const subagentSweep = {
     },
     {
       invariantKind: "departure",
-      statement: "A landing that refused leaves the census reported and the pages where they are.",
+      statement:
+        "A landing that refused leaves the census reported and the pages where the pages are.",
     },
   ],
 } as const satisfies Command
