@@ -760,7 +760,7 @@ index 01b33cc9845f1dcf8757fdc46309c90e4b04c12f..b2d3da9f92017f673994668aa85509b5
  
  export function measureLearning(argv: readonly string[], given: Given): Answer {
 diff --git a/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.ts b/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.ts
-index 381cf63e50264e3288738426ecc7a024a005a3bf..a583840c45994ab96e8502e7f475278c990ffdab 100644
+index 381cf63e50264e3288738426ecc7a024a005a3bf..26c47497540d0e319351af05faacb1e698dafa52 100644
 --- a/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.ts
 +++ b/alan/library/book-of-everything/commands/measure-learning/measure-learning.command.ts
 @@ -19,6 +19,7 @@ export const measureLearning = {
@@ -771,21 +771,17 @@ index 381cf63e50264e3288738426ecc7a024a005a3bf..a583840c45994ab96e8502e7f475278c
    ],
    invariants: [
      {
-@@ -41,6 +42,22 @@ export const measureLearning = {
+@@ -41,6 +42,18 @@ export const measureLearning = {
        invariantKind: "departure",
        statement: "A row is one part of the book rather than one topic beneath a part.",
      },
 +    {
 +      invariantKind: "departure",
-+<<<<<<< what this change would leave
-+      statement: "A count is every topic under a part, counting that part itself.",
-+=======
 +      statement: "A count is every topic under a part.",
 +    },
 +    {
 +      invariantKind: "departure",
 +      statement: "A part counts itself.",
-+>>>>>>> what HEAD holds
 +    },
 +    {
 +      invariantKind: "departure",
