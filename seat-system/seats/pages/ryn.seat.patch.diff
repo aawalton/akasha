@@ -1,0 +1,17 @@
+diff --git a/alan/fitness/session-planning/session-loading/session-loading.module.ts b/alan/fitness/session-planning/session-loading/session-loading.module.ts
+index 5403bebff6924e7ab023e096de1b129e66c8cae2..d11048436a1a80cb6b170f77c1e248625aa6ad80 100644
+--- a/alan/fitness/session-planning/session-loading/session-loading.module.ts
++++ b/alan/fitness/session-planning/session-loading/session-loading.module.ts
+@@ -33,7 +33,11 @@ export const sessionLoading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A set log carries no day, so the day comes from the session that log belongs to.",
++      statement: "A set log carries no day.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The day comes from the session that log belongs to.",
+     },
+     {
+       invariantKind: "departure",
