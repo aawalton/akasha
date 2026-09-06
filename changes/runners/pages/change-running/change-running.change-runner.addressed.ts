@@ -2,4 +2,28 @@ export type Changes = {
   "change-command/remove-page": Parameters<
     typeof import("../../../command/pages/remove-page/remove-page.change-command.code.ts")["runChange"]
   >[1]
+  "change/remove-page": Parameters<
+    typeof import("../../../pages/remove-page/remove-page.change.code.ts")["runChange"]
+  >[1]
+  "change/remove-property-value": Parameters<
+    typeof import("../../../pages/remove-property-value/remove-property-value.change.code.ts")["runChange"]
+  >[1]
+  "change/rename-code-token": Parameters<
+    typeof import("../../../pages/rename-code-token/rename-code-token.change.code.ts")["runChange"]
+  >[1]
+  "change/rename-export": Parameters<
+    typeof import("../../../pages/rename-export/rename-export.change.code.ts")["runChange"]
+  >[1]
+  "change/rename-page": Parameters<
+    typeof import("../../../pages/rename-page/rename-page.change.code.ts")["runChange"]
+  >[1]
+  "change/rename-page-slug": Parameters<
+    typeof import("../../../pages/rename-page-slug/rename-page-slug.change.code.ts")["runChange"]
+  >[1]
+  "change/rename-path": Parameters<
+    typeof import("../../../pages/rename-path/rename-path.change.code.ts")["runChange"]
+  >[1]
+  "change/rename-property-signature": Parameters<
+    typeof import("../../../pages/rename-property-signature/rename-property-signature.change.code.ts")["runChange"]
+  >[1]
 }
