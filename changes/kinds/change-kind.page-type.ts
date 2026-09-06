@@ -1,10 +1,9 @@
-import type { Domain } from "../../domains/domain.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
 import type { ReadersOweReading } from "./properties/readers-owe-reading.boolean-property.ts"
 import type { RunsChecks } from "./properties/runs-checks.boolean-property.ts"
 import type { WriterOwesReading } from "./properties/writer-owes-reading.boolean-property.ts"
 
-export type ChangeKind = Domain & {
+export type ChangeKind = PageType & {
   runsChecks: RunsChecks
   writerOwesReading: WriterOwesReading
   readersOweReading: ReadersOweReading
@@ -26,7 +25,7 @@ export const changeKind = {
     "boolean-property/runs-checks",
     "boolean-property/writer-owes-reading",
   ],
-  extendsSlug: ["page-type/domain"],
+  extendsSlug: ["page-type/page-type"],
   properties: [
     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
     { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
@@ -35,7 +34,7 @@ export const changeKind = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A change has one kind.",
+      statement: "A change kind is the page type of the changes of that kind.",
     },
     {
       invariantKind: "departure",

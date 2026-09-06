@@ -5,6 +5,8 @@ export const changeAuthored = {
   pageTypeSlug: "change-kind",
   slug: "change-authored",
   definition: "a change composed by an agent",
+  pluralSlug: "change-authored",
+  extendsSlug: ["page-type/change"],
   runsChecks: true,
   writerOwesReading: true,
   readersOweReading: true,

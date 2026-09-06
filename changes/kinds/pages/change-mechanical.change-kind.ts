@@ -5,6 +5,8 @@ export const changeMechanical = {
   pageTypeSlug: "change-kind",
   slug: "change-mechanical",
   definition: "a change composed by a program",
+  pluralSlug: "change-mechanical",
+  extendsSlug: ["page-type/change"],
   runsChecks: false,
   writerOwesReading: false,
   readersOweReading: false,
