@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
-index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..48a0a87f12b2dac3483d6f5f1275fc7579bf551f 100644
+index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..a2f3a04a93106d5627076575cd7ecf5a0acfab8a 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
 @@ -9,7 +9,8 @@ export const treeDrawing = {
@@ -22,3 +22,13 @@ index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..48a0a87f12b2dac3483d6f5f1275fc75
      },
      {
        invariantKind: "departure",
+@@ -33,7 +34,8 @@ export const treeDrawing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A field the builder adds reaches the editor only where it is named here too.",
++      statement:
++        "A field the builder adds reaches the editor only where the field is named here too.",
+     },
+     {
+       invariantKind: "absence",
