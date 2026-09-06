@@ -13,7 +13,7 @@ export const messagesAgentId = {
     },
     {
       invariantKind: "departure",
-      statement: "An environment naming no agent stops the server rather than guessing one.",
+      statement: "An environment naming no agent stops the server rather than guessing an agent.",
     },
   ],
 } as const satisfies Module
