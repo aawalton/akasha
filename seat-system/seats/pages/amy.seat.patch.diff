@@ -1,0 +1,18 @@
+diff --git a/health-samples-import/health-export/health-export.module.code.ts b/health-samples-import/health-export/health-export.module.code.ts
+index f95b62e9afe93cc141cdf39fb68a236fccb0fdaa..0ef64899ed07c69c8d64dc68c973e5f00ed202c8 100644
+--- a/health-samples-import/health-export/health-export.module.code.ts
++++ b/health-samples-import/health-export/health-export.module.code.ts
+@@ -132,10 +132,12 @@ export function parseExportDateLine(line: string): number | undefined {
+   return appleDateToMs(parsed.data.value)
+ }
+ 
++export const NO_FILE = "NOFILE"
++
+ export function parseHealthExport(stdout: string): HealthExport {
+   const lines = stdout.split("\n")
+   const first = lines[0]?.trim() ?? ""
+-  if (first === "NOFILE" || first === "") {
++  if (first === NO_FILE || first === "") {
+     return { sourceFile: null, exportedAtMs: undefined, records: [], skipped: 0 }
+   }
+   const sourceFile = first.startsWith("FILE\t") ? first.slice("FILE\t".length) : null
