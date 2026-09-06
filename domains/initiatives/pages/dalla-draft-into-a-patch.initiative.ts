@@ -82,11 +82,6 @@ export const dallaDraftIntoAPatch = {
       workingMemory:
         "`change-running` loads a change by address and runs the guards its page names, so no call reaches a change unguarded. Its `addressed` sidecar maps each address to `Parameters<typeof import(path)['runChange']>[1]`, so the map reads each signature rather than restating one. Augmentation is barred: the formatter rewrites every `interface` into a type alias, so the map is a plain exported alias read by `import type`. `address-mapping` writes it inside `preparing`, in the patch the gate judges. Every change page is mapped, each by exporting `runChange(World, given)`; a wrong argument shape refuses at `TS2353`. Left: a change still reaches another change by import rather than through the runner.",
     },
-    {
-      statement: "One call runs one change, whose edits are kept beside the agent's page.",
-      workingMemory:
-        "`akasha change <slug>` reads its arguments off standard input as `key: value` lines and `key <fence>` bodies, and reaches the change at `change-command/<slug>` through the runner, so the command's code spells no change. `add-file` and `change-file` are each a partial and a command, guarded by nothing. A check refusing is reported and the edits stay; an apply is where a refusal blocks. An argument body keeps the newline closing its last line, and one opened `key <fence> no-newline` drops that newline, so a passage ending mid-line is handed in. Left: nothing.",
-    },
   ],
   constraints: [
     "A read hands back the body at HEAD rather than the body the patch would leave.",
