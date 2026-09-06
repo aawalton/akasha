@@ -42,7 +42,7 @@ export const graphEdge = {
     },
     {
       invariantKind: "departure",
-      statement: "One doing both says on each edge which that edge was.",
+      statement: "An edge kind named by an index and derived here says which way each edge came.",
     },
     {
       invariantKind: "departure",
