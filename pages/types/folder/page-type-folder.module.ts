@@ -26,8 +26,11 @@ export const pageTypeFolder = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name is dropped only where a `-` follows it, so part of a word is never dropped.",
+      statement: "A name is dropped only where a `-` follows the name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Part of a word is never dropped.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +42,7 @@ export const pageTypeFolder = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a page, an index or the disk.",
+      statement: "Nothing here reads a page or an index or the disk.",
     },
     {
       invariantKind: "absence",
