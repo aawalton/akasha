@@ -9,7 +9,7 @@ export const monarchCategorizeRecent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The window is the unattended one rather than the trusted one.",
+      statement: "The window is the unattended window rather than the trusted window.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const monarchCategorizeRecent = {
     },
     {
       invariantKind: "departure",
-      statement: "A row claimed by more than one rule is written by none of them.",
+      statement: "A row claimed by more than one rule is written by no rule.",
     },
     {
       invariantKind: "departure",
@@ -29,8 +29,7 @@ export const monarchCategorizeRecent = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Why each row was left is tallied, so a run says the rows left as well as the rows written.",
+      statement: "Why each row was left is tallied for a run to say beside the rows written.",
     },
     {
       invariantKind: "departure",
