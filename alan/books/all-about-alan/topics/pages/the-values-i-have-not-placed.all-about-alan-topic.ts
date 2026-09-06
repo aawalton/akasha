@@ -10,6 +10,4 @@ export const theValuesIHaveNotPlaced = {
   parentSlugs: ["what-i-value-in-order"],
   settled:
     "Only the top four of the six are pointed at a part of me.\n\nThe six were set before the wider set of things I run on existed.",
-  unsettled:
-    "Where fun sits is unresolved: which part of me it improves, whether it feeds the top three the way learning does, and why it ranks under health.\n\nWealth has never been glossed at all, including which part of me it improves.\n\nWhat I run on now is wider than the six, and how the whole set orders, including where identity sits, has never been recorded.",
 } as const satisfies AllAboutAlanTopic
