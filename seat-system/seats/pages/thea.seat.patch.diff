@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
-index e6b8b6999a4c0568aa8bbb181c196383890f953a..264fc75bf645af6d6abdfe5d1074d581670f3f48 100644
+index e6b8b6999a4c0568aa8bbb181c196383890f953a..ef790b04fff7f1153afaaefbc0d62ac5b084a8f1 100644
 --- a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
 @@ -11,15 +11,15 @@ const ID = "id"
@@ -25,3 +25,22 @@ index e6b8b6999a4c0568aa8bbb181c196383890f953a..264fc75bf645af6d6abdfe5d1074d581
  }
  
  export function offFormat(
+@@ -33,18 +33,6 @@ export function offFormat(
+   return `\`${slug}\` is "${said}", which is not written in \`${nameFormatSlug}\``
+ }
+ 
+-export function overTotal(
+-  held: readonly unknown[],
+-  total: number | null,
+-  slug: string
+-): string | null {
+-  if (total === null) return null
+-  let sum = 0
+-  for (const one of held) if (typeof one === "string") sum += one.length
+-  if (sum <= total) return null
+-  return `holds ${sum} characters of \`${slug}\`, over the total of ${total}`
+-}
+-
+ export function twiceIn(held: readonly unknown[], slug: string): string | null {
+   const seen = new Set<string>()
+   for (const one of held) {
