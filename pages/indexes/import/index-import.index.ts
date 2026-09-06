@@ -36,7 +36,7 @@ export const indexImport = {
     },
     {
       invariantKind: "departure",
-      statement: "A specifier landing outside the repository makes none either.",
+      statement: "A specifier landing outside the repository makes no edge.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +45,7 @@ export const indexImport = {
     },
     {
       invariantKind: "departure",
-      statement: "A type-only import makes the same edge as any other.",
+      statement: "A type-only import makes the same edge as any other import.",
     },
     {
       invariantKind: "departure",
