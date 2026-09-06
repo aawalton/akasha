@@ -1,3 +1,16 @@
+diff --git a/pages/types/page-properties/page-property.page-type.ts b/pages/types/page-properties/page-property.page-type.ts
+index a9e5097d618128918088c386cf89dd1f1cb971ef..4d6e9a1ebbbde50785bde2d55684f1f8b27416be 100644
+--- a/pages/types/page-properties/page-property.page-type.ts
++++ b/pages/types/page-properties/page-property.page-type.ts
+@@ -21,6 +21,8 @@ export const pageProperty = {
+   partSlugs: [
+     "module/page-property-key",
+     "number-property/max",
++    "number-property/max-count",
++    "number-property/max-length",
+     "number-property/total",
+     "relation-property/generator",
+     "relation-property/unique",
 diff --git a/pages/types/page-properties/properties/max-count.number-property.ts b/pages/types/page-properties/properties/max-count.number-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..a7447765e61ac2c29aa27d519f47cd53577e8734
