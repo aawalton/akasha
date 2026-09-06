@@ -61,6 +61,19 @@ index b570ce5bb8710736ce1a9f68e94701acca44f38c..92e1ca70d518ea8376588424143a31ef
    evidence:
      "From project #17022 (status `someday_maybe`, `live-on: commit`, domain `all-about-alan`), captured and never defined.\n\nThe live 37-line map core did not survive the 2026-07-27 harness rebuild. Alan ruled restart-from-scratch (2026-07-28).\n\nScope this row held:\n1. Rebuild the ranked Leverage Map core from scratch, by interview.\n2. Hold the loose ends surfaced in the 2026-07-28 session as a ROUTING entry — evidence captured here, to be passed to Abby for Book-of-Alan intake when Alan is ready for full capture. He explicitly deferred full capture that day.\n\nNot in scope: writing the Book of Alan itself — that is knowledge/Abby's material; this row only held the pointer until intake.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/priming-guards-the-first-capture-rather-than-the-first-after-a-gap.finding.ts b/domains/findings/pages/priming-guards-the-first-capture-rather-than-the-first-after-a-gap.finding.ts
+index 4383015427883d3359a6c6d4995e6726fa360c5b..f6569c84525d4556464865349ae9c20da3ceed06 100644
+--- a/domains/findings/pages/priming-guards-the-first-capture-rather-than-the-first-after-a-gap.finding.ts
++++ b/domains/findings/pages/priming-guards-the-first-capture-rather-than-the-first-after-a-gap.finding.ts
+@@ -6,7 +6,7 @@ export const primingGuardsTheFirstCaptureRatherThanTheFirstAfterAGap = {
+   slug: "priming-guards-the-first-capture-rather-than-the-first-after-a-gap",
+   domainSlug: "domain/music-listening",
+   claim:
+-    "The rule that a priming run scores no first listen guards only the very first capture, because priming is true where no listen has ever been filed. A capture starting again after a gap is not primed, so every track heard in the gap that no heard track names scores as a first listen and counts into new music minutes, dated to the run rather than to the hearing. Alan has left this as it is and will settle it when he rebuilds the workflow.",
++    "The rule that one priming run scores no first listen guards only the very first capture, because priming is true where no listen has ever been filed. A capture starting again after a gap is not primed, so every track heard in the gap that no heard track names scores as a first listen and counts into new music minutes, dated to the run rather than to the hearing. Alan has left this as it is and will settle it when he rebuilds the workflow.",
+   evidence:
+     "`music-capture.command.code.ts` reads `const priming = ledger.newestPlayedAt === null`. Alan's newest filed listen is `2026-08-21T12:31:13.556Z` and the capture was deleted on 1 September, so twelve days went unfiled and the ledger is not empty. The first run will therefore not be primed. What Spotify hands back reaches about fifty plays, so the gap is recoverable only in part either way. `--dry-run` says what would land without writing, and would give the count before any of it is filed.",
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts b/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts
 index 266b849afd483a38ccec1d2ec54a257ab3605dd9..9dd6783a45def6ea0ad80607567842efd1633520 100644
 --- a/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts
