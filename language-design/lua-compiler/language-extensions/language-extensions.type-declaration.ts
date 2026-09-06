@@ -9,7 +9,7 @@ export const languageExtensions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Each name here is one the compiler gives a meaning of its own at a call site.",
+      statement: "Each name here is a name the compiler gives a meaning of its own at a call site.",
     },
   ],
 } as const satisfies TypeDeclaration
