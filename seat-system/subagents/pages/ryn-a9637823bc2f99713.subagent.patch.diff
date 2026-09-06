@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts
-index 1de0e910b68ab5725926d6ffd4a850278c873b49..66f5634a56b532680ee3b1529bb5761cdf4b1948 100644
+index 1de0e910b68ab5725926d6ffd4a850278c873b49..2c9a1741298d0fd0964f492a1520e6209dab1b3e 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts
 @@ -13,7 +13,7 @@ export const dataWatching = {
@@ -29,6 +29,15 @@ index 1de0e910b68ab5725926d6ffd4a850278c873b49..66f5634a56b532680ee3b1529bb5761c
 -      statement: "A picture states the folders it reads and which files in them it is made from.",
 +      statement:
 +        "A picture states the folders that picture reads and the files there the picture is made from.",
+     },
+     {
+       invariantKind: "departure",
+@@ -49,7 +51,7 @@ export const dataWatching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The index is followed for those events rather than read at each one.",
++      statement: "The index is followed for those events rather than read at each event.",
      },
      {
        invariantKind: "departure",
