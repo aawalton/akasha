@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+
+export const whetherBeingFullySeenWouldCostTooMuch = {
+  id: "01a077e9-14b0-7ca5-86d1-cd34df318903",
+  pageTypeSlug: "all-about-alan-question",
+  slug: "whether-being-fully-seen-would-cost-too-much",
+  topicSlug: "why-i-keep-hard-truths-back",
+  ask: "Would being fully seen cost the people closest to me more than they can carry? That general judgment under the rule was never put to me.",
+} as const satisfies AllAboutAlanQuestion
