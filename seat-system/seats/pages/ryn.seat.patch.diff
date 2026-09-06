@@ -1,14 +1,20 @@
 readersOweReading: false
 diff --git a/alan/harness/monarch/amazon-refund/monarch-amazon-refund.module.ts b/alan/harness/monarch/amazon-refund/monarch-amazon-refund.module.ts
-index 2cd1b6601e2b31ac330017adb81e914f1a3ec5c4..b719250bcb33959f25952a2c2163e516d571f2e2 100644
+index 2cd1b6601e2b31ac330017adb81e914f1a3ec5c4..900e731883d8de217261a0735395e54c3777722c 100644
 --- a/alan/harness/monarch/amazon-refund/monarch-amazon-refund.module.ts
 +++ b/alan/harness/monarch/amazon-refund/monarch-amazon-refund.module.ts
-@@ -10,7 +10,7 @@ export const monarchAmazonRefund = {
+@@ -10,12 +10,12 @@ export const monarchAmazonRefund = {
      {
        invariantKind: "departure",
        statement:
 -        "A refund names the order that refund is against, the total, and the item that refund is for.",
 +        "A refund names the order that refund is against and the total and the item that refund is for.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A mail missing the order number, the total or the returned item is no refund and is passed over.",
++        "A mail missing the order number or the total or the returned item is no refund and is passed over.",
      },
      {
        invariantKind: "departure",
