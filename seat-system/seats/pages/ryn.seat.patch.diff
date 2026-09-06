@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts b/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
-index 7f3f32d4fc9af2c4ebca413726cfd6e1c3d62af1..3c286a8667b4d1dfce88fbe7f8bf2bccdd000c7c 100644
+index 7f3f32d4fc9af2c4ebca413726cfd6e1c3d62af1..90b3b9f19ef674c20b8260302244de2496560bb9 100644
 --- a/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
 +++ b/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
 @@ -9,8 +9,11 @@ export const monarchAmazonRefunds = {
@@ -22,6 +22,15 @@ index 7f3f32d4fc9af2c4ebca413726cfd6e1c3d62af1..3c286a8667b4d1dfce88fbe7f8bf2bcc
        invariantKind: "departure",
 -      statement: "A credit matching two or more refunds is abstained on and never written.",
 +      statement: "A credit matching several refunds is abstained on and never written.",
+     },
+     {
+       invariantKind: "departure",
+@@ -28,7 +31,7 @@ export const monarchAmazonRefunds = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A message missing the amount, the order number or the item is counted rather than skipped silently.",
++        "A message missing the amount or the order number or the item is counted rather than dropped.",
      },
      {
        invariantKind: "departure",
