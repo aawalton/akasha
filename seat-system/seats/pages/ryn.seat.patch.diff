@@ -1,15 +1,21 @@
 readersOweReading: false
 diff --git a/alan/harness/monarch/reconcile/monarch-reconcile.module.ts b/alan/harness/monarch/reconcile/monarch-reconcile.module.ts
-index b7546a692d9d3536bfe2d48197a3f4f2cd1efb0a..7b26588335f5beca58be7704b443447b42160932 100644
+index b7546a692d9d3536bfe2d48197a3f4f2cd1efb0a..536350b19b78dc559ae56ff776525dfa0a348987 100644
 --- a/alan/harness/monarch/reconcile/monarch-reconcile.module.ts
 +++ b/alan/harness/monarch/reconcile/monarch-reconcile.module.ts
-@@ -15,8 +15,7 @@ export const monarchReconcile = {
+@@ -15,13 +15,12 @@ export const monarchReconcile = {
      },
      {
        invariantKind: "departure",
 -      statement:
 -        "A reconciliation that would retire more than a twentieth of the rows it weighed is refused.",
 +      statement: "A reconciliation retiring more than a twentieth of the rows weighed is refused.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "Nothing is retired at all where the ceiling is passed, rather than the first rows being taken.",
++        "Nothing is retired where the ceiling is passed rather than the first rows being taken.",
      },
      {
        invariantKind: "departure",
