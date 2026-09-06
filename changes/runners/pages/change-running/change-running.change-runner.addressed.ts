@@ -5,6 +5,9 @@ export type Changes = {
   "change-command/change-file": Parameters<
     typeof import("../../../command/pages/change-file/change-file.change-command.code.ts")["runChange"]
   >[1]
+  "change-command/move-page": Parameters<
+    typeof import("../../../command/pages/move-page/move-page.change-command.code.ts")["runChange"]
+  >[1]
   "change-command/remove-page": Parameters<
     typeof import("../../../command/pages/remove-page/remove-page.change-command.code.ts")["runChange"]
   >[1]
