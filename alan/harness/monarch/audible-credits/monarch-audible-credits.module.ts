@@ -10,8 +10,11 @@ export const monarchAudibleCredits = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A credit spent is two rows on one cash account, out of the category that paid and into Audible.",
+      statement: "A credit spent is two rows on one cash account.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The two rows go out of the category that paid and into Audible.",
     },
     {
       invariantKind: "departure",
@@ -41,8 +44,11 @@ export const monarchAudibleCredits = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Nothing is written unless writing was asked for, and the rows are printed either way.",
+      statement: "Nothing is written unless writing was asked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rows are printed either way.",
     },
     {
       invariantKind: "departure",
