@@ -1,9 +1,9 @@
 import type { Finding } from "../finding.page-type.ts"
 
-export const sixThousandCollectionsSitInSidecarsThatCollectionSystemWasBuiltToHold = {
+export const sixThousandCollectionsSitInSidecarsTheCollectionPageTypeWasBuiltToHold = {
   id: "01a0657f-0c53-7002-9a9a-88f0ed0cb960",
   pageTypeSlug: "finding",
-  slug: "six-thousand-collections-sit-in-sidecars-that-collection-system-was-built-to-hold",
+  slug: "six-thousand-collections-sit-in-sidecars-the-collection-page-type-was-built-to-hold",
   domainSlug: "page-type/collection",
   claim:
     "The 32 `collection-type` pages are in akasha and the 6,104 collections they gather are not. Those records sit in 23 `.collections.jsonl` files still under `pages/collection-type/`, and their fields already match the properties `collection` and `collection-external` declare, key for key. They were deliberately left in place rather than migrated, because the collection lane was landing against those same properties while this ran.",
