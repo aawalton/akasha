@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts b/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
-index 7c191ed94adb556b0ea9abb225500e508446bfb5..d6ee8063d30ed04d2def47034086946654d96dcf 100644
+index 7c191ed94adb556b0ea9abb225500e508446bfb5..5ae5f807411211fb869f36a5c7962c067df950b1 100644
 --- a/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
 +++ b/agents/claude-accounts/modules/account-upkeep-running/account-upkeep-running.module.ts
 @@ -14,7 +14,8 @@ export const accountUpkeepRunning = {
@@ -13,3 +12,16 @@ index 7c191ed94adb556b0ea9abb225500e508446bfb5..d6ee8063d30ed04d2def470340869466
      },
      {
        invariantKind: "departure",
+@@ -52,7 +53,11 @@ export const accountUpkeepRunning = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Upkeep runs until stopped, and a stop ends the loop at its next boundary.",
++      statement: "Upkeep runs until stopped.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A stop ends the loop at the loop's next boundary.",
+     },
+     {
+       invariantKind: "absence",
