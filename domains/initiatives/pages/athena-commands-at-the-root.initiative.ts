@@ -41,7 +41,7 @@ export const athenaCommandsAtTheRoot = {
     {
       statement: "An index written as changes land matches what a rebuild would write.",
       workingMemory:
-        "A refresh over 4041e390fe read 136 files missing, 1 wrong and 8 stale, over 70177 pages and 537511 entries, taken while a swarm was qualifying property slugs across the page types. One over 44ac2d3df9 the same day read 0, 0 and 4. One over d68a11cd26 read 9, 2 and 175, and one over 5e6b09d17d added 30933 after an outage left the index unable to read its own page types. So the settle falls behind while pages move fast. Nothing measures this between rebuilds.",
+        "A dry run names the files now. Over 55a8d0e603 the 134 added are all `path/` entries for `.uncommitted.jsonl` sidecars, which a rebuild files and a settle never does. The one changed is `value/module.jsonl`. The 8 taken away are `relation/` edges under `domain-slug` and `assignment-slug` for pages that have gone. `filingOf` takes a file's own lines as ground truth and applies a delta, so a line already wrong survives every settle, holding the drift near 134/1/8.",
     },
   ],
   constraints: [
