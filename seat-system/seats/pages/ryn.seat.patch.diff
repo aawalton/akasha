@@ -1,17 +1,26 @@
 diff --git a/seat-system/compose-notices/compose-notices.module.ts b/seat-system/compose-notices/compose-notices.module.ts
-index 8fc620e81a1a70307fb9b8582c656e3a6a6a7cf9..59c4fcb7ce962a16a563d13795864bb344363fdc 100644
+index 8fc620e81a1a70307fb9b8582c656e3a6a6a7cf9..c4305f8e5f7d14a43f6a5b18f3ded5fca5abfbc2 100644
 --- a/seat-system/compose-notices/compose-notices.module.ts
 +++ b/seat-system/compose-notices/compose-notices.module.ts
-@@ -14,7 +14,11 @@ export const composeNotices = {
+@@ -14,11 +14,19 @@ export const composeNotices = {
      },
      {
        invariantKind: "departure",
 -      statement: "A notice is named by its file stem, so a page renamed here is a notice gone.",
 +      statement: "A notice is named by its file stem.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The lines of a paragraph join with a space, and a blank line between two stays.",
++      statement: "A page renamed here is a notice gone.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A page renamed here is a notice gone.",
++      statement: "The lines of a paragraph join with a space.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A blank line between two paragraphs stays.",
      },
      {
        invariantKind: "departure",
