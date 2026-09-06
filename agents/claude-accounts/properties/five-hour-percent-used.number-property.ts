@@ -12,7 +12,7 @@ export const fiveHourPercentUsed = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An account that has spent its seven-day window has spent its five-hour one.",
+      statement: "An account that has spent its seven-day window has spent its five-hour window.",
     },
   ],
 } as const satisfies NumberProperty
