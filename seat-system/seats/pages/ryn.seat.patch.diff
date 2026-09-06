@@ -1,5 +1,5 @@
 diff --git a/alan/fitness/exercise-access/session-closing/session-closing.module.ts b/alan/fitness/exercise-access/session-closing/session-closing.module.ts
-index 871c30f3a0037e65e1e5a4d4912a6d84db6064e6..6c6dc3c24ed087523c929b5f87412e475e51d281 100644
+index 871c30f3a0037e65e1e5a4d4912a6d84db6064e6..286f003272bfa1df1c6662bf4c9d9e19c5c66455 100644
 --- a/alan/fitness/exercise-access/session-closing/session-closing.module.ts
 +++ b/alan/fitness/exercise-access/session-closing/session-closing.module.ts
 @@ -19,8 +19,11 @@ export const sessionClosing = {
@@ -16,3 +16,13 @@ index 871c30f3a0037e65e1e5a4d4912a6d84db6064e6..6c6dc3c24ed087523c929b5f87412e47
      },
      {
        invariantKind: "departure",
+@@ -29,8 +32,7 @@ export const sessionClosing = {
+     },
+     {
+       invariantKind: "gap",
+-      statement:
+-        "A set states no time that set was logged, so every close falls back to the session's start.",
++      statement: "A set states no time that set was logged.",
+     },
+     {
+       invariantKind: "gap",
