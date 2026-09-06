@@ -1,0 +1,14 @@
+diff --git a/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts b/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
+index 23128cb8d4b72f963d0b4767a39a5a68db492b9e..2fc235e20e491e89008c3dcec3cca3c11e9b3bf8 100644
+--- a/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
++++ b/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
+@@ -9,7 +9,8 @@ export const exerciseFinding = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A page is named by its id, by its slug, by its whole title or by part of one.",
++      statement:
++        "A page is named by its id or by its slug or by its whole title or by part of a title.",
+     },
+     {
+       invariantKind: "departure",
