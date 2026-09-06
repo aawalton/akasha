@@ -1,5 +1,5 @@
 diff --git a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
-index 34b9da2cdbb9c3b7eb436257d132438fd930456f..50a1d19c270b0480ddc2c1b6ef17a5d2550f95e9 100644
+index 34b9da2cdbb9c3b7eb436257d132438fd930456f..652272e6e0871c101b6c0f9084582383aa878f19 100644
 --- a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
 +++ b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
 @@ -10,11 +10,15 @@ export const mobilityStanding = {
@@ -17,6 +17,15 @@ index 34b9da2cdbb9c3b7eb436257d132438fd930456f..50a1d19c270b0480ddc2c1b6ef17a5d2
 +    {
 +      invariantKind: "departure",
 +      statement: "The latest reading of a metric is the reading that says the metric's standing.",
+     },
+     {
+       invariantKind: "departure",
+@@ -23,7 +27,7 @@ export const mobilityStanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reading is stated as text, as a number, or as text and a number together.",
++      statement: "A reading is stated as text or as a number or as text and a number together.",
      },
      {
        invariantKind: "departure",
