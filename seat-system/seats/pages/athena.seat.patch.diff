@@ -1,0 +1,160 @@
+diff --git a/pages/indexes/entries/index-entries.module.test-fixtures.ts b/pages/indexes/entries/index-entries.module.test-fixtures.ts
+index 98b22117d796a29e267053cf125b0e4845f47f92..da11b801b9deeaeca5bfaf700707a0d9378a35ce 100644
+--- a/pages/indexes/entries/index-entries.module.test-fixtures.ts
++++ b/pages/indexes/entries/index-entries.module.test-fixtures.ts
+@@ -109,6 +109,7 @@ const TARGETS: Readonly<Record<string, string | readonly string[]>> = {
+   "part-slugs": "domain",
+   "noted-slugs": "domain",
+   "either-slug": ["domain", "note"],
++  "gone-slugs": "note",
+ }
+ 
+ const ADMITTING: Readonly<Record<string, readonly string[]>> = {
+@@ -116,9 +117,12 @@ const ADMITTING: Readonly<Record<string, readonly string[]>> = {
+   note: ["note"],
+ }
+ 
++const MORTAL: ReadonlySet<string> = new Set(["note"])
++
+ const KEYED: Readonly<Record<string, string>> = {
+   partSlugs: "part-slugs",
+   notes: "noted-slugs",
++  goneSlugs: "gone-slugs",
+   parts: "parts",
+   heldSlugs: "held-slugs",
+   holds: "holds",
+diff --git a/pages/indexes/reaching/reaching.module.code.ts b/pages/indexes/reaching/reaching.module.code.ts
+index 8f715ec47d1e9d63d561ff33b40a7a1193ef240a..cbff92a635a40e431f287ad2e5ae7a699e0b0f79 100644
+--- a/pages/indexes/reaching/reaching.module.code.ts
++++ b/pages/indexes/reaching/reaching.module.code.ts
+@@ -21,6 +21,8 @@ const DECLARED = "properties"
+ 
+ const SAID = "pagePropertySlug"
+ 
++const MORTAL = "mortal"
++
+ const NOT_A_RELATION = new Set(["id", "slug", "pageTypeSlug"])
+ 
+ export type Wanted = string | readonly string[] | null
+diff --git a/pages/indexes/reaching/reaching.module.test.ts b/pages/indexes/reaching/reaching.module.test.ts
+index ab369e0d793b347ced77622062532f1a815028b8..4bff35b9a4e1a588af9fcfe1e51fdb7366cead11 100644
+--- a/pages/indexes/reaching/reaching.module.test.ts
++++ b/pages/indexes/reaching/reaching.module.test.ts
+@@ -11,7 +11,7 @@ import {
+   shaped,
+ } from "../entries/index-entries.module.test-fixtures.ts"
+ import { readingAt } from "../surface/index-surface.module.code.ts"
+-import { knownIn, reaches, type Shaped } from "./reaching.module.code.ts"
++import { knownIn, namesMortal, reaches, type Shaped } from "./reaching.module.code.ts"
+ 
+ afterAll(scratch.sweep)
+ 
+diff --git a/pages/indexes/reaching/reaching.module.ts b/pages/indexes/reaching/reaching.module.ts
+index c3cb311af272a39276ac808f4ba32236485e5290..a021d240ba4c7104e6ad322fd9100e92bb9108e2 100644
+--- a/pages/indexes/reaching/reaching.module.ts
++++ b/pages/indexes/reaching/reaching.module.ts
+@@ -68,6 +68,18 @@ export const reaching = {
+       invariantKind: "departure",
+       statement: "The page a name reaches is said here alone.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Whether a page type is mortal is answered beside what a name reaches.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name stating a page type is judged mortal by that page type alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name stating none is judged by every target its property declares.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Which property each key of a page carries is read here.",
+diff --git a/pages/indexes/relation/index-relation.index.code.ts b/pages/indexes/relation/index-relation.index.code.ts
+index fad1b430fd576958238871248688d5260ea186e3..37143e4909c372792b63908d29a86b978a106204 100644
+--- a/pages/indexes/relation/index-relation.index.code.ts
++++ b/pages/indexes/relation/index-relation.index.code.ts
+@@ -1,7 +1,13 @@
+ import { join } from "node:path"
+-import { textAt, type Value } from "@akasha/pages/page-value"
++import { slugOf, textAt, type Value } from "@akasha/pages/page-value"
+ import { type Entry, under } from "../entries/index-entries.module.code.ts"
+-import { namesIn, namingsIn, reaches, type Shaped } from "../reaching/reaching.module.code.ts"
++import {
++  namesIn,
++  namesMortal,
++  namingsIn,
++  reaches,
++  type Shaped,
++} from "../reaching/reaching.module.code.ts"
+ import { indexRelation } from "./index-relation.index.ts"
+ 
+ const RELATION = indexRelation.name
+diff --git a/pages/indexes/relation/index-relation.index.test.ts b/pages/indexes/relation/index-relation.index.test.ts
+index 84117f6cb1d995a23537bbf4f4aecb5d23286fe2..917eb4b65f11a60d103851cb01f89990d446efff 100644
+--- a/pages/indexes/relation/index-relation.index.test.ts
++++ b/pages/indexes/relation/index-relation.index.test.ts
+@@ -21,6 +21,24 @@ test("a property naming no page is reported and files no edge", () => {
+   expect(filed.refused[0] ?? "").toMatch(/carries the slug `nowhere`/)
+ })
+ 
++test("a mortal page naming no page files no edge and is not reported", () => {
++  const value = { id: A, pageTypeSlug: "note", slug: "a", partSlugs: ["nowhere"] }
++
++  expect(relationIn(value, "/repo/a.note.ts", shaped({}), "/repo")).toEqual({
++    entries: [],
++    refused: [],
++  })
++})
++
++test("a name for a mortal page type files no edge and is not reported", () => {
++  const value = { id: A, pageTypeSlug: "domain", slug: "a", goneSlugs: ["note/gone"] }
++
++  expect(relationIn(value, "/repo/a.domain.ts", shaped({}), "/repo")).toEqual({
++    entries: [],
++    refused: [],
++  })
++})
++
+ test("a relation nested in a record is filed from the page, and twice over files one edge", () => {
+   const value = {
+     id: A,
+diff --git a/pages/indexes/relation/index-relation.index.ts b/pages/indexes/relation/index-relation.index.ts
+index b01b2eed0ee4e3b134e1b88eaef6efb1f390352c..9a8a9ffdc2482f79f41084ea8bba2907c2442276 100644
+--- a/pages/indexes/relation/index-relation.index.ts
++++ b/pages/indexes/relation/index-relation.index.ts
+@@ -33,6 +33,10 @@ export const indexRelation = {
+       invariantKind: "departure",
+       statement: "A page's own page type files no edge.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A name reaching no page files no edge.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "One write creates and removes only files that write alone owns.",
+diff --git a/pages/types/properties/mortal.boolean-property.ts b/pages/types/properties/mortal.boolean-property.ts
+index 79a74de54d8a76d4e8e0b0a3454528d02226d6fe..039430f47d81d7f3b7fde54129b20e7770475a24 100644
+--- a/pages/types/properties/mortal.boolean-property.ts
++++ b/pages/types/properties/mortal.boolean-property.ts
+@@ -17,5 +17,17 @@ export const mortal = {
+       invariantKind: "departure",
+       statement: "A non-mortal page cannot have a relation to a mortal page.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A mortal page naming a page that is not there is not refused for naming it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name for a mortal page type is not refused for reaching no page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Either exemption alone is enough, and neither waits on the other.",
++    },
+   ],
+ } as const satisfies BooleanProperty
