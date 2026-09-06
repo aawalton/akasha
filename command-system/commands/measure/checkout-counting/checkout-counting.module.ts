@@ -33,7 +33,7 @@ export const checkoutCounting = {
     },
     {
       invariantKind: "departure",
-      statement: "A listing git could not answer throws rather than listing none.",
+      statement: "A listing git could not answer throws rather than answering empty.",
     },
     {
       invariantKind: "departure",
