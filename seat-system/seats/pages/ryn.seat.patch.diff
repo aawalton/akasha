@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/harness/sleep/sleep.domain.ts b/alan/harness/sleep/sleep.domain.ts
+index 51a905bf77a8d148655d03bd3e4c4ea677cd711a..0f5381516f04b61377a7da46d3ce3d3fae43a929 100644
+--- a/alan/harness/sleep/sleep.domain.ts
++++ b/alan/harness/sleep/sleep.domain.ts
+@@ -19,7 +19,7 @@ export const sleep = {
+ 
+     {
+       invariantKind: "departure",
+-      statement: "Every site showing the sleep is carried the sleep rather than taking one.",
++      statement: "Every site showing the sleep is carried the sleep rather than taking the sleep.",
+     },
+     {
+       invariantKind: "departure",
