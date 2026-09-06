@@ -10,8 +10,11 @@ export const verifyRenderPlan = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A session is anonymous, throwaway or the real user, each naming the environment that session needs.",
+      statement: "A session is anonymous or throwaway or the real user.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every sort of session names the environment that session needs.",
     },
     {
       invariantKind: "departure",
@@ -19,13 +22,16 @@ export const verifyRenderPlan = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A hydration marker is waited on ahead of expected text, and expected text ahead of a populated root.",
+      statement: "A hydration marker is waited on ahead of expected text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Expected text is waited on ahead of a populated root.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A check with no discriminating signal is said to have none rather than passing on nothing.",
+        "A check with no discriminating signal is said to have no signal rather than passing.",
     },
     {
       invariantKind: "absence",
