@@ -201,3 +201,30 @@ index 5a0e745436b59709550c38deaf5a362c1ff29c6f..9a3b31189a603fe864ed424ae614678b
      const value: Held = { ...subject.value }
      const dark = new Map<string, string>()
      for (const one of subject.computed) {
+diff --git a/pages/computing/page-computing.module.ts b/pages/computing/page-computing.module.ts
+index 0a2e77e7e8ed9b471f359f3958ce5f6a0963979a..8c6a12e069b33e30843ec07f6ebb0a26d0b6f305 100644
+--- a/pages/computing/page-computing.module.ts
++++ b/pages/computing/page-computing.module.ts
+@@ -69,6 +69,22 @@ export const pageComputing = {
+       invariantKind: "departure",
+       statement: "A reach reaching no page answers nothing rather than refusing.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The page a naming reach starts from is the page whose calculation is running.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A source stating no way to answer a naming answers no page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page reached under two names is worked once.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The shape a calculation is handed is taken from the computed property page type.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A frame is a page's id and a property's slug together.",
