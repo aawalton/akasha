@@ -1,0 +1,38 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.code.ts b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+index b641fd39b0617944b623abcc7682ec9ded58517e..7fb63a070b10ce6a14597c658061d5cf9d95650c 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.code.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+@@ -108,10 +108,6 @@ export function appendEdits(root: string, page: string, edits: readonly Edit[]):
+   return keptEdits(root, page, (had) => [...had, ...edits])
+ }
+ 
+-export function dropEdits(root: string, page: string): Kept {
+-  return keptEdits(root, page, () => null)
+-}
+-
+ export function foldedIn(rows: readonly Edit[]): Answer {
+   return gathered(rows.map((one) => ({ edits: [one], refused: null })))
+ }
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.test.ts b/changes/modules/edits-keeping/edits-keeping.module.test.ts
+index c0b20e5ede67f90da8e615ee461c5e8eadb53078..866d0488dc56541f40591ed75d3abc55a9e7fb08 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.test.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.test.ts
+@@ -5,7 +5,6 @@ import { scratch } from "@akasha/indexes/indexing/testing"
+ import { taking, writing } from "../change-answer/change-answer.module.code.ts"
+ import {
+   appendEdits,
+-  dropEdits,
+   editsAt,
+   editsIn,
+   foldedIn,
+@@ -82,7 +81,7 @@ test("a file worked out to no row is taken away", () => {
+   const root = rootFor()
+   appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
+ 
+-  expect(dropEdits(root, PAGE)).toEqual({ rows: [] })
++  expect(keptEdits(root, PAGE, () => null)).toEqual({ rows: [] })
+   expect(editsIn(root, PAGE)).toEqual({ rows: [] })
+ })
+ 
