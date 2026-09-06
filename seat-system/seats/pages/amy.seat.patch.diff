@@ -1,3 +1,43 @@
+diff --git a/command-system/commands/importing/importing.command.code.ts b/command-system/commands/importing/importing.command.code.ts
+index 4674182eb88823af0f5732a970d75726070b17ec..01460b6f24f0c4a121e7b535f100f67d9990a778 100644
+--- a/command-system/commands/importing/importing.command.code.ts
++++ b/command-system/commands/importing/importing.command.code.ts
+@@ -1,4 +1,5 @@
+ import { upsertHealthSamples } from "@akasha/health-samples-access/sample-upsert"
++import { streamExportLines } from "@akasha/health-samples-import/export-fetching"
+ import { buildFetchScript } from "@akasha/health-samples-import/health-export"
+ import { IMPORT_METRICS } from "@akasha/health-samples-import/health-import"
+ import { importReading } from "@akasha/health-samples-import/health-import-reading"
+@@ -9,8 +10,6 @@ import {
+   NO_LOWER_BOUND,
+   runHealthImport,
+ } from "@akasha/health-samples-import/health-import-run"
+-import { MACBOOK } from "@akasha/health-samples-import/laptop-host"
+-import { streamSshLines } from "@akasha/ssh-access/ssh-reach"
+ import type { Answer } from "../../calling/calling.module.code.ts"
+ import { refused } from "../../calling/calling.module.code.ts"
+ import { saidBy } from "../../fault-saying/fault-saying.module.code.ts"
+@@ -42,8 +41,9 @@ const BARE = [DRY_RUN, RESTART]
+ const CIVIL_DAY = /^\d{4}-\d{2}-\d{2}$/
+ 
+ const NO_EXPORT =
+-  "no Apple Health export is on the macbook. On your iPhone, open Health, tap your profile photo, " +
+-  "then Export All Health Data, and put the zip in the Mac's ~/Downloads — or name one with `--path`."
++  "no Apple Health export is on this workstation or on the macbook. On your iPhone, open Health, " +
++  "tap your profile photo, then Export All Health Data, and put the zip in `~/Downloads` on either " +
++  "machine — or name one with `--path`."
+ 
+ const TAKEN_UP =
+   "what already landed is written, and a call made again takes the run up where it ended unless `--restart` is said"
+@@ -201,7 +201,7 @@ export function reaching(held: Taken): ImportRunDeps {
+     metrics: IMPORT_METRICS,
+   })
+   return {
+-    openStream: () => streamSshLines(MACBOOK, script),
++    openStream: () => streamExportLines(script),
+     writeBatch: async (samples) => {
+       if (held.dryRun) throw new Error("a dry run reached the writer, which writes nothing")
+       return await upsertHealthSamples({ samples })
 diff --git a/health-samples-import/export-fetching/export-fetching.module.code.ts b/health-samples-import/export-fetching/export-fetching.module.code.ts
 index 60a194347dd7bc62aa34ac2e574d6ef10bceb735..2abfdb24fdeced1e4dffbcaa803fece5308fc0b6 100644
 --- a/health-samples-import/export-fetching/export-fetching.module.code.ts
