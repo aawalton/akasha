@@ -18,7 +18,7 @@ export const supervisorEnv = {
     },
     {
       invariantKind: "departure",
-      statement: "An inherited tool timeout wins over the one the seat conditions state.",
+      statement: "An inherited tool timeout wins over the timeout the seat conditions state.",
     },
     {
       invariantKind: "departure",
