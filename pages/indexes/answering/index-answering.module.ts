@@ -10,7 +10,7 @@ export const indexAnswering = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every question here is asked of the one reading the answers were bound over.",
+      statement: "Every question here is asked of the reading the answers were bound over.",
     },
     {
       invariantKind: "departure",
