@@ -1,0 +1,38 @@
+diff --git a/service-system/secrets/secret-saying/secret-saying.module.code.ts b/service-system/secrets/secret-saying/secret-saying.module.code.ts
+index 057008123102c4439afe4a227bcb7a404a936ee3..8269b2e6b3fd345c76920e2af42c715fd74a4014 100644
+--- a/service-system/secrets/secret-saying/secret-saying.module.code.ts
++++ b/service-system/secrets/secret-saying/secret-saying.module.code.ts
+@@ -75,13 +75,7 @@ export function secretYaml(
+   })
+ }
+ 
+-export function sayingFor(
+-  akasha: string,
+-  resource: string,
+-  namespace: string,
+-  type: string = OPAQUE,
+-  labels: Record<string, string> = {}
+-): string {
++export function valuesFor(akasha: string, resource: string): Record<string, string> {
+   const pages = secretPages(akasha)
+   placedAt(pages)
+   const held = heldBy(pages, resource)
+@@ -92,7 +86,17 @@ export function sayingFor(
+   }
+   const values: Record<string, string> = {}
+   for (const one of held) values[one.key] = valueOf(akasha, one.page)
+-  return secretYaml(values, resource, namespace, type, labels)
++  return values
++}
++
++export function sayingFor(
++  akasha: string,
++  resource: string,
++  namespace: string,
++  type: string = OPAQUE,
++  labels: Record<string, string> = {}
++): string {
++  return secretYaml(valuesFor(akasha, resource), resource, namespace, type, labels)
+ }
+ 
+ export function runSaying(argv: readonly string[]): number {
