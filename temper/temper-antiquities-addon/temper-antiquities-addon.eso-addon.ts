@@ -60,7 +60,7 @@ export const temperAntiquitiesAddon = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One add-on holds the antiquity tools rather than one add-on for each tool.",
+      statement: "One add-on holds the antiquity tools rather than an add-on for each tool.",
     },
     {
       invariantKind: "departure",
