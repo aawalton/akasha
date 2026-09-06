@@ -1,9 +1,22 @@
-readersOweReading: false
 diff --git a/alan/harness/monarch/credential/monarch-credential.module.ts b/alan/harness/monarch/credential/monarch-credential.module.ts
-index e6c8f500e9638a58fb966ed724482c4859c6e0ae..41211040fff71b8234d35a20adff4747eda33e18 100644
+index e6c8f500e9638a58fb966ed724482c4859c6e0ae..913b21fb1b359f520fd56ce00e386e52d2b3a084 100644
 --- a/alan/harness/monarch/credential/monarch-credential.module.ts
 +++ b/alan/harness/monarch/credential/monarch-credential.module.ts
-@@ -35,7 +35,7 @@ export const monarchCredential = {
+@@ -22,8 +22,11 @@ export const monarchCredential = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The headers are frozen, so the headers handed out cannot be altered by their holder.",
++      statement: "The headers are frozen.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The headers handed out cannot be altered by their holder.",
+     },
+     {
+       invariantKind: "departure",
+@@ -35,7 +38,7 @@ export const monarchCredential = {
      },
      {
        invariantKind: "absence",
@@ -12,3 +25,23 @@ index e6c8f500e9638a58fb966ed724482c4859c6e0ae..41211040fff71b8234d35a20adff4747
      },
    ],
  } as const satisfies Module
+diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.worked.ts b/alan/tracking/daily/wake-days/wake-day.page-type.worked.ts
+index 3e174c21e4d67c1a2e6d020e7c70e93c041c98ee..2f73bf5df13a4f81211c6b55baa28ddde82ee5a1 100644
+--- a/alan/tracking/daily/wake-days/wake-day.page-type.worked.ts
++++ b/alan/tracking/daily/wake-days/wake-day.page-type.worked.ts
+@@ -14,7 +14,6 @@ import type { SleepHours } from "./properties/sleep-hours.computed-property.ts"
+ import type { SpendHours } from "./properties/spend-hours.computed-property.ts"
+ import type { Stoplights } from "./properties/stoplights.computed-property.ts"
+ import type { StrengthCalories } from "./properties/strength-calories.computed-property.ts"
+-import type { StrengthVolume } from "./properties/strength-volume.computed-property.ts"
+ import type { SurplusHours } from "./properties/surplus-hours.computed-property.ts"
+ import type { TotalLevel } from "./properties/total-level.computed-property.ts"
+ import type { WealthLevel } from "./properties/wealth-level.computed-property.ts"
+@@ -25,7 +24,6 @@ export type WorkedWakeDay = Omit<WakeDay, "sessions"> & {
+   sessions?: WorkedSessions
+   activityCalories?: ActivityCalories
+   strengthCalories?: StrengthCalories
+-  strengthVolume?: StrengthVolume
+   faithLevel?: FaithLevel
+   loveLevel?: LoveLevel
+   healthLevel?: HealthLevel
