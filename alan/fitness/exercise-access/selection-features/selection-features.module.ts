@@ -16,16 +16,18 @@ export const selectionFeatures = {
     },
     {
       invariantKind: "departure",
-      statement: "A movement pattern named outright overrides the one the name and muscles imply.",
+      statement:
+        "A movement pattern named outright overrides the pattern the name and muscles imply.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A stretching movement is a mobility pattern and a cardio movement a conditioning one.",
+        "A stretching movement is a mobility pattern and a cardio movement a conditioning pattern.",
     },
     {
       invariantKind: "departure",
-      statement: "A movement no name or muscle places is an isolation pattern rather than none.",
+      statement:
+        "A movement no name or muscle places is an isolation pattern rather than no pattern.",
     },
     {
       invariantKind: "departure",
