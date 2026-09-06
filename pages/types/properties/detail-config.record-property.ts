@@ -44,16 +44,17 @@ export const detailConfig = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page type states here how one of its pages stands on a screen of its own.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page type stating none takes the layout the page type above states.",
+      statement:
+        "A page type states here how a page of that type is laid out on a screen of its own.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A page type with none above that page type and none of its own is laid out plainly.",
+        "A page type stating no detail config takes the layout the page type above states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type with no detail config here or above is laid out plainly.",
     },
     {
       invariantKind: "departure",
