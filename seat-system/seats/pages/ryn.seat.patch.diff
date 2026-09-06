@@ -1,9 +1,18 @@
-writerOwesReading: false
 diff --git a/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts b/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts
-index bca1535bc75d79679d34ac468ab63474c8cb4338..d89607b75324715cc6f116252abc568547315d4c 100644
+index bca1535bc75d79679d34ac468ab63474c8cb4338..6f3731aadfe0e62d2862cef893e24370f074cfff 100644
 --- a/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts
 +++ b/alan/harness/monarch/rule-dates/monarch-rule-dates.module.ts
-@@ -20,11 +20,11 @@ export const monarchRuleDates = {
+@@ -11,8 +11,7 @@ export const monarchRuleDates = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A floor holds on its own day and a ceiling does not, so two rules can meet without overlapping.",
++      statement: "A floor holds on its own day and a ceiling does not.",
+     },
+     {
+       invariantKind: "departure",
+@@ -20,11 +19,11 @@ export const monarchRuleDates = {
      },
      {
        invariantKind: "departure",
@@ -17,7 +26,7 @@ index bca1535bc75d79679d34ac468ab63474c8cb4338..d89607b75324715cc6f116252abc5685
      },
      {
        invariantKind: "departure",
-@@ -36,7 +36,7 @@ export const monarchRuleDates = {
+@@ -36,7 +35,7 @@ export const monarchRuleDates = {
      },
      {
        invariantKind: "departure",
