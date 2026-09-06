@@ -34,3 +34,15 @@ index 3e11aba2d39d68bbe2117216722ab5dcabd284cc..a26d05f61d1df36d69bdf56aa273f48a
    viewPlace: 0,
    viewSorts: [{ key: "sort-order", descending: false }],
    pageSize: 12,
+diff --git a/pages/views/pages/temper-dungeons-list.view.ts b/pages/views/pages/temper-dungeons-list.view.ts
+index 1563960b9f561397ef6c3d51427be8ff96ac636c..7b81c47b47f2fd9af5e13c4a77e22ddc243be09b 100644
+--- a/pages/views/pages/temper-dungeons-list.view.ts
++++ b/pages/views/pages/temper-dungeons-list.view.ts
+@@ -6,6 +6,7 @@ export const temperDungeonsList = {
+   slug: "temper-dungeons-list",
+   title: "List",
+   navSlug: "temper-dungeons",
++  pageType: "temper-dungeon",
+   viewPlace: 0,
+   viewSorts: [{ key: "title", descending: false }],
+   pageSize: 12,
