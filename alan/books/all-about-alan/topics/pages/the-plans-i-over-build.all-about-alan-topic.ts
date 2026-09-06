@@ -9,6 +9,4 @@ export const thePlansIOverBuild = {
   parentSlugs: ["how-i-get-anything-done"],
   settled:
     "Without them I would lose objects, files and threads daily.\n\nThe habit is old enough that it reads as a strength from outside, and it read that way to me too.",
-  unsettled:
-    "The costs show up through the compensation rather than through the gap. Time spent planning against doing, rigidity once a plan is built, over-engineering, an all-or-nothing hold on the plan. None of them are captured.\n\nThe solar plan is worked out to the point of asking for a bid, and nothing records one asked for. Whether that pause is deliberate is unsaid.",
 } as const satisfies AllAboutAlanTopic
