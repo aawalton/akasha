@@ -190,7 +190,7 @@ export const refactor = {
     {
       invariantKind: "departure",
       statement:
-        "A name already carried in the file refuses a rename only where either scope encloses the other.",
+        "A name the file already carries refuses a rename only where either scope encloses the other scope.",
     },
     {
       invariantKind: "departure",
@@ -199,7 +199,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "A rename naming no line renames the one declaration or refuses the many.",
+      statement: "A rename naming no line renames a lone declaration or refuses many declarations.",
     },
     {
       invariantKind: "departure",
@@ -215,7 +215,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "A package is renamed where its manifest calls the package that name.",
+      statement: "A package is renamed where the package's manifest calls the package that name.",
     },
     {
       invariantKind: "departure",
@@ -241,7 +241,8 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "A package rename wider than one batch lands as expand, migrate and contract.",
+      statement:
+        "A package rename wider than one batch lands as expand then migrate then contract.",
     },
     {
       invariantKind: "departure",
@@ -262,7 +263,7 @@ export const refactor = {
     {
       invariantKind: "departure",
       statement:
-        "Every manifest depending on the renamed package is respelled as expand renames it.",
+        "Every manifest depending on the renamed package is respelled as expand renames the package.",
     },
     {
       invariantKind: "absence",
@@ -274,7 +275,7 @@ export const refactor = {
     },
     {
       invariantKind: "departure",
-      statement: "Migrate respells the files naming the old name, a batch to a commit.",
+      statement: "Migrate respells the files naming the old name a batch to a commit.",
     },
     {
       invariantKind: "departure",
@@ -304,7 +305,7 @@ export const refactor = {
 
     {
       invariantKind: "departure",
-      statement: "The type a retyped page satisfies is the one its new page type declares.",
+      statement: "The type a retyped page satisfies is the type the new page type declares.",
     },
     {
       invariantKind: "departure",
