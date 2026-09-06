@@ -1,3 +1,15 @@
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index ab3e963190d88bfe91da04c08cf7709bc714f7f0..a41b236bb5bb2f2dad085073bb655b2a59ca26ad 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -27,6 +27,7 @@ export const change = {
+     "page-type/change-kind",
+     "workspace-package/workflow-language",
+     "boolean-property/is-command",
++    "change/restate-value",
+   ],
+   properties: [
+     { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
 diff --git a/changes/pages/restate-value/restate-value.change.code.ts b/changes/pages/restate-value/restate-value.change.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..9fd581fe5a7cba1361f2dc0bd8c63c43a1b4504f
