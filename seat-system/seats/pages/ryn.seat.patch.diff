@@ -1,0 +1,14 @@
+diff --git a/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts b/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts
+index 4f09f0f4015b194a91c01251928f8fbecf733dc0..253165a1c4944af5c48330fc60e34a7d37459327 100644
+--- a/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts
++++ b/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts
+@@ -31,7 +31,8 @@ export const claudeAccountAdd = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The slot is one above the highest any page states, unless a slot is named.",
++      statement:
++        "The slot is a step above the highest slot any page states unless a slot is named.",
+     },
+     {
+       invariantKind: "departure",
