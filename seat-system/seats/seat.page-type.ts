@@ -172,7 +172,11 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat states the mode it was started in and carries the mode it is running in.",
+      statement: "A seat states the mode the seat was started in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat carries the mode the seat is running in.",
     },
   ],
 } as const satisfies PageType
