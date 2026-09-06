@@ -51,10 +51,6 @@ struct SafetyRing: View {
         return (nextTier, progress)
     }
 
-    private var isAtEnd: Bool {
-        arc == nil && (tier == .black || tier == .blue)
-    }
-
     var body: some View {
         Ring(
             stroke: .centred,
@@ -73,14 +69,22 @@ struct SafetyRing: View {
                 radius: tier == .blue ? 6 : 0
             )
         ) { metrics in
-            if !isAtEnd {
-                Text(reading ?? "—")
-                    .font(.system(size: 44, weight: .bold, design: .rounded))
-                    .foregroundStyle(Color(.label))
-                    .minimumScaleFactor(0.4)
-                    .lineLimit(1)
-                    .padding(.horizontal, metrics.strokeWidth + SPACING_1)
-            }
+            // THE LEVEL IS DRAWN WHEREVER THE LEVEL IS, INCLUDING AT EITHER END OF ITS SCALE.
+            //
+            // A level at the top of its scale has no tier above it, so the feed sends no next tier
+            // and no progress and there is no arc to draw. The number was hidden along with that
+            // arc, which left the tile showing a bare ring at the very reading worth showing, and
+            // did the same at the bottom. The arc says how far the next tier is and the number says
+            // where the level is; only the first of those runs out at the ends.
+            //
+            // The stoplight drawn among other stoplights goes on hiding it, six readings to a tile
+            // leaving no room for a number, and that ring is a view of its own.
+            Text(reading ?? "—")
+                .font(.system(size: 44, weight: .bold, design: .rounded))
+                .foregroundStyle(Color(.label))
+                .minimumScaleFactor(0.4)
+                .lineLimit(1)
+                .padding(.horizontal, metrics.strokeWidth + SPACING_1)
         }
     }
 }

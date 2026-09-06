@@ -6,4 +6,14 @@ export const alanwaltonStoplightRing = {
   slug: "alanwalton-stoplight-ring",
   definition: "the ring a stoplight reading is drawn on",
   swift: "swift",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A reading past either end of its scale draws no number.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tile drawing one reading alone draws that number, which this one does not.",
+    },
+  ],
 } as const satisfies IosComponent
