@@ -109,6 +109,22 @@ index e1cfdee8bdcbbb8395a62c147af4bad6104c8f54..ba0e63a92011eac85d804f13c1583238
    const census = censusOf(judged)
    const stale = staleAmong(judged)
    if (!read.removing) return answering([...census, ...heldBack(stale.length)], [], 0)
+diff --git a/command-system/commands/subagent-sweep/subagent-sweep.command.ts b/command-system/commands/subagent-sweep/subagent-sweep.command.ts
+index f6fa01866168dc7de0dec4d0b28e3593cfba6107..f9a3b941f9d7921285740f23dca4c80be30669ed 100644
+--- a/command-system/commands/subagent-sweep/subagent-sweep.command.ts
++++ b/command-system/commands/subagent-sweep/subagent-sweep.command.ts
+@@ -14,8 +14,9 @@ export const subagentSweep = {
+     "a run naming nothing reports and writes nothing, which is how a person reads the census first.",
+     "a page is judged WORKING, STALE or UNDETERMINED, and only STALE ever goes.",
+     "WORKING is a live process acting under the page's agent id, or the seat's transcript naming the subagent as not yet returned.",
+-    "a transcript only ever adds a WORKING: an entry carrying no agent id joins to no page, so a compacted transcript leaves every judgement as it was.",
+-    "STALE is a take-down the seat's log says was refused, or a seat no process at all carries the id of.",
++    "STALE is a take-down the seat's log says was refused, a seat no process at all carries the id of, or the seat's transcript naming the subagent as one it saw start and finish.",
++    "a transcript reads an agent id off a launch receipt, so a compacted one has no id to end and no id to run, and it leaves every judgement as it was.",
++    "the absence of a running subagent is never read as an end, because that is what a truncated transcript looks like too.",
+     "UNDETERMINED is everything else, because a subagent waiting on the model runs no process of its own.",
+     "no page's age is read: a page written long ago under a process still running says nothing.",
+     "the report names, for each page, its seat, its agent id, what answers for it, and why.",
 diff --git a/editor-extension/subagent-core/subagent-core.module.code.ts b/editor-extension/subagent-core/subagent-core.module.code.ts
 index bd4fb7f4bb5fbd5b135539a4a1603213fecf6863..25f8c8162bf9d3c8f56e4677f2082f731275637d 100644
 --- a/editor-extension/subagent-core/subagent-core.module.code.ts
