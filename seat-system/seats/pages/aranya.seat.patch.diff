@@ -118,7 +118,7 @@ index 4f60af64fe134831e76e2203e64679cc4c1cfbad..bcfe06c7d0645eed086a0e9839e6633a
        invariantKind: "departure",
        statement: "A cursor no read touched is dropped.",
 diff --git a/seat-system/subagent-census/subagent-census.module.code.ts b/seat-system/subagent-census/subagent-census.module.code.ts
-index 5a064472cf2f1c7bb35a7006513c16e318651acd..ec9d0d83953c1fba669d4642444fbf2e3c587bc8 100644
+index 5a064472cf2f1c7bb35a7006513c16e318651acd..aca692dea5334e6b1e1d4ca61c15d899d0c520f8 100644
 --- a/seat-system/subagent-census/subagent-census.module.code.ts
 +++ b/seat-system/subagent-census/subagent-census.module.code.ts
 @@ -23,14 +23,21 @@ import { LOG_AT, SUBAGENTS_AT } from "../subagents/presence/subagent-presence.mo
@@ -151,3 +151,11 @@ index 5a064472cf2f1c7bb35a7006513c16e318651acd..ec9d0d83953c1fba669d4642444fbf2e
  
  const SEAT = "principalSeatName"
  
+@@ -65,6 +72,7 @@ export interface Seen {
+   readonly actingPids: ReadonlyMap<string, readonly number[]>
+   readonly takenDown: ReadonlySet<string>
+   readonly runningOwn: ReadonlySet<string>
++  readonly endedOwn: ReadonlySet<string>
+ }
+ 
+ export interface Judged {
