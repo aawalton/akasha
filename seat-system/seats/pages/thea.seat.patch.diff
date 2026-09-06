@@ -4533,6 +4533,31 @@ index 2329c5e389a60bea1f2410994e1574394d5a6295..7c4e07f862d66e97359fe3c0e774d274
    nameFormatSlug: "name-format/lower-camel-case",
    invariants: [
      {
+diff --git a/pages/url-properties/url-property.page-type.ts b/pages/url-properties/url-property.page-type.ts
+index 5d6f80579d3fc943b939776c75369b5d84977206..428ac7b5d8d7cd0c0c5efaeec26eaafa7c571ac9 100644
+--- a/pages/url-properties/url-property.page-type.ts
++++ b/pages/url-properties/url-property.page-type.ts
+@@ -1,9 +1,9 @@
+ import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
+-import type { Max } from "../types/page-properties/properties/max.number-property.ts"
++import type { MaxLength } from "../types/page-properties/properties/max-length.number-property.ts"
+ import type { PageType } from "../types/page-type.page-type.ts"
+ 
+ export type UrlProperty = PageProperty & {
+-  max: Max
++  maxLength: MaxLength
+ }
+ 
+ export const urlProperty = {
+@@ -13,7 +13,7 @@ export const urlProperty = {
+   definition: "a page property holding a web address",
+   pluralSlug: "url-properties",
+   extendsSlug: ["page-type/page-property"],
+-  properties: [{ pagePropertySlug: "number-property/max", required: true, many: false }],
++  properties: [{ pagePropertySlug: "number-property/max-length", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/pages/views/properties/always-show-properties.text-property.ts b/pages/views/properties/always-show-properties.text-property.ts
 index bc4228974f9438b4d01a5145e2c61ead9fa1127e..11b4f0183ef82fd31357c604e398316b00063f5d 100644
 --- a/pages/views/properties/always-show-properties.text-property.ts
