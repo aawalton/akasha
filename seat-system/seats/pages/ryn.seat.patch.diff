@@ -1,0 +1,13 @@
+diff --git a/command-system/commands/work-tree/work-tree.command.ts b/command-system/commands/work-tree/work-tree.command.ts
+index b3d2d841909b66ae483d03323513eb487fdbce04..7b9b8b40b0f4556436f24d2d9cdd9cded1b390fb 100644
+--- a/command-system/commands/work-tree/work-tree.command.ts
++++ b/command-system/commands/work-tree/work-tree.command.ts
+@@ -74,7 +74,7 @@ export const workTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row says whether it is an initiative or an intent.",
++      statement: "A row says whether the row is an initiative or an intent.",
+     },
+     {
+       invariantKind: "departure",
