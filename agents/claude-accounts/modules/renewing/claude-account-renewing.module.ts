@@ -46,7 +46,7 @@ export const claudeAccountRenewing = {
     },
     {
       invariantKind: "departure",
-      statement: "A pair the page holds a fresher one than counts as written back.",
+      statement: "A pair the page holds a fresher pair than counts as written back.",
     },
     {
       invariantKind: "departure",
@@ -54,13 +54,12 @@ export const claudeAccountRenewing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A renewed pair that reached no page is answered, and said to be the only copy of that pair.",
+      statement: "A renewed pair that reached no page is answered as the only copy of that pair.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The scopes, the plan and the band are read off the page rather than off the response.",
+        "The scopes and the plan and the band are read off the page rather than off the response.",
     },
     {
       invariantKind: "constraint",
@@ -85,7 +84,11 @@ export const claudeAccountRenewing = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here throws; every failure is answered as an outcome.",
+      statement: "Nothing here throws.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Every failure is answered as an outcome.",
     },
     {
       invariantKind: "absence",
