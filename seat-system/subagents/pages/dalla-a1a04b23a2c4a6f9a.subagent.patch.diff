@@ -700,7 +700,7 @@ index 0000000000000000000000000000000000000000..9111268bc1129b716e88211bc49a30d9
 +})
 diff --git a/changes/pages/remove-page/remove-page.change.ts b/changes/pages/remove-page/remove-page.change.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..b069d349b8380a8f1d06f060b92c494ce730e4f6
+index 0000000000000000000000000000000000000000..8979322023b81b18e22f02b0233132209e2435a4
 --- /dev/null
 +++ b/changes/pages/remove-page/remove-page.change.ts
 @@ -0,0 +1,86 @@
@@ -774,11 +774,11 @@ index 0000000000000000000000000000000000000000..b069d349b8380a8f1d06f060b92c494c
 +    },
 +    {
 +      invariantKind: "gap",
-+      statement: "An answer this change gives leaves that entry for the relation guard to refuse.",
++      statement: "An answer here leaves the parent's entry for the relation guard to refuse.",
 +    },
 +    {
 +      invariantKind: "gap",
-+      statement: "`remove-property-value` is the change that will drop that entry here.",
++      statement: "`remove-property-value` is the change that will drop the parent's entry here.",
 +    },
 +    {
 +      invariantKind: "absence",
@@ -786,7 +786,7 @@ index 0000000000000000000000000000000000000000..b069d349b8380a8f1d06f060b92c494c
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "The guards this change names judge whether a page may go.",
++      statement: "A guard the change names judges whether a page may go.",
 +    },
 +  ],
 +} as const satisfies Change
