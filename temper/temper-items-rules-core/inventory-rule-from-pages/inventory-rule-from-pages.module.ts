@@ -18,7 +18,8 @@ export const inventoryRuleFromPages = {
     },
     {
       invariantKind: "departure",
-      statement: "A condition value is read as JSON where it parses as JSON and as text otherwise.",
+      statement:
+        "A condition value is read as JSON where that value parses as JSON and as text otherwise.",
     },
     {
       invariantKind: "departure",
