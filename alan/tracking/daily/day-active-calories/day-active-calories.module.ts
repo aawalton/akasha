@@ -7,4 +7,38 @@ export const dayActiveCalories = {
   definition:
     "one day's active calories, recomputed from the health samples and written onto the day",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A run of this file writes the four days ending today.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day's samples arrive after the day does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day already written is written again on a later run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day carrying no sample keeps the calories that day already carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day that throws leaves the other days to land.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that landed nothing exits 2.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here decides when the calories are due.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Importing this file writes nothing.",
+    },
+  ],
 } as const satisfies Module
