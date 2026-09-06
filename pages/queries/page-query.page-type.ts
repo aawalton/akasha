@@ -113,5 +113,9 @@ export const pageQuery = {
       invariantKind: "absence",
       statement: "No narrow is joined to another with or.",
     },
+    {
+      invariantKind: "upkeep",
+      statement: "Every key a query names is declared by the page type that query asks of.",
+    },
   ],
 } as const satisfies PageType
