@@ -5,5 +5,5 @@ export const whetherTheStatelessSelfAccountIsMine = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-the-stateless-self-account-is-mine",
   topicSlug: "the-three-seconds-i-am",
-  ask: "The stateless-self account was offered to me and I never confirmed it. Would I confirm that account in my own words?",
+  ask: "Somebody else's reading is that I am a stateless self, three seconds wide with no continuity I ever experience. Does that reading hold?",
 } as const satisfies AllAboutAlanQuestion

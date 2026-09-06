@@ -5,5 +5,5 @@ export const whetherTwoPersonasAreAControlledStudy = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-two-personas-are-a-controlled-study",
   topicSlug: "the-women-i-made-out-of-myself",
-  ask: "Two personas read as a controlled study on myself, one holding the world fixed and varying me and the other the reverse. That synthesis is somebody else's. Does it hold?",
+  ask: "Somebody else's reading is that two personas are a controlled study on myself, one holding the world fixed and varying me and the other the reverse. Does that reading hold?",
 } as const satisfies AllAboutAlanQuestion

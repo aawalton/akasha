@@ -5,5 +5,5 @@ export const whetherMySurvivalIsAnActOfLove = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-my-survival-is-an-act-of-love",
   topicSlug: "the-crowd-that-has-been-me",
-  ask: "Reading my survival as an act of love toward the selves behind me reached the record second-hand. Would I put that reading in my own words?",
+  ask: "Somebody else's reading is that my survival is an act of love toward the selves behind me. Does that reading hold?",
 } as const satisfies AllAboutAlanQuestion
