@@ -4865,10 +4865,10 @@ index 2d086bc2038418a548782aaafe3dbb247a4c8772..87a64553538a4f2fb27b280d932115d8
    invariants: [
      {
 diff --git a/pages/types/properties/child-relation.text-property.ts b/pages/types/properties/child-relation.text-property.ts
-index 8200faa6ae066b284175a9e5e5b43f873888bb3c..8c37c1e53d0c7662120e39f4d6efda61d64292ae 100644
+index 8200faa6ae066b284175a9e5e5b43f873888bb3c..2b2b9b0f2a30f3641a819c0e718066ba1bc85b4e 100644
 --- a/pages/types/properties/child-relation.text-property.ts
 +++ b/pages/types/properties/child-relation.text-property.ts
-@@ -8,12 +8,17 @@ export const childRelation = {
+@@ -8,7 +8,7 @@ export const childRelation = {
    slug: "child-relation",
    propertySlug: "child-relation",
    definition: "the key by which a gathered page names the page gathering it",
@@ -4877,16 +4877,6 @@ index 8200faa6ae066b284175a9e5e5b43f873888bb3c..8c37c1e53d0c7662120e39f4d6efda61
    nameFormatSlug: "name-format/lower-camel-case",
    invariants: [
      {
-       invariantKind: "departure",
-+<<<<<<< what this change would leave
-+      statement:
-+        "A key named here gathers nothing where the gathered page type carries no such key.",
-+=======
-       statement: "A key named here that the gathered page type does not carry gathers nothing.",
-+>>>>>>> what HEAD holds
-     },
-   ],
- } as const satisfies TextProperty
 diff --git a/pages/types/properties/collection-header.record-property.ts b/pages/types/properties/collection-header.record-property.ts
 index d4de0ce16f9c61eb6626dd00101205d411770610..aedcc993f8ba62e163eedd61313ada85a7c469c7 100644
 --- a/pages/types/properties/collection-header.record-property.ts
