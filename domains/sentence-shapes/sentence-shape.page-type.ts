@@ -83,7 +83,8 @@ export const sentenceShape = {
     },
     {
       invariantKind: "departure",
-      statement: "Many shapes that each refuse truly find more than one shape that refuses widely.",
+      statement:
+        "Many narrow shapes that refuse truly are better than a wide shape that refuses widely.",
     },
   ],
   directives: [
