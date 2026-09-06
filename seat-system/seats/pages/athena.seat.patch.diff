@@ -12,6 +12,19 @@ index e82ba15b20bb164fb438597376cf79202af42313..30cc08ecd57a5838a7fc73f5dcab829d
    report.push(
      read.dryRun
        ? `nothing was put in place — ${DRY_RUN}`
+diff --git a/command-system/commands/index/index.command.ts b/command-system/commands/index/index.command.ts
+index 1aa59aa4de05ea7e346e6b5ce6ff16bdfc4c0040..8680ddc91209642db0f161777f6011a220983c79 100644
+--- a/command-system/commands/index/index.command.ts
++++ b/command-system/commands/index/index.command.ts
+@@ -4,7 +4,7 @@ export const index = {
+   id: "01a04de1-13fa-7331-979e-d443758eefad",
+   pageTypeSlug: "command",
+   slug: "index",
+-  definition: "the index rebuilt from the commit at HEAD and put in place whole",
++  definition: "the index repaired against the pages of the repository as it is",
+   code: "ts",
+   test: "ts",
+   changeKindSlug: "change-none",
 diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
 index c049133ce6ffad2655675c56e6adacdc5bf20243..5199324f0ab21d9fd436e314e0e32e71e304b1ba 100644
 --- a/pages/indexes/indexing/indexing.module.code.ts
