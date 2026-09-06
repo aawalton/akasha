@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-commands/temper-inventory-bank-trace/temper-inventory-bank-trace.command.ts b/temper/temper-commands/temper-inventory-bank-trace/temper-inventory-bank-trace.command.ts
+index 024a6736b1f69125f03b244f653349a8ca7df3d9..426a4084eb52ad15b8f7ff6655ae6620e44c25b3 100644
+--- a/temper/temper-commands/temper-inventory-bank-trace/temper-inventory-bank-trace.command.ts
++++ b/temper/temper-commands/temper-inventory-bank-trace/temper-inventory-bank-trace.command.ts
+@@ -18,7 +18,7 @@ export const temperInventoryBankTrace = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The trace read is the most recent one.",
++      statement: "The trace read is the most recent trace.",
+     },
+     {
+       invariantKind: "departure",
