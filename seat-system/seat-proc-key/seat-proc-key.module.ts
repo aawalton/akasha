@@ -11,7 +11,7 @@ export const seatProcKey = {
     {
       invariantKind: "departure",
       statement:
-        "A process is present only where the pid is there and its start tick is the one held.",
+        "A process is present only where the pid is there and its start tick is the tick held.",
     },
     {
       invariantKind: "departure",
@@ -23,7 +23,7 @@ export const seatProcKey = {
     },
     {
       invariantKind: "departure",
-      statement: "A key is written as the pid, a hyphen and the start ticks.",
+      statement: "A key is written as the pid and a hyphen and the start ticks.",
     },
     {
       invariantKind: "departure",
