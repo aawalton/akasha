@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/command-system/commands/wan/wan-arguing/wan-arguing.module.ts b/command-system/commands/wan/wan-arguing/wan-arguing.module.ts
-index 3554bca2cf23fd218e384126d91f7cb40719c3d1..d4f645e13b57b36a51439f70b807306963307a79 100644
+index 3554bca2cf23fd218e384126d91f7cb40719c3d1..4af762d1750c11c42b45a8d6580d302d1d87e06c 100644
 --- a/command-system/commands/wan/wan-arguing/wan-arguing.module.ts
 +++ b/command-system/commands/wan/wan-arguing/wan-arguing.module.ts
 @@ -13,11 +13,11 @@ export const wanArguing = {
@@ -17,3 +17,12 @@ index 3554bca2cf23fd218e384126d91f7cb40719c3d1..d4f645e13b57b36a51439f70b8073069
      },
      {
        invariantKind: "departure",
+@@ -34,7 +34,7 @@ export const wanArguing = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reaches the GPU or the disk, past a flag routed through a path.",
++      statement: "Nothing here reaches the GPU or the disk past a flag routed through a path.",
+     },
+   ],
+ } as const satisfies Module
