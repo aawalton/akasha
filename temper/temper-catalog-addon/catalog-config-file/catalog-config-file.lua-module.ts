@@ -16,7 +16,7 @@ export const catalogConfigFile = {
     {
       invariantKind: "departure",
       statement:
-        "The game loads the file before the compiled add-on rather than compiling the two as one.",
+        "The game loads the file before the compiled add-on rather than compiling the two together.",
     },
   ],
 } as const satisfies LuaModule
