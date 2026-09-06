@@ -1,3 +1,15 @@
+diff --git a/checks/code-checks/code-check.page-type.ts b/checks/code-checks/code-check.page-type.ts
+index fa32a45965d772ba910798d03809e60bb8fda3a5..3df0c74e25fdf566b4692fa2047d5f4aa4fe681a 100644
+--- a/checks/code-checks/code-check.page-type.ts
++++ b/checks/code-checks/code-check.page-type.ts
+@@ -72,6 +72,7 @@ export const codeCheck = {
+     "code-check/invariant-statement-is-plain",
+     "code-check/tests-pass",
+     "code-check/typecheck",
++    "code-check/types-file-runs-nothing",
+   ],
+   extendsSlug: ["page-type/module"],
+   loadedBySlug: "module/checking",
 diff --git a/checks/code-checks/pages/types-file-runs-nothing/types-file-runs-nothing.code-check.code.ts b/checks/code-checks/pages/types-file-runs-nothing/types-file-runs-nothing.code-check.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..6cb8c8b006954b69c1034df9164252d75fd73b0e
