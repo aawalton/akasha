@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/alan/books/all-about-alan/chapters/experiments/exp4-voice-reward-dose/dry-run-evidence.book-chapter.chapter-text.md b/alan/books/all-about-alan/chapters/experiments/exp4-voice-reward-dose/dry-run-evidence.book-chapter.chapter-text.md
 deleted file mode 100644
 index e6d10373ade5b1038ce92ddefeb60e698f966299..0000000000000000000000000000000000000000
@@ -89417,10 +89416,10 @@ index 623b35c3fb21b1d55476a20e0f2cb5f37a0dcdf6..00000000000000000000000000000000
 -} as const satisfies PageType
 diff --git a/alan/library/reading/book-chapters/book-section.page-type.ts b/alan/library/reading/book-chapters/book-section.page-type.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..372e88ba3d47017b269af8cd41f53ed6967ad105
+index 0000000000000000000000000000000000000000..603b1a5ce704c11acaac7104109a7ea3ad70dfd4
 --- /dev/null
 +++ b/alan/library/reading/book-chapters/book-section.page-type.ts
-@@ -0,0 +1,52 @@
+@@ -0,0 +1,48 @@
 +import type { PageType } from "@akasha/pages/page-type"
 +import type { Collection } from "../../../../collections/collection.page-type.ts"
 +import type { Title } from "../../../../pages/properties/title.text-property.ts"
@@ -89447,29 +89446,25 @@ index 0000000000000000000000000000000000000000..372e88ba3d47017b269af8cd41f53ed6
 +  invariants: [
 +    {
 +      invariantKind: "departure",
-+      statement: "A chapter names the book the chapter is an instalment of.",
++      statement: "A section names the book the section is an instalment of.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A chapter's prose is a file beside the chapter's page.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement:
-+        "A chapter sits under the folders the book's own structure puts the chapter under.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A chapter's name is unique within its book rather than across every book.",
++      statement: "A section's prose is a file beside the section's page.",
 +    },
 +    {
 +      invariantKind: "departure",
 +      statement:
-+        "A chapter sharing a name inside one book is named for the folders telling those apart.",
++        "A section sits under the folders the book's own structure puts the section under.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A chapter opening its name with a number is slugged for its page type first.",
++      statement:
++        "A section's name is unique among the sections of the collection the section is part of.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A section opening its name with a number is slugged for its page type first.",
 +    },
 +  ],
 +} as const satisfies PageType
