@@ -27,7 +27,7 @@ export const placements = {
     },
     {
       invariantKind: "departure",
-      statement: "A placement says where a value goes rather than what the value is.",
+      statement: "A placement says where a value goes rather than holding the value.",
     },
     {
       invariantKind: "departure",
