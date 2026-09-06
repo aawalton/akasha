@@ -37,6 +37,32 @@ index 8a1671c1a3770c95a008a89b5929715851f59ad3..46348ea92c4e3b3dc70fab141b453892
      const wanted = known.targetOf(one.propertySlug)
      if (wanted === null) continue
      const listed = Array.isArray(one.held)
+diff --git a/pages/indexes/entries/index-entries.module.test-fixtures.ts b/pages/indexes/entries/index-entries.module.test-fixtures.ts
+index 29ee3334bef21e906ad9513634e2ff48a1b0412d..90426a87e4a04b3f28e60d852ee107845f8bed25 100644
+--- a/pages/indexes/entries/index-entries.module.test-fixtures.ts
++++ b/pages/indexes/entries/index-entries.module.test-fixtures.ts
+@@ -110,11 +110,13 @@ const TARGETS: Readonly<Record<string, string | readonly string[]>> = {
+   "noted-slugs": "domain",
+   "either-slug": ["domain", "note"],
+   "gone-slugs": "note",
++  "page-type-slug": "page-type",
+ }
+ 
+ const ADMITTING: Readonly<Record<string, readonly string[]>> = {
+   domain: ["domain", "module"],
+   note: ["note"],
++  "page-type": ["page-type"],
+ }
+ 
+ const MORTAL: ReadonlySet<string> = new Set(["note"])
+@@ -127,6 +129,7 @@ const KEYED: Readonly<Record<string, string>> = {
+   heldSlugs: "held-slugs",
+   holds: "holds",
+   inner: "inner",
++  pageTypeSlug: "page-type-slug",
+ }
+ 
+ export function shaped(pages: Readonly<Record<string, string>>): Shaped {
 diff --git a/pages/indexes/reaching/reaching.module.code.ts b/pages/indexes/reaching/reaching.module.code.ts
 index a5928dac150c859268a4c0711477d56365189854..75275095dbc1819574c6bfe487b8f5feb806447d 100644
 --- a/pages/indexes/reaching/reaching.module.code.ts
