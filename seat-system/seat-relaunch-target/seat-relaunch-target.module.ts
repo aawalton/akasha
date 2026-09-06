@@ -9,8 +9,11 @@ export const seatRelaunchTarget = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A seat's page is read before its history, the history answering only where no page stands.",
+      statement: "A seat's page is read before its history.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The history answers only where no page stands.",
     },
     {
       invariantKind: "departure",
@@ -18,8 +21,11 @@ export const seatRelaunchTarget = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Presence is asked by id, one answer serving a seat standing and a seat gone alike.",
+      statement: "Presence is asked by id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One answer serves a seat standing and a seat gone alike.",
     },
     {
       invariantKind: "departure",
