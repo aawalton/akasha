@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Four steps: 1 category, 2 right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero: a flag set true is no proof a check runs. Charge a check only what it adds on a shadow already read; that read is ~650ms the patch pays once for all 14. Peers at patch run 0-214ms median. Widening an approved check needs no approval. key-names-one-property is on, refusing 57. lint-clean is at step 4: 84ms fixed, 320ms at 576 files, 0 where it reads nothing; checks/ holds 27.",
+        "Four steps: 1 category, 2 right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero: a flag set true is no proof a check runs, but the count of checks judging rises when one goes on. Charge a check only what it adds on a shadow already read; that read is ~650ms the patch pays once. Peers run 0-214ms median. Widening an approved check needs no approval. key-names-one-property is on refusing 57. lint-clean is on refusing 302 of 80388. manifest-lands-on-a-file next.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
