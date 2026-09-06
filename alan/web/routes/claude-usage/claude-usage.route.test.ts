@@ -43,7 +43,7 @@ function answers(over: Partial<ClaudeUsageAnswers>): ClaudeUsageAnswers {
 function spent(...percents: readonly (number | null)[]): Asked {
   return {
     rows: percents.map((one, at) =>
-      one === null ? { slug: `a${at}` } : { slug: `a${at}`, sevenDayPercentUsed: one }
+      one === null ? { slug: `a${at}` } : { slug: `a${at}`, effectiveSevenDayUsage: one }
     ),
   }
 }
@@ -168,8 +168,7 @@ test("the mean is asked of every account, narrowing nothing", () => {
   const asking = askingsAt(NOW).meanWeeklyUsed
   expect(asking.pageTypeSlug).toBe(ACCOUNT)
   expect(asking.where).toBeUndefined()
-  expect(asking.keys).toContain("sevenDayPercentUsed")
-  expect(asking.keys).toContain("subscriptionDisabledReason")
+  expect(asking.keys).toContain("effectiveSevenDayUsage")
 })
 
 test("each pick narrows the way its saved query narrowed", () => {
@@ -177,15 +176,15 @@ test("each pick narrows the way its saved query narrowed", () => {
   const now = new Date(NOW).toISOString()
 
   expect(asking.nextFiveHourBack.where).toEqual({
-    fiveHourPercentUsed: { "at-or-after": 100 },
+    effectiveFiveHourUsage: { "at-or-after": 100 },
     fiveHourResetsAt: { "at-or-after": now },
   })
   expect(asking.nextSevenDayBack.where).toEqual({
-    sevenDayPercentUsed: { "at-or-after": 100 },
+    effectiveSevenDayUsage: { "at-or-after": 100 },
     sevenDayResetsAt: { "at-or-after": now },
   })
   expect(asking.nextSevenDayEnd.where).toEqual({
-    sevenDayPercentUsed: { before: 100 },
+    effectiveSevenDayUsage: { before: 100 },
     sevenDayResetsAt: { "at-or-after": now },
   })
 
@@ -198,6 +197,6 @@ test("each pick narrows the way its saved query narrowed", () => {
 })
 
 test("the threshold is stated as a number so the pages order it as one", () => {
-  const held = askingsAt(NOW).nextFiveHourBack.where?.fiveHourPercentUsed
+  const held = askingsAt(NOW).nextFiveHourBack.where?.effectiveFiveHourUsage
   expect(typeof held?.["at-or-after"]).toBe("number")
 })
