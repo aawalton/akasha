@@ -44,7 +44,7 @@ export const readoutTier = {
     },
     {
       invariantKind: "departure",
-      statement: "The tier above the one reached is the next rung the scale states.",
+      statement: "The tier above the tier reached is the next rung the scale states.",
     },
     {
       invariantKind: "departure",
