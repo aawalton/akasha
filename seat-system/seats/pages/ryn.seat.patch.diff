@@ -1,0 +1,897 @@
+diff --git a/seat-system/subagents/pages/ryn-a0af3ed5267f3c1e1.subagent.patch.diff b/seat-system/subagents/pages/ryn-a0af3ed5267f3c1e1.subagent.patch.diff
+deleted file mode 100644
+index 870e4a5a14afc305a93e0d37a7ad71049ad8186a..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a0af3ed5267f3c1e1.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/seat-system/seat-page-akasha/seat-page-akasha.module.ts b/seat-system/seat-page-akasha/seat-page-akasha.module.ts
+-index 6a83a276cb22a9f3101ef43d4bfcc8a04e4f0f25..51597a00c1d9201b2ebeb4bf24733ec91b0c48f5 100644
+---- a/seat-system/seat-page-akasha/seat-page-akasha.module.ts
+-+++ b/seat-system/seat-page-akasha/seat-page-akasha.module.ts
+-@@ -30,7 +30,7 @@ export const seatPageAkasha = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "A write that was refused carries what was said as its detail.",
+-+      statement: "A write that was refused carries the refusal's words as its detail.",
+-     },
+-   ],
+- } as const satisfies Module
+diff --git a/seat-system/subagents/pages/ryn-a0af3ed5267f3c1e1.subagent.ts b/seat-system/subagents/pages/ryn-a0af3ed5267f3c1e1.subagent.ts
+deleted file mode 100644
+index 250545a256ad622e8a34bd4e7bbd97aa6d755d9a..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a0af3ed5267f3c1e1.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA0af3ed5267f3c1e1 = {
+-  id: "01a072e1-32e4-7c75-a3ec-47877e9784b8",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a0af3ed5267f3c1e1",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a0af3ed5267f3c1e1",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a1fb186e5373fabce.subagent.patch.diff b/seat-system/subagents/pages/ryn-a1fb186e5373fabce.subagent.patch.diff
+deleted file mode 100644
+index ba7c2586e156fb9c5d19f16e64d12d5fc8f27c30..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a1fb186e5373fabce.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/collections/collection-externals/collection-external.page-type.ts b/collections/collection-externals/collection-external.page-type.ts
+-index ae54dd68f600a5bc35e51704eed330125cfcf923..7f41cc941268999f9dacbc4d8b035a17ce17905c 100644
+---- a/collections/collection-externals/collection-external.page-type.ts
+-+++ b/collections/collection-externals/collection-external.page-type.ts
+-@@ -38,7 +38,7 @@ export const collectionExternal = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "What a person records about a collection outlives every sync.",
+-+      statement: "A field a person records about a collection outlives every sync.",
+-     },
+-     {
+-       invariantKind: "departure",
+diff --git a/seat-system/subagents/pages/ryn-a1fb186e5373fabce.subagent.ts b/seat-system/subagents/pages/ryn-a1fb186e5373fabce.subagent.ts
+deleted file mode 100644
+index 45ff6ff8c28c760ff3f17aeba6decca79451f654..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a1fb186e5373fabce.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA1fb186e5373fabce = {
+-  id: "01a0732d-2f0b-76d5-98e6-d9b5c0e6943d",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a1fb186e5373fabce",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a1fb186e5373fabce",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a20376bc60b79e11e.subagent.patch.diff b/seat-system/subagents/pages/ryn-a20376bc60b79e11e.subagent.patch.diff
+deleted file mode 100644
+index 5862eb82e424d670f15d6c578c634bf5d28c5f8b..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a20376bc60b79e11e.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/collections/properties/parts-length-in-words.number-property.ts b/collections/properties/parts-length-in-words.number-property.ts
+-index 7a420c9ff3f408464a9b3bef886c907244bb5d6b..3af57d2efdeeadbf8542b6c01a69bfbc2680e652 100644
+---- a/collections/properties/parts-length-in-words.number-property.ts
+-+++ b/collections/properties/parts-length-in-words.number-property.ts
+-@@ -17,7 +17,7 @@ export const partsLengthInWords = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "What is added up is each part's own total length in words.",
+-+      statement: "Each part's own total length in words is added up.",
+-     },
+-     {
+-       invariantKind: "gap",
+diff --git a/seat-system/subagents/pages/ryn-a23fcab9aa2435e87.subagent.patch.diff b/seat-system/subagents/pages/ryn-a23fcab9aa2435e87.subagent.patch.diff
+deleted file mode 100644
+index 20dc7064fa09f9eccee1e2876b5e2c898762ac20..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a23fcab9aa2435e87.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/story/story-chapters-read/properties/removed-at.instant-property.ts b/story/story-chapters-read/properties/removed-at.instant-property.ts
+-index b79b85a26346efb61f51362a6bcc6fffc908dd69..eff8932f59c48004061fa41ba6410ff8841542ea 100644
+---- a/story/story-chapters-read/properties/removed-at.instant-property.ts
+-+++ b/story/story-chapters-read/properties/removed-at.instant-property.ts
+-@@ -12,7 +12,7 @@ export const removedAt = {
+-     {
+-       invariantKind: "departure",
+-       statement:
+--        "What akasha holds of a collection is kept after the source takes the collection down.",
+-+        "The pages akasha holds of a collection are kept after the source takes the collection down.",
+-     },
+-   ],
+- } as const satisfies InstantProperty
+diff --git a/seat-system/subagents/pages/ryn-a23fcab9aa2435e87.subagent.ts b/seat-system/subagents/pages/ryn-a23fcab9aa2435e87.subagent.ts
+deleted file mode 100644
+index f8ab5117142f32e1a54aa757410c952857259d79..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a23fcab9aa2435e87.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA23fcab9aa2435e87 = {
+-  id: "01a0732d-9b2c-73a0-9656-228f94d10b8c",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a23fcab9aa2435e87",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a23fcab9aa2435e87",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a33c0f1cecb54d861.subagent.patch.diff b/seat-system/subagents/pages/ryn-a33c0f1cecb54d861.subagent.patch.diff
+deleted file mode 100644
+index c6ce618e2f9956d223fef58f27b2859d4fcb31ed..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a33c0f1cecb54d861.subagent.patch.diff
++++ /dev/null
+@@ -1,23 +0,0 @@
+-runsWarrants: false
+-diff --git a/pages/types/page-properties/properties/property-slug.text-property.ts b/pages/types/page-properties/properties/property-slug.text-property.ts
+-index 759bcb0ff6a6d246f764209b4d022d29b1a525ac..b0472265b556de9c09af366196fb67c547bacfac 100644
+---- a/pages/types/page-properties/properties/property-slug.text-property.ts
+-+++ b/pages/types/page-properties/properties/property-slug.text-property.ts
+-@@ -14,7 +14,7 @@ export const propertySlug = {
+-     {
+-       invariantKind: "departure",
+-       statement:
+--        "A key is unique among the properties one page type carries including what that page type inherits.",
+-+        "A key is unique among the properties one page type carries including the properties inherited.",
+-     },
+-     {
+-       invariantKind: "departure",
+-@@ -34,7 +34,7 @@ export const propertySlug = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "A key drops what its declarer's name already says.",
+-+      statement: "A key drops the words its declarer's name already says.",
+-     },
+-     {
+-       invariantKind: "departure",
+diff --git a/seat-system/subagents/pages/ryn-a33c0f1cecb54d861.subagent.ts b/seat-system/subagents/pages/ryn-a33c0f1cecb54d861.subagent.ts
+deleted file mode 100644
+index d18e463fa9bf495bd4a7a8ca07d1f6a0f81c1860..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a33c0f1cecb54d861.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA33c0f1cecb54d861 = {
+-  id: "01a072e1-1a56-737d-b0d8-6b8ebfdd9dfd",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a33c0f1cecb54d861",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a33c0f1cecb54d861",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a380a53ef67b77964.subagent.patch.diff b/seat-system/subagents/pages/ryn-a380a53ef67b77964.subagent.patch.diff
+deleted file mode 100644
+index 4ca1218ca60af5a9517ff24319b65172dddd7632..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a380a53ef67b77964.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/pages/storage/page-storage.domain.ts b/pages/storage/page-storage.domain.ts
+-index 28485ffa3d97c47ece9721543277f12577ddd6bc..8d08a904de04a90163d3aaddf4a66c1fac8c6f63 100644
+---- a/pages/storage/page-storage.domain.ts
+-+++ b/pages/storage/page-storage.domain.ts
+-@@ -42,7 +42,7 @@ export const pageStorage = {
+-     {
+-       invariantKind: "departure",
+-       statement:
+--        "The page a relation names is found by what the files say rather than by what the files are called.",
+-+        "The page a relation names is found by the values the files hold rather than by the file names.",
+-     },
+-     {
+-       invariantKind: "gap",
+diff --git a/seat-system/subagents/pages/ryn-a587f227455313e82.subagent.patch.diff b/seat-system/subagents/pages/ryn-a587f227455313e82.subagent.patch.diff
+deleted file mode 100644
+index 847db190b0d3abb26fa41b3dcc35ede8fdcb8e6a..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a587f227455313e82.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/pages/file-properties/properties/machine-written.boolean-property.ts b/pages/file-properties/properties/machine-written.boolean-property.ts
+-index 99521122050a4a620294636bdcf56ac2e054e894..9e8586c2308f31581261cfa12398df30dc192cb7 100644
+---- a/pages/file-properties/properties/machine-written.boolean-property.ts
+-+++ b/pages/file-properties/properties/machine-written.boolean-property.ts
+-@@ -11,7 +11,7 @@ export const machineWritten = {
+-   invariants: [
+-     {
+-       invariantKind: "departure",
+--      statement: "A property saying nothing here holds what an author writes.",
+-+      statement: "A property saying nothing here holds the files an author writes.",
+-     },
+-     {
+-       invariantKind: "departure",
+diff --git a/seat-system/subagents/pages/ryn-a587f227455313e82.subagent.ts b/seat-system/subagents/pages/ryn-a587f227455313e82.subagent.ts
+deleted file mode 100644
+index 0102df7c62880024b9bb6da91ac92f7fed11f55c..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a587f227455313e82.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA587f227455313e82 = {
+-  id: "01a0732c-8954-7c32-81f4-fc9c709cc589",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a587f227455313e82",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a587f227455313e82",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a588b3b9db67068b1.subagent.patch.diff b/seat-system/subagents/pages/ryn-a588b3b9db67068b1.subagent.patch.diff
+deleted file mode 100644
+index 6684d6fdfb4a12a440186286f6aa5b50ccd8fb1d..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a588b3b9db67068b1.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/domains/properties/aids.text-property.ts b/domains/properties/aids.text-property.ts
+-index ca71ad029bef6fa98fbd2288bb7d443fc94c9cc4..cdd30d17d28f40c5ce7ca7873410f9c92c118891 100644
+---- a/domains/properties/aids.text-property.ts
+-+++ b/domains/properties/aids.text-property.ts
+-@@ -15,7 +15,7 @@ export const aids = {
+-   invariants: [
+-     {
+-       invariantKind: "departure",
+--      statement: "An aid runs to what an act or a warrant runs to.",
+-+      statement: "An aid runs to the length an act or a warrant runs to.",
+-     },
+-   ],
+- } as const satisfies TextProperty
+diff --git a/seat-system/subagents/pages/ryn-a588b3b9db67068b1.subagent.ts b/seat-system/subagents/pages/ryn-a588b3b9db67068b1.subagent.ts
+deleted file mode 100644
+index 6e1143a82dd0a36bbd461d7ff93a708c284e370f..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a588b3b9db67068b1.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA588b3b9db67068b1 = {
+-  id: "01a072e0-ebb6-71dd-aacb-61f8afadfc23",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a588b3b9db67068b1",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a588b3b9db67068b1",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a639924040b874640.subagent.patch.diff b/seat-system/subagents/pages/ryn-a639924040b874640.subagent.patch.diff
+deleted file mode 100644
+index 3668e3dd8c1a673c6f2446ce425c07c1327add47..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a639924040b874640.subagent.patch.diff
++++ /dev/null
+@@ -1,138 +0,0 @@
+-diff --git a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
+-index 2b0f157a05b337d197dd3001ef25d42f41a652bb..199e20ca2931ca4e26e631cd3962687b160ff02d 100644
+---- a/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
+-+++ b/imessage/commands/imessage-command-reading/imessage-command-reading.module.ts
+-@@ -18,7 +18,8 @@ export const imessageCommandReading = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "A flag whose value is another flag this takes is a flag no value followed.",
+-+      statement:
+-+        "A flag whose value is another flag this module takes is a flag no value followed.",
+-     },
+-     {
+-       invariantKind: "departure",
+-diff --git a/infrastructure/backup-retention/backup-retention.workspace-package.ts b/infrastructure/backup-retention/backup-retention.workspace-package.ts
+-index 1b946abc35bf1e2b56388f4e9e4c642716a051b6..4cd8376bce670effbc1f6417771438ea7a5e7d99 100644
+---- a/infrastructure/backup-retention/backup-retention.workspace-package.ts
+-+++ b/infrastructure/backup-retention/backup-retention.workspace-package.ts
+-@@ -51,7 +51,7 @@ export const backupRetention = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "The cluster runs both of these on a schedule.",
+-+      statement: "The cluster runs both of these programs on a schedule.",
+-     },
+-   ],
+- } as const satisfies WorkspacePackage
+-diff --git a/markdown-pages/markdown-page-address/markdown-page-address.module.ts b/markdown-pages/markdown-page-address/markdown-page-address.module.ts
+-index eb55ba1c2a6667e530f32abbd50337fd2ca9bf59..efb75d1dda9fb951fd220c3c8948b0f45dbe4926 100644
+---- a/markdown-pages/markdown-page-address/markdown-page-address.module.ts
+-+++ b/markdown-pages/markdown-page-address/markdown-page-address.module.ts
+-@@ -9,7 +9,7 @@ export const markdownPageAddress = {
+-   invariants: [
+-     {
+-       invariantKind: "departure",
+--      statement: "This says what form an address takes and looks no page up.",
+-+      statement: "This module says what form an address takes and looks no page up.",
+-     },
+-     { invariantKind: "departure", statement: "A page type and a slug are cut at the first `/`." },
+-   ],
+-diff --git a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+-index 2df4b6b2a36f2edec1e4f02b4e9713f506f4ba32..eca29f51ccd2df8a0361932e0cdb8755e94eeebe 100644
+---- a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+-+++ b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+-@@ -30,7 +30,7 @@ export const mobileSimStatus = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "An age is measured against the moment this was called.",
+-+      statement: "An age is measured against the moment this command was called.",
+-     },
+-     {
+-       invariantKind: "absence",
+-diff --git a/pages/landing-judge/page-landing-judge.module.ts b/pages/landing-judge/page-landing-judge.module.ts
+-index 47fdcb664087ca62f595d410320ccd39609acb51..6ba3e0b59097f4f030656373567d4da54852e0ca 100644
+---- a/pages/landing-judge/page-landing-judge.module.ts
+-+++ b/pages/landing-judge/page-landing-judge.module.ts
+-@@ -13,7 +13,7 @@ export const pageLandingJudge = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "Three of those acts land on a row rather than on the page.",
+-+      statement: "Three of the eight named acts land on a row rather than on the page.",
+-     },
+-     {
+-       invariantKind: "absence",
+-diff --git a/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts b/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts
+-index 4a025d842b7c067abde8d2bd816be84df1fdb7a0..03ad40aa601c2870a8833ea9b64c70dd4547ca6d 100644
+---- a/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts
+-+++ b/person-system/device-secrets/properties/device-secret-revoked-at.instant-property.ts
+-@@ -11,7 +11,7 @@ export const deviceSecretRevokedAt = {
+-   invariants: [
+-     {
+-       invariantKind: "departure",
+--      statement: "A device secret stating none of this still stands.",
+-+      statement: "A device secret stating no `revoked-at` is still taken.",
+-     },
+-   ],
+- } as const satisfies InstantProperty
+-diff --git a/seat-system/compose-notices/compose-notices.module.ts b/seat-system/compose-notices/compose-notices.module.ts
+-index c76c054000e921424babde7cefc1a45274e28313..575583f442e81807a5f473382d92e8f8cbde9ac4 100644
+---- a/seat-system/compose-notices/compose-notices.module.ts
+-+++ b/seat-system/compose-notices/compose-notices.module.ts
+-@@ -9,7 +9,8 @@ export const composeNotices = {
+-   invariants: [
+-     {
+-       invariantKind: "departure",
+--      statement: "This is run as its own program rather than imported by what asks for a notice.",
+-+      statement:
+-+        "This module is run as its own program rather than imported by what asks for a notice.",
+-     },
+-     {
+-       invariantKind: "departure",
+-@@ -22,7 +23,7 @@ export const composeNotices = {
+-     {
+-       invariantKind: "departure",
+-       statement:
+--        "A folder that is not there, or that holds no notice, is refused rather than empty.",
+-+        "A folder that is not there, or one that holds no notice, is refused rather than empty.",
+-     },
+-     {
+-       invariantKind: "gap",
+-diff --git a/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts b/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts
+-index 713772d36d9db109d261ac7cfe9dc83fb81b0cf4..8889e0fc6b42bca1f48f049c9732ddb5e8ed43a1 100644
+---- a/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts
+-+++ b/seat-system/seat-conditions/properties/auto-compact-window.number-property.ts
+-@@ -12,7 +12,8 @@ export const autoCompactWindow = {
+-   invariants: [
+-     {
+-       invariantKind: "constraint",
+--      statement: "What runs the agent holds this between 100,000 and 1,000,000 whatever is stated.",
+-+      statement:
+-+        "What runs the agent holds this count between 100,000 and 1,000,000 whatever is stated.",
+-     },
+-     {
+-       invariantKind: "departure",
+-diff --git a/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts b/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
+-index 091210add32e8fa0468741cf9f6b67c90ab98464..cc40c362004ecc8b068160484f14cd83d874bff8 100644
+---- a/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
+-+++ b/seat-system/seat-fleet-restart/seat-fleet-restart.module.ts
+-@@ -9,7 +9,7 @@ export const seatFleetRestart = {
+-   invariants: [
+-     {
+-       invariantKind: "departure",
+--      statement: "The ops dispatcher imports this and calls the default export it declares.",
+-+      statement: "The ops dispatcher imports this module and calls the default export it declares.",
+-     },
+-     {
+-       invariantKind: "departure",
+-@@ -17,7 +17,7 @@ export const seatFleetRestart = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "A client this cannot read is left alone rather than counted as behind.",
+-+      statement: "A client this module cannot read is left alone rather than counted as behind.",
+-     },
+-     {
+-       invariantKind: "departure",
+diff --git a/seat-system/subagents/pages/ryn-a639924040b874640.subagent.ts b/seat-system/subagents/pages/ryn-a639924040b874640.subagent.ts
+deleted file mode 100644
+index 94b29de0f7cf728c4a133c642cff3d0052bea2a8..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a639924040b874640.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA639924040b874640 = {
+-  id: "01a071ce-a1a0-7406-bd2d-57869b0e8fec",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a639924040b874640",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a639924040b874640",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a78980fa86662c036.subagent.patch.diff b/seat-system/subagents/pages/ryn-a78980fa86662c036.subagent.patch.diff
+deleted file mode 100644
+index 15ae09fef6955d91d5fd65d90205256f640275a2..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a78980fa86662c036.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/domains/properties/invariants.record-property.ts b/domains/properties/invariants.record-property.ts
+-index 1488806701de5f6eaa1840653be22f3888898509..ce6637973e361e36dfca4e90849bd0c71d810747 100644
+---- a/domains/properties/invariants.record-property.ts
+-+++ b/domains/properties/invariants.record-property.ts
+-@@ -31,7 +31,7 @@ export const invariants = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "An invariant states what is true rather than why.",
+-+      statement: "An invariant states the truth rather than the reason behind that truth.",
+-     },
+-     {
+-       invariantKind: "departure",
+diff --git a/seat-system/subagents/pages/ryn-a78980fa86662c036.subagent.ts b/seat-system/subagents/pages/ryn-a78980fa86662c036.subagent.ts
+deleted file mode 100644
+index 00d5a227810eeaf4af6456231404a98860ffa30b..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a78980fa86662c036.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA78980fa86662c036 = {
+-  id: "01a072e1-0fb8-7a02-8a8c-d5164e2b44d5",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a78980fa86662c036",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a78980fa86662c036",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a799fd30757d4e574.subagent.patch.diff b/seat-system/subagents/pages/ryn-a799fd30757d4e574.subagent.patch.diff
+deleted file mode 100644
+index c8d7a2673151fad235e48da2fbff08ef1de31382..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a799fd30757d4e574.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/domains/properties/aids.text-property.ts b/domains/properties/aids.text-property.ts
+-index 8e4fb6ae51f50a4f7b8a66a78593bf7c8c2326b5..819e4d3641ca0a4b44df8e2591c733010bbbdeaf 100644
+---- a/domains/properties/aids.text-property.ts
+-+++ b/domains/properties/aids.text-property.ts
+-@@ -15,7 +15,7 @@ export const aids = {
+-   invariants: [
+-     {
+-       invariantKind: "departure",
+--      statement: "An aid runs to what an act or a warrant runs to.",
+-+      statement: "An aid runs to the same length as an act or a warrant.",
+-     },
+-   ],
+- } as const satisfies TextProperty
+diff --git a/seat-system/subagents/pages/ryn-a799fd30757d4e574.subagent.ts b/seat-system/subagents/pages/ryn-a799fd30757d4e574.subagent.ts
+deleted file mode 100644
+index 3f1a8250a0d26a80be2df83734d10ab827839d14..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a799fd30757d4e574.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA799fd30757d4e574 = {
+-  id: "01a0732c-9a22-7abe-b9e3-e65c5c98b13c",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a799fd30757d4e574",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a799fd30757d4e574",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a935093565fab7010.subagent.patch.diff b/seat-system/subagents/pages/ryn-a935093565fab7010.subagent.patch.diff
+deleted file mode 100644
+index 71cac502a3812ae918e340658da6d64d141cc2ff..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a935093565fab7010.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/collections/properties/parts-progress-in-words.number-property.ts b/collections/properties/parts-progress-in-words.number-property.ts
+-index f2f784b8db164215b53e78dea0ed9a989a1ed066..61f876e10d6377ee1577f59ea234b88cdd77d578 100644
+---- a/collections/properties/parts-progress-in-words.number-property.ts
+-+++ b/collections/properties/parts-progress-in-words.number-property.ts
+-@@ -17,7 +17,7 @@ export const partsProgressInWords = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "What is added up is each part's own total progress in words.",
+-+      statement: "Each part's own total progress in words is added up.",
+-     },
+-     {
+-       invariantKind: "gap",
+diff --git a/seat-system/subagents/pages/ryn-a935093565fab7010.subagent.ts b/seat-system/subagents/pages/ryn-a935093565fab7010.subagent.ts
+deleted file mode 100644
+index c22c13fa5d600a2aa67da3d86d3ea228a7f08eff..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a935093565fab7010.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA935093565fab7010 = {
+-  id: "01a072e0-8df4-7119-87f4-92ec94833bcf",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a935093565fab7010",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a935093565fab7010",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-a948ced67de362bd8.subagent.patch.diff b/seat-system/subagents/pages/ryn-a948ced67de362bd8.subagent.patch.diff
+deleted file mode 100644
+index 76ea922bff4c76cb651ab3a4016733ef911170af..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a948ced67de362bd8.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/code-system/modules/module.page-type.ts b/code-system/modules/module.page-type.ts
+-index d07addf1f2e451b8ddef87f4b5610206868e41af..40aaf9bae35191309e08a91a32bd1f1c6811d7e1 100644
+---- a/code-system/modules/module.page-type.ts
+-+++ b/code-system/modules/module.page-type.ts
+-@@ -30,7 +30,7 @@ export const module = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "A module page states what its code is for.",
+-+      statement: "A module page states its code's purpose.",
+-     },
+-     {
+-       invariantKind: "departure",
+diff --git a/seat-system/subagents/pages/ryn-a948ced67de362bd8.subagent.ts b/seat-system/subagents/pages/ryn-a948ced67de362bd8.subagent.ts
+deleted file mode 100644
+index 4e67c7e39db2b28523b1631213a1ef3ea0144869..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-a948ced67de362bd8.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynA948ced67de362bd8 = {
+-  id: "01a0732c-f469-72a9-bd74-bc46dd95a965",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-a948ced67de362bd8",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--a948ced67de362bd8",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-aa384ccb3919a41a3.subagent.patch.diff b/seat-system/subagents/pages/ryn-aa384ccb3919a41a3.subagent.patch.diff
+deleted file mode 100644
+index 71cac502a3812ae918e340658da6d64d141cc2ff..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-aa384ccb3919a41a3.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/collections/properties/parts-progress-in-words.number-property.ts b/collections/properties/parts-progress-in-words.number-property.ts
+-index f2f784b8db164215b53e78dea0ed9a989a1ed066..61f876e10d6377ee1577f59ea234b88cdd77d578 100644
+---- a/collections/properties/parts-progress-in-words.number-property.ts
+-+++ b/collections/properties/parts-progress-in-words.number-property.ts
+-@@ -17,7 +17,7 @@ export const partsProgressInWords = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "What is added up is each part's own total progress in words.",
+-+      statement: "Each part's own total progress in words is added up.",
+-     },
+-     {
+-       invariantKind: "gap",
+diff --git a/seat-system/subagents/pages/ryn-aa384ccb3919a41a3.subagent.ts b/seat-system/subagents/pages/ryn-aa384ccb3919a41a3.subagent.ts
+deleted file mode 100644
+index f8138aa37609794c9bd35dcd50119770c34e5bab..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-aa384ccb3919a41a3.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynAa384ccb3919a41a3 = {
+-  id: "01a0732d-3f96-786e-b38f-21305d370927",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-aa384ccb3919a41a3",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--aa384ccb3919a41a3",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-ab7a62453c34c27a9.subagent.patch.diff b/seat-system/subagents/pages/ryn-ab7a62453c34c27a9.subagent.patch.diff
+deleted file mode 100644
+index d5214fba4802bf21f7d8171116cc9f5ddac3fb5a..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-ab7a62453c34c27a9.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/domains/properties/definition.text-property.ts b/domains/properties/definition.text-property.ts
+-index 8c7834084366466f609b043706c3554179d0999f..c39ac8cd58bccd5e83c7e39aecc56eb9bfc2b442 100644
+---- a/domains/properties/definition.text-property.ts
+-+++ b/domains/properties/definition.text-property.ts
+-@@ -13,7 +13,7 @@ export const definition = {
+-   invariants: [
+-     {
+-       invariantKind: "absence",
+--      statement: "A definition holds no clause saying what the thing is for.",
+-+      statement: "A definition holds no clause naming the thing's purpose.",
+-     },
+-     {
+-       invariantKind: "absence",
+diff --git a/seat-system/subagents/pages/ryn-ab7a62453c34c27a9.subagent.ts b/seat-system/subagents/pages/ryn-ab7a62453c34c27a9.subagent.ts
+deleted file mode 100644
+index 4cb62462eed01671617c85c99181024045e4c432..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-ab7a62453c34c27a9.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynAb7a62453c34c27a9 = {
+-  id: "01a0732c-e512-7a7c-a321-2d858ba41520",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-ab7a62453c34c27a9",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--ab7a62453c34c27a9",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-ab881b0ac0d95d229.subagent.patch.diff b/seat-system/subagents/pages/ryn-ab881b0ac0d95d229.subagent.patch.diff
+deleted file mode 100644
+index 0dcd07fb55e0120ec9357174fb7096a7139f412b..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-ab881b0ac0d95d229.subagent.patch.diff
++++ /dev/null
+@@ -1,126 +0,0 @@
+-diff --git a/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts b/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts
+-index 749a7e1c9bab51cd89d21ddcab17e0607b2bc344..659fb2916562da1b70f5e1b13088a49249b05c62 100644
+---- a/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts
+-+++ b/infrastructure/auth-proxy/auth-proxy-config/auth-proxy-config.module.ts
+-@@ -9,7 +9,7 @@ export const authProxyConfig = {
+-   invariants: [
+-     {
+-       invariantKind: "departure",
+--      statement: "Loading this reads the environment once and never again.",
+-+      statement: "Loading this module reads the environment once and never again.",
+-     },
+-     {
+-       invariantKind: "departure",
+-diff --git a/infrastructure/voice-inference/voice-inference.workspace-package.ts b/infrastructure/voice-inference/voice-inference.workspace-package.ts
+-index 4680f12f88d7d97724bba082f33d37a8c550016a..51bf8e70cc0ecfd40b2a7e32088645fd54a7003b 100644
+---- a/infrastructure/voice-inference/voice-inference.workspace-package.ts
+-+++ b/infrastructure/voice-inference/voice-inference.workspace-package.ts
+-@@ -26,7 +26,7 @@ export const voiceInference = {
+-     },
+-     {
+-       invariantKind: "constraint",
+--      statement: "The card this runs on takes int8 weights and not float16 ones.",
+-+      statement: "The card this workload runs on takes int8 weights and not float16 ones.",
+-     },
+-   ],
+- } as const satisfies WorkspacePackage
+-diff --git a/mobile-cli/sim-run-tree/sim-run-tree.module.ts b/mobile-cli/sim-run-tree/sim-run-tree.module.ts
+-index 9d589bc060bb2af7d4b1a659b2e492e064865afb..359d71abcf39998e5dde48028196b1f90a513f65 100644
+---- a/mobile-cli/sim-run-tree/sim-run-tree.module.ts
+-+++ b/mobile-cli/sim-run-tree/sim-run-tree.module.ts
+-@@ -22,7 +22,7 @@ export const simRunTree = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "One missing path among those named refuses the delivery of every path.",
+-+      statement: "One missing path among the paths named refuses the delivery of every path.",
+-     },
+-     {
+-       invariantKind: "constraint",
+-diff --git a/pages/derive-shape/page-derive-shape.module.ts b/pages/derive-shape/page-derive-shape.module.ts
+-index a4f608218a61df69a050fa88f389dc7b67da2b2d..37ad27abe7d499794d0c99efda6eb30aa6a45247 100644
+---- a/pages/derive-shape/page-derive-shape.module.ts
+-+++ b/pages/derive-shape/page-derive-shape.module.ts
+-@@ -21,7 +21,7 @@ export const pageDeriveShape = {
+-     },
+-     {
+-       invariantKind: "absence",
+--      statement: "Nothing here holds a value; these are the shapes a deriver answers in.",
+-+      statement: "Nothing here holds a value; here are the shapes a deriver answers in.",
+-     },
+-   ],
+- } as const satisfies Module
+-diff --git a/pages/query-shape/page-query-shape.module.ts b/pages/query-shape/page-query-shape.module.ts
+-index 1fbfe763f1c76a793716239a1e1d0197d57de02a..4d79c5f30ca18cf9b5254a4f13c37dcddca4a821 100644
+---- a/pages/query-shape/page-query-shape.module.ts
+-+++ b/pages/query-shape/page-query-shape.module.ts
+-@@ -25,7 +25,7 @@ export const pageQueryShape = {
+-     },
+-     {
+-       invariantKind: "absence",
+--      statement: "Nothing here answers a query; these are the shapes a query is said in.",
+-+      statement: "Nothing here answers a query; here are the shapes a query is said in.",
+-     },
+-   ],
+- } as const satisfies Module
+-diff --git a/seat-system/channel-delivery/channel-delivery.module.ts b/seat-system/channel-delivery/channel-delivery.module.ts
+-index f78a82abfc4cb3b5e4748f59bb0f8fb1c081ff3d..89f91ee9611b1c28bd52a4e60d20fd085cc63915 100644
+---- a/seat-system/channel-delivery/channel-delivery.module.ts
+-+++ b/seat-system/channel-delivery/channel-delivery.module.ts
+-@@ -10,7 +10,7 @@ export const channelDelivery = {
+-   invariants: [
+-     {
+-       invariantKind: "departure",
+--      statement: "A transcript line this cannot read is passed over rather than refused.",
+-+      statement: "A transcript line this module cannot read is passed over rather than refused.",
+-     },
+-     {
+-       invariantKind: "departure",
+-diff --git a/seat-system/recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.ts b/seat-system/recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.ts
+-index 25bcf7669684a19c1bdaa3ad29f12d5e5394ce7f..aaa34fe94326edd8f3137804076090364b3e135d 100644
+---- a/seat-system/recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.ts
+-+++ b/seat-system/recipient-resolving/blocked-principal-decide/blocked-principal-decide.module.ts
+-@@ -11,7 +11,7 @@ export const blockedPrincipalDecide = {
+-     {
+-       invariantKind: "gap",
+-       statement:
+--        "Nothing binds an agent to work another party waits on, so no principal is derivable and this says so rather than guessing one.",
+-+        "Nothing binds an agent to work another party waits on, so no principal is derivable and this module says so rather than guessing one.",
+-     },
+-     {
+-       invariantKind: "departure",
+-diff --git a/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts b/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts
+-index 9bce295a06120bb247f0da4b45f042183933acd7..14feb3d710003fdf715d22abf0bc9a530849f8ca 100644
+---- a/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts
+-+++ b/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts
+-@@ -13,7 +13,7 @@ export const seatConditionsModel = {
+-   invariants: [
+-     {
+-       invariantKind: "departure",
+--      statement: "A subagent naming no model of its own answers on this too.",
+-+      statement: "A subagent naming no model of its own answers on this model too.",
+-     },
+-   ],
+- } as const satisfies TextProperty
+-diff --git a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
+-index a40233a55e4d4f23b193b72043ba90041824fb1f..f9857f8bf5d93b9dc5139a46b50f18566a6fa24d 100644
+---- a/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
+-+++ b/seat-system/seat-pending/pending-maintaining/pending-maintaining.module.ts
+-@@ -33,7 +33,7 @@ export const pendingMaintaining = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "A file changing is the only thing that moves this.",
+-+      statement: "A file changing is the only thing that moves this module.",
+-     },
+-     {
+-       invariantKind: "departure",
+-@@ -41,7 +41,7 @@ export const pendingMaintaining = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "A turn starts in a transcript rather than in a store this writes.",
+-+      statement: "A turn starts in a transcript rather than in a store this module writes.",
+-     },
+-     {
+-       invariantKind: "departure",
+diff --git a/seat-system/subagents/pages/ryn-ab881b0ac0d95d229.subagent.ts b/seat-system/subagents/pages/ryn-ab881b0ac0d95d229.subagent.ts
+deleted file mode 100644
+index 3154d65b3164f3b41e4108f35cedaf07697607d0..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-ab881b0ac0d95d229.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynAb881b0ac0d95d229 = {
+-  id: "01a071cf-1588-7775-b211-f7c159d6133a",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-ab881b0ac0d95d229",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--ab881b0ac0d95d229",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-abbfbfe2aac08aa0d.subagent.patch.diff b/seat-system/subagents/pages/ryn-abbfbfe2aac08aa0d.subagent.patch.diff
+deleted file mode 100644
+index 285afbfc604df9554b35a033d5496df4f62819fb..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-abbfbfe2aac08aa0d.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/domains/domain.page-type.ts b/domains/domain.page-type.ts
+-index 65c6e1f267f8c92a5c602f3708aa1624e78d2eef..830c2bf0588cc33a49c128e298783373048a97cc 100644
+---- a/domains/domain.page-type.ts
+-+++ b/domains/domain.page-type.ts
+-@@ -51,7 +51,7 @@ export const domain = {
+-     {
+-       invariantKind: "departure",
+-       statement:
+--        "What makes a page a domain is its page type rather than the folder the page sits in.",
+-+        "A page's page type rather than the folder the page sits in makes that page a domain.",
+-     },
+-     {
+-       invariantKind: "departure",
+diff --git a/seat-system/subagents/pages/ryn-abbfbfe2aac08aa0d.subagent.ts b/seat-system/subagents/pages/ryn-abbfbfe2aac08aa0d.subagent.ts
+deleted file mode 100644
+index 7854dddc3d44b46bd584b8fd3681fdc554bb79ef..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-abbfbfe2aac08aa0d.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynAbbfbfe2aac08aa0d = {
+-  id: "01a0732d-aaa0-7e3a-aa62-bfcb810a0b6b",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-abbfbfe2aac08aa0d",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--abbfbfe2aac08aa0d",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-ad1a2eb01afdd5bc0.subagent.patch.diff b/seat-system/subagents/pages/ryn-ad1a2eb01afdd5bc0.subagent.patch.diff
+deleted file mode 100644
+index f6f246126bba6741aa9a441927c6beedd4b07ee3..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-ad1a2eb01afdd5bc0.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/domains/properties/invariants.record-property.ts b/domains/properties/invariants.record-property.ts
+-index 1488806701de5f6eaa1840653be22f3888898509..8ca49e968905b6931b1d47ab32397e1eef8fa46d 100644
+---- a/domains/properties/invariants.record-property.ts
+-+++ b/domains/properties/invariants.record-property.ts
+-@@ -31,7 +31,7 @@ export const invariants = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "An invariant states what is true rather than why.",
+-+      statement: "An invariant states a truth rather than a reason.",
+-     },
+-     {
+-       invariantKind: "departure",
+diff --git a/seat-system/subagents/pages/ryn-ad1a2eb01afdd5bc0.subagent.ts b/seat-system/subagents/pages/ryn-ad1a2eb01afdd5bc0.subagent.ts
+deleted file mode 100644
+index 05736c0e3a059b60b4e649e6c3acd13468eed29f..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-ad1a2eb01afdd5bc0.subagent.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Subagent } from "../subagent.page-type.ts"
+-
+-export const rynAd1a2eb01afdd5bc0 = {
+-  id: "01a0732c-a8bd-7cdc-a6b1-39b1843f0e89",
+-  pageTypeSlug: "subagent",
+-  slug: "ryn-ad1a2eb01afdd5bc0",
+-  principalSeatName: "ryn",
+-  assignmentSlug: "initiative/ryn-trained-parser",
+-  dispatchedAs: "general-purpose",
+-  agentId: "01a06c47-5b71-7000-bab3-06f11b6b9fcf--ad1a2eb01afdd5bc0",
+-} as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/ryn-af2f5c3014d8559b1.subagent.patch.diff b/seat-system/subagents/pages/ryn-af2f5c3014d8559b1.subagent.patch.diff
+deleted file mode 100644
+index e21c09c7fb99f99a0579e3552d7ca3ef4a90fc3a..0000000000000000000000000000000000000000
+--- a/seat-system/subagents/pages/ryn-af2f5c3014d8559b1.subagent.patch.diff
++++ /dev/null
+@@ -1,14 +0,0 @@
+-runsWarrants: false
+-diff --git a/commands/restore/restore.command.ts b/commands/restore/restore.command.ts
+-index 1a6bc61fe325b609e11ee049fa909eecaa890af1..f9e02168d309fb8f33d9311f2046d5b94bf7a466 100644
+---- a/commands/restore/restore.command.ts
+-+++ b/commands/restore/restore.command.ts
+-@@ -82,7 +82,7 @@ export const restore = {
+-     },
+-     {
+-       invariantKind: "departure",
+--      statement: "What each path discards is said before what each path was put back to.",
+-+      statement: "The work each path discards is said before the body each path was put back to.",
+-     },
+-     {
+-       invariantKind: "absence",
