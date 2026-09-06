@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/indexes/surface/index-surface.module.ts b/pages/indexes/surface/index-surface.module.ts
+index af658685970b6abf02c0776b5f4c32bb73aa10e5..2670eaa165b2b20ca8f345ca1593a32695b78a88 100644
+--- a/pages/indexes/surface/index-surface.module.ts
++++ b/pages/indexes/surface/index-surface.module.ts
+@@ -56,7 +56,7 @@ export const indexSurface = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An index that stands nowhere yet is read as one standing and holding nothing.",
++      statement: "An index not there yet is read as an index that is there and holds nothing.",
+     },
+     {
+       invariantKind: "absence",
