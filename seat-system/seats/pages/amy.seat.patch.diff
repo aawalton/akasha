@@ -1,3 +1,16 @@
+diff --git a/editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts b/editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts
+index 85695ccb869d887225502a6240022db1c9a3570e..e2a147a444108586a6de563e5b7c78e648f9cbd6 100644
+--- a/editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts
++++ b/editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts
+@@ -31,7 +31,7 @@ const features = (
+   { name: "page-tree", start: async () => pageTree.activate(context) },
+   { name: "status-bar", start: async () => statusBar.activate(context) },
+   { name: "editor-layout", start: async () => editorLayout.activate(context) },
+-  { name: "seat-terminal-enter", start: async () => seatEnter.activate(context, say) },
++  { name: "seat-terminal-enter", start: async () => seatEnter.activate(vscode, context, say) },
+ ]
+ 
+ export async function activate(context: vscode.ExtensionContext): Promise<void> {
 diff --git a/editor-extension/seat-terminal-enter/seat-terminal-enter.module.code.ts b/editor-extension/seat-terminal-enter/seat-terminal-enter.module.code.ts
 index 56ffc0367c1e67bfeb659f8dac86fc07379eb58b..1016d26744f7d5be83a5de9a0a18ad67d54bb8f7 100644
 --- a/editor-extension/seat-terminal-enter/seat-terminal-enter.module.code.ts
