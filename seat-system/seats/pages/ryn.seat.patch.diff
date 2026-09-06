@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/commands/audit/audit.command.ts b/command-system/commands/audit/audit.command.ts
+index 41baf44a2dab1d48feadaf8b7e2b83bf989b4ea4..369f4eee4906ea9463fdcc0397bf66043a3b2592 100644
+--- a/command-system/commands/audit/audit.command.ts
++++ b/command-system/commands/audit/audit.command.ts
+@@ -55,7 +55,7 @@ export const audit = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A path naming no file this repository holds and no folder holding one is refused.",
++        "A path naming no file this repository holds and no folder holding a file is refused.",
+     },
+     {
+       invariantKind: "departure",
