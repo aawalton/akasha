@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-replacing-clock-time-costs.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-replacing-clock-time-costs.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a35de44417ced33dbfc0c556dfcc191ad06a41ce
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-replacing-clock-time-costs.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatReplacingClockTimeCosts = {
++  id: "01a077e4-25dc-789c-812a-64452f0a88c3",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-replacing-clock-time-costs",
++  topicSlug: "how-i-keep-urgency-out",
++  ask: "What does my replacement for clock time cost, in load on Jen's schedule and in the times my state and her schedule diverge?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-phone-stays-a-trigger.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-phone-stays-a-trigger.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9f0a6740ec911604b4749b9795a5ddf0dc5ca7da
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-phone-stays-a-trigger.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherThePhoneStaysATrigger = {
++  id: "01a077e4-25db-7416-a950-995dd08b1e41",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-phone-stays-a-trigger",
++  topicSlug: "how-i-keep-urgency-out",
++  ask: "Does the phone remain a trigger for urgency for good, or does the association fade with safe non-use?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-people-and-places-carry-urgency.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-people-and-places-carry-urgency.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1ea0c861cf337e2b09787097d54a5a8a82e982a1
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-people-and-places-carry-urgency.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichPeopleAndPlacesCarryUrgency = {
++  id: "01a077e4-25dd-76da-aaa2-7d852eaa77e7",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-people-and-places-carry-urgency",
++  topicSlug: "how-i-keep-urgency-out",
++  ask: "Which people and which places fail my ambient-pressure filter, worked through as an example?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-keep-urgency-out.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-keep-urgency-out.all-about-alan-topic.ts
+index ab42e67da2c8a186c20cc9b3852fc46339993550..7a7f5d9ddc9dca387dc662145f4448e2e1238a2a 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-keep-urgency-out.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-keep-urgency-out.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const howIKeepUrgencyOut = {
+   parentSlugs: ["what-pulls-me-into-doing-something"],
+   settled:
+     "Urgency reaches me through the channel I cannot catch in the moment, so it has to be gone before it fires.\n\nMy goals carry a finish line and no clock, because a deadline I set myself is still a deadline.\n\nNo phone, and no attention on the time of day.",
+-  unsettled:
+-    "Whether the phone stays a trigger for good, or the association fades with safe non-use, is falsifiable and untested.\n\nWhat the replacement for clock time costs, in load on Jen's schedule and in the times my state and her schedule diverge, is unanchored.\n\nWhich people and places fail the ambient-pressure filter has no worked example.",
+ } as const satisfies AllAboutAlanTopic
