@@ -1,3 +1,16 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
+index d30974c4b99ed1f105833d9a9c88e66f8fccc8de..07b3032192cff114d7a5f60733a7d47cc507a875 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-matches-a-shape.code-check.ts
+@@ -5,7 +5,7 @@ export const folderMatchesAShape = {
+   pageTypeSlug: "code-check",
+   slug: "folder-matches-a-shape",
+   definition: "the check refusing a folder matching none of the folder shapes",
+-  partSlugs: ["module/shape-loading", "page-type/folder-shape"],
++  partSlugs: ["module/folder-grouping", "module/shape-loading", "page-type/folder-shape"],
+   code: "ts",
+   test: "ts",
+   testFixtures: "ts",
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts b/checks/code-checks/pages/folder-matches-a-shape/modules/folder-grouping/folder-grouping.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..ad9140ae901493cfc2602fdfe9faa03ee7fcebf6
