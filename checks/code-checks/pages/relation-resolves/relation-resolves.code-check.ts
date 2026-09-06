@@ -38,10 +38,6 @@ export const relationResolves = {
     },
     {
       invariantKind: "departure",
-      statement: "A mortal page is never refused for a name reaching no page.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Mortality is judged on the page type the name reaches.",
     },
     {
