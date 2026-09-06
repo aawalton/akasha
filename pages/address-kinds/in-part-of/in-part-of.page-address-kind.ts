@@ -22,11 +22,11 @@ export const inPartOf = {
     },
     {
       invariantKind: "departure",
-      statement: "A page part of more than one page has an address under each of them.",
+      statement: "A page part of more than one page has an address under every parent page.",
     },
     {
       invariantKind: "absence",
-      statement: "No address of this kind is the one address for the page it names.",
+      statement: "No address of this kind is the one address for the page that address names.",
     },
   ],
 } as const satisfies PageAddressKind
