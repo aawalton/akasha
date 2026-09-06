@@ -1,0 +1,1 @@
+The next session on this square opens on the three Intermediate Periods, which are the natural experiment: Egypt collapsing and reassembling without a conqueror involved. Then Akhenaten, the one insider who tried to tear the system out and lost.

@@ -5,4 +5,15 @@ export const learnEverything = {
   pageTypeSlug: "domain",
   slug: "learn-everything",
   definition: "working through the whole map of knowledge",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement:
+        "A topic's mastery level is written to that topic's page and never told to Alan in any form.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The answers Alan got right and the answers Alan got wrong are told to Alan.",
+    },
+  ],
 } as const satisfies Domain
