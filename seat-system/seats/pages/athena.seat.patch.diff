@@ -56,7 +56,7 @@ index 98b22117d796a29e267053cf125b0e4845f47f92..29ee3334bef21e906ad9513634e2ff48
        const id = pages[`${pageTypeSlug}/${slug}`]
        return id === undefined ? [] : [{ path: `${slug}.${pageTypeSlug}.ts`, id }]
 diff --git a/pages/indexes/reaching/reaching.module.code.ts b/pages/indexes/reaching/reaching.module.code.ts
-index 8f715ec47d1e9d63d561ff33b40a7a1193ef240a..42b79c439cea4de47b813b758310ea1340293306 100644
+index 8f715ec47d1e9d63d561ff33b40a7a1193ef240a..a5928dac150c859268a4c0711477d56365189854 100644
 --- a/pages/indexes/reaching/reaching.module.code.ts
 +++ b/pages/indexes/reaching/reaching.module.code.ts
 @@ -21,6 +21,8 @@ const DECLARED = "properties"
@@ -99,6 +99,23 @@ index 8f715ec47d1e9d63d561ff33b40a7a1193ef240a..42b79c439cea4de47b813b758310ea13
      at: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
      byId: (id) => listedById(reading, id),
      fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
+@@ -245,6 +251,16 @@ export function reaches(named: string, wanted: Wanted, known: Known): Reached {
+   return { refused: among(named, found) }
+ }
+ 
++// A page type stating `mortal` holds pages meant to be deleted, so a name reaching none of them is
++// what time does rather than a fault. The page type the name itself states answers this where the
++// name states one; where it states none, every target its property declares has to be mortal.
++export function namesMortal(named: string, wanted: Wanted, known: Known): boolean {
++  const address = addressIn(named)
++  if (address.kind === "qualified") return known.mortal(address.pageTypeSlug)
++  const every = eachTarget(wanted)
++  return every.length > 0 && every.every((one) => known.mortal(one))
++}
++
+ export function namesIn(held: unknown): readonly string[] {
+   if (typeof held === "string") return [held]
+   if (!Array.isArray(held)) return []
 diff --git a/pages/indexes/reaching/reaching.module.test.ts b/pages/indexes/reaching/reaching.module.test.ts
 index ab369e0d793b347ced77622062532f1a815028b8..a97a64f1a0f784bc899dedf6bf3ac3534b4a52ba 100644
 --- a/pages/indexes/reaching/reaching.module.test.ts
