@@ -1,51 +1,5 @@
 writerOwesReading: false
 readersOweReading: false
-diff --git a/places/locations/location.page-type.ts b/places/locations/location.page-type.ts
-index 0f2b643132d672a43c968256596b8603de068116..53d0db067ec9e5598d3b57c8f72f9e384fcd8c5e 100644
---- a/places/locations/location.page-type.ts
-+++ b/places/locations/location.page-type.ts
-@@ -13,8 +13,13 @@ import type { ReviewDate } from "./properties/review-date.calendar-date-property
- import type { ReviewFlag } from "./properties/review-flag.text-property.ts"
- import type { ReviewRating } from "./properties/review-rating.number-property.ts"
- import type { ReviewText } from "./properties/review-text.text-property.ts"
-+<<<<<<< what this change would leave
- import type { ScheduledEnd } from "./properties/scheduled-end.instant-property.ts"
-+import type { ScheduledStart } from "./properties/scheduled-start-at.instant-property.ts"
-+=======
-+import type { ScheduledEnd } from "./properties/scheduled-end-at.instant-property.ts"
- import type { ScheduledStart } from "./properties/scheduled-start.instant-property.ts"
-+>>>>>>> what HEAD holds
- import type { SourcePlaceId } from "./properties/source-place-id.text-property.ts"
- import type { SourceUrl } from "./properties/source-url.url-property.ts"
- import type { Visited } from "./properties/visited.boolean-property.ts"
-@@ -50,8 +55,13 @@ export const location = {
-   partSlugs: [
-     "boolean-property/visited",
-     "calendar-date-property/review-date",
-+<<<<<<< what this change would leave
-     "instant-property/scheduled-end",
-+    "instant-property/scheduled-start-at",
-+=======
-+    "instant-property/scheduled-end-at",
-     "instant-property/scheduled-start",
-+>>>>>>> what HEAD holds
-     "number-property/latitude",
-     "number-property/longitude",
-     "number-property/review-rating",
-@@ -79,8 +89,13 @@ export const location = {
-     { pagePropertySlug: "text-property/review-flag", required: false, many: false },
-     { pagePropertySlug: "number-property/review-rating", required: false, many: false },
-     { pagePropertySlug: "text-property/review-text", required: false, many: false },
-+<<<<<<< what this change would leave
-     { pagePropertySlug: "instant-property/scheduled-end", required: false, many: false },
-+    { pagePropertySlug: "instant-property/scheduled-start-at", required: false, many: false },
-+=======
-+    { pagePropertySlug: "instant-property/scheduled-end-at", required: false, many: false },
-     { pagePropertySlug: "instant-property/scheduled-start", required: false, many: false },
-+>>>>>>> what HEAD holds
-     { pagePropertySlug: "text-property/source-place-id", required: false, many: false },
-     { pagePropertySlug: "url-property/source-url", required: false, many: false },
-     { pagePropertySlug: "text-property/location-source", required: false, many: false },
 diff --git a/places/locations/properties/scheduled-end-at.instant-property.ts b/places/locations/properties/scheduled-end-at.instant-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..e4943e48ed674972269a6183d9301666279f6a8c
