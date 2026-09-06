@@ -1,6 +1,6 @@
-runsWarrants: false
+writerOwesReading: false
 diff --git a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
-index 1c16444c9184a15b0179bdcb186140b48ab14222..a5c742112dd56ddad8dffc6774cadc95d5123e48 100644
+index 1c16444c9184a15b0179bdcb186140b48ab14222..b7d6597d6d52b70701fec5c6c6e8e90b23566046 100644
 --- a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
 +++ b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
 @@ -14,11 +14,11 @@ export const supervisorHeartbeatBeat = {
@@ -17,7 +17,17 @@ index 1c16444c9184a15b0179bdcb186140b48ab14222..a5c742112dd56ddad8dffc6774cadc95
      },
      {
        invariantKind: "departure",
-@@ -39,7 +39,8 @@ export const supervisorHeartbeatBeat = {
+@@ -26,7 +26,8 @@ export const supervisorHeartbeatBeat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A beat that throws or never ran is a refusal naming the fault, not a throw.",
++      statement:
++        "A beat that throws or never ran is a refusal naming the fault rather than a throw.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,7 +40,8 @@ export const supervisorHeartbeatBeat = {
      },
      {
        invariantKind: "departure",
@@ -27,7 +37,7 @@ index 1c16444c9184a15b0179bdcb186140b48ab14222..a5c742112dd56ddad8dffc6774cadc95
      },
      {
        invariantKind: "departure",
-@@ -56,12 +57,13 @@ export const supervisorHeartbeatBeat = {
+@@ -56,12 +58,13 @@ export const supervisorHeartbeatBeat = {
      },
      {
        invariantKind: "departure",
