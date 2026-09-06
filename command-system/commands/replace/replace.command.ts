@@ -105,7 +105,7 @@ export const replace = {
     },
     {
       invariantKind: "gap",
-      statement: "A caller learns which files hold a passage before changing any of those files.",
+      statement: "A caller learns which files hold a passage before changing those files.",
     },
   ],
 } as const satisfies Command
