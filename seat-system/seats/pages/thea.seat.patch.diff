@@ -141,6 +141,19 @@ index 961e8df4012ee44f129b539603cea2d6b57e2d67..511a61e8043b92c6df6dbeedc867c00c
    pageTypeSlug: "module",
    slug: "rbac-types",
    definition: "the shape of a namespace role profile and of the rules it grants",
+diff --git a/changes/workflow-language/retry-transient-ddl/retry-transient-ddl.module.ts b/changes/workflow-language/retry-transient-ddl/retry-transient-ddl.module.ts
+index 740480293a6ddd532611f0a33fd9d29fc27aa3d9..918f584f172d38da9beff3184748966c45a1614f 100644
+--- a/changes/workflow-language/retry-transient-ddl/retry-transient-ddl.module.ts
++++ b/changes/workflow-language/retry-transient-ddl/retry-transient-ddl.module.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "../../../code-system/modules/module.page-type.ts"
+ 
+ export const retryTransientDdl = {
+-  id: "01a06f10-7000-700e-b000e-9d4a2f6c000ee1",
++  id: "01a07740-d031-7c4b-9fdc-e16681cb6f2a",
+   pageTypeSlug: "module",
+   slug: "retry-transient-ddl",
+   definition: "shell lines retrying a data definition statement that failed in passing",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
