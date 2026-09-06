@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts b/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts
+index e8fad1ee5e0219259cd5f776d41092bd8142aa0a..d1cbc628812a17b757e6c24fe5d0c8c93facf48b 100644
+--- a/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts
+@@ -10,7 +10,7 @@ export const addonDataWritesAlchemy = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The restore metrics are rendered from the item sweep's rows rather than a page type's.",
++        "The restore metrics are rendered from the item sweep's rows rather than from a page type's rows.",
+     },
+     {
+       invariantKind: "departure",
