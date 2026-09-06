@@ -6,7 +6,7 @@ export const desktopWallpaperSetting = {
   slug: "desktop-wallpaper-setting",
   definition: "the service setting the desktop wallpaper to the persona Alan messaged last",
   runs: ["bun personas-core/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts"],
-  enabled: false,
+  enabled: true,
   systemd: {
     schedule: "*:0/5",
     catchUp: true,

@@ -142,7 +142,6 @@ export const alanWeb = {
     "module/use-media-variants",
     "module/use-next-unread",
     "module/use-reader-active-marks",
-    "module/wallpaper-candidates",
     "route/about",
     "route/claude-usage",
     "route/inbox-stoplights",
