@@ -1,0 +1,95 @@
+diff --git a/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts b/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts
+index a838686ae407dd538bb88ab2fd2344c41cbc0d50..56cd1e71d5d79634d0bf5c7137b6b3498f4b29fe 100644
+--- a/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts
++++ b/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts
+@@ -131,6 +131,44 @@ function filtersForKey(propertyKey: string, tests: unknown): readonly ViewFilter
+   return out
+ }
+ 
++// A COMPARISON TAKING ONE VALUE IS GIVEN THE FIRST OF THEM. A narrow always carries a list, and
++// `in` and `not-in` weigh the whole list where every other comparison weighs one value, so handing
++// the list to those would test a page against an array it can never equal.
++const OVER_THE_WHOLE_LIST: ReadonlySet<string> = new Set(["in", "not-in"])
++
++function filtersFromNarrows(raw: unknown): readonly ViewFilter[] | undefined {
++  if (!Array.isArray(raw)) return undefined
++  const out: ViewFilter[] = []
++  for (const one of raw) {
++    if (!isRecord(one)) continue
++    const key = textOf(one.key)
++    const comparison = textOf(one.comparison)
++    if (key === undefined || comparison === undefined) continue
++    const values = Array.isArray(one.values) ? one.values : [one.values]
++    out.push(
++      ...filtersForKey(key, {
++        [comparison]: OVER_THE_WHOLE_LIST.has(comparison) ? values : values[0],
++      })
++    )
++  }
++  return out.length > 0 ? out : undefined
++}
++
++function sortsFromViewSorts(raw: unknown): readonly ViewSort[] | undefined {
++  if (!Array.isArray(raw)) return undefined
++  const out: ViewSort[] = []
++  for (const one of raw) {
++    if (!isRecord(one)) continue
++    const key = textOf(one.key)
++    if (key === undefined) continue
++    out.push({
++      field: camelizeKey(key),
++      direction: asBoolean(one.descending) === true ? "desc" : "asc",
++    })
++  }
++  return out.length > 0 ? out : undefined
++}
++
+ const filterMappingSchema = z.record(z.string(), z.unknown())
+ 
+ function filtersOf(raw: unknown): readonly ViewFilter[] | undefined {
+@@ -176,12 +214,15 @@ function groupByOf(value: unknown): string | undefined {
+   return text === undefined ? undefined : camelizeKey(text)
+ }
+ 
++// EVERY VIEW FILED AS A PAGE NAMES ITS NAV ITEM. `navSlug` is required of the `view` page type, so
++// it tells a view spelled in a file from one whose settings the browser wrote into `config`, and it
++// tells them apart for a view carrying nothing else but its title and its place.
+ export function isFileSpelledView(properties: Readonly<Record<string, unknown>>): boolean {
+   return (
+-    properties.nav !== undefined ||
++    properties.navSlug !== undefined ||
+     properties.pageType !== undefined ||
+-    properties.where !== undefined ||
+-    properties.sortBy !== undefined ||
++    properties.narrows !== undefined ||
++    properties.viewSorts !== undefined ||
+     properties.visibleProperties !== undefined
+   )
+ }
+@@ -197,10 +238,14 @@ export function viewDataFromFile(
+     visible_properties: keyListOf(properties.visibleProperties),
+     always_show_properties: keyListOf(properties.alwaysShowProperties),
+     hidden_properties_order: keyListOf(properties.hiddenPropertiesOrder),
+-    sorts: sortsOf(properties.sortBy, properties.sortDescending),
+-    filters: filtersOf(properties.where),
++    sorts:
++      sortsFromViewSorts(properties.viewSorts) ??
++      sortsOf(properties.sortBy, properties.sortDescending),
++    filters: filtersFromNarrows(properties.narrows) ?? filtersOf(properties.where),
+     group_by: groupByOf(properties.groupBy),
+-    group_sorts: sortsOf(properties.groupSortBy, properties.groupSortDescending),
++    group_sorts:
++      sortsFromViewSorts(properties.groupSorts) ??
++      sortsOf(properties.groupSortBy, properties.groupSortDescending),
+     group_granularity: granularityOf(properties.groupGranularity),
+     gallery_cover_source: textOf(properties.galleryCoverSource),
+     gallery_card_size: cardSizeOf(properties.galleryCardSize),
+@@ -217,7 +262,7 @@ export function viewDataFromFile(
+         ? undefined
+         : resolvePageTypeId(pageTypeSlug),
+   }
+-  const predicateKey = textOf(properties.predicate)
++  const predicateKey = textOf(properties.viewPredicate) ?? textOf(properties.predicate)
+   if (predicateKey !== undefined) data.crossTypeSource = { predicateKey }
+   const verbId = textOf(properties.reorderCommand)
+   if (verbId !== undefined) data.reorder = { verbId }
