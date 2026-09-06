@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-catalog/temper-world/world-zones/properties/zone-quests.page-property-entry.ts b/temper/temper-catalog/temper-world/world-zones/properties/zone-quests.page-property-entry.ts
+index 743c71c15e5bc222652d178731e6a6da91551646..e713a8ca76d62e51ff47c944ee674fe05e6d133f 100644
+--- a/temper/temper-catalog/temper-world/world-zones/properties/zone-quests.page-property-entry.ts
++++ b/temper/temper-catalog/temper-world/world-zones/properties/zone-quests.page-property-entry.ts
+@@ -15,7 +15,7 @@ export const zoneQuests = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A quest here is one the game counts against the zone that quest is given in.",
++      statement: "A quest here is a quest the game counts against the zone that quest is given in.",
+     },
+   ],
+ } as const satisfies PagePropertyEntry
