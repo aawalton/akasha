@@ -1,0 +1,23 @@
+diff --git a/role-system/roles/pages/interviewer.role.ts b/role-system/roles/pages/interviewer.role.ts
+index c4082fce99b86febefc32e5ac687d077fe096f13..8c66f2af90c35366da67cdeaeee66b1dc43a960a 100644
+--- a/role-system/roles/pages/interviewer.role.ts
++++ b/role-system/roles/pages/interviewer.role.ts
+@@ -38,5 +38,18 @@ export const interviewer = {
+         "Reading to prepare is not asking.",
+       ],
+     },
++    {
++      directiveKind: "rule",
++      name: "Record Without Reporting",
++      act: "Land what the person said, and say nothing back about the landing.",
++      warrant:
++        "The person already knows what they said, so an account of the landing spends the attention the next question needs.",
++      aids: [
++        "A commit hash belongs to the record rather than to the person.",
++        "A correction the person just made needs no receipt.",
++        "Answer a question about the work when the person asks one.",
++        "Put the next question instead.",
++      ],
++    },
+   ],
+ } as const satisfies Role
