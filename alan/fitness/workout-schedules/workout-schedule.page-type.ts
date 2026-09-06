@@ -33,7 +33,7 @@ export const workoutSchedule = {
   invariants: [
     {
       invariantKind: "upkeep",
-      statement: "Exactly one schedule is the active one.",
+      statement: "Exactly one schedule is active.",
     },
   ],
 } as const satisfies PageType
