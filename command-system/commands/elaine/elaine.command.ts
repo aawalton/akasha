@@ -44,12 +44,11 @@ export const elaine = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The window reaches a day further back than the days asked for, so the oldest day asked for is whole.",
+      statement: "The window reaches a day further back than the days asked for.",
     },
     {
       invariantKind: "departure",
-      statement: "A path said here names a file on the macbook rather than one under the root.",
+      statement: "A path said here names a file on the macbook rather than a file under the root.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +58,7 @@ export const elaine = {
     {
       invariantKind: "departure",
       statement:
-        "A macbook that could not be reached is answered apart from one holding no export.",
+        "A macbook that could not be reached is answered apart from a macbook holding no export.",
     },
     {
       invariantKind: "absence",
