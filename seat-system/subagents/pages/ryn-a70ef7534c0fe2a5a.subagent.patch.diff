@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/pages/address-kinds/in-part-of/in-part-of.page-address-kind.ts b/pages/address-kinds/in-part-of/in-part-of.page-address-kind.ts
+index 53215b3fcbc962c74e3e52c1d6ac5ba63b756eed..9ebe5268a7b6aea83b725b5746f302dd4227231f 100644
+--- a/pages/address-kinds/in-part-of/in-part-of.page-address-kind.ts
++++ b/pages/address-kinds/in-part-of/in-part-of.page-address-kind.ts
+@@ -22,7 +22,7 @@ export const inPartOf = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page part of more than one page has an address under each of them.",
++      statement: "A page part of more than one page has an address under every parent page.",
+     },
+     {
+       invariantKind: "absence",
