@@ -1,0 +1,17 @@
+diff --git a/alan/harness/monarch/propose/monarch-propose.module.ts b/alan/harness/monarch/propose/monarch-propose.module.ts
+index 8154b7ebdb2e2dc3e49669f7fd8ae4745bb90f22..da5241590670d552345c004d4e8bffb1b3f55b7e 100644
+--- a/alan/harness/monarch/propose/monarch-propose.module.ts
++++ b/alan/harness/monarch/propose/monarch-propose.module.ts
+@@ -9,7 +9,11 @@ export const monarchPropose = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Nothing is written, so a rule can be weighed before that rule stands.",
++      statement: "Nothing here is written.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A rule is weighed before that rule stands.",
+     },
+     {
+       invariantKind: "departure",
