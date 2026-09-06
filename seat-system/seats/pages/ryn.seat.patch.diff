@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.ts b/seat-system/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.ts
+index 4057b674ba48ce468f5f1c041b0ec2ede3848a00..cc31c6dbe284f056a1b8871e65d6502bfb132a9b 100644
+--- a/seat-system/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.ts
++++ b/seat-system/supervisor-precliff-restart-decide/supervisor-precliff-restart-decide.module.ts
+@@ -22,7 +22,7 @@ export const supervisorPrecliffRestartDecide = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A restart already deferred or an action already pending holds this one back.",
++      statement: "A restart already deferred or an action already pending holds this restart back.",
+     },
+     {
+       invariantKind: "absence",
