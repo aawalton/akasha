@@ -63,7 +63,7 @@ export const temperSale = {
     {
       invariantKind: "departure",
       statement:
-        "A sale's slug is the sale id in lower case with each other run of characters a dash.",
+        "A sale's slug is the sale id in lower case with each run of other characters a dash.",
     },
     {
       invariantKind: "departure",
