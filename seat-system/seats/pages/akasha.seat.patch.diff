@@ -36,7 +36,7 @@ index 58c1cf0030f5c4f6ef5bab320ab53da6f46fe74c..9da8f8f835e2264536c5cdbc369cfe29
    }
    return null
 diff --git a/seat-system/seat-resolve/seat-resolve.module.code.ts b/seat-system/seat-resolve/seat-resolve.module.code.ts
-index 6883def9d8747d3bab71f74f62b17517353afb75..c8a98d6798671c9cc3c0a339cb553cf4e0aaa5eb 100644
+index 6883def9d8747d3bab71f74f62b17517353afb75..1f91675fe7bbaf1efe7ce604f96f4a0a99292b63 100644
 --- a/seat-system/seat-resolve/seat-resolve.module.code.ts
 +++ b/seat-system/seat-resolve/seat-resolve.module.code.ts
 @@ -1,4 +1,5 @@
@@ -45,3 +45,12 @@ index 6883def9d8747d3bab71f74f62b17517353afb75..c8a98d6798671c9cc3c0a339cb553cf4
  import { personaAt, personasStanding } from "@akasha/persona-system/persona-reading"
  import {
    ATTRIBUTES,
+@@ -49,7 +50,7 @@ function statedDefaults(root: string): ReadonlyMap<string, string> {
+   if (held !== undefined) return held
+   const made = new Map<string, string>()
+   for (const one of seatPageType.properties) {
+-    const slot = SLOT_OF[one.pagePropertySlug]
++    const slot = SLOT_OF[slugOf(one.pagePropertySlug)]
+     const value = "default" in one ? one.default : undefined
+     if (slot !== undefined && typeof value === "string") made.set(slot, value)
+   }
