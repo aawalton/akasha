@@ -9,12 +9,12 @@ export const inboxTrackingPolling = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The email, task, temper-task and text inboxes are each polled on their own.",
+      statement:
+        "The email and task and temper-task and text inboxes are each polled on their own.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The write puts the count now, together with whether that inbox was cleared to zero today.",
+      statement: "The write puts the count now and whether that inbox was cleared to zero today.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +47,11 @@ export const inboxTrackingPolling = {
     },
     {
       invariantKind: "departure",
-      statement: "One tick is one poll and one write, and then the run is over.",
+      statement: "A tick is one poll followed by one write.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The run is over once that tick is done.",
     },
   ],
 } as const satisfies Module
