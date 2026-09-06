@@ -18,6 +18,31 @@ export function flagValue(argv: readonly string[], name: string): string | undef
   return value === undefined || value.startsWith("--") ? undefined : value
 }
 
+export function flagValues(argv: readonly string[], name: string): readonly string[] {
+  const found: string[] = []
+  for (let at = 0; at < argv.length; at += 1) {
+    if (argv[at] !== name) continue
+    const value = argv[at + 1]
+    if (value === undefined || value.startsWith("--")) continue
+    found.push(value)
+  }
+  return found
+}
+
+export function labelsOf(said: readonly string[]): Record<string, string> {
+  const labels: Record<string, string> = {}
+  for (const one of said) {
+    const at = one.indexOf("=")
+    if (at <= 0) {
+      throw new DeployRefused(
+        `\`${one}\` is no label, and a label is written as a name and a value with \`=\` between them`
+      )
+    }
+    labels[one.slice(0, at)] = one.slice(at + 1)
+  }
+  return labels
+}
+
 export interface Held {
   readonly key: string
   readonly page: SecretPage
@@ -37,12 +62,14 @@ export function secretYaml(
   values: Record<string, string>,
   resource: string,
   namespace: string,
-  type: string = OPAQUE
+  type: string = OPAQUE,
+  labels: Record<string, string> = {}
 ): string {
+  const named = { name: resource, namespace }
   return stringify({
     apiVersion: "v1",
     kind: "Secret",
-    metadata: { name: resource, namespace },
+    metadata: Object.keys(labels).length === 0 ? named : { ...named, labels },
     type,
     stringData: values,
   })
@@ -52,7 +79,8 @@ export function sayingFor(
   akasha: string,
   resource: string,
   namespace: string,
-  type: string = OPAQUE
+  type: string = OPAQUE,
+  labels: Record<string, string> = {}
 ): string {
   const pages = secretPages(akasha)
   placedAt(pages)
@@ -64,7 +92,7 @@ export function sayingFor(
   }
   const values: Record<string, string> = {}
   for (const one of held) values[one.key] = valueOf(akasha, one.page)
-  return secretYaml(values, resource, namespace, type)
+  return secretYaml(values, resource, namespace, type, labels)
 }
 
 export function runSaying(argv: readonly string[]): number {
@@ -83,7 +111,10 @@ export function runSaying(argv: readonly string[]): number {
     }
   }
   try {
-    process.stdout.write(sayingFor(root as string, resource as string, namespace as string, type))
+    const labels = labelsOf(flagValues(argv, "--label"))
+    process.stdout.write(
+      sayingFor(root as string, resource as string, namespace as string, type, labels)
+    )
   } catch (thrown) {
     process.stderr.write(`${PREFIX} ${thrown instanceof Error ? thrown.message : String(thrown)}\n`)
     return 1

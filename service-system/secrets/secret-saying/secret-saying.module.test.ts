@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import type { SecretPage } from "../secret-placing/secret-placing.module.code.ts"
-import { flagValue, heldBy, secretYaml } from "./secret-saying.module.code.ts"
+import { flagValue, flagValues, heldBy, labelsOf, secretYaml } from "./secret-saying.module.code.ts"
 
 function page(slug: string, ...pairs: readonly (readonly [string, string])[]): SecretPage {
   return {
@@ -74,6 +74,38 @@ describe("secretYaml", () => {
     expect(said).toContain("type: kubernetes.io/tls")
     expect(said).not.toContain("Opaque")
   })
+
+  test("says the labels it is given, an apply taking off any it does not say", () => {
+    const said = secretYaml({ password: "x" }, "postgres-cnpg-superuser", "postgres", "Opaque", {
+      "cnpg.io/reload": "true",
+    })
+    expect(said).toContain('  labels:\n    cnpg.io/reload: "true"')
+  })
+
+  test("says no labels key at all where it is given none", () => {
+    expect(secretYaml({ K: "v" }, "r", "n")).not.toContain("labels")
+  })
+})
+
+describe("labelsOf", () => {
+  test("reads a name and a value out of each entry", () => {
+    expect(labelsOf(["a=1", "cnpg.io/reload=true"])).toEqual({
+      a: "1",
+      "cnpg.io/reload": "true",
+    })
+  })
+
+  test("keeps every `=` past the first, a value holding one", () => {
+    expect(labelsOf(["a=1=2"])).toEqual({ a: "1=2" })
+  })
+
+  test("refuses an entry with no name, rather than labelling with an empty one", () => {
+    expect(() => labelsOf(["=1"])).toThrow()
+  })
+
+  test("refuses an entry that is no pair, rather than passing it over", () => {
+    expect(() => labelsOf(["a"])).toThrow()
+  })
 })
 
 describe("flagValue", () => {
@@ -87,5 +119,15 @@ describe("flagValue", () => {
 
   test("a flag that is not there names nothing", () => {
     expect(flagValue(["--namespace", "gotrue"], "--resource")).toBeUndefined()
+  })
+})
+
+describe("flagValues", () => {
+  test("reads every word a flag said more than once names", () => {
+    expect(flagValues(["--label", "a=1", "--label", "b=2"], "--label")).toEqual(["a=1", "b=2"])
+  })
+
+  test("a flag that is not there names nothing", () => {
+    expect(flagValues(["--resource", "r"], "--label")).toEqual([])
   })
 })

@@ -10,7 +10,11 @@ export const secretSaying = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The yaml is said rather than applied, so what applies it is kubectl.",
+      statement: "The yaml is said rather than applied.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Kubectl applies the yaml.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +22,11 @@ export const secretSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "The keys are said in one order, so a resource unchanged says the same bytes.",
+      statement: "The keys are said in one order.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resource unchanged says the same bytes.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +34,35 @@ export const secretSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A resource's type is said as given, and as Opaque where none is given.",
+      statement: "A resource's type is said as given.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resource given no type is said as Opaque.",
     },
     {
       invariantKind: "constraint",
       statement: "The type a Secret is on the cluster cannot be changed once that Secret is there.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resource's labels are said as given.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resource given no label says no labels key at all.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A label's name runs up to the first `=`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A label's value runs from the first `=` on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry holding no `=` is refused rather than passed over.",
     },
     {
       invariantKind: "departure",

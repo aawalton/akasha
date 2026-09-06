@@ -9,11 +9,15 @@ interface SecretPlaceConfig {
   namespace: string
   resource: string
   type?: string
+  labels?: Readonly<Record<string, string>>
 }
 
 export function secretPlaceApply(config: SecretPlaceConfig): Step {
-  const { name, namespace, resource, type } = config
+  const { name, namespace, resource, type, labels } = config
   const typed = type === undefined ? "" : ` --type ${type}`
+  const labelled = Object.entries(labels ?? {})
+    .map(([key, value]) => ` --label ${key}=${value}`)
+    .join("")
   return {
     name,
     image: IMAGES.CI,
@@ -23,7 +27,7 @@ export function secretPlaceApply(config: SecretPlaceConfig): Step {
     },
     commands: (ci: CIContext) => [
       "set -e",
-      `SAID=$(bun "${ci.workspace}/${SAYING}" --root "${ci.workspace}" --resource ${resource} --namespace ${namespace}${typed})`,
+      `SAID=$(bun "${ci.workspace}/${SAYING}" --root "${ci.workspace}" --resource ${resource} --namespace ${namespace}${typed}${labelled})`,
       `echo "$SAID" | kubectl apply --dry-run=client -n ${namespace} -f -`,
       `echo "$SAID" | kubectl apply -n ${namespace} -f -`,
     ],

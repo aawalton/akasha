@@ -9,7 +9,7 @@ export const secretPlace = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A step names the resource it places rather than a file to decrypt.",
+      statement: "A step names the resource that step places rather than a file to decrypt.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,15 @@ export const secretPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "What a resource holds is read from the pages placing a value in it.",
+      statement: "A resource the cluster holds with a label is named with that label here.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "An apply takes off a label the cluster holds that the yaml applied does not say.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resource's values come from the pages placing a value in that resource.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +37,7 @@ export const secretPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "This step replaces the one decrypting a whole Secret manifest.",
+      statement: "This step replaces the step decrypting a whole Secret manifest.",
     },
   ],
 } as const satisfies WorkflowStep
