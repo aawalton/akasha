@@ -363,7 +363,7 @@ index 0000000000000000000000000000000000000000..6c846cb2d2a2ad0dcb919ac3cc48d9bd
 +})
 diff --git a/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.ts b/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..df599506ca807b6141ad73c065dcff32c76c8da6
+index 0000000000000000000000000000000000000000..8934ce192817bc7409ae0bad5f839567c56ade2f
 --- /dev/null
 +++ b/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.ts
 @@ -0,0 +1,60 @@
@@ -419,7 +419,7 @@ index 0000000000000000000000000000000000000000..df599506ca807b6141ad73c065dcff32
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "An index this guard cannot read refuses the answer.",
++      statement: "An index a guard cannot read refuses the answer.",
 +    },
 +    {
 +      invariantKind: "absence",
