@@ -1,3 +1,22 @@
+diff --git a/pages/ui/components/nav-count-badge/nav-count-badge.module.code.tsx b/pages/ui/components/nav-count-badge/nav-count-badge.module.code.tsx
+index ce858021b4a369e5fa6fd5603ebbbaa953fb0ae2..7f3eafe0aaa22c933bb6a0b89540f7601d4d5b4c 100644
+--- a/pages/ui/components/nav-count-badge/nav-count-badge.module.code.tsx
++++ b/pages/ui/components/nav-count-badge/nav-count-badge.module.code.tsx
+@@ -16,12 +16,11 @@ import { useMemo } from "react"
+ const PAGE_TYPE_SLUG = "page-type"
+ 
+ interface NavCountBadgeProps {
+-  navItemId: string
+   navItemSlug?: string
+ }
+ 
+-export function NavCountBadge({ navItemId, navItemSlug }: NavCountBadgeProps) {
+-  const { views } = useViewsForNavItem({ navItemId, navItemSlug })
++export function NavCountBadge({ navItemSlug }: NavCountBadgeProps) {
++  const { views } = useViewsForNavItem({ navItemSlug })
+   const firstView = views[0]
+ 
+   const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
 diff --git a/pages/ui/components/view-page-content/view-page-content.module.code.tsx b/pages/ui/components/view-page-content/view-page-content.module.code.tsx
 index 857d99f7b5d8f7316f0d13935cc38b70b6b9a804..58bdf6960c005571723f4a5cf650f7adfb0906ac 100644
 --- a/pages/ui/components/view-page-content/view-page-content.module.code.tsx
