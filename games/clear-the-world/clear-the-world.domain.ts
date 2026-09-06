@@ -9,7 +9,7 @@ export const clearTheWorld = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every player clears the one shared minefield.",
+      statement: "Every player clears a single shared minefield.",
     },
   ],
 } as const satisfies Domain
