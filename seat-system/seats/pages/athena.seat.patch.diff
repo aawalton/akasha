@@ -59,3 +59,18 @@ index 9c2b540fd5fcdf31da91378cb3c04eaac1c80dc6..17e03920a5326c901b29c3552daf4bdf
  test("every act and flag the surface shows is one this takes", () => {
    for (const one of indexCommand.taking) {
      const said = readIn([one.said.split(" ")[0] ?? ""])
+diff --git a/command-system/commands/index/index.command.ts b/command-system/commands/index/index.command.ts
+index e3e4205f1a4abb60ae3cea25c49544d07bdfbfd4..80d2e8519757d2f66534b15cbf7f9c60ad3fc9c5 100644
+--- a/command-system/commands/index/index.command.ts
++++ b/command-system/commands/index/index.command.ts
+@@ -64,6 +64,10 @@ export const index = {
+       invariantKind: "departure",
+       statement: "The report counts those taken away where any were.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The report names the files the index differed in as well as counting them.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "A refresh writes nothing tracked and makes no commit.",
