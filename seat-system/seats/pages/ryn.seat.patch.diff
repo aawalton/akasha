@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-player-completion/completion-category-tree-utils/completion-category-tree-utils.module.ts b/temper/temper-player-completion/completion-category-tree-utils/completion-category-tree-utils.module.ts
+index b10114afa7222a2afd529cf02bd8fa35367fc51a..f68e1b5c4914e8281d60333d2e3877492c57566a 100644
+--- a/temper/temper-player-completion/completion-category-tree-utils/completion-category-tree-utils.module.ts
++++ b/temper/temper-player-completion/completion-category-tree-utils/completion-category-tree-utils.module.ts
+@@ -32,7 +32,7 @@ export const completionCategoryTreeUtils = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Children are asked for under one named tab.",
++      statement: "Children are asked for under a named tab.",
+     },
+     {
+       invariantKind: "departure",
