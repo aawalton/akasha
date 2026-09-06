@@ -1,8 +1,8 @@
 diff --git a/seat-system/supervising/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts b/seat-system/supervising/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts
-index 11dae4f6080d122dedaa26ca0ff86f62e87ebe44..757efefc44c1a2e78e59bded437f0d4be1f14876 100644
+index 11dae4f6080d122dedaa26ca0ff86f62e87ebe44..561be571c2a10a60e592246a6170b32b7b46cdad 100644
 --- a/seat-system/supervising/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts
 +++ b/seat-system/supervising/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts
-@@ -13,15 +13,19 @@ export const supervisorIterationOutcome = {
+@@ -13,19 +13,23 @@ export const supervisorIterationOutcome = {
      },
      {
        invariantKind: "departure",
@@ -25,3 +25,8 @@ index 11dae4f6080d122dedaa26ca0ff86f62e87ebe44..757efefc44c1a2e78e59bded437f0d4b
      },
      {
        invariantKind: "absence",
+-      statement: "Nothing here touches a process, a seat page or a database.",
++      statement: "Nothing here touches a process or a seat page or a database.",
+     },
+     {
+       invariantKind: "upkeep",
