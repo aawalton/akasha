@@ -1,0 +1,17 @@
+diff --git a/temper/temper-lua-runner/lua-marshal/lua-marshal.module.ts b/temper/temper-lua-runner/lua-marshal/lua-marshal.module.ts
+index e07adaa13e5e4486ed41dc8c3ac356761440a692..01f69cbe8231fd7dabf877c7056322ff471f2e8e 100644
+--- a/temper/temper-lua-runner/lua-marshal/lua-marshal.module.ts
++++ b/temper/temper-lua-runner/lua-marshal/lua-marshal.module.ts
+@@ -10,7 +10,11 @@ export const luaMarshal = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A missing value and a null value both become `nil`.",
++      statement: "A missing value becomes `nil`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A null value becomes `nil`.",
+     },
+     {
+       invariantKind: "departure",
