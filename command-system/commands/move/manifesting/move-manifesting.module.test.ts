@@ -33,9 +33,9 @@ test("a file under nested packages is answered for by every manifest above it", 
   ).toEqual([...held].sort())
 })
 
-test("the walk up stops at the akasha folder", () => {
+test("the walk up reaches the repository root", () => {
   const said = manifestsOver(moving([WAS, NOW]), () => true).map((one) => one.at)
-  expect(said).not.toContain("package.json")
+  expect(said).toContain("package.json")
 })
 
 test("a manifest that moves says the folder that manifest arrives in", () => {

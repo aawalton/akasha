@@ -7,6 +7,7 @@ export const moveRenaming = {
   definition: "a page's slug restated in its own body and in the pages addressing it",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

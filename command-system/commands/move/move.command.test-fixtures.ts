@@ -2,12 +2,17 @@ import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { warrantsSeeded } from "@akasha/context/warranting/testing"
 import { said as gitIn } from "@akasha/git/git-running"
-import { listedAt, namersOf } from "@akasha/indexes"
-import { importFiled, indexTakenFrom, pathFiled, rebuiltIn } from "@akasha/indexes/testing"
-import { exportedAs } from "@akasha/pages/page-export-name"
+import {
+  importFiled,
+  indexTakenFrom,
+  listedFiled,
+  pathFiled,
+  rebuiltIn,
+} from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import { admitting, mintedId, minting } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
+import { changeChecked } from "../../../changes/kinds/pages/change-checked.change-kind.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import { blobIdOf, recordRead } from "../../reading/reading.module.code.ts"
@@ -126,15 +131,23 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
 
 const IMPORTS_NONE = "akasha/one/imports-none.module.ts"
 
+export function moduleTyped(root: string): undefined {
+  const at = `${TREE}/module.page-type.ts`
+  const id = "01a04bed-1450-7000-8000-0000000000ff"
+  listedFiled(root, "page-type", "module", [{ path: at, id }])
+}
+
 export function rebuilt(root: string): string {
   rebuiltIn(root, TREE)
+  moduleTyped(root)
   importFiled(root, IMPORTS_NONE, [])
   admitting(root)
   return root
 }
 
 export function givenIn(root: string): Given {
-  return { root, calledAs: "akasha move", from: root, writer: null, agentId: null }
+  const changeKind = changeChecked
+  return { root, calledAs: "akasha move", from: root, writer: null, agentId: null, changeKind }
 }
 
 export const head = baseOf
@@ -149,6 +162,7 @@ export function importing(root: string, target: string, importers: readonly stri
 }
 
 export function claiming(root: string, path: string, ids: readonly string[]): undefined {
+  moduleTyped(root)
   pathFiled(
     root,
     path,
@@ -230,22 +244,6 @@ export function held(root: string, path: string, body: string): undefined {
     carriedOid: null,
   })
 }
-
-export const THING = "akasha/one/held.thing.ts"
-
-export const THING_AT = "akasha/one/renamed.thing.ts"
-
-export const THING_TYPE = "akasha/thing.page-type.ts"
-
-export const THING_BESIDE = ["akasha/one/held.thing.code.ts", "akasha/one/renamed.thing.code.ts"]
-
-export const ALPHA = "akasha/six/alpha.thing.ts"
-
-export const BETA = "akasha/six/beta.thing.ts"
-
-export const GAMMA = "akasha/held/gamma.thing.ts"
-
-export const SLUG_RENAME = ["--from", THING, "--to", THING_AT]
 
 export const FOLDER = "akasha/one"
 
@@ -336,89 +334,6 @@ export function carriedMoved(): Promise<Moved> {
   return movedIn(rebuilt(repoWith(held)), FOLDER_PAIR)
 }
 
-const CHECKS_AT = join(import.meta.dir, "../../checks/code-checks/pages")
-
-const idOf = (said: string): string => `01a04bed-1450-7000-8000-0000000000${said}`
-
-function stated(value: Readonly<Record<string, unknown>>): string {
-  return `export const it = ${JSON.stringify(value, null, 2)} as const\n`
-}
-
-function typed(
-  said: string,
-  slug: string,
-  extendsSlug: readonly string[],
-  declares: readonly string[] = []
-): readonly [string, string] {
-  const properties = declares.map((one) => ({
-    pagePropertySlug: one,
-    required: false,
-    many: false,
-  }))
-  return [
-    `${TREE}/${slug}.page-type.ts`,
-    stated({ id: idOf(said), pageTypeSlug: "page-type", slug, extendsSlug, properties }),
-  ]
-}
-
-function thingPage(slug: string, said: string, names: string | null): string {
-  const held = names === null ? "" : `\n  names: [${names}],`
-  return `export const ${slug} = {\n  id: "${said}",\n  pageTypeSlug: "thing",\n  slug: "${slug}",${held}\n}\n`
-}
-
-export const THING_VOCABULARY: Readonly<Record<string, string>> = {
-  ...Object.fromEntries([
-    typed("01", "page", [], ["id", "slug"]),
-    typed("02", "page-property", ["page-type/page"]),
-    typed("03", "relation-property", ["page-type/page-property"]),
-    typed("04", "thing", ["page-type/page"], ["names"]),
-    typed("06", "page-type", ["page-type/page"]),
-    typed("10", "domain", ["page-type/page"]),
-  ]),
-  [`${TREE}/names.relation-property.ts`]: stated({
-    id: idOf("05"),
-    pageTypeSlug: "relation-property",
-    slug: "names",
-    propertySlug: "names",
-    targetPageTypeSlug: "page-type/thing",
-  }),
-}
-
-export function judging(root: string, slug: string): undefined {
-  const at = join(CHECKS_AT, slug, `${slug}.code-check.code.ts`)
-  const said = `export { ${exportedAs(slug)} } from ${JSON.stringify(at)}\n`
-  minting(root, slug, mintedId(slug), "a check the pages already carry", said)
-}
-
-export const NAMERS: readonly string[] = [ALPHA, BETA]
-
-export function filedAt(root: string, slug: string): readonly string[] {
-  return listedAt(root, "thing", slug).map((one) => one.path)
-}
-
-export function namersIn(root: string, id: string): readonly string[] {
-  return [...new Set(namersOf(root, id).map((one) => one.path))].sort()
-}
-
-export function renamedText(root: string): string {
-  return [THING_AT, ALPHA, BETA].map((one) => bodyIn(root, one)).join("\n")
-}
-
-export function renaming(names = '"thing/held"'): string {
-  const root = repoWith({
-    ...THING_VOCABULARY,
-    [THING]: thingPage("held", AAAA, null),
-    [THING_BESIDE[0] ?? ""]: "export const held = 1\n",
-    [ALPHA]: thingPage("alpha", idOf("11"), names),
-    [BETA]: thingPage("beta", idOf("12"), '"held"'),
-    [GAMMA]: thingPage("gamma", idOf("13"), '"thing/alpha"'),
-  })
-  rebuilt(root)
-  for (const slug of ["relation-resolves", "page-named-as-stated"]) judging(root, slug)
-  admitting(root)
-  return root
-}
-
 export const SAYING = [...PAIR, "--message", "held moves"]
 
 export const GLASSED = [...SAYING, "--break-the-glass", "  the check is wrong  "]
@@ -475,10 +390,6 @@ export async function linkWatched(): Promise<readonly [string, string]> {
   return [dry, seenIn(root)]
 }
 
-export function renamed(): Promise<Moved> {
-  return movedIn(renaming(), SLUG_RENAME)
-}
-
 export function sidecarMoved(): Promise<Moved> {
   return movedIn(rebuilt(sidecarWorld()), ["--from", HELD, "--to", DEEP])
 }
@@ -497,10 +408,6 @@ export function sameActMoved(): Promise<Moved> {
   const root = codeWorld()
   importing(root, TARGET, [HOLDER])
   return movedIn(root, ["--from", TARGET, "--to", ARRIVES, "--from", HOLDER, "--to", DEEPER])
-}
-
-export function typeMoved(): Promise<Moved> {
-  return movedIn(renaming(), ["--from", THING_TYPE, "--to", "akasha/other.page-type.ts"])
 }
 
 export function sidecarDryMoved(): Promise<Moved> {
