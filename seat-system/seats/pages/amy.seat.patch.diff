@@ -1,0 +1,68 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/pages/navs/pages/archive-of-worlds-new-page.nav.ts b/pages/navs/pages/archive-of-worlds-new-page.nav.ts
+deleted file mode 100644
+index 997ad5b7bf2767e62bddf9c23d0ecf5d6e70e5d4..0000000000000000000000000000000000000000
+--- a/pages/navs/pages/archive-of-worlds-new-page.nav.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Nav } from "../nav.page-type.ts"
+-
+-export const archiveOfWorldsNewPage = {
+-  id: "01a06577-2613-7003-bf37-bafa1cea8416",
+-  pageTypeSlug: "nav",
+-  slug: "archive-of-worlds-new-page",
+-  title: "New Page",
+-  icon: "file-text",
+-  navPlace: 0,
+-  appSlug: "archive-of-worlds",
+-} as const satisfies Nav
+diff --git a/pages/navs/pages/temper-new-page.nav.ts b/pages/navs/pages/temper-new-page.nav.ts
+deleted file mode 100644
+index 3f0a85fda909906355ce1ca1e0177dda8d71aee3..0000000000000000000000000000000000000000
+--- a/pages/navs/pages/temper-new-page.nav.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { Nav } from "../nav.page-type.ts"
+-
+-export const temperNewPage = {
+-  id: "01a06577-2613-701b-b4a6-9b25aa0ff501",
+-  pageTypeSlug: "nav",
+-  slug: "temper-new-page",
+-  title: "New Page",
+-  icon: "file-text",
+-  navPlace: 3,
+-  appSlug: "temper",
+-} as const satisfies Nav
+diff --git a/pages/views/pages/archive-of-worlds-new-page-list.view.ts b/pages/views/pages/archive-of-worlds-new-page-list.view.ts
+deleted file mode 100644
+index cacf021708f1edcd640fcdf29ae4a1ed66469c0a..0000000000000000000000000000000000000000
+--- a/pages/views/pages/archive-of-worlds-new-page-list.view.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { View } from "../view.page-type.ts"
+-
+-export const archiveOfWorldsNewPageList = {
+-  id: "01a06577-2614-7008-bc9c-e71424f80242",
+-  pageTypeSlug: "view",
+-  slug: "archive-of-worlds-new-page-list",
+-  title: "List",
+-  navSlug: "archive-of-worlds-new-page",
+-  viewPlace: 0,
+-} as const satisfies View
+diff --git a/pages/views/pages/temper-new-page-list.view.ts b/pages/views/pages/temper-new-page-list.view.ts
+deleted file mode 100644
+index 66748ddfd8be23417ac90b5ed55ffcb1b1c997f0..0000000000000000000000000000000000000000
+--- a/pages/views/pages/temper-new-page-list.view.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { View } from "../view.page-type.ts"
+-
+-export const temperNewPageList = {
+-  id: "01a06577-2615-7010-9a7d-5ca47fad32c0",
+-  pageTypeSlug: "view",
+-  slug: "temper-new-page-list",
+-  title: "List",
+-  navSlug: "temper-new-page",
+-  viewPlace: 0,
+-} as const satisfies View
