@@ -173,7 +173,7 @@ export function bodyOf(root: string, blob: string): Uint8Array | null {
   return blob === ZERO ? null : bodyRead(root, blob)
 }
 
-function refFor(at: string): string {
+export function refFor(at: string): string {
   return `${KEPT}/${at}`
 }
 

@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { dropPatch, patchIn } from "@akasha/agents/patch-keeping"
+import { dropPatch, patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { said as gitSaid } from "@akasha/git/git-running"
 import {
   taking,
@@ -10,7 +10,7 @@ import {
   editsIn,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { drafted } from "../../drafting/drafting.module.code.ts"
-import { blobsIn } from "../../patching/patching.module.code.ts"
+import { blobsIn, refFor } from "../../patching/patching.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { writing as putting } from "../../scratching/scratching.module.test-fixtures.ts"
 import { draftsOf, folding, undone } from "./apply.command.code.ts"
@@ -46,6 +46,12 @@ async function repo(): Promise<string> {
 
 function carried(root: string): readonly string[] {
   return [...blobsIn(patchIn(root, PAGE) ?? "")].map(([path]) => path).sort()
+}
+
+// The ref keeping the blobs is read as well as the patch text, because a patch put back naming
+// blobs no ref keeps reads whole and loses its bodies to the next pruning.
+function kept(root: string): string {
+  return gitSaid(root, ["rev-parse", refFor(patchAt(PAGE) ?? "")]).trim()
 }
 
 test("an edit is drafted into the patch and the rows it came from go", async () => {
@@ -86,14 +92,18 @@ test("a fold the apply refuses is undone, and the patch and the rows come back",
   const was = patchIn(root, PAGE)
   const row = writing(ONE, WAS, NOW)
   appendEdits(root, PAGE, [row])
+  const wasKept = kept(root)
   const said = folding(root, PAGE)
   if (!("unfold" in said) || said.unfold === null) throw new Error("the fold answered no unfold")
+  const folded = kept(root)
 
   expect(undone(root, PAGE, said.unfold)).not.toBe(null)
 
   expect(patchIn(root, PAGE)).toEqual(was)
   expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
   expect(carried(root)).toEqual([TWO])
+  expect(folded).not.toBe(wasKept)
+  expect(kept(root)).toBe(wasKept)
 })
 
 test("a fold that made the patch is undone by taking the patch away", async () => {
