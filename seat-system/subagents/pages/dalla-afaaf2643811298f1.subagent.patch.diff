@@ -11,6 +11,17 @@ index c7c4893c54f4c971a5cf25283cdd0d22fe02c4aa..9cd2b0fd54320f9c7a116570f4ff841d
    evidence:
      "The key is at pages/workflow-template/workflow-temper-watcher.workflow-template.declaration.attachment.ts, which git tracks. Its payload decodes to role `anon`, issuer `https://supabase.alanwalton.com/auth/v1`, and expiry 2092231506, which is 2036-04-19. Every other secret in the repository is sops-encrypted. Found while surveying which supabase code is not auth code. Service-role and anon values are also in plaintext at alanwalton/web/.env.local, which git does not track, so those remain on the machine holding them and are named here only so the two are not confused.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha.finding.ts b/domains/findings/pages/email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha.finding.ts
+index 59cff13754501b21bf99fb031f83af78b1eb6835..8a00f80b944de2ef8ddacbca48ee34bd7a343011 100644
+--- a/domains/findings/pages/email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha.finding.ts
++++ b/domains/findings/pages/email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha.finding.ts
+@@ -8,5 +8,5 @@ export const emailUnsubscribeLostItsDryRunWhenItCarriedIntoAkasha = {
+   claim:
+     "The carried `email-unsubscribe` command always fires, where the old ops command could be asked to say what it would do and stop, so the only rehearsal for an irreversible act is gone.",
+   evidence:
+-    "tools/commands/email/unsubscribe.ts lines 38-41 printed the parsed intent and returned without firing when --dry-run was said, and pages/old-ops-command/ops-email-unsubscribe.old-ops-command.md line 20 documented that flag. akasha/google/email/commands/email-unsubscribe/email-unsubscribe.command.ts declares no such taking and carries the absence invariant 'Nothing here says what an unsubscribe would do without doing it.', so the loss is declared rather than accidental. Both old files were ablated at c87be387d011ae47c4176474e565760b7e95f056 and are recoverable from its parent. Whether the rehearsal is worth restoring is Alan's call, not a carry.",
++    "tools/commands/email/unsubscribe.ts lines 38-41 printed the parsed intent and returned without firing when --dry-run was said, and pages/old-ops-command/ops-email-unsubscribe.old-ops-command.md line 20 documented that flag. akasha/google/email/commands/email-unsubscribe/email-unsubscribe.command.ts declares no such taking and carries the absence invariant 'Nothing here says what an unsubscribe would do without doing it.', so the loss is declared rather than accidental. Both old files were ablated at c87be387d011ae47c4176474e565760b7e95f056 and are recoverable from its parent. Whether the rehearsal is worth restoring is Alan's call, not one carry.",
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts b/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts
 index 266b849afd483a38ccec1d2ec54a257ab3605dd9..9dd6783a45def6ea0ad80607567842efd1633520 100644
 --- a/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts
