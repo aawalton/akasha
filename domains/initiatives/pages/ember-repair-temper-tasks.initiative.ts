@@ -60,7 +60,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "The browser reads and writes the file beside a page.",
       workingMemory:
-        "A browser reaches the store at its own origin under /api, and temper-web serves /api/ask and /api/page-write but nothing at /api/read or /api/write, which is where readFiles and writeFiles land. The store limits no caller, so those routes are the whole authorization boundary, and a road taking a path would hand every signed-in reader the tree. The road wanted is named by page and property, scoped by the shape's owner. Waiting on it: player settings, and `completion` on ten page types.",
+        "The store road is built both ways. A page a write carries may hand over `bodies`, and composedFor puts each at the file its ending names, refusing a key held in no file, a named file, or a missing ending. A query may name `files`, and /ask answers those keys as bodies: ember's portrait reads 2,796 bytes rather than the two characters `md`. A path road was refused because the store limits no caller. Left: the access client drops both fields, and temper-web still reads asRecord(row.completion).",
     },
   ],
   constraints: [
