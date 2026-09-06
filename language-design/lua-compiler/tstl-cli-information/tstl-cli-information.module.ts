@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlCliInformation = {
   id: "01a06758-8e63-7001-9614-eb554b7d073c",

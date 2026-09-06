@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const visitBinaryOperationDeps = {
   id: "01a06758-8e9a-7001-a358-dfc22985a4be",

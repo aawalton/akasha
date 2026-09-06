@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const visitVariableDeclaration = {
   id: "01a06758-8ec9-7000-b18d-dc864b834bc5",

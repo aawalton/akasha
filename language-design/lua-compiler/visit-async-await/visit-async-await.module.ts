@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const visitAsyncAwait = {
   id: "01a06758-8e98-7001-aebd-769452e10451",

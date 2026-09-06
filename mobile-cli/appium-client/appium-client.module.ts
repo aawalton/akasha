@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const appiumClient = {
   id: "01a05cee-e560-73f4-91d5-4cabe49e4d24",

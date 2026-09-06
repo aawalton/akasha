@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const iosSigning = {
   id: "01a05cee-e560-71dd-8e89-cb8b5c1119d9",

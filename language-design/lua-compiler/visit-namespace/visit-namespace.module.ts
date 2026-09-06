@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const visitNamespace = {
   id: "01a06758-8ec1-7001-a223-555ca4d0a529",

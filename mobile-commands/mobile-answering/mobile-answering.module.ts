@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mobileAnswering = {
   id: "01a0685d-ceae-7001-ab89-d96c099a2549",

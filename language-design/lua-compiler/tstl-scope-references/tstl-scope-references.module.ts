@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlScopeReferences = {
   id: "01a06758-8e92-7001-8bb3-e808b2906a85",

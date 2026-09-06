@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const wwwBuild = {
   id: "01a05cee-e560-7a57-a963-fd6e97427f94",

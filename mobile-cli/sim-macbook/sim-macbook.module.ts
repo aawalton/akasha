@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const simMacbook = {
   id: "01a05cee-e560-774c-8033-bd5fef37e8aa",

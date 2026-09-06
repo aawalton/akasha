@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const repoRoots = {
   id: "01a0691b-4f65-7e5d-ad7c-a9523f441291",

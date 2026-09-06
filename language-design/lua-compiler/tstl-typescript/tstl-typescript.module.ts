@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlTypescript = {
   id: "01a06758-8e97-7000-bb3a-9fb15cb862ba",

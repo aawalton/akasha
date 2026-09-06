@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlExportsIdentifier = {
   id: "01a06758-8e78-7001-9936-7676d4300305",

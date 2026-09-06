@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const localCutLock = {
   id: "01a05cee-e560-799d-8874-d6c9518059c9",

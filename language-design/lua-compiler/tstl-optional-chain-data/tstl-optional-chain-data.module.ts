@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlOptionalChainData = {
   id: "01a06758-8e91-7001-bd6a-31c224ba8cf6",

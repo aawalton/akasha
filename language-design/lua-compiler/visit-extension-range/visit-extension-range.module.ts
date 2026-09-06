@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const visitExtensionRange = {
   id: "01a06758-8eb9-7002-b951-e32c6f5e1cab",

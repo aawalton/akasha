@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const deleting = {
   id: "01a05bd6-c52b-7e05-aaba-3dcff1a42826",

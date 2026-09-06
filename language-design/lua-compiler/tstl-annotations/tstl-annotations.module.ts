@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlAnnotations = {
   id: "01a06758-8e74-7000-8757-80d69dd6c4bc",

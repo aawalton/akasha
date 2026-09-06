@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const migrationSystem = {
   id: "01a0654f-b626-78f5-9584-1f935da5bd36",

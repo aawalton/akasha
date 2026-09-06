@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const akashaLauncher = {
   id: "01a07352-c56d-7d59-981a-3d7fa93e062d",

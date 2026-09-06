@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const migrationLanding = {
   id: "01a0654f-b626-789d-9c0a-6ec24acc1a77",

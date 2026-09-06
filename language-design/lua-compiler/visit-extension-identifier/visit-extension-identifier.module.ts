@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const visitExtensionIdentifier = {
   id: "01a06758-8eb8-7000-84d7-ab7427732c82",

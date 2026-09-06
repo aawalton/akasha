@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlCompilerOptions = {
   id: "01a06758-8e36-7000-9275-b0f94fdf6d87",

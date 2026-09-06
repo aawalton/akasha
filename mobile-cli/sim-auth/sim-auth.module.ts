@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const simAuth = {
   id: "01a05cee-e560-7b4b-9878-974e9ad04004",

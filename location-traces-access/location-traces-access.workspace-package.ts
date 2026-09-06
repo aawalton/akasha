@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const locationTracesAccess = {
   id: "01a05bc7-9129-700a-81c5-e2dfa20709ec",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const filePageTypeConfig = {
   id: "01a05bd6-c52f-7e97-a8ea-067913e34725",

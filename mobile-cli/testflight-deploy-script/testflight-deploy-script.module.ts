@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const testflightDeployScript = {
   id: "01a05cee-e560-7155-aa17-bd611c29ba2d",

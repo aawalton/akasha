@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlSymbols = {
   id: "01a06758-8e95-7001-9363-639cfbf59e55",

@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const provisionWorkstation = {
   id: "01a06864-40db-75c0-8e65-54f538b8d39b",

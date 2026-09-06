@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlLanguageExtensions = {
   id: "01a06758-8e7a-7000-91b1-5c7d032b8007",

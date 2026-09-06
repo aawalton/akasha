@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const visitAccess = {
   id: "01a06758-8e98-7000-b4c2-94d4ae3e488f",

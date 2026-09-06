@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const visitConditional = {
   id: "01a06758-8eb2-7000-aa2d-0984a114ba32",

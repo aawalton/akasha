@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlWorkspaceSource = {
   id: "01a06758-8e97-7001-a2ca-381d3510aa50",

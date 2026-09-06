@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const transpileReachability = {
   id: "01a06758-8ed6-7000-a339-75b552d40fe0",

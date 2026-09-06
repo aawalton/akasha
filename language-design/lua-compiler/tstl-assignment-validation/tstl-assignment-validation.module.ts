@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlAssignmentValidation = {
   id: "01a06758-8e75-7000-b810-541e027fbe15",

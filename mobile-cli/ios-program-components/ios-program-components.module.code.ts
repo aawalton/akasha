@@ -1,7 +1,7 @@
-import { alanwaltonDecodeHarness } from "@akasha/code-system/ios-program/alanwalton-decode-harness"
-import { alanwaltonWidget } from "@akasha/code-system/ios-program/alanwalton-widget"
-import { smilingjennyDecodeHarness } from "@akasha/code-system/ios-program/smilingjenny-decode-harness"
-import { smilingjennyWidget } from "@akasha/code-system/ios-program/smilingjenny-widget"
+import { alanwaltonDecodeHarness } from "@akasha/code/ios-program/alanwalton-decode-harness"
+import { alanwaltonWidget } from "@akasha/code/ios-program/alanwalton-widget"
+import { smilingjennyDecodeHarness } from "@akasha/code/ios-program/smilingjenny-decode-harness"
+import { smilingjennyWidget } from "@akasha/code/ios-program/smilingjenny-widget"
 import { InputError } from "@akasha/errors-core/exit-code"
 
 const PROGRAM_PAGES = [

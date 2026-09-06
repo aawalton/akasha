@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlPrecedingStatements = {
   id: "01a06758-8e91-7002-8068-78c858cb2c17",

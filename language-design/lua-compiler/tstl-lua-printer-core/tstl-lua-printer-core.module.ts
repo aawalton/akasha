@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlLuaPrinterCore = {
   id: "01a06758-8e50-7000-87a6-50af44253098",

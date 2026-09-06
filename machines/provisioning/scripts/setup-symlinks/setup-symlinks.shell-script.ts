@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const setupSymlinks = {
   id: "01a06864-40db-7e85-9566-bd493d09bca2",

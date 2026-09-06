@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlMeasurePerformance = {
   id: "01a06758-8e60-7000-a545-1fc2ed42307f",

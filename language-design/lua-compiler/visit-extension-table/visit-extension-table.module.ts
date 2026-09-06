@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const visitExtensionTable = {
   id: "01a06758-8eba-7000-a39a-bcf4e6fc9db9",

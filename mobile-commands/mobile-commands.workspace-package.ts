@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const mobileCommands = {
   id: "01a0685d-ceae-7000-bca6-75f9319e56ca",

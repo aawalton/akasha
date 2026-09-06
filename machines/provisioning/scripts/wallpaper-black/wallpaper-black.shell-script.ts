@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const wallpaperBlack = {
   id: "01a06864-40db-7c5e-affa-6167aec19bee",

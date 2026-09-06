@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const migrationReach = {
   id: "01a0654f-b626-73bf-8f5f-baa761fc112c",

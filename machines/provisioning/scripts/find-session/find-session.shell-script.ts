@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const findSession = {
   id: "01a06864-40db-7788-b62b-0c19278aaa92",

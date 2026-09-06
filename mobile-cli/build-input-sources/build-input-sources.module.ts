@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const buildInputSources = {
   id: "01a05cee-e560-7116-bb78-4e76e90508fe",

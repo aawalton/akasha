@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const partCensus = {
   id: "01a06980-1555-7648-8777-3035d5b2736d",

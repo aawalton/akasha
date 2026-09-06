@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const provisionMacbook = {
   id: "01a06864-40db-7195-8270-09f06e301f24",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const transpileResolveRequireReplacement = {
   id: "01a06758-8ed6-7002-83fe-ec50dee7207e",

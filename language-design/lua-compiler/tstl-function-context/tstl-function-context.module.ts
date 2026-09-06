@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlFunctionContext = {
   id: "01a06758-8e79-7000-aad4-c884cf44ba9f",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlThisVoidAdapter = {
   id: "01a06758-8e95-7002-a49e-fc6db8a3b011",

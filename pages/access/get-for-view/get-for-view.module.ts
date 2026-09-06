@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const getForView = {
   id: "01a05bd6-c532-706a-a0ad-5af32c813293",

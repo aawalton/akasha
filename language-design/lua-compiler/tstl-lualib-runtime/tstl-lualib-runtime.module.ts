@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlLualibRuntime = {
   id: "01a06758-8e5f-7000-91ee-714a2cfab1a4",

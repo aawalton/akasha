@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const rg = {
   id: "01a06864-40db-7fc2-a601-054aa52bdfc7",

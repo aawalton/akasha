@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlLualib = {
   id: "01a06758-8e91-7000-b783-451792225b27",

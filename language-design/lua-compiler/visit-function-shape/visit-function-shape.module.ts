@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const visitFunctionShape = {
   id: "01a06758-8eb4-7001-913c-4bb719075058",

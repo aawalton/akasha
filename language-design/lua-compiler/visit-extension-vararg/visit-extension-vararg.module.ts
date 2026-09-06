@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const visitExtensionVararg = {
   id: "01a06758-8eba-7001-acbf-7dc0f665f162",

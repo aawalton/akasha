@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const visitExtensionIterable = {
   id: "01a06758-8eb8-7001-b0ce-ddf91f9dbcc2",

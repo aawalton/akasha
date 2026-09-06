@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const simDriver = {
   id: "01a05cee-e560-7b19-818c-dae87acdf7de",

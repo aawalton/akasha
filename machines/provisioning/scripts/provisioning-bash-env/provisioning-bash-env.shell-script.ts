@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const provisioningBashEnv = {
   id: "01a06864-40db-7f4c-89c0-50d81e95b4f5",

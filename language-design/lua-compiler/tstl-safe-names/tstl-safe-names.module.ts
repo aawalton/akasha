@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tstlSafeNames = {
   id: "01a06758-8e92-7000-90a5-b11a539aafe2",

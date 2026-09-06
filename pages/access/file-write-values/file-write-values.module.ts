@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fileWriteValues = {
   id: "01a05bd6-c532-7ef4-b095-69e98b3f40b7",
