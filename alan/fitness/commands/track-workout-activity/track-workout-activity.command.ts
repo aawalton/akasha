@@ -28,7 +28,7 @@ export const trackWorkoutActivity = {
     { said: "--json", takes: "answer as JSON rather than as a line meant for a reader" },
   ],
   helpNotes: [
-    "this is the sibling of `exercise-log-set` for work that is timed rather than repped.",
+    "this is the sibling of `track-workout-set` for work that is timed rather than repped.",
     "`--duration` is minutes and `--hold` is seconds, both land as seconds, and one call says at most one of them.",
     "the session falls to the open one, and a session left open from an earlier day is refused rather than written to.",
     "the number a stretch gets is one past the highest already logged for that movement in that session.",
