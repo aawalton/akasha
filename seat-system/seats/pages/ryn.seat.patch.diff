@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts b/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
+index eca9fd501276596130ab26f9c106abd3468f3870..8ad7ad757d6ccea5a4ca882c33b071f568985518 100644
+--- a/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
++++ b/readout-system/readouts/pages/inboxes-tasks/inboxes-tasks.readout.ts
+@@ -20,7 +20,7 @@ export const inboxesTasks = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The count is the one the tracking day carries for the day asked for.",
++      statement: "The count is the count the tracking day carries for the day asked for.",
+     },
+     {
+       invariantKind: "departure",
