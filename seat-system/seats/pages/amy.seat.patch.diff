@@ -1,0 +1,29 @@
+diff --git a/pages/ui/supabase/use-nav-mutations/use-nav-mutations.module.code.ts b/pages/ui/supabase/use-nav-mutations/use-nav-mutations.module.code.ts
+index fac33498e5bacda6cc07e81c5af763d4ee07e931..5cac7aac2df2deb257af8e0da3b0ab8c1005150d 100644
+--- a/pages/ui/supabase/use-nav-mutations/use-nav-mutations.module.code.ts
++++ b/pages/ui/supabase/use-nav-mutations/use-nav-mutations.module.code.ts
+@@ -21,11 +21,13 @@ export function slugFromName(name: string): string {
+   return stem === "" ? "nav" : stem
+ }
+ 
+-async function freeNavSlug(name: string, appSlug: string): Promise<string> {
++// A NAV SLUG IS ALONE AMONG EVERY NAV THERE IS. A slug is unique among the pages of its page type
++// rather than within one app, so a stem free under this app can already name another app's nav
++// item, and creating it there would write over that page rather than beside it.
++async function freeNavSlug(name: string): Promise<string> {
+   const stem = slugFromName(name)
+   const { rows } = await getPages({
+     pageTypeSlug: NAV_SLUG,
+-    where: [{ key: "appSlug", eq: appSlug }],
+     select: ["slug"],
+     limit: 500,
+   })
+@@ -126,7 +128,7 @@ export function useNavMutations(appSlug: string) {
+         select: ["id"],
+         limit: 200,
+       })
+-      const navSlug = await freeNavSlug(name, appSlug)
++      const navSlug = await freeNavSlug(name)
+ 
+       const created = await runCreate({
+         pageTypeSlug: NAV_SLUG,
