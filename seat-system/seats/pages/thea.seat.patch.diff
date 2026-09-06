@@ -37,6 +37,19 @@ index 21702f4eb50881a6ff037e504b8778d08bf83b5d..c4035a6b5975d64835304e2c0790a709
    pageTypeSlug: "module",
    slug: "checksum-hash",
    definition: "shell lines hashing a subject and refusing a subject that read empty",
+diff --git a/changes/workflow-language/ci-identifiers/ci-identifiers.module.ts b/changes/workflow-language/ci-identifiers/ci-identifiers.module.ts
+index 14af99a34fc265673ffeb7afcadb13341dfc7632..025c57dd953f68268ac8c106bf83bfd115d4a6cb 100644
+--- a/changes/workflow-language/ci-identifiers/ci-identifiers.module.ts
++++ b/changes/workflow-language/ci-identifiers/ci-identifiers.module.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "../../../code-system/modules/module.page-type.ts"
+ 
+ export const ciIdentifiers = {
+-  id: "01a06f10-7000-7005-b0005-9d4a2f6c0005e1",
++  id: "01a07740-d031-7556-a813-b046773a596f",
+   pageTypeSlug: "module",
+   slug: "ci-identifiers",
+   definition: "branded string types for a commit, a tree, an inputs hash and an image tag",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
