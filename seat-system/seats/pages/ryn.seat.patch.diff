@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-initiative/seat-initiative.module.ts b/seat-system/seat-initiative/seat-initiative.module.ts
-index f267ecf208569aad8df31f2a7766d52fb6bae912..ebe30793cb6986fb59ee36432bcbb7802f5e9f3a 100644
+index f267ecf208569aad8df31f2a7766d52fb6bae912..7d4530455c64ebf8269ffc479b13d1fd4a4e3a2d 100644
 --- a/seat-system/seat-initiative/seat-initiative.module.ts
 +++ b/seat-system/seat-initiative/seat-initiative.module.ts
 @@ -13,12 +13,12 @@ export const seatInitiative = {
@@ -14,6 +14,19 @@ index f267ecf208569aad8df31f2a7766d52fb6bae912..ebe30793cb6986fb59ee36432bcbb780
        statement:
 -        "A seat's initiative is the assignment that seat states, addressed as an initiative.",
 +        "A seat's initiative is the assignment that seat states addressed as an initiative.",
+     },
+     {
+       invariantKind: "departure",
+@@ -26,7 +26,11 @@ export const seatInitiative = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A slug naming no initiative is refused, and the known ones are named back.",
++      statement: "A slug naming no initiative is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The initiatives akasha knows are named back.",
      },
      {
        invariantKind: "departure",
