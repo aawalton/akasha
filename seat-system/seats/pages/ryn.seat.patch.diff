@@ -1,5 +1,5 @@
 diff --git a/pages/service/kinds-gathering/kinds-gathering.module.ts b/pages/service/kinds-gathering/kinds-gathering.module.ts
-index acb880215f1344a9b3808f285648865e5b074f7c..95db5934e239168c8883d03c1b568eed76ee988a 100644
+index acb880215f1344a9b3808f285648865e5b074f7c..16530244218ce8343bbe6c58744a54b895924407 100644
 --- a/pages/service/kinds-gathering/kinds-gathering.module.ts
 +++ b/pages/service/kinds-gathering/kinds-gathering.module.ts
 @@ -15,11 +15,12 @@ export const kindsGathering = {
@@ -26,12 +26,17 @@ index acb880215f1344a9b3808f285648865e5b074f7c..95db5934e239168c8883d03c1b568eed
      },
      {
        invariantKind: "departure",
-@@ -39,7 +40,7 @@ export const kindsGathering = {
+@@ -39,11 +40,11 @@ export const kindsGathering = {
      },
      {
        invariantKind: "absence",
 -      statement: "Nothing here reads a question or refuses one.",
 +      statement: "Nothing here reads a question or refuses a question.",
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here orders, narrows or cuts the rows this module gathers.",
++      statement: "Nothing here orders or narrows or cuts the rows this module gathers.",
      },
      {
        invariantKind: "absence",
