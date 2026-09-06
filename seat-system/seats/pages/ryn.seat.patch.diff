@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/fitness/session-planning/pattern-groups/pattern-groups.module.ts b/alan/fitness/session-planning/pattern-groups/pattern-groups.module.ts
+index 716d3f2e62e15b8aa9319d1fabca45dcca508411..6eb8bc0b41a3325956338fc92ecfd09579e5dc11 100644
+--- a/alan/fitness/session-planning/pattern-groups/pattern-groups.module.ts
++++ b/alan/fitness/session-planning/pattern-groups/pattern-groups.module.ts
+@@ -22,7 +22,7 @@ export const patternGroups = {
+     {
+       invariantKind: "absence",
+       statement:
+-        "A pattern belongs to no region unless that pattern trains that region and no other.",
++        "A pattern belongs to no region unless that pattern trains that region and no other region.",
+     },
+   ],
+ } as const satisfies Module
