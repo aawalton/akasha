@@ -174,7 +174,7 @@ test("a restatement turning a property from one to many is left to the check ref
   expect(said).toEqual([])
 })
 
-test("a restatement raising a length alone is refused for narrowing nothing", () => {
+test("a restatement raising a length is left to the check refusing that", () => {
   const root = rooted()
   const said = restating(
     root,
@@ -183,8 +183,7 @@ test("a restatement raising a length alone is refused for narrowing nothing", ()
     { required: true, many: true, maxCount: null, maxLength: 100 }
   )
 
-  expect(said).toHaveLength(1)
-  expect(said[0]?.reason).toContain("narrows nothing")
+  expect(said).toEqual([])
 })
 
 test("a property no type above declares is let through", () => {
