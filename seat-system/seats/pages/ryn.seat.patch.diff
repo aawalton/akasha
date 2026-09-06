@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts b/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts
-index 333000c445084e4fb12e30d0b8df3e9c1a412a3f..ed1f37ddd4f04d494d4b69fc49bef7df5db31be2 100644
+index 333000c445084e4fb12e30d0b8df3e9c1a412a3f..16aa881bbc58615cb76368b323d0fc311c7f9a08 100644
 --- a/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts
 +++ b/seat-system/supervising/supervisor-idle-observe/supervisor-idle-observe.module.ts
 @@ -13,7 +13,7 @@ export const supervisorIdleObserve = {
@@ -11,7 +11,20 @@ index 333000c445084e4fb12e30d0b8df3e9c1a412a3f..ed1f37ddd4f04d494d4b69fc49bef7df
      },
      {
        invariantKind: "departure",
-@@ -42,7 +42,11 @@ export const supervisorIdleObserve = {
+@@ -25,7 +25,11 @@ export const supervisorIdleObserve = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The rule is asked once for all cmdlines, and answers are read back by position.",
++      statement: "The rule is asked once for every cmdline.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Answers are read back by position.",
+     },
+     {
+       invariantKind: "departure",
+@@ -42,7 +46,11 @@ export const supervisorIdleObserve = {
      },
      {
        invariantKind: "departure",
