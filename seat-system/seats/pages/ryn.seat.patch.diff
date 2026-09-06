@@ -1,0 +1,13 @@
+diff --git a/temper/temper-addon-data/addon-data-writes-sets/addon-data-writes-sets.module.ts b/temper/temper-addon-data/addon-data-writes-sets/addon-data-writes-sets.module.ts
+index 117f1db88c83946c7ccacfacc113fbc5433305fd..7d589741b3e8da84c3e21042f20378eb79407f16 100644
+--- a/temper/temper-addon-data/addon-data-writes-sets/addon-data-writes-sets.module.ts
++++ b/temper/temper-addon-data/addon-data-writes-sets/addon-data-writes-sets.module.ts
+@@ -9,7 +9,7 @@ export const addonDataWritesSets = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A section renders some of its tables from pages and some from what temper holds.",
++      statement: "A section renders certain tables from pages and the rest from what temper holds.",
+     },
+     {
+       invariantKind: "departure",
