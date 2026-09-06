@@ -1,5 +1,5 @@
 diff --git a/checks/modules/run-cost/run-cost.module.ts b/checks/modules/run-cost/run-cost.module.ts
-index f45be09621fc2e4bde67d835060cc0440c2683be..addf9625b6f9593a549d6af737064e5dc357c386 100644
+index f45be09621fc2e4bde67d835060cc0440c2683be..3321ad2536895c60512ad2b9d5bd8ac0f5f915d4 100644
 --- a/checks/modules/run-cost/run-cost.module.ts
 +++ b/checks/modules/run-cost/run-cost.module.ts
 @@ -9,7 +9,7 @@ export const runCost = {
@@ -8,6 +8,19 @@ index f45be09621fc2e4bde67d835060cc0440c2683be..addf9625b6f9593a549d6af737064e5d
        invariantKind: "departure",
 -      statement: "The bands go from fast to eternal, each one looser than the last.",
 +      statement: "The bands go from fast to eternal with each band looser than the last.",
+     },
+     {
+       invariantKind: "departure",
+@@ -26,7 +26,11 @@ export const runCost = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The stat line is read from its last bracket on, so a name with spaces is safe.",
++      statement: "The stat line is read from its last bracket on.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name with spaces is safe.",
      },
      {
        invariantKind: "departure",
