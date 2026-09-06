@@ -298,3 +298,14 @@ index 0000000000000000000000000000000000000000..2ad4b388b17acd1df733b82e7417e5e0
 +    },
 +  ],
 +} as const satisfies ComputedProperty
+diff --git a/pages/queries/pages/claude-accounts-mean-weekly-used.page-query.ts b/pages/queries/pages/claude-accounts-mean-weekly-used.page-query.ts
+index ac20d8ad8e61c61913a94a3500bfc953eeeca9d9..950ca3fc8a55deb2917421d17b49a7cb544bdd30 100644
+--- a/pages/queries/pages/claude-accounts-mean-weekly-used.page-query.ts
++++ b/pages/queries/pages/claude-accounts-mean-weekly-used.page-query.ts
+@@ -6,5 +6,5 @@ export const claudeAccountsMeanWeeklyUsed = {
+   slug: "claude-accounts-mean-weekly-used",
+   asksOfSlug: "claude-account",
+   reduction: "mean",
+-  targetKey: "effectiveSevenDayPercentUsed",
++  targetKey: "effectiveSevenDayUsage",
+ } as const satisfies PageQuery
