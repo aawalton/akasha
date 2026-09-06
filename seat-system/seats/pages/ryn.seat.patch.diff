@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/command-system/commands/seat/seat.command.ts b/command-system/commands/seat/seat.command.ts
-index a00eaa05eb8fe869e06eb38cd4ce5c61b86d2248..35c824dbb5bdc74b5c3f4563086ed6c54cf957ee 100644
+index a00eaa05eb8fe869e06eb38cd4ce5c61b86d2248..7c1d79a314e798fbec4434243a5b7bb5ccfb2ade 100644
 --- a/command-system/commands/seat/seat.command.ts
 +++ b/command-system/commands/seat/seat.command.ts
 @@ -64,7 +64,7 @@ export const seat = {
@@ -21,12 +21,17 @@ index a00eaa05eb8fe869e06eb38cd4ce5c61b86d2248..35c824dbb5bdc74b5c3f4563086ed6c5
      },
      {
        invariantKind: "departure",
-@@ -112,7 +112,7 @@ export const seat = {
+@@ -112,11 +112,11 @@ export const seat = {
      {
        invariantKind: "departure",
        statement:
 -        "The code a resume, a reset or a start runs is reached only once that act is read.",
 +        "The code a resume or a reset or a start runs is reached only once that act is read.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The output a resume, a reset or a start prints is written where that act runs.",
++      statement: "The output a resume or a reset or a start prints is written where that act runs.",
      },
      {
        invariantKind: "departure",
