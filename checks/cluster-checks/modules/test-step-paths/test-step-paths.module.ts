@@ -30,7 +30,7 @@ export const testStepPaths = {
     {
       invariantKind: "departure",
       statement:
-        "The deepest workspace root a test file sits under is the one that bears that file.",
+        "The deepest workspace root a test file sits under is the root that bears that file.",
     },
     {
       invariantKind: "departure",
