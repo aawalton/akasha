@@ -42,7 +42,8 @@ export const attributes = {
     },
     {
       invariantKind: "departure",
-      statement: "A source that cannot be read stops its own readings and no other.",
+      statement:
+        "A source that cannot be read stops its own readings rather than another source's.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +52,7 @@ export const attributes = {
     {
       invariantKind: "departure",
       statement:
-        "A relay carrying many readings is given longer to run than one carrying a single reading.",
+        "A relay carrying many readings is given longer to run than a relay carrying a single reading.",
     },
     {
       invariantKind: "departure",
