@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/subagent-page-history/subagent-page-history.module.ts b/seat-system/subagent-page-history/subagent-page-history.module.ts
+index 996c58c63ac93c9ac8f6f4c91f9f9a2f5b464e58..bd9c8448cf6200904b65513ff4842a5ab276d44e 100644
+--- a/seat-system/subagent-page-history/subagent-page-history.module.ts
++++ b/seat-system/subagent-page-history/subagent-page-history.module.ts
+@@ -32,7 +32,7 @@ export const subagentPageHistory = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A subagent is answered only where the agent id the body states is the one asked for.",
++        "A subagent is answered only where the agent id the body states is the id asked for.",
+     },
+   ],
+ } as const satisfies Module
