@@ -47,7 +47,7 @@ export const rustCrate = {
     },
     {
       invariantKind: "departure",
-      statement: "A module named by more than one crate is a shared one.",
+      statement: "A module named by more than one crate is a shared module.",
     },
     {
       invariantKind: "constraint",
