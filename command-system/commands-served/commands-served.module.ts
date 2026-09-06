@@ -10,7 +10,7 @@ export const commandsServed = {
     {
       invariantKind: "departure",
       statement:
-        "Both ends read the served commands from here rather than each holding a list of its own.",
+        "Both ends read the served commands from here rather than from lists of their own.",
     },
     {
       invariantKind: "departure",
