@@ -1,5 +1,5 @@
 diff --git a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
-index 2bab7c74a2ce06194583442e995277bd8137f24e..8c973c56c0460e4bdf942033a6ae3484fad7efb0 100644
+index 2bab7c74a2ce06194583442e995277bd8137f24e..8cda801e2238da644c223d96a9ed831496182a55 100644
 --- a/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
 +++ b/temper/temper-commands/inventory-settings-access/inventory-settings-access.module.ts
 @@ -17,7 +17,7 @@ export const inventorySettingsAccess = {
@@ -8,6 +8,16 @@ index 2bab7c74a2ce06194583442e995277bd8137f24e..8c973c56c0460e4bdf942033a6ae3484
        invariantKind: "departure",
 -      statement: "A rule page no rule wants any more is taken away in the same write.",
 +      statement: "A rule page no rule wants is taken away in the same write.",
+     },
+     {
+       invariantKind: "departure",
+@@ -29,7 +29,8 @@ export const inventorySettingsAccess = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A write carrying an item rule or a buy rule is refused by how many it carries.",
++      statement:
++        "A write carrying an item rule or a buy rule is refused naming how many rules the write carries.",
      },
      {
        invariantKind: "departure",
