@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.ts b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.ts
-index 35251500134f00b3fb7adda9e4cedf3501f10e76..0267b8de609a1b1405b851b72950db4bd6b7c886 100644
+index 35251500134f00b3fb7adda9e4cedf3501f10e76..4287a22af626f86bef6a79d6501763434e53281e 100644
 --- a/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.ts
 +++ b/hook-system/agent-hooks/block-typecheck/block-typecheck.agent-hook.ts
 @@ -12,7 +12,7 @@ export const blockTypecheck = {
@@ -11,3 +11,12 @@ index 35251500134f00b3fb7adda9e4cedf3501f10e76..0267b8de609a1b1405b851b72950db4b
      },
      {
        invariantKind: "departure",
+@@ -49,7 +49,7 @@ export const blockTypecheck = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A check reporting success over no file reads exactly like one that passed.",
++      statement: "A check reporting success over no file reads exactly like a check that passed.",
+     },
+     {
+       invariantKind: "absence",
