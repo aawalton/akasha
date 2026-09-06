@@ -1,0 +1,13 @@
+diff --git a/pages/commands/page-secret-acting/page-secret-acting.module.ts b/pages/commands/page-secret-acting/page-secret-acting.module.ts
+index b5f7e1702078f146819728cafe225e73611639c4..c9982ddedf8a296761025e3e7f4da8e672f93272 100644
+--- a/pages/commands/page-secret-acting/page-secret-acting.module.ts
++++ b/pages/commands/page-secret-acting/page-secret-acting.module.ts
+@@ -26,7 +26,7 @@ export const pageSecretActing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag standing where a value should be is refused rather than read as one.",
++      statement: "A flag where a value should be is refused rather than read as a value.",
+     },
+     {
+       invariantKind: "departure",
