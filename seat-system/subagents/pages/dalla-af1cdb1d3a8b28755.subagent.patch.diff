@@ -46,3 +46,25 @@ index 6ce423661a9acf50c399bc06f933945d19b19d15..666deb32c3dce98c541bd8dc35914ab9
  }
 +
 +export const runGuard: Guard = importNotLeftHanging
+diff --git a/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts b/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts
+index 947b134951948d812f8309de51d3a19977cf9c85..c2f7de729e002323e75058d4ac9079ee72b43fd8 100644
+--- a/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts
++++ b/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts
+@@ -5,7 +5,10 @@ import {
+   takingIn,
+   unreadable,
+ } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+-import type { Guarding } from "../../../modules/change-guarding/change-guarding.module.types.ts"
++import type {
++  Guard,
++  Guarding,
++} from "../../../modules/change-guarding/change-guarding.module.types.ts"
+ 
+ function hangingOn(path: string, namer: Named): string {
+   const names = `\`${namer.path}\` names \`${path}\` as its \`${namer.propertySlug}\``
+@@ -44,3 +47,5 @@ export function relationNotLeftHanging(given: Guarding): string | null {
+     return unreadable(cause)
+   }
+ }
++
++export const runGuard: Guard = relationNotLeftHanging
