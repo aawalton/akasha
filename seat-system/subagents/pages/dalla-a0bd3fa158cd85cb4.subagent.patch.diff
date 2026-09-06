@@ -237,14 +237,13 @@ index 0000000000000000000000000000000000000000..9ec190862b59bce893484e7badc10c09
 +})
 diff --git a/changes/pages/remove-property-value/remove-property-value.change.ts b/changes/pages/remove-property-value/remove-property-value.change.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..30a3b42bed92effa2c87545844db132672a29dbe
+index 0000000000000000000000000000000000000000..eb3b31d902b4cce1dffde474308945043ef3b9d7
 --- /dev/null
 +++ b/changes/pages/remove-property-value/remove-property-value.change.ts
-@@ -0,0 +1,48 @@
+@@ -0,0 +1,51 @@
 +import type { Change } from "../../change.page-type.ts"
 +
 +export const removePropertyValue = {
-+  id: "01a07756-f176-74f7-b3b6-90bcbc4e5c0d",
 +  pageTypeSlug: "change",
 +  slug: "remove-property-value",
 +  definition: "one value taken out of one page property in a page's body",
@@ -257,7 +256,7 @@ index 0000000000000000000000000000000000000000..30a3b42bed92effa2c87545844db1326
 +  invariants: [
 +    {
 +      invariantKind: "departure",
-+      statement: "A property holding many values keeps its key when the last of them goes.",
++      statement: "A property holding many values keeps its key when the last value goes.",
 +    },
 +    {
 +      invariantKind: "departure",
@@ -265,11 +264,15 @@ index 0000000000000000000000000000000000000000..30a3b42bed92effa2c87545844db1326
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "Whether a property is required is read from the type its page's body satisfies.",
++      statement: "Whether a property is required is read from the type the page's body satisfies.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A required property is refused, that being a retype rather than a removal.",
++      statement: "A required property is refused rather than taken away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Taking a required property away is a retype.",
 +    },
 +    {
 +      invariantKind: "departure",
