@@ -19,7 +19,7 @@ export const safety = {
 
     {
       invariantKind: "departure",
-      statement: "Every site showing the level is carried the level rather than taking one.",
+      statement: "Every site showing the level is carried the level rather than taking the level.",
     },
     {
       invariantKind: "departure",
