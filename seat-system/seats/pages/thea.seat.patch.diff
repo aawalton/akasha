@@ -43,3 +43,20 @@ index d00f91b989ced9b12dde4d81b3f6105c71e69b63..ec076b12a55fb2b632e4476ab990b2c9
    return classesIn(path, text)
      .filter((one) => !permitted(one))
      .map(reasonFor)
+diff --git a/checks/code-checks/pages/no-class/no-class.code-check.test.ts b/checks/code-checks/pages/no-class/no-class.code-check.test.ts
+index 972322e181ec671350764909d56dca6bcf92250f..efb079fa888ca167b33e2032bb92b0e283007ba2 100644
+--- a/checks/code-checks/pages/no-class/no-class.code-check.test.ts
++++ b/checks/code-checks/pages/no-class/no-class.code-check.test.ts
+@@ -132,8 +132,10 @@ test("a file that is not TypeScript is passed over", () => {
+   expect(reasonsIn(given("akasha/notes.txt", "class Held {}\n"))).toEqual([])
+ })
+ 
+-test("a declaration file is judged, because its name ends in `.ts`", () => {
+-  expect(reasonsIn(given("akasha/held.d.ts", "declare class Held {}\n"))).toHaveLength(1)
++test("a class a declaration file holds is let through, and the same body in a module is not", () => {
++  const body = "export class Held {}\n"
++  expect(reasonsIn(given("akasha/held.d.ts", body))).toEqual([])
++  expect(reasonsIn(given("akasha/held.ts", body))).toHaveLength(1)
+ })
+ 
+ test("a body that is not text refuses rather than being passed over", () => {
