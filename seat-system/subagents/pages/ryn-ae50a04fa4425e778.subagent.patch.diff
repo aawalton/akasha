@@ -1,15 +1,21 @@
 runsWarrants: false
 diff --git a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
-index 23d6e0f53de7652a73c8ac8e473be5c596cb7d75..0d4295c99ddbd6a65deedcfa075d9b659ff38759 100644
+index 23d6e0f53de7652a73c8ac8e473be5c596cb7d75..aa0c6964ff862ce4412625c017644f48f02db0d6 100644
 --- a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
 +++ b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
-@@ -15,7 +15,8 @@ export const renamePath = {
+@@ -15,11 +15,13 @@ export const renamePath = {
  
      {
        invariantKind: "departure",
 -      statement: "The body that moves has its own relative reaches rebased on where it lands.",
 +      statement:
 +        "The body that moves has its own relative reaches rebased on where the body lands.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The body that moves is answered under the path it lands at, changed or not.",
++      statement:
++        "The body that moves is answered under the path the body lands at whether the body changed or not.",
      },
      {
        invariantKind: "departure",
