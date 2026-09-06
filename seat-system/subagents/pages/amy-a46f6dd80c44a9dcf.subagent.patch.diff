@@ -413,3 +413,58 @@ index c7aacf04f8b8db833d06f55b9553d133e861d796..376691e4995d8f0e17355e362f75fae2
  }
  
  export async function measureAttributes(_argv: readonly string[], given: Given): Promise<Answer> {
+diff --git a/command-system/commands/measure-attributes/measure-attributes.command.test.ts b/command-system/commands/measure-attributes/measure-attributes.command.test.ts
+index ead45918d669dcc411f897fa2bddcf9854f2dcc0..b83da7e25f16bd06e688ebe9e5317132f79ff06d 100644
+--- a/command-system/commands/measure-attributes/measure-attributes.command.test.ts
++++ b/command-system/commands/measure-attributes/measure-attributes.command.test.ts
+@@ -20,10 +20,10 @@ test("a figure is floored to two places rather than rounded", () => {
+ })
+ 
+ test("the attributes come back in the order their readouts state", () => {
+-  const taken = { kept: { [CHARISMA]: 1.5, [STRENGTH]: 2.75 }, unread: [] }
++  const taken = { kept: { [CHARISMA]: 1.5, [STRENGTH]: 45.44 }, unread: [] }
+   expect(measuredIn(taken, DRAWN)).toEqual([
+-    { label: "Strength", figure: 2.75 },
+-    { label: "Charisma", figure: 1.5 },
++    { label: "Strength", level: 3, figure: 45.44 },
++    { label: "Charisma", level: 0, figure: 1.5 },
+   ])
+ })
+ 
+@@ -35,16 +35,29 @@ test("a reading whose readout is drawn in no group here is left out", () => {
+   expect(measuredIn(taken, DRAWN)).toEqual([])
+ })
+ 
+-test("the labels are padded so the figures line up", () => {
++test("the labels are padded so the levels and the totals line up", () => {
+   expect(
+     linesOf([
+-      { label: "Strength", figure: 2.7 },
+-      { label: "Wisdom", figure: 0.02 },
++      { label: "Strength", level: 3, figure: 45.44 },
++      { label: "Wisdom", level: 0, figure: 0.02 },
+     ])
+-  ).toEqual(["Strength  2.70", "Wisdom    0.02"])
++  ).toEqual(["Strength  3  45.44", "Wisdom    0   0.02"])
+ })
+ 
+-test("a figure with no hundredths and no tenths is written to two places anyway", () => {
+-  expect(linesOf([{ label: "Wisdom", figure: 0 }])).toEqual(["Wisdom  0.00"])
+-  expect(linesOf([{ label: "Wisdom", figure: 3 }])).toEqual(["Wisdom  3.00"])
++test("a level of two digits leaves the totals in one column", () => {
++  expect(
++    linesOf([
++      { label: "Strength", level: 12, figure: 3760 },
++      { label: "Wisdom", level: 0, figure: 0.02 },
++    ])
++  ).toEqual(["Strength  12  3760.00", "Wisdom     0     0.02"])
++})
++
++test("a level is written as a whole number", () => {
++  expect(linesOf([{ label: "Wisdom", level: 4, figure: 70 }])).toEqual(["Wisdom  4  70.00"])
++})
++
++test("a total with no hundredths and no tenths is written to two places anyway", () => {
++  expect(linesOf([{ label: "Wisdom", level: 0, figure: 0 }])).toEqual(["Wisdom  0  0.00"])
++  expect(linesOf([{ label: "Wisdom", level: 0, figure: 3 }])).toEqual(["Wisdom  0  3.00"])
+ })
