@@ -34,7 +34,7 @@ export const seatReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The root is the one the file itself stands in.",
+      statement: "The root is the folder the file itself sits in.",
     },
     {
       invariantKind: "departure",
