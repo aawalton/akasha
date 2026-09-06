@@ -9,7 +9,7 @@ export const nextBossColors = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A district still on its timer is red and one that is up is green.",
+      statement: "A district still on its timer is red and a district that is up is green.",
     },
   ],
 } as const satisfies Module
