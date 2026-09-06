@@ -13,7 +13,7 @@ export const merchantPatterns = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A pattern is copied from the bank's line exactly, abbreviations and all.",
+      statement: "A pattern is copied from the bank's line exactly including its abbreviations.",
     },
     {
       invariantKind: "departure",
