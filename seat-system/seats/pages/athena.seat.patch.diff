@@ -1,13 +1,12 @@
 diff --git a/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.ts b/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..326b721011d3eb931fe01dec18e2a42e09b58529
+index 0000000000000000000000000000000000000000..87cc974afbb7fe12b97344d55258ec32354d6809
 --- /dev/null
 +++ b/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.ts
-@@ -0,0 +1,66 @@
+@@ -0,0 +1,68 @@
 +import type { Module } from "@akasha/code/module"
 +
 +export const terminalSeatMarks = {
-+  id: "01a0785b-7029-76d8-8899-b5433f4b6af3",
 +  pageTypeSlug: "module",
 +  slug: "terminal-seat-marks",
 +  definition: "the seat a terminal is attached to, stated by the shell attaching it",
@@ -17,12 +16,15 @@ index 0000000000000000000000000000000000000000..326b721011d3eb931fe01dec18e2a42e
 +    {
 +      invariantKind: "departure",
 +      statement:
-+        "The shell attaching to a seat states that seat rather than a reader working it out.",
++        "The shell attaching to a seat states that seat rather than a reader working the seat out.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement:
-+        "A mark is beside the terminal's own page, named for that terminal as its page is.",
++      statement: "A mark is beside the terminal's own page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A mark is named for its terminal as that terminal's page is named.",
 +    },
 +    {
 +      invariantKind: "departure",
@@ -42,7 +44,7 @@ index 0000000000000000000000000000000000000000..326b721011d3eb931fe01dec18e2a42e
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A pid used again takes what its own mark states, a mark being named for its pid.",
++      statement: "A pid used again takes what its own mark states.",
 +    },
 +    {
 +      invariantKind: "departure",
