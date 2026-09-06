@@ -13,7 +13,7 @@ export const terminalPids = {
     },
     {
       invariantKind: "departure",
-      statement: "Every terminal in one sweep is asked at once rather than one after another.",
+      statement: "Every terminal in one sweep is asked at once rather than in turn.",
     },
     {
       invariantKind: "departure",
