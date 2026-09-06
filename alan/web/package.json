@@ -61,6 +61,7 @@
     "@akasha/pages-ui-store": "workspace:*",
     "@akasha/pages-url": "workspace:*",
     "@akasha/person-system": "workspace:*",
+    "@akasha/personas-core": "workspace:*",
     "@akasha/reading": "workspace:*",
     "@akasha/sms-access": "workspace:*",
     "@akasha/sms-core": "workspace:*",

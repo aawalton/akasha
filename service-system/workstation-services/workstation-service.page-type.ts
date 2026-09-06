@@ -56,6 +56,7 @@ export const workstationService = {
     "workstation-service/claude-account-upkeep-stall",
     "workstation-service/code-editor-data-watcher",
     "workstation-service/dcgm-exporter",
+    "workstation-service/desktop-wallpaper-setting",
     "workstation-service/great-courses-sync",
     "workstation-service/inbox-tracking-poll",
     "workstation-service/maintain-seat-pending",

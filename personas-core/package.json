@@ -5,6 +5,7 @@
   "exports": {
     "./anchor-cover-record": "./anchor-cover-record/anchor-cover-record.module.code.ts",
     "./canonical-image-classify": "./canonical-image-classify/canonical-image-classify.module.code.ts",
+    "./desktop-wallpaper-setting": "./desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts",
     "./framework": "./framework/framework.module.code.ts",
     "./git-byte-pathspecs": "./git-byte-pathspecs/git-byte-pathspecs.module.code.ts",
     "./green-day-fraction": "./green-day-fraction/green-day-fraction.module.code.ts",
@@ -20,10 +21,13 @@
     "./wallpaper-backfill-classify": "./wallpaper-backfill-classify/wallpaper-backfill-classify.module.code.ts",
     "./wallpaper-backfill-execute": "./wallpaper-backfill-execute/wallpaper-backfill-execute.module.code.ts",
     "./wallpaper-install": "./wallpaper-install/wallpaper-install.module.code.ts",
+    "./wallpaper-order": "./wallpaper-order/wallpaper-order.module.code.ts",
     "./wallpaper-record": "./wallpaper-record/wallpaper-record.module.code.ts",
     "./wallpaper-select": "./wallpaper-select/wallpaper-select.module.code.ts"
   },
   "dependencies": {
+    "@akasha/indexes": "workspace:*",
+    "@akasha/pages": "workspace:*",
     "@akasha/pages-core": "workspace:*",
     "@akasha/utils-narrow": "workspace:*",
     "zod": "^4.3.6"

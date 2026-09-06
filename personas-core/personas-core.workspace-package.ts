@@ -9,6 +9,7 @@ export const personasCore = {
   partSlugs: [
     "module/anchor-cover-record",
     "module/canonical-image-classify",
+    "module/desktop-wallpaper-setting",
     "module/framework",
     "module/git-byte-pathspecs",
     "module/green-day-fraction",
@@ -24,14 +25,11 @@ export const personasCore = {
     "module/wallpaper-backfill-classify",
     "module/wallpaper-backfill-execute",
     "module/wallpaper-install",
+    "module/wallpaper-order",
     "module/wallpaper-record",
     "module/wallpaper-select",
   ],
   invariants: [
-    {
-      invariantKind: "absence",
-      statement: "Nothing here touches the filesystem.",
-    },
     {
       invariantKind: "absence",
       statement: "Nothing here reaches a persona's stored record.",

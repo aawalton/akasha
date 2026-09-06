@@ -280,6 +280,7 @@
         "@akasha/pages-ui-store": "workspace:*",
         "@akasha/pages-url": "workspace:*",
         "@akasha/person-system": "workspace:*",
+        "@akasha/personas-core": "workspace:*",
         "@akasha/reading": "workspace:*",
         "@akasha/sms-access": "workspace:*",
         "@akasha/sms-core": "workspace:*",
@@ -1313,6 +1314,8 @@
     "personas-core": {
       "name": "@akasha/personas-core",
       "dependencies": {
+        "@akasha/indexes": "workspace:*",
+        "@akasha/pages": "workspace:*",
         "@akasha/pages-core": "workspace:*",
         "@akasha/utils-narrow": "workspace:*",
         "zod": "^4.3.6",

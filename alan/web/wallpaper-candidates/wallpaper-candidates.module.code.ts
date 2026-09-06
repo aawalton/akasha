@@ -5,7 +5,6 @@ export interface PersonaCoverRow {
   readonly slug?: string | null
   readonly lastMessagedAt?: string | null
   readonly cover?: string | null
-  readonly mobileWallpaper?: string | null
 }
 
 interface Candidate {
@@ -34,17 +33,6 @@ export function orderedCoverCandidates(rows: readonly PersonaCoverRow[]): readon
     const coverPageId = parseCoverPageId(row.cover)
     if (coverPageId === null) continue
     candidates.push({ id: row.id, named: coverPageId, stampMs: stampMs(row.lastMessagedAt) })
-  }
-  return ordered(candidates)
-}
-
-export function orderedWallpaperSlugs(rows: readonly PersonaCoverRow[]): readonly string[] {
-  const candidates: Candidate[] = []
-  for (const row of rows) {
-    const slug = row.slug
-    if (typeof slug !== "string" || slug === "") continue
-    if (typeof row.mobileWallpaper !== "string" || row.mobileWallpaper === "") continue
-    candidates.push({ id: row.id, named: slug, stampMs: stampMs(row.lastMessagedAt) })
   }
   return ordered(candidates)
 }
