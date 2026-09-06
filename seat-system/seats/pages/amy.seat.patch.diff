@@ -20,6 +20,28 @@ index 9fb1612e59d54172249e6d4cfc8aef1b40f8e421..bcb536466b763afb4e41cf29fb5d6d08
          limit: 200,
        })
        navItems = result.rows
+diff --git a/archive-of-worlds/archive-of-worlds-web/routes/_app-layout.tsx b/archive-of-worlds/archive-of-worlds-web/routes/_app-layout.tsx
+index e5fb0bcb0d08d4de4090b69ce6d97ac992e3cc50..f7921797e19b6e652ee30f8a30d3d6b1b57aca52 100644
+--- a/archive-of-worlds/archive-of-worlds-web/routes/_app-layout.tsx
++++ b/archive-of-worlds/archive-of-worlds-web/routes/_app-layout.tsx
+@@ -4,7 +4,7 @@ import { getUser } from "@akasha/supabase-rr/auth-server"
+ import { createServerClient } from "@akasha/supabase-rr/server-client"
+ import { SupabaseProvider } from "@akasha/supabase-rr/supabase-provider"
+ import { data, Outlet } from "react-router"
+-import { ARCHIVE_OF_WORLDS_APP_ID } from "../archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
++import { ARCHIVE_OF_WORLDS_APP_SLUG } from "../archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
+ import { AppShell } from "../archive-of-worlds-app-shell/archive-of-worlds-app-shell.module.code.tsx"
+ import { AuthProvider } from "../archive-of-worlds-auth-provider/archive-of-worlds-auth-provider.module.code.tsx"
+ import type { Route } from "./+types/_app-layout"
+@@ -19,7 +19,7 @@ export async function loader({ request }: Route.LoaderArgs) {
+     try {
+       const result = await getPages({
+         pageTypeSlug: "nav",
+-        where: [{ key: "app", eq: ARCHIVE_OF_WORLDS_APP_ID }],
++        where: [{ key: "appSlug", eq: ARCHIVE_OF_WORLDS_APP_SLUG }],
+         limit: 200,
+       })
+       navItems = result.rows
 diff --git a/pages/core/view-state/reducers/reducers.module.code.ts b/pages/core/view-state/reducers/reducers.module.code.ts
 index a2945305398e6288ff1bc7521bf4fb2ea8dfcfbe..2da36eb5ed4989b293300d403102848cac155bd9 100644
 --- a/pages/core/view-state/reducers/reducers.module.code.ts
