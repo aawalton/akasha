@@ -48,7 +48,7 @@ export const terminalSeatStating = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat a person handles states no principal, because the person is the subject.",
+      statement: "A seat a person handles states no principal.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,7 @@ export const terminalSeatStating = {
     },
     {
       invariantKind: "stopgap",
-      statement: "The path to the seat call is spelled rather than imported, to pull in no writer.",
+      statement: "The path to the seat call is spelled rather than imported.",
     },
   ],
 } as const satisfies Module
