@@ -19,11 +19,23 @@ import {
 import { mistaking } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
+import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
+import type { FileEdit } from "../../landing/landing.module.code.ts"
+import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
 import { FILE_PATH, offRepo, pathAt, unknownIn, valuesOf } from "../write/write.command.code.ts"
 
 const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
 
 const BARE: readonly string[] = []
+
+const BYTES = new TextEncoder()
+
+const RUNS_CHECKS = "runsChecks"
+
+const CHANGE_COMMAND = "change-command"
+
+const STILL_KEPT =
+  "the edits are kept — mend what refused with more changes before `akasha apply` lands them"
 
 export type Wrong = { readonly refusals: readonly string[] }
 
@@ -90,6 +102,31 @@ function worldFor(root: string, had: readonly Edit[], before: Said): World {
   return had.length === 0 ? base : worldOver(base, before)
 }
 
+// A change states whether the checks run over it, so a partial costs nothing here. The edits kept
+// are judged as a whole rather than one at a time, because that whole is what an apply lands.
+export function editsFor(rows: readonly Edit[]): readonly FileEdit[] {
+  const held: FileEdit[] = []
+  for (const one of rows) {
+    if (one.from !== undefined && one.from !== one.path) held.push({ path: one.from, body: null })
+    held.push({ path: one.path, body: one.body === null ? null : BYTES.encode(one.body) })
+  }
+  return held
+}
+
+async function judgedSaid(root: string, rows: readonly Edit[]): Promise<readonly string[]> {
+  const built = gateBuilt(root)
+  if ("broken" in built) return [`no check ran — the checks would not load: ${built.broken}`]
+  const change = changeOf(root, { base: baseOf(root), edits: editsFor(rows) })
+  const said = await built.gate.over(change)
+  if (said.length === 0) return ["every check judged the edits kept, and none refused"]
+  return [...said.map((one) => `${one.path} — ${one.reason}`), STILL_KEPT]
+}
+
+function checkedIn(root: string, slug: string): boolean {
+  const value = worldAt(root, textIn(root)).index.pageAt(CHANGE_COMMAND, slug)
+  return value !== null && value[RUNS_CHECKS] === true
+}
+
 function saidOf(one: Edit): string {
   const came = one.from
   if (came !== undefined && came !== one.path) return `moves ${came} to ${one.path}`
@@ -98,7 +135,12 @@ function saidOf(one: Edit): string {
   return `changes ${one.path}`
 }
 
-export function appending(root: string, page: string, over: Over): Answer {
+export async function appending(
+  root: string,
+  page: string,
+  over: Over,
+  checked: boolean
+): Promise<Answer> {
   let answer: Answer = mistaking([NO_PAGE])
   const kept = keptEdits(root, page, (had) => {
     const before = foldedIn(had)
@@ -127,10 +169,16 @@ export function appending(root: string, page: string, over: Over): Answer {
     }
     return [...had, ...said.edits]
   })
-  return "why" in kept ? { report: [], refusals: [kept.why], code: 3 } : answer
+  if ("why" in kept) return { report: [], refusals: [kept.why], code: 3 }
+  if (!checked || answer.code !== 0) return answer
+  return { ...answer, report: [...answer.report, ...(await judgedSaid(root, kept.rows))] }
 }
 
-export function changing(root: string, page: string, argv: readonly string[]): Answer {
+export async function changing(
+  root: string,
+  page: string,
+  argv: readonly string[]
+): Promise<Answer> {
   const slug = argv[0]
   if (slug === undefined) {
     return mistaking([`no change is named, and this runs one of ${optionsSaid()}`])
@@ -144,11 +192,11 @@ export function changing(root: string, page: string, argv: readonly string[]): A
   if (unknown.length > 0) return mistaking(unknown)
   const over = option.over(root, rest)
   if ("refusals" in over) return mistaking(over.refusals)
-  return appending(root, page, over)
+  return await appending(root, page, over, checkedIn(root, slug))
 }
 
-export function change(argv: readonly string[], given: Given): Answer {
+export async function change(argv: readonly string[], given: Given): Promise<Answer> {
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) return mistaking([NO_PAGE])
-  return changing(given.root, page, argv)
+  return await changing(given.root, page, argv)
 }
