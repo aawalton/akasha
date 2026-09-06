@@ -19,7 +19,8 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
-      statement: "An index that cannot say what an initiative is refuses rather than drawing none.",
+      statement:
+        "An index that cannot say what an initiative is refuses rather than drawing no initiative.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +40,7 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
-      statement: "An initiative under other than one parent is answered as under none.",
+      statement: "An initiative under other than one parent is answered as under no parent.",
     },
     {
       invariantKind: "departure",
@@ -51,7 +52,7 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
-      statement: "The intents are answered in the order the page states them.",
+      statement: "The intents are answered in the order the page states the intents.",
     },
     {
       invariantKind: "departure",
@@ -59,11 +60,11 @@ export const workInitiatives = {
     },
     {
       invariantKind: "departure",
-      statement: "An intent stating no working memory carries none.",
+      statement: "An intent stating no working memory carries no working memory.",
     },
     {
       invariantKind: "departure",
-      statement: "A page is opened once however many of its keys are read.",
+      statement: "A page is opened once however many keys are read out of that page.",
     },
     {
       invariantKind: "departure",
