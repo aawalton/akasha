@@ -184,6 +184,16 @@ index 0000000000000000000000000000000000000000..80f08adf3ae4b866b0395407f260eabb
 +  const data = viewDataOfPage(TASKS_TODAY)
 +  expect(data?.visible_properties).toEqual(["dueDate", "priority"])
 +})
+diff --git a/pages/ui/supabase/view-data-of-page/view-data-of-page.module.ts b/pages/ui/supabase/view-data-of-page/view-data-of-page.module.ts
+index 1e14be535146bc17c514424011277f898d58bc5c..cfb739d16feb45185f5565d2f32ce063f33a10cb 100644
+--- a/pages/ui/supabase/view-data-of-page/view-data-of-page.module.ts
++++ b/pages/ui/supabase/view-data-of-page/view-data-of-page.module.ts
+@@ -6,4 +6,5 @@ export const viewDataOfPage = {
+   slug: "view-data-of-page",
+   definition: "the view a page describes, read from the page or from the file it names",
+   code: "ts",
++  test: "ts",
+ } as const satisfies Module
 diff --git a/pages/views/properties/view-page-type.relation-property.ts b/pages/views/properties/view-page-type.relation-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..7479166c47bdaabfdcb9afa75e2445ea41a46a7c
