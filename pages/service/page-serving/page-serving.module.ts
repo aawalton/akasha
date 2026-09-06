@@ -22,7 +22,7 @@ export const pageServing = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer is a JSON object.",
+      statement: "An answer is a JSON object unless that answer is the bytes a file holds.",
     },
     {
       invariantKind: "departure",
@@ -131,6 +131,22 @@ export const pageServing = {
     {
       invariantKind: "departure",
       statement: "A shape asked for naming no page type is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file is asked for at a path of its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file is answered as bytes rather than as JSON.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal over a file is a JSON object as every other refusal is.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A file is never asked for by a path.",
     },
     {
       invariantKind: "absence",

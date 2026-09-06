@@ -8,6 +8,7 @@ export const pagesService = {
   manifest: "json",
   partSlugs: [
     "manifest/page-store",
+    "module/file-answering",
     "module/kinds-gathering",
     "module/page-asking",
     "module/page-calling",

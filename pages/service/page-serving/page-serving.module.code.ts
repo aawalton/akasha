@@ -1,3 +1,4 @@
+import { type Named as FileNamed, filing } from "../file-answering/file-answering.module.code.ts"
 import {
   asking,
   type Query,
@@ -20,6 +21,10 @@ export const READ_AT = "/read"
 export const WRITE_AT = "/write"
 
 export const SHAPE_AT = "/shape"
+
+export const FILE_AT = "/file"
+
+const OCTETS = "application/octet-stream"
 
 const ORDERING_TESTS = ["at-or-after", "after", "before", "at-or-before"]
 
@@ -151,6 +156,26 @@ export function shapeIn(given: unknown): Shaping {
     return { refused: "a shape names a page type as `pageTypeSlug`" }
   }
   return { pageTypeSlug }
+}
+
+export type Filed = { readonly named: FileNamed } | { readonly refused: string }
+
+export function fileIn(given: unknown): Filed {
+  const held = objectIn(given)
+  if (held === null) return { refused: "a file is asked for by a JSON object" }
+  const pageTypeSlug = held.pageTypeSlug
+  if (typeof pageTypeSlug !== "string" || pageTypeSlug === "") {
+    return { refused: "a file names a page type as `pageTypeSlug`" }
+  }
+  const slug = held.slug
+  if (typeof slug !== "string" || slug === "") {
+    return { refused: "a file names its page as `slug`" }
+  }
+  const key = held.key
+  if (typeof key !== "string" || key === "") {
+    return { refused: "a file names the key its page holds that file under as `key`" }
+  }
+  return { named: { pageTypeSlug, slug, key } }
 }
 
 export type Found = { readonly asked: Sought } | { readonly refused: string }
@@ -295,7 +320,7 @@ async function bodyIn(request: Request): Promise<unknown> {
 
 export async function answering(given: Serving, request: Request): Promise<Response> {
   const at = new URL(request.url).pathname
-  if (at !== ASK_AT && at !== READ_AT && at !== WRITE_AT && at !== SHAPE_AT) {
+  if (at !== ASK_AT && at !== READ_AT && at !== WRITE_AT && at !== SHAPE_AT && at !== FILE_AT) {
     return said({ refused: `nothing is asked at ${at}` }, 404)
   }
   if (request.method !== "POST") {
@@ -309,6 +334,13 @@ export async function answering(given: Serving, request: Request): Promise<Respo
     const found = shaping(given.root, sought.pageTypeSlug)
     if ("refused" in found) return said({ refused: found.refused }, 400)
     return said(found, 200)
+  }
+  if (at === FILE_AT) {
+    const sought = fileIn(body)
+    if ("refused" in sought) return said({ refused: sought.refused }, 400)
+    const found = filing(given.root, sought.named)
+    if ("refused" in found) return said({ refused: found.refused }, 400)
+    return new Response(found.bytes, { status: 200, headers: { "content-type": OCTETS } })
   }
   if (at === READ_AT) {
     const sought = readIn(body)

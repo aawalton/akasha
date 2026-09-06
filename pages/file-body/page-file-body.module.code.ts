@@ -15,7 +15,7 @@ export type Filed = {
 
 export type Body = { readonly body: string } | { readonly refused: string }
 
-export type Bytes = { readonly bytes: Uint8Array } | { readonly refused: string }
+export type Bytes = { readonly bytes: Uint8Array<ArrayBuffer> } | { readonly refused: string }
 
 export function filedAmong<T extends Filed>(declared: Iterable<T>): readonly T[] {
   const found: T[] = []
@@ -30,7 +30,7 @@ function filed(root: string, at: string): boolean {
   return found?.isFile() === true
 }
 
-function joined(found: readonly Uint8Array[]): Uint8Array {
+function joined(found: readonly Uint8Array[]): Uint8Array<ArrayBuffer> {
   let total = 0
   for (const one of found) total += one.length
   const whole = new Uint8Array(total)
