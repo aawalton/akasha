@@ -10,6 +10,4 @@ export const howIReadWhetherSomeoneIsSafe = {
   relatedSlugs: ["why-people-read-as-unsafe", "the-four-things-i-need-from-people"],
   settled:
     "Three things feed the read: their physiology, their behaviour, and how uncertain I am about them.\n\nAt least one of the three learns, so an exception can be banked for a particular person against my default.",
-  unsettled:
-    "How the three combine is unknown: whether the lowest wins, whether they add up, or whether each is weighted by how reliable it is. One case where two fired at once hints at adding, or at taking the worst.\n\nWhether the behaviour and uncertainty reads also learn person by person, or only the physiological one does, is unknown.\n\nHow many safe encounters bank an exception, and whether it overrides the default fully or only weakens it, is unrecorded.",
 } as const satisfies AllAboutAlanTopic
