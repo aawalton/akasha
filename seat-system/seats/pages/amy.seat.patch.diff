@@ -103,3 +103,15 @@ index 0000000000000000000000000000000000000000..efa31230f2c4bc6bc80d726e0005e1f9
 +    catchUp: false,
 +  },
 +} as const satisfies WorkstationService
+diff --git a/alan/tracking/daily/tracking-daily.domain.ts b/alan/tracking/daily/tracking-daily.domain.ts
+index db701b8f07d1a400972448edad334ce3163678c0..b34282d30ec0445900611618a508554dd7cc6996 100644
+--- a/alan/tracking/daily/tracking-daily.domain.ts
++++ b/alan/tracking/daily/tracking-daily.domain.ts
+@@ -41,6 +41,7 @@ export const trackingDaily = {
+     "module/topic-words",
+     "workstation-service/topic-words-service",
+     "workstation-service/active-calories-service",
++    "workstation-service/strength-volume-service",
+     "module/day-opening",
+   ],
+   invariants: [
