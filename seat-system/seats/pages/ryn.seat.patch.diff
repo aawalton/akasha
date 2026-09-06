@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/agent-tree-drawing/agent-tree-drawing.module.ts b/editor-extension/agent-tree-drawing/agent-tree-drawing.module.ts
+index e0a8a1640fb45e5a4017c285a4ac654f590528a9..0f4c214f397949adad897370cae436b122ddd034 100644
+--- a/editor-extension/agent-tree-drawing/agent-tree-drawing.module.ts
++++ b/editor-extension/agent-tree-drawing/agent-tree-drawing.module.ts
+@@ -22,7 +22,7 @@ export const agentTreeDrawing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row carrying children is badged with how many that row carries.",
++      statement: "A row carrying children is badged with the count of children that row carries.",
+     },
+     {
+       invariantKind: "departure",
