@@ -1,3 +1,38 @@
+diff --git a/agents/agent.page-type.ts b/agents/agent.page-type.ts
+index a9ac4aa9e35542bbebfd7fed95b30735cdf85d4a..ec5900bc3ee5f21e0c5b4b1967b1fa57a6796a10 100644
+--- a/agents/agent.page-type.ts
++++ b/agents/agent.page-type.ts
+@@ -2,12 +2,14 @@ import type { Page } from "@akasha/pages/page"
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { AssignmentSlug } from "../seat-system/seats/properties/assignment-slug.one-of-property.ts"
+ import type { PrincipalSeatName } from "../seat-system/seats/properties/principal-seat-name.relation-property.ts"
++import type { Edits } from "./properties/edits.file-property.ts"
+ import type { Patch } from "./properties/patch.file-property.ts"
+ 
+ export type Agent = Page & {
+   assignmentSlug: AssignmentSlug
+   principalSeatName?: PrincipalSeatName
+   patch?: Patch
++  edits?: Edits
+ }
+ 
+ export const agent = {
+@@ -19,6 +21,7 @@ export const agent = {
+   extendsSlug: ["page-type/page"],
+   mortal: true,
+   partSlugs: [
++    "file-property/edits",
+     "file-property/patch",
+     "one-of-property/assignment-slug",
+     "relation-property/principal-seat-name",
+@@ -32,6 +35,7 @@ export const agent = {
+     },
+     { pagePropertySlug: "relation-property/principal-seat-name", required: false, many: false },
+     { pagePropertySlug: "file-property/patch", required: false, many: false, default: "diff" },
++    { pagePropertySlug: "file-property/edits", required: false, many: false, default: "jsonl" },
+   ],
+   invariants: [
+     {
 diff --git a/agents/properties/edits.file-property.ts b/agents/properties/edits.file-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..06806bd98cd9a4d57bde2a001e357344ebd4f86b
