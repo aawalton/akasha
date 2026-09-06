@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/harness/monarch/domain-files/monarch-domain-files.module.ts b/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
+index e427ef76a91818fb5abe0b9efe3a12a5c2e60449..94f20e1b6ff1d1dade811953e9a7ab984048fe26 100644
+--- a/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
++++ b/alan/harness/monarch/domain-files/monarch-domain-files.module.ts
+@@ -14,7 +14,7 @@ export const monarchDomainFiles = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The whole body is composed rather than a line of it patched.",
++      statement: "The whole body is composed rather than a line of that body patched.",
+     },
+     {
+       invariantKind: "departure",
