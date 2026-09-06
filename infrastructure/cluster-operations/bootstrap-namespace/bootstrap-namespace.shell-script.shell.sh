@@ -33,17 +33,8 @@ resolve_workspace_dir() {
 WORKSPACE_DIR="$(resolve_workspace_dir "$WORKSPACE")"
 
 NAMESPACE="$WORKSPACE"
-REPO_ROOT="${AKASHA_ROOT}"
-
-resolve_secrets_sops() {
-  local ws="$1"
-  local workspace_dir="$2"
-  case "$ws" in
-    collections) echo "${workspace_dir}/deploy/k8s/secrets.sops.yaml" ;;
-    agents)      echo "${REPO_ROOT}/packages/agents/k8s/secrets.sops.yaml" ;;
-    *)           echo "${workspace_dir}/deploy/secrets.sops.yaml" ;;
-  esac
-}
+SECRET_RESOURCE="${WORKSPACE}-secrets"
+SECRET_SAYING="${AKASHA_ROOT}/service-system/secrets/secret-saying/secret-saying.module.code.ts"
 
 if [[ ! -d "$WORKSPACE_DIR" ]]; then
   die "Workspace directory not found: $WORKSPACE_DIR"
@@ -67,42 +58,22 @@ else
   warn "Step 2: No K8s manifest directory found at $K8S_DIR — skipping"
 fi
 
-SECRETS_SOPS="$(resolve_secrets_sops "$WORKSPACE" "$WORKSPACE_DIR")"
-SECRETS_TMPL="${WORKSPACE_DIR}/deploy/secrets.tmpl.yaml"
-ENV_FILE="${WORKSPACE_DIR}/.env.production"
+log "Step 3: Applying the secrets the pages place in $SECRET_RESOURCE"
+check_rbac "$NAMESPACE" "create" "secrets"
+check_rbac "$NAMESPACE" "patch" "secrets"
 
-if [[ -f "$SECRETS_SOPS" ]]; then
-  log "Step 3: Applying secrets via SOPS ($SECRETS_SOPS)"
-  apply_sops_secret "$SECRETS_SOPS" "$NAMESPACE"
-  ok "Secrets applied (SOPS)"
-elif [[ -f "$SECRETS_TMPL" ]]; then
-  log "Step 3: Applying secrets via envsubst template ($SECRETS_TMPL)"
-
-  if [[ -f "$ENV_FILE" ]]; then
-    log "Found .env.production — loading values from $ENV_FILE"
-    load_env "$ENV_FILE"
+if SAID="$(bun "$SECRET_SAYING" --root "$AKASHA_ROOT" --resource "$SECRET_RESOURCE" --namespace "$NAMESPACE")"; then
+  if [[ "${DEPLOY_DRY_RUN:-}" == "diff" ]]; then
+    rc=0
+    printf '%s' "$SAID" | kubectl diff -f - > /dev/null 2>&1 || rc=$?
+    if [[ "$rc" -gt 1 ]]; then die "kubectl diff failed (exit $rc)"; fi
   else
-    log "No .env.production found — prompting for secret values"
-    echo ""
-
-    VARS="$(grep -oP '\$\{(\w+)\}' "$SECRETS_TMPL" | sed 's/\${\(.*\)}/\1/' | sort -u)"
-
-    for var in $VARS; do
-      if [[ -n "${!var:-}" ]]; then
-        log "  $var: already set in environment"
-        continue
-      fi
-
-      read -rp "  Enter value for $var: " value
-      export "$var=$value"
-    done
-    echo ""
+    printf '%s' "$SAID" | kubectl apply -f -
   fi
-
-  apply_secrets "$SECRETS_TMPL" "$NAMESPACE"
-  ok "Secrets applied (envsubst)"
+  unset SAID
+  ok "Secrets applied from the pages placing values in $SECRET_RESOURCE"
 else
-  warn "Step 3: No secrets file found (checked $SECRETS_SOPS and $SECRETS_TMPL) — skipping"
+  warn "Step 3: no secret page places a value in $SECRET_RESOURCE — skipping"
 fi
 
 log "Step 4: Applying CI pipeline RBAC for namespace '$NAMESPACE'"

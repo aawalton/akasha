@@ -40,57 +40,6 @@ check_rbac() {
   fi
 }
 
-load_env() {
-  local file="${1:?Usage: load_env <file>}"
-  if [ ! -f "$file" ]; then
-    die "Env file not found: $file"
-  fi
-  log "Loading env from $file"
-  set -a
-  # shellcheck disable=SC1090
-  . "$file"
-  set +a
-}
-
-apply_secrets() {
-  local tmpl="${1:?Usage: apply_secrets <tmpl> <ns>}"
-  local ns="${2:?Usage: apply_secrets <tmpl> <ns>}"
-  if [ ! -f "$tmpl" ]; then
-    die "Template file not found: $tmpl"
-  fi
-  check_rbac "$ns" "create" "secrets"
-  check_rbac "$ns" "patch" "secrets"
-  log "Applying secrets from $tmpl into namespace $ns"
-  if [ "${DEPLOY_DRY_RUN:-}" = "diff" ]; then
-    local rc=0
-    envsubst < "$tmpl" | kubectl diff -n "$ns" -f - > /dev/null 2>&1 || rc=$?
-    if [ "$rc" -gt 1 ]; then die "kubectl diff failed (exit $rc)"; fi
-    return 0
-  fi
-  envsubst < "$tmpl" | kubectl apply -n "$ns" -f -
-}
-
-apply_sops_secret() {
-  local file="${1:?Usage: apply_sops_secret <file> <ns>}"
-  local ns="${2:?Usage: apply_sops_secret <file> <ns>}"
-  if [ ! -f "$file" ]; then
-    die "SOPS secret file not found: $file"
-  fi
-  if ! command -v sops >/dev/null 2>&1; then
-    die "sops not found — install with: brew install sops or download from https://github.com/getsops/sops/releases"
-  fi
-  check_rbac "$ns" "create" "secrets"
-  check_rbac "$ns" "patch" "secrets"
-  log "Applying SOPS secret from $file into namespace $ns"
-  if [ "${DEPLOY_DRY_RUN:-}" = "diff" ]; then
-    local rc=0
-    sops -d "$file" | kubectl diff -n "$ns" -f - > /dev/null 2>&1 || rc=$?
-    if [ "$rc" -gt 1 ]; then die "kubectl diff failed (exit $rc)"; fi
-    return 0
-  fi
-  sops -d "$file" | kubectl apply -n "$ns" -f -
-}
-
 apply_manifests() {
   local dir="${1:?Usage: apply_manifests <dir> <ns>}"
   local ns="${2:?Usage: apply_manifests <dir> <ns>}"
