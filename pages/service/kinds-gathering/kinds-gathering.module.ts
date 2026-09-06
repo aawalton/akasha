@@ -15,11 +15,12 @@ export const kindsGathering = {
     },
     {
       invariantKind: "departure",
-      statement: "Which page types those are is read from `page-type-descent`.",
+      statement: "Which page types extend a page type is read from `page-type-descent`.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type under the one named that no page is filed under is passed over.",
+      statement:
+        "A page type under the page type named that no page is filed under is passed over.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +32,7 @@ export const kindsGathering = {
     },
     {
       invariantKind: "departure",
-      statement: "A row is keyed by its path, so two page types may carry one slug.",
+      statement: "A row is keyed by its path.",
     },
     {
       invariantKind: "departure",
@@ -39,11 +40,11 @@ export const kindsGathering = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a question or refuses one.",
+      statement: "Nothing here reads a question or refuses a question.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here orders, narrows or cuts the rows this module gathers.",
+      statement: "Nothing here orders or narrows or cuts the rows this module gathers.",
     },
     {
       invariantKind: "absence",
