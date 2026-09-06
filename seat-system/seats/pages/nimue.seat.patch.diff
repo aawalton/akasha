@@ -1,0 +1,121 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/authored/pages/add-file/add-file.change-authored.ts b/changes/authored/pages/add-file/add-file.change-authored.ts
+index d0407ff27181f11a0a9779817f5989011736b5c1..6eb202a117591946f175badc0861c2becbce82f4 100644
+--- a/changes/authored/pages/add-file/add-file.change-authored.ts
++++ b/changes/authored/pages/add-file/add-file.change-authored.ts
+@@ -28,10 +28,6 @@ export const addFile = {
+       invariantKind: "departure",
+       statement: "Writing the body is left to the partial this change runs.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "No guard runs here.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "The checks judge the tree the edits leave.",
+diff --git a/changes/authored/pages/change-file/change-file.change-authored.ts b/changes/authored/pages/change-file/change-file.change-authored.ts
+index 980beb7884cf40a19e7429bb05768abf1ada4a4b..d837960fe77a89957347f8a6c75e18d3cb999779 100644
+--- a/changes/authored/pages/change-file/change-file.change-authored.ts
++++ b/changes/authored/pages/change-file/change-file.change-authored.ts
+@@ -28,10 +28,6 @@ export const changeFile = {
+       invariantKind: "departure",
+       statement: "Working the passage is left to the partial this change runs.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "No guard runs here.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "The checks judge the tree the edits leave.",
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index 494665077c9386bdf46c9d63dfc3ea1a2bdfe15b..31d8f879002b4d73d36a5d72b74d882577e915d7 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -3,11 +3,9 @@ import type { PageType } from "../pages/types/page-type.page-type.ts"
+ import type { ReadersOweReading } from "./kinds/properties/readers-owe-reading.boolean-property.ts"
+ import type { RunsChecks } from "./kinds/properties/runs-checks.boolean-property.ts"
+ import type { WriterOwesReading } from "./kinds/properties/writer-owes-reading.boolean-property.ts"
+-import type { GuardSlugs } from "./properties/guard-slugs.relation-property.ts"
+ import type { IsCommand } from "./properties/is-command.boolean-property.ts"
+ 
+ export type Change = Module & {
+-  guardSlugs?: readonly GuardSlugs[]
+   isCommand: IsCommand
+   runsChecks: RunsChecks
+   readersOweReading: ReadersOweReading
+@@ -33,7 +31,6 @@ export const change = {
+     "workspace-package/workflow-language",
+     "boolean-property/is-command",
+     "page-type/change-guard",
+-    "relation-property/guard-slugs",
+     "module/change-shadow",
+     "module/change-guarding",
+     "module/page-claiming",
+@@ -42,12 +39,6 @@ export const change = {
+   ],
+   properties: [
+     { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
+-    {
+-      pagePropertySlug: "relation-property/guard-slugs",
+-      required: false,
+-      many: true,
+-      maxCount: null,
+-    },
+     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
+     { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
+     { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
+diff --git a/changes/guards/change-guard.page-type.ts b/changes/guards/change-guard.page-type.ts
+index 34cca0de694ead08ea9d0012414a3cb11a764d7a..c6fbdd1945ba201d5bb748a801320042c79b6931 100644
+--- a/changes/guards/change-guard.page-type.ts
++++ b/changes/guards/change-guard.page-type.ts
+@@ -18,7 +18,7 @@ export const changeGuard = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A guard runs on a change that could never land alone.",
++      statement: "A guard runs on a mechanical change alone.",
+     },
+     {
+       invariantKind: "departure",
+@@ -58,7 +58,7 @@ export const changeGuard = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A change names the guards that run on that change.",
++      statement: "A mechanical change names the guards that run on that change.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index e8f7d86923f4f4f4f3f5f4ae89d705384cf70c37..db6368d72f7e7a4d0e042e36f0afbf3510b3993e 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -1,7 +1,9 @@
+ import type { PageType } from "../../pages/types/page-type.page-type.ts"
+ import type { Change } from "../change.page-type.ts"
++import type { GuardSlugs } from "../properties/guard-slugs.relation-property.ts"
+ 
+ export type ChangeMechanical = Change & {
++  guardSlugs?: readonly GuardSlugs[]
+   runsChecks: false
+   readersOweReading: false
+   writerOwesReading: false
+@@ -30,6 +32,15 @@ export const changeMechanical = {
+     "change-mechanical/rename-path",
+     "change-mechanical/rename-property-signature",
+     "change-mechanical/respell-export",
++    "relation-property/guard-slugs",
++  ],
++  properties: [
++    {
++      pagePropertySlug: "relation-property/guard-slugs",
++      required: false,
++      many: true,
++      maxCount: null,
++    },
+   ],
+   invariants: [
+     {
