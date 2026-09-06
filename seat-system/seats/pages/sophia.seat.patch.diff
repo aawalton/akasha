@@ -1,7 +1,16 @@
 diff --git a/command-system/calling/calling.module.code.ts b/command-system/calling/calling.module.code.ts
-index 4a40ce7667be3a992547f53d77669501176f96de..616d2374a9fe63eec739a6eb2b1a3a053580d74c 100644
+index 4a40ce7667be3a992547f53d77669501176f96de..5249c6cedf8d515c6be900dbd70b93129ccef296 100644
 --- a/command-system/calling/calling.module.code.ts
 +++ b/command-system/calling/calling.module.code.ts
+@@ -47,7 +47,7 @@ const CHANGE_KIND = "changeKindSlug"
+ 
+ const RUNS_CHECKS = "runsChecks"
+ 
+-const RUNS_WARRANTS = "runsWarrants"
++const WRITER_OWES_READING = "writerOwesReading"
+ 
+ const CHANGE_KIND_TYPE = "01a05e11-d3f8-72af-b104-6cdd1255b0eb"
+ 
 @@ -158,9 +158,9 @@ export function kindNamed(root: string, slug: string): Kind | null {
    const page = pageIn(root, path, slug)
    if (page === null) return null
