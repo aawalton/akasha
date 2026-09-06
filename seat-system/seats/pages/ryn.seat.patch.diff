@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/reading/monarch-reading.module.ts b/alan/harness/monarch/reading/monarch-reading.module.ts
-index c489b7dfccfddc4f1dcb2690849379005a2efb5b..cb29fb89c8f92b2e64011ffcdcd35a64a21860bd 100644
+index c489b7dfccfddc4f1dcb2690849379005a2efb5b..95b2737ea82adc5699f7882db9ad073bffb831e4 100644
 --- a/alan/harness/monarch/reading/monarch-reading.module.ts
 +++ b/alan/harness/monarch/reading/monarch-reading.module.ts
 @@ -47,7 +47,8 @@ export const monarchReading = {
@@ -12,3 +12,12 @@ index c489b7dfccfddc4f1dcb2690849379005a2efb5b..cb29fb89c8f92b2e64011ffcdcd35a64
      },
      {
        invariantKind: "stopgap",
+@@ -55,7 +56,7 @@ export const monarchReading = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Importing this file takes none.",
++      statement: "Importing this file takes no reading.",
+     },
+     {
+       invariantKind: "absence",
