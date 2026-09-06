@@ -301,3 +301,27 @@ index 0000000000000000000000000000000000000000..c5006be3e5251ed4beed6c940fe41dea
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/command-system/commands/measure-attributes/measure-attributes.command.code.ts b/command-system/commands/measure-attributes/measure-attributes.command.code.ts
+index dbf1220d4763b12130a0ad7bebf8c35e3c66f67c..c7aacf04f8b8db833d06f55b9553d133e861d796 100644
+--- a/command-system/commands/measure-attributes/measure-attributes.command.code.ts
++++ b/command-system/commands/measure-attributes/measure-attributes.command.code.ts
+@@ -1,8 +1,6 @@
+ import { asking } from "@akasha/pages-service/asking"
+-import {
+-  readAttributes,
+-  type Taken,
+-} from "../../../alan/harness/attributes/reading/attributes-reading.module.code.ts"
++import type { Taken } from "../../../alan/harness/attributes/reading/attributes-reading.module.code.ts"
++import { totalAttributes } from "../../../alan/harness/attributes/totalling/attributes-totalling.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+ 
+ const READOUT = "readout"
+@@ -75,7 +73,7 @@ export function linesOf(measured: readonly Measured[]): readonly string[] {
+ }
+ 
+ export async function measureAttributes(_argv: readonly string[], given: Given): Promise<Answer> {
+-  const taken = await readAttributes()
++  const taken = await totalAttributes(given.root)
+   const measured = measuredIn(taken, drawnIn(given.root))
+   if (measured.length === 0) {
+     return { report: [], refusals: [NOTHING_READ, ...taken.unread], code: 2 }
