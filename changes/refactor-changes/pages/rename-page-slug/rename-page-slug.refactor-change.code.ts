@@ -73,7 +73,7 @@ function besideIn(root: string, held: Held, at: string, to: string): readonly Mo
     const answer = schemaOf(root, slugFor(key))
     if ("refused" in answer) continue
     const one = answer.schema
-    if (one.pageTypeSlug !== FILE_PROPERTY || one.fileName !== null) continue
+    if (one.pageTypeSlug !== FILE_PROPERTY) continue
     const propertySlug = one.propertySlug
     if (propertySlug === null) continue
     const from = besideAt(at, propertySlug, ending)
