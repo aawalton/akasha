@@ -14,7 +14,15 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A move is the path one edit leaves and the path a second edit lands at.",
+      statement: "An edit naming a path that edit came from is a move.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An edit states the body that edit was worked out from.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two edits to one path gather only where the later followed the earlier.",
     },
     {
       invariantKind: "departure",
