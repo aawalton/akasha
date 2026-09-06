@@ -75,6 +75,23 @@ index 501b0bf769918c1374e7561c9176510c858f1622..00000000000000000000000000000000
 -  const answered = await answerWidgetTap(asked({ widget: "alanwalton-surplus" }), signedIn, counted)
 -  expect(answered.headers.get("Access-Control-Allow-Origin")).toBe(CAPACITOR)
 -})
+diff --git a/alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts b/alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts
+index bd0b26cf24a74cad76f4396e43ea014dd56de587..f78ff60d6f297c2259d7569cb694b261f3c6fe45 100644
+--- a/alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts
++++ b/alan/web/.server/widget-tap-answering/widget-tap-answering.module.ts
+@@ -6,8 +6,11 @@ export const widgetTapAnswering = {
+   slug: "widget-tap-answering",
+   definition: "what a route answers when the app says a widget was tapped",
+   code: "ts",
+-  test: "ts",
+   invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The test proving this code sits beside the route that serves it.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A tap is admitted on the account the caller is signed in as.",
 diff --git a/alan/web/routes/widget-tap/widget-tap.route.test.ts b/alan/web/routes/widget-tap/widget-tap.route.test.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..1800d62529bf5d561608570cf7524640ad130bae
