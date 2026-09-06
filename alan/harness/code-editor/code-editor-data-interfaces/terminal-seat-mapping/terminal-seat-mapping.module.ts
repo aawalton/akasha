@@ -14,7 +14,8 @@ export const terminalSeatMapping = {
     },
     {
       invariantKind: "departure",
-      statement: "A client runs under a shell where the parent chain from that client reaches it.",
+      statement:
+        "A client runs under a shell where the parent chain from that client reaches that shell.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +27,8 @@ export const terminalSeatMapping = {
     },
     {
       invariantKind: "departure",
-      statement: "A chain stops where it reaches the process that started every other.",
+      statement:
+        "A chain stops where the chain reaches the process that started every other process.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +36,7 @@ export const terminalSeatMapping = {
     },
     {
       invariantKind: "departure",
-      statement: "A pid two seats both reach is given to neither.",
+      statement: "A pid two seats reach is given to neither seat.",
     },
     {
       invariantKind: "departure",
