@@ -9,11 +9,13 @@ export const seatPageBeat = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A writer of a seat page that can await the write imports this and calls this.",
+      statement:
+        "A writer of a seat page that can await the write imports this module and calls this module.",
     },
     {
       invariantKind: "gap",
-      statement: "A write that cannot await runs this as a program rather than calling it.",
+      statement:
+        "A write that cannot await runs this module as a program rather than calling this module.",
     },
     {
       invariantKind: "departure",
@@ -25,11 +27,11 @@ export const seatPageBeat = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat with no composed name and none in its history is left unwritten.",
+      statement: "A seat with no composed name and no name in its history is left unwritten.",
     },
     {
       invariantKind: "departure",
-      statement: "The report is one line of JSON on stdout, carrying the outcome and the seat.",
+      statement: "The report is one line of JSON on stdout carrying the outcome and the seat.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +44,7 @@ export const seatPageBeat = {
     {
       invariantKind: "departure",
       statement:
-        "A transcript found to have been superseded is written in place of the one the run names.",
+        "A transcript found to have been superseded is written in place of the transcript the run names.",
     },
     {
       invariantKind: "departure",
