@@ -14,7 +14,8 @@ export const noveltyBudget = {
     },
     {
       invariantKind: "departure",
-      statement: "A slot whose pattern was never trained is introduced ahead of one whose was.",
+      statement:
+        "A slot whose pattern was never trained is introduced ahead of a slot whose pattern was trained.",
     },
     {
       invariantKind: "departure",
