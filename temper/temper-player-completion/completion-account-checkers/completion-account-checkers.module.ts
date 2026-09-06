@@ -9,7 +9,7 @@ export const completionAccountCheckers = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A checker here is built from a catalog handed in rather than one imported.",
+      statement: "A checker here is built from a catalog handed in rather than a catalog imported.",
     },
     {
       invariantKind: "departure",
