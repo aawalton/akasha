@@ -80,7 +80,17 @@ export const globalDeclaredOnce = {
     },
     {
       invariantKind: "departure",
-      statement: "The files read are the ones the index names beside the ones the change carries.",
+      statement:
+        "The files read are the declaration files the index names beside the ones the change carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The declaration files read are the ones the index names as carrying ambient types.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every file the index names is read where the change carries a declaration file.",
     },
     {
       invariantKind: "departure",

@@ -1,6 +1,7 @@
 import { lineOf, parsedAs } from "@akasha/code/code-source"
 import { compiled } from "@akasha/code/code-typing"
 import type { Change } from "@akasha/pages/change"
+import { besideAt } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import ts from "typescript"
 import type { Body, Selector } from "../../../modules/change-walking/change-walking.module.code.ts"
@@ -8,6 +9,12 @@ import { FILES, input, textIn } from "../../../modules/change-walking/change-wal
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
 const DECLARED = ".d.ts"
+
+const AMBIENT = "ambient-types"
+
+const AMBIENT_KEY = "d"
+
+const AMBIENT_KIND = "ts"
 
 const GLOBAL = "global"
 
@@ -125,9 +132,24 @@ export function statedIn(path: string, text: string): readonly Stated[] {
   return found
 }
 
+function declaringIn(shadow: Shadow): readonly string[] {
+  const carried = shadow.index.carryingOf(AMBIENT)
+  if ("refused" in carried) {
+    throw new Error(`the index cannot say which pages carry ${AMBIENT}: ${carried.refused}`)
+  }
+  const found: string[] = []
+  for (const one of carried.carrying) {
+    const beside = besideAt(one.path, AMBIENT_KEY, AMBIENT_KIND)
+    if (beside !== null) found.push(beside)
+  }
+  return found
+}
+
 export function readingIn(change: Change, shadow: Shadow): readonly string[] {
+  const widely = change.changed.some((one) => one.endsWith(DECLARED))
+  const reach = widely ? shadow.index.everyPath() : declaringIn(shadow)
   const held = new Set<string>()
-  for (const one of [...shadow.index.everyPath(), ...change.changed]) {
+  for (const one of [...reach, ...change.changed]) {
     if (compiled(one) && change.after(one) !== null) held.add(one)
   }
   return [...held].sort()
