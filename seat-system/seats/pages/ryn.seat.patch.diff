@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/indexes/import/index-import.index.ts b/pages/indexes/import/index-import.index.ts
+index cf68b27a5c9e2c09b3a8260da782f131f7414bc4..85a5879cf8b46c9997357a96c3ba15f7dfc6f15e 100644
+--- a/pages/indexes/import/index-import.index.ts
++++ b/pages/indexes/import/index-import.index.ts
+@@ -36,7 +36,7 @@ export const indexImport = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A specifier landing outside the repository makes none either.",
++      statement: "A specifier landing outside the repository makes no edge.",
+     },
+     {
+       invariantKind: "departure",
