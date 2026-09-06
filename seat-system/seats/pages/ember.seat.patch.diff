@@ -344,3 +344,24 @@ index a2919455849441fe32a26ac8fe2ba47389ed8bf3..93e94ab55aba8ba8f6e5ce2ba19fdd4c
    }
    return counting
  }
+diff --git a/pages/system-service/page-asking/page-asking.module.code.ts b/pages/system-service/page-asking/page-asking.module.code.ts
+index 46d0a1d11ee52b93de508d3d0155c8b1c9613fe0..576b53aa623c30d6567d42c2dadc46f085db2d07 100644
+--- a/pages/system-service/page-asking/page-asking.module.code.ts
++++ b/pages/system-service/page-asking/page-asking.module.code.ts
+@@ -50,6 +50,7 @@ export type Query = {
+   readonly descending?: boolean
+   readonly limit?: number
+   readonly offset?: number
++  readonly files?: readonly string[]
+ }
+ 
+ export type Row = Readonly<Record<string, unknown>>
+@@ -234,7 +235,7 @@ export function asking(root: string, query: Query): Asked {
+   if (unnamed !== null) return { refused: unnamed }
+   let held: readonly Valued[]
+   try {
+-    const counted = computedInto(gatheredFor(root, query.pageTypeSlug, carried))
++    const counted = computedInto(gatheredFor(root, query.pageTypeSlug, carried, query.files ?? []))
+     const darkened = unlit(query, counted.dark)
+     if (darkened !== null) return { refused: darkened }
+     held = counted.rows.filter((one) => narrows(one.value, query.where))
