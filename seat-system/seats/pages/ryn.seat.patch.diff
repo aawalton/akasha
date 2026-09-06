@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-running/seat-running.module.ts b/seat-system/seat-running/seat-running.module.ts
-index 0cacdf0b3d23b46d7c7794543cd88c02b758d87d..5c45a0d92b9164971b87452f5d50f705f5bc6bc9 100644
+index 0cacdf0b3d23b46d7c7794543cd88c02b758d87d..fda390b8bb3e65305cd5c2ed67f4070580137c5e 100644
 --- a/seat-system/seat-running/seat-running.module.ts
 +++ b/seat-system/seat-running/seat-running.module.ts
 @@ -9,8 +9,11 @@ export const seatRunning = {
@@ -13,6 +13,15 @@ index 0cacdf0b3d23b46d7c7794543cd88c02b758d87d..5c45a0d92b9164971b87452f5d50f705
 +    {
 +      invariantKind: "departure",
 +      statement: "A function the command calls reads no argument and writes no answer.",
+     },
+     {
+       invariantKind: "departure",
+@@ -19,7 +22,7 @@ export const seatRunning = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An answer carries the bytes the command writes, so the shell composes nothing.",
++      statement: "An answer carries the bytes the command writes.",
      },
      {
        invariantKind: "departure",
