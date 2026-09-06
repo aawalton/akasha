@@ -2538,25 +2538,6 @@ index 154418076c30c01ef2955feee5a0c534295649b2..e6b8b6999a4c0568aa8bbb181c196383
        if (why !== null) said.push(why)
        const twice = twiceIn(stated, `${slug} ${field}`)
        if (twice !== null) said.push(twice)
-diff --git a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test-fixtures.ts b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test-fixtures.ts
-index 1abed86d91060e67ace77655fe45b40b0a3c4e97..2ba1212811c09293a12b28ee27d594e222af3ef5 100644
---- a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test-fixtures.ts
-+++ b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.test-fixtures.ts
-@@ -26,8 +26,13 @@ const ANSWER: Carried = {
-   declaredBy: "cases",
-   required: true,
-   many: false,
--  max: null,
-+<<<<<<< what this change would leave
-+  maxCount: null,
-   total: null,
-+=======
-+  max: null,
-+  maxLength: null,
-+>>>>>>> what HEAD holds
-   uncommitted: false,
-   secret: false,
- }
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
 index 1ae1f614b0451b489dda7df9e2045afde1f1ec3b..c077c84259985b9aefdf39af0955b39939b8f502 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
