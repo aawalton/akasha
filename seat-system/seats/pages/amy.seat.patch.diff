@@ -94,3 +94,15 @@ index 41e6915d2414e8e75300db44616cd3d5a5a9598d..62d73eafe8dcb0198b260873dfd68194
    viewPlace: 1,
    layout: "table",
    viewSorts: [{ key: "date", descending: true }],
+diff --git a/pages/views/pages/tracking-value-points.view.ts b/pages/views/pages/tracking-value-points.view.ts
+index 81477b7da0b1e42e3a2a9f13dfce568caf5996f5..2f2458eb79892a6dec6ae61bd123470d45b2386d 100644
+--- a/pages/views/pages/tracking-value-points.view.ts
++++ b/pages/views/pages/tracking-value-points.view.ts
+@@ -6,6 +6,7 @@ export const trackingValuePoints = {
+   slug: "tracking-value-points",
+   title: "Value Points",
+   navSlug: "tracking",
++  pageType: "wake-day",
+   viewPlace: 2,
+   layout: "table",
+   viewSorts: [{ key: "date", descending: true }],
