@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-i-build-an-external-gauge.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-i-build-an-external-gauge.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d003fd8c8d1abeca08e70c7b444920b1307b2239
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-i-build-an-external-gauge.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howIBuildAnExternalGauge = {
++  id: "01a077e9-0816-7030-8513-afce5c121172",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-i-build-an-external-gauge",
++  topicSlug: "how-i-read-myself",
++  ask: "What is my method for building an external gauge for a state I cannot read, across proxies, an observer and check-ins? I make the move everywhere and name it nowhere.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-else-a-wrong-reading-inverts-me.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-else-a-wrong-reading-inverts-me.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4e04c1bca0d834295304ccbe49db27f05e8381db
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-else-a-wrong-reading-inverts-me.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereElseAWrongReadingInvertsMe = {
++  id: "01a077e9-0816-7532-8a74-1953cf9bf55e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-else-a-wrong-reading-inverts-me",
++  topicSlug: "how-i-read-myself",
++  ask: "Where else does a wrong reading invert what I do about a signal, as the mission tremor did?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-measuring-ever-makes-a-state-worse.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-measuring-ever-makes-a-state-worse.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4082ff57a10eeba862852300ff8968d4c0c6516f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-measuring-ever-makes-a-state-worse.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMeasuringEverMakesAStateWorse = {
++  id: "01a077e9-0815-7c11-8947-f66816eceb72",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-measuring-ever-makes-a-state-worse",
++  topicSlug: "how-i-read-myself",
++  ask: "Does measuring a thing about myself always improve that thing, or does a state get worse for being watched?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-talk-holds-anything-new.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-talk-holds-anything-new.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ae501d47f1e5c5b937e20f7983f3eb7c02476952
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-talk-holds-anything-new.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyTalkHoldsAnythingNew = {
++  id: "01a077e9-0816-7a6d-8224-4cefb58b08e4",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-talk-holds-anything-new",
++  topicSlug: "how-i-read-myself",
++  ask: "Does the talk I gave this year, my fullest outside statement on reading myself, hold anything new?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-read-myself.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-read-myself.all-about-alan-topic.ts
+index c7f4b1b1f40d90e646841a6ce653bd13e62b2bef..66da6e4ff06f694e2c795b276bd30e2515d5f0e8 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-read-myself.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-read-myself.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const howIReadMyself = {
+   relatedSlugs: ["how-well-i-can-measure", "resources"],
+   settled:
+     "Measuring a thing about myself tends to improve it, so a sharper instrument often beats the obvious lever.\n\nI am short of eyes rather than hands. The levers work once they can see what they act on.\n\nI cannot run my state forward or back, and the sensor I do have gets quieter as my safety drops.\n\nA reading is gone by the next moment unless written down, so my instruments live outside me.\n\nWhere nothing can be read I hold a spread of what might be true and leave it uncollapsed.",
+-  unsettled:
+-    "Whether measuring always improves, or some states get worse for being watched, is unmapped.\n\nThe talk I gave this year is the fullest outside statement of this, and whether it holds anything new is unchecked.\n\nA wrong reading can invert what I do about a signal, as the mission tremor did. Whether that fires elsewhere is unprobed.\n\nBuilding an external gauge for a state I cannot read is a move I make everywhere and name nowhere, and no method is written for it: proxies, an observer, check-ins.",
+ } as const satisfies AllAboutAlanTopic
