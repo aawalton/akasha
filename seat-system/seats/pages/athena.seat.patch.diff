@@ -1,5 +1,5 @@
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
-index bf8100a697b850ffe420b0763e21534e841ae263..74534fd1a948a49b367881ad2aa27efe714817bc 100644
+index bf8100a697b850ffe420b0763e21534e841ae263..87aaddcb9d96eb21bea24425e6d9d02e7e439a08 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
 @@ -13,7 +13,7 @@ import { dirname, join } from "node:path"
@@ -89,3 +89,23 @@ index bf8100a697b850ffe420b0763e21534e841ae263..74534fd1a948a49b367881ad2aa27efe
          line: () => pageTreeLine(root),
          held: NOTHING_WRITTEN,
          waking: null,
+@@ -323,9 +327,19 @@ export function watchEditorData(): () => undefined {
+     },
+     SETTLE_MS
+   )
++  const indexed = followFolders(
++    new Set([join(root, INDEX_VALUE_AT)]),
++    () => {
++      for (const [slug, picture] of pictures) {
++        if (picture.movesWithIndex === true) keep(root, slug, picture)
++      }
++    },
++    SETTLE_MS
++  )
+   return () => {
+     for (const beat of beats) clearInterval(beat)
+     following.stop()
++    indexed.stop()
+     return undefined
+   }
+ }
