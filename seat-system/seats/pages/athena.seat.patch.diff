@@ -1,5 +1,5 @@
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
-index bf8100a697b850ffe420b0763e21534e841ae263..270335f3433e21a6d001d83c2617fc719a98db75 100644
+index bf8100a697b850ffe420b0763e21534e841ae263..74534fd1a948a49b367881ad2aa27efe714817bc 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
 @@ -13,7 +13,7 @@ import { dirname, join } from "node:path"
@@ -50,3 +50,42 @@ index bf8100a697b850ffe420b0763e21534e841ae263..270335f3433e21a6d001d83c2617fc71
    return new Map<string, Picture>([
      [
        "agent-colors",
+@@ -202,12 +204,12 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
+       "work-tree",
+       {
+         cooldownMs: 1_000,
+-        folders: [index, seats, turnStates],
++        folders: [seats, turnStates],
+         holds: either(
+-          within(index, INDEX_STAMP),
+           within(seats, SIDECAR, ".seat.ts"),
+           within(turnStates, ".seat-turn-state.ts")
+         ),
++        movesWithIndex: true,
+         line: () => workTreeLine(root),
+         held: NOTHING_WRITTEN,
+         waking: null,
+@@ -217,8 +219,9 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
+       "domain-tree",
+       {
+         cooldownMs: 1_000,
+-        folders: [index],
+-        holds: within(index, INDEX_STAMP),
++        folders: [],
++        holds: () => false,
++        movesWithIndex: true,
+         line: () => domainTreeLine(root),
+         held: NOTHING_WRITTEN,
+         waking: null,
+@@ -228,8 +231,9 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
+       "page-tree",
+       {
+         cooldownMs: 1_000,
+-        folders: [index],
+-        holds: within(index, INDEX_STAMP),
++        folders: [],
++        holds: () => false,
++        movesWithIndex: true,
+         line: () => pageTreeLine(root),
+         held: NOTHING_WRITTEN,
+         waking: null,
