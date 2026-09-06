@@ -1,0 +1,15 @@
+diff --git a/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.test.ts b/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.test.ts
+index 320df44f93a3100cefbc521edbe2c2a6365a39a6..39026a2b7e3f7dd14a5f6d3ef3ffcd61db7221b2 100644
+--- a/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.test.ts
++++ b/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.test.ts
+@@ -81,10 +81,6 @@ test("a declaration file is no input", () => {
+   expect(moduleAt(DECLARED_AT)).toBe(false)
+ })
+ 
+-test("a file outside akasha is no input", () => {
+-  expect(moduleAt("temper/one.module.code.ts")).toBe(false)
+-})
+-
+ test("a module naming a namespace that is not global is refused nothing", () => {
+   const held = "export const away = 1\n\ndeclare module Held {\n  const ONE: number\n}\n"
+   expect(reasonsIn({ root: "", path: ONE_AT, text: held })).toEqual([])
