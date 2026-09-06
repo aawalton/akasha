@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-demotes-an-activity-halfway-through.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-demotes-an-activity-halfway-through.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3ced33d375ab84a2d123cb137d09b3928c3c0d79
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-demotes-an-activity-halfway-through.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatDemotesAnActivityHalfwayThrough = {
++  id: "01a077e5-3b55-78bf-b04e-ca33495b5377",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-demotes-an-activity-halfway-through",
++  topicSlug: "when-something-is-fun",
++  ask: "What demotes an activity halfway through, and can the activity be promoted back inside the same sitting?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-rewriting-a-goal-moves-my-attention.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-rewriting-a-goal-moves-my-attention.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..aa17dc49faa53b5b62ff86f2c986b88c69289890
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-rewriting-a-goal-moves-my-attention.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherRewritingAGoalMovesMyAttention = {
++  id: "01a077e5-3b56-7aa6-a6b6-d3bd1f5433fe",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-rewriting-a-goal-moves-my-attention",
++  topicSlug: "when-something-is-fun",
++  ask: "Does rewriting a goal in advance move where my attention truly lands, or only the label I give the activity?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-safety-gate-on-fun-is-a-slope.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-safety-gate-on-fun-is-a-slope.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..79055049b5135966acdec5f8f7820539afa33d1e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-safety-gate-on-fun-is-a-slope.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheSafetyGateOnFunIsASlope = {
++  id: "01a077e5-3b54-70c9-b469-44f221ae6b84",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-safety-gate-on-fun-is-a-slope",
++  topicSlug: "when-something-is-fun",
++  ask: "Is the safety gate on enjoyment a sharp cutoff at three or a slope, so that a little enjoyment leaks through below three?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/when-something-is-fun.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/when-something-is-fun.all-about-alan-topic.ts
+index 011f41ce784b8fb7fa801b2e8f14933ed4770256..7759439fe1e4e83dfe1086442832a7495e32d589 100644
+--- a/alan/books/all-about-alan/topics/pages/when-something-is-fun.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/when-something-is-fun.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whenSomethingIsFun = {
+   relatedSlugs: ["what-i-do-when-i-am-past-bearing", "letting-a-feeling-in-through-a-story"],
+   settled:
+     "Fun is doing a thing as the thing. A use it also has is fine; doing it for that use kills it.\n\nI hold one thing at a time, so a purpose I am doing it for takes the room the activity needed.\n\nIt comes in two stages: full focus, which I get even at the bottom, and enjoyment on top, which needs safety at three.\n\nTwenty years ran on the first alone, occupied and empty. Twelve thousand hours in one game is what that was.\n\nI cannot set which way it points. I read why I started, rather than setting it.",
+-  unsettled:
+-    "Whether the safety gate is a sharp cutoff or a slope, so that a little leaks through below three, is uninstrumented.\n\nWhat actually demotes an activity halfway through, and whether it can be promoted back inside the same sitting, is unworked.\n\nWhether rewriting a goal in advance moves where my attention truly lands, or only the label I give it, is unprobed.",
+ } as const satisfies AllAboutAlanTopic
