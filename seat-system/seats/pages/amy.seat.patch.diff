@@ -316,3 +316,23 @@ index b5bad81a445d5dc232fe5b74ae26bd09ab3187c7..d8493e39b7ff7c88fcd9ea9880800d15
    } catch (err) {
      console.error(`${LOG} heartbeat: writing the seat process key failed for ${seatName}:`, err)
    }
+diff --git a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
+index d33652387514503586bc234dcf98c16e148980b9..6bf8f1ad39460f66306639a8dc8d11e620b34634 100644
+--- a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
++++ b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
+@@ -45,6 +45,15 @@ export const supervisorHeartbeatBeat = {
+       invariantKind: "departure",
+       statement: "The process key is written beside the seat, and a failure there is logged alone.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "The mode a supervisor is running in is written beside the seat with that supervisor's process key.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That mode is read off this supervisor's own command line.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The beat module is reached beside this one rather than by a path from the root.",
