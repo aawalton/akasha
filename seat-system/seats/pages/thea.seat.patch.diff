@@ -5974,3 +5974,735 @@ index de4b128095946cd0507b8f84957b121f17cdeb3b..34d8de876c2a30dde2ed84d954c362f3
 +  maxLength: 100,
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/effect.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/effect.text-property.ts
+index 6bc83a782d6196f1e462643bfcfa94cc6475a265..bf8171abed36d82d2aabaf11e16a455fe574312f 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/effect.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/effect.text-property.ts
+@@ -8,6 +8,6 @@ export const effect = {
+   slug: "effect",
+   propertySlug: "effect",
+   definition: "what a thing does, said as the game says it",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/eso-trait-constant-name.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/eso-trait-constant-name.text-property.ts
+index bd2af8ccf0d188fe044209724a7fffe9c606c4d1..9b73b693cfa09d77b043d6d8fabf9f19a41a953a 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/eso-trait-constant-name.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/eso-trait-constant-name.text-property.ts
+@@ -8,6 +8,6 @@ export const esoTraitConstantName = {
+   slug: "eso-trait-constant-name",
+   propertySlug: "eso-trait-constant-name",
+   definition: "the constant The Elder Scrolls Online names a trait by in its own code",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: "name-format/upper-snake-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/material.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/material.text-property.ts
+index 6b4ea878e9f935b48e7b2263dc1990e4ec0ae1d9..570026bf9fd4e2d63c080560741102a1ef43a1c3 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/material.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/material.text-property.ts
+@@ -8,6 +8,6 @@ export const material = {
+   slug: "material",
+   propertySlug: "material",
+   definition: "what a trait is worked into a piece with",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/metric-id.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/metric-id.text-property.ts
+index c076a033c6a14e40935d4920e993d6ba32c5ba97..81fa9d9b6390169630939cfea3a660baad6aa85f 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/metric-id.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/metric-id.text-property.ts
+@@ -8,7 +8,7 @@ export const metricId = {
+   slug: "metric-id",
+   propertySlug: "metric-id",
+   definition: "the number an effect moves",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a metric." }],
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/poi-name.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/poi-name.text-property.ts
+index fe44214ca81fb6ddc3744d6be4a663bbd6bddaa5..ac66f5d81bc27ad1435b0b919494a5f7c0f8f729 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/poi-name.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/poi-name.text-property.ts
+@@ -8,6 +8,6 @@ export const poiName = {
+   slug: "poi-name",
+   propertySlug: "poi-name",
+   definition: "the name a point of interest is shown under",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/quality.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/quality.text-property.ts
+index c581482a98b78c47d2addc9fd675fd3b491e15c9..0af6daa4d25988476084fe2c1143941e37c1d1c8 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/quality.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/quality.text-property.ts
+@@ -8,7 +8,7 @@ export const quality = {
+   slug: "quality",
+   propertySlug: "quality",
+   definition: "the grade a thing is made at",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a quality." }],
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/skill-line-id.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/skill-line-id.text-property.ts
+index ecaa959cf251c7d2bf1b4c543768d206e755bbb0..b3fcbd20dcc4b286d3d9d54c12148aa5e1e4eeb8 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/skill-line-id.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/skill-line-id.text-property.ts
+@@ -8,7 +8,7 @@ export const skillLineId = {
+   slug: "skill-line-id",
+   propertySlug: "skill-line-id",
+   definition: "the line a skill belongs to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     { invariantKind: "gap", statement: "This property is a relation to  a skill line." },
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/skill-type.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/skill-type.text-property.ts
+index 1a0779bdcef438c10c95dc65b3c1e2e250b45968..793c777c23663a0f45c20015c5595dfb652b6520 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/skill-type.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/skill-type.text-property.ts
+@@ -8,7 +8,7 @@ export const skillType = {
+   slug: "skill-type",
+   propertySlug: "skill-type",
+   definition: "the sort of skill a page is about",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     { invariantKind: "gap", statement: "This property is a relation to  a skill type." },
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/slotted-behavior.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/slotted-behavior.text-property.ts
+index b7b676ea5870bf4bce7e965cd95ff44da6aee2ca..f42846c910f56754fc617948294c658b994f94c8 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/slotted-behavior.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/slotted-behavior.text-property.ts
+@@ -8,6 +8,6 @@ export const slottedBehavior = {
+   slug: "slotted-behavior",
+   propertySlug: "slotted-behavior",
+   definition: "which bar a slotted ability holds its effect on",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/subcategory-id.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/subcategory-id.text-property.ts
+index 0195697a043a0536f213065194075f0e52c47b03..80a8bc96e86218cd0d54d0f0c6317f0fc2369220 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/subcategory-id.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/subcategory-id.text-property.ts
+@@ -8,7 +8,7 @@ export const subcategoryId = {
+   slug: "subcategory-id",
+   propertySlug: "subcategory-id",
+   definition: "the narrower group a thing is filed under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     { invariantKind: "gap", statement: "This property is a relation to  a subcategory." },
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/value-type.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/value-type.text-property.ts
+index ef5224a1616fa27ececa29333d8f093ea21a5618..e5c850bcb7c0317a1b331477ff4920fff4bd16d0 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/value-type.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/value-type.text-property.ts
+@@ -8,6 +8,6 @@ export const valueType = {
+   slug: "value-type",
+   propertySlug: "value-type",
+   definition: "whether an effect's value counts as a whole number or as a fraction",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/buff-name.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/buff-name.text-property.ts
+index 44efd9ae949c56c73296de8bb9b8e8f746a55317..10bd1453ed9e1b3453f9f7dcc9fb142f944bfee5 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/buff-name.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/buff-name.text-property.ts
+@@ -8,6 +8,6 @@ export const buffName = {
+   slug: "buff-name",
+   propertySlug: "buff",
+   definition: "the helpful effect an effect puts on whoever it lands on",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/cast-condition-type.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/cast-condition-type.text-property.ts
+index a8222ab87061bf294c625c2a2d274eaccd409700..ee380643a58e62fe1b1f0c7539014dd74ffb073c 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/cast-condition-type.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/cast-condition-type.text-property.ts
+@@ -8,6 +8,6 @@ export const castConditionType = {
+   slug: "cast-condition-type",
+   propertySlug: "type",
+   definition: "what one test before a companion casts is a case of",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/coefficient-type.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/coefficient-type.text-property.ts
+index ccce0920b3412b8d4d8040ec0d667debd54af448..fbbd1224449826ae51ce67525ba16df9305827b0 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/coefficient-type.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/coefficient-type.text-property.ts
+@@ -8,6 +8,6 @@ export const coefficientType = {
+   slug: "coefficient-type",
+   propertySlug: "coefficient-type",
+   definition: "how often a coefficient counts against the metric it reads",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/condition-kind.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/condition-kind.text-property.ts
+index 815ff489eab828f49c222cd07d7019302a54a454..2d9d32d40bb1496f9403ad4257196654dc493688 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/condition-kind.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/condition-kind.text-property.ts
+@@ -8,6 +8,6 @@ export const conditionKind = {
+   slug: "condition-kind",
+   propertySlug: "type",
+   definition: "what one test inside an effect reads",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/condition-weapon-type.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/condition-weapon-type.text-property.ts
+index e249c74cb167d0316a6e15fa5122c3ec641c0e60..979278a1d1b7e1b0d483f4cdadf9a51d3be43fae 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/condition-weapon-type.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/condition-weapon-type.text-property.ts
+@@ -8,6 +8,6 @@ export const conditionWeaponType = {
+   slug: "condition-weapon-type",
+   propertySlug: "weapon-type",
+   definition: "the weapon a test holds for",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/cooldown-scope.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/cooldown-scope.text-property.ts
+index fc34d1837eaf1c367c4827de8e7b9387fef82312..ab823a1251e8751d14adb92ece347d304f19cd42 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/cooldown-scope.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/cooldown-scope.text-property.ts
+@@ -8,6 +8,6 @@ export const cooldownScope = {
+   slug: "cooldown-scope",
+   propertySlug: "scope",
+   definition: "how widely a cooldown reduction reaches",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/debuff-name.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/debuff-name.text-property.ts
+index 2a6da30ef65a40cca6082bca7cdee248b1e0e953..2894b50de02bedb44b621c7c899872bf07ad1565 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/debuff-name.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/debuff-name.text-property.ts
+@@ -8,6 +8,6 @@ export const debuffName = {
+   slug: "debuff-name",
+   propertySlug: "debuff",
+   definition: "the harmful effect an effect puts on whoever it lands on",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/display-mode.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/display-mode.text-property.ts
+index 95fb55028278d463338179dfbec4f7bb70553193..e138a7510b184d55ecd6f91f54f4446b002b3295 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/display-mode.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/display-mode.text-property.ts
+@@ -8,6 +8,6 @@ export const displayMode = {
+   slug: "display-mode",
+   propertySlug: "display-mode",
+   definition: "whether a value is said as a whole or as one tick",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/enemy-types.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/enemy-types.text-property.ts
+index 69ced1b8e53fcb30b1bb5cf8b49dc2388287d145..df50c9e0f6d896651867110046c729c8519e33db 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/enemy-types.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/enemy-types.text-property.ts
+@@ -8,6 +8,6 @@ export const enemyTypes = {
+   slug: "enemy-types",
+   propertySlug: "enemy-types",
+   definition: "the sort of enemy a test holds for",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/formula-kind.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/formula-kind.text-property.ts
+index f8ea21f9a3195cc005c6fb15226af764be3609e3..20cb98f33acc2d2c82a5c0c9c3347dac6f054bbc 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/formula-kind.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/formula-kind.text-property.ts
+@@ -8,6 +8,6 @@ export const formulaKind = {
+   slug: "formula-kind",
+   propertySlug: "type",
+   definition: "how an effect works out the number it carries",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/hd-application.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/hd-application.text-property.ts
+index 760fae65d164beb62c2c695dd0a627dca50dd2f5..d6042382d9a6ac697a1c9ba49ffb8ebd99f725a7 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/hd-application.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/hd-application.text-property.ts
+@@ -8,6 +8,6 @@ export const hdApplication = {
+   slug: "hd-application",
+   propertySlug: "hd-application",
+   definition: "how healing done is read against a heal over time",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/modifier-type.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/modifier-type.text-property.ts
+index b3cb116fe9035cd7b0538ee94f63381d9f60dddd..c4b086e6783aa4b801aa292de92f08bcaedce2c5 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/modifier-type.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/modifier-type.text-property.ts
+@@ -8,6 +8,6 @@ export const modifierType = {
+   slug: "modifier-type",
+   propertySlug: "modifier-type",
+   definition: "whether a passive's value counts as a fraction or as a whole number",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/resource.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/resource.text-property.ts
+index dd798539add70e285842cccf2a8a0566bb85fdb8..ffc4a49846bce069775effb1b0ac1c5e86496e64 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/resource.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/resource.text-property.ts
+@@ -8,6 +8,6 @@ export const resource = {
+   slug: "resource",
+   propertySlug: "resource",
+   definition: "the pool a companion spends to cast",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effect-type.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effect-type.text-property.ts
+index 9370318ead9903e934d3955bd344f13b236928aa..15ec4e6abcaaa0253cb787f1729ff8ab4869d960 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effect-type.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effect-type.text-property.ts
+@@ -8,6 +8,6 @@ export const skillEffectType = {
+   slug: "skill-effect-type",
+   propertySlug: "type",
+   definition: "what one thing a companion's skill does is a case of",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/status-name.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/status-name.text-property.ts
+index 9511e0f88815a8fe2b89ee46d9f9cde24f5141ea..23584e995a231b66b7a27f287dba16ec80884718 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/status-name.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/status-name.text-property.ts
+@@ -8,6 +8,6 @@ export const statusName = {
+   slug: "status-name",
+   propertySlug: "status",
+   definition: "the status an effect applies",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/synergy-name.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/synergy-name.text-property.ts
+index a54263a898ab896472883eafc8cfef92a1d322d6..2980976d3f734f471743c738846906f418cb310e 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/synergy-name.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/synergy-name.text-property.ts
+@@ -8,6 +8,6 @@ export const synergyName = {
+   slug: "synergy-name",
+   propertySlug: "name",
+   definition: "what the game calls the synergy a skill offers",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/target-kind.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/target-kind.text-property.ts
+index 04edda1fad8ecefbea468eae7e0725beccd263d2..1c599dca939eb66c48dacf096ccd231b0a2f320e 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/target-kind.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/target-kind.text-property.ts
+@@ -8,6 +8,6 @@ export const targetKind = {
+   slug: "target-kind",
+   propertySlug: "type",
+   definition: "who or what an effect lands on",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/target-scope.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/target-scope.text-property.ts
+index 828317c7215618bf020ea8f694d0ec3c3fb969b2..df7926183b60f9ea3af86352756d98bcf7b6a6bd 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/target-scope.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/target-scope.text-property.ts
+@@ -8,6 +8,6 @@ export const targetScope = {
+   slug: "target-scope",
+   propertySlug: "scope",
+   definition: "how many the thing an effect lands on covers",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/target-type.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/target-type.text-property.ts
+index c7e32c1adf7a24aaa27408be56071d4ba3772967..bc5d7f61f7614fded5037e38dd2aab96556b0839 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/target-type.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/target-type.text-property.ts
+@@ -8,6 +8,6 @@ export const targetType = {
+   slug: "target-type",
+   propertySlug: "target-type",
+   definition: "whose number a test reads",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/trigger.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/trigger.text-property.ts
+index 4ff2e458ea3d7bc92413e94646ff84680c1a712d..726ffd3b34362036231fbe6b09840958d3ea9a44 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/trigger.text-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/trigger.text-property.ts
+@@ -8,6 +8,6 @@ export const trigger = {
+   slug: "trigger",
+   propertySlug: "trigger",
+   definition: "what has to happen before an effect fires",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/abbreviation.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/abbreviation.text-property.ts
+index 37efad44be15c32923048cd66cbe9b56108c0699..46caba75023ff7b44365602fde4f4548b8deab9a 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/abbreviation.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/abbreviation.text-property.ts
+@@ -8,6 +8,6 @@ export const abbreviation = {
+   slug: "abbreviation",
+   propertySlug: "abbreviation",
+   definition: "the short form a name is written by",
+-  max: 10,
++  maxLength: 10,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/alliance.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/alliance.text-property.ts
+index 8294911f4dc3ee87de413135e2323be5ea6b4cd0..ecaa7f71ed2868f6e8376ebe345ed687956783ab 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/alliance.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/alliance.text-property.ts
+@@ -8,6 +8,6 @@ export const alliance = {
+   slug: "alliance",
+   propertySlug: "alliance",
+   definition: "the alliance a companion belongs to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/class-passive-id.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/class-passive-id.text-property.ts
+index 91b2b4e2ac58078bb282ba4e3337a253860adefe..f33773e727a27bb1c95df86e6f81d990bab47cb1 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/class-passive-id.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/class-passive-id.text-property.ts
+@@ -8,6 +8,6 @@ export const classPassiveId = {
+   slug: "class-passive-id",
+   propertySlug: "class-passive-id",
+   definition: "the passive a companion's class grants",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/constant-kind.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/constant-kind.text-property.ts
+index 8e5831d9bcca331d895a44e01133f212d73b9e59..506d6d166337cac11978a4f860f34cd999399bea 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/constant-kind.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/constant-kind.text-property.ts
+@@ -8,6 +8,6 @@ export const constantKind = {
+   slug: "constant-kind",
+   propertySlug: "kind",
+   definition: "the sort of value a game constant holds",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/key-text.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/key-text.text-property.ts
+index e745b75cd1578863d21ff9f5c73e97470a0ae805..b24cf79a36cdf9d2dfc48bb0ee7220eaf728e892 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/key-text.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/key-text.text-property.ts
+@@ -8,6 +8,6 @@ export const keyText = {
+   slug: "key-text",
+   propertySlug: "key-text",
+   definition: "the name the game spells a constant by",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/slot-category.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/slot-category.text-property.ts
+index 82495c5988139821381ead4d5ff3c1935b6000bc..3114cd4ea40de5eedd5dd5df2dc1880cdeb87676 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/slot-category.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/slot-category.text-property.ts
+@@ -8,6 +8,6 @@ export const slotCategory = {
+   slug: "slot-category",
+   propertySlug: "slot-category",
+   definition: "the group a jewelry place falls in",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/subtitle.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/subtitle.text-property.ts
+index 9c1828fabcae3f395f0fc9fd41881f2647b4031b..29ae1384128965be4f4a649eba66d36241f881c1 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/subtitle.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/subtitle.text-property.ts
+@@ -8,6 +8,6 @@ export const subtitle = {
+   slug: "subtitle",
+   propertySlug: "subtitle",
+   definition: "the epithet a companion is known by",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/tags.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/tags.text-property.ts
+index 11cabe19e710643d07a8bdf6e8f7a1ca22a060fd..0793f9cdd27ce0a6bc5b18bde85f3e41f5e56dd1 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/tags.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/tags.text-property.ts
+@@ -8,6 +8,6 @@ export const tags = {
+   slug: "tags",
+   propertySlug: "tags",
+   definition: "a note about how a skill behaves",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-armor-weights.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-armor-weights.text-property.ts
+index c775c0623da59d828b5a42f6593b854ded0b36fb..f0f426dbbc0ccf9a56c44e017178abb342741ec6 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-armor-weights.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-armor-weights.text-property.ts
+@@ -8,6 +8,6 @@ export const validArmorWeights = {
+   slug: "valid-armor-weights",
+   propertySlug: "valid-armor-weights",
+   definition: "an armor weight a role is built around",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-main-hand-weapon-types.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-main-hand-weapon-types.text-property.ts
+index c74ba36ae5c4c9122c80042179d86c4536d8871d..268f708b7d215d452b564c04bf8cceb05b64dba5 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-main-hand-weapon-types.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-main-hand-weapon-types.text-property.ts
+@@ -8,6 +8,6 @@ export const validMainHandWeaponTypes = {
+   slug: "valid-main-hand-weapon-types",
+   propertySlug: "valid-main-hand-weapon-types",
+   definition: "a weapon a pairing takes in the main hand",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-off-hand-weapon-types.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-off-hand-weapon-types.text-property.ts
+index 4b422c9b902d7169692db65e9d62b0f7bf09c713..d5a5510277d5c4b68af043d4730f7713d95cc323 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-off-hand-weapon-types.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-off-hand-weapon-types.text-property.ts
+@@ -8,6 +8,6 @@ export const validOffHandWeaponTypes = {
+   slug: "valid-off-hand-weapon-types",
+   propertySlug: "valid-off-hand-weapon-types",
+   definition: "a weapon a pairing takes in the off hand",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-roles.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-roles.text-property.ts
+index 1e3b259e65f70f6ccb1731baa2f489574fa5b0b0..6487f6dea9795b2cf69d4c921d99b58a04242414 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-roles.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-roles.text-property.ts
+@@ -8,6 +8,6 @@ export const validRoles = {
+   slug: "valid-roles",
+   propertySlug: "valid-roles",
+   definition: "a role a skill suits",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-trait-ids.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-trait-ids.text-property.ts
+index 8e0369ea34f87f7d309ade7222b5b52ec2f795e3..4f52edf5996c927d85ab4341b43432e0840da039 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-trait-ids.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-trait-ids.text-property.ts
+@@ -8,6 +8,6 @@ export const validTraitIds = {
+   slug: "valid-trait-ids",
+   propertySlug: "valid-trait-ids",
+   definition: "a trait a role is built around",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-weapon-role-ids.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-weapon-role-ids.text-property.ts
+index 9c936920c30efe3b0c96503f3b4af2d82a469595..db522f510f6401c5b630f1e1ed763cefa574f70a 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-weapon-role-ids.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/valid-weapon-role-ids.text-property.ts
+@@ -8,6 +8,6 @@ export const validWeaponRoleIds = {
+   slug: "valid-weapon-role-ids",
+   propertySlug: "valid-weapon-role-ids",
+   definition: "a weapon pairing a role is built around",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/value-text.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/value-text.text-property.ts
+index c1ee5cffbcb0856260278799c9a2193f06eebabb..df54e9c3a7429b48383ee4fba732f4e501361aa9 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/value-text.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/value-text.text-property.ts
+@@ -8,6 +8,6 @@ export const valueText = {
+   slug: "value-text",
+   propertySlug: "value-text",
+   definition: "the text a constant holds",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/weapon-skill-line-id.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/weapon-skill-line-id.text-property.ts
+index ced5e6233b0b798939e7395bdc0baf2a6a113869..0270ef058aa7a463e25aaeb84b39eeaba79758f4 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/weapon-skill-line-id.text-property.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/weapon-skill-line-id.text-property.ts
+@@ -8,6 +8,6 @@ export const weaponSkillLineId = {
+   slug: "weapon-skill-line-id",
+   propertySlug: "weapon-skill-line-id",
+   definition: "the skill line a weapon pairing draws from",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-gear/properties/alchemy-effects.text-property.ts b/temper/temper-catalog/temper-gear/properties/alchemy-effects.text-property.ts
+index 3f0f751731a6cba1dc0259fe9aeefcd0a2cdb93b..8104e6015b8b647a2d5d3859fed5a480ee9700e3 100644
+--- a/temper/temper-catalog/temper-gear/properties/alchemy-effects.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/alchemy-effects.text-property.ts
+@@ -10,7 +10,7 @@ export const alchemyEffects = {
+   slug: "alchemy-effects",
+   propertySlug: "alchemy-effects",
+   definition: "the four effects a reagent can lend what it is brewed into",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     { invariantKind: "gap", statement: "This property is a relation to a poison effect." },
+diff --git a/temper/temper-catalog/temper-gear/properties/bonus-status.text-property.ts b/temper/temper-catalog/temper-gear/properties/bonus-status.text-property.ts
+index 0ec7be7927323ff28588b1d5bbfa052e9dce8ec2..69f62883b813a4046ec7563be803700bbc1b2a16 100644
+--- a/temper/temper-catalog/temper-gear/properties/bonus-status.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/bonus-status.text-property.ts
+@@ -8,7 +8,7 @@ export const bonusStatus = {
+   slug: "bonus-status",
+   propertySlug: "status",
+   definition: "how far temper models what a set bonus does",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-gear/properties/constant-family.text-property.ts b/temper/temper-catalog/temper-gear/properties/constant-family.text-property.ts
+index 2ed1dca015c49f525d3cb114c6f3aa064babe879..cd04a3a12ccd6abcd9b8047a2b84fcd808b05d81 100644
+--- a/temper/temper-catalog/temper-gear/properties/constant-family.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/constant-family.text-property.ts
+@@ -8,6 +8,6 @@ export const constantFamily = {
+   slug: "constant-family",
+   propertySlug: "constant-family",
+   definition: "the group of gear values a constant belongs to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-gear/properties/constant-id.text-property.ts b/temper/temper-catalog/temper-gear/properties/constant-id.text-property.ts
+index e1f97ed9f8922e350ff3073026563edd559cf9ae..3afdf1ad7f80271f1c2241b3cd288494d7286c94 100644
+--- a/temper/temper-catalog/temper-gear/properties/constant-id.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/constant-id.text-property.ts
+@@ -8,6 +8,6 @@ export const constantId = {
+   slug: "constant-id",
+   propertySlug: "constant-id",
+   definition: "the value within its group a constant answers to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-gear/properties/drop-sources.text-property.ts b/temper/temper-catalog/temper-gear/properties/drop-sources.text-property.ts
+index c31f70765e530695cd3473c19e3b473dc7ccbc36..b1e82c0586dd7b7f17f0a10f9195d8ceb42106ea 100644
+--- a/temper/temper-catalog/temper-gear/properties/drop-sources.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/drop-sources.text-property.ts
+@@ -10,7 +10,7 @@ export const dropSources = {
+   slug: "drop-sources",
+   propertySlug: "drop-sources",
+   definition: "the daily errands a style's motif pages drop from",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     { invariantKind: "gap", statement: "This property is a relation to a scribing source." },
+diff --git a/temper/temper-catalog/temper-gear/properties/eso-enchant-constant-name.text-property.ts b/temper/temper-catalog/temper-gear/properties/eso-enchant-constant-name.text-property.ts
+index 7f13592c2f4cecfc4a8d571127d6fddbfa67b9e6..77b4c0804311dddca2179c6d96855c1fefff2880 100644
+--- a/temper/temper-catalog/temper-gear/properties/eso-enchant-constant-name.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/eso-enchant-constant-name.text-property.ts
+@@ -8,6 +8,6 @@ export const esoEnchantConstantName = {
+   slug: "eso-enchant-constant-name",
+   propertySlug: "eso-enchant-constant-name",
+   definition: "the constant The Elder Scrolls Online names an enchant by in its own code",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: "name-format/upper-snake-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-gear/properties/eso-weapon-type.text-property.ts b/temper/temper-catalog/temper-gear/properties/eso-weapon-type.text-property.ts
+index 5c31a6f9f667aee19fed26cba17db7340fa1f0d8..41163a70869677e644443a65ad8a230b6c2623a4 100644
+--- a/temper/temper-catalog/temper-gear/properties/eso-weapon-type.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/eso-weapon-type.text-property.ts
+@@ -8,6 +8,6 @@ export const esoWeaponType = {
+   slug: "eso-weapon-type",
+   propertySlug: "eso-weapon-type",
+   definition: "the constant The Elder Scrolls Online names a weapon kind by in its own code",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: "name-format/upper-snake-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-gear/properties/essence-rune.text-property.ts b/temper/temper-catalog/temper-gear/properties/essence-rune.text-property.ts
+index bf8f04f3ad336f1cf3d792cbc045ee655cbd48a8..b2422a38ad71b064cec2f4f3fbf793ce96f16039 100644
+--- a/temper/temper-catalog/temper-gear/properties/essence-rune.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/essence-rune.text-property.ts
+@@ -8,6 +8,6 @@ export const essenceRune = {
+   slug: "essence-rune",
+   propertySlug: "essence-rune",
+   definition: "the rune deciding which enchant a glyph carries",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-gear/properties/glyph-name.text-property.ts b/temper/temper-catalog/temper-gear/properties/glyph-name.text-property.ts
+index 428a059357daef70463d8ad08fc346b7b9abfb3a..550bc5de422ec2d389f4245351bd20bc12468ea3 100644
+--- a/temper/temper-catalog/temper-gear/properties/glyph-name.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/glyph-name.text-property.ts
+@@ -8,6 +8,6 @@ export const glyphName = {
+   slug: "glyph-name",
+   propertySlug: "glyph-name",
+   definition: "what the game calls the glyph an enchant is carried by",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-gear/properties/icon-slot.text-property.ts b/temper/temper-catalog/temper-gear/properties/icon-slot.text-property.ts
+index b57e8b5a5b58bb1292af61ab0310fb4e9455168f..bc588861310a4305d500e704845edf5f243ccd3b 100644
+--- a/temper/temper-catalog/temper-gear/properties/icon-slot.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/icon-slot.text-property.ts
+@@ -8,7 +8,7 @@ export const iconSlot = {
+   slug: "icon-slot",
+   propertySlug: "slot",
+   definition: "the piece an icon is shown for",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-gear/properties/item-level.text-property.ts b/temper/temper-catalog/temper-gear/properties/item-level.text-property.ts
+index 12480fbdce024c0b4ef42642909d88e6dfafe0d5..5447263a3a73159eccd01e8547cae1b5fb75cadd 100644
+--- a/temper/temper-catalog/temper-gear/properties/item-level.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/item-level.text-property.ts
+@@ -8,7 +8,7 @@ export const itemLevel = {
+   slug: "item-level",
+   propertySlug: "level",
+   definition: "the character level an item is made for",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-gear/properties/jewelry-type-id.text-property.ts b/temper/temper-catalog/temper-gear/properties/jewelry-type-id.text-property.ts
+index 27413aceb3d711dbc2bcdbf21f585e1bbd55cf50..955cb3f6530c04e85efa95adeecd0c9d2af6c65f 100644
+--- a/temper/temper-catalog/temper-gear/properties/jewelry-type-id.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/jewelry-type-id.text-property.ts
+@@ -8,7 +8,7 @@ export const jewelryTypeId = {
+   slug: "jewelry-type-id",
+   propertySlug: "type-id",
+   definition: "the kind of jewelry a slot takes",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     { invariantKind: "gap", statement: "This property is a relation to a jewelry type." },
+diff --git a/temper/temper-catalog/temper-gear/properties/opposite-id.text-property.ts b/temper/temper-catalog/temper-gear/properties/opposite-id.text-property.ts
+index 9e0eeb415efdbd1c528cfbfa057b17f005cf340f..1db19dc42b2c84fd752defedf0d690c941feac6a 100644
+--- a/temper/temper-catalog/temper-gear/properties/opposite-id.text-property.ts
++++ b/temper/temper-catalog/temper-gear/properties/opposite-id.text-property.ts
+@@ -8,7 +8,7 @@ export const oppositeId = {
+   slug: "opposite-id",
+   propertySlug: "opposite-id",
+   definition: "the alchemy effect undoing what this one does",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     { invariantKind: "gap", statement: "This property is a relation to a poison effect." },
