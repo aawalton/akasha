@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
-index 23d6e0f53de7652a73c8ac8e473be5c596cb7d75..76631ea2e3a5bdbaa1a46031ca920ba702070f90 100644
+index 23d6e0f53de7652a73c8ac8e473be5c596cb7d75..92330c4e7bfbfe3c0917b362fb751202dd06ed32 100644
 --- a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
 +++ b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
 @@ -15,11 +15,13 @@ export const renamePath = {
@@ -28,3 +28,12 @@ index 23d6e0f53de7652a73c8ac8e473be5c596cb7d75..76631ea2e3a5bdbaa1a46031ca920ba7
      },
      {
        invariantKind: "departure",
+@@ -39,7 +41,7 @@ export const renamePath = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A body naming the path in a string rather than in an import is left as it is.",
++      statement: "A body naming the path in a string rather than in an import is left unchanged.",
+     },
+   ],
+ } as const satisfies AtomicChange
