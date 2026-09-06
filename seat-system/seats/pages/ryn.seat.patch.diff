@@ -1,0 +1,18 @@
+diff --git a/seat-system/recipient-resolving/wake-comms-input/wake-comms-input.module.ts b/seat-system/recipient-resolving/wake-comms-input/wake-comms-input.module.ts
+index d4c70047fc6bdbe9e6881a34bf7009dce492a38e..47a686d611afe1b32fbce687f01c2cd53b9e1d6d 100644
+--- a/seat-system/recipient-resolving/wake-comms-input/wake-comms-input.module.ts
++++ b/seat-system/recipient-resolving/wake-comms-input/wake-comms-input.module.ts
+@@ -9,8 +9,11 @@ export const wakeCommsInput = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A message from an agent is sent by the agent prefix and its id, and any other by its source.",
++      statement: "A message from an agent is sent by the agent prefix and its id.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A message from anything else is sent by its source.",
+     },
+     {
+       invariantKind: "absence",
