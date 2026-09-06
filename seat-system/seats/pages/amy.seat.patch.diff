@@ -74,28 +74,6 @@ index 0000000000000000000000000000000000000000..ec5632ea9ec446721798dc931d50c7e2
 +export function figureOffScaleOn(one: Stoplight | undefined): unknown {
 +  return (one as Record<string, unknown> | undefined)?.figureOffScale
 +}
-diff --git a/readout-system/readout-group-serving/readout-group-serving.module.test.ts b/readout-system/readout-group-serving/readout-group-serving.module.test.ts
-index 2bae8465dd0a09a4a85270a0bf60efe5cae3c994..74aec6efaec313f98c55540e43c9025c69fff4e3 100644
---- a/readout-system/readout-group-serving/readout-group-serving.module.test.ts
-+++ b/readout-system/readout-group-serving/readout-group-serving.module.test.ts
-@@ -328,16 +328,7 @@ test("nothing between here and the tile is allowed to keep an answer", async ()
-   expect((await drawn()).headers.get("Cache-Control")).toBe("no-store")
- })
- 
--const OTHER = "another-readout-named-only-in-this-test"
--
--const OTHER_ROW = {
--  slug: OTHER,
--  label: "Surplus",
--  place: 2,
--  scaleSlug: SCALE,
--  wireKey: "surplus",
--  groupSlugs: [GROUP],
--}
-+const PROBE = 1
- 
- async function keysDrawn(): Promise<readonly (string | undefined)[]> {
-   return (await stoplights()).map((one) => one.habit)
 diff --git a/readout-system/readout-group-serving/readout-group-serving.module.ts b/readout-system/readout-group-serving/readout-group-serving.module.ts
 index 96cfecdb2cf6a389fb1ab9b66c5cbc63508cc315..86e7e503376eae4d5bfe9c2784bff10c42f41d1b 100644
 --- a/readout-system/readout-group-serving/readout-group-serving.module.ts
