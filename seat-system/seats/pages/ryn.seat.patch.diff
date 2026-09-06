@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/fitness/exercise-access/training-digest/training-digest.module.ts b/alan/fitness/exercise-access/training-digest/training-digest.module.ts
+index 8fd2b8f40eda8e167ce9f551a915d38c005d9d44..504f7a71886d36306b34789ce2b2d0291a0db4b6 100644
+--- a/alan/fitness/exercise-access/training-digest/training-digest.module.ts
++++ b/alan/fitness/exercise-access/training-digest/training-digest.module.ts
+@@ -14,7 +14,7 @@ export const trainingDigest = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A focus named by the caller overrides the one the rotation schedules.",
++      statement: "A focus named by the caller overrides the focus the rotation schedules.",
+     },
+     {
+       invariantKind: "departure",
