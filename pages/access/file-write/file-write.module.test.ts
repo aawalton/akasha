@@ -126,6 +126,75 @@ describe("a patch merges over what the page carries", () => {
   })
 })
 
+describe("a write hands over the body of a file a property is held in", () => {
+  test("a patch carries the bodies beside the values", async () => {
+    const { deps, taken } = watching([{ slug: "one" }])
+    await patchFilePages(
+      {
+        pageTypeSlug: "thing",
+        where: [{ key: "slug", eq: "one" }],
+        set: { portrait: "md" },
+        bodies: { portrait: "# one" },
+      },
+      "patchPage",
+      deps
+    )
+    expect(taken.writes[0]?.pages?.[0]?.bodies).toEqual({ portrait: "# one" })
+  })
+
+  test("a create carries them too", async () => {
+    const { deps, taken } = watching([{ slug: "one" }])
+    await createFilePage(
+      {
+        pageTypeSlug: "thing",
+        properties: { slug: "one", portrait: "md" },
+        bodies: { portrait: "# one" },
+      },
+      "createPage",
+      deps
+    )
+    expect(taken.writes[0]?.pages?.[0]?.bodies).toEqual({ portrait: "# one" })
+  })
+
+  test("an upsert carries them down whichever branch it takes", async () => {
+    const standing = watching([{ slug: "one" }])
+    await upsertFilePage(
+      {
+        pageTypeSlug: "thing",
+        where: [{ key: "slug", eq: "one" }],
+        set: { portrait: "md" },
+        bodies: { portrait: "# one" },
+      },
+      "upsertPage",
+      standing.deps
+    )
+    expect(standing.taken.writes[0]?.pages?.[0]?.bodies).toEqual({ portrait: "# one" })
+
+    const fresh = watching([])
+    await upsertFilePage(
+      {
+        pageTypeSlug: "thing",
+        where: [{ key: "slug", eq: "two" }],
+        set: { slug: "two", portrait: "md" },
+        bodies: { portrait: "# two" },
+      },
+      "upsertPage",
+      fresh.deps
+    )
+    expect(fresh.taken.writes[0]?.pages?.[0]?.bodies).toEqual({ portrait: "# two" })
+  })
+
+  test("a write handing over none names no bodies at all", async () => {
+    const { deps, taken } = watching([{ slug: "one" }])
+    await patchFilePages(
+      { pageTypeSlug: "thing", where: [{ key: "slug", eq: "one" }], set: { title: "x" } },
+      "patchPage",
+      deps
+    )
+    expect(taken.writes[0]?.pages?.[0]).not.toHaveProperty("bodies")
+  })
+})
+
 describe("a create is addressed by its slug", () => {
   test("it takes the slug among its values", async () => {
     const { deps, taken } = watching([{ slug: "one" }])
