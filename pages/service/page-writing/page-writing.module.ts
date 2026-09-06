@@ -47,7 +47,7 @@ export const pageWriting = {
     {
       invariantKind: "departure",
       statement:
-        "A write stating one is refused where any of its paths no longer holds the body that commit held.",
+        "A write stating a commit is refused where a path no longer holds the body that commit held.",
     },
     {
       invariantKind: "departure",
@@ -73,7 +73,7 @@ export const pageWriting = {
     },
     {
       invariantKind: "departure",
-      statement: "Two writes in one batch keeping one page merge onto one another in order.",
+      statement: "Two writes in one batch keeping one page merge in the order the writes arrived.",
     },
     {
       invariantKind: "departure",
