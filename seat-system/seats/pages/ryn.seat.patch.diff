@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/alan/harness/activity/activity.domain.ts b/alan/harness/activity/activity.domain.ts
+index a749366d0f9036bd76fa3520c6cfa4a381fd6bc2..66b89551d50218366738c3f390d5988db037f4f4 100644
+--- a/alan/harness/activity/activity.domain.ts
++++ b/alan/harness/activity/activity.domain.ts
+@@ -23,7 +23,8 @@ export const activity = {
+ 
+     {
+       invariantKind: "departure",
+-      statement: "Every site showing the activity is carried the activity rather than taking one.",
++      statement:
++        "Every site showing the activity is carried the activity rather than taking that activity.",
+     },
+     {
+       invariantKind: "departure",
