@@ -1,5 +1,5 @@
 diff --git a/editor-extension/ops-extension/extension-entry/extension-entry.module.ts b/editor-extension/ops-extension/extension-entry/extension-entry.module.ts
-index aa632a7fff52a35c292dbf78873b8b21220eb12e..a948b02b0460c2bd4014be8122dbf976c54ff6de 100644
+index aa632a7fff52a35c292dbf78873b8b21220eb12e..b829287da9177f3b1f9af4e81821bac416b22f01 100644
 --- a/editor-extension/ops-extension/extension-entry/extension-entry.module.ts
 +++ b/editor-extension/ops-extension/extension-entry/extension-entry.module.ts
 @@ -21,7 +21,7 @@ export const extensionEntry = {
@@ -11,3 +11,17 @@ index aa632a7fff52a35c292dbf78873b8b21220eb12e..a948b02b0460c2bd4014be8122dbf976
      },
      {
        invariantKind: "departure",
+@@ -49,8 +49,11 @@ export const extensionEntry = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A panel that did not start is named to Alan once, with the rest said to be running.",
++      statement: "A panel that did not start is named to Alan once.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The rest of the panels are said to be running.",
+     },
+     {
+       invariantKind: "absence",
