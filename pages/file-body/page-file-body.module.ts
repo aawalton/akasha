@@ -40,11 +40,20 @@ export const pageFileBody = {
     },
     {
       invariantKind: "departure",
+      statement: "A body is read as the bytes on disk before any decoding is chosen.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A body is decoded as text only where the caller asks for text.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A property's body may be kept in the numbered files beside the page.",
     },
     {
       invariantKind: "departure",
-      statement: "The numbered files of one property are joined in the order they are numbered.",
+      statement:
+        "The numbered files of one property are joined in the order those files are numbered.",
     },
     {
       invariantKind: "departure",
@@ -57,10 +66,6 @@ export const pageFileBody = {
     {
       invariantKind: "absence",
       statement: "Nothing here writes.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A body that is not text reads as the replacement character.",
     },
   ],
 } as const satisfies Module

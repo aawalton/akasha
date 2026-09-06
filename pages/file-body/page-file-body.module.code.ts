@@ -15,6 +15,8 @@ export type Filed = {
 
 export type Body = { readonly body: string } | { readonly refused: string }
 
+export type Bytes = { readonly bytes: Uint8Array } | { readonly refused: string }
+
 export function filedAmong<T extends Filed>(declared: Iterable<T>): readonly T[] {
   const found: T[] = []
   for (const one of declared) {
@@ -28,7 +30,22 @@ function filed(root: string, at: string): boolean {
   return found?.isFile() === true
 }
 
-export function bodyAt(root: string, page: string, propertySlug: string, held: string): Body {
+function joined(found: readonly Uint8Array[]): Uint8Array {
+  let total = 0
+  for (const one of found) total += one.length
+  const whole = new Uint8Array(total)
+  let at = 0
+  for (const one of found) {
+    whole.set(one, at)
+    at += one.length
+  }
+  return whole
+}
+
+// THE BYTES ARE READ BEFORE ANY DECODING IS CHOSEN. A decoder turns every byte no encoding admits
+// into the replacement character, which re-encodes as three different bytes, so a picture read as
+// text and written back is a different file and the first byte of a PNG is the one that goes.
+export function bytesAt(root: string, page: string, propertySlug: string, held: string): Bytes {
   const first = besideAt(page, propertySlug, held)
   if (first === null) return { refused: `'${page}' is no page file, ${UNKNOWN}` }
   if (!filed(root, first)) {
@@ -36,11 +53,17 @@ export function bodyAt(root: string, page: string, propertySlug: string, held: s
       refused: `'${first}' is named by the page it sits beside and no file is there, ${UNKNOWN}`,
     }
   }
-  const found: string[] = []
+  const found: Uint8Array[] = []
   for (const at of partsOf(page, propertySlug, held, (one) => filed(root, one))) {
-    found.push(readFileSync(join(root, at), "utf8"))
+    found.push(readFileSync(join(root, at)))
   }
-  return { body: found.join("") }
+  return { bytes: joined(found) }
+}
+
+export function bodyAt(root: string, page: string, propertySlug: string, held: string): Body {
+  const read = bytesAt(root, page, propertySlug, held)
+  if ("refused" in read) return read
+  return { body: new TextDecoder().decode(read.bytes) }
 }
 
 export function filedValue(
