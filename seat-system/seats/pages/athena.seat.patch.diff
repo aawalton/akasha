@@ -16,21 +16,6 @@ index 309b1ff3a93ccc9f644e9c6f4b26d0e4f722dfa1..1161fb020952657c5188f03013eae1e2
    }
    report.push(
      read.dryRun
-diff --git a/command-system/commands/index/index.command.ts b/command-system/commands/index/index.command.ts
-index 80d2e8519757d2f66534b15cbf7f9c60ad3fc9c5..8cdd45ba1506756d63957c727c3c5d47574c4eb0 100644
---- a/command-system/commands/index/index.command.ts
-+++ b/command-system/commands/index/index.command.ts
-@@ -60,6 +60,10 @@ export const index = {
-       invariantKind: "departure",
-       statement: "A dry run takes none away.",
-     },
-+    {
-+      invariantKind: "departure",
-+      statement: "A dry run names what would be taken away rather than saying nothing.",
-+    },
-     {
-       invariantKind: "departure",
-       statement: "The report counts those taken away where any were.",
 diff --git a/command-system/commands/move/renaming/move-renaming.module.code.ts b/command-system/commands/move/renaming/move-renaming.module.code.ts
 index 35dbea008b0b755f6f3a9d998c5f5cf113b0c992..d06b3e7bc151d74e7594a90e31bdcfbd2e5b829b 100644
 --- a/command-system/commands/move/renaming/move-renaming.module.code.ts
