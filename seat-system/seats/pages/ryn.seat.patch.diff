@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/editor-layout-panel/editor-layout-panel.module.ts b/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
+index 2d783b82cfee4aa3ac99567efbee0f09111c913e..8cec694e5dc1471ee8640109648df2d260c4477e 100644
+--- a/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
++++ b/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
+@@ -25,7 +25,7 @@ export const editorLayoutPanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A tab kind that is none of the known ones is named as other.",
++      statement: "A tab kind that is none of the known kinds is named `other`.",
+     },
+     {
+       invariantKind: "departure",
