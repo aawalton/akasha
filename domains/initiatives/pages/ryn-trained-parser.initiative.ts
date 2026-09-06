@@ -20,7 +20,7 @@ export const rynTrainedParser = {
     {
       statement: "The shapes akasha refuses are rebuilt on the dependency tree.",
       workingMemory:
-        "Four shapes were carried over and closing-count makes five, each with a predicate and a test. Forty-eight admitted shapes went. Every one is measured over the tree, and every one answers a seeded control. No invariant holds a free relative. All 167 lone-pronoun matches are pronouns whose noun sits in the same sentence, and that is Alan's. Forty of lone-quantifier's 909 were read by hand: 11 are false refusals, mostly parse errors no predicate separates.",
+        "Four shapes were carried over and closing-count makes five, each with a predicate and a test. Forty-eight admitted shapes went. Every one is measured over the tree, and every one answers a seeded control. No invariant holds a free relative. Eleven lone-pronoun matches drawn evenly were weighed against CTR: ten have a cheaper named alternative, so the shape is right. Forty of lone-quantifier's 909 were read by hand: 11 are false refusals, mostly parse errors no predicate separates.",
     },
     {
       statement: "Whether akasha writes in the passive is decided.",
@@ -33,7 +33,7 @@ export const rynTrainedParser = {
     {
       statement: "Every invariant under akasha is written in plain language.",
       workingMemory:
-        "One family is left. 167 statements match lone-pronoun, every one on a pronoun whose noun sits in the same sentence, and that family waits on Alan. The 135 statements past the 100-character maximum are 2 now: fourteen named ratings and five named captures, each an enumeration of members that are no pages. Fourteen lanes reworded 59, cut 47 reason clauses and split 29, and the 7 handed back as unfittable were settled by splitting rather than rewording.",
+        "One family is left: 167 statements match lone-pronoun, and naming the noun each points at is the rewrite. The 135 statements past the 100-character maximum are 2 now: fourteen named ratings and five named captures, each an enumeration of members that are no pages. Fourteen lanes reworded 59, cut 47 reason clauses and split 29, and the 7 handed back as unfittable were settled by splitting rather than rewording.",
     },
   ],
   constraints: [
