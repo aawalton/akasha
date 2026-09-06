@@ -1,14 +1,19 @@
 readersOweReading: false
 diff --git a/seat-system/seat-proc-tree/seat-proc-tree.module.ts b/seat-system/seat-proc-tree/seat-proc-tree.module.ts
-index aa5e0e82570685bc90bb0b8b1412719ca6011180..0a22087448bf10552d207f8f47c318b27325ffa5 100644
+index aa5e0e82570685bc90bb0b8b1412719ca6011180..6422e284bc33b18b0f8cd20fc35b52e1ff2a673e 100644
 --- a/seat-system/seat-proc-tree/seat-proc-tree.module.ts
 +++ b/seat-system/seat-proc-tree/seat-proc-tree.module.ts
-@@ -16,7 +16,7 @@ export const seatProcTree = {
+@@ -16,11 +16,11 @@ export const seatProcTree = {
      {
        invariantKind: "departure",
        statement:
 -        "The main child is the newest where every candidate is timed and the highest pid where any is not.",
 +        "The main child is the newest where every candidate is timed and the highest pid otherwise.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An agent whose processes form one tree has outlived none of them.",
++      statement: "An agent whose processes form one tree has outlived no tree.",
      },
      {
        invariantKind: "departure",
