@@ -40,7 +40,7 @@ export const permissionDenied = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here sees more of a response than the status and the body.",
+      statement: "Nothing here sees a response beyond the status and the body.",
     },
     {
       invariantKind: "gap",
