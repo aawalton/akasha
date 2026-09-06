@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/pages/service/kinds-gathering/kinds-gathering.module.ts b/pages/service/kinds-gathering/kinds-gathering.module.ts
-index acb880215f1344a9b3808f285648865e5b074f7c..e16e8dfd18352061f34d95df9c5de17869dd6e1d 100644
+index acb880215f1344a9b3808f285648865e5b074f7c..95db5934e239168c8883d03c1b568eed76ee988a 100644
 --- a/pages/service/kinds-gathering/kinds-gathering.module.ts
 +++ b/pages/service/kinds-gathering/kinds-gathering.module.ts
 @@ -15,11 +15,12 @@ export const kindsGathering = {
@@ -15,6 +14,15 @@ index acb880215f1344a9b3808f285648865e5b074f7c..e16e8dfd18352061f34d95df9c5de178
 -      statement: "A page type under the one named that no page is filed under is passed over.",
 +      statement:
 +        "A page type under the page type named that no page is filed under is passed over.",
+     },
+     {
+       invariantKind: "departure",
+@@ -31,7 +32,7 @@ export const kindsGathering = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row is keyed by its path, so two page types may carry one slug.",
++      statement: "A row is keyed by its path.",
      },
      {
        invariantKind: "departure",
