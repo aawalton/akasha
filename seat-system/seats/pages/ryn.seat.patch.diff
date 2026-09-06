@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/design/primitives/design-primitives.workspace-package.ts b/design/primitives/design-primitives.workspace-package.ts
+index e18fa941095279edfe57881f6b377bb82dbc7dbb..292c75b5910e915897d19b1a35eb035f501ea006 100644
+--- a/design/primitives/design-primitives.workspace-package.ts
++++ b/design/primitives/design-primitives.workspace-package.ts
+@@ -73,7 +73,7 @@ export const designPrimitives = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The manifest names every package this one reaches.",
++      statement: "The manifest names every package this package reaches.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
