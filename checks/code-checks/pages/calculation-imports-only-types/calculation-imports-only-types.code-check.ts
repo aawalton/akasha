@@ -47,7 +47,7 @@ export const calculationImportsOnlyTypes = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names the line, and the name or the source the import came from.",
+      statement: "A refusal names the line and the name or the source the import came from.",
     },
     {
       invariantKind: "absence",
@@ -55,8 +55,11 @@ export const calculationImportsOnlyTypes = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "This check's input is those files alone, so a change carrying none does not run it.",
+      statement: "This check's input is those files alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change carrying no such file does not run this check.",
     },
     {
       invariantKind: "absence",
