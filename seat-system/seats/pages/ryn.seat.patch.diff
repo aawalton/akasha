@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-antiquities-addon/temper-antiquities-addon.eso-addon.ts b/temper/temper-antiquities-addon/temper-antiquities-addon.eso-addon.ts
+index b91a667cca39808196a2026259b4f4957df31123..4774a289fac081a43bd832d6a625228f3ff23ecb 100644
+--- a/temper/temper-antiquities-addon/temper-antiquities-addon.eso-addon.ts
++++ b/temper/temper-antiquities-addon/temper-antiquities-addon.eso-addon.ts
+@@ -60,7 +60,7 @@ export const temperAntiquitiesAddon = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "One add-on holds the antiquity tools rather than one add-on for each tool.",
++      statement: "One add-on holds the antiquity tools rather than an add-on for each tool.",
+     },
+     {
+       invariantKind: "departure",
