@@ -1,0 +1,147 @@
+diff --git a/pages/access/answer-write/answer-write.module.code.ts b/pages/access/answer-write/answer-write.module.code.ts
+index 42791d9f9a8a94b3ad477c272d9b95107d1c1384..f97fdf08ff25f3d8f6d6464a6b7984a4610dbe6b 100644
+--- a/pages/access/answer-write/answer-write.module.code.ts
++++ b/pages/access/answer-write/answer-write.module.code.ts
+@@ -66,6 +66,7 @@ const PAGE_CONDITION: z.ZodType<PageCondition> = z.lazy(() =>
+ 
+ const PAGE_WHERE = z.array(PAGE_CONDITION)
+ const PAGE_PROPERTIES = z.record(z.string(), JsonSchema)
++const PAGE_BODIES = z.record(z.string(), z.string()).optional()
+ const PAGE_SELECT = z.array(z.string()).optional()
+ const PIPELINE_SCOPE = z.union([z.number(), z.string()]).optional()
+ const PAGE_TYPE_SLUG = z.string().min(1)
+@@ -107,6 +108,7 @@ const UPSERT_PAGE_ARGS = z.object({
+   pageTypeSlug: PAGE_TYPE_SLUG,
+   where: PAGE_WHERE,
+   set: PAGE_PROPERTIES,
++  bodies: PAGE_BODIES,
+   select: PAGE_SELECT,
+   pipelineScope: PIPELINE_SCOPE,
+ })
+diff --git a/pages/access/file-write/file-write.module.code.ts b/pages/access/file-write/file-write.module.code.ts
+index 50798d7ffb7a8c5c3cf8270e3edfb6462e7be22e..65d06fb05f9fff09a63be859b53dc863da6dfd60 100644
+--- a/pages/access/file-write/file-write.module.code.ts
++++ b/pages/access/file-write/file-write.module.code.ts
+@@ -222,12 +222,10 @@ function refuseTooMany(
+   )
+ }
+ 
+-type Naming = {
+-  readonly pageTypeSlug: string
+-  readonly slug: string
+-  readonly values: Record<string, unknown>
+-  readonly merge?: boolean
+-}
++// THE SHAPE `deps.write` TAKES IS THE SHAPE NAMED HERE. A copy of it was here and left out
++// `bodies`, so a write handing over the body of a file a property is held in was refused by the
++// copy rather than by the service, which has taken `bodies` all along.
++type Naming = NonNullable<Writing["pages"]>[number]
+ 
+ async function landed(
+   op: string,
+@@ -311,6 +309,7 @@ export function slugForNew(
+ export type CreateFilePageArgs = {
+   readonly pageTypeSlug: string
+   readonly properties: Readonly<Record<string, unknown>>
++  readonly bodies?: Readonly<Record<string, string>>
+   readonly select?: PageSelect
+   readonly id?: string
+   readonly name?: string
+@@ -330,7 +329,14 @@ export async function createFilePage(
+     op,
+     args.pageTypeSlug,
+     args.writer,
+-    [{ pageTypeSlug: args.pageTypeSlug, slug, values }],
++    [
++      {
++        pageTypeSlug: args.pageTypeSlug,
++        slug,
++        values,
++        ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
++      },
++    ],
+     deps
+   )
+   const back = await readBack(op, args.pageTypeSlug, [slug], deps)
+@@ -348,6 +354,7 @@ export type PatchFilePagesArgs = {
+   readonly pageTypeSlug: string
+   readonly where: PageWhere
+   readonly set: Readonly<Record<string, unknown>>
++  readonly bodies?: Readonly<Record<string, string>>
+   readonly select?: PageSelect
+   readonly writer?: string
+   readonly atMostOne?: boolean
+@@ -369,7 +376,13 @@ export async function patchFilePages(
+     op,
+     args.pageTypeSlug,
+     args.writer,
+-    slugs.map((slug) => ({ pageTypeSlug: args.pageTypeSlug, slug, values, merge: true })),
++    slugs.map((slug) => ({
++      pageTypeSlug: args.pageTypeSlug,
++      slug,
++      values,
++      merge: true,
++      ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
++    })),
+     deps
+   )
+   return readBack(op, args.pageTypeSlug, slugs, deps)
+@@ -428,6 +441,7 @@ export type UpsertFilePageArgs = {
+   readonly pageTypeSlug: string
+   readonly where: PageWhere
+   readonly set: Readonly<Record<string, unknown>>
++  readonly bodies?: Readonly<Record<string, string>>
+   readonly select?: PageSelect
+   readonly name?: string
+   readonly writer?: string
+@@ -456,6 +470,7 @@ export async function upsertFilePage(
+         pageTypeSlug: args.pageTypeSlug,
+         properties: args.set,
+         select: args.select,
++        ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
+         ...(named === undefined ? {} : { name: named }),
+         ...(args.writer === undefined ? {} : { writer: args.writer }),
+       },
+@@ -470,6 +485,7 @@ export async function upsertFilePage(
+       where: [{ key: SLUG, eq: standing }],
+       set: args.set,
+       select: args.select,
++      ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
+       ...(args.writer === undefined ? {} : { writer: args.writer }),
+       atMostOne: true,
+     },
+diff --git a/pages/access/file-write/file-write.module.ts b/pages/access/file-write/file-write.module.ts
+index d985ba7d28239eae88a1607f9160c022ca1a7205..e9d6fc9530a223eb1d532b8c83a154dee4dadc1d 100644
+--- a/pages/access/file-write/file-write.module.ts
++++ b/pages/access/file-write/file-write.module.ts
+@@ -29,6 +29,10 @@ export const fileWrite = {
+       invariantKind: "departure",
+       statement: "A key the page type declares no property for refuses the write.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A write may hand over the body of a file a page's property is held in.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "No condition is dropped from a narrow.",
+diff --git a/pages/access/upsert/upsert.module.code.ts b/pages/access/upsert/upsert.module.code.ts
+index b407982069bf7f025897e38330846519c937ed42..7bbc631c32a12e7233ca7b8684f039be7f92d6b1 100644
+--- a/pages/access/upsert/upsert.module.code.ts
++++ b/pages/access/upsert/upsert.module.code.ts
+@@ -16,6 +16,7 @@ export type UpsertPageArgs<T extends Record<string, unknown> = Record<string, Js
+   pageTypeSlug: string
+   where: PageWhere
+   set: PagePropertiesInput<T>
++  bodies?: Readonly<Record<string, string>>
+   select?: PageSelect
+   pipelineScope?: number | string
+   writer?: string
+@@ -53,6 +54,7 @@ export async function upsertPage<T extends Record<string, unknown> = Record<stri
+     set: args.set,
+     select: args.select,
+     writer: args.writer,
++    ...(args.bodies === undefined ? {} : { bodies: args.bodies }),
+   })
+   return page
+ }
