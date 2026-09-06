@@ -1,8 +1,17 @@
 readersOweReading: false
 diff --git a/editor-extension/editor-layout-panel/editor-layout-panel.module.ts b/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
-index 2d783b82cfee4aa3ac99567efbee0f09111c913e..8cec694e5dc1471ee8640109648df2d260c4477e 100644
+index 2d783b82cfee4aa3ac99567efbee0f09111c913e..117606c7c2c71b509bc02e4763c610105d39bc80 100644
 --- a/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
 +++ b/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
+@@ -9,7 +9,7 @@ export const editorLayoutPanel = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A change to the tabs, the groups or the terminals is read after a pause.",
++      statement: "A change to the tabs or the groups or the terminals is read after a pause.",
+     },
+     {
+       invariantKind: "departure",
 @@ -25,7 +25,7 @@ export const editorLayoutPanel = {
      },
      {
