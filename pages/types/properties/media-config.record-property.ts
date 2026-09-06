@@ -24,11 +24,12 @@ export const mediaConfig = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type stating none takes the media config the page type above states.",
+      statement:
+        "A page type stating no media config takes the media config the page type above states.",
     },
     {
       invariantKind: "departure",
-      statement: "A page type with none above that page type and none of its own renders no media.",
+      statement: "A page type with no media config here or above renders no media.",
     },
     {
       invariantKind: "departure",
