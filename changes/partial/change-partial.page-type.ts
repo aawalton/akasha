@@ -9,7 +9,11 @@ export const changePartial = {
   slug: "change-partial",
   definition: "a rewrite of the bodies handed to it, deciding nothing and finding nothing",
   pluralSlug: "change-partial",
-  partSlugs: ["change-partial/repoint-imports", "change-partial/respell-export"],
+  partSlugs: [
+    "change-partial/repoint-imports",
+    "change-partial/respell-export",
+    "change-partial/restate-value",
+  ],
   extendsSlug: ["page-type/module"],
   invariants: [
     {
