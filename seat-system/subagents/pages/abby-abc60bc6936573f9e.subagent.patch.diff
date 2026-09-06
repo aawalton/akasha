@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-losing-a-practitioner-costs.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-losing-a-practitioner-costs.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8788eec49ee2b105534c220ebce2b37a61724c4c
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-losing-a-practitioner-costs.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatLosingAPractitionerCosts = {
++  id: "01a077e4-76d1-72d5-a207-18f10628157f",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-losing-a-practitioner-costs",
++  topicSlug: "trusting-a-person-not-an-institution",
++  ask: "Losing one practitioner would move a whole layer of the cascade rather than cost a single dependency. What is that loss priced at?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-tracks-a-practitioner-ageing-out.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-tracks-a-practitioner-ageing-out.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4a20ebdf225589565468e9a3adad826e70dbd07f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-tracks-a-practitioner-ageing-out.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTracksAPractitionerAgeingOut = {
++  id: "01a077e4-76d0-77f3-881c-2e1b7cec60d5",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-tracks-a-practitioner-ageing-out",
++  topicSlug: "trusting-a-person-not-an-institution",
++  ask: "What tracks the ages, the succession plans and the signs of a coming sale for the practitioners I rely on?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-places-we-eat-are-worth-cultivating.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-places-we-eat-are-worth-cultivating.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2bf2223fe53c3272de239ac7a63191fda83d26f0
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-places-we-eat-are-worth-cultivating.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichPlacesWeEatAreWorthCultivating = {
++  id: "01a077e4-76d2-79db-a413-8827dd58453f",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-places-we-eat-are-worth-cultivating",
++  topicSlug: "trusting-a-person-not-an-institution",
++  ask: "The places we eat sit in the audit as one lump, which my framework refuses everywhere else. Which of those places are worth cultivating?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/who-stands-behind-my-practitioners.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/who-stands-behind-my-practitioners.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7ec696765e507697f076a9a855270daacca092d4
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/who-stands-behind-my-practitioners.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whoStandsBehindMyPractitioners = {
++  id: "01a077e4-76d1-72ba-80ab-383b8a16bd75",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "who-stands-behind-my-practitioners",
++  topicSlug: "trusting-a-person-not-an-institution",
++  ask: "No second provider stands behind my doctor, the children's dentist or the garage. Who would stand behind each of the three?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/trusting-a-person-not-an-institution.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/trusting-a-person-not-an-institution.all-about-alan-topic.ts
+index 6ce2610ac296b75e5c7bd7b53b6bbfa88addbeaa..8908ddfa145cb2153aaa4089022e72bacd102bb8 100644
+--- a/alan/books/all-about-alan/topics/pages/trusting-a-person-not-an-institution.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/trusting-a-person-not-an-institution.all-about-alan-topic.ts
+@@ -11,6 +11,4 @@ export const trustingAPersonNotAnInstitution = {
+   relatedSlugs: ["how-i-grade-an-organisation", "when-a-company-changes-hands"],
+   settled:
+     "The local ones I rely on are individual people: my doctor, the children's dentist, the garage.\n\nAn institution holds the standard when its people change. A person carries it himself and takes it with him.",
+-  unsettled:
+-    "Nothing tracks their ages, their succession plans or the signs one is about to sell, and no second provider stands behind any of them.\n\nLosing one would move a whole layer of the cascade rather than costing a single dependency, and that has never been priced.\n\nThe places we eat sit in the audit as one lump, which the framework refuses everywhere else, so nothing says which are worth cultivating.",
+ } as const satisfies AllAboutAlanTopic
