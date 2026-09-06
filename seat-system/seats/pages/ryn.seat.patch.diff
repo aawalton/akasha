@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/errors-core/runtime-errors/properties/error-url.text-property.ts b/errors-core/runtime-errors/properties/error-url.text-property.ts
+index 663046dace4d8b902ae99f97d01ddacca1df1876..6149e54b7e572699aac5761e8704e51868aebda9 100644
+--- a/errors-core/runtime-errors/properties/error-url.text-property.ts
++++ b/errors-core/runtime-errors/properties/error-url.text-property.ts
+@@ -13,7 +13,7 @@ export const errorUrl = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A url is the one the reporting client was reading.",
++      statement: "A url is the url the reporting client was reading.",
+     },
+     {
+       invariantKind: "gap",
