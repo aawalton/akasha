@@ -26,7 +26,7 @@ export const mobileSimStatus = {
     },
     {
       invariantKind: "departure",
-      statement: "A session is dead where Appium is down, without Appium being asked.",
+      statement: "A session is dead where Appium is down without Appium being asked.",
     },
     {
       invariantKind: "departure",
@@ -34,7 +34,7 @@ export const mobileSimStatus = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here opens, repairs or ends a session.",
+      statement: "Nothing here opens or repairs or ends a session.",
     },
   ],
 } as const satisfies Command
