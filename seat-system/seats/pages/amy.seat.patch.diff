@@ -163,3 +163,159 @@ index 3ea504d9832b64dcc8f59cd7a3568a63e161dba5..006137f1ae7d233656c2b4800a13a7d9
      }),
      [where]
    )
+diff --git a/pages/ui/supabase/use-nav-mutations/use-nav-mutations.module.code.ts b/pages/ui/supabase/use-nav-mutations/use-nav-mutations.module.code.ts
+index aa7fadf9f84f7e0a5595b9ef6ac2c97b1e711449..fac33498e5bacda6cc07e81c5af763d4ee07e931 100644
+--- a/pages/ui/supabase/use-nav-mutations/use-nav-mutations.module.code.ts
++++ b/pages/ui/supabase/use-nav-mutations/use-nav-mutations.module.code.ts
+@@ -21,11 +21,11 @@ export function slugFromName(name: string): string {
+   return stem === "" ? "nav" : stem
+ }
+ 
+-async function freeNavSlug(name: string, appId: string): Promise<string> {
++async function freeNavSlug(name: string, appSlug: string): Promise<string> {
+   const stem = slugFromName(name)
+   const { rows } = await getPages({
+     pageTypeSlug: NAV_SLUG,
+-    where: [{ key: "app", eq: appId }],
++    where: [{ key: "appSlug", eq: appSlug }],
+     select: ["slug"],
+     limit: 500,
+   })
+@@ -37,7 +37,22 @@ async function freeNavSlug(name: string, appId: string): Promise<string> {
+   }
+ }
+ 
+-export function useNavMutations(appId: string) {
++// A NAV ITEM NAMES ANOTHER NAV ITEM BY SLUG. `navParent` is a relation carrying a slug, and the
++// interface hands over the parent's page id, so the slug is read off the parent before it is
++// written. A parent id naming no page answers null, which puts the child at the top.
++async function navSlugOfId(pageId: string | null): Promise<string | null> {
++  if (pageId === null) return null
++  const { rows } = await getPages({
++    pageTypeSlug: NAV_SLUG,
++    where: [{ key: "id", eq: pageId }],
++    select: ["slug"],
++    limit: 1,
++  })
++  const slug = rows[0]?.slug
++  return typeof slug === "string" && slug !== "" ? slug : null
++}
++
++export function useNavMutations(appSlug: string) {
+   const client = useSupabase()
+ 
+   const runCreate = useOptimisticCreatePage((args) => createPage(args))
+@@ -51,7 +66,7 @@ export function useNavMutations(appId: string) {
+         await runPatch({
+           pageTypeSlug: NAV_SLUG,
+           where: [{ key: "id", eq: pageId }],
+-          set: { sortOrder: i },
++          set: { navPlace: i },
+         })
+       }
+     },
+@@ -60,18 +75,19 @@ export function useNavMutations(appId: string) {
+ 
+   const setNavParent = useCallback(
+     async (pageId: string, parentId: string | null): Promise<void> => {
++      const navParent = await navSlugOfId(parentId)
+       await runPatch({
+         pageTypeSlug: NAV_SLUG,
+         where: [{ key: "id", eq: pageId }],
+-        set: { parentId },
++        set: { navParent },
+       })
+ 
+       const { rows } = await getPages({
+         pageTypeSlug: NAV_SLUG,
+         where:
+-          parentId === null
+-            ? [{ key: "parentId", isNull: true }]
+-            : [{ key: "parentId", eq: parentId }],
++          navParent === null
++            ? [{ key: "navParent", isNull: true }]
++            : [{ key: "navParent", eq: navParent }],
+         select: ["id"],
+         limit: 200,
+       })
+@@ -80,7 +96,7 @@ export function useNavMutations(appId: string) {
+       await runPatch({
+         pageTypeSlug: NAV_SLUG,
+         where: [{ key: "id", eq: pageId }],
+-        set: { sortOrder: siblingCount },
++        set: { navPlace: siblingCount },
+       })
+     },
+     [client, runPatch]
+@@ -100,27 +116,26 @@ export function useNavMutations(appId: string) {
+   const createNav = useCallback(
+     async (name: string): Promise<{ pageId: string }> => {
+       const { data: sessionData } = await client.auth.getSession()
+-      const userId = sessionData.session?.user.id
+-      if (userId == null) throw new Error("createNav requires an authenticated user")
++      if (sessionData.session?.user.id == null) {
++        throw new Error("createNav requires an authenticated user")
++      }
+ 
+       const { rows: existing } = await getPages({
+         pageTypeSlug: NAV_SLUG,
+-        where: [{ key: "app", eq: appId }],
++        where: [{ key: "appSlug", eq: appSlug }],
+         select: ["id"],
+         limit: 200,
+       })
+-      const nextSortOrder = existing.length
+-      const navSlug = await freeNavSlug(name, appId)
++      const navSlug = await freeNavSlug(name, appSlug)
+ 
+       const created = await runCreate({
+         pageTypeSlug: NAV_SLUG,
+         properties: {
+-          userId,
+           title: name,
+           slug: navSlug,
+           icon: DEFAULT_ICON_NAME,
+-          sortOrder: nextSortOrder,
+-          app: appId,
++          navPlace: existing.length,
++          appSlug,
+         },
+         select: ["id"],
+       })
+@@ -129,22 +144,20 @@ export function useNavMutations(appId: string) {
+         throw new Error("createNav: createPage did not return an id")
+       }
+ 
+-      const { rows: ownerViews } = await getPages({
++      const { rows: itsViews } = await getPages({
+         pageTypeSlug: VIEW_SLUG,
+-        where: [{ key: "owner", eq: pageId }],
++        where: [{ key: "navSlug", eq: navSlug }],
+         select: ["id"],
+         limit: 50,
+       })
+-      if (ownerViews.length === 0) {
++      if (itsViews.length === 0) {
+         await runCreate({
+           pageTypeSlug: VIEW_SLUG,
+           properties: {
+-            userId,
+             title: "List",
+             slug: `${navSlug}-list`,
+-            owner: pageId,
+-            config: {},
+-            sort_order: 0,
++            navSlug,
++            viewPlace: 0,
+           },
+           select: ["id"],
+         })
+@@ -152,7 +165,7 @@ export function useNavMutations(appId: string) {
+ 
+       return { pageId } satisfies { pageId: string }
+     },
+-    [client, runCreate, appId]
++    [client, runCreate, appSlug]
+   )
+ 
+   return {
