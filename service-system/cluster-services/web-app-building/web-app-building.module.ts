@@ -10,7 +10,7 @@ export const webAppBuilding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The package built is the one a container's working directory names.",
+      statement: "The package built is the package a container's working directory names.",
     },
     {
       invariantKind: "departure",
@@ -18,7 +18,7 @@ export const webAppBuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "The sha built is the one the workstation's HEAD is at.",
+      statement: "The sha built is the sha the workstation's HEAD is at.",
     },
     {
       invariantKind: "departure",
