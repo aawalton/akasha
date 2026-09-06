@@ -22,11 +22,11 @@ export const seatLogDay = {
   mortal: true,
   partSlugs: ["file-property/lines", "relation-property/source-slug", "text-property/seat-name"],
   properties: [
-    { pagePropertySlug: "source-slug", required: true, many: false },
-    { pagePropertySlug: "seat-name", required: true, many: false },
-    { pagePropertySlug: "date", required: true, many: false },
+    { pagePropertySlug: "relation-property/source-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/seat-name", required: true, many: false },
+    { pagePropertySlug: "text-property/date", required: true, many: false },
     {
-      pagePropertySlug: "lines",
+      pagePropertySlug: "file-property/lines",
       required: false,
       many: false,
       uncommitted: true,

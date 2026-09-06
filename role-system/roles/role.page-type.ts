@@ -26,7 +26,7 @@ export const role = {
     "role/scenewright",
     "role/worker",
   ],
-  properties: [{ pagePropertySlug: "on-call", required: true, many: false }],
+  properties: [{ pagePropertySlug: "boolean-property/on-call", required: true, many: false }],
   directives: [
     {
       directiveKind: "principle",

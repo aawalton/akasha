@@ -30,11 +30,21 @@ export const message = {
     "text-property/message-from",
   ],
   properties: [
-    { pagePropertySlug: "message-to", required: true, many: false },
-    { pagePropertySlug: "message-from", required: true, many: false },
-    { pagePropertySlug: "message-warrant", required: true, many: false, default: "announce" },
-    { pagePropertySlug: "message-body", required: true, many: false },
-    { pagePropertySlug: "message-claimed-at", required: false, many: false, uncommitted: true },
+    { pagePropertySlug: "relation-property/message-to", required: true, many: false },
+    { pagePropertySlug: "text-property/message-from", required: true, many: false },
+    {
+      pagePropertySlug: "select-property/message-warrant",
+      required: true,
+      many: false,
+      default: "announce",
+    },
+    { pagePropertySlug: "text-property/message-body", required: true, many: false },
+    {
+      pagePropertySlug: "instant-property/message-claimed-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   invariants: [
     {

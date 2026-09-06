@@ -22,10 +22,10 @@ export const subagent = {
   mortal: true,
   partSlugs: ["relation-property/subagent-kind", "text-property/agent-id"],
   properties: [
-    { pagePropertySlug: "principal-seat-name", required: true, many: false },
-    { pagePropertySlug: "dispatched-as", required: false, many: false },
-    { pagePropertySlug: "subagent-kind", required: false, many: false },
-    { pagePropertySlug: "agent-id", required: true, many: false },
+    { pagePropertySlug: "relation-property/principal-seat-name", required: true, many: false },
+    { pagePropertySlug: "text-property/dispatched-as", required: false, many: false },
+    { pagePropertySlug: "relation-property/subagent-kind", required: false, many: false },
+    { pagePropertySlug: "text-property/agent-id", required: true, many: false },
   ],
   invariants: [
     {

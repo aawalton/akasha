@@ -24,9 +24,9 @@ export const subagentKind = {
     "text-property/dispatched-as",
   ],
   properties: [
-    { pagePropertySlug: "dispatched-as", required: true, many: false },
-    { pagePropertySlug: "subagent-prompt", required: true, many: false },
-    { pagePropertySlug: "model", required: false, many: false },
+    { pagePropertySlug: "text-property/dispatched-as", required: true, many: false },
+    { pagePropertySlug: "file-property/subagent-prompt", required: true, many: false },
+    { pagePropertySlug: "text-property/model", required: false, many: false },
   ],
   invariants: [
     {

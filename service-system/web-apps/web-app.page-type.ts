@@ -32,10 +32,15 @@ export const webApp = {
     "web-app/temper-web",
   ],
   properties: [
-    { pagePropertySlug: "source-directory", required: true, many: false },
-    { pagePropertySlug: "build-command", required: true, many: false },
-    { pagePropertySlug: "cluster-service-slugs", required: true, many: true, max: 20 },
-    { pagePropertySlug: "hostnames", required: false, many: true, max: 20 },
+    { pagePropertySlug: "text-property/source-directory", required: true, many: false },
+    { pagePropertySlug: "text-property/build-command", required: true, many: false },
+    {
+      pagePropertySlug: "relation-property/cluster-service-slugs",
+      required: true,
+      many: true,
+      max: 20,
+    },
+    { pagePropertySlug: "text-property/hostnames", required: false, many: true, max: 20 },
   ],
   invariants: [
     {

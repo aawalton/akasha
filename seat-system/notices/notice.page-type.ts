@@ -17,8 +17,8 @@ export const notice = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["file-property/notice-text", "text-property/notice-warrant"],
   properties: [
-    { pagePropertySlug: "notice-text", required: true, many: false },
-    { pagePropertySlug: "notice-warrant", required: true, many: false },
+    { pagePropertySlug: "file-property/notice-text", required: true, many: false },
+    { pagePropertySlug: "text-property/notice-warrant", required: true, many: false },
   ],
   invariants: [
     {

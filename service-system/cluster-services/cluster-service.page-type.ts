@@ -97,14 +97,14 @@ export const clusterService = {
     "text-property/cluster-service-schedule",
   ],
   properties: [
-    { pagePropertySlug: "resource-kind", required: true, many: false },
-    { pagePropertySlug: "namespace", required: true, many: false },
-    { pagePropertySlug: "resource-name", required: true, many: false },
-    { pagePropertySlug: "image", required: true, many: false },
-    { pagePropertySlug: "replicas", required: false, many: false },
-    { pagePropertySlug: "container-port", required: false, many: false },
-    { pagePropertySlug: "cluster-service-schedule", required: false, many: false },
-    { pagePropertySlug: "manifest-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/resource-kind", required: true, many: false },
+    { pagePropertySlug: "text-property/namespace", required: true, many: false },
+    { pagePropertySlug: "text-property/resource-name", required: true, many: false },
+    { pagePropertySlug: "text-property/image", required: true, many: false },
+    { pagePropertySlug: "number-property/replicas", required: false, many: false },
+    { pagePropertySlug: "number-property/container-port", required: false, many: false },
+    { pagePropertySlug: "text-property/cluster-service-schedule", required: false, many: false },
+    { pagePropertySlug: "relation-property/manifest-slug", required: true, many: false },
   ],
   invariants: [
     {
