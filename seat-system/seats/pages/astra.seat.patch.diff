@@ -1,0 +1,17 @@
+diff --git a/person-system/people/email/email-rules/email-rule-codes/properties/email-rule-code-delay.text-property.ts b/person-system/people/email/email-rules/email-rule-codes/properties/email-rule-code-delay.text-property.ts
+index 38c476db1fb71dc5f6abd43ed4b417e78e8ea230..6abb4605c8be1a30d5aa2785dfe5f554e6b222a9 100644
+--- a/person-system/people/email/email-rules/email-rule-codes/properties/email-rule-code-delay.text-property.ts
++++ b/person-system/people/email/email-rules/email-rule-codes/properties/email-rule-code-delay.text-property.ts
+@@ -13,7 +13,11 @@ export const emailRuleCodeDelay = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A delay is a count of minutes or hours, written as digits and then `m` or `h`.",
++      statement: "A delay is a count of minutes or hours.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A delay is written as digits and then `m` or `h`.",
+     },
+     {
+       invariantKind: "departure",
