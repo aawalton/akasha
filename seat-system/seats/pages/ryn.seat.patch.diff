@@ -1,0 +1,18 @@
+diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
+index fd54c7a50c4eab21060f7bcfb7fa780ffe4b8917..98cec33c0e478c5268d1fe48dfa4f285370006f9 100644
+--- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
++++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
+@@ -43,8 +43,11 @@ export const logDaySweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The days go in one call to land in one commit, and where that call refuses each is tried alone.",
++      statement: "The days go in one call to land in one commit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A day is tried alone where that call refuses.",
+     },
+     {
+       invariantKind: "departure",
