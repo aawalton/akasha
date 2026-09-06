@@ -1,0 +1,17 @@
+diff --git a/inference/generations/images/image.page-type.ts b/inference/generations/images/image.page-type.ts
+index f9e10d3acb36733f471f455fb236147548f68c72..8420d6bd66be47bc3b8896506f866f3ce7a3033e 100644
+--- a/inference/generations/images/image.page-type.ts
++++ b/inference/generations/images/image.page-type.ts
+@@ -26,7 +26,11 @@ export const image = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An image made by a run names that run; one catalogued from disk names none.",
++      statement: "An image made by a run names that run.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An image catalogued from disk names no run.",
+     },
+   ],
+ } as const satisfies PageType
