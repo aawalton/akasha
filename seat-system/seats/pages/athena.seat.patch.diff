@@ -1,0 +1,89 @@
+diff --git a/service-system/workstation-services/file-following/file-following.module.code.ts b/service-system/workstation-services/file-following/file-following.module.code.ts
+index 2efe2a570f9bf6f919377ea3e29dcfe9d0362846..a37cc55ffd3ed200c17e5e85864820f0c1979093 100644
+--- a/service-system/workstation-services/file-following/file-following.module.code.ts
++++ b/service-system/workstation-services/file-following/file-following.module.code.ts
+@@ -119,3 +119,23 @@ export function followWithin(
+ ): Following {
+   return follow(folders, () => digestOf(filesWithin(folders, holds)), moved, settleMs, from)
+ }
++
++const TICK = "tick"
++
++// A weighing that never matches the one before it, so every settled event is answered.
++function ticking(): () => Digest {
++  let beat = 0
++  return () => new Map([[TICK, String((beat += 1))]])
++}
++
++// Follow whole folders and answer on any event in them, reading nothing they hold. This suits a
++// folder written far more often, and holding far more, than reading it is worth: the event is the
++// whole answer, and what changed is left to the caller to work out at its own pace.
++export function followFolders(
++  folders: ReadonlySet<string>,
++  moved: (what: readonly string[]) => undefined,
++  settleMs: number = SETTLE_MS
++): Following {
++  const named = [...folders].sort()
++  return follow(folders, ticking(), () => moved(named), settleMs, undefined)
++}
+diff --git a/service-system/workstation-services/file-following/file-following.module.test.ts b/service-system/workstation-services/file-following/file-following.module.test.ts
+index d471c8559de030d4a356d657c7bfa4264f1a25af..c30238a213dad5495f663e2b495544757697a16d 100644
+--- a/service-system/workstation-services/file-following/file-following.module.test.ts
++++ b/service-system/workstation-services/file-following/file-following.module.test.ts
+@@ -6,6 +6,7 @@ import {
+   dirsOf,
+   filesWithin,
+   followFiles,
++  followFolders,
+   followWithin,
+   movedBetween,
+ } from "./file-following.module.code.ts"
+@@ -20,6 +21,25 @@ function fileAt(name: string, text: string): string {
+   return at
+ }
+ 
++test("a folder followed for its events names itself and is never read", async () => {
++  const dir = mkdtempSync("/var/tmp/file-events-")
++  const moved: string[][] = []
++  const following = followFolders(
++    new Set([dir]),
++    (what) => {
++      moved.push([...what])
++    },
++    20
++  )
++  await Bun.sleep(60)
++  writeFileSync(join(dir, "anything.at.all"), "here")
++  await Bun.sleep(200)
++  following.stop()
++  rmSync(dir, { recursive: true, force: true })
++  expect(moved.every((one) => one.length === 1 && one[0] === dir)).toBe(true)
++  expect(moved.length).toBeGreaterThan(1)
++})
++
+ test("a file that is not there is weighed as gone rather than throwing", () => {
+   expect(digestOf([join(ROOT, "never.ts")]).get(join(ROOT, "never.ts"))).toBe("gone")
+ })
+diff --git a/service-system/workstation-services/file-following/file-following.module.ts b/service-system/workstation-services/file-following/file-following.module.ts
+index 6104c6ff40c092ce8c51c56d80e4f107f4a4bd72..7b5b3ca7d039871b1b5df525377d72cbbb6f4cc6 100644
+--- a/service-system/workstation-services/file-following/file-following.module.ts
++++ b/service-system/workstation-services/file-following/file-following.module.ts
+@@ -59,6 +59,18 @@ export const fileFollowing = {
+       invariantKind: "departure",
+       statement: "A file appearing in a followed folder has changed.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A folder followed for its events alone is answered without being read.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every settled event on such a folder is answered.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That answer names the folders followed rather than the files that moved.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here works out which folders to watch.",
