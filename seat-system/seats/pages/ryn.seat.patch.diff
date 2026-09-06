@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index b021b6cbdde91ee5c6797452cae7554ada89bcef..873e49e1747ac434cf40bc5afb899b8666c9a4c0 100644
+index b021b6cbdde91ee5c6797452cae7554ada89bcef..4b3b2c61e26fc80624992e9aba31cc5f879aa367 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -56,7 +56,7 @@ export const codeTests = {
@@ -9,6 +9,15 @@ index b021b6cbdde91ee5c6797452cae7554ada89bcef..873e49e1747ac434cf40bc5afb899b86
        invariantKind: "departure",
 -      statement: "The runner reads that one from the folder the runner runs in.",
 +      statement: "The runner reads the root bunfig.toml from the folder the runner runs in.",
+     },
+     {
+       invariantKind: "departure",
+@@ -267,7 +267,7 @@ export const codeTests = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A world that could not be made was given to no one else to sweep.",
++      statement: "A world that could not be made reaches no caller.",
      },
      {
        invariantKind: "departure",
