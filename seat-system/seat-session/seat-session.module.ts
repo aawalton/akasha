@@ -22,11 +22,15 @@ export const seatSession = {
     },
     {
       invariantKind: "departure",
-      statement: "A session cannot be observed again, so that session is committed with the page.",
+      statement: "A session cannot be observed again.",
     },
     {
       invariantKind: "departure",
-      statement: "Keeping a session does nothing, because the page write lands that session.",
+      statement: "A session is committed with the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Keeping a session does nothing.",
     },
   ],
 } as const satisfies Module
