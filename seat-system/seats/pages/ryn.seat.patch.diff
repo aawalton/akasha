@@ -1,14 +1,19 @@
 readersOweReading: false
 diff --git a/pages/access/file-write/file-write.module.ts b/pages/access/file-write/file-write.module.ts
-index e1a66ad8c704fb9fb6b1e59ca2bbb961cb5d9b6c..87898e0fc788012064f5eefe99234b349468b4a1 100644
+index e1a66ad8c704fb9fb6b1e59ca2bbb961cb5d9b6c..2611d07992909d5bf07bb0f59a9589efc1c0cfa7 100644
 --- a/pages/access/file-write/file-write.module.ts
 +++ b/pages/access/file-write/file-write.module.ts
-@@ -43,7 +43,7 @@ export const fileWrite = {
+@@ -43,11 +43,11 @@ export const fileWrite = {
      },
      {
        invariantKind: "departure",
 -      statement: "A write naming at most one page refuses where several match.",
 +      statement: "A write naming a single page refuses where several match.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A create states its slug among its values or is handed one as a name.",
++      statement: "A create states its slug among its values or is handed a slug as a name.",
      },
      {
        invariantKind: "departure",
