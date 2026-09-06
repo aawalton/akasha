@@ -14,14 +14,14 @@ APPDELEGATE="ios/App/App/AppDelegate.swift"
 CONFIG="ios/App/App/capacitor.config.json"
 PB="/usr/libexec/PlistBuddy"
 
-SHARED_WIDGET_SRC_DIR="$CODE_SYSTEM/ios-component/ios-components"
+SHARED_WIDGET_SRC_DIR="$CODE_SYSTEM/ios-components"
 # Each thing this package builds is an akasha ios-program page, and the files Xcode
 # reads by a fixed name stand beside that page under names the grammar builds.
-PROGRAMS_DIR="$CODE_SYSTEM/ios-program/ios-programs"
+PROGRAMS_DIR="$CODE_SYSTEM/ios-programs"
 WIDGET_PROGRAM="smilingjenny-widget"
 APP_PROGRAM="smilingjenny-app"
 WIDGET_INFO_PLIST="$PROGRAMS_DIR/$WIDGET_PROGRAM/$WIDGET_PROGRAM.ios-program.info-plist.plist"
-SHARED_IOS_SEAM_DIR="$IOS_APP_DIR/shell-scripts"
+SHARED_IOS_SEAM_DIR="$IOS_APP_DIR/scripts"
 if [[ ! -f "$SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-script.shell.sh" ]]; then
   echo "ERROR: $SHARED_IOS_SEAM_DIR/widget-components/widget-components.shell-script.shell.sh not found — the components this extension compiles could not be copied, and the extension would compile with no ring in it." >&2
   exit 1
@@ -95,17 +95,17 @@ echo "OK: copied widget sources into $WIDGET_DEST"
 native_shell_stamp_widget "$WIDGET_DEST"
 
 # shellcheck source=code-system/ios-apps/pages/smilingjenny/scripts/widget-target/smilingjenny-widget-target.shell-script.shell.sh
-. "$HERE/../smilingjenny-widget-target/smilingjenny-widget-target.shell-script.shell.sh"
+. "$HERE/../widget-target/smilingjenny-widget-target.shell-script.shell.sh"
 
 fi
 
 # shellcheck source=code-system/ios-apps/pages/smilingjenny/scripts/ios-seam-plugins/smilingjenny-ios-seam-plugins.shell-script.shell.sh
-. "$HERE/../smilingjenny-ios-seam-plugins/smilingjenny-ios-seam-plugins.shell-script.shell.sh"
+. "$HERE/../ios-seam-plugins/smilingjenny-ios-seam-plugins.shell-script.shell.sh"
 
 # shellcheck source=code-system/ios-apps/pages/smilingjenny/scripts/ring-credential/smilingjenny-ring-credential.shell-script.shell.sh
-. "$HERE/../smilingjenny-ring-credential/smilingjenny-ring-credential.shell-script.shell.sh"
+. "$HERE/../ring-credential/smilingjenny-ring-credential.shell-script.shell.sh"
 
 # shellcheck source=code-system/ios-apps/pages/smilingjenny/scripts/app-entitlements/smilingjenny-app-entitlements.shell-script.shell.sh
-. "$HERE/../smilingjenny-app-entitlements/smilingjenny-app-entitlements.shell-script.shell.sh"
+. "$HERE/../app-entitlements/smilingjenny-app-entitlements.shell-script.shell.sh"
 
 native_shell_stamp_app "$APPDELEGATE"

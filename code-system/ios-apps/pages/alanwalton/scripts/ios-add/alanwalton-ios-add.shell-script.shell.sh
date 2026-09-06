@@ -16,7 +16,7 @@ esac
 
 HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PACKAGE="$(cd "$HERE/../.." && pwd)"
-SHARED="$(cd "$PACKAGE/../../shell-scripts" && pwd)"
+SHARED="$(cd "$PACKAGE/../../scripts" && pwd)"
 cd "$PACKAGE"
 
 # cap is a devDependency binary, and bun hoists it to the workspace root rather
@@ -47,4 +47,4 @@ fi
 bash "$SHARED/write-capacitor-config/write-capacitor-config.shell-script.shell.sh" \
   "$PACKAGE/alanwalton.ios-app.capacitor-config.json"
 "$CAP" "$MODE" ios
-bash "$HERE/../alanwalton-ios-seam/alanwalton-ios-seam.shell-script.shell.sh"
+bash "$HERE/../ios-seam/alanwalton-ios-seam.shell-script.shell.sh"
