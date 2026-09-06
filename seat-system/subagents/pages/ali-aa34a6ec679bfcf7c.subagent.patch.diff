@@ -3238,3 +3238,15 @@ index 361eee9880dd2d7e24a9e3d19d98806551252950..75b82de897f5a473863b607697c6e1b4
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-06-the-modern-world-to-1920"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/profile/profile.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/profile/profile.learn-everything-topic.ts
+index 2aeae0fae3c2fffa7eca9df0a9f03ec8e27d37ed..aee7c1929a0ce683fd2890b5b67ded705d42869c 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/profile/profile.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/profile/profile.learn-everything-topic.ts
+@@ -6,7 +6,6 @@ export const profile = {
+   slug: "profile",
+   node: "Everything",
+   depth: 0,
+-  coverage: 0.05,
+   scoredOn: "2026-06-19",
+   status: "unopened",
+ } as const satisfies LearnEverythingTopic
