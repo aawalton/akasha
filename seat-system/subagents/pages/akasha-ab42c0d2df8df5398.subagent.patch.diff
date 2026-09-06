@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/domain/domain.command.test.ts b/command-system/commands/domain/domain.command.test.ts
-index 7b69f08716ac692f5d73e2f542bb132343f269b9..67fb65720ff7ac4c345e32b3b2c1ae9fc53501db 100644
+index 7b69f08716ac692f5d73e2f542bb132343f269b9..d9407eacf4e763ce2308c5430696beb374a523ac 100644
 --- a/command-system/commands/domain/domain.command.test.ts
 +++ b/command-system/commands/domain/domain.command.test.ts
 @@ -1,8 +1,9 @@
@@ -13,3 +13,12 @@ index 7b69f08716ac692f5d73e2f542bb132343f269b9..67fb65720ff7ac4c345e32b3b2c1ae9f
  import {
    AT_DOMAIN,
    DAG,
+@@ -20,7 +21,7 @@ import {
+ } from "./domain.command.code.ts"
+ import { domain as domainCommand } from "./domain.command.ts"
+ 
+-const ROOT = new URL("../../", import.meta.url).pathname.replace(/\/$/, "")
++const ROOT = rootOf(import.meta.path)
+ 
+ const scratch = scratchWorld()
+ 
