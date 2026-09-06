@@ -17,6 +17,14 @@ export const minting = {
     },
     {
       invariantKind: "departure",
+      statement: "The index names a check a test mints.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A check a test mints carries the same value in the index and in its own body.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A minted id is worked out from the slug the id is minted for.",
     },
     {
