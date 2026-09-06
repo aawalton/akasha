@@ -5,7 +5,7 @@ export const folderMatchesAShape = {
   pageTypeSlug: "code-check",
   slug: "folder-matches-a-shape",
   definition: "the check refusing a folder matching none of the folder shapes",
-  partSlugs: ["module/shape-loading", "page-type/folder-shape"],
+  partSlugs: ["module/folder-grouping", "module/shape-loading", "page-type/folder-shape"],
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -83,7 +83,7 @@ export const folderMatchesAShape = {
     {
       invariantKind: "departure",
       statement:
-        "A reach written as the name a manifest states counts as one into the folder that reach lands in.",
+        "A reach spelled as the name a manifest states reaches into the folder that reach lands in.",
     },
     {
       invariantKind: "departure",

@@ -21,6 +21,7 @@ import {
   schemaAt,
   sidecarsOver,
 } from "../entries/index-entries.module.code.ts"
+import { manifestsBeside } from "../package-reaching/package-reaching.module.code.ts"
 import {
   carryingOf,
   type Declaring,
@@ -69,6 +70,9 @@ export type Answering = {
   readonly listedById: (id: string) => Listed | null
   readonly listedByPath: (path: string) => readonly Listed[]
   readonly listedNamed: (scope: string, propertySlug: string, said: string) => readonly Listed[]
+  readonly manifestsBeside: (
+    fileProperties: ReadonlyMap<string, string | null>
+  ) => readonly string[]
   readonly namersOf: (id: string, indexName?: string) => readonly Named[]
   readonly pageAt: (pageTypeSlug: string, slug: string) => Value | null
   readonly pageTypesIn: () => ReadonlySet<string>
@@ -102,6 +106,7 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     listedById: (id) => listedById(reading, id),
     listedByPath: (path) => listedByPath(reading, path),
     listedNamed: (scope, propertySlug, said) => listedNamed(reading, scope, propertySlug, said),
+    manifestsBeside: (fileProperties) => manifestsBeside(reading, fileProperties),
     namersOf: (id, indexName) => namersOf(reading, id, indexName),
     pageAt: (pageTypeSlug, slug) => pageAt(reading, pageTypeSlug, slug, pageOf),
     pageTypesIn: () => pageTypesIn(reading),

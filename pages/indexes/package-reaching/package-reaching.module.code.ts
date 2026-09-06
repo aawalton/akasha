@@ -9,6 +9,7 @@ import {
   pathsOf,
   under,
 } from "../entries/index-entries.module.code.ts"
+import { carryingOf } from "../property-carrying/property-carrying.module.code.ts"
 import { everyPath, importersIn } from "../reading/index-reading.module.code.ts"
 import type { Reading } from "../shape/index-shape.module.code.ts"
 import { readingOf } from "../surface/index-surface.module.code.ts"
@@ -49,6 +50,27 @@ export function manifestsIn(
   fileProperties: ReadonlyMap<string, string | null>
 ): readonly string[] {
   return manifestsAmong(paths, fileProperties.get(MANIFEST) ?? null)
+}
+
+export function besideAt(path: string, fileName: string): string {
+  const at = dirname(path)
+  return at === "." ? fileName : `${at}/${fileName}`
+}
+
+export function manifestsBeside(
+  given: string | Reading,
+  fileProperties: ReadonlyMap<string, string | null>
+): readonly string[] {
+  const fileName = fileProperties.get(MANIFEST) ?? null
+  if (fileName === null) return []
+  const found = new Set<string>()
+  for (const [slug, named] of fileProperties) {
+    if (named !== fileName) continue
+    const held = carryingOf(given, slug)
+    if ("refused" in held) continue
+    for (const one of held.carrying) found.add(besideAt(one.path, fileName))
+  }
+  return [...found].sort()
 }
 
 export function reachingIn(

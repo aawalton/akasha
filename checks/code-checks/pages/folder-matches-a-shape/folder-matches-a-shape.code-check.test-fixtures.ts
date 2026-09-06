@@ -1,6 +1,36 @@
 import { heldIn } from "@akasha/pages/page-file-name"
-import { groupedBy } from "./folder-matches-a-shape.code-check.code.ts"
 import type { Standing } from "./folder-shapes/folder-shape.page-type.ts"
+import { folderOf, type Grouped } from "./modules/folder-grouping/folder-grouping.module.code.ts"
+
+function groupedBy(files: readonly string[]): Grouped {
+  const sitting = new Map<string, string[]>()
+  const beneath = new Map<string, Set<string>>()
+  for (const one of files) {
+    const folder = folderOf(one)
+    const held = sitting.get(folder)
+    if (held === undefined) sitting.set(folder, [one])
+    else held.push(one)
+    let here = folder
+    while (here !== "") {
+      const above = folderOf(here)
+      const kept = beneath.get(above)
+      if (kept === undefined) beneath.set(above, new Set<string>([here]))
+      else kept.add(here)
+      here = above
+    }
+  }
+  const sorted = new Map<string, readonly string[]>()
+  return {
+    at: (folder) => sitting.get(folder) ?? [],
+    foldersIn: (folder) => {
+      const found = sorted.get(folder)
+      if (found !== undefined) return found
+      const made = [...(beneath.get(folder) ?? [])].sort()
+      sorted.set(folder, made)
+      return made
+    },
+  }
+}
 
 const FILE_PROPERTIES = new Set<string>(["code", "test"])
 

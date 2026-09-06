@@ -8,18 +8,20 @@ import { onDisk } from "../../../modules/change-walking/change-walking.module.co
 import { carrying, declaring } from "../../../modules/check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
-  ancestorsOf,
   edgesOf,
   folderMatchesAShape,
-  folderOf,
   foldersTouchedBy,
   type Holds,
   heldFolder,
   namesFiling,
   namingFolderOf,
   pageNameOf,
-  reachedFolders,
 } from "./folder-matches-a-shape.code-check.code.ts"
+import {
+  ancestorsOf,
+  folderOf,
+  reachedFolders,
+} from "./modules/folder-grouping/folder-grouping.module.code.ts"
 
 const scratch = scratchWorld()
 

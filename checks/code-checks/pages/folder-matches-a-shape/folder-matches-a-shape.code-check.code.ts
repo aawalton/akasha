@@ -3,7 +3,7 @@ import { NAMING_NONE, type Naming } from "@akasha/code/code-specifier"
 import type { Answering } from "@akasha/indexes/answering"
 import { claimsOf, type FilePropertiesBy, type SidecarsBy } from "@akasha/indexes/entries"
 import { edgesIn } from "@akasha/indexes/import"
-import { reachingIn } from "@akasha/indexes/package-reaching"
+import { reachingOf } from "@akasha/indexes/package-reaching"
 import type { Known } from "@akasha/indexes/reaching"
 import type { Change } from "@akasha/pages/change"
 import { slugIn } from "@akasha/pages/page-address"
@@ -19,6 +19,13 @@ import {
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import type { Declaring, Standing } from "./folder-shapes/folder-shape.page-type.ts"
+import {
+  ancestorsOf,
+  folderOf,
+  type Grouped,
+  groupedOver,
+  reachedFolders,
+} from "./modules/folder-grouping/folder-grouping.module.code.ts"
 import { shapesIn } from "./modules/shape-loading/shape-loading.module.code.ts"
 
 const TS = "ts"
@@ -49,31 +56,6 @@ const PART_SLUGS = "partSlugs"
 
 const PART_OF_SLUGS = "partOfSlugs"
 
-export function folderOf(path: string): string {
-  const cut = path.lastIndexOf("/")
-  return cut === -1 ? "" : path.slice(0, cut)
-}
-
-export function ancestorsOf(path: string): readonly string[] {
-  const found: string[] = []
-  let at = folderOf(path)
-  while (at !== "") {
-    found.push(at)
-    at = folderOf(at)
-  }
-  return found
-}
-
-export function reachedFolders(target: string, importer: string): readonly string[] {
-  const found: string[] = []
-  let at = folderOf(target)
-  while (at !== "" && !importer.startsWith(`${at}/`)) {
-    found.push(at)
-    at = folderOf(at)
-  }
-  return found
-}
-
 export function edgesOf(
   root: string,
   path: string,
@@ -82,15 +64,6 @@ export function edgesOf(
 ): ReadonlySet<string> {
   if (bytes === null || !textNamed(path)) return new Set<string>()
   return new Set<string>(edgesIn(bodyOf({ root, path, bytes }), path, naming))
-}
-
-export function listedFiles(index: Answering, change: Change): readonly string[] {
-  const found = new Set<string>(index.everyPath())
-  for (const one of change.changed) {
-    if (change.after(one) === null) found.delete(one)
-    else found.add(one)
-  }
-  return [...found].sort()
 }
 
 export function foldersTouchedBy(
@@ -149,41 +122,6 @@ export function claimedIn(held: Held, index: Answering, filing: ReadonlyMap<stri
     propertySlug,
     part: held.part,
     uncommitted: false,
-  }
-}
-
-export type Grouped = {
-  readonly at: (folder: string) => readonly string[]
-  readonly foldersIn: (folder: string) => readonly string[]
-}
-
-export function groupedBy(files: readonly string[]): Grouped {
-  const sitting = new Map<string, string[]>()
-  const beneath = new Map<string, Set<string>>()
-  for (const one of files) {
-    const folder = folderOf(one)
-    const held = sitting.get(folder)
-    if (held === undefined) sitting.set(folder, [one])
-    else held.push(one)
-    let here = folder
-    while (here !== "") {
-      const above = folderOf(here)
-      const kept = beneath.get(above)
-      if (kept === undefined) beneath.set(above, new Set<string>([here]))
-      else kept.add(here)
-      here = above
-    }
-  }
-  const sorted = new Map<string, readonly string[]>()
-  return {
-    at: (folder) => sitting.get(folder) ?? [],
-    foldersIn: (folder) => {
-      const found = sorted.get(folder)
-      if (found !== undefined) return found
-      const made = [...(beneath.get(folder) ?? [])].sort()
-      sorted.set(folder, made)
-      return made
-    },
   }
 }
 
@@ -382,7 +320,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const stated = shadow.index.fileKeysAt()
   const fileProperties = new Set<string>(stated.keys())
   const filing = namesFiling(stated)
-  const naming = reachingIn(shadow.index.everyPath(), stated, (path) => textIn(change, path))
+  const naming = reachingOf(shadow.index.manifestsBeside(stated), (path) => textIn(change, path))
   let known: Known | null = null
   const admits = new Map<string, ReadonlySet<string>>()
   const extending = (pageTypeSlug: string, wanted: string): boolean => {
@@ -394,7 +332,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
     }
     return held.has(pageTypeSlug)
   }
-  const grouped = groupedBy(listedFiles(shadow.index, change))
+  const grouped = groupedOver(shadow.index, change)
   const declaring = declaringOver(shadow.index, grouped)
   const holds = holdingOver(shadow.index, grouped, pageTypes, fileProperties)
   const namedFor = namingOver(holds)

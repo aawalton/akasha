@@ -14,7 +14,20 @@ export const packageReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A path whose file name is the one the `manifest` property states is a manifest.",
+      statement: "A path carrying the file name the `manifest` property states is a manifest.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A caller holding no paths reads the manifests off the pages carrying a manifest property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The manifests are read from every property whose file carries that file name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A manifest is beside the page carrying that manifest.",
     },
     {
       invariantKind: "departure",
