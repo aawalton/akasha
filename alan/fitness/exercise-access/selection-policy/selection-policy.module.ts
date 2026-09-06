@@ -21,7 +21,7 @@ export const selectionPolicy = {
     },
     {
       invariantKind: "departure",
-      statement: "The bodyweight is written back to the client profile page.",
+      statement: "The bodyweight is written back to the person's page.",
     },
   ],
 } as const satisfies Module

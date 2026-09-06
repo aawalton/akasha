@@ -11,7 +11,7 @@ export const sessionVolume = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Volume is counted against the weight the client profile states.",
+      statement: "Volume is counted against the weight the person's page states.",
     },
     {
       invariantKind: "departure",

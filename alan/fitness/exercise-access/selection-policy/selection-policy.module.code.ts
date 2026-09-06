@@ -4,7 +4,9 @@ import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
 import { composedFor } from "@akasha/pages-service/composing"
 import { selectionPolicy as stated } from "../../selection-policies/pages/selection-policy/selection-policy.selection-policy.ts"
 
-const PROFILE = "client-profile"
+const PERSON = "person"
+
+const ALAN = "alan"
 
 const WRITER = "exercise-profile-writer"
 
@@ -37,22 +39,14 @@ function rootOf(): string {
   return at
 }
 
-function only(pageType: string): Carried {
-  const found = valuesOfType(rootOf(), pageType)
-  const [one, second] = found
-  if (one === undefined) {
-    throw new Error(`no \`${pageType}\` page is there, so nothing states what it carries`)
+function named(pageType: string, slug: string): Carried {
+  for (const one of valuesOfType(rootOf(), pageType)) {
+    const value: unknown = one.value
+    if (typeof value !== "object" || value === null) continue
+    const carried = value as Carried
+    if (carried["slug"] === slug) return carried
   }
-  if (second !== undefined) {
-    throw new Error(
-      `${String(found.length)} \`${pageType}\` pages are there where one carries them, so none of them holds`
-    )
-  }
-  const value: unknown = one.value
-  if (typeof value !== "object" || value === null) {
-    throw new Error(`the \`${pageType}\` page carries no values, so nothing states what it holds`)
-  }
-  return value as Carried
+  throw new Error(`no \`${pageType}/${slug}\` page is there, so nothing states what it carries`)
 }
 
 function number(carried: Carried, pageType: string, key: string): number {
@@ -94,18 +88,14 @@ export function selectionPolicyStated(): ReadonlyMap<string, number> {
 }
 
 export function readBodyweight(): number {
-  return number(only(PROFILE), PROFILE, "bodyweight")
+  return number(named(PERSON, ALAN), PERSON, "bodyweight")
 }
 
 export async function writeBodyweight(bodyweight: number): Promise<string> {
-  const was = only(PROFILE)
-  const slug = was["slug"]
-  if (typeof slug !== "string") {
-    throw new Error(`the \`${PROFILE}\` page states no slug, so there is no page to write back to`)
-  }
+  const was = named(PERSON, ALAN)
   const composed = composedFor(rootOf(), {
-    pageTypeSlug: PROFILE,
-    slug,
+    pageTypeSlug: PERSON,
+    slug: ALAN,
     values: { ...was, bodyweight },
   })
   if ("refused" in composed) throw new Error(composed.refused)

@@ -11,25 +11,25 @@ export const exerciseProfileShow = {
     { said: "--json", takes: "give the bodyweight as JSON rather than as a tab-separated row" },
   ],
   helpNotes: [
-    "the bodyweight is on the client-profile page and is read from there on every call.",
+    "the bodyweight is on the person page and is read from there on every call.",
     "the weight is in pounds.",
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The bodyweight is read from the client-profile page.",
+      statement: "The bodyweight is read from the person page.",
     },
     {
       invariantKind: "departure",
-      statement: "No profile page existing is a refusal.",
+      statement: "No person page existing is a refusal.",
     },
     {
       invariantKind: "departure",
-      statement: "A profile stating no bodyweight is a refusal rather than a zero.",
+      statement: "A person stating no bodyweight is a refusal rather than a zero.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here changes the profile.",
+      statement: "Nothing here changes the person.",
     },
   ],
 } as const satisfies Command
