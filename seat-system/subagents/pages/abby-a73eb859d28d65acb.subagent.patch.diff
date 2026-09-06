@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-2026-forecast-survives-the-illness.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-2026-forecast-survives-the-illness.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6e1dd465580cd06379f1b497fd1de5a11b524f75
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-2026-forecast-survives-the-illness.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherThe2026ForecastSurvivesTheIllness = {
++  id: "01a077ec-ce55-7c68-bb3c-9875aec40958",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-2026-forecast-survives-the-illness",
++  topicSlug: "whether-my-2026-forecast-is-holding",
++  ask: "Once the June illness clears, does my 2026 forecast hold, a 3.5 to 4.5 baseline and a climb back to 4 to 5, and does reclimbing run faster than the original four-month climb?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-forecast-is-wrong-or-the-illness-lingers.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-forecast-is-wrong-or-the-illness-lingers.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3cdc4d7f8c68555c25ec8c0b192790ef81074455
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-forecast-is-wrong-or-the-illness-lingers.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheForecastIsWrongOrTheIllnessLingers = {
++  id: "01a077ec-ce57-7f44-b147-35d003ed7af1",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-forecast-is-wrong-or-the-illness-lingers",
++  topicSlug: "whether-my-2026-forecast-is-holding",
++  ask: "My August reading of two to three sits below the forecast baseline, so is the forecast wrong or has the June illness not cleared?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/whether-my-2026-forecast-is-holding.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/whether-my-2026-forecast-is-holding.all-about-alan-topic.ts
+index c74cc112e99f09da5277f8f18b39435bd7010fa0..6314622e279fe0c7722536db422ae2145983a53b 100644
+--- a/alan/books/all-about-alan/topics/pages/whether-my-2026-forecast-is-holding.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/whether-my-2026-forecast-is-holding.all-about-alan-topic.ts
+@@ -7,6 +7,4 @@ export const whetherMy2026ForecastIsHolding = {
+   title: "Whether My 2026 Forecast Is Holding",
+   definition: "the forecast I set for this year, against what I actually read",
+   parentSlugs: ["where-safety-has-got-to"],
+-  unsettled:
+-    "The 2026 forecast, a 3.5 to 4.5 baseline and a climb back to 4 to 5, is falsifiable once the June illness clears. The same check answers whether reclimbing runs faster than the original four-month climb.\n\nMy August reading of two to three sits below that forecast baseline, and nothing yet says whether the forecast is wrong or the illness has not cleared.",
+ } as const satisfies AllAboutAlanTopic
