@@ -33,7 +33,20 @@ export const answer = {
     {
       invariantKind: "departure",
       statement:
-        "A roster that will not read is answered 501 carrying the reason that roster went unread.",
+        "A listing whose roster will not read is answered 501 carrying the reason that roster went unread.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The roster names every page type `@akasha/pages-service` holds pages for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A roster entry carries that page type's slug alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A roster that will not read is answered 503 carrying the reason that roster went unread.",
     },
     {
       invariantKind: "departure",
@@ -44,12 +57,8 @@ export const answer = {
       statement: "An unanswered question is never reported as a page type holding nothing.",
     },
     {
-      invariantKind: "gap",
-      statement: "The roster route refuses at 501.",
-    },
-    {
       invariantKind: "absence",
-      statement: "`@akasha/pages-service` names no repository and no glob for a page type's pages.",
+      statement: "A roster entry names no repository and no glob.",
     },
   ],
 } as const satisfies Module
