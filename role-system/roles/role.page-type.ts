@@ -29,11 +29,6 @@ export const role = {
   properties: [{ pagePropertySlug: "on-call", required: true, many: false }],
   invariants: [
     {
-      invariantKind: "upkeep",
-      statement:
-        "Every figure an agent holds as true was taken after the last change to the figure's subject.",
-    },
-    {
       invariantKind: "departure",
       statement:
         "The invariants and directives every role is held to are on the type rather than on any one role.",
