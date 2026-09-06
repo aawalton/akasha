@@ -38,3 +38,26 @@ index 9f61093e746710a776186244098e4fe68b289d7f..4a4e53c11012abe9806d59bc1606128a
      },
      {
        invariantKind: "departure",
+diff --git a/changes/refactor-changes/refactor-change.page-type.ts b/changes/refactor-changes/refactor-change.page-type.ts
+index 69b71c472ba3a58f088f721829c405f548e034eb..917c7e28dfc5ed9688e24a2747d7bfb26e248940 100644
+--- a/changes/refactor-changes/refactor-change.page-type.ts
++++ b/changes/refactor-changes/refactor-change.page-type.ts
+@@ -23,15 +23,15 @@ export const refactorChange = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refactor change lands everything it runs or none of it.",
++      statement: "A refactor change lands every change that refactor change runs or lands nothing.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refactor change refuses where any change it runs refuses.",
++      statement: "A refactor change refuses where any change that refactor change runs refuses.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The order the changes it runs are run in is the refactor change's own.",
++      statement: "The order the changes are run in is the refactor change's own.",
+     },
+     {
+       invariantKind: "departure",
