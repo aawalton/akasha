@@ -92,7 +92,7 @@ index c077c84259985b9aefdf39af0955b39939b8f502..d5ec680f9222f108ff5e6e4f3f327a24
        const off = offFormat(each, format, formatting, slug)
        if (off !== null) said.push(off)
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
-index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..51f943988091dac0e92a15c0498a471f29a0e3bc 100644
+index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..dfd35590b131dc51cbc20c7892dcde275e76f876 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
 @@ -135,7 +135,7 @@ const PROPERTIES: Record<string, Value> = {
@@ -113,6 +113,15 @@ index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..51f943988091dac0e92a15c0498a471f
      nameFormatSlug: FORMAT,
      unique: "page-type",
    },
+@@ -152,7 +152,7 @@ const PROPERTIES: Record<string, Value> = {
+     pageTypeSlug: "text-property",
+     slug: "test",
+     propertySlug: "test",
+-    max: 4,
++    maxLength: 4,
+   },
+   aids: {
+     id: "01a0540d-0000-7000-8000-00000000000c",
 @@ -166,7 +166,7 @@ const PROPERTIES: Record<string, Value> = {
      pageTypeSlug: "text-property",
      slug: "name",
@@ -122,3 +131,20 @@ index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..51f943988091dac0e92a15c0498a471f
      nameFormatSlug: FORMAT,
    },
    tag: {
+@@ -174,14 +174,14 @@ const PROPERTIES: Record<string, Value> = {
+     pageTypeSlug: "text-property",
+     slug: "tag",
+     propertySlug: "tag",
+-    max: 4,
++    maxLength: 4,
+   },
+   tally: {
+     id: "01a0540d-0000-7000-8000-000000000016",
+     pageTypeSlug: "worded-property",
+     slug: "tally",
+     propertySlug: "tally",
+-    max: 4,
++    maxLength: 4,
+   },
+   "extends-slug": {
+     id: "01a0540d-0000-7000-8000-000000000019",
