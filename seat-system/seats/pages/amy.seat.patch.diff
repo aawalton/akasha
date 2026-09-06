@@ -1,3 +1,24 @@
+diff --git a/health-samples-day/active-calories/active-calories.module.code.ts b/health-samples-day/active-calories/active-calories.module.code.ts
+index 20b615464f1717edf2101e11b6cdc9ea62cbe983..00288c61f8169d36c9eda74c7112952b2580116c 100644
+--- a/health-samples-day/active-calories/active-calories.module.code.ts
++++ b/health-samples-day/active-calories/active-calories.module.code.ts
+@@ -1,6 +1,6 @@
+ import { selectHealthSamples } from "@akasha/health-samples-access/sample-selecting"
+ import type { HealthSampleRecord } from "@akasha/health-samples-access/sample-shape"
+-import { getWakeDayWindow } from "../wake-day-window/wake-day-window.module.code.ts"
++import { spannedWindow } from "../wake-day-window/wake-day-window.module.code.ts"
+ 
+ const DAYS_AT_ONCE = 4
+ 
+@@ -27,7 +27,7 @@ async function loadDayActiveCalories(args: {
+   readonly dayStr: string
+   readonly storedReading?: number | null
+ }): Promise<DayReading> {
+-  const span = getWakeDayWindow(args.dayStr)
++  const span = spannedWindow(args.dayStr)
+   if ("refused" in span) return { reading: args.storedReading ?? null, unread: span.refused }
+   const samples = await selectHealthSamples({
+     metric: "activeEnergy",
 diff --git a/health-samples-day/wake-day-window/wake-day-window.module.code.ts b/health-samples-day/wake-day-window/wake-day-window.module.code.ts
 index 5de307229da53a3947a221c8a577f755d6b0eed6..52898fdaec0cda79ff280c78f12c39548ef5040c 100644
 --- a/health-samples-day/wake-day-window/wake-day-window.module.code.ts
