@@ -9,7 +9,7 @@ export const runCost = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The bands go from fast to eternal, each one looser than the last.",
+      statement: "The bands go from fast to eternal with each band looser than the last.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,11 @@ export const runCost = {
     },
     {
       invariantKind: "departure",
-      statement: "The stat line is read from its last bracket on, so a name with spaces is safe.",
+      statement: "The stat line is read from its last bracket on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name with spaces is safe.",
     },
     {
       invariantKind: "departure",
