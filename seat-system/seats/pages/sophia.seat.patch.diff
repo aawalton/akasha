@@ -1,18 +1,3 @@
-diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
-index c7b8401e0624056d1e043bbdc976db1df713c2fb..cceb424057cc55945b185b1d41a575ba1f19aeed 100644
---- a/command-system/drafting/drafting.module.code.ts
-+++ b/command-system/drafting/drafting.module.code.ts
-@@ -38,7 +38,9 @@ export const DROPPED = "goes; the patch it held is dropped"
- 
- const NO_CHECKS_AT = "runsChecks: false"
- 
--const NO_WARRANTS_AT = "runsWarrants: false"
-+const NOT_OWED_AT = "writerOwesReading: false"
-+
-+const NOT_OWED_WAS = "runsWarrants: false"
- 
- const DIFF_AT = "diff --git "
- 
 diff --git a/command-system/drafting/drafting.module.ts b/command-system/drafting/drafting.module.ts
 index 64b40673e6fc2072defded63a58fcf2839a063d3..b12618e4451f2019eda7d996f623291ef5f300a1 100644
 --- a/command-system/drafting/drafting.module.ts
