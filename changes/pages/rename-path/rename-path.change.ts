@@ -1,0 +1,13 @@
+import type { Change } from "../../change.page-type.ts"
+
+export const renamePath = {
+  id: "01a07718-c9b6-7bb2-9eb2-27a44ed4fe7d",
+  pageTypeSlug: "change",
+  slug: "rename-path",
+  definition: "one file's path changed, with every body importing it repointed",
+  code: "ts",
+  isCommand: false,
+  runsChecks: false,
+  readersOweReading: false,
+  writerOwesReading: false,
+} as const satisfies Change
