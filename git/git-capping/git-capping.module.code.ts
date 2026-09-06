@@ -22,6 +22,11 @@ const NETWORK_SUBCOMMANDS: ReadonlySet<string> = new Set(["push", "fetch", "ls-r
 
 export const NETWORK_CEILING_MS = 10_000
 
+// A PUSH CARRIES OBJECTS RATHER THAN ANSWERING A QUESTION. Ten seconds is the ceiling for a remote
+// that will not answer at all, and a push of a large history is still carrying bytes when that
+// ceiling falls, so a push capped as a query is a push that can never finish.
+export const PUSH_CEILING_MS = 1_800_000
+
 export const CAPPED_CEILING_MS = 10_000
 
 const OUTPUT_CEILING = 256 * 1024 * 1024

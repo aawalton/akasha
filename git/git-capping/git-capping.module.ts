@@ -19,5 +19,9 @@ export const gitCapping = {
       invariantKind: "departure",
       statement: "Only a command reaching the network is capped by the network ceiling.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A command carrying objects is capped far above a command asking a question.",
+    },
   ],
 } as const satisfies Module

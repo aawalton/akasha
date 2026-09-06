@@ -1,4 +1,4 @@
-import { git, NETWORK_CEILING_MS } from "../git-capping/git-capping.module.code.ts"
+import { git, PUSH_CEILING_MS } from "../git-capping/git-capping.module.code.ts"
 
 export interface PushOutcome {
   readonly failed: boolean
@@ -20,7 +20,7 @@ export function remoteOf(root: string): string | null {
   return first === "" ? null : first
 }
 
-export function pushBranch(root: string, ceilingMs: number = NETWORK_CEILING_MS): PushOutcome {
+export function pushBranch(root: string, ceilingMs: number = PUSH_CEILING_MS): PushOutcome {
   const remote = remoteOf(root)
   if (remote === null) {
     return {

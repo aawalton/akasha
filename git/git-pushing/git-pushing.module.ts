@@ -31,5 +31,10 @@ export const gitPushing = {
       invariantKind: "departure",
       statement: "A push that fails tells the caller not to run the command again.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "A push is given the time carrying objects takes rather than the time a query takes.",
+    },
   ],
 } as const satisfies Module
