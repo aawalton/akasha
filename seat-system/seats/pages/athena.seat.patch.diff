@@ -120,3 +120,18 @@ index 44688e35a365d6356018eff16ad22022eac43a81..f5405c40166345c60b4c2a3b44f0dc7f
 +  expect(existsSync(join(under, STAMP))).toBe(true)
 +  expect(existsSync(join(beside, "index.refreshing.1"))).toBe(true)
 +})
+diff --git a/pages/indexes/rebuilding/rebuilding.module.ts b/pages/indexes/rebuilding/rebuilding.module.ts
+index 8d91938cf7fef8558d0541a0601e639e7c570b24..1224596eaf8dcb0a28d3b7ab67304ef65e8bb2d2 100644
+--- a/pages/indexes/rebuilding/rebuilding.module.ts
++++ b/pages/indexes/rebuilding/rebuilding.module.ts
+@@ -48,6 +48,10 @@ export const rebuilding = {
+       invariantKind: "departure",
+       statement: "That sweep answers only for a folder named `index`.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A sweep putting nothing in place answers the same paths as one taking them away.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "An index that is not there yet sweeps nothing rather than refusing.",
