@@ -21,7 +21,11 @@ export const transportDeployment = {
     },
     {
       invariantKind: "departure",
-      statement: "One copy runs at a time, and the old one goes before the new one starts.",
+      statement: "One copy runs at a time.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The old copy goes before the new copy starts.",
     },
     {
       invariantKind: "departure",
