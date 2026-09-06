@@ -1,9 +1,8 @@
 import { dirname, join } from "node:path"
 import { parsedAs } from "@akasha/code/code-source"
+import { schemaOf } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
-import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
-import { valueAt } from "@akasha/pages/page-value"
 import { renamePath } from "../../../atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts"
 import { renameSlug } from "../../../atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts"
 import { statedIn } from "../../../partial/pages/restate-value/restate-value.change-partial.code.ts"
@@ -69,13 +68,13 @@ function readIn(at: string, text: string): Read {
 
 function besideIn(root: string, held: Held, at: string, to: string): readonly Move[] {
   const found: Move[] = []
-  const declared = propertiesIfNamedOf(held.pageTypeSlug, root, (path) => valueAt(path, root)) ?? []
-  const under = new Map(declared.map((one) => [one.propertySlug, one]))
   for (const [key, ending] of held.said) {
-    const one = under.get(slugFor(key))
-    if (one === undefined) continue
+    const answer = schemaOf(root, slugFor(key))
+    if ("refused" in answer) continue
+    const one = answer.schema
     if (one.pageTypeSlug !== FILE_PROPERTY) continue
     const propertySlug = one.propertySlug
+    if (propertySlug === null) continue
     const from = besideAt(at, propertySlug, ending)
     const next = besideAt(to, propertySlug, ending)
     if (from === null || next === null) continue
