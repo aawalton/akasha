@@ -35,7 +35,11 @@ export const shellCalls = {
     },
     {
       invariantKind: "departure",
-      statement: "The line opening a body is kept, so a redirect on that line is read.",
+      statement: "The line opening a body is kept.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A redirect on the line opening a body is read.",
     },
     {
       invariantKind: "departure",
@@ -107,7 +111,7 @@ export const shellCalls = {
     },
     {
       invariantKind: "constraint",
-      statement: "A shell marks no word as one that runs the call behind that word.",
+      statement: "A shell marks no word as a word that runs the call behind that word.",
     },
     {
       invariantKind: "gap",
