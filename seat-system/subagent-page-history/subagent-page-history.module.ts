@@ -32,7 +32,7 @@ export const subagentPageHistory = {
     {
       invariantKind: "departure",
       statement:
-        "A subagent is answered only where the agent id the body states is the one asked for.",
+        "A subagent is answered only where the agent id the body states is the id asked for.",
     },
   ],
 } as const satisfies Module
