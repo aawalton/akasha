@@ -13,7 +13,11 @@ export const speltScanning = {
     },
     {
       invariantKind: "departure",
-      statement: "The filler runs the length the name ran, so every offset after it holds.",
+      statement: "The filler runs the length the name ran.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every offset after the name holds.",
     },
     {
       invariantKind: "departure",
