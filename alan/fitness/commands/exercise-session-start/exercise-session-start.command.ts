@@ -28,7 +28,7 @@ export const exerciseSessionStart = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Sessions abandoned before this day are closed before this one is opened.",
+      statement: "A session abandoned before this day is closed before a new session is opened.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const exerciseSessionStart = {
     },
     {
       invariantKind: "departure",
-      statement: "The session's title says the weekday, the focus and the date.",
+      statement: "The session's title says the weekday and the focus and the date.",
     },
     {
       invariantKind: "departure",
