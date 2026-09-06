@@ -10,6 +10,50 @@ index bade613674f6a15e88d54736d8a478a74648d514..88bc9a71bbf4c549af6473bc3e4fabfe
      "page-type/view",
      "page-type/nav",
      "page-type/page",
+diff --git a/pages/value-reading/page-value-reading.module.code.ts b/pages/value-reading/page-value-reading.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d64681eee82ec824f62c85cb3cd1947e07b2e878
+--- /dev/null
++++ b/pages/value-reading/page-value-reading.module.code.ts
+@@ -0,0 +1,38 @@
++import { addressIn } from "../address/page-address.module.code.ts"
++
++export type Value = Record<string, unknown>
++
++export function slugOf(named: string): string {
++  const address = addressIn(named)
++  return address.kind === "id" ? named : address.slug
++}
++
++export function textAt(value: Value, key: string): string | null {
++  const held = value[key]
++  return typeof held === "string" ? held : null
++}
++
++export function textsAt(value: Value, key: string): readonly string[] | null {
++  const held = value[key]
++  if (!Array.isArray(held)) return null
++  return held.every((one) => typeof one === "string") ? (held as readonly string[]) : null
++}
++
++export function numberAt(value: Value, key: string): number | null {
++  const held = value[key]
++  return typeof held === "number" ? held : null
++}
++
++export function slugAt(value: Value, key: string): string | null {
++  const named = textAt(value, key)
++  return named === null ? null : slugOf(named)
++}
++
++export function slugsIn(said: unknown): readonly string[] {
++  if (!Array.isArray(said)) return []
++  const named: string[] = []
++  for (const one of said) {
++    if (typeof one === "string" && one !== "") named.push(slugOf(one))
++  }
++  return named
++}
 diff --git a/pages/value-reading/page-value-reading.module.ts b/pages/value-reading/page-value-reading.module.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..e90f1350969a9a9c49a7326637445075d9d04032
