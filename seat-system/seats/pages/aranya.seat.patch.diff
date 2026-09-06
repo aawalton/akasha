@@ -1,0 +1,34 @@
+diff --git a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+index f7091160efbefafa149ed1560dc2155122e632ed..ae544d90f71f7491b046f0d159489072088928bd 100644
+--- a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
++++ b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+@@ -15,12 +15,13 @@ export const aranyaClusterCleanup = {
+     "A secret value is reused from the one page holding it rather than copied into a second resource.",
+     "No secret value changes; what moves is where a value is kept rather than what the value is.",
+     "A count that turns over faster than the work is re-taken rather than written into working memory.",
++    "A migrated resource is compared against its manifest field for field before the manifest goes.",
+   ],
+   intents: [
+     {
+       statement: "All cluster-specific files are in the cluster/ folder.",
+       workingMemory:
+-        "`infrastructure/cluster/` holds `api`, `provisioning`, `k8s-types` and `k8s-synth`. Three folders are left, each blocked by a file no page claims, which a move refuses: `cluster-operations` by `nodes.json`, `cluster-manifests` by `tunnel-routes.ts` and three sops files, and `service-system/cluster-services` by seventeen more sops orphans, `registry.conf` and two grafana json files over the 15,000 byte ceiling. `checks/cluster-checks` stays. Alan settles whether the 51 manifest pages move.",
++        "`infrastructure/cluster/` holds `api`, `provisioning`, `k8s-types` and `k8s-synth`. Three folders are left, each blocked by a file no page claims, which a move refuses: `cluster-operations` by `nodes.json`, `cluster-manifests` by `tunnel-routes.ts` and its sops files, and `service-system/cluster-services` by the sops orphans, `registry.conf` and two grafana json files over the 15,000 byte ceiling. `checks/cluster-checks` stays. Alan settles whether the manifest pages move.",
+     },
+     {
+       statement: "The cluster/ folder passes the `folder-matches-a-shape` check.",
+@@ -30,12 +31,12 @@ export const aranyaClusterCleanup = {
+     {
+       statement: "Every value the cluster holds as a Secret comes from a secret page.",
+       workingMemory:
+-        "The manifests are whole Secrets encrypted in place, and what applies them is CI rather than `secret-placing`: workflow templates call `sopsDecrypt` and pipe into `kubectl apply`. `secret-place` is the step that replaces it, naming a resource and saying its Secret from the pages placing a value in it. cert-manager is through; the rest go one resource per commit, pages in, CI repointed, manifest deleted together, so no value is ever encrypted twice or nowhere.",
++        "`secret-place` replaces `sopsDecrypt` in a workflow declaration, naming a resource rather than a file. cert-manager, headscale and pgbouncer are through, so the shape is proven: pages land first, `page-secret-set` reading a page off disk; then the values; then CI repointed and the manifest deleted together. A whole-file value takes `--keep-last-newline`. A resource the cluster holds as `kubernetes.io/tls` or basic-auth names that type in the step, a Secret's type being immutable.",
+     },
+     {
+       statement: "One secret value is one page however many resources place it.",
+       workingMemory:
+-        "Nine values are held in more than one place: the cloudflare token in `cloudflare-api-token/api-token` and `pipeline-engine-secrets/CLOUDFLARE_API_TOKEN`, `collections-secrets` copying `DATABASE_URL` to `ZERO_UPSTREAM_DB` and `JWT_SECRET` to `ZERO_AUTH_SECRET`, and `postgres-cnpg-superuser/password` equalling `postgres-secrets/POSTGRES_PASSWORD`. A shared value is what couples two resources, so it settles which resources one agent must migrate together.",
++        "A shared value is what couples two resources, so it settles which resources one agent migrates together: collections and pipeline-engine share `SUPABASE_URL` and the service role key, `grafana-secrets/GRAFANA_DB_RO_PASSWORD` is `grafana-ro-password/password`, `postgres-cnpg-superuser/password` is `postgres-secrets/POSTGRES_PASSWORD`, and `postgres-secrets/DATABASE_URL` is already the page `supabase-studio-secrets-database-url`, which takes a second placement rather than a copy.",
+     },
+     {
+       statement: "Every working subagent has a page, and every stopped one has none.",
