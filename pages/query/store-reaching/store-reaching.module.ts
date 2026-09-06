@@ -19,7 +19,7 @@ export const storeReaching = {
     },
     {
       invariantKind: "departure",
-      statement: "A caller may put its own fetcher in place of the global one.",
+      statement: "A caller may put its own fetcher in place of the global fetcher.",
     },
     {
       invariantKind: "departure",
