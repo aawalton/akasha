@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/types/declared-properties/declared-properties.module.ts b/pages/types/declared-properties/declared-properties.module.ts
+index f1b1054c21df08b28f0f18d9d8caf2f7f201aff4..290db9a84f3bb6ebf4ecaf2ce5b4505941379f57 100644
+--- a/pages/types/declared-properties/declared-properties.module.ts
++++ b/pages/types/declared-properties/declared-properties.module.ts
+@@ -20,7 +20,7 @@ export const declaredProperties = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every declaration is answered as well as the binding one.",
++      statement: "Every declaration is answered as well as the binding declaration.",
+     },
+     {
+       invariantKind: "departure",
