@@ -9,7 +9,11 @@ export const monarchReport = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Nothing is written; the report says the effect the rules would have and stops.",
+      statement: "Nothing is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report says the effect the rules would have and stops.",
     },
     {
       invariantKind: "departure",
@@ -29,8 +33,11 @@ export const monarchReport = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A reserving rule is reported by the standing category on rows caught, grouped by the bank's words.",
+      statement: "A reserving rule is reported by the category a row already carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Rows caught are grouped by the bank's words.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +54,7 @@ export const monarchReport = {
     },
     {
       invariantKind: "departure",
-      statement: "A list cut to its limit says how many more there were.",
+      statement: "A list cut to its limit says how many rows were left out.",
     },
   ],
 } as const satisfies Module
