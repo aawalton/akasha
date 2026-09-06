@@ -18,16 +18,19 @@ export const monarchMerchantNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "Both the value and the patterns are lowered, so naming is not a matter of case.",
+      statement: "Both the value and the patterns are lowered.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The merchant and the statement line are read together, so either may name the merchant.",
+      statement: "The merchant and the statement line are read together.",
     },
     {
       invariantKind: "departure",
-      statement: "The longest pattern that holds wins, so a narrower page beats a wider one.",
+      statement: "Either the merchant or the statement line names the merchant.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The longest pattern that holds wins.",
     },
     {
       invariantKind: "departure",
@@ -36,8 +39,11 @@ export const monarchMerchantNaming = {
     },
     {
       invariantKind: "stopgap",
-      statement:
-        "The vocabulary is read once and held, so a page changed under a running process is not seen.",
+      statement: "The vocabulary is read once and held.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "A page changed under a running process is not seen.",
     },
   ],
 } as const satisfies Module
