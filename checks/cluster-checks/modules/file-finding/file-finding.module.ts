@@ -9,7 +9,7 @@ export const fileFinding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path is left out where any one of its segments is a folder left out.",
+      statement: "A path is left out where a single segment is a folder left out.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,11 @@ export const fileFinding = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder is never answered, only a file.",
+      statement: "A folder is never answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a file is answered.",
     },
   ],
 } as const satisfies Module
