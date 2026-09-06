@@ -10,7 +10,12 @@ export const monarchHistory = {
     {
       invariantKind: "departure",
       statement:
-        "A row carries the standing category by its title where a page names one and by its slug otherwise.",
+        "A row carries the standing category by its title where a page names that category.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A row carries the standing category by its slug where no page names that category.",
     },
     {
       invariantKind: "departure",
@@ -30,12 +35,19 @@ export const monarchHistory = {
     },
     {
       invariantKind: "departure",
-      statement: "A row a rule settles is not left unsettled, and a row no rule settles is.",
+      statement: "A row a rule settles is not left unsettled.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A missing field reads as empty rather than as absent, so every row has the same shape.",
+      statement: "A row no rule settles is left unsettled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A missing field reads as empty rather than as absent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every row has the same shape.",
     },
     {
       invariantKind: "absence",
