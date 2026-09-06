@@ -17,7 +17,7 @@ export const characterSortOrder = {
     },
     {
       invariantKind: "departure",
-      statement: "A task falling to no character has none.",
+      statement: "A task falling to no character has no sort order.",
     },
     {
       invariantKind: "gap",
