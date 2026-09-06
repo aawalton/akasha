@@ -54,7 +54,7 @@ export const pageStore = {
     {
       invariantKind: "departure",
       statement:
-        "A pod that is reached is one the whole path represents rather than one that has bound a socket.",
+        "A pod that is reached is a pod the whole path represents rather than a pod that has bound a socket.",
     },
   ],
 } as const satisfies ClusterService
