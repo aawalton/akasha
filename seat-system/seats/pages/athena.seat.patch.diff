@@ -53,3 +53,16 @@ index 1161fb020952657c5188f03013eae1e2ab7fbcef..f073ae92c95fd92d97483cc11425fefa
    return said
  }
  
+diff --git a/command-system/commands/index/index.command.test.ts b/command-system/commands/index/index.command.test.ts
+index 22a55f763a35a8a753b1a2414b02ff78bee087b4..78244914d215cf51a65498d4920a5aa1712558da 100644
+--- a/command-system/commands/index/index.command.test.ts
++++ b/command-system/commands/index/index.command.test.ts
+@@ -18,7 +18,7 @@ import { textProperty } from "@akasha/pages/text-property"
+ import type { Given } from "../../calling/calling.module.code.ts"
+ import { DATA, INPUT, OK, OPERATIONAL } from "../../cli/cli.module.code.ts"
+ import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+-import { index, readIn } from "./index.command.code.ts"
++import { classed, index, readIn } from "./index.command.code.ts"
+ import { index as indexCommand } from "./index.command.ts"
+ 
+ const TREE = "."
