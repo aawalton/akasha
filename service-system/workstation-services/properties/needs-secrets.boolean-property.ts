@@ -16,7 +16,7 @@ export const needsSecrets = {
     },
     {
       invariantKind: "departure",
-      statement: "A service stating nothing is handed none.",
+      statement: "A service stating nothing is handed no secret.",
     },
   ],
 } as const satisfies BooleanProperty
