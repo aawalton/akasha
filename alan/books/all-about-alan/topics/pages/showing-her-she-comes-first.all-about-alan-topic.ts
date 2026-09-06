@@ -9,6 +9,4 @@ export const showingHerSheComesFirst = {
   parentSlugs: ["living-with-jen"],
   settled:
     "The ranking is built and declared. What was missing is a price on the trades I actually make.",
-  unsettled:
-    "The fix is committed and untested. Whether the narration runs, whether it registers on her side, and whether it holds as a gift rather than drifting into scorekeeping, is unknown.",
 } as const satisfies AllAboutAlanTopic
