@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts b/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts
+index 7dab8842f34db641bb1522d7f6d0777f28524e93..d0d6a3dfaa78627afe6084ace77fa4eb1539fa85 100644
+--- a/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts
++++ b/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts
+@@ -30,7 +30,7 @@ export const mobileSimTap = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A point is both its across and its down.",
++      statement: "A point is an across and a down.",
+     },
+     {
+       invariantKind: "departure",
