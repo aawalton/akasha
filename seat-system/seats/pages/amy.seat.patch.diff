@@ -256,3 +256,22 @@ index 0d06b64fa3ca2e85a3f58d8f738eb04166a9f49b..7868601843298122f0558848b78d5746
        headless = true
        args.shift()
      } else if (head === "-a" || head === "--account") {
+diff --git a/seat-system/supervising/supervisor-args/supervisor-args.module.ts b/seat-system/supervising/supervisor-args/supervisor-args.module.ts
+index 5ca6cfc5605513873b540a4ed30d6670ad65640a..7731cabb30b57bcdc93975d6ec461643351ec24f 100644
+--- a/seat-system/supervising/supervisor-args/supervisor-args.module.ts
++++ b/seat-system/supervising/supervisor-args/supervisor-args.module.ts
+@@ -22,5 +22,14 @@ export const supervisorArgs = {
+       statement:
+         "A resume with a prompt is driven by the prompt rather than by the inbound messages.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A re-exec line carries the mode flag the line it was built from carried.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The headless flag is taken from where the modes are spelled rather than spelled here.",
++    },
+   ],
+ } as const satisfies Module
