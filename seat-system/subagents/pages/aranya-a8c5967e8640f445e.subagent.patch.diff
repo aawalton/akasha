@@ -26,3 +26,17 @@ index 0000000000000000000000000000000000000000..74eb493a60aea0d631747d30d17285b4
 +  slug: "postgrest-secrets-database-url",
 +  placements: [{ resourceName: "postgrest-secrets", resourceKey: "DATABASE_URL" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/postgrest-secrets-pgrst-jwt-secret.secret.ts b/service-system/secrets/pages/postgrest-secrets-pgrst-jwt-secret.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0bedcbc7ea55be4ca101cc94f9c4d3c9fb7f8cfd
+--- /dev/null
++++ b/service-system/secrets/pages/postgrest-secrets-pgrst-jwt-secret.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const postgrestSecretsPgrstJwtSecret = {
++  id: "01a07697-6c3e-787b-b79b-e36bb2224985",
++  pageTypeSlug: "secret",
++  slug: "postgrest-secrets-pgrst-jwt-secret",
++  placements: [{ resourceName: "postgrest-secrets", resourceKey: "PGRST_JWT_SECRET" }],
++} as const satisfies Secret
