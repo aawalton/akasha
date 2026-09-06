@@ -9,7 +9,11 @@ export const exerciseChoosing = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value is said as its label or as its dashed id, and either is taken.",
+      statement: "A value is said as its label or as its dashed id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Either spelling is taken.",
     },
     {
       invariantKind: "departure",
