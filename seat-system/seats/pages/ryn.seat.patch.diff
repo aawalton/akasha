@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/instrument/instrument.domain.ts b/instrument/instrument.domain.ts
+index 670f8c66061b96058da45c0107154d52dc60bdb4..c1b0d9ef4389ba0042778302a58aad1a27cabcc5 100644
+--- a/instrument/instrument.domain.ts
++++ b/instrument/instrument.domain.ts
+@@ -57,7 +57,8 @@ export const instrument = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A first run against an empty cache costs more than the run that first run is.",
++      statement:
++        "A first run against an empty cache costs beyond the same run against a full cache.",
+     },
+     {
+       invariantKind: "departure",
