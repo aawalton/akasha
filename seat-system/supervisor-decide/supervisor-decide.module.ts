@@ -14,12 +14,19 @@ export const supervisorDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "The whole call is the JSON on stdin, and an argument is refused.",
+      statement: "The whole call is the JSON on stdin.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A payload asking nothing, or naming a decision this module does not make, is refused.",
+      statement: "An argument given to this module is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A payload asking nothing is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A payload naming a decision this module does not make is refused.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +34,7 @@ export const supervisorDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "The notices are rendered by the compose module beside this one.",
+      statement: "The notices are rendered by the compose module beside this module.",
     },
   ],
 } as const satisfies Module
