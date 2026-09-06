@@ -11,6 +11,7 @@ export const bookOfEverythingCommands = {
     "command/ali-next-unscored",
     "command/ali-random-leaf",
     "command/learn-next",
+    "command/measure-learning",
   ],
   invariants: [
     {
