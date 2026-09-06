@@ -1,0 +1,59 @@
+diff --git a/command-system/commands/refactor/package-phasing/package-phasing.module.test.ts b/command-system/commands/refactor/package-phasing/package-phasing.module.test.ts
+index e4c9b8756540afe703c94f1c8637753e1cd1daad..44c7923c1ea08025483cf4320e33ccb4f44f6f28 100644
+--- a/command-system/commands/refactor/package-phasing/package-phasing.module.test.ts
++++ b/command-system/commands/refactor/package-phasing/package-phasing.module.test.ts
+@@ -9,9 +9,9 @@ import {
+   phaseOf,
+ } from "./package-phasing.module.code.ts"
+ 
+-const WAS = "@akasha/pages"
++const WAS = "@akasha/held"
+ 
+-const NOW = "@akasha/pages"
++const NOW = "@akasha/kept"
+ 
+ const ALIASED = `{ "dependencies": { "${WAS}": "workspace:${NOW}@*" } }`
+ 
+@@ -38,7 +38,7 @@ test("the new name with no alias left is done", () => {
+ 
+ test("a name that is already the name it becomes is refused", () => {
+   expect(phaseOf(named([["pages/package.json", WAS]]), PLAIN, WAS, WAS)).toEqual({
+-    refused: "`@akasha/pages` is the name it already carries",
++    refused: "`@akasha/held` is the name it already carries",
+   })
+ })
+ 
+@@ -53,13 +53,13 @@ test("a manifest carrying each name is refused", () => {
+     NOW
+   )
+   expect(said).toEqual({
+-    refused: "`@akasha/pages` is the name other/package.json already carries",
++    refused: "`@akasha/kept` is the name other/package.json already carries",
+   })
+ })
+ 
+ test("no manifest calling either name is refused", () => {
+   expect(phaseOf(named([["other/package.json", "@akasha/other"]]), PLAIN, WAS, NOW)).toEqual({
+-    refused: "no manifest calls its package `@akasha/pages`",
++    refused: "no manifest calls its package `@akasha/held`",
+   })
+ })
+ 
+@@ -77,7 +77,7 @@ test("a manifest that will not parse answers with no name", () => {
+ })
+ 
+ test("the alias points the old name at the renamed package", () => {
+-  expect(aliasFor(NOW)).toBe("workspace:@akasha/pages@*")
++  expect(aliasFor(NOW)).toBe("workspace:@akasha/kept@*")
+ })
+ 
+ test("a root naming the old name among its dependencies carries the alias", () => {
+@@ -98,7 +98,7 @@ test("an alias is added among the root's dependencies", () => {
+   expect(said).not.toBeNull()
+   expect(aliasedIn(String(said), WAS)).toBe(true)
+   expect(JSON.parse(String(said))).toEqual({
+-    dependencies: { [WAS]: "workspace:@akasha/pages@*", "@akasha/other": "workspace:*" },
++    dependencies: { [WAS]: "workspace:@akasha/kept@*", "@akasha/other": "workspace:*" },
+   })
+ })
+ 
