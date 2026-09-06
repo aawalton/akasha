@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/music/commands/music-listening/music-listening.command.ts b/alan/music/commands/music-listening/music-listening.command.ts
+index bbce270527b1560ce4759fef5dd15d2b3601952d..f88618b4f3f893d14373596a9eb7e8439f2587b0 100644
+--- a/alan/music/commands/music-listening/music-listening.command.ts
++++ b/alan/music/commands/music-listening/music-listening.command.ts
+@@ -24,7 +24,7 @@ export const musicListening = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The four reads are made together rather than one after another.",
++      statement: "The four reads are made together rather than in turn.",
+     },
+     {
+       invariantKind: "departure",
