@@ -20,7 +20,7 @@ export const foldersOnly = {
     {
       invariantKind: "absence",
       statement:
-        "The paths the folders beneath that folder hold are judged where each of those folders is judged.",
+        "The paths the folders beneath that folder hold are judged where those folders are judged.",
     },
     {
       invariantKind: "gap",
@@ -28,7 +28,7 @@ export const foldersOnly = {
     },
     {
       invariantKind: "gap",
-      statement: "The akasha folder is judged by a shape of its own rather than by this one.",
+      statement: "The akasha folder is judged by a shape of its own rather than by this shape.",
     },
   ],
 } as const satisfies FolderShape
