@@ -23,7 +23,8 @@ export const mobileSimScreenshot = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A picture is taken of the session already there rather than of one opened here.",
+      statement:
+        "A picture is taken of the session already there rather than of a session opened here.",
     },
     {
       invariantKind: "departure",
