@@ -56,7 +56,7 @@ index 98b22117d796a29e267053cf125b0e4845f47f92..29ee3334bef21e906ad9513634e2ff48
        const id = pages[`${pageTypeSlug}/${slug}`]
        return id === undefined ? [] : [{ path: `${slug}.${pageTypeSlug}.ts`, id }]
 diff --git a/pages/indexes/reaching/reaching.module.code.ts b/pages/indexes/reaching/reaching.module.code.ts
-index 8f715ec47d1e9d63d561ff33b40a7a1193ef240a..c463b5a4c9026ed66b95515cd211a93cc0c22b20 100644
+index 8f715ec47d1e9d63d561ff33b40a7a1193ef240a..42b79c439cea4de47b813b758310ea1340293306 100644
 --- a/pages/indexes/reaching/reaching.module.code.ts
 +++ b/pages/indexes/reaching/reaching.module.code.ts
 @@ -21,6 +21,8 @@ const DECLARED = "properties"
@@ -91,6 +91,14 @@ index 8f715ec47d1e9d63d561ff33b40a7a1193ef240a..c463b5a4c9026ed66b95515cd211a93c
    }
    const everyType = new Set<string>([...above.keys(), ...[...above.values()].flat()])
  
+@@ -143,6 +148,7 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
+   return {
+     targetOf,
+     admitting,
++    mortal: (pageTypeSlug) => dies.has(pageTypeSlug),
+     at: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
+     byId: (id) => listedById(reading, id),
+     fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
 diff --git a/pages/indexes/reaching/reaching.module.test.ts b/pages/indexes/reaching/reaching.module.test.ts
 index ab369e0d793b347ced77622062532f1a815028b8..a97a64f1a0f784bc899dedf6bf3ac3534b4a52ba 100644
 --- a/pages/indexes/reaching/reaching.module.test.ts
@@ -150,7 +158,7 @@ index c3cb311af272a39276ac808f4ba32236485e5290..a021d240ba4c7104e6ad322fd9100e92
        invariantKind: "departure",
        statement: "Which property each key of a page carries is read here.",
 diff --git a/pages/indexes/relation/index-relation.index.code.ts b/pages/indexes/relation/index-relation.index.code.ts
-index fad1b430fd576958238871248688d5260ea186e3..8c38ec31dc4364af3f493a289542e52c741e7fa5 100644
+index fad1b430fd576958238871248688d5260ea186e3..81e7b483c9832e3637c1ecd3de8c14b6fc56734f 100644
 --- a/pages/indexes/relation/index-relation.index.code.ts
 +++ b/pages/indexes/relation/index-relation.index.code.ts
 @@ -1,7 +1,13 @@
@@ -178,6 +186,19 @@ index fad1b430fd576958238871248688d5260ea186e3..8c38ec31dc4364af3f493a289542e52c
    const line = JSON.stringify({ path: under(repo, path) })
    const entries: Entry[] = []
    const refused: string[] = []
+@@ -29,7 +37,11 @@ export function relationIn(value: Value, path: string, known: Shaped, repo: stri
+     for (const named of namesIn(one.held)) {
+       const reached = reaches(named, wanted, known)
+       if ("refused" in reached) {
+-        refused.push(`${path}: \`${one.said}\` — ${reached.refused}`)
++        // A page meant to be deleted outlives what it named, and a name for a page type meant to be
++        // deleted outlives the page it named. Neither is a fault, so neither is said.
++        if (!dies && !namesMortal(named, wanted, known)) {
++          refused.push(`${path}: \`${one.said}\` — ${reached.refused}`)
++        }
+         continue
+       }
+       const at = join(RELATION, "page", "id", reached.id, one.propertySlug, `${id}${ENDING}`)
 diff --git a/pages/indexes/relation/index-relation.index.test.ts b/pages/indexes/relation/index-relation.index.test.ts
 index 84117f6cb1d995a23537bbf4f4aecb5d23286fe2..917eb4b65f11a60d103851cb01f89990d446efff 100644
 --- a/pages/indexes/relation/index-relation.index.test.ts
