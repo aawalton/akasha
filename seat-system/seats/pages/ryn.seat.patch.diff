@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/service/page-composing/page-composing.module.ts b/pages/service/page-composing/page-composing.module.ts
+index 04bec8531e257b734b73bb845cff09e2881eb3dd..4f1f9cda0b55de9691e9536c317480f6950203f1 100644
+--- a/pages/service/page-composing/page-composing.module.ts
++++ b/pages/service/page-composing/page-composing.module.ts
+@@ -136,7 +136,7 @@ export const pageComposing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The files those rows fill are put alongside the page carrying them.",
++      statement: "The files those rows fill are put alongside the page carrying those rows.",
+     },
+     {
+       invariantKind: "departure",
