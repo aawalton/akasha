@@ -16,6 +16,8 @@ export const emailRule = {
   pluralSlug: "email-rules",
   extendsSlug: ["page-type/page"],
   partSlugs: [
+    "page-type/email-rule-agent",
+    "page-type/email-rule-code",
     "record-property/email-rule-matches",
     "select-property/email-rule-match-comparison",
     "select-property/email-rule-match-field",
@@ -28,15 +30,11 @@ export const emailRule = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rule is a match, a filing, the actions to take and a kind.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A rule is matched against an email message.",
     },
     {
       invariantKind: "departure",
-      statement: "One person's rules are a set of their own, sharing nothing with another's.",
+      statement: "One person's rules are a set of their own.",
     },
     {
       invariantKind: "departure",
