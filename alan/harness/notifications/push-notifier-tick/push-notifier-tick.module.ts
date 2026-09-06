@@ -37,7 +37,7 @@ export const pushNotifierTick = {
     },
     {
       invariantKind: "departure",
-      statement: "A tick past its ceiling is ended rather than left to run beside the next one.",
+      statement: "A tick past its ceiling is ended rather than left to run beside the next tick.",
     },
     {
       invariantKind: "absence",
