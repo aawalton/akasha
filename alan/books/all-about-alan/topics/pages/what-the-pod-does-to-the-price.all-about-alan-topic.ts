@@ -10,6 +10,4 @@ export const whatThePodDoesToThePrice = {
   relatedSlugs: ["the-low-feeling-that-costs-me-a-level"],
   settled:
     "The Nuropod acts as an artificial boost of one and a half levels for cost-multiplier purposes, recorded as a thing it does in social settings.",
-  unsettled:
-    "Whether the boost applies the same way while I am working at a desk is unanswered. Abby's note: he was wearing it while working when this came up, and did not say either way.",
 } as const satisfies AllAboutAlanTopic
