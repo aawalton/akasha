@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATAHIrdAAIBiBRNC4RtQs8bUcO61CzutQs7rULO61CzutEEe7UEdvUQR7tJhEx2xEEx1sAAAHN0RAAABNgAAANZABE8AAgHUEgBAGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAcAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwAQGQYQyWeA",
+  "buildHash": "ATAHIsdAAIBiBRNC4RtQs8bUcO61CzutQs7rULO61CzutEEe7UEdvUQR7tJhEx2xEEx1sAAAHN0RAAABNgAAANZABE8AAgHUEgBAGAACQAIAAQAACEAADJwIjAGYABkAJCA4oARDJIHAjEQAwgAAACAMAHJAhAcAABDA4y6Neo7IsSbuHFKx5MsuZNnZ9GnVr2z6FGlTqeKtZY2jsjZ4-uXoGLJC0RNkbp2kSpk79QpgqoSuOsMHDZI2BKlgRgGEChjJoOIEmzgoWMGjh5AiSOkwAQGQYQyWeA",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -12825,7 +12825,8 @@
         "2": 3,
         "3": 4,
         "4": 5,
-        "5": 6
+        "5": 6,
+        "6": 6
       },
       "11": {
         "1": 1,
@@ -15078,7 +15079,8 @@
       "19": 22,
       "20": 23,
       "21": 24,
-      "22": 25
+      "22": 25,
+      "23": 25
     },
     "1160": {
       "1": 1,
