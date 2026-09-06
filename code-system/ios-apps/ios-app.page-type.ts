@@ -16,6 +16,7 @@ import type { MacBuildNumberFile } from "./properties/mac-build-number-file.text
 import type { MacWwwStagingRel } from "./properties/mac-www-staging-rel.text-property.ts"
 import type { MarketingVersion } from "./properties/marketing-version.text-property.ts"
 import type { NativeShellRepoPath } from "./properties/native-shell-repo-path.text-property.ts"
+import type { ProgramSlugs } from "./properties/program-slugs.relation-property.ts"
 import type { SpaSourcePath } from "./properties/spa-source-path.text-property.ts"
 import type { StageScript } from "./properties/stage-script.relation-property.ts"
 import type { WebEntry } from "./properties/web-entry.file-property.ts"
@@ -40,6 +41,7 @@ export type IosApp = WorkspacePackage & {
   macWwwStagingRel?: MacWwwStagingRel
   marketingVersion: MarketingVersion
   nativeShellRepoPath?: NativeShellRepoPath
+  programSlugs?: ProgramSlugs
   spaSourcePath?: SpaSourcePath
   stageScript?: StageScript
   webEntry?: WebEntry
@@ -65,6 +67,7 @@ export const iosApp = {
     "module/app-building",
     "named-file-property/git-ignore",
     "relation-property/build-script",
+    "relation-property/program-slugs",
     "relation-property/stage-script",
     "shell-script/build-sim",
     "shell-script/build-stamp",
@@ -106,6 +109,7 @@ export const iosApp = {
     { pagePropertySlug: "text-property/mac-www-staging-rel", required: false, many: false },
     { pagePropertySlug: "text-property/marketing-version", required: true, many: false },
     { pagePropertySlug: "text-property/native-shell-repo-path", required: false, many: false },
+    { pagePropertySlug: "relation-property/program-slugs", required: false, many: true, max: null },
     { pagePropertySlug: "text-property/spa-source-path", required: false, many: false },
     { pagePropertySlug: "relation-property/stage-script", required: false, many: false },
     { pagePropertySlug: "file-property/web-entry", required: false, many: false },
@@ -120,7 +124,7 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "The programs an app builds are among its parts.",
+      statement: "The programs an app builds are the ones its page names.",
     },
     {
       invariantKind: "departure",
@@ -136,7 +140,7 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "The config Capacitor reads is made from the one sitting beside the page.",
+      statement: "The config Capacitor reads is made from the config file beside the page.",
     },
     {
       invariantKind: "gap",

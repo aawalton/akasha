@@ -22,6 +22,11 @@ export const alanwalton = {
   macWwwStagingRel: ".testflight-www-staging",
   marketingVersion: "1.0",
   nativeShellRepoPath: "akasha:code-system/ios-apps/pages/alanwalton",
+  programSlugs: [
+    "ios-program/alanwalton-app",
+    "ios-program/alanwalton-decode-harness",
+    "ios-program/alanwalton-widget",
+  ],
   spaSourcePath: "alan/web-capacitor",
   stageScript: "shell-script/alanwalton-stage-app",
   webEnvPath: "alan/web/.env.local",

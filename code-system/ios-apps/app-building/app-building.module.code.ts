@@ -10,8 +10,6 @@ export const SHARED_PATHS: readonly string[] = [
   "code-system/ios-programs/pages",
 ]
 
-const PROGRAM = "ios-program/"
-
 const COMPONENT = "ios-component/"
 
 const SUFFIX = ".ios-component.swift.swift"
@@ -76,7 +74,7 @@ function exportsOf(app: Value, shipped: Value, hosting: Value): readonly string[
 type Programs = { readonly shipped: Value; readonly hosting: Value } | { readonly why: string }
 
 function programsOf(root: string, app: Value, appSlug: string): Programs {
-  const named = listAt(app, "partSlugs").filter((one) => one.startsWith(PROGRAM))
+  const named = listAt(app, "programSlugs")
   const held: Value[] = []
   for (const one of named) {
     const page = pageOf(root, "ios-program", slugOf(one))

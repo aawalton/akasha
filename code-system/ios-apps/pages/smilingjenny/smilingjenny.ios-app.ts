@@ -18,6 +18,11 @@ export const smilingjenny = {
   macBuildNumberFile: "$HOME/.appstoreconnect/testflight-build-number-smilingjenny",
   marketingVersion: "1.0",
   nativeShellRepoPath: "akasha:code-system/ios-apps/pages/smilingjenny",
+  programSlugs: [
+    "ios-program/smilingjenny-app",
+    "ios-program/smilingjenny-decode-harness",
+    "ios-program/smilingjenny-widget",
+  ],
   webEntry: "html",
   widgetBundleId: "me.smilingjenny.app.widgets",
   widgetProfileName: "smilingjenny widget App Store",
