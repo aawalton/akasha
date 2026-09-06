@@ -1,0 +1,17 @@
+diff --git a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+index 790535fdef85024dca1b2d8fb38e53bf062af45c..69ab193f2bc81174b5b2b681fdb387a8924bc461 100644
+--- a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
++++ b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
+@@ -9,7 +9,11 @@ export const supervisorLogSweeping = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every supervisor keeps a directory named for its agent, holding its socket.",
++      statement: "Every supervisor keeps a directory named for its agent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A supervisor's directory holds that supervisor's socket.",
+     },
+     {
+       invariantKind: "departure",
