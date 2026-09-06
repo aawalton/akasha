@@ -56,3 +56,41 @@ index aa6c3f1a9b4e5531dbfcce9492afe31181ed53c3..6af953b78b9ff79101fae2fdb5e673ed
  }
  
  export function filedValue(
+diff --git a/pages/file-body/page-file-body.module.ts b/pages/file-body/page-file-body.module.ts
+index 43cc6f0c22f61ad763a3686c91e671b0cf0763d8..64cc4d3c5f2224b2faca62b65a7a6d14b067ff9c 100644
+--- a/pages/file-body/page-file-body.module.ts
++++ b/pages/file-body/page-file-body.module.ts
+@@ -38,13 +38,22 @@ export const pageFileBody = {
+       invariantKind: "departure",
+       statement: "A body read here is answered in place of the ending stated.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A body is read as the bytes on disk before any decoding is chosen.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body is decoded as text only where the caller asks for text.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A property's body may be kept in the numbered files beside the page.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The numbered files of one property are joined in the order they are numbered.",
++      statement:
++        "The numbered files of one property are joined in the order those files are numbered.",
+     },
+     {
+       invariantKind: "departure",
+@@ -58,9 +67,5 @@ export const pageFileBody = {
+       invariantKind: "absence",
+       statement: "Nothing here writes.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "A body that is not text reads as the replacement character.",
+-    },
+   ],
+ } as const satisfies Module
