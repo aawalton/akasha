@@ -1,0 +1,166 @@
+runsChecks: false
+runsWarrants: false
+diff --git a/alan/fitness/commands/package.json b/alan/fitness/commands/package.json
+index d87bc391a9bb3957b5b49c2e121dbb8b97c0329d..e33dcb7f222b68da61df20ec794250e83bf0626a 100644
+--- a/alan/fitness/commands/package.json
++++ b/alan/fitness/commands/package.json
+@@ -10,7 +10,7 @@
+     "@akasha/indexes": "workspace:*",
+     "@akasha/named-for": "workspace:*",
+     "@akasha/pages": "workspace:*",
+-    "@akasha/pages-system-service": "workspace:*",
++    "@akasha/pages-service": "workspace:*",
+     "@akasha/session-planning": "workspace:*"
+   }
+ }
+diff --git a/alan/fitness/exercise-access/package.json b/alan/fitness/exercise-access/package.json
+index b79ce15dd7a30952cbb754dd4c4447a8a517c023..5871867509294c35e1afbcc1a585c5c82a91874b 100644
+--- a/alan/fitness/exercise-access/package.json
++++ b/alan/fitness/exercise-access/package.json
+@@ -36,7 +36,7 @@
+     "@akasha/day": "workspace:*",
+     "@akasha/indexes": "workspace:*",
+     "@akasha/pages": "workspace:*",
+-    "@akasha/pages-system-service": "workspace:*",
++    "@akasha/pages-service": "workspace:*",
+     "zod": "^4.3.6"
+   }
+ }
+diff --git a/alan/library/book-of-everything/commands/package.json b/alan/library/book-of-everything/commands/package.json
+index d79828f709b98398745098d00c6e572e91c33fd4..e18a184df5b1e200dd679683c7e5c6cc6132e194 100644
+--- a/alan/library/book-of-everything/commands/package.json
++++ b/alan/library/book-of-everything/commands/package.json
+@@ -8,6 +8,6 @@
+     "@akasha/command-system": "workspace:*",
+     "@akasha/indexes": "workspace:*",
+     "@akasha/pages": "workspace:*",
+-    "@akasha/pages-system-service": "workspace:*"
++    "@akasha/pages-service": "workspace:*"
+   }
+ }
+diff --git a/alan/music/commands/package.json b/alan/music/commands/package.json
+index 5a14f6cd0c638783d1fe6dcd1205211b840209f7..c768e83e973d8e845ed8c4b81dec076dd933a091 100644
+--- a/alan/music/commands/package.json
++++ b/alan/music/commands/package.json
+@@ -10,7 +10,7 @@
+     "@akasha/indexes": "workspace:*",
+     "@akasha/music-choosing": "workspace:*",
+     "@akasha/pages": "workspace:*",
+-    "@akasha/pages-system-service": "workspace:*",
++    "@akasha/pages-service": "workspace:*",
+     "@akasha/spotify": "workspace:*",
+     "@akasha/utils-sync": "workspace:*"
+   }
+diff --git a/alan/web/package.json b/alan/web/package.json
+index 9f6e45ccb53bf2dbb7ca3501f42c8bfb93a77d42..5346197e221800ff9bcf6d257e5f5b2e34918d3b 100644
+--- a/alan/web/package.json
++++ b/alan/web/package.json
+@@ -55,7 +55,7 @@
+     "@akasha/object-store": "workspace:*",
+     "@akasha/pages-access": "workspace:*",
+     "@akasha/pages-core": "workspace:*",
+-    "@akasha/pages-system-service": "workspace:*",
++    "@akasha/pages-service": "workspace:*",
+     "@akasha/pages-ui": "workspace:*",
+     "@akasha/pages-ui-components": "workspace:*",
+     "@akasha/pages-ui-store": "workspace:*",
+diff --git a/changes/workflow-language/package.json b/changes/workflow-language/package.json
+index e043efa85013a384df70d65f8223c86c1ce83c42..c13b221d4c6cb1e210a8fae3bce4ee73f2abab7a 100644
+--- a/changes/workflow-language/package.json
++++ b/changes/workflow-language/package.json
+@@ -30,7 +30,7 @@
+     "@akasha/indexes": "workspace:*",
+     "@akasha/k8s-synth": "workspace:*",
+     "@akasha/pages": "workspace:*",
+-    "@akasha/pages-system-service": "workspace:*",
++    "@akasha/pages-service": "workspace:*",
+     "zod": "^4.3.6"
+   }
+ }
+diff --git a/health-samples-access/package.json b/health-samples-access/package.json
+index 488ba480989f9dc6ea1c7572593674f6bd8e94f9..73c9de07a718c3e8bfad77bd5a2a46b116215fd4 100644
+--- a/health-samples-access/package.json
++++ b/health-samples-access/package.json
+@@ -11,6 +11,6 @@
+   "dependencies": {
+     "@akasha/day": "workspace:*",
+     "@akasha/pages": "workspace:*",
+-    "@akasha/pages-system-service": "workspace:*"
++    "@akasha/pages-service": "workspace:*"
+   }
+ }
+diff --git a/package.json b/package.json
+index fb8d0da54604090fdeab7f96336f481bf543c710..873e49daf410c0d9c5580a2d3b681977fc48a4fb 100644
+--- a/package.json
++++ b/package.json
+@@ -6,6 +6,7 @@
+     "**"
+   ],
+   "dependencies": {
++    "@akasha/pages-system-service": "workspace:@akasha/pages-service@*",
+     "@akasha/analysis-complexity": "workspace:*",
+     "@akasha/browser-launch-env": "workspace:*",
+     "@akasha/browser-test-harness": "workspace:*",
+diff --git a/pages/access/package.json b/pages/access/package.json
+index 692e6a2eb909ea5a8147470e0fd773fcac04120f..0be83de5492e8c40c71d9e08228cf4f5ec2faddd 100644
+--- a/pages/access/package.json
++++ b/pages/access/package.json
+@@ -32,7 +32,7 @@
+     "@akasha/named-for": "workspace:*",
+     "@akasha/pages-url": "workspace:*",
+     "@akasha/file-page-identity": "workspace:*",
+-    "@akasha/pages-system-service": "workspace:*",
++    "@akasha/pages-service": "workspace:*",
+     "@akasha/utils-narrow": "workspace:*",
+     "zod": "^4.3.6"
+   }
+diff --git a/pages/system-service/package.json b/pages/system-service/package.json
+index b8490560187722c638f308df1cf70c51a791bf28..29fe6ae993d6fd29a458d8d08622c5435735f3ed 100644
+--- a/pages/system-service/package.json
++++ b/pages/system-service/package.json
+@@ -1,5 +1,5 @@
+ {
+-  "name": "@akasha/pages-system-service",
++  "name": "@akasha/pages-service",
+   "private": true,
+   "type": "module",
+   "exports": {
+diff --git a/person-system/package.json b/person-system/package.json
+index e55ea4d66faf4792c0e7e8bd635d95e4013288b9..900b52135aaf8750a668af596ca27ac1fcab6e84 100644
+--- a/person-system/package.json
++++ b/person-system/package.json
+@@ -20,7 +20,7 @@
+   },
+   "dependencies": {
+     "@akasha/health-samples-access": "workspace:*",
+-    "@akasha/pages-system-service": "workspace:*",
++    "@akasha/pages-service": "workspace:*",
+     "@akasha/pages-url": "workspace:*",
+     "@akasha/supabase-auth": "workspace:*",
+     "@akasha/utils-narrow": "workspace:*",
+diff --git a/readout-system/package.json b/readout-system/package.json
+index bce37e936639a69688354bb685485086cd9a0122..2d0b359c96217bbae3b5f7331c176701d786c2ad 100644
+--- a/readout-system/package.json
++++ b/readout-system/package.json
+@@ -31,7 +31,7 @@
+     "./readout-tier": "./readout-tier/readout-tier.module.code.ts"
+   },
+   "dependencies": {
+-    "@akasha/pages-system-service": "workspace:*",
++    "@akasha/pages-service": "workspace:*",
+     "zod": "^4.3.6"
+   },
+   "peerDependencies": {
+diff --git a/temper/temper-watcher/package.json b/temper/temper-watcher/package.json
+index 772611a163db36b4f8622f398984d2f6fe4b3c00..131b167a2613074c02208ea22d41c722bf37a35a 100644
+--- a/temper/temper-watcher/package.json
++++ b/temper/temper-watcher/package.json
+@@ -66,7 +66,7 @@
+     "@akasha/pages-core": "workspace:*",
+     "@akasha/pages-query": "workspace:*",
+     "@akasha/pages": "workspace:*",
+-    "@akasha/pages-system-service": "workspace:*",
++    "@akasha/pages-service": "workspace:*",
+     "@akasha/recurrence": "workspace:*",
+     "@akasha/temper-addon-generators": "workspace:*",
+     "@akasha/temper-build-codec": "workspace:*",
