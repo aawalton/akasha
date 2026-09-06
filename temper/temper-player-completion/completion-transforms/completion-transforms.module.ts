@@ -18,7 +18,7 @@ export const completionTransforms = {
     },
     {
       invariantKind: "departure",
-      statement: "The roster size counts an unmeasured row beside a measured one.",
+      statement: "The roster size counts an unmeasured row beside a measured row.",
     },
     {
       invariantKind: "departure",
