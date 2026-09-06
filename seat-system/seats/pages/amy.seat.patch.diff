@@ -66,37 +66,6 @@ index a2657f6b6afa52df04ad3f4467515cefc5a3a5d9..c2dc916f78b3371027323c82f78927dd
 +  expect(anyLiveShell(gone)).toBe(false)
 +  expect(anyLiveSubagent(gone)).toBe(false)
 +})
-diff --git a/seat-system/seat-turn/turn-working/turn-working.module.ts b/seat-system/seat-turn/turn-working/turn-working.module.ts
-index 5cfa8eafa722c32c87680f4686069ee01e2dbe86..0f03b947b15afa3aff1023e22d0eabd0a64ae08c 100644
---- a/seat-system/seat-turn/turn-working/turn-working.module.ts
-+++ b/seat-system/seat-turn/turn-working/turn-working.module.ts
-@@ -92,6 +92,26 @@ export const turnWorking = {
-       invariantKind: "gap",
-       statement: "A task in a replaced transcript is live to nothing here.",
-     },
-+    {
-+      invariantKind: "departure",
-+      statement: "A task runs inside the client the transcript belongs to.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A client spawned in place of an earlier client runs no task already open.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "The client running a task writes what closes the task in the transcript.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A client replaced while a task was open writes nothing closing the task.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "The byte the transcript was read to survives the open tasks being taken away.",
-+    },
-     {
-       invariantKind: "absence",
-       statement: "No hook is asked for a seat's turn state or live tasks.",
 diff --git a/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts b/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts
 index 0afbf36f0c5e64eaea300ef7e985736f61304443..d7e38f649b2874f38edd0f624b968e753ea93615 100644
 --- a/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts
