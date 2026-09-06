@@ -167,18 +167,185 @@ index 0000000000000000000000000000000000000000..43c1e176c6b4b0c631252591fb0b4ca5
 +  ],
 +} as const satisfies ContextWarrant
 diff --git a/context/warrants/context-warrant.page-type.ts b/context/warrants/context-warrant.page-type.ts
-index 2297b439f1596d6c9d80ffc75de490464c1eec92..2c48170cce757f8cc527c8618c68894f2510bb80 100644
+index 2297b439f1596d6c9d80ffc75de490464c1eec92..229c4979c52caef9abce2736aa8a03089bd114e3 100644
 --- a/context/warrants/context-warrant.page-type.ts
 +++ b/context/warrants/context-warrant.page-type.ts
-@@ -38,7 +38,7 @@ export const contextWarrant = {
+@@ -36,9 +36,8 @@ export const contextWarrant = {
+     "context-warrant/persona-itself",
+     "context-warrant/persona-page-type",
      "context-warrant/role-itself",
-     "context-warrant/role-page-type",
+-    "context-warrant/role-page-type",
      "context-warrant/agent-akasha",
 -    "context-warrant/subagent-role",
 +    "context-warrant/agent-role",
    ],
    extendsSlug: ["page-type/module"],
    loadedBySlug: "module/warranting",
+diff --git a/context/warrants/role-page-type/role-page-type.context-warrant.code.ts b/context/warrants/role-page-type/role-page-type.context-warrant.code.ts
+deleted file mode 100644
+index e9bb091375b9dabc65c2d074351ec888607f1088..0000000000000000000000000000000000000000
+--- a/context/warrants/role-page-type/role-page-type.context-warrant.code.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import { listedAt } from "@akasha/indexes"
+-import { slugStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
+-import type { Knowing, Warrant } from "../../modules/warranting/warranting.module.code.ts"
+-import { filePageType } from "../file-page-type/file-page-type.context-warrant.code.ts"
+-
+-export const ROLE_TYPE =
+-  "A seat answers for the role it states, and what every role is held to is read before the seat is changed."
+-
+-const ROLE = "role"
+-
+-const KEY = "roleSlug"
+-
+-export function rolePageType(root: string, path: string, knowing: Knowing): readonly Warrant[] {
+-  const slug = slugStated(root, path, KEY)
+-  if (slug === null) return []
+-  const listed = listedAt(root, ROLE, slug)[0]
+-  if (listed === undefined) return []
+-  return filePageType(root, listed.path, knowing).map((one) => ({ ...one, owed: ROLE_TYPE }))
+-}
+diff --git a/context/warrants/role-page-type/role-page-type.context-warrant.test.ts b/context/warrants/role-page-type/role-page-type.context-warrant.test.ts
+deleted file mode 100644
+index a4eabda1ed5824fc864715db57bfec18ce183a5a..0000000000000000000000000000000000000000
+--- a/context/warrants/role-page-type/role-page-type.context-warrant.test.ts
++++ /dev/null
+@@ -1,96 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import { rmSync } from "node:fs"
+-import { join } from "node:path"
+-import { recordRead } from "@akasha/command-system/reading"
+-import { scratchWorld } from "@akasha/command-system/scratching"
+-import { writing } from "@akasha/command-system/scratching/testing"
+-import {
+-  knowingIn,
+-  unreadIn,
+-  type Warrant,
+-} from "../../modules/warranting/warranting.module.code.ts"
+-import {
+-  pageTypeListed,
+-  pathsOf,
+-  roleListed,
+-  seatListed,
+-  warrantsSeeded,
+-} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+-import { ROLE_TYPE, rolePageType } from "./role-page-type.context-warrant.code.ts"
+-
+-const scratch = scratchWorld()
+-
+-afterAll(scratch.sweep)
+-
+-const AGENT = "01a0596c-0000-7000-8000-000000000005"
+-
+-function typeWorld(root: string): readonly string[] {
+-  const page = pageTypeListed(root, "page", [])
+-  const role = pageTypeListed(root, "role", ["page"])
+-  return [role, page]
+-}
+-
+-function warrantsAt(root: string, path: string): readonly Warrant[] {
+-  return rolePageType(root, path, knowingIn(root))
+-}
+-
+-test("a seat warrants the type of the role it states, and every type that one extends", () => {
+-  const root = scratch.rootFor("akasha-role-page-type-")
+-  const chain = typeWorld(root)
+-  roleListed(root, "definer")
+-  const at = seatListed(root, "one", `roleSlug: "definer"`)
+-  expect(pathsOf(warrantsAt(root, at))).toEqual(chain)
+-})
+-
+-test("a warrant says the seat is what owes the type", () => {
+-  const root = scratch.rootFor("akasha-role-page-type-")
+-  typeWorld(root)
+-  roleListed(root, "definer")
+-  const at = seatListed(root, "one", `roleSlug: "definer"`)
+-  expect(warrantsAt(root, at)[0]?.owed).toBe(ROLE_TYPE)
+-})
+-
+-test("a seat stating no role warrants no type", () => {
+-  const root = scratch.rootFor("akasha-role-page-type-")
+-  typeWorld(root)
+-  roleListed(root, "definer")
+-  const at = seatListed(root, "one", `personaSlug: "akasha"`)
+-  expect(pathsOf(warrantsAt(root, at))).toEqual([])
+-})
+-
+-test("a role whose page cannot be found warrants no type", () => {
+-  const root = scratch.rootFor("akasha-role-page-type-")
+-  typeWorld(root)
+-  roleListed(root, "definer")
+-  const at = seatListed(root, "one", `roleSlug: "ghost"`)
+-  expect(pathsOf(warrantsAt(root, at))).toEqual([])
+-})
+-
+-test("only a seat warrants the type of a role", () => {
+-  const root = scratch.rootFor("akasha-role-page-type-")
+-  typeWorld(root)
+-  const at = roleListed(root, "definer").path
+-  expect(pathsOf(warrantsAt(root, at))).toEqual([])
+-})
+-
+-test("a type whose page is not there warrants nothing of itself", () => {
+-  const root = scratch.rootFor("akasha-role-page-type-")
+-  const chain = typeWorld(root)
+-  roleListed(root, "definer")
+-  const at = seatListed(root, "one", `roleSlug: "definer"`)
+-  rmSync(join(root, chain[0] ?? ""))
+-  expect(pathsOf(warrantsAt(root, at))).toEqual([])
+-})
+-
+-test("a type not read is refused, and the refusal says the seat owes it", () => {
+-  const root = scratch.rootFor("akasha-role-page-type-")
+-  warrantsSeeded(root, ["role-page-type"])
+-  const chain = typeWorld(root)
+-  roleListed(root, "definer")
+-  const at = seatListed(root, "one", `roleSlug: "definer"`)
+-  const oid = writing(root, at, `export const one = { roleSlug: "definer" }\n`)
+-  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
+-  const said = unreadIn(root, AGENT, [at])
+-  expect(said.length).toBe(chain.length)
+-  expect(said[0]).toContain(ROLE_TYPE)
+-})
+diff --git a/context/warrants/role-page-type/role-page-type.context-warrant.ts b/context/warrants/role-page-type/role-page-type.context-warrant.ts
+deleted file mode 100644
+index 110811a37e2043592f70fa184cbe83d47110435b..0000000000000000000000000000000000000000
+--- a/context/warrants/role-page-type/role-page-type.context-warrant.ts
++++ /dev/null
+@@ -1,32 +0,0 @@
+-import type { ContextWarrant } from "../context-warrant.page-type.ts"
+-
+-export const rolePageType = {
+-  id: "01a0582e-282a-7914-bdb9-711e7cd50c68",
+-  pageTypeSlug: "context-warrant",
+-  slug: "role-page-type",
+-  definition: "what a seat must read for the type of the role it states",
+-  code: "ts",
+-  test: "ts",
+-  runsOnRead: true,
+-  runsOnWrite: true,
+-  transitive: false,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat warrants the type of the role the seat states.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A seat warrants no type that the type of the role the seat states extends.",
+-    },
+-
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat stating no role warrants no type.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A role whose page cannot be found warrants no type.",
+-    },
+-  ],
+-} as const satisfies ContextWarrant
 diff --git a/context/warrants/subagent-role/subagent-role.context-warrant.code.ts b/context/warrants/subagent-role/subagent-role.context-warrant.code.ts
 deleted file mode 100644
 index 7fe5692f6251a2bc23fa866e2093f997402e76df..0000000000000000000000000000000000000000
