@@ -1,8 +1,8 @@
 diff --git a/seat-system/seat-page-beat/seat-page-beat.module.ts b/seat-system/seat-page-beat/seat-page-beat.module.ts
-index 779ef98a27bdf301aef5615d3fdbad2fee10e12e..da30ce9260a38bb21c5a490208100b47ab2b6c27 100644
+index 779ef98a27bdf301aef5615d3fdbad2fee10e12e..5a6e6e7523767be11fdb5ffbc5fa725d3da8b08c 100644
 --- a/seat-system/seat-page-beat/seat-page-beat.module.ts
 +++ b/seat-system/seat-page-beat/seat-page-beat.module.ts
-@@ -9,7 +9,8 @@ export const seatPageBeat = {
+@@ -9,11 +9,13 @@ export const seatPageBeat = {
    invariants: [
      {
        invariantKind: "departure",
@@ -12,3 +12,9 @@ index 779ef98a27bdf301aef5615d3fdbad2fee10e12e..da30ce9260a38bb21c5a490208100b47
      },
      {
        invariantKind: "gap",
+-      statement: "A write that cannot await runs this as a program rather than calling it.",
++      statement:
++        "A write that cannot await runs this module as a program rather than calling this module.",
+     },
+     {
+       invariantKind: "departure",
