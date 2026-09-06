@@ -1,9 +1,10 @@
+import type { Domain } from "../../domains/domain.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
 import type { ReadersOweReading } from "./properties/readers-owe-reading.boolean-property.ts"
 import type { RunsChecks } from "./properties/runs-checks.boolean-property.ts"
 import type { WriterOwesReading } from "./properties/writer-owes-reading.boolean-property.ts"
 
-export type ChangeKind = PageType & {
+export type ChangeKind = Domain & {
   runsChecks: RunsChecks
   writerOwesReading: WriterOwesReading
   readersOweReading: ReadersOweReading
@@ -25,7 +26,7 @@ export const changeKind = {
     "boolean-property/runs-checks",
     "boolean-property/writer-owes-reading",
   ],
-  extendsSlug: ["page-type/page-type"],
+  extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
     { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },

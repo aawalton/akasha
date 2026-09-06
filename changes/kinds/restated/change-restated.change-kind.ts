@@ -13,7 +13,6 @@ export const changeRestated = {
   slug: "change-restated",
   definition: "a change saying what a page already said in other words",
   pluralSlug: "change-restated",
-  extendsSlug: ["page-type/change"],
   runsChecks: true,
   writerOwesReading: true,
   readersOweReading: false,

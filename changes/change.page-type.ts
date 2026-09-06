@@ -24,6 +24,7 @@ export const change = {
   partSlugs: [
     "page-type/change-partial",
     "page-type/change-command",
+    "page-type/change-checked",
     "page-type/change-runner",
     "page-type/workflow-template",
     "page-type/change-kind",

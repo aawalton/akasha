@@ -1,4 +1,7 @@
 export type Changes = {
+  "change-checked/change-page-page-type": Parameters<
+    typeof import("../../../checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts")["runChange"]
+  >[1]
   "change-command/add-file": Parameters<
     typeof import("../../../command/pages/add-file/add-file.change-command.code.ts")["runChange"]
   >[1]

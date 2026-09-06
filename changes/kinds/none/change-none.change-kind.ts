@@ -13,7 +13,6 @@ export const changeNone = {
   slug: "change-none",
   definition: "an act that edits nothing",
   pluralSlug: "change-none",
-  extendsSlug: ["page-type/change"],
   runsChecks: false,
   writerOwesReading: false,
   readersOweReading: false,
