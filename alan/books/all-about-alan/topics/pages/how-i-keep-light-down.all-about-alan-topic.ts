@@ -9,6 +9,4 @@ export const howIKeepLightDown = {
   parentSlugs: ["what-my-senses-cost-me"],
   settled:
     "The cost is a drain on my capacity rather than pain, and the squinting comes after it.\n\nThe indoor lever is on or off. Nothing I have dims.",
-  unsettled:
-    "Nothing anchors the rate. No sunglasses-on against sunglasses-off comparison has been run.\n\nIndoor sunglasses are considered and not used, and what blocks the choice is unnamed.\n\nMy brightness rules run on the clock, in the bath as well as at a screen. Whether the hour is the real driver, or stands in for circadian arousal, ambient light or the visual fatigue built up by then, is untested.",
 } as const satisfies AllAboutAlanTopic
