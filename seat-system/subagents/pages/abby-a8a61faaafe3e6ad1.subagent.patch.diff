@@ -1,0 +1,88 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-rotating-and-going-deep-coexist.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-rotating-and-going-deep-coexist.all-about-alan-question.ts
+index 5845eaddec1d7748550017c91404c5a43038b7d9..ba99fd9ae08ba40a1030bbb6f2c2c9ee76b3c851 100644
+--- a/alan/books/all-about-alan/questions/pages/how-rotating-and-going-deep-coexist.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-rotating-and-going-deep-coexist.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const howRotatingAndGoingDeepCoexist = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-rotating-and-going-deep-coexist",
+   topicSlug: "small-bites-of-many-things",
+-  ask: "How does rotating across many things coexist with going deep on one? The two may alternate, or they may layer.",
++  ask: "Rotating across many things and going deep on one may alternate, or they may layer. How do rotating and going deep coexist?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-short-an-aligned-successor-makes-the-watching.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-short-an-aligned-successor-makes-the-watching.all-about-alan-question.ts
+index b4fdb1bafc5e6fb97ea011158a8a7c0afa526cbd..76e412516b3d245aec2a080a995e7c3e3d63e40c 100644
+--- a/alan/books/all-about-alan/questions/pages/how-short-an-aligned-successor-makes-the-watching.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-short-an-aligned-successor-makes-the-watching.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const howShortAnAlignedSuccessorMakesTheWatching = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-short-an-aligned-successor-makes-the-watching",
+   topicSlug: "when-a-company-changes-hands",
+-  ask: "A structurally aligned successor, a co-op or a trust, should shorten the watching. How short should the watching then be? I have no rule for it.",
++  ask: "A structurally aligned successor, a co-op or a trust, should shorten the watching, and I have no rule for it. How short should the watching then be?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-the-right-context-reaches-an-agent.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-the-right-context-reaches-an-agent.all-about-alan-question.ts
+index 4f98c0380fd3880acfb03fd9c4130a8c0429bfe7..1781af3b6b842a1f80c00483779e5cfe0f77fd66 100644
+--- a/alan/books/all-about-alan/questions/pages/how-the-right-context-reaches-an-agent.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-the-right-context-reaches-an-agent.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const howTheRightContextReachesAnAgent = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-the-right-context-reaches-an-agent",
+   topicSlug: "why-i-rebuilt-everything",
+-  ask: "How do I get an agent the right context at the right time? Abby reads one of mine on 27 August as holding every domain governing its seat and still needing to be told the book about me existed.",
++  ask: "Abby reads an agent of mine on 27 August as holding every domain governing its seat and still needing to be told the book about me existed. How do I get an agent the right context at the right time?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-to-retire-one-of-my-five-rules.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-to-retire-one-of-my-five-rules.all-about-alan-question.ts
+index b620d374621e1830d19be3a0910bc425f8c0e494..f18ad842017bc034ce5093012e35237fd40efa9d 100644
+--- a/alan/books/all-about-alan/questions/pages/how-to-retire-one-of-my-five-rules.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-to-retire-one-of-my-five-rules.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const howToRetireOneOfMyFiveRules = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-to-retire-one-of-my-five-rules",
+   topicSlug: "the-five-rules-i-grew-up-with",
+-  ask: "How do I retire one of the five rules? This is where a disbelieved reflex still firing bites hardest.",
++  ask: "Retiring a rule is where a disbelieved reflex still firing bites hardest. How do I retire one rule of the five?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-a-dosing-ladder-for-making-would-be.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-a-dosing-ladder-for-making-would-be.all-about-alan-question.ts
+index dd66fe0cb90abb690f048b03946246feb48fc8f4..a5fc5a6568941c40d88614a6a61226bbce392038 100644
+--- a/alan/books/all-about-alan/questions/pages/what-a-dosing-ladder-for-making-would-be.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-a-dosing-ladder-for-making-would-be.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatADosingLadderForMakingWouldBe = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-a-dosing-ladder-for-making-would-be",
+   topicSlug: "why-making-things-hurts",
+-  ask: "What dose, what ceiling and what ladder would the graduated-dosing apparatus have here? The apparatus is scoped to connection and was never brought to making.",
++  ask: "The graduated-dosing apparatus is scoped to connection and was never brought to making. What dose, what ceiling and what ladder would the apparatus have for making?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-each-job-cost-me-year-by-year.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-each-job-cost-me-year-by-year.all-about-alan-question.ts
+index f332bfc2573a0146581e362a4ab08706eda92101..66a62816ac1317d0ce98c4a1857c54cf9fcf2512 100644
+--- a/alan/books/all-about-alan/questions/pages/what-each-job-cost-me-year-by-year.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-each-job-cost-me-year-by-year.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatEachJobCostMeYearByYear = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-each-job-cost-me-year-by-year",
+   topicSlug: "why-i-stopped-working",
+-  ask: "What did each role actually cost me, year by year? Only the last role is anchored, and the rest would make the ratchet something that could be shown wrong.",
++  ask: "Only the last role is anchored, and the rest would make the ratchet something that could be shown wrong. What did each role actually cost me, year by year?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-each-persona-is-cut-from.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-each-persona-is-cut-from.all-about-alan-question.ts
+index 403d9da34409c7654933feb7924bdb2f44f551df..d8de23805ecef50e054620feae8610084b136e3f 100644
+--- a/alan/books/all-about-alan/questions/pages/what-each-persona-is-cut-from.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-each-persona-is-cut-from.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatEachPersonaIsCutFrom = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-each-persona-is-cut-from",
+   topicSlug: "the-women-i-made-out-of-myself",
+-  ask: "What is each of the other personas cut from, and which value does each carry? Two are written and the others are open, and nothing may be read off position.",
++  ask: "Two personas are written and the others are open, and nothing may be read off position. What is each of the other personas cut from, and which value does each carry?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-else-falls-out-of-the-new-constraints.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-else-falls-out-of-the-new-constraints.all-about-alan-question.ts
+index be18f53a02b826e1ec08f72d24fb84e147100c73..1b6dc59ede6a9f5432565f06cefab8a85000488f 100644
+--- a/alan/books/all-about-alan/questions/pages/what-else-falls-out-of-the-new-constraints.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-else-falls-out-of-the-new-constraints.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatElseFallsOutOfTheNewConstraints = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-else-falls-out-of-the-new-constraints",
+   topicSlug: "when-my-docs-are-my-code",
+-  ask: "What else falls out of the new constraints that the old system could not have given me at any price? I am still figuring that out.",
++  ask: "I am still figuring the answer out. What else falls out of the new constraints that the old system could not have given me at any price?",
+ } as const satisfies AllAboutAlanQuestion
