@@ -21,7 +21,7 @@ export const useDestinationResolver = {
     },
     {
       invariantKind: "departure",
-      statement: "One character may take more than one consumable.",
+      statement: "One character may take several consumables.",
     },
     {
       invariantKind: "departure",
