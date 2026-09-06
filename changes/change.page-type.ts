@@ -39,6 +39,7 @@ export const change = {
     "change/change-file",
     "change/remove-file",
     "change/remove-page",
+    "change/remove-page-type",
     "change/remove-property-value",
     "change/rename-code-token",
     "change/rename-export",

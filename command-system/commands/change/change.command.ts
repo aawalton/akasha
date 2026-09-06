@@ -12,6 +12,7 @@ export const change = {
     { said: "add-file", takes: "the change to run, which writes one body at one path" },
     { said: "change-file", takes: "the change to run, which replaces one passage of one body" },
     { said: "remove-page", takes: "the change to run, which takes one page away" },
+    { said: "remove-page-type", takes: "the change to run, which takes one page type away" },
     { said: "drop", takes: "the act taking away every edit kept beside this agent's page" },
   ],
   helpNotes: [

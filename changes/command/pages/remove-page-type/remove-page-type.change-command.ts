@@ -1,10 +1,10 @@
 import type { ChangeCommand } from "../../change-command.page-type.ts"
 
-export const removePage = {
-  id: "01a0776d-8d1e-7f93-a0e2-4c566d49f8fd",
+export const removePageType = {
+  id: "01a0783a-11c0-7891-a250-63a80bef1c95",
   pageTypeSlug: "change-command",
-  slug: "remove-page",
-  definition: "one page taken away, by the partial change fitting the kind of page named",
+  slug: "remove-page-type",
+  definition: "one page type taken away, by the partial change taking a page type away",
   code: "ts",
   test: "ts",
   isCommand: true,
@@ -22,23 +22,19 @@ export const removePage = {
     },
     {
       invariantKind: "departure",
-      statement: "A page type is refused here.",
+      statement: "A page that is no page type is refused here.",
     },
     {
       invariantKind: "departure",
-      statement: "The refusal for a page type names the change that takes a page type away.",
+      statement: "The refusal for a page that is no page type names the change taking a page away.",
     },
     {
       invariantKind: "departure",
-      statement: "A page that is no page type is handed to the partial change taking a page away.",
+      statement: "A page type is handed to the partial change taking a page type away.",
     },
     {
       invariantKind: "absence",
       statement: "Nothing here works out a body of its own.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A page property goes through the partial for an ordinary page.",
     },
   ],
 } as const satisfies ChangeCommand

@@ -16,6 +16,7 @@ export const changeCommand = {
     "change-command/add-file",
     "change-command/change-file",
     "change-command/remove-page",
+    "change-command/remove-page-type",
   ],
   extendsSlug: ["page-type/change"],
   invariants: [
