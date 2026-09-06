@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/namespaces/namespace.page-type.ts b/command-system/namespaces/namespace.page-type.ts
+index 52467e45898eb095f1db4f4ba0a03e70b9bd3d0b..9514d0f6a5aa5e0b729fd48e2ac72f564e4a7510 100644
+--- a/command-system/namespaces/namespace.page-type.ts
++++ b/command-system/namespaces/namespace.page-type.ts
+@@ -22,7 +22,7 @@ export const namespace = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A namespace under another namespace opens its own slug with that one's and a hyphen.",
++        "A namespace under another namespace opens its own slug with the outer slug and a hyphen.",
+     },
+     {
+       invariantKind: "departure",
