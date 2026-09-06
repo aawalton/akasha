@@ -9,7 +9,7 @@ export const destinationChainTypes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A tier names where the items go and how many the tier takes.",
+      statement: "A tier names where the items go and how many items the tier takes.",
     },
   ],
 } as const satisfies Module
