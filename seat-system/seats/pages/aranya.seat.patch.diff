@@ -57,7 +57,7 @@ index 72c2f8dc7ed85e7c912a5651b9e781a607b199d8..dd45d669293484a93da133bd259f809e
  }
  
 diff --git a/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts b/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts
-index e0339fe70915197f0d3b5b3a6bf77cbc9200184d..42982dbb7a36abd03369ece8613823acdab3d54f 100644
+index e0339fe70915197f0d3b5b3a6bf77cbc9200184d..3ad417596361e5472e7358e8532ff265c8706092 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts
 +++ b/seat-system/subagents/presence/subagent-presence.module.test-fixtures.ts
 @@ -4,7 +4,7 @@ import { writing } from "@akasha/command-system/scratching/testing"
@@ -69,6 +69,43 @@ index e0339fe70915197f0d3b5b3a6bf77cbc9200184d..42982dbb7a36abd03369ece8613823ac
  
  export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
  
+@@ -123,3 +123,36 @@ export function heldUnder(
+ export function heldInHistory(root: string, own: string, agentId: string, kind: string): undefined {
+   heldUnder(root, "akasha", own, agentId, kind)
+ }
++
++export const GOING: Went = { went: true }
++
++export const LOCKED: Went = {
++  why: "another landing has held `.git/akasha-landing.lock` for longer than 120s",
++}
++
++export const REFUSED: Went = { why: "no assignment is stated for the akasha seat" }
++
++// A COUNTING ASK BESIDE A WAIT THAT DOES NOT WAIT. The answers are given in the order they are
++// written and the last is given again for every ask past that list, so a test seeds a run of
++// refusals and reads how many asks it took without a test ever sleeping.
++export function counting(answers: readonly Went[]): {
++  readonly ask: () => Promise<Went>
++  readonly waited: (ms: number) => Promise<void>
++  readonly waits: number[]
++  readonly count: () => number
++} {
++  let asked = 0
++  const waits: number[] = []
++  return {
++    ask: () => {
++      asked += 1
++      return Promise.resolve(answers[Math.min(asked - 1, answers.length - 1)] ?? GOING)
++    },
++    waited: (ms: number) => {
++      waits.push(ms)
++      return Promise.resolve()
++    },
++    waits,
++    count: () => asked,
++  }
++}
 diff --git a/seat-system/subagents/presence/subagent-presence.module.test.ts b/seat-system/subagents/presence/subagent-presence.module.test.ts
 index e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac..7c60c0997f5e6cbd8a8ae1659595f4b32d9e7769 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.test.ts
