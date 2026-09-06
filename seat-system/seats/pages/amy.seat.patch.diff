@@ -1,0 +1,25 @@
+diff --git a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts b/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
+index 8854c0f0d9fde7a456bdbf61d09f50faf9f16eda..59c869db96bfd500b2e2e44bc339ba17722faa31 100644
+--- a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
++++ b/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
+@@ -32,5 +32,20 @@ export const amyAlanHarnessImprovements = {
+       workingMemory:
+         "Alan takes a persona's mobile wallpaper to belong on the persona as a file property, so the route delivering a mobile wallpaper reads that file property rather than resolving a cover image.",
+     },
++    {
++      statement: "A file property holds bytes as well as text.",
++      workingMemory:
++        "`pages/file-body/page-file-body.module.code.ts` reads every file property with readFileSync(path, 'utf8'), so a PNG loses its leading byte to U+FFFD and cannot be recovered. Alan settled that a page property states whether the files that property holds are bytes, as an optional flag beside `machine-written` and `runs-file-length`.",
++    },
++    {
++      statement: "The pages service answers a file property's bytes unchanged.",
++      workingMemory:
++        "The `/read` endpoint decodes through TextDecoder as well, so both roads corrupt. The cluster's page-store is a socat forwarder carrying a pod's request out to the workstation, so a pod already reaches the live checkout; what is missing is a byte-safe answer rather than a road to the files. Two findings say the page store is already over-exposed, so the new answer is narrow.",
++    },
++    {
++      statement: "The route serving Alan's phone reads the persona's mobile wallpaper.",
++      workingMemory:
++        "`mobileWallpaper` is declared and landed. Forty cover pictures are staged outside the checkout at /tmp/amy-tw-f5a66efa/covers, 47 MB, every one checked as a PNG; nova's was a JPEG under a .png key and was drawn again as a PNG. The pictures wait on a byte-safe reader before landing, so that no history is kept for a road that does not work.",
++    },
+   ],
+ } as const satisfies Initiative
