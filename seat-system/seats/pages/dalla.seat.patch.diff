@@ -147,6 +147,25 @@ index 81e7b483c9832e3637c1ecd3de8c14b6fc56734f..266ca1db9888039c3b6906214f47ad0f
      const wanted = known.targetOf(one.propertySlug)
      if (wanted === null) continue
      for (const named of namesIn(one.held)) {
+diff --git a/pages/indexes/relation/index-relation.index.test.ts b/pages/indexes/relation/index-relation.index.test.ts
+index 917eb4b65f11a60d103851cb01f89990d446efff..0895ee8302a67b7ceccfda2305271e8705307735 100644
+--- a/pages/indexes/relation/index-relation.index.test.ts
++++ b/pages/indexes/relation/index-relation.index.test.ts
+@@ -39,6 +39,14 @@ test("a name for a mortal page type files no edge and is not reported", () => {
+   })
+ })
+ 
++test("a page's own page type files no edge, though its property reaches that page type", () => {
++  const value = { id: A, pageTypeSlug: "domain", slug: "a" }
++
++  expect(
++    relationIn(value, "/repo/a.domain.ts", shaped({ "page-type/domain": B }), "/repo")
++  ).toEqual({ entries: [], refused: [] })
++})
++
+ test("a relation nested in a record is filed from the page, and twice over files one edge", () => {
+   const value = {
+     id: A,
 diff --git a/pages/indexes/relation/index-relation.index.ts b/pages/indexes/relation/index-relation.index.ts
 index 9a8a9ffdc2482f79f41084ea8bba2907c2442276..6d9791b9fab1199171a2c298358576ea27dd3598 100644
 --- a/pages/indexes/relation/index-relation.index.ts
