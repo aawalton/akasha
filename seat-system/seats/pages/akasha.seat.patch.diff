@@ -1,5 +1,5 @@
 diff --git a/context/warrants/file-property-file/file-property-file.context-warrant.code.ts b/context/warrants/file-property-file/file-property-file.context-warrant.code.ts
-index 74fc9f126e3ddc61c4b7a376f8f2db621cb6e810..0bb86cddfa07c695164bb5f269cfdb51e8f15c13 100644
+index 74fc9f126e3ddc61c4b7a376f8f2db621cb6e810..b19296a13c2b3bcbcfe21ffd0ef4b14167dd2604 100644
 --- a/context/warrants/file-property-file/file-property-file.context-warrant.code.ts
 +++ b/context/warrants/file-property-file/file-property-file.context-warrant.code.ts
 @@ -1,6 +1,8 @@
@@ -12,6 +12,22 @@ index 74fc9f126e3ddc61c4b7a376f8f2db621cb6e810..0bb86cddfa07c695164bb5f269cfdb51
  import {
    blobAt,
    type Knowing,
+@@ -20,10 +22,11 @@ function pageBeside(path: string, said: Parted, propertySlug: string): string |
+   return besideAt(held, propertySlug, said.held) === path ? held : null
+ }
+ 
+-function propertyOf(root: string, propertySlug: string): Warrant | null {
+-  const said = schemaOf(root, propertySlug)
+-  if ("refused" in said) return null
+-  const listed = listedAt(root, said.schema.pageTypeSlug, propertySlug)[0]
++function propertyOf(root: string, pageType: string, propertySlug: string): Warrant | null {
++  const declared = propertiesIfNamedOf(pageType, root, (at) => valueAt(at, root)) ?? []
++  const under = declared.find((one) => one.pagePropertySlug === propertySlug)
++  if (under === undefined) return null
++  const listed = listedAt(root, under.pageTypeSlug, propertySlug)[0]
+   if (listed === undefined) return null
+   const oid = blobAt(root, listed.path)
+   return oid === null ? null : { path: listed.path, oid, owed: PROPERTY }
 diff --git a/context/warrants/file-property/file-property.context-warrant.code.ts b/context/warrants/file-property/file-property.context-warrant.code.ts
 index e72d70d4cd601d12a20b4e3a8f4c2994d04eea55..be8fc933276134192289e0264cf1384a609042e9 100644
 --- a/context/warrants/file-property/file-property.context-warrant.code.ts
