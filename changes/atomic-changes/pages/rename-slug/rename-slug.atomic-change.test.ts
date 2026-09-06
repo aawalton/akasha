@@ -22,6 +22,14 @@ const WHOLE = `export const held = {
 } as const
 `
 
+const PLURAL = `export const held = {
+  id: "01a04a4a-0000-7000-8000-000000000008",
+  pageTypeSlug: "module",
+  slug: "held",
+  pluralSlug: "helds",
+} as const
+`
+
 const NOTHING = (): null => null
 
 function holding(body: string): (path: string) => string | null {
@@ -126,4 +134,35 @@ test("the bodies are answered rather than written", () => {
   expect(renameSlug(root, { at: HELD_PAGE, to: KEPT }, text).refused).toBe(null)
   expect(text(HELD_PAGE)).toContain(`"slug": "${HELD_SLUG}"`)
   expect(text(NAMER_PAGE)).toContain(`"note": "${HELD_SLUG}"`)
+})
+
+test("a page stating a plural is refused where the plural it becomes is not said", () => {
+  const said = renameSlug(scratch.rootFor("rename-slug-"), { at: PAGE, to: KEPT }, holding(PLURAL))
+  expect(said.bodies).toBe(null)
+  expect(said.refused).toBe(`\`${PAGE}\` states a \`pluralSlug\`, so the plural it becomes is said`)
+})
+
+test("a page stating no plural is refused where one is said", () => {
+  const said = renameSlug(
+    scratch.rootFor("rename-slug-"),
+    { at: PAGE, to: KEPT, plural: "kepts" },
+    holding(WHOLE)
+  )
+  expect(said.bodies).toBe(null)
+  expect(said.refused).toBe(`\`${PAGE}\` states no \`pluralSlug\`, so no plural is said`)
+})
+
+test("the plural is stated anew beside the slug", () => {
+  const root = indexedRepo()
+  const text = textIn(root)
+  const held = (text(HELD_PAGE) ?? "").replace(
+    `"slug": "${HELD_SLUG}",`,
+    `"slug": "${HELD_SLUG}",\n  "pluralSlug": "helds",`
+  )
+  const said = renameSlug(root, { at: HELD_PAGE, to: KEPT, plural: "kepts" }, (path) =>
+    path === HELD_PAGE ? held : text(path)
+  )
+  expect(said.refused).toBe(null)
+  expect(said.bodies?.get(HELD_PAGE)).toContain(`"pluralSlug": "kepts"`)
+  expect(said.bodies?.get(HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
 })

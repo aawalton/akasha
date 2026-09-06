@@ -18,6 +18,10 @@ export const renamePageSlug = {
     },
     {
       invariantKind: "departure",
+      statement: "The plural is handed down to the slug rename rather than worked out here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The slug carried now and the page type are read off the page's own body.",
     },
     {

@@ -48,6 +48,22 @@ export const renameSlug = {
     },
     {
       invariantKind: "departure",
+      statement: "A page carrying a plural is renamed with the plural it becomes said as well.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A plural said of a page carrying none refuses the change.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A plural is stated rather than worked out from the slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The plural is stated by a partial change rather than spliced here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A page whose body exports no name its slug makes is refused as malformed.",
     },
     {
