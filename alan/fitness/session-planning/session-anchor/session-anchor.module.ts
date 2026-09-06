@@ -10,7 +10,8 @@ export const sessionAnchor = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The anchor is the movement of that pattern logged most, not the one scored best.",
+      statement:
+        "The anchor is the movement of that pattern logged most rather than the movement scored best.",
     },
     {
       invariantKind: "departure",
