@@ -11,7 +11,11 @@ export const equipmentAvailable = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A piece Alan means to buy is a page already, and is not available.",
+      statement: "A piece Alan means to buy is a page already.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A piece Alan means to buy is not available.",
     },
   ],
 } as const satisfies BooleanProperty
