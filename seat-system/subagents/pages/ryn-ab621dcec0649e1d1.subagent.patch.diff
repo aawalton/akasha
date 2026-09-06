@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/subagent-sweep/subagent-sweep.command.ts b/command-system/commands/subagent-sweep/subagent-sweep.command.ts
-index 36a6d0864a3131049f80c7205459a9a2c1c50da9..82dc95c150e39208b137e73ae6fd465ccbaf324f 100644
+index 36a6d0864a3131049f80c7205459a9a2c1c50da9..74f5fb5ece3df2fa9cd4e47244bf5fd01bb775a2 100644
 --- a/command-system/commands/subagent-sweep/subagent-sweep.command.ts
 +++ b/command-system/commands/subagent-sweep/subagent-sweep.command.ts
 @@ -29,7 +29,7 @@ export const subagentSweep = {
@@ -18,6 +18,15 @@ index 36a6d0864a3131049f80c7205459a9a2c1c50da9..82dc95c150e39208b137e73ae6fd465c
        invariantKind: "departure",
 -      statement: "A word this takes no flag for refuses the whole run.",
 +      statement: "A word this command takes no flag for refuses the whole run.",
+     },
+     {
+       invariantKind: "departure",
+@@ -65,7 +65,7 @@ export const subagentSweep = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The commit says why each page went, one line for each.",
++      statement: "The commit says why each page went on a line for that page.",
      },
      {
        invariantKind: "departure",
