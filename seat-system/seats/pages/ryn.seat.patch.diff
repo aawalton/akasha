@@ -1,17 +1,22 @@
 diff --git a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
-index 34b9da2cdbb9c3b7eb436257d132438fd930456f..f927695526da6004471f3de47092c884b93cea43 100644
+index 34b9da2cdbb9c3b7eb436257d132438fd930456f..50a1d19c270b0480ddc2c1b6ef17a5d2550f95e9 100644
 --- a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
 +++ b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
-@@ -10,7 +10,11 @@ export const mobilityStanding = {
+@@ -10,11 +10,15 @@ export const mobilityStanding = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "A metric read on each side counts as two, and one read on neither counts as one.",
 +      statement: "A metric read on each side counts as two metrics.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The latest reading of a metric is the one that says its standing.",
++      statement: "A metric read on neither side counts as one metric.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A metric read on neither side counts as one metric.",
++      statement: "The latest reading of a metric is the reading that says the metric's standing.",
      },
      {
        invariantKind: "departure",
