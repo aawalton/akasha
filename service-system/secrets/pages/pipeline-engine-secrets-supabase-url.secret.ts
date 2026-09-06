@@ -7,5 +7,9 @@ export const pipelineEngineSecretsSupabaseUrl = {
   placements: [
     { resourceName: "pipeline-engine-secrets", resourceKey: "SUPABASE_URL" },
     { resourceName: "collections-secrets", resourceKey: "SUPABASE_URL" },
+    { resourceName: "alanwalton-secrets", resourceKey: "SUPABASE_URL" },
+    { resourceName: "temper-secrets", resourceKey: "SUPABASE_URL" },
+    { resourceName: "smilingjenny-secrets", resourceKey: "SUPABASE_URL" },
+    { resourceName: "audhdalan-secrets", resourceKey: "SUPABASE_URL" },
   ],
 } as const satisfies Secret

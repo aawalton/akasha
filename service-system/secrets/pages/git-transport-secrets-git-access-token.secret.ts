@@ -7,5 +7,10 @@ export const gitTransportSecretsGitAccessToken = {
   placements: [
     { resourceName: "git-transport-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
     { resourceName: "pipeline-engine-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
+    { resourceName: "alanwalton-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
+    { resourceName: "temper-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
+    { resourceName: "smilingjenny-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
+    { resourceName: "audhdalan-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
+    { resourceName: "archive-of-worlds-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
   ],
 } as const satisfies Secret

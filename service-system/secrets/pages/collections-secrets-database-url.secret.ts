@@ -7,5 +7,8 @@ export const collectionsSecretsDatabaseUrl = {
   placements: [
     { resourceName: "collections-secrets", resourceKey: "DATABASE_URL" },
     { resourceName: "collections-secrets", resourceKey: "ZERO_UPSTREAM_DB" },
+    { resourceName: "alanwalton-secrets", resourceKey: "DATABASE_URL" },
+    { resourceName: "temper-secrets", resourceKey: "DATABASE_URL" },
+    { resourceName: "temper-secrets", resourceKey: "ZERO_UPSTREAM_DB" },
   ],
 } as const satisfies Secret

@@ -8,5 +8,9 @@ export const pipelineEngineSecretsSupabaseServiceRoleKey = {
     { resourceName: "pipeline-engine-secrets", resourceKey: "ALANWALTON_SERVICE_ROLE_KEY" },
     { resourceName: "pipeline-engine-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },
     { resourceName: "collections-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },
+    { resourceName: "alanwalton-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },
+    { resourceName: "temper-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },
+    { resourceName: "smilingjenny-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },
+    { resourceName: "audhdalan-secrets", resourceKey: "SUPABASE_SERVICE_ROLE_KEY" },
   ],
 } as const satisfies Secret
