@@ -49,7 +49,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is green.",
       workingMemory:
-        "Was the last of the steps taken over each check, split off because a check goes on at patch before the tree reaches zero and so is on while still refusing. Nothing measures greenness per check yet. file-has-its-page is the worked case: 629 tracked files claimed by no page, none of them refused today because patch judges only what a change carries.",
+        "Was the last of the steps taken over each check, split off because a check goes on at patch before the tree reaches zero and so is on while still refusing. Nothing measures greenness per check yet. file-has-its-page is the worked case: 629 tracked files claimed by no page, none of them refused today because patch judges only what a change carries. instant-property-slug-closes-with-at is on at patch with 2 left, scheduled-start and scheduled-end, a rename over 9 files reaching atlas-web.",
     },
   ],
   constraints: [
