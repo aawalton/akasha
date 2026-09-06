@@ -85,7 +85,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "One call runs one change, whose edits are kept beside the agent's page.",
       workingMemory:
-        "`akasha change` runs one change per call, so four substitutions are four calls and one apply. A change whose page reads `runsChecks: true` has the whole kept set judged by the full gate. A refusal there is reported and the edits stay: taking `studying.domain.ts` away kept 2 rows while `domain-is-named-by-a-parent` refused for its three children. The same edits refused at `akasha apply` with nothing written. `akasha change drop` takes the set away. Left: `add-file` and `change-file`.",
+        "`akasha change <slug>` reads its arguments off standard input as `key: value` lines and `key <fence>` bodies, and reaches the change at `change-command/<slug>` through the runner, so the command's code spells no change. `add-file` and `change-file` are each a partial and a command, guarded by nothing. A check refusing is reported and the edits stay; an apply is where a refusal blocks. Three `change-file` calls took `dropEdits` away as one commit. Left: the 5 changes handed a path rather than a world.",
     },
   ],
   constraints: [
