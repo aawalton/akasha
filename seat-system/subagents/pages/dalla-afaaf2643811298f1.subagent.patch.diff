@@ -35,6 +35,19 @@ index 59cff13754501b21bf99fb031f83af78b1eb6835..8a00f80b944de2ef8ddacbca48ee34bd
 -    "tools/commands/email/unsubscribe.ts lines 38-41 printed the parsed intent and returned without firing when --dry-run was said, and pages/old-ops-command/ops-email-unsubscribe.old-ops-command.md line 20 documented that flag. akasha/google/email/commands/email-unsubscribe/email-unsubscribe.command.ts declares no such taking and carries the absence invariant 'Nothing here says what an unsubscribe would do without doing it.', so the loss is declared rather than accidental. Both old files were ablated at c87be387d011ae47c4176474e565760b7e95f056 and are recoverable from its parent. Whether the rehearsal is worth restoring is Alan's call, not a carry.",
 +    "tools/commands/email/unsubscribe.ts lines 38-41 printed the parsed intent and returned without firing when --dry-run was said, and pages/old-ops-command/ops-email-unsubscribe.old-ops-command.md line 20 documented that flag. akasha/google/email/commands/email-unsubscribe/email-unsubscribe.command.ts declares no such taking and carries the absence invariant 'Nothing here says what an unsubscribe would do without doing it.', so the loss is declared rather than accidental. Both old files were ablated at c87be387d011ae47c4176474e565760b7e95f056 and are recoverable from its parent. Whether the rehearsal is worth restoring is Alan's call, not one carry.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/leverage-map-core-lost-restart-ruled.finding.ts b/domains/findings/pages/leverage-map-core-lost-restart-ruled.finding.ts
+index b570ce5bb8710736ce1a9f68e94701acca44f38c..92e1ca70d518ea8376588424143a31efbd99cacf 100644
+--- a/domains/findings/pages/leverage-map-core-lost-restart-ruled.finding.ts
++++ b/domains/findings/pages/leverage-map-core-lost-restart-ruled.finding.ts
+@@ -6,7 +6,7 @@ export const leverageMapCoreLostRestartRuled = {
+   slug: "leverage-map-core-lost-restart-ruled",
+   domainSlug: "domain/all-about-alan",
+   claim:
+-    "The live 37-line Leverage Map core did not survive the 2026-07-27 harness rebuild, Alan ruled restart-from-scratch on 2026-07-28, and loose ends from that day's session are captured only as a routing pointer awaiting Book-of-Alan intake, which Alan explicitly deferred.",
++    "The live 37-line Leverage Map core did not survive the 2026-07-27 harness rebuild, Alan ruled restart-from-scratch on 2026-07-28, and loose ends from that day's session are captured only as one routing pointer awaiting Book-of-Alan intake, which Alan explicitly deferred.",
+   evidence:
+     "From project #17022 (status `someday_maybe`, `live-on: commit`, domain `all-about-alan`), captured and never defined.\n\nThe live 37-line map core did not survive the 2026-07-27 harness rebuild. Alan ruled restart-from-scratch (2026-07-28).\n\nScope this row held:\n1. Rebuild the ranked Leverage Map core from scratch, by interview.\n2. Hold the loose ends surfaced in the 2026-07-28 session as a ROUTING entry — evidence captured here, to be passed to Abby for Book-of-Alan intake when Alan is ready for full capture. He explicitly deferred full capture that day.\n\nNot in scope: writing the Book of Alan itself — that is knowledge/Abby's material; this row only held the pointer until intake.",
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts b/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts
 index 266b849afd483a38ccec1d2ec54a257ab3605dd9..9dd6783a45def6ea0ad80607567842efd1633520 100644
 --- a/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts
