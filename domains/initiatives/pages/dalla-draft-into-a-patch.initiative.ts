@@ -85,7 +85,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "One call runs one change, whose edits are kept beside the agent's page.",
       workingMemory:
-        "`akasha change <slug>` reads its arguments off standard input as `key: value` lines and `key <fence>` bodies, and reaches the change at `change-command/<slug>` through the runner, so the command's code spells no change. `add-file` and `change-file` are each a partial and a command, guarded by nothing. A check refusing is reported and the edits stay; an apply is where a refusal blocks. Every argument body carries the newline closing its last line, so no passage handed in here ends mid-line. Left: nothing.",
+        "`akasha change <slug>` reads its arguments off standard input as `key: value` lines and `key <fence>` bodies, and reaches the change at `change-command/<slug>` through the runner, so the command's code spells no change. `add-file` and `change-file` are each a partial and a command, guarded by nothing. A check refusing is reported and the edits stay; an apply is where a refusal blocks. An argument body keeps the newline closing its last line, and one opened `key <fence> no-newline` drops that newline, so a passage ending mid-line is handed in. Left: nothing.",
     },
   ],
   constraints: [
