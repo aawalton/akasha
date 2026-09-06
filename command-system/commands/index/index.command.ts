@@ -65,6 +65,10 @@ export const index = {
       statement: "The report counts those taken away where any were.",
     },
     {
+      invariantKind: "departure",
+      statement: "The report names the files the index differed in as well as counting them.",
+    },
+    {
       invariantKind: "absence",
       statement: "A refresh writes nothing tracked and makes no commit.",
     },

@@ -77,15 +77,19 @@ export function named(paths: readonly string[]): string {
   return paths.length > SHOWN ? `${shown}, and ${paths.length - SHOWN} more` : shown
 }
 
-export function driftSaid(drift: Drift): string {
+export function driftSaid(drift: Drift): readonly string[] {
   const many = drift.added.length + drift.changed.length + drift.went.length
-  if (many === 0) return "nothing in the index differed from what the pages say"
-  return (
+  if (many === 0) return ["nothing in the index differed from what the pages say"]
+  const said = [
     "the index differed from what the pages say — " +
-    `${counted(drift.added.length, "file")} added, ` +
-    `${counted(drift.changed.length, "file")} changed, ` +
-    `${counted(drift.went.length, "file")} taken away`
-  )
+      `${counted(drift.added.length, "file")} added, ` +
+      `${counted(drift.changed.length, "file")} changed, ` +
+      `${counted(drift.went.length, "file")} taken away`,
+  ]
+  if (drift.added.length > 0) said.push(`added — ${named(drift.added)}`)
+  if (drift.changed.length > 0) said.push(`changed — ${named(drift.changed)}`)
+  if (drift.went.length > 0) said.push(`taken away — ${named(drift.went)}`)
+  return said
 }
 
 function refusing(said: readonly string[], code: number): Answer {
@@ -105,7 +109,7 @@ function refreshing(root: string, read: { dryRun: boolean }): Answer {
   const report = [
     `the index was built over ${root} as it stands, at ${head}`,
     `${counted(said.pages, "page")}, ${said.entries} entries, ${said.refused.length} refused`,
-    driftSaid(said.drift),
+    ...driftSaid(said.drift),
   ]
   if (said.swept.length > 0) {
     report.push(`took away ${counted(said.swept.length, "path")} belonging to no index`)
