@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/read/read.command.ts b/command-system/commands/read/read.command.ts
-index 7efc3985cd6678c43e51e3694ff8b0be34acdc2d..76c7604eba2a528f1ce237f4bc91868b55dddb87 100644
+index 7efc3985cd6678c43e51e3694ff8b0be34acdc2d..2f232cf03655c47853073534c45e7bb86114f32f 100644
 --- a/command-system/commands/read/read.command.ts
 +++ b/command-system/commands/read/read.command.ts
 @@ -50,7 +50,7 @@ export const read = {
@@ -8,6 +8,15 @@ index 7efc3985cd6678c43e51e3694ff8b0be34acdc2d..76c7604eba2a528f1ce237f4bc91868b
        statement:
 -        "The difference is worked out against the body the record names and against no other.",
 +        "The difference is worked out against the body the record names and against no other body.",
+     },
+     {
+       invariantKind: "departure",
+@@ -145,7 +145,7 @@ export const read = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A subagent's own seat page is the page of the seat above it.",
++      statement: "A subagent's own seat page is the page of the seat above that subagent.",
      },
      {
        invariantKind: "departure",
