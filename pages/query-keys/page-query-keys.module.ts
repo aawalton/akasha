@@ -10,7 +10,7 @@ export const pageQueryKeys = {
     {
       invariantKind: "departure",
       statement:
-        "A key a query sorts by, reduces, counts by or tests on is asked for as much as one that query names.",
+        "A key a query sorts by or reduces or counts by or tests on is asked for as a named key is.",
     },
     {
       invariantKind: "departure",
