@@ -17,6 +17,7 @@ import {
   landing,
   type Refused,
 } from "../landing/landing.module.code.ts"
+import { carryLanded } from "../landing-reading/landing-reading.module.code.ts"
 import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 
@@ -109,6 +110,7 @@ export async function applied(
   const done = await landing(root, prepared.changes, said0, gate, writer, head, asRead, carries)
   if ("refusals" in done) return done
   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
+  carryLanded(root, head, running, prepared.changes, [])
   droppedPatch(root, page, APPLIED)
   const put = installingIn(root, prepared.changes)
   return {

@@ -1,5 +1,6 @@
 import type { Given } from "../calling/calling.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
+import type { Running } from "../drafting/drafting.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import {
   blobIdOf,
@@ -24,20 +25,21 @@ export function recordLanded(given: Given, changes: readonly FileEdit[]): undefi
 }
 
 export function carryLanded(
-  given: Given,
+  root: string,
   base: string,
+  running: Running,
   changes: readonly FileEdit[],
   handed: readonly Carry[]
 ): undefined {
-  if (given.changeKind?.readersOweReading !== false) return
+  if (running.readersOweReading) return
   const held: Carry[] = [...handed]
   for (const one of changes) {
     if (one.body === null) continue
-    const was = bodyAt(given.root, base, one.path)
+    const was = bodyAt(root, base, one.path)
     if (was === null) continue
     held.push({ was: one.path, now: one.path, from: blobIdOf(was) })
   }
-  carryReadings(given.root, held)
+  carryReadings(root, held)
 }
 
 export function asReadIn(given: Given, changes: readonly FileEdit[]): readonly Reading[] {

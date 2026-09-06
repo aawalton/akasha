@@ -18,7 +18,7 @@ import {
   repoWith,
   scratch,
 } from "../landing/landing.module.test-fixtures.ts"
-import { readingIn } from "../reading/reading.module.code.ts"
+import { readingIn, recordRead, sameBody } from "../reading/reading.module.code.ts"
 import { applied } from "./applying.module.code.ts"
 
 const AGENT = "01a05f00-0000-7000-8000-000000000001"
@@ -124,6 +124,29 @@ test("a patch a mechanical draft opened is a diff git still reads", async () => 
   expect("why" in drafted(root, PAGE, draft, nothing)).toBe(false)
   expect(runningIn(patchIn(root, PAGE))).toEqual(nothing)
   expect(() => gitSaid(root, ["apply", "--check", patchAt(PAGE) as string])).not.toThrow()
+})
+
+const READER = "01a05f00-0000-7000-8000-000000000002"
+
+const RESTATED = { checks: true, writerOwesReading: true, readersOweReading: false }
+
+async function reading(running: typeof RESTATED | undefined): Promise<boolean> {
+  const root = await indexed()
+  const was = headOid(root, PAGE)
+  recordRead(root, READER, { path: PAGE, oid: was, seenAt: 1, carriedOid: null })
+  const draft = [{ path: PAGE, was: bytes(A), body: bytes(MORE) }]
+  expect("why" in drafted(root, PAGE, draft, running)).toBe(false)
+  const said = await applied(root, PAGE, AGENT, "applied", ADMITS, null)
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  return sameBody(readingIn(root, READER, PAGE), headOid(root, PAGE))
+}
+
+test("an apply owing its readers no reading carries their readings onto the bodies applied", async () => {
+  expect(await reading(RESTATED)).toBe(true)
+})
+
+test("an apply whose readers owe reading carries none, so every reader goes stale", async () => {
+  expect(await reading(undefined)).toBe(false)
 })
 
 test("a path the patch moved under has no reading recorded", async () => {

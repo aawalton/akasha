@@ -58,12 +58,13 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "An apply carrying a manifest installs the checkout onto the commit it landed.",
+      statement:
+        "An apply carrying a manifest installs the checkout onto the commit that apply landed.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An install the apply's tree would not take is answered as the landing road answers it.",
+        "An install the apply's tree would not take is answered as the landing road answers that install.",
     },
     {
       invariantKind: "departure",
@@ -113,6 +114,23 @@ export const applying = {
     {
       invariantKind: "departure",
       statement: "An agent is never left owing a read of the bodies that agent's own apply landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An apply whose patch owes its readers no reading carries their readings onto the bodies applied.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply whose patch owes its readers reading carries no reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reading is carried after the applying agent's own reading is recorded.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A path the patch renamed carries the reading of the body that path came from.",
     },
     {
       invariantKind: "departure",

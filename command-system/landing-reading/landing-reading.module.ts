@@ -49,6 +49,14 @@ export const landingReading = {
     },
     {
       invariantKind: "departure",
+      statement: "An apply carries by the rule a landing carries by.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether the readers owe reading is handed in rather than read off the call.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A path the landing renamed is carried only where the command hands in the path that body came from.",
     },
