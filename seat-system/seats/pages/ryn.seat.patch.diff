@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-player-completion/completion-account-checkers/completion-account-checkers.module.ts b/temper/temper-player-completion/completion-account-checkers/completion-account-checkers.module.ts
+index a85818ea6c3b3f0b6c886405fc6f9c9f3d597afc..e4996c58a515d1f791e0c93c766454400cdba4ed 100644
+--- a/temper/temper-player-completion/completion-account-checkers/completion-account-checkers.module.ts
++++ b/temper/temper-player-completion/completion-account-checkers/completion-account-checkers.module.ts
+@@ -9,7 +9,7 @@ export const completionAccountCheckers = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A checker here is built from a catalog handed in rather than one imported.",
++      statement: "A checker here is built from a catalog handed in rather than a catalog imported.",
+     },
+     {
+       invariantKind: "departure",
