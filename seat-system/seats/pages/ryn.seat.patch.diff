@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/pages/types/properties/media-config.record-property.ts b/pages/types/properties/media-config.record-property.ts
+index 0cdb84fac02288339c28eeca8141073d356e1522..486d2930bb512f879796819683e91006ab6e7b91 100644
+--- a/pages/types/properties/media-config.record-property.ts
++++ b/pages/types/properties/media-config.record-property.ts
+@@ -24,7 +24,8 @@ export const mediaConfig = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page type stating none takes the media config the page type above states.",
++      statement:
++        "A page type stating no media config takes the media config the page type above states.",
+     },
+     {
+       invariantKind: "departure",
