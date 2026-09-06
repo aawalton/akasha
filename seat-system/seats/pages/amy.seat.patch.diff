@@ -21,6 +21,21 @@ index 65dab52b9353901ffb776933cf45e83d9220a81e..87a60be277b1d92756b59d3324561833
      workoutSessionStartedAt: new Date().toISOString(),
      ...(scheduleDay?.slug != null ? { scheduleDaySlug: scheduleDay.slug } : {}),
      ...(notes !== undefined ? { notes } : {}),
+diff --git a/alan/fitness/commands/track-workout-start/track-workout-start.command.ts b/alan/fitness/commands/track-workout-start/track-workout-start.command.ts
+index 539ed0daf45ee229eddd28698341b2727267e702..f76d49776c059da0366923200c84dcfa1544cbad 100644
+--- a/alan/fitness/commands/track-workout-start/track-workout-start.command.ts
++++ b/alan/fitness/commands/track-workout-start/track-workout-start.command.ts
+@@ -50,6 +50,10 @@ export const trackWorkoutStart = {
+       invariantKind: "departure",
+       statement: "A session opened against a schedule day names that schedule day.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A session names the tracked day the session's date spells.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here plans or logs a set.",
 diff --git a/alan/fitness/workout-sessions/pages/friday-pull-2026-06-19-18252e37.workout-session.ts b/alan/fitness/workout-sessions/pages/friday-pull-2026-06-19-18252e37.workout-session.ts
 index 504f75651c902e90adc7d645b2e2436749a657c3..c82f2c048f753236127b7a4e0cacefed25c4403f 100644
 --- a/alan/fitness/workout-sessions/pages/friday-pull-2026-06-19-18252e37.workout-session.ts
