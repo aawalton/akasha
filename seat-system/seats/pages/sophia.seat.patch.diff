@@ -1,0 +1,18 @@
+diff --git a/pages/indexes/reading/index-reading.module.test-fixtures.ts b/pages/indexes/reading/index-reading.module.test-fixtures.ts
+index 30c55ac8efa8267cea89ae7820f7f7e78de60c42..99df11ff37107efcde4ba4e0a0be727333fd0b30 100644
+--- a/pages/indexes/reading/index-reading.module.test-fixtures.ts
++++ b/pages/indexes/reading/index-reading.module.test-fixtures.ts
+@@ -1,4 +1,12 @@
+-import { appendFileSync, cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
++import {
++  appendFileSync,
++  cpSync,
++  existsSync,
++  mkdirSync,
++  readFileSync,
++  rmSync,
++  writeFileSync,
++} from "node:fs"
+ import { dirname, join } from "node:path"
+ import { everyFileUnder } from "@akasha/testing-system/walking"
+ import type { Entry } from "../entries/index-entries.module.code.ts"
