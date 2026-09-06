@@ -121,10 +121,44 @@ index 44688e35a365d6356018eff16ad22022eac43a81..f5405c40166345c60b4c2a3b44f0dc7f
 +  expect(existsSync(join(beside, "index.refreshing.1"))).toBe(true)
 +})
 diff --git a/pages/indexes/rebuilding/rebuilding.module.ts b/pages/indexes/rebuilding/rebuilding.module.ts
-index 8d91938cf7fef8558d0541a0601e639e7c570b24..5ed83d1102621ed1e1580c3828a57a5dbdc1e7f9 100644
+index 8d91938cf7fef8558d0541a0601e639e7c570b24..3648fedd9f61d444b3e99b62d118ff913ee50420 100644
 --- a/pages/indexes/rebuilding/rebuilding.module.ts
 +++ b/pages/indexes/rebuilding/rebuilding.module.ts
-@@ -42,12 +42,17 @@ export const rebuilding = {
+@@ -10,7 +10,8 @@ export const rebuilding = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The index is repaired in place rather than built beside it and swapped in.",
++      statement:
++        "The index is repaired in place rather than built beside the index and swapped in.",
+     },
+     {
+       invariantKind: "departure",
+@@ -22,15 +23,20 @@ export const rebuilding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file the pages no longer imply is found by walking the index, and taken away.",
++      statement: "A file the pages no longer imply is found by walking the index.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A folder left empty by that goes with the file.",
++      statement: "A file the pages no longer imply is taken away.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A build putting nothing in place is answered for as fully as one that does.",
++      statement: "A folder left holding nothing goes with the file taken away.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A build putting nothing in place is answered for as fully as a build writing files.",
+     },
+     {
+       invariantKind: "departure",
+@@ -42,12 +48,17 @@ export const rebuilding = {
      },
      {
        invariantKind: "departure",
