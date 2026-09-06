@@ -767,10 +767,10 @@ index 4813491379fa10bbb3233e7f661b23bcb253bc47..04d5ee7960d7a30b961230d807a3d4cc
      {
        pagePropertySlug: "number-property/coaching-constraint-sort-order",
 diff --git a/alan/fitness/equipment-items/equipment-item.page-type.ts b/alan/fitness/equipment-items/equipment-item.page-type.ts
-index 793750f851181f50beda0f718620a5bdb4d4c6ac..1366467484fca15b0315d8b4ba85a06324967060 100644
+index 793750f851181f50beda0f718620a5bdb4d4c6ac..58bfe8d8d8997ed3a85850709d3e8993cf450678 100644
 --- a/alan/fitness/equipment-items/equipment-item.page-type.ts
 +++ b/alan/fitness/equipment-items/equipment-item.page-type.ts
-@@ -44,7 +44,12 @@ export const equipmentItem = {
+@@ -44,19 +44,31 @@ export const equipmentItem = {
      { pagePropertySlug: "select-property/equipment-category", required: true, many: false },
      { pagePropertySlug: "select-property/equipment-configuration", required: true, many: false },
      { pagePropertySlug: "boolean-property/equipment-available", required: true, many: false },
@@ -784,6 +784,28 @@ index 793750f851181f50beda0f718620a5bdb4d4c6ac..1366467484fca15b0315d8b4ba85a063
      { pagePropertySlug: "text-property/equipment-notes", required: false, many: false },
      { pagePropertySlug: "number-property/equipment-sort-order", required: false, many: false },
    ],
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A piece of kit Alan owns is its own page, apart from the kit vocabulary a movement is tagged with.",
++      statement: "A piece of kit Alan owns is its own page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The kit vocabulary a movement is tagged with is apart from those pages.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A piece Alan has not bought yet is a page.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A piece Alan has not bought yet is a page, and says so by being unavailable.",
++      statement: "A piece Alan has not bought yet is unavailable.",
+     },
+   ],
+ } as const satisfies PageType
 diff --git a/alan/fitness/equipment-items/properties/equipment-item-loads.text-property.ts b/alan/fitness/equipment-items/properties/equipment-item-loads.text-property.ts
 index 0656ff1f6abe0cfec339a7d7128201424404cc08..96e121958a92dd139348df99fb9b618706817c1a 100644
 --- a/alan/fitness/equipment-items/properties/equipment-item-loads.text-property.ts
