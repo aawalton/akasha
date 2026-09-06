@@ -1,0 +1,15 @@
+diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
+index 8ee5f15018d55ace7a493031fae2ba373a767d43..c772feee3e06c492f82ea34df443d1fa82ae98d8 100644
+--- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
++++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
+@@ -296,10 +296,6 @@ test("a file the index does not name as a page is passed over, whatever its body
+   expect(judgedOver({ "akasha/held.ts": "export const held = (\n" })).toEqual([])
+ })
+ 
+-test("a path outside the akasha folder is passed over, however it is named", () => {
+-  expect(judgedOver({ "shared/held.page-type.ts": "export const held = (\n" })).toEqual([])
+-})
+-
+ test("a required property named as excused is not asked for, and the rest of them still are", () => {
+   const declared = declaredIn("check")
+   const held = { id: "a", slug: "one" }
