@@ -150,6 +150,7 @@ function declaringAmong(changed: readonly string[]): boolean {
 function carryingIn(change: Change): boolean {
   if (declaringAmong(change.changed)) return true
   for (const path of change.changed) {
+    if (!compiled(path)) continue
     const text = textIn(change, path)
     if (text !== null && text.includes(SPELT)) return true
   }

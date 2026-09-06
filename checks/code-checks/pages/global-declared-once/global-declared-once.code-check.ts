@@ -106,6 +106,14 @@ export const globalDeclaredOnce = {
       statement: "A file spelling no `declare global` and named no declaration is read no further.",
     },
     {
+      invariantKind: "departure",
+      statement: "The spelling is looked for only in the files this check takes as input.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file holding bytes rather than text is no input to this check.",
+    },
+    {
       invariantKind: "absence",
       statement: "Two module bodies declaring one name are not judged here.",
     },
