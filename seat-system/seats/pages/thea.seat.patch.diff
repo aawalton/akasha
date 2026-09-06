@@ -4483,3 +4483,760 @@ index 1665bbbaace90da32d0ee9f668f57c1df2f78df5..19b597960b35f8e0a935be38e940f102
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
+diff --git a/readout-system/readouts/properties/unit.text-property.ts b/readout-system/readouts/properties/unit.text-property.ts
+index 15f2c438f4c0d9f11af26ed09074a6c49909c67d..b0f44019d22704b6cabefdd174d2ef7c60647330 100644
+--- a/readout-system/readouts/properties/unit.text-property.ts
++++ b/readout-system/readouts/properties/unit.text-property.ts
+@@ -8,6 +8,6 @@ export const unit = {
+   slug: "unit",
+   propertySlug: "unit",
+   definition: "what a reading counts",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/readout-system/readouts/properties/wire-key.text-property.ts b/readout-system/readouts/properties/wire-key.text-property.ts
+index 7731c4cdd7b5e259488604d3f8b39692307e36b2..a1ef2a1d0d1fffa9ea35ab181c050c3bb66c131e 100644
+--- a/readout-system/readouts/properties/wire-key.text-property.ts
++++ b/readout-system/readouts/properties/wire-key.text-property.ts
+@@ -8,7 +8,7 @@ export const wireKey = {
+   slug: "wire-key",
+   propertySlug: "wire-key",
+   definition: "the key a reading travels under on the wire",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/reminder-system/reminders/properties/reminder-schedule.text-property.ts b/reminder-system/reminders/properties/reminder-schedule.text-property.ts
+index 37030a7f3da45dc2526c86a0a476f5b6a2ab6e3b..2acd046de58294201317257a1d2fb236f3552208 100644
+--- a/reminder-system/reminders/properties/reminder-schedule.text-property.ts
++++ b/reminder-system/reminders/properties/reminder-schedule.text-property.ts
+@@ -8,7 +8,7 @@ export const reminderSchedule = {
+   slug: "reminder-schedule",
+   propertySlug: "schedule",
+   definition: "the times a reminder is sent at, written as systemd states a calendar",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/reminder-system/reminders/properties/reminder-text.text-property.ts b/reminder-system/reminders/properties/reminder-text.text-property.ts
+index a74a57ff617053414df1b0bb55e614cc9f784c62..7290e0b363960c7281937bb07655ee3d1781dcc8 100644
+--- a/reminder-system/reminders/properties/reminder-text.text-property.ts
++++ b/reminder-system/reminders/properties/reminder-text.text-property.ts
+@@ -8,7 +8,7 @@ export const reminderText = {
+   slug: "reminder-text",
+   propertySlug: "text",
+   definition: "the words a reminder sends",
+-  max: 6000,
++  maxLength: 6000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/seat-system/messages/properties/message-body.text-property.ts b/seat-system/messages/properties/message-body.text-property.ts
+index f91401ce2f48c7fa0cefe55798bf4587ad0c1944..9ce7c9e37e72647c6083b86ecfa889a5ffd160a4 100644
+--- a/seat-system/messages/properties/message-body.text-property.ts
++++ b/seat-system/messages/properties/message-body.text-property.ts
+@@ -8,7 +8,7 @@ export const messageBody = {
+   slug: "message-body",
+   propertySlug: "body",
+   definition: "the words a message carries",
+-  max: 20000,
++  maxLength: 20000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/seat-system/messages/properties/message-from.text-property.ts b/seat-system/messages/properties/message-from.text-property.ts
+index cc5c330caf49a8810f60da08bc83ac735868eeae..53cfd92557e838124e64cffa135057ddce3ae6c8 100644
+--- a/seat-system/messages/properties/message-from.text-property.ts
++++ b/seat-system/messages/properties/message-from.text-property.ts
+@@ -8,7 +8,7 @@ export const messageFrom = {
+   slug: "message-from",
+   propertySlug: "from",
+   definition: "who a message says sent it",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/seat-system/notices/properties/notice-warrant.text-property.ts b/seat-system/notices/properties/notice-warrant.text-property.ts
+index 410fed02bb58401399bb6696a91ecb3252fad9f6..8960ad375c2a2e61c0e21e9aacbd14bb70903eda 100644
+--- a/seat-system/notices/properties/notice-warrant.text-property.ts
++++ b/seat-system/notices/properties/notice-warrant.text-property.ts
+@@ -8,7 +8,7 @@ export const noticeWarrant = {
+   slug: "notice-warrant",
+   propertySlug: "warrant",
+   definition: "which seat a notice goes to and what editing its words costs",
+-  max: 600,
++  maxLength: 600,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/seat-system/seat-conditions/properties/effort-level.text-property.ts b/seat-system/seat-conditions/properties/effort-level.text-property.ts
+index 2d0a87119f2d20be249c447d2b6f3de1493cd153..f9f4555db0e92e69c34d0ca9614a8782c80f8bf6 100644
+--- a/seat-system/seat-conditions/properties/effort-level.text-property.ts
++++ b/seat-system/seat-conditions/properties/effort-level.text-property.ts
+@@ -8,6 +8,6 @@ export const effortLevel = {
+   slug: "effort-level",
+   propertySlug: "effort-level",
+   definition: "how much reasoning a seat spends before it answers",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/seat-system/seat-conditions/properties/fallback-model.text-property.ts b/seat-system/seat-conditions/properties/fallback-model.text-property.ts
+index 1b8d831617c8e008b936eb74a2a63ae05b3b5022..989c2f1a6828b2608f15e81a1ddca7eaac8bb943 100644
+--- a/seat-system/seat-conditions/properties/fallback-model.text-property.ts
++++ b/seat-system/seat-conditions/properties/fallback-model.text-property.ts
+@@ -8,6 +8,6 @@ export const fallbackModel = {
+   slug: "fallback-model",
+   propertySlug: "fallback-model",
+   definition: "the model a seat answers on where the model it asked for will not serve",
+-  max: 40,
++  maxLength: 40,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts b/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts
+index c5aff911f072d1f3b3da167a327761ff1289eec2..c57f257462d71c87931f3f39f41350a32cbf8758 100644
+--- a/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts
++++ b/seat-system/seat-conditions/properties/seat-conditions-model.text-property.ts
+@@ -8,7 +8,7 @@ export const seatConditionsModel = {
+   slug: "seat-conditions-model",
+   propertySlug: "model",
+   definition: "the model a seat's agent answers on",
+-  max: 40,
++  maxLength: 40,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/seat-system/seat-conditions/properties/subagent-model.text-property.ts b/seat-system/seat-conditions/properties/subagent-model.text-property.ts
+index b7397112bc77c2957f439fdfd5507b694971bd7d..303770ad44cf37149635d248268685fa8a049e70 100644
+--- a/seat-system/seat-conditions/properties/subagent-model.text-property.ts
++++ b/seat-system/seat-conditions/properties/subagent-model.text-property.ts
+@@ -8,7 +8,7 @@ export const subagentModel = {
+   slug: "subagent-model",
+   propertySlug: "subagent-model",
+   definition: "the model a seat's subagents answer on rather than the seat's own",
+-  max: 40,
++  maxLength: 40,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/seat-system/seat-log-days/properties/seat-name.text-property.ts b/seat-system/seat-log-days/properties/seat-name.text-property.ts
+index 5535f381b2eed64952f0e22fb79e129032a2de38..f2e2d0ec4103128428db2b86ce4a53dd382f2425 100644
+--- a/seat-system/seat-log-days/properties/seat-name.text-property.ts
++++ b/seat-system/seat-log-days/properties/seat-name.text-property.ts
+@@ -8,7 +8,7 @@ export const seatName = {
+   slug: "seat-name",
+   propertySlug: "seat-name",
+   definition: "the name of the seat whose processes wrote a day of lines",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/seat-system/seats/properties/claude-code-session-uuid.text-property.ts b/seat-system/seats/properties/claude-code-session-uuid.text-property.ts
+index 88656479dc6f03f1c625c70e55757bf91451dc02..4d3afd741b5e57a1471b5de9d2a154688e9b6200 100644
+--- a/seat-system/seats/properties/claude-code-session-uuid.text-property.ts
++++ b/seat-system/seats/properties/claude-code-session-uuid.text-property.ts
+@@ -8,7 +8,7 @@ export const claudeCodeSessionUuid = {
+   slug: "claude-code-session-uuid",
+   propertySlug: "claude-code-session-uuid",
+   definition: "the session an agent in a seat is answering in",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+   invariants: [
+     {
+diff --git a/seat-system/seats/properties/interrupt-message.text-property.ts b/seat-system/seats/properties/interrupt-message.text-property.ts
+index 3961c545724a0fd6a4c025881fcd5205a3cbe27d..27e9e4c08e373bef2e398392f8dbea9dfa2d989b 100644
+--- a/seat-system/seats/properties/interrupt-message.text-property.ts
++++ b/seat-system/seats/properties/interrupt-message.text-property.ts
+@@ -8,6 +8,6 @@ export const interruptMessage = {
+   slug: "interrupt-message",
+   propertySlug: "message",
+   definition: "what a seat is told when a request interrupts it",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/seat-system/seats/properties/mode.text-property.ts b/seat-system/seats/properties/mode.text-property.ts
+index a778a898bbb5b11ec49e0abe1b6c242fd1117e45..2836c9442b23ab1944492bc801220de9f7f0567e 100644
+--- a/seat-system/seats/properties/mode.text-property.ts
++++ b/seat-system/seats/properties/mode.text-property.ts
+@@ -8,7 +8,7 @@ export const mode = {
+   slug: "mode",
+   propertySlug: "mode",
+   definition: "the mode an agent in a seat is running in",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/seat-system/seats/properties/model.text-property.ts b/seat-system/seats/properties/model.text-property.ts
+index 42588d6541138290ee0dd81b2a7c0e1ddd693d2a..236c54a219afbbbffaeb2e13a2a53068675795d5 100644
+--- a/seat-system/seats/properties/model.text-property.ts
++++ b/seat-system/seats/properties/model.text-property.ts
+@@ -8,6 +8,6 @@ export const model = {
+   slug: "model",
+   propertySlug: "model",
+   definition: "the model answering in a seat",
+-  max: 40,
++  maxLength: 40,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/seat-system/seats/properties/open-agents.text-property.ts b/seat-system/seats/properties/open-agents.text-property.ts
+index 01fe141ffb2c1aae450ad05ab9d5da8c2ec9b915..c33c7c788b44faceb3dcaf1c6098ed4222108d03 100644
+--- a/seat-system/seats/properties/open-agents.text-property.ts
++++ b/seat-system/seats/properties/open-agents.text-property.ts
+@@ -9,7 +9,7 @@ export const openAgents = {
+   slug: "open-agents",
+   propertySlug: "open-agents",
+   definition: "every subagent a seat started that is still live",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/seat-system/seats/properties/open-shells.text-property.ts b/seat-system/seats/properties/open-shells.text-property.ts
+index 0ee2169832655da8039fb79ef56548ccc408a5af..60b69c40b3777e80d7bfc1b31d1d1f72655b705e 100644
+--- a/seat-system/seats/properties/open-shells.text-property.ts
++++ b/seat-system/seats/properties/open-shells.text-property.ts
+@@ -9,7 +9,7 @@ export const openShells = {
+   slug: "open-shells",
+   propertySlug: "open-shells",
+   definition: "every background command a seat started that is still live",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/seat-system/seats/properties/proxy-version.text-property.ts b/seat-system/seats/properties/proxy-version.text-property.ts
+index b3399b0b7ea7b6b9e10462a53f03a0e7e24cc4de..3cf93b769cce234086ea75be8640b4b320077795 100644
+--- a/seat-system/seats/properties/proxy-version.text-property.ts
++++ b/seat-system/seats/properties/proxy-version.text-property.ts
+@@ -8,7 +8,7 @@ export const proxyVersion = {
+   slug: "proxy-version",
+   propertySlug: "version",
+   definition: "the build of the proxy serving a seat",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/seat-system/seats/properties/re-exec-ask.text-property.ts b/seat-system/seats/properties/re-exec-ask.text-property.ts
+index ee2afa6a001945aae2d6f552052fd67826a4451d..558ae20e2823143023d2438ee921e0c48135ca7b 100644
+--- a/seat-system/seats/properties/re-exec-ask.text-property.ts
++++ b/seat-system/seats/properties/re-exec-ask.text-property.ts
+@@ -8,7 +8,7 @@ export const reExecAsk = {
+   slug: "re-exec-ask",
+   propertySlug: "re-exec-ask",
+   definition: "the standing of a seat's request to re-exec its supervisor",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/seat-system/seats/properties/registration-account.text-property.ts b/seat-system/seats/properties/registration-account.text-property.ts
+index 7b2b9b113f5c0919b3ca608cb27e61f0a8575ada..2e6ea6a0d7bcea70c6c0a64a7b0a5501680e9bd4 100644
+--- a/seat-system/seats/properties/registration-account.text-property.ts
++++ b/seat-system/seats/properties/registration-account.text-property.ts
+@@ -8,7 +8,7 @@ export const registrationAccount = {
+   slug: "registration-account",
+   propertySlug: "registration-account",
+   definition: "the account an agent in a seat signs in as",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/seat-system/seats/properties/rotated-session-uuid.text-property.ts b/seat-system/seats/properties/rotated-session-uuid.text-property.ts
+index 83227c24cb5ff271d32de223833ff168e64a79c3..e4a46f1ab265cbc2960d8a335bd27503137c6934 100644
+--- a/seat-system/seats/properties/rotated-session-uuid.text-property.ts
++++ b/seat-system/seats/properties/rotated-session-uuid.text-property.ts
+@@ -8,7 +8,7 @@ export const rotatedSessionUuid = {
+   slug: "rotated-session-uuid",
+   propertySlug: "rotated-session-uuid",
+   definition: "the session a seat was cleared into, before it is bound to it",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+   invariants: [
+     {
+diff --git a/seat-system/seats/properties/start-mode.text-property.ts b/seat-system/seats/properties/start-mode.text-property.ts
+index cdf8a95fc531ed1e2e0a7d8e3bdc5391c26f1c00..8be208f75a658f1fca4ba6cfa989247718ae3789 100644
+--- a/seat-system/seats/properties/start-mode.text-property.ts
++++ b/seat-system/seats/properties/start-mode.text-property.ts
+@@ -8,7 +8,7 @@ export const startMode = {
+   slug: "start-mode",
+   propertySlug: "start-mode",
+   definition: "how an agent in a seat is started",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/seat-system/seats/properties/transcript-path.text-property.ts b/seat-system/seats/properties/transcript-path.text-property.ts
+index fab40db82f03bae04da319688cd21d5362bfb821..98840a141a26e273dd2f05954914f658a58342ce 100644
+--- a/seat-system/seats/properties/transcript-path.text-property.ts
++++ b/seat-system/seats/properties/transcript-path.text-property.ts
+@@ -8,7 +8,7 @@ export const transcriptPath = {
+   slug: "transcript-path",
+   propertySlug: "transcript-path",
+   definition: "where a seat writes what was said in it",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/seat-system/subagent-kinds/properties/dispatched-as.text-property.ts b/seat-system/subagent-kinds/properties/dispatched-as.text-property.ts
+index 986e31faa832f824575777225a80d458d92c1c30..d39781e41f601c865e10be08a63b69c29409c41c 100644
+--- a/seat-system/subagent-kinds/properties/dispatched-as.text-property.ts
++++ b/seat-system/subagent-kinds/properties/dispatched-as.text-property.ts
+@@ -8,7 +8,7 @@ export const dispatchedAs = {
+   slug: "dispatched-as",
+   propertySlug: "dispatched-as",
+   definition: "the kind of agent a subagent was run as",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/seat-system/subagents/properties/agent-id.text-property.ts b/seat-system/subagents/properties/agent-id.text-property.ts
+index ac320716be9da277ba1fc8a3efc75667f5732fca..0827aefa110548fd532a92135671fb5fae2ffd7e 100644
+--- a/seat-system/subagents/properties/agent-id.text-property.ts
++++ b/seat-system/subagents/properties/agent-id.text-property.ts
+@@ -8,7 +8,7 @@ export const agentId = {
+   slug: "agent-id",
+   propertySlug: "agent-id",
+   definition: "the id an agent acts under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/cluster-services/properties/cluster-service-schedule.text-property.ts b/service-system/cluster-services/properties/cluster-service-schedule.text-property.ts
+index 2e71331c11481ef46883539d589465903e377d5e..b6176b0057de2968dc4caeb2c25457c46d740d15 100644
+--- a/service-system/cluster-services/properties/cluster-service-schedule.text-property.ts
++++ b/service-system/cluster-services/properties/cluster-service-schedule.text-property.ts
+@@ -8,7 +8,7 @@ export const clusterServiceSchedule = {
+   slug: "cluster-service-schedule",
+   propertySlug: "schedule",
+   definition: "the times the cluster starts a workload",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/cluster-services/properties/image.text-property.ts b/service-system/cluster-services/properties/image.text-property.ts
+index 7c96243acd9002f26e0980a1cfb33a694abe4c1f..031901f4e1ae4b273d6b6579328e40a5deba1d72 100644
+--- a/service-system/cluster-services/properties/image.text-property.ts
++++ b/service-system/cluster-services/properties/image.text-property.ts
+@@ -8,7 +8,7 @@ export const image = {
+   slug: "image",
+   propertySlug: "image",
+   definition: "the container image a workload's pods run",
+-  max: 253,
++  maxLength: 253,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/cluster-services/properties/namespace.text-property.ts b/service-system/cluster-services/properties/namespace.text-property.ts
+index 31742d2c826215c53f1dcb3388a3d7928066abd9..f7ad8281a4eb7934389797f1a85afcdc27be1143 100644
+--- a/service-system/cluster-services/properties/namespace.text-property.ts
++++ b/service-system/cluster-services/properties/namespace.text-property.ts
+@@ -8,6 +8,6 @@ export const namespace = {
+   slug: "namespace",
+   propertySlug: "namespace",
+   definition: "the part of the cluster a resource sits in",
+-  max: 63,
++  maxLength: 63,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/service-system/cluster-services/properties/resource-kind.text-property.ts b/service-system/cluster-services/properties/resource-kind.text-property.ts
+index 2543973ea2e81e84237557b5a35f3ca6d8b4c088..2e2882b106c67a5393cf43f803a0e092813d9bed 100644
+--- a/service-system/cluster-services/properties/resource-kind.text-property.ts
++++ b/service-system/cluster-services/properties/resource-kind.text-property.ts
+@@ -8,7 +8,7 @@ export const resourceKind = {
+   slug: "resource-kind",
+   propertySlug: "resource-kind",
+   definition: "the kind of cluster resource a service is",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/cluster-services/properties/resource-name.text-property.ts b/service-system/cluster-services/properties/resource-name.text-property.ts
+index 7a386f6afd3f5edcb163101a5c3e8ea3568c2517..b139ca6690417562e4d8f0ed4acbf0e1c18001b3 100644
+--- a/service-system/cluster-services/properties/resource-name.text-property.ts
++++ b/service-system/cluster-services/properties/resource-name.text-property.ts
+@@ -8,7 +8,7 @@ export const resourceName = {
+   slug: "resource-name",
+   propertySlug: "resource-name",
+   definition: "the name a resource carries in the cluster",
+-  max: 63,
++  maxLength: 63,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/service-system/secrets/properties/resource-key.text-property.ts b/service-system/secrets/properties/resource-key.text-property.ts
+index 593691c0a966d2f2e605cda49395536d0d099297..1b1f44d5a52fe639492ada71f73686c811232e66 100644
+--- a/service-system/secrets/properties/resource-key.text-property.ts
++++ b/service-system/secrets/properties/resource-key.text-property.ts
+@@ -8,7 +8,7 @@ export const resourceKey = {
+   slug: "resource-key",
+   propertySlug: "resource-key",
+   definition: "the key a value sits under inside the resource it belongs to",
+-  max: 253,
++  maxLength: 253,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/secrets/properties/secret-value.text-property.ts b/service-system/secrets/properties/secret-value.text-property.ts
+index b9125e765b0a27b1367e5555201ff35aa3679f18..50fa92d07fb957f5ddd70ede72470a7715bae436 100644
+--- a/service-system/secrets/properties/secret-value.text-property.ts
++++ b/service-system/secrets/properties/secret-value.text-property.ts
+@@ -8,7 +8,7 @@ export const secretValue = {
+   slug: "secret-value",
+   propertySlug: "value",
+   definition: "the secret a page represents",
+-  max: 100000,
++  maxLength: 100000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/web-apps/properties/build-command.text-property.ts b/service-system/web-apps/properties/build-command.text-property.ts
+index ef2adb051fdcca37fe2935065c0435963153f4dd..e7ae440d24e5a128e1295b50b6ba745865d94f07 100644
+--- a/service-system/web-apps/properties/build-command.text-property.ts
++++ b/service-system/web-apps/properties/build-command.text-property.ts
+@@ -8,7 +8,7 @@ export const buildCommand = {
+   slug: "build-command",
+   propertySlug: "build-command",
+   definition: "the command run in a web app's source folder to make its build",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/web-apps/properties/hostnames.text-property.ts b/service-system/web-apps/properties/hostnames.text-property.ts
+index 7624757bc254b7130fa4089974e12a614acbdbd7..a1eb9913e5465f2bfcdaca307974cf505c287b10 100644
+--- a/service-system/web-apps/properties/hostnames.text-property.ts
++++ b/service-system/web-apps/properties/hostnames.text-property.ts
+@@ -8,7 +8,7 @@ export const hostnames = {
+   slug: "hostnames",
+   propertySlug: "hostnames",
+   definition: "a host name a web app is reached at",
+-  max: 253,
++  maxLength: 253,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/web-apps/properties/source-directory.text-property.ts b/service-system/web-apps/properties/source-directory.text-property.ts
+index 3821e1dd3b48458f5281ed0abf9a0c0fc45bd491..52944e2df1eca47a98b51bc12f51650805bac2be 100644
+--- a/service-system/web-apps/properties/source-directory.text-property.ts
++++ b/service-system/web-apps/properties/source-directory.text-property.ts
+@@ -8,7 +8,7 @@ export const sourceDirectory = {
+   slug: "source-directory",
+   propertySlug: "source-directory",
+   definition: "the folder a web app's source sits in",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/workstation-services/properties/after.text-property.ts b/service-system/workstation-services/properties/after.text-property.ts
+index 5ec280579a557e53af179e2490329223d6074073..4cae5600b81c80c74e5512a6a740b0bce60cd802 100644
+--- a/service-system/workstation-services/properties/after.text-property.ts
++++ b/service-system/workstation-services/properties/after.text-property.ts
+@@ -8,7 +8,7 @@ export const after = {
+   slug: "after",
+   propertySlug: "after",
+   definition: "a unit this unit starts after",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/workstation-services/properties/binds.text-property.ts b/service-system/workstation-services/properties/binds.text-property.ts
+index 5015405ddb0516b553e2af129440ea5525e493ef..ff8602d7be718637a4ada0a31a31da128aa65b5e 100644
+--- a/service-system/workstation-services/properties/binds.text-property.ts
++++ b/service-system/workstation-services/properties/binds.text-property.ts
+@@ -8,7 +8,7 @@ export const binds = {
+   slug: "binds",
+   propertySlug: "binds",
+   definition: "a host name a service listens on",
+-  max: 253,
++  maxLength: 253,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/workstation-services/properties/part-of.text-property.ts b/service-system/workstation-services/properties/part-of.text-property.ts
+index b1ca0fe52fdf447655e050ff09b2ffea5af1982e..e7c7baca9934491287e08daff960913727545a54 100644
+--- a/service-system/workstation-services/properties/part-of.text-property.ts
++++ b/service-system/workstation-services/properties/part-of.text-property.ts
+@@ -8,7 +8,7 @@ export const partOf = {
+   slug: "part-of",
+   propertySlug: "part-of",
+   definition: "the unit this unit stops and restarts along with",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/workstation-services/properties/runs.text-property.ts b/service-system/workstation-services/properties/runs.text-property.ts
+index b2964da776cf4cb3852cdc4275111a6bcc04625a..717716e297d19c6fce48d90066f5eae2e905f7db 100644
+--- a/service-system/workstation-services/properties/runs.text-property.ts
++++ b/service-system/workstation-services/properties/runs.text-property.ts
+@@ -8,7 +8,7 @@ export const runs = {
+   slug: "runs",
+   propertySlug: "runs",
+   definition: "a command line a service starts",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/workstation-services/properties/schedule.text-property.ts b/service-system/workstation-services/properties/schedule.text-property.ts
+index 185111b32396f60a0453fe68fbb7b3ffe50b54ff..24a22103a2e6a831e538d88b69e90050b307c9c8 100644
+--- a/service-system/workstation-services/properties/schedule.text-property.ts
++++ b/service-system/workstation-services/properties/schedule.text-property.ts
+@@ -8,7 +8,7 @@ export const schedule = {
+   slug: "schedule",
+   propertySlug: "schedule",
+   definition: "the times a unit is started at",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/workstation-services/properties/stops.text-property.ts b/service-system/workstation-services/properties/stops.text-property.ts
+index d3733066e03bed5626a88696ee6004e3d90d3ef4..dfac451a91321dc83300c71059c074e5f0645b12 100644
+--- a/service-system/workstation-services/properties/stops.text-property.ts
++++ b/service-system/workstation-services/properties/stops.text-property.ts
+@@ -8,7 +8,7 @@ export const stops = {
+   slug: "stops",
+   propertySlug: "stops",
+   definition: "a command line a unit runs to bring down what it started",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/service-system/workstation-services/properties/wanted-by.text-property.ts b/service-system/workstation-services/properties/wanted-by.text-property.ts
+index 1cbb8ffde8ca1005f46e6fba99c7d8aedf420b2e..ed5b6418559a287486412e3e82ba69c8a5cbc99d 100644
+--- a/service-system/workstation-services/properties/wanted-by.text-property.ts
++++ b/service-system/workstation-services/properties/wanted-by.text-property.ts
+@@ -8,6 +8,6 @@ export const wantedBy = {
+   slug: "wanted-by",
+   propertySlug: "wanted-by",
+   definition: "the target a unit is pulled in by",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/service-system/workstation-services/properties/wants.text-property.ts b/service-system/workstation-services/properties/wants.text-property.ts
+index fafe7cf397ac6aeb4b1514cf51a62be858917cbc..c10589fb6a1a7d93749fa450427f7b81fec55c0b 100644
+--- a/service-system/workstation-services/properties/wants.text-property.ts
++++ b/service-system/workstation-services/properties/wants.text-property.ts
+@@ -8,7 +8,7 @@ export const wants = {
+   slug: "wants",
+   propertySlug: "wants",
+   definition: "a unit this unit asks for without depending on",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/sms-access/sms-discards/properties/sms-discard-reason.text-property.ts b/sms-access/sms-discards/properties/sms-discard-reason.text-property.ts
+index adbcc1017f3161d6ed1b8d2aaa713b5d04bc167c..6d8cb92d23e7c290546aeb14e0384202c8220838 100644
+--- a/sms-access/sms-discards/properties/sms-discard-reason.text-property.ts
++++ b/sms-access/sms-discards/properties/sms-discard-reason.text-property.ts
+@@ -8,6 +8,6 @@ export const smsDiscardReason = {
+   slug: "sms-discard-reason",
+   propertySlug: "reason",
+   definition: "why the message was thrown away",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/sms-access/sms-discards/properties/sms-discard-sender.text-property.ts b/sms-access/sms-discards/properties/sms-discard-sender.text-property.ts
+index ea39781c4f45dead06330db83fe0d24fbf360c78..4396e393cefb5da681aa61aa7879b0d5c1f6ff33 100644
+--- a/sms-access/sms-discards/properties/sms-discard-sender.text-property.ts
++++ b/sms-access/sms-discards/properties/sms-discard-sender.text-property.ts
+@@ -8,6 +8,6 @@ export const smsDiscardSender = {
+   slug: "sms-discard-sender",
+   propertySlug: "sender",
+   definition: "the number a thrown-away message came from",
+-  max: 40,
++  maxLength: 40,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/sms-core/telnyx-accounts/properties/telnyx-account-api-key.text-property.ts b/sms-core/telnyx-accounts/properties/telnyx-account-api-key.text-property.ts
+index 085459fe6b77664e7121a40f11a702511eebf465..dda4272f0fe6cf3cdac6c55211e76cfae1718af1 100644
+--- a/sms-core/telnyx-accounts/properties/telnyx-account-api-key.text-property.ts
++++ b/sms-core/telnyx-accounts/properties/telnyx-account-api-key.text-property.ts
+@@ -8,6 +8,6 @@ export const telnyxAccountApiKey = {
+   slug: "telnyx-account-api-key",
+   propertySlug: "api-key",
+   definition: "what authorises a send",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/builds/properties/class-name.text-property.ts b/story/builds/properties/class-name.text-property.ts
+index 58586ae044d4e14074a3d27112bf0210d1706a9f..9f6403f06a690e6e86db5ded36ef110c15bf9f7d 100644
+--- a/story/builds/properties/class-name.text-property.ts
++++ b/story/builds/properties/class-name.text-property.ts
+@@ -8,6 +8,6 @@ export const className = {
+   slug: "class-name",
+   propertySlug: "class-name",
+   definition: "the class a character is playing as",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/builds/properties/game-system.text-property.ts b/story/builds/properties/game-system.text-property.ts
+index cdb7b4d2cfbceed87f74dd0f4448321bfb1885c4..1c5e20caa35656c2c1c0b52516809925256facf6 100644
+--- a/story/builds/properties/game-system.text-property.ts
++++ b/story/builds/properties/game-system.text-property.ts
+@@ -8,6 +8,6 @@ export const gameSystem = {
+   slug: "game-system",
+   propertySlug: "game-system",
+   definition: "the rules a build is read against, said in full",
+-  max: 20000,
++  maxLength: 20000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/decisions/properties/chosen.text-property.ts b/story/decisions/properties/chosen.text-property.ts
+index 1872345ed6e9ea32d5346d22fde72955a00d1921..d716656ad315833906a4e32a5137c03630385cee 100644
+--- a/story/decisions/properties/chosen.text-property.ts
++++ b/story/decisions/properties/chosen.text-property.ts
+@@ -8,6 +8,6 @@ export const chosen = {
+   slug: "chosen",
+   propertySlug: "chosen",
+   definition: "the option a decision settled on",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/decisions/properties/decision-effect.text-property.ts b/story/decisions/properties/decision-effect.text-property.ts
+index a0d2f691dc62b56e2aea707f098db4c5347cb462..638be3230a5a3cb92004f78fc5060ce5671eca0a 100644
+--- a/story/decisions/properties/decision-effect.text-property.ts
++++ b/story/decisions/properties/decision-effect.text-property.ts
+@@ -8,6 +8,6 @@ export const decisionEffect = {
+   slug: "decision-effect",
+   propertySlug: "effect",
+   definition: "what a decision changed",
+-  max: 6000,
++  maxLength: 6000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/decisions/properties/decision-options.text-property.ts b/story/decisions/properties/decision-options.text-property.ts
+index 261a382d0c230f13b444f7c53fc97f9a239313b0..d6cc8bce3d3c31675dbfa89d3af88b6e280a1012 100644
+--- a/story/decisions/properties/decision-options.text-property.ts
++++ b/story/decisions/properties/decision-options.text-property.ts
+@@ -8,6 +8,6 @@ export const decisionOptions = {
+   slug: "decision-options",
+   propertySlug: "options",
+   definition: "what a decision could have settled on",
+-  max: 20000,
++  maxLength: 20000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/design-notes/properties/note-subject.text-property.ts b/story/design-notes/properties/note-subject.text-property.ts
+index fbde5519c4e29aa47d0914cc7c9ade5a4dcf1df1..443ec862d6fe58716964203c2b2d31357a7dad69 100644
+--- a/story/design-notes/properties/note-subject.text-property.ts
++++ b/story/design-notes/properties/note-subject.text-property.ts
+@@ -8,6 +8,6 @@ export const noteSubject = {
+   slug: "note-subject",
+   propertySlug: "subject",
+   definition: "what one working document is about",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/arc-structure.text-property.ts b/story/designs/properties/arc-structure.text-property.ts
+index fa2b13646a0ed2054ff90f7eb36849f0995e60ab..d17c2537b435be29af20a2873377d656dea2e80f 100644
+--- a/story/designs/properties/arc-structure.text-property.ts
++++ b/story/designs/properties/arc-structure.text-property.ts
+@@ -8,6 +8,6 @@ export const arcStructure = {
+   slug: "arc-structure",
+   propertySlug: "arc-structure",
+   definition: "the arcs a story is planned to run through",
+-  max: 12000,
++  maxLength: 12000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/book-title.text-property.ts b/story/designs/properties/book-title.text-property.ts
+index fee7a3fc967bffd5d7df208431eb2d4a8658ee37..5e9073bc348c575519c656452e38662175d6ddf9 100644
+--- a/story/designs/properties/book-title.text-property.ts
++++ b/story/designs/properties/book-title.text-property.ts
+@@ -8,6 +8,6 @@ export const bookTitle = {
+   slug: "book-title",
+   propertySlug: "book-title",
+   definition: "the title of the book a story is published as",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/chapter-numbering.text-property.ts b/story/designs/properties/chapter-numbering.text-property.ts
+index 6c9624964db29c2a7dc654fb62f96128d0f25970..b8afa5cee2c71d28f01eaa4bb1098aeffbd03cd0 100644
+--- a/story/designs/properties/chapter-numbering.text-property.ts
++++ b/story/designs/properties/chapter-numbering.text-property.ts
+@@ -8,6 +8,6 @@ export const chapterNumbering = {
+   slug: "chapter-numbering",
+   propertySlug: "chapter-numbering",
+   definition: "how a story's chapters are counted",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/continuity.text-property.ts b/story/designs/properties/continuity.text-property.ts
+index 61d7c93744f49f7fed67a337a4a4ca0ed8d39c5e..1e46f4c615fb762eb1354212c16ceadcb280a63b 100644
+--- a/story/designs/properties/continuity.text-property.ts
++++ b/story/designs/properties/continuity.text-property.ts
+@@ -8,6 +8,6 @@ export const continuity = {
+   slug: "continuity",
+   propertySlug: "continuity",
+   definition: "what a story holds constant between its chapters",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/design-author.text-property.ts b/story/designs/properties/design-author.text-property.ts
+index 30611ac0551c3d83b7ae19d559f7fbf66b6ce716..292fd4ec7ba6adc9f472213612b6aa6baf0e3aec 100644
+--- a/story/designs/properties/design-author.text-property.ts
++++ b/story/designs/properties/design-author.text-property.ts
+@@ -8,6 +8,6 @@ export const designAuthor = {
+   slug: "design-author",
+   propertySlug: "author",
+   definition: "who a story is written as being by",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/design-source.text-property.ts b/story/designs/properties/design-source.text-property.ts
+index 77d49c40e1bc422096076c07c63e85702d92240c..d923fc86d82185a1ead186d373b3f47fa2b80ffc 100644
+--- a/story/designs/properties/design-source.text-property.ts
++++ b/story/designs/properties/design-source.text-property.ts
+@@ -8,6 +8,6 @@ export const designSource = {
+   slug: "design-source",
+   propertySlug: "source",
+   definition: "the work a story is drawn from",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/design-system.text-property.ts b/story/designs/properties/design-system.text-property.ts
+index 368f277d156ed4d9f7aa3cb745f929d937fb9ac2..15bc6f27e450d41523587868149948d95a2c74f6 100644
+--- a/story/designs/properties/design-system.text-property.ts
++++ b/story/designs/properties/design-system.text-property.ts
+@@ -8,6 +8,6 @@ export const designSystem = {
+   slug: "design-system",
+   propertySlug: "system",
+   definition: "the rules a story's world runs on",
+-  max: 6000,
++  maxLength: 6000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
