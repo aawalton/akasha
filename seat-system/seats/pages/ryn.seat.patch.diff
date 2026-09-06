@@ -1,0 +1,17 @@
+diff --git a/code-system/audit-ast-unused/code-audit-ast-unused.domain.ts b/code-system/audit-ast-unused/code-audit-ast-unused.domain.ts
+index 2fff8f8748d806f98902d77c9c1c4694d35a0fd4..ac301aa309cb0c6f8313ee45eb80db62d8e3e429 100644
+--- a/code-system/audit-ast-unused/code-audit-ast-unused.domain.ts
++++ b/code-system/audit-ast-unused/code-audit-ast-unused.domain.ts
+@@ -9,7 +9,11 @@ export const codeAuditAstUnused = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The curation is a root file naming its parts, one per package family.",
++      statement: "The curation is a root file naming its parts.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The root names a part for each package family.",
+     },
+     {
+       invariantKind: "departure",
