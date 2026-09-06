@@ -209,7 +209,7 @@ export function reaching(held: Taken): ImportRunDeps {
   }
 }
 
-export async function importing(argv: readonly string[]): Promise<Answer> {
+export async function trackHealthImport(argv: readonly string[]): Promise<Answer> {
   const subject = argv[0]
   if (subject === undefined) {
     return refused(`\`akasha importing\` takes a subject, which is \`${HEALTH}\``, INPUT)

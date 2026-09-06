@@ -1,7 +1,13 @@
 import { expect, test } from "bun:test"
 import type { ImportOutcome, ImportRunDeps } from "@akasha/health-samples-import/health-import-run"
 import { MAX_IMPORT_BATCH, NO_LOWER_BOUND } from "@akasha/health-samples-import/health-import-run"
-import { healthImported, importing, linesOf, type Taken, taken } from "./importing.command.code.ts"
+import {
+  healthImported,
+  linesOf,
+  type Taken,
+  taken,
+  trackHealthImport,
+} from "./track-health-import.command.code.ts"
 
 const SOURCE = "/Users/nobody/Downloads/export.zip"
 
@@ -69,25 +75,25 @@ const BROKEN_REACH: ImportRunDeps = {
 }
 
 test("a call naming no subject is refused as the caller's fault", async () => {
-  const answer = await importing([])
+  const answer = await trackHealthImport([])
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("health")
 })
 
 test("a subject this command does not bring in is refused by name", async () => {
-  const answer = await importing(["weather"])
+  const answer = await trackHealthImport(["weather"])
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("`weather`")
 })
 
 test("a second subject is refused rather than chosen between", async () => {
-  const answer = await importing(["health", "weather"])
+  const answer = await trackHealthImport(["health", "weather"])
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("one subject")
 })
 
 test("a flag this command does not take is refused by name", async () => {
-  const answer = await importing(["health", "--json"])
+  const answer = await trackHealthImport(["health", "--json"])
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("`--json`")
 })

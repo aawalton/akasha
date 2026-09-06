@@ -50,7 +50,7 @@ export const command = {
     "command/elaine",
     "command/food",
     "command/icloud",
-    "command/importing",
+    "command/track-health-import",
     "command/index",
     "command/ios-app",
     "command/lint",
