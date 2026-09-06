@@ -109,3 +109,26 @@ index bf8100a697b850ffe420b0763e21534e841ae263..87aaddcb9d96eb21bea24425e6d9d02e
      return undefined
    }
  }
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts
+index 47c25c1d26d3aefb345378d28c9ee599a426dd57..1de0e910b68ab5725926d6ffd4a850278c873b49 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.ts
+@@ -39,6 +39,18 @@ export const dataWatching = {
+       invariantKind: "departure",
+       statement: "A picture states the folders it reads and which files in them it is made from.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A picture built out of the index says so rather than naming a file in the index.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Such a picture is taken again on any event under the index.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The index is followed for those events rather than read at each one.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A seat that appears while the service runs is read from then on.",
