@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.ts b/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.ts
-index 8cbc35306c139d88a85a551cb2696c76b0e037e4..7a29f699b7633802cc4a3c3e6635db38a067c04c 100644
+index 8cbc35306c139d88a85a551cb2696c76b0e037e4..a0c65a8f1a001ae258b1006eb3025d1406fbf633 100644
 --- a/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.ts
 +++ b/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.ts
 @@ -13,7 +13,8 @@ export const monarchGmailCache = {
@@ -13,3 +12,17 @@ index 8cbc35306c139d88a85a551cb2696c76b0e037e4..7a29f699b7633802cc4a3c3e6635db38
      },
      {
        invariantKind: "departure",
+@@ -26,8 +27,11 @@ export const monarchGmailCache = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The listing bounds the answer, so a cached message no longer listed is not returned.",
++      statement: "The listing bounds the answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A cached message no longer listed is not returned.",
+     },
+     {
+       invariantKind: "stopgap",
