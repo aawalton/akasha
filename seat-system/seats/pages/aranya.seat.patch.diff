@@ -286,3 +286,17 @@ index 0000000000000000000000000000000000000000..447c4618eef527677efc45024bc90f97
 +  slug: "collections-secrets-trakt-client-id",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "TRAKT_CLIENT_ID" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-trakt-client-secret.secret.ts b/service-system/secrets/pages/collections-secrets-trakt-client-secret.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..03c89d436f093c24e10b4da7627801bffeb51804
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-trakt-client-secret.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsTraktClientSecret = {
++  id: "01a076b8-124d-76ce-a0f0-999991d61492",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-trakt-client-secret",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "TRAKT_CLIENT_SECRET" }],
++} as const satisfies Secret
