@@ -466,6 +466,249 @@ index 4d0c31bd33bf953f185196c358df344f3c89d8bb..b9681a329308def826425e7cbe4193fb
      {
        invariantKind: "absence",
        statement: "Which subagents are running is not answered here.",
+diff --git a/editor-extension/agent-forest-reading/agent-forest-reading.module.code.ts b/editor-extension/agent-forest-reading/agent-forest-reading.module.code.ts
+deleted file mode 100644
+index ff33d7700aacb5f3bcbaba7d0dd33b6d801499a3..0000000000000000000000000000000000000000
+--- a/editor-extension/agent-forest-reading/agent-forest-reading.module.code.ts
++++ /dev/null
+@@ -1,84 +0,0 @@
+-import {
+-  ALAN,
+-  agentPagesIn,
+-  assembleForest,
+-  countRunning,
+-} from "../agent-forest/agent-forest.module.code.ts"
+-import {
+-  type ForestAnswer,
+-  type HarnessRow,
+-  parseForest,
+-} from "../agent-forest-answer/agent-forest-answer.module.code.ts"
+-import type { AgentNode } from "../agent-row/agent-row.module.code.ts"
+-import { readSeatPlaces } from "../agent-tree-lookup/agent-tree-lookup.module.code.ts"
+-import { askHarness } from "../harness-json/harness-json.module.code.ts"
+-import type {
+-  SubagentNode,
+-  SubagentReader,
+-} from "../subagent-reading/subagent-reading.module.code.ts"
+-import { seatTranscriptOf } from "../transcript-sources/transcript-sources.module.code.ts"
+-
+-export interface AgentForest {
+-  readonly roots: readonly AgentNode[]
+-  readonly alanPrincipalCount: number
+-  readonly runningCount: number
+-  readonly unreadSeats: number
+-  readonly unreadSaid: string | undefined
+-}
+-
+-// THE WORKING TURN'S COLOR IS GIVEN RATHER THAN READ HERE. This runs in the editor's host, which
+-// holds no transpiler and so cannot open the page stating that color; asking a command for it cost
+-// a child process, which is why the answer used to be held for the life of the reader and went on
+-// being drawn after Alan had rewritten the page. The caller reads the page instead, and reads it
+-// again every time, so what is drawn is what the page says now.
+-export async function readAgentForest(
+-  subagents: SubagentReader,
+-  workingColor: string | undefined
+-): Promise<AgentForest> {
+-  const answer: ForestAnswer = parseForest(await askHarness("agent-forest"))
+-  const rows: readonly HarnessRow[] = answer.rows
+-  const liveIds = new Set(rows.filter((row) => row.live).map((row) => row.id))
+-
+-  const running = new Map<string, readonly SubagentNode[]>()
+-  const unread: string[] = []
+-  await Promise.all(
+-    [...liveIds].map(async (id) => {
+-      const stated = await seatTranscriptOf(id)
+-      if (stated === null) {
+-        unread.push(`${id}: seat-transcripts named no transcript for it`)
+-        return
+-      }
+-      try {
+-        running.set(id, await subagents.forSeat(id, stated.transcriptPath))
+-      } catch (err) {
+-        unread.push(`${id}: ${err instanceof Error ? err.message : String(err)}`)
+-      }
+-    })
+-  )
+-  await subagents.dropUntouched()
+-
+-  let alanPrincipalCount = 0
+-  for (const row of rows) {
+-    if (row.principal === ALAN) {
+-      alanPrincipalCount++
+-    }
+-  }
+-
+-  const places = readSeatPlaces(rows)
+-  const roots = assembleForest(
+-    rows,
+-    liveIds,
+-    running,
+-    places,
+-    workingColor,
+-    answer.repo,
+-    agentPagesIn(answer)
+-  )
+-  return {
+-    roots,
+-    alanPrincipalCount,
+-    runningCount: countRunning(roots),
+-    unreadSeats: unread.length,
+-    unreadSaid: unread.sort()[0],
+-  }
+-}
+diff --git a/editor-extension/agent-forest-reading/agent-forest-reading.module.ts b/editor-extension/agent-forest-reading/agent-forest-reading.module.ts
+deleted file mode 100644
+index 565f720a039e0189f56c7d4667c85cc7c099316f..0000000000000000000000000000000000000000
+--- a/editor-extension/agent-forest-reading/agent-forest-reading.module.ts
++++ /dev/null
+@@ -1,47 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const agentForestReading = {
+-  id: "01a0686b-bfe9-730e-819c-87f392b2783e",
+-  pageTypeSlug: "module",
+-  slug: "agent-forest-reading",
+-  definition: "one reading of the whole fleet, and the count of seats that reading lost",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat's subagents are folded out of that seat's own transcript.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every live seat is read at once rather than in turn.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A live seat no transcript is named for is counted as unread.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat whose fold threw is counted as unread.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The count of unread seats is carried out rather than swallowed.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The reasons are sorted and the first of those reasons is named.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The working turn's color is given to this reading rather than read here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A reading given no turn color leaves every subagent with no color.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here hangs one row under another.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
+index d75ea2e70ecd28cd76b5285b763b5527c9e3c99c..c9169759c32932c812f415695d1a66bde0826bc4 100644
+--- a/editor-extension/editor-extension.workspace-package.ts
++++ b/editor-extension/editor-extension.workspace-package.ts
+@@ -62,7 +62,6 @@ export const editorExtension = {
+     "module/work-tree-view",
+     "module/work-tree-panel",
+     "module/agent-row",
+-    "module/harness-json",
+     "module/agent-forest-answer",
+     "module/seat-tab-context",
+     "module/subagent-checkpoints",
+@@ -74,7 +73,6 @@ export const editorExtension = {
+     "module/agent-tree-lookup",
+     "module/subagent-reading",
+     "module/agent-forest",
+-    "module/agent-forest-reading",
+     "module/agent-tree-state",
+     "module/agent-tree-drawing",
+     "module/invoked-seat",
+diff --git a/editor-extension/harness-json/harness-json.module.code.ts b/editor-extension/harness-json/harness-json.module.code.ts
+deleted file mode 100644
+index 40df4939338fe30a193ca118add6e6cda6a95832..0000000000000000000000000000000000000000
+--- a/editor-extension/harness-json/harness-json.module.code.ts
++++ /dev/null
+@@ -1,17 +0,0 @@
+-import { runCommand } from "../harness-call/harness-call.module.code.ts"
+-
+-const COMMAND_TIMEOUT_MS = 30_000
+-
+-const MAX_BUFFER = 8 * 1024 * 1024
+-
+-export async function askHarness(command: string, args: readonly string[] = []): Promise<unknown> {
+-  const stdout = await runCommand(command, args, {
+-    timeout: COMMAND_TIMEOUT_MS,
+-    maxBuffer: MAX_BUFFER,
+-  })
+-  try {
+-    return JSON.parse(stdout) as unknown
+-  } catch (err) {
+-    throw new Error(`${command} did not print JSON: ${String(err)}`)
+-  }
+-}
+diff --git a/editor-extension/harness-json/harness-json.module.ts b/editor-extension/harness-json/harness-json.module.ts
+deleted file mode 100644
+index cce8175b7918ddfb54e1d2f7735aacb817467646..0000000000000000000000000000000000000000
+--- a/editor-extension/harness-json/harness-json.module.ts
++++ /dev/null
+@@ -1,31 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const harnessJson = {
+-  id: "01a0686b-bfe9-7527-8ee9-4045644edf25",
+-  pageTypeSlug: "module",
+-  slug: "harness-json",
+-  definition: "a harness command run for the one JSON value that command prints",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A command's whole output is read as one JSON value.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "A command printing output that is no JSON is refused by the command's name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A command has thirty seconds to answer.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An answer is read up to eight mebibytes.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here knows the meaning of any answer.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/editor-extension/package.json b/editor-extension/package.json
+index 7f4fc6ce468bcf1edc36e9061e28070213f81e7b..9633db6a2414e255a5994f9ef3015e387947218d 100644
+--- a/editor-extension/package.json
++++ b/editor-extension/package.json
+@@ -6,7 +6,6 @@
+     "./activation": "./activation/activation.module.code.ts",
+     "./agent-forest": "./agent-forest/agent-forest.module.code.ts",
+     "./agent-forest-answer": "./agent-forest-answer/agent-forest-answer.module.code.ts",
+-    "./agent-forest-reading": "./agent-forest-reading/agent-forest-reading.module.code.ts",
+     "./agent-page-opening": "./agent-page-opening/agent-page-opening.module.code.ts",
+     "./agent-row": "./agent-row/agent-row.module.code.ts",
+     "./agent-tree-drawing": "./agent-tree-drawing/agent-tree-drawing.module.code.ts",
+@@ -24,7 +23,6 @@
+     "./editor-layout-panel": "./editor-layout-panel/editor-layout-panel.module.code.ts",
+     "./group-stoplights": "./group-stoplights/group-stoplights.module.code.ts",
+     "./harness-call": "./harness-call/harness-call.module.code.ts",
+-    "./harness-json": "./harness-json/harness-json.module.code.ts",
+     "./invoked-seat": "./invoked-seat/invoked-seat.module.code.ts",
+     "./observation-store": "./observation-store/observation-store.module.code.ts",
+     "./page-tree-assemble": "./page-tree-assemble/page-tree-assemble.module.code.ts",
 diff --git a/editor-extension/status-bar-usage/status-bar-usage.module.code.ts b/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
 index 5816968a67a917db9dabdaee3de5604107b76110..35e3ab95ff5ef8e075fc309e1c7c5b8282830ad6 100644
 --- a/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
