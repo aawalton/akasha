@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/pages/types/declared-properties/declared-properties.module.test.ts b/pages/types/declared-properties/declared-properties.module.test.ts
-index 557c3f5e4764f60c145c8fe3bf2a41f84b0ffc39..b256d07c7b92ea87b101c8188f8b07b2e2b18a58 100644
+index 557c3f5e4764f60c145c8fe3bf2a41f84b0ffc39..e64930b2feb426f5d079ac9e7f254df7afa90a20 100644
 --- a/pages/types/declared-properties/declared-properties.module.test.ts
 +++ b/pages/types/declared-properties/declared-properties.module.test.ts
 @@ -67,7 +67,7 @@ test("a page type carries the properties it declares itself", () => {
@@ -13,3 +13,21 @@ index 557c3f5e4764f60c145c8fe3bf2a41f84b0ffc39..b256d07c7b92ea87b101c8188f8b07b2
    ])
  
    expect(carriedBy(root, "page-type")).toEqual([
+@@ -113,7 +113,7 @@ test("the nearest declaration binds, and a further one for the property is passe
+   const root = rootAt()
+   propertied(root, "record-property", "properties", "properties")
+   typed(root, "domain", null, [
+-    { pagePropertySlug: "properties", required: false, many: true, max: null },
++    { pagePropertySlug: "properties", required: false, many: true, maxCount: null },
+   ])
+   typed(
+     root,
+@@ -235,7 +235,7 @@ test("every declaration is answered, the shadowed one standing beside the one th
+   const root = rootAt()
+   propertied(root, "record-property", "properties", "properties")
+   typed(root, "domain", null, [
+-    { pagePropertySlug: "properties", required: false, many: true, max: null },
++    { pagePropertySlug: "properties", required: false, many: true, maxCount: null },
+   ])
+   typed(
+     root,
