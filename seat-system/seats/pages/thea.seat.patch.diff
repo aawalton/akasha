@@ -4801,7 +4801,7 @@ index 5d006312114194c1a8d4d33d3668a244e69f35ff..9d5fb171a07afa1277dbd6cc250282d5
    max: null,
  } as const satisfies NumberProperty
 diff --git a/pages/types/page-properties/properties/property-slug.text-property.ts b/pages/types/page-properties/properties/property-slug.text-property.ts
-index c9434ec6e7d509f812bb8b0477b39b4f0b3a37f9..216ec61471d565ac742e0d3ea3109283f1c88659 100644
+index c9434ec6e7d509f812bb8b0477b39b4f0b3a37f9..4ca7c4d7d0b7ffba5f8a04cc441892544e62e7ab 100644
 --- a/pages/types/page-properties/properties/property-slug.text-property.ts
 +++ b/pages/types/page-properties/properties/property-slug.text-property.ts
 @@ -8,7 +8,7 @@ export const propertySlug = {
@@ -4813,18 +4813,6 @@ index c9434ec6e7d509f812bb8b0477b39b4f0b3a37f9..216ec61471d565ac742e0d3ea3109283
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
-@@ -26,7 +26,11 @@ export const propertySlug = {
-     },
-     {
-       invariantKind: "departure",
-+<<<<<<< what this change would leave
-+      statement: "The key a page carries is the slug written in camel.",
-+=======
-       statement: "The key a page carries is this slug written in camel.",
-+>>>>>>> what HEAD holds
-     },
-     {
-       invariantKind: "departure",
 diff --git a/pages/types/page-properties/properties/total.number-property.ts b/pages/types/page-properties/properties/total.number-property.ts
 deleted file mode 100644
 index 492d05bfb8520912f064babd5396ff5eb32f8b80..0000000000000000000000000000000000000000
