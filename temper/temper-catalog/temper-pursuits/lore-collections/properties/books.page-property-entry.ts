@@ -15,7 +15,7 @@ export const books = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A book here is one a player finds in the world and reads into a collection.",
+      statement: "A book here is a book a player finds in the world and reads into a collection.",
     },
   ],
 } as const satisfies PagePropertyEntry
