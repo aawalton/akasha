@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
+index dacc0ce54dd335a8f8457b6569ffcf09462c6307..fefa961fefd40c310e17dab2146ae3aa64eaf9e6 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
+@@ -14,7 +14,8 @@ export const stateReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One watcher serves every part of the editor rather than one watcher each.",
++      statement:
++        "One watcher serves every part of the editor rather than one watcher for each part.",
+     },
+     {
+       invariantKind: "departure",
