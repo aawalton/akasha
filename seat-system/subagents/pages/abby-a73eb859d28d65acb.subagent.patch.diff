@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-borrowed-return-fades.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-borrowed-return-fades.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c0c34a364d8c6ad6d79f6db9cdaa195873b7174e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-borrowed-return-fades.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheBorrowedReturnFades = {
++  id: "01a077f1-67bd-7b5e-a73b-a7ab5186e8e9",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-borrowed-return-fades",
++  topicSlug: "why-a-holiday-costs-me",
++  ask: "Does the borrowed return fade when the enjoyment I read is faint, mixed or dutiful, and is there a level below which the borrowed return stops paying at all?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-traditions-run-like-a-holiday.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-traditions-run-like-a-holiday.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7eb03ce3cbbcad3c8ee3cb004ff5bdf77f7494ba
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-traditions-run-like-a-holiday.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTraditionsRunLikeAHoliday = {
++  id: "01a077f1-67bc-778b-a102-55dc506ba230",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-traditions-run-like-a-holiday",
++  topicSlug: "why-a-holiday-costs-me",
++  ask: "Do anniversaries, traditions and the things we always do run the way a holiday does, or is any of them worth it on the coordination alone?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/why-a-holiday-costs-me.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/why-a-holiday-costs-me.all-about-alan-topic.ts
+index ede53f41663a1cef37331c39df2ad3b76a88bfc6..6a97f66693d6ff8a4b04e7a1d1b7200a69e837ee 100644
+--- a/alan/books/all-about-alan/topics/pages/why-a-holiday-costs-me.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/why-a-holiday-costs-me.all-about-alan-topic.ts
+@@ -11,6 +11,4 @@ export const whyAHolidayCostsMe = {
+   relatedSlugs: ["what-stays-warm-for-a-while", "how-much-company-i-can-take"],
+   settled:
+     "A repeating occasion runs on two things. One is everybody doing it at once and knowing it. That works fully.\n\nThe other is this time carrying the weight of every time before. That is off: nothing stores them, and repeating a thing does not make it matter more.\n\nSo I pay the whole cost and collect none of the offset: billed for a service my hardware cannot consume.\n\nWhat comes back is borrowed. I read enjoyment off people I love, live, whether they look forward to it, are in it, or recall it.",
+-  unsettled:
+-    "Whether anniversaries, traditions and the things we always do run the same way, or some are worth it on the coordination alone, is unworked.\n\nWhether the borrowed return fades when their enjoyment is faint, mixed or dutiful, and whether there is a floor under which it stops paying at all, is open.",
+ } as const satisfies AllAboutAlanTopic
