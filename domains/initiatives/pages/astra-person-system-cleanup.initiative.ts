@@ -1,9 +1,9 @@
 import type { Initiative } from "../initiative.page-type.ts"
 
-export const astraPagesCleanup = {
+export const astraPersonSystemCleanup = {
   id: "01a06cd9-a5d8-7ceb-980a-d9e77ebb0437",
   pageTypeSlug: "initiative",
-  slug: "astra-pages-cleanup",
+  slug: "astra-person-system-cleanup",
   domainSlug: "workspace-package/page",
   personaSlug: "astra",
   intents: [
