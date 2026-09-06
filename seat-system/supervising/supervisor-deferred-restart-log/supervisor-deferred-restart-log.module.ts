@@ -19,7 +19,7 @@ export const supervisorDeferredRestartLog = {
     },
     {
       invariantKind: "departure",
-      statement: "Children that could not be enumerated are said as such rather than as none.",
+      statement: "Children that could not be enumerated are said as such rather than as no child.",
     },
   ],
 } as const satisfies Module
