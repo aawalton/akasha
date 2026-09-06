@@ -29,7 +29,8 @@ export const subagentReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The banked offset, the anchor and the state are taken together or not at all.",
+      statement:
+        "A banked offset is taken together with the anchor and the state or not taken at all.",
     },
     {
       invariantKind: "departure",
@@ -49,6 +50,19 @@ export const subagentReading = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The subagents a seat saw start and finish are answered from that seat's own fold.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That answer descends into no child transcript.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Both answers come from one fold of the seat's transcript.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A cursor no read touched is dropped.",
     },
     {
@@ -61,7 +75,11 @@ export const subagentReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The bank is awaited, so a host reading the fleet once and exiting still banks.",
+      statement: "The bank is awaited.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A host reading the fleet once and exiting still banks.",
     },
     {
       invariantKind: "absence",

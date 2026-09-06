@@ -31,11 +31,23 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
-      statement: "Transcript evidence is weighed before every rule that could reach stale.",
+      statement: "A subagent its seat's transcript saw start and finish reads that page as stale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Life read in a transcript is weighed before an end read in that transcript.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Life read in a transcript is weighed before every rule that could reach stale.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing read from a transcript makes a page stale.",
+      statement: "The absence of a running subagent in a transcript makes no page stale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An agent id a transcript never read a launch receipt for ends no page.",
     },
     {
       invariantKind: "departure",
@@ -51,11 +63,15 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
-      statement: "That log carries a line only where a landing refused, so a line is a record.",
+      statement: "That log carries a line only where a landing refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A take-down is read whether or not its line opens with the time it was written.",
+      statement: "A line in that log is therefore a record rather than an inference.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take-down is read whether or not that take-down's line opens with a time.",
     },
     {
       invariantKind: "departure",
@@ -63,7 +79,11 @@ export const subagentCensus = {
     },
     {
       invariantKind: "absence",
-      statement: "No command line is read, because a removal leans on no pattern matching one.",
+      statement: "No command line is read here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A removal leans on no pattern matching a command line.",
     },
     {
       invariantKind: "departure",
@@ -75,8 +95,11 @@ export const subagentCensus = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A subagent between tool calls answers on no process, so no process is no evidence of an end.",
+      statement: "A subagent between tool calls answers on no process.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No process is therefore no evidence of an end.",
     },
     {
       invariantKind: "departure",
@@ -89,11 +112,19 @@ export const subagentCensus = {
     {
       invariantKind: "departure",
       statement:
-        "The census names the seat, the agent id, the processes answering, and why, for every page.",
+        "The census names for every page its seat and its agent id and the processes answering and why.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes, removes or commits.",
+      statement: "Nothing here writes a page.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here removes a page.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here commits.",
     },
     {
       invariantKind: "departure",

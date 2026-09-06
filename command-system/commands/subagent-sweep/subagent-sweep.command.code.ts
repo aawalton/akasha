@@ -28,15 +28,17 @@ import { type Answer, answering, type Given } from "../../calling/calling.module
 // WHAT WAS READ OFF /proc AND OUT OF THE LOGS IS A PARAMETER, so a test seeds a live process and
 // watches the page it answers for kept, which is the one failure this command must never make.
 //
-// THE TRANSCRIPTS ARE READ HERE AND ONLY EVER ADD A WORKING. An acting agent id names a subagent
-// mid tool call alone, so a subagent waiting on the model is indistinguishable from a dead one, and
-// most of the fleet reads undetermined. A seat's transcript knows better: it names every subagent
-// launched that has not returned. What that reading may do is bounded on purpose. A transcript
-// learns an agent id from the launch receipt, so a compacted or truncated one names a running
-// subagent with no id at all, which joins to no page. Used to prove life, that costs a live
-// subagent nothing worse than the undetermined it already had. Used to prove an end, it would take
-// away a working subagent's page. So a transcript that will not open, a seat naming none, and a
-// reading that throws are each worth exactly nothing here rather than worth a removal.
+// THE TRANSCRIPTS ARE READ HERE, FOR LIFE AND FOR AN END. An acting agent id names a subagent mid
+// tool call alone, so a subagent waiting on the model looks the same as one the model reaped, and
+// most of the fleet reads undetermined. A seat's transcript tells the two apart: it names every
+// subagent launched that has not returned, and it names every subagent it saw start and then
+// finish. Both readings rest on one fact, which is that a transcript learns an agent id from the
+// launch receipt. A compacted or truncated transcript therefore names a running subagent with no id
+// at all, which joins to no page, and it has no id to end either. Each reading costs an id rather
+// than inventing one. What is never read is the absence of a running entry, which a truncated
+// transcript and a finished subagent produce alike. So a transcript that will not open, a seat
+// naming none, and a reading that throws are each worth exactly nothing here rather than worth a
+// removal.
 
 const REMOVE = "--remove"
 
@@ -46,11 +48,19 @@ export type Read = { readonly removing: boolean } | { readonly refused: string }
 
 export interface SeatTranscripts {
   readonly forSeat: (agentId: string, transcriptPath: string) => Promise<readonly SubagentNode[]>
+  readonly endedForSeat: (agentId: string, transcriptPath: string) => Promise<readonly string[]>
 }
 
 export type TranscriptPathOf = (seatId: string) => string | null
 
-export type RunningSaid = (pages: readonly SubagentPage[]) => Promise<ReadonlySet<string>>
+export interface OwnIds {
+  readonly running: ReadonlySet<string>
+  readonly ended: ReadonlySet<string>
+}
+
+export const NO_OWN_IDS: OwnIds = { running: new Set(), ended: new Set() }
+
+export type RunningSaid = (pages: readonly SubagentPage[]) => Promise<OwnIds>
 
 export function namedIn(argv: readonly string[]): Read {
   let removing = false
@@ -85,8 +95,9 @@ export async function runningOwnIn(
   pages: readonly SubagentPage[],
   reading: SeatTranscripts,
   pathOf: TranscriptPathOf
-): Promise<ReadonlySet<string>> {
-  const held = new Set<string>()
+): Promise<OwnIds> {
+  const running = new Set<string>()
+  const ended = new Set<string>()
   const seats = [...new Set(pages.map((one) => one.seatId))].filter((one) => one !== "").sort()
   for (const seat of seats) {
     let named: string | null
@@ -97,13 +108,25 @@ export async function runningOwnIn(
     }
     if (named === null || named === "") continue
     try {
-      ownIdsInto(held, await reading.forSeat(seat, named))
+      ownIdsInto(running, await reading.forSeat(seat, named))
+    } catch {}
+    // ONE SEAT'S END READING IS ITS OWN TRY. A seat whose running reading threw may still answer
+    // for its ended ids, and a seat whose ended reading throws keeps the running ids already
+    // gathered. Neither failure reaches the other seat or the other reading.
+    try {
+      for (const one of await reading.endedForSeat(seat, named)) {
+        if (one !== "") ended.add(one)
+      }
     } catch {}
   }
-  return held
+  // AN ID BOTH READINGS NAME IS RUNNING. The census asks life before it asks an end, so this would
+  // settle the same way without the line; it is here because a set answered from this function
+  // should mean what its name says on its own.
+  for (const one of running) ended.delete(one)
+  return { running, ended }
 }
 
-async function transcriptsSay(pages: readonly SubagentPage[]): Promise<ReadonlySet<string>> {
+async function transcriptsSay(pages: readonly SubagentPage[]): Promise<OwnIds> {
   return runningOwnIn(pages, createSubagentReader(), (seat) => transcriptOf(seat)?.value ?? null)
 }
 
@@ -153,13 +176,13 @@ export async function subagentSweep(
   if ("refused" in read) return answering([], [read.refused], 1)
   const root = resolve(given.root)
   const pages = pagesIn(root)
-  let running: ReadonlySet<string> = new Set()
+  let own: OwnIds = NO_OWN_IDS
   try {
-    running = await said(pages)
+    own = await said(pages)
   } catch {
-    running = new Set()
+    own = NO_OWN_IDS
   }
-  const judged = judgedOver(pages, seenIn(entries, baseDir, running))
+  const judged = judgedOver(pages, seenIn(entries, baseDir, own.running, own.ended))
   const census = censusOf(judged)
   const stale = staleAmong(judged)
   if (!read.removing) return answering([...census, ...heldBack(stale.length)], [], 0)

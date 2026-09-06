@@ -9,6 +9,7 @@ import {
 import {
   applyRecord,
   emptySubagentState,
+  endedSubagents,
   isJsonObject,
   type RunningSubagent,
   runningSubagents,
@@ -35,6 +36,7 @@ interface Cursor {
 
 export interface SubagentReader {
   readonly forSeat: (agentId: string, transcriptPath: string) => Promise<readonly SubagentNode[]>
+  readonly endedForSeat: (agentId: string, transcriptPath: string) => Promise<readonly string[]>
   readonly dropUntouched: () => Promise<undefined>
 }
 
@@ -158,6 +160,12 @@ export function createSubagentReader(): SubagentReader {
       const subagentsDir = path.join(transcriptPath.replace(/\.jsonl$/, ""), "subagents")
       return descend(runningSubagents(state), subagentsDir, 1, new Set())
     },
+    // THE SEAT'S OWN FOLD AND NO DESCENT. A child transcript is opened to draw
+    // the tree under a running subagent, and a subagent that ended has no tree
+    // left to draw, so the ids answered here are the ones the seat's own
+    // transcript saw start and finish.
+    endedForSeat: async (agentId: string, transcriptPath: string) =>
+      endedSubagents(await advance(agentId, transcriptPath)),
     dropUntouched: async () => {
       for (const key of [...cursors.keys()]) {
         if (!touched.has(key)) {

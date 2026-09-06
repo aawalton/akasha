@@ -55,5 +55,33 @@ export const subagentCore = {
       invariantKind: "departure",
       statement: "Running subagents are ordered by label and then by the id of the tool call.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An agent id is learned from a launch receipt and from nowhere else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent that stopped keeps its row rather than leaving the records.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An ended subagent is a subagent whose launch and whose stop were both read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A launch that was not read leaves no subagent to end.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop that was not read leaves its subagent running.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "The absence of a running subagent is no end.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Ended subagents are ordered by the id each subagent acts under.",
+    },
   ],
 } as const satisfies Module

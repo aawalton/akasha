@@ -100,16 +100,32 @@ export function node(agentId: string | null, children: readonly SubagentNode[] =
   return { key: `tool-${agentId ?? "unnamed"}`, label: "Explore", agentId, children }
 }
 
-export function reading(by: Readonly<Record<string, readonly SubagentNode[]>>): SeatTranscripts {
-  return { forSeat: (agentId) => Promise.resolve(by[agentId] ?? []) }
+export function reading(
+  by: Readonly<Record<string, readonly SubagentNode[]>>,
+  ended: Readonly<Record<string, readonly string[]>> = {}
+): SeatTranscripts {
+  return {
+    forSeat: (agentId) => Promise.resolve(by[agentId] ?? []),
+    endedForSeat: (agentId) => Promise.resolve(ended[agentId] ?? []),
+  }
 }
 
 export const UNREADABLE: SeatTranscripts = {
   forSeat: () => Promise.reject(new Error("EACCES: permission denied")),
+  endedForSeat: () => Promise.reject(new Error("EACCES: permission denied")),
 }
 
-export function saying(own: readonly string[]): RunningSaid {
-  return () => Promise.resolve(new Set(own))
+// A SEAT WHOSE RUNNING READING THROWS AND WHOSE ENDED READING ANSWERS. The two
+// are asked apart, so a test can seed one failing and watch the other stand.
+export function halfReading(ended: Readonly<Record<string, readonly string[]>>): SeatTranscripts {
+  return {
+    forSeat: () => Promise.reject(new Error("EACCES: permission denied")),
+    endedForSeat: (agentId) => Promise.resolve(ended[agentId] ?? []),
+  }
+}
+
+export function saying(own: readonly string[], ended: readonly string[] = []): RunningSaid {
+  return () => Promise.resolve({ running: new Set(own), ended: new Set(ended) })
 }
 
 export const THROWS: RunningSaid = () => Promise.reject(new Error("no transcript would open"))

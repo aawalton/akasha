@@ -23,14 +23,21 @@ import { LOG_AT, SUBAGENTS_AT } from "../subagents/presence/subagent-presence.mo
 // and a page's age is read nowhere at all: a page written days ago under a Claude process that has
 // been up longer says nothing about whether the subagent inside it returned.
 //
-// A FOURTH IS EVIDENCE OF LIFE AND OF NOTHING ELSE. A seat's transcript names the subagents that
-// seat launched and has not seen return, which is exactly what an acting agent id cannot see: a
-// subagent waiting on the model runs no process to carry one. Those ids arrive as `runningOwn` and
-// are read for one purpose, which is to lift a page to working. That asymmetry is deliberate. A
-// transcript learns an agent id from the launch receipt alone, so a compacted or truncated one
-// yields a running entry naming no id, which joins to no page. Read to prove life, such an entry
-// costs a live subagent nothing worse than undetermined. Read to prove an end, the same entry would
-// take away a working subagent's page and blind the interlock this whole census is here to keep.
+// A FOURTH IS EVIDENCE OF LIFE. A seat's transcript names the subagents that seat launched and has
+// not seen return, which is exactly what an acting agent id cannot see: a subagent waiting on the
+// model runs no process to carry one. Those ids arrive as `runningOwn` and lift a page to working.
+//
+// A FIFTH IS EVIDENCE OF AN END, AND IT IS NARROWER THAN THE FOURTH. The same transcript names the
+// subagents it saw start and then saw finish, and those ids arrive as `endedOwn`. What makes an
+// ended id safe to act on is where an id comes from: a transcript learns one from the launch
+// receipt alone. A fold that missed the launch has no id to end, and a fold that missed the end
+// leaves the id running, so a compacted or truncated transcript costs an id rather than inventing
+// one. What is never safe is the absence of a running entry, because that is what a truncated
+// transcript and a finished subagent look like alike, and reading absence as an end would take away
+// a working subagent's page and blind the interlock this whole census is here to keep.
+//
+// LIFE IS ASKED BEFORE AN END. Both readings are asked of the same transcript, and a reader that
+// somehow answers both for one id leaves that id working, because the order below settles it.
 
 const SEAT = "principalSeatName"
 
@@ -65,6 +72,7 @@ export interface Seen {
   readonly actingPids: ReadonlyMap<string, readonly number[]>
   readonly takenDown: ReadonlySet<string>
   readonly runningOwn: ReadonlySet<string>
+  readonly endedOwn: ReadonlySet<string>
 }
 
 export interface Judged {
@@ -159,13 +167,15 @@ function pidsByAgentId(entries: readonly ProcLivenessEntry[]): Map<string, numbe
 export function seenIn(
   entries: readonly ProcLivenessEntry[],
   baseDir?: string,
-  runningOwn: ReadonlySet<string> = new Set()
+  runningOwn: ReadonlySet<string> = new Set(),
+  endedOwn: ReadonlySet<string> = new Set()
 ): Seen {
   return {
     seatPids: pidsByAgentId(entries),
     actingPids: actingAgentPidsFromProc(entries),
     takenDown: takenDownIn(baseDir),
     runningOwn,
+    endedOwn,
   }
 }
 
@@ -174,15 +184,27 @@ function judgedOne(page: SubagentPage, seen: Seen): Judged {
   if (pids.length > 0) {
     return { page, verdict: WORKING, pids, why: "a live process acts under this agent id" }
   }
-  // THE ONE THING A TRANSCRIPT MAY DO. Every branch below this one can reach STALE, so the
-  // transcript is asked before them and answers working or says nothing at all. A page whose own id
-  // is empty is a page no transcript entry could name, and it falls through untouched.
+  // WHAT A TRANSCRIPT SAYS OF LIFE IS ASKED FIRST. Every branch below this one can reach STALE, so
+  // an id the transcript names as still running is answered here and asked nothing further. A page
+  // whose own id is empty is a page no transcript entry could name, and it falls through untouched.
   if (page.own !== "" && seen.runningOwn.has(page.own)) {
     return {
       page,
       verdict: WORKING,
       pids,
       why: "its seat's transcript names it as a subagent that has not returned",
+    }
+  }
+  // AND WHAT A TRANSCRIPT SAYS OF AN END IS ASKED SECOND. An id here was seen launched and then
+  // seen to finish, which is the one thing that tells a subagent the model reaped from a subagent
+  // the model is still thinking for. Neither one runs a process, and neither one leaves a take-down
+  // in the log, so without this the two are the same undetermined page for as long as the seat runs.
+  if (page.own !== "" && seen.endedOwn.has(page.own)) {
+    return {
+      page,
+      verdict: STALE,
+      pids,
+      why: "its seat's transcript names it as a subagent that started and returned",
     }
   }
   if (page.agentId === "" || page.seatId === "") {
