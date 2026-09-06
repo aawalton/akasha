@@ -102,6 +102,18 @@ index 9e01c82c41ca25045781d5e6dce30b2d30e0a311..3af0fca916e371ca6398f3bc9e68306e
    esoCharacterId: string
    title?: string | null | undefined
    completion?: CharacterCompletion | null | undefined
+diff --git a/temper/temper-player-completion/completion-summaries/completion-summaries.module.test.ts b/temper/temper-player-completion/completion-summaries/completion-summaries.module.test.ts
+index 0d3c8a5d46f9a6d808b10e116a232245c5286639..c0f7938273796be6c2e62547f9106bd6a58b8915 100644
+--- a/temper/temper-player-completion/completion-summaries/completion-summaries.module.test.ts
++++ b/temper/temper-player-completion/completion-summaries/completion-summaries.module.test.ts
+@@ -42,7 +42,6 @@ const QUEST_CATALOG: CompletionCatalogs = {
+ function characterRow(completion: CharacterCompletion | null): CompletionCharacterRow {
+   return {
+     id: "character-one",
+-    userId: "user-one",
+     esoCharacterId: "eso-character-one",
+     completion,
+     createdAt: 0,
 diff --git a/temper/temper-player-completion/completion-trait-research-progress/completion-trait-research-progress.module.test-fixtures.ts b/temper/temper-player-completion/completion-trait-research-progress/completion-trait-research-progress.module.test-fixtures.ts
 index b880c891b3f814525d08cf0fc77bf584366a8f74..ea04add12c6217d1ed2f06b144ee2ea2e55bafff 100644
 --- a/temper/temper-player-completion/completion-trait-research-progress/completion-trait-research-progress.module.test-fixtures.ts
