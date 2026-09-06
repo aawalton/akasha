@@ -4,10 +4,9 @@ export const runCost = {
   id: "01a06860-a0ef-7619-8f93-c450df9427ad",
   pageTypeSlug: "domain",
   slug: "run-cost",
-  definition: "how long a run takes, said as one of seven named bands",
+  definition: "how long a run takes, said as one of six named bands",
   pluralSlug: "run-costs",
   partSlugs: [
-    "domain/run-cost-instant",
     "domain/run-cost-fast",
     "domain/run-cost-lagging",
     "domain/run-cost-slow",
@@ -26,7 +25,7 @@ export const runCost = {
     },
     {
       invariantKind: "departure",
-      statement: "The bands widen in order from instant through to eternal.",
+      statement: "The bands widen in order from fast through to eternal.",
     },
     {
       invariantKind: "departure",

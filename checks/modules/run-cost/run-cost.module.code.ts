@@ -1,19 +1,10 @@
 import { readFileSync } from "node:fs"
 
-export const BANDS = [
-  "instant",
-  "fast",
-  "lagging",
-  "slow",
-  "painful",
-  "torture",
-  "eternal",
-] as const
+export const BANDS = ["fast", "lagging", "slow", "painful", "torture", "eternal"] as const
 
 export type Band = (typeof BANDS)[number]
 
 export const CEILING_MS: Readonly<Record<Band, number>> = {
-  instant: 1_000,
   fast: 5_000,
   lagging: 15_000,
   slow: 60_000,

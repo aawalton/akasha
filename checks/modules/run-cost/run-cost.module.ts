@@ -9,7 +9,7 @@ export const runCost = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The bands go from instant to eternal, each one looser than the last.",
+      statement: "The bands go from fast to eternal, each one looser than the last.",
     },
     {
       invariantKind: "departure",
