@@ -1,9 +1,21 @@
-readersOweReading: false
 diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
-index d6be2bc590cdac0d16cb13d98abf8f01b134045e..f29d217d767d74b41b134a9ae69474e28ca7db0b 100644
+index d6be2bc590cdac0d16cb13d98abf8f01b134045e..cbcdcba921354cb453d5eb64209b1ac9684360fc 100644
 --- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
 +++ b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
-@@ -66,7 +66,7 @@ export const agentTreePanel = {
+@@ -35,7 +35,11 @@ export const agentTreePanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A color is carried on as its name, the decoration being what reads that name.",
++      statement: "A color is carried on as its name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The decoration reads that name.",
+     },
+     {
+       invariantKind: "departure",
+@@ -66,7 +70,7 @@ export const agentTreePanel = {
      {
        invariantKind: "departure",
        statement:
@@ -12,7 +24,7 @@ index d6be2bc590cdac0d16cb13d98abf8f01b134045e..f29d217d767d74b41b134a9ae69474e2
      },
  
      {
-@@ -89,7 +89,7 @@ export const agentTreePanel = {
+@@ -89,7 +93,7 @@ export const agentTreePanel = {
      },
      {
        invariantKind: "absence",
