@@ -314,3 +314,17 @@ index 0000000000000000000000000000000000000000..3aa55789257ec457d24d32fa8956657f
 +  slug: "collections-secrets-viz-password",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "VIZ_PASSWORD" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-viz-username.secret.ts b/service-system/secrets/pages/collections-secrets-viz-username.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..afe0f4064b6f3cb379470362b3b4edded31fc15d
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-viz-username.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsVizUsername = {
++  id: "01a076b8-37d4-703e-b90a-6293b80fa54b",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-viz-username",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "VIZ_USERNAME" }],
++} as const satisfies Secret
