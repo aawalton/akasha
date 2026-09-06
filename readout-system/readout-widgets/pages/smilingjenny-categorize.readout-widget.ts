@@ -13,7 +13,7 @@ export const smilingjennyCategorize = {
   galleryName: "Left to Review",
   galleryDescription:
     "How many of the past year's transactions Monarch is waiting to have reviewed.",
-  opens: "capacitor://monarch-relay",
+  opens: "capacitor://monarch-relay#widget=smilingjenny-categorize",
   groupSlugs: ["categorization"],
   place: 1,
 } as const satisfies ReadoutWidget
