@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.ts b/command-system/commands/measure/check-measuring/check-measuring.module.ts
-index deca30d98dfc44057befd023332874825df0bdac..5800805eb64b2d0d71b070b7431cdbe1e175d466 100644
+index deca30d98dfc44057befd023332874825df0bdac..f5a606cf035ed8ae6a6e2b133b01a189dc27b428 100644
 --- a/command-system/commands/measure/check-measuring/check-measuring.module.ts
 +++ b/command-system/commands/measure/check-measuring/check-measuring.module.ts
 @@ -23,7 +23,7 @@ export const checkMeasuring = {
@@ -12,13 +12,19 @@ index deca30d98dfc44057befd023332874825df0bdac..5800805eb64b2d0d71b070b7431cdbe1
      },
      {
        invariantKind: "departure",
-@@ -39,7 +39,8 @@ export const checkMeasuring = {
+@@ -39,12 +39,13 @@ export const checkMeasuring = {
      },
      {
        invariantKind: "departure",
 -      statement: "A run's processor time is that run's own together with the children it reaped.",
 +      statement:
 +        "A run's processor time is that run's own together with the children that run reaped.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A run's memory is the bytes that run added over the memory resident when it opened.",
++        "A run's memory is the bytes that run added over the memory resident when that run opened.",
      },
      {
        invariantKind: "departure",
