@@ -14,14 +14,6 @@ export const changeFile = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The arguments are read here rather than trusted.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An argument this change is handed no value for is refused by name.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The passage and the replacement are two arguments.",
     },
     {

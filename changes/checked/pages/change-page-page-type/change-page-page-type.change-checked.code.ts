@@ -9,6 +9,7 @@ import { repointed } from "../../../mechanical/pages/repoint-imports/repoint-imp
 import {
   answered,
   gathered,
+  missing,
   refusing,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
@@ -19,6 +20,10 @@ import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.c
 const GUARDS = [importNotLeftHanging]
 
 const TYPE_KEY = "pageTypeSlug"
+
+const AT = "at"
+
+const TO = "to"
 
 export type ChangePagePageTypeAsked = {
   readonly at: string
@@ -150,6 +155,14 @@ export function changePagePageType(world: World, given: ChangePagePageTypeAsked)
   return guardedBy(world, held, GUARDS)
 }
 
-export function runChange(world: World, given: ChangePagePageTypeAsked): Answer {
-  return changePagePageType(world, given)
+export type Asked = Readonly<Record<string, string>>
+
+// A command line hands the arguments in as text worked out while the command runs, so the shape is
+// read here rather than trusted, and a shape this change cannot use is refused by name.
+export function runChange(world: World, given: Asked): Answer {
+  const at = given[AT]
+  if (at === undefined) return refusing(missing(AT))
+  const to = given[TO]
+  if (to === undefined) return refusing(missing(TO))
+  return changePagePageType(world, { at, to })
 }

@@ -8,13 +8,6 @@ export const change = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-mechanical",
-  taking: [
-    { said: "add-file", takes: "the change to run, which writes one body at one path" },
-    { said: "change-file", takes: "the change to run, which replaces one passage of one body" },
-    { said: "remove-page", takes: "the change to run, which takes one page away" },
-    { said: "remove-page-type", takes: "the change to run, which takes one page type away" },
-    { said: "drop", takes: "the act taking away every edit kept beside this agent's page" },
-  ],
   helpNotes: [
     "the change is the first word, and the arguments that change takes are piped in.",
     "an argument is a line `key: value`, or `key <fence>` opening a body that `<fence>` alone closes.",
@@ -204,8 +197,21 @@ export const change = {
       statement: "This command takes no dry run.",
     },
     {
-      invariantKind: "gap",
-      statement: "The changes this runs are named here as well as read off the index.",
+      invariantKind: "departure",
+      statement:
+        "The changes the help lists are read off the index rather than named on this page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change is listed under the definition that change's own page states.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No taking is stated here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The help flag reaches this command's own code.",
     },
   ],
 } as const satisfies Command

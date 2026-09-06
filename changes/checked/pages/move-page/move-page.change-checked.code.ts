@@ -4,7 +4,11 @@ import type { Value } from "@akasha/pages/page-value"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { importNotLeftHanging } from "../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
 import { repointed } from "../../../mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
-import { answered, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import {
+  answered,
+  missing,
+  refusing,
+} from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
@@ -13,6 +17,10 @@ import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.c
 const GUARDS = [importNotLeftHanging]
 
 const OUTSIDE = ".."
+
+const AT = "at"
+
+const TO = "to"
 
 export type MovePageAsked = {
   readonly at: string
@@ -77,6 +85,14 @@ export function movePage(world: World, given: MovePageAsked): Answer {
   return guardedBy(world, answered(edits), GUARDS)
 }
 
-export function runChange(world: World, given: MovePageAsked): Answer {
-  return movePage(world, given)
+export type Asked = Readonly<Record<string, string>>
+
+// A command line hands the arguments in as text worked out while the command runs, so the shape is
+// read here rather than trusted, and a shape this change cannot use is refused by name.
+export function runChange(world: World, given: Asked): Answer {
+  const at = given[AT]
+  if (at === undefined) return refusing(missing(AT))
+  const to = given[TO]
+  if (to === undefined) return refusing(missing(TO))
+  return movePage(world, { at, to })
 }

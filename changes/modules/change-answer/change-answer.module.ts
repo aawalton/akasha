@@ -10,6 +10,11 @@ export const changeAnswer = {
   invariants: [
     {
       invariantKind: "departure",
+      statement:
+        "An argument a change was handed no value for is refused by the key naming that argument.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An edit stating no body takes its path away.",
     },
     {

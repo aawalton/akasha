@@ -1,8 +1,10 @@
 import { partedIn } from "@akasha/pages/page-file-name"
 import { removePageType as removeTheType } from "../../../mechanical/pages/remove-page-type/remove-page-type.change-mechanical.code.ts"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+
+const AT = "at"
 
 const PAGE_TYPE = "page-type"
 
@@ -23,6 +25,12 @@ export function removePageType(world: World, given: RemovePageTypeAsked): Answer
   return removeTheType(world, { at: given.at })
 }
 
-export function runChange(world: World, given: RemovePageTypeAsked): Answer {
-  return removePageType(world, given)
+export type Asked = Readonly<Record<string, string>>
+
+// A command line hands the arguments in as text worked out while the command runs, so the shape is
+// read here rather than trusted, and a shape this change cannot use is refused by name.
+export function runChange(world: World, given: Asked): Answer {
+  const at = given[AT]
+  if (at === undefined) return refusing(missing(AT))
+  return removePageType(world, { at })
 }

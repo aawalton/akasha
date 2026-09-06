@@ -4,6 +4,12 @@ export function refusing(why: string): Answer {
   return { edits: [], refused: why }
 }
 
+// A caller writes a change's arguments as text while the command runs, so an argument the caller
+// left out reads as nothing rather than as a fault, and the key is what says what to write.
+export function missing(key: string): string {
+  return `\`${key}\` names what this change is handed, and the arguments hold no \`${key}\``
+}
+
 export function answered(edits: readonly Edit[]): Answer {
   return { edits, refused: null }
 }

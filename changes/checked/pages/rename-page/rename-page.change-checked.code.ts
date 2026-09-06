@@ -9,6 +9,7 @@ import { statedIn } from "../../../mechanical/pages/restate-value/restate-value.
 import {
   answered,
   gathered,
+  missing,
   refusing,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
@@ -25,6 +26,12 @@ const PAGE_TYPE = "page-type"
 const FILE_PROPERTY = "file-property"
 
 const PLURAL_SLUG = "pluralSlug"
+
+const AT = "at"
+
+const TO = "to"
+
+const PLURAL = "plural"
 
 export type RenamePageAsked = {
   readonly at: string
@@ -157,6 +164,15 @@ export function renamePage(world: World, given: RenamePageAsked): Answer {
   return folded
 }
 
-export function runChange(world: World, given: RenamePageAsked): Answer {
-  return renamePage(world, given)
+export type Asked = Readonly<Record<string, string>>
+
+// A command line hands the arguments in as text worked out while the command runs, so the shape is
+// read here rather than trusted, and a shape this change cannot use is refused by name.
+export function runChange(world: World, given: Asked): Answer {
+  const at = given[AT]
+  if (at === undefined) return refusing(missing(AT))
+  const to = given[TO]
+  if (to === undefined) return refusing(missing(TO))
+  const plural = given[PLURAL]
+  return renamePage(world, plural === undefined ? { at, to } : { at, to, plural })
 }

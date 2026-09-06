@@ -2,6 +2,7 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { agentPathOf } from "@akasha/context/warranting"
 import { partedIn } from "@akasha/pages/page-file-name"
+import { textAt } from "@akasha/pages/page-value"
 import type {
   Edit,
   Answer as Said,
@@ -26,11 +27,19 @@ import {
   readingIn,
 } from "../../argument-reading/argument-reading.module.code.ts"
 import { mistaking } from "../../asking/asking.module.code.ts"
-import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import {
+  type Answer,
+  type Given,
+  HELP,
+  HELP_SHORT,
+  helpOf,
+} from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { inputIn, type Piping } from "../../piping/piping.module.code.ts"
+import type { Taking } from "../properties/taking.record-property.ts"
 import { MESSAGE, offRepo, pathAt, unknownIn } from "../write/write.command.code.ts"
+import { change as changePage } from "./change.command.ts"
 
 const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
 
@@ -52,6 +61,10 @@ const CHANGE_COMMAND = "change-command"
 const COMMAND_TYPES: readonly string[] = [CHANGE_COMMAND, "change-checked", "change-authored"]
 
 const DROP = "drop"
+
+const DROP_TAKES = "the act taking away every edit kept beside this agent's page"
+
+const DEFINITION = "definition"
 
 const DROPPED = "these edits are gone, and no apply lands them"
 
@@ -79,16 +92,44 @@ function worldFor(root: string, had: readonly Edit[], before: Said): World {
   return had.length === 0 ? base : worldOver(base, before)
 }
 
+export type Runs = {
+  readonly slug: string
+  readonly definition: string
+}
+
+// The changes this runs are the pages filed under the kinds a command change is typed for, so a
+// change landing anywhere in the tree is offered here without this command being told of it.
+export function changesIn(world: World): readonly Runs[] {
+  const held: Runs[] = []
+  for (const type of COMMAND_TYPES) {
+    for (const one of world.index.everyOfType(type)) {
+      const slug = partedIn(one.path)?.slug
+      if (slug === undefined) continue
+      const value = world.index.pageAt(type, slug)
+      held.push({ slug, definition: (value === null ? null : textAt(value, DEFINITION)) ?? "" })
+    }
+  }
+  return held.sort((one, two) => (one.slug < two.slug ? -1 : one.slug > two.slug ? 1 : 0))
+}
+
 export function runsSaid(world: World): string {
-  const held = COMMAND_TYPES.flatMap((type) =>
-    [...world.index.everyOfType(type)]
-      .map((one) => partedIn(one.path)?.slug ?? null)
-      .filter((one): one is string => one !== null)
-  )
-  return [...held]
-    .sort()
-    .map((one) => `\`${one}\``)
+  return changesIn(world)
+    .map((one) => `\`${one.slug}\``)
     .join(", ")
+}
+
+// A change says what that change is for on its own page, so the help carries those definitions
+// rather than a second list here that would drift from them.
+export function takingOf(world: World): Taking {
+  return [
+    ...changesIn(world).map((one) => ({ said: one.slug, takes: one.definition })),
+    { said: DROP, takes: DROP_TAKES },
+  ]
+}
+
+export function helping(root: string, calledAs: string): Answer {
+  const surface = { taking: takingOf(worldAt(root, textIn(root))), helpNotes: changePage.helpNotes }
+  return { report: helpOf(calledAs, changePage.definition, surface), refusals: [], code: 0 }
 }
 
 // The arguments are text a caller piped in rather than flags, so a body carrying a quote or a
@@ -261,6 +302,8 @@ function applyingFor(given: Given): Applying {
 }
 
 export async function change(argv: readonly string[], given: Given): Promise<Answer> {
+  const first = argv[0]
+  if (first === HELP || first === HELP_SHORT) return helping(given.root, given.calledAs)
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) return mistaking([NO_PAGE])
   return await changing(given.root, page, argv, inputIn, loadedAt, applyingFor(given))

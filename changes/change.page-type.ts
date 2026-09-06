@@ -46,6 +46,16 @@ export const change = {
   invariants: [
     {
       invariantKind: "departure",
+      statement:
+        "A change reached from the command line reads the arguments handed in rather than trusting the arguments.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An argument such a change was handed no value for is refused by the key naming that argument.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A change that is expected to pass checks runs checks.",
     },
     {

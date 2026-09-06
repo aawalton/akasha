@@ -10,11 +10,23 @@ import {
 import ts from "typescript"
 import { renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical.code.ts"
 import { renameLocalVariable } from "../../../mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.code.ts"
-import { gathered, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import {
+  gathered,
+  missing,
+  refusing,
+} from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
 export const LINE = "--line"
+
+const AT = "at"
+
+const OF = "of"
+
+const TO = "to"
+
+const ON_LINE = "line"
 
 export type RenameCodeTokenAsked = {
   readonly at: string
@@ -86,6 +98,23 @@ export function renameCodeToken(world: World, given: RenameCodeTokenAsked): Answ
   ])
 }
 
-export function runChange(world: World, given: RenameCodeTokenAsked): Answer {
-  return renameCodeToken(world, given)
+export type Asked = Readonly<Record<string, string>>
+
+// A command line hands the arguments in as text worked out while the command runs, so the shape is
+// read here rather than trusted, and a shape this change cannot use is refused by name. A line is
+// counted rather than spelled, so text naming no whole number is refused rather than read as one.
+export function runChange(world: World, given: Asked): Answer {
+  const at = given[AT]
+  if (at === undefined) return refusing(missing(AT))
+  const of = given[OF]
+  if (of === undefined) return refusing(missing(OF))
+  const to = given[TO]
+  if (to === undefined) return refusing(missing(TO))
+  const said = given[ON_LINE]
+  if (said === undefined) return renameCodeToken(world, { at, of, to })
+  const line = Number(said)
+  if (!Number.isInteger(line)) {
+    return refusing(`\`${ON_LINE}\` counts a line, and \`${said}\` is no whole number`)
+  }
+  return renameCodeToken(world, { at, of, to, line })
 }
