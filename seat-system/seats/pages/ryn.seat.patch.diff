@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/seat-proxy-state/seat-proxy-state.module.ts b/seat-system/seat-proxy-state/seat-proxy-state.module.ts
+index 421f0c63a171bb053fdbc4dd4e7b1b1edef1d337..fd51f775ef488bf27a975ec457300f2a148a829d 100644
+--- a/seat-system/seat-proxy-state/seat-proxy-state.module.ts
++++ b/seat-system/seat-proxy-state/seat-proxy-state.module.ts
+@@ -21,7 +21,7 @@ export const seatProxyState = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A process key held as null reads the same as one that is not there.",
++      statement: "A process key held as null reads the same as a key that is not there.",
+     },
+     {
+       invariantKind: "departure",
