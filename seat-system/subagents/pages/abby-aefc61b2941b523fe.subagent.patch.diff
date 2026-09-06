@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-working-my-faith-would-move.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-working-my-faith-would-move.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b24647097973316da22adc7bbd4e7532128ca730
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-working-my-faith-would-move.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatWorkingMyFaithWouldMove = {
++  id: "01a077ee-fe1b-7ba2-9ca0-b07eea412b14",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-working-my-faith-would-move",
++  topicSlug: "the-year-i-am-running",
++  ask: "Faith sits at about half and is unworked, the largest single lever on my floor and the one thing that could add a duty to stay whatever the floor does. What would working faith move?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-year-is-run-at-full-effort.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-year-is-run-at-full-effort.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..15282691e1c6a1d7dff00f75154eaa6579ddbba1
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-year-is-run-at-full-effort.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheYearIsRunAtFullEffort = {
++  id: "01a077ee-fe1c-7a59-a71b-83abfe424038",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-year-is-run-at-full-effort",
++  topicSlug: "the-year-i-am-running",
++  ask: "Is the year genuinely being run at full effort, with both levers pulled rather than avoidantly? That is the validity risk on the whole trial.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-year-i-am-running.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-year-i-am-running.all-about-alan-topic.ts
+index cd64f6a9c33cf4823702dbb45a2f682c23a26c10..89126d3de6a246e22f332bf050b91e1b5da12bdb 100644
+--- a/alan/books/all-about-alan/topics/pages/the-year-i-am-running.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-year-i-am-running.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const theYearIAmRunning = {
+   parentSlugs: ["whether-i-stay"],
+   settled:
+     "No irreversible change until a full year passes with no rise in my base safety floor, run at full effort.\n\nThe floor is the metric rather than the crest, because a crest can feel like hope without moving anything.\n\nA floor falling toward the hard line is the override firing, not a reason to wait.\n\nFaith enters through the floor like everything else, so it never needed a gate of its own.\n\nWork on the marriage is inside what the rule measures, since it lowers the running cost.",
+-  unsettled:
+-    "Faith sits at about half and is unworked. It is the largest single lever on the floor, and the one thing that could add a duty to stay whatever the floor does.\n\nWhether the year is genuinely being run at full effort, both levers pulled rather than avoidantly, is the validity risk on the whole trial.",
+ } as const satisfies AllAboutAlanTopic
