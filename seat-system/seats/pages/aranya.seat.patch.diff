@@ -29,7 +29,7 @@ index 4c93b389da87f135c57b85e4200dd59c1a2485c0..8274088e2dd1dcf18f19ccab6baca071
        `echo "$SAID" | kubectl apply -n ${namespace} -f -`,
      ],
 diff --git a/changes/workflow-language/secret-place/secret-place.workflow-step.ts b/changes/workflow-language/secret-place/secret-place.workflow-step.ts
-index de152596a2df703fa663a6e3a43e112c8752484b..170f0d895d69481c087fad55bb5ea4821c91e81e 100644
+index de152596a2df703fa663a6e3a43e112c8752484b..08070dc00cba9258399844904e8089b7593466d7 100644
 --- a/changes/workflow-language/secret-place/secret-place.workflow-step.ts
 +++ b/changes/workflow-language/secret-place/secret-place.workflow-step.ts
 @@ -9,7 +9,7 @@ export const secretPlace = {
@@ -54,7 +54,7 @@ index de152596a2df703fa663a6e3a43e112c8752484b..170f0d895d69481c087fad55bb5ea482
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "What a resource holds is read from the pages placing a value in that resource.",
++      statement: "A resource's values come from the pages placing a value in that resource.",
      },
      {
        invariantKind: "departure",
