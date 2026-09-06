@@ -42,3 +42,31 @@ index 321c1154326c1e197e3d59097c3b6cb6b3785aea..abee2b93089db3b1909017d45756e35d
  }
  
  // A caller naming an address in its own text is held to the arguments the map states for that
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.ts b/changes/runners/pages/change-running/change-running.change-runner.ts
+index b2b5d178a4774aa7661e7b433f0d2ae63c74c5ac..b8972377c87ed3c7578004f535dfc09528268a1a 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.ts
+@@ -48,6 +48,23 @@ export const changeRunning = {
+       invariantKind: "departure",
+       statement: "An address worked out while a command runs is held to the change's refusals.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Loading a change and running that change are two acts.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Loading reaches the disk and running reaches nothing outside the world handed in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A caller holding a lock over a store loads before the lock is taken.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The guards are loaded alongside the change rather than after the change answers.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "No change is imported here.",
