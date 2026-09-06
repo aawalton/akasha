@@ -1,9 +1,9 @@
 readersOweReading: false
 diff --git a/command-system/commands/move/manifesting/move-manifesting.module.ts b/command-system/commands/move/manifesting/move-manifesting.module.ts
-index 5c4fb315e72432e09c213b447b87ab1bab232aed..663479c0bb8e89c33586d5746e05ceadfdf7bb6a 100644
+index 5c4fb315e72432e09c213b447b87ab1bab232aed..454ad010773624c62524abb76407e1760f5209e3 100644
 --- a/command-system/commands/move/manifesting/move-manifesting.module.ts
 +++ b/command-system/commands/move/manifesting/move-manifesting.module.ts
-@@ -67,7 +67,7 @@ export const moveManifesting = {
+@@ -67,11 +67,11 @@ export const moveManifesting = {
      },
      {
        invariantKind: "gap",
@@ -12,3 +12,8 @@ index 5c4fb315e72432e09c213b447b87ab1bab232aed..663479c0bb8e89c33586d5746e05cead
      },
      {
        invariantKind: "gap",
+-      statement: "A file named by `main` or `bin` is repointed as one named by `exports` is.",
++      statement: "A file named by `main` or `bin` is repointed as a file named by `exports` is.",
+     },
+   ],
+ } as const satisfies Module
