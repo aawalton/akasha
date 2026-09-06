@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
-index b79b45cfb73d2615e03bc7c1171eebc52ddde19b..39318b144d881a1d08237364c64d06f1116748de 100644
+index b79b45cfb73d2615e03bc7c1171eebc52ddde19b..1954e81194e9bf37a778d91f9f4731a96aa474d3 100644
 --- a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
 +++ b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
 @@ -72,8 +72,15 @@ export const claudeAccountUpkeep = {
@@ -20,3 +20,13 @@ index b79b45cfb73d2615e03bc7c1171eebc52ddde19b..39318b144d881a1d08237364c64d06f1
      },
      {
        invariantKind: "departure",
+@@ -109,7 +116,8 @@ export const claudeAccountUpkeep = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "Every clock read, wait taken, line said and body fetched goes through a door.",
++      statement:
++        "Every clock read and wait taken and line said and body fetched goes through a door.",
+     },
+     {
+       invariantKind: "constraint",
