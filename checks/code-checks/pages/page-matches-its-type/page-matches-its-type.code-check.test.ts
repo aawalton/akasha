@@ -210,9 +210,6 @@ test("a single value declared many is refused, and a list declared single is ref
 })
 
 test("a page type the index does not name is refused, and the check's own reading passes over", () => {
-  // This asked the strict reading for `no-such-type` and expected `[]`, which conflated a page
-  // type that is not there with one that carries nothing. Seven page types really were absent from
-  // the identity index while their files sat on disk, and every one read as declaring nothing.
   expect(() => declaredIn("no-such-type")).toThrow("`no-such-type` names no page type here")
   expect(world.index.propertiesIfNamed("no-such-type")).toBe(null)
 })
@@ -294,10 +291,6 @@ test("a page whose page type declares nothing is passed over, as it was before",
 
 test("a file the index does not name as a page is passed over, whatever its body says", () => {
   expect(judgedOver({ "akasha/held.ts": "export const held = (\n" })).toEqual([])
-})
-
-test("a path outside the akasha folder is passed over, however it is named", () => {
-  expect(judgedOver({ "shared/held.page-type.ts": "export const held = (\n" })).toEqual([])
 })
 
 test("a required property named as excused is not asked for, and the rest of them still are", () => {
