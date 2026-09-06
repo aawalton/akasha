@@ -1,17 +1,22 @@
 diff --git a/alan/fitness/session-planning/session-loading/session-loading.module.ts b/alan/fitness/session-planning/session-loading/session-loading.module.ts
-index 5403bebff6924e7ab023e096de1b129e66c8cae2..d11048436a1a80cb6b170f77c1e248625aa6ad80 100644
+index 5403bebff6924e7ab023e096de1b129e66c8cae2..27146f5663ca78ed8b0bedbf0a2aaf93cfa36258 100644
 --- a/alan/fitness/session-planning/session-loading/session-loading.module.ts
 +++ b/alan/fitness/session-planning/session-loading/session-loading.module.ts
-@@ -33,7 +33,11 @@ export const sessionLoading = {
+@@ -33,11 +33,15 @@ export const sessionLoading = {
      },
      {
        invariantKind: "departure",
 -      statement: "A set log carries no day, so the day comes from the session that log belongs to.",
 +      statement: "A set log carries no day.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Cardio, mobility and warmup sets are no history to progress from.",
++      statement: "The day comes from the session that log belongs to.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "The day comes from the session that log belongs to.",
++      statement: "Cardio and mobility and warmup sets are no history to progress from.",
      },
      {
        invariantKind: "departure",
