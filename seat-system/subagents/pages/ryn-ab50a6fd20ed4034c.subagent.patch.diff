@@ -1,6 +1,23 @@
 runsWarrants: false
+diff --git a/agents/claude-accounts/claude-account.page-type.worked.ts b/agents/claude-accounts/claude-account.page-type.worked.ts
+index b3dd8ee4c0c8368877ed709c99e7dce30f5f080a..a0e69bc8affa846fe33c41116d2b3714c042e41a 100644
+--- a/agents/claude-accounts/claude-account.page-type.worked.ts
++++ b/agents/claude-accounts/claude-account.page-type.worked.ts
+@@ -1,8 +1,8 @@
+ import type { ClaudeAccount } from "./claude-account.page-type.ts"
+-import type { EffectiveFiveHourUsage } from "./properties/effective-five-hour-usage.computed-property.ts"
+-import type { EffectiveSevenDayUsage } from "./properties/effective-seven-day-usage.computed-property.ts"
++import type { EffectiveFiveHourPercentUsed } from "./properties/effective-five-hour-percent-used.computed-property.ts"
++import type { EffectiveSevenDayPercentUsed } from "./properties/effective-seven-day-percent-used.computed-property.ts"
+ 
+ export type WorkedClaudeAccount = ClaudeAccount & {
+-  effectiveFiveHourUsage?: EffectiveFiveHourUsage
+-  effectiveSevenDayUsage?: EffectiveSevenDayUsage
++  effectiveFiveHourPercentUsed?: EffectiveFiveHourPercentUsed
++  effectiveSevenDayPercentUsed?: EffectiveSevenDayPercentUsed
+ }
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.ts
-index aa8eb38e237cd70ecf99d475a552bbe38b0be2ce..bd8db07092b9633d78e0f3be446fb2489d98eb73 100644
+index aa8eb38e237cd70ecf99d475a552bbe38b0be2ce..dcb1e557d3e298783874ef128211b363042c07d2 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/terminal-seat-mapping/terminal-seat-mapping.module.ts
 @@ -14,7 +14,8 @@ export const terminalSeatMapping = {
@@ -20,6 +37,15 @@ index aa8eb38e237cd70ecf99d475a552bbe38b0be2ce..bd8db07092b9633d78e0f3be446fb248
 -      statement: "A chain stops where it reaches the process that started every other.",
 +      statement:
 +        "A chain stops where the chain reaches the process that started every other process.",
+     },
+     {
+       invariantKind: "departure",
+@@ -34,7 +36,7 @@ export const terminalSeatMapping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A pid two seats both reach is given to neither.",
++      statement: "A pid two seats reach is given to neither seat.",
      },
      {
        invariantKind: "departure",
