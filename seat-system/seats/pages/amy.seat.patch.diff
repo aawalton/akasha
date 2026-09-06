@@ -136,6 +136,130 @@ index 93e94ab55aba8ba8f6e5ce2ba19fdd4c5a226c88..9b703ea1b0d673324042ac75a0b3c372
    const dark = new Map<string, string>()
    const rows = counting.map((one) => {
      const worked = computing.workedAt(one.row.path)
+diff --git a/pages/service/kinds-gathering/kinds-gathering.module.test.ts b/pages/service/kinds-gathering/kinds-gathering.module.test.ts
+index 85da2613d72e1789bb894d402a41e8cd287e16c5..591a021fa467c86b0c17480fc2d38da876bc2bcb 100644
+--- a/pages/service/kinds-gathering/kinds-gathering.module.test.ts
++++ b/pages/service/kinds-gathering/kinds-gathering.module.test.ts
+@@ -2,7 +2,13 @@ import { afterAll, expect, test } from "bun:test"
+ import { mkdirSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { listedFiled, schemaFiled, valueAlsoFiled } from "@akasha/indexes/testing"
++import {
++  listedFiled,
++  pageFiled,
++  relationFiled,
++  schemaFiled,
++  valueAlsoFiled,
++} from "@akasha/indexes/testing"
+ import { carriedFor, computedInto, gatheredFor, kindsFor } from "./kinds-gathering.module.code.ts"
+ 
+ const scratch = scratchWorld()
+@@ -18,10 +24,10 @@ function filed(
+   value: Readonly<Record<string, unknown>>
+ ): string {
+   const path = `held/${slug}.${pageTypeSlug}.ts`
+-  listedFiled(root, pageTypeSlug, slug, [{ path, id: `id-${pageTypeSlug}-${slug}` }])
+-  valueAlsoFiled(root, pageTypeSlug, [
+-    { path, value: { id: `id-${pageTypeSlug}-${slug}`, pageTypeSlug, slug, ...value } },
+-  ])
++  const id = `id-${pageTypeSlug}-${slug}`
++  listedFiled(root, pageTypeSlug, slug, [{ path, id }])
++  pageFiled(root, id, path)
++  valueAlsoFiled(root, pageTypeSlug, [{ path, value: { id, pageTypeSlug, slug, ...value } }])
+   return path
+ }
+ 
+@@ -89,7 +95,10 @@ function worlded(root: string): undefined {
+ }
+ 
+ function rowsOf(root: string, pageTypeSlug: string): readonly Record<string, unknown>[] {
+-  const counted = computedInto(gatheredFor(root, pageTypeSlug, carriedFor(root, pageTypeSlug)))
++  const counted = computedInto(
++    root,
++    gatheredFor(root, pageTypeSlug, carriedFor(root, pageTypeSlug))
++  )
+   return counted.rows.map((one) => one.value)
+ }
+ 
+@@ -179,7 +188,76 @@ test("a property whose code file is not there darkens that property's key alone"
+     [{ pagePropertySlug: "computed-property/missing", required: false }]
+   )
+   filed(root, "lacking", "two", { count: 2 })
+-  const counted = computedInto(gatheredFor(root, "held", carriedFor(root, "held")))
++  const counted = computedInto(root, gatheredFor(root, "held", carriedFor(root, "held")))
+   expect(counted.dark.get("missing")).toContain("names no code file beside its page")
+   expect(counted.rows[0]?.value["slug"]).toBe("two")
+ })
++
++test("a calculation reaches a page of another page type by its page type and its slug", () => {
++  const root = scratch.rootFor("akasha-kinds-")
++  worlded(root)
++  propertied(root, "number-property", "weight", { max: null })
++  typed(root, "lifter", [], [{ pagePropertySlug: "number-property/weight", required: false }])
++  calculated(
++    root,
++    "loaded",
++    "number",
++    'export function work(page, reach) { const one = reach.target("lifter/alan"); return one === null ? null : one.weight * (page.count ?? 0) }'
++  )
++  typed(
++    root,
++    "lifted",
++    ["held"],
++    [{ pagePropertySlug: "computed-property/loaded", required: false }]
++  )
++  filed(root, "lifter", "alan", { weight: 180 })
++  filed(root, "lifted", "one", { count: 2 })
++  const said = new Map(rowsOf(root, "held").map((one) => [one["slug"], one]))
++  expect(said.get("one")?.["loaded"]).toBe(360)
++})
++
++test("a calculation sums over every page naming the page being worked out", () => {
++  const root = scratch.rootFor("akasha-kinds-")
++  worlded(root)
++  propertied(root, "relation-property", "under-slug", { targetPageTypeSlug: "page-type/whole" })
++  typed(root, "part", [], [{ pagePropertySlug: "relation-property/under-slug", required: false }])
++  calculated(
++    root,
++    "summed",
++    "number",
++    'export function work(page, reach) { let sum = 0; for (const one of reach.naming("under-slug")) sum += one.count ?? 0; return sum }'
++  )
++  typed(
++    root,
++    "whole",
++    ["held"],
++    [{ pagePropertySlug: "computed-property/summed", required: false }]
++  )
++  filed(root, "whole", "top", {})
++  filed(root, "part", "one", { count: 3, underSlug: "top" })
++  filed(root, "part", "two", { count: 4, underSlug: "top" })
++  relationFiled(root, "id-whole-top", "under-slug", "id-part-one", [{ path: "held/one.part.ts" }])
++  relationFiled(root, "id-whole-top", "under-slug", "id-part-two", [{ path: "held/two.part.ts" }])
++  const said = new Map(rowsOf(root, "held").map((one) => [one["slug"], one]))
++  expect(said.get("top")?.["summed"]).toBe(7)
++})
++
++test("a page no page names sums to nothing rather than refusing", () => {
++  const root = scratch.rootFor("akasha-kinds-")
++  worlded(root)
++  calculated(
++    root,
++    "summed",
++    "number",
++    'export function work(page, reach) { let sum = 0; for (const one of reach.naming("under-slug")) sum += one.count ?? 0; return sum }'
++  )
++  typed(
++    root,
++    "whole",
++    ["held"],
++    [{ pagePropertySlug: "computed-property/summed", required: false }]
++  )
++  filed(root, "whole", "top", {})
++  const said = new Map(rowsOf(root, "held").map((one) => [one["slug"], one]))
++  expect(said.get("top")?.["summed"]).toBe(0)
++})
 diff --git a/pages/service/page-asking/page-asking.module.code.ts b/pages/service/page-asking/page-asking.module.code.ts
 index 576b53aa623c30d6567d42c2dadc46f085db2d07..77cd2c8559fa4425f69781c4335cd414e5e52c31 100644
 --- a/pages/service/page-asking/page-asking.module.code.ts
