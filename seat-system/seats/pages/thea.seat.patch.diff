@@ -4316,6 +4316,32 @@ index 3e74a7396aace37d5919a95771006b6814f6f077..983045625ae736a01f52bfae170bd158
      { pagePropertySlug: "relation-property/name-format-slug", required: true, many: false },
    ],
  } as const satisfies PageType
+diff --git a/pages/types/declared-properties/declared-properties.module.code.ts b/pages/types/declared-properties/declared-properties.module.code.ts
+index c128aab5edc852524d8dcc8dd8f977902de3558b..94c862dff6b304fd0eb3b0747778607bafba3970 100644
+--- a/pages/types/declared-properties/declared-properties.module.code.ts
++++ b/pages/types/declared-properties/declared-properties.module.code.ts
+@@ -28,8 +28,8 @@ export type Carried = {
+   readonly declaredBy: string
+   readonly required: boolean
+   readonly many: boolean
+-  readonly max: number | null
+-  readonly total: number | null
++  readonly maxCount: number | null
++  readonly maxLength: number | null
+   readonly uncommitted: boolean
+   readonly secret: boolean
+ }
+@@ -96,8 +96,8 @@ export function carriedFrom(value: Value, source: Source, declaredBy: string): r
+       declaredBy,
+       required: one["required"] === true,
+       many: one["many"] === true,
+-      max: numberAt(one, "max"),
+-      total: numberAt(one, "total"),
++      maxCount: numberAt(one, "maxCount"),
++      maxLength: numberAt(one, "maxLength"),
+       uncommitted: one["uncommitted"] === true,
+       secret: one["secret"] === true,
+     })
 diff --git a/pages/types/page-properties/page-property.page-type.ts b/pages/types/page-properties/page-property.page-type.ts
 index 66302224b95717126a926442b9d509e4b40a550b..8b662114a86df7089703c959df40f8cad8e58a01 100644
 --- a/pages/types/page-properties/page-property.page-type.ts
