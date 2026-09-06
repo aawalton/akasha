@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/mobile-cli/mobile-cuts/properties/build-input-tree-hash.text-property.ts b/mobile-cli/mobile-cuts/properties/build-input-tree-hash.text-property.ts
+index 9ce04d2fd9de2e6e1ec8916033cb185b1d905a27..7e12bfe47001302236af5453b7394494e2888b66 100644
+--- a/mobile-cli/mobile-cuts/properties/build-input-tree-hash.text-property.ts
++++ b/mobile-cli/mobile-cuts/properties/build-input-tree-hash.text-property.ts
+@@ -13,7 +13,7 @@ export const buildInputTreeHash = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A cut carrying none predates the basis cuts are judged by and reads as owed.",
++      statement: "A cut carrying no hash predates the basis cuts are judged by and reads as owed.",
+     },
+   ],
+ } as const satisfies TextProperty
