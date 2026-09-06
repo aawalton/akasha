@@ -14,7 +14,7 @@ export const supervisorSpawnSettings = {
     {
       invariantKind: "departure",
       statement:
-        "The agent settings module is imported from beside this one and its function called.",
+        "The agent settings module is imported from beside this module and its function called.",
     },
     {
       invariantKind: "departure",
