@@ -7,6 +7,7 @@ export const changeRestated = {
   definition: "a change saying what a page already said in other words",
   runsChecks: true,
   writerOwesReading: false,
+  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",

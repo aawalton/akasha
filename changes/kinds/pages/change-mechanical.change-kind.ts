@@ -7,6 +7,7 @@ export const changeMechanical = {
   definition: "a change composed by a program",
   runsChecks: false,
   writerOwesReading: false,
+  readersOweReading: false,
   invariants: [
     {
       invariantKind: "absence",

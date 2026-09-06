@@ -7,4 +7,5 @@ export const changeNone = {
   definition: "an act that edits nothing",
   runsChecks: false,
   writerOwesReading: false,
+  readersOweReading: false,
 } as const satisfies ChangeKind

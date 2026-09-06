@@ -7,6 +7,7 @@ export const changeAuthored = {
   definition: "a change composed by an agent",
   runsChecks: true,
   writerOwesReading: true,
+  readersOweReading: true,
   invariants: [
     {
       invariantKind: "departure",

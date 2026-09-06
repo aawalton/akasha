@@ -7,6 +7,7 @@ export const changeChecked = {
   definition: "a change a program composed and the checks judge",
   runsChecks: true,
   writerOwesReading: false,
+  readersOweReading: false,
   invariants: [
     {
       invariantKind: "departure",
