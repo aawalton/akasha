@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/exhaustive-dispatch/exhaustive-dispatch.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/exhaustive-dispatch/exhaustive-dispatch.syntax-rule.ts
+index b8e898d3bc10768738019c83b58b0a664b2a3163..d5e95dfc9006bc6d37b7ed20632bab1b199f62c3 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/exhaustive-dispatch/exhaustive-dispatch.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/exhaustive-dispatch/exhaustive-dispatch.syntax-rule.ts
+@@ -22,8 +22,7 @@ export const exhaustiveDispatch = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Each of those defaults ends the dispatch rather than falling out of that dispatch.",
++      statement: "Every such default ends the dispatch rather than falling out of that dispatch.",
+     },
+     {
+       invariantKind: "departure",
