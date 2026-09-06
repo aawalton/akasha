@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { readingIn } from "@akasha/indexes"
 import type { Child, Reading } from "@akasha/indexes/shape"
-import { listedFiled, pageFiled } from "@akasha/indexes/testing"
+import { listedFiled, pageFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import {
   accountBesideIn,
   accountPathIn,
@@ -70,15 +70,14 @@ function idFor(slug: string): string {
 
 function accountWritten(root: string, slug: string, stated: Held, beside: Held | null): undefined {
   const at = pageAt(slug)
+  const value = { id: idFor(slug), pageTypeSlug: "claude-account", slug, ...stated }
   mkdirSync(join(root, `${PAGES_AT}/${slug}`), { recursive: true })
-  writeFileSync(
-    join(root, at),
-    bodied(slug, { id: idFor(slug), pageTypeSlug: "claude-account", slug, ...stated })
-  )
+  writeFileSync(join(root, at), bodied(slug, value))
   if (beside !== null) {
     writeFileSync(join(root, at.replace(/\.ts$/, ".uncommitted.ts")), bodied("held", beside))
   }
   listedFiled(root, "claude-account", slug, [{ path: at, id: idFor(slug) }])
+  valueAlsoFiled(root, "claude-account", [{ path: at, value }])
 }
 
 function worldMade(): string {

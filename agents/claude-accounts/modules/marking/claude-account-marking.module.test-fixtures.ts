@@ -4,7 +4,7 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { readingIn } from "@akasha/indexes"
 import type { PageOf } from "@akasha/indexes/answering"
 import type { Child, Reading } from "@akasha/indexes/shape"
-import { listedFiled, pageFiled, schemaFiled } from "@akasha/indexes/testing"
+import { listedFiled, pageFiled, schemaFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import { uncommittedIn } from "@akasha/pages/page-uncommitted"
 import { valueAt } from "@akasha/pages/page-value"
@@ -234,13 +234,11 @@ export function accountWritten(
   slug: string,
   beside: Record<string, unknown> | null
 ): undefined {
-  filed(
-    root,
-    pageAt(slug),
-    bodied(slug, { id: idFor(slug), pageTypeSlug: "claude-account", slug, email: `${slug}@a.test` })
-  )
+  const value = { id: idFor(slug), pageTypeSlug: "claude-account", slug, email: `${slug}@a.test` }
+  filed(root, pageAt(slug), bodied(slug, value))
   if (beside !== null) filed(root, besideAt(slug), bodied("held", beside))
   listedFiled(root, "claude-account", slug, [{ path: pageAt(slug), id: idFor(slug) }])
+  valueAlsoFiled(root, "claude-account", [{ path: pageAt(slug), value }])
 }
 
 export function bareTypeIn(prefix: string): string {
