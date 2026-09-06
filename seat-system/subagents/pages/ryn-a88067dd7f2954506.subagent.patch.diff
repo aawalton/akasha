@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/alan/fitness/exercise-access/selection-features/selection-features.module.ts b/alan/fitness/exercise-access/selection-features/selection-features.module.ts
+index b4645a241e787b3e9411e84ceabe579dc50d7322..9b4efd4372060f581d4b15341f146ae96e1ed025 100644
+--- a/alan/fitness/exercise-access/selection-features/selection-features.module.ts
++++ b/alan/fitness/exercise-access/selection-features/selection-features.module.ts
+@@ -16,7 +16,8 @@ export const selectionFeatures = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A movement pattern named outright overrides the one the name and muscles imply.",
++      statement:
++        "A movement pattern named outright overrides the pattern the name and muscles imply.",
+     },
+     {
+       invariantKind: "departure",
