@@ -22,7 +22,7 @@ export const temperInventoryMasterCraftTrace = {
     },
     {
       invariantKind: "departure",
-      statement: "The oldest trace goes when a new one arrives.",
+      statement: "The oldest trace goes when a new trace arrives.",
     },
     {
       invariantKind: "departure",
