@@ -1,6 +1,5 @@
-writerOwesReading: false
 diff --git a/editor-extension/domain-tree-view/domain-tree-view.module.ts b/editor-extension/domain-tree-view/domain-tree-view.module.ts
-index 102ad76705e43e54ea7a080c4299aac6288b74b6..3b342b015280f5250034d88faff22ef29ce134b3 100644
+index 102ad76705e43e54ea7a080c4299aac6288b74b6..6f065614fdc88a8c00255164a2c5e5c40b44ac0c 100644
 --- a/editor-extension/domain-tree-view/domain-tree-view.module.ts
 +++ b/editor-extension/domain-tree-view/domain-tree-view.module.ts
 @@ -9,7 +9,7 @@ export const domainTreeView = {
@@ -12,7 +11,17 @@ index 102ad76705e43e54ea7a080c4299aac6288b74b6..3b342b015280f5250034d88faff22ef2
      },
      {
        invariantKind: "departure",
-@@ -35,7 +35,7 @@ export const domainTreeView = {
+@@ -18,8 +18,7 @@ export const domainTreeView = {
+ 
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A row is identified apart while a filter is there, so the editor redraws that row.",
++      statement: "A row is identified apart while a filter is there.",
+     },
+     {
+       invariantKind: "departure",
+@@ -35,7 +34,7 @@ export const domainTreeView = {
      },
      {
        invariantKind: "departure",
@@ -21,7 +30,7 @@ index 102ad76705e43e54ea7a080c4299aac6288b74b6..3b342b015280f5250034d88faff22ef2
      },
      {
        invariantKind: "departure",
-@@ -47,7 +47,7 @@ export const domainTreeView = {
+@@ -47,7 +46,7 @@ export const domainTreeView = {
      },
      {
        invariantKind: "departure",
