@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts b/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
-index 05a2f6be64901df7ee080244a38538a697ad3c04..c439ae1e9706f1fc439cc6f9f04c0b22355a46f8 100644
+index 05a2f6be64901df7ee080244a38538a697ad3c04..26ff445ad6168414738a855a2ae244828aecdd27 100644
 --- a/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
 +++ b/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
 @@ -9,7 +9,7 @@ export const monarchTransactionCreate = {
@@ -8,6 +8,16 @@ index 05a2f6be64901df7ee080244a38538a697ad3c04..c439ae1e9706f1fc439cc6f9f04c0b22
        invariantKind: "departure",
 -      statement: "A transaction of zero is refused, because that transaction moves no budget.",
 +      statement: "A transaction of zero is refused.",
+     },
+     {
+       invariantKind: "departure",
+@@ -18,8 +18,7 @@ export const monarchTransactionCreate = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A row created and then refused its tag is refused loudly, because the row stands unmarked.",
++      statement: "A row created and then refused its tag is refused loudly.",
      },
      {
        invariantKind: "departure",
