@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/commands/seat/seat.command.ts b/command-system/commands/seat/seat.command.ts
+index a00eaa05eb8fe869e06eb38cd4ce5c61b86d2248..e239585700275cd6d5414f0f64de9215b77614b0 100644
+--- a/command-system/commands/seat/seat.command.ts
++++ b/command-system/commands/seat/seat.command.ts
+@@ -64,7 +64,7 @@ export const seat = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A supervisor is signalled only where the start time read now matches the one held.",
++        "A supervisor is signalled only where the start time read now matches the start time held.",
+     },
+     {
+       invariantKind: "departure",
