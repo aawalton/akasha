@@ -26,7 +26,7 @@ export const readoutReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading replaces the one before that reading.",
+      statement: "A reading replaces the reading before that reading.",
     },
     {
       invariantKind: "departure",
