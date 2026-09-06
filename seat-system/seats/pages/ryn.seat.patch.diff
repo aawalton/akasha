@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.ts b/seat-system/supervising/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.ts
-index 8a353134123ced74390572832876790d328e4f3e..6db88e4616cbc5afdbe7e12a6a8cd9562d74b879 100644
+index 8a353134123ced74390572832876790d328e4f3e..5cbbb959cefd01ef373bb576a315ab4f24180fff 100644
 --- a/seat-system/supervising/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.ts
 +++ b/seat-system/supervising/supervisor-iteration-outcome-handlers/supervisor-iteration-outcome-handlers.module.ts
 @@ -13,8 +13,11 @@ export const supervisorIterationOutcomeHandlers = {
@@ -16,16 +16,26 @@ index 8a353134123ced74390572832876790d328e4f3e..6db88e4616cbc5afdbe7e12a6a8cd956
      },
      {
        invariantKind: "departure",
-@@ -22,7 +25,11 @@ export const supervisorIterationOutcomeHandlers = {
+@@ -22,12 +25,19 @@ export const supervisorIterationOutcomeHandlers = {
      },
      {
        invariantKind: "departure",
 -      statement: "A pending re-exec turns restart-now into a break, and no resume is set.",
 +      statement: "A pending re-exec turns restart-now into a break.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The rail route resumes with an empty first prompt; only spawn-argv carries the notice.",
++      statement: "A pending re-exec sets no resume.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A pending re-exec sets no resume.",
++      statement: "The rail route resumes with an empty first prompt.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Only spawn-argv carries the notice.",
      },
      {
        invariantKind: "departure",
