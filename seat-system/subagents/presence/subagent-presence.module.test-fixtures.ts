@@ -4,7 +4,7 @@ import { writing } from "@akasha/command-system/scratching/testing"
 import { said as gitIn } from "@akasha/git/git-running"
 import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
-import { bodyOf, pathOf, slugOf } from "./subagent-presence.module.code.ts"
+import { bodyOf, pathOf, slugOf, type Went } from "./subagent-presence.module.code.ts"
 
 export const SEAT_ID = "01a05844-6e60-7000-b54c-4b14559df70b"
 
@@ -122,4 +122,37 @@ export function heldUnder(
 
 export function heldInHistory(root: string, own: string, agentId: string, kind: string): undefined {
   heldUnder(root, "akasha", own, agentId, kind)
+}
+
+export const GOING: Went = { went: true }
+
+export const LOCKED: Went = {
+  why: "another landing has held `.git/akasha-landing.lock` for longer than 120s",
+}
+
+export const REFUSED: Went = { why: "no assignment is stated for the akasha seat" }
+
+// A COUNTING ASK BESIDE A WAIT THAT DOES NOT WAIT. The answers are given in the order they are
+// written and the last is given again for every ask past that list, so a test seeds a run of
+// refusals and reads how many asks it took without a test ever sleeping.
+export function counting(answers: readonly Went[]): {
+  readonly ask: () => Promise<Went>
+  readonly waited: (ms: number) => Promise<void>
+  readonly waits: number[]
+  readonly count: () => number
+} {
+  let asked = 0
+  const waits: number[] = []
+  return {
+    ask: () => {
+      asked += 1
+      return Promise.resolve(answers[Math.min(asked - 1, answers.length - 1)] ?? GOING)
+    },
+    waited: (ms: number) => {
+      waits.push(ms)
+      return Promise.resolve()
+    },
+    waits,
+    count: () => asked,
+  }
 }

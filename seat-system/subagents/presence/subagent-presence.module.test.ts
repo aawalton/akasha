@@ -12,12 +12,15 @@ import {
   assignedTo,
   bodyOf,
   LOG_AT,
+  landingAgain,
   logPathOf,
   pathOf,
   seatNamedIn,
   slugOf,
   stampedAt,
+  TRIES,
   took,
+  WAIT_MS,
   WRITING,
   wrote,
 } from "./subagent-presence.module.code.ts"
@@ -25,11 +28,14 @@ import {
   AGAIN,
   AGENT,
   ANOTHER,
+  counting,
+  GOING,
   HELD_ASSIGNMENT,
   HELD_ID,
   heldInHistory,
   heldUnder,
   idIn,
+  LOCKED,
   landedAt,
   landedUnder,
   loggedAt,
@@ -37,6 +43,7 @@ import {
   messageIn,
   OWN,
   pastTheStamp,
+  REFUSED,
   SEAT_AT,
   SEAT_BODY,
   SEAT_ID,
@@ -385,3 +392,23 @@ test("a write that landed leaves no reason in the log", async () => {
     world.sweep()
   }
 }, 40000)
+
+test("a landing refused for a held lock is asked for again until that landing goes", async () => {
+  const run = counting([LOCKED, LOCKED, GOING])
+  expect(await landingAgain(run.ask, run.waited)).toEqual(GOING)
+  expect(run.count()).toBe(3)
+  expect(run.waits).toEqual([WAIT_MS, WAIT_MS])
+})
+
+test("a landing refused for a held lock every time is asked for five times and no more", async () => {
+  const run = counting([LOCKED])
+  expect(await landingAgain(run.ask, run.waited)).toEqual(LOCKED)
+  expect(run.count()).toBe(TRIES)
+})
+
+test("a refusal naming no held lock is answered at once and waits for nothing", async () => {
+  const run = counting([REFUSED])
+  expect(await landingAgain(run.ask, run.waited)).toEqual(REFUSED)
+  expect(run.count()).toBe(1)
+  expect(run.waits).toEqual([])
+})

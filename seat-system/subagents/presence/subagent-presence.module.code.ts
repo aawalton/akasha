@@ -320,6 +320,40 @@ export function stampedAt(when: Date): string {
   )
 }
 
+// A LANDING REFUSED FOR A HELD LOCK IS ASKED FOR AGAIN HERE. This runs in a process detached from
+// the hook that spawned it, so the five seconds a hook is given does not bound it, and a put-up
+// that gives up leaves a subagent at work with no page for as long as its seat runs. A held lock
+// says another landing is mid-flight, which is a wait rather than a fault. Every other refusal is
+// answered at once, because asking again would only earn the same refusal.
+export const LOCK_HELD = "akasha-landing.lock"
+
+export const TRIES = 5
+
+export const WAIT_MS = 30_000
+
+export function worthAnotherTry(why: string): boolean {
+  return why.includes(LOCK_HELD)
+}
+
+export async function sleeping(ms: number): Promise<void> {
+  await Bun.sleep(ms)
+}
+
+// THE ASK IS RUN AGAIN RATHER THAN THE REFUSED LANDING RESUMED. Each ask composes the page from
+// the repository as the repository is at that moment, so a page another process wrote meanwhile is
+// answered as written at the first line of `wrote` rather than written a second time.
+export async function landingAgain(
+  ask: () => Promise<Went>,
+  waited: (ms: number) => Promise<void> = sleeping
+): Promise<Went> {
+  let went = await ask()
+  for (let tried = 1; tried < TRIES && "why" in went && worthAnotherTry(went.why); tried += 1) {
+    await waited(WAIT_MS)
+    went = await ask()
+  }
+  return went
+}
+
 function saying(why: string): number {
   process.stderr.write(`${stampedAt(new Date())} ${CALLED_AS}: ${why}\n`)
   return 1
@@ -345,9 +379,10 @@ export async function ran(argv: readonly string[]): Promise<number> {
     if (dispatchedAs === undefined || dispatchedAs === "")
       return saying(`${at} — no kind was named`)
     if (seatId === undefined || seatId === "") return saying(`${at} — no seat id was named`)
-    return answering(await wrote(root, seatName, seatId, own, dispatchedAs), at)
+    const put = await landingAgain(() => wrote(root, seatName, seatId, own, dispatchedAs))
+    return answering(put, at)
   }
-  if (act === TAKING) return answering(await took(root, seatName, own), at)
+  if (act === TAKING) return answering(await landingAgain(() => took(root, seatName, own)), at)
   return saying(`\`${act}\` is no act this takes`)
 }
 

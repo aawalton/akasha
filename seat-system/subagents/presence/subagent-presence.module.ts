@@ -164,5 +164,33 @@ export const subagentPresence = {
       invariantKind: "departure",
       statement: "A take-in that throws leaves that patch alone and reaps the page still.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A landing another landing's held lock refused is asked for again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal naming no held lock is answered at once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A landing is asked for five times at most.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An ask is made thirty seconds after the ask that refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each ask composes the page again rather than resuming the landing that refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page another process wrote meanwhile is left as that page is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A take-down refused for a held lock is asked for again as a put-up is.",
+    },
   ],
 } as const satisfies Module
