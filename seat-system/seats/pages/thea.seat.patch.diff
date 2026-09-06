@@ -2610,6 +2610,21 @@ index 1ae1f614b0451b489dda7df9e2045afde1f1ec3b..c077c84259985b9aefdf39af0955b399
      const format = textAt(page, FORMAT)
      for (const each of listed ? held : [held]) {
        const why = overMax(each, max, slug, "")
+diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
+index 2e3a9fc7c1650366bf45fdd1a9ee9cae4c4483f0..59a850bcf2d69c4c9e137a63c419bc1cdce19c0b 100644
+--- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
++++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
+@@ -413,8 +413,8 @@ export function besideCarried(uncommitted: boolean, secret = false): readonly Ca
+       declaredBy: "beside",
+       required: true,
+       many: false,
+-      max: null,
+-      total: null,
++      maxCount: null,
++      maxLength: null,
+       uncommitted,
+       secret,
+     },
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
 index 4a1852b02ab8be6cb9ad17429238822d8d1e3ff1..97035222bcfec4f34c9ce68deac3914af82e61ae 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
@@ -3962,7 +3977,7 @@ index 33a16c02d0a003bdffefce9dc83dc84ea8e80d31..b07b85aa70fd49bdaf5fc9eea4783393
    nameFormatSlug: "name-format/lower-uuid",
  } as const satisfies TextProperty
 diff --git a/idle-system/idle-persona-cards/properties/images.text-property.ts b/idle-system/idle-persona-cards/properties/images.text-property.ts
-index 1c7de83fbcaeb340beb9723e224e6d74a3befd81..deae0bf3e0a9c02fab177e16c550b691d439e24d 100644
+index 5e6a341f53c63ce964d623a253d3b0bdf3c8fec4..79f0bda22210c9b7434a0b13bb70e22437823834 100644
 --- a/idle-system/idle-persona-cards/properties/images.text-property.ts
 +++ b/idle-system/idle-persona-cards/properties/images.text-property.ts
 @@ -9,7 +9,7 @@ export const images = {
