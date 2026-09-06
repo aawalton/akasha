@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/editor-extension/work-initiatives/work-initiatives.module.ts b/editor-extension/work-initiatives/work-initiatives.module.ts
-index 81ff66a340c93763925dfd896ca6e6c5f157cdb8..699ef1577b468de4eea0b734a873239bedfe4816 100644
+index 81ff66a340c93763925dfd896ca6e6c5f157cdb8..8eeda56e59b26f5a6b3bebc9689c99fb9bb68ad1 100644
 --- a/editor-extension/work-initiatives/work-initiatives.module.ts
 +++ b/editor-extension/work-initiatives/work-initiatives.module.ts
 @@ -19,7 +19,8 @@ export const workInitiatives = {
@@ -31,12 +31,17 @@ index 81ff66a340c93763925dfd896ca6e6c5f157cdb8..699ef1577b468de4eea0b734a873239b
      },
      {
        invariantKind: "departure",
-@@ -59,7 +60,7 @@ export const workInitiatives = {
+@@ -59,11 +60,11 @@ export const workInitiatives = {
      },
      {
        invariantKind: "departure",
 -      statement: "An intent stating no working memory carries none.",
 +      statement: "An intent stating no working memory carries no working memory.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page is opened once however many of its keys are read.",
++      statement: "A page is opened once however many keys are read out of that page.",
      },
      {
        invariantKind: "departure",
