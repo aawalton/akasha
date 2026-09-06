@@ -10,11 +10,15 @@ export const monarchAmazonMatch = {
     {
       invariantKind: "departure",
       statement:
-        "A movement is matched by its amount and the days between the movement and the mail, by nothing else.",
+        "A movement is matched by its amount and the days between the movement and the mail alone.",
     },
     {
       invariantKind: "departure",
-      statement: "A charge is matched only by a movement out, and a refund only by a movement in.",
+      statement: "A charge is matched only by a movement out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refund is matched only by a movement in.",
     },
     {
       invariantKind: "departure",
@@ -40,18 +44,21 @@ export const monarchAmazonMatch = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A note is cut to nine hundred characters, and the order number the note ends in is never cut.",
+      statement: "A note is cut to nine hundred characters.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The order number a note ends in is never cut.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A note names every item and how many of each, or the mail's summary where no item was read.",
+        "A note names every item with its count or names the mail's summary where no item was read.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A product is named for a refund only where every line of that order names the same one.",
+        "A product is named for a refund only where every line of that order names the same product.",
     },
     {
       invariantKind: "absence",
