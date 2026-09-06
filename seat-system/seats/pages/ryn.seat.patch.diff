@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/music/commands/music-import-artist/music-import-artist.command.ts b/alan/music/commands/music-import-artist/music-import-artist.command.ts
+index 14ae024b3e835b8954fd76272246e0cd206b09f6..2c78922808547a6ec78cc08ba282fd2da9eb4b7c 100644
+--- a/alan/music/commands/music-import-artist/music-import-artist.command.ts
++++ b/alan/music/commands/music-import-artist/music-import-artist.command.ts
+@@ -54,7 +54,7 @@ export const musicImportArtist = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The artist and the songs land as one commit or as none.",
++      statement: "The artist and the songs land as a single commit or do not land.",
+     },
+     {
+       invariantKind: "absence",
