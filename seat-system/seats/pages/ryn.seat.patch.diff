@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts b/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
+index e1da918a6e0e4fda16e8f334b5a2a36d54b9a460..e77653318dbf21a56d9c33923bfde23281d4073f 100644
+--- a/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
++++ b/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
+@@ -36,7 +36,7 @@ export const propertyIsDeclaredByAType = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "`one-of-property` declares its members the same way a page type declares its properties.",
++        "A `one-of-property` page declares its members the same way a page type declares its properties.",
+     },
+     {
+       invariantKind: "departure",
