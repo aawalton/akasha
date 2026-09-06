@@ -35,6 +35,7 @@ export type ComposedQuery = {
   readonly descending?: boolean
   readonly limit?: number
   readonly offset?: number
+  readonly files?: readonly string[]
   readonly function?: "sum" | "mean"
   readonly target?: string
 }
@@ -184,6 +185,7 @@ export async function askComposed(
   const body = {
     pageTypeSlug,
     ...(Object.keys(pushed).length > 0 ? { where: pushed } : {}),
+    ...(query.files === undefined ? {} : { files: [...query.files] }),
     ...(here
       ? {}
       : {
