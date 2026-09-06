@@ -1,3 +1,15 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-good-social-nets-out-positive.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-good-social-nets-out-positive.all-about-alan-question.ts
+index fbc09d4b81b946bbb26a9ff48051917134cac4b3..b28aa9c204493a5140f13d6995768162901d696a 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-good-social-nets-out-positive.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-good-social-nets-out-positive.all-about-alan-question.ts
+@@ -4,6 +4,6 @@ export const whetherGoodSocialNetsOutPositive = {
+   id: "01a07810-45ba-78ee-bfab-97dbe0445520",
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-good-social-nets-out-positive",
+-  topicSlug: "the-harness-around-my-safety",
++  topicSlug: "the-budget-i-run-my-days-on",
+   ask: "Good social with Jen raises my safety and takes my sleep at once. Does a positive evening net out above zero, and what would tell me either way?",
+ } as const satisfies AllAboutAlanQuestion
 diff --git a/alan/books/all-about-alan/questions/pages/whether-i-count-my-capacity-hours.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-i-count-my-capacity-hours.all-about-alan-question.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..9d702ae4f3c462fa5e45457482e9c37f5d200abc
