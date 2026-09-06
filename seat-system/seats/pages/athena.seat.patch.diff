@@ -583,17 +583,3 @@ index 0211e865817e9662097fae2e08a2a42920d3303c..d2c3e1a5cc3db4ea44a5f66d4f5c9cde
    }
    return found
  }
-diff --git a/seat-system/agent-page-reading/agent-page-reading.module.ts b/seat-system/agent-page-reading/agent-page-reading.module.ts
-index 7ccc146ac3a7d1e4097081df2af48d85357f29b4..8de80b756b2c4536b1d00e06c1867a776e733c01 100644
---- a/seat-system/agent-page-reading/agent-page-reading.module.ts
-+++ b/seat-system/agent-page-reading/agent-page-reading.module.ts
-@@ -27,5 +27,9 @@ export const agentPageReading = {
-       invariantKind: "departure",
-       statement: "A subagent page short of its seat name or its agent id is left out.",
-     },
-+    {
-+      invariantKind: "departure",
-+      statement: "A subagent carries the kind that subagent was dispatched as or carries none.",
-+    },
-   ],
- } as const satisfies Module
