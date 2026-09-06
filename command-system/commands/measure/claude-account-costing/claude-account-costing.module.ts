@@ -39,7 +39,7 @@ export const claudeAccountCosting = {
     },
     {
       invariantKind: "departure",
-      statement: "A cache write stating no life is priced as the shorter one.",
+      statement: "A cache write stating no life is priced as the shorter life.",
     },
     {
       invariantKind: "departure",
