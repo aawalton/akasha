@@ -95,10 +95,6 @@ test("a comment or a string saying `export * from` fools nothing", () => {
   expect(reasonsIn(given(AT, body))).toEqual([])
 })
 
-test("a file outside the akasha folder is passed over", () => {
-  expect(reasonsIn(given("tools/held.ts", 'export * from "./b.ts"\n'))).toEqual([])
-})
-
 test("a file that is not TypeScript is passed over", () => {
   expect(reasonsIn(given("akasha/notes.txt", 'export * from "./b.ts"\n'))).toEqual([])
 })

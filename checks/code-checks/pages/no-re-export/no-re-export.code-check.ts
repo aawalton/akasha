@@ -15,7 +15,7 @@ export const noReExport = {
     {
       invariantKind: "departure",
       statement:
-        "A name imported and then exported is judged the same as one exported straight from its source.",
+        "A name imported and then exported is judged as a name exported straight from its source.",
     },
     {
       invariantKind: "departure",
@@ -41,10 +41,6 @@ export const noReExport = {
       invariantKind: "absence",
       statement:
         "An imported value bound to a fresh exported name is a declaration this file made.",
-    },
-    {
-      invariantKind: "absence",
-      statement: "A file outside the akasha folder is passed over rather than refused.",
     },
   ],
 } as const satisfies CodeCheck
