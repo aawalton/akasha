@@ -1,9 +1,14 @@
 readersOweReading: false
 diff --git a/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts b/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts
-index 80258578d2c82b7ce8311a2e727fa0ffeb5e7f6e..1bbe4452c15fb81af26617a526757ba485d0a3ba 100644
+index 80258578d2c82b7ce8311a2e727fa0ffeb5e7f6e..b39d0029694c3f99c65f45801cdda6d0df15a357 100644
 --- a/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts
 +++ b/alan/fitness/equipment-items/properties/equipment-loads.number-property.ts
-@@ -16,7 +16,7 @@ export const equipmentLoads = {
+@@ -12,11 +12,11 @@ export const equipmentLoads = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The loads are in the order the loads are climbed, lightest first.",
++      statement: "The loads are in the order the loads are climbed from lightest to heaviest.",
      },
      {
        invariantKind: "departure",
