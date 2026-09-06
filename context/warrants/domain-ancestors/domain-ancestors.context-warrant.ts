@@ -13,7 +13,7 @@ export const domainAncestors = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat warrants every domain above the one that seat answers for.",
+      statement: "A seat warrants every domain above the domain that seat answers for.",
     },
     {
       invariantKind: "departure",
