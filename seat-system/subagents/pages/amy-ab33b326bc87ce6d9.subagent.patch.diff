@@ -1,3 +1,23 @@
+diff --git a/personas-core/personas-core.workspace-package.ts b/personas-core/personas-core.workspace-package.ts
+index fbd9333afc7ade1f9f3a17672af5232a4db27603..9a32108be3d13dfe2bb6c517d496c1dcc56a5261 100644
+--- a/personas-core/personas-core.workspace-package.ts
++++ b/personas-core/personas-core.workspace-package.ts
+@@ -9,6 +9,7 @@ export const personasCore = {
+   partSlugs: [
+     "module/anchor-cover-record",
+     "module/canonical-image-classify",
++    "module/desktop-wallpaper-setting",
+     "module/framework",
+     "module/git-byte-pathspecs",
+     "module/green-day-fraction",
+@@ -24,6 +25,7 @@ export const personasCore = {
+     "module/wallpaper-backfill-classify",
+     "module/wallpaper-backfill-execute",
+     "module/wallpaper-install",
++    "module/wallpaper-order",
+     "module/wallpaper-record",
+     "module/wallpaper-select",
+   ],
 diff --git a/personas-core/wallpaper-order/wallpaper-order.module.code.ts b/personas-core/wallpaper-order/wallpaper-order.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..0b5876e6dcd7c5da50924516bab19b5ef156dc61
