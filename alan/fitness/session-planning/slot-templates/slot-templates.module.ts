@@ -15,7 +15,7 @@ export const slotTemplates = {
     },
     {
       invariantKind: "departure",
-      statement: "The first slot of a template is the one the session is anchored on.",
+      statement: "The first slot of a template is the slot the session is anchored on.",
     },
     {
       invariantKind: "departure",
@@ -24,7 +24,7 @@ export const slotTemplates = {
     {
       invariantKind: "departure",
       statement:
-        "A slot marked flexible takes a pattern the week still owes ahead of a better one.",
+        "A slot marked flexible takes a pattern the week still owes ahead of a better pattern.",
     },
     {
       invariantKind: "departure",
