@@ -1,23 +1,29 @@
 diff --git a/seat-system/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.ts b/seat-system/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.ts
-index 621a8079592202cd847da429b10b718a43fd8dcb..6c8ab614ea45aed68fb441265c339b4d8c2b49d2 100644
+index 621a8079592202cd847da429b10b718a43fd8dcb..29f1ca6d7b8fee89b41cb3c1add5e76c6bd125af 100644
 --- a/seat-system/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.ts
 +++ b/seat-system/recipient-resolving/alert-recipient-decide/alert-recipient-decide.module.ts
-@@ -10,12 +10,15 @@ export const alertRecipientDecide = {
+@@ -10,17 +10,19 @@ export const alertRecipientDecide = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement:
 -        "An alert no document declares reaches nobody, and says so rather than defaulting.",
 +      statement: "An alert no document declares reaches nobody.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "An alert reaching nobody says so rather than defaulting.",
      },
      {
        invariantKind: "departure",
 -      statement: "An alert two documents declare picks neither of those documents.",
++      statement: "An alert reaching nobody says so rather than defaulting.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An alert naming both a domain and a person names two recipients and so names none.",
 +      statement: "An alert two documents declare picks no document.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An alert naming both a domain and a person names no recipient.",
      },
      {
        invariantKind: "departure",
