@@ -1,0 +1,96 @@
+diff --git a/changes/pages/remove-page/remove-page.change.code.ts b/changes/pages/remove-page/remove-page.change.code.ts
+index 9dbb57e0814f6fc27c9920b32c501fba6979203c..545dd8c4701f87d5f9ddcf83101073a6559cf378 100644
+--- a/changes/pages/remove-page/remove-page.change.code.ts
++++ b/changes/pages/remove-page/remove-page.change.code.ts
+@@ -98,3 +98,7 @@ export function removePage(world: World, given: RemoveOrdinaryPageAsked): Answer
+   if (unnamed.refused !== null) return unnamed
+   return guardedBy(world, gathered([...taken, unnamed]), GUARDS)
+ }
++
++export function runChange(world: World, given: RemoveOrdinaryPageAsked): Answer {
++  return removePage(world, given)
++}
+diff --git a/changes/pages/remove-property-value/remove-property-value.change.code.ts b/changes/pages/remove-property-value/remove-property-value.change.code.ts
+index bb08d17c7759aaca12a96264b9fa31a8a64f77ca..2a0e8b2ec8846a65d2dbe91d2df5ee15cbdbde1a 100644
+--- a/changes/pages/remove-property-value/remove-property-value.change.code.ts
++++ b/changes/pages/remove-property-value/remove-property-value.change.code.ts
+@@ -93,3 +93,7 @@ export function removePropertyValue(world: World, given: RemovePropertyValueAske
+   }
+   return answered([writing(given.at, text, without(text, source, owner, owner.properties, at))])
+ }
++
++export function runChange(world: World, given: RemovePropertyValueAsked): Answer {
++  return removePropertyValue(world, given)
++}
+diff --git a/changes/pages/rename-code-token/rename-code-token.change.code.ts b/changes/pages/rename-code-token/rename-code-token.change.code.ts
+index 148cc466ce43e58cb7b33ba1280b2ef373292485..d3e39c588be00f1017f3fde6e12f3704be2a6ecc 100644
+--- a/changes/pages/rename-code-token/rename-code-token.change.code.ts
++++ b/changes/pages/rename-code-token/rename-code-token.change.code.ts
+@@ -85,3 +85,7 @@ export function renameCodeToken(world: World, given: RenameCodeTokenAsked): Answ
+     renameLocalVariable(given.at, text, { at: named.getStart(source), to: given.to }),
+   ])
+ }
++
++export function runChange(world: World, given: RenameCodeTokenAsked): Answer {
++  return renameCodeToken(world, given)
++}
+diff --git a/changes/pages/rename-export/rename-export.change.code.ts b/changes/pages/rename-export/rename-export.change.code.ts
+index 8bd92a32814d48cc5ac66ce64a01fc09685ce5e4..45b1d3d4a8038686c17175ffb3e1d37b8613a02a 100644
+--- a/changes/pages/rename-export/rename-export.change.code.ts
++++ b/changes/pages/rename-export/rename-export.change.code.ts
+@@ -36,3 +36,7 @@ export function renameExport(world: World, given: RenameExportAsked): Answer {
+   const over = [given.at, ...reading.importers]
+   return respelled(world.root, given.at, over, given.of, given.to, world.textOf)
+ }
++
++export function runChange(world: World, given: RenameExportAsked): Answer {
++  return renameExport(world, given)
++}
+diff --git a/changes/pages/rename-page-slug/rename-page-slug.change.code.ts b/changes/pages/rename-page-slug/rename-page-slug.change.code.ts
+index 81d057c1c99705f4f982fb23643fcfb2248da0f2..cb9f5894ec43c3aa2365acd6a3a4cbcb3c159cbb 100644
+--- a/changes/pages/rename-page-slug/rename-page-slug.change.code.ts
++++ b/changes/pages/rename-page-slug/rename-page-slug.change.code.ts
+@@ -215,3 +215,7 @@ export function renameSlug(world: World, given: RenamePageSlugAsked): Answer {
+   answers.push(spelled)
+   return gathered(answers)
+ }
++
++export function runChange(world: World, given: RenamePageSlugAsked): Answer {
++  return renameSlug(world, given)
++}
+diff --git a/changes/pages/rename-page/rename-page.change.code.ts b/changes/pages/rename-page/rename-page.change.code.ts
+index abcac45ac08ab5418f634c5ef80bd3b913cc8da1..c4959ae0561ab989d95692dfbbe03546b42c8b07 100644
+--- a/changes/pages/rename-page/rename-page.change.code.ts
++++ b/changes/pages/rename-page/rename-page.change.code.ts
+@@ -156,3 +156,7 @@ export function renamePage(world: World, given: RenamePageAsked): Answer {
+   }
+   return folded
+ }
++
++export function runChange(world: World, given: RenamePageAsked): Answer {
++  return renamePage(world, given)
++}
+diff --git a/changes/pages/rename-path/rename-path.change.code.ts b/changes/pages/rename-path/rename-path.change.code.ts
+index b272b91ac038a400af51cfbcf83385f8846648e6..acc70e7548d64750664a2849dc46d6451d6d3308 100644
+--- a/changes/pages/rename-path/rename-path.change.code.ts
++++ b/changes/pages/rename-path/rename-path.change.code.ts
+@@ -27,3 +27,7 @@ export function renamePath(world: World, given: RenamePathAsked): Answer {
+   }
+   return answered(edits)
+ }
++
++export function runChange(world: World, given: RenamePathAsked): Answer {
++  return renamePath(world, given)
++}
+diff --git a/changes/pages/rename-property-signature/rename-property-signature.change.code.ts b/changes/pages/rename-property-signature/rename-property-signature.change.code.ts
+index a83c590083caaf683e78afc738e250c9e9905651..f77655523f76b0dd01c2ae8cd82ce245573c597d 100644
+--- a/changes/pages/rename-property-signature/rename-property-signature.change.code.ts
++++ b/changes/pages/rename-property-signature/rename-property-signature.change.code.ts
+@@ -145,3 +145,7 @@ export function renamePropertySignature(world: World, given: RenamePropertySigna
+   }
+   return answered(edits)
+ }
++
++export function runChange(world: World, given: RenamePropertySignatureAsked): Answer {
++  return renamePropertySignature(world, given)
++}
