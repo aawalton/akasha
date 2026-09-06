@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
-index 790535fdef85024dca1b2d8fb38e53bf062af45c..1af76ccb5aca6be3b5039e39bd4c193bd49da603 100644
+index 790535fdef85024dca1b2d8fb38e53bf062af45c..6c12a2e85e9c689f443cbcd52d7767236d77b984 100644
 --- a/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
 +++ b/seat-system/supervising/supervisor-log-sweeping/supervisor-log-sweeping.module.ts
 @@ -9,7 +9,11 @@ export const supervisorLogSweeping = {
@@ -24,3 +24,13 @@ index 790535fdef85024dca1b2d8fb38e53bf062af45c..1af76ccb5aca6be3b5039e39bd4c193b
      },
      {
        invariantKind: "departure",
+@@ -69,8 +73,7 @@ export const supervisorLogSweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Nothing is taken away unless the sweep is asked to, because the removal cannot be undone.",
++      statement: "Nothing is taken away unless the sweep is asked to.",
+     },
+     {
+       invariantKind: "gap",
