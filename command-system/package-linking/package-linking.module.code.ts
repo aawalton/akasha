@@ -3,6 +3,7 @@ import {
   lstatSync,
   mkdirSync,
   readlinkSync,
+  renameSync,
   rmdirSync,
   rmSync,
   symlinkSync,
@@ -95,6 +96,17 @@ function cleared(made: readonly string[]): undefined {
   }
 }
 
+// Whoever resolves a name through this link holds no lock on it, so a link taken away and written
+// again leaves a gap where the package reaches nothing, and an import landing in that gap fails.
+// Writing the link beside its place and renaming over that place hands every reader one link or the
+// other, because a rename within one folder happens all at once.
+function placed(to: string, at: string): undefined {
+  const beside = `${at}.${process.pid}.linking`
+  rmSync(beside, { force: true })
+  symlinkSync(to, beside)
+  renameSync(beside, at)
+}
+
 export function reachedFor(root: string, one: Linking): (() => undefined) | null {
   const at = reachedAt(root, one.name)
   const was = linkAt(at)
@@ -109,11 +121,10 @@ export function reachedFor(root: string, one: Linking): (() => undefined) | null
         }
   }
   mkdirSync(dirname(at), { recursive: true })
-  if (was !== null) rmSync(at, { force: true })
-  symlinkSync(now, at)
+  placed(now, at)
   return () => {
-    rmSync(at, { force: true })
-    if (was !== null) symlinkSync(was, at)
+    if (was === null) rmSync(at, { force: true })
+    else placed(was, at)
     cleared(made)
   }
 }

@@ -31,6 +31,15 @@ export const packageLinking = {
     },
     {
       invariantKind: "departure",
+      statement: "A link arrives by being written beside its place and renamed over that place.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name resolves to the link that was there or the one arriving, never to neither.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A name already taken by something that is no link is left alone.",
     },
     {
@@ -40,6 +49,10 @@ export const packageLinking = {
     {
       invariantKind: "constraint",
       statement: "A link whose folder is not there resolves nowhere.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "A reader resolving a name races every write of the link that name reaches.",
     },
     {
       invariantKind: "departure",

@@ -109,6 +109,21 @@ test("taking back a repointed link puts the old one back", () => {
   expect(linked(root, NAME)).toBe("../../akasha/was")
 })
 
+test("repointing a link leaves no half-made link beside it, in either direction", () => {
+  const root = rooted()
+  mkdirSync(join(root, "akasha/was"), { recursive: true })
+  mkdirSync(join(root, FOLDER), { recursive: true })
+  const beside = `${join(root, "node_modules", NAME)}.${process.pid}.linking`
+  symlinkSync("../../akasha/was", join(root, "node_modules", NAME))
+  const undo = reachedFor(root, { name: NAME, folder: FOLDER })
+
+  expect(linked(root, NAME)).toBe("../../akasha/held")
+  expect(existsSync(beside)).toBe(false)
+  undo?.()
+  expect(linked(root, NAME)).toBe("../../akasha/was")
+  expect(existsSync(beside)).toBe(false)
+})
+
 test("a link already pointing at that folder asks for nothing", () => {
   const root = rooted()
   mkdirSync(join(root, FOLDER), { recursive: true })
