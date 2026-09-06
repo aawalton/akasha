@@ -1,5 +1,5 @@
 diff --git a/pages/indexes/property-carrying/property-carrying.module.test.ts b/pages/indexes/property-carrying/property-carrying.module.test.ts
-index f9510b6ab3d0e74d71df0452837617d601820cb7..ab574ffa8efce59337782f8b7968b6f3deedf84b 100644
+index f9510b6ab3d0e74d71df0452837617d601820cb7..7bcf024f42cca1d4a0681f098e94bbfee9a67902 100644
 --- a/pages/indexes/property-carrying/property-carrying.module.test.ts
 +++ b/pages/indexes/property-carrying/property-carrying.module.test.ts
 @@ -6,6 +6,7 @@ import {
@@ -41,3 +41,12 @@ index f9510b6ab3d0e74d71df0452837617d601820cb7..ab574ffa8efce59337782f8b7968b6f3
    return root
  }
  
+@@ -93,7 +105,7 @@ test("a property is carried by the pages of every type beneath the one declaring
+   declares(root, HELD, THING, pageAt("thing", "page-type"))
+   filed(root, "deeper", "page-type", DEEPER)
+   extending(root, THING, DEEPER, pageAt("deeper", "page-type"))
+-  listedFiled(root, "deeper", "two", [{ path: "akasha/two.deeper.ts", id: TWO }])
++  listedAndValued(root, "deeper", "two", "akasha/two.deeper.ts", TWO)
+   const said = carryingOf(root, "held")
+   expect("carrying" in said ? said.carrying.map((one) => one.path) : []).toEqual([
+     "akasha/one.thing.ts",
