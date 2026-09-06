@@ -1,0 +1,13 @@
+diff --git a/temper/temper-watcher/watcher-main/watcher-main.module.ts b/temper/temper-watcher/watcher-main/watcher-main.module.ts
+index c028d6dded5936a7bf3a534a7d1dc8c8946095ea..375377dd80e91f52b31868517d903e63deb588dd 100644
+--- a/temper/temper-watcher/watcher-main/watcher-main.module.ts
++++ b/temper/temper-watcher/watcher-main/watcher-main.module.ts
+@@ -138,7 +138,7 @@ export const watcherMain = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The worker module hands this one a dispatch.",
++      statement: "The worker module hands this module a dispatch.",
+     },
+     {
+       invariantKind: "departure",
