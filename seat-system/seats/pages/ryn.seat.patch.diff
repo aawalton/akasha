@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.ts b/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.ts
-index c1a8825d9de4546f36cb4cc4524aa33b14cd9a1f..055f167e7d0e32a56c7f880f6bba2074f1d34844 100644
+index c1a8825d9de4546f36cb4cc4524aa33b14cd9a1f..7acb98c1e8c043543abf15dca083f45811082fb9 100644
 --- a/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.ts
 +++ b/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.ts
 @@ -9,11 +9,11 @@ export const supervisorIdleRule = {
@@ -26,3 +26,12 @@ index c1a8825d9de4546f36cb4cc4524aa33b14cd9a1f..055f167e7d0e32a56c7f880f6bba2074
      },
      {
        invariantKind: "departure",
+@@ -33,7 +33,7 @@ export const supervisorIdleRule = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A verdict's reason is the busyReason the rule states, not a fixed string.",
++      statement: "A verdict's reason is the busyReason the rule states rather than a fixed string.",
+     },
+     {
+       invariantKind: "absence",
