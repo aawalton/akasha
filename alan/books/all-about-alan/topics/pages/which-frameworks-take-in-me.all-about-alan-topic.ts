@@ -10,6 +10,4 @@ export const whichFrameworksTakeInMe = {
   relatedSlugs: ["how-a-skill-gets-into-me", "which-lever-reaches-a-response"],
   settled:
     "Some fit my grain closely enough to go in whole on one reading. Others I argue with the whole way through and never stick with.",
-  unsettled:
-    "What separates the two has never been pinned at the level of mechanism, so I can only call it after the fact.\n\nNo full list exists of the ones I took up, and the ones I took up and later dropped are the part most clearly missing. Those are where the fit fails.",
 } as const satisfies AllAboutAlanTopic
