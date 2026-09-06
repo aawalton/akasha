@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/domains/sentence-shapes/sentence-shape.page-type.ts b/domains/sentence-shapes/sentence-shape.page-type.ts
+index 4bacef9915b4f3a43633be024eb4f5945e7f123f..8b00431c5beb36d0b833b4d5d6be052160f89917 100644
+--- a/domains/sentence-shapes/sentence-shape.page-type.ts
++++ b/domains/sentence-shapes/sentence-shape.page-type.ts
+@@ -83,7 +83,8 @@ export const sentenceShape = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Many shapes that each refuse truly find more than one shape that refuses widely.",
++      statement:
++        "Many narrow shapes that refuse truly are better than a wide shape that refuses widely.",
+     },
+   ],
+   directives: [
