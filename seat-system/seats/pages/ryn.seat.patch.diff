@@ -1,8 +1,18 @@
 diff --git a/git/git-answering/git-answering.module.ts b/git/git-answering/git-answering.module.ts
-index 8a7210195c1c57f524996876a8a527fbefea3922..4c422ff4aff1cc0813731aa48c554b4fdfeff0c9 100644
+index 8a7210195c1c57f524996876a8a527fbefea3922..7ec9eea0848947a35682b4b1ed8eb1c72f146981 100644
 --- a/git/git-answering/git-answering.module.ts
 +++ b/git/git-answering/git-answering.module.ts
-@@ -38,7 +38,11 @@ export const gitAnswering = {
+@@ -25,8 +25,7 @@ export const gitAnswering = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The group is killed once the process ends, so nothing that process started outlives that process.",
++      statement: "The group is killed once the process ends.",
+     },
+     {
+       invariantKind: "departure",
+@@ -38,7 +37,11 @@ export const gitAnswering = {
      },
      {
        invariantKind: "departure",
@@ -15,7 +25,7 @@ index 8a7210195c1c57f524996876a8a527fbefea3922..4c422ff4aff1cc0813731aa48c554b4f
      },
      {
        invariantKind: "departure",
-@@ -47,7 +51,11 @@ export const gitAnswering = {
+@@ -47,7 +50,11 @@ export const gitAnswering = {
      },
      {
        invariantKind: "gap",
