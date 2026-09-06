@@ -1,0 +1,14 @@
+diff --git a/alan/harness/surplus/reading/surplus-reading.module.ts b/alan/harness/surplus/reading/surplus-reading.module.ts
+index 0966f1b6edd9c56fe11a783cbd93e0d0bfc614c0..31319d726c3eb23e7ef894626a543228450cdb7c 100644
+--- a/alan/harness/surplus/reading/surplus-reading.module.ts
++++ b/alan/harness/surplus/reading/surplus-reading.module.ts
+@@ -49,7 +49,8 @@ export const surplusReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The root read is the one the environment states or the one the call was made in.",
++      statement:
++        "The root read is the root the environment states or the folder the call was made in.",
+     },
+     {
+       invariantKind: "stopgap",
