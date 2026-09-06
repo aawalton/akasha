@@ -24,7 +24,11 @@ export const shellInitBash = {
     },
     {
       invariantKind: "departure",
-      statement: "The set goes to the report, so a shell can evaluate the output stream.",
+      statement: "The set goes to the report.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shell evaluates the output stream.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +36,7 @@ export const shellInitBash = {
     },
     {
       invariantKind: "departure",
-      statement: "A word given to this command is refused, because this command takes none.",
+      statement: "A word given to this command is refused.",
     },
     {
       invariantKind: "departure",
