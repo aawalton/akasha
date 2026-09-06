@@ -108,6 +108,26 @@ index 3bb9aec34882aeeed12c325c8aab647155897be2..8305cfac05a008f941a1fe5dca651dd2
      "@typescript/typescript-darwin-arm64": ["@typescript/typescript-darwin-arm64@7.1.0-dev.20260904.1", "", { "os": "darwin", "cpu": "arm64" }, "sha512-Lu45MVhqxD4guUqR0f8yJckWp8Qn11d01yX5p4bf9jN5KuLaq+7opjuLaK5O6140DcfC6eDgn8KsBlmJHr/UpA=="],
  
      "@typescript/typescript-darwin-x64": ["@typescript/typescript-darwin-x64@7.1.0-dev.20260904.1", "", { "os": "darwin", "cpu": "x64" }, "sha512-+F5eaVCnGJ6fBFTen6kcCMRRDfBj+a3IxS3L8o9s4LgIPBC0E8+3MmSX+esj0ig76xqIj+a/xqnfcGFS3MfJaA=="],
+diff --git a/checks/cluster-checks/modules/dep-version-policy/dep-version-policy.module.code.ts b/checks/cluster-checks/modules/dep-version-policy/dep-version-policy.module.code.ts
+index 9743fec73615b778489c1e1740e7c8af86f8e851..48b8da3566e946a692108ebac1e4f2c0495a29be 100644
+--- a/checks/cluster-checks/modules/dep-version-policy/dep-version-policy.module.code.ts
++++ b/checks/cluster-checks/modules/dep-version-policy/dep-version-policy.module.code.ts
+@@ -1,9 +1,11 @@
+-export const EXACT_PIN_REQUIRED: ReadonlySet<string> = new Set<string>([
+-  "@typescript/native-preview",
+-])
++export const EXACT_PIN_REQUIRED: ReadonlySet<string> = new Set<string>(["typescript-7"])
++
++const ALIASED = /^npm:(?:@[^/]+\/)?[^@]+@/
++
++const EXACT = /^\d+\.\d+\.\d+(?:-[0-9A-Za-z.-]+)?(?:\+[0-9A-Za-z.-]+)?$/
+ 
+ export function isExactPin(spec: string): boolean {
+-  return /^\d+\.\d+\.\d+(?:-[0-9A-Za-z.-]+)?(?:\+[0-9A-Za-z.-]+)?$/.test(spec)
++  return EXACT.test(spec.replace(ALIASED, ""))
+ }
+ 
+ export interface PinDepEntry {
 diff --git a/package.json b/package.json
 index 0725805936076f1b01b922b0ab2e2a4a19ab58b2..fd7d6b6caee5e0f56fbecf036a1dd09655692433 100644
 --- a/package.json
