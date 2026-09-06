@@ -1,4 +1,4 @@
-import { closeSync, mkdtempSync, openSync, readFileSync, readSync, rmSync, statSync } from "node:fs"
+import { closeSync, fstatSync, mkdtempSync, openSync, readSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { oneLine } from "../fault-saying/fault-saying.module.code.ts"
 import { SCRATCH_AT } from "../scratching/scratching.module.code.ts"
@@ -8,6 +8,8 @@ const CAT_FILE = "akasha-cat-file-"
 const SAYING = "saying"
 
 const TROUBLE = "trouble"
+
+const TROUBLE_AT_MOST = 4096
 
 const COMMIT = "^{commit}"
 
@@ -19,18 +21,12 @@ const NEWLINE = 10
 
 const HELD_AT_FIRST = 65536
 
-const SPUN_BEFORE_WAITING = 20000
-
-const SPUN_AT_MOST = 60000
-
-const WAITED_FOR_A_BODY = 1
-
 const READ_AT_MOST = 64 * 1024 * 1024
 
 type Reading = {
   readonly root: string
   readonly dir: string
-  readonly troubleAt: string
+  readonly troubleFd: number
   readonly rfd: number
   readonly bases: Set<string>
   readonly asked: (name: string) => undefined
@@ -57,8 +53,9 @@ function readerOn(root: string): Reading {
   const dir = mkdtempSync(join(SCRATCH_AT, CAT_FILE))
   const sayingAt = join(dir, SAYING)
   const troubleAt = join(dir, TROUBLE)
-  const saying = openSync(sayingAt, "w")
-  const trouble = openSync(troubleAt, "w")
+  Bun.spawnSync(["mkfifo", sayingAt])
+  const trouble = openSync(troubleAt, "w+")
+  const saying = openSync(sayingAt, "r+")
   const kid = Bun.spawn(["git", "-C", root, "cat-file", "--batch", "-z"], {
     stdin: "pipe",
     stdout: saying,
@@ -66,10 +63,12 @@ function readerOn(root: string): Reading {
   })
   kid.unref()
   const rfd = openSync(sayingAt, "r")
+  closeSync(saying)
+  rmSync(dir, { recursive: true, force: true })
   return {
     root,
     dir,
-    troubleAt,
+    troubleFd: trouble,
     rfd,
     bases: new Set<string>(),
     held: Buffer.alloc(HELD_AT_FIRST),
@@ -84,7 +83,7 @@ function readerOn(root: string): Reading {
       try {
         kid.stdin.end()
       } catch {}
-      for (const one of [rfd, saying, trouble]) {
+      for (const one of [rfd, trouble]) {
         try {
           closeSync(one)
         } catch {}
@@ -104,7 +103,12 @@ function readingIn(root: string): Reading {
 function troubledBy(held: Reading, said: string): Error {
   let why = ""
   try {
-    why = readFileSync(held.troubleAt, "utf8").trim()
+    const size = Math.min(fstatSync(held.troubleFd).size, TROUBLE_AT_MOST)
+    if (size > 0) {
+      const said = Buffer.alloc(size)
+      readSync(held.troubleFd, said, 0, size, 0)
+      why = said.toString("utf8").trim()
+    }
   } catch {}
   const also = why === "" ? "" : ` and said \`${oneLine(why)}\``
   return new Error(`\`git cat-file --batch\` over ${held.root} ${said}${also}`)
@@ -122,18 +126,13 @@ function filled(held: Reading): undefined {
       held.held = grown
     }
   }
-  for (let spun = 0; spun < SPUN_AT_MOST; spun++) {
-    const read = readSync(held.rfd, held.held, held.to, held.held.length - held.to, held.took)
-    if (read > 0) {
-      held.to += read
-      held.took += read
-      return
-    }
-    if (spun < SPUN_BEFORE_WAITING) continue
-    if (statSync(held.troubleAt).size > 0) throw troubledBy(held, "answered nothing")
-    Atomics.wait(new Int32Array(new SharedArrayBuffer(4)), 0, 0, WAITED_FOR_A_BODY)
+  const read = readSync(held.rfd, held.held, held.to, held.held.length - held.to, null)
+  if (read > 0) {
+    held.to += read
+    held.took += read
+    return
   }
-  throw troubledBy(held, "answered nothing in time")
+  throw troubledBy(held, "answered nothing")
 }
 
 function lineOf(held: Reading): string {
