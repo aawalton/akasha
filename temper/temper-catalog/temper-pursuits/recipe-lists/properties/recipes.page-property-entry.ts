@@ -15,7 +15,7 @@ export const recipes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A recipe here is one a player learns from an item the game names.",
+      statement: "A recipe here is a recipe a player learns from an item the game names.",
     },
     {
       invariantKind: "departure",
