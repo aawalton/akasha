@@ -31,7 +31,7 @@ export const inbox = {
 
     {
       invariantKind: "departure",
-      statement: "Every site showing an inbox is carried the count rather than taking one.",
+      statement: "Every site showing an inbox is carried the count rather than taking the count.",
     },
     {
       invariantKind: "departure",
