@@ -19,7 +19,7 @@ export const inventoryRuleToPages = {
     {
       invariantKind: "departure",
       statement:
-        "A condition value is written as JSON except where it is text no JSON reader would take.",
+        "A condition value is written as JSON except where the value is text no JSON reader would take.",
     },
     {
       invariantKind: "departure",
@@ -27,11 +27,12 @@ export const inventoryRuleToPages = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule saying nothing about when it changed is written as the epoch.",
+      statement: "A rule saying nothing about when the rule changed is written as the epoch.",
     },
     {
       invariantKind: "gap",
-      statement: "A rule carrying neither of those two comes back saying both.",
+      statement:
+        "A rule carrying no switch state and no change time comes back switched on and dated the epoch.",
     },
   ],
 } as const satisfies Module
