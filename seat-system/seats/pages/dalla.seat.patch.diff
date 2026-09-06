@@ -1,0 +1,45 @@
+diff --git a/pages/indexes/reaching/reaching.module.code.ts b/pages/indexes/reaching/reaching.module.code.ts
+index a5928dac150c859268a4c0711477d56365189854..75275095dbc1819574c6bfe487b8f5feb806447d 100644
+--- a/pages/indexes/reaching/reaching.module.code.ts
++++ b/pages/indexes/reaching/reaching.module.code.ts
+@@ -23,7 +23,9 @@ const SAID = "pagePropertySlug"
+ 
+ const MORTAL = "mortal"
+ 
+-const NOT_A_RELATION = new Set(["id", "slug", "pageTypeSlug"])
++// The identity index files these three: a page's id, its slug, and the page type its slug is
++// unique within. Filing them again as edges would answer one question in two places.
++const FILED_AS_IDENTITY = new Set(["id", "slug", "pageTypeSlug"])
+ 
+ export type Wanted = string | readonly string[] | null
+ 
+@@ -279,7 +281,7 @@ export type Naming = {
+   readonly propertySlug: string
+   readonly said: string
+   readonly held: unknown
+-  readonly own: boolean
++  readonly identity: boolean
+ }
+ 
+ export function namingsIn(value: Value, known: Shaped): readonly Naming[] {
+@@ -288,9 +290,9 @@ export function namingsIn(value: Value, known: Shaped): readonly Naming[] {
+     if (held === null) continue
+     const propertySlug = known.slugOfKeyIn(value, key)
+     if (propertySlug === null) continue
+-    const own = NOT_A_RELATION.has(key)
++    const identity = FILED_AS_IDENTITY.has(key)
+     if (known.targetOf(propertySlug) !== null) {
+-      found.push({ key, propertySlug, said: propertySlug, held, own })
++      found.push({ key, propertySlug, said: propertySlug, held, identity })
+       continue
+     }
+     if (known.fieldsOf(propertySlug).length === 0) continue
+@@ -304,7 +306,7 @@ export function namingsIn(value: Value, known: Shaped): readonly Naming[] {
+           propertySlug: field,
+           said: `${propertySlug} ${field}`,
+           held: said,
+-          own,
++          identity,
+         })
+       }
+     }
