@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/google/calendar/calendar-credentials/calendar-credentials.module.ts b/google/calendar/calendar-credentials/calendar-credentials.module.ts
+index aa2136e7dec68996174400e89ccb86b90d184a34..0abc00df6d845ea5d42baeb18c0ad2f55a9ec6e8 100644
+--- a/google/calendar/calendar-credentials/calendar-credentials.module.ts
++++ b/google/calendar/calendar-credentials/calendar-credentials.module.ts
+@@ -13,7 +13,7 @@ export const calendarCredentials = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A default calendar id that is empty counts as none given.",
++      statement: "A default calendar id that is empty counts as no id given.",
+     },
+   ],
+ } as const satisfies Module
