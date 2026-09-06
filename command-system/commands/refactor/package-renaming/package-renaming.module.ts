@@ -30,7 +30,7 @@ export const packageRenaming = {
     },
     {
       invariantKind: "absence",
-      statement: "A longer name this one only opens is not the package.",
+      statement: "A longer name the package's name only opens is not the package.",
     },
     {
       invariantKind: "departure",
@@ -67,7 +67,7 @@ export const packageRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer says how many manifests and how many bodies were respelled.",
+      statement: "An answer says the number of manifests and the number of bodies respelled.",
     },
     {
       invariantKind: "departure",
@@ -97,7 +97,7 @@ export const packageRenaming = {
     {
       invariantKind: "absence",
       statement:
-        "A longer package name this one only opens is left alone wherever that name stands.",
+        "A longer package name the package's name only opens is left alone wherever that name is spelled.",
     },
     {
       invariantKind: "departure",
