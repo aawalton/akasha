@@ -21,7 +21,7 @@ export const k8sSynth = {
     },
     {
       invariantKind: "departure",
-      statement: "A synth file is found by the globs rather than by a list naming each one.",
+      statement: "A synth file is found by the globs rather than by a list naming each file.",
     },
   ],
 } as const satisfies WorkspacePackage
