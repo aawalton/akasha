@@ -1,3 +1,47 @@
+diff --git a/alan/web/wallpaper-candidates/wallpaper-candidates.module.code.ts b/alan/web/wallpaper-candidates/wallpaper-candidates.module.code.ts
+deleted file mode 100644
+index 2a39f86ad6114cab1e76ee789bf7de94a4431255..0000000000000000000000000000000000000000
+--- a/alan/web/wallpaper-candidates/wallpaper-candidates.module.code.ts
++++ /dev/null
+@@ -1,38 +0,0 @@
+-import { parseCoverPageId } from "@akasha/pages-url/cover-url"
+-
+-export interface PersonaCoverRow {
+-  readonly id: string
+-  readonly slug?: string | null
+-  readonly lastMessagedAt?: string | null
+-  readonly cover?: string | null
+-}
+-
+-interface Candidate {
+-  readonly id: string
+-  readonly named: string
+-  readonly stampMs: number
+-}
+-
+-function stampMs(iso: string | null | undefined): number {
+-  if (iso == null) return Number.NEGATIVE_INFINITY
+-  const ms = Date.parse(iso)
+-  return Number.isNaN(ms) ? Number.NEGATIVE_INFINITY : ms
+-}
+-
+-function ordered(candidates: Candidate[]): readonly string[] {
+-  candidates.sort((a, b) => {
+-    if (b.stampMs !== a.stampMs) return b.stampMs - a.stampMs
+-    return a.id < b.id ? -1 : a.id > b.id ? 1 : 0
+-  })
+-  return candidates.map((one) => one.named)
+-}
+-
+-export function orderedCoverCandidates(rows: readonly PersonaCoverRow[]): readonly string[] {
+-  const candidates: Candidate[] = []
+-  for (const row of rows) {
+-    const coverPageId = parseCoverPageId(row.cover)
+-    if (coverPageId === null) continue
+-    candidates.push({ id: row.id, named: coverPageId, stampMs: stampMs(row.lastMessagedAt) })
+-  }
+-  return ordered(candidates)
+-}
 diff --git a/service-system/workstation-services/pages/desktop-wallpaper-setting.workstation-service.ts b/service-system/workstation-services/pages/desktop-wallpaper-setting.workstation-service.ts
 index de04b49f2ad9a10ad289e0210235b44018822ae8..633fe43aa8417ece37d92c0dd4b38cffd4c646c5 100644
 --- a/service-system/workstation-services/pages/desktop-wallpaper-setting.workstation-service.ts
