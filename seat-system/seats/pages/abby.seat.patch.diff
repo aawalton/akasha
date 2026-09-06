@@ -1,0 +1,26 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-social-cadence-outruns-recovery.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-social-cadence-outruns-recovery.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d47ead3ee01f894dd4e2b5292d30e9661c121d74
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-social-cadence-outruns-recovery.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMySocialCadenceOutrunsRecovery = {
++  id: "01a07813-be06-7800-9cc1-27ffdbcb47c7",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-social-cadence-outruns-recovery",
++  topicSlug: "sleep",
++  ask: "Recovery from a social evening takes a few days and I have social in at least twice a week. Does the next evening land before I have recovered from the one before?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts
+index 3b380c822d1c41ecdf32af04f105f57585581347..bad15b3b609658ab8a98033d99f73d240da16b36 100644
+--- a/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts
+@@ -8,5 +8,5 @@ export const sleep = {
+   definition: "how I sleep, and what it does for me",
+   parentSlugs: ["resources"],
+   settled:
+-    "Seven hours most days at the moment, where I want nine or ten.\n\nStress is what is trimming the hours now, rather than Vyvanse.\n\nThat stress is almost entirely from being social, mostly with Jen. The social has been positive and I pay a cost for the social anyway.\n\nI almost always wake without an alarm.\n\nIt is the nearest thing to a cure-all I have found.",
++    "Seven hours most days at the moment, where I want nine or ten.\n\nStress is what is trimming the hours now, rather than Vyvanse.\n\nThat stress is almost entirely from being social, mostly with Jen. The social has been positive and I pay a cost for the social anyway.\n\nThe cost lands the same night, and recovery from the cost takes a few days.\n\nI have social structured in at least twice a week at the moment, so I sit in the seven-hour ballpark most days.\n\nI almost always wake without an alarm.\n\nIt is the nearest thing to a cure-all I have found.",
+ } as const satisfies AllAboutAlanTopic
