@@ -19,7 +19,7 @@ export const seatToggles = {
     },
     {
       invariantKind: "departure",
-      statement: "A stopped headless seat is revived without one.",
+      statement: "A stopped headless seat is revived without a terminal.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const seatToggles = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat name is lower-case letters, digits and hyphens after a letter or digit.",
+      statement: "A seat name is lower-case letters or digits or hyphens after a letter or digit.",
     },
     {
       invariantKind: "departure",
