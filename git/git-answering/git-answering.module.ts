@@ -25,8 +25,7 @@ export const gitAnswering = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The group is killed once the process ends, so nothing that process started outlives that process.",
+      statement: "The group is killed once the process ends.",
     },
     {
       invariantKind: "departure",
@@ -38,16 +37,27 @@ export const gitAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "The git that is run is the one the environment names, or `git`.",
+      statement: "The git that is run is the git the environment names.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The streams git wrote are answered trimmed, and the raw door answers those streams untrimmed.",
+      statement: "A run the environment names no git for runs `git`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The streams git wrote are answered trimmed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The raw door answers those streams untrimmed.",
     },
     {
       invariantKind: "gap",
-      statement: "`git-running` runs git the other way, and the two doors are not one.",
+      statement: "`git-running` runs git the other way.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The two doors are separate.",
     },
     {
       invariantKind: "gap",
