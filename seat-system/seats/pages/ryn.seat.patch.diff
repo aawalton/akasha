@@ -1,0 +1,14 @@
+diff --git a/command-system/package-linking/package-linking.module.ts b/command-system/package-linking/package-linking.module.ts
+index 1ec6c0f9e5ac08b67d64727d95885e758067925c..a0f607c119c641e4cce964e803b2f7b1476bcea4 100644
+--- a/command-system/package-linking/package-linking.module.ts
++++ b/command-system/package-linking/package-linking.module.ts
+@@ -35,8 +35,7 @@ export const packageLinking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A name resolves to the link that was there or the one arriving, never to neither.",
++      statement: "A name resolves to the link that was there or to the link arriving.",
+     },
+     {
+       invariantKind: "departure",
