@@ -1,0 +1,17 @@
+diff --git a/seat-system/supervising/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts b/seat-system/supervising/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts
+index 11dae4f6080d122dedaa26ca0ff86f62e87ebe44..77e892e8a9d5b674c11e817bfe229eb50285aa58 100644
+--- a/seat-system/supervising/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts
++++ b/seat-system/supervising/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts
+@@ -13,7 +13,11 @@ export const supervisorIterationOutcome = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "restart-now is the only action handled, and every other action breaks the loop.",
++      statement: "restart-now is the only action handled.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every other action breaks the loop.",
+     },
+     {
+       invariantKind: "departure",
