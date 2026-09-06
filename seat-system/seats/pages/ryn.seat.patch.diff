@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.ts b/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.ts
-index 642cc5907384974b919753c66e07dbd69583e2a8..e2ef074b6b610e6d58db4b62c73a07e841e536ae 100644
+index 642cc5907384974b919753c66e07dbd69583e2a8..7b5f69df6fcefc3099bc7361d70a0d5e24461b1f 100644
 --- a/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.ts
 +++ b/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.ts
 @@ -11,12 +11,15 @@ export const supervisorIdleDecide = {
@@ -30,3 +30,12 @@ index 642cc5907384974b919753c66e07dbd69583e2a8..e2ef074b6b610e6d58db4b62c73a07e8
      },
      {
        invariantKind: "departure",
+@@ -42,7 +45,7 @@ export const supervisorIdleDecide = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reads a process, a port or a page.",
++      statement: "Nothing here reads a process or a port or a page.",
+     },
+   ],
+ } as const satisfies Module
