@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/page-tree-panel/page-tree-panel.module.ts b/editor-extension/page-tree-panel/page-tree-panel.module.ts
+index 7ab93413a72d6ae3b46d1150a0d148fb45a287bf..6dc99c1b20e2875e390b0f620ba7f74b99800e81 100644
+--- a/editor-extension/page-tree-panel/page-tree-panel.module.ts
++++ b/editor-extension/page-tree-panel/page-tree-panel.module.ts
+@@ -31,7 +31,7 @@ export const pageTreePanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The rows the file carries are drawn as they are rather than spelled again.",
++      statement: "The rows the file carries are drawn unchanged rather than spelled again.",
+     },
+     {
+       invariantKind: "departure",
