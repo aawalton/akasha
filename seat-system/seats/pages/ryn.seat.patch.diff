@@ -1,8 +1,21 @@
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.ts
-index 1b6ca926fbeeb4298ef93fef35a604ba18f905e4..5b8305ff1482c06e9724fdb91129f141519ba622 100644
+index 1b6ca926fbeeb4298ef93fef35a604ba18f905e4..a7256e74d2eb83ec350c14656fb6799b6ad66b22 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-row/tree-row.type-declaration.ts
-@@ -29,7 +29,11 @@ export const treeRow = {
+@@ -13,7 +13,11 @@ export const treeRow = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A tree names its own row type, which takes these fields and adds its own.",
++      statement: "A tree names its own row type.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A tree's own row type takes these fields and adds its own fields.",
+     },
+     {
+       invariantKind: "departure",
+@@ -29,7 +33,11 @@ export const treeRow = {
      },
      {
        invariantKind: "departure",
