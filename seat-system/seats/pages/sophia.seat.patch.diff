@@ -22,17 +22,3 @@ index 7afc868f082e3fbda80db98e4af26720585aa678..2bcca1b57dbf53507f1aa45327fc3931
      },
      {
        invariantKind: "departure",
-diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
-index aa728b74146a47518c80a95dce60ab50eda2516d..e5ecad45ea68da6d2656cd30170027fad9831a67 100644
---- a/command-system/landing/landing.module.ts
-+++ b/command-system/landing/landing.module.ts
-@@ -264,7 +264,8 @@ export const landing = {
-     },
-     {
-       invariantKind: "departure",
--      statement: "A draft says which checks and warrants the change drafted into the patch runs.",
-+      statement:
-+        "A draft says which checks the change drafted into the patch runs and the reading owed.",
-     },
-     {
-       invariantKind: "departure",
