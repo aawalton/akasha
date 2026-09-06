@@ -93,3 +93,36 @@ index a838686ae407dd538bb88ab2fd2344c41cbc0d50..56cd1e71d5d79634d0bf5c7137b6b349
    if (predicateKey !== undefined) data.crossTypeSource = { predicateKey }
    const verbId = textOf(properties.reorderCommand)
    if (verbId !== undefined) data.reorder = { verbId }
+diff --git a/pages/views/properties/view-page-type.relation-property.ts b/pages/views/properties/view-page-type.relation-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0216e1bbf737f9cc49f93d6419029013e3e11429
+--- /dev/null
++++ b/pages/views/properties/view-page-type.relation-property.ts
+@@ -0,0 +1,27 @@
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
++
++export type ViewPageType = Slug
++
++export const viewPageType = {
++  id: "PLACEHOLDER",
++  pageTypeSlug: "relation-property",
++  slug: "view-page-type",
++  propertySlug: "page-type",
++  definition: "the page type whose pages a view lists",
++  targetPageTypeSlug: "page-type/page-type",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A view names the page type by that page type's own slug.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A view naming a predicate instead names no page type here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A view naming neither lists nothing.",
++    },
++  ],
++} as const satisfies RelationProperty
