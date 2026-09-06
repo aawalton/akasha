@@ -3766,6 +3766,19 @@ index d09704deb1ae356c9453c7ffeed5830cb222e3d7..a7695954ae8b7d81d87e0d3ed61618bf
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/domains/properties/definition.text-property.ts b/domains/properties/definition.text-property.ts
+index c4f285d1e65546d50af8c7873988598e7f87d2c4..c06173f571f29f651ef0e20785769413d724c0ca 100644
+--- a/domains/properties/definition.text-property.ts
++++ b/domains/properties/definition.text-property.ts
+@@ -8,7 +8,7 @@ export const definition = {
+   slug: "definition",
+   propertySlug: "definition",
+   definition: "the sentence naming what a page's subject is",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
 diff --git a/domains/properties/directives.record-property.ts b/domains/properties/directives.record-property.ts
 index d68bb8e6a725017435ccaadb039dc2dd5406057a..ba7dab64d3fd6c94bd54fd7dee3549f0636f7783 100644
 --- a/domains/properties/directives.record-property.ts
@@ -6203,10 +6216,10 @@ index eb84b501aadb37e0ae21fabf80beaf67609831ff..1561d7f47195dd954d729318285f5853
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/readout-system/readout-widgets/readout-widget.page-type.ts b/readout-system/readout-widgets/readout-widget.page-type.ts
-index 48872e8c324bfdc2d2e884df1d383e68c5895beb..6b3172573d5c91a899f32c170a4eee3cdae19a96 100644
+index c8b0478b238de7f6033f139cc395624892b34115..c56704aa91bb2e5813706fbe1cd564a19a1db3af 100644
 --- a/readout-system/readout-widgets/readout-widget.page-type.ts
 +++ b/readout-system/readout-widgets/readout-widget.page-type.ts
-@@ -58,13 +58,18 @@ export const readoutWidget = {
+@@ -64,13 +64,18 @@ export const readoutWidget = {
      { pagePropertySlug: "relation-property/app-slug", required: true, many: false },
      { pagePropertySlug: "relation-property/component-slug", required: true, many: false },
      { pagePropertySlug: "text-property/kind", required: true, many: false },
@@ -6225,8 +6238,8 @@ index 48872e8c324bfdc2d2e884df1d383e68c5895beb..6b3172573d5c91a899f32c170a4eee3c
 +      maxCount: null,
 +    },
      { pagePropertySlug: "number-property/place", required: true, many: false },
-   ],
-   invariants: [
+     { pagePropertySlug: "number-property/taps", required: false, many: false, uncommitted: true },
+     {
 diff --git a/readout-system/readouts/properties/color-slug.text-property.ts b/readout-system/readouts/properties/color-slug.text-property.ts
 index 2834b4ec74658b73cc9c340a864c8ae344bb9f60..bcec446acc2e788a5a0d3946c24ae1b653a085bd 100644
 --- a/readout-system/readouts/properties/color-slug.text-property.ts
