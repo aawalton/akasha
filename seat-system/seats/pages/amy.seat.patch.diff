@@ -1,3 +1,16 @@
+diff --git a/alan/tracking/daily/topic-words/topic-words.module.code.ts b/alan/tracking/daily/topic-words/topic-words.module.code.ts
+index a96366044e7c3a736942e8dba9a72fb382b011a8..6250f0d5e8e95c963bdd1feb475135aa2ebe44f1 100644
+--- a/alan/tracking/daily/topic-words/topic-words.module.code.ts
++++ b/alan/tracking/daily/topic-words/topic-words.module.code.ts
+@@ -7,7 +7,7 @@ import {
+   writeWisdomWords,
+ } from "../write-daily-points/write-daily-points.module.code.ts"
+ 
+-export const WORDS_COUNTED_FROM = "2026-09-03"
++export const WORDS_COUNTED_FROM = "2026-09-06"
+ 
+ const WISDOM_PATHSPEC = ":(glob)alan/books/all-about-alan/topics/pages/**/*.all-about-alan-topic.ts"
+ 
 diff --git a/alan/tracking/daily/wake-days/properties/intelligence-topics.number-property.ts b/alan/tracking/daily/wake-days/properties/intelligence-topics.number-property.ts
 index 4bd8362ee3df75965236a7f165556910c2aadad5..8cb7b0351e4a42d8f86479bfe00d3864c0c8d1be 100644
 --- a/alan/tracking/daily/wake-days/properties/intelligence-topics.number-property.ts
