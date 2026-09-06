@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/collections/great-courses/page-query/page-query.module.ts b/collections/great-courses/page-query/page-query.module.ts
+index d9a9215b5de6dab04bdfc673194e3ae9a362230c..f134831dfb1e29184d608cedd531e3ab2e3c4baf 100644
+--- a/collections/great-courses/page-query/page-query.module.ts
++++ b/collections/great-courses/page-query/page-query.module.ts
+@@ -9,7 +9,7 @@ export const pageQuery = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A truncated population is refused rather than answered as the whole one.",
++      statement: "A truncated population is refused rather than answered as the whole population.",
+     },
+     {
+       invariantKind: "departure",
