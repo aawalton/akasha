@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-catalog-addon/catalog-config-file/catalog-config-file.lua-module.ts b/temper/temper-catalog-addon/catalog-config-file/catalog-config-file.lua-module.ts
+index 0526c5544a6d12792eeb87ab7f5d46748359fce2..eb50a0c64f2c807fd2470ce55100430c338729b4 100644
+--- a/temper/temper-catalog-addon/catalog-config-file/catalog-config-file.lua-module.ts
++++ b/temper/temper-catalog-addon/catalog-config-file/catalog-config-file.lua-module.ts
+@@ -16,7 +16,7 @@ export const catalogConfigFile = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The game loads the file before the compiled add-on rather than compiling the two as one.",
++        "The game loads the file before the compiled add-on rather than compiling the two together.",
+     },
+   ],
+ } as const satisfies LuaModule
