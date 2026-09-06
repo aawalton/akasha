@@ -52,3 +52,30 @@ index c2abf18d4dd9633f3421df606a7999ef09a91d7a..542a3655ec2ced630478eb6df9d5ba43
 +  expect(said.bodies?.get(HELD_PAGE)).toContain(`"pluralSlug": "kepts"`)
 +  expect(said.bodies?.get(HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
 +})
+diff --git a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts
+index 97e53f9e96d0197a25972d029fb6f02036baf4a2..c83ab6de697261b6a24c32280a20cafb14ddc247 100644
+--- a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts
+@@ -46,6 +46,22 @@ export const renameSlug = {
+       invariantKind: "departure",
+       statement: "The exported const follows the slug, a page being one object named for its slug.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A page carrying a plural is renamed with the plural it becomes said as well.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A plural said of a page carrying none refuses the change.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A plural is stated rather than worked out from the slug.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The plural is stated by a partial change rather than spliced here.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A page whose body exports no name its slug makes is refused as malformed.",
