@@ -5,5 +5,5 @@ export const pageKeyComputed = {
   pageTypeSlug: "refusal",
   slug: "page-key-computed",
   title: "Page key computed",
-  text: "`{key}` is computed on `{on}`, so the engine supplies it and no file states it",
+  text: "states `{key}`, which `{on}` works out, and such a value is worked out as the page is read rather than kept in it",
 } as const satisfies Refusal

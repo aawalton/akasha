@@ -15,8 +15,11 @@ import {
   textIn,
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+import { refusalText } from "../../../modules/refusal-text/refusal-text.module.code.ts"
 
 const PAGE_TYPE = "page-type"
+
+const COMPUTED = "computed-property"
 
 const FORMAT = "nameFormatSlug"
 
@@ -180,6 +183,13 @@ export function entryReasonsIn(
   return said
 }
 
+// THE WORDS COME FROM THE REFUSAL'S OWN PAGE. A page stating a key its page type works out carries
+// a second answer, and the worked answer replaces it wherever the page is worked out, so the
+// stated one is read by whatever reads the file and by nothing else.
+export function computedKey(key: string, on: string): string {
+  return refusalText("page-key-computed", { key, on })
+}
+
 export function reasonsIn(
   value: Value,
   declared: readonly Carried[],
@@ -194,6 +204,7 @@ export function reasonsIn(
     shadow.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
   for (const one of declared) {
     if (!one.required || one.uncommitted || one.secret) continue
+    if (one.pageTypeSlug === COMPUTED) continue
     if (excused.has(one.pagePropertySlug)) continue
     if (!(one.key in value)) {
       said.push(`does not state \`${one.pagePropertySlug}\`, which \`${named}\` requires`)
@@ -216,6 +227,10 @@ export function reasonsIn(
       said.push(
         `states \`${slug}\`, which \`${named}\` declares secret, and such a value stands in the page's sops file rather than in it`
       )
+      continue
+    }
+    if (one.pageTypeSlug === COMPUTED) {
+      said.push(computedKey(slug, named))
       continue
     }
     const listed = Array.isArray(held)
