@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts b/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts
-index c3c70ce1b951d6a5e85ff3dcf05025277b694036..681b8dad57cc8c122a6ac68c1d20c3f7e26854db 100644
+index c3c70ce1b951d6a5e85ff3dcf05025277b694036..1577993ddddfddb52dd6bffabb4324af60072a9c 100644
 --- a/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts
 +++ b/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts
 @@ -9,7 +9,7 @@ export const supervisorHeartbeat = {
@@ -8,6 +8,19 @@ index c3c70ce1b951d6a5e85ff3dcf05025277b694036..681b8dad57cc8c122a6ac68c1d20c3f7
        invariantKind: "departure",
 -      statement: "The first beat runs at once, before the timer is ever set.",
 +      statement: "The first beat runs at once before the timer is ever set.",
+     },
+     {
+       invariantKind: "departure",
+@@ -17,7 +17,11 @@ export const supervisorHeartbeat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A null agent id skips the record, and the polls still run.",
++      statement: "A null agent id skips the record.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The polls still run where the agent id is null.",
      },
      {
        invariantKind: "departure",
