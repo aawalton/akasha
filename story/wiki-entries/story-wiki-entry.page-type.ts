@@ -24,11 +24,11 @@ export const storyWikiEntry = {
   runsTabooCheck: false,
   partSlugs: ["number-property/chapter-number", "select-property/wiki-kind"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "world-slug", required: false, many: false },
-    { pagePropertySlug: "wiki-kind", required: false, many: false },
-    { pagePropertySlug: "chapter-number", required: false, many: false },
-    { pagePropertySlug: "prose", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/world-slug", required: false, many: false },
+    { pagePropertySlug: "select-property/wiki-kind", required: false, many: false },
+    { pagePropertySlug: "number-property/chapter-number", required: false, many: false },
+    { pagePropertySlug: "file-property/prose", required: false, many: false },
   ],
   invariants: [
     {

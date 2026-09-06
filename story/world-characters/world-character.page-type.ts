@@ -31,12 +31,12 @@ export const worldCharacter = {
     "number-property/max-level",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "world-slug", required: true, many: false },
-    { pagePropertySlug: "max-level", required: false, many: false },
-    { pagePropertySlug: "event-count", required: false, many: false },
-    { pagePropertySlug: "first-chapter", required: false, many: false },
-    { pagePropertySlug: "last-chapter", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
+    { pagePropertySlug: "number-property/max-level", required: false, many: false },
+    { pagePropertySlug: "number-property/event-count", required: false, many: false },
+    { pagePropertySlug: "number-property/first-chapter", required: false, many: false },
+    { pagePropertySlug: "number-property/last-chapter", required: false, many: false },
   ],
   invariants: [
     {

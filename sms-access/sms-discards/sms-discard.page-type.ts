@@ -23,9 +23,9 @@ export const smsDiscard = {
     "text-property/sms-discard-sender",
   ],
   properties: [
-    { pagePropertySlug: "sms-discard-sender", required: true, many: false },
-    { pagePropertySlug: "sms-discard-reason", required: true, many: false },
-    { pagePropertySlug: "sms-discard-discarded-at", required: true, many: false },
+    { pagePropertySlug: "text-property/sms-discard-sender", required: true, many: false },
+    { pagePropertySlug: "text-property/sms-discard-reason", required: true, many: false },
+    { pagePropertySlug: "instant-property/sms-discard-discarded-at", required: true, many: false },
   ],
   invariants: [
     {

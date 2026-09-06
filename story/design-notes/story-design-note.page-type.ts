@@ -22,10 +22,10 @@ export const storyDesignNote = {
   runsTabooCheck: false,
   partSlugs: ["text-property/note-subject"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "world-slug", required: false, many: false },
-    { pagePropertySlug: "note-subject", required: false, many: false },
-    { pagePropertySlug: "prose", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/world-slug", required: false, many: false },
+    { pagePropertySlug: "text-property/note-subject", required: false, many: false },
+    { pagePropertySlug: "file-property/prose", required: false, many: false },
   ],
   invariants: [
     {

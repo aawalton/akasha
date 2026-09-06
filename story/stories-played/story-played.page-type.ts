@@ -20,9 +20,9 @@ export const storyPlayed = {
   runsTabooCheck: false,
   partSlugs: ["file-property/prose", "relation-property/world-slug"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "world-slug", required: true, many: false },
-    { pagePropertySlug: "prose", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
+    { pagePropertySlug: "file-property/prose", required: false, many: false },
   ],
   invariants: [
     {

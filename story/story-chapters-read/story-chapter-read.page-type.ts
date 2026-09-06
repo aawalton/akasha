@@ -73,13 +73,13 @@ export const storyChapterRead = {
     "text-property/anchor-reference",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "own-length", required: true, many: false },
-    { pagePropertySlug: "external-link", required: true, many: false },
-    { pagePropertySlug: "prose", required: true, many: false },
-    { pagePropertySlug: "removed-at", required: false, many: false },
-    { pagePropertySlug: "marked-read-at", required: false, many: false },
-    { pagePropertySlug: "chronology-anchors", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "number-property/own-length", required: true, many: false },
+    { pagePropertySlug: "url-property/external-link", required: true, many: false },
+    { pagePropertySlug: "file-property/prose", required: true, many: false },
+    { pagePropertySlug: "instant-property/removed-at", required: false, many: false },
+    { pagePropertySlug: "instant-property/marked-read-at", required: false, many: false },
+    { pagePropertySlug: "page-property-entry/chronology-anchors", required: false, many: false },
   ],
   invariants: [
     {

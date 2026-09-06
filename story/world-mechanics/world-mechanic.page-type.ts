@@ -65,12 +65,17 @@ export const worldMechanic = {
     "text-property/wording",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "world-slug", required: true, many: false },
-    { pagePropertySlug: "aliases", required: false, many: true, max: null },
-    { pagePropertySlug: "evolves-from-slugs", required: false, many: true, max: null },
-    { pagePropertySlug: "evolves-to-slugs", required: false, many: true, max: null },
-    { pagePropertySlug: "references", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/aliases", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "text-property/evolves-from-slugs",
+      required: false,
+      many: true,
+      max: null,
+    },
+    { pagePropertySlug: "text-property/evolves-to-slugs", required: false, many: true, max: null },
+    { pagePropertySlug: "page-property-entry/references", required: false, many: false },
   ],
   invariants: [
     {

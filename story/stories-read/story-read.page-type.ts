@@ -37,12 +37,12 @@ export const storyRead = {
   },
   partSlugs: ["select-property/publication-status", "text-property/external-tags"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "world-slug", required: true, many: false },
-    { pagePropertySlug: "source", required: true, many: false },
-    { pagePropertySlug: "external-tags", required: false, many: true, max: null },
-    { pagePropertySlug: "publication-status", required: false, many: false },
-    { pagePropertySlug: "prose", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/source", required: true, many: false },
+    { pagePropertySlug: "text-property/external-tags", required: false, many: true, max: null },
+    { pagePropertySlug: "select-property/publication-status", required: false, many: false },
+    { pagePropertySlug: "file-property/prose", required: false, many: false },
   ],
   invariants: [
     {

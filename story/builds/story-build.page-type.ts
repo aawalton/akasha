@@ -32,13 +32,13 @@ export const storyBuild = {
     "text-property/game-system",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "world-slug", required: false, many: false },
-    { pagePropertySlug: "chapter-number", required: false, many: false },
-    { pagePropertySlug: "build-level", required: false, many: false },
-    { pagePropertySlug: "class-name", required: false, many: false },
-    { pagePropertySlug: "game-system", required: false, many: false },
-    { pagePropertySlug: "prose", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/world-slug", required: false, many: false },
+    { pagePropertySlug: "number-property/chapter-number", required: false, many: false },
+    { pagePropertySlug: "number-property/build-level", required: false, many: false },
+    { pagePropertySlug: "text-property/class-name", required: false, many: false },
+    { pagePropertySlug: "text-property/game-system", required: false, many: false },
+    { pagePropertySlug: "file-property/prose", required: false, many: false },
   ],
   invariants: [
     {

@@ -35,14 +35,14 @@ export const storyDecision = {
     "text-property/decision-options",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "world-slug", required: false, many: false },
-    { pagePropertySlug: "chapter-number", required: false, many: false },
-    { pagePropertySlug: "decision-type", required: false, many: false },
-    { pagePropertySlug: "decision-options", required: false, many: false },
-    { pagePropertySlug: "chosen", required: false, many: false },
-    { pagePropertySlug: "decision-effect", required: false, many: false },
-    { pagePropertySlug: "prose", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/world-slug", required: false, many: false },
+    { pagePropertySlug: "number-property/chapter-number", required: false, many: false },
+    { pagePropertySlug: "select-property/decision-type", required: false, many: false },
+    { pagePropertySlug: "text-property/decision-options", required: false, many: false },
+    { pagePropertySlug: "text-property/chosen", required: false, many: false },
+    { pagePropertySlug: "text-property/decision-effect", required: false, many: false },
+    { pagePropertySlug: "file-property/prose", required: false, many: false },
   ],
   invariants: [
     {

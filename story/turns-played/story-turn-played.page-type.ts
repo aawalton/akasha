@@ -17,8 +17,8 @@ export const storyTurnPlayed = {
   extendsSlug: ["page-type/collection"],
   runsTabooCheck: false,
   properties: [
-    { pagePropertySlug: "own-length", required: false, many: false },
-    { pagePropertySlug: "prose", required: true, many: false },
+    { pagePropertySlug: "number-property/own-length", required: false, many: false },
+    { pagePropertySlug: "file-property/prose", required: true, many: false },
   ],
   invariants: [
     {

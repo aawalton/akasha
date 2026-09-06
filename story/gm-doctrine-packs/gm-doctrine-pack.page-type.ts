@@ -30,11 +30,11 @@ export const gmDoctrinePack = {
     "number-property/doctrine-version",
   ],
   properties: [
-    { pagePropertySlug: "doctrine-version", required: true, many: false },
-    { pagePropertySlug: "policies", required: false, many: false },
-    { pagePropertySlug: "gate-dimensions", required: false, many: false },
-    { pagePropertySlug: "sheet-template", required: false, many: false },
-    { pagePropertySlug: "tally-catalog", required: false, many: false },
+    { pagePropertySlug: "number-property/doctrine-version", required: true, many: false },
+    { pagePropertySlug: "file-property/policies", required: false, many: false },
+    { pagePropertySlug: "file-property/gate-dimensions", required: false, many: false },
+    { pagePropertySlug: "file-property/sheet-template", required: false, many: false },
+    { pagePropertySlug: "file-property/tally-catalog", required: false, many: false },
   ],
   invariants: [
     {

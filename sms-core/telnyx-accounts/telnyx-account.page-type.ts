@@ -20,8 +20,17 @@ export const telnyxAccount = {
     "text-property/telnyx-account-api-key",
   ],
   properties: [
-    { pagePropertySlug: "telnyx-account-from-number", required: true, many: false },
-    { pagePropertySlug: "telnyx-account-api-key", required: false, many: false, secret: true },
+    {
+      pagePropertySlug: "phone-number-property/telnyx-account-from-number",
+      required: true,
+      many: false,
+    },
+    {
+      pagePropertySlug: "text-property/telnyx-account-api-key",
+      required: false,
+      many: false,
+      secret: true,
+    },
   ],
   invariants: [
     {

@@ -19,9 +19,9 @@ export const storyChapterWritten = {
   extendsSlug: ["page-type/collection"],
   runsTabooCheck: false,
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "own-length", required: true, many: false },
-    { pagePropertySlug: "prose", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "number-property/own-length", required: true, many: false },
+    { pagePropertySlug: "file-property/prose", required: true, many: false },
   ],
   invariants: [
     {
