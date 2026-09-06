@@ -6931,10 +6931,10 @@ index 1cbb8ffde8ca1005f46e6fba99c7d8aedf420b2e..ed5b6418559a287486412e3e82ba69c8
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/service-system/workstation-services/properties/wants.text-property.ts b/service-system/workstation-services/properties/wants.text-property.ts
-index fafe7cf397ac6aeb4b1514cf51a62be858917cbc..c10589fb6a1a7d93749fa450427f7b81fec55c0b 100644
+index fafe7cf397ac6aeb4b1514cf51a62be858917cbc..894b7cd7a7d27846c7298775d622b33f18818f27 100644
 --- a/service-system/workstation-services/properties/wants.text-property.ts
 +++ b/service-system/workstation-services/properties/wants.text-property.ts
-@@ -8,7 +8,7 @@ export const wants = {
+@@ -8,12 +8,12 @@ export const wants = {
    slug: "wants",
    propertySlug: "wants",
    definition: "a unit this unit asks for without depending on",
@@ -6943,6 +6943,12 @@ index fafe7cf397ac6aeb4b1514cf51a62be858917cbc..c10589fb6a1a7d93749fa450427f7b81
    nameFormatSlug: null,
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "The unit named failing to start leaves this one starting all the same.",
++      statement: "The unit named failing to start leaves this service starting all the same.",
+     },
+   ],
+ } as const satisfies TextProperty
 diff --git a/service-system/workstation-services/workstation-service.page-type.ts b/service-system/workstation-services/workstation-service.page-type.ts
 index 31ef86dc88f485e575754b9b8b3cc655bfaa700e..53439c0b5eff9a87ad472538850abc96393852cc 100644
 --- a/service-system/workstation-services/workstation-service.page-type.ts
