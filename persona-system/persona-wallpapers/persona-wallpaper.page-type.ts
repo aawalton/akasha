@@ -4,7 +4,7 @@ import type { Description } from "../../pages/properties/description.text-proper
 import type { RelationshipLevel } from "../closeness-levels/properties/relationship-level.number-property.ts"
 import type { Stage } from "../closeness-levels/properties/stage.text-property.ts"
 import type { PersonaImage } from "../persona-images/persona-image.page-type.ts"
-import type { ValueSlug } from "../personas/properties/value-slug.text-property.ts"
+import type { ValueSlug } from "../properties/value-slug.text-property.ts"
 
 export type PersonaWallpaper = PersonaImage & {
   relationshipLevel?: RelationshipLevel
