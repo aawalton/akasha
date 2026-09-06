@@ -1,0 +1,698 @@
+runsWarrants: false
+diff --git a/service-system/workstation-services/properties/systemd.record-property.ts b/service-system/workstation-services/properties/systemd.record-property.ts
+index 157801e224fec2262efae94d04c942c0344b201f..c440db5e87b160d640f80585105023371ce45228 100644
+--- a/service-system/workstation-services/properties/systemd.record-property.ts
++++ b/service-system/workstation-services/properties/systemd.record-property.ts
+@@ -50,26 +50,30 @@ export const systemd = {
+   propertySlug: "systemd",
+   definition: "what the unit installed for a service states",
+   properties: [
+-    { pagePropertySlug: "after", required: false, many: true, max: null },
+-    { pagePropertySlug: "wants", required: false, many: true, max: null },
+-    { pagePropertySlug: "part-of", required: false, many: false },
+-    { pagePropertySlug: "restart", required: false, many: false },
+-    { pagePropertySlug: "restart-delay-seconds", required: false, many: false },
+-    { pagePropertySlug: "restart-force-exit-status", required: false, many: false },
+-    { pagePropertySlug: "success-exit-status", required: false, many: false },
+-    { pagePropertySlug: "start-timeout-seconds", required: false, many: false },
+-    { pagePropertySlug: "stop-timeout-seconds", required: false, many: false },
+-    { pagePropertySlug: "stops", required: false, many: true, max: null },
+-    { pagePropertySlug: "start-limit-interval-seconds", required: false, many: false },
+-    { pagePropertySlug: "kill-mode", required: false, many: false },
+-    { pagePropertySlug: "nice", required: false, many: false },
+-    { pagePropertySlug: "schedule", required: false, many: false },
+-    { pagePropertySlug: "boot-delay-seconds", required: false, many: false },
+-    { pagePropertySlug: "interval-seconds", required: false, many: false },
+-    { pagePropertySlug: "jitter-seconds", required: false, many: false },
+-    { pagePropertySlug: "accuracy-seconds", required: false, many: false },
+-    { pagePropertySlug: "catch-up", required: false, many: false },
+-    { pagePropertySlug: "wanted-by", required: false, many: false },
++    { pagePropertySlug: "text-property/after", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/wants", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/part-of", required: false, many: false },
++    { pagePropertySlug: "select-property/restart", required: false, many: false },
++    { pagePropertySlug: "number-property/restart-delay-seconds", required: false, many: false },
++    { pagePropertySlug: "number-property/restart-force-exit-status", required: false, many: false },
++    { pagePropertySlug: "number-property/success-exit-status", required: false, many: false },
++    { pagePropertySlug: "number-property/start-timeout-seconds", required: false, many: false },
++    { pagePropertySlug: "number-property/stop-timeout-seconds", required: false, many: false },
++    { pagePropertySlug: "text-property/stops", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "number-property/start-limit-interval-seconds",
++      required: false,
++      many: false,
++    },
++    { pagePropertySlug: "select-property/kill-mode", required: false, many: false },
++    { pagePropertySlug: "number-property/nice", required: false, many: false },
++    { pagePropertySlug: "text-property/schedule", required: false, many: false },
++    { pagePropertySlug: "number-property/boot-delay-seconds", required: false, many: false },
++    { pagePropertySlug: "number-property/interval-seconds", required: false, many: false },
++    { pagePropertySlug: "number-property/jitter-seconds", required: false, many: false },
++    { pagePropertySlug: "number-property/accuracy-seconds", required: false, many: false },
++    { pagePropertySlug: "boolean-property/catch-up", required: false, many: false },
++    { pagePropertySlug: "text-property/wanted-by", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/service-system/workstation-services/workstation-service.page-type.ts b/service-system/workstation-services/workstation-service.page-type.ts
+index 9703bba88ab38d9d63a6b7d61336a3ecab8cb1f5..31ef86dc88f485e575754b9b8b3cc655bfaa700e 100644
+--- a/service-system/workstation-services/workstation-service.page-type.ts
++++ b/service-system/workstation-services/workstation-service.page-type.ts
+@@ -78,12 +78,12 @@ export const workstationService = {
+     "module/tick-ratchet",
+   ],
+   properties: [
+-    { pagePropertySlug: "runs", required: true, many: true, max: null },
+-    { pagePropertySlug: "enabled", required: true, many: false },
+-    { pagePropertySlug: "systemd", required: false, many: false },
+-    { pagePropertySlug: "needs-secrets", required: false, many: false },
+-    { pagePropertySlug: "port", required: false, many: false },
+-    { pagePropertySlug: "binds", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/runs", required: true, many: true, max: null },
++    { pagePropertySlug: "boolean-property/enabled", required: true, many: false },
++    { pagePropertySlug: "record-property/systemd", required: false, many: false },
++    { pagePropertySlug: "boolean-property/needs-secrets", required: false, many: false },
++    { pagePropertySlug: "number-property/port", required: false, many: false },
++    { pagePropertySlug: "text-property/binds", required: false, many: true, max: null },
+   ],
+   invariants: [
+     {
+diff --git a/sms-access/sms-discards/sms-discard.page-type.ts b/sms-access/sms-discards/sms-discard.page-type.ts
+index 96cf16795068b86c8511e226dc68ba2e6a7b9f14..48c908d6b7f2c51b86a699421db84a5760b95dcd 100644
+--- a/sms-access/sms-discards/sms-discard.page-type.ts
++++ b/sms-access/sms-discards/sms-discard.page-type.ts
+@@ -23,9 +23,9 @@ export const smsDiscard = {
+     "text-property/sms-discard-sender",
+   ],
+   properties: [
+-    { pagePropertySlug: "sms-discard-sender", required: true, many: false },
+-    { pagePropertySlug: "sms-discard-reason", required: true, many: false },
+-    { pagePropertySlug: "sms-discard-discarded-at", required: true, many: false },
++    { pagePropertySlug: "text-property/sms-discard-sender", required: true, many: false },
++    { pagePropertySlug: "text-property/sms-discard-reason", required: true, many: false },
++    { pagePropertySlug: "instant-property/sms-discard-discarded-at", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/sms-core/telnyx-accounts/telnyx-account.page-type.ts b/sms-core/telnyx-accounts/telnyx-account.page-type.ts
+index c83da75406b01173cd26330c4793b01bbb693b9a..bea2525c0a1ed7d10c08903427fd61db14962695 100644
+--- a/sms-core/telnyx-accounts/telnyx-account.page-type.ts
++++ b/sms-core/telnyx-accounts/telnyx-account.page-type.ts
+@@ -20,8 +20,17 @@ export const telnyxAccount = {
+     "text-property/telnyx-account-api-key",
+   ],
+   properties: [
+-    { pagePropertySlug: "telnyx-account-from-number", required: true, many: false },
+-    { pagePropertySlug: "telnyx-account-api-key", required: false, many: false, secret: true },
++    {
++      pagePropertySlug: "phone-number-property/telnyx-account-from-number",
++      required: true,
++      many: false,
++    },
++    {
++      pagePropertySlug: "text-property/telnyx-account-api-key",
++      required: false,
++      many: false,
++      secret: true,
++    },
+   ],
+   invariants: [
+     {
+diff --git a/story/builds/story-build.page-type.ts b/story/builds/story-build.page-type.ts
+index 48c3394334f0c1ada07c885bee71117f7cc4c038..50f8106f9222646808c95beb6b3051e38e9e22fb 100644
+--- a/story/builds/story-build.page-type.ts
++++ b/story/builds/story-build.page-type.ts
+@@ -32,13 +32,13 @@ export const storyBuild = {
+     "text-property/game-system",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "world-slug", required: false, many: false },
+-    { pagePropertySlug: "chapter-number", required: false, many: false },
+-    { pagePropertySlug: "build-level", required: false, many: false },
+-    { pagePropertySlug: "class-name", required: false, many: false },
+-    { pagePropertySlug: "game-system", required: false, many: false },
+-    { pagePropertySlug: "prose", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/world-slug", required: false, many: false },
++    { pagePropertySlug: "number-property/chapter-number", required: false, many: false },
++    { pagePropertySlug: "number-property/build-level", required: false, many: false },
++    { pagePropertySlug: "text-property/class-name", required: false, many: false },
++    { pagePropertySlug: "text-property/game-system", required: false, many: false },
++    { pagePropertySlug: "file-property/prose", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/chapters-played/story-chapter-played.page-type.ts b/story/chapters-played/story-chapter-played.page-type.ts
+index 504031cac23062d4dc8617bb2ee5895b56794cd3..d454748395d997aecc606c7c4f8d1981f11dd85e 100644
+--- a/story/chapters-played/story-chapter-played.page-type.ts
++++ b/story/chapters-played/story-chapter-played.page-type.ts
+@@ -19,9 +19,9 @@ export const storyChapterPlayed = {
+   extendsSlug: ["page-type/collection"],
+   runsTabooCheck: false,
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "own-length", required: true, many: false },
+-    { pagePropertySlug: "prose", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "number-property/own-length", required: true, many: false },
++    { pagePropertySlug: "file-property/prose", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/chapters-written/story-chapter-written.page-type.ts b/story/chapters-written/story-chapter-written.page-type.ts
+index 7018d4773af6f7b06189ac8c5063c8c44a67be61..1daa7e97bb4437e82e8f5ab26ed995fa423f11bf 100644
+--- a/story/chapters-written/story-chapter-written.page-type.ts
++++ b/story/chapters-written/story-chapter-written.page-type.ts
+@@ -19,9 +19,9 @@ export const storyChapterWritten = {
+   extendsSlug: ["page-type/collection"],
+   runsTabooCheck: false,
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "own-length", required: true, many: false },
+-    { pagePropertySlug: "prose", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "number-property/own-length", required: true, many: false },
++    { pagePropertySlug: "file-property/prose", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/decisions/story-decision.page-type.ts b/story/decisions/story-decision.page-type.ts
+index b821b7fcbf51c01b95fd8afe57a834ab7a6fbce3..711173f966c3255aded4e4e6d213468bb998d9d3 100644
+--- a/story/decisions/story-decision.page-type.ts
++++ b/story/decisions/story-decision.page-type.ts
+@@ -35,14 +35,14 @@ export const storyDecision = {
+     "text-property/decision-options",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "world-slug", required: false, many: false },
+-    { pagePropertySlug: "chapter-number", required: false, many: false },
+-    { pagePropertySlug: "decision-type", required: false, many: false },
+-    { pagePropertySlug: "decision-options", required: false, many: false },
+-    { pagePropertySlug: "chosen", required: false, many: false },
+-    { pagePropertySlug: "decision-effect", required: false, many: false },
+-    { pagePropertySlug: "prose", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/world-slug", required: false, many: false },
++    { pagePropertySlug: "number-property/chapter-number", required: false, many: false },
++    { pagePropertySlug: "select-property/decision-type", required: false, many: false },
++    { pagePropertySlug: "text-property/decision-options", required: false, many: false },
++    { pagePropertySlug: "text-property/chosen", required: false, many: false },
++    { pagePropertySlug: "text-property/decision-effect", required: false, many: false },
++    { pagePropertySlug: "file-property/prose", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/design-notes/story-design-note.page-type.ts b/story/design-notes/story-design-note.page-type.ts
+index 4e96485a17ffe8c048f1c4991ba1e059267a9cf6..d4622083bebaa3cb347ad531e85eeeda0be1d2c7 100644
+--- a/story/design-notes/story-design-note.page-type.ts
++++ b/story/design-notes/story-design-note.page-type.ts
+@@ -22,10 +22,10 @@ export const storyDesignNote = {
+   runsTabooCheck: false,
+   partSlugs: ["text-property/note-subject"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "world-slug", required: false, many: false },
+-    { pagePropertySlug: "note-subject", required: false, many: false },
+-    { pagePropertySlug: "prose", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/world-slug", required: false, many: false },
++    { pagePropertySlug: "text-property/note-subject", required: false, many: false },
++    { pagePropertySlug: "file-property/prose", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/designs/story-design.page-type.ts b/story/designs/story-design.page-type.ts
+index b8555241475f385a2c1055667f5915fe5d7d1b2e..33deb75331c8df1cbcb2f5b1fdfd06fd1c09967c 100644
+--- a/story/designs/story-design.page-type.ts
++++ b/story/designs/story-design.page-type.ts
+@@ -90,32 +90,32 @@ export const storyDesign = {
+     "text-property/gbww-readings",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "world-slug", required: false, many: false },
+-    { pagePropertySlug: "story-premise", required: false, many: false },
+-    { pagePropertySlug: "story-genre", required: false, many: false },
+-    { pagePropertySlug: "story-tone", required: false, many: false },
+-    { pagePropertySlug: "story-themes", required: false, many: false },
+-    { pagePropertySlug: "visual-style", required: false, many: false },
+-    { pagePropertySlug: "story-reader-framing", required: false, many: false },
+-    { pagePropertySlug: "narrator", required: false, many: false },
+-    { pagePropertySlug: "design-system", required: false, many: false },
+-    { pagePropertySlug: "arc-structure", required: false, many: false },
+-    { pagePropertySlug: "writing-philosophy", required: false, many: false },
+-    { pagePropertySlug: "structure", required: false, many: false },
+-    { pagePropertySlug: "series-name", required: false, many: false },
+-    { pagePropertySlug: "series-status", required: false, many: false },
+-    { pagePropertySlug: "book-title", required: false, many: false },
+-    { pagePropertySlug: "design-author", required: false, many: false },
+-    { pagePropertySlug: "design-source", required: false, many: false },
+-    { pagePropertySlug: "design-version", required: false, many: false },
+-    { pagePropertySlug: "chapter-numbering", required: false, many: false },
+-    { pagePropertySlug: "continuity", required: false, many: false },
+-    { pagePropertySlug: "memory-distribution", required: false, many: false },
+-    { pagePropertySlug: "timeline-distribution", required: false, many: false },
+-    { pagePropertySlug: "dungeon-nature", required: false, many: false },
+-    { pagePropertySlug: "gbww-readings", required: false, many: false },
+-    { pagePropertySlug: "prose", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/world-slug", required: false, many: false },
++    { pagePropertySlug: "text-property/story-premise", required: false, many: false },
++    { pagePropertySlug: "text-property/story-genre", required: false, many: false },
++    { pagePropertySlug: "text-property/story-tone", required: false, many: false },
++    { pagePropertySlug: "text-property/story-themes", required: false, many: false },
++    { pagePropertySlug: "text-property/visual-style", required: false, many: false },
++    { pagePropertySlug: "text-property/story-reader-framing", required: false, many: false },
++    { pagePropertySlug: "text-property/narrator", required: false, many: false },
++    { pagePropertySlug: "text-property/design-system", required: false, many: false },
++    { pagePropertySlug: "text-property/arc-structure", required: false, many: false },
++    { pagePropertySlug: "text-property/writing-philosophy", required: false, many: false },
++    { pagePropertySlug: "text-property/structure", required: false, many: false },
++    { pagePropertySlug: "text-property/series-name", required: false, many: false },
++    { pagePropertySlug: "text-property/series-status", required: false, many: false },
++    { pagePropertySlug: "text-property/book-title", required: false, many: false },
++    { pagePropertySlug: "text-property/design-author", required: false, many: false },
++    { pagePropertySlug: "text-property/design-source", required: false, many: false },
++    { pagePropertySlug: "text-property/design-version", required: false, many: false },
++    { pagePropertySlug: "text-property/chapter-numbering", required: false, many: false },
++    { pagePropertySlug: "text-property/continuity", required: false, many: false },
++    { pagePropertySlug: "text-property/memory-distribution", required: false, many: false },
++    { pagePropertySlug: "text-property/timeline-distribution", required: false, many: false },
++    { pagePropertySlug: "text-property/dungeon-nature", required: false, many: false },
++    { pagePropertySlug: "text-property/gbww-readings", required: false, many: false },
++    { pagePropertySlug: "file-property/prose", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/elements-played/story-element-played.page-type.ts b/story/elements-played/story-element-played.page-type.ts
+index 50c0bd543de605096f8f065f12e23cdfa5a982db..353e24669d95900f6b282e89a70e6b405ecd9b5e 100644
+--- a/story/elements-played/story-element-played.page-type.ts
++++ b/story/elements-played/story-element-played.page-type.ts
+@@ -39,14 +39,14 @@ export const storyElementPlayed = {
+     "text-property/wanting",
+   ],
+   properties: [
+-    { pagePropertySlug: "played-story-slug", required: true, many: false },
+-    { pagePropertySlug: "element-kind", required: true, many: false },
+-    { pagePropertySlug: "perceiving", required: true, many: false },
+-    { pagePropertySlug: "knowing", required: true, many: false },
+-    { pagePropertySlug: "feeling", required: true, many: false },
+-    { pagePropertySlug: "wanting", required: true, many: false },
+-    { pagePropertySlug: "doing", required: true, many: false },
+-    { pagePropertySlug: "turn-states", required: false, many: false },
++    { pagePropertySlug: "relation-property/played-story-slug", required: true, many: false },
++    { pagePropertySlug: "select-property/element-kind", required: true, many: false },
++    { pagePropertySlug: "text-property/perceiving", required: true, many: false },
++    { pagePropertySlug: "text-property/knowing", required: true, many: false },
++    { pagePropertySlug: "text-property/feeling", required: true, many: false },
++    { pagePropertySlug: "text-property/wanting", required: true, many: false },
++    { pagePropertySlug: "text-property/doing", required: true, many: false },
++    { pagePropertySlug: "file-property/turn-states", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/games/game.page-type.ts b/story/games/game.page-type.ts
+index e178b40df9a5a12bb95971692dc71cfa43e922a5..113e1d01a228e959f35fd3fec105b36efd5ba44f 100644
+--- a/story/games/game.page-type.ts
++++ b/story/games/game.page-type.ts
+@@ -108,37 +108,37 @@ export const game = {
+     "text-property/tone",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "external-id", required: true, many: false },
+-    { pagePropertySlug: "game-engine", required: true, many: false },
+-    { pagePropertySlug: "coordinator-agent", required: false, many: false },
+-    { pagePropertySlug: "controlled-entity-kind", required: false, many: false },
+-    { pagePropertySlug: "mechanics-weight", required: false, many: false },
+-    { pagePropertySlug: "resolution", required: false, many: false },
+-    { pagePropertySlug: "current-session", required: false, many: false },
+-    { pagePropertySlug: "premise", required: false, many: false },
+-    { pagePropertySlug: "tone", required: false, many: false },
+-    { pagePropertySlug: "reader-framing", required: false, many: false },
+-    { pagePropertySlug: "genre", required: false, many: true, max: null },
+-    { pagePropertySlug: "themes", required: false, many: false },
+-    { pagePropertySlug: "maintains-lore", required: false, many: false },
+-    { pagePropertySlug: "maintains-design", required: false, many: false },
+-    { pagePropertySlug: "requires-per-turn-gate", required: false, many: false },
+-    { pagePropertySlug: "config", required: false, many: false },
+-    { pagePropertySlug: "display-config", required: false, many: false },
+-    { pagePropertySlug: "gm-context", required: false, many: false },
+-    { pagePropertySlug: "narrative-continuity", required: false, many: false },
+-    { pagePropertySlug: "rulebook", required: false, many: false },
+-    { pagePropertySlug: "resolution-mechanism", required: false, many: false },
+-    { pagePropertySlug: "turns", required: false, many: false },
+-    { pagePropertySlug: "entities", required: false, many: false },
+-    { pagePropertySlug: "states", required: false, many: false },
+-    { pagePropertySlug: "rolls", required: false, many: false },
+-    { pagePropertySlug: "game-characters", required: false, many: false },
+-    { pagePropertySlug: "lore-entries", required: false, many: false },
+-    { pagePropertySlug: "design-entries", required: false, many: false },
+-    { pagePropertySlug: "tower-floors", required: false, many: false },
+-    { pagePropertySlug: "tower-sessions", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/external-id", required: true, many: false },
++    { pagePropertySlug: "text-property/game-engine", required: true, many: false },
++    { pagePropertySlug: "text-property/coordinator-agent", required: false, many: false },
++    { pagePropertySlug: "select-property/controlled-entity-kind", required: false, many: false },
++    { pagePropertySlug: "select-property/mechanics-weight", required: false, many: false },
++    { pagePropertySlug: "select-property/resolution", required: false, many: false },
++    { pagePropertySlug: "number-property/current-session", required: false, many: false },
++    { pagePropertySlug: "text-property/premise", required: false, many: false },
++    { pagePropertySlug: "text-property/tone", required: false, many: false },
++    { pagePropertySlug: "text-property/reader-framing", required: false, many: false },
++    { pagePropertySlug: "text-property/genre", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/themes", required: false, many: false },
++    { pagePropertySlug: "boolean-property/maintains-lore", required: false, many: false },
++    { pagePropertySlug: "boolean-property/maintains-design", required: false, many: false },
++    { pagePropertySlug: "boolean-property/requires-per-turn-gate", required: false, many: false },
++    { pagePropertySlug: "file-property/config", required: false, many: false },
++    { pagePropertySlug: "file-property/display-config", required: false, many: false },
++    { pagePropertySlug: "file-property/gm-context", required: false, many: false },
++    { pagePropertySlug: "file-property/narrative-continuity", required: false, many: false },
++    { pagePropertySlug: "file-property/rulebook", required: false, many: false },
++    { pagePropertySlug: "file-property/resolution-mechanism", required: false, many: false },
++    { pagePropertySlug: "file-property/turns", required: false, many: false },
++    { pagePropertySlug: "file-property/entities", required: false, many: false },
++    { pagePropertySlug: "file-property/states", required: false, many: false },
++    { pagePropertySlug: "file-property/rolls", required: false, many: false },
++    { pagePropertySlug: "file-property/game-characters", required: false, many: false },
++    { pagePropertySlug: "file-property/lore-entries", required: false, many: false },
++    { pagePropertySlug: "file-property/design-entries", required: false, many: false },
++    { pagePropertySlug: "file-property/tower-floors", required: false, many: false },
++    { pagePropertySlug: "file-property/tower-sessions", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/gm-doctrine-packs/gm-doctrine-pack.page-type.ts b/story/gm-doctrine-packs/gm-doctrine-pack.page-type.ts
+index 9fad75066fdc945ca11f73f579f0a86d4f756981..fdff5b393859214ad5f724d59f6661f2b81ca8c2 100644
+--- a/story/gm-doctrine-packs/gm-doctrine-pack.page-type.ts
++++ b/story/gm-doctrine-packs/gm-doctrine-pack.page-type.ts
+@@ -30,11 +30,11 @@ export const gmDoctrinePack = {
+     "number-property/doctrine-version",
+   ],
+   properties: [
+-    { pagePropertySlug: "doctrine-version", required: true, many: false },
+-    { pagePropertySlug: "policies", required: false, many: false },
+-    { pagePropertySlug: "gate-dimensions", required: false, many: false },
+-    { pagePropertySlug: "sheet-template", required: false, many: false },
+-    { pagePropertySlug: "tally-catalog", required: false, many: false },
++    { pagePropertySlug: "number-property/doctrine-version", required: true, many: false },
++    { pagePropertySlug: "file-property/policies", required: false, many: false },
++    { pagePropertySlug: "file-property/gate-dimensions", required: false, many: false },
++    { pagePropertySlug: "file-property/sheet-template", required: false, many: false },
++    { pagePropertySlug: "file-property/tally-catalog", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/named-events/named-event.page-type.ts b/story/named-events/named-event.page-type.ts
+index 68c074a602b10012ce6d7de926ad606642276db6..294263181ffc8e9ca5adcf0fae192cb2fb462ac9 100644
+--- a/story/named-events/named-event.page-type.ts
++++ b/story/named-events/named-event.page-type.ts
+@@ -41,16 +41,16 @@ export const namedEvent = {
+     "text-property/evidence-note",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "event-aliases", required: false, many: true, max: null },
+-    { pagePropertySlug: "evidence-beat", required: true, many: false },
+-    { pagePropertySlug: "evidence-chapter", required: true, many: false },
+-    { pagePropertySlug: "evidence-note", required: true, many: false },
+-    { pagePropertySlug: "event-first-chapter", required: false, many: false },
+-    { pagePropertySlug: "named-event-kind", required: true, many: false },
+-    { pagePropertySlug: "event-last-chapter", required: false, many: false },
+-    { pagePropertySlug: "seq", required: true, many: false },
+-    { pagePropertySlug: "world-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/event-aliases", required: false, many: true, max: null },
++    { pagePropertySlug: "number-property/evidence-beat", required: true, many: false },
++    { pagePropertySlug: "text-property/evidence-chapter", required: true, many: false },
++    { pagePropertySlug: "text-property/evidence-note", required: true, many: false },
++    { pagePropertySlug: "number-property/event-first-chapter", required: false, many: false },
++    { pagePropertySlug: "select-property/named-event-kind", required: true, many: false },
++    { pagePropertySlug: "number-property/event-last-chapter", required: false, many: false },
++    { pagePropertySlug: "number-property/seq", required: true, many: false },
++    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/stories-played/story-played.page-type.ts b/story/stories-played/story-played.page-type.ts
+index fbbab1fb2a708af0b3be68b5d3b1f69376822e8f..c328cf293656f34d437c5bd379de9c41dd8402ed 100644
+--- a/story/stories-played/story-played.page-type.ts
++++ b/story/stories-played/story-played.page-type.ts
+@@ -20,9 +20,9 @@ export const storyPlayed = {
+   runsTabooCheck: false,
+   partSlugs: ["file-property/prose", "relation-property/world-slug"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "world-slug", required: true, many: false },
+-    { pagePropertySlug: "prose", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
++    { pagePropertySlug: "file-property/prose", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/stories-read/story-read.page-type.ts b/story/stories-read/story-read.page-type.ts
+index d9ba2ddc7c11e1cf4610ab34d0d07d820ba986a5..17a382d3bb9e755973acbb37841e777e67c0234f 100644
+--- a/story/stories-read/story-read.page-type.ts
++++ b/story/stories-read/story-read.page-type.ts
+@@ -37,12 +37,12 @@ export const storyRead = {
+   },
+   partSlugs: ["select-property/publication-status", "text-property/external-tags"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "world-slug", required: true, many: false },
+-    { pagePropertySlug: "source", required: true, many: false },
+-    { pagePropertySlug: "external-tags", required: false, many: true, max: null },
+-    { pagePropertySlug: "publication-status", required: false, many: false },
+-    { pagePropertySlug: "prose", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/source", required: true, many: false },
++    { pagePropertySlug: "text-property/external-tags", required: false, many: true, max: null },
++    { pagePropertySlug: "select-property/publication-status", required: false, many: false },
++    { pagePropertySlug: "file-property/prose", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/stories-written/story-written.page-type.ts b/story/stories-written/story-written.page-type.ts
+index 6f51f6a09c7a546eee3db5bf1d41afe0812413d6..4009a008214e4ab404a216d37fba3afc33b03a7a 100644
+--- a/story/stories-written/story-written.page-type.ts
++++ b/story/stories-written/story-written.page-type.ts
+@@ -19,9 +19,9 @@ export const storyWritten = {
+   extendsSlug: ["page-type/collection"],
+   runsTabooCheck: false,
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "world-slug", required: true, many: false },
+-    { pagePropertySlug: "prose", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
++    { pagePropertySlug: "file-property/prose", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/story-chapters-read/properties/chronology-anchors.page-property-entry.ts b/story/story-chapters-read/properties/chronology-anchors.page-property-entry.ts
+index 9311a786bcef392ecf41a137ed21ff7c33b66ac6..5191b8b52947f980b702501645e07eb1063d7fc2 100644
+--- a/story/story-chapters-read/properties/chronology-anchors.page-property-entry.ts
++++ b/story/story-chapters-read/properties/chronology-anchors.page-property-entry.ts
+@@ -9,16 +9,16 @@ export const chronologyAnchors = {
+   propertySlug: "chronology-anchors",
+   definition: "every place a chapter dates something, one place to a line",
+   properties: [
+-    { pagePropertySlug: "anchor-kind", required: true, many: false },
+-    { pagePropertySlug: "anchor-tier", required: true, many: false },
+-    { pagePropertySlug: "anchor-lexeme", required: true, many: false },
+-    { pagePropertySlug: "anchor-reference", required: true, many: false },
+-    { pagePropertySlug: "anchor-standing", required: true, many: false },
+-    { pagePropertySlug: "anchor-chapter", required: true, many: false },
+-    { pagePropertySlug: "anchor-direction", required: false, many: false },
+-    { pagePropertySlug: "anchor-claimed-by", required: false, many: false },
+-    { pagePropertySlug: "anchor-volume", required: false, many: false },
+-    { pagePropertySlug: "anchor-beat", required: false, many: false },
++    { pagePropertySlug: "select-property/anchor-kind", required: true, many: false },
++    { pagePropertySlug: "select-property/anchor-tier", required: true, many: false },
++    { pagePropertySlug: "text-property/anchor-lexeme", required: true, many: false },
++    { pagePropertySlug: "text-property/anchor-reference", required: true, many: false },
++    { pagePropertySlug: "select-property/anchor-standing", required: true, many: false },
++    { pagePropertySlug: "text-property/anchor-chapter", required: true, many: false },
++    { pagePropertySlug: "select-property/anchor-direction", required: false, many: false },
++    { pagePropertySlug: "text-property/anchor-claimed-by", required: false, many: false },
++    { pagePropertySlug: "number-property/anchor-volume", required: false, many: false },
++    { pagePropertySlug: "number-property/anchor-beat", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/story-chapters-read/story-chapter-read.page-type.ts b/story/story-chapters-read/story-chapter-read.page-type.ts
+index 85f04e5b6a26fd5875c7eca65562f28b47c0caf4..789f9b1e1c1df0a2ef1a9c2762e78b0f64179571 100644
+--- a/story/story-chapters-read/story-chapter-read.page-type.ts
++++ b/story/story-chapters-read/story-chapter-read.page-type.ts
+@@ -73,13 +73,13 @@ export const storyChapterRead = {
+     "text-property/anchor-reference",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "own-length", required: true, many: false },
+-    { pagePropertySlug: "external-link", required: true, many: false },
+-    { pagePropertySlug: "prose", required: true, many: false },
+-    { pagePropertySlug: "removed-at", required: false, many: false },
+-    { pagePropertySlug: "marked-read-at", required: false, many: false },
+-    { pagePropertySlug: "chronology-anchors", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "number-property/own-length", required: true, many: false },
++    { pagePropertySlug: "url-property/external-link", required: true, many: false },
++    { pagePropertySlug: "file-property/prose", required: true, many: false },
++    { pagePropertySlug: "instant-property/removed-at", required: false, many: false },
++    { pagePropertySlug: "instant-property/marked-read-at", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/chronology-anchors", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/turns-played/story-turn-played.page-type.ts b/story/turns-played/story-turn-played.page-type.ts
+index b4c1ede4cd3a599d1d0da1289af84811572e45e0..a99249f65fe12a998ea356ecc826b97d2c53bf18 100644
+--- a/story/turns-played/story-turn-played.page-type.ts
++++ b/story/turns-played/story-turn-played.page-type.ts
+@@ -17,8 +17,8 @@ export const storyTurnPlayed = {
+   extendsSlug: ["page-type/collection"],
+   runsTabooCheck: false,
+   properties: [
+-    { pagePropertySlug: "own-length", required: false, many: false },
+-    { pagePropertySlug: "prose", required: true, many: false },
++    { pagePropertySlug: "number-property/own-length", required: false, many: false },
++    { pagePropertySlug: "file-property/prose", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/wiki-entries/story-wiki-entry.page-type.ts b/story/wiki-entries/story-wiki-entry.page-type.ts
+index 301bb67d57e0cc4da0411b95d8158ee82e2852d9..00f14849785659c4d8ec6186360dbc77ce7000ac 100644
+--- a/story/wiki-entries/story-wiki-entry.page-type.ts
++++ b/story/wiki-entries/story-wiki-entry.page-type.ts
+@@ -24,11 +24,11 @@ export const storyWikiEntry = {
+   runsTabooCheck: false,
+   partSlugs: ["number-property/chapter-number", "select-property/wiki-kind"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "world-slug", required: false, many: false },
+-    { pagePropertySlug: "wiki-kind", required: false, many: false },
+-    { pagePropertySlug: "chapter-number", required: false, many: false },
+-    { pagePropertySlug: "prose", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/world-slug", required: false, many: false },
++    { pagePropertySlug: "select-property/wiki-kind", required: false, many: false },
++    { pagePropertySlug: "number-property/chapter-number", required: false, many: false },
++    { pagePropertySlug: "file-property/prose", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/world-characters/world-character.page-type.ts b/story/world-characters/world-character.page-type.ts
+index 978d5eebe7d312f3a7914b41f695bfcd0c689f06..1b165294140ac57f235a60e44453942dc2434cc3 100644
+--- a/story/world-characters/world-character.page-type.ts
++++ b/story/world-characters/world-character.page-type.ts
+@@ -31,12 +31,12 @@ export const worldCharacter = {
+     "number-property/max-level",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "world-slug", required: true, many: false },
+-    { pagePropertySlug: "max-level", required: false, many: false },
+-    { pagePropertySlug: "event-count", required: false, many: false },
+-    { pagePropertySlug: "first-chapter", required: false, many: false },
+-    { pagePropertySlug: "last-chapter", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
++    { pagePropertySlug: "number-property/max-level", required: false, many: false },
++    { pagePropertySlug: "number-property/event-count", required: false, many: false },
++    { pagePropertySlug: "number-property/first-chapter", required: false, many: false },
++    { pagePropertySlug: "number-property/last-chapter", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/world-mechanics/properties/references.page-property-entry.ts b/story/world-mechanics/properties/references.page-property-entry.ts
+index 4cb7a18db809743701c39f739d31cff65cfed326..a7d09b445e262a6c7da9121739fde849e31fd729 100644
+--- a/story/world-mechanics/properties/references.page-property-entry.ts
++++ b/story/world-mechanics/properties/references.page-property-entry.ts
+@@ -9,20 +9,20 @@ export const references = {
+   propertySlug: "references",
+   definition: "every place a story names a mechanic, one place to a line",
+   properties: [
+-    { pagePropertySlug: "chapter-slug", required: true, many: false },
+-    { pagePropertySlug: "paragraph", required: true, many: false },
+-    { pagePropertySlug: "wording", required: true, many: false },
+-    { pagePropertySlug: "reference-event", required: true, many: false },
+-    { pagePropertySlug: "holder-slug", required: false, many: false },
+-    { pagePropertySlug: "holder-quote", required: false, many: false },
+-    { pagePropertySlug: "effect-quote", required: false, many: false },
+-    { pagePropertySlug: "claimed", required: false, many: false },
+-    { pagePropertySlug: "claimed-by-slug", required: false, many: false },
+-    { pagePropertySlug: "effect-claimed", required: false, many: false },
+-    { pagePropertySlug: "reference-kind", required: false, many: false },
+-    { pagePropertySlug: "reference-level", required: false, many: false },
+-    { pagePropertySlug: "from-slug", required: false, many: false },
+-    { pagePropertySlug: "to-slug", required: false, many: false },
++    { pagePropertySlug: "text-property/chapter-slug", required: true, many: false },
++    { pagePropertySlug: "number-property/paragraph", required: true, many: false },
++    { pagePropertySlug: "text-property/wording", required: true, many: false },
++    { pagePropertySlug: "text-property/reference-event", required: true, many: false },
++    { pagePropertySlug: "text-property/holder-slug", required: false, many: false },
++    { pagePropertySlug: "text-property/holder-quote", required: false, many: false },
++    { pagePropertySlug: "text-property/effect-quote", required: false, many: false },
++    { pagePropertySlug: "boolean-property/claimed", required: false, many: false },
++    { pagePropertySlug: "text-property/claimed-by-slug", required: false, many: false },
++    { pagePropertySlug: "boolean-property/effect-claimed", required: false, many: false },
++    { pagePropertySlug: "text-property/reference-kind", required: false, many: false },
++    { pagePropertySlug: "number-property/reference-level", required: false, many: false },
++    { pagePropertySlug: "text-property/from-slug", required: false, many: false },
++    { pagePropertySlug: "text-property/to-slug", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/world-mechanics/world-mechanic.page-type.ts b/story/world-mechanics/world-mechanic.page-type.ts
+index 197bdf1a8b1c3e9bb68165cb9d1800ab4b0ba01d..b28ee55a05f4a9f8fd94fa7bb0b364ea1dba08da 100644
+--- a/story/world-mechanics/world-mechanic.page-type.ts
++++ b/story/world-mechanics/world-mechanic.page-type.ts
+@@ -65,12 +65,17 @@ export const worldMechanic = {
+     "text-property/wording",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "world-slug", required: true, many: false },
+-    { pagePropertySlug: "aliases", required: false, many: true, max: null },
+-    { pagePropertySlug: "evolves-from-slugs", required: false, many: true, max: null },
+-    { pagePropertySlug: "evolves-to-slugs", required: false, many: true, max: null },
+-    { pagePropertySlug: "references", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/aliases", required: false, many: true, max: null },
++    {
++      pagePropertySlug: "text-property/evolves-from-slugs",
++      required: false,
++      many: true,
++      max: null,
++    },
++    { pagePropertySlug: "text-property/evolves-to-slugs", required: false, many: true, max: null },
++    { pagePropertySlug: "page-property-entry/references", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/story/worlds/properties/character-readings.page-property-entry.ts b/story/worlds/properties/character-readings.page-property-entry.ts
+index ead8b5037f9c7afc7557b574b9817b7e74ee055a..3c8827be8ccdfc672931066617405a0fa6aab4a8 100644
+--- a/story/worlds/properties/character-readings.page-property-entry.ts
++++ b/story/worlds/properties/character-readings.page-property-entry.ts
+@@ -9,10 +9,10 @@ export const characterReadings = {
+   propertySlug: "character-readings",
+   definition: "how each name a world's text uses is read as a character, one name to a line",
+   properties: [
+-    { pagePropertySlug: "reading-slug", required: true, many: false },
+-    { pagePropertySlug: "reading-name", required: true, many: false },
+-    { pagePropertySlug: "reading-kind", required: true, many: false },
+-    { pagePropertySlug: "character-slug", required: false, many: false },
++    { pagePropertySlug: "text-property/reading-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/reading-name", required: true, many: false },
++    { pagePropertySlug: "text-property/reading-kind", required: true, many: false },
++    { pagePropertySlug: "text-property/character-slug", required: false, many: false },
+   ],
+   invariants: [
+     {
