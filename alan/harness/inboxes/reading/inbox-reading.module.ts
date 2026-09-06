@@ -75,7 +75,8 @@ export const inboxReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A source that cannot be read stops that source's readings and no others.",
+      statement:
+        "A source that cannot be read stops that source's readings and no other source's readings.",
     },
     {
       invariantKind: "departure",
@@ -103,7 +104,8 @@ export const inboxReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The root read is the one the environment states or the one the call was made in.",
+      statement:
+        "The root read is the root the environment states or the root the call was made in.",
     },
     {
       invariantKind: "stopgap",
@@ -115,7 +117,7 @@ export const inboxReading = {
     },
     {
       invariantKind: "absence",
-      statement: "Importing this file takes none.",
+      statement: "Importing this file takes no reading.",
     },
     {
       invariantKind: "absence",
