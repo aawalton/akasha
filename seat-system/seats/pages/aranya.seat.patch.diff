@@ -56,6 +56,29 @@ index 72c2f8dc7ed85e7c912a5651b9e781a607b199d8..dd45d669293484a93da133bd259f809e
    return saying(`\`${act}\` is no act this takes`)
  }
  
+diff --git a/seat-system/subagents/presence/subagent-presence.module.test.ts b/seat-system/subagents/presence/subagent-presence.module.test.ts
+index e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac..06a48a52716c8c933942de0619c066dc8fa8a89c 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.test.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.test.ts
+@@ -12,13 +12,18 @@ import {
+   assignedTo,
+   bodyOf,
+   LOG_AT,
++  landingAgain,
+   logPathOf,
+   pathOf,
+   seatNamedIn,
+   slugOf,
+   stampedAt,
++  TRIES,
+   took,
++  WAIT_MS,
++  type Went,
+   WRITING,
++  worthAnotherTry,
+   wrote,
+ } from "./subagent-presence.module.code.ts"
+ import {
 diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
 index 71b1c9cff57cffa813d5b45643073156c9a76e96..15d8960e564e93509f0026bcf075190045950118 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.ts
