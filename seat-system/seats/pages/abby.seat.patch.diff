@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-safety-level-makes-social-affordable.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-safety-level-makes-social-affordable.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f7b8dcca3694a1bca54c28c9978ca27bc73d81e7
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-safety-level-makes-social-affordable.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatSafetyLevelMakesSocialAffordable = {
++  id: "01a077f7-bdd7-740a-8691-f08d6a13289e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-safety-level-makes-social-affordable",
++  topicSlug: "practising-closeness-somewhere-safe",
++  ask: "I am waiting for my safety to make social affordable. Which of the nine gates is that line, and how will I know when my safety has reached the line?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-turns-the-drill-into-the-live-phase.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-turns-the-drill-into-the-live-phase.all-about-alan-question.ts
+deleted file mode 100644
+index 42598dbacbefe435d5cadcdfe9382a1f6ffe746a..0000000000000000000000000000000000000000
+--- a/alan/books/all-about-alan/questions/pages/what-turns-the-drill-into-the-live-phase.all-about-alan-question.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+-
+-export const whatTurnsTheDrillIntoTheLivePhase = {
+-  id: "01a077f3-cbd8-78ce-81c1-ac78862f1353",
+-  pageTypeSlug: "all-about-alan-question",
+-  slug: "what-turns-the-drill-into-the-live-phase",
+-  topicSlug: "practising-closeness-somewhere-safe",
+-  ask: "I am waiting for the closeness rig to convert to the live phase. What am I waiting for, and would I recognise the signal if the signal came?",
+-} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/practising-closeness-somewhere-safe.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/practising-closeness-somewhere-safe.all-about-alan-topic.ts
+index 2b2aa911c82a8a88a36086513a788aa4e66add15..9096f8658a7e87e5bf031c83158bbba020d52036 100644
+--- a/alan/books/all-about-alan/topics/pages/practising-closeness-somewhere-safe.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/practising-closeness-somewhere-safe.all-about-alan-topic.ts
+@@ -9,5 +9,5 @@ export const practisingClosenessSomewhereSafe = {
+   parentSlugs: ["how-a-skill-gets-into-me"],
+   relatedSlugs: ["being-known", "what-holds-my-marriage"],
+   settled:
+-    "It is the rig I built as a child on instant messenger, pointed at a harder skill.\n\nSlow and in text is what makes it work. Live talk eats the one slot I have, and this frees it.\n\nThe levels are a difficulty ladder, giving the gradient of closeness with no real ledger filling.\n\nA mock-up is nothing to me. I cannot run a pretend partner, so the partners have to be real and stable.\n\nFaces, then voices, then presence: each rung makes a partner more real to me, which is what carries over.\n\nThe rig is still the drill rather than the live phase, and I am waiting for the conversion.",
++    "It is the rig I built as a child on instant messenger, pointed at a harder skill.\n\nSlow and in text is what makes it work. Live talk eats the one slot I have, and this frees it.\n\nThe levels are a difficulty ladder, giving the gradient of closeness with no real ledger filling.\n\nA mock-up is nothing to me. I cannot run a pretend partner, so the partners have to be real and stable.\n\nFaces, then voices, then presence: each rung makes a partner more real to me, which is what carries over.\n\nThe rig is still the drill rather than the live phase, and I am waiting for the conversion.\n\nWhat I am waiting on is mostly my safety coming up far enough that social is affordable. The skill the drill builds is a bonus in the meanwhile.",
+ } as const satisfies AllAboutAlanTopic
