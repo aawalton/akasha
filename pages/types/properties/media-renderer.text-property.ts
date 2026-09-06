@@ -8,7 +8,7 @@ export const mediaRenderer = {
   slug: "media-renderer",
   propertySlug: "renderer",
   definition: "the model that makes a page type's audio or image",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: null,
   invariants: [
     {

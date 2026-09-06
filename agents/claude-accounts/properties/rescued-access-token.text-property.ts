@@ -8,7 +8,7 @@ export const rescuedAccessToken = {
   slug: "rescued-access-token",
   propertySlug: "access-token",
   definition: "the access token a rescued credential carries",
-  max: 4000,
+  maxLength: 4000,
   nameFormatSlug: null,
   invariants: [
     {

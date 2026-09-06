@@ -8,7 +8,7 @@ export const dailyTracking = {
   slug: "daily-tracking",
   propertySlug: "daily-tracking",
   definition: "the day a stretch of time was part of",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/lower-uuid",
   invariants: [
     {

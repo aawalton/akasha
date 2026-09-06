@@ -8,6 +8,6 @@ export const playerHandle = {
   slug: "player-handle",
   propertySlug: "handle",
   definition: "the name a player is shown under to other players",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

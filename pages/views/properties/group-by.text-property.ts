@@ -8,6 +8,6 @@ export const groupBy = {
   slug: "group-by",
   propertySlug: "group-by",
   definition: "the property a view gathers its pages under",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

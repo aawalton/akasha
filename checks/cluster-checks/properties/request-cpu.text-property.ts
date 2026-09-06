@@ -8,6 +8,6 @@ export const requestCpu = {
   slug: "request-cpu",
   propertySlug: "request-cpu",
   definition: "the processor time a pod asks for",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

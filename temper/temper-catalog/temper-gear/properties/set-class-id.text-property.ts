@@ -8,7 +8,7 @@ export const setClassId = {
   slug: "set-class-id",
   propertySlug: "class-id",
   definition: "the class a set is only offered to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a class." }],
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const helpArgLabel = {
   slug: "help-arg-label",
   propertySlug: "arg-label",
   definition: "the name a flag's value is printed under",
-  max: 40,
+  maxLength: 40,
   nameFormatSlug: null,
 } as const satisfies TextProperty

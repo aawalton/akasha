@@ -8,6 +8,6 @@ export const storyGenre = {
   slug: "story-genre",
   propertySlug: "genre",
   definition: "a kind of story a design is written as",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

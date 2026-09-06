@@ -8,6 +8,6 @@ export const lesson = {
   slug: "lesson",
   propertySlug: "lesson",
   definition: "what one game teaches",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
 } as const satisfies TextProperty

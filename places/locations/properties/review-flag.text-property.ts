@@ -8,6 +8,6 @@ export const reviewFlag = {
   slug: "review-flag",
   propertySlug: "review-flag",
   definition: "what was unclear about tying a review to this place",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

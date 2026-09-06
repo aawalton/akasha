@@ -8,6 +8,6 @@ export const categoryGroup = {
   slug: "category-group",
   propertySlug: "category-group",
   definition: "the heading Monarch files a category under",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

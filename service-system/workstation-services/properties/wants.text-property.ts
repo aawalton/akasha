@@ -8,12 +8,12 @@ export const wants = {
   slug: "wants",
   propertySlug: "wants",
   definition: "a unit this unit asks for without depending on",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The unit named failing to start leaves this one starting all the same.",
+      statement: "The unit named failing to start leaves this service starting all the same.",
     },
   ],
 } as const satisfies TextProperty

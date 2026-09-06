@@ -8,6 +8,6 @@ export const key = {
   slug: "key",
   propertySlug: "key",
   definition: "the string The Elder Scrolls Online names a thing by",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

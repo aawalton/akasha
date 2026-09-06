@@ -8,7 +8,7 @@ export const anchorReference = {
   slug: "anchor-reference",
   propertySlug: "reference",
   definition: "what an anchor is read against",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

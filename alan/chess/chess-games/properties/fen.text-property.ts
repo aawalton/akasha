@@ -8,6 +8,6 @@ export const fen = {
   slug: "fen",
   propertySlug: "fen",
   definition: "a position in Forsyth-Edwards notation",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

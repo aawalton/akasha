@@ -8,7 +8,7 @@ export const errorFingerprint = {
   slug: "error-fingerprint",
   propertySlug: "fingerprint",
   definition: "the hash telling one error apart from another",
-  max: 16,
+  maxLength: 16,
   nameFormatSlug: null,
   invariants: [
     {

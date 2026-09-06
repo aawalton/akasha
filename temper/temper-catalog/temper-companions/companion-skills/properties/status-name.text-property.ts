@@ -8,6 +8,6 @@ export const statusName = {
   slug: "status-name",
   propertySlug: "status",
   definition: "the status an effect applies",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -12,6 +12,11 @@ export const bonuses = {
     { pagePropertySlug: "number-property/bonus-count", required: true, many: false },
     { pagePropertySlug: "text-property/bonus-status", required: true, many: false },
     { pagePropertySlug: "text-property/description", required: true, many: false },
-    { pagePropertySlug: "record-property/bonus-effects", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "record-property/bonus-effects",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
 } as const satisfies PagePropertyEntry

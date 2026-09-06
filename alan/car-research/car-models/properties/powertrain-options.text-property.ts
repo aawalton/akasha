@@ -8,6 +8,6 @@ export const powertrainOptions = {
   slug: "powertrain-options",
   propertySlug: "powertrain-options",
   definition: "the kinds of powertrain the model is sold with",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

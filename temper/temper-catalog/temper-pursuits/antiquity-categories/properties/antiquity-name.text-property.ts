@@ -8,6 +8,6 @@ export const antiquityName = {
   slug: "antiquity-name",
   propertySlug: "antiquity-name",
   definition: "the name an antiquity is shown under",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

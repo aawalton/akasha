@@ -8,6 +8,6 @@ export const unit = {
   slug: "unit",
   propertySlug: "unit",
   definition: "what a reading counts",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

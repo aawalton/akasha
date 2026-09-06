@@ -10,7 +10,7 @@ export const validSlots = {
   slug: "valid-slots",
   propertySlug: "valid-slots",
   definition: "the slots a piece of this kind goes into",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a slot." },

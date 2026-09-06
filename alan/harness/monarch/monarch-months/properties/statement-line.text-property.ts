@@ -8,13 +8,16 @@ export const statementLine = {
   slug: "statement-line",
   propertySlug: "statement-line",
   definition: "the words the bank put on a row",
-  max: 400,
+  maxLength: 400,
   nameFormatSlug: null,
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A statement line never changes, where Monarch's title for the same row changes without warning.",
+      statement: "A statement line never changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Monarch's title for the same row changes without warning.",
     },
     {
       invariantKind: "departure",

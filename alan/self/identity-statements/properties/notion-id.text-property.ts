@@ -8,6 +8,6 @@ export const notionId = {
   slug: "notion-id",
   propertySlug: "notion-id",
   definition: "the Notion page this statement was imported from",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
 } as const satisfies TextProperty

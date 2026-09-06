@@ -8,7 +8,7 @@ export const linkLabel = {
   slug: "link-label",
   propertySlug: "label",
   definition: "what a link is called where it is offered",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

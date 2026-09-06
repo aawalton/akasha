@@ -8,7 +8,7 @@ export const merchantPatterns = {
   slug: "merchant-patterns",
   propertySlug: "merchant-patterns",
   definition: "a run of the bank's own words that names a merchant",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

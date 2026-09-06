@@ -8,7 +8,7 @@ export const visibleProperties = {
   slug: "visible-properties",
   propertySlug: "visible-properties",
   definition: "the properties a view draws",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

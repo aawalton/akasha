@@ -8,7 +8,7 @@ export const gmailMessageId = {
   slug: "gmail-message-id",
   propertySlug: "message-id",
   definition: "the id Gmail gives a message",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

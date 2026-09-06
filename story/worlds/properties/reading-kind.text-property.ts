@@ -30,12 +30,12 @@ export const readingKind = {
   slug: "reading-kind",
   propertySlug: "reading-kind",
   definition: "what sort of thing a name in a world's text names",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading whose kind is `unsure` is one nobody has ruled on yet.",
+      statement: "A reading whose kind is `unsure` is a reading nobody has ruled on yet.",
     },
     {
       invariantKind: "stopgap",

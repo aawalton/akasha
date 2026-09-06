@@ -8,6 +8,6 @@ export const wardrobe = {
   slug: "wardrobe",
   propertySlug: "wardrobe",
   definition: "what a persona wears at a rung",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

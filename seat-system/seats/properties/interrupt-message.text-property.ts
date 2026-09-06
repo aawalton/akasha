@@ -8,6 +8,6 @@ export const interruptMessage = {
   slug: "interrupt-message",
   propertySlug: "message",
   definition: "what a seat is told when a request interrupts it",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

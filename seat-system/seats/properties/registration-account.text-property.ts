@@ -8,7 +8,7 @@ export const registrationAccount = {
   slug: "registration-account",
   propertySlug: "registration-account",
   definition: "the account an agent in a seat signs in as",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

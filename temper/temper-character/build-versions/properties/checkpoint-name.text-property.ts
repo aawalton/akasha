@@ -8,6 +8,6 @@ export const checkpointName = {
   slug: "checkpoint-name",
   propertySlug: "checkpoint-name",
   definition: "what a version kept on purpose is called",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

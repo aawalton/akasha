@@ -8,7 +8,7 @@ export const after = {
   slug: "after",
   propertySlug: "after",
   definition: "a unit this unit starts after",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

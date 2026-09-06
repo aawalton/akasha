@@ -8,5 +8,5 @@ export const computerLink = {
   slug: "computer-link",
   propertySlug: "link",
   definition: "where its specification is",
-  max: 200,
+  maxLength: 200,
 } as const satisfies UrlProperty

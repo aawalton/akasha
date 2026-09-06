@@ -24,7 +24,7 @@ export const temperCompletionOverride = {
       pagePropertySlug: "text-property/completion-item-path",
       required: true,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "number-property/floor", required: true, many: false },
     { pagePropertySlug: "text-property/override-reason", required: true, many: false },

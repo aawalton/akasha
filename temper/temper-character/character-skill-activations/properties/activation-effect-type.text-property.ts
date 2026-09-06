@@ -8,6 +8,6 @@ export const activationEffectType = {
   slug: "activation-effect-type",
   propertySlug: "effect-type",
   definition: "what firing a skill does to whoever it lands on",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

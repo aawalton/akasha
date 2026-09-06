@@ -8,6 +8,6 @@ export const enemyTypes = {
   slug: "enemy-types",
   propertySlug: "enemy-types",
   definition: "the sort of enemy a test holds for",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

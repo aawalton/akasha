@@ -42,7 +42,12 @@ export const carModel = {
     { pagePropertySlug: "text-property/generation", required: true, many: false },
     { pagePropertySlug: "text-property/model-years-available", required: true, many: false },
     { pagePropertySlug: "text-property/overview", required: true, many: false },
-    { pagePropertySlug: "text-property/powertrain-options", required: true, many: true, max: null },
+    {
+      pagePropertySlug: "text-property/powertrain-options",
+      required: true,
+      many: true,
+      maxCount: null,
+    },
     { pagePropertySlug: "text-property/segment", required: true, many: false },
     { pagePropertySlug: "relation-property/car-make-slug", required: true, many: false },
   ],

@@ -8,7 +8,7 @@ export const categoryId = {
   slug: "category-id",
   propertySlug: "category-id",
   definition: "the group a thing is filed under",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to  a category." }],
 } as const satisfies TextProperty

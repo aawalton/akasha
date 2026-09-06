@@ -8,6 +8,6 @@ export const flavorText = {
   slug: "flavor-text",
   propertySlug: "flavor-text",
   definition: "the lore line printed on an item",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

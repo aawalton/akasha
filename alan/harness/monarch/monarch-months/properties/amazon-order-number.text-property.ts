@@ -8,6 +8,6 @@ export const amazonOrderNumber = {
   slug: "amazon-order-number",
   propertySlug: "amazon-order-number",
   definition: "the Amazon order a transaction paid for",
-  max: 40,
+  maxLength: 40,
   nameFormatSlug: null,
 } as const satisfies TextProperty

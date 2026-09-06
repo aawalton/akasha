@@ -8,6 +8,6 @@ export const helpArgAliasOfFlag = {
   slug: "help-arg-alias-of-flag",
   propertySlug: "alias-of-flag",
   definition: "the flag a positional argument fills in for",
-  max: 60,
+  maxLength: 60,
   nameFormatSlug: null,
 } as const satisfies TextProperty

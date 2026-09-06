@@ -8,6 +8,6 @@ export const furnishingKey = {
   slug: "furnishing-key",
   propertySlug: "furnishing-key",
   definition: "the string the game names a placed furnishing by",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

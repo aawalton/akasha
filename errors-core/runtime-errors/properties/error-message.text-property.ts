@@ -8,7 +8,7 @@ export const errorMessage = {
   slug: "error-message",
   propertySlug: "message",
   definition: "what an error said when a client met the error",
-  max: 2048,
+  maxLength: 2048,
   nameFormatSlug: null,
   invariants: [
     {

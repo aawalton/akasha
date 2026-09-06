@@ -9,7 +9,7 @@ export const singability = {
   slug: "singability",
   propertySlug: "singability",
   definition: "Alan's grade for how well a song sits in his own voice",
-  max: 2,
+  maxLength: 2,
   nameFormatSlug: null,
   invariants: [
     {

@@ -8,6 +8,6 @@ export const esoWeaponType = {
   slug: "eso-weapon-type",
   propertySlug: "eso-weapon-type",
   definition: "the constant The Elder Scrolls Online names a weapon kind by in its own code",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: "name-format/upper-snake-case",
 } as const satisfies TextProperty

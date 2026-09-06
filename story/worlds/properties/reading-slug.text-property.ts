@@ -8,7 +8,7 @@ export const readingSlug = {
   slug: "reading-slug",
   propertySlug: "reading-slug",
   definition: "the name a reading is looked up by",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

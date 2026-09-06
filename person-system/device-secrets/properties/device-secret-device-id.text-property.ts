@@ -8,7 +8,7 @@ export const deviceSecretDeviceId = {
   slug: "device-secret-device-id",
   propertySlug: "device-id",
   definition: "the device a secret was minted onto",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/upper-uuid",
   invariants: [
     {

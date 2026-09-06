@@ -8,6 +8,6 @@ export const electrificationStrategy = {
   slug: "electrification-strategy",
   propertySlug: "electrification-strategy",
   definition: "what the make has said it will build and by when",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

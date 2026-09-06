@@ -49,7 +49,7 @@ export const personaPointsSource = {
       pagePropertySlug: "text-property/points-source-readings",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
   ],
   invariants: [

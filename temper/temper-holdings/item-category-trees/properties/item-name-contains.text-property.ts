@@ -8,6 +8,6 @@ export const itemNameContains = {
   slug: "item-name-contains",
   propertySlug: "item-name-contains",
   definition: "the words an item's name carries for the branch to take it",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

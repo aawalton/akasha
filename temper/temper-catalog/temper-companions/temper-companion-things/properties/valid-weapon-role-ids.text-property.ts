@@ -8,6 +8,6 @@ export const validWeaponRoleIds = {
   slug: "valid-weapon-role-ids",
   propertySlug: "valid-weapon-role-ids",
   definition: "a weapon pairing a role is built around",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

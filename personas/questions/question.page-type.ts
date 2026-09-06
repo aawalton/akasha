@@ -53,11 +53,21 @@ export const question = {
       many: false,
       default: "open",
     },
-    { pagePropertySlug: "text-property/question-offered", required: false, many: true, max: 12 },
+    {
+      pagePropertySlug: "text-property/question-offered",
+      required: false,
+      many: true,
+      maxCount: 12,
+    },
     { pagePropertySlug: "text-property/question-answer", required: false, many: false },
     { pagePropertySlug: "instant-property/question-closed-at", required: false, many: false },
     { pagePropertySlug: "file-property/question-context", required: false, many: false },
-    { pagePropertySlug: "record-property/question-links", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "record-property/question-links",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   invariants: [
     {

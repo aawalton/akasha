@@ -8,7 +8,7 @@ export const startTime = {
   slug: "start-time",
   propertySlug: "start-time",
   definition: "when a stretch of time began",
-  max: 24,
+  maxLength: 24,
   nameFormatSlug: null,
   invariants: [
     {

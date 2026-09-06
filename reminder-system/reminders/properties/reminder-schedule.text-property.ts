@@ -8,7 +8,7 @@ export const reminderSchedule = {
   slug: "reminder-schedule",
   propertySlug: "schedule",
   definition: "the times a reminder is sent at, written as systemd states a calendar",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

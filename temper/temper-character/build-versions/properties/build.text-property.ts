@@ -8,7 +8,7 @@ export const build = {
   slug: "build",
   propertySlug: "build",
   definition: "the build a version was taken of",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a build." },

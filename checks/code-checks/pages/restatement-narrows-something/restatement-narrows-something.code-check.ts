@@ -26,11 +26,11 @@ export const restatementNarrowsSomething = {
     },
     {
       invariantKind: "departure",
-      statement: "A max falling narrows.",
+      statement: "A count falling narrows.",
     },
     {
       invariantKind: "departure",
-      statement: "A total falling narrows.",
+      statement: "A length falling narrows.",
     },
     {
       invariantKind: "departure",
@@ -76,7 +76,7 @@ export const restatementNarrowsSomething = {
     {
       invariantKind: "gap",
       statement:
-        "A restatement raising a total while that restatement narrows something else is refused.",
+        "A restatement raising a length while that restatement narrows something else is refused.",
     },
   ],
 } as const satisfies CodeCheck

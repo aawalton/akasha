@@ -8,6 +8,6 @@ export const smsDiscardSender = {
   slug: "sms-discard-sender",
   propertySlug: "sender",
   definition: "the number a thrown-away message came from",
-  max: 40,
+  maxLength: 40,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,7 +8,7 @@ export const date = {
   slug: "date",
   propertySlug: "date",
   definition: "the day a record is of",
-  max: 10,
+  maxLength: 10,
   nameFormatSlug: null,
   invariants: [
     {

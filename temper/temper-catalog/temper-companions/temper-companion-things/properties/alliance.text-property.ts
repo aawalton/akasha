@@ -8,6 +8,6 @@ export const alliance = {
   slug: "alliance",
   propertySlug: "alliance",
   definition: "the alliance a companion belongs to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

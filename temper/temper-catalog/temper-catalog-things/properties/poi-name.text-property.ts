@@ -8,6 +8,6 @@ export const poiName = {
   slug: "poi-name",
   propertySlug: "poi-name",
   definition: "the name a point of interest is shown under",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

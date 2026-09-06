@@ -8,6 +8,6 @@ export const handle = {
   slug: "handle",
   propertySlug: "handle",
   definition: "the account name a game was played under",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

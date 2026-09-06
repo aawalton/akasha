@@ -8,7 +8,7 @@ export const targetKey = {
   slug: "target-key",
   propertySlug: "target-key",
   definition: "the key a query reduces to one number",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

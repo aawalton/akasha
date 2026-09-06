@@ -8,6 +8,6 @@ export const securityName = {
   slug: "security-name",
   propertySlug: "security-name",
   definition: "what the fund or share a holding is of is called",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

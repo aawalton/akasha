@@ -8,7 +8,7 @@ export const lastMessagedAt = {
   slug: "last-messaged-at",
   propertySlug: "last-messaged-at",
   definition: "when Alan last wrote to a persona",
-  max: 24,
+  maxLength: 24,
   nameFormatSlug: null,
   invariants: [
     {

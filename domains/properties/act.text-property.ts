@@ -8,6 +8,6 @@ export const act = {
   slug: "act",
   propertySlug: "act",
   definition: "what a directive tells its reader to do",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

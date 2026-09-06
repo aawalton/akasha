@@ -26,7 +26,7 @@ export const movie = {
   partSlugs: [],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/genres", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/genres", required: false, many: true, maxCount: null },
     { pagePropertySlug: "text-property/imdb-id", required: false, many: false },
     { pagePropertySlug: "text-property/poster-path", required: false, many: false },
     { pagePropertySlug: "select-property/production-status", required: false, many: false },

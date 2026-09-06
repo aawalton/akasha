@@ -8,6 +8,6 @@ export const pointsSourceAggregate = {
   slug: "points-source-aggregate",
   propertySlug: "aggregate",
   definition: "how the things a persona counts are added into one number",
-  max: 8,
+  maxLength: 8,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

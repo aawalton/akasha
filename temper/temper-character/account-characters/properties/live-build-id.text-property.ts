@@ -8,6 +8,6 @@ export const liveBuildId = {
   slug: "live-build-id",
   propertySlug: "live-build-id",
   definition: "the build a character is wearing right now",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/lower-uuid",
 } as const satisfies TextProperty

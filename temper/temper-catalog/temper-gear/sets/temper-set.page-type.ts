@@ -38,7 +38,7 @@ export const temperSet = {
     { pagePropertySlug: "text-property/subcategory-id", required: true, many: false },
     { pagePropertySlug: "page-property-entry/bonuses", required: true, many: false },
     { pagePropertySlug: "page-property-entry/icons", required: true, many: false },
-    { pagePropertySlug: "text-property/valid-pieces", required: true, many: true, max: null },
+    { pagePropertySlug: "text-property/valid-pieces", required: true, many: true, maxCount: null },
     { pagePropertySlug: "text-property/set-class-id", required: false, many: false },
   ],
 } as const satisfies PageType

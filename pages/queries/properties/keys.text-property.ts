@@ -10,7 +10,7 @@ export const keys = {
   slug: "keys",
   propertySlug: "keys",
   definition: "the keys a query answers with, in the order it answers them",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

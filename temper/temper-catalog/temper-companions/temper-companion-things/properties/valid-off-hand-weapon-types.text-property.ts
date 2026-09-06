@@ -8,6 +8,6 @@ export const validOffHandWeaponTypes = {
   slug: "valid-off-hand-weapon-types",
   propertySlug: "valid-off-hand-weapon-types",
   definition: "a weapon a pairing takes in the off hand",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

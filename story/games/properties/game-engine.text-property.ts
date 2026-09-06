@@ -8,7 +8,7 @@ export const gameEngine = {
   slug: "game-engine",
   propertySlug: "game-engine",
   definition: "the engine a game is run on",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

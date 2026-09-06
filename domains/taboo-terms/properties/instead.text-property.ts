@@ -8,6 +8,6 @@ export const instead = {
   slug: "instead",
   propertySlug: "instead",
   definition: "what is written where a taboo sense was meant",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

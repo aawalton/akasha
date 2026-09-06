@@ -8,6 +8,6 @@ export const wantedBy = {
   slug: "wanted-by",
   propertySlug: "wanted-by",
   definition: "the target a unit is pulled in by",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

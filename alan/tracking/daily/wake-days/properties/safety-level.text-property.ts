@@ -8,7 +8,7 @@ export const safetyLevel = {
   slug: "safety-level",
   propertySlug: "safety-level",
   definition: "how safe Alan was over a stretch of time",
-  max: 3,
+  maxLength: 3,
   nameFormatSlug: null,
   invariants: [
     {

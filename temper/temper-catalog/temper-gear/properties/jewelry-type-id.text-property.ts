@@ -8,7 +8,7 @@ export const jewelryTypeId = {
   slug: "jewelry-type-id",
   propertySlug: "type-id",
   definition: "the kind of jewelry a slot takes",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a jewelry type." },

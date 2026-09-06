@@ -8,5 +8,5 @@ export const calendarSourceFeedUrl = {
   slug: "calendar-source-feed-url",
   propertySlug: "feed-url",
   definition: "the address a source publishes its events at",
-  max: 400,
+  maxLength: 400,
 } as const satisfies UrlProperty

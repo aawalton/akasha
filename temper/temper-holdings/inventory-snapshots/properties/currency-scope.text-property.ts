@@ -8,6 +8,6 @@ export const currencyScope = {
   slug: "currency-scope",
   propertySlug: "scope",
   definition: "how widely a purse reaches across an account",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

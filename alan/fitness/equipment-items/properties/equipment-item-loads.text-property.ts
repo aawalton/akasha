@@ -8,6 +8,6 @@ export const equipmentItemLoads = {
   slug: "equipment-item-loads",
   propertySlug: "equipment-item-loads",
   definition: "the weights in pounds the piece can be set to, said in order and parted by commas",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

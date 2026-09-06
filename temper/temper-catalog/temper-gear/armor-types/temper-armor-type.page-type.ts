@@ -20,6 +20,6 @@ export const temperArmorType = {
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/armor-multiplier", required: true, many: false },
     { pagePropertySlug: "boolean-property/is-large-enchant-slot", required: true, many: false },
-    { pagePropertySlug: "text-property/valid-slots", required: true, many: true, max: null },
+    { pagePropertySlug: "text-property/valid-slots", required: true, many: true, maxCount: null },
   ],
 } as const satisfies PageType

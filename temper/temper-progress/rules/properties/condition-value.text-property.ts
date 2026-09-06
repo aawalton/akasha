@@ -8,7 +8,7 @@ export const conditionValue = {
   slug: "condition-value",
   propertySlug: "condition-value",
   definition: "what one condition of a rule tests against",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

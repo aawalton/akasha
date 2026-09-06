@@ -8,7 +8,7 @@ export const artistGenre = {
   slug: "artist-genre",
   propertySlug: "genre",
   definition: "a genre the provider files an artist under",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

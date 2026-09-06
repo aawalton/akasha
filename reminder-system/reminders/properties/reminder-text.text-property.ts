@@ -8,7 +8,7 @@ export const reminderText = {
   slug: "reminder-text",
   propertySlug: "text",
   definition: "the words a reminder sends",
-  max: 6000,
+  maxLength: 6000,
   nameFormatSlug: null,
   invariants: [
     {

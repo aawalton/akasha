@@ -8,6 +8,6 @@ export const notificationBody = {
   slug: "notification-body",
   propertySlug: "body",
   definition: "the words under a notification's title",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

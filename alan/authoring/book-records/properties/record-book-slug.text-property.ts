@@ -8,7 +8,7 @@ export const recordBookSlug = {
   slug: "record-book-slug",
   propertySlug: "book-slug",
   definition: "the book a record is kept about",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

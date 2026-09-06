@@ -34,14 +34,19 @@ export const temperCompanionBaseRole = {
       pagePropertySlug: "text-property/valid-armor-weights",
       required: true,
       many: true,
-      max: null,
+      maxCount: null,
     },
-    { pagePropertySlug: "text-property/valid-trait-ids", required: true, many: true, max: null },
+    {
+      pagePropertySlug: "text-property/valid-trait-ids",
+      required: true,
+      many: true,
+      maxCount: null,
+    },
     {
       pagePropertySlug: "text-property/valid-weapon-role-ids",
       required: true,
       many: true,
-      max: null,
+      maxCount: null,
     },
   ],
 } as const satisfies PageType

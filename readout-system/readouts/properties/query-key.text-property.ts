@@ -8,7 +8,7 @@ export const queryKey = {
   slug: "query-key",
   propertySlug: "query-key",
   definition: "the number a reading takes where its query answers more than one",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

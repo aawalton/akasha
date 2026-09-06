@@ -52,7 +52,7 @@ export const locationDeal = {
     { pagePropertySlug: "relation-property/collection", required: true, many: false },
     { pagePropertySlug: "text-property/deal-key", required: true, many: false },
     { pagePropertySlug: "text-property/fine-print", required: false, many: false },
-    { pagePropertySlug: "relation-property/locations", required: true, many: true, max: null },
+    { pagePropertySlug: "relation-property/locations", required: true, many: true, maxCount: null },
     { pagePropertySlug: "text-property/offer-text", required: true, many: false },
     { pagePropertySlug: "text-property/offer-type", required: true, many: false },
     { pagePropertySlug: "text-property/redemption-code", required: false, many: false },

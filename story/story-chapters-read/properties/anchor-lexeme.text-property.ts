@@ -8,7 +8,7 @@ export const anchorLexeme = {
   slug: "anchor-lexeme",
   propertySlug: "lexeme",
   definition: "the words in the chapter that do the dating",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

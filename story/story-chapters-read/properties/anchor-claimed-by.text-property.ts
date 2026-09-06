@@ -8,7 +8,7 @@ export const anchorClaimedBy = {
   slug: "anchor-claimed-by",
   propertySlug: "claimed-by",
   definition: "who in the story said the anchor",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

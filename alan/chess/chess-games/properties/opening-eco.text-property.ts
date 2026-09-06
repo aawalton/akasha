@@ -8,6 +8,6 @@ export const openingEco = {
   slug: "opening-eco",
   propertySlug: "opening-eco",
   definition: "the ECO code of an opening",
-  max: 3,
+  maxLength: 3,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -38,7 +38,7 @@ export const relationshipTopic = {
       pagePropertySlug: "relation-property/relationship-topic-person-slugs",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     {
       pagePropertySlug: "select-property/relationship-topic-sensitivity",

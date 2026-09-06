@@ -42,7 +42,12 @@ export const namedEvent = {
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/event-aliases", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "text-property/event-aliases",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
     { pagePropertySlug: "number-property/evidence-beat", required: true, many: false },
     { pagePropertySlug: "text-property/evidence-chapter", required: true, many: false },
     { pagePropertySlug: "text-property/evidence-note", required: true, many: false },

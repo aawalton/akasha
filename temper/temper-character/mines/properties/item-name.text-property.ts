@@ -8,7 +8,7 @@ export const itemName = {
   slug: "item-name",
   propertySlug: "name",
   definition: "what a sweep read an item's name as",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

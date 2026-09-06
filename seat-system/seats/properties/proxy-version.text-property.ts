@@ -8,7 +8,7 @@ export const proxyVersion = {
   slug: "proxy-version",
   propertySlug: "version",
   definition: "the build of the proxy serving a seat",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: null,
   invariants: [
     {

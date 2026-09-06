@@ -8,6 +8,6 @@ export const valueText = {
   slug: "value-text",
   propertySlug: "value-text",
   definition: "the text a constant holds",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

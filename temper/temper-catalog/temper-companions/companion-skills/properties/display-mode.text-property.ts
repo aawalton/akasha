@@ -8,6 +8,6 @@ export const displayMode = {
   slug: "display-mode",
   propertySlug: "display-mode",
   definition: "whether a value is said as a whole or as one tick",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

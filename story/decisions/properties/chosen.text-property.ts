@@ -8,6 +8,6 @@ export const chosen = {
   slug: "chosen",
   propertySlug: "chosen",
   definition: "the option a decision settled on",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
 } as const satisfies TextProperty

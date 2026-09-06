@@ -8,7 +8,7 @@ export const questionAnswer = {
   slug: "question-answer",
   propertySlug: "answer",
   definition: "what closed a question: Alan's answer, or the note saying why it was let go",
-  max: 4000,
+  maxLength: 4000,
   nameFormatSlug: null,
   invariants: [
     {

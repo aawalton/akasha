@@ -8,6 +8,6 @@ export const glyphName = {
   slug: "glyph-name",
   propertySlug: "glyph-name",
   definition: "what the game calls the glyph an enchant is carried by",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

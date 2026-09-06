@@ -8,6 +8,6 @@ export const keyText = {
   slug: "key-text",
   propertySlug: "key-text",
   definition: "the name the game spells a constant by",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

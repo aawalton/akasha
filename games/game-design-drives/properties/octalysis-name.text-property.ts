@@ -8,6 +8,6 @@ export const octalysisName = {
   slug: "octalysis-name",
   propertySlug: "name",
   definition: "what Chou calls a drive",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

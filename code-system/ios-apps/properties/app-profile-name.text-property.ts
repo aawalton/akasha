@@ -8,6 +8,6 @@ export const appProfileName = {
   slug: "app-profile-name",
   propertySlug: "app-profile-name",
   definition: "the App Store profile an app is signed with",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

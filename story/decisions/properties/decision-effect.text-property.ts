@@ -8,6 +8,6 @@ export const decisionEffect = {
   slug: "decision-effect",
   propertySlug: "effect",
   definition: "what a decision changed",
-  max: 6000,
+  maxLength: 6000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

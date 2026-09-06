@@ -8,5 +8,5 @@ export const feed = {
   slug: "feed",
   propertySlug: "feed",
   definition: "where a widget fetches the readings it draws",
-  max: 100,
+  maxLength: 100,
 } as const satisfies UrlProperty

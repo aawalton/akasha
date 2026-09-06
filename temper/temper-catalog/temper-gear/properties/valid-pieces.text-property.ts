@@ -10,7 +10,7 @@ export const validPieces = {
   slug: "valid-pieces",
   propertySlug: "valid",
   definition: "the pieces a set is made in",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     { invariantKind: "departure", statement: "One list holds every piece a set is made in." },

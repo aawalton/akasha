@@ -8,6 +8,6 @@ export const history = {
   slug: "history",
   propertySlug: "history",
   definition: "how a persona came to be, told in her own voice",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const wanting = {
   slug: "wanting",
   propertySlug: "wanting",
   definition: "what an element is after",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

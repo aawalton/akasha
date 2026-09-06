@@ -8,7 +8,7 @@ export const externalTags = {
   slug: "external-tags",
   propertySlug: "external-tags",
   definition: "a word the source files a collection under",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

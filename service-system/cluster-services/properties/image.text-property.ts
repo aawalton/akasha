@@ -8,7 +8,7 @@ export const image = {
   slug: "image",
   propertySlug: "image",
   definition: "the container image a workload's pods run",
-  max: 253,
+  maxLength: 253,
   nameFormatSlug: null,
   invariants: [
     {
@@ -18,7 +18,7 @@ export const image = {
     {
       invariantKind: "departure",
       statement:
-        "A workload running more than one container states the image of the one that workload is for.",
+        "A workload running more than one container states the image of the container the workload is for.",
     },
   ],
 } as const satisfies TextProperty

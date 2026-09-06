@@ -8,13 +8,16 @@ export const judgement = {
   slug: "judgement",
   propertySlug: "judgement",
   definition: "what an agent catching a transaction is told to do with it",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A judgement opens with the act, and the rest says why that act is worth an agent.",
+      statement: "A judgement opens with the act.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A judgement then says why that act is worth an agent.",
     },
   ],
 } as const satisfies TextProperty

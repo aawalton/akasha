@@ -8,6 +8,6 @@ export const valueType = {
   slug: "value-type",
   propertySlug: "value-type",
   definition: "whether an effect's value counts as a whole number or as a fraction",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

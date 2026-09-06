@@ -19,7 +19,7 @@ export const helpExclusions = {
       pagePropertySlug: "text-property/help-exclusion-names",
       required: true,
       many: true,
-      max: null,
+      maxCount: null,
     },
   ],
   invariants: [

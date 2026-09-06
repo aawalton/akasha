@@ -8,6 +8,6 @@ export const pose = {
   slug: "pose",
   propertySlug: "pose",
   definition: "how a persona is posed and framed at a rung",
-  max: 300,
+  maxLength: 300,
   nameFormatSlug: null,
 } as const satisfies TextProperty

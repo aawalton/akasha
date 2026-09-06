@@ -8,6 +8,6 @@ export const castConditionType = {
   slug: "cast-condition-type",
   propertySlug: "type",
   definition: "what one test before a companion casts is a case of",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

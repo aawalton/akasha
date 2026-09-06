@@ -8,6 +8,6 @@ export const tokenHash = {
   slug: "token-hash",
   propertySlug: "token-hash",
   definition: "the digest a token is recognised by without the token being held",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: null,
 } as const satisfies TextProperty

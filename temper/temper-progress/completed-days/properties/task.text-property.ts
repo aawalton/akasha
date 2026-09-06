@@ -8,7 +8,7 @@ export const task = {
   slug: "task",
   propertySlug: "task",
   definition: "the recurring task a completion answers to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a temper task." },

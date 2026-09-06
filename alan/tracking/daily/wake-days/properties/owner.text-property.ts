@@ -8,7 +8,7 @@ export const owner = {
   slug: "owner",
   propertySlug: "owner",
   definition: "the person a record belongs to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

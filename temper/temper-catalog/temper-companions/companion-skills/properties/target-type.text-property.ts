@@ -8,6 +8,6 @@ export const targetType = {
   slug: "target-type",
   propertySlug: "target-type",
   definition: "whose number a test reads",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

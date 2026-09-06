@@ -35,7 +35,7 @@ export const items = {
     { pagePropertySlug: "boolean-property/is-unique-equipped", required: true, many: false },
     { pagePropertySlug: "number-property/required-cp", required: true, many: false },
     { pagePropertySlug: "number-property/required-level", required: true, many: false },
-    { pagePropertySlug: "record-property/set-bonuses", required: true, many: true, max: null },
+    { pagePropertySlug: "record-property/set-bonuses", required: true, many: true, maxCount: null },
     { pagePropertySlug: "number-property/set-id", required: true, many: false },
     { pagePropertySlug: "number-property/set-max-equip", required: true, many: false },
     { pagePropertySlug: "text-property/set-name", required: true, many: false },

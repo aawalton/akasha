@@ -8,7 +8,7 @@ export const sortOrder = {
   slug: "sort-order",
   propertySlug: "sort-order",
   definition: "whether a group draws its readings in label order or in place order",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

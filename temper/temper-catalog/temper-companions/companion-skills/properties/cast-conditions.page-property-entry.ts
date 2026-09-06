@@ -14,12 +14,12 @@ export const castConditions = {
     { pagePropertySlug: "text-property/target-type", required: false, many: false },
     { pagePropertySlug: "number-property/min-distance", required: false, many: false },
     { pagePropertySlug: "boolean-property/is-movable", required: false, many: false },
-    { pagePropertySlug: "text-property/enemy-types", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/enemy-types", required: false, many: true, maxCount: null },
     {
       pagePropertySlug: "record-property/effect-conditions",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
   ],
   invariants: [

@@ -8,7 +8,7 @@ export const definition = {
   slug: "definition",
   propertySlug: "definition",
   definition: "the sentence naming what a page's subject is",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {
@@ -29,8 +29,7 @@ export const definition = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Where a second concern is needed to cover the area, that area is more than one domain.",
+      statement: "A second concern needed to cover an area makes that area more than one domain.",
     },
     {
       invariantKind: "departure",

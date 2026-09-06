@@ -8,7 +8,7 @@ export const version = {
   slug: "version",
   propertySlug: "version",
   definition: "which shape of a record was written",
-  max: 10,
+  maxLength: 10,
   nameFormatSlug: null,
   invariants: [
     {

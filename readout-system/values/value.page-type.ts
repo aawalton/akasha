@@ -50,7 +50,12 @@ export const value = {
     { pagePropertySlug: "number-property/place", required: true, many: false },
     { pagePropertySlug: "text-property/unit", required: false, many: false },
     { pagePropertySlug: "relation-property/scale-slug", required: false, many: false },
-    { pagePropertySlug: "relation-property/group-slugs", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "relation-property/group-slugs",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
     { pagePropertySlug: "text-property/query-slug", required: false, many: false },
     { pagePropertySlug: "text-property/query-key", required: false, many: false },
     { pagePropertySlug: "text-property/query-argument", required: false, many: false },

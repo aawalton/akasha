@@ -8,7 +8,7 @@ export const accountUuid = {
   slug: "account-uuid",
   propertySlug: "account-uuid",
   definition: "the identity Anthropic knows the account by",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/lower-uuid",
   unique: "page-type",
   invariants: [

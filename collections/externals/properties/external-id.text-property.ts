@@ -8,6 +8,6 @@ export const externalId = {
   slug: "external-id",
   propertySlug: "external-id",
   definition: "the id the source gives a collection",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

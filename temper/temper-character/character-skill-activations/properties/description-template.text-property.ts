@@ -8,6 +8,6 @@ export const descriptionTemplate = {
   slug: "description-template",
   propertySlug: "description-template",
   definition: "what a skill does, with a slot for each number the game fills in",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

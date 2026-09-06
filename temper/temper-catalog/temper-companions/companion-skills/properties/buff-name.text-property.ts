@@ -8,6 +8,6 @@ export const buffName = {
   slug: "buff-name",
   propertySlug: "buff",
   definition: "the helpful effect an effect puts on whoever it lands on",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const bookName = {
   slug: "book-name",
   propertySlug: "book-name",
   definition: "the name a lore book is shown under",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

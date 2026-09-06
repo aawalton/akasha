@@ -8,6 +8,6 @@ export const itemLink = {
   slug: "item-link",
   propertySlug: "item-link",
   definition: "the string the game writes an item's whole state as",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

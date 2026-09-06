@@ -8,6 +8,6 @@ export const recipeName = {
   slug: "recipe-name",
   propertySlug: "recipe-name",
   definition: "the name a craftable recipe is shown under",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const notificationKind = {
   slug: "notification-kind",
   propertySlug: "kind",
   definition: "what sort of thing a notification tells a person",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

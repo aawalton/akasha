@@ -8,6 +8,6 @@ export const displayName = {
   slug: "display-name",
   propertySlug: "display-name",
   definition: "the name under an app's icon",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

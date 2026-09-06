@@ -8,7 +8,7 @@ export const character = {
   slug: "character",
   propertySlug: "character",
   definition: "the character a page is about",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a character." }],
 } as const satisfies TextProperty

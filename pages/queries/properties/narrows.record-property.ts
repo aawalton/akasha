@@ -21,7 +21,7 @@ export const narrows = {
   properties: [
     { pagePropertySlug: "text-property/narrow-key", required: true, many: false },
     { pagePropertySlug: "text-property/narrow-comparison", required: true, many: false },
-    { pagePropertySlug: "text-property/narrow-values", required: true, many: true, max: 20 },
+    { pagePropertySlug: "text-property/narrow-values", required: true, many: true, maxCount: 20 },
   ],
   invariants: [
     {

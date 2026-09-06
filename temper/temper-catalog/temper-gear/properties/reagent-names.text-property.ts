@@ -10,7 +10,7 @@ export const reagentNames = {
   slug: "reagent-names",
   propertySlug: "names",
   definition: "the reagents one recipe is brewed from",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a reagent." },

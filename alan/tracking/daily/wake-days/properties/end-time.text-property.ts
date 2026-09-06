@@ -8,7 +8,7 @@ export const endTime = {
   slug: "end-time",
   propertySlug: "end-time",
   definition: "when a stretch of time ended",
-  max: 24,
+  maxLength: 24,
   nameFormatSlug: null,
   invariants: [
     {

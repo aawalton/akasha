@@ -8,6 +8,6 @@ export const readerFraming = {
   slug: "reader-framing",
   propertySlug: "reader-framing",
   definition: "the person and tense a game is told in",
-  max: 300,
+  maxLength: 300,
   nameFormatSlug: null,
 } as const satisfies TextProperty

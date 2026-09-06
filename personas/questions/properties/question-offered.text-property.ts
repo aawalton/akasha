@@ -8,7 +8,7 @@ export const questionOffered = {
   slug: "question-offered",
   propertySlug: "offered",
   definition: "an answer a question holds out for Alan to pick",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
   invariants: [
     {

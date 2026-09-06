@@ -8,7 +8,7 @@ export const drawnAs = {
   slug: "drawn-as",
   propertySlug: "drawn-as",
   definition: "whether a reading is drawn as a stoplight or as a bare number",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

@@ -8,6 +8,6 @@ export const environment = {
   slug: "environment",
   propertySlug: "environment",
   definition: "the variables a process is started with",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

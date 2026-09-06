@@ -77,7 +77,7 @@ export const relationship = {
       pagePropertySlug: "text-property/relationship-aliases",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "number-property/relationship-commitment", required: false, many: false },
     { pagePropertySlug: "text-property/relationship-company", required: false, many: false },
@@ -104,7 +104,7 @@ export const relationship = {
       pagePropertySlug: "relation-property/relationship-topic-slugs",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "file-property/relationship-notes", required: false, many: false },
   ],
@@ -115,7 +115,7 @@ export const relationship = {
     },
     {
       invariantKind: "departure",
-      statement: "Four ratings sit apart: impact, interest, connection, and commitment.",
+      statement: "Every rating a relationship carries sits apart from every other rating.",
     },
     {
       invariantKind: "departure",

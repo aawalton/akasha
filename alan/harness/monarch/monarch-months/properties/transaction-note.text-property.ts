@@ -8,18 +8,20 @@ export const transactionNote = {
   slug: "transaction-note",
   propertySlug: "transaction-note",
   definition: "what somebody wrote on a transaction",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A note is written only where Monarch, read at that moment, reports the note empty.",
+      statement: "A note is written only where Monarch reports the note empty at that moment.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Monarch keeps no earlier version, so a note replaced and a note nobody wrote read the same.",
+      statement: "Monarch keeps no earlier version.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A note replaced and a note nobody wrote read the same.",
     },
   ],
 } as const satisfies TextProperty

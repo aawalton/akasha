@@ -8,7 +8,7 @@ export const lengthPropertyId = {
   slug: "length-property-id",
   propertySlug: "length-property-id",
   definition: "the key of the property holding how long a page is",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: "name-format/lower-camel-case",
   invariants: [
     {

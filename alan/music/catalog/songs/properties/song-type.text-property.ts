@@ -8,6 +8,6 @@ export const songType = {
   slug: "song-type",
   propertySlug: "song-type",
   definition: "whether a song is the artist's own composition or a reading of someone else's",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

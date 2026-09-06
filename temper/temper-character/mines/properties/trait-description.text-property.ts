@@ -8,6 +8,6 @@ export const traitDescription = {
   slug: "trait-description",
   propertySlug: "trait-description",
   definition: "what the trait worked into an item does",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
 } as const satisfies TextProperty

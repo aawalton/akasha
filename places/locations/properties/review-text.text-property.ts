@@ -8,6 +8,6 @@ export const reviewText = {
   slug: "review-text",
   propertySlug: "review-text",
   definition: "what the person wrote about the place",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

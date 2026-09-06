@@ -8,6 +8,6 @@ export const className = {
   slug: "class-name",
   propertySlug: "class-name",
   definition: "the class a character is playing as",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

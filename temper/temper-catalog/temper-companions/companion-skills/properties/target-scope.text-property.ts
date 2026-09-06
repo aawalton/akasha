@@ -8,6 +8,6 @@ export const targetScope = {
   slug: "target-scope",
   propertySlug: "scope",
   definition: "how many the thing an effect lands on covers",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

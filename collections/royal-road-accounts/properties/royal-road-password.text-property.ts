@@ -8,7 +8,7 @@ export const royalRoadPassword = {
   slug: "royal-road-password",
   propertySlug: "password",
   definition: "what authorises a Royal Road account's sign-in",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

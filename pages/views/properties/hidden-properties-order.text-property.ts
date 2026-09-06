@@ -8,6 +8,6 @@ export const hiddenPropertiesOrder = {
   slug: "hidden-properties-order",
   propertySlug: "hidden-properties-order",
   definition: "the properties a view hides, in the order a person would reach them",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

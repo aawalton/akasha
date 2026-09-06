@@ -8,6 +8,6 @@ export const gbwwWork = {
   slug: "gbww-work",
   propertySlug: "work",
   definition: "the work a reading is taken from",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,7 +8,7 @@ export const transcriptPath = {
   slug: "transcript-path",
   propertySlug: "transcript-path",
   definition: "where a seat writes what was said in it",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

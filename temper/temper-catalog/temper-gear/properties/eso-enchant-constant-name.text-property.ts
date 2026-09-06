@@ -8,6 +8,6 @@ export const esoEnchantConstantName = {
   slug: "eso-enchant-constant-name",
   propertySlug: "eso-enchant-constant-name",
   definition: "the constant The Elder Scrolls Online names an enchant by in its own code",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: "name-format/upper-snake-case",
 } as const satisfies TextProperty

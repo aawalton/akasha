@@ -8,6 +8,6 @@ export const toSlug = {
   slug: "to-slug",
   propertySlug: "to-slug",
   definition: "the mechanic an evolution reached",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

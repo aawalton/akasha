@@ -8,7 +8,7 @@ export const rescuedRefreshToken = {
   slug: "rescued-refresh-token",
   propertySlug: "refresh-token",
   definition: "the refresh token a rescued credential carries",
-  max: 4000,
+  maxLength: 4000,
   nameFormatSlug: null,
   invariants: [
     {

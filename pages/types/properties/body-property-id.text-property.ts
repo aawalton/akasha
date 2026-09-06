@@ -8,7 +8,7 @@ export const bodyPropertyId = {
   slug: "body-property-id",
   propertySlug: "body-property-id",
   definition: "the key of the property a page's body is read from",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: "name-format/lower-camel-case",
   invariants: [
     {

@@ -8,6 +8,6 @@ export const enchantDescription = {
   slug: "enchant-description",
   propertySlug: "enchant-description",
   definition: "what the enchantment on an item does",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

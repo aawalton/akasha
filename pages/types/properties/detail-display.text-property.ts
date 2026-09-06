@@ -8,7 +8,7 @@ export const detailDisplay = {
   slug: "detail-display",
   propertySlug: "display",
   definition: "the layout a page type's pages are drawn in",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

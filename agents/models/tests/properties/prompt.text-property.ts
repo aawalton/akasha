@@ -8,6 +8,6 @@ export const prompt = {
   slug: "prompt",
   propertySlug: "prompt",
   definition: "what a model is asked, before the text judged is appended",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

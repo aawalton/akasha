@@ -8,7 +8,7 @@ export const toDoSlug = {
   slug: "to-do-slug",
   propertySlug: "to-do-slug",
   definition: "the to-do a round finished",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

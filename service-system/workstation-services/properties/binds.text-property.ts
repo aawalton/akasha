@@ -8,7 +8,7 @@ export const binds = {
   slug: "binds",
   propertySlug: "binds",
   definition: "a host name a service listens on",
-  max: 253,
+  maxLength: 253,
   nameFormatSlug: null,
   invariants: [
     {

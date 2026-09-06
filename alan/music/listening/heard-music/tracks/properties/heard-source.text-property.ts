@@ -8,7 +8,7 @@ export const heardSource = {
   slug: "heard-source",
   propertySlug: "heard-source",
   definition: "where a heard track was learned from",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

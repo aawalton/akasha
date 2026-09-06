@@ -8,6 +8,6 @@ export const evidenceChapter = {
   slug: "evidence-chapter",
   propertySlug: "evidence-chapter",
   definition: "the chapter the wording placing it is in",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,7 +8,7 @@ export const secretValue = {
   slug: "secret-value",
   propertySlug: "value",
   definition: "the secret a page represents",
-  max: 100000,
+  maxLength: 100000,
   nameFormatSlug: null,
   invariants: [
     {

@@ -8,6 +8,6 @@ export const memoryDistribution = {
   slug: "memory-distribution",
   propertySlug: "memory-distribution",
   definition: "how what a story remembers is spread across it",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

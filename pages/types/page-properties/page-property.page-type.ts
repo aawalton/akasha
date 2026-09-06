@@ -20,10 +20,8 @@ export const pageProperty = {
   pluralSlug: "page-properties",
   partSlugs: [
     "module/page-property-key",
-    "number-property/max",
     "number-property/max-count",
     "number-property/max-length",
-    "number-property/total",
     "relation-property/generator",
     "relation-property/unique",
     "text-property/property-slug",

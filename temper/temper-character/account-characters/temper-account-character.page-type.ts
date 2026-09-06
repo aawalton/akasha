@@ -31,7 +31,7 @@ export const temperAccountCharacter = {
       pagePropertySlug: "relation-property/character-roles",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
   ],
   invariants: [

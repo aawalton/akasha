@@ -8,6 +8,6 @@ export const widgetBundleId = {
   slug: "widget-bundle-id",
   propertySlug: "widget-bundle-id",
   definition: "the name a phone knows an app's widgets by",
-  max: 155,
+  maxLength: 155,
   nameFormatSlug: null,
 } as const satisfies TextProperty

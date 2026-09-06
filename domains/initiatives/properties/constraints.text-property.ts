@@ -8,7 +8,7 @@ export const constraints = {
   slug: "constraints",
   propertySlug: "constraints",
   definition: "a bound the work is done within",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

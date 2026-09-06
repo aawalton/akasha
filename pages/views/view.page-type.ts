@@ -82,28 +82,28 @@ export const view = {
     { pagePropertySlug: "text-property/view-predicate", required: false, many: false },
     { pagePropertySlug: "number-property/view-place", required: false, many: false },
     { pagePropertySlug: "select-property/layout", required: false, many: false },
-    { pagePropertySlug: "record-property/narrows", required: false, many: true, max: 10 },
-    { pagePropertySlug: "record-property/view-sorts", required: false, many: true, max: 5 },
+    { pagePropertySlug: "record-property/narrows", required: false, many: true, maxCount: 10 },
+    { pagePropertySlug: "record-property/view-sorts", required: false, many: true, maxCount: 5 },
     { pagePropertySlug: "text-property/group-by", required: false, many: false },
-    { pagePropertySlug: "record-property/group-sorts", required: false, many: true, max: 5 },
+    { pagePropertySlug: "record-property/group-sorts", required: false, many: true, maxCount: 5 },
     { pagePropertySlug: "select-property/group-granularity", required: false, many: false },
     {
       pagePropertySlug: "text-property/visible-properties",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     {
       pagePropertySlug: "text-property/always-show-properties",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     {
       pagePropertySlug: "text-property/hidden-properties-order",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "number-property/page-size", required: false, many: false },
     { pagePropertySlug: "number-property/item-page-size", required: false, many: false },
@@ -117,13 +117,19 @@ export const view = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A view names the page type the view draws by slug, and its properties by each declaration's key.",
+      statement: "A view names by slug the page type the view draws.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A view carries the order its properties are shown in, the hidden ones among those properties.",
+      statement: "A view names a property by that property's declaration key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A view carries the order its properties are shown in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A view carries its hidden properties.",
     },
     {
       invariantKind: "departure",

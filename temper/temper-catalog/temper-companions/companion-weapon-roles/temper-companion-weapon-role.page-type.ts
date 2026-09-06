@@ -29,13 +29,13 @@ export const temperCompanionWeaponRole = {
       pagePropertySlug: "text-property/valid-main-hand-weapon-types",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     {
       pagePropertySlug: "text-property/valid-off-hand-weapon-types",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
   ],
 } as const satisfies PageType

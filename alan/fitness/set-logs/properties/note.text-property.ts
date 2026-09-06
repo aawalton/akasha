@@ -8,6 +8,6 @@ export const note = {
   slug: "note",
   propertySlug: "note",
   definition: "what Alan said about the set as he logged it",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
 } as const satisfies TextProperty

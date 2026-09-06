@@ -42,9 +42,14 @@ export const domain = {
   properties: [
     { pagePropertySlug: "text-property/definition", required: true, many: false },
     { pagePropertySlug: "text-property/plural-slug", required: false, many: false },
-    { pagePropertySlug: "relation-property/part-slugs", required: false, many: true, max: null },
-    { pagePropertySlug: "record-property/invariants", required: false, many: true, max: null },
-    { pagePropertySlug: "record-property/directives", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "relation-property/part-slugs",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    { pagePropertySlug: "record-property/invariants", required: false, many: true, maxCount: null },
+    { pagePropertySlug: "record-property/directives", required: false, many: true, maxCount: null },
     { pagePropertySlug: "boolean-property/expands", required: false, many: false },
   ],
   invariants: [

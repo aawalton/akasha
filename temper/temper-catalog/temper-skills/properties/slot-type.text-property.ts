@@ -8,6 +8,6 @@ export const slotType = {
   slug: "slot-type",
   propertySlug: "slot-type",
   definition: "the slot in a grimoire a script is set into",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

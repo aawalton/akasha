@@ -8,7 +8,7 @@ export const itemLevel = {
   slug: "item-level",
   propertySlug: "level",
   definition: "the character level an item is made for",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

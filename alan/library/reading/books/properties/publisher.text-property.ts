@@ -8,6 +8,6 @@ export const publisher = {
   slug: "publisher",
   propertySlug: "publisher",
   definition: "who put an edition out",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,7 +8,7 @@ export const imageRoot = {
   slug: "image-root",
   propertySlug: "image-root",
   definition: "the name of the place a picture's path is read against",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

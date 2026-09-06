@@ -17,7 +17,7 @@ export const narrowComparison = {
   slug: "narrow-comparison",
   propertySlug: "comparison",
   definition: "how one narrow weighs a page's value against what it names",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
   invariants: [
     {

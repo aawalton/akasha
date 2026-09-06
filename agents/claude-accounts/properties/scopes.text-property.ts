@@ -10,7 +10,7 @@ export const scopes = {
   slug: "scopes",
   propertySlug: "scopes",
   definition: "one permission the account's token was granted",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

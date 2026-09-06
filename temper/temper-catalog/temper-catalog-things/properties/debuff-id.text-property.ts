@@ -8,7 +8,7 @@ export const debuffId = {
   slug: "debuff-id",
   propertySlug: "debuff-id",
   definition: "the harmful effect a thing puts on whoever it is used against",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a debuff." }],
 } as const satisfies TextProperty

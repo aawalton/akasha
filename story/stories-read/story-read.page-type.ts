@@ -40,7 +40,12 @@ export const storyRead = {
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
     { pagePropertySlug: "text-property/source", required: true, many: false },
-    { pagePropertySlug: "text-property/external-tags", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "text-property/external-tags",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
     { pagePropertySlug: "select-property/publication-status", required: false, many: false },
     { pagePropertySlug: "file-property/prose", required: false, many: false },
   ],

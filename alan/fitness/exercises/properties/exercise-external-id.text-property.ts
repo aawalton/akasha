@@ -8,6 +8,6 @@ export const exerciseExternalId = {
   slug: "exercise-external-id",
   propertySlug: "exercise-external-id",
   definition: "what the catalogue it was imported from calls this movement",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

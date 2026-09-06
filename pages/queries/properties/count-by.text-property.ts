@@ -10,7 +10,7 @@ export const countBy = {
   slug: "count-by",
   propertySlug: "count-by",
   definition: "the keys a query gathers its pages under to count them",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

@@ -8,6 +8,6 @@ export const helpArgAliases = {
   slug: "help-arg-aliases",
   propertySlug: "aliases",
   definition: "another spelling that reaches the same flag",
-  max: 60,
+  maxLength: 60,
   nameFormatSlug: null,
 } as const satisfies TextProperty

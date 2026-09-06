@@ -8,6 +8,6 @@ export const segment = {
   slug: "segment",
   propertySlug: "segment",
   definition: "the size and price bracket the model sells in",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

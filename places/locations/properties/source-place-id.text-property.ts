@@ -8,6 +8,6 @@ export const sourcePlaceId = {
   slug: "source-place-id",
   propertySlug: "source-place-id",
   definition: "what the source calls the place",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

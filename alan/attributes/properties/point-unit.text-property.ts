@@ -8,6 +8,6 @@ export const pointUnit = {
   slug: "point-unit",
   propertySlug: "point-unit",
   definition: "what earns one point in an attribute",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

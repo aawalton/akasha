@@ -31,7 +31,7 @@ export const temperGrimoire = {
     { pagePropertySlug: "text-property/icon", required: true, many: false },
     { pagePropertySlug: "text-property/ability-icon", required: true, many: false },
     { pagePropertySlug: "text-property/skill-line-id", required: true, many: false },
-    { pagePropertySlug: "text-property/focus-scripts", required: true, many: true, max: null },
+    { pagePropertySlug: "text-property/focus-scripts", required: true, many: true, maxCount: null },
     { pagePropertySlug: "page-property-entry/affix-scripts", required: true, many: false },
     { pagePropertySlug: "page-property-entry/signature-scripts", required: true, many: false },
   ],

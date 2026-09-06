@@ -8,6 +8,6 @@ export const activityName = {
   slug: "activity-name",
   propertySlug: "activity-name",
   definition: "the name a completion activity is shown under",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

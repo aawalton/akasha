@@ -53,12 +53,12 @@ export const pageQuery = {
   extendsSlug: ["page-type/page"],
   properties: [
     { pagePropertySlug: "text-property/asks-of-slug", required: true, many: false },
-    { pagePropertySlug: "record-property/parameters", required: false, many: true, max: 5 },
-    { pagePropertySlug: "record-property/narrows", required: false, many: true, max: 10 },
-    { pagePropertySlug: "text-property/count-by", required: false, many: true, max: 10 },
+    { pagePropertySlug: "record-property/parameters", required: false, many: true, maxCount: 5 },
+    { pagePropertySlug: "record-property/narrows", required: false, many: true, maxCount: 10 },
+    { pagePropertySlug: "text-property/count-by", required: false, many: true, maxCount: 10 },
     { pagePropertySlug: "text-property/reduction", required: false, many: false },
     { pagePropertySlug: "text-property/target-key", required: false, many: false },
-    { pagePropertySlug: "text-property/keys", required: false, many: true, max: 40 },
+    { pagePropertySlug: "text-property/keys", required: false, many: true, maxCount: 40 },
     { pagePropertySlug: "text-property/sort-by", required: false, many: false },
     {
       pagePropertySlug: "boolean-property/descending",

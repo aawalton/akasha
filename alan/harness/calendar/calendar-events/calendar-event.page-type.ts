@@ -73,15 +73,20 @@ export const calendarEvent = {
       pagePropertySlug: "text-property/calendar-event-types",
       required: false,
       many: true,
-      max: 20,
+      maxCount: 20,
     },
     {
       pagePropertySlug: "text-property/calendar-event-age-groups",
       required: false,
       many: true,
-      max: 20,
+      maxCount: 20,
     },
-    { pagePropertySlug: "text-property/calendar-event-tags", required: false, many: true, max: 20 },
+    {
+      pagePropertySlug: "text-property/calendar-event-tags",
+      required: false,
+      many: true,
+      maxCount: 20,
+    },
     { pagePropertySlug: "url-property/calendar-event-image-url", required: false, many: false },
     {
       pagePropertySlug: "number-property/calendar-event-max-attendees",

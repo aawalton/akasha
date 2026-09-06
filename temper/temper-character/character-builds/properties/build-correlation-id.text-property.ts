@@ -8,12 +8,12 @@ export const buildCorrelationId = {
   slug: "build-correlation-id",
   propertySlug: "correlation-id",
   definition: "the identity the client minted for a build before the build was kept",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/lower-uuid",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A build the client never named carries none.",
+      statement: "A build the client never named carries no correlation id.",
     },
     {
       invariantKind: "departure",

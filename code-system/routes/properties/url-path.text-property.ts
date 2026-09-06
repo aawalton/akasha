@@ -8,12 +8,16 @@ export const urlPath = {
   slug: "url-path",
   propertySlug: "url-path",
   definition: "the path a router serves a route under",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A path is written as the router takes that path, with no leading slash.",
+      statement: "A path is written as the router takes that path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path carries no leading slash.",
     },
     {
       invariantKind: "departure",

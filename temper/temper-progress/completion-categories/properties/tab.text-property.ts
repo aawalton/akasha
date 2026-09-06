@@ -8,6 +8,6 @@ export const tab = {
   slug: "tab",
   propertySlug: "tab",
   definition: "the tab of the completion view a node is shown under",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

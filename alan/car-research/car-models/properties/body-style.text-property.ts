@@ -8,6 +8,6 @@ export const bodyStyle = {
   slug: "body-style",
   propertySlug: "body-style",
   definition: "the shape of the body",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

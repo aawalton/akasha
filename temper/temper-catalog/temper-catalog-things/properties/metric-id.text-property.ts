@@ -8,7 +8,7 @@ export const metricId = {
   slug: "metric-id",
   propertySlug: "metric-id",
   definition: "the number an effect moves",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a metric." }],
 } as const satisfies TextProperty

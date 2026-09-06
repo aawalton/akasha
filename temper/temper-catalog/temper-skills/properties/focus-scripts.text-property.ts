@@ -10,7 +10,7 @@ export const focusScripts = {
   slug: "focus-scripts",
   propertySlug: "focus-scripts",
   definition: "the focus scripts a grimoire takes",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

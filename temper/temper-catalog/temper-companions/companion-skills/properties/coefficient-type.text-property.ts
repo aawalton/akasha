@@ -8,6 +8,6 @@ export const coefficientType = {
   slug: "coefficient-type",
   propertySlug: "coefficient-type",
   definition: "how often a coefficient counts against the metric it reads",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

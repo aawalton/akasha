@@ -8,6 +8,6 @@ export const conditionWeaponType = {
   slug: "condition-weapon-type",
   propertySlug: "weapon-type",
   definition: "the weapon a test holds for",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const nodeType = {
   slug: "node-type",
   propertySlug: "node-type",
   definition: "which rank of the metric tree a node sits at",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

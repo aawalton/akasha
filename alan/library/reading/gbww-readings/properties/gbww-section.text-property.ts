@@ -8,6 +8,6 @@ export const gbwwSection = {
   slug: "gbww-section",
   propertySlug: "section",
   definition: "how much of the work a reading covers",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

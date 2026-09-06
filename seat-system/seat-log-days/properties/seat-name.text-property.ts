@@ -8,7 +8,7 @@ export const seatName = {
   slug: "seat-name",
   propertySlug: "seat-name",
   definition: "the name of the seat whose processes wrote a day of lines",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

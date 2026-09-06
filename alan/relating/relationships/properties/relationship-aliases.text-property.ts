@@ -8,6 +8,6 @@ export const relationshipAliases = {
   slug: "relationship-aliases",
   propertySlug: "relationship-aliases",
   definition: "the other names this person is called by",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

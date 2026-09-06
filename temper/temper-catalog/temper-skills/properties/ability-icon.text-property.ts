@@ -8,6 +8,6 @@ export const abilityIcon = {
   slug: "ability-icon",
   propertySlug: "ability-icon",
   definition: "the icon the skill a grimoire grants is shown with",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

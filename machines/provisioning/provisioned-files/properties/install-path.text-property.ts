@@ -8,6 +8,6 @@ export const installPath = {
   slug: "install-path",
   propertySlug: "install-path",
   definition: "where outside akasha the body is put so the thing reading it finds it",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

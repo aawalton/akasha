@@ -8,6 +8,6 @@ export const gameSystem = {
   slug: "game-system",
   propertySlug: "game-system",
   definition: "the rules a build is read against, said in full",
-  max: 20000,
+  maxLength: 20000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

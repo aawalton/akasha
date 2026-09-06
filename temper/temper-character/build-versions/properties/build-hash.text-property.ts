@@ -8,7 +8,7 @@ export const buildHash = {
   slug: "build-hash",
   propertySlug: "build-hash",
   definition: "the arrangement a version holds, written as one string",
-  max: 4000,
+  maxLength: 4000,
   nameFormatSlug: null,
   invariants: [
     { invariantKind: "departure", statement: "Two versions arranged alike carry one hash." },

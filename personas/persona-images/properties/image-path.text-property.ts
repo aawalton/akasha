@@ -8,7 +8,7 @@ export const imagePath = {
   slug: "image-path",
   propertySlug: "image-path",
   definition: "where a picture is, read against the root it names",
-  max: 300,
+  maxLength: 300,
   nameFormatSlug: null,
   invariants: [
     {

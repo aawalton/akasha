@@ -8,6 +8,6 @@ export const effectWeaponTypes = {
   slug: "effect-weapon-types",
   propertySlug: "weapon-types",
   definition: "a weapon an effect holds for",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const calendarSourceTimezone = {
   slug: "calendar-source-timezone",
   propertySlug: "timezone",
   definition: "the zone a source states its times in",
-  max: 400,
+  maxLength: 400,
   nameFormatSlug: null,
 } as const satisfies TextProperty

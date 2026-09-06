@@ -15,7 +15,7 @@ export const source = {
   slug: "source",
   propertySlug: "source",
   definition: "where a collection was imported from",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

@@ -8,6 +8,6 @@ export const characterName = {
   slug: "character-name",
   propertySlug: "character-name",
   definition: "the name a character is shown under in the game",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const resource = {
   slug: "resource",
   propertySlug: "resource",
   definition: "the pool a companion spends to cast",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

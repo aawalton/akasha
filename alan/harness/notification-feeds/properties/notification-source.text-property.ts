@@ -8,6 +8,6 @@ export const notificationSource = {
   slug: "notification-source",
   propertySlug: "source",
   definition: "what pushed a notification",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

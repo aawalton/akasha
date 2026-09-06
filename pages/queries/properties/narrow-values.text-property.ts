@@ -10,7 +10,7 @@ export const narrowValues = {
   slug: "narrow-values",
   propertySlug: "values",
   definition: "what one narrow weighs a page's value against",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

@@ -32,7 +32,7 @@ export const categoryRule = {
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "record-property/matches", required: true, many: true, max: 10 },
+    { pagePropertySlug: "record-property/matches", required: true, many: true, maxCount: 10 },
     { pagePropertySlug: "relation-property/category-slug", required: false, many: false },
     { pagePropertySlug: "text-property/rule-note", required: false, many: false },
     { pagePropertySlug: "number-property/counterpart-within-days", required: false, many: false },

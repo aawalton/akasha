@@ -8,7 +8,7 @@ export const webEnvPath = {
   slug: "web-env-path",
   propertySlug: "web-env-path",
   definition: "where the env file a site is built against lives in the repository",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

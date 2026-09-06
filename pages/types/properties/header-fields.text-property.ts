@@ -8,7 +8,7 @@ export const headerFields = {
   slug: "header-fields",
   propertySlug: "fields",
   definition: "the keys of the properties standing above the pages a page gathers",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: "name-format/lower-camel-case",
   invariants: [
     {

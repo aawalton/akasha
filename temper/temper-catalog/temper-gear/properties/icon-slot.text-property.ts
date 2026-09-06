@@ -8,7 +8,7 @@ export const iconSlot = {
   slug: "icon-slot",
   propertySlug: "slot",
   definition: "the piece an icon is shown for",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

@@ -8,7 +8,7 @@ export const alertDomain = {
   slug: "alert-domain",
   propertySlug: "domain",
   definition: "the area a raised alert is owed to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

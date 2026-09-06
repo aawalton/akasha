@@ -8,6 +8,6 @@ export const written = {
   slug: "written",
   propertySlug: "written",
   definition: "whether the artist wrote the song alone or with others",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

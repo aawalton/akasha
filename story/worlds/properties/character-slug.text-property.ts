@@ -8,7 +8,7 @@ export const characterSlug = {
   slug: "character-slug",
   propertySlug: "character-slug",
   definition: "the character a reading reaches",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

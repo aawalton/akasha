@@ -8,7 +8,7 @@ export const schedule = {
   slug: "schedule",
   propertySlug: "schedule",
   definition: "the times a unit is started at",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

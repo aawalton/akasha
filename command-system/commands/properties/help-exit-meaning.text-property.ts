@@ -8,6 +8,6 @@ export const helpExitMeaning = {
   slug: "help-exit-meaning",
   propertySlug: "meaning",
   definition: "what one exit code says about a run",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,5 +8,5 @@ export const sourceUrl = {
   slug: "source-url",
   propertySlug: "source-url",
   definition: "where the source shows the place",
-  max: 200,
+  maxLength: 200,
 } as const satisfies UrlProperty

@@ -8,7 +8,7 @@ export const personAccessServes = {
   slug: "person-access-serves",
   propertySlug: "serves",
   definition: "the shared page type the target represents",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

@@ -8,6 +8,6 @@ export const overrideReason = {
   slug: "override-reason",
   propertySlug: "override-reason",
   definition: "why a count is set by hand instead of taken from the game",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

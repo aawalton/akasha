@@ -18,12 +18,17 @@ export const monarchMerchant = {
   partSlugs: ["text-property/merchant-patterns"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/merchant-patterns", required: true, many: true, max: 20 },
+    {
+      pagePropertySlug: "text-property/merchant-patterns",
+      required: true,
+      many: true,
+      maxCount: 20,
+    },
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement: "How the money moved is a merchant here, for rows whose words name no vendor.",
+      statement: "How the money moved is a merchant here for rows whose words name no vendor.",
     },
     {
       invariantKind: "departure",

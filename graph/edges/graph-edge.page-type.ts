@@ -27,7 +27,7 @@ export const graphEdge = {
       pagePropertySlug: "relation-property/attribute-slugs",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
   ],
   invariants: [

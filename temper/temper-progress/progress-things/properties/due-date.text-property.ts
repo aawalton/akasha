@@ -8,7 +8,7 @@ export const dueDate = {
   slug: "due-date",
   propertySlug: "due-date",
   definition: "the day a task is next wanted",
-  max: 10,
+  maxLength: 10,
   nameFormatSlug: null,
   invariants: [
     { invariantKind: "departure", statement: "A due date is written as an ISO 8601 calendar day." },

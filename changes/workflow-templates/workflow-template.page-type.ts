@@ -33,7 +33,7 @@ export const workflowTemplate = {
       pagePropertySlug: "relation-property/workflow-cluster-service-slugs",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
   ],
   invariants: [
@@ -47,7 +47,11 @@ export const workflowTemplate = {
     },
     {
       invariantKind: "departure",
-      statement: "Nothing imports a workflow's declaration; the runner gathers every declaration.",
+      statement: "Nothing imports a workflow's declaration.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The runner gathers every workflow declaration.",
     },
     {
       invariantKind: "gap",

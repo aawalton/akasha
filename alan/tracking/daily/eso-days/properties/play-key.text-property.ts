@@ -8,7 +8,7 @@ export const playKey = {
   slug: "play-key",
   propertySlug: "play-key",
   definition: "the text one listen is told apart from every other listen by",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

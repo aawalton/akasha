@@ -8,6 +8,6 @@ export const referenceKind = {
   slug: "reference-kind",
   propertySlug: "kind",
   definition: "which kind of mechanic a naming reads as",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

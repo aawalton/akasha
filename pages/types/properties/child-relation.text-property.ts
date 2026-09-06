@@ -8,7 +8,7 @@ export const childRelation = {
   slug: "child-relation",
   propertySlug: "child-relation",
   definition: "the key by which a gathered page names the page gathering it",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: "name-format/lower-camel-case",
   invariants: [
     {

@@ -34,8 +34,8 @@ export const initiative = {
     { pagePropertySlug: "relation-property/domain-slug", required: true, many: false },
     { pagePropertySlug: "relation-property/initiative-persona-slug", required: true, many: false },
     { pagePropertySlug: "relation-property/parent-slug", required: false, many: false },
-    { pagePropertySlug: "record-property/intents", required: false, many: true, max: null },
-    { pagePropertySlug: "text-property/constraints", required: false, many: true, max: 30 },
+    { pagePropertySlug: "record-property/intents", required: false, many: true, maxCount: null },
+    { pagePropertySlug: "text-property/constraints", required: false, many: true, maxCount: 30 },
   ],
   mortal: true,
   invariants: [

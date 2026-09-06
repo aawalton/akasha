@@ -8,6 +8,6 @@ export const purpose = {
   slug: "purpose",
   propertySlug: "purpose",
   definition: "what a persona is for",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
 } as const satisfies TextProperty

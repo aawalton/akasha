@@ -8,6 +8,6 @@ export const metric = {
   slug: "metric",
   propertySlug: "metric",
   definition: "the kind of measurement a reading carries",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

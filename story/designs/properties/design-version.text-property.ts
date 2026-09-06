@@ -8,6 +8,6 @@ export const designVersion = {
   slug: "design-version",
   propertySlug: "version",
   definition: "which revision of a design this is",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

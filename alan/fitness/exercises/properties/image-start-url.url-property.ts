@@ -8,5 +8,5 @@ export const imageStartUrl = {
   slug: "image-start-url",
   propertySlug: "image-start-url",
   definition: "a picture of the movement at its start",
-  max: 200,
+  maxLength: 200,
 } as const satisfies UrlProperty

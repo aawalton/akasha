@@ -38,9 +38,9 @@ export const webApp = {
       pagePropertySlug: "relation-property/cluster-service-slugs",
       required: true,
       many: true,
-      max: 20,
+      maxCount: 20,
     },
-    { pagePropertySlug: "text-property/hostnames", required: false, many: true, max: 20 },
+    { pagePropertySlug: "text-property/hostnames", required: false, many: true, maxCount: 20 },
   ],
   invariants: [
     {

@@ -8,7 +8,7 @@ export const partOf = {
   slug: "part-of",
   propertySlug: "part-of",
   definition: "the unit this unit stops and restarts along with",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

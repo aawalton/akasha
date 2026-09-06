@@ -8,6 +8,6 @@ export const accountName = {
   slug: "account-name",
   propertySlug: "account-name",
   definition: "the account a transaction ran through, as the statement names it",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

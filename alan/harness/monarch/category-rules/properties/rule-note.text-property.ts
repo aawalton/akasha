@@ -8,6 +8,6 @@ export const ruleNote = {
   slug: "rule-note",
   propertySlug: "rule-note",
   definition: "what a rule is about, where its clauses do not say",
-  max: 300,
+  maxLength: 300,
   nameFormatSlug: null,
 } as const satisfies TextProperty

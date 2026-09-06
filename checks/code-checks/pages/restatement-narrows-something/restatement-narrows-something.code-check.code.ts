@@ -16,8 +16,8 @@ function fallen(was: number | null, now: number | null): boolean {
 
 function narrows(nearer: Declared, further: Declared): boolean {
   if (nearer.required && !further.required) return true
-  if (fallen(further.max, nearer.max)) return true
-  if (fallen(further.total, nearer.total)) return true
+  if (fallen(further.maxCount, nearer.maxCount)) return true
+  if (fallen(further.maxLength, nearer.maxLength)) return true
   if (nearer.secret && !further.secret) return true
   return nearer.uncommitted && !further.uncommitted
 }

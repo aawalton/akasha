@@ -8,6 +8,6 @@ export const section = {
   slug: "section",
   propertySlug: "section",
   definition: "the heading the source lists the offer under",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

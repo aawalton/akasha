@@ -8,6 +8,6 @@ export const recurrence = {
   slug: "recurrence",
   propertySlug: "recurrence",
   definition: "the rule bringing a to-do round again",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

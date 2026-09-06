@@ -8,6 +8,6 @@ export const dueTime = {
   slug: "due-time",
   propertySlug: "due-time",
   definition: "the time of day a to-do comes due",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

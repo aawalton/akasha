@@ -8,6 +8,6 @@ export const refreshToken = {
   slug: "refresh-token",
   propertySlug: "refresh-token",
   definition: "the token a fresh access token is asked for with",
-  max: 4000,
+  maxLength: 4000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

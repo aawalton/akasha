@@ -8,6 +8,6 @@ export const relationshipRole = {
   slug: "relationship-role",
   propertySlug: "relationship-role",
   definition: "the work this person does",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

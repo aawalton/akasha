@@ -8,6 +8,6 @@ export const calendarEventTags = {
   slug: "calendar-event-tags",
   propertySlug: "tags",
   definition: "what a source tags an event with",
-  max: 400,
+  maxLength: 400,
   nameFormatSlug: null,
 } as const satisfies TextProperty

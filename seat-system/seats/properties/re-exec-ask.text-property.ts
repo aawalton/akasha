@@ -8,7 +8,7 @@ export const reExecAsk = {
   slug: "re-exec-ask",
   propertySlug: "re-exec-ask",
   definition: "the standing of a seat's request to re-exec its supervisor",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

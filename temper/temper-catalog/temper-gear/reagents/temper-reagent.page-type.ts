@@ -18,6 +18,11 @@ export const temperReagent = {
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "text-property/icon", required: true, many: false },
     { pagePropertySlug: "number-property/item-id", required: true, many: false },
-    { pagePropertySlug: "text-property/alchemy-effects", required: true, many: true, max: null },
+    {
+      pagePropertySlug: "text-property/alchemy-effects",
+      required: true,
+      many: true,
+      maxCount: null,
+    },
   ],
 } as const satisfies PageType

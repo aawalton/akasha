@@ -8,7 +8,7 @@ export const rruleRule = {
   slug: "rrule-rule",
   propertySlug: "rrule-rule",
   definition: "how often a task comes round again",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

@@ -8,6 +8,6 @@ export const continuity = {
   slug: "continuity",
   propertySlug: "continuity",
   definition: "what a story holds constant between its chapters",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

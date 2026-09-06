@@ -8,6 +8,6 @@ export const helpExclusionNames = {
   slug: "help-exclusion-names",
   propertySlug: "names",
   definition: "one flag in a set no two of which are given together",
-  max: 60,
+  maxLength: 60,
   nameFormatSlug: null,
 } as const satisfies TextProperty

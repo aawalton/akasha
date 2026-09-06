@@ -33,6 +33,6 @@ export const effectConditions = {
     { pagePropertySlug: "number-property/max-distance", required: false, many: false },
     { pagePropertySlug: "boolean-property/is-casting", required: false, many: false },
     { pagePropertySlug: "text-property/condition-weapon-type", required: false, many: false },
-    { pagePropertySlug: "text-property/enemy-types", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/enemy-types", required: false, many: true, maxCount: null },
   ],
 } as const satisfies RecordProperty

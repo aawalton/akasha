@@ -8,6 +8,6 @@ export const designSystem = {
   slug: "design-system",
   propertySlug: "system",
   definition: "the rules a story's world runs on",
-  max: 6000,
+  maxLength: 6000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

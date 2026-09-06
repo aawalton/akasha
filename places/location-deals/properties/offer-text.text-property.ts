@@ -8,6 +8,6 @@ export const offerText = {
   slug: "offer-text",
   propertySlug: "offer-text",
   definition: "what the offer gives, as the source words it",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

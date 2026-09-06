@@ -8,7 +8,7 @@ export const runs = {
   slug: "runs",
   propertySlug: "runs",
   definition: "a command line a service starts",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
   invariants: [
     {

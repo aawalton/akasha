@@ -8,6 +8,6 @@ export const helpArgName = {
   slug: "help-arg-name",
   propertySlug: "name",
   definition: "how one argument is spelled where it is typed",
-  max: 60,
+  maxLength: 60,
   nameFormatSlug: null,
 } as const satisfies TextProperty

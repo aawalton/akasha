@@ -99,18 +99,18 @@ export function reasonsIn(
       said.push(`states \`${slug}\` singly, and \`${named}\` declares it many`)
     if (!one.many && listed)
       said.push(`states \`${slug}\` as a list, and \`${named}\` declares it single`)
-    if (one.many && listed && one.max !== null && held.length > one.max) {
-      said.push(`holds ${held.length} of \`${slug}\`, over the max of ${one.max}`)
+    if (one.many && listed && one.maxCount !== null && held.length > one.maxCount) {
+      said.push(`holds ${held.length} of \`${slug}\`, over the count of ${one.maxCount}`)
     }
     if (one.many && listed) {
-      const why = overTotal(held, one.total, slug)
+      const why = overTotal(held, null, slug)
       if (why !== null) said.push(why)
       const twice = twiceIn(held, slug)
       if (twice !== null) said.push(twice)
     }
     const page = pageFor(one)
     if (page === null) continue
-    const max = numberAt(page, "max")
+    const max = one.maxLength ?? numberAt(page, "maxLength")
     const format = textAt(page, FORMAT)
     for (const each of listed ? held : [held]) {
       const why = overMax(each, max, slug, "")

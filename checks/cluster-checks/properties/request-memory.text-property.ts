@@ -8,6 +8,6 @@ export const requestMemory = {
   slug: "request-memory",
   propertySlug: "request-memory",
   definition: "the memory a pod asks for",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

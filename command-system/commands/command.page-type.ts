@@ -110,19 +110,34 @@ export const command = {
   loadedBySlug: "module/calling",
   properties: [
     { pagePropertySlug: "relation-property/change-kind-slug", required: true, many: false },
-    { pagePropertySlug: "record-property/taking", required: false, many: true, max: null },
-    { pagePropertySlug: "text-property/help-notes", required: false, many: true, max: null },
+    { pagePropertySlug: "record-property/taking", required: false, many: true, maxCount: null },
+    { pagePropertySlug: "text-property/help-notes", required: false, many: true, maxCount: null },
     {
       pagePropertySlug: "record-property/help-positionals",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
-    { pagePropertySlug: "record-property/help-flags", required: false, many: true, max: null },
-    { pagePropertySlug: "record-property/help-env-vars", required: false, many: true, max: null },
-    { pagePropertySlug: "record-property/help-exclusions", required: false, many: true, max: null },
-    { pagePropertySlug: "record-property/help-exits", required: false, many: true, max: null },
-    { pagePropertySlug: "text-property/help-examples", required: false, many: true, max: null },
+    { pagePropertySlug: "record-property/help-flags", required: false, many: true, maxCount: null },
+    {
+      pagePropertySlug: "record-property/help-env-vars",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pagePropertySlug: "record-property/help-exclusions",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    { pagePropertySlug: "record-property/help-exits", required: false, many: true, maxCount: null },
+    {
+      pagePropertySlug: "text-property/help-examples",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   invariants: [
     {

@@ -8,5 +8,5 @@ export const link = {
   slug: "link",
   propertySlug: "link",
   definition: "where Alan goes to do it",
-  max: 100,
+  maxLength: 100,
 } as const satisfies UrlProperty

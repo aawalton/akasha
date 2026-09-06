@@ -8,7 +8,7 @@ export const messageBody = {
   slug: "message-body",
   propertySlug: "body",
   definition: "the words a message carries",
-  max: 20000,
+  maxLength: 20000,
   nameFormatSlug: null,
   invariants: [
     {

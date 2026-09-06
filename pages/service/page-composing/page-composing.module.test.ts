@@ -50,8 +50,8 @@ function carrying(key: string, declaredBy: string): Carried {
     declaredBy,
     required: false,
     many: false,
-    max: null,
-    total: null,
+    maxCount: null,
+    maxLength: null,
     uncommitted: false,
     secret: false,
   }

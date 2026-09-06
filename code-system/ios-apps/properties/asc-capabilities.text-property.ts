@@ -11,7 +11,7 @@ export const ascCapabilities = {
   slug: "asc-capabilities",
   propertySlug: "asc-capabilities",
   definition: "the capabilities Apple enables on an app's identifier",
-  max: 60,
+  maxLength: 60,
   nameFormatSlug: null,
   invariants: [
     {

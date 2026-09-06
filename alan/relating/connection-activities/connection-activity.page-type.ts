@@ -119,7 +119,7 @@ export const connectionActivity = {
       pagePropertySlug: "select-property/connection-activity-modality",
       required: true,
       many: true,
-      max: null,
+      maxCount: null,
     },
     {
       pagePropertySlug: "select-property/connection-activity-model-basis",

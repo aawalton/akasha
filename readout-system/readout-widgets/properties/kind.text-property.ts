@@ -8,6 +8,6 @@ export const kind = {
   slug: "kind",
   propertySlug: "kind",
   definition: "the name a placed tile is bound to on the device",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const parentCorporation = {
   slug: "parent-corporation",
   propertySlug: "parent-corporation",
   definition: "the group the make belongs to",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

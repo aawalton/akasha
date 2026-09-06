@@ -8,7 +8,7 @@ export const completionItemPath = {
   slug: "completion-item-path",
   propertySlug: "completion-item-path",
   definition: "one step of the way down a completion card to the item counted",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

@@ -20,7 +20,7 @@ export const completions = {
       pagePropertySlug: "text-property/completion-item-path",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
   ],
   invariants: [

@@ -8,6 +8,6 @@ export const completionTypeLabel = {
   slug: "completion-type-label",
   propertySlug: "completion-type-label",
   definition: "the name a kind of completion activity is shown under",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const fallbackModel = {
   slug: "fallback-model",
   propertySlug: "fallback-model",
   definition: "the model a seat answers on where the model it asked for will not serve",
-  max: 40,
+  maxLength: 40,
   nameFormatSlug: null,
 } as const satisfies TextProperty

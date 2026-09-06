@@ -8,6 +8,6 @@ export const relationshipMetAt = {
   slug: "relationship-met-at",
   propertySlug: "relationship-met-at",
   definition: "where Alan first met this person",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

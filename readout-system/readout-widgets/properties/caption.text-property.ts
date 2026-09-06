@@ -8,6 +8,6 @@ export const caption = {
   slug: "caption",
   propertySlug: "caption",
   definition: "the words a widget draws beside its reading",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

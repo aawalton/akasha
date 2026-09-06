@@ -8,6 +8,6 @@ export const holderSlug = {
   slug: "holder-slug",
   propertySlug: "holder-slug",
   definition: "the character a naming gives the mechanic to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

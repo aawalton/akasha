@@ -8,7 +8,7 @@ export const id = {
   slug: "id",
   propertySlug: "id",
   definition: "the identity a page keeps for its whole life",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/lower-uuid",
   unique: "always",
   generator: "uuid-v7",

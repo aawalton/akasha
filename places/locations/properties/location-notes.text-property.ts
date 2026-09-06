@@ -8,6 +8,6 @@ export const locationNotes = {
   slug: "location-notes",
   propertySlug: "notes",
   definition: "what the person kept the place for",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,7 +8,7 @@ export const emailRuleJudgement = {
   slug: "email-rule-judgement",
   propertySlug: "judgement",
   definition: "what an agent reaching a rule's mail is told to do with it",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
   invariants: [
     {

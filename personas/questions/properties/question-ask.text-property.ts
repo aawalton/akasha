@@ -8,7 +8,7 @@ export const questionAsk = {
   slug: "question-ask",
   propertySlug: "ask",
   definition: "the question as it was put to Alan",
-  max: 4000,
+  maxLength: 4000,
   nameFormatSlug: null,
   invariants: [
     {

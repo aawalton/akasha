@@ -10,7 +10,7 @@ export const keptSenses = {
   slug: "kept-senses",
   propertySlug: "kept-senses",
   definition: "the meanings a word is written in",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

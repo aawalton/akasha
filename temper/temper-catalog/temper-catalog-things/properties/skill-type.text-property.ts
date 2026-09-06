@@ -8,7 +8,7 @@ export const skillType = {
   slug: "skill-type",
   propertySlug: "skill-type",
   definition: "the sort of skill a page is about",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to  a skill type." },

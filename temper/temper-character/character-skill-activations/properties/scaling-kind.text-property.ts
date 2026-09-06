@@ -8,6 +8,6 @@ export const scalingKind = {
   slug: "scaling-kind",
   propertySlug: "scaling-kind",
   definition: "how an effect is worked out from the number it reads",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const zoneName = {
   slug: "zone-name",
   propertySlug: "zone-name",
   definition: "what a zone is called",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

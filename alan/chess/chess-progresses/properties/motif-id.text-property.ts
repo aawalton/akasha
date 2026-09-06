@@ -8,6 +8,6 @@ export const motifId = {
   slug: "motif-id",
   propertySlug: "motif-id",
   definition: "the Lichess theme a motif is named by",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

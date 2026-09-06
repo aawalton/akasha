@@ -37,7 +37,7 @@ export const coachingConstraint = {
       required: true,
       many: false,
     },
-    { pagePropertySlug: "select-property/focus-tags", required: true, many: true, max: null },
+    { pagePropertySlug: "select-property/focus-tags", required: true, many: true, maxCount: null },
     { pagePropertySlug: "select-property/coaching-constraint-kind", required: true, many: false },
     {
       pagePropertySlug: "number-property/coaching-constraint-sort-order",

@@ -8,7 +8,7 @@ export const agentId = {
   slug: "agent-id",
   propertySlug: "agent-id",
   definition: "the id an agent acts under",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

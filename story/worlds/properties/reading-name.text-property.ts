@@ -8,6 +8,6 @@ export const readingName = {
   slug: "reading-name",
   propertySlug: "reading-name",
   definition: "the name as a world's text writes it",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

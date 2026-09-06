@@ -8,6 +8,6 @@ export const skillStatus = {
   slug: "skill-status",
   propertySlug: "status",
   definition: "how far temper works out what a skill does",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

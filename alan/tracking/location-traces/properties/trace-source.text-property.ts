@@ -8,6 +8,6 @@ export const traceSource = {
   slug: "trace-source",
   propertySlug: "source",
   definition: "what put this trace in the store",
-  max: 32,
+  maxLength: 32,
   nameFormatSlug: null,
 } as const satisfies TextProperty

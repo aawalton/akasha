@@ -29,7 +29,7 @@ export const emailRuleMatches = {
       pagePropertySlug: "text-property/email-rule-match-values",
       required: true,
       many: true,
-      max: 50,
+      maxCount: 50,
     },
   ],
   invariants: [

@@ -8,12 +8,16 @@ export const directs = {
   slug: "directs",
   propertySlug: "directs",
   definition: "what an agent settling a transaction is told to weigh",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A direction says the things to weigh, never the decision to make.",
+      statement: "A direction says the things to weigh.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A direction never says the decision to make.",
     },
   ],
 } as const satisfies TextProperty

@@ -15,7 +15,12 @@ export const oneOfProperty = {
   partSlugs: ["relation-property/member-slugs"],
   extendsSlug: ["page-type/page-property"],
   properties: [
-    { pagePropertySlug: "relation-property/member-slugs", required: true, many: true, max: null },
+    {
+      pagePropertySlug: "relation-property/member-slugs",
+      required: true,
+      many: true,
+      maxCount: null,
+    },
   ],
   invariants: [
     {

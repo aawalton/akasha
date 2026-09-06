@@ -8,7 +8,7 @@ export const errorApp = {
   slug: "error-app",
   propertySlug: "app",
   definition: "the web app whose client met an error",
-  max: 32,
+  maxLength: 32,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

@@ -8,6 +8,6 @@ export const badgeVariant = {
   slug: "badge-variant",
   propertySlug: "badge-variant",
   definition: "the color a category is badged in",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

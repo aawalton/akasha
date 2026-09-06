@@ -8,7 +8,7 @@ export const supabaseAuthUserId = {
   slug: "supabase-auth-user-id",
   propertySlug: "supabase-auth-user-id",
   definition: "the account a person signs in with",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/lower-uuid",
   invariants: [
     {

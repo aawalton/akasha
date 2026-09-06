@@ -8,6 +8,6 @@ export const sourceDescription = {
   slug: "source-description",
   propertySlug: "source-description",
   definition: "where a style's motif pages are got, said for a reader",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const designSource = {
   slug: "design-source",
   propertySlug: "source",
   definition: "the work a story is drawn from",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

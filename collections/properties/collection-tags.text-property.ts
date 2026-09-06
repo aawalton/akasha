@@ -8,7 +8,7 @@ export const collectionTags = {
   slug: "collection-tags",
   propertySlug: "tags",
   definition: "a word a person files a collection under",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

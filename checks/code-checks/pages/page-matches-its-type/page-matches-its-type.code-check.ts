@@ -87,18 +87,11 @@ export const pageMatchesItsType = {
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A max on a declaration counts entries and a max on a text property counts characters.",
+      statement: "A count on a declaration counts entries and a length counts characters.",
     },
     {
       invariantKind: "constraint",
-      statement:
-        "A max on a declaration and a max on a text property come from one property page read two ways.",
-    },
-    {
-      invariantKind: "constraint",
-      statement:
-        "A total on a declaration counts the characters of a list's values taken together.",
+      statement: "A declaration's length narrows the length its property states.",
     },
     {
       invariantKind: "constraint",

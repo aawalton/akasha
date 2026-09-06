@@ -8,6 +8,6 @@ export const sources = {
   slug: "sources",
   propertySlug: "sources",
   definition: "where what is written here was read from",
-  max: 20000,
+  maxLength: 20000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

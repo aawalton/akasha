@@ -8,6 +8,6 @@ export const offerType = {
   slug: "offer-type",
   propertySlug: "offer-type",
   definition: "the shape of what the offer gives",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

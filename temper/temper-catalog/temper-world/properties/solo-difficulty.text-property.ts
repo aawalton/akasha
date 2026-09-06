@@ -8,6 +8,6 @@ export const soloDifficulty = {
   slug: "solo-difficulty",
   propertySlug: "solo-difficulty",
   definition: "how hard a dungeon is to get through alone",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -28,6 +28,6 @@ export const temperWeaponType = {
     { pagePropertySlug: "text-property/eso-weapon-type", required: true, many: false },
     { pagePropertySlug: "boolean-property/is-two-handed", required: true, many: false },
     { pagePropertySlug: "number-property/weapon-type-power", required: true, many: false },
-    { pagePropertySlug: "text-property/valid-slots", required: true, many: true, max: null },
+    { pagePropertySlug: "text-property/valid-slots", required: true, many: true, maxCount: null },
   ],
 } as const satisfies PageType

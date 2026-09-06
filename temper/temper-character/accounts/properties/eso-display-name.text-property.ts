@@ -8,6 +8,6 @@ export const esoDisplayName = {
   slug: "eso-display-name",
   propertySlug: "display-name",
   definition: "the name The Elder Scrolls Online shows a thing under",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

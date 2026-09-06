@@ -8,6 +8,6 @@ export const computerModel = {
   slug: "computer-model",
   propertySlug: "computer-model",
   definition: "what the maker calls it",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
 } as const satisfies TextProperty

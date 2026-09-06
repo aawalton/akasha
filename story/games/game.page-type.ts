@@ -119,7 +119,7 @@ export const game = {
     { pagePropertySlug: "text-property/premise", required: false, many: false },
     { pagePropertySlug: "text-property/tone", required: false, many: false },
     { pagePropertySlug: "text-property/reader-framing", required: false, many: false },
-    { pagePropertySlug: "text-property/genre", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/genre", required: false, many: true, maxCount: null },
     { pagePropertySlug: "text-property/themes", required: false, many: false },
     { pagePropertySlug: "boolean-property/maintains-lore", required: false, many: false },
     { pagePropertySlug: "boolean-property/maintains-design", required: false, many: false },

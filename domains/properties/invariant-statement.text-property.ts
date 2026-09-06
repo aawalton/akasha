@@ -8,6 +8,6 @@ export const invariantStatement = {
   slug: "invariant-statement",
   propertySlug: "statement",
   definition: "one sentence an invariant holds a page to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

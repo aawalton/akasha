@@ -8,6 +8,6 @@ export const exclusionReason = {
   slug: "exclusion-reason",
   propertySlug: "exclusion-reason",
   definition: "why this fell off the list of what Alan would buy",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

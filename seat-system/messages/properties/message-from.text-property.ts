@@ -8,12 +8,12 @@ export const messageFrom = {
   slug: "message-from",
   propertySlug: "from",
   definition: "who a message says sent it",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A sender is a seat, a persona or a service that holds no seat.",
+      statement: "A sender is a seat or a persona or a service that holds no seat.",
     },
     {
       invariantKind: "gap",

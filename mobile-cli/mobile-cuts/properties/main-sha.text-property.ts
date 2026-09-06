@@ -8,6 +8,6 @@ export const mainSha = {
   slug: "main-sha",
   propertySlug: "main-sha",
   definition: "the commit of the main repo a cut was built from",
-  max: 40,
+  maxLength: 40,
   nameFormatSlug: null,
 } as const satisfies TextProperty

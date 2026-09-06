@@ -8,6 +8,6 @@ export const writingPhilosophy = {
   slug: "writing-philosophy",
   propertySlug: "writing-philosophy",
   definition: "the rules the writing of a story holds itself to",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

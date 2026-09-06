@@ -8,7 +8,7 @@ export const noticeWarrant = {
   slug: "notice-warrant",
   propertySlug: "warrant",
   definition: "which seat a notice goes to and what editing its words costs",
-  max: 600,
+  maxLength: 600,
   nameFormatSlug: null,
   invariants: [
     {

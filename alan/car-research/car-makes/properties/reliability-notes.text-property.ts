@@ -8,6 +8,6 @@ export const reliabilityNotes = {
   slug: "reliability-notes",
   propertySlug: "reliability-notes",
   definition: "how the make's cars hold up",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

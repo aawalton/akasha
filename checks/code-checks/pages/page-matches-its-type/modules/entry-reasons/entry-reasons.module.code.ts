@@ -88,14 +88,17 @@ export function fieldsOf(
     }
     const field = shaped.pagePropertySlug
     const fieldPage = pageFor(shaped)
-    const max = fieldPage === null ? null : numberAt(fieldPage, "max")
+    const stood = fieldPage === null ? null : numberAt(fieldPage, "maxLength")
+    const max = shaped.maxLength ?? stood
     const format = fieldPage === null ? null : textAt(fieldPage, FORMAT)
     const many = Array.isArray(stated)
-    if (shaped.many && many && shaped.max !== null && stated.length > shaped.max) {
-      said.push(`holds ${stated.length} of \`${slug} ${field}\`, over the max of ${shaped.max}`)
+    if (shaped.many && many && shaped.maxCount !== null && stated.length > shaped.maxCount) {
+      said.push(
+        `holds ${stated.length} of \`${slug} ${field}\`, over the count of ${shaped.maxCount}`
+      )
     }
     if (shaped.many && many) {
-      const why = overTotal(stated, shaped.total, `${slug} ${field}`)
+      const why = overTotal(stated, null, `${slug} ${field}`)
       if (why !== null) said.push(why)
       const twice = twiceIn(stated, `${slug} ${field}`)
       if (twice !== null) said.push(twice)

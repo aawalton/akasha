@@ -8,7 +8,7 @@ export const figureFormat = {
   slug: "figure-format",
   propertySlug: "figure-format",
   definition: "how the number a reading is gets written out",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

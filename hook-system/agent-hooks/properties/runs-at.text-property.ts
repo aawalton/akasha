@@ -24,7 +24,7 @@ export const runsAt = {
   slug: "runs-at",
   propertySlug: "runs-at",
   definition: "the harness events at which a hook is called",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
   invariants: [
     {

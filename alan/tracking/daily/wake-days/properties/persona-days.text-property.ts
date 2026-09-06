@@ -9,7 +9,7 @@ export const personaDays = {
   slug: "persona-days",
   propertySlug: "persona-days",
   definition: "every persona day recorded against a day",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/lower-uuid",
   invariants: [
     {

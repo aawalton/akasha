@@ -71,7 +71,7 @@ export const learnEverythingTopic = {
       pagePropertySlug: "relation-property/topic-part-of-slugs",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "number-property/topic-calibration", required: false, many: false },
     { pagePropertySlug: "text-property/topic-calibration-read", required: false, many: false },

@@ -8,6 +8,6 @@ export const chessSource = {
   slug: "chess-source",
   propertySlug: "source",
   definition: "where a game came from",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const genre = {
   slug: "genre",
   propertySlug: "genre",
   definition: "a kind of story a game belongs to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

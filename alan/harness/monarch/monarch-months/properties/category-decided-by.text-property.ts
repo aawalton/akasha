@@ -8,6 +8,6 @@ export const categoryDecidedBy = {
   slug: "category-decided-by",
   propertySlug: "category-decided-by",
   definition: "who settled a transaction's category and on what evidence",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

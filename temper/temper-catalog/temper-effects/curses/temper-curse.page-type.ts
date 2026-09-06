@@ -17,6 +17,11 @@ export const temperCurse = {
   properties: [
     { pagePropertySlug: "text-property/key", required: true, many: false },
     { pagePropertySlug: "number-property/display-order", required: true, many: false },
-    { pagePropertySlug: "number-property/eso-curse-ids", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "number-property/eso-curse-ids",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
 } as const satisfies PageType

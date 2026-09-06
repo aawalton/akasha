@@ -8,6 +8,6 @@ export const nacsAdoption = {
   slug: "nacs-adoption",
   propertySlug: "nacs-adoption",
   definition: "how far the make has taken up the North American Charging Standard",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

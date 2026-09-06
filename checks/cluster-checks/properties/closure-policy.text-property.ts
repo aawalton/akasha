@@ -8,6 +8,6 @@ export const closurePolicy = {
   slug: "closure-policy",
   propertySlug: "closure-policy",
   definition: "how the files a check reads are worked out",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const refreshNotes = {
   slug: "refresh-notes",
   propertySlug: "refresh-notes",
   definition: "what changed from the model year before",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

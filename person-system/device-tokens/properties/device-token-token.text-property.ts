@@ -8,7 +8,7 @@ export const deviceTokenToken = {
   slug: "device-token-token",
   propertySlug: "token",
   definition: "the value Apple delivers a push to",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: null,
   invariants: [
     {

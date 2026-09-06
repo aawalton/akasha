@@ -8,6 +8,6 @@ export const perceiving = {
   slug: "perceiving",
   propertySlug: "perceiving",
   definition: "what an element takes in",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

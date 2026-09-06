@@ -8,6 +8,6 @@ export const esoCharacterId = {
   slug: "eso-character-id",
   propertySlug: "eso-character-id",
   definition: "the character The Elder Scrolls Online names by this",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

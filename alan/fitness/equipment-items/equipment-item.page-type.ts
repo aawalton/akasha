@@ -44,19 +44,31 @@ export const equipmentItem = {
     { pagePropertySlug: "select-property/equipment-category", required: true, many: false },
     { pagePropertySlug: "select-property/equipment-configuration", required: true, many: false },
     { pagePropertySlug: "boolean-property/equipment-available", required: true, many: false },
-    { pagePropertySlug: "number-property/equipment-loads", required: false, many: true, max: 20 },
+    {
+      pagePropertySlug: "number-property/equipment-loads",
+      required: false,
+      many: true,
+      maxCount: 20,
+    },
     { pagePropertySlug: "text-property/equipment-notes", required: false, many: false },
     { pagePropertySlug: "number-property/equipment-sort-order", required: false, many: false },
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A piece of kit Alan owns is its own page, apart from the kit vocabulary a movement is tagged with.",
+      statement: "A piece of kit Alan owns is its own page.",
     },
     {
       invariantKind: "departure",
-      statement: "A piece Alan has not bought yet is a page, and says so by being unavailable.",
+      statement: "The kit vocabulary a movement is tagged with is apart from those pages.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A piece Alan has not bought yet is a page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A piece Alan has not bought yet is unavailable.",
     },
   ],
 } as const satisfies PageType

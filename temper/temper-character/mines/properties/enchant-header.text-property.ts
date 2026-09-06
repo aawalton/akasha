@@ -8,6 +8,6 @@ export const enchantHeader = {
   slug: "enchant-header",
   propertySlug: "enchant-header",
   definition: "the line an item's enchantment is shown under",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

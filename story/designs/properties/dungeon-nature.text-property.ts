@@ -8,6 +8,6 @@ export const dungeonNature = {
   slug: "dungeon-nature",
   propertySlug: "dungeon-nature",
   definition: "what the dungeon a story is set in is",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

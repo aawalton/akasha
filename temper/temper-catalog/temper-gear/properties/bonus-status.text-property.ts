@@ -8,7 +8,7 @@ export const bonusStatus = {
   slug: "bonus-status",
   propertySlug: "status",
   definition: "how far temper models what a set bonus does",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

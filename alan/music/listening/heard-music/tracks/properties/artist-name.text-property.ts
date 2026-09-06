@@ -8,7 +8,7 @@ export const artistName = {
   slug: "artist-name",
   propertySlug: "artist-name",
   definition: "the name Spotify gives an artist",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

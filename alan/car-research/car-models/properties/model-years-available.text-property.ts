@@ -8,6 +8,6 @@ export const modelYearsAvailable = {
   slug: "model-years-available",
   propertySlug: "model-years-available",
   definition: "the model years the nameplate was sold in",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
 } as const satisfies TextProperty

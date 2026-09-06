@@ -8,6 +8,6 @@ export const wording = {
   slug: "wording",
   propertySlug: "wording",
   definition: "the name as that one place in the text wrote it",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

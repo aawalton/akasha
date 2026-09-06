@@ -8,7 +8,7 @@ export const rotatedSessionUuid = {
   slug: "rotated-session-uuid",
   propertySlug: "rotated-session-uuid",
   definition: "the session a seat was cleared into, before it is bound to it",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/lower-uuid",
   invariants: [
     {

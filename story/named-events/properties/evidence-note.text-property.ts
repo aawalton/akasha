@@ -8,6 +8,6 @@ export const evidenceNote = {
   slug: "evidence-note",
   propertySlug: "evidence-note",
   definition: "the wording it was placed from, and who placed it",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
 } as const satisfies TextProperty

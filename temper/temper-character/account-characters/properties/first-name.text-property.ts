@@ -8,6 +8,6 @@ export const firstName = {
   slug: "first-name",
   propertySlug: "first-name",
   definition: "what a character is called for short",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const topicNode = {
   slug: "topic-node",
   propertySlug: "node",
   definition: "the names of a topic and of every topic above it",
-  max: 300,
+  maxLength: 300,
   nameFormatSlug: null,
 } as const satisfies TextProperty

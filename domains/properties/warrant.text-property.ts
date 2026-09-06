@@ -8,6 +8,6 @@ export const warrant = {
   slug: "warrant",
   propertySlug: "warrant",
   definition: "the general fact an act follows from",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -79,12 +79,12 @@ export const workstationService = {
     "module/tick-ratchet",
   ],
   properties: [
-    { pagePropertySlug: "text-property/runs", required: true, many: true, max: null },
+    { pagePropertySlug: "text-property/runs", required: true, many: true, maxCount: null },
     { pagePropertySlug: "boolean-property/enabled", required: true, many: false },
     { pagePropertySlug: "record-property/systemd", required: false, many: false },
     { pagePropertySlug: "boolean-property/needs-secrets", required: false, many: false },
     { pagePropertySlug: "number-property/port", required: false, many: false },
-    { pagePropertySlug: "text-property/binds", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/binds", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {

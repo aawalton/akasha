@@ -8,6 +8,6 @@ export const effortLevel = {
   slug: "effort-level",
   propertySlug: "effort-level",
   definition: "how much reasoning a seat spends before it answers",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

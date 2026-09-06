@@ -8,6 +8,6 @@ export const gbwwPlanKey = {
   slug: "gbww-plan-key",
   propertySlug: "plan-key",
   definition: "the name the plan gives a reading",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

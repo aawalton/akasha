@@ -8,6 +8,6 @@ export const backHref = {
   slug: "back-href",
   propertySlug: "back-href",
   definition: "where the way back out of a nav item leads",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

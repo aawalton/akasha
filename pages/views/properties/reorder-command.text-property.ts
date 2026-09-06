@@ -8,6 +8,6 @@ export const reorderCommand = {
   slug: "reorder-command",
   propertySlug: "reorder-command",
   definition: "the command a view hands a reordering to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

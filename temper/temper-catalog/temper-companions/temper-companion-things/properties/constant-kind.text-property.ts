@@ -8,6 +8,6 @@ export const constantKind = {
   slug: "constant-kind",
   propertySlug: "kind",
   definition: "the sort of value a game constant holds",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

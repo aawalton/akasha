@@ -8,6 +8,6 @@ export const openingName = {
   slug: "opening-name",
   propertySlug: "opening-name",
   definition: "the opening a game was played into",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

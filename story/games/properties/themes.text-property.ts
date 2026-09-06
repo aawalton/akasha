@@ -8,6 +8,6 @@ export const themes = {
   slug: "themes",
   propertySlug: "themes",
   definition: "what a game keeps returning to, said in a line",
-  max: 300,
+  maxLength: 300,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,7 +8,7 @@ export const mediaSourcePropertyId = {
   slug: "media-source-property-id",
   propertySlug: "source-property-id",
   definition: "the key of the property a page's audio is rendered from",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: null,
   invariants: [
     {

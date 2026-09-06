@@ -8,6 +8,6 @@ export const eventAliases = {
   slug: "event-aliases",
   propertySlug: "aliases",
   definition: "the other names the story calls it by",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
 } as const satisfies TextProperty

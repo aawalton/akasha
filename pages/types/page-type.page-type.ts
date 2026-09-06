@@ -87,8 +87,13 @@ export const pageType = {
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "relation-property/extends-slug", required: true, many: true, max: null },
-    { pagePropertySlug: "record-property/properties", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "relation-property/extends-slug",
+      required: true,
+      many: true,
+      maxCount: null,
+    },
+    { pagePropertySlug: "record-property/properties", required: false, many: true, maxCount: null },
     { pagePropertySlug: "boolean-property/mortal", required: false, many: false },
     { pagePropertySlug: "text-property/plural-slug", required: true, many: false },
     { pagePropertySlug: "relation-property/loaded-by-slug", required: false, many: false },

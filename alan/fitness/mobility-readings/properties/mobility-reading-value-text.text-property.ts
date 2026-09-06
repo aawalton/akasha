@@ -8,6 +8,6 @@ export const mobilityReadingValueText = {
   slug: "mobility-reading-value-text",
   propertySlug: "mobility-reading-value-text",
   definition: "the reading as it was written down",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

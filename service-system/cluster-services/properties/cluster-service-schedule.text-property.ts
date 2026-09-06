@@ -8,7 +8,7 @@ export const clusterServiceSchedule = {
   slug: "cluster-service-schedule",
   propertySlug: "schedule",
   definition: "the times the cluster starts a workload",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

@@ -8,7 +8,7 @@ export const personAuthorityTarget = {
   slug: "person-authority-target",
   propertySlug: "target",
   definition: "the area the authority covers",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

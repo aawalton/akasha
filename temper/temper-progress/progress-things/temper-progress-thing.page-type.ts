@@ -48,7 +48,7 @@ export const temperProgressThing = {
       pagePropertySlug: "text-property/completion-item-path",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "text-property/scope", required: false, many: false },
     { pagePropertySlug: "text-property/priority", required: false, many: false },

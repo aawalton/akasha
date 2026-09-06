@@ -8,5 +8,5 @@ export const gameUrl = {
   slug: "game-url",
   propertySlug: "game-url",
   definition: "the game a puzzle was taken from",
-  max: 200,
+  maxLength: 200,
 } as const satisfies UrlProperty

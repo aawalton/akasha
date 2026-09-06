@@ -8,7 +8,7 @@ export const resourceKind = {
   slug: "resource-kind",
   propertySlug: "resource-kind",
   definition: "the kind of cluster resource a service is",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
   invariants: [
     {

@@ -8,6 +8,6 @@ export const smsConsentTextVersion = {
   slug: "sms-consent-text-version",
   propertySlug: "consent-text-version",
   definition: "which wording of the agreement the person was shown",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
 } as const satisfies TextProperty

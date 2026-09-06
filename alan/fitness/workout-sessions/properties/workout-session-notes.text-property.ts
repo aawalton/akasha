@@ -8,6 +8,6 @@ export const workoutSessionNotes = {
   slug: "workout-session-notes",
   propertySlug: "notes",
   definition: "what the session found, written as it closed",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

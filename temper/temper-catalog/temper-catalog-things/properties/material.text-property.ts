@@ -8,6 +8,6 @@ export const material = {
   slug: "material",
   propertySlug: "material",
   definition: "what a trait is worked into a piece with",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

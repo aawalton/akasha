@@ -8,6 +8,6 @@ export const pointsSourcePointField = {
   slug: "points-source-point-field",
   propertySlug: "point-field",
   definition: "which value on each counted thing is the points it is worth",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

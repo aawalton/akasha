@@ -8,7 +8,7 @@ export const valueSlug = {
   slug: "value-slug",
   propertySlug: "value-slug",
   definition: "the value a persona represents",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

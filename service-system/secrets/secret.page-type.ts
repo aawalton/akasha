@@ -21,7 +21,7 @@ export const secret = {
     "text-property/secret-value",
   ],
   properties: [
-    { pagePropertySlug: "record-property/placements", required: true, many: true, max: null },
+    { pagePropertySlug: "record-property/placements", required: true, many: true, maxCount: null },
     { pagePropertySlug: "text-property/secret-value", required: false, many: false, secret: true },
   ],
   invariants: [

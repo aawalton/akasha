@@ -8,7 +8,7 @@ export const emailRuleCodeDelay = {
   slug: "email-rule-code-delay",
   propertySlug: "delay",
   definition: "how long after mail arrives before the rule acts on it",
-  max: 10,
+  maxLength: 10,
   nameFormatSlug: null,
   invariants: [
     {

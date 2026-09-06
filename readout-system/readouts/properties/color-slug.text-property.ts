@@ -8,7 +8,7 @@ export const colorSlug = {
   slug: "color-slug",
   propertySlug: "color-slug",
   definition: "the color a reading is always drawn in",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

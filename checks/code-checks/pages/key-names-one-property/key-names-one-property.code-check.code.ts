@@ -133,8 +133,19 @@ export function looseningIn(nearer: Declared, further: Declared): string | null 
   if (nearer.many !== further.many) {
     return `\`many\` turns from \`${further.many}\` to \`${nearer.many}\``
   }
-  if (further.max !== null && (nearer.max === null || nearer.max > further.max)) {
-    return `\`max\` rises from \`${further.max}\` to \`${nearer.max === null ? "none" : nearer.max}\``
+  if (
+    further.maxCount !== null &&
+    (nearer.maxCount === null || nearer.maxCount > further.maxCount)
+  ) {
+    const said = nearer.maxCount === null ? "none" : nearer.maxCount
+    return `\`max-count\` rises from \`${further.maxCount}\` to \`${said}\``
+  }
+  if (
+    further.maxLength !== null &&
+    (nearer.maxLength === null || nearer.maxLength > further.maxLength)
+  ) {
+    const said = nearer.maxLength === null ? "none" : nearer.maxLength
+    return `\`max-length\` rises from \`${further.maxLength}\` to \`${said}\``
   }
   if (widthOf(nearer) > widthOf(further)) {
     return `\`unique\` widens from \`${reachIn(further)}\` to \`${reachIn(nearer)}\``

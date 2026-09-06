@@ -8,6 +8,6 @@ export const fullName = {
   slug: "full-name",
   propertySlug: "full-name",
   definition: "the name a row is shown under where there is room for it",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const generatorRanForVersion = {
   slug: "generator-ran-for-version",
   propertySlug: "generator-ran-for-version",
   definition: "the game build the generator last ran for",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

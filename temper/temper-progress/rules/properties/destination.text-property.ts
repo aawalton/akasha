@@ -8,6 +8,6 @@ export const destination = {
   slug: "destination",
   propertySlug: "destination",
   definition: "where a rule moving an item puts the item",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
 } as const satisfies TextProperty

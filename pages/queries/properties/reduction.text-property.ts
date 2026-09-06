@@ -8,7 +8,7 @@ export const reduction = {
   slug: "reduction",
   propertySlug: "reduction",
   definition: "how a query works the pages that passed down to one number",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
   invariants: [
     {

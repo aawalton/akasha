@@ -8,6 +8,6 @@ export const limitMemory = {
   slug: "limit-memory",
   propertySlug: "limit-memory",
   definition: "the memory a pod is held to",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

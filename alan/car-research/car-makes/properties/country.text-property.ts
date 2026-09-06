@@ -8,6 +8,6 @@ export const country = {
   slug: "country",
   propertySlug: "country",
   definition: "where the make is headquartered",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

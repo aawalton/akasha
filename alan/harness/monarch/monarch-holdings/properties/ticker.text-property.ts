@@ -8,6 +8,6 @@ export const ticker = {
   slug: "ticker",
   propertySlug: "ticker",
   definition: "the short name a security trades under",
-  max: 12,
+  maxLength: 12,
   nameFormatSlug: null,
 } as const satisfies TextProperty

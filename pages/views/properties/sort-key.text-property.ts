@@ -8,6 +8,6 @@ export const sortKey = {
   slug: "sort-key",
   propertySlug: "key",
   definition: "a property a view orders its pages by",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

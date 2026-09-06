@@ -8,6 +8,6 @@ export const esoTraitConstantName = {
   slug: "eso-trait-constant-name",
   propertySlug: "eso-trait-constant-name",
   definition: "the constant The Elder Scrolls Online names a trait by in its own code",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: "name-format/upper-snake-case",
 } as const satisfies TextProperty

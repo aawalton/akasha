@@ -25,7 +25,7 @@ export const effects = {
       pagePropertySlug: "text-property/effect-weapon-types",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "boolean-property/per-weapon", required: false, many: false },
   ],

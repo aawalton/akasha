@@ -8,6 +8,6 @@ export const tags = {
   slug: "tags",
   propertySlug: "tags",
   definition: "a note about how a skill behaves",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

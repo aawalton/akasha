@@ -8,7 +8,7 @@ export const title = {
   slug: "title",
   propertySlug: "title",
   definition: "the name a thing is shown under",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

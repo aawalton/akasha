@@ -8,6 +8,6 @@ export const nodeKind = {
   slug: "node-kind",
   propertySlug: "node-kind",
   definition: "the sort of tree node a dispatch names",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const notificationLink = {
   slug: "notification-link",
   propertySlug: "link",
   definition: "where a tap on a notification takes the person",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
 } as const satisfies TextProperty

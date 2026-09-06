@@ -8,6 +8,6 @@ export const scriptType = {
   slug: "script-type",
   propertySlug: "script-type",
   definition: "which of the three scripts a scribing source yields",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

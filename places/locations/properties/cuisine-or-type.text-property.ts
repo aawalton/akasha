@@ -8,6 +8,6 @@ export const cuisineOrType = {
   slug: "cuisine-or-type",
   propertySlug: "cuisine-or-type",
   definition: "what the place serves",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

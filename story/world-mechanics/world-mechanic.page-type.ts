@@ -67,14 +67,19 @@ export const worldMechanic = {
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "relation-property/world-slug", required: true, many: false },
-    { pagePropertySlug: "text-property/aliases", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/aliases", required: false, many: true, maxCount: null },
     {
       pagePropertySlug: "text-property/evolves-from-slugs",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
-    { pagePropertySlug: "text-property/evolves-to-slugs", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "text-property/evolves-to-slugs",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
     { pagePropertySlug: "page-property-entry/references", required: false, many: false },
   ],
   invariants: [

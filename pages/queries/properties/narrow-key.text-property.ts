@@ -8,7 +8,7 @@ export const narrowKey = {
   slug: "narrow-key",
   propertySlug: "key",
   definition: "the key one narrow reads off a page",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

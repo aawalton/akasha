@@ -8,7 +8,7 @@ export const openQuestion = {
   slug: "open-question",
   propertySlug: "ask",
   definition: "what is still open about a topic, put as one question",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

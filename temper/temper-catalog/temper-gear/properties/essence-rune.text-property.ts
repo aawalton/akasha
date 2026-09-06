@@ -8,6 +8,6 @@ export const essenceRune = {
   slug: "essence-rune",
   propertySlug: "essence-rune",
   definition: "the rune deciding which enchant a glyph carries",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const calendarSourceSyncStatus = {
   slug: "calendar-source-sync-status",
   propertySlug: "sync-status",
   definition: "whether a source is still read on a pass",
-  max: 400,
+  maxLength: 400,
   nameFormatSlug: null,
 } as const satisfies TextProperty

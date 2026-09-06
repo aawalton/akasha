@@ -8,7 +8,7 @@ export const posterPath = {
   slug: "poster-path",
   propertySlug: "poster-path",
   definition: "the path to the artwork representing a collection",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

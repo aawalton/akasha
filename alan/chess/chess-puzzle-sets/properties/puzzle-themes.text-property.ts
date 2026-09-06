@@ -8,6 +8,6 @@ export const puzzleThemes = {
   slug: "puzzle-themes",
   propertySlug: "themes",
   definition: "the motif a puzzle is built around",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,13 +8,13 @@ export const loadScroll = {
   slug: "load-scroll",
   propertySlug: "load-scroll",
   definition: "the place in a page the reader is put at as the page opens",
-  max: 8,
+  maxLength: 8,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {
       invariantKind: "departure",
       statement:
-        "A page opens at its start, at its end, at its newest part, or where reading stopped.",
+        "A page opens at its start or its end or its newest part or where reading stopped.",
     },
     {
       invariantKind: "departure",

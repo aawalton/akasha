@@ -8,6 +8,6 @@ export const effectType = {
   slug: "effect-type",
   propertySlug: "type",
   definition: "how an effect's value is read against the metric the effect moves",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

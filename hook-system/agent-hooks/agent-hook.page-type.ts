@@ -34,8 +34,8 @@ export const agentHook = {
   ],
   extendsSlug: ["page-type/module"],
   properties: [
-    { pagePropertySlug: "text-property/runs-at", required: true, many: true, max: null },
-    { pagePropertySlug: "text-property/over-tools", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/runs-at", required: true, many: true, maxCount: null },
+    { pagePropertySlug: "text-property/over-tools", required: false, many: true, maxCount: null },
   ],
   invariants: [
     {

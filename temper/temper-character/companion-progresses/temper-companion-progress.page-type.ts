@@ -21,7 +21,7 @@ export const temperCompanionProgress = {
       pagePropertySlug: "relation-property/companion-roles",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
   ],
 } as const satisfies PageType

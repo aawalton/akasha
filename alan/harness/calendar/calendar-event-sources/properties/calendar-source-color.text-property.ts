@@ -8,6 +8,6 @@ export const calendarSourceColor = {
   slug: "calendar-source-color",
   propertySlug: "color",
   definition: "the color a source's events are shown in",
-  max: 400,
+  maxLength: 400,
   nameFormatSlug: null,
 } as const satisfies TextProperty

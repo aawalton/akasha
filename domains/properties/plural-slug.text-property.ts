@@ -8,7 +8,7 @@ export const pluralSlug = {
   slug: "plural-slug",
   propertySlug: "plural-slug",
   definition: "the slug for many of what a domain is about",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

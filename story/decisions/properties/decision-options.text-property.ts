@@ -8,6 +8,6 @@ export const decisionOptions = {
   slug: "decision-options",
   propertySlug: "options",
   definition: "what a decision could have settled on",
-  max: 20000,
+  maxLength: 20000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

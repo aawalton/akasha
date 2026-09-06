@@ -19,7 +19,7 @@ export const skillEffects = {
       pagePropertySlug: "record-property/effect-conditions",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "number-property/cooldown", required: false, many: false },
     { pagePropertySlug: "number-property/effect-count", required: false, many: false },

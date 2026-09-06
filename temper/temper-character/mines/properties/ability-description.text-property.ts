@@ -8,6 +8,6 @@ export const abilityDescription = {
   slug: "ability-description",
   propertySlug: "ability-description",
   definition: "what an item's own ability does",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const sourceName = {
   slug: "source-name",
   propertySlug: "source-name",
   definition: "what recorded a reading",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const slottedBehavior = {
   slug: "slotted-behavior",
   propertySlug: "slotted-behavior",
   definition: "which bar a slotted ability holds its effect on",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

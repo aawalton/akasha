@@ -49,7 +49,7 @@ export const personaCraftDay = {
       pagePropertySlug: "relation-property/personas-crafted-slugs",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "number-property/new-persona-count", required: false, many: false },
     { pagePropertySlug: "number-property/improvement-count", required: false, many: false },

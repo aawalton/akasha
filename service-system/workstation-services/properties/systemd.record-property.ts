@@ -50,8 +50,8 @@ export const systemd = {
   propertySlug: "systemd",
   definition: "what the unit installed for a service states",
   properties: [
-    { pagePropertySlug: "text-property/after", required: false, many: true, max: null },
-    { pagePropertySlug: "text-property/wants", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/after", required: false, many: true, maxCount: null },
+    { pagePropertySlug: "text-property/wants", required: false, many: true, maxCount: null },
     { pagePropertySlug: "text-property/part-of", required: false, many: false },
     { pagePropertySlug: "select-property/restart", required: false, many: false },
     { pagePropertySlug: "number-property/restart-delay-seconds", required: false, many: false },
@@ -59,7 +59,7 @@ export const systemd = {
     { pagePropertySlug: "number-property/success-exit-status", required: false, many: false },
     { pagePropertySlug: "number-property/start-timeout-seconds", required: false, many: false },
     { pagePropertySlug: "number-property/stop-timeout-seconds", required: false, many: false },
-    { pagePropertySlug: "text-property/stops", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/stops", required: false, many: true, maxCount: null },
     {
       pagePropertySlug: "number-property/start-limit-interval-seconds",
       required: false,

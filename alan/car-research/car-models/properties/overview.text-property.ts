@@ -8,6 +8,6 @@ export const overview = {
   slug: "overview",
   propertySlug: "overview",
   definition: "what the model is, in a paragraph",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const targetKind = {
   slug: "target-kind",
   propertySlug: "type",
   definition: "who or what an effect lands on",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

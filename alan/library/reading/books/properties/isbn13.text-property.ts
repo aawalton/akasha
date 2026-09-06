@@ -8,6 +8,6 @@ export const isbn13 = {
   slug: "isbn13",
   propertySlug: "isbn13",
   definition: "the thirteen-digit number an edition is catalogued under now",
-  max: 13,
+  maxLength: 13,
   nameFormatSlug: null,
 } as const satisfies TextProperty

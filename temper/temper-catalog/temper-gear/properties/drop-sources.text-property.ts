@@ -10,7 +10,7 @@ export const dropSources = {
   slug: "drop-sources",
   propertySlug: "drop-sources",
   definition: "the daily errands a style's motif pages drop from",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a scribing source." },

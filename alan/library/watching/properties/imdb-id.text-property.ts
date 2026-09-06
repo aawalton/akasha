@@ -8,7 +8,7 @@ export const imdbId = {
   slug: "imdb-id",
   propertySlug: "imdb-id",
   definition: "the id IMDb gives a show or a film",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
   invariants: [
     {

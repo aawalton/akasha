@@ -8,13 +8,16 @@ export const alertSummary = {
   slug: "alert-summary",
   propertySlug: "summary",
   definition: "the line shown when an alert is raised",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A summary carries the labels of the rule raising the alert, written in a template.",
+      statement: "A summary carries the labels of the rule raising the alert.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A summary is written in a template.",
     },
     {
       invariantKind: "departure",

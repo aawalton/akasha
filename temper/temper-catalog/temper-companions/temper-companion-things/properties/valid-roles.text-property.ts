@@ -8,6 +8,6 @@ export const validRoles = {
   slug: "valid-roles",
   propertySlug: "valid-roles",
   definition: "a role a skill suits",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

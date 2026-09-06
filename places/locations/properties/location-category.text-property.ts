@@ -8,6 +8,6 @@ export const locationCategory = {
   slug: "location-category",
   propertySlug: "location-category",
   definition: "what kind of place it is",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

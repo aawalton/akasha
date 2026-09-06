@@ -8,7 +8,7 @@ export const queryArgument = {
   slug: "query-argument",
   propertySlug: "query-argument",
   definition: "the argument a reading's query takes its key as",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

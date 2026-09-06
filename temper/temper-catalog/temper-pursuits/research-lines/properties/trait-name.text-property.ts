@@ -8,6 +8,6 @@ export const traitName = {
   slug: "trait-name",
   propertySlug: "trait-name",
   definition: "the name a researchable trait is shown under",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

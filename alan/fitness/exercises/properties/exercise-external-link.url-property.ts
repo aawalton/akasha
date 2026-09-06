@@ -8,5 +8,5 @@ export const exerciseExternalLink = {
   slug: "exercise-external-link",
   propertySlug: "exercise-external-link",
   definition: "where the movement is described in the catalogue it came from",
-  max: 200,
+  maxLength: 200,
 } as const satisfies UrlProperty

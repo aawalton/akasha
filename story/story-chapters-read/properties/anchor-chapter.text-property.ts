@@ -8,6 +8,6 @@ export const anchorChapter = {
   slug: "anchor-chapter",
   propertySlug: "chapter",
   definition: "the chapter the dating words are in",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

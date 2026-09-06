@@ -8,6 +8,6 @@ export const constantId = {
   slug: "constant-id",
   propertySlug: "constant-id",
   definition: "the value within its group a constant answers to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

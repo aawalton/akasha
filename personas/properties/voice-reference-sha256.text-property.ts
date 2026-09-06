@@ -8,6 +8,6 @@ export const voiceReferenceSha256 = {
   slug: "voice-reference-sha256",
   propertySlug: "voice-reference-sha256",
   definition: "the checksum of the recording a persona's voice is copied from",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: null,
 } as const satisfies TextProperty

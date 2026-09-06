@@ -8,7 +8,7 @@ export const nodeId = {
   slug: "node-id",
   propertySlug: "node-id",
   definition: "the name a node answers to inside its own tree",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a node of the same tree." },

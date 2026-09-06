@@ -8,6 +8,6 @@ export const weaponSkillLineId = {
   slug: "weapon-skill-line-id",
   propertySlug: "weapon-skill-line-id",
   definition: "the skill line a weapon pairing draws from",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

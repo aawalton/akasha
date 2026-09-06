@@ -8,7 +8,7 @@ export const claudeCodeSessionUuid = {
   slug: "claude-code-session-uuid",
   propertySlug: "claude-code-session-uuid",
   definition: "the session an agent in a seat is answering in",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/lower-uuid",
   invariants: [
     {

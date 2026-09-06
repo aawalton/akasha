@@ -11,7 +11,7 @@ export const overTools = {
   slug: "over-tools",
   propertySlug: "over-tools",
   definition: "the tools whose calls a hook judges",
-  max: 60,
+  maxLength: 60,
   nameFormatSlug: null,
   invariants: [
     {

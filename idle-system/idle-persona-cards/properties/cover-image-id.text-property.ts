@@ -8,6 +8,6 @@ export const coverImageId = {
   slug: "cover-image-id",
   propertySlug: "cover-image-id",
   definition: "the picture a card is shown by",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/lower-uuid",
 } as const satisfies TextProperty

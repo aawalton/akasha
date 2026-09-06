@@ -8,6 +8,6 @@ export const caseAnswer = {
   slug: "case-answer",
   propertySlug: "answer",
   definition: "the answer a case is labelled with",
-  max: 3,
+  maxLength: 3,
   nameFormatSlug: null,
 } as const satisfies TextProperty

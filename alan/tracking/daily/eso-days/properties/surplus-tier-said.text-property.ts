@@ -8,7 +8,7 @@ export const surplusTierSaid = {
   slug: "surplus-tier-said",
   propertySlug: "surplus-tier-said",
   definition: "the lowest rung Alan was told his surplus had fallen to on a day",
-  max: 6,
+  maxLength: 6,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

@@ -8,6 +8,6 @@ export const setName = {
   slug: "set-name",
   propertySlug: "set-name",
   definition: "what the set an item belongs to is called",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

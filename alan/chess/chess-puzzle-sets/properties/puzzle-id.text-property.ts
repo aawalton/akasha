@@ -8,6 +8,6 @@ export const puzzleId = {
   slug: "puzzle-id",
   propertySlug: "puzzle-id",
   definition: "the id Lichess gives a puzzle",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

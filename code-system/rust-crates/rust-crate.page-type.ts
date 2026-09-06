@@ -31,7 +31,7 @@ export const rustCrate = {
       pagePropertySlug: "relation-property/rust-module-slugs",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "named-file-property/cargo-build-script", required: false, many: false },
     { pagePropertySlug: "file-property/crate-icon", required: false, many: false },

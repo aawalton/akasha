@@ -8,7 +8,7 @@ export const masteryBehaviour = {
   slug: "mastery-behaviour",
   propertySlug: "behaviour",
   definition: "what Alan does in an interview at a rung",
-  max: 400,
+  maxLength: 400,
   nameFormatSlug: null,
   invariants: [
     {

@@ -8,6 +8,6 @@ export const conditionKind = {
   slug: "condition-kind",
   propertySlug: "type",
   definition: "what one test inside an effect reads",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

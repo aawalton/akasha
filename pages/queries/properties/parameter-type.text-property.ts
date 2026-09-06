@@ -15,7 +15,7 @@ export const parameterType = {
   slug: "parameter-type",
   propertySlug: "type",
   definition: "the type one value a query is given holds",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
   invariants: [
     {

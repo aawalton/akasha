@@ -8,6 +8,6 @@ export const helpArgChoices = {
   slug: "help-arg-choices",
   propertySlug: "choices",
   definition: "one value a flag accepts, where the accepted values are named",
-  max: 60,
+  maxLength: 60,
   nameFormatSlug: null,
 } as const satisfies TextProperty

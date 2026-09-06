@@ -9,7 +9,7 @@ export const images = {
   slug: "images",
   propertySlug: "images",
   definition: "every picture a card has been drawn as",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/lower-uuid",
   invariants: [
     {

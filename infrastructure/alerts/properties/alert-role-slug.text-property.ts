@@ -8,6 +8,6 @@ export const alertRoleSlug = {
   slug: "alert-role-slug",
   propertySlug: "role-slug",
   definition: "the role an alert is for",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

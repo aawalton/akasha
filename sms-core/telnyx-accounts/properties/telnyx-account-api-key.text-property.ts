@@ -8,6 +8,6 @@ export const telnyxAccountApiKey = {
   slug: "telnyx-account-api-key",
   propertySlug: "api-key",
   definition: "what authorises a send",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

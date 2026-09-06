@@ -8,6 +8,6 @@ export const locationSource = {
   slug: "location-source",
   propertySlug: "location-source",
   definition: "where the place came from",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
 } as const satisfies TextProperty

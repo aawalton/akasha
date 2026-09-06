@@ -8,7 +8,7 @@ export const scriptureBook = {
   slug: "scripture-book",
   propertySlug: "book",
   definition: "the book of scripture a passage is in",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

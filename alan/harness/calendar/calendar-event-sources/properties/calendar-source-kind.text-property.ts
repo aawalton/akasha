@@ -8,6 +8,6 @@ export const calendarSourceKind = {
   slug: "calendar-source-kind",
   propertySlug: "kind",
   definition: "the sort of calendar a source publishes",
-  max: 400,
+  maxLength: 400,
   nameFormatSlug: null,
 } as const satisfies TextProperty

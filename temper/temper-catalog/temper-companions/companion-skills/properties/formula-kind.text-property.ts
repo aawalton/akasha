@@ -8,6 +8,6 @@ export const formulaKind = {
   slug: "formula-kind",
   propertySlug: "type",
   definition: "how an effect works out the number it carries",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

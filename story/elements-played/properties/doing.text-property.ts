@@ -8,6 +8,6 @@ export const doing = {
   slug: "doing",
   propertySlug: "doing",
   definition: "how an element acts",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const tokenName = {
   slug: "token-name",
   propertySlug: "token-name",
   definition: "the name a token is shown under where tokens are listed",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

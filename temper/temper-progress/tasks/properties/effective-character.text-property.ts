@@ -8,7 +8,7 @@ export const effectiveCharacter = {
   slug: "effective-character",
   propertySlug: "effective-character",
   definition: "the character a rotating task falls to for its current turn",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a character." }],
 } as const satisfies TextProperty

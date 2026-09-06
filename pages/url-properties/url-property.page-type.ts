@@ -1,9 +1,9 @@
 import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
-import type { Max } from "../types/page-properties/properties/max.number-property.ts"
+import type { MaxLength } from "../types/page-properties/properties/max-length.number-property.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
 
 export type UrlProperty = PageProperty & {
-  max: Max
+  maxLength: MaxLength
 }
 
 export const urlProperty = {
@@ -13,7 +13,7 @@ export const urlProperty = {
   definition: "a page property holding a web address",
   pluralSlug: "url-properties",
   extendsSlug: ["page-type/page-property"],
-  properties: [{ pagePropertySlug: "number-property/max", required: true, many: false }],
+  properties: [{ pagePropertySlug: "number-property/max-length", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

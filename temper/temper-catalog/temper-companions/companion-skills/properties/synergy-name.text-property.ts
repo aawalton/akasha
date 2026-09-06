@@ -8,6 +8,6 @@ export const synergyName = {
   slug: "synergy-name",
   propertySlug: "name",
   definition: "what the game calls the synergy a skill offers",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

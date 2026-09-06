@@ -8,7 +8,7 @@ export const skillLineClass = {
   slug: "skill-line-class",
   propertySlug: "class",
   definition: "the class a skill line belongs to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

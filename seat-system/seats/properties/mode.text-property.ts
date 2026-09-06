@@ -8,7 +8,7 @@ export const mode = {
   slug: "mode",
   propertySlug: "mode",
   definition: "the mode an agent in a seat is running in",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

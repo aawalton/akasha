@@ -8,6 +8,6 @@ export const smsConsentIpAddress = {
   slug: "sms-consent-ip-address",
   propertySlug: "ip-address",
   definition: "the address the agreement was sent from",
-  max: 45,
+  maxLength: 45,
   nameFormatSlug: null,
 } as const satisfies TextProperty

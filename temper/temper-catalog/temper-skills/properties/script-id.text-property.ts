@@ -8,7 +8,7 @@ export const scriptId = {
   slug: "script-id",
   propertySlug: "script-id",
   definition: "the script an entry is about",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

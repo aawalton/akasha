@@ -8,7 +8,7 @@ export const guildName = {
   slug: "guild-name",
   propertySlug: "guild-name",
   definition: "the guild whose store an item went through",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a guild." }],
 } as const satisfies TextProperty

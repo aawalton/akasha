@@ -8,7 +8,7 @@ export const sortBy = {
   slug: "sort-by",
   propertySlug: "sort-by",
   definition: "the key a query orders its answer by",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

@@ -8,7 +8,7 @@ export const resourceName = {
   slug: "resource-name",
   propertySlug: "resource-name",
   definition: "the name a resource carries in the cluster",
-  max: 63,
+  maxLength: 63,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

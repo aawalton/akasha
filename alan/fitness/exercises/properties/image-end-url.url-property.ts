@@ -8,5 +8,5 @@ export const imageEndUrl = {
   slug: "image-end-url",
   propertySlug: "image-end-url",
   definition: "a picture of the movement at its finish",
-  max: 200,
+  maxLength: 200,
 } as const satisfies UrlProperty

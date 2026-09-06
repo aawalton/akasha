@@ -8,7 +8,7 @@ export const pointsSourceWeightField = {
   slug: "points-source-weight-field",
   propertySlug: "weight-field",
   definition: "which value on each counted thing decides how much it counts for",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

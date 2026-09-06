@@ -8,7 +8,7 @@ export const mechanicSlug = {
   slug: "mechanic-slug",
   propertySlug: "mechanic-slug",
   definition: "the mechanic a reading reaches",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

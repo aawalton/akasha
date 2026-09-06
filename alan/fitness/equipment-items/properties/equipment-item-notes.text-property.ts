@@ -8,6 +8,6 @@ export const equipmentItemNotes = {
   slug: "equipment-item-notes",
   propertySlug: "equipment-item-notes",
   definition: "what is worth knowing about the piece that its other fields do not say",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

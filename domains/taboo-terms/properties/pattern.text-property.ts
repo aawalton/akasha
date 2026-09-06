@@ -8,7 +8,7 @@ export const pattern = {
   slug: "pattern",
   propertySlug: "pattern",
   definition: "the regular expression that finds a taboo term in changed text",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

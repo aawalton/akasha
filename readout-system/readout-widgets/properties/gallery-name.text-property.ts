@@ -8,6 +8,6 @@ export const galleryName = {
   slug: "gallery-name",
   propertySlug: "gallery-name",
   definition: "the name a widget answers to in the widget gallery",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

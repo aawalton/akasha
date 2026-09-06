@@ -8,6 +8,6 @@ export const macBuildNumberFile = {
   slug: "mac-build-number-file",
   propertySlug: "mac-build-number-file",
   definition: "where the number an app's next build takes is kept on the mac",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

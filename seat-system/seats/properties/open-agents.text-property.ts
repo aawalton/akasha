@@ -9,7 +9,7 @@ export const openAgents = {
   slug: "open-agents",
   propertySlug: "open-agents",
   definition: "every subagent a seat started that is still live",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: null,
   invariants: [
     {

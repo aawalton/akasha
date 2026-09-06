@@ -55,7 +55,12 @@ export const change = {
   ],
   properties: [
     { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
-    { pagePropertySlug: "relation-property/guard-slugs", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "relation-property/guard-slugs",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
     { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
     { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },

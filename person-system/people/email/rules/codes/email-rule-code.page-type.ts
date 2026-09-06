@@ -31,7 +31,7 @@ export const emailRuleCode = {
       pagePropertySlug: "select-property/email-rule-code-actions",
       required: false,
       many: true,
-      max: 2,
+      maxCount: 2,
     },
     { pagePropertySlug: "text-property/email-rule-code-delay", required: false, many: false },
     {

@@ -9,7 +9,7 @@ export const selectValues = {
   slug: "select-values",
   propertySlug: "values",
   definition: "one value a select property admits",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

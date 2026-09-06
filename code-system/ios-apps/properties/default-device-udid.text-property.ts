@@ -8,6 +8,6 @@ export const defaultDeviceUdid = {
   slug: "default-device-udid",
   propertySlug: "default-device-udid",
   definition: "the device an app is installed on when the call names none",
-  max: 40,
+  maxLength: 40,
   nameFormatSlug: null,
 } as const satisfies TextProperty

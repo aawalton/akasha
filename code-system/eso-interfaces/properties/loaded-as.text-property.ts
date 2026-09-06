@@ -8,7 +8,7 @@ export const loadedAs = {
   slug: "loaded-as",
   propertySlug: "loaded-as",
   definition: "the name an addon's manifest loads this file by",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

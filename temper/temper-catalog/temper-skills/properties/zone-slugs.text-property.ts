@@ -10,7 +10,7 @@ export const zoneSlugs = {
   slug: "zone-slugs",
   propertySlug: "zone-slugs",
   definition: "the zones a scribing source is worked in",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

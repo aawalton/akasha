@@ -10,7 +10,7 @@ export const aids = {
   slug: "aids",
   propertySlug: "aids",
   definition: "the rulings on acts a reader is about to take, each for or against",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

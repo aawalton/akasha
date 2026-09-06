@@ -8,6 +8,6 @@ export const collectibleName = {
   slug: "collectible-name",
   propertySlug: "collectible-name",
   definition: "the name the game shows a collectible under",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

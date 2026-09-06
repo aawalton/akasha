@@ -8,6 +8,6 @@ export const openingTags = {
   slug: "opening-tags",
   propertySlug: "opening-tags",
   definition: "an opening a puzzle came out of",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

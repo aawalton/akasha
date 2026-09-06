@@ -8,6 +8,6 @@ export const validArmorWeights = {
   slug: "valid-armor-weights",
   propertySlug: "valid-armor-weights",
   definition: "an armor weight a role is built around",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

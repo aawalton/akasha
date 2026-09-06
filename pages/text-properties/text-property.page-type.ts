@@ -1,10 +1,10 @@
 import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
-import type { Max } from "../types/page-properties/properties/max.number-property.ts"
+import type { MaxLength } from "../types/page-properties/properties/max-length.number-property.ts"
 import type { PageType } from "../types/page-type.page-type.ts"
 import type { NameFormatSlug } from "./properties/name-format-slug.relation-property.ts"
 
 export type TextProperty = PageProperty & {
-  max: Max
+  maxLength: MaxLength
   nameFormatSlug: NameFormatSlug | null
 }
 
@@ -17,7 +17,7 @@ export const textProperty = {
   partSlugs: ["relation-property/name-format-slug"],
   extendsSlug: ["page-type/page-property"],
   properties: [
-    { pagePropertySlug: "number-property/max", required: true, many: false },
+    { pagePropertySlug: "number-property/max-length", required: true, many: false },
     { pagePropertySlug: "relation-property/name-format-slug", required: true, many: false },
   ],
 } as const satisfies PageType

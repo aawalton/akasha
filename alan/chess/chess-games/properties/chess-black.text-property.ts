@@ -8,6 +8,6 @@ export const chessBlack = {
   slug: "chess-black",
   propertySlug: "black",
   definition: "who played the black pieces",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

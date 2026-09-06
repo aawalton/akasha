@@ -8,7 +8,7 @@ export const subscriptionDisabledReason = {
   slug: "subscription-disabled-reason",
   propertySlug: "subscription-disabled-reason",
   definition: "what stopped the account's subscription being usable",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

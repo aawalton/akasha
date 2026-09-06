@@ -8,7 +8,7 @@ export const startMode = {
   slug: "start-mode",
   propertySlug: "start-mode",
   definition: "how an agent in a seat is started",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

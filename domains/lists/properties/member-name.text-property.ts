@@ -8,6 +8,6 @@ export const memberName = {
   slug: "member-name",
   propertySlug: "member-name",
   definition: "what one member of a list is called",
-  max: 60,
+  maxLength: 60,
   nameFormatSlug: null,
 } as const satisfies TextProperty

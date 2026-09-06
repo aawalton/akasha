@@ -8,7 +8,7 @@ export const dayKind = {
   slug: "day-kind",
   propertySlug: "day-kind",
   definition: "which of the two days a reading counts on",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

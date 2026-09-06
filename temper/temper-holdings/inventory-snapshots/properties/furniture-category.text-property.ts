@@ -8,6 +8,6 @@ export const furnitureCategory = {
   slug: "furniture-category",
   propertySlug: "furniture-category",
   definition: "the room a furnishing is filed under",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

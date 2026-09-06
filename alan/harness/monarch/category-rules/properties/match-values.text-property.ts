@@ -8,7 +8,7 @@ export const matchValues = {
   slug: "match-values",
   propertySlug: "match-values",
   definition: "what a clause holds to weigh a transaction against",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

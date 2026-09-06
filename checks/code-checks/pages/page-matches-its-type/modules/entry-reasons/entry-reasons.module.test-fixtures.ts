@@ -26,8 +26,8 @@ const ANSWER: Carried = {
   declaredBy: "cases",
   required: true,
   many: false,
-  max: null,
-  total: null,
+  maxCount: null,
+  maxLength: null,
   uncommitted: false,
   secret: false,
 }

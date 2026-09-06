@@ -8,7 +8,7 @@ export const emailRuleMatchValues = {
   slug: "email-rule-match-values",
   propertySlug: "values",
   definition: "what a clause holds to weigh a piece of mail against",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

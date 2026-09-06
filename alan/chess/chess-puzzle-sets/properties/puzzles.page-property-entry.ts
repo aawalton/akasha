@@ -17,11 +17,11 @@ export const puzzles = {
     { pagePropertySlug: "number-property/rating-deviation", required: true, many: false },
     { pagePropertySlug: "number-property/popularity", required: true, many: false },
     { pagePropertySlug: "number-property/nb-plays", required: true, many: false },
-    { pagePropertySlug: "text-property/puzzle-themes", required: true, many: true, max: null },
+    { pagePropertySlug: "text-property/puzzle-themes", required: true, many: true, maxCount: null },
     { pagePropertySlug: "url-property/game-url", required: true, many: false },
     { pagePropertySlug: "text-property/puzzle-license", required: true, many: false },
     { pagePropertySlug: "select-property/solver-color", required: true, many: false },
-    { pagePropertySlug: "text-property/opening-tags", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/opening-tags", required: false, many: true, maxCount: null },
     { pagePropertySlug: "boolean-property/solved", required: false, many: false },
   ],
   invariants: [
@@ -39,8 +39,7 @@ export const puzzles = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A row is keyed on the id its source gives the puzzle, so one puzzle read twice is one row.",
+      statement: "A row is keyed on the id its source gives the puzzle.",
     },
   ],
 } as const satisfies PagePropertyEntry

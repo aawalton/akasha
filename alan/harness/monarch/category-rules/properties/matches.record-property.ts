@@ -21,7 +21,7 @@ export const matches = {
   properties: [
     { pagePropertySlug: "select-property/match-key", required: true, many: false },
     { pagePropertySlug: "select-property/match-comparison", required: true, many: false },
-    { pagePropertySlug: "text-property/match-values", required: true, many: true, max: 20 },
+    { pagePropertySlug: "text-property/match-values", required: true, many: true, maxCount: 20 },
   ],
   invariants: [
     {
@@ -34,7 +34,11 @@ export const matches = {
     },
     {
       invariantKind: "departure",
-      statement: "Every rule tests a merchant, and the rest of the keys narrow from there.",
+      statement: "Every rule tests a merchant.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule's remaining keys narrow from the merchant.",
     },
     {
       invariantKind: "departure",

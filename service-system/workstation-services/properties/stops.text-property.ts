@@ -8,7 +8,7 @@ export const stops = {
   slug: "stops",
   propertySlug: "stops",
   definition: "a command line a unit runs to bring down what it started",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
   invariants: [
     {

@@ -8,6 +8,6 @@ export const navAppSlug = {
   slug: "nav-app-slug",
   propertySlug: "app-slug",
   definition: "the app a nav item belongs to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

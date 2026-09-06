@@ -8,6 +8,6 @@ export const storyReaderFraming = {
   slug: "story-reader-framing",
   propertySlug: "reader-framing",
   definition: "what the reader is taken to be while reading",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -114,7 +114,7 @@ export const claudeAccount = {
     { pagePropertySlug: "text-property/subscription-type", required: false, many: false },
     { pagePropertySlug: "text-property/rate-limit-tier", required: false, many: false },
     { pagePropertySlug: "number-property/renewal-day", required: false, many: false },
-    { pagePropertySlug: "text-property/scopes", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/scopes", required: false, many: true, maxCount: null },
     { pagePropertySlug: "text-property/access-token", required: true, many: false, secret: true },
     { pagePropertySlug: "text-property/refresh-token", required: true, many: false, secret: true },
     {

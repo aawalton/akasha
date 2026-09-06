@@ -1,7 +1,7 @@
 import type { RecordProperty } from "../../record-properties/record-property.page-type.ts"
 import type { List } from "../page-properties/page-property.page-type.ts"
-import type { Max } from "../page-properties/properties/max.number-property.ts"
-import type { Total } from "../page-properties/properties/total.number-property.ts"
+import type { MaxCount } from "../page-properties/properties/max-count.number-property.ts"
+import type { MaxLength } from "../page-properties/properties/max-length.number-property.ts"
 import type { Unique } from "../page-properties/properties/unique.relation-property.ts"
 import type { DefaultValue } from "./default-value.text-property.ts"
 import type { PagePropertySlug } from "./page-property-slug.relation-property.ts"
@@ -15,6 +15,7 @@ export type Declaration =
       required: Required
       many: false
       default?: DefaultValue
+      maxLength?: MaxLength
       uncommitted?: Uncommitted
       secret?: Secret
       unique?: Unique
@@ -23,8 +24,8 @@ export type Declaration =
       pagePropertySlug: PagePropertySlug
       required: Required
       many: true
-      max: Max | null
-      total?: Total | null
+      maxCount: MaxCount | null
+      maxLength?: MaxLength
       uncommitted?: Uncommitted
       secret?: Secret
       unique?: Unique
@@ -37,14 +38,14 @@ export const properties = {
   pageTypeSlug: "record-property",
   slug: "properties",
   propertySlug: "properties",
-  definition: "the properties a page type adds, and the inherited ones it narrows",
+  definition: "the properties a page type adds, and the inherited properties it narrows",
   properties: [
     { pagePropertySlug: "relation-property/page-property-slug", required: true, many: false },
     { pagePropertySlug: "boolean-property/required", required: true, many: false },
     { pagePropertySlug: "boolean-property/many", required: true, many: false },
     { pagePropertySlug: "text-property/default-value", required: false, many: false },
-    { pagePropertySlug: "number-property/max", required: false, many: false },
-    { pagePropertySlug: "number-property/total", required: false, many: false },
+    { pagePropertySlug: "number-property/max-count", required: false, many: false },
+    { pagePropertySlug: "number-property/max-length", required: false, many: false },
     { pagePropertySlug: "boolean-property/uncommitted", required: false, many: false },
     { pagePropertySlug: "boolean-property/secret", required: false, many: false },
     { pagePropertySlug: "relation-property/unique", required: false, many: false },
@@ -64,7 +65,7 @@ export const properties = {
     },
     {
       invariantKind: "departure",
-      statement: "A max only falls.",
+      statement: "A length only falls.",
     },
     {
       invariantKind: "departure",
@@ -88,7 +89,7 @@ export const properties = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a declaration carrying many values states a max or a total.",
+      statement: "Only a declaration carrying many values states a count.",
     },
     {
       invariantKind: "departure",

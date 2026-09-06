@@ -8,7 +8,7 @@ export const accountDisplayName = {
   slug: "account-display-name",
   propertySlug: "account-display-name",
   definition: "the name and masked number a statement calls an account by",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

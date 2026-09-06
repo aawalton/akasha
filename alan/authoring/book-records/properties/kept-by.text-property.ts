@@ -8,7 +8,7 @@ export const keptBy = {
   slug: "kept-by",
   propertySlug: "kept-by",
   definition: "what keeps a record current",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

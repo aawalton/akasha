@@ -8,5 +8,5 @@ export const relationshipLinkedinUrl = {
   slug: "relationship-linkedin-url",
   propertySlug: "relationship-linkedin-url",
   definition: "this person's LinkedIn page",
-  max: 100,
+  maxLength: 100,
 } as const satisfies UrlProperty

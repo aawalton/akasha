@@ -8,7 +8,7 @@ export const buildCommand = {
   slug: "build-command",
   propertySlug: "build-command",
   definition: "the command run in a web app's source folder to make its build",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

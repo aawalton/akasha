@@ -8,7 +8,7 @@ export const subscriptionType = {
   slug: "subscription-type",
   propertySlug: "subscription-type",
   definition: "the plan the account is subscribed on",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
   invariants: [
     {

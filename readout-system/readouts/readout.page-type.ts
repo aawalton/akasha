@@ -89,7 +89,12 @@ export const readout = {
     { pagePropertySlug: "text-property/color-slug", required: false, many: false },
     { pagePropertySlug: "relation-property/color-from-slug", required: false, many: false },
     { pagePropertySlug: "text-property/earned-key", required: false, many: false },
-    { pagePropertySlug: "relation-property/group-slugs", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "relation-property/group-slugs",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
     { pagePropertySlug: "text-property/none-left-words", required: false, many: false },
     { pagePropertySlug: "text-property/none-left-emoji", required: false, many: false },
     { pagePropertySlug: "text-property/wire-key", required: true, many: false },

@@ -8,7 +8,7 @@ export const sequenceGroupBy = {
   slug: "sequence-group-by",
   propertySlug: "group-by",
   definition: "the key whose value gathers a page type's pages into one run",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: "name-format/lower-camel-case",
   invariants: [
     {

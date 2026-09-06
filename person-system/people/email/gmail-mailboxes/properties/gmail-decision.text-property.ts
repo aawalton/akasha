@@ -8,6 +8,6 @@ export const gmailDecision = {
   slug: "gmail-decision",
   propertySlug: "decision",
   definition: "what was settled about a message the mailbox went through",
-  max: 40,
+  maxLength: 40,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

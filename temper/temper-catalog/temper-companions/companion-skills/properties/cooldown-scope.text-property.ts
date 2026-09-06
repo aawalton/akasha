@@ -8,6 +8,6 @@ export const cooldownScope = {
   slug: "cooldown-scope",
   propertySlug: "scope",
   definition: "how widely a cooldown reduction reaches",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

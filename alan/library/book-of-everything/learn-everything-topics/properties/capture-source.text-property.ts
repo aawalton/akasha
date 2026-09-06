@@ -8,6 +8,6 @@ export const captureSource = {
   slug: "capture-source",
   propertySlug: "capture-source",
   definition: "the transcript a topic's score was read out of",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

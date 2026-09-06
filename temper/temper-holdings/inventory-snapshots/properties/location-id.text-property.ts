@@ -8,6 +8,6 @@ export const locationId = {
   slug: "location-id",
   propertySlug: "location-id",
   definition: "the bag holder a stack sits with, as the game names holders",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

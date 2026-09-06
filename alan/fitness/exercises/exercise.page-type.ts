@@ -116,13 +116,18 @@ export const exercise = {
     { pagePropertySlug: "select-property/mechanic", required: false, many: false },
     { pagePropertySlug: "select-property/movement-pattern", required: true, many: false },
     { pagePropertySlug: "select-property/muscle-focus", required: true, many: false },
-    { pagePropertySlug: "select-property/primary-muscles", required: true, many: true, max: null },
+    {
+      pagePropertySlug: "select-property/primary-muscles",
+      required: true,
+      many: true,
+      maxCount: null,
+    },
     { pagePropertySlug: "select-property/scoring-mode", required: true, many: false },
     {
       pagePropertySlug: "select-property/secondary-muscles",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "select-property/secondary-pattern", required: false, many: false },
     { pagePropertySlug: "number-property/sfr-score", required: true, many: false },
@@ -144,7 +149,7 @@ export const exercise = {
     },
     {
       invariantKind: "departure",
-      statement: "A movement Alan wrote himself carries no external id, link, image or sync day.",
+      statement: "A movement Alan wrote himself carries no field an external source would fill.",
     },
   ],
 } as const satisfies PageType

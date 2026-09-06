@@ -80,8 +80,8 @@ test("a page type carries the properties it declares itself", () => {
       declaredBy: "page-type",
       required: true,
       many: true,
-      max: 20,
-      total: null,
+      maxCount: 20,
+      maxLength: null,
       uncommitted: false,
       secret: false,
     },
@@ -127,7 +127,7 @@ test("the nearest declaration binds, and a further one for the property is passe
   expect(carried).toHaveLength(1)
   expect(carried[0]?.declaredBy).toBe("page-type")
   expect(carried[0]?.required).toBe(true)
-  expect(carried[0]?.max).toBe(20)
+  expect(carried[0]?.maxCount).toBe(20)
 })
 
 test("a declaration reaching no page property is left out rather than keyed by what it states", () => {
@@ -244,7 +244,9 @@ test("every declaration is answered, the shadowed one standing beside the one th
     [{ pagePropertySlug: "properties", required: true, many: true, max: 20 }]
   )
 
-  expect(declaredIn(root, "page-type").map((one) => [one.declaredBy, one.key, one.max])).toEqual([
+  expect(
+    declaredIn(root, "page-type").map((one) => [one.declaredBy, one.key, one.maxCount])
+  ).toEqual([
     ["page-type", "properties", 20],
     ["domain", "properties", null],
   ])

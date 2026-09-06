@@ -8,6 +8,6 @@ export const hex = {
   slug: "hex",
   propertySlug: "hex",
   definition: "the color written as hex, for wherever there is no palette to pick from",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

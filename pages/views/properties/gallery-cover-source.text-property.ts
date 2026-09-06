@@ -8,6 +8,6 @@ export const galleryCoverSource = {
   slug: "gallery-cover-source",
   propertySlug: "gallery-cover-source",
   definition: "the property a gallery takes its picture from",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

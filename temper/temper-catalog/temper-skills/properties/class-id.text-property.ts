@@ -8,7 +8,7 @@ export const classId = {
   slug: "class-id",
   propertySlug: "class-id",
   definition: "the class a script reads differently for",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

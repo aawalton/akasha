@@ -8,7 +8,7 @@ export const stillPath = {
   slug: "still-path",
   propertySlug: "still-path",
   definition: "the path to a frame taken from an episode",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

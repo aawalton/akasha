@@ -27,7 +27,7 @@ export const companionBuild = {
     { pagePropertySlug: "select-property/build-visibility", required: true, many: false },
     { pagePropertySlug: "text-property/build-correlation-id", required: false, many: false },
     { pagePropertySlug: "number-property/build-target-count", required: false, many: false },
-    { pagePropertySlug: "select-property/base-roles", required: false, many: true, max: 2 },
+    { pagePropertySlug: "select-property/base-roles", required: false, many: true, maxCount: 2 },
   ],
   invariants: [
     {
@@ -36,7 +36,11 @@ export const companionBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "One companion holds many builds, and one build is shared across companions.",
+      statement: "One companion holds many builds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One build is shared across companions.",
     },
     {
       invariantKind: "departure",

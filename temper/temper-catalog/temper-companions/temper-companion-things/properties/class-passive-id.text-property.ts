@@ -8,6 +8,6 @@ export const classPassiveId = {
   slug: "class-passive-id",
   propertySlug: "class-passive-id",
   definition: "the passive a companion's class grants",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

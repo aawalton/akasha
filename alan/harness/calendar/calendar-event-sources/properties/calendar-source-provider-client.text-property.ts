@@ -8,6 +8,6 @@ export const calendarSourceProviderClient = {
   slug: "calendar-source-provider-client",
   propertySlug: "provider-client",
   definition: "the client that knows how to read a source",
-  max: 400,
+  maxLength: 400,
   nameFormatSlug: null,
 } as const satisfies TextProperty

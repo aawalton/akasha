@@ -15,7 +15,7 @@ export const list = {
   extendsSlug: ["page-type/domain"],
   partSlugs: ["record-property/members", "text-property/member-name"],
   properties: [
-    { pagePropertySlug: "record-property/members", required: true, many: true, max: null },
+    { pagePropertySlug: "record-property/members", required: true, many: true, maxCount: null },
   ],
   invariants: [
     {

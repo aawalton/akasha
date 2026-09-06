@@ -8,6 +8,6 @@ export const noneLeftWords = {
   slug: "none-left-words",
   propertySlug: "none-left-words",
   definition: "what is shown in place of a reading of nothing",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

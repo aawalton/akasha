@@ -14,7 +14,7 @@ export const pagePropertyEntry = {
   pluralSlug: "page-property-entries",
   extendsSlug: ["page-type/page-property"],
   properties: [
-    { pagePropertySlug: "record-property/properties", required: true, many: true, max: null },
+    { pagePropertySlug: "record-property/properties", required: true, many: true, maxCount: null },
   ],
   invariants: [
     {

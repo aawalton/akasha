@@ -37,15 +37,14 @@ export const temperGearThing = {
     { pagePropertySlug: "text-property/glyph-name", required: false, many: false },
     { pagePropertySlug: "text-property/essence-rune", required: false, many: false },
     { pagePropertySlug: "text-property/eso-enchant-constant-name", required: false, many: false },
-    { pagePropertySlug: "text-property/valid-slots", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/valid-slots", required: false, many: true, maxCount: null },
     { pagePropertySlug: "text-property/item-level", required: false, many: false },
     { pagePropertySlug: "number-property/potion-seconds", required: false, many: false },
   ],
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A key two gear page types both carry is declared here rather than in each page type.",
+      statement: "A key two gear page types carry is declared here rather than in each page type.",
     },
     {
       invariantKind: "departure",

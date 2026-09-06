@@ -8,6 +8,6 @@ export const trigger = {
   slug: "trigger",
   propertySlug: "trigger",
   definition: "what has to happen before an effect fires",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

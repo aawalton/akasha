@@ -20,8 +20,8 @@ export const turnWorking = {
   properties: [
     { pagePropertySlug: "boolean-property/active-turn", required: true, many: false },
     { pagePropertySlug: "number-property/scanned-to", required: true, many: false },
-    { pagePropertySlug: "text-property/open-shells", required: true, many: true, max: null },
-    { pagePropertySlug: "text-property/open-agents", required: true, many: true, max: null },
+    { pagePropertySlug: "text-property/open-shells", required: true, many: true, maxCount: null },
+    { pagePropertySlug: "text-property/open-agents", required: true, many: true, maxCount: null },
   ],
   invariants: [
     {

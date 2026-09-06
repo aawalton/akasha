@@ -28,7 +28,7 @@ export const show = {
   partSlugs: ["calendar-date-property/last-air-date"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/genres", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/genres", required: false, many: true, maxCount: null },
     { pagePropertySlug: "text-property/imdb-id", required: false, many: false },
     { pagePropertySlug: "calendar-date-property/last-air-date", required: false, many: false },
     { pagePropertySlug: "text-property/poster-path", required: false, many: false },

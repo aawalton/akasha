@@ -10,6 +10,6 @@ export const families = {
   slug: "families",
   propertySlug: "families",
   definition: "the tile sizes a widget can be placed at",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

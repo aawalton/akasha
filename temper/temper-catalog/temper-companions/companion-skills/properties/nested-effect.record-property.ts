@@ -33,7 +33,7 @@ export const nestedEffect = {
       pagePropertySlug: "record-property/effect-conditions",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "text-property/damage-type", required: false, many: false },
     { pagePropertySlug: "number-property/duration", required: false, many: false },

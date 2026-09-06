@@ -8,6 +8,6 @@ export const macBuildLockDir = {
   slug: "mac-build-lock-dir",
   propertySlug: "mac-build-lock-dir",
   definition: "where an app's builds take their lock on the mac",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

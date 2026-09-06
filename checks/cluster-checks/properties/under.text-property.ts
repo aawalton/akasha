@@ -8,6 +8,6 @@ export const under = {
   slug: "under",
   propertySlug: "under",
   definition: "the path a dispatch is narrowed to",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

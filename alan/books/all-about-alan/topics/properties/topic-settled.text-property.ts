@@ -8,7 +8,7 @@ export const topicSettled = {
   slug: "topic-settled",
   propertySlug: "settled",
   definition: "what is worked out about a topic",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
   invariants: [
     {

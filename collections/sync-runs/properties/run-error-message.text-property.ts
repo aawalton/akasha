@@ -8,6 +8,6 @@ export const runErrorMessage = {
   slug: "run-error-message",
   propertySlug: "run-error-message",
   definition: "what a pull said as it failed",
-  max: 500,
+  maxLength: 500,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const skillEffectType = {
   slug: "skill-effect-type",
   propertySlug: "type",
   definition: "what one thing a companion's skill does is a case of",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

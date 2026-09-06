@@ -8,7 +8,7 @@ export const rateLimitTier = {
   slug: "rate-limit-tier",
   propertySlug: "rate-limit-tier",
   definition: "the band the size of the account's allowance is set by",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
   invariants: [
     {

@@ -8,7 +8,7 @@ export const progressPropertyId = {
   slug: "progress-property-id",
   propertySlug: "progress-property-id",
   definition: "the key of the property holding how far into a page the reader has come",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: "name-format/lower-camel-case",
   invariants: [
     {

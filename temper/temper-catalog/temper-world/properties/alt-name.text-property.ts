@@ -8,6 +8,6 @@ export const altName = {
   slug: "alt-name",
   propertySlug: "alt-name",
   definition: "the second name a people is known by",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

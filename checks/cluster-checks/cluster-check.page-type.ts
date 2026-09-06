@@ -113,7 +113,7 @@ export const clusterCheck = {
       pagePropertySlug: "record-property/dispatch-node-types",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "boolean-property/always-run", required: false, many: false },
     { pagePropertySlug: "boolean-property/tree-sha", required: false, many: false },

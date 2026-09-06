@@ -41,11 +41,21 @@ export const helpFlags = {
     { pagePropertySlug: "text-property/help-arg-shape", required: false, many: false },
     { pagePropertySlug: "boolean-property/help-arg-required", required: false, many: false },
     { pagePropertySlug: "text-property/help-arg-default", required: false, many: false },
-    { pagePropertySlug: "text-property/help-arg-choices", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "text-property/help-arg-choices",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
     { pagePropertySlug: "boolean-property/help-arg-repeat", required: false, many: false },
     { pagePropertySlug: "boolean-property/help-arg-stdin", required: false, many: false },
     { pagePropertySlug: "boolean-property/help-arg-path", required: false, many: false },
-    { pagePropertySlug: "text-property/help-arg-aliases", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "text-property/help-arg-aliases",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   invariants: [
     {

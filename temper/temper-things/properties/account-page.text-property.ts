@@ -8,7 +8,7 @@ export const accountPage = {
   slug: "account-page",
   propertySlug: "account-page",
   definition: "the account a page belongs to",
-  max: 36,
+  maxLength: 36,
   nameFormatSlug: "name-format/lower-uuid",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to  an account." }],
 } as const satisfies TextProperty

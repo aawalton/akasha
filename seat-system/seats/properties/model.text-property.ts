@@ -8,6 +8,6 @@ export const model = {
   slug: "model",
   propertySlug: "model",
   definition: "the model answering in a seat",
-  max: 40,
+  maxLength: 40,
   nameFormatSlug: null,
 } as const satisfies TextProperty

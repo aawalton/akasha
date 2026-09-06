@@ -8,7 +8,7 @@ export const day = {
   slug: "day",
   propertySlug: "day",
   definition: "the calendar day a page gathers",
-  max: 10,
+  maxLength: 10,
   nameFormatSlug: null,
   invariants: [
     {

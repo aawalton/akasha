@@ -8,7 +8,7 @@ export const sourceDirectory = {
   slug: "source-directory",
   propertySlug: "source-directory",
   definition: "the folder a web app's source sits in",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
   invariants: [
     {

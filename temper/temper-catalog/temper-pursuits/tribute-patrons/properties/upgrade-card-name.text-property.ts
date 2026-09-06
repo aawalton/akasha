@@ -8,6 +8,6 @@ export const upgradeCardName = {
   slug: "upgrade-card-name",
   propertySlug: "upgrade-card-name",
   definition: "the name a card is shown under once it is upgraded",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

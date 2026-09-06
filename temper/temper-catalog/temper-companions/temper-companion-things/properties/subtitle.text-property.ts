@@ -8,6 +8,6 @@ export const subtitle = {
   slug: "subtitle",
   propertySlug: "subtitle",
   definition: "the epithet a companion is known by",
-  max: 200,
+  maxLength: 200,
   nameFormatSlug: null,
 } as const satisfies TextProperty

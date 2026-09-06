@@ -8,6 +8,6 @@ export const slotCategory = {
   slug: "slot-category",
   propertySlug: "slot-category",
   definition: "the group a jewelry place falls in",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

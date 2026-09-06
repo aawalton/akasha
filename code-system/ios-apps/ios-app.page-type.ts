@@ -94,7 +94,12 @@ export const iosApp = {
   extendsSlug: ["page-type/workspace-package"],
   properties: [
     { pagePropertySlug: "text-property/app-profile-name", required: true, many: false },
-    { pagePropertySlug: "text-property/asc-capabilities", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "text-property/asc-capabilities",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
     { pagePropertySlug: "relation-property/build-script", required: false, many: false },
     { pagePropertySlug: "text-property/bundle-id", required: true, many: false },
     { pagePropertySlug: "file-property/capacitor-config", required: true, many: false },
@@ -109,7 +114,12 @@ export const iosApp = {
     { pagePropertySlug: "text-property/mac-www-staging-rel", required: false, many: false },
     { pagePropertySlug: "text-property/marketing-version", required: true, many: false },
     { pagePropertySlug: "text-property/native-shell-repo-path", required: false, many: false },
-    { pagePropertySlug: "relation-property/program-slugs", required: false, many: true, max: null },
+    {
+      pagePropertySlug: "relation-property/program-slugs",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
     { pagePropertySlug: "text-property/spa-source-path", required: false, many: false },
     { pagePropertySlug: "relation-property/stage-script", required: false, many: false },
     { pagePropertySlug: "file-property/web-entry", required: false, many: false },

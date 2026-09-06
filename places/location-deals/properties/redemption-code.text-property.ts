@@ -8,6 +8,6 @@ export const redemptionCode = {
   slug: "redemption-code",
   propertySlug: "redemption-code",
   definition: "what to give to claim the offer",
-  max: 20,
+  maxLength: 20,
   nameFormatSlug: null,
 } as const satisfies TextProperty

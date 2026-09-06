@@ -8,7 +8,7 @@ export const modelName = {
   slug: "model-name",
   propertySlug: "name",
   definition: "the name a call carries to reach this family's model",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

@@ -8,6 +8,6 @@ export const deviceId = {
   slug: "device-id",
   propertySlug: "device-id",
   definition: "which of Alan's devices took this trace",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: null,
 } as const satisfies TextProperty

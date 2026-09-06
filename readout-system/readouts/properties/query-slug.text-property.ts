@@ -8,7 +8,7 @@ export const querySlug = {
   slug: "query-slug",
   propertySlug: "query-slug",
   definition: "the query a reading is answered by",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

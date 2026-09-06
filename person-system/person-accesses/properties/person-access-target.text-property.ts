@@ -8,7 +8,7 @@ export const personAccessTarget = {
   slug: "person-access-target",
   propertySlug: "target",
   definition: "the one thing of that kind the access reaches, or `all`",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     {

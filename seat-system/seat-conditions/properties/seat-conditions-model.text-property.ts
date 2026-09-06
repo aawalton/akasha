@@ -8,7 +8,7 @@ export const seatConditionsModel = {
   slug: "seat-conditions-model",
   propertySlug: "model",
   definition: "the model a seat's agent answers on",
-  max: 40,
+  maxLength: 40,
   nameFormatSlug: null,
   invariants: [
     {

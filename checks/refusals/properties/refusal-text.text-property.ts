@@ -8,7 +8,7 @@ export const refusalText = {
   slug: "refusal-text",
   propertySlug: "text",
   definition: "the words a refusal prints, with holes to fill",
-  max: 2000,
+  maxLength: 2000,
   nameFormatSlug: null,
   invariants: [
     {

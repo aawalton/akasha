@@ -8,7 +8,7 @@ export const buildInputTreeHash = {
   slug: "build-input-tree-hash",
   propertySlug: "build-input-tree-hash",
   definition: "the hash of everything a build reads, which a cut is judged owed against",
-  max: 64,
+  maxLength: 64,
   nameFormatSlug: null,
   invariants: [
     {

@@ -8,7 +8,7 @@ export const accessToken = {
   slug: "access-token",
   propertySlug: "access-token",
   definition: "the token a call to Anthropic carries",
-  max: 4000,
+  maxLength: 4000,
   nameFormatSlug: null,
   invariants: [
     {

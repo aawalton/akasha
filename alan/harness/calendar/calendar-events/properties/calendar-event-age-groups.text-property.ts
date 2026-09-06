@@ -8,6 +8,6 @@ export const calendarEventAgeGroups = {
   slug: "calendar-event-age-groups",
   propertySlug: "age-groups",
   definition: "the ages an event is meant for",
-  max: 400,
+  maxLength: 400,
   nameFormatSlug: null,
 } as const satisfies TextProperty

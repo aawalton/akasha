@@ -8,6 +8,6 @@ export const workoutScheduleDescription = {
   slug: "workout-schedule-description",
   propertySlug: "workout-schedule-description",
   definition: "how the rotation is meant to run",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
 } as const satisfies TextProperty

@@ -8,6 +8,6 @@ export const constantFamily = {
   slug: "constant-family",
   propertySlug: "constant-family",
   definition: "the group of gear values a constant belongs to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
 } as const satisfies TextProperty

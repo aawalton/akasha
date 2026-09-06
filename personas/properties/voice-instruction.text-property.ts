@@ -8,6 +8,6 @@ export const voiceInstruction = {
   slug: "voice-instruction",
   propertySlug: "voice-instruction",
   definition: "the description a persona's voice was built from",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty

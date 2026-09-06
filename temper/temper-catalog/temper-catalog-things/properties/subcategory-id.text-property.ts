@@ -8,7 +8,7 @@ export const subcategoryId = {
   slug: "subcategory-id",
   propertySlug: "subcategory-id",
   definition: "the narrower group a thing is filed under",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to  a subcategory." },

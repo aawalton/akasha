@@ -8,6 +8,6 @@ export const puzzleLicense = {
   slug: "puzzle-license",
   propertySlug: "license",
   definition: "the licence a puzzle is published under",
-  max: 50,
+  maxLength: 50,
   nameFormatSlug: null,
 } as const satisfies TextProperty

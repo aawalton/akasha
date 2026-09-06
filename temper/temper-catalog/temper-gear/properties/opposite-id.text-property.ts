@@ -8,7 +8,7 @@ export const oppositeId = {
   slug: "opposite-id",
   propertySlug: "opposite-id",
   definition: "the alchemy effect undoing what this one does",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [
     { invariantKind: "gap", statement: "This property is a relation to a poison effect." },

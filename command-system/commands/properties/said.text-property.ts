@@ -8,7 +8,7 @@ export const said = {
   slug: "said",
   propertySlug: "said",
   definition: "how one thing a command takes is spelled on the command line",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
   invariants: [
     {

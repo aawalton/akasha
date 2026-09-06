@@ -8,6 +8,6 @@ export const helpArgShape = {
   slug: "help-arg-shape",
   propertySlug: "value-shape",
   definition: "whether a flag's value is one token, one line, or prose",
-  max: 10,
+  maxLength: 10,
   nameFormatSlug: null,
 } as const satisfies TextProperty

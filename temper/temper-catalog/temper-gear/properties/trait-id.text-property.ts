@@ -8,7 +8,7 @@ export const traitId = {
   slug: "trait-id",
   propertySlug: "trait-id",
   definition: "the trait a number the game holds answers to",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: "name-format/lower-kebab-case",
   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a trait." }],
 } as const satisfies TextProperty

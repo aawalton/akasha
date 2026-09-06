@@ -28,7 +28,7 @@ export const modelCheck = {
       pagePropertySlug: "relation-property/model-test-slugs",
       required: true,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "number-property/patch-runs", required: true, many: false },
     { pagePropertySlug: "number-property/audit-runs", required: true, many: false },

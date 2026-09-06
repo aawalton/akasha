@@ -8,6 +8,6 @@ export const helpArgDefault = {
   slug: "help-arg-default",
   propertySlug: "default",
   definition: "the value an argument takes where none is given",
-  max: 100,
+  maxLength: 100,
   nameFormatSlug: null,
 } as const satisfies TextProperty

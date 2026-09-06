@@ -45,7 +45,7 @@ export const iosProgram = {
       pagePropertySlug: "relation-property/component-slugs",
       required: false,
       many: true,
-      max: null,
+      maxCount: null,
     },
     { pagePropertySlug: "text-property/profile-name", required: false, many: false },
     { pagePropertySlug: "text-property/target-name", required: false, many: false },

@@ -20,7 +20,7 @@ export const artist = {
   partSlugs: ["file-property/reaction", "text-property/artist-genre"],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
-    { pagePropertySlug: "text-property/artist-genre", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/artist-genre", required: false, many: true, maxCount: null },
     { pagePropertySlug: "file-property/reaction", required: false, many: false },
   ],
 } as const satisfies PageType

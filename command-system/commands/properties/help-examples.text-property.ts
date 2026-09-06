@@ -8,6 +8,6 @@ export const helpExamples = {
   slug: "help-examples",
   propertySlug: "examples",
   definition: "one worked invocation printed under a command's help",
-  max: 400,
+  maxLength: 400,
   nameFormatSlug: null,
 } as const satisfies TextProperty

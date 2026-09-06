@@ -8,6 +8,6 @@ export const chapterNumbering = {
   slug: "chapter-numbering",
   propertySlug: "chapter-numbering",
   definition: "how a story's chapters are counted",
-  max: 1000,
+  maxLength: 1000,
   nameFormatSlug: null,
 } as const satisfies TextProperty
