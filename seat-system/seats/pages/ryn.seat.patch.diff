@@ -1,13 +1,23 @@
 diff --git a/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.ts b/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.ts
-index 642cc5907384974b919753c66e07dbd69583e2a8..52ab9b17e700add61e94f059a3398f1c712169a0 100644
+index 642cc5907384974b919753c66e07dbd69583e2a8..986b3ef12495d273f43eb620c85d7a440b4c45c3 100644
 --- a/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.ts
 +++ b/seat-system/supervisor-idle-decide/supervisor-idle-decide.module.ts
-@@ -11,7 +11,7 @@ export const supervisorIdleDecide = {
+@@ -11,12 +11,15 @@ export const supervisorIdleDecide = {
      {
        invariantKind: "departure",
        statement:
 -        "A seat is idle only where nothing is in flight, no child is busy and Claude is present.",
 +        "A seat is idle only where nothing is in flight and no child is busy and Claude is present.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A count that was not read is not a count of zero, so a seat that count belongs to is not idle.",
++      statement: "A count that was not read is not a count of zero.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat holding a count that was not read is not idle.",
      },
      {
        invariantKind: "departure",
