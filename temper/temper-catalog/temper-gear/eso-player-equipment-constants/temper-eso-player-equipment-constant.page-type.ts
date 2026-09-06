@@ -23,10 +23,10 @@ export const temperEsoPlayerEquipmentConstant = {
     "text-property/constant-id",
   ],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "display-order", required: true, many: false },
-    { pagePropertySlug: "constant-family", required: true, many: false },
-    { pagePropertySlug: "constant-id", required: true, many: false },
-    { pagePropertySlug: "eso-num", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pagePropertySlug: "text-property/constant-family", required: true, many: false },
+    { pagePropertySlug: "text-property/constant-id", required: true, many: false },
+    { pagePropertySlug: "number-property/eso-num", required: true, many: false },
   ],
 } as const satisfies PageType

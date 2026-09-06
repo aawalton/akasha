@@ -11,7 +11,7 @@ export const temperJewelryType = {
   pluralSlug: "temper-jewelry-types",
   extendsSlug: ["page-type/temper-gear-thing"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "valid-slots", required: true, many: true, max: null },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "text-property/valid-slots", required: true, many: true, max: null },
   ],
 } as const satisfies PageType

@@ -23,9 +23,9 @@ export const temperPoisonEffect = {
     "text-property/opposite-id",
   ],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "opposite-id", required: true, many: false },
-    { pagePropertySlug: "is-positive", required: false, many: false },
-    { pagePropertySlug: "cooldown", required: false, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "text-property/opposite-id", required: true, many: false },
+    { pagePropertySlug: "boolean-property/is-positive", required: false, many: false },
+    { pagePropertySlug: "number-property/cooldown", required: false, many: false },
   ],
 } as const satisfies PageType

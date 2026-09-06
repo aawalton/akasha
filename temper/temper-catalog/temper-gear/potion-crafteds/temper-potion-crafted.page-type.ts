@@ -15,11 +15,11 @@ export const temperPotionCrafted = {
   extendsSlug: ["page-type/temper-gear-thing"],
   partSlugs: ["record-property/recipes", "text-property/reagent-names"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "description", required: true, many: false },
-    { pagePropertySlug: "icon", required: true, many: false },
-    { pagePropertySlug: "item-level", required: true, many: false },
-    { pagePropertySlug: "potion-seconds", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "text-property/description", required: true, many: false },
+    { pagePropertySlug: "text-property/icon", required: true, many: false },
+    { pagePropertySlug: "text-property/item-level", required: true, many: false },
+    { pagePropertySlug: "number-property/potion-seconds", required: true, many: false },
     { pagePropertySlug: "record-property/recipes", required: true, many: true, max: null },
   ],
 } as const satisfies PageType

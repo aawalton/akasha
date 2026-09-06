@@ -21,10 +21,10 @@ export const bonusEffects = {
   propertySlug: "effects",
   definition: "what one set bonus does, a metric or a buff to an entry",
   properties: [
-    { pagePropertySlug: "metric-id", required: false, many: false },
-    { pagePropertySlug: "effect-type", required: false, many: false },
-    { pagePropertySlug: "effect-value", required: false, many: false },
-    { pagePropertySlug: "buff-id", required: false, many: false },
+    { pagePropertySlug: "text-property/metric-id", required: false, many: false },
+    { pagePropertySlug: "text-property/effect-type", required: false, many: false },
+    { pagePropertySlug: "number-property/effect-value", required: false, many: false },
+    { pagePropertySlug: "text-property/buff-id", required: false, many: false },
   ],
   invariants: [
     {

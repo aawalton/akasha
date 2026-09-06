@@ -14,7 +14,9 @@ export const recipes = {
   slug: "recipes",
   propertySlug: "reagents",
   definition: "the reagent sets a drink is brewed from, one set to an entry",
-  properties: [{ pagePropertySlug: "reagent-names", required: true, many: true, max: null }],
+  properties: [
+    { pagePropertySlug: "text-property/reagent-names", required: true, many: true, max: null },
+  ],
   invariants: [
     {
       invariantKind: "departure",

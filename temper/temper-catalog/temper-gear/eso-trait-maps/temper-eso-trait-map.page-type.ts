@@ -23,10 +23,10 @@ export const temperEsoTraitMap = {
     "text-property/trait-id",
   ],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "display-order", required: true, many: false },
-    { pagePropertySlug: "trait-family", required: true, many: false },
-    { pagePropertySlug: "trait-id", required: true, many: false },
-    { pagePropertySlug: "eso-trait-num", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pagePropertySlug: "text-property/trait-family", required: true, many: false },
+    { pagePropertySlug: "text-property/trait-id", required: true, many: false },
+    { pagePropertySlug: "number-property/eso-trait-num", required: true, many: false },
   ],
 } as const satisfies PageType

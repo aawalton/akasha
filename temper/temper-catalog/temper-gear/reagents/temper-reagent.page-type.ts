@@ -15,9 +15,9 @@ export const temperReagent = {
   extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["text-property/alchemy-effects"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "icon", required: true, many: false },
-    { pagePropertySlug: "item-id", required: true, many: false },
-    { pagePropertySlug: "alchemy-effects", required: true, many: true, max: null },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "text-property/icon", required: true, many: false },
+    { pagePropertySlug: "number-property/item-id", required: true, many: false },
+    { pagePropertySlug: "text-property/alchemy-effects", required: true, many: true, max: null },
   ],
 } as const satisfies PageType

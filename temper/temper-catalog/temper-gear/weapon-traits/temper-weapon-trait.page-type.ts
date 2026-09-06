@@ -11,8 +11,8 @@ export const temperWeaponTrait = {
   pluralSlug: "temper-weapon-traits",
   extendsSlug: ["page-type/temper-catalog-thing"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "display-order", required: true, many: false },
-    { pagePropertySlug: "eso-trait-constant-name", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pagePropertySlug: "text-property/eso-trait-constant-name", required: true, many: false },
   ],
 } as const satisfies PageType
