@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/where-i-first-read-the-feeling-returning.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-i-first-read-the-feeling-returning.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ff296856a22bee07feb80c8eb088f40fb09b1bf4
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-i-first-read-the-feeling-returning.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereIFirstReadTheFeelingReturning = {
++  id: "01a077e6-4efb-7b35-a208-0d9fdd9d967e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-i-first-read-the-feeling-returning",
++  topicSlug: "what-praying-does-for-me",
++  ask: "If the feeling returns as my safety rises, is prayer where I first read that return, and what does the settling feel like then?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-asking-moves-what-comes-back.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-asking-moves-what-comes-back.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4590d1976a5d30524009ade17e3941f114b83c2e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-asking-moves-what-comes-back.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAskingMovesWhatComesBack = {
++  id: "01a077e6-4efa-74e2-a79e-43773fb4821d",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-asking-moves-what-comes-back",
++  topicSlug: "what-praying-does-for-me",
++  ask: "I hold that my asking moves what comes back rather than only priming me to notice it. Could anything tell moving and priming apart?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-emptying-is-work-or-a-state.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-emptying-is-work-or-a-state.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..20a4bd59bc129d7ccdd0719826415cbac33aed88
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-emptying-is-work-or-a-state.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherEmptyingIsWorkOrAState = {
++  id: "01a077e6-4efb-767e-9da0-bcb3cac40568",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-emptying-is-work-or-a-state",
++  topicSlug: "what-praying-does-for-me",
++  ask: "Is emptying and observing work I do, or a state I already sit in?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-prayer-silence-and-breath-silence-are-one.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-prayer-silence-and-breath-silence-are-one.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7f656164c079b9a370c24f2b6554b2423a5e0d51
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-prayer-silence-and-breath-silence-are-one.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherPrayerSilenceAndBreathSilenceAreOne = {
++  id: "01a077e6-4efc-7236-9e7f-a2cca1eee1f0",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-prayer-silence-and-breath-silence-are-one",
++  topicSlug: "what-praying-does-for-me",
++  ask: "Is the silence in prayer and the silence while counting breath one mode pointed two ways, or two modes?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-praying-does-for-me.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-praying-does-for-me.all-about-alan-topic.ts
+index 80750e8329bed9d646ef36007ce2b3479c8eb5e6..0de66515ec2eb170d547fcdf1cd8194ec2c5461e 100644
+--- a/alan/books/all-about-alan/topics/pages/what-praying-does-for-me.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-praying-does-for-me.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatPrayingDoesForMe = {
+   relatedSlugs: ["how-god-reaches-me", "feeling-my-faith"],
+   settled:
+     "I pray to a real Person I infer and cannot sense. It goes out one way, with nothing back on the felt side.\n\nI hold my model of Him at no more than 1% of the reality. That is about the sketch, not about whether He is there.\n\nIt does five things: obedience, settling, alignment, listening, and asking.\n\nObedience was my main reason for years and I am deliberately demoting it.\n\nThree of the five would work on an empty universe: the settling, the review, and making my gaps concrete.",
+-  unsettled:
+-    "Whether the asking moves what comes back, or only primes me to notice it, is the half I cannot see. I hold that it does, and whether anything could tell them apart is open.\n\nIf the feeling returns as my safety rises, whether prayer is where I first read it, and what the settling feels like then, is open.\n\nWhether emptying and observing is work I do, or a state I already sit in, is unpinned.\n\nThe silence here and the silence while counting breath may be one mode pointed two ways, or two.",
+ } as const satisfies AllAboutAlanTopic
