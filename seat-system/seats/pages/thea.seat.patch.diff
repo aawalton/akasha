@@ -1,0 +1,63 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/places/locations/location.page-type.ts b/places/locations/location.page-type.ts
+index fb12b79c1793bb37a4809855587e3936c86dae20..cabdb90678e66a5c22b8e2880002a7e003d35d20 100644
+--- a/places/locations/location.page-type.ts
++++ b/places/locations/location.page-type.ts
+@@ -32,7 +32,7 @@ export type Location = Page & {
+   reviewFlag?: ReviewFlag
+   reviewRating?: ReviewRating
+   reviewText?: ReviewText
+-  scheduledEnd?: ScheduledEnd
++  scheduledEndAt?: ScheduledEnd
+   scheduledStartAt?: ScheduledStart
+   sourcePlaceId?: SourcePlaceId
+   sourceUrl?: SourceUrl
+diff --git a/places/locations/pages/brussels-airport-bru-europe-exit.location.ts b/places/locations/pages/brussels-airport-bru-europe-exit.location.ts
+index 3803b67d71a714536c8f5dd373cb23a1f223a758..68c6a2eece183ccf2799895800ad85750b69cfcc 100644
+--- a/places/locations/pages/brussels-airport-bru-europe-exit.location.ts
++++ b/places/locations/pages/brussels-airport-bru-europe-exit.location.ts
+@@ -8,6 +8,6 @@ export const brusselsAirportBruEuropeExit = {
+   collection: "europe-trip-2026",
+   latitude: 50.9014,
+   longitude: 4.4844,
+-  scheduledEnd: "2026-07-23T10:00:00.000Z",
++  scheduledEndAt: "2026-07-23T10:00:00.000Z",
+   scheduledStartAt: "2026-07-23T10:00:00.000Z",
+ } as const satisfies Location
+diff --git a/places/locations/pages/eso-tavern-2026-burg-ludwigstein.location.ts b/places/locations/pages/eso-tavern-2026-burg-ludwigstein.location.ts
+index 10d9a4b3b4d49611be1e6a2200c59ad3921abf40..a2d760a4e57b6b66ddecc110a2a616d2f1bebc1c 100644
+--- a/places/locations/pages/eso-tavern-2026-burg-ludwigstein.location.ts
++++ b/places/locations/pages/eso-tavern-2026-burg-ludwigstein.location.ts
+@@ -8,6 +8,6 @@ export const esoTavern2026BurgLudwigstein = {
+   collection: "europe-trip-2026",
+   latitude: 51.3217,
+   longitude: 9.9092,
+-  scheduledEnd: "2026-07-12T12:00:00.000Z",
++  scheduledEndAt: "2026-07-12T12:00:00.000Z",
+   scheduledStartAt: "2026-07-10T15:00:00.000Z",
+ } as const satisfies Location
+diff --git a/places/locations/pages/frankfurt-airport-fra-europe-entry.location.ts b/places/locations/pages/frankfurt-airport-fra-europe-entry.location.ts
+index bcb4b87507604d7b28c183f112c5aecdcf1f5d6b..517240cd6bdd0dea9541e74f00623ace1c3835f1 100644
+--- a/places/locations/pages/frankfurt-airport-fra-europe-entry.location.ts
++++ b/places/locations/pages/frankfurt-airport-fra-europe-entry.location.ts
+@@ -8,6 +8,6 @@ export const frankfurtAirportFraEuropeEntry = {
+   collection: "europe-trip-2026",
+   latitude: 50.0379,
+   longitude: 8.5622,
+-  scheduledEnd: "2026-07-08T07:55:00.000Z",
++  scheduledEndAt: "2026-07-08T07:55:00.000Z",
+   scheduledStartAt: "2026-07-08T07:55:00.000Z",
+ } as const satisfies Location
+diff --git a/places/locations/properties/scheduled-end-at.instant-property.ts b/places/locations/properties/scheduled-end-at.instant-property.ts
+index e4943e48ed674972269a6183d9301666279f6a8c..7c2edafd7f8167563f345bd276965ae8dbe5feba 100644
+--- a/places/locations/properties/scheduled-end-at.instant-property.ts
++++ b/places/locations/properties/scheduled-end-at.instant-property.ts
+@@ -6,6 +6,6 @@ export const scheduledEndAt = {
+   id: "01a06583-acfb-739e-8d97-ad51783ebe95",
+   pageTypeSlug: "instant-property",
+   slug: "scheduled-end-at",
+-  propertySlug: "scheduled-end",
++  propertySlug: "scheduled-end-at",
+   definition: "when the person is due to leave the place",
+ } as const satisfies InstantProperty
