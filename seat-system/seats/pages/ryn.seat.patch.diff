@@ -1,0 +1,14 @@
+diff --git a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts b/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
+index d63f5e54249530e4b745c8d64388b6470ee474c5..d0dcbcbcd2fd95bbc848909810ef5a95033649bf 100644
+--- a/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
++++ b/alan/harness/monarch/notes-write/monarch-notes-write.module.ts
+@@ -9,8 +9,7 @@ export const monarchNotesWrite = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A note is written only where a live read at the moment of writing, not our copy, shows no note.",
++      statement: "A note is written only where a live read at the moment of writing shows no note.",
+     },
+     {
+       invariantKind: "departure",
