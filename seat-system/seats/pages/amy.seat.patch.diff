@@ -1,5 +1,3 @@
-writerOwesReading: false
-readersOweReading: false
 diff --git a/alan/fitness/exercise-access/exercise-access.workspace-package.ts b/alan/fitness/exercise-access/exercise-access.workspace-package.ts
 index f7473615fc9a088c1d3e9167dd04ca6d0b6448b8..d4af7acfe66eb44428ed8ad6782513103d1039fc 100644
 --- a/alan/fitness/exercise-access/exercise-access.workspace-package.ts
@@ -589,3 +587,26 @@ index b34282d30ec0445900611618a508554dd7cc6996..04e8ab57c021b6738445ba9704900d6e
      "module/day-opening",
    ],
    invariants: [
+diff --git a/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts b/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts
+index db2926a547f28a2791fc0b040cc011466a7ec27a..e9632f0fd1ccc025bbf9c8cb76fbcc8c366da33b 100644
+--- a/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts
++++ b/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts
+@@ -9,7 +9,6 @@ const DAILY_TRACKING_VERSION = "3.0"
+ 
+ const DAY_KEY_OF: Readonly<Record<string, string>> = {
+   activeCalories: "active-calories",
+-  strengthVolume: "strength-volume",
+   sleepPoints: "sleep-points",
+   nutritionPoints: "nutrition-points",
+   taskPoints: "task-points",
+@@ -60,10 +59,6 @@ export function writeActiveCalories(dayStr: string, activeCalories: number): Pro
+   return writeDailyReading(dayStr, "activeCalories", activeCalories)
+ }
+ 
+-export function writeStrengthVolume(dayStr: string, strengthVolume: number): Promise<WriteOutcome> {
+-  return writeDailyReading(dayStr, "strengthVolume", strengthVolume)
+-}
+-
+ export function writeSleepPoints(dayStr: string, sleepPoints: number): Promise<WriteOutcome> {
+   return writeDailyReading(dayStr, "sleepPoints", sleepPoints)
+ }
