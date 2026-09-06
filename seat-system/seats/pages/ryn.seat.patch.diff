@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/inference/clients/mlx-vlm-client/mlx-vlm-client.module.ts b/inference/clients/mlx-vlm-client/mlx-vlm-client.module.ts
+index 17cfe5f66c4cd08fa171a773252dec0636132f76..233948288b96cd245e71e5156e4f4e461ac6f5c9 100644
+--- a/inference/clients/mlx-vlm-client/mlx-vlm-client.module.ts
++++ b/inference/clients/mlx-vlm-client/mlx-vlm-client.module.ts
+@@ -19,7 +19,7 @@ export const mlxVlmClient = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Asking for more frames than the clip holds answers with all of the frames the clip holds.",
++        "Asking for more frames than the clip holds answers with every frame the clip holds.",
+     },
+     {
+       invariantKind: "departure",
