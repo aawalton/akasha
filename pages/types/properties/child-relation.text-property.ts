@@ -13,7 +13,7 @@ export const childRelation = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A key named here that the gathered page type carries none of gathers nothing.",
+      statement: "A key named here that the gathered page type does not carry gathers nothing.",
     },
   ],
 } as const satisfies TextProperty
