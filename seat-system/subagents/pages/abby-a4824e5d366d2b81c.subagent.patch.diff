@@ -1,0 +1,25 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-win-is-grep-or-the-file-shape.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-win-is-grep-or-the-file-shape.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f5d6c5b9e60ce39d2d20c992aaefaffe113cb404
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-win-is-grep-or-the-file-shape.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheWinIsGrepOrTheFileShape = {
++  id: "01a077e9-6e1c-7134-84ef-5a22fbb4126e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-win-is-grep-or-the-file-shape",
++  topicSlug: "why-i-keep-my-data-in-files",
++  ask: "Is the win grep itself, or the shape I gave the files?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/why-i-keep-my-data-in-files.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/why-i-keep-my-data-in-files.all-about-alan-topic.ts
+index c94c7bc28164285c20f597767674bc5743272e36..5c36a6c43be44f0ea04712d5c7f5f82498fd4713 100644
+--- a/alan/books/all-about-alan/topics/pages/why-i-keep-my-data-in-files.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/why-i-keep-my-data-in-files.all-about-alan-topic.ts
+@@ -14,5 +14,4 @@ export const whyIKeepMyDataInFiles = {
+   ],
+   settled:
+     "A database assumes you know exactly what you are looking for.\n\nA file system with grep assumes you do not know exactly what you are looking for, which is a much better fit for this case.\n\nI built a fully file-backed database from scratch and did a lift and shift of about three hundred tables out of Postgres into it.\n\nAll that context is now just a grep away.",
+-  unsettled: "Whether the win is grep itself or the shape I gave the files is not separated.",
+ } as const satisfies AllAboutAlanTopic
