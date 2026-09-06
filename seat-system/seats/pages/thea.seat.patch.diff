@@ -1476,3 +1476,751 @@ index 1435f796956c9cd9a5a330a5033f55d87d1b78e5..aa7a607168fdf51c5649199fa70fa493
 +  maxLength: 200,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/relating/relationships/properties/relationship-account-user-id.text-property.ts b/alan/relating/relationships/properties/relationship-account-user-id.text-property.ts
+index ea1c6740cac41fe9366a4c4d4529794ef5f6e9be..f4ff3208112b55fa8585f685a3c4112001dab052 100644
+--- a/alan/relating/relationships/properties/relationship-account-user-id.text-property.ts
++++ b/alan/relating/relationships/properties/relationship-account-user-id.text-property.ts
+@@ -8,6 +8,6 @@ export const relationshipAccountUserId = {
+   slug: "relationship-account-user-id",
+   propertySlug: "relationship-account-user-id",
+   definition: "the account this person signs in with",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/relating/relationships/properties/relationship-aliases.text-property.ts b/alan/relating/relationships/properties/relationship-aliases.text-property.ts
+index 7ca955e6c259ef3d0782e73bf2756c0fb28984ab..e2f3e9ef47108b90c791ef7eb786a3c97c5de106 100644
+--- a/alan/relating/relationships/properties/relationship-aliases.text-property.ts
++++ b/alan/relating/relationships/properties/relationship-aliases.text-property.ts
+@@ -8,6 +8,6 @@ export const relationshipAliases = {
+   slug: "relationship-aliases",
+   propertySlug: "relationship-aliases",
+   definition: "the other names this person is called by",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/relating/relationships/properties/relationship-company.text-property.ts b/alan/relating/relationships/properties/relationship-company.text-property.ts
+index 63e04d67ff8e5934c686323cf644c69a73da4b11..fd900edc9e062e306f8d0d59d6e0b04a133402d7 100644
+--- a/alan/relating/relationships/properties/relationship-company.text-property.ts
++++ b/alan/relating/relationships/properties/relationship-company.text-property.ts
+@@ -8,6 +8,6 @@ export const relationshipCompany = {
+   slug: "relationship-company",
+   propertySlug: "relationship-company",
+   definition: "where this person does that work",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/relating/relationships/properties/relationship-met-at.text-property.ts b/alan/relating/relationships/properties/relationship-met-at.text-property.ts
+index eb8a047faa93b203f71487bb0ccd305f14357948..9341e849d0469d1545d333d79d897fc1d68cfeb3 100644
+--- a/alan/relating/relationships/properties/relationship-met-at.text-property.ts
++++ b/alan/relating/relationships/properties/relationship-met-at.text-property.ts
+@@ -8,6 +8,6 @@ export const relationshipMetAt = {
+   slug: "relationship-met-at",
+   propertySlug: "relationship-met-at",
+   definition: "where Alan first met this person",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/relating/relationships/properties/relationship-role.text-property.ts b/alan/relating/relationships/properties/relationship-role.text-property.ts
+index 3c6166b5ad88ae214c38a817fb8d4e6593518fee..ecc05b0073791b8dd9e586eb666384d600674e8c 100644
+--- a/alan/relating/relationships/properties/relationship-role.text-property.ts
++++ b/alan/relating/relationships/properties/relationship-role.text-property.ts
+@@ -8,6 +8,6 @@ export const relationshipRole = {
+   slug: "relationship-role",
+   propertySlug: "relationship-role",
+   definition: "the work this person does",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/self/identity-statements/properties/identity-statement-tags.text-property.ts b/alan/self/identity-statements/properties/identity-statement-tags.text-property.ts
+index 5c5a8b829efb73a38d008fff6dceb1881f28ac79..e558cad35537a2000de6840b91e54c8dda283d3b 100644
+--- a/alan/self/identity-statements/properties/identity-statement-tags.text-property.ts
++++ b/alan/self/identity-statements/properties/identity-statement-tags.text-property.ts
+@@ -8,6 +8,6 @@ export const identityStatementTags = {
+   slug: "identity-statement-tags",
+   propertySlug: "identity-statement-tags",
+   definition: "the parts of life the statement touches",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/self/identity-statements/properties/notion-id.text-property.ts b/alan/self/identity-statements/properties/notion-id.text-property.ts
+index fc2fd4290be1ca8066d17d35bcbd0f1beb8d4606..c39aaf43f614485e07a0ef6bac11fd6d1155aa6a 100644
+--- a/alan/self/identity-statements/properties/notion-id.text-property.ts
++++ b/alan/self/identity-statements/properties/notion-id.text-property.ts
+@@ -8,6 +8,6 @@ export const notionId = {
+   slug: "notion-id",
+   propertySlug: "notion-id",
+   definition: "the Notion page this statement was imported from",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/tracking/daily/eso-days/properties/eso-day.text-property.ts b/alan/tracking/daily/eso-days/properties/eso-day.text-property.ts
+index 5d4362891e76c8279b3feb33e7cc636db2898ebd..4f69356a0a62f8cbc7aefa9e2bf0d9ae53b39f04 100644
+--- a/alan/tracking/daily/eso-days/properties/eso-day.text-property.ts
++++ b/alan/tracking/daily/eso-days/properties/eso-day.text-property.ts
+@@ -8,7 +8,7 @@ export const esoDay = {
+   slug: "eso-day",
+   propertySlug: "eso-day",
+   definition: "the ESO day a record is of",
+-  max: 10,
++  maxLength: 10,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/eso-days/properties/metric.text-property.ts b/alan/tracking/daily/eso-days/properties/metric.text-property.ts
+index 6e6c799a663b24f098275611db95e2bc6e088d10..35f0b831dff423951c4f566956272a5337c5f98a 100644
+--- a/alan/tracking/daily/eso-days/properties/metric.text-property.ts
++++ b/alan/tracking/daily/eso-days/properties/metric.text-property.ts
+@@ -8,6 +8,6 @@ export const metric = {
+   slug: "metric",
+   propertySlug: "metric",
+   definition: "the kind of measurement a reading carries",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/tracking/daily/eso-days/properties/play-key.text-property.ts b/alan/tracking/daily/eso-days/properties/play-key.text-property.ts
+index 3a939129e42959f82942a56e57dc03059f5b4803..694cdf911aa891a02a2237e3a4ffdf617b14c7df 100644
+--- a/alan/tracking/daily/eso-days/properties/play-key.text-property.ts
++++ b/alan/tracking/daily/eso-days/properties/play-key.text-property.ts
+@@ -8,7 +8,7 @@ export const playKey = {
+   slug: "play-key",
+   propertySlug: "play-key",
+   definition: "the text one listen is told apart from every other listen by",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/eso-days/properties/source-name.text-property.ts b/alan/tracking/daily/eso-days/properties/source-name.text-property.ts
+index 80ec9621754224e29c08eb46b889ef91cffb445f..29b54c898d5ca92eb12d189ed47f32afe3da8ffb 100644
+--- a/alan/tracking/daily/eso-days/properties/source-name.text-property.ts
++++ b/alan/tracking/daily/eso-days/properties/source-name.text-property.ts
+@@ -8,6 +8,6 @@ export const sourceName = {
+   slug: "source-name",
+   propertySlug: "source-name",
+   definition: "what recorded a reading",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/tracking/daily/eso-days/properties/surplus-tier-said.text-property.ts b/alan/tracking/daily/eso-days/properties/surplus-tier-said.text-property.ts
+index 7a222660ce5735ca904ae19ff986460832eb3994..b114986a47d45faa1af6af12c9122c24a1b4a48f 100644
+--- a/alan/tracking/daily/eso-days/properties/surplus-tier-said.text-property.ts
++++ b/alan/tracking/daily/eso-days/properties/surplus-tier-said.text-property.ts
+@@ -8,7 +8,7 @@ export const surplusTierSaid = {
+   slug: "surplus-tier-said",
+   propertySlug: "surplus-tier-said",
+   definition: "the lowest rung Alan was told his surplus had fallen to on a day",
+-  max: 6,
++  maxLength: 6,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/wake-days/properties/daily-tracking.text-property.ts b/alan/tracking/daily/wake-days/properties/daily-tracking.text-property.ts
+index 9106170732ccd9122f3bfc77e11af1d7d246f9e7..4e1b842472dcb370e98a25e29ee9d65aec9e44d3 100644
+--- a/alan/tracking/daily/wake-days/properties/daily-tracking.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/daily-tracking.text-property.ts
+@@ -8,7 +8,7 @@ export const dailyTracking = {
+   slug: "daily-tracking",
+   propertySlug: "daily-tracking",
+   definition: "the day a stretch of time was part of",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/wake-days/properties/date.text-property.ts b/alan/tracking/daily/wake-days/properties/date.text-property.ts
+index d1445dec025bad259225c0677c6e8d68dab90b1b..17a3c2919823c821895038c5fda3ad109453e825 100644
+--- a/alan/tracking/daily/wake-days/properties/date.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/date.text-property.ts
+@@ -8,7 +8,7 @@ export const date = {
+   slug: "date",
+   propertySlug: "date",
+   definition: "the day a record is of",
+-  max: 10,
++  maxLength: 10,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/wake-days/properties/difficulty-level.text-property.ts b/alan/tracking/daily/wake-days/properties/difficulty-level.text-property.ts
+index 9e7d012922016c74e1a939d12e359ebfbf9fce3e..701cb5c9bcb032938afabf82095677d4081e8421 100644
+--- a/alan/tracking/daily/wake-days/properties/difficulty-level.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/difficulty-level.text-property.ts
+@@ -8,7 +8,7 @@ export const difficultyLevel = {
+   slug: "difficulty-level",
+   propertySlug: "difficulty-level",
+   definition: "how hard what Alan was doing was on him",
+-  max: 3,
++  maxLength: 3,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/wake-days/properties/end-time.text-property.ts b/alan/tracking/daily/wake-days/properties/end-time.text-property.ts
+index 45ab3402f78a03fffc802628c07466d1578458fa..85532e42245a12a78b55a8dc59f029ff7ef76f04 100644
+--- a/alan/tracking/daily/wake-days/properties/end-time.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/end-time.text-property.ts
+@@ -8,7 +8,7 @@ export const endTime = {
+   slug: "end-time",
+   propertySlug: "end-time",
+   definition: "when a stretch of time ended",
+-  max: 24,
++  maxLength: 24,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/wake-days/properties/meals.text-property.ts b/alan/tracking/daily/wake-days/properties/meals.text-property.ts
+index 36a11ee07d718f53aad04251320bb1b23d7efae7..35161385788b20abc3d72caebbcda0c5081990bd 100644
+--- a/alan/tracking/daily/wake-days/properties/meals.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/meals.text-property.ts
+@@ -9,7 +9,7 @@ export const meals = {
+   slug: "meals",
+   propertySlug: "meals",
+   definition: "every meal recorded against a day",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/wake-days/properties/owner.text-property.ts b/alan/tracking/daily/wake-days/properties/owner.text-property.ts
+index bc9564f86f4eb82c091763e64b18f282ac5c380f..25ecfbcf9a3940293c19a091a81c780f844b3e2b 100644
+--- a/alan/tracking/daily/wake-days/properties/owner.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/owner.text-property.ts
+@@ -8,7 +8,7 @@ export const owner = {
+   slug: "owner",
+   propertySlug: "owner",
+   definition: "the person a record belongs to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/wake-days/properties/persona-days.text-property.ts b/alan/tracking/daily/wake-days/properties/persona-days.text-property.ts
+index 0de2147a10f1095aeca295226b4834672ab14dc8..b612ff27df4d1bd0b626223d314339a98f101015 100644
+--- a/alan/tracking/daily/wake-days/properties/persona-days.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/persona-days.text-property.ts
+@@ -9,7 +9,7 @@ export const personaDays = {
+   slug: "persona-days",
+   propertySlug: "persona-days",
+   definition: "every persona day recorded against a day",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/wake-days/properties/recurrence.text-property.ts b/alan/tracking/daily/wake-days/properties/recurrence.text-property.ts
+index 0f6a54747a9e9cca43e3560ab521d6d14c98fe16..fed7ecef7b830df71c6655db2eea2123ab3aa518 100644
+--- a/alan/tracking/daily/wake-days/properties/recurrence.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/recurrence.text-property.ts
+@@ -8,6 +8,6 @@ export const recurrence = {
+   slug: "recurrence",
+   propertySlug: "recurrence",
+   definition: "the rule bringing a to-do round again",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/tracking/daily/wake-days/properties/relationships.text-property.ts b/alan/tracking/daily/wake-days/properties/relationships.text-property.ts
+index 4271287c6d5c7608c89ba9f12e1006133e69785e..6380f57aa107cf388589352fd47a3270caf66c11 100644
+--- a/alan/tracking/daily/wake-days/properties/relationships.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/relationships.text-property.ts
+@@ -9,7 +9,7 @@ export const relationships = {
+   slug: "relationships",
+   propertySlug: "relationships",
+   definition: "the people a stretch of time was spent with",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/wake-days/properties/safety-level.text-property.ts b/alan/tracking/daily/wake-days/properties/safety-level.text-property.ts
+index d7d1381ca41898da6d20f6635e54c4616d97f9ba..5104c8b02dea3b56d225d4e4989c6e3addc6c2e0 100644
+--- a/alan/tracking/daily/wake-days/properties/safety-level.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/safety-level.text-property.ts
+@@ -8,7 +8,7 @@ export const safetyLevel = {
+   slug: "safety-level",
+   propertySlug: "safety-level",
+   definition: "how safe Alan was over a stretch of time",
+-  max: 3,
++  maxLength: 3,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/wake-days/properties/start-time.text-property.ts b/alan/tracking/daily/wake-days/properties/start-time.text-property.ts
+index f37d9fbc67aa4692987a551d0d0a202d73002425..b85fd5c4cabf9ea09365989814235c81fb3f5718 100644
+--- a/alan/tracking/daily/wake-days/properties/start-time.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/start-time.text-property.ts
+@@ -8,7 +8,7 @@ export const startTime = {
+   slug: "start-time",
+   propertySlug: "start-time",
+   definition: "when a stretch of time began",
+-  max: 24,
++  maxLength: 24,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/wake-days/properties/to-do-slug.text-property.ts b/alan/tracking/daily/wake-days/properties/to-do-slug.text-property.ts
+index 33b6dac0ebcf9ed64cb5a3e21a0ff3dddfdb1de3..e16b42c4a3f67d561df6c34100b3db9763370bc1 100644
+--- a/alan/tracking/daily/wake-days/properties/to-do-slug.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/to-do-slug.text-property.ts
+@@ -8,7 +8,7 @@ export const toDoSlug = {
+   slug: "to-do-slug",
+   propertySlug: "to-do-slug",
+   definition: "the to-do a round finished",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/alan/tracking/daily/wake-days/properties/version.text-property.ts b/alan/tracking/daily/wake-days/properties/version.text-property.ts
+index f1624f230eb4966a5a5f70a48311420aca07f46d..965cfe1633fed8f090560bd7363d736da8caadfd 100644
+--- a/alan/tracking/daily/wake-days/properties/version.text-property.ts
++++ b/alan/tracking/daily/wake-days/properties/version.text-property.ts
+@@ -8,7 +8,7 @@ export const version = {
+   slug: "version",
+   propertySlug: "version",
+   definition: "which shape of a record was written",
+-  max: 10,
++  maxLength: 10,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/tracking/location-traces/properties/device-id.text-property.ts b/alan/tracking/location-traces/properties/device-id.text-property.ts
+index c64f09667379fbd1823f3aca5771ad64780131b7..8b2950f69e0920678a1e34f33268b4a3e9871252 100644
+--- a/alan/tracking/location-traces/properties/device-id.text-property.ts
++++ b/alan/tracking/location-traces/properties/device-id.text-property.ts
+@@ -8,6 +8,6 @@ export const deviceId = {
+   slug: "device-id",
+   propertySlug: "device-id",
+   definition: "which of Alan's devices took this trace",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/tracking/location-traces/properties/trace-activity-type.text-property.ts b/alan/tracking/location-traces/properties/trace-activity-type.text-property.ts
+index f441113933a5a674b567cdca73c50113bc770e20..886e333c8fde629b7a4a1fba085617b16572df93 100644
+--- a/alan/tracking/location-traces/properties/trace-activity-type.text-property.ts
++++ b/alan/tracking/location-traces/properties/trace-activity-type.text-property.ts
+@@ -8,6 +8,6 @@ export const traceActivityType = {
+   slug: "trace-activity-type",
+   propertySlug: "activity-type",
+   definition: "what the device judged Alan to be doing",
+-  max: 32,
++  maxLength: 32,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/tracking/location-traces/properties/trace-source.text-property.ts b/alan/tracking/location-traces/properties/trace-source.text-property.ts
+index c7efb456db26150ee932e79fb118083bd52ac07c..dc5883dddc76d8b76c6edbfb40eee032e2a3b5e2 100644
+--- a/alan/tracking/location-traces/properties/trace-source.text-property.ts
++++ b/alan/tracking/location-traces/properties/trace-source.text-property.ts
+@@ -8,6 +8,6 @@ export const traceSource = {
+   slug: "trace-source",
+   propertySlug: "source",
+   definition: "what put this trace in the store",
+-  max: 32,
++  maxLength: 32,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/tracking/to-dos/properties/due-time.text-property.ts b/alan/tracking/to-dos/properties/due-time.text-property.ts
+index a0ec041caa04b7d066ddb7581a684395ab178e03..7111afe5c7153ba0d8a42d5be81fe73d2985ef29 100644
+--- a/alan/tracking/to-dos/properties/due-time.text-property.ts
++++ b/alan/tracking/to-dos/properties/due-time.text-property.ts
+@@ -8,6 +8,6 @@ export const dueTime = {
+   slug: "due-time",
+   propertySlug: "due-time",
+   definition: "the time of day a to-do comes due",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/tracking/to-dos/properties/to-do-recurrence.text-property.ts b/alan/tracking/to-dos/properties/to-do-recurrence.text-property.ts
+index f64dbd5d5689177c4a94b6166f225d37e64a6052..a64fba111814981d8701e5de24a57f4715d9b524 100644
+--- a/alan/tracking/to-dos/properties/to-do-recurrence.text-property.ts
++++ b/alan/tracking/to-dos/properties/to-do-recurrence.text-property.ts
+@@ -8,6 +8,6 @@ export const toDoRecurrence = {
+   slug: "to-do-recurrence",
+   propertySlug: "to-do-recurrence",
+   definition: "the rule saying when a to-do comes round again",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/checks/cluster-checks/properties/closure-policy.text-property.ts b/checks/cluster-checks/properties/closure-policy.text-property.ts
+index 8defeaff31ea38b45954a16c774142fd0813326f..3cae489e1460eec60aafc836e95fdd647543b5de 100644
+--- a/checks/cluster-checks/properties/closure-policy.text-property.ts
++++ b/checks/cluster-checks/properties/closure-policy.text-property.ts
+@@ -8,6 +8,6 @@ export const closurePolicy = {
+   slug: "closure-policy",
+   propertySlug: "closure-policy",
+   definition: "how the files a check reads are worked out",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/checks/cluster-checks/properties/environment.text-property.ts b/checks/cluster-checks/properties/environment.text-property.ts
+index 7e76bb7434b8a38d837eb58ef6614756a0e67348..4f6d91b13d8c3dc0ea91d88742062821c3b59776 100644
+--- a/checks/cluster-checks/properties/environment.text-property.ts
++++ b/checks/cluster-checks/properties/environment.text-property.ts
+@@ -8,6 +8,6 @@ export const environment = {
+   slug: "environment",
+   propertySlug: "environment",
+   definition: "the variables a process is started with",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/checks/cluster-checks/properties/limit-memory.text-property.ts b/checks/cluster-checks/properties/limit-memory.text-property.ts
+index 310fc0a3aa8a372458300763438da8984ad24068..cde0251cf839c3e09d517efb0873b8c63ff9acb4 100644
+--- a/checks/cluster-checks/properties/limit-memory.text-property.ts
++++ b/checks/cluster-checks/properties/limit-memory.text-property.ts
+@@ -8,6 +8,6 @@ export const limitMemory = {
+   slug: "limit-memory",
+   propertySlug: "limit-memory",
+   definition: "the memory a pod is held to",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/checks/cluster-checks/properties/node-kind.text-property.ts b/checks/cluster-checks/properties/node-kind.text-property.ts
+index a7936610c4623f75498f411bfbf34457f04d073c..3fc248a2db051e83570f1c5981c979294e3639d1 100644
+--- a/checks/cluster-checks/properties/node-kind.text-property.ts
++++ b/checks/cluster-checks/properties/node-kind.text-property.ts
+@@ -8,6 +8,6 @@ export const nodeKind = {
+   slug: "node-kind",
+   propertySlug: "node-kind",
+   definition: "the sort of tree node a dispatch names",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/checks/cluster-checks/properties/request-cpu.text-property.ts b/checks/cluster-checks/properties/request-cpu.text-property.ts
+index 61e488ada1935957e219d8cb8f62baf9669d62a7..187d623e25a6b1f7e69aeae8863e7aed22c68025 100644
+--- a/checks/cluster-checks/properties/request-cpu.text-property.ts
++++ b/checks/cluster-checks/properties/request-cpu.text-property.ts
+@@ -8,6 +8,6 @@ export const requestCpu = {
+   slug: "request-cpu",
+   propertySlug: "request-cpu",
+   definition: "the processor time a pod asks for",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/checks/cluster-checks/properties/request-memory.text-property.ts b/checks/cluster-checks/properties/request-memory.text-property.ts
+index 062c2384c6dff40d8c468aba1937cea94ea7107c..5baf59ce165b34cd2f3e9224e52cd0ee3165a1f5 100644
+--- a/checks/cluster-checks/properties/request-memory.text-property.ts
++++ b/checks/cluster-checks/properties/request-memory.text-property.ts
+@@ -8,6 +8,6 @@ export const requestMemory = {
+   slug: "request-memory",
+   propertySlug: "request-memory",
+   definition: "the memory a pod asks for",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/checks/cluster-checks/properties/under.text-property.ts b/checks/cluster-checks/properties/under.text-property.ts
+index e30a3f7861c579115a778dad38b4e88138bb883d..22d5ded3cca7ec7bda528f9035621010e4c12bc3 100644
+--- a/checks/cluster-checks/properties/under.text-property.ts
++++ b/checks/cluster-checks/properties/under.text-property.ts
+@@ -8,6 +8,6 @@ export const under = {
+   slug: "under",
+   propertySlug: "under",
+   definition: "the path a dispatch is narrowed to",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/checks/refusals/properties/refusal-text.text-property.ts b/checks/refusals/properties/refusal-text.text-property.ts
+index 8e260a498c0d3cb24a957812aeb34e466b3839ac..663c5650e8d3fb3f0f1404e073b0b4d8d1c0dc3a 100644
+--- a/checks/refusals/properties/refusal-text.text-property.ts
++++ b/checks/refusals/properties/refusal-text.text-property.ts
+@@ -8,7 +8,7 @@ export const refusalText = {
+   slug: "refusal-text",
+   propertySlug: "text",
+   definition: "the words a refusal prints, with holes to fill",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/code-system/eso-interfaces/properties/loaded-as.text-property.ts b/code-system/eso-interfaces/properties/loaded-as.text-property.ts
+index c936bbd690782c7bb5d74102490356a3ccbb3ec7..d658373fafe695c8499e031911ed725a99a20066 100644
+--- a/code-system/eso-interfaces/properties/loaded-as.text-property.ts
++++ b/code-system/eso-interfaces/properties/loaded-as.text-property.ts
+@@ -8,7 +8,7 @@ export const loadedAs = {
+   slug: "loaded-as",
+   propertySlug: "loaded-as",
+   definition: "the name an addon's manifest loads this file by",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/code-system/ios-apps/properties/app-profile-name.text-property.ts b/code-system/ios-apps/properties/app-profile-name.text-property.ts
+index 61035d369e6ece91deb3ea76f7fb7995d33a57e6..9611a1f9cf1dc468a8d4c15a752e0ca386a63dd3 100644
+--- a/code-system/ios-apps/properties/app-profile-name.text-property.ts
++++ b/code-system/ios-apps/properties/app-profile-name.text-property.ts
+@@ -8,6 +8,6 @@ export const appProfileName = {
+   slug: "app-profile-name",
+   propertySlug: "app-profile-name",
+   definition: "the App Store profile an app is signed with",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/code-system/ios-apps/properties/asc-capabilities.text-property.ts b/code-system/ios-apps/properties/asc-capabilities.text-property.ts
+index d0547667e720e133d451d16bca53cba75d4228b2..dae14861553dbe9a5393b33d2106b77ebd2af632 100644
+--- a/code-system/ios-apps/properties/asc-capabilities.text-property.ts
++++ b/code-system/ios-apps/properties/asc-capabilities.text-property.ts
+@@ -11,7 +11,7 @@ export const ascCapabilities = {
+   slug: "asc-capabilities",
+   propertySlug: "asc-capabilities",
+   definition: "the capabilities Apple enables on an app's identifier",
+-  max: 60,
++  maxLength: 60,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/code-system/ios-apps/properties/bundle-id.text-property.ts b/code-system/ios-apps/properties/bundle-id.text-property.ts
+index 1e297c5035512a408a3378b86db06c2e5264ed8d..d7c3c97644ce2e23aec7450caf59293555edf3ed 100644
+--- a/code-system/ios-apps/properties/bundle-id.text-property.ts
++++ b/code-system/ios-apps/properties/bundle-id.text-property.ts
+@@ -8,7 +8,7 @@ export const bundleId = {
+   slug: "bundle-id",
+   propertySlug: "bundle-id",
+   definition: "the name a phone knows an app by",
+-  max: 155,
++  maxLength: 155,
+   nameFormatSlug: null,
+   unique: "page-type",
+ } as const satisfies TextProperty
+diff --git a/code-system/ios-apps/properties/default-device-udid.text-property.ts b/code-system/ios-apps/properties/default-device-udid.text-property.ts
+index b0e273dce4bd0d73b62c9e08f71af30ea90d112f..ded29d890ea93baac5c0b688990745b9d7c3d1e0 100644
+--- a/code-system/ios-apps/properties/default-device-udid.text-property.ts
++++ b/code-system/ios-apps/properties/default-device-udid.text-property.ts
+@@ -8,6 +8,6 @@ export const defaultDeviceUdid = {
+   slug: "default-device-udid",
+   propertySlug: "default-device-udid",
+   definition: "the device an app is installed on when the call names none",
+-  max: 40,
++  maxLength: 40,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/code-system/ios-apps/properties/development-team.text-property.ts b/code-system/ios-apps/properties/development-team.text-property.ts
+index 28a456f9990d292ec709ea0e95df0766229cc848..b1c688a50e2525980502b228e42c8f7fd6e7e6fb 100644
+--- a/code-system/ios-apps/properties/development-team.text-property.ts
++++ b/code-system/ios-apps/properties/development-team.text-property.ts
+@@ -8,6 +8,6 @@ export const developmentTeam = {
+   slug: "development-team",
+   propertySlug: "development-team",
+   definition: "the Apple team an app is built for",
+-  max: 10,
++  maxLength: 10,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/code-system/ios-apps/properties/display-name.text-property.ts b/code-system/ios-apps/properties/display-name.text-property.ts
+index 94dbe0805c58558c738ab0f1fb504d599fb91b5e..d5abeb207a678b51a17b1a2386244988974ff049 100644
+--- a/code-system/ios-apps/properties/display-name.text-property.ts
++++ b/code-system/ios-apps/properties/display-name.text-property.ts
+@@ -8,6 +8,6 @@ export const displayName = {
+   slug: "display-name",
+   propertySlug: "display-name",
+   definition: "the name under an app's icon",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/code-system/ios-apps/properties/mac-build-lock-dir.text-property.ts b/code-system/ios-apps/properties/mac-build-lock-dir.text-property.ts
+index d9270e11fbf9d38a13d1ee8e88c1a2cf059c830a..f860bd33de143f8937b21f4e953830ba9f228e6f 100644
+--- a/code-system/ios-apps/properties/mac-build-lock-dir.text-property.ts
++++ b/code-system/ios-apps/properties/mac-build-lock-dir.text-property.ts
+@@ -8,6 +8,6 @@ export const macBuildLockDir = {
+   slug: "mac-build-lock-dir",
+   propertySlug: "mac-build-lock-dir",
+   definition: "where an app's builds take their lock on the mac",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/code-system/ios-apps/properties/mac-build-number-file.text-property.ts b/code-system/ios-apps/properties/mac-build-number-file.text-property.ts
+index eb070ef93691b0e41308019e5bf6d58438e6be66..815a18748eddc7a91fefe33c9701f62eff668213 100644
+--- a/code-system/ios-apps/properties/mac-build-number-file.text-property.ts
++++ b/code-system/ios-apps/properties/mac-build-number-file.text-property.ts
+@@ -8,6 +8,6 @@ export const macBuildNumberFile = {
+   slug: "mac-build-number-file",
+   propertySlug: "mac-build-number-file",
+   definition: "where the number an app's next build takes is kept on the mac",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/code-system/ios-apps/properties/mac-www-staging-rel.text-property.ts b/code-system/ios-apps/properties/mac-www-staging-rel.text-property.ts
+index 6f5e803fd70a6df9fa3f3cfd98678d0fd38bf6ef..830443c6325a05cd33bcd600b1289bfc1dd2c1e6 100644
+--- a/code-system/ios-apps/properties/mac-www-staging-rel.text-property.ts
++++ b/code-system/ios-apps/properties/mac-www-staging-rel.text-property.ts
+@@ -8,6 +8,6 @@ export const macWwwStagingRel = {
+   slug: "mac-www-staging-rel",
+   propertySlug: "mac-www-staging-rel",
+   definition: "where an app's site is staged on the mac, read against the home directory",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/code-system/ios-apps/properties/marketing-version.text-property.ts b/code-system/ios-apps/properties/marketing-version.text-property.ts
+index e2fdfdde4dbda4d7bd5540fd56c59009ae0984dd..41f0f8d3a00e60c0f199f72c56267452228b2374 100644
+--- a/code-system/ios-apps/properties/marketing-version.text-property.ts
++++ b/code-system/ios-apps/properties/marketing-version.text-property.ts
+@@ -8,7 +8,7 @@ export const marketingVersion = {
+   slug: "marketing-version",
+   propertySlug: "marketing-version",
+   definition: "the version of an app a person reads on the App Store",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/code-system/ios-apps/properties/native-shell-repo-path.text-property.ts b/code-system/ios-apps/properties/native-shell-repo-path.text-property.ts
+index 851ecd3a7d03d0594f9fba35bf4803447146e89b..0d0d5703e6d326e0bacfcf971437a41c360f8d86 100644
+--- a/code-system/ios-apps/properties/native-shell-repo-path.text-property.ts
++++ b/code-system/ios-apps/properties/native-shell-repo-path.text-property.ts
+@@ -8,7 +8,7 @@ export const nativeShellRepoPath = {
+   slug: "native-shell-repo-path",
+   propertySlug: "native-shell-repo-path",
+   definition: "where the native shell an app is compiled from is kept",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/code-system/ios-apps/properties/spa-source-path.text-property.ts b/code-system/ios-apps/properties/spa-source-path.text-property.ts
+index ee0552a692bd543d587ccc4f384b0bfcaa370d6b..e49cd23acdc8d0927ed23a8b76b629657a11960f 100644
+--- a/code-system/ios-apps/properties/spa-source-path.text-property.ts
++++ b/code-system/ios-apps/properties/spa-source-path.text-property.ts
+@@ -8,7 +8,7 @@ export const spaSourcePath = {
+   slug: "spa-source-path",
+   propertySlug: "spa-source-path",
+   definition: "where the site an app serves is built from",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/code-system/ios-apps/properties/web-env-path.text-property.ts b/code-system/ios-apps/properties/web-env-path.text-property.ts
+index 02791ec1e7a1bb50b574c806619b9f7d6fe5126f..478f916c28bd446d31b2ad34acd9b0c9e4e0a061 100644
+--- a/code-system/ios-apps/properties/web-env-path.text-property.ts
++++ b/code-system/ios-apps/properties/web-env-path.text-property.ts
+@@ -8,7 +8,7 @@ export const webEnvPath = {
+   slug: "web-env-path",
+   propertySlug: "web-env-path",
+   definition: "where the env file a site is built against lives in the repository",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/code-system/ios-apps/properties/widget-bundle-id.text-property.ts b/code-system/ios-apps/properties/widget-bundle-id.text-property.ts
+index ca80a200264c1611c27dd52138c3a9864b35d150..807efe12c410c3a74e514015e06bdde7c38b8d11 100644
+--- a/code-system/ios-apps/properties/widget-bundle-id.text-property.ts
++++ b/code-system/ios-apps/properties/widget-bundle-id.text-property.ts
+@@ -8,6 +8,6 @@ export const widgetBundleId = {
+   slug: "widget-bundle-id",
+   propertySlug: "widget-bundle-id",
+   definition: "the name a phone knows an app's widgets by",
+-  max: 155,
++  maxLength: 155,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/code-system/ios-apps/properties/widget-profile-name.text-property.ts b/code-system/ios-apps/properties/widget-profile-name.text-property.ts
+index 6f0c2db02e15ac76b6f13c3f57f0794ef73732aa..5f8463405de4734a80a66098964fe902b7ec24a7 100644
+--- a/code-system/ios-apps/properties/widget-profile-name.text-property.ts
++++ b/code-system/ios-apps/properties/widget-profile-name.text-property.ts
+@@ -8,6 +8,6 @@ export const widgetProfileName = {
+   slug: "widget-profile-name",
+   propertySlug: "widget-profile-name",
+   definition: "the App Store profile an app's widgets are signed with",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/code-system/ios-programs/properties/profile-name.text-property.ts b/code-system/ios-programs/properties/profile-name.text-property.ts
+index 302499fb2379e026507016199449dd1a632d10bb..cd3e41bd0475347246e2d69b233d15d0becef1db 100644
+--- a/code-system/ios-programs/properties/profile-name.text-property.ts
++++ b/code-system/ios-programs/properties/profile-name.text-property.ts
+@@ -8,7 +8,7 @@ export const profileName = {
+   slug: "profile-name",
+   propertySlug: "profile-name",
+   definition: "the profile Apple signs a program against",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   unique: "page-type",
+ } as const satisfies TextProperty
+diff --git a/code-system/ios-programs/properties/target-name.text-property.ts b/code-system/ios-programs/properties/target-name.text-property.ts
+index f1763ed5264894702e457bf37adbb39723283900..7feb27780ed557a3c152ee27175857ebb8080914 100644
+--- a/code-system/ios-programs/properties/target-name.text-property.ts
++++ b/code-system/ios-programs/properties/target-name.text-property.ts
+@@ -8,7 +8,7 @@ export const targetName = {
+   slug: "target-name",
+   propertySlug: "target-name",
+   definition: "the name Xcode builds a program under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   unique: "page-type",
+   invariants: [
+diff --git a/code-system/routes/properties/url-path.text-property.ts b/code-system/routes/properties/url-path.text-property.ts
+index 43e43f42d257ad41db942ea1df2639e039d5b78a..13f45a7308c3eb87034741e20332cc6147938bf8 100644
+--- a/code-system/routes/properties/url-path.text-property.ts
++++ b/code-system/routes/properties/url-path.text-property.ts
+@@ -8,7 +8,7 @@ export const urlPath = {
+   slug: "url-path",
+   propertySlug: "url-path",
+   definition: "the path a router serves a route under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/code-system/rust-modules/properties/rust-module-name.text-property.ts b/code-system/rust-modules/properties/rust-module-name.text-property.ts
+index a825db13186669f2e9a36636aa8cee482de20cfe..37cdc8d83b4605dddc4600e0111a66e116bee1de 100644
+--- a/code-system/rust-modules/properties/rust-module-name.text-property.ts
++++ b/code-system/rust-modules/properties/rust-module-name.text-property.ts
+@@ -8,7 +8,7 @@ export const rustModuleName = {
+   slug: "rust-module-name",
+   propertySlug: "module-name",
+   definition: "the name Cargo reads a module's file by",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-snake-case",
+   invariants: [
+     {
+diff --git a/collections/externals/properties/external-id.text-property.ts b/collections/externals/properties/external-id.text-property.ts
+index 58435225fdee5bf8aa4aabdb36cb095ef439f939..d3e6ebb98fbfda8de03f76e24da0f773c68beb8e 100644
+--- a/collections/externals/properties/external-id.text-property.ts
++++ b/collections/externals/properties/external-id.text-property.ts
+@@ -8,6 +8,6 @@ export const externalId = {
+   slug: "external-id",
+   propertySlug: "external-id",
+   definition: "the id the source gives a collection",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/collections/externals/properties/source.text-property.ts b/collections/externals/properties/source.text-property.ts
+index f57465842655d28e78929b8d3054a08334550af4..97bb7d4a69306148c8ca64c19b3f65028d91e25f 100644
+--- a/collections/externals/properties/source.text-property.ts
++++ b/collections/externals/properties/source.text-property.ts
+@@ -15,7 +15,7 @@ export const source = {
+   slug: "source",
+   propertySlug: "source",
+   definition: "where a collection was imported from",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
