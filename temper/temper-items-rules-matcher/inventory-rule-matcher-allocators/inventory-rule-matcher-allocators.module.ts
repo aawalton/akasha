@@ -13,7 +13,7 @@ export const inventoryRuleMatcherAllocators = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule takes no more of an item than the rule asked for.",
+      statement: "A rule takes no larger amount of an item than the rule asked for.",
     },
   ],
 } as const satisfies Module
