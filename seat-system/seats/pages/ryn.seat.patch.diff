@@ -1,0 +1,18 @@
+diff --git a/alan/harness/monarch/rules/monarch-rules.module.ts b/alan/harness/monarch/rules/monarch-rules.module.ts
+index 8df922872615e4563f82d2fad179f566263bc0ce..fc5bb7303b440cc642b85a0fdd90eb63069ce7c7 100644
+--- a/alan/harness/monarch/rules/monarch-rules.module.ts
++++ b/alan/harness/monarch/rules/monarch-rules.module.ts
+@@ -25,8 +25,11 @@ export const monarchRules = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Every text clause holds where any of its values holds, and a clause naming nothing holds.",
++      statement: "A text clause holds where a value the clause names holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A clause naming nothing holds.",
+     },
+     {
+       invariantKind: "departure",
