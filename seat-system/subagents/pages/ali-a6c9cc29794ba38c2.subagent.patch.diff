@@ -3815,13 +3815,14 @@ index 0000000000000000000000000000000000000000..4bb31e945644f7b14fbd540d40457241
 +} as const satisfies MasteryLevel
 diff --git a/alan/library/book-of-everything/mastery-levels/pages/novice.mastery-level.ts b/alan/library/book-of-everything/mastery-levels/pages/novice.mastery-level.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..40fe26a4e156d712cb4d277ea6a8f5d170a4aea9
+index 0000000000000000000000000000000000000000..f016aaf095796613969208a15c4dff68e30edadb
 --- /dev/null
 +++ b/alan/library/book-of-everything/mastery-levels/pages/novice.mastery-level.ts
-@@ -0,0 +1,10 @@
+@@ -0,0 +1,11 @@
 +import type { MasteryLevel } from "../mastery-level.page-type.ts"
 +
 +export const novice = {
++  id: "01a0784a-cdb9-712b-92b7-870090825441",
 +  pageTypeSlug: "mastery-level",
 +  slug: "novice",
 +  definition: "no foothold in a field",
