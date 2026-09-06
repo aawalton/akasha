@@ -1,0 +1,23 @@
+diff --git a/seat-system/supervising/supervisor-self-heal-install/supervisor-self-heal-install.module.ts b/seat-system/supervising/supervisor-self-heal-install/supervisor-self-heal-install.module.ts
+index 48540017117ffa7bf27840a17f5b65e131c7fb03..e964f40acf6acbf3290a8900fb3363d536536003 100644
+--- a/seat-system/supervising/supervisor-self-heal-install/supervisor-self-heal-install.module.ts
++++ b/seat-system/supervising/supervisor-self-heal-install/supervisor-self-heal-install.module.ts
+@@ -9,11 +9,16 @@ export const supervisorSelfHealInstall = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A path the install script reads reaches it as an argument rather than as text.",
++      statement:
++        "A path the install script reads reaches the script as an argument rather than as text.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One install runs at a time across every supervisor.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One install runs at a time across every supervisor, held by a lock file.",
++      statement: "A lock file holds that install.",
+     },
+     {
+       invariantKind: "departure",
