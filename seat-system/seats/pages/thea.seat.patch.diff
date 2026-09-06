@@ -258,6 +258,19 @@ index e7cb6fb2ec35b5f20cf59692c70dede9dd6aa9c6..a48d4c882ffd9122e5abfa0d8b876340
    pageTypeSlug: "module",
    slug: "workflow-types",
    definition:
+diff --git a/changes/workflow-language/workflow/workflow.module.ts b/changes/workflow-language/workflow/workflow.module.ts
+index 0868345eeb9dd49f6800591267a74f7e13033648..595bde2b938d64a4c8a32c21267728a1005c7ff0 100644
+--- a/changes/workflow-language/workflow/workflow.module.ts
++++ b/changes/workflow-language/workflow/workflow.module.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "../../../code-system/modules/module.page-type.ts"
+ 
+ export const workflow = {
+-  id: "01a06f10-7000-7002-b0002-9d4a2f6c0002e1",
++  id: "01a07740-d031-7e3e-98ad-54ebe669e344",
+   pageTypeSlug: "module",
+   slug: "workflow",
+   definition: "a workflow declaration completed with the event it answers by default",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
