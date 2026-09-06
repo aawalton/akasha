@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
-index 23d6e0f53de7652a73c8ac8e473be5c596cb7d75..aa0c6964ff862ce4412625c017644f48f02db0d6 100644
+index 23d6e0f53de7652a73c8ac8e473be5c596cb7d75..76631ea2e3a5bdbaa1a46031ca920ba702070f90 100644
 --- a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
 +++ b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
 @@ -15,11 +15,13 @@ export const renamePath = {
@@ -16,6 +16,15 @@ index 23d6e0f53de7652a73c8ac8e473be5c596cb7d75..aa0c6964ff862ce4412625c017644f48
 -      statement: "The body that moves is answered under the path it lands at, changed or not.",
 +      statement:
 +        "The body that moves is answered under the path the body lands at whether the body changed or not.",
+     },
+     {
+       invariantKind: "departure",
+@@ -27,7 +29,7 @@ export const renamePath = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body already at the path this would move to refuses the change.",
++      statement: "A body already at the path the rename would move to refuses the change.",
      },
      {
        invariantKind: "departure",
