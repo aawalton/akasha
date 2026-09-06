@@ -12,7 +12,7 @@ export const targetQuantity = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A leg stating no quantity takes every item reaching it.",
+      statement: "A leg stating no quantity takes every item reaching that leg.",
     },
   ],
 } as const satisfies NumberProperty
