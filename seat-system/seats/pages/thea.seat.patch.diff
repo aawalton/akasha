@@ -4344,6 +4344,24 @@ index b0472265b556de9c09af366196fb67c547bacfac..f13d58b6a2fd396d23028bb2fe943f99
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
+diff --git a/pages/types/page-properties/properties/total.number-property.ts b/pages/types/page-properties/properties/total.number-property.ts
+deleted file mode 100644
+index 492d05bfb8520912f064babd5396ff5eb32f8b80..0000000000000000000000000000000000000000
+--- a/pages/types/page-properties/properties/total.number-property.ts
++++ /dev/null
+@@ -1,12 +0,0 @@
+-import type { NumberProperty } from "../../../number-properties/number-property.page-type.ts"
+-
+-export type Total = number
+-
+-export const total = {
+-  id: "01a04ea7-6b2d-773d-bf62-933712b6d01c",
+-  pageTypeSlug: "number-property",
+-  slug: "total",
+-  propertySlug: "total",
+-  definition: "the most a list's values may run to together, in characters",
+-  max: null,
+-} as const satisfies NumberProperty
 diff --git a/pages/types/page-type.page-type.ts b/pages/types/page-type.page-type.ts
 index d9fcd5b96dd7a9a0990e3284b862c4958a905035..9575727ae49712a44a90b7cb880d5725903d5c4f 100644
 --- a/pages/types/page-type.page-type.ts
