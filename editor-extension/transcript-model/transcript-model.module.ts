@@ -29,7 +29,7 @@ export const transcriptModel = {
     },
     {
       invariantKind: "departure",
-      statement: "A line is folded like any other and then taken back rather than held out.",
+      statement: "A line is folded like every other line and then taken back rather than held out.",
     },
     {
       invariantKind: "departure",
