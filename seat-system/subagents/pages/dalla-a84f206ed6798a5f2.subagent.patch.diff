@@ -1,0 +1,107 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/alan/atlas-web/package.json b/alan/atlas-web/package.json
+index 72e94b2d8a6c4be98eaa7312f506474ad548c9ec..837260be8722a4f60a16d1d6aa176cb87818167f 100644
+--- a/alan/atlas-web/package.json
++++ b/alan/atlas-web/package.json
+@@ -8,8 +8,8 @@
+     "build": "react-router build",
+     "dev": "react-router dev",
+     "start": "bun run server.ts",
+-    "typecheck": "react-router typegen && bunx @typescript/native-preview -b",
+-    "check": "react-router typegen && bunx @typescript/native-preview -b",
++    "typecheck": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
++    "check": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
+     "lint": "biome check .",
+     "lint:fix": "biome check --write .",
+     "test": "bun test"
+diff --git a/alan/web-capacitor/package.json b/alan/web-capacitor/package.json
+index 56c8a2a53d1aaeb7b04c36fb6bc0f46799da7a9a..593286d97262906b5eb2703374605637d6b9be0c 100644
+--- a/alan/web-capacitor/package.json
++++ b/alan/web-capacitor/package.json
+@@ -8,8 +8,8 @@
+   "scripts": {
+     "build": "react-router build",
+     "dev": "react-router dev",
+-    "typecheck": "react-router typegen && bunx @typescript/native-preview -b",
+-    "check": "react-router typegen && bunx @typescript/native-preview -b",
++    "typecheck": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
++    "check": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
+     "lint": "biome check .",
+     "lint:fix": "biome check --write ."
+   },
+diff --git a/alan/web/package.json b/alan/web/package.json
+index 5346197e221800ff9bcf6d257e5f5b2e34918d3b..8eec761c3074d7a45e5eb893bc795e96a530fb53 100644
+--- a/alan/web/package.json
++++ b/alan/web/package.json
+@@ -7,8 +7,8 @@
+     "build": "react-router build",
+     "dev": "react-router dev",
+     "start": "bun run server.ts",
+-    "typecheck": "react-router typegen && bunx @typescript/native-preview -b",
+-    "check": "react-router typegen && bunx @typescript/native-preview -b",
++    "typecheck": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
++    "check": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
+     "lint": "biome check .",
+     "lint:fix": "biome check --write .",
+     "test": "bun test"
+diff --git a/archive-of-worlds/archive-of-worlds-web/package.json b/archive-of-worlds/archive-of-worlds-web/package.json
+index c035c3890bc5e320d248ff5d4e1e635bdb21eb5d..d7cb8fe9cb4dd55f4f91692cba75d15c07f4438e 100644
+--- a/archive-of-worlds/archive-of-worlds-web/package.json
++++ b/archive-of-worlds/archive-of-worlds-web/package.json
+@@ -8,8 +8,8 @@
+     "build": "react-router build",
+     "dev": "react-router dev",
+     "start": "bun run server.ts",
+-    "typecheck": "react-router typegen && bunx @typescript/native-preview -b",
+-    "check": "react-router typegen && bunx @typescript/native-preview -b",
++    "typecheck": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
++    "check": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
+     "lint": "biome check .",
+     "lint:fix": "biome check --write .",
+     "test": "bun test"
+diff --git a/audhdalan/audhdalan-web/package.json b/audhdalan/audhdalan-web/package.json
+index 3cfe523c43b1a450e8607f51f06754d19da32881..1bf83ac779133fb02a20d26baf475f624ad00efb 100644
+--- a/audhdalan/audhdalan-web/package.json
++++ b/audhdalan/audhdalan-web/package.json
+@@ -8,8 +8,8 @@
+     "build": "react-router build",
+     "dev": "react-router dev",
+     "start": "bun run server.ts",
+-    "typecheck": "react-router typegen && bunx @typescript/native-preview -b",
+-    "check": "react-router typegen && bunx @typescript/native-preview -b",
++    "typecheck": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
++    "check": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
+     "lint": "biome check .",
+     "lint:fix": "biome check --write .",
+     "test": "bun test"
+diff --git a/smilingjenny/smilingjenny-web/package.json b/smilingjenny/smilingjenny-web/package.json
+index 3b539b09d77b90976ba50b7a94d462771d47be10..240cebaa87d4118bd5a20529aa841f89edfb8d27 100644
+--- a/smilingjenny/smilingjenny-web/package.json
++++ b/smilingjenny/smilingjenny-web/package.json
+@@ -8,8 +8,8 @@
+     "build": "react-router build",
+     "dev": "react-router dev",
+     "start": "bun run server.ts",
+-    "typecheck": "react-router typegen && bunx @typescript/native-preview -b",
+-    "check": "react-router typegen && bunx @typescript/native-preview -b",
++    "typecheck": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
++    "check": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
+     "lint": "biome check .",
+     "lint:fix": "biome check --write .",
+     "test": "bun test"
+diff --git a/temper/temper-web/package.json b/temper/temper-web/package.json
+index 81d5f23dec5e9da2295236dc5f4b23d5662360aa..8f8ca1d5d22131d0bd5f32e945bf6347a84bce0a 100644
+--- a/temper/temper-web/package.json
++++ b/temper/temper-web/package.json
+@@ -8,8 +8,8 @@
+     "build": "react-router build",
+     "dev": "react-router dev",
+     "start": "bun run server.ts",
+-    "typecheck": "react-router typegen && bunx @typescript/native-preview -b",
+-    "check": "react-router typegen && bunx @typescript/native-preview -b",
++    "typecheck": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
++    "check": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
+     "lint": "biome check .",
+     "lint:fix": "biome check --write .",
+     "test": "bun test"
