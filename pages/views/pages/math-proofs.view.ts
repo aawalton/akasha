@@ -6,5 +6,6 @@ export const mathProofs = {
   slug: "math-proofs",
   title: "Proofs",
   navSlug: "math",
+  pageType: "proof",
   viewPlace: 1,
 } as const satisfies View

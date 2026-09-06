@@ -6,6 +6,7 @@ export const mathPropositions = {
   slug: "math-propositions",
   title: "Propositions",
   navSlug: "math",
+  pageType: "proposition",
   viewPlace: 0,
   layout: "cards",
   pageSize: 12,

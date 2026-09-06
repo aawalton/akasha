@@ -6,6 +6,7 @@ export const dungeonsList = {
   slug: "dungeons-list",
   title: "List",
   navSlug: "dungeons",
+  pageType: "temper-dungeon",
   viewPlace: 0,
   viewSorts: [{ key: "rotation-position", descending: true }],
   groupBy: "solo-difficulty",

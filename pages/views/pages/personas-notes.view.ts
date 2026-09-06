@@ -6,6 +6,7 @@ export const personasNotes = {
   slug: "personas-notes",
   title: "Notes",
   navSlug: "personas",
+  pageType: "persona",
   viewPlace: 1,
   layout: "notes",
   viewSorts: [{ key: "title", descending: false }],

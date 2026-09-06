@@ -6,6 +6,7 @@ export const gamesList = {
   slug: "games-list",
   title: "List",
   navSlug: "games",
+  pageType: "game",
   viewPlace: 0,
   layout: "cards",
   viewSorts: [{ key: "created-at", descending: true }],

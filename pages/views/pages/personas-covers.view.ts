@@ -6,6 +6,7 @@ export const personasCovers = {
   slug: "personas-covers",
   title: "Covers",
   navSlug: "personas",
+  pageType: "persona",
   viewPlace: 2,
   layout: "gallery",
   groupSorts: [{ key: "role-slug", descending: false }],

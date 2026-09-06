@@ -6,6 +6,7 @@ export const personasSeats = {
   slug: "personas-seats",
   title: "Seats",
   navSlug: "personas",
+  pageType: "seat",
   viewPlace: 4,
   layout: "table",
   viewSorts: [{ key: "title", descending: false }],
