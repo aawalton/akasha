@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-my-memory-trees-are-shaped.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-my-memory-trees-are-shaped.all-about-alan-question.ts
+deleted file mode 100644
+index 58fe2f55cf6056352296d1cf57180d6c51b0b6e1..0000000000000000000000000000000000000000
+--- a/alan/books/all-about-alan/questions/pages/how-my-memory-trees-are-shaped.all-about-alan-question.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+-
+-export const howMyMemoryTreesAreShaped = {
+-  id: "01a077da-697a-74b4-bee2-b10888573056",
+-  pageTypeSlug: "all-about-alan-question",
+-  slug: "how-my-memory-trees-are-shaped",
+-  topicSlug: "how-i-remember-anything",
+-  ask: "How wide does a level of one of my memory trees get before I split it, how deep do the trees run, and what makes me choose a level's cue?",
+-} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-my-review-scopes-stack.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-my-review-scopes-stack.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..04d51d4ad0ca6f04795f327f3f49936b006f15bc
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-my-review-scopes-stack.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howMyReviewScopesStack = {
++  id: "01a077e1-dcf8-77e0-9f9b-292124a027a4",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-my-review-scopes-stack",
++  topicSlug: "how-i-remember-anything",
++  ask: "Does my cascade run back to the start of the passage on every step, on top of the scopes that double at each power of two, or is that run back the next scope coming due?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-words-become-a-levels-cue.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-words-become-a-levels-cue.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..06c968a1184a7fcb52940c9ffb0ffcde8a960ddf
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-words-become-a-levels-cue.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichWordsBecomeALevelsCue = {
++  id: "01a077e1-dcf7-7df8-8e8a-10d190bc0ecf",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-words-become-a-levels-cue",
++  topicSlug: "how-i-remember-anything",
++  ask: "When I split a passage into levels, what makes one word rather than another become the cue for a level?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-remember-anything.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-remember-anything.all-about-alan-topic.ts
+index c05477775508e782b27bce621e0de2d60014ec99..d63bcc64b75207a1b76a352e44b8008e8b98c180 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-remember-anything.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-remember-anything.all-about-alan-topic.ts
+@@ -10,5 +10,5 @@ export const howIRememberAnything = {
+   parentSlugs: ["alan"],
+   relatedSlugs: ["how-my-attention-works", "how-a-skill-gets-into-me"],
+   settled:
+-    "A cue fires and brings the next thing, which is itself the cue for the one after.\n\nThe same shape runs three places: memorising a text, giving a talk, and reading the next act off the state of my system.\n\nNesting the cues lets me re-enter a text at any level, and stops one missed word breaking the whole chain.\n\nIt carries across discrete symbols and does not carry across movement.",
++    "A cue fires and brings the next thing, which is itself the cue for the one after.\n\nThe same shape runs three places: memorising a text, giving a talk, and reading the next act off the state of my system.\n\nNesting the cues lets me re-enter a text at any level, and stops one missed word breaking the whole chain.\n\nIt carries across discrete symbols and does not carry across movement.\n\nI split a passage at whichever of paragraph, sentence or clause gets me under about forty words, memorise at that size, then cascade up through the components to the paragraph level, then cascade through the passage at the paragraph level.\n\nA cascade is: memorise one, memorise two, review one to two, memorise three, review two to three, review one to three, and on through the passage. The review scopes stack logarithmically, and I add a scope at every power of two.",
+ } as const satisfies AllAboutAlanTopic
