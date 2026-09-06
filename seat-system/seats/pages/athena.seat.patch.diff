@@ -37,3 +37,16 @@ index 68e88db5016d921c74a19178c9c4b7d510ef6e14..a4c61577a28d6d3f3fb2fd02665da9ab
      },
    ],
  } as const satisfies FileProperty
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts
+index 21f148bc18be9b5370ca1e553eab963adef1b22e..6bfd854991424694b1a3be5aa2e6e3c358e7b8ae 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.code.ts
+@@ -15,7 +15,7 @@ import { type FSWatcher, readFileSync, watch } from "node:fs"
+ import { basename, dirname, join } from "node:path"
+ 
+ const PAGES_AT = "alan/harness/code-editor/code-editor-data-interfaces/pages"
+-const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
++const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.json"
+ 
+ export type Reading = {
+   readonly stop: () => undefined
