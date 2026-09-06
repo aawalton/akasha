@@ -20,7 +20,6 @@ export const workTreePanel = {
       invariantKind: "departure",
       statement: "The panel draws again when that file is written and at no other time.",
     },
-
     {
       invariantKind: "departure",
       statement: "The rows the file carries are drawn as they are rather than spelled again.",
@@ -33,7 +32,14 @@ export const workTreePanel = {
       invariantKind: "departure",
       statement: "A row drawn more than once is said to Alan once and named on the channel.",
     },
-
+    {
+      invariantKind: "departure",
+      statement: "The badge counts every row the panel drew, whatever each row is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The initiatives drawn and the intents drawn are counted apart from each other.",
+    },
     {
       invariantKind: "absence",
       statement: "No watcher on a seat file or an initiative file is registered here.",

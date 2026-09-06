@@ -7,7 +7,11 @@ import {
 import { akashaRoot } from "../harness-call/harness-call.module.code.ts"
 import { recordObservation } from "../observation-store/observation-store.module.code.ts"
 import { REFRESH_COMMAND, VIEW_ID } from "../work-tree-ids/work-tree-ids.module.code.ts"
-import { countRows, workKeys } from "../work-tree-reading/work-tree-reading.module.code.ts"
+import {
+  countOfKind,
+  countRows,
+  workKeys,
+} from "../work-tree-reading/work-tree-reading.module.code.ts"
 import {
   createWorkDecorationProvider,
   createWorkTree,
@@ -48,16 +52,21 @@ export async function activate(context: vscode.ExtensionContext): Promise<undefi
     try {
       tree.replace(held.roots)
       const rows = countRows(held.roots)
+      // WHAT WAS DRAWN IS SAID BY KIND. The badge counts every row, which is what a reader of the
+      // panel sees, and the channel and the observation count the initiatives apart from the
+      // intents, so neither number is read as the other.
+      const initiatives = countOfKind(held.roots, "initiative")
+      const intents = countOfKind(held.roots, "intent")
       total = rows
       describe()
       view.badge = { value: rows, tooltip: rows === 1 ? "1 row" : `${rows} rows` }
       view.message = undefined
       const keys = workKeys(held.roots)
       const duplicated = keys.filter((key, at) => keys.indexOf(key) !== at)
-      output.appendLine(`[${trigger}] ${rows} initiative(s)`)
+      output.appendLine(`[${trigger}] ${initiatives} initiative(s), ${intents} intent(s)`)
       recordObservation(FEATURE, {
         outcome: "ok",
-        counts: { initiatives: rows, drawnMoreThanOnce: new Set(duplicated).size },
+        counts: { initiatives, intents, drawnMoreThanOnce: new Set(duplicated).size },
       })
       if (duplicated.length > 0) {
         output.appendLine(

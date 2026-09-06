@@ -31,7 +31,11 @@ function pathAfterRepo(root: string, at: string | null): string | null {
   return wholePath(root, mark === -1 ? at : at.slice(mark + 1))
 }
 
+// WHAT A WORK ROW IS HAS TO BE CARRIED ACROSS, because the work tree holds rows of two kinds and
+// the panel counts one kind apart from the other. The builder's node is read through this shape
+// rather than imported, so a field the builder adds is dropped here unless it is named here too.
 type WorkNode = {
+  readonly kind: WorkTreeRow["kind"]
   readonly key: string
   readonly label: string
   readonly relPath: string | null
@@ -43,6 +47,7 @@ type WorkNode = {
 
 function workRow(root: string, node: WorkNode): WorkTreeRow {
   return {
+    kind: node.kind,
     key: node.key,
     label: node.label,
     at: wholePath(root, node.relPath),

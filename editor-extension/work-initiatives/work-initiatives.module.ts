@@ -4,7 +4,7 @@ export const workInitiatives = {
   id: "01a04e9f-4572-7339-8438-7d5a5777f8ab",
   pageTypeSlug: "module",
   slug: "work-initiatives",
-  definition: "every initiative the work panel draws, and the one each sits under",
+  definition: "every initiative the work panel draws, what each holds, and the one each sits under",
   code: "ts",
   test: "ts",
   invariants: [
@@ -44,6 +44,26 @@ export const workInitiatives = {
     {
       invariantKind: "departure",
       statement: "A persona is read out of the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The intents an initiative holds are read out of the page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The intents are answered in the order the page states them.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry stating no statement is no intent and is passed over.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An intent stating no working memory carries none.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is opened once however many of its keys are read.",
     },
     {
       invariantKind: "departure",

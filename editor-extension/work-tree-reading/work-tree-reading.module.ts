@@ -13,6 +13,10 @@ export const workTreeReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The rows are counted by what each row is as well as all together.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The keys are answered with a row before every row beneath that row.",
     },
     {

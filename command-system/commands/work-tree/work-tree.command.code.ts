@@ -14,8 +14,12 @@ const FLAGS = [JSON_OUT, COUNTS, COLORS]
 
 const NOTHING_DRAWN: Drawn = { byInitiative: new Map() }
 
+const INTENT_MARK = "#"
+
+export type NodeKind = "initiative" | "intent"
+
 export interface Node {
-  readonly kind: "initiative"
+  readonly kind: NodeKind
   readonly key: string
   readonly label: string
   readonly relPath: string | null
@@ -101,6 +105,30 @@ function rootNote(
     : `drawn as a root: it names parent ${declared}, which has no document`
 }
 
+// AN INTENT IS A ROW OF THE INITIATIVE HOLDING IT RATHER THAN A PAGE OF ITS OWN. It carries no
+// page, so it opens the page of the initiative above it — which is where an intent is edited — and
+// it carries no color, a color being a seat's and a seat sitting on an initiative rather than on
+// one of that initiative's intents.
+//
+// The working memory becomes the note, which is the field a tooltip already shows and a filter
+// already searches, so what an intent is being held up by is found by typing part of it.
+function intentNodes(row: InitiativeRow): readonly Node[] {
+  return row.intents.map((one, at) => ({
+    kind: "intent" as const,
+    key: `${row.slug}${INTENT_MARK}${String(at + 1)}`,
+    label: one.statement,
+    relPath: row.path,
+    detail: null,
+    note: one.workingMemory,
+    color: null,
+    children: [],
+  }))
+}
+
+// THE INTENTS COME FIRST AND KEEP THE ORDER THEIR INITIATIVE STATES. An intent list reads as a
+// sequence of what to make so, and the author put it in that sequence: sorting it the way the
+// initiatives beneath are sorted would scramble that into alphabetical order by first letter of
+// the statement. So the intents are left as stated and the initiatives are sorted among themselves.
 function nodeOf(
   row: InitiativeRow,
   parents: ReadonlyMap<string, string | null>,
@@ -116,12 +144,15 @@ function nodeOf(
     detail: row.persona,
     note: rootNote(row.parent, parents.get(row.slug) ?? null, rows),
     color: drawn.byInitiative.get(row.slug) ?? null,
-    children: sorted(
-      (children.get(row.slug) ?? []).flatMap((slug) => {
-        const below = rows.get(slug)
-        return below === undefined ? [] : [nodeOf(below, parents, children, rows, drawn)]
-      })
-    ),
+    children: [
+      ...intentNodes(row),
+      ...sorted(
+        (children.get(row.slug) ?? []).flatMap((slug) => {
+          const below = rows.get(slug)
+          return below === undefined ? [] : [nodeOf(below, parents, children, rows, drawn)]
+        })
+      ),
+    ],
   }
 }
 
@@ -149,6 +180,12 @@ export function walk(nodes: readonly Node[]): readonly Node[] {
   return nodes.flatMap((one) => [one, ...walk(one.children)])
 }
 
+// THE ROWS ARE COUNTED BY WHAT EACH ROW IS RATHER THAN ALL TOGETHER, so that a count of the
+// initiatives stays a count of the initiatives now that the tree holds rows that are not one.
+export function countOf(nodes: readonly Node[], kind: NodeKind): number {
+  return walk(nodes).filter((one) => one.kind === kind).length
+}
+
 export function render(nodes: readonly Node[], depth = 0): readonly string[] {
   return nodes.flatMap((one) => {
     const detail = one.detail === null ? "" : `  — ${one.detail}`
@@ -170,7 +207,14 @@ function said(root: string, shown: Shown): Answer {
     return { report: [JSON.stringify({ repo: root, roots: tree })], refusals: [], code: 0 }
   }
   if (shown === "counts") {
-    return { report: [`initiatives:  ${String(walk(tree).length)}`], refusals: [], code: 0 }
+    return {
+      report: [
+        `initiatives:  ${String(countOf(tree, "initiative"))}`,
+        `intents:      ${String(countOf(tree, "intent"))}`,
+      ],
+      refusals: [],
+      code: 0,
+    }
   }
   if (tree.length === 0) {
     return { report: [], refusals: [`no initiative was read from the index at ${root}`], code: 2 }

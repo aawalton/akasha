@@ -154,3 +154,75 @@ test("a page stating no persona answers none", () => {
   pageAt(root, "amy-one", 'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one" }\n')
   expect(initiativesDrawn(root)[0]?.persona).toBe(null)
 })
+
+test("the intents are read out of the page in the order that page states them", () => {
+  const root = worldFor()
+  filing(root, "amy-one", ONE)
+  pageAt(
+    root,
+    "amy-one",
+    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
+      '{ statement: "zebra" }, { statement: "apple" }] }\n'
+  )
+  expect(initiativesDrawn(root)[0]?.intents.map((one) => one.statement)).toEqual(["zebra", "apple"])
+})
+
+test("an intent's working memory is read where the intent states one", () => {
+  const root = worldFor()
+  filing(root, "amy-one", ONE)
+  pageAt(
+    root,
+    "amy-one",
+    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
+      '{ statement: "make it so", workingMemory: "cut at 74bda7f0" }] }\n'
+  )
+  expect(initiativesDrawn(root)[0]?.intents[0]?.workingMemory).toBe("cut at 74bda7f0")
+})
+
+test("an intent stating no working memory carries none", () => {
+  const root = worldFor()
+  filing(root, "amy-one", ONE)
+  pageAt(
+    root,
+    "amy-one",
+    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
+      '{ statement: "make it so" }] }\n'
+  )
+  expect(initiativesDrawn(root)[0]?.intents[0]?.workingMemory).toBe(null)
+})
+
+test("a page stating no intents carries none", () => {
+  const root = worldFor()
+  filing(root, "amy-one", ONE)
+  pageAt(root, "amy-one", 'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one" }\n')
+  expect(initiativesDrawn(root)[0]?.intents).toEqual([])
+})
+
+test("a page the index named but no file holds carries no intent", () => {
+  const root = worldFor()
+  filing(root, "amy-one", ONE)
+  expect(initiativesDrawn(root)[0]?.intents).toEqual([])
+})
+
+test("an entry stating no statement is no intent and is passed over", () => {
+  const root = worldFor()
+  filing(root, "amy-one", ONE)
+  pageAt(
+    root,
+    "amy-one",
+    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
+      '{ workingMemory: "held" }, { statement: "make it so" }] }\n'
+  )
+  expect(initiativesDrawn(root)[0]?.intents.map((one) => one.statement)).toEqual(["make it so"])
+})
+
+test("an intents key holding what is no list carries no intent", () => {
+  const root = worldFor()
+  filing(root, "amy-one", ONE)
+  pageAt(
+    root,
+    "amy-one",
+    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: "make it so" }\n'
+  )
+  expect(initiativesDrawn(root)[0]?.intents).toEqual([])
+})

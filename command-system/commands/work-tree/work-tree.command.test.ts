@@ -1,7 +1,15 @@
 import { expect, test } from "bun:test"
 import type { Given } from "@akasha/command-system/calling"
-import type { InitiativeRow } from "@akasha/editor-extension/work-initiatives"
-import { colorsSaid, readIn, render, treeOf, walk, workTree } from "./work-tree.command.code.ts"
+import type { InitiativeIntent, InitiativeRow } from "@akasha/editor-extension/work-initiatives"
+import {
+  colorsSaid,
+  countOf,
+  readIn,
+  render,
+  treeOf,
+  walk,
+  workTree,
+} from "./work-tree.command.code.ts"
 
 const ROOT = "/nowhere"
 
@@ -9,8 +17,16 @@ function givenIn(): Given {
   return { root: ROOT, calledAs: "akasha work-tree", from: ROOT, writer: null, agentId: null }
 }
 
-function rowIn(slug: string, parent: string | null): InitiativeRow {
-  return { slug, path: `${slug}.initiative.ts`, parent, persona: null }
+function rowIn(
+  slug: string,
+  parent: string | null,
+  intents: readonly InitiativeIntent[] = []
+): InitiativeRow {
+  return { slug, path: `${slug}.initiative.ts`, parent, persona: null, intents }
+}
+
+function intentIn(statement: string, workingMemory: string | null = null): InitiativeIntent {
+  return { statement, workingMemory }
 }
 
 test("a call naming nothing prints the tree", () => {
@@ -100,4 +116,87 @@ test("a child is drawn one step in from the initiative above it", () => {
   const tree = treeOf([rowIn("over", null), rowIn("under", "over")])
 
   expect(render(tree)).toEqual(["over", "  under"])
+})
+
+test("an initiative's intents are drawn beneath that initiative", () => {
+  const tree = treeOf([rowIn("one", null, [intentIn("make it so"), intentIn("and this")])])
+
+  expect(tree[0]?.children.map((one) => one.label)).toEqual(["make it so", "and this"])
+})
+
+test("an intent keeps the place its initiative states rather than being sorted", () => {
+  const tree = treeOf([rowIn("one", null, [intentIn("zebra"), intentIn("apple")])])
+
+  expect(tree[0]?.children.map((one) => one.label)).toEqual(["zebra", "apple"])
+})
+
+test("the intents come ahead of the initiatives beneath", () => {
+  const tree = treeOf([rowIn("over", null, [intentIn("an intent")]), rowIn("aaa-under", "over")])
+
+  expect(tree[0]?.children.map((one) => one.kind)).toEqual(["intent", "initiative"])
+})
+
+test("an intent is told apart from an initiative by what it is", () => {
+  const tree = treeOf([rowIn("one", null, [intentIn("make it so")])])
+
+  expect(tree[0]?.kind).toBe("initiative")
+  expect(tree[0]?.children[0]?.kind).toBe("intent")
+})
+
+test("an intent is keyed under the initiative holding it", () => {
+  const tree = treeOf([rowIn("one", null, [intentIn("first"), intentIn("second")])])
+
+  expect(tree[0]?.children.map((one) => one.key)).toEqual(["one#1", "one#2"])
+})
+
+test("an intent opens the page of the initiative holding it", () => {
+  const tree = treeOf([rowIn("one", null, [intentIn("make it so")])])
+
+  expect(tree[0]?.children[0]?.relPath).toBe("one.initiative.ts")
+})
+
+test("an intent carries its working memory as the note", () => {
+  const tree = treeOf([rowIn("one", null, [intentIn("make it so", "cut at 74bda7f0")])])
+
+  expect(tree[0]?.children[0]?.note).toBe("cut at 74bda7f0")
+})
+
+test("an intent stating no working memory carries no note", () => {
+  const tree = treeOf([rowIn("one", null, [intentIn("make it so")])])
+
+  expect(tree[0]?.children[0]?.note).toBeNull()
+})
+
+test("an intent carries no color, a color being a seat's", () => {
+  const tree = treeOf([rowIn("one", null, [intentIn("make it so")])], {
+    byInitiative: new Map([["one", "green"]]),
+  })
+
+  expect(tree[0]?.children[0]?.color).toBeNull()
+})
+
+test("an intent leads nowhere", () => {
+  const tree = treeOf([rowIn("one", null, [intentIn("make it so")])])
+
+  expect(tree[0]?.children[0]?.children).toEqual([])
+})
+
+test("an initiative holding no intent draws none", () => {
+  expect(treeOf([rowIn("one", null)])[0]?.children).toEqual([])
+})
+
+test("a count of the initiatives counts no intent", () => {
+  const tree = treeOf([
+    rowIn("over", null, [intentIn("one"), intentIn("two")]),
+    rowIn("under", "over", [intentIn("three")]),
+  ])
+
+  expect(countOf(tree, "initiative")).toBe(2)
+  expect(countOf(tree, "intent")).toBe(3)
+})
+
+test("an intent is drawn one step in from the initiative holding it", () => {
+  const tree = treeOf([rowIn("one", null, [intentIn("make it so")])])
+
+  expect(render(tree)).toEqual(["one", "  make it so"])
 })

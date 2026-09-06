@@ -12,12 +12,31 @@ const PARENT = "parent-slug"
 
 const PERSONA = "personaSlug"
 
+const INTENTS = "intents"
+
+const STATEMENT = "statement"
+
+const WORKING_MEMORY = "workingMemory"
+
+export type InitiativeIntent = {
+  readonly statement: string
+  readonly workingMemory: string | null
+}
+
 export type InitiativeRow = {
   readonly slug: string
   readonly path: string
   readonly parent: string | null
   readonly persona: string | null
+  readonly intents: readonly InitiativeIntent[]
 }
+
+type Held = {
+  readonly persona: string | null
+  readonly intents: readonly InitiativeIntent[]
+}
+
+const NOTHING_HELD: Held = { persona: null, intents: [] }
 
 function slugIn(path: string, typeSlug: string): string | null {
   const said = partedIn(path)
@@ -25,11 +44,35 @@ function slugIn(path: string, typeSlug: string): string | null {
   return said.slug
 }
 
-function personaAt(root: string, path: string): string | null {
+function textIn(held: unknown): string | null {
+  return typeof held === "string" && held !== "" ? held : null
+}
+
+// AN INTENT WITH NO STATEMENT IS NO INTENT, and is passed over rather than drawn as a row with an
+// empty label. The statement is required of an intent where the page type declares one, so a page
+// short of it is a page the write gate would have refused — this reads what is on disk, which is
+// not always what the gate last judged.
+function intentsIn(held: unknown): readonly InitiativeIntent[] {
+  if (!Array.isArray(held)) return []
+  const drawn: InitiativeIntent[] = []
+  for (const one of held) {
+    if (one === null || typeof one !== "object" || Array.isArray(one)) continue
+    const row = one as Record<string, unknown>
+    const statement = textIn(row[STATEMENT])
+    if (statement === null) continue
+    drawn.push({ statement, workingMemory: textIn(row[WORKING_MEMORY]) })
+  }
+  return drawn
+}
+
+// WHAT THE PAGE ITSELF CARRIES, TAKEN IN ONE OPENING RATHER THAN ONE FOR EACH KEY. The index files
+// identities and edges and no text, so both the persona and the intents have to come out of the
+// page body — and transpiling a body to read it is the dearest thing this module does, so it is
+// done once for each initiative however many keys are wanted off it.
+function heldAt(root: string, path: string): Held {
   const value = valueAt(path, root)
-  if (value === null) return null
-  const said = value[PERSONA]
-  return typeof said === "string" && said !== "" ? said : null
+  if (value === null) return NOTHING_HELD
+  return { persona: textIn(value[PERSONA]), intents: intentsIn(value[INTENTS]) }
 }
 
 export function initiativesDrawn(root: string): readonly InitiativeRow[] {
@@ -54,11 +97,13 @@ export function initiativesDrawn(root: string): readonly InitiativeRow[] {
     const slug = slugById.get(one.id)
     if (slug === undefined) continue
     const named = parentsOf.get(slug) ?? []
+    const held = heldAt(root, one.path)
     drawn.push({
       slug,
       path: one.path,
       parent: named.length === 1 ? (named[0]?.parent ?? null) : null,
-      persona: personaAt(root, one.path),
+      persona: held.persona,
+      intents: held.intents,
     })
   }
   return drawn

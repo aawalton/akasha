@@ -28,6 +28,14 @@ export const treeDrawing = {
       statement: "A domains row carries its champion, which the panel makes the row's description.",
     },
     {
+      invariantKind: "departure",
+      statement: "A work row carries what that row is, the work tree holding rows of two kinds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A field the builder adds reaches the editor only where it is named here too.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a clock, watches a file or writes one.",
     },
