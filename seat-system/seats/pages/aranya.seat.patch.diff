@@ -30,3 +30,23 @@ index 8d7a7505007da959fd4ed9c3546f1468b377634b..13d33f0fcd5b12fa4a77c8e3106a6c48
    const filings = [...imported, ...identity, ...paths, ...schema, ...relation, ...valued]
    return {
      reading: overlaidOn(given, filings),
+diff --git a/pages/indexes/indexing/indexing.module.ts b/pages/indexes/indexing/indexing.module.ts
+index ad5fb00a094e6c238d3cea710d928a26043a6929..34b6c59e5e56ad7e0cee96c005eacf2f95c9d9ea 100644
+--- a/pages/indexes/indexing/indexing.module.ts
++++ b/pages/indexes/indexing/indexing.module.ts
+@@ -26,6 +26,15 @@ export const indexing = {
+       invariantKind: "departure",
+       statement: "Identity is settled for every page in a write before any relation is.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The value of every page in a write is settled before any relation is.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A relation naming a page of a page type the write carries reaches that page type.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A rebuild reads the index only to find the values no page carries.",
