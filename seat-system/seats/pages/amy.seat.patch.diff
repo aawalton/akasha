@@ -129,6 +129,19 @@ index c415f25bd5438210be1bc545f5c214216a3e057b..b6653475c11f07bd12243ab29920c850
  }
  
  export interface PropertyWrite {
+diff --git a/pages/ui/components/view-page-content/view-page-content.module.code.tsx b/pages/ui/components/view-page-content/view-page-content.module.code.tsx
+index 58bdf6960c005571723f4a5cf650f7adfb0906ac..25d89ef9f2bc37553db3ce0f26f67687f235a98d 100644
+--- a/pages/ui/components/view-page-content/view-page-content.module.code.tsx
++++ b/pages/ui/components/view-page-content/view-page-content.module.code.tsx
+@@ -98,7 +98,7 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
+   const userId = useUserId()
+   const viewCallbacks = useSupabaseViewCallbacks({
+     userId: userId ?? "",
+-    ownerNavItemId: navItemId ?? "",
++    ownerNavSlug: navItemSlug ?? "",
+     views: viewPages,
+   })
+ 
 diff --git a/pages/ui/supabase/use-view-callbacks/use-view-callbacks.module.code.ts b/pages/ui/supabase/use-view-callbacks/use-view-callbacks.module.code.ts
 index 3a86837e046f62a4f9d86dd46fbe52b297d1e3f4..b1ae9c139b80f4163ce6b02bf2e676b78fec38b2 100644
 --- a/pages/ui/supabase/use-view-callbacks/use-view-callbacks.module.code.ts
