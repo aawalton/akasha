@@ -1,5 +1,5 @@
 diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
-index e4a067b2d2530db18f5b8c041a41c30da030aa54..03f0cfb4ac31cf7ffa84701e2ce0ee9e77a40a78 100644
+index e4a067b2d2530db18f5b8c041a41c30da030aa54..701ac99daaf2de6cf641e121c47c00ab3dd6ef8c 100644
 --- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 +++ b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 @@ -15,18 +15,24 @@ export const surplusFallNotifying = {
@@ -38,6 +38,19 @@ index e4a067b2d2530db18f5b8c041a41c30da030aa54..03f0cfb4ac31cf7ffa84701e2ce0ee9e
        statement:
 -        "The readout, its scale and the day's reading are read on the tick rather than compiled in.",
 +        "The readout and its scale and the day's reading are read on the tick rather than compiled in.",
+     },
+     {
+       invariantKind: "departure",
+@@ -48,7 +54,11 @@ export const surplusFallNotifying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This module writes a notification, and nothing here knows about devices.",
++      statement: "This module writes a notification.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Nothing here knows about devices.",
      },
      {
        invariantKind: "departure",
