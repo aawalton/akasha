@@ -6,5 +6,5 @@ export const changeNone = {
   slug: "change-none",
   definition: "an act that edits nothing",
   runsChecks: false,
-  runsWarrants: false,
+  writerOwesReading: false,
 } as const satisfies ChangeKind

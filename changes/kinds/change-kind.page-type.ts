@@ -5,7 +5,7 @@ import type { RunsWarrants } from "./properties/runs-warrants.boolean-property.t
 
 export type ChangeKind = Domain & {
   runsChecks: RunsChecks
-  runsWarrants: RunsWarrants
+  writerOwesReading: RunsWarrants
 }
 
 export const changeKind = {

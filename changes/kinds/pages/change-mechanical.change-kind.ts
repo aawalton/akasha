@@ -6,7 +6,7 @@ export const changeMechanical = {
   slug: "change-mechanical",
   definition: "a change composed by a program",
   runsChecks: false,
-  runsWarrants: false,
+  writerOwesReading: false,
   invariants: [
     {
       invariantKind: "absence",

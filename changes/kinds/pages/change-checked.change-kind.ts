@@ -6,7 +6,7 @@ export const changeChecked = {
   slug: "change-checked",
   definition: "a change a program composed and the checks judge",
   runsChecks: true,
-  runsWarrants: false,
+  writerOwesReading: false,
   invariants: [
     {
       invariantKind: "departure",

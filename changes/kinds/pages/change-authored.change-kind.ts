@@ -6,7 +6,7 @@ export const changeAuthored = {
   slug: "change-authored",
   definition: "a change composed by an agent",
   runsChecks: true,
-  runsWarrants: true,
+  writerOwesReading: true,
   invariants: [
     {
       invariantKind: "departure",

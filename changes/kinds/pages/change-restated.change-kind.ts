@@ -6,7 +6,7 @@ export const changeRestated = {
   slug: "change-restated",
   definition: "a change saying what a page already said in other words",
   runsChecks: true,
-  runsWarrants: false,
+  writerOwesReading: false,
   invariants: [
     {
       invariantKind: "departure",
