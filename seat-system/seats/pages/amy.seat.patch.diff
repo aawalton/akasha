@@ -50,6 +50,54 @@ index 9747dfe0eed019e7d2a40d6c58c91ffec8a4f9c6..555f81b41b26e968bb92a3c15f47ff73
    ],
    invariants: [
      {
+diff --git a/alan/fitness/commands/track-workout-show/track-workout-show.command.code.ts b/alan/fitness/commands/track-workout-show/track-workout-show.command.code.ts
+index 620a2bf7ec89a36d14549aac5d1fc54b4eaddcbe..f2fd18594a2e189dfea4e24c87bd6ee9bb11eb83 100644
+--- a/alan/fitness/commands/track-workout-show/track-workout-show.command.code.ts
++++ b/alan/fitness/commands/track-workout-show/track-workout-show.command.code.ts
+@@ -9,9 +9,6 @@ import {
+   textIn,
+   titleOf,
+ } from "@akasha/exercise-access/exercise-rows"
+-import { statedBodyweight } from "@akasha/exercise-access/session-volume"
+-import type { VolumeSetInput } from "@akasha/exercise-access/set-volume"
+-import { computeSessionVolume } from "@akasha/exercise-access/set-volume"
+ import {
+   asJson,
+   DATA,
+@@ -142,22 +139,6 @@ export async function trackWorkoutShow(argv: readonly string[] = []): Promise<An
+     }
+   }
+ 
+-  const weighed = await statedBodyweight()
+-  if ("refused" in weighed) return refusedBy([weighed.refused], DATA)
+-
+-  const volumeInputs: readonly VolumeSetInput[] = setLogs.rows.map((row) => {
+-    const exerciseSlug = textIn(row, "exerciseSlug")
+-    const info = exerciseSlug !== undefined ? movements.get(exerciseSlug) : undefined
+-    return {
+-      reps: numberIn(row, "reps"),
+-      weight: numberIn(row, "weight"),
+-      isWarmup: boolIn(row, "isWarmup"),
+-      activityType: textIn(row, "activityType"),
+-      loadFactor: info?.loadFactor,
+-      implementCount: info?.implementCount,
+-    }
+-  })
+-
+   const scheduleDay = await titleBySlug(SCHEDULE_DAY, textIn(session, "scheduleDaySlug"))
+   if ("refused" in scheduleDay) return refusedBy([scheduleDay.refused], DATA)
+ 
+@@ -168,7 +149,9 @@ export async function trackWorkoutShow(argv: readonly string[] = []): Promise<An
+     scheduleDay: scheduleDay.title,
+     startedAt: textIn(session, "workoutSessionStartedAt") ?? null,
+     completedAt: textIn(session, "workoutSessionCompletedAt") ?? null,
+-    totalVolume: computeSessionVolume(volumeInputs, weighed.bodyweight),
++    // THE SESSION IS ASKED WHAT THAT SESSION MOVED. The formula sits on the set's own page, so
++    // counting the reps again here is a second answer that can differ from the day's.
++    totalVolume: numberIn(session, "sessionVolume") ?? 0,
+   }
+   const lines = setLinesOf(setLogs.rows, movements)
+ 
 diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
 index f0fa55ced9031bfdc5c83cabe230428f8954e0ae..916d3b5dfbcb1754b8f07fecab7992d5872eb0dc 100644
 --- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
