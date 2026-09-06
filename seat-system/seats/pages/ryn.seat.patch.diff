@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/agents/claude-accounts/modules/health/claude-account-health.module.ts b/agents/claude-accounts/modules/health/claude-account-health.module.ts
-index 1613fe4db8dde3d167906731ff1186d693afa9a1..17d06593abc4cdfe40d5db5c9ac0c23b9a0e2d7f 100644
+index 1613fe4db8dde3d167906731ff1186d693afa9a1..c199c3bec767983a963b7ebce618b9b02b6c3c38 100644
 --- a/agents/claude-accounts/modules/health/claude-account-health.module.ts
 +++ b/agents/claude-accounts/modules/health/claude-account-health.module.ts
 @@ -20,7 +20,7 @@ export const claudeAccountHealth = {
@@ -9,6 +9,15 @@ index 1613fe4db8dde3d167906731ff1186d693afa9a1..17d06593abc4cdfe40d5db5c9ac0c23b
        statement:
 -        "A refresh that failed reads as retryable where the failure says that refresh is not.",
 +        "A refresh that failed reads as retryable where the failure says that refresh is not terminal.",
+     },
+     {
+       invariantKind: "departure",
+@@ -40,7 +40,7 @@ export const claudeAccountHealth = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An alert latch carries the instant handed in rather than one read here.",
++      statement: "An alert latch carries the instant handed in rather than an instant read here.",
      },
      {
        invariantKind: "departure",
