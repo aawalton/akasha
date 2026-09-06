@@ -2224,3 +2224,750 @@ index f57465842655d28e78929b8d3054a08334550af4..97bb7d4a69306148c8ca64c19b3f6502
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
+diff --git a/collections/properties/collection-author.text-property.ts b/collections/properties/collection-author.text-property.ts
+index 3a09b1450f579cf81d9f497ba36da5df6490fe13..2b5602ee670dd3aee83bb1cc72805c2248dbb312 100644
+--- a/collections/properties/collection-author.text-property.ts
++++ b/collections/properties/collection-author.text-property.ts
+@@ -8,6 +8,6 @@ export const collectionAuthor = {
+   slug: "collection-author",
+   propertySlug: "author",
+   definition: "who made a collection",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/collections/properties/collection-description.text-property.ts b/collections/properties/collection-description.text-property.ts
+index 3f5f290f023e0ebef1de4ad38b3d726c2060bbb0..c4791c6429ca20dc6818f85113eb2fa89d9c4678 100644
+--- a/collections/properties/collection-description.text-property.ts
++++ b/collections/properties/collection-description.text-property.ts
+@@ -8,6 +8,6 @@ export const collectionDescription = {
+   slug: "collection-description",
+   propertySlug: "description",
+   definition: "what a collection is about",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/collections/properties/collection-tags.text-property.ts b/collections/properties/collection-tags.text-property.ts
+index 8c9e7bc83b1be538d82c998ea20b3eb2abe78435..6c5b8638faabd44cd07c18c0ae392a80fadecd5d 100644
+--- a/collections/properties/collection-tags.text-property.ts
++++ b/collections/properties/collection-tags.text-property.ts
+@@ -8,7 +8,7 @@ export const collectionTags = {
+   slug: "collection-tags",
+   propertySlug: "tags",
+   definition: "a word a person files a collection under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/collections/royal-road-accounts/properties/royal-road-password.text-property.ts b/collections/royal-road-accounts/properties/royal-road-password.text-property.ts
+index eda4147ed3c6a619b6fcb0f2ba3f0459c7453c82..bfa377098cc6ff55c252d19461ded1ed734014f5 100644
+--- a/collections/royal-road-accounts/properties/royal-road-password.text-property.ts
++++ b/collections/royal-road-accounts/properties/royal-road-password.text-property.ts
+@@ -8,7 +8,7 @@ export const royalRoadPassword = {
+   slug: "royal-road-password",
+   propertySlug: "password",
+   definition: "what authorises a Royal Road account's sign-in",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/collections/sync-runs/properties/run-error-message.text-property.ts b/collections/sync-runs/properties/run-error-message.text-property.ts
+index d6239bcb4094fe10744bd770cc48cd8b9a5ebbe7..f5c7c4f20b21f3593a05d26fb10a81ca60bcf6ea 100644
+--- a/collections/sync-runs/properties/run-error-message.text-property.ts
++++ b/collections/sync-runs/properties/run-error-message.text-property.ts
+@@ -8,6 +8,6 @@ export const runErrorMessage = {
+   slug: "run-error-message",
+   propertySlug: "run-error-message",
+   definition: "what a pull said as it failed",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/command-system/commands/properties/help-arg-alias-of-flag.text-property.ts b/command-system/commands/properties/help-arg-alias-of-flag.text-property.ts
+index 3930a02350df699a7cdb593192e5ed02cdb37a10..c2a65bd189698fd5bc9cf9a6a47d7fb73a4e4d89 100644
+--- a/command-system/commands/properties/help-arg-alias-of-flag.text-property.ts
++++ b/command-system/commands/properties/help-arg-alias-of-flag.text-property.ts
+@@ -8,6 +8,6 @@ export const helpArgAliasOfFlag = {
+   slug: "help-arg-alias-of-flag",
+   propertySlug: "alias-of-flag",
+   definition: "the flag a positional argument fills in for",
+-  max: 60,
++  maxLength: 60,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/command-system/commands/properties/help-arg-aliases.text-property.ts b/command-system/commands/properties/help-arg-aliases.text-property.ts
+index 984be060752ba26de484406303542d478223c4e4..cfa08b258614720c28eec8d2a1a3a8e7c1005620 100644
+--- a/command-system/commands/properties/help-arg-aliases.text-property.ts
++++ b/command-system/commands/properties/help-arg-aliases.text-property.ts
+@@ -8,6 +8,6 @@ export const helpArgAliases = {
+   slug: "help-arg-aliases",
+   propertySlug: "aliases",
+   definition: "another spelling that reaches the same flag",
+-  max: 60,
++  maxLength: 60,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/command-system/commands/properties/help-arg-choices.text-property.ts b/command-system/commands/properties/help-arg-choices.text-property.ts
+index 064d7dccaa699703256892b4f0eebecd49b24049..c13e5526c470401f5a779c7c2ba748a117eb0ee7 100644
+--- a/command-system/commands/properties/help-arg-choices.text-property.ts
++++ b/command-system/commands/properties/help-arg-choices.text-property.ts
+@@ -8,6 +8,6 @@ export const helpArgChoices = {
+   slug: "help-arg-choices",
+   propertySlug: "choices",
+   definition: "one value a flag accepts, where the accepted values are named",
+-  max: 60,
++  maxLength: 60,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/command-system/commands/properties/help-arg-default.text-property.ts b/command-system/commands/properties/help-arg-default.text-property.ts
+index 82b3ab08be4e4b9e30eb1907831ab976c5d369b5..133bc6e6a17efa54fa3c52205c718f1e656ce79c 100644
+--- a/command-system/commands/properties/help-arg-default.text-property.ts
++++ b/command-system/commands/properties/help-arg-default.text-property.ts
+@@ -8,6 +8,6 @@ export const helpArgDefault = {
+   slug: "help-arg-default",
+   propertySlug: "default",
+   definition: "the value an argument takes where none is given",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/command-system/commands/properties/help-arg-label.text-property.ts b/command-system/commands/properties/help-arg-label.text-property.ts
+index ec03ac9444623bcbca9cad4bff1a62ae786174c2..40a7cb99a1ef7b2356d72be1f0de95f482011ddd 100644
+--- a/command-system/commands/properties/help-arg-label.text-property.ts
++++ b/command-system/commands/properties/help-arg-label.text-property.ts
+@@ -8,6 +8,6 @@ export const helpArgLabel = {
+   slug: "help-arg-label",
+   propertySlug: "arg-label",
+   definition: "the name a flag's value is printed under",
+-  max: 40,
++  maxLength: 40,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/command-system/commands/properties/help-arg-name.text-property.ts b/command-system/commands/properties/help-arg-name.text-property.ts
+index d53fd7c03b8bc9509803ca97d4cc9731b6e73a3e..b7bf9a7524d1e7d6224a26377f618001dc953b6f 100644
+--- a/command-system/commands/properties/help-arg-name.text-property.ts
++++ b/command-system/commands/properties/help-arg-name.text-property.ts
+@@ -8,6 +8,6 @@ export const helpArgName = {
+   slug: "help-arg-name",
+   propertySlug: "name",
+   definition: "how one argument is spelled where it is typed",
+-  max: 60,
++  maxLength: 60,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/command-system/commands/properties/help-arg-note.text-property.ts b/command-system/commands/properties/help-arg-note.text-property.ts
+index 7bd4fb02bfaffbd5d3c9a178a987d179ab82c7aa..c344f9b2d1699f6910d3ebf31fe7f75a535a250d 100644
+--- a/command-system/commands/properties/help-arg-note.text-property.ts
++++ b/command-system/commands/properties/help-arg-note.text-property.ts
+@@ -8,6 +8,6 @@ export const helpArgNote = {
+   slug: "help-arg-note",
+   propertySlug: "description",
+   definition: "the line printed beside one argument",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/command-system/commands/properties/help-arg-shape.text-property.ts b/command-system/commands/properties/help-arg-shape.text-property.ts
+index 2b97d805c628d4e112688180f6636c1516d52e27..641bb2c7a4426c91de8cc428e9ef2e90ddbd1627 100644
+--- a/command-system/commands/properties/help-arg-shape.text-property.ts
++++ b/command-system/commands/properties/help-arg-shape.text-property.ts
+@@ -8,6 +8,6 @@ export const helpArgShape = {
+   slug: "help-arg-shape",
+   propertySlug: "value-shape",
+   definition: "whether a flag's value is one token, one line, or prose",
+-  max: 10,
++  maxLength: 10,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/command-system/commands/properties/help-examples.text-property.ts b/command-system/commands/properties/help-examples.text-property.ts
+index 534c9758280715e73659153f045457437ba4cea8..925227e5b402bd463d2c6fbc6f09820c9135a7d0 100644
+--- a/command-system/commands/properties/help-examples.text-property.ts
++++ b/command-system/commands/properties/help-examples.text-property.ts
+@@ -8,6 +8,6 @@ export const helpExamples = {
+   slug: "help-examples",
+   propertySlug: "examples",
+   definition: "one worked invocation printed under a command's help",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/command-system/commands/properties/help-exclusion-names.text-property.ts b/command-system/commands/properties/help-exclusion-names.text-property.ts
+index 7c3629d3a7a8366ebc5195ff8977309b7483a426..56c5777e9ce90a617813b18500373abc69cdd6bc 100644
+--- a/command-system/commands/properties/help-exclusion-names.text-property.ts
++++ b/command-system/commands/properties/help-exclusion-names.text-property.ts
+@@ -8,6 +8,6 @@ export const helpExclusionNames = {
+   slug: "help-exclusion-names",
+   propertySlug: "names",
+   definition: "one flag in a set no two of which are given together",
+-  max: 60,
++  maxLength: 60,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/command-system/commands/properties/help-exit-meaning.text-property.ts b/command-system/commands/properties/help-exit-meaning.text-property.ts
+index 7316fb4a644b9cb91a1ec3af077b6357f4624de2..5e83de4fd6aa58c30187146573a5e1116bae6e24 100644
+--- a/command-system/commands/properties/help-exit-meaning.text-property.ts
++++ b/command-system/commands/properties/help-exit-meaning.text-property.ts
+@@ -8,6 +8,6 @@ export const helpExitMeaning = {
+   slug: "help-exit-meaning",
+   propertySlug: "meaning",
+   definition: "what one exit code says about a run",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/command-system/commands/properties/help-notes.text-property.ts b/command-system/commands/properties/help-notes.text-property.ts
+index 377c0a277039e2b78ef1bcb9f45dc42ce6d177fc..b45f7ce9f7001097b353a057d0d87da2654b5c13 100644
+--- a/command-system/commands/properties/help-notes.text-property.ts
++++ b/command-system/commands/properties/help-notes.text-property.ts
+@@ -8,7 +8,7 @@ export const helpNotes = {
+   slug: "help-notes",
+   propertySlug: "help-notes",
+   definition: "one line a command's help says past the list of what it takes",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/command-system/commands/properties/said.text-property.ts b/command-system/commands/properties/said.text-property.ts
+index c7981771424d1c70cc0057506293af48cd1a1986..90e3954b8459c21ec5754899439b0d28e5d59619 100644
+--- a/command-system/commands/properties/said.text-property.ts
++++ b/command-system/commands/properties/said.text-property.ts
+@@ -8,7 +8,7 @@ export const said = {
+   slug: "said",
+   propertySlug: "said",
+   definition: "how one thing a command takes is spelled on the command line",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/command-system/commands/properties/takes.text-property.ts b/command-system/commands/properties/takes.text-property.ts
+index 7d6d2f54f1ba104812685e7fa7753451167f0fa9..105fd21cffb9650eb24821121dfdaa8ee1452ce3 100644
+--- a/command-system/commands/properties/takes.text-property.ts
++++ b/command-system/commands/properties/takes.text-property.ts
+@@ -8,7 +8,7 @@ export const takes = {
+   slug: "takes",
+   propertySlug: "takes",
+   definition: "what one thing a command takes is for",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/design/colors/properties/hex.text-property.ts b/design/colors/properties/hex.text-property.ts
+index 05d975cfa0486b7844de3c537763747adaf8dd0f..a27c366253799fd8ce59de77f89ff88628021924 100644
+--- a/design/colors/properties/hex.text-property.ts
++++ b/design/colors/properties/hex.text-property.ts
+@@ -8,6 +8,6 @@ export const hex = {
+   slug: "hex",
+   propertySlug: "hex",
+   definition: "the color written as hex, for wherever there is no palette to pick from",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/domains/findings/properties/claim.text-property.ts b/domains/findings/properties/claim.text-property.ts
+index 2b9ed046b55865432309c9afb77fcc4c0a8a3405..59c52f9f104598adbf8b3df8deeddf26462b390f 100644
+--- a/domains/findings/properties/claim.text-property.ts
++++ b/domains/findings/properties/claim.text-property.ts
+@@ -8,6 +8,6 @@ export const claim = {
+   slug: "claim",
+   propertySlug: "claim",
+   definition: "what a finding says is so",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/domains/findings/properties/evidence.text-property.ts b/domains/findings/properties/evidence.text-property.ts
+index 9c257c8af2416d9de34dee68fb4061e0f24fbe06..940257ef6b1fdf61ee8c14517a9b5e0a8e8f65f7 100644
+--- a/domains/findings/properties/evidence.text-property.ts
++++ b/domains/findings/properties/evidence.text-property.ts
+@@ -8,6 +8,6 @@ export const evidence = {
+   slug: "evidence",
+   propertySlug: "evidence",
+   definition: "the observations a claim rests on",
+-  max: 6000,
++  maxLength: 6000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/domains/initiatives/properties/constraints.text-property.ts b/domains/initiatives/properties/constraints.text-property.ts
+index 3d16b819671bc5f894e79ab119bc14376fcc60bc..3bc7ee19ebed2dfdf8753f561635f0212d964134 100644
+--- a/domains/initiatives/properties/constraints.text-property.ts
++++ b/domains/initiatives/properties/constraints.text-property.ts
+@@ -8,7 +8,7 @@ export const constraints = {
+   slug: "constraints",
+   propertySlug: "constraints",
+   definition: "a bound the work is done within",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/domains/initiatives/properties/intent-statement.text-property.ts b/domains/initiatives/properties/intent-statement.text-property.ts
+index 4b3a03fc53fc09142349da48e16c07fd68f6f262..1ba4de074d7f3fcb822594bc3b32c7fe321e4c67 100644
+--- a/domains/initiatives/properties/intent-statement.text-property.ts
++++ b/domains/initiatives/properties/intent-statement.text-property.ts
+@@ -8,6 +8,6 @@ export const intentStatement = {
+   slug: "intent-statement",
+   propertySlug: "statement",
+   definition: "one sentence saying what an initiative is to make so",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/domains/initiatives/properties/working-memory.text-property.ts b/domains/initiatives/properties/working-memory.text-property.ts
+index 4e11186712c8f1844c24acef1842bfaec2f2e068..fa6a46aedf43d3fbb9890a51eeb9e3378c5b3425 100644
+--- a/domains/initiatives/properties/working-memory.text-property.ts
++++ b/domains/initiatives/properties/working-memory.text-property.ts
+@@ -8,7 +8,7 @@ export const workingMemory = {
+   slug: "working-memory",
+   propertySlug: "working-memory",
+   definition: "the state of the work on one intent",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/domains/lists/properties/member-name.text-property.ts b/domains/lists/properties/member-name.text-property.ts
+index 51e2b51c49f0bfc55214733e421ba66547191550..0a043fa214c08e5cb9afcd18db9ef58aeb2dc200 100644
+--- a/domains/lists/properties/member-name.text-property.ts
++++ b/domains/lists/properties/member-name.text-property.ts
+@@ -8,6 +8,6 @@ export const memberName = {
+   slug: "member-name",
+   propertySlug: "member-name",
+   definition: "what one member of a list is called",
+-  max: 60,
++  maxLength: 60,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/domains/properties/act.text-property.ts b/domains/properties/act.text-property.ts
+index f2748f5fc37510e3b6d8ff61f8a45b7316e7724f..ff1627b64079f5433e168c3bdab92291d08cab8b 100644
+--- a/domains/properties/act.text-property.ts
++++ b/domains/properties/act.text-property.ts
+@@ -8,6 +8,6 @@ export const act = {
+   slug: "act",
+   propertySlug: "act",
+   definition: "what a directive tells its reader to do",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/domains/properties/aids.text-property.ts b/domains/properties/aids.text-property.ts
+index d09704deb1ae356c9453c7ffeed5830cb222e3d7..a7695954ae8b7d81d87e0d3ed61618bf37c8b779 100644
+--- a/domains/properties/aids.text-property.ts
++++ b/domains/properties/aids.text-property.ts
+@@ -10,7 +10,7 @@ export const aids = {
+   slug: "aids",
+   propertySlug: "aids",
+   definition: "the rulings on acts a reader is about to take, each for or against",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/domains/properties/definition.text-property.ts b/domains/properties/definition.text-property.ts
+index c4f285d1e65546d50af8c7873988598e7f87d2c4..c06173f571f29f651ef0e20785769413d724c0ca 100644
+--- a/domains/properties/definition.text-property.ts
++++ b/domains/properties/definition.text-property.ts
+@@ -8,7 +8,7 @@ export const definition = {
+   slug: "definition",
+   propertySlug: "definition",
+   definition: "the sentence naming what a page's subject is",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/domains/properties/invariant-statement.text-property.ts b/domains/properties/invariant-statement.text-property.ts
+index c472bb733271ca367f617b93295148b0dff5f44d..42ff7d6164bbf2edf34b3b767b769a77a358a0bc 100644
+--- a/domains/properties/invariant-statement.text-property.ts
++++ b/domains/properties/invariant-statement.text-property.ts
+@@ -8,6 +8,6 @@ export const invariantStatement = {
+   slug: "invariant-statement",
+   propertySlug: "statement",
+   definition: "one sentence an invariant holds a page to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/domains/properties/name.text-property.ts b/domains/properties/name.text-property.ts
+index 16b6b81e9dc54d3f86b5f1425773acaceceee812..471ae61fc3c18b2fd16602bbf7cea4a9e824d309 100644
+--- a/domains/properties/name.text-property.ts
++++ b/domains/properties/name.text-property.ts
+@@ -8,6 +8,6 @@ export const name = {
+   slug: "name",
+   propertySlug: "name",
+   definition: "what a directive is called",
+-  max: 30,
++  maxLength: 30,
+   nameFormatSlug: "name-format/start-case",
+ } as const satisfies TextProperty
+diff --git a/domains/properties/plural-slug.text-property.ts b/domains/properties/plural-slug.text-property.ts
+index bd573c30eaad52a31d4c423400a52f72f7b39068..1c0ac0dbeecfe2d31be4523a0e911b59afc020db 100644
+--- a/domains/properties/plural-slug.text-property.ts
++++ b/domains/properties/plural-slug.text-property.ts
+@@ -8,7 +8,7 @@ export const pluralSlug = {
+   slug: "plural-slug",
+   propertySlug: "plural-slug",
+   definition: "the slug for many of what a domain is about",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/domains/properties/warrant.text-property.ts b/domains/properties/warrant.text-property.ts
+index e3c50a30cd3e0cb4ce43ce2e819ce6f1a4afad56..5d433a13df06c0969dd3b327ceddb5a3383df6a4 100644
+--- a/domains/properties/warrant.text-property.ts
++++ b/domains/properties/warrant.text-property.ts
+@@ -8,6 +8,6 @@ export const warrant = {
+   slug: "warrant",
+   propertySlug: "warrant",
+   definition: "the general fact an act follows from",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/domains/sentence-shapes/properties/reason.text-property.ts b/domains/sentence-shapes/properties/reason.text-property.ts
+index 09db625ee99c75ebab17ec2dd3a09e1c565b62e8..3d15c41f7e48d662d1b69a275c739e049b25e548 100644
+--- a/domains/sentence-shapes/properties/reason.text-property.ts
++++ b/domains/sentence-shapes/properties/reason.text-property.ts
+@@ -8,6 +8,6 @@ export const reason = {
+   slug: "reason",
+   propertySlug: "reason",
+   definition: "the fact a sentence shape is refused on",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/domains/taboo-terms/properties/instead.text-property.ts b/domains/taboo-terms/properties/instead.text-property.ts
+index 657146914beb5a41d5e7d53aa93c1bb76c37f8ca..3db39092ba09f9c2ec2d58bec3a90ac342b50dc2 100644
+--- a/domains/taboo-terms/properties/instead.text-property.ts
++++ b/domains/taboo-terms/properties/instead.text-property.ts
+@@ -8,6 +8,6 @@ export const instead = {
+   slug: "instead",
+   propertySlug: "instead",
+   definition: "what is written where a taboo sense was meant",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/domains/taboo-terms/properties/kept-senses.text-property.ts b/domains/taboo-terms/properties/kept-senses.text-property.ts
+index 628c36e300d2e620fbb640b8dd028ea1e332a98f..412eff0fd54e31d9971479ed61ef686987617eec 100644
+--- a/domains/taboo-terms/properties/kept-senses.text-property.ts
++++ b/domains/taboo-terms/properties/kept-senses.text-property.ts
+@@ -10,7 +10,7 @@ export const keptSenses = {
+   slug: "kept-senses",
+   propertySlug: "kept-senses",
+   definition: "the meanings a word is written in",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/domains/taboo-terms/properties/pattern.text-property.ts b/domains/taboo-terms/properties/pattern.text-property.ts
+index 71f98836c798227a755552c49523fc7bf69811ea..64401dfbae678dfeff1514adcb777940160eb2f9 100644
+--- a/domains/taboo-terms/properties/pattern.text-property.ts
++++ b/domains/taboo-terms/properties/pattern.text-property.ts
+@@ -8,7 +8,7 @@ export const pattern = {
+   slug: "pattern",
+   propertySlug: "pattern",
+   definition: "the regular expression that finds a taboo term in changed text",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/domains/taboo-terms/properties/sense.text-property.ts b/domains/taboo-terms/properties/sense.text-property.ts
+index f763d73c46515b833083fe87bb2df4b30d13c60b..964ef6e75ce10f01a40adfef86fbaa8203b24218 100644
+--- a/domains/taboo-terms/properties/sense.text-property.ts
++++ b/domains/taboo-terms/properties/sense.text-property.ts
+@@ -8,6 +8,6 @@ export const sense = {
+   slug: "sense",
+   propertySlug: "sense",
+   definition: "the meaning a word is never written in",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/errors-core/runtime-errors/properties/error-app.text-property.ts b/errors-core/runtime-errors/properties/error-app.text-property.ts
+index dff912b9e3e7c07a567a7c119f0407b133eb98f0..70d234c785fc8ffb341a439d6912c6b1aacbd5cb 100644
+--- a/errors-core/runtime-errors/properties/error-app.text-property.ts
++++ b/errors-core/runtime-errors/properties/error-app.text-property.ts
+@@ -8,7 +8,7 @@ export const errorApp = {
+   slug: "error-app",
+   propertySlug: "app",
+   definition: "the web app whose client met an error",
+-  max: 32,
++  maxLength: 32,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/errors-core/runtime-errors/properties/error-fingerprint.text-property.ts b/errors-core/runtime-errors/properties/error-fingerprint.text-property.ts
+index 0059249eef5f9bef363ea058ea1a146a6e0d940c..992543148df9b31fe1e6eb0642f88406849ed6a2 100644
+--- a/errors-core/runtime-errors/properties/error-fingerprint.text-property.ts
++++ b/errors-core/runtime-errors/properties/error-fingerprint.text-property.ts
+@@ -8,7 +8,7 @@ export const errorFingerprint = {
+   slug: "error-fingerprint",
+   propertySlug: "fingerprint",
+   definition: "the hash telling one error apart from another",
+-  max: 16,
++  maxLength: 16,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/errors-core/runtime-errors/properties/error-kind.text-property.ts b/errors-core/runtime-errors/properties/error-kind.text-property.ts
+index 8bcf1db3dc28cb7b47213b03a5d0bb624f28ddee..a5036a18b0960bfafc3c56ab4189d9a4f34c117c 100644
+--- a/errors-core/runtime-errors/properties/error-kind.text-property.ts
++++ b/errors-core/runtime-errors/properties/error-kind.text-property.ts
+@@ -8,7 +8,7 @@ export const errorKind = {
+   slug: "error-kind",
+   propertySlug: "kind",
+   definition: "the way a client came to meet an error",
+-  max: 32,
++  maxLength: 32,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/errors-core/runtime-errors/properties/error-message.text-property.ts b/errors-core/runtime-errors/properties/error-message.text-property.ts
+index bcc9a1490ef031bc981ca755b410954cace8e411..afc610512d31688dd6d337c296563e6f2f51ed02 100644
+--- a/errors-core/runtime-errors/properties/error-message.text-property.ts
++++ b/errors-core/runtime-errors/properties/error-message.text-property.ts
+@@ -8,7 +8,7 @@ export const errorMessage = {
+   slug: "error-message",
+   propertySlug: "message",
+   definition: "what an error said when a client met the error",
+-  max: 2048,
++  maxLength: 2048,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/errors-core/runtime-errors/properties/error-release-sha.text-property.ts b/errors-core/runtime-errors/properties/error-release-sha.text-property.ts
+index a219ab99dd1804e2deb8b2e60110c7231273605e..ffb56c2a18602a862ac558b6c3030e8c86727f02 100644
+--- a/errors-core/runtime-errors/properties/error-release-sha.text-property.ts
++++ b/errors-core/runtime-errors/properties/error-release-sha.text-property.ts
+@@ -8,7 +8,7 @@ export const errorReleaseSha = {
+   slug: "error-release-sha",
+   propertySlug: "release-sha",
+   definition: "the build a client was running when a client met an error",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/errors-core/runtime-errors/properties/error-url.text-property.ts b/errors-core/runtime-errors/properties/error-url.text-property.ts
+index 663046dace4d8b902ae99f97d01ddacca1df1876..f1f172956e942e701bc46d97d906ca83ed47d821 100644
+--- a/errors-core/runtime-errors/properties/error-url.text-property.ts
++++ b/errors-core/runtime-errors/properties/error-url.text-property.ts
+@@ -8,7 +8,7 @@ export const errorUrl = {
+   slug: "error-url",
+   propertySlug: "url",
+   definition: "where a client was when a client met an error",
+-  max: 2048,
++  maxLength: 2048,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/errors-core/runtime-errors/properties/error-user-agent.text-property.ts b/errors-core/runtime-errors/properties/error-user-agent.text-property.ts
+index 5d7327a76ef299e6037fba3d1eeadf092086e292..e34409383dac5340a3d39512da53e9e0d3d46a42 100644
+--- a/errors-core/runtime-errors/properties/error-user-agent.text-property.ts
++++ b/errors-core/runtime-errors/properties/error-user-agent.text-property.ts
+@@ -8,7 +8,7 @@ export const errorUserAgent = {
+   slug: "error-user-agent",
+   propertySlug: "user-agent",
+   definition: "the browser or shell that reported an error",
+-  max: 1024,
++  maxLength: 1024,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/games/game-design-drives/properties/octalysis-definition.text-property.ts b/games/game-design-drives/properties/octalysis-definition.text-property.ts
+index f0e89d26c85f6ffd45a7a4e2ffef876ae7bd45cd..ef0143767d30ee65541862e021a0b8673d9d8d57 100644
+--- a/games/game-design-drives/properties/octalysis-definition.text-property.ts
++++ b/games/game-design-drives/properties/octalysis-definition.text-property.ts
+@@ -8,6 +8,6 @@ export const octalysisDefinition = {
+   slug: "octalysis-definition",
+   propertySlug: "definition",
+   definition: "how Chou defines a drive",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/games/game-design-drives/properties/octalysis-name.text-property.ts b/games/game-design-drives/properties/octalysis-name.text-property.ts
+index 5a4243caee3e0770b6836099902a170a4a3e3857..96c4cfebb634ddcf579fb5927eb6bfc810d362bf 100644
+--- a/games/game-design-drives/properties/octalysis-name.text-property.ts
++++ b/games/game-design-drives/properties/octalysis-name.text-property.ts
+@@ -8,6 +8,6 @@ export const octalysisName = {
+   slug: "octalysis-name",
+   propertySlug: "name",
+   definition: "what Chou calls a drive",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/hook-system/agent-hooks/properties/over-tools.text-property.ts b/hook-system/agent-hooks/properties/over-tools.text-property.ts
+index 69fa16314a241c5f935bf08c8c4ce95e6f207a5b..909f9622fc14223c76dc2cd04a66c08ff1f979f2 100644
+--- a/hook-system/agent-hooks/properties/over-tools.text-property.ts
++++ b/hook-system/agent-hooks/properties/over-tools.text-property.ts
+@@ -11,7 +11,7 @@ export const overTools = {
+   slug: "over-tools",
+   propertySlug: "over-tools",
+   definition: "the tools whose calls a hook judges",
+-  max: 60,
++  maxLength: 60,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/hook-system/agent-hooks/properties/runs-at.text-property.ts b/hook-system/agent-hooks/properties/runs-at.text-property.ts
+index 2d2ff0495490e1d4ee60682852feb3890f66b896..99da776174546fa7df1284aca70bcf6f6216e982 100644
+--- a/hook-system/agent-hooks/properties/runs-at.text-property.ts
++++ b/hook-system/agent-hooks/properties/runs-at.text-property.ts
+@@ -24,7 +24,7 @@ export const runsAt = {
+   slug: "runs-at",
+   propertySlug: "runs-at",
+   definition: "the harness events at which a hook is called",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/idle-system/idle-persona-cards/properties/card-slug.text-property.ts b/idle-system/idle-persona-cards/properties/card-slug.text-property.ts
+index 687d578f8f2f711197c78ca452f797aab0df0750..cb8cec977c21167a7a64d3ea482e12b3cd7f12a4 100644
+--- a/idle-system/idle-persona-cards/properties/card-slug.text-property.ts
++++ b/idle-system/idle-persona-cards/properties/card-slug.text-property.ts
+@@ -8,7 +8,7 @@ export const cardSlug = {
+   slug: "card-slug",
+   propertySlug: "card-slug",
+   definition: "which of the cards this one is, the same name in every player's deck",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/idle-system/idle-persona-cards/properties/cover-image-id.text-property.ts b/idle-system/idle-persona-cards/properties/cover-image-id.text-property.ts
+index 33a16c02d0a003bdffefce9dc83dc84ea8e80d31..b07b85aa70fd49bdaf5fc9eea478339389e63b9b 100644
+--- a/idle-system/idle-persona-cards/properties/cover-image-id.text-property.ts
++++ b/idle-system/idle-persona-cards/properties/cover-image-id.text-property.ts
+@@ -8,6 +8,6 @@ export const coverImageId = {
+   slug: "cover-image-id",
+   propertySlug: "cover-image-id",
+   definition: "the picture a card is shown by",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+ } as const satisfies TextProperty
+diff --git a/idle-system/idle-persona-cards/properties/images.text-property.ts b/idle-system/idle-persona-cards/properties/images.text-property.ts
+index 1c7de83fbcaeb340beb9723e224e6d74a3befd81..deae0bf3e0a9c02fab177e16c550b691d439e24d 100644
+--- a/idle-system/idle-persona-cards/properties/images.text-property.ts
++++ b/idle-system/idle-persona-cards/properties/images.text-property.ts
+@@ -9,7 +9,7 @@ export const images = {
+   slug: "images",
+   propertySlug: "images",
+   definition: "every picture a card has been drawn as",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+   invariants: [
+     {
+diff --git a/idle-system/idle-persona-cards/properties/player-id.text-property.ts b/idle-system/idle-persona-cards/properties/player-id.text-property.ts
+index a2ec3fcf223345a70cbaffe41cf24846dfe5e999..de4eb823b2f125933f7428e5afe5c61cd5504bb6 100644
+--- a/idle-system/idle-persona-cards/properties/player-id.text-property.ts
++++ b/idle-system/idle-persona-cards/properties/player-id.text-property.ts
+@@ -8,7 +8,7 @@ export const playerId = {
+   slug: "player-id",
+   propertySlug: "player-id",
+   definition: "the player whose card it is",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/infrastructure/alerts/properties/alert-domain.text-property.ts b/infrastructure/alerts/properties/alert-domain.text-property.ts
+index 244e38d74db718644d6936ea3b86f98e52ced1ee..f12a642effd523d863d31ad5db454a50a0c0c482 100644
+--- a/infrastructure/alerts/properties/alert-domain.text-property.ts
++++ b/infrastructure/alerts/properties/alert-domain.text-property.ts
+@@ -8,7 +8,7 @@ export const alertDomain = {
+   slug: "alert-domain",
+   propertySlug: "domain",
+   definition: "the area a raised alert is owed to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/infrastructure/alerts/properties/alert-role-slug.text-property.ts b/infrastructure/alerts/properties/alert-role-slug.text-property.ts
+index 3e1c8d2e8eb89b59b40634c11a783393dc3d64ef..2fbbe4fa6d41c9ded899d7bf481e6ca43c25249b 100644
+--- a/infrastructure/alerts/properties/alert-role-slug.text-property.ts
++++ b/infrastructure/alerts/properties/alert-role-slug.text-property.ts
+@@ -8,6 +8,6 @@ export const alertRoleSlug = {
+   slug: "alert-role-slug",
+   propertySlug: "role-slug",
+   definition: "the role an alert is for",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/infrastructure/alerts/properties/alert-summary.text-property.ts b/infrastructure/alerts/properties/alert-summary.text-property.ts
+index 1e28170520b65795b6a41ecc093a7372dc88d347..df0f4ab717f12c63e16f295424dac415b2087e56 100644
+--- a/infrastructure/alerts/properties/alert-summary.text-property.ts
++++ b/infrastructure/alerts/properties/alert-summary.text-property.ts
+@@ -8,7 +8,7 @@ export const alertSummary = {
+   slug: "alert-summary",
+   propertySlug: "summary",
+   definition: "the line shown when an alert is raised",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/machines/computers/properties/computer-model.text-property.ts b/machines/computers/properties/computer-model.text-property.ts
+index eaf90f82a8049bb09f95120d11bc30c9baa1e750..45a4f50fc5370dcfffbd87f320715647b1101583 100644
+--- a/machines/computers/properties/computer-model.text-property.ts
++++ b/machines/computers/properties/computer-model.text-property.ts
+@@ -8,6 +8,6 @@ export const computerModel = {
+   slug: "computer-model",
+   propertySlug: "computer-model",
+   definition: "what the maker calls it",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/machines/provisioning/provisioned-files/properties/install-path.text-property.ts b/machines/provisioning/provisioned-files/properties/install-path.text-property.ts
+index 4d5f2dccbef028e6dad9cb37cb61c1b050fbe393..bcd408f9a77fb1cef6b75d08032b0689f82c69f3 100644
+--- a/machines/provisioning/provisioned-files/properties/install-path.text-property.ts
++++ b/machines/provisioning/provisioned-files/properties/install-path.text-property.ts
+@@ -8,6 +8,6 @@ export const installPath = {
+   slug: "install-path",
+   propertySlug: "install-path",
+   definition: "where outside akasha the body is put so the thing reading it finds it",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/machines/provisioning/provisioned-files/properties/reload-with.text-property.ts b/machines/provisioning/provisioned-files/properties/reload-with.text-property.ts
+index 66b6f910cf2df90fcff1323c8f355a5af78c3784..660318a9b26d75acf4527703243e4d2fc7640079 100644
+--- a/machines/provisioning/provisioned-files/properties/reload-with.text-property.ts
++++ b/machines/provisioning/provisioned-files/properties/reload-with.text-property.ts
+@@ -8,6 +8,6 @@ export const reloadWith = {
+   slug: "reload-with",
+   propertySlug: "reload-with",
+   definition: "what is run after the body is placed so the placing takes effect",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/mobile-cli/mobile-cuts/properties/build-input-tree-hash.text-property.ts b/mobile-cli/mobile-cuts/properties/build-input-tree-hash.text-property.ts
+index 9ce04d2fd9de2e6e1ec8916033cb185b1d905a27..c798ff5ab9949c56f00b8fca012ef4e996b8ff35 100644
+--- a/mobile-cli/mobile-cuts/properties/build-input-tree-hash.text-property.ts
++++ b/mobile-cli/mobile-cuts/properties/build-input-tree-hash.text-property.ts
+@@ -8,7 +8,7 @@ export const buildInputTreeHash = {
+   slug: "build-input-tree-hash",
+   propertySlug: "build-input-tree-hash",
+   definition: "the hash of everything a build reads, which a cut is judged owed against",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: null,
+   invariants: [
+     {
