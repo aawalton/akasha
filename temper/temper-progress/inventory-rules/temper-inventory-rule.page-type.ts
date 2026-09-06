@@ -41,7 +41,8 @@ export const temperInventoryRule = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rule here is one a player has adopted rather than one offered to a player.",
+      statement:
+        "A rule here is a rule a player has adopted rather than a rule offered to a player.",
     },
     {
       invariantKind: "departure",
@@ -49,15 +50,17 @@ export const temperInventoryRule = {
     },
     {
       invariantKind: "departure",
-      statement: "A chain is read ahead of a destination where a rule states each.",
+      statement:
+        "A chain is read ahead of a destination where a rule states a chain and a destination.",
     },
     {
       invariantKind: "gap",
-      statement: "A rule states a destination or a chain of them rather than both.",
+      statement:
+        "A rule states a destination or a chain of destinations rather than a destination and a chain.",
     },
     {
       invariantKind: "gap",
-      statement: "A rule adopted from a template and since edited says the changes that rule made.",
+      statement: "A rule adopted from a template and later edited says the changes that rule made.",
     },
   ],
 } as const satisfies PageType
