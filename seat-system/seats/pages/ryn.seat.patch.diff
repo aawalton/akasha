@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.ts b/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.ts
-index ff8d5fac285eb52ad26daaa8c41e2b45478e861d..00f2ed808e4378743efdf21b4e980b0c861c0094 100644
+index ff8d5fac285eb52ad26daaa8c41e2b45478e861d..ee4b211f867bdb1ce4eebd3aba28f73b0fb170f6 100644
 --- a/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.ts
 +++ b/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.ts
 @@ -14,11 +14,13 @@ export const supervisorInteractiveBoot = {
@@ -15,6 +15,20 @@ index ff8d5fac285eb52ad26daaa8c41e2b45478e861d..00f2ed808e4378743efdf21b4e980b0c
 -      statement: "An agent id is created only where neither the handoff nor the options carry one.",
 +      statement:
 +        "An agent id is created only where neither the handoff nor the options carry an agent id.",
+     },
+     {
+       invariantKind: "departure",
+@@ -35,8 +37,11 @@ export const supervisorInteractiveBoot = {
+     },
+     {
+       invariantKind: "absence",
+-      statement:
+-        "Nothing here spawns a Claude child; this module readies the setup a child will need.",
++      statement: "Nothing here spawns a Claude child.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "This module readies the setup a child will need.",
      },
      {
        invariantKind: "departure",
