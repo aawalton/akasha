@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+
+export const whetherGriefAndGratitudeAreOnePowerSource = {
+  id: "01a077e3-c60a-706b-bcc7-a9d732074fd9",
+  pageTypeSlug: "all-about-alan-question",
+  slug: "whether-grief-and-gratitude-are-one-power-source",
+  topicSlug: "the-crowd-that-has-been-me",
+  ask: "Are grief and gratitude one power source or two? The answer bears on what my will to live is actually running on.",
+} as const satisfies AllAboutAlanQuestion
