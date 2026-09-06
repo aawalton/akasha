@@ -1,5 +1,5 @@
 import { listedAt } from "@akasha/indexes"
-import { renamePage } from "../../../../changes/refactor-changes/pages/rename-page-slug/rename-page.refactor-change.code.ts"
+import { renamePage } from "../../../../changes/refactor-changes/pages/rename-page/rename-page.refactor-change.code.ts"
 import { counted } from "../../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../calling/calling.module.code.ts"
 import { answering } from "../../../calling/calling.module.code.ts"
