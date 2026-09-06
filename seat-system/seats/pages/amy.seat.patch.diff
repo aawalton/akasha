@@ -121,3 +121,29 @@ index d2dd1a99ef196d4724c8f397cec5a751a24e31cf..0023bfa356d922067bb31b348d790b41
      {
        pagePropertySlug: "boolean-property/spanned-from-day-boundary",
        required: false,
+diff --git a/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts b/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts
+index e9632f0fd1ccc025bbf9c8cb76fbcc8c366da33b..c50a04f41ea8b79df2e04a40940b47f1c3e1179c 100644
+--- a/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts
++++ b/alan/tracking/daily/write-daily-points/write-daily-points.module.code.ts
+@@ -14,7 +14,7 @@ const DAY_KEY_OF: Readonly<Record<string, string>> = {
+   taskPoints: "task-points",
+   breathingPoints: "breathing-points",
+   wisdomWords: "wisdom-words",
+-  intelligenceWords: "intelligence-words",
++  intelligenceTopics: "intelligence-topics",
+ }
+ 
+ export async function writeDailyReading(
+@@ -85,9 +85,9 @@ export function writeWisdomWords(dayStr: string, wisdomWords: number): Promise<W
+   return writeDailyReading(dayStr, "wisdomWords", wisdomWords)
+ }
+ 
+-export function writeIntelligenceWords(
++export function writeIntelligenceTopics(
+   dayStr: string,
+-  intelligenceWords: number
++  intelligenceTopics: number
+ ): Promise<WriteOutcome> {
+-  return writeDailyReading(dayStr, "intelligenceWords", intelligenceWords)
++  return writeDailyReading(dayStr, "intelligenceTopics", intelligenceTopics)
+ }
