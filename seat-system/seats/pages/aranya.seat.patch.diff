@@ -384,6 +384,20 @@ index 0000000000000000000000000000000000000000..ddffa49947ae0c17d28a8ebd7bc4c185
 +  slug: "collections-secrets-zero-admin-password",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "ZERO_ADMIN_PASSWORD" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/git-transport-secrets-git-access-token.secret.ts b/service-system/secrets/pages/git-transport-secrets-git-access-token.secret.ts
+index 3776944a3d0eea3c759f4163a176d00af82df808..2c9acd2176169275f53ff0adaa0185567366f29b 100644
+--- a/service-system/secrets/pages/git-transport-secrets-git-access-token.secret.ts
++++ b/service-system/secrets/pages/git-transport-secrets-git-access-token.secret.ts
+@@ -4,5 +4,8 @@ export const gitTransportSecretsGitAccessToken = {
+   id: "01a06832-cf2d-7c2b-a782-eb5f6fc1dc27",
+   pageTypeSlug: "secret",
+   slug: "git-transport-secrets-git-access-token",
+-  placements: [{ resourceName: "git-transport-secrets", resourceKey: "GIT_ACCESS_TOKEN" }],
++  placements: [
++    { resourceName: "git-transport-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
++    { resourceName: "pipeline-engine-secrets", resourceKey: "GIT_ACCESS_TOKEN" },
++  ],
+ } as const satisfies Secret
 diff --git a/service-system/secrets/pages/pipeline-engine-secrets-age-secret-key.secret.ts b/service-system/secrets/pages/pipeline-engine-secrets-age-secret-key.secret.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..41158570f782d58d5824010e103ccee8159ed76e
