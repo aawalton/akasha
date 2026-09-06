@@ -1,0 +1,49 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-jen-does-with-my-surplus-alert.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-jen-does-with-my-surplus-alert.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f0f0e448341e99d0608dc6bbfda68971d39630a9
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-jen-does-with-my-surplus-alert.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatJenDoesWithMySurplusAlert = {
++  id: "01a0781f-0a47-7ce3-b0ec-f0099ad8d71d",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-jen-does-with-my-surplus-alert",
++  topicSlug: "the-budget-i-run-my-days-on",
++  ask: "Jen gets the alert as my surplus color drops. What does she do with the alert, and has her knowing changed what either of us picks that evening?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-surplus-alert-wants-an-action.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-surplus-alert-wants-an-action.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0302380a97387affea50c3e1881001e779c6b2d1
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-surplus-alert-wants-an-action.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMySurplusAlertWantsAnAction = {
++  id: "01a0781f-0a48-77f2-a719-5f185398c989",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-surplus-alert-wants-an-action",
++  topicSlug: "the-budget-i-run-my-days-on",
++  ask: "I do nothing when my surplus alert fires, beyond knowing where I am. Is the knowing worth the alert on its own, or does the alert want an act attached to it?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts
+index e84a939378c8bab1a95ff42a0333c5fa3d6065dc..a9e82bf8bb7e539a5f8722e3f2824296963e5ecc 100644
+--- a/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts
+@@ -1,7 +1,6 @@
+ import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
+ 
+ export const theBudgetIRunMyDaysOn = {
+-  id: "01a07817-4699-7f64-86a5-f61640ff2f0b",
+   pageTypeSlug: "all-about-alan-topic",
+   slug: "the-budget-i-run-my-days-on",
+   title: "The Budget I Run My Days On",
+@@ -9,5 +8,5 @@ export const theBudgetIRunMyDaysOn = {
+   parentSlugs: ["the-harness-around-my-safety"],
+   relatedSlugs: ["sleep"],
+   settled:
+-    "Surplus is my stoplight, sleep hours less capacity hours spent. Above zero my baseline safety rises over time, and below zero my baseline safety falls.\n\nSocial lands on the spending side of that subtraction, so my lever is not spending.\n\nThe cadence of social was chosen against the relationship bar. Without the social the relationship bar was trending down, which was doing damage of its own.\n\nSo I try to spend under seven capacity hours of stress a day. That keeps a surplus despite the shorter sleep, without losing ground on the relationship.",
++    "Surplus is my stoplight, sleep hours less capacity hours spent. Above zero my baseline safety rises over time, and below zero my baseline safety falls.\n\nSocial lands on the spending side of that subtraction, so my lever is not spending.\n\nThe cadence of social was chosen against the relationship bar. Without the social the relationship bar was trending down, which was doing damage of its own.\n\nSo I try to spend under seven capacity hours of stress a day. That keeps a surplus despite the shorter sleep, without losing ground on the relationship.\n\nA notification fires as my surplus color drops, and Jen gets the same alert.\n\nI do nothing when the alert lands. What the alert buys me for now is knowing where I am.",
+ } as const satisfies AllAboutAlanTopic
