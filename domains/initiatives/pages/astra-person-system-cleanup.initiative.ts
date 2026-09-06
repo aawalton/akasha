@@ -10,12 +10,12 @@ export const astraPersonSystemCleanup = {
     {
       statement: "All person-system-specific files are organized in the person-system/ folder.",
       workingMemory:
-        "`person` declares `domain/email` a part of itself, and email is split in two: the page types sit under `person-system/people/email/` while every email rule page sits under `alan/harness/inboxes/email-rules/`. Whether email is a part of `person` at all is unsettled, and that answer decides which folder the files go to.",
+        "Met on arrival, so this intent wants replacing. Every page of every page type person-system declares sits under `person-system/`, but for the email rule pages under `alan/harness/inboxes/email-rules/`, and those belong where they are: `email-rule` holds that one person's rules are a set of their own, and that a rule's kind is the folder the rule is in.",
     },
     {
       statement: "The person-system/ folder passes the `folder-matches-a-shape` check.",
       workingMemory:
-        "7 refusals over 156 files, every one under `person-system/people`: `email` is no part `person` declares; `email`, `email-action` and `email-rule-match` each hold more pages than one; `email-rules` holds three subfolders `email-rule` declares no part of; `email-rule-agents` and `email-rule-codes` open with `email-rule`, the name of the page above them. The check runs on no phase, so nothing keeps a folder passing once it passes.",
+        "Met: 156 files judged, none refused. It took each part of the email domain into a folder of its own, every folder name with the name of the page above it taken off, and `email-rule` declaring its two kinds where `email` had declared them. Twelve invariants over nine pages were restated to say one fact each. `alan/harness/inboxes/email-rules` refuses yet, wanting the disabled `pages-of-one-type` shape.",
     },
   ],
 } as const satisfies Initiative
