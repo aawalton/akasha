@@ -35,3 +35,112 @@ index 107c961306ba1cefe320d969ead9cc9ac713d287..76ca81a18f4783532e845715b470756e
      {
        invariantKind: "departure",
        statement: "A query may answer with a computed property's key.",
+diff --git a/pages/computing/page-computing.module.code.ts b/pages/computing/page-computing.module.code.ts
+index 5a0e745436b59709550c38deaf5a362c1ff29c6f..9a3b31189a603fe864ed424ae614678bbc0dc440 100644
+--- a/pages/computing/page-computing.module.code.ts
++++ b/pages/computing/page-computing.module.code.ts
+@@ -1,10 +1,12 @@
+-export type Held = Record<string, unknown>
++// THE REACH AND THE CALCULATION ARE DECLARED BY THE PROPERTY RATHER THAN HERE. A calculation is
++// typed against the property's declaration and the engine against its own, so two declarations of
++// one shape drift apart with nothing to catch the drift: adding a key to one leaves every
++// calculation typed against the other.
++import type { Reach, Work } from "../computed-properties/computed-property.page-type.ts"
+ 
+-export type Reach = {
+-  readonly target: <Found>(slug: string) => Found | null
+-}
++export type { Reach, Work }
+ 
+-export type Work<Page, Found> = (page: Page, reach: Reach) => Found | null
++export type Held = Record<string, unknown>
+ 
+ export type Computed = {
+   readonly slug: string
+@@ -19,8 +21,17 @@ export type Subject = {
+   readonly computed: readonly Computed[]
+ }
+ 
++export type Named = {
++  readonly slug: string
++  readonly subject: Subject
++}
++
++// A SOURCE ANSWERING NO NAMINGS REACHES NO PAGE THROUGH A RELATION. Which pages name a page is read
++// from an index, which a source built from a list of pages alone cannot consult, so a source says
++// here whether it can answer rather than every source being taken to.
+ export type Source = {
+   readonly subjectAt: (slug: string) => Subject | null
++  readonly namingAt?: (id: string, propertySlug: string) => readonly Named[]
+ }
+ 
+ export type Working = {
+@@ -72,6 +83,7 @@ export function computingOver(source: Source): Computing {
+   const views = new Map<string, Held>()
+   const settled = new Map<string, Working>()
+   const frames: string[] = []
++  const walking: Subject[] = []
+ 
+   const heldBy = (subject: Subject, one: Computed, view: Held): unknown => {
+     const frame = `${subject.id}#${one.slug}`
+@@ -86,6 +98,7 @@ export function computingOver(source: Source): Computing {
+       throw new Error(`a chain of reads comes back to where that chain started: ${round}`)
+     }
+     frames.push(frame)
++    walking.push(subject)
+     try {
+       const answered = one.work(view, reach)
+       const judge = JUDGED[one.holds]
+@@ -110,12 +123,16 @@ export function computingOver(source: Source): Computing {
+       answers.set(frame, { fault })
+       throw thrown instanceof Error ? thrown : new Error(fault)
+     } finally {
++      walking.pop()
+       frames.pop()
+     }
+   }
+ 
+-  const viewOf = (slug: string, subject: Subject): Held => {
+-    const already = views.get(slug)
++  // KEYED BY THE PAGE'S OWN ID RATHER THAN BY THE NAME THE PAGE WAS REACHED UNDER. One page is
++  // reached by its path, by its slug and as a page naming another, and a view worked under one of
++  // those names is the same view under the rest.
++  const viewOf = (subject: Subject): Held => {
++    const already = views.get(subject.id)
+     if (already !== undefined) return already
+     const view: Held = presentIn(subject.value)
+     for (const one of subject.computed) {
+@@ -125,7 +142,7 @@ export function computingOver(source: Source): Computing {
+         get: () => heldBy(subject, one, view),
+       })
+     }
+-    views.set(slug, view)
++    views.set(subject.id, view)
+     return view
+   }
+ 
+@@ -133,7 +150,14 @@ export function computingOver(source: Source): Computing {
+     target: <Found>(slug: string): Found | null => {
+       const subject = source.subjectAt(slug)
+       if (subject === null) return null
+-      return viewOf(slug, subject) as Found
++      return viewOf(subject) as Found
++    },
++    naming: <Found>(propertySlug: string): readonly Found[] => {
++      const here = walking[walking.length - 1]
++      if (here === undefined) return []
++      const namingAt = source.namingAt
++      if (namingAt === undefined) return []
++      return namingAt(here.id, propertySlug).map((one) => viewOf(one.subject) as Found)
+     },
+   }
+ 
+@@ -142,7 +166,7 @@ export function computingOver(source: Source): Computing {
+     if (already !== undefined) return already
+     const subject = source.subjectAt(slug)
+     if (subject === null) return null
+-    const view = viewOf(slug, subject)
++    const view = viewOf(subject)
+     const value: Held = { ...subject.value }
+     const dark = new Map<string, string>()
+     for (const one of subject.computed) {
