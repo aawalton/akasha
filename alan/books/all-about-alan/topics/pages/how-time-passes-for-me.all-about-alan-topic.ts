@@ -9,5 +9,5 @@ export const howTimePassesForMe = {
   parentSlugs: ["alan"],
   relatedSlugs: ["how-i-remember-anything", "playing-the-long-game"],
   settled:
-    "I do not feel an hour go by. I know it because the clock moved.\n\nThe likely reason is that the feel of elapsed time runs on sensory memory, and I have none to string along a line.\n\nI have felt old for my age since childhood and never felt any particular age, then or now.\n\nA plan spanning decades weighs the same as one spanning weeks, because nothing makes the near thing more vivid than the far one.",
+    "I do not feel an hour go by. I know it because the clock moved.\n\nThe likely reason is that the feel of elapsed time runs on sensory memory, and I have none to string along a line.\n\nI have felt old for my age since childhood and never felt any particular age, then or now.\n\nA plan spanning decades weighs the same as one spanning weeks, because nothing makes the near thing more vivid than the far one.\n\nAsking me what I would want to see at some future mark buys nothing, because I have no perception of time to answer it with. What I work on is what I can and should do now.",
 } as const satisfies AllAboutAlanTopic
