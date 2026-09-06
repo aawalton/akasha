@@ -52,21 +52,3 @@ index 0000000000000000000000000000000000000000..dcc84d469d47b9aff1e36ca7ec000956
 +    },
 +  ],
 +} as const satisfies Module
-diff --git a/command-system/commands/track/track.command.ts b/command-system/commands/track/track.command.ts
-index f1516a703ee8b15ad96856cc02ad6cf86192e6f5..1d185304e7206a5b894de21330de668598bc3622 100644
---- a/command-system/commands/track/track.command.ts
-+++ b/command-system/commands/track/track.command.ts
-@@ -8,7 +8,12 @@ export const track = {
-   code: "ts",
-   test: "ts",
-   changeKindSlug: "change-mechanical",
--  partSlugs: ["module/session-leveling", "module/session-rows", "module/waking"],
-+  partSlugs: [
-+    "module/day-landing",
-+    "module/session-leveling",
-+    "module/session-rows",
-+    "module/waking",
-+  ],
-   taking: [
-     { said: "session", takes: "what to act on, which is one stretch of time a day was spent in" },
-     { said: "open", takes: "the act, which is to begin a stretch where none is open" },
