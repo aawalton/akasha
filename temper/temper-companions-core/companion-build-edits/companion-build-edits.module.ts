@@ -9,7 +9,7 @@ export const companionBuildEdits = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A change returns a new build rather than altering the one handed in.",
+      statement: "A change returns a new build rather than altering the build handed in.",
     },
     {
       invariantKind: "departure",
