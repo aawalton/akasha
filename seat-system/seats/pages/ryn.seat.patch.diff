@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/alan/fitness/commands/exercise-saying/exercise-saying.module.ts b/alan/fitness/commands/exercise-saying/exercise-saying.module.ts
-index 7f6677625826da3c882a20dd73261a5fb2cfba15..6508b070f134549fcefdb503c02c99b4aa31a240 100644
+index 7f6677625826da3c882a20dd73261a5fb2cfba15..97506225171a7bd26343048468912589ff3ac5ce 100644
 --- a/alan/fitness/commands/exercise-saying/exercise-saying.module.ts
 +++ b/alan/fitness/commands/exercise-saying/exercise-saying.module.ts
 @@ -25,7 +25,7 @@ export const exerciseSaying = {
@@ -12,3 +12,12 @@ index 7f6677625826da3c882a20dd73261a5fb2cfba15..6508b070f134549fcefdb503c02c99b4
      },
      {
        invariantKind: "departure",
+@@ -37,7 +37,7 @@ export const exerciseSaying = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here reads a page or writes one.",
++      statement: "Nothing here reads a page or writes a page.",
+     },
+   ],
+ } as const satisfies Module
