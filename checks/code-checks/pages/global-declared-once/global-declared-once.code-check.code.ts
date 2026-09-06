@@ -145,9 +145,21 @@ function declaringIn(shadow: Shadow): readonly string[] {
   return found
 }
 
+function declaringAmong(changed: readonly string[]): boolean {
+  return changed.some((one) => one.endsWith(DECLARED))
+}
+
+function carryingIn(change: Change): boolean {
+  if (declaringAmong(change.changed)) return true
+  for (const path of change.changed) {
+    const text = textIn(change, path)
+    if (text !== null && text.includes(SPELT)) return true
+  }
+  return false
+}
+
 export function readingIn(change: Change, shadow: Shadow): readonly string[] {
-  const widely = change.changed.some((one) => one.endsWith(DECLARED))
-  const reach = widely ? shadow.index.everyPath() : declaringIn(shadow)
+  const reach = declaringAmong(change.changed) ? shadow.index.everyPath() : declaringIn(shadow)
   const held = new Set<string>()
   for (const one of [...reach, ...change.changed]) {
     if (compiled(one) && change.after(one) !== null) held.add(one)
@@ -161,6 +173,7 @@ export function reasonFor(one: Stated, held: Stated): string {
 }
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
+  if (!carryingIn(change)) return []
   const shared = new Map<string, Stated>()
   const inside: Stated[] = []
   const clashes: Clash[] = []

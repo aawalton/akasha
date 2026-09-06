@@ -94,6 +94,11 @@ export const globalDeclaredOnce = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A change carrying no declaration file and no `declare global` is refused nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A file spelling no `declare global` and named no declaration is read no further.",
     },
     {
