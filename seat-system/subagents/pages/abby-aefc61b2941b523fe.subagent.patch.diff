@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-fourth-route-reaches-my-highest-self.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-fourth-route-reaches-my-highest-self.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..57233e5620e11f2a90ce1fa4d9f649be58aa6349
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-fourth-route-reaches-my-highest-self.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAFourthRouteReachesMyHighestSelf = {
++  id: "01a077ed-083c-70d3-8796-18f426091c1e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-fourth-route-reaches-my-highest-self",
++  topicSlug: "the-version-of-me-i-have-never-met",
++  ask: "Does any fourth route reach my highest self directly, rather than waiting for recovery to carry me there?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-closing-the-three-taxes-dethrones-the-game.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-closing-the-three-taxes-dethrones-the-game.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..00de81672060af6eca5000855e96e10801c7f27d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-closing-the-three-taxes-dethrones-the-game.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherClosingTheThreeTaxesDethronesTheGame = {
++  id: "01a077ed-083c-7fa2-93a3-5645ecf33b67",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-closing-the-three-taxes-dethrones-the-game",
++  topicSlug: "the-version-of-me-i-have-never-met",
++  ask: "Real life pays three taxes the game does not: the numbers' meaning drifts, I build every piece myself, and part needs technology that does not exist. Would closing the taxes dethrone the game?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-plays-carry-over-grows-as-i-recover.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-plays-carry-over-grows-as-i-recover.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..563de128ab395989f314a66c2a0619fc5050cd08
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-plays-carry-over-grows-as-i-recover.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherPlaysCarryOverGrowsAsIRecover = {
++  id: "01a077ed-083b-7811-a884-6ae254804f00",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-plays-carry-over-grows-as-i-recover",
++  topicSlug: "the-version-of-me-i-have-never-met",
++  ask: "Does the carry-over from play grow as my floor rises, so that the simulation slowly becomes a partial direct route?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-version-of-me-i-have-never-met.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-version-of-me-i-have-never-met.all-about-alan-topic.ts
+index 9ce774140c213d10c874eaefa3385b6e8a9db1d6..79f458ea556cf3395553e4102b0c1aa56d767e94 100644
+--- a/alan/books/all-about-alan/topics/pages/the-version-of-me-i-have-never-met.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-version-of-me-i-have-never-met.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const theVersionOfMeIHaveNeverMet = {
+   relatedSlugs: ["what-i-cannot-play-forward", "when-something-is-fun"],
+   settled:
+     "The fearless, warm version of me is real, and I have never once held it directly.\n\nThe young one I infer from traces left in my map. I cannot remember being him.\n\nThe future one is a guess at a level I have never stood on.\n\nPlay is the richest route and still a simulation. In the game I am at ten and I come out a fraction higher.\n\nA level of recovery runs to something like a thousand hours, so a four-hour session buys about four thousandths.",
+-  unsettled:
+-    "Whether the carry-over from play grows as my floor rises, so the simulation slowly becomes a partial direct route, is open.\n\nWhether any fourth route reaches that self directly, rather than waiting for recovery to carry me there, is unprobed.\n\nThe made-up world beats real life for progress because of three taxes: what the numbers stand for drifts, I have to build every piece myself, and some of it needs technology that does not exist. Whether closing them would take the crown off it is unworked.",
+ } as const satisfies AllAboutAlanTopic
