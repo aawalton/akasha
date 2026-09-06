@@ -1,0 +1,14 @@
+diff --git a/alan/harness/sleep/reading/sleep-reading.module.ts b/alan/harness/sleep/reading/sleep-reading.module.ts
+index 59a61e6cb7cf1e518d6e5086d4ae542128fa5b6c..beba4b3ff05a5a2c20107e4accf3957c10623e0e 100644
+--- a/alan/harness/sleep/reading/sleep-reading.module.ts
++++ b/alan/harness/sleep/reading/sleep-reading.module.ts
+@@ -49,7 +49,8 @@ export const sleepReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The root read is the one the environment states or the one the call was made in.",
++      statement:
++        "The root read is the root the environment states or the folder the call was made in.",
+     },
+     {
+       invariantKind: "stopgap",
