@@ -21,8 +21,11 @@ export const gitCommitting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A new path is given intent to add before the commit, so the commit names that path.",
+      statement: "A new path is given intent to add before the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The commit names that path.",
     },
     {
       invariantKind: "departure",
@@ -35,8 +38,11 @@ export const gitCommitting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A held index lock is waited out, and every other failure returns on the first attempt.",
+      statement: "A held index lock is waited out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other failure returns on the first attempt.",
     },
     {
       invariantKind: "departure",
@@ -44,8 +50,11 @@ export const gitCommitting = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "One deadline covers the whole call, so two locks in a row do not double the wait promised.",
+      statement: "One deadline covers the whole call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two locks in a row do not double the wait promised.",
     },
   ],
 } as const satisfies Module
