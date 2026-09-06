@@ -29,12 +29,12 @@ export const monarchNotesRevert = {
     },
     {
       invariantKind: "departure",
-      statement: "Notes and tags are both put back, because both were changed together.",
+      statement: "Notes and tags are both put back.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The live row is read on its own day before that row is judged, rather than judged from our copy.",
+        "The live row is read on its own day before that row is judged rather than from our copy.",
     },
     {
       invariantKind: "stopgap",
