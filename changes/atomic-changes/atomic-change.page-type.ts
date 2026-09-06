@@ -28,11 +28,11 @@ export const atomicChange = {
     },
     {
       invariantKind: "departure",
-      statement: "An atomic change lands every file the thing reaches, or none of them.",
+      statement: "An atomic change lands every file the thing reaches or no file at all.",
     },
     {
       invariantKind: "departure",
-      statement: "The bodies are answered rather than written, so the caller lands them as one.",
+      statement: "The bodies the caller lands as a unit are answered rather than written.",
     },
     {
       invariantKind: "departure",
