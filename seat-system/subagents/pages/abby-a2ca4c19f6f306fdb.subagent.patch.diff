@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-live-renegotiation-with-jen-holds.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-live-renegotiation-with-jen-holds.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..68952b6c903af3770717200f9951bb266941992e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-the-live-renegotiation-with-jen-holds.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTheLiveRenegotiationWithJenHolds = {
++  id: "01a077eb-e696-73f9-8c63-956bf20dba11",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-the-live-renegotiation-with-jen-holds",
++  topicSlug: "singing-out-loud",
++  ask: "The renegotiation with Jen is live and undocumented. What does that renegotiation hold?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-voice-funds-more-than-singing.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-voice-funds-more-than-singing.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ad71ff5dbe7bda2ba12b44fddf6d6c655b332c3e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-voice-funds-more-than-singing.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAVoiceFundsMoreThanSinging = {
++  id: "01a077eb-e696-7f00-aec3-c3bfde735abb",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-voice-funds-more-than-singing",
++  topicSlug: "singing-out-loud",
++  ask: "Does a voice I sing along to fund anything besides the singing, or only that one act?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-being-seen-is-a-surcharge-or-welded.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-being-seen-is-a-surcharge-or-welded.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a5a2a8efc5e3521ef0c7b3109468ba6d7d48e40f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-being-seen-is-a-surcharge-or-welded.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherBeingSeenIsASurchargeOrWelded = {
++  id: "01a077eb-e696-7d04-8ad5-013c53b66bb1",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-being-seen-is-a-surcharge-or-welded",
++  topicSlug: "singing-out-loud",
++  ask: "Is being seen an honest surcharge on singing, or partly a welded charge? Only what neither the feeling floor nor the surcharge explains would tell the two apart.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-feminine-cues-i-reach-for.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-feminine-cues-i-reach-for.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8d5a6408ee617aca2a9fe8d2e2341958ed66d527
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-feminine-cues-i-reach-for.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichFeminineCuesIReachFor = {
++  id: "01a077eb-e695-7dd1-acf3-6f68bc828310",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-feminine-cues-i-reach-for",
++  topicSlug: "singing-out-loud",
++  ask: "Which other feminine cues do I reach for on my own, visible ones against private ones, and now against earlier in my life?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/singing-out-loud.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/singing-out-loud.all-about-alan-topic.ts
+index 9405e833afac84146fd48305f48bd2cee929747e..93851878933a442bb8127b40a0ee61407d4c2a5e 100644
+--- a/alan/books/all-about-alan/topics/pages/singing-out-loud.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/singing-out-loud.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const singingOutLoud = {
+   relatedSlugs: ["where-i-stand-like-a-woman-does", "how-safety-climbs"],
+   settled:
+     "Singing along to a warm woman's voice hands my own body the all-clear, with nobody else in the room.\n\nThe floor under it is feeling, not being heard. Below safety four what makes me sing is offline.\n\nI can still sing as work down there. Work does not need the feeling and play does.\n\nBeing seen is a separate charge on top. Once, at six, I sang anonymously outdoors for hours.\n\nJen criticised my voice once, three years in, and only someone I can neither escape nor deny could.",
+-  unsettled:
+-    "The other feminine cues I reach for on my own have never been enumerated, visible against private, now against earlier in my life.\n\nWhether a voice I sing along to funds anything besides singing, or only that one act, is untested.\n\nWhether being seen is an honest surcharge or partly welded charge is unresolved. Only what neither the feeling floor nor the surcharge explains would tell them apart.\n\nThe renegotiation with Jen is live and undocumented.",
+ } as const satisfies AllAboutAlanTopic
