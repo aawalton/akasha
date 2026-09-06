@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
-index 23d6e0f53de7652a73c8ac8e473be5c596cb7d75..76631ea2e3a5bdbaa1a46031ca920ba702070f90 100644
+index 23d6e0f53de7652a73c8ac8e473be5c596cb7d75..fad4913d9a665d30c08ea0a7e2bcb0c012a3d638 100644
 --- a/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
 +++ b/changes/atomic-changes/pages/rename-path/rename-path.atomic-change.ts
 @@ -15,11 +15,13 @@ export const renamePath = {
@@ -19,12 +19,17 @@ index 23d6e0f53de7652a73c8ac8e473be5c596cb7d75..76631ea2e3a5bdbaa1a46031ca920ba7
      },
      {
        invariantKind: "departure",
-@@ -27,7 +29,7 @@ export const renamePath = {
+@@ -27,11 +29,11 @@ export const renamePath = {
      },
      {
        invariantKind: "departure",
 -      statement: "A body already at the path this would move to refuses the change.",
 +      statement: "A body already at the path the rename would move to refuses the change.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The path taken away is answered beside the bodies, since no body says it.",
++      statement: "The path taken away is answered beside the bodies since no body says that path.",
      },
      {
        invariantKind: "departure",
