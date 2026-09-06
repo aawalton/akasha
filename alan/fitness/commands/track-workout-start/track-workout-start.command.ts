@@ -51,6 +51,10 @@ export const trackWorkoutStart = {
       statement: "A session opened against a schedule day names that schedule day.",
     },
     {
+      invariantKind: "departure",
+      statement: "A session names the tracked day the session's date spells.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here plans or logs a set.",
     },

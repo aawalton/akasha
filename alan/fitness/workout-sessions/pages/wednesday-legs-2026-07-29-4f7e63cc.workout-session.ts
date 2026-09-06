@@ -7,6 +7,7 @@ export const wednesdayLegs202607294f7e63cc = {
   title: "Wednesday legs — 2026-07-29",
   workoutSessionCompletedAt: "2026-07-29T14:18:31.077Z",
   workoutSessionDate: "2026-07-29",
+  wakeDaySlug: "wake-day-2026-07-29",
   scheduleDaySlug: "push-pull-legs-3beb3d9a-wednesday",
   workoutSessionStartedAt: "2026-07-29T13:53:03.343Z",
 } as const satisfies WorkoutSession

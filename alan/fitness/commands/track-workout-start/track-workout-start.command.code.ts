@@ -31,6 +31,8 @@ const REST = "rest"
 
 const WORKOUT_SESSION = "workout-session"
 
+const DAY_STEM = "wake-day-"
+
 const SHAPE = { valued: [DATE, NOTES], switches: [FORCE, JSON_SAID] }
 
 type Closed = { readonly changes: readonly FileEdit[] } | { readonly refused: string }
@@ -111,6 +113,9 @@ export async function trackWorkoutStart(argv: readonly string[], given: Given): 
   const values: Value = {
     title,
     workoutSessionDate: dayStr,
+    // THE DAY IS NAMED HERE RATHER THAN MATCHED ON A DATE LATER. A day's strength volume is worked
+    // out from the sessions naming that day, and this is the one write that makes the edge.
+    wakeDaySlug: `${DAY_STEM}${dayStr}`,
     workoutSessionStartedAt: new Date().toISOString(),
     ...(scheduleDay?.slug != null ? { scheduleDaySlug: scheduleDay.slug } : {}),
     ...(notes !== undefined ? { notes } : {}),
