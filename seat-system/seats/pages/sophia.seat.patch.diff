@@ -155,6 +155,63 @@ index 172cc4038c6b16e39123c6b0b0c8d713e34f2d87..07a7963d75d29c55fe2a9c8dbbceb309
  export function asReadIn(given: Given, changes: readonly FileEdit[]): readonly Reading[] {
    if (given.agentId === null) return []
    const held: Reading[] = []
+diff --git a/command-system/landing-reading/landing-reading.module.test.ts b/command-system/landing-reading/landing-reading.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b0a5596854c57a1efee2d3d43f0edbc182ac1ef6
+--- /dev/null
++++ b/command-system/landing-reading/landing-reading.module.test.ts
+@@ -0,0 +1,51 @@
++import { afterAll, expect, test } from "bun:test"
++import { readFileSync } from "node:fs"
++import { join } from "node:path"
++import { put } from "@akasha/testing-system/putting"
++import { AGENT, givenIn, repoWith, scratch } from "../asking/asking.module.test-fixtures.ts"
++import type { Kind } from "../calling/calling.module.code.ts"
++import { baseOf } from "../landing/landing.module.code.ts"
++import { blobIdOf, readingIn, sameBody } from "../reading/reading.module.code.ts"
++import { carryLanded } from "./landing-reading.module.code.ts"
++
++afterAll(scratch.sweep)
++
++const ONE_AT = "akasha/one.ts"
++
++const AGAIN = "written again\n"
++
++const CHECKED: Kind = {
++  slug: "change-checked",
++  runsChecks: true,
++  writerOwesReading: false,
++  readersOweReading: false,
++}
++
++const AUTHORED: Kind = {
++  slug: "change-authored",
++  runsChecks: true,
++  writerOwesReading: true,
++  readersOweReading: true,
++}
++
++function carriedOver(kind: Kind | null): boolean {
++  const root = repoWith()
++  const base = baseOf(root)
++  put(root, ONE_AT, AGAIN)
++  const body = readFileSync(join(root, ONE_AT))
++  const given = kind === null ? givenIn(root) : { ...givenIn(root), changeKind: kind }
++  carryLanded(given, base, [{ path: ONE_AT, body }], [])
++  return sameBody(readingIn(root, AGENT, ONE_AT), blobIdOf(body))
++}
++
++test("a landing whose readers owe no reading carries their readings onto the body it left", () => {
++  expect(carriedOver(CHECKED)).toBe(true)
++})
++
++test("a landing whose readers owe reading carries none, so every reader goes stale", () => {
++  expect(carriedOver(AUTHORED)).toBe(false)
++})
++
++test("a landing handed no change kind carries nothing", () => {
++  expect(carriedOver(null)).toBe(false)
++})
 diff --git a/command-system/landing-reading/landing-reading.module.ts b/command-system/landing-reading/landing-reading.module.ts
 index 4ede74225786718ebcd9379072a20b4b51293400..5e76cdfffea30bed5b4870f2d80d03c480b6479d 100644
 --- a/command-system/landing-reading/landing-reading.module.ts
