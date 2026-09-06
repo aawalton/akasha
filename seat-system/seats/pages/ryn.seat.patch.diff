@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/work-tree-view/work-tree-view.module.ts b/editor-extension/work-tree-view/work-tree-view.module.ts
+index 24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c..3f217d4409dc0f59e41ac73e36c445ffd6c78b56 100644
+--- a/editor-extension/work-tree-view/work-tree-view.module.ts
++++ b/editor-extension/work-tree-view/work-tree-view.module.ts
+@@ -9,7 +9,7 @@ export const workTreeView = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A filter that reads the same as the one held redraws nothing.",
++      statement: "A filter that reads the same as the filter held redraws nothing.",
+     },
+     {
+       invariantKind: "departure",
