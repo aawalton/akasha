@@ -21,7 +21,7 @@ export const seatAkashaBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent is answered the page of the seat above it.",
+      statement: "A subagent is answered the page of the seat above that subagent.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,8 @@ export const seatAkashaBeside = {
     },
     {
       invariantKind: "departure",
-      statement: "An empty text beside a seat is answered as no value rather than as an empty one.",
+      statement:
+        "An empty text beside a seat is answered as no value rather than as an empty value.",
     },
   ],
 } as const satisfies Module
