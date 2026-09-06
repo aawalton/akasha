@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts b/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
-index 05a2f6be64901df7ee080244a38538a697ad3c04..93d57f8511a4a0ea52b44c9684f604174e293832 100644
+index 05a2f6be64901df7ee080244a38538a697ad3c04..04d822e0f35b36fdeebdc8a1bd73397bd71d7be5 100644
 --- a/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
 +++ b/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
 @@ -9,7 +9,7 @@ export const monarchTransactionCreate = {
@@ -11,7 +11,7 @@ index 05a2f6be64901df7ee080244a38538a697ad3c04..93d57f8511a4a0ea52b44c9684f60417
      },
      {
        invariantKind: "departure",
-@@ -18,13 +18,12 @@ export const monarchTransactionCreate = {
+@@ -18,23 +18,24 @@ export const monarchTransactionCreate = {
      },
      {
        invariantKind: "departure",
@@ -27,12 +27,18 @@ index 05a2f6be64901df7ee080244a38538a697ad3c04..93d57f8511a4a0ea52b44c9684f60417
      },
      {
        invariantKind: "departure",
-@@ -33,8 +32,7 @@ export const monarchTransactionCreate = {
+-      statement:
+-        "A transfer moves a positive amount, and a negative one is refused rather than reversed.",
++      statement: "A transfer moves a positive amount.",
      },
      {
        invariantKind: "departure",
 -      statement:
 -        "A transfer from a category to itself is refused, because the transfer writes two rows that cancel.",
++      statement: "A negative amount is refused rather than reversed.",
++    },
++    {
++      invariantKind: "departure",
 +      statement: "A transfer from a category to itself is refused.",
      },
  
