@@ -1,5 +1,5 @@
 diff --git a/pages/types/page-properties/page-property.page-type.ts b/pages/types/page-properties/page-property.page-type.ts
-index a9e5097d618128918088c386cf89dd1f1cb971ef..4d6e9a1ebbbde50785bde2d55684f1f8b27416be 100644
+index a9e5097d618128918088c386cf89dd1f1cb971ef..66302224b95717126a926442b9d509e4b40a550b 100644
 --- a/pages/types/page-properties/page-property.page-type.ts
 +++ b/pages/types/page-properties/page-property.page-type.ts
 @@ -21,6 +21,8 @@ export const pageProperty = {
@@ -11,6 +11,15 @@ index a9e5097d618128918088c386cf89dd1f1cb971ef..4d6e9a1ebbbde50785bde2d55684f1f8
      "number-property/total",
      "relation-property/generator",
      "relation-property/unique",
+@@ -49,7 +51,7 @@ export const pageProperty = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "How many of a property a page carries is stated where that property is declared rather than here.",
++        "How many values a page carries is stated in the declaration rather than on the property.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/types/page-properties/properties/max-count.number-property.ts b/pages/types/page-properties/properties/max-count.number-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..a7447765e61ac2c29aa27d519f47cd53577e8734
