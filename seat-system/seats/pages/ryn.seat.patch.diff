@@ -1,9 +1,14 @@
 readersOweReading: false
 diff --git a/changes/atomic-changes/pages/rename-local-variable/rename-local-variable.atomic-change.ts b/changes/atomic-changes/pages/rename-local-variable/rename-local-variable.atomic-change.ts
-index 418c34bb3a9149e0604079f16817dfb542ef726d..f314f09944bab471e0cdbf1b07679eb9811b05f1 100644
+index 418c34bb3a9149e0604079f16817dfb542ef726d..a612e7049f328b900a135e0ab2719805ec4560be 100644
 --- a/changes/atomic-changes/pages/rename-local-variable/rename-local-variable.atomic-change.ts
 +++ b/changes/atomic-changes/pages/rename-local-variable/rename-local-variable.atomic-change.ts
-@@ -27,7 +27,7 @@ export const renameLocalVariable = {
+@@ -23,11 +23,11 @@ export const renameLocalVariable = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A `var`, a destructuring and an import are refused rather than renamed.",
++      statement: "A `var` or a destructuring or an import is refused rather than renamed.",
      },
      {
        invariantKind: "departure",
