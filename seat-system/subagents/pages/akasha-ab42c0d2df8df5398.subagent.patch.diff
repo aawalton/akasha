@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.test.ts b/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.test.ts
-index 5b86d41a6be0435477d78fe9a50c0803d504f374..e12a08e525564bbd4354c4eb0f364e68afdac335 100644
+index 5b86d41a6be0435477d78fe9a50c0803d504f374..ca04725ede7b420ab1c885667bcbfedafea586e0 100644
 --- a/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.test.ts
 +++ b/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.test.ts
 @@ -1,7 +1,7 @@
@@ -11,3 +11,13 @@ index 5b86d41a6be0435477d78fe9a50c0803d504f374..e12a08e525564bbd4354c4eb0f364e68
  import { shadowFor } from "@akasha/pages/shadow"
  import { change } from "../../../modules/check-scratch/check-scratch.module.code.ts"
  import type { Judged } from "../../../modules/judging/judging.module.code.ts"
+@@ -103,6 +103,9 @@ function rooted(body: string): string {
+   const held = [{ path: page, id: ID }]
+   idFiled(root, ID, held)
+   listedFiled(root, "name-format", "lower-kebab-case", held)
++  valueAlsoFiled(root, "name-format", [
++    { path: page, value: { id: ID, pageTypeSlug: "name-format", slug: "lower-kebab-case" } },
++  ])
+   pathFiled(root, page, held)
+   pathFiled(root, AT, held)
+   return root
