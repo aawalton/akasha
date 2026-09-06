@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/readout-system/readout-group-serving/readout-group-serving.module.ts b/readout-system/readout-group-serving/readout-group-serving.module.ts
-index fcb8591053e24558ffb12d45c1f69a55979f9aed..e4f4572891466c0685da8e5199a50b513837054b 100644
+index fcb8591053e24558ffb12d45c1f69a55979f9aed..76c56757daa722a2db86605b3941ab34f460d75f 100644
 --- a/readout-system/readout-group-serving/readout-group-serving.module.ts
 +++ b/readout-system/readout-group-serving/readout-group-serving.module.ts
 @@ -27,11 +27,11 @@ export const readoutGroupServing = {
@@ -14,6 +14,16 @@ index fcb8591053e24558ffb12d45c1f69a55979f9aed..e4f4572891466c0685da8e5199a50b51
        invariantKind: "departure",
 -      statement: "The key carrying the wire key is the one the caller names.",
 +      statement: "The key carrying the wire key is the key the caller names.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,7 +39,8 @@ export const readoutGroupServing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The scale read is the one the readout's page names rather than one named here.",
++      statement:
++        "The scale read is the scale the readout's page names rather than a scale named here.",
      },
      {
        invariantKind: "departure",
