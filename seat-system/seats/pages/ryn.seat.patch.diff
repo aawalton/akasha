@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts b/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
-index e62ca33b4db76a7bbc5e9084cb55bb200432df11..f326536f86d41f4c2d21f11a27f19ffcb26d0c27 100644
+index e62ca33b4db76a7bbc5e9084cb55bb200432df11..ae46e5e62724752d6dc656de73dcda63075d319c 100644
 --- a/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
 +++ b/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
 @@ -10,23 +10,23 @@ export const seatTranscriptRotation = {
@@ -40,3 +40,16 @@ index e62ca33b4db76a7bbc5e9084cb55bb200432df11..f326536f86d41f4c2d21f11a27f19ffc
      },
      {
        invariantKind: "departure",
+@@ -64,7 +64,11 @@ export const seatTranscriptRotation = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here writes, and no rotated session is kept.",
++      statement: "Nothing here writes.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No rotated session is kept.",
+     },
+   ],
+ } as const satisfies Module
