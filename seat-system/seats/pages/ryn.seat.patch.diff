@@ -1,5 +1,5 @@
 diff --git a/alan/harness/notifications/push-notifying/push-notifying.module.ts b/alan/harness/notifications/push-notifying/push-notifying.module.ts
-index 378040e52c92e15aeafd21f497af2313bccfa3ba..eafc2d2a5bd4cf9947a9b1152eed21ec8f383d62 100644
+index 378040e52c92e15aeafd21f497af2313bccfa3ba..5377305fa33c301ee7a2af1d4b18e1b6f966055b 100644
 --- a/alan/harness/notifications/push-notifying/push-notifying.module.ts
 +++ b/alan/harness/notifications/push-notifying/push-notifying.module.ts
 @@ -9,21 +9,19 @@ export const pushNotifying = {
@@ -41,3 +41,17 @@ index 378040e52c92e15aeafd21f497af2313bccfa3ba..eafc2d2a5bd4cf9947a9b1152eed21ec
      },
      {
        invariantKind: "departure",
+@@ -45,8 +47,11 @@ export const pushNotifying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The loop runs until that loop is asked to stop, and a stop ends that loop at the next boundary.",
++      statement: "The loop runs until that loop is asked to stop.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A stop ends that loop at the next boundary.",
+     },
+     {
+       invariantKind: "gap",
