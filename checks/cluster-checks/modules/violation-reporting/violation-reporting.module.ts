@@ -44,7 +44,7 @@ export const violationReporting = {
     {
       invariantKind: "departure",
       statement:
-        "A violation is said as file, line and message where the violation carries file, line and message.",
+        "A violation is said as file and line and message where the violation carries those fields.",
     },
     {
       invariantKind: "departure",
@@ -53,7 +53,7 @@ export const violationReporting = {
     },
     {
       invariantKind: "departure",
-      statement: "The footer names the remediation where the caller gave one.",
+      statement: "The footer names the remediation where the caller gave a remediation.",
     },
     {
       invariantKind: "departure",
