@@ -1,5 +1,5 @@
 diff --git a/readout-system/rings/completion-ring.domain.ts b/readout-system/rings/completion-ring.domain.ts
-index be36c839bf673c9bed4fe18aac3428369402c38a..e61af4a01ea6e6d5a2ee707e649854feace0f41b 100644
+index be36c839bf673c9bed4fe18aac3428369402c38a..621160519dea91ad46d137a6e69e5f208132a339 100644
 --- a/readout-system/rings/completion-ring.domain.ts
 +++ b/readout-system/rings/completion-ring.domain.ts
 @@ -13,7 +13,11 @@ export const completionRing = {
@@ -15,7 +15,21 @@ index be36c839bf673c9bed4fe18aac3428369402c38a..e61af4a01ea6e6d5a2ee707e649854fe
      },
      {
        invariantKind: "departure",
-@@ -39,7 +43,7 @@ export const completionRing = {
+@@ -26,8 +30,11 @@ export const completionRing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Colored by fraction, full draws blue, three quarters green, a half yellow, a quarter red.",
++      statement: "A ring colored by fraction draws blue at full and green at three quarters.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A ring colored by fraction draws yellow at a half and red at a quarter.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,7 +46,7 @@ export const completionRing = {
      },
      {
        invariantKind: "departure",
