@@ -182,7 +182,7 @@ index 093a6c551f4a014435b9690f6ab8d1f48670b0f9..fbdc165197796303f18605698ce3db3d
    under: string,
    entries: readonly Entry[],
 diff --git a/pages/indexes/rebuilding/rebuilding.module.test.ts b/pages/indexes/rebuilding/rebuilding.module.test.ts
-index 0c8a910f6630bd6c4b486f41479fd43dba803405..24b6dc465ae1fc5f2e1318f1694e6a80c89f0d66 100644
+index 0c8a910f6630bd6c4b486f41479fd43dba803405..164973de874387c1292c450dc45604dc720c7575 100644
 --- a/pages/indexes/rebuilding/rebuilding.module.test.ts
 +++ b/pages/indexes/rebuilding/rebuilding.module.test.ts
 @@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
@@ -194,6 +194,56 @@ index 0c8a910f6630bd6c4b486f41479fd43dba803405..24b6dc465ae1fc5f2e1318f1694e6a80
  
  const scratch = scratchWorld()
  
+@@ -95,3 +95,49 @@ test("a folder left holding nothing goes with the entry file taken away", () =>
+ 
+   expect(existsSync(join(root, UNDER))).toBe(false)
+ })
++
++const STAMP = "stamp.jsonl"
++
++function indexAt(): string {
++  const under = join(scratch.rootFor("akasha-swept-"), "data", "index")
++  mkdirSync(under, { recursive: true })
++  return under
++}
++
++test("a file at the index's own top is taken away and the index's folders are left", () => {
++  const under = indexAt()
++  writeFileSync(join(under, STAMP), "{}\n")
++  filed(under, AT, "{}\n")
++
++  const taken = sweptBeside(under)
++
++  expect(taken).toEqual([join(under, STAMP)])
++  expect(existsSync(join(under, STAMP))).toBe(false)
++  expect(bodyAt(under, AT)).toBe("{}\n")
++})
++
++test("a folder beside the index opening `index.` goes and one under another name does not", () => {
++  const under = indexAt()
++  const beside = dirname(under)
++  filed(beside, "index.refreshing.1/held/one.jsonl", "{}\n")
++  filed(beside, "indexes/one.jsonl", "{}\n")
++
++  const taken = sweptBeside(under)
++
++  expect(taken).toEqual([join(beside, "index.refreshing.1")])
++  expect(existsSync(join(beside, "index.refreshing.1"))).toBe(false)
++  expect(existsSync(join(beside, "indexes"))).toBe(true)
++})
++
++test("a root under any other name sweeps nothing, so a test's scratch is safe", () => {
++  const root = scratch.rootFor("akasha-swept-")
++  const under = join(root, "scratch")
++  filed(under, "one.jsonl", "{}\n")
++  filed(root, "index.other/one.jsonl", "{}\n")
++
++  const taken = sweptBeside(under)
++
++  expect(taken).toEqual([])
++  expect(bodyAt(under, "one.jsonl")).toBe("{}\n")
++  expect(existsSync(join(root, "index.other"))).toBe(true)
++})
 diff --git a/pages/indexes/rebuilding/rebuilding.module.ts b/pages/indexes/rebuilding/rebuilding.module.ts
 index 6d5ec5151779dc82c22fa2bdffd4e5c302798fc2..d69134d12cc476012985b949cf3071cce042f99f 100644
 --- a/pages/indexes/rebuilding/rebuilding.module.ts
