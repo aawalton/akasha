@@ -1,0 +1,17 @@
+diff --git a/seat-system/seats/seat.page-type.ts b/seat-system/seats/seat.page-type.ts
+index b55fbafa6c16108d7e1f7ab50656fb719358c98a..87dcc78fee6ed7dba1b2dac501f7a0415adc1910 100644
+--- a/seat-system/seats/seat.page-type.ts
++++ b/seat-system/seats/seat.page-type.ts
+@@ -172,7 +172,11 @@ export const seat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat states the mode it was started in and carries the mode it is running in.",
++      statement: "A seat states the mode the seat was started in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat carries the mode the seat is running in.",
+     },
+   ],
+ } as const satisfies PageType
