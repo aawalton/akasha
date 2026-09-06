@@ -1,4 +1,10 @@
 import type { BadgeToggleGroupItem } from "@akasha/design-badges/badge-toggle-group"
+import { useUserId } from "@akasha/pages-ui/use-user-id"
+import type {
+  AccountCompletion,
+  CharacterCompletion,
+  CompanionCompletion,
+} from "@akasha/temper-completion/completion-progress"
 import type {
   AccountSummaryData,
   CharacterSummaryData,
@@ -12,13 +18,21 @@ import {
   useCompletionCompanions,
   useCompletionCompanionsByUser,
 } from "@akasha/temper-player-completion-ui/use-completion"
+import { useMemo } from "react"
 import type { AccountProgressData } from "../account-progress/account-progress.module.code.ts"
 import { useAccountProgress } from "../account-progress/account-progress.module.code.ts"
 import type { CharacterProgressData } from "../character-progress/character-progress.module.code.ts"
 import { useCharacterProgress } from "../character-progress/character-progress.module.code.ts"
 import type { CompanionProgressData } from "../companion-progress/companion-progress.module.code.ts"
 import { useCompanionProgress } from "../companion-progress/companion-progress.module.code.ts"
+import { useCompletionBodies } from "../use-completion-bodies/use-completion-bodies.module.code.ts"
 import { useCompletionCatalogs } from "../use-completion-catalogs/use-completion-catalogs.module.code.ts"
+
+const CHARACTER_TYPE = "temper-account-character"
+const COMPANION_TYPE = "temper-companion-progress"
+const ACCOUNT_TYPE = "temper-account"
+const OWNER_KEY = "accountPage"
+const ACCOUNT_OWNER_KEY = "title"
 
 interface CompletionProgressData {
   accountProgress: AccountProgressData
@@ -43,11 +57,42 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
   const viewAccount = useAccountCompletionByUser(viewUserId ?? "")
   const { catalogs, isLoading: catalogsLoading } = useCompletionCatalogs()
 
-  const { characters: rows } = viewUserId != null ? viewCharacters : ownCharacters
-  const { companions: companionRows } = viewUserId != null ? viewCompanions : ownCompanions
-  const { account: accountCompletion } = viewUserId != null ? viewAccount : ownAccount
+  const ownUserId = useUserId()
+  const readerId = viewUserId ?? ownUserId
+  const characterBodies = useCompletionBodies(CHARACTER_TYPE, OWNER_KEY, readerId)
+  const companionBodies = useCompletionBodies(COMPANION_TYPE, OWNER_KEY, readerId)
+  const accountBodies = useCompletionBodies(ACCOUNT_TYPE, ACCOUNT_OWNER_KEY, readerId)
+
+  const { characters: bareRows } = viewUserId != null ? viewCharacters : ownCharacters
+  const { companions: bareCompanionRows } = viewUserId != null ? viewCompanions : ownCompanions
+
+  const rows = useMemo(
+    () =>
+      bareRows.map((row) => ({
+        ...row,
+        completion: (characterBodies.bodies.get(row.id) as CharacterCompletion | undefined) ?? null,
+      })),
+    [bareRows, characterBodies.bodies]
+  )
+  const companionRows = useMemo(
+    () =>
+      bareCompanionRows.map((row) => ({
+        ...row,
+        completion: (companionBodies.bodies.get(row.id) as CompanionCompletion | undefined) ?? null,
+      })),
+    [bareCompanionRows, companionBodies.bodies]
+  )
+  // An account is one page, so the one body this answers with is that account's.
+  const accountCompletion = useMemo(() => {
+    for (const body of accountBodies.bodies.values()) return body as AccountCompletion
+    return null
+  }, [accountBodies.bodies])
+
   const isLoading =
     catalogsLoading ||
+    characterBodies.isLoading ||
+    companionBodies.isLoading ||
+    accountBodies.isLoading ||
     (viewUserId != null ? viewCharacters : ownCharacters).isLoading ||
     (viewUserId != null ? viewCompanions : ownCompanions).isLoading ||
     (viewUserId != null ? viewAccount : ownAccount).isLoading

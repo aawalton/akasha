@@ -269,6 +269,7 @@ export const temperWeb = {
     "module/use-companion-stats-calculation",
     "module/use-companion-suggestions",
     "module/use-companion-update",
+    "module/use-completion-bodies",
     "module/use-completion-catalogs",
     "module/use-completion-filters",
     "module/use-completion-progress",
