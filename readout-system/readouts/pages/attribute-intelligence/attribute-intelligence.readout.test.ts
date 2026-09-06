@@ -1,16 +1,21 @@
 import { expect, test } from "bun:test"
-import { intelligenceIn, WORDS_TO_THE_POINT } from "./attribute-intelligence.readout.code.ts"
+import { intelligenceIn, TOPICS_TO_THE_POINT } from "./attribute-intelligence.readout.code.ts"
 
-const held = (figure: unknown) => ({ "intelligence-words": figure })
+const held = (figure: unknown) => ({ "intelligence-topics": figure })
 
 test("the reading is the figure over the amount one point costs", () => {
-  expect(WORDS_TO_THE_POINT).toBe(10000)
-  expect(intelligenceIn(held(10000))).toBeCloseTo(1, 10)
-  expect(intelligenceIn(held(10000 * 2))).toBeCloseTo(2, 10)
+  expect(TOPICS_TO_THE_POINT).toBe(4)
+  expect(intelligenceIn(held(4))).toBeCloseTo(1, 10)
+  expect(intelligenceIn(held(8))).toBeCloseTo(2, 10)
+})
+
+test("the rungs Alan set fall where his topic counts fall", () => {
+  expect(intelligenceIn(held(1))).toBeCloseTo(0.25, 10)
+  expect(intelligenceIn(held(2))).toBeCloseTo(0.5, 10)
 })
 
 test("a figure given as text is read as the number that text spells", () => {
-  expect(intelligenceIn(held(String(10000)))).toBeCloseTo(1, 10)
+  expect(intelligenceIn(held(String(4)))).toBeCloseTo(1, 10)
 })
 
 test("a reading of zero is a reading rather than an absent one", () => {

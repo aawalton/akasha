@@ -14,7 +14,7 @@ const DAY_KEY_OF: Readonly<Record<string, string>> = {
   taskPoints: "task-points",
   breathingPoints: "breathing-points",
   wisdomWords: "wisdom-words",
-  intelligenceWords: "intelligence-words",
+  intelligenceTopics: "intelligence-topics",
 }
 
 export async function writeDailyReading(
@@ -85,9 +85,9 @@ export function writeWisdomWords(dayStr: string, wisdomWords: number): Promise<W
   return writeDailyReading(dayStr, "wisdomWords", wisdomWords)
 }
 
-export function writeIntelligenceWords(
+export function writeIntelligenceTopics(
   dayStr: string,
-  intelligenceWords: number
+  intelligenceTopics: number
 ): Promise<WriteOutcome> {
-  return writeDailyReading(dayStr, "intelligenceWords", intelligenceWords)
+  return writeDailyReading(dayStr, "intelligenceTopics", intelligenceTopics)
 }

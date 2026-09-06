@@ -18,7 +18,7 @@ import type { InboxTemperTasks } from "./properties/inbox-temper-tasks.number-pr
 import type { InboxTemperTasksClearedToday } from "./properties/inbox-temper-tasks-cleared-today.boolean-property.ts"
 import type { InboxTexts } from "./properties/inbox-texts.number-property.ts"
 import type { InboxTextsClearedToday } from "./properties/inbox-texts-cleared-today.boolean-property.ts"
-import type { IntelligenceWords } from "./properties/intelligence-words.number-property.ts"
+import type { IntelligenceTopics } from "./properties/intelligence-topics.number-property.ts"
 import type { LastViewedAt } from "./properties/last-viewed-at.instant-property.ts"
 import type { LearnPoints } from "./properties/learn-points.number-property.ts"
 import type { LovePoints } from "./properties/love-points.number-property.ts"
@@ -61,7 +61,7 @@ export type WakeDay = Page & {
   breathingPoints?: BreathingPoints
   activeCalories?: ActiveCalories
   wisdomWords?: WisdomWords
-  intelligenceWords?: IntelligenceWords
+  intelligenceTopics?: IntelligenceTopics
   spannedFromDayBoundary?: SpannedFromDayBoundary
   completionSnapshot?: CompletionSnapshot
   wordsReadPoints?: WordsReadPoints
@@ -124,7 +124,7 @@ export const wakeDay = {
     "number-property/inbox-tasks",
     "number-property/inbox-temper-tasks",
     "number-property/inbox-texts",
-    "number-property/intelligence-words",
+    "number-property/intelligence-topics",
     "number-property/learn-points",
     "number-property/love-points",
     "number-property/nutrition-points",
@@ -168,7 +168,7 @@ export const wakeDay = {
     { pagePropertySlug: "number-property/breathing-points", required: false, many: false },
     { pagePropertySlug: "number-property/active-calories", required: false, many: false },
     { pagePropertySlug: "number-property/wisdom-words", required: false, many: false },
-    { pagePropertySlug: "number-property/intelligence-words", required: false, many: false },
+    { pagePropertySlug: "number-property/intelligence-topics", required: false, many: false },
     {
       pagePropertySlug: "boolean-property/spanned-from-day-boundary",
       required: false,

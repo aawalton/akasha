@@ -7,17 +7,13 @@ export const wisdomWords = {
   pageTypeSlug: "number-property",
   slug: "wisdom-words",
   propertySlug: "wisdom-words",
-  definition: "the words Alan added to the pages about himself on a day, net of what he removed",
+  definition: "the words Alan added to the pages about himself on a day",
   max: null,
   invariants: [
     {
       invariantKind: "departure",
       statement:
         "A day whose commits left Alan's topic pages untouched reads zero rather than unread.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A commit that took more words away than that commit added counts as zero.",
     },
     {
       invariantKind: "departure",

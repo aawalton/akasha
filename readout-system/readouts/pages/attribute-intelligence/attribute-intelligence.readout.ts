@@ -4,7 +4,7 @@ export const attributeIntelligence = {
   id: "01a06838-94d9-7c36-b921-4351c8db6033",
   pageTypeSlug: "readout",
   slug: "attribute-intelligence",
-  definition: "the points Alan earned on a day for the words he added about what he is learning",
+  definition: "the points Alan earned on a day for the learn-everything topics he updated",
   code: "ts",
   test: "ts",
   label: "Intelligence",
@@ -17,11 +17,11 @@ export const attributeIntelligence = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the words about Alan's learning turned into points.",
+      statement: "The reading is the learn-everything topics Alan updated turned into points.",
     },
     {
       invariantKind: "departure",
-      statement: "Ten thousand words added is one point.",
+      statement: "Four topics updated is one point.",
     },
 
     {
@@ -30,7 +30,7 @@ export const attributeIntelligence = {
     },
     {
       invariantKind: "departure",
-      statement: "A day carrying no words is no reading rather than an intelligence of zero.",
+      statement: "A day carrying no count is no reading rather than an intelligence of zero.",
     },
 
     {
@@ -39,7 +39,7 @@ export const attributeIntelligence = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here counts the words a commit added.",
+      statement: "Nothing here counts the topics a commit updated.",
     },
     {
       invariantKind: "absence",

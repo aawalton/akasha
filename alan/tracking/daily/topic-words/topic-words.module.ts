@@ -4,13 +4,12 @@ export const topicWords = {
   id: "01a06972-bd40-7000-9a84-aea39ed039e2",
   pageTypeSlug: "module",
   slug: "topic-words",
-  definition:
-    "the wisdom and intelligence words Alan wrote on one day, counted from the commits that landed in it",
+  definition: "the wisdom words Alan wrote and the learn-everything topics he updated on one day",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A run of this file counts today's words onto today's day.",
+      statement: "A run of this file counts today's writing onto today's day.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +25,19 @@ export const topicWords = {
     },
     {
       invariantKind: "departure",
-      statement: "The wisdom words land before the intelligence words.",
+      statement: "A changed file counts as the topic that file sits under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A topic is counted once on a day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A topic a commit only moved is counted as no topic updated.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The wisdom words land before the intelligence topics.",
     },
     {
       invariantKind: "departure",

@@ -3,7 +3,7 @@ import { runGit } from "@akasha/git/git-answering"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import {
   type WriteOutcome,
-  writeIntelligenceWords,
+  writeIntelligenceTopics,
   writeWisdomWords,
 } from "../write-daily-points/write-daily-points.module.code.ts"
 
@@ -20,6 +20,11 @@ const FILE = "diff --git"
 
 export type DayWords = {
   words: number
+  shas: readonly string[]
+}
+
+export type DayTopics = {
+  topics: number
   shas: readonly string[]
 }
 
@@ -114,6 +119,59 @@ export async function countWordsForDay(
   return { words, shas }
 }
 
+// A TOPIC IS THE PAGE RATHER THAN THE FILES BESIDE IT. A topic keeps its frontier, its evidence
+// and its bites as markdown files of their own in the topic's folder, so counting changed files
+// would score one topic worked on as three, and one topic is what Alan sat down to.
+export function topicsIn(paths: readonly string[]): ReadonlySet<string> {
+  const found = new Set<string>()
+  for (const path of paths) {
+    const at = path.lastIndexOf("/")
+    if (at <= 0) continue
+    found.add(path.slice(0, at))
+  }
+  return found
+}
+
+// A FILE THAT ONLY MOVED WAS NOT WORKED ON. Git reads a move as the old path taken away and the
+// new path put down, so a folder renamed would score every topic under it as a topic updated.
+export async function topicsUpdatedInCommit(
+  root: string,
+  sha: string,
+  pathspec: string
+): Promise<ReadonlySet<string>> {
+  const asked = await runGit(
+    [
+      "show",
+      "--format=",
+      "--name-only",
+      "--no-color",
+      "--find-renames",
+      "--diff-filter=AM",
+      sha,
+      "--",
+      pathspec,
+    ],
+    root
+  )
+  if (!asked.ok) {
+    throw new Error(`the files ${sha} changed did not come back: ${asked.stderr}`)
+  }
+  return topicsIn(asked.stdout.split("\n"))
+}
+
+export async function countTopicsForDay(
+  root: string,
+  dayStr: string,
+  pathspec: string
+): Promise<DayTopics> {
+  const shas = await commitsOn(root, dayStr, pathspec)
+  const found = new Set<string>()
+  for (const sha of shas) {
+    for (const topic of await topicsUpdatedInCommit(root, sha, pathspec)) found.add(topic)
+  }
+  return { topics: found.size, shas }
+}
+
 export function refuseBeforeStart(dayStr: string, field: string): undefined {
   if (dayStr >= WORDS_COUNTED_FROM) return undefined
   throw new Error(
@@ -132,21 +190,21 @@ export async function rollupWisdomWordsForDay(
   return { wisdomWords: words, shas, outcome }
 }
 
-export async function rollupIntelligenceWordsForDay(
+export async function rollupIntelligenceTopicsForDay(
   dayStr: string
-): Promise<{ intelligenceWords: number; shas: readonly string[]; outcome: WriteOutcome }> {
-  refuseBeforeStart(dayStr, "intelligence words")
-  const { words, shas } = await countWordsForDay(repoRoot(), dayStr, INTELLIGENCE_PATHSPEC)
-  const outcome = await writeIntelligenceWords(dayStr, words)
-  return { intelligenceWords: words, shas, outcome }
+): Promise<{ intelligenceTopics: number; shas: readonly string[]; outcome: WriteOutcome }> {
+  refuseBeforeStart(dayStr, "intelligence topics")
+  const { topics, shas } = await countTopicsForDay(repoRoot(), dayStr, INTELLIGENCE_PATHSPEC)
+  const outcome = await writeIntelligenceTopics(dayStr, topics)
+  return { intelligenceTopics: topics, shas, outcome }
 }
 
 export function countWisdomWordsForDay(root: string, dayStr: string): Promise<DayWords> {
   return countWordsForDay(root, dayStr, WISDOM_PATHSPEC)
 }
 
-export function countIntelligenceWordsForDay(root: string, dayStr: string): Promise<DayWords> {
-  return countWordsForDay(root, dayStr, INTELLIGENCE_PATHSPEC)
+export function countIntelligenceTopicsForDay(root: string, dayStr: string): Promise<DayTopics> {
+  return countTopicsForDay(root, dayStr, INTELLIGENCE_PATHSPEC)
 }
 
 type Landing = readonly [string, () => Promise<{ outcome: WriteOutcome }>]
@@ -158,7 +216,7 @@ if (import.meta.main) {
   // had already moved out from under it.
   const landings: readonly Landing[] = [
     ["wisdom words", () => rollupWisdomWordsForDay(day)],
-    ["intelligence words", () => rollupIntelligenceWordsForDay(day)],
+    ["intelligence topics", () => rollupIntelligenceTopicsForDay(day)],
   ]
   const landed: string[] = []
   for (const [field, rollup] of landings) {
