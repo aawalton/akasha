@@ -334,3 +334,25 @@ index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..89022557c5bdf7a646014e19392bbc27
      '`slug` is "Far-Too-Long", which is not written in `all-lower`',
    ])
  })
+diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
+index 8c089456d24331b27ea12ac563e293e181a28e4c..dfa20ba2be4f07873927c786aef98d4458f8fe0b 100644
+--- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
++++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
+@@ -107,7 +107,7 @@ test("a restatement lowering a total is let through", () => {
+   const said = restating(
+     root,
+     judged,
+-    { required: true, many: true, max: null, total: 100 },
++    { required: true, many: true, maxCount: null, maxLength: 100 },
+     { required: true, many: true, max: null, total: 50 }
+   )
+ 
+@@ -180,7 +180,7 @@ test("a restatement raising a total alone is refused for narrowing nothing", ()
+     root,
+     judged,
+     { required: true, many: true, max: null, total: 50 },
+-    { required: true, many: true, max: null, total: 100 }
++    { required: true, many: true, maxCount: null, maxLength: 100 }
+   )
+ 
+   expect(said).toHaveLength(1)
