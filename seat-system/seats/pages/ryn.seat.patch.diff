@@ -1,0 +1,18 @@
+diff --git a/alan/harness/monarch/merchant/monarch-merchant-naming.module.ts b/alan/harness/monarch/merchant/monarch-merchant-naming.module.ts
+index b7cd87783df3bc180ea3684fb46789dd10739ed3..c5c4ac8b7b8ed37e2378f85b0e877db649dc7cb0 100644
+--- a/alan/harness/monarch/merchant/monarch-merchant-naming.module.ts
++++ b/alan/harness/monarch/merchant/monarch-merchant-naming.module.ts
+@@ -22,8 +22,11 @@ export const monarchMerchantNaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The merchant and the statement line are read together, so either may name the merchant.",
++      statement: "The merchant and the statement line are read together.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Either the merchant or the statement line names the merchant.",
+     },
+     {
+       invariantKind: "departure",
