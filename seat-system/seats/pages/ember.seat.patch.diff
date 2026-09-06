@@ -126,3 +126,15 @@ index b880c891b3f814525d08cf0fc77bf584366a8f74..ea04add12c6217d1ed2f06b144ee2ea2
      esoCharacterId: `eso-${id}`,
      completion,
      createdAt: 0,
+diff --git a/temper/temper-player-completion/completion-transforms/completion-transforms.module.test.ts b/temper/temper-player-completion/completion-transforms/completion-transforms.module.test.ts
+index a3e6a62879f3b3ae968d467293098fda699e5527..05176ad855e91a855b47d296160601800da98216 100644
+--- a/temper/temper-player-completion/completion-transforms/completion-transforms.module.test.ts
++++ b/temper/temper-player-completion/completion-transforms/completion-transforms.module.test.ts
+@@ -41,7 +41,6 @@ const RESEARCH_LINES: readonly TraitResearchCatalogLine[] = [
+ function row(id: string, completion: CharacterCompletion | null): CompletionCharacterRow {
+   return {
+     id,
+-    userId: "user-1",
+     esoCharacterId: `eso-${id}`,
+     title: id,
+     completion,
