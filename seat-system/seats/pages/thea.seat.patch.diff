@@ -63,6 +63,19 @@ index c914fb69d2b988081713000db1ebfd979c253d17..cd94f28e650e922a4842ea7f78bdbd22
    pageTypeSlug: "workflow-step",
    slug: "deploy",
    definition:
+diff --git a/changes/workflow-language/images/images.module.ts b/changes/workflow-language/images/images.module.ts
+index beaf932954e05eea67fa84bb791840b100583455..0277653fad21c79b563a41789dd3e4225e6bd4fd 100644
+--- a/changes/workflow-language/images/images.module.ts
++++ b/changes/workflow-language/images/images.module.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "../../../code-system/modules/module.page-type.ts"
+ 
+ export const images = {
+-  id: "01a06f10-7000-7004-b0004-9d4a2f6c0004e1",
++  id: "01a07740-d031-7052-9cb9-a2c78581dc10",
+   pageTypeSlug: "module",
+   slug: "images",
+   definition: "the container images a step may run, and the tools each one carries",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
