@@ -23,11 +23,9 @@
     "./selection-policy": "./selection-policy/selection-policy.module.code.ts",
     "./session-closing": "./session-closing/session-closing.module.code.ts",
     "./session-derive": "./session-derive/session-derive.module.code.ts",
-    "./session-volume": "./session-volume/session-volume.module.code.ts",
     "./set-history": "./set-history/set-history.module.code.ts",
     "./set-progression": "./set-progression/set-progression.module.code.ts",
     "./set-target": "./set-target/set-target.module.code.ts",
-    "./set-volume": "./set-volume/set-volume.module.code.ts",
     "./slot-templates": "./slot-templates/slot-templates.module.code.ts",
     "./training-digest": "./training-digest/training-digest.module.code.ts"
   },

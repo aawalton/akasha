@@ -26,10 +26,8 @@ export const exerciseAccess = {
     "module/selection-policy",
     "module/session-closing",
     "module/session-derive",
-    "module/session-volume",
     "module/set-history",
     "module/set-target",
-    "module/set-volume",
     "module/training-digest",
   ],
   invariants: [

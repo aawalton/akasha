@@ -9,7 +9,6 @@ const DAILY_TRACKING_VERSION = "3.0"
 
 const DAY_KEY_OF: Readonly<Record<string, string>> = {
   activeCalories: "active-calories",
-  strengthVolume: "strength-volume",
   sleepPoints: "sleep-points",
   nutritionPoints: "nutrition-points",
   taskPoints: "task-points",
@@ -58,10 +57,6 @@ export async function writeDailyReading(
 
 export function writeActiveCalories(dayStr: string, activeCalories: number): Promise<WriteOutcome> {
   return writeDailyReading(dayStr, "activeCalories", activeCalories)
-}
-
-export function writeStrengthVolume(dayStr: string, strengthVolume: number): Promise<WriteOutcome> {
-  return writeDailyReading(dayStr, "strengthVolume", strengthVolume)
 }
 
 export function writeSleepPoints(dayStr: string, sleepPoints: number): Promise<WriteOutcome> {
