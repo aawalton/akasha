@@ -1,0 +1,34 @@
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+index ed717412cb7ba57467b26765758b60b5f4ca71c4..ce3b534a499edf83a8d3630fd98cb5d68ac6a7fe 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+@@ -1 +1,5 @@
+-export type Changes = {}
++export type Changes = {
++  "change-command/remove-page": Parameters<
++    typeof import("../../../command/pages/remove-page/remove-page.change-command.code.ts")["runChange"]
++  >[1]
++}
+diff --git a/personas/persona.page-type.ts b/personas/persona.page-type.ts
+index 5b0a401b40d96b7e787ebfd3022c6f82ecb6e5f4..3916b11b7a0bd7cf10b00116d73d1a63b4174c3d 100644
+--- a/personas/persona.page-type.ts
++++ b/personas/persona.page-type.ts
+@@ -47,7 +47,17 @@ export const persona = {
+       },
+     },
+   },
+-  partSlugs: [],
++  partSlugs: [
++    "file-property/appearance",
++    "file-property/portrait",
++    "relation-property/championed-domain-slug",
++    "relation-property/origin",
++    "text-property/history",
++    "text-property/last-messaged-at",
++    "text-property/purpose",
++    "text-property/voice-instruction",
++    "text-property/voice-reference-sha256",
++  ],
+   properties: [
+     { pagePropertySlug: "text-property/purpose", required: false, many: false },
+     { pagePropertySlug: "file-property/portrait", required: false, many: false },
