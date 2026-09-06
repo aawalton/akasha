@@ -1,0 +1,780 @@
+runsWarrants: false
+diff --git a/domains/properties/invariants.record-property.ts b/domains/properties/invariants.record-property.ts
+index 8ca49e968905b6931b1d47ab32397e1eef8fa46d..878864ae0602e81f75575710545160c18eb37db7 100644
+--- a/domains/properties/invariants.record-property.ts
++++ b/domains/properties/invariants.record-property.ts
+@@ -17,8 +17,8 @@ export const invariants = {
+   propertySlug: "invariants",
+   definition: "what must be true of a page, each with the sort it is",
+   properties: [
+-    { pagePropertySlug: "invariant-kind", required: true, many: false },
+-    { pagePropertySlug: "invariant-statement", required: true, many: false },
++    { pagePropertySlug: "relation-property/invariant-kind", required: true, many: false },
++    { pagePropertySlug: "text-property/invariant-statement", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/domains/sentence-shapes/sentence-shape.page-type.ts b/domains/sentence-shapes/sentence-shape.page-type.ts
+index 4f3ad674bf40a559ca112ca50f728b2d1164f994..26060c1f6b3e95559986b3bb4e03eb7bca16cc67 100644
+--- a/domains/sentence-shapes/sentence-shape.page-type.ts
++++ b/domains/sentence-shapes/sentence-shape.page-type.ts
+@@ -26,9 +26,9 @@ export const sentenceShape = {
+     "sentence-shape/partitive-quantifier",
+   ],
+   properties: [
+-    { pagePropertySlug: "test", required: true, many: false },
+-    { pagePropertySlug: "allowed", required: false, many: false },
+-    { pagePropertySlug: "reason", required: false, many: false },
++    { pagePropertySlug: "file-property/test", required: true, many: false },
++    { pagePropertySlug: "boolean-property/allowed", required: false, many: false },
++    { pagePropertySlug: "text-property/reason", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/domains/taboo-terms/properties/taboo-senses.record-property.ts b/domains/taboo-terms/properties/taboo-senses.record-property.ts
+index b77621665725844ec44f67c0478287558f5980f8..1746104a4789670aa7495b501d28647b3b39e677 100644
+--- a/domains/taboo-terms/properties/taboo-senses.record-property.ts
++++ b/domains/taboo-terms/properties/taboo-senses.record-property.ts
+@@ -17,8 +17,8 @@ export const tabooSenses = {
+   propertySlug: "taboo-senses",
+   definition: "the senses a taboo term is never written in, each with what is written instead",
+   properties: [
+-    { pagePropertySlug: "sense", required: true, many: false },
+-    { pagePropertySlug: "instead", required: true, many: false },
++    { pagePropertySlug: "text-property/sense", required: true, many: false },
++    { pagePropertySlug: "text-property/instead", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/domains/taboo-terms/taboo-term.page-type.ts b/domains/taboo-terms/taboo-term.page-type.ts
+index 04eec655c1a98086df84c0aae22abb54a9e03312..7ec1ffffae318c9ad3e9b338905d5632c553c615 100644
+--- a/domains/taboo-terms/taboo-term.page-type.ts
++++ b/domains/taboo-terms/taboo-term.page-type.ts
+@@ -25,9 +25,9 @@ export const tabooTerm = {
+   ],
+   extendsSlug: ["page-type/page"],
+   properties: [
+-    { pagePropertySlug: "pattern", required: true, many: false },
+-    { pagePropertySlug: "taboo-senses", required: true, many: true, max: null },
+-    { pagePropertySlug: "kept-senses", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/pattern", required: true, many: false },
++    { pagePropertySlug: "record-property/taboo-senses", required: true, many: true, max: null },
++    { pagePropertySlug: "text-property/kept-senses", required: false, many: true, max: null },
+   ],
+   invariants: [
+     {
+diff --git a/errors-core/runtime-errors/runtime-error.page-type.ts b/errors-core/runtime-errors/runtime-error.page-type.ts
+index 8cb76a3850a2002dba569a403216f0d51a961483..54a9c6d78ba6575ada14c4a2c0647c4cafc1cd9f 100644
+--- a/errors-core/runtime-errors/runtime-error.page-type.ts
++++ b/errors-core/runtime-errors/runtime-error.page-type.ts
+@@ -45,16 +45,26 @@ export const runtimeError = {
+     "text-property/error-user-agent",
+   ],
+   properties: [
+-    { pagePropertySlug: "error-fingerprint", required: true, many: false },
+-    { pagePropertySlug: "error-app", required: true, many: false },
+-    { pagePropertySlug: "error-kind", required: true, many: false },
+-    { pagePropertySlug: "error-message", required: true, many: false },
+-    { pagePropertySlug: "error-url", required: false, many: false },
+-    { pagePropertySlug: "error-user-agent", required: true, many: false },
+-    { pagePropertySlug: "error-release-sha", required: false, many: false },
+-    { pagePropertySlug: "error-first-seen-at", required: true, many: false },
+-    { pagePropertySlug: "error-last-seen-at", required: false, many: false, uncommitted: true },
+-    { pagePropertySlug: "error-count", required: false, many: false, uncommitted: true },
++    { pagePropertySlug: "text-property/error-fingerprint", required: true, many: false },
++    { pagePropertySlug: "text-property/error-app", required: true, many: false },
++    { pagePropertySlug: "text-property/error-kind", required: true, many: false },
++    { pagePropertySlug: "text-property/error-message", required: true, many: false },
++    { pagePropertySlug: "text-property/error-url", required: false, many: false },
++    { pagePropertySlug: "text-property/error-user-agent", required: true, many: false },
++    { pagePropertySlug: "text-property/error-release-sha", required: false, many: false },
++    { pagePropertySlug: "instant-property/error-first-seen-at", required: true, many: false },
++    {
++      pagePropertySlug: "instant-property/error-last-seen-at",
++      required: false,
++      many: false,
++      uncommitted: true,
++    },
++    {
++      pagePropertySlug: "number-property/error-count",
++      required: false,
++      many: false,
++      uncommitted: true,
++    },
+   ],
+   invariants: [
+     {
+diff --git a/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.ts b/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.ts
+index 6bc26c3620c36d405d7253fecb9bf9618f71022e..5461662c462d45f34e4ac2825a8fc22b4d3798c9 100644
+--- a/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.ts
++++ b/games/clear-the-world/ctw-achievements/ctw-achievement.page-type.ts
+@@ -24,11 +24,11 @@ export const ctwAchievement = {
+   runsTabooCheck: false,
+   partSlugs: ["number-property/threshold", "text-property/metric"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "scope", required: true, many: false },
+-    { pagePropertySlug: "metric", required: true, many: false },
+-    { pagePropertySlug: "threshold", required: true, many: false },
+-    { pagePropertySlug: "description", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/scope", required: true, many: false },
++    { pagePropertySlug: "text-property/metric", required: true, many: false },
++    { pagePropertySlug: "number-property/threshold", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/games/clear-the-world/ctw-teams/ctw-team.page-type.ts b/games/clear-the-world/ctw-teams/ctw-team.page-type.ts
+index f7ffdb39373eda9c946c495b08b9324b7c9915c7..1c45a83b6438b26c614c16e9bab2998402e8ef7e 100644
+--- a/games/clear-the-world/ctw-teams/ctw-team.page-type.ts
++++ b/games/clear-the-world/ctw-teams/ctw-team.page-type.ts
+@@ -30,12 +30,12 @@ export const ctwTeam = {
+     "number-property/zones-completed",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "cells-cleared", required: true, many: false },
+-    { pagePropertySlug: "craters", required: true, many: false },
+-    { pagePropertySlug: "hazards-marked", required: true, many: false },
+-    { pagePropertySlug: "zones-completed", required: true, many: false },
+-    { pagePropertySlug: "hex", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "number-property/cells-cleared", required: true, many: false },
++    { pagePropertySlug: "number-property/craters", required: true, many: false },
++    { pagePropertySlug: "number-property/hazards-marked", required: true, many: false },
++    { pagePropertySlug: "number-property/zones-completed", required: true, many: false },
++    { pagePropertySlug: "text-property/hex", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/games/game-achievements/game-achievement.page-type.ts b/games/game-achievements/game-achievement.page-type.ts
+index 56c0c3c7323454f2cace03dc061cc1031affa16a..d68c08bdaa0f39ac3b8bc4dd9ae9c3dc2f7d709d 100644
+--- a/games/game-achievements/game-achievement.page-type.ts
++++ b/games/game-achievements/game-achievement.page-type.ts
+@@ -13,5 +13,5 @@ export const gameAchievement = {
+   definition: "a mark a game gives for finishing something in it",
+   pluralSlug: "game-achievements",
+   extendsSlug: ["page-type/collection-external"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/games/game-design-drives/game-design-drive.page-type.ts b/games/game-design-drives/game-design-drive.page-type.ts
+index 6bac82e972ca1138d73b8b1b1fe10ef60b089dcf..57f0df95c38cba31da2bfe0c79fd0e0c5edd9738 100644
+--- a/games/game-design-drives/game-design-drive.page-type.ts
++++ b/games/game-design-drives/game-design-drive.page-type.ts
+@@ -27,5 +27,5 @@ export const gameDesignDrive = {
+     "text-property/octalysis-definition",
+     "text-property/octalysis-name",
+   ],
+-  properties: [{ pagePropertySlug: "octalysis", required: true, many: false }],
++  properties: [{ pagePropertySlug: "record-property/octalysis", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/games/game-design-drives/properties/octalysis.record-property.ts b/games/game-design-drives/properties/octalysis.record-property.ts
+index bbbb5d6422bd1c136e1c9c70872b77c8d4cde61f..1212122db34fdd97bb253eba3beeabee2cd431de 100644
+--- a/games/game-design-drives/properties/octalysis.record-property.ts
++++ b/games/game-design-drives/properties/octalysis.record-property.ts
+@@ -16,8 +16,8 @@ export const octalysis = {
+   propertySlug: "octalysis",
+   definition: "how Chou's own system names and numbers a drive",
+   properties: [
+-    { pagePropertySlug: "octalysis-number", required: true, many: false },
+-    { pagePropertySlug: "octalysis-name", required: true, many: false },
+-    { pagePropertySlug: "octalysis-definition", required: true, many: false },
++    { pagePropertySlug: "number-property/octalysis-number", required: true, many: false },
++    { pagePropertySlug: "text-property/octalysis-name", required: true, many: false },
++    { pagePropertySlug: "text-property/octalysis-definition", required: true, many: false },
+   ],
+ } as const satisfies RecordProperty
+diff --git a/games/idle-games/idle-game.page-type.ts b/games/idle-games/idle-game.page-type.ts
+index e1efcc4a7ab95b00f533beb41f18de09388036a5..2a9beb30e64ca036b1330854013ca0265b994009 100644
+--- a/games/idle-games/idle-game.page-type.ts
++++ b/games/idle-games/idle-game.page-type.ts
+@@ -22,9 +22,14 @@ export const idleGame = {
+   },
+   partSlugs: ["instant-property/favorited-at"],
+   properties: [
+-    { pagePropertySlug: "game-engine", required: true, many: false },
+-    { pagePropertySlug: "favorited-at", required: false, many: false },
+-    { pagePropertySlug: "last-viewed-at", required: false, many: false, uncommitted: true },
++    { pagePropertySlug: "text-property/game-engine", required: true, many: false },
++    { pagePropertySlug: "instant-property/favorited-at", required: false, many: false },
++    {
++      pagePropertySlug: "instant-property/last-viewed-at",
++      required: false,
++      many: false,
++      uncommitted: true,
++    },
+   ],
+   invariants: [
+     {
+diff --git a/graph/edges/graph-edge.page-type.ts b/graph/edges/graph-edge.page-type.ts
+index b429498b2569bd280c47013560c0642351641331..d8e8d33f53cd7a623c8c19d9271882bb5c98376a 100644
+--- a/graph/edges/graph-edge.page-type.ts
++++ b/graph/edges/graph-edge.page-type.ts
+@@ -22,8 +22,13 @@ export const graphEdge = {
+   ],
+   extendsSlug: ["page-type/domain"],
+   properties: [
+-    { pagePropertySlug: "index-slug", required: false, many: false },
+-    { pagePropertySlug: "attribute-slugs", required: false, many: true, max: null },
++    { pagePropertySlug: "relation-property/index-slug", required: false, many: false },
++    {
++      pagePropertySlug: "relation-property/attribute-slugs",
++      required: false,
++      many: true,
++      max: null,
++    },
+   ],
+   invariants: [
+     {
+diff --git a/hook-system/agent-hooks/agent-hook.page-type.ts b/hook-system/agent-hooks/agent-hook.page-type.ts
+index 93a1b4a963cd32eb18b964b5488a4f9dc32b69da..3e620605caf79b48fdc9d9da45b9fb4b8dc4797f 100644
+--- a/hook-system/agent-hooks/agent-hook.page-type.ts
++++ b/hook-system/agent-hooks/agent-hook.page-type.ts
+@@ -34,8 +34,8 @@ export const agentHook = {
+   ],
+   extendsSlug: ["page-type/module"],
+   properties: [
+-    { pagePropertySlug: "runs-at", required: true, many: true, max: null },
+-    { pagePropertySlug: "over-tools", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/runs-at", required: true, many: true, max: null },
++    { pagePropertySlug: "text-property/over-tools", required: false, many: true, max: null },
+   ],
+   invariants: [
+     {
+diff --git a/idle-system/idle-persona-cards/idle-persona-card.page-type.ts b/idle-system/idle-persona-cards/idle-persona-card.page-type.ts
+index 846fa98327c502d33c4aaace240fe6036f6e888e..7cf1ba2b204d349785db108d9d9986a1ff2ad3a9 100644
+--- a/idle-system/idle-persona-cards/idle-persona-card.page-type.ts
++++ b/idle-system/idle-persona-cards/idle-persona-card.page-type.ts
+@@ -55,20 +55,20 @@ export const idlePersonaCard = {
+     "text-property/player-id",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "player-id", required: true, many: false },
+-    { pagePropertySlug: "card-slug", required: true, many: false },
+-    { pagePropertySlug: "stars", required: true, many: false },
+-    { pagePropertySlug: "rate-per-sec", required: true, many: false },
+-    { pagePropertySlug: "card-rank", required: true, many: false },
+-    { pagePropertySlug: "train-cost", required: true, many: false },
+-    { pagePropertySlug: "lock-state", required: true, many: false },
+-    { pagePropertySlug: "lock-eligible", required: true, many: false },
+-    { pagePropertySlug: "specialize-locked", required: true, many: false },
+-    { pagePropertySlug: "card-persona-slug", required: false, many: false },
+-    { pagePropertySlug: "cover-image-id", required: false, many: false },
+-    { pagePropertySlug: "images", required: false, many: true, max: null },
+-    { pagePropertySlug: "seat-index", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/player-id", required: true, many: false },
++    { pagePropertySlug: "text-property/card-slug", required: true, many: false },
++    { pagePropertySlug: "number-property/stars", required: true, many: false },
++    { pagePropertySlug: "number-property/rate-per-sec", required: true, many: false },
++    { pagePropertySlug: "number-property/card-rank", required: true, many: false },
++    { pagePropertySlug: "number-property/train-cost", required: true, many: false },
++    { pagePropertySlug: "select-property/lock-state", required: true, many: false },
++    { pagePropertySlug: "boolean-property/lock-eligible", required: true, many: false },
++    { pagePropertySlug: "boolean-property/specialize-locked", required: true, many: false },
++    { pagePropertySlug: "relation-property/card-persona-slug", required: false, many: false },
++    { pagePropertySlug: "text-property/cover-image-id", required: false, many: false },
++    { pagePropertySlug: "text-property/images", required: false, many: true, max: null },
++    { pagePropertySlug: "number-property/seat-index", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/infrastructure/alerts/alert.page-type.ts b/infrastructure/alerts/alert.page-type.ts
+index fe2b11f7f64606a03d2e84771a58d54e3011be05..b1e36361cef9207ab79baf32613733073cdd06c4 100644
+--- a/infrastructure/alerts/alert.page-type.ts
++++ b/infrastructure/alerts/alert.page-type.ts
+@@ -35,14 +35,14 @@ export const alert = {
+     "text-property/alert-summary",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "definition", required: true, many: false },
+-    { pagePropertySlug: "alert-domain", required: false, many: false },
+-    { pagePropertySlug: "alert-summary", required: false, many: false },
+-    { pagePropertySlug: "person-slug", required: false, many: false },
+-    { pagePropertySlug: "alert-description", required: false, many: false },
+-    { pagePropertySlug: "alert-persona-slug", required: false, many: false },
+-    { pagePropertySlug: "alert-role-slug", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/definition", required: true, many: false },
++    { pagePropertySlug: "text-property/alert-domain", required: false, many: false },
++    { pagePropertySlug: "text-property/alert-summary", required: false, many: false },
++    { pagePropertySlug: "relation-property/person-slug", required: false, many: false },
++    { pagePropertySlug: "file-property/alert-description", required: false, many: false },
++    { pagePropertySlug: "relation-property/alert-persona-slug", required: false, many: false },
++    { pagePropertySlug: "text-property/alert-role-slug", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/infrastructure/certificate-authorities/certificate-authority.page-type.ts b/infrastructure/certificate-authorities/certificate-authority.page-type.ts
+index 8ca2f2da5e5c2433d430f8bea92154b9288ac781..6e6f2ec935f64a989798b5732a2b2d580ddbc68a 100644
+--- a/infrastructure/certificate-authorities/certificate-authority.page-type.ts
++++ b/infrastructure/certificate-authorities/certificate-authority.page-type.ts
+@@ -14,7 +14,9 @@ export const certificateAuthority = {
+   pluralSlug: "certificate-authorities",
+   partSlugs: ["named-file-property/authority-certificate"],
+   extendsSlug: ["page-type/domain"],
+-  properties: [{ pagePropertySlug: "authority-certificate", required: true, many: false }],
++  properties: [
++    { pagePropertySlug: "named-file-property/authority-certificate", required: true, many: false },
++  ],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/ki/ki-books/ki-book.page-type.ts b/ki/ki-books/ki-book.page-type.ts
+index c25b51d8217111b644809f2af0d5528b7d0a70f1..5996051f81fa5a454bf06c3dbd206a418c575d2b 100644
+--- a/ki/ki-books/ki-book.page-type.ts
++++ b/ki/ki-books/ki-book.page-type.ts
+@@ -21,10 +21,10 @@ export const kiBook = {
+   extendsSlug: ["page-type/ki-collection-template"],
+   partSlugs: [],
+   properties: [
+-    { pagePropertySlug: "isbn", required: false, many: false },
+-    { pagePropertySlug: "isbn13", required: false, many: false },
+-    { pagePropertySlug: "publisher", required: false, many: false },
+-    { pagePropertySlug: "original-publication-year", required: false, many: false },
++    { pagePropertySlug: "text-property/isbn", required: false, many: false },
++    { pagePropertySlug: "text-property/isbn13", required: false, many: false },
++    { pagePropertySlug: "text-property/publisher", required: false, many: false },
++    { pagePropertySlug: "number-property/original-publication-year", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/ki/ki-collection-templates/ki-collection-template.page-type.ts b/ki/ki-collection-templates/ki-collection-template.page-type.ts
+index 69af9c800ee5b8a63b5621687aab5d8347060ca1..f55448126585fbc5c910382f188eb30e6d21543d 100644
+--- a/ki/ki-collection-templates/ki-collection-template.page-type.ts
++++ b/ki/ki-collection-templates/ki-collection-template.page-type.ts
+@@ -13,7 +13,7 @@ export const kiCollectionTemplate = {
+   definition: "a collection of Ki's, held apart from Alan's",
+   pluralSlug: "ki-collection-templates",
+   extendsSlug: ["page-type/collection-external"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/machines/computers/computer.page-type.ts b/machines/computers/computer.page-type.ts
+index ce42d95d77473fa5b0de7fb208c8e48b6d03814d..6e7807c6ea875f09a67f60cc592b5c2816fb4444 100644
+--- a/machines/computers/computer.page-type.ts
++++ b/machines/computers/computer.page-type.ts
+@@ -73,26 +73,26 @@ export const computer = {
+     "url-property/computer-link",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "brand", required: false, many: false },
+-    { pagePropertySlug: "cost", required: false, many: false },
+-    { pagePropertySlug: "cpu-score", required: true, many: false },
+-    { pagePropertySlug: "cpu", required: true, many: false },
+-    { pagePropertySlug: "display-refresh-rate", required: false, many: false },
+-    { pagePropertySlug: "display-resolution", required: false, many: false },
+-    { pagePropertySlug: "display", required: false, many: false },
+-    { pagePropertySlug: "form-factor", required: true, many: false },
+-    { pagePropertySlug: "gpu-score", required: true, many: false },
+-    { pagePropertySlug: "gpu-size", required: false, many: false },
+-    { pagePropertySlug: "gpu", required: true, many: false },
+-    { pagePropertySlug: "hdd", required: false, many: false },
+-    { pagePropertySlug: "computer-link", required: false, many: false },
+-    { pagePropertySlug: "computer-model", required: false, many: false },
+-    { pagePropertySlug: "operating-system", required: true, many: false },
+-    { pagePropertySlug: "purchase-date", required: false, many: false },
+-    { pagePropertySlug: "ram", required: true, many: false },
+-    { pagePropertySlug: "ssd", required: true, many: false },
+-    { pagePropertySlug: "computer-status", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "select-property/brand", required: false, many: false },
++    { pagePropertySlug: "number-property/cost", required: false, many: false },
++    { pagePropertySlug: "number-property/cpu-score", required: true, many: false },
++    { pagePropertySlug: "select-property/cpu", required: true, many: false },
++    { pagePropertySlug: "select-property/display-refresh-rate", required: false, many: false },
++    { pagePropertySlug: "select-property/display-resolution", required: false, many: false },
++    { pagePropertySlug: "select-property/display", required: false, many: false },
++    { pagePropertySlug: "select-property/form-factor", required: true, many: false },
++    { pagePropertySlug: "number-property/gpu-score", required: true, many: false },
++    { pagePropertySlug: "select-property/gpu-size", required: false, many: false },
++    { pagePropertySlug: "select-property/gpu", required: true, many: false },
++    { pagePropertySlug: "number-property/hdd", required: false, many: false },
++    { pagePropertySlug: "url-property/computer-link", required: false, many: false },
++    { pagePropertySlug: "text-property/computer-model", required: false, many: false },
++    { pagePropertySlug: "select-property/operating-system", required: true, many: false },
++    { pagePropertySlug: "calendar-date-property/purchase-date", required: false, many: false },
++    { pagePropertySlug: "select-property/ram", required: true, many: false },
++    { pagePropertySlug: "number-property/ssd", required: true, many: false },
++    { pagePropertySlug: "select-property/computer-status", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/machines/hosts/host.page-type.ts b/machines/hosts/host.page-type.ts
+index 10752707baef7fcfc718b647e2f8b103c769784d..5639cd586e2c94ed966d8722a8b9ef982d1e5dc2 100644
+--- a/machines/hosts/host.page-type.ts
++++ b/machines/hosts/host.page-type.ts
+@@ -23,7 +23,7 @@ export const host = {
+     "host/node-06",
+     "host/workstation",
+   ],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/machines/provisioning/provisioned-files/provisioned-file.page-type.ts b/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
+index 5dd91cbe94dfdddaab940998c50ace91c4be2eaf..395ddad7c3f2db2c219a27281da9de52c205a5e5 100644
+--- a/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
++++ b/machines/provisioning/provisioned-files/provisioned-file.page-type.ts
+@@ -46,11 +46,11 @@ export const provisionedFile = {
+   ],
+   extendsSlug: ["page-type/domain"],
+   properties: [
+-    { pagePropertySlug: "content", required: true, many: false },
+-    { pagePropertySlug: "placed-by", required: true, many: false },
+-    { pagePropertySlug: "only-on", required: true, many: false },
+-    { pagePropertySlug: "install-path", required: false, many: false },
+-    { pagePropertySlug: "reload-with", required: false, many: false },
++    { pagePropertySlug: "file-property/content", required: true, many: false },
++    { pagePropertySlug: "select-property/placed-by", required: true, many: false },
++    { pagePropertySlug: "select-property/only-on", required: true, many: false },
++    { pagePropertySlug: "text-property/install-path", required: false, many: false },
++    { pagePropertySlug: "text-property/reload-with", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/mathematics/proofs/proof.page-type.ts b/mathematics/proofs/proof.page-type.ts
+index 6bb131f073feb245ec6ac7c91836a59919467757..a5ad76cea3b2e19eda13769ee1b7ac76301e142e 100644
+--- a/mathematics/proofs/proof.page-type.ts
++++ b/mathematics/proofs/proof.page-type.ts
+@@ -28,11 +28,11 @@ export const proof = {
+     "select-property/proof-status",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "proves-slug", required: true, many: false },
+-    { pagePropertySlug: "proof-status", required: true, many: false },
+-    { pagePropertySlug: "attempt", required: true, many: false },
+-    { pagePropertySlug: "derivation", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/proves-slug", required: true, many: false },
++    { pagePropertySlug: "select-property/proof-status", required: true, many: false },
++    { pagePropertySlug: "number-property/attempt", required: true, many: false },
++    { pagePropertySlug: "file-property/derivation", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/mathematics/propositions/proposition.page-type.ts b/mathematics/propositions/proposition.page-type.ts
+index 2aebb1b662c6ba0dd6a4c9cb2f541537f6c4867e..d6cb9838ad71b517456f750067564084c9dee334 100644
+--- a/mathematics/propositions/proposition.page-type.ts
++++ b/mathematics/propositions/proposition.page-type.ts
+@@ -25,10 +25,10 @@ export const proposition = {
+     "select-property/proposition-status",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "proposition-kind", required: true, many: false },
+-    { pagePropertySlug: "proposition-status", required: true, many: false },
+-    { pagePropertySlug: "statement", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "select-property/proposition-kind", required: true, many: false },
++    { pagePropertySlug: "select-property/proposition-status", required: true, many: false },
++    { pagePropertySlug: "file-property/statement", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/mobile-cli/mobile-cuts/mobile-cut.page-type.ts b/mobile-cli/mobile-cuts/mobile-cut.page-type.ts
+index 84ba9d2d76c2255434b8234482c703a202fa410f..ad440a93d369637110dc7500457cb795c7e5b70b 100644
+--- a/mobile-cli/mobile-cuts/mobile-cut.page-type.ts
++++ b/mobile-cli/mobile-cuts/mobile-cut.page-type.ts
+@@ -33,13 +33,13 @@ export const mobileCut = {
+     "text-property/shell-sha",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
+     { pagePropertySlug: "relation-property/app-slug", required: true, many: false },
+-    { pagePropertySlug: "build-number", required: true, many: false },
+-    { pagePropertySlug: "main-sha", required: true, many: false },
+-    { pagePropertySlug: "shell-sha", required: false, many: false },
+-    { pagePropertySlug: "build-input-tree-hash", required: false, many: false },
+-    { pagePropertySlug: "cut-at", required: true, many: false },
++    { pagePropertySlug: "number-property/build-number", required: true, many: false },
++    { pagePropertySlug: "text-property/main-sha", required: true, many: false },
++    { pagePropertySlug: "text-property/shell-sha", required: false, many: false },
++    { pagePropertySlug: "text-property/build-input-tree-hash", required: false, many: false },
++    { pagePropertySlug: "instant-property/cut-at", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/pages/computed-properties/computed-property.page-type.ts b/pages/computed-properties/computed-property.page-type.ts
+index 1717dfc43d2870d75dcd9cecbc590e05095c70e0..16e54522709d466aac45a2799843dc4a3f47308a 100644
+--- a/pages/computed-properties/computed-property.page-type.ts
++++ b/pages/computed-properties/computed-property.page-type.ts
+@@ -22,7 +22,7 @@ export const computedProperty = {
+   pluralSlug: "computed-properties",
+   extendsSlug: ["page-type/module", "page-type/page-property"],
+   partSlugs: ["select-property/holds"],
+-  properties: [{ pagePropertySlug: "holds", required: true, many: false }],
++  properties: [{ pagePropertySlug: "select-property/holds", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/pages/file-properties/file-property.page-type.ts b/pages/file-properties/file-property.page-type.ts
+index bd864f729827cfc8bd251dce34fc28ed80201efc..8aefac731d4001474c93f55572dc8ed5fa5d749a 100644
+--- a/pages/file-properties/file-property.page-type.ts
++++ b/pages/file-properties/file-property.page-type.ts
+@@ -17,8 +17,8 @@ export const fileProperty = {
+   partSlugs: ["boolean-property/machine-written", "boolean-property/runs-file-length"],
+   extendsSlug: ["page-type/page-property"],
+   properties: [
+-    { pagePropertySlug: "machine-written", required: false, many: false },
+-    { pagePropertySlug: "runs-file-length", required: false, many: false },
++    { pagePropertySlug: "boolean-property/machine-written", required: false, many: false },
++    { pagePropertySlug: "boolean-property/runs-file-length", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/pages/generator-kinds/generator-kind.page-type.ts b/pages/generator-kinds/generator-kind.page-type.ts
+index 68cd52b3a27f06231408edbc17b97ba5622c851e..00548f2d07ce558d0c1dd7af8ee078843ad95999 100644
+--- a/pages/generator-kinds/generator-kind.page-type.ts
++++ b/pages/generator-kinds/generator-kind.page-type.ts
+@@ -14,7 +14,7 @@ export const generatorKind = {
+   pluralSlug: "generator-kinds",
+   partSlugs: ["boolean-property/after-checks", "generator-kind/uuid-v7"],
+   extendsSlug: ["page-type/domain"],
+-  properties: [{ pagePropertySlug: "after-checks", required: true, many: false }],
++  properties: [{ pagePropertySlug: "boolean-property/after-checks", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/pages/indexes/index.page-type.ts b/pages/indexes/index.page-type.ts
+index 34a619130940fd1d1a59b1238381a2c417d5d962..b41123d40126f3d85d4c266ba3404db3ac2d09b4 100644
+--- a/pages/indexes/index.page-type.ts
++++ b/pages/indexes/index.page-type.ts
+@@ -17,8 +17,8 @@ export const index = {
+   partSlugs: [],
+   extendsSlug: ["page-type/module"],
+   properties: [
+-    { pagePropertySlug: "index-name", required: true, many: false },
+-    { pagePropertySlug: "test", required: true, many: false },
++    { pagePropertySlug: "text-property/index-name", required: true, many: false },
++    { pagePropertySlug: "file-property/test", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/pages/name-formats/name-format.page-type.ts b/pages/name-formats/name-format.page-type.ts
+index 2ff15f2716d2a4d5f43d718d652ebb32ceec530b..5987d5be2d3251b6b41e93e40a5a1e53cf3bea3a 100644
+--- a/pages/name-formats/name-format.page-type.ts
++++ b/pages/name-formats/name-format.page-type.ts
+@@ -25,7 +25,7 @@ export const nameFormat = {
+   ],
+   extendsSlug: ["page-type/module"],
+   loadedBySlug: "module/format-reaching",
+-  properties: [{ pagePropertySlug: "test", required: true, many: false }],
++  properties: [{ pagePropertySlug: "file-property/test", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/pages/name-places/name-place.page-type.ts b/pages/name-places/name-place.page-type.ts
+index 4bddf191fa92ce2ca7109ded58e6b34f473f553d..a0fd0409983fd4fbe6878b2dc94310cee943c16c 100644
+--- a/pages/name-places/name-place.page-type.ts
++++ b/pages/name-places/name-place.page-type.ts
+@@ -31,7 +31,9 @@ export const namePlace = {
+     "name-place/type-identifier",
+   ],
+   extendsSlug: ["page-type/domain"],
+-  properties: [{ pagePropertySlug: "name-format-slug", required: true, many: false }],
++  properties: [
++    { pagePropertySlug: "relation-property/name-format-slug", required: true, many: false },
++  ],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/pages/named-file-properties/named-file-property.page-type.ts b/pages/named-file-properties/named-file-property.page-type.ts
+index 5a74f69ab95ae66843b8682879ed964b756e0154..73ea1547a001194abfd07627637439e76a1c3d20 100644
+--- a/pages/named-file-properties/named-file-property.page-type.ts
++++ b/pages/named-file-properties/named-file-property.page-type.ts
+@@ -14,7 +14,7 @@ export const namedFileProperty = {
+   pluralSlug: "named-file-properties",
+   partSlugs: ["text-property/file-name"],
+   extendsSlug: ["page-type/file-property"],
+-  properties: [{ pagePropertySlug: "file-name", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/file-name", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "constraint",
+diff --git a/pages/navs/nav.page-type.ts b/pages/navs/nav.page-type.ts
+index 33f1c510d717196f4d900a455ad4b141a731d928..e5fec1d27ff940ef9234bf6b33b32c06f078102c 100644
+--- a/pages/navs/nav.page-type.ts
++++ b/pages/navs/nav.page-type.ts
+@@ -39,15 +39,15 @@ export const nav = {
+     "text-property/nav-app-slug",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "icon", required: true, many: false },
+-    { pagePropertySlug: "nav-place", required: true, many: false },
+-    { pagePropertySlug: "nav-app-slug", required: false, many: false },
+-    { pagePropertySlug: "nav-parent", required: false, many: false },
+-    { pagePropertySlug: "mobile-pin-order", required: false, many: false },
+-    { pagePropertySlug: "back-href", required: false, many: false },
+-    { pagePropertySlug: "draw-cost", required: false, many: false },
+-    { pagePropertySlug: "show-count-badge", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/icon", required: true, many: false },
++    { pagePropertySlug: "number-property/nav-place", required: true, many: false },
++    { pagePropertySlug: "text-property/nav-app-slug", required: false, many: false },
++    { pagePropertySlug: "relation-property/nav-parent", required: false, many: false },
++    { pagePropertySlug: "number-property/mobile-pin-order", required: false, many: false },
++    { pagePropertySlug: "text-property/back-href", required: false, many: false },
++    { pagePropertySlug: "number-property/draw-cost", required: false, many: false },
++    { pagePropertySlug: "boolean-property/show-count-badge", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/pages/number-properties/number-property.page-type.ts b/pages/number-properties/number-property.page-type.ts
+index 03e4b0deeb38f767989e3702c8b5cc63a3449a88..af47be659cad0168f821d9442c95408cf5a3ce0b 100644
+--- a/pages/number-properties/number-property.page-type.ts
++++ b/pages/number-properties/number-property.page-type.ts
+@@ -13,5 +13,5 @@ export const numberProperty = {
+   definition: "a page property holding a number",
+   pluralSlug: "number-properties",
+   extendsSlug: ["page-type/page-property"],
+-  properties: [{ pagePropertySlug: "max", required: true, many: false }],
++  properties: [{ pagePropertySlug: "number-property/max", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/pages/one-of-properties/one-of-property.page-type.ts b/pages/one-of-properties/one-of-property.page-type.ts
+index e84058909d26a81118bacb76b0b0fe65c2145220..0421a210ef179b624c3aaa7974efc581a2d7561a 100644
+--- a/pages/one-of-properties/one-of-property.page-type.ts
++++ b/pages/one-of-properties/one-of-property.page-type.ts
+@@ -14,7 +14,9 @@ export const oneOfProperty = {
+   pluralSlug: "one-of-properties",
+   partSlugs: ["relation-property/member-slugs"],
+   extendsSlug: ["page-type/page-property"],
+-  properties: [{ pagePropertySlug: "member-slugs", required: true, many: true, max: null }],
++  properties: [
++    { pagePropertySlug: "relation-property/member-slugs", required: true, many: true, max: null },
++  ],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
+index fc7de138838cb95f568eca5299420c3d0362ce00..d994cd544ddf24d8bffa4e4584858d14b102fad4 100644
+--- a/pages/page.page-type.ts
++++ b/pages/page.page-type.ts
+@@ -23,12 +23,12 @@ export const page = {
+   pluralSlug: "pages",
+   extendsSlug: [],
+   properties: [
+-    { pagePropertySlug: "id", required: true, many: false },
+-    { pagePropertySlug: "page-type-slug", required: true, many: false },
+-    { pagePropertySlug: "slug", required: true, many: false },
+-    { pagePropertySlug: "title", required: false, many: false },
+-    { pagePropertySlug: "description", required: false, many: false },
+-    { pagePropertySlug: "cover", required: false, many: false },
++    { pagePropertySlug: "text-property/id", required: true, many: false },
++    { pagePropertySlug: "relation-property/page-type-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/slug", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: false, many: false },
++    { pagePropertySlug: "text-property/description", required: false, many: false },
++    { pagePropertySlug: "text-property/cover", required: false, many: false },
+   ],
+   partSlugs: [
+     "relation-property/page-type-slug",
+diff --git a/pages/property-entries/page-property-entry.page-type.ts b/pages/property-entries/page-property-entry.page-type.ts
+index 01c6945cb8a4ccb5e5c85d8ee5d8462d4c7bd470..887f5c1d80f26d8107e6cf9e41973faa405cf926 100644
+--- a/pages/property-entries/page-property-entry.page-type.ts
++++ b/pages/property-entries/page-property-entry.page-type.ts
+@@ -13,7 +13,9 @@ export const pagePropertyEntry = {
+   definition: "a page property whose values are kept one to a line beside the page",
+   pluralSlug: "page-property-entries",
+   extendsSlug: ["page-type/page-property"],
+-  properties: [{ pagePropertySlug: "properties", required: true, many: true, max: null }],
++  properties: [
++    { pagePropertySlug: "record-property/properties", required: true, many: true, max: null },
++  ],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/pages/queries/page-query.page-type.ts b/pages/queries/page-query.page-type.ts
+index 596e20bbb4caa6d98a85e8e0543867d067b7f3fd..57c39e3a4596841998f0bf065cea7ec0351c6dca 100644
+--- a/pages/queries/page-query.page-type.ts
++++ b/pages/queries/page-query.page-type.ts
+@@ -52,17 +52,22 @@ export const pageQuery = {
+   ],
+   extendsSlug: ["page-type/page"],
+   properties: [
+-    { pagePropertySlug: "asks-of-slug", required: true, many: false },
+-    { pagePropertySlug: "parameters", required: false, many: true, max: 5 },
+-    { pagePropertySlug: "narrows", required: false, many: true, max: 10 },
+-    { pagePropertySlug: "count-by", required: false, many: true, max: 10 },
+-    { pagePropertySlug: "reduction", required: false, many: false },
+-    { pagePropertySlug: "target-key", required: false, many: false },
+-    { pagePropertySlug: "keys", required: false, many: true, max: 40 },
+-    { pagePropertySlug: "sort-by", required: false, many: false },
+-    { pagePropertySlug: "descending", required: false, many: false, default: "false" },
+-    { pagePropertySlug: "limit", required: false, many: false },
+-    { pagePropertySlug: "offset", required: false, many: false },
++    { pagePropertySlug: "text-property/asks-of-slug", required: true, many: false },
++    { pagePropertySlug: "record-property/parameters", required: false, many: true, max: 5 },
++    { pagePropertySlug: "record-property/narrows", required: false, many: true, max: 10 },
++    { pagePropertySlug: "text-property/count-by", required: false, many: true, max: 10 },
++    { pagePropertySlug: "text-property/reduction", required: false, many: false },
++    { pagePropertySlug: "text-property/target-key", required: false, many: false },
++    { pagePropertySlug: "text-property/keys", required: false, many: true, max: 40 },
++    { pagePropertySlug: "text-property/sort-by", required: false, many: false },
++    {
++      pagePropertySlug: "boolean-property/descending",
++      required: false,
++      many: false,
++      default: "false",
++    },
++    { pagePropertySlug: "number-property/limit", required: false, many: false },
++    { pagePropertySlug: "number-property/offset", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/pages/queries/properties/narrows.record-property.ts b/pages/queries/properties/narrows.record-property.ts
+index 5d65e7d38b2335848ed20bf9eb5237a85f9f55cd..9fd27024ac6e800bfc1274e1828e171066421b18 100644
+--- a/pages/queries/properties/narrows.record-property.ts
++++ b/pages/queries/properties/narrows.record-property.ts
+@@ -19,9 +19,9 @@ export const narrows = {
+   propertySlug: "narrows",
+   definition: "what a query tests a page against, each with the key tested and how",
+   properties: [
+-    { pagePropertySlug: "narrow-key", required: true, many: false },
+-    { pagePropertySlug: "narrow-comparison", required: true, many: false },
+-    { pagePropertySlug: "narrow-values", required: true, many: true, max: 20 },
++    { pagePropertySlug: "text-property/narrow-key", required: true, many: false },
++    { pagePropertySlug: "text-property/narrow-comparison", required: true, many: false },
++    { pagePropertySlug: "text-property/narrow-values", required: true, many: true, max: 20 },
+   ],
+   invariants: [
+     {
+diff --git a/pages/queries/properties/parameters.record-property.ts b/pages/queries/properties/parameters.record-property.ts
+index 1f84cee632b12b9ce4908ee24e8ce64a0543c522..94c3cd94b39342dc3dea71d4fba54512ff498262 100644
+--- a/pages/queries/properties/parameters.record-property.ts
++++ b/pages/queries/properties/parameters.record-property.ts
+@@ -17,8 +17,8 @@ export const parameters = {
+   propertySlug: "parameters",
+   definition: "the values a query is given, each with the type it takes",
+   properties: [
+-    { pagePropertySlug: "parameter-name", required: true, many: false },
+-    { pagePropertySlug: "parameter-type", required: true, many: false },
++    { pagePropertySlug: "text-property/parameter-name", required: true, many: false },
++    { pagePropertySlug: "text-property/parameter-type", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/pages/record-properties/record-property.page-type.ts b/pages/record-properties/record-property.page-type.ts
+index 6eb4fb6531b6d846086149116e857a7fd3cda944..7363b136bc8963df81e06690474a873a0f278f22 100644
+--- a/pages/record-properties/record-property.page-type.ts
++++ b/pages/record-properties/record-property.page-type.ts
+@@ -13,5 +13,7 @@ export const recordProperty = {
+   definition: "a page property holding named fields",
+   pluralSlug: "record-properties",
+   extendsSlug: ["page-type/page-property"],
+-  properties: [{ pagePropertySlug: "properties", required: true, many: true, max: null }],
++  properties: [
++    { pagePropertySlug: "record-property/properties", required: true, many: true, max: null },
++  ],
+ } as const satisfies PageType
