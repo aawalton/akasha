@@ -1,5 +1,5 @@
 diff --git a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
-index d637d9be9f66b0a14f75bb0cfcc146608b1e9789..34a63eb983254ac9db9787e284b073a2b3e46e9e 100644
+index d637d9be9f66b0a14f75bb0cfcc146608b1e9789..af0f42c11f5b68d069beec698de41fd719bb27b9 100644
 --- a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
 +++ b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
 @@ -10,7 +10,8 @@ export const renamePropertySignature = {
@@ -12,7 +12,7 @@ index d637d9be9f66b0a14f75bb0cfcc146608b1e9789..34a63eb983254ac9db9787e284b073a2
      },
      {
        invariantKind: "departure",
-@@ -18,7 +19,8 @@ export const renamePropertySignature = {
+@@ -18,17 +19,18 @@ export const renamePropertySignature = {
      },
      {
        invariantKind: "departure",
@@ -22,7 +22,10 @@ index d637d9be9f66b0a14f75bb0cfcc146608b1e9789..34a63eb983254ac9db9787e284b073a2
      },
  
      {
-@@ -28,7 +30,7 @@ export const renamePropertySignature = {
+       invariantKind: "departure",
+-      statement: "A property declared outside the named file as well is refused, being two things.",
++      statement: "A property declared outside the named file as well is refused.",
+     },
      {
        invariantKind: "departure",
        statement:
