@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/monarch.domain.ts b/alan/harness/monarch/monarch.domain.ts
-index a8ee11b857479f78b2472a01c65be09c2ed0c733..135f47514a4fe36231e7509fb05af90396daa081 100644
+index a8ee11b857479f78b2472a01c65be09c2ed0c733..bf4cfdc6c0079b35fd0d5a77d0130dc21b4dda0f 100644
 --- a/alan/harness/monarch/monarch.domain.ts
 +++ b/alan/harness/monarch/monarch.domain.ts
 @@ -87,7 +87,8 @@ export const monarch = {
@@ -9,6 +9,20 @@ index a8ee11b857479f78b2472a01c65be09c2ed0c733..135f47514a4fe36231e7509fb05af903
 -      statement: "Every site showing the reading is carried that reading rather than taking one.",
 +      statement:
 +        "Every site showing the reading is carried that reading rather than taking that reading.",
+     },
+     {
+       invariantKind: "departure",
+@@ -101,8 +102,11 @@ export const monarch = {
+     { invariantKind: "absence", statement: "Monarch's own rules engine is never written to." },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Category rules run outside Monarch, and only a single transaction update is posted back.",
++      statement: "Category rules run outside Monarch.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Only a single transaction update is posted back.",
      },
      {
        invariantKind: "departure",
