@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/alan/harness/attributes/attributes.domain.ts b/alan/harness/attributes/attributes.domain.ts
+index 8ef7e32a20cd98b8f77867d1e499b7325d0b2edd..2598492906c146e20d647359061ff8f5d1d0099e 100644
+--- a/alan/harness/attributes/attributes.domain.ts
++++ b/alan/harness/attributes/attributes.domain.ts
+@@ -42,7 +42,8 @@ export const attributes = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A source that cannot be read stops its own readings and no other.",
++      statement:
++        "A source that cannot be read stops its own readings rather than another source's.",
+     },
+     {
+       invariantKind: "departure",
