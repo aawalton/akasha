@@ -1,3 +1,19 @@
+diff --git a/command-system/commands/move/manifesting/move-manifesting.module.test.ts b/command-system/commands/move/manifesting/move-manifesting.module.test.ts
+index 6574e4f178d6c62aacd26c556abe82ca52fb2def..158765a2129effaaa2b4d3e4490c1a6e855a5408 100644
+--- a/command-system/commands/move/manifesting/move-manifesting.module.test.ts
++++ b/command-system/commands/move/manifesting/move-manifesting.module.test.ts
+@@ -33,9 +33,9 @@ test("a file under nested packages is answered for by every manifest above it",
+   ).toEqual([...held].sort())
+ })
+ 
+-test("the walk up stops at the akasha folder", () => {
++test("the walk up reaches the repository root", () => {
+   const said = manifestsOver(moving([WAS, NOW]), () => true).map((one) => one.at)
+-  expect(said).not.toContain("package.json")
++  expect(said).toContain("package.json")
+ })
+ 
+ test("a manifest that moves says the folder that manifest arrives in", () => {
 diff --git a/command-system/commands/move/move.command.test-fixtures.ts b/command-system/commands/move/move.command.test-fixtures.ts
 index 4672467afe2f7b0cc49315810a50ae4f77b63440..f9138714b399b616e6169dc4b9bb9b793893ca71 100644
 --- a/command-system/commands/move/move.command.test-fixtures.ts
