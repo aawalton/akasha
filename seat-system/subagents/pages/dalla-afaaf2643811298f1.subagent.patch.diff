@@ -37,6 +37,19 @@ index c7c4893c54f4c971a5cf25283cdd0d22fe02c4aa..9cd2b0fd54320f9c7a116570f4ff841d
    evidence:
      "The key is at pages/workflow-template/workflow-temper-watcher.workflow-template.declaration.attachment.ts, which git tracks. Its payload decodes to role `anon`, issuer `https://supabase.alanwalton.com/auth/v1`, and expiry 2092231506, which is 2036-04-19. Every other secret in the repository is sops-encrypted. Found while surveying which supabase code is not auth code. Service-role and anon values are also in plaintext at alanwalton/web/.env.local, which git does not track, so those remain on the machine holding them and are named here only so the two are not confused.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/an-undecided-sentence-shape-is-a-boolean-left-out.finding.ts b/domains/findings/pages/an-undecided-sentence-shape-is-a-boolean-left-out.finding.ts
+index 1761eedd9ae48766319abda77f5dc79ecdc5d092..6804159f8a0e675d9ed438b8ccd543c836dd02fa 100644
+--- a/domains/findings/pages/an-undecided-sentence-shape-is-a-boolean-left-out.finding.ts
++++ b/domains/findings/pages/an-undecided-sentence-shape-is-a-boolean-left-out.finding.ts
+@@ -6,7 +6,7 @@ export const anUndecidedSentenceShapeIsABooleanLeftOut = {
+   slug: "an-undecided-sentence-shape-is-a-boolean-left-out",
+   domainSlug: "page-type/sentence-shape",
+   claim:
+-    "A sentence shape carries three states and the page type holds two of them. Allowed and refused are `allowed` set true or false, and undecided is `allowed` left out. A reader meets an absent property and has to be told that absence is a decision rather than an oversight, and nothing in the value says which.",
++    "A sentence shape carries three states and the page type holds two of them. Allowed and refused are `allowed` set true or false, and undecided is `allowed` left out. A reader meets an absent property and has to be told that absence is one decision rather than an oversight, and nothing in the value says which.",
+   evidence:
+     "`sentence-shape` was written with `allowed` required, and `sentence-shape/adverb-first` was the first shape Alan wanted parsed without deciding whether akasha writes in it. The property was made optional in commit 2cbd5945 so the shape could land. Two invariants on the page type carry the meaning that the value does not: `A shape Alan has not decided states no allowed.` and `A shape Alan has not decided is admitted until he decides it.` Alan was shown this at the time and said it was fine for now. The cost lands when a shape is read by code rather than by a person, because an absent boolean and a false one are one keystroke apart and only the invariants say they differ.",
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha.finding.ts b/domains/findings/pages/email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha.finding.ts
 index 59cff13754501b21bf99fb031f83af78b1eb6835..8a00f80b944de2ef8ddacbca48ee34bd7a343011 100644
 --- a/domains/findings/pages/email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha.finding.ts
