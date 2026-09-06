@@ -5,7 +5,6 @@ import type { Title } from "../../../../pages/properties/title.text-property.ts"
 import type { TopicParentSlugs } from "./properties/topic-parent-slugs.relation-property.ts"
 import type { TopicRelatedSlugs } from "./properties/topic-related-slugs.relation-property.ts"
 import type { TopicSettled } from "./properties/topic-settled.text-property.ts"
-import type { TopicUnsettled } from "./properties/topic-unsettled.text-property.ts"
 
 export type AllAboutAlanTopic = Page & {
   title: Title
@@ -13,7 +12,6 @@ export type AllAboutAlanTopic = Page & {
   parentSlugs?: TopicParentSlugs
   relatedSlugs?: TopicRelatedSlugs
   settled?: TopicSettled
-  unsettled?: TopicUnsettled
 }
 
 export const allAboutAlanTopic = {
@@ -27,7 +25,6 @@ export const allAboutAlanTopic = {
     "relation-property/topic-parent-slugs",
     "relation-property/topic-related-slugs",
     "text-property/topic-settled",
-    "text-property/topic-unsettled",
   ],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
@@ -45,7 +42,6 @@ export const allAboutAlanTopic = {
       max: null,
     },
     { pagePropertySlug: "text-property/topic-settled", required: false, many: false },
-    { pagePropertySlug: "text-property/topic-unsettled", required: false, many: false },
   ],
   invariants: [
     {
@@ -59,10 +55,6 @@ export const allAboutAlanTopic = {
     {
       invariantKind: "departure",
       statement: "Exactly one topic sits under no topic.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A topic holds its settled text apart from its unsettled text.",
     },
     {
       invariantKind: "departure",
