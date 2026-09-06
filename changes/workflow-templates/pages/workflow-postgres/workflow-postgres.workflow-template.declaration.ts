@@ -3,10 +3,9 @@ import { IMAGES, REGISTRY } from "@akasha/workflow-language/images"
 import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
 import { applyRbac } from "@akasha/workflow-language/rbac-apply"
 import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
 import { step } from "@akasha/workflow-language/step"
 import { workflow } from "@akasha/workflow-language/workflow"
-import type { CIContext, Step } from "@akasha/workflow-language/workflow-types"
+import type { Step } from "@akasha/workflow-language/workflow-types"
 
 const IMAGE_TAG_CNPG = `${REGISTRY}/cluster/postgres-cnpg:18-ts2.24-pgcron-pgnet-wal2json-pgjsonschema-r1`
 
@@ -68,20 +67,13 @@ function cnpgClusterSteps(skipCheck: readonly string[]): readonly Step[] {
     },
 
     {
-      ...sopsDecryptApply({
+      ...secretPlaceApply({
         name: "postgres-apply-cnpg-secret",
         namespace: "postgres",
-        secretFile:
-          "service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg-superuser.k8s-secret.sops.yaml",
+        resource: "postgres-cnpg-superuser",
+        type: "kubernetes.io/basic-auth",
+        labels: { "cnpg.io/reload": "true" },
       }),
-      commands: (ci: CIContext) => [
-        "set -e",
-        `CONTENT_HASH="${ci.inputsHash}"`,
-        ...skipCheck,
-        `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/postgres-cnpg/postgres-cnpg-superuser.k8s-secret.sops.yaml)`,
-        `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
-        `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
-      ],
       dependsOn: ["postgres-apply-namespace"],
     },
 
