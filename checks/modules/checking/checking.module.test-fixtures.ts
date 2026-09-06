@@ -3,11 +3,13 @@ import { join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import {
+  identitiesTakenFrom,
   idFiled,
   listedFiled,
   noneOfTypeFiled,
   pathFiled,
   valueAlsoFiled,
+  valueTakenFrom,
 } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { exportedAs } from "@akasha/pages/page-export-name"
@@ -185,9 +187,18 @@ export function taking(root: string, gone: readonly string[]): Change {
   }
 }
 
+export function overIn(root: string, changed: readonly string[]): Change {
+  const held = onDisk(root)
+  return { root, changed, after: held, before: held }
+}
+
 export function over(changed: readonly string[]): Change {
-  const held = onDisk(ROOT)
-  return { root: ROOT, changed, after: held, before: held }
+  return overIn(ROOT, changed)
+}
+
+export function checksTakenFrom(root: string, slug: string): undefined {
+  identitiesTakenFrom(root, CHECK)
+  valueTakenFrom(root, CHECK, slug)
 }
 
 export const INPUT_THROWS_CHECKS = [
