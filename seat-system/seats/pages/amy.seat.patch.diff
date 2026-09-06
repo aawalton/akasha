@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/commands/track-workout-activity/track-workout-activity.command.ts b/alan/fitness/commands/track-workout-activity/track-workout-activity.command.ts
+index 2e07a523389cd47f211bf5f81f85b83231dfa9ba..b9538942e23336f7646ea8dde06c89415079a953 100644
+--- a/alan/fitness/commands/track-workout-activity/track-workout-activity.command.ts
++++ b/alan/fitness/commands/track-workout-activity/track-workout-activity.command.ts
+@@ -28,7 +28,7 @@ export const trackWorkoutActivity = {
+     { said: "--json", takes: "answer as JSON rather than as a line meant for a reader" },
+   ],
+   helpNotes: [
+-    "this is the sibling of `exercise-log-set` for work that is timed rather than repped.",
++    "this is the sibling of `track-workout-set` for work that is timed rather than repped.",
+     "`--duration` is minutes and `--hold` is seconds, both land as seconds, and one call says at most one of them.",
+     "the session falls to the open one, and a session left open from an earlier day is refused rather than written to.",
+     "the number a stretch gets is one past the highest already logged for that movement in that session.",
