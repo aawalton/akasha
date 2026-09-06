@@ -1,6 +1,6 @@
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { idFiled, listedFiled, noneOfTypeFiled } from "@akasha/indexes/testing"
+import { idFiled, listedFiled, noneOfTypeFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
 import type { Surface } from "./calling.module.code.ts"
@@ -76,6 +76,14 @@ export function rootWith(named: readonly Named[], typeSlug: string = COMMAND): s
       lines.push({ path: one.also, id: "01a04bdd-0000-7000-8000-000000000099" })
     }
     listedFiled(root, typeSlug, one.slug, lines)
+    valueAlsoFiled(
+      root,
+      typeSlug,
+      lines.map((line) => ({
+        path: line.path,
+        value: { id: line.id, pageTypeSlug: typeSlug, slug: one.slug },
+      }))
+    )
   }
   return root
 }

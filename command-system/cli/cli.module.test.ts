@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { indexNamed } from "@akasha/indexes"
-import { idFiled, listedFiled } from "@akasha/indexes/testing"
+import { idFiled, listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { CLAUDE_AUTHOR, forgetCommitAuthor } from "../commit-author/commit-author.module.code.ts"
 import { MARKED } from "../rooting/rooting.module.code.ts"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"
@@ -97,6 +97,9 @@ test("naming no command is a caller's mistake rather than an unclassified failur
 test("a name no command carries is a caller's mistake too", async () => {
   const root = scratch.rootFor("akasha-cli-")
   listedFiled(root, COMMAND, "read", [{ path: "akasha/r.command.ts", id: ID }])
+  valueAlsoFiled(root, COMMAND, [
+    { path: "akasha/r.command.ts", value: { id: ID, pageTypeSlug: COMMAND, slug: "read" } },
+  ])
   idFiled(root, COMMAND_TYPE, [
     { path: "akasha/command-system/commands/command.page-type.ts", id: COMMAND_TYPE },
   ])

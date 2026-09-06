@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { listedFiled } from "@akasha/indexes/testing"
+import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { put } from "@akasha/testing-system/putting"
 import { planFor, SHARED_PATHS } from "./app-building.module.code.ts"
 
@@ -38,6 +38,9 @@ function namingNoBuildScript(): string {
   const at = scratch.rootFor("akasha-app-building-")
   put(at, QUIET_AT, QUIET_BODY)
   listedFiled(at, "ios-app", "quiet", [{ path: QUIET_AT, id: QUIET_ID }])
+  valueAlsoFiled(at, "ios-app", [
+    { path: QUIET_AT, value: { id: QUIET_ID, pageTypeSlug: "ios-app", slug: "quiet" } },
+  ])
   return at
 }
 
@@ -45,6 +48,9 @@ function namingHalfIsStaging(): string {
   const at = scratch.rootFor("akasha-app-building-half-")
   put(at, HALF_AT, HALF_BODY)
   listedFiled(at, "ios-app", "half", [{ path: HALF_AT, id: HALF_ID }])
+  valueAlsoFiled(at, "ios-app", [
+    { path: HALF_AT, value: { id: HALF_ID, pageTypeSlug: "ios-app", slug: "half" } },
+  ])
   return at
 }
 
