@@ -56,7 +56,7 @@ export const forward = {
     },
     {
       invariantKind: "departure",
-      statement: "An idle span of zero or less leaves a request unguarded.",
+      statement: "An idle span at zero or below leaves a request unguarded.",
     },
     {
       invariantKind: "departure",
