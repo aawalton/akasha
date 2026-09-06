@@ -24,3 +24,36 @@ index ae51acaaec190da9c5a9042bf3209fe7fa979589..852ce95c8efc98482b849e79a0f1fc16
      },
      seen,
    }
+diff --git a/agents/claude-accounts/modules/marking/claude-account-marking.module.test.ts b/agents/claude-accounts/modules/marking/claude-account-marking.module.test.ts
+index fee8272be6ce01df33e302244d68065f7197d2aa..adb2e726ec85b8f030f5fbb28b7c852d453084f9 100644
+--- a/agents/claude-accounts/modules/marking/claude-account-marking.module.test.ts
++++ b/agents/claude-accounts/modules/marking/claude-account-marking.module.test.ts
+@@ -268,15 +268,16 @@ test("marking one account opens no other account's page", () => {
+   for (const one of ["aine", "aow"]) chmodSync(join(root, pageAt(one)), 0o644)
+ })
+ 
+-test("marking one account lists no directory the accounts are filed under", () => {
++test("marking one account reads no index the whole fleet is filed in", () => {
+   const root = worldMade()
+   const fleet = counting(root)
+   expect(everyAccountSlugIn(fleet.reading)).toEqual(["aine", "aow", "ctw"])
+-  expect(fleet.seen).toContain("identity/claude-account/slug")
++  expect(fleet.seen).toContain("lines value/claude-account.jsonl")
+   const one = counting(root)
+   const said = markedIn(root, "aine", { retryAllowedAt: RESETS_AT }, one.reading, bodiesIn(root))
+   expect(said.kind).toBe("held")
+-  expect(one.seen.filter((at) => at.startsWith("identity/claude-account"))).toEqual([])
++  expect(one.seen).not.toContain("lines value/claude-account.jsonl")
++  expect(one.seen.filter((at) => at.startsWith("listing identity/claude-account"))).toEqual([])
+ })
+ 
+ test("marking one account with the routing handed in lists nothing at all", () => {
+@@ -285,7 +286,7 @@ test("marking one account with the routing handed in lists nothing at all", () =
+   const one = counting(root)
+   const held = bodiesIn(root)
+   expect(markedIn(root, "aine", { terminalAt: null }, one.reading, held, routing).kind).toBe("held")
+-  expect(one.seen).toEqual([])
++  expect(one.seen.filter((at) => at.startsWith("listing "))).toEqual([])
+ })
+ 
+ test("the at-limit mark is the moment handed in plus the default backoff", () => {
