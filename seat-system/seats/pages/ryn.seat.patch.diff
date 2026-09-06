@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
+index 3385eda2949b4f3bf84474564b6896d2747dde75..314e7364a874e081a08b75a7d3a0fb66e9a2048c 100644
+--- a/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
++++ b/agents/claude-accounts/modules/upkeep-stall/claude-account-upkeep-stall.module.ts
+@@ -56,7 +56,7 @@ export const claudeAccountUpkeepStall = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Every ruling states how many pages there were, how many were judged, and how many are current.",
++        "Every ruling states the count of pages and the count judged and the count current.",
+     },
+     {
+       invariantKind: "departure",
