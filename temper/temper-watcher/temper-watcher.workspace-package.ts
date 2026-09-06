@@ -47,6 +47,7 @@ export const temperWatcher = {
     "module/watcher-page-landing",
     "module/watcher-net-worth-landing",
     "module/watcher-task-landing",
+    "module/watcher-task-capture",
     "module/watcher-task-rolling",
     "module/watcher-completed-day-landing",
     "module/watcher-settings-consumables",

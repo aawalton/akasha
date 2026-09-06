@@ -1,12 +1,14 @@
 import { expect, test } from "bun:test"
 import type { SignedInReader } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
+  namesWholeTask,
+  parseTaskCompletions,
+} from "../watcher-task-capture/watcher-task-capture.module.code.ts"
+import {
   applyCompletion,
   clearCompletion,
   completionValuesFor,
   isCompleteForever,
-  namesWholeTask,
-  parseTaskCompletions,
   rolledDueDate,
   runImportTasks,
   seamsReady,
@@ -361,7 +363,9 @@ test("an import completes what it resolves, clears a zero, and reports the rest 
   )
   expect(errors).toEqual([`Task ${UNKNOWN_ID}: no such task, skipping`])
   expect(cleared).toEqual([{ day: "2024-03-14", id: "line-1" }])
-  expect(said[said.length - 1]).toBe("Task import: 1 completed, 1 cleared, 0 swept, 1 skipped.")
+  expect(said[said.length - 1]).toBe(
+    "Task import: 1 completed, 1 cleared, 0 swept, 1 skipped, 0 rolled."
+  )
 })
 
 test("a task at its cumulative cap that no completion named is swept away", async () => {
@@ -390,7 +394,9 @@ test("a task at its cumulative cap that no completion named is swept away", asyn
     })
   )
   expect(taken).toEqual(["cumulative-task"])
-  expect(said[said.length - 1]).toBe("Task import: 0 completed, 0 cleared, 1 swept, 0 skipped.")
+  expect(said[said.length - 1]).toBe(
+    "Task import: 0 completed, 0 cleared, 1 swept, 0 skipped, 0 rolled."
+  )
 })
 
 test("a recurring task completed earlier in this same day is skipped", async () => {

@@ -11,22 +11,6 @@ export const watcherImportTasks = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The task capture reaches this module as text rather than as a path.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A completion whose value is not a number is left out.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A key carrying a colon at or after its thirty-seventh character is left out.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The keys left out are reported beside the completions captured.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A task is reached by the id the addon carries and by the task's slug alike.",
     },
     {
@@ -94,8 +78,29 @@ export const watcherImportTasks = {
       statement: "A clearing that refuses skips that task rather than stopping the import.",
     },
     {
-      invariantKind: "absence",
-      statement: "No Lua is run to read the capture.",
+      invariantKind: "departure",
+      statement:
+        "A task is rolled by the progress of the account's characters rather than by a whole-task completion alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A task due beyond today is not rolled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A task stating no recurrence is not rolled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The roster a task is judged against is every character the account holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A roll moves the due date alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A roll the store refuses skips that task rather than stopping the import.",
     },
   ],
 } as const satisfies Module

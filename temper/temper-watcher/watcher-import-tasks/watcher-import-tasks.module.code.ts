@@ -4,8 +4,6 @@ import type { Row } from "@akasha/pages-service/asking"
 import { askingFor } from "@akasha/pages-service/calling"
 import { advanceRecurrenceDueDate } from "@akasha/recurrence/scheduling"
 import { isCumulativeCard } from "@akasha/temper-player-completion/completion-card-reset-behavior"
-import { readFirstAccountWide } from "@akasha/temper-saved-variables/account-wide"
-import { parseLuaSavedVariablesFile } from "@akasha/temper-saved-variables/lua-parser"
 import { asRecord } from "@akasha/utils-narrow/as-record"
 import {
   type CompletionValues,
@@ -19,12 +17,15 @@ import {
   userIdFor,
 } from "../watcher-signed-in-user/watcher-signed-in-user.module.code.ts"
 import {
+  readTaskCompletions,
+  type TaskCompletionsRead,
+} from "../watcher-task-capture/watcher-task-capture.module.code.ts"
+import {
   landTaskGone,
   landTaskValues,
   taskProgressPath,
 } from "../watcher-task-landing/watcher-task-landing.module.code.ts"
-
-export const TASKS_GLOBAL_NAME = "TemperCharacters_SavedVariables"
+import { tasksThatRoll } from "../watcher-task-rolling/watcher-task-rolling.module.code.ts"
 
 export const TASK_PAGE_TYPE_SLUG = "temper-task"
 
@@ -32,14 +33,9 @@ export const COMPLETED_DAY_PAGE_TYPE_SLUG = "temper-completed-day"
 
 export const MILLISECONDS_PER_SECOND = 1000
 
-export const SCOPE_MARK_AT = 36
+export const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
 
 export type TaskPage = Row & { id: string; slug: string }
-
-export interface ParsedTaskCompletion {
-  readonly taskId: string
-  readonly timestamp: number
-}
 
 export interface ImportTasksSeams {
   readonly now?: () => Date
@@ -108,48 +104,6 @@ export function asInstant(value: unknown): string | number | undefined {
 export function asPath(value: unknown): readonly string[] | undefined {
   if (!Array.isArray(value) || value.length === 0) return undefined
   return value.map(String)
-}
-
-export function namesWholeTask(key: string): boolean {
-  return key.indexOf(":", SCOPE_MARK_AT) < 0
-}
-
-export interface TaskCompletionsRead {
-  readonly entries: readonly ParsedTaskCompletion[]
-  readonly heldBack: number
-}
-
-// The game keys a completion it records against one character as `<taskId>:<characterId>`, and only
-// a key naming the whole task is imported. Counting what is held back tells a task no character has
-// finished apart from a task some characters have, which read alike while both imported as nothing.
-export function readTaskCompletions(content: string): TaskCompletionsRead {
-  const root = parseLuaSavedVariablesFile(content, TASKS_GLOBAL_NAME)
-  const defaultTable = asRecord(root.Default)
-  if (!defaultTable) {
-    throw new Error(`${TASKS_GLOBAL_NAME} carries no Default table`)
-  }
-  const accountWide = readFirstAccountWide(defaultTable)
-  if (!accountWide) {
-    throw new Error(
-      `no account key under ${TASKS_GLOBAL_NAME}.Default carries a $AccountWide table`
-    )
-  }
-  const completionsTable = asRecord(accountWide.completions) ?? {}
-  const entries: ParsedTaskCompletion[] = []
-  let heldBack = 0
-  for (const [key, value] of Object.entries(completionsTable)) {
-    if (typeof value !== "number") continue
-    if (!namesWholeTask(key)) {
-      heldBack++
-      continue
-    }
-    entries.push({ taskId: key, timestamp: value })
-  }
-  return { entries, heldBack }
-}
-
-export function parseTaskCompletions(content: string): readonly ParsedTaskCompletion[] {
-  return readTaskCompletions(content).entries
 }
 
 export function rolledDueDate(task: TaskPage, completedAtMs: number, at: Date): string | undefined {
@@ -313,13 +267,80 @@ export function tasksByName(tasks: readonly TaskPage[]): Map<string, TaskPage> {
   return byName
 }
 
+// A task rolls at most once a day, because a task due beyond today is waiting rather than owed.
+// Without that guard every cycle would advance the same task again.
+export async function rollOnProgress(
+  tasks: readonly TaskPage[],
+  read: TaskCompletionsRead,
+  userId: string,
+  seams: ReadySeams
+): Promise<number> {
+  const asked = await seams.ask({
+    pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
+    where: { accountPage: { is: userId } },
+  })
+  if ("refused" in asked) {
+    throw new Error(`the ${CHARACTER_PAGE_TYPE_SLUG} pages went unread — ${asked.refused}`)
+  }
+  const roster: string[] = []
+  const idBySlug = new Map<string, string>()
+  for (const row of asked.rows) {
+    const esoId = asText(row.esoCharacterId)
+    if (esoId === undefined) continue
+    roster.push(esoId)
+    const slug = asText(row.slug)
+    if (slug !== undefined) idBySlug.set(slug, esoId)
+  }
+
+  const at = seams.now()
+  const today = getEsoDayStr(at)
+  const owed = tasks.filter(
+    (task) => task.rruleRule != null && (asText(task.dueDate) ?? "9999-99-99") <= today
+  )
+  const rolling = new Set(
+    tasksThatRoll({
+      tasks: owed.map((task) => {
+        const falls = asText(task.effectiveCharacter)
+        return {
+          taskId: task.id,
+          scope: asText(task.scope),
+          effectiveCharacterId: falls === undefined ? undefined : idBySlug.get(falls),
+        }
+      }),
+      completed: read.completed,
+      progressed: read.progressed,
+      roster,
+    })
+  )
+
+  let rolled = 0
+  for (const task of owed) {
+    if (!rolling.has(task.id)) continue
+    const nextDue = rolledDueDate(task, at.getTime(), at)
+    if (nextDue === undefined) continue
+    const done = await seams.rollTask(
+      task.slug,
+      { dueDate: nextDue },
+      `temper: ${task.slug} came round again on what its characters did`
+    )
+    if (done.outcome === "refused") {
+      seams.reportError(`Task ${task.slug}: the due date did not move — ${done.why}`)
+      continue
+    }
+    seams.report(`Task ${task.slug}: rolled to ${nextDue}`)
+    rolled++
+  }
+  return rolled
+}
+
 export async function runImportTasks(
   content: string,
   supabase: SignedInReader,
   options: ImportTasksOptions = {}
 ): Promise<void> {
   const seams = seamsReady(options)
-  const { entries, heldBack } = readTaskCompletions(content)
+  const read = readTaskCompletions(content)
+  const { entries, heldBack } = read
   seams.report(
     heldBack === 0
       ? `Task import: ${entries.length} task completion(s) captured.`
@@ -384,7 +405,9 @@ export async function runImportTasks(
     seams.report(`Task ${task.slug}: cumulative cap reached, taken away`)
   }
 
+  const rolled = await rollOnProgress(tasks, read, userId, seams)
+
   seams.report(
-    `Task import: ${completed} completed, ${cleared} cleared, ${sweptForever} swept, ${skipped} skipped.`
+    `Task import: ${completed} completed, ${cleared} cleared, ${sweptForever} swept, ${skipped} skipped, ${rolled} rolled.`
   )
 }
