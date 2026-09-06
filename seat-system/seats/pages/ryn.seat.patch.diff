@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/alan/library/studying/studying.domain.ts b/alan/library/studying/studying.domain.ts
+index 3771409d022554602b5a615437a483f5f23db86c..2b269fb813363baef9a0ebdc070f9f075f9ffd70 100644
+--- a/alan/library/studying/studying.domain.ts
++++ b/alan/library/studying/studying.domain.ts
+@@ -17,7 +17,8 @@ export const studying = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A course sits under every shelf that course belongs to rather than under one.",
++      statement:
++        "A course sits under every shelf that course belongs to rather than under a single shelf.",
+     },
+   ],
+ } as const satisfies Domain
