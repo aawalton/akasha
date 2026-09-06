@@ -35,3 +35,62 @@ index 0000000000000000000000000000000000000000..893628bc83ed51a3a3901e6589ec85fe
 +    },
 +  ],
 +} as const satisfies ComputedProperty
+diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.ts b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+index 2f5bbd1b4f1844d9941251ca94173eb53c76e501..d2dd1a99ef196d4724c8f397cec5a751a24e31cf 100644
+--- a/alan/tracking/daily/wake-days/wake-day.page-type.ts
++++ b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+@@ -1,7 +1,6 @@
+ import type { Page } from "@akasha/pages/page"
+ import type { PageType } from "@akasha/pages/page-type"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+-import type { StrengthVolume } from "../../../../personas/persona-days/properties/strength-volume.number-property.ts"
+ import type { ActiveCalories } from "./properties/active-calories.number-property.ts"
+ import type { BreathingPoints } from "./properties/breathing-points.number-property.ts"
+ import type { CardioPoints } from "./properties/cardio-points.number-property.ts"
+@@ -31,6 +30,7 @@ import type { Sessions } from "./properties/sessions.page-property-entry.ts"
+ import type { SleepPoints } from "./properties/sleep-points.number-property.ts"
+ import type { SpannedFromDayBoundary } from "./properties/spanned-from-day-boundary.boolean-property.ts"
+ import type { StrengthPoints } from "./properties/strength-points.number-property.ts"
++import type { StrengthVolume } from "./properties/strength-volume.computed-property.ts"
+ import type { TaskPoints } from "./properties/task-points.number-property.ts"
+ import type { Version } from "./properties/version.text-property.ts"
+ import type { WealthPoints } from "./properties/wealth-points.number-property.ts"
+@@ -107,6 +107,7 @@ export const wakeDay = {
+     "computed-property/spend-hours",
+     "computed-property/stoplights",
+     "computed-property/strength-calories",
++    "computed-property/strength-volume",
+     "computed-property/surplus-hours",
+     "computed-property/total-level",
+     "computed-property/wealth-level",
+@@ -162,7 +163,6 @@ export const wakeDay = {
+     { pagePropertySlug: "number-property/fun-points", required: false, many: false },
+     { pagePropertySlug: "number-property/learn-points", required: false, many: false },
+     { pagePropertySlug: "number-property/strength-points", required: false, many: false },
+-    { pagePropertySlug: "number-property/strength-volume", required: false, many: false },
+     { pagePropertySlug: "number-property/cardio-points", required: false, many: false },
+     { pagePropertySlug: "number-property/nutrition-points", required: false, many: false },
+     { pagePropertySlug: "number-property/breathing-points", required: false, many: false },
+@@ -205,6 +205,7 @@ export const wakeDay = {
+     { pagePropertySlug: "page-property-entry/completed-tasks", required: false, many: false },
+     { pagePropertySlug: "computed-property/activity-calories", required: false, many: false },
+     { pagePropertySlug: "computed-property/strength-calories", required: false, many: false },
++    { pagePropertySlug: "computed-property/strength-volume", required: false, many: false },
+     { pagePropertySlug: "computed-property/faith-level", required: false, many: false },
+     { pagePropertySlug: "computed-property/love-level", required: false, many: false },
+     { pagePropertySlug: "computed-property/health-level", required: false, many: false },
+@@ -249,6 +250,14 @@ export const wakeDay = {
+       invariantKind: "departure",
+       statement: "Every day Alan tracked is a page of this type.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A day states no strength volume of its own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A day's strength volume is worked out from the sessions naming that day.",
++    },
+ 
+     {
+       invariantKind: "departure",
