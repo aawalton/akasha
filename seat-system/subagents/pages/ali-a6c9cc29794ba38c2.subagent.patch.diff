@@ -3832,13 +3832,14 @@ index 0000000000000000000000000000000000000000..f016aaf095796613969208a15c4dff68
 +} as const satisfies MasteryLevel
 diff --git a/alan/library/book-of-everything/mastery-levels/pages/reader.mastery-level.ts b/alan/library/book-of-everything/mastery-levels/pages/reader.mastery-level.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..51d2be20ceb4bf74f59580dab915c84d160261c1
+index 0000000000000000000000000000000000000000..9934e3ac2b3e54c6d5c655ac5aa92e5db1226c8a
 --- /dev/null
 +++ b/alan/library/book-of-everything/mastery-levels/pages/reader.mastery-level.ts
-@@ -0,0 +1,10 @@
+@@ -0,0 +1,11 @@
 +import type { MasteryLevel } from "../mastery-level.page-type.ts"
 +
 +export const reader = {
++  id: "01a0784a-cdb9-7771-9277-a0697fa6f3aa",
 +  pageTypeSlug: "mastery-level",
 +  slug: "reader",
 +  definition: "recognition without generation",
