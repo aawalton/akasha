@@ -33,11 +33,12 @@ export const exerciseSelect = {
     },
     {
       invariantKind: "departure",
-      statement: "Every pick is answered with the scores, features and rules behind that pick.",
+      statement: "Every pick is answered with the scores and features and rules behind that pick.",
     },
     {
       invariantKind: "departure",
-      statement: "A pick is answered with the candidates that pick beat and why each lost.",
+      statement:
+        "A pick is answered with the candidates that pick beat and why every candidate lost.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +50,7 @@ export const exerciseSelect = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes a session, a set or a plan.",
+      statement: "Nothing here writes a session or a set or a plan.",
     },
   ],
 } as const satisfies Command
