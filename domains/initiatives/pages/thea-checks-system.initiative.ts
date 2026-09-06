@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Four steps: 1 category, 2 right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero. Time a check warm: the first ask pays ~650ms every patch check shares; a fresh shadow misreads a cost 200x. Its entries jsonl holds the real cost; an audit line is mostly the tree walk. identifier-matches-its-place stays off, 3 findings. Three after it are on and green. key-names-one-property at step 2: 57 collide on `description`, no declaration can narrow a scalar.",
+        "Four steps: 1 category, 2 right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero. Time a check warm: the first ask pays ~650ms every patch check shares; a fresh shadow misreads a cost 200x. Its entries jsonl holds the real cost; an audit line is mostly the tree walk. identifier-matches-its-place stays off, 3 findings. Three after it are on and green. key-names-one-property at step 3: its reach now takes every type under a judged one; 57 collide on `description`.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
