@@ -9,5 +9,5 @@ export const changeKindSlug = {
   slug: "change-kind-slug",
   propertySlug: "change-kind-slug",
   definition: "the sort of change an act makes",
-  targetPageTypeSlug: "page-type/page-type",
+  targetPageTypeSlug: "page-type/change-kind",
 } as const satisfies RelationProperty
