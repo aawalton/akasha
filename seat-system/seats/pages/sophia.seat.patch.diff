@@ -68,3 +68,41 @@ index 4e755ebf17e52c0c65cae403ca418e95ddcc9cb3..d081cb2820ec5059c134e66f5eada556
  }
  
  export function asReadIn(given: Given, changes: readonly FileEdit[]): readonly Reading[] {
+diff --git a/command-system/landing-reading/landing-reading.module.test.ts b/command-system/landing-reading/landing-reading.module.test.ts
+index b0a5596854c57a1efee2d3d43f0edbc182ac1ef6..72a60f8791f028f596f935301467cb8db332b3ba 100644
+--- a/command-system/landing-reading/landing-reading.module.test.ts
++++ b/command-system/landing-reading/landing-reading.module.test.ts
+@@ -2,8 +2,9 @@ import { afterAll, expect, test } from "bun:test"
+ import { readFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { put } from "@akasha/testing-system/putting"
+-import { AGENT, givenIn, repoWith, scratch } from "../asking/asking.module.test-fixtures.ts"
++import { AGENT, repoWith, scratch } from "../asking/asking.module.test-fixtures.ts"
+ import type { Kind } from "../calling/calling.module.code.ts"
++import { runningOf } from "../drafting/drafting.module.code.ts"
+ import { baseOf } from "../landing/landing.module.code.ts"
+ import { blobIdOf, readingIn, sameBody } from "../reading/reading.module.code.ts"
+ import { carryLanded } from "./landing-reading.module.code.ts"
+@@ -28,13 +29,12 @@ const AUTHORED: Kind = {
+   readersOweReading: true,
+ }
+ 
+-function carriedOver(kind: Kind | null): boolean {
++function carriedOver(kind: Kind | undefined): boolean {
+   const root = repoWith()
+   const base = baseOf(root)
+   put(root, ONE_AT, AGAIN)
+   const body = readFileSync(join(root, ONE_AT))
+-  const given = kind === null ? givenIn(root) : { ...givenIn(root), changeKind: kind }
+-  carryLanded(given, base, [{ path: ONE_AT, body }], [])
++  carryLanded(root, base, runningOf(kind), [{ path: ONE_AT, body }], [])
+   return sameBody(readingIn(root, AGENT, ONE_AT), blobIdOf(body))
+ }
+ 
+@@ -47,5 +47,5 @@ test("a landing whose readers owe reading carries none, so every reader goes sta
+ })
+ 
+ test("a landing handed no change kind carries nothing", () => {
+-  expect(carriedOver(null)).toBe(false)
++  expect(carriedOver(undefined)).toBe(false)
+ })
