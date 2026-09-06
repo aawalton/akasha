@@ -1,6 +1,6 @@
 const MANIFEST_ENDING = "package.json"
 
-const OPENS = "workspaces:"
+const OPENS = "workspace:"
 
 const EVERY = "@*"
 
