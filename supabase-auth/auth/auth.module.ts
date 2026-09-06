@@ -9,7 +9,7 @@ export const auth = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every call here takes the Supabase client rather than making one.",
+      statement: "Every call here takes the Supabase client rather than making a client.",
     },
     {
       invariantKind: "absence",
