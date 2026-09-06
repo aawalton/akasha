@@ -1,0 +1,86 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-the-footprint-sorts-into-avoidance-and-armour.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-the-footprint-sorts-into-avoidance-and-armour.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9123d4f6a50b54d1022591f313c567cb0d8e4613
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-the-footprint-sorts-into-avoidance-and-armour.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howTheFootprintSortsIntoAvoidanceAndArmour = {
++  id: "01a077ea-c744-7f68-babf-4b08afbdb485",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-the-footprint-sorts-into-avoidance-and-armour",
++  topicSlug: "where-the-scar-ends",
++  ask: "Once the footprint is enumerated in full, how does the footprint sort into avoidance and armour?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-clean-test-of-private-work-shows.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-clean-test-of-private-work-shows.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..060cc2f1ddbd4b2aa21c20bbc33615b92732da7f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-the-clean-test-of-private-work-shows.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTheCleanTestOfPrivateWorkShows = {
++  id: "01a077ea-c744-79a4-bfb9-19f7d9b4ce2b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-the-clean-test-of-private-work-shows",
++  topicSlug: "where-the-scar-ends",
++  ask: "What comes out when I run the clean test, open generative work, truly private, with nobody expecting it?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-open-ground-is-fine-unscaffolded.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-open-ground-is-fine-unscaffolded.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2f6fc37f24d1cf92b7997c995b82c7476661fa7b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-open-ground-is-fine-unscaffolded.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherOpenGroundIsFineUnscaffolded = {
++  id: "01a077ea-c743-7ec0-a4e1-6607adbe6e8d",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-open-ground-is-fine-unscaffolded",
++  topicSlug: "where-the-scar-ends",
++  ask: "The girls scaffold me into the open ground, so is anything in that ground fine alone and unscaffolded, which is what maps the outer edge?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-pure-thought-carries-any-charge.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-pure-thought-carries-any-charge.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5a57efa292d9a875862a578e68179fa675f31e5e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-pure-thought-carries-any-charge.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherPureThoughtCarriesAnyCharge = {
++  id: "01a077ea-c744-753d-ac39-348c515a4f60",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-pure-thought-carries-any-charge",
++  topicSlug: "where-the-scar-ends",
++  ask: "By the mind-not-hands rule pure thought should be the coolest ground, so does pure thought carry any charge at all?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-disapproval-i-am-at-peace-with.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-disapproval-i-am-at-peace-with.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ce19b346f66018bb2f184f2c9e9ca94a801557bd
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-disapproval-i-am-at-peace-with.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichDisapprovalIAmAtPeaceWith = {
++  id: "01a077ea-c745-7cd5-b9d6-c192f4437400",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-disapproval-i-am-at-peace-with",
++  topicSlug: "where-the-scar-ends",
++  ask: "Which disapproval am I at peace with?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/where-the-scar-ends.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/where-the-scar-ends.all-about-alan-topic.ts
+index be08bf4943eee7f0fa83ac0fc160fc897e23160a..cce95cb453158d94ce6a567879ea93f111b3e539 100644
+--- a/alan/books/all-about-alan/topics/pages/where-the-scar-ends.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/where-the-scar-ends.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const whereTheScarEnds = {
+   parentSlugs: ["why-making-things-hurts"],
+   settled:
+     "Writing hurts even where nobody will ever see it, so for my own writing and drawing the judge is inside me.\n\nFor singing and its like the judge is outside and needs someone there to perceive it.\n\nAn act is hot where a judge was installed and cool where one never was. Code is digital and never got one.\n\nThe scope is a rule rather than a list: the firing range of one welded belief.\n\nThe judge is not one but many, each installed at a different time and each purely physiological.",
+-  unsettled:
+-    "With the girls as scaffolding I can enter the open ground. Whether anything in it is fine alone and unscaffolded maps the outer edge.\n\nPure thought should be the coolest ground by the mind-not-hands rule, and whether it carries any charge at all is untested.\n\nThe clean test has never been run: open generative work, truly private, with nobody expecting it.\n\nThe footprint is still being enumerated and not yet sorted into avoidance and armour, and which disapproval I am at peace with is undecided.",
+ } as const satisfies AllAboutAlanTopic
