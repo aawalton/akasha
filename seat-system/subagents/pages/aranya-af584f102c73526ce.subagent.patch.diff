@@ -1,3 +1,17 @@
+diff --git a/service-system/secrets/pages/agent-adhoc-password-password.secret.ts b/service-system/secrets/pages/agent-adhoc-password-password.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4e53a06bb431045f07a26b3787458eade3e98e0c
+--- /dev/null
++++ b/service-system/secrets/pages/agent-adhoc-password-password.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const agentAdhocPasswordPassword = {
++  id: "01a0769a-e488-7179-af30-f7d7a1a749d3",
++  pageTypeSlug: "secret",
++  slug: "agent-adhoc-password-password",
++  placements: [{ resourceName: "agent-adhoc-password", resourceKey: "password" }],
++} as const satisfies Secret
 diff --git a/service-system/secrets/pages/grafana-ro-password-password.secret.ts b/service-system/secrets/pages/grafana-ro-password-password.secret.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..44e185dfbaae568481f13c0645b408e6b54e1214
