@@ -1,14 +1,13 @@
-import type { NamedFileProperty } from "@akasha/pages/named-file-property"
+import type { FileProperty } from "@akasha/pages/file-property"
 
 export type Addressed = "ts"
 
 export const addressed = {
-  id: "01a077c2-e56c-7a83-b853-f1e2a316e26f",
-  pageTypeSlug: "named-file-property",
+  id: "01a077c9-302e-73d9-ab09-7e86e4854566",
+  pageTypeSlug: "file-property",
   slug: "addressed",
   propertySlug: "addressed",
   definition: "the type binding each change address to that change's own arguments",
-  fileName: "addressed.d.ts",
   machineWritten: true,
   runsFileLength: false,
   invariants: [
@@ -22,10 +21,6 @@ export const addressed = {
     },
     {
       invariantKind: "departure",
-      statement: "TypeScript reads a name ending `.d.ts` as a declaration.",
-    },
-    {
-      invariantKind: "departure",
       statement: "The map binds an address to the arguments the change takes.",
     },
     {
@@ -34,11 +29,15 @@ export const addressed = {
     },
     {
       invariantKind: "departure",
+      statement: "A runner reads the map as a type rather than as a way to reach a change.",
+    },
+    {
+      invariantKind: "departure",
       statement: "An address the map does not hold is refused where that address is written.",
     },
     {
       invariantKind: "absence",
-      statement: "A compiler emits nothing from the map.",
+      statement: "Nothing the map holds survives into the code that runs.",
     },
   ],
-} as const satisfies NamedFileProperty
+} as const satisfies FileProperty

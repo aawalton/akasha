@@ -1,6 +1,6 @@
 import type { Module } from "../../code-system/modules/module.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
-import type { Addressed } from "./properties/addressed.named-file-property.ts"
+import type { Addressed } from "./properties/addressed.file-property.ts"
 
 export type ChangeRunner = Module & {
   addressed: Addressed
@@ -12,9 +12,9 @@ export const changeRunner = {
   slug: "change-runner",
   definition: "a module running a change named by the address that change is filed under",
   pluralSlug: "change-runners",
-  partSlugs: ["named-file-property/addressed"],
+  partSlugs: ["change-runner/change-running", "file-property/addressed"],
   extendsSlug: ["page-type/module"],
-  properties: [{ pagePropertySlug: "named-file-property/addressed", required: true, many: false }],
+  properties: [{ pagePropertySlug: "file-property/addressed", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",
