@@ -59,3 +59,44 @@ index ea2fcd70487da4ad03ff4c7f7bb6b9717b912479..59cefc682092aad9cd8634bc70f7c4ce
  }
  
  export type PageTypeReading = {
+diff --git a/pages/access/answer/answer.module.ts b/pages/access/answer/answer.module.ts
+index ed0dbfa99f634c7e9d3815fbc2eb5dd13fe03050..1dae9f1144f48ba4a9524389493e1aac1132c680 100644
+--- a/pages/access/answer/answer.module.ts
++++ b/pages/access/answer/answer.module.ts
+@@ -33,7 +33,20 @@ export const answer = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A roster that will not read is answered 501 carrying the reason that roster went unread.",
++        "A listing whose roster will not read is answered 501 carrying the reason that roster went unread.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The roster names every page type `@akasha/pages-service` holds pages for.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A roster entry carries that page type's slug alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A roster that will not read is answered 503 carrying the reason that roster went unread.",
+     },
+     {
+       invariantKind: "departure",
+@@ -43,13 +56,9 @@ export const answer = {
+       invariantKind: "absence",
+       statement: "An unanswered question is never reported as a page type holding nothing.",
+     },
+-    {
+-      invariantKind: "gap",
+-      statement: "The roster route refuses at 501.",
+-    },
+     {
+       invariantKind: "absence",
+-      statement: "`@akasha/pages-service` names no repository and no glob for a page type's pages.",
++      statement: "A roster entry names no repository and no glob.",
+     },
+   ],
+ } as const satisfies Module
