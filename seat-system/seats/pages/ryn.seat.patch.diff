@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-companions-addon/companions-config/companions-config.lua-module.ts b/temper/temper-companions-addon/companions-config/companions-config.lua-module.ts
+index 83a50cc3e6180807da1d2697f186bc280685f027..013969177e1ef53f502c9bacc38382e7177767d5 100644
+--- a/temper/temper-companions-addon/companions-config/companions-config.lua-module.ts
++++ b/temper/temper-companions-addon/companions-config/companions-config.lua-module.ts
+@@ -16,7 +16,7 @@ export const companionsConfig = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The game loads the file before the compiled add-on rather than compiling the two as one.",
++        "The game loads the file before the compiled add-on rather than compiling the two together.",
+     },
+   ],
+ } as const satisfies LuaModule
