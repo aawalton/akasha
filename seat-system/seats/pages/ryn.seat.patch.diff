@@ -1,5 +1,5 @@
 diff --git a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
-index d637d9be9f66b0a14f75bb0cfcc146608b1e9789..af0f42c11f5b68d069beec698de41fd719bb27b9 100644
+index d637d9be9f66b0a14f75bb0cfcc146608b1e9789..043fd7cfdecf1a5485da6e590c2a6832b40d77c5 100644
 --- a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
 +++ b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
 @@ -10,7 +10,8 @@ export const renamePropertySignature = {
@@ -34,3 +34,13 @@ index d637d9be9f66b0a14f75bb0cfcc146608b1e9789..af0f42c11f5b68d069beec698de41fd7
      },
      {
        invariantKind: "departure",
+@@ -41,8 +43,7 @@ export const renamePropertySignature = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement:
+-        "A body reaching the type through a re-export is out of reach, and `no-re-export` bars one.",
++      statement: "A body reaching the type through a re-export is out of reach.",
+     },
+   ],
+ } as const satisfies AtomicChange
