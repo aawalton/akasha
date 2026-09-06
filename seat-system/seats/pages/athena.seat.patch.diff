@@ -1,0 +1,36 @@
+diff --git a/command-system/commands/index/index.command.code.ts b/command-system/commands/index/index.command.code.ts
+index 30cc08ecd57a5838a7fc73f5dcab829d40d8151a..d95b74ae0fd956d84b64fabca32d53b463b04308 100644
+--- a/command-system/commands/index/index.command.code.ts
++++ b/command-system/commands/index/index.command.code.ts
+@@ -108,7 +108,7 @@ function refreshing(root: string, read: { dryRun: boolean }): Answer {
+     driftSaid(said.drift),
+   ]
+   if (said.swept.length > 0) {
+-    report.push(`${counted(said.swept.length, "path")} belonging to no index was taken away`)
++    report.push(`took away ${counted(said.swept.length, "path")} belonging to no index`)
+   }
+   report.push(
+     read.dryRun
+diff --git a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+index 8fca946c3cafd47a938bdc769e115ed9775f6b85..74be747d79901526084bac2405dadd7b7d26c3c0 100644
+--- a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
++++ b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+@@ -41,17 +41,7 @@ export const athenaCommandsAtTheRoot = {
+     {
+       statement: "An index written as changes land matches what a rebuild would write.",
+       workingMemory:
+-        "A refresh over 5e6b09d17d added 30933 files, changed none and took 24 away: the gap the 09:36 outage left, when the index could not read its own page types and every settle under-wrote. Repaired, it held for one landing. Fourteen hours of swarm later a refresh over d68a11cd26 read 9 files missing, 2 wrong and 175 the pages no longer imply, so the settle leaves entries behind as pages move. Nothing measures this between rebuilds and nothing fails as it grows.",
+-    },
+-    {
+-      statement: "The index holds no folder left behind by a design that is gone.",
+-      workingMemory:
+-        "`.git/data/index.refreshing.1863013`, `.3338665` and `.3668113` hold 1.11 million files over 4.5 GiB, and `.git/data/index.replaced.1989829` 168450 files over 704 MiB. Aranya took the build-beside design out at 958d7455c9 and fdd2ee2f67 on 2026-09-05, which orphaned all four; the rebuild repairs in place now and makes none. No command reaps them, and `block-akasha-shell-writes` refuses any `rm` under `.git/data`, so no agent can take them away.",
+-    },
+-    {
+-      statement: "The index tells a reader which commit that index describes.",
+-      workingMemory:
+-        "`.git/data/index/stamp.jsonl` names commit 366080ef, unchanged since 09:58 on 2026-09-05 and 12842 behind HEAD at d68a11cd26. The file was rewritten at 18:00 and grew, yet no file at HEAD writes it: 958d7455c9 deleted the stamp module and fdd2ee2f67 took the stamp out of the rebuild. So the writer is outside the tree and its commit has not moved.`data-watching.module.code.ts` is the one reader left, refreshing the editor's work-tree, domain-tree and page-tree only when that file changes.",
++        "A refresh over 44ac2d3df9 read 0 files missing, 0 wrong and 4 the pages no longer imply, over 70169 pages and 537303 entries. A day earlier one over d68a11cd26 read 9 missing, 2 wrong and 175 stale, and one over 5e6b09d17d added 30933 after the 09:36 outage left the index unable to read its own page types. So the settle leaves entries behind as pages move. Nothing measures this between rebuilds and nothing fails as it grows.",
+     },
+   ],
+   constraints: [
