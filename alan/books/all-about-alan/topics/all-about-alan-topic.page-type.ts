@@ -54,11 +54,11 @@ export const allAboutAlanTopic = {
     },
     {
       invariantKind: "departure",
-      statement: "A topic sits under another topic or under none.",
+      statement: "A topic sits under another topic or under no topic.",
     },
     {
       invariantKind: "departure",
-      statement: "One topic sits under none.",
+      statement: "Exactly one topic sits under no topic.",
     },
     {
       invariantKind: "departure",
