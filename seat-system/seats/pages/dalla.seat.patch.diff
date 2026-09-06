@@ -1,0 +1,13 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/command-system/commands/properties/change-kind-slug.relation-property.ts b/command-system/commands/properties/change-kind-slug.relation-property.ts
+index 95092c9f688862fbb5d5dc1bba9da5b51193a3b6..a1f958f2a36f8eeab4b8a8476146bf4d328cad37 100644
+--- a/command-system/commands/properties/change-kind-slug.relation-property.ts
++++ b/command-system/commands/properties/change-kind-slug.relation-property.ts
+@@ -9,5 +9,5 @@ export const changeKindSlug = {
+   slug: "change-kind-slug",
+   propertySlug: "change-kind-slug",
+   definition: "the sort of change an act makes",
+-  targetPageTypeSlug: "page-type/change-kind",
++  targetPageTypeSlug: "page-type/page-type",
+ } as const satisfies RelationProperty
