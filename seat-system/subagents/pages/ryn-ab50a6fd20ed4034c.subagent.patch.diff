@@ -1,14 +1,20 @@
 runsWarrants: false
 diff --git a/readout-system/readout-serving/readout-serving.module.ts b/readout-system/readout-serving/readout-serving.module.ts
-index cf15db855e804e7e0680ab0975d68e12baf9d8ba..f6a02e6d06c74733c9d6701aadf7d82ef71663ad 100644
+index cf15db855e804e7e0680ab0975d68e12baf9d8ba..f3fbfa93001155d002a2a6dbab8c2ecc2f5c6e46 100644
 --- a/readout-system/readout-serving/readout-serving.module.ts
 +++ b/readout-system/readout-serving/readout-serving.module.ts
-@@ -30,7 +30,7 @@ export const readoutServing = {
+@@ -30,11 +30,12 @@ export const readoutServing = {
      },
      {
        invariantKind: "departure",
 -      statement: "The count answered is the reading carried in rather than one taken here.",
 +      statement: "The count answered is the reading carried in rather than a reading taken here.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reading older than the window is answered as none rather than as a count.",
++      statement:
++        "A reading older than the window is answered as no reading rather than as a count.",
      },
      {
        invariantKind: "departure",
