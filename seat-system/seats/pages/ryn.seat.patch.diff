@@ -1,8 +1,17 @@
 readersOweReading: false
 diff --git a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
-index 1977feb1291d4009b1a84838b58cd36607b8ad6f..f22323d4fc1ac0f478b18bb47e6c479e34d2a78b 100644
+index 1977feb1291d4009b1a84838b58cd36607b8ad6f..5571107628027a6e957fdc93618438c0ac9024a0 100644
 --- a/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
 +++ b/agents/claude-accounts/modules/account-upkeep-stall-reading/account-upkeep-stall-reading.module.ts
+@@ -14,7 +14,7 @@ export const accountUpkeepStallReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Upkeep says nothing when it dies.",
++      statement: "Upkeep says nothing when upkeep dies.",
+     },
+     {
+       invariantKind: "departure",
 @@ -28,7 +28,7 @@ export const accountUpkeepStallReading = {
      {
        invariantKind: "departure",
