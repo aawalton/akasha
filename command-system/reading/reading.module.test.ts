@@ -354,9 +354,20 @@ test("a reach that is no whole line count is no reach", () => {
   }
 })
 
-test("a mechanical change carries how far into the body the agent had read", () => {
+test("a carry moves how far into the body the agent had read", () => {
   const held = { path: A, oid: "one", seenAt: 1, carriedOid: "two", readThrough: 9 }
   const carried = carriedInto(held, { was: A, now: B, from: "two" }, "three")
   expect(carried?.readThrough).toBe(9)
   expect(sameBody(carried, "three")).toBe(false)
+})
+
+test("a line the record already holds answers under the key that line was written with", () => {
+  const root = scratch.rootFor("akasha-reading-")
+  const was = { path: A, oid: "one", seenAt: 1 }
+  thinAt(root, A, { ...was, mechanicalOid: "two" })
+  expect(sameBody(readingIn(root, AGENT, A), "two")).toBe(true)
+  thinAt(root, A, { ...was, carriedOid: null, mechanicalOid: "two" })
+  expect(sameBody(readingIn(root, AGENT, A), "two")).toBe(true)
+  thinAt(root, A, { ...was, carriedOid: "three", mechanicalOid: "two" })
+  expect(sameBody(readingIn(root, AGENT, A), "three")).toBe(true)
 })
