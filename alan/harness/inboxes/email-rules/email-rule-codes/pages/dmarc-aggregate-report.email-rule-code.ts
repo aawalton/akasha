@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../person-system/people/email/email-rules/email-rule-codes/email-rule-code.page-type.ts"
+import type { EmailRuleCode } from "../../../../../../person-system/people/email/email-rules/codes/email-rule-code.page-type.ts"
 
 export const dmarcAggregateReport = {
   id: "01a06860-54a2-75dd-8a60-688dd2cc3423",

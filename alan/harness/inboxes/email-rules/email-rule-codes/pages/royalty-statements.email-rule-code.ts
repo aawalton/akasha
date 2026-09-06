@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../person-system/people/email/email-rules/email-rule-codes/email-rule-code.page-type.ts"
+import type { EmailRuleCode } from "../../../../../../person-system/people/email/email-rules/codes/email-rule-code.page-type.ts"
 
 export const royaltyStatements = {
   id: "01a06860-54a2-78b9-a6cf-5d156dc4de7b",

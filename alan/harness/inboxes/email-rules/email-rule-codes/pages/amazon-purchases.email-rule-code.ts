@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../person-system/people/email/email-rules/email-rule-codes/email-rule-code.page-type.ts"
+import type { EmailRuleCode } from "../../../../../../person-system/people/email/email-rules/codes/email-rule-code.page-type.ts"
 
 export const amazonPurchases = {
   id: "01a06860-54a1-72fd-8bcb-6ab142ea4831",

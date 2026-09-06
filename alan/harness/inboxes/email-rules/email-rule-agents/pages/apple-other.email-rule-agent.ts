@@ -1,4 +1,4 @@
-import type { EmailRuleAgent } from "../../../../../../person-system/people/email/email-rules/email-rule-agents/email-rule-agent.page-type.ts"
+import type { EmailRuleAgent } from "../../../../../../person-system/people/email/email-rules/agents/email-rule-agent.page-type.ts"
 
 export const appleOther = {
   id: "01a06863-fbe8-7c84-b0f0-7ed6cc900bef",

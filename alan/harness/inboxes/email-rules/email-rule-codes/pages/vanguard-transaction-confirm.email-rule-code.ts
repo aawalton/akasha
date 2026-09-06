@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../person-system/people/email/email-rules/email-rule-codes/email-rule-code.page-type.ts"
+import type { EmailRuleCode } from "../../../../../../person-system/people/email/email-rules/codes/email-rule-code.page-type.ts"
 
 export const vanguardTransactionConfirm = {
   id: "01a06860-54a2-7564-ae67-fb1830491d30",

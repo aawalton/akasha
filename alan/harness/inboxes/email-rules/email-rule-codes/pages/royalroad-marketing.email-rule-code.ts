@@ -1,4 +1,4 @@
-import type { EmailRuleCode } from "../../../../../../person-system/people/email/email-rules/email-rule-codes/email-rule-code.page-type.ts"
+import type { EmailRuleCode } from "../../../../../../person-system/people/email/email-rules/codes/email-rule-code.page-type.ts"
 
 export const royalroadMarketing = {
   id: "01a06860-54a2-7ed1-a11d-0ecb41f0a11d",
