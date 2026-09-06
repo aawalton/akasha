@@ -1,3 +1,20 @@
+diff --git a/service-system/secrets/pages/grafana-ro-password-password.secret.ts b/service-system/secrets/pages/grafana-ro-password-password.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..44e185dfbaae568481f13c0645b408e6b54e1214
+--- /dev/null
++++ b/service-system/secrets/pages/grafana-ro-password-password.secret.ts
+@@ -0,0 +1,11 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const grafanaRoPasswordPassword = {
++  id: "01a0769a-a7e7-7c45-adb1-ad104f4a8ca0",
++  pageTypeSlug: "secret",
++  slug: "grafana-ro-password-password",
++  placements: [
++    { resourceName: "grafana-ro-password", resourceKey: "password" },
++    { resourceName: "grafana-secrets", resourceKey: "GRAFANA_DB_RO_PASSWORD" },
++  ],
++} as const satisfies Secret
 diff --git a/service-system/secrets/pages/postgres-cnpg-superuser-password.secret.ts b/service-system/secrets/pages/postgres-cnpg-superuser-password.secret.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..fea1425afcd0b9b65b0245b5814649572655027f
