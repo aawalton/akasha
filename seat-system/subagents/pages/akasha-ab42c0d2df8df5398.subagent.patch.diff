@@ -1,0 +1,38 @@
+diff --git a/code-system/ios-apps/app-building/app-building.module.test.ts b/code-system/ios-apps/app-building/app-building.module.test.ts
+index cd8d29eda93ce667de550ee56a5f30c0348b4c2d..4e85faf997cc78633f22d0db642d1f24455045d5 100644
+--- a/code-system/ios-apps/app-building/app-building.module.test.ts
++++ b/code-system/ios-apps/app-building/app-building.module.test.ts
+@@ -1,7 +1,7 @@
+ import { afterAll, expect, test } from "bun:test"
+ import { join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { listedFiled } from "@akasha/indexes/testing"
++import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+ import { put } from "@akasha/testing-system/putting"
+ import { planFor, SHARED_PATHS } from "./app-building.module.code.ts"
+ 
+diff --git a/command-system/calling/calling.module.test-fixtures.ts b/command-system/calling/calling.module.test-fixtures.ts
+index b5df9847c34ce114e8f6d195c229abaefe6cfb22..318c68630cfb4634a03d77ebaa3e4a398db5e688 100644
+--- a/command-system/calling/calling.module.test-fixtures.ts
++++ b/command-system/calling/calling.module.test-fixtures.ts
+@@ -1,6 +1,6 @@
+ import { mkdirSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+-import { idFiled, listedFiled, noneOfTypeFiled } from "@akasha/indexes/testing"
++import { idFiled, listedFiled, noneOfTypeFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+ import { exportedAs } from "@akasha/pages/page-export-name"
+ import { scratchWorld } from "../scratching/scratching.module.code.ts"
+ import type { Surface } from "./calling.module.code.ts"
+diff --git a/command-system/cli/cli.module.test.ts b/command-system/cli/cli.module.test.ts
+index f74bfa88892c3b651204cea38b8fef4c6b97e831..3771a4f6b46243f804194971481251c7d61e0e05 100644
+--- a/command-system/cli/cli.module.test.ts
++++ b/command-system/cli/cli.module.test.ts
+@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
+ import { writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { indexNamed } from "@akasha/indexes"
+-import { idFiled, listedFiled } from "@akasha/indexes/testing"
++import { idFiled, listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+ import { CLAUDE_AUTHOR, forgetCommitAuthor } from "../commit-author/commit-author.module.code.ts"
+ import { MARKED } from "../rooting/rooting.module.code.ts"
+ import { scratchWorld } from "../scratching/scratching.module.code.ts"
