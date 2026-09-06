@@ -1,0 +1,37 @@
+diff --git a/seat-system/seat-relaunch-target/seat-relaunch-target.module.code.ts b/seat-system/seat-relaunch-target/seat-relaunch-target.module.code.ts
+index f9aad3222d412f606002fcf0370bef9b5214bef5..8f915de30be50602c62cf94a64e9504d317e55ff 100644
+--- a/seat-system/seat-relaunch-target/seat-relaunch-target.module.code.ts
++++ b/seat-system/seat-relaunch-target/seat-relaunch-target.module.code.ts
+@@ -1,4 +1,5 @@
+ import { resolveRoots } from "@akasha/pages/checkout-roots"
++import { recordedModeOf } from "../seat-attributes/seat-attributes.module.code.ts"
+ import {
+   frontmatterFromHistory,
+   nameFromHistory,
+@@ -17,6 +18,7 @@ export interface RelaunchTarget {
+   readonly account: string | null
+   readonly presence: SeatPresence
+   readonly sessionId: string | null
++  readonly mode: string | null
+ }
+ 
+ function textAt(frontmatter: Record<string, unknown> | null, key: string): string | null {
+@@ -33,6 +35,7 @@ function fromHistory(agentId: string): RelaunchTarget | null {
+     account: textAt(frontmatterFromHistory(agentId, roots), ACCOUNT_KEY),
+     presence: "absent",
+     sessionId: null,
++    mode: null,
+   }
+ }
+ 
+@@ -56,6 +59,10 @@ export async function resolveRelaunchTarget(
+       // id rather than read off whichever page happened to be found.
+       presence: agentPresence(agentId),
+       sessionId: sessionOf(agentId)?.value ?? null,
++      // THE MODE IS THE ONE THE PAGE STATES, AND NOTHING IS GUESSED FOR A PAGE STATING NONE. A
++      // relaunch puts a seat back in the mode the seat says it starts in, so a mode read as
++      // nothing here is one the caller falls back from rather than one this answers.
++      mode: recordedModeOf(agentId)?.value ?? null,
+     },
+   }
+ }
