@@ -57,3 +57,15 @@ index 4fcb32d72c06bf2bbea2bf84874823b40921b425..c853bdad1b3a4b004d5aa4a8ce3ffa26
    viewPlace: 2,
    layout: "cards",
    narrows: [{ key: "status", comparison: "is", values: ["Completed"] }],
+diff --git a/pages/views/pages/anime-and-shows-to-watch.view.ts b/pages/views/pages/anime-and-shows-to-watch.view.ts
+index 7d6777606aa99a7310bea0844e637e5db9699457..1529798983b0b461cc1369546e7a531356474afc 100644
+--- a/pages/views/pages/anime-and-shows-to-watch.view.ts
++++ b/pages/views/pages/anime-and-shows-to-watch.view.ts
+@@ -6,6 +6,7 @@ export const animeAndShowsToWatch = {
+   slug: "anime-and-shows-to-watch",
+   title: "To Watch",
+   navSlug: "anime-and-shows",
++  pageType: "ki-show",
+   viewPlace: 1,
+   layout: "cards",
+   narrows: [{ key: "status", comparison: "is", values: ["Not Started"] }],
