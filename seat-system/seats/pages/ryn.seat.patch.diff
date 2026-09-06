@@ -1,0 +1,18 @@
+diff --git a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
+index bf1e5617bada3460773a2553d5f6734fbf7e2964..6e45cd7bcb134871728964fb6ebe7561baf60131 100644
+--- a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.ts
+@@ -14,8 +14,11 @@ export const renameExport = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A page's export is its slug, and renaming that is a slug rename rather than this.",
++      statement: "A page's export is its slug.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Renaming a page's export is a slug rename rather than an export rename.",
+     },
+ 
+     {
