@@ -9,7 +9,7 @@ export const inferEndpoint = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The address is the one the cluster gives the service inside itself.",
+      statement: "The address is the address the cluster gives the service inside itself.",
     },
     {
       invariantKind: "departure",
