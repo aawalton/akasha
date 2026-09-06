@@ -328,3 +328,17 @@ index 0000000000000000000000000000000000000000..afe0f4064b6f3cb379470362b3b4edde
 +  slug: "collections-secrets-viz-username",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "VIZ_USERNAME" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-webhook-password.secret.ts b/service-system/secrets/pages/collections-secrets-webhook-password.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f5d309364f482d4f24e7e9c9585f008daea5465b
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-webhook-password.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsWebhookPassword = {
++  id: "01a076b8-4b7a-7e86-8e23-ac0eae44c529",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-webhook-password",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "WEBHOOK_PASSWORD" }],
++} as const satisfies Secret
