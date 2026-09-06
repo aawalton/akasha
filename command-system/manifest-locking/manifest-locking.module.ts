@@ -19,11 +19,11 @@ export const manifestLocking = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest is one named `package.json` at the root or under a folder.",
+      statement: "A manifest is a file named `package.json` at the root or under a folder.",
     },
     {
       invariantKind: "departure",
-      statement: "A manifest arriving and one going are the same event here.",
+      statement: "A manifest arriving and a manifest going are the same event here.",
     },
     {
       invariantKind: "departure",
@@ -90,7 +90,7 @@ export const manifestLocking = {
     {
       invariantKind: "departure",
       statement:
-        "A lockfile the install makes again says the commit carries one its manifests do not warrant.",
+        "A lockfile the install makes again says the commit carries a lockfile its manifests do not warrant.",
     },
     {
       invariantKind: "departure",
@@ -100,7 +100,7 @@ export const manifestLocking = {
     {
       invariantKind: "departure",
       statement:
-        "A link inside a folder under `node_modules` is reached as one directly under `node_modules` is.",
+        "A link inside a folder under `node_modules` is reached as a link directly under `node_modules` is.",
     },
     {
       invariantKind: "departure",
