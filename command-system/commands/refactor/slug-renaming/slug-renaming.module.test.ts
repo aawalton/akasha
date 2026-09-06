@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Listed } from "@akasha/indexes"
-import { pairFor, passedOn } from "./slug-renaming.module.code.ts"
+import { pairFor } from "./slug-renaming.module.code.ts"
 
 const AT = "akasha/one/held.thing.ts"
 
@@ -32,26 +32,4 @@ test("an index that will not answer refuses, and so does an address two pages an
   expect("refused" in thrown ? thrown.refused : "").toBe("the index is not there")
   const two = pairFor("thing/held", "renamed", () => [...HELD, { path: AT, id: AAAA }])
   expect("refused" in two ? two.refused : "").toContain("2 pages carry")
-})
-
-test("the flags a call said are carried on but for the two naming the page", () => {
-  const pair = { from: AT, to: THERE, was: "held" }
-  const rest = ["--from", "thing/held", "--to", "renamed", "--dry-run"]
-  expect(passedOn(pair, "renamed", rest)).toEqual([
-    "--from",
-    AT,
-    "--to",
-    THERE,
-    "--dry-run",
-    "--message",
-    "rename the page `held` to `renamed`",
-  ])
-  expect(passedOn(pair, "renamed", ["--message", "said"])).toEqual([
-    "--from",
-    AT,
-    "--to",
-    THERE,
-    "--message",
-    "said",
-  ])
 })

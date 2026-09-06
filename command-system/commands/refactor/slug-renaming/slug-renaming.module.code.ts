@@ -2,8 +2,6 @@ import { basename, dirname, join } from "node:path"
 import type { Listed } from "@akasha/indexes"
 import { addressIn } from "@akasha/pages/page-address"
 import { besideRenamed } from "../../move/renaming/move-renaming.module.code.ts"
-import { MESSAGE, MESSAGE_FILE } from "../../write/write.command.code.ts"
-import { FROM, TO } from "../arguing/refactor-arguing.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -51,19 +49,4 @@ export function pairFor(
   const renaming = { id: one.id, was: slug, now, pageTypeSlug }
   const to = join(dirname(one.path), besideRenamed(basename(one.path), renaming))
   return { pair: { from: one.path, to, was: slug } }
-}
-
-export function passedOn(pair: Pair, now: string, rest: readonly string[]): readonly string[] {
-  const said = [FROM, pair.from, TO, pair.to]
-  for (let at = 0; at < rest.length; at = at + 1) {
-    const one = rest[at]
-    if (one === undefined) break
-    if (one === FROM || one === TO) {
-      at = at + 1
-      continue
-    }
-    said.push(one)
-  }
-  if (said.includes(MESSAGE) || said.includes(MESSAGE_FILE)) return said
-  return [...said, MESSAGE, `rename the page \`${pair.was}\` to \`${now}\``]
 }

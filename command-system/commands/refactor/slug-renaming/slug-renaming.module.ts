@@ -37,14 +37,6 @@ export const slugRenaming = {
       statement: "A file arriving under the new slug keeps the tail that file already carries.",
     },
     {
-      invariantKind: "departure",
-      statement: "The flags a call said are carried on but for the two naming the page.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A call saying no message is carried on with a message naming the rename.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here reads the index or the disk.",
     },
