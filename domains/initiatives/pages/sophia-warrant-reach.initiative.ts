@@ -10,6 +10,8 @@ export const sophiaWarrantReach = {
     {
       statement:
         "A change kind states separately what its writer owes and what its landing stales for others.",
+      workingMemory:
+        "Both halves exist; neither is on the kind. The first is `runsWarrants`, which warranting states as `Warrants apply to an authored change alone`, so restated owing nothing is that line rather than a decision. The second is no flag at all: `carryReadings` is called from four hand-written sites, three in refactor and one in move, so only a mechanical change spares its readers, and `replace` at change-checked stales the fleet. Reading carries nine invariants and a `mechanicalOid` field named for the kind.",
     },
   ],
 } as const satisfies Initiative
