@@ -104,3 +104,17 @@ index 0000000000000000000000000000000000000000..cc37436efb0c4ea77cadd63d5b084ee7
 +  slug: "collections-secrets-notion-collections-token",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "NOTION_COLLECTIONS_TOKEN" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-port.secret.ts b/service-system/secrets/pages/collections-secrets-port.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f7c65f291ab3d66c8309926441539e7295bad3dd
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-port.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsPort = {
++  id: "01a076b6-cc30-7f50-a192-1a2a0a2dd04e",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-port",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "PORT" }],
++} as const satisfies Secret
