@@ -1,0 +1,17 @@
+diff --git a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.ts b/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.ts
+index 12c5d45ba393a3371c57b4127a85f9755ab1af03..06138572074b768d839d4f0e7b7fd8cfc05f50f5 100644
+--- a/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.ts
++++ b/seat-system/terminal-init/terminal-entry-points/terminal-entry-points.module.ts
+@@ -14,7 +14,11 @@ export const terminalEntryPoints = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The checkout is whatever the environment names, falling back to the one at home.",
++      statement: "The checkout is whatever the environment names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The checkout at home is used where the environment names no checkout.",
+     },
+     {
+       invariantKind: "departure",
