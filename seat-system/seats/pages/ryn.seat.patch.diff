@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts b/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
+index 05a2f6be64901df7ee080244a38538a697ad3c04..c439ae1e9706f1fc439cc6f9f04c0b22355a46f8 100644
+--- a/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
++++ b/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
+@@ -9,7 +9,7 @@ export const monarchTransactionCreate = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A transaction of zero is refused, because that transaction moves no budget.",
++      statement: "A transaction of zero is refused.",
+     },
+     {
+       invariantKind: "departure",
