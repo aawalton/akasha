@@ -85,6 +85,7 @@ const LOAD: Readonly<Record<string, () => Promise<{ readonly main: Ran }>>> = {
 const CALLED: ReadonlySet<string> = new Set([
   "agent-forest",
   "claude-usage",
+  "seat-messaged",
   "seat-transcripts",
   "work-tree",
 ])
