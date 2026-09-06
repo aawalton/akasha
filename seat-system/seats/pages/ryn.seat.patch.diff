@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/observation-store/observation-store.module.ts b/editor-extension/observation-store/observation-store.module.ts
+index 786725b2dd8dd8b372140f73aee3236b385ddfdd..6ab9f293d1255b88ee9eb6da8a05089b36903a1c 100644
+--- a/editor-extension/observation-store/observation-store.module.ts
++++ b/editor-extension/observation-store/observation-store.module.ts
+@@ -23,7 +23,7 @@ export const observationStore = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Writes run one after another rather than at once.",
++      statement: "Writes run in turn rather than at once.",
+     },
+     {
+       invariantKind: "departure",
