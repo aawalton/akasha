@@ -186,7 +186,7 @@ export function CompanionsDataContent({
               { key: "accountPage", eq: userId },
               { key: "companionId", eq: entity.companionId },
             ],
-            set: { sortOrder: index },
+            set: { displayOrder: index },
           })
         )
       )

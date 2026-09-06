@@ -152,7 +152,7 @@ export function PlanTab({
               { key: "accountPage", eq: userId },
               { key: "esoCharacterId", eq: entity.esoCharacterId },
             ],
-            set: { sortOrder: index },
+            set: { displayOrder: index },
           })
         )
       )
