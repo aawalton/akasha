@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
+index d6be2bc590cdac0d16cb13d98abf8f01b134045e..44f5a9300cf9c8a8a9ba664f4a4c804d5983a2dc 100644
+--- a/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
++++ b/editor-extension/agent-tree-panel/agent-tree-panel.module.ts
+@@ -66,7 +66,7 @@ export const agentTreePanel = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A read that lost seats says how many rather than drawing a short tree in silence.",
++        "A read that lost seats says the count lost rather than drawing a short tree in silence.",
+     },
+ 
+     {
