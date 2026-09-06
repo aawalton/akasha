@@ -22,9 +22,10 @@ export const agentForest = {
     "`principal` is the person the seat's page names, or `agent` where it names a seat above it instead.",
     "`launch` reads `opened` for the first and `spawned` for the second, and a page stating neither carries neither.",
     "`mode` is the mode the seat's page says it starts in, an attribute of its own that `launch` does not give.",
-    "`state` is `working`, `idle-pending`, `idle` or `stopped`, read from what the seat itself keeps rather than from the page.",
-    "three of the four are stamped by a hook as the turn moves: working while a turn or a compaction runs, idle once one ends, stopped once the session does.",
-    "the fourth is read rather than stamped — an idle seat whose turn start source names anything but `none` is `idle-pending`.",
+    "`state` is `working`, `idle-pending`, `ready`, `idle` or `stopped`, read from what the seat itself keeps rather than from the page.",
+    "three of the five are stamped by a hook as the turn moves: working while a turn or a compaction runs, idle once one ends, stopped once the session does.",
+    "the other two are read rather than stamped — an idle seat whose turn start source names anything but `none` is `idle-pending`.",
+    "an idle seat in an on-call role is `ready` rather than idle, because such a seat is waiting for work to be sent to it.",
     "`waitingOn` says what such a seat waits on, and every row carries both keys whatever its state.",
     "a seat keeping no turn record at all has taken no turn and reads `stopped`, which is what a seat whose session never started holds.",
     "a seat keeping records from before the stamps reads `idle`.",
@@ -47,7 +48,7 @@ export const agentForest = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "This command takes no word, and a word this command is given is refused.",
+      statement: "A word this command is given is refused.",
     },
     {
       invariantKind: "departure",
@@ -56,8 +57,11 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A seat with an agent present in that seat reads `live` true, and every other seat false.",
+      statement: "A seat with an agent present in that seat reads `live` true.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat with no agent present in that seat reads `live` false.",
     },
     {
       invariantKind: "departure",
@@ -71,12 +75,15 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "`principal` names a person, or `agent` where the page names a seat above that page instead.",
+      statement: "`principal` names the person the seat's page names.",
     },
     {
       invariantKind: "departure",
-      statement: "`launch` reads `opened` for a person and `spawned` for a seat above it.",
+      statement: "`principal` reads `agent` where the page names a seat above that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "`launch` reads `opened` for a person and `spawned` for a seat above that seat.",
     },
     {
       invariantKind: "departure",
@@ -101,7 +108,7 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
-      statement: "Every row carries both `state` and `waitingOn`, whatever the state reads.",
+      statement: "Every row carries `state` and `waitingOn` whatever that row's state reads.",
     },
     {
       invariantKind: "departure",
@@ -109,8 +116,7 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A state's page is read off disk on every call, so a rewritten color is answered next.",
+      statement: "A state's page is read off disk on every call.",
     },
     {
       invariantKind: "departure",
@@ -122,7 +128,7 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
-      statement: "`repo` is the checkout every `at` was read against, so a caller joins the two.",
+      statement: "`repo` is the checkout every `at` was read against.",
     },
     {
       invariantKind: "departure",
@@ -131,7 +137,8 @@ export const agentForest = {
     },
     {
       invariantKind: "departure",
-      statement: "Both of those keys are read off the page rather than off its file name.",
+      statement:
+        "A subagent's seat name and agent id are read off its page rather than off its file name.",
     },
     {
       invariantKind: "absence",
