@@ -16,7 +16,8 @@ export const lowestInboxCount = {
     },
     {
       invariantKind: "departure",
-      statement: "A count taken later is written only where the count is lower than the one held.",
+      statement:
+        "A count taken later is written only where the count is lower than the count held.",
     },
     {
       invariantKind: "departure",
@@ -24,7 +25,11 @@ export const lowestInboxCount = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading of a hundred means a hundred or more, which is where the count stops.",
+      statement: "A reading of a hundred means a hundred or beyond.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The count stops at a hundred.",
     },
     {
       invariantKind: "departure",
