@@ -1,3 +1,15 @@
+diff --git a/command-system/landing-saying/landing-saying.module.test.ts b/command-system/landing-saying/landing-saying.module.test.ts
+index 7c8687b63dc9b006ab1def6370d07c252985716a..a77ab366071f2e5c71aa4368df11cb36db7d49e2 100644
+--- a/command-system/landing-saying/landing-saying.module.test.ts
++++ b/command-system/landing-saying/landing-saying.module.test.ts
+@@ -21,6 +21,7 @@ const LANDED: Landed = {
+   took: ["akasha/one.ts"],
+   noted: [],
+   cleared: [],
++  refused: [],
+ }
+ 
+ const DRAFTED: Drafted = {
 diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
 index 666c9347cc4cff65851aad2166ee9f1978d1771a..2ad0ff449e46f627b5743cd5db21bc80136792de 100644
 --- a/command-system/landing/landing.module.code.ts
