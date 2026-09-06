@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/refactor/refactor.command.ts b/command-system/commands/refactor/refactor.command.ts
-index 809e2755b6345bd49330528a3f4d701006939552..0f2806dd592175c5bf1b4d1c24a36a81eb90eb44 100644
+index 809e2755b6345bd49330528a3f4d701006939552..03ac7c710ecf39794f39bbdd28d58b81c03e5f63 100644
 --- a/command-system/commands/refactor/refactor.command.ts
 +++ b/command-system/commands/refactor/refactor.command.ts
 @@ -190,7 +190,7 @@ export const refactor = {
@@ -49,6 +49,15 @@ index 809e2755b6345bd49330528a3f4d701006939552..0f2806dd592175c5bf1b4d1c24a36a81
      },
      {
        invariantKind: "absence",
+@@ -274,7 +275,7 @@ export const refactor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Migrate respells the files naming the old name, a batch to a commit.",
++      statement: "Migrate respells the files naming the old name a batch to a commit.",
+     },
+     {
+       invariantKind: "departure",
 @@ -304,7 +305,7 @@ export const refactor = {
  
      {
