@@ -1,3 +1,16 @@
+diff --git a/changes/command/change-command.page-type.ts b/changes/command/change-command.page-type.ts
+index cc3f66e2a828448ae1c8fabd542de08edfa4b658..f64cfd3fd0e09b9eea6a9e8c8005fc60fa59bd7c 100644
+--- a/changes/command/change-command.page-type.ts
++++ b/changes/command/change-command.page-type.ts
+@@ -12,7 +12,7 @@ export const changeCommand = {
+   slug: "change-command",
+   definition: "a change the change command runs",
+   pluralSlug: "change-command",
+-  partSlugs: [],
++  partSlugs: ["change-command/remove-page"],
+   extendsSlug: ["page-type/change"],
+   invariants: [
+     {
 diff --git a/changes/command/pages/remove-page/remove-page.change-command.code.ts b/changes/command/pages/remove-page/remove-page.change-command.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..dd75401e5b0ed13c4cb0942c2331a41d7a3b944b
