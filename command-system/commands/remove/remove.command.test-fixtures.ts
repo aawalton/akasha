@@ -1,6 +1,7 @@
 import { lstatSync, mkdirSync, readFileSync, symlinkSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { said as gitIn } from "@akasha/git/git-running"
+import { noImportersFiled } from "@akasha/indexes/testing"
 import { admitting } from "@akasha/testing-system/minting"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
@@ -25,6 +26,7 @@ export function repoWith(named: Readonly<Record<string, string>>): string {
   git(root, ["commit", "--quiet", "-m", "first"])
   writeFileSync(join(root, ".git/info/exclude"), "akasha/admits.code-check*\n")
   admitting(root)
+  noImportersFiled(root)
   return root
 }
 
