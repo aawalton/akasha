@@ -9,7 +9,8 @@ export const exerciseFinding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page is named by its id, by its slug, by its whole title or by part of one.",
+      statement:
+        "A page is named by its id or by its slug or by its whole title or by part of a title.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +22,7 @@ export const exerciseFinding = {
     },
     {
       invariantKind: "departure",
-      statement: "The session left unsaid is the most recent one still open.",
+      statement: "The session left unsaid is the most recent session still open.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +34,7 @@ export const exerciseFinding = {
     },
     {
       invariantKind: "departure",
-      statement: "The schedule a day is read against is whichever one is active.",
+      statement: "The schedule a day is read against is the active schedule.",
     },
     {
       invariantKind: "departure",
