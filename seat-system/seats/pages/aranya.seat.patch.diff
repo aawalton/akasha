@@ -258,3 +258,17 @@ index 0000000000000000000000000000000000000000..890faab4430368abefd8d9cf2c4c3b12
 +  slug: "collections-secrets-spotify-client-secret",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "SPOTIFY_CLIENT_SECRET" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-spotify-redirect-uri.secret.ts b/service-system/secrets/pages/collections-secrets-spotify-redirect-uri.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1b8ec059f5e96125f2a4c70e8086f5af55b02a5b
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-spotify-redirect-uri.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsSpotifyRedirectUri = {
++  id: "01a076b7-ed55-7661-9473-ff266ff29d00",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-spotify-redirect-uri",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "SPOTIFY_REDIRECT_URI" }],
++} as const satisfies Secret
