@@ -1,0 +1,18 @@
+diff --git a/pages/types/folder/page-type-folder.module.ts b/pages/types/folder/page-type-folder.module.ts
+index f6640bb43ea04942a3f0e874bc271de48c1084e3..a7ccefadd23c3c51663633e586b329083349ad15 100644
+--- a/pages/types/folder/page-type-folder.module.ts
++++ b/pages/types/folder/page-type-folder.module.ts
+@@ -26,8 +26,11 @@ export const pageTypeFolder = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A name is dropped only where a `-` follows it, so part of a word is never dropped.",
++      statement: "A name is dropped only where a `-` follows the name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Part of a word is never dropped.",
+     },
+     {
+       invariantKind: "departure",
