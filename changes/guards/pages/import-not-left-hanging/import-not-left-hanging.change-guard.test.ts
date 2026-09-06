@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import {
+  bodyOf,
   HELD_CODE,
   idOf,
   indexedRepo,
@@ -23,6 +24,10 @@ afterAll(scratch.sweep)
 const GUARDS = [importNotLeftHanging]
 
 const KEPT_BODY = "export const kept = 1\n"
+
+const APART_PAGE = "akasha/apart.domain.ts"
+
+const APART_BODY = bodyOf({ id: idOf("b"), pageTypeSlug: "domain", slug: "apart" })
 
 const SPARE_PAGE = "akasha/three/spare.module.ts"
 
@@ -64,7 +69,7 @@ function takingAway(root: string, path: string): Answer {
 test("a shadow that will not build refuses rather than answering no hanging import", () => {
   const root = brokenRoot()
 
-  const said = guardedBy(root, answered([taking(HELD_CODE, KEPT_BODY)]), GUARDS)
+  const said = guardedBy(root, answered([taking(APART_PAGE, APART_BODY)]), GUARDS)
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(NOT_WORKED_OUT)

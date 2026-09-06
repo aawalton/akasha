@@ -26,6 +26,10 @@ const GUARDS = [relationNotLeftHanging]
 
 const HELD_BODY = "export const held = 1\n"
 
+const APART_PAGE = "akasha/apart.domain.ts"
+
+const APART_BODY = bodyOf({ id: idOf("b"), pageTypeSlug: "domain", slug: "apart" })
+
 const SPARK_TYPE = "akasha/spark.page-type.ts"
 
 const SPARK_PAGE = "akasha/spark/one.spark.ts"
@@ -62,7 +66,7 @@ function takingAway(root: string, path: string): Answer {
 test("a shadow that will not build refuses rather than answering no hanging relation", () => {
   const root = brokenRoot()
 
-  const said = guardedBy(root, answered([taking(HELD_PAGE, HELD_BODY)]), GUARDS)
+  const said = guardedBy(root, answered([taking(APART_PAGE, APART_BODY)]), GUARDS)
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(NOT_WORKED_OUT)
