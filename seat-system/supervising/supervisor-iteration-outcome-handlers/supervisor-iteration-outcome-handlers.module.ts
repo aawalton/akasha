@@ -13,8 +13,11 @@ export const supervisorIterationOutcomeHandlers = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Clearing the requested action is tried twice, and both failures are logged and swallowed.",
+      statement: "Clearing the requested action is tried twice.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A failure to clear the requested action is logged and swallowed.",
     },
     {
       invariantKind: "departure",
@@ -22,17 +25,27 @@ export const supervisorIterationOutcomeHandlers = {
     },
     {
       invariantKind: "departure",
-      statement: "A pending re-exec turns restart-now into a break, and no resume is set.",
+      statement: "A pending re-exec turns restart-now into a break.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The rail route resumes with an empty first prompt; only spawn-argv carries the notice.",
+      statement: "A pending re-exec sets no resume.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rail route sets the driver to deferred-notice, and anything else to argv-prompt.",
+      statement: "The rail route resumes with an empty first prompt.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only spawn-argv carries the notice.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rail route sets the driver to deferred-notice.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Any other route sets the driver to argv-prompt.",
     },
     {
       invariantKind: "departure",
