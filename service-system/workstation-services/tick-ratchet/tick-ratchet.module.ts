@@ -18,12 +18,15 @@ export const tickRatchet = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A run of throws is counted in whole ticks from one, and any other threshold is refused.",
+      statement: "A run of throws is counted in whole ticks beginning at `1`.",
     },
     {
       invariantKind: "departure",
-      statement: "The ratchet names the service, the run and the threshold on the way out.",
+      statement: "Any other threshold is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The ratchet names the service and the run and the threshold on the way out.",
     },
     {
       invariantKind: "absence",
