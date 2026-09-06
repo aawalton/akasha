@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-chastity-teaching-meets-the-bodily-demand.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-chastity-teaching-meets-the-bodily-demand.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e0c97c54c02f30892f64c1f19f315e8bc458e44e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-chastity-teaching-meets-the-bodily-demand.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howChastityTeachingMeetsTheBodilyDemand = {
++  id: "01a077ed-8934-7368-9119-5727c07679a0",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-chastity-teaching-meets-the-bodily-demand",
++  topicSlug: "whether-the-rule-survives",
++  ask: "This is the thin layer of the three, so how does chastity teaching interlock with the bodily demand?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-running-the-church-rule-check-concludes.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-running-the-church-rule-check-concludes.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ea10368feb990467e4c29df43734eb3d05139e36
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-running-the-church-rule-check-concludes.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatRunningTheChurchRuleCheckConcludes = {
++  id: "01a077ed-8933-75e6-911e-149d85610d98",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-running-the-church-rule-check-concludes",
++  topicSlug: "whether-the-rule-survives",
++  ask: "What would running the check conclude?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/whether-the-rule-survives.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/whether-the-rule-survives.all-about-alan-topic.ts
+index b5a5327fa197972c811934d36057c16db216bb13..49a92c72227f6a16f025f5265d9ee05165cc6161 100644
+--- a/alan/books/all-about-alan/topics/pages/whether-the-rule-survives.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/whether-the-rule-survives.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const whetherTheRuleSurvives = {
+   parentSlugs: ["sex"],
+   settled:
+     "The check is decided and I have not run it.\n\nUngrounding the rule still would not settle it, because a separate belief sits over the top: stay with the body of the church, wrong in the small things but never in the big ones.",
+-  unsettled:
+-    "What running the check would conclude is pending.\n\nOf the three layers this is the thin one, and how chastity teaching interlocks with the bodily demand is still waiting.",
+ } as const satisfies AllAboutAlanTopic
