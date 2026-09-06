@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/self/life-themes/life-theme.page-type.ts b/alan/self/life-themes/life-theme.page-type.ts
+index a5dce1eb2841dc30c10f0a04070c15305181a8ca..d52084bab19520ff64082b73934f79f02057ec00 100644
+--- a/alan/self/life-themes/life-theme.page-type.ts
++++ b/alan/self/life-themes/life-theme.page-type.ts
+@@ -45,7 +45,7 @@ export const lifeTheme = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A life theme is under another life theme, or under none.",
++      statement: "A life theme is under another life theme or under no life theme.",
+     },
+   ],
+ } as const satisfies PageType
