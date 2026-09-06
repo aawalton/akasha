@@ -26,3 +26,18 @@ index 6e61d48cad9539bfb5a8522b8e903731502fb42b..be9030561fa8efe48bea725dc713bdec
    const held = new Set<string>()
    for (const one of [...reach, ...change.changed]) {
      if (compiled(one) && change.after(one) !== null) held.add(one)
+diff --git a/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts b/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts
+index 411324d24b8f6f51a3129b651c4b0f143870a9b9..1c8c5e73f6e5bfaec58aa7d5e8ef3421e4ccfd7d 100644
+--- a/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts
++++ b/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts
+@@ -92,6 +92,10 @@ export const globalDeclaredOnce = {
+       invariantKind: "departure",
+       statement: "Every file the index names is read where the change carries a declaration file.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Every file the index names is read where the index names no declaration files.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
