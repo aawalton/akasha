@@ -1,8 +1,17 @@
 readersOweReading: false
 diff --git a/pages/types/declared-properties/declared-properties.module.ts b/pages/types/declared-properties/declared-properties.module.ts
-index f1b1054c21df08b28f0f18d9d8caf2f7f201aff4..290db9a84f3bb6ebf4ecaf2ce5b4505941379f57 100644
+index f1b1054c21df08b28f0f18d9d8caf2f7f201aff4..4b4ff8acdf5b2e315b35902965efda73aba4b7b7 100644
 --- a/pages/types/declared-properties/declared-properties.module.ts
 +++ b/pages/types/declared-properties/declared-properties.module.ts
+@@ -12,7 +12,7 @@ export const declaredProperties = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The properties a page type carries are its own and those of every type above that page type.",
++        "A page type carries its own properties and the properties of every type above that page type.",
+     },
+     {
+       invariantKind: "departure",
 @@ -20,7 +20,7 @@ export const declaredProperties = {
      },
      {
