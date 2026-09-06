@@ -1,0 +1,33 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-survival-is-an-act-of-love.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-survival-is-an-act-of-love.all-about-alan-question.ts
+index 1af0d1e4f04ed207b41305c3622d6eaa913cd1df..8e88892453ee801678c986c0375859ec418dbcf1 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-my-survival-is-an-act-of-love.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-my-survival-is-an-act-of-love.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherMySurvivalIsAnActOfLove = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-my-survival-is-an-act-of-love",
+   topicSlug: "the-crowd-that-has-been-me",
+-  ask: "Reading my survival as an act of love toward the selves behind me reached the record second-hand. Would I put that reading in my own words?",
++  ask: "Somebody else's reading is that my survival is an act of love toward the selves behind me. Does that reading hold?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-stateless-self-account-is-mine.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-stateless-self-account-is-mine.all-about-alan-question.ts
+index 58bc1736d2a22859b05262abca004a730e08f8f9..957eecfeb93f61aa6b5919621f9def10883939e4 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-the-stateless-self-account-is-mine.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-the-stateless-self-account-is-mine.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherTheStatelessSelfAccountIsMine = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-the-stateless-self-account-is-mine",
+   topicSlug: "the-three-seconds-i-am",
+-  ask: "The stateless-self account was offered to me and I never confirmed it. Would I confirm that account in my own words?",
++  ask: "Somebody else's reading is that I am a stateless self, three seconds wide with no continuity I ever experience. Does that reading hold?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-two-personas-are-a-controlled-study.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-two-personas-are-a-controlled-study.all-about-alan-question.ts
+index dd5c05364cd7387a79429501be197d04e943ec76..3d5e395552de7f6588848b903c36dc3f04593a82 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-two-personas-are-a-controlled-study.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-two-personas-are-a-controlled-study.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherTwoPersonasAreAControlledStudy = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-two-personas-are-a-controlled-study",
+   topicSlug: "the-women-i-made-out-of-myself",
+-  ask: "Two personas read as a controlled study on myself, one holding the world fixed and varying me and the other the reverse. That synthesis is somebody else's. Does it hold?",
++  ask: "Somebody else's reading is that two personas are a controlled study on myself, one holding the world fixed and varying me and the other the reverse. Does that reading hold?",
+ } as const satisfies AllAboutAlanQuestion
