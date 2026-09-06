@@ -57,6 +57,66 @@ index 938a2c7e432dc06733c9199d5c113ea9db495f51..331daece4a07cf408139b82d7c7772a3
    const added = addedIn(textOf(changing.before(path)), textOf(changing.after(path)))
    if (added.trim() === "") return []
    if (!judgedIn(path, unjudgedIn(root))) return []
+diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
+index ed7abd8cabe148d76a579ad766dd95e1905b26d0..1f5a1abec876aeece35986f58556297bc8fb4675 100644
+--- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
++++ b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.test.ts
+@@ -1,7 +1,11 @@
+ import { expect, test } from "bun:test"
++import { join } from "node:path"
++import type { Changing, Known } from "../../modules/warranting/warranting.module.code.ts"
+ import {
+   addedIn,
++  changeTabooTerms,
+   foundIn,
++  holdingBytes,
+   judgedIn,
+   owedOf,
+   reachOf,
+@@ -10,6 +14,21 @@ import {
+ 
+ const STAND = "(?<![a-z])(stands?|standing|stood)(?![a-z])"
+ 
++const ROOT = join(import.meta.dir, "..", "..", "..")
++
++const A_PICTURE_AT = "personas/amy/amy.persona.mobile-wallpaper.png"
++
++const A_PORTRAIT_AT = "personas/amy/amy.persona.portrait.md"
++
++const A_TERM = "the estate stands here"
++
++const KNOWING = (): Known => ({ types: new Set<string>() })
++
++function changingTo(said: string): Changing {
++  const body = new TextEncoder().encode(said)
++  return { changed: [], before: () => null, after: () => body }
++}
++
+ test("what a change adds is the lines the body did not already hold", () => {
+   expect(addedIn("one\ntwo", "one\ntwo\nthree")).toBe("three")
+ })
+@@ -184,3 +203,21 @@ test("a page of any other type is judged", () => {
+ test("a path naming no page at all is judged", () => {
+   expect(judgedIn("akasha/story/package.json", new Set(["world"]))).toBe(true)
+ })
++
++test("a file whose property holds bytes is told from one whose property holds text", () => {
++  expect(holdingBytes(ROOT, A_PICTURE_AT)).toBe(true)
++  expect(holdingBytes(ROOT, A_PORTRAIT_AT)).toBe(false)
++})
++
++test("a page's own file holds no property, so nothing there holds bytes", () => {
++  expect(holdingBytes(ROOT, "personas/amy/amy.persona.ts")).toBe(false)
++})
++
++test("a term written into a file whose property holds bytes warrants nothing", () => {
++  expect(changeTabooTerms(ROOT, A_PICTURE_AT, KNOWING, changingTo(A_TERM))).toEqual([])
++})
++
++test("the same term written into a file whose property holds text warrants a reading", () => {
++  const said = changeTabooTerms(ROOT, A_PORTRAIT_AT, KNOWING, changingTo(A_TERM))
++  expect(said.length).toBeGreaterThan(0)
++})
 diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
 index b1a4c55d85867f2300c09ac49970c7035e69e602..bf70804173e2c978b32a231752fa79703ccec456 100644
 --- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
