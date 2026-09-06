@@ -1,0 +1,18 @@
+diff --git a/alan/fitness/session-planning/next-set/next-set.module.ts b/alan/fitness/session-planning/next-set/next-set.module.ts
+index 335d27d65bce7059c6c0dcf0cb14033f11af7952..1b0525dbad54389d2ba34f461edf6e4d0dd7a9c1 100644
+--- a/alan/fitness/session-planning/next-set/next-set.module.ts
++++ b/alan/fitness/session-planning/next-set/next-set.module.ts
+@@ -30,8 +30,11 @@ export const nextSet = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The next set says why the movement before that set ended, unless that movement simply finished.",
++      statement: "The next set says why the movement before that set ended.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A movement that simply finished has no reason said.",
+     },
+     {
+       invariantKind: "departure",
