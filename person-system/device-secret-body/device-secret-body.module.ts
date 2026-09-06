@@ -14,7 +14,7 @@ export const deviceSecretBody = {
     },
     {
       invariantKind: "departure",
-      statement: "A body carrying more than the device that body names is refused.",
+      statement: "A body carrying anything beyond the device that body names is refused.",
     },
     {
       invariantKind: "departure",
