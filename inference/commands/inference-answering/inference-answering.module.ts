@@ -18,16 +18,16 @@ export const inferenceAnswering = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag said more than once holds every value where that flag repeats.",
+      statement: "A flag that repeats holds every value the call said for that flag.",
     },
     {
       invariantKind: "departure",
-      statement: "A flag said more than once holds the last value where that flag does not.",
+      statement: "A flag that does not repeat holds the last value the call said for that flag.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A flag carrying prose is also reachable by a path, under its own name and `-file`.",
+        "A flag carrying prose is also reachable by a path under its own name and `-file`.",
     },
     {
       invariantKind: "departure",
