@@ -1,0 +1,52 @@
+diff --git a/alan/web/routes/widget-tap/widget-tap.route.test.ts b/alan/web/routes/widget-tap/widget-tap.route.test.ts
+index 1befd7fe5c6da7893a01a2d1003a862c6da9f2d2..4e4709653b912d6f1486c47f86599f86b2f09188 100644
+--- a/alan/web/routes/widget-tap/widget-tap.route.test.ts
++++ b/alan/web/routes/widget-tap/widget-tap.route.test.ts
+@@ -17,17 +17,14 @@ const counted = async () => ({ taps: 4, at: AT })
+ 
+ const uncounted = async () => null
+ 
+-// THE ORIGIN IS SET ON THE HEADERS RATHER THAN IN THE INIT. This workspace preloads happy-dom,
+-// whose `Request` drops `Origin` the way a browser does, and the whole cross-origin answer turns
+-// on that one header.
+-function asked(body: unknown): Request {
+-  const headers = new Headers([["Content-Type", "application/json"]])
+-  headers.set("Origin", CAPACITOR)
+-  return new Request("https://alanwalton.com/api/widget-tap", {
+-    method: "POST",
+-    headers,
+-    body: JSON.stringify(body),
+-  })
++// A TAP IS HANDED IN AS THE TWO THINGS THE ANSWERING READS OFF A REQUEST. This workspace preloads
++// happy-dom, whose `Request` drops `Origin` the way a browser does, and the origin is the whole of
++// the cross-origin answer, so a real `Request` could not carry what these tests are about.
++function asked(body: unknown, origin: string = CAPACITOR): Request {
++  return {
++    headers: { get: (name: string) => (name.toLowerCase() === "origin" ? origin : null) },
++    json: async () => body,
++  } as unknown as Request
+ }
+ 
+ test("a caller who is not signed in is refused", async () => {
+@@ -70,7 +67,21 @@ test("a tap is counted on the widget the body names", async () => {
+   })
+ })
+ 
++test("the moment a tap is counted at is the moment the answer carries", async () => {
++  const answered = await answerWidgetTap(asked({ widget: "alanwalton-surplus" }), signedIn, counted)
++  expect((await answered.json()).at).toBe(AT)
++})
++
+ test("an answer to the native shell carries the cross-origin headers that shell needs", async () => {
+   const answered = await answerWidgetTap(asked({ widget: "alanwalton-surplus" }), signedIn, counted)
+   expect(answered.headers.get("Access-Control-Allow-Origin")).toBe(CAPACITOR)
+ })
++
++test("an answer to a caller from elsewhere carries no cross-origin headers", async () => {
++  const answered = await answerWidgetTap(
++    asked({ widget: "alanwalton-surplus" }, "https://example.invalid"),
++    signedIn,
++    counted
++  )
++  expect(answered.headers.get("Access-Control-Allow-Origin")).toBeNull()
++})
