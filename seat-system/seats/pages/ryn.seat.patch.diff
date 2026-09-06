@@ -1,8 +1,8 @@
 diff --git a/alan/harness/monarch/evidence/monarch-evidence.module.ts b/alan/harness/monarch/evidence/monarch-evidence.module.ts
-index e7cd2711248d2353cb84471c26fd50d1aca05aac..21c3ef8e0e4ac89e307163a163d1aecbaf620b1a 100644
+index e7cd2711248d2353cb84471c26fd50d1aca05aac..420b60c3e8649ac2fa3a507055592fac26eca242 100644
 --- a/alan/harness/monarch/evidence/monarch-evidence.module.ts
 +++ b/alan/harness/monarch/evidence/monarch-evidence.module.ts
-@@ -9,8 +9,11 @@ export const monarchEvidence = {
+@@ -9,13 +9,16 @@ export const monarchEvidence = {
    invariants: [
      {
        invariantKind: "departure",
@@ -13,6 +13,12 @@ index e7cd2711248d2353cb84471c26fd50d1aca05aac..21c3ef8e0e4ac89e307163a163d1aecb
 +    {
 +      invariantKind: "departure",
 +      statement: "A seat may be given this module and nothing else.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A transaction is looked up alone, by merchant, by account over a span, or by the rows around.",
++        "A transaction is looked up alone or by merchant or by account over a span or by the rows around.",
      },
      {
        invariantKind: "departure",
