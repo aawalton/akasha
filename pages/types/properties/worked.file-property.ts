@@ -17,7 +17,7 @@ export const worked = {
     },
     {
       invariantKind: "departure",
-      statement: "The file this holds is written by a command rather than by an author.",
+      statement: "The file this property holds is written by a command rather than by an author.",
     },
   ],
 } as const satisfies FileProperty
