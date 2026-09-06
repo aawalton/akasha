@@ -45,6 +45,42 @@ index 42c3211bd58e9ce715d78049ac9e51d5b173cb0d..b50a5405973674db67bdc369e2927414
    if ("refused" in held) return refused(held.refused, INPUT)
    return await healthImported(held, reaching(held), Date.now())
  }
+diff --git a/command-system/commands/track-health-import/track-health-import.command.test.ts b/command-system/commands/track-health-import/track-health-import.command.test.ts
+index 0fefc0d77e5fdaf7fc9109fecd41bf759477888c..4782835843f1e9d7c3a5223709807d141dd9a421 100644
+--- a/command-system/commands/track-health-import/track-health-import.command.test.ts
++++ b/command-system/commands/track-health-import/track-health-import.command.test.ts
+@@ -74,26 +74,20 @@ const BROKEN_REACH: ImportRunDeps = {
+   },
+ }
+ 
+-test("a call naming no subject is refused as the caller's fault", async () => {
+-  const answer = await trackHealthImport([])
+-  expect(answer.code).toBe(1)
+-  expect(answer.refusals[0]).toContain("health")
+-})
+-
+-test("a subject this command does not bring in is refused by name", async () => {
++test("a word of its own is refused, because this call takes flags alone", async () => {
+   const answer = await trackHealthImport(["weather"])
+   expect(answer.code).toBe(1)
+   expect(answer.refusals[0]).toContain("`weather`")
+ })
+ 
+-test("a second subject is refused rather than chosen between", async () => {
+-  const answer = await trackHealthImport(["health", "weather"])
++test("the subject is no longer said, so naming it is refused as a word of its own", async () => {
++  const answer = await trackHealthImport(["health"])
+   expect(answer.code).toBe(1)
+-  expect(answer.refusals[0]).toContain("one subject")
++  expect(answer.refusals[0]).toContain("akasha track health import")
+ })
+ 
+ test("a flag this command does not take is refused by name", async () => {
+-  const answer = await trackHealthImport(["health", "--json"])
++  const answer = await trackHealthImport(["--json"])
+   expect(answer.code).toBe(1)
+   expect(answer.refusals[0]).toContain("`--json`")
+ })
 diff --git a/command-system/commands/track-health-import/track-health-import.command.ts b/command-system/commands/track-health-import/track-health-import.command.ts
 index 4134c3578c5155dafe654d986c23a060b764bb49..464efa6413069596be76c1ecd39295afba84d94c 100644
 --- a/command-system/commands/track-health-import/track-health-import.command.ts
