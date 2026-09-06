@@ -8,6 +8,7 @@ import {
   pathFiled,
   relationFiled,
   schemaFiled,
+  valueAlsoFiled,
 } from "@akasha/indexes/testing"
 import { scratchWorld } from "../../../scratching/scratching.module.code.ts"
 import type { Respelling } from "./key-respelling.module.code.ts"
@@ -86,6 +87,9 @@ function rooted(beside: readonly string[] = []): string {
   listedFiled(root, "text-property", "keyed", [{ path: PROPERTY_AT, id: KEYED }])
   listedFiled(root, "page-type", "held", [{ path: TYPE_AT, id: HELD }])
   listedFiled(root, "held", "one", [{ path: PAGE_AT, id: ONE }])
+  valueAlsoFiled(root, "held", [
+    { path: PAGE_AT, value: { id: ONE, pageTypeSlug: "held", slug: "one" } },
+  ])
   idFiled(root, HELD, [{ path: TYPE_AT, id: HELD }])
   relationFiled(root, KEYED, "page-property-slug", HELD, [{ path: TYPE_AT }])
   return root
