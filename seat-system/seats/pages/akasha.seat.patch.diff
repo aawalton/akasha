@@ -1,0 +1,726 @@
+runsWarrants: false
+diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.ts b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+index 690f8fd074efe90dbd19f3bc0bcdb0df47e0def7..88f9e4e922a557feef3e7f8e86988cbb0a540610 100644
+--- a/alan/tracking/daily/wake-days/wake-day.page-type.ts
++++ b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+@@ -147,62 +147,82 @@ export const wakeDay = {
+     "text-property/version",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "date", required: true, many: false },
+-    { pagePropertySlug: "version", required: false, many: false },
+-    { pagePropertySlug: "last-viewed-at", required: false, many: false },
+-    { pagePropertySlug: "safety-level", required: false, many: false },
+-    { pagePropertySlug: "persona-days", required: false, many: true, max: null },
+-    { pagePropertySlug: "meals", required: false, many: true, max: null },
+-    { pagePropertySlug: "health-points", required: false, many: false },
+-    { pagePropertySlug: "task-points", required: false, many: false },
+-    { pagePropertySlug: "wealth-points", required: false, many: false },
+-    { pagePropertySlug: "faith-points", required: false, many: false },
+-    { pagePropertySlug: "love-points", required: false, many: false },
+-    { pagePropertySlug: "sleep-points", required: false, many: false },
+-    { pagePropertySlug: "fun-points", required: false, many: false },
+-    { pagePropertySlug: "learn-points", required: false, many: false },
+-    { pagePropertySlug: "strength-points", required: false, many: false },
+-    { pagePropertySlug: "strength-volume", required: false, many: false },
+-    { pagePropertySlug: "cardio-points", required: false, many: false },
+-    { pagePropertySlug: "nutrition-points", required: false, many: false },
+-    { pagePropertySlug: "breathing-points", required: false, many: false },
+-    { pagePropertySlug: "active-calories", required: false, many: false },
+-    { pagePropertySlug: "wisdom-words", required: false, many: false },
+-    { pagePropertySlug: "intelligence-words", required: false, many: false },
+-    { pagePropertySlug: "spanned-from-day-boundary", required: false, many: false },
+-    { pagePropertySlug: "completion-snapshot", required: false, many: false },
+-    { pagePropertySlug: "words-read-points", required: false, many: false },
+-    { pagePropertySlug: "words-read-snapshot", required: false, many: false },
+-    { pagePropertySlug: "inbox-tasks", required: false, many: false },
+-    { pagePropertySlug: "inbox-tasks-cleared-today", required: false, many: false },
+-    { pagePropertySlug: "inbox-temper-tasks", required: false, many: false },
+-    { pagePropertySlug: "inbox-temper-tasks-cleared-today", required: false, many: false },
+-    { pagePropertySlug: "inbox-texts", required: false, many: false },
+-    { pagePropertySlug: "inbox-texts-cleared-today", required: false, many: false },
+-    { pagePropertySlug: "inbox-calendar", required: false, many: false },
+-    { pagePropertySlug: "inbox-calendar-cleared-today", required: false, many: false },
+-    { pagePropertySlug: "sessions", required: false, many: false },
+-    { pagePropertySlug: "completed-tasks", required: false, many: false },
+-    { pagePropertySlug: "activity-calories", required: false, many: false },
+-    { pagePropertySlug: "strength-calories", required: false, many: false },
+-    { pagePropertySlug: "faith-level", required: false, many: false },
+-    { pagePropertySlug: "love-level", required: false, many: false },
+-    { pagePropertySlug: "health-level", required: false, many: false },
+-    { pagePropertySlug: "learn-level", required: false, many: false },
+-    { pagePropertySlug: "fun-level", required: false, many: false },
+-    { pagePropertySlug: "wealth-level", required: false, many: false },
+-    { pagePropertySlug: "total-level", required: false, many: false },
+-    { pagePropertySlug: "faith-stoplight", required: false, many: false },
+-    { pagePropertySlug: "love-stoplight", required: false, many: false },
+-    { pagePropertySlug: "health-stoplight", required: false, many: false },
+-    { pagePropertySlug: "learn-stoplight", required: false, many: false },
+-    { pagePropertySlug: "fun-stoplight", required: false, many: false },
+-    { pagePropertySlug: "wealth-stoplight", required: false, many: false },
+-    { pagePropertySlug: "stoplights", required: false, many: false },
+-    { pagePropertySlug: "sleep-hours", required: false, many: false },
+-    { pagePropertySlug: "spend-hours", required: false, many: false },
+-    { pagePropertySlug: "surplus-hours", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/date", required: true, many: false },
++    { pagePropertySlug: "text-property/version", required: false, many: false },
++    { pagePropertySlug: "instant-property/last-viewed-at", required: false, many: false },
++    { pagePropertySlug: "text-property/safety-level", required: false, many: false },
++    { pagePropertySlug: "text-property/persona-days", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/meals", required: false, many: true, max: null },
++    { pagePropertySlug: "number-property/health-points", required: false, many: false },
++    { pagePropertySlug: "number-property/task-points", required: false, many: false },
++    { pagePropertySlug: "number-property/wealth-points", required: false, many: false },
++    { pagePropertySlug: "number-property/faith-points", required: false, many: false },
++    { pagePropertySlug: "number-property/love-points", required: false, many: false },
++    { pagePropertySlug: "number-property/sleep-points", required: false, many: false },
++    { pagePropertySlug: "number-property/fun-points", required: false, many: false },
++    { pagePropertySlug: "number-property/learn-points", required: false, many: false },
++    { pagePropertySlug: "number-property/strength-points", required: false, many: false },
++    { pagePropertySlug: "number-property/strength-volume", required: false, many: false },
++    { pagePropertySlug: "number-property/cardio-points", required: false, many: false },
++    { pagePropertySlug: "number-property/nutrition-points", required: false, many: false },
++    { pagePropertySlug: "number-property/breathing-points", required: false, many: false },
++    { pagePropertySlug: "number-property/active-calories", required: false, many: false },
++    { pagePropertySlug: "number-property/wisdom-words", required: false, many: false },
++    { pagePropertySlug: "number-property/intelligence-words", required: false, many: false },
++    {
++      pagePropertySlug: "boolean-property/spanned-from-day-boundary",
++      required: false,
++      many: false,
++    },
++    { pagePropertySlug: "number-property/completion-snapshot", required: false, many: false },
++    { pagePropertySlug: "number-property/words-read-points", required: false, many: false },
++    { pagePropertySlug: "number-property/words-read-snapshot", required: false, many: false },
++    { pagePropertySlug: "number-property/inbox-tasks", required: false, many: false },
++    {
++      pagePropertySlug: "boolean-property/inbox-tasks-cleared-today",
++      required: false,
++      many: false,
++    },
++    { pagePropertySlug: "number-property/inbox-temper-tasks", required: false, many: false },
++    {
++      pagePropertySlug: "boolean-property/inbox-temper-tasks-cleared-today",
++      required: false,
++      many: false,
++    },
++    { pagePropertySlug: "number-property/inbox-texts", required: false, many: false },
++    {
++      pagePropertySlug: "boolean-property/inbox-texts-cleared-today",
++      required: false,
++      many: false,
++    },
++    { pagePropertySlug: "number-property/inbox-calendar", required: false, many: false },
++    {
++      pagePropertySlug: "boolean-property/inbox-calendar-cleared-today",
++      required: false,
++      many: false,
++    },
++    { pagePropertySlug: "page-property-entry/sessions", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/completed-tasks", required: false, many: false },
++    { pagePropertySlug: "computed-property/activity-calories", required: false, many: false },
++    { pagePropertySlug: "computed-property/strength-calories", required: false, many: false },
++    { pagePropertySlug: "computed-property/faith-level", required: false, many: false },
++    { pagePropertySlug: "computed-property/love-level", required: false, many: false },
++    { pagePropertySlug: "computed-property/health-level", required: false, many: false },
++    { pagePropertySlug: "computed-property/learn-level", required: false, many: false },
++    { pagePropertySlug: "computed-property/fun-level", required: false, many: false },
++    { pagePropertySlug: "computed-property/wealth-level", required: false, many: false },
++    { pagePropertySlug: "computed-property/total-level", required: false, many: false },
++    { pagePropertySlug: "computed-property/faith-stoplight", required: false, many: false },
++    { pagePropertySlug: "computed-property/love-stoplight", required: false, many: false },
++    { pagePropertySlug: "computed-property/health-stoplight", required: false, many: false },
++    { pagePropertySlug: "computed-property/learn-stoplight", required: false, many: false },
++    { pagePropertySlug: "computed-property/fun-stoplight", required: false, many: false },
++    { pagePropertySlug: "computed-property/wealth-stoplight", required: false, many: false },
++    { pagePropertySlug: "computed-property/stoplights", required: false, many: false },
++    { pagePropertySlug: "computed-property/sleep-hours", required: false, many: false },
++    { pagePropertySlug: "computed-property/spend-hours", required: false, many: false },
++    { pagePropertySlug: "computed-property/surplus-hours", required: false, many: false },
+   ],
+   worked: "ts",
+   invariants: [
+diff --git a/collections/externals/collection-external.page-type.ts b/collections/externals/collection-external.page-type.ts
+index 5298a1a941e0ab34dd89957daa7a1833310faa96..459e1be5264f04264fce3bd18034498e12f4adf9 100644
+--- a/collections/externals/collection-external.page-type.ts
++++ b/collections/externals/collection-external.page-type.ts
+@@ -26,10 +26,10 @@ export const collectionExternal = {
+   ],
+   extendsSlug: ["page-type/collection"],
+   properties: [
+-    { pagePropertySlug: "external-id", required: false, many: false },
+-    { pagePropertySlug: "external-link", required: false, many: false },
+-    { pagePropertySlug: "source", required: false, many: false },
+-    { pagePropertySlug: "last-synced-at", required: false, many: false },
++    { pagePropertySlug: "text-property/external-id", required: false, many: false },
++    { pagePropertySlug: "url-property/external-link", required: false, many: false },
++    { pagePropertySlug: "text-property/source", required: false, many: false },
++    { pagePropertySlug: "calendar-date-property/last-synced-at", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/collections/types/collection-type.page-type.ts b/collections/types/collection-type.page-type.ts
+index da2236228efdead8f927754c73f40fa5accbba0c..0c634672f590678b305906291007aca4758f1bf1 100644
+--- a/collections/types/collection-type.page-type.ts
++++ b/collections/types/collection-type.page-type.ts
+@@ -19,9 +19,9 @@ export const collectionType = {
+   extendsSlug: ["page-type/page"],
+   partSlugs: ["select-property/collection-type-status"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "unit-slug", required: true, many: false },
+-    { pagePropertySlug: "collection-type-status", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/unit-slug", required: true, many: false },
++    { pagePropertySlug: "select-property/collection-type-status", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/inference/generations/logs/generation-log.page-type.ts b/inference/generations/logs/generation-log.page-type.ts
+index 8efde52feafd8e562c130863af6a1daf055cbce7..43c188bfead6a5475f4a1cd9b3d2e6c0620dde38 100644
+--- a/inference/generations/logs/generation-log.page-type.ts
++++ b/inference/generations/logs/generation-log.page-type.ts
+@@ -17,9 +17,9 @@ export const generationLog = {
+     "file-property/generation-runs",
+   ],
+   properties: [
+-    { pagePropertySlug: "generation-runs", required: true, many: false },
+-    { pagePropertySlug: "generation-images", required: false, many: false },
+-    { pagePropertySlug: "generation-audios", required: false, many: false },
++    { pagePropertySlug: "file-property/generation-runs", required: true, many: false },
++    { pagePropertySlug: "file-property/generation-images", required: false, many: false },
++    { pagePropertySlug: "file-property/generation-audios", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts b/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts
+index 821f139146d666ca4f7d639b179a2e8f59d999c8..a5d684cdfa671be972212a001ab9af87ab872541 100644
+--- a/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts
++++ b/infrastructure/cluster/k8s-types/manifests/manifest.page-type.ts
+@@ -15,7 +15,7 @@ export const manifest = {
+   partSlugs: ["file-property/manifest-code"],
+   extendsSlug: ["page-type/domain"],
+   allowsTmpPaths: true,
+-  properties: [{ pagePropertySlug: "manifest-code", required: true, many: false }],
++  properties: [{ pagePropertySlug: "file-property/manifest-code", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/service-system/secrets/properties/placements.record-property.ts b/service-system/secrets/properties/placements.record-property.ts
+index a5169276a8d50bbdb85c294495da1c201c0cf4d2..695f4b3343fbc2cff0940985b8d12bf48babef75 100644
+--- a/service-system/secrets/properties/placements.record-property.ts
++++ b/service-system/secrets/properties/placements.record-property.ts
+@@ -17,8 +17,8 @@ export const placements = {
+   propertySlug: "placements",
+   definition: "the resources a secret's value is put into, and the key it sits under in each",
+   properties: [
+-    { pagePropertySlug: "resource-name", required: true, many: false },
+-    { pagePropertySlug: "resource-key", required: true, many: false },
++    { pagePropertySlug: "text-property/resource-name", required: true, many: false },
++    { pagePropertySlug: "text-property/resource-key", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts b/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts
+index 0218e85127297a1ea68065011edfbe27fdbe7cc7..1ad219c9a2ec51764400eab8fcdd01a7a32a03cb 100644
+--- a/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts
++++ b/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts
+@@ -11,7 +11,7 @@ export const temperCompanionProgress = {
+   pluralSlug: "temper-companion-progresses",
+   extendsSlug: ["page-type/temper-character-thing"],
+   properties: [
+-    { pagePropertySlug: "companion-id", required: true, many: false },
+-    { pagePropertySlug: "account-page", required: true, many: false },
++    { pagePropertySlug: "text-property/companion-id", required: true, many: false },
++    { pagePropertySlug: "text-property/account-page", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-character/mines/properties/items.page-property-entry.ts b/temper/temper-character/mines/properties/items.page-property-entry.ts
+index 440b8a52da65bb3a60df664e9a126783f6e4b37e..2b4a9eec75d0482c2aa06fde9ade7aeca08d0b49 100644
+--- a/temper/temper-character/mines/properties/items.page-property-entry.ts
++++ b/temper/temper-character/mines/properties/items.page-property-entry.ts
+@@ -9,40 +9,40 @@ export const items = {
+   propertySlug: "items",
+   definition: "every item a sweep read out of the game, one item to a line",
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "item-name", required: false, many: false },
+-    { pagePropertySlug: "icon", required: true, many: false },
+-    { pagePropertySlug: "mined-at", required: true, many: false },
+-    { pagePropertySlug: "item-id", required: true, many: false },
+-    { pagePropertySlug: "item-type", required: true, many: false },
+-    { pagePropertySlug: "item-quality", required: true, many: false },
+-    { pagePropertySlug: "item-style", required: true, many: false },
+-    { pagePropertySlug: "merchant-value", required: true, many: false },
+-    { pagePropertySlug: "ability-cooldown", required: true, many: false },
+-    { pagePropertySlug: "ability-description", required: true, many: false },
+-    { pagePropertySlug: "ability-header", required: true, many: false },
+-    { pagePropertySlug: "armor-rating", required: true, many: false },
+-    { pagePropertySlug: "armor-type", required: true, many: false },
+-    { pagePropertySlug: "enchant-description", required: true, many: false },
+-    { pagePropertySlug: "enchant-header", required: true, many: false },
+-    { pagePropertySlug: "equip-type", required: true, many: false },
+-    { pagePropertySlug: "filter-type", required: true, many: false },
+-    { pagePropertySlug: "filter-type-specific", required: true, many: false },
+-    { pagePropertySlug: "flavor-text", required: true, many: false },
+-    { pagePropertySlug: "has-on-use-ability", required: true, many: false },
+-    { pagePropertySlug: "has-set", required: true, many: false },
+-    { pagePropertySlug: "is-unique", required: true, many: false },
+-    { pagePropertySlug: "is-unique-equipped", required: true, many: false },
+-    { pagePropertySlug: "required-cp", required: true, many: false },
+-    { pagePropertySlug: "required-level", required: true, many: false },
+-    { pagePropertySlug: "set-bonuses", required: true, many: true, max: null },
+-    { pagePropertySlug: "set-id", required: true, many: false },
+-    { pagePropertySlug: "set-max-equip", required: true, many: false },
+-    { pagePropertySlug: "set-name", required: true, many: false },
+-    { pagePropertySlug: "specialized-item-type", required: true, many: false },
+-    { pagePropertySlug: "trait-description", required: true, many: false },
+-    { pagePropertySlug: "trait-type", required: true, many: false },
+-    { pagePropertySlug: "weapon-power", required: true, many: false },
+-    { pagePropertySlug: "weapon-type", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/item-name", required: false, many: false },
++    { pagePropertySlug: "text-property/icon", required: true, many: false },
++    { pagePropertySlug: "instant-property/mined-at", required: true, many: false },
++    { pagePropertySlug: "number-property/item-id", required: true, many: false },
++    { pagePropertySlug: "number-property/item-type", required: true, many: false },
++    { pagePropertySlug: "number-property/item-quality", required: true, many: false },
++    { pagePropertySlug: "number-property/item-style", required: true, many: false },
++    { pagePropertySlug: "number-property/merchant-value", required: true, many: false },
++    { pagePropertySlug: "number-property/ability-cooldown", required: true, many: false },
++    { pagePropertySlug: "text-property/ability-description", required: true, many: false },
++    { pagePropertySlug: "text-property/ability-header", required: true, many: false },
++    { pagePropertySlug: "number-property/armor-rating", required: true, many: false },
++    { pagePropertySlug: "number-property/armor-type", required: true, many: false },
++    { pagePropertySlug: "text-property/enchant-description", required: true, many: false },
++    { pagePropertySlug: "text-property/enchant-header", required: true, many: false },
++    { pagePropertySlug: "number-property/equip-type", required: true, many: false },
++    { pagePropertySlug: "number-property/filter-type", required: true, many: false },
++    { pagePropertySlug: "number-property/filter-type-specific", required: true, many: false },
++    { pagePropertySlug: "text-property/flavor-text", required: true, many: false },
++    { pagePropertySlug: "boolean-property/has-on-use-ability", required: true, many: false },
++    { pagePropertySlug: "boolean-property/has-set", required: true, many: false },
++    { pagePropertySlug: "boolean-property/is-unique", required: true, many: false },
++    { pagePropertySlug: "boolean-property/is-unique-equipped", required: true, many: false },
++    { pagePropertySlug: "number-property/required-cp", required: true, many: false },
++    { pagePropertySlug: "number-property/required-level", required: true, many: false },
++    { pagePropertySlug: "record-property/set-bonuses", required: true, many: true, max: null },
++    { pagePropertySlug: "number-property/set-id", required: true, many: false },
++    { pagePropertySlug: "number-property/set-max-equip", required: true, many: false },
++    { pagePropertySlug: "text-property/set-name", required: true, many: false },
++    { pagePropertySlug: "number-property/specialized-item-type", required: true, many: false },
++    { pagePropertySlug: "text-property/trait-description", required: true, many: false },
++    { pagePropertySlug: "number-property/trait-type", required: true, many: false },
++    { pagePropertySlug: "number-property/weapon-power", required: true, many: false },
++    { pagePropertySlug: "number-property/weapon-type", required: true, many: false },
+   ],
+ } as const satisfies PagePropertyEntry
+diff --git a/temper/temper-character/mines/properties/quests.page-property-entry.ts b/temper/temper-character/mines/properties/quests.page-property-entry.ts
+index 092eb016f71aa00e80144de93760a077b4d47306..3aa27d5871d786c7ed5fae5208f03adb2c59551b 100644
+--- a/temper/temper-character/mines/properties/quests.page-property-entry.ts
++++ b/temper/temper-character/mines/properties/quests.page-property-entry.ts
+@@ -9,12 +9,12 @@ export const quests = {
+   propertySlug: "quests",
+   definition: "every quest a sweep read out of the game, one quest to a line",
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "mined-at", required: true, many: false },
+-    { pagePropertySlug: "quest-id", required: true, many: false },
+-    { pagePropertySlug: "quest-type", required: true, many: false },
+-    { pagePropertySlug: "repeatable-type", required: true, many: false },
+-    { pagePropertySlug: "zone-id", required: true, many: false },
+-    { pagePropertySlug: "zone-name", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "instant-property/mined-at", required: true, many: false },
++    { pagePropertySlug: "number-property/quest-id", required: true, many: false },
++    { pagePropertySlug: "number-property/quest-type", required: true, many: false },
++    { pagePropertySlug: "number-property/repeatable-type", required: true, many: false },
++    { pagePropertySlug: "number-property/zone-id", required: true, many: false },
++    { pagePropertySlug: "text-property/zone-name", required: true, many: false },
+   ],
+ } as const satisfies PagePropertyEntry
+diff --git a/temper/temper-character/mines/properties/set-bonuses.record-property.ts b/temper/temper-character/mines/properties/set-bonuses.record-property.ts
+index b64a488c2f55f8dc2421c2e8ef5e94b7da7911b9..06e03d069b48065d460ccceae5b67bcca47fc637 100644
+--- a/temper/temper-character/mines/properties/set-bonuses.record-property.ts
++++ b/temper/temper-character/mines/properties/set-bonuses.record-property.ts
+@@ -19,8 +19,8 @@ export const setBonuses = {
+   propertySlug: "set-bonuses",
+   definition: "what a set gives at each number of pieces worn",
+   properties: [
+-    { pagePropertySlug: "description", required: true, many: false },
+-    { pagePropertySlug: "is-perfected", required: true, many: false },
+-    { pagePropertySlug: "num-required", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
++    { pagePropertySlug: "boolean-property/is-perfected", required: true, many: false },
++    { pagePropertySlug: "number-property/num-required", required: true, many: false },
+   ],
+ } as const satisfies RecordProperty
+diff --git a/temper/temper-character/mines/temper-mine.page-type.ts b/temper/temper-character/mines/temper-mine.page-type.ts
+index 37bc476242056fd2fa61ee42d92421f609a9281d..52da2cb0f23434b7abadff0a0bd53bb0070857c0 100644
+--- a/temper/temper-character/mines/temper-mine.page-type.ts
++++ b/temper/temper-character/mines/temper-mine.page-type.ts
+@@ -56,8 +56,8 @@ export const temperMine = {
+     "text-property/trait-description",
+   ],
+   properties: [
+-    { pagePropertySlug: "items", required: false, many: false },
+-    { pagePropertySlug: "quests", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/items", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/quests", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-character/players/temper-player.page-type.ts b/temper/temper-character/players/temper-player.page-type.ts
+index ade17cdc185a227523a42cd3496ff8d6a1febcd2..b03b447cafe36e1818cd44bde647a07669aa34fc 100644
+--- a/temper/temper-character/players/temper-player.page-type.ts
++++ b/temper/temper-character/players/temper-player.page-type.ts
+@@ -29,10 +29,10 @@ export const temperPlayer = {
+     "text-property/player-handle",
+   ],
+   properties: [
+-    { pagePropertySlug: "completion-visibility", required: true, many: false },
+-    { pagePropertySlug: "platform", required: false, many: false },
+-    { pagePropertySlug: "player-handle", required: false, many: false },
+-    { pagePropertySlug: "server", required: false, many: false },
+-    { pagePropertySlug: "settings", required: false, many: false },
++    { pagePropertySlug: "text-property/completion-visibility", required: true, many: false },
++    { pagePropertySlug: "select-property/platform", required: false, many: false },
++    { pagePropertySlug: "text-property/player-handle", required: false, many: false },
++    { pagePropertySlug: "select-property/server", required: false, many: false },
++    { pagePropertySlug: "file-property/settings", required: false, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-character/skill-points/temper-skill-point.page-type.ts b/temper/temper-character/skill-points/temper-skill-point.page-type.ts
+index 1bf527e5822d5dbed3a22405f5451a962fa2374b..595749acba948cedbd695ad59c576c9dccc9ef8c 100644
+--- a/temper/temper-character/skill-points/temper-skill-point.page-type.ts
++++ b/temper/temper-character/skill-points/temper-skill-point.page-type.ts
+@@ -23,10 +23,10 @@ export const temperSkillPoint = {
+     "number-property/max-value",
+   ],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "category", required: true, many: false },
+-    { pagePropertySlug: "max-quests", required: false, many: false },
+-    { pagePropertySlug: "max-skyshards", required: false, many: false },
+-    { pagePropertySlug: "max-value", required: false, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/category", required: true, many: false },
++    { pagePropertySlug: "number-property/max-quests", required: false, many: false },
++    { pagePropertySlug: "number-property/max-skyshards", required: false, many: false },
++    { pagePropertySlug: "number-property/max-value", required: false, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-character/temper-character-things/temper-character-thing.page-type.ts b/temper/temper-character/temper-character-things/temper-character-thing.page-type.ts
+index 5713b9524602657e9a8222ce317f497966372ed3..67cef34cb4cdf4417ff850ddca404938b5f704f8 100644
+--- a/temper/temper-character/temper-character-things/temper-character-thing.page-type.ts
++++ b/temper/temper-character/temper-character-things/temper-character-thing.page-type.ts
+@@ -17,8 +17,8 @@ export const temperCharacterThing = {
+   extendsSlug: ["page-type/temper-thing"],
+   partSlugs: ["file-property/completion", "text-property/target-build-id"],
+   properties: [
+-    { pagePropertySlug: "completion", required: false, many: false },
+-    { pagePropertySlug: "target-build-id", required: false, many: false },
++    { pagePropertySlug: "file-property/completion", required: false, many: false },
++    { pagePropertySlug: "text-property/target-build-id", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-holdings/guild-traders/temper-guild-trader.page-type.ts b/temper/temper-holdings/guild-traders/temper-guild-trader.page-type.ts
+index 9cdd61a90e3b9e520b1462096be7fdb9170ed9e9..91d58fee336099d59aa4c8d3ddeff49e5f9f04f2 100644
+--- a/temper/temper-holdings/guild-traders/temper-guild-trader.page-type.ts
++++ b/temper/temper-holdings/guild-traders/temper-guild-trader.page-type.ts
+@@ -14,5 +14,5 @@ export const temperGuildTrader = {
+   pluralSlug: "temper-guild-traders",
+   extendsSlug: ["page-type/temper-thing"],
+   partSlugs: ["number-property/kiosk-id"],
+-  properties: [{ pagePropertySlug: "kiosk-id", required: true, many: false }],
++  properties: [{ pagePropertySlug: "number-property/kiosk-id", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts b/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts
+index b3a2fdbea1aad413476e96a2e2d653ef70cdfbee..300241bf7616871fae798fdd70cdb7608bf73bd1 100644
+--- a/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts
++++ b/temper/temper-holdings/inventory-chunks/temper-inventory-chunk.page-type.ts
+@@ -23,10 +23,10 @@ export const temperInventoryChunk = {
+     "relation-property/inventory",
+   ],
+   properties: [
+-    { pagePropertySlug: "account-page", required: true, many: false },
+-    { pagePropertySlug: "inventory", required: true, many: false },
+-    { pagePropertySlug: "chunk-index", required: true, many: false },
+-    { pagePropertySlug: "byte-count", required: true, many: false },
++    { pagePropertySlug: "text-property/account-page", required: true, many: false },
++    { pagePropertySlug: "relation-property/inventory", required: true, many: false },
++    { pagePropertySlug: "number-property/chunk-index", required: true, many: false },
++    { pagePropertySlug: "number-property/byte-count", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-holdings/inventory-currencies/temper-inventory-currency.page-type.ts b/temper/temper-holdings/inventory-currencies/temper-inventory-currency.page-type.ts
+index a39338be64a55fa7fe9c6a322553f666f08aff51..017d9aa71d418f5681edcc35325a0eaa205caee9 100644
+--- a/temper/temper-holdings/inventory-currencies/temper-inventory-currency.page-type.ts
++++ b/temper/temper-holdings/inventory-currencies/temper-inventory-currency.page-type.ts
+@@ -11,7 +11,7 @@ export const temperInventoryCurrency = {
+   pluralSlug: "temper-inventory-currencies",
+   extendsSlug: ["page-type/temper-thing"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/bag-sizes.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/bag-sizes.page-property-entry.ts
+index 0111f617c5812ff9e90e84bbba38b8cc540f7564..315b12ffaeadaca0b42dc9279a3a91eba5746417 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/bag-sizes.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/bag-sizes.page-property-entry.ts
+@@ -9,9 +9,9 @@ export const bagSizes = {
+   propertySlug: "bag-sizes",
+   definition: "how many slots each bag of each holder has, one bag to a line",
+   properties: [
+-    { pagePropertySlug: "location-id", required: true, many: false },
+-    { pagePropertySlug: "bag", required: true, many: false },
+-    { pagePropertySlug: "bag-size", required: true, many: false },
++    { pagePropertySlug: "text-property/location-id", required: true, many: false },
++    { pagePropertySlug: "number-property/bag", required: true, many: false },
++    { pagePropertySlug: "number-property/bag-size", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/crafting-levels.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/crafting-levels.page-property-entry.ts
+index 09a62f7c9cf49d6af80e5571071130db8c6c188b..16c84c11e7e6d8beece71c76aa746580bac4b0d7 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/crafting-levels.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/crafting-levels.page-property-entry.ts
+@@ -9,9 +9,9 @@ export const craftingLevels = {
+   propertySlug: "crafting-levels",
+   definition: "how far each character has come in each craft, one craft to a line",
+   properties: [
+-    { pagePropertySlug: "eso-character-id", required: true, many: false },
+-    { pagePropertySlug: "craft-type-id", required: true, many: false },
+-    { pagePropertySlug: "crafting-level", required: true, many: false },
++    { pagePropertySlug: "text-property/eso-character-id", required: true, many: false },
++    { pagePropertySlug: "number-property/craft-type-id", required: true, many: false },
++    { pagePropertySlug: "number-property/crafting-level", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/currencies.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/currencies.page-property-entry.ts
+index c239e62c27e730efcf7df3bd16b5f5d38d95e8f8..610740c1ad4f3988061222be7e5d275df6a49451 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/currencies.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/currencies.page-property-entry.ts
+@@ -9,11 +9,11 @@ export const currencies = {
+   propertySlug: "currencies",
+   definition: "how much of each currency is held, one purse to a line",
+   properties: [
+-    { pagePropertySlug: "currency-scope", required: true, many: false },
+-    { pagePropertySlug: "eso-character-id", required: false, many: false },
+-    { pagePropertySlug: "currency-key", required: true, many: false },
+-    { pagePropertySlug: "currency-amount", required: true, many: false },
+-    { pagePropertySlug: "last-scanned-at", required: false, many: false },
++    { pagePropertySlug: "text-property/currency-scope", required: true, many: false },
++    { pagePropertySlug: "text-property/eso-character-id", required: false, many: false },
++    { pagePropertySlug: "relation-property/currency-key", required: true, many: false },
++    { pagePropertySlug: "number-property/currency-amount", required: true, many: false },
++    { pagePropertySlug: "instant-property/last-scanned-at", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/open-cooldowns.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/open-cooldowns.page-property-entry.ts
+index 60627f51f22ae3bce97213a52440d0c7b06bc997..edbea2c32ebb1b29e95d6f5953734f44943d0966 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/open-cooldowns.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/open-cooldowns.page-property-entry.ts
+@@ -9,8 +9,8 @@ export const openCooldowns = {
+   propertySlug: "open-cooldowns",
+   definition: "when each timed activity comes round again, one activity to a line",
+   properties: [
+-    { pagePropertySlug: "cooldown-key", required: true, many: false },
+-    { pagePropertySlug: "ready-at", required: true, many: false },
++    { pagePropertySlug: "text-property/cooldown-key", required: true, many: false },
++    { pagePropertySlug: "instant-property/ready-at", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/placed-furnishings.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/placed-furnishings.page-property-entry.ts
+index 6684b8fa579300af51ab1421026aaa1e6e79b7e5..ab1fea526a94f0d94c727af5ae955f932e170c29 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/placed-furnishings.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/placed-furnishings.page-property-entry.ts
+@@ -9,18 +9,18 @@ export const placedFurnishings = {
+   propertySlug: "placed-furnishings",
+   definition: "what furnishing sits in each home and what it is worth, one furnishing to a line",
+   properties: [
+-    { pagePropertySlug: "location-id", required: true, many: false },
+-    { pagePropertySlug: "furnishing-key", required: true, many: false },
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "item-quality", required: false, many: false },
+-    { pagePropertySlug: "item-link", required: false, many: false },
+-    { pagePropertySlug: "collectible-link", required: false, many: false },
+-    { pagePropertySlug: "sale-avg", required: false, many: false },
+-    { pagePropertySlug: "min-price", required: false, many: false },
+-    { pagePropertySlug: "amount-count", required: false, many: false },
+-    { pagePropertySlug: "sale-amount-count", required: false, many: false },
+-    { pagePropertySlug: "suggested-price", required: false, many: false },
+-    { pagePropertySlug: "estimated-value", required: false, many: false },
++    { pagePropertySlug: "text-property/location-id", required: true, many: false },
++    { pagePropertySlug: "text-property/furnishing-key", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "number-property/item-quality", required: false, many: false },
++    { pagePropertySlug: "text-property/item-link", required: false, many: false },
++    { pagePropertySlug: "text-property/collectible-link", required: false, many: false },
++    { pagePropertySlug: "number-property/sale-avg", required: false, many: false },
++    { pagePropertySlug: "number-property/min-price", required: false, many: false },
++    { pagePropertySlug: "number-property/amount-count", required: false, many: false },
++    { pagePropertySlug: "number-property/sale-amount-count", required: false, many: false },
++    { pagePropertySlug: "number-property/suggested-price", required: false, many: false },
++    { pagePropertySlug: "number-property/estimated-value", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/snapshot-locations.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/snapshot-locations.page-property-entry.ts
+index 1b9ccd148312689560732a6c2119799e9158d23f..b96ed4861e87679078bf2559eda7184bf6324f7f 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/snapshot-locations.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/snapshot-locations.page-property-entry.ts
+@@ -9,9 +9,9 @@ export const snapshotLocations = {
+   propertySlug: "locations",
+   definition: "what each bag holder was named and when it was last read, one holder to a line",
+   properties: [
+-    { pagePropertySlug: "location-id", required: true, many: false },
+-    { pagePropertySlug: "eso-display-name", required: true, many: false },
+-    { pagePropertySlug: "last-scanned-at", required: true, many: false },
++    { pagePropertySlug: "text-property/location-id", required: true, many: false },
++    { pagePropertySlug: "text-property/eso-display-name", required: true, many: false },
++    { pagePropertySlug: "instant-property/last-scanned-at", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/stacks.page-property-entry.ts b/temper/temper-holdings/inventory-snapshots/properties/stacks.page-property-entry.ts
+index dd98750c15deb2e9fdd241cdc28ecad6a9e8a23e..f97cf848172ebfa7053f7ab1b5c9e40f724ec575 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/stacks.page-property-entry.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/stacks.page-property-entry.ts
+@@ -9,45 +9,45 @@ export const stacks = {
+   propertySlug: "stacks",
+   definition: "what a reading found in every slot, one slot to a line",
+   properties: [
+-    { pagePropertySlug: "location-id", required: true, many: false },
+-    { pagePropertySlug: "bag", required: true, many: false },
+-    { pagePropertySlug: "slot", required: true, many: false },
+-    { pagePropertySlug: "item-id", required: true, many: false },
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "item-link", required: true, many: false },
+-    { pagePropertySlug: "item-quality", required: true, many: false },
+-    { pagePropertySlug: "filter-type", required: true, many: false },
+-    { pagePropertySlug: "item-type", required: true, many: false },
+-    { pagePropertySlug: "trait-type", required: true, many: false },
+-    { pagePropertySlug: "required-level", required: true, many: false },
+-    { pagePropertySlug: "required-cp", required: true, many: false },
+-    { pagePropertySlug: "stack-count", required: true, many: false },
+-    { pagePropertySlug: "stolen", required: false, many: false },
+-    { pagePropertySlug: "bound", required: false, many: false },
+-    { pagePropertySlug: "reconstructed", required: false, many: false },
+-    { pagePropertySlug: "transmuted", required: false, many: false },
+-    { pagePropertySlug: "locked", required: false, many: false },
+-    { pagePropertySlug: "crafted", required: false, many: false },
+-    { pagePropertySlug: "bop-tradeable", required: false, many: false },
+-    { pagePropertySlug: "quest-relevant", required: false, many: false },
+-    { pagePropertySlug: "specialized-item-type", required: false, many: false },
+-    { pagePropertySlug: "merchant-value", required: false, many: false },
+-    { pagePropertySlug: "min-price", required: false, many: false },
+-    { pagePropertySlug: "amount-count", required: false, many: false },
+-    { pagePropertySlug: "estimated-value", required: false, many: false },
+-    { pagePropertySlug: "suggested-price", required: false, many: false },
+-    { pagePropertySlug: "sale-avg", required: false, many: false },
+-    { pagePropertySlug: "sale-amount-count", required: false, many: false },
+-    { pagePropertySlug: "equip-type", required: false, many: false },
+-    { pagePropertySlug: "armor-type", required: false, many: false },
+-    { pagePropertySlug: "weapon-type", required: false, many: false },
+-    { pagePropertySlug: "set-id", required: false, many: false },
+-    { pagePropertySlug: "known", required: false, many: false },
+-    { pagePropertySlug: "replacement-cost", required: false, many: false },
+-    { pagePropertySlug: "furniture-category", required: false, many: false },
+-    { pagePropertySlug: "furniture-category-id", required: false, many: false },
+-    { pagePropertySlug: "furniture-subcategory-id", required: false, many: false },
+-    { pagePropertySlug: "is-container", required: false, many: false },
++    { pagePropertySlug: "text-property/location-id", required: true, many: false },
++    { pagePropertySlug: "number-property/bag", required: true, many: false },
++    { pagePropertySlug: "number-property/slot", required: true, many: false },
++    { pagePropertySlug: "number-property/item-id", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/item-link", required: true, many: false },
++    { pagePropertySlug: "number-property/item-quality", required: true, many: false },
++    { pagePropertySlug: "number-property/filter-type", required: true, many: false },
++    { pagePropertySlug: "number-property/item-type", required: true, many: false },
++    { pagePropertySlug: "number-property/trait-type", required: true, many: false },
++    { pagePropertySlug: "number-property/required-level", required: true, many: false },
++    { pagePropertySlug: "number-property/required-cp", required: true, many: false },
++    { pagePropertySlug: "number-property/stack-count", required: true, many: false },
++    { pagePropertySlug: "boolean-property/stolen", required: false, many: false },
++    { pagePropertySlug: "boolean-property/bound", required: false, many: false },
++    { pagePropertySlug: "boolean-property/reconstructed", required: false, many: false },
++    { pagePropertySlug: "boolean-property/transmuted", required: false, many: false },
++    { pagePropertySlug: "boolean-property/locked", required: false, many: false },
++    { pagePropertySlug: "boolean-property/crafted", required: false, many: false },
++    { pagePropertySlug: "boolean-property/bop-tradeable", required: false, many: false },
++    { pagePropertySlug: "boolean-property/quest-relevant", required: false, many: false },
++    { pagePropertySlug: "number-property/specialized-item-type", required: false, many: false },
++    { pagePropertySlug: "number-property/merchant-value", required: false, many: false },
++    { pagePropertySlug: "number-property/min-price", required: false, many: false },
++    { pagePropertySlug: "number-property/amount-count", required: false, many: false },
++    { pagePropertySlug: "number-property/estimated-value", required: false, many: false },
++    { pagePropertySlug: "number-property/suggested-price", required: false, many: false },
++    { pagePropertySlug: "number-property/sale-avg", required: false, many: false },
++    { pagePropertySlug: "number-property/sale-amount-count", required: false, many: false },
++    { pagePropertySlug: "number-property/equip-type", required: false, many: false },
++    { pagePropertySlug: "number-property/armor-type", required: false, many: false },
++    { pagePropertySlug: "number-property/weapon-type", required: false, many: false },
++    { pagePropertySlug: "number-property/set-id", required: false, many: false },
++    { pagePropertySlug: "boolean-property/known", required: false, many: false },
++    { pagePropertySlug: "number-property/replacement-cost", required: false, many: false },
++    { pagePropertySlug: "text-property/furniture-category", required: false, many: false },
++    { pagePropertySlug: "number-property/furniture-category-id", required: false, many: false },
++    { pagePropertySlug: "number-property/furniture-subcategory-id", required: false, many: false },
++    { pagePropertySlug: "boolean-property/is-container", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/temper/temper-holdings/inventory-snapshots/temper-inventory-snapshot.page-type.ts b/temper/temper-holdings/inventory-snapshots/temper-inventory-snapshot.page-type.ts
+index fb7c3b6df935d52853708effd7464f81fd6f0e99..86502af1ff6f06ae8a89c552d419cfa8b8b13bbf 100644
+--- a/temper/temper-holdings/inventory-snapshots/temper-inventory-snapshot.page-type.ts
++++ b/temper/temper-holdings/inventory-snapshots/temper-inventory-snapshot.page-type.ts
+@@ -89,22 +89,22 @@ export const temperInventorySnapshot = {
+     "text-property/price-source",
+   ],
+   properties: [
+-    { pagePropertySlug: "account-page", required: true, many: false },
+-    { pagePropertySlug: "captured-at", required: true, many: false },
+-    { pagePropertySlug: "total-value", required: true, many: false },
+-    { pagePropertySlug: "chunk-count", required: true, many: false },
+-    { pagePropertySlug: "stacks", required: false, many: false },
+-    { pagePropertySlug: "data", required: false, many: false },
+-    { pagePropertySlug: "last-full-scan-at", required: false, many: false },
+-    { pagePropertySlug: "price-source", required: false, many: false },
+-    { pagePropertySlug: "transmute-crystal-amount", required: false, many: false },
+-    { pagePropertySlug: "transmute-crystal-cap", required: false, many: false },
++    { pagePropertySlug: "text-property/account-page", required: true, many: false },
++    { pagePropertySlug: "instant-property/captured-at", required: true, many: false },
++    { pagePropertySlug: "number-property/total-value", required: true, many: false },
++    { pagePropertySlug: "number-property/chunk-count", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/stacks", required: false, many: false },
++    { pagePropertySlug: "file-property/data", required: false, many: false },
++    { pagePropertySlug: "instant-property/last-full-scan-at", required: false, many: false },
++    { pagePropertySlug: "text-property/price-source", required: false, many: false },
++    { pagePropertySlug: "number-property/transmute-crystal-amount", required: false, many: false },
++    { pagePropertySlug: "number-property/transmute-crystal-cap", required: false, many: false },
+     { pagePropertySlug: "page-property-entry/snapshot-locations", required: false, many: false },
+-    { pagePropertySlug: "bag-sizes", required: false, many: false },
+-    { pagePropertySlug: "currencies", required: false, many: false },
+-    { pagePropertySlug: "crafting-levels", required: false, many: false },
+-    { pagePropertySlug: "placed-furnishings", required: false, many: false },
+-    { pagePropertySlug: "open-cooldowns", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/bag-sizes", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/currencies", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/crafting-levels", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/placed-furnishings", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/open-cooldowns", required: false, many: false },
+   ],
+   invariants: [
+     {
