@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/agents/models/gateway/modules/bind-with-retry/bind-with-retry.module.ts b/agents/models/gateway/modules/bind-with-retry/bind-with-retry.module.ts
+index 7096c12201de73f470bdf02e03fa3d455dd99306..daa7950710caf684b386847e42da9fc6158b5178 100644
+--- a/agents/models/gateway/modules/bind-with-retry/bind-with-retry.module.ts
++++ b/agents/models/gateway/modules/bind-with-retry/bind-with-retry.module.ts
+@@ -34,7 +34,7 @@ export const bindWithRetry = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Retries are spaced by a fixed interval rather than a growing one.",
++      statement: "Retries are spaced by a fixed interval rather than a growing interval.",
+     },
+     {
+       invariantKind: "constraint",
