@@ -66,7 +66,7 @@ export const workTree = {
     },
     {
       invariantKind: "departure",
-      statement: "An intent opens the page of the initiative holding it.",
+      statement: "An intent opens the page of the initiative holding that intent.",
     },
     {
       invariantKind: "departure",
@@ -74,11 +74,11 @@ export const workTree = {
     },
     {
       invariantKind: "departure",
-      statement: "A row says whether it is an initiative or an intent.",
+      statement: "A row says whether the row is an initiative or an intent.",
     },
     {
       invariantKind: "departure",
-      statement: "The rows are counted by what each row is rather than all together.",
+      statement: "The rows are counted by the kind each row is rather than all together.",
     },
     {
       invariantKind: "departure",
