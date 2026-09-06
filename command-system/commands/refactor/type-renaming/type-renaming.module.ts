@@ -53,8 +53,11 @@ export const typeRenaming = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The folder holding many of its pages is named for its plural and moves with that.",
+      statement: "The folder holding a type's pages is named for that type's plural.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That folder moves with the type.",
     },
     {
       invariantKind: "departure",
