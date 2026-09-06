@@ -1,9 +1,18 @@
-readersOweReading: false
 diff --git a/alan/harness/monarch/eval-run/monarch-eval-run.module.ts b/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
-index cbe0f202507ace32cfd7f5b098fd94ba7209a3f7..afbaefd7c3418aca4ff2ee929422d5bde5a7a676 100644
+index cbe0f202507ace32cfd7f5b098fd94ba7209a3f7..97c27af7751f1f93de40dfc83ecac28cdb6ac357 100644
 --- a/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
 +++ b/alan/harness/monarch/eval-run/monarch-eval-run.module.ts
-@@ -23,7 +23,7 @@ export const monarchEvalRun = {
+@@ -18,12 +18,15 @@ export const monarchEvalRun = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The Monarch pages are marked before and after, so a run says whether anything moved under that run.",
++      statement: "The Monarch pages are marked before and after a run.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run says whether anything moved under that run.",
      },
      {
        invariantKind: "departure",
