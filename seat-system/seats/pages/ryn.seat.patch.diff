@@ -1,8 +1,8 @@
 diff --git a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
-index 7ebd6c69a6aef371fde996572826464c40c2224f..98020f5876e5c90ab18f4855e6bea3799f359d4e 100644
+index 7ebd6c69a6aef371fde996572826464c40c2224f..7421a0fc33c26f452ef403eff8ad1e4f686c3fae 100644
 --- a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
 +++ b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
-@@ -42,8 +42,11 @@ export const monarchAccount = {
+@@ -42,13 +42,20 @@ export const monarchAccount = {
    invariants: [
      {
        invariantKind: "departure",
@@ -13,6 +13,16 @@ index 7ebd6c69a6aef371fde996572826464c40c2224f..98020f5876e5c90ab18f4855e6bea379
 +    {
 +      invariantKind: "departure",
 +      statement: "A retirement or brokerage balance moves without a row against that balance.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "Monarch reopens a closed account under a second id rather than reviving the first, so two accounts carry the same last four digits.",
++        "Monarch reopens a closed account under a second id rather than reviving the first id.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Two accounts carry the same last four digits.",
      },
      {
        invariantKind: "departure",
