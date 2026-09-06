@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/amazon-lines/monarch-amazon-lines.module.ts b/alan/harness/monarch/amazon-lines/monarch-amazon-lines.module.ts
-index 4379ceb26cb4d693d29c716c81d46bd488af9d79..6d56b13f6dbaf3f9b8b25e53ac96f97993989f81 100644
+index 4379ceb26cb4d693d29c716c81d46bd488af9d79..6233985275f5e0db94b362338fa358f3cee23998 100644
 --- a/alan/harness/monarch/amazon-lines/monarch-amazon-lines.module.ts
 +++ b/alan/harness/monarch/amazon-lines/monarch-amazon-lines.module.ts
 @@ -13,8 +13,7 @@ export const monarchAmazonLines = {
@@ -12,3 +12,13 @@ index 4379ceb26cb4d693d29c716c81d46bd488af9d79..6d56b13f6dbaf3f9b8b25e53ac96f979
      },
      {
        invariantKind: "departure",
+@@ -22,8 +21,7 @@ export const monarchAmazonLines = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Which direction is wanted is asked of the caller, so charges and refunds draw from one reader.",
++      statement: "Which direction is wanted is asked of the caller.",
+     },
+     {
+       invariantKind: "absence",
