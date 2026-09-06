@@ -1,0 +1,487 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/alan/fitness/commands/exercise-commands.workspace-package.ts b/alan/fitness/commands/exercise-commands.workspace-package.ts
+index bd5f897ed98ec60c0ec1a1016cf9248636ba530b..2312acce0b6172101c15513313a9a0ade9401ca0 100644
+--- a/alan/fitness/commands/exercise-commands.workspace-package.ts
++++ b/alan/fitness/commands/exercise-commands.workspace-package.ts
+@@ -25,7 +25,7 @@ export const exerciseCommands = {
+     "command/exercise-schedule-create",
+     "command/exercise-select",
+     "command/track-workout-finish",
+-    "command/exercise-session-show",
++    "command/track-workout-show",
+     "command/track-workout-start",
+     "command/exercise-today",
+     "module/exercise-said",
+diff --git a/alan/fitness/commands/exercise-session-show/exercise-session-show.command.code.ts b/alan/fitness/commands/exercise-session-show/exercise-session-show.command.code.ts
+deleted file mode 100644
+index bb71f571c62ee820e5bb155bf5805d893a41064d..0000000000000000000000000000000000000000
+--- a/alan/fitness/commands/exercise-session-show/exercise-session-show.command.code.ts
++++ /dev/null
+@@ -1,180 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import { openSession } from "@akasha/exercise-access/exercise-finding"
+-import {
+-  boolIn,
+-  numberIn,
+-  type Row,
+-  rowFor,
+-  rowsFor,
+-  textIn,
+-  titleOf,
+-} from "@akasha/exercise-access/exercise-rows"
+-import { statedBodyweight } from "@akasha/exercise-access/session-volume"
+-import type { VolumeSetInput } from "@akasha/exercise-access/set-volume"
+-import { computeSessionVolume } from "@akasha/exercise-access/set-volume"
+-import {
+-  asJson,
+-  DATA,
+-  JSON_SAID,
+-  refusedBy,
+-  told,
+-  wantsJson,
+-  wordsIn,
+-} from "../exercise-saying/exercise-saying.module.code.ts"
+-
+-const SESSION = "--session"
+-
+-const SHAPE = { valued: [SESSION], switches: [JSON_SAID] }
+-
+-const STRENGTH = "strength"
+-
+-const EMPTY = "-"
+-
+-const SET_LOG = "set-log"
+-
+-const EXERCISE = "exercise"
+-
+-const SCHEDULE_DAY = "schedule-day"
+-
+-export type MovementInfo = {
+-  readonly title: string
+-  readonly loadFactor: number | undefined
+-  readonly implementCount: number | undefined
+-}
+-
+-export type SetLine = {
+-  readonly exercise: string
+-  readonly setNumber: number
+-  readonly reps: number | undefined
+-  readonly weight: number | undefined
+-  readonly rpe: number | undefined
+-  readonly isWarmup: boolean
+-  readonly note: string | undefined
+-  readonly activityType: string | undefined
+-  readonly durationSeconds: number | undefined
+-  readonly distance: number | undefined
+-}
+-
+-export function setLinesOf(
+-  rows: readonly Row[],
+-  movements: ReadonlyMap<string, MovementInfo>
+-): readonly SetLine[] {
+-  return rows
+-    .map((row) => {
+-      const exerciseSlug = textIn(row, "exerciseSlug")
+-      const info = exerciseSlug !== undefined ? movements.get(exerciseSlug) : undefined
+-      return {
+-        exercise: info?.title ?? exerciseSlug ?? EMPTY,
+-        setNumber: numberIn(row, "setNumber") ?? 0,
+-        reps: numberIn(row, "reps"),
+-        weight: numberIn(row, "weight"),
+-        rpe: numberIn(row, "rpe"),
+-        isWarmup: boolIn(row, "isWarmup") ?? false,
+-        note: textIn(row, "note"),
+-        activityType: textIn(row, "activityType"),
+-        durationSeconds: numberIn(row, "durationSeconds"),
+-        distance: numberIn(row, "distance"),
+-      }
+-    })
+-    .sort((a, b) => {
+-      const byMovement = a.exercise.localeCompare(b.exercise)
+-      return byMovement !== 0 ? byMovement : a.setNumber - b.setNumber
+-    })
+-}
+-
+-export function rowOf(line: SetLine): string {
+-  return (
+-    `set\t${line.exercise}\t${line.setNumber}\t${line.activityType ?? STRENGTH}` +
+-    `\t${line.reps ?? EMPTY}\t${line.weight ?? EMPTY}\t${line.rpe ?? EMPTY}` +
+-    `\t${line.durationSeconds ?? EMPTY}\t${line.distance ?? EMPTY}\t${line.note ?? EMPTY}` +
+-    `${line.isWarmup ? "\twarmup" : ""}`
+-  )
+-}
+-
+-type Named = { readonly title: string | null } | { readonly refused: string }
+-
+-async function titleBySlug(pageTypeSlug: string, slug: string | undefined): Promise<Named> {
+-  if (slug === undefined) return { title: null }
+-  const found = await rowFor({ pageTypeSlug, where: [{ key: "slug", eq: slug }] })
+-  if ("unread" in found) return { refused: found.unread }
+-  return { title: found.row === null ? null : titleOf(found.row) }
+-}
+-
+-export async function exerciseSessionShow(argv: readonly string[] = []): Promise<Answer> {
+-  const said = wordsIn(argv, SHAPE)
+-  if ("refused" in said) return refusedBy(said.refused)
+-
+-  const found = await openSession(said.named[SESSION], new Date())
+-  if ("refused" in found) return refusedBy([found.refused], DATA)
+-  const session = found.row
+-  if (session.slug === null) {
+-    return refusedBy([`session ${session.id} carries no slug, so nothing names it`], DATA)
+-  }
+-
+-  const setLogs = await rowsFor({
+-    pageTypeSlug: SET_LOG,
+-    where: [{ key: "sessionSlug", eq: session.slug }],
+-  })
+-  if ("unread" in setLogs) return refusedBy([setLogs.unread], DATA)
+-
+-  const exerciseSlugs = [
+-    ...new Set(
+-      setLogs.rows
+-        .map((row) => textIn(row, "exerciseSlug"))
+-        .filter((slug): slug is string => slug !== undefined)
+-    ),
+-  ]
+-  const movements = new Map<string, MovementInfo>()
+-  if (exerciseSlugs.length > 0) {
+-    const rows = await rowsFor({
+-      pageTypeSlug: EXERCISE,
+-      where: [{ key: "slug", in: exerciseSlugs }],
+-      select: ["id", "slug", "title", "loadFactor", "implementCount"],
+-    })
+-    if ("unread" in rows) return refusedBy([rows.unread], DATA)
+-    for (const row of rows.rows) {
+-      if (row.slug === null) continue
+-      movements.set(row.slug, {
+-        title: row.title ?? row.slug,
+-        loadFactor: numberIn(row, "loadFactor"),
+-        implementCount: numberIn(row, "implementCount"),
+-      })
+-    }
+-  }
+-
+-  const weighed = await statedBodyweight()
+-  if ("refused" in weighed) return refusedBy([weighed.refused], DATA)
+-
+-  const volumeInputs: readonly VolumeSetInput[] = setLogs.rows.map((row) => {
+-    const exerciseSlug = textIn(row, "exerciseSlug")
+-    const info = exerciseSlug !== undefined ? movements.get(exerciseSlug) : undefined
+-    return {
+-      reps: numberIn(row, "reps"),
+-      weight: numberIn(row, "weight"),
+-      isWarmup: boolIn(row, "isWarmup"),
+-      activityType: textIn(row, "activityType"),
+-      loadFactor: info?.loadFactor,
+-      implementCount: info?.implementCount,
+-    }
+-  })
+-
+-  const scheduleDay = await titleBySlug(SCHEDULE_DAY, textIn(session, "scheduleDaySlug"))
+-  if ("refused" in scheduleDay) return refusedBy([scheduleDay.refused], DATA)
+-
+-  const header = {
+-    id: session.id,
+-    title: titleOf(session),
+-    date: textIn(session, "workoutSessionDate") ?? null,
+-    scheduleDay: scheduleDay.title,
+-    startedAt: textIn(session, "workoutSessionStartedAt") ?? null,
+-    completedAt: textIn(session, "workoutSessionCompletedAt") ?? null,
+-    totalVolume: computeSessionVolume(volumeInputs, weighed.bodyweight),
+-  }
+-  const lines = setLinesOf(setLogs.rows, movements)
+-
+-  if (wantsJson(said)) return asJson({ ...header, sets: lines })
+-  return told([
+-    ...Object.entries(header).map(([key, value]) => `${key}\t${value ?? EMPTY}`),
+-    ...lines.map(rowOf),
+-  ])
+-}
+diff --git a/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts b/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts
+deleted file mode 100644
+index 50b3ef8a0a21740c16fbfdc7350e97c4edc554fe..0000000000000000000000000000000000000000
+--- a/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts
++++ /dev/null
+@@ -1,44 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const exerciseSessionShow = {
+-  id: "01a0685d-b7ab-740e-bebb-d9fc659109e8",
+-  pageTypeSlug: "command",
+-  slug: "exercise-session-show",
+-  definition: "the command naming one session's header and every set logged against it",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    {
+-      said: "--session <ref>",
+-      takes: "the session shown, named by id, by title or by part of either",
+-    },
+-    { said: "--json", takes: "give the session as JSON rather than as tab-separated rows" },
+-  ],
+-  helpNotes: [
+-    "the sets come grouped by movement, and within a movement by set number.",
+-    "a movement is named by its exercise page's title, falling back to its slug.",
+-    "the volume counts the bodyweight the client profile states.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The sets are ordered by movement and then by set number.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A movement is named by its exercise page's title rather than by its slug.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A set naming no activity is strength.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A warmup set is marked as a warmup.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here changes the session or its sets.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/alan/fitness/commands/track-workout-show/track-workout-show.command.code.ts b/alan/fitness/commands/track-workout-show/track-workout-show.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..620a2bf7ec89a36d14549aac5d1fc54b4eaddcbe
+--- /dev/null
++++ b/alan/fitness/commands/track-workout-show/track-workout-show.command.code.ts
+@@ -0,0 +1,180 @@
++import type { Answer } from "@akasha/command-system/calling"
++import { openSession } from "@akasha/exercise-access/exercise-finding"
++import {
++  boolIn,
++  numberIn,
++  type Row,
++  rowFor,
++  rowsFor,
++  textIn,
++  titleOf,
++} from "@akasha/exercise-access/exercise-rows"
++import { statedBodyweight } from "@akasha/exercise-access/session-volume"
++import type { VolumeSetInput } from "@akasha/exercise-access/set-volume"
++import { computeSessionVolume } from "@akasha/exercise-access/set-volume"
++import {
++  asJson,
++  DATA,
++  JSON_SAID,
++  refusedBy,
++  told,
++  wantsJson,
++  wordsIn,
++} from "../exercise-saying/exercise-saying.module.code.ts"
++
++const SESSION = "--session"
++
++const SHAPE = { valued: [SESSION], switches: [JSON_SAID] }
++
++const STRENGTH = "strength"
++
++const EMPTY = "-"
++
++const SET_LOG = "set-log"
++
++const EXERCISE = "exercise"
++
++const SCHEDULE_DAY = "schedule-day"
++
++export type MovementInfo = {
++  readonly title: string
++  readonly loadFactor: number | undefined
++  readonly implementCount: number | undefined
++}
++
++export type SetLine = {
++  readonly exercise: string
++  readonly setNumber: number
++  readonly reps: number | undefined
++  readonly weight: number | undefined
++  readonly rpe: number | undefined
++  readonly isWarmup: boolean
++  readonly note: string | undefined
++  readonly activityType: string | undefined
++  readonly durationSeconds: number | undefined
++  readonly distance: number | undefined
++}
++
++export function setLinesOf(
++  rows: readonly Row[],
++  movements: ReadonlyMap<string, MovementInfo>
++): readonly SetLine[] {
++  return rows
++    .map((row) => {
++      const exerciseSlug = textIn(row, "exerciseSlug")
++      const info = exerciseSlug !== undefined ? movements.get(exerciseSlug) : undefined
++      return {
++        exercise: info?.title ?? exerciseSlug ?? EMPTY,
++        setNumber: numberIn(row, "setNumber") ?? 0,
++        reps: numberIn(row, "reps"),
++        weight: numberIn(row, "weight"),
++        rpe: numberIn(row, "rpe"),
++        isWarmup: boolIn(row, "isWarmup") ?? false,
++        note: textIn(row, "note"),
++        activityType: textIn(row, "activityType"),
++        durationSeconds: numberIn(row, "durationSeconds"),
++        distance: numberIn(row, "distance"),
++      }
++    })
++    .sort((a, b) => {
++      const byMovement = a.exercise.localeCompare(b.exercise)
++      return byMovement !== 0 ? byMovement : a.setNumber - b.setNumber
++    })
++}
++
++export function rowOf(line: SetLine): string {
++  return (
++    `set\t${line.exercise}\t${line.setNumber}\t${line.activityType ?? STRENGTH}` +
++    `\t${line.reps ?? EMPTY}\t${line.weight ?? EMPTY}\t${line.rpe ?? EMPTY}` +
++    `\t${line.durationSeconds ?? EMPTY}\t${line.distance ?? EMPTY}\t${line.note ?? EMPTY}` +
++    `${line.isWarmup ? "\twarmup" : ""}`
++  )
++}
++
++type Named = { readonly title: string | null } | { readonly refused: string }
++
++async function titleBySlug(pageTypeSlug: string, slug: string | undefined): Promise<Named> {
++  if (slug === undefined) return { title: null }
++  const found = await rowFor({ pageTypeSlug, where: [{ key: "slug", eq: slug }] })
++  if ("unread" in found) return { refused: found.unread }
++  return { title: found.row === null ? null : titleOf(found.row) }
++}
++
++export async function trackWorkoutShow(argv: readonly string[] = []): Promise<Answer> {
++  const said = wordsIn(argv, SHAPE)
++  if ("refused" in said) return refusedBy(said.refused)
++
++  const found = await openSession(said.named[SESSION], new Date())
++  if ("refused" in found) return refusedBy([found.refused], DATA)
++  const session = found.row
++  if (session.slug === null) {
++    return refusedBy([`session ${session.id} carries no slug, so nothing names it`], DATA)
++  }
++
++  const setLogs = await rowsFor({
++    pageTypeSlug: SET_LOG,
++    where: [{ key: "sessionSlug", eq: session.slug }],
++  })
++  if ("unread" in setLogs) return refusedBy([setLogs.unread], DATA)
++
++  const exerciseSlugs = [
++    ...new Set(
++      setLogs.rows
++        .map((row) => textIn(row, "exerciseSlug"))
++        .filter((slug): slug is string => slug !== undefined)
++    ),
++  ]
++  const movements = new Map<string, MovementInfo>()
++  if (exerciseSlugs.length > 0) {
++    const rows = await rowsFor({
++      pageTypeSlug: EXERCISE,
++      where: [{ key: "slug", in: exerciseSlugs }],
++      select: ["id", "slug", "title", "loadFactor", "implementCount"],
++    })
++    if ("unread" in rows) return refusedBy([rows.unread], DATA)
++    for (const row of rows.rows) {
++      if (row.slug === null) continue
++      movements.set(row.slug, {
++        title: row.title ?? row.slug,
++        loadFactor: numberIn(row, "loadFactor"),
++        implementCount: numberIn(row, "implementCount"),
++      })
++    }
++  }
++
++  const weighed = await statedBodyweight()
++  if ("refused" in weighed) return refusedBy([weighed.refused], DATA)
++
++  const volumeInputs: readonly VolumeSetInput[] = setLogs.rows.map((row) => {
++    const exerciseSlug = textIn(row, "exerciseSlug")
++    const info = exerciseSlug !== undefined ? movements.get(exerciseSlug) : undefined
++    return {
++      reps: numberIn(row, "reps"),
++      weight: numberIn(row, "weight"),
++      isWarmup: boolIn(row, "isWarmup"),
++      activityType: textIn(row, "activityType"),
++      loadFactor: info?.loadFactor,
++      implementCount: info?.implementCount,
++    }
++  })
++
++  const scheduleDay = await titleBySlug(SCHEDULE_DAY, textIn(session, "scheduleDaySlug"))
++  if ("refused" in scheduleDay) return refusedBy([scheduleDay.refused], DATA)
++
++  const header = {
++    id: session.id,
++    title: titleOf(session),
++    date: textIn(session, "workoutSessionDate") ?? null,
++    scheduleDay: scheduleDay.title,
++    startedAt: textIn(session, "workoutSessionStartedAt") ?? null,
++    completedAt: textIn(session, "workoutSessionCompletedAt") ?? null,
++    totalVolume: computeSessionVolume(volumeInputs, weighed.bodyweight),
++  }
++  const lines = setLinesOf(setLogs.rows, movements)
++
++  if (wantsJson(said)) return asJson({ ...header, sets: lines })
++  return told([
++    ...Object.entries(header).map(([key, value]) => `${key}\t${value ?? EMPTY}`),
++    ...lines.map(rowOf),
++  ])
++}
+diff --git a/alan/fitness/commands/track-workout-show/track-workout-show.command.ts b/alan/fitness/commands/track-workout-show/track-workout-show.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bbf59583c37c65eec5c982873c34bbeaa0c5f3d2
+--- /dev/null
++++ b/alan/fitness/commands/track-workout-show/track-workout-show.command.ts
+@@ -0,0 +1,44 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const trackWorkoutShow = {
++  id: "01a0685d-b7ab-740e-bebb-d9fc659109e8",
++  pageTypeSlug: "command",
++  slug: "track-workout-show",
++  definition: "the command naming one session's header and every set logged against it",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    {
++      said: "--session <ref>",
++      takes: "the session shown, named by id, by title or by part of either",
++    },
++    { said: "--json", takes: "give the session as JSON rather than as tab-separated rows" },
++  ],
++  helpNotes: [
++    "the sets come grouped by movement, and within a movement by set number.",
++    "a movement is named by its exercise page's title, falling back to its slug.",
++    "the volume counts the bodyweight the client profile states.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The sets are ordered by movement and then by set number.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A movement is named by its exercise page's title rather than by its slug.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A set naming no activity is strength.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A warmup set is marked as a warmup.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here changes the session or its sets.",
++    },
++  ],
++} as const satisfies Command
