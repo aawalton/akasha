@@ -35,6 +35,19 @@ index 59cff13754501b21bf99fb031f83af78b1eb6835..8a00f80b944de2ef8ddacbca48ee34bd
 -    "tools/commands/email/unsubscribe.ts lines 38-41 printed the parsed intent and returned without firing when --dry-run was said, and pages/old-ops-command/ops-email-unsubscribe.old-ops-command.md line 20 documented that flag. akasha/google/email/commands/email-unsubscribe/email-unsubscribe.command.ts declares no such taking and carries the absence invariant 'Nothing here says what an unsubscribe would do without doing it.', so the loss is declared rather than accidental. Both old files were ablated at c87be387d011ae47c4176474e565760b7e95f056 and are recoverable from its parent. Whether the rehearsal is worth restoring is Alan's call, not a carry.",
 +    "tools/commands/email/unsubscribe.ts lines 38-41 printed the parsed intent and returned without firing when --dry-run was said, and pages/old-ops-command/ops-email-unsubscribe.old-ops-command.md line 20 documented that flag. akasha/google/email/commands/email-unsubscribe/email-unsubscribe.command.ts declares no such taking and carries the absence invariant 'Nothing here says what an unsubscribe would do without doing it.', so the loss is declared rather than accidental. Both old files were ablated at c87be387d011ae47c4176474e565760b7e95f056 and are recoverable from its parent. Whether the rehearsal is worth restoring is Alan's call, not one carry.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/fork-is-dispatched-with-no-kind-page.finding.ts b/domains/findings/pages/fork-is-dispatched-with-no-kind-page.finding.ts
+index ea21021d5e6daa76c9795f78ecf4f8110c17105d..a6e0ece5cfeaeaa605b9a63715829dab39ba7827 100644
+--- a/domains/findings/pages/fork-is-dispatched-with-no-kind-page.finding.ts
++++ b/domains/findings/pages/fork-is-dispatched-with-no-kind-page.finding.ts
+@@ -6,7 +6,7 @@ export const forkIsDispatchedWithNoKindPage = {
+   slug: "fork-is-dispatched-with-no-kind-page",
+   domainSlug: "workspace-package/seat-system",
+   claim:
+-    "A seat dispatches subagents as `fork`, and no subagent-kind page carries that name. Every kind page holds the name a seat dispatches it by in `dispatched-as`, so a subagent dispatched as `fork` reaches no kind page and its own page names no kind.",
++    "A seat dispatches subagents as `fork`, and no subagent-kind page carries that name. Every kind page holds the name one seat dispatches it by in `dispatched-as`, so a subagent dispatched as `fork` reaches no kind page and its own page names no kind.",
+   evidence:
+     'Three subagent pages held `dispatchedAs: "fork"` on 2026-09-04. The first such value ever committed landed at 12:26 that day in f23578b0ed, cd256dc61f and 5477638c08, and 17 commits carry one. A census of every commit touching a subagent page before that hour found 7797 `general-purpose`, 3112 `Explore`, and no other value, so `fork` began inside one hour rather than being long present. `fork` is a builtin of the client: `compose-subagents` renders the `--agents` map from the `dispatched-as` of each kind page, and that map holds only `Explore` and `general-purpose`. Adding a `fork` kind page would put `fork` into the map every seat hands the client, which alters what the client is told rather than repairing what is recorded.',
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/leverage-map-core-lost-restart-ruled.finding.ts b/domains/findings/pages/leverage-map-core-lost-restart-ruled.finding.ts
 index b570ce5bb8710736ce1a9f68e94701acca44f38c..92e1ca70d518ea8376588424143a31efbd99cacf 100644
 --- a/domains/findings/pages/leverage-map-core-lost-restart-ruled.finding.ts
