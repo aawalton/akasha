@@ -19,29 +19,9 @@ export const amyAlanHarnessImprovements = {
         "The marker and the beacon are landed. Each of Alan's six widgets carrying `opens` names itself after a `#` in that link, and `decideOpenUrlRoute` reads the path and the query alone, so routing is untouched. `deep-link-open-sync` reads the name off the raw link and posts `/api/widget-tap`, which counts the tap on the widget's `taps` and `lastTappedAt` through the page store. No tap is counted until the iOS app is rebuilt, because `opens` is baked into the widget extension when the Swift is generated.",
     },
     {
-      statement: "Alan can load a view.",
-      workingMemory:
-        "Five faults each stopped every view, and each is landed and deployed. `/api/page-types` answers a roster of page type slugs where it answered 501 by design. The interface narrows `nav` by `appSlug` and `view` by `navSlug`, where it named keys neither type declares, and a key a page type declares nothing for is refused rather than left out. The `view` page type declares `pageType`, and 46 views name the type each lists, recovered from the `drawsSlug` that `1145f75519` deleted from 45 files. `page-detail-loading` asks for `externalId` and `gameEngine` only of a type declaring them. Last, `PageRowSchema` read `seq` as a number or text and refused null, and a page kept as a file carries no sequence number, so one row refused threw away the whole batch of every file-backed page type. A browser signed in as Alan now shows twelve nav items and the Tasks tabs over 36 rows.",
-    },
-    {
-      statement: "Alan can load the view for task pages.",
-      workingMemory:
-        "A task is a `to-do` page under the `tasks` nav item, and `tasks-today`, `tasks-up-next` and `tasks-not-completed` each name `to-do` and resolve that subject in the serving pod against 36 rows.",
-    },
-    {
-      statement: "Alan can load the view for temper task pages.",
-      workingMemory:
-        "`temper-tasks-all`, `temper-tasks-completed`, `temper-tasks-today`, `temper-tasks-up-next` and `alanwalton-temper-tasks` each name `temper-task` and resolve that subject in the serving pod against 24 rows. The completed view narrowed nothing under a title saying otherwise and now narrows to the tasks carrying a completion.",
-    },
-    {
       statement: "Temper, Atlas and Archive of Worlds each show their nav items.",
       workingMemory:
         "Each of the three asks `nav` for `key: \"app\"` carrying an app's id, where the `nav` page type declares `appSlug` and no key holding an id, so each question is refused and the whole navigation goes unread. The three-line mend is written and each app already exports the slug it needs. What blocks it is that `temper/temper-web/routes/_app-layout.tsx`, `alan/atlas-web/routes/_app-layout.tsx` and `archive-of-worlds/archive-of-worlds-web/routes/_app-layout.tsx` belong to no page, so every write to them is refused. Each is named by path from its app's `routes.ts`, which does belong to a page, so a route page could take it — but a layout is imported by the route table rather than reached by a url, which is not what a route is.",
-    },
-    {
-      statement: "Every view lists the pages it is named for.",
-      workingMemory:
-        "Two views name no page type and no predicate, so each resolves no subject and lists nothing: `archive-of-worlds-new-page-list` and `temper-new-page-list`, each the sole view under its app's New Page nav. Alan stripped the seven of that kind under alanwalton, and `36da8355f1` took the Notifications, Docs and Errors navs with them. `home-favorites` and `home-recently-viewed` name predicates instead and are right as they are.",
     },
   ],
 } as const satisfies Initiative
