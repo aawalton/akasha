@@ -9,7 +9,7 @@ export const antiquitiesAddonGlobal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Another add-on reaches this one through the global rather than an import.",
+      statement: "Another add-on reaches this add-on through the global rather than an import.",
     },
     {
       invariantKind: "departure",
