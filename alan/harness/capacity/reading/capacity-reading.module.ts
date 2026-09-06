@@ -78,7 +78,8 @@ export const capacityReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The guard summing the capacity is akasha's own rather than one rewritten here.",
+      statement:
+        "The guard summing the capacity is akasha's own rather than a guard rewritten here.",
     },
     {
       invariantKind: "departure",
@@ -86,7 +87,8 @@ export const capacityReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The root read is the one the environment states or the one the call was made in.",
+      statement:
+        "The root read is the root the environment states or the folder the call was made in.",
     },
     {
       invariantKind: "stopgap",
@@ -98,7 +100,7 @@ export const capacityReading = {
     },
     {
       invariantKind: "absence",
-      statement: "Importing this file takes none.",
+      statement: "Importing this file takes no reading.",
     },
     {
       invariantKind: "absence",
