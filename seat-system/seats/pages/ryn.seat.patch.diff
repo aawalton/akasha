@@ -1,0 +1,18 @@
+diff --git a/git/git-push-handoff/git-push-handoff.module.ts b/git/git-push-handoff/git-push-handoff.module.ts
+index fe375f205259225e1c24a08cbd3af3dd5fb35d93..4556eafd1287d66f8dec279f0ef3e5167b8e15e9 100644
+--- a/git/git-push-handoff/git-push-handoff.module.ts
++++ b/git/git-push-handoff/git-push-handoff.module.ts
+@@ -14,8 +14,11 @@ export const gitPushHandoff = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "One push runs per checkout at a time, held by a lock file naming the process that took that lock.",
++      statement: "One push runs per checkout at a time.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A lock file names the process that took the push lock.",
+     },
+     {
+       invariantKind: "departure",
