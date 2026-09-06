@@ -42,7 +42,7 @@ export const generatedProperties = {
     },
     {
       invariantKind: "departure",
-      statement: "A reader asking for slugs and one asking for keys are answered separately.",
+      statement: "A reader asking for slugs and a reader asking for keys are answered separately.",
     },
     {
       invariantKind: "departure",
