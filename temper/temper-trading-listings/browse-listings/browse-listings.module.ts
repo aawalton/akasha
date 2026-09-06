@@ -17,7 +17,7 @@ export const browseListings = {
     },
     {
       invariantKind: "departure",
-      statement: "A sort answers with a fresh array rather than reordering the one handed in.",
+      statement: "A sort answers with a fresh array rather than reordering the array handed in.",
     },
   ],
 } as const satisfies Module
