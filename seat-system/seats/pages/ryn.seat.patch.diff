@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/library/watching/episodes/properties/episode-type.select-property.ts b/alan/library/watching/episodes/properties/episode-type.select-property.ts
+index c7ebbf66526c27b3b882a1e0253633c8a9d2a995..662aaad03d8914d016f03bd7b9ece7e0a9c4aa68 100644
+--- a/alan/library/watching/episodes/properties/episode-type.select-property.ts
++++ b/alan/library/watching/episodes/properties/episode-type.select-property.ts
+@@ -11,7 +11,7 @@ export const episodeType = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "The values are the ones the record holds rather than all the provider answers with.",
++        "The values are the ones the record holds rather than every value the provider answers with.",
+     },
+   ],
+ } as const satisfies SelectProperty
