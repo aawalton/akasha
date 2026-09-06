@@ -3,7 +3,7 @@ import {
   NOTHING_OVER,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { removePage } from "./remove-page.change-command.code.ts"
+import { removePage } from "./remove-page.change-checked.code.ts"
 
 const ASKED = "the world was asked"
 
