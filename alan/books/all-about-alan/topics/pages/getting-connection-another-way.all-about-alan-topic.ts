@@ -9,6 +9,4 @@ export const gettingConnectionAnotherWay = {
   parentSlugs: ["sex"],
   settled:
     "Arousal is not sexual arousal, attraction is not connection, and sexual arousal is not having sex.",
-  unsettled:
-    "Whether a non-sexual arousal can actually feed the multiplier toward connection is untested.",
 } as const satisfies AllAboutAlanTopic
