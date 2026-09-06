@@ -171,21 +171,37 @@ export const connectionActivity = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The multiplier is maturity, attractiveness, femininity, wit, kindness, reality, energy, positivity, attention, identification, intensity, novelty, modality and safety multiplied together.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Reality counts one authentic, a half professional and a quarter celebrity.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Safety counts a quarter at L3, a half at L4, three quarters at L5 and one at L6.",
+      statement: "The multiplier is the fourteen ratings multiplied together.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Modality adds up a half presence, a quarter audio, 0.15 digital presence, 0.15 text and 0.1 image.",
+        "Reality counts a whole for authentic and a half for professional and a quarter for celebrity.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Safety counts a quarter at L3 and a half at L4 and three quarters at L5 and a whole at L6.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Modality adds a half for presence.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Modality adds a quarter for audio.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Modality adds 0.15 for digital presence.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Modality adds 0.15 for text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Modality adds 0.1 for image.",
     },
     {
       invariantKind: "departure",
