@@ -15,3 +15,20 @@ index 9dd9c769c206ff984ee5076bafc57a581b7bb364..4ab587ce3932913777b5c19f687ad5a5
  WIDGET_PROGRAM="alanwalton-widget"
  APP_PROGRAM="alanwalton-app"
  WIDGET_INFO_PLIST="$PROGRAMS_DIR/$WIDGET_PROGRAM/$WIDGET_PROGRAM.ios-program.info-plist.plist"
+diff --git a/code-system/ios-apps/pages/smilingjenny/scripts/ios-seam/smilingjenny-ios-seam.shell-script.shell.sh b/code-system/ios-apps/pages/smilingjenny/scripts/ios-seam/smilingjenny-ios-seam.shell-script.shell.sh
+index ebea0ca2504814971f18086e8d9e4c1103b9c31e..af5504c14ce4adc4dd589972aa1ed3ee3cf4e102 100644
+--- a/code-system/ios-apps/pages/smilingjenny/scripts/ios-seam/smilingjenny-ios-seam.shell-script.shell.sh
++++ b/code-system/ios-apps/pages/smilingjenny/scripts/ios-seam/smilingjenny-ios-seam.shell-script.shell.sh
+@@ -14,10 +14,10 @@ APPDELEGATE="ios/App/App/AppDelegate.swift"
+ CONFIG="ios/App/App/capacitor.config.json"
+ PB="/usr/libexec/PlistBuddy"
+ 
+-SHARED_WIDGET_SRC_DIR="$CODE_SYSTEM/ios-components"
++SHARED_WIDGET_SRC_DIR="$CODE_SYSTEM/ios-components/pages"
+ # Each thing this package builds is an akasha ios-program page, and the files Xcode
+ # reads by a fixed name stand beside that page under names the grammar builds.
+-PROGRAMS_DIR="$CODE_SYSTEM/ios-programs"
++PROGRAMS_DIR="$CODE_SYSTEM/ios-programs/pages"
+ WIDGET_PROGRAM="smilingjenny-widget"
+ APP_PROGRAM="smilingjenny-app"
+ WIDGET_INFO_PLIST="$PROGRAMS_DIR/$WIDGET_PROGRAM/$WIDGET_PROGRAM.ios-program.info-plist.plist"
