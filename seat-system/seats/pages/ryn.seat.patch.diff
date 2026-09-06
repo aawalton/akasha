@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts b/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
+index 7f3f32d4fc9af2c4ebca413726cfd6e1c3d62af1..2d31737e4e1b5a78707000c2aca66f6e832f03c5 100644
+--- a/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
++++ b/alan/harness/monarch/amazon-refunds/monarch-amazon-refunds.module.ts
+@@ -19,7 +19,7 @@ export const monarchAmazonRefunds = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A credit matching two or more refunds is abstained on and never written.",
++      statement: "A credit matching several refunds is abstained on and never written.",
+     },
+     {
+       invariantKind: "departure",
