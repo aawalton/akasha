@@ -37,6 +37,18 @@ export const rebuilding = {
       statement: "Where the index stands is derived from the repository root given here.",
     },
     {
+      invariantKind: "departure",
+      statement: "A file at the index's own top belongs to no index and is taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder beside the index whose name opens `index.` is taken away with it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That sweep answers only for a folder named `index`.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here decides whether a rebuild should run.",
     },

@@ -107,6 +107,9 @@ function refreshing(root: string, read: { dryRun: boolean }): Answer {
     `${counted(said.pages, "page")}, ${said.entries} entries, ${said.refused.length} refused`,
     driftSaid(said.drift),
   ]
+  if (said.swept.length > 0) {
+    report.push(`${counted(said.swept.length, "path")} belonging to no index was taken away`)
+  }
   report.push(
     read.dryRun
       ? `nothing was put in place — ${DRY_RUN}`

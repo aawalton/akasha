@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { existsSync, mkdirSync, readFileSync, statSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { reconcile } from "./rebuilding.module.code.ts"
+import { reconcile, sweptBeside } from "./rebuilding.module.code.ts"
 
 const scratch = scratchWorld()
 
@@ -94,4 +94,50 @@ test("a folder left holding nothing goes with the entry file taken away", () => 
   reconcile(join(root, UNDER), [], root, true)
 
   expect(existsSync(join(root, UNDER))).toBe(false)
+})
+
+const STAMP = "stamp.jsonl"
+
+function indexAt(): string {
+  const under = join(scratch.rootFor("akasha-swept-"), "data", "index")
+  mkdirSync(under, { recursive: true })
+  return under
+}
+
+test("a file at the index's own top is taken away and the index's folders are left", () => {
+  const under = indexAt()
+  writeFileSync(join(under, STAMP), "{}\n")
+  filed(under, AT, "{}\n")
+
+  const taken = sweptBeside(under)
+
+  expect(taken).toEqual([join(under, STAMP)])
+  expect(existsSync(join(under, STAMP))).toBe(false)
+  expect(bodyAt(under, AT)).toBe("{}\n")
+})
+
+test("a folder beside the index opening `index.` goes and one under another name does not", () => {
+  const under = indexAt()
+  const beside = dirname(under)
+  filed(beside, "index.refreshing.1/held/one.jsonl", "{}\n")
+  filed(beside, "indexes/one.jsonl", "{}\n")
+
+  const taken = sweptBeside(under)
+
+  expect(taken).toEqual([join(beside, "index.refreshing.1")])
+  expect(existsSync(join(beside, "index.refreshing.1"))).toBe(false)
+  expect(existsSync(join(beside, "indexes"))).toBe(true)
+})
+
+test("a root under any other name sweeps nothing, so a test's scratch is safe", () => {
+  const root = scratch.rootFor("akasha-swept-")
+  const under = join(root, "scratch")
+  filed(under, "one.jsonl", "{}\n")
+  filed(root, "index.other/one.jsonl", "{}\n")
+
+  const taken = sweptBeside(under)
+
+  expect(taken).toEqual([])
+  expect(bodyAt(under, "one.jsonl")).toBe("{}\n")
+  expect(existsSync(join(root, "index.other"))).toBe(true)
 })

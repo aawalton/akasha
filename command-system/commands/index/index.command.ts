@@ -4,7 +4,7 @@ export const index = {
   id: "01a04de1-13fa-7331-979e-d443758eefad",
   pageTypeSlug: "command",
   slug: "index",
-  definition: "the index rebuilt from the commit at HEAD and put in place whole",
+  definition: "the index repaired against the pages of the repository as it is",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
@@ -13,8 +13,7 @@ export const index = {
       said: "refresh",
       takes: "build the index over the repository as it stands and put it in place",
     },
-    { said: "--dry-run", takes: "say what the rebuild would change and put nothing in place" },
-    { said: "--unlanded", takes: "build over paths standing apart from HEAD" },
+    { said: "--dry-run", takes: "say what the repair would change and write nothing" },
   ],
   helpNotes: [
     "refresh is the act it carries, and one call names one act.",
@@ -35,24 +34,15 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "A worktree standing apart from HEAD is refused.",
+      statement: "The commit the report names is read from HEAD as the repair opens.",
     },
     {
       invariantKind: "departure",
-      statement: "`--unlanded` builds over a worktree standing apart from HEAD.",
+      statement: "The index is repaired in place, file by file.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The commit the index names is stamped by the rebuild rather than by this command.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The index is built aside and put in place whole.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The landing lock is held from reading HEAD to putting the index in place.",
+      statement: "The landing lock is held from reading HEAD to the last file written.",
     },
     {
       invariantKind: "departure",
@@ -60,7 +50,7 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "`--dry-run` builds the index aside and puts nothing in place.",
+      statement: "`--dry-run` says what the repair would change and writes nothing.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +58,15 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "The index that was built still stands.",
+      statement: "A path under the index belonging to no index is taken away before the repair.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A dry run takes none away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report counts those taken away where any were.",
     },
     {
       invariantKind: "absence",

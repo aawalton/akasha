@@ -36,7 +36,12 @@ import { claimingIn } from "../path/index-path.index.code.ts"
 import { indexPath } from "../path/index-path.index.ts"
 import { knownIn } from "../reaching/reaching.module.code.ts"
 import { everyPath, indexThere, namersOf } from "../reading/index-reading.module.code.ts"
-import { type Drift, keepWhole, reconcile } from "../rebuilding/rebuilding.module.code.ts"
+import {
+  type Drift,
+  keepWhole,
+  reconcile,
+  sweptBeside,
+} from "../rebuilding/rebuilding.module.code.ts"
 import { NOTHING_FILED, relationIn } from "../relation/index-relation.index.code.ts"
 import { indexRelation } from "../relation/index-relation.index.ts"
 import { schemaIn } from "../schema/index-schema.index.code.ts"
@@ -119,6 +124,7 @@ export type Rebuilt = {
   readonly entries: number
   readonly refused: readonly string[]
   readonly drift: Drift
+  readonly swept: readonly string[]
 }
 
 function drifting(said: readonly Drift[]): Drift {
@@ -175,11 +181,16 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
       valued.length,
     refused: filed.flatMap((one) => one.refused),
     drift: drifting(drift),
+    swept: [],
   }
 }
 
+// The sweep runs before the build, so what the build files is filed over a folder holding the index
+// and nothing else.
 export function rebuiltWhole(repo: string, tree: string, put: boolean): Rebuilt {
-  return rebuiltFrom(tree, indexIn(repo), repo, put)
+  const root = indexIn(repo)
+  const swept = put ? sweptBeside(root) : []
+  return { ...rebuiltFrom(tree, root, repo, put), swept }
 }
 
 export type Moving = {
