@@ -10,7 +10,7 @@ export const monarchAudibleMigration = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A charge is either transferred, recategorized only, or already done.",
+      statement: "A charge is transferred or recategorized only or already done.",
     },
     {
       invariantKind: "departure",
@@ -23,17 +23,16 @@ export const monarchAudibleMigration = {
     {
       invariantKind: "departure",
       statement:
-        "A charge is found by the word Audible in its merchant, its statement line or its note.",
+        "A charge is found by the word Audible in its merchant or its statement line or its note.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row this scheme itself wrote is passed over.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A row this scheme itself wrote is passed over, so a run does not migrate its own work.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A credit, an uncategorized charge and a charge noted as reimbursed are recategorized only.",
+        "A credit and an uncategorized charge and a charge noted as reimbursed are recategorized only.",
     },
     {
       invariantKind: "departure",
@@ -46,8 +45,7 @@ export const monarchAudibleMigration = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A run may be narrowed to named rows, so a migration can be tried on one before all.",
+      statement: "A run may be narrowed to named rows.",
     },
   ],
 } as const satisfies Module
