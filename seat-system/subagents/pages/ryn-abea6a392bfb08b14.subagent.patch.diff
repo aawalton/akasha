@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/readout-system/readout-group-serving/readout-group-serving.module.ts b/readout-system/readout-group-serving/readout-group-serving.module.ts
-index fcb8591053e24558ffb12d45c1f69a55979f9aed..983cb8713ef645297b194a0bbd021451a2333d2d 100644
+index fcb8591053e24558ffb12d45c1f69a55979f9aed..e4f4572891466c0685da8e5199a50b513837054b 100644
 --- a/readout-system/readout-group-serving/readout-group-serving.module.ts
 +++ b/readout-system/readout-group-serving/readout-group-serving.module.ts
-@@ -27,7 +27,7 @@ export const readoutGroupServing = {
+@@ -27,11 +27,11 @@ export const readoutGroupServing = {
      },
      {
        invariantKind: "departure",
 -      statement: "The label answered is the one the readout's own page carries.",
 +      statement: "The label answered is the label the readout's own page carries.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The key carrying the wire key is the one the caller names.",
++      statement: "The key carrying the wire key is the key the caller names.",
      },
      {
        invariantKind: "departure",
