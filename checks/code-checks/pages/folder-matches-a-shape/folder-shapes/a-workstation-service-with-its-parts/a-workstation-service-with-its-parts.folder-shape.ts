@@ -15,7 +15,7 @@ export const aWorkstationServiceWithItsParts = {
     },
     {
       invariantKind: "departure",
-      statement: "It holds one page.",
+      statement: "The folder holds one page.",
     },
     {
       invariantKind: "departure",
