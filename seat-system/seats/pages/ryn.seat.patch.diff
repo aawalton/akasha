@@ -1,9 +1,8 @@
-readersOweReading: false
 diff --git a/alan/fitness/commands/exercise-commands.workspace-package.ts b/alan/fitness/commands/exercise-commands.workspace-package.ts
-index 55ab73c95feeed5740213b14c0ad71be3631d639..6198238fc4817cafbec3eb08cd3b86628baf03d0 100644
+index 55ab73c95feeed5740213b14c0ad71be3631d639..2b5e331c317ae0b4cdbe85a371da4d99874d8916 100644
 --- a/alan/fitness/commands/exercise-commands.workspace-package.ts
 +++ b/alan/fitness/commands/exercise-commands.workspace-package.ts
-@@ -42,7 +42,7 @@ export const exerciseCommands = {
+@@ -42,16 +42,20 @@ export const exerciseCommands = {
      },
      {
        invariantKind: "departure",
@@ -12,7 +11,13 @@ index 55ab73c95feeed5740213b14c0ad71be3631d639..6198238fc4817cafbec3eb08cd3b8662
      },
      {
        invariantKind: "departure",
-@@ -51,7 +51,7 @@ export const exerciseCommands = {
+-      statement: "A command here refuses rather than throwing, so a refused call changes nothing.",
++      statement: "A command here refuses rather than throwing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A refused call here changes nothing.",
+     },
      {
        invariantKind: "gap",
        statement:
