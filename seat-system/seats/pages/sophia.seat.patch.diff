@@ -1,0 +1,17 @@
+diff --git a/command-system/asking/asking.module.test-fixtures.ts b/command-system/asking/asking.module.test-fixtures.ts
+index 7ba1bc987345d4d46f4237d4da26a9ce4449f32f..31175dfc23325325e2e089cfb60c0dd872d6b333 100644
+--- a/command-system/asking/asking.module.test-fixtures.ts
++++ b/command-system/asking/asking.module.test-fixtures.ts
+@@ -236,10 +236,10 @@ export const mechanically = async (root: string): Promise<number> =>
+ 
+ export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
+ 
+-export const ranBy = (runsChecks: boolean, runsWarrants: boolean): Running =>
++export const ranBy = (runsChecks: boolean, owesReading: boolean): Running =>
+   runningOf({
+     ...givenIn(""),
+-    changeKind: { slug: "held", runsChecks, writerOwesReading: runsWarrants },
++    changeKind: { slug: "held", runsChecks, writerOwesReading: owesReading },
+   })
+ 
+ export function seeded(root: string): boolean {
