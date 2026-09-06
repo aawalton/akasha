@@ -1287,7 +1287,7 @@ index 894caadf554851bfd9077864bcf0af50bc644ccc..9f41af674487f2427dc43f931d8f9e5d
    invariants: [
      {
 diff --git a/alan/harness/monarch/category-rules/properties/matches.record-property.ts b/alan/harness/monarch/category-rules/properties/matches.record-property.ts
-index 1ff7faab19f3ab87050ef35ffc401074fb27a5cf..81af955e2da1e31d844bd6a1924ba2bbfadaa710 100644
+index 1ff7faab19f3ab87050ef35ffc401074fb27a5cf..6379dbf828998086bbf0d70d676b26558d562626 100644
 --- a/alan/harness/monarch/category-rules/properties/matches.record-property.ts
 +++ b/alan/harness/monarch/category-rules/properties/matches.record-property.ts
 @@ -21,7 +21,7 @@ export const matches = {
@@ -1299,6 +1299,19 @@ index 1ff7faab19f3ab87050ef35ffc401074fb27a5cf..81af955e2da1e31d844bd6a1924ba2bb
    ],
    invariants: [
      {
+@@ -34,7 +34,11 @@ export const matches = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every rule tests a merchant, and the rest of the keys narrow from there.",
++      statement: "Every rule tests a merchant.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A rule's remaining keys narrow from the merchant.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/alan/harness/monarch/category-rules/properties/rule-note.text-property.ts b/alan/harness/monarch/category-rules/properties/rule-note.text-property.ts
 index 698222b601c3f9a7d86aa8a07e546782a9e96852..83ab7755d5d7ac93098cc22bdd46f3fbc66219e8 100644
 --- a/alan/harness/monarch/category-rules/properties/rule-note.text-property.ts
