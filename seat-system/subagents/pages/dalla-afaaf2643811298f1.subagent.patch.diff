@@ -280,3 +280,16 @@ index cf1ace5ae69b5fc06ebe3b618a9f4045e6e79f23..a8a830aedb3e573d2342162d70455423
    evidence:
      "`temper-catalog-domain` carries capture bookkeeping — `api-version`, `manifest-api-version`, `captured-at`, and which version a generator last ran for — which is about the mirroring rather than about the game. `temper-source-category` names the groups a character's stat sources fall into, which reaches across gear, skills and effects rather than sitting in any of them. Both fit `temper-catalog` itself, defined as what the game holds mirrored. Moving them means carrying their property pages out of `temper-world/properties/` with them, so it is left until the clusters running in parallel have settled rather than done while they are landing.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/two-readings-of-the-same-moment-disagree-on-what-an-account-is-worth.finding.ts b/domains/findings/pages/two-readings-of-the-same-moment-disagree-on-what-an-account-is-worth.finding.ts
+index ff8439227fcc93144f835e632791aa3617da667d..03749700cde515ea94a7cbd7bcb1af838ea56aed 100644
+--- a/domains/findings/pages/two-readings-of-the-same-moment-disagree-on-what-an-account-is-worth.finding.ts
++++ b/domains/findings/pages/two-readings-of-the-same-moment-disagree-on-what-an-account-is-worth.finding.ts
+@@ -6,7 +6,7 @@ export const twoReadingsOfTheSameMomentDisagreeOnWhatAnAccountIsWorth = {
+   slug: "two-readings-of-the-same-moment-disagree-on-what-an-account-is-worth",
+   domainSlug: "domain/temper-holdings",
+   claim:
+-    "An inventory snapshot and a net worth reading taken at the same millisecond by the same account give different totals. 151 of the 162 snapshots share a moment with a net worth reading, and only one of the 151 agrees on the number. Nothing in temper says which total answers the question of what an account is worth.",
++    "An inventory snapshot and one net worth reading taken at the same millisecond by the same account give different totals. 151 of the 162 snapshots share a moment with a net worth reading, and only one of the 151 agrees on the number. Nothing in temper says which total answers the question of what an account is worth.",
+   evidence:
+     "Matching on the account and the millisecond, 151 of 162 `temper-inventory-snapshot` pages meet a row in a `temper-net-worth-hour` entry file. Comparing `total-value` against `totalValue` within one gold, 1 of the 151 matches.\n\nThe two are read differently: a net worth row sometimes carries `goldAmount`, `currencyGoldValue`, `itemValue` and `excludedGuildBankValue`, and 672 of 3,395 rows do, so a net worth total takes money and left-out guild bank goods into account where a snapshot total counts what the capture covers. Neither number says which it is.\n\nBoth landed as recreated, on `temper-holdings-thing`, which declares `captured-at` and `total-value` for both. The gap is that one property named `total-value` carries two measures.",
+ } as const satisfies Finding
