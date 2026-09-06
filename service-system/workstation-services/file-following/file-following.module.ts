@@ -60,6 +60,18 @@ export const fileFollowing = {
       statement: "A file appearing in a followed folder has changed.",
     },
     {
+      invariantKind: "departure",
+      statement: "A folder followed for its events alone is answered without being read.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every settled event on such a folder is answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That answer names the folders followed rather than the files that moved.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here works out which folders to watch.",
     },

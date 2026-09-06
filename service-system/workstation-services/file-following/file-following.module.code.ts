@@ -119,3 +119,23 @@ export function followWithin(
 ): Following {
   return follow(folders, () => digestOf(filesWithin(folders, holds)), moved, settleMs, from)
 }
+
+const TICK = "tick"
+
+// A weighing that never matches the one before it, so every settled event is answered.
+function ticking(): () => Digest {
+  let beat = 0
+  return () => new Map([[TICK, String((beat += 1))]])
+}
+
+// Follow whole folders and answer on any event in them, reading nothing they hold. This suits a
+// folder written far more often, and holding far more, than reading it is worth: the event is the
+// whole answer, and what changed is left to the caller to work out at its own pace.
+export function followFolders(
+  folders: ReadonlySet<string>,
+  moved: (what: readonly string[]) => undefined,
+  settleMs: number = SETTLE_MS
+): Following {
+  const named = [...folders].sort()
+  return follow(folders, ticking(), () => moved(named), settleMs, undefined)
+}

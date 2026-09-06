@@ -6,6 +6,7 @@ import {
   dirsOf,
   filesWithin,
   followFiles,
+  followFolders,
   followWithin,
   movedBetween,
 } from "./file-following.module.code.ts"
@@ -19,6 +20,25 @@ function fileAt(name: string, text: string): string {
   writeFileSync(at, text)
   return at
 }
+
+test("a folder followed for its events names itself and is never read", async () => {
+  const dir = mkdtempSync("/var/tmp/file-events-")
+  const moved: string[][] = []
+  const following = followFolders(
+    new Set([dir]),
+    (what) => {
+      moved.push([...what])
+    },
+    20
+  )
+  await Bun.sleep(60)
+  writeFileSync(join(dir, "anything.at.all"), "here")
+  await Bun.sleep(200)
+  following.stop()
+  rmSync(dir, { recursive: true, force: true })
+  expect(moved.every((one) => one.length === 1 && one[0] === dir)).toBe(true)
+  expect(moved.length).toBeGreaterThan(1)
+})
 
 test("a file that is not there is weighed as gone rather than throwing", () => {
   expect(digestOf([join(ROOT, "never.ts")]).get(join(ROOT, "never.ts"))).toBe("gone")
