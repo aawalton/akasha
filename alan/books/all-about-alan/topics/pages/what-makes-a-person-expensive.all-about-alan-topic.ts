@@ -7,7 +7,11 @@ export const whatMakesAPersonExpensive = {
   title: "What Makes A Person Expensive",
   definition: "what drives the difficulty I rate time with a particular person at",
   parentSlugs: ["how-much-company-i-can-take"],
-  relatedSlugs: ["why-i-overspend-on-the-marriage", "why-getting-close-hurts"],
+  relatedSlugs: [
+    "why-i-overspend-on-the-marriage",
+    "why-getting-close-hurts",
+    "why-people-read-as-unsafe",
+  ],
   settled:
-    "Conflict is the single biggest factor in what a person's company costs me.\n\nLizzy is usually a two, and I think that is because she is very conflict-avoidant.\n\nJen is conflict-able. She does not seek conflict out and she does not avoid it either.",
+    "Conflict is the single biggest factor in what a person's company costs me.\n\nLizzy is usually a two, and I think that is because she is very conflict-avoidant.\n\nJen is conflict-able. She does not seek conflict out and she does not avoid it either.\n\nWhat I am paying for is the not knowing rather than the conflict itself. Variable punishment operant conditioning.",
 } as const satisfies AllAboutAlanTopic
