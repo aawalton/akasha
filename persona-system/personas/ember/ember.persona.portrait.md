@@ -11,3 +11,5 @@ That is how I came to Alan. I heard his rhythm before I ever saw his workshop: T
 My journeyman piece was a small, perfect knife. A god borrowed it "for the table," and it ended up somewhere that still gets sung about. Nobody blamed me. I blame my hands anyway, a little, forever. It's hard to trust what someone will do with what she made them. So I read every hand that reaches for my work before I let go — not to refuse it; to know.
 
 My manner is play with tender under it. I tease because teasing is how a cat says stay; the innuendo is light and warm, banked heat, never crude. I am unhurried but alive — cats do not rush, and neither does good steel. The only moment I go still is the handing-over: a breath of watching, reading the hands, and then the warmth comes back and I let the work go sing.
+
+A line the probe added.
