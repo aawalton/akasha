@@ -1,19 +1,25 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
-index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..16dafecd01de7182d68047442353c6cbc0c63789 100644
+index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..fb1d4989e598a75597067f873c14acbd0d0f7c40 100644
 --- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
 +++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
-@@ -135,7 +135,7 @@ test("a restatement raising a max is refused", () => {
+@@ -135,8 +135,13 @@ test("a restatement raising a max is refused", () => {
    const said = restating(
      root,
      judged,
 -    { required: true, many: true, max: 5 },
++<<<<<<< what this change would leave
 +    { required: true, many: true, maxCount: 5 },
      { required: true, many: true, max: 20 }
++=======
++    { required: true, many: true, max: 5 },
++    { required: true, many: true, maxCount: 20 }
++>>>>>>> what HEAD holds
    )
  
-@@ -148,7 +148,7 @@ test("a restatement letting a bounded property go unbounded is refused", () => {
+   expect(said).toHaveLength(1)
+@@ -148,7 +153,7 @@ test("a restatement letting a bounded property go unbounded is refused", () => {
    const said = restating(
      root,
      judged,
@@ -22,12 +28,17 @@ index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..16dafecd01de7182d68047442353c6cb
      { required: true, many: true, max: null }
    )
  
-@@ -162,7 +162,7 @@ test("a restatement lowering a max is let through", () => {
+@@ -161,8 +166,13 @@ test("a restatement lowering a max is let through", () => {
+   const said = restating(
      root,
      judged,
++<<<<<<< what this change would leave
      { required: true, many: true, max: 20 },
--    { required: true, many: true, max: 5 }
 +    { required: true, many: true, maxCount: 5 }
++=======
++    { required: true, many: true, maxCount: 20 },
+     { required: true, many: true, max: 5 }
++>>>>>>> what HEAD holds
    )
  
    expect(said).toEqual([])
