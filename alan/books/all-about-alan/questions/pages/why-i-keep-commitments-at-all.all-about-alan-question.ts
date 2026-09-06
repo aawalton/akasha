@@ -5,5 +5,5 @@ export const whyIKeepCommitmentsAtAll = {
   pageTypeSlug: "all-about-alan-question",
   slug: "why-i-keep-commitments-at-all",
   topicSlug: "keeping-my-word",
-  ask: "Why do I keep commitments at all? I park the question on purpose, because the rule guards a hazard and probing whether the rule is still needed is itself the risk.",
+  ask: "I park this on purpose, because the rule guards a hazard and probing whether the rule is still needed is itself the risk: why do I keep commitments at all?",
 } as const satisfies AllAboutAlanQuestion

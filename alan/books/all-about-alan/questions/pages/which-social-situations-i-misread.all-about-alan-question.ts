@@ -5,5 +5,5 @@ export const whichSocialSituationsIMisread = {
   pageTypeSlug: "all-about-alan-question",
   slug: "which-social-situations-i-misread",
   topicSlug: "why-people-read-as-unsafe",
-  ask: "Which social situations have I catastrophically misread? The account has no worked case under it while those episodes are uncatalogued.",
+  ask: "The account has no worked case under it while the episodes stay uncatalogued: which social situations have I catastrophically misread?",
 } as const satisfies AllAboutAlanQuestion

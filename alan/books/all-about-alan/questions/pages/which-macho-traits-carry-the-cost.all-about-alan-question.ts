@@ -5,5 +5,5 @@ export const whichMachoTraitsCarryTheCost = {
   pageTypeSlug: "all-about-alan-question",
   slug: "which-macho-traits-carry-the-cost",
   topicSlug: "why-macho-costs-me-so-much",
-  ask: "Which traits carry the cost, what does each cost me, and by what mechanism? Size, threat, loudness, unkindness and background conflict are a start rather than a list.",
+  ask: "Size, threat, loudness, unkindness and background conflict are a start rather than a list, so which traits carry the cost, what does each cost me, and by what mechanism?",
 } as const satisfies AllAboutAlanQuestion

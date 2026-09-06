@@ -5,5 +5,5 @@ export const whySpeedReadingWorkedWhereAPalaceDidNot = {
   pageTypeSlug: "all-about-alan-question",
   slug: "why-speed-reading-worked-where-a-palace-did-not",
   topicSlug: "playing-the-long-game",
-  ask: "Why did speed reading work for me where the memory palace could not? The result is on record with no mechanism under it.",
+  ask: "The result is on record with no mechanism under it: why did speed reading work for me where the memory palace could not?",
 } as const satisfies AllAboutAlanQuestion

@@ -5,5 +5,5 @@ export const whichReflexesAMemoryStillFires = {
   pageTypeSlug: "all-about-alan-question",
   slug: "which-reflexes-a-memory-still-fires",
   topicSlug: "what-still-fires-off-a-memory",
-  ask: "Which other reflexes does a memory still fire the way disgust does, startle or gag or salivation? A quiet reflex fires below my floor, so the answer needs a signal someone else can see.",
+  ask: "A quiet reflex fires below my floor, so the answer needs a signal someone else can see: which other reflexes does a memory still fire the way disgust does, startle or gag or salivation?",
 } as const satisfies AllAboutAlanQuestion

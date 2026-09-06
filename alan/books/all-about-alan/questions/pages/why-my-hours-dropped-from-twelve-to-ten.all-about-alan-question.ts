@@ -5,5 +5,5 @@ export const whyMyHoursDroppedFromTwelveToTen = {
   pageTypeSlug: "all-about-alan-question",
   slug: "why-my-hours-dropped-from-twelve-to-ten",
   topicSlug: "the-scaffolding-i-built",
-  ask: "Does my drop from twelve hours a day to eight or ten answer a rough stretch, or is that drop independent settling? I stopped tracking the hours.",
+  ask: "I stopped tracking the hours: does my drop from twelve hours a day to eight or ten answer a rough stretch, or is that drop independent settling?",
 } as const satisfies AllAboutAlanQuestion

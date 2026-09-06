@@ -5,5 +5,5 @@ export const whichProjectsMyHarnessCarried = {
   pageTypeSlug: "all-about-alan-question",
   slug: "which-projects-my-harness-carried",
   topicSlug: "what-my-scaffolding-buys-me",
-  ask: "Which projects did my harness actually route my hyperfocus, depth, precision and pattern recognition into? No instance is collected behind the routing yet.",
+  ask: "No instance is collected behind the routing yet, so which projects did my harness actually route my hyperfocus, depth, precision and pattern recognition into?",
 } as const satisfies AllAboutAlanQuestion
