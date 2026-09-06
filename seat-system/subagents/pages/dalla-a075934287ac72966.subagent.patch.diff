@@ -501,3 +501,18 @@ index 0000000000000000000000000000000000000000..19fdb128555ba1e60c0aff9279e1c17b
 +
 +  expect(said.refusals).toEqual(["a path that is no page keeps no edits"])
 +})
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index 3af2a17ba8907fc5394e2583c8c4056225d2285f..54ddfc4d6240cfb1d4a69c4218d32f412473120e 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -36,8 +36,10 @@ export const command = {
+     "boolean-property/help-arg-variadic",
+     "command/agent-forest",
+     "command/agent-turn-colors",
++    "command/apply",
+     "command/audit",
+     "command/calendar",
++    "command/change",
+     "command/claude-usage",
+     "command/complexity",
+     "command/compose-notices",
