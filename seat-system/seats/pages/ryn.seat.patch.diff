@@ -1,5 +1,5 @@
 diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.ts b/editor-extension/node-cleanliness/node-cleanliness.module.ts
-index 26ab398b56ae8d45f4dbb302d6a1c47c0fc2b083..e8f251290987ee75fc6d541b368079bf350cf389 100644
+index 26ab398b56ae8d45f4dbb302d6a1c47c0fc2b083..5233673cc62c8385031927d59a3f7bb837235e57 100644
 --- a/editor-extension/node-cleanliness/node-cleanliness.module.ts
 +++ b/editor-extension/node-cleanliness/node-cleanliness.module.ts
 @@ -22,7 +22,7 @@ export const nodeCleanliness = {
@@ -43,3 +43,16 @@ index 26ab398b56ae8d45f4dbb302d6a1c47c0fc2b083..e8f251290987ee75fc6d541b368079bf
      },
      {
        invariantKind: "departure",
+@@ -108,7 +115,11 @@ export const nodeCleanliness = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No branch is run here, so no guard's node side is proved here.",
++      statement: "No branch is run here.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No guard's node side is proved here.",
+     },
+   ],
+ } as const satisfies Module
