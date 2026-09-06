@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/where-the-closeness-crossover-sits.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-the-closeness-crossover-sits.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..66393446ce9a88f11a39109febda379e00dd9149
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-the-closeness-crossover-sits.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereTheClosenessCrossoverSits = {
++  id: "01a077eb-dc04-7523-aa1d-478559e45938",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-the-closeness-crossover-sits",
++  topicSlug: "whether-any-closeness-escapes-it",
++  ask: "Where does the crossover sit, at which level, after how many corrections, and how fast?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-mapped-relationship-holds-damage-near-zero.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-mapped-relationship-holds-damage-near-zero.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a1ec89cb582abfa00a279c8541d7d03af3c15d75
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-mapped-relationship-holds-damage-near-zero.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAMappedRelationshipHoldsDamageNearZero = {
++  id: "01a077eb-dc03-71e4-a9f7-b5fe1a053808",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-mapped-relationship-holds-damage-near-zero",
++  topicSlug: "whether-any-closeness-escapes-it",
++  ask: "Can a relationship built around the mechanism, where the other person carries a map of my brain, hold the damage near zero?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-stake-and-stage-add-up-or-interact.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-stake-and-stage-add-up-or-interact.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..169cc592fc36eadfd4ddd7e406033518ac12ff92
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-stake-and-stage-add-up-or-interact.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherStakeAndStageAddUpOrInteract = {
++  id: "01a077eb-dc04-7b66-b98e-24f424d9d062",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-stake-and-stage-add-up-or-interact",
++  topicSlug: "whether-any-closeness-escapes-it",
++  ask: "Do the stake and the stage of a relationship add up, or do the stake and the stage interact?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-safe-middle-holds.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-safe-middle-holds.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..774fc08174999d07f113799ba77709df2e3c1c29
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-safe-middle-holds.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheSafeMiddleHolds = {
++  id: "01a077eb-dc04-7218-9599-769a74c058d5",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-safe-middle-holds",
++  topicSlug: "whether-any-closeness-escapes-it",
++  ask: "Does the safe middle hold, or is the safe middle the same decay running slower?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/whether-any-closeness-escapes-it.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/whether-any-closeness-escapes-it.all-about-alan-topic.ts
+index 77a9eb80a0556df9fe7f6f93c81956fd4cd965bc..64017669c11975ed67f10078a18f02a9953d2117 100644
+--- a/alan/books/all-about-alan/topics/pages/whether-any-closeness-escapes-it.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/whether-any-closeness-escapes-it.all-about-alan-topic.ts
+@@ -11,6 +11,4 @@ export const whetherAnyClosenessEscapesIt = {
+   relatedSlugs: ["what-holds-my-marriage", "being-known"],
+   settled:
+     "The safe middle is the stretch where the good hours still outrun the damage.\n\nThe covenant was one attempt at it: a knower holding a map of my brain who does not injure me by correcting.",
+-  unsettled:
+-    "Whether a relationship built around the mechanism, where the other person carries a map of my brain, can hold the damage near zero is the forward test.\n\nWhere the crossover sits, which level, how many corrections, how fast, is not pinned.\n\nWhether the safe middle holds, or is the same decay running slower, is unknown.\n\nWhether the stake and the stage of a relationship add up or interact is unmodelled.",
+ } as const satisfies AllAboutAlanTopic
