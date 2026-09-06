@@ -11,6 +11,19 @@ index 12e8a7407317301d5c6123fdc4343bd5fd0c2bb2..3d67734ea4d8e7f2217416f278c62591
    evidence:
      "`ops reminder set` read the schedule through `systemd-analyze calendar` before writing the file and refused a schedule that came back unreadable, so a reminder on disk always named a time. A reminder page is written with `akasha write`, which judges the schedule as text under 100 characters and reads no clock. `nextElapse` in `reminder-sending` still reads the schedule the same way and answers `unread` for one no clock can take, and `send-due-reminders` reports that reminder and carries on to the others. The window between the write and the report is however long the service waits, and a reminder in that window is never sent.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/a-rust-crate-page-holds-no-git-ignore.finding.ts b/domains/findings/pages/a-rust-crate-page-holds-no-git-ignore.finding.ts
+index 76ca448b89df8b58f4cd2695c84f54f76c0047af..ffd66d2732c4b8aa24ab9d9a8e27ccfcdbfd9127 100644
+--- a/domains/findings/pages/a-rust-crate-page-holds-no-git-ignore.finding.ts
++++ b/domains/findings/pages/a-rust-crate-page-holds-no-git-ignore.finding.ts
+@@ -6,7 +6,7 @@ export const aRustCratePageHoldsNoGitIgnore = {
+   slug: "a-rust-crate-page-holds-no-git-ignore",
+   domainSlug: "workspace-package/code-system",
+   claim:
+-    "`temper-watcher/tray/.gitignore` did not come into akasha, because `rust-crate` declares no property holding it. Its one line is `target/`, and nothing in the repository root ignores that name, so wherever a seam lays the crate out for Cargo the build artifacts show up as untracked files. `ios-app` already holds the same thing as `git-ignore`, so the property is only missing from the Rust page type rather than from akasha.",
++    "`temper-watcher/tray/.gitignore` did not come into akasha, because `rust-crate` declares no property holding it. Its one line is `target/`, and nothing in the repository root ignores that name, so wherever one seam lays the crate out for Cargo the build artifacts show up as untracked files. `ios-app` already holds the same thing as `git-ignore`, so the property is only missing from the Rust page type rather than from akasha.",
+   evidence:
+     'temper-watcher/tray/.gitignore is 8 bytes and reads `target/`. The repository root .gitignore is 35 lines and names no `target`. akasha/code-system/ios-app/ios-apps/alanwalton/alanwalton.ios-app.ts:15 carries `gitIgnore: "gitignore"`, and the file sits beside the page, so a file property of that shape is already proven. akasha/code-system/rust-crate/rust-crate.page-type.ts declares `cargo-manifest`, `rust-module-slugs`, `cargo-build-script` and `crate-icon-path` and nothing else. Of the ten tracked files under `temper-watcher/tray`, eight came into akasha and this one and `assets/icon.ico` did not.',
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/akasha-has-no-property-type-for-a-calendar-day.finding.ts b/domains/findings/pages/akasha-has-no-property-type-for-a-calendar-day.finding.ts
 index 7ba3e8663dc9ece2b72821949eb317abf4c51359..2f7c6dcc2a1f299631be29be8e3dd83c50423126 100644
 --- a/domains/findings/pages/akasha-has-no-property-type-for-a-calendar-day.finding.ts
