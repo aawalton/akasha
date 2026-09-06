@@ -1,5 +1,5 @@
 diff --git a/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts b/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
-index e6f6b75c1468b1873545eb5b3ddc8f46d402a844..b34df546df13a4df9430eea8ea7d3510d0af2a33 100644
+index e6f6b75c1468b1873545eb5b3ddc8f46d402a844..7ce9f049d39246291243aab06e8d3198938d9d69 100644
 --- a/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
 +++ b/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
 @@ -15,8 +15,11 @@ export const coachingContext = {
@@ -16,7 +16,7 @@ index e6f6b75c1468b1873545eb5b3ddc8f46d402a844..b34df546df13a4df9430eea8ea7d3510
      },
      {
        invariantKind: "departure",
-@@ -33,7 +36,7 @@ export const coachingContext = {
+@@ -33,12 +36,15 @@ export const coachingContext = {
      {
        invariantKind: "gap",
        statement:
@@ -25,3 +25,13 @@ index e6f6b75c1468b1873545eb5b3ddc8f46d402a844..b34df546df13a4df9430eea8ea7d3510
      },
      {
        invariantKind: "gap",
+-      statement:
+-        "No equipment item page exists, so nothing states the kit a session is loaded with.",
++      statement: "No equipment item page exists.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "Nothing states the kit a session is loaded with.",
+     },
+   ],
+ } as const satisfies Module
