@@ -1,0 +1,550 @@
+runsWarrants: false
+diff --git a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.code.ts b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.code.ts
+index 4bea8b9a86bd89b0e1e9cbc91391ab57d94fce74..812c9ab75ded4b9d9f6c4e8ea26ebe5215335014 100644
+--- a/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.code.ts
++++ b/changes/atomic-changes/pages/rename-export/rename-export.atomic-change.code.ts
+@@ -1,6 +1,6 @@
+ import { typed } from "@akasha/code-system/code-typing"
+-import { respelled } from "../../../../code-system/export-respelling/export-respelling.module.code.ts"
+ import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
++import { respelled } from "../../../partial/pages/respell-export/respell-export.module.code.ts"
+ 
+ const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
+ 
+diff --git a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts
+index f5c8c79f723c328626b3f02e3cbacb8d0b1f6a38..f98d9160a312d6eb38d6239ff7b8cf680690723f 100644
+--- a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts
++++ b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts
+@@ -3,8 +3,8 @@ import { type Named, namersOf, slugsOfType } from "@akasha/indexes"
+ import { exportedAs } from "@akasha/pages/page-export-name"
+ import { slugFor } from "@akasha/pages/page-property-key"
+ import ts from "typescript"
+-import { respelled } from "../../../../code-system/export-respelling/export-respelling.module.code.ts"
+ import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
++import { respelled } from "../../../partial/pages/respell-export/respell-export.module.code.ts"
+ 
+ const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
+ 
+diff --git a/changes/partial/change-partial.page-type.ts b/changes/partial/change-partial.page-type.ts
+index 67290d1e11b656e5bd81271b7ca3c6823fbb0bff..07d2238df2576a699fb36a7cdfa950c4aec1902e 100644
+--- a/changes/partial/change-partial.page-type.ts
++++ b/changes/partial/change-partial.page-type.ts
+@@ -9,7 +9,7 @@ export const changePartial = {
+   slug: "change-partial",
+   definition: "a piece of a change that leaves the tree broken on its own",
+   pluralSlug: "change-partials",
+-  partSlugs: ["change-partial/repoint-imports"],
++  partSlugs: ["change-partial/repoint-imports", "module/respell-export"],
+   extendsSlug: ["page-type/module"],
+   invariants: [
+     {
+diff --git a/changes/partial/pages/respell-export/respell-export.module.code.ts b/changes/partial/pages/respell-export/respell-export.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ece8e1e39057724dc483bd015c34d1e1b8ff9875
+--- /dev/null
++++ b/changes/partial/pages/respell-export/respell-export.module.code.ts
+@@ -0,0 +1,65 @@
++import {
++  boundAs,
++  exportsNamed,
++  reachedFrom,
++  readingOf,
++  referencesOf,
++  typingOver,
++} from "@akasha/code-system/code-typing"
++
++export type Respelled = {
++  readonly bodies: ReadonlyMap<string, string> | null
++  readonly refused: string | null
++}
++
++type Spot = {
++  readonly start: number
++  readonly end: number
++  readonly put: string
++}
++
++function refusing(why: string): Respelled {
++  return { bodies: null, refused: why }
++}
++
++export function respelled(
++  root: string,
++  at: string,
++  over: readonly string[],
++  of: string,
++  to: string,
++  textOf: (path: string) => string | null
++): Respelled {
++  const typing = typingOver(root, over, readingOf(root, textOf))
++  const declared = new Set(exportsNamed(typing, at, of))
++  if (declared.size === 0) return refusing(`\`${at}\` exports no \`${of}\``)
++  const held = new Map<string, Spot[]>()
++  const seen = new Set<string>()
++  for (const found of referencesOf(typing, root, declared)) {
++    const spot = `${found.path}:${found.start}`
++    if (seen.has(spot)) continue
++    seen.add(spot)
++    const spots = held.get(found.path) ?? []
++    spots.push({ start: found.start, end: found.end, put: boundAs(found, of, to) })
++    held.set(found.path, spots)
++  }
++  if (held.size === 0) return refusing(`nothing names \`${of}\`, so there is nothing to spell`)
++  for (const path of held.keys()) {
++    const source = typing.sourceAt(path)
++    if (source === null) return refusing(`\`${path}\` would change and could not be read`)
++    if (reachedFrom(typing, source, to).length > 0) {
++      return refusing(`\`${path}\` already reaches a \`${to}\``)
++    }
++  }
++  const bodies = new Map<string, string>()
++  for (const [path, spots] of held) {
++    const text = textOf(path)
++    if (text === null) return refusing(`\`${path}\` would change and could not be read`)
++    let body = text
++    for (const one of [...spots].sort((here, there) => there.start - here.start)) {
++      body = body.slice(0, one.start) + one.put + body.slice(one.end)
++    }
++    bodies.set(path, body)
++  }
++  return { bodies, refused: null }
++}
+diff --git a/changes/partial/pages/respell-export/respell-export.module.test.ts b/changes/partial/pages/respell-export/respell-export.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4a43ba353c547cc651bdd90456f1d0e5ab7efa8c
+--- /dev/null
++++ b/changes/partial/pages/respell-export/respell-export.module.test.ts
+@@ -0,0 +1,103 @@
++import { afterAll, expect, test } from "bun:test"
++import {
++  bodyOf,
++  HELD_CODE,
++  HELD_EXPORT,
++  idOf,
++  indexedRepo,
++  NAMER_CODE,
++  scratch,
++  textIn,
++} from "../../../../pages/indexes/indexing/indexing.module.test-fixtures.ts"
++import { respelled } from "./respell-export.module.code.ts"
++
++afterAll(scratch.sweep)
++
++const CARRIED = "carried"
++
++const SHORT_PAGE = "akasha/five/short.module.ts"
++
++const SHORT_CODE = "akasha/five/short.module.code.ts"
++
++const SHORT_BODY = `import { ${HELD_EXPORT} } from "../one/held.module.code.ts"
++
++export const short = { ${HELD_EXPORT} }
++`
++
++const shorthandRepo = (): string =>
++  indexedRepo({
++    [SHORT_PAGE]: bodyOf({ id: idOf("f"), pageTypeSlug: "module", slug: "short", code: "ts" }),
++    [SHORT_CODE]: SHORT_BODY,
++  })
++
++test("the declaring file and the paths handed in beside it are both spelled anew", () => {
++  const root = indexedRepo()
++  const said = respelled(
++    root,
++    HELD_CODE,
++    [HELD_CODE, NAMER_CODE],
++    HELD_EXPORT,
++    CARRIED,
++    textIn(root)
++  )
++  expect(said.refused).toBe(null)
++  expect([...(said.bodies ?? new Map()).keys()].sort()).toEqual([HELD_CODE, NAMER_CODE])
++  expect(said.bodies?.get(HELD_CODE)).toBe(`export const ${CARRIED} = 1\n`)
++  expect(said.bodies?.get(NAMER_CODE)).toBe(
++    `import { ${CARRIED} } from "../one/held.module.code.ts"\n\nexport const named = ${CARRIED} + 1\n`
++  )
++})
++
++test("a file left out of the paths handed in is left as that file is", () => {
++  const root = indexedRepo()
++  const said = respelled(root, HELD_CODE, [HELD_CODE], HELD_EXPORT, CARRIED, textIn(root))
++  expect(said.refused).toBe(null)
++  expect([...(said.bodies ?? new Map()).keys()]).toEqual([HELD_CODE])
++})
++
++test("a file exporting no such name is refused", () => {
++  const root = indexedRepo()
++  const said = respelled(root, HELD_CODE, [HELD_CODE], "missing", CARRIED, textIn(root))
++  expect(said.bodies).toBe(null)
++  expect(said.refused).toBe(`\`${HELD_CODE}\` exports no \`missing\``)
++})
++
++test("a file that would change and already reaches the new name is refused", () => {
++  const root = indexedRepo()
++  const said = respelled(
++    root,
++    HELD_CODE,
++    [HELD_CODE, NAMER_CODE],
++    HELD_EXPORT,
++    "named",
++    textIn(root)
++  )
++  expect(said.bodies).toBe(null)
++  expect(said.refused).toBe(`\`${NAMER_CODE}\` already reaches a \`named\``)
++})
++
++test("a shorthand keeps its key and points its value at the new name", () => {
++  const root = shorthandRepo()
++  const said = respelled(
++    root,
++    HELD_CODE,
++    [HELD_CODE, SHORT_CODE],
++    HELD_EXPORT,
++    CARRIED,
++    textIn(root)
++  )
++  expect(said.refused).toBe(null)
++  expect(said.bodies?.get(SHORT_CODE)).toBe(
++    `import { ${CARRIED} } from "../one/held.module.code.ts"\n\nexport const short = { ${HELD_EXPORT}: ${CARRIED} }\n`
++  )
++})
++
++test("the bodies are answered rather than written", () => {
++  const root = indexedRepo()
++  const text = textIn(root)
++  expect(
++    respelled(root, HELD_CODE, [HELD_CODE, NAMER_CODE], HELD_EXPORT, CARRIED, text).refused
++  ).toBe(null)
++  expect(text(HELD_CODE)).toBe(`export const ${HELD_EXPORT} = 1\n`)
++  expect(text(NAMER_CODE)).toContain(`import { ${HELD_EXPORT} }`)
++})
+diff --git a/changes/partial/pages/respell-export/respell-export.module.ts b/changes/partial/pages/respell-export/respell-export.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..998131962fd42681c8d3d04e43f66c7b5fa2426c
+--- /dev/null
++++ b/changes/partial/pages/respell-export/respell-export.module.ts
+@@ -0,0 +1,57 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const respellExport = {
++  id: "01a07651-187f-7ce5-a806-842a471da594",
++  pageTypeSlug: "module",
++  slug: "respell-export",
++  definition: "a name one body exports spelled anew across the paths a caller hands in",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The paths the naming is read across are handed in rather than asked of an index.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name is found from the declaration the declaring file exports under that name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file exporting no such name is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name nothing spells is refused, there being nothing to spell.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One place is spelled once however many readings answer at that place.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file that would change and already reaches the new name is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A body is spliced from its last place back, so the places before keep their spots.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A shorthand keeps its key and points its value at the new name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The bodies are answered rather than written.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads the index, which is the caller's to ask.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here judges whether the name a body carries is a page's own.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/code-system/code-system.workspace-package.ts b/code-system/code-system.workspace-package.ts
+index bc5eb4abb1eaefabf31480df9748f608d872d2a9..6e07c9055a9e009e743ca640d42d78b36ec940be 100644
+--- a/code-system/code-system.workspace-package.ts
++++ b/code-system/code-system.workspace-package.ts
+@@ -49,7 +49,6 @@ export const codeSystem = {
+     "module/package-manifest",
+     "module/shape-progress",
+     "module/carried-file",
+-    "module/export-respelling",
+     "module/name-series",
+   ],
+ } as const satisfies WorkspacePackage
+diff --git a/code-system/export-respelling/export-respelling.module.code.ts b/code-system/export-respelling/export-respelling.module.code.ts
+deleted file mode 100644
+index ece8e1e39057724dc483bd015c34d1e1b8ff9875..0000000000000000000000000000000000000000
+--- a/code-system/export-respelling/export-respelling.module.code.ts
++++ /dev/null
+@@ -1,65 +0,0 @@
+-import {
+-  boundAs,
+-  exportsNamed,
+-  reachedFrom,
+-  readingOf,
+-  referencesOf,
+-  typingOver,
+-} from "@akasha/code-system/code-typing"
+-
+-export type Respelled = {
+-  readonly bodies: ReadonlyMap<string, string> | null
+-  readonly refused: string | null
+-}
+-
+-type Spot = {
+-  readonly start: number
+-  readonly end: number
+-  readonly put: string
+-}
+-
+-function refusing(why: string): Respelled {
+-  return { bodies: null, refused: why }
+-}
+-
+-export function respelled(
+-  root: string,
+-  at: string,
+-  over: readonly string[],
+-  of: string,
+-  to: string,
+-  textOf: (path: string) => string | null
+-): Respelled {
+-  const typing = typingOver(root, over, readingOf(root, textOf))
+-  const declared = new Set(exportsNamed(typing, at, of))
+-  if (declared.size === 0) return refusing(`\`${at}\` exports no \`${of}\``)
+-  const held = new Map<string, Spot[]>()
+-  const seen = new Set<string>()
+-  for (const found of referencesOf(typing, root, declared)) {
+-    const spot = `${found.path}:${found.start}`
+-    if (seen.has(spot)) continue
+-    seen.add(spot)
+-    const spots = held.get(found.path) ?? []
+-    spots.push({ start: found.start, end: found.end, put: boundAs(found, of, to) })
+-    held.set(found.path, spots)
+-  }
+-  if (held.size === 0) return refusing(`nothing names \`${of}\`, so there is nothing to spell`)
+-  for (const path of held.keys()) {
+-    const source = typing.sourceAt(path)
+-    if (source === null) return refusing(`\`${path}\` would change and could not be read`)
+-    if (reachedFrom(typing, source, to).length > 0) {
+-      return refusing(`\`${path}\` already reaches a \`${to}\``)
+-    }
+-  }
+-  const bodies = new Map<string, string>()
+-  for (const [path, spots] of held) {
+-    const text = textOf(path)
+-    if (text === null) return refusing(`\`${path}\` would change and could not be read`)
+-    let body = text
+-    for (const one of [...spots].sort((here, there) => there.start - here.start)) {
+-      body = body.slice(0, one.start) + one.put + body.slice(one.end)
+-    }
+-    bodies.set(path, body)
+-  }
+-  return { bodies, refused: null }
+-}
+diff --git a/code-system/export-respelling/export-respelling.module.test.ts b/code-system/export-respelling/export-respelling.module.test.ts
+deleted file mode 100644
+index 24f41bca808c78389a1628fa832e19a24509ca6f..0000000000000000000000000000000000000000
+--- a/code-system/export-respelling/export-respelling.module.test.ts
++++ /dev/null
+@@ -1,103 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import {
+-  bodyOf,
+-  HELD_CODE,
+-  HELD_EXPORT,
+-  idOf,
+-  indexedRepo,
+-  NAMER_CODE,
+-  scratch,
+-  textIn,
+-} from "../../pages/indexes/indexing/indexing.module.test-fixtures.ts"
+-import { respelled } from "./export-respelling.module.code.ts"
+-
+-afterAll(scratch.sweep)
+-
+-const CARRIED = "carried"
+-
+-const SHORT_PAGE = "akasha/five/short.module.ts"
+-
+-const SHORT_CODE = "akasha/five/short.module.code.ts"
+-
+-const SHORT_BODY = `import { ${HELD_EXPORT} } from "../one/held.module.code.ts"
+-
+-export const short = { ${HELD_EXPORT} }
+-`
+-
+-const shorthandRepo = (): string =>
+-  indexedRepo({
+-    [SHORT_PAGE]: bodyOf({ id: idOf("f"), pageTypeSlug: "module", slug: "short", code: "ts" }),
+-    [SHORT_CODE]: SHORT_BODY,
+-  })
+-
+-test("the declaring file and the paths handed in beside it are both spelled anew", () => {
+-  const root = indexedRepo()
+-  const said = respelled(
+-    root,
+-    HELD_CODE,
+-    [HELD_CODE, NAMER_CODE],
+-    HELD_EXPORT,
+-    CARRIED,
+-    textIn(root)
+-  )
+-  expect(said.refused).toBe(null)
+-  expect([...(said.bodies ?? new Map()).keys()].sort()).toEqual([HELD_CODE, NAMER_CODE])
+-  expect(said.bodies?.get(HELD_CODE)).toBe(`export const ${CARRIED} = 1\n`)
+-  expect(said.bodies?.get(NAMER_CODE)).toBe(
+-    `import { ${CARRIED} } from "../one/held.module.code.ts"\n\nexport const named = ${CARRIED} + 1\n`
+-  )
+-})
+-
+-test("a file left out of the paths handed in is left as that file is", () => {
+-  const root = indexedRepo()
+-  const said = respelled(root, HELD_CODE, [HELD_CODE], HELD_EXPORT, CARRIED, textIn(root))
+-  expect(said.refused).toBe(null)
+-  expect([...(said.bodies ?? new Map()).keys()]).toEqual([HELD_CODE])
+-})
+-
+-test("a file exporting no such name is refused", () => {
+-  const root = indexedRepo()
+-  const said = respelled(root, HELD_CODE, [HELD_CODE], "missing", CARRIED, textIn(root))
+-  expect(said.bodies).toBe(null)
+-  expect(said.refused).toBe(`\`${HELD_CODE}\` exports no \`missing\``)
+-})
+-
+-test("a file that would change and already reaches the new name is refused", () => {
+-  const root = indexedRepo()
+-  const said = respelled(
+-    root,
+-    HELD_CODE,
+-    [HELD_CODE, NAMER_CODE],
+-    HELD_EXPORT,
+-    "named",
+-    textIn(root)
+-  )
+-  expect(said.bodies).toBe(null)
+-  expect(said.refused).toBe(`\`${NAMER_CODE}\` already reaches a \`named\``)
+-})
+-
+-test("a shorthand keeps its key and points its value at the new name", () => {
+-  const root = shorthandRepo()
+-  const said = respelled(
+-    root,
+-    HELD_CODE,
+-    [HELD_CODE, SHORT_CODE],
+-    HELD_EXPORT,
+-    CARRIED,
+-    textIn(root)
+-  )
+-  expect(said.refused).toBe(null)
+-  expect(said.bodies?.get(SHORT_CODE)).toBe(
+-    `import { ${CARRIED} } from "../one/held.module.code.ts"\n\nexport const short = { ${HELD_EXPORT}: ${CARRIED} }\n`
+-  )
+-})
+-
+-test("the bodies are answered rather than written", () => {
+-  const root = indexedRepo()
+-  const text = textIn(root)
+-  expect(
+-    respelled(root, HELD_CODE, [HELD_CODE, NAMER_CODE], HELD_EXPORT, CARRIED, text).refused
+-  ).toBe(null)
+-  expect(text(HELD_CODE)).toBe(`export const ${HELD_EXPORT} = 1\n`)
+-  expect(text(NAMER_CODE)).toContain(`import { ${HELD_EXPORT} }`)
+-})
+diff --git a/code-system/export-respelling/export-respelling.module.ts b/code-system/export-respelling/export-respelling.module.ts
+deleted file mode 100644
+index 779125b0e023d7071b7050cdfdc76b298c6fad96..0000000000000000000000000000000000000000
+--- a/code-system/export-respelling/export-respelling.module.ts
++++ /dev/null
+@@ -1,57 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const exportRespelling = {
+-  id: "01a07651-187f-7ce5-a806-842a471da594",
+-  pageTypeSlug: "module",
+-  slug: "export-respelling",
+-  definition: "a name one body exports spelled anew across the paths a caller hands in",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The paths the naming is read across are handed in rather than asked of an index.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A name is found from the declaration the declaring file exports under that name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A file exporting no such name is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A name nothing spells is refused, there being nothing to spell.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "One place is spelled once however many readings answer at that place.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A file that would change and already reaches the new name is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A body is spliced from its last place back, so the places before keep their spots.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A shorthand keeps its key and points its value at the new name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The bodies are answered rather than written.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads the index, which is the caller's to ask.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here judges whether the name a body carries is a page's own.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/code-system/package.json b/code-system/package.json
+index 35a41a911972dc221818d518fb9c03bdd7d0439d..428a2f46ff909d20d6fdbd1070345ccf3c26e136 100644
+--- a/code-system/package.json
++++ b/code-system/package.json
+@@ -22,7 +22,6 @@
+     "./eso-addon": "./eso-addons/eso-addon.page-type.ts",
+     "./eso-addon/bindings": "./eso-addons/properties/bindings.named-file-property.ts",
+     "./eso-interface": "./eso-interfaces/eso-interface.page-type.ts",
+-    "./export-respelling": "./export-respelling/export-respelling.module.code.ts",
+     "./ios-app": "./ios-apps/ios-app.page-type.ts",
+     "./ios-program/alanwalton-decode-harness": "./ios-programs/pages/alanwalton-decode-harness/alanwalton-decode-harness.ios-program.ts",
+     "./ios-program/alanwalton-widget": "./ios-programs/pages/alanwalton-widget/alanwalton-widget.ios-program.ts",
