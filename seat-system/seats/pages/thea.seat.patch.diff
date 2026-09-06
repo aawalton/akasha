@@ -1,0 +1,13 @@
+diff --git a/seat-system/seats/properties/restart-armed-at.instant-property.ts b/seat-system/seats/properties/restart-armed-at.instant-property.ts
+index 7822fc418580f174bda646e8731cf617968f7c09..9c10a41eba1ebbd7e5d0754720ea1857f547358f 100644
+--- a/seat-system/seats/properties/restart-armed-at.instant-property.ts
++++ b/seat-system/seats/properties/restart-armed-at.instant-property.ts
+@@ -5,7 +5,7 @@ export type RestartArmedAt = string
+ export const restartArmedAt = {
+   id: "01a0542c-d18e-7fcc-af7e-824542ba448e",
+   pageTypeSlug: "instant-property",
+-  slug: "restart-armed-at",
++  slug: "restart-armed",
+   propertySlug: "armed-at",
+   definition: "when a seat's restart was armed to fire on its next idle",
+ } as const satisfies InstantProperty
