@@ -1,9 +1,9 @@
 readersOweReading: false
 diff --git a/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts b/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
-index 6dfa714a1b4f186ed8fe694bcb2a09fcd4a8db0e..9615a388fb7a926fd94e7be7888779663fb8bca0 100644
+index 6dfa714a1b4f186ed8fe694bcb2a09fcd4a8db0e..96b719f335f20b717390193257d95b7dd465dd8b 100644
 --- a/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
 +++ b/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
-@@ -55,7 +55,7 @@ export const manifestLandsOnAFile = {
+@@ -55,11 +55,11 @@ export const manifestLandsOnAFile = {
      },
      {
        invariantKind: "gap",
@@ -12,3 +12,8 @@ index 6dfa714a1b4f186ed8fe694bcb2a09fcd4a8db0e..9615a388fb7a926fd94e7be788877966
      },
      {
        invariantKind: "gap",
+-      statement: "A file named by `main` or `bin` is judged as one named by `exports` is.",
++      statement: "A file named by `main` or `bin` is judged as a file named by `exports` is.",
+     },
+   ],
+ } as const satisfies CodeCheck
