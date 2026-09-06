@@ -13,7 +13,7 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement: "The paths counted are the change's own rather than the paths this check judged.",
+      statement: "The paths counted are the change's own rather than the paths the check judged.",
     },
     {
       invariantKind: "departure",
@@ -25,8 +25,11 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The high-water mark is forgotten before a run, so the mark after that run is that run's own peak.",
+      statement: "The high-water mark is forgotten before a run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The mark after a run is that run's own peak.",
     },
     {
       invariantKind: "departure",
@@ -34,8 +37,11 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A line states whether the mark was forgotten, so a proxy is never read as a measurement.",
+      statement: "A line states whether the mark was forgotten.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A proxy is never read as a measurement.",
     },
     {
       invariantKind: "departure",
