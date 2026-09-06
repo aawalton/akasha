@@ -35,6 +35,18 @@ index c888ca900ff38776d51163c965a1088acc25531b..d98e4fce3b8ffaa3a559e2e9b5bf19b6
  if (import.meta.main) {
    const root = process.env.AKASHA_ROOT ?? process.cwd()
    try {
+diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
+index 54ddfc4d6240cfb1d4a69c4218d32f412473120e..1afe4db238958a5e321003bffb3136c5e721ec8f 100644
+--- a/command-system/commands/command.page-type.ts
++++ b/command-system/commands/command.page-type.ts
+@@ -59,6 +59,7 @@ export const command = {
+     "command/lint-exception",
+     "command/loki",
+     "command/measure",
++    "command/measure-attributes",
+     "command/model-gateway",
+     "command/move",
+     "command/page-tree",
 diff --git a/command-system/commands/measure-attributes/measure-attributes.command.code.ts b/command-system/commands/measure-attributes/measure-attributes.command.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..2f49e1a706e70436eb8bf11f4f25d668d12fb50e
