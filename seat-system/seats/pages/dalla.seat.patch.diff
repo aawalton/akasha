@@ -16,3 +16,18 @@ index 9510e72876a41688f164c66f680f434ecaba9e40..7ed50c20f2c939638c274602ee5a5beb
 +    },
    ],
  } as const satisfies RefactorChange
+diff --git a/command-system/commands/refactor/refactor.command.ts b/command-system/commands/refactor/refactor.command.ts
+index 7ef0fd21b36bac1aa2acb7eb3cab5f75c05bd2fe..99fcfb616351bc7119a881f8077a58cb4a7c10c3 100644
+--- a/command-system/commands/refactor/refactor.command.ts
++++ b/command-system/commands/refactor/refactor.command.ts
+@@ -149,6 +149,10 @@ export const refactor = {
+       invariantKind: "departure",
+       statement: "A file holding uncommitted values is carried rather than rewritten.",
+     },
++    {
++      invariantKind: "gap",
++      statement: "A page slug rename carries no uncommitted file and no numbered part.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A reading of a file a rename carries is carried with that file.",
