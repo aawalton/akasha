@@ -10,23 +10,23 @@ export const seatTranscriptRotation = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat naming no transcript has none rotated.",
+      statement: "A seat naming no transcript has no transcript rotated.",
     },
     {
       invariantKind: "departure",
-      statement: "A transcript the seat names that is not on the disk has none rotated.",
+      statement: "A transcript the seat names that is not on the disk is not rotated.",
     },
     {
       invariantKind: "departure",
-      statement: "A transcript written within the last minute is still live and rotates to none.",
+      statement: "A transcript written within the last minute is still live and is not rotated.",
     },
     {
       invariantKind: "departure",
-      statement: "A candidate is a `.jsonl` file directly beside the one the seat names.",
+      statement: "A candidate is a `.jsonl` file directly beside the transcript the seat names.",
     },
     {
       invariantKind: "departure",
-      statement: "A file no newer than the one the seat names is no candidate.",
+      statement: "A file no newer than the transcript the seat names is no candidate.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,7 @@ export const seatTranscriptRotation = {
     },
     {
       invariantKind: "departure",
-      statement: "Exactly one candidate left is the answer, and any other number answers nothing.",
+      statement: "The answer comes only where exactly one candidate is left.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +64,11 @@ export const seatTranscriptRotation = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes, and no rotated session is kept.",
+      statement: "Nothing here writes.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No rotated session is kept.",
     },
   ],
 } as const satisfies Module
