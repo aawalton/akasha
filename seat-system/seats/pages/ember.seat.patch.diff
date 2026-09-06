@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts b/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
+index 4070099894a77ce50c36e1ac66f792a3ce48e851..f57e40f670e0f6429439795ede6770d6003d8470 100644
+--- a/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
++++ b/domains/initiatives/pages/ember-repair-temper-tasks.initiative.ts
+@@ -55,7 +55,7 @@ export const emberRepairTemperTasks = {
+     {
+       statement: "A player's settings are read from the file beside that player's page.",
+       workingMemory:
+-        "`settings` on temper-player is a file property, so every road answers the four characters `json` rather than the 42,772 bytes beside the page, and asRecord drops them. The watcher said `No settings to export.` at 17:17:00Z and wrote nothing, and the CLI answers every rule list empty. The watcher now reads the body over readPages and readFiles and says `settings to export: inventory, automation, logging, safety`. The browser still asks the page, so its automation and backpack read unset.",
++        "Met on the watcher and the browser. The watcher reads the body over readPages and readFiles and names all four under `settings to export`. The browser asks under `files` and reads 42,744 chars keyed safety, logging, inventory, automation, against `json` without it. Five panels share one copy, and a write landing before that read is refused. composedFor refuses the raw object and lands the ending plus `bodies` beside the page. Left: the CLI.",
+     },
+     {
+       statement: "The browser reads and writes the file beside a page.",
