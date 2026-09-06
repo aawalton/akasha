@@ -1,0 +1,86 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-a-capability-alternative-stops-being-maintainable.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-a-capability-alternative-stops-being-maintainable.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..302f801c81bbbbd2dcbc07642c1b29d8c532997b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-a-capability-alternative-stops-being-maintainable.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howACapabilityAlternativeStopsBeingMaintainable = {
++  id: "01a077e1-ff90-7f9c-bf20-79e5ff82caaa",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-a-capability-alternative-stops-being-maintainable",
++  topicSlug: "getting-out-from-under-a-dependency",
++  ask: "In what ways does a capability alternative I have built fail to stay maintainable?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-my-viability-tests-are-stated.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-my-viability-tests-are-stated.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7bd536aae8b52a8c9a248592238e22e88e2d16a0
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-my-viability-tests-are-stated.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howMyViabilityTestsAreStated = {
++  id: "01a077e1-ff8f-7d25-8ce1-6c92ffc04a4b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-my-viability-tests-are-stated",
++  topicSlug: "getting-out-from-under-a-dependency",
++  ask: "What are my cost ceiling, quality floor, transition and durability tests, stated well enough to stop being informal?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-tells-impossible-to-exit-from-expensive-to-exit.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-tells-impossible-to-exit-from-expensive-to-exit.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6aa8161711d016aad35a8b863428ff3c6710bea0
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-tells-impossible-to-exit-from-expensive-to-exit.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTellsImpossibleToExitFromExpensiveToExit = {
++  id: "01a077e1-ff90-7a8e-9aa8-9cada87bba13",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-tells-impossible-to-exit-from-expensive-to-exit",
++  topicSlug: "getting-out-from-under-a-dependency",
++  ask: "What tells impossible to exit apart from expensive to exit, given that the difference decides whether I leave or pay?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-a-concentration-fits-in-my-ranking.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-a-concentration-fits-in-my-ranking.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ab17db474454dc934c4934b489af207b8a55a442
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-a-concentration-fits-in-my-ranking.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereAConcentrationFitsInMyRanking = {
++  id: "01a077e1-ff90-7280-9fa3-a4bf635796dd",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-a-concentration-fits-in-my-ranking",
++  topicSlug: "getting-out-from-under-a-dependency",
++  ask: "Where do a critical thing with no spare and a supplier holding more than one role fit in my ranking of the ways out?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-switching-cascade-is-its-own-cost.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-switching-cascade-is-its-own-cost.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..07a2b1600c287508ba540fe0e014abb9063e32d2
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-switching-cascade-is-its-own-cost.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherASwitchingCascadeIsItsOwnCost = {
++  id: "01a077e1-ff90-732d-88c1-65eb43284c33",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-switching-cascade-is-its-own-cost",
++  topicSlug: "getting-out-from-under-a-dependency",
++  ask: "Switching one thing often forces switching another. Should that cascade be counted on its own rather than folded into switching cost?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/getting-out-from-under-a-dependency.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/getting-out-from-under-a-dependency.all-about-alan-topic.ts
+index 1b22525c222a28d66b7ccf9dc16c886e61fd33f4..d2b7c74d2e9fda56844a77748bd42357e9781c92 100644
+--- a/alan/books/all-about-alan/topics/pages/getting-out-from-under-a-dependency.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/getting-out-from-under-a-dependency.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const gettingOutFromUnderADependency = {
+   relatedSlugs: ["which-organisations-i-trust"],
+   settled:
+     "Doing it myself is a first-class option, not a fallback below finding a better provider.\n\nAhead of every tier sits the question of whether I need the thing at all.\n\nA capability is bought once and amortised, where a relationship is re-evaluated forever.\n\nSwitching swaps one provider for one provider. A capability covers several at once.\n\nPublic services used to sit outside the pressure and no longer reliably do.",
+-  unsettled:
+-    "The viability tests — cost ceiling, quality floor, transition, durability — are all informal.\n\nA capability alternative has to be maintainable, and the ways that fails are unenumerated.\n\nSwitching one thing often forces switching another, and that cascade is folded into switching cost.\n\nImpossible to exit and expensive to exit are not told apart, though that decides leaving from paying.\n\nTwo concentrations fall outside it: one critical thing with no spare, and one supplier holding several roles.",
+ } as const satisfies AllAboutAlanTopic
