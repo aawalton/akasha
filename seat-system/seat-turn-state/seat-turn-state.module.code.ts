@@ -15,7 +15,7 @@ import {
   type TurnPending,
 } from "../seat-turn-pending/seat-turn-pending.module.code.ts"
 
-export const SEAT_TURN_STATES = ["working", "idle-pending", "idle", "stopped"] as const
+export const SEAT_TURN_STATES = ["working", "idle-pending", "ready", "idle", "stopped"] as const
 
 export type SeatTurnState = (typeof SEAT_TURN_STATES)[number]
 
@@ -39,18 +39,22 @@ const GONE: SeatPresence = "absent"
 // phrase the on-call property itself is defined by.
 const SENT_TO_IT = "work sent to it"
 
-// A SEAT IN AN ON-CALL ROLE IS WAITING EVEN WHEN IT HOLDS NOTHING TO WAIT ON. Idle and waiting are
-// two different things to see on a row: idle says nobody is coming, and waiting says the seat is
-// between one piece of work and the next. A handler between messages is the second, and it drew as
-// the first — yellow, the color for a seat that has finished and been left — for as long as the
-// states have had colors.
+// A SEAT IN AN ON-CALL ROLE IS READY BETWEEN TURNS RATHER THAN IDLE. Idle and ready are two
+// different things to see on a row: idle says nobody is coming, and ready says the seat is between
+// one piece of work and the next with more on the way. A handler between messages is the second,
+// and it drew as the first — yellow, the color for a seat that has finished and been left — for as
+// long as the states have had colors.
+//
+// READY IS ITS OWN STATE RATHER THAN THE ONE FOR A TURN ALREADY ARRANGED. Blue says a turn the
+// agent arranged is still to come, which is a thing the seat is holding; a handler holding nothing
+// drew blue and read as busy. Green is what the seat's page carries for ready.
 //
 // THE ROLE ANSWERS THIS RATHER THAN THE SEAT'S OWN ON-CALL FLAG. Those are two facts: the flag says
 // this seat was put on call, which a seat of any role may be, and the role says every seat of that
 // role is on call by what the role is. A seat put on call to carry one errand is still idle between
 // turns; a handler never is.
 function idleIn(kept: SeatTurnRecords): SeatTurnReading {
-  if (kept.onCallRole) return { state: "idle-pending", waitingOn: SENT_TO_IT }
+  if (kept.onCallRole) return { state: "ready", waitingOn: SENT_TO_IT }
   return { state: "idle", waitingOn: null }
 }
 

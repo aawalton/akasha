@@ -128,7 +128,10 @@ export const seatTurn = {
       invariantKind: "departure",
       statement: "An idle seat is pending or handed or answered or unknown.",
     },
-    { invariantKind: "departure", statement: "An idle seat is never two of those four at once." },
+    {
+      invariantKind: "departure",
+      statement: "No idle seat is pending and handed and answered and unknown together.",
+    },
     {
       invariantKind: "departure",
       statement: "An idle seat is pending while a turn start the seat arranged is still to come.",
@@ -199,6 +202,10 @@ export const seatTurn = {
 
     { invariantKind: "departure", statement: "A working seat is drawn in green." },
     { invariantKind: "departure", statement: "An idle seat is drawn in yellow." },
+    {
+      invariantKind: "departure",
+      statement: "A seat in an on-call role between turns is drawn in green.",
+    },
     {
       invariantKind: "departure",
       statement: "An idle seat with a turn start still to come is drawn in blue.",

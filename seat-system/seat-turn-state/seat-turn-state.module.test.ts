@@ -66,11 +66,19 @@ test("a seat waiting on nothing is idle rather than waiting", () => {
   expect(readSeatTurn(kept()).state).toBe("idle")
 })
 
-test("a seat in an on-call role is waiting on work sent to it rather than idle", () => {
+test("a seat in an on-call role is ready for work sent to it rather than idle", () => {
   const read = readSeatTurn(kept({ onCallRole: true }))
 
-  expect(read.state).toBe("idle-pending")
+  expect(read.state).toBe("ready")
   expect(read.waitingOn).toBe("work sent to it")
+})
+
+test("a seat in a role that is not on call is idle rather than ready", () => {
+  expect(readSeatTurn(kept({ onCallRole: false })).state).toBe("idle")
+})
+
+test("a seat ready for work is told apart from one waiting on a turn it arranged", () => {
+  expect(readSeatTurn(kept({ onCallRole: true })).state).not.toBe("idle-pending")
 })
 
 test("what an on-call seat already waits on is named over the work sent to it", () => {
