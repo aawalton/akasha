@@ -1,3 +1,15 @@
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index 0f9443556337cfe898db74597e958136c221f59f..60abc04f08c7f81114bd0c14b2ea83d5e4220298 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -48,6 +48,7 @@ export const change = {
+     "change/respell-export",
+     "change/restate-value",
+     "module/change-answer",
++    "module/edits-keeping",
+   ],
+   properties: [
+     { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
 diff --git a/changes/modules/edits-keeping/edits-keeping.module.code.ts b/changes/modules/edits-keeping/edits-keeping.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..b641fd39b0617944b623abcc7682ec9ded58517e
