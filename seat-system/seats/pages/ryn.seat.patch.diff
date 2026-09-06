@@ -1,5 +1,5 @@
 diff --git a/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts b/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
-index 5f1160822617d5287e5fa1949ff5ad6a26dcc824..7bca5de49e6e32ec7d718179e493274d02902b3e 100644
+index 5f1160822617d5287e5fa1949ff5ad6a26dcc824..b9f1741b3d188c5a0c193d1471906ada919e8033 100644
 --- a/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
 +++ b/service-system/workstation-services/pages/surplus-fall-notifier.workstation-service.ts
 @@ -13,7 +13,11 @@ export const surplusFallNotifier = {
@@ -15,7 +15,7 @@ index 5f1160822617d5287e5fa1949ff5ad6a26dcc824..7bca5de49e6e32ec7d718179e493274d
      },
      {
        invariantKind: "departure",
-@@ -21,8 +25,11 @@ export const surplusFallNotifier = {
+@@ -21,12 +25,19 @@ export const surplusFallNotifier = {
      },
      {
        invariantKind: "departure",
@@ -26,6 +26,15 @@ index 5f1160822617d5287e5fa1949ff5ad6a26dcc824..7bca5de49e6e32ec7d718179e493274d
 +    {
 +      invariantKind: "departure",
 +      statement: "Reaching a device is the push notifier's.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The notification records the rung announced.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The notification records the rung announced, so a rung is never announced twice.",
++      statement: "A rung is never announced twice.",
      },
      {
        invariantKind: "departure",
