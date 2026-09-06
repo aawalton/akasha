@@ -16,7 +16,11 @@ export const sweepPageAnswers = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Answers from different states sit together, so no writing path takes an old one.",
+      statement: "Answers from different states sit together.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No writing path takes an old answer.",
     },
     {
       invariantKind: "departure",
