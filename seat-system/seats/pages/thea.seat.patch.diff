@@ -242,6 +242,26 @@ index be8e71de0504defcba1c6a767d15294ffc9d4521..7bb61a223afffc16fae0a1ef066c7dbf
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts b/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
+index c1943cd9ade919b694cb99415651024d7b188387..e63ff0c0b593bd1d9cc138b5a343c5a57df64aeb 100644
+--- a/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
++++ b/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
+@@ -33,13 +33,13 @@ export const allAboutAlanTopic = {
+       pagePropertySlug: "relation-property/topic-parent-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     {
+       pagePropertySlug: "relation-property/topic-related-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "text-property/topic-settled", required: false, many: false },
+   ],
 diff --git a/alan/books/all-about-alan/topics/properties/topic-settled.text-property.ts b/alan/books/all-about-alan/topics/properties/topic-settled.text-property.ts
 index 3119f276696e7456d8a24755b24ea6ef45d06cf6..5d801ae55398e16afff4c8ca44be28bdb0574c9e 100644
 --- a/alan/books/all-about-alan/topics/properties/topic-settled.text-property.ts
@@ -778,10 +798,10 @@ index 54432cbc155b468e406c5e61f2bcf09819f8ae6c..b3ec703a7ef2b7241d2899a605d65bcd
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/alan/fitness/exercises/exercise.page-type.ts b/alan/fitness/exercises/exercise.page-type.ts
-index d5a3c3a2dd11b9e64ddd78ca74c2eda4af5b066f..941dd09a5db9823272750f73517d49d34aa5f70f 100644
+index d5a3c3a2dd11b9e64ddd78ca74c2eda4af5b066f..f369e976ec4d3fc6b1483a8ce85045d9df6737a3 100644
 --- a/alan/fitness/exercises/exercise.page-type.ts
 +++ b/alan/fitness/exercises/exercise.page-type.ts
-@@ -116,7 +116,12 @@ export const exercise = {
+@@ -116,13 +116,18 @@ export const exercise = {
      { pagePropertySlug: "select-property/mechanic", required: false, many: false },
      { pagePropertySlug: "select-property/movement-pattern", required: true, many: false },
      { pagePropertySlug: "select-property/muscle-focus", required: true, many: false },
@@ -795,6 +815,13 @@ index d5a3c3a2dd11b9e64ddd78ca74c2eda4af5b066f..941dd09a5db9823272750f73517d49d3
      { pagePropertySlug: "select-property/scoring-mode", required: true, many: false },
      {
        pagePropertySlug: "select-property/secondary-muscles",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "select-property/secondary-pattern", required: false, many: false },
+     { pagePropertySlug: "number-property/sfr-score", required: true, many: false },
 diff --git a/alan/fitness/exercises/properties/exercise-external-id.text-property.ts b/alan/fitness/exercises/properties/exercise-external-id.text-property.ts
 index e3cb5cba2a0519e24cefffd459f60f3978836d5a..1887b4d4c81d1c5dd58f7a49043ac8e02294f376 100644
 --- a/alan/fitness/exercises/properties/exercise-external-id.text-property.ts
@@ -995,38 +1022,58 @@ index 80b5471dfb03241997d95160c647c21cc15ae536..6b183571e5e83ec94059e7d04e648427
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts b/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
-index 5e9264848d780b89782fb8546217807ad086507b..28cc3a945e05bfc3fc5a2371efecc8bd768aabb2 100644
+index 5e9264848d780b89782fb8546217807ad086507b..6b5f39ac2fba47b1a0880e50db3eab408220026f 100644
 --- a/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
 +++ b/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
-@@ -31,7 +31,12 @@ export const events = {
+@@ -23,15 +23,20 @@ export const events = {
+       pagePropertySlug: "text-property/calendar-event-types",
+       required: false,
        many: true,
-       max: 20,
+-      max: 20,
++      maxCount: 20,
      },
--    { pagePropertySlug: "text-property/calendar-event-tags", required: false, many: true, max: 20 },
+     {
+       pagePropertySlug: "text-property/calendar-event-age-groups",
+       required: false,
+       many: true,
+-      max: 20,
++      maxCount: 20,
++    },
 +    {
 +      pagePropertySlug: "text-property/calendar-event-tags",
 +      required: false,
 +      many: true,
 +      maxCount: 20,
-+    },
+     },
+-    { pagePropertySlug: "text-property/calendar-event-tags", required: false, many: true, max: 20 },
      { pagePropertySlug: "url-property/calendar-event-image-url", required: false, many: false },
      {
        pagePropertySlug: "number-property/calendar-event-max-attendees",
 diff --git a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
-index 19095fff8e5ef5521e6975a9eb21483dd5a8cb20..f073b993ba52ced61607aca6edb26b33e567fc6c 100644
+index 19095fff8e5ef5521e6975a9eb21483dd5a8cb20..cbb6587ed28dd0a62c917ca07dba30eda118aa54 100644
 --- a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
 +++ b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
-@@ -81,7 +81,12 @@ export const calendarEvent = {
+@@ -73,15 +73,20 @@ export const calendarEvent = {
+       pagePropertySlug: "text-property/calendar-event-types",
+       required: false,
        many: true,
-       max: 20,
+-      max: 20,
++      maxCount: 20,
      },
--    { pagePropertySlug: "text-property/calendar-event-tags", required: false, many: true, max: 20 },
+     {
+       pagePropertySlug: "text-property/calendar-event-age-groups",
+       required: false,
+       many: true,
+-      max: 20,
++      maxCount: 20,
++    },
 +    {
 +      pagePropertySlug: "text-property/calendar-event-tags",
 +      required: false,
 +      many: true,
 +      maxCount: 20,
-+    },
+     },
+-    { pagePropertySlug: "text-property/calendar-event-tags", required: false, many: true, max: 20 },
      { pagePropertySlug: "url-property/calendar-event-image-url", required: false, many: false },
      {
        pagePropertySlug: "number-property/calendar-event-max-attendees",
@@ -1467,6 +1514,19 @@ index c1481d50bab1972779cef88729ad525c59a8f353..822d071542b30c57d64818f1d8b743ce
 +  maxLength: 100,
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
+diff --git a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
+index 83827700933606732f17b39a09962c4d437fb65c..0409072692a76c16534baaf5b3bcd38749fc4ea6 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
+@@ -67,7 +67,7 @@ export const learnEverythingTopic = {
+       pagePropertySlug: "relation-property/topic-part-of-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "number-property/topic-calibration", required: false, many: false },
+     { pagePropertySlug: "text-property/topic-calibration-read", required: false, many: false },
 diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/capture-source.text-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/capture-source.text-property.ts
 index a8d3fbfe95b9c991204b4982133fbd681ffb2764..aac3200a775837c3a6a2ccc052556e211ccc4b5c 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/properties/capture-source.text-property.ts
@@ -1805,6 +1865,32 @@ index 1435f796956c9cd9a5a330a5033f55d87d1b78e5..aa7a607168fdf51c5649199fa70fa493
 +  maxLength: 200,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/relating/connection-activities/connection-activity.page-type.ts b/alan/relating/connection-activities/connection-activity.page-type.ts
+index 432a1f39e5a3e5d1f7236477d2ba6260d242e4ba..904f1db54d25c9c85e9990119cc2f93cf5dfbb99 100644
+--- a/alan/relating/connection-activities/connection-activity.page-type.ts
++++ b/alan/relating/connection-activities/connection-activity.page-type.ts
+@@ -119,7 +119,7 @@ export const connectionActivity = {
+       pagePropertySlug: "select-property/connection-activity-modality",
+       required: true,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     {
+       pagePropertySlug: "select-property/connection-activity-model-basis",
+diff --git a/alan/relating/relationship-topics/relationship-topic.page-type.ts b/alan/relating/relationship-topics/relationship-topic.page-type.ts
+index 83900fcf1e0848963b4d9cc360bd7e9c993fe0bd..63e16aef3cca13475d241f0fc56c7ffc2a416a59 100644
+--- a/alan/relating/relationship-topics/relationship-topic.page-type.ts
++++ b/alan/relating/relationship-topics/relationship-topic.page-type.ts
+@@ -38,7 +38,7 @@ export const relationshipTopic = {
+       pagePropertySlug: "relation-property/relationship-topic-person-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     {
+       pagePropertySlug: "select-property/relationship-topic-sensitivity",
 diff --git a/alan/relating/relationships/properties/relationship-account-user-id.text-property.ts b/alan/relating/relationships/properties/relationship-account-user-id.text-property.ts
 index ea1c6740cac41fe9366a4c4d4529794ef5f6e9be..f4ff3208112b55fa8585f685a3c4112001dab052 100644
 --- a/alan/relating/relationships/properties/relationship-account-user-id.text-property.ts
@@ -1876,6 +1962,63 @@ index 3c6166b5ad88ae214c38a817fb8d4e6593518fee..ecc05b0073791b8dd9e586eb666384d6
 +  maxLength: 100,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/relating/relationships/relationship.page-type.ts b/alan/relating/relationships/relationship.page-type.ts
+index 16ce8c610ca66ab08bd571ed9742862edfa9371f..64173c2cdd2f273aa1e88fb34c40b54de608e665 100644
+--- a/alan/relating/relationships/relationship.page-type.ts
++++ b/alan/relating/relationships/relationship.page-type.ts
+@@ -77,7 +77,7 @@ export const relationship = {
+       pagePropertySlug: "text-property/relationship-aliases",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "number-property/relationship-commitment", required: false, many: false },
+     { pagePropertySlug: "text-property/relationship-company", required: false, many: false },
+@@ -104,7 +104,7 @@ export const relationship = {
+       pagePropertySlug: "relation-property/relationship-topic-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "file-property/relationship-notes", required: false, many: false },
+   ],
+diff --git a/alan/self/identity-statements/identity-statement.page-type.ts b/alan/self/identity-statements/identity-statement.page-type.ts
+index 56a57f5e1cd030963f9298793814cd75594928a8..5b24d6f402a832264084e12a7b9db347faeca900 100644
+--- a/alan/self/identity-statements/identity-statement.page-type.ts
++++ b/alan/self/identity-statements/identity-statement.page-type.ts
+@@ -61,26 +61,26 @@ export const identityStatement = {
+       pagePropertySlug: "relation-property/replaced-by-statement-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     {
+       pagePropertySlug: "relation-property/replaces-statement-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "select-property/identity-statement-status", required: true, many: false },
+     {
+       pagePropertySlug: "relation-property/sub-statement-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     {
+       pagePropertySlug: "text-property/identity-statement-tags",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     {
+       pagePropertySlug: "relation-property/identity-statement-value-slug",
 diff --git a/alan/self/identity-statements/properties/identity-statement-tags.text-property.ts b/alan/self/identity-statements/properties/identity-statement-tags.text-property.ts
 index 5c5a8b829efb73a38d008fff6dceb1881f28ac79..e558cad35537a2000de6840b91e54c8dda283d3b 100644
 --- a/alan/self/identity-statements/properties/identity-statement-tags.text-property.ts
@@ -2235,6 +2378,32 @@ index 8cbc5f1e81952b08585ae7355d58f15db87219a1..0baebf9e5838ed77ae9706be4ac97fcc
      { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
      { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
      { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
+diff --git a/changes/workflow-templates/workflow-template.page-type.ts b/changes/workflow-templates/workflow-template.page-type.ts
+index e4caafbf6af1758d2896f936f1a4db395d957596..25244a1dc372f6656c7bc0ce10c173f54609e109 100644
+--- a/changes/workflow-templates/workflow-template.page-type.ts
++++ b/changes/workflow-templates/workflow-template.page-type.ts
+@@ -33,7 +33,7 @@ export const workflowTemplate = {
+       pagePropertySlug: "relation-property/workflow-cluster-service-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+   ],
+   invariants: [
+diff --git a/checks/cluster-checks/cluster-check.page-type.ts b/checks/cluster-checks/cluster-check.page-type.ts
+index 77f7068b74e9b6e6d91b913faa4c157c1ad99de0..79c2a17c103bdf37b735ec87d360d4cd899f013b 100644
+--- a/checks/cluster-checks/cluster-check.page-type.ts
++++ b/checks/cluster-checks/cluster-check.page-type.ts
+@@ -113,7 +113,7 @@ export const clusterCheck = {
+       pagePropertySlug: "record-property/dispatch-node-types",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "boolean-property/always-run", required: false, many: false },
+     { pagePropertySlug: "boolean-property/tree-sha", required: false, many: false },
 diff --git a/checks/cluster-checks/properties/closure-policy.text-property.ts b/checks/cluster-checks/properties/closure-policy.text-property.ts
 index 8defeaff31ea38b45954a16c774142fd0813326f..3cae489e1460eec60aafc836e95fdd647543b5de 100644
 --- a/checks/cluster-checks/properties/closure-policy.text-property.ts
@@ -2319,6 +2488,19 @@ index e30a3f7861c579115a778dad38b4e88138bb883d..22d5ded3cca7ec7bda528f9035621010
 +  maxLength: 200,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/checks/model-checks/model-check.page-type.ts b/checks/model-checks/model-check.page-type.ts
+index 171a57a02e373d46659f577bff3add9ccf6060bf..c64240334b3a75b43bba5aa417d0175422be7285 100644
+--- a/checks/model-checks/model-check.page-type.ts
++++ b/checks/model-checks/model-check.page-type.ts
+@@ -28,7 +28,7 @@ export const modelCheck = {
+       pagePropertySlug: "relation-property/model-test-slugs",
+       required: true,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "number-property/patch-runs", required: true, many: false },
+     { pagePropertySlug: "number-property/audit-runs", required: true, many: false },
 diff --git a/checks/refusals/properties/refusal-text.text-property.ts b/checks/refusals/properties/refusal-text.text-property.ts
 index 8e260a498c0d3cb24a957812aeb34e466b3839ac..663c5650e8d3fb3f0f1404e073b0b4d8d1c0dc3a 100644
 --- a/checks/refusals/properties/refusal-text.text-property.ts
@@ -2332,6 +2514,26 @@ index 8e260a498c0d3cb24a957812aeb34e466b3839ac..663c5650e8d3fb3f0f1404e073b0b4d8
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/code-system/eso-addons/eso-addon.page-type.ts b/code-system/eso-addons/eso-addon.page-type.ts
+index ba85176c98ffc836a3dd70bf1b05198b35a184b1..124bd73b1f6e3ab008215730436fe137e9dd0fc8 100644
+--- a/code-system/eso-addons/eso-addon.page-type.ts
++++ b/code-system/eso-addons/eso-addon.page-type.ts
+@@ -42,13 +42,13 @@ export const esoAddon = {
+       pagePropertySlug: "relation-property/eso-interface-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     {
+       pagePropertySlug: "relation-property/lua-module-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "named-file-property/addon-git-ignore", required: false, many: false },
+     { pagePropertySlug: "file-property/sibling-manifest", required: false, many: false },
 diff --git a/code-system/eso-interfaces/properties/loaded-as.text-property.ts b/code-system/eso-interfaces/properties/loaded-as.text-property.ts
 index c936bbd690782c7bb5d74102490356a3ccbb3ec7..d658373fafe695c8499e031911ed725a99a20066 100644
 --- a/code-system/eso-interfaces/properties/loaded-as.text-property.ts
@@ -2563,6 +2765,19 @@ index 6f0c2db02e15ac76b6f13c3f57f0794ef73732aa..5f8463405de4734a80a66098964fe902
 +  maxLength: 100,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/code-system/ios-programs/ios-program.page-type.ts b/code-system/ios-programs/ios-program.page-type.ts
+index 024fa7d3f8b0948639dbcdf16236450b515cff1b..41b26ee81e82bb919d47b5bf3c7e5356581da59a 100644
+--- a/code-system/ios-programs/ios-program.page-type.ts
++++ b/code-system/ios-programs/ios-program.page-type.ts
+@@ -45,7 +45,7 @@ export const iosProgram = {
+       pagePropertySlug: "relation-property/component-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "text-property/profile-name", required: false, many: false },
+     { pagePropertySlug: "text-property/target-name", required: false, many: false },
 diff --git a/code-system/ios-programs/properties/profile-name.text-property.ts b/code-system/ios-programs/properties/profile-name.text-property.ts
 index 302499fb2379e026507016199449dd1a632d10bb..cd3e41bd0475347246e2d69b233d15d0becef1db 100644
 --- a/code-system/ios-programs/properties/profile-name.text-property.ts
@@ -2602,6 +2817,19 @@ index 43e43f42d257ad41db942ea1df2639e039d5b78a..13f45a7308c3eb87034741e20332cc61
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/code-system/rust-crates/rust-crate.page-type.ts b/code-system/rust-crates/rust-crate.page-type.ts
+index 7cfbeec328451d60d72b1f4ca810d8acece0ae99..995a831c8f0e727dbb25fa2a2d944c9bfc153d2f 100644
+--- a/code-system/rust-crates/rust-crate.page-type.ts
++++ b/code-system/rust-crates/rust-crate.page-type.ts
+@@ -31,7 +31,7 @@ export const rustCrate = {
+       pagePropertySlug: "relation-property/rust-module-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "named-file-property/cargo-build-script", required: false, many: false },
+     { pagePropertySlug: "file-property/crate-icon", required: false, many: false },
 diff --git a/code-system/rust-modules/properties/rust-module-name.text-property.ts b/code-system/rust-modules/properties/rust-module-name.text-property.ts
 index a825db13186669f2e9a36636aa8cee482de20cfe..37cdc8d83b4605dddc4600e0111a66e116bee1de 100644
 --- a/code-system/rust-modules/properties/rust-module-name.text-property.ts
@@ -2761,7 +2989,7 @@ index 99eb587f4cb6e2db23b84b73f6acf01e2a5f68d9..31119f231b3d69649923f2cd36a87857
    invariants: [
      {
 diff --git a/command-system/commands/command.page-type.ts b/command-system/commands/command.page-type.ts
-index 787918d2ed1143cba17240dfbe8a6c23fa7d88ca..00815181e134c2be9f19d120c99e7e2368217f16 100644
+index 787918d2ed1143cba17240dfbe8a6c23fa7d88ca..4875ebe3083967887c7461d67bd9235bd13df0c6 100644
 --- a/command-system/commands/command.page-type.ts
 +++ b/command-system/commands/command.page-type.ts
 @@ -110,19 +110,34 @@ export const command = {
@@ -2776,13 +3004,9 @@ index 787918d2ed1143cba17240dfbe8a6c23fa7d88ca..00815181e134c2be9f19d120c99e7e23
        pagePropertySlug: "record-property/help-positionals",
        required: false,
        many: true,
-       max: null,
-     },
--    { pagePropertySlug: "record-property/help-flags", required: false, many: true, max: null },
--    { pagePropertySlug: "record-property/help-env-vars", required: false, many: true, max: null },
--    { pagePropertySlug: "record-property/help-exclusions", required: false, many: true, max: null },
--    { pagePropertySlug: "record-property/help-exits", required: false, many: true, max: null },
--    { pagePropertySlug: "text-property/help-examples", required: false, many: true, max: null },
+-      max: null,
++      maxCount: null,
++    },
 +    { pagePropertySlug: "record-property/help-flags", required: false, many: true, maxCount: null },
 +    {
 +      pagePropertySlug: "record-property/help-env-vars",
@@ -2802,7 +3026,12 @@ index 787918d2ed1143cba17240dfbe8a6c23fa7d88ca..00815181e134c2be9f19d120c99e7e23
 +      required: false,
 +      many: true,
 +      maxCount: null,
-+    },
+     },
+-    { pagePropertySlug: "record-property/help-flags", required: false, many: true, max: null },
+-    { pagePropertySlug: "record-property/help-env-vars", required: false, many: true, max: null },
+-    { pagePropertySlug: "record-property/help-exclusions", required: false, many: true, max: null },
+-    { pagePropertySlug: "record-property/help-exits", required: false, many: true, max: null },
+-    { pagePropertySlug: "text-property/help-examples", required: false, many: true, max: null },
    ],
    invariants: [
      {
@@ -2926,6 +3155,19 @@ index 7c3629d3a7a8366ebc5195ff8977309b7483a426..56c5777e9ce90a617813b18500373abc
 +  maxLength: 60,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/command-system/commands/properties/help-exclusions.record-property.ts b/command-system/commands/properties/help-exclusions.record-property.ts
+index db6475390cb33d17052c71e3b86d8361a53e5d58..008ba30bc6e98150b903235a8125ddd054ab023d 100644
+--- a/command-system/commands/properties/help-exclusions.record-property.ts
++++ b/command-system/commands/properties/help-exclusions.record-property.ts
+@@ -19,7 +19,7 @@ export const helpExclusions = {
+       pagePropertySlug: "text-property/help-exclusion-names",
+       required: true,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+   ],
+   invariants: [
 diff --git a/command-system/commands/properties/help-exit-meaning.text-property.ts b/command-system/commands/properties/help-exit-meaning.text-property.ts
 index 7316fb4a644b9cb91a1ec3af077b6357f4624de2..5e83de4fd6aa58c30187146573a5e1116bae6e24 100644
 --- a/command-system/commands/properties/help-exit-meaning.text-property.ts
@@ -3438,6 +3680,19 @@ index 5a4243caee3e0770b6836099902a170a4a3e3857..96c4cfebb634ddcf579fb5927eb6bfc8
 +  maxLength: 100,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/graph/edges/graph-edge.page-type.ts b/graph/edges/graph-edge.page-type.ts
+index d8e8d33f53cd7a623c8c19d9271882bb5c98376a..f621bbebe6ffd55a8e0ccfc37163f69524d3d677 100644
+--- a/graph/edges/graph-edge.page-type.ts
++++ b/graph/edges/graph-edge.page-type.ts
+@@ -27,7 +27,7 @@ export const graphEdge = {
+       pagePropertySlug: "relation-property/attribute-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+   ],
+   invariants: [
 diff --git a/hook-system/agent-hooks/agent-hook.page-type.ts b/hook-system/agent-hooks/agent-hook.page-type.ts
 index 49c030834043ece96d39f07b8692c0bfa1b8d5f6..3099d6bc95adeb13540f503b7995010bcdc5b720 100644
 --- a/hook-system/agent-hooks/agent-hook.page-type.ts
@@ -4353,10 +4608,10 @@ index 08067074e74f6b5880ed98ce93fd6b6cbe049c7d..2f33e33f9b5fd41cceb5935a2fb8f651
    invariants: [
      {
 diff --git a/pages/views/view.page-type.ts b/pages/views/view.page-type.ts
-index 95cd27462b9d5f9a76b2ebc8b4833b27a9b18dbd..5edcfe4b0f29cd3d2bc02eb227e409f1d21314e7 100644
+index 95cd27462b9d5f9a76b2ebc8b4833b27a9b18dbd..b4329f22aa07484f57aa8d8b517b407cb1d28610 100644
 --- a/pages/views/view.page-type.ts
 +++ b/pages/views/view.page-type.ts
-@@ -82,10 +82,10 @@ export const view = {
+@@ -82,28 +82,28 @@ export const view = {
      { pagePropertySlug: "text-property/view-predicate", required: false, many: false },
      { pagePropertySlug: "number-property/view-place", required: false, many: false },
      { pagePropertySlug: "select-property/layout", required: false, many: false },
@@ -4370,6 +4625,27 @@ index 95cd27462b9d5f9a76b2ebc8b4833b27a9b18dbd..5edcfe4b0f29cd3d2bc02eb227e409f1
      { pagePropertySlug: "select-property/group-granularity", required: false, many: false },
      {
        pagePropertySlug: "text-property/visible-properties",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     {
+       pagePropertySlug: "text-property/always-show-properties",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     {
+       pagePropertySlug: "text-property/hidden-properties-order",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "number-property/page-size", required: false, many: false },
+     { pagePropertySlug: "number-property/item-page-size", required: false, many: false },
 diff --git a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts b/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
 index 7ba787eb6911c17f5c71ff99984fa9e62f7d3d65..494f7bde84a67f2dbb4eecacd1f844efa55f19e2 100644
 --- a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
@@ -4460,6 +4736,19 @@ index 0eb8bd93cb303bb99ff2a553313b014bbda7cb6f..b7cf81280eaa3961855d83380ae740bc
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/person-system/people/email/rules/codes/email-rule-code.page-type.ts b/person-system/people/email/rules/codes/email-rule-code.page-type.ts
+index 7b165d56eb108e6a3db0e447d3ad89625f88397b..1d7ba51c2312acefc4eb3755adfc530f37591952 100644
+--- a/person-system/people/email/rules/codes/email-rule-code.page-type.ts
++++ b/person-system/people/email/rules/codes/email-rule-code.page-type.ts
+@@ -31,7 +31,7 @@ export const emailRuleCode = {
+       pagePropertySlug: "select-property/email-rule-code-actions",
+       required: false,
+       many: true,
+-      max: 2,
++      maxCount: 2,
+     },
+     { pagePropertySlug: "text-property/email-rule-code-delay", required: false, many: false },
+     {
 diff --git a/person-system/people/email/rules/codes/properties/email-rule-code-delay.text-property.ts b/person-system/people/email/rules/codes/properties/email-rule-code-delay.text-property.ts
 index 6abb4605c8be1a30d5aa2785dfe5f554e6b222a9..80c650d4880e022340a7fb16e107222a4d09c1e3 100644
 --- a/person-system/people/email/rules/codes/properties/email-rule-code-delay.text-property.ts
@@ -4504,6 +4793,19 @@ index 3e4bd42d1360d2897d4e95813fab679ffb0c8efb..a26142c74af68e9ce6ce6c51c2ca58fc
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/person-system/people/email/rules/properties/email-rule-matches.record-property.ts b/person-system/people/email/rules/properties/email-rule-matches.record-property.ts
+index d17f310729fc051e0900217938c2be8b81839638..6ca01c222b491c218c8b941c94df3efdbec9843e 100644
+--- a/person-system/people/email/rules/properties/email-rule-matches.record-property.ts
++++ b/person-system/people/email/rules/properties/email-rule-matches.record-property.ts
+@@ -29,7 +29,7 @@ export const emailRuleMatches = {
+       pagePropertySlug: "text-property/email-rule-match-values",
+       required: true,
+       many: true,
+-      max: 50,
++      maxCount: 50,
+     },
+   ],
+   invariants: [
 diff --git a/person-system/people/properties/supabase-auth-user-id.text-property.ts b/person-system/people/properties/supabase-auth-user-id.text-property.ts
 index 2517964331f5ba2252ccb2b53acc662115958465..163385cc2facdeadd4a0367ad1cdec5323e1d8ab 100644
 --- a/person-system/people/properties/supabase-auth-user-id.text-property.ts
@@ -4641,6 +4943,19 @@ index 2c55692492a11716f681ae04be0d500fb854a06d..afc983cc52a8be8f6f77be39dd505b0c
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/personas/persona-craft-days/persona-craft-day.page-type.ts b/personas/persona-craft-days/persona-craft-day.page-type.ts
+index 4412ac8b8c4ec2c884d8e0a14bdadd9494d6fba8..f3d3215bf6f1797710d43282219ba34e9e53ccbe 100644
+--- a/personas/persona-craft-days/persona-craft-day.page-type.ts
++++ b/personas/persona-craft-days/persona-craft-day.page-type.ts
+@@ -49,7 +49,7 @@ export const personaCraftDay = {
+       pagePropertySlug: "relation-property/personas-crafted-slugs",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "number-property/new-persona-count", required: false, many: false },
+     { pagePropertySlug: "number-property/improvement-count", required: false, many: false },
 diff --git a/personas/persona-images/properties/image-path.text-property.ts b/personas/persona-images/properties/image-path.text-property.ts
 index d4202ed926856a72433a11d449b06a1f047cca1c..e6cadce6725cab4c577c0b697ea57f3a41c200f1 100644
 --- a/personas/persona-images/properties/image-path.text-property.ts
@@ -4667,6 +4982,19 @@ index e0a60042553962881c1a78d732f6a2a22e7456f9..dfaf9d97716b60ee030a1cd02548341b
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
+diff --git a/personas/persona-points-sources/persona-points-source.page-type.ts b/personas/persona-points-sources/persona-points-source.page-type.ts
+index e83551334fffa5e74d28b3731c7129b398570b60..b92355cda7d8703e0ff416eba2cb4a4bf2a6c3cc 100644
+--- a/personas/persona-points-sources/persona-points-source.page-type.ts
++++ b/personas/persona-points-sources/persona-points-source.page-type.ts
+@@ -49,7 +49,7 @@ export const personaPointsSource = {
+       pagePropertySlug: "text-property/points-source-readings",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+   ],
+   invariants: [
 diff --git a/personas/persona-points-sources/properties/points-source-aggregate.text-property.ts b/personas/persona-points-sources/properties/points-source-aggregate.text-property.ts
 index b391e6bb76d2deac71cfe1dcd04277f10c52039c..a77a63101f878f645baa129c6be27d8b289baa12 100644
 --- a/personas/persona-points-sources/properties/points-source-aggregate.text-property.ts
@@ -5927,12 +6255,15 @@ index 3821e1dd3b48458f5281ed0abf9a0c0fc45bd491..52944e2df1eca47a98b51bc12f516508
    invariants: [
      {
 diff --git a/service-system/web-apps/web-app.page-type.ts b/service-system/web-apps/web-app.page-type.ts
-index fee578efa65267d2f23f724026a7b630e2f2991a..959bd6e4b1b4542e4821142fe8784bbef6ed68f2 100644
+index fee578efa65267d2f23f724026a7b630e2f2991a..e5b3ba796f1dbdc9732c843c566969689e38bad3 100644
 --- a/service-system/web-apps/web-app.page-type.ts
 +++ b/service-system/web-apps/web-app.page-type.ts
-@@ -40,7 +40,7 @@ export const webApp = {
+@@ -38,9 +38,9 @@ export const webApp = {
+       pagePropertySlug: "relation-property/cluster-service-slugs",
+       required: true,
        many: true,
-       max: 20,
+-      max: 20,
++      maxCount: 20,
      },
 -    { pagePropertySlug: "text-property/hostnames", required: false, many: true, max: 20 },
 +    { pagePropertySlug: "text-property/hostnames", required: false, many: true, maxCount: 20 },
@@ -6923,7 +7254,7 @@ index 140489265385027a72ad22e7310fc8e93c02fe11..b80a05563d3f6c8b295ce1b4ad2da489
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/story/world-mechanics/world-mechanic.page-type.ts b/story/world-mechanics/world-mechanic.page-type.ts
-index b28ee55a05f4a9f8fd94fa7bb0b364ea1dba08da..a287de85e239dbf748ff6e8ba748edd8be7b932a 100644
+index b28ee55a05f4a9f8fd94fa7bb0b364ea1dba08da..83420b8abf5625672a25ab3fbb78a73f69a67cb2 100644
 --- a/story/world-mechanics/world-mechanic.page-type.ts
 +++ b/story/world-mechanics/world-mechanic.page-type.ts
 @@ -67,14 +67,19 @@ export const worldMechanic = {
@@ -6936,15 +7267,16 @@ index b28ee55a05f4a9f8fd94fa7bb0b364ea1dba08da..a287de85e239dbf748ff6e8ba748edd8
        pagePropertySlug: "text-property/evolves-from-slugs",
        required: false,
        many: true,
-       max: null,
-     },
--    { pagePropertySlug: "text-property/evolves-to-slugs", required: false, many: true, max: null },
+-      max: null,
++      maxCount: null,
++    },
 +    {
 +      pagePropertySlug: "text-property/evolves-to-slugs",
 +      required: false,
 +      many: true,
 +      maxCount: null,
-+    },
+     },
+-    { pagePropertySlug: "text-property/evolves-to-slugs", required: false, many: true, max: null },
      { pagePropertySlug: "page-property-entry/references", required: false, many: false },
    ],
    invariants: [
@@ -7098,6 +7430,19 @@ index 6bc83a782d6196f1e462643bfcfa94cc6475a265..bf8171abed36d82d2aabaf11e16a455f
 +  maxLength: 500,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/effects.page-property-entry.ts b/temper/temper-catalog/temper-catalog-things/properties/effects.page-property-entry.ts
+index b22e559043e1c9ff11209e1029974cd6ad63afb6..68eb91efb06b28ce0d6a12d3055b55bf1cfc3dfe 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/effects.page-property-entry.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/effects.page-property-entry.ts
+@@ -25,7 +25,7 @@ export const effects = {
+       pagePropertySlug: "text-property/effect-weapon-types",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "boolean-property/per-weapon", required: false, many: false },
+   ],
 diff --git a/temper/temper-catalog/temper-catalog-things/properties/eso-trait-constant-name.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/eso-trait-constant-name.text-property.ts
 index bd2af8ccf0d188fe044209724a7fffe9c606c4d1..9b73b693cfa09d77b043d6d8fabf9f19a41a953a 100644
 --- a/temper/temper-catalog/temper-catalog-things/properties/eso-trait-constant-name.text-property.ts
@@ -7224,23 +7569,32 @@ index ef5224a1616fa27ececa29333d8f093ea21a5618..e5c850bcb7c0317a1b331477ff4920ff
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
 diff --git a/temper/temper-catalog/temper-companions/companion-base-roles/temper-companion-base-role.page-type.ts b/temper/temper-catalog/temper-companions/companion-base-roles/temper-companion-base-role.page-type.ts
-index f4531993a2583126ad6efd10e7acd6f723f8d87d..687a853b10e1061f580c261da5e8554027e0a359 100644
+index f4531993a2583126ad6efd10e7acd6f723f8d87d..1c420d9683996ea706afd8f03959b09d6ee3fb69 100644
 --- a/temper/temper-catalog/temper-companions/companion-base-roles/temper-companion-base-role.page-type.ts
 +++ b/temper/temper-catalog/temper-companions/companion-base-roles/temper-companion-base-role.page-type.ts
-@@ -36,7 +36,12 @@ export const temperCompanionBaseRole = {
+@@ -34,14 +34,19 @@ export const temperCompanionBaseRole = {
+       pagePropertySlug: "text-property/valid-armor-weights",
+       required: true,
        many: true,
-       max: null,
-     },
--    { pagePropertySlug: "text-property/valid-trait-ids", required: true, many: true, max: null },
+-      max: null,
++      maxCount: null,
++    },
 +    {
 +      pagePropertySlug: "text-property/valid-trait-ids",
 +      required: true,
 +      many: true,
 +      maxCount: null,
-+    },
+     },
+-    { pagePropertySlug: "text-property/valid-trait-ids", required: true, many: true, max: null },
      {
        pagePropertySlug: "text-property/valid-weapon-role-ids",
        required: true,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+   ],
+ } as const satisfies PageType
 diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/buff-name.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/buff-name.text-property.ts
 index 44efd9ae949c56c73296de8bb9b8e8f746a55317..10bd1453ed9e1b3453f9f7dcc9fb142f944bfee5 100644
 --- a/temper/temper-catalog/temper-companions/companion-skills/properties/buff-name.text-property.ts
@@ -7266,10 +7620,10 @@ index a8222ab87061bf294c625c2a2d274eaccd409700..ee380643a58e62fe1b1f0c7539014dd7
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
 diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/cast-conditions.page-property-entry.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/cast-conditions.page-property-entry.ts
-index c4cb23047a5b12dcbf12de9de42c4163372f1a9d..8adf205bc38890fe7c4c787978fc6104d79235b0 100644
+index c4cb23047a5b12dcbf12de9de42c4163372f1a9d..1103cd1d1f3d6c68b7f34bcd7eec47b73af0da1f 100644
 --- a/temper/temper-catalog/temper-companions/companion-skills/properties/cast-conditions.page-property-entry.ts
 +++ b/temper/temper-catalog/temper-companions/companion-skills/properties/cast-conditions.page-property-entry.ts
-@@ -14,7 +14,7 @@ export const castConditions = {
+@@ -14,12 +14,12 @@ export const castConditions = {
      { pagePropertySlug: "text-property/target-type", required: false, many: false },
      { pagePropertySlug: "number-property/min-distance", required: false, many: false },
      { pagePropertySlug: "boolean-property/is-movable", required: false, many: false },
@@ -7278,6 +7632,12 @@ index c4cb23047a5b12dcbf12de9de42c4163372f1a9d..8adf205bc38890fe7c4c787978fc6104
      {
        pagePropertySlug: "record-property/effect-conditions",
        required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+   ],
+   invariants: [
 diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/coefficient-type.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/coefficient-type.text-property.ts
 index ccce0920b3412b8d4d8040ec0d667debd54af448..fbbd1224449826ae51ce67525ba16df9305827b0 100644
 --- a/temper/temper-catalog/temper-companions/companion-skills/properties/coefficient-type.text-property.ts
@@ -7410,6 +7770,19 @@ index b3cb116fe9035cd7b0538ee94f63381d9f60dddd..c4b086e6783aa4b801aa292de92f08bc
 +  maxLength: 100,
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/nested-effect.record-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/nested-effect.record-property.ts
+index d24c20b602aab3f8198e426100939fbc8a1ff815..f500e9751e8654512efc7c499466b669b8dba56f 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/nested-effect.record-property.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/nested-effect.record-property.ts
+@@ -33,7 +33,7 @@ export const nestedEffect = {
+       pagePropertySlug: "record-property/effect-conditions",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "text-property/damage-type", required: false, many: false },
+     { pagePropertySlug: "number-property/duration", required: false, many: false },
 diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/resource.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/resource.text-property.ts
 index dd798539add70e285842cccf2a8a0566bb85fdb8..ffc4a49846bce069775effb1b0ac1c5e86496e64 100644
 --- a/temper/temper-catalog/temper-companions/companion-skills/properties/resource.text-property.ts
@@ -7434,6 +7807,19 @@ index 9370318ead9903e934d3955bd344f13b236928aa..15ec4e6abcaaa0253cb787f1729ff8ab
 +  maxLength: 100,
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effects.page-property-entry.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effects.page-property-entry.ts
+index 525b381893c85048536c1b7ab610f87b56e9d183..d7716e17e4b0e62350f287aaf1ac48da8a223c0a 100644
+--- a/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effects.page-property-entry.ts
++++ b/temper/temper-catalog/temper-companions/companion-skills/properties/skill-effects.page-property-entry.ts
+@@ -19,7 +19,7 @@ export const skillEffects = {
+       pagePropertySlug: "record-property/effect-conditions",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "number-property/cooldown", required: false, many: false },
+     { pagePropertySlug: "number-property/effect-count", required: false, many: false },
 diff --git a/temper/temper-catalog/temper-companions/companion-skills/properties/status-name.text-property.ts b/temper/temper-catalog/temper-companions/companion-skills/properties/status-name.text-property.ts
 index 9511e0f88815a8fe2b89ee46d9f9cde24f5141ea..23584e995a231b66b7a27f287dba16ec80884718 100644
 --- a/temper/temper-catalog/temper-companions/companion-skills/properties/status-name.text-property.ts
@@ -7507,10 +7893,10 @@ index 4ff2e458ea3d7bc92413e94646ff84680c1a712d..726ffd3b34362036231fbe6b09840958
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
 diff --git a/temper/temper-catalog/temper-companions/companion-skills/temper-companion-skill.page-type.ts b/temper/temper-catalog/temper-companions/companion-skills/temper-companion-skill.page-type.ts
-index 74ce12e3725a3cfcb7ecbc8039cb42ecf2c14aa5..3e41bd7aa6b916e800d824f3fc4c08ec1558f188 100644
+index 74ce12e3725a3cfcb7ecbc8039cb42ecf2c14aa5..0cf67e1bd6fbb68a7f286de48ad32c2f1284091d 100644
 --- a/temper/temper-catalog/temper-companions/companion-skills/temper-companion-skill.page-type.ts
 +++ b/temper/temper-catalog/temper-companions/companion-skills/temper-companion-skill.page-type.ts
-@@ -89,8 +89,8 @@ export const temperCompanionSkill = {
+@@ -89,13 +89,13 @@ export const temperCompanionSkill = {
      { pagePropertySlug: "text-property/skill-line-id", required: true, many: false },
      { pagePropertySlug: "text-property/skill-type", required: true, many: false },
      { pagePropertySlug: "text-property/description", required: true, many: false },
@@ -7521,6 +7907,32 @@ index 74ce12e3725a3cfcb7ecbc8039cb42ecf2c14aa5..3e41bd7aa6b916e800d824f3fc4c08ec
      {
        pagePropertySlug: "number-property/alternate-ability-ids",
        required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "page-property-entry/skill-effects", required: false, many: false },
+     { pagePropertySlug: "page-property-entry/cast-conditions", required: false, many: false },
+diff --git a/temper/temper-catalog/temper-companions/companion-weapon-roles/temper-companion-weapon-role.page-type.ts b/temper/temper-catalog/temper-companions/companion-weapon-roles/temper-companion-weapon-role.page-type.ts
+index cb96483a703867bd7fd2f54fd05f1e4280cb13ba..be811a5832bbd6b2ff09d0555a619aaeb1778006 100644
+--- a/temper/temper-catalog/temper-companions/companion-weapon-roles/temper-companion-weapon-role.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-weapon-roles/temper-companion-weapon-role.page-type.ts
+@@ -29,13 +29,13 @@ export const temperCompanionWeaponRole = {
+       pagePropertySlug: "text-property/valid-main-hand-weapon-types",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     {
+       pagePropertySlug: "text-property/valid-off-hand-weapon-types",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+   ],
+ } as const satisfies PageType
 diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/abbreviation.text-property.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/abbreviation.text-property.ts
 index 37efad44be15c32923048cd66cbe9b56108c0699..46caba75023ff7b44365602fde4f4548b8deab9a 100644
 --- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/abbreviation.text-property.ts
@@ -8508,6 +8920,19 @@ index 16af6757ee21e938511f59ae6ba459c4a8e90cb3..dce47bbf1de05fca5310dbdd6a23c999
 +  maxLength: 36,
    nameFormatSlug: "name-format/lower-uuid",
  } as const satisfies TextProperty
+diff --git a/temper/temper-character/account-characters/temper-account-character.page-type.ts b/temper/temper-character/account-characters/temper-account-character.page-type.ts
+index 1f6b70887bdc174951a976e60757370bfd29f421..d91b31ae75c31de47fa3f03b164a1d4de9566cae 100644
+--- a/temper/temper-character/account-characters/temper-account-character.page-type.ts
++++ b/temper/temper-character/account-characters/temper-account-character.page-type.ts
+@@ -31,7 +31,7 @@ export const temperAccountCharacter = {
+       pagePropertySlug: "relation-property/character-roles",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+   ],
+   invariants: [
 diff --git a/temper/temper-character/accounts/properties/eso-display-name.text-property.ts b/temper/temper-character/accounts/properties/eso-display-name.text-property.ts
 index 42a836953374e3dfdd290d0a035f5d86f832e1e2..9560c71635be5b0014176bbaa1a5cd2728a85f0a 100644
 --- a/temper/temper-character/accounts/properties/eso-display-name.text-property.ts
@@ -8656,6 +9081,19 @@ index 77fc4dcb848c18e3641da6a2292dc892dfa41aa8..77b95a1383d5a436c1a9d31c9369592e
    ],
    invariants: [
      {
+diff --git a/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts b/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts
+index 97c9ed06c254a43ebccbdf9769ff2841f5d779bb..74d82790d4d4c4d7bb42cccd5409693c7e6d61db 100644
+--- a/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts
++++ b/temper/temper-character/companion-progresses/temper-companion-progress.page-type.ts
+@@ -21,7 +21,7 @@ export const temperCompanionProgress = {
+       pagePropertySlug: "relation-property/companion-roles",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+   ],
+ } as const satisfies PageType
 diff --git a/temper/temper-character/mines/properties/ability-description.text-property.ts b/temper/temper-character/mines/properties/ability-description.text-property.ts
 index 971632b895cc299947c86eb07be247721f239902..f6e3eb4e9009576e1ccc42eecc31cb0e98f86242 100644
 --- a/temper/temper-character/mines/properties/ability-description.text-property.ts
@@ -8911,10 +9349,10 @@ index 866db75f539bcfaab6eb5bb1b39ca4aa13475278..3e681b7736f30e4518a43cfcee5a87a3
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/temper/temper-holdings/item-category-trees/temper-item-category-tree.page-type.ts b/temper/temper-holdings/item-category-trees/temper-item-category-tree.page-type.ts
-index 97e828c9ec29e22a6538edbc5c205499304e51bd..9a3b70912888c32741bf9076539e5704ef2fdded 100644
+index 97e828c9ec29e22a6538edbc5c205499304e51bd..1a649d0d7672a54d2b2dc90efe4bf3804344f9ae 100644
 --- a/temper/temper-holdings/item-category-trees/temper-item-category-tree.page-type.ts
 +++ b/temper/temper-holdings/item-category-trees/temper-item-category-tree.page-type.ts
-@@ -48,9 +48,24 @@ export const temperItemCategoryTree = {
+@@ -48,35 +48,55 @@ export const temperItemCategoryTree = {
    ],
    properties: [
      { pagePropertySlug: "number-property/display-order", required: true, many: false },
@@ -8942,26 +9380,40 @@ index 97e828c9ec29e22a6538edbc5c205499304e51bd..9a3b70912888c32741bf9076539e5704
      {
        pagePropertySlug: "number-property/furniture-category-ids",
        required: false,
-@@ -63,7 +78,7 @@ export const temperItemCategoryTree = {
        many: true,
-       max: null,
+-      max: null,
++      maxCount: null,
+     },
+     {
+       pagePropertySlug: "number-property/furniture-subcategory-ids",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
      },
 -    { pagePropertySlug: "number-property/item-types", required: false, many: true, max: null },
 +    { pagePropertySlug: "number-property/item-types", required: false, many: true, maxCount: null },
      {
        pagePropertySlug: "number-property/specialized-item-types",
        required: false,
-@@ -76,7 +91,12 @@ export const temperItemCategoryTree = {
        many: true,
-       max: null,
+-      max: null,
++      maxCount: null,
      },
--    { pagePropertySlug: "number-property/weapon-types", required: false, many: true, max: null },
+     {
+       pagePropertySlug: "number-property/trait-type-range",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
++    },
 +    {
 +      pagePropertySlug: "number-property/weapon-types",
 +      required: false,
 +      many: true,
 +      maxCount: null,
-+    },
+     },
+-    { pagePropertySlug: "number-property/weapon-types", required: false, many: true, max: null },
      { pagePropertySlug: "number-property/priority-order", required: false, many: false },
      { pagePropertySlug: "text-property/item-name-contains", required: false, many: false },
    ],
@@ -9015,6 +9467,19 @@ index d59b78ffd896ba61145e4efb796d7d97ca316e7d..929e6a2229f690ae1919f95f4a7b8a22
 +  maxLength: 20,
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
+diff --git a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts b/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
+index 038367c77ea2e3c963c5f5792415bab614730bf8..921cce4157831c970db0896e22334452c2a4b295 100644
+--- a/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
++++ b/temper/temper-progress/completed-days/properties/completions.page-property-entry.ts
+@@ -20,7 +20,7 @@ export const completions = {
+       pagePropertySlug: "text-property/completion-item-path",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+   ],
+   invariants: [
 diff --git a/temper/temper-progress/completed-days/properties/day.text-property.ts b/temper/temper-progress/completed-days/properties/day.text-property.ts
 index cd5138ee38f2b9dec730f160d53b14bf8da446c0..f42518e3d85ddc8cfb786b0b698d472b933721c7 100644
 --- a/temper/temper-progress/completed-days/properties/day.text-property.ts
@@ -9065,6 +9530,19 @@ index a9c4eff4040f097bca26aff04d2a0d9ee14f8080..cb8291c16d2599bc3cdd266b9b2dbcc0
 +  maxLength: 200,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/temper/temper-progress/completion-overrides/temper-completion-override.page-type.ts b/temper/temper-progress/completion-overrides/temper-completion-override.page-type.ts
+index 17c47981db71838c31dea2709187750a79bc31d4..cd633600ca651d5ed54c62ca7c667522baf06690 100644
+--- a/temper/temper-progress/completion-overrides/temper-completion-override.page-type.ts
++++ b/temper/temper-progress/completion-overrides/temper-completion-override.page-type.ts
+@@ -24,7 +24,7 @@ export const temperCompletionOverride = {
+       pagePropertySlug: "text-property/completion-item-path",
+       required: true,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "number-property/floor", required: true, many: false },
+     { pagePropertySlug: "text-property/override-reason", required: true, many: false },
 diff --git a/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts b/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts
 index 429c84d12600431b03f773ee8fa758daadb29b1b..1b4b226b64720a1a80daf8c286a684697a29b816 100644
 --- a/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts
@@ -9193,6 +9671,19 @@ index 68cb4e3ec2894720247d40d9bc87e0ee56613f02..b89c01efcfe59771e1fefd230ef5dbc0
 +  maxLength: 20,
    nameFormatSlug: "name-format/lower-snake-case",
  } as const satisfies TextProperty
+diff --git a/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts b/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
+index d44bcfcb830c1711440d1570957f41f4fca0c7ae..e7d6b7ea005f08ade8153812c7ddafabd7898570 100644
+--- a/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
++++ b/temper/temper-progress/progress-things/temper-progress-thing.page-type.ts
+@@ -48,7 +48,7 @@ export const temperProgressThing = {
+       pagePropertySlug: "text-property/completion-item-path",
+       required: false,
+       many: true,
+-      max: null,
++      maxCount: null,
+     },
+     { pagePropertySlug: "text-property/scope", required: false, many: false },
+     { pagePropertySlug: "text-property/priority", required: false, many: false },
 diff --git a/temper/temper-progress/rotation-breakdown-rows/properties/full-name.text-property.ts b/temper/temper-progress/rotation-breakdown-rows/properties/full-name.text-property.ts
 index bb2747d69cdc91eecc8dd90e7f5bb1f2fbf98e9b..d6fc66a46b621dbbf9d4d9887f8f5ad169bd740a 100644
 --- a/temper/temper-progress/rotation-breakdown-rows/properties/full-name.text-property.ts
