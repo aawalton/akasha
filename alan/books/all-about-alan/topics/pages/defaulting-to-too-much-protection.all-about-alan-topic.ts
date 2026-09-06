@@ -9,6 +9,4 @@ export const defaultingToTooMuchProtection = {
   parentSlugs: ["what-my-senses-cost-me"],
   settled:
     "Being under-protected costs me much more than being over-protected, which is what makes the extreme the right default.\n\nIt holds for sound and for clothes. Full cancelling by default, tight by default, relief downward when I need it.\n\nThe relief is partial. The deepest layer keeps running.\n\nThe weighted blanket is the negative case, left off by default because its cost shape is not asymmetric.",
-  unsettled:
-    "Whether it holds for light too, where the load is smaller, is open.\n\nWhether the loose break fires on mana alone or on mana and safety together is open.",
 } as const satisfies AllAboutAlanTopic
