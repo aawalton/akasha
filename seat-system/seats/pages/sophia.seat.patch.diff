@@ -1,5 +1,5 @@
 diff --git a/code-system/ios-apps/ios-app.page-type.ts b/code-system/ios-apps/ios-app.page-type.ts
-index 4cfcbbfed43f2142368da2bc8263e5f3add4c534..002c06fc023aeea9c1417b135d852af0d2ccdcb6 100644
+index 4cfcbbfed43f2142368da2bc8263e5f3add4c534..62733bf5ae3a2c6dc4d40eb394cd88ea0d99fbb0 100644
 --- a/code-system/ios-apps/ios-app.page-type.ts
 +++ b/code-system/ios-apps/ios-app.page-type.ts
 @@ -16,6 +16,7 @@ import type { MacBuildNumberFile } from "./properties/mac-build-number-file.text
@@ -43,6 +43,15 @@ index 4cfcbbfed43f2142368da2bc8263e5f3add4c534..002c06fc023aeea9c1417b135d852af0
      },
      {
        invariantKind: "departure",
+@@ -136,7 +140,7 @@ export const iosApp = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The config Capacitor reads is made from the one sitting beside the page.",
++      statement: "The config Capacitor reads is made from the config file beside the page.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/code-system/ios-apps/properties/program-slugs.relation-property.ts b/code-system/ios-apps/properties/program-slugs.relation-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..bda59e0568d5ab553f20f8eba0f64dbf0fe9ab6e
