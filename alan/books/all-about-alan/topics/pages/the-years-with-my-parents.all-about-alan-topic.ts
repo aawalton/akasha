@@ -8,5 +8,11 @@ export const theYearsWithMyParents = {
   definition:
     "my father's last years and my mother's, and the whole run of it that is nowhere written down",
   parentSlugs: ["the-chapters-of-my-life"],
-  relatedSlugs: ["what-the-book-of-me-is-for", "why-getting-close-hurts"],
+  relatedSlugs: [
+    "what-the-book-of-me-is-for",
+    "why-getting-close-hurts",
+    "blank-check-mode-and-recovery-mode",
+  ],
+  settled:
+    "My parents explicitly called their parenting philosophy benevolent neglect. It took me thirty-eight years to realize that is a kind of neglect.",
 } as const satisfies AllAboutAlanTopic
