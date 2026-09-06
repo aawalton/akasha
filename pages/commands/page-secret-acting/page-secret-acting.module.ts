@@ -26,21 +26,21 @@ export const pageSecretActing = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag standing where a value should be is refused rather than read as one.",
+      statement: "A flag where a value should be is refused rather than read as a value.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A flag carrying no value is read as said rather than as taking the word after it.",
+        "A flag carrying no value is read as said rather than as taking the word after the flag.",
     },
     {
       invariantKind: "departure",
-      statement: "A word said as no flag is refused, since everything taken here is named by one.",
+      statement: "A word said as no flag is refused.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A caller's mistake, the data and an operational fault answer with codes of their own.",
+        "A caller's mistake and the data and an operational fault answer with codes of their own.",
     },
     {
       invariantKind: "departure",
