@@ -3,12 +3,12 @@ import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { importNotLeftHanging } from "../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
+import { repointed } from "../../../mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
 import { answered, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
-import { repointed } from "../../../pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
 
 const GUARDS = [importNotLeftHanging]
 

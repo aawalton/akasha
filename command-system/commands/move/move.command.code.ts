@@ -2,7 +2,7 @@ import { resolve } from "node:path"
 import { typed } from "@akasha/code/code-typing"
 import { everyPath } from "@akasha/indexes"
 import { valuesOver } from "@akasha/pages/page-value"
-import { repointed } from "../../../changes/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
+import { repointed } from "../../../changes/mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
 import {
   importingOf,
   spellingOf,

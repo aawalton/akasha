@@ -8,11 +8,11 @@ import {
   typingOver,
 } from "@akasha/code/code-typing"
 import ts from "typescript"
+import { renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical.code.ts"
+import { renameLocalVariable } from "../../../mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical.code.ts"
 import { gathered, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { renameExport } from "../../../pages/rename-export/rename-export.change-mechanical.code.ts"
-import { renameLocalVariable } from "../../../pages/rename-local-variable/rename-local-variable.change-mechanical.code.ts"
 
 export const LINE = "--line"
 

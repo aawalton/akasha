@@ -6,7 +6,7 @@ import { importEdge } from "@akasha/graph/import-edge"
 import { everyPath, readingIn } from "@akasha/indexes"
 import { uncommittedNamed } from "@akasha/pages/page-file-name"
 import { shadowAt } from "@akasha/pages/shadow"
-import { repointed } from "../../../changes/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
+import { repointed } from "../../../changes/mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
 import {
   importingOf,
   spellingOf,

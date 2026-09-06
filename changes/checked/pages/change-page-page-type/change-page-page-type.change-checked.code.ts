@@ -4,6 +4,8 @@ import type { Value } from "@akasha/pages/page-value"
 import { typedAs } from "../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { importNotLeftHanging } from "../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
+import { changeFile } from "../../../mechanical/pages/change-file/change-file.change-mechanical.code.ts"
+import { repointed } from "../../../mechanical/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
 import {
   answered,
   gathered,
@@ -13,9 +15,6 @@ import type { Answer, Edit } from "../../../modules/change-answer/change-answer.
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import { type World, worldOver } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
-import { changeFile } from "../../../pages/change-file/change-file.change-mechanical.code.ts"
-
-import { repointed } from "../../../pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
 
 const GUARDS = [importNotLeftHanging]
 

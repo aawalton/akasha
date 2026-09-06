@@ -1,8 +1,8 @@
 import { partedIn } from "@akasha/pages/page-file-name"
+import { removePage as removeOrdinaryPage } from "../../../mechanical/pages/remove-page/remove-page.change-mechanical.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { removePage as removeOrdinaryPage } from "../../../pages/remove-page/remove-page.change-mechanical.code.ts"
 
 const PAGE_TYPE = "page-type"
 
