@@ -23,8 +23,11 @@ export const monarchLandFiles = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A category akasha decided is held against one arriving from Monarch, and that holding is said.",
+      statement: "A category akasha decided is held against the category arriving from Monarch.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That comparison is reported.",
     },
     {
       invariantKind: "departure",
@@ -40,8 +43,11 @@ export const monarchLandFiles = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A patch naming a transaction no sidecar carries is refused, and nothing is written.",
+      statement: "A patch naming a transaction no sidecar carries is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refused patch writes nothing.",
     },
     {
       invariantKind: "departure",
