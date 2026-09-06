@@ -9,7 +9,7 @@ export const stockReconcilePlan = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A shortfall draws no more than the open storage tier can give.",
+      statement: "A shortfall draws no larger amount than the open storage tier can give.",
     },
     {
       invariantKind: "departure",
