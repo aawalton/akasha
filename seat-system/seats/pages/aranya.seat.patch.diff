@@ -1,0 +1,13 @@
+diff --git a/service-system/secrets/secret-placing/secret-placing.module.code.ts b/service-system/secrets/secret-placing/secret-placing.module.code.ts
+index 84643f403174d503ed6a252b55ab1de2d29f55e4..50a8f8bafd1d10b3163ea9aae6844f7187284470 100644
+--- a/service-system/secrets/secret-placing/secret-placing.module.code.ts
++++ b/service-system/secrets/secret-placing/secret-placing.module.code.ts
+@@ -148,7 +148,7 @@ export function placedAt(pages: readonly SecretPage[]): ReadonlyMap<string, Secr
+   return at
+ }
+ 
+-function valueOf(akasha: string, page: SecretPage): string {
++export function valueOf(akasha: string, page: SecretPage): string {
+   const sidecar = secretAt(page.relPath)
+   if (sidecar === null) {
+     throw new DeployRefused(`${page.relPath} is not a page, so no sops file names its value`)
