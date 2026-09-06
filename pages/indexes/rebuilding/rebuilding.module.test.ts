@@ -109,7 +109,7 @@ test("a file at the index's own top is taken away and the index's folders are le
   writeFileSync(join(under, STAMP), "{}\n")
   filed(under, AT, "{}\n")
 
-  const taken = sweptBeside(under)
+  const taken = sweptBeside(under, true)
 
   expect(taken).toEqual([join(under, STAMP)])
   expect(existsSync(join(under, STAMP))).toBe(false)
@@ -122,7 +122,7 @@ test("a folder beside the index opening `index.` goes and one under another name
   filed(beside, "index.refreshing.1/held/one.jsonl", "{}\n")
   filed(beside, "indexes/one.jsonl", "{}\n")
 
-  const taken = sweptBeside(under)
+  const taken = sweptBeside(under, true)
 
   expect(taken).toEqual([join(beside, "index.refreshing.1")])
   expect(existsSync(join(beside, "index.refreshing.1"))).toBe(false)
@@ -132,7 +132,7 @@ test("a folder beside the index opening `index.` goes and one under another name
 test("an index that is not there yet sweeps nothing rather than refusing", () => {
   const root = scratch.rootFor("akasha-swept-")
 
-  expect(sweptBeside(join(root, "data", "index"))).toEqual([])
+  expect(sweptBeside(join(root, "data", "index"), true)).toEqual([])
 })
 
 test("a root under any other name sweeps nothing, so a test's scratch is safe", () => {
@@ -141,9 +141,22 @@ test("a root under any other name sweeps nothing, so a test's scratch is safe", 
   filed(under, "one.jsonl", "{}\n")
   filed(root, "index.other/one.jsonl", "{}\n")
 
-  const taken = sweptBeside(under)
+  const taken = sweptBeside(under, true)
 
   expect(taken).toEqual([])
   expect(bodyAt(under, "one.jsonl")).toBe("{}\n")
   expect(existsSync(join(root, "index.other"))).toBe(true)
+})
+
+test("a sweep putting nothing in place answers the paths and leaves them where they are", () => {
+  const under = indexAt()
+  const beside = dirname(under)
+  writeFileSync(join(under, STAMP), "{}\n")
+  filed(beside, "index.refreshing.1/held/one.jsonl", "{}\n")
+
+  const taken = sweptBeside(under, false)
+
+  expect(taken).toEqual([join(beside, "index.refreshing.1"), join(under, STAMP)].sort())
+  expect(existsSync(join(under, STAMP))).toBe(true)
+  expect(existsSync(join(beside, "index.refreshing.1"))).toBe(true)
 })

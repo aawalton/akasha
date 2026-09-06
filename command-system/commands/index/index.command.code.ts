@@ -112,7 +112,12 @@ function refreshing(root: string, read: { dryRun: boolean }): Answer {
     ...driftSaid(said.drift),
   ]
   if (said.swept.length > 0) {
-    report.push(`took away ${counted(said.swept.length, "path")} belonging to no index`)
+    const many = counted(said.swept.length, "path")
+    report.push(
+      read.dryRun
+        ? `${many} belonging to no index would be taken away — ${named(said.swept)}`
+        : `took away ${many} belonging to no index — ${named(said.swept)}`
+    )
   }
   report.push(
     read.dryRun

@@ -117,7 +117,7 @@ export function rebound(path: string, text: string, was: string, now: string): s
 export function addressingIn(value: Value, known: Shaped, id: string): readonly string[] {
   const found = new Set<string>()
   for (const one of namingsIn(value, known)) {
-    if (one.own) continue
+    if (one.identity) continue
     const wanted = known.targetOf(one.propertySlug)
     if (wanted === null) continue
     for (const named of namesIn(one.held)) {

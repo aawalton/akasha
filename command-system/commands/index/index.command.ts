@@ -34,7 +34,11 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "The index is repaired in place, file by file.",
+      statement: "The index is repaired in place.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index is repaired file by file.",
     },
     {
       invariantKind: "departure",
@@ -46,7 +50,7 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "`--dry-run` says what the repair would change and writes nothing.",
+      statement: "`--dry-run` says the change the repair would make and writes no file.",
     },
     {
       invariantKind: "departure",
@@ -58,15 +62,19 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "A dry run takes none away.",
+      statement: "A dry run takes no path away.",
     },
     {
       invariantKind: "departure",
-      statement: "The report counts those taken away where any were.",
+      statement: "A dry run names the paths that would be taken away.",
     },
     {
       invariantKind: "departure",
-      statement: "The report names the files the index differed in as well as counting them.",
+      statement: "The report counts the paths taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The report names the files the index differed in as well as counting the files.",
     },
     {
       invariantKind: "absence",

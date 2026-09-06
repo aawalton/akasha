@@ -186,10 +186,11 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
 }
 
 // The sweep runs before the build, so what the build files is filed over a folder holding the index
-// and nothing else.
+// and nothing else. A dry run reads the same paths and takes none away, because a run answering none
+// whatever is there cannot be told from one that looked and found none.
 export function rebuiltWhole(repo: string, tree: string, put: boolean): Rebuilt {
   const root = indexIn(repo)
-  const swept = put ? sweptBeside(root) : []
+  const swept = sweptBeside(root, put)
   return { ...rebuiltFrom(tree, root, repo, put), swept }
 }
 

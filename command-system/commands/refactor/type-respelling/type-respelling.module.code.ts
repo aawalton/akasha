@@ -20,7 +20,7 @@ export function addressedIn(value: Value, known: Shaped, id: string): readonly A
   const found: Addressed[] = []
   const seen = new Set<string>()
   for (const one of namingsIn(value, known)) {
-    if (one.own) continue
+    if (one.identity) continue
     const wanted = known.targetOf(one.propertySlug)
     if (wanted === null) continue
     for (const named of namesIn(one.held)) {

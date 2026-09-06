@@ -10,7 +10,8 @@ export const rebuilding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The index is repaired in place rather than built beside it and swapped in.",
+      statement:
+        "The index is repaired in place rather than built beside the index and swapped in.",
     },
     {
       invariantKind: "departure",
@@ -22,15 +23,20 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A file the pages no longer imply is found by walking the index, and taken away.",
+      statement: "A file the pages no longer imply is found by walking the index.",
     },
     {
       invariantKind: "departure",
-      statement: "A folder left empty by that goes with the file.",
+      statement: "A file the pages no longer imply is taken away.",
     },
     {
       invariantKind: "departure",
-      statement: "A build putting nothing in place is answered for as fully as one that does.",
+      statement: "A folder left holding nothing goes with the file taken away.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A build putting nothing in place is answered for as fully as a build writing files.",
     },
     {
       invariantKind: "departure",
@@ -42,11 +48,16 @@ export const rebuilding = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder beside the index whose name opens `index.` is taken away with it.",
+      statement:
+        "A folder beside the index whose name opens `index.` is taken away with the index.",
     },
     {
       invariantKind: "departure",
       statement: "That sweep answers only for a folder named `index`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The paths answered are the same whether or not the sweep takes those paths away.",
     },
     {
       invariantKind: "departure",
