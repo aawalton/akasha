@@ -13,7 +13,7 @@ export const release = {
   definition: "an album Alan keeps",
   pluralSlug: "releases",
   extendsSlug: ["page-type/collection-external"],
-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

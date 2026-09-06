@@ -19,9 +19,9 @@ export const season = {
   extendsSlug: ["page-type/collection-external"],
   partSlugs: [],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "poster-path", required: false, many: false },
-    { pagePropertySlug: "vote-average", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/poster-path", required: false, many: false },
+    { pagePropertySlug: "number-property/vote-average", required: false, many: false },
   ],
   invariants: [
     {

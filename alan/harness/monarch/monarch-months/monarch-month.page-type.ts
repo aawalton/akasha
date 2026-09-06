@@ -35,8 +35,8 @@ export const monarchMonth = {
     "text-property/transaction-note",
   ],
   properties: [
-    { pagePropertySlug: "starts-on", required: true, many: false },
-    { pagePropertySlug: "transactions", required: true, many: false },
+    { pagePropertySlug: "calendar-date-property/starts-on", required: true, many: false },
+    { pagePropertySlug: "page-property-entry/transactions", required: true, many: false },
   ],
   invariants: [
     {

@@ -17,8 +17,8 @@ export const monarchCategory = {
   extendsSlug: ["page-type/monarch-record"],
   partSlugs: ["select-property/category-group-type", "text-property/category-group"],
   properties: [
-    { pagePropertySlug: "category-group", required: false, many: false },
-    { pagePropertySlug: "category-group-type", required: false, many: false },
+    { pagePropertySlug: "text-property/category-group", required: false, many: false },
+    { pagePropertySlug: "select-property/category-group-type", required: false, many: false },
   ],
   invariants: [
     {

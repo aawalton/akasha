@@ -16,9 +16,9 @@ export const topicCapture = {
   propertySlug: "capture",
   definition: "the transcript a topic's score was read out of, and how far it was read",
   properties: [
-    { pagePropertySlug: "capture-source", required: true, many: false },
-    { pagePropertySlug: "capture-through-line", required: true, many: false },
-    { pagePropertySlug: "capture-through-at", required: true, many: false },
+    { pagePropertySlug: "text-property/capture-source", required: true, many: false },
+    { pagePropertySlug: "number-property/capture-through-line", required: true, many: false },
+    { pagePropertySlug: "instant-property/capture-through-at", required: true, many: false },
   ],
   invariants: [
     {

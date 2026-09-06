@@ -13,7 +13,7 @@ export const greatCourse = {
   definition: "one course Alan is taught by",
   pluralSlug: "great-courses",
   extendsSlug: ["page-type/collection-external"],
-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

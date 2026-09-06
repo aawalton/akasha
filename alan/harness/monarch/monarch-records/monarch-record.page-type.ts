@@ -19,9 +19,9 @@ export const monarchRecord = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["text-property/monarch-id"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "monarch-id", required: false, many: false },
-    { pagePropertySlug: "definition", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/monarch-id", required: false, many: false },
+    { pagePropertySlug: "text-property/definition", required: false, many: false },
   ],
   invariants: [
     {

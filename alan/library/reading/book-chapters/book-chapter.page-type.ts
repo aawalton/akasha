@@ -17,9 +17,9 @@ export const bookChapter = {
   extendsSlug: ["page-type/collection"],
   partSlugs: ["file-property/chapter-text"],
   properties: [
-    { pagePropertySlug: "slug", required: true, many: false, unique: "part-of" },
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "chapter-text", required: true, many: false },
+    { pagePropertySlug: "text-property/slug", required: true, many: false, unique: "part-of" },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "file-property/chapter-text", required: true, many: false },
   ],
   invariants: [
     {

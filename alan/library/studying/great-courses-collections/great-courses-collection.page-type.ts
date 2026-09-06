@@ -13,7 +13,7 @@ export const greatCoursesCollection = {
   definition: "one shelf the whole Great Courses catalogue is reached through",
   pluralSlug: "great-courses-collections",
   extendsSlug: ["page-type/collection-external"],
-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

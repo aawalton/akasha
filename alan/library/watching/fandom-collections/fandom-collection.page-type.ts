@@ -13,5 +13,5 @@ export const fandomCollection = {
   definition: "a shelf of fandoms Alan keeps together",
   pluralSlug: "fandom-collections",
   extendsSlug: ["page-type/collection"],
-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

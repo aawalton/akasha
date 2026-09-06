@@ -17,8 +17,8 @@ export const monarchMerchant = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["text-property/merchant-patterns"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "merchant-patterns", required: true, many: true, max: 20 },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/merchant-patterns", required: true, many: true, max: 20 },
   ],
   invariants: [
     {

@@ -13,5 +13,5 @@ export const artistCollection = {
   definition: "a shelf of artists Alan keeps together",
   pluralSlug: "artist-collections",
   extendsSlug: ["page-type/collection"],
-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

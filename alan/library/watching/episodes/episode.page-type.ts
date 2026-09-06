@@ -21,10 +21,10 @@ export const episode = {
   extendsSlug: ["page-type/collection-external"],
   partSlugs: ["select-property/episode-type", "text-property/still-path"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "episode-type", required: false, many: false },
-    { pagePropertySlug: "still-path", required: false, many: false },
-    { pagePropertySlug: "vote-average", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "select-property/episode-type", required: false, many: false },
+    { pagePropertySlug: "text-property/still-path", required: false, many: false },
+    { pagePropertySlug: "number-property/vote-average", required: false, many: false },
   ],
   invariants: [
     {

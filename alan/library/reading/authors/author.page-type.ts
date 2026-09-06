@@ -13,5 +13,5 @@ export const author = {
   definition: "one who wrote what Alan reads",
   pluralSlug: "authors",
   extendsSlug: ["page-type/collection-external"],
-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

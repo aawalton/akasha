@@ -17,12 +17,12 @@ export const tracks = {
     "text-property/track-name",
   ],
   properties: [
-    { pagePropertySlug: "spotify-track-id", required: true, many: false },
-    { pagePropertySlug: "title-key", required: true, many: false },
-    { pagePropertySlug: "track-name", required: false, many: false },
-    { pagePropertySlug: "artist-name", required: false, many: false },
-    { pagePropertySlug: "first-heard-at", required: false, many: false },
-    { pagePropertySlug: "heard-source", required: false, many: false },
+    { pagePropertySlug: "text-property/spotify-track-id", required: true, many: false },
+    { pagePropertySlug: "text-property/title-key", required: true, many: false },
+    { pagePropertySlug: "text-property/track-name", required: false, many: false },
+    { pagePropertySlug: "text-property/artist-name", required: false, many: false },
+    { pagePropertySlug: "instant-property/first-heard-at", required: false, many: false },
+    { pagePropertySlug: "text-property/heard-source", required: false, many: false },
   ],
   invariants: [
     {

@@ -13,5 +13,5 @@ export const scriptureCollection = {
   definition: "a book of scripture Alan reads chapters of",
   pluralSlug: "scripture-collections",
   extendsSlug: ["page-type/collection-external"],
-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

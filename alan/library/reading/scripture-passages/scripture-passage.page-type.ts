@@ -27,11 +27,11 @@ export const scripturePassage = {
     "text-property/scripture-book",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "external-id", required: false, many: false },
-    { pagePropertySlug: "scripture-book", required: false, many: false },
-    { pagePropertySlug: "scripture-translation", required: false, many: false },
-    { pagePropertySlug: "passage-text", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/external-id", required: false, many: false },
+    { pagePropertySlug: "text-property/scripture-book", required: false, many: false },
+    { pagePropertySlug: "select-property/scripture-translation", required: false, many: false },
+    { pagePropertySlug: "file-property/passage-text", required: false, many: false },
   ],
   invariants: [
     {

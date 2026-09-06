@@ -9,13 +9,13 @@ export const notifications = {
   propertySlug: "notifications",
   definition: "something pushed at a person rather than waiting for them to look",
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "notification-body", required: false, many: false },
-    { pagePropertySlug: "notification-link", required: false, many: false },
-    { pagePropertySlug: "notification-kind", required: false, many: false },
-    { pagePropertySlug: "notification-source", required: false, many: false },
-    { pagePropertySlug: "notification-sent-at", required: true, many: false },
-    { pagePropertySlug: "notification-read-at", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/notification-body", required: false, many: false },
+    { pagePropertySlug: "text-property/notification-link", required: false, many: false },
+    { pagePropertySlug: "text-property/notification-kind", required: false, many: false },
+    { pagePropertySlug: "text-property/notification-source", required: false, many: false },
+    { pagePropertySlug: "instant-property/notification-sent-at", required: true, many: false },
+    { pagePropertySlug: "instant-property/notification-read-at", required: false, many: false },
   ],
   invariants: [
     {

@@ -17,8 +17,8 @@ export const monarchDirection = {
   extendsSlug: ["page-type/monarch-record"],
   partSlugs: ["text-property/applies-when", "text-property/directs"],
   properties: [
-    { pagePropertySlug: "applies-when", required: true, many: false },
-    { pagePropertySlug: "directs", required: true, many: false },
+    { pagePropertySlug: "text-property/applies-when", required: true, many: false },
+    { pagePropertySlug: "text-property/directs", required: true, many: false },
   ],
   invariants: [
     {
