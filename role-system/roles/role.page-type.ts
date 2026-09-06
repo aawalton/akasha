@@ -66,7 +66,7 @@ export const role = {
     {
       directiveKind: "rule",
       name: "Answer",
-      act: "Answer an exploratory question with a recommendation, and build nothing until the reader agrees.",
+      act: "Answer an exploratory question with a recommendation; build nothing until your principal agrees.",
       warrant: "An answer is cheap to disagree with, and work already finished is not.",
       aids: ["Reading the code to answer is not building.", "Silence is not agreement."],
     },
