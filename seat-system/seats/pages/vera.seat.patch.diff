@@ -16,3 +16,22 @@ index a5ed3b3fa2e5f73d3ce89f6f991809cb9d1f96a9..fbe102afdfdc63fbe8019ef7dbe0cfad
      )
    }
    const other = standing.pages.filter(
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/properties-of-the-type-above/properties-of-the-type-above.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/properties-of-the-type-above/properties-of-the-type-above.folder-shape.ts
+index 9e50fe1c5822992b8955e5c01b681847bb051433..372fbd2af944d53441f22af13c765cda469ef30e 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/properties-of-the-type-above/properties-of-the-type-above.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/properties-of-the-type-above/properties-of-the-type-above.folder-shape.ts
+@@ -27,6 +27,14 @@ export const propertiesOfTheTypeAbove = {
+       invariantKind: "departure",
+       statement: "A page's slug is a property slug that page type declares.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A file beside a property page is one that property page states.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A property page carrying code holds that code beside itself rather than apart.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
