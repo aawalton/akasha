@@ -57,7 +57,7 @@ index 72c2f8dc7ed85e7c912a5651b9e781a607b199d8..dd45d669293484a93da133bd259f809e
  }
  
 diff --git a/seat-system/subagents/presence/subagent-presence.module.test.ts b/seat-system/subagents/presence/subagent-presence.module.test.ts
-index e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac..f4b07c38fe6618382143e8978da99ceed69d8e3e 100644
+index e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac..7c60c0997f5e6cbd8a8ae1659595f4b32d9e7769 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.test.ts
 +++ b/seat-system/subagents/presence/subagent-presence.module.test.ts
 @@ -12,12 +12,15 @@ import {
@@ -99,3 +99,27 @@ index e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac..f4b07c38fe6618382143e8978da99cee
    SEAT_AT,
    SEAT_BODY,
    SEAT_ID,
+@@ -385,3 +392,23 @@ test("a write that landed leaves no reason in the log", async () => {
+     world.sweep()
+   }
+ }, 40000)
++
++test("a landing refused for a held lock is asked for again until that landing goes", async () => {
++  const run = counting([LOCKED, LOCKED, GOING])
++  expect(await landingAgain(run.ask, run.waited)).toEqual(GOING)
++  expect(run.count()).toBe(3)
++  expect(run.waits).toEqual([WAIT_MS, WAIT_MS])
++})
++
++test("a landing refused for a held lock every time is asked for five times and no more", async () => {
++  const run = counting([LOCKED])
++  expect(await landingAgain(run.ask, run.waited)).toEqual(LOCKED)
++  expect(run.count()).toBe(TRIES)
++})
++
++test("a refusal naming no held lock is answered at once and waits for nothing", async () => {
++  const run = counting([REFUSED])
++  expect(await landingAgain(run.ask, run.waited)).toEqual(REFUSED)
++  expect(run.count()).toBe(1)
++  expect(run.waits).toEqual([])
++})
