@@ -42,7 +42,7 @@ export const checks = {
     },
     {
       invariantKind: "departure",
-      statement: "Its commit says that none ran and why.",
+      statement: "Its commit says that no check ran and why.",
     },
     {
       invariantKind: "departure",
