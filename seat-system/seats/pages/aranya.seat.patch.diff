@@ -1,3 +1,34 @@
+diff --git a/command-system/commands/subagent-sweep/subagent-sweep.command.code.ts b/command-system/commands/subagent-sweep/subagent-sweep.command.code.ts
+index e1cfdee8bdcbbb8395a62c147af4bad6104c8f54..3b506856a61fab8076927d0462c4d896e8baa17e 100644
+--- a/command-system/commands/subagent-sweep/subagent-sweep.command.code.ts
++++ b/command-system/commands/subagent-sweep/subagent-sweep.command.code.ts
+@@ -28,15 +28,17 @@ import { type Answer, answering, type Given } from "../../calling/calling.module
+ // WHAT WAS READ OFF /proc AND OUT OF THE LOGS IS A PARAMETER, so a test seeds a live process and
+ // watches the page it answers for kept, which is the one failure this command must never make.
+ //
+-// THE TRANSCRIPTS ARE READ HERE AND ONLY EVER ADD A WORKING. An acting agent id names a subagent
+-// mid tool call alone, so a subagent waiting on the model is indistinguishable from a dead one, and
+-// most of the fleet reads undetermined. A seat's transcript knows better: it names every subagent
+-// launched that has not returned. What that reading may do is bounded on purpose. A transcript
+-// learns an agent id from the launch receipt, so a compacted or truncated one names a running
+-// subagent with no id at all, which joins to no page. Used to prove life, that costs a live
+-// subagent nothing worse than the undetermined it already had. Used to prove an end, it would take
+-// away a working subagent's page. So a transcript that will not open, a seat naming none, and a
+-// reading that throws are each worth exactly nothing here rather than worth a removal.
++// THE TRANSCRIPTS ARE READ HERE, FOR LIFE AND FOR AN END. An acting agent id names a subagent mid
++// tool call alone, so a subagent waiting on the model looks the same as one the model reaped, and
++// most of the fleet reads undetermined. A seat's transcript tells the two apart: it names every
++// subagent launched that has not returned, and it names every subagent it saw start and then
++// finish. Both readings rest on one fact, which is that a transcript learns an agent id from the
++// launch receipt. A compacted or truncated transcript therefore names a running subagent with no id
++// at all, which joins to no page, and it has no id to end either. Each reading costs an id rather
++// than inventing one. What is never read is the absence of a running entry, which a truncated
++// transcript and a finished subagent produce alike. So a transcript that will not open, a seat
++// naming none, and a reading that throws are each worth exactly nothing here rather than worth a
++// removal.
+ 
+ const REMOVE = "--remove"
+ 
 diff --git a/editor-extension/subagent-core/subagent-core.module.code.ts b/editor-extension/subagent-core/subagent-core.module.code.ts
 index bd4fb7f4bb5fbd5b135539a4a1603213fecf6863..25f8c8162bf9d3c8f56e4677f2082f731275637d 100644
 --- a/editor-extension/subagent-core/subagent-core.module.code.ts
