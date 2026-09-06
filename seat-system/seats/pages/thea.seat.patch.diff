@@ -5528,10 +5528,10 @@ index 2517964331f5ba2252ccb2b53acc662115958465..163385cc2facdeadd4a0367ad1cdec53
    invariants: [
      {
 diff --git a/person-system/person-accesses/properties/person-access-serves.text-property.ts b/person-system/person-accesses/properties/person-access-serves.text-property.ts
-index ac7d9dc7eaac8f73bf6533525780bd6f0d10eeba..ed4362a18c79bdb2b33b456095c866fd0c61c97b 100644
+index b71fdf29005b8dce0b44b1aa4b5aeb9a7dd25c83..ed4362a18c79bdb2b33b456095c866fd0c61c97b 100644
 --- a/person-system/person-accesses/properties/person-access-serves.text-property.ts
 +++ b/person-system/person-accesses/properties/person-access-serves.text-property.ts
-@@ -8,13 +8,13 @@ export const personAccessServes = {
+@@ -8,7 +8,7 @@ export const personAccessServes = {
    slug: "person-access-serves",
    propertySlug: "serves",
    definition: "the shared page type the target represents",
@@ -5540,13 +5540,6 @@ index ac7d9dc7eaac8f73bf6533525780bd6f0d10eeba..ed4362a18c79bdb2b33b456095c866fd
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
-       invariantKind: "departure",
-       statement:
--        "A target serves a page type only where that target is a person's own copy of one.",
-+        "A target serves a page type only where that target is a person's own copy of that page type.",
-     },
-     {
-       invariantKind: "stopgap",
 diff --git a/person-system/person-accesses/properties/person-access-target.text-property.ts b/person-system/person-accesses/properties/person-access-target.text-property.ts
 index 033b0ff8af33e5eb30c257b20b21ff7a4cb6e9e7..036ea5d5ac033a79558a565edbcd68e47944eb19 100644
 --- a/person-system/person-accesses/properties/person-access-target.text-property.ts
@@ -6571,10 +6564,10 @@ index f91401ce2f48c7fa0cefe55798bf4587ad0c1944..9ce7c9e37e72647c6083b86ecfa889a5
    invariants: [
      {
 diff --git a/seat-system/messages/properties/message-from.text-property.ts b/seat-system/messages/properties/message-from.text-property.ts
-index cc5c330caf49a8810f60da08bc83ac735868eeae..53cfd92557e838124e64cffa135057ddce3ae6c8 100644
+index cc5c330caf49a8810f60da08bc83ac735868eeae..ca6ea9aec21719fbe9d5deae51bda43c5e34e17e 100644
 --- a/seat-system/messages/properties/message-from.text-property.ts
 +++ b/seat-system/messages/properties/message-from.text-property.ts
-@@ -8,7 +8,7 @@ export const messageFrom = {
+@@ -8,12 +8,12 @@ export const messageFrom = {
    slug: "message-from",
    propertySlug: "from",
    definition: "who a message says sent it",
@@ -6583,6 +6576,12 @@ index cc5c330caf49a8810f60da08bc83ac735868eeae..53cfd92557e838124e64cffa135057dd
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "A sender is a seat, a persona or a service that holds no seat.",
++      statement: "A sender is a seat or a persona or a service that holds no seat.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/seat-system/notices/properties/notice-warrant.text-property.ts b/seat-system/notices/properties/notice-warrant.text-property.ts
 index 410fed02bb58401399bb6696a91ecb3252fad9f6..8960ad375c2a2e61c0e21e9aacbd14bb70903eda 100644
 --- a/seat-system/notices/properties/notice-warrant.text-property.ts
