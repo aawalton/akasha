@@ -1,27 +1,3 @@
-diff --git a/akasha.domain.ts b/akasha.domain.ts
-index 69332d0d43cf33802c325921eef52458772bac4a..c04a604942cec91e8c4c603f9ffd4c61c2a1ec2d 100644
---- a/akasha.domain.ts
-+++ b/akasha.domain.ts
-@@ -6,7 +6,10 @@ export const akasha = {
-   slug: "akasha",
-   definition: "code, data and text in a page with a type in a file",
-   partSlugs: [
--    "domain/code",
-+<<<<<<< what this change would leave
-+    "workspace-package/code-system",
-+=======
-+>>>>>>> what HEAD holds
-     "domain/data",
-     "domain/text",
-     "domain/file",
-@@ -26,7 +29,6 @@ export const akasha = {
-     "domain/akasha-check",
-     "domain/instrument",
-     "workspace-package/checks",
--    "workspace-package/code-system",
-     "workspace-package/command-system",
-     "workspace-package/hook-system",
-     "workspace-package/editor-extension",
 diff --git a/code-system/code-system.workspace-package.ts b/code-system/code-system.workspace-package.ts
 index 9a50b2b04ef240feb009c28592770d8d3090a239..3edf107ea4d88d800d6dfb5df6b3fbae48fc6bed 100644
 --- a/code-system/code-system.workspace-package.ts
