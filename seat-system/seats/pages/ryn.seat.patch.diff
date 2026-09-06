@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/changes/partial/pages/restate-value/restate-value.change-partial.ts b/changes/partial/pages/restate-value/restate-value.change-partial.ts
+index 62084de4763f955a87389014768b8526b7d881aa..c594baf5b678613a2783c481c5f09f8feec77067 100644
+--- a/changes/partial/pages/restate-value/restate-value.change-partial.ts
++++ b/changes/partial/pages/restate-value/restate-value.change-partial.ts
+@@ -23,7 +23,7 @@ export const restateValue = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A key stating what was asked for already is refused.",
++      statement: "A key already stating the text asked for is refused.",
+     },
+     {
+       invariantKind: "departure",
