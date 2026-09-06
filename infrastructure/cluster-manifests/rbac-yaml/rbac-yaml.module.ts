@@ -14,7 +14,7 @@ export const rbacYaml = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule holding a raw resource list writes that list rather than its parsed one.",
+      statement: "A rule holding a raw resource list writes that list rather than the parsed list.",
     },
   ],
 } as const satisfies Module
