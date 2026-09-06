@@ -9,7 +9,7 @@ export const editorLayoutPanel = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A change to the tabs, the groups or the terminals is read after a pause.",
+      statement: "A change to the tabs or the groups or the terminals is read after a pause.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,7 @@ export const editorLayoutPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A tab kind that is none of the known ones is named as other.",
+      statement: "A tab kind that is none of the known kinds is named `other`.",
     },
     {
       invariantKind: "departure",
