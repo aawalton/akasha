@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/alan/fitness/exercise-access/set-target/set-target.module.ts b/alan/fitness/exercise-access/set-target/set-target.module.ts
+index d62934545696cdb3ee12b9ef60382e8698ff0ac9..463138368fa849c83a5b328edbd7c8b82fa00dae 100644
+--- a/alan/fitness/exercise-access/set-target/set-target.module.ts
++++ b/alan/fitness/exercise-access/set-target/set-target.module.ts
+@@ -14,7 +14,8 @@ export const setTarget = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A best set carrying no load names no target rather than naming an unloaded one.",
++      statement:
++        "A best set carrying no load names no target rather than naming an unloaded target.",
+     },
+     {
+       invariantKind: "departure",
