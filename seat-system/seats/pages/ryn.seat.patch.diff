@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.ts
-index 13e82a3183ac0afe703ea7f7338ec271b01bf504..e845911e0106a5f219e2874ebf559633311ec536 100644
+index 13e82a3183ac0afe703ea7f7338ec271b01bf504..984c92f2fd986d6f90d1b4763233f30ef9a019f2 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.ts
 @@ -9,7 +9,8 @@ export const beatDrawing = {
@@ -13,3 +12,16 @@ index 13e82a3183ac0afe703ea7f7338ec271b01bf504..e845911e0106a5f219e2874ebf559633
      },
      {
        invariantKind: "departure",
+@@ -29,7 +30,11 @@ export const beatDrawing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A group answering no stoplights was not read, every group naming at least one.",
++      statement: "Every group names a stoplight.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A group answering no stoplights was not read.",
+     },
+     {
+       invariantKind: "absence",
