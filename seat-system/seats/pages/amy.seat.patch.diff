@@ -22,3 +22,15 @@ index 3e123b61aba12d6789092302e28df9313fde7ebe..35b27a927381f51f2ef0fcd7ffb56e95
    viewPlace: 2,
    layout: "cards",
    narrows: [{ key: "status", comparison: "is", values: ["Completed"] }],
+diff --git a/pages/views/pages/books-reading.view.ts b/pages/views/pages/books-reading.view.ts
+index 0e58638d0158dbf7364b3dc6280ba0e32858965d..4eb40436802827979ea5cef06e40faff5fffd6d9 100644
+--- a/pages/views/pages/books-reading.view.ts
++++ b/pages/views/pages/books-reading.view.ts
+@@ -6,6 +6,7 @@ export const booksReading = {
+   slug: "books-reading",
+   title: "Reading",
+   navSlug: "books",
++  pageType: "ki-book",
+   viewPlace: 0,
+   layout: "cards",
+   narrows: [{ key: "status", comparison: "in", values: ["In Progress", "Following"] }],
