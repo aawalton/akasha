@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
-index 7bf38474cec8f2844d5d368cbfeaf49af404210f..2711268775cb22897ffca5fd976bde9c233dbee7 100644
+index 7bf38474cec8f2844d5d368cbfeaf49af404210f..71b1c9cff57cffa813d5b45643073156c9a76e96 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.ts
 +++ b/seat-system/subagents/presence/subagent-presence.module.ts
 @@ -31,15 +31,16 @@ export const subagentPresence = {
@@ -38,6 +38,15 @@ index 7bf38474cec8f2844d5d368cbfeaf49af404210f..2711268775cb22897ffca5fd976bde9c
        invariantKind: "departure",
 -      statement: "A time is said to the millisecond, carrying the offset it was written at.",
 +      statement: "A time is said to the millisecond with the offset that time was written at.",
+     },
+     {
+       invariantKind: "departure",
+@@ -153,7 +154,7 @@ export const subagentPresence = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A patch whose page went before this sweep is taken in like any other.",
++      statement: "A patch whose page went before this sweep is taken in like any other patch.",
      },
      {
        invariantKind: "departure",
