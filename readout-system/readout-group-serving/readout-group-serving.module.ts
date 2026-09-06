@@ -27,11 +27,11 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "The label answered is the one the readout's own page carries.",
+      statement: "The label answered is the label the readout's own page carries.",
     },
     {
       invariantKind: "departure",
-      statement: "The key carrying the wire key is the one the caller names.",
+      statement: "The key carrying the wire key is the key the caller names.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +39,8 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "The scale read is the one the readout's page names rather than one named here.",
+      statement:
+        "The scale read is the scale the readout's page names rather than a scale named here.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +57,8 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "The reading carried in is the one taken on the machine that took the reading.",
+      statement:
+        "The reading carried in is the reading taken on the machine that took the reading.",
     },
     {
       invariantKind: "departure",
@@ -116,7 +118,8 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement: "That is read once for the group rather than once for each reading in the group.",
+      statement:
+        "Whether a figure is drawn past either end is read once for the group rather than once per reading.",
     },
     {
       invariantKind: "departure",
@@ -128,8 +131,7 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The answer is carried on each stoplight, a stoplight being what a ring is handed.",
+      statement: "The answer is carried on each stoplight a ring is handed.",
     },
     {
       invariantKind: "departure",
