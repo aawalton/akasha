@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-i-find-gentle-sensitive-intellectual-men.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-i-find-gentle-sensitive-intellectual-men.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d93610a34f3490aa3d28bd39350a8e316eecb0e1
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-i-find-gentle-sensitive-intellectual-men.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howIFindGentleSensitiveIntellectualMen = {
++  id: "01a077e6-d639-7aee-bafb-1b1e27198a41",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-i-find-gentle-sensitive-intellectual-men",
++  topicSlug: "where-connection-could-come-from",
++  ask: "By what concrete method do I find the minority of men who are gentle, sensitive and intellectual?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-being-treated-differently-is-a-practice.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-being-treated-differently-is-a-practice.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ce96b679e60ab530888fe310a3fc090d4ed5f27e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-being-treated-differently-is-a-practice.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherBeingTreatedDifferentlyIsAPractice = {
++  id: "01a077e6-d639-758c-a986-296234721c58",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-being-treated-differently-is-a-practice",
++  topicSlug: "where-connection-could-come-from",
++  ask: "Is becoming the sort of person people treat differently a practice of its own?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-jen-fits-as-my-intellectual-partner.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-jen-fits-as-my-intellectual-partner.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..08abfeef2605895b85fc14ffdd8bac4737c6477b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-jen-fits-as-my-intellectual-partner.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherJenFitsAsMyIntellectualPartner = {
++  id: "01a077e6-d638-7e4b-8f66-bd712a31b5b4",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-jen-fits-as-my-intellectual-partner",
++  topicSlug: "where-connection-could-come-from",
++  ask: "Permission is not what is in doubt, so does Jen have the capacity and the fit to be my main intellectual partner?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-plans-survive-own-actions-only.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-plans-survive-own-actions-only.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e300b72f2fea214f4c1e35369043e36f2f9bae6a
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-plans-survive-own-actions-only.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichPlansSurviveOwnActionsOnly = {
++  id: "01a077e6-d639-7df6-b2f0-07758d01d520",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-plans-survive-own-actions-only",
++  topicSlug: "where-connection-could-come-from",
++  ask: "Sweeping the plans I already hold, which plans survive the scope that keeps only moves that are my own act?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/where-connection-could-come-from.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/where-connection-could-come-from.all-about-alan-topic.ts
+index ebc87490d98fe84b1f37ee866a228de9aa33a390..46e52be489345ec135f73fc3272b7b59f2633841 100644
+--- a/alan/books/all-about-alan/topics/pages/where-connection-could-come-from.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/where-connection-could-come-from.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whereConnectionCouldComeFrom = {
+   relatedSlugs: ["what-makes-an-hour-count", "self-improvement"],
+   settled:
+     "Every direction is a source, a channel, or a move on the constraint, my capacity or the need itself.\n\nDeepening what I already have costs least: Jen, the children as they grow, family.\n\nRaising the rate beats banking one good hour, wherever any rate-raising move is affordable at all.\n\nSince the point became improving myself, only moves that are my own act are live.\n\nFor the expensive kind of being known, voice without a picture beats video, and real time is what brings two models into line.",
+-  unsettled:
+-    "Whether Jen has the capacity and the fit to be my main intellectual partner is the open question on the best-fitting source. Permission is not what is in doubt.\n\nFinding the minority of men who are gentle, sensitive and intellectual is named as a direction and has no concrete method.\n\nWhich of the standing plans survive the own-actions-only scope has never been swept, and whether becoming the sort of person people treat differently is a practice of its own is unsettled.",
+ } as const satisfies AllAboutAlanTopic
