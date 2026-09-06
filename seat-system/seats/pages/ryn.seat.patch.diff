@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/infrastructure/alerts/properties/alert-domain.text-property.ts b/infrastructure/alerts/properties/alert-domain.text-property.ts
+index 244e38d74db718644d6936ea3b86f98e52ced1ee..20e2dccd116d8d52f88912de40e438cc8b17c14b 100644
+--- a/infrastructure/alerts/properties/alert-domain.text-property.ts
++++ b/infrastructure/alerts/properties/alert-domain.text-property.ts
+@@ -17,7 +17,7 @@ export const alertDomain = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Some of the areas named here are yet to move into akasha.",
++      statement: "An area named here is not always a page in akasha yet.",
+     },
+     {
+       invariantKind: "departure",
