@@ -10,11 +10,13 @@ export const procScan = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A process names the agent it acts under as well as the agent it runs as.",
+      statement:
+        "A process names the agent that process acts under as well as the agent that process runs as.",
     },
     {
       invariantKind: "departure",
-      statement: "A process naming no acting agent carries none rather than carrying its own.",
+      statement:
+        "A process naming no acting agent carries no acting agent rather than carrying its own.",
     },
   ],
 } as const satisfies Module
