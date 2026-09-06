@@ -10,11 +10,11 @@ export const pageQueryTimes = {
     { invariantKind: "departure", statement: "Now is the moment the query is answered." },
     {
       invariantKind: "departure",
-      statement: "An eso day is counted from six in the morning, New York.",
+      statement: "An eso day is counted from six in the morning New York time.",
     },
     {
       invariantKind: "departure",
-      statement: "The next eso day is the one after the eso day the query is answered in.",
+      statement: "The next eso day is the eso day after the eso day the query is answered in.",
     },
     {
       invariantKind: "departure",
