@@ -256,7 +256,7 @@ index fe41f8d99771e5b1e2f1a99bbd9cda592664e12d..00000000000000000000000000000000
 -  ],
 -} as const satisfies FolderShape
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
-index e5d9f739b40440fdd90d54854604dd984519e750..0b064cf22363b45a2710ad90d805aea5f177447c 100644
+index e5d9f739b40440fdd90d54854604dd984519e750..140c66c77c96898922aef48ae90e2f9b0f77b2fd 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
 @@ -43,7 +43,7 @@ export const folderShape = {
@@ -268,6 +268,24 @@ index e5d9f739b40440fdd90d54854604dd984519e750..0b064cf22363b45a2710ad90d805aea5
      "folder-shape/folders-only",
      "folder-shape/modules-only",
      "folder-shape/one-page-with-its-properties",
+@@ -67,7 +67,7 @@ export const folderShape = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A folder may match more than one shape.",
++      statement: "One folder matches two shapes at once.",
+     },
+     {
+       invariantKind: "departure",
+@@ -133,7 +133,7 @@ export const folderShape = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A page type declares the members of every one-of property in that page type's `properties` folder.",
++        "A one-of property in that page type's `properties` folder hands the page type the members that property names.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..3ed25a264ba71770ec7314364f60c77e18908054
