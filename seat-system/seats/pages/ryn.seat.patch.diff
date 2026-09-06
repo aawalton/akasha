@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/terminal-renaming/terminal-renaming.module.ts b/editor-extension/terminal-renaming/terminal-renaming.module.ts
+index 6576ee5ec45347c15e3f13aefc06c476f78a4980..358478bad6b5ae1ab3e38e1d307072f5f9c3bee9 100644
+--- a/editor-extension/terminal-renaming/terminal-renaming.module.ts
++++ b/editor-extension/terminal-renaming/terminal-renaming.module.ts
+@@ -33,7 +33,7 @@ export const terminalRenaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file not read yet leaves every terminal the name and color it has.",
++      statement: "A file not read yet leaves every terminal the name and color that terminal has.",
+     },
+     {
+       invariantKind: "departure",
