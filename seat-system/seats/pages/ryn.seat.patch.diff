@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-events-addon/temper-events-addon.eso-addon.ts b/temper/temper-events-addon/temper-events-addon.eso-addon.ts
+index 6d3c2ceae4ef810b7ac4f867f75126b18d32bbd5..c6e308c4c20a03b4fbe508435c653d614491a414 100644
+--- a/temper/temper-events-addon/temper-events-addon.eso-addon.ts
++++ b/temper/temper-events-addon/temper-events-addon.eso-addon.ts
+@@ -35,7 +35,7 @@ export const temperEventsAddon = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "One add-on holds the timers rather than one add-on for each timer.",
++      statement: "One add-on holds the timers rather than an add-on for each timer.",
+     },
+     {
+       invariantKind: "departure",
