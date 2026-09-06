@@ -139,6 +139,62 @@ index 665a359e0df2ad7964bf6f52e02aa075a023e662..a931f4b6fa3cf510b18062d59f446b65
  }
  
  export function openIn(rows: readonly Row[]): Row | null {
+diff --git a/command-system/commands/track/track.command.code.ts b/command-system/commands/track/track.command.code.ts
+index 957229fdf45358a026f8409f2089d14b65e666a3..9fd3ded3be5d7f7a1a1800211968b1f44208d551 100644
+--- a/command-system/commands/track/track.command.code.ts
++++ b/command-system/commands/track/track.command.code.ts
+@@ -1,4 +1,4 @@
+-import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
++import { mkdtempSync, readFileSync, rmSync } from "node:fs"
+ import { join } from "node:path"
+ import { readMountainWallTime } from "@akasha/day/mountain-wall"
+ import { mistaking } from "../../asking/asking.module.code.ts"
+@@ -6,6 +6,7 @@ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+ import { refused } from "../../calling/calling.module.code.ts"
+ import { SCRATCH_AT } from "../../scratching/scratching.module.code.ts"
+ import { filing } from "../write/write.command.code.ts"
++import { besideArgv, type Landing, pathUnder } from "./day-landing/day-landing.module.code.ts"
+ import {
+   difficultyForTitle,
+   readDifficulty,
+@@ -54,8 +55,6 @@ function telling(lines: string): Answer {
+   return { report: lines === "" ? [] : [lines], refusals: [], code: 0 }
+ }
+ 
+-type Landing = { readonly held: Held; readonly rows: Row[] }
+-
+ type Ending = Landing & { readonly stretch: Row }
+ 
+ async function landedAcross(
+@@ -63,24 +62,16 @@ async function landedAcross(
+   said: string,
+   given: Given
+ ): Promise<Answer> {
+-  const at = (path: string): string =>
+-    path.startsWith(given.root) ? path.slice(given.root.length).replace(/^\//, "") : path
+   const last = landings[landings.length - 1]
+   if (last === undefined) return mistaking(["this act composed no day"])
+   const body = new TextEncoder().encode(linesOf(last.rows))
+-  const rest = landings.slice(0, -1)
+-  const scratch = rest.length === 0 ? "" : mkdtempSync(join(SCRATCH_AT, "akasha-track-"))
++  const scratch = mkdtempSync(join(SCRATCH_AT, "akasha-track-"))
+   try {
+-    const argv: string[] = []
+-    rest.forEach((one, index) => {
+-      const beside = join(scratch, `day-${String(index)}`)
+-      writeFileSync(beside, linesOf(one.rows))
+-      argv.push("--file-path", at(one.held.path), "--content-file", beside)
+-    })
+-    argv.push("--file-path", at(last.held.path), "--message", said)
++    const argv = [...besideArgv(landings, scratch, given.root)]
++    argv.push("--file-path", pathUnder(given.root, last.held.path), "--message", said)
+     return await filing(argv, given, () => ({ bytes: body }))
+   } finally {
+-    if (scratch !== "") rmSync(scratch, { recursive: true, force: true })
++    rmSync(scratch, { recursive: true, force: true })
+   }
+ }
+ 
 diff --git a/command-system/commands/track/track.command.ts b/command-system/commands/track/track.command.ts
 index f1516a703ee8b15ad96856cc02ad6cf86192e6f5..f6803c070f844842f2bc841e8a012f154f3bad32 100644
 --- a/command-system/commands/track/track.command.ts
