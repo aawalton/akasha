@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Four steps: 1 the failure category prevented, 2 the right files judged at patch, 3 cheap at patch, 4 turned on. A check no changed path satisfies never runs; the entries beside its page are the only instrument for that. Seed a fault before believing a zero, and never narrow a reach to reach zero. 43 checks, alphabetical. Done: domain-is-named-by-a-parent, email-address-is-well-formed, file-has-its-page, calculation-imports-only-types. Now: file-length, steps 1-2 done, reach right. Then step 3.",
+        "Four steps: 1 the failure category prevented, 2 the right files judged at patch, 3 cheap at patch, 4 turned on. A check no changed path satisfies never runs; the entries beside its page are the only instrument for that. Seed a fault before believing a zero, and never narrow a reach to reach zero. 43 checks, alphabetical. Done: domain-is-named-by-a-parent, email-address-is-well-formed, file-has-its-page, calculation-imports-only-types. Now: file-length, steps 1-3 done, fixed cost dominating.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
@@ -44,7 +44,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for audit.",
       workingMemory:
-        "Split off the patch sequence, which ends at turning a check on at patch. The cost over the whole repository is judged here. runsOnAudit is false on every check by Alan's call, an audit being asked for one check at a time. file-has-its-page over the whole tree read 120804 paths, 4.15s wall and 1.74GB peak added, but that count is the change's size rather than the check's own. It cannot reach audit until no tracked file is unclaimed.",
+        "Split off the patch sequence, which ends at turning a check on at patch. The cost over the whole repository is judged here. runsOnAudit is false on every check by Alan's call, an audit being asked for one check at a time. file-has-its-page over the whole tree read 120804 paths, 4.15s wall and 1.74GB peak added, but that count is the change's size rather than the check's own. file-length reads it in 1.9s but peaks 2.8GB. It cannot reach audit until no tracked file is unclaimed.",
     },
     {
       statement: "Every check is green.",
