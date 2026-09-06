@@ -1,0 +1,22 @@
+diff --git a/role-system/roles/role.page-type.ts b/role-system/roles/role.page-type.ts
+index 580ec00f449c026e759cff7c38596938dae13ed2..9b47cd75d3aa778c974fe21e49e480295e478a40 100644
+--- a/role-system/roles/role.page-type.ts
++++ b/role-system/roles/role.page-type.ts
+@@ -70,17 +70,6 @@ export const role = {
+       warrant: "An answer is cheap to disagree with, and work already finished is not.",
+       aids: ["Reading the code to answer is not building.", "Silence is not agreement."],
+     },
+-    {
+-      directiveKind: "rule",
+-      name: "Adjacent Repair",
+-      act: "Fix every small issue you have the context to fix, rather than filing it or handing it on.",
+-      warrant:
+-        "Filing it reads as handling it, so the window stays broken and nothing reports the delay.",
+-      aids: [
+-        "A thing you would word differently is not broken.",
+-        "A gate somebody stated is still a gate.",
+-      ],
+-    },
+     {
+       directiveKind: "rule",
+       name: "Irreversibility",
