@@ -21,7 +21,7 @@ export const seatProxyState = {
     },
     {
       invariantKind: "departure",
-      statement: "A process key held as null reads the same as one that is not there.",
+      statement: "A process key held as null reads the same as a key that is not there.",
     },
     {
       invariantKind: "departure",
