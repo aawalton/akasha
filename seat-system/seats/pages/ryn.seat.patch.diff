@@ -1,0 +1,20 @@
+readersOweReading: false
+diff --git a/readout-system/readout-unread/readout-unread.module.ts b/readout-system/readout-unread/readout-unread.module.ts
+index 5e199c9c21d0a75a7fe8782a0969649673476c34..59b0defda4fbc3e00edd748845ba25a5251aad3c 100644
+--- a/readout-system/readout-unread/readout-unread.module.ts
++++ b/readout-system/readout-unread/readout-unread.module.ts
+@@ -10,11 +10,12 @@ export const readoutUnread = {
+   invariants: [
+     {
+       invariantKind: "constraint",
+-      statement: "A group can hold exactly the right number of lights and none of the readings.",
++      statement:
++        "A group can hold exactly the right number of lights and no reading behind those lights.",
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A count of lights is blind to whether a reading is behind each one.",
++      statement: "A count of lights is blind to whether a reading is behind each light.",
+     },
+     {
+       invariantKind: "departure",
