@@ -9,11 +9,15 @@ export const inventoryPlanInputs = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The inventory and the characters are read from two files rather than one.",
+      statement: "The inventory and the characters are read from two files rather than one file.",
     },
     {
       invariantKind: "departure",
-      statement: "A file that cannot be read is refused as data, naming the path.",
+      statement: "A file that cannot be read is refused as data.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file refused as data names the path that file was read at.",
     },
     {
       invariantKind: "departure",
