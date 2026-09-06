@@ -14,11 +14,19 @@ export const composeNotices = {
     },
     {
       invariantKind: "departure",
-      statement: "A notice is named by its file stem, so a page renamed here is a notice gone.",
+      statement: "A notice is named by its file stem.",
     },
     {
       invariantKind: "departure",
-      statement: "The lines of a paragraph join with a space, and a blank line between two stays.",
+      statement: "A page renamed here is a notice gone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The lines of a paragraph join with a space.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A blank line between two paragraphs stays.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +34,11 @@ export const composeNotices = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder that is not there, or holds no notice, is refused rather than empty.",
+      statement: "A folder that is not there is refused rather than answered empty.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holding no notice is refused rather than answered empty.",
     },
     {
       invariantKind: "gap",
