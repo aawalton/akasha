@@ -1,5 +1,5 @@
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
-index dacc0ce54dd335a8f8457b6569ffcf09462c6307..a35b11f99701990d94c82f7eaa83fc8ea59b60ee 100644
+index dacc0ce54dd335a8f8457b6569ffcf09462c6307..28b0945c015a1fe697bf0204f2d28e895ca8cee9 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/state-reading/state-reading.module.ts
 @@ -10,11 +10,16 @@ export const stateReading = {
@@ -18,6 +18,19 @@ index dacc0ce54dd335a8f8457b6569ffcf09462c6307..a35b11f99701990d94c82f7eaa83fc8e
 +      invariantKind: "departure",
 +      statement:
 +        "One watcher serves every part of the editor rather than one watcher for each part.",
+     },
+     {
+       invariantKind: "departure",
+@@ -22,7 +27,11 @@ export const stateReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A read that failed draws nothing, leaving the last good read on the screen.",
++      statement: "A read that failed draws nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The last good read is left on the screen.",
      },
      {
        invariantKind: "departure",
