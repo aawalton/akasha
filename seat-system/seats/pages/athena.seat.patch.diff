@@ -1,3 +1,15 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+index 0c3bf753c477921583a013781f0756242fbcbf14..d232e68e38d9988bd90d1d854d39e99cb31b2acf 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+@@ -26,7 +26,6 @@ export const codeEditorDataInterface = {
+     "type-declaration/tree-row",
+     "module/tree-drawing",
+     "number-property/cooldown-milliseconds",
+-    "code-editor-data-interface/agent-colors",
+     "code-editor-data-interface/agent-tree",
+     "code-editor-data-interface/domain-tree",
+     "code-editor-data-interface/page-tree",
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
 index b43707533189ef8215514849608ddad4d6496366..53d17d7d807ffcb9e872085cbbf6ce58b2b5d87f 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
@@ -53,3 +65,32 @@ index b43707533189ef8215514849608ddad4d6496366..53d17d7d807ffcb9e872085cbbf6ce58
      [
        "agent-tree",
        {
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.d.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.d.ts
+deleted file mode 100644
+index 0829c5aca3c183b69a2ad7798e4b7e76e22a922d..0000000000000000000000000000000000000000
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.d.ts
++++ /dev/null
+@@ -1,7 +0,0 @@
+-// The color every agent is drawn in, and the color every turn state is drawn in, so the editor
+-// asks for neither. A value is the name of a color rather than what that name is drawn as.
+-
+-declare type AgentColorsState = {
+-  readonly byAgent: Readonly<Record<string, string>>
+-  readonly byState: Readonly<Record<string, string>>
+-}
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts b/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts
+deleted file mode 100644
+index d1b23ee36285d61f4e872eb270177004b68827b1..0000000000000000000000000000000000000000
+--- a/alan/harness/code-editor/code-editor-data-interfaces/pages/agent-colors.code-editor-data-interface.ts
++++ /dev/null
+@@ -1,10 +0,0 @@
+-import type { CodeEditorDataInterface } from "../code-editor-data-interface.page-type.ts"
+-
+-export const agentColors = {
+-  id: "01a07235-8d05-778a-90d4-01a9752d4c0b",
+-  pageTypeSlug: "code-editor-data-interface",
+-  slug: "agent-colors",
+-  definition: "the color each agent is drawn in",
+-  d: "ts",
+-  cooldownMilliseconds: 100,
+-} as const satisfies CodeEditorDataInterface
