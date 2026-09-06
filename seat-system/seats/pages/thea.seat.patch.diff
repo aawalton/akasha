@@ -4015,19 +4015,6 @@ index a2ec3fcf223345a70cbaffe41cf24846dfe5e999..de4eb823b2f125933f7428e5afe5c61c
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
-diff --git a/infrastructure/alerts/properties/alert-domain.text-property.ts b/infrastructure/alerts/properties/alert-domain.text-property.ts
-index 244e38d74db718644d6936ea3b86f98e52ced1ee..f12a642effd523d863d31ad5db454a50a0c0c482 100644
---- a/infrastructure/alerts/properties/alert-domain.text-property.ts
-+++ b/infrastructure/alerts/properties/alert-domain.text-property.ts
-@@ -8,7 +8,7 @@ export const alertDomain = {
-   slug: "alert-domain",
-   propertySlug: "domain",
-   definition: "the area a raised alert is owed to",
--  max: 100,
-+  maxLength: 100,
-   nameFormatSlug: "name-format/lower-kebab-case",
-   invariants: [
-     {
 diff --git a/infrastructure/alerts/properties/alert-role-slug.text-property.ts b/infrastructure/alerts/properties/alert-role-slug.text-property.ts
 index 3e1c8d2e8eb89b59b40634c11a783393dc3d64ef..2fbbe4fa6d41c9ded899d7bf481e6ca43c25249b 100644
 --- a/infrastructure/alerts/properties/alert-role-slug.text-property.ts
