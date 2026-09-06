@@ -2,7 +2,13 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { rootOf } from "@akasha/command-system/rooting"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { idFiled, listedFiled, noneOfTypeFiled, pathFiled } from "@akasha/indexes/testing"
+import {
+  idFiled,
+  listedFiled,
+  noneOfTypeFiled,
+  pathFiled,
+  valueAlsoFiled,
+} from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { onDisk } from "../change-walking/change-walking.module.code.ts"
@@ -81,6 +87,9 @@ export function rootWith(
     const id = `01a04bc4-0000-7000-8000-00000000000${minted}`
     const held = [{ path: at, id }]
     listedFiled(root, filedUnder.slug, one.slug, held)
+    valueAlsoFiled(root, filedUnder.slug, [
+      { path: at, value: { id, pageTypeSlug: filedUnder.slug, slug: one.slug } },
+    ])
     idFiled(root, id, held)
     pathFiled(root, at, held)
     pathFiled(root, `${at.slice(0, -".ts".length)}.code.ts`, held)

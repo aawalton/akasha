@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { parsedAs } from "@akasha/code/code-source"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { listedFiled, noneOfTypeFiled } from "@akasha/indexes/testing"
+import { listedFiled, noneOfTypeFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { type Shadow, shadowAt } from "@akasha/pages/shadow"
 import type { SourceFile } from "typescript"
@@ -46,6 +46,9 @@ function changing(root: string, before: string | null, after: string | null): Ch
 
 function ruleFiled(root: string): undefined {
   listedFiled(root, RULE, PROBE_SLUG, [{ path: PROBE_RULE_AT, id: PROBE_ID }])
+  valueAlsoFiled(root, RULE, [
+    { path: PROBE_RULE_AT, value: { id: PROBE_ID, pageTypeSlug: RULE, slug: PROBE_SLUG } },
+  ])
   return undefined
 }
 
