@@ -78,7 +78,7 @@ export const typeRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "A longer name carrying the renamed one is no spelling of the renamed name.",
+      statement: "A longer name carrying the renamed name is no spelling of the renamed name.",
     },
     {
       invariantKind: "departure",
