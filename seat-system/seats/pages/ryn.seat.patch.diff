@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/service/kinds-gathering/kinds-gathering.module.ts b/pages/service/kinds-gathering/kinds-gathering.module.ts
+index acb880215f1344a9b3808f285648865e5b074f7c..6a5c08a8741e76e1c6fad03b3a457f103ac02b0c 100644
+--- a/pages/service/kinds-gathering/kinds-gathering.module.ts
++++ b/pages/service/kinds-gathering/kinds-gathering.module.ts
+@@ -15,7 +15,7 @@ export const kindsGathering = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Which page types those are is read from `page-type-descent`.",
++      statement: "Which page types extend a page type is read from `page-type-descent`.",
+     },
+     {
+       invariantKind: "departure",
