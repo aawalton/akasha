@@ -28,3 +28,17 @@ index 48c8e98fceda7ef2a968529b710fe40bfcd3567b..b68cc92e71439187a10f0923dc82ef8d
        } catch (error: unknown) {
          console.error("[deep-link] getLaunchUrl threw", error)
        }
+diff --git a/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts b/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
+index 52a7b0e425f211b1f1f8e2ca0cebfa71affdb181..f983f98532fb927228d0cd4199cc0c2fcf23246b 100644
+--- a/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
++++ b/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
+@@ -27,5 +27,9 @@ export const deepLinkOpenSync = {
+       invariantKind: "departure",
+       statement: "A link the router refuses counts its tap all the same.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A link the listener already carried is not carried again as the launch link.",
++    },
+   ],
+ } as const satisfies Module
