@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/one-of-properties/one-of-property.page-type.ts b/pages/one-of-properties/one-of-property.page-type.ts
+index 0421a210ef179b624c3aaa7974efc581a2d7561a..0a0466b8cf14277d54855d15f4930b11e1371230 100644
+--- a/pages/one-of-properties/one-of-property.page-type.ts
++++ b/pages/one-of-properties/one-of-property.page-type.ts
+@@ -24,7 +24,7 @@ export const oneOfProperty = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A member declares its own target rather than the one of declaring one.",
++      statement: "A member declares its own target rather than the property declaring that member.",
+     },
+     {
+       invariantKind: "departure",
