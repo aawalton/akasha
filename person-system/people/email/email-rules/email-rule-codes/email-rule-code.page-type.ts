@@ -47,8 +47,7 @@ export const emailRuleCode = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Filing is a key of its own, archiving or skipping, rather than one of the actions.",
+      statement: "Filing is a key of its own rather than an action.",
     },
     {
       invariantKind: "departure",
