@@ -6663,7 +6663,7 @@ index 2e71331c11481ef46883539d589465903e377d5e..b6176b0057de2968dc4caeb2c25457c4
    invariants: [
      {
 diff --git a/service-system/cluster-services/properties/image.text-property.ts b/service-system/cluster-services/properties/image.text-property.ts
-index 7c96243acd9002f26e0980a1cfb33a694abe4c1f..031901f4e1ae4b273d6b6579328e40a5deba1d72 100644
+index 7c96243acd9002f26e0980a1cfb33a694abe4c1f..da286aa759d1382c8e8a77380bf8dc8153c77579 100644
 --- a/service-system/cluster-services/properties/image.text-property.ts
 +++ b/service-system/cluster-services/properties/image.text-property.ts
 @@ -8,7 +8,7 @@ export const image = {
@@ -6675,6 +6675,15 @@ index 7c96243acd9002f26e0980a1cfb33a694abe4c1f..031901f4e1ae4b273d6b6579328e40a5
    nameFormatSlug: null,
    invariants: [
      {
+@@ -18,7 +18,7 @@ export const image = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A workload running more than one container states the image of the one that workload is for.",
++        "A workload running more than one container states the image of the container it is for.",
+     },
+   ],
+ } as const satisfies TextProperty
 diff --git a/service-system/cluster-services/properties/namespace.text-property.ts b/service-system/cluster-services/properties/namespace.text-property.ts
 index 31742d2c826215c53f1dcb3388a3d7928066abd9..f7ad8281a4eb7934389797f1a85afcdc27be1143 100644
 --- a/service-system/cluster-services/properties/namespace.text-property.ts
