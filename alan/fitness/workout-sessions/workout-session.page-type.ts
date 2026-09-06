@@ -2,6 +2,7 @@ import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
 import type { ScheduleDaySlug } from "./properties/schedule-day-slug.relation-property.ts"
+import type { WakeDaySlug } from "./properties/wake-day-slug.relation-property.ts"
 import type { WorkoutSessionCompletedAt } from "./properties/workout-session-completed-at.instant-property.ts"
 import type { WorkoutSessionDate } from "./properties/workout-session-date.calendar-date-property.ts"
 import type { WorkoutSessionNotes } from "./properties/workout-session-notes.text-property.ts"
@@ -14,6 +15,7 @@ export type WorkoutSession = Page & {
   notes?: WorkoutSessionNotes
   scheduleDaySlug: ScheduleDaySlug
   workoutSessionStartedAt: WorkoutSessionStartedAt
+  wakeDaySlug?: WakeDaySlug
 }
 
 export const workoutSession = {
@@ -28,6 +30,7 @@ export const workoutSession = {
     "instant-property/workout-session-completed-at",
     "instant-property/workout-session-started-at",
     "relation-property/schedule-day-slug",
+    "relation-property/wake-day-slug",
     "text-property/workout-session-notes",
   ],
   properties: [
@@ -49,6 +52,7 @@ export const workoutSession = {
       required: true,
       many: false,
     },
+    { pagePropertySlug: "relation-property/wake-day-slug", required: false, many: false },
   ],
   invariants: [
     {
@@ -58,6 +62,14 @@ export const workoutSession = {
     {
       invariantKind: "departure",
       statement: "Two sessions fall on one day where Alan trained twice.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A session names the tracked day that session falls on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A session falling on a day no page tracks names no day.",
     },
   ],
 } as const satisfies PageType
