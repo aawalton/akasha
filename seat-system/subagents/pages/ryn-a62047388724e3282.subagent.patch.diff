@@ -1,6 +1,6 @@
 writerOwesReading: false
 diff --git a/alan/harness/inboxes/reading/inbox-reading.module.ts b/alan/harness/inboxes/reading/inbox-reading.module.ts
-index 2fe9c394398484c84fb88eaa8a2075d09f7535a9..4c5e8fff4d71d43e959f80d13f806ef8ac0c3b5a 100644
+index 2fe9c394398484c84fb88eaa8a2075d09f7535a9..2a0e15bd6ca47fae9d060aee89d8dcc52ccf74b8 100644
 --- a/alan/harness/inboxes/reading/inbox-reading.module.ts
 +++ b/alan/harness/inboxes/reading/inbox-reading.module.ts
 @@ -75,7 +75,7 @@ export const inboxReading = {
@@ -12,3 +12,13 @@ index 2fe9c394398484c84fb88eaa8a2075d09f7535a9..4c5e8fff4d71d43e959f80d13f806ef8
      },
      {
        invariantKind: "departure",
+@@ -103,7 +103,8 @@ export const inboxReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The root read is the one the environment states or the one the call was made in.",
++      statement:
++        "The root read is the root the environment states or the root the call was made in.",
+     },
+     {
+       invariantKind: "stopgap",
