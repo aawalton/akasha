@@ -21,7 +21,7 @@ const ADDRESSED = /^([A-Za-z_$][A-Za-z0-9_$]*)\.([A-Za-z_$][A-Za-z0-9_$]*)$/
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
-export type Asked = {
+export type RenamePropertySignatureAsked = {
   readonly at: string
   readonly of: string
   readonly to: string
@@ -85,7 +85,7 @@ function outsideIn(typing: Typing, path: string, declared: ReadonlySet<ts.Node>)
   return false
 }
 
-function whyNot(given: Asked, address: Addressed | null): string | null {
+function whyNot(given: RenamePropertySignatureAsked, address: Addressed | null): string | null {
   if (!typed(given.at)) return `\`${given.at}\` names no TypeScript body`
   if (address === null) {
     return `\`${given.of}\` names no property signature — say it as \`Type.property\``
@@ -95,7 +95,7 @@ function whyNot(given: Asked, address: Addressed | null): string | null {
   return null
 }
 
-export function renamePropertySignature(world: World, given: Asked): Answer {
+export function renamePropertySignature(world: World, given: RenamePropertySignatureAsked): Answer {
   const address = addressIn(given.of)
   const why = whyNot(given, address)
   if (why !== null || address === null) return refusing(why ?? given.of)

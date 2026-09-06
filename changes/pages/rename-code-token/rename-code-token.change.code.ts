@@ -16,7 +16,7 @@ import { renameLocalVariable } from "../rename-local-variable/rename-local-varia
 
 export const LINE = "--line"
 
-export type Asked = {
+export type RenameCodeTokenAsked = {
   readonly at: string
   readonly of: string
   readonly to: string
@@ -41,7 +41,11 @@ function linesOf(typing: Typing, path: string, declared: readonly ts.Node[]): st
   return [...lines].sort((here, there) => here - there).join(" or ")
 }
 
-function pickedIn(typing: Typing, given: Asked, declared: readonly ts.Node[]): Picked {
+function pickedIn(
+  typing: Typing,
+  given: RenameCodeTokenAsked,
+  declared: readonly ts.Node[]
+): Picked {
   if (given.line === undefined) {
     const first = declared[0]
     if (declared.length === 1 && first !== undefined) return { node: first }
@@ -61,7 +65,7 @@ function pickedIn(typing: Typing, given: Asked, declared: readonly ts.Node[]): P
   }
 }
 
-export function renameCodeToken(world: World, given: Asked): Answer {
+export function renameCodeToken(world: World, given: RenameCodeTokenAsked): Answer {
   if (!typed(given.at)) return refusing(`\`${given.at}\` names no TypeScript body`)
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)

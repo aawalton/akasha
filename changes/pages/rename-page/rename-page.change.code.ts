@@ -26,7 +26,7 @@ const FILE_PROPERTY = "file-property"
 
 const PLURAL_SLUG = "pluralSlug"
 
-export type Asked = {
+export type RenamePageAsked = {
   readonly at: string
   readonly to: string
   readonly plural?: string
@@ -101,14 +101,19 @@ function ownsIn(world: World, held: Held, at: string, beside: readonly Beside[])
   return files.length > 0 && files.every((one) => basename(one).startsWith(opening))
 }
 
-function landingIn(world: World, held: Held, given: Asked, beside: readonly Beside[]): string {
+function landingIn(
+  world: World,
+  held: Held,
+  given: RenamePageAsked,
+  beside: readonly Beside[]
+): string {
   const name = `${given.to}.${held.pageTypeSlug}${TYPED}`
   const folder = dirname(given.at)
   if (!ownsIn(world, held, given.at, beside)) return join(folder, name)
   return join(dirname(folder), folderFor(pluralIn(world, held), held.pageTypeSlug, given.to), name)
 }
 
-export function renamePage(world: World, given: Asked): Answer {
+export function renamePage(world: World, given: RenamePageAsked): Answer {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const read = readIn(given.at, text)

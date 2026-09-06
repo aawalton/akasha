@@ -21,7 +21,7 @@ const PART_SLUGS_KEY = "partSlugs"
 
 const GUARDS = [relationNotLeftHanging, importNotLeftHanging]
 
-export type Asked = {
+export type RemoveOrdinaryPageAsked = {
   readonly at: string
 }
 
@@ -90,7 +90,7 @@ function unnamingIn(world: World, at: string): Answer {
   return gathered(answers)
 }
 
-export function removePage(world: World, given: Asked): Answer {
+export function removePage(world: World, given: RemoveOrdinaryPageAsked): Answer {
   const beside = besideIn(world, given.at)
   if ("refused" in beside) return refusing(beside.refused)
   const taken = beside.paths.map((one) => removeFile({ at: one }, world.textOf))

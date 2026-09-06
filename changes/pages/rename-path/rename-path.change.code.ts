@@ -4,12 +4,12 @@ import type { Answer, Edit } from "../../modules/change-answer/change-answer.mod
 import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { repointed } from "../repoint-imports/repoint-imports.change.code.ts"
 
-export type Asked = {
+export type RenamePathAsked = {
   readonly from: string
   readonly to: string
 }
 
-export function renamePath(world: World, given: Asked): Answer {
+export function renamePath(world: World, given: RenamePathAsked): Answer {
   if (given.from === given.to) return refusing(`\`${given.to}\` is the path it already sits at`)
   const text = world.textOf(given.from)
   if (text === null) return refusing(`\`${given.from}\` could not be read`)

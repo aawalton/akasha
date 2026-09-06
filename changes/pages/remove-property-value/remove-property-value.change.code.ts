@@ -12,7 +12,7 @@ import { keyOf, literalIn } from "../restate-value/restate-value.change.code.ts"
 
 const BLIND = ts.TypeFlags.Any | ts.TypeFlags.Unknown
 
-export type Asked = {
+export type RemovePropertyValueAsked = {
   readonly at: string
   readonly key: string
   readonly value: string
@@ -46,7 +46,7 @@ function without(
   return text.slice(0, from) + text.slice(one.getEnd())
 }
 
-function requiredIn(world: World, given: Asked): boolean | null {
+function requiredIn(world: World, given: RemovePropertyValueAsked): boolean | null {
   const typing = typingOver(world.root, [given.at], readingOf(world.root, world.textOf))
   const source = typing.sourceAt(given.at)
   const held = source === null ? null : literalIn(source)
@@ -57,7 +57,7 @@ function requiredIn(world: World, given: Asked): boolean | null {
   return found === undefined ? false : (found.flags & ts.SymbolFlags.Optional) === 0
 }
 
-export function removePropertyValue(world: World, given: Asked): Answer {
+export function removePropertyValue(world: World, given: RemovePropertyValueAsked): Answer {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const source = parsedAs(given.at, text)

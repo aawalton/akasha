@@ -27,7 +27,7 @@ const PLURAL_SLUG = "pluralSlug"
 
 const ID = "id"
 
-export type Asked = {
+export type RenamePageSlugAsked = {
   readonly at: string
   readonly to: string
   readonly plural?: string
@@ -137,7 +137,7 @@ function namingIn(namers: readonly Named[]): ReadonlyMap<string, ReadonlySet<str
   return found
 }
 
-export function renameSlug(world: World, given: Asked): Answer {
+export function renameSlug(world: World, given: RenamePageSlugAsked): Answer {
   if (!given.at.endsWith(TYPED)) return refusing(`\`${given.at}\` is no \`.ts\` file`)
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)

@@ -9,7 +9,7 @@ const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
 const BESIDE = [".code.ts", ".code.tsx", ".test.ts", ".test.tsx", ".test-fixtures.ts"]
 
-export type Asked = {
+export type RenameExportAsked = {
   readonly at: string
   readonly of: string
   readonly to: string
@@ -19,7 +19,7 @@ function besideAPage(at: string): boolean {
   return BESIDE.some((one) => at.endsWith(one))
 }
 
-function whyNot(given: Asked): string | null {
+function whyNot(given: RenameExportAsked): string | null {
   if (!typed(given.at)) return `\`${given.at}\` names no TypeScript body`
   if (!besideAPage(given.at)) return `\`${given.at}\` is a page, and a page's export is its slug`
   if (!NAMED.test(given.of)) return `\`${given.of}\` is no name a body carries`
@@ -28,7 +28,7 @@ function whyNot(given: Asked): string | null {
   return null
 }
 
-export function renameExport(world: World, given: Asked): Answer {
+export function renameExport(world: World, given: RenameExportAsked): Answer {
   const why = whyNot(given)
   if (why !== null) return refusing(why)
   const reading = importingOf(world.index, new Map([[given.at, given.at]]))
