@@ -9,5 +9,5 @@ export const howSafetyClimbs = {
   parentSlugs: ["safety-bar"],
   relatedSlugs: ["what-calms-me-down"],
   settled:
-    "It climbs the slow way through capacity I build back and the fast way straight at the nerve.\n\nHolding my line stops the drain but does not by itself raise it.",
+    "It climbs the slow way through capacity I build back and the fast way straight at the nerve.\n\nHolding my line stops the drain but does not by itself raise it.\n\nI am building my harness out around safety now as well. The harness works here, and takes a different set of interventions from the ones executive function took.",
 } as const satisfies AllAboutAlanTopic
