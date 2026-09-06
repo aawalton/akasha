@@ -1,0 +1,18 @@
+diff --git a/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.code.ts b/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.code.ts
+index 84cf431701f1a2be00fdd23f4309547884f93166..2c044354778cba039c4f6cdfff26c760c2ac6cb8 100644
+--- a/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.code.ts
++++ b/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.code.ts
+@@ -1,4 +1,5 @@
+ import type { Change } from "@akasha/pages/change"
++import { namedUnder } from "@akasha/pages/page-file-name"
+ import type { Shadow } from "@akasha/pages/shadow"
+ import type { Body } from "../../../modules/change-walking/change-walking.module.code.ts"
+ import {
+@@ -23,6 +24,7 @@ function reasonFor(pageTypeSlug: string, slug: string): string {
+ }
+ 
+ function found(path: string, text: string, under: ReadonlySet<string>): readonly string[] {
++  if (namedUnder(path, under) === null) return []
+   const stated = pageIn(path, text)
+   if (stated === null || !under.has(stated.pageTypeSlug)) return []
+   if (stated.slug.endsWith(CLOSING)) return []
