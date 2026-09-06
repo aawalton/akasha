@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-the-forward-count-was-computed.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-the-forward-count-was-computed.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9e4e7eb92b06cb51c315dd431d1126ae760e74a4
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-the-forward-count-was-computed.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howTheForwardCountWasComputed = {
++  id: "01a077ec-34d8-701e-92f0-e4989b593185",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-the-forward-count-was-computed",
++  topicSlug: "the-ones-i-have-not-been-yet",
++  ask: "How was the number actually computed, and did the number land in one moment of clarity or gradually through the burnout?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-arbitrates-between-my-present-and-future-selves.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-arbitrates-between-my-present-and-future-selves.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..df5dc850869e9553f7aa08ca97df0ce6d332b6de
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-arbitrates-between-my-present-and-future-selves.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatArbitratesBetweenMyPresentAndFutureSelves = {
++  id: "01a077ec-34d9-7c0a-832e-9b70fa427b2e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-arbitrates-between-my-present-and-future-selves",
++  topicSlug: "the-ones-i-have-not-been-yet",
++  ask: "What arbitrates when my present self and a future self diverge, both being owed better treatment?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-fairness-to-future-selves-changes-my-choices.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-fairness-to-future-selves-changes-my-choices.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6cdbf8a2bb4534bfa1ff4957248aa4750c749151
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-fairness-to-future-selves-changes-my-choices.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherFairnessToFutureSelvesChangesMyChoices = {
++  id: "01a077ec-34d9-7a0f-9056-05fae5966be9",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-fairness-to-future-selves-changes-my-choices",
++  topicSlug: "the-ones-i-have-not-been-yet",
++  ask: "Does owing the selves ahead of me fairness change my ordinary long-horizon choices, and not just the veto on what I cannot undo?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-the-backward-count-matches-the-forward-one.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-the-backward-count-matches-the-forward-one.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..55cf57860309ad1b6945bfee4884b1b56d50497c
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/why-the-backward-count-matches-the-forward-one.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whyTheBackwardCountMatchesTheForwardOne = {
++  id: "01a077ec-34d9-75ab-b747-dae1ccf0e2da",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "why-the-backward-count-matches-the-forward-one",
++  topicSlug: "the-ones-i-have-not-been-yet",
++  ask: "The forward count comes from the branching, while the backward count is a single chain that happened. Why does the backward count land at the same size?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-ones-i-have-not-been-yet.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-ones-i-have-not-been-yet.all-about-alan-topic.ts
+index 1e2ca2cacf728247ff49b68913a41fc4a0528aad..3cbe05ae1efb37662092167665558a6f9536f627 100644
+--- a/alan/books/all-about-alan/topics/pages/the-ones-i-have-not-been-yet.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-ones-i-have-not-been-yet.all-about-alan-topic.ts
+@@ -15,6 +15,4 @@ export const theOnesIHaveNotBeenYet = {
+   ],
+   settled:
+     "Forward the count is the wall against acting: an irreversible act ends all of them.\n\nIt comes from a branching rate times the years I have left.\n\nThey stand equal with me rather than below me, so what I owe them is fairness rather than discipline.",
+-  unsettled:
+-    "How the number was actually computed, and whether it landed in one moment of clarity or gradually through the burnout, is unrecorded.\n\nNothing says what arbitrates when my present self and a future one diverge, both being owed better treatment.\n\nThe forward count comes from the branching. The backward one is a single chain that happened, and why it lands at the same size is unworked.\n\nWhether owing them fairness changes my ordinary long-horizon choices, not just the veto, is untested.",
+ } as const satisfies AllAboutAlanTopic
