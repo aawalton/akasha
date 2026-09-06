@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/restore/restore.command.ts b/command-system/commands/restore/restore.command.ts
-index 8af637815b76ede068336552f5450392f23ed9b2..174c1631344cb4c684df4362de7da4985e9e97d9 100644
+index 8af637815b76ede068336552f5450392f23ed9b2..5a3db548f775f7c5ef5c7056afb6463acd69ae92 100644
 --- a/command-system/commands/restore/restore.command.ts
 +++ b/command-system/commands/restore/restore.command.ts
 @@ -28,7 +28,8 @@ export const restore = {
@@ -38,7 +38,7 @@ index 8af637815b76ede068336552f5450392f23ed9b2..174c1631344cb4c684df4362de7da498
      },
      {
        invariantKind: "departure",
-@@ -85,11 +94,11 @@ export const restore = {
+@@ -85,16 +94,15 @@ export const restore = {
      },
      {
        invariantKind: "absence",
@@ -52,3 +52,9 @@ index 8af637815b76ede068336552f5450392f23ed9b2..174c1631344cb4c684df4362de7da498
      },
      {
        invariantKind: "absence",
+-      statement:
+-        "No reading is forgotten, since a reading is judged against the body that is there.",
++      statement: "No reading is forgotten.",
+     },
+     {
+       invariantKind: "gap",
