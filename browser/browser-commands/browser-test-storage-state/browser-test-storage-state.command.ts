@@ -38,7 +38,7 @@ export const browserTestStorageState = {
     },
     {
       invariantKind: "departure",
-      statement: "The user the sign-in resolved to is checked against the protected one.",
+      statement: "The user the sign-in resolved to is checked against the protected user.",
     },
     {
       invariantKind: "departure",
