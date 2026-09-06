@@ -60,7 +60,7 @@ index dba8491e290e9374be9b1effdc9fd83f19853460..4157fbd6bbc7c202b2eff6bff2dea604
 +  topicEvidence: "md",
  } as const satisfies LearnEverythingTopic
 diff --git a/alan/library/learn-everything/learn-everything.domain.ts b/alan/library/learn-everything/learn-everything.domain.ts
-index 8127dda045e746471c8b85fcbc6a9f452abee476..570a388b2a35c30ae22ea3738a5baf84089ca2e2 100644
+index 8127dda045e746471c8b85fcbc6a9f452abee476..0e38171f257f968177511ac8ceb1d867a411ad22 100644
 --- a/alan/library/learn-everything/learn-everything.domain.ts
 +++ b/alan/library/learn-everything/learn-everything.domain.ts
 @@ -5,4 +5,15 @@ export const learnEverything = {
@@ -75,7 +75,7 @@ index 8127dda045e746471c8b85fcbc6a9f452abee476..570a388b2a35c30ae22ea3738a5baf84
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "What Alan got right and wrong is told to Alan.",
++      statement: "The answers Alan got right and the answers Alan got wrong are told to Alan.",
 +    },
 +  ],
  } as const satisfies Domain
