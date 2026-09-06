@@ -107,3 +107,26 @@ index 474411c369c899f60b1c1fb8590c35ba40075f90..f4048bbc41539d40498d393b1ac53e13
          }
      }
  }
+diff --git a/code-system/ios-components/pages/smilingjenny-safety-level-widget/smilingjenny-safety-level-widget.ios-component.swift.swift b/code-system/ios-components/pages/smilingjenny-safety-level-widget/smilingjenny-safety-level-widget.ios-component.swift.swift
+index a48185459357a122b1ba1b08c9a3c8995b4749a2..204ae5570f06890434d8ebaae68145246027d940 100644
+--- a/code-system/ios-components/pages/smilingjenny-safety-level-widget/smilingjenny-safety-level-widget.ios-component.swift.swift
++++ b/code-system/ios-components/pages/smilingjenny-safety-level-widget/smilingjenny-safety-level-widget.ios-component.swift.swift
+@@ -8,7 +8,7 @@ enum SafetyLevelFeed: WidgetFeed {
+         stoplights: [
+             HabitStoplight(
+                 habit: nil, tier: .yellow, reading: "2.5", nextTier: .green,
+-                progress: 0.50, label: "Alan's Safety"
++                progress: 0.50, label: "Alan's Safety", figureOffScale: true
+             )
+         ]
+     )
+@@ -67,7 +67,8 @@ struct SafetyLevelHomeView: View {
+             reading: safety?.reading,
+             caption: safetyCaption(entry.state),
+             nextTier: safety?.nextTier,
+-            progress: safety?.progress
++            progress: safety?.progress,
++            figureOffScale: safety?.figureOffScale ?? false
+         )
+     }
+ }
