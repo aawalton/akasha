@@ -10,6 +10,4 @@ export const whatIThoughtWasDysphoria = {
   relatedSlugs: ["how-i-read-myself"],
   settled:
     "The male traits that fitted me were quiet and the ones that did not were loud. The female traits ran the other way.\n\nAggregate that and the channel reports female-leaning and male-averse, which is what read as dysphoria.\n\nCorrect for which signals were loud and the female reading disappears. What is left is a preference about safety.\n\nThe pull toward feminine things was never wanting to be female. It was my nervous system reaching for something that made it safer.",
-  unsettled:
-    "Whether the whole thing sits differently now that I have the layers and the measurement error, rather than a condition I have, is unasked. The question is about fit, not about how much it hurts.",
 } as const satisfies AllAboutAlanTopic
