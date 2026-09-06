@@ -48,36 +48,6 @@ index 2b3d6e36a093af82434f3dca510ca775745e3694..bfa722be8f21e4f72e5dafeadc8c7ee8
      const listed = Array.isArray(held)
      if (one.many && !listed)
        said.push(`states \`${slug}\` singly, and \`${named}\` declares it many`)
-diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
-index de23a3ae2bfae7c2ac4fff936d14a75241d5f5dc..becfc7af9f7ae6151725551adf74700a8ef153fa 100644
---- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
-+++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
-@@ -463,6 +463,25 @@ export function partsJudged(formatting: Formatting, one: string, two: string): r
-   return judged(formatting, (at) => held.get(at) ?? null)
- }
- 
-+export function workedCarried(): readonly Carried[] {
-+  return [
-+    {
-+      pagePropertySlug: "test",
-+      pageTypeSlug: "computed-property",
-+      propertySlug: "test",
-+      key: "test",
-+      unique: null,
-+      declaredBy: "beside",
-+      required: true,
-+      many: false,
-+      max: null,
-+      total: null,
-+      uncommitted: false,
-+      secret: false,
-+    },
-+  ]
-+}
-+
- export function besideCarried(uncommitted: boolean, secret = false): readonly Carried[] {
-   return [
-     {
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
 index 0d41449bfcf28d7b867a3f982a4c29337607bd18..81bb417ecbf3a6c3785beaef1e84cfe25c34e8ef 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
