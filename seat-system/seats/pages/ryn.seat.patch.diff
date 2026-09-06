@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/secret/page-secret.module.ts b/pages/secret/page-secret.module.ts
+index 64a20593b4d430799e1485a07f527611d563e66e..43ef2094a7fc71a201a5bdee5b018e4d7eb55477 100644
+--- a/pages/secret/page-secret.module.ts
++++ b/pages/secret/page-secret.module.ts
+@@ -22,7 +22,7 @@ export const pageSecret = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An empty value is refused rather than written over a usable one.",
++      statement: "An empty value is refused rather than written over a usable value.",
+     },
+     {
+       invariantKind: "departure",
