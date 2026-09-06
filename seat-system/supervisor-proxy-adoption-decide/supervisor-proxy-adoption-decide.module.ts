@@ -10,7 +10,7 @@ export const supervisorProxyAdoptionDecide = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "No live proxy is answered with a fresh one.",
+      statement: "No live proxy is answered with a fresh proxy.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const supervisorProxyAdoptionDecide = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here starts, stops or reaches a proxy.",
+      statement: "Nothing here starts or stops or reaches a proxy.",
     },
   ],
 } as const satisfies Module
