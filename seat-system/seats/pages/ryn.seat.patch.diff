@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/alan/fitness/commands/exercise-today/exercise-today.command.ts b/alan/fitness/commands/exercise-today/exercise-today.command.ts
-index dfcc7434dce04824c0d97c37a0bd7410f4d776f1..fe93a8e2e35ca35630daad1bd712ce022903892e 100644
+index dfcc7434dce04824c0d97c37a0bd7410f4d776f1..9d3d82365c35753c6e13badbc8daf0897af3468b 100644
 --- a/alan/fitness/commands/exercise-today/exercise-today.command.ts
 +++ b/alan/fitness/commands/exercise-today/exercise-today.command.ts
 @@ -33,7 +33,7 @@ export const exerciseToday = {
@@ -12,3 +12,12 @@ index dfcc7434dce04824c0d97c37a0bd7410f4d776f1..fe93a8e2e35ca35630daad1bd712ce02
      },
      {
        invariantKind: "departure",
+@@ -42,7 +42,7 @@ export const exerciseToday = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here starts, finishes or changes a session.",
++      statement: "Nothing here starts or finishes or changes a session.",
+     },
+   ],
+ } as const satisfies Command
