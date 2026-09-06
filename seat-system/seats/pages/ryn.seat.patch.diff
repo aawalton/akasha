@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/champions-tree/champions-tree.module.ts b/editor-extension/champions-tree/champions-tree.module.ts
+index eb0efe661d5bacd72ee61c8d3aa7cf19cd50663b..ff787ebd85017eee1920b5eab1e03db505d07536 100644
+--- a/editor-extension/champions-tree/champions-tree.module.ts
++++ b/editor-extension/champions-tree/champions-tree.module.ts
+@@ -31,7 +31,7 @@ export const championsTree = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A node whose descent reaches no persona names no champion rather than an empty one.",
++        "A node whose descent reaches no persona names no champion rather than an empty champion.",
+     },
+   ],
+ } as const satisfies Module
