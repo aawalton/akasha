@@ -1,0 +1,17 @@
+diff --git a/alan/fitness/equipment-items/properties/equipment-available.boolean-property.ts b/alan/fitness/equipment-items/properties/equipment-available.boolean-property.ts
+index 62c5676ae671e7672fb3a5a5dff31f477a88b6c8..44f4d275b019993fac5628ef83687d49e48f4613 100644
+--- a/alan/fitness/equipment-items/properties/equipment-available.boolean-property.ts
++++ b/alan/fitness/equipment-items/properties/equipment-available.boolean-property.ts
+@@ -11,7 +11,11 @@ export const equipmentAvailable = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A piece Alan means to buy is a page already, and is not available.",
++      statement: "A piece Alan means to buy is a page already.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A piece Alan means to buy is not available.",
+     },
+   ],
+ } as const satisfies BooleanProperty
