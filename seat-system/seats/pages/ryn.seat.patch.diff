@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts
+index 748242ac0f158e313f02b6aa7a388328b8bacf0e..85b5b7a3c9defb61354ae4719ade0d034d2f96e1 100644
+--- a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts
++++ b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.ts
+@@ -17,7 +17,7 @@ export const initiativeAncestors = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An initiative above another is the one that other names as its parent.",
++      statement: "An initiative is above the initiative naming that initiative as its parent.",
+     },
+     {
+       invariantKind: "departure",
