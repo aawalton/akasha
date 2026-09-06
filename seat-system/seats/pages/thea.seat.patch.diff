@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.ts b/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.ts
+index c7c6ce8d268a312a8760b349ee3558282150ab16..6c0d150b914887d5139a410a11b84dd58e4c7bd6 100644
+--- a/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.ts
++++ b/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.ts
+@@ -8,7 +8,7 @@ export const manifestNamesWhatIsReached = {
+     "the check holding a package's dependencies and the packages its own code reaches to one set",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
