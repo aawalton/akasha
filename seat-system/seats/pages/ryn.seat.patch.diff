@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/amazon-pairs/monarch-amazon-pairs.module.ts b/alan/harness/monarch/amazon-pairs/monarch-amazon-pairs.module.ts
+index e607978771e928f0de6c81b82937ef411152e740..df800ab0dad0554686a7a428d53f3871d519b8ca 100644
+--- a/alan/harness/monarch/amazon-pairs/monarch-amazon-pairs.module.ts
++++ b/alan/harness/monarch/amazon-pairs/monarch-amazon-pairs.module.ts
+@@ -21,7 +21,7 @@ export const monarchAmazonPairs = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A category of Uncategorized is no category here, the same as naming none.",
++      statement: "A category of Uncategorized is no category here.",
+     },
+     {
+       invariantKind: "departure",
