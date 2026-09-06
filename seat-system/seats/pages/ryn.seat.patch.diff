@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts b/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
-index 08cfde9f32447596190f37cbc4813fb09aea8e41..1ce3cb3bf9e6538ed6c9fd02ef47112fffe8fa4e 100644
+index 08cfde9f32447596190f37cbc4813fb09aea8e41..56d9321dd48d3a3942c6caf03e3dd0b8697d91d0 100644
 --- a/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
 +++ b/alan/harness/monarch/eval-snapshot/monarch-eval-snapshot.module.ts
 @@ -13,8 +13,7 @@ export const monarchEvalSnapshot = {
@@ -12,7 +12,7 @@ index 08cfde9f32447596190f37cbc4813fb09aea8e41..1ce3cb3bf9e6538ed6c9fd02ef47112f
      },
      {
        invariantKind: "departure",
-@@ -22,7 +21,7 @@ export const monarchEvalSnapshot = {
+@@ -22,16 +21,16 @@ export const monarchEvalSnapshot = {
      },
      {
        invariantKind: "departure",
@@ -21,7 +21,9 @@ index 08cfde9f32447596190f37cbc4813fb09aea8e41..1ce3cb3bf9e6538ed6c9fd02ef47112f
      },
      {
        invariantKind: "departure",
-@@ -31,7 +30,7 @@ export const monarchEvalSnapshot = {
+-      statement: "A move is said as the mark before and the mark after, family by family.",
++      statement: "A move is said family by family as the mark before and the mark after.",
+     },
      {
        invariantKind: "departure",
        statement:
