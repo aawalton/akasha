@@ -2,3 +2,4 @@
 {"id":"01a0777b-ff44-7000-b940-52bb29618553","completedAt":"2026-09-06T16:04:04.000Z","task":"dragonguard-daily-quests","character":"lyonette-du-marquin","dueDate":"2026-08-19","completionCardId":"character-achievements","completionItemPath":["Dragonhold","Quests","2612"]}
 {"id":"01a0777b-e178-7000-9c3c-82abc4f7172b","completedAt":"2026-09-06T16:07:47.000Z","task":"crafting-writs","dueDate":"2026-08-26","completionCardId":"daily-writs"}
 {"id":"01a0777b-d688-7000-95c6-20da869fce5b","completedAt":"2026-09-06T16:08:07.000Z","task":"hireling-mails","character":"erin-solstice","esoCharacterId":"8796093022338107","dueDate":"2026-09-05","completionCardId":"hireling-mails"}
+{"id":"01a0780f-bb91-7000-9c52-8ad716ca8dfe","completedAt":"2026-09-06T18:38:25.000Z","task":"lorebooks","character":"erin-solstice","dueDate":"2026-09-05","completionCardId":"lore-library-character"}
