@@ -1,0 +1,33 @@
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+index ed717412cb7ba57467b26765758b60b5f4ca71c4..ce3b534a499edf83a8d3630fd98cb5d68ac6a7fe 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
+@@ -1 +1,5 @@
+-export type Changes = {}
++export type Changes = {
++  "change-command/remove-page": Parameters<
++    typeof import("../../../command/pages/remove-page/remove-page.change-command.code.ts")["runChange"]
++  >[1]
++}
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index 00467365110f1ce5ec4057784fc91136e27bfaf3..6078ee48a6a10866ae6833fa55e2e71a157f4ac5 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -10,7 +10,7 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "A body reaches write and edit on the command line rather than in a file.",
+       workingMemory:
+-        "`rebasedOnto` follows a path gone from HEAD to the path a rename left it at, hop by hop, by `git log --diff-filter=D` and `git diff-tree -M`. It answers under the path the rename reached, so `showing` lists and marks from `said.held` rather than the stored file. A path taken away by no rename is carried in as a conflict `markedAway` builds, so `patch resolve` acts on it and every other path still applies. Left: no act takes one path out of a patch, so accepting a deletion drops the whole patch.",
++        "`rebasedOnto` follows a path gone from HEAD to the path a rename left it at, hop by hop, by `git log --diff-filter=D` and `git diff-tree -M`. It answers under the path the rename reached, so `showing` lists and marks from `said.held` rather than the stored file. A path taken away by no rename is carried in as a conflict `markedAway` builds, so `patch resolve` acts on it and every other path still applies. `patch drop --file-path` takes one path out and leaves the patch carrying the rest, and takes the patch away where that path was the last.",
+     },
+     {
+       statement: "Every change command drafts into the patch rather than landing on its own.",
+@@ -80,7 +80,7 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "A change is reached by its address rather than by an import.",
+       workingMemory:
+-        "One runner loads a change by address and runs the guards its page names, so no call reaches a change unguarded. A generated `.d.ts` sidecar of that runner maps each address to `Parameters<typeof import(path)['runChange']>[1]`, so the map reads each signature rather than restating one and cannot state a shape that is wrong. Proven on 7.1: a declaration file augments with no import edge to it. Left: which step of the flow writes the map.",
++        "`change-running` loads a change by address and runs the guards its page names, so no call reaches a change unguarded. Its `addressed` sidecar maps each address to `Parameters<typeof import(path)['runChange']>[1]`, so the map reads each signature rather than restating one and cannot state a shape that is wrong. Augmentation is barred: the formatter rewrites every `interface` into a type alias, so the map is a plain exported alias read by `import type`. `address-mapping` writes it inside `preparing`, alongside the lockfile and the worked type, in the patch the gate judges. A change joins the map by exporting `runChange`, read off that change's own code. Left: the three partials answer no `Answer`, so the map reaches `remove-page` alone.",
+     },
+   ],
+   constraints: [
