@@ -43,3 +43,21 @@ index b68cc92e71439187a10f0923dc82ef8d02cfa2fc..d7a2c79ecf2317c7914ca5fb89204f93
        } catch (error: unknown) {
          console.error("[deep-link] getLaunchUrl threw", error)
        }
+diff --git a/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts b/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
+index f983f98532fb927228d0cd4199cc0c2fcf23246b..8de8bc81eb6d794c165f5927286e1065cd8c1dfc 100644
+--- a/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
++++ b/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
+@@ -31,5 +31,13 @@ export const deepLinkOpenSync = {
+       invariantKind: "departure",
+       statement: "A link the listener already carried is not carried again as the launch link.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A launch link the listener carries afterwards is counted once.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A later tap on a widget already tapped is counted.",
++    },
+   ],
+ } as const satisfies Module
