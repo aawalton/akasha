@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/domains/invariant-kinds/pages/absence.invariant-kind.ts b/domains/invariant-kinds/pages/absence.invariant-kind.ts
+index 0bf0486710ddd1ea36928f585c6e87a7f5b9a19d..f3687639f382064deeedd83d63e7a3c64d951500 100644
+--- a/domains/invariant-kinds/pages/absence.invariant-kind.ts
++++ b/domains/invariant-kinds/pages/absence.invariant-kind.ts
+@@ -14,7 +14,7 @@ export const absence = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "An absence belongs where the thing left out is near enough to the thing kept to be reached in error.",
++        "An absence belongs where the thing left out sits near the thing kept and is reached in error.",
+     },
+   ],
+ } as const satisfies InvariantKind
