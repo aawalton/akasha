@@ -9,7 +9,7 @@ export const domainParent = {
     {
       invariantKind: "departure",
       statement:
-        "A domain needed only to read this one is required reading rather than its parent.",
+        "A domain needed only to read this domain is required reading rather than its parent.",
     },
     {
       invariantKind: "departure",
