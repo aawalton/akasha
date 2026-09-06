@@ -47,5 +47,9 @@ export const addressMapping = {
       invariantKind: "gap",
       statement: "A generator that throws leaves a stale map for the typecheck to refuse.",
     },
+    {
+      invariantKind: "gap",
+      statement: "The page types a change is filed under are listed here rather than descended.",
+    },
   ],
 } as const satisfies Module
