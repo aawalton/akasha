@@ -21,6 +21,24 @@ test("a property naming no page is reported and files no edge", () => {
   expect(filed.refused[0] ?? "").toMatch(/carries the slug `nowhere`/)
 })
 
+test("a mortal page naming no page files no edge and is not reported", () => {
+  const value = { id: A, pageTypeSlug: "note", slug: "a", partSlugs: ["nowhere"] }
+
+  expect(relationIn(value, "/repo/a.note.ts", shaped({}), "/repo")).toEqual({
+    entries: [],
+    refused: [],
+  })
+})
+
+test("a name for a mortal page type files no edge and is not reported", () => {
+  const value = { id: A, pageTypeSlug: "domain", slug: "a", goneSlugs: ["note/gone"] }
+
+  expect(relationIn(value, "/repo/a.domain.ts", shaped({}), "/repo")).toEqual({
+    entries: [],
+    refused: [],
+  })
+})
+
 test("a relation nested in a record is filed from the page, and twice over files one edge", () => {
   const value = {
     id: A,

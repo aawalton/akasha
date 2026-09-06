@@ -21,6 +21,8 @@ const DECLARED = "properties"
 
 const SAID = "pagePropertySlug"
 
+const MORTAL = "mortal"
+
 const NOT_A_RELATION = new Set(["id", "slug", "pageTypeSlug"])
 
 export type Wanted = string | readonly string[] | null
@@ -28,6 +30,7 @@ export type Wanted = string | readonly string[] | null
 export type Known = {
   readonly targetOf: (propertySlug: string) => Wanted
   readonly admitting: (target: string) => readonly string[]
+  readonly mortal: (pageTypeSlug: string) => boolean
   readonly at: (pageTypeSlug: string, slug: string) => readonly Listed[]
   readonly byId: (id: string) => Listed | null
 }
@@ -85,12 +88,14 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
   }
 
   const above = new Map<string, readonly string[]>()
+  const dies = new Set<string>()
   for (const one of everyOfType(reading, "page-type")) {
     const value = pageOf(one.path)
     if (value === null) continue
     const slug = textAt(value, "slug")
     const named = slugsIn(value["extendsSlug"])
     if (slug !== null && named.length > 0) above.set(slug, named)
+    if (slug !== null && value[MORTAL] === true) dies.add(slug)
   }
   const everyType = new Set<string>([...above.keys(), ...[...above.values()].flat()])
 
@@ -143,6 +148,7 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
   return {
     targetOf,
     admitting,
+    mortal: (pageTypeSlug) => dies.has(pageTypeSlug),
     at: (pageTypeSlug, slug) => listedAt(reading, pageTypeSlug, slug),
     byId: (id) => listedById(reading, id),
     fieldsOf: (propertySlug) => fields.get(propertySlug) ?? [],
@@ -243,6 +249,16 @@ export function reaches(named: string, wanted: Wanted, known: Known): Reached {
   if (found.length === 0)
     return { refused: `no page admitting ${saidAs(every)} carries the slug \`${named}\`` }
   return { refused: among(named, found) }
+}
+
+// A page type stating `mortal` holds pages meant to be deleted, so a name reaching none of them is
+// what time does rather than a fault. The page type the name itself states answers this where the
+// name states one; where it states none, every target its property declares has to be mortal.
+export function namesMortal(named: string, wanted: Wanted, known: Known): boolean {
+  const address = addressIn(named)
+  if (address.kind === "qualified") return known.mortal(address.pageTypeSlug)
+  const every = eachTarget(wanted)
+  return every.length > 0 && every.every((one) => known.mortal(one))
 }
 
 export function namesIn(held: unknown): readonly string[] {

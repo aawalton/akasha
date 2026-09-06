@@ -70,6 +70,18 @@ export const reaching = {
     },
     {
       invariantKind: "departure",
+      statement: "Whether a page type is mortal is answered beside what a name reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name stating a page type is judged mortal by that page type alone.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name stating none is judged by every target its property declares.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Which property each key of a page carries is read here.",
     },
     {

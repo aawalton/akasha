@@ -17,5 +17,17 @@ export const mortal = {
       invariantKind: "departure",
       statement: "A non-mortal page cannot have a relation to a mortal page.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A mortal page naming a page that is not there is not refused for naming it.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name for a mortal page type is not refused for reaching no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Either exemption alone is enough, and neither waits on the other.",
+    },
   ],
 } as const satisfies BooleanProperty

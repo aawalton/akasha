@@ -80,6 +80,7 @@ const TARGETS: Record<string, string> = {
 const KNOWN: Shaped = {
   targetOf: (propertySlug) => TARGETS[propertySlug] ?? null,
   admitting: (target) => [target],
+  mortal: () => false,
   at: (pageTypeSlug, slug) => {
     const id = AT[pageTypeSlug]?.[slug]
     return id === undefined ? [] : [{ path: `${slug}.${pageTypeSlug}.ts`, id }]

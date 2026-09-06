@@ -109,6 +109,7 @@ const TARGETS: Readonly<Record<string, string | readonly string[]>> = {
   "part-slugs": "domain",
   "noted-slugs": "domain",
   "either-slug": ["domain", "note"],
+  "gone-slugs": "note",
 }
 
 const ADMITTING: Readonly<Record<string, readonly string[]>> = {
@@ -116,9 +117,12 @@ const ADMITTING: Readonly<Record<string, readonly string[]>> = {
   note: ["note"],
 }
 
+const MORTAL: ReadonlySet<string> = new Set(["note"])
+
 const KEYED: Readonly<Record<string, string>> = {
   partSlugs: "part-slugs",
   notes: "noted-slugs",
+  goneSlugs: "gone-slugs",
   parts: "parts",
   heldSlugs: "held-slugs",
   holds: "holds",
@@ -129,6 +133,7 @@ export function shaped(pages: Readonly<Record<string, string>>): Shaped {
   return {
     targetOf: (propertySlug) => TARGETS[propertySlug] ?? null,
     admitting: (target) => ADMITTING[target] ?? [],
+    mortal: (pageTypeSlug) => MORTAL.has(pageTypeSlug),
     at: (pageTypeSlug, slug) => {
       const id = pages[`${pageTypeSlug}/${slug}`]
       return id === undefined ? [] : [{ path: `${slug}.${pageTypeSlug}.ts`, id }]

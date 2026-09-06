@@ -11,7 +11,7 @@ import {
   shaped,
 } from "../entries/index-entries.module.test-fixtures.ts"
 import { readingAt } from "../surface/index-surface.module.code.ts"
-import { knownIn, reaches, type Shaped } from "./reaching.module.code.ts"
+import { knownIn, namesMortal, reaches, type Shaped } from "./reaching.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -166,6 +166,21 @@ test("a record property answers the fields it declares, and another property ans
 
   expect(known.fieldsOf("parts")).toEqual(["part-slugs"])
   expect(known.fieldsOf("part-slugs")).toEqual([])
+})
+
+test("a name states its own page type's mortality, over whatever its property targets", () => {
+  const known = shaped({})
+
+  expect(namesMortal("note/gone", "domain", known)).toBe(true)
+  expect(namesMortal("domain/gone", "note", known)).toBe(false)
+})
+
+test("a name stating no page type is mortal only where every target its property declares is", () => {
+  const known = shaped({})
+
+  expect(namesMortal("gone", "note", known)).toBe(true)
+  expect(namesMortal("gone", ["domain", "note"], known)).toBe(false)
+  expect(namesMortal("gone", null, known)).toBe(false)
 })
 
 test("an address naming a parent is refused rather than read as the slug it ends with", () => {

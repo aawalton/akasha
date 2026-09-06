@@ -32,6 +32,7 @@ const HELD: readonly Listed[] = [{ path: AT, id: AAAA }]
 const KNOWN: Shaped = {
   targetOf: (propertySlug) => (propertySlug === "names" ? "thing" : null),
   admitting: () => ["thing"],
+  mortal: () => false,
   at: (pageTypeSlug, slug) => (pageTypeSlug === "thing" && slug === "held" ? HELD : []),
   byId: (id) => (id === AAAA ? (HELD[0] ?? null) : null),
   fieldsOf: () => [],
