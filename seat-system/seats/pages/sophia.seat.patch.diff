@@ -403,3 +403,18 @@ index 13aa26efd25ab2b745732662022ce04be319a93c..a7b99702ba4b99609202d672f4aba001
    expect(heldIn(path, PAGE_TYPES, PATCH).kind).toBe("property")
    expect(uncommittedNamed(path)).toBe(false)
  })
+diff --git a/pages/file-name/page-file-name.module.ts b/pages/file-name/page-file-name.module.ts
+index 88109786e43f7b34cd898ba015315fd148d1d1d8..b1d4cfaa4cfc3021b3420be22730864551b06f19 100644
+--- a/pages/file-name/page-file-name.module.ts
++++ b/pages/file-name/page-file-name.module.ts
+@@ -42,10 +42,6 @@ export const pageFileName = {
+       invariantKind: "departure",
+       statement: "Whether a section names a file property is answered against the set handed in.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A name outside `akasha/` is read no further.",
+-    },
+     {
+       invariantKind: "departure",
+       statement:
