@@ -33,3 +33,83 @@ index 0000000000000000000000000000000000000000..04f785d3c7017482f87e9cf087689d39
 +  definition: "how many taps a widget has taken",
 +  max: null,
 +} as const satisfies NumberProperty
+diff --git a/readout-system/readout-widgets/readout-widget.page-type.ts b/readout-system/readout-widgets/readout-widget.page-type.ts
+index 48872e8c324bfdc2d2e884df1d383e68c5895beb..c8b0478b238de7f6033f139cc395624892b34115 100644
+--- a/readout-system/readout-widgets/readout-widget.page-type.ts
++++ b/readout-system/readout-widgets/readout-widget.page-type.ts
+@@ -10,7 +10,9 @@ import type { Feed } from "./properties/feed.url-property.ts"
+ import type { GalleryDescription } from "./properties/gallery-description.text-property.ts"
+ import type { GalleryName } from "./properties/gallery-name.text-property.ts"
+ import type { Kind } from "./properties/kind.text-property.ts"
++import type { LastTappedAt } from "./properties/last-tapped-at.instant-property.ts"
+ import type { Opens } from "./properties/opens.text-property.ts"
++import type { Taps } from "./properties/taps.number-property.ts"
+ 
+ export type ReadoutWidget = Domain & {
+   appSlug: AppSlug
+@@ -24,6 +26,8 @@ export type ReadoutWidget = Domain & {
+   opens?: Opens
+   groupSlugs: GroupSlugs
+   place: Place
++  taps?: Taps
++  lastTappedAt?: LastTappedAt
+ }
+ 
+ export const readoutWidget = {
+@@ -43,6 +47,8 @@ export const readoutWidget = {
+     "readout-widget/smilingjenny-categorize",
+     "readout-widget/smilingjenny-safety-level",
+     "readout-widget/smilingjenny-surplus",
++    "instant-property/last-tapped-at",
++    "number-property/taps",
+     "relation-property/app-slug",
+     "relation-property/component-slug",
+     "text-property/caption",
+@@ -66,6 +72,13 @@ export const readoutWidget = {
+     { pagePropertySlug: "text-property/opens", required: false, many: false },
+     { pagePropertySlug: "relation-property/group-slugs", required: true, many: true, max: null },
+     { pagePropertySlug: "number-property/place", required: true, many: false },
++    { pagePropertySlug: "number-property/taps", required: false, many: false, uncommitted: true },
++    {
++      pagePropertySlug: "instant-property/last-tapped-at",
++      required: false,
++      many: false,
++      uncommitted: true,
++    },
+   ],
+   invariants: [
+     {
+@@ -85,5 +98,33 @@ export const readoutWidget = {
+       statement:
+         "The name a placed tile is bound to cannot change without the tile falling off the phone.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A widget's link carries the slug of the widget the link opens.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A widget carries how many taps that widget has taken.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A widget carries when that widget was last tapped.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The taps a widget has taken are carried outside the commit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A tap is counted by reading the count and writing the count back.",
++    },
++    {
++      invariantKind: "stopgap",
++      statement: "A tap arriving while another tap is being recorded is lost.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "Every tap a widget takes is counted.",
++    },
+   ],
+ } as const satisfies PageType
