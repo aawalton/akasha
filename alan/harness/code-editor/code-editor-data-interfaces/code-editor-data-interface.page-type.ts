@@ -26,7 +26,6 @@ export const codeEditorDataInterface = {
     "type-declaration/tree-row",
     "module/tree-drawing",
     "number-property/cooldown-milliseconds",
-    "code-editor-data-interface/agent-colors",
     "code-editor-data-interface/agent-tree",
     "code-editor-data-interface/domain-tree",
     "code-editor-data-interface/page-tree",
