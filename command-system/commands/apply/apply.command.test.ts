@@ -1,0 +1,116 @@
+import { afterAll, expect, test } from "bun:test"
+import { patchIn } from "@akasha/agents/patch-keeping"
+import { said as gitSaid } from "@akasha/git/git-running"
+import {
+  taking,
+  writing,
+} from "../../../changes/modules/change-answer/change-answer.module.code.ts"
+import {
+  appendEdits,
+  editsIn,
+} from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+import { drafted } from "../../drafting/drafting.module.code.ts"
+import { blobsIn } from "../../patching/patching.module.code.ts"
+import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+import { writing as putting } from "../../scratching/scratching.module.test-fixtures.ts"
+import { draftsOf, folding } from "./apply.command.code.ts"
+
+const PAGE = "akasha/seat-system/seats/pages/tester.seat.ts"
+
+const ONE = "akasha/one.page.ts"
+
+const TWO = "akasha/two.page.ts"
+
+const WAS = "a\nb\nc\n"
+
+const NOW = "a\nB\nc\n"
+
+const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=false"]
+
+const BYTES = new TextEncoder()
+
+const scratch = scratchWorld()
+
+afterAll(() => {
+  scratch.sweep()
+})
+
+async function repo(): Promise<string> {
+  const root = scratch.rootFor("akasha-apply-")
+  gitSaid(root, ["init", "-q", "-b", "main", "."])
+  await putting(root, ONE, WAS)
+  gitSaid(root, ["add", "--", ONE])
+  gitSaid(root, [...WHO, "commit", "-q", "-m", "base", "--", ONE])
+  return root
+}
+
+function carried(root: string): readonly string[] {
+  return [...blobsIn(patchIn(root, PAGE) ?? "")].map(([path]) => path).sort()
+}
+
+test("an edit is drafted into the patch and the rows it came from go", async () => {
+  const root = await repo()
+  appendEdits(root, PAGE, [taking(ONE, WAS)])
+
+  expect(folding(root, PAGE)).toEqual({ folded: [ONE] })
+
+  expect(editsIn(root, PAGE)).toEqual({ rows: [] })
+  expect(carried(root)).toEqual([ONE])
+})
+
+test("a patch the agent already holds takes the folded edits in", async () => {
+  const root = await repo()
+  drafted(root, PAGE, [{ path: TWO, was: null, body: BYTES.encode(NOW) }])
+  appendEdits(root, PAGE, [writing(ONE, WAS, NOW)])
+
+  expect(folding(root, PAGE)).toEqual({ folded: [ONE] })
+
+  expect(carried(root)).toEqual([ONE, TWO])
+})
+
+test("a fold over no row leaves the patch as that patch is", async () => {
+  const root = await repo()
+  drafted(root, PAGE, [{ path: TWO, was: null, body: BYTES.encode(NOW) }])
+
+  expect(folding(root, PAGE)).toEqual({ folded: [] })
+
+  expect(carried(root)).toEqual([TWO])
+})
+
+test("two rows for one path the later did not follow refuse the fold and leave the rows", async () => {
+  const root = await repo()
+  appendEdits(root, PAGE, [writing(ONE, WAS, NOW), writing(ONE, "z\n", NOW)])
+
+  const said = folding(root, PAGE)
+
+  expect("refusals" in said).toBe(true)
+  expect(patchIn(root, PAGE)).toBe(null)
+  expect("why" in editsIn(root, PAGE) ? [] : editsIn(root, PAGE)).not.toEqual({ rows: [] })
+})
+
+test("a path that is no page keeps no edits", async () => {
+  const root = await repo()
+
+  expect(folding(root, "akasha/notes.md")).toEqual({
+    refusals: ["a path that is no page keeps no edits"],
+  })
+})
+
+test("an edit stating no body drafts as a path holding no body", () => {
+  expect(draftsOf([taking(ONE, WAS)])).toEqual([{ path: ONE, was: BYTES.encode(WAS), body: null }])
+})
+
+test("an edit naming the path that edit came from drafts as two paths", () => {
+  const said = draftsOf([{ path: TWO, was: WAS, body: NOW, from: ONE }])
+
+  expect(said).toEqual([
+    { path: ONE, was: BYTES.encode(WAS), body: null },
+    { path: TWO, was: null, body: BYTES.encode(NOW) },
+  ])
+})
+
+test("an edit naming the path it lands at as the path it came from drafts as one path", () => {
+  expect(draftsOf([{ path: ONE, was: WAS, body: NOW, from: ONE }])).toEqual([
+    { path: ONE, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
+  ])
+})
