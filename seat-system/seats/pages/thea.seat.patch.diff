@@ -89,6 +89,19 @@ index b9cd82e569760b201a5cb61501c02e60b16b1cef..96c808b7ff340139d86558eccc32fbaf
    pageTypeSlug: "module",
    slug: "inputs-hash",
    definition: "a hash over a set of repository files, and the errors an unreadable set raises",
+diff --git a/changes/workflow-language/kubectl-apply/kubectl-apply.workflow-step.ts b/changes/workflow-language/kubectl-apply/kubectl-apply.workflow-step.ts
+index d95ac877b7dba8c28f5a0b7e0fe8de7fee261c9d..a39afa3b495bd780bf174e92e273bd7b300c7848 100644
+--- a/changes/workflow-language/kubectl-apply/kubectl-apply.workflow-step.ts
++++ b/changes/workflow-language/kubectl-apply/kubectl-apply.workflow-step.ts
+@@ -1,7 +1,7 @@
+ import type { WorkflowStep } from "../workflow-steps/workflow-step.page-type.ts"
+ 
+ export const kubectlApply = {
+-  id: "01a06f10-7000-700b-b000b-9d4a2f6c000be1",
++  id: "01a07740-d031-75da-9087-c83a6f64b0da",
+   pageTypeSlug: "workflow-step",
+   slug: "kubectl-apply",
+   definition: "a step applying manifests, either within a namespace or across the cluster",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
