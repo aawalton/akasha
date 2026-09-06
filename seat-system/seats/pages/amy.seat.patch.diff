@@ -1,0 +1,28 @@
+diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.code.ts b/service-system/cluster-services/web-app-building/web-app-building.module.code.ts
+index 41166242696de3b393cbb8e87392c87003bc41b5..10e3870f2402bd8ffbd596159c85b3dcaa0532a7 100644
+--- a/service-system/cluster-services/web-app-building/web-app-building.module.code.ts
++++ b/service-system/cluster-services/web-app-building/web-app-building.module.code.ts
+@@ -329,10 +329,14 @@ export interface Built {
+   readonly why: string | null
+ }
+ 
++// A BUILD RESTARTS THE WORKLOAD ONLY WHERE NOTHING ELSE WILL. A caller about to apply a manifest
++// rolls the workload over on that apply, and restarting first would put the pods onto the spec the
++// apply is replacing, which is the spec whose entry point the build just moved out from under.
+ export function buildInPod(
+   target: BuildTarget,
+   sha: string,
+-  resolved: Resolved = NOTHING_SET
++  resolved: Resolved = NOTHING_SET,
++  restarting = true
+ ): Built {
+   const ran: Ran[] = []
+   const pod = livePod(target)
+@@ -353,6 +357,7 @@ export function buildInPod(
+     const why = `${target.packagePath} would not build in ${pod}: ${saidBy(built)}`
+     return { pod, ran, why: hiding(why, resolved.hidden) }
+   }
++  if (!restarting) return { pod, ran, why: null }
+   const named = `${target.kind.toLowerCase()}/${target.workload}`
+   const restart = runKubectl(["rollout", "restart", named, "-n", target.namespace])
+   ran.push(restart)
