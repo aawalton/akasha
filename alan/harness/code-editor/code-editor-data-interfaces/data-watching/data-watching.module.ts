@@ -13,7 +13,7 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A picture is worked out again only when a file it is made from changes.",
+      statement: "A picture is worked out again only when a file the picture is made from changes.",
     },
     {
       invariantKind: "departure",
@@ -25,7 +25,8 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A file is replaced by writing it elsewhere and renaming it over.",
+      statement:
+        "A file is replaced by writing a second file elsewhere and renaming that second file over.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +38,8 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A picture states the folders it reads and which files in them it is made from.",
+      statement:
+        "A picture states the folders that picture reads and the files there the picture is made from.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +51,7 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "The index is followed for those events rather than read at each one.",
+      statement: "The index is followed for those events rather than read at each event.",
     },
     {
       invariantKind: "departure",
@@ -69,7 +71,7 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
-      statement: "A beat that could not take its picture leaves the picture before it as it is.",
+      statement: "A beat that could not take its picture leaves the earlier picture unchanged.",
     },
     {
       invariantKind: "departure",
