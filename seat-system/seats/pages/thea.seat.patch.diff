@@ -29,7 +29,7 @@ index e81722764efe2d763bde850d06af96b4670d8358..b6d5f784657a9b8a475f4155fa348f07
      pageAt: (pageTypeSlug, slug) => pageAt(reading, pageTypeSlug, slug, pageOf),
      pageTypesIn: () => pageTypesIn(reading),
 diff --git a/pages/indexes/package-reaching/package-reaching.module.code.ts b/pages/indexes/package-reaching/package-reaching.module.code.ts
-index 7e7f999bb8681e0390272a1c309521f9f5357237..1ba41d162b1a44b0ce499fedac505bbb7ac40959 100644
+index b065b070841c13512d0f58486588e4d73eb49d19..afbf5d60a1660564560159ebaeff09e083cda3e4 100644
 --- a/pages/indexes/package-reaching/package-reaching.module.code.ts
 +++ b/pages/indexes/package-reaching/package-reaching.module.code.ts
 @@ -9,6 +9,7 @@ import {
@@ -68,3 +68,29 @@ index 7e7f999bb8681e0390272a1c309521f9f5357237..1ba41d162b1a44b0ce499fedac505bbb
  export function reachingIn(
    paths: Iterable<string>,
    fileProperties: ReadonlyMap<string, string | null>,
+diff --git a/pages/indexes/package-reaching/package-reaching.module.ts b/pages/indexes/package-reaching/package-reaching.module.ts
+index 8c5e323670ef94cccaf6f77a30e6bd86abf0dbcf..0842a05d8aff39e470875643a23acbf0e2cbecad 100644
+--- a/pages/indexes/package-reaching/package-reaching.module.ts
++++ b/pages/indexes/package-reaching/package-reaching.module.ts
+@@ -14,7 +14,20 @@ export const packageReaching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A path whose file name is the one the `manifest` property states is a manifest.",
++      statement: "A path whose file name is what the `manifest` property states is a manifest.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A caller holding no paths reads the manifests off the pages carrying a manifest property.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The manifests are read from every property whose file carries that name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A manifest is beside the page carrying that manifest.",
+     },
+     {
+       invariantKind: "departure",
