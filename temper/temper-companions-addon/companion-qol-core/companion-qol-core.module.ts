@@ -9,7 +9,7 @@ export const companionQolCore = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Which companion was dismissed is remembered so the same one comes back.",
+      statement: "Which companion was dismissed is remembered so the same companion comes back.",
     },
   ],
 } as const satisfies Module
