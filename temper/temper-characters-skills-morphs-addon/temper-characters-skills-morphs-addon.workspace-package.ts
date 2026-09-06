@@ -21,7 +21,7 @@ export const temperCharactersSkillsMorphsAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "A rank the game reports is taken beside the saved rank and the larger one kept.",
+      statement: "A rank the game reports is taken beside the saved rank and the larger rank kept.",
     },
     {
       invariantKind: "departure",
