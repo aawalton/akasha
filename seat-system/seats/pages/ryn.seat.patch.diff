@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.ts b/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.ts
+index ee8e61022f94af52787bf1fd8af637149a71c40d..911cb8c0960755300e0a2de2f4751d4e1d0d55c9 100644
+--- a/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.ts
++++ b/infrastructure/cluster/k8s-synth/synth-discovery/synth-discovery.module.ts
+@@ -22,7 +22,7 @@ export const synthDiscovery = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Which cluster services those are is read from the index rather than from a glob.",
++      statement: "Which pages are cluster services is read from the index rather than from a glob.",
+     },
+     {
+       invariantKind: "departure",
