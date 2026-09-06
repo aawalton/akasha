@@ -583,3 +583,21 @@ index 0211e865817e9662097fae2e08a2a42920d3303c..d2c3e1a5cc3db4ea44a5f66d4f5c9cde
    }
    return found
  }
+diff --git a/seat-system/agent-page-reading/agent-page-reading.module.ts b/seat-system/agent-page-reading/agent-page-reading.module.ts
+index 7ccc146ac3a7d1e4097081df2af48d85357f29b4..f668e9b8cf33f71720c569041db3be07a21ecd4d 100644
+--- a/seat-system/agent-page-reading/agent-page-reading.module.ts
++++ b/seat-system/agent-page-reading/agent-page-reading.module.ts
+@@ -27,5 +27,13 @@ export const agentPageReading = {
+       invariantKind: "departure",
+       statement: "A subagent page short of its seat name or its agent id is left out.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The kind a subagent was dispatched as is read off that subagent's page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A subagent page stating no kind answers null for that kind.",
++    },
+   ],
+ } as const satisfies Module
