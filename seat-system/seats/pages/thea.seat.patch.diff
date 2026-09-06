@@ -2098,7 +2098,7 @@ index 3c6166b5ad88ae214c38a817fb8d4e6593518fee..ecc05b0073791b8dd9e586eb666384d6
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/alan/relating/relationships/relationship.page-type.ts b/alan/relating/relationships/relationship.page-type.ts
-index 16ce8c610ca66ab08bd571ed9742862edfa9371f..64173c2cdd2f273aa1e88fb34c40b54de608e665 100644
+index 16ce8c610ca66ab08bd571ed9742862edfa9371f..c234abdda800df8f86ef73ffd0415e4c5f31ae25 100644
 --- a/alan/relating/relationships/relationship.page-type.ts
 +++ b/alan/relating/relationships/relationship.page-type.ts
 @@ -77,7 +77,7 @@ export const relationship = {
@@ -2119,6 +2119,15 @@ index 16ce8c610ca66ab08bd571ed9742862edfa9371f..64173c2cdd2f273aa1e88fb34c40b54d
      },
      { pagePropertySlug: "file-property/relationship-notes", required: false, many: false },
    ],
+@@ -115,7 +115,7 @@ export const relationship = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Four ratings sit apart: impact, interest, connection, and commitment.",
++      statement: "Every rating a relationship carries sits apart from every other rating.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/alan/self/identity-statements/identity-statement.page-type.ts b/alan/self/identity-statements/identity-statement.page-type.ts
 index 56a57f5e1cd030963f9298793814cd75594928a8..5b24d6f402a832264084e12a7b9db347faeca900 100644
 --- a/alan/self/identity-statements/identity-statement.page-type.ts
