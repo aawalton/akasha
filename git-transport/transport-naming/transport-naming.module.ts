@@ -13,7 +13,7 @@ export const transportNaming = {
     },
     {
       invariantKind: "departure",
-      statement: "The labels a pod is selected by are fewer than the labels a pod carries.",
+      statement: "A pod carries labels beyond the labels that pod is selected by.",
     },
   ],
 } as const satisfies Module
