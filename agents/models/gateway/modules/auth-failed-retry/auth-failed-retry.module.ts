@@ -26,7 +26,7 @@ export const authFailedRetry = {
     },
     {
       invariantKind: "departure",
-      statement: "A store holding a token other than the one that failed is a retry.",
+      statement: "A store holding a token other than the token that failed is a retry.",
     },
     {
       invariantKind: "departure",
