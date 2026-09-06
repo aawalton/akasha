@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/pages/types/declared-properties/declared-properties.module.test.ts b/pages/types/declared-properties/declared-properties.module.test.ts
+index 557c3f5e4764f60c145c8fe3bf2a41f84b0ffc39..b256d07c7b92ea87b101c8188f8b07b2e2b18a58 100644
+--- a/pages/types/declared-properties/declared-properties.module.test.ts
++++ b/pages/types/declared-properties/declared-properties.module.test.ts
+@@ -67,7 +67,7 @@ test("a page type carries the properties it declares itself", () => {
+   const root = rootAt()
+   propertied(root, "text-property", "plural-slug", "plural-slug")
+   typed(root, "page-type", null, [
+-    { pagePropertySlug: "plural-slug", required: true, many: true, max: 20 },
++    { pagePropertySlug: "plural-slug", required: true, many: true, maxCount: 20 },
+   ])
+ 
+   expect(carriedBy(root, "page-type")).toEqual([
