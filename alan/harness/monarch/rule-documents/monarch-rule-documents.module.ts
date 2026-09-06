@@ -9,7 +9,7 @@ export const monarchRuleDocuments = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The rules are TypeScript pages, one file to a rule.",
+      statement: "The rules are TypeScript pages with one file to a rule.",
     },
     {
       invariantKind: "departure",
@@ -25,8 +25,7 @@ export const monarchRuleDocuments = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Two pages carrying one slug are refused, because nothing would say which is the rule.",
+      statement: "Two pages carrying one slug are refused.",
     },
     {
       invariantKind: "departure",
@@ -39,8 +38,7 @@ export const monarchRuleDocuments = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An agent rule carrying no judgement is refused, because the judgement is what a reader acts on.",
+      statement: "An agent rule carrying no judgement is refused.",
     },
     {
       invariantKind: "departure",
