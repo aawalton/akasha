@@ -31,12 +31,15 @@ export const pageTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "The rows the file carries are drawn as they are rather than spelled again.",
+      statement: "The rows the file carries are drawn unchanged rather than spelled again.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The rows counted are all the rows, and the pages counted are the ones opening a document.",
+      statement: "The rows counted are all the rows.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages counted are the rows opening a document.",
     },
     {
       invariantKind: "departure",
