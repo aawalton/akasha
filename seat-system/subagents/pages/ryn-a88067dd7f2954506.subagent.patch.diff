@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/alan/fitness/exercise-access/selection-features/selection-features.module.ts b/alan/fitness/exercise-access/selection-features/selection-features.module.ts
-index b4645a241e787b3e9411e84ceabe579dc50d7322..1628f9042314a68f03c39156b574f64011170540 100644
+index b4645a241e787b3e9411e84ceabe579dc50d7322..1f005f986d88df3a063e395b63d2cd98be1507d4 100644
 --- a/alan/fitness/exercise-access/selection-features/selection-features.module.ts
 +++ b/alan/fitness/exercise-access/selection-features/selection-features.module.ts
-@@ -16,12 +16,13 @@ export const selectionFeatures = {
+@@ -16,16 +16,18 @@ export const selectionFeatures = {
      },
      {
        invariantKind: "departure",
@@ -16,6 +16,12 @@ index b4645a241e787b3e9411e84ceabe579dc50d7322..1628f9042314a68f03c39156b574f640
        statement:
 -        "A stretching movement is a mobility pattern and a cardio movement a conditioning one.",
 +        "A stretching movement is a mobility pattern and a cardio movement a conditioning pattern.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A movement no name or muscle places is an isolation pattern rather than none.",
++      statement:
++        "A movement no name or muscle places is an isolation pattern rather than no pattern.",
      },
      {
        invariantKind: "departure",
