@@ -555,3 +555,16 @@ index 8a65945cb95ce37ea9db6cb9d19fdb8a48081f11..92e8016345e56bd6f60f794210dfdde3
    "",
    HELP,
  ]
+diff --git a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.code.ts b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.code.ts
+index 771c14ae258b106e6ac0c26401852f30d5a1c4ec..81cc5c8f751a87519fa0b3593c0af3f687eb754e 100644
+--- a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.code.ts
+@@ -47,7 +47,7 @@ const REFUSAL = toldOf(HOOK, [
+   "changes rather than after each one. Hand back what you wanted judged and let it run there.",
+   "",
+   "WHAT ANSWERS INSTEAD, each scoped to what you touched:",
+-  "  akasha test --file-path <path>   the tests under one path",
++  "  akasha test --file-path <path>   the tests in the one test file at that path",
+   "  akasha lint --file-path <path>   the linter over one path",
+   "",
+   "A change landing through the akasha commands is checked as it lands, so what you wrote that",
