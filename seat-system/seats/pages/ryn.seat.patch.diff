@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/sms-core/acting-account/acting-account.module.ts b/sms-core/acting-account/acting-account.module.ts
+index e582bd88cdc3cd8734e6d68a18b61524247e2931..c4252e169d22b86a94fe03af95d1b30695cf9ef9 100644
+--- a/sms-core/acting-account/acting-account.module.ts
++++ b/sms-core/acting-account/acting-account.module.ts
+@@ -14,7 +14,7 @@ export const actingAccount = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A sender quoting the footer cannot reach past the one the channel wrote.",
++      statement: "A sender quoting the footer cannot reach past the footer the channel wrote.",
+     },
+     {
+       invariantKind: "departure",
