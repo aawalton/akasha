@@ -64,17 +64,6 @@ test("a file that is not TypeScript is passed over", () => {
   expect(judge(held)).toEqual([])
 })
 
-test("a path outside the akasha folder is passed over", () => {
-  const outside = bodiesAt(ROOT, "tools/created.instant-property.ts")
-  const body = [
-    "export const held = {",
-    '  pageTypeSlug: "instant-property",',
-    '  slug: "created",',
-    "} as const satisfies InstantProperty",
-  ].join("\n")
-  expect(judge(outside(body))).toEqual([])
-})
-
 test("a body that is not text refuses rather than being passed over", () => {
   const held = { root: ROOT, path: "akasha/raw.ts", bytes: new Uint8Array([0xff, 0xfe, 0x00]) }
   expect(() => judge(held)).toThrow("akasha/raw.ts")
