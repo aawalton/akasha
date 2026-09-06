@@ -1,0 +1,13 @@
+diff --git a/agents/models/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts b/agents/models/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts
+index e3f601ff77ed3edc4c52990be8ba35fc785e26e1..2be476e6ede495b6a3020ad3f8721f756dff7cfb 100644
+--- a/agents/models/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts
++++ b/agents/models/gateway/modules/oauth-effects/oauth-effects.module.test-fixtures.ts
+@@ -1,7 +1,7 @@
+ import { mkdirSync, writeFileSync } from "node:fs"
+ import { dirname, join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { listedFiled, pageFiled, schemaFiled } from "@akasha/indexes/testing"
++import { listedFiled, pageFiled, schemaFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+ import { uncommittedIn } from "@akasha/pages/page-uncommitted"
+ import type { OAuthCredential } from "../oauth-types/oauth-types.module.code.ts"
+ import type { Doors, UsageRead } from "./oauth-effects.module.code.ts"
