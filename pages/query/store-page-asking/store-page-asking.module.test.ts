@@ -150,7 +150,7 @@ test("the store standing on this workstation answers what names a domain", async
   const asked = await underOrigin(() =>
     askNaming({
       key: "domainSlug",
-      name: "workspace-package/pages-system",
+      name: "workspace-package/pages-system-service",
       pageTypes: ["finding"],
     })
   )
