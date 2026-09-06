@@ -219,6 +219,19 @@ index 9160582ad8a7405bc61ed849160ef25a815ab0ff..41ee35202944480cc4702b870675659b
    pageTypeSlug: "workflow-step",
    slug: "source-sync",
    definition: "a step syncing a deployment's source tree to a commit through its sync container",
+diff --git a/changes/workflow-language/step/step.module.ts b/changes/workflow-language/step/step.module.ts
+index 90435e6cbf3b475a7fcd4e355d41faf1bcdc0317..b410aad899a75280572d9d24acbf03e8f31fd710 100644
+--- a/changes/workflow-language/step/step.module.ts
++++ b/changes/workflow-language/step/step.module.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "../../../code-system/modules/module.page-type.ts"
+ 
+ export const step = {
+-  id: "01a06f10-7000-7001-b0001-9d4a2f6c0001e1",
++  id: "01a07740-d031-7cbd-8185-c1e9770ad97d",
+   pageTypeSlug: "module",
+   slug: "step",
+   definition: "a step declaration taken and handed back under its type",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
