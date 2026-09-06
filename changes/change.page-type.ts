@@ -37,6 +37,7 @@ export const change = {
     "change/repoint-imports",
     "change/respell-export",
     "change/restate-value",
+    "module/change-answer",
   ],
   properties: [
     { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
