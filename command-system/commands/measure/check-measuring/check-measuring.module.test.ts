@@ -36,7 +36,7 @@ function lineOf(one: Record<string, unknown>): string {
     residentBeforeBytes: 0,
     peakAddedBytes: 0,
     peakMeasured: true,
-    pathsJudged: 1,
+    pathsChanged: 1,
     refusals: 0,
     ...one,
   })

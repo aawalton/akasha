@@ -13,6 +13,10 @@ export const checkCost = {
     },
     {
       invariantKind: "departure",
+      statement: "The paths counted are the change's own rather than the paths this check judged.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A run is timed by the processor rather than by the clock alone.",
     },
     {

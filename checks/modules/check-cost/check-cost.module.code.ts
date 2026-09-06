@@ -35,7 +35,7 @@ export type Cost = {
   readonly residentBeforeBytes: number
   readonly peakAddedBytes: number
   readonly peakMeasured: boolean
-  readonly pathsJudged: number
+  readonly pathsChanged: number
   readonly refusals: number
 }
 
@@ -127,7 +127,7 @@ export function costOf(
   after: Taken,
   phase: string,
   check: string,
-  pathsJudged: number,
+  pathsChanged: number,
   refusals: number
 ): Cost {
   return {
@@ -141,7 +141,7 @@ export function costOf(
     residentBeforeBytes: before.resident,
     peakAddedBytes: Math.max(after.peak - before.resident, 0),
     peakMeasured: before.measured,
-    pathsJudged,
+    pathsChanged,
     refusals,
   }
 }
