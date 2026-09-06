@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/outside-naming/outside-naming.module.ts b/command-system/outside-naming/outside-naming.module.ts
+index eeea171c97123a76e0e61c0f0a0cc102949d317e..e7f4a4e06b3790aaf3bd05965e7ad84e03091eb1 100644
+--- a/command-system/outside-naming/outside-naming.module.ts
++++ b/command-system/outside-naming/outside-naming.module.ts
+@@ -18,7 +18,7 @@ export const outsideNaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Git is asked for many names at once rather than once for each one.",
++      statement: "Git is asked for many names at once rather than once for each name.",
+     },
+     {
+       invariantKind: "departure",
