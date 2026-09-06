@@ -22,12 +22,19 @@ export const tickDeadline = {
     },
     {
       invariantKind: "departure",
-      statement: "A timer left behind holds the process up, so every race clears its own.",
+      statement: "A timer left behind holds the process up.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A listener left on the signal outlives the tick, so every race takes its own off.",
+      statement: "Every race clears its own timer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A listener left on the signal outlives the tick.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every race takes its own listener off.",
     },
   ],
 } as const satisfies Module
