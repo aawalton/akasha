@@ -86,6 +86,40 @@ index 69ba2cef7fca6fdf43bf907e38c0c53b3d2bb9af..118ba09d441eebc83a125e8267e26d05
            }),
            `sed "s|checksum/postgrest-secrets:.*|checksum/postgrest-secrets: \\"${"$"}{SECRET_HASH}\\"|" infra/k8s/src/postgrest/generated/deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n postgrest -f -`,
            ...verifyRolloutCommands({
+diff --git a/service-system/cluster-services/pages/postgrest/authenticator.k8s-secret.sops.yaml b/service-system/cluster-services/pages/postgrest/authenticator.k8s-secret.sops.yaml
+deleted file mode 100644
+index 2c0e78a58e3a2378018bcb50f5ebe27ff14e62b0..0000000000000000000000000000000000000000
+--- a/service-system/cluster-services/pages/postgrest/authenticator.k8s-secret.sops.yaml
++++ /dev/null
+@@ -1,28 +0,0 @@
+-apiVersion: v1
+-kind: Secret
+-metadata:
+-    name: authenticator-secrets
+-    namespace: postgres
+-type: Opaque
+-stringData:
+-    AUTHENTICATOR_PASSWORD: ENC[AES256_GCM,data:RTcMHSX9AT29buEwxGaY+65Ae/7wjXuHMp8rYShKlbkyuWy8YUbSYaGgAAF1KwEb,iv:h8z4TJF61xI64mlm9HRT4REoxf9jAZvjR5lOoP8HUBM=,tag:YU8Vkoml6hfVV4aG4x0nfw==,type:str]
+-sops:
+-    kms: []
+-    gcp_kms: []
+-    azure_kv: []
+-    hc_vault: []
+-    age:
+-        - recipient: age1g23777pz5n0hm7umfm7a8vhl8sk2e4k8zwk8ht7j86fpssky0geqeqcxh2
+-          enc: |
+-            -----BEGIN AGE ENCRYPTED FILE-----
+-            YWdlLWVuY3J5cHRpb24ub3JnL3YxCi0+IFgyNTUxOSA5bUdxUGpsUWpvUWpsRnZT
+-            Q0ZiTnE5T2RaMFR5YWhDNDdtL053RGx0T0NRCkpCL0hPNzZNUTZEOFRsTFRRTGV0
+-            NTM2ZWNSd0I3YzBxUSt1UHFiTnBaRTgKLS0tIFNlUDF5aTFDRXJ1V2lyM1U5eXYy
+-            dHUzTEV4UHR1MXdEZFhLeEhyOEJuUXMKZGK8Q2aLrgcIHJH9tZ4qjrJdlAVD/rHA
+-            62m+AM1/PGVBwVjtxLx5zqUF4Zta8FPQJwRZeMetZTePOzVOYEd/cw==
+-            -----END AGE ENCRYPTED FILE-----
+-    lastmodified: "2026-04-22T14:08:36Z"
+-    mac: ENC[AES256_GCM,data:Z5y+MQ/8gLoG4M2tHoovxS2rW+DJAGNW1qJBIFLqDKPdnvS89+H+HZyd0SLD1UKb29LZdJoERZV5IvR8c4AXIbcFj3KNpg0soNehtUYE06InYrSOlAFDoWGJcsGKC8jhfjIox6NUUzJUsfdAx4WTPO2lN/96Q2XQt31BGeT+6gc=,iv:JQvSWLxg+AfJEVtcsKTlBCWRABVKO9lPofOqp4rXn4c=,tag:zWobcHCdgf487ZmGvHt0cw==,type:str]
+-    pgp: []
+-    encrypted_regex: ^(data|stringData)$
+-    version: 3.9.4
 diff --git a/service-system/cluster-services/pages/postgrest/postgrest.k8s-secret.sops.yaml b/service-system/cluster-services/pages/postgrest/postgrest.k8s-secret.sops.yaml
 deleted file mode 100644
 index f0038879b2ae0263a6146fc555cce10467a8a856..0000000000000000000000000000000000000000
