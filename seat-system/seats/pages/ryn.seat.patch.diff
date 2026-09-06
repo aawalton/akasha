@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/infrastructure/certificate-authorities/certificate-authority.page-type.ts b/infrastructure/certificate-authorities/certificate-authority.page-type.ts
+index 6e6f2ec935f64a989798b5732a2b2d580ddbc68a..b19690d201f78c184fee8e3405b27e7e0b169f12 100644
+--- a/infrastructure/certificate-authorities/certificate-authority.page-type.ts
++++ b/infrastructure/certificate-authorities/certificate-authority.page-type.ts
+@@ -28,7 +28,8 @@ export const certificateAuthority = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An authority whose key is gone is a new authority rather than the same one.",
++      statement:
++        "An authority whose key is gone is a new authority rather than the same authority.",
+     },
+   ],
+ } as const satisfies PageType
