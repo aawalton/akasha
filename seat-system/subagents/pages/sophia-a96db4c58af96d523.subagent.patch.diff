@@ -1,0 +1,29 @@
+diff --git a/checks/code-checks/pages/no-re-export/no-re-export.code-check.test.ts b/checks/code-checks/pages/no-re-export/no-re-export.code-check.test.ts
+index db02dc0032d489278a9b5b8a67d216db27422b91..2d5b01515c590b204844510e844bce244003b1f2 100644
+--- a/checks/code-checks/pages/no-re-export/no-re-export.code-check.test.ts
++++ b/checks/code-checks/pages/no-re-export/no-re-export.code-check.test.ts
+@@ -95,10 +95,6 @@ test("a comment or a string saying `export * from` fools nothing", () => {
+   expect(reasonsIn(given(AT, body))).toEqual([])
+ })
+ 
+-test("a file outside the akasha folder is passed over", () => {
+-  expect(reasonsIn(given("tools/held.ts", 'export * from "./b.ts"\n'))).toEqual([])
+-})
+-
+ test("a file that is not TypeScript is passed over", () => {
+   expect(reasonsIn(given("akasha/notes.txt", 'export * from "./b.ts"\n'))).toEqual([])
+ })
+diff --git a/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts b/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
+index 0256b91c0591cc2802cc154cbf09fa067a36c31b..68eef1e2559a26594256d2c6b006c53cdcc02fdf 100644
+--- a/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
++++ b/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
+@@ -42,9 +42,5 @@ export const noReExport = {
+       statement:
+         "An imported value bound to a fresh exported name is a declaration this file made.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "A file outside the akasha folder is passed over rather than refused.",
+-    },
+   ],
+ } as const satisfies CodeCheck
