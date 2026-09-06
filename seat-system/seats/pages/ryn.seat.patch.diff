@@ -1,0 +1,13 @@
+diff --git a/infrastructure/ci-benchmark/ci-benchmark.workspace-package.ts b/infrastructure/ci-benchmark/ci-benchmark.workspace-package.ts
+index ac215fe8c129b1272e26062b5b9325ac7e1c68db..aa80e8871331a653b35c29c7e27ef47031252f62 100644
+--- a/infrastructure/ci-benchmark/ci-benchmark.workspace-package.ts
++++ b/infrastructure/ci-benchmark/ci-benchmark.workspace-package.ts
+@@ -14,7 +14,7 @@ export const ciBenchmark = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A pod the kubelet rejects is a destroyed run rather than a retried one.",
++      statement: "A pod the kubelet rejects is a destroyed run rather than a retried run.",
+     },
+     {
+       invariantKind: "departure",
