@@ -1,13 +1,18 @@
 diff --git a/editor-extension/panel-judging/panel-judging.module.ts b/editor-extension/panel-judging/panel-judging.module.ts
-index adb0a71bb79268a65b6e7f0569caae9c7930f417..6cbee9090cc3688424e117ad42a22856cdbf203f 100644
+index adb0a71bb79268a65b6e7f0569caae9c7930f417..27e3a8f06ffa756881bc3ba7beca37891ea4c05a 100644
 --- a/editor-extension/panel-judging/panel-judging.module.ts
 +++ b/editor-extension/panel-judging/panel-judging.module.ts
-@@ -11,7 +11,7 @@ export const panelJudging = {
+@@ -11,11 +11,11 @@ export const panelJudging = {
      {
        invariantKind: "constraint",
        statement:
 -        "An extension drawing four empty panels activates as cleanly as one drawing a full tree.",
 +        "An extension drawing four empty panels activates as cleanly as an extension drawing a full tree.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Five surfaces are judged: four trees and the status bar.",
++      statement: "Four trees and the status bar are judged.",
      },
      {
        invariantKind: "departure",
