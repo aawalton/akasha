@@ -8,6 +8,11 @@ export const theaChecksSystem = {
   personaSlug: "thea",
   intents: [
     {
+      statement: "Every check is cheap enough for patch and runs there.",
+      workingMemory:
+        "Four steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file judged, 4 over the whole repository. Then it goes on at patch. Cost over a file not judged is settled by structure: `checksFor` gates on `takesFrom`, so a check no changed path satisfies never runs. 43 checks, alphabetical. Done: domain-is-named-by-a-parent, email-address-is-well-formed. Now: file-has-its-page, at patch, steps 1 and 2 done.",
+    },
+    {
       statement: "The tests beside a changed file judge the change that carries it.",
       workingMemory:
         "36 of 43 checks run on no phase and this is one, so nothing is ever refused for a red test. Patch is the ratchet and starts before the tree reaches zero, so a green tree is not the bar. The work is the world: tests run in a tree written from the change, carrying the index it leaves, swept however it ends. `akasha test` takes no root override and `bun test` is hook-refused, so nothing runs a test elsewhere. First the root override, then the world, then re-entrancy, then measure what patch refuses.",
@@ -17,11 +22,6 @@ export const theaChecksSystem = {
         "A page type narrows an inherited property's reach to the collection it is part of.",
       workingMemory:
         "168 routes across 7 apps share one page type and `slug` is unique per type, so `home` repeats 7 times, `sign-in` 6, `api.errors` 6; 5 route tests wait on this. `part-of` is declared and branched at index-identity.index.code.ts:29 but never written, read back or tested. The `unique` declaration field landed. Order: seed a test against the PART_OF branch, which has never run; then the identity map; then the consumers handing a page-type slug as the scope, each answering empty rather than erroring.",
-    },
-    {
-      statement: "Every check is cheap enough for patch and runs there.",
-      workingMemory:
-        "Five steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file not judged, 4 over one judged, 5 over the whole repository. Then it goes on at patch. The entries jsonl holds every run. 43 checks, alphabetical over all 43 whether or not one runs already; 7 are at patch and nothing runs at any other phase. Done: domain-is-named-by-a-parent, email-address-is-well-formed. Now: file-has-its-page, already at patch, steps 1 and 2 done.",
     },
     {
       statement: "Every file the repository tracks is claimed by a page.",
