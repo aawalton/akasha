@@ -11,7 +11,7 @@ const AT = indexNamed()
 
 const HELD = "akasha/command-system/held.module.code.ts"
 
-const OWNED = "akasha/pages-system/indexes/index-reading/index-reading.module.code.ts"
+const OWNED = "pages/indexes/reading/index-reading.module.code.ts"
 
 test("a body spelling a path into the index is refused", () => {
   const said = reasonsIn(given(HELD, `const at = "${AT}/identity/check/slug"\n`))
