@@ -1,14 +1,19 @@
 readersOweReading: false
 diff --git a/command-system/commands/wan/wan-arguing/wan-arguing.module.ts b/command-system/commands/wan/wan-arguing/wan-arguing.module.ts
-index 3554bca2cf23fd218e384126d91f7cb40719c3d1..6834e5eed598f794ffb3e8c9535752e51081e606 100644
+index 3554bca2cf23fd218e384126d91f7cb40719c3d1..d4f645e13b57b36a51439f70b807306963307a79 100644
 --- a/command-system/commands/wan/wan-arguing/wan-arguing.module.ts
 +++ b/command-system/commands/wan/wan-arguing/wan-arguing.module.ts
-@@ -13,7 +13,7 @@ export const wanArguing = {
+@@ -13,11 +13,11 @@ export const wanArguing = {
      },
      {
        invariantKind: "departure",
 -      statement: "A flag said more than once is refused.",
 +      statement: "A flag said twice is refused.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag carrying a value and given none is refused.",
++      statement: "A flag carrying a value and given no value is refused.",
      },
      {
        invariantKind: "departure",
