@@ -1,5 +1,5 @@
 diff --git a/seat-system/terminal-init/terminal-seat-stating/terminal-seat-stating.module.ts b/seat-system/terminal-init/terminal-seat-stating/terminal-seat-stating.module.ts
-index e9b671f52788d49bd081e981397d1767e8799438..2e4c2d845248de45f45758b72ad2eebff8dc4f85 100644
+index e9b671f52788d49bd081e981397d1767e8799438..c46b10e594be1ae71e7a005db69aa9d795f633bf 100644
 --- a/seat-system/terminal-init/terminal-seat-stating/terminal-seat-stating.module.ts
 +++ b/seat-system/terminal-init/terminal-seat-stating/terminal-seat-stating.module.ts
 @@ -48,7 +48,7 @@ export const terminalSeatStating = {
@@ -11,3 +11,12 @@ index e9b671f52788d49bd081e981397d1767e8799438..2e4c2d845248de45f45758b72ad2eebf
      },
      {
        invariantKind: "departure",
+@@ -56,7 +56,7 @@ export const terminalSeatStating = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "The path to the seat call is spelled rather than imported, to pull in no writer.",
++      statement: "The path to the seat call is spelled rather than imported.",
+     },
+   ],
+ } as const satisfies Module
