@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/merchant/monarch-merchant-naming.module.ts b/alan/harness/monarch/merchant/monarch-merchant-naming.module.ts
-index b7cd87783df3bc180ea3684fb46789dd10739ed3..e9e0379044f42b78c4da43cb3dd1c08b4ef52c05 100644
+index b7cd87783df3bc180ea3684fb46789dd10739ed3..2b712f534c6e2a47f6ba72928511968b53536e0b 100644
 --- a/alan/harness/monarch/merchant/monarch-merchant-naming.module.ts
 +++ b/alan/harness/monarch/merchant/monarch-merchant-naming.module.ts
 @@ -18,16 +18,19 @@ export const monarchMerchantNaming = {
@@ -26,3 +26,17 @@ index b7cd87783df3bc180ea3684fb46789dd10739ed3..e9e0379044f42b78c4da43cb3dd1c08b
      },
      {
        invariantKind: "departure",
+@@ -36,8 +39,11 @@ export const monarchMerchantNaming = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement:
+-        "The vocabulary is read once and held, so a page changed under a running process is not seen.",
++      statement: "The vocabulary is read once and held.",
++    },
++    {
++      invariantKind: "stopgap",
++      statement: "A page changed under a running process is not seen.",
+     },
+   ],
+ } as const satisfies Module
