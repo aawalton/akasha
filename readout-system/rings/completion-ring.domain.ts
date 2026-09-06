@@ -13,7 +13,11 @@ export const completionRing = {
     },
     {
       invariantKind: "departure",
-      statement: "The arc has no floor, and anything past empty draws empty.",
+      statement: "The arc has no floor.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Anything past empty draws empty.",
     },
     {
       invariantKind: "departure",
@@ -26,12 +30,15 @@ export const completionRing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Colored by fraction, full draws blue, three quarters green, a half yellow, a quarter red.",
+      statement: "A ring colored by fraction draws blue at full and green at three quarters.",
     },
     {
       invariantKind: "departure",
-      statement: "Colored by fraction, anything under a quarter draws black.",
+      statement: "A ring colored by fraction draws yellow at a half and red at a quarter.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A ring colored by fraction draws black under a quarter.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +46,7 @@ export const completionRing = {
     },
     {
       invariantKind: "departure",
-      statement: "The words for nothing left sit beneath that emoji, or none do.",
+      statement: "The words for nothing left sit beneath that emoji or are left unsaid.",
     },
   ],
 } as const satisfies Domain
