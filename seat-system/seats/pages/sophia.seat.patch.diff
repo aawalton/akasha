@@ -149,3 +149,22 @@ index b0a5596854c57a1efee2d3d43f0edbc182ac1ef6..72a60f8791f028f596f935301467cb8d
 -  expect(carriedOver(null)).toBe(false)
 +  expect(carriedOver(undefined)).toBe(false)
  })
+diff --git a/command-system/landing-reading/landing-reading.module.ts b/command-system/landing-reading/landing-reading.module.ts
+index 5e76cdfffea30bed5b4870f2d80d03c480b6479d..30cb2aea89ba34152616feac3f0a963a7b4304dc 100644
+--- a/command-system/landing-reading/landing-reading.module.ts
++++ b/command-system/landing-reading/landing-reading.module.ts
+@@ -47,6 +47,14 @@ export const landingReading = {
+       invariantKind: "departure",
+       statement: "A reading is carried at the landing rather than by the command that asked.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An apply carries by the rule a landing carries by.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Whether the readers owe reading is handed in rather than read off the call.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
