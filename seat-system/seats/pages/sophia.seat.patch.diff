@@ -52,6 +52,22 @@ index 4cfcbbfed43f2142368da2bc8263e5f3add4c534..62733bf5ae3a2c6dc4d40eb394cd88ea
      },
      {
        invariantKind: "gap",
+diff --git a/code-system/ios-apps/pages/smilingjenny/smilingjenny.ios-app.ts b/code-system/ios-apps/pages/smilingjenny/smilingjenny.ios-app.ts
+index 46df7cb69303691de6ac201bec97747dccbee218..31d6300c7368436f0c2383ca2fb706ed65c050e0 100644
+--- a/code-system/ios-apps/pages/smilingjenny/smilingjenny.ios-app.ts
++++ b/code-system/ios-apps/pages/smilingjenny/smilingjenny.ios-app.ts
+@@ -18,6 +18,11 @@ export const smilingjenny = {
+   macBuildNumberFile: "$HOME/.appstoreconnect/testflight-build-number-smilingjenny",
+   marketingVersion: "1.0",
+   nativeShellRepoPath: "akasha:code-system/ios-apps/pages/smilingjenny",
++  programSlugs: [
++    "ios-program/smilingjenny-app",
++    "ios-program/smilingjenny-decode-harness",
++    "ios-program/smilingjenny-widget",
++  ],
+   webEntry: "html",
+   widgetBundleId: "me.smilingjenny.app.widgets",
+   widgetProfileName: "smilingjenny widget App Store",
 diff --git a/code-system/ios-apps/properties/program-slugs.relation-property.ts b/code-system/ios-apps/properties/program-slugs.relation-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..bda59e0568d5ab553f20f8eba0f64dbf0fe9ab6e
