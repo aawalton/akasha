@@ -17,6 +17,19 @@ index 419d971ef1cd34735f7786ab210af8f09f9b04a4..f19b6e4ee5715df60d5944ea3373ab94
        inside[one.key] = ending
        continue
      }
+diff --git a/pages/service/page-listening/page-listening.module.code.ts b/pages/service/page-listening/page-listening.module.code.ts
+index 0a64f5ecc6d5aead3e7f9f2381adb85df75d70e4..7270cc614d357a03312ace2fbffac9853402cc51 100644
+--- a/pages/service/page-listening/page-listening.module.code.ts
++++ b/pages/service/page-listening/page-listening.module.code.ts
+@@ -4,7 +4,7 @@ import { numberAt, textsAt, valueAt } from "@akasha/pages/page-value"
+ import { answering } from "../page-serving/page-serving.module.code.ts"
+ import { writerFor } from "../page-writing/page-writing.module.code.ts"
+ 
+-export const SERVICE_SLUG = "pages-system-service"
++export const SERVICE_SLUG = "pages-service"
+ export const SERVICE_PAGE_TYPE = "workstation-service"
+ export const LOOPBACK = "127.0.0.1"
+ 
 diff --git a/pages/service/page-serving/page-serving.module.code.ts b/pages/service/page-serving/page-serving.module.code.ts
 index 09134c88fffeb6be596c797d577e5f3daf63b8c5..210173b58caa7f607e18cc1eb7f1bc74c3a21a05 100644
 --- a/pages/service/page-serving/page-serving.module.code.ts
