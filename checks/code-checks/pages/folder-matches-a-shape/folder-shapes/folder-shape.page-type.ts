@@ -131,6 +131,11 @@ export const folderShape = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A page type declares the members of every one-of property in that page type's `properties` folder.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A folder holding one page answers with the name that page gives its folder.",
     },
     {
