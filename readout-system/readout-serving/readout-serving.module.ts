@@ -30,16 +30,17 @@ export const readoutServing = {
     },
     {
       invariantKind: "departure",
-      statement: "The count answered is the reading carried in rather than one taken here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A reading older than the window is answered as none rather than as a count.",
+      statement: "The count answered is the reading carried in rather than a reading taken here.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A reading never taken and a reading too old are told apart rather than both read as none.",
+        "A reading older than the window is answered as no reading rather than as a count.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reading never taken and a reading too old are told apart rather than both read as no reading.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +66,8 @@ export const readoutServing = {
     },
     {
       invariantKind: "departure",
-      statement: "The scale read is the one the readout's page names rather than one named here.",
+      statement:
+        "The scale read is the scale the readout's page names rather than a scale named here.",
     },
     {
       invariantKind: "departure",
