@@ -19,15 +19,23 @@ export const monarchProvenance = {
     },
     {
       invariantKind: "departure",
-      statement: "A source is programmatic, semantic or manual and is nothing else.",
+      statement: "A source is programmatic or semantic or manual and is nothing else.",
     },
     {
       invariantKind: "departure",
-      statement: "A name is trimmed, so blank space names nothing.",
+      statement: "A name is trimmed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Blank space names nothing.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes; this module composes the record a writer writes.",
+      statement: "Nothing here writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "This module composes the record a writer writes.",
     },
   ],
 } as const satisfies Module
