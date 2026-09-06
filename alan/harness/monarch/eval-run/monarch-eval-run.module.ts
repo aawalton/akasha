@@ -18,17 +18,20 @@ export const monarchEvalRun = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The Monarch pages are marked before and after, so a run says whether anything moved under that run.",
+      statement: "The Monarch pages are marked before and after a run.",
     },
     {
       invariantKind: "departure",
-      statement: "Batches are asked four at a time rather than one by one or all at once.",
+      statement: "A run says whether anything moved under that run.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Batches are asked four at a time rather than one by one or every batch at once.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The whole run is kept: the categories offered, the rows drawn, the proposals and the cost.",
+        "The categories offered and the rows drawn and the proposals and the cost are all kept.",
     },
     {
       invariantKind: "departure",
