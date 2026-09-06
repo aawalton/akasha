@@ -1,0 +1,12 @@
+diff --git a/pages/views/pages/stories-royal-road.view.ts b/pages/views/pages/stories-royal-road.view.ts
+index 01b91c8ec5e79f90ff253073ad938184663c386a..3fa0f9ece2f5324adaf7eb2dddffc89edac00d8d 100644
+--- a/pages/views/pages/stories-royal-road.view.ts
++++ b/pages/views/pages/stories-royal-road.view.ts
+@@ -6,6 +6,7 @@ export const storiesRoyalRoad = {
+   slug: "stories-royal-road",
+   title: "Royal Road",
+   navSlug: "stories",
++  pageType: "story-read",
+   viewPlace: 1,
+   layout: "list",
+   narrows: [{ key: "source", comparison: "is", values: ["royal-road"] }],
