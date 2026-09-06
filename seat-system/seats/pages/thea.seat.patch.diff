@@ -37,3 +37,22 @@ index 959d27920fcb57e492418480c9f0e51f91e83453..9aa287a8fef2965edc4e8c6373b3903a
  test("a part is matched by the slug it addresses, whatever page type it names", () => {
    const root = rooted()
    typed(root, "held", null, ["mine"], ["number-property/mine"])
+diff --git a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts
+index 4caddac6c3d1e703a48c978ebfd6e9e312b4cf55..62064ebf70a463502e47516d3f7f736bdfe9515a 100644
+--- a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts
++++ b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts
+@@ -51,6 +51,14 @@ export const introducedPropertyIsAPart = {
+       invariantKind: "departure",
+       statement: "A change carrying no page type is passed over before the index is worked out.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A change taking a page type away is judged rather than passed over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page type the change takes away is not itself judged.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Where the property's page stands in the folders is not judged here.",
