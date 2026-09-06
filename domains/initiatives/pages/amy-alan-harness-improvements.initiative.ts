@@ -14,23 +14,10 @@ export const amyAlanHarnessImprovements = {
       statement: "Alan's desktop wallpaper shows the persona he messaged most recently.",
     },
     {
-      statement: "Alan's mobile wallpaper shows the persona he messaged most recently.",
-    },
-    {
       statement:
         "`akasha measure attributes` answers each attribute's total level, floored to two decimals.",
       workingMemory:
         "The figures are the computed properties the total level of each attribute is worked out from, floored rather than rounded to two decimal places.",
-    },
-    {
-      statement: "Every persona has a desktop wallpaper.",
-      workingMemory:
-        "Alan takes a persona's desktop wallpaper to belong on the persona as a file property, so the route delivering a desktop wallpaper reads that file property rather than resolving a cover image.",
-    },
-    {
-      statement: "The route serving Alan's phone reads the persona's mobile wallpaper.",
-      workingMemory:
-        "Written and waiting on a deploy. The route reads the persona's own file property through the pages service rather than the object store, and six tests cover the ordering. A pod reaches `/file` today: nova's picture came back whole inside the running web pod. A pod serves the build from origin main, and the migration keeps commits local, so Alan's phone reaches the old route until that hold lifts.",
     },
     {
       statement: "An attribute's stoplight shows what that attribute has reached.",
