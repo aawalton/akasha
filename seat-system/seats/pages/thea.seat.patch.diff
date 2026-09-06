@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-class/no-class.code-check.code.ts b/checks/code-checks/pages/no-class/no-class.code-check.code.ts
+index d00f91b989ced9b12dde4d81b3f6105c71e69b63..ceb00f22844717569ee3afdf8c7554b56b54a2c4 100644
+--- a/checks/code-checks/pages/no-class/no-class.code-check.code.ts
++++ b/checks/code-checks/pages/no-class/no-class.code-check.code.ts
+@@ -16,6 +16,8 @@ const DERIVED = "getDerivedStateFromError"
+ 
+ const UNNAMED = "an unnamed class"
+ 
++const DECLARED = ".d.ts"
++
+ type Found = {
+   readonly named: string
+   readonly line: number
