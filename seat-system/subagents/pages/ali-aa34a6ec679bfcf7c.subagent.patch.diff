@@ -1,3 +1,327 @@
+diff --git a/alan/library/book-of-everything/commands/ali-coverage/ali-coverage.command.ts b/alan/library/book-of-everything/commands/ali-coverage/ali-coverage.command.ts
+index 97d86ef997e00e0e955c961061efa74bb72d3a9a..146e7739ae1cccb8de9157c2a896b8bffdb1b420 100644
+--- a/alan/library/book-of-everything/commands/ali-coverage/ali-coverage.command.ts
++++ b/alan/library/book-of-everything/commands/ali-coverage/ali-coverage.command.ts
+@@ -12,7 +12,6 @@ export const aliCoverage = {
+     "a topic counts as opened where its status is anything but `unopened`, so a topic scored nought still counts.",
+     "the section count is held against the sections the outline names, so it only climbs.",
+     "the topic count is held against every topic page there is, so opening a topic up can drop it.",
+-    "this says what has been opened; `akasha ali-fold` says how deep what was opened went.",
+   ],
+   invariants: [
+     {
+diff --git a/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.code.ts b/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.code.ts
+deleted file mode 100644
+index 57799041ce4eb35ef0185fb7f52924636f98edfc..0000000000000000000000000000000000000000
+--- a/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.code.ts
++++ /dev/null
+@@ -1,161 +0,0 @@
+-import { join } from "node:path"
+-import {
+-  type ComputedNode,
+-  computeCoverage,
+-  formatScore,
+-  round2,
+-} from "@akasha/book-of-everything/coverage-fold"
+-import { coverageNodeOf, type Topic, topicTreeIn } from "@akasha/book-of-everything/topic-tree"
+-import { landingAsked, mistaking, textAt, wroteAndTook } from "@akasha/command-system/asking"
+-import type { Answer, Given } from "@akasha/command-system/calling"
+-import { refused } from "@akasha/command-system/calling"
+-import type { FileEdit } from "@akasha/command-system/landing"
+-import { listedAt } from "@akasha/indexes"
+-import { besideAt } from "@akasha/pages/page-file-name"
+-import { type Value, valueAt } from "@akasha/pages/page-value"
+-import { composedFor } from "@akasha/pages-service/composing"
+-
+-const INPUT = 1
+-
+-const DATA = 2
+-
+-const DRY_RUN = "--dry-run"
+-
+-const JSON_SAID = "--json"
+-
+-const TOPIC = "learn-everything-topic"
+-
+-const RECORD = "book-record"
+-
+-const DASHBOARD = "book-of-everything-coverage-dashboard"
+-
+-const WRITING = "writing"
+-
+-const MD = "md"
+-
+-const COVERAGE = "coverage"
+-
+-export type Folded = {
+-  readonly topic: Topic
+-  readonly was: number
+-  readonly now: number
+-}
+-
+-export function foldedIn(tree: Topic): readonly Folded[] {
+-  const found: Folded[] = []
+-  const walk = (topic: Topic, held: ComputedNode): undefined => {
+-    found.push({ topic, was: topic.coverage, now: round2(held.c) })
+-    topic.children.forEach((child, at) => {
+-      const under = held.children[at]
+-      if (under !== undefined) walk(child, under)
+-    })
+-    return undefined
+-  }
+-  walk(tree, computeCoverage(coverageNodeOf(tree)))
+-  return found
+-}
+-
+-export function dashboardOf(folded: readonly Folded[]): string {
+-  const byslug = new Map(folded.map((one) => [one.topic.slug, one]))
+-  const root = folded[0]
+-  const lines: string[] = []
+-  lines.push("# Book of Everything — Coverage Dashboard")
+-  lines.push("")
+-  lines.push("<!-- Kept by `akasha ali-fold`. Do not edit by hand. -->")
+-  lines.push("")
+-  lines.push(`**Root coverage (C): ${formatScore(root?.now ?? 0)} / 7**`)
+-  lines.push("")
+-  lines.push("How much of reality Alan's one conceptual model explains, and how well —")
+-  lines.push("the whole tree folded by C(parent) = ½·D + ½·mean(children C). All scores")
+-  lines.push("0–7 to two decimals.")
+-  lines.push("")
+-  lines.push("## By Part")
+-  lines.push("")
+-  lines.push("| # | Part | C |")
+-  lines.push("| --- | --- | --- |")
+-  const parts = root?.topic.children ?? []
+-  parts.forEach((part, at) => {
+-    lines.push(`| ${at + 1} | ${part.title} | ${formatScore(byslug.get(part.slug)?.now ?? 0)} |`)
+-  })
+-  lines.push("")
+-  lines.push("## By Division")
+-  lines.push("")
+-  lines.push("| Part | Division | C |")
+-  lines.push("| --- | --- | --- |")
+-  for (const part of parts) {
+-    for (const division of part.children) {
+-      lines.push(
+-        `| ${part.title} | ${division.title} | ${formatScore(byslug.get(division.slug)?.now ?? 0)} |`
+-      )
+-    }
+-  }
+-  lines.push("")
+-  return lines.join("\n")
+-}
+-
+-function bytesOf(said: string): Uint8Array {
+-  return new TextEncoder().encode(said)
+-}
+-
+-export async function aliFold(argv: readonly string[], given: Given): Promise<Answer> {
+-  const stray = argv.find((one) => one !== DRY_RUN && one !== JSON_SAID)
+-  if (stray !== undefined) return refused(`\`${stray}\` is nothing this takes`, INPUT)
+-  const json = argv.includes(JSON_SAID)
+-  const dryRun = argv.includes(DRY_RUN)
+-
+-  let folded: readonly Folded[]
+-  try {
+-    folded = foldedIn(topicTreeIn(given.root))
+-  } catch (thrown) {
+-    return refused(thrown instanceof Error ? thrown.message : String(thrown), DATA)
+-  }
+-
+-  const moved = folded.filter((one) => one.was !== one.now)
+-  const changes: FileEdit[] = []
+-  for (const one of moved) {
+-    const was = valueAt(one.topic.at, given.root)
+-    if (was === null) {
+-      return refused(`${one.topic.at} would not load, so what it holds is unknown`, DATA)
+-    }
+-    const values: Value = { ...was }
+-    values[COVERAGE] = one.now
+-    const composed = composedFor(given.root, {
+-      pageTypeSlug: TOPIC,
+-      slug: one.topic.slug,
+-      values,
+-    })
+-    if ("refused" in composed) return refused(composed.refused, DATA)
+-    changes.push({ path: composed.put.path, body: bytesOf(composed.put.content) })
+-  }
+-
+-  const listed = listedAt(given.root, RECORD, DASHBOARD)
+-  const at = listed.length === 1 ? listed[0]?.path : undefined
+-  if (at === undefined) return refused(`no ${RECORD} page is filed at \`${DASHBOARD}\``, DATA)
+-  const beside = besideAt(at, WRITING, MD)
+-  if (beside === null) return mistaking([`no \`${WRITING}\` file can sit beside ${at}`])
+-  const drawn = dashboardOf(folded)
+-  if (textAt(join(given.root, beside)) !== drawn) {
+-    changes.push({ path: beside, body: bytesOf(drawn) })
+-  }
+-
+-  const said = json
+-    ? JSON.stringify({
+-        root: folded[0]?.now ?? 0,
+-        topics: folded.length,
+-        moved: moved.map((one) => ({ slug: one.topic.slug, was: one.was, now: one.now })),
+-      })
+-    : `folded ${folded.length} topics; root coverage ${formatScore(folded[0]?.now ?? 0)} / 7; ${moved.length} moved`
+-
+-  if (changes.length === 0) return { report: [said], refusals: [], code: 0 }
+-
+-  const answer = await landingAsked(given, {
+-    changes,
+-    message: "fold the Book of Everything's coverage",
+-    dryRun,
+-    glass: null,
+-    unmoved: [],
+-    saying: wroteAndTook,
+-  })
+-  if (answer.code !== 0) return answer
+-  return { report: json ? [said] : [said, ...answer.report], refusals: [], code: 0 }
+-}
+diff --git a/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.ts b/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.ts
+deleted file mode 100644
+index cdaeb2644977926ed6ee0d87861e095912733bef..0000000000000000000000000000000000000000
+--- a/alan/library/book-of-everything/commands/ali-fold/ali-fold.command.ts
++++ /dev/null
+@@ -1,51 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const aliFold = {
+-  id: "01a06862-5a9b-74e1-858b-d7c1daad27f3",
+-  pageTypeSlug: "command",
+-  slug: "ali-fold",
+-  definition: "the command folding depth up the Book of Everything into every topic's coverage",
+-  code: "ts",
+-  changeKindSlug: "change-mechanical",
+-  taking: [
+-    { said: "--dry-run", takes: "say which topics would change without writing any of them" },
+-    { said: "--json", takes: "give what changed as one line of JSON rather than as lines" },
+-  ],
+-  helpNotes: [
+-    "depth is judged by hand and coverage is never judged, so this works coverage out and writes nothing else.",
+-    "a leaf's coverage is its own depth; a topic above weighs its own depth and the mean of the topics under it equally.",
+-    "a topic whose coverage already reads what the fold works out is left alone, so a settled book writes nothing.",
+-    "the dashboard record is rewritten whole from the fold rather than edited.",
+-    "this is the depth axis; `akasha ali-coverage` says how much has been opened at all.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "Coverage is worked out from depth rather than read from anywhere.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A leaf's coverage is its own depth.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A topic weighs its own depth and the mean of the topics under it equally.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A coverage is held to two decimal places.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A topic already carrying the coverage the fold works out is not written.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The dashboard is written whenever anything is.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here writes a depth or a status.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/alan/library/book-of-everything/commands/book-of-everything-commands.workspace-package.ts b/alan/library/book-of-everything/commands/book-of-everything-commands.workspace-package.ts
+index 22893ec44e3f567f3f5c608205824c34b9dd36fb..99309d4262e277f5571d747d885d3c7299d1da7d 100644
+--- a/alan/library/book-of-everything/commands/book-of-everything-commands.workspace-package.ts
++++ b/alan/library/book-of-everything/commands/book-of-everything-commands.workspace-package.ts
+@@ -8,7 +8,6 @@ export const bookOfEverythingCommands = {
+   manifest: "json",
+   partSlugs: [
+     "command/ali-coverage",
+-    "command/ali-fold",
+     "command/ali-next-unscored",
+     "command/ali-random-leaf",
+     "command/learn-next",
+diff --git a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
+index f11177c8d0fcd499be03c89f759007ff844cd34e..2af454969d15c2ee5daf857032fac3fc1fc8fe23 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
+@@ -7,7 +7,6 @@ import type { Misconceptions } from "./properties/misconceptions.file-property.t
+ import type { TopicCalibration } from "./properties/topic-calibration.number-property.ts"
+ import type { TopicCalibrationRead } from "./properties/topic-calibration-read.text-property.ts"
+ import type { TopicCapture } from "./properties/topic-capture.record-property.ts"
+-import type { TopicCoverage } from "./properties/topic-coverage.number-property.ts"
+ import type { TopicDepth } from "./properties/topic-depth.number-property.ts"
+ import type { TopicEvidence } from "./properties/topic-evidence.file-property.ts"
+ import type { TopicNode } from "./properties/topic-node.text-property.ts"
+@@ -18,7 +17,6 @@ import type { TopicStatus } from "./properties/topic-status.select-property.ts"
+ export type LearnEverythingTopic = Page & {
+   node: TopicNode
+   depth: TopicDepth
+-  coverage: TopicCoverage
+   scoredOn: TopicScoredOn
+   status: TopicStatus
+   partOfSlugs?: TopicPartOfSlugs
+@@ -41,6 +39,7 @@ export const learnEverythingTopic = {
+   extendsSlug: ["page-type/page"],
+   partSlugs: [
+     "calendar-date-property/topic-scored-on",
++    "computed-property/topic-coverage",
+     "file-property/bites",
+     "file-property/frontier",
+     "file-property/integration",
+@@ -49,7 +48,6 @@ export const learnEverythingTopic = {
+     "instant-property/capture-through-at",
+     "number-property/capture-through-line",
+     "number-property/topic-calibration",
+-    "number-property/topic-coverage",
+     "number-property/topic-depth",
+     "record-property/topic-capture",
+     "relation-property/topic-part-of-slugs",
+@@ -62,7 +60,7 @@ export const learnEverythingTopic = {
+   properties: [
+     { pagePropertySlug: "text-property/topic-node", required: true, many: false },
+     { pagePropertySlug: "number-property/topic-depth", required: true, many: false },
+-    { pagePropertySlug: "number-property/topic-coverage", required: true, many: false },
++    { pagePropertySlug: "computed-property/topic-coverage", required: false, many: false },
+     { pagePropertySlug: "calendar-date-property/topic-scored-on", required: true, many: false },
+     { pagePropertySlug: "select-property/topic-status", required: true, many: false },
+     {
+@@ -80,6 +78,7 @@ export const learnEverythingTopic = {
+     { pagePropertySlug: "file-property/bites", required: false, many: false },
+     { pagePropertySlug: "file-property/topic-evidence", required: false, many: false },
+   ],
++  worked: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+@@ -90,6 +89,10 @@ export const learnEverythingTopic = {
+       statement:
+         "A topic's depth is judged by hand and its coverage worked out from beneath that topic.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "A topic states no coverage of its own.",
++    },
+ 
+     {
+       invariantKind: "departure",
+diff --git a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.worked.ts b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.worked.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9ab1bb1d4d353931493632098397805e94409ed2
+--- /dev/null
++++ b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.worked.ts
+@@ -0,0 +1,6 @@
++import type { LearnEverythingTopic } from "./learn-everything-topic.page-type.ts"
++import type { TopicCoverage } from "./properties/topic-coverage.computed-property.ts"
++
++export type WorkedLearnEverythingTopic = LearnEverythingTopic & {
++  coverage?: TopicCoverage
++}
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/01-agriculture-and-food-production/learn-everything-topic-01-agriculture-and-food-production.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/01-agriculture-and-food-production/learn-everything-topic-01-agriculture-and-food-production.learn-everything-topic.ts
 index b9c010c967eed7d3f674a4259120e6bfe2748125..59c09ce2371ab60a73504f55b0e5ed8f9d6fa8b1 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/01-agriculture-and-food-production/learn-everything-topic-01-agriculture-and-food-production.learn-everything-topic.ts
@@ -3250,3 +3574,147 @@ index 2aeae0fae3c2fffa7eca9df0a9f03ec8e27d37ed..aee7c1929a0ce683fd2890b5b67ded70
    scoredOn: "2026-06-19",
    status: "unopened",
  } as const satisfies LearnEverythingTopic
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.computed-property.code.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ce042cd0027e06e9425b11a6544058b2f74def1a
+--- /dev/null
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.computed-property.code.ts
+@@ -0,0 +1,16 @@
++import type { Work } from "@akasha/pages/computed-property"
++import type { WorkedLearnEverythingTopic } from "../learn-everything-topic.page-type.worked.ts"
++
++const UNDER = "topic-part-of-slugs"
++
++type Beneath = { readonly coverage?: number }
++
++// EACH TOPIC BENEATH IS ASKED WHAT IT COVERS RATHER THAN FOLDED AGAIN HERE. One rung is written
++// and the evaluator drives the rest, so no second descent can drift from this one.
++export const work: Work<WorkedLearnEverythingTopic, number> = (page, reach) => {
++  const under = reach.naming<Beneath>(UNDER)
++  if (under.length === 0) return page.depth
++  let total = 0
++  for (const one of under) total += one.coverage ?? 0
++  return 0.5 * page.depth + 0.5 * (total / under.length)
++}
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.computed-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..06b184ec836d69db3cfa8df9e0cbf6bd4a3a64bd
+--- /dev/null
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.computed-property.ts
+@@ -0,0 +1,27 @@
++import type { ComputedProperty } from "@akasha/pages/computed-property"
++
++export type TopicCoverage = number
++
++export const topicCoverage = {
++  id: "01a077f4-79d0-7bb7-8479-4ac07775d561",
++  pageTypeSlug: "computed-property",
++  slug: "topic-coverage",
++  propertySlug: "coverage",
++  definition: "how far Alan has got into a topic and all beneath it",
++  holds: "number",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A leaf's coverage is its own depth.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A branch weighs its own depth and the mean of its children equally.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A topic no coverage is worked out for counts nought in the mean above it.",
++    },
++  ],
++} as const satisfies ComputedProperty
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.number-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.number-property.ts
+deleted file mode 100644
+index b01ba675f529f4d0f9fca86345175fe8e69cd6f3..0000000000000000000000000000000000000000
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-coverage.number-property.ts
++++ /dev/null
+@@ -1,12 +0,0 @@
+-import type { NumberProperty } from "@akasha/pages/number-property"
+-
+-export type TopicCoverage = number
+-
+-export const topicCoverage = {
+-  id: "01a0659f-93da-7002-970e-d7a7d9c73f1b",
+-  pageTypeSlug: "number-property",
+-  slug: "topic-coverage",
+-  propertySlug: "coverage",
+-  definition: "how far Alan has got into a topic and all beneath it",
+-  max: null,
+-} as const satisfies NumberProperty
+diff --git a/alan/library/book-of-everything/package.json b/alan/library/book-of-everything/package.json
+index b42d55ccef2a637dcb4392a8a05fb9b6732474e0..195e6b5e32925332285cf549a9166327e9b2b5aa 100644
+--- a/alan/library/book-of-everything/package.json
++++ b/alan/library/book-of-everything/package.json
+@@ -14,6 +14,7 @@
+   },
+   "dependencies": {
+     "@akasha/indexes": "workspace:*",
+-    "@akasha/pages": "workspace:*"
++    "@akasha/pages": "workspace:*",
++    "@akasha/pages-service": "workspace:*"
+   }
+ }
+diff --git a/alan/library/book-of-everything/topic-tree/topic-tree.module.code.ts b/alan/library/book-of-everything/topic-tree/topic-tree.module.code.ts
+index cc8bd9c8c5937b963b5701a0c1739c27fe5af57d..5700922ee544ac4f34b8740f83cdfabd169e00da 100644
+--- a/alan/library/book-of-everything/topic-tree/topic-tree.module.code.ts
++++ b/alan/library/book-of-everything/topic-tree/topic-tree.module.code.ts
+@@ -1,4 +1,5 @@
+ import { valuesOfType } from "@akasha/indexes"
++import { asking } from "@akasha/pages-service/asking"
+ import type { CoverageNode } from "../coverage-fold/coverage-fold.module.code.ts"
+ import type { StatusNode } from "../coverage-status/coverage-status.module.code.ts"
+ import { displayTitle, type ProfileStatus } from "../node-profile/node-profile.module.code.ts"
+@@ -50,17 +51,31 @@ function parentIn(said: unknown): string | null {
+   return typeof first === "string" ? first : null
+ }
+ 
++// COVERAGE IS WORKED OUT RATHER THAN STORED, SO THE ROWS COME FROM `asking`. A path is no key a
++// row carries, so the paths a topic sorts and reports by are read from the index alongside.
++function pathsIn(root: string): ReadonlyMap<string, string> {
++  const found = new Map<string, string>()
++  for (const one of valuesOfType(root, TOPIC)) {
++    const slug = one.value["slug"]
++    if (typeof slug === "string") found.set(slug, one.path)
++  }
++  return found
++}
++
+ export function rowsIn(root: string): readonly Row[] {
+-  return valuesOfType(root, TOPIC).flatMap((one) => {
+-    const held = one.value as Record<string, unknown>
++  const asked = asking(root, { pageTypeSlug: TOPIC })
++  if ("refused" in asked) return failing(asked.refused)
++  const paths = pathsIn(root)
++  return asked.rows.flatMap((held) => {
+     const slug = held["slug"]
+     if (typeof slug !== "string") return []
++    const at = paths.get(slug) ?? slug
+     const label = held["node"]
+     return [
+       {
+         slug,
+-        at: one.path,
+-        order: orderOf(one.path),
++        at,
++        order: orderOf(at),
+         label: typeof label === "string" ? label : slug,
+         depth: numberOf(held["depth"]),
+         coverage: numberOf(held["coverage"]),
+diff --git a/bun.lock b/bun.lock
+index 8305cfac05a008f941a1fe5dca651dd299eee9d3..e327b09593c48110b790d03fd1b7d90df8af1dfc 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -202,6 +202,7 @@
+       "dependencies": {
+         "@akasha/indexes": "workspace:*",
+         "@akasha/pages": "workspace:*",
++        "@akasha/pages-service": "workspace:*",
+       },
+     },
+     "alan/library/book-of-everything/commands": {
