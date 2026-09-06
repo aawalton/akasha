@@ -77,6 +77,10 @@ export const index = {
       statement: "The report names the files the index differed in as well as counting the files.",
     },
     {
+      invariantKind: "departure",
+      statement: "The report counts the files under each index the difference falls in.",
+    },
+    {
       invariantKind: "absence",
       statement: "A refresh writes nothing tracked and makes no commit.",
     },

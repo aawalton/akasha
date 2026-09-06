@@ -18,7 +18,7 @@ import { textProperty } from "@akasha/pages/text-property"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { DATA, INPUT, OK, OPERATIONAL } from "../../cli/cli.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
-import { index, readIn } from "./index.command.code.ts"
+import { classed, index, readIn } from "./index.command.code.ts"
 import { index as indexCommand } from "./index.command.ts"
 
 const TREE = "."
@@ -252,6 +252,19 @@ test("the files the index differed in are named rather than only counted", () =>
   expect(answer.code).toBe(OK)
   expect(said(answer)).toContain("taken away — ")
   expect(said(answer)).toContain(".jsonl")
+})
+
+test("the paths a difference holds are counted under the index each is filed in", () => {
+  expect(classed(["path/a.jsonl", "value/c.jsonl", "path/b.jsonl"])).toBe("path 2, value 1")
+})
+
+test("the report counts the indexes a difference falls under beside the files it names", () => {
+  const root = repoAt()
+  seeded(root)
+  listedUnreadableFiled(root, "domain", "gone")
+  const answer = index(["refresh", "--dry-run"], givenAt(root))
+  expect(answer.code).toBe(OK)
+  expect(said(answer)).toMatch(/taken away — \S+ \d+ — /)
 })
 
 test("a dry run names a path belonging to no index and leaves that path alone", () => {

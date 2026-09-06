@@ -19,6 +19,8 @@ const DOMAIN_AT = "akasha.domain.ts"
 
 const SHOWN = 5
 
+const PARTED_BY = "/"
+
 const UNCHANGED = "the index stands as it did, and nothing was put in its place"
 
 const COMMITTING = new Map<string, string>([
@@ -77,6 +79,22 @@ export function named(paths: readonly string[]): string {
   return paths.length > SHOWN ? `${shown}, and ${paths.length - SHOWN} more` : shown
 }
 
+// A few paths out of a hundred say which folder the first few sort under and nothing about the
+// rest. The index a path is filed under is the first part of that path, so counting the paths under
+// each index says what the whole difference is made of at the cost of one line.
+export function classed(paths: readonly string[]): string {
+  const many = new Map<string, number>()
+  for (const one of paths) {
+    const cut = one.indexOf(PARTED_BY)
+    const held = cut < 0 ? one : one.slice(0, cut)
+    many.set(held, (many.get(held) ?? 0) + 1)
+  }
+  return [...many]
+    .sort((first, next) => next[1] - first[1] || first[0].localeCompare(next[0]))
+    .map(([held, count]) => `${held} ${count}`)
+    .join(", ")
+}
+
 export function driftSaid(drift: Drift): readonly string[] {
   const many = drift.added.length + drift.changed.length + drift.went.length
   if (many === 0) return ["nothing in the index differed from what the pages say"]
@@ -86,9 +104,15 @@ export function driftSaid(drift: Drift): readonly string[] {
       `${counted(drift.changed.length, "file")} changed, ` +
       `${counted(drift.went.length, "file")} taken away`,
   ]
-  if (drift.added.length > 0) said.push(`added — ${named(drift.added)}`)
-  if (drift.changed.length > 0) said.push(`changed — ${named(drift.changed)}`)
-  if (drift.went.length > 0) said.push(`taken away — ${named(drift.went)}`)
+  if (drift.added.length > 0) {
+    said.push(`added — ${classed(drift.added)} — ${named(drift.added)}`)
+  }
+  if (drift.changed.length > 0) {
+    said.push(`changed — ${classed(drift.changed)} — ${named(drift.changed)}`)
+  }
+  if (drift.went.length > 0) {
+    said.push(`taken away — ${classed(drift.went)} — ${named(drift.went)}`)
+  }
   return said
 }
 
