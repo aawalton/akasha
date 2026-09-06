@@ -1,3 +1,77 @@
+diff --git a/command-system/argument-reading/argument-reading.module.ts b/command-system/argument-reading/argument-reading.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7f88bc4a202587dd5b266c48180502d0c2e87b7b
+--- /dev/null
++++ b/command-system/argument-reading/argument-reading.module.ts
+@@ -0,0 +1,68 @@
++import type { Module } from "@akasha/code/module"
++
++export const argumentReading = {
++  id: "01a077ef-5905-7fba-b8f0-ebffbf6d80d8",
++  pageTypeSlug: "module",
++  slug: "argument-reading",
++  definition: "the arguments a change is handed, read from what a caller wrote on standard input",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A caller writes a change's arguments on standard input rather than as flags.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A scalar argument is a key and the rest of the line after that key's colon.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body argument is a key and the fence that body ends at.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A fence is the word the caller picks rather than a word this module fixes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body holds each line up to the fence.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A line in a body keeps its newline.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Nothing in a body is escaped.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Nothing in a body is counted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body no fence closes refuses the whole reading.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A key written twice refuses the whole reading.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A line of neither form refuses the whole reading.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a file or reaches an index.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Which arguments a change takes is answered by that change rather than here.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A body holding the fence the caller picked ends at that line early.",
++    },
++  ],
++} as const satisfies Module
 diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
 index a16a5e9a2b9dd93d1c3c7430d0f079c6d07c036e..62d862519f469ca4d054c0edab90138b2f8f27b7 100644
 --- a/command-system/command-system.workspace-package.ts
