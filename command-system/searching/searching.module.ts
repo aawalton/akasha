@@ -22,7 +22,7 @@ export const searching = {
     },
     {
       invariantKind: "departure",
-      statement: "An argument disagreeing with a default is the one that holds.",
+      statement: "An argument disagreeing with a default is the value that holds.",
     },
     {
       invariantKind: "departure",
