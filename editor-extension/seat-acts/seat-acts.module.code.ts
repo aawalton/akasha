@@ -28,8 +28,7 @@ async function runSeat(args: readonly string[]): Promise<undefined> {
 }
 
 async function attachTerminal(seat: ToggleTarget, line: string): Promise<undefined> {
-  const { seatNames, psRows, tmuxClients } = await readSeatLookup()
-  const column = await columnForSeat(seat, seatNames, psRows, tmuxClients)
+  const column = await columnForSeat(seat, readSeatLookup() ?? new Map<number, string>())
   output.appendLine(`[attach] ${seat.name}: terminal in column ${column.column} (${column.reason})`)
   const terminal = vscode.window.createTerminal(seatTerminalOptions(seat.name, column.column))
   terminal.sendText(line)

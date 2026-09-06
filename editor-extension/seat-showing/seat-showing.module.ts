@@ -37,7 +37,7 @@ export const seatShowing = {
     },
     {
       invariantKind: "departure",
-      statement: "A sweep that reads no process rows finds no terminal for any seat.",
+      statement: "A lookup holding no seat finds no terminal for any seat.",
     },
     {
       invariantKind: "absence",

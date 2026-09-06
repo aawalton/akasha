@@ -10,7 +10,15 @@ export const seatTerminals = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A terminal is matched to a seat through the process running in that terminal.",
+      statement: "A terminal is matched to a seat by the shell that terminal answers with.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seat each shell works in is read off the file the service writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file that could not be read is told apart from a file naming no seat.",
     },
     {
       invariantKind: "departure",
@@ -22,19 +30,15 @@ export const seatTerminals = {
     },
     {
       invariantKind: "departure",
-      statement: "A sweep that reads no process rows looks up no seat name.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The seat names and the tmux clients are read within one call.",
-    },
-    {
-      invariantKind: "departure",
       statement: "How long the sweep took is answered with the seats the sweep found.",
     },
     {
       invariantKind: "absence",
       statement: "Nothing here remembers a column.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No child process is started here.",
     },
   ],
 } as const satisfies Module

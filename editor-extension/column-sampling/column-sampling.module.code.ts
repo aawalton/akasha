@@ -14,11 +14,11 @@ export async function sampleColumns(
   trigger: string,
   feature: string
 ): Promise<readonly SeatTerminal[] | undefined> {
-  const { seatNames, psRows, tmuxClients } = await readSeatLookup()
-  if (psRows.length === 0) {
+  const seatByShellPid = readSeatLookup()
+  if (seatByShellPid === null) {
     return undefined
   }
-  const { seats, sweep, counted, ms } = await readSeatTerminals(seatNames, psRows, tmuxClients)
+  const { seats, sweep, counted, ms } = await readSeatTerminals(seatByShellPid)
   columns.record(seats)
   const placed = seats.filter((s) => s.column !== undefined).length
   recordSweep(feature, { ...counted, boundMs: PROCESS_ID_TIMEOUT_MS, ms, trigger })

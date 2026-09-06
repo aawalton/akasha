@@ -37,7 +37,7 @@ export const editorLayoutPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A window whose ps snapshot is empty is read with no seat named.",
+      statement: "A window that could not read the seats is read with no seat named.",
     },
     {
       invariantKind: "departure",

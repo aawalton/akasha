@@ -65,13 +65,9 @@ async function write(trigger: string): Promise<undefined> {
 async function readGroups(): Promise<readonly LayoutGroup[]> {
   const seatByTerminal = new Map<vscode.Terminal, string>()
   const processByTerminal = new Map<vscode.Terminal, string>()
-  const { seatNames, psRows, tmuxClients } = await readSeatLookup()
-  if (psRows.length > 0) {
-    const { seats, counted, ms, pidByTerminal } = await readSeatTerminals(
-      seatNames,
-      psRows,
-      tmuxClients
-    )
+  const seatByShellPid = readSeatLookup()
+  if (seatByShellPid !== null) {
+    const { seats, counted, ms, pidByTerminal } = await readSeatTerminals(seatByShellPid)
     recordSweep(FEATURE, { ...counted, boundMs: PROCESS_ID_TIMEOUT_MS, ms, trigger: "write" })
     for (const seat of seats) {
       seatByTerminal.set(seat.terminal, seat.name)

@@ -9,7 +9,7 @@ export const columnSampling = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A sweep reading no process rows answers nothing and records nothing.",
+      statement: "A sweep that could not read the seats answers nothing and records nothing.",
     },
     {
       invariantKind: "departure",
