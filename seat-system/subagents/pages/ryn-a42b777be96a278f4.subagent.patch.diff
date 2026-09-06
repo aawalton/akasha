@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/indexes/reaching/reaching.module.ts b/pages/indexes/reaching/reaching.module.ts
-index 3960f00eb1eef6ecee8f5caff8a5d772b59a74bb..4958214c08db4df4edc367788dcbb07d8edc579a 100644
+index 3960f00eb1eef6ecee8f5caff8a5d772b59a74bb..3439224f590ea388e148c65e6969df6689471f5a 100644
 --- a/pages/indexes/reaching/reaching.module.ts
 +++ b/pages/indexes/reaching/reaching.module.ts
 @@ -23,7 +23,8 @@ export const reaching = {
@@ -52,6 +52,16 @@ index 3960f00eb1eef6ecee8f5caff8a5d772b59a74bb..4958214c08db4df4edc367788dcbb07d
        invariantKind: "departure",
 -      statement: "A name stating none is judged by every target its property declares.",
 +      statement: "A name stating no page type is judged by every target its property declares.",
+     },
+     {
+       invariantKind: "departure",
+@@ -90,7 +92,8 @@ export const reaching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page's `id`, `slug` and `pageTypeSlug` are answered as that page's identity.",
++      statement:
++        "A page's `id` and `slug` and `pageTypeSlug` are answered as that page's identity.",
      },
      {
        invariantKind: "departure",
