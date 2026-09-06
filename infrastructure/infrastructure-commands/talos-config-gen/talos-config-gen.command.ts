@@ -26,7 +26,11 @@ export const talosConfigGen = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The node is named as a word or after `--node`, and naming both is refused.",
+      statement: "The node is named as a word or after `--node`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Naming the node twice is refused.",
     },
     {
       invariantKind: "departure",
