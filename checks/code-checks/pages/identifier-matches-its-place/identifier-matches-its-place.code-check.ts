@@ -27,10 +27,6 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "absence",
-      statement: "A name outside akasha is passed over.",
-    },
-    {
-      invariantKind: "absence",
       statement: "A name a declaration file states is passed over.",
     },
     {
@@ -118,7 +114,7 @@ export const identifierMatchesItsPlace = {
     },
     {
       invariantKind: "departure",
-      statement: "The name passed over is the one the file's stem makes.",
+      statement: "The name passed over is the name the file's stem makes.",
     },
     {
       invariantKind: "departure",
