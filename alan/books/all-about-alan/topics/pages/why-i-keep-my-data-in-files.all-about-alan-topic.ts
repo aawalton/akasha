@@ -14,5 +14,4 @@ export const whyIKeepMyDataInFiles = {
   ],
   settled:
     "A database assumes you know exactly what you are looking for.\n\nA file system with grep assumes you do not know exactly what you are looking for, which is a much better fit for this case.\n\nI built a fully file-backed database from scratch and did a lift and shift of about three hundred tables out of Postgres into it.\n\nAll that context is now just a grep away.",
-  unsettled: "Whether the win is grep itself or the shape I gave the files is not separated.",
 } as const satisfies AllAboutAlanTopic
