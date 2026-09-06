@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-items-rules-matcher/temper-items-rules-matcher.workspace-package.ts b/temper/temper-items-rules-matcher/temper-items-rules-matcher.workspace-package.ts
+index 8a858a6fc9ed1ca07cee9702a7e1ea26b946b36e..9d1d96a98ff8fe8f06d434caf68b5fcf051ef584 100644
+--- a/temper/temper-items-rules-matcher/temper-items-rules-matcher.workspace-package.ts
++++ b/temper/temper-items-rules-matcher/temper-items-rules-matcher.workspace-package.ts
+@@ -27,7 +27,7 @@ export const temperItemsRulesMatcher = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A matcher answers which items each rule takes and how many.",
++      statement: "A matcher answers which items each rule takes and how many items.",
+     },
+     {
+       invariantKind: "absence",
