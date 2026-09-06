@@ -1,0 +1,14 @@
+diff --git a/service-system/secrets/pages/cloudflared-creds-credentials-json.secret.ts b/service-system/secrets/pages/cloudflared-creds-credentials-json.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7b901e0f6e0f0a2508909b334267a3f36b4743dc
+--- /dev/null
++++ b/service-system/secrets/pages/cloudflared-creds-credentials-json.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const cloudflaredCredsCredentialsJson = {
++  id: "01a07698-6c93-79fd-bedd-3d2b46bcebbf",
++  pageTypeSlug: "secret",
++  slug: "cloudflared-creds-credentials-json",
++  placements: [{ resourceName: "cloudflared-creds", resourceKey: "credentials.json" }],
++} as const satisfies Secret
