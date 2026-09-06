@@ -9,7 +9,8 @@ export const inboxes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A daily inbox of a hundred or more is black rather than a reading gone missing.",
+      statement:
+        "A daily inbox of at least a hundred readings is black rather than a reading gone missing.",
     },
     {
       invariantKind: "departure",
