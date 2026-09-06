@@ -55,7 +55,7 @@ export const population = {
     },
     {
       invariantKind: "departure",
-      statement: "A population is made here rather than by a caller declaring one.",
+      statement: "A population is made here rather than by a caller declaring a population.",
     },
   ],
 } as const satisfies Module
