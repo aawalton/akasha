@@ -24,7 +24,8 @@ export const relationProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "Two edges meaning different things are two relations though both reach one type.",
+      statement:
+        "Two edges meaning different things are two relations though each edge reaches one type.",
     },
   ],
 } as const satisfies PageType
