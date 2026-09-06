@@ -51,6 +51,17 @@ test("the four folders left out are read by nothing", () => {
   ).toEqual(["a.module.ts"])
 })
 
+test("a folder named for the quarantine below the top is read", () => {
+  const root = treeOf([`${QUARANTINE_ROOT}/a.module.ts`, `under/${QUARANTINE_ROOT}/b.module.ts`])
+
+  expect(
+    under(
+      root,
+      walkedUnder(root, () => true)
+    )
+  ).toEqual([`under/${QUARANTINE_ROOT}/b.module.ts`])
+})
+
 test("a page is a file whose page type the tree itself declares", () => {
   const root = treeOf(["module.page-type.ts", "a.module.ts", "b.widget.ts"])
 

@@ -31,6 +31,14 @@ export const treeReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The quarantine is left out only where it sits at the top of the tree.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder deeper down carrying that name holds pages, and is read.",
+    },
+    {
+      invariantKind: "departure",
       statement: "`.server/` under a router app holds module pages a dot rule would drop.",
     },
     {
