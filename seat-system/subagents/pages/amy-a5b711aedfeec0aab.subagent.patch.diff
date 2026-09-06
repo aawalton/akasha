@@ -1,3 +1,17 @@
+diff --git a/readout-system/readout-widgets/pages/alanwalton-surplus.readout-widget.ts b/readout-system/readout-widgets/pages/alanwalton-surplus.readout-widget.ts
+index f3740c93e665745f40f0ab3febcae3ce3c31bdd3..152f945fbb8ea5bef0c6342a72000a90b40e4ffd 100644
+--- a/readout-system/readout-widgets/pages/alanwalton-surplus.readout-widget.ts
++++ b/readout-system/readout-widgets/pages/alanwalton-surplus.readout-widget.ts
+@@ -13,7 +13,8 @@ export const alanwaltonSurplus = {
+   caption: "Surplus",
+   galleryName: "Surplus",
+   galleryDescription: "Hours of sleep left after what your day cost.",
+-  opens: "capacitor://localhost/nav/tracking-690c624f?tab=20f5f031-8fa1-44d2-be3a-561b457548f1",
++  opens:
++    "capacitor://localhost/nav/tracking-690c624f?tab=20f5f031-8fa1-44d2-be3a-561b457548f1#widget=alanwalton-surplus",
+   groupSlugs: ["surplus"],
+   place: 10,
+ } as const satisfies ReadoutWidget
 diff --git a/readout-system/readout-widgets/pages/alanwalton-upkeep-stoplights.readout-widget.ts b/readout-system/readout-widgets/pages/alanwalton-upkeep-stoplights.readout-widget.ts
 index b6b83b22e27a590de39b35949cf046df3da31c25..e88407feb7939988b5c367012cb6d28785fcd805 100644
 --- a/readout-system/readout-widgets/pages/alanwalton-upkeep-stoplights.readout-widget.ts
