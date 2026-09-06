@@ -5,6 +5,6 @@ export const wisdom = {
   pageTypeSlug: "attribute",
   slug: "wisdom",
   definition: "what Alan has built by learning about himself",
-  pointUnit: "10,000 net words added to an all-about-alan topic",
+  pointUnit: "10,000 words added to an all-about-alan topic",
   lifetimePoints: 0,
 } as const satisfies Attribute
