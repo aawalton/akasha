@@ -1,0 +1,86 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-flipped-each-theory-i-held.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-flipped-each-theory-i-held.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..daaf28ee5e81847e80065e5b8c709fbd3ffa89c6
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-flipped-each-theory-i-held.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatFlippedEachTheoryIHeld = {
++  id: "01a077e4-c71c-71b9-a047-bcbe59f48296",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-flipped-each-theory-i-held",
++  topicSlug: "how-i-know-things",
++  ask: "Beyond the two flipped-theory cases on record, what were the other phases I went through and what flipped each phase?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-i-measure-novelty-against.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-i-measure-novelty-against.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..14e38374d1a1e224aff1ba19a8c8d57a5bfcd4ed
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-i-measure-novelty-against.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatIMeasureNoveltyAgainst = {
++  id: "01a077e4-c71d-7893-b4b2-d210706ce647",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-i-measure-novelty-against",
++  topicSlug: "how-i-know-things",
++  ask: "What do I measure novelty against: stored attempts, or distance from my model?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-probability-i-state-is-graded.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-probability-i-state-is-graded.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..25862765b264d72c0864b9ca914e307e08e1fc5a
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-probability-i-state-is-graded.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAProbabilityIStateIsGraded = {
++  id: "01a077e4-c71d-72b9-9101-e6caffc69aca",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-probability-i-state-is-graded",
++  topicSlug: "how-i-know-things",
++  ask: "Does a probability I state carry graded weight, or does the probability collapse to a binary?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-an-inconsistency-grips-me-twice.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-an-inconsistency-grips-me-twice.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..095938b42232efef20f5a7445040309e8285b084
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-an-inconsistency-grips-me-twice.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAnInconsistencyGripsMeTwice = {
++  id: "01a077e4-c71d-72e9-8743-a5a1d7b4e9bb",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-an-inconsistency-grips-me-twice",
++  topicSlug: "how-i-know-things",
++  ask: "When I meet the same inconsistency later, does the grip re-form, or does something in me remember the inconsistency was already flagged?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-storing-concepts-causes-how-i-know.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-storing-concepts-causes-how-i-know.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b86bb393a0367065b9af8411643f11cd0c3c9115
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-storing-concepts-causes-how-i-know.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherStoringConceptsCausesHowIKnow = {
++  id: "01a077e4-c71b-7054-ba59-ce59dcf5daf3",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-storing-concepts-causes-how-i-know",
++  topicSlug: "how-i-know-things",
++  ask: "Does storing concepts rather than pictures cause how I know things, or does the storing merely sit beside how I know things?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-know-things.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-know-things.all-about-alan-topic.ts
+index b4c3346b1a80f635bc164bb25d7aa087df2fb5a1..70d98b2f5fa0f00a5ed322ea83ebacbce74764b3 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-know-things.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-know-things.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const howIKnowThings = {
+   parentSlugs: ["alan"],
+   settled:
+     "I keep concepts rather than particulars, folded into one present model.\n\nThe test on a belief is how compactly it accounts for things, which recently replaced coherence.\n\nAn inconsistency grips me while I am looking at it and lets go when my attention moves off.\n\nElegance is not a second signal beside truth. A neat model I know is false pays me nothing.\n\nA model has to fit in my head before it changes what I do, so concise beats complete.",
+-  unsettled:
+-    "Whether storing concepts rather than pictures causes this, or merely sits beside it, is unprobed.\n\nTwo flipped-theory cases are on record. The other phases, and what flipped each, are uncaptured.\n\nMeeting the same inconsistency later, whether the grip re-forms or something remembers it was flagged, is open.\n\nWhat novelty is measured against is unresolved: stored attempts, or distance from the model.\n\nWhether a probability I state carries graded weight or collapses to a binary is untested.",
+ } as const satisfies AllAboutAlanTopic
