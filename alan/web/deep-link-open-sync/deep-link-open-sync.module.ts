@@ -31,5 +31,18 @@ export const deepLinkOpenSync = {
       invariantKind: "departure",
       statement: "A link the listener already carried is not carried again as the launch link.",
     },
+    {
+      invariantKind: "departure",
+      statement:
+        "The link the app was launched by is counted once however many readers take that link.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "One link arriving twice at startup reads as two identical links arriving.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "The second of two identical links at startup is counted as no tap of its own.",
+    },
   ],
 } as const satisfies Module

@@ -47,12 +47,21 @@ export function DeepLinkOpenSync() {
       return
     }
 
+    // A COLD LAUNCH CAN DELIVER ONE TAP TWICE. The link the app was launched by reaches both
+    // readers below, and which of the two is handed that link first is the plugin's to decide. So
+    // each reader knows what the other took: the launch read is skipped where the listener already
+    // carried the link, and the listener spends a one-shot the launch read leaves behind. A later
+    // tap on the same widget finds the one-shot spent and counts, which a plain equality test
+    // between the two links would have swallowed.
     let carried: string | null = null
+    let launchRepeat: string | null = null
 
     const route = (url: string | null | undefined, source: string) => {
       if (url == null) return
+      const repeats = url === launchRepeat
+      launchRepeat = null
       carried = url
-      countTap(url)
+      if (!repeats) countTap(url)
       const path = decideOpenUrlRoute(url)
       if (path == null) {
         console.warn(`[deep-link] ${source} with no routable path`, url)
@@ -71,12 +80,12 @@ export function DeepLinkOpenSync() {
       if (removed) void h.remove()
       else handle = h
       try {
-        // A COLD LAUNCH CAN DELIVER ONE TAP TWICE. The listener is registered before the launch
-        // link is read, so a link the listener already carried is also the link `getLaunchUrl`
-        // answers. Routing twice to one path lands in one place and hides that; a count does not.
         const launch = await plugin.getLaunchUrl()
-        const launched = launch?.url ?? null
-        if (launched !== carried) route(launched, "getLaunchUrl")
+        const link = launch?.url ?? null
+        if (link !== null && link !== carried) {
+          route(link, "getLaunchUrl")
+          launchRepeat = link
+        }
       } catch (error: unknown) {
         console.error("[deep-link] getLaunchUrl threw", error)
       }
