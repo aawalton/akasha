@@ -40,3 +40,19 @@ index eaaee56d4286324675a0fc055ea8ebd6901ab571..523e6af156b934328e3a7f5c9be58ea7
 +    'export const held = {\n  pageTypeSlug: "instant-property",\n  slug: "created",\n} as const\n'
 +  expect(judge(beside(body))).toEqual([])
 +})
+diff --git a/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.ts b/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.ts
+index 6fa671d2c80d0a0067c730453b08d4b88eb962bb..1547b7fad53c9e4aeb5243e17f230f87b77c79ee 100644
+--- a/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.ts
++++ b/checks/code-checks/pages/instant-property-slug-closes-with-at/instant-property-slug-closes-with-at.code-check.ts
+@@ -26,6 +26,11 @@ export const instantPropertySlugClosesWithAt = {
+       invariantKind: "absence",
+       statement: "A file holding no page value is not judged.",
+     },
++    {
++      invariantKind: "absence",
++      statement:
++        "A file whose own name states no page type under `instant-property` is not judged.",
++    },
+     {
+       invariantKind: "absence",
+       statement:
