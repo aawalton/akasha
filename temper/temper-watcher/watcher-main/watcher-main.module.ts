@@ -138,19 +138,19 @@ export const watcherMain = {
     },
     {
       invariantKind: "departure",
-      statement: "The worker module hands this one a dispatch.",
+      statement: "The worker module hands this module a dispatch.",
     },
     {
       invariantKind: "departure",
-      statement: "The worker module hands this one the session the account is read from.",
+      statement: "The worker module hands this module the session the account is read from.",
     },
     {
       invariantKind: "departure",
-      statement: "The worker module beside this one builds and runs this module.",
+      statement: "The worker module beside this module builds and runs this module.",
     },
     {
       invariantKind: "departure",
-      statement: "The worker the systemd unit starts is the worker module beside this one.",
+      statement: "The worker the systemd unit starts is the worker module beside this module.",
     },
   ],
 } as const satisfies Module
