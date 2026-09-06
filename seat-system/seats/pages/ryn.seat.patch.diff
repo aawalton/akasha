@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-items-rules-core/stock-reconcile-plan/stock-reconcile-plan.module.ts b/temper/temper-items-rules-core/stock-reconcile-plan/stock-reconcile-plan.module.ts
+index 69c8476e47698cda19dad27f498e26f5f314621b..8daff704908a57c9fb1a3bc94a157afb7a81501a 100644
+--- a/temper/temper-items-rules-core/stock-reconcile-plan/stock-reconcile-plan.module.ts
++++ b/temper/temper-items-rules-core/stock-reconcile-plan/stock-reconcile-plan.module.ts
+@@ -9,7 +9,7 @@ export const stockReconcilePlan = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A shortfall draws no more than the open storage tier can give.",
++      statement: "A shortfall draws no larger amount than the open storage tier can give.",
+     },
+     {
+       invariantKind: "departure",
