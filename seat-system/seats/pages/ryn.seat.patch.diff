@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/modules/check-scratch/check-scratch.module.ts b/checks/modules/check-scratch/check-scratch.module.ts
+index 0c58d27ac114364fbea50079df8f331bc6dee496..21183fbb6279f692e38effdb49c3a8e07b23ebdb 100644
+--- a/checks/modules/check-scratch/check-scratch.module.ts
++++ b/checks/modules/check-scratch/check-scratch.module.ts
+@@ -31,7 +31,7 @@ export const checkScratch = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reading naming none refuses rather than answering empty.",
++      statement: "A reading naming nothing refuses rather than answering empty.",
+     },
+     {
+       invariantKind: "departure",
