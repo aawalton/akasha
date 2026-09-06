@@ -1,3 +1,17 @@
+diff --git a/command-system/commands/domain-tree/domain-tree.command.code.ts b/command-system/commands/domain-tree/domain-tree.command.code.ts
+index 7db23551cd4b63679b998da2d85c5bd2b1a24036..f632110a76217a7b5e36d1da00ff4305d4f795e5 100644
+--- a/command-system/commands/domain-tree/domain-tree.command.code.ts
++++ b/command-system/commands/domain-tree/domain-tree.command.code.ts
+@@ -5,8 +5,8 @@ import { AUTHOR } from "@akasha/command-system/committing"
+ import { whyOf } from "@akasha/command-system/fault-saying"
+ import { writerIn } from "@akasha/command-system/reading"
+ import { rootOf } from "@akasha/command-system/rooting"
++import { type DomainRow as Drawn, domainsDrawn } from "@akasha/domains/domain-rows"
+ import { championTree, type DomainRow } from "@akasha/editor-extension/champions-tree"
+-import { type DomainRow as Drawn, domainsDrawn } from "@akasha/editor-extension/panel-domains"
+ 
+ // A domain as the panel reads it, said as the tree wants it. The two spell the path differently and
+ // agree on the rest.
 diff --git a/domains/domain.workspace-package.ts b/domains/domain.workspace-package.ts
 index 480577f989cd4aca74faac5cd4512f2ec93e3543..8fd93de361db96d651477274d2cb074a08258ca2 100644
 --- a/domains/domain.workspace-package.ts
