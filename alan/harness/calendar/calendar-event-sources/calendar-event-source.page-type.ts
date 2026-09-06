@@ -77,7 +77,7 @@ export const calendarEventSource = {
     },
     {
       invariantKind: "absence",
-      statement: "A source says nothing about the changes since the last pass.",
+      statement: "A source says nothing about the changes after the last reading.",
     },
     {
       invariantKind: "departure",
