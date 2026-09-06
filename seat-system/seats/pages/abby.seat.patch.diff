@@ -46,20 +46,6 @@ index 0000000000000000000000000000000000000000..a69e2466d5f5064488a65b1182eea350
 +    },
 +  ],
 +} as const satisfies PageType
-diff --git a/alan/books/all-about-alan/questions/pages/whether-i-store-a-thing-with-its-room.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-i-store-a-thing-with-its-room.all-about-alan-question.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..3e5c749f738aa0e8bc0fa48c9f69b86ea99c8a20
---- /dev/null
-+++ b/alan/books/all-about-alan/questions/pages/whether-i-store-a-thing-with-its-room.all-about-alan-question.ts
-@@ -0,0 +1,8 @@
-+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
-+
-+export const whetherIStoreAThingWithItsRoom = {
-+  pageTypeSlug: "all-about-alan-question",
-+  slug: "whether-i-store-a-thing-with-its-room",
-+  topicSlug: "how-i-remember-anything",
-+  ask: "Most people store a thing together with the room they learned it in and I do not. Does that absence reach past skills and imagery?",
-+} as const satisfies AllAboutAlanQuestion
 diff --git a/alan/books/all-about-alan/questions/properties/open-question.text-property.ts b/alan/books/all-about-alan/questions/properties/open-question.text-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..3d057c33b88421960ee42b18244506517a4be85a
