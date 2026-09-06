@@ -26,6 +26,7 @@ export const change = {
     "page-type/refactor-change",
     "page-type/change-partial",
     "page-type/change-command",
+    "page-type/change-runner",
     "page-type/workflow-template",
     "page-type/change-kind",
     "workspace-package/workflow-language",
