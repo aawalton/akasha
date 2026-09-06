@@ -3,7 +3,7 @@ import { join, resolve } from "node:path"
 import { compiled, readingOf, typed, typingOver } from "@akasha/code/code-typing"
 import { reachingInto } from "@akasha/graph/graph-asking"
 import { importEdge } from "@akasha/graph/import-edge"
-import { everyPath, listedAt, readingIn } from "@akasha/indexes"
+import { everyPath, readingIn } from "@akasha/indexes"
 import { uncommittedNamed } from "@akasha/pages/page-file-name"
 import { shadowAt } from "@akasha/pages/shadow"
 import { repointed } from "../../../changes/partial/pages/repoint-imports/repoint-imports.change-partial.code.ts"
@@ -12,7 +12,7 @@ import {
   spellingOf,
 } from "../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import type { Asked } from "../../asking/asking.module.code.ts"
-import { counted, landingAsked, textOf } from "../../asking/asking.module.code.ts"
+import { counted, DRY_RUN, landingAsked, textOf } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
@@ -20,7 +20,6 @@ import type { FileCarry, FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import type { Carry as Reading } from "../../reading/reading.module.code.ts"
 import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
-import { move } from "../move/move.command.code.ts"
 import { glassIn, messageIn } from "../write/write.command.code.ts"
 import {
   AT,
@@ -34,8 +33,8 @@ import {
 import { keyingFor, keyLanded } from "./key-respelling/key-respelling.module.code.ts"
 import { bodyTextOf, respelledLanded, were } from "./landing/refactor-landing.module.code.ts"
 import { packageLanded } from "./package-renaming/package-renaming.module.code.ts"
+import { pageLanded } from "./page-renaming/page-renaming.module.code.ts"
 import { retypeLanded } from "./page-retyping/page-retyping.module.code.ts"
-import { pairFor, passedOn } from "./slug-renaming/slug-renaming.module.code.ts"
 import type { Tokening } from "./token-renaming/token-renaming.module.code.ts"
 import {
   bindingFor,
@@ -371,12 +370,13 @@ export async function refactor(argv: readonly string[], given: Given): Promise<A
       const said = `a page slug rename takes ${FROM} and ${TO}, and one of them was not said`
       return answering([], [said], 1)
     }
-    if (read.said.has(PLURAL)) {
-      return answering([], [`${PLURAL} names a page type's plural, and a page carries none`], 1)
+    if (read.dryRun) {
+      const said =
+        `a page slug rename takes no ${DRY_RUN} — let it draft, and read the patch it keeps ` +
+        "before running `akasha patch apply`"
+      return answering([], [said], 1)
     }
-    const asked = pairFor(from, to, (slug, said) => listedAt(root, slug, said))
-    if ("refused" in asked) return answering([], [asked.refused], 1)
-    return await move(passedOn(asked.pair, to, rest), given)
+    return await pageLanded(given, root, from, to, read.said.get(PLURAL), argv)
   }
   if (namespace === PROPERTY_SLUG) {
     if (from === undefined || to === undefined) {

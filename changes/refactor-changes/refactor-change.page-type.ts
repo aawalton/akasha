@@ -37,9 +37,5 @@ export const refactorChange = {
       invariantKind: "departure",
       statement: "A refactor change no command runs is a refactor change all the same.",
     },
-    {
-      invariantKind: "absence",
-      statement: "Nothing here is reached from the command line.",
-    },
   ],
 } as const satisfies PageType

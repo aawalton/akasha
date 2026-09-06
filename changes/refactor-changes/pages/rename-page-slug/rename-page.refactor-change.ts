@@ -4,7 +4,7 @@ export const renamePage = {
   id: "01a07388-e8bd-7e05-b76a-2cce52812b54",
   pageTypeSlug: "refactor-change",
   slug: "rename-page",
-  definition: "a page's slug renamed wherever it reaches, in the data, the export and the names",
+  definition: "a page renamed and carried to where its slug says, in the data and in every name",
   code: "ts",
   test: "ts",
   invariants: [
@@ -39,6 +39,42 @@ export const renamePage = {
     {
       invariantKind: "departure",
       statement: "A beside file lands under the new name with the ending its key's value states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page alone in its folder lands in the folder its slug names.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which files sit in a folder is asked of the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page sharing its folder keeps that folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page with no file beside the page keeps its folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder's name drops the opening its plural or its page type already says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page asked for the slug that page carries has the slug restated by nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a page has its files carried all the same.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A change restating no slug and moving no file refuses.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A plural asked of a page carrying the slug asked for refuses the change.",
     },
     {
       invariantKind: "departure",

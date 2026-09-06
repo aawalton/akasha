@@ -152,13 +152,23 @@ test("a page slug rename takes the address a page is at and the slug it becomes"
   expect(said.refusals[0]).toContain("--to")
 })
 
-test("a page slug rename takes no plural", async () => {
+test("a page slug rename takes no dry run", async () => {
   const said = await refactor(
-    ["rename", "page-slug", "--from", "module/one", "--to", "two", "--plural", "n"],
+    ["rename", "page-slug", "--from", "module/one", "--to", "two", "--dry-run"],
     GIVEN
   )
   expect(said.code).toBe(1)
-  expect(said.refusals[0]).toContain("--plural")
+  expect(said.refusals[0]).toContain("--dry-run")
+  expect(said.refusals[0]).toContain("patch apply")
+})
+
+test("a page slug rename takes a plural, a page being able to state one", async () => {
+  const said = await refactor(
+    ["rename", "page-slug", "--from", "module/one", "--to", "two", "--plural", "twos"],
+    GIVEN
+  )
+  expect(said.code).toBe(1)
+  expect(said.refusals[0]).not.toContain("--plural")
 })
 
 test("a slug alone names no page, and a page type is sent to the act renaming one", async () => {
