@@ -1,0 +1,45 @@
+diff --git a/pages/value-reading/page-value-reading.module.ts b/pages/value-reading/page-value-reading.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e90f1350969a9a9c49a7326637445075d9d04032
+--- /dev/null
++++ b/pages/value-reading/page-value-reading.module.ts
+@@ -0,0 +1,39 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const pageValueReading = {
++  id: "01a076b5-96a3-7e49-a821-ec55720b1f74",
++  pageTypeSlug: "module",
++  slug: "page-value-reading",
++  definition: "what one key of a page's value holds, read off a value already in hand",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A key is read as the type that key is asked for or as nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A value naming a page by page type and slug is read here for its slug alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A key naming one page or a list of pages is read here as a list of slugs.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A browser reaches this and never what loads a value from a file.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a file.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here imports a module node carries.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here loads a body.",
++    },
++  ],
++} as const satisfies Module
