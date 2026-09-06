@@ -1,6 +1,6 @@
 diff --git a/seat-system/seat-turn-states/pages/ready.seat-turn-state.ts b/seat-system/seat-turn-states/pages/ready.seat-turn-state.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..10ae5d75cc4ee36b8521535cb9b11ea0b4a1dcee
+index 0000000000000000000000000000000000000000..a9b30e0fc94fc544ee30b91a136b210804c62741
 --- /dev/null
 +++ b/seat-system/seat-turn-states/pages/ready.seat-turn-state.ts
 @@ -0,0 +1,23 @@
@@ -15,11 +15,11 @@ index 0000000000000000000000000000000000000000..10ae5d75cc4ee36b8521535cb9b11ea0
 +  invariants: [
 +    {
 +      invariantKind: "departure",
-+      statement: "A seat here is between turns rather than taking one.",
++      statement: "A seat reading ready is between turns rather than taking a turn.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A seat here is told apart from an idle seat by its role being on call.",
++      statement: "A seat reading ready is told apart from an idle seat by its role being on call.",
 +    },
 +    {
 +      invariantKind: "departure",
