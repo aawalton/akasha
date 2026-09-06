@@ -4,18 +4,18 @@ export const astraPersonSystemCleanup = {
   id: "01a06cd9-a5d8-7ceb-980a-d9e77ebb0437",
   pageTypeSlug: "initiative",
   slug: "astra-person-system-cleanup",
-  domainSlug: "workspace-package/page",
+  domainSlug: "workspace-package/person-system",
   personaSlug: "astra",
   intents: [
     {
-      statement: "All pages-specific files are organized in the pages/ folder.",
+      statement: "All person-system-specific files are organized in the person-system/ folder.",
       workingMemory:
-        "`@akasha/pages-system` is renamed to `@akasha/pages`, and `@akasha/pages-system-service` to `@akasha/pages-service` in `pages/service/`, both pages under it slugged `pages-service`. `akasha refactor rename package` runs one phase a call and reads which phase from the manifests. Two faults it leaves: the alias expand writes makes `bun install` refuse here though that spelling installs in a stub workspace, and a page-slug rename reports what it will not repoint as a list to judge by hand, where I missed the `SERVICE_SLUG` const that took the store down.",
+        "`person` declares `domain/email` a part of itself, and email is split in two: the page types sit under `person-system/people/email/` while every email rule page sits under `alan/harness/inboxes/email-rules/`. Whether email is a part of `person` at all is unsettled, and that answer decides which folder the files go to.",
     },
     {
-      statement: "The pages/ folder passes the `folder-matches-a-shape` check.",
+      statement: "The person-system/ folder passes the `folder-matches-a-shape` check.",
       workingMemory:
-        "Met: `pages/` judges 1630 files and refuses none. A workspace-package page paired with a page type takes the singular slug, `folder-matches-a-shape` reads it that way, and `pages/address-kinds` no longer opens with the name of the page above it. A folder holding one workstation service with its parts has a shape of its own, `a-workstation-service-with-its-parts`, and the page type shape holds `workstation-services` beside `modules`, `pages`, `properties` and `scripts`.",
+        "7 refusals over 156 files, every one under `person-system/people`: `email` is no part `person` declares; `email`, `email-action` and `email-rule-match` each hold more pages than one; `email-rules` holds three subfolders `email-rule` declares no part of; `email-rule-agents` and `email-rule-codes` open with `email-rule`, the name of the page above them. The check runs on no phase, so nothing keeps a folder passing once it passes.",
     },
   ],
 } as const satisfies Initiative
