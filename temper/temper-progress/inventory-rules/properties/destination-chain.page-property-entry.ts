@@ -20,7 +20,7 @@ export const destinationChain = {
     },
     {
       invariantKind: "departure",
-      statement: "An item goes to the first leg that will take it.",
+      statement: "An item goes to the first leg that will take that item.",
     },
     {
       invariantKind: "departure",
