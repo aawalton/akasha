@@ -1,0 +1,12 @@
+diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
+index a16a5e9a2b9dd93d1c3c7430d0f079c6d07c036e..62d862519f469ca4d054c0edab90138b2f8f27b7 100644
+--- a/command-system/command-system.workspace-package.ts
++++ b/command-system/command-system.workspace-package.ts
+@@ -49,6 +49,7 @@ export const commandSystem = {
+     "module/manifest-locking",
+     "module/worked-typing",
+     "module/address-mapping",
++    "module/argument-reading",
+     "module/body-merging",
+     "module/patching",
+     "module/drafting",
