@@ -1,0 +1,13 @@
+diff --git a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+index 2a4d5332e6b47592a7685108d345c9d75ae8445a..e7c092011f66a45ccb6426965a2291c9cf371c60 100644
+--- a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
++++ b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+@@ -26,7 +26,7 @@ export const mobileSimStatus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A session is dead where Appium is down, without Appium being asked.",
++      statement: "A session is dead where Appium is down without Appium being asked.",
+     },
+     {
+       invariantKind: "departure",
