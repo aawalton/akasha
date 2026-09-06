@@ -244,10 +244,10 @@ index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..041bc1f9574edf2ec71e9a5dbb2e5efa
    listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
    schemaFiledFor(root, "relation-property", "extends-slug")
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
-index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..dbc9681c56fec76ba5add2d2e2f8f40edc2441c7 100644
+index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..5631cbbb2b23e64b88bbcf19411b7f62ace601cc 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
-@@ -135,21 +135,22 @@ test("a property the page type does not declare is refused", () => {
+@@ -135,26 +135,27 @@ test("a property the page type does not declare is refused", () => {
    ])
  })
  
@@ -276,6 +276,12 @@ index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..dbc9681c56fec76ba5add2d2e2f8f40e
    ])
    expect(over({ id: "a", slug: "one", test: "ts", aids: ["ab", "cd"] }, "check")).toEqual([])
  })
+ 
+-test("a declaration stating no total lets a list run to any length", () => {
++test("a declaration stating no length holds a list to its property's length", () => {
+   expect(over({ id: "a", slug: "one", aids: ["hello", "world"] }, "told")).toEqual([])
+ })
+ 
 @@ -186,12 +187,14 @@ test("a record field naming its page type is read under the key its own property
  
  test("a record field's property page is reached by the page type its declaration names", () => {
