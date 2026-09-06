@@ -10,11 +10,13 @@ export const pageTypeInheritance = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page type descends from another where any one of the parents it names does.",
+      statement:
+        "A page type descends from another page type where any parent that page type names does.",
     },
     {
       invariantKind: "departure",
-      statement: "A parent named with its page type and one named by slug alone are read alike.",
+      statement:
+        "A parent named with its page type and a parent named by slug alone are read alike.",
     },
     {
       invariantKind: "departure",
