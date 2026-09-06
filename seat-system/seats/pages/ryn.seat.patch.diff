@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/pages/service/page-reading/page-reading.module.ts b/pages/service/page-reading/page-reading.module.ts
-index 769bf07241dceab847642af378c5745f74ddaff0..7e0c05c92051bf3122290eacae29cb61274f641f 100644
+index 769bf07241dceab847642af378c5745f74ddaff0..d7b2b103d3fedac53868f011ef488eb970f09e51 100644
 --- a/pages/service/page-reading/page-reading.module.ts
 +++ b/pages/service/page-reading/page-reading.module.ts
 @@ -18,7 +18,7 @@ export const pageReading = {
@@ -9,6 +9,15 @@ index 769bf07241dceab847642af378c5745f74ddaff0..7e0c05c92051bf3122290eacae29cb61
        invariantKind: "departure",
 -      statement: "Every body one read answers with is read at that one commit.",
 +      statement: "Every body a read answers with is read at that read's commit.",
+     },
+     {
+       invariantKind: "departure",
+@@ -70,7 +70,7 @@ export const pageReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The bodies of one read come back through one git process.",
++      statement: "The bodies of a read come back through one git process.",
      },
      {
        invariantKind: "departure",
