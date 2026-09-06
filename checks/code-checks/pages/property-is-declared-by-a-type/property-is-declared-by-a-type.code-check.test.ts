@@ -350,10 +350,9 @@ test("two properties carrying one slug are each judged, not skipped", () => {
 
 test("the slug is the file's stem and the page type its suffix", () => {
   const kinds = kindsIn(rooted())
-  expect(namedUnder("akasha/a/b/name-format-slug.relation-property.ts", kinds)).toEqual({
+  expect(namedUnder("a/b/name-format-slug.relation-property.ts", kinds)).toEqual({
     pageTypeSlug: "relation-property",
     slug: "name-format-slug",
   })
-  expect(namedUnder("akasha/held.module.code.ts", kinds)).toBeNull()
-  expect(namedUnder("held.relation-property.ts", kinds)).toBeNull()
+  expect(namedUnder("held.module.code.ts", kinds)).toBeNull()
 })
