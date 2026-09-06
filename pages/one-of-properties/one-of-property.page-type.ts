@@ -24,7 +24,7 @@ export const oneOfProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A member declares its own target rather than the one of declaring one.",
+      statement: "A member declares its own target rather than the property declaring that member.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,7 @@ export const oneOfProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "A one of holding a member that admits every value refuses nothing.",
+      statement: "A property holding a member that admits every value refuses nothing.",
     },
   ],
 } as const satisfies PageType
