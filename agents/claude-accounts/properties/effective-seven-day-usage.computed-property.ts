@@ -11,6 +11,7 @@ export const effectiveSevenDayUsage = {
     "how much of the seven-day allowance is spent, a withdrawn subscription counting as all of it",
   holds: "number",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

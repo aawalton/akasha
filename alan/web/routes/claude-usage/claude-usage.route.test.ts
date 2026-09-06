@@ -22,7 +22,6 @@ import {
   askingsAt,
   buildClaudeUsageResponse,
   type ClaudeUsageAnswers,
-  spentIn,
   type UsageWidgetPayload,
 } from "./claude-usage.route.code.ts"
 
@@ -163,18 +162,6 @@ test("the tier is read off how long the seven-day window has left", async () => 
   expect(await tierAt(30)).toBe("yellow")
   expect(await tierAt(60)).toBe("green")
   expect(await tierAt(100)).toBe("blue")
-})
-
-test("a withdrawn subscription has spent the whole of its seven-day window", () => {
-  expect(spentIn({ slug: "aine", subscriptionDisabledReason: "cancelled" })).toBe(100)
-  const withdrawn = { slug: "aine", sevenDayPercentUsed: 2, subscriptionDisabledReason: "gone" }
-  expect(spentIn(withdrawn)).toBe(100)
-})
-
-test("a figure standing as text is read as the number it is", () => {
-  expect(spentIn({ slug: "aine", sevenDayPercentUsed: "42" })).toBe(42)
-  expect(spentIn({ slug: "aine", sevenDayPercentUsed: "" })).toBeNull()
-  expect(spentIn({ slug: "aine" })).toBeNull()
 })
 
 test("the mean is asked of every account, narrowing nothing", () => {

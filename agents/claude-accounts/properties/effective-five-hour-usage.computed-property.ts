@@ -11,6 +11,7 @@ export const effectiveFiveHourUsage = {
     "how much of the five-hour allowance is spent, a withdrawn or spent week counting as all of it",
   holds: "number",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",

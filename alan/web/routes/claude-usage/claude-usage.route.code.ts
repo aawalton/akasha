@@ -35,11 +35,10 @@ export const NEXT_SEVEN_DAY_END = "the next seven-day window to end"
 
 export const ACCOUNT = "claude-account"
 const SLUG = "slug"
-const FIVE_HOUR_PERCENT_USED = "fiveHourPercentUsed"
-const SEVEN_DAY_PERCENT_USED = "sevenDayPercentUsed"
+const EFFECTIVE_FIVE_HOUR_USAGE = "effectiveFiveHourUsage"
+const EFFECTIVE_SEVEN_DAY_USAGE = "effectiveSevenDayUsage"
 const FIVE_HOUR_RESETS_AT = "fiveHourResetsAt"
 const SEVEN_DAY_RESETS_AT = "sevenDayResetsAt"
-const SUBSCRIPTION_DISABLED_REASON = "subscriptionDisabledReason"
 const SPENT = 100
 const HOUR_MS = 3_600_000
 
@@ -58,12 +57,12 @@ export function askingsAt(nowMs: number): ClaudeUsageAskings {
   return {
     meanWeeklyUsed: {
       pageTypeSlug: ACCOUNT,
-      keys: [SLUG, SEVEN_DAY_PERCENT_USED, SUBSCRIPTION_DISABLED_REASON],
+      keys: [SLUG, EFFECTIVE_SEVEN_DAY_USAGE],
     },
     nextFiveHourBack: {
       pageTypeSlug: ACCOUNT,
       where: {
-        [FIVE_HOUR_PERCENT_USED]: { "at-or-after": SPENT },
+        [EFFECTIVE_FIVE_HOUR_USAGE]: { "at-or-after": SPENT },
         [FIVE_HOUR_RESETS_AT]: { "at-or-after": now },
       },
       sortBy: FIVE_HOUR_RESETS_AT,
@@ -73,7 +72,7 @@ export function askingsAt(nowMs: number): ClaudeUsageAskings {
     nextSevenDayBack: {
       pageTypeSlug: ACCOUNT,
       where: {
-        [SEVEN_DAY_PERCENT_USED]: { "at-or-after": SPENT },
+        [EFFECTIVE_SEVEN_DAY_USAGE]: { "at-or-after": SPENT },
         [SEVEN_DAY_RESETS_AT]: { "at-or-after": now },
       },
       sortBy: SEVEN_DAY_RESETS_AT,
@@ -83,7 +82,7 @@ export function askingsAt(nowMs: number): ClaudeUsageAskings {
     nextSevenDayEnd: {
       pageTypeSlug: ACCOUNT,
       where: {
-        [SEVEN_DAY_PERCENT_USED]: { before: SPENT },
+        [EFFECTIVE_SEVEN_DAY_USAGE]: { before: SPENT },
         [SEVEN_DAY_RESETS_AT]: { "at-or-after": now },
       },
       sortBy: SEVEN_DAY_RESETS_AT,
@@ -112,17 +111,6 @@ function numberIn(row: Row, key: string): number | null {
   return Number.isFinite(found) ? found : null
 }
 
-// What one account has spent of its seven-day window, which is what the deleted
-// `effective-seven-day-percent-used` said: an account whose subscription is withdrawn has spent
-// the whole of the window whatever its last reading was. `sevenDaySpent` in
-// `@akasha/agents/claude-account-measuring` carries the same expression for `akasha measure`, so
-// the mean here and that listing read one account the same way.
-export function spentIn(row: Row): number | null {
-  const reason = row[SUBSCRIPTION_DISABLED_REASON]
-  if (typeof reason === "string" && reason !== "") return SPENT
-  return numberIn(row, SEVEN_DAY_PERCENT_USED)
-}
-
 // A MEAN OVER NO ACCOUNT IS NO PERCENTAGE RATHER THAN ZERO. An account carrying no reading is left
 // out of the average rather than counted as having spent nothing, which is the shape the old
 // reduction had: a figure it could not read moved neither the mean nor what the mean was taken
@@ -133,7 +121,9 @@ export function spentIn(row: Row): number | null {
 function meanUsedPct(asked: Asked): Reading<number> {
   if ("refused" in asked) return { ok: false, why: asked.refused }
   const { rows } = asked
-  const spent = rows.map(spentIn).filter((one): one is number => one !== null)
+  const spent = rows
+    .map((one) => numberIn(one, EFFECTIVE_SEVEN_DAY_USAGE))
+    .filter((one): one is number => one !== null)
   if (spent.length === 0) {
     return {
       ok: false,
