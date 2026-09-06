@@ -34,7 +34,7 @@ export const emailRuleAgent = {
     {
       invariantKind: "departure",
       statement:
-        "A case an agent comes to understand becomes a code rule and stops reaching this one.",
+        "A case an agent comes to understand becomes a code rule and stops reaching an agent rule.",
     },
   ],
 } as const satisfies PageType
