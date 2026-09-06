@@ -34,6 +34,15 @@ export default workflow("gotrue", {
 
     {
       ...secretPlaceApply({
+        name: "gotrue-apply-secrets",
+        namespace: "gotrue",
+        resource: "gotrue-secrets",
+      }),
+      dependsOn: ["gotrue-apply-namespace"],
+    },
+
+    {
+      ...secretPlaceApply({
         name: "gotrue-apply-supabase-auth-admin-secrets",
         namespace: "postgres",
         resource: "supabase-auth-admin-secrets",
@@ -139,7 +148,7 @@ export default workflow("gotrue", {
           kubernetes: { serviceAccountName: "pipeline-engine" },
         },
       }),
-      dependsOn: ["gotrue-ensure-auth-schema"],
+      dependsOn: ["gotrue-apply-secrets", "gotrue-ensure-auth-schema"],
     },
 
     {
@@ -157,6 +166,7 @@ export default workflow("gotrue", {
         },
       }),
       dependsOn: [
+        "gotrue-apply-secrets",
         "gotrue-apply-supabase-auth-admin-secrets",
         "gotrue-ensure-auth-schema",
         "gotrue-apply-manifests",
