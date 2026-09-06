@@ -93,3 +93,27 @@ index 257d033b5bc2baf6028c990560eb57b9494833eb..41169f99fbbbf0ece2ce128ccb3c2731
      dropUntouched: async () => {
        for (const key of [...cursors.keys()]) {
          if (!touched.has(key)) {
+diff --git a/editor-extension/subagent-reading/subagent-reading.module.ts b/editor-extension/subagent-reading/subagent-reading.module.ts
+index 4f60af64fe134831e76e2203e64679cc4c1cfbad..bcfe06c7d0645eed086a0e9839e6633ae25baae2 100644
+--- a/editor-extension/subagent-reading/subagent-reading.module.ts
++++ b/editor-extension/subagent-reading/subagent-reading.module.ts
+@@ -47,6 +47,19 @@ export const subagentReading = {
+       invariantKind: "departure",
+       statement: "A subagent naming no id that subagent runs under is descended into no further.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "The subagents a seat saw start and finish are answered from that seat's own fold.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That answer descends into no child transcript.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Both answers come from one fold of the seat's transcript.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A cursor no read touched is dropped.",
