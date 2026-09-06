@@ -150,6 +150,18 @@ index c8ea8d0b0f43b7b986809b7c17914000f76fc4a4..c3d5e68fd4a353d5eaeda4809dce24c0
  }
  
  export const THROWS: RunningSaid = () => Promise.reject(new Error("no transcript would open"))
+diff --git a/command-system/commands/subagent-sweep/subagent-sweep.command.test.ts b/command-system/commands/subagent-sweep/subagent-sweep.command.test.ts
+index bb758bb73548940221f03db391727d6555ba4f55..4f946555732164571cc21863e2a8ea2c138b9e9c 100644
+--- a/command-system/commands/subagent-sweep/subagent-sweep.command.test.ts
++++ b/command-system/commands/subagent-sweep/subagent-sweep.command.test.ts
+@@ -9,6 +9,7 @@ import {
+   CHILD,
+   entry,
+   givenIn,
++  halfReading,
+   logPut,
+   node,
+   OTHER_ID,
 diff --git a/command-system/commands/subagent-sweep/subagent-sweep.command.ts b/command-system/commands/subagent-sweep/subagent-sweep.command.ts
 index f6fa01866168dc7de0dec4d0b28e3593cfba6107..f9a3b941f9d7921285740f23dca4c80be30669ed 100644
 --- a/command-system/commands/subagent-sweep/subagent-sweep.command.ts
