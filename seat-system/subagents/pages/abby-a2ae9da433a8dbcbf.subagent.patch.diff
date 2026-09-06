@@ -1,0 +1,88 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-minimal-dose-breakfast-cost.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-minimal-dose-breakfast-cost.all-about-alan-question.ts
+index 304a6c21720a8ff99dd6318b79f0e935ac86fa07..0cca09f8774f244dd60a9ee5eb1facaff494e838 100644
+--- a/alan/books/all-about-alan/questions/pages/what-the-minimal-dose-breakfast-cost.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-the-minimal-dose-breakfast-cost.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatTheMinimalDoseBreakfastCost = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-the-minimal-dose-breakfast-cost",
+   topicSlug: "when-i-lost-who-i-was",
+-  ask: "What did the minimal-dose breakfast cost me, did the controls hold, and what did the aftershock look like? Nobody wrote any of that down.",
++  ask: "Nobody wrote the minimal-dose breakfast down. What did that breakfast cost me, did the controls hold, and what did the aftershock look like?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-wrong-reads-of-me-cost.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-wrong-reads-of-me-cost.all-about-alan-question.ts
+index c095139fb211b72cf2a7515527aa869198b23511..7e70d07532ea5159a110bf84571e5968e06cf1d1 100644
+--- a/alan/books/all-about-alan/questions/pages/what-the-wrong-reads-of-me-cost.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/what-the-wrong-reads-of-me-cost.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whatTheWrongReadsOfMeCost = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "what-the-wrong-reads-of-me-cost",
+   topicSlug: "when-someone-gets-me-wrong",
+-  ask: "What did each person predict about me, what was actually there, and what did the wrong read cost? Cataloguing the episodes would anchor the whole claim.",
++  ask: "Cataloguing the episodes would anchor the whole claim, so what did each person predict about me, what was actually there, and what did the wrong read cost?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-checks-always-win-should-live.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-checks-always-win-should-live.all-about-alan-question.ts
+index 0a43adc2373959cb7e29890e634557c008b39437..db13631d042daea394315bffd4c6e80adfd16c15 100644
+--- a/alan/books/all-about-alan/questions/pages/where-checks-always-win-should-live.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/where-checks-always-win-should-live.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whereChecksAlwaysWinShouldLive = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "where-checks-always-win-should-live",
+   topicSlug: "how-i-prevent-a-category-of-wrong",
+-  ask: "Where should the rule that checks always win live, so the rule binds rather than only describing me? No domain carries the rule today.",
++  ask: "No domain carries the rule that checks always win today. Where should that rule live, so the rule binds rather than only describing me?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-the-difficulty-ladder-tops-out.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-the-difficulty-ladder-tops-out.all-about-alan-question.ts
+index 3d22763fe95bcc53cec67552ce51b117820c82b6..fd5035041f22a5947325b8b6164d0acc1c70bce7 100644
+--- a/alan/books/all-about-alan/questions/pages/where-the-difficulty-ladder-tops-out.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/where-the-difficulty-ladder-tops-out.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whereTheDifficultyLadderTopsOut = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "where-the-difficulty-ladder-tops-out",
+   topicSlug: "how-hard-a-thing-is",
+-  ask: "Where does the difficulty ladder top out? Door-knocking in a foreign language sits above criticism, and that label may be two things rather than one rung.",
++  ask: "Door-knocking in a foreign language sits above criticism, and that label may be two things rather than one rung, so where does the difficulty ladder top out?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-pre-felt-payoff-blocks-a-new-want.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-pre-felt-payoff-blocks-a-new-want.all-about-alan-question.ts
+index 1493e98ea1d24f24d0ec8b7643883c39bebee11c..a0187755fce7d721ab65c1abfd35e1f63e978be2 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-a-pre-felt-payoff-blocks-a-new-want.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-a-pre-felt-payoff-blocks-a-new-want.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherAPreFeltPayoffBlocksANewWant = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-a-pre-felt-payoff-blocks-a-new-want",
+   topicSlug: "writing-a-new-want-into-myself",
+-  ask: "Does a want needing a pre-felt payoff never install, while a want that reduces to a present irritant takes? That prediction is untested.",
++  ask: "My prediction is untested. Does a want needing a pre-felt payoff never install, while a want that reduces to a present irritant takes?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-source-particular-to-me-is-off-the-list.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-source-particular-to-me-is-off-the-list.all-about-alan-question.ts
+index 8c478fa12920137d2f35f5ccef62973ab76d7742..cea63ee5d731d391a2f9331461d70552d2cd14bd 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-a-source-particular-to-me-is-off-the-list.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-a-source-particular-to-me-is-off-the-list.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherASourceParticularToMeIsOffTheList = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-a-source-particular-to-me-is-off-the-list",
+   topicSlug: "what-wears-my-body-down",
+-  ask: "Does a source particular to me sit off the list of usual sources, where ruling things out cannot reach? Grinding a problem at the edge of sleep is one candidate.",
++  ask: "Grinding a problem at the edge of sleep is one candidate. Does a source particular to me sit off the list of usual sources, where ruling things out cannot reach?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-anyone-else-built-this-graph.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-anyone-else-built-this-graph.all-about-alan-question.ts
+index 52bb4cbabc12090164beb1a2b8e0854586e7fa74..5407e84682d8338b656b975434b64d16389f910b 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-anyone-else-built-this-graph.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-anyone-else-built-this-graph.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherAnyoneElseBuiltThisGraph = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-anyone-else-built-this-graph",
+   topicSlug: "the-graph-i-built-to-run-my-checks",
+-  ask: "Has anyone else built this graph and not talked about it? I have only said I have not heard anyone talk about it.",
++  ask: "I have only said I have not heard anyone talk about this graph. Has anyone else built the graph and not talked about it?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-asking-about-the-commitment-shield-digs-at-the-root.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-asking-about-the-commitment-shield-digs-at-the-root.all-about-alan-question.ts
+index 833571414597642e204fdc72ec4aae25e1b61416..73cde64652e37f29d9427d25a1a126a55b090283 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-asking-about-the-commitment-shield-digs-at-the-root.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-asking-about-the-commitment-shield-digs-at-the-root.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherAskingAboutTheCommitmentShieldDigsAtTheRoot = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-asking-about-the-commitment-shield-digs-at-the-root",
+   topicSlug: "the-part-i-have-not-opened",
+-  ask: "Does asking whether the commitment shield is still needed count as digging at the root I parked? Nobody has made that call.",
++  ask: "Nobody has made the call. Does asking whether the commitment shield is still needed count as digging at the root I parked?",
+ } as const satisfies AllAboutAlanQuestion
