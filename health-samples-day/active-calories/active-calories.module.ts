@@ -22,8 +22,11 @@ export const activeCalories = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A day with no recorded wake keeps its stored reading and is named back as uncounted.",
+      statement: "A day with no recorded wake is counted over the ESO day instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The day being lived is counted as far as the readings taken so far reach.",
     },
     {
       invariantKind: "departure",

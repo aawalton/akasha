@@ -1,6 +1,6 @@
 import { selectHealthSamples } from "@akasha/health-samples-access/sample-selecting"
 import type { HealthSampleRecord } from "@akasha/health-samples-access/sample-shape"
-import { getWakeDayWindow } from "../wake-day-window/wake-day-window.module.code.ts"
+import { spannedWindow } from "../wake-day-window/wake-day-window.module.code.ts"
 
 const DAYS_AT_ONCE = 4
 
@@ -27,7 +27,7 @@ async function loadDayActiveCalories(args: {
   readonly dayStr: string
   readonly storedReading?: number | null
 }): Promise<DayReading> {
-  const span = getWakeDayWindow(args.dayStr)
+  const span = spannedWindow(args.dayStr)
   if ("refused" in span) return { reading: args.storedReading ?? null, unread: span.refused }
   const samples = await selectHealthSamples({
     metric: "activeEnergy",

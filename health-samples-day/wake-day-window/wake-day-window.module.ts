@@ -50,6 +50,18 @@ export const wakeDayWindow = {
     },
     {
       invariantKind: "departure",
+      statement: "A day whose next wake is not recorded closes at the ESO day's own end.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The day being lived closes at the ESO day's own end.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A spanned window refuses only a day that will not parse.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Which of the two a day was is answered here rather than by each figure's writer.",
     },
     {
