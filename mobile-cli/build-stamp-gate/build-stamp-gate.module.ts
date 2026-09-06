@@ -14,7 +14,8 @@ export const buildStampGate = {
     },
     {
       invariantKind: "departure",
-      statement: "A binary carrying no stamp is refused the same as one carrying a wrong commit.",
+      statement:
+        "A binary carrying no stamp is refused the same as a binary carrying a wrong commit.",
     },
     {
       invariantKind: "departure",
