@@ -96,18 +96,6 @@ export const role = {
     },
     {
       directiveKind: "rule",
-      name: "One Read A Call",
-      act: "Run one `akasha read` per shell call rather than chaining several into one.",
-      warrant:
-        "Output past what one shell result holds is truncated, and the record still says it reached you.",
-      aids: [
-        "One call naming many files is safe; it caps itself.",
-        "The cap is per call, so chaining defeats it.",
-        "Nothing marks what was lost.",
-      ],
-    },
-    {
-      directiveKind: "rule",
       name: "Headroom",
       act: "Never report that a part is close to its bound as a defect, in your own words or in an instrument's.",
       warrant:

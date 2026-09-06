@@ -182,4 +182,18 @@ export const read = {
         "A read the warrants cannot be worked out for returns the files the read was named.",
     },
   ],
+  directives: [
+    {
+      directiveKind: "rule",
+      name: "One Read A Call",
+      act: "Run one `akasha read` per shell call rather than chaining several into one.",
+      warrant:
+        "Output past what one shell result holds is truncated, and the record still says it reached you.",
+      aids: [
+        "One call naming many files is safe; it caps itself.",
+        "The cap is per call, so chaining defeats it.",
+        "Nothing marks what was lost.",
+      ],
+    },
+  ],
 } as const satisfies Command
