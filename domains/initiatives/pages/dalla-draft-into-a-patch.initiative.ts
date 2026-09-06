@@ -55,7 +55,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "The record is carried and dropped by the landing rather than by each command.",
       workingMemory:
-        "`carryReadings` is called at four hand-written sites, each behind its own `if (landing.code === 0)`, so the rule that passing `carries` obliges carrying the readings is enforced by nothing. `dropReadings` is called by `remove` alone, so `write --remove` and `edit --remove` take a path away and leave the record naming it.",
+        "`carryLanded` in `landing-reading` is the one carry site, gated on the change kind's `readersOweReading` and handed the rename pairs at `asked.readings`, so the landing binds the carry. The drop is still each command's. `dropReadings` is called from `remove` twice and from four sweeps, and from neither `write` nor `edit`, so `write --remove` and `edit --remove` take a path away and leave the record naming it.",
     },
     {
       statement: "Every mechanical change is a change page a refactor command runs.",
