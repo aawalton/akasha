@@ -36,6 +36,7 @@ export const alan = {
         "Saying you are worried about time or context is stopping.",
         "Reporting progress is stopping.",
         "Reporting adjacent issues is stopping.",
+        "Stop only when every remaining part waits on a required answer.",
       ],
     },
     {
