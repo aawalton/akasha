@@ -57,7 +57,7 @@ export const claudeAccountCredentialPush = {
     },
     {
       invariantKind: "departure",
-      statement: "A sops file reading back as other than the pair handed in is refused.",
+      statement: "A sops file reading back a different pair from the pair handed in is refused.",
     },
     {
       invariantKind: "departure",
@@ -212,7 +212,7 @@ export const claudeAccountCredentialPush = {
     {
       invariantKind: "gap",
       statement:
-        "Narrowing before the write is proven at a refused mark rather than at one that lands.",
+        "Narrowing before the write is proven at a refused mark rather than at a mark that lands.",
     },
   ],
 } as const satisfies Module
