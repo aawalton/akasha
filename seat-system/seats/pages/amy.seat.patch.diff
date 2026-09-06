@@ -1,0 +1,85 @@
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.test.ts b/readout-system/readout-group-serving/readout-group-serving.module.test.ts
+index 2bae8465dd0a09a4a85270a0bf60efe5cae3c994..3742727efdbe6cb295769c4610d1031d32d9697d 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.test.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.test.ts
+@@ -27,10 +27,13 @@ const READOUT_ROW = {
+ 
+ const SCALE_ROW = { slug: SCALE, redAt: 1, yellowAt: 2, greenAt: 3, blueAt: 4 }
+ 
++const GROUP_ROW = { slug: GROUP }
++
+ const ANSWERED: {
+   readouts: readonly Record<string, unknown>[]
+   scales: readonly Record<string, unknown>[]
+-} = { readouts: [READOUT_ROW], scales: [SCALE_ROW] }
++  groups: readonly Record<string, unknown>[]
++} = { readouts: [READOUT_ROW], scales: [SCALE_ROW], groups: [GROUP_ROW] }
+ 
+ let store: ReturnType<typeof Bun.serve>
+ 
+@@ -40,6 +43,7 @@ beforeAll(() => {
+     fetch: async (request) => {
+       const asked = (await request.json()) as { pageTypeSlug: string }
+       if (asked.pageTypeSlug === "readout") return Response.json({ rows: ANSWERED.readouts })
++      if (asked.pageTypeSlug === "readout-group") return Response.json({ rows: ANSWERED.groups })
+       return Response.json({ rows: ANSWERED.scales })
+     },
+   })
+@@ -54,6 +58,7 @@ beforeEach(() => {
+   dropRelayed()
+   ANSWERED.readouts = [READOUT_ROW]
+   ANSWERED.scales = [SCALE_ROW]
++  ANSWERED.groups = [GROUP_ROW]
+ })
+ 
+ const drawn = () => answerStoplightsAdmittedBy(new Request("http://a.test/"), () => null, GROUP)
+@@ -378,3 +383,49 @@ test("a group every readout of which is stilled is answered as no reading", asyn
+   ANSWERED.readouts = [{ ...READOUT_ROW, enabled: false }]
+   expect((await drawn()).status).toBe(503)
+ })
++
++const figureOffScaleDrawn = async (): Promise<unknown> => {
++  const [one] = await stoplightsInGroup(GROUP)
++  return (one as Record<string, unknown> | undefined)?.figureOffScale
++}
++
++test("a group stating it draws a figure off scale carries that on each reading", async () => {
++  relayedFor(READOUT, 5)
++  ANSWERED.groups = [{ ...GROUP_ROW, figureOffScale: true }]
++  expect(await figureOffScaleDrawn()).toBe(true)
++})
++
++test("a group stating nothing carries no answer about a figure off scale", async () => {
++  relayedFor(READOUT, 5)
++  expect(await figureOffScaleDrawn()).toBeUndefined()
++})
++
++test("a group stating it draws no figure off scale carries no answer either", async () => {
++  relayedFor(READOUT, 5)
++  ANSWERED.groups = [{ ...GROUP_ROW, figureOffScale: false }]
++  expect(await figureOffScaleDrawn()).toBeUndefined()
++})
++
++test("a group the store holds no page for carries no answer", async () => {
++  relayedFor(READOUT, 5)
++  ANSWERED.groups = []
++  expect(await figureOffScaleDrawn()).toBeUndefined()
++})
++
++test("a group drawing a figure off scale carries that on a reading between two rungs too", async () => {
++  relayedFor(READOUT, 2.5)
++  ANSWERED.groups = [{ ...GROUP_ROW, figureOffScale: true }]
++  expect(await figureOffScaleDrawn()).toBe(true)
++})
++
++test("a group drawing a figure off scale carries that on every reading it sends", async () => {
++  relayedFor(READOUT, 5)
++  relayedFor(OTHER, 5)
++  ANSWERED.readouts = [READOUT_ROW, OTHER_ROW]
++  ANSWERED.groups = [{ ...GROUP_ROW, figureOffScale: true }]
++  const drawnRows = await stoplightsInGroup(GROUP)
++  expect(drawnRows.map((one) => (one as Record<string, unknown>).figureOffScale)).toEqual([
++    true,
++    true,
++  ])
++})
