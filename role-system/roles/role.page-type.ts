@@ -97,12 +97,13 @@ export const role = {
     {
       directiveKind: "rule",
       name: "Headroom",
-      act: "Never report that a part is close to its bound as a defect, in your own words or in an instrument's.",
+      act: "Never report a file nearing its length ceiling, in your own words or in an instrument's.",
       warrant:
-        "A bound makes the next write push something out, so a part just under one is the bound working.",
+        "A ceiling makes the next write divide the file, so a file just under it is the ceiling working.",
       aids: [
-        "Say how close a part is to a bound only if asked.",
-        "Never propose raising a bound a part came near.",
+        "A file the check has not refused is not too long.",
+        "Say how long a file is only if asked.",
+        "Never propose raising the ceiling for a file that came near it.",
       ],
     },
   ],
