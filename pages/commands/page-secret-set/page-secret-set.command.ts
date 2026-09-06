@@ -37,7 +37,7 @@ export const pageSecretSet = {
     },
     {
       invariantKind: "departure",
-      statement: "One trailing newline is dropped unless the call says to keep it.",
+      statement: "One trailing newline is dropped unless the call says to keep the newline.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +45,7 @@ export const pageSecretSet = {
     },
     {
       invariantKind: "departure",
-      statement: "A value that arrives empty is refused rather than standing for a usable one.",
+      statement: "A value that arrives empty is refused rather than taken as a usable value.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +65,7 @@ export const pageSecretSet = {
     },
     {
       invariantKind: "gap",
-      statement: "Two secrets valid only as a pair land in a commit each rather than in one.",
+      statement: "Two secrets valid only as a pair land in two commits rather than in one commit.",
     },
   ],
 } as const satisfies Command
