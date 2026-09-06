@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+index 2366ad1a4ca599711b9290dcfd6fb11f7e12c7e4..f83ee8f18ae0665bc88096c564cf0bb707b9807e 100644
+--- a/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
++++ b/reminder-system/due-reminder-sending/due-reminder-sending.module.ts
+@@ -55,7 +55,7 @@ export const dueReminderSending = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every run says how many sent, how many were armed and how many were taken away.",
++      statement: "Every run says the number of reminders sent and armed and taken away.",
+     },
+     {
+       invariantKind: "departure",
