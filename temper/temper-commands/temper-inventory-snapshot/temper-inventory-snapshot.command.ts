@@ -38,7 +38,7 @@ export const temperInventorySnapshot = {
     },
     {
       invariantKind: "departure",
-      statement: "The newest snapshot is the one whose reading was taken most recently.",
+      statement: "The newest snapshot is the snapshot whose reading was taken most recently.",
     },
     {
       invariantKind: "departure",
