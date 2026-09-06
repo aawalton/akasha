@@ -271,12 +271,18 @@ export function counting(root: string): Counted {
   const seen: string[] = []
   return {
     reading: {
-      holds: (at: string): boolean => real.holds(at),
+      holds: (at: string): boolean => {
+        seen.push(`holds ${at}`)
+        return real.holds(at)
+      },
       listing: (at: string): readonly Child[] => {
-        seen.push(at)
+        seen.push(`listing ${at}`)
         return real.listing(at)
       },
-      lines: (at: string): readonly string[] => real.lines(at),
+      lines: (at: string): readonly string[] => {
+        seen.push(`lines ${at}`)
+        return real.lines(at)
+      },
     },
     seen,
   }

@@ -3,14 +3,21 @@ import { join } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import type { FileEdit } from "@akasha/command-system/landing"
 import { scratchWorld } from "@akasha/command-system/scratching"
+import { readingIn } from "@akasha/indexes"
 import { secretAt } from "@akasha/pages/page-file-name"
 import { z } from "zod"
 import {
   ACCOUNT_DECLARED,
+  bodiesIn,
   type Declared,
   worldIn,
 } from "../marking/claude-account-marking.module.test-fixtures.ts"
-import type { Credential, Doors, Push } from "./claude-account-credential-push.module.code.ts"
+import {
+  type Credential,
+  type Doors,
+  type Push,
+  pushedIn,
+} from "./claude-account-credential-push.module.code.ts"
 
 export const ACCESS_KEY = "access-token"
 
@@ -53,6 +60,14 @@ export function credentialOf(slug: string, said: Partial<Credential> = {}): Cred
     accessTokenExpiresAtMs: LATER,
     ...said,
   }
+}
+
+export const NOWHERE = "/var/tmp/credential-push-no-such-root"
+
+export const FAILED: readonly string[] = ["[gate] fail: the landing said no"]
+
+export async function pushed(root: string, credential: Credential, doors: Doors): Promise<Push> {
+  return await pushedIn(root, credential, doors, readingIn(root), bodiesIn(root))
 }
 
 export type Sops = {

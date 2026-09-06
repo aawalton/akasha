@@ -297,8 +297,10 @@ test("reading one account lists no directory of the fleet", () => {
   ])
   const two = counting(root)
   expect(everyAccountSlugIn(two.reading)).toEqual(["aine", "aow", "ctw"])
-  expect(two.seen.filter((said) => said.startsWith("listing "))).toEqual([
-    "listing identity/claude-account/slug",
+  expect(two.seen.filter((said) => said.startsWith("listing "))).toEqual([])
+  expect(two.seen.filter((said) => said.startsWith("lines "))).toEqual([
+    `lines identity/page/id/${ACCOUNT_TYPE}.jsonl`,
+    "lines value/claude-account.jsonl",
   ])
 })
 

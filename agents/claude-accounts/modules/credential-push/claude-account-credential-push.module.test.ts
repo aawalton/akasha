@@ -14,13 +14,10 @@ import {
 } from "../marking/claude-account-marking.module.test-fixtures.ts"
 import { everyAccountStateIn, rescuedIn } from "../reading/claude-account-reading.module.code.ts"
 import {
-  type Credential,
   DOORS,
-  type Doors,
   expiryHeldIn,
   narrowedFor,
   PUSHED_KEYS,
-  type Push,
   pushedIn,
   sayingOf,
 } from "./claude-account-credential-push.module.code.ts"
@@ -29,11 +26,14 @@ import {
   AN_HOUR,
   credentialOf,
   crossedLanding,
+  FAILED,
   heldIn,
   LATER,
   LATER_AT,
   modeOf,
   NOW,
+  NOWHERE,
+  pushed,
   REFRESH_KEY,
   ROTATED_ACCESS,
   ROTATED_REFRESH,
@@ -48,14 +48,6 @@ import {
 } from "./claude-account-credential-push.module.test-fixtures.ts"
 
 afterAll(sweep)
-
-const NOWHERE = "/var/tmp/credential-push-no-such-root"
-
-const FAILED: readonly string[] = ["[gate] fail: the landing said no"]
-
-async function pushed(root: string, credential: Credential, doors: Doors): Promise<Push> {
-  return await pushedIn(root, credential, doors, readingIn(root), bodiesIn(root))
-}
 
 test("a push lands the pair in the sops file and answers pushed", async () => {
   const root = worldMade()
@@ -346,7 +338,7 @@ test("pushing one account's credential lists no directory the accounts are filed
     routing
   )
   expect(said.kind).toBe("pushed")
-  expect(one.seen).toEqual([])
+  expect(one.seen.filter((at) => at.startsWith("listing "))).toEqual([])
 })
 
 test("no token value reaches a refusal", async () => {

@@ -86,6 +86,15 @@ function refusedFor(slug: string, why: string): Push {
   return { kind: "refused", slug, why }
 }
 
+// `unfit` is the rule every secret is held to, and it admits a newline because a secret may be a
+// whole file. A token is not that kind of secret, and this module's page says a token holding a
+// newline is refused, so the narrower rule a token is held to is written here.
+function unfitToken(key: string, value: string): string | null {
+  const wrong = unfit(key, value)
+  if (wrong !== null) return wrong
+  return value.includes("\n") ? `\`${key}\` holds a newline, and a token is one line` : null
+}
+
 export function sayingOf(answer: Answer): string {
   const said = answer.refusals.filter((one) => one.trim() !== "")
   if (said.length > 0) return said.join("; ")
@@ -190,7 +199,7 @@ export async function pushedIn(
       [REFRESH_KEY, credential.refreshToken],
     ])
     for (const [key, value] of next) {
-      const wrong = unfit(key, value)
+      const wrong = unfitToken(key, value)
       if (wrong !== null) return refusedFor(slug, wrong)
     }
     const at = instantOf(credential.accessTokenExpiresAtMs)

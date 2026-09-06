@@ -94,7 +94,7 @@ export const claudeAccountMarking = {
     },
     {
       invariantKind: "departure",
-      statement: "Writing one account's mark lists no directory the accounts are filed under.",
+      statement: "Writing one account's mark reads no index the whole fleet is filed in.",
     },
 
     {

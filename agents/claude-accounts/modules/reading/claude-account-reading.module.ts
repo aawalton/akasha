@@ -19,11 +19,12 @@ export const claudeAccountReading = {
     },
     {
       invariantKind: "departure",
-      statement: "The whole fleet is listed by one function here.",
+      statement: "The whole fleet is answered by one function here.",
     },
     {
       invariantKind: "departure",
-      statement: "A fleet answer is that listing followed by a single-account read for each slug.",
+      statement:
+        "A fleet answer is one read of the index the fleet is filed in followed by a single-account read for each slug.",
     },
     {
       invariantKind: "departure",
@@ -119,7 +120,7 @@ export const claudeAccountReading = {
     },
     {
       invariantKind: "stopgap",
-      statement: "A rescued pair spelled in kebab-case is read as one spelled in akasha's keys.",
+      statement: "A rescued pair spelled in kebab-case is read as a pair spelled in akasha's keys.",
     },
     {
       invariantKind: "gap",
