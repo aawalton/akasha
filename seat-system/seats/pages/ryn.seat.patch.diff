@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/code-system/eso-addons/eso-addon.page-type.ts b/code-system/eso-addons/eso-addon.page-type.ts
+index f805bd4a218bcfa8623b845c03aeb10f60a20de6..0dba3a1783b393c374067503de6baecba695f6c8 100644
+--- a/code-system/eso-addons/eso-addon.page-type.ts
++++ b/code-system/eso-addons/eso-addon.page-type.ts
+@@ -61,7 +61,7 @@ export const esoAddon = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seam writes the manifest the game reads from the one beside the page.",
++      statement: "A seam writes the manifest the game reads from the manifest beside the page.",
+     },
+     {
+       invariantKind: "departure",
