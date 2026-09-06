@@ -8,16 +8,6 @@ export const nimueComputedProperties = {
   personaSlug: "nimue",
   intents: [
     {
-      statement: "A property states the calculation that fills it.",
-      workingMemory:
-        "Every wake-day property and every collection property is a calculation now, and no formula-property page remains anywhere in akasha. A calculation loads by transpiling its code file's text, so the pages package reaches one without naming the domain holding it. Left here: the WorkedX type each page type hand-writes beside its stored type, which a generator is to write instead.",
-    },
-    {
-      statement: "A calculation names its inputs rather than reaching for what it likes.",
-      workingMemory:
-        "One shape rather than three. A same-page read needs nothing of its own, the page type already declaring every key and typing it, which is why all thirty-one landed calculations read `page` alone and none has used `reach` yet. A cross-page read goes through `reach.target<T>(slug)`, answering the same lazily worked page so hops compose. A generated WorkedX type would make that generic inferrable without one call site changing.",
-    },
-    {
       statement:
         "A check refuses a calculation reaching outside its shape or answering twice over.",
       workingMemory:
