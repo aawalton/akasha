@@ -37,6 +37,19 @@ index fb33970fb57851b6aba1dbdd387a00117f68bb70..714bd1cb16c49739881ff2f0e632cfb3
      ]),
      ...landed.report,
    ])
+diff --git a/alan/fitness/commands/track-workout-finish/track-workout-finish.command.ts b/alan/fitness/commands/track-workout-finish/track-workout-finish.command.ts
+index 9747dfe0eed019e7d2a40d6c58c91ffec8a4f9c6..555f81b41b26e968bb92a3c15f47ff73e6b35edd 100644
+--- a/alan/fitness/commands/track-workout-finish/track-workout-finish.command.ts
++++ b/alan/fitness/commands/track-workout-finish/track-workout-finish.command.ts
+@@ -18,7 +18,7 @@ export const trackWorkoutFinish = {
+   helpNotes: [
+     "notes given are added under the notes already there rather than written over them.",
+     "the duration is the minutes between the moment started and the moment closed.",
+-    "the volume counts the bodyweight the client profile states.",
++    "the volume is the figure the session carries rather than a count made here.",
+   ],
+   invariants: [
+     {
 diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
 index f0fa55ced9031bfdc5c83cabe230428f8954e0ae..916d3b5dfbcb1754b8f07fecab7992d5872eb0dc 100644
 --- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
