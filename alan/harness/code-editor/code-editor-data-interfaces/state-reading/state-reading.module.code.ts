@@ -15,7 +15,7 @@ import { type FSWatcher, readFileSync, watch } from "node:fs"
 import { basename, dirname, join } from "node:path"
 
 const PAGES_AT = "alan/harness/code-editor/code-editor-data-interfaces/pages"
-const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
+const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.json"
 
 export type Reading = {
   readonly stop: () => undefined

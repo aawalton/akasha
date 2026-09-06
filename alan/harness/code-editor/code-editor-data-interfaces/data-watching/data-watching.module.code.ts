@@ -55,7 +55,7 @@ const TURN_STATES_AT = "seat-system/seat-turn-states/pages"
 // files and 39 MB, which is far more than reading it at every write is worth.
 const INDEX_VALUE_AT = ".git/data/index/value"
 const SIDECAR = ".uncommitted.ts"
-const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
+const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.json"
 const SETTLE_MS = 25
 
 // One picture, the folders it is made from, and the cooldown it is written under. `holds` answers

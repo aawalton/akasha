@@ -41,7 +41,7 @@ export const codeEditorDataInterface = {
       required: false,
       many: false,
       uncommitted: true,
-      default: "jsonl",
+      default: "json",
     },
   ],
   invariants: [

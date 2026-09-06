@@ -1,6 +1,6 @@
 import type { FileProperty } from "@akasha/pages/file-property"
 
-export type State = "jsonl"
+export type State = "json"
 
 export const state = {
   id: "01a07235-8d04-7c15-8c68-fc8181d908e4",
@@ -30,11 +30,11 @@ export const state = {
     },
     {
       invariantKind: "departure",
-      statement: "One line holds the whole state a part of the editor draws.",
+      statement: "One JSON document holds the whole state a part of the editor draws.",
     },
     {
       invariantKind: "departure",
-      statement: "A write replaces that line rather than adding a line after that line.",
+      statement: "A write replaces the whole file rather than adding to the file.",
     },
   ],
 } as const satisfies FileProperty

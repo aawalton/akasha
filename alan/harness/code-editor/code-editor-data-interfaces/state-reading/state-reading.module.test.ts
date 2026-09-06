@@ -6,7 +6,7 @@ import { followState, readState, stateAt } from "./state-reading.module.code.ts"
 
 const PAGES_AT = "alan/harness/code-editor/code-editor-data-interfaces/pages"
 const SCRATCH_AT = "alan/harness/code-editor/code-editor-data-interfaces"
-const TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
+const TAIL = ".code-editor-data-interface.state.uncommitted.json"
 const SLUG = "work-tree"
 
 let root: string
@@ -55,7 +55,7 @@ test("a body that will not parse answers nothing rather than throwing", () => {
   expect(readState(at)).toBe(null)
 })
 
-test("one line is read whole", () => {
+test("one document is read whole", () => {
   serviceWrites('{"roots":[{"key":"a","label":"A","at":null,"color":null}]}')
   const held = readState<{ roots: readonly { key: string }[] }>(at)
   expect(held?.roots[0]?.key).toBe("a")
