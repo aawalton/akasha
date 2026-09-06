@@ -44,14 +44,6 @@ export const checking = {
     },
     {
       invariantKind: "departure",
-      statement: "The change a check is run over is narrowed to the akasha folder here.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A path outside the akasha folder is input to no check and is judged by no check.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A check no changed path is input to does not run.",
     },
     {

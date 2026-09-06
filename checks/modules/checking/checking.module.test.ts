@@ -43,10 +43,6 @@ const GONE_TS = "akasha/gone.ts"
 
 const STAYS_TS = "akasha/stays.ts"
 
-const OUTSIDE_AT = "tools/agent-decide.ts"
-
-const SHAPED = "folder-matches-a-shape"
-
 const WHOLE_TREE_CHECKS_TAKE = 30_000
 
 afterAll(scratch.sweep)
@@ -302,13 +298,6 @@ test("`checksFor` names the checks that ran and `named` names every check the ga
   expect((await gate.over(overMd)).map((one) => one.reason)).toEqual(["refused"])
 })
 
-test("a path outside the akasha folder is passed over rather than refused", async () => {
-  const root = rootWith([{ slug: "refuses-all", runsOn: ["patch"], body: REFUSES_ALL }])
-  writeFileSync(join(root, ONE_TS), "one")
-  const said = await judgingBy(checksIn(root), "patch").over(overIn(root, [ONE_TS, OUTSIDE_AT]))
-  expect(said.map((one) => one.path)).toEqual([ONE_TS])
-})
-
 test(
   "a check refuses nothing in a change its own input turns away whole",
   async () => {
@@ -327,14 +316,3 @@ test(
   },
   WHOLE_TREE_CHECKS_TAKE
 )
-
-test("a check carrying no guard of its own takes no path outside the akasha folder", async () => {
-  const gate = judgingBy(
-    checksIn(ROOT).filter((one) => one.slug === SHAPED),
-    "patch"
-  )
-  expect(gate.named).toEqual([SHAPED])
-  expect(gate.checksFor(over([OUTSIDE_AT]))).toEqual([])
-  expect(await gate.over(over([OUTSIDE_AT]))).toEqual([])
-  expect(gate.checksFor(over(SAMPLED))).toEqual([SHAPED])
-})
