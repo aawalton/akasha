@@ -260,3 +260,15 @@ index 4d0648403681b8836ec32f2e39813eea522f7b18..1930c3d134ad81559ee48fab6b1adae0
    viewPlace: 0,
    layout: "cards",
    viewSorts: [{ key: "title", descending: false }],
+diff --git a/pages/views/pages/stories-anthology.view.ts b/pages/views/pages/stories-anthology.view.ts
+index d91f260e3088ba018cd458bf2093fd0346908917..ec72e37b32ec551954233b6d55ce88d4cf50929c 100644
+--- a/pages/views/pages/stories-anthology.view.ts
++++ b/pages/views/pages/stories-anthology.view.ts
+@@ -6,6 +6,7 @@ export const storiesAnthology = {
+   slug: "stories-anthology",
+   title: "Anthology",
+   navSlug: "stories",
++  pageType: "story-chapter-written",
+   layout: "list",
+   narrows: [{ key: "partOf", comparison: "is", values: ["anthology"] }],
+   viewSorts: [{ key: "position", descending: false }],
