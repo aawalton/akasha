@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-my-gender-archetype-ranking-works.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-my-gender-archetype-ranking-works.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6eac2489ee5a14c1abbb563d6862c0ed54a9b3eb
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-my-gender-archetype-ranking-works.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howMyGenderArchetypeRankingWorks = {
++  id: "01a077e8-b06c-70d7-8c96-b4975afefd0e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-my-gender-archetype-ranking-works",
++  topicSlug: "where-i-land-on-gender",
++  ask: "Written down as a method, how does the archetype system work that ranked my story and my behaviour at eighty percent male?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-maleness-comes-to-in-its-own-sitting.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-maleness-comes-to-in-its-own-sitting.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..085850c7c0c17752d0fa9c3ee0e25b245a66a7ad
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-maleness-comes-to-in-its-own-sitting.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMalenessComesToInItsOwnSitting = {
++  id: "01a077e8-b077-7b6f-a982-e2d684facef1",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-maleness-comes-to-in-its-own-sitting",
++  topicSlug: "where-i-land-on-gender",
++  ask: "Taken whole in a sitting of its own rather than piecemeal, what does maleness come to beyond my two recorded complaints, physiology built obscenely around sex and the pull toward violence?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-women-and-men-parallel-generalises.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-women-and-men-parallel-generalises.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..70c7fc0ea6739298e696a2d224f2684cd11ad7b4
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-women-and-men-parallel-generalises.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheWomenAndMenParallelGeneralises = {
++  id: "01a077e8-b073-749b-9e80-ade90aca61b2",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-women-and-men-parallel-generalises",
++  topicSlug: "where-i-land-on-gender",
++  ask: "Does the parallel with how women are placed against men generalise beyond this one instance?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-feminine-signals-raise-my-safety.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-feminine-signals-raise-my-safety.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..424b9c92addc2f68bdb87fc7bd602d17241b10d0
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-feminine-signals-raise-my-safety.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichFeminineSignalsRaiseMySafety = {
++  id: "01a077e8-b072-7919-aa13-82fdc33e9fed",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-feminine-signals-raise-my-safety",
++  topicSlug: "where-i-land-on-gender",
++  ask: "Which feminine signals do I use to raise my own safety, catalogued visible against private and now against earlier?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/where-i-land-on-gender.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/where-i-land-on-gender.all-about-alan-topic.ts
+index f0eb6393d07c3aae0dc18e681207c44b4bffafda..f003fbe8f96599ea6c37da7e0890c16da2cad972 100644
+--- a/alan/books/all-about-alan/topics/pages/where-i-land-on-gender.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/where-i-land-on-gender.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whereILandOnGender = {
+   relatedSlugs: ["how-i-read-myself", "safety-level"],
+   settled:
+     "The layers are my genes, my body, what I feel, the story I tell and how I act. Four land male.\n\nThe felt one reads neither, because I feel autistic far more strongly than I feel gendered.\n\nMost people grow a felt gender by sampling without noticing. My sampler is missing, and a safety reading fills the slot. Femininity is one of my strongest safe signals.\n\nRanking me against male and female archetypes put my story and my behaviour at eighty percent male, though not neurotypical male.",
+-  unsettled:
+-    "The archetype system behind that number has never been written down as a method.\n\nWhich feminine signals I use to raise my own safety is uncatalogued, visible against private, now against earlier.\n\nWhether the parallel with how women stand to men generalises beyond this instance is unestablished.\n\nMaleness has never had its own sitting. My two complaints stand recorded, physiology built obscenely around sex and the pull toward violence, and it is not to be worked piecemeal.",
+ } as const satisfies AllAboutAlanTopic
