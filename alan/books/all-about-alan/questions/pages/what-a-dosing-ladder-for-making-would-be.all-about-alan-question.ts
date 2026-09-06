@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+
+export const whatADosingLadderForMakingWouldBe = {
+  id: "01a077eb-6c35-7b2b-9d26-226a07b08b9d",
+  pageTypeSlug: "all-about-alan-question",
+  slug: "what-a-dosing-ladder-for-making-would-be",
+  topicSlug: "why-making-things-hurts",
+  ask: "What dose, what ceiling and what ladder would the graduated-dosing apparatus have here? The apparatus is scoped to connection and was never brought to making.",
+} as const satisfies AllAboutAlanQuestion
