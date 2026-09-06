@@ -9,10 +9,10 @@ export const cadwellStops = {
   propertySlug: "cadwell-stops",
   definition: "the points of interest Cadwell names in a level, one point to a line",
   properties: [
-    { pagePropertySlug: "zone-index", required: true, many: false },
-    { pagePropertySlug: "zone-name", required: true, many: false },
-    { pagePropertySlug: "stop-index", required: true, many: false },
-    { pagePropertySlug: "poi-name", required: true, many: false },
+    { pagePropertySlug: "number-property/zone-index", required: true, many: false },
+    { pagePropertySlug: "text-property/zone-name", required: true, many: false },
+    { pagePropertySlug: "number-property/stop-index", required: true, many: false },
+    { pagePropertySlug: "text-property/poi-name", required: true, many: false },
   ],
   invariants: [
     {

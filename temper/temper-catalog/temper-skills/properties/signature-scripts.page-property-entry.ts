@@ -9,8 +9,8 @@ export const signatureScripts = {
   propertySlug: "signature-scripts",
   definition: "the signature scripts a grimoire takes, one to a line",
   properties: [
-    { pagePropertySlug: "script-id", required: true, many: false },
-    { pagePropertySlug: "class-id", required: false, many: false },
-    { pagePropertySlug: "description", required: true, many: false },
+    { pagePropertySlug: "text-property/script-id", required: true, many: false },
+    { pagePropertySlug: "text-property/class-id", required: false, many: false },
+    { pagePropertySlug: "text-property/description", required: true, many: false },
   ],
 } as const satisfies PagePropertyEntry

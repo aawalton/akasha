@@ -24,9 +24,9 @@ export const temperScribingSource = {
     "text-property/zone-slugs",
   ],
   properties: [
-    { pagePropertySlug: "display-order", required: true, many: false },
-    { pagePropertySlug: "script-type", required: true, many: false },
-    { pagePropertySlug: "tier-achievements", required: true, many: false },
-    { pagePropertySlug: "zone-slugs", required: true, many: true, max: null },
+    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pagePropertySlug: "text-property/script-type", required: true, many: false },
+    { pagePropertySlug: "page-property-entry/tier-achievements", required: true, many: false },
+    { pagePropertySlug: "text-property/zone-slugs", required: true, many: true, max: null },
   ],
 } as const satisfies PageType

@@ -14,7 +14,9 @@ export const temperPursuitThing = {
   pluralSlug: "temper-pursuit-things",
   extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/eso-collectible-id"],
-  properties: [{ pagePropertySlug: "eso-collectible-id", required: false, many: false }],
+  properties: [
+    { pagePropertySlug: "number-property/eso-collectible-id", required: false, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",

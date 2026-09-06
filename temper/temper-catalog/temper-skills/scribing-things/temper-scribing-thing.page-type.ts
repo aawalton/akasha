@@ -15,8 +15,8 @@ export const temperScribingThing = {
   extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/uesp-id"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "item-id", required: true, many: false },
-    { pagePropertySlug: "uesp-id", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "number-property/item-id", required: true, many: false },
+    { pagePropertySlug: "number-property/uesp-id", required: true, many: false },
   ],
 } as const satisfies PageType

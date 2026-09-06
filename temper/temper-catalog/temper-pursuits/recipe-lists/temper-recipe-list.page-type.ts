@@ -19,7 +19,7 @@ export const temperRecipeList = {
     "text-property/recipe-name",
   ],
   properties: [
-    { pagePropertySlug: "display-order", required: true, many: false },
+    { pagePropertySlug: "number-property/display-order", required: true, many: false },
     { pagePropertySlug: "page-property-entry/recipes", required: true, many: false },
   ],
   invariants: [

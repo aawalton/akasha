@@ -19,9 +19,9 @@ export const temperResearchLine = {
     "text-property/trait-name",
   ],
   properties: [
-    { pagePropertySlug: "parent", required: true, many: false },
-    { pagePropertySlug: "display-order", required: true, many: false },
-    { pagePropertySlug: "traits", required: true, many: false },
+    { pagePropertySlug: "text-property/parent", required: true, many: false },
+    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pagePropertySlug: "page-property-entry/traits", required: true, many: false },
   ],
   invariants: [
     {

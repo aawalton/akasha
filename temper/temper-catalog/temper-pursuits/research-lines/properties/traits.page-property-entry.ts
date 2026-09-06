@@ -9,8 +9,8 @@ export const traits = {
   propertySlug: "traits",
   definition: "the traits a research line covers, one trait to a line",
   properties: [
-    { pagePropertySlug: "trait-index", required: true, many: false },
-    { pagePropertySlug: "trait-name", required: true, many: false },
+    { pagePropertySlug: "number-property/trait-index", required: true, many: false },
+    { pagePropertySlug: "text-property/trait-name", required: true, many: false },
   ],
   invariants: [
     {

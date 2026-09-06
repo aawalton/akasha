@@ -28,11 +28,11 @@ export const temperGrimoire = {
     "text-property/script-id",
   ],
   properties: [
-    { pagePropertySlug: "icon", required: true, many: false },
-    { pagePropertySlug: "ability-icon", required: true, many: false },
-    { pagePropertySlug: "skill-line-id", required: true, many: false },
-    { pagePropertySlug: "focus-scripts", required: true, many: true, max: null },
-    { pagePropertySlug: "affix-scripts", required: true, many: false },
-    { pagePropertySlug: "signature-scripts", required: true, many: false },
+    { pagePropertySlug: "text-property/icon", required: true, many: false },
+    { pagePropertySlug: "text-property/ability-icon", required: true, many: false },
+    { pagePropertySlug: "text-property/skill-line-id", required: true, many: false },
+    { pagePropertySlug: "text-property/focus-scripts", required: true, many: true, max: null },
+    { pagePropertySlug: "page-property-entry/affix-scripts", required: true, many: false },
+    { pagePropertySlug: "page-property-entry/signature-scripts", required: true, many: false },
   ],
 } as const satisfies PageType

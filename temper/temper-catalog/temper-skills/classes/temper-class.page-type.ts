@@ -15,7 +15,7 @@ export const temperClass = {
   extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/eso-class-id"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "eso-class-id", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "number-property/eso-class-id", required: true, many: false },
   ],
 } as const satisfies PageType

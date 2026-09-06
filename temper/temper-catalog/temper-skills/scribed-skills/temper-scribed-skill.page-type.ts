@@ -17,8 +17,8 @@ export const temperScribedSkill = {
   extendsSlug: ["page-type/temper-skill"],
   partSlugs: ["text-property/focus-script-id", "text-property/grimoire-id"],
   properties: [
-    { pagePropertySlug: "icon", required: true, many: false },
-    { pagePropertySlug: "focus-script-id", required: true, many: false },
-    { pagePropertySlug: "grimoire-id", required: true, many: false },
+    { pagePropertySlug: "text-property/icon", required: true, many: false },
+    { pagePropertySlug: "text-property/focus-script-id", required: true, many: false },
+    { pagePropertySlug: "text-property/grimoire-id", required: true, many: false },
   ],
 } as const satisfies PageType

@@ -9,8 +9,8 @@ export const books = {
   propertySlug: "books",
   definition: "the books a lore collection holds, one book to a line",
   properties: [
-    { pagePropertySlug: "book-index", required: true, many: false },
-    { pagePropertySlug: "book-name", required: true, many: false },
+    { pagePropertySlug: "number-property/book-index", required: true, many: false },
+    { pagePropertySlug: "text-property/book-name", required: true, many: false },
   ],
   invariants: [
     {

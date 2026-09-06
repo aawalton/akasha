@@ -19,8 +19,8 @@ export const temperCadwellLevel = {
     "page-property-entry/cadwell-stops",
   ],
   properties: [
-    { pagePropertySlug: "display-order", required: true, many: false },
-    { pagePropertySlug: "cadwell-stops", required: true, many: false },
+    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pagePropertySlug: "page-property-entry/cadwell-stops", required: true, many: false },
   ],
   invariants: [
     {
