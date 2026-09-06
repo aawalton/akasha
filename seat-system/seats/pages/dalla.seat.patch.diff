@@ -1,0 +1,57 @@
+diff --git a/changes/command/change-command.page-type.ts b/changes/command/change-command.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..596b588e7c7ea060eae17da3e8bc7dd6e9cc074c
+--- /dev/null
++++ b/changes/command/change-command.page-type.ts
+@@ -0,0 +1,51 @@
++import type { PageType } from "../../pages/types/page-type.page-type.ts"
++import type { Change } from "../change.page-type.ts"
++
++export type ChangeCommand = Change & {
++  isCommand: true
++  runsChecks: true
++}
++
++export const changeCommand = {
++  id: "01a0776c-8c13-7ac0-8dbc-a0def0060834",
++  pageTypeSlug: "page-type",
++  slug: "change-command",
++  definition: "a change the change command runs",
++  pluralSlug: "change-command",
++  partSlugs: [],
++  extendsSlug: ["page-type/change"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A command change is one option the change command offers.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A command change is a function the change command calls.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A command change runs the checks.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A command change is expected to pass checks.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A command change decides which partial change fits the page named.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A command change runs partial changes rather than working out bodies itself.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads an argument off the command line.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here parses what the change command was called with.",
++    },
++  ],
++} as const satisfies PageType
