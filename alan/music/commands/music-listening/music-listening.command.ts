@@ -24,7 +24,7 @@ export const musicListening = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The four reads are made together rather than one after another.",
+      statement: "The four reads are made together rather than in turn.",
     },
     {
       invariantKind: "departure",
