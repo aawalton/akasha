@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-a-dream-survives-broken-recall.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-a-dream-survives-broken-recall.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8ecb733712ffcd7609168ade739b02cf3f1f78c3
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-a-dream-survives-broken-recall.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howADreamSurvivesBrokenRecall = {
++  id: "01a077ed-6e27-7c8b-abb1-7d83b1766b77",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-a-dream-survives-broken-recall",
++  topicSlug: "what-happens-when-i-sleep",
++  ask: "If my waking recall is broken, how does enough of a dream survive for me to know it held senses and feelings, and to write it down?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-a-bedtime-reading-against-nightmares-shows.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-a-bedtime-reading-against-nightmares-shows.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bbf47e056507915410514df33d2d87d1e17e814d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-a-bedtime-reading-against-nightmares-shows.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatABedtimeReadingAgainstNightmaresShows = {
++  id: "01a077ed-6e29-765d-9eb8-628a45a1cf32",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-a-bedtime-reading-against-nightmares-shows",
++  topicSlug: "what-happens-when-i-sleep",
++  ask: "What would a measured bedtime reading against my nightmare frequency show, and would that reading make a long-held observation falsifiable?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-nightmare-content-carries-signal.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-nightmare-content-carries-signal.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..96adec14984e0d502c6ae49b61932852cf0f2436
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-nightmare-content-carries-signal.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherNightmareContentCarriesSignal = {
++  id: "01a077ed-6e29-71fc-8d39-154b26b89003",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-nightmare-content-carries-signal",
++  topicSlug: "what-happens-when-i-sleep",
++  ask: "Does my nightmare content carry recoverable signal about what my feelings do out of sight, or is that content noise?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-sleep-assembles-compound-feelings.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-sleep-assembles-compound-feelings.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..61942d75499b3b74d3b7a13f3cb087c4b1a81b7d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-sleep-assembles-compound-feelings.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherSleepAssemblesCompoundFeelings = {
++  id: "01a077ed-6e28-7028-a8c5-e00195d84421",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-sleep-assembles-compound-feelings",
++  topicSlug: "what-happens-when-i-sleep",
++  ask: "Does sleep assemble the compound feelings, grief and anxiety and hope, that I can rarely assemble awake?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-happens-when-i-sleep.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-happens-when-i-sleep.all-about-alan-topic.ts
+index 125a295120cd11856d059a364b05179dcbd7137f..ebef6fa9950a53226e47d5b5712be54206d72063 100644
+--- a/alan/books/all-about-alan/topics/pages/what-happens-when-i-sleep.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-happens-when-i-sleep.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatHappensWhenISleep = {
+   relatedSlugs: ["how-i-read-myself", "the-pictures-at-the-edge-of-sleep"],
+   settled:
+     "Asleep I get novel-length stories, half a dozen characters, full settings, and an emotional score under them.\n\nThat is the proof the break is at recall and nowhere earlier. The parts that build it are all there.\n\nMore of my cortisol at bedtime means more nightmares. That is the whole of what I claim.\n\nI have gone through phases of writing them down on waking, as story ideas.",
+-  unsettled:
+-    "If waking recall is broken, how enough of a dream survives to know it held senses and feelings, and to be written down, is open.\n\nWhether sleep assembles the compound feelings, grief and anxiety and hope, that I can rarely assemble awake, is unprobed.\n\nWhether the nightmare content carries recoverable signal about what my feelings do out of sight, or is noise, is unasked.\n\nA measured bedtime reading against nightmare frequency would turn a long-held observation into something falsifiable.",
+ } as const satisfies AllAboutAlanTopic
