@@ -5,7 +5,7 @@ import type { WorkedClaudeAccount } from "../claude-account.page-type.worked.ts"
 import { work } from "./effective-five-hour-usage.computed-property.code.ts"
 import { work as sevenDay } from "./effective-seven-day-usage.computed-property.code.ts"
 
-const REACH: Reach = { target: () => null }
+const REACH: Reach = { target: () => null, naming: () => [] }
 
 function account(held: Record<string, unknown>): WorkedClaudeAccount {
   return { slug: "aine", ...held } as unknown as WorkedClaudeAccount

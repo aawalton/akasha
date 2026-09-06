@@ -63,11 +63,27 @@ export const pageComputing = {
     },
     {
       invariantKind: "departure",
-      statement: "A reach answers the page one slug names, worked as lazily as the page handed in.",
+      statement: "A reach answers the page one slug names.",
     },
     {
       invariantKind: "departure",
       statement: "A reach reaching no page answers nothing rather than refusing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page a naming reach starts from is the page whose calculation is running.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A source stating no way to answer a naming answers no page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page reached under two names is worked once.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The shape a calculation is handed is taken from the computed property page type.",
     },
     {
       invariantKind: "departure",

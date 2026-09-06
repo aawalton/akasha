@@ -1,6 +1,8 @@
 import { describe, expect, test } from "bun:test"
-import type { Held } from "../computing/page-computing.module.code.ts"
+import type { Held, Reach } from "../computing/page-computing.module.code.ts"
 import { workIn } from "./calculation-loading.module.code.ts"
+
+const REACH: Reach = { target: () => null, naming: () => [] }
 
 const CALCULATION = [
   'import type { Work } from "@akasha/pages/computed-property"',
@@ -16,13 +18,13 @@ describe("the calculation a code file exports", () => {
   test("a code file exporting `work` answers that function", () => {
     const loaded = workIn(CALCULATION)
     if ("failed" in loaded) throw new Error(loaded.failed)
-    expect(loaded.work({ strengthVolume: 700 } as Held, { target: () => null })).toBe(100)
+    expect(loaded.work({ strengthVolume: 700 } as Held, REACH)).toBe(100)
   })
 
   test("a calculation reading a key the page does not carry answers nothing", () => {
     const loaded = workIn(CALCULATION)
     if ("failed" in loaded) throw new Error(loaded.failed)
-    expect(loaded.work({} as Held, { target: () => null })).toBe(null)
+    expect(loaded.work({} as Held, REACH)).toBe(null)
   })
 
   test("a type an import names is gone before the text is run", () => {

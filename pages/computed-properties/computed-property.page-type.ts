@@ -10,6 +10,7 @@ export type ComputedProperty = Module &
 
 export type Reach = {
   target: <Held>(slug: string) => Held | null
+  naming: <Held>(propertySlug: string) => readonly Held[]
 }
 
 export type Work<Page, Held> = (page: Page, reach: Reach) => Held | null
@@ -58,6 +59,24 @@ export const computedProperty = {
       invariantKind: "departure",
       statement:
         "A calculation reaches another page only through the reach that calculation is handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reach names one page or every page naming the page being worked out.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The pages naming one page are reached under the relation property that names that page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each page a reach answers is worked as lazily as the page handed in.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The shape of a reach is declared here rather than beside the engine working a calculation.",
     },
     {
       invariantKind: "departure",
