@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts b/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
+index 6dfa714a1b4f186ed8fe694bcb2a09fcd4a8db0e..9615a388fb7a926fd94e7be7888779663fb8bca0 100644
+--- a/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
++++ b/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
+@@ -55,7 +55,7 @@ export const manifestLandsOnAFile = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A target nested under a condition is judged as a plain one is.",
++      statement: "A target nested under a condition is judged as a plain target is.",
+     },
+     {
+       invariantKind: "gap",
