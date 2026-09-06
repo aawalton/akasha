@@ -1168,3 +1168,393 @@ index bd7751cd23a2d7ab5e6ddab006e4eb46f4412455..2688334e732e0920b1a8c9a8820ca3a0
      scoredOn: "2026-06-19",
      status: "unopened",
      partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/06-military-technology/learn-everything-topic-06-military-technology.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/06-military-technology/learn-everything-topic-06-military-technology.learn-everything-topic.ts
+index 68cf2439444d03b847bc73133d511a0356a6651b..621468809aaa7034c8b95a88e671d7a59b65600b 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/06-military-technology/learn-everything-topic-06-military-technology.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/06-military-technology/learn-everything-topic-06-military-technology.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic06MilitaryTechnology = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-06-military-technology",
+   node: "Technology › Fields of Technology › Military Technology",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-03-fields-of-technology"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/06-personality-and-the-self-integration-and-disintegration/learn-everything-topic-06-personality-and-the-self-integration-and-disintegration.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/06-personality-and-the-self-integration-and-disintegration/learn-everything-topic-06-personality-and-the-self-integration-and-disintegration.learn-everything-topic.ts
+index b04f272605aea7341cf5d9b7e65499489019f4ce..a7190bbf464737b566ff430b75c4ee576d6c82e8 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/06-personality-and-the-self-integration-and-disintegration/learn-everything-topic-06-personality-and-the-self-integration-and-disintegration.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/06-personality-and-the-self-integration-and-disintegration/learn-everything-topic-06-personality-and-the-self-integration-and-disintegration.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic06PersonalityAndTheSelfIntegrationAndDisintegra
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-06-personality-and-the-self-integration-and-disintegration",
+   node: "Human Life › Human Behavior and Experience › Personality and the Self: Integration and Disintegration",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-03-human-behavior-and-experience"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/06-preservation-of-knowledge/learn-everything-topic-06-preservation-of-knowledge.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/06-preservation-of-knowledge/learn-everything-topic-06-preservation-of-knowledge.learn-everything-topic.ts
+index 65530e8185e4be11cc2691a6031df1845a100998..545c9a717a3ed7d2d4ca331995697ec410ef8133 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/06-preservation-of-knowledge/learn-everything-topic-06-preservation-of-knowledge.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/06-preservation-of-knowledge/learn-everything-topic-06-preservation-of-knowledge.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic06PreservationOfKnowledge = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-06-preservation-of-knowledge",
+   node: "The Branches of Knowledge › Preservation of Knowledge",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-10-the-branches-of-knowledge"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/06-south-and-southeast-asia-the-late-colonial-period-and-nations-since-1920/learn-everything-topic-06-south-and-southeast-asia-the-late-colonial-period-and-nations-since-1920.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/06-south-and-southeast-asia-the-late-colonial-period-and-nations-since-1920/learn-everything-topic-06-south-and-southeast-asia-the-late-colonial-period-and-nations-since-1920.learn-everything-topic.ts
+index 61432dd4732ddd6694457630e0a17880d7e986b9..b9ebba953faf10fba20356ca01c8bd4e44371dcd 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/06-south-and-southeast-asia-the-late-colonial-period-and-nations-since-1920/learn-everything-topic-06-south-and-southeast-asia-the-late-colonial-period-and-nations-since-1920.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/06-south-and-southeast-asia-the-late-colonial-period-and-nations-since-1920/learn-everything-topic-06-south-and-southeast-asia-the-late-colonial-period-and-nations-since-1920.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic06SouthAndSoutheastAsiaTheLateColonialPeriodAnd
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-06-south-and-southeast-asia-the-late-colonial-period-and-nations-since-1920",
+   node: "The History of Mankind › The World Since 1920 › South and Southeast Asia: the Late Colonial Period and Nations Since 1920",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-07-the-world-since-1920"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/06-the-indian-subcontinent-1200-1761-ceylon-1200-1505/learn-everything-topic-06-the-indian-subcontinent-1200-1761-ceylon-1200-1505.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/06-the-indian-subcontinent-1200-1761-ceylon-1200-1505/learn-everything-topic-06-the-indian-subcontinent-1200-1761-ceylon-1200-1505.learn-everything-topic.ts
+index 80e2d4f06084c602943ba0efb3c20a84561fe444..f950aae22834a5a3f3a54b12b745f48dedc4c667 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/06-the-indian-subcontinent-1200-1761-ceylon-1200-1505/learn-everything-topic-06-the-indian-subcontinent-1200-1761-ceylon-1200-1505.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/06-the-indian-subcontinent-1200-1761-ceylon-1200-1505/learn-everything-topic-06-the-indian-subcontinent-1200-1761-ceylon-1200-1505.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic06TheIndianSubcontinent12001761Ceylon12001505 =
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-06-the-indian-subcontinent-1200-1761-ceylon-1200-1505",
+   node: "The History of Mankind › East, Central, South, and Southeast Asia › The Indian Subcontinent 1200–1761, Ceylon 1200–1505",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-03-east-central-south-and-southeast-asia"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/06-the-modern-world-to-1920/learn-everything-topic-06-the-modern-world-to-1920.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/06-the-modern-world-to-1920/learn-everything-topic-06-the-modern-world-to-1920.learn-everything-topic.ts
+index 760e3ebdc4b28bd691ccd85442644c40c50994b0..01ff47790aafc1becdc54d3575069161a11201be 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/06-the-modern-world-to-1920/learn-everything-topic-06-the-modern-world-to-1920.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/06-the-modern-world-to-1920/learn-everything-topic-06-the-modern-world-to-1920.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic06TheModernWorldTo1920 = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-06-the-modern-world-to-1920",
+   node: "The History of Mankind › The Modern World to 1920",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-09-the-history-of-mankind"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/06-the-social-sciences-psychology-linguistics/learn-everything-topic-06-the-social-sciences-psychology-linguistics.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/06-the-social-sciences-psychology-linguistics/learn-everything-topic-06-the-social-sciences-psychology-linguistics.learn-everything-topic.ts
+index e683034ba3945524f9c1bef7c9edeeff53e328f5..55a65414200891953af7edf3b1fe1bef2a38e99d 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/06-the-social-sciences-psychology-linguistics/learn-everything-topic-06-the-social-sciences-psychology-linguistics.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/06-the-social-sciences-psychology-linguistics/learn-everything-topic-06-the-social-sciences-psychology-linguistics.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic06TheSocialSciencesPsychologyLinguistics = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-06-the-social-sciences-psychology-linguistics",
+   node: "The Branches of Knowledge › Science › The Social Sciences, Psychology, Linguistics",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-03-science"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-australia-and-oceania-since-1920/learn-everything-topic-07-australia-and-oceania-since-1920.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-australia-and-oceania-since-1920/learn-everything-topic-07-australia-and-oceania-since-1920.learn-everything-topic.ts
+index dc9106c69982a5633ba8efb0952855eb0e244890..0e243f80717eece4fe54a880c25dd1fe1bd934f9 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-australia-and-oceania-since-1920/learn-everything-topic-07-australia-and-oceania-since-1920.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-australia-and-oceania-since-1920/learn-everything-topic-07-australia-and-oceania-since-1920.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07AustraliaAndOceaniaSince1920 = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-australia-and-oceania-since-1920",
+   node: "The History of Mankind › The World Since 1920 › Australia and Oceania Since 1920",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-07-the-world-since-1920"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-australia-and-oceania-to-1920/learn-everything-topic-07-australia-and-oceania-to-1920.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-australia-and-oceania-to-1920/learn-everything-topic-07-australia-and-oceania-to-1920.learn-everything-topic.ts
+index 71a5e57f124879701536f527a9baf30505f8d49c..21aa212017bee499ad7526962e7778fd189a1f57 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-australia-and-oceania-to-1920/learn-everything-topic-07-australia-and-oceania-to-1920.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-australia-and-oceania-to-1920/learn-everything-topic-07-australia-and-oceania-to-1920.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07AustraliaAndOceaniaTo1920 = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-australia-and-oceania-to-1920",
+   node: "The History of Mankind › The Modern World to 1920 › Australia and Oceania to 1920",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-06-the-modern-world-to-1920"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-christianity/learn-everything-topic-07-christianity.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-christianity/learn-everything-topic-07-christianity.learn-everything-topic.ts
+index 4af929a5631657f30f4e1c80e6500c839a127202..3f189f94401251c2ff32a83db132ad154f31028f 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-christianity/learn-everything-topic-07-christianity.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-christianity/learn-everything-topic-07-christianity.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07Christianity = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-christianity",
+   node: "Religion › Particular Religions › Christianity",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-02-particular-religions"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-electricity-and-magnetism/learn-everything-topic-07-electricity-and-magnetism.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-electricity-and-magnetism/learn-everything-topic-07-electricity-and-magnetism.learn-everything-topic.ts
+index 8f15a816d0c4085a27b7b24c56b0afbc63a05a1f..3d7d181011c6bb49669352229bdbae0dea69a8b4 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-electricity-and-magnetism/learn-everything-topic-07-electricity-and-magnetism.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-electricity-and-magnetism/learn-everything-topic-07-electricity-and-magnetism.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07ElectricityAndMagnetism = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-electricity-and-magnetism",
+   node: "Matter and Energy › Energy, Radiation, and States of Matter › Electricity and Magnetism",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-reproduction-and-sex/learn-everything-topic-07-reproduction-and-sex.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-reproduction-and-sex/learn-everything-topic-07-reproduction-and-sex.learn-everything-topic.ts
+index dad36008d0a56263743020bd034713fa5593cd81..96630baaec37158747c774db4d81ac94b37c7c8f 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-reproduction-and-sex/learn-everything-topic-07-reproduction-and-sex.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-reproduction-and-sex/learn-everything-topic-07-reproduction-and-sex.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07ReproductionAndSex = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-reproduction-and-sex",
+   node: "Life on Earth › The Structures and Functions of Organisms › Reproduction and Sex",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-sculpture/learn-everything-topic-07-sculpture.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-sculpture/learn-everything-topic-07-sculpture.learn-everything-topic.ts
+index 3ed5c2300e53c45fbe8116661df177e243d966c1..1f1e3ac93f894c03695daa968723e4ef26d64f6e 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-sculpture/learn-everything-topic-07-sculpture.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-sculpture/learn-everything-topic-07-sculpture.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07Sculpture = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-sculpture",
+   node: "Art › Particular Arts › Sculpture",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-02-particular-arts"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-southeast-asia-to-1600/learn-everything-topic-07-southeast-asia-to-1600.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-southeast-asia-to-1600/learn-everything-topic-07-southeast-asia-to-1600.learn-everything-topic.ts
+index eb6ea6e37f7f3cb183623e5c4c268766fdac42ac..939e1255f771114380bfdc058f769aaf215b16bf 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-southeast-asia-to-1600/learn-everything-topic-07-southeast-asia-to-1600.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-southeast-asia-to-1600/learn-everything-topic-07-southeast-asia-to-1600.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07SoutheastAsiaTo1600 = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-southeast-asia-to-1600",
+   node: "The History of Mankind › East, Central, South, and Southeast Asia › Southeast Asia to 1600",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-03-east-central-south-and-southeast-asia"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-technology-of-the-urban-community/learn-everything-topic-07-technology-of-the-urban-community.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-technology-of-the-urban-community/learn-everything-topic-07-technology-of-the-urban-community.learn-everything-topic.ts
+index dbacf9706918b45c8e8b1e6f6dcc70ac0ed4fb18..beaaba9f6bff9561503cc031f3015c4657f74fe6 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-technology-of-the-urban-community/learn-everything-topic-07-technology-of-the-urban-community.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-technology-of-the-urban-community/learn-everything-topic-07-technology-of-the-urban-community.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07TechnologyOfTheUrbanCommunity = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-technology-of-the-urban-community",
+   node: "Technology › Fields of Technology › Technology of the Urban Community",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-03-fields-of-technology"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-technology/learn-everything-topic-07-technology.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-technology/learn-everything-topic-07-technology.learn-everything-topic.ts
+index 067022d38a3d222577459bce14d299845c1ae25a..bb4f731e0eee79e330fd37ac2801a52a0d63db08 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-technology/learn-everything-topic-07-technology.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-technology/learn-everything-topic-07-technology.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07Technology = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-technology",
+   node: "Technology",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["profile"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-the-achaemenid-persian-empire/learn-everything-topic-07-the-achaemenid-persian-empire.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-the-achaemenid-persian-empire/learn-everything-topic-07-the-achaemenid-persian-empire.learn-everything-topic.ts
+index 49c7454fff160e68e4807954c3334d78bd8923ea..4ecd9d31996520d2ff03ca50c5bbbe3d756eddd3 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-the-achaemenid-persian-empire/learn-everything-topic-07-the-achaemenid-persian-empire.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-the-achaemenid-persian-empire/learn-everything-topic-07-the-achaemenid-persian-empire.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07TheAchaemenidPersianEmpire = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-the-achaemenid-persian-empire",
+   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › The Achaemenid Persian Empire",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-21",
+   status: "unopened",
+   partOfSlugs: [
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-the-technological-sciences/learn-everything-topic-07-the-technological-sciences.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-the-technological-sciences/learn-everything-topic-07-the-technological-sciences.learn-everything-topic.ts
+index 8fe59e16a8599bb9e2bb653725c571bbe0aa4a56..fc92ffd6ab35d485d981faf194a6903fc92a67ac 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-the-technological-sciences/learn-everything-topic-07-the-technological-sciences.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-the-technological-sciences/learn-everything-topic-07-the-technological-sciences.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07TheTechnologicalSciences = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-the-technological-sciences",
+   node: "The Branches of Knowledge › Science › The Technological Sciences",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-03-science"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-the-world-since-1920/learn-everything-topic-07-the-world-since-1920.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-the-world-since-1920/learn-everything-topic-07-the-world-since-1920.learn-everything-topic.ts
+index dce238631dfac9b9362952ca28325b15784e3f67..a398838280a6a6b19655b6b3aa513c84dc483760 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-the-world-since-1920/learn-everything-topic-07-the-world-since-1920.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-the-world-since-1920/learn-everything-topic-07-the-world-since-1920.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07TheWorldSince1920 = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-the-world-since-1920",
+   node: "The History of Mankind › The World Since 1920",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-09-the-history-of-mankind"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/08-islam/learn-everything-topic-08-islam.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/08-islam/learn-everything-topic-08-islam.learn-everything-topic.ts
+index 9c5ff109a0adcdc813454bdf0d58d4fb70c43791..c839b4964bfc0ec4199a8b7753dd2cced307f51a 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/08-islam/learn-everything-topic-08-islam.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/08-islam/learn-everything-topic-08-islam.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic08Islam = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-08-islam",
+   node: "Religion › Particular Religions › Islam",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-02-particular-religions"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/08-parthian-and-sasanian-persia/learn-everything-topic-08-parthian-and-sasanian-persia.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/08-parthian-and-sasanian-persia/learn-everything-topic-08-parthian-and-sasanian-persia.learn-everything-topic.ts
+index 657aab371ba3cd90571fb604afe4a5f3dc9a3e14..885547b8c7ceef815473b6fb71174301c6849446 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/08-parthian-and-sasanian-persia/learn-everything-topic-08-parthian-and-sasanian-persia.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/08-parthian-and-sasanian-persia/learn-everything-topic-08-parthian-and-sasanian-persia.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic08ParthianAndSasanianPersia = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-08-parthian-and-sasanian-persia",
+   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › Parthian and Sasanian Persia",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-21",
+   status: "unopened",
+   partOfSlugs: [
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/08-religion/learn-everything-topic-08-religion.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/08-religion/learn-everything-topic-08-religion.learn-everything-topic.ts
+index 5fda73a6aa8444438a4dd5c55aa06fa71c06a589..99c4036658f63295b52be10edb12e2ef2b472890 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/08-religion/learn-everything-topic-08-religion.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/08-religion/learn-everything-topic-08-religion.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic08Religion = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-08-religion",
+   node: "Religion",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["profile"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/08-south-asia-under-european-imperialism-1500-1920/learn-everything-topic-08-south-asia-under-european-imperialism-1500-1920.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/08-south-asia-under-european-imperialism-1500-1920/learn-everything-topic-08-south-asia-under-european-imperialism-1500-1920.learn-everything-topic.ts
+index 3d0970cab6ca7619ba8d1fd2c203027d95273d7a..b0532ca0e4d6110fee4211b8244a0a8087bde966 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/08-south-asia-under-european-imperialism-1500-1920/learn-everything-topic-08-south-asia-under-european-imperialism-1500-1920.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/08-south-asia-under-european-imperialism-1500-1920/learn-everything-topic-08-south-asia-under-european-imperialism-1500-1920.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic08SouthAsiaUnderEuropeanImperialism15001920 = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-08-south-asia-under-european-imperialism-1500-1920",
+   node: "The History of Mankind › The Modern World to 1920 › South Asia Under European Imperialism 1500–1920",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-06-the-modern-world-to-1920"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/08-southwest-asia-and-africa-the-late-colonial-period-and-nations-since-1920/learn-everything-topic-08-southwest-asia-and-africa-the-late-colonial-period-and-nations-since-1920.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/08-southwest-asia-and-africa-the-late-colonial-period-and-nations-since-1920/learn-everything-topic-08-southwest-asia-and-africa-the-late-colonial-period-and-nations-since-1920.learn-everything-topic.ts
+index e38a64d85c39dabfdff9ea1c98d1b801d5bdd0ef..f57a8bd2f490df8a4deb3930a4362d857062c8c0 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/08-southwest-asia-and-africa-the-late-colonial-period-and-nations-since-1920/learn-everything-topic-08-southwest-asia-and-africa-the-late-colonial-period-and-nations-since-1920.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/08-southwest-asia-and-africa-the-late-colonial-period-and-nations-since-1920/learn-everything-topic-08-southwest-asia-and-africa-the-late-colonial-period-and-nations-since-1920.learn-everything-topic.ts
+@@ -6,7 +6,7 @@ export const learnEverythingTopic08SouthwestAsiaAndAfricaTheLateColonialPeriodAn
+     pageTypeSlug: "learn-everything-topic",
+     slug: "learn-everything-topic-08-southwest-asia-and-africa-the-late-colonial-period-and-nations-since-1920",
+     node: "The History of Mankind › The World Since 1920 › Southwest Asia and Africa: the Late Colonial Period and Nations since 1920",
+-    depth: 0,
++    masteryLevelSlug: "mastery-level/novice",
+     scoredOn: "2026-06-19",
+     status: "unopened",
+     partOfSlugs: ["learn-everything-topic-07-the-world-since-1920"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/08-technology-of-earth-and-space-exploration/learn-everything-topic-08-technology-of-earth-and-space-exploration.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/08-technology-of-earth-and-space-exploration/learn-everything-topic-08-technology-of-earth-and-space-exploration.learn-everything-topic.ts
+index 675d3a1f284e95cf3aa8235aaacefb9079f4fc7c..617cced1ad66637398894b3138f3270299346b72 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/08-technology-of-earth-and-space-exploration/learn-everything-topic-08-technology-of-earth-and-space-exploration.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/08-technology-of-earth-and-space-exploration/learn-everything-topic-08-technology-of-earth-and-space-exploration.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic08TechnologyOfEarthAndSpaceExploration = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-08-technology-of-earth-and-space-exploration",
+   node: "Technology › Fields of Technology › Technology of Earth and Space Exploration",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-03-fields-of-technology"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/09-decoration-and-design/learn-everything-topic-09-decoration-and-design.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/09-decoration-and-design/learn-everything-topic-09-decoration-and-design.learn-everything-topic.ts
+index a2421714aaf4cfffb1b1c348e7187cca8d081d72..b1506849b3997d96073f6e3e17675178d7dcfaaf 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/09-decoration-and-design/learn-everything-topic-09-decoration-and-design.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/09-decoration-and-design/learn-everything-topic-09-decoration-and-design.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic09DecorationAndDesign = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-09-decoration-and-design",
+   node: "Art › Particular Arts › Decoration and Design",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-02-particular-arts"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/09-heredity-the-transmission-of-traits/learn-everything-topic-09-heredity-the-transmission-of-traits.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/09-heredity-the-transmission-of-traits/learn-everything-topic-09-heredity-the-transmission-of-traits.learn-everything-topic.ts
+index 331d94e965a7626a119aca03e18888c5a3c3aa95..146b5700c850250eef7a6cdf31e4ffd625eebab5 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/09-heredity-the-transmission-of-traits/learn-everything-topic-09-heredity-the-transmission-of-traits.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/09-heredity-the-transmission-of-traits/learn-everything-topic-09-heredity-the-transmission-of-traits.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic09HeredityTheTransmissionOfTraits = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-09-heredity-the-transmission-of-traits",
+   node: "Life on Earth › The Structures and Functions of Organisms › Heredity: the Transmission of Traits",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/09-north-africa-carthage-and-kush/learn-everything-topic-09-north-africa-carthage-and-kush.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/09-north-africa-carthage-and-kush/learn-everything-topic-09-north-africa-carthage-and-kush.learn-everything-topic.ts
+index a1531f9f98f104b4dd189cfa379b2bf5582a3c3a..b438a828168d90e347ed5440c6647fbe446e84aa 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/09-north-africa-carthage-and-kush/learn-everything-topic-09-north-africa-carthage-and-kush.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/09-north-africa-carthage-and-kush/learn-everything-topic-09-north-africa-carthage-and-kush.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic09NorthAfricaCarthageAndKush = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-09-north-africa-carthage-and-kush",
+   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › North Africa: Carthage and Kush",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-21",
+   status: "unopened",
+   partOfSlugs: [
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/09-other-religions-and-religious-movements-in-the-modern-world/learn-everything-topic-09-other-religions-and-religious-movements-in-the-modern-world.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/09-other-religions-and-religious-movements-in-the-modern-world/learn-everything-topic-09-other-religions-and-religious-movements-in-the-modern-world.learn-everything-topic.ts
+index 89d0dd7638b2bceea4e2b0178c6ac672a85186f9..1700f99408056b870106b259bb52e02ce6973e45 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/09-other-religions-and-religious-movements-in-the-modern-world/learn-everything-topic-09-other-religions-and-religious-movements-in-the-modern-world.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/09-other-religions-and-religious-movements-in-the-modern-world/learn-everything-topic-09-other-religions-and-religious-movements-in-the-modern-world.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic09OtherReligionsAndReligiousMovementsInTheModer
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-09-other-religions-and-religious-movements-in-the-modern-world",
+   node: "Religion › Particular Religions › Other Religions and Religious Movements in the Modern World",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-02-particular-religions"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/09-southeast-asia-under-european-imperialism-1600-1920/learn-everything-topic-09-southeast-asia-under-european-imperialism-1600-1920.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/09-southeast-asia-under-european-imperialism-1600-1920/learn-everything-topic-09-southeast-asia-under-european-imperialism-1600-1920.learn-everything-topic.ts
+index f591ce8d818c517a9b6ab56102d6fab0b1419a84..fab6ad7852b3aae58978215a0facb5acdbfcb734 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/09-southeast-asia-under-european-imperialism-1600-1920/learn-everything-topic-09-southeast-asia-under-european-imperialism-1600-1920.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/09-southeast-asia-under-european-imperialism-1600-1920/learn-everything-topic-09-southeast-asia-under-european-imperialism-1600-1920.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic09SoutheastAsiaUnderEuropeanImperialism16001920
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-09-southeast-asia-under-european-imperialism-1600-1920",
+   node: "The History of Mankind › The Modern World to 1920 › Southeast Asia Under European Imperialism 1600–1920",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-06-the-modern-world-to-1920"],
