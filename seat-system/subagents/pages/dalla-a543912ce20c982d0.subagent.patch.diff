@@ -1,0 +1,294 @@
+diff --git a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts
+index f27dfd20877333351cfaf8aee9e4cb1b20dcdeb2..e8ef4dce1bd62fea7935ba2ad5ba2e538f15939c 100644
+--- a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts
++++ b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts
+@@ -1,7 +1,10 @@
+ import { literalOf, parsedAs } from "@akasha/code-system/code-source"
++import { respelled } from "@akasha/code-system/export-respelling"
+ import { type Named, namersOf, slugsOfType } from "@akasha/indexes"
++import { exportedAs } from "@akasha/pages/page-export-name"
+ import { slugFor } from "@akasha/pages/page-property-key"
+ import ts from "typescript"
++import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
+ 
+ const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
+ 
+@@ -75,6 +78,17 @@ export function statedIn(source: ts.SourceFile): ReadonlyMap<string, ts.StringLi
+   return new Map()
+ }
+ 
++function boundIn(source: ts.SourceFile): string | null {
++  for (const statement of source.statements) {
++    if (!ts.isVariableStatement(statement) || !exported(statement)) continue
++    for (const one of statement.declarationList.declarations) {
++      if (one.initializer === undefined || literalOf(one.initializer) === null) continue
++      if (ts.isIdentifier(one.name)) return one.name.text
++    }
++  }
++  return null
++}
++
+ function readdressed(said: string, one: Renaming): string | null {
+   if (said === one.was) return one.now
+   return said === `${one.pageTypeSlug}/${one.was}` ? `${one.pageTypeSlug}/${one.now}` : null
+@@ -159,6 +173,10 @@ export function renameSlug(
+   if (slug === undefined) return refusing(`\`${given.at}\` states no \`${SLUG}\``)
+   if (pageType === undefined) return refusing(`\`${given.at}\` states no \`${PAGE_TYPE_SLUG}\``)
+   if (id === undefined) return refusing(`\`${given.at}\` states no \`${ID}\``)
++  const bound = exportedAs(slug.text)
++  if (boundIn(source) !== bound) {
++    return refusing(`\`${given.at}\` exports no \`${bound}\`, the name its slug makes`)
++  }
+   if (!KEBAB.test(given.to)) {
+     return refusing(`\`${given.to}\` is no slug, a slug being lower kebab case`)
+   }
+@@ -193,5 +211,13 @@ export function renameSlug(
+     const next = splicedIn(body, held)
+     if (next !== body) bodies.set(path, next)
+   }
++  const reading = importingOf(root, new Map([[given.at, given.at]]))
++  if ("unread" in reading) return refusing(reading.unread)
++  const over = [given.at, ...reading.importers]
++  const spelled = respelled(root, given.at, over, bound, exportedAs(given.to), (path) => {
++    return bodies.get(path) ?? textOf(path)
++  })
++  if (spelled.bodies === null) return refusing(spelled.refused ?? `\`${bound}\` was not respelled`)
++  for (const [path, body] of spelled.bodies) bodies.set(path, body)
+   return { bodies, refused: null }
+ }
+diff --git a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.test.ts b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.test.ts
+index 00dafc0ab5130cfcb9a6213168110575f2b7c5bd..c2abf18d4dd9633f3421df606a7999ef09a91d7a 100644
+--- a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.test.ts
++++ b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.test.ts
+@@ -57,6 +57,13 @@ test("a body stating no id is refused", () => {
+   expect(whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`id\``)
+ })
+ 
++test("a body exporting no name its slug makes is refused", () => {
++  const body = WHOLE.replace("export const held", "export const it")
++  expect(whyOf(PAGE, KEPT, holding(body))).toBe(
++    `\`${PAGE}\` exports no \`${HELD_SLUG}\`, the name its slug makes`
++  )
++})
++
+ test("a name that is no slug is refused", () => {
+   expect(whyOf(PAGE, "Kept", holding(WHOLE))).toBe(
+     "`Kept` is no slug, a slug being lower kebab case"
+@@ -105,6 +112,14 @@ test("the page's own slug and every name of it are restated", () => {
+   expect(said.bodies?.get(NAMER_PAGE)).not.toContain(HELD_SLUG)
+ })
+ 
++test("the page's exported const is renamed with its slug", () => {
++  const root = indexedRepo()
++  const said = renameSlug(root, { at: HELD_PAGE, to: KEPT }, textIn(root))
++  expect(said.refused).toBe(null)
++  expect(said.bodies?.get(HELD_PAGE)).toContain(`export const ${KEPT} =`)
++  expect(said.bodies?.get(HELD_PAGE)).not.toContain(`export const ${HELD_SLUG} =`)
++})
++
+ test("the bodies are answered rather than written", () => {
+   const root = indexedRepo()
+   const text = textIn(root)
+diff --git a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts
+index 3cd470aa0abf418163b37ccbc9994ab578fb782f..97e53f9e96d0197a25972d029fb6f02036baf4a2 100644
+--- a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts
++++ b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.ts
+@@ -42,13 +42,34 @@ export const renameSlug = {
+       statement: "A namer no name of this page changes is left out of the answer.",
+     },
+ 
++    {
++      invariantKind: "departure",
++      statement: "The exported const follows the slug, a page being one object named for its slug.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page whose body exports no name its slug makes is refused as malformed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Which bodies import the page is asked of the index rather than walked for.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The export is respelled over the bodies the slug rename already answered.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A refusal from the respelling is answered as this change's own refusal.",
++    },
++
+     {
+       invariantKind: "absence",
+-      statement: "No file moves and no export is renamed, those being the path and export renames.",
++      statement: "No file moves, that being the path rename.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refactor change runs those two beside this one to rename a page whole.",
++      statement: "A refactor change runs the path rename beside this one to rename a page whole.",
+     },
+     {
+       invariantKind: "gap",
+diff --git a/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.code.ts b/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.code.ts
+index 91e1d9faab0a9043282745de8ede9e2d1f5b0d46..b790cd4acc81fe1a210f0dc32ba97bbb075cc27e 100644
+--- a/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.code.ts
++++ b/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.code.ts
+@@ -1,11 +1,8 @@
+ import { dirname, join } from "node:path"
+-import { literalOf, parsedAs } from "@akasha/code-system/code-source"
++import { parsedAs } from "@akasha/code-system/code-source"
+ import { schemaOf } from "@akasha/indexes"
+-import { exportedAs } from "@akasha/pages/page-export-name"
+ import { besideAt } from "@akasha/pages/page-file-name"
+ import { slugFor } from "@akasha/pages/page-property-key"
+-import ts from "typescript"
+-import { renameExport } from "../../../atomic-changes/pages/rename-export/rename-export.atomic-change.code.ts"
+ import { renamePath } from "../../../atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts"
+ import {
+   renameSlug,
+@@ -36,7 +33,6 @@ export type Renamed = {
+ type Held = {
+   readonly slug: string
+   readonly pageTypeSlug: string
+-  readonly exported: string | null
+   readonly said: ReadonlyMap<string, string>
+ }
+ 
+@@ -55,19 +51,6 @@ function readingOver(
+   return (path) => held.get(path) ?? textOf(path)
+ }
+ 
+-function exportedIn(source: ts.SourceFile): string | null {
+-  for (const statement of source.statements) {
+-    if (!ts.isVariableStatement(statement)) continue
+-    const said = statement.modifiers?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword)
+-    if (said !== true) continue
+-    for (const one of statement.declarationList.declarations) {
+-      if (one.initializer === undefined || literalOf(one.initializer) === null) continue
+-      if (ts.isIdentifier(one.name)) return one.name.text
+-    }
+-  }
+-  return null
+-}
+-
+ function readIn(at: string, text: string): Read {
+   const source = parsedAs(at, text)
+   const said = statedIn(source)
+@@ -79,7 +62,6 @@ function readIn(at: string, text: string): Read {
+     held: {
+       slug: slug.text,
+       pageTypeSlug: pageTypeSlug.text,
+-      exported: exportedIn(source),
+       said: new Map([...said].map(([key, one]) => [key, one.text])),
+     },
+   }
+@@ -120,12 +102,6 @@ export function renamePageSlug(
+   const said = renameSlug(root, { at: given.at, to: given.to }, over)
+   if (said.bodies === null) return refusing(said.refused ?? `\`${held.slug}\` was not renamed`)
+   for (const [path, body] of said.bodies) bodies.set(path, body)
+-  const was = exportedAs(held.slug)
+-  if (held.exported === was) {
+-    const spelled = renameExport(root, { at: given.at, of: was, to: exportedAs(given.to) }, over)
+-    if (spelled.bodies === null) return refusing(spelled.refused ?? `\`${was}\` was not renamed`)
+-    for (const [path, body] of spelled.bodies) bodies.set(path, body)
+-  }
+   const lands = join(dirname(given.at), `${given.to}.${held.pageTypeSlug}${TYPED}`)
+   let beside: readonly Move[]
+   try {
+diff --git a/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.test.ts b/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.test.ts
+index 3a4a8ae2ff113c43ac6c213c1c795bebef504ed8..a6bd2c6032429d3b9bb15b2dcbfb314b0177efd1 100644
+--- a/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.test.ts
++++ b/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.test.ts
+@@ -8,6 +8,7 @@ import {
+   indexedRepo,
+   NAMER_CODE,
+   NAMER_PAGE,
++  pageOf,
+   scratch,
+   textIn,
+ } from "@akasha/indexes/indexing/testing"
+@@ -25,6 +26,8 @@ const OTHER_PAGE = "akasha/three/other-one.module.ts"
+ 
+ const OTHER_SLUG = "other-one"
+ 
++const OTHER_CARRIED = "akasha/three/carried.module.ts"
++
+ const WIDE_PAGE = "akasha/four/wide.module.ts"
+ 
+ const NOTHING = (): null => null
+@@ -87,17 +90,17 @@ test("a refusal from the slug rename is answered as this change's own", () => {
+   expect(said.refused).toBe("a `module` carries the slug `namer` already")
+ })
+ 
+-test("a refusal from the export rename is answered as this change's own", () => {
++test("a page whose slug is more than one word has its camel export renamed too", () => {
+   const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
+   const root = indexedRepo({
+     [OTHER_PAGE]: statedAs(value, "otherOne"),
+     "akasha/three/other-one.module.code.ts": "export const kept = 2\n",
+   })
+   const said = renamePageSlug(root, { at: OTHER_PAGE, to: CARRIED }, textIn(root))
+-  expect(said.bodies).toBe(null)
+-  expect(said.refused).toBe(
+-    "`akasha/three/other-one.module.ts` is a page, and a page's export is its slug"
+-  )
++  expect(said.refused).toBe(null)
++  const bodies = said.bodies ?? new Map<string, string>()
++  expect(bodies.get(OTHER_CARRIED)).toContain(`export const ${CARRIED} =`)
++  expect(bodies.get(OTHER_CARRIED)).not.toContain("export const otherOne")
+ })
+ 
+ test("a page's slug is renamed in its data, and its files are carried with it", () => {
+@@ -115,7 +118,9 @@ test("a page's slug is renamed in its data, and its files are carried with it",
+   ])
+   const bodies = said.bodies ?? new Map<string, string>()
+   expect(bodies.get(CARRIED_PAGE)).toBe(
+-    page.replace(`"slug": "${HELD_SLUG}"`, `"slug": "${CARRIED}"`)
++    page
++      .replace(`"slug": "${HELD_SLUG}"`, `"slug": "${CARRIED}"`)
++      .replace(`export const ${HELD_SLUG} =`, `export const ${CARRIED} =`)
+   )
+   expect(bodies.get(NAMER_PAGE)).toBe(
+     namer
+@@ -138,7 +143,7 @@ test("a beside file whose key is more than one word is carried too", () => {
+       slug: "test-fixtures",
+       propertySlug: "test-fixtures",
+     }),
+-    [WIDE_PAGE]: bodyOf({
++    [WIDE_PAGE]: pageOf({
+       id: idOf("f"),
+       pageTypeSlug: "module",
+       slug: "wide",
+diff --git a/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.ts b/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.ts
+index 41387ce9d6c24b67fb63ee89042ffdee10850d0f..241cec4bedcd60ccb1ed5c5e975131c9b17d4fd4 100644
+--- a/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.ts
++++ b/changes/refactor-changes/pages/rename-page-slug/rename-page-slug.refactor-change.ts
+@@ -10,7 +10,11 @@ export const renamePageSlug = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The slug rename, the export rename and the path renames run in that order.",
++      statement: "The slug rename and the path renames run in that order.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The exported const is the slug rename's own rather than a step of this one.",
+     },
+     {
+       invariantKind: "departure",
+@@ -52,14 +56,5 @@ export const renamePageSlug = {
+       invariantKind: "departure",
+       statement: "The bodies and the paths that moved are answered rather than written.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page exporting no name its slug makes carries no export for this to rename.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement:
+-        "A page exporting the name its slug makes is refused, the export rename barring a page.",
+-    },
+   ],
+ } as const satisfies RefactorChange
