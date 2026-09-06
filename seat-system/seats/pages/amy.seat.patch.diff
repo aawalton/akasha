@@ -60,3 +60,36 @@ index 0000000000000000000000000000000000000000..2e6573d35ce7504a25b305ffa6cc2721
 +    },
 +  ],
 +} as const satisfies ComputedProperty
+diff --git a/alan/fitness/set-logs/set-log.page-type.ts b/alan/fitness/set-logs/set-log.page-type.ts
+index b1640c4ecd2a856489c6c23db4caceab2cae1d3f..e7f4a0eb9ed48b40407b102518c66a9091083a41 100644
+--- a/alan/fitness/set-logs/set-log.page-type.ts
++++ b/alan/fitness/set-logs/set-log.page-type.ts
+@@ -45,6 +45,7 @@ export const setLog = {
+     "number-property/weight",
+     "relation-property/exercise-slug",
+     "relation-property/session-slug",
++    "computed-property/set-volume",
+     "select-property/activity-type",
+     "text-property/note",
+   ],
+@@ -61,7 +62,9 @@ export const setLog = {
+     { pagePropertySlug: "relation-property/session-slug", required: true, many: false },
+     { pagePropertySlug: "number-property/set-number", required: true, many: false },
+     { pagePropertySlug: "number-property/weight", required: false, many: false },
++    { pagePropertySlug: "computed-property/set-volume", required: false, many: false },
+   ],
++  worked: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+@@ -71,6 +74,10 @@ export const setLog = {
+       invariantKind: "absence",
+       statement: "A session lists no set of its own.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A set carries what that set moved rather than stating what that set moved.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
