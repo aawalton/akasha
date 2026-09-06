@@ -55,11 +55,11 @@ export const manifestLandsOnAFile = {
     },
     {
       invariantKind: "gap",
-      statement: "A target nested under a condition is judged as a plain one is.",
+      statement: "A target nested under a condition is judged as a plain target is.",
     },
     {
       invariantKind: "gap",
-      statement: "A file named by `main` or `bin` is judged as one named by `exports` is.",
+      statement: "A file named by `main` or `bin` is judged as a file named by `exports` is.",
     },
   ],
 } as const satisfies CodeCheck
