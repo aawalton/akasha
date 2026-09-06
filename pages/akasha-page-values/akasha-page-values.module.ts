@@ -11,12 +11,16 @@ export const akashaPageValues = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A page's camel keys become the kebab spelling every reader below this one uses.",
+      statement:
+        "A page's camel keys become the kebab spelling every reader below this module uses.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A key already kebab is unchanged, so kebabising a kebab key answers the same key.",
+      statement: "A key already kebab is unchanged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Kebabising a kebab key answers the same key.",
     },
     {
       invariantKind: "departure",
@@ -35,8 +39,11 @@ export const akashaPageValues = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "An entry property is left as its declaration says, so the rows beside a page are found.",
+      statement: "An entry property is left as its declaration says.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The rows beside a page are found.",
     },
   ],
 } as const satisfies Module
