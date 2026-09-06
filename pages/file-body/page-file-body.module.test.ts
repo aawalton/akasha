@@ -1,6 +1,7 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { bodyAt, filedAmong, filedValue } from "./page-file-body.module.code.ts"
+import { bodyAt, bytesAt, filedAmong, filedValue } from "./page-file-body.module.code.ts"
 
 const ROOT = join(import.meta.dir, "..", "..")
 
@@ -15,6 +16,24 @@ const SESSIONS = {
   propertySlug: "sessions",
   pageTypeSlug: "page-property-entry",
 }
+
+const SCRATCH_AT = process.env["SCRATCH_AT"] ?? "/var/tmp"
+
+const A_PICTURE_AT = "holder/holder.persona.ts"
+
+// THE FIRST BYTE OF A PNG IS THE ONE A DECODER TAKES. No encoding admits 0x89 at the head of a
+// stream, so a decoder answers the replacement character, which re-encodes as three other bytes.
+const A_PICTURE = new Uint8Array([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a, 0xff, 0xfe, 0x00])
+
+const scratch = mkdtempSync(join(SCRATCH_AT, "page-file-body-"))
+
+mkdirSync(join(scratch, "holder"), { recursive: true })
+writeFileSync(join(scratch, A_PICTURE_AT), "export const holder = {}\n")
+writeFileSync(join(scratch, "holder/holder.persona.mobile-wallpaper.png"), A_PICTURE)
+
+afterAll(() => {
+  rmSync(scratch, { recursive: true, force: true })
+})
 
 test("a file property is picked out of what a page type declares", () => {
   expect(filedAmong([PORTRAIT, PURPOSE, SESSIONS])).toEqual([PORTRAIT])
@@ -61,4 +80,25 @@ test("a file asked for by name that is not there raises", () => {
   expect(() =>
     filedValue(ROOT, A_PERSONA_AT, { portrait: "txt" }, [PORTRAIT], ["portrait"])
   ).toThrow("no file is there")
+})
+
+test("a body that is no text is read back byte for byte", () => {
+  const said = bytesAt(scratch, A_PICTURE_AT, "mobile-wallpaper", "png")
+  expect("bytes" in said).toBe(true)
+  if (!("bytes" in said)) return
+  expect(Array.from(said.bytes)).toEqual(Array.from(A_PICTURE))
+})
+
+test("the same body decoded as text loses the bytes no encoding admits", () => {
+  const said = bodyAt(scratch, A_PICTURE_AT, "mobile-wallpaper", "png")
+  expect("body" in said).toBe(true)
+  if (!("body" in said)) return
+  const again = new TextEncoder().encode(said.body)
+  expect(Array.from(again)).not.toEqual(Array.from(A_PICTURE))
+  expect(again[0]).not.toBe(0x89)
+})
+
+test("a picture read as bytes is refused where no file sits beside the page", () => {
+  const said = bytesAt(scratch, A_PICTURE_AT, "mobile-wallpaper", "jpg")
+  expect("refused" in said && said.refused).toContain("no file is there")
 })
