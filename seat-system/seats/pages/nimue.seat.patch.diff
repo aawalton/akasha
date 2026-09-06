@@ -70,10 +70,54 @@ index d80c9bae978a9283555c2c69155302bd40c6753b..717dd66c0b579e975a8b264263bfeb30
    readonly doors: Doors
    readonly held: Map<string, string>
 diff --git a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test.ts b/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test.ts
-index a1fc1ec8fcea3357bb25217ad7ad40b4dcde1471..62786275a5cad4e1c2cd4598993dca70e9d782d6 100644
+index a1fc1ec8fcea3357bb25217ad7ad40b4dcde1471..b3600589bb5c69d386e8fae7b3332eb7d17aada9 100644
 --- a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test.ts
 +++ b/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.test.ts
-@@ -346,7 +346,7 @@ test("pushing one account's credential lists no directory the accounts are filed
+@@ -14,13 +14,10 @@ import {
+ } from "../marking/claude-account-marking.module.test-fixtures.ts"
+ import { everyAccountStateIn, rescuedIn } from "../reading/claude-account-reading.module.code.ts"
+ import {
+-  type Credential,
+   DOORS,
+-  type Doors,
+   expiryHeldIn,
+   narrowedFor,
+   PUSHED_KEYS,
+-  type Push,
+   pushedIn,
+   sayingOf,
+ } from "./claude-account-credential-push.module.code.ts"
+@@ -29,11 +26,14 @@ import {
+   AN_HOUR,
+   credentialOf,
+   crossedLanding,
++  FAILED,
+   heldIn,
+   LATER,
+   LATER_AT,
+   modeOf,
+   NOW,
++  NOWHERE,
++  pushed,
+   REFRESH_KEY,
+   ROTATED_ACCESS,
+   ROTATED_REFRESH,
+@@ -49,14 +49,6 @@ import {
+ 
+ afterAll(sweep)
+ 
+-const NOWHERE = "/var/tmp/credential-push-no-such-root"
+-
+-const FAILED: readonly string[] = ["[gate] fail: the landing said no"]
+-
+-async function pushed(root: string, credential: Credential, doors: Doors): Promise<Push> {
+-  return await pushedIn(root, credential, doors, readingIn(root), bodiesIn(root))
+-}
+-
+ test("a push lands the pair in the sops file and answers pushed", async () => {
+   const root = worldMade()
+   const sops = sopsIn()
+@@ -346,7 +338,7 @@ test("pushing one account's credential lists no directory the accounts are filed
      routing
    )
    expect(said.kind).toBe("pushed")
