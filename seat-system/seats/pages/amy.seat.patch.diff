@@ -1,3 +1,40 @@
+diff --git a/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts b/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts
+index 15233a426d3edd5fa82390ad37ecef089490d480..b5956a14523c4b4bac0551b92c9fffefa62121a9 100644
+--- a/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts
++++ b/seat-system/seat-akasha-beside/seat-akasha-beside.module.code.ts
+@@ -17,6 +17,7 @@ export const CARRIED: Readonly<Record<string, Carried>> = {
+   "transcript-path": { at: ["transcriptPath"], kind: "text" },
+   "rotated-session-uuid": { at: ["rotatedSessionUuid"], kind: "text" },
+   model: { at: ["model"], kind: "text" },
++  mode: { at: ["mode"], kind: "text" },
+   "context-tokens": { at: ["contextTokens"], kind: "number" },
+   "supervisor-process": { at: ["supervisorProcess"], kind: "text" },
+   "proxy-process": { at: ["proxy", "process"], kind: "text" },
+@@ -30,6 +31,8 @@ export const CARRIED: Readonly<Record<string, Carried>> = {
+ 
+ export const SUPERVISOR_PROCESS = "supervisor-process"
+ 
++export const MODE = "mode"
++
+ export const RECORDS: Readonly<Record<string, string>> = {
+   "turn-pending": "turnPending",
+   "turn-working": "turnWorking",
+@@ -116,6 +119,15 @@ export function akashaHolderProcessOf(agentId: string): string | null {
+   return typeof held === "string" && held !== "" ? held : null
+ }
+ 
++// THE MODE THE SEAT IS RUNNING IN, WHICH IS OBSERVED RATHER THAN DECLARED. The seat's page states
++// the mode it was asked to start in and that value is never revisited; this one is written by the
++// supervisor holding the seat, on the same beat as its process key, so the two answer for one
++// another — a mode read here belongs to the supervisor read there.
++export function akashaRunningModeOf(agentId: string): string | null {
++  const held = akashaValueOf(agentId, MODE)
++  return typeof held === "string" && held !== "" ? held : null
++}
++
+ export function akashaValueOf(agentId: string, key: string): unknown {
+   const where = CARRIED[key]
+   if (where === undefined) return undefined
 diff --git a/seat-system/seats/properties/mode.text-property.ts b/seat-system/seats/properties/mode.text-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..a778a898bbb5b11ec49e0abe1b6c242fd1117e45
