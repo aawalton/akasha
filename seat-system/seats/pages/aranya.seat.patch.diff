@@ -53,3 +53,15 @@ index 0000000000000000000000000000000000000000..8d8355b384b89d564da7fc52cad55d7b
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/service-system/service-system.workspace-package.ts b/service-system/service-system.workspace-package.ts
+index 29b9c4cf91d4754d12a6ddfb3ece635b4b3296e6..cbb34487116d83a27da11b593a9b3dbad4e81e29 100644
+--- a/service-system/service-system.workspace-package.ts
++++ b/service-system/service-system.workspace-package.ts
+@@ -8,6 +8,7 @@ export const serviceSystem = {
+   manifest: "json",
+   partSlugs: [
+     "module/secret-placing",
++    "module/secret-saying",
+     "module/tick-sleeping",
+     "page-type/service",
+     "page-type/workstation-service",
