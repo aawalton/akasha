@@ -1,0 +1,54 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/command-system/address-mapping/address-mapping.module.code.ts b/command-system/address-mapping/address-mapping.module.code.ts
+index 45cf6ee808db0af410b8ea3cadf90f7ce1628a45..1eff742c78f114d70d512a20ab9799d3c77645e4 100644
+--- a/command-system/address-mapping/address-mapping.module.code.ts
++++ b/command-system/address-mapping/address-mapping.module.code.ts
+@@ -2,7 +2,7 @@ import { readFileSync } from "node:fs"
+ import { dirname, join, relative } from "node:path"
+ import { formattedBody } from "@akasha/code/code-format"
+ import type { Change } from "@akasha/pages/change"
+-import { besideAt } from "@akasha/pages/page-file-name"
++import { besideAt, partedIn } from "@akasha/pages/page-file-name"
+ import type { Shadow } from "@akasha/pages/shadow"
+ import { shadowFor } from "@akasha/pages/shadow"
+ import type { FileEdit } from "../landing/landing.module.code.ts"
+@@ -108,6 +108,15 @@ export function bodyFor(addresses: readonly Address[]): string {
+   return `${lines.join("\n")}\n`
+ }
+ 
++// The address map is written again from the addresses reached on every apply, so this module is the
++// one writer of that body. An edit a change answers for the map is dropped rather than landed,
++// because two writers for one path make a stale read out of a body no reader read wrong.
++export function writtenAgain(path: string): boolean {
++  const said = partedIn(path)
++  if (said === null || said.pageType !== RUNNER) return false
++  return said.sections.length === 1 && said.sections[0] === ADDRESSED
++}
++
+ export function mappedOver(
+   root: string,
+   shadow: Shadow,
+diff --git a/command-system/commands/apply/apply.command.code.ts b/command-system/commands/apply/apply.command.code.ts
+index 4228b719ce40a74c632e057fab846ad4fd136c31..f17a5a15bff5d9e0fb7dc8a56af6a506f00d7bb4 100644
+--- a/command-system/commands/apply/apply.command.code.ts
++++ b/command-system/commands/apply/apply.command.code.ts
+@@ -5,6 +5,7 @@ import {
+   foldedIn,
+   keptEdits,
+ } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
++import { writtenAgain } from "../../address-mapping/address-mapping.module.code.ts"
+ import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+ import { type Draft, drafted, type Running } from "../../drafting/drafting.module.code.ts"
+@@ -50,7 +51,9 @@ export function folding(root: string, page: string): Folded {
+   let answer: Folded = { folded: [] }
+   const kept = keptEdits(root, page, (had) => {
+     if (had.length === 0) return had
+-    const said = foldedIn(had)
++    const held = had.filter((one) => !writtenAgain(one.path))
++    if (held.length === 0) return null
++    const said = foldedIn(held)
+     if (said.refused !== null) {
+       answer = { refusals: [said.refused] }
+       return had
