@@ -147,7 +147,7 @@ export const claudeAccountOauth = {
     },
     {
       invariantKind: "departure",
-      statement: "A `Retry-After` of zero or less backs off the default instead.",
+      statement: "A `Retry-After` no greater than zero backs off the default instead.",
     },
     {
       invariantKind: "departure",
@@ -272,7 +272,7 @@ export const claudeAccountOauth = {
     {
       invariantKind: "gap",
       statement:
-        "An account met by a rate limit waits five minutes even where `Retry-After` says less.",
+        "An account met by a rate limit waits five minutes even where `Retry-After` says a shorter wait.",
     },
     {
       invariantKind: "gap",
