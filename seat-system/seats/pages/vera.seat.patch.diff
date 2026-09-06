@@ -70,7 +70,7 @@ index 23128cb8d4b72f963d0b4767a39a5a68db492b9e..86edbedf4501b8784c2bd455dfd129d0
  export const exerciseFinding = {
    id: "01a0685c-7d81-7f18-87a1-21b38630ecee",
 diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
-index 7b06c7751d27779318e03103a140089f593d449d..548f75bbcf200777f469108534999f74f5452a82 100644
+index 240a3261734453b365bf9a7d70d9ee2016fd0156..e8914333a684012ce2949a9011368f6e7bf0ebb4 100644
 --- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
 +++ b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.ts
 @@ -1,4 +1,4 @@
@@ -2085,19 +2085,6 @@ index 0868345eeb9dd49f6800591267a74f7e13033648..61296dd8dbd8319f61edf31f217a806f
  
  export const workflow = {
    id: "01a06f10-7000-7002-b0002-9d4a2f6c0002e1",
-diff --git a/checks/cluster-checks/modules/alanwalton-ios-seam/alanwalton-ios-seam.module.code.ts b/checks/cluster-checks/modules/alanwalton-ios-seam/alanwalton-ios-seam.module.code.ts
-index 4f33f34eb37166ceaa4d04a5318b4c1e426fd68e..6918b39e07ba7e45e2098019b2e663c6bd1d38c9 100644
---- a/checks/cluster-checks/modules/alanwalton-ios-seam/alanwalton-ios-seam.module.code.ts
-+++ b/checks/cluster-checks/modules/alanwalton-ios-seam/alanwalton-ios-seam.module.code.ts
-@@ -3,7 +3,7 @@ import { existsSync, readFileSync } from "node:fs"
- // Relative to the checkout `getRepoRoot` names, and written the way
- // `discoverRepoFiles` writes it: a caller matches these against that listing, and a
- // path spelled to reach the same file by another route matches none of it.
--const AKASHA = "code-system/ios-apps"
-+const AKASHA = "code/ios-apps"
- 
- // Alan's own seam parts, and the parts every shell shares. A sourced part is
- // found by slug in one of these, so which of the two it stands in is not
 diff --git a/checks/cluster-checks/pages/widget-payload-shape-mirror/widget-payload-shape-mirror.cluster-check.ts b/checks/cluster-checks/pages/widget-payload-shape-mirror/widget-payload-shape-mirror.cluster-check.ts
 index 68a1a2121fcda789c777f8051d7348cccc7b78f5..51a96f5c34c83c2d2f50176dda0e1300861d1bbf 100644
 --- a/checks/cluster-checks/pages/widget-payload-shape-mirror/widget-payload-shape-mirror.cluster-check.ts
