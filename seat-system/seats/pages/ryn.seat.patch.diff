@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
-index 41c3b6b9afe4374ca4a1b3cc074d3a7336af0842..ca090582351f22f1ac3710f118595330ca467793 100644
+index 41c3b6b9afe4374ca4a1b3cc074d3a7336af0842..ed6ce4e83305a0aa498f52e61d0d5e1832b420b8 100644
 --- a/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
 +++ b/hook-system/agent-hooks/block-subagent-audit/block-subagent-audit.agent-hook.ts
 @@ -27,7 +27,7 @@ export const blockSubagentAudit = {
@@ -8,6 +8,15 @@ index 41c3b6b9afe4374ca4a1b3cc074d3a7336af0842..ca090582351f22f1ac3710f118595330
        statement:
 -        "A prefix that only runs the call behind that prefix does not hide this one from this hook.",
 +        "A prefix that only runs the call behind that prefix does not hide that call from this hook.",
+     },
+     {
+       invariantKind: "departure",
+@@ -36,7 +36,7 @@ export const blockSubagentAudit = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run narrowed to named checks is refused as a whole one is.",
++      statement: "A run narrowed to named checks is refused as a whole run is.",
      },
      {
        invariantKind: "departure",
