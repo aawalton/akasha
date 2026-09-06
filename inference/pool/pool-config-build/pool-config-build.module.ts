@@ -14,12 +14,15 @@ export const poolConfigBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "A loopback service is fronted on 127.0.0.1 and every other on 0.0.0.0.",
+      statement: "A loopback service is fronted on 127.0.0.1 and every other service on 0.0.0.0.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The pool file folds into the traffic cop's hash, so changing that file re-provisions the cop.",
+      statement: "The pool file folds into the traffic cop's hash.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Changing the pool file re-provisions the traffic cop.",
     },
   ],
 } as const satisfies Module
