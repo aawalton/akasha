@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/eval/monarch-eval.domain.ts b/alan/harness/monarch/eval/monarch-eval.domain.ts
-index 9968f1db07ea8a861fb727b66e95849e548d6663..3bdd997192bde306f67ba5097c9eac76ac5c9407 100644
+index 9968f1db07ea8a861fb727b66e95849e548d6663..7b769ab397cb31ed677b33ca14ce0ee366366786 100644
 --- a/alan/harness/monarch/eval/monarch-eval.domain.ts
 +++ b/alan/harness/monarch/eval/monarch-eval.domain.ts
 @@ -1,7 +1,7 @@
@@ -11,6 +11,71 @@ index 9968f1db07ea8a861fb727b66e95849e548d6663..3bdd997192bde306f67ba5097c9eac76
    pageTypeSlug: "domain",
    slug: "monarch-eval",
    definition:
+@@ -35,8 +35,11 @@ export const monarchEval = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The report delivered is the partition, and within each part coverage and reliability together.",
++      statement: "The report delivered is the partition.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Coverage and reliability are reported together within each part.",
+     },
+     {
+       invariantKind: "departure",
+@@ -76,8 +79,11 @@ export const monarchEval = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Strata are declared from category names and Alan's recorded rulings, never from the agent's scores.",
++      statement: "Strata are declared from category names and Alan's recorded rulings.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No stratum is declared from the agent's scores.",
+     },
+     {
+       invariantKind: "departure",
+@@ -102,13 +108,19 @@ export const monarchEval = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The Monarch pages are marked before a run and again after, and both marks land in the result file.",
++      statement: "The Monarch pages are marked before a run and again after.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Both marks land in the result file.",
+     },
+     {
+       invariantKind: "absence",
+-      statement:
+-        "Nothing is applied: no page is written, no category is set, and Monarch is not contacted at all.",
++      statement: "Nothing is applied.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Monarch is not contacted at all.",
+     },
+     {
+       invariantKind: "departure",
+@@ -120,7 +132,11 @@ export const monarchEval = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run spends money and keeps its whole result, and scoring reads that result.",
++      statement: "A run spends money and keeps its whole result.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Scoring reads that result.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/changes/workflow-language/buildkit/buildkit.module.ts b/changes/workflow-language/buildkit/buildkit.module.ts
 index 9121632423cf48ec65f7a9ddf20ed12e6260a2c0..d65b66cc3a1d6228db5b7e3387970db56edf5462 100644
 --- a/changes/workflow-language/buildkit/buildkit.module.ts
