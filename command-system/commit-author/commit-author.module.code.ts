@@ -1,4 +1,5 @@
 import { ownRepoRoot } from "@akasha/pages/checkout-roots"
+import { slugOf } from "@akasha/pages/page-value"
 import { displayNameOf, personaAt } from "@akasha/persona-system/persona-reading"
 import { seat } from "@akasha/seat-system/seat-page-type"
 import { pageTextOf } from "@akasha/seat-system/seat-page-values"
@@ -44,7 +45,7 @@ export function personaAuthor(persona: string): string | null {
 // is.
 function defaultPersona(): string | null {
   for (const one of seat.properties) {
-    if (one.pagePropertySlug !== PERSONA_SLUG_PROPERTY) continue
+    if (slugOf(one.pagePropertySlug) !== PERSONA_SLUG_PROPERTY) continue
     const value: unknown = "default" in one ? one.default : undefined
     return typeof value === "string" ? value : null
   }

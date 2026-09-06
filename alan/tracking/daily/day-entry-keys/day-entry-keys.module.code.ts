@@ -1,4 +1,5 @@
 import { dataError } from "@akasha/errors-core/exit-code"
+import { slugOf } from "@akasha/pages/page-value"
 import { asking } from "@akasha/pages-service/asking"
 import { camelizeKey } from "../tracking-keys/tracking-keys.module.code.ts"
 
@@ -37,7 +38,7 @@ export function entryKeysDeclared(
   const keys = new Set<string>(["id"])
   for (const one of stated) {
     const slug = (one as { readonly pagePropertySlug?: unknown }).pagePropertySlug
-    if (typeof slug === "string") keys.add(camelizeKey(slug))
+    if (typeof slug === "string") keys.add(camelizeKey(slugOf(slug)))
   }
   return keys
 }

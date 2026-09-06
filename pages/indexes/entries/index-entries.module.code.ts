@@ -3,7 +3,7 @@ import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt, secretAt, uncommittedAt } from "@akasha/pages/page-file-name"
 import { partsOf, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
 import { slugFor } from "@akasha/pages/page-property-key"
-import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
+import { slugAt, slugOf, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { answered, readingIn, valuesOfType } from "../reading/index-reading.module.code.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
@@ -131,7 +131,7 @@ function declaredIn(value: Value): Sidecars {
     const slug = held[DECLARES]
     const fallback = held[FALLBACK]
     if (typeof slug === "string" && typeof fallback === "string") {
-      found.set(slug, { held: fallback, uncommitted: withheld })
+      found.set(slugOf(slug), { held: fallback, uncommitted: withheld })
     }
   }
   return { secret, uncommitted, besides: found }
