@@ -81,3 +81,15 @@ index d208be7c6cce51f5eae918ca4c20c6f0307c1d26..d4f687f4fd24cb3b39786bb2b460569f
    viewPlace: 0,
    layout: "cards",
    narrows: [{ key: "status", comparison: "in", values: ["In Progress", "Following"] }],
+diff --git a/pages/views/pages/authors-all.view.ts b/pages/views/pages/authors-all.view.ts
+index 74004fad02c861a9fe93993dfb40ea21fe3a6568..87f1c3e7aebe5a4b603e2e136c16962bfe6186ff 100644
+--- a/pages/views/pages/authors-all.view.ts
++++ b/pages/views/pages/authors-all.view.ts
+@@ -6,6 +6,7 @@ export const authorsAll = {
+   slug: "authors-all",
+   title: "All",
+   navSlug: "authors",
++  pageType: "ki-author",
+   viewPlace: 0,
+   layout: "cards",
+   viewSorts: [
