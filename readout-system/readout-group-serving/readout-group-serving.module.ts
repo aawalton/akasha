@@ -7,6 +7,7 @@ export const readoutGroupServing = {
   definition: "what a route answers when a caller asks for a group of readings as colors",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",

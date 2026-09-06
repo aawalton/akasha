@@ -8,42 +8,24 @@ import {
   type Stoplight,
   stoplightsInGroup,
 } from "./readout-group-serving.module.code.ts"
-
-const GROUP = "a-group-named-only-in-this-test"
-
-const READOUT = "a-readout-named-only-in-this-test"
-
-const SCALE = "a-scale-named-only-in-this-test"
-
-const READOUT_ROW = {
-  slug: READOUT,
-  label: "Safety",
-  unit: "levels",
-  place: 1,
-  scaleSlug: SCALE,
-  wireKey: "safety",
-  groupSlugs: [GROUP],
-}
-
-const SCALE_ROW = { slug: SCALE, redAt: 1, yellowAt: 2, greenAt: 3, blueAt: 4 }
-
-const ANSWERED: {
-  readouts: readonly Record<string, unknown>[]
-  scales: readonly Record<string, unknown>[]
-} = { readouts: [READOUT_ROW], scales: [SCALE_ROW] }
+import {
+  ANSWERED,
+  answeredAfresh,
+  figureOffScaleOn,
+  GROUP,
+  GROUP_ROW,
+  OTHER,
+  OTHER_ROW,
+  READOUT,
+  READOUT_ROW,
+  SCALE_ROW,
+  servingStore,
+} from "./readout-group-serving.module.test-fixtures.ts"
 
 let store: ReturnType<typeof Bun.serve>
 
 beforeAll(() => {
-  store = Bun.serve({
-    port: 0,
-    fetch: async (request) => {
-      const asked = (await request.json()) as { pageTypeSlug: string }
-      if (asked.pageTypeSlug === "readout") return Response.json({ rows: ANSWERED.readouts })
-      return Response.json({ rows: ANSWERED.scales })
-    },
-  })
-  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
+  store = servingStore()
 })
 
 afterAll(() => {
@@ -52,8 +34,7 @@ afterAll(() => {
 
 beforeEach(() => {
   dropRelayed()
-  ANSWERED.readouts = [READOUT_ROW]
-  ANSWERED.scales = [SCALE_ROW]
+  answeredAfresh()
 })
 
 const drawn = () => answerStoplightsAdmittedBy(new Request("http://a.test/"), () => null, GROUP)
@@ -328,17 +309,6 @@ test("nothing between here and the tile is allowed to keep an answer", async () 
   expect((await drawn()).headers.get("Cache-Control")).toBe("no-store")
 })
 
-const OTHER = "another-readout-named-only-in-this-test"
-
-const OTHER_ROW = {
-  slug: OTHER,
-  label: "Surplus",
-  place: 2,
-  scaleSlug: SCALE,
-  wireKey: "surplus",
-  groupSlugs: [GROUP],
-}
-
 async function keysDrawn(): Promise<readonly (string | undefined)[]> {
   return (await stoplights()).map((one) => one.habit)
 }
@@ -377,4 +347,46 @@ test("a group every readout of which is stilled is answered as no reading", asyn
   relayedFor(READOUT, 3)
   ANSWERED.readouts = [{ ...READOUT_ROW, enabled: false }]
   expect((await drawn()).status).toBe(503)
+})
+
+const offScaleDrawn = async (): Promise<unknown> =>
+  figureOffScaleOn((await stoplightsInGroup(GROUP))[0])
+
+test("a group stating it draws a figure off scale carries that on each reading", async () => {
+  relayedFor(READOUT, 5)
+  ANSWERED.groups = [{ ...GROUP_ROW, figureOffScale: true }]
+  expect(await offScaleDrawn()).toBe(true)
+})
+
+test("a group stating nothing carries no answer about a figure off scale", async () => {
+  relayedFor(READOUT, 5)
+  expect(await offScaleDrawn()).toBeUndefined()
+})
+
+test("a group stating it draws no figure off scale carries no answer either", async () => {
+  relayedFor(READOUT, 5)
+  ANSWERED.groups = [{ ...GROUP_ROW, figureOffScale: false }]
+  expect(await offScaleDrawn()).toBeUndefined()
+})
+
+test("a group the store holds no page for carries no answer", async () => {
+  relayedFor(READOUT, 5)
+  ANSWERED.groups = []
+  expect(await offScaleDrawn()).toBeUndefined()
+})
+
+test("a group drawing a figure off scale carries that on every reading it sends", async () => {
+  relayedFor(READOUT, 5)
+  relayedFor(OTHER, 5)
+  ANSWERED.readouts = [READOUT_ROW, OTHER_ROW]
+  ANSWERED.groups = [{ ...GROUP_ROW, figureOffScale: true }]
+  const sent = await stoplightsInGroup(GROUP)
+  expect(sent.map(figureOffScaleOn)).toEqual([true, true])
+})
+
+test("a scale is still answered as a scale now that groups are answered too", async () => {
+  relayedFor(READOUT, 2.5)
+  expect((await stoplights())[0]?.tier).toBe("yellow")
+  ANSWERED.scales = [SCALE_ROW]
+  expect((await stoplights())[0]?.nextTier).toBe("green")
 })
