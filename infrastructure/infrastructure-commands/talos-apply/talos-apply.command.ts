@@ -27,7 +27,11 @@ export const talosApply = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The node is named as a word or after `--node`, and naming both is refused.",
+      statement: "The node is named as a word or after `--node`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A node named as a word and after `--node` is refused.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +48,7 @@ export const talosApply = {
     },
     {
       invariantKind: "departure",
-      statement: "The control-plane endpoint is the cluster's VIP where the cluster states one.",
+      statement: "The control-plane endpoint is the cluster's VIP where the cluster states a VIP.",
     },
     {
       invariantKind: "departure",
