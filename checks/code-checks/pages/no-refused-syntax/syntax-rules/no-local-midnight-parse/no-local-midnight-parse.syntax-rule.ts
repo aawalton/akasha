@@ -10,7 +10,7 @@ export const noLocalMidnightParse = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A midnight written into a template is read as one written with `+`.",
+      statement: "A midnight written into a template is read as a midnight written with `+`.",
     },
     {
       invariantKind: "departure",
