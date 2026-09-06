@@ -54,7 +54,7 @@ export const musicImportArtist = {
     },
     {
       invariantKind: "departure",
-      statement: "The artist and the songs land as one commit or as none.",
+      statement: "The artist and the songs land as a single commit or do not land.",
     },
     {
       invariantKind: "absence",
