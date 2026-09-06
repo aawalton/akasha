@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/index/index.command.code.ts b/command-system/commands/index/index.command.code.ts
-index 1161fb020952657c5188f03013eae1e2ab7fbcef..7284e9357185ee13604f73c2daa71eac976930e9 100644
+index 1161fb020952657c5188f03013eae1e2ab7fbcef..fe2b17266a45c81358ed3f75c095a3e56c879a62 100644
 --- a/command-system/commands/index/index.command.code.ts
 +++ b/command-system/commands/index/index.command.code.ts
 @@ -19,6 +19,8 @@ const DOMAIN_AT = "akasha.domain.ts"
@@ -11,3 +11,26 @@ index 1161fb020952657c5188f03013eae1e2ab7fbcef..7284e9357185ee13604f73c2daa71eac
  const UNCHANGED = "the index stands as it did, and nothing was put in its place"
  
  const COMMITTING = new Map<string, string>([
+@@ -77,6 +79,22 @@ export function named(paths: readonly string[]): string {
+   return paths.length > SHOWN ? `${shown}, and ${paths.length - SHOWN} more` : shown
+ }
+ 
++// A few paths out of a hundred say which folder the first few sort under and nothing about the
++// rest. The index a path is filed under is the first part of that path, so counting the paths under
++// each index says what the whole difference is made of at the cost of one line.
++export function classed(paths: readonly string[]): string {
++  const many = new Map<string, number>()
++  for (const one of paths) {
++    const cut = one.indexOf(PARTED_BY)
++    const held = cut < 0 ? one : one.slice(0, cut)
++    many.set(held, (many.get(held) ?? 0) + 1)
++  }
++  return [...many]
++    .sort((first, next) => next[1] - first[1] || first[0].localeCompare(next[0]))
++    .map(([held, count]) => `${held} ${count}`)
++    .join(", ")
++}
++
+ export function driftSaid(drift: Drift): readonly string[] {
+   const many = drift.added.length + drift.changed.length + drift.went.length
+   if (many === 0) return ["nothing in the index differed from what the pages say"]
