@@ -1,0 +1,17 @@
+diff --git a/seat-system/supervising/supervisor-interactive-seams/supervisor-interactive-seams.module.ts b/seat-system/supervising/supervisor-interactive-seams/supervisor-interactive-seams.module.ts
+index 912087f95b31c540fb02600e191784324b0f85a4..41679869d5eb7465f6e3dd1cdd8ae4ce7e30cb52 100644
+--- a/seat-system/supervising/supervisor-interactive-seams/supervisor-interactive-seams.module.ts
++++ b/seat-system/supervising/supervisor-interactive-seams/supervisor-interactive-seams.module.ts
+@@ -9,7 +9,11 @@ export const supervisorInteractiveSeams = {
+   invariants: [
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here holds behaviour; the seam is one type and no more.",
++      statement: "Nothing here holds behaviour.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The seam is a type alone.",
+     },
+   ],
+ } as const satisfies Module
