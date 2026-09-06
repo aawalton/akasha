@@ -1,9 +1,9 @@
 import type { Command } from "@akasha/command-system/command"
 
-export const exerciseLogActivity = {
+export const trackWorkoutActivity = {
   id: "01a0685c-7d81-75b0-a1e4-58ac04db66f1",
   pageTypeSlug: "command",
-  slug: "exercise-log-activity",
+  slug: "track-workout-activity",
   definition:
     "the command writing down one stretch of cardio or mobility, timed rather than repped",
   code: "ts",
