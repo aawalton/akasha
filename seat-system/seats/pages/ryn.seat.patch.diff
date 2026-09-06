@@ -1,0 +1,17 @@
+diff --git a/infrastructure/infrastructure-commands/talos-apply/talos-apply.command.ts b/infrastructure/infrastructure-commands/talos-apply/talos-apply.command.ts
+index c35be78a63bb3d1600b50c42cd1147c19f81161f..38631dc3ca5b3e4d3219512bbff7f67ebc31d5f1 100644
+--- a/infrastructure/infrastructure-commands/talos-apply/talos-apply.command.ts
++++ b/infrastructure/infrastructure-commands/talos-apply/talos-apply.command.ts
+@@ -27,7 +27,11 @@ export const talosApply = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The node is named as a word or after `--node`, and naming both is refused.",
++      statement: "The node is named as a word or after `--node`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A node named as a word and after `--node` is refused.",
+     },
+     {
+       invariantKind: "departure",
