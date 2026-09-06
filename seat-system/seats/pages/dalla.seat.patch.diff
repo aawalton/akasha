@@ -1,0 +1,61 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/pages/types/declared-properties/declared-properties.module.code.ts b/pages/types/declared-properties/declared-properties.module.code.ts
+index c128aab5edc852524d8dcc8dd8f977902de3558b..9e0d3810568811aacb556e4189f53efb0bd80f10 100644
+--- a/pages/types/declared-properties/declared-properties.module.code.ts
++++ b/pages/types/declared-properties/declared-properties.module.code.ts
+@@ -3,6 +3,7 @@ import type { Identifier } from "@akasha/indexes/entries"
+ import type { Reading } from "@akasha/indexes/shape"
+ import { addressIn, slugIn } from "../../address/page-address.module.code.ts"
+ import { exportedAs } from "../../export-name/page-export-name.module.code.ts"
++import { kindsUnder } from "../descent/page-type-descent.module.code.ts"
+ import {
+   numberAt,
+   slugAt,
+@@ -63,9 +64,23 @@ export function pageAt(
+   if (only === undefined) return null
+   return read.every((each) => each.id === only.id) ? only.value : null
+ }
++// A page type is a page of any type descending from `page-type`, so a slug is looked for under each
++// of those rather than under `page-type` alone. The types are read once and held, because a lookup
++// runs for every page a caller reads, and `page-type` leads them so the common path is the first.
+ export function sourceIn(given: string | Reading, pageOf: (path: string) => Value | null): Source {
++  let under: readonly string[] | null = null
++  const typing = (): readonly string[] => {
++    if (under === null) under = [...kindsUnder(PAGE_TYPE, given, pageOf)]
++    return under
++  }
+   return {
+-    pageTypeAt: (slug) => pageAt(given, PAGE_TYPE, slug, pageOf),
++    pageTypeAt: (slug) => {
++      for (const one of typing()) {
++        const value = pageAt(given, one, slug, pageOf)
++        if (value !== null) return value
++      }
++      return null
++    },
+     schemaFor: (said) => {
+       const filed = schemaOf(given, said)
+       return "refused" in filed ? null : filed.schema
+diff --git a/pages/types/descent/page-type-descent.module.code.ts b/pages/types/descent/page-type-descent.module.code.ts
+index e511ab4169031caeaff845d7fdbf9e2cac2b83cb..6bc06feb6428977e5c74407f93508a6ab4679ada 100644
+--- a/pages/types/descent/page-type-descent.module.code.ts
++++ b/pages/types/descent/page-type-descent.module.code.ts
+@@ -19,7 +19,7 @@ function namedAbove(value: Value | null): readonly string[] {
+ }
+ 
+ export function listedAbove(
+-  given: Reading,
++  given: string | Reading,
+   pageOf: (path: string) => Value | null
+ ): ReadonlyMap<string, readonly string[]> {
+   const above = new Map<string, readonly string[]>()
+@@ -34,7 +34,7 @@ export function listedAbove(
+ 
+ export function kindsUnder(
+   slug: string,
+-  given: Reading,
++  given: string | Reading,
+   pageOf: (path: string) => Value | null
+ ): ReadonlySet<string> {
+   const above = listedAbove(given, pageOf)
