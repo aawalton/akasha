@@ -117,3 +117,37 @@ index 4f60af64fe134831e76e2203e64679cc4c1cfbad..bcfe06c7d0645eed086a0e9839e6633a
      {
        invariantKind: "departure",
        statement: "A cursor no read touched is dropped.",
+diff --git a/seat-system/subagent-census/subagent-census.module.code.ts b/seat-system/subagent-census/subagent-census.module.code.ts
+index 5a064472cf2f1c7bb35a7006513c16e318651acd..ec9d0d83953c1fba669d4642444fbf2e3c587bc8 100644
+--- a/seat-system/subagent-census/subagent-census.module.code.ts
++++ b/seat-system/subagent-census/subagent-census.module.code.ts
+@@ -23,14 +23,21 @@ import { LOG_AT, SUBAGENTS_AT } from "../subagents/presence/subagent-presence.mo
+ // and a page's age is read nowhere at all: a page written days ago under a Claude process that has
+ // been up longer says nothing about whether the subagent inside it returned.
+ //
+-// A FOURTH IS EVIDENCE OF LIFE AND OF NOTHING ELSE. A seat's transcript names the subagents that
+-// seat launched and has not seen return, which is exactly what an acting agent id cannot see: a
+-// subagent waiting on the model runs no process to carry one. Those ids arrive as `runningOwn` and
+-// are read for one purpose, which is to lift a page to working. That asymmetry is deliberate. A
+-// transcript learns an agent id from the launch receipt alone, so a compacted or truncated one
+-// yields a running entry naming no id, which joins to no page. Read to prove life, such an entry
+-// costs a live subagent nothing worse than undetermined. Read to prove an end, the same entry would
+-// take away a working subagent's page and blind the interlock this whole census is here to keep.
++// A FOURTH IS EVIDENCE OF LIFE. A seat's transcript names the subagents that seat launched and has
++// not seen return, which is exactly what an acting agent id cannot see: a subagent waiting on the
++// model runs no process to carry one. Those ids arrive as `runningOwn` and lift a page to working.
++//
++// A FIFTH IS EVIDENCE OF AN END, AND IT IS NARROWER THAN THE FOURTH. The same transcript names the
++// subagents it saw start and then saw finish, and those ids arrive as `endedOwn`. What makes an
++// ended id safe to act on is where an id comes from: a transcript learns one from the launch
++// receipt alone. A fold that missed the launch has no id to end, and a fold that missed the end
++// leaves the id running, so a compacted or truncated transcript costs an id rather than inventing
++// one. What is never safe is the absence of a running entry, because that is what a truncated
++// transcript and a finished subagent look like alike, and reading absence as an end would take away
++// a working subagent's page and blind the interlock this whole census is here to keep.
++//
++// LIFE IS ASKED BEFORE AN END. Both readings are asked of the same transcript, and a reader that
++// somehow answers both for one id leaves that id working, because the order below settles it.
+ 
+ const SEAT = "principalSeatName"
+ 
