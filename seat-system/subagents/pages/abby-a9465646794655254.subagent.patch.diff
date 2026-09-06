@@ -1,0 +1,26 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-non-sexual-arousal-feeds-connection.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-non-sexual-arousal-feeds-connection.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..65a73a5e41995c73be85f8dcdd8af33c5521822e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-non-sexual-arousal-feeds-connection.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherNonSexualArousalFeedsConnection = {
++  id: "01a077ee-b43c-784d-9405-817e8f135b99",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-non-sexual-arousal-feeds-connection",
++  topicSlug: "getting-connection-another-way",
++  ask: "Can a non-sexual arousal actually feed the multiplier toward connection?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/getting-connection-another-way.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/getting-connection-another-way.all-about-alan-topic.ts
+index 0c7a9e452f1e536a68638a2f2474e81b7326edd2..d4dae04eab00c3393cd18b9d781bbe0dae674f79 100644
+--- a/alan/books/all-about-alan/topics/pages/getting-connection-another-way.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/getting-connection-another-way.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const gettingConnectionAnotherWay = {
+   parentSlugs: ["sex"],
+   settled:
+     "Arousal is not sexual arousal, attraction is not connection, and sexual arousal is not having sex.",
+-  unsettled:
+-    "Whether a non-sexual arousal can actually feed the multiplier toward connection is untested.",
+ } as const satisfies AllAboutAlanTopic
