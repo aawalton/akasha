@@ -8,9 +8,13 @@ export const amyAlanHarnessImprovements = {
   personaSlug: "amy",
   intents: [
     {
-      statement: "The Strength stoplight shows a figure taken from data that arrives every day.",
-      workingMemory:
-        "The road in works end to end: `akasha track workout start`, then `set`, then `finish`, proven by a session opened, logged against, closed and taken away again. `composedFor` wrote neither `pageTypeSlug` nor `slug` until today, so every session a command opened landed unfiled. What is left is the logging itself: no session since 2026-08-10, so every day counts 0.",
+      statement: "The persona Alan messaged most recently is tracked reliably in the code editor.",
+    },
+    {
+      statement: "Alan's desktop wallpaper shows the persona he messaged most recently.",
+    },
+    {
+      statement: "Alan's mobile wallpaper shows the persona he messaged most recently.",
     },
   ],
 } as const satisfies Initiative
