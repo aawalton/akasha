@@ -1,0 +1,26 @@
+diff --git a/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts b/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts
+index ae51acaaec190da9c5a9042bf3209fe7fa979589..852ce95c8efc98482b849e79a0f1fc169e5ff719 100644
+--- a/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts
++++ b/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts
+@@ -271,12 +271,18 @@ export function counting(root: string): Counted {
+   const seen: string[] = []
+   return {
+     reading: {
+-      holds: (at: string): boolean => real.holds(at),
++      holds: (at: string): boolean => {
++        seen.push(`holds ${at}`)
++        return real.holds(at)
++      },
+       listing: (at: string): readonly Child[] => {
+-        seen.push(at)
++        seen.push(`listing ${at}`)
+         return real.listing(at)
+       },
+-      lines: (at: string): readonly string[] => real.lines(at),
++      lines: (at: string): readonly string[] => {
++        seen.push(`lines ${at}`)
++        return real.lines(at)
++      },
+     },
+     seen,
+   }
