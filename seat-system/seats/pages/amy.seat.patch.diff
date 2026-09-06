@@ -122,6 +122,47 @@ index 5a26c57001b3cd33d0716b8a621f4a84220c041b..a96366044e7c3a736942e8dba9a72fb3
    ]
    const landed: string[] = []
    for (const [field, rollup] of landings) {
+diff --git a/alan/tracking/daily/topic-words/topic-words.module.ts b/alan/tracking/daily/topic-words/topic-words.module.ts
+index 644c9f5e39333bc3b8205859266e0f2dfe292c61..817c41bd0e3dd790d78b2bde355df604daf5d3dc 100644
+--- a/alan/tracking/daily/topic-words/topic-words.module.ts
++++ b/alan/tracking/daily/topic-words/topic-words.module.ts
+@@ -4,13 +4,12 @@ export const topicWords = {
+   id: "01a06972-bd40-7000-9a84-aea39ed039e2",
+   pageTypeSlug: "module",
+   slug: "topic-words",
+-  definition:
+-    "the wisdom and intelligence words Alan wrote on one day, counted from the commits that landed in it",
++  definition: "the wisdom words Alan wrote and the learn-everything topics he updated on one day",
+   code: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A run of this file counts today's words onto today's day.",
++      statement: "A run of this file counts today's writing onto today's day.",
+     },
+     {
+       invariantKind: "departure",
+@@ -26,7 +25,19 @@ export const topicWords = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The wisdom words land before the intelligence words.",
++      statement: "A changed file counts as the topic that file sits under.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A topic is counted once on a day.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A topic a commit only moved is counted as no topic updated.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The wisdom words land before the intelligence topics.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/alan/tracking/daily/wake-days/pages/2026-09-06/wake-day-2026-09-06.wake-day.ts b/alan/tracking/daily/wake-days/pages/2026-09-06/wake-day-2026-09-06.wake-day.ts
 index 58592a543ff181849579ecdcb8c17fbdb0447ebc..01b494a9d795176df68696e444acb0f6ad5db85e 100644
 --- a/alan/tracking/daily/wake-days/pages/2026-09-06/wake-day-2026-09-06.wake-day.ts
