@@ -13,6 +13,7 @@ export const COMMANDS_SERVED: readonly string[] = [
   "agent-forest",
   "agent-turn-colors",
   "claude-usage",
+  "seat-messaged",
   "seat-transcripts",
   "work-tree",
 ]

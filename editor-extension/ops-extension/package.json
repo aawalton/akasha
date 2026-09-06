@@ -125,6 +125,18 @@
         "command": "opsAgentTree.openPage",
         "category": "Ops Agents",
         "title": "Open Page"
+      },
+      {
+        "command": "opsAgentTree.enterInSeatTerminal",
+        "category": "Ops Agents",
+        "title": "Submit In Seat Terminal"
+      }
+    ],
+    "keybindings": [
+      {
+        "key": "enter",
+        "command": "opsAgentTree.enterInSeatTerminal",
+        "when": "terminalFocus && opsAgentTree.seatTerminalFocused"
       }
     ],
     "menus": {

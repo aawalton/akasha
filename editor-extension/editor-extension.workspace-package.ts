@@ -68,6 +68,7 @@ export const editorExtension = {
     "module/subagent-checkpoints",
     "module/column-memory",
     "module/seat-terminals",
+    "module/seat-terminal-enter",
     "module/seat-toggles",
     "module/seat-act-confirm",
     "module/agent-tree-lookup",
@@ -99,7 +100,7 @@ export const editorExtension = {
     },
     {
       invariantKind: "departure",
-      statement: "A feature that fails to start leaves the others running.",
+      statement: "A feature that fails to start leaves every other feature running.",
     },
     {
       invariantKind: "departure",

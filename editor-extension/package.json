@@ -39,6 +39,7 @@
     "./seat-plan-running": "./seat-plan-running/seat-plan-running.module.code.ts",
     "./seat-showing": "./seat-showing/seat-showing.module.code.ts",
     "./seat-tab-context": "./seat-tab-context/seat-tab-context.module.code.ts",
+    "./seat-terminal-enter": "./seat-terminal-enter/seat-terminal-enter.module.code.ts",
     "./seat-terminals": "./seat-terminals/seat-terminals.module.code.ts",
     "./seat-toggles": "./seat-toggles/seat-toggles.module.code.ts",
     "./status-bar-legends": "./status-bar-legends/status-bar-legends.module.code.ts",
