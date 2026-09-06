@@ -19,7 +19,7 @@ export const temperInventoryMasterWritProbe = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The capture read is the most recent one.",
+      statement: "The capture read is the most recent capture.",
     },
     {
       invariantKind: "departure",
