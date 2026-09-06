@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
+index 500d5f8299deab89985903be6354ed84831715f5..b3b6407486cab1d49701e1c8ece22f07de1207a1 100644
+--- a/domains/initiatives/pages/thea-checks-system.initiative.ts
++++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
+@@ -10,7 +10,7 @@ export const theaChecksSystem = {
+     {
+       statement: "Every check is cheap enough for patch and runs there.",
+       workingMemory:
+-        "Four steps: 1 the failure category prevented, 2 the right files judged at patch, 3 cheap at patch, 4 turned on. A check no changed path satisfies never runs, and the growth of the entries beside its page is the only instrument for that; their count is the change's size, not the check's own. Seed a fault before believing a zero. 43 checks, alphabetical. Done: domain-is-named-by-a-parent, email-address-is-well-formed, file-has-its-page, calculation-imports-only-types. Now: file-length.",
++        "Four steps: 1 the failure category prevented, 2 the right files judged at patch, 3 cheap at patch, 4 turned on. A check no changed path satisfies never runs; the entries beside its page are the only instrument for that. Seed a fault before believing a zero. 43 checks, alphabetical. Done: domain-is-named-by-a-parent, email-address-is-well-formed, file-has-its-page, calculation-imports-only-types. Now: file-length: of 40 refusals 7 read too long, 2 an appender never divided, 31 no one reads.",
+     },
+     {
+       statement: "The tests beside a changed file judge the change that carries it.",
