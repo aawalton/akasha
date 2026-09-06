@@ -66,3 +66,17 @@ index 25747c3ca24bea0fc9678d07fba20adfcc03578a..cc96b28cbec1ad9a39a76a543ffcc624
    const first = carried[0]
    if (first === undefined) return []
    const world = worldOf(change.root, carried, change.after, null)
+diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts
+index cf37de23240f15fed7db9212386b1be7fb836949..4149c4179964e1da462316c866dcdaf0fd761e4b 100644
+--- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts
++++ b/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts
+@@ -27,7 +27,8 @@ const MODULES = "node_modules"
+ const CONFIG = "biome.json"
+ 
+ const SETTINGS =
+-  '{"formatter":{"enabled":false},"assist":{"enabled":false},"linter":{"rules":' +
++  '{"files":{"includes":["**/*.ts","**/*.tsx","**/*.css"]},' +
++  '"formatter":{"enabled":false},"assist":{"enabled":false},"linter":{"rules":' +
+   '{"recommended":false,"correctness":{"noUnusedVariables":"error"}}}}\n'
+ 
+ const CLEAN = "export function held(): number {\n  return 1\n}\n"
