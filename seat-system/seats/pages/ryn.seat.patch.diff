@@ -1,0 +1,13 @@
+diff --git a/seat-system/seat-page-values/seat-page-values.module.ts b/seat-system/seat-page-values/seat-page-values.module.ts
+index 01df5fc8f3ec843872dcd0143817cfe1b3153706..ab2679f95421888cfa89cd7a93b421da2440dff7 100644
+--- a/seat-system/seat-page-values/seat-page-values.module.ts
++++ b/seat-system/seat-page-values/seat-page-values.module.ts
+@@ -9,7 +9,7 @@ export const seatPageValues = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A seat's values come from akasha, with no fallback to the older store.",
++      statement: "A seat's values come from akasha with no fallback to the older store.",
+     },
+     {
+       invariantKind: "departure",
