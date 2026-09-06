@@ -1,0 +1,42 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-far-aphantasia-reaches-into-prediction.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-far-aphantasia-reaches-into-prediction.all-about-alan-question.ts
+index 8ae20fb0f58ca1378501b0fb532c26841035c0b4..3675e8c0da80475091a4abe176b818ca1033af66 100644
+--- a/alan/books/all-about-alan/questions/pages/how-far-aphantasia-reaches-into-prediction.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-far-aphantasia-reaches-into-prediction.all-about-alan-question.ts
+@@ -4,6 +4,6 @@ export const howFarAphantasiaReachesIntoPrediction = {
+   id: "01a0786e-2579-739f-977e-91c00fe3ba07",
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-far-aphantasia-reaches-into-prediction",
+-  topicSlug: "what-makes-a-person-expensive",
++  topicSlug: "the-odds-of-a-hard-evening",
+   ask: "Does the aphantasia block predicting outcomes everywhere, or only where the outcome is another person?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-odds-of-a-hard-evening.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-odds-of-a-hard-evening.all-about-alan-topic.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a482ec72fa3f86c194ee3dd43d0132624ceb0ea5
+--- /dev/null
++++ b/alan/books/all-about-alan/topics/pages/the-odds-of-a-hard-evening.all-about-alan-topic.ts
+@@ -0,0 +1,13 @@
++import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
++
++export const theOddsOfAHardEvening = {
++  id: "01a07878-59a9-7673-9d55-b1f11f5e75e1",
++  pageTypeSlug: "all-about-alan-topic",
++  slug: "the-odds-of-a-hard-evening",
++  title: "The Odds Of A Hard Evening",
++  definition: "how often time with Jen comes in hard, and why I cannot feel the odds",
++  parentSlugs: ["what-makes-a-person-expensive"],
++  relatedSlugs: ["why-i-overspend-on-the-marriage", "why-people-read-as-unsafe"],
++  settled:
++    "What I am paying for is the not knowing rather than the conflict itself. Variable punishment operant conditioning.\n\nNothing tells me in advance which kind of evening it will be. I am incredibly bad at predicting the results, mostly because of the aphantasia.\n\nWithout experiential memory I cannot estimate the odds from an internal sense either. My guess was fifty-fifty.\n\nThe count says a third. Across 162 blocks with Jen from June to September, 55 percent rate difficulty three, 11 percent rate three and a half, and 33 percent rate four or above.\n\nThe share at four or above has been climbing. Fifteen percent in June, 31 in July, 42 in August.",
++} as const satisfies AllAboutAlanTopic
+diff --git a/alan/books/all-about-alan/topics/pages/what-makes-a-person-expensive.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-makes-a-person-expensive.all-about-alan-topic.ts
+index 0753a7c60789dfed4fa1be45084753227cc11750..b7b98b457ee42677435069757724c5ec6fc6b461 100644
+--- a/alan/books/all-about-alan/topics/pages/what-makes-a-person-expensive.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-makes-a-person-expensive.all-about-alan-topic.ts
+@@ -13,5 +13,5 @@ export const whatMakesAPersonExpensive = {
+     "why-people-read-as-unsafe",
+   ],
+   settled:
+-    "Conflict is the single biggest factor in what a person's company costs me.\n\nLizzy is usually a two, and I think that is because she is very conflict-avoidant.\n\nJen is conflict-able. She does not seek conflict out and she does not avoid it either.\n\nWhat I am paying for is the not knowing rather than the conflict itself. Variable punishment operant conditioning.\n\nNothing tells me in advance which kind of evening it will be. I am incredibly bad at predicting the results, mostly because of the aphantasia.\n\nI have not done the math on how often the conflict actually arrives, and without experiential memory I cannot estimate it from an internal sense. My guess is fifty-fifty.",
++    "Conflict is the single biggest factor in what a person's company costs me.\n\nLizzy is usually a two, and I think that is because she is very conflict-avoidant.\n\nJen is conflict-able. She does not seek conflict out and she does not avoid it either.",
+ } as const satisfies AllAboutAlanTopic
