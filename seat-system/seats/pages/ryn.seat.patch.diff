@@ -1,0 +1,17 @@
+diff --git a/git/git-landing-lock/git-landing-lock.module.ts b/git/git-landing-lock/git-landing-lock.module.ts
+index 66671d38038e3e130df3cfdbc35e6a88e8d0d3db..5de1e0c9cf17db40fbc02e398d14560650cb904c 100644
+--- a/git/git-landing-lock/git-landing-lock.module.ts
++++ b/git/git-landing-lock/git-landing-lock.module.ts
+@@ -31,7 +31,11 @@ export const gitLandingLock = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This lock is not the akasha landing lock, and neither excludes the other.",
++      statement: "This lock is not the akasha landing lock.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Neither lock excludes the other lock.",
+     },
+   ],
+ } as const satisfies Module
