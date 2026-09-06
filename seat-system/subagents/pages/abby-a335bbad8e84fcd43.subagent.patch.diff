@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-much-of-my-narrow-band-is-recovery.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-much-of-my-narrow-band-is-recovery.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8275ce061d9155db46d105bed3b71866d6f7e04d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-much-of-my-narrow-band-is-recovery.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howMuchOfMyNarrowBandIsRecovery = {
++  id: "01a077e3-2cd9-7f2f-8040-edbb0434ea71",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-much-of-my-narrow-band-is-recovery",
++  topicSlug: "how-stimulated-i-am",
++  ask: "How much of my band's remaining narrowness widens as I recover, and how much is simply how I am built?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-my-extra-nervous-wiring-buys.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-my-extra-nervous-wiring-buys.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..85bb4f534d4bcafae1dc8e6f23a176e2aa138447
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-my-extra-nervous-wiring-buys.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMyExtraNervousWiringBuys = {
++  id: "01a077e3-2cda-726c-a291-708c2e72c13c",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-my-extra-nervous-wiring-buys",
++  topicSlug: "how-stimulated-i-am",
++  ask: "Does the extra wiring in my nervous system raise what my nervous system can carry, or only what my nervous system costs to run?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-would-instrument-my-arousal-band.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-would-instrument-my-arousal-band.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6a7fcb9340f08610a25bed005335765f5cadfda3
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-would-instrument-my-arousal-band.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatWouldInstrumentMyArousalBand = {
++  id: "01a077e3-2cdb-7e27-ab1a-ba0b00f549f0",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-would-instrument-my-arousal-band",
++  topicSlug: "how-stimulated-i-am",
++  ask: "What measured proxy for arousal could I read against being in my band or out of it, since nothing instruments the band today?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-other-knobs-sit-in-the-arousal-loop.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-other-knobs-sit-in-the-arousal-loop.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6188a021ace0796ba32f12f325fc026401c860bf
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-other-knobs-sit-in-the-arousal-loop.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichOtherKnobsSitInTheArousalLoop = {
++  id: "01a077e3-2cdb-7a87-a3e7-b9db2baf9377",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-other-knobs-sit-in-the-arousal-loop",
++  topicSlug: "how-stimulated-i-am",
++  ask: "Are walking, temperature, conversation and the breathing knobs in the same loop I run by hand, and how do those four rank against each other?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-stimulated-i-am.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-stimulated-i-am.all-about-alan-topic.ts
+index 772bbee1865008c25aa8ca97499f97a45d74f4b9..148f27d7feee9f5de4c44252d75b1111259862ae 100644
+--- a/alan/books/all-about-alan/topics/pages/how-stimulated-i-am.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-stimulated-i-am.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const howStimulatedIAm = {
+   relatedSlugs: ["what-calms-me-down", "how-i-watch-my-agents", "how-warm-i-run"],
+   settled:
+     "Nothing levels it for me, so I run the loop by hand: a reading, then a knob.\n\nThe knobs are the game, the music and the room light.\n\nWandering focus says I am out of band, and how the wandering feels says which way.\n\nCold means I am overstimulated and hot means I am understimulated.\n\nMy safety level sets how wide the band is, and it is still narrow.",
+-  unsettled:
+-    "How much of the remaining narrowness widens as I recover, and how much is simply how I am built, is unknown. I read it as still recovering.\n\nThe extra wiring in my nervous system may raise what it can carry, or only what it costs to run, and which is unsettled.\n\nWhether walking, temperature, conversation or the breathing are knobs in the same loop, and how they rank, is open.\n\nNothing instruments the band. No measured stand-in for arousal has been read against being in it or out of it.",
+ } as const satisfies AllAboutAlanTopic
