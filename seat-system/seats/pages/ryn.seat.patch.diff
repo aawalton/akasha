@@ -1,13 +1,22 @@
 diff --git a/editor-extension/work-tree-panel/work-tree-panel.module.ts b/editor-extension/work-tree-panel/work-tree-panel.module.ts
-index 137387526269edf4fc934eedf99419b02a5c1e91..3f7844e98a333c30524d46cad6448ed23176690c 100644
+index 137387526269edf4fc934eedf99419b02a5c1e91..8c9db143094577d4eb07099bc2e4eca3757244b0 100644
 --- a/editor-extension/work-tree-panel/work-tree-panel.module.ts
 +++ b/editor-extension/work-tree-panel/work-tree-panel.module.ts
-@@ -22,7 +22,7 @@ export const workTreePanel = {
+@@ -22,11 +22,15 @@ export const workTreePanel = {
      },
      {
        invariantKind: "departure",
 -      statement: "The rows the file carries are drawn as they are rather than spelled again.",
 +      statement: "The rows the file carries are drawn unchanged rather than spelled again.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A color is carried on as its name, the decoration being what reads that name.",
++      statement: "A color is carried on as its name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The decoration reads that name.",
      },
      {
        invariantKind: "departure",
