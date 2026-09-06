@@ -11,7 +11,7 @@ export const episodeType = {
     {
       invariantKind: "gap",
       statement:
-        "The values are the ones the record holds rather than all the provider answers with.",
+        "The values are the ones the record holds rather than every value the provider answers with.",
     },
   ],
 } as const satisfies SelectProperty
