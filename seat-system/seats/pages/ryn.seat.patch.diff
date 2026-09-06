@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/editor-extension/work-tree-view/work-tree-view.module.ts b/editor-extension/work-tree-view/work-tree-view.module.ts
-index 24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c..2a9003a455319660bb3763a8a3a5e485dc1b3e26 100644
+index 24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c..2ed823a6f1f3ff35eb267e21bf55faa73d99435c 100644
 --- a/editor-extension/work-tree-view/work-tree-view.module.ts
 +++ b/editor-extension/work-tree-view/work-tree-view.module.ts
 @@ -9,7 +9,7 @@ export const workTreeView = {
@@ -12,7 +11,17 @@ index 24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c..2a9003a455319660bb3763a8a3a5e485
      },
      {
        invariantKind: "departure",
-@@ -48,7 +48,7 @@ export const workTreeView = {
+@@ -18,8 +18,7 @@ export const workTreeView = {
+ 
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A row is identified apart while a filter is there, so the editor redraws that row.",
++      statement: "A row is identified apart while a filter is there.",
+     },
+     {
+       invariantKind: "departure",
+@@ -48,7 +47,7 @@ export const workTreeView = {
      },
      {
        invariantKind: "departure",
