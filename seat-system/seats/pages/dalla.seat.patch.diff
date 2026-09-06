@@ -89,52 +89,6 @@ index 0000000000000000000000000000000000000000..4c84f7f4fdc7cf2640000fa80e156a51
 +  expect(said.edits).toEqual([])
 +  expect(said.refused ?? "").toMatch(/`body`/)
 +})
-diff --git a/changes/command/pages/add-file/add-file.change-command.ts b/changes/command/pages/add-file/add-file.change-command.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..3b5a1ec13f3aa46c7ef80d360621cb39eba88c72
---- /dev/null
-+++ b/changes/command/pages/add-file/add-file.change-command.ts
-@@ -0,0 +1,40 @@
-+import type { ChangeCommand } from "../../change-command.page-type.ts"
-+
-+export const addFile = {
-+  id: "01a07813-2998-778a-95b0-1a31ac5b12dd",
-+  pageTypeSlug: "change-command",
-+  slug: "add-file",
-+  definition: "one body written at one path, judged by the checks a landing runs",
-+  code: "ts",
-+  test: "ts",
-+  isCommand: true,
-+  runsChecks: true,
-+  readersOweReading: true,
-+  writerOwesReading: true,
-+  invariants: [
-+    {
-+      invariantKind: "departure",
-+      statement: "The arguments are read here rather than trusted.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "An argument this change is handed no value for is refused by name.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "The body is handed in whole rather than as a passage.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "Writing the body is left to the partial this change runs.",
-+    },
-+    {
-+      invariantKind: "absence",
-+      statement: "No guard runs here.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "The checks judge the tree this change leaves.",
-+    },
-+  ],
-+} as const satisfies ChangeCommand
 diff --git a/changes/command/pages/change-file/change-file.change-command.code.ts b/changes/command/pages/change-file/change-file.change-command.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..31f16df5c20600eaae266220d5f2db50fc804203
