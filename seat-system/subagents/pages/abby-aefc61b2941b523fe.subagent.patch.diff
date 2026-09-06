@@ -1,0 +1,25 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-three-failure-categories-are-the-whole-set.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-three-failure-categories-are-the-whole-set.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9f2f62ad98c4a63d186919bdb3901cde2df5aee4
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-three-failure-categories-are-the-whole-set.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyThreeFailureCategoriesAreTheWholeSet = {
++  id: "01a077e9-9767-7066-8117-f2e14b7e75f5",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-three-failure-categories-are-the-whole-set",
++  topicSlug: "the-three-ways-an-agent-gets-it-wrong",
++  ask: "Are those three categories of wrong the whole set, or the three I have hit most?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-three-ways-an-agent-gets-it-wrong.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-three-ways-an-agent-gets-it-wrong.all-about-alan-topic.ts
+index c91a3206eb7d7e1a895ee367b6063d8e03c6b3a3..5232ee7f55374c39bff4c67c8fb77c1b0b1a765e 100644
+--- a/alan/books/all-about-alan/topics/pages/the-three-ways-an-agent-gets-it-wrong.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-three-ways-an-agent-gets-it-wrong.all-about-alan-topic.ts
+@@ -9,5 +9,4 @@ export const theThreeWaysAnAgentGetsItWrong = {
+   parentSlugs: ["how-i-prevent-a-category-of-wrong"],
+   settled:
+     "On the instructions side the big categories of wrong I have seen are an agent seeing a term and assuming it meant something different than it did in this context, an agent assuming something would be implemented in a different way than it was, and an agent just doing the wrong thing for this context.\n\nThe domain system is a set of well-refined tools for addressing those directly and concisely without context bloat: Domain Definition, Domain Invariants, Domain Directives.",
+-  unsettled: "Whether those three are the whole set, or the three I have hit most, is not settled.",
+ } as const satisfies AllAboutAlanTopic
