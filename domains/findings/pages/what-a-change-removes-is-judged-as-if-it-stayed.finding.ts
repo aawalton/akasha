@@ -4,7 +4,7 @@ export const whatAChangeRemovesIsJudgedAsIfItStayed = {
   id: "01a060b0-4fd5-7d5d-be4b-3da089f3bac5",
   pageTypeSlug: "finding",
   slug: "what-a-change-removes-is-judged-as-if-it-stayed",
-  domainSlug: "domain/change",
+  domainSlug: "page-type/change",
   claim:
     "`akasha write` judges the paths a change takes away as though the change kept them. A page written at a new path beside a `--remove` of its old path refuses on identity, because the index still files the old copy. A page taken away beside its parent's part slug refuses as naming no parent. So no one gated write relocates or retires a page, and the work goes through `akasha move` and `akasha remove`, which each say `a change-mechanical change runs no check`.",
   evidence:

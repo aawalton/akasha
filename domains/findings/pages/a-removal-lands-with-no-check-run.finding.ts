@@ -4,7 +4,7 @@ export const aRemovalLandsWithNoCheckRun = {
   id: "01a05e81-99f5-7a71-bd25-9f679e5dcf7a",
   pageTypeSlug: "finding",
   slug: "a-removal-lands-with-no-check-run",
-  domainSlug: "domain/change",
+  domainSlug: "page-type/change",
   claim:
     "`akasha remove` lands without running any check. Taking a module folder away answered `no check ran: this landing was made by a program rather than by an agent`, and committed. What it left named a missing folder twice over: the package's part list and its manifest export both pointed at what had just gone. An edit naming those same two paths a moment earlier was refused by the very check that would have caught this, so the two commands disagree about one tree.",
   evidence:

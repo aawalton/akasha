@@ -4,7 +4,7 @@ export const anIsolatedCheckoutStillPushesToTheSharedRemote = {
   id: "01a060be-c946-7003-b783-d6cf1127590b",
   pageTypeSlug: "finding",
   slug: "an-isolated-checkout-still-pushes-to-the-shared-remote",
-  domainSlug: "domain/change",
+  domainSlug: "page-type/change",
   claim:
     "A checkout copied with `cp -a` to test a change in isolation inherits `origin`, and the gated write commands hand off a detached push without being asked. A test move landed on the shared `refs/heads/main`. Isolating the working tree does not isolate the remote, and nothing in the copy says so before the first landing.",
   evidence:

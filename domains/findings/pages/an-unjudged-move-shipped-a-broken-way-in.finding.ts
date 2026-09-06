@@ -4,7 +4,7 @@ export const anUnjudgedMoveShippedABrokenWayIn = {
   id: "01a05ebc-f948-745e-b7d8-8978374ed107",
   pageTypeSlug: "finding",
   slug: "an-unjudged-move-shipped-a-broken-way-in",
-  domainSlug: "domain/change",
+  domainSlug: "page-type/change",
   claim:
     "`akasha move` lands without running any check, the same gap `akasha remove` has, and this time it shipped a real defect. Renaming `module/readout-categorization` to `readout-serving` carried the three files and repointed the path its manifest way in lands on, but left the key spelled `./readout-categorization`. The package offered one name while all eleven callers asked for another. The invariant `a way in naming a module's code is spelled as that module's slug` is the check that never ran.",
   evidence:

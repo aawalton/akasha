@@ -4,7 +4,7 @@ export const aRenameCarriesAFileForAPropertyThePageTypeDoesNotDeclare = {
   id: "01a076e2-dca1-78e7-b45f-63936c335c82",
   pageTypeSlug: "finding",
   slug: "a-rename-carries-a-file-for-a-property-the-page-type-does-not-declare",
-  domainSlug: "domain/change",
+  domainSlug: "page-type/change",
   claim:
     "A page renames with a file beside it for a property its page type does not declare, and the only thing telling `rename-page` that key holds a file is the search across page types in `shapedIn`. Asking the page's type instead leaves that file behind under the old name while the page moves. So the search cannot go until it is settled whether a rename owes a file the declarations do not name, and this is the last of its callers: the declarations and both file-property warrants no longer need it.",
   evidence:

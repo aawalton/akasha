@@ -4,7 +4,7 @@ export const aDraftedRemovalOfAnUntrackedPathReportsSuccessAndTakesNothingAway =
   id: "01a07234-be81-773b-ba2c-8ce58e8d1b0a",
   pageTypeSlug: "finding",
   slug: "a-drafted-removal-of-an-untracked-path-reports-success-and-takes-nothing-away",
-  domainSlug: "domain/change",
+  domainSlug: "page-type/change",
   claim:
     "`akasha write --remove` naming a path git does not track answers `drafted` and exits 0 while leaving the file on disk. A patch is a diff against HEAD, so a path HEAD carries no body for makes no hunk, and the removal falls out of the patch with nothing said. The untracked files beside a page go the same silent way, and every seat has one, since each uncommitted property is a file beside its page. No route takes such a path away at all: `akasha remove` answers that it was already gone, reading HEAD rather than the disk, and a shell `rm` is refused by the write guard. An agent meeting one has nowhere left to go.",
   evidence:

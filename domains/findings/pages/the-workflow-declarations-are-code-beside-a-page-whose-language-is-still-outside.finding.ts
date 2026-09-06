@@ -4,7 +4,7 @@ export const theWorkflowDeclarationsAreCodeBesideAPageWhoseLanguageIsStillOutsid
   id: "01a0657f-0c53-7004-9a08-df5a406740a5",
   pageTypeSlug: "finding",
   slug: "the-workflow-declarations-are-code-beside-a-page-whose-language-is-still-outside",
-  domainSlug: "domain/change",
+  domainSlug: "page-type/change",
   claim:
     "The 39 workflow templates migrated with their steps as a `declaration` file property, which is the module shape — a page saying what the code is for and a file beside it saying how. The language those declarations are written in did not come with them: every one imports a DSL from `tools/lib/workflow-dsl/`, still outside akasha.",
   evidence:

@@ -4,7 +4,7 @@ export const aLandingSettlesItsLockfileAfterTheCommitSoAFailedInstallLeavesMainB
   id: "01a076d5-bf60-75fd-be1f-99889db09e80",
   pageTypeSlug: "finding",
   slug: "a-landing-settles-its-lockfile-after-the-commit-so-a-failed-install-leaves-main-broken",
-  domainSlug: "domain/change",
+  domainSlug: "page-type/change",
 
   claim:
     "A landing carrying a `package.json` settles the lockfile by installing once that landing has given up the hold, so the commit is on main before the install is tried. An install that fails there leaves the commit on main with a lockfile naming what the manifests named before. Nothing retries it and nothing takes the landing back; the call exits non-zero after the commit is already unreachable to undo. A checkout whose `node_modules` is warm reads as healthy, because the links reach the packages under both names, so the breakage is visible only where nothing is installed yet: a deploy's staging clone, or a pod that clones at start.",

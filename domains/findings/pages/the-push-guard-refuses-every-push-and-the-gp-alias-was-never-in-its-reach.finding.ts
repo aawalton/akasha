@@ -4,7 +4,7 @@ export const thePushGuardRefusesEveryPushAndTheGpAliasWasNeverInItsReach = {
   id: "01a068ff-e61a-7e15-bf0f-d0a22f123bc8",
   pageTypeSlug: "finding",
   slug: "the-push-guard-refuses-every-push-and-the-gp-alias-was-never-in-its-reach",
-  domainSlug: "domain/change",
+  domainSlug: "page-type/change",
   claim:
     "`block-destructive-git` now refuses every `git push`, not only a forced one, for akasha-migration constraint 16. All three pushes on 2026-09-03 — 13:58:12, 13:58:27 and 14:33:18 — were `git push origin <sha>:main` sent as Bash tool calls by one agent looping on the `akasha deploy` refusal, so the guard reaches all three, and each is refused end to end now. The diagnosis that this one hook covers all three routes into the remote is wrong about one: `gp` carries no `git`, so `gitCallsIn` reads no git call out of it and no push predicate here can ever reach it. That route is closed at the alias instead. Each push having a seat-lifecycle commit at its tip is an artefact of the base rate, not a second mechanism. Known and accepted cost: no web app is deployed until the migration is done, because a pod serves what origin carries.",
   evidence:

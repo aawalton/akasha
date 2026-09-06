@@ -1,11 +1,15 @@
-import type { Domain } from "../domains/domain.page-type.ts"
+import type { Module } from "../code-system/modules/module.page-type.ts"
+import type { PageType } from "../pages/types/page-type.page-type.ts"
+
+export type Change = Module
 
 export const change = {
   id: "01a05df1-e261-76a1-ad1e-0db3d857450e",
-  pageTypeSlug: "domain",
+  pageTypeSlug: "page-type",
   slug: "change",
-  definition: "everything one act edits",
+  definition: "a mechanical change whose bodies are answered rather than written",
   pluralSlug: "changes",
+  extendsSlug: ["page-type/module"],
   partSlugs: [
     "page-type/atomic-change",
     "page-type/refactor-change",
@@ -60,4 +64,4 @@ export const change = {
       ],
     },
   ],
-} as const satisfies Domain
+} as const satisfies PageType

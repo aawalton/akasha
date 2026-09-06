@@ -4,7 +4,7 @@ export const theRootClaudeMdHeldOneRuleAndNoDomainHeldIt = {
   id: "01a06551-09dd-7bff-bc49-5c0078ad2496",
   pageTypeSlug: "finding",
   slug: "the-root-claude-md-held-one-rule-and-no-domain-held-it",
-  domainSlug: "domain/change",
+  domainSlug: "page-type/change",
   claim:
     "The repo root's CLAUDE.md carried the Atomic Commit rule and no akasha domain carried it, so the migration landed it on the change domain under the released approvals rather than losing it. Alan owes the directive a review.",
   evidence:

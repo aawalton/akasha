@@ -4,7 +4,7 @@ export const theDeployRefusalHandsAnAgentThePushTheMigrationForbids = {
   id: "01a068f2-218b-79a9-a225-7b47813df91a",
   pageTypeSlug: "finding",
   slug: "the-deploy-refusal-hands-an-agent-the-push-the-migration-forbids",
-  domainSlug: "domain/change",
+  domainSlug: "page-type/change",
   claim:
     "The akasha mechanical landing road never pushes, so the migration's own commits hand off nothing. The two pushes on 2026-09-03 at 13:58 were `git push origin <sha>:main` typed by an agent, because `akasha deploy` refuses with that exact command as its remedy and `block-destructive-git` allows an unforced push. Under a swarm committing every few seconds the sha is stale before the deploy rechecks it, so the remedy becomes a retry loop, and each try carries the whole branch. 5,848 commits reached the remote that way.",
   evidence:
