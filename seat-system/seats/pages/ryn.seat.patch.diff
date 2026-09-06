@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/transcript-panel/transcript-panel.module.ts b/editor-extension/transcript-panel/transcript-panel.module.ts
+index 9408832e933be742fb3bcd2b6cc847c7a43790d9..7f20c7a4632e71f86b50cee75642478ef37190ab 100644
+--- a/editor-extension/transcript-panel/transcript-panel.module.ts
++++ b/editor-extension/transcript-panel/transcript-panel.module.ts
+@@ -13,7 +13,7 @@ export const transcriptPanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A command given no seat and no path asks Alan to pick one.",
++      statement: "A command given no seat and no path asks Alan to pick a seat.",
+     },
+     {
+       invariantKind: "departure",
