@@ -1,0 +1,219 @@
+diff --git a/service-system/secrets/pages/alanwalton-secrets-admin-user-id.secret.ts b/service-system/secrets/pages/alanwalton-secrets-admin-user-id.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..319dbc226d9685c48996dd9020db6b77c7ccfecf
+--- /dev/null
++++ b/service-system/secrets/pages/alanwalton-secrets-admin-user-id.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const alanwaltonSecretsAdminUserId = {
++  id: "01a076d8-38b5-71d5-b817-b94f7e9aec4e",
++  pageTypeSlug: "secret",
++  slug: "alanwalton-secrets-admin-user-id",
++  placements: [{ resourceName: "alanwalton-secrets", resourceKey: "ADMIN_USER_ID" }],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/alanwalton-secrets-cron-secret.secret.ts b/service-system/secrets/pages/alanwalton-secrets-cron-secret.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5df3c8ebaefd7facf1044ed54026ca93bdace703
+--- /dev/null
++++ b/service-system/secrets/pages/alanwalton-secrets-cron-secret.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const alanwaltonSecretsCronSecret = {
++  id: "01a076d8-38b9-7bc0-aa5b-45e20998d323",
++  pageTypeSlug: "secret",
++  slug: "alanwalton-secrets-cron-secret",
++  placements: [{ resourceName: "alanwalton-secrets", resourceKey: "CRON_SECRET" }],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/alanwalton-secrets-geoapify-api-key.secret.ts b/service-system/secrets/pages/alanwalton-secrets-geoapify-api-key.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..60fed0aa380fb364035b9c00bd4aee0ec1f43c9d
+--- /dev/null
++++ b/service-system/secrets/pages/alanwalton-secrets-geoapify-api-key.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const alanwaltonSecretsGeoapifyApiKey = {
++  id: "01a076d8-38b9-76e6-8d2a-d3ceebe547a9",
++  pageTypeSlug: "secret",
++  slug: "alanwalton-secrets-geoapify-api-key",
++  placements: [{ resourceName: "alanwalton-secrets", resourceKey: "GEOAPIFY_API_KEY" }],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/alanwalton-secrets-reading-relay-secret.secret.ts b/service-system/secrets/pages/alanwalton-secrets-reading-relay-secret.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..820316576928a2564f716ee42a3bac4495e361c9
+--- /dev/null
++++ b/service-system/secrets/pages/alanwalton-secrets-reading-relay-secret.secret.ts
+@@ -0,0 +1,11 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const alanwaltonSecretsReadingRelaySecret = {
++  id: "01a076d8-38bd-73ac-82e0-6c3bbbf22748",
++  pageTypeSlug: "secret",
++  slug: "alanwalton-secrets-reading-relay-secret",
++  placements: [
++    { resourceName: "alanwalton-secrets", resourceKey: "READING_RELAY_SECRET" },
++    { resourceName: "smilingjenny-secrets", resourceKey: "READING_RELAY_SECRET" },
++  ],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/alanwalton-secrets-spotify-client-id.secret.ts b/service-system/secrets/pages/alanwalton-secrets-spotify-client-id.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ecf9edd713b58deda6d31c2a29c4a474e733760e
+--- /dev/null
++++ b/service-system/secrets/pages/alanwalton-secrets-spotify-client-id.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const alanwaltonSecretsSpotifyClientId = {
++  id: "01a076d8-38be-7fa5-9c43-d8a2a1adff0e",
++  pageTypeSlug: "secret",
++  slug: "alanwalton-secrets-spotify-client-id",
++  placements: [{ resourceName: "alanwalton-secrets", resourceKey: "SPOTIFY_CLIENT_ID" }],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/alanwalton-secrets-spotify-client-secret.secret.ts b/service-system/secrets/pages/alanwalton-secrets-spotify-client-secret.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..32d83791e5aa458d9251760892e940dfb03307fb
+--- /dev/null
++++ b/service-system/secrets/pages/alanwalton-secrets-spotify-client-secret.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const alanwaltonSecretsSpotifyClientSecret = {
++  id: "01a076d8-38be-7968-a644-cc1d0637b869",
++  pageTypeSlug: "secret",
++  slug: "alanwalton-secrets-spotify-client-secret",
++  placements: [{ resourceName: "alanwalton-secrets", resourceKey: "SPOTIFY_CLIENT_SECRET" }],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/alanwalton-secrets-telnyx-public-key.secret.ts b/service-system/secrets/pages/alanwalton-secrets-telnyx-public-key.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..df4efdc232f47f8c597e9a234f5bfd554b6e82a4
+--- /dev/null
++++ b/service-system/secrets/pages/alanwalton-secrets-telnyx-public-key.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const alanwaltonSecretsTelnyxPublicKey = {
++  id: "01a076d8-38be-7503-85a3-c2f8302069cb",
++  pageTypeSlug: "secret",
++  slug: "alanwalton-secrets-telnyx-public-key",
++  placements: [{ resourceName: "alanwalton-secrets", resourceKey: "TELNYX_PUBLIC_KEY" }],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/alanwalton-secrets-webhook-secret.secret.ts b/service-system/secrets/pages/alanwalton-secrets-webhook-secret.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..62b0614f8c76fea31e6de47a807b86ce0fe320c2
+--- /dev/null
++++ b/service-system/secrets/pages/alanwalton-secrets-webhook-secret.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const alanwaltonSecretsWebhookSecret = {
++  id: "01a076d8-38bf-7ea8-b5be-c89540356ac4",
++  pageTypeSlug: "secret",
++  slug: "alanwalton-secrets-webhook-secret",
++  placements: [{ resourceName: "alanwalton-secrets", resourceKey: "WEBHOOK_SECRET" }],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/archive-of-worlds-secrets-next-public-supabase-anon-key.secret.ts b/service-system/secrets/pages/archive-of-worlds-secrets-next-public-supabase-anon-key.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d359bc7009a579e186e0ea26849c48c7f4d4a856
+--- /dev/null
++++ b/service-system/secrets/pages/archive-of-worlds-secrets-next-public-supabase-anon-key.secret.ts
+@@ -0,0 +1,10 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const archiveOfWorldsSecretsNextPublicSupabaseAnonKey = {
++  id: "01a076d8-38bf-7451-8a54-9024fb89e4a6",
++  pageTypeSlug: "secret",
++  slug: "archive-of-worlds-secrets-next-public-supabase-anon-key",
++  placements: [
++    { resourceName: "archive-of-worlds-secrets", resourceKey: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
++  ],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/audhdalan-secrets-subscriber-owner-user-id.secret.ts b/service-system/secrets/pages/audhdalan-secrets-subscriber-owner-user-id.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..034e4cf007e49d75261822b916f3649c92ea0d72
+--- /dev/null
++++ b/service-system/secrets/pages/audhdalan-secrets-subscriber-owner-user-id.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const audhdalanSecretsSubscriberOwnerUserId = {
++  id: "01a076d8-38bf-7585-85dd-0e544826604d",
++  pageTypeSlug: "secret",
++  slug: "audhdalan-secrets-subscriber-owner-user-id",
++  placements: [{ resourceName: "audhdalan-secrets", resourceKey: "SUBSCRIBER_OWNER_USER_ID" }],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/smilingjenny-secrets-alanwalton-ring-device-secret.secret.ts b/service-system/secrets/pages/smilingjenny-secrets-alanwalton-ring-device-secret.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..60007aec9f724a6ca59936aefa5b743a5698f81e
+--- /dev/null
++++ b/service-system/secrets/pages/smilingjenny-secrets-alanwalton-ring-device-secret.secret.ts
+@@ -0,0 +1,10 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const smilingjennySecretsAlanwaltonRingDeviceSecret = {
++  id: "01a076d8-38bf-7f57-8efc-a545a986068a",
++  pageTypeSlug: "secret",
++  slug: "smilingjenny-secrets-alanwalton-ring-device-secret",
++  placements: [
++    { resourceName: "smilingjenny-secrets", resourceKey: "ALANWALTON_RING_DEVICE_SECRET" },
++  ],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/smilingjenny-secrets-smilingjenny-ring-credential.secret.ts b/service-system/secrets/pages/smilingjenny-secrets-smilingjenny-ring-credential.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3a842c34e9d7090b30ea33161ed1389d2c356601
+--- /dev/null
++++ b/service-system/secrets/pages/smilingjenny-secrets-smilingjenny-ring-credential.secret.ts
+@@ -0,0 +1,10 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const smilingjennySecretsSmilingjennyRingCredential = {
++  id: "01a076d8-38c0-7a50-bd0d-212b200f15a0",
++  pageTypeSlug: "secret",
++  slug: "smilingjenny-secrets-smilingjenny-ring-credential",
++  placements: [
++    { resourceName: "smilingjenny-secrets", resourceKey: "SMILINGJENNY_RING_CREDENTIAL" },
++  ],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/temper-secrets-gotrue-db-url.secret.ts b/service-system/secrets/pages/temper-secrets-gotrue-db-url.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c8f49a07ae1bacb9583eac681e6d75ee4ba9cc1a
+--- /dev/null
++++ b/service-system/secrets/pages/temper-secrets-gotrue-db-url.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const temperSecretsGotrueDbUrl = {
++  id: "01a076d8-38c0-73b3-9e2a-7c6108f65323",
++  pageTypeSlug: "secret",
++  slug: "temper-secrets-gotrue-db-url",
++  placements: [{ resourceName: "temper-secrets", resourceKey: "GOTRUE_DB_URL" }],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/temper-secrets-postgrest-db-url.secret.ts b/service-system/secrets/pages/temper-secrets-postgrest-db-url.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3f69c72d9ae91b90602fb1666f55dc873fde86db
+--- /dev/null
++++ b/service-system/secrets/pages/temper-secrets-postgrest-db-url.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const temperSecretsPostgrestDbUrl = {
++  id: "01a076d8-38c1-7d4a-9513-73fc32d8e38e",
++  pageTypeSlug: "secret",
++  slug: "temper-secrets-postgrest-db-url",
++  placements: [{ resourceName: "temper-secrets", resourceKey: "POSTGREST_DB_URL" }],
++} as const satisfies Secret
+diff --git a/service-system/secrets/pages/temper-secrets-zero-admin-password.secret.ts b/service-system/secrets/pages/temper-secrets-zero-admin-password.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fbd09e68ce31c83b9a9cb9b5fc6156cc5c3b2b8e
+--- /dev/null
++++ b/service-system/secrets/pages/temper-secrets-zero-admin-password.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const temperSecretsZeroAdminPassword = {
++  id: "01a076d8-38c1-77b4-b8b9-b9e804daa955",
++  pageTypeSlug: "secret",
++  slug: "temper-secrets-zero-admin-password",
++  placements: [{ resourceName: "temper-secrets", resourceKey: "ZERO_ADMIN_PASSWORD" }],
++} as const satisfies Secret
