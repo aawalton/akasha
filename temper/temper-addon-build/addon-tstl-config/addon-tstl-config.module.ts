@@ -41,7 +41,7 @@ export const addonTstlConfig = {
     {
       invariantKind: "departure",
       statement:
-        "The packages an addon reaches are walked through to the end rather than one deep.",
+        "The packages an addon reaches are walked through to the end rather than a single level deep.",
     },
     {
       invariantKind: "constraint",
