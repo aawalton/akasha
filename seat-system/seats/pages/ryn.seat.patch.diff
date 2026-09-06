@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/seat-system/proc-scan/proc-scan.module.ts b/seat-system/proc-scan/proc-scan.module.ts
+index 408f94d38afc1d8df825195ad145943c70f251e9..e04e4e0406306242695861125e380eced89d14e8 100644
+--- a/seat-system/proc-scan/proc-scan.module.ts
++++ b/seat-system/proc-scan/proc-scan.module.ts
+@@ -10,7 +10,8 @@ export const procScan = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A process names the agent it acts under as well as the agent it runs as.",
++      statement:
++        "A process names the agent that process acts under as well as the agent that process runs as.",
+     },
+     {
+       invariantKind: "departure",
