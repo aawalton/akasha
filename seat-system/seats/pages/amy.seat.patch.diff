@@ -1,3 +1,16 @@
+diff --git a/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx b/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx
+index 7b21394fb6cfb2e72584aeff8c7ee25f0288393d..7430f7f29ac497476ff224455ec85ac45c2155f5 100644
+--- a/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx
++++ b/pages/ui/components/use-app-nav-items/use-app-nav-items.module.code.tsx
+@@ -51,7 +51,7 @@ export function useAppNavItems({
+   // app's id, and a question naming a key the page type does not declare is refused rather than
+   // answered empty, so narrowing by an id would leave the whole navigation unread.
+   const navWhere = useMemo<PageWhere>(
+-    () => [{ key: "appSlug", eq: appSlug != null && appSlug !== "" ? appSlug : appId }],
++    () => [{ key: "appSlug", eq: appSlug != null && appSlug !== "" ? appSlug : "" }],
+     [appId, appSlug]
+   )
+   const { rows: liveRows, isLoading } = usePages({
 diff --git a/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts b/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts
 index a838686ae407dd538bb88ab2fd2344c41cbc0d50..56cd1e71d5d79634d0bf5c7137b6b3498f4b29fe 100644
 --- a/pages/ui/supabase/view-data-of-page/view-data-of-page.module.code.ts
