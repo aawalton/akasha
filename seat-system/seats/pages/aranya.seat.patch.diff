@@ -118,7 +118,7 @@ index 4f60af64fe134831e76e2203e64679cc4c1cfbad..bcfe06c7d0645eed086a0e9839e6633a
        invariantKind: "departure",
        statement: "A cursor no read touched is dropped.",
 diff --git a/seat-system/subagent-census/subagent-census.module.code.ts b/seat-system/subagent-census/subagent-census.module.code.ts
-index 5a064472cf2f1c7bb35a7006513c16e318651acd..aca692dea5334e6b1e1d4ca61c15d899d0c520f8 100644
+index 5a064472cf2f1c7bb35a7006513c16e318651acd..140e5d848c49cad92da89d18c53516671f99841f 100644
 --- a/seat-system/subagent-census/subagent-census.module.code.ts
 +++ b/seat-system/subagent-census/subagent-census.module.code.ts
 @@ -23,14 +23,21 @@ import { LOG_AT, SUBAGENTS_AT } from "../subagents/presence/subagent-presence.mo
@@ -159,3 +159,20 @@ index 5a064472cf2f1c7bb35a7006513c16e318651acd..aca692dea5334e6b1e1d4ca61c15d899
  }
  
  export interface Judged {
+@@ -159,13 +167,15 @@ function pidsByAgentId(entries: readonly ProcLivenessEntry[]): Map<string, numbe
+ export function seenIn(
+   entries: readonly ProcLivenessEntry[],
+   baseDir?: string,
+-  runningOwn: ReadonlySet<string> = new Set()
++  runningOwn: ReadonlySet<string> = new Set(),
++  endedOwn: ReadonlySet<string> = new Set()
+ ): Seen {
+   return {
+     seatPids: pidsByAgentId(entries),
+     actingPids: actingAgentPidsFromProc(entries),
+     takenDown: takenDownIn(baseDir),
+     runningOwn,
++    endedOwn,
+   }
+ }
+ 
