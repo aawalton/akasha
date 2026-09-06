@@ -9,7 +9,11 @@ export const monarchPropose = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Nothing is written, so a rule can be weighed before that rule stands.",
+      statement: "Nothing here is written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule is weighed before that rule stands.",
     },
     {
       invariantKind: "departure",
@@ -18,17 +22,27 @@ export const monarchPropose = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A named rule that does not stand is refused, and the rules that do stand are named in the refusal.",
+      statement: "A named rule that does not stand is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A run with no rule at all is refused, and where the rules stand is said.",
+      statement: "The refusal for a named rule lists the rules that do stand.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every rule is weighed against every transaction, so shadowing between rules is visible.",
+      statement: "A run with no rule at all is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The refusal for a run with no rule names the folder the rules are in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every rule is weighed against every transaction.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Shadowing between rules is visible.",
     },
   ],
 } as const satisfies Module
