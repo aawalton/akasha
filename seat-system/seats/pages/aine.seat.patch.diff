@@ -454,3 +454,81 @@ index 4077970602003220ea886e6c2af4772289ab86f0..ba6e9ab40318bfe89b724538bb711ffd
    unitSlug: "words",
    chapterText: "md",
  } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/sizing/battery.book-section.ts b/alan/books/my-projects/sections/solar-power/sizing/battery.book-section.ts
+index 1de347805958a245d348c7d15330d12cca8c65d3..eaf39080ff3d43df643060c62268ae27a6e4bfb4 100644
+--- a/alan/books/my-projects/sections/solar-power/sizing/battery.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/sizing/battery.book-section.ts
+@@ -7,7 +7,7 @@ export const battery = {
+   title: "Battery Sizing",
+   description:
+     "Battery sizing — daily PV-to-evening shifting plus short-duration outage resilience. Seasonal storage role is held by the grid; battery is not a seasonal asset.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["sizing"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/sizing/cost.book-section.ts b/alan/books/my-projects/sections/solar-power/sizing/cost.book-section.ts
+index 88297b2f63974dfcd487697cc2502d67e30b6c7e..7f4abf4d44790ab96f1ca8d0e101c20065d42f03 100644
+--- a/alan/books/my-projects/sections/solar-power/sizing/cost.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/sizing/cost.book-section.ts
+@@ -7,7 +7,7 @@ export const cost = {
+   title: "Total Cost Stack",
+   description:
+     "Total cost stack — PV + battery + service panel + EV chargers, pre-ITC and post-ITC, three demand scenarios. ITC status uncertainty called out.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["sizing"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/sizing/demand.book-section.ts b/alan/books/my-projects/sections/solar-power/sizing/demand.book-section.ts
+index 849e0d0441a31f7183c96d3a7fe8582bd8e4b08b..7d5ebdce65de70494125b0f3108a15c17a32c861 100644
+--- a/alan/books/my-projects/sections/solar-power/sizing/demand.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/sizing/demand.book-section.ts
+@@ -7,7 +7,7 @@ export const demand = {
+   title: "Revised Annual Demand (Iteration 2)",
+   description:
+     "Iteration-2 revised annual demand — flag-loads removed, low-end EV miles applied, home lab folded into the 12 PCs, inference upside flagged.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["sizing"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/sizing/pv.book-section.ts b/alan/books/my-projects/sections/solar-power/sizing/pv.book-section.ts
+index f3fb4f691d71bcd9fcd4a9305976c11b12f8b2d5..929e242078bbf0577a1535ba1d264982e3d2f336 100644
+--- a/alan/books/my-projects/sections/solar-power/sizing/pv.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/sizing/pv.book-section.ts
+@@ -7,7 +7,7 @@ export const pv = {
+   title: "PV Sizing for Annual Net-Zero",
+   description:
+     "PV DC kWp sizing — Provo specific yield, real-roof derate stack, ILR, mid-life degradation; demand × yield sensitivity table; roof-area feasibility.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["sizing"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/sizing/recommendation.book-section.ts b/alan/books/my-projects/sections/solar-power/sizing/recommendation.book-section.ts
+index 58711ecd9fe8c9f210a48b5831695eacc574c635..c68aca2484c40be0561a1a545e1913c921b340e9 100644
+--- a/alan/books/my-projects/sections/solar-power/sizing/recommendation.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/sizing/recommendation.book-section.ts
+@@ -7,7 +7,7 @@ export const recommendation = {
+   title: "Sensitivity and Recommendation",
+   description:
+     "Sensitivity levers ranked by leverage, the envelope-retrofit bracket called out, and the single planning case for the next iteration to evaluate bids against.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["sizing"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/sizing/topology.book-section.ts b/alan/books/my-projects/sections/solar-power/sizing/topology.book-section.ts
+index 7fefc6e1f1d7986a77bed7b2dde559b9fe76aa34..2bf03a142873489157af651150d2980868979466 100644
+--- a/alan/books/my-projects/sections/solar-power/sizing/topology.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/sizing/topology.book-section.ts
+@@ -7,7 +7,7 @@ export const topology = {
+   title: "Inverter Topology and Service-Panel Decision",
+   description:
+     "Inverter topology (microinverter vs string + optimizers vs hybrid string + battery) and service-panel decision (200 A + SPAN vs 400 A) for the 49 kWp + 40 kWh planning case.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["sizing"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
