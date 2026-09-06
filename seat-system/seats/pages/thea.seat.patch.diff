@@ -4641,7 +4641,7 @@ index 5d006312114194c1a8d4d33d3668a244e69f35ff..9d5fb171a07afa1277dbd6cc250282d5
    max: null,
  } as const satisfies NumberProperty
 diff --git a/pages/types/page-properties/properties/property-slug.text-property.ts b/pages/types/page-properties/properties/property-slug.text-property.ts
-index b0472265b556de9c09af366196fb67c547bacfac..f13d58b6a2fd396d23028bb2fe943f991b459e11 100644
+index b0472265b556de9c09af366196fb67c547bacfac..73eae3dd86223d0bb2e6342d24484c5bcd8ad56c 100644
 --- a/pages/types/page-properties/properties/property-slug.text-property.ts
 +++ b/pages/types/page-properties/properties/property-slug.text-property.ts
 @@ -8,7 +8,7 @@ export const propertySlug = {
@@ -4653,6 +4653,15 @@ index b0472265b556de9c09af366196fb67c547bacfac..f13d58b6a2fd396d23028bb2fe943f99
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
+@@ -26,7 +26,7 @@ export const propertySlug = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The key a page carries is this written in camel.",
++      statement: "The key a page carries is the slug written in camel.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/types/page-properties/properties/total.number-property.ts b/pages/types/page-properties/properties/total.number-property.ts
 deleted file mode 100644
 index 492d05bfb8520912f064babd5396ff5eb32f8b80..0000000000000000000000000000000000000000
