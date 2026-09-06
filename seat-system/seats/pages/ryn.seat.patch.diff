@@ -1,5 +1,5 @@
 diff --git a/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts b/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts
-index 4f09f0f4015b194a91c01251928f8fbecf733dc0..253165a1c4944af5c48330fc60e34a7d37459327 100644
+index 4f09f0f4015b194a91c01251928f8fbecf733dc0..eadeca5d0c8df4aa15f2b7f94d96907609de601a 100644
 --- a/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts
 +++ b/agents/claude-accounts/commands/claude-account-add/claude-account-add.command.ts
 @@ -31,7 +31,8 @@ export const claudeAccountAdd = {
@@ -12,3 +12,12 @@ index 4f09f0f4015b194a91c01251928f8fbecf733dc0..253165a1c4944af5c48330fc60e34a7d
      },
      {
        invariantKind: "departure",
+@@ -43,7 +44,7 @@ export const claudeAccountAdd = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here signs in, reads a token, or writes a secret.",
++      statement: "Nothing here signs in or reads a token or writes a secret.",
+     },
+   ],
+ } as const satisfies Command
