@@ -92,7 +92,7 @@ index c077c84259985b9aefdf39af0955b39939b8f502..d5ec680f9222f108ff5e6e4f3f327a24
        const off = offFormat(each, format, formatting, slug)
        if (off !== null) said.push(off)
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
-index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..5e9951bac4986c32cd57252b70aab54075569694 100644
+index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..041bc1f9574edf2ec71e9a5dbb2e5efa7312332b 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
 @@ -34,7 +34,7 @@ const TYPES: readonly Value[] = [
@@ -101,6 +101,29 @@ index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..5e9951bac4986c32cd57252b70aab540
        { pagePropertySlug: "test", required: true, many: false },
 -      { pagePropertySlug: "aids", required: false, many: true, max: 2, total: 6 },
 +      { pagePropertySlug: "aids", required: false, many: true, maxCount: 2, maxLength: 3 },
+     ],
+   },
+   {
+@@ -43,8 +43,8 @@ const TYPES: readonly Value[] = [
+     slug: "told",
+     extendsSlug: ["page-type/page"],
+     properties: [
+-      { pagePropertySlug: "directives", required: false, many: true, max: null },
+-      { pagePropertySlug: "aids", required: false, many: true, max: null },
++      { pagePropertySlug: "directives", required: false, many: true, maxCount: null },
++      { pagePropertySlug: "aids", required: false, many: true, maxCount: null },
+       { pagePropertySlug: "tally", required: false, many: false },
+     ],
+   },
+@@ -74,9 +74,9 @@ const SHAPES: readonly Value[] = [
+     slug: "page-type",
+     extendsSlug: ["page-type/page"],
+     properties: [
+-      { pagePropertySlug: "extends-slug", required: false, many: true, max: null },
++      { pagePropertySlug: "extends-slug", required: false, many: true, maxCount: null },
+       { pagePropertySlug: "page-type-slug", required: false, many: false },
+-      { pagePropertySlug: "properties", required: false, many: true, max: null },
++      { pagePropertySlug: "properties", required: false, many: true, maxCount: null },
      ],
    },
    {
@@ -209,3 +232,14 @@ index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..5e9951bac4986c32cd57252b70aab540
        { pagePropertySlug: "text-property/tag", required: false, many: false },
      ],
    },
+@@ -371,8 +371,8 @@ function grounding(root: string): undefined {
+   listedFiled(root, "page-type", "page", [{ path: pageAt, id: ROOT_ID }])
+   const typeAt = "akasha/page-type.page-type.ts"
+   const declares =
+-    '{ pagePropertySlug: "extends-slug", many: true, max: null }, { pagePropertySlug: "page-type-slug" }' +
+-    ', { pagePropertySlug: "properties", many: true, max: null }'
++    '{ pagePropertySlug: "extends-slug", many: true, maxCount: null }, { pagePropertySlug: "page-type-slug" }' +
++    ', { pagePropertySlug: "properties", many: true, maxCount: null }'
+   put(root, typeAt, typing(PAGE_TYPE_ID, "page-type", '["page-type/page"]', declares))
+   listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
+   schemaFiledFor(root, "relation-property", "extends-slug")
