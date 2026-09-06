@@ -1,0 +1,12 @@
+diff --git a/temper/temper-player-inventory-management-ui/package.json b/temper/temper-player-inventory-management-ui/package.json
+index 478bcc633a4004d1d7979cb1201237e30e0ac5bb..71a50e0f2a25166d4bf7da6cb46149aff1b72a63 100644
+--- a/temper/temper-player-inventory-management-ui/package.json
++++ b/temper/temper-player-inventory-management-ui/package.json
+@@ -20,6 +20,7 @@
+     "@akasha/design-patterns": "workspace:*",
+     "@akasha/design-primitives": "workspace:*",
+     "@akasha/pages-access": "workspace:*",
++    "@akasha/pages-query": "workspace:*",
+     "@akasha/pages-ui": "workspace:*",
+     "@akasha/temper-build-support": "workspace:*",
+     "@akasha/temper-characters-character-ui": "workspace:*",
