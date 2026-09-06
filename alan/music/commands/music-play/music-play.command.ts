@@ -44,7 +44,7 @@ export const musicPlay = {
     },
     {
       invariantKind: "departure",
-      statement: "A device named on the command line is played on rather than the active one.",
+      statement: "A device named on the command line is played on rather than the active device.",
     },
     {
       invariantKind: "absence",
