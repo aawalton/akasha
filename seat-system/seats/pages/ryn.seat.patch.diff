@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/command-system/piping/piping.module.ts b/command-system/piping/piping.module.ts
-index 9adfb5242bf56efeb0c8750de8ec7fd1c5084e45..543ee41ef87ba84a04cce67d440da442c180dbc1 100644
+index 9adfb5242bf56efeb0c8750de8ec7fd1c5084e45..f30761ea7e21d0ff3c62f667803e89209cb60847 100644
 --- a/command-system/piping/piping.module.ts
 +++ b/command-system/piping/piping.module.ts
 @@ -93,7 +93,7 @@ export const piping = {
@@ -12,3 +12,12 @@ index 9adfb5242bf56efeb0c8750de8ec7fd1c5084e45..543ee41ef87ba84a04cce67d440da442
      },
      {
        invariantKind: "departure",
+@@ -130,7 +130,7 @@ export const piping = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "An input no second descriptor can be opened on is answered as one that would not open.",
++        "An input no second descriptor can be opened on is answered as an input that would not open.",
+     },
+   ],
+ } as const satisfies Module
