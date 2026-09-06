@@ -1,0 +1,122 @@
+diff --git a/pages/types/folder/page-type-folder.module.code.ts b/pages/types/folder/page-type-folder.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2ead22e5fc3ef03ecb3814d1d28c8319133b1812
+--- /dev/null
++++ b/pages/types/folder/page-type-folder.module.code.ts
+@@ -0,0 +1,14 @@
++export type Parent = {
++  readonly slug: string
++  readonly pluralSlug: string | null
++}
++
++function dropped(said: string, name: string | null): string | null {
++  if (name === null || name === "") return null
++  const head = `${name}-`
++  return said.startsWith(head) ? said.slice(head.length) : null
++}
++
++export function folderFor(pluralSlug: string, parent: Parent): string {
++  return dropped(pluralSlug, parent.pluralSlug) ?? dropped(pluralSlug, parent.slug) ?? pluralSlug
++}
+diff --git a/pages/types/folder/page-type-folder.module.test.ts b/pages/types/folder/page-type-folder.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d8e5209975a5a31da711e4f16544131b0f1514ef
+--- /dev/null
++++ b/pages/types/folder/page-type-folder.module.test.ts
+@@ -0,0 +1,41 @@
++import { expect, test } from "bun:test"
++import { folderFor } from "./page-type-folder.module.code.ts"
++
++const CHANGE = { slug: "change", pluralSlug: "changes" }
++
++test("a plural the parent's slug opens is the folder with that slug dropped", () => {
++  expect(folderFor("change-atomic", CHANGE)).toBe("atomic")
++  expect(folderFor("change-refactor", CHANGE)).toBe("refactor")
++  expect(folderFor("change-partial", CHANGE)).toBe("partial")
++})
++
++test("a page type stating its slug as its plural is named for that slug", () => {
++  expect(folderFor("change-kinds", CHANGE)).toBe("kinds")
++})
++
++test("the parent's plural is tried before the parent's slug", () => {
++  expect(folderFor("changes-atomic", CHANGE)).toBe("atomic")
++})
++
++test("a plural the parent's name does not open is the folder whole", () => {
++  expect(folderFor("domains", { slug: "akasha", pluralSlug: null })).toBe("domains")
++  expect(folderFor("seats", CHANGE)).toBe("seats")
++})
++
++test("the folders the tree already carries are answered as they are", () => {
++  expect(folderFor("page-types", { slug: "page", pluralSlug: "pages" })).toBe("types")
++  expect(folderFor("model-families", { slug: "model", pluralSlug: "models" })).toBe("families")
++  expect(folderFor("all-about-alan-topics", { slug: "all-about-alan", pluralSlug: null })).toBe(
++    "topics"
++  )
++  expect(folderFor("context-warrants", { slug: "context", pluralSlug: null })).toBe("warrants")
++})
++
++test("a name is dropped only where a `-` follows it", () => {
++  expect(folderFor("changes", CHANGE)).toBe("changes")
++  expect(folderFor("changeling", CHANGE)).toBe("changeling")
++})
++
++test("a parent naming nothing drops nothing", () => {
++  expect(folderFor("change-atomic", { slug: "", pluralSlug: null })).toBe("change-atomic")
++})
+diff --git a/pages/types/folder/page-type-folder.module.ts b/pages/types/folder/page-type-folder.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..573f8e3f48c368afbfacf8d58e560c703dce1834
+--- /dev/null
++++ b/pages/types/folder/page-type-folder.module.ts
+@@ -0,0 +1,49 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const pageTypeFolder = {
++  id: "01a07690-d4cb-70b5-ab1b-698ad6ee2f09",
++  pageTypeSlug: "module",
++  slug: "page-type-folder",
++  definition: "the folder a page type's pages sit in, made from its plural and its parent's name",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A folder is named for the plural its page type states.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The parent's name is dropped off the front of that plural where the front is it.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The parent's plural is tried before the parent's slug.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A plural the parent's name does not open is the folder whole.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A name is dropped only where a `-` follows it, so part of a word is never dropped.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page type stating its slug as its plural is named for that slug.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "The folder this answers differs from the folder some page types sit in today.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a page, an index or the disk.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here answers where the parent's own folder is.",
++    },
++  ],
++} as const satisfies Module
