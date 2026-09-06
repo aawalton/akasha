@@ -4316,6 +4316,21 @@ index 3e74a7396aace37d5919a95771006b6814f6f077..983045625ae736a01f52bfae170bd158
      { pagePropertySlug: "relation-property/name-format-slug", required: true, many: false },
    ],
  } as const satisfies PageType
+diff --git a/pages/types/page-properties/page-property.page-type.ts b/pages/types/page-properties/page-property.page-type.ts
+index 66302224b95717126a926442b9d509e4b40a550b..8b662114a86df7089703c959df40f8cad8e58a01 100644
+--- a/pages/types/page-properties/page-property.page-type.ts
++++ b/pages/types/page-properties/page-property.page-type.ts
+@@ -20,10 +20,8 @@ export const pageProperty = {
+   pluralSlug: "page-properties",
+   partSlugs: [
+     "module/page-property-key",
+-    "number-property/max",
+     "number-property/max-count",
+     "number-property/max-length",
+-    "number-property/total",
+     "relation-property/generator",
+     "relation-property/unique",
+     "text-property/property-slug",
 diff --git a/pages/types/page-properties/properties/property-slug.text-property.ts b/pages/types/page-properties/properties/property-slug.text-property.ts
 index b0472265b556de9c09af366196fb67c547bacfac..f13d58b6a2fd396d23028bb2fe943f991b459e11 100644
 --- a/pages/types/page-properties/properties/property-slug.text-property.ts
