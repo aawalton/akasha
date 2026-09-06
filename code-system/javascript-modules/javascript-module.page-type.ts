@@ -38,7 +38,7 @@ export const javascriptModule = {
     {
       invariantKind: "departure",
       statement:
-        "A JavaScript module reaches its siblings by the name each carries where that sibling runs.",
+        "A JavaScript module reaches its siblings by the name a sibling carries where that sibling runs.",
     },
     {
       invariantKind: "absence",
