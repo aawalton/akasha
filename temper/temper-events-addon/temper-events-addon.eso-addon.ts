@@ -35,7 +35,7 @@ export const temperEventsAddon = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One add-on holds the timers rather than one add-on for each timer.",
+      statement: "One add-on holds the timers rather than an add-on for each timer.",
     },
     {
       invariantKind: "departure",
