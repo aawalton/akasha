@@ -97,3 +97,15 @@ index 3cc37a22de20d6faa9acdbff8b5f313f06938110..fd0f4d214da271681cb7f7b3cab33729
    ],
    invariants: [
      {
+diff --git a/temper/temper-web/temper-web.router-app.ts b/temper/temper-web/temper-web.router-app.ts
+index 29033477419da0908d6664425953cd78807ac10e..8d13551b9f2c003c8fd1a7f49f1ed13d1199ec6f 100644
+--- a/temper/temper-web/temper-web.router-app.ts
++++ b/temper/temper-web/temper-web.router-app.ts
+@@ -6,6 +6,7 @@ export const temperWeb = {
+   slug: "temper-web",
+   definition: "the routes Temper serves to a browser",
+   manifest: "json",
++  appLayout: "tsx",
+   rootRoute: "tsx",
+   routeTable: "ts",
+   serverEntry: "tsx",
