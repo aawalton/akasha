@@ -1,0 +1,26 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-running-out-of-content-feels-like.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-running-out-of-content-feels-like.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..38e07f5d9c5e38e1f9c3e36a2a2fb96a8f919837
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-running-out-of-content-feels-like.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatRunningOutOfContentFeelsLike = {
++  id: "01a077e6-4e8b-7ff1-b50f-a845897e9aa1",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-running-out-of-content-feels-like",
++  topicSlug: "running-out-of-content",
++  ask: "Running out of content is a real and aversive state. What does the aversion feel like, and what does the aversion run on?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/running-out-of-content.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/running-out-of-content.all-about-alan-topic.ts
+index 16a49cf56ff1cd1a8c348ab7d7c8e1ae91de2758..04a15d0c95d40bccbc24801944c874fdcf6149d8 100644
+--- a/alan/books/all-about-alan/topics/pages/running-out-of-content.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/running-out-of-content.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const runningOutOfContent = {
+   parentSlugs: ["what-pulls-me-into-doing-something"],
+   settled:
+     "Other people can retreat inward for the same mix of the familiar and the new. I have nothing to retreat to.",
+-  unsettled:
+-    "Running out is a real and aversive state, and what the aversion actually feels like or runs on has never been named.",
+ } as const satisfies AllAboutAlanTopic
