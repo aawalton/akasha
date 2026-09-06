@@ -86,3 +86,18 @@ index 22a55f763a35a8a753b1a2414b02ff78bee087b4..02f2209f511ecdfb235e338c1942ab7d
  test("a dry run names a path belonging to no index and leaves that path alone", () => {
    const root = repoAt()
    seeded(root)
+diff --git a/command-system/commands/index/index.command.ts b/command-system/commands/index/index.command.ts
+index ebbacd330b4cb2864efb9b918a36e9da63cfb70c..8d932b13975cb17c09e660212c0d63e14ce35d07 100644
+--- a/command-system/commands/index/index.command.ts
++++ b/command-system/commands/index/index.command.ts
+@@ -76,6 +76,10 @@ export const index = {
+       invariantKind: "departure",
+       statement: "The report names the files the index differed in as well as counting the files.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The report counts the files under each index the difference falls in.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "A refresh writes nothing tracked and makes no commit.",
