@@ -68,3 +68,43 @@ index d95be9dcced63bbf80a5125272d80ffd6f2ebee1..00000000000000000000000000000000
 -    },
 -  ],
 -} as const satisfies NumberProperty
+diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.ts b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+index d2dd1a99ef196d4724c8f397cec5a751a24e31cf..0023bfa356d922067bb31b348d790b415278981a 100644
+--- a/alan/tracking/daily/wake-days/wake-day.page-type.ts
++++ b/alan/tracking/daily/wake-days/wake-day.page-type.ts
+@@ -18,7 +18,7 @@ import type { InboxTemperTasks } from "./properties/inbox-temper-tasks.number-pr
+ import type { InboxTemperTasksClearedToday } from "./properties/inbox-temper-tasks-cleared-today.boolean-property.ts"
+ import type { InboxTexts } from "./properties/inbox-texts.number-property.ts"
+ import type { InboxTextsClearedToday } from "./properties/inbox-texts-cleared-today.boolean-property.ts"
+-import type { IntelligenceWords } from "./properties/intelligence-words.number-property.ts"
++import type { IntelligenceTopics } from "./properties/intelligence-topics.number-property.ts"
+ import type { LastViewedAt } from "./properties/last-viewed-at.instant-property.ts"
+ import type { LearnPoints } from "./properties/learn-points.number-property.ts"
+ import type { LovePoints } from "./properties/love-points.number-property.ts"
+@@ -61,7 +61,7 @@ export type WakeDay = Page & {
+   breathingPoints?: BreathingPoints
+   activeCalories?: ActiveCalories
+   wisdomWords?: WisdomWords
+-  intelligenceWords?: IntelligenceWords
++  intelligenceTopics?: IntelligenceTopics
+   spannedFromDayBoundary?: SpannedFromDayBoundary
+   completionSnapshot?: CompletionSnapshot
+   wordsReadPoints?: WordsReadPoints
+@@ -124,7 +124,7 @@ export const wakeDay = {
+     "number-property/inbox-tasks",
+     "number-property/inbox-temper-tasks",
+     "number-property/inbox-texts",
+-    "number-property/intelligence-words",
++    "number-property/intelligence-topics",
+     "number-property/learn-points",
+     "number-property/love-points",
+     "number-property/nutrition-points",
+@@ -168,7 +168,7 @@ export const wakeDay = {
+     { pagePropertySlug: "number-property/breathing-points", required: false, many: false },
+     { pagePropertySlug: "number-property/active-calories", required: false, many: false },
+     { pagePropertySlug: "number-property/wisdom-words", required: false, many: false },
+-    { pagePropertySlug: "number-property/intelligence-words", required: false, many: false },
++    { pagePropertySlug: "number-property/intelligence-topics", required: false, many: false },
+     {
+       pagePropertySlug: "boolean-property/spanned-from-day-boundary",
+       required: false,
