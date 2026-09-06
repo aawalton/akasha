@@ -1,0 +1,41 @@
+diff --git a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.code.ts b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.code.ts
+index e7c56b82f165e001688ff9b6620609f60566dcbc..e66f4281cdac7a10fa55455a1aa25f0c9e781708 100644
+--- a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.code.ts
++++ b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.code.ts
+@@ -89,12 +89,19 @@ export function everyType(shadow: Shadow, carried: readonly Carried[]): readonly
+   return found
+ }
+ 
+-export function introducersIn(
++export function introducedOver(
+   standing: readonly PageType[],
+   shadow: Shadow
++): ReadonlyMap<string, readonly string[]> {
++  return new Map(standing.map((one) => [one.slug, introducedIn(one, shadow)]))
++}
++
++export function introducersIn(
++  standing: readonly PageType[],
++  introduced: ReadonlyMap<string, readonly string[]>
+ ): ReadonlyMap<string, readonly string[]> {
+   const pairs = standing.flatMap((one) =>
+-    introducedIn(one, shadow).map((propertySlug) => ({ propertySlug, slug: one.slug }))
++    (introduced.get(one.slug) ?? []).map((propertySlug) => ({ propertySlug, slug: one.slug }))
+   )
+   const grouped = Map.groupBy(pairs, (one) => addressedIn(one.propertySlug))
+   return new Map(
+@@ -116,11 +123,12 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
+   if (!change.changed.some((path) => typeNamedIn(path) !== null)) return []
+   const carried = carriedBy(change, shadow.index.pageTypesIn())
+   const types = everyType(shadow, carried)
+-  const introducers = introducersIn(types, shadow)
++  const introduced = introducedOver(types, shadow)
++  const introducers = introducersIn(types, introduced)
+   const said: Judged[] = []
+   for (const one of types) {
+     const parts = partedIn(one.value)
+-    for (const propertySlug of introducedIn(one, shadow)) {
++    for (const propertySlug of introduced.get(one.slug) ?? []) {
+       const addressed = addressedIn(propertySlug)
+       if (parts.has(addressed)) continue
+       if ((introducers.get(addressed) ?? []).length !== 1) continue
