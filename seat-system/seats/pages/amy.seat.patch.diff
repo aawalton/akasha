@@ -1,3 +1,15 @@
+diff --git a/person-system/people/pages/alan.person.ts b/person-system/people/pages/alan.person.ts
+index e9126bbe6d1b2f8b264ec21ff1be5266f55d96be..f95c66d13080556d0415f0c842f75ba8b1816eae 100644
+--- a/person-system/people/pages/alan.person.ts
++++ b/person-system/people/pages/alan.person.ts
+@@ -9,6 +9,7 @@ export const alan = {
+   phone: "+16085122510",
+   email: "aawalton@gmail.com",
+   supabaseAuthUserId: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
++  bodyweight: 180,
+   directives: [
+     {
+       directiveKind: "principle",
 diff --git a/person-system/people/person.page-type.ts b/person-system/people/person.page-type.ts
 index 54172334f0825a07652d52b8ee870843a5f7f0e3..0f8c56f37aad5a430d96a4b425fd65f38df245dd 100644
 --- a/person-system/people/person.page-type.ts
