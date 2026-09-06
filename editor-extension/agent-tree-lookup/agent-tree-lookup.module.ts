@@ -21,7 +21,7 @@ export const agentTreeLookup = {
     },
     {
       invariantKind: "departure",
-      statement: "Two seats of one name leave the deepest one found.",
+      statement: "Two seats of one name leave the deepest seat found.",
     },
     {
       invariantKind: "departure",
