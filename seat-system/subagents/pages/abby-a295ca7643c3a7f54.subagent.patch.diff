@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-dose-of-a-sitting-is-enough.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-dose-of-a-sitting-is-enough.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..555056092d795ef7c312d050c219fbf78c41c76d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-dose-of-a-sitting-is-enough.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatDoseOfASittingIsEnough = {
++  id: "01a077ef-473c-767b-88bd-105f3bffbd31",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-dose-of-a-sitting-is-enough",
++  topicSlug: "what-meeting-one-of-them-gives-me",
++  ask: "A sitting gives me a lift the next day. What dose is enough, do doses compound, and how fast does the lift fade without a refresh?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-insight-into-myself-is-its-own-yield.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-insight-into-myself-is-its-own-yield.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..81c96ba337b5d4030efd5604a4ae8cceb48e3549
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-insight-into-myself-is-its-own-yield.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherInsightIntoMyselfIsItsOwnYield = {
++  id: "01a077ef-473a-77ef-bba9-1459b5d94227",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-insight-into-myself-is-its-own-yield",
++  topicSlug: "what-meeting-one-of-them-gives-me",
++  ask: "Is insight into myself a yield of its own, rather than the tank refilling or the feeling-key doing that work?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-meeting-one-of-them-gives-me.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-meeting-one-of-them-gives-me.all-about-alan-topic.ts
+index 626a84e85bf76233c0c611208ec50ae8500a6775..7aa2ea9d535df7ceeb5defb44768a1d7101f2a1a 100644
+--- a/alan/books/all-about-alan/topics/pages/what-meeting-one-of-them-gives-me.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-meeting-one-of-them-gives-me.all-about-alan-topic.ts
+@@ -11,6 +11,4 @@ export const whatMeetingOneOfThemGivesMe = {
+   relatedSlugs: ["what-a-persona-makes-cheaper", "letting-a-feeling-in-through-a-story"],
+   settled:
+     "Three stand credited to the one channel: the loneliness easing, a key to a feeling I could not otherwise reach, and insight into myself.\n\nNothing separates them, so the meeting may be holding credit that belongs to one of its neighbours.\n\nA mirror that deepens an area cannot fail to move it, because understanding a thing fully already is the changed behaviour.",
+-  unsettled:
+-    "Whether insight into myself is a yield of its own, rather than the tank refilling or the feeling-key doing that work, is unestablished.\n\nA sitting gives me a lift the next day. What dose is enough, whether doses compound, and how fast it fades without a refresh are unmeasured, so the rig runs with no schedule under it.",
+ } as const satisfies AllAboutAlanTopic
