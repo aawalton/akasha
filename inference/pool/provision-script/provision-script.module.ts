@@ -13,13 +13,19 @@ export const provisionScript = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The content hash is stamped last, so a failed step leaves the service stale rather than current.",
+      statement: "The content hash is stamped last.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An always-on service is loaded at login and kept alive; a pool service is neither.",
+      statement: "A failed step leaves the service stale rather than current.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An always-on service is loaded at login and kept alive.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A pool service is not loaded at login and is not kept alive.",
     },
     {
       invariantKind: "departure",
