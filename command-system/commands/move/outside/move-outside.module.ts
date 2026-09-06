@@ -18,16 +18,18 @@ export const moveOutside = {
     },
     {
       invariantKind: "departure",
-      statement: "The tail of a path that moved from each folder above it is looked for too.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The longest folder that moved is the one a path beneath it arrives under.",
+      statement:
+        "The tail of a path that moved from each folder above that path is looked for too.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A path spelled with no leading dot is resolved against the folder of the file carrying it.",
+        "The longest folder that moved is the folder a path beneath that folder arrives under.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A path spelled with no leading dot is resolved against the folder of the file carrying that path.",
     },
     {
       invariantKind: "absence",
@@ -59,7 +61,7 @@ export const moveOutside = {
     {
       invariantKind: "departure",
       statement:
-        "The longest path that moved and covers a resolved path is the one that resolved path follows.",
+        "The longest path that moved and covers a resolved path is the path that resolved path follows.",
     },
     {
       invariantKind: "departure",
