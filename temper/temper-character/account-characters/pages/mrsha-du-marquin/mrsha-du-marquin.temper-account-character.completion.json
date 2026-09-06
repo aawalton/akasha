@@ -1038,7 +1038,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 15,
+            "numCompleted": 16,
             "numRequired": 20
           }
         }
@@ -1051,7 +1051,7 @@
         "totalSteps": 1,
         "criteria": {
           "1": {
-            "numCompleted": 15,
+            "numCompleted": 16,
             "numRequired": 30
           }
         }
@@ -12538,8 +12538,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "completed": 7,
-    "date": "2026-09-04"
+    "date": "2026-09-06",
+    "completed": 7
   },
   "dailyWritStates": {
     "completed": {
@@ -12547,7 +12547,7 @@
       "2": 7,
       "3": 6,
       "4": 2,
-      "5": 4,
+      "5": 5,
       "6": 4,
       "7": 5
     },
@@ -12560,7 +12560,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-04"
+    "date": "2026-09-06"
   },
   "motifKnowledge": {
     "2": {
