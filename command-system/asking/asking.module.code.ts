@@ -19,7 +19,11 @@ import type {
   Refused,
 } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf, landing } from "../landing/landing.module.code.ts"
-import { asReadIn, recordLanded } from "../landing-reading/landing-reading.module.code.ts"
+import {
+  asReadIn,
+  carryLanded,
+  recordLanded,
+} from "../landing-reading/landing-reading.module.code.ts"
 import {
   draftedSaid,
   filledSaid,
@@ -33,7 +37,7 @@ import {
   lockingFor,
   sameBytes,
 } from "../manifest-locking/manifest-locking.module.code.ts"
-import { type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
+import { type Carry, type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
 import type { Minted } from "../value-minting/value-minting.module.code.ts"
 import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
 import { workedFor } from "../worked-typing/worked-typing.module.code.ts"
@@ -60,6 +64,7 @@ export type Asked = {
   readonly saying: Saying
   readonly read?: string | null
   readonly carries?: readonly FileCarry[]
+  readonly readings?: readonly Carry[]
   readonly draft?: boolean
   readonly reaching?: () => undefined
 }
@@ -371,7 +376,8 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   } catch (thrown) {
     return { report: [], refusals: [`${NOTHING} — ${whyOf(thrown)}`], code: 3 }
   }
-  const prepared = preparing(given.root, baseOf(given.root), minted.changes)
+  const base = baseOf(given.root)
+  const prepared = preparing(given.root, base, minted.changes)
   const formatting = prepared.formatting
   const unexportable = unexportableIn(formatting.changes)
   if (unexportable.length > 0) return mistaking([...unexportable, NOTHING])
@@ -412,6 +418,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
   }
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
   recordLanded(given, formatting.changes)
+  carryLanded(given, base, held.changes, held.readings ?? [])
   const put = installingIn(given.root, held.changes)
   return {
     report: reported(counted, said, {
