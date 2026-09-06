@@ -138,7 +138,6 @@ export function characterRow(
 ): CompletionCharacterRow {
   return {
     id,
-    userId: "user-1",
     esoCharacterId: `eso-${id}`,
     completion,
     createdAt: 0,

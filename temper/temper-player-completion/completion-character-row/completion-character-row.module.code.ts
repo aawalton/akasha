@@ -2,7 +2,6 @@ import type { CharacterCompletion } from "@akasha/temper-completion/completion-p
 
 export interface CompletionCharacterRow {
   id: string
-  userId: string
   esoCharacterId: string
   title?: string | null | undefined
   completion?: CharacterCompletion | null | undefined

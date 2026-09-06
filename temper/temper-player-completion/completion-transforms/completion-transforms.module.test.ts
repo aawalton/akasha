@@ -41,7 +41,6 @@ const RESEARCH_LINES: readonly TraitResearchCatalogLine[] = [
 function row(id: string, completion: CharacterCompletion | null): CompletionCharacterRow {
   return {
     id,
-    userId: "user-1",
     esoCharacterId: `eso-${id}`,
     title: id,
     completion,

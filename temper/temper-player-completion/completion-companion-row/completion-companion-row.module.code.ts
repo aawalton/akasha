@@ -2,7 +2,6 @@ import type { CompanionCompletion } from "@akasha/temper-completion/completion-p
 
 export interface CompletionCompanionRow {
   id: string
-  userId: string
   accountPage: string | null
   companionId: string
   completion: CompanionCompletion | null

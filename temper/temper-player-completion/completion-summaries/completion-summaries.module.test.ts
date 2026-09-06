@@ -42,7 +42,6 @@ const QUEST_CATALOG: CompletionCatalogs = {
 function characterRow(completion: CharacterCompletion | null): CompletionCharacterRow {
   return {
     id: "character-one",
-    userId: "user-one",
     esoCharacterId: "eso-character-one",
     completion,
     createdAt: 0,
