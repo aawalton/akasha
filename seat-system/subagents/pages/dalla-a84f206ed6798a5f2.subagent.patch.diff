@@ -128,6 +128,40 @@ index 9743fec73615b778489c1e1740e7c8af86f8e851..48b8da3566e946a692108ebac1e4f2c0
  }
  
  export interface PinDepEntry {
+diff --git a/checks/cluster-checks/modules/dep-version-policy/dep-version-policy.module.ts b/checks/cluster-checks/modules/dep-version-policy/dep-version-policy.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5b0e5bbdc55cc73f8d1d9f5ab0b7c590574e6505
+--- /dev/null
++++ b/checks/cluster-checks/modules/dep-version-policy/dep-version-policy.module.ts
+@@ -0,0 +1,28 @@
++import type { Module } from "@akasha/code/module"
++
++export const depVersionPolicy = {
++  id: "01a077d5-b8e3-77e9-88cd-90aaee3a1970",
++  pageTypeSlug: "module",
++  slug: "dep-version-policy",
++  definition: "the packages every manifest holds to one exact version",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A package named here is held to one version wherever a manifest names that package.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A version carrying a range is no exact version.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An aliased spec is read for the version the spec names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A package no manifest names is passed over.",
++    },
++  ],
++} as const satisfies Module
 diff --git a/package.json b/package.json
 index 0725805936076f1b01b922b0ab2e2a4a19ab58b2..fd7d6b6caee5e0f56fbecf036a1dd09655692433 100644
 --- a/package.json
