@@ -34,3 +34,18 @@ index cf9b59c19d25f37c5379c4115a651d913bd790ad..f766b9d48d08ae3da1d3ca42d11f5ab3
  })
  
  test("a named namespace is refused, and the reason names the line and the namespace", () => {
+diff --git a/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.ts b/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.ts
+index 194329cca20a13165aa1f81edf90d5d42afe316c..87e5d3c64f928b9ee44f91ff0fc2f9255d51a9e1 100644
+--- a/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.ts
++++ b/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.ts
+@@ -20,6 +20,10 @@ export const noEnumOrNamespace = {
+       invariantKind: "absence",
+       statement: "`declare global` is left alone.",
+     },
++    {
++      invariantKind: "absence",
++      statement: "An enum or a namespace a type declaration holds is left out.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "An enum and a namespace are one check.",
