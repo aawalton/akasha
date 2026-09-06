@@ -1,6 +1,5 @@
-runsWarrants: false
 diff --git a/command-system/outside-naming/outside-naming.module.ts b/command-system/outside-naming/outside-naming.module.ts
-index eeea171c97123a76e0e61c0f0a0cc102949d317e..52b665ba17f7c0699e9b3b96030321a7c8b134cb 100644
+index eeea171c97123a76e0e61c0f0a0cc102949d317e..de49ee3230408918ab720217e1e84da27cd9c524 100644
 --- a/command-system/outside-naming/outside-naming.module.ts
 +++ b/command-system/outside-naming/outside-naming.module.ts
 @@ -18,7 +18,7 @@ export const outsideNaming = {
@@ -12,7 +11,18 @@ index eeea171c97123a76e0e61c0f0a0cc102949d317e..52b665ba17f7c0699e9b3b96030321a7
      },
      {
        invariantKind: "departure",
-@@ -54,7 +54,7 @@ export const outsideNaming = {
+@@ -36,9 +36,7 @@ export const outsideNaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A name another name asked after ends with is the only one looked for, since a body " +
+-        "carrying the longer name carries the shorter one too.",
++      statement: "A name another name asked after ends with is the only name looked for.",
+     },
+     {
+       invariantKind: "departure",
+@@ -54,7 +52,7 @@ export const outsideNaming = {
      },
      {
        invariantKind: "departure",
@@ -21,7 +31,7 @@ index eeea171c97123a76e0e61c0f0a0cc102949d317e..52b665ba17f7c0699e9b3b96030321a7
      },
      {
        invariantKind: "departure",
-@@ -67,7 +67,7 @@ export const outsideNaming = {
+@@ -67,7 +65,7 @@ export const outsideNaming = {
      },
      {
        invariantKind: "absence",
@@ -30,7 +40,7 @@ index eeea171c97123a76e0e61c0f0a0cc102949d317e..52b665ba17f7c0699e9b3b96030321a7
      },
      {
        invariantKind: "departure",
-@@ -117,7 +117,7 @@ export const outsideNaming = {
+@@ -117,7 +115,7 @@ export const outsideNaming = {
      {
        invariantKind: "absence",
        statement:
@@ -39,7 +49,7 @@ index eeea171c97123a76e0e61c0f0a0cc102949d317e..52b665ba17f7c0699e9b3b96030321a7
      },
      {
        invariantKind: "departure",
-@@ -134,7 +134,7 @@ export const outsideNaming = {
+@@ -134,7 +132,7 @@ export const outsideNaming = {
      },
      {
        invariantKind: "absence",
