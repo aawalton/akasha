@@ -17,7 +17,7 @@ export const seatPrincipal = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat with neither value answers to no one.",
+      statement: "A seat with neither value answers to nobody.",
     },
     {
       invariantKind: "departure",
