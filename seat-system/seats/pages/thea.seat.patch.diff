@@ -1,3 +1,17 @@
+diff --git a/biome.json b/biome.json
+index 45cbf76e61c120dcce7d741584bafca52665bab5..04fcd42a74ecb8e6fc7d6470bb756e4c4efd1dc0 100644
+--- a/biome.json
++++ b/biome.json
+@@ -24,7 +24,8 @@
+       "!**/*.config.js",
+       "!**/*.config.mjs",
+       "!**/*.config.ts",
+-      "!**/*.generated.ts"
++      "!**/*.generated.ts",
++      "!editor-extension/vscode-api/vscode-api.type-declaration.d.ts"
+     ]
+   },
+   "formatter": {
 diff --git a/code-system/type-declarations/properties/ambient-types.file-property.ts b/code-system/type-declarations/properties/ambient-types.file-property.ts
 index d53ee5424062f6d90beb0f68c0a8a31fc137b86c..da700b7ae0235e4630cd2a1a81e7be0b18673edd 100644
 --- a/code-system/type-declarations/properties/ambient-types.file-property.ts
