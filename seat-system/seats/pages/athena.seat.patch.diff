@@ -236,6 +236,19 @@ index f5c9ec733709e3a8e9fd43fee918cc98d5178364..b9da93a13f30f690746c9a000e74de19
    output.appendLine(
      `[click] ${seat.name}: no terminal here, transcript in column ${column.column} (${column.reason})`
    )
+diff --git a/editor-extension/seat-showing/seat-showing.module.ts b/editor-extension/seat-showing/seat-showing.module.ts
+index 804cc762c00fdc6c6a5697579e637fb1ce19479d..07cab2799a658d6da10c63a04885195995cd6383 100644
+--- a/editor-extension/seat-showing/seat-showing.module.ts
++++ b/editor-extension/seat-showing/seat-showing.module.ts
+@@ -37,7 +37,7 @@ export const seatShowing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A sweep that reads no process rows finds no terminal for any seat.",
++      statement: "A lookup holding no seat finds no terminal for any seat.",
+     },
+     {
+       invariantKind: "absence",
 diff --git a/editor-extension/seat-terminals/seat-terminals.module.code.ts b/editor-extension/seat-terminals/seat-terminals.module.code.ts
 index 11371b42e9347e7283f30eb3adacd582a87b5c4e..9e82eab4fcb6086668c7d24e36c1a29a8050bd2e 100644
 --- a/editor-extension/seat-terminals/seat-terminals.module.code.ts
