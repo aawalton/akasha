@@ -1,5 +1,5 @@
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
-index bf8100a697b850ffe420b0763e21534e841ae263..d07eca9cd73fc8ad5287bdf4d512116bd6ce1191 100644
+index bf8100a697b850ffe420b0763e21534e841ae263..270335f3433e21a6d001d83c2617fc719a98db75 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
 @@ -13,7 +13,7 @@ import { dirname, join } from "node:path"
@@ -42,3 +42,11 @@ index bf8100a697b850ffe420b0763e21534e841ae263..d07eca9cd73fc8ad5287bdf4d512116b
    readonly line: () => string | null
    readonly refresh?: () => Promise<undefined>
    readonly everyMs?: number
+@@ -156,7 +159,6 @@ async function refreshStatusBar(): Promise<undefined> {
+ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
+   const seats = join(root, SEATS_AT)
+   const turnStates = join(root, TURN_STATES_AT)
+-  const index = join(root, INDEX_AT)
+   return new Map<string, Picture>([
+     [
+       "agent-colors",
