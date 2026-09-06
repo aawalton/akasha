@@ -22,11 +22,12 @@ export const addonDataProof = {
     },
     {
       invariantKind: "departure",
-      statement: "A section is driven on its own so that a section that throws hides no other.",
+      statement:
+        "A section is driven on its own so that a section that throws hides no second section.",
     },
     {
       invariantKind: "departure",
-      statement: "Where a section throws, the throw is that section's report.",
+      statement: "The throw a section makes is that section's report.",
     },
     {
       invariantKind: "departure",
