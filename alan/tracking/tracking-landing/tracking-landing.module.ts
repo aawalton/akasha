@@ -18,7 +18,7 @@ export const trackingLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "Every change of one call lands as one commit or none of them lands.",
+      statement: "Every change of a single call lands as a single commit or no change lands.",
     },
     {
       invariantKind: "departure",
