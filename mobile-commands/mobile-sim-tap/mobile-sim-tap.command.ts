@@ -30,7 +30,7 @@ export const mobileSimTap = {
     },
     {
       invariantKind: "departure",
-      statement: "A point is both its across and its down.",
+      statement: "A point is an across and a down.",
     },
     {
       invariantKind: "departure",
