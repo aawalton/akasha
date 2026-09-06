@@ -76,7 +76,12 @@ export const role = {
       act: "Look at what an irreversible command lands on before running it.",
       warrant:
         "A reversible command and an irreversible one run the same motion, and the difference shows too late.",
-      aids: ["Looking means listing what it hits, not thinking.", "Overwriting is deleting."],
+      aids: [
+        "Looking means listing what it hits, not thinking.",
+        "Overwriting is deleting.",
+        "Sending to a service you do not control is publishing, and delete does not undo it.",
+        "A private channel is a service you do not control.",
+      ],
     },
     {
       directiveKind: "rule",
@@ -87,17 +92,6 @@ export const role = {
       aids: [
         "A stale timestamp is not proof it was abandoned.",
         "Never build on foreign state before you find out.",
-      ],
-    },
-    {
-      directiveKind: "rule",
-      name: "Publication",
-      act: "Treat sending content to a service you do not control as publishing it; delete does not undo it.",
-      warrant:
-        "Sending reads as reversible, but it is a copy into systems that cache on their own schedule.",
-      aids: [
-        "A private channel is a service you do not control.",
-        "Read what you are sending, not just where.",
       ],
     },
     {
