@@ -1,0 +1,350 @@
+runsWarrants: false
+diff --git a/context/warrants/context-warrant.page-type.ts b/context/warrants/context-warrant.page-type.ts
+index 229c4979c52caef9abce2736aa8a03089bd114e3..da8d1db1763e3f83aefb1aef4db41954af844238 100644
+--- a/context/warrants/context-warrant.page-type.ts
++++ b/context/warrants/context-warrant.page-type.ts
+@@ -34,7 +34,7 @@ export const contextWarrant = {
+     "context-warrant/initiative-ancestors",
+     "context-warrant/person-itself",
+     "context-warrant/persona-itself",
+-    "context-warrant/persona-page-type",
++    "context-warrant/seat-persona",
+     "context-warrant/role-itself",
+     "context-warrant/agent-akasha",
+     "context-warrant/agent-role",
+diff --git a/context/warrants/persona-page-type/persona-page-type.context-warrant.code.ts b/context/warrants/persona-page-type/persona-page-type.context-warrant.code.ts
+deleted file mode 100644
+index c86f1a05276f0b46bacfe15a9b38fef597993f45..0000000000000000000000000000000000000000
+--- a/context/warrants/persona-page-type/persona-page-type.context-warrant.code.ts
++++ /dev/null
+@@ -1,19 +0,0 @@
+-import { listedAt } from "@akasha/indexes"
+-import { slugStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
+-import type { Knowing, Warrant } from "../../modules/warranting/warranting.module.code.ts"
+-import { filePageType } from "../file-page-type/file-page-type.context-warrant.code.ts"
+-
+-export const PERSONA_TYPE =
+-  "A seat works as the persona it states, and what every persona is held to is read before the seat is changed."
+-
+-const PERSONA = "persona"
+-
+-const KEY = "personaSlug"
+-
+-export function personaPageType(root: string, path: string, knowing: Knowing): readonly Warrant[] {
+-  const slug = slugStated(root, path, KEY)
+-  if (slug === null) return []
+-  const listed = listedAt(root, PERSONA, slug)[0]
+-  if (listed === undefined) return []
+-  return filePageType(root, listed.path, knowing).map((one) => ({ ...one, owed: PERSONA_TYPE }))
+-}
+diff --git a/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts b/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts
+deleted file mode 100644
+index 1d49b6347797f51c27d01c6833dde9f009e32230..0000000000000000000000000000000000000000
+--- a/context/warrants/persona-page-type/persona-page-type.context-warrant.test.ts
++++ /dev/null
+@@ -1,96 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import { rmSync } from "node:fs"
+-import { join } from "node:path"
+-import { recordRead } from "@akasha/command-system/reading"
+-import { scratchWorld } from "@akasha/command-system/scratching"
+-import { writing } from "@akasha/command-system/scratching/testing"
+-import {
+-  knowingIn,
+-  unreadIn,
+-  type Warrant,
+-} from "../../modules/warranting/warranting.module.code.ts"
+-import {
+-  pageTypeListed,
+-  pathsOf,
+-  personaListed,
+-  seatListed,
+-  warrantsSeeded,
+-} from "../../modules/warranting/warranting.module.test-fixtures.ts"
+-import { PERSONA_TYPE, personaPageType } from "./persona-page-type.context-warrant.code.ts"
+-
+-const scratch = scratchWorld()
+-
+-afterAll(scratch.sweep)
+-
+-const AGENT = "01a0596c-0000-7000-8000-000000000004"
+-
+-function typeWorld(root: string): readonly string[] {
+-  const page = pageTypeListed(root, "page", [])
+-  const persona = pageTypeListed(root, "persona", ["page"])
+-  return [persona, page]
+-}
+-
+-function warrantsAt(root: string, path: string): readonly Warrant[] {
+-  return personaPageType(root, path, knowingIn(root))
+-}
+-
+-test("a seat warrants the type of the persona it states, and every type that one extends", () => {
+-  const root = scratch.rootFor("akasha-persona-page-type-")
+-  const chain = typeWorld(root)
+-  personaListed(root, "akasha")
+-  const at = seatListed(root, "one", `personaSlug: "akasha"`)
+-  expect(pathsOf(warrantsAt(root, at))).toEqual(chain)
+-})
+-
+-test("a warrant says the seat is what owes the type", () => {
+-  const root = scratch.rootFor("akasha-persona-page-type-")
+-  typeWorld(root)
+-  personaListed(root, "akasha")
+-  const at = seatListed(root, "one", `personaSlug: "akasha"`)
+-  expect(warrantsAt(root, at)[0]?.owed).toBe(PERSONA_TYPE)
+-})
+-
+-test("a seat stating no persona warrants no type", () => {
+-  const root = scratch.rootFor("akasha-persona-page-type-")
+-  typeWorld(root)
+-  personaListed(root, "akasha")
+-  const at = seatListed(root, "one", `roleSlug: "definer"`)
+-  expect(pathsOf(warrantsAt(root, at))).toEqual([])
+-})
+-
+-test("a persona whose page cannot be found warrants no type", () => {
+-  const root = scratch.rootFor("akasha-persona-page-type-")
+-  typeWorld(root)
+-  personaListed(root, "akasha")
+-  const at = seatListed(root, "one", `personaSlug: "ghost"`)
+-  expect(pathsOf(warrantsAt(root, at))).toEqual([])
+-})
+-
+-test("only a seat warrants the type of a persona", () => {
+-  const root = scratch.rootFor("akasha-persona-page-type-")
+-  typeWorld(root)
+-  const at = personaListed(root, "akasha").path
+-  expect(pathsOf(warrantsAt(root, at))).toEqual([])
+-})
+-
+-test("a type whose page is not there warrants nothing of itself", () => {
+-  const root = scratch.rootFor("akasha-persona-page-type-")
+-  const chain = typeWorld(root)
+-  personaListed(root, "akasha")
+-  const at = seatListed(root, "one", `personaSlug: "akasha"`)
+-  rmSync(join(root, chain[0] ?? ""))
+-  expect(pathsOf(warrantsAt(root, at))).toEqual([])
+-})
+-
+-test("a type not read is refused, and the refusal says the seat owes it", () => {
+-  const root = scratch.rootFor("akasha-persona-page-type-")
+-  warrantsSeeded(root, ["persona-page-type"])
+-  const chain = typeWorld(root)
+-  personaListed(root, "akasha")
+-  const at = seatListed(root, "one", `personaSlug: "akasha"`)
+-  const oid = writing(root, at, `export const one = { personaSlug: "akasha" }\n`)
+-  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
+-  const said = unreadIn(root, AGENT, [at])
+-  expect(said.length).toBe(chain.length)
+-  expect(said[0]).toContain(PERSONA_TYPE)
+-})
+diff --git a/context/warrants/persona-page-type/persona-page-type.context-warrant.ts b/context/warrants/persona-page-type/persona-page-type.context-warrant.ts
+deleted file mode 100644
+index 344a2844d82f80f9081603b138fd8464719c0fa2..0000000000000000000000000000000000000000
+--- a/context/warrants/persona-page-type/persona-page-type.context-warrant.ts
++++ /dev/null
+@@ -1,35 +0,0 @@
+-import type { ContextWarrant } from "../context-warrant.page-type.ts"
+-
+-export const personaPageType = {
+-  id: "01a0582e-2829-7ac3-97b6-30591b0cdbde",
+-  pageTypeSlug: "context-warrant",
+-  slug: "persona-page-type",
+-  definition: "what a seat must read for the type of the persona it states",
+-  code: "ts",
+-  test: "ts",
+-  runsOnRead: true,
+-  runsOnWrite: true,
+-  transitive: false,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat warrants the type of the persona the seat states.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A seat warrants no type that the persona's type extends.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The readings a page owes its type are one rule wherever the rule is asked.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat stating no persona warrants no type.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A persona whose page cannot be found warrants no type.",
+-    },
+-  ],
+-} as const satisfies ContextWarrant
+diff --git a/context/warrants/seat-persona/seat-persona.context-warrant.code.ts b/context/warrants/seat-persona/seat-persona.context-warrant.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c807253a4dc07272a154cf2a3bbc57817e910157
+--- /dev/null
++++ b/context/warrants/seat-persona/seat-persona.context-warrant.code.ts
+@@ -0,0 +1,19 @@
++import { listedAt } from "@akasha/indexes"
++import { slugStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
++import type { Knowing, Warrant } from "../../modules/warranting/warranting.module.code.ts"
++import { filePageType } from "../file-page-type/file-page-type.context-warrant.code.ts"
++
++export const PERSONA_TYPE =
++  "A seat works as the persona it states, and what every persona is held to is read before the seat is changed."
++
++const PERSONA = "persona"
++
++const KEY = "personaSlug"
++
++export function seatPersona(root: string, path: string, knowing: Knowing): readonly Warrant[] {
++  const slug = slugStated(root, path, KEY)
++  if (slug === null) return []
++  const listed = listedAt(root, PERSONA, slug)[0]
++  if (listed === undefined) return []
++  return filePageType(root, listed.path, knowing).map((one) => ({ ...one, owed: PERSONA_TYPE }))
++}
+diff --git a/context/warrants/seat-persona/seat-persona.context-warrant.test.ts b/context/warrants/seat-persona/seat-persona.context-warrant.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..95043310456b62667d6ebec45c7fdae832b4a82e
+--- /dev/null
++++ b/context/warrants/seat-persona/seat-persona.context-warrant.test.ts
+@@ -0,0 +1,96 @@
++import { afterAll, expect, test } from "bun:test"
++import { rmSync } from "node:fs"
++import { join } from "node:path"
++import { recordRead } from "@akasha/command-system/reading"
++import { scratchWorld } from "@akasha/command-system/scratching"
++import { writing } from "@akasha/command-system/scratching/testing"
++import {
++  knowingIn,
++  unreadIn,
++  type Warrant,
++} from "../../modules/warranting/warranting.module.code.ts"
++import {
++  pageTypeListed,
++  pathsOf,
++  personaListed,
++  seatListed,
++  warrantsSeeded,
++} from "../../modules/warranting/warranting.module.test-fixtures.ts"
++import { PERSONA_TYPE, seatPersona } from "./seat-persona.context-warrant.code.ts"
++
++const scratch = scratchWorld()
++
++afterAll(scratch.sweep)
++
++const AGENT = "01a0596c-0000-7000-8000-000000000004"
++
++function typeWorld(root: string): readonly string[] {
++  const page = pageTypeListed(root, "page", [])
++  const persona = pageTypeListed(root, "persona", ["page"])
++  return [persona, page]
++}
++
++function warrantsAt(root: string, path: string): readonly Warrant[] {
++  return seatPersona(root, path, knowingIn(root))
++}
++
++test("a seat warrants the type of the persona it states, and every type that one extends", () => {
++  const root = scratch.rootFor("akasha-persona-page-type-")
++  const chain = typeWorld(root)
++  personaListed(root, "akasha")
++  const at = seatListed(root, "one", `personaSlug: "akasha"`)
++  expect(pathsOf(warrantsAt(root, at))).toEqual(chain)
++})
++
++test("a warrant says the seat is what owes the type", () => {
++  const root = scratch.rootFor("akasha-persona-page-type-")
++  typeWorld(root)
++  personaListed(root, "akasha")
++  const at = seatListed(root, "one", `personaSlug: "akasha"`)
++  expect(warrantsAt(root, at)[0]?.owed).toBe(PERSONA_TYPE)
++})
++
++test("a seat stating no persona warrants no type", () => {
++  const root = scratch.rootFor("akasha-persona-page-type-")
++  typeWorld(root)
++  personaListed(root, "akasha")
++  const at = seatListed(root, "one", `roleSlug: "definer"`)
++  expect(pathsOf(warrantsAt(root, at))).toEqual([])
++})
++
++test("a persona whose page cannot be found warrants no type", () => {
++  const root = scratch.rootFor("akasha-persona-page-type-")
++  typeWorld(root)
++  personaListed(root, "akasha")
++  const at = seatListed(root, "one", `personaSlug: "ghost"`)
++  expect(pathsOf(warrantsAt(root, at))).toEqual([])
++})
++
++test("only a seat warrants the type of a persona", () => {
++  const root = scratch.rootFor("akasha-persona-page-type-")
++  typeWorld(root)
++  const at = personaListed(root, "akasha").path
++  expect(pathsOf(warrantsAt(root, at))).toEqual([])
++})
++
++test("a type whose page is not there warrants nothing of itself", () => {
++  const root = scratch.rootFor("akasha-persona-page-type-")
++  const chain = typeWorld(root)
++  personaListed(root, "akasha")
++  const at = seatListed(root, "one", `personaSlug: "akasha"`)
++  rmSync(join(root, chain[0] ?? ""))
++  expect(pathsOf(warrantsAt(root, at))).toEqual([])
++})
++
++test("a type not read is refused, and the refusal says the seat owes it", () => {
++  const root = scratch.rootFor("akasha-persona-page-type-")
++  warrantsSeeded(root, ["persona-page-type"])
++  const chain = typeWorld(root)
++  personaListed(root, "akasha")
++  const at = seatListed(root, "one", `personaSlug: "akasha"`)
++  const oid = writing(root, at, `export const one = { personaSlug: "akasha" }\n`)
++  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
++  const said = unreadIn(root, AGENT, [at])
++  expect(said.length).toBe(chain.length)
++  expect(said[0]).toContain(PERSONA_TYPE)
++})
+diff --git a/context/warrants/seat-persona/seat-persona.context-warrant.ts b/context/warrants/seat-persona/seat-persona.context-warrant.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..943f27f9bb123ca5cb0ea5894df53083813a2c0e
+--- /dev/null
++++ b/context/warrants/seat-persona/seat-persona.context-warrant.ts
+@@ -0,0 +1,35 @@
++import type { ContextWarrant } from "../context-warrant.page-type.ts"
++
++export const seatPersona = {
++  id: "01a0582e-2829-7ac3-97b6-30591b0cdbde",
++  pageTypeSlug: "context-warrant",
++  slug: "seat-persona",
++  definition: "what a seat must read for the type of the persona it states",
++  code: "ts",
++  test: "ts",
++  runsOnRead: true,
++  runsOnWrite: true,
++  transitive: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A seat warrants the type of the persona the seat states.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A seat warrants no type that the persona's type extends.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The readings a page owes its type are one rule wherever the rule is asked.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat stating no persona warrants no type.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A persona whose page cannot be found warrants no type.",
++    },
++  ],
++} as const satisfies ContextWarrant
