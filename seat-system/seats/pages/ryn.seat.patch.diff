@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
+index ca9fdd0483d1c17f19dbb7659f5a54fc3a57067e..992cd9b7b7c1b9c96f70f496969b4d707d559859 100644
+--- a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
++++ b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
+@@ -76,7 +76,7 @@ export const noRuleInTwoFiles = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A rule in two files during a move from one file to the other is a landing partway.",
++        "A rule in two files during a move from the first file to the second is a landing partway.",
+     },
+   ],
+ } as const satisfies CodeCheck
