@@ -8,6 +8,7 @@ import {
   batchedIn,
   endedFor,
   escapedFor,
+  lookedFor,
   namedTracked,
   reachedTracked,
   respeltNames,
@@ -114,6 +115,33 @@ test("a character a pattern would read as a pattern is looked for as that charac
   const root = world({ "tools/lib/reaches.ts": `export const at = "../oneXtwo/held.ts"\n` })
   const found = reachedTracked(root, baseOf(root), ["one.two"])
   expect("paths" in found ? found.paths : ["it refused"]).toEqual([])
+})
+
+test("a character a pattern would read as a pattern is looked for as that character by name", () => {
+  const root = world({
+    "tools/lib/carries.ts": `export const at = "akasha/oneXtwo/held.ts"\n`,
+    "tools/lib/spells.ts": `export const at = "akasha/one.two/held.ts"\n`,
+  })
+  const found = namedTracked(root, baseOf(root), ["akasha/one.two"])
+  expect("paths" in found ? found.paths : ["it refused"]).toEqual(["tools/lib/spells.ts"])
+})
+
+test("a name another name asked after ends with is the only one looked for", () => {
+  expect(lookedFor(["akasha/one/two/held.ts", "one/two/held.ts", "two/held.ts"])).toEqual([
+    "two/held.ts",
+  ])
+  expect(lookedFor(["akasha/one/held.ts", "akasha/two/held.ts"])).toEqual([
+    "akasha/one/held.ts",
+    "akasha/two/held.ts",
+  ])
+  expect(lookedFor(["one"])).toEqual(["one"])
+})
+
+test("a name shortened away is still found by the shorter name standing for it", () => {
+  const root = world({ "tools/lib/carries.ts": `export const at = "one/two/held.ts"\n` })
+  const named = ["akasha/one/two/held.ts", "one/two/held.ts", "two/held.ts"]
+  const found = namedTracked(root, baseOf(root), named)
+  expect("paths" in found ? found.paths : ["it refused"]).toEqual(["tools/lib/carries.ts"])
 })
 
 test("more names than one command line carries are asked for over more calls", () => {

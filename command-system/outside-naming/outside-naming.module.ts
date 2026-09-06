@@ -22,6 +22,16 @@ export const outsideNaming = {
     },
     {
       invariantKind: "departure",
+      statement: "The names one call asks after share one pattern.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A name another name asked after ends with is the only one looked for, since a body " +
+        "carrying the longer name carries the shorter one too.",
+    },
+    {
+      invariantKind: "departure",
       statement: "More names than one command line carries are asked for over more calls.",
     },
     {

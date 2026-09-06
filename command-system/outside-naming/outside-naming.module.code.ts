@@ -19,9 +19,9 @@ const AT_MOST = 60000
 
 const REACHED_AT_MOST = 20000
 
-const AS_WRITTEN = "-F"
-
 const AS_PATTERN = "-E"
+
+const EITHER = "|"
 
 export type Placed = {
   readonly at: number
@@ -94,7 +94,7 @@ export function escapedFor(one: string): string {
 }
 
 export function reachesFor(parts: readonly string[]): readonly string[] {
-  const held = parts.map(escapedFor).join("|")
+  const held = parts.map(escapedFor).join(EITHER)
   return [`${PARTED_BY}(${held})($|${APART})`, `(^|${APART})(${held})${PARTED_BY}`]
 }
 
@@ -122,12 +122,27 @@ export function batchedIn(
   return batches
 }
 
-function foundBy(root: string, base: string, how: string, said: readonly string[]): Found {
+/** The shortest names asked after, which every longer name asked after ends with. */
+export function lookedFor(named: readonly string[]): readonly string[] {
+  const held = new Set(named)
+  const found: string[] = []
+  for (const one of named) {
+    const parts = one.split(PARTED_BY)
+    let shorter = false
+    for (let at = 1; at < parts.length && !shorter; at = at + 1) {
+      shorter = held.has(parts.slice(at).join(PARTED_BY))
+    }
+    if (!shorter) found.push(one)
+  }
+  return found
+}
+
+function foundBy(root: string, base: string, said: readonly string[]): Found {
   const paths: string[] = []
   const held = `${base}:`
   for (const batch of batchedIn(said)) {
-    const asked = batch.flatMap((one) => ["-e", one])
-    const done = ran(argvFor(root, ["grep", "-l", "-I", "-z", how, ...asked, base, "--"]))
+    const asked = batch.join(EITHER)
+    const done = ran(argvFor(root, ["grep", "-l", "-I", "-z", AS_PATTERN, "-e", asked, base, "--"]))
     if (done.code === FOUND_NOTHING) continue
     if (done.code !== 0) {
       return {
@@ -145,14 +160,14 @@ function foundBy(root: string, base: string, how: string, said: readonly string[
 
 export function namedTracked(root: string, base: string, named: readonly string[]): Found {
   if (named.length === 0) return { paths: [] }
-  return foundBy(root, base, AS_WRITTEN, named)
+  return foundBy(root, base, lookedFor(named).map(escapedFor))
 }
 
 export function reachedTracked(root: string, base: string, parts: readonly string[]): Found {
   if (parts.length === 0) return { paths: [] }
   const paths: string[] = []
   for (const batch of batchedIn(parts, REACHED_AT_MOST)) {
-    const found = foundBy(root, base, AS_PATTERN, reachesFor(batch))
+    const found = foundBy(root, base, reachesFor(batch))
     if ("refusal" in found) return found
     paths.push(...found.paths)
   }
@@ -161,7 +176,7 @@ export function reachedTracked(root: string, base: string, parts: readonly strin
 
 export function spelledTracked(root: string, base: string, spelled: readonly string[]): Found {
   if (spelled.length === 0) return { paths: [] }
-  return foundBy(root, base, AS_PATTERN, spelled.map(endedFor))
+  return foundBy(root, base, spelled.map(endedFor))
 }
 
 export function spelledRespelt(
