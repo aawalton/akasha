@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-taught-the-distress-reflex.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-taught-the-distress-reflex.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..444b0a7140a00141f8dd48ec5e10703fbe7b0b19
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-taught-the-distress-reflex.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTaughtTheDistressReflex = {
++  id: "01a077ed-f629-7511-83dd-98a1359c2948",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-taught-the-distress-reflex",
++  topicSlug: "why-someone-elses-distress-alarms-me",
++  ask: "The reflex was in place by six and nothing about the training is recoverable. Could family accounts or the shape of the schedule recover what taught the reflex?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-any-evidence-updates-the-reflex.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-any-evidence-updates-the-reflex.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5c48c361cdd4b6ba9f08da723dc0c69208943f31
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-any-evidence-updates-the-reflex.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAnyEvidenceUpdatesTheReflex = {
++  id: "01a077ed-f62a-7212-a09e-32ac977c84ef",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-any-evidence-updates-the-reflex",
++  topicSlug: "why-someone-elses-distress-alarms-me",
++  ask: "The reflex was taught unreliably, so a safe stretch looks like more of the same training. Does any evidence update the reflex, or can only the scripts downstream be worked?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/why-someone-elses-distress-alarms-me.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/why-someone-elses-distress-alarms-me.all-about-alan-topic.ts
+index c02933a963afc760a7a4c980fa1bb78793a6f023..178b5278303394e33bd57b2f9bc5b8d24f7d4a4b 100644
+--- a/alan/books/all-about-alan/topics/pages/why-someone-elses-distress-alarms-me.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/why-someone-elses-distress-alarms-me.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whySomeoneElsesDistressAlarmsMe = {
+   relatedSlugs: ["what-criticism-does-to-me", "which-lever-reaches-a-response"],
+   settled:
+     "Her distress fires mine at once, and it is not her feeling arriving in me.\n\nIt is a forecast about my own next minutes: this cue has come before my own pain often enough.\n\nSo I go still and regulate rather than move toward her, which is not what she needs.\n\nIt carries nothing about her. No why, no cause, no what would help.\n\nCalm months lower what I expect from her and leave the reflex at her cues untouched.",
+-  unsettled:
+-    "It was in place by six and nothing about the training is recoverable. Whether family accounts or the shape of the schedule could recover what taught it is untried.\n\nIt was taught unreliably, so safe stretches look like more of the same training. Whether any evidence updates the reflex, or only the scripts downstream of it can be worked, is open.",
+ } as const satisfies AllAboutAlanTopic
