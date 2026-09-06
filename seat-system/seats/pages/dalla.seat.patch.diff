@@ -1,5 +1,143 @@
 writerOwesReading: false
 readersOweReading: false
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index a805af75892a6939ab52904987002b56fa2add47..244e95ad5964ccc0635edf7557ad0f293718d645 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -24,6 +24,7 @@ export const change = {
+   partSlugs: [
+     "page-type/change-partial",
+     "page-type/change-command",
++    "page-type/change-checked",
+     "page-type/change-runner",
+     "page-type/workflow-template",
+     "page-type/change-kind",
+diff --git a/changes/checked/change-checked.page-type.ts b/changes/checked/change-checked.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7ad9d35a077981bb659cb09fd7a132187bda92d8
+--- /dev/null
++++ b/changes/checked/change-checked.page-type.ts
+@@ -0,0 +1,25 @@
++import type { PageType } from "../../pages/types/page-type.page-type.ts"
++import type { Change } from "../change.page-type.ts"
++
++export type ChangeChecked = Change & {
++  runsChecks: true
++  readersOweReading: false
++  writerOwesReading: false
++}
++
++export const changeChecked = {
++  id: "01a078e2-5ff6-7000-97f7-499db10ecaee",
++  pageTypeSlug: "page-type",
++  slug: "change-checked",
++  definition: "a change a program composed and the checks judge",
++  pluralSlug: "change-checked",
++  extendsSlug: ["page-type/change"],
++  partSlugs: ["change-checked/change-page-page-type"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A checked change derives every byte the change writes from a body already standing on disk.",
++    },
++  ],
++} as const satisfies PageType
+diff --git a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts
+index b6aeea1aa3625231ebcc724630e09d44fabecbf0..9661bd8a156d8f2689ae9432f369dfb988bcfd26 100644
+--- a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts
++++ b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts
+@@ -1,4 +1,4 @@
+-import type { ChangeChecked } from "../../../kinds/checked/change-checked.change-kind.ts"
++import type { ChangeChecked } from "../../change-checked.page-type.ts"
+ 
+ export const changePagePageType = {
+   id: "01a07883-67ee-73cd-8370-4730fab7c87c",
+diff --git a/changes/kinds/authored/change-authored.change-kind.ts b/changes/kinds/authored/change-authored.change-kind.ts
+index 85ae9dba2664eede26834bd99542836087d6d17c..63f8df7ddcbe9f78a2628d07429a4e493c935c48 100644
+--- a/changes/kinds/authored/change-authored.change-kind.ts
++++ b/changes/kinds/authored/change-authored.change-kind.ts
+@@ -13,7 +13,6 @@ export const changeAuthored = {
+   slug: "change-authored",
+   definition: "a change composed by an agent",
+   pluralSlug: "change-authored",
+-  extendsSlug: ["page-type/change"],
+   runsChecks: true,
+   writerOwesReading: true,
+   readersOweReading: true,
+diff --git a/changes/kinds/change-kind.page-type.ts b/changes/kinds/change-kind.page-type.ts
+index 6b98a1af3567bafffb69fd77dca92bd611948517..b1f5a4e679ba44009611aa3625791e48f70acac3 100644
+--- a/changes/kinds/change-kind.page-type.ts
++++ b/changes/kinds/change-kind.page-type.ts
+@@ -1,9 +1,10 @@
++import type { Domain } from "../../domains/domain.page-type.ts"
+ import type { PageType } from "../../pages/types/page-type.page-type.ts"
+ import type { ReadersOweReading } from "./properties/readers-owe-reading.boolean-property.ts"
+ import type { RunsChecks } from "./properties/runs-checks.boolean-property.ts"
+ import type { WriterOwesReading } from "./properties/writer-owes-reading.boolean-property.ts"
+ 
+-export type ChangeKind = PageType & {
++export type ChangeKind = Domain & {
+   runsChecks: RunsChecks
+   writerOwesReading: WriterOwesReading
+   readersOweReading: ReadersOweReading
+@@ -25,7 +26,7 @@ export const changeKind = {
+     "boolean-property/runs-checks",
+     "boolean-property/writer-owes-reading",
+   ],
+-  extendsSlug: ["page-type/page-type"],
++  extendsSlug: ["page-type/domain"],
+   properties: [
+     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
+     { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
+diff --git a/changes/kinds/checked/change-checked.change-kind.ts b/changes/kinds/checked/change-checked.change-kind.ts
+index 7c527bdc95d0fae56d6476abf3c033c3a36064eb..900f6e38ac59d7b4d24ed6e9ccdbb247c4302cce 100644
+--- a/changes/kinds/checked/change-checked.change-kind.ts
++++ b/changes/kinds/checked/change-checked.change-kind.ts
+@@ -13,7 +13,6 @@ export const changeChecked = {
+   slug: "change-checked",
+   definition: "a change a program composed and the checks judge",
+   pluralSlug: "change-checked",
+-  extendsSlug: ["page-type/change"],
+   runsChecks: true,
+   writerOwesReading: false,
+   readersOweReading: false,
+diff --git a/changes/kinds/mechanical/change-mechanical.change-kind.ts b/changes/kinds/mechanical/change-mechanical.change-kind.ts
+index b6258a96b058cea2372eb22afa2da5c092629bd0..e53fa1b5004318b4772e0a9b03d7c8391eadce2e 100644
+--- a/changes/kinds/mechanical/change-mechanical.change-kind.ts
++++ b/changes/kinds/mechanical/change-mechanical.change-kind.ts
+@@ -13,7 +13,6 @@ export const changeMechanical = {
+   slug: "change-mechanical",
+   definition: "a change composed by a program",
+   pluralSlug: "change-mechanical",
+-  extendsSlug: ["page-type/change"],
+   runsChecks: false,
+   writerOwesReading: false,
+   readersOweReading: false,
+diff --git a/changes/kinds/none/change-none.change-kind.ts b/changes/kinds/none/change-none.change-kind.ts
+index d783ac67127fdf497b44ac9e81862d0587852be0..d13e9848f9c73e83cf75ece061b656a04e7fdde8 100644
+--- a/changes/kinds/none/change-none.change-kind.ts
++++ b/changes/kinds/none/change-none.change-kind.ts
+@@ -13,7 +13,6 @@ export const changeNone = {
+   slug: "change-none",
+   definition: "an act that edits nothing",
+   pluralSlug: "change-none",
+-  extendsSlug: ["page-type/change"],
+   runsChecks: false,
+   writerOwesReading: false,
+   readersOweReading: false,
+diff --git a/changes/kinds/restated/change-restated.change-kind.ts b/changes/kinds/restated/change-restated.change-kind.ts
+index fa1e51c034c00ad71f5c41e38066f3bd08d1d224..7813dd81ddcf3aa3e5574798731b97ca392e8fe4 100644
+--- a/changes/kinds/restated/change-restated.change-kind.ts
++++ b/changes/kinds/restated/change-restated.change-kind.ts
+@@ -13,7 +13,6 @@ export const changeRestated = {
+   slug: "change-restated",
+   definition: "a change saying what a page already said in other words",
+   pluralSlug: "change-restated",
+-  extendsSlug: ["page-type/change"],
+   runsChecks: true,
+   writerOwesReading: true,
+   readersOweReading: false,
 diff --git a/pages/types/page-type.page-type.ts b/pages/types/page-type.page-type.ts
 index 60af624bc0e37aeec2df0b560e6766e20ca48279..0141d14d4ca28e905cf639e3836bac6e9a91f281 100644
 --- a/pages/types/page-type.page-type.ts
