@@ -203,8 +203,20 @@ export const codeEditor = {
       statement: "The editor is one clone.",
     },
     {
-      invariantKind: "gap",
-      statement: "Every row in the work panel is an initiative.",
+      invariantKind: "departure",
+      statement: "A row in the work panel is an initiative or an intent that initiative holds.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An initiative's intents are drawn beneath that initiative.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An intent is drawn in the place its initiative states rather than sorted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An intent opens the page of the initiative holding it.",
     },
     {
       invariantKind: "gap",
