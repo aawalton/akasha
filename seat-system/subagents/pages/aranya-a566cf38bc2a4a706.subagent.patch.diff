@@ -1,0 +1,14 @@
+diff --git a/service-system/secrets/pages/alertmanager-config-alertmanager-yml.secret.ts b/service-system/secrets/pages/alertmanager-config-alertmanager-yml.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..709630c8f95f04f9d6502d9083e87b1848865921
+--- /dev/null
++++ b/service-system/secrets/pages/alertmanager-config-alertmanager-yml.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const alertmanagerConfigAlertmanagerYml = {
++  id: "01a07698-1a84-7190-b819-d6594a3ca5a0",
++  pageTypeSlug: "secret",
++  slug: "alertmanager-config-alertmanager-yml",
++  placements: [{ resourceName: "alertmanager-config", resourceKey: "alertmanager.yml" }],
++} as const satisfies Secret
