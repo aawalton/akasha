@@ -1,3 +1,16 @@
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts
+index 8a4bd69795ba5972476bb881f48f3becde77f862..ab02425f10786d07f3e8062ae8c8fe44ae4e305f 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-page-type-with-its-parts/a-page-type-with-its-parts.folder-shape.code.ts
+@@ -7,7 +7,7 @@ const PAGE_TYPE = "page-type"
+ 
+ const PACKAGE = "workspace-package"
+ 
+-const HELD = new Set<string>(["modules", "pages", "properties", "scripts"])
++const HELD = new Set<string>(["modules", "pages", "properties", "scripts", "workstation-services"])
+ 
+ function packageIn(standing: Standing): Held | null {
+   if (standing.pages.length !== 2) return null
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.code.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/a-workstation-service-with-its-parts/a-workstation-service-with-its-parts.folder-shape.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..c169aa2eb2837367ff2c5368294827af0803b5c3
