@@ -28,7 +28,7 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "The index read is the one the change leaves.",
+      statement: "The index read is the index the change leaves.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const typecheck = {
     {
       invariantKind: "departure",
       statement:
-        "An index that is not there is refused rather than read as one naming no importer.",
+        "An index that is not there is refused rather than read as an index naming no importer.",
     },
     {
       invariantKind: "absence",
@@ -50,7 +50,8 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
-      statement: "A file under a routes folder importing none of them is judged like any other.",
+      statement:
+        "A file under a routes folder importing no generated route types is judged like any other file.",
     },
     {
       invariantKind: "constraint",
@@ -149,7 +150,7 @@ export const typecheck = {
     {
       invariantKind: "departure",
       statement:
-        "A specifier is resolved through the manifest the change leaves rather than the one the disk holds.",
+        "A specifier is resolved through the manifest the change leaves rather than the manifest on disk.",
     },
     {
       invariantKind: "departure",
@@ -158,7 +159,7 @@ export const typecheck = {
     {
       invariantKind: "departure",
       statement:
-        "A way in is read from the manifest before the change and from the one after that change.",
+        "A way in is read from the manifest before the change and from the manifest after that change.",
     },
     {
       invariantKind: "departure",
