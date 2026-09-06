@@ -22,5 +22,14 @@ export const supervisorArgs = {
       statement:
         "A resume with a prompt is driven by the prompt rather than by the inbound messages.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A re-exec line carries the mode flag the line it was built from carried.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The headless flag is taken from where the modes are spelled rather than spelled here.",
+    },
   ],
 } as const satisfies Module

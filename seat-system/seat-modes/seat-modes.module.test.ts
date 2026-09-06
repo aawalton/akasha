@@ -1,7 +1,9 @@
 import { expect, test } from "bun:test"
 import {
+  HEADLESS_FLAG,
   isSeatMode,
   rowLaunchOf,
+  runningModeIn,
   SEAT_MODE_HEADLESS,
   SEAT_MODE_INTERACTIVE,
   SEAT_MODES,
@@ -38,4 +40,21 @@ test("a launch naming neither answers no mode", () => {
   expect(startModeOfRowLaunch(null)).toBeNull()
   expect(startModeOfRowLaunch("")).toBeNull()
   expect(startModeOfRowLaunch("headless")).toBeNull()
+})
+
+test("a command line carrying the flag is running headless", () => {
+  expect(runningModeIn([HEADLESS_FLAG, "-a", "aawalton"])).toBe(SEAT_MODE_HEADLESS)
+  expect(runningModeIn(["-a", "aawalton", HEADLESS_FLAG])).toBe(SEAT_MODE_HEADLESS)
+})
+
+test("a command line carrying no flag is running interactive", () => {
+  expect(runningModeIn([])).toBe(SEAT_MODE_INTERACTIVE)
+  expect(runningModeIn(["-a", "aawalton", "--agent-id", "one", "--resume"])).toBe(
+    SEAT_MODE_INTERACTIVE
+  )
+})
+
+test("a word merely holding the flag is not the flag", () => {
+  expect(runningModeIn(["--headlessly"])).toBe(SEAT_MODE_INTERACTIVE)
+  expect(runningModeIn(["run --headless now"])).toBe(SEAT_MODE_INTERACTIVE)
 })

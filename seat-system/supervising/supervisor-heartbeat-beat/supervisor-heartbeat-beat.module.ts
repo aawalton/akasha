@@ -47,6 +47,15 @@ export const supervisorHeartbeatBeat = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "The mode a supervisor is running in is written beside the seat with that supervisor's process key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That mode is read off this supervisor's own command line.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The beat module is reached beside this one rather than by a path from the root.",
     },
     {

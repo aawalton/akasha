@@ -1,4 +1,5 @@
 import type { SeatResumeDriver } from "@akasha/seat-system/seat-resume-driver"
+import { HEADLESS_FLAG } from "../../seat-modes/seat-modes.module.code.ts"
 
 export type { SeatResumeDriver }
 
@@ -51,7 +52,7 @@ export function parseArgs(argv: readonly string[]): ParsedArgs {
     if (head === "-r" || head === "--resume") {
       resume = true
       args.shift()
-    } else if (head === "--headless") {
+    } else if (head === HEADLESS_FLAG) {
       headless = true
       args.shift()
     } else if (head === "-a" || head === "--account") {

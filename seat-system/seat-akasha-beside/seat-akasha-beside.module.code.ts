@@ -17,6 +17,7 @@ export const CARRIED: Readonly<Record<string, Carried>> = {
   "transcript-path": { at: ["transcriptPath"], kind: "text" },
   "rotated-session-uuid": { at: ["rotatedSessionUuid"], kind: "text" },
   model: { at: ["model"], kind: "text" },
+  mode: { at: ["mode"], kind: "text" },
   "context-tokens": { at: ["contextTokens"], kind: "number" },
   "supervisor-process": { at: ["supervisorProcess"], kind: "text" },
   "proxy-process": { at: ["proxy", "process"], kind: "text" },
@@ -29,6 +30,8 @@ export const CARRIED: Readonly<Record<string, Carried>> = {
 }
 
 export const SUPERVISOR_PROCESS = "supervisor-process"
+
+export const MODE = "mode"
 
 export const RECORDS: Readonly<Record<string, string>> = {
   "turn-pending": "turnPending",
@@ -113,6 +116,15 @@ export function besideWrittenAtMs(page: string): number {
 
 export function akashaHolderProcessOf(agentId: string): string | null {
   const held = akashaValueOf(agentId, SUPERVISOR_PROCESS)
+  return typeof held === "string" && held !== "" ? held : null
+}
+
+// THE MODE THE SEAT IS RUNNING IN, WHICH IS OBSERVED RATHER THAN DECLARED. The seat's page states
+// the mode it was asked to start in and that value is never revisited; this one is written by the
+// supervisor holding the seat, on the same beat as its process key, so the two answer for one
+// another — a mode read here belongs to the supervisor read there.
+export function akashaRunningModeOf(agentId: string): string | null {
+  const held = akashaValueOf(agentId, MODE)
   return typeof held === "string" && held !== "" ? held : null
 }
 

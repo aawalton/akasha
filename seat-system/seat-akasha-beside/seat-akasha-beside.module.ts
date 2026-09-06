@@ -36,5 +36,9 @@ export const seatAkashaBeside = {
       statement:
         "The moment beside a seat is the modification time of the file holding the value beside that seat.",
     },
+    {
+      invariantKind: "departure",
+      statement: "An empty text beside a seat is answered as no value rather than as an empty one.",
+    },
   ],
 } as const satisfies Module

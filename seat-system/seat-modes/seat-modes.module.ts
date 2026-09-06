@@ -4,7 +4,8 @@ export const seatModes = {
   id: "01a06867-7fc9-7001-ab42-25809f0fc7df",
   pageTypeSlug: "module",
   slug: "seat-modes",
-  definition: "the two modes a seat starts in, and the launch each one is seen as",
+  definition:
+    "the two modes a seat runs in, the flag that sets one, and the launch each is seen as",
   code: "ts",
   test: "ts",
   invariants: [
@@ -23,6 +24,18 @@ export const seatModes = {
     {
       invariantKind: "departure",
       statement: "A mode carried to a launch and back is the mode that mode set out as.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The flag putting a seat in headless is spelled here and nowhere else.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command line carrying that flag is running headless.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A command line carrying no flag at all is running interactive.",
     },
     {
       invariantKind: "absence",

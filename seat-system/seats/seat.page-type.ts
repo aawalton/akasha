@@ -2,6 +2,7 @@ import type { PageType } from "@akasha/pages/page-type"
 import type { Agent } from "../../agents/agent.page-type.ts"
 import type { ClaudeCodeSessionUuid } from "./properties/claude-code-session-uuid.text-property.ts"
 import type { ContextTokens } from "./properties/context-tokens.number-property.ts"
+import type { Mode } from "./properties/mode.text-property.ts"
 import type { Model } from "./properties/model.text-property.ts"
 import type { OnCall } from "./properties/on-call.boolean-property.ts"
 import type { PersonSlug } from "./properties/person-slug.relation-property.ts"
@@ -30,6 +31,7 @@ export type Seat = Agent & {
   transcriptPath?: TranscriptPath
   supervisorProcess?: SupervisorProcess
   proxy?: SeatProxy
+  mode?: Mode
   model?: Model
   contextTokens?: ContextTokens
   turnPending?: TurnPending
@@ -69,6 +71,7 @@ export const seat = {
     "relation-property/seat-persona-slug",
     "text-property/claude-code-session-uuid",
     "text-property/interrupt-message",
+    "text-property/mode",
     "text-property/model",
     "text-property/open-agents",
     "text-property/open-shells",
@@ -90,6 +93,7 @@ export const seat = {
     { pagePropertySlug: "claude-code-session-uuid", required: false, many: false },
     { pagePropertySlug: "supervisor-process", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "proxy", required: false, many: false, uncommitted: true },
+    { pagePropertySlug: "mode", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "model", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "context-tokens", required: false, many: false, uncommitted: true },
     { pagePropertySlug: "turn-pending", required: false, many: false, uncommitted: true },
@@ -120,6 +124,10 @@ export const seat = {
       invariantKind: "departure",
       statement:
         "No seat states both the person who opened the seat and the seat that spawned the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat states the mode it was started in and carries the mode it is running in.",
     },
   ],
 } as const satisfies PageType
