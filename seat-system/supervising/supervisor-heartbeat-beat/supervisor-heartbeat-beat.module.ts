@@ -13,12 +13,15 @@ export const supervisorHeartbeatBeat = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A write that can await the beat calls it, and one that cannot runs it as a child.",
+      statement: "A write that can await the beat calls the beat.",
     },
     {
       invariantKind: "departure",
-      statement: "A child's report is the last line of its stdout, read as JSON.",
+      statement: "A write that cannot await the beat runs the beat as a child.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A child's report is the last line of that child's stdout read as JSON.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +29,12 @@ export const supervisorHeartbeatBeat = {
     },
     {
       invariantKind: "departure",
-      statement: "A beat that throws or never ran is a refusal naming the fault, not a throw.",
+      statement:
+        "A beat that throws or never ran is a refusal naming the fault rather than a throw.",
     },
     {
       invariantKind: "departure",
-      statement: "A refused write is logged and swallowed, so no beat fails its caller.",
+      statement: "A refused write is logged and swallowed.",
     },
     {
       invariantKind: "departure",
@@ -39,11 +43,15 @@ export const supervisorHeartbeatBeat = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat with no composed name and none in its history is not recorded at all.",
+      statement: "A seat with no composed name and no name in its history is not recorded at all.",
     },
     {
       invariantKind: "departure",
-      statement: "The process key is written beside the seat, and a failure there is logged alone.",
+      statement: "The process key is written beside the seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A failure writing the process key is logged alone.",
     },
     {
       invariantKind: "departure",
@@ -56,12 +64,8 @@ export const supervisorHeartbeatBeat = {
     },
     {
       invariantKind: "departure",
-      statement: "The beat module is reached beside this one rather than by a path from the root.",
-    },
-    {
-      invariantKind: "departure",
       statement:
-        "The beat is imported from beside this one, so a move of the beat is a diagnostic.",
+        "The beat module is reached beside this module rather than by a path from the root.",
     },
   ],
 } as const satisfies Module
