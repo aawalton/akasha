@@ -45,3 +45,15 @@ index d2b6cc38b698e1b7230eff1fd912fb7e80535bba..abbfc9eaa8896b3b3b67d90ba6b1e4a9
    viewPlace: 3,
    layout: "cards",
    viewSorts: [{ key: "title", descending: false }],
+diff --git a/pages/views/pages/anime-and-shows-completed.view.ts b/pages/views/pages/anime-and-shows-completed.view.ts
+index 4fcb32d72c06bf2bbea2bf84874823b40921b425..c853bdad1b3a4b004d5aa4a8ce3ffa26890ad2c3 100644
+--- a/pages/views/pages/anime-and-shows-completed.view.ts
++++ b/pages/views/pages/anime-and-shows-completed.view.ts
+@@ -6,6 +6,7 @@ export const animeAndShowsCompleted = {
+   slug: "anime-and-shows-completed",
+   title: "Completed",
+   navSlug: "anime-and-shows",
++  pageType: "ki-show",
+   viewPlace: 2,
+   layout: "cards",
+   narrows: [{ key: "status", comparison: "is", values: ["Completed"] }],
