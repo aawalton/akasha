@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const aggregateFilter = {
   id: "01a05b92-a9c7-7eda-8c2b-1d9831573764",

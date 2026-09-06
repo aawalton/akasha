@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const formula = {
   id: "01a05b92-a9c7-73c1-a3d6-1791d4b949b8",

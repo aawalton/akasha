@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const detailConfig = {
   id: "01a05b92-a9c7-7c85-898e-0811d1e220c4",

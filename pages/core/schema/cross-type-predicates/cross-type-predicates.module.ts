@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const crossTypePredicates = {
   id: "01a05b92-a9c7-795b-b72c-106ad30e0b60",

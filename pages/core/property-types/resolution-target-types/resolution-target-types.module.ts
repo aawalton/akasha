@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const resolutionTargetTypes = {
   id: "01a05b92-a9c7-7fa7-a968-64aa24b4c891",

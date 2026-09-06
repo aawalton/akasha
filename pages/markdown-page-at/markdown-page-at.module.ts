@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const markdownPageAt = {
   id: "01a05cc6-2a1c-738e-8e0d-5b9d45886508",

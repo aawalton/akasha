@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const actionButton = {
   id: "01a05b92-a9c7-7026-a506-197e83adb4e4",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const quickAdd = {
   id: "01a05b92-a9c7-7d64-a691-5cfed574966e",

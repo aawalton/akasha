@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const rrule = {
   id: "01a05b92-a9c7-7c22-ad4e-59ec5c9f90ec",

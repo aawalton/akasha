@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const rawPageRow = {
   id: "01a05bd6-c535-76cc-a048-fa1e2025c8f1",

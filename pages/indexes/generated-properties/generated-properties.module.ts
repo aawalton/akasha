@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const generatedProperties = {
   id: "01a04f2b-3d23-790e-b2f2-a9b1e6846e6f",

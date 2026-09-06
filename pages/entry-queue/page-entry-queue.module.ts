@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageEntryQueue = {
   id: "01a062a1-8add-704d-8a85-01215620ad7a",

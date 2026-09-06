@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageSecretActing = {
   id: "01a06812-3ce8-7ffb-9691-94df69748ba6",

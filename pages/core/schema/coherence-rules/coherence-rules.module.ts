@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const coherenceRules = {
   id: "01a05b92-a9c7-7f73-a319-8678d65a03e3",

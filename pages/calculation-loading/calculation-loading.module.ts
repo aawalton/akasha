@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const calculationLoading = {
   id: "01a071f0-b9d7-754a-83dc-36f3c40b2d10",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const blockMarkers = {
   id: "01a05b92-a9c7-7a02-82a9-40d4c84bd971",

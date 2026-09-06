@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const rebuilding = {
   id: "01a0584f-30ed-7000-bd17-95f4f41ac634",

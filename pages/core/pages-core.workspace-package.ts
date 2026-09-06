@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const pagesCore = {
   id: "01a05b92-a9c7-7180-bdd4-8e13e47841e5",

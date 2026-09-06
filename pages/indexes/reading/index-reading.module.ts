@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const indexReading = {
   id: "01a04bdd-596c-7b76-9978-92ebfa6a20e4",

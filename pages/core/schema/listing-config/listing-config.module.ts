@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const listingConfig = {
   id: "01a05b92-a9c7-71d1-a8e4-677259452512",

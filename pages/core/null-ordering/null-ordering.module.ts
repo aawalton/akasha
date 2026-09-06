@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const nullOrdering = {
   id: "01a05b92-a9c7-73ac-b691-bcaac3f52c64",

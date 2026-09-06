@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const richDocumentTree = {
   id: "01a05b92-a9c7-7729-8c6a-070a7ed83607",

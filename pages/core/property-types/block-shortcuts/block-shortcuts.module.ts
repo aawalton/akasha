@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const blockShortcuts = {
   id: "01a05b92-a9c7-7b5c-96d8-0e19e1b669c4",

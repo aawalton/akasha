@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageQueryTimes = {
   id: "01a05b92-a9c7-70aa-8322-24d56a21550f",

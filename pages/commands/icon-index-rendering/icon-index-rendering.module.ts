@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const iconIndexRendering = {
   id: "01a06869-1dd9-7000-9568-50cc17d96243",

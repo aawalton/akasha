@@ -138,7 +138,7 @@ export function idFor(root: string, slug: string): string {
 
 export function pageBody(root: string, slug: string, definition: string): string {
   return `${[
-    'import type { Module } from "@akasha/code-system/module"',
+    'import type { Module } from "@akasha/code/module"',
     "",
     `export const ${kebabToCamel(slug)} = {`,
     `  id: ${JSON.stringify(idFor(root, slug))},`,

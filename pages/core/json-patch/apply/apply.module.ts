@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const apply = {
   id: "01a05b92-a9c7-7158-938a-447248be1820",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const treeReading = {
   id: "01a07220-6ee3-7c98-b086-7e3b497e8b41",

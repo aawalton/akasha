@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageAddress = {
   id: "01a04b14-4355-7352-9c98-ad67e309f5f6",

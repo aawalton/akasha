@@ -1,11 +1,6 @@
 import { join } from "node:path"
-import {
-  landingOf,
-  NAMING_NONE,
-  type Naming,
-  specifiersIn,
-} from "@akasha/code-system/code-specifier"
-import { typed } from "@akasha/code-system/code-typing"
+import { landingOf, NAMING_NONE, type Naming, specifiersIn } from "@akasha/code/code-specifier"
+import { typed } from "@akasha/code/code-typing"
 import { type Entry, under } from "../entries/index-entries.module.code.ts"
 import { indexImport } from "./index-import.index.ts"
 

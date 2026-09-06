@@ -1,6 +1,6 @@
 import { mkdirSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { typed } from "@akasha/code-system/code-typing"
+import { typed } from "@akasha/code/code-typing"
 import { pageNamed, partedIn } from "@akasha/pages/page-file-name"
 import {
   identifyingFrom,

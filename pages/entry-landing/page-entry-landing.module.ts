@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageEntryLanding = {
   id: "01a062a1-8add-7a0c-ad1f-760fd4c73c13",

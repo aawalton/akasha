@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const expandDateMentions = {
   id: "01a05b92-a9c7-715d-bae0-122bdfb47216",

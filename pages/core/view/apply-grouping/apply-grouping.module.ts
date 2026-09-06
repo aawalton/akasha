@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const applyGrouping = {
   id: "01a05b92-a9c7-704e-8aa4-a6dac71c5707",

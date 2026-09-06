@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const viewStateChange = {
   id: "01a05b92-a9c7-7dbc-921c-251a792b9a19",

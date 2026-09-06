@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const sortAccessors = {
   id: "01a05b92-a9c7-7917-aa5d-fc53ca3f39ab",

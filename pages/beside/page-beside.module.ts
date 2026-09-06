@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageBeside = {
   id: "01a04ea7-b2ea-7d22-ac4c-78cd0b3eaa92",

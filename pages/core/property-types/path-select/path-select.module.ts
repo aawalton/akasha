@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pathSelect = {
   id: "01a05b92-a9c7-754f-841a-7b3154e215d2",

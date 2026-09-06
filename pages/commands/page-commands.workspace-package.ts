@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const pageCommands = {
   id: "01a06812-3ce8-79c7-b7c0-ca183f330ca5",

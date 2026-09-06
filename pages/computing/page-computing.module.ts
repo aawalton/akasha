@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageComputing = {
   id: "01a071a5-d394-7d1d-ac04-9a2bf63eeaa8",

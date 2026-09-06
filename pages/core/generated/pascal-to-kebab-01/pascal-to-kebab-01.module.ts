@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pascalToKebab01 = {
   id: "01a05b92-a9c7-7a0a-8f6d-1f9940fc0105",
