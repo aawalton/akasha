@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/inference/clients/comfy-client/comfy-client.module.ts b/inference/clients/comfy-client/comfy-client.module.ts
+index 1b6e1bba79412d98019ac8bae9a56c2fdeef2e0a..0de70f041e7083ff1956f3e2f35d7e99bd68875c 100644
+--- a/inference/clients/comfy-client/comfy-client.module.ts
++++ b/inference/clients/comfy-client/comfy-client.module.ts
+@@ -39,7 +39,7 @@ export const comfyClient = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The newest matching prior render is the one recovered.",
++      statement: "The newest matching prior render is the render recovered.",
+     },
+     {
+       invariantKind: "departure",
