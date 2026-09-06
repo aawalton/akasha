@@ -1,0 +1,85 @@
+diff --git a/changes/workflow-templates/pages/workflow-cloudflared/workflow-cloudflared.workflow-template.declaration.ts b/changes/workflow-templates/pages/workflow-cloudflared/workflow-cloudflared.workflow-template.declaration.ts
+index 67854a0413bc28f1065ddbaa35a9694726ff4cea..b654776bcc152ef06bee60fc95e8b97ffc656a43 100644
+--- a/changes/workflow-templates/pages/workflow-cloudflared/workflow-cloudflared.workflow-template.declaration.ts
++++ b/changes/workflow-templates/pages/workflow-cloudflared/workflow-cloudflared.workflow-template.declaration.ts
+@@ -26,6 +26,13 @@ export default workflow("cloudflared", {
+       name: "cloudflared-apply-secret",
+       namespace: "cloudflared",
+       resource: "cloudflared-creds",
++      labels: {
++        "app.kubernetes.io/name": "cloudflared",
++        "app.kubernetes.io/instance": "infra",
++        "app.kubernetes.io/component": "tunnel",
++        "app.kubernetes.io/part-of": "infra",
++        "app.kubernetes.io/managed-by": "deploy-script",
++      },
+     }),
+     step({
+       name: "cloudflared-generate-and-apply-config",
+diff --git a/changes/workflow-templates/pages/workflow-grafana/workflow-grafana.workflow-template.declaration.ts b/changes/workflow-templates/pages/workflow-grafana/workflow-grafana.workflow-template.declaration.ts
+index f3df985543133bf5373c446d6829f2d8becb1172..d0678a7057de0d69032c38b0c5b1785c1a4fa843 100644
+--- a/changes/workflow-templates/pages/workflow-grafana/workflow-grafana.workflow-template.declaration.ts
++++ b/changes/workflow-templates/pages/workflow-grafana/workflow-grafana.workflow-template.declaration.ts
+@@ -37,6 +37,13 @@ export default workflow("grafana", {
+         name: "grafana-apply-secrets",
+         namespace: "grafana",
+         resource: "grafana-secrets",
++        labels: {
++          "app.kubernetes.io/name": "grafana",
++          "app.kubernetes.io/instance": "grafana",
++          "app.kubernetes.io/component": "secrets",
++          "app.kubernetes.io/part-of": "monitoring",
++          "app.kubernetes.io/managed-by": "bootstrap",
++        },
+       }),
+       dependsOn: ["grafana-apply-namespace"],
+     },
+diff --git a/changes/workflow-templates/pages/workflow-prometheus/workflow-prometheus.workflow-template.declaration.ts b/changes/workflow-templates/pages/workflow-prometheus/workflow-prometheus.workflow-template.declaration.ts
+index a3982ba2301e73c50b5bcb6748c52fb4c320ef03..1aeb1b35c8c093b7a91f18dfdf7b7aa581656e3b 100644
+--- a/changes/workflow-templates/pages/workflow-prometheus/workflow-prometheus.workflow-template.declaration.ts
++++ b/changes/workflow-templates/pages/workflow-prometheus/workflow-prometheus.workflow-template.declaration.ts
+@@ -36,6 +36,13 @@ export default workflow("prometheus", {
+         name: "prometheus-apply-secrets",
+         namespace: "prometheus",
+         resource: "prometheus-secrets",
++        labels: {
++          "app.kubernetes.io/name": "prometheus",
++          "app.kubernetes.io/instance": "prometheus",
++          "app.kubernetes.io/component": "secrets",
++          "app.kubernetes.io/part-of": "monitoring",
++          "app.kubernetes.io/managed-by": "bootstrap",
++        },
+       }),
+       dependsOn: ["prometheus-apply-namespace"],
+     },
+@@ -45,6 +52,13 @@ export default workflow("prometheus", {
+         name: "prometheus-apply-alertmanager-config",
+         namespace: "prometheus",
+         resource: "alertmanager-config",
++        labels: {
++          "app.kubernetes.io/name": "prometheus",
++          "app.kubernetes.io/instance": "prometheus",
++          "app.kubernetes.io/component": "alertmanager",
++          "app.kubernetes.io/part-of": "monitoring",
++          "app.kubernetes.io/managed-by": "bootstrap",
++        },
+       }),
+       dependsOn: ["prometheus-apply-namespace"],
+     },
+diff --git a/changes/workflow-templates/pages/workflow-registry/workflow-registry.workflow-template.declaration.ts b/changes/workflow-templates/pages/workflow-registry/workflow-registry.workflow-template.declaration.ts
+index 1f9da44e2a35423348021686403c686240c81980..8c7fc4d2b190c0500a402f26922928a1ff0287d4 100644
+--- a/changes/workflow-templates/pages/workflow-registry/workflow-registry.workflow-template.declaration.ts
++++ b/changes/workflow-templates/pages/workflow-registry/workflow-registry.workflow-template.declaration.ts
+@@ -47,6 +47,12 @@ export default workflow("registry", {
+         namespace: "registry",
+         resource: "registry-tls",
+         type: "kubernetes.io/tls",
++        labels: {
++          "app.kubernetes.io/component": "registry",
++          "app.kubernetes.io/instance": "infra",
++          "app.kubernetes.io/name": "registry",
++          "app.kubernetes.io/part-of": "infra",
++        },
+       }),
+       dependsOn: ["registry-apply"],
+     },
