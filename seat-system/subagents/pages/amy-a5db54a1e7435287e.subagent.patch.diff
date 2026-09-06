@@ -233,14 +233,13 @@ index 0000000000000000000000000000000000000000..184b8ae757128e57437172f31445a668
 +})
 diff --git a/alan/harness/attributes/totalling/attributes-totalling.module.ts b/alan/harness/attributes/totalling/attributes-totalling.module.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..4fc80e7c9c53d7279f6df74722745d993300c408
+index 0000000000000000000000000000000000000000..47f9cc76400c576565f57cf9d4510d1023967780
 --- /dev/null
 +++ b/alan/harness/attributes/totalling/attributes-totalling.module.ts
-@@ -0,0 +1,64 @@
+@@ -0,0 +1,63 @@
 +import type { Module } from "../../../../code-system/modules/module.page-type.ts"
 +
 +export const attributesTotalling = {
-+  id: "01a07898-e661-7110-96b3-72a51c12636b",
 +  pageTypeSlug: "module",
 +  slug: "attributes-totalling",
 +  definition: "the points each attribute has earned over every day Alan tracked",
@@ -273,7 +272,7 @@ index 0000000000000000000000000000000000000000..4fc80e7c9c53d7279f6df74722745d99
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "The plants are counted over the one span the tracked days cover.",
++      statement: "The plants are counted over the span the tracked days cover.",
 +    },
 +    {
 +      invariantKind: "departure",
