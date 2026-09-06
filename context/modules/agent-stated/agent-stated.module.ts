@@ -14,7 +14,7 @@ export const agentStated = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat's page and a subagent's page are each an agent's.",
+      statement: "A seat's page and a subagent's page are both an agent's.",
     },
     {
       invariantKind: "departure",
