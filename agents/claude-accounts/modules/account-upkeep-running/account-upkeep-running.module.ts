@@ -14,7 +14,8 @@ export const accountUpkeepRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "Everything else that holds a credential reads one and makes none.",
+      statement:
+        "Everything else that holds a credential reads the credential rather than making a credential.",
     },
     {
       invariantKind: "departure",
@@ -52,12 +53,16 @@ export const accountUpkeepRunning = {
     },
     {
       invariantKind: "departure",
-      statement: "Upkeep runs until stopped, and a stop ends the loop at its next boundary.",
+      statement: "Upkeep runs until stopped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop ends the loop at the loop's next boundary.",
     },
     {
       invariantKind: "absence",
       statement:
-        "Whether upkeep is still running is ruled on elsewhere, from the stamps upkeep leaves on each page.",
+        "Whether upkeep is still running is ruled on elsewhere from the stamps upkeep leaves on each page.",
     },
   ],
 } as const satisfies Module
