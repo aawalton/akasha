@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/indexes/reaching/reaching.module.ts b/pages/indexes/reaching/reaching.module.ts
-index 3960f00eb1eef6ecee8f5caff8a5d772b59a74bb..22810a5c65571bea49ae56c7ba90749d45fde8cc 100644
+index 3960f00eb1eef6ecee8f5caff8a5d772b59a74bb..b1af8ee394eef682c6231e277a747a8d049f4786 100644
 --- a/pages/indexes/reaching/reaching.module.ts
 +++ b/pages/indexes/reaching/reaching.module.ts
 @@ -23,7 +23,8 @@ export const reaching = {
@@ -13,12 +13,18 @@ index 3960f00eb1eef6ecee8f5caff8a5d772b59a74bb..22810a5c65571bea49ae56c7ba90749d
      },
      {
        invariantKind: "departure",
-@@ -32,7 +33,7 @@ export const reaching = {
+@@ -32,11 +33,12 @@ export const reaching = {
      {
        invariantKind: "departure",
        statement:
 -        "One key carried by two properties reaches each under the type carrying that property.",
 +        "One key carried by two properties reaches each property under the type carrying that property.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One a page's type carries neither of reaches nothing.",
++      statement:
++        "A key carried by two properties reaches nothing where a page's type carries neither property.",
      },
      {
        invariantKind: "departure",
