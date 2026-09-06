@@ -22,7 +22,7 @@ export const pageAddressKind = {
     },
     {
       invariantKind: "departure",
-      statement: "Each kind answers one reach a unique property is filed under.",
+      statement: "Each kind answers a single reach a unique property is filed under.",
     },
     {
       invariantKind: "departure",
