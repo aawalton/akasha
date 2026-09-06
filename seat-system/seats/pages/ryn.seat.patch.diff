@@ -1,8 +1,18 @@
 diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
-index fd54c7a50c4eab21060f7bcfb7fa780ffe4b8917..98cec33c0e478c5268d1fe48dfa4f285370006f9 100644
+index fd54c7a50c4eab21060f7bcfb7fa780ffe4b8917..5700430192605ab95ab26b79876a69ba79c19de7 100644
 --- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
 +++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
-@@ -43,8 +43,11 @@ export const logDaySweeping = {
+@@ -22,8 +22,7 @@ export const logDaySweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A page left that way is counted and named, so a sweep answers for the pages that sweep read.",
++      statement: "A page left that way is counted and named.",
+     },
+     {
+       invariantKind: "departure",
+@@ -43,8 +42,11 @@ export const logDaySweeping = {
      },
      {
        invariantKind: "departure",
