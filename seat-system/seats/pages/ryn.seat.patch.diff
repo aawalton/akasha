@@ -1,0 +1,18 @@
+diff --git a/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts b/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
+index e6f6b75c1468b1873545eb5b3ddc8f46d402a844..28c9a8bf8e16303bb18a9bd521a58d203bc9d417 100644
+--- a/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
++++ b/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
+@@ -15,8 +15,11 @@ export const coachingContext = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A constraint tagged with a focus binds that focus, and one tagged with all binds every focus.",
++      statement: "A constraint tagged with a focus binds that focus.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A constraint tagged with all binds every focus.",
+     },
+     {
+       invariantKind: "departure",
