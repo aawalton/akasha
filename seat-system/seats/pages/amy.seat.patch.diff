@@ -66,6 +66,19 @@ index e271a33e66f6efc4d2c79ec72d8fb8e230d1f0f0..e82b51e8efecf1af4029f31b30412dab
      values: { ...was, bodyweight },
    })
    if ("refused" in composed) throw new Error(composed.refused)
+diff --git a/alan/fitness/exercise-access/selection-policy/selection-policy.module.ts b/alan/fitness/exercise-access/selection-policy/selection-policy.module.ts
+index 51791adbb5a0ddf10c75d750247fbd55b7047be9..3bb3f16c1c772be51cb86abb2743bb44c9c62420 100644
+--- a/alan/fitness/exercise-access/selection-policy/selection-policy.module.ts
++++ b/alan/fitness/exercise-access/selection-policy/selection-policy.module.ts
+@@ -21,7 +21,7 @@ export const selectionPolicy = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The bodyweight is written back to the client profile page.",
++      statement: "The bodyweight is written back to the person's page.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/alan/fitness/exercise-access/session-volume/session-volume.module.code.ts b/alan/fitness/exercise-access/session-volume/session-volume.module.code.ts
 index 7225ac563b235fe28331816fb682e1b8ebaa5757..db516de6fc116bc3f1332a23c2dd6efde7e333dd 100644
 --- a/alan/fitness/exercise-access/session-volume/session-volume.module.code.ts
