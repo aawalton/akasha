@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-closed-door-re-opens.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-closed-door-re-opens.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b87cd28577e14230c2b61c1e4cd27499513a142b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-closed-door-re-opens.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheClosedDoorReOpens = {
++  id: "01a077ef-254a-70fe-9731-c3ad4a919670",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-closed-door-re-opens",
++  topicSlug: "why-the-peace-holds",
++  ask: "The peace is days old and rests on what seeking costs. If recovery lowers that cost the equilibrium moves, so does the closed door re-open?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-their-side-is-half-of-why-the-route-fails.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-their-side-is-half-of-why-the-route-fails.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..eb181f17b6b0c1a805e1c3bc3c952cffe23133bc
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-their-side-is-half-of-why-the-route-fails.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheirSideIsHalfOfWhyTheRouteFails = {
++  id: "01a077ef-254e-7054-8363-d2281cafeb06",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-their-side-is-half-of-why-the-route-fails",
++  topicSlug: "why-the-peace-holds",
++  ask: "Others are as bad at meeting my needs as I am at meeting theirs, and less aware of the gap. Is their side half of why the route fails?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-i-weight-commitment-so-heavily.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-i-weight-commitment-so-heavily.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..04d423fabf923f7fa3e000f9ffaacba4cbaf5098
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/why-i-weight-commitment-so-heavily.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whyIWeightCommitmentSoHeavily = {
++  id: "01a077ef-254f-7b53-badd-d18c9332c2ac",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "why-i-weight-commitment-so-heavily",
++  topicSlug: "why-the-peace-holds",
++  ask: "Why do I weight commitment as heavily as I do, what does commitment protect, and does the weighting survive examination?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/why-the-peace-holds.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/why-the-peace-holds.all-about-alan-topic.ts
+index 30ce119ad4f3112d4234db56222c3e66e9e0a1a5..b5eb835abfc4c33f91fa1867f2384bc9ff374dc3 100644
+--- a/alan/books/all-about-alan/topics/pages/why-the-peace-holds.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/why-the-peace-holds.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const whyThePeaceHolds = {
+   parentSlugs: ["being-alone-at-the-centre"],
+   settled:
+     "Seeking to be met costs about ten times the loneliness itself, so it is not a real option.\n\nBetween commitment and happiness, commitment wins.",
+-  unsettled:
+-    "The peace is days old and rests on that cost. If recovery lowers it the equilibrium moves, and whether the closed door re-opens is the live trajectory.\n\nOthers are as bad at meeting my needs as I am at meeting theirs, and less aware of it. Whether that is half of why the route fails is unexplored.\n\nWhy commitment is weighted as heavily as it is, what it protects, and whether the weighting survives examination, has not been looked at.",
+ } as const satisfies AllAboutAlanTopic
