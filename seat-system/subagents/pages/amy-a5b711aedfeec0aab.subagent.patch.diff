@@ -1,3 +1,16 @@
+diff --git a/readout-system/readout-widgets/pages/alanwalton-categorize.readout-widget.ts b/readout-system/readout-widgets/pages/alanwalton-categorize.readout-widget.ts
+index 7169b6d683df56ea7f53e96f304d49a6b126c286..7ca2b0a1028dee33c3ed9836cb5fe0196704d97a 100644
+--- a/readout-system/readout-widgets/pages/alanwalton-categorize.readout-widget.ts
++++ b/readout-system/readout-widgets/pages/alanwalton-categorize.readout-widget.ts
+@@ -13,7 +13,7 @@ export const alanwaltonCategorize = {
+   galleryName: "Left to Review",
+   galleryDescription:
+     "How many of the past year's transactions Monarch is waiting to have reviewed.",
+-  opens: "capacitor://monarch-relay",
++  opens: "capacitor://monarch-relay#widget=alanwalton-categorize",
+   groupSlugs: ["categorization"],
+   place: 7,
+ } as const satisfies ReadoutWidget
 diff --git a/readout-system/readout-widgets/pages/alanwalton-claude-usage.readout-widget.ts b/readout-system/readout-widgets/pages/alanwalton-claude-usage.readout-widget.ts
 index 56c57c2cc7c3ca080f1f4f6ebfaa89928e85a233..ade0a3c1dac500425fbe75dcf6cc366cf365cbfa 100644
 --- a/readout-system/readout-widgets/pages/alanwalton-claude-usage.readout-widget.ts
