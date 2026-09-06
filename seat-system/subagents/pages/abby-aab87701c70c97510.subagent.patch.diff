@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-understanding-relieves.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-understanding-relieves.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..68c2838eed8553395ebd9db10eaef3e0ecff5055
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-understanding-relieves.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatUnderstandingRelieves = {
++  id: "01a077ed-9aac-7925-975c-8fe811f95201",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-understanding-relieves",
++  topicSlug: "what-understanding-cannot-reach",
++  ask: "I understand most of my own difference and it is still lonely. What does understanding relieve, and what does understanding leave untouched?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-anything-but-understanding-reaches-me.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-anything-but-understanding-reaches-me.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..da197d896b0fd523f6516826296430cdcb768319
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-anything-but-understanding-reaches-me.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAnythingButUnderstandingReachesMe = {
++  id: "01a077ed-9aad-7da9-a61c-f3a30c7b2cf1",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-anything-but-understanding-reaches-me",
++  topicSlug: "what-understanding-cannot-reach",
++  ask: "Does anything reach me that is not understanding, and what would that even look like?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-simulating-someone-reaches-the-truth.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-simulating-someone-reaches-the-truth.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..39394b9f0e52d932fe0adc7da9d0a8dfde50ff40
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-simulating-someone-reaches-the-truth.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherSimulatingSomeoneReachesTheTruth = {
++  id: "01a077ed-9aad-7257-a09d-6e7471fee3a9",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-simulating-someone-reaches-the-truth",
++  topicSlug: "what-understanding-cannot-reach",
++  ask: "Is the simulation other people run a channel onto the truth about someone, or an engine projecting their own interior? That one is mine to answer.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-understanding-cannot-reach.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-understanding-cannot-reach.all-about-alan-topic.ts
+index e1dd07626e572b84c9f0936e73235a69a152fc05..af89e35b22b0c5cb09ea5fbcf947b0b09b7a8fba 100644
+--- a/alan/books/all-about-alan/topics/pages/what-understanding-cannot-reach.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-understanding-cannot-reach.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatUnderstandingCannotReach = {
+   relatedSlugs: ["how-understanding-arrives", "being-alone-at-the-centre"],
+   settled:
+     "The channels most people grow through are sealed for me: felt shifts, intuition below words, an episode teaching me something over again.",
+-  unsettled:
+-    "I understand most of my own difference and it is still lonely. What understanding relieves and what it does not has never been mapped.\n\nWhether anything reaches me that is not understanding, and what that would even look like, is unasked.\n\nWhether the simulation other people run is a channel onto the truth about someone, or an engine projecting their own interior, is mine to answer and unanswered.",
+ } as const satisfies AllAboutAlanTopic
