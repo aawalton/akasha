@@ -1,0 +1,46 @@
+diff --git a/seat-system/seat-role-on-call/seat-role-on-call.module.ts b/seat-system/seat-role-on-call/seat-role-on-call.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f19cd6d9c5f5318c88ac3875a9a5d098e0cac99c
+--- /dev/null
++++ b/seat-system/seat-role-on-call/seat-role-on-call.module.ts
+@@ -0,0 +1,40 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const seatRoleOnCall = {
++  id: "01a0766c-11c7-79de-aa16-8aafc180ce58",
++  pageTypeSlug: "module",
++  slug: "seat-role-on-call",
++  definition: "which roles are on call, read from what the role pages carry",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A role is on call only where that role's page holds true under the on-call key.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Anything other than true under that key reads as not on call.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A role naming no slug is left out rather than added under an empty name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every role is answered by one read of the index rather than one read each.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The set is worked out once for each call and afresh outside every call.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A slug naming no role is not on call.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a seat.",
++    },
++  ],
++} as const satisfies Module
