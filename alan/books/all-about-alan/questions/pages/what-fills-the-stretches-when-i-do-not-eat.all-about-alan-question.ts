@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+
+export const whatFillsTheStretchesWhenIDoNotEat = {
+  id: "01a077ed-525c-7a1a-845c-284a4811d76e",
+  pageTypeSlug: "all-about-alan-question",
+  slug: "what-fills-the-stretches-when-i-do-not-eat",
+  topicSlug: "how-i-eat",
+  ask: "What makes up the stretches when I do not eat?",
+} as const satisfies AllAboutAlanQuestion
