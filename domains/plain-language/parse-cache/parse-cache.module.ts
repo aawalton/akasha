@@ -14,8 +14,11 @@ export const parseCache = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A key is a hash, so a text that moves between files keeps the parse already taken.",
+      statement: "A key is a hash.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A text that moves between files keeps the parse already taken.",
     },
     {
       invariantKind: "departure",
@@ -28,12 +31,16 @@ export const parseCache = {
     },
     {
       invariantKind: "departure",
-      statement: "A skipped line is answered as no parse, so the model reads the text again.",
+      statement: "A skipped line is answered as no parse.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The model reads a skipped line's text again.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Every fault the cache can carry comes back as no parse rather than as a wrong one.",
+        "Every fault the cache can carry comes back as no parse rather than as a wrong parse.",
     },
     {
       invariantKind: "departure",
@@ -45,8 +52,11 @@ export const parseCache = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A model holds a directory named for that model, so retiring a model is one deletion.",
+      statement: "A model holds a directory named for that model.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Retiring a model is one deletion.",
     },
     {
       invariantKind: "departure",
