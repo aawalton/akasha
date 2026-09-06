@@ -1,3 +1,15 @@
+diff --git a/seat-system/package.json b/seat-system/package.json
+index 926771b6f3de3279a681f1e83fbb22d07845e06b..52dc7350b5609c19949848224f740fdb37d1ea8a 100644
+--- a/seat-system/package.json
++++ b/seat-system/package.json
+@@ -239,6 +239,7 @@
+     "./supervisor-wait-resume": "./supervising/supervisor-wait-resume/supervisor-wait-resume.module.code.ts",
+     "./supervisor-wait-resume-answer": "./supervising/supervisor-wait-resume-answer/supervisor-wait-resume-answer.module.code.ts",
+     "./supervisor-wait-resume-decide": "./supervising/supervisor-wait-resume-decide/supervisor-wait-resume-decide.module.code.ts",
++    "./terminal-seat-marks": "./terminal-init/terminal-seat-marks/terminal-seat-marks.module.code.ts",
+     "./terminal-seat-stating": "./terminal-init/terminal-seat-stating/terminal-seat-stating.module.code.ts",
+     "./turn-working": "./seat-turn/turn-working/turn-working.module.code.ts",
+     "./seat-proc-key": "./seat-proc-key/seat-proc-key.module.code.ts",
 diff --git a/seat-system/seat-system.workspace-package.ts b/seat-system/seat-system.workspace-package.ts
 index 687fe95ef405f38d217cec91b170524fa4f5b140..5564051d7f950fdbbe907cb76805aa0af3b5954a 100644
 --- a/seat-system/seat-system.workspace-package.ts
