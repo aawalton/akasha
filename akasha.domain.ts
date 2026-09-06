@@ -6,7 +6,7 @@ export const akasha = {
   slug: "akasha",
   definition: "code, data and text in a page with a type in a file",
   partSlugs: [
-    "domain/code",
+    "workspace-package/code-system",
     "domain/data",
     "domain/text",
     "domain/file",
@@ -26,7 +26,6 @@ export const akasha = {
     "domain/akasha-check",
     "domain/instrument",
     "workspace-package/checks",
-    "workspace-package/code-system",
     "workspace-package/command-system",
     "workspace-package/hook-system",
     "workspace-package/editor-extension",
