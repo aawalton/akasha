@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/mobile-cli/asc-client/asc-client.module.ts b/mobile-cli/asc-client/asc-client.module.ts
+index f1b3d087bb81b7fb341690f08b8b908a9f52fc4b..8d9cc872f5f6da4d4026aa732a0aaa0bfe61e7e7 100644
+--- a/mobile-cli/asc-client/asc-client.module.ts
++++ b/mobile-cli/asc-client/asc-client.module.ts
+@@ -28,7 +28,7 @@ export const ascClient = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "a long-running read asks the token source for a token per request rather than holding one",
++        "a long-running read asks the token source for a token per request rather than holding a token",
+     },
+     {
+       invariantKind: "departure",
