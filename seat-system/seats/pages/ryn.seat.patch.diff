@@ -1,0 +1,14 @@
+diff --git a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
+index a4ddc23220965d233be8e4893047e0939dac4395..c3e454a7e5388f3e08bfb3a06df9803cd613baea 100644
+--- a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
++++ b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
+@@ -50,8 +50,7 @@ export const postReceiveMirror = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A push with no ceiling would outlive the reason for that push, so that push carries one.",
++      statement: "A push carries a ceiling.",
+     },
+     {
+       invariantKind: "departure",
