@@ -1,0 +1,10 @@
+diff --git a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
+index 48393ee6cdeb107303c200ac9681b2c347fa390d..bebccf33884420f4117f51b720a2c4a8e406e737 100644
+--- a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
++++ b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
+@@ -1,4 +1,4 @@
+-import { resolve } from "node:path"
++import { join, resolve } from "node:path"
+ import { ranAsHook } from "../../hook-answer/hook-answer.module.code.ts"
+ import { shownIn } from "../../path-showing/path-showing.module.code.ts"
+ import { insideOf, settled } from "../../settling/settling.module.code.ts"
