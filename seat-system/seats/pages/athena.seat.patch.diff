@@ -13,7 +13,7 @@ index e82ba15b20bb164fb438597376cf79202af42313..30cc08ecd57a5838a7fc73f5dcab829d
      read.dryRun
        ? `nothing was put in place — ${DRY_RUN}`
 diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
-index c049133ce6ffad2655675c56e6adacdc5bf20243..42e4be708dc0be518015739707e267ab951ed8c8 100644
+index c049133ce6ffad2655675c56e6adacdc5bf20243..5199324f0ab21d9fd436e314e0e32e71e304b1ba 100644
 --- a/pages/indexes/indexing/indexing.module.code.ts
 +++ b/pages/indexes/indexing/indexing.module.code.ts
 @@ -36,7 +36,12 @@ import { claimingIn } from "../path/index-path.index.code.ts"
@@ -38,6 +38,24 @@ index c049133ce6ffad2655675c56e6adacdc5bf20243..42e4be708dc0be518015739707e267ab
  }
  
  function drifting(said: readonly Drift[]): Drift {
+@@ -175,11 +181,16 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
+       valued.length,
+     refused: filed.flatMap((one) => one.refused),
+     drift: drifting(drift),
++    swept: [],
+   }
+ }
+ 
++// The sweep runs before the build, so what the build files is filed over a folder holding the index
++// and nothing else.
+ export function rebuiltWhole(repo: string, tree: string, put: boolean): Rebuilt {
+-  return rebuiltFrom(tree, indexIn(repo), repo, put)
++  const root = indexIn(repo)
++  const swept = put ? sweptBeside(root) : []
++  return { ...rebuiltFrom(tree, root, repo, put), swept }
+ }
+ 
+ export type Moving = {
 diff --git a/pages/indexes/rebuilding/rebuilding.module.code.ts b/pages/indexes/rebuilding/rebuilding.module.code.ts
 index 093a6c551f4a014435b9690f6ab8d1f48670b0f9..fbdc165197796303f18605698ce3db3dd335fbdd 100644
 --- a/pages/indexes/rebuilding/rebuilding.module.code.ts
