@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/index/index.command.test.ts b/command-system/commands/index/index.command.test.ts
-index 193fa8bbe2f5edcfb7a56f7b07e9c7b7ef2ecb05..823c64c0cb5dbdb21b6dfd9389750f632b11c2b9 100644
+index 193fa8bbe2f5edcfb7a56f7b07e9c7b7ef2ecb05..9c2b540fd5fcdf31da91378cb3c04eaac1c80dc6 100644
 --- a/command-system/commands/index/index.command.test.ts
 +++ b/command-system/commands/index/index.command.test.ts
 @@ -6,7 +6,6 @@ import { indexNamed, indexThere } from "@akasha/indexes"
@@ -10,7 +10,15 @@ index 193fa8bbe2f5edcfb7a56f7b07e9c7b7ef2ecb05..823c64c0cb5dbdb21b6dfd9389750f63
    listedFiledIn,
    listedTakenFrom,
    listedUnreadableFiled,
-@@ -168,37 +167,6 @@ test("the commit the index was built over is named in the report", () => {
+@@ -17,7 +16,6 @@ import { id as idPage } from "@akasha/pages/page/id"
+ import { slug as slugPage } from "@akasha/pages/page/slug"
+ import { textProperty } from "@akasha/pages/text-property"
+ import type { Given } from "../../calling/calling.module.code.ts"
+-import { calling } from "../../calling/calling.module.code.ts"
+ import { DATA, INPUT, OK, OPERATIONAL } from "../../cli/cli.module.code.ts"
+ import { scratchWorld } from "../../scratching/scratching.module.code.ts"
+ import { index, readIn } from "./index.command.code.ts"
+@@ -168,37 +166,6 @@ test("the commit the index was built over is named in the report", () => {
    expect(said(answer)).toContain(git(root, ["rev-parse", "HEAD"]).trim())
  })
  
