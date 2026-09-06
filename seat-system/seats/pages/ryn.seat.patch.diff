@@ -1,0 +1,22 @@
+diff --git a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
+index b79b45cfb73d2615e03bc7c1171eebc52ddde19b..39318b144d881a1d08237364c64d06f1116748de 100644
+--- a/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
++++ b/agents/claude-accounts/modules/upkeep/claude-account-upkeep.module.ts
+@@ -72,8 +72,15 @@ export const claudeAccountUpkeep = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A window whose reset has passed, is unknown, or will not read counts as inactive.",
++      statement: "A window whose reset has passed counts as inactive.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A window whose reset is unknown counts as inactive.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A window whose reset will not read counts as inactive.",
+     },
+     {
+       invariantKind: "departure",
