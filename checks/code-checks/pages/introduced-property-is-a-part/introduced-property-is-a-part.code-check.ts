@@ -15,8 +15,11 @@ export const introducedPropertyIsAPart = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A property a page type introduces is one that page type declares and no page type above declares.",
+      statement: "A property a page type introduces is a property that page type declares.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property a page type above declares is no introduction.",
     },
     {
       invariantKind: "departure",
@@ -59,7 +62,7 @@ export const introducedPropertyIsAPart = {
     {
       invariantKind: "gap",
       statement:
-        "A property two page types introduce stands under the one that introduces that property.",
+        "A property two page types introduce is a part of the page type that introduces that property.",
     },
   ],
 } as const satisfies CodeCheck
