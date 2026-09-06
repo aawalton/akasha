@@ -1,0 +1,19 @@
+readersOweReading: false
+diff --git a/readout-system/readout-groups/properties/figure-off-scale.boolean-property.ts b/readout-system/readout-groups/properties/figure-off-scale.boolean-property.ts
+index 8d3e1fd62738633be3df58eeb918c5c9136c9601..9b8ad1827fb921f7904b6180fdbd6e05dc12a3db 100644
+--- a/readout-system/readout-groups/properties/figure-off-scale.boolean-property.ts
++++ b/readout-system/readout-groups/properties/figure-off-scale.boolean-property.ts
+@@ -16,11 +16,11 @@ export const figureOffScale = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A reading has no number to draw past either end of its scale where this is false.",
++        "A reading has no number to draw past either end of its scale where the group states false.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reading between two rungs draws its number whatever this states.",
++      statement: "A reading between two rungs draws its number whatever the group states.",
+     },
+   ],
+ } as const satisfies BooleanProperty
