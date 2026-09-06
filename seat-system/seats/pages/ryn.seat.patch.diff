@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/named-for/page-stem/page-stem.module.ts b/named-for/page-stem/page-stem.module.ts
+index 3268df7edf2baaa5e767945d93e392e1e4c7f46b..7504fb8b1e5ab4d8d9ec3229639dd23f7dbc2295 100644
+--- a/named-for/page-stem/page-stem.module.ts
++++ b/named-for/page-stem/page-stem.module.ts
+@@ -13,7 +13,7 @@ export const pageStem = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An apostrophe closes the gap rather than opening one.",
++      statement: "An apostrophe closes the gap rather than opening a gap.",
+     },
+     {
+       invariantKind: "departure",
