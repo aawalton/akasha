@@ -1,0 +1,1775 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/command-system/commands/claude-usage/claude-usage.command.ts b/command-system/commands/claude-usage/claude-usage.command.ts
+index d4ab91a6ce241581f1a2b696bdee8f07b1e136ac..20049f6e34642358ab7c3d12f3abdeabbae45e7b 100644
+--- a/command-system/commands/claude-usage/claude-usage.command.ts
++++ b/command-system/commands/claude-usage/claude-usage.command.ts
+@@ -23,7 +23,6 @@ export const claudeUsage = {
+     "the status bar gathers its four reads with `Promise.allSettled`, so that throw was swallowed into a stale slot.",
+     "both numbers then drew an em dash under a tooltip saying no successful poll yet, and nothing failed loudly.",
+     "asking the fleet by hand under bun answers every account, which is why running it that way never showed it.",
+-    "it was measured by `panel-judging`, which runs the real activation under node and reads the slots back.",
+     "the work tree and the page tree already ask their children for the same reason.",
+   ],
+   invariants: [
+diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
+index 587c1920850d7e2c7e09b3b53c81f0d5cbb533be..d3e0875fdd65f7bf37351d8449971bbee1850ac6 100644
+--- a/editor-extension/editor-extension.workspace-package.ts
++++ b/editor-extension/editor-extension.workspace-package.ts
+@@ -76,9 +76,6 @@ export const editorExtension = {
+     "module/agent-page-opening",
+     "module/column-sampling",
+     "module/agent-tree-panel",
+-    "module/node-cleanliness",
+-    "module/panel-reading",
+-    "module/panel-judging",
+     "javascript-module/vscode-stub",
+     "workspace-package/ops-extension",
+     "workspace-package/vscode-typings",
+diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.code.ts b/editor-extension/node-cleanliness/node-cleanliness.module.code.ts
+deleted file mode 100644
+index 7dbc2a4b5fbefa6923721b3fb4e7820aea474270..0000000000000000000000000000000000000000
+--- a/editor-extension/node-cleanliness/node-cleanliness.module.code.ts
++++ /dev/null
+@@ -1,346 +0,0 @@
+-#!/usr/bin/env bun
+-
+-import { globSync, mkdirSync, mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+-import { tmpdir } from "node:os"
+-import { join } from "node:path"
+-import { ran } from "@akasha/utils-run/running"
+-
+-const HELP = `bun editor-extension/node-cleanliness/node-cleanliness.module.code.ts
+-
+-Refuses a bun-only global in what the editor's extension host loads. What is judged, what is
+-carried, and where that stops is stated on the module page beside this file.
+-
+-  --entry <path>  an entry point to judge, repeatable. Given none, they are derived.
+-  --no-run        read the bundles and do not import them under node.
+-  --help          This.
+-`
+-
+-const REFUSED = /Bun\.\w+|import\.meta\.(?:path|dir|dirname)\b/g
+-
+-const BUN_REACH = /^Bun\./
+-
+-const GUARD = "typeof Bun"
+-
+-const SECTION = /^\/\/ (\S+\.tsx?)$/
+-
+-const QUOTES = new Set(["'", '"', "`"])
+-
+-export function quotedAt(line: string, at: number): boolean {
+-  let open: string | null = null
+-  for (let i = 0; i < at; i += 1) {
+-    const one = line[i]
+-    if (one === "\\") {
+-      i += 1
+-      continue
+-    }
+-    if (one === undefined || !QUOTES.has(one)) continue
+-    if (open === null) open = one
+-    else if (open === one) open = null
+-  }
+-  return open !== null
+-}
+-
+-const PACKAGE = "editor-extension/ops-extension"
+-
+-const MANIFEST = "package.json"
+-
+-const MODULES_UNDER = "editor-extension"
+-
+-const SOURCES = "**/*.module.code.ts"
+-
+-const MAIN = "main"
+-
+-export function namedByManifest(text: string): string | null {
+-  let held: unknown
+-  try {
+-    held = JSON.parse(text)
+-  } catch {
+-    return null
+-  }
+-  if (held === null || typeof held !== "object") return null
+-  const said = (held as Record<string, unknown>)[MAIN]
+-  if (typeof said !== "string" || said === "") return null
+-  return said.replace(/^\.\//, "")
+-}
+-
+-export function sectionsIn(bundle: string): ReadonlySet<string> {
+-  const found = new Set<string>()
+-  for (const line of bundle.split("\n")) {
+-    const named = SECTION.exec(line)
+-    if (named?.[1] !== undefined) found.add(named[1])
+-  }
+-  return found
+-}
+-
+-export function unreachedIn(
+-  root: string,
+-  pkg: string,
+-  reached: ReadonlySet<string>
+-): readonly string[] {
+-  return globSync(`${pkg}/${SOURCES}`, { cwd: root })
+-    .filter((one) => !reached.has(one))
+-    .sort()
+-}
+-
+-const STUB = `const anything = () => new Proxy(function () {}, {
+-  get: (_t, k) => (k === "then" ? undefined : anything()),
+-  apply: () => anything(),
+-  construct: () => anything(),
+-})
+-module.exports = anything()
+-`
+-
+-export interface Reach {
+-  readonly global: string
+-  readonly file: string
+-  readonly atImport: boolean
+-  readonly guarded: boolean
+-}
+-
+-export function refusedIn(reach: Reach): boolean {
+-  if (reach.atImport) return true
+-  if (!BUN_REACH.test(reach.global)) return true
+-  return !reach.guarded
+-}
+-
+-export function saidAs(reach: Reach): string {
+-  const where = reach.atImport ? ", at import" : ""
+-  return `${reach.global} in ${reach.file}${where}`
+-}
+-
+-export function reachesIn(bundle: string): readonly Reach[] {
+-  const sections = new Map<string, string[]>()
+-  const lines = bundle.split("\n")
+-  let file = "the bundle"
+-  const order: { line: string; file: string }[] = []
+-  for (const line of lines) {
+-    const named = SECTION.exec(line)
+-    if (named?.[1] !== undefined) file = named[1]
+-    order.push({ line, file })
+-    const held = sections.get(file)
+-    if (held === undefined) sections.set(file, [line])
+-    else held.push(line)
+-  }
+-  const found: Reach[] = []
+-  const seen = new Set<string>()
+-  for (const { line, file: at } of order) {
+-    for (const hit of line.matchAll(REFUSED)) {
+-      if (quotedAt(line, hit.index)) continue
+-      const reach: Reach = {
+-        global: hit[0],
+-        file: at,
+-        atImport: !/^\s/.test(line),
+-        guarded: (sections.get(at) ?? []).some((one) => one.includes(GUARD)),
+-      }
+-      const key = saidAs(reach)
+-      if (seen.has(key)) continue
+-      seen.add(key)
+-      found.push(reach)
+-    }
+-  }
+-  return found
+-}
+-
+-export interface Judged {
+-  readonly entry: string
+-  readonly refused: readonly string[]
+-  readonly carried: readonly string[]
+-  readonly threw: string | null
+-  readonly built: boolean
+-  readonly why: string | null
+-  readonly reached: ReadonlySet<string>
+-}
+-
+-export function firstLines(said: string, count: number): string {
+-  return said
+-    .split("\n")
+-    .filter((one) => one.trim() !== "")
+-    .slice(0, count)
+-    .join(" / ")
+-}
+-
+-async function threwUnderNode(bundleAt: string): Promise<string | null> {
+-  const out = mkdtempSync(join(tmpdir(), "ext-node-run-"))
+-  try {
+-    mkdirSync(join(out, "node_modules", "vscode"), { recursive: true })
+-    writeFileSync(join(out, "package.json"), `{ "type": "module" }\n`)
+-    writeFileSync(
+-      join(out, "node_modules", "vscode", "package.json"),
+-      `{ "name": "vscode", "version": "0.0.0", "main": "index.cjs" }\n`
+-    )
+-    writeFileSync(join(out, "node_modules", "vscode", "index.cjs"), STUB)
+-    writeFileSync(join(out, "bundle.js"), readFileSync(bundleAt, "utf8"))
+-    writeFileSync(join(out, "probe.mjs"), `await import("./bundle.js")\nprocess.exit(0)\n`)
+-    const done = ran(["node", join(out, "probe.mjs")], { cwd: out })
+-    if (done.code === 0) return null
+-    const said = `${done.err}${done.out}`.trim()
+-    return said === "" ? `node exited ${String(done.code)} and said nothing` : said
+-  } catch (err) {
+-    return `node could not be run: ${err instanceof Error ? err.message : String(err)}`
+-  } finally {
+-    rmSync(out, { recursive: true, force: true })
+-  }
+-}
+-
+-export async function judge(root: string, entry: string, run: boolean): Promise<Judged> {
+-  const out = mkdtempSync(join(tmpdir(), "ext-node-clean-"))
+-  const nothing = { refused: [], carried: [], threw: null, reached: new Set<string>() }
+-  try {
+-    const built = await Bun.build({
+-      entrypoints: [join(root, entry)],
+-      target: "node",
+-      external: ["vscode"],
+-      outdir: out,
+-    })
+-    if (!built.success) {
+-      const why = built.logs.map((one) => String(one)).join("; ")
+-      return { entry, ...nothing, built: false, why: why === "" ? "the bundle failed" : why }
+-    }
+-    const files = globSync("**/*.js", { cwd: out })
+-    if (files.length === 0) {
+-      return {
+-        entry,
+-        ...nothing,
+-        built: false,
+-        why: "the bundle wrote no file, so nothing was judged",
+-      }
+-    }
+-    const refused = new Set<string>()
+-    const carried = new Set<string>()
+-    const reached = new Set<string>()
+-    for (const one of files) {
+-      const bundle = readFileSync(join(out, one), "utf8")
+-      for (const said of sectionsIn(bundle)) reached.add(said)
+-      for (const reach of reachesIn(bundle)) {
+-        if (refusedIn(reach)) refused.add(saidAs(reach))
+-        else carried.add(saidAs(reach))
+-      }
+-    }
+-    const threw = run ? await threwUnderNode(join(out, files[0] as string)) : null
+-    return {
+-      entry,
+-      refused: [...refused].sort(),
+-      carried: [...carried].sort(),
+-      threw,
+-      built: true,
+-      why: null,
+-      reached,
+-    }
+-  } finally {
+-    rmSync(out, { recursive: true, force: true })
+-  }
+-}
+-
+-export async function main(argv: readonly string[]): Promise<number> {
+-  if (argv.includes("--help") || argv.includes("-h")) {
+-    process.stdout.write(HELP)
+-    return 0
+-  }
+-  const asked: string[] = []
+-  let run = true
+-  for (let at = 0; at < argv.length; at += 1) {
+-    if (argv[at] === "--no-run") {
+-      run = false
+-      continue
+-    }
+-    if (argv[at] === "--entry") {
+-      const named = argv[at + 1]
+-      if (named === undefined) {
+-        process.stderr.write("error: --entry takes a path after it\n")
+-        return 1
+-      }
+-      asked.push(named)
+-      at += 1
+-      continue
+-    }
+-    process.stderr.write(`error: this command takes no flag ${String(argv[at])}\n`)
+-    return 1
+-  }
+-  const root = process.cwd()
+-  const deriving = asked.length === 0
+-  const entries: string[] = [...asked]
+-  if (deriving) {
+-    let text: string
+-    try {
+-      text = readFileSync(join(root, PACKAGE, MANIFEST), "utf8")
+-    } catch (err) {
+-      process.stderr.write(
+-        `error: ${PACKAGE}/${MANIFEST} could not be read, and it names the entry point: ` +
+-          `${err instanceof Error ? err.message : String(err)}\n`
+-      )
+-      return 3
+-    }
+-    const named = namedByManifest(text)
+-    if (named === null) {
+-      process.stderr.write(`error: ${PACKAGE}/${MANIFEST} names no \`${MAIN}\` to judge\n`)
+-      return 3
+-    }
+-    entries.push(`${PACKAGE}/${named}`)
+-  }
+-  const unreached = new Set<string>()
+-  const reached = new Set<string>()
+-  const unproved = new Set<string>()
+-  let refused = 0
+-  let unbuilt = 0
+-  let warned = 0
+-  for (let at = 0; at < entries.length; at += 1) {
+-    const entry = entries[at] as string
+-    const judged = await judge(root, entry, run)
+-    const wired = !unreached.has(entry)
+-    const word = wired ? "REFUSED " : "UNWIRED "
+-    if (!judged.built) {
+-      if (wired) unbuilt += 1
+-      process.stdout.write(`UNJUDGED ${entry} — ${String(judged.why)}\n`)
+-    } else {
+-      const bad = judged.refused.length > 0 || judged.threw !== null
+-      if (!bad) {
+-        process.stdout.write(`clean    ${entry}${wired ? "" : ", which nothing reaches"}\n`)
+-      } else {
+-        if (wired) refused += 1
+-        else warned += 1
+-        if (judged.refused.length > 0) {
+-          process.stdout.write(`${word} ${entry} reaches ${judged.refused.join(", ")}\n`)
+-        }
+-        if (judged.threw !== null) {
+-          process.stdout.write(
+-            `${word} ${entry} threw under node: ${firstLines(judged.threw, 3)}\n`
+-          )
+-        }
+-      }
+-      if (wired) {
+-        for (const one of judged.carried) {
+-          unproved.add(one)
+-          process.stdout.write(`  carried ${one}, guarded by \`${GUARD}\` in that file\n`)
+-        }
+-      }
+-    }
+-    for (const one of judged.reached) reached.add(one)
+-    if (!deriving) continue
+-    for (const one of unreachedIn(root, MODULES_UNDER, reached)) {
+-      if (entries.includes(one)) continue
+-      unreached.add(one)
+-      entries.push(one)
+-    }
+-  }
+-  const total = entries.length - unreached.size
+-  process.stdout.write(
+-    `${String(total - refused - unbuilt)} of ${String(total)} entry points carry no unguarded bun-only global\n`
+-  )
+-  if (unreached.size > 0) {
+-    process.stdout.write(
+-      `${String(unreached.size)} ${unreached.size === 1 ? "file" : "files"} no entry point reaches ` +
+-        `${unreached.size === 1 ? "was" : "were"} judged too, and ${String(warned)} would be ` +
+-        `refused on being wired in. The host loads none of them, so none is counted above\n`
+-    )
+-  }
+-  if (unproved.size > 0) {
+-    process.stdout.write(
+-      `${String(unproved.size)} guarded ${unproved.size === 1 ? "reach is" : "reaches are"} unproved: ` +
+-        `this runs no branch, so a guard whose node side throws is counted clean here\n`
+-    )
+-  }
+-  if (unbuilt > 0) return 4
+-  return refused > 0 ? 2 : 0
+-}
+-
+-if (import.meta.main) process.exitCode = await main(process.argv.slice(2))
+diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.test.ts b/editor-extension/node-cleanliness/node-cleanliness.module.test.ts
+deleted file mode 100644
+index 2cb8649a2031b29da0ed84a37b3c54ccafb68099..0000000000000000000000000000000000000000
+--- a/editor-extension/node-cleanliness/node-cleanliness.module.test.ts
++++ /dev/null
+@@ -1,167 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { mkdirSync, mkdtempSync, rmSync, writeFileSync } from "node:fs"
+-import { tmpdir } from "node:os"
+-import { join } from "node:path"
+-import {
+-  firstLines,
+-  namedByManifest,
+-  quotedAt,
+-  type Reach,
+-  reachesIn,
+-  refusedIn,
+-  saidAs,
+-  sectionsIn,
+-  unreachedIn,
+-} from "./node-cleanliness.module.code.ts"
+-
+-function reachOf(over: Partial<Reach> = {}): Reach {
+-  return { global: "Bun.file", file: "a.ts", atImport: false, guarded: false, ...over }
+-}
+-
+-test("a name outside every quote is not quoted", () => {
+-  const line = "const held = Bun.file(at)"
+-  expect(quotedAt(line, line.indexOf("Bun."))).toBe(false)
+-})
+-
+-test("a name inside a quote is quoted", () => {
+-  const line = 'throw new Error("Bun.Transpiler is not here")'
+-  expect(quotedAt(line, line.indexOf("Bun."))).toBe(true)
+-})
+-
+-test("a quote that closed before the name leaves the name unquoted", () => {
+-  const line = 'const said = "done"; Bun.file(at)'
+-  expect(quotedAt(line, line.indexOf("Bun."))).toBe(false)
+-})
+-
+-test("a quote inside another quote does not close it", () => {
+-  const line = `const said = "he said 'Bun.file' here"`
+-  expect(quotedAt(line, line.indexOf("Bun."))).toBe(true)
+-})
+-
+-test("an escaped quote does not open one", () => {
+-  const line = 'const said = "\\"" + Bun.file(at)'
+-  expect(quotedAt(line, line.indexOf("Bun."))).toBe(false)
+-})
+-
+-test("a manifest names its main with no leading dot slash", () => {
+-  expect(namedByManifest('{ "main": "./out/entry.js" }')).toBe("out/entry.js")
+-  expect(namedByManifest('{ "main": "out/entry.js" }')).toBe("out/entry.js")
+-})
+-
+-test("a manifest naming no main names nothing", () => {
+-  expect(namedByManifest("{}")).toBeNull()
+-  expect(namedByManifest('{ "main": "" }')).toBeNull()
+-  expect(namedByManifest('{ "main": 7 }')).toBeNull()
+-})
+-
+-test("text that is no json names nothing rather than throwing", () => {
+-  expect(namedByManifest("not json at all")).toBeNull()
+-  expect(namedByManifest("null")).toBeNull()
+-  expect(namedByManifest('"a string"')).toBeNull()
+-})
+-
+-test("a bundle's section comments name the files it reached", () => {
+-  const bundle = ["// a/one.ts", "const x = 1", "// b/two.tsx", "const y = 2"].join("\n")
+-  expect([...sectionsIn(bundle)].sort()).toEqual(["a/one.ts", "b/two.tsx"])
+-})
+-
+-test("a comment naming no typescript file is no section", () => {
+-  expect([...sectionsIn("// a/one.js\n// not a path\n")].sort()).toEqual([])
+-})
+-
+-test("a reach at import is refused whatever its file spells", () => {
+-  expect(refusedIn(reachOf({ atImport: true, guarded: true }))).toBe(true)
+-})
+-
+-test("a reach that is no bun global is refused even where the file guards", () => {
+-  expect(refusedIn(reachOf({ global: "import.meta.dir", guarded: true }))).toBe(true)
+-})
+-
+-test("a guarded bun reach below the top level is carried", () => {
+-  expect(refusedIn(reachOf({ guarded: true }))).toBe(false)
+-  expect(refusedIn(reachOf({ guarded: false }))).toBe(true)
+-})
+-
+-test("a reach is said with its global, its file and whether it is at import", () => {
+-  expect(saidAs(reachOf())).toBe("Bun.file in a.ts")
+-  expect(saidAs(reachOf({ atImport: true }))).toBe("Bun.file in a.ts, at import")
+-})
+-
+-test("a reach is found under the section it is in", () => {
+-  const bundle = ["// a/one.ts", "  const x = Bun.file(at)"].join("\n")
+-  expect(reachesIn(bundle)).toEqual([
+-    { global: "Bun.file", file: "a/one.ts", atImport: false, guarded: false },
+-  ])
+-})
+-
+-test("a file spelling typeof Bun anywhere guards every reach in that file", () => {
+-  const bundle = ["// a/one.ts", "  if (typeof Bun === 'undefined') return", "  Bun.file(at)"].join(
+-    "\n"
+-  )
+-  expect(reachesIn(bundle)[0]?.guarded).toBe(true)
+-})
+-
+-test("a guard in one file does not guard the file beside it", () => {
+-  const bundle = ["// a/one.ts", "  const held = typeof Bun", "// b/two.ts", "  Bun.file(at)"].join(
+-    "\n"
+-  )
+-  const found = reachesIn(bundle)
+-  expect(found.map((one) => one.file)).toEqual(["b/two.ts"])
+-  expect(found[0]?.guarded).toBe(false)
+-})
+-
+-test("a reach at the bundle's top level is at import", () => {
+-  const bundle = ["// a/one.ts", "Bun.file(at)"].join("\n")
+-  expect(reachesIn(bundle)[0]?.atImport).toBe(true)
+-})
+-
+-test("a quoted global is no reach", () => {
+-  const bundle = ["// a/one.ts", '  throw new Error("Bun.Transpiler is not here")'].join("\n")
+-  expect(reachesIn(bundle)).toEqual([])
+-})
+-
+-test("the same reach twice in one file is one reach", () => {
+-  const bundle = ["// a/one.ts", "  Bun.file(at)", "  Bun.file(other)"].join("\n")
+-  expect(reachesIn(bundle).length).toBe(1)
+-})
+-
+-test("import.meta.main is carried where the three others are refused", () => {
+-  const bundle = [
+-    "// a/one.ts",
+-    "  const held = import.meta.main",
+-    "  const there = import.meta.dir",
+-  ].join("\n")
+-  expect(reachesIn(bundle).map((one) => one.global)).toEqual(["import.meta.dir"])
+-})
+-
+-test("a module no bundle reached is unreached, and one that was reached is not", () => {
+-  const root = mkdtempSync(join(tmpdir(), "node-clean-test-"))
+-  try {
+-    mkdirSync(join(root, "pkg", "one"), { recursive: true })
+-    mkdirSync(join(root, "pkg", "two"), { recursive: true })
+-    writeFileSync(join(root, "pkg", "one", "one.module.code.ts"), "")
+-    writeFileSync(join(root, "pkg", "two", "two.module.code.ts"), "")
+-    expect(unreachedIn(root, "pkg", new Set(["pkg/one/one.module.code.ts"]))).toEqual([
+-      "pkg/two/two.module.code.ts",
+-    ])
+-    expect(unreachedIn(root, "pkg", new Set()).length).toBe(2)
+-  } finally {
+-    rmSync(root, { recursive: true, force: true })
+-  }
+-})
+-
+-test("a package holding no module leaves nothing unreached", () => {
+-  const root = mkdtempSync(join(tmpdir(), "node-clean-test-"))
+-  try {
+-    mkdirSync(join(root, "pkg"), { recursive: true })
+-    expect(unreachedIn(root, "pkg", new Set())).toEqual([])
+-  } finally {
+-    rmSync(root, { recursive: true, force: true })
+-  }
+-})
+-
+-test("a throw is shown as its first few lines, blank lines dropped", () => {
+-  expect(firstLines("one\n\ntwo\nthree\nfour", 3)).toBe("one / two / three")
+-  expect(firstLines("only", 3)).toBe("only")
+-  expect(firstLines("", 3)).toBe("")
+-})
+diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.ts b/editor-extension/node-cleanliness/node-cleanliness.module.ts
+deleted file mode 100644
+index 5233673cc62c8385031927d59a3f7bb837235e57..0000000000000000000000000000000000000000
+--- a/editor-extension/node-cleanliness/node-cleanliness.module.ts
++++ /dev/null
+@@ -1,125 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const nodeCleanliness = {
+-  id: "01a06954-f7dc-76b7-bb15-538baf68f93e",
+-  pageTypeSlug: "module",
+-  slug: "node-cleanliness",
+-  definition: "whether what the editor's extension host loads reaches only what node carries",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "constraint",
+-      statement: "The editor's extension host is node.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "Electron runs the host as a utility process under its own node build.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "`utilityProcess.fork` takes no option naming another binary.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The entry point judged is the entry point the host loads.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The entry point is read from the extension's manifest rather than spelled here.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No list of entry points is kept here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A module no entry point's bundle reaches becomes an entry point of its own.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "That step repeats until nothing under the package is left over.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A module the host never loads is counted apart from the entry points.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An entry point is bundled for node and the whole bundle is judged.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "`Bun.*` or `import.meta.path` or `import.meta.dir` or `import.meta.dirname` is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "`import.meta.main` is carried.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Node holds `import.meta.main`.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A reach answering nothing under node is worse than a reach that throws.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A reach in a file also spelling `typeof Bun` is carried rather than refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "That rule asks the file rather than the path through that file.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A reach at the bundle's top level is refused whatever its file spells.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A name inside a quote is passed over.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A quote is judged one line at a time.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "A global named inside a template literal spanning lines is read as code.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The bundle is then imported under node against a stub `vscode`.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "That second stage sees only the code that runs at import.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Activation dies in the code that runs at import.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Both stages must pass.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A guarded reach is carried rather than proved.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every guarded reach is counted and named where the run closes.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No branch is run here.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No guard's node side is proved here.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/editor-extension/panel-judging/panel-judging.module.code.ts b/editor-extension/panel-judging/panel-judging.module.code.ts
+deleted file mode 100644
+index e70ff83d2050b208e63096baaf3f243848c5228b..0000000000000000000000000000000000000000
+--- a/editor-extension/panel-judging/panel-judging.module.code.ts
++++ /dev/null
+@@ -1,370 +0,0 @@
+-#!/usr/bin/env bun
+-
+-import { type Drawn, type DrawnRow, drawn } from "../panel-reading/panel-reading.module.code.ts"
+-
+-const HELP = `bun editor-extension/panel-judging/panel-judging.module.code.ts
+-
+-Refuses a panel that draws nothing. What each surface is asked for, and what is pinned rather
+-than counted, is stated on the module page beside this file.
+-
+-  --json      print the whole reading rather than the judgement
+-  --raw <at>  also write the reading to a file
+-  --help      This.
+-`
+-
+-const A_NUMBER = /^\d+%$/
+-
+-const NOT_A_GLYPH = /[︎️‍]/g
+-
+-const PINNED_GROUPS: readonly {
+-  readonly id: string
+-  readonly said: string
+-  readonly count: number
+-}[] = [
+-  { id: "opsStatusBar.upkeepStoplights", said: "upkeep", count: 4 },
+-  { id: "opsStatusBar.inboxStoplights", said: "inboxes", count: 3 },
+-]
+-
+-const USAGE_SLOTS: readonly { readonly id: string; readonly said: string }[] = [
+-  { id: "opsStatusBar.usage.session", said: "session usage" },
+-  { id: "opsStatusBar.usage.weekly", said: "weekly usage" },
+-]
+-
+-const FEATURE_TIMING =
+-  /^\[([a-z-]+)\] (?:activated in (\d+)ms|FAILED after (\d+)ms|has not finished after (\d+)ms)/
+-
+-const FILLED_BY: Readonly<Record<string, string>> = {
+-  opsAgentTree: "agent-tree",
+-  opsDomainTree: "domain-tree",
+-  opsWorkTree: "work-tree",
+-  opsPageTree: "page-tree",
+-  statusBar: "status-bar",
+-}
+-
+-const READ_COUNT = /\] (\d+) running, (\d+) rows, (\d+) roots/
+-
+-export interface FeatureTiming {
+-  readonly feature: string
+-  readonly ms: number
+-  readonly state: "activated" | "failed" | "abandoned"
+-}
+-
+-export function featureTimings(lines: readonly string[]): readonly FeatureTiming[] {
+-  const timings: FeatureTiming[] = []
+-  for (const line of lines) {
+-    const hit = FEATURE_TIMING.exec(line)
+-    if (hit === null) continue
+-    const feature = hit[1] as string
+-    if (hit[2] !== undefined) timings.push({ feature, ms: Number(hit[2]), state: "activated" })
+-    else if (hit[3] !== undefined) timings.push({ feature, ms: Number(hit[3]), state: "failed" })
+-    else if (hit[4] !== undefined) timings.push({ feature, ms: Number(hit[4]), state: "abandoned" })
+-  }
+-  return timings
+-}
+-
+-export function readsLogged(lines: readonly string[]): readonly number[] {
+-  const counted: number[] = []
+-  for (const line of lines) {
+-    const hit = READ_COUNT.exec(line)
+-    if (hit !== null) counted.push(Number(hit[2]))
+-  }
+-  return counted
+-}
+-
+-export interface Verdict {
+-  readonly surface: string
+-  readonly green: boolean
+-  readonly said: string
+-  readonly notes: readonly string[]
+-}
+-
+-export function everyRow(rows: readonly DrawnRow[]): readonly DrawnRow[] {
+-  return rows.flatMap((row) => [row, ...everyRow(row.children)])
+-}
+-
+-export function glyphCount(text: string): number {
+-  return [...text.replace(NOT_A_GLYPH, "")].length
+-}
+-
+-export function firstLine(said: string): string {
+-  const one = said.split("\n").find((line) => line.trim() !== "")
+-  return one === undefined ? said : one.trim()
+-}
+-
+-function blankLabels(rows: readonly DrawnRow[]): readonly DrawnRow[] {
+-  return rows.filter((row) => row.label === null || row.label.trim() === "")
+-}
+-
+-function idless(rows: readonly DrawnRow[]): readonly DrawnRow[] {
+-  return rows.filter((row) => row.id === null || row.id === "")
+-}
+-
+-function threw(rows: readonly DrawnRow[]): readonly DrawnRow[] {
+-  return rows.filter((row) => row.drewNothing !== null)
+-}
+-
+-export interface TreeExpectation {
+-  readonly viewId: string
+-  readonly said: string
+-  readonly carries: "a turn colour" | "a document to open"
+-  readonly atLeast: number | null
+-}
+-
+-const TREES: readonly TreeExpectation[] = [
+-  { viewId: "opsAgentTree", said: "Agents", carries: "a turn colour", atLeast: null },
+-  { viewId: "opsDomainTree", said: "Domains", carries: "a document to open", atLeast: 500 },
+-  { viewId: "opsWorkTree", said: "Work", carries: "a turn colour", atLeast: null },
+-  { viewId: "opsPageTree", said: "Pages", carries: "a document to open", atLeast: 500 },
+-]
+-
+-export function carried(rows: readonly DrawnRow[], carries: TreeExpectation["carries"]): number {
+-  if (carries === "a turn colour") {
+-    return rows.filter((row) => row.resourceUri !== null && row.resourceUri !== "").length
+-  }
+-  return rows.filter((row) => row.hasCommand).length
+-}
+-
+-export function judgeTree(reading: Drawn, want: TreeExpectation): Verdict {
+-  const panel = reading.panels[want.viewId]
+-  const nothing: readonly string[] = []
+-  if (panel === undefined) {
+-    return {
+-      surface: want.viewId,
+-      green: false,
+-      said: `${want.said} registered no view at all, so the panel the editor shows is not this extension's`,
+-      notes: nothing,
+-    }
+-  }
+-  if (panel.failure !== null) {
+-    return {
+-      surface: want.viewId,
+-      green: false,
+-      said: `${want.said} could not be read: ${firstLine(panel.failure)}`,
+-      notes: nothing,
+-    }
+-  }
+-  const all = everyRow(panel.roots)
+-  if (all.length === 0) {
+-    return {
+-      surface: want.viewId,
+-      green: false,
+-      said: `${want.said} drew no row at all — the panel is empty`,
+-      notes: nothing,
+-    }
+-  }
+-  const blank = blankLabels(all)
+-  const noId = idless(all)
+-  const broke = threw(all)
+-  const holds = carried(all, want.carries)
+-  const notes = [
+-    `${String(panel.roots.length)} roots, ${String(all.length)} rows, ${String(holds)} carrying ${want.carries}`,
+-  ]
+-  const red = (said: string): Verdict => ({ surface: want.viewId, green: false, said, notes })
+-  if (broke.length > 0) {
+-    return red(
+-      `${want.said} threw drawing ${String(broke.length)} of ${String(all.length)} rows: ${firstLine(broke[0]?.drewNothing ?? "")}`
+-    )
+-  }
+-  if (blank.length > 0) {
+-    return red(
+-      `${want.said} drew ${String(blank.length)} of ${String(all.length)} rows with no label, and a row with none is a blank line`
+-    )
+-  }
+-  if (noId.length > 0) {
+-    return red(
+-      `${want.said} drew ${String(noId.length)} of ${String(all.length)} rows with no id, and the editor collapses rows that share one`
+-    )
+-  }
+-  if (holds === 0) {
+-    return red(`${want.said} drew ${String(all.length)} rows and not one carries ${want.carries}`)
+-  }
+-  if (want.atLeast !== null && all.length < want.atLeast) {
+-    return red(
+-      `${want.said} drew ${String(all.length)} rows, under the ${String(want.atLeast)} a tree ` +
+-        "read from the corpus draws — the rows it did draw are well formed, so what is lost here " +
+-        "is lost quietly and only the count says so"
+-    )
+-  }
+-  return {
+-    surface: want.viewId,
+-    green: true,
+-    said: `${want.said} drew ${String(all.length)} rows`,
+-    notes,
+-  }
+-}
+-
+-export function judgeStatusBar(reading: Drawn): Verdict {
+-  const items = reading.statusBar
+-  if (items.length === 0) {
+-    return {
+-      surface: "statusBar",
+-      green: false,
+-      said: "the status bar created no item at all",
+-      notes: [],
+-    }
+-  }
+-  const byId = new Map(items.map((one) => [one.id, one]))
+-  const notes: string[] = [
+-    `${String(items.length)} items: ${items.map((one) => `${one.id}=${one.text ?? "null"}`).join(" ")}`,
+-  ]
+-  const wrong: string[] = []
+-  for (const slot of USAGE_SLOTS) {
+-    const item = byId.get(slot.id)
+-    if (item === undefined) {
+-      wrong.push(`no ${slot.said} slot was created`)
+-      continue
+-    }
+-    if (item.text === null || !A_NUMBER.test(item.text)) {
+-      wrong.push(`${slot.said} reads \`${item.text ?? "null"}\` rather than a number`)
+-    }
+-  }
+-  for (const group of PINNED_GROUPS) {
+-    const item = byId.get(group.id)
+-    if (item === undefined) {
+-      wrong.push(`no ${group.said} group was created`)
+-      continue
+-    }
+-    const shown = glyphCount(item.text ?? "")
+-    if (shown !== group.count) {
+-      wrong.push(
+-        `the ${group.said} group shows ${String(shown)} stoplights and the invariant pins ${String(group.count)}` +
+-          ` (it reads \`${item.text ?? "null"}\`)`
+-      )
+-    }
+-  }
+-  const hidden = items.filter((one) => !one.shown)
+-  if (hidden.length > 0) {
+-    wrong.push(`${String(hidden.length)} items were created and never shown`)
+-  }
+-  if (wrong.length > 0) {
+-    return {
+-      surface: "statusBar",
+-      green: false,
+-      said: `the status bar — ${wrong.join("; ")}`,
+-      notes,
+-    }
+-  }
+-  return {
+-    surface: "statusBar",
+-    green: true,
+-    said:
+-      `the status bar drew ${String(items.length)} slots, both usage numbers and ` +
+-      `${PINNED_GROUPS.map((one) => String(one.count)).join("/")} stoplights`,
+-    notes,
+-  }
+-}
+-
+-export function verdictsOf(reading: Drawn): readonly Verdict[] {
+-  return [...TREES.map((one) => judgeTree(reading, one)), judgeStatusBar(reading)]
+-}
+-
+-export function activationLines(reading: Drawn): readonly string[] {
+-  return reading.channels["Ops: Activation"] ?? []
+-}
+-
+-export function timingReport(reading: Drawn): readonly string[] {
+-  const timings = featureTimings(activationLines(reading))
+-  const byFeature = new Map(timings.map((one) => [one.feature, one]))
+-  const said: string[] = []
+-  const total = reading.activateMs
+-  said.push(
+-    `activation ${total === undefined ? "?" : String(total)}ms wall` +
+-      `, the panel walk ${reading.reportMs === undefined ? "?" : String(reading.reportMs)}ms` +
+-      ` — features start together, so the wall is the slowest of them, not their sum`
+-  )
+-  for (const one of [...timings].sort((a, b) => b.ms - a.ms)) {
+-    const surface = Object.entries(FILLED_BY).find(([, feature]) => feature === one.feature)?.[0]
+-    said.push(
+-      `  ${one.feature.padEnd(16)} ${String(one.ms).padStart(6)}ms` +
+-        (one.state === "activated" ? "" : `  ${one.state.toUpperCase()}`) +
+-        (surface === undefined ? "" : `  (${surface})`)
+-    )
+-  }
+-  for (const [surface, feature] of Object.entries(FILLED_BY)) {
+-    if (!byFeature.has(feature)) {
+-      said.push(
+-        `  ${feature.padEnd(16)}      ?ms  the activation channel timed no start for it (${surface})`
+-      )
+-    }
+-  }
+-  const agentLines = reading.channels["Ops: Agent Tree"] ?? []
+-  const reads = readsLogged(agentLines)
+-  const drew = everyRow(reading.panels["opsAgentTree"]?.roots ?? []).length
+-  if (reads.length > 0) {
+-    said.push(
+-      `  opsAgentTree read ${reads.join(", ")} rows across ${String(reads.length)} reads` +
+-        ` and drew ${String(drew)}`
+-    )
+-  }
+-  for (const line of agentLines) {
+-    if (line.includes("UNREAD")) said.push(`  opsAgentTree ${line.slice(line.indexOf("UNREAD"))}`)
+-  }
+-  return said
+-}
+-
+-export async function main(argv: readonly string[]): Promise<number> {
+-  if (argv.includes("--help") || argv.includes("-h")) {
+-    process.stdout.write(HELP)
+-    return 0
+-  }
+-  let asJson = false
+-  let rawAt: string | null = null
+-  for (let at = 0; at < argv.length; at += 1) {
+-    if (argv[at] === "--json") {
+-      asJson = true
+-      continue
+-    }
+-    if (argv[at] === "--raw") {
+-      const named = argv[at + 1]
+-      if (named === undefined) {
+-        process.stderr.write("error: --raw takes a path after it\n")
+-        return 1
+-      }
+-      rawAt = named
+-      at += 1
+-      continue
+-    }
+-    process.stderr.write(`error: this command takes no flag ${String(argv[at])}\n`)
+-    return 1
+-  }
+-
+-  let reading: Drawn
+-  try {
+-    reading = await drawn(process.cwd(), rawAt)
+-  } catch (err) {
+-    process.stderr.write(`UNJUDGED — ${err instanceof Error ? err.message : String(err)}\n`)
+-    return 4
+-  }
+-
+-  if (asJson) {
+-    process.stdout.write(`${JSON.stringify(reading, null, 2)}\n`)
+-    return 0
+-  }
+-
+-  const verdicts = verdictsOf(reading)
+-  const red = verdicts.filter((one) => !one.green)
+-
+-  if (reading.activateError !== null) {
+-    process.stdout.write(`REFUSED  activation threw: ${firstLine(reading.activateError)}\n`)
+-  }
+-  for (const verdict of verdicts) {
+-    process.stdout.write(
+-      `${verdict.green ? "drawn   " : "EMPTY   "} ${verdict.surface} — ${verdict.said}\n`
+-    )
+-    for (const note of verdict.notes) process.stdout.write(`         ${note}\n`)
+-  }
+-  process.stdout.write("timing  \n")
+-  for (const line of timingReport(reading)) process.stdout.write(`         ${line}\n`)
+-  if (red.length > 0) {
+-    for (const line of activationLines(reading)) {
+-      process.stdout.write(`  activation said: ${line}\n`)
+-    }
+-  }
+-  process.stdout.write(
+-    `${String(verdicts.length - red.length)} of ${String(verdicts.length)} surfaces draw content` +
+-      (red.length === 0 ? "\n" : `; ${red.map((one) => one.surface).join(", ")} do not\n`)
+-  )
+-  return red.length > 0 || reading.activateError !== null ? 2 : 0
+-}
+-
+-if (import.meta.main) process.exitCode = await main(process.argv.slice(2))
+diff --git a/editor-extension/panel-judging/panel-judging.module.test.ts b/editor-extension/panel-judging/panel-judging.module.test.ts
+deleted file mode 100644
+index b9269098104e39a820a959c5e2f548747b1932c4..0000000000000000000000000000000000000000
+--- a/editor-extension/panel-judging/panel-judging.module.test.ts
++++ /dev/null
+@@ -1,230 +0,0 @@
+-import { expect, test } from "bun:test"
+-import type { Drawn, DrawnItem, DrawnRow } from "../panel-reading/panel-reading.module.code.ts"
+-import {
+-  carried,
+-  everyRow,
+-  featureTimings,
+-  firstLine,
+-  glyphCount,
+-  judgeStatusBar,
+-  judgeTree,
+-  readsLogged,
+-  type TreeExpectation,
+-  timingReport,
+-} from "./panel-judging.module.code.ts"
+-
+-function rowOf(over: Partial<DrawnRow> = {}): DrawnRow {
+-  return {
+-    label: "a row",
+-    id: "one",
+-    description: null,
+-    tooltip: null,
+-    resourceUri: "ops://colour",
+-    contextValue: null,
+-    hasCommand: true,
+-    drewNothing: null,
+-    children: [],
+-    ...over,
+-  }
+-}
+-
+-function itemOf(over: Partial<DrawnItem> = {}): DrawnItem {
+-  return {
+-    id: "opsStatusBar.usage.session",
+-    priority: 1,
+-    text: "9%",
+-    tooltip: null,
+-    shown: true,
+-    ...over,
+-  }
+-}
+-
+-function readingOf(over: Partial<Drawn> = {}): Drawn {
+-  return {
+-    activateError: null,
+-    panels: {},
+-    statusBar: [],
+-    channels: {},
+-    commands: [],
+-    ...over,
+-  }
+-}
+-
+-function treeOf(rows: readonly DrawnRow[]): Drawn {
+-  return readingOf({ panels: { opsWorkTree: { registered: true, failure: null, roots: rows } } })
+-}
+-
+-const WORK: TreeExpectation = {
+-  viewId: "opsWorkTree",
+-  said: "Work",
+-  carries: "a turn colour",
+-  atLeast: null,
+-}
+-
+-const FLOORED: TreeExpectation = { ...WORK, viewId: "opsWorkTree", atLeast: 3 }
+-
+-const OPENS: TreeExpectation = { ...WORK, carries: "a document to open" }
+-
+-function statusOf(items: readonly DrawnItem[]): Drawn {
+-  return readingOf({ statusBar: items })
+-}
+-
+-const WHOLE_BAR: readonly DrawnItem[] = [
+-  itemOf({ id: "opsStatusBar.usage.session", text: "9%" }),
+-  itemOf({ id: "opsStatusBar.usage.weekly", text: "41%" }),
+-  itemOf({ id: "opsStatusBar.upkeepStoplights", text: "🟢🟢🟢🟢" }),
+-  itemOf({ id: "opsStatusBar.inboxStoplights", text: "🟢🟢🟢" }),
+-]
+-
+-test("every row of a tree is walked down its whole depth", () => {
+-  const rows = [rowOf({ id: "a", children: [rowOf({ id: "b", children: [rowOf({ id: "c" })] })] })]
+-  expect(everyRow(rows).map((one) => one.id)).toEqual(["a", "b", "c"])
+-})
+-
+-test("a tree registering no view is red", () => {
+-  const said = judgeTree(readingOf(), WORK)
+-  expect(said.green).toBe(false)
+-  expect(said.said).toContain("registered no view")
+-})
+-
+-test("a tree that could not be read is red with its first line", () => {
+-  const reading = readingOf({
+-    panels: { opsWorkTree: { registered: true, failure: "\n  it broke\nand more", roots: [] } },
+-  })
+-  expect(judgeTree(reading, WORK).said).toContain("it broke")
+-})
+-
+-test("a tree drawing no row at all is red", () => {
+-  expect(judgeTree(treeOf([]), WORK).said).toContain("drew no row at all")
+-})
+-
+-test("a row with no label is a blank line and turns the tree red", () => {
+-  expect(judgeTree(treeOf([rowOf(), rowOf({ label: "  " })]), WORK).said).toContain("no label")
+-})
+-
+-test("a row with no id turns the tree red", () => {
+-  expect(judgeTree(treeOf([rowOf(), rowOf({ id: "" })]), WORK).said).toContain("no id")
+-})
+-
+-test("a row that threw is named before any other fault", () => {
+-  const rows = [rowOf({ label: null, id: null, drewNothing: "it threw\nlater" })]
+-  expect(judgeTree(treeOf(rows), WORK).said).toContain("threw drawing")
+-})
+-
+-test("a tree where no row carries what the tree is for is red", () => {
+-  const rows = [rowOf({ resourceUri: null }), rowOf({ resourceUri: "" })]
+-  expect(judgeTree(treeOf(rows), WORK).said).toContain("not one carries a turn colour")
+-})
+-
+-test("a tree drawn from live state is held to no floor", () => {
+-  expect(judgeTree(treeOf([rowOf()]), WORK).green).toBe(true)
+-})
+-
+-test("a tree read from the corpus is red under its floor and green on it", () => {
+-  expect(judgeTree(treeOf([rowOf(), rowOf()]), FLOORED).green).toBe(false)
+-  expect(judgeTree(treeOf([rowOf(), rowOf()]), FLOORED).said).toContain("under the 3")
+-  expect(judgeTree(treeOf([rowOf(), rowOf(), rowOf()]), FLOORED).green).toBe(true)
+-})
+-
+-test("a turn colour is carried by a resource uri and a document by a command", () => {
+-  const rows = [rowOf({ resourceUri: "x", hasCommand: false }), rowOf({ resourceUri: null })]
+-  expect(carried(rows, "a turn colour")).toBe(1)
+-  expect(carried(rows, "a document to open")).toBe(1)
+-})
+-
+-test("a tree asked for a document to open is judged on its commands", () => {
+-  const rows = [rowOf({ hasCommand: false })]
+-  expect(judgeTree(treeOf(rows), OPENS).said).toContain("not one carries a document to open")
+-})
+-
+-test("a green tree notes its roots, its rows and what they carry", () => {
+-  const said = judgeTree(treeOf([rowOf({ children: [rowOf({ id: "b" })] })]), WORK)
+-  expect(said.notes).toEqual(["1 roots, 2 rows, 2 carrying a turn colour"])
+-})
+-
+-test("a variation selector rides on a glyph without being one", () => {
+-  expect(glyphCount("🟢🟢🟢")).toBe(3)
+-  expect(glyphCount("\u{1F7E2}︎\u{1F7E2}")).toBe(2)
+-  expect(glyphCount("")).toBe(0)
+-})
+-
+-test("a status bar creating no item at all is red", () => {
+-  expect(judgeStatusBar(statusOf([])).green).toBe(false)
+-})
+-
+-test("a whole status bar is green", () => {
+-  const said = judgeStatusBar(statusOf(WHOLE_BAR))
+-  expect(said.green).toBe(true)
+-  expect(said.said).toContain("4/3 stoplights")
+-})
+-
+-test("a usage slot reading anything but a number is red", () => {
+-  const bent = WHOLE_BAR.map((one) =>
+-    one.id === "opsStatusBar.usage.weekly" ? itemOf({ ...one, text: "—" }) : one
+-  )
+-  expect(judgeStatusBar(statusOf(bent)).said).toContain("weekly usage reads")
+-})
+-
+-test("a missing usage slot is named rather than passed over", () => {
+-  const short = WHOLE_BAR.filter((one) => one.id !== "opsStatusBar.usage.session")
+-  expect(judgeStatusBar(statusOf(short)).said).toContain("no session usage slot")
+-})
+-
+-test("a group showing fewer stoplights than the invariant pins is red", () => {
+-  const bent = WHOLE_BAR.map((one) =>
+-    one.id === "opsStatusBar.upkeepStoplights" ? itemOf({ ...one, text: "🟢🟢" }) : one
+-  )
+-  expect(judgeStatusBar(statusOf(bent)).said).toContain(
+-    "shows 2 stoplights and the invariant pins 4"
+-  )
+-})
+-
+-test("an item created and never shown is red", () => {
+-  const bent = [...WHOLE_BAR, itemOf({ id: "opsStatusBar.spare", shown: false })]
+-  expect(judgeStatusBar(statusOf(bent)).said).toContain("1 items were created and never shown")
+-})
+-
+-test("a feature's timing is read off the activation channel in each of its three states", () => {
+-  const lines = [
+-    "[agent-tree] activated in 812ms",
+-    "[work-tree] FAILED after 40ms",
+-    "[page-tree] has not finished after 19000ms",
+-    "[status-bar] said something else",
+-  ]
+-  expect(featureTimings(lines)).toEqual([
+-    { feature: "agent-tree", ms: 812, state: "activated" },
+-    { feature: "work-tree", ms: 40, state: "failed" },
+-    { feature: "page-tree", ms: 19000, state: "abandoned" },
+-  ])
+-})
+-
+-test("what the agent tree logged reading is the row count rather than the running count", () => {
+-  expect(readsLogged(["[x] 3 running, 27 rows, 5 roots", "[x] nothing here"])).toEqual([27])
+-})
+-
+-test("a timing report names every surface, timed or not", () => {
+-  const said = timingReport(
+-    readingOf({ activateMs: 900, reportMs: 40, channels: { "Ops: Activation": [] } })
+-  )
+-  expect(said[0]).toContain("activation 900ms wall")
+-  expect(said[0]).toContain("the panel walk 40ms")
+-  expect(said.filter((one) => one.includes("timed no start")).length).toBe(5)
+-})
+-
+-test("a reading with no timings still says the wall it does not know", () => {
+-  expect(timingReport(readingOf())[0]).toContain("activation ?ms wall")
+-})
+-
+-test("a seat going unread is carried into the report rather than judged", () => {
+-  const said = timingReport(
+-    readingOf({
+-      channels: { "Ops: Agent Tree": ["[x] 1 running, 2 rows, 1 roots UNREAD seat-nine"] },
+-    })
+-  )
+-  expect(said.some((one) => one.includes("UNREAD seat-nine"))).toBe(true)
+-})
+-
+-test("a first line skips the blank lines above it", () => {
+-  expect(firstLine("\n\n  it broke  \nand more")).toBe("it broke")
+-  expect(firstLine("")).toBe("")
+-})
+diff --git a/editor-extension/panel-judging/panel-judging.module.ts b/editor-extension/panel-judging/panel-judging.module.ts
+deleted file mode 100644
+index f104fe64210233284364f193952cf4a249522504..0000000000000000000000000000000000000000
+--- a/editor-extension/panel-judging/panel-judging.module.ts
++++ /dev/null
+@@ -1,130 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const panelJudging = {
+-  id: "01a06954-f7dd-7561-b73b-111f01c90afc",
+-  pageTypeSlug: "module",
+-  slug: "panel-judging",
+-  definition: "whether each surface the extension draws carries what that surface is for",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "constraint",
+-      statement:
+-        "An extension drawing four empty panels activates as cleanly as an extension drawing a full tree.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Four trees and the status bar are judged.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A tree registering no view is red rather than empty.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A tree drawing no row at all is red.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row with no label is red.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A row with no id is red.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A tree where no row carries the value the tree is for is red.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A tree read from the corpus is held to a floor rather than to a count.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A floor an order of magnitude under the truth goes stale never.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A tree drawn from live state is held to no floor.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No tree is judged on a row count.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The status bar's two usage slots must each read as a number.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The upkeep group shows four stoplights and the inboxes group three.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The harness domain states those two counts about Alan's two widgets.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Those two counts carry across to both surfaces.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Both surfaces read a group through the same membership.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A variation selector rides on a glyph without being a glyph.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A variation selector is dropped before the count.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An item created and never shown is red.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A surface may be genuinely empty.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Emptiness is the answer to report.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Each feature's cost is printed whether the run is green or red.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Features start together.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The wall is the slowest feature rather than the sum of the features.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No timing budget is pinned.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The rows the agent tree logged reading are printed beside that tree's rows rather than judged.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat going unread is reported and not judged.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The lines each feature said on activation are printed where a surface is red.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here activates anything.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/editor-extension/panel-reading/panel-reading.module.code.ts b/editor-extension/panel-reading/panel-reading.module.code.ts
+deleted file mode 100644
+index 849b68dcd9a9677da208933251331aabca0f00cd..0000000000000000000000000000000000000000
+--- a/editor-extension/panel-reading/panel-reading.module.code.ts
++++ /dev/null
+@@ -1,182 +0,0 @@
+-import {
+-  cpSync,
+-  globSync,
+-  mkdirSync,
+-  mkdtempSync,
+-  readFileSync,
+-  rmSync,
+-  writeFileSync,
+-} from "node:fs"
+-import { tmpdir } from "node:os"
+-import { dirname, join } from "node:path"
+-import { ran } from "@akasha/utils-run/running"
+-
+-export const ENTRY = "editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts"
+-
+-export const STUB = "editor-extension/vscode-stub/vscode-stub.javascript-module.javascript.mjs"
+-
+-const REACHED = /(?<!['"`])\bvscode\d*\.([A-Za-z_][A-Za-z0-9_]*)/g
+-
+-const EXPORTED = /^export (?:const|class|function) ([A-Za-z_][A-Za-z0-9_]*)|^export \{([^}]*)\}/gm
+-
+-const RUN_TIMEOUT_MS = 180_000
+-
+-export function membersReached(bundle: string): readonly string[] {
+-  return [...new Set([...bundle.matchAll(REACHED)].map((one) => one[1] as string))].sort()
+-}
+-
+-export function membersExported(stub: string): ReadonlySet<string> {
+-  const held = new Set<string>()
+-  for (const hit of stub.matchAll(EXPORTED)) {
+-    if (hit[1] !== undefined) held.add(hit[1])
+-    for (const one of (hit[2] ?? "").split(",")) {
+-      const named = one.trim()
+-      if (named !== "") held.add(named)
+-    }
+-  }
+-  return held
+-}
+-
+-export function unnamedIn(bundle: string, stub: string): readonly string[] {
+-  const exported = membersExported(stub)
+-  return membersReached(bundle).filter((one) => !exported.has(one))
+-}
+-
+-export function unnamedSaidAs(unnamed: readonly string[], stub: string): string {
+-  return (
+-    `the extension reaches vscode.${unnamed.join(", vscode.")}, which ${stub} does not export.` +
+-    ` A namespace import answers undefined for those, and undefined would empty a panel` +
+-    ` rather than say why. Add them to the stub.`
+-  )
+-}
+-
+-export interface DrawnRow {
+-  readonly label: string | null
+-  readonly id: string | null
+-  readonly description: string | null
+-  readonly tooltip: string | null
+-  readonly resourceUri: string | null
+-  readonly contextValue: string | null
+-  readonly hasCommand: boolean
+-  readonly drewNothing: string | null
+-  readonly children: readonly DrawnRow[]
+-}
+-
+-export interface DrawnPanel {
+-  readonly registered: boolean
+-  readonly failure: string | null
+-  readonly roots: readonly DrawnRow[]
+-}
+-
+-export interface DrawnItem {
+-  readonly id: string
+-  readonly priority: number | null
+-  readonly text: string | null
+-  readonly tooltip: string | null
+-  readonly shown: boolean
+-}
+-
+-export interface Drawn {
+-  readonly activateError: string | null
+-  readonly activateMs?: number
+-  readonly reportMs?: number
+-  readonly panels: Readonly<Record<string, DrawnPanel>>
+-  readonly statusBar: readonly DrawnItem[]
+-  readonly channels: Readonly<Record<string, readonly string[]>>
+-  readonly commands: readonly string[]
+-}
+-
+-const PROBE = `import { createRequire } from "node:module"
+-import { writeFileSync } from "node:fs"
+-const require = createRequire(import.meta.url)
+-const vscode = require("vscode")
+-const at = process.argv[2]
+-let activateError = null
+-let report = { panels: {}, statusBar: [], channels: {}, commands: [] }
+-const began = Date.now()
+-try {
+-  const ext = await import("./bundle.js")
+-  await ext.activate(vscode.__makeContext())
+-} catch (err) {
+-  activateError = String((err && err.stack) || err)
+-}
+-const activateMs = Date.now() - began
+-// A PANEL WHOSE FIRST DRAWING IS ASYNCHRONOUS HAS NOT DRAWN WHEN \`activate\` RETURNS. The agents
+-// panel samples the editor's terminals before it draws its first rows, so reading the moment
+-// activation returned read that panel as empty and called a working panel broken. Every panel says
+-// on its channel that it drew, so the run waits for that count to stop rising.
+-const SETTLE_MS = 150
+-const SETTLE_BOUND_MS = 10000
+-const until = Date.now() + SETTLE_BOUND_MS
+-let drawings = -1
+-while (Date.now() < until) {
+-  const now = vscode.__drawings()
+-  if (now === drawings) break
+-  drawings = now
+-  await new Promise((go) => setTimeout(go, SETTLE_MS))
+-}
+-const walked = Date.now()
+-try {
+-  report = await vscode.__report()
+-} catch (err) {
+-  activateError = (activateError === null ? "" : activateError + "\\n") + "the reading failed: " + String((err && err.stack) || err)
+-}
+-const reportMs = Date.now() - walked
+-writeFileSync(at, JSON.stringify({ activateError, activateMs, reportMs, ...report }))
+-process.exit(0)
+-`
+-
+-export async function drawn(root: string, rawAt: string | null): Promise<Drawn> {
+-  const out = mkdtempSync(join(tmpdir(), "ext-panels-"))
+-  try {
+-    const built = await Bun.build({
+-      entrypoints: [join(root, ENTRY)],
+-      target: "node",
+-      external: ["vscode"],
+-      outdir: join(out, "built"),
+-    })
+-    if (!built.success) {
+-      throw new Error(`the bundle failed: ${built.logs.map((one) => String(one)).join("; ")}`)
+-    }
+-    const files = globSync("**/*.js", { cwd: join(out, "built") })
+-    const first = files[0]
+-    if (first === undefined) throw new Error("the bundle wrote no file, so nothing was drawn")
+-
+-    const bundle = readFileSync(join(out, "built", first), "utf8")
+-    const stub = readFileSync(join(root, STUB), "utf8")
+-    const unnamed = unnamedIn(bundle, stub)
+-    if (unnamed.length > 0) throw new Error(unnamedSaidAs(unnamed, STUB))
+-
+-    mkdirSync(join(out, "node_modules", "vscode"), { recursive: true })
+-    writeFileSync(join(out, "package.json"), `{ "type": "module" }\n`)
+-    writeFileSync(
+-      join(out, "node_modules", "vscode", "package.json"),
+-      `{ "name": "vscode", "version": "0.0.0", "type": "module", "main": "index.mjs" }\n`
+-    )
+-    cpSync(join(root, STUB), join(out, "node_modules", "vscode", "index.mjs"))
+-    writeFileSync(join(out, "bundle.js"), bundle)
+-    writeFileSync(join(out, "probe.mjs"), PROBE)
+-    const at = join(out, "drawn.json")
+-    const done = ran(["node", join(out, "probe.mjs"), at], {
+-      cwd: out,
+-      env: process.env,
+-      timeout: RUN_TIMEOUT_MS,
+-    })
+-    let read: string
+-    try {
+-      read = readFileSync(at, "utf8")
+-    } catch {
+-      const said = `${done.err}${done.out}`.trim()
+-      throw new Error(
+-        `node wrote no reading and exited ${String(done.code)}: ${said === "" ? "it said nothing" : said}`
+-      )
+-    }
+-    if (rawAt !== null) {
+-      mkdirSync(dirname(rawAt), { recursive: true })
+-      writeFileSync(rawAt, read)
+-    }
+-    return JSON.parse(read) as Drawn
+-  } finally {
+-    rmSync(out, { recursive: true, force: true })
+-  }
+-}
+diff --git a/editor-extension/panel-reading/panel-reading.module.test.ts b/editor-extension/panel-reading/panel-reading.module.test.ts
+deleted file mode 100644
+index c2e9460e9cdf5d2ce2fe37ff13adfe857cdde8af..0000000000000000000000000000000000000000
+--- a/editor-extension/panel-reading/panel-reading.module.test.ts
++++ /dev/null
+@@ -1,62 +0,0 @@
+-import { expect, test } from "bun:test"
+-import {
+-  membersExported,
+-  membersReached,
+-  unnamedIn,
+-  unnamedSaidAs,
+-} from "./panel-reading.module.code.ts"
+-
+-test("a member the bundle reaches is found under any namespace name", () => {
+-  const bundle = "vscode.window.createTreeView(); vscode2.commands.registerCommand()"
+-  expect(membersReached(bundle)).toEqual(["commands", "window"])
+-})
+-
+-test("a member named inside a quote is no reach", () => {
+-  expect(membersReached(`run("vscode.open")`)).toEqual([])
+-  expect(membersReached(`run('vscode.open')`)).toEqual([])
+-  expect(membersReached("run(`vscode.open`)")).toEqual([])
+-})
+-
+-test("the same member reached twice is one member", () => {
+-  expect(membersReached("vscode.window; vscode.window")).toEqual(["window"])
+-})
+-
+-test("a bundle reaching nothing reaches nothing", () => {
+-  expect(membersReached("const held = 1")).toEqual([])
+-})
+-
+-test("a stub exports what it declares and what it names in a list", () => {
+-  const stub = [
+-    "export const window = {}",
+-    "export class TreeItem {}",
+-    "export function make() {}",
+-    "export { one, two as three }",
+-  ].join("\n")
+-  expect([...membersExported(stub)].sort()).toEqual([
+-    "TreeItem",
+-    "make",
+-    "one",
+-    "two as three",
+-    "window",
+-  ])
+-})
+-
+-test("an export list holding nothing names nothing", () => {
+-  expect([...membersExported("export {}")].sort()).toEqual([])
+-})
+-
+-test("a member the stub does not export is unnamed", () => {
+-  const bundle = "vscode.window; vscode.workspace"
+-  expect(unnamedIn(bundle, "export const window = {}")).toEqual(["workspace"])
+-})
+-
+-test("a bundle reaching only what the stub exports leaves nothing unnamed", () => {
+-  expect(unnamedIn("vscode.window", "export const window = {}")).toEqual([])
+-})
+-
+-test("an unnamed member is said with every name spelled out and what to do", () => {
+-  const said = unnamedSaidAs(["workspace", "env"], "a/stub.mjs")
+-  expect(said).toContain("vscode.workspace, vscode.env")
+-  expect(said).toContain("a/stub.mjs does not export")
+-  expect(said).toContain("Add them to the stub.")
+-})
+diff --git a/editor-extension/panel-reading/panel-reading.module.ts b/editor-extension/panel-reading/panel-reading.module.ts
+deleted file mode 100644
+index 4dca3679ec81c5754d24cf26229926e1d8584203..0000000000000000000000000000000000000000
+--- a/editor-extension/panel-reading/panel-reading.module.ts
++++ /dev/null
+@@ -1,81 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const panelReading = {
+-  id: "01a06954-f7dd-77bf-9553-4fdcb4d6edbe",
+-  pageTypeSlug: "module",
+-  slug: "panel-reading",
+-  definition: "what the extension's panels drew, taken by activating it under node",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The extension is activated rather than a model of that extension.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The entry is bundled for node and its `activate` is called the way the host calls that `activate`.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The `vscode` the extension activates against is the stub page beside that extension.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Every member the bundle reaches is read off the bundle and held against the stub before any drawing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A member the stub does not export refuses the run rather than emptying a panel.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "A namespace import answers undefined for a member the stub does not export.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A member named inside a quote is no reach.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Each registered provider is asked for its children and its items down its whole tree.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The reading is the row the editor would draw.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The reading waits for the count of drawings said on the channels to stop rising.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A count still rising at the bound is read all the same rather than refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The reading goes to a file rather than down a pipe.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The run exits rather than waiting, activation leaving poll timers running.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Activation writing no reading refuses with what node said.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Each feature's outcome on activation is kept as the channel that outcome was written to.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here judges the rows drawn.",
+-    },
+-  ],
+-} as const satisfies Module
