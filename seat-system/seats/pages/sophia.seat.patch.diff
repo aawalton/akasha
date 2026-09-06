@@ -1,3 +1,61 @@
+diff --git a/changes/kinds/pages/change-authored.change-kind.ts b/changes/kinds/pages/change-authored.change-kind.ts
+index c008e623201bae38116d2c1424e9a0ed740dba40..f4c6341a7f4fedaf22b91c790f41a7ab8278e395 100644
+--- a/changes/kinds/pages/change-authored.change-kind.ts
++++ b/changes/kinds/pages/change-authored.change-kind.ts
+@@ -7,6 +7,7 @@ export const changeAuthored = {
+   definition: "a change composed by an agent",
+   runsChecks: true,
+   writerOwesReading: true,
++  readersOweReading: true,
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/changes/kinds/pages/change-checked.change-kind.ts b/changes/kinds/pages/change-checked.change-kind.ts
+index 0b0a94cce2f9bf267aaad030fd1a98df228a7359..7ed9e68b5e43b67a5a277e785ee06925792255ac 100644
+--- a/changes/kinds/pages/change-checked.change-kind.ts
++++ b/changes/kinds/pages/change-checked.change-kind.ts
+@@ -7,6 +7,7 @@ export const changeChecked = {
+   definition: "a change a program composed and the checks judge",
+   runsChecks: true,
+   writerOwesReading: false,
++  readersOweReading: false,
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/changes/kinds/pages/change-mechanical.change-kind.ts b/changes/kinds/pages/change-mechanical.change-kind.ts
+index a0e09b8d66eb51fb4bfc7e6242b7bc455b114468..27a19120d04cbc31d689e00f9e2f2ccf9ebce54f 100644
+--- a/changes/kinds/pages/change-mechanical.change-kind.ts
++++ b/changes/kinds/pages/change-mechanical.change-kind.ts
+@@ -7,6 +7,7 @@ export const changeMechanical = {
+   definition: "a change composed by a program",
+   runsChecks: false,
+   writerOwesReading: false,
++  readersOweReading: false,
+   invariants: [
+     {
+       invariantKind: "absence",
+diff --git a/changes/kinds/pages/change-none.change-kind.ts b/changes/kinds/pages/change-none.change-kind.ts
+index 1ec0ca97c58af2418e91c6be0d6dcdade4959e9b..26f1145f96d7190164709231f1f7cdec680ab83c 100644
+--- a/changes/kinds/pages/change-none.change-kind.ts
++++ b/changes/kinds/pages/change-none.change-kind.ts
+@@ -7,4 +7,5 @@ export const changeNone = {
+   definition: "an act that edits nothing",
+   runsChecks: false,
+   writerOwesReading: false,
++  readersOweReading: false,
+ } as const satisfies ChangeKind
+diff --git a/changes/kinds/pages/change-restated.change-kind.ts b/changes/kinds/pages/change-restated.change-kind.ts
+index 61f84e175cd09bf1a4b93aca87d79f8eef41395f..8c7fd54807dbd3f70fc557a10e9337bef99ba780 100644
+--- a/changes/kinds/pages/change-restated.change-kind.ts
++++ b/changes/kinds/pages/change-restated.change-kind.ts
+@@ -7,6 +7,7 @@ export const changeRestated = {
+   definition: "a change saying what a page already said in other words",
+   runsChecks: true,
+   writerOwesReading: false,
++  readersOweReading: false,
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/changes/kinds/properties/readers-owe-reading.boolean-property.ts b/changes/kinds/properties/readers-owe-reading.boolean-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..fa6415ca25ec249e00a76b2ac38cf451f1372fda
