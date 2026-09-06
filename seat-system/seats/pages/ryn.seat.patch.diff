@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/editor-extension/editor-group/editor-group.module.ts b/editor-extension/editor-group/editor-group.module.ts
+index a7283d3f8de6c4ee97e87e12a7895588abb12cbc..c3e5d61cce9a802eb45e85d0a1e36b1173ed77e2 100644
+--- a/editor-extension/editor-group/editor-group.module.ts
++++ b/editor-extension/editor-group/editor-group.module.ts
+@@ -21,7 +21,8 @@ export const editorGroup = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The lowest open column is chosen where neither of the other two is open.",
++      statement:
++        "The lowest open column is chosen where no remembered column and no ancestor's column is open.",
+     },
+     {
+       invariantKind: "departure",
