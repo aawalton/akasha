@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-build-codec/temper-build-codec.workspace-package.ts b/temper/temper-build-codec/temper-build-codec.workspace-package.ts
+index 405c188330de2c566eff50c2d3b8f3b6d843364b..6409a50b95cb2e8777f01371afd33200abd3b7e4 100644
+--- a/temper/temper-build-codec/temper-build-codec.workspace-package.ts
++++ b/temper/temper-build-codec/temper-build-codec.workspace-package.ts
+@@ -38,7 +38,7 @@ export const temperBuildCodec = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every past update stays readable and only the newest one is written.",
++      statement: "Every past update stays readable and only the newest update is written.",
+     },
+     {
+       invariantKind: "departure",
