@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/agents/claude-accounts/modules/health/claude-account-health.module.ts b/agents/claude-accounts/modules/health/claude-account-health.module.ts
-index 1613fe4db8dde3d167906731ff1186d693afa9a1..c199c3bec767983a963b7ebce618b9b02b6c3c38 100644
+index 1613fe4db8dde3d167906731ff1186d693afa9a1..c35ee25282c77a6f19c113e8abeaecb367325fcc 100644
 --- a/agents/claude-accounts/modules/health/claude-account-health.module.ts
 +++ b/agents/claude-accounts/modules/health/claude-account-health.module.ts
 @@ -20,7 +20,7 @@ export const claudeAccountHealth = {
@@ -18,6 +17,16 @@ index 1613fe4db8dde3d167906731ff1186d693afa9a1..c199c3bec767983a963b7ebce618b9b0
        invariantKind: "departure",
 -      statement: "An alert latch carries the instant handed in rather than one read here.",
 +      statement: "An alert latch carries the instant handed in rather than an instant read here.",
+     },
+     {
+       invariantKind: "departure",
+@@ -48,8 +48,7 @@ export const claudeAccountHealth = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A latch handed blank text is a removal, which is the meaning such a mark would carry.",
++      statement: "A latch handed blank text is a removal.",
      },
      {
        invariantKind: "departure",
