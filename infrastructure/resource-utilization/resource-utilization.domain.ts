@@ -17,8 +17,7 @@ export const resourceUtilization = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A resource is fully utilized once work accumulates in front of it, whatever busy time it reports.",
+      statement: "A resource is fully utilized once work accumulates in front of that resource.",
     },
     {
       invariantKind: "departure",
