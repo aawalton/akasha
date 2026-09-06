@@ -1,0 +1,88 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-story-drains-the-backlog.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-story-drains-the-backlog.all-about-alan-question.ts
+index 8360166f115e70e26c65e29b1cf070110c7fd470..5d3078c14a27002f292f9273ba27cda490758981 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-a-story-drains-the-backlog.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-a-story-drains-the-backlog.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherAStoryDrainsTheBacklog = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-a-story-drains-the-backlog",
+   topicSlug: "letting-a-feeling-in-through-a-story",
+-  ask: "Does a story drain my backlog of suppressed feeling, or only relieve the backlog until it refills? I hold a spread over the two rather than a verdict.",
++  ask: "Between draining and relieving I hold a spread rather than a verdict. Does a story drain my backlog of suppressed feeling, or only relieve the backlog until it refills?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-being-fully-seen-would-cost-too-much.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-being-fully-seen-would-cost-too-much.all-about-alan-question.ts
+index 4834dbb25b5bee8833af444465418da156d7d821..8651f879e0be0e066a982ea46d7d3daed4481fd3 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-being-fully-seen-would-cost-too-much.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-being-fully-seen-would-cost-too-much.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherBeingFullySeenWouldCostTooMuch = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-being-fully-seen-would-cost-too-much",
+   topicSlug: "why-i-keep-hard-truths-back",
+-  ask: "Would being fully seen cost the people closest to me more than they can carry? That general judgment under the rule was never put to me.",
++  ask: "Nobody ever put the general judgment under the rule to me. Would being fully seen cost the people closest to me more than they can carry?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-being-seen-is-a-surcharge-or-welded.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-being-seen-is-a-surcharge-or-welded.all-about-alan-question.ts
+index a5a2a8efc5e3521ef0c7b3109468ba6d7d48e40f..91c37b886e5401e8e8a3310edb19f960ec82e57f 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-being-seen-is-a-surcharge-or-welded.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-being-seen-is-a-surcharge-or-welded.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherBeingSeenIsASurchargeOrWelded = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-being-seen-is-a-surcharge-or-welded",
+   topicSlug: "singing-out-loud",
+-  ask: "Is being seen an honest surcharge on singing, or partly a welded charge? Only what neither the feeling floor nor the surcharge explains would tell the two apart.",
++  ask: "Only what neither the feeling floor nor the surcharge explains would tell an honest surcharge from a welded one. Is being seen an honest surcharge on singing, or partly a welded charge?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-closing-the-gap-produces-the-health-effect.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-closing-the-gap-produces-the-health-effect.all-about-alan-question.ts
+index 175ac7cadc40ab519583b092138a2d85c69e6a7c..7af4ec9a66ba1f8962c70bddae16c47c0402928f 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-closing-the-gap-produces-the-health-effect.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-closing-the-gap-produces-the-health-effect.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherClosingTheGapProducesTheHealthEffect = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-closing-the-gap-produces-the-health-effect",
+   topicSlug: "what-loneliness-costs-my-body",
+-  ask: "Does closing the gap produce the broad health effect, or does taking attention off the gap produce the same effect? Both rivals run against the same readouts.",
++  ask: "Does closing the gap produce the broad health effect, or does taking attention off the gap produce the same effect, when both rivals run against the same readouts?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-each-tank-has-its-own-ache.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-each-tank-has-its-own-ache.all-about-alan-question.ts
+index d1b5291130da64af88d1f9fd2e7e57ea50dbc682..22abbb47269ca0812ac82578ca38ab6f781825eb 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-each-tank-has-its-own-ache.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-each-tank-has-its-own-ache.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherEachTankHasItsOwnAche = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-each-tank-has-its-own-ache",
+   topicSlug: "the-four-things-i-need-from-people",
+-  ask: "Does a tank other than being known running low make its own distinct ache, or does every shortfall collapse into one loneliness? I hold one data point here.",
++  ask: "I hold one data point on the tanks. Does a tank other than being known running low make its own distinct ache, or does every shortfall collapse into one loneliness?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-every-lag-sorts-into-the-two-kinds.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-every-lag-sorts-into-the-two-kinds.all-about-alan-question.ts
+index dfe3ca16caa3b9cc1c9a254033c45c550d7ae921..eaccd1643f4955a605b8917675eda9b96295d863 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-every-lag-sorts-into-the-two-kinds.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-every-lag-sorts-into-the-two-kinds.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherEveryLagSortsIntoTheTwoKinds = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-every-lag-sorts-into-the-two-kinds",
+   topicSlug: "why-my-doing-lags-my-believing",
+-  ask: "Does every lag I can name sort into the two kinds with no residue? The two were stated in general and tested mostly on how I connect with people.",
++  ask: "The two kinds were stated in general and tested mostly on how I connect with people. Does every lag I can name sort into those two kinds with no residue?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-familiar-or-new-leads-everywhere.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-familiar-or-new-leads-everywhere.all-about-alan-question.ts
+index 5e504016bfc0ed852421a171246af6bde226e7f9..cc06f7154dce21b8407e4641aca0ddedba80d648 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-familiar-or-new-leads-everywhere.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-familiar-or-new-leads-everywhere.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherFamiliarOrNewLeadsEverywhere = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-familiar-or-new-leads-everywhere",
+   topicSlug: "what-pulls-me-into-doing-something",
+-  ask: "Does a single dimension fire the instinctive channel everywhere, or does the leading dimension shift by context? I rest that on one case.",
++  ask: "One case is all I rest the answer on. Does a single dimension fire the instinctive channel everywhere, or does the leading dimension shift by context?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-grief-and-gratitude-are-one-power-source.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-grief-and-gratitude-are-one-power-source.all-about-alan-question.ts
+index fafd4d0d48b03ad39afc3e153f9d0fb20c106cf0..a8ed3fff2d6fa10efeb06c18bbe4ff655f52ac3f 100644
+--- a/alan/books/all-about-alan/questions/pages/whether-grief-and-gratitude-are-one-power-source.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/whether-grief-and-gratitude-are-one-power-source.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whetherGriefAndGratitudeAreOnePowerSource = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "whether-grief-and-gratitude-are-one-power-source",
+   topicSlug: "the-crowd-that-has-been-me",
+-  ask: "Are grief and gratitude one power source or two? The answer bears on what my will to live is actually running on.",
++  ask: "Since the answer bears on what my will to live is actually running on, are grief and gratitude one power source or two?",
+ } as const satisfies AllAboutAlanQuestion
