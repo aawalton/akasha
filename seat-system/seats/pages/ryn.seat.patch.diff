@@ -1,8 +1,17 @@
 readersOweReading: false
 diff --git a/alan/fitness/commands/exercise-commands.workspace-package.ts b/alan/fitness/commands/exercise-commands.workspace-package.ts
-index 55ab73c95feeed5740213b14c0ad71be3631d639..8e6d5347216d2c3acc1909dd5d71479237889c3d 100644
+index 55ab73c95feeed5740213b14c0ad71be3631d639..6198238fc4817cafbec3eb08cd3b86628baf03d0 100644
 --- a/alan/fitness/commands/exercise-commands.workspace-package.ts
 +++ b/alan/fitness/commands/exercise-commands.workspace-package.ts
+@@ -42,7 +42,7 @@ export const exerciseCommands = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A command here answers as lines for a reader, or as JSON when `--json` is said.",
++      statement: "A command here answers as lines for a reader or as JSON when `--json` is said.",
+     },
+     {
+       invariantKind: "departure",
 @@ -51,7 +51,7 @@ export const exerciseCommands = {
      {
        invariantKind: "gap",
