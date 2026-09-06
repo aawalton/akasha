@@ -5,5 +5,5 @@ export const whetherAskingAboutTheCommitmentShieldDigsAtTheRoot = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-asking-about-the-commitment-shield-digs-at-the-root",
   topicSlug: "the-part-i-have-not-opened",
-  ask: "Does asking whether the commitment shield is still needed count as digging at the root I parked? Nobody has made that call.",
+  ask: "Nobody has made the call. Does asking whether the commitment shield is still needed count as digging at the root I parked?",
 } as const satisfies AllAboutAlanQuestion

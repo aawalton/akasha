@@ -5,5 +5,5 @@ export const whetherAnyoneElseBuiltThisGraph = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-anyone-else-built-this-graph",
   topicSlug: "the-graph-i-built-to-run-my-checks",
-  ask: "Has anyone else built this graph and not talked about it? I have only said I have not heard anyone talk about it.",
+  ask: "I have only said I have not heard anyone talk about this graph. Has anyone else built the graph and not talked about it?",
 } as const satisfies AllAboutAlanQuestion

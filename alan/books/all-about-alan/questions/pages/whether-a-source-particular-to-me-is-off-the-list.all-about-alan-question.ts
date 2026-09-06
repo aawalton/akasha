@@ -5,5 +5,5 @@ export const whetherASourceParticularToMeIsOffTheList = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-a-source-particular-to-me-is-off-the-list",
   topicSlug: "what-wears-my-body-down",
-  ask: "Does a source particular to me sit off the list of usual sources, where ruling things out cannot reach? Grinding a problem at the edge of sleep is one candidate.",
+  ask: "Grinding a problem at the edge of sleep is one candidate. Does a source particular to me sit off the list of usual sources, where ruling things out cannot reach?",
 } as const satisfies AllAboutAlanQuestion

@@ -5,5 +5,5 @@ export const whereChecksAlwaysWinShouldLive = {
   pageTypeSlug: "all-about-alan-question",
   slug: "where-checks-always-win-should-live",
   topicSlug: "how-i-prevent-a-category-of-wrong",
-  ask: "Where should the rule that checks always win live, so the rule binds rather than only describing me? No domain carries the rule today.",
+  ask: "No domain carries the rule that checks always win today. Where should that rule live, so the rule binds rather than only describing me?",
 } as const satisfies AllAboutAlanQuestion

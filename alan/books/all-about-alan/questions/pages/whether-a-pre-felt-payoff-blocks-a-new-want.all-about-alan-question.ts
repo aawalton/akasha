@@ -5,5 +5,5 @@ export const whetherAPreFeltPayoffBlocksANewWant = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-a-pre-felt-payoff-blocks-a-new-want",
   topicSlug: "writing-a-new-want-into-myself",
-  ask: "Does a want needing a pre-felt payoff never install, while a want that reduces to a present irritant takes? That prediction is untested.",
+  ask: "My prediction is untested. Does a want needing a pre-felt payoff never install, while a want that reduces to a present irritant takes?",
 } as const satisfies AllAboutAlanQuestion
