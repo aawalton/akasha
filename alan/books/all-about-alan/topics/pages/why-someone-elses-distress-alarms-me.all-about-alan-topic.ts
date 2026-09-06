@@ -10,6 +10,4 @@ export const whySomeoneElsesDistressAlarmsMe = {
   relatedSlugs: ["what-criticism-does-to-me", "which-lever-reaches-a-response"],
   settled:
     "Her distress fires mine at once, and it is not her feeling arriving in me.\n\nIt is a forecast about my own next minutes: this cue has come before my own pain often enough.\n\nSo I go still and regulate rather than move toward her, which is not what she needs.\n\nIt carries nothing about her. No why, no cause, no what would help.\n\nCalm months lower what I expect from her and leave the reflex at her cues untouched.",
-  unsettled:
-    "It was in place by six and nothing about the training is recoverable. Whether family accounts or the shape of the schedule could recover what taught it is untried.\n\nIt was taught unreliably, so safe stretches look like more of the same training. Whether any evidence updates the reflex, or only the scripts downstream of it can be worked, is open.",
 } as const satisfies AllAboutAlanTopic
