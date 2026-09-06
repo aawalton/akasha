@@ -13,7 +13,11 @@ export const safety = {
     },
     {
       invariantKind: "departure",
-      statement: "A level draws its figure at either end of its scale, the tile drawing it alone.",
+      statement: "A level draws its figure at either end of its scale.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The tile draws that figure alone.",
     },
   ],
 } as const satisfies ReadoutGroup
