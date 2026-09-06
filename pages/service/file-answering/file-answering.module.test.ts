@@ -30,9 +30,14 @@ test("a key naming a property that keeps no file is refused", () => {
   expect("refused" in said && said.refused).toContain("names no file property")
 })
 
-test("a property held outside the commit is refused", () => {
-  const said = filing(ROOT, { ...A_WALLPAPER, key: "lastMessagedAt" })
+test("a file property held outside the commit is refused", () => {
+  const said = filing(ROOT, { pageTypeSlug: "code-check", slug: "typecheck", key: "entries" })
   expect("refused" in said && said.refused).toContain("outside the commit")
+})
+
+test("a property outside the commit that keeps no file is refused for keeping no file", () => {
+  const said = filing(ROOT, { ...A_WALLPAPER, key: "lastMessagedAt" })
+  expect("refused" in said && said.refused).toContain("names no file property")
 })
 
 test("a slug naming no page is refused", () => {
