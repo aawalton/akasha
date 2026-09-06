@@ -56,11 +56,15 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "The runner reads that one from the folder the runner runs in.",
+      statement: "The runner reads the root bunfig.toml from the folder the runner runs in.",
     },
     {
       invariantKind: "departure",
-      statement: "A group is run in batches, and a batch is one run.",
+      statement: "A group is run in batches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A batch is one run.",
     },
     {
       invariantKind: "departure",
@@ -267,15 +271,19 @@ export const codeTests = {
     },
     {
       invariantKind: "departure",
-      statement: "A world that could not be made was given to no one else to sweep.",
+      statement: "A world that could not be made reaches no caller.",
     },
     {
       invariantKind: "departure",
-      statement: "A run is named by path and, where a name is given, by one test's whole name.",
+      statement: "A run is named by path.",
     },
     {
       invariantKind: "departure",
-      statement: "A name reaches the runner escaped and anchored, so the name matches whole.",
+      statement: "A run given a name is named by that test's whole name too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name reaches the runner escaped and anchored.",
     },
     {
       invariantKind: "departure",
