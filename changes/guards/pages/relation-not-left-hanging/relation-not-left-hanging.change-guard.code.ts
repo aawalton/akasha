@@ -5,7 +5,10 @@ import {
   takingIn,
   unreadable,
 } from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import type { Guarding } from "../../../modules/change-guarding/change-guarding.module.types.ts"
+import type {
+  Guard,
+  Guarding,
+} from "../../../modules/change-guarding/change-guarding.module.types.ts"
 
 function hangingOn(path: string, namer: Named): string {
   const names = `\`${namer.path}\` names \`${path}\` as its \`${namer.propertySlug}\``
@@ -44,3 +47,5 @@ export function relationNotLeftHanging(given: Guarding): string | null {
     return unreadable(cause)
   }
 }
+
+export const runGuard: Guard = relationNotLeftHanging

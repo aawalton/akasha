@@ -6,11 +6,11 @@ import { removePage as removeOrdinaryPage } from "../../../pages/remove-page/rem
 
 const PAGE_TYPE = "page-type"
 
-export type Asked = {
+export type RemovePageAsked = {
   readonly at: string
 }
 
-export function removePage(world: World, given: Asked): Answer {
+export function removePage(world: World, given: RemovePageAsked): Answer {
   const said = partedIn(given.at)
   if (said === null || said.sections.length > 0) {
     return refusing(`\`${given.at}\` reads as no page file, so no page is taken away`)
@@ -21,4 +21,8 @@ export function removePage(world: World, given: Asked): Answer {
     )
   }
   return removeOrdinaryPage(world, { at: given.at })
+}
+
+export function runChange(world: World, given: RemovePageAsked): Answer {
+  return removePage(world, given)
 }

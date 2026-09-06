@@ -2,7 +2,10 @@ import {
   takingIn,
   unreadable,
 } from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import type { Guarding } from "../../../modules/change-guarding/change-guarding.module.types.ts"
+import type {
+  Guard,
+  Guarding,
+} from "../../../modules/change-guarding/change-guarding.module.types.ts"
 
 function hangingIn(given: Guarding, taken: readonly string[]): string | null {
   for (const path of taken) {
@@ -23,3 +26,5 @@ export function importNotLeftHanging(given: Guarding): string | null {
     return unreadable(cause)
   }
 }
+
+export const runGuard: Guard = importNotLeftHanging
