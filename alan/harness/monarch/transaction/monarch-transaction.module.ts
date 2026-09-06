@@ -16,11 +16,15 @@ export const monarchTransaction = {
     },
     {
       invariantKind: "departure",
-      statement: "A description is the merchant and the statement line joined, in that order.",
+      statement: "A description is the merchant and the statement line joined in that order.",
     },
     {
       invariantKind: "departure",
-      statement: "An amount is compared in cents, so two sums a hundredth apart are two sums.",
+      statement: "An amount is compared in cents.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two sums a hundredth apart are two sums.",
     },
     {
       invariantKind: "departure",
@@ -48,8 +52,11 @@ export const monarchTransaction = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A window is cut from a moment handed in rather than from the clock, so a run can be repeated.",
+      statement: "A window is cut from a moment handed in rather than from the clock.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run can be repeated.",
     },
     {
       invariantKind: "absence",
