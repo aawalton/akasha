@@ -1,7 +1,10 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { TemperCharacterThing } from "../temper-character-things/temper-character-thing.page-type.ts"
+import type { CompanionRoles } from "./properties/companion-roles.relation-property.ts"
 
-export type TemperCompanionProgress = TemperCharacterThing
+export type TemperCompanionProgress = TemperCharacterThing & {
+  roles?: readonly CompanionRoles[]
+}
 
 export const temperCompanionProgress = {
   id: "01a05fcd-f54b-7497-b549-b7f8ef55b323",
@@ -10,8 +13,15 @@ export const temperCompanionProgress = {
   definition: "how far a companion has come with one account",
   pluralSlug: "temper-companion-progresses",
   extendsSlug: ["page-type/temper-character-thing"],
+  partSlugs: ["relation-property/companion-roles"],
   properties: [
     { pagePropertySlug: "text-property/companion-id", required: true, many: false },
     { pagePropertySlug: "text-property/account-page", required: true, many: false },
+    {
+      pagePropertySlug: "relation-property/companion-roles",
+      required: false,
+      many: true,
+      max: null,
+    },
   ],
 } as const satisfies PageType
