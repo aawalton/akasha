@@ -85,6 +85,10 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
+      statement: "A page type under a judged page type is judged as well.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A record property is judged on the same two counts.",
     },
     {

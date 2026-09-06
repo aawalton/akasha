@@ -33,6 +33,41 @@ function heldAt(one: Held): string {
   return `${one.kind}/${one.slug}`
 }
 
+function keyFor(one: Held): string {
+  return one.descends ? `${PAGE_TYPE}/${one.slug}` : heldAt(one)
+}
+
+function typesBySlug(shadow: Shadow): Map<string, Held> {
+  const found = new Map<string, Held>()
+  for (const at of shadow.index.everyOfType(PAGE_TYPE)) {
+    const value = shadow.pageOf(at.path)
+    if (value === null) continue
+    const slug = textAt(value, SLUG)
+    if (slug === null) continue
+    found.set(slug, { slug, kind: PAGE_TYPE, path: at.path, descends: true })
+  }
+  return found
+}
+
+export function underEach(held: readonly Held[], shadow: Shadow): readonly Held[] {
+  const found = new Map<string, Held>()
+  let types: Map<string, Held> | null = null
+  for (const one of held) {
+    found.set(keyFor(one), one)
+    if (!one.descends) continue
+    types ??= typesBySlug(shadow)
+    for (const under of shadow.index.kindsUnder(one.slug)) {
+      const beneath = types.get(under)
+      if (beneath === undefined) continue
+      const at = `${PAGE_TYPE}/${under}`
+      if (!found.has(at)) found.set(at, beneath)
+    }
+  }
+  return [...found.values()].sort((one, two) =>
+    keyFor(one) < keyFor(two) ? -1 : keyFor(one) > keyFor(two) ? 1 : 0
+  )
+}
+
 function taking(found: Map<string, Held>, one: Held): undefined {
   const at = heldAt(one)
   if (!found.has(at)) found.set(at, one)
@@ -136,7 +171,7 @@ function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const carried = carriedBy(change, shadow.index.pageTypesIn())
   if (carried.length === 0) return []
   const said: Judged[] = []
-  for (const one of judgedIn(carried, shadow)) {
+  for (const one of underEach(judgedIn(carried, shadow), shadow)) {
     said.push(...collisionsIn(one, shadow))
   }
   return said
