@@ -190,20 +190,6 @@ export const codeCheck = {
       ],
     },
     {
-      directiveKind: "rule",
-      name: "Zero At Turning On",
-      act: "Fix every violation a check finds before it judges the whole tree, never freezing them into a list.",
-      warrant:
-        "A check judging the whole tree while its defects stand reads green and blocks nobody.",
-      aids: [
-        "Turning the whole-tree phases on before zero stops every writer at once.",
-        "A check may land with every phase off, which claims nothing and hides nothing.",
-        "Landing it off puts the rule up for argument before it binds anyone.",
-        "Never narrow a judging check's reach to make the count zero.",
-        "Where zero is out of reach, leave the whole-tree phases off until it is not.",
-      ],
-    },
-    {
       directiveKind: "principle",
       name: "Change Reach",
       act: "Limit what a check measures to what the provisional change could invalidate.",
