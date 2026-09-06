@@ -80,16 +80,3 @@ index efc67b62a40611aa5862809c8bffa45bab1356a3..12f7fba638b23e58a4fb99260c462b58
            : undefined,
      }
      const parsed = LocationPinSchema.safeParse(candidate)
-diff --git a/alan/atlas-web/routes/trip.tsx b/alan/atlas-web/routes/trip.tsx
-index aaef1c04f6efb1bda94a6f257a291edfdf4019ef..aeb3a8207a8c370222d32656947c0cc0c22b7abc 100644
---- a/alan/atlas-web/routes/trip.tsx
-+++ b/alan/atlas-web/routes/trip.tsx
-@@ -53,7 +53,7 @@ export async function loader({ params, request }: Route.LoaderArgs) {
- 
-   const now = Date.now()
-   const stops: TripStop[] = basePins.map((p) => {
--    const bucket = timeBucket(p.scheduledStart ?? null, p.scheduledEnd ?? null, now)
-+    const bucket = timeBucket(p.scheduledStartAt ?? null, p.scheduledEndAt ?? null, now)
-     return { ...p, bucket, colorToken: TIME_BUCKET_TOKENS[bucket] }
-   })
- 
