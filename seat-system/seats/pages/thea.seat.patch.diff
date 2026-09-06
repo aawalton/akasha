@@ -79,7 +79,7 @@ index 25747c3ca24bea0fc9678d07fba20adfcc03578a..cc96b28cbec1ad9a39a76a543ffcc624
    if (first === undefined) return []
    const world = worldOf(change.root, carried, change.after, null)
 diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts
-index cf37de23240f15fed7db9212386b1be7fb836949..efbfe582cbb22c70f802399f25099ad7b06df322 100644
+index cf37de23240f15fed7db9212386b1be7fb836949..583c1d24d77a580ed7fcbae06e2ff5c1a437ced4 100644
 --- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts
 +++ b/checks/code-checks/pages/lint-clean/lint-clean.code-check.test.ts
 @@ -17,9 +17,14 @@ import {
@@ -107,3 +107,12 @@ index cf37de23240f15fed7db9212386b1be7fb836949..efbfe582cbb22c70f802399f25099ad7
    '{"recommended":false,"correctness":{"noUnusedVariables":"error"}}}}\n'
  
  const CLEAN = "export function held(): number {\n  return 1\n}\n"
+@@ -74,7 +80,7 @@ test("the files judged are the ones the linter reads, said once and in order", (
+     "akasha/held.css",
+     "akasha/held.md",
+   ]
+-  expect(carriedIn(change(root, changed))).toEqual([
++  expect(carriedIn(change(root, changed), READS)).toEqual([
+     "akasha/held.css",
+     "akasha/held.tsx",
+     "akasha/one.ts",
