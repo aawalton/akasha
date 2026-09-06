@@ -23,7 +23,7 @@ export const categoryRuleAgent = {
     {
       invariantKind: "departure",
       statement:
-        "A handful of rows a year settled by hand costs less than a rule overruling the person who knows.",
+        "A handful of rows a year settled by hand is cheaper than a rule overruling the person who knows.",
     },
   ],
 } as const satisfies PageType
