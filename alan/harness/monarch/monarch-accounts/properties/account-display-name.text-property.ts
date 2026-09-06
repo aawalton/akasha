@@ -17,7 +17,8 @@ export const accountDisplayName = {
     },
     {
       invariantKind: "departure",
-      statement: "Two accounts share a display name where the bank reopened one under a new id.",
+      statement:
+        "Two accounts share a display name where the bank reopened an account under a new id.",
     },
   ],
 } as const satisfies TextProperty
