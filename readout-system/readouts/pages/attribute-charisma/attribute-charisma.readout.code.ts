@@ -13,6 +13,8 @@ const START_TIME = "start-time"
 
 const END_TIME = "end-time"
 
+const RELATIONSHIPS = "relationships"
+
 const MOST_STRETCHES = 200
 
 const MILLISECONDS_TO_THE_HOUR = 3600000
@@ -26,7 +28,7 @@ export function stretchesOf(dayId: string): Readonly<Record<string, unknown>> {
   return {
     "page-type": STRETCH,
     where: { [HELD_ON]: { is: dayId } },
-    keys: [SAFETY_LEVEL, DIFFICULTY_LEVEL, START_TIME, END_TIME],
+    keys: [SAFETY_LEVEL, DIFFICULTY_LEVEL, START_TIME, END_TIME, RELATIONSHIPS],
     "sort-by": START_TIME,
     limit: MOST_STRETCHES,
   }
@@ -37,6 +39,22 @@ export function easeIn(values: Readonly<Record<string, unknown>>): number | null
   const hard = statedAt(values[DIFFICULTY_LEVEL])
   if (safe === null || hard === null) return null
   return safe - hard
+}
+
+/**
+ * Whether a stretch names anybody it was spent with.
+ *
+ * A charisma point is an hour with someone that cost nothing, so the hour has to have been with
+ * someone. A stretch naming nobody was time alone whatever its levels say, and sleep is the plainest
+ * case: it is logged safe and undemanding every night, so before this test a night on its own put
+ * the tile past every rung on the scale by morning.
+ *
+ * A stretch names whoever it was with in a list of relationship ids. A list carrying nothing and no
+ * list at all are the same answer here — neither names anyone.
+ */
+export function namesAnyone(values: Readonly<Record<string, unknown>>): boolean {
+  const held = values[RELATIONSHIPS]
+  return Array.isArray(held) && held.some((one) => typeof one === "string" && one.trim() !== "")
 }
 
 export function hoursIn(values: Readonly<Record<string, unknown>>): number | null {
@@ -53,7 +71,8 @@ export function charismaIn(rows: readonly Row[]): number | null {
     if (ease === null) continue
     const hours = hoursIn(row.values)
     if (hours === null) continue
-    held = (held ?? 0) + (ease >= AT_EASE ? hours : 0)
+    const earns = ease >= AT_EASE && namesAnyone(row.values)
+    held = (held ?? 0) + (earns ? hours : 0)
   }
   return held
 }

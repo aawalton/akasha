@@ -4,7 +4,7 @@ export const attributeCharisma = {
   id: "01a06838-950f-7f4c-9f40-60cc35fa63f5",
   pageTypeSlug: "readout",
   slug: "attribute-charisma",
-  definition: "the points Alan earned on a day for the hours he was more safe than challenged",
+  definition: "the points Alan earned on a day for the hours with someone that cost him nothing",
   code: "ts",
   test: "ts",
   label: "Charisma",
@@ -17,15 +17,27 @@ export const attributeCharisma = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the hours of the day's stretches Alan was at ease over.",
+      statement: "The reading is the hours of the day's stretches Alan spent with someone at ease.",
     },
     {
       invariantKind: "departure",
-      statement: "A stretch is at ease where its safety less its difficulty is one or more.",
+      statement: "A stretch is at ease where its safety less its difficulty reaches one level.",
     },
     {
       invariantKind: "departure",
-      statement: "An hour at ease is one point.",
+      statement: "A stretch is with someone where that stretch names a relationship.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stretch naming nobody adds no hours however far that stretch is at ease.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Sleep names nobody.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An hour with someone at ease is one point.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +49,7 @@ export const attributeCharisma = {
     },
     {
       invariantKind: "departure",
-      statement: "A stretch that is not at ease adds no hours and still makes the day a reading.",
+      statement: "A stretch that earns nothing adds no hours and still makes the day a reading.",
     },
     {
       invariantKind: "departure",

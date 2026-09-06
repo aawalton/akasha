@@ -6,6 +6,7 @@ import {
   easeIn,
   fetchCharismaPoints,
   hoursIn,
+  namesAnyone,
   stretchesOf,
 } from "./attribute-charisma.readout.code.ts"
 
@@ -13,13 +14,20 @@ const DAY = "01a05fc3-145a-7000-9000-000000000000"
 
 const AN_HOUR = 3600000
 
+const JEN = "019db533-f382-757e-93d6-8b217ef99d58"
+
 const ran = (safety: unknown, difficulty: unknown, hours: number, from = 0) => ({
   values: {
     "safety-level": safety,
     "difficulty-level": difficulty,
     "start-time": new Date(from * AN_HOUR).toISOString(),
     "end-time": new Date((from + hours) * AN_HOUR).toISOString(),
+    relationships: [JEN],
   },
+})
+
+const alone = (safety: unknown, difficulty: unknown, hours: number, from = 0) => ({
+  values: { ...ran(safety, difficulty, hours, from).values, relationships: [] },
 })
 
 test("the stretches asked for are the ones beside the day the caller named", () => {
@@ -28,13 +36,38 @@ test("the stretches asked for are the ones beside the day the caller named", () 
   expect(query.where).toEqual({ "daily-tracking": { is: DAY } })
 })
 
-test("both levels and both times are the keys asked for", () => {
+test("both levels, both times and who it was with are the keys asked for", () => {
   expect((stretchesOf(DAY) as Record<string, unknown>).keys).toEqual([
     "safety-level",
     "difficulty-level",
     "start-time",
     "end-time",
+    "relationships",
   ])
+})
+
+test("a stretch is with someone where that stretch names a relationship", () => {
+  expect(namesAnyone(ran(3, 1, 2).values)).toBe(true)
+})
+
+test("a stretch naming an empty list is with nobody", () => {
+  expect(namesAnyone(alone(3, 1, 2).values)).toBe(false)
+})
+
+test("a stretch naming no list at all is with nobody", () => {
+  expect(namesAnyone({ "safety-level": 3 })).toBe(false)
+})
+
+test("a list holding blank text names nobody", () => {
+  expect(namesAnyone({ relationships: ["  ", ""] })).toBe(false)
+})
+
+test("a night alone earns nothing however safe and undemanding it was", () => {
+  expect(charismaIn([alone(1, 0, 6.84)])).toBe(0)
+})
+
+test("a stretch naming nobody adds no hours however far that stretch is at ease", () => {
+  expect(charismaIn([ran(3, 1, 2), alone(5, 0, 9)])).toBe(2)
 })
 
 test("a day is read as holding two hundred stretches at the most", () => {
@@ -75,7 +108,7 @@ test("a stretch that is not at ease adds no hours", () => {
   expect(charismaIn([ran(3, 1, 2), ran(2.5, 2, 4)])).toBe(2)
 })
 
-test("a day whose readable stretches are none of them at ease is a reading of zero", () => {
+test("a day whose readable stretches earn none of them is a reading of zero", () => {
   expect(charismaIn([ran(2.5, 2, 4), ran(2, 2, 3)])).toBe(0)
 })
 

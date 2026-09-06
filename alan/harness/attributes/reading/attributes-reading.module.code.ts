@@ -37,6 +37,7 @@ const AS_THE_STORE_ANSWERS: Readonly<Record<string, string>> = {
   "difficulty-level": "difficultyLevel",
   "start-time": "startTime",
   "end-time": "endTime",
+  relationships: "relationships",
 }
 
 const STRETCH_KEYS = Object.keys(AS_THE_STORE_ANSWERS)
