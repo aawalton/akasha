@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-gauge-does-when-two-bars-are-low.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-gauge-does-when-two-bars-are-low.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cbeedd5f685288cfe0a2b9ca3a9d1d2ca1343cf5
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-the-gauge-does-when-two-bars-are-low.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTheGaugeDoesWhenTwoBarsAreLow = {
++  id: "01a077ed-fd02-7d7c-9bb7-8d989e2b2eec",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-the-gauge-does-when-two-bars-are-low",
++  topicSlug: "not-wanting-to-is-the-gauge",
++  ask: "When two bars are low at once, or the signals conflict, does the gauge resolve which bar it is, or return an ambiguous read that vetoes anyway?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-body-signal-sits-under-safety.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-body-signal-sits-under-safety.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d13f214319445fd2e4db39a950c717314ae53763
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-body-signal-sits-under-safety.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherABodySignalSitsUnderSafety = {
++  id: "01a077ed-fcff-7ec6-b3a2-7db820e38179",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-body-signal-sits-under-safety",
++  topicSlug: "not-wanting-to-is-the-gauge",
++  ask: "Safety has no direct body probe and I reconstruct safety by walking down through easier things. Does any body signal sit under safety?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-readable-signals-need-a-quiet-room.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-readable-signals-need-a-quiet-room.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1870e44c50fb7d6015bba17aa6fdb95b9eccdba4
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-readable-signals-need-a-quiet-room.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyReadableSignalsNeedAQuietRoom = {
++  id: "01a077ed-fd01-7602-a4b9-1753b7d15a84",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-readable-signals-need-a-quiet-room",
++  topicSlug: "not-wanting-to-is-the-gauge",
++  ask: "Do my readable signals need a quiet room, since a quiet signal loses the attention competition in a loud one?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/not-wanting-to-is-the-gauge.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/not-wanting-to-is-the-gauge.all-about-alan-topic.ts
+index b9efbc635aa6247f882684e2dc228027092c3c39..1f4ddb42665ead619ee689f5523702c9b7503c64 100644
+--- a/alan/books/all-about-alan/topics/pages/not-wanting-to-is-the-gauge.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/not-wanting-to-is-the-gauge.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const notWantingToIsTheGauge = {
+   parentSlugs: ["resources"],
+   relatedSlugs: ["rules-instead-of-a-brake"],
+   settled: "It is not wanting to, and it says a bar is low without saying which one.",
+-  unsettled:
+-    "Safety has no direct body probe. It is reconstructed by walking down through easier things, so whether any body signal sits under it is open. And the readable signals may need a quiet room, since a quiet signal loses the attention competition in a loud one.\n\nThe diagnosis is reasonably good rather than perfect. When two bars are low at once, or the signals conflict, does it resolve or return an ambiguous read that vetoes anyway?",
+ } as const satisfies AllAboutAlanTopic
