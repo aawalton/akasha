@@ -734,3 +734,745 @@ index f504685f61c4dbdcc9c7016914900d239136684d..9f20620a43b935f10b76ef4880897976
 +  maxLength: 50,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/fitness/workout-sessions/properties/workout-session-notes.text-property.ts b/alan/fitness/workout-sessions/properties/workout-session-notes.text-property.ts
+index 9f067d7061085e67b781a7802ff87f7728efdfde..4d398843e22c55d2ca42c55389b02bef5dbd00be 100644
+--- a/alan/fitness/workout-sessions/properties/workout-session-notes.text-property.ts
++++ b/alan/fitness/workout-sessions/properties/workout-session-notes.text-property.ts
+@@ -8,6 +8,6 @@ export const workoutSessionNotes = {
+   slug: "workout-session-notes",
+   propertySlug: "notes",
+   definition: "what the session found, written as it closed",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-color.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-color.text-property.ts
+index f0a3a1299d273d871dc2ec233fc47c318b43e5d3..2b46f698c6717427df7e80a7c6569bd7163b2507 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-color.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-color.text-property.ts
+@@ -8,6 +8,6 @@ export const calendarSourceColor = {
+   slug: "calendar-source-color",
+   propertySlug: "color",
+   definition: "the color a source's events are shown in",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-detail-url-template.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-detail-url-template.text-property.ts
+index d2c9a5c20fc932c458fb630f53cf66fa322fe777..c82d177bcde948222cb5c00fbe532b0640ecedb4 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-detail-url-template.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-detail-url-template.text-property.ts
+@@ -8,6 +8,6 @@ export const calendarSourceDetailUrlTemplate = {
+   slug: "calendar-source-detail-url-template",
+   propertySlug: "detail-url-template",
+   definition: "the address of one event, with the event's id left open",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-external-id.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-external-id.text-property.ts
+index 7ec5c6adf40d3bc5cf86baaabf8e24058bb948f8..3b3f4fe28332d6043050b99709ca7df547d709ed 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-external-id.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-external-id.text-property.ts
+@@ -8,6 +8,6 @@ export const calendarSourceExternalId = {
+   slug: "calendar-source-external-id",
+   propertySlug: "external-id",
+   definition: "the id a calendar source gives itself",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-kind.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-kind.text-property.ts
+index ae884b30946473f9868eff7e698bae1ce850f5ea..2df31ccaeb4140880486dfdacfc963c326615b8a 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-kind.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-kind.text-property.ts
+@@ -8,6 +8,6 @@ export const calendarSourceKind = {
+   slug: "calendar-source-kind",
+   propertySlug: "kind",
+   definition: "the sort of calendar a source publishes",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-provider-client.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-provider-client.text-property.ts
+index 99a3453f6850c727861b8153be4ef2b90d9638d5..56f8d9b01ddf22671c5ef73d9f2b164a98a54177 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-provider-client.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-provider-client.text-property.ts
+@@ -8,6 +8,6 @@ export const calendarSourceProviderClient = {
+   slug: "calendar-source-provider-client",
+   propertySlug: "provider-client",
+   definition: "the client that knows how to read a source",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-sync-status.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-sync-status.text-property.ts
+index dffea291dc54e9965799fbaeadc04b1665e00d11..20b0d2b4284c3af15f6322df1dddc768c9cd4284 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-sync-status.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-sync-status.text-property.ts
+@@ -8,6 +8,6 @@ export const calendarSourceSyncStatus = {
+   slug: "calendar-source-sync-status",
+   propertySlug: "sync-status",
+   definition: "whether a source is still read on a pass",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-timezone.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-timezone.text-property.ts
+index 80b5471dfb03241997d95160c647c21cc15ae536..6b183571e5e83ec94059e7d04e648427eec4f35b 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-timezone.text-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-timezone.text-property.ts
+@@ -8,6 +8,6 @@ export const calendarSourceTimezone = {
+   slug: "calendar-source-timezone",
+   propertySlug: "timezone",
+   definition: "the zone a source states its times in",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-age-groups.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-age-groups.text-property.ts
+index 83a16dee0e263658cbf12df6b54611eabe9a87c1..713f253197a34d9fb5be61fbad39e27fa0fafe49 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-age-groups.text-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-age-groups.text-property.ts
+@@ -8,6 +8,6 @@ export const calendarEventAgeGroups = {
+   slug: "calendar-event-age-groups",
+   propertySlug: "age-groups",
+   definition: "the ages an event is meant for",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts
+index e5af2879ce46b2745f27dbd5b2c376466e36d797..efea774addf208a246d9ed5643afcf29b9618a45 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-description.text-property.ts
+@@ -8,6 +8,6 @@ export const calendarEventDescription = {
+   slug: "calendar-event-description",
+   propertySlug: "description",
+   definition: "what a source says an event is",
+-  max: 6000,
++  maxLength: 6000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-external-id.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-external-id.text-property.ts
+index fe147eb06d314a78d82437e416e843c4a8c2cc09..4269d55039d8d258e0025c69f160c91ef19d94b5 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-external-id.text-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-external-id.text-property.ts
+@@ -8,6 +8,6 @@ export const calendarEventExternalId = {
+   slug: "calendar-event-external-id",
+   propertySlug: "external-id",
+   definition: "the id a source gives an event",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-location.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-location.text-property.ts
+index ae13144a1c38e31b771f5702d84a58f6c88d80d1..cf0ea522c386a86de2b637451501001c37e9f59f 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-location.text-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-location.text-property.ts
+@@ -8,6 +8,6 @@ export const calendarEventLocation = {
+   slug: "calendar-event-location",
+   propertySlug: "location",
+   definition: "where an event is held",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-tags.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-tags.text-property.ts
+index 1864f3a70cf4946a0bc07c57f986014b1939d517..1c264d86257afa249d8f2e7cca31e2cba0120ca8 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-tags.text-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-tags.text-property.ts
+@@ -8,6 +8,6 @@ export const calendarEventTags = {
+   slug: "calendar-event-tags",
+   propertySlug: "tags",
+   definition: "what a source tags an event with",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-types.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-types.text-property.ts
+index b9f68b26c71ba684c3de46930e26964999da9253..79935dc4de94d3e424d2b91feae0e44c200937fa 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-types.text-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-types.text-property.ts
+@@ -8,6 +8,6 @@ export const calendarEventTypes = {
+   slug: "calendar-event-types",
+   propertySlug: "event-types",
+   definition: "the sorts a source files an event under",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts b/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts
+index c62dbc2b035eab103defb8ff1dfecaa7d9d48b89..bd9a0e44763cd6387e464d336d20cb09c1858b4b 100644
+--- a/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts
++++ b/alan/harness/monarch/category-rules/category-rule-agents/properties/judgement.text-property.ts
+@@ -8,7 +8,7 @@ export const judgement = {
+   slug: "judgement",
+   propertySlug: "judgement",
+   definition: "what an agent catching a transaction is told to do with it",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/category-rules/properties/match-values.text-property.ts b/alan/harness/monarch/category-rules/properties/match-values.text-property.ts
+index 894caadf554851bfd9077864bcf0af50bc644ccc..9f41af674487f2427dc43f931d8f9e5d73e41239 100644
+--- a/alan/harness/monarch/category-rules/properties/match-values.text-property.ts
++++ b/alan/harness/monarch/category-rules/properties/match-values.text-property.ts
+@@ -8,7 +8,7 @@ export const matchValues = {
+   slug: "match-values",
+   propertySlug: "match-values",
+   definition: "what a clause holds to weigh a transaction against",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/category-rules/properties/rule-note.text-property.ts b/alan/harness/monarch/category-rules/properties/rule-note.text-property.ts
+index 698222b601c3f9a7d86aa8a07e546782a9e96852..83ab7755d5d7ac93098cc22bdd46f3fbc66219e8 100644
+--- a/alan/harness/monarch/category-rules/properties/rule-note.text-property.ts
++++ b/alan/harness/monarch/category-rules/properties/rule-note.text-property.ts
+@@ -8,6 +8,6 @@ export const ruleNote = {
+   slug: "rule-note",
+   propertySlug: "rule-note",
+   definition: "what a rule is about, where its clauses do not say",
+-  max: 300,
++  maxLength: 300,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/monarch/monarch-accounts/properties/account-display-name.text-property.ts b/alan/harness/monarch/monarch-accounts/properties/account-display-name.text-property.ts
+index 5fda6e4ceab37cb37c7a0579a2cf78c83d6b2d86..21f8877fb198e453e1ee34d96a05400ada31760f 100644
+--- a/alan/harness/monarch/monarch-accounts/properties/account-display-name.text-property.ts
++++ b/alan/harness/monarch/monarch-accounts/properties/account-display-name.text-property.ts
+@@ -8,7 +8,7 @@ export const accountDisplayName = {
+   slug: "account-display-name",
+   propertySlug: "account-display-name",
+   definition: "the name and masked number a statement calls an account by",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-categories/properties/category-group.text-property.ts b/alan/harness/monarch/monarch-categories/properties/category-group.text-property.ts
+index 2e3b1477e81de21a7a0bc2db1db111f407124d89..3fc9beee2d872c0bf0dc37a7b4b3a6cd4f596205 100644
+--- a/alan/harness/monarch/monarch-categories/properties/category-group.text-property.ts
++++ b/alan/harness/monarch/monarch-categories/properties/category-group.text-property.ts
+@@ -8,6 +8,6 @@ export const categoryGroup = {
+   slug: "category-group",
+   propertySlug: "category-group",
+   definition: "the heading Monarch files a category under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/monarch/monarch-directions/properties/applies-when.text-property.ts b/alan/harness/monarch/monarch-directions/properties/applies-when.text-property.ts
+index c330f9e126bcd71295f81c4a251594ac6ec79547..514b70012f8ac3b5ca7310712e2674ffdd43e93e 100644
+--- a/alan/harness/monarch/monarch-directions/properties/applies-when.text-property.ts
++++ b/alan/harness/monarch/monarch-directions/properties/applies-when.text-property.ts
+@@ -8,7 +8,7 @@ export const appliesWhen = {
+   slug: "applies-when",
+   propertySlug: "applies-when",
+   definition: "the shape of transaction a direction reaches",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-directions/properties/directs.text-property.ts b/alan/harness/monarch/monarch-directions/properties/directs.text-property.ts
+index 82af70e544b76d02aec9cccef9f255bc15fb5998..a98a7c7fe03fd5f7f902ba7c6ef0119c02b2b5c8 100644
+--- a/alan/harness/monarch/monarch-directions/properties/directs.text-property.ts
++++ b/alan/harness/monarch/monarch-directions/properties/directs.text-property.ts
+@@ -8,7 +8,7 @@ export const directs = {
+   slug: "directs",
+   propertySlug: "directs",
+   definition: "what an agent settling a transaction is told to weigh",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-holdings/properties/security-name.text-property.ts b/alan/harness/monarch/monarch-holdings/properties/security-name.text-property.ts
+index 26ca8f520266912be46bd4155e4b6e0356500640..422623aeab828fdefb9e78c36d4042573e263acc 100644
+--- a/alan/harness/monarch/monarch-holdings/properties/security-name.text-property.ts
++++ b/alan/harness/monarch/monarch-holdings/properties/security-name.text-property.ts
+@@ -8,6 +8,6 @@ export const securityName = {
+   slug: "security-name",
+   propertySlug: "security-name",
+   definition: "what the fund or share a holding is of is called",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/monarch/monarch-holdings/properties/ticker.text-property.ts b/alan/harness/monarch/monarch-holdings/properties/ticker.text-property.ts
+index 8310e754d28ba7ce800777f87e901ce700b76ee1..b23c694d2e89766e7771b34e30d5910683fd36f0 100644
+--- a/alan/harness/monarch/monarch-holdings/properties/ticker.text-property.ts
++++ b/alan/harness/monarch/monarch-holdings/properties/ticker.text-property.ts
+@@ -8,6 +8,6 @@ export const ticker = {
+   slug: "ticker",
+   propertySlug: "ticker",
+   definition: "the short name a security trades under",
+-  max: 12,
++  maxLength: 12,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts b/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts
+index 6ca3a6045c8583738d10fb42d4af71b14083de5a..2e80c327427b2d407303c1dd4297a7f0154afd8d 100644
+--- a/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts
++++ b/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts
+@@ -8,7 +8,7 @@ export const merchantPatterns = {
+   slug: "merchant-patterns",
+   propertySlug: "merchant-patterns",
+   definition: "a run of the bank's own words that names a merchant",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-months/properties/account-name.text-property.ts b/alan/harness/monarch/monarch-months/properties/account-name.text-property.ts
+index b383241159fe18ff6c4fb7307c9abea1c8510989..dfee20a1ec09f9abe0757254e5da623a66e57d70 100644
+--- a/alan/harness/monarch/monarch-months/properties/account-name.text-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/account-name.text-property.ts
+@@ -8,6 +8,6 @@ export const accountName = {
+   slug: "account-name",
+   propertySlug: "account-name",
+   definition: "the account a transaction ran through, as the statement names it",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/monarch/monarch-months/properties/amazon-order-number.text-property.ts b/alan/harness/monarch/monarch-months/properties/amazon-order-number.text-property.ts
+index af1228af0d5f940db68a6cad5979271d409f0e6b..2c524ce611b8906da4281923289722ff2b951a25 100644
+--- a/alan/harness/monarch/monarch-months/properties/amazon-order-number.text-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/amazon-order-number.text-property.ts
+@@ -8,6 +8,6 @@ export const amazonOrderNumber = {
+   slug: "amazon-order-number",
+   propertySlug: "amazon-order-number",
+   definition: "the Amazon order a transaction paid for",
+-  max: 40,
++  maxLength: 40,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/monarch/monarch-months/properties/category-decided-by.text-property.ts b/alan/harness/monarch/monarch-months/properties/category-decided-by.text-property.ts
+index b060080cfa51218d3575fabd8dc1828e42b9e168..66b9fc984f8041e64a5d1486c7b512d8f6071a62 100644
+--- a/alan/harness/monarch/monarch-months/properties/category-decided-by.text-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/category-decided-by.text-property.ts
+@@ -8,6 +8,6 @@ export const categoryDecidedBy = {
+   slug: "category-decided-by",
+   propertySlug: "category-decided-by",
+   definition: "who settled a transaction's category and on what evidence",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/monarch/monarch-months/properties/merchant.text-property.ts b/alan/harness/monarch/monarch-months/properties/merchant.text-property.ts
+index 23f555e237b5c5dcf54c35a8a3f9f8bd49508d9f..14640bcad30a2ac29ea13d2d3f95bb14efe7f19e 100644
+--- a/alan/harness/monarch/monarch-months/properties/merchant.text-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/merchant.text-property.ts
+@@ -8,7 +8,7 @@ export const merchant = {
+   slug: "merchant",
+   propertySlug: "merchant",
+   definition: "who or what a transaction was with",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-months/properties/statement-line.text-property.ts b/alan/harness/monarch/monarch-months/properties/statement-line.text-property.ts
+index efec6c64eeaae1b089da0c1f83090d9257dd6647..4bc841fa96b3171102bafba606d9aa1ec7b6dfc5 100644
+--- a/alan/harness/monarch/monarch-months/properties/statement-line.text-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/statement-line.text-property.ts
+@@ -8,7 +8,7 @@ export const statementLine = {
+   slug: "statement-line",
+   propertySlug: "statement-line",
+   definition: "the words the bank put on a row",
+-  max: 400,
++  maxLength: 400,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-months/properties/transaction-note.text-property.ts b/alan/harness/monarch/monarch-months/properties/transaction-note.text-property.ts
+index 4b697f0a8e567b223972479b0c8f3a78371d22f6..3dec3db1998c5849c76338f590cc78f763eee9f8 100644
+--- a/alan/harness/monarch/monarch-months/properties/transaction-note.text-property.ts
++++ b/alan/harness/monarch/monarch-months/properties/transaction-note.text-property.ts
+@@ -8,7 +8,7 @@ export const transactionNote = {
+   slug: "transaction-note",
+   propertySlug: "transaction-note",
+   definition: "what somebody wrote on a transaction",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts b/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts
+index 1530557169d64553b1c8846feb0e73b52cf8d7c6..3044d19cb84ebbba31b338ceecd4a4b5bbcde144 100644
+--- a/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts
++++ b/alan/harness/monarch/monarch-records/properties/monarch-id.text-property.ts
+@@ -8,7 +8,7 @@ export const monarchId = {
+   slug: "monarch-id",
+   propertySlug: "monarch-id",
+   definition: "the identity Monarch gives one of its records",
+-  max: 40,
++  maxLength: 40,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-tags/properties/tag-colour.text-property.ts b/alan/harness/monarch/monarch-tags/properties/tag-colour.text-property.ts
+index 3f1e173d900bde8cce5583641c45bad558e765fb..ef0819bac7471ef43333d7dc2a0452a66d470547 100644
+--- a/alan/harness/monarch/monarch-tags/properties/tag-colour.text-property.ts
++++ b/alan/harness/monarch/monarch-tags/properties/tag-colour.text-property.ts
+@@ -8,7 +8,7 @@ export const tagColour = {
+   slug: "tag-colour",
+   propertySlug: "tag-colour",
+   definition: "the colour Monarch draws a tag in",
+-  max: 7,
++  maxLength: 7,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/harness/notification-feeds/properties/notification-body.text-property.ts b/alan/harness/notification-feeds/properties/notification-body.text-property.ts
+index ee636f33b59b5213e38f7eb6fb7e504879ab4369..419e70af9f75c12dbc04aa16a2150353eebc9a30 100644
+--- a/alan/harness/notification-feeds/properties/notification-body.text-property.ts
++++ b/alan/harness/notification-feeds/properties/notification-body.text-property.ts
+@@ -8,6 +8,6 @@ export const notificationBody = {
+   slug: "notification-body",
+   propertySlug: "body",
+   definition: "the words under a notification's title",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/notification-feeds/properties/notification-kind.text-property.ts b/alan/harness/notification-feeds/properties/notification-kind.text-property.ts
+index 13d79c4b67e5e2c70d5a97262bc92001dcdf9f84..a955b1e6d7a8708aa644379bfdd5e2e37b3a32e2 100644
+--- a/alan/harness/notification-feeds/properties/notification-kind.text-property.ts
++++ b/alan/harness/notification-feeds/properties/notification-kind.text-property.ts
+@@ -8,6 +8,6 @@ export const notificationKind = {
+   slug: "notification-kind",
+   propertySlug: "kind",
+   definition: "what sort of thing a notification tells a person",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/alan/harness/notification-feeds/properties/notification-link.text-property.ts b/alan/harness/notification-feeds/properties/notification-link.text-property.ts
+index f752d98ac295cab4bd764cb529717a6034cf03a4..92b46171eec446981643f00c249f24fe04e8211e 100644
+--- a/alan/harness/notification-feeds/properties/notification-link.text-property.ts
++++ b/alan/harness/notification-feeds/properties/notification-link.text-property.ts
+@@ -8,6 +8,6 @@ export const notificationLink = {
+   slug: "notification-link",
+   propertySlug: "link",
+   definition: "where a tap on a notification takes the person",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/harness/notification-feeds/properties/notification-source.text-property.ts b/alan/harness/notification-feeds/properties/notification-source.text-property.ts
+index c1481d50bab1972779cef88729ad525c59a8f353..822d071542b30c57d64818f1d8b743ce0dca1b52 100644
+--- a/alan/harness/notification-feeds/properties/notification-source.text-property.ts
++++ b/alan/harness/notification-feeds/properties/notification-source.text-property.ts
+@@ -8,6 +8,6 @@ export const notificationSource = {
+   slug: "notification-source",
+   propertySlug: "source",
+   definition: "what pushed a notification",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/capture-source.text-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/capture-source.text-property.ts
+index a8d3fbfe95b9c991204b4982133fbd681ffb2764..aac3200a775837c3a6a2ccc052556e211ccc4b5c 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/capture-source.text-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/capture-source.text-property.ts
+@@ -8,6 +8,6 @@ export const captureSource = {
+   slug: "capture-source",
+   propertySlug: "capture-source",
+   definition: "the transcript a topic's score was read out of",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration-read.text-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration-read.text-property.ts
+index c1ad9889f51605c850a20c66f2a6976fd361fe54..a644dcf9f22b3bb98b2caec08e4292b166e2bcd3 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration-read.text-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-calibration-read.text-property.ts
+@@ -8,6 +8,6 @@ export const topicCalibrationRead = {
+   slug: "topic-calibration-read",
+   propertySlug: "calibration-read",
+   definition: "how well Alan read his own grasp of a topic, written out",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-node.text-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-node.text-property.ts
+index e5b30a8bbfd4ebb2fd6e8f26ddf8c66105168360..51df1a853a1a902459b6a159370ecc8e682c7d09 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-node.text-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-node.text-property.ts
+@@ -8,6 +8,6 @@ export const topicNode = {
+   slug: "topic-node",
+   propertySlug: "node",
+   definition: "the names of a topic and of every topic above it",
+-  max: 300,
++  maxLength: 300,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/library/reading/books/properties/isbn.text-property.ts b/alan/library/reading/books/properties/isbn.text-property.ts
+index f9f924b5d2ed4925d31f543ad408adb44ee41503..27176c84962e928d45bcdaaddcdb22067e43dc98 100644
+--- a/alan/library/reading/books/properties/isbn.text-property.ts
++++ b/alan/library/reading/books/properties/isbn.text-property.ts
+@@ -8,6 +8,6 @@ export const isbn = {
+   slug: "isbn",
+   propertySlug: "isbn",
+   definition: "the ten-character number an edition was catalogued under",
+-  max: 10,
++  maxLength: 10,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/library/reading/books/properties/isbn13.text-property.ts b/alan/library/reading/books/properties/isbn13.text-property.ts
+index ecbdf9ed05b274297f653f22584e1076e208bd50..6771e6b43dae97b4b06f6b8550debfc768a24fe9 100644
+--- a/alan/library/reading/books/properties/isbn13.text-property.ts
++++ b/alan/library/reading/books/properties/isbn13.text-property.ts
+@@ -8,6 +8,6 @@ export const isbn13 = {
+   slug: "isbn13",
+   propertySlug: "isbn13",
+   definition: "the thirteen-digit number an edition is catalogued under now",
+-  max: 13,
++  maxLength: 13,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/library/reading/books/properties/publisher.text-property.ts b/alan/library/reading/books/properties/publisher.text-property.ts
+index 304076630ceb8db70b570881a9e8bef8eb7153ec..8f9ce5d7ef3ee19d92dc6938fd58f11f9ecf8cc5 100644
+--- a/alan/library/reading/books/properties/publisher.text-property.ts
++++ b/alan/library/reading/books/properties/publisher.text-property.ts
+@@ -8,6 +8,6 @@ export const publisher = {
+   slug: "publisher",
+   propertySlug: "publisher",
+   definition: "who put an edition out",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/library/reading/gbww-readings/properties/gbww-plan-key.text-property.ts b/alan/library/reading/gbww-readings/properties/gbww-plan-key.text-property.ts
+index fcb081d54e2b21ff04d9e191d7be37f5c0f27df5..593532ab5e9aac2e2a8c0623d8b767b79d011f46 100644
+--- a/alan/library/reading/gbww-readings/properties/gbww-plan-key.text-property.ts
++++ b/alan/library/reading/gbww-readings/properties/gbww-plan-key.text-property.ts
+@@ -8,6 +8,6 @@ export const gbwwPlanKey = {
+   slug: "gbww-plan-key",
+   propertySlug: "plan-key",
+   definition: "the name the plan gives a reading",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/library/reading/gbww-readings/properties/gbww-section.text-property.ts b/alan/library/reading/gbww-readings/properties/gbww-section.text-property.ts
+index 7cd97c882c071e4c638285eb2f758ffef0046125..bda7206c43c32eec067267bf9ad1c975f5f05890 100644
+--- a/alan/library/reading/gbww-readings/properties/gbww-section.text-property.ts
++++ b/alan/library/reading/gbww-readings/properties/gbww-section.text-property.ts
+@@ -8,6 +8,6 @@ export const gbwwSection = {
+   slug: "gbww-section",
+   propertySlug: "section",
+   definition: "how much of the work a reading covers",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/library/reading/gbww-readings/properties/gbww-work.text-property.ts b/alan/library/reading/gbww-readings/properties/gbww-work.text-property.ts
+index a1e24d9d2e875508d20a9bfd816eb0c8af142b10..6908341e898d533ad45ecb0148c567e92a2a7d0b 100644
+--- a/alan/library/reading/gbww-readings/properties/gbww-work.text-property.ts
++++ b/alan/library/reading/gbww-readings/properties/gbww-work.text-property.ts
+@@ -8,6 +8,6 @@ export const gbwwWork = {
+   slug: "gbww-work",
+   propertySlug: "work",
+   definition: "the work a reading is taken from",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/library/reading/scripture-passages/properties/scripture-book.text-property.ts b/alan/library/reading/scripture-passages/properties/scripture-book.text-property.ts
+index f9cd9cb821fff66b109c1aabdc6818d2ba9ce6a4..0c4fba459470b155971fbcbf5025742c6cd867f9 100644
+--- a/alan/library/reading/scripture-passages/properties/scripture-book.text-property.ts
++++ b/alan/library/reading/scripture-passages/properties/scripture-book.text-property.ts
+@@ -8,7 +8,7 @@ export const scriptureBook = {
+   slug: "scripture-book",
+   propertySlug: "book",
+   definition: "the book of scripture a passage is in",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/library/watching/episodes/properties/still-path.text-property.ts b/alan/library/watching/episodes/properties/still-path.text-property.ts
+index bd60f9f07f6f0fe4efb80603ff321a780754793d..398cd9bcb707b0615ace6754291f9db9736f7342 100644
+--- a/alan/library/watching/episodes/properties/still-path.text-property.ts
++++ b/alan/library/watching/episodes/properties/still-path.text-property.ts
+@@ -8,7 +8,7 @@ export const stillPath = {
+   slug: "still-path",
+   propertySlug: "still-path",
+   definition: "the path to a frame taken from an episode",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/library/watching/properties/genres.text-property.ts b/alan/library/watching/properties/genres.text-property.ts
+index 71dd7fd1d1dcd4894f1102d6625cd27827f5fd04..5561c129d0362dc9a170976ea747417efcf16f8c 100644
+--- a/alan/library/watching/properties/genres.text-property.ts
++++ b/alan/library/watching/properties/genres.text-property.ts
+@@ -8,7 +8,7 @@ export const genres = {
+   slug: "genres",
+   propertySlug: "genres",
+   definition: "a kind the provider files a collection under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/library/watching/properties/imdb-id.text-property.ts b/alan/library/watching/properties/imdb-id.text-property.ts
+index 25523ef45e8da8bfbadf7a8bcc2911ccf74c8e95..d07c96f5672527594aaee33acffcc552ee792d98 100644
+--- a/alan/library/watching/properties/imdb-id.text-property.ts
++++ b/alan/library/watching/properties/imdb-id.text-property.ts
+@@ -8,7 +8,7 @@ export const imdbId = {
+   slug: "imdb-id",
+   propertySlug: "imdb-id",
+   definition: "the id IMDb gives a show or a film",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/library/watching/properties/poster-path.text-property.ts b/alan/library/watching/properties/poster-path.text-property.ts
+index 8e05617aa4e90865f201ad0f894c144eec0eb68b..5e7a0f31aa6a97ae362eaab9936d8fa43b0645c0 100644
+--- a/alan/library/watching/properties/poster-path.text-property.ts
++++ b/alan/library/watching/properties/poster-path.text-property.ts
+@@ -8,7 +8,7 @@ export const posterPath = {
+   slug: "poster-path",
+   propertySlug: "poster-path",
+   definition: "the path to the artwork representing a collection",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/music/catalog/artists/properties/artist-genre.text-property.ts b/alan/music/catalog/artists/properties/artist-genre.text-property.ts
+index 815ddcd2d005dcf1f2f4f5129cf1f20a0a39232a..45574e8ddb165b58f238cd456b3741a6261ad436 100644
+--- a/alan/music/catalog/artists/properties/artist-genre.text-property.ts
++++ b/alan/music/catalog/artists/properties/artist-genre.text-property.ts
+@@ -8,7 +8,7 @@ export const artistGenre = {
+   slug: "artist-genre",
+   propertySlug: "genre",
+   definition: "a genre the provider files an artist under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/music/catalog/songs/properties/lyrics-source.text-property.ts b/alan/music/catalog/songs/properties/lyrics-source.text-property.ts
+index 1e4d665cba0ba085a113353ecc86015a6f103863..64e3ae876ddbd8c645d9ea3ecd659a2be11a96d5 100644
+--- a/alan/music/catalog/songs/properties/lyrics-source.text-property.ts
++++ b/alan/music/catalog/songs/properties/lyrics-source.text-property.ts
+@@ -8,6 +8,6 @@ export const lyricsSource = {
+   slug: "lyrics-source",
+   propertySlug: "lyrics-source",
+   definition: "the provider the words of a song were fetched from",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/music/catalog/songs/properties/singability.text-property.ts b/alan/music/catalog/songs/properties/singability.text-property.ts
+index b23f6c907520ec7e6252cd3dd0e98be7ae748698..b3636dd6f96b0927ec5831436f4c684d8c8363f7 100644
+--- a/alan/music/catalog/songs/properties/singability.text-property.ts
++++ b/alan/music/catalog/songs/properties/singability.text-property.ts
+@@ -9,7 +9,7 @@ export const singability = {
+   slug: "singability",
+   propertySlug: "singability",
+   definition: "Alan's grade for how well a song sits in his own voice",
+-  max: 2,
++  maxLength: 2,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/music/catalog/songs/properties/song-type.text-property.ts b/alan/music/catalog/songs/properties/song-type.text-property.ts
+index 13e6435f49fb258f78e316a6be68f58a6e213fc9..288c5f175c1813c2d2371b8b9ee4b0c3646cea9c 100644
+--- a/alan/music/catalog/songs/properties/song-type.text-property.ts
++++ b/alan/music/catalog/songs/properties/song-type.text-property.ts
+@@ -8,6 +8,6 @@ export const songType = {
+   slug: "song-type",
+   propertySlug: "song-type",
+   definition: "whether a song is the artist's own composition or a reading of someone else's",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/alan/music/catalog/songs/properties/written.text-property.ts b/alan/music/catalog/songs/properties/written.text-property.ts
+index aea4d044b0a5e26da2cab49ef476036103104684..3347c0411ffd879a2e503b232bd4b7aad8c683e9 100644
+--- a/alan/music/catalog/songs/properties/written.text-property.ts
++++ b/alan/music/catalog/songs/properties/written.text-property.ts
+@@ -8,6 +8,6 @@ export const written = {
+   slug: "written",
+   propertySlug: "written",
+   definition: "whether the artist wrote the song alone or with others",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/alan/music/listening/heard-music/tracks/properties/artist-name.text-property.ts b/alan/music/listening/heard-music/tracks/properties/artist-name.text-property.ts
+index ee5525e7729dd613bbfab3a2c3d19ed004235fc4..6128b8bc155f1c5c827e87be56b2fbed206c6f41 100644
+--- a/alan/music/listening/heard-music/tracks/properties/artist-name.text-property.ts
++++ b/alan/music/listening/heard-music/tracks/properties/artist-name.text-property.ts
+@@ -8,7 +8,7 @@ export const artistName = {
+   slug: "artist-name",
+   propertySlug: "artist-name",
+   definition: "the name Spotify gives an artist",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/music/listening/heard-music/tracks/properties/heard-source.text-property.ts b/alan/music/listening/heard-music/tracks/properties/heard-source.text-property.ts
+index 3740e5cab787db722bc5a39b055bee6490ef50b9..123a8cc2b32ff3b170446a53d89a15fb26ca59d3 100644
+--- a/alan/music/listening/heard-music/tracks/properties/heard-source.text-property.ts
++++ b/alan/music/listening/heard-music/tracks/properties/heard-source.text-property.ts
+@@ -8,7 +8,7 @@ export const heardSource = {
+   slug: "heard-source",
+   propertySlug: "heard-source",
+   definition: "where a heard track was learned from",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/alan/music/listening/heard-music/tracks/properties/spotify-track-id.text-property.ts b/alan/music/listening/heard-music/tracks/properties/spotify-track-id.text-property.ts
+index 1e5319f4756b312f13fefb0496fdbcad2a99bab4..b4382f7bb2e53e1039af5b9c520de363ef366c5f 100644
+--- a/alan/music/listening/heard-music/tracks/properties/spotify-track-id.text-property.ts
++++ b/alan/music/listening/heard-music/tracks/properties/spotify-track-id.text-property.ts
+@@ -8,7 +8,7 @@ export const spotifyTrackId = {
+   slug: "spotify-track-id",
+   propertySlug: "spotify-track-id",
+   definition: "the id Spotify keeps a track under",
+-  max: 22,
++  maxLength: 22,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/music/listening/heard-music/tracks/properties/title-key.text-property.ts b/alan/music/listening/heard-music/tracks/properties/title-key.text-property.ts
+index ac5a456ce714469a6b1805604ad56cfa9f6e4ee5..c9c0c4fa654cd174c56acef1ce6258c424106e4e 100644
+--- a/alan/music/listening/heard-music/tracks/properties/title-key.text-property.ts
++++ b/alan/music/listening/heard-music/tracks/properties/title-key.text-property.ts
+@@ -8,7 +8,7 @@ export const titleKey = {
+   slug: "title-key",
+   propertySlug: "title-key",
+   definition: "the text a track title and an artist name are matched by",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/music/listening/heard-music/tracks/properties/track-name.text-property.ts b/alan/music/listening/heard-music/tracks/properties/track-name.text-property.ts
+index 1435f796956c9cd9a5a330a5033f55d87d1b78e5..aa7a607168fdf51c5649199fa70fa49365fe0d78 100644
+--- a/alan/music/listening/heard-music/tracks/properties/track-name.text-property.ts
++++ b/alan/music/listening/heard-music/tracks/properties/track-name.text-property.ts
+@@ -8,6 +8,6 @@ export const trackName = {
+   slug: "track-name",
+   propertySlug: "track-name",
+   definition: "the name Spotify gives a track",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
