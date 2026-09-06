@@ -12,11 +12,11 @@ index ab3e963190d88bfe91da04c08cf7709bc714f7f0..a41b236bb5bb2f2dad085073bb655b2a
      { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
 diff --git a/changes/pages/restate-value/restate-value.change.code.ts b/changes/pages/restate-value/restate-value.change.code.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..9fd581fe5a7cba1361f2dc0bd8c63c43a1b4504f
+index 0000000000000000000000000000000000000000..278216a007b1946fddeca1a18df8b73c9e7ec01a
 --- /dev/null
 +++ b/changes/pages/restate-value/restate-value.change.code.ts
 @@ -0,0 +1 @@
-+export * from "../../../partial/pages/restate-value/restate-value.change-partial.code.ts"
++export * from "../../partial/pages/restate-value/restate-value.change-partial.code.ts"
 diff --git a/changes/pages/restate-value/restate-value.change.ts b/changes/pages/restate-value/restate-value.change.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..7938a61ed44dd959d5b99f9a155f1f9435300a7c
