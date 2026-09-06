@@ -22,3 +22,15 @@ index 2d0607969007de3db416b5016df8ef21bc7986c0..19d6dd97e20e04077d18bed218db8b53
    viewPlace: 0,
    layout: "list",
    narrows: [
+diff --git a/pages/views/pages/temper-characters-list.view.ts b/pages/views/pages/temper-characters-list.view.ts
+index 3e11aba2d39d68bbe2117216722ab5dcabd284cc..a26d05f61d1df36d69bdf56aa273f48a3155a808 100644
+--- a/pages/views/pages/temper-characters-list.view.ts
++++ b/pages/views/pages/temper-characters-list.view.ts
+@@ -6,6 +6,7 @@ export const temperCharactersList = {
+   slug: "temper-characters-list",
+   title: "List",
+   navSlug: "temper-characters",
++  pageType: "temper-account-character",
+   viewPlace: 0,
+   viewSorts: [{ key: "sort-order", descending: false }],
+   pageSize: 12,
