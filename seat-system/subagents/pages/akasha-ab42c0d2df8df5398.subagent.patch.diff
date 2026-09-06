@@ -1,0 +1,57 @@
+diff --git a/checks/code-checks/pages/file-length/file-length.code-check.test.ts b/checks/code-checks/pages/file-length/file-length.code-check.test.ts
+index b7758fc15392d75249435245683628a9a678853d..ea2ede9a263a38e826ea3b13fc2ada8912e477a8 100644
+--- a/checks/code-checks/pages/file-length/file-length.code-check.test.ts
++++ b/checks/code-checks/pages/file-length/file-length.code-check.test.ts
+@@ -282,8 +282,14 @@ function seeded(value: Value): string {
+   ])
+   valueAlsoFiled(root, NAMED, [{ path: PROPERTY_AT, value }])
+   listedFiled(root, "page-type", "workspace", [{ path: TYPE_AT, id: TYPE_ID }])
++  valueAlsoFiled(root, "page-type", [
++    { path: TYPE_AT, value: { id: TYPE_ID, pageTypeSlug: "page-type", slug: "workspace" } },
++  ])
+   idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+   listedFiled(root, "workspace", "one", [{ path: OWNER_AT, id: OWNER_ID }])
++  valueAlsoFiled(root, "workspace", [
++    { path: OWNER_AT, value: { id: OWNER_ID, pageTypeSlug: "workspace", slug: "one" } },
++  ])
+   relationFiled(root, PROPERTY_ID, "page-property-slug", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+   alsoSeeded(root)
+   return root
+diff --git a/command-system/commands/move/outside/move-outside.module.test.ts b/command-system/commands/move/outside/move-outside.module.test.ts
+index 6292c976f4b417ecf1d84e7f856aeef2d5acac36..86ea475a84bbfe371241bd30a1462a33b61f3a5b 100644
+--- a/command-system/commands/move/outside/move-outside.module.test.ts
++++ b/command-system/commands/move/outside/move-outside.module.test.ts
+@@ -92,8 +92,14 @@ function lockfileFiled(root: string): string {
+     { path: PROPERTY_AT, value: { fileName: LOCK_NAME, machineWritten: true } },
+   ])
+   listedFiled(root, "page-type", "workspace", [{ path: TYPE_AT, id: TYPE_ID }])
++  valueAlsoFiled(root, "page-type", [
++    { path: TYPE_AT, value: { id: TYPE_ID, pageTypeSlug: "page-type", slug: "workspace" } },
++  ])
+   idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+   listedFiled(root, "workspace", "one", [{ path: OWNER_AT, id: OWNER_ID }])
++  valueAlsoFiled(root, "workspace", [
++    { path: OWNER_AT, value: { id: OWNER_ID, pageTypeSlug: "workspace", slug: "one" } },
++  ])
+   relationFiled(root, PROPERTY_ID, "page-property-slug", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+   return root
+ }
+diff --git a/context/warrants/file-itself/file-itself.context-warrant.test.ts b/context/warrants/file-itself/file-itself.context-warrant.test.ts
+index c424e25b73ecf255dd75089ef59fa63e79c2df7e..5483520e0abceb8b08218e91367451039996ce07 100644
+--- a/context/warrants/file-itself/file-itself.context-warrant.test.ts
++++ b/context/warrants/file-itself/file-itself.context-warrant.test.ts
+@@ -58,8 +58,14 @@ function seeded(value: Value): string {
+   ])
+   valueAlsoFiled(root, NAMED, [{ path: PROPERTY_AT, value }])
+   listedFiled(root, PAGE_TYPE, WORKSPACE, [{ path: TYPE_AT, id: TYPE_ID }])
++  valueAlsoFiled(root, PAGE_TYPE, [
++    { path: TYPE_AT, value: { id: TYPE_ID, pageTypeSlug: PAGE_TYPE, slug: WORKSPACE } },
++  ])
+   idFiled(root, TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+   listedFiled(root, WORKSPACE, "one", [{ path: OWNER_AT, id: OWNER_ID }])
++  valueAlsoFiled(root, WORKSPACE, [
++    { path: OWNER_AT, value: { id: OWNER_ID, pageTypeSlug: WORKSPACE, slug: "one" } },
++  ])
+   relationFiled(root, PROPERTY_ID, "page-property-slug", TYPE_ID, [{ path: TYPE_AT, id: TYPE_ID }])
+   writing(root, OWNER_AT, "one\n")
+   writing(root, LOCKFILE, "one\n")
