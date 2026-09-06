@@ -23,7 +23,7 @@ export const noSopsOnDevStdin = {
     {
       invariantKind: "departure",
       statement:
-        "A string reached through an array literal counts as one written straight into the call.",
+        "A string reached through an array literal counts as a string written straight into the call.",
     },
     {
       invariantKind: "departure",
