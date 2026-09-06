@@ -8,6 +8,6 @@ export const brusselsAirportBruEuropeExit = {
   collection: "europe-trip-2026",
   latitude: 50.9014,
   longitude: 4.4844,
-  scheduledEnd: "2026-07-23T10:00:00.000Z",
+  scheduledEndAt: "2026-07-23T10:00:00.000Z",
   scheduledStartAt: "2026-07-23T10:00:00.000Z",
 } as const satisfies Location
