@@ -1,3 +1,15 @@
+diff --git a/alan/books/all-about-alan/all-about-alan.domain.ts b/alan/books/all-about-alan/all-about-alan.domain.ts
+index bce54ba9bde665b896622648a7bf062748eae7d4..1b5bdfcd3edd93b8bf91db9ff9fc2c9c837df148 100644
+--- a/alan/books/all-about-alan/all-about-alan.domain.ts
++++ b/alan/books/all-about-alan/all-about-alan.domain.ts
+@@ -8,6 +8,7 @@ export const allAboutAlan = {
+   partSlugs: [
+     "page-type/all-about-alan-experiment",
+     "page-type/all-about-alan-model",
++    "page-type/all-about-alan-question",
+     "page-type/all-about-alan-topic",
+   ],
+   invariants: [
 diff --git a/alan/books/all-about-alan/questions/all-about-alan-question.page-type.ts b/alan/books/all-about-alan/questions/all-about-alan-question.page-type.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..45529353f3aa642a7f628ffda9c6c6e111a2d3ca
