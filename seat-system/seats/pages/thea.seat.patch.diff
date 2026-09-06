@@ -2505,10 +2505,10 @@ index f64dbd5d5689177c4a94b6166f225d37e64a6052..a64fba111814981d8701e5de24a57f47
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
-index 8980d6953a263d68815ee5222852fde915a963c7..f3923fa9a0306309e40067a4aa7c889da8d7a16d 100644
+index e4375117c9a2ecd4afc2779870d43fbbd0e92052..5f566c722891053e0dea97e611b94c6ec3d890be 100644
 --- a/changes/change.page-type.ts
 +++ b/changes/change.page-type.ts
-@@ -54,7 +54,12 @@ export const change = {
+@@ -55,7 +55,12 @@ export const change = {
    ],
    properties: [
      { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
@@ -3767,7 +3767,7 @@ index d09704deb1ae356c9453c7ffeed5830cb222e3d7..a7695954ae8b7d81d87e0d3ed61618bf
    invariants: [
      {
 diff --git a/domains/properties/definition.text-property.ts b/domains/properties/definition.text-property.ts
-index c4f285d1e65546d50af8c7873988598e7f87d2c4..c06173f571f29f651ef0e20785769413d724c0ca 100644
+index c4f285d1e65546d50af8c7873988598e7f87d2c4..c2d51f6db5f8984ef2fb281adc5a80126c782eed 100644
 --- a/domains/properties/definition.text-property.ts
 +++ b/domains/properties/definition.text-property.ts
 @@ -8,7 +8,7 @@ export const definition = {
@@ -3779,6 +3779,16 @@ index c4f285d1e65546d50af8c7873988598e7f87d2c4..c06173f571f29f651ef0e20785769413
    nameFormatSlug: null,
    invariants: [
      {
+@@ -29,8 +29,7 @@ export const definition = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Where a second concern is needed to cover the area, that area is more than one domain.",
++      statement: "An area needing a second concern to cover it is more than one domain.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/domains/properties/directives.record-property.ts b/domains/properties/directives.record-property.ts
 index d68bb8e6a725017435ccaadb039dc2dd5406057a..ba7dab64d3fd6c94bd54fd7dee3549f0636f7783 100644
 --- a/domains/properties/directives.record-property.ts
