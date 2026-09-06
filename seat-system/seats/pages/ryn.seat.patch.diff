@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/tracking/daily/eso-days/properties/listens.page-property-entry.ts b/alan/tracking/daily/eso-days/properties/listens.page-property-entry.ts
+index 66c57427f448480379f96443fabe167db2fc77cd..8a7dfe9eb59875e269bb1aa16d1bb505314db795 100644
+--- a/alan/tracking/daily/eso-days/properties/listens.page-property-entry.ts
++++ b/alan/tracking/daily/eso-days/properties/listens.page-property-entry.ts
+@@ -27,7 +27,7 @@ export const listens = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A play key names one listen and no other.",
++      statement: "A play key names a single listen.",
+     },
+     {
+       invariantKind: "absence",
