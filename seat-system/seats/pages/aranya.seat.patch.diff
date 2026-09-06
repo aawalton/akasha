@@ -57,3 +57,20 @@ index 0000000000000000000000000000000000000000..55d5464de667d5e42db5e5bec2b990bb
 +  slug: "collections-secrets-github-token",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "GITHUB_TOKEN" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-jwt-secret.secret.ts b/service-system/secrets/pages/collections-secrets-jwt-secret.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..aef59bf3c054e292f532913a1b4032674f239da6
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-jwt-secret.secret.ts
+@@ -0,0 +1,11 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsJwtSecret = {
++  id: "01a076b6-9349-7b5a-b8f8-d780de29be90",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-jwt-secret",
++  placements: [
++    { resourceName: "collections-secrets", resourceKey: "JWT_SECRET" },
++    { resourceName: "collections-secrets", resourceKey: "ZERO_AUTH_SECRET" },
++  ],
++} as const satisfies Secret
