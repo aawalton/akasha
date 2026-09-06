@@ -46,7 +46,8 @@ export const chessPuzzleSet = {
     },
     {
       invariantKind: "departure",
-      statement: "A row's position in Forsyth-Edwards notation is the one the solver moves from.",
+      statement:
+        "A row's position in Forsyth-Edwards notation is the position the solver moves from.",
     },
   ],
 } as const satisfies PageType
