@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-often-a-painless-drift-needs-a-signal.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-often-a-painless-drift-needs-a-signal.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3b23fa3065803d4a784d37c4c006e36678a7b64b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-often-a-painless-drift-needs-a-signal.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howOftenAPainlessDriftNeedsASignal = {
++  id: "01a077ec-a1a0-7895-a470-9122375f37d3",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-often-a-painless-drift-needs-a-signal",
++  topicSlug: "nothing-i-do-starts-with-a-decision",
++  ask: "A drift that costs me no pain never escalates, so I have to schedule a signal for that drift. How often should the signal fire?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-chooses-between-rewriting-and-grinding.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-chooses-between-rewriting-and-grinding.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..24850e2046746d61a10d1af8ddbb7152bdbbf5b4
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-chooses-between-rewriting-and-grinding.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatChoosesBetweenRewritingAndGrinding = {
++  id: "01a077ec-a1a1-7872-b483-2b2038d984a2",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-chooses-between-rewriting-and-grinding",
++  topicSlug: "nothing-i-do-starts-with-a-decision",
++  ask: "When something fires a project to change my own triggers, what decides between rewriting the causes and grinding the response down?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-positive-pull-ever-starts-me.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-positive-pull-ever-starts-me.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bde2d1fb1cabda5d3fd44448aa75ddadbcee59bb
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-positive-pull-ever-starts-me.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherPositivePullEverStartsMe = {
++  id: "01a077ec-a19f-7985-96b4-b48278019c09",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-positive-pull-ever-starts-me",
++  topicSlug: "nothing-i-do-starts-with-a-decision",
++  ask: "Is anything I do ever started by positive pull rather than by discomfort, or is interest only a pull left unfilled?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-responses-are-worth-retraining.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-responses-are-worth-retraining.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a4bcb3926854114aa26507e0299c5683e348127f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-responses-are-worth-retraining.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichResponsesAreWorthRetraining = {
++  id: "01a077ec-a1a1-711f-8b52-23aa1d9a97d4",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-responses-are-worth-retraining",
++  topicSlug: "nothing-i-do-starts-with-a-decision",
++  ask: "Which responses are worth retraining, and which responses do I route around on the way in for good?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/nothing-i-do-starts-with-a-decision.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/nothing-i-do-starts-with-a-decision.all-about-alan-topic.ts
+index 445e04fc0f3a06fdd1e93343acf80aba12d7039b..9e1cc5c1d58574f0537db5a920bc44cdd14fe351 100644
+--- a/alan/books/all-about-alan/topics/pages/nothing-i-do-starts-with-a-decision.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/nothing-i-do-starts-with-a-decision.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const nothingIDoStartsWithADecision = {
+   relatedSlugs: ["how-i-decide", "why-a-threat-stays-fresh"],
+   settled:
+     "Everything I do is fired by something. Nothing is begun by deciding to.\n\nRight and true are one word to me, so once a thing sits in my map as right the act runs. No gap to cross.\n\nWhat matters is loud, and whatever is bottlenecking me is the loudest thing in the field.\n\nCheap change is on the way in: I rewrite what reaches me rather than how I answer it.\n\nExpensive change is pain grinding the response down over many repetitions. Nothing teaches me like pain.",
+-  unsettled:
+-    "Whether anything is ever started by positive pull rather than discomfort is unresolved. Interest may only be a pull left unfilled.\n\nA drift that costs me no pain never escalates, so a signal has to be scheduled and nothing says how often.\n\nWhich responses are worth retraining, and which get routed around on the way in for good, is unprobed.\n\nWhen something fires a project to change my own triggers, what decides between rewriting the causes and grinding the response is untraced.",
+ } as const satisfies AllAboutAlanTopic
