@@ -1,0 +1,39 @@
+diff --git a/readout-system/readout-serving/readout-serving.module.test.ts b/readout-system/readout-serving/readout-serving.module.test.ts
+index 23e6ccf632ef4a59447346da5c894506933997f6..5ab2b90fdc70d09fdf65c228c6afd4504d82f22c 100644
+--- a/readout-system/readout-serving/readout-serving.module.test.ts
++++ b/readout-system/readout-serving/readout-serving.module.test.ts
+@@ -22,6 +22,7 @@ const TAKEN = "2026-08-31T12:00:00.000Z"
+ let store: ReturnType<typeof Bun.serve>
+ let server: ReturnType<typeof Bun.serve>
+ let origin: string
++let heldOrigin: string | undefined
+ 
+ const READOUT_ROW = {
+   slug: READOUT,
+@@ -44,6 +45,7 @@ beforeAll(() => {
+       return Response.json({ rows: [SCALE_ROW] })
+     },
+   })
++  heldOrigin = process.env.PAGES_SERVICE_ORIGIN
+   process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
+   server = Bun.serve({
+     port: 0,
+@@ -52,9 +54,17 @@ beforeAll(() => {
+   origin = `http://localhost:${server.port}`
+ })
+ 
++// THE ORIGIN THIS FILE SET IS THE WHOLE PROCESS'S, AND COMES BACK WHEN THE STORE GOES.
++//
++// Every test file in one run shares one process, so a file leaving this origin in place leaves
++// every later file asking this store rather than the store the run was pointed at. Stopping the
++// store does not cover that on its own: `stop` leaves an open connection open, and `fetch` holds
++// one, so a stopped store goes on answering the file that runs next.
+ afterAll(() => {
+   server.stop()
+-  store.stop()
++  store.stop(true)
++  if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
++  else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
+ })
+ 
+ beforeEach(() => {
