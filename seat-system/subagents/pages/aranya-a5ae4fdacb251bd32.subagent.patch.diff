@@ -40,6 +40,20 @@ index 0000000000000000000000000000000000000000..853f5294775b7077bceaf02735306ee8
 +  slug: "realtime-secrets-db-enc-key",
 +  placements: [{ resourceName: "realtime-secrets", resourceKey: "DB_ENC_KEY" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/realtime-secrets-metrics-jwt-secret.secret.ts b/service-system/secrets/pages/realtime-secrets-metrics-jwt-secret.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1b6aacdc34a41020ac28fb4343abe102b23af28a
+--- /dev/null
++++ b/service-system/secrets/pages/realtime-secrets-metrics-jwt-secret.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const realtimeSecretsMetricsJwtSecret = {
++  id: "01a07699-dde0-7222-a8c2-61b2342cc09d",
++  pageTypeSlug: "secret",
++  slug: "realtime-secrets-metrics-jwt-secret",
++  placements: [{ resourceName: "realtime-secrets", resourceKey: "METRICS_JWT_SECRET" }],
++} as const satisfies Secret
 diff --git a/service-system/secrets/pages/realtime-secrets-secret-key-base.secret.ts b/service-system/secrets/pages/realtime-secrets-secret-key-base.secret.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..f887ff5a7c85dd6df149de0ecc1f8f5d51a14191
