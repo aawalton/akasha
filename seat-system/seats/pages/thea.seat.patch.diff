@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/collections/collection.page-type.ts b/collections/collection.page-type.ts
+index 7bcc832c90e0a2842d943bce0a6b3ae53c60b3ab..08ed2fca0aaf521078f224278e057a6c15b4e28e 100644
+--- a/collections/collection.page-type.ts
++++ b/collections/collection.page-type.ts
+@@ -42,7 +42,7 @@ export const collection = {
+   id: "01a063de-2c60-7006-8395-50a12e499f8e",
+   pageTypeSlug: "page-type",
+   slug: "collection",
+-  definition: "something for a person to experience",
++  definition: "something a person experiences",
+   pluralSlug: "collections",
+   partSlugs: [
+     "boolean-property/following",
