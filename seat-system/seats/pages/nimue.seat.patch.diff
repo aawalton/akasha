@@ -1,0 +1,18 @@
+diff --git a/domains/findings/pages/a-calculations-holds-and-its-return-type-are-one-rule-written-twice.finding.ts b/domains/findings/pages/a-calculations-holds-and-its-return-type-are-one-rule-written-twice.finding.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b49215f6a08aedc41bdb0de6e5ead68c3d7bd349
+--- /dev/null
++++ b/domains/findings/pages/a-calculations-holds-and-its-return-type-are-one-rule-written-twice.finding.ts
+@@ -0,0 +1,12 @@
++import type { Finding } from "../finding.page-type.ts"
++
++export const aCalculationsHoldsAndItsReturnTypeAreOneRuleWrittenTwice = {
++  id: "01a07694-85e5-7478-92fa-70efeedcd058",
++  pageTypeSlug: "finding",
++  slug: "a-calculations-holds-and-its-return-type-are-one-rule-written-twice",
++  domainSlug: "workspace-package/page",
++  claim:
++    'A computed property states the kind it holds on its page and states it again in the type its calculation returns, and nothing compares the two. A property stating `holds: "number"` beside a code file exporting `Work<Page, string>` typechecks, passes every check, and lands. The disagreement is caught when a query asks that property and not before, so a landing that is wrong reads exactly like a landing that is right.',
++  evidence:
++    '`pages/computed-properties/computed-property.page-type.ts` declares `Work<Page, Held>` with `Held` free, so the return type is whatever the code file names and the compiler has nothing to check it against. The kind the page states is a separate value on a separate file: `holds`, from `pages/computed-properties/properties/holds.select-property.ts`, which admits text, number, boolean, instant and date.\n\nBoth files already say the disagreement is refused. The page type: "A calculation answering another kind than the computed property states is refused." The property: "A calculation answering another kind than the kind stated here is refused." Both are true, and both describe the same runtime guard, which is at `pages/computing/page-computing.module.code.ts:91-103` — `JUDGED[one.holds]` picks the test, and the refusal reads "`<slug>` states it holds <kind>, and its calculation answered <kind>". That is a reader refusing an answer, not a check refusing a landing.\n\nSo the rule is enforced where it costs a reader and not where it would cost the agent who wrote the disagreement. The gap is the same shape as the one `calculation-imports-only-types` closed: a value import in a calculation\'s code file also typechecks, also lands, and also fails only at query time. That check exists because the compiler cannot see the fault. Neither can it see this one.\n\nThe population is 33 calculations, 25 holding number and 8 holding text. No calculation holds boolean, instant or date, so the two kinds actually in use are the two a wrong return type would most easily transpose.\n\nA check would compare the `holds` a computed property states against the second type argument of the `Work<...>` its code file exports. Both are in the two files a landing already carries, so the check reads no third place. Alan has settled that this is not built now.',
++} as const satisfies Finding
