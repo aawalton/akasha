@@ -4,7 +4,7 @@ export const treeDrawing = {
   id: "01a07290-1f4c-7a63-9e21-58c0bd47e3f2",
   pageTypeSlug: "module",
   slug: "tree-drawing",
-  definition: "the work, domains and pages trees put into the one row every tree carries",
+  definition: "the work, domains, pages and agents trees put into the one row every tree carries",
   code: "ts",
   invariants: [
     {
@@ -34,12 +34,52 @@ export const treeDrawing = {
     },
     {
       invariantKind: "departure",
+      statement: "The subagents under a seat are the subagent pages naming that seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent page is joined onto its seat's row through the seat's name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent page naming a seat no row answers to is left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent row is labelled by the kind that subagent was dispatched as.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent stating no kind is labelled by the id that subagent runs under.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every subagent hangs directly under its seat rather than under another subagent.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No seat is counted as unread.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Reading a seat's turn banks how far that seat's transcript was read.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A field the builder adds reaches the editor only where the field is named here too.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a clock or watches a file or writes a file.",
+      statement: "Nothing here reads a clock or watches a file.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here starts a child process.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here folds a transcript for the subagents a seat is running.",
     },
   ],
 } as const satisfies Module

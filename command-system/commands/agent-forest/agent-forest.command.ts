@@ -43,7 +43,8 @@ export const agentForest = {
     "both of those are read off the page rather than taken apart from its file name.",
     "which subagents are running is not answered here and cannot be: it is read from what each seat is doing.",
     "these are the pages, for a caller holding the running ones to join against.",
-    "the editor's agent tree asks this as a child and joins `repo` onto each `at` to open a page.",
+    "each page carries `dispatchedAs`, the kind that subagent was run as, or null where its page states none.",
+    "the editor's agent tree calls `forestOver` in the workstation service rather than asking for this as a child.",
   ],
   invariants: [
     {
@@ -139,6 +140,10 @@ export const agentForest = {
       invariantKind: "departure",
       statement:
         "A subagent's seat name and agent id are read off its page rather than off its file name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent page states the kind that subagent was dispatched as or states none.",
     },
     {
       invariantKind: "absence",

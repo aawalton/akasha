@@ -20,7 +20,7 @@ import {
   seatMarksAt,
 } from "@akasha/seat-system/terminal-seat-marks"
 import { followFolders, followWithin } from "@akasha/service-system/file-following"
-import { agentTreeLine, statusBarLine } from "../beat-drawing/beat-drawing.module.code.ts"
+import { statusBarLine } from "../beat-drawing/beat-drawing.module.code.ts"
 import {
   decide,
   type Held,
@@ -30,6 +30,7 @@ import {
   releasedHeld,
 } from "../state-cooldown/state-cooldown.module.code.ts"
 import {
+  agentTreeLine,
   domainTreeLine,
   pageTreeLine,
   workTreeLine,
@@ -42,6 +43,7 @@ const INTERFACES_AT = "alan/harness/code-editor/code-editor-data-interfaces/page
 // scratch is reported and the rename never is, which left the reading untestable.
 const SCRATCH_AT = "alan/harness/code-editor/code-editor-data-interfaces"
 const SEATS_AT = "seat-system/seats/pages"
+const SUBAGENTS_AT = "seat-system/subagents/pages"
 const TURN_STATES_AT = "seat-system/seat-turn-states/pages"
 // Every tree is read out of the akasha index. Watching the index beats watching every source file:
 // the editor watched `**/*.ts`, 42 writes a minute of which 11 in 318 could move a row. This one
@@ -52,7 +54,6 @@ const INDEX_VALUE_AT = ".git/data/index/value"
 const SIDECAR = ".uncommitted.ts"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
 const SETTLE_MS = 25
-const FLEET_EVERY_MS = 1_000
 const STATUS_EVERY_MS = 30_000
 
 // One picture, the folders it is made from, and the cooldown it is written under. `holds` answers
@@ -126,13 +127,6 @@ function terminalTabsLine(root: string): string | null {
   } satisfies TerminalTabsState)
 }
 
-let fleetHeld: string | null = null
-
-async function refreshAgentTree(): Promise<undefined> {
-  fleetHeld = await agentTreeLine()
-  return undefined
-}
-
 let statusHeld: string | null = null
 
 async function refreshStatusBar(): Promise<undefined> {
@@ -143,6 +137,7 @@ async function refreshStatusBar(): Promise<undefined> {
 export function picturesOf(root: string): ReadonlyMap<string, Picture> {
   const seats = join(root, SEATS_AT)
   const turnStates = join(root, TURN_STATES_AT)
+  const subagents = join(root, SUBAGENTS_AT)
   const terminals = seatMarksAt(root)
   return new Map<string, Picture>([
     [
@@ -163,11 +158,14 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "agent-tree",
       {
         cooldownMs: 1_000,
-        folders: [seats],
-        holds: within(seats, SIDECAR, ".seat.ts"),
-        line: () => fleetHeld,
-        refresh: refreshAgentTree,
-        everyMs: FLEET_EVERY_MS,
+        folders: [seats, turnStates, subagents],
+        holds: either(
+          within(seats, SIDECAR, ".seat.ts"),
+          within(turnStates, ".seat-turn-state.ts"),
+          within(subagents, ".subagent.ts")
+        ),
+        movesWithIndex: true,
+        line: () => agentTreeLine(root),
         held: NOTHING_WRITTEN,
         waking: null,
       },

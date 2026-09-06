@@ -27,5 +27,13 @@ export const agentPageReading = {
       invariantKind: "departure",
       statement: "A subagent page short of its seat name or its agent id is left out.",
     },
+    {
+      invariantKind: "departure",
+      statement: "The kind a subagent was dispatched as is read off that subagent's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent page stating no kind answers null for that kind.",
+    },
   ],
 } as const satisfies Module

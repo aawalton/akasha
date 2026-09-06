@@ -4,21 +4,25 @@ export const beatDrawing = {
   id: "01a0728f-6afc-76a1-acde-2cdaeed6213c",
   pageTypeSlug: "module",
   slug: "beat-drawing",
-  definition: "what the agents panel and the status bar draw, neither announced by a file",
+  definition: "what the status bar draws, whose stoplights no file announces",
   code: "ts",
   invariants: [
     {
       invariantKind: "departure",
+      statement: "A stoplight section is reached over HTTP rather than read off a file.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A fleet is read by the reader that already read the fleet rather than by new code.",
+        "The status bar is read once for the workstation rather than once for each window.",
     },
     {
       invariantKind: "departure",
-      statement: "The fleet is read once for the workstation rather than once for each window.",
+      statement: "The fleet's spend is read off the account pages rather than asked of a command.",
     },
     {
       invariantKind: "departure",
-      statement: "The working turn's color is read off its page on every beat rather than held.",
+      statement: "The spend rides the stoplights' beat rather than a watch of its own.",
     },
     {
       invariantKind: "departure",
@@ -39,6 +43,10 @@ export const beatDrawing = {
     {
       invariantKind: "absence",
       statement: "Nothing here writes a file or holds a timer.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here draws the agents panel.",
     },
   ],
 } as const satisfies Module

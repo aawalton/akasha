@@ -10,6 +10,8 @@ const PRINCIPAL_SEAT_NAME = "principalSeatName"
 
 const AGENT_ID = "agentId"
 
+const DISPATCHED_AS = "dispatchedAs"
+
 const SUBAGENT_MARK = "--"
 
 function declaredAt(at: string, root: string): Value | null {
@@ -32,6 +34,7 @@ export interface SubagentPage {
   readonly seat: string
   readonly own: string
   readonly at: string
+  readonly dispatchedAs: string | null
 }
 
 export function subagentPagesStanding(root: string): readonly SubagentPage[] {
@@ -46,7 +49,7 @@ export function subagentPagesStanding(root: string): readonly SubagentPage[] {
     if (parts <= 0) continue
     const own = agentId.slice(parts + SUBAGENT_MARK.length)
     if (own === "") continue
-    found.push({ seat, own, at: listed.path })
+    found.push({ seat, own, at: listed.path, dispatchedAs: textIn(held, DISPATCHED_AS) })
   }
   return found
 }

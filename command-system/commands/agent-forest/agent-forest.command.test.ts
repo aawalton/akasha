@@ -47,6 +47,7 @@ const SUBAGENT: SubagentPage = {
   seat: "astra",
   own: "0123456789abcdef0",
   at: "akasha/seat-system/subagents/pages/astra--0123456789abcdef0.subagent.ts",
+  dispatchedAs: "general-purpose",
 }
 
 function reading(
@@ -162,6 +163,12 @@ test("what is said is one object carrying the repo, the rows and the subagent pa
   expect(Object.keys(JSON.parse(saidOf(said)))).toEqual(["repo", "rows", "subagents"])
   expect(JSON.parse(saidOf(said)).subagents).toEqual([SUBAGENT])
   expect(JSON.parse(saidOf(said)).repo).toBe("/repo")
+})
+
+test("a subagent page carries the kind that subagent was dispatched as", () => {
+  const said: ForestSaid = forestOver("/repo", reading([ASTRA], {}))
+
+  expect(said.subagents[0]?.dispatchedAs).toBe("general-purpose")
 })
 
 test("a fleet holding no seat answers an empty list rather than nothing at all", () => {
