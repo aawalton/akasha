@@ -70,7 +70,7 @@ export const readoutSystem = {
     },
     {
       invariantKind: "departure",
-      statement: "A feed sending no reading is the one feed a readout refuses.",
+      statement: "A feed sending no reading is the single feed a readout refuses.",
     },
     {
       invariantKind: "gap",
