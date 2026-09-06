@@ -9,15 +9,20 @@ export const monarchEvalAgent = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The agent is offered the household's own categories and may name no other.",
+      statement:
+        "The agent is offered the household's own categories and may name no further category.",
     },
     {
       invariantKind: "departure",
-      statement: "Uncategorized is not offered, because Uncategorized is no answer.",
+      statement: "Uncategorized is not offered.",
     },
     {
       invariantKind: "departure",
-      statement: "Every transaction gets a category, and low confidence is how one is declined.",
+      statement: "Every transaction gets a category.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A category is declined by low confidence.",
     },
     {
       invariantKind: "departure",
@@ -26,12 +31,11 @@ export const monarchEvalAgent = {
     },
     {
       invariantKind: "departure",
-      statement: "A confidence outside high, medium and low is refused rather than rounded.",
+      statement: "A confidence outside high and medium and low is refused rather than rounded.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A reply is read out of its first array, so a model saying something before its JSON is still read.",
+      statement: "A reply is read out of its first array.",
     },
     {
       invariantKind: "departure",
