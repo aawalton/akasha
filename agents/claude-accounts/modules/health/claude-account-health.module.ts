@@ -20,7 +20,7 @@ export const claudeAccountHealth = {
     {
       invariantKind: "departure",
       statement:
-        "A refresh that failed reads as retryable where the failure says that refresh is not.",
+        "A refresh that failed reads as retryable where the failure says that refresh is not terminal.",
     },
     {
       invariantKind: "departure",
@@ -40,7 +40,7 @@ export const claudeAccountHealth = {
     },
     {
       invariantKind: "departure",
-      statement: "An alert latch carries the instant handed in rather than one read here.",
+      statement: "An alert latch carries the instant handed in rather than an instant read here.",
     },
     {
       invariantKind: "departure",
@@ -48,8 +48,7 @@ export const claudeAccountHealth = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A latch handed blank text is a removal, which is the meaning such a mark would carry.",
+      statement: "A latch handed blank text is a removal.",
     },
     {
       invariantKind: "departure",
