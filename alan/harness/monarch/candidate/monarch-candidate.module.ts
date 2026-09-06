@@ -14,11 +14,11 @@ export const monarchCandidate = {
     },
     {
       invariantKind: "departure",
-      statement: "A candidate names exactly one outcome: a category, or a reservation.",
+      statement: "A candidate names a category or a reservation and never both.",
     },
     {
       invariantKind: "departure",
-      statement: "Nothing is a candidate unless named as one.",
+      statement: "Nothing is a candidate unless named a candidate.",
     },
     {
       invariantKind: "departure",
