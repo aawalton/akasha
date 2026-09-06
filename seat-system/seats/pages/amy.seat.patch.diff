@@ -1,0 +1,40 @@
+diff --git a/alan/tracking/daily/strength-points/strength-points.module.code.ts b/alan/tracking/daily/strength-points/strength-points.module.code.ts
+index 25a1d8523ea832a5ef2df8b54df7f3bc01e9c22f..e51b8090890aa0830cb4f9ef8363a377427c3a06 100644
+--- a/alan/tracking/daily/strength-points/strength-points.module.code.ts
++++ b/alan/tracking/daily/strength-points/strength-points.module.code.ts
+@@ -1,9 +1,13 @@
++import { getEsoDayStr } from "@akasha/day/eso-day"
+ import { dayVolume } from "@akasha/exercise-access/session-volume"
++import { daysUpTo } from "../day-active-calories/day-active-calories.module.code.ts"
+ import {
+   type WriteOutcome,
+   writeStrengthVolume,
+ } from "../write-daily-points/write-daily-points.module.code.ts"
+ 
++const DAYS_ROLLED = 4
++
+ export async function rollupStrengthForDay(
+   dayStr: string
+ ): Promise<{ strengthVolume: number; outcome: WriteOutcome }> {
+@@ -15,3 +19,21 @@ export async function rollupStrengthForDay(
+   const outcome = await writeStrengthVolume(dayStr, strengthVolume)
+   return { strengthVolume, outcome }
+ }
++
++if (import.meta.main) {
++  const landed: string[] = []
++  for (const day of daysUpTo(getEsoDayStr(new Date()), DAYS_ROLLED)) {
++    try {
++      const rolled = await rollupStrengthForDay(day)
++      landed.push(`${day} ${rolled.outcome}`)
++    } catch (thrown) {
++      const why = thrown instanceof Error ? thrown.message : String(thrown)
++      process.stderr.write(`the strength volume for ${day} did not land: ${why}\n`)
++    }
++  }
++  if (landed.length === 0) {
++    process.stderr.write("no day of the four was counted, so no strength volume landed\n")
++    process.exit(2)
++  }
++  process.stdout.write(`strength volume landed on ${landed.join(", ")}\n`)
++}
