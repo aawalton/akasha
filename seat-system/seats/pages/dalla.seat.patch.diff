@@ -24,6 +24,19 @@ index 6ef075d897cc76ecf3e28b80b466ea9bf2fd6551..c0b100540020f6d2ddb9c9ef830412d5
      const wanted = known.targetOf(one.propertySlug)
      if (wanted === null) continue
      for (const named of namesIn(one.held)) {
+diff --git a/command-system/commands/remove/remove.command.code.ts b/command-system/commands/remove/remove.command.code.ts
+index 8a1671c1a3770c95a008a89b5929715851f59ad3..46348ea92c4e3b3dc70fab141b453892564f41d6 100644
+--- a/command-system/commands/remove/remove.command.code.ts
++++ b/command-system/commands/remove/remove.command.code.ts
+@@ -181,7 +181,7 @@ export type Naming = {
+ export function namingFor(value: Value, known: Shaped, id: string): readonly Naming[] {
+   const found: Naming[] = []
+   for (const one of namingsIn(value, known)) {
+-    if (one.own) continue
++    if (one.identity) continue
+     const wanted = known.targetOf(one.propertySlug)
+     if (wanted === null) continue
+     const listed = Array.isArray(one.held)
 diff --git a/pages/indexes/reaching/reaching.module.code.ts b/pages/indexes/reaching/reaching.module.code.ts
 index a5928dac150c859268a4c0711477d56365189854..75275095dbc1819574c6bfe487b8f5feb806447d 100644
 --- a/pages/indexes/reaching/reaching.module.code.ts
