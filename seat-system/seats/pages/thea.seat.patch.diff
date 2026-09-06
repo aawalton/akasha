@@ -1,5 +1,5 @@
 diff --git a/pages/indexes/answering/index-answering.module.code.ts b/pages/indexes/answering/index-answering.module.code.ts
-index 82376939c24a2de51ec5d78c7205dfddd3ce0a16..176be9c1a581ad5f9208e86845ab235ebe17535c 100644
+index 82376939c24a2de51ec5d78c7205dfddd3ce0a16..56ecc84fecf92acaf6c836050d69cf966e43cff5 100644
 --- a/pages/indexes/answering/index-answering.module.code.ts
 +++ b/pages/indexes/answering/index-answering.module.code.ts
 @@ -31,6 +31,8 @@ import { knownIn, type Shaped } from "../reaching/reaching.module.code.ts"
@@ -11,6 +11,15 @@ index 82376939c24a2de51ec5d78c7205dfddd3ce0a16..176be9c1a581ad5f9208e86845ab235e
    idsNaming,
    importersOf,
    type Listed,
+@@ -55,6 +57,8 @@ export type Answering = {
+   readonly entryShapesAt: () => ReadonlySet<string>
+   readonly everyOfType: (pageTypeSlug: string) => readonly Listed[]
+   readonly everyPath: () => readonly string[]
++  readonly filesIn: (folder: string) => readonly string[]
++  readonly foldersIn: (folder: string) => readonly string[]
+   readonly fileKeysAt: () => ReadonlyMap<string, string | null>
+   readonly filePropertiesAt: () => FilePropertiesBy
+   readonly idsNaming: (id: string, propertySlug: string) => readonly string[]
 diff --git a/pages/indexes/reading/index-reading.module.code.ts b/pages/indexes/reading/index-reading.module.code.ts
 index 1dbf0a62b85133bd46ad99ff171dd5c96e998a4a..9ac11579427a15f75d10ec6f69226e332f3c2f34 100644
 --- a/pages/indexes/reading/index-reading.module.code.ts
