@@ -1,3 +1,15 @@
+diff --git a/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.ts b/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.ts
+index f4263ad3852f71c2622f3e78257559c59f203e95..db4a46bdfc2ea0ecdb981763670d3f2b7044c271 100644
+--- a/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.ts
++++ b/agents/claude-accounts/properties/effective-five-hour-usage.computed-property.ts
+@@ -11,6 +11,7 @@ export const effectiveFiveHourUsage = {
+     "how much of the five-hour allowance is spent, a withdrawn or spent week counting as all of it",
+   holds: "number",
+   code: "ts",
++  test: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.ts b/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.ts
 index 2ad4b388b17acd1df733b82e7417e5e0f67df8f7..ae95ecee4bf775479b10c802c5a50cae90bafdce 100644
 --- a/agents/claude-accounts/properties/effective-seven-day-usage.computed-property.ts
