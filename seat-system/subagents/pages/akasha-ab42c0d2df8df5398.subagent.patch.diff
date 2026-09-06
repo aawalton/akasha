@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/read/read.command.test-fixtures.ts b/command-system/commands/read/read.command.test-fixtures.ts
-index 0371d91d164c937dfd35c9a962cd6e50d8e0ff94..370cc5f2b2af385ea126d3b646ffd16ebd30d3f7 100644
+index 0371d91d164c937dfd35c9a962cd6e50d8e0ff94..b274c49b1a1cf2be71d4016c4abdd515bf0b1c69 100644
 --- a/command-system/commands/read/read.command.test-fixtures.ts
 +++ b/command-system/commands/read/read.command.test-fixtures.ts
 @@ -1,7 +1,7 @@
@@ -11,3 +11,21 @@ index 0371d91d164c937dfd35c9a962cd6e50d8e0ff94..370cc5f2b2af385ea126d3b646ffd16e
  import { bytesOf } from "@akasha/testing-system/bodying"
  import { mintedId } from "@akasha/testing-system/minting"
  import { said as saying } from "@akasha/utils-run/running"
+@@ -283,9 +283,14 @@ export const THING_BODY =
+ 
+ export const PAGE_BODY = 'export const page = { slug: "page", extendsSlug: [] }\n'
+ 
+-const TYPES: readonly { readonly slug: string; readonly at: string; readonly body: string }[] = [
+-  { slug: "thing", at: THING_TYPE, body: THING_BODY },
+-  { slug: "page", at: PAGE_TYPE, body: PAGE_BODY },
++const TYPES: readonly {
++  readonly slug: string
++  readonly at: string
++  readonly body: string
++  readonly above: readonly string[]
++}[] = [
++  { slug: "thing", at: THING_TYPE, body: THING_BODY, above: ["page-type/page"] },
++  { slug: "page", at: PAGE_TYPE, body: PAGE_BODY, above: [] },
+ ]
+ 
+ export const WARRANTED: readonly string[] = [THING, THING_TYPE, PAGE_TYPE]
