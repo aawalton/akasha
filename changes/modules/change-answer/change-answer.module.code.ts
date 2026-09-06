@@ -20,16 +20,32 @@ export function moving(from: string, to: string, was: string, body: string): Edi
   return { path: to, was, body, from }
 }
 
+function under(held: ReadonlyMap<string, Edit>, edit: Edit): Edit | undefined {
+  return held.get(edit.from ?? edit.path)
+}
+
 export function gathered(answers: readonly Answer[]): Answer {
   const held = new Map<string, Edit>()
   for (const one of answers) {
     if (one.refused !== null) return one
     for (const edit of one.edits) {
-      const had = held.get(edit.path)
-      if (had !== undefined && had.body !== edit.was) {
+      const came = edit.from
+      const before = under(held, edit)
+      if (before !== undefined && before.body !== edit.was) {
         return refusing(`\`${edit.path}\` is answered twice, the second from a body the first left`)
       }
-      held.set(edit.path, had === undefined ? edit : { ...edit, was: had.was })
+      if (came !== undefined && came !== edit.path && held.has(edit.path)) {
+        return refusing(`\`${edit.path}\` is answered and is also where \`${came}\` lands`)
+      }
+      if (came !== undefined) held.delete(came)
+      const was = before === undefined ? edit.was : before.was
+      const from = before?.from ?? came
+      held.set(
+        edit.path,
+        from === undefined
+          ? { path: edit.path, was, body: edit.body }
+          : { path: edit.path, was, body: edit.body, from }
+      )
     }
   }
   return { edits: [...held.values()], refused: null }

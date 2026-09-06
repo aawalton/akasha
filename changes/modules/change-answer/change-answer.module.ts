@@ -26,6 +26,14 @@ export const changeAnswer = {
     },
     {
       invariantKind: "departure",
+      statement: "A move gathers with the write that move follows under the path left behind.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A move landing where another edit already answers is refused.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A later edit to a path replaces an earlier edit to that path.",
     },
     {
