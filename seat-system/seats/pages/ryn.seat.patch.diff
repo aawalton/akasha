@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/sync/monarch-sync.module.ts b/alan/harness/monarch/sync/monarch-sync.module.ts
-index 3de86955f6d0dd0663d8d25bdd6103185c09dba2..19bbbbe22dda86c8148cb0f2812ae49a71f8eed6 100644
+index 3de86955f6d0dd0663d8d25bdd6103185c09dba2..a67f1cce48ac4eee8b00f0b0d99c4c964d099817 100644
 --- a/alan/harness/monarch/sync/monarch-sync.module.ts
 +++ b/alan/harness/monarch/sync/monarch-sync.module.ts
 @@ -14,8 +14,11 @@ export const monarchSync = {
@@ -13,6 +13,19 @@ index 3de86955f6d0dd0663d8d25bdd6103185c09dba2..19bbbbe22dda86c8148cb0f2812ae49a
 +    {
 +      invariantKind: "departure",
 +      statement: "A transaction always has an account to name.",
+     },
+     {
+       invariantKind: "departure",
+@@ -23,7 +26,11 @@ export const monarchSync = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A failing account does not stop the rest; each is caught and named.",
++      statement: "A failing account does not stop the other accounts.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every failure is caught and named.",
      },
      {
        invariantKind: "departure",
