@@ -1,5 +1,5 @@
 diff --git a/pages/access/file-write-narrow/file-write-narrow.module.ts b/pages/access/file-write-narrow/file-write-narrow.module.ts
-index ab97daafa47fe6dad357ed0d23af11042a320440..f1813c59564db56ba081b4fd49400e4ca7a44c49 100644
+index ab97daafa47fe6dad357ed0d23af11042a320440..39802d2077b0fe403811785626811001756f362c 100644
 --- a/pages/access/file-write-narrow/file-write-narrow.module.ts
 +++ b/pages/access/file-write-narrow/file-write-narrow.module.ts
 @@ -14,7 +14,7 @@ export const fileWriteNarrow = {
@@ -8,6 +8,19 @@ index ab97daafa47fe6dad357ed0d23af11042a320440..f1813c59564db56ba081b4fd49400e4c
        invariantKind: "absence",
 -      statement: "No condition is dropped for being one this cannot carry.",
 +      statement: "No condition is dropped for being a condition this module cannot carry.",
+     },
+     {
+       invariantKind: "departure",
+@@ -22,7 +22,11 @@ export const fileWriteNarrow = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A value that is no text is lowered as its text, a test carrying text.",
++      statement: "A value that is no text is lowered as its text.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A lowered value becomes a test carrying text.",
      },
      {
        invariantKind: "departure",
