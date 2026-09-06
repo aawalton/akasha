@@ -1,5 +1,5 @@
 diff --git a/pages/commands/page-secret-set/page-secret-set.command.ts b/pages/commands/page-secret-set/page-secret-set.command.ts
-index 82119db3b6c3f07508e6c59fa5821d42d4a2265b..6016515d45022b0988b0523a171a0fbc1cdd972f 100644
+index 82119db3b6c3f07508e6c59fa5821d42d4a2265b..8ccc28cda6a88b3a9a004f85b7bc8c04503ead45 100644
 --- a/pages/commands/page-secret-set/page-secret-set.command.ts
 +++ b/pages/commands/page-secret-set/page-secret-set.command.ts
 @@ -37,7 +37,7 @@ export const pageSecretSet = {
@@ -8,6 +8,15 @@ index 82119db3b6c3f07508e6c59fa5821d42d4a2265b..6016515d45022b0988b0523a171a0fbc
        invariantKind: "departure",
 -      statement: "One trailing newline is dropped unless the call says to keep it.",
 +      statement: "One trailing newline is dropped unless the call says to keep the newline.",
+     },
+     {
+       invariantKind: "departure",
+@@ -45,7 +45,7 @@ export const pageSecretSet = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A value that arrives empty is refused rather than standing for a usable one.",
++      statement: "A value that arrives empty is refused rather than taken as a usable value.",
      },
      {
        invariantKind: "departure",
