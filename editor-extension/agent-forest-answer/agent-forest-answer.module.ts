@@ -13,7 +13,7 @@ export const agentForestAnswer = {
     },
     {
       invariantKind: "constraint",
-      statement: "A row carrying no id is refused, because a row with none is no seat.",
+      statement: "A row carrying no id is refused.",
     },
     {
       invariantKind: "constraint",
@@ -25,7 +25,7 @@ export const agentForestAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A row's color is read from `color` or from `colour`, whichever that row carries.",
+      statement: "A row's color is read from the key `color` or the key `colour` that row carries.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +42,7 @@ export const agentForestAnswer = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent page missing its seat, its id or its path is dropped.",
+      statement: "A subagent page missing its seat or its id or its path is dropped.",
     },
     {
       invariantKind: "departure",
