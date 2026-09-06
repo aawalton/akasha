@@ -136,3 +136,19 @@ index 93e94ab55aba8ba8f6e5ce2ba19fdd4c5a226c88..9b703ea1b0d673324042ac75a0b3c372
    const dark = new Map<string, string>()
    const rows = counting.map((one) => {
      const worked = computing.workedAt(one.row.path)
+diff --git a/pages/service/page-asking/page-asking.module.code.ts b/pages/service/page-asking/page-asking.module.code.ts
+index 576b53aa623c30d6567d42c2dadc46f085db2d07..77cd2c8559fa4425f69781c4335cd414e5e52c31 100644
+--- a/pages/service/page-asking/page-asking.module.code.ts
++++ b/pages/service/page-asking/page-asking.module.code.ts
+@@ -235,7 +235,10 @@ export function asking(root: string, query: Query): Asked {
+   if (unnamed !== null) return { refused: unnamed }
+   let held: readonly Valued[]
+   try {
+-    const counted = computedInto(gatheredFor(root, query.pageTypeSlug, carried, query.files ?? []))
++    const counted = computedInto(
++      root,
++      gatheredFor(root, query.pageTypeSlug, carried, query.files ?? [])
++    )
+     const darkened = unlit(query, counted.dark)
+     if (darkened !== null) return { refused: darkened }
+     held = counted.rows.filter((one) => narrows(one.value, query.where))
