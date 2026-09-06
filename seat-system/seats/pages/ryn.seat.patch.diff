@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-commands/temper-inventory-decode-link/temper-inventory-decode-link.command.ts b/temper/temper-commands/temper-inventory-decode-link/temper-inventory-decode-link.command.ts
+index 0d65d76cf335fabb70a0526266efa5796773b7a2..fc21a221b5f34206fcbcc878d3619bec9cb2fb38 100644
+--- a/temper/temper-commands/temper-inventory-decode-link/temper-inventory-decode-link.command.ts
++++ b/temper/temper-commands/temper-inventory-decode-link/temper-inventory-decode-link.command.ts
+@@ -29,7 +29,7 @@ export const temperInventoryDecodeLink = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A link carrying more is read rather than refused.",
++      statement: "A link carrying more fields is read rather than refused.",
+     },
+     {
+       invariantKind: "departure",
