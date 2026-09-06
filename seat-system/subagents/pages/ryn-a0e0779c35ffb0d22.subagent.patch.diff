@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.ts b/command-system/commands/measure/check-measuring/check-measuring.module.ts
-index deca30d98dfc44057befd023332874825df0bdac..bcd411e9d3f2634e51c6479a50aef27b248aeac4 100644
+index deca30d98dfc44057befd023332874825df0bdac..6011497a9eac4f638df1628def956ac5330ed205 100644
 --- a/command-system/commands/measure/check-measuring/check-measuring.module.ts
 +++ b/command-system/commands/measure/check-measuring/check-measuring.module.ts
 @@ -23,7 +23,7 @@ export const checkMeasuring = {
@@ -43,7 +43,13 @@ index deca30d98dfc44057befd023332874825df0bdac..bcd411e9d3f2634e51c6479a50aef27b
      },
      {
        invariantKind: "departure",
-@@ -93,7 +95,7 @@ export const checkMeasuring = {
+@@ -88,12 +90,11 @@ export const checkMeasuring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Checks are ordered by the processor time their patch runs took on average, the longest first.",
++      statement: "Checks are ordered by falling average processor time of their patch runs.",
      },
      {
        invariantKind: "departure",
@@ -52,7 +58,7 @@ index deca30d98dfc44057befd023332874825df0bdac..bcd411e9d3f2634e51c6479a50aef27b
      },
      {
        invariantKind: "departure",
-@@ -101,7 +103,7 @@ export const checkMeasuring = {
+@@ -101,7 +102,7 @@ export const checkMeasuring = {
      },
      {
        invariantKind: "departure",
