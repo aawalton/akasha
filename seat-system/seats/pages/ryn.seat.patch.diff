@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/command-system/commands/restore/restore.command.ts b/command-system/commands/restore/restore.command.ts
+index 8af637815b76ede068336552f5450392f23ed9b2..e93c18d2065c8ae96aeefe356915d68d7b99b437 100644
+--- a/command-system/commands/restore/restore.command.ts
++++ b/command-system/commands/restore/restore.command.ts
+@@ -28,7 +28,8 @@ export const restore = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A path carrying no flag before it is refused rather than read as a named path.",
++      statement:
++        "A path carrying no flag before the path is refused rather than read as a named path.",
+     },
+     {
+       invariantKind: "departure",
