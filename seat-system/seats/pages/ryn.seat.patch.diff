@@ -1,0 +1,13 @@
+diff --git a/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts b/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts
+index 9b90a1755ef52d9cb22870d74735222a7b0cd13e..433597567601dd2d5b356bdde2357870b99f3172 100644
+--- a/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts
++++ b/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts
+@@ -31,7 +31,7 @@ export const supervisorLimitResumeEffects = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The decide module is imported from beside this one and its function called.",
++      statement: "The decide module is imported from beside this module and its function called.",
+     },
+     {
+       invariantKind: "departure",
