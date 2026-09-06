@@ -1,3 +1,15 @@
+diff --git a/alan/web/alan-web.router-app.ts b/alan/web/alan-web.router-app.ts
+index 8ab5ae31d7f6789ea2fd77f7249445d1051dad1b..fc2420f7b9824f1a268603765edc2758975c3bba 100644
+--- a/alan/web/alan-web.router-app.ts
++++ b/alan/web/alan-web.router-app.ts
+@@ -142,7 +142,6 @@ export const alanWeb = {
+     "module/use-media-variants",
+     "module/use-next-unread",
+     "module/use-reader-active-marks",
+-    "module/wallpaper-candidates",
+     "route/about",
+     "route/claude-usage",
+     "route/inbox-stoplights",
 diff --git a/alan/web/wallpaper-candidates/wallpaper-candidates.module.code.ts b/alan/web/wallpaper-candidates/wallpaper-candidates.module.code.ts
 deleted file mode 100644
 index 2a39f86ad6114cab1e76ee789bf7de94a4431255..0000000000000000000000000000000000000000
@@ -42,6 +54,21 @@ index 2a39f86ad6114cab1e76ee789bf7de94a4431255..00000000000000000000000000000000
 -  }
 -  return ordered(candidates)
 -}
+diff --git a/alan/web/wallpaper-candidates/wallpaper-candidates.module.ts b/alan/web/wallpaper-candidates/wallpaper-candidates.module.ts
+deleted file mode 100644
+index 0d1741317125482645ffcfd1f92eb8f99dd27cad..0000000000000000000000000000000000000000
+--- a/alan/web/wallpaper-candidates/wallpaper-candidates.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const wallpaperCandidates = {
+-  id: "01a0655d-dab8-73e0-a462-8cc66e1a9be3",
+-  pageTypeSlug: "module",
+-  slug: "wallpaper-candidates",
+-  definition: "the covers a wallpaper may be drawn from, in the order they are tried",
+-  code: "ts",
+-} as const satisfies Module
 diff --git a/service-system/workstation-services/pages/desktop-wallpaper-setting.workstation-service.ts b/service-system/workstation-services/pages/desktop-wallpaper-setting.workstation-service.ts
 index de04b49f2ad9a10ad289e0210235b44018822ae8..633fe43aa8417ece37d92c0dd4b38cffd4c646c5 100644
 --- a/service-system/workstation-services/pages/desktop-wallpaper-setting.workstation-service.ts
