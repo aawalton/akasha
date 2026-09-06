@@ -18,8 +18,11 @@ export const monarchEvalPopulation = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every scorable category belongs to a declared stratum, and one belonging to none is refused.",
+      statement: "Every scorable category belongs to a declared stratum.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A category belonging to no declared stratum is refused.",
     },
     {
       invariantKind: "departure",
