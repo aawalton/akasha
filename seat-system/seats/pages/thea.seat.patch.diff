@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/no-class/no-class.code-check.code.ts b/checks/code-checks/pages/no-class/no-class.code-check.code.ts
-index d00f91b989ced9b12dde4d81b3f6105c71e69b63..915ce895b1e497ca653fd25710061a6cf72c3029 100644
+index d00f91b989ced9b12dde4d81b3f6105c71e69b63..8d9dd0c6bf1642ee6607a7fa1531b3e98fef6f6b 100644
 --- a/checks/code-checks/pages/no-class/no-class.code-check.code.ts
 +++ b/checks/code-checks/pages/no-class/no-class.code-check.code.ts
 @@ -16,6 +16,8 @@ const DERIVED = "getDerivedStateFromError"
@@ -13,6 +13,19 @@ index d00f91b989ced9b12dde4d81b3f6105c71e69b63..915ce895b1e497ca653fd25710061a6c
  type Found = {
    readonly named: string
    readonly line: number
+@@ -63,10 +65,10 @@ function extendsComponent(extending: string | null): boolean {
+ 
+ export function classesIn(at: string, text: string): readonly Found[] {
+   const source = parsedAs(at, text)
+-  const found: Found[] = []
++  const seen: Found[] = []
+   const held = (node: ts.Node): undefined => {
+     if (ts.isClassDeclaration(node) || ts.isClassExpression(node)) {
+-      found.push({
++      seen.push({
+         named: node.name?.text ?? UNNAMED,
+         line: lineOf(source, node),
+         expression: ts.isClassExpression(node),
 @@ -96,6 +98,7 @@ function reasonFor(one: Found): string {
  }
  
