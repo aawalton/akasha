@@ -1,0 +1,22 @@
+diff --git a/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.ts b/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.ts
+index 79a1145bd45ce9564de00f96ce7a6ee2e6012372..2fd164773b71642940fccf8b448fc708b4eff8d6 100644
+--- a/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.ts
++++ b/changes/guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.ts
+@@ -56,5 +56,17 @@ export const relationNotLeftHanging = {
+       invariantKind: "absence",
+       statement: "Nothing here reads the working tree or the index on disk.",
+     },
++    {
++      invariantKind: "gap",
++      statement: "A page the change rewrites files no edge to the page taken away.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A name held by such a page is found by no guard here.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "`relation-resolves` judges the name this guard cannot see.",
++    },
+   ],
+ } as const satisfies ChangeGuard
