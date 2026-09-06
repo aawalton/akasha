@@ -1,0 +1,45 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-i-count-my-capacity-hours.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-i-count-my-capacity-hours.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9d702ae4f3c462fa5e45457482e9c37f5d200abc
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-i-count-my-capacity-hours.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherICountMyCapacityHours = {
++  id: "01a07817-469a-74ae-a572-5f6a3380f2a0",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-i-count-my-capacity-hours",
++  topicSlug: "the-budget-i-run-my-days-on",
++  ask: "I try to spend under seven capacity hours of stress a day. Am I counting those hours, or reading the number off how the day went?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e84a939378c8bab1a95ff42a0333c5fa3d6065dc
+--- /dev/null
++++ b/alan/books/all-about-alan/topics/pages/the-budget-i-run-my-days-on.all-about-alan-topic.ts
+@@ -0,0 +1,13 @@
++import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
++
++export const theBudgetIRunMyDaysOn = {
++  id: "01a07817-4699-7f64-86a5-f61640ff2f0b",
++  pageTypeSlug: "all-about-alan-topic",
++  slug: "the-budget-i-run-my-days-on",
++  title: "The Budget I Run My Days On",
++  definition: "the daily stress spend I hold under, to keep surplus above zero",
++  parentSlugs: ["the-harness-around-my-safety"],
++  relatedSlugs: ["sleep"],
++  settled:
++    "Surplus is my stoplight, sleep hours less capacity hours spent. Above zero my baseline safety rises over time, and below zero my baseline safety falls.\n\nSocial lands on the spending side of that subtraction, so my lever is not spending.\n\nThe cadence of social was chosen against the relationship bar. Without the social the relationship bar was trending down, which was doing damage of its own.\n\nSo I try to spend under seven capacity hours of stress a day. That keeps a surplus despite the shorter sleep, without losing ground on the relationship.",
++} as const satisfies AllAboutAlanTopic
+diff --git a/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts
+index df623c8f7a95db0fb0a31699a57280a04c509152..0f87947151d5f73c4dae0eedbaabd3d882172dab 100644
+--- a/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-harness-around-my-safety.all-about-alan-topic.ts
+@@ -9,5 +9,5 @@ export const theHarnessAroundMySafety = {
+   parentSlugs: ["how-safety-climbs"],
+   relatedSlugs: ["how-i-get-anything-done"],
+   settled:
+-    "I am building my harness out around safety as well, and the harness takes a different set of interventions from the ones executive function took.\n\nFour are visible to me so far. Changes flowing smoothly through akasha, read off whether my list of work is getting longer or shorter. My marriage being good, and more so getting better. The flow through my life going well, read off more green and blue stoplights. Banking surplus over time.\n\nAll four could be measured, and not all four are measured yet.\n\nSurplus is my stoplight, sleep hours less capacity hours spent. Above zero my baseline safety rises over time, and below zero my baseline safety falls.\n\nSocial lands on the spending side of that subtraction, so my lever is not spending.\n\nI hold a hypothesis that positive affordable social raises safety in its own right, perhaps as a reach of the marriage dimension, and perhaps even when the social is unaffordable, where the two forces pull opposite ways.",
++    "I am building my harness out around safety as well, and the harness takes a different set of interventions from the ones executive function took.\n\nFour are visible to me so far. Changes flowing smoothly through akasha, read off whether my list of work is getting longer or shorter. My marriage being good, and more so getting better. The flow through my life going well, read off more green and blue stoplights. Banking surplus over time.\n\nAll four could be measured, and not all four are measured yet.\n\nI hold a hypothesis that positive affordable social raises safety in its own right, perhaps as a reach of the marriage dimension, and perhaps even when the social is unaffordable, where the two forces pull opposite ways.",
+ } as const satisfies AllAboutAlanTopic
