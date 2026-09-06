@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts b/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts
-index c3c70ce1b951d6a5e85ff3dcf05025277b694036..8d3ee40f3e54ac61b19aa9eca6f5759fa6af3795 100644
+index c3c70ce1b951d6a5e85ff3dcf05025277b694036..3d69a37ab49aef1c4680d65ffcbf3228f887d7ae 100644
 --- a/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts
 +++ b/seat-system/supervising/supervisor-heartbeat/supervisor-heartbeat.module.ts
 @@ -9,7 +9,7 @@ export const supervisorHeartbeat = {
@@ -33,3 +33,12 @@ index c3c70ce1b951d6a5e85ff3dcf05025277b694036..8d3ee40f3e54ac61b19aa9eca6f5759f
      },
      {
        invariantKind: "departure",
+@@ -29,7 +37,7 @@ export const supervisorHeartbeat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The registration account is null where none is given.",
++      statement: "The registration account is null where no account is given.",
+     },
+     {
+       invariantKind: "absence",
