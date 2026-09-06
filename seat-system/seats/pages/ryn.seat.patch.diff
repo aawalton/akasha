@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/agent-page-opening/agent-page-opening.module.ts b/editor-extension/agent-page-opening/agent-page-opening.module.ts
+index 76ed602a58b823f533d5f7f21eaf24e1b9aa9074..e2ffa79cac3d9f910f8e116febb870c5b1f8ff7a 100644
+--- a/editor-extension/agent-page-opening/agent-page-opening.module.ts
++++ b/editor-extension/agent-page-opening/agent-page-opening.module.ts
+@@ -25,7 +25,7 @@ export const agentPageOpening = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here composes a path for a row that carries none.",
++      statement: "Nothing here composes a path for a row that carries no path.",
+     },
+   ],
+ } as const satisfies Module
