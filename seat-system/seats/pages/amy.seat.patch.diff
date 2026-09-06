@@ -1,3 +1,15 @@
+diff --git a/alan/web/alan-web.router-app.ts b/alan/web/alan-web.router-app.ts
+index 1f09360758660bbdd602e90374b350107c67473e..612d2e2a4dd3a22eab757804e92c35d6c5333710 100644
+--- a/alan/web/alan-web.router-app.ts
++++ b/alan/web/alan-web.router-app.ts
+@@ -6,6 +6,7 @@ export const alanWeb = {
+   slug: "alan-web",
+   definition: "the routes Alan's site serves to a browser",
+   manifest: "json",
++  appLayout: "tsx",
+   rootRoute: "tsx",
+   routeTable: "ts",
+   serverEntry: "tsx",
 diff --git a/code-system/router-apps/properties/app-layout.named-file-property.ts b/code-system/router-apps/properties/app-layout.named-file-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..3a9555c6550151285ec444228347ee1db99c8009
