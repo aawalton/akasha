@@ -264,7 +264,8 @@ export const landing = {
     },
     {
       invariantKind: "departure",
-      statement: "A draft says which checks and warrants the change drafted into the patch runs.",
+      statement:
+        "A draft says which checks the change drafted into the patch runs and the reading owed.",
     },
     {
       invariantKind: "departure",

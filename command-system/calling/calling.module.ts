@@ -29,7 +29,8 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "A call reaching no index is told the run that builds one without reading one.",
+      statement:
+        "A call reaching no index is told the run that builds an index without reading an index.",
     },
     {
       invariantKind: "departure",
@@ -83,7 +84,8 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "The change kind a call already carries holds over the one the page names.",
+      statement:
+        "The change kind a call already carries holds over the change kind the page names.",
     },
     {
       invariantKind: "departure",
@@ -91,7 +93,8 @@ export const calling = {
     },
     {
       invariantKind: "departure",
-      statement: "The checks and warrants that run on a kind are read off that kind's own page.",
+      statement:
+        "The checks a kind runs and the reading its writer owes are read off that kind's own page.",
     },
     {
       invariantKind: "departure",

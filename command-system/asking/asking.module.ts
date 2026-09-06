@@ -27,7 +27,7 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "A draft runs the checks a landing runs and the warrants a landing runs.",
+      statement: "A draft runs the checks a landing runs and owes the reading a landing owes.",
     },
     {
       invariantKind: "departure",
@@ -56,7 +56,7 @@ export const asking = {
     {
       invariantKind: "departure",
       statement:
-        "That refusal names the hook that puts a subagent's page up and the command to run to put one up.",
+        "That refusal names the hook putting a subagent's page up and the command to put that page up.",
     },
     {
       invariantKind: "departure",
@@ -129,7 +129,7 @@ export const asking = {
     {
       invariantKind: "departure",
       statement:
-        "Formatting, the lockfile and the worked type are worked out before the hold is taken.",
+        "Formatting and the lockfile and the worked type are worked out before the hold is taken.",
     },
     {
       invariantKind: "departure",
@@ -177,7 +177,7 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "Reaching a body tells a path nothing is at from one that will not open.",
+      statement: "Reaching a body tells a path nothing is at from a path that will not open.",
     },
     {
       invariantKind: "departure",
@@ -197,7 +197,7 @@ export const asking = {
     },
     {
       invariantKind: "departure",
-      statement: "The kind that ran no check is named in the commit as the reason none ran.",
+      statement: "The kind that ran no check is named in the commit as the reason no check ran.",
     },
     {
       invariantKind: "departure",
