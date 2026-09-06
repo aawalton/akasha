@@ -243,6 +243,19 @@ index ed91a37861d1fa0b4f6f05c4f14d93e95bac7db8..8dabf0b40fd84efc38eaf698a8549c79
    evidence:
      "The old `reminder` extends `message` and inherits `to`, `from`, `warrant` and `claimed-at`. The akasha one extends `page` and carries `to`, `from`, `schedule`, `text` and `next-at`. Two things did not come across. The warrant said whether a sender waits, as `announce` or `blocked`; the one reminder that exists says `announce`, and a clock waits for nothing, so nothing states it. The `warrant` slug is also taken by what a directive states. The message page type did not come across because carrying it across is the whole messaging system, which no intent yet names. Until messaging moves in, a reminder that comes due is still handed to `writeMessage` in the old system.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/the-extension-host-runs-node-so-it-cannot-open-a-seat-page-itself.finding.ts b/domains/findings/pages/the-extension-host-runs-node-so-it-cannot-open-a-seat-page-itself.finding.ts
+index a89fcf6357d6d631da5675aba57db207e407f693..fb7bf6ac183046de56124d5bf4be2424b4d29863 100644
+--- a/domains/findings/pages/the-extension-host-runs-node-so-it-cannot-open-a-seat-page-itself.finding.ts
++++ b/domains/findings/pages/the-extension-host-runs-node-so-it-cannot-open-a-seat-page-itself.finding.ts
+@@ -6,7 +6,7 @@ export const theExtensionHostRunsNodeSoItCannotOpenASeatPageItself = {
+   slug: "the-extension-host-runs-node-so-it-cannot-open-a-seat-page-itself",
+   domainSlug: "workspace-package/editor-extension",
+   claim:
+-    "Opening the values kept beside a seat's page needs a transpiler only bun carries. The extension host runs node, so doing it in the host throws `Bun is not defined`. Everything the extension wants out of the pages is therefore asked of a bun child through the harness rather than read in the host. A change that reads a page directly from extension code typechecks clean and throws at load.",
++    "Opening the values kept beside one seat's page needs a transpiler only bun carries. The extension host runs node, so doing it in the host throws `Bun is not defined`. Everything the extension wants out of the pages is therefore asked of a bun child through the harness rather than read in the host. A change that reads a page directly from extension code typechecks clean and throws at load.",
+   evidence:
+     "`transcript-sources` asks `seat-transcripts` for where every seat's transcript is, in one call, rather than opening the seat pages itself. The whole list is answered at once and held for a fixed moment because the transcript panel asks on every tick and the agent tree asks once per live seat.\\n\\nThe same shape stands across the extension: the domain, page and work panels each reach their answer through `harness-call` rather than through the pages system.\\n\\nThis was recorded as a comment on the source before the module carried it. It is filed rather than dropped because the cost of forgetting it is a change that compiles and then fails only in Alan's editor.",
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts b/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts
 index a9de3b8c68b0ffd7a589a1cc411c319cf23ebda4..dda7c70ce1bb550a3d9ebd9e4d3be95d868e8887 100644
 --- a/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts
