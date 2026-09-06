@@ -29,12 +29,12 @@ export function toPins(rows: readonly Page[]): readonly LocationPin[] {
       longitude,
       address: typeof row.address === "string" && row.address.length > 0 ? row.address : undefined,
       scheduledStart:
-        typeof row.scheduledStart === "string" && row.scheduledStart.length > 0
-          ? row.scheduledStart
+        typeof row.scheduledStartAt === "string" && row.scheduledStartAt.length > 0
+          ? row.scheduledStartAt
           : undefined,
       scheduledEnd:
-        typeof row.scheduledEnd === "string" && row.scheduledEnd.length > 0
-          ? row.scheduledEnd
+        typeof row.scheduledEndAt === "string" && row.scheduledEndAt.length > 0
+          ? row.scheduledEndAt
           : undefined,
     }
     const parsed = LocationPinSchema.safeParse(candidate)
