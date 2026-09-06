@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/supervising/memory-reaper-global/memory-reaper-global.module.ts b/seat-system/supervising/memory-reaper-global/memory-reaper-global.module.ts
+index e1aa3de78a77f0e2695190a2197c3649658d1eb9..59697830d557f6b16cc53fc62db6a42db589926a 100644
+--- a/seat-system/supervising/memory-reaper-global/memory-reaper-global.module.ts
++++ b/seat-system/supervising/memory-reaper-global/memory-reaper-global.module.ts
+@@ -14,7 +14,7 @@ export const memoryReaperGlobal = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A host with no swap at all counts as one whose swap is drained.",
++      statement: "A host with no swap at all counts as a host whose swap is drained.",
+     },
+     {
+       invariantKind: "departure",
