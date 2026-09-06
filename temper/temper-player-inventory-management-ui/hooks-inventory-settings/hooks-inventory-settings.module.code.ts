@@ -4,6 +4,7 @@ import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
 import { deletePages } from "@akasha/pages-access/delete"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage, upsertPages } from "@akasha/pages-access/upsert"
+import { askComposed } from "@akasha/pages-query/store-spelled-asking"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
 import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
@@ -29,7 +30,7 @@ import type { InventoryRuleSettings } from "@akasha/temper-items-rules-core/inve
 import { writesFor } from "@akasha/temper-items-rules-core/inventory-rule-writes"
 import { isRecord } from "@akasha/utils-narrow/is-record"
 import type { Json } from "@akasha/utils-narrow/json-value"
-import { useCallback, useMemo } from "react"
+import { useCallback, useEffect, useMemo, useSyncExternalStore } from "react"
 
 const PLAYER_PAGE_TYPE_SLUG = "temper-player"
 
@@ -50,42 +51,122 @@ function asSettingsBlob(value: unknown): SettingsBlob {
   return (isRecord(value) ? value : {}) as SettingsBlob
 }
 
-function asJson(value: SettingsBlob): Json {
-  return value as Json
+const SETTINGS = "settings"
+
+const ENDING = "json"
+
+// A player's settings are a file beside the page, so a query answers the four characters naming
+// that file's ending unless the query names `settings` under `files`. Reading the ending as an
+// empty blob is what left every panel unset, and writing on top of that empty blob is what would
+// have put one panel's settings over the whole file.
+async function settingsBodyOf(userId: string): Promise<SettingsBlob> {
+  const asked = await askComposed({
+    "page-type": PLAYER_PAGE_TYPE_SLUG,
+    where: { title: { is: userId } },
+    keys: ["slug", SETTINGS],
+    files: [SETTINGS],
+  })
+  if (!asked.ok) throw new Error(asked.why)
+  const held = asked.answer.rows[0]?.values[SETTINGS]
+  if (held === undefined || held === "") return {}
+  if (typeof held !== "string") {
+    throw new Error(`\`${SETTINGS}\` came back as a ${typeof held} rather than the file's body.`)
+  }
+  if (held === ENDING) {
+    throw new Error(
+      `\`${SETTINGS}\` came back as the ending \`${ENDING}\` rather than the body of the file beside the player page, so what is already set went unread. Nothing has been written.`
+    )
+  }
+  return asSettingsBlob(JSON.parse(held))
+}
+
+// EVERY PANEL WRITES THE WHOLE BLOB, merged onto what was read, so the five hooks share one copy.
+// Were each to hold its own, a write from one panel would carry a blob read before another
+// panel's write and put it back over it.
+interface SettingsHeld {
+  readonly blob: SettingsBlob
+  readonly isRead: boolean
+  readonly error: Error | null
+}
+
+const UNREAD: SettingsHeld = { blob: {}, isRead: false, error: null }
+
+let heldFor: string | null = null
+let held: SettingsHeld = UNREAD
+const listeners = new Set<() => void>()
+
+function tellListeners() {
+  for (const listener of listeners) listener()
+}
+
+function holdSettings(next: SettingsHeld) {
+  held = next
+  tellListeners()
+}
+
+function subscribeSettings(listener: () => void) {
+  listeners.add(listener)
+  return () => {
+    listeners.delete(listener)
+  }
+}
+
+function readSettings(): SettingsHeld {
+  return held
 }
 
 function useSettingsBlob() {
   const userId = useUserId()
-  const { rows } = usePages({
-    pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
-    where:
-      userId != null ? [{ key: "title", eq: userId }] : [{ key: "title", eq: NEVER_MATCH_VALUE }],
-    limit: 1,
-  })
-  const playerRow = rows[0]
-  const settings = useMemo<SettingsBlob>(
-    () => asSettingsBlob(playerRow?.settings),
-    [playerRow?.settings]
-  )
+  const state = useSyncExternalStore(subscribeSettings, readSettings, readSettings)
+
+  useEffect(() => {
+    if (userId == null) {
+      heldFor = null
+      holdSettings(UNREAD)
+      return
+    }
+    if (heldFor === userId) return
+    heldFor = userId
+    holdSettings(UNREAD)
+    void (async () => {
+      try {
+        const blob = await settingsBodyOf(userId)
+        if (heldFor !== userId) return
+        holdSettings({ blob, isRead: true, error: null })
+      } catch (thrown) {
+        if (heldFor !== userId) return
+        holdSettings({
+          blob: {},
+          isRead: false,
+          error: thrown instanceof Error ? thrown : new Error(String(thrown)),
+        })
+      }
+    })()
+  }, [userId])
+
   const runUpsert = useOptimisticUpsertPage((args) => upsertPage(args))
 
   const rawWrite = useCallback(
     async (next: SettingsBlob) => {
       if (userId == null) return
+      if (!state.isRead) {
+        throw new Error(
+          "the settings beside the player page have not been read yet, so writing now would put this over them"
+        )
+      }
       await runUpsert({
         pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
         where: [{ key: "title", eq: userId }],
-        set: {
-          title: userId,
-          settings: asJson(next),
-        },
+        set: { title: userId, [SETTINGS]: ENDING },
+        bodies: { [SETTINGS]: JSON.stringify(next) },
       })
+      holdSettings({ blob: next, isRead: true, error: null })
     },
-    [runUpsert, userId]
+    [runUpsert, userId, state.isRead]
   )
 
   const write = useSingleFlight(rawWrite)
-  return { settings, write, userId }
+  return { settings: state.blob, write, userId }
 }
 
 export function useCraftBagAccess() {

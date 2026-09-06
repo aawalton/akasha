@@ -17,7 +17,7 @@ export const hooksInventorySettings = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule page no rule wants any more is taken away in the same save.",
+      statement: "A rule page no rule wants is taken away in the same save.",
     },
     {
       invariantKind: "absence",
@@ -28,8 +28,24 @@ export const hooksInventorySettings = {
       statement: "The item rules and the buy rules are still read from the settings blob.",
     },
     {
-      invariantKind: "gap",
-      statement: "The settings blob answers with the ending of its file rather than its body.",
+      invariantKind: "departure",
+      statement: "The settings blob is asked for under `files`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A blob answering as its file's ending is refused rather than read as unset.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One copy of the blob is held here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every panel reads that copy.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A write before the blob is read is refused.",
     },
   ],
 } as const satisfies Module
