@@ -23,11 +23,11 @@ export const restateValue = {
     },
     {
       invariantKind: "departure",
-      statement: "A key stating what was asked for already is refused.",
+      statement: "A key already stating the text asked for is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "One key is restated and the rest of the body is left as it is.",
+      statement: "One key is restated and the rest of the body is left unchanged.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +35,7 @@ export const restateValue = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here judges whether that key may be restated, which is the caller's.",
+      statement: "Nothing here judges whether that key may be restated.",
     },
     {
       invariantKind: "absence",
