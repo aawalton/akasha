@@ -1,0 +1,18 @@
+diff --git a/alan/harness/monarch/history/monarch-history.module.ts b/alan/harness/monarch/history/monarch-history.module.ts
+index 594f4d26a9c365d8b68d291b927575bda382cc31..1e397a179d59713230a0d155366cc1c2821867bd 100644
+--- a/alan/harness/monarch/history/monarch-history.module.ts
++++ b/alan/harness/monarch/history/monarch-history.module.ts
+@@ -10,7 +10,12 @@ export const monarchHistory = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A row carries the standing category by its title where a page names one and by its slug otherwise.",
++        "A row carries the standing category by its title where a page names that category.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A row carries the standing category by its slug where no page names that category.",
+     },
+     {
+       invariantKind: "departure",
