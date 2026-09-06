@@ -100,7 +100,7 @@ async function titleBySlug(pageTypeSlug: string, slug: string | undefined): Prom
   return { title: found.row === null ? null : titleOf(found.row) }
 }
 
-export async function exerciseSessionShow(argv: readonly string[] = []): Promise<Answer> {
+export async function trackWorkoutShow(argv: readonly string[] = []): Promise<Answer> {
   const said = wordsIn(argv, SHAPE)
   if ("refused" in said) return refusedBy(said.refused)
 

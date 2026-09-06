@@ -1,9 +1,9 @@
 import type { Command } from "@akasha/command-system/command"
 
-export const exerciseSessionShow = {
+export const trackWorkoutShow = {
   id: "01a0685d-b7ab-740e-bebb-d9fc659109e8",
   pageTypeSlug: "command",
-  slug: "exercise-session-show",
+  slug: "track-workout-show",
   definition: "the command naming one session's header and every set logged against it",
   code: "ts",
   changeKindSlug: "change-none",
