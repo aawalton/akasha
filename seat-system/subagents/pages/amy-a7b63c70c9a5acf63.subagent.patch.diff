@@ -253442,3 +253442,15 @@ DC_a)m
 literal 0
 HcmV?d00001
 
+diff --git a/personas/ember/ember.persona.ts b/personas/ember/ember.persona.ts
+index 2ef99cb83f86f941c8adc528392146622685219b..745daf8f2afba12a2fef7481f60f2ff9e3ec8f0f 100644
+--- a/personas/ember/ember.persona.ts
++++ b/personas/ember/ember.persona.ts
+@@ -5,6 +5,7 @@ export const ember = {
+   pageTypeSlug: "persona",
+   slug: "ember",
+   cover: "/api/image/019f324d-7cfa-70c9-aeb5-1f9678f7a8ea",
++  desktopWallpaper: "png",
+   mobileWallpaper: "png",
+   definition:
+     "the forge-cat of Olympus who stood up human-shaped and asked for a hammer of her own",
