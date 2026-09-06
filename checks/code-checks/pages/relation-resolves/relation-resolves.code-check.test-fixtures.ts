@@ -8,6 +8,7 @@ import {
   pathFiled,
   relationFiled,
   schemaFiled,
+  valueAlsoFiled,
 } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 
@@ -76,19 +77,38 @@ export function stating(
   return `export const it = { id: "${id}", slug: "${slug}", pageTypeSlug: "${pageTypeSlug}"${read}${stated} }\n`
 }
 
+export function valued(
+  id: string,
+  slug: string,
+  pageTypeSlug: string,
+  more: Readonly<Record<string, unknown>> = {}
+): Record<string, unknown> {
+  const read = pageTypeSlug.endsWith("-property") ? { propertySlug: slug } : {}
+  return { id, slug, pageTypeSlug, ...read, ...more }
+}
+
+function saying(more: Readonly<Record<string, unknown>>): string {
+  return Object.entries(more)
+    .map(([key, held]) => `, ${key}: ${JSON.stringify(held)}`)
+    .join("")
+}
+
 export function filing(
   root: string,
   path: string,
   id: string,
   pageTypeSlug: string,
   slug: string,
-  body: string = stating(id, slug, pageTypeSlug)
+  more: Readonly<Record<string, unknown>> = {}
 ): undefined {
-  if (!existsSync(join(root, path))) wrote(root, path, body)
+  if (!existsSync(join(root, path))) {
+    wrote(root, path, stating(id, slug, pageTypeSlug, saying(more)))
+  }
   const held = [{ path, id }]
   idFiled(root, id, held)
   listedAlsoFiled(root, pageTypeSlug, slug, held)
   pathFiled(root, path, held)
+  valueAlsoFiled(root, pageTypeSlug, [{ path, value: valued(id, slug, pageTypeSlug, more) }])
 }
 
 export function naming(
@@ -103,47 +123,32 @@ export function naming(
 
 const PAGE_ID = "01a04d99-71ca-7e06-9000-000000000000"
 
-const PAGE_DECLARES =
-  ', extendsSlug: [], properties: [{ pagePropertySlug: "id", required: true, many: false }' +
-  ', { pagePropertySlug: "slug", required: true, many: false }]'
+const PAGE_DECLARES = {
+  extendsSlug: [],
+  properties: [
+    { pagePropertySlug: "id", required: true, many: false },
+    { pagePropertySlug: "slug", required: true, many: false },
+  ],
+}
 
 export function rooted(carrying: boolean = true): string {
   const root = scratch.rootFor("akasha-relation-resolves-")
-  filing(
-    root,
-    "akasha/t/page.page-type.ts",
-    PAGE_ID,
-    "page-type",
-    "page",
-    stating(PAGE_ID, "page", "page-type", PAGE_DECLARES)
-  )
+  filing(root, "akasha/t/page.page-type.ts", PAGE_ID, "page-type", "page", PAGE_DECLARES)
   let count = 0
   for (const [slug, extendsSlug, mortal] of TYPES) {
     count += 1
     const path = `akasha/t/${slug}.page-type.ts`
     const id = `01a04d99-71ca-7e06-9000-00000000000${count}`
-    const said = extendsSlug === null ? "[]" : `["${extendsSlug}"]`
-    const dies = mortal ? ", mortal: true" : ""
-    filing(
-      root,
-      path,
-      id,
-      "page-type",
-      slug,
-      stating(id, slug, "page-type", `, extendsSlug: ${said}${dies}`)
-    )
+    const said = extendsSlug === null ? [] : [extendsSlug]
+    const dies = mortal ? { mortal: true } : {}
+    filing(root, path, id, "page-type", slug, { extendsSlug: said, ...dies })
   }
   for (const [slug, shape] of Object.entries(SCHEMA)) {
     schemaFiled(root, String(shape.pageTypeSlug), slug, [{ ...shape, slug, propertySlug: slug }])
   }
-  filing(
-    root,
-    M,
-    M_ID,
-    "record-property",
-    "marks",
-    stating(M_ID, "marks", "record-property", ', properties: [{ pagePropertySlug: "domain-slug" }]')
-  )
+  filing(root, M, M_ID, "record-property", "marks", {
+    properties: [{ pagePropertySlug: "domain-slug" }],
+  })
   if (carrying) filing(root, D, D_ID, "domain", "d")
   return root
 }
