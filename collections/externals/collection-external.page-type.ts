@@ -42,7 +42,7 @@ export const collectionExternal = {
     },
     {
       invariantKind: "departure",
-      statement: "A provider that answered with no id leaves the collection stating none.",
+      statement: "A provider that answered with no id leaves the collection stating no id.",
     },
     {
       invariantKind: "departure",
