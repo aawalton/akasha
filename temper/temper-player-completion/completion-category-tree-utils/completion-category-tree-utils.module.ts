@@ -32,7 +32,7 @@ export const completionCategoryTreeUtils = {
     },
     {
       invariantKind: "departure",
-      statement: "Children are asked for under one named tab.",
+      statement: "Children are asked for under a named tab.",
     },
     {
       invariantKind: "departure",
