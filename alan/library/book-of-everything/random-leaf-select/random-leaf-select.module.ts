@@ -9,7 +9,7 @@ export const randomLeafSelect = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A draw asking for more than there are gives every one there is.",
+      statement: "A draw asking for more leaves than there are gives every leaf there is.",
     },
     {
       invariantKind: "departure",
