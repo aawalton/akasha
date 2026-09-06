@@ -30,17 +30,21 @@ export const storeSpelling = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The store leaves out a key the store has no column for and answers null for one the store has.",
+      statement: "The store leaves out a key the store has no column for.",
     },
     {
       invariantKind: "departure",
-      statement: "The two spellings are written here rather than reached for.",
+      statement: "The store answers null for a key the store has a column for.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Reaching the two spellings would put a page-file reader behind a package that opens none.",
+        "The camel spelling and the declared spelling are written here rather than reached for.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "Reaching those spellings would put a page-file reader behind a package that opens no page file.",
     },
     {
       invariantKind: "absence",
