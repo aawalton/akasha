@@ -10,8 +10,11 @@ export const supervisorLifecycleDeathWrite = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A supervisor going down to re-exec writes no stopped status, its seat not stopping.",
+      statement: "A supervisor going down to re-exec writes no stopped status.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seat of a supervisor going down to re-exec is not stopping.",
     },
     {
       invariantKind: "departure",
@@ -19,7 +22,11 @@ export const supervisorLifecycleDeathWrite = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here writes anything; only the writing is decided.",
+      statement: "Nothing here writes anything.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Only the writing is decided.",
     },
   ],
 } as const satisfies Module
