@@ -530,7 +530,7 @@ index 617880ccbb324e91f3e2a67e6d425a6697f4246c..68bbc8ee1e93f087e1afe86a422d651a
 +  expect(folding(repoAt(), RESTATED, BOTH_RUN)).toEqual(BOTH_RUN)
 +})
 diff --git a/command-system/drafting/drafting.module.ts b/command-system/drafting/drafting.module.ts
-index 39862448f1f8dc11d8ae3777eea35810e319cbb2..bf6631dfaa8e302d8818625933567956fa9bf40f 100644
+index 39862448f1f8dc11d8ae3777eea35810e319cbb2..16079d85272ce5bc24c9cb7247c21b53ebfd9af4 100644
 --- a/command-system/drafting/drafting.module.ts
 +++ b/command-system/drafting/drafting.module.ts
 @@ -7,6 +7,7 @@ export const drafting = {
@@ -539,5 +539,42 @@ index 39862448f1f8dc11d8ae3777eea35810e319cbb2..bf6631dfaa8e302d8818625933567956
    test: "ts",
 +  testFixtures: "ts",
    invariants: [
+     {
+       invariantKind: "departure",
+@@ -218,10 +219,26 @@ export const drafting = {
+       invariantKind: "absence",
+       statement: "No check judges the body of a patch file.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A patch carries whether the checks run on its changes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A patch carries whether its writer owes reading.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A patch carries whether its readers owe reading again.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A patch carries whether the checks run on its changes and whether the writer owes reading.",
++        "The checks a change kind runs and the readings that kind owes become a patch's flags.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A call carrying no change kind runs every check and owes every reading.",
+     },
+     {
+       invariantKind: "departure",
+@@ -230,7 +247,7 @@ export const drafting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The checks are unioned apart from the reading the writer owes.",
++      statement: "Each flag a patch carries is unioned on its own.",
+     },
      {
        invariantKind: "departure",
