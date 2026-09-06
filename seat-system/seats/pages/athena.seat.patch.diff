@@ -1,3 +1,46 @@
+diff --git a/seat-system/terminal-init/terminal-ended/terminal-ended.module.code.ts b/seat-system/terminal-init/terminal-ended/terminal-ended.module.code.ts
+index 013da3d3720bc24a02f3b6b70ac22b57197f6e0d..95497eec6a14ece76ed9708c01804a2ff2431c93 100644
+--- a/seat-system/terminal-init/terminal-ended/terminal-ended.module.code.ts
++++ b/seat-system/terminal-init/terminal-ended/terminal-ended.module.code.ts
+@@ -2,14 +2,14 @@ import { ROOT } from "../terminal-entry-points/terminal-entry-points.module.code
+ 
+ export const ENDED_FN = "__editor_terminal_ended"
+ 
+-export const ENDED_DIR = "alan/harness/code-editor/code-editor-terminals/pages"
++export const TERMINAL_PAGES_DIR = "alan/harness/code-editor/code-editor-terminals/pages"
+ 
+ export function terminalEndedFnLines(): readonly string[] {
+   return [
+     `${ENDED_FN}() {`,
+     "  local _status=${1:-$?}",
+     `  local _root="${ROOT}"`,
+-    `  local _dir="$_root/${ENDED_DIR}"`,
++    `  local _dir="$_root/${TERMINAL_PAGES_DIR}"`,
+     '  mkdir -p "$_dir" 2>/dev/null || return 0',
+     '  local _stat _rest _start _signal=""',
+     "  _stat=$(</proc/$$/stat) || return 0",
+diff --git a/seat-system/terminal-init/terminal-ended/terminal-ended.module.test.ts b/seat-system/terminal-init/terminal-ended/terminal-ended.module.test.ts
+index f08e238b2c982324e1e56f61ad2c14b2d668ab85..195478a8c268ec9ec5ca02dc49632bff027a2f7c 100644
+--- a/seat-system/terminal-init/terminal-ended/terminal-ended.module.test.ts
++++ b/seat-system/terminal-init/terminal-ended/terminal-ended.module.test.ts
+@@ -1,7 +1,7 @@
+ import { describe, expect, test } from "bun:test"
+ import {
+-  ENDED_DIR,
+   ENDED_FN,
++  TERMINAL_PAGES_DIR,
+   terminalEndedFnLines,
+   terminalEndedTrapLines,
+ } from "./terminal-ended.module.code.ts"
+@@ -23,7 +23,7 @@ describe("what is left", () => {
+   })
+ 
+   test("sits beside the terminal's own page under the tree the reader looks in", () => {
+-    expect(said).toContain(`local _dir="$_root/${ENDED_DIR}"`)
++    expect(said).toContain(`local _dir="$_root/${TERMINAL_PAGES_DIR}"`)
+     expect(said).toContain(".code-editor-terminal.ended.uncommitted.attachment.json")
+   })
+ 
 diff --git a/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.code.ts b/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..034052df4abfe6a38b75cfecb539ae4385490240
