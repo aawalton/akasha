@@ -46,3 +46,15 @@ index dfe4bbd4d42327cb41a2d5ba1115fd6137b9fcce..c6e7a2dfc04e7852e0202a35fd3508db
    viewPlace: 1,
    layout: "cards",
    narrows: [{ key: "status", comparison: "is", values: ["Not Started"] }],
+diff --git a/pages/views/pages/claude-accounts-claude-accounts.view.ts b/pages/views/pages/claude-accounts-claude-accounts.view.ts
+index f0221404344db9fa83c04f83ea1f47468ea35854..d30a04759620843b011487849f04e11078b3d910 100644
+--- a/pages/views/pages/claude-accounts-claude-accounts.view.ts
++++ b/pages/views/pages/claude-accounts-claude-accounts.view.ts
+@@ -6,6 +6,7 @@ export const claudeAccountsClaudeAccounts = {
+   slug: "claude-accounts-claude-accounts",
+   title: "Claude Accounts",
+   navSlug: "claude-accounts",
++  pageType: "claude-account",
+   viewPlace: 0,
+   viewSorts: [{ key: "seven-day-started-at", descending: false }],
+   visibleProperties: [
