@@ -1,3 +1,15 @@
+diff --git a/changes/workflow-language/package.json b/changes/workflow-language/package.json
+index c13b221d4c6cb1e210a8fae3bce4ee73f2abab7a..3fc4ca304567ce3659c0220d0fb3aacf4f2bd071 100644
+--- a/changes/workflow-language/package.json
++++ b/changes/workflow-language/package.json
+@@ -16,6 +16,7 @@
+     "./rbac-types": "./rbac-types/rbac-types.module.code.ts",
+     "./retry-transient-ddl": "./retry-transient-ddl/retry-transient-ddl.module.code.ts",
+     "./rollback-image": "./rollback-image/rollback-image.module.code.ts",
++    "./secret-place": "./secret-place/secret-place.workflow-step.code.ts",
+     "./secrets": "./secrets/secrets.module.code.ts",
+     "./set-image": "./set-image/set-image.module.code.ts",
+     "./sops-decrypt": "./sops-decrypt/sops-decrypt.workflow-step.code.ts",
 diff --git a/changes/workflow-language/secret-place/secret-place.workflow-step.code.ts b/changes/workflow-language/secret-place/secret-place.workflow-step.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..257ad04580768a2def3a67bbbc7f576fb0a500a7
