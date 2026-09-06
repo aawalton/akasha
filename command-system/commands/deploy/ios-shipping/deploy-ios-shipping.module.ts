@@ -10,7 +10,7 @@ export const deployIosShipping = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The build is the one the mobile commands already run.",
+      statement: "The build is the build the mobile commands already run.",
     },
     {
       invariantKind: "departure",
@@ -38,7 +38,7 @@ export const deployIosShipping = {
     },
     {
       invariantKind: "departure",
-      statement: "A build takes its own number rather than being told one.",
+      statement: "A build takes its own number rather than being told a number.",
     },
     {
       invariantKind: "departure",
