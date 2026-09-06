@@ -17,7 +17,7 @@ export const supervisorAgentAction = {
     },
     {
       invariantKind: "departure",
-      statement: "A second proxy swap while one is in flight is dropped.",
+      statement: "A second proxy swap while a first swap is in flight is dropped.",
     },
     {
       invariantKind: "departure",
