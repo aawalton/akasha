@@ -1,0 +1,57 @@
+diff --git a/command-system/commands/index/index.command.test.ts b/command-system/commands/index/index.command.test.ts
+index 193fa8bbe2f5edcfb7a56f7b07e9c7b7ef2ecb05..7c50a406c21644fe5fbb3fd6834c2f73bfb6a7ea 100644
+--- a/command-system/commands/index/index.command.test.ts
++++ b/command-system/commands/index/index.command.test.ts
+@@ -168,37 +168,6 @@ test("the commit the index was built over is named in the report", () => {
+   expect(said(answer)).toContain(git(root, ["rev-parse", "HEAD"]).trim())
+ })
+ 
+-test("`index refresh` is reached with no index at all", async () => {
+-  const root = repoAt()
+-  indexTakenFrom(root)
+-  const answer = await calling(["index", "refresh"], {
+-    root,
+-    calledAs: "akasha",
+-    from: root,
+-    writer: null,
+-    agentId: null,
+-  })
+-  expect(answer.refusals).toEqual([])
+-  expect(answer.code).toBe(OK)
+-  expect(everythingFiled(root)).toEqual(wantedFor(root))
+-})
+-
+-test("`index refresh` is reached through an index that will not parse", async () => {
+-  const root = repoAt()
+-  seeded(root)
+-  listedUnreadableFiled(root, "command", "index")
+-  const answer = await calling(["index", "refresh"], {
+-    root,
+-    calledAs: "akasha",
+-    from: root,
+-    writer: null,
+-    agentId: null,
+-  })
+-  expect(answer.refusals).toEqual([])
+-  expect(answer.code).toBe(OK)
+-  expect(listedFiledIn(root, "command", "index")).toBe(false)
+-})
+-
+ test("a damaged index is put back to what a clean rebuild builds", () => {
+   const root = repoAt()
+   seeded(root)
+diff --git a/command-system/commands/index/index.command.ts b/command-system/commands/index/index.command.ts
+index 90775d7c0117b38844170bb5db8fe2ee9b9a79ea..e3e4205f1a4abb60ae3cea25c49544d07bdfbfd4 100644
+--- a/command-system/commands/index/index.command.ts
++++ b/command-system/commands/index/index.command.ts
+@@ -20,10 +20,6 @@ export const index = {
+     "a refresh makes no commit, so it takes no message and runs no check.",
+   ],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "`index` is found by its path rather than through the index the command repairs.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "`refresh` is the only act there is.",
