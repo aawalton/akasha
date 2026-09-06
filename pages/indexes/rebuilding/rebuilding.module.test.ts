@@ -129,6 +129,12 @@ test("a folder beside the index opening `index.` goes and one under another name
   expect(existsSync(join(beside, "indexes"))).toBe(true)
 })
 
+test("an index that is not there yet sweeps nothing rather than refusing", () => {
+  const root = scratch.rootFor("akasha-swept-")
+
+  expect(sweptBeside(join(root, "data", "index"))).toEqual([])
+})
+
 test("a root under any other name sweeps nothing, so a test's scratch is safe", () => {
   const root = scratch.rootFor("akasha-swept-")
   const under = join(root, "scratch")

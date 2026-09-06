@@ -58,7 +58,7 @@ function bodyAt(at: string): string | null {
 // index. This answers only for a folder actually named `index`, because a scratch index built for a
 // test sits beside folders that are nobody's business here.
 export function sweptBeside(root: string): readonly string[] {
-  if (basename(root) !== INDEX) return []
+  if (basename(root) !== INDEX || !existsSync(root)) return []
   const taken: string[] = []
   for (const one of readdirSync(root, { withFileTypes: true })) {
     if (one.isDirectory()) continue

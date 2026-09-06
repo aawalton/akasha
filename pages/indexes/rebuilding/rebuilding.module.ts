@@ -49,6 +49,10 @@ export const rebuilding = {
       statement: "That sweep answers only for a folder named `index`.",
     },
     {
+      invariantKind: "departure",
+      statement: "An index that is not there yet sweeps nothing rather than refusing.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here decides whether a rebuild should run.",
     },
