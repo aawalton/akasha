@@ -8,6 +8,4 @@ export const theCompanyYears = {
   definition: "the years at the company, which I have called a special kind of hell",
   parentSlugs: ["the-chapters-of-my-life"],
   relatedSlugs: ["why-i-stopped-working", "what-i-let-myself-take-on"],
-  unsettled:
-    "Only their structure is captured. What they cost me, how long they ran and how they ended are unwritten.\n\nHow they compose with the burnout decline and with my leaving employment is unworked.\n\nThis is a dark one, so it gets opened at my pace.",
 } as const satisfies AllAboutAlanTopic
