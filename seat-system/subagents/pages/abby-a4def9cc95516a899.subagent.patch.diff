@@ -1,0 +1,76 @@
+diff --git a/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts b/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
+index f5b29d43de6b918a72d0f39eaf9cb9370e16a890..7ac1aa4e560f9748f9bb268e7a9291ca3471318b 100644
+--- a/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
++++ b/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
+@@ -5,7 +5,6 @@ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { TopicParentSlugs } from "./properties/topic-parent-slugs.relation-property.ts"
+ import type { TopicRelatedSlugs } from "./properties/topic-related-slugs.relation-property.ts"
+ import type { TopicSettled } from "./properties/topic-settled.text-property.ts"
+-import type { TopicUnsettled } from "./properties/topic-unsettled.text-property.ts"
+ 
+ export type AllAboutAlanTopic = Page & {
+   title: Title
+@@ -13,7 +12,6 @@ export type AllAboutAlanTopic = Page & {
+   parentSlugs?: TopicParentSlugs
+   relatedSlugs?: TopicRelatedSlugs
+   settled?: TopicSettled
+-  unsettled?: TopicUnsettled
+ }
+ 
+ export const allAboutAlanTopic = {
+@@ -27,7 +25,6 @@ export const allAboutAlanTopic = {
+     "relation-property/topic-parent-slugs",
+     "relation-property/topic-related-slugs",
+     "text-property/topic-settled",
+-    "text-property/topic-unsettled",
+   ],
+   properties: [
+     { pagePropertySlug: "text-property/title", required: true, many: false },
+@@ -45,7 +42,6 @@ export const allAboutAlanTopic = {
+       max: null,
+     },
+     { pagePropertySlug: "text-property/topic-settled", required: false, many: false },
+-    { pagePropertySlug: "text-property/topic-unsettled", required: false, many: false },
+   ],
+   invariants: [
+     {
+@@ -60,10 +56,6 @@ export const allAboutAlanTopic = {
+       invariantKind: "departure",
+       statement: "Exactly one topic sits under no topic.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A topic holds its settled text apart from its unsettled text.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A topic that has neither is a title and a definition alone.",
+diff --git a/alan/books/all-about-alan/topics/properties/topic-unsettled.text-property.ts b/alan/books/all-about-alan/topics/properties/topic-unsettled.text-property.ts
+deleted file mode 100644
+index b257ffc3c0d4b45660c55ab61d02b0d89a2ec151..0000000000000000000000000000000000000000
+--- a/alan/books/all-about-alan/topics/properties/topic-unsettled.text-property.ts
++++ /dev/null
+@@ -1,23 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type TopicUnsettled = string
+-
+-export const topicUnsettled = {
+-  id: "01a0655a-b2b5-7a7e-b4c0-593cf353f845",
+-  pageTypeSlug: "text-property",
+-  slug: "topic-unsettled",
+-  propertySlug: "unsettled",
+-  definition: "what is still open about a topic",
+-  max: 1000,
+-  nameFormatSlug: null,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "This property holds the open questions rather than the facts that stand.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A blank line divides one paragraph from the next.",
+-    },
+-  ],
+-} as const satisfies TextProperty
