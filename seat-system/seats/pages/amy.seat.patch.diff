@@ -116,6 +116,25 @@ index 3f1b55fc6ca9c01af6c92787d070742c1f50e295..58dd454b10d2931ddbbc2bf1a1352c10
  }
  
  function fromAkasha(seatName: string): SeatStanding | null {
+diff --git a/seat-system/seat-forest/seat-forest.module.ts b/seat-system/seat-forest/seat-forest.module.ts
+index d57e661c8f153f31ab589d55a0c6090e1dbe6632..f218b0fb595df1270514420a4a1034702f3f88e3 100644
+--- a/seat-system/seat-forest/seat-forest.module.ts
++++ b/seat-system/seat-forest/seat-forest.module.ts
+@@ -6,4 +6,14 @@ export const seatForest = {
+   slug: "seat-forest",
+   definition: "every seat akasha holds, with each seat's principal and parent, as rows",
+   code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A row's mode is the mode observed of the supervisor holding that seat.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat nothing observed a mode of shows the mode it was started in.",
++    },
++  ],
+ } as const satisfies Module
 diff --git a/seat-system/seat-modes/seat-modes.module.code.ts b/seat-system/seat-modes/seat-modes.module.code.ts
 index 12ee87c54a930a50ed86d0bffa10df3c08925f34..7c1a63f52b7ec312257f843afdb9599aa00a8273 100644
 --- a/seat-system/seat-modes/seat-modes.module.code.ts
