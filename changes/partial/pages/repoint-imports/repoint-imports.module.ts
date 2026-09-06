@@ -1,9 +1,9 @@
 import type { Module } from "@akasha/code-system/module"
 
-export const pathRepointing = {
+export const repointImports = {
   id: "01a04efb-db14-7000-a96d-4bace8327509",
   pageTypeSlug: "module",
-  slug: "path-repointing",
+  slug: "repoint-imports",
   definition: "a body rewritten so the paths it names follow the files that moved",
   code: "ts",
   test: "ts",

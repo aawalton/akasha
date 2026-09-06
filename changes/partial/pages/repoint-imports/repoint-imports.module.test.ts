@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { move } from "../../command-system/commands/move/move.command.code.ts"
+import { move } from "../../../../command-system/commands/move/move.command.code.ts"
 import {
   ARRIVES,
   bodyIn,
@@ -10,8 +10,8 @@ import {
   repoWith,
   scratch,
   TARGET,
-} from "../../command-system/commands/move/move.command.test-fixtures.ts"
-import { repointed } from "./path-repointing.module.code.ts"
+} from "../../../../command-system/commands/move/move.command.test-fixtures.ts"
+import { repointed } from "./repoint-imports.module.code.ts"
 
 afterAll(scratch.sweep)
 
