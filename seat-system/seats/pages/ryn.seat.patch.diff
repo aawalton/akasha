@@ -1,0 +1,14 @@
+diff --git a/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.ts b/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.ts
+index ff8d5fac285eb52ad26daaa8c41e2b45478e861d..cbe3fb24eeebc622da5c11542a4ddb9ba5e05595 100644
+--- a/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.ts
++++ b/seat-system/supervising/supervisor-interactive-boot/supervisor-interactive-boot.module.ts
+@@ -18,7 +18,8 @@ export const supervisorInteractiveBoot = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An agent id is created only where neither the handoff nor the options carry one.",
++      statement:
++        "An agent id is created only where neither the handoff nor the options carry an agent id.",
+     },
+     {
+       invariantKind: "departure",
