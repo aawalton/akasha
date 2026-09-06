@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/indexes/reaching/reaching.module.ts b/pages/indexes/reaching/reaching.module.ts
+index 3960f00eb1eef6ecee8f5caff8a5d772b59a74bb..d82fbe8fb61df8162308c73940ca72acd9acf1a0 100644
+--- a/pages/indexes/reaching/reaching.module.ts
++++ b/pages/indexes/reaching/reaching.module.ts
+@@ -23,7 +23,8 @@ export const reaching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page's own type is asked only where a key is carried by more than one.",
++      statement:
++        "A page's own type is asked only where a key is carried by more than one property.",
+     },
+     {
+       invariantKind: "departure",
