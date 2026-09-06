@@ -1,5 +1,5 @@
 diff --git a/pages/indexes/property-carrying/property-carrying.module.test.ts b/pages/indexes/property-carrying/property-carrying.module.test.ts
-index f9510b6ab3d0e74d71df0452837617d601820cb7..7bcf024f42cca1d4a0681f098e94bbfee9a67902 100644
+index f9510b6ab3d0e74d71df0452837617d601820cb7..e945b4aef1836c8814736456deae90dc205a90c5 100644
 --- a/pages/indexes/property-carrying/property-carrying.module.test.ts
 +++ b/pages/indexes/property-carrying/property-carrying.module.test.ts
 @@ -6,6 +6,7 @@ import {
@@ -50,3 +50,12 @@ index f9510b6ab3d0e74d71df0452837617d601820cb7..7bcf024f42cca1d4a0681f098e94bbfe
    const said = carryingOf(root, "held")
    expect("carrying" in said ? said.carrying.map((one) => one.path) : []).toEqual([
      "akasha/one.thing.ts",
+@@ -106,7 +118,7 @@ function extendingBoth(root: string): undefined {
+   filed(root, "deeper", "page-type", DEEPER)
+   extending(root, THING, DEEPER, pageAt("deeper", "page-type"))
+   extending(root, OTHER, DEEPER, pageAt("deeper", "page-type"))
+-  listedFiled(root, "deeper", "two", [{ path: "akasha/two.deeper.ts", id: TWO }])
++  listedAndValued(root, "deeper", "two", "akasha/two.deeper.ts", TWO)
+ }
+ 
+ test("a page type naming two page types above it carries what the first of them declares", () => {
