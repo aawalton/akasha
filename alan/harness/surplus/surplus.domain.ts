@@ -23,7 +23,8 @@ export const surplus = {
 
     {
       invariantKind: "departure",
-      statement: "Every site showing the surplus is carried the surplus rather than taking one.",
+      statement:
+        "Every site showing the surplus is carried the surplus rather than taking the surplus.",
     },
     {
       invariantKind: "departure",
