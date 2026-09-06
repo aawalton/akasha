@@ -17,6 +17,19 @@ index 2adf96c97bee91bdb3dea0cfbeb0e2cc3ac8091d..f0edc8f5cdfc3be86eea7a5d0a1e6232
      const value: unknown = "default" in one ? one.default : undefined
      return typeof value === "string" ? value : null
    }
+diff --git a/pages/indexes/entries/index-entries.module.code.ts b/pages/indexes/entries/index-entries.module.code.ts
+index cc32cf29299f05fd64f3dfb9d3b3b4ddc8857e9b..1c89188895b24137a8fec9fba6c37b3e8d4e7c51 100644
+--- a/pages/indexes/entries/index-entries.module.code.ts
++++ b/pages/indexes/entries/index-entries.module.code.ts
+@@ -3,7 +3,7 @@ import { exportedAs } from "@akasha/pages/page-export-name"
+ import { besideAt, secretAt, uncommittedAt } from "@akasha/pages/page-file-name"
+ import { partsOf, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
+ import { slugFor } from "@akasha/pages/page-property-key"
+-import { slugAt, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
++import { slugAt, slugOf, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
+ import { indexIdentity } from "../identity/index-identity.index.ts"
+ import { answered, readingIn, valuesOfType } from "../reading/index-reading.module.code.ts"
+ import { indexSchema } from "../schema/index-schema.index.ts"
 diff --git a/seat-system/seat-naming/seat-naming.module.code.ts b/seat-system/seat-naming/seat-naming.module.code.ts
 index 58c1cf0030f5c4f6ef5bab320ab53da6f46fe74c..9da8f8f835e2264536c5cdbc369cfe295a9614de 100644
 --- a/seat-system/seat-naming/seat-naming.module.code.ts
