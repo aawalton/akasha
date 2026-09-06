@@ -1,3 +1,13 @@
+diff --git a/pages/access/file-page-type-config/file-page-type-config.module.code.ts b/pages/access/file-page-type-config/file-page-type-config.module.code.ts
+index a1a078e758dfbdbdeaa5539b7be32016dc21e927..779c2caffab7518dafd417637a5740b0fa90b81c 100644
+--- a/pages/access/file-page-type-config/file-page-type-config.module.code.ts
++++ b/pages/access/file-page-type-config/file-page-type-config.module.code.ts
+@@ -1,4 +1,4 @@
+-import { slugsIn } from "@akasha/pages/page-value"
++import { slugsIn } from "@akasha/pages/page-value-reading"
+ import { type MediaConfig, parseMediaConfig } from "@akasha/pages-core/schema/media-config"
+ import { parseSequenceConfig, type SequenceConfig } from "@akasha/pages-core/schema/sequence-config"
+ import type { Asked, Query } from "@akasha/pages-service/asking"
 diff --git a/pages/package.json b/pages/package.json
 index 3c9e2001492dedca918733621c8f4767095c19b8..27046d4c1121db246ad6418dc13a7b39f0043488 100644
 --- a/pages/package.json
