@@ -8,6 +8,4 @@ export const safetyBar = {
   definition: "the calm my body can hold",
   parentSlugs: ["resource-bars"],
   relatedSlugs: ["safety-level"],
-  unsettled:
-    "The wider world is its own steady drain on this, separate from home and work and the people in front of me, and it has never been worked on its own.",
 } as const satisfies AllAboutAlanTopic
