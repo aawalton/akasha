@@ -1,0 +1,32 @@
+diff --git a/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.test.ts b/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.test.ts
+index dba881a665e68744d4e25c4dd4ddad0bdbabc721..763f18d5c136b27e7b5f1159bc6427a9ff542768 100644
+--- a/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.test.ts
++++ b/checks/code-checks/pages/no-refused-syntax/no-refused-syntax.code-check.test.ts
+@@ -1,7 +1,7 @@
+ import { afterAll, expect, test } from "bun:test"
+ import { parsedAs } from "@akasha/code/code-source"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { listedFiled, noneOfTypeFiled } from "@akasha/indexes/testing"
++import { listedFiled, noneOfTypeFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+ import type { Change } from "@akasha/pages/change"
+ import { type Shadow, shadowAt } from "@akasha/pages/shadow"
+ import type { SourceFile } from "typescript"
+diff --git a/checks/modules/checking/checking.module.test-fixtures.ts b/checks/modules/checking/checking.module.test-fixtures.ts
+index dd17db7deba4794b1315fcdba35d840be26364a6..62e07eee8d0e7ddbf4020932ade49e1127135f7d 100644
+--- a/checks/modules/checking/checking.module.test-fixtures.ts
++++ b/checks/modules/checking/checking.module.test-fixtures.ts
+@@ -2,7 +2,13 @@ import { mkdirSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { rootOf } from "@akasha/command-system/rooting"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { idFiled, listedFiled, noneOfTypeFiled, pathFiled } from "@akasha/indexes/testing"
++import {
++  idFiled,
++  listedFiled,
++  noneOfTypeFiled,
++  pathFiled,
++  valueAlsoFiled,
++} from "@akasha/indexes/testing"
+ import type { Change } from "@akasha/pages/change"
+ import { exportedAs } from "@akasha/pages/page-export-name"
+ import { onDisk } from "../change-walking/change-walking.module.code.ts"
