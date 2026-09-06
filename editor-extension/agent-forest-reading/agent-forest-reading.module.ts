@@ -13,7 +13,7 @@ export const agentForestReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Every live seat is read at once rather than one after another.",
+      statement: "Every live seat is read at once rather than in turn.",
     },
     {
       invariantKind: "departure",
