@@ -1,0 +1,23 @@
+diff --git a/role-system/roles/role.page-type.ts b/role-system/roles/role.page-type.ts
+index 185fe9535702029f9259060d84177ecce2c737fb..a8330de72b1355133cbbec8af2aa09a165bfe279 100644
+--- a/role-system/roles/role.page-type.ts
++++ b/role-system/roles/role.page-type.ts
+@@ -94,18 +94,6 @@ export const role = {
+         "Never build on foreign state before you find out.",
+       ],
+     },
+-    {
+-      directiveKind: "rule",
+-      name: "One Read A Call",
+-      act: "Run one `akasha read` per shell call rather than chaining several into one.",
+-      warrant:
+-        "Output past what one shell result holds is truncated, and the record still says it reached you.",
+-      aids: [
+-        "One call naming many files is safe; it caps itself.",
+-        "The cap is per call, so chaining defeats it.",
+-        "Nothing marks what was lost.",
+-      ],
+-    },
+     {
+       directiveKind: "rule",
+       name: "Headroom",
