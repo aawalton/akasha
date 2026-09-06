@@ -244,7 +244,7 @@ index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..041bc1f9574edf2ec71e9a5dbb2e5efa
    listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
    schemaFiledFor(root, "relation-property", "extends-slug")
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
-index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..2869d20e09d253d37169a16513305db4d1d20585 100644
+index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..f6750632ee3d7bfc2ddbae761dfb4ad5b7fcfe3d 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
 @@ -135,33 +135,35 @@ test("a property the page type does not declare is refused", () => {
@@ -292,6 +292,21 @@ index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..2869d20e09d253d37169a16513305db4
    ])
    const under = { id: "a", slug: "one", directives: [{ name: "go", aids: ["ab", "cd"] }] }
    expect(over(under, "told")).toEqual([])
+@@ -171,11 +173,11 @@ test("a record field's entries and its characters are counted apart", () => {
+   const value = {
+     id: "a",
+     slug: "one",
+-    directives: [{ name: "go", aids: ["ab", "cd", "ef", "g"] }],
++    directives: [{ name: "go", aids: ["abcde", "cd", "ef", "g"] }],
+   }
+   expect(over(value, "told")).toEqual([
+-    "holds 4 of `directives aids`, over the max of 3",
+-    "holds 7 characters of `directives aids`, over the total of 6",
++    "holds 4 of `directives aids`, over the count of 3",
++    "`directives aids` runs to 5 characters, over the length of 4",
+   ])
+ })
+ 
 @@ -186,12 +188,14 @@ test("a record field naming its page type is read under the key its own property
  
  test("a record field's property page is reached by the page type its declaration names", () => {
