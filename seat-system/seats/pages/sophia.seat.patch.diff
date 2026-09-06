@@ -1,8 +1,27 @@
 diff --git a/context/modules/warranting/warranting.module.code.ts b/context/modules/warranting/warranting.module.code.ts
-index 84f32740d33a237774639e5b6a313dd2374e1529..f9e08dc7a92f883972fcd1974be9b504b943dd05 100644
+index 84f32740d33a237774639e5b6a313dd2374e1529..80f7642e872155b2edf118f04c6029b4bed3d995 100644
 --- a/context/modules/warranting/warranting.module.code.ts
 +++ b/context/modules/warranting/warranting.module.code.ts
-@@ -69,7 +69,6 @@ export type Owing = {
+@@ -9,17 +9,9 @@ import {
+   SUBAGENT_MARK,
+   sameBody,
+ } from "@akasha/command-system/reading"
+-import {
+-  everyOfType,
+-  readingIn as indexReadingIn,
+-  listedAt,
+-  listedById,
+-  slugsOfType,
+-} from "@akasha/indexes"
++import { everyOfType, listedAt, listedById, slugsOfType } from "@akasha/indexes"
+ import { exportedAs } from "@akasha/pages/page-export-name"
+ import { besideAt, partedIn } from "@akasha/pages/page-file-name"
+-import { listedAbove } from "@akasha/pages/page-type-descent"
+-import { valueAt } from "@akasha/pages/page-value"
+ import { slugOf } from "@akasha/seat-system/subagent-presence"
+ 
+ const READ_CALL = "akasha read --file-path"
+@@ -69,7 +61,6 @@ export type Owing = {
  
  export type Known = {
    readonly types: ReadonlySet<string>
@@ -10,7 +29,7 @@ index 84f32740d33a237774639e5b6a313dd2374e1529..f9e08dc7a92f883972fcd1974be9b504
  }
  
  export type Knowing = () => Known
-@@ -102,12 +101,7 @@ const loadFrom = createRequire(import.meta.url)
+@@ -102,12 +93,7 @@ const loadFrom = createRequire(import.meta.url)
  
  export function knowingIn(root: string): Knowing {
    let known: Known | null = null
