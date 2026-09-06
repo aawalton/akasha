@@ -1,0 +1,15 @@
+writerOwesReading: false
+diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
+index 1771722fee59f958a5fc19b703ddf2880b2ea275..5c211c7d423aae23575ce55d0c8407bdc3c03d3e 100644
+--- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
++++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
+@@ -20,7 +20,8 @@ export const keyNamesOneProperty = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One inherited and one declared meet as surely as two declared.",
++      statement:
++        "An inherited declaration and a declared declaration meet as surely as two declared declarations.",
+     },
+     {
+       invariantKind: "departure",
