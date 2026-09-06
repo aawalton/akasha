@@ -13,7 +13,7 @@ export const porcelainStatusReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Untracked files are asked about only where a caller says how much to ask.",
+      statement: "Untracked files are asked about only where a caller states an untracked mode.",
     },
     {
       invariantKind: "departure",
