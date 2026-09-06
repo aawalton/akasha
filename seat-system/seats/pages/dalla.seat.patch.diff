@@ -1,0 +1,123 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts
+index 5102939284196c5e07b3bed03a02ca062f9d26a7..b6aeea1aa3625231ebcc724630e09d44fabecbf0 100644
+--- a/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts
++++ b/changes/checked/pages/change-page-page-type/change-page-page-type.change-checked.ts
+@@ -1,4 +1,4 @@
+-import type { ChangeChecked } from "../../../kinds/pages/change-checked.change-kind.ts"
++import type { ChangeChecked } from "../../../kinds/checked/change-checked.change-kind.ts"
+ 
+ export const changePagePageType = {
+   id: "01a07883-67ee-73cd-8370-4730fab7c87c",
+diff --git a/changes/kinds/checked/change-checked.change-kind.ts b/changes/kinds/checked/change-checked.change-kind.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7c527bdc95d0fae56d6476abf3c033c3a36064eb
+--- /dev/null
++++ b/changes/kinds/checked/change-checked.change-kind.ts
+@@ -0,0 +1,43 @@
++import type { Change } from "../../change.page-type.ts"
++import type { ChangeKind } from "../change-kind.page-type.ts"
++
++export type ChangeChecked = Change & {
++  runsChecks: true
++  readersOweReading: false
++  writerOwesReading: false
++}
++
++export const changeChecked = {
++  id: "01a0725c-56f6-7761-b210-d08f0ff70c22",
++  pageTypeSlug: "change-kind",
++  slug: "change-checked",
++  definition: "a change a program composed and the checks judge",
++  pluralSlug: "change-checked",
++  extendsSlug: ["page-type/change"],
++  runsChecks: true,
++  writerOwesReading: false,
++  readersOweReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A checked change is composed by a program rather than by an agent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "No reading is owed for a change no agent composed.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A fault a checked change lands is a fault in the program that composed the change.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A check refusing a checked change refuses the whole act.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A program whose change the checks refuse is mended rather than exempted.",
++    },
++  ],
++} as const satisfies ChangeKind
+diff --git a/changes/kinds/pages/change-checked.change-kind.ts b/changes/kinds/pages/change-checked.change-kind.ts
+deleted file mode 100644
+index 7c527bdc95d0fae56d6476abf3c033c3a36064eb..0000000000000000000000000000000000000000
+--- a/changes/kinds/pages/change-checked.change-kind.ts
++++ /dev/null
+@@ -1,43 +0,0 @@
+-import type { Change } from "../../change.page-type.ts"
+-import type { ChangeKind } from "../change-kind.page-type.ts"
+-
+-export type ChangeChecked = Change & {
+-  runsChecks: true
+-  readersOweReading: false
+-  writerOwesReading: false
+-}
+-
+-export const changeChecked = {
+-  id: "01a0725c-56f6-7761-b210-d08f0ff70c22",
+-  pageTypeSlug: "change-kind",
+-  slug: "change-checked",
+-  definition: "a change a program composed and the checks judge",
+-  pluralSlug: "change-checked",
+-  extendsSlug: ["page-type/change"],
+-  runsChecks: true,
+-  writerOwesReading: false,
+-  readersOweReading: false,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A checked change is composed by a program rather than by an agent.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "No reading is owed for a change no agent composed.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A fault a checked change lands is a fault in the program that composed the change.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A check refusing a checked change refuses the whole act.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A program whose change the checks refuse is mended rather than exempted.",
+-    },
+-  ],
+-} as const satisfies ChangeKind
+diff --git a/command-system/commands/move/move.command.test-fixtures.ts b/command-system/commands/move/move.command.test-fixtures.ts
+index f9138714b399b616e6169dc4b9bb9b793893ca71..21e6736cd7c3cdbee879063ea1cbec4131978eb1 100644
+--- a/command-system/commands/move/move.command.test-fixtures.ts
++++ b/command-system/commands/move/move.command.test-fixtures.ts
+@@ -12,7 +12,7 @@ import {
+ import { declaringUnder } from "@akasha/testing-system/declaring"
+ import { admitting, mintedId, minting } from "@akasha/testing-system/minting"
+ import { put } from "@akasha/testing-system/putting"
+-import { changeChecked } from "../../../changes/kinds/pages/change-checked.change-kind.ts"
++import { changeChecked } from "../../../changes/kinds/checked/change-checked.change-kind.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+ import { baseOf } from "../../landing/landing.module.code.ts"
+ import { blobIdOf, recordRead } from "../../reading/reading.module.code.ts"
