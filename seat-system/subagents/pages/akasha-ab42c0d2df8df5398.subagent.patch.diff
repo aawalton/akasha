@@ -1,5 +1,5 @@
 diff --git a/code-system/ios-apps/app-building/app-building.module.test.ts b/code-system/ios-apps/app-building/app-building.module.test.ts
-index cd8d29eda93ce667de550ee56a5f30c0348b4c2d..5c21c47bb70ab8f9ce341bb8aab256adde6aba93 100644
+index cd8d29eda93ce667de550ee56a5f30c0348b4c2d..d963d34d22fdf19d1ae83beb14fc3c9e7b2af121 100644
 --- a/code-system/ios-apps/app-building/app-building.module.test.ts
 +++ b/code-system/ios-apps/app-building/app-building.module.test.ts
 @@ -1,7 +1,7 @@
@@ -17,6 +17,16 @@ index cd8d29eda93ce667de550ee56a5f30c0348b4c2d..5c21c47bb70ab8f9ce341bb8aab256ad
    listedFiled(at, "ios-app", "quiet", [{ path: QUIET_AT, id: QUIET_ID }])
 +  valueAlsoFiled(at, "ios-app", [
 +    { path: QUIET_AT, value: { id: QUIET_ID, pageTypeSlug: "ios-app", slug: "quiet" } },
++  ])
+   return at
+ }
+ 
+@@ -45,6 +48,9 @@ function namingHalfIsStaging(): string {
+   const at = scratch.rootFor("akasha-app-building-half-")
+   put(at, HALF_AT, HALF_BODY)
+   listedFiled(at, "ios-app", "half", [{ path: HALF_AT, id: HALF_ID }])
++  valueAlsoFiled(at, "ios-app", [
++    { path: HALF_AT, value: { id: HALF_ID, pageTypeSlug: "ios-app", slug: "half" } },
 +  ])
    return at
  }
