@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts b/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts
-index 4ffba304db5e59d5af6946af0b751bb5a40091b5..cf97b9b33e559731dad415b216b79d08e20e1f17 100644
+index 4ffba304db5e59d5af6946af0b751bb5a40091b5..4112342c20b3ff15e92afb94e1a3d9569d6fe695 100644
 --- a/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts
 +++ b/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts
 @@ -14,17 +14,24 @@ export const supervisorInteractive = {
@@ -31,3 +31,12 @@ index 4ffba304db5e59d5af6946af0b751bb5a40091b5..cf97b9b33e559731dad415b216b79d08
      },
      {
        invariantKind: "departure",
+@@ -41,7 +48,7 @@ export const supervisorInteractive = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here spawns a child, wires its streams or reads a word of its output.",
++      statement: "Nothing here spawns a child or wires its streams or reads a word of its output.",
+     },
+   ],
+ } as const satisfies Module
