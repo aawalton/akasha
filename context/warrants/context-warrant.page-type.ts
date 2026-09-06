@@ -34,7 +34,7 @@ export const contextWarrant = {
     "context-warrant/initiative-ancestors",
     "context-warrant/person-itself",
     "context-warrant/persona-itself",
-    "context-warrant/persona-page-type",
+    "context-warrant/seat-persona",
     "context-warrant/role-itself",
     "context-warrant/agent-akasha",
     "context-warrant/agent-role",
