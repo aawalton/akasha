@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/remove/remove.command.ts b/command-system/commands/remove/remove.command.ts
-index 7ffb184abad1d24af018a431194c5fb90ea389d3..8c63745e41168cb7cc0d3946580c1cb54ec28417 100644
+index 7ffb184abad1d24af018a431194c5fb90ea389d3..a65de963d90cfa1409855c76972f3ca1e126dd5b 100644
 --- a/command-system/commands/remove/remove.command.ts
 +++ b/command-system/commands/remove/remove.command.ts
 @@ -36,7 +36,7 @@ export const remove = {
@@ -8,6 +8,15 @@ index 7ffb184abad1d24af018a431194c5fb90ea389d3..8c63745e41168cb7cc0d3946580c1cb5
        invariantKind: "departure",
 -      statement: "A link reaching nothing is a path that is there rather than one already gone.",
 +      statement: "A link reaching nothing is a path that is there rather than a path already gone.",
+     },
+     {
+       invariantKind: "departure",
+@@ -64,7 +64,7 @@ export const remove = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Neither kind of path is reported as the other.",
++      statement: "Neither kind of path is reported as the other kind.",
      },
      {
        invariantKind: "departure",
