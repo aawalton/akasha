@@ -1,7 +1,11 @@
 import { expect, test } from "bun:test"
+import { join } from "node:path"
+import type { Changing, Known } from "../../modules/warranting/warranting.module.code.ts"
 import {
   addedIn,
+  changeTabooTerms,
   foundIn,
+  holdingBytes,
   judgedIn,
   owedOf,
   reachOf,
@@ -9,6 +13,21 @@ import {
 } from "./change-taboo-terms.context-warrant.code.ts"
 
 const STAND = "(?<![a-z])(stands?|standing|stood)(?![a-z])"
+
+const ROOT = join(import.meta.dir, "..", "..", "..")
+
+const A_PICTURE_AT = "personas/amy/amy.persona.mobile-wallpaper.png"
+
+const A_PORTRAIT_AT = "personas/amy/amy.persona.portrait.md"
+
+const A_TERM = "the estate stands here"
+
+const KNOWING = (): Known => ({ types: new Set<string>() })
+
+function changingTo(said: string): Changing {
+  const body = new TextEncoder().encode(said)
+  return { changed: [], before: () => null, after: () => body }
+}
 
 test("what a change adds is the lines the body did not already hold", () => {
   expect(addedIn("one\ntwo", "one\ntwo\nthree")).toBe("three")
@@ -183,4 +202,22 @@ test("a page of any other type is judged", () => {
 
 test("a path naming no page at all is judged", () => {
   expect(judgedIn("akasha/story/package.json", new Set(["world"]))).toBe(true)
+})
+
+test("a file whose property holds bytes is told from one whose property holds text", () => {
+  expect(holdingBytes(ROOT, A_PICTURE_AT)).toBe(true)
+  expect(holdingBytes(ROOT, A_PORTRAIT_AT)).toBe(false)
+})
+
+test("a page's own file holds no property, so nothing there holds bytes", () => {
+  expect(holdingBytes(ROOT, "personas/amy/amy.persona.ts")).toBe(false)
+})
+
+test("a term written into a file whose property holds bytes warrants nothing", () => {
+  expect(changeTabooTerms(ROOT, A_PICTURE_AT, KNOWING, changingTo(A_TERM))).toEqual([])
+})
+
+test("the same term written into a file whose property holds text warrants a reading", () => {
+  const said = changeTabooTerms(ROOT, A_PORTRAIT_AT, KNOWING, changingTo(A_TERM))
+  expect(said.length).toBeGreaterThan(0)
 })

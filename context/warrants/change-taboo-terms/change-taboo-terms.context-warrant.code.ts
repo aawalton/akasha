@@ -1,5 +1,7 @@
-import { everyOfType } from "@akasha/indexes"
-import { partedIn } from "@akasha/pages/page-file-name"
+import { dirname, join } from "node:path"
+import { everyOfType, listedAt } from "@akasha/indexes"
+import { besideAt, pageOf, partedIn } from "@akasha/pages/page-file-name"
+import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
 import { valueAt } from "@akasha/pages/page-value"
 import {
   blobAt,
@@ -13,6 +15,10 @@ const TERM = "taboo-term"
 const PAGE_TYPE = "page-type"
 
 const RUNS = "runsTabooCheck"
+
+const BYTES = "holdsBytes"
+
+const TS = "ts"
 
 const TEXT = new TextDecoder()
 
@@ -137,6 +143,25 @@ function textOf(body: Uint8Array | null): string {
   return body === null ? "" : TEXT.decode(body)
 }
 
+// A PICTURE IS NOT PROSE. Decoding a file of bytes as text hands this gate megabytes of noise, and a
+// term's pattern then finds whatever byte run happens to spell it, so which pictures are refused is
+// luck rather than wording. The property's own page says whether the files that property holds are bytes.
+export function holdingBytes(root: string, path: string): boolean {
+  const said = partedIn(path)
+  if (said === null) return false
+  const only = said.sections.length === 1 ? said.sections[0] : undefined
+  if (only === undefined) return false
+  const page = join(dirname(path), `${pageOf(said)}.${TS}`)
+  if (besideAt(page, only, said.held) !== path) return false
+  const declared = propertiesIfNamedOf(said.pageType, root, (at) => valueAt(at, root)) ?? []
+  const under = declared.find((one) => one.propertySlug === only)
+  if (under === undefined) return false
+  const listed = listedAt(root, under.pageTypeSlug, under.pagePropertySlug)[0]
+  if (listed === undefined) return false
+  const value = valueAt(listed.path, root)
+  return value !== null && value[BYTES] === true
+}
+
 export function changeTabooTerms(
   root: string,
   path: string,
@@ -144,6 +169,7 @@ export function changeTabooTerms(
   changing?: Changing
 ): readonly Warrant[] {
   if (changing === undefined) return []
+  if (holdingBytes(root, path)) return []
   const added = addedIn(textOf(changing.before(path)), textOf(changing.after(path)))
   if (added.trim() === "") return []
   if (!judgedIn(path, unjudgedIn(root))) return []

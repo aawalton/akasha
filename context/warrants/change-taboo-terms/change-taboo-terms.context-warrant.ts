@@ -75,6 +75,14 @@ export const changeTabooTerms = {
     },
     {
       invariantKind: "departure",
+      statement: "A file whose property holds bytes rather than text is read by no term here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a property holds bytes is read off that property's own page.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The text owed names every sense the term bars and the wording written instead.",
     },
     {
