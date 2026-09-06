@@ -1,3 +1,15 @@
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index 60abc04f08c7f81114bd0c14b2ea83d5e4220298..eb7bcaf1b56207cb6a3243c1c532d315050aac0a 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -26,6 +26,7 @@ export const change = {
+     "page-type/refactor-change",
+     "page-type/change-partial",
+     "page-type/change-command",
++    "page-type/change-runner",
+     "page-type/workflow-template",
+     "page-type/change-kind",
+     "workspace-package/workflow-language",
 diff --git a/changes/runners/change-runner.page-type.ts b/changes/runners/change-runner.page-type.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..e3d47ca929ac339c1a014b5c76c4f64fb8fbcf48
