@@ -1,0 +1,23 @@
+diff --git a/pages/service/file-answering/file-answering.module.test.ts b/pages/service/file-answering/file-answering.module.test.ts
+index 96cb035f0bbb3af1fa7f268f571b83684710b869..1085eb7bcd4083d67121eda6bcee3051e1724f63 100644
+--- a/pages/service/file-answering/file-answering.module.test.ts
++++ b/pages/service/file-answering/file-answering.module.test.ts
+@@ -30,11 +30,16 @@ test("a key naming a property that keeps no file is refused", () => {
+   expect("refused" in said && said.refused).toContain("names no file property")
+ })
+ 
+-test("a property held outside the commit is refused", () => {
+-  const said = filing(ROOT, { ...A_WALLPAPER, key: "lastMessagedAt" })
++test("a file property held outside the commit is refused", () => {
++  const said = filing(ROOT, { pageTypeSlug: "code-check", slug: "typecheck", key: "entries" })
+   expect("refused" in said && said.refused).toContain("outside the commit")
+ })
+ 
++test("a property outside the commit that keeps no file is refused for keeping no file", () => {
++  const said = filing(ROOT, { ...A_WALLPAPER, key: "lastMessagedAt" })
++  expect("refused" in said && said.refused).toContain("names no file property")
++})
++
+ test("a slug naming no page is refused", () => {
+   const said = filing(ROOT, { ...A_WALLPAPER, slug: "nobody-by-this-name" })
+   expect("refused" in said && said.refused).toContain("is no page here")
