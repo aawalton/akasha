@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/command-system/commands/refactor/package-phasing/package-phasing.module.ts b/command-system/commands/refactor/package-phasing/package-phasing.module.ts
+index c5be4a5e41b4b876b4c9a96ea04314bdd54a340e..0a25131e986a3915943eb6479ec5dc60fd783b71 100644
+--- a/command-system/commands/refactor/package-phasing/package-phasing.module.ts
++++ b/command-system/commands/refactor/package-phasing/package-phasing.module.ts
+@@ -62,7 +62,8 @@ export const packagePhasing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Contract judges every path the rename touched rather than the paths it changes.",
++      statement:
++        "Contract judges every path the rename touched rather than the paths contract changes.",
+     },
+     {
+       invariantKind: "departure",
