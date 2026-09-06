@@ -21,6 +21,7 @@ import {
   SUPERVISOR,
 } from "../terminal-entry-points/terminal-entry-points.module.code.ts"
 import { implName } from "../terminal-reload/terminal-reload.module.code.ts"
+import { SEAT_ATTACH_FN } from "../terminal-seat-marks/terminal-seat-marks.module.code.ts"
 import {
   INTERACTIVE_PRINCIPAL,
   payloadEscapeLines,
@@ -99,7 +100,7 @@ export function tmuxLaunchFnLines(): readonly string[] {
     `    "\${_scope[@]}" tmux ${serverOptionShell()} \\; new-session -d -s "$_seat" -c "${SEAT_START_DIR}" -- ` +
       `${envScrubShell()} "\${_cmd[@]}" || return 1`,
     "  fi",
-    '  tmux attach-session -t "=$_seat"',
+    `  ${SEAT_ATTACH_FN} "$_seat"`,
     "}",
   ]
 }
@@ -231,7 +232,7 @@ export function seatResumeFn(name: string): string {
     "  fi",
     `  ${ROOT_LOCAL}`,
     `  if command -v tmux >/dev/null 2>&1 && ${SEAT_LIVE_FN} "$name"; then`,
-    `    tmux attach-session -t "=$name"`,
+    `    ${SEAT_ATTACH_FN} "$name"`,
     "    return $?",
     "  fi",
     ...handlerForPersonLines(name, false),

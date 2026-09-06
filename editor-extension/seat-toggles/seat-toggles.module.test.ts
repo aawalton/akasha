@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { SEAT_ATTACH_FN } from "@akasha/seat-system/terminal-seat-marks"
 import { SEAT_TAB_KEY_NAMES } from "../seat-tab-context/seat-tab-context.module.code.ts"
 import {
   attachCommandLine,
@@ -41,7 +42,7 @@ describe("the name a seat is attached by", () => {
 
   test("a name that is no seat name is refused rather than run", () => {
     expect(() => attachCommandLine("ember; rm -rf /")).toThrow()
-    expect(attachCommandLine("ember")).toBe('tmux attach-session -t "=ember"')
+    expect(attachCommandLine("ember")).toBe(`${SEAT_ATTACH_FN} "ember"`)
   })
 })
 

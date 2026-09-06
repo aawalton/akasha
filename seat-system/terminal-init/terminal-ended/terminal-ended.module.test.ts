@@ -1,7 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import {
-  ENDED_DIR,
   ENDED_FN,
+  TERMINAL_PAGES_DIR,
   terminalEndedFnLines,
   terminalEndedTrapLines,
 } from "./terminal-ended.module.code.ts"
@@ -23,7 +23,7 @@ describe("what is left", () => {
   })
 
   test("sits beside the terminal's own page under the tree the reader looks in", () => {
-    expect(said).toContain(`local _dir="$_root/${ENDED_DIR}"`)
+    expect(said).toContain(`local _dir="$_root/${TERMINAL_PAGES_DIR}"`)
     expect(said).toContain(".code-editor-terminal.ended.uncommitted.attachment.json")
   })
 

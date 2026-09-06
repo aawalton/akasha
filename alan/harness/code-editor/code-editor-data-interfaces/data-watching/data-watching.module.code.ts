@@ -8,11 +8,17 @@
 // reading `active (running)` while the work has stopped, which `surplus-fall-notifier` did for nine
 // days.
 
-import { renameSync, writeFileSync } from "node:fs"
+import { mkdirSync, renameSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { akashaRoot, akashaSeatsThatExist } from "@akasha/seat-system/seat-akasha-beside"
 import { colorOfState } from "@akasha/seat-system/seat-turn-color"
 import { SEAT_TURN_STATES, seatTurnStateOf } from "@akasha/seat-system/seat-turn-state"
+import {
+  MARK_TAIL,
+  marksIn,
+  seatByShellPid,
+  seatMarksAt,
+} from "@akasha/seat-system/terminal-seat-marks"
 import { followFolders, followWithin } from "@akasha/service-system/file-following"
 import { agentTreeLine, statusBarLine } from "../beat-drawing/beat-drawing.module.code.ts"
 import {
@@ -23,10 +29,6 @@ import {
   released,
   releasedHeld,
 } from "../state-cooldown/state-cooldown.module.code.ts"
-import {
-  seatByShellPid,
-  tmuxClients,
-} from "../terminal-seat-mapping/terminal-seat-mapping.module.code.ts"
 import {
   domainTreeLine,
   pageTreeLine,
@@ -50,7 +52,6 @@ const INDEX_VALUE_AT = ".git/data/index/value"
 const SIDECAR = ".uncommitted.ts"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
 const SETTLE_MS = 25
-const TABS_EVERY_MS = 1_000
 const FLEET_EVERY_MS = 1_000
 const STATUS_EVERY_MS = 30_000
 
@@ -106,31 +107,14 @@ function agentColorsLine(): string {
   return JSON.stringify({ byAgent, byState } satisfies AgentColorsState)
 }
 
-// What a terminal sits on cannot be watched for: no file changes when a client attaches, so this
-// one picture is taken on a beat. The beat is what costs; the file moves only where the map does.
-//
-// NOTHING IS HELD UNTIL THE FIRST BEAT HAS RUN, AND A BEAT THAT COULD NOT ASK HOLDS THE PICTURE
-// BEFORE IT. A picture seeded with an empty value is a picture that can be written before it has
-// ever been read: the watching is set up while the first beat is still in flight, so a seat file
-// changing in that window wrote the seed over the last good line. A beat whose `tmux` call failed
-// wrote the same empty line for the same reason, once every few hours, and both say the one thing
-// to the editor — that no terminal sits on any seat — which takes the name and the color off all
-// sixteen of Alan's tabs at once and gives them back a second later.
-let tabsHeld: ReadonlyMap<number, string> | null = null
-
-async function refreshTerminalTabs(): Promise<undefined> {
-  const clients = await tmuxClients()
-  if (clients === null) return undefined
-  tabsHeld = seatByShellPid(clients, new Set(akashaSeatsThatExist().values()))
-  return undefined
-}
-
-function terminalTabsLine(): string | null {
-  if (tabsHeld === null) {
+function terminalTabsLine(root: string): string | null {
+  const marks = marksIn(seatMarksAt(root))
+  if (marks === null) {
     return null
   }
   const seatByPid: Record<string, string> = {}
-  for (const [pid, seat] of tabsHeld) seatByPid[String(pid)] = seat
+  const seatNames = new Set(akashaSeatsThatExist().values())
+  for (const [pid, seat] of seatByShellPid(marks, seatNames)) seatByPid[String(pid)] = seat
   const colorBySeat: Record<string, string> = {}
   for (const [agentId, name] of akashaSeatsThatExist()) {
     const color = colorOfState(seatTurnStateOf(agentId).state)
@@ -159,6 +143,7 @@ async function refreshStatusBar(): Promise<undefined> {
 export function picturesOf(root: string): ReadonlyMap<string, Picture> {
   const seats = join(root, SEATS_AT)
   const turnStates = join(root, TURN_STATES_AT)
+  const terminals = seatMarksAt(root)
   return new Map<string, Picture>([
     [
       "agent-colors",
@@ -243,14 +228,13 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "terminal-tabs",
       {
         cooldownMs: 1_000,
-        folders: [seats, turnStates],
+        folders: [seats, turnStates, terminals],
         holds: either(
           within(seats, SIDECAR, ".seat.ts"),
-          within(turnStates, ".seat-turn-state.ts")
+          within(turnStates, ".seat-turn-state.ts"),
+          within(terminals, MARK_TAIL)
         ),
-        line: terminalTabsLine,
-        refresh: refreshTerminalTabs,
-        everyMs: TABS_EVERY_MS,
+        line: () => terminalTabsLine(root),
         held: NOTHING_WRITTEN,
         waking: null,
       },
@@ -288,6 +272,7 @@ function keep(root: string, slug: string, picture: Picture): undefined {
 
 export function watchEditorData(): () => undefined {
   const root = akashaRoot()
+  mkdirSync(seatMarksAt(root), { recursive: true })
   const pictures = picturesOf(root)
   const folders = new Set<string>()
   for (const picture of pictures.values()) for (const at of picture.folders) folders.add(at)

@@ -1,4 +1,5 @@
 import { notices } from "@akasha/seat-system/compose-notices"
+import { SEAT_ATTACH_FN } from "@akasha/seat-system/terminal-seat-marks"
 import { z } from "zod"
 import type { SeatMode } from "../seat-mode/seat-mode.module.code.ts"
 
@@ -48,7 +49,7 @@ export function attachCommandLine(name: string): string {
   if (!seatNameAccepted(name)) {
     throw new Error(`${JSON.stringify(name)} is not a seat name: ${SEAT_NAME_REQUIREMENT}`)
   }
-  return `tmux attach-session -t "=${name}"`
+  return `${SEAT_ATTACH_FN} "${name}"`
 }
 
 export function seatContextValue(live: boolean, place: SeatMode): string {

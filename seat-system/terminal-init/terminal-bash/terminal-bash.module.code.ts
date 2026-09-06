@@ -18,6 +18,7 @@ import {
   seatResumeFn,
   tmuxLaunchFnLines,
 } from "../terminal-seat-launchers/terminal-seat-launchers.module.code.ts"
+import { seatAttachFnLines } from "../terminal-seat-marks/terminal-seat-marks.module.code.ts"
 
 export type AliasEntry = {
   readonly account: string
@@ -79,6 +80,9 @@ function functions(accounts: readonly AliasEntry[]): string {
     "",
     "# whether a seat's tmux session holds a pane that is still alive",
     seatLiveFnLines().join("\n"),
+    "",
+    "# attaching to a seat, leaving that seat beside the terminal's own page while attached",
+    seatAttachFnLines().join("\n"),
     "",
     "# the shared tmux launch step every seat comes up under",
     tmuxLaunchFnLines().join("\n"),

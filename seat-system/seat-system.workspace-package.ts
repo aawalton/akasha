@@ -323,6 +323,7 @@ export const seatSystem = {
     "module/terminal-entry-points",
     "module/terminal-reload",
     "module/terminal-seat-launchers",
+    "module/terminal-seat-marks",
     "module/terminal-seat-stating",
     "module/launch-flags",
     "module/tool-access",
