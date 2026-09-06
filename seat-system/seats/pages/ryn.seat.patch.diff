@@ -1,5 +1,5 @@
 diff --git a/editor-extension/panel-judging/panel-judging.module.ts b/editor-extension/panel-judging/panel-judging.module.ts
-index adb0a71bb79268a65b6e7f0569caae9c7930f417..d72d7db0975671663d48005c0ee059aff34fa075 100644
+index adb0a71bb79268a65b6e7f0569caae9c7930f417..6cbee9090cc3688424e117ad42a22856cdbf203f 100644
 --- a/editor-extension/panel-judging/panel-judging.module.ts
 +++ b/editor-extension/panel-judging/panel-judging.module.ts
 @@ -11,7 +11,7 @@ export const panelJudging = {
@@ -86,3 +86,12 @@ index adb0a71bb79268a65b6e7f0569caae9c7930f417..d72d7db0975671663d48005c0ee059af
      },
      {
        invariantKind: "departure",
+@@ -108,7 +120,7 @@ export const panelJudging = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Where a surface is red, the lines each feature said on activation are printed.",
++      statement: "The lines each feature said on activation are printed where a surface is red.",
+     },
+     {
+       invariantKind: "absence",
