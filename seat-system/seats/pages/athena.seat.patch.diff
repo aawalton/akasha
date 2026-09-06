@@ -1,3 +1,16 @@
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+index d232e68e38d9988bd90d1d854d39e99cb31b2acf..4269ae2dcb524bf2431e03e0a67481ce9c9b8678 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+@@ -41,7 +41,7 @@ export const codeEditorDataInterface = {
+       required: false,
+       many: false,
+       uncommitted: true,
+-      default: "jsonl",
++      default: "json",
+     },
+   ],
+   invariants: [
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts b/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
 index 68e88db5016d921c74a19178c9c4b7d510ef6e14..a4c61577a28d6d3f3fb2fd02665da9ab5d4f0d19 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
