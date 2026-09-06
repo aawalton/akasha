@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts b/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts
+index 353bb49422cf1ffb52e868fe0959812a1b7b411f..ac734644bf5d7e92cc324b340b0d662dc82d8a02 100644
+--- a/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts
++++ b/readout-system/readouts/pages/upkeep-capacity/upkeep-capacity.readout.ts
+@@ -55,7 +55,7 @@ export const upkeepCapacity = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That bound is the one the reach taking the reading carries.",
++      statement: "That bound is the bound the reach taking the reading carries.",
+     },
+ 
+     {
