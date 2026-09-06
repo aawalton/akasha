@@ -41,7 +41,7 @@ export const athenaCommandsAtTheRoot = {
     {
       statement: "An index written as changes land matches what a rebuild would write.",
       workingMemory:
-        "A dry run names the files now, five to a heading. Over 55a8d0e603 the drift read 134 added, 1 changed and 8 taken away, as at 4041e390fe the day before. The five added shown are `path/` entries for `.uncommitted.jsonl` sidecars; the other 129 went unseen, so what the added are is not known. The one changed is `value/module.jsonl`. Five of the eight taken away are `relation/` edges for pages gone. `filingOf` takes a file's own lines as ground truth, so a wrong line survives every settle.",
+        "Over f9a9633160 the drift read 128 added, 1 changed, 8 taken away: every added one under `path`, the changed one `value/module.jsonl`, every taken one under `relation`. The five added shown are `path/` entries for `.uncommitted.jsonl` sidecars of `code-editor-data-interface`, whose type holds 7 pages, so the rest are other pages' sidecars. A settle refiles only the pages a change carries, and `filingOf` takes a file's own lines as ground truth, so an entry no change touches is never revisited.",
     },
   ],
   constraints: [
