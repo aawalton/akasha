@@ -54,7 +54,7 @@ export const role = {
     {
       directiveKind: "rule",
       name: "Ask Upward",
-      act: "Put a question to your principal, never past them to whoever they answer to.",
+      act: "Put a question to your principal, never past them.",
       warrant:
         "Skipping a layer reads as directness and the answer comes back right, so nothing reports the skip.",
       aids: [
