@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+index 270d0d4ac4dc9caf5033cb6c27a2417a49c48151..22df8b2755275f9853cbde54dc472ba3a54acafe 100644
+--- a/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
++++ b/domains/initiatives/pages/aranya-cluster-cleanup.initiative.ts
+@@ -35,7 +35,7 @@ export const aranyaClusterCleanup = {
+     {
+       statement: "A subagent whose page did not land does not work unseen.",
+       workingMemory:
+-        "13 landings were refused in `.supervisors/<seat id>/subagent-presence.log`, each one because another landing held `.git/akasha-landing.lock` past 120s: 4 put-ups, whose subagents held no page from their first moment, and 9 take-downs, which are among the pages on disk. `state-subagent.agent-hook.ts` already carries the gap as `Nothing reads that log to put up a page the refusal left unwritten.` All 13 fell in one 97-second window rather than under load, so a refusal is rare and the unread log is what makes it lasting.",
++        "13 landings were refused in `.supervisors/<seat id>/subagent-presence.log`, each because another landing held `.git/akasha-landing.lock` past 120s: 4 put-ups naming 3 subagents, and 9 take-downs. `state-subagent.agent-hook.ts` carries the gap as `Nothing reads that log to put up a page the refusal left unwritten.` A reader of that log cannot recompose the page as things are: the line names the seat and the own id and not the kind the subagent was dispatched as, which `puttingUp` in seat-system/subagents/presence takes.",
+     },
+   ],
+ } as const satisfies Initiative
