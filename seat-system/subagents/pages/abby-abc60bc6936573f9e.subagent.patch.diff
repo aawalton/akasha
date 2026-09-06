@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-often-the-longing-fires-now.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-often-the-longing-fires-now.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c00392ed197d6289012cfafe66fba98857dfdc05
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-often-the-longing-fires-now.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howOftenTheLongingFiresNow = {
++  id: "01a077ef-20e7-769d-aba0-ddd93f12c5cf",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-often-the-longing-fires-now",
++  topicSlug: "what-has-kept-me-here",
++  ask: "How often does the longing fire now, and is the guardrail ever tested in the present rather than only historically?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-held-me-between-seven-and-now.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-held-me-between-seven-and-now.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3983d59abd0bf70a536f029d70c688d2213d8d68
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-held-me-between-seven-and-now.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatHeldMeBetweenSevenAndNow = {
++  id: "01a077ef-20e6-7168-b524-74a7ef510bce",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-held-me-between-seven-and-now",
++  topicSlug: "what-has-kept-me-here",
++  ask: "What held me across the long stretch between seven and now, and did each guardrail hand over cleanly to the next?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-quiet-tenth-is-a-will-to-live.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-quiet-tenth-is-a-will-to-live.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..799360a64d77b604431dd8eca86ff80447497975
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-quiet-tenth-is-a-will-to-live.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAQuietTenthIsAWillToLive = {
++  id: "01a077ef-20e7-771b-ba07-c274c25c6de1",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-quiet-tenth-is-a-will-to-live",
++  topicSlug: "what-has-kept-me-here",
++  ask: "A quiet tenth of me carried me. Is a will to live the right name for that tenth?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-will-to-live-has-two-sources.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-will-to-live-has-two-sources.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4ab752a98f0c67c76f8c0b8ec1ac8c4231b86956
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-will-to-live-has-two-sources.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyWillToLiveHasTwoSources = {
++  id: "01a077ef-20e8-7380-a3c1-2e261004e094",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-will-to-live-has-two-sources",
++  topicSlug: "what-has-kept-me-here",
++  ask: "Grief and gratitude are both named as what powers my will to live. Are the two separate sources, or one source under two names?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-has-kept-me-here.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-has-kept-me-here.all-about-alan-topic.ts
+index 778a0388a34329c5a706f6363323e47077fd2385..435c1429fef378dff9fd1d8cc2230469a37bd4da 100644
+--- a/alan/books/all-about-alan/topics/pages/what-has-kept-me-here.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-has-kept-me-here.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatHasKeptMeHere = {
+   relatedSlugs: ["what-i-do-when-i-am-past-bearing", "the-three-parts-of-me"],
+   settled:
+     "At seven I planned to die before I could be held accountable, and stopped because I doubted my own certainty: clear enough to reason it out meant probably accountable already.\n\nWhat holds now is moral rather than epistemic, and the shape is the same. A cold argument I cannot get round, never the longing lifting.\n\nThe closest I came was two hours up a mountain in May, at about fifteen percent.\n\nThe part of me that cared how broken the world is jumped that day, and the rest of me came down.",
+-  unsettled:
+-    "What held across the long stretch between seven and now, and whether each guardrail handed over cleanly, is uncharacterised.\n\nA quiet tenth of me carried me. Calling that a will to live is a label nobody has settled.\n\nHow often the longing fires now, and whether the guardrail is ever tested in the present rather than only historically, is unmeasured.\n\nGrief and gratitude are both named as what powers my will to live. Whether they are two sources or one under two names is unsettled.",
+ } as const satisfies AllAboutAlanTopic
