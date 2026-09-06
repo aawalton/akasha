@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/command-system/commands/move/outside/move-outside.module.ts b/command-system/commands/move/outside/move-outside.module.ts
-index d7446d745c8ce9e2f100444be17cba76d5e0326d..16436e60b3647400e134591b9d0d51602da4f19c 100644
+index d7446d745c8ce9e2f100444be17cba76d5e0326d..d030503124755aafd7e7ee528cc2e854ca594e81 100644
 --- a/command-system/commands/move/outside/move-outside.module.ts
 +++ b/command-system/commands/move/outside/move-outside.module.ts
-@@ -18,11 +18,13 @@ export const moveOutside = {
+@@ -18,16 +18,18 @@ export const moveOutside = {
      },
      {
        invariantKind: "departure",
@@ -19,3 +19,9 @@ index d7446d745c8ce9e2f100444be17cba76d5e0326d..16436e60b3647400e134591b9d0d5160
      },
      {
        invariantKind: "departure",
+       statement:
+-        "A path spelled with no leading dot is resolved against the folder of the file carrying it.",
++        "A path spelled with no leading dot is resolved against the folder of the file carrying that path.",
+     },
+     {
+       invariantKind: "absence",
