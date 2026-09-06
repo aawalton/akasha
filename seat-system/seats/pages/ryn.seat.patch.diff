@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-items-rules-core/destination-chain-types/destination-chain-types.module.ts b/temper/temper-items-rules-core/destination-chain-types/destination-chain-types.module.ts
+index d2f33afcd898fadff0fa586fbc70f58acb72b24a..9f19bd327da96eba55575c93d4c205576e8638ae 100644
+--- a/temper/temper-items-rules-core/destination-chain-types/destination-chain-types.module.ts
++++ b/temper/temper-items-rules-core/destination-chain-types/destination-chain-types.module.ts
+@@ -9,7 +9,7 @@ export const destinationChainTypes = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A tier names where the items go and how many the tier takes.",
++      statement: "A tier names where the items go and how many items the tier takes.",
+     },
+   ],
+ } as const satisfies Module
