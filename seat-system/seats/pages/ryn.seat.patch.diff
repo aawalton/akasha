@@ -1,5 +1,5 @@
 diff --git a/infrastructure/infrastructure-commands/cluster-rbac-manifest/cluster-rbac-manifest.command.ts b/infrastructure/infrastructure-commands/cluster-rbac-manifest/cluster-rbac-manifest.command.ts
-index 35f38c8b58d56fc41a2047b080b97721ccb6fdf5..a38329dd73fb713602c00757eb21716885f1791f 100644
+index 35f38c8b58d56fc41a2047b080b97721ccb6fdf5..d1e4553f1531901659de689690de2a3986019b7a 100644
 --- a/infrastructure/infrastructure-commands/cluster-rbac-manifest/cluster-rbac-manifest.command.ts
 +++ b/infrastructure/infrastructure-commands/cluster-rbac-manifest/cluster-rbac-manifest.command.ts
 @@ -29,7 +29,8 @@ export const clusterRbacManifest = {
@@ -9,6 +9,19 @@ index 35f38c8b58d56fc41a2047b080b97721ccb6fdf5..a38329dd73fb713602c00757eb217168
 -      statement: "A gap is named by its profile's path, its namespace, and the permission itself.",
 +      statement:
 +        "A gap is named by its profile's path and its namespace and the permission itself.",
+     },
+     {
+       invariantKind: "departure",
+@@ -45,7 +46,11 @@ export const clusterRbacManifest = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The ci namespace role grants create on pods, which the cluster role does not.",
++      statement: "The ci namespace role grants create on pods.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The cluster role does not grant create on pods.",
      },
      {
        invariantKind: "departure",
