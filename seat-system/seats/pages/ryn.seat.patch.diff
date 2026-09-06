@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts
+index dbd73d09182f1114b7ad3a776d8f9832c2b2acb4..b6e0bed5a1b3e6c0fd2dd9cbf3de07de5577e9f7 100644
+--- a/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts
++++ b/hook-system/agent-hooks/block-akasha-shell-writes/block-akasha-shell-writes.agent-hook.ts
+@@ -108,7 +108,7 @@ export const blockAkashaShellWrites = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A path a word represents rather than spells is judged as a spelled one is.",
++      statement: "A path a word represents rather than spells is judged as a spelled path is.",
+     },
+   ],
+ } as const satisfies AgentHook
