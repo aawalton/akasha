@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts b/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
-index 77beb9f1211831cab1573c44f252496637d9fc31..2e18a6df720cf696776fcafed0f6be68b2aeef18 100644
+index 77beb9f1211831cab1573c44f252496637d9fc31..649c91881b343a3228fd1d8347956eea0b07f1d9 100644
 --- a/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
 +++ b/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
 @@ -21,7 +21,7 @@ export const seatAkashaBeside = {
@@ -12,3 +12,13 @@ index 77beb9f1211831cab1573c44f252496637d9fc31..2e18a6df720cf696776fcafed0f6be68
      },
      {
        invariantKind: "departure",
+@@ -38,7 +38,8 @@ export const seatAkashaBeside = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An empty text beside a seat is answered as no value rather than as an empty one.",
++      statement:
++        "An empty text beside a seat is answered as no value rather than as an empty value.",
+     },
+   ],
+ } as const satisfies Module
