@@ -219,6 +219,37 @@ index 3b539b09d77b90976ba50b7a94d462771d47be10..240cebaa87d4118bd5a20529aa841f89
      "lint": "biome check .",
      "lint:fix": "biome check --write .",
      "test": "bun test"
+diff --git a/temper/temper-commands/temper-addon-typecheck/temper-addon-typecheck.command.code.ts b/temper/temper-commands/temper-addon-typecheck/temper-addon-typecheck.command.code.ts
+index dd4b18e46108697fb072642b79428d6235b5964a..4fcf53267ada0ed9d445826fcbe19400985055aa 100644
+--- a/temper/temper-commands/temper-addon-typecheck/temper-addon-typecheck.command.code.ts
++++ b/temper/temper-commands/temper-addon-typecheck/temper-addon-typecheck.command.code.ts
+@@ -1,4 +1,4 @@
+-import { resolve } from "node:path"
++import { join, resolve } from "node:path"
+ import type { Answer } from "@akasha/command-system/calling"
+ import { refused } from "@akasha/command-system/calling"
+ import { codeRoot } from "@akasha/pages/code-root"
+@@ -12,7 +12,9 @@ const FAILED = 3
+ 
+ const ROOT_FLAG = "--code-root"
+ 
+-const COMPILER = ["bunx", "@typescript/native-preview", "--noEmit", "--listFiles", "-p"]
++const COMPILER_AT = "node_modules/typescript-7/bin/tsc"
++
++const COMPILER = ["--noEmit", "--listFiles", "-p"]
+ 
+ const CEILING_MS = 30 * 60 * 1000
+ 
+@@ -42,7 +44,8 @@ function inNameOrder(all: readonly AddonInfo[]): readonly AddonInfo[] {
+ }
+ 
+ function judged(root: string, one: AddonInfo, config: string, left: number): Judged {
+-  const said = ran([...COMPILER, config], { cwd: root, timeout: left })
++  const called = [join(root, COMPILER_AT), ...COMPILER, config]
++  const said = ran(called, { cwd: root, timeout: left })
+   const lines = `${said.out}\n${said.err}`.split("\n").map((line) => line.trim())
+   const errors = lines.filter((line) => line.includes(SAYS_ERROR))
+   const files = lines.filter((line) => line.startsWith("/") && !line.includes(SAYS_ERROR))
 diff --git a/temper/temper-commands/temper-package-typecheck/temper-package-typecheck.command.code.ts b/temper/temper-commands/temper-package-typecheck/temper-package-typecheck.command.code.ts
 index 28abaff1afe1e67a9c5389345c1010929b7b3287..98a5b16d325655badc245fe95e23dabced7e25d5 100644
 --- a/temper/temper-commands/temper-package-typecheck/temper-package-typecheck.command.code.ts
