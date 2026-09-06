@@ -90,12 +90,12 @@ export const keyRespelling = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file a key rename touches lands in one commit or none of those files does.",
+      statement: "Every file a key rename touches lands in one commit or does not land.",
     },
     {
       invariantKind: "departure",
       statement:
-        "`--dry-run` names every file the rename would respell and every one that rename would carry.",
+        "`--dry-run` names every file the rename would respell and every file that rename would carry.",
     },
     {
       invariantKind: "departure",
