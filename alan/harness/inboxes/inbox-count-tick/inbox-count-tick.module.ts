@@ -9,11 +9,11 @@ export const inboxCountTick = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One tick is one poll and one write.",
+      statement: "A tick is a single poll and a single write.",
     },
     {
       invariantKind: "departure",
-      statement: "The day polled and the day written are one ESO day settled once.",
+      statement: "The day polled and the day written are a single ESO day settled once.",
     },
     {
       invariantKind: "departure",
