@@ -2538,6 +2538,33 @@ index 154418076c30c01ef2955feee5a0c534295649b2..e6b8b6999a4c0568aa8bbb181c196383
        if (why !== null) said.push(why)
        const twice = twiceIn(stated, `${slug} ${field}`)
        if (twice !== null) said.push(twice)
+diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
+index 1ae1f614b0451b489dda7df9e2045afde1f1ec3b..c077c84259985b9aefdf39af0955b39939b8f502 100644
+--- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
++++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
+@@ -99,18 +99,18 @@ export function reasonsIn(
+       said.push(`states \`${slug}\` singly, and \`${named}\` declares it many`)
+     if (!one.many && listed)
+       said.push(`states \`${slug}\` as a list, and \`${named}\` declares it single`)
+-    if (one.many && listed && one.max !== null && held.length > one.max) {
+-      said.push(`holds ${held.length} of \`${slug}\`, over the max of ${one.max}`)
++    if (one.many && listed && one.maxCount !== null && held.length > one.maxCount) {
++      said.push(`holds ${held.length} of \`${slug}\`, over the count of ${one.maxCount}`)
+     }
+     if (one.many && listed) {
+-      const why = overTotal(held, one.total, slug)
++      const why = overTotal(held, null, slug)
+       if (why !== null) said.push(why)
+       const twice = twiceIn(held, slug)
+       if (twice !== null) said.push(twice)
+     }
+     const page = pageFor(one)
+     if (page === null) continue
+-    const max = numberAt(page, "max")
++    const max = one.maxLength ?? numberAt(page, "maxLength")
+     const format = textAt(page, FORMAT)
+     for (const each of listed ? held : [held]) {
+       const why = overMax(each, max, slug, "")
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
 index 4a1852b02ab8be6cb9ad17429238822d8d1e3ff1..97035222bcfec4f34c9ce68deac3914af82e61ae 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
@@ -3735,7 +3762,7 @@ index bcc9a1490ef031bc981ca755b410954cace8e411..afc610512d31688dd6d337c296563e6f
    invariants: [
      {
 diff --git a/errors-core/runtime-errors/properties/error-release-sha.text-property.ts b/errors-core/runtime-errors/properties/error-release-sha.text-property.ts
-index a219ab99dd1804e2deb8b2e60110c7231273605e..ffb56c2a18602a862ac558b6c3030e8c86727f02 100644
+index 83246cb3111394deb1843a6f0cb6fc144a70a004..053626a4c819b254803f08cf57d742caebeeb7cc 100644
 --- a/errors-core/runtime-errors/properties/error-release-sha.text-property.ts
 +++ b/errors-core/runtime-errors/properties/error-release-sha.text-property.ts
 @@ -8,7 +8,7 @@ export const errorReleaseSha = {
@@ -3748,7 +3775,7 @@ index a219ab99dd1804e2deb8b2e60110c7231273605e..ffb56c2a18602a862ac558b6c3030e8c
    invariants: [
      {
 diff --git a/errors-core/runtime-errors/properties/error-url.text-property.ts b/errors-core/runtime-errors/properties/error-url.text-property.ts
-index 663046dace4d8b902ae99f97d01ddacca1df1876..f1f172956e942e701bc46d97d906ca83ed47d821 100644
+index 6149e54b7e572699aac5761e8704e51868aebda9..6a799e0743295e38139651bf9cd6254a3ffed370 100644
 --- a/errors-core/runtime-errors/properties/error-url.text-property.ts
 +++ b/errors-core/runtime-errors/properties/error-url.text-property.ts
 @@ -8,7 +8,7 @@ export const errorUrl = {
