@@ -1,5 +1,5 @@
 diff --git a/seat-system/supervising/supervisor-self-heal-install/supervisor-self-heal-install.module.ts b/seat-system/supervising/supervisor-self-heal-install/supervisor-self-heal-install.module.ts
-index 48540017117ffa7bf27840a17f5b65e131c7fb03..e964f40acf6acbf3290a8900fb3363d536536003 100644
+index 48540017117ffa7bf27840a17f5b65e131c7fb03..ff2c2d7f7074bccbcde7b9db03fa08ec9b4ee6bf 100644
 --- a/seat-system/supervising/supervisor-self-heal-install/supervisor-self-heal-install.module.ts
 +++ b/seat-system/supervising/supervisor-self-heal-install/supervisor-self-heal-install.module.ts
 @@ -9,11 +9,16 @@ export const supervisorSelfHealInstall = {
@@ -21,3 +21,19 @@ index 48540017117ffa7bf27840a17f5b65e131c7fb03..e964f40acf6acbf3290a8900fb3363d5
      },
      {
        invariantKind: "departure",
+@@ -26,12 +31,12 @@ export const supervisorSelfHealInstall = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A verify that fails is answered by installing once more before it is refused.",
++      statement:
++        "A verify that fails is answered by installing once more before the verify is refused.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Where the verifier is, is worked out when an install runs rather than on loading.",
++      statement: "The verifier's place is worked out when an install runs rather than on loading.",
+     },
+   ],
+ } as const satisfies Module
