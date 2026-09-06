@@ -701,3 +701,211 @@ index 72996117786b452d93e1ea20434aaa69de95d1a6..0f82f38d16694fbf480b2cc9c8652caa
    unitSlug: "words",
    chapterText: "md",
  } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-andorra.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-andorra.book-section.ts
+index 654b4fb3ac0dc03a78a7fe215e26b0cee0f6b7f5..a47701d828e903b8f37adb2da1b787b505f9d10d 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-andorra.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-andorra.book-section.ts
+@@ -6,7 +6,7 @@ export const otherCitizenshipAndorra = {
+   slug: "other-citizenship-andorra",
+   title: "Andorra",
+   description: "Andorra citizenship paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-australia.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-australia.book-section.ts
+index fe1385892f33d069383419c2679e834a8ca8640e..e024464297d0417572df7721f88e49041b107f3b 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-australia.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-australia.book-section.ts
+@@ -7,7 +7,7 @@ export const otherCitizenshipAustralia = {
+   title: "Australia",
+   description:
+     "Australia citizenship paths (May 2026 snapshot). For residency paths, see ../residency/australia.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-canada.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-canada.book-section.ts
+index f4b76da5b3b3dabb1a2b5fe5aef15d3fbeaa5456..46be0c3960dbbc3e1055730c314189ceb68ac122 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-canada.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-canada.book-section.ts
+@@ -6,7 +6,7 @@ export const otherCitizenshipCanada = {
+   slug: "other-citizenship-canada",
+   title: "Canada",
+   description: "Canada citizenship paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-iceland.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-iceland.book-section.ts
+index 475b5134b4c3202d2c723003cd149f42339c460e..a77791d48060b6b02e3987b29140e1f684e7cd3a 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-iceland.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-iceland.book-section.ts
+@@ -6,7 +6,7 @@ export const otherCitizenshipIceland = {
+   slug: "other-citizenship-iceland",
+   title: "Iceland",
+   description: "Iceland citizenship paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-japan.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-japan.book-section.ts
+index c845c4c8ac96c8424e7ac5019671b4b9f7f1ee02..29cd5fc169bbe774355cea7cdb16f9f5ec1f02a5 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-japan.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-japan.book-section.ts
+@@ -6,7 +6,7 @@ export const otherCitizenshipJapan = {
+   slug: "other-citizenship-japan",
+   title: "Japan",
+   description: "Japan citizenship paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-liechtenstein.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-liechtenstein.book-section.ts
+index e9c0356b987f1ea453080fe03f2154d04084ded3..01e2c65ab58b27125d08ae8b0a7ace717d5a7a1a 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-liechtenstein.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-liechtenstein.book-section.ts
+@@ -6,7 +6,7 @@ export const otherCitizenshipLiechtenstein = {
+   slug: "other-citizenship-liechtenstein",
+   title: "Liechtenstein",
+   description: "Liechtenstein citizenship paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-mexico.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-mexico.book-section.ts
+index f5e3aca64d1d46999d155aaa2da46df5db953fe1..2dc163084e6b2d76ffacbb33c4555c2242871316 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-mexico.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-mexico.book-section.ts
+@@ -6,7 +6,7 @@ export const otherCitizenshipMexico = {
+   slug: "other-citizenship-mexico",
+   title: "Mexico",
+   description: "Mexico citizenship paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-monaco.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-monaco.book-section.ts
+index c9e5415e05150ed9ab842a8857ca2933f9d6bd72..6b89cb1bfb7cdd6c21f48552270457f4e7086885 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-monaco.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-monaco.book-section.ts
+@@ -6,7 +6,7 @@ export const otherCitizenshipMonaco = {
+   slug: "other-citizenship-monaco",
+   title: "Monaco",
+   description: "Monaco citizenship paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-new-zealand.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-new-zealand.book-section.ts
+index 3cbc53cd745eea7765f4c9a141e5927cd780edd1..3ac93300cce4bfceedbb1b51b03a0d455fa6b669 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-new-zealand.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-new-zealand.book-section.ts
+@@ -6,7 +6,7 @@ export const otherCitizenshipNewZealand = {
+   slug: "other-citizenship-new-zealand",
+   title: "New Zealand",
+   description: "New Zealand citizenship paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-norway.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-norway.book-section.ts
+index bcae7f5c07f0db9b3bc1e95a98dd110483fc273b..5e83d9272b24aea986bd01e4645539f93cda4401 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-norway.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-norway.book-section.ts
+@@ -6,7 +6,7 @@ export const otherCitizenshipNorway = {
+   slug: "other-citizenship-norway",
+   title: "Norway",
+   description: "Norway citizenship paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-san-marino.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-san-marino.book-section.ts
+index e4dfe5d250c304f86d0567f75be29b564f77c68b..d352b29b07470a9ced3abca2fbecbe3776027082 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-san-marino.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-san-marino.book-section.ts
+@@ -6,7 +6,7 @@ export const otherCitizenshipSanMarino = {
+   slug: "other-citizenship-san-marino",
+   title: "San Marino",
+   description: "San Marino citizenship paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-south-korea.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-south-korea.book-section.ts
+index e8c1f4c5f3efa987c4e536f7b7952e8e9af9a8f4..5deb0515ad4058cc83dc9edd84cd151f9b9912db 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-south-korea.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-south-korea.book-section.ts
+@@ -6,7 +6,7 @@ export const otherCitizenshipSouthKorea = {
+   slug: "other-citizenship-south-korea",
+   title: "South Korea",
+   description: "South Korea citizenship paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-summary.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-summary.book-section.ts
+index 0636b544111967d6041923380dd4ad8d34c38ca7..d513f6577f4ebee9fabfd7175080ade1cfab74d5 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-summary.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-summary.book-section.ts
+@@ -5,7 +5,7 @@ export const otherCitizenshipSummary = {
+   pageTypeSlug: "book-section",
+   slug: "other-citizenship-summary",
+   title: "Summary",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-switzerland.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-switzerland.book-section.ts
+index dc7aa438aa39fe7a20006a3d84785e1d9e85fafb..d7f06a63ffbc5a087581c4543f75478875f07f6e 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-switzerland.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-switzerland.book-section.ts
+@@ -6,7 +6,7 @@ export const otherCitizenshipSwitzerland = {
+   slug: "other-citizenship-switzerland",
+   title: "Switzerland",
+   description: "Switzerland citizenship paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-uk.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-uk.book-section.ts
+index f7d3c0f26cff3b84a41b1e517141129d9d86e671..147577877ab76eeed0e71dfce07e7580345eb60a 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-uk.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-uk.book-section.ts
+@@ -7,7 +7,7 @@ export const otherCitizenshipUk = {
+   title: "United Kingdom — Paths to Citizenship (May 2026)",
+   description:
+     "UK citizenship paths (May 2026 snapshot). For residency paths, see ../residency/uk.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-uruguay.book-section.ts b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-uruguay.book-section.ts
+index 7da8713269fa26473f7b8114b3eae05c1fdc5741..1999bb8ebc28104a6d8f99abe068f66a69d91d2e 100644
+--- a/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-uruguay.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/other-citizenship/other-citizenship-uruguay.book-section.ts
+@@ -6,7 +6,7 @@ export const otherCitizenshipUruguay = {
+   slug: "other-citizenship-uruguay",
+   title: "Uruguay",
+   description: "Uruguay citizenship paths (May 2026 snapshot).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["other-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
