@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/alan/harness/monarch/amazon-write/monarch-amazon-write.module.ts b/alan/harness/monarch/amazon-write/monarch-amazon-write.module.ts
-index 2299144588902b4a4ab527a7f9bc58cd3089b2e4..7af740b51c442cfd7f34338f71d5465db5980e90 100644
+index 2299144588902b4a4ab527a7f9bc58cd3089b2e4..9321516666247ac1b45e5470dc0ba087075ff9e4 100644
 --- a/alan/harness/monarch/amazon-write/monarch-amazon-write.module.ts
 +++ b/alan/harness/monarch/amazon-write/monarch-amazon-write.module.ts
 @@ -9,7 +9,7 @@ export const monarchAmazonWrite = {
@@ -9,6 +8,20 @@ index 2299144588902b4a4ab527a7f9bc58cd3089b2e4..7af740b51c442cfd7f34338f71d5465d
        invariantKind: "departure",
 -      statement: "A note is written only where the row carries none.",
 +      statement: "A note is written only where the row carries no note.",
+     },
+     {
+       invariantKind: "departure",
+@@ -35,8 +35,11 @@ export const monarchAmazonWrite = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Nothing is written at all where the caller did not ask to write, and the writes are said instead.",
++      statement: "Nothing is written where the caller did not ask to write.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The writes are said where the caller did not ask to write.",
      },
      {
        invariantKind: "departure",
