@@ -1,4 +1,4 @@
-import { resolve } from "node:path"
+import { join, resolve } from "node:path"
 import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { codeRoot } from "@akasha/pages/code-root"
@@ -12,7 +12,9 @@ const FAILED = 3
 
 const ROOT_FLAG = "--code-root"
 
-const COMPILER = ["bunx", "@typescript/native-preview", "--noEmit", "--listFiles", "-p"]
+const COMPILER_AT = "node_modules/typescript-7/bin/tsc"
+
+const COMPILER = ["--noEmit", "--listFiles", "-p"]
 
 const CEILING_MS = 30 * 60 * 1000
 
@@ -42,7 +44,8 @@ function inNameOrder(all: readonly AddonInfo[]): readonly AddonInfo[] {
 }
 
 function judged(root: string, one: AddonInfo, config: string, left: number): Judged {
-  const said = ran([...COMPILER, config], { cwd: root, timeout: left })
+  const called = [join(root, COMPILER_AT), ...COMPILER, config]
+  const said = ran(called, { cwd: root, timeout: left })
   const lines = `${said.out}\n${said.err}`.split("\n").map((line) => line.trim())
   const errors = lines.filter((line) => line.includes(SAYS_ERROR))
   const files = lines.filter((line) => line.startsWith("/") && !line.includes(SAYS_ERROR))

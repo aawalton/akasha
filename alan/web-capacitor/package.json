@@ -8,8 +8,8 @@
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
-    "typecheck": "react-router typegen && bunx @typescript/native-preview -b",
-    "check": "react-router typegen && bunx @typescript/native-preview -b",
+    "typecheck": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
+    "check": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
     "lint": "biome check .",
     "lint:fix": "biome check --write ."
   },

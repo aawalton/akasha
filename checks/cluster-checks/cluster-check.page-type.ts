@@ -81,6 +81,7 @@ export const clusterCheck = {
     "module/checksum-annotation-substitution",
     "module/checksum-substitution-reachability",
     "module/cluster-population-bound",
+    "module/dep-version-policy",
     "module/file-finding",
     "module/functional-type",
     "module/held-addon-structure",

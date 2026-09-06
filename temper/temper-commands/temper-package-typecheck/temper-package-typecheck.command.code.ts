@@ -10,7 +10,8 @@ const FAILED = 3
 
 const UNDER = "temper"
 const CONFIG = "tsconfig.json"
-const COMPILER = ["bunx", "@typescript/native-preview", "--noEmit", "--listFiles", "-p"]
+const COMPILER_AT = "node_modules/typescript-7/bin/tsc"
+const COMPILER = ["--noEmit", "--listFiles", "-p"]
 const CEILING_MS = 30 * 60 * 1000
 const A_MINUTE = 60000
 const SAYS_ERROR = "error TS"
@@ -45,7 +46,8 @@ function packagesUnder(at: string): readonly string[] {
 
 function judged(root: string, at: string, name: string, left: number): Judged {
   const here = join(at, name)
-  const said = ran([...COMPILER, join(here, CONFIG)], { cwd: root, timeout: left })
+  const called = [join(root, COMPILER_AT), ...COMPILER, join(here, CONFIG)]
+  const said = ran(called, { cwd: root, timeout: left })
   const lines = `${said.out}\n${said.err}`.split("\n").map((one) => one.trim())
   const errors = lines.filter((one) => one.includes(SAYS_ERROR))
   const files = lines.filter((one) => one.startsWith("/") && !one.includes(SAYS_ERROR))

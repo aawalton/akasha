@@ -7,8 +7,8 @@
     "build": "react-router build",
     "dev": "react-router dev",
     "start": "bun run server.ts",
-    "typecheck": "react-router typegen && bunx @typescript/native-preview -b",
-    "check": "react-router typegen && bunx @typescript/native-preview -b",
+    "typecheck": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
+    "check": "react-router typegen && ../../node_modules/typescript-7/bin/tsc -b",
     "lint": "biome check .",
     "lint:fix": "biome check --write .",
     "test": "bun test"

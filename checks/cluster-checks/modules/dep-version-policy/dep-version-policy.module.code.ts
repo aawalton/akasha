@@ -1,9 +1,11 @@
-export const EXACT_PIN_REQUIRED: ReadonlySet<string> = new Set<string>([
-  "@typescript/native-preview",
-])
+export const EXACT_PIN_REQUIRED: ReadonlySet<string> = new Set<string>(["typescript-7"])
+
+const ALIASED = /^npm:(?:@[^/]+\/)?[^@]+@/
+
+const EXACT = /^\d+\.\d+\.\d+(?:-[0-9A-Za-z.-]+)?(?:\+[0-9A-Za-z.-]+)?$/
 
 export function isExactPin(spec: string): boolean {
-  return /^\d+\.\d+\.\d+(?:-[0-9A-Za-z.-]+)?(?:\+[0-9A-Za-z.-]+)?$/.test(spec)
+  return EXACT.test(spec.replace(ALIASED, ""))
 }
 
 export interface PinDepEntry {
