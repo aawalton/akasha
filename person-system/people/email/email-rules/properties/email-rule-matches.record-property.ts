@@ -39,9 +39,5 @@ export const emailRuleMatches = {
     },
     { invariantKind: "departure", statement: "A rule holding no clause catches nothing." },
     { invariantKind: "departure", statement: "Two clauses on one field are two entries." },
-    {
-      invariantKind: "departure",
-      statement: "A clause is one field, one comparison and the values the comparison weighs.",
-    },
   ],
 } as const satisfies RecordProperty

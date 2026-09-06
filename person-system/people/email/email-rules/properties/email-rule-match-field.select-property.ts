@@ -15,7 +15,11 @@ export const emailRuleMatchField = {
     },
     {
       invariantKind: "departure",
-      statement: "Every field here holds text, so every field takes the same comparisons.",
+      statement: "Every field here holds text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every field takes the same comparisons.",
     },
     {
       invariantKind: "departure",

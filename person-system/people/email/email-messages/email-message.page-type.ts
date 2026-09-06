@@ -21,12 +21,11 @@ export const emailMessage = {
     },
     {
       invariantKind: "absence",
-      statement: "No message is written to a file of its own; the account holds that message.",
+      statement: "No message is written to a file of its own.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "A message's sender, recipients, subject and mailing list are yet to exist as properties.",
+      statement: "The fields a message carries are yet to exist as properties.",
     },
   ],
 } as const satisfies PageType

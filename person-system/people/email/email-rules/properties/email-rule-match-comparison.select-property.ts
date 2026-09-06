@@ -19,7 +19,7 @@ export const emailRuleMatchComparison = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A clause holding several values passes where any one of those values matches.",
+      statement: "A clause holding several values passes where a value matches.",
     },
     {
       invariantKind: "departure",
