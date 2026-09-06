@@ -12,7 +12,7 @@ export const declaredProperties = {
     {
       invariantKind: "departure",
       statement:
-        "The properties a page type carries are its own and those of every type above that page type.",
+        "A page type carries its own properties and the properties of every type above that page type.",
     },
     {
       invariantKind: "departure",
@@ -20,7 +20,7 @@ export const declaredProperties = {
     },
     {
       invariantKind: "departure",
-      statement: "Every declaration is answered as well as the binding one.",
+      statement: "Every declaration is answered as well as the binding declaration.",
     },
     {
       invariantKind: "departure",
