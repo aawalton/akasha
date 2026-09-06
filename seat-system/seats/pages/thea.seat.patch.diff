@@ -4088,10 +4088,10 @@ index 66b6f910cf2df90fcff1323c8f355a5af78c3784..660318a9b26d75acf4527703243e4d2f
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/mobile-cli/mobile-cuts/properties/build-input-tree-hash.text-property.ts b/mobile-cli/mobile-cuts/properties/build-input-tree-hash.text-property.ts
-index 9ce04d2fd9de2e6e1ec8916033cb185b1d905a27..c798ff5ab9949c56f00b8fca012ef4e996b8ff35 100644
+index 9ce04d2fd9de2e6e1ec8916033cb185b1d905a27..242d4cc708e687b4f552b1daa244dd53f7da6266 100644
 --- a/mobile-cli/mobile-cuts/properties/build-input-tree-hash.text-property.ts
 +++ b/mobile-cli/mobile-cuts/properties/build-input-tree-hash.text-property.ts
-@@ -8,7 +8,7 @@ export const buildInputTreeHash = {
+@@ -8,12 +8,12 @@ export const buildInputTreeHash = {
    slug: "build-input-tree-hash",
    propertySlug: "build-input-tree-hash",
    definition: "the hash of everything a build reads, which a cut is judged owed against",
@@ -4100,6 +4100,12 @@ index 9ce04d2fd9de2e6e1ec8916033cb185b1d905a27..c798ff5ab9949c56f00b8fca012ef4e9
    nameFormatSlug: null,
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "A cut carrying none predates the basis cuts are judged by and reads as owed.",
++      statement: "A cut carrying no hash predates the basis cuts are judged by and reads as owed.",
+     },
+   ],
+ } as const satisfies TextProperty
 diff --git a/mobile-cli/mobile-cuts/properties/main-sha.text-property.ts b/mobile-cli/mobile-cuts/properties/main-sha.text-property.ts
 index dd243237d962eeaf9ed9083c34b3c80992027fa2..9f4511501829b3f87bd5bcd721baded3673e9892 100644
 --- a/mobile-cli/mobile-cuts/properties/main-sha.text-property.ts
