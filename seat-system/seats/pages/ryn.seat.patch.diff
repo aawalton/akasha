@@ -1,0 +1,13 @@
+diff --git a/seat-system/commands/shell-init-bash/shell-init-bash.command.ts b/seat-system/commands/shell-init-bash/shell-init-bash.command.ts
+index 8a3ad5e94bbcf55e5e290bb7076cfcfb276839af..3f8a33f72efd65d5dbf95434d2a118f7ea9e8d80 100644
+--- a/seat-system/commands/shell-init-bash/shell-init-bash.command.ts
++++ b/seat-system/commands/shell-init-bash/shell-init-bash.command.ts
+@@ -32,7 +32,7 @@ export const shellInitBash = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A word given to this command is refused, because this command takes none.",
++      statement: "A word given to this command is refused.",
+     },
+     {
+       invariantKind: "departure",
