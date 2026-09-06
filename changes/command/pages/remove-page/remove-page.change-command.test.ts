@@ -1,0 +1,38 @@
+import { expect, test } from "bun:test"
+import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { removePage } from "./remove-page.change-command.code.ts"
+
+const ASKED = "the world was asked"
+
+const UNASKED: World = {
+  root: "/nowhere",
+  index: new Proxy(
+    {},
+    {
+      get() {
+        throw new Error(ASKED)
+      },
+    }
+  ) as never,
+  textOf: () => {
+    throw new Error(ASKED)
+  },
+}
+
+test("a page type is refused, and the refusal names the change that takes a page type away", () => {
+  const said = removePage(UNASKED, { at: "changes/change.page-type.ts" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toMatch(/remove-page-type/)
+})
+
+test("a page type is refused from the path alone, with the world never asked", () => {
+  expect(() => removePage(UNASKED, { at: "changes/change.page-type.ts" })).not.toThrow()
+})
+
+test("a path reading as no page file is refused", () => {
+  const said = removePage(UNASKED, { at: "changes/notes.md" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toMatch(/no page file/)
+})

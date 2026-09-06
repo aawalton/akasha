@@ -12,7 +12,7 @@ export const changeCommand = {
   slug: "change-command",
   definition: "a change the change command runs",
   pluralSlug: "change-command",
-  partSlugs: [],
+  partSlugs: ["change-command/remove-page"],
   extendsSlug: ["page-type/change"],
   invariants: [
     {
