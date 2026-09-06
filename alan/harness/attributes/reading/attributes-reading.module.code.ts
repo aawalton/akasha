@@ -94,8 +94,15 @@ async function constitutionOf(now: Date): Promise<number> {
 export async function takeReadings(root: string, now: Date = new Date()): Promise<Taken> {
   const kept: Record<string, number> = {}
   const unread: string[] = []
+  // AN ATTRIBUTE NOTHING CAN BE READ FOR SAYS SO. A reading of null is what a tile shows as no
+  // signal, and a run that keeps one attribute of six exits 0 with nothing on the error stream, so
+  // systemd reports a service that delivers a sixth of its readings as healthy. Naming the page is
+  // what makes a dark tile visible in the journal.
   const keep = (page: string, value: number | null): undefined => {
-    if (value === null) return undefined
+    if (value === null) {
+      unread.push(`${page} — the tracking day carries nothing this attribute reads`)
+      return undefined
+    }
     keepReading(root, page, value, now)
     kept[page] = value
     return undefined
@@ -128,6 +135,11 @@ export async function takeReadings(root: string, now: Date = new Date()): Promis
     const [charisma] = await Promise.allSettled([charismaOf(values)])
     if (charisma.status === "fulfilled") keep(CHARISMA_PAGE, charisma.value)
     else wanting([CHARISMA_PAGE], whyOf(charisma.reason))
+  } else {
+    wanting(
+      [STRENGTH_PAGE, ENDURANCE_PAGE, WISDOM_PAGE, INTELLIGENCE_PAGE, CHARISMA_PAGE],
+      "no tracking day is kept for this day, so no attribute can be read off one"
+    )
   }
 
   return { kept, unread }
