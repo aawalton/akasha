@@ -34,12 +34,12 @@ export function fileProperty(root: string, path: string, knowing: Knowing): read
   if (said === null || said.sections.length > 0) return []
   if (!knowing().types.has(said.pageType)) return []
   const declared = propertiesIfNamedOf(said.pageType, root, (at) => valueAt(at, root)) ?? []
-  const under = new Map(declared.map((one) => [one.pagePropertySlug, one.pageTypeSlug]))
+  const under = new Map(declared.map((one) => [one.propertySlug, one]))
   const found: Warrant[] = []
   for (const slug of statedIn(root, path, said.slug)) {
-    const pageTypeSlug = under.get(slug)
-    if (pageTypeSlug === undefined) continue
-    const listed = listedAt(root, pageTypeSlug, slug)[0]
+    const one = under.get(slug)
+    if (one === undefined) continue
+    const listed = listedAt(root, one.pageTypeSlug, one.pagePropertySlug)[0]
     if (listed === undefined || listed.path === path) continue
     const oid = blobAt(root, listed.path)
     if (oid === null) continue

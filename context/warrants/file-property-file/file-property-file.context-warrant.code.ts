@@ -24,9 +24,9 @@ function pageBeside(path: string, said: Parted, propertySlug: string): string | 
 
 function propertyOf(root: string, pageType: string, propertySlug: string): Warrant | null {
   const declared = propertiesIfNamedOf(pageType, root, (at) => valueAt(at, root)) ?? []
-  const under = declared.find((one) => one.pagePropertySlug === propertySlug)
+  const under = declared.find((one) => one.propertySlug === propertySlug)
   if (under === undefined) return null
-  const listed = listedAt(root, under.pageTypeSlug, propertySlug)[0]
+  const listed = listedAt(root, under.pageTypeSlug, under.pagePropertySlug)[0]
   if (listed === undefined) return null
   const oid = blobAt(root, listed.path)
   return oid === null ? null : { path: listed.path, oid, owed: PROPERTY }
