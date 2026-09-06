@@ -5,5 +5,5 @@ export const whatTheGaugeReadingRefersTo = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-the-gauge-reading-refers-to",
   topicSlug: "what-the-gauge-is-actually-reading",
-  ask: "What does the reading refer to: a pull I feel, a body state I do not feel, or both at once? Those three answers would mean different things.",
+  ask: "A pull I feel, a body state I do not feel, or both at once would each mean something different. What does the reading refer to?",
 } as const satisfies AllAboutAlanQuestion

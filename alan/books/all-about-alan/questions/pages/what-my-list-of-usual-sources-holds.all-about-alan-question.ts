@@ -5,5 +5,5 @@ export const whatMyListOfUsualSourcesHolds = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-my-list-of-usual-sources-holds",
   topicSlug: "what-wears-my-body-down",
-  ask: "What is on my list of usual sources, with each marked covered, partial or open? Until the list is written out, what is left is asserted rather than auditable.",
+  ask: "Until the list is written out, what is left is asserted rather than auditable. What is on my list of usual sources, with each marked covered, partial or open?",
 } as const satisfies AllAboutAlanQuestion

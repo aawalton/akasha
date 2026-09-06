@@ -5,5 +5,5 @@ export const whatSomeoneWithoutARunwayDoes = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-someone-without-a-runway-does",
   topicSlug: "why-i-stopped-working",
-  ask: "What does someone without a runway do instead of stopping? I have named that as a separate problem and never worked it.",
+  ask: "I have named the question as a separate problem and never worked the problem. What does someone without a runway do instead of stopping?",
 } as const satisfies AllAboutAlanQuestion

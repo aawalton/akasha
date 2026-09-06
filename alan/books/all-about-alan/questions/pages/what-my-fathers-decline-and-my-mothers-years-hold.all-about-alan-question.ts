@@ -5,5 +5,5 @@ export const whatMyFathersDeclineAndMyMothersYearsHold = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-my-fathers-decline-and-my-mothers-years-hold",
   topicSlug: "the-years-with-my-parents",
-  ask: "What is there to write about my father's decline and death, the eighteen months I cared for him, and the eight years my mother lived with us? That run is nowhere written down.",
+  ask: "What is there to write about the run nowhere written down: my father's decline and death, the eighteen months I cared for him, and the eight years my mother lived with us?",
 } as const satisfies AllAboutAlanQuestion

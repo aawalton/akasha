@@ -5,5 +5,5 @@ export const whatReadingDocsInsteadOfCodeCosts = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-reading-docs-instead-of-code-costs",
   topicSlug: "not-reading-code-any-more",
-  ask: "What does reading docs instead of code cost me, if anything? I have only said I do not miss coding.",
+  ask: "I have only said I do not miss coding. What does reading docs instead of code cost me, if anything?",
 } as const satisfies AllAboutAlanQuestion
