@@ -236,10 +236,10 @@ export const mechanically = async (root: string): Promise<number> =>
 
 export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
 
-export const ranBy = (runsChecks: boolean, runsWarrants: boolean): Running =>
+export const ranBy = (runsChecks: boolean, owesReading: boolean): Running =>
   runningOf({
     ...givenIn(""),
-    changeKind: { slug: "held", runsChecks, writerOwesReading: runsWarrants },
+    changeKind: { slug: "held", runsChecks, writerOwesReading: owesReading },
   })
 
 export function seeded(root: string): boolean {
