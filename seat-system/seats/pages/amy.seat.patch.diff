@@ -1,0 +1,51 @@
+diff --git a/command-system/commands/seat-messaged/seat-messaged.command.ts b/command-system/commands/seat-messaged/seat-messaged.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4c69dde0decf12e177ec04e3d8ff1c0639682405
+--- /dev/null
++++ b/command-system/commands/seat-messaged/seat-messaged.command.ts
+@@ -0,0 +1,45 @@
++import type { Command } from "../command.page-type.ts"
++
++export const seatMessaged = {
++  id: "01a0780d-ea07-7aeb-8105-a76ac0957dbd",
++  pageTypeSlug: "command",
++  slug: "seat-messaged",
++  definition: "the command marking the persona at a seat as the one Alan wrote to last",
++  code: "ts",
++  test: "ts",
++  changeKindSlug: "change-mechanical",
++  positionals: [
++    {
++      name: "name",
++      description: "the seat Alan wrote to",
++      required: true,
++    },
++  ],
++  helpNotes: [
++    "the moment kept is the moment of the run rather than a moment the caller states.",
++    "the value is kept beside the persona's page rather than in the commit.",
++    "a seat holding no persona is refused rather than kept against nobody.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The persona marked is the one the named seat states.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name that is no seat is refused rather than kept against nobody.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run states which persona was marked and at what moment.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads what the seat was doing.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A run marks no seat other than the one named.",
++    },
++  ],
++} as const satisfies Command
