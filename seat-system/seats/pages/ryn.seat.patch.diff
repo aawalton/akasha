@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/indexes/entries/index-entries.module.ts b/pages/indexes/entries/index-entries.module.ts
+index 4d6d31ef83a9661888f80be99287ed608a330353..ba38991574aebbadec245d21adec3831ca0b647f 100644
+--- a/pages/indexes/entries/index-entries.module.ts
++++ b/pages/indexes/entries/index-entries.module.ts
+@@ -59,7 +59,7 @@ export const indexEntries = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The numbered files of an uncommitted property are claimed as the files of one the page states are.",
++        "The numbered files of an uncommitted property are claimed as the files of a stated property are.",
+     },
+     {
+       invariantKind: "departure",
