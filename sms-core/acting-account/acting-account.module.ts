@@ -14,7 +14,7 @@ export const actingAccount = {
     },
     {
       invariantKind: "departure",
-      statement: "A sender quoting the footer cannot reach past the one the channel wrote.",
+      statement: "A sender quoting the footer cannot reach past the footer the channel wrote.",
     },
     {
       invariantKind: "departure",
