@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/refactor/package-renaming/package-renaming.module.ts b/command-system/commands/refactor/package-renaming/package-renaming.module.ts
-index 338912ebb23897091de5876e1841ba5fc2904e92..f69d16cfcb4fbc7ed0602cf41fb20eae57beec1f 100644
+index 338912ebb23897091de5876e1841ba5fc2904e92..6ba5a128843ed455294de921acfdd4b50332d2f0 100644
 --- a/command-system/commands/refactor/package-renaming/package-renaming.module.ts
 +++ b/command-system/commands/refactor/package-renaming/package-renaming.module.ts
 @@ -30,7 +30,7 @@ export const packageRenaming = {
@@ -8,6 +8,15 @@ index 338912ebb23897091de5876e1841ba5fc2904e92..f69d16cfcb4fbc7ed0602cf41fb20eae
        invariantKind: "absence",
 -      statement: "A longer name this one only opens is not the package.",
 +      statement: "A longer name the package's name only opens is not the package.",
+     },
+     {
+       invariantKind: "departure",
+@@ -67,7 +67,7 @@ export const packageRenaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An answer says how many manifests and how many bodies were respelled.",
++      statement: "An answer says the number of manifests and the number of bodies respelled.",
      },
      {
        invariantKind: "departure",
