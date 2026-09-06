@@ -1,8 +1,8 @@
 diff --git a/inference/commands/inference-answering/inference-answering.module.ts b/inference/commands/inference-answering/inference-answering.module.ts
-index bc2af5652a48b29e8651b8426376647844974128..7fca43212169fef95df843f58166bddb40b569d4 100644
+index bc2af5652a48b29e8651b8426376647844974128..a25faf534354a296ddc33a173d2c02ae9b1a6454 100644
 --- a/inference/commands/inference-answering/inference-answering.module.ts
 +++ b/inference/commands/inference-answering/inference-answering.module.ts
-@@ -18,11 +18,11 @@ export const inferenceAnswering = {
+@@ -18,16 +18,16 @@ export const inferenceAnswering = {
      },
      {
        invariantKind: "departure",
@@ -13,6 +13,12 @@ index bc2af5652a48b29e8651b8426376647844974128..7fca43212169fef95df843f58166bddb
        invariantKind: "departure",
 -      statement: "A flag said more than once holds the last value where that flag does not.",
 +      statement: "A flag that does not repeat holds the last value the call said for that flag.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A flag carrying prose is also reachable by a path, under its own name and `-file`.",
++        "A flag carrying prose is also reachable by a path under its own name and `-file`.",
      },
      {
        invariantKind: "departure",
