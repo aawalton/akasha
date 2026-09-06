@@ -1,0 +1,128 @@
+diff --git a/domains/findings/pages/a-reminder-schedule-is-judged-when-it-is-sent-rather-than-when-it-is-written.finding.ts b/domains/findings/pages/a-reminder-schedule-is-judged-when-it-is-sent-rather-than-when-it-is-written.finding.ts
+index 12e8a7407317301d5c6123fdc4343bd5fd0c2bb2..3d67734ea4d8e7f2217416f278c62591c8965401 100644
+--- a/domains/findings/pages/a-reminder-schedule-is-judged-when-it-is-sent-rather-than-when-it-is-written.finding.ts
++++ b/domains/findings/pages/a-reminder-schedule-is-judged-when-it-is-sent-rather-than-when-it-is-written.finding.ts
+@@ -6,7 +6,7 @@ export const aReminderScheduleIsJudgedWhenItIsSentRatherThanWhenItIsWritten = {
+   slug: "a-reminder-schedule-is-judged-when-it-is-sent-rather-than-when-it-is-written",
+   domainSlug: "workspace-package/reminder-system",
+   claim:
+-    "The recreation lost the reading a schedule got when a reminder was written, so a schedule no clock can read is caught on the next run of the service rather than by the write that put it there.",
++    "The recreation lost the reading one schedule got when a reminder was written, so a schedule no clock can read is caught on the next run of the service rather than by the write that put it there.",
+   evidence:
+     "`ops reminder set` read the schedule through `systemd-analyze calendar` before writing the file and refused a schedule that came back unreadable, so a reminder on disk always named a time. A reminder page is written with `akasha write`, which judges the schedule as text under 100 characters and reads no clock. `nextElapse` in `reminder-sending` still reads the schedule the same way and answers `unread` for one no clock can take, and `send-due-reminders` reports that reminder and carries on to the others. The window between the write and the report is however long the service waits, and a reminder in that window is never sent.",
+ } as const satisfies Finding
+diff --git a/domains/findings/pages/akasha-has-no-property-type-for-a-calendar-day.finding.ts b/domains/findings/pages/akasha-has-no-property-type-for-a-calendar-day.finding.ts
+index 7ba3e8663dc9ece2b72821949eb317abf4c51359..2f7c6dcc2a1f299631be29be8e3dd83c50423126 100644
+--- a/domains/findings/pages/akasha-has-no-property-type-for-a-calendar-day.finding.ts
++++ b/domains/findings/pages/akasha-has-no-property-type-for-a-calendar-day.finding.ts
+@@ -6,7 +6,7 @@ export const akashaHasNoPropertyTypeForACalendarDay = {
+   slug: "akasha-has-no-property-type-for-a-calendar-day",
+   domainSlug: "workspace-package/page",
+   claim:
+-    "A page property holding a calendar day has nowhere to land. An instant property must close its slug with `-at` and carry a time to the millisecond, and a day carries neither, so a day is written as text and nothing judges it.",
++    "A page property holding one calendar day has nowhere to land. An instant property must close its slug with `-at` and carry a time to the millisecond, and a day carries neither, so a day is written as text and nothing judges it.",
+   evidence:
+     "`temper-quest-giver` states `epoch: 2026-02-18`, a day rather than a moment. `instant-property` declares that an instant is written as ISO 8601 in UTC to the millisecond closing with `Z`, and that an instant property's slug closes with `-at`, so the value and the slug both refuse a day. `akasha/day/` carries the modules `day-string` and `eso-day`, which read and write days, but no `day-property` page type declares one as a page property. The property landed as a text property with `max: 10` and a gap invariant saying it is a day rather than text, at `akasha/temper/temper-catalog/temper-world/properties/epoch.text-property.ts`. Nothing now refuses `2026-02-30` or `not-a-day` in that property. Temper is unlikely to be the only domain wanting one.",
+ } as const satisfies Finding
+diff --git a/domains/findings/pages/an-anon-key-for-supabase-is-in-the-commit.finding.ts b/domains/findings/pages/an-anon-key-for-supabase-is-in-the-commit.finding.ts
+index c7c4893c54f4c971a5cf25283cdd0d22fe02c4aa..9cd2b0fd54320f9c7a116570f4ff841d91e9d306 100644
+--- a/domains/findings/pages/an-anon-key-for-supabase-is-in-the-commit.finding.ts
++++ b/domains/findings/pages/an-anon-key-for-supabase-is-in-the-commit.finding.ts
+@@ -6,7 +6,7 @@ export const anAnonKeyForSupabaseIsInTheCommit = {
+   slug: "an-anon-key-for-supabase-is-in-the-commit",
+   domainSlug: "page-type/change",
+   claim:
+-    "A workflow template holds a Supabase anon key as a module constant rather than reading it from sops. The key is signed for the self-hosted issuer, carries the anon role, and is good until April 2036. Everyone with a checkout has it, and every checkout taken before it is replaced keeps it.",
++    "A workflow template holds one Supabase anon key as a module constant rather than reading it from sops. The key is signed for the self-hosted issuer, carries the anon role, and is good until April 2036. Everyone with a checkout has it, and every checkout taken before it is replaced keeps it.",
+   evidence:
+     "The key is at pages/workflow-template/workflow-temper-watcher.workflow-template.declaration.attachment.ts, which git tracks. Its payload decodes to role `anon`, issuer `https://supabase.alanwalton.com/auth/v1`, and expiry 2092231506, which is 2036-04-19. Every other secret in the repository is sops-encrypted. Found while surveying which supabase code is not auth code. Service-role and anon values are also in plaintext at alanwalton/web/.env.local, which git does not track, so those remain on the machine holding them and are named here only so the two are not confused.",
+ } as const satisfies Finding
+diff --git a/domains/findings/pages/email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha.finding.ts b/domains/findings/pages/email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha.finding.ts
+index 59cff13754501b21bf99fb031f83af78b1eb6835..8a00f80b944de2ef8ddacbca48ee34bd7a343011 100644
+--- a/domains/findings/pages/email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha.finding.ts
++++ b/domains/findings/pages/email-unsubscribe-lost-its-dry-run-when-it-carried-into-akasha.finding.ts
+@@ -8,5 +8,5 @@ export const emailUnsubscribeLostItsDryRunWhenItCarriedIntoAkasha = {
+   claim:
+     "The carried `email-unsubscribe` command always fires, where the old ops command could be asked to say what it would do and stop, so the only rehearsal for an irreversible act is gone.",
+   evidence:
+-    "tools/commands/email/unsubscribe.ts lines 38-41 printed the parsed intent and returned without firing when --dry-run was said, and pages/old-ops-command/ops-email-unsubscribe.old-ops-command.md line 20 documented that flag. akasha/google/email/commands/email-unsubscribe/email-unsubscribe.command.ts declares no such taking and carries the absence invariant 'Nothing here says what an unsubscribe would do without doing it.', so the loss is declared rather than accidental. Both old files were ablated at c87be387d011ae47c4176474e565760b7e95f056 and are recoverable from its parent. Whether the rehearsal is worth restoring is Alan's call, not a carry.",
++    "tools/commands/email/unsubscribe.ts lines 38-41 printed the parsed intent and returned without firing when --dry-run was said, and pages/old-ops-command/ops-email-unsubscribe.old-ops-command.md line 20 documented that flag. akasha/google/email/commands/email-unsubscribe/email-unsubscribe.command.ts declares no such taking and carries the absence invariant 'Nothing here says what an unsubscribe would do without doing it.', so the loss is declared rather than accidental. Both old files were ablated at c87be387d011ae47c4176474e565760b7e95f056 and are recoverable from its parent. Whether the rehearsal is worth restoring is Alan's call, not one carry.",
+ } as const satisfies Finding
+diff --git a/domains/findings/pages/fork-is-dispatched-with-no-kind-page.finding.ts b/domains/findings/pages/fork-is-dispatched-with-no-kind-page.finding.ts
+index ea21021d5e6daa76c9795f78ecf4f8110c17105d..a6e0ece5cfeaeaa605b9a63715829dab39ba7827 100644
+--- a/domains/findings/pages/fork-is-dispatched-with-no-kind-page.finding.ts
++++ b/domains/findings/pages/fork-is-dispatched-with-no-kind-page.finding.ts
+@@ -6,7 +6,7 @@ export const forkIsDispatchedWithNoKindPage = {
+   slug: "fork-is-dispatched-with-no-kind-page",
+   domainSlug: "workspace-package/seat-system",
+   claim:
+-    "A seat dispatches subagents as `fork`, and no subagent-kind page carries that name. Every kind page holds the name a seat dispatches it by in `dispatched-as`, so a subagent dispatched as `fork` reaches no kind page and its own page names no kind.",
++    "A seat dispatches subagents as `fork`, and no subagent-kind page carries that name. Every kind page holds the name one seat dispatches it by in `dispatched-as`, so a subagent dispatched as `fork` reaches no kind page and its own page names no kind.",
+   evidence:
+     'Three subagent pages held `dispatchedAs: "fork"` on 2026-09-04. The first such value ever committed landed at 12:26 that day in f23578b0ed, cd256dc61f and 5477638c08, and 17 commits carry one. A census of every commit touching a subagent page before that hour found 7797 `general-purpose`, 3112 `Explore`, and no other value, so `fork` began inside one hour rather than being long present. `fork` is a builtin of the client: `compose-subagents` renders the `--agents` map from the `dispatched-as` of each kind page, and that map holds only `Explore` and `general-purpose`. Adding a `fork` kind page would put `fork` into the map every seat hands the client, which alters what the client is told rather than repairing what is recorded.',
+ } as const satisfies Finding
+diff --git a/domains/findings/pages/leverage-map-core-lost-restart-ruled.finding.ts b/domains/findings/pages/leverage-map-core-lost-restart-ruled.finding.ts
+index b570ce5bb8710736ce1a9f68e94701acca44f38c..92e1ca70d518ea8376588424143a31efbd99cacf 100644
+--- a/domains/findings/pages/leverage-map-core-lost-restart-ruled.finding.ts
++++ b/domains/findings/pages/leverage-map-core-lost-restart-ruled.finding.ts
+@@ -6,7 +6,7 @@ export const leverageMapCoreLostRestartRuled = {
+   slug: "leverage-map-core-lost-restart-ruled",
+   domainSlug: "domain/all-about-alan",
+   claim:
+-    "The live 37-line Leverage Map core did not survive the 2026-07-27 harness rebuild, Alan ruled restart-from-scratch on 2026-07-28, and loose ends from that day's session are captured only as a routing pointer awaiting Book-of-Alan intake, which Alan explicitly deferred.",
++    "The live 37-line Leverage Map core did not survive the 2026-07-27 harness rebuild, Alan ruled restart-from-scratch on 2026-07-28, and loose ends from that day's session are captured only as one routing pointer awaiting Book-of-Alan intake, which Alan explicitly deferred.",
+   evidence:
+     "From project #17022 (status `someday_maybe`, `live-on: commit`, domain `all-about-alan`), captured and never defined.\n\nThe live 37-line map core did not survive the 2026-07-27 harness rebuild. Alan ruled restart-from-scratch (2026-07-28).\n\nScope this row held:\n1. Rebuild the ranked Leverage Map core from scratch, by interview.\n2. Hold the loose ends surfaced in the 2026-07-28 session as a ROUTING entry — evidence captured here, to be passed to Abby for Book-of-Alan intake when Alan is ready for full capture. He explicitly deferred full capture that day.\n\nNot in scope: writing the Book of Alan itself — that is knowledge/Abby's material; this row only held the pointer until intake.",
+ } as const satisfies Finding
+diff --git a/domains/findings/pages/priming-guards-the-first-capture-rather-than-the-first-after-a-gap.finding.ts b/domains/findings/pages/priming-guards-the-first-capture-rather-than-the-first-after-a-gap.finding.ts
+index 4383015427883d3359a6c6d4995e6726fa360c5b..f6569c84525d4556464865349ae9c20da3ceed06 100644
+--- a/domains/findings/pages/priming-guards-the-first-capture-rather-than-the-first-after-a-gap.finding.ts
++++ b/domains/findings/pages/priming-guards-the-first-capture-rather-than-the-first-after-a-gap.finding.ts
+@@ -6,7 +6,7 @@ export const primingGuardsTheFirstCaptureRatherThanTheFirstAfterAGap = {
+   slug: "priming-guards-the-first-capture-rather-than-the-first-after-a-gap",
+   domainSlug: "domain/music-listening",
+   claim:
+-    "The rule that a priming run scores no first listen guards only the very first capture, because priming is true where no listen has ever been filed. A capture starting again after a gap is not primed, so every track heard in the gap that no heard track names scores as a first listen and counts into new music minutes, dated to the run rather than to the hearing. Alan has left this as it is and will settle it when he rebuilds the workflow.",
++    "The rule that one priming run scores no first listen guards only the very first capture, because priming is true where no listen has ever been filed. A capture starting again after a gap is not primed, so every track heard in the gap that no heard track names scores as a first listen and counts into new music minutes, dated to the run rather than to the hearing. Alan has left this as it is and will settle it when he rebuilds the workflow.",
+   evidence:
+     "`music-capture.command.code.ts` reads `const priming = ledger.newestPlayedAt === null`. Alan's newest filed listen is `2026-08-21T12:31:13.556Z` and the capture was deleted on 1 September, so twelve days went unfiled and the ledger is not empty. The first run will therefore not be primed. What Spotify hands back reaches about fifty plays, so the gap is recoverable only in part either way. `--dry-run` says what would land without writing, and would give the count before any of it is filed.",
+ } as const satisfies Finding
+diff --git a/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts b/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts
+index 266b849afd483a38ccec1d2ec54a257ab3605dd9..9dd6783a45def6ea0ad80607567842efd1633520 100644
+--- a/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts
++++ b/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts
+@@ -6,7 +6,7 @@ export const seedRatedHeardTracksWereNeverHeard = {
+   slug: "seed-rated-heard-tracks-were-never-heard",
+   domainSlug: "domain/music-listening",
+   claim:
+-    "The twenty-nine heard tracks naming no Spotify track id were never heard. Each was seeded from a song Alan had rated, to keep that song out of the new-music offer, and no Spotify track was ever matched to it. The rating each one carried is already kept on the song's own page, so the rows add nothing the catalog does not hold.",
++    "The twenty-nine heard tracks naming no Spotify track id were never heard. Each was seeded from one song Alan had rated, to keep that song out of the new-music offer, and no Spotify track was ever matched to it. The rating each one carried is already kept on the song's own page, so the rows add nothing the catalog does not hold.",
+   evidence:
+     "The 678 rows of `alan.heard-music.tracks.jsonl` name four sources. Every row sourced `seed-top-tracks` (130), `seed-prior-window` (46) or `observed` (473) names a Spotify track id. Every row sourced `seed-rated` (29) names none, and no row sourced `seed-rated` names one. The split is total either way. All 29 title keys match a rated song page, of the 30 rated song pages the catalog holds. The 649 rows that do name an id were carried across whole, and each of the 649 ids is distinct.",
+ } as const satisfies Finding
+diff --git a/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts b/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts
+index ed91a37861d1fa0b4f6f05c4f14d93e95bac7db8..8dabf0b40fd84efc38eaf698a8549c7923d9ace3 100644
+--- a/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts
++++ b/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts
+@@ -6,7 +6,7 @@ export const theAkashaReminderCarriesNoWarrantAndExtendsNoMessage = {
+   slug: "the-akasha-reminder-carries-no-warrant-and-extends-no-message",
+   domainSlug: "workspace-package/reminder-system",
+   claim:
+-    "The reminder recreated in akasha drops the warrant a reminder carried and the message page type a reminder extended.",
++    "The reminder recreated in akasha drops the warrant one reminder carried and the message page type a reminder extended.",
+   evidence:
+     "The old `reminder` extends `message` and inherits `to`, `from`, `warrant` and `claimed-at`. The akasha one extends `page` and carries `to`, `from`, `schedule`, `text` and `next-at`. Two things did not come across. The warrant said whether a sender waits, as `announce` or `blocked`; the one reminder that exists says `announce`, and a clock waits for nothing, so nothing states it. The `warrant` slug is also taken by what a directive states. The message page type did not come across because carrying it across is the whole messaging system, which no intent yet names. Until messaging moves in, a reminder that comes due is still handed to `writeMessage` in the old system.",
+ } as const satisfies Finding
+diff --git a/domains/findings/pages/two-page-types-under-temper-world-are-neither-places-nor-people.finding.ts b/domains/findings/pages/two-page-types-under-temper-world-are-neither-places-nor-people.finding.ts
+index cf1ace5ae69b5fc06ebe3b618a9f4045e6e79f23..a8a830aedb3e573d2342162d704554235b52155b 100644
+--- a/domains/findings/pages/two-page-types-under-temper-world-are-neither-places-nor-people.finding.ts
++++ b/domains/findings/pages/two-page-types-under-temper-world-are-neither-places-nor-people.finding.ts
+@@ -6,7 +6,7 @@ export const twoPageTypesUnderTemperWorldAreNeitherPlacesNorPeople = {
+   slug: "two-page-types-under-temper-world-are-neither-places-nor-people",
+   domainSlug: "domain/temper-world",
+   claim:
+-    "`temper-catalog-domain` and `temper-source-category` are filed under a domain defined as the places of Tamriel and the people who live in them, and neither is a place or a person. The grouping was mine and it was wrong.",
++    "`temper-catalog-domain` and `temper-source-category` are filed under one domain defined as the places of Tamriel and the people who live in them, and neither is a place or a person. The grouping was mine and it was wrong.",
+   evidence:
+     "`temper-catalog-domain` carries capture bookkeeping — `api-version`, `manifest-api-version`, `captured-at`, and which version a generator last ran for — which is about the mirroring rather than about the game. `temper-source-category` names the groups a character's stat sources fall into, which reaches across gear, skills and effects rather than sitting in any of them. Both fit `temper-catalog` itself, defined as what the game holds mirrored. Moving them means carrying their property pages out of `temper-world/properties/` with them, so it is left until the clusters running in parallel have settled rather than done while they are landing.",
+ } as const satisfies Finding
