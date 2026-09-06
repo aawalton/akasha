@@ -1,0 +1,19 @@
+diff --git a/person-system/people/email/email-messages/email-message.page-type.ts b/person-system/people/email/email-messages/email-message.page-type.ts
+index 0bb48309409c2885f494952cd35e1ee96da8e433..75964f2bbebff64d24c62321b6bb30e478f9d68a 100644
+--- a/person-system/people/email/email-messages/email-message.page-type.ts
++++ b/person-system/people/email/email-messages/email-message.page-type.ts
+@@ -21,12 +21,11 @@ export const emailMessage = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No message is written to a file of its own; the account holds that message.",
++      statement: "No message is written to a file of its own.",
+     },
+     {
+       invariantKind: "gap",
+-      statement:
+-        "A message's sender, recipients, subject and mailing list are yet to exist as properties.",
++      statement: "The fields a message carries are yet to exist as properties.",
+     },
+   ],
+ } as const satisfies PageType
