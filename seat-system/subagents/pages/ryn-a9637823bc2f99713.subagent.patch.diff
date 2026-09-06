@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/editor-extension/panel-domains/panel-domains.module.ts b/editor-extension/panel-domains/panel-domains.module.ts
-index 5ad41df774743de28f1c4bd92f8192044ac1b966..b41cea38e0d5149303dceab6845d956209ec43a5 100644
+index 5ad41df774743de28f1c4bd92f8192044ac1b966..caab8acc8b8b62bc21478d478974e078ed77ea5d 100644
 --- a/editor-extension/panel-domains/panel-domains.module.ts
 +++ b/editor-extension/panel-domains/panel-domains.module.ts
 @@ -32,7 +32,7 @@ export const panelDomains = {
@@ -9,6 +9,15 @@ index 5ad41df774743de28f1c4bd92f8192044ac1b966..b41cea38e0d5149303dceab6845d9562
        invariantKind: "departure",
 -      statement: "A page under other than one parent is answered as under none.",
 +      statement: "A page under other than one parent is answered as under no parent.",
+     },
+     {
+       invariantKind: "departure",
+@@ -44,7 +44,7 @@ export const panelDomains = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A persona names the domain she champions, so that edge is read backwards here.",
++      statement: "The champion edge is read backwards off the persona rather than off the domain.",
      },
      {
        invariantKind: "departure",
