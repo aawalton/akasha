@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts b/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
+index 77beb9f1211831cab1573c44f252496637d9fc31..2e18a6df720cf696776fcafed0f6be68b2aeef18 100644
+--- a/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
++++ b/seat-system/seat-akasha-beside/seat-akasha-beside.module.ts
+@@ -21,7 +21,7 @@ export const seatAkashaBeside = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A subagent is answered the page of the seat above it.",
++      statement: "A subagent is answered the page of the seat above that subagent.",
+     },
+     {
+       invariantKind: "departure",
