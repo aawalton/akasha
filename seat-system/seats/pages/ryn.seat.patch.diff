@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/piping/piping.module.ts b/command-system/piping/piping.module.ts
+index 9adfb5242bf56efeb0c8750de8ec7fd1c5084e45..543ee41ef87ba84a04cce67d440da442c180dbc1 100644
+--- a/command-system/piping/piping.module.ts
++++ b/command-system/piping/piping.module.ts
+@@ -93,7 +93,7 @@ export const piping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Each of the two is ended mid-line on its own.",
++      statement: "Each marker is ended mid-line on its own.",
+     },
+     {
+       invariantKind: "departure",
