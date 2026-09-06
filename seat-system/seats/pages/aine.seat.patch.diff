@@ -463,24 +463,24 @@ index 0000000000000000000000000000000000000000..ede1a54d3aa0fba99ce460ea6e0fba2d
 +})
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..0ac0c8575d167b4863bd6505d5408e8bf5b4ff8a
+index 0000000000000000000000000000000000000000..75a24886771b129bdeb4f569febe7cb046444492
 --- /dev/null
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.ts
-@@ -0,0 +1,51 @@
+@@ -0,0 +1,55 @@
 +import type { FolderShape } from "../folder-shape.page-type.ts"
 +
 +export const sectionsOfTheBookAbove = {
 +  id: "01a06d79-1d8e-7531-86b1-1116c2aff36f",
 +  pageTypeSlug: "folder-shape",
 +  slug: "sections-of-the-book-above",
-+  definition: "the shape of a folder named chapters holding the chapters of the book above it",
++  definition: "the shape of a folder named sections holding the sections of the book above it",
 +  code: "ts",
 +  test: "ts",
 +  enabled: true,
 +  invariants: [
 +    {
 +      invariantKind: "departure",
-+      statement: "The folder is named `chapters`.",
++      statement: "The folder is named `sections`.",
 +    },
 +    {
 +      invariantKind: "departure",
@@ -488,33 +488,37 @@ index 0000000000000000000000000000000000000000..0ac0c8575d167b4863bd6505d5408e8b
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "Every page in the folder is a book chapter.",
++      statement: "Every page in the folder is a book section.",
 +    },
 +    {
 +      invariantKind: "departure",
 +      statement:
-+        "Every chapter in the folder names the book above as the collection holding that chapter.",
++        "Every section in the folder names the book above as the collection holding that section.",
 +    },
 +    {
 +      invariantKind: "departure",
 +      statement:
-+        "A chapter carries its prose in a file beside the chapter rather than in a folder.",
++        "A section carries its prose in a file beside the section rather than in a folder.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "The folder holds no folder of its own.",
++      statement: "A folder inside holds the sections one section of this book is made of.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "The folder holds no file that is neither a chapter nor a file beside one.",
++      statement: "The folder holds no file that is neither a section nor a file beside a section.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "A folder named `chapters` holding no chapter is refused.",
++      statement: "A folder named `sections` holding no section is refused.",
 +    },
 +    {
 +      invariantKind: "gap",
-+      statement: "A chapter filed under a folder inside `chapters` is refused by this shape.",
++      statement: "A folder inside `sections` is named for the section that folder belongs to.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A section inside such a folder names its own section as what holds it.",
 +    },
 +  ],
 +} as const satisfies FolderShape
