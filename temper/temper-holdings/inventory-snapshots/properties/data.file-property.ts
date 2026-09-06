@@ -15,7 +15,7 @@ export const data = {
     },
     {
       invariantKind: "departure",
-      statement: "A data file holds one whole JSON document rather than a piece of one.",
+      statement: "A data file holds one whole JSON document rather than a piece of a document.",
     },
     {
       invariantKind: "departure",
