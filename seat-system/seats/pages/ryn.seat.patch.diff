@@ -1,5 +1,5 @@
 diff --git a/git/git-committing/git-committing.module.ts b/git/git-committing/git-committing.module.ts
-index 47696e1c7ff686fcbcfbecde03200a0999639a4f..b6f711856c0567e1b34aefacb41f971947c3fc89 100644
+index 47696e1c7ff686fcbcfbecde03200a0999639a4f..c11ce3cbc0f76f67ca959ea945502ead6785e2c4 100644
 --- a/git/git-committing/git-committing.module.ts
 +++ b/git/git-committing/git-committing.module.ts
 @@ -21,8 +21,11 @@ export const gitCommitting = {
@@ -30,3 +30,17 @@ index 47696e1c7ff686fcbcfbecde03200a0999639a4f..b6f711856c0567e1b34aefacb41f9719
      },
      {
        invariantKind: "departure",
+@@ -44,8 +50,11 @@ export const gitCommitting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "One deadline covers the whole call, so two locks in a row do not double the wait promised.",
++      statement: "One deadline covers the whole call.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Two locks in a row do not double the wait promised.",
+     },
+   ],
+ } as const satisfies Module
