@@ -29,3 +29,30 @@ index 7fb091958950ad9786b03474e9f19224cdd75942..89c520df229957668378d7e743cfa845
  function idsIn(said: unknown): readonly string[] | null {
    if (!Array.isArray(said)) return null
    return said.filter((one): one is string => typeof one === "string" && one !== "")
+diff --git a/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts b/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts
+index 0afbf36f0c5e64eaea300ef7e985736f61304443..d7e38f649b2874f38edd0f624b968e753ea93615 100644
+--- a/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts
++++ b/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts
+@@ -5,6 +5,7 @@ import {
+ import type { InheritedProc } from "@akasha/seat-system/supervisor-types"
+ import { enforceMemoryGuard } from "@akasha/utils-system/memory-guard"
+ import { scanProcEntries } from "../../proc-scan/proc-scan.module.code.ts"
++import { takeOpenTasks } from "../../seat-turn/turn-working/turn-working.module.code.ts"
+ import {
+   adoptInheritedProc,
+   InheritedPidDeadError,
+@@ -51,6 +52,14 @@ function adoptLiveChildOrSpawn(args: {
+       console.error(`${LOG} adopt: live Claude pid=${livePid} could not be adopted:`, err)
+     }
+   }
++  // A CHILD SPAWNED AFRESH RUNS NO TASK THE CHILD BEFORE IT STARTED. A subagent and a background
++  // command both run inside the client, so the client this replaces took every one of them with it.
++  // What closes such a task in the transcript is written by the client running it, and a client that
++  // is gone writes nothing, so the seat would go on reading as one waiting on work nobody is doing.
++  //
++  // The adopt branches above return before this, and rightly: an adopted child is the same client
++  // and still holds whatever it was running.
++  takeOpenTasks(spawnOpts.agentId)
+   enforceMemoryGuard("claude session")
+   return { proc: spawnClaudeChild(spawnOpts), adoptedThisIter: false }
+ }
