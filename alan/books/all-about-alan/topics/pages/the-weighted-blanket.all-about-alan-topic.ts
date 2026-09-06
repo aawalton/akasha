@@ -9,6 +9,4 @@ export const theWeightedBlanket = {
   parentSlugs: ["sleep"],
   settled:
     "Off by default. I reach for it on a bad night rather than keeping it on the bed.\n\nComfortable on the legs, where on the chest it blocks my breathing.\n\nIt works by stilling me and drawing heat off, so it helps when I am too hot rather than when I am cold.",
-  unsettled:
-    "It helps about half the times I reach for it, and nothing separates the hits from the misses.\n\nI first called it grounding and now reach for it for stillness and heat. Whether grounding still fires at all is open.\n\nWhether the blanket has thermal numbers that make the heat-sink account calculable is unasked.",
 } as const satisfies AllAboutAlanTopic
