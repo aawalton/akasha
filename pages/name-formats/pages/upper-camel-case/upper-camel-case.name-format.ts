@@ -14,7 +14,7 @@ export const upperCamelCase = {
     },
     {
       invariantKind: "gap",
-      statement: "Whether an acronym is one word or several cannot be read off the name.",
+      statement: "Whether an acronym is one word or many words cannot be read off the name.",
     },
   ],
 } as const satisfies NameFormat
