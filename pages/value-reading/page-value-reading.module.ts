@@ -17,11 +17,11 @@ export const pageValueReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A key naming one page or a list of pages is read here as a list of slugs.",
+      statement: "A key naming a page or a list of pages is read here as a list of slugs.",
     },
     {
       invariantKind: "departure",
-      statement: "A browser reaches this and never what loads a value from a file.",
+      statement: "A browser reaches this module and never the module loading a value from a file.",
     },
     {
       invariantKind: "absence",
