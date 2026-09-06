@@ -1,5 +1,5 @@
 diff --git a/code-system/code-typing/code-typing.module.ts b/code-system/code-typing/code-typing.module.ts
-index 62b7f5dd26ea07eaa22791aa6a370b99854b868a..ca92be95244840bb4f3c2ce18919e0d3a72e7b85 100644
+index 62b7f5dd26ea07eaa22791aa6a370b99854b868a..023f6710c10733e448505de6228d09020aae0294 100644
 --- a/code-system/code-typing/code-typing.module.ts
 +++ b/code-system/code-typing/code-typing.module.ts
 @@ -20,7 +20,7 @@ export const codeTyping = {
@@ -18,6 +18,15 @@ index 62b7f5dd26ea07eaa22791aa6a370b99854b868a..ca92be95244840bb4f3c2ce18919e0d3
 -      statement:
 -        "A key more than one part of a union declares apart is resolved through none of those parts.",
 +      statement: "A key more than one part of a union declares apart is resolved through no part.",
+     },
+     {
+       invariantKind: "departure",
+@@ -122,7 +121,7 @@ export const codeTyping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name shadowing an imported one inside a scope is left as that name is.",
++      statement: "A name shadowing an imported name inside a scope is left as that name is.",
      },
      {
        invariantKind: "departure",
