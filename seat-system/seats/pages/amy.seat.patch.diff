@@ -219,46 +219,6 @@ index 210173b58caa7f607e18cc1eb7f1bc74c3a21a05..770ec336ec272d8a5a1c2881fe989181
    if (at === READ_AT) {
      const sought = readIn(body)
      if ("refused" in sought) return said({ refused: sought.refused }, 400)
-diff --git a/pages/service/page-serving/page-serving.module.ts b/pages/service/page-serving/page-serving.module.ts
-index f5268209a8bcfdf9659dbf4ff175752386ab0580..1e6a1f26442123c3592f6059aa731903e920db1e 100644
---- a/pages/service/page-serving/page-serving.module.ts
-+++ b/pages/service/page-serving/page-serving.module.ts
-@@ -22,7 +22,7 @@ export const pageServing = {
-     },
-     {
-       invariantKind: "departure",
--      statement: "An answer is a JSON object.",
-+      statement: "An answer is a JSON object unless that answer is the bytes a file holds.",
-     },
-     {
-       invariantKind: "departure",
-@@ -132,6 +132,26 @@ export const pageServing = {
-       invariantKind: "departure",
-       statement: "A shape asked for naming no page type is refused.",
-     },
-+    {
-+      invariantKind: "departure",
-+      statement: "A file is asked for at a path of its own.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A file is asked for by a page type, a slug and a key.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A file is answered as bytes rather than as JSON.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A refusal over a file is a JSON object as every other refusal is.",
-+    },
-+    {
-+      invariantKind: "absence",
-+      statement: "A file is never asked for by a path.",
-+    },
-     {
-       invariantKind: "absence",
-       statement: "Nothing here listens.",
 diff --git a/pages/service/pages-service.workspace-package.ts b/pages/service/pages-service.workspace-package.ts
 index dd2c83b9697ecbc91e359a46e4f98da64e683227..aa89a0229e4e4efad281b3d29e43695386c4281b 100644
 --- a/pages/service/pages-service.workspace-package.ts
