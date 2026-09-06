@@ -1,0 +1,26 @@
+diff --git a/command-system/commands/agent-forest/agent-forest.command.test.ts b/command-system/commands/agent-forest/agent-forest.command.test.ts
+index 5c32259a61be69fc263b8b7af5b48bce0c8d429d..7068d06d9a7c524485014cc42a14ddd1a364a437 100644
+--- a/command-system/commands/agent-forest/agent-forest.command.test.ts
++++ b/command-system/commands/agent-forest/agent-forest.command.test.ts
+@@ -3,7 +3,11 @@ import type { Given } from "@akasha/command-system/calling"
+ import { akashaRoot } from "@akasha/pages/checkout-roots"
+ import type { SubagentPage } from "@akasha/seat-system/agent-page-reading"
+ import type { ForestRow } from "@akasha/seat-system/seat-forest"
+-import type { SeatTurnReading, SeatTurnState } from "@akasha/seat-system/seat-turn-state"
++import {
++  SEAT_TURN_STATES,
++  type SeatTurnReading,
++  type SeatTurnState,
++} from "@akasha/seat-system/seat-turn-state"
+ import {
+   agentForest,
+   type ForestSaid,
+@@ -202,7 +206,7 @@ test("a call naming nothing answers the forest the fleet holds now", async () =>
+   for (const one of held.rows) {
+     expect(typeof one.id).toBe("string")
+     expect(typeof one.live).toBe("boolean")
+-    expect(["working", "idle-pending", "idle", "stopped"]).toContain(one.state)
++    expect(SEAT_TURN_STATES).toContain(one.state)
+     expect(Object.hasOwn(one, "waitingOn")).toBe(true)
+     expect(Object.hasOwn(one, "color")).toBe(true)
+     expect(Object.hasOwn(one, "at")).toBe(true)
