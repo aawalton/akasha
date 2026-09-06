@@ -10,21 +10,24 @@ export const alertRecipientDecide = {
   invariants: [
     {
       invariantKind: "departure",
+      statement: "An alert no document declares reaches nobody.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An alert reaching nobody says so rather than defaulting.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An alert two documents declare picks no document.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An alert naming both a domain and a person names no recipient.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "An alert no document declares reaches nobody, and says so rather than defaulting.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An alert two documents declare picks neither of those documents.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "An alert naming both a domain and a person names two recipients and so names none.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An alert naming neither a domain nor a person lands nowhere until one is stated.",
+        "An alert naming neither a domain nor a person lands nowhere until a recipient is stated.",
     },
     {
       invariantKind: "departure",
