@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/music/commands/music-play/music-play.command.ts b/alan/music/commands/music-play/music-play.command.ts
+index fa5dda8aedc2aba193d390348a8f7d1f2a00bc7e..e64764e29c12982717355233f7c93556c3fba071 100644
+--- a/alan/music/commands/music-play/music-play.command.ts
++++ b/alan/music/commands/music-play/music-play.command.ts
+@@ -44,7 +44,7 @@ export const musicPlay = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A device named on the command line is played on rather than the active one.",
++      statement: "A device named on the command line is played on rather than the active device.",
+     },
+     {
+       invariantKind: "absence",
