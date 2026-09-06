@@ -6,6 +6,7 @@ export const trackingValueLevels = {
   slug: "tracking-value-levels",
   title: "Value Levels",
   navSlug: "tracking",
+  pageType: "wake-day",
   viewPlace: 1,
   layout: "table",
   viewSorts: [{ key: "date", descending: true }],

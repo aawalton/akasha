@@ -6,6 +6,7 @@ export const storiesRoyalRoad = {
   slug: "stories-royal-road",
   title: "Royal Road",
   navSlug: "stories",
+  pageType: "story-read",
   viewPlace: 1,
   layout: "list",
   narrows: [{ key: "source", comparison: "is", values: ["royal-road"] }],

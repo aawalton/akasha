@@ -6,6 +6,7 @@ export const temperTasksAll = {
   slug: "temper-tasks-all",
   title: "All",
   navSlug: "temper-tasks",
+  pageType: "temper-task",
   viewPlace: 4,
   viewSorts: [{ key: "updated-at", descending: true }],
   visibleProperties: ["due-date"],
