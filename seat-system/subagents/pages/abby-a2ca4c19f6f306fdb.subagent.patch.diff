@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-harness-pre-empts-rumination.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-harness-pre-empts-rumination.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b224b1464b4e6c61589e2b195bd60d05d9570611
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-harness-pre-empts-rumination.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyHarnessPreEmptsRumination = {
++  id: "01a077e6-106f-7e6b-9366-694e06d5f6bf",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-harness-pre-empts-rumination",
++  topicSlug: "rumination",
++  ask: "Does part of what my agent harness does pre-empt rumination, by keeping important open problems outside my head?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-problem-rumination-grabs.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-problem-rumination-grabs.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e3a7a5490e11bf99c3665a25ea9b21f4e352cdf0
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-problem-rumination-grabs.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichProblemRuminationGrabs = {
++  id: "01a077e6-106e-7882-899c-d63627908aff",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-problem-rumination-grabs",
++  topicSlug: "rumination",
++  ask: "Does my rumination grab the day's most unresolved problem, or any open problem of the right size?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/rumination.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/rumination.all-about-alan-topic.ts
+index f83939eddb160475e81b24c437d83729ece3a032..b818dc97a98812136599e6eb9b04f8ed6c10112a 100644
+--- a/alan/books/all-about-alan/topics/pages/rumination.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/rumination.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const rumination = {
+   parentSlugs: ["how-my-attention-works"],
+   settled:
+     "Stress starts it, not an idle mind. The worry is the stress finding a face to wear.\n\nIt grinds only where the thought is important, unsolved and open. Anything else rides along and fades.\n\nIt is conscious focus, so it holds me awake, and the grip releases the moment my attention moves off it.\n\nA low-grade anchor crowds it out. Doing nothing does not.",
+-  unsettled:
+-    "Whether the problem it grabs is the day's most unresolved one, or any open problem of the right size, is unprobed.\n\nWhether part of what my agent harness does is pre-empt this, by keeping important open problems outside my head, is floated and unconfirmed.",
+ } as const satisfies AllAboutAlanTopic
