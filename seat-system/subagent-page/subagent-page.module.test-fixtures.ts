@@ -1,6 +1,6 @@
 import { writing } from "@akasha/command-system/scratching/testing"
 import { said as gitIn } from "@akasha/git/git-running"
-import { listedFiled, rebuiltIn } from "@akasha/indexes/testing"
+import { listedFiled, rebuiltIn, valueAlsoFiled } from "@akasha/indexes/testing"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import { standingSubagentsOf } from "./subagent-page.module.code.ts"
 
@@ -43,6 +43,17 @@ export function seated(root: string): string {
   gitIn(root, ["commit", "--quiet", "-m", "first"])
   rebuiltIn(root, TREE)
   listedFiled(root, "seat", "akasha", [{ path: SEAT_AT, id: SEAT_ID }])
+  valueAlsoFiled(root, "seat", [
+    {
+      path: SEAT_AT,
+      value: {
+        id: SEAT_ID,
+        pageTypeSlug: "seat",
+        slug: "akasha",
+        assignmentSlug: "domain/akasha-system",
+      },
+    },
+  ])
   return root
 }
 
