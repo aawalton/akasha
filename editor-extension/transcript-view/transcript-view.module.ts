@@ -45,7 +45,7 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement: "The panel reads when a file it is fed by is written and at no other time.",
+      statement: "The panel reads when a file the panel is fed by is written and at no other time.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,7 @@ export const transcriptView = {
     {
       invariantKind: "departure",
       statement:
-        "Where the transcript is, is asked for once and then only where it can have moved.",
+        "The transcript's place is asked for once and then only where that place can have moved.",
     },
     {
       invariantKind: "departure",
@@ -78,7 +78,7 @@ export const transcriptView = {
     },
     {
       invariantKind: "departure",
-      statement: "A folder that is not there yet is watched once the next read finds it.",
+      statement: "A folder that is not there yet is watched once the next read finds that folder.",
     },
     {
       invariantKind: "departure",
