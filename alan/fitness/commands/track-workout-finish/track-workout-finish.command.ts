@@ -1,9 +1,9 @@
 import type { Command } from "@akasha/command-system/command"
 
-export const exerciseSessionFinish = {
+export const trackWorkoutFinish = {
   id: "01a0685d-b7ab-7b9c-bdb1-9464dff08bd5",
   pageTypeSlug: "command",
-  slug: "exercise-session-finish",
+  slug: "track-workout-finish",
   definition: "the command closing a workout session and naming how long it ran and what it moved",
   code: "ts",
   changeKindSlug: "change-mechanical",

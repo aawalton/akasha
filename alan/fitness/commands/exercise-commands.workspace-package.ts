@@ -24,7 +24,7 @@ export const exerciseCommands = {
     "command/exercise-ranks",
     "command/exercise-schedule-create",
     "command/exercise-select",
-    "command/exercise-session-finish",
+    "command/track-workout-finish",
     "command/exercise-session-show",
     "command/track-workout-start",
     "command/exercise-today",

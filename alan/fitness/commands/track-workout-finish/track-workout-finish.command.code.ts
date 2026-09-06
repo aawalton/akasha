@@ -43,10 +43,7 @@ export function notesUnder(
   return `${held}\n\n${added}`
 }
 
-export async function exerciseSessionFinish(
-  argv: readonly string[],
-  given: Given
-): Promise<Answer> {
+export async function trackWorkoutFinish(argv: readonly string[], given: Given): Promise<Answer> {
   const said = wordsIn(argv, SHAPE)
   if ("refused" in said) return refusedBy(said.refused)
 
