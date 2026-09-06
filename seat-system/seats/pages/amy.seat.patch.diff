@@ -57,3 +57,22 @@ index 938a2c7e432dc06733c9199d5c113ea9db495f51..331daece4a07cf408139b82d7c7772a3
    const added = addedIn(textOf(changing.before(path)), textOf(changing.after(path)))
    if (added.trim() === "") return []
    if (!judgedIn(path, unjudgedIn(root))) return []
+diff --git a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
+index b1a4c55d85867f2300c09ac49970c7035e69e602..bf70804173e2c978b32a231752fa79703ccec456 100644
+--- a/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
++++ b/context/warrants/change-taboo-terms/change-taboo-terms.context-warrant.ts
+@@ -73,6 +73,14 @@ export const changeTabooTerms = {
+       invariantKind: "departure",
+       statement: "A file beside a page is warranted as that page is.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A file whose property holds bytes rather than text is read by no term here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Whether a property holds bytes is read off that property's own page.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The text owed names every sense the term bars and the wording written instead.",
