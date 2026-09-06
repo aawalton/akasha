@@ -1,0 +1,912 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/domains/domain.workspace-package.ts b/domains/domain.workspace-package.ts
+index 480577f989cd4aca74faac5cd4512f2ec93e3543..8fd93de361db96d651477274d2cb074a08258ca2 100644
+--- a/domains/domain.workspace-package.ts
++++ b/domains/domain.workspace-package.ts
+@@ -7,6 +7,7 @@ export const domain = {
+   definition: "how we define how things should be",
+   manifest: "json",
+   partSlugs: [
++    "module/domain-rows",
+     "module/work-initiatives",
+     "page-type/domain",
+     "page-type/finding",
+diff --git a/domains/modules/domain-rows/domain-rows.module.code.ts b/domains/modules/domain-rows/domain-rows.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3f5e70f838f668be2724227c227113227f111479
+--- /dev/null
++++ b/domains/modules/domain-rows/domain-rows.module.code.ts
+@@ -0,0 +1,166 @@
++import { partedIn } from "../../../pages/file-name/page-file-name.module.code.ts"
++import {
++  idsNaming,
++  readingIn,
++  valuesOfType,
++} from "../../../pages/indexes/reading/index-reading.module.code.ts"
++import type { Reading } from "../../../pages/indexes/shape/index-shape.module.code.ts"
++import { kindsUnder } from "../../../pages/types/descent/page-type-descent.module.code.ts"
++import { textAt, type Value, valueAt } from "../../../pages/value/page-value.module.code.ts"
++
++const DOMAIN = "domain"
++
++const PARTS = "partSlugs"
++
++const PERSONA = "persona"
++
++const CHAMPIONED = "championed-domain-slug"
++
++const CHAMPIONS = "championedDomainSlug"
++
++const ID = "id"
++
++export type DomainRow = {
++  readonly slug: string
++  readonly path: string
++  readonly persona: string | null
++  readonly parent: string | null
++  readonly sequence: readonly string[]
++}
++
++// A PAGE THE INDEX NAMED, CARRYING THE VALUE THE INDEX FILED FOR IT. The value index holds one line
++// for each page, and that line carries the whole value the page declares. Listing the pages of a
++// page type already reads and parses every one of those lines, so the parts a page names and the
++// domain a persona champions cost nothing past the read that found the page.
++type Held = {
++  readonly path: string
++  readonly id: string
++  readonly value: Value
++}
++
++function heldOfType(reading: Reading, pageTypeSlug: string): readonly Held[] {
++  const found: Held[] = []
++  for (const one of valuesOfType(reading, pageTypeSlug)) {
++    const id = textAt(one.value, ID)
++    if (id !== null) found.push({ path: one.path, id, value: one.value })
++  }
++  return found
++}
++
++// EVERY PERSONA BY THE ID THE INDEX KNOWS HER BY. A persona names the domain she champions, so the
++// edge runs from her to it; this is the half needed to read that edge backwards, from a domain to
++// whoever answers for it. Her slug is taken off her file name rather than out of her page, which
++// keeps this to the index and opens no body.
++function personaSlugById(personas: readonly Held[]): ReadonlyMap<string, string> {
++  const byId = new Map<string, string>()
++  for (const one of personas) {
++    const said = partedIn(one.path)
++    if (said === null) continue
++    byId.set(one.id, said.slug)
++  }
++  return byId
++}
++
++function addressOf(path: string): string | null {
++  const said = partedIn(path)
++  if (said === null || said.sections.length > 0) return null
++  return `${said.pageType}/${said.slug}`
++}
++
++function partsIn(value: Value): readonly string[] {
++  const said = value[PARTS]
++  if (!Array.isArray(said)) return []
++  return said.filter((one): one is string => typeof one === "string")
++}
++
++export function kindsUnderDomain(root: string): ReadonlySet<string> {
++  return kindsUnder(DOMAIN, readingIn(root), (path) => valueAt(path, root))
++}
++
++// THE PAGES SOME PERSONA COULD BE NAMING. A persona states her domain as an address or as a bare
++// slug, and a bare slug names pages of many types, so the index stays the one that says which page
++// an edge reaches. What goes is asking it about pages no persona named at all: the answer was
++// sought once for each of eleven thousand pages to find thirty-nine of them. A slug two page types
++// each hold widens this set rather than narrowing it, so the index still decides and the cost is
++// one more listing.
++function couldBeChampioned(
++  personas: readonly Held[],
++  addresses: ReadonlySet<string>
++): ReadonlySet<string> {
++  const bySlug = new Map<string, string[]>()
++  for (const address of addresses) {
++    const slug = address.slice(address.indexOf("/") + 1)
++    const held = bySlug.get(slug) ?? []
++    held.push(address)
++    bySlug.set(slug, held)
++  }
++  const wanted = new Set<string>()
++  for (const one of personas) {
++    const named = textAt(one.value, CHAMPIONS)
++    if (named === null) continue
++    if (named.includes("/")) {
++      if (addresses.has(named)) wanted.add(named)
++      continue
++    }
++    for (const address of bySlug.get(named) ?? []) wanted.add(address)
++  }
++  return wanted
++}
++
++export function domainsDrawn(root: string): readonly DomainRow[] {
++  const reading = readingIn(root)
++  const personas = heldOfType(reading, PERSONA)
++  const personaBy = personaSlugById(personas)
++  const listed: Held[] = []
++  for (const kind of [...kindsUnderDomain(root)].sort()) {
++    listed.push(...heldOfType(reading, kind))
++  }
++  const addressById = new Map<string, string>()
++  for (const one of listed) {
++    const address = addressOf(one.path)
++    if (address !== null) addressById.set(one.id, address)
++  }
++  const addresses = new Set(addressById.values())
++  // THE PART EDGE READ OFF THE PAGE THAT NAMES THE PART. The relation index answers the same edge
++  // from the other end, at one directory listing for each page it is asked about. The parts a page
++  // names came in on the line that listed the page, so the whole tree is built from what has
++  // already been read. A part naming no page listed here makes no edge either way.
++  const edges = listed.flatMap((one) => {
++    const parent = addressById.get(one.id)
++    if (parent === undefined) return []
++    return partsIn(one.value)
++      .filter((child) => addresses.has(child))
++      .map((child) => ({ child, parent }))
++  })
++  const parentsOf = Map.groupBy(edges, (one) => one.child)
++  const naming = new Set(edges.map((one) => one.parent))
++  const sequenceOf = new Map<string, readonly string[]>()
++  for (const one of listed) {
++    const address = addressById.get(one.id)
++    if (address === undefined || !naming.has(address)) continue
++    sequenceOf.set(address, partsIn(one.value))
++  }
++  const championed = couldBeChampioned(personas, addresses)
++  const drawn: DomainRow[] = []
++  for (const one of listed) {
++    const address = addressById.get(one.id)
++    if (address === undefined) continue
++    const above = parentsOf.get(address) ?? []
++    // A DOMAIN TWO PERSONAS CHAMPION NAMES THE FIRST BY NAME, so which one is drawn does not turn
++    // on what order the index answered in.
++    const champions = championed.has(address)
++      ? [...idsNaming(reading, one.id, CHAMPIONED)]
++          .map((id) => personaBy.get(id))
++          .filter((slug): slug is string => slug !== undefined)
++          .sort()
++      : []
++    drawn.push({
++      slug: address,
++      path: one.path,
++      persona: champions[0] ?? null,
++      parent: above.length === 1 ? (above[0]?.parent ?? null) : null,
++      sequence: sequenceOf.get(address) ?? [],
++    })
++  }
++  return drawn
++}
+diff --git a/domains/modules/domain-rows/domain-rows.module.test.ts b/domains/modules/domain-rows/domain-rows.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..02dfba27fdadee2f9bd798c514948c7d054ba941
+--- /dev/null
++++ b/domains/modules/domain-rows/domain-rows.module.test.ts
+@@ -0,0 +1,144 @@
++import { afterAll, expect, test } from "bun:test"
++import { mkdirSync, writeFileSync } from "node:fs"
++import { dirname, join } from "node:path"
++import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
++import {
++  relationFiled,
++  valueAlsoFiled,
++} from "../../../pages/indexes/reading/index-reading.module.test-fixtures.ts"
++import { domainsDrawn, kindsUnderDomain } from "./domain-rows.module.code.ts"
++
++const ONE = "01a04e9f-1111-7000-8000-00000000000a"
++
++const TWO = "01a04e9f-1111-7000-8000-00000000000b"
++
++const THREE = "01a04e9f-1111-7000-8000-00000000000c"
++
++const KIND = "01a04e9f-1111-7000-8000-00000000000d"
++
++const HER = "01a04e9f-1111-7000-8000-00000000000e"
++
++const CHAMPIONED = "championed-domain-slug"
++
++const scratch = scratchWorld()
++
++afterAll(scratch.sweep)
++
++function pageAt(root: string, path: string, body: string): undefined {
++  const at = join(root, path)
++  mkdirSync(dirname(at), { recursive: true })
++  writeFileSync(at, body)
++}
++
++// The pages of a page type are read out of the value index, one line for each page carrying that
++// page's whole value, so that is where a test puts them and their parts both. The identity index
++// answers which page carries one slug, which is a narrower question than this panel asks.
++function filing(
++  root: string,
++  kind: string,
++  slug: string,
++  id: string,
++  value: Readonly<Record<string, unknown>> = {}
++): undefined {
++  const path = `akasha/held/${slug}.${kind}.ts`
++  valueAlsoFiled(root, kind, [{ path, value: { id, slug, ...value } }])
++}
++
++// A page type says what it extends in its body rather than in the index, so the descent opens it.
++function typing(root: string, slug: string, id: string, above: string): undefined {
++  const path = `akasha/held/${slug}.page-type.ts`
++  valueAlsoFiled(root, "page-type", [{ path, value: { id, slug } }])
++  pageAt(
++    root,
++    path,
++    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ["${above}"] }\n`
++  )
++}
++
++function champions(root: string, id: string, her: string): undefined {
++  relationFiled(root, id, CHAMPIONED, her, [{ path: `personas/${her}.persona.ts`, id: her }])
++}
++
++test("a page type under domain is a kind that is drawn", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  typing(root, "module", KIND, "page-type/domain")
++  const kinds = kindsUnderDomain(root)
++  expect(kinds.has("domain")).toBe(true)
++  expect(kinds.has("module")).toBe(true)
++})
++
++test("a page type under one that sits under domain is drawn too", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  typing(root, "module", KIND, "page-type/domain")
++  typing(root, "check", TWO, "page-type/module")
++  expect(kindsUnderDomain(root).has("check")).toBe(true)
++})
++
++test("a page type outside domain is no kind of this panel", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  typing(root, "finding", KIND, "page-type/page")
++  expect(kindsUnderDomain(root).has("finding")).toBe(false)
++})
++
++test("a page is answered under its address", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  filing(root, "domain", "one", ONE)
++  expect(domainsDrawn(root).map((held) => held.slug)).toEqual(["domain/one"])
++})
++
++test("the part edge is read off the page naming the part", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  filing(root, "domain", "over", ONE, { partSlugs: ["domain/under"] })
++  filing(root, "domain", "under", TWO)
++  const drawn = domainsDrawn(root)
++  expect(drawn.find((held) => held.slug === "domain/under")?.parent).toBe("domain/over")
++  expect(drawn.find((held) => held.slug === "domain/over")?.parent).toBe(null)
++})
++
++test("an order is read off the page holding the parts", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  filing(root, "domain", "over", ONE, { partSlugs: ["domain/second", "domain/first"] })
++  filing(root, "domain", "first", TWO)
++  filing(root, "domain", "second", THREE)
++  const over = domainsDrawn(root).find((held) => held.slug === "domain/over")
++  expect(over?.sequence).toEqual(["domain/second", "domain/first"])
++})
++
++test("a page whose every part names nothing listed is answered with no order", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  filing(root, "domain", "one", ONE, { partSlugs: ["domain/absent"] })
++  expect(domainsDrawn(root)[0]?.sequence).toEqual([])
++})
++
++test("a page under two parents sits under none", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  filing(root, "domain", "over", ONE, { partSlugs: ["domain/under"] })
++  filing(root, "domain", "also", TWO, { partSlugs: ["domain/under"] })
++  filing(root, "domain", "under", THREE)
++  expect(domainsDrawn(root).find((held) => held.slug === "domain/under")?.parent).toBe(null)
++})
++
++test("a domain a persona names by address answers with that persona", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  filing(root, "domain", "one", ONE)
++  filing(root, "persona", "athena", HER, { championedDomainSlug: "domain/one" })
++  champions(root, ONE, HER)
++  expect(domainsDrawn(root).find((held) => held.slug === "domain/one")?.persona).toBe("athena")
++})
++
++test("a domain a persona names by a bare slug answers with that persona", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  filing(root, "domain", "one", ONE)
++  filing(root, "persona", "athena", HER, { championedDomainSlug: "one" })
++  champions(root, ONE, HER)
++  expect(domainsDrawn(root).find((held) => held.slug === "domain/one")?.persona).toBe("athena")
++})
++
++test("a domain no persona names answers with no champion", () => {
++  const root = scratch.rootFor("akasha-domains-")
++  filing(root, "domain", "one", ONE)
++  filing(root, "domain", "two", TWO)
++  filing(root, "persona", "athena", HER, { championedDomainSlug: "domain/one" })
++  champions(root, ONE, HER)
++  expect(domainsDrawn(root).find((held) => held.slug === "domain/two")?.persona).toBe(null)
++})
+diff --git a/domains/modules/domain-rows/domain-rows.module.ts b/domains/modules/domain-rows/domain-rows.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..880b93ddb43a4dcf6c125f8b8cb45fbd0b8f0d78
+--- /dev/null
++++ b/domains/modules/domain-rows/domain-rows.module.ts
+@@ -0,0 +1,109 @@
++import type { Module } from "../../../code-system/modules/module.page-type.ts"
++
++export const domainRows = {
++  id: "01a04e9f-4572-74d2-b19a-9fd2f81583eb",
++  pageTypeSlug: "module",
++  slug: "domain-rows",
++  definition: "every domain the domains panel draws, its champion, its parent, and their order",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A page of every page type sitting under `domain` is drawn rather than a `domain` page alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Which page types sit under `domain` is worked out from the page type pages themselves.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page is answered under its address rather than its slug.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Two page types may each hold a page of one slug.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A part edge is read off the page naming the part.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The parts a page names are read off the value the index carries for that page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A part naming no page drawn here makes no edge.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page under other than one parent is answered as under no parent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An order is the parts a page names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The parts keep the order that page names the parts in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A domain answers with the persona championing that domain.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The champion edge is read backwards off the persona rather than off the domain.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A persona's own slug is read off her file name rather than out of her page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A domain two personas champion answers with the first persona by name.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A domain no persona champions answers with no champion rather than an empty champion.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The index files an edge without the place the edge was stated in.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The index is asked which personas champion a page only where a persona could.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A page a persona could be naming is a page whose address or whose slug that persona states.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A slug two page types each hold widens the pages asked about rather than narrowing the pages.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No page is opened for the parts that page names.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No page is opened for the order those parts keep.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads the pages line by line.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Every page answered is a page the index named first.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
+index e395f0709ad9291da58978ab1a83a23f79ad9f0f..4d5e87a5f8eb8655f8e47f98c4371fb2214a0433 100644
+--- a/editor-extension/editor-extension.workspace-package.ts
++++ b/editor-extension/editor-extension.workspace-package.ts
+@@ -10,7 +10,6 @@ export const editorExtension = {
+     "module/champions-tree",
+     "module/page-tree-assemble",
+     "module/command-server-client",
+-    "module/panel-domains",
+     "module/terminal-marks",
+     "module/domain-tree-ids",
+     "module/page-tree-ids",
+diff --git a/editor-extension/package.json b/editor-extension/package.json
+index 3138cf3eca9f722792d20f9a42d55e0f51c16067..2434779644e97caef15a00bc98a4481f0e2a3187 100644
+--- a/editor-extension/package.json
++++ b/editor-extension/package.json
+@@ -29,7 +29,6 @@
+     "./page-tree-ids": "./page-tree-ids/page-tree-ids.module.code.ts",
+     "./page-tree-panel": "./page-tree-panel/page-tree-panel.module.code.ts",
+     "./palette": "./palette/palette.module.code.ts",
+-    "./panel-domains": "./panel-domains/panel-domains.module.code.ts",
+     "./seat-act-confirm": "./seat-act-confirm/seat-act-confirm.module.code.ts",
+     "./seat-acts": "./seat-acts/seat-acts.module.code.ts",
+     "./seat-mode": "./seat-mode/seat-mode.module.code.ts",
+diff --git a/editor-extension/panel-domains/panel-domains.module.code.ts b/editor-extension/panel-domains/panel-domains.module.code.ts
+deleted file mode 100644
+index 7067afe70ad2e794dd412cf111219c3d54d3e270..0000000000000000000000000000000000000000
+--- a/editor-extension/panel-domains/panel-domains.module.code.ts
++++ /dev/null
+@@ -1,166 +0,0 @@
+-import { partedIn } from "../../pages/file-name/page-file-name.module.code.ts"
+-import {
+-  idsNaming,
+-  readingIn,
+-  valuesOfType,
+-} from "../../pages/indexes/reading/index-reading.module.code.ts"
+-import type { Reading } from "../../pages/indexes/shape/index-shape.module.code.ts"
+-import { kindsUnder } from "../../pages/types/descent/page-type-descent.module.code.ts"
+-import { textAt, type Value, valueAt } from "../../pages/value/page-value.module.code.ts"
+-
+-const DOMAIN = "domain"
+-
+-const PARTS = "partSlugs"
+-
+-const PERSONA = "persona"
+-
+-const CHAMPIONED = "championed-domain-slug"
+-
+-const CHAMPIONS = "championedDomainSlug"
+-
+-const ID = "id"
+-
+-export type DomainRow = {
+-  readonly slug: string
+-  readonly path: string
+-  readonly persona: string | null
+-  readonly parent: string | null
+-  readonly sequence: readonly string[]
+-}
+-
+-// A PAGE THE INDEX NAMED, CARRYING THE VALUE THE INDEX FILED FOR IT. The value index holds one line
+-// for each page, and that line carries the whole value the page declares. Listing the pages of a
+-// page type already reads and parses every one of those lines, so the parts a page names and the
+-// domain a persona champions cost nothing past the read that found the page.
+-type Held = {
+-  readonly path: string
+-  readonly id: string
+-  readonly value: Value
+-}
+-
+-function heldOfType(reading: Reading, pageTypeSlug: string): readonly Held[] {
+-  const found: Held[] = []
+-  for (const one of valuesOfType(reading, pageTypeSlug)) {
+-    const id = textAt(one.value, ID)
+-    if (id !== null) found.push({ path: one.path, id, value: one.value })
+-  }
+-  return found
+-}
+-
+-// EVERY PERSONA BY THE ID THE INDEX KNOWS HER BY. A persona names the domain she champions, so the
+-// edge runs from her to it; this is the half needed to read that edge backwards, from a domain to
+-// whoever answers for it. Her slug is taken off her file name rather than out of her page, which
+-// keeps this to the index and opens no body.
+-function personaSlugById(personas: readonly Held[]): ReadonlyMap<string, string> {
+-  const byId = new Map<string, string>()
+-  for (const one of personas) {
+-    const said = partedIn(one.path)
+-    if (said === null) continue
+-    byId.set(one.id, said.slug)
+-  }
+-  return byId
+-}
+-
+-function addressOf(path: string): string | null {
+-  const said = partedIn(path)
+-  if (said === null || said.sections.length > 0) return null
+-  return `${said.pageType}/${said.slug}`
+-}
+-
+-function partsIn(value: Value): readonly string[] {
+-  const said = value[PARTS]
+-  if (!Array.isArray(said)) return []
+-  return said.filter((one): one is string => typeof one === "string")
+-}
+-
+-export function kindsUnderDomain(root: string): ReadonlySet<string> {
+-  return kindsUnder(DOMAIN, readingIn(root), (path) => valueAt(path, root))
+-}
+-
+-// THE PAGES SOME PERSONA COULD BE NAMING. A persona states her domain as an address or as a bare
+-// slug, and a bare slug names pages of many types, so the index stays the one that says which page
+-// an edge reaches. What goes is asking it about pages no persona named at all: the answer was
+-// sought once for each of eleven thousand pages to find thirty-nine of them. A slug two page types
+-// each hold widens this set rather than narrowing it, so the index still decides and the cost is
+-// one more listing.
+-function couldBeChampioned(
+-  personas: readonly Held[],
+-  addresses: ReadonlySet<string>
+-): ReadonlySet<string> {
+-  const bySlug = new Map<string, string[]>()
+-  for (const address of addresses) {
+-    const slug = address.slice(address.indexOf("/") + 1)
+-    const held = bySlug.get(slug) ?? []
+-    held.push(address)
+-    bySlug.set(slug, held)
+-  }
+-  const wanted = new Set<string>()
+-  for (const one of personas) {
+-    const named = textAt(one.value, CHAMPIONS)
+-    if (named === null) continue
+-    if (named.includes("/")) {
+-      if (addresses.has(named)) wanted.add(named)
+-      continue
+-    }
+-    for (const address of bySlug.get(named) ?? []) wanted.add(address)
+-  }
+-  return wanted
+-}
+-
+-export function domainsDrawn(root: string): readonly DomainRow[] {
+-  const reading = readingIn(root)
+-  const personas = heldOfType(reading, PERSONA)
+-  const personaBy = personaSlugById(personas)
+-  const listed: Held[] = []
+-  for (const kind of [...kindsUnderDomain(root)].sort()) {
+-    listed.push(...heldOfType(reading, kind))
+-  }
+-  const addressById = new Map<string, string>()
+-  for (const one of listed) {
+-    const address = addressOf(one.path)
+-    if (address !== null) addressById.set(one.id, address)
+-  }
+-  const addresses = new Set(addressById.values())
+-  // THE PART EDGE READ OFF THE PAGE THAT NAMES THE PART. The relation index answers the same edge
+-  // from the other end, at one directory listing for each page it is asked about. The parts a page
+-  // names came in on the line that listed the page, so the whole tree is built from what has
+-  // already been read. A part naming no page listed here makes no edge either way.
+-  const edges = listed.flatMap((one) => {
+-    const parent = addressById.get(one.id)
+-    if (parent === undefined) return []
+-    return partsIn(one.value)
+-      .filter((child) => addresses.has(child))
+-      .map((child) => ({ child, parent }))
+-  })
+-  const parentsOf = Map.groupBy(edges, (one) => one.child)
+-  const naming = new Set(edges.map((one) => one.parent))
+-  const sequenceOf = new Map<string, readonly string[]>()
+-  for (const one of listed) {
+-    const address = addressById.get(one.id)
+-    if (address === undefined || !naming.has(address)) continue
+-    sequenceOf.set(address, partsIn(one.value))
+-  }
+-  const championed = couldBeChampioned(personas, addresses)
+-  const drawn: DomainRow[] = []
+-  for (const one of listed) {
+-    const address = addressById.get(one.id)
+-    if (address === undefined) continue
+-    const above = parentsOf.get(address) ?? []
+-    // A DOMAIN TWO PERSONAS CHAMPION NAMES THE FIRST BY NAME, so which one is drawn does not turn
+-    // on what order the index answered in.
+-    const champions = championed.has(address)
+-      ? [...idsNaming(reading, one.id, CHAMPIONED)]
+-          .map((id) => personaBy.get(id))
+-          .filter((slug): slug is string => slug !== undefined)
+-          .sort()
+-      : []
+-    drawn.push({
+-      slug: address,
+-      path: one.path,
+-      persona: champions[0] ?? null,
+-      parent: above.length === 1 ? (above[0]?.parent ?? null) : null,
+-      sequence: sequenceOf.get(address) ?? [],
+-    })
+-  }
+-  return drawn
+-}
+diff --git a/editor-extension/panel-domains/panel-domains.module.test.ts b/editor-extension/panel-domains/panel-domains.module.test.ts
+deleted file mode 100644
+index 7af6b04579158ce42fc892e9f004066d915805ce..0000000000000000000000000000000000000000
+--- a/editor-extension/panel-domains/panel-domains.module.test.ts
++++ /dev/null
+@@ -1,144 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import { mkdirSync, writeFileSync } from "node:fs"
+-import { dirname, join } from "node:path"
+-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+-import {
+-  relationFiled,
+-  valueAlsoFiled,
+-} from "../../pages/indexes/reading/index-reading.module.test-fixtures.ts"
+-import { domainsDrawn, kindsUnderDomain } from "./panel-domains.module.code.ts"
+-
+-const ONE = "01a04e9f-1111-7000-8000-00000000000a"
+-
+-const TWO = "01a04e9f-1111-7000-8000-00000000000b"
+-
+-const THREE = "01a04e9f-1111-7000-8000-00000000000c"
+-
+-const KIND = "01a04e9f-1111-7000-8000-00000000000d"
+-
+-const HER = "01a04e9f-1111-7000-8000-00000000000e"
+-
+-const CHAMPIONED = "championed-domain-slug"
+-
+-const scratch = scratchWorld()
+-
+-afterAll(scratch.sweep)
+-
+-function pageAt(root: string, path: string, body: string): undefined {
+-  const at = join(root, path)
+-  mkdirSync(dirname(at), { recursive: true })
+-  writeFileSync(at, body)
+-}
+-
+-// The pages of a page type are read out of the value index, one line for each page carrying that
+-// page's whole value, so that is where a test puts them and their parts both. The identity index
+-// answers which page carries one slug, which is a narrower question than this panel asks.
+-function filing(
+-  root: string,
+-  kind: string,
+-  slug: string,
+-  id: string,
+-  value: Readonly<Record<string, unknown>> = {}
+-): undefined {
+-  const path = `akasha/held/${slug}.${kind}.ts`
+-  valueAlsoFiled(root, kind, [{ path, value: { id, slug, ...value } }])
+-}
+-
+-// A page type says what it extends in its body rather than in the index, so the descent opens it.
+-function typing(root: string, slug: string, id: string, above: string): undefined {
+-  const path = `akasha/held/${slug}.page-type.ts`
+-  valueAlsoFiled(root, "page-type", [{ path, value: { id, slug } }])
+-  pageAt(
+-    root,
+-    path,
+-    `export const held = { slug: ${JSON.stringify(slug)}, extendsSlug: ["${above}"] }\n`
+-  )
+-}
+-
+-function champions(root: string, id: string, her: string): undefined {
+-  relationFiled(root, id, CHAMPIONED, her, [{ path: `personas/${her}.persona.ts`, id: her }])
+-}
+-
+-test("a page type under domain is a kind that is drawn", () => {
+-  const root = scratch.rootFor("akasha-domains-")
+-  typing(root, "module", KIND, "page-type/domain")
+-  const kinds = kindsUnderDomain(root)
+-  expect(kinds.has("domain")).toBe(true)
+-  expect(kinds.has("module")).toBe(true)
+-})
+-
+-test("a page type under one that sits under domain is drawn too", () => {
+-  const root = scratch.rootFor("akasha-domains-")
+-  typing(root, "module", KIND, "page-type/domain")
+-  typing(root, "check", TWO, "page-type/module")
+-  expect(kindsUnderDomain(root).has("check")).toBe(true)
+-})
+-
+-test("a page type outside domain is no kind of this panel", () => {
+-  const root = scratch.rootFor("akasha-domains-")
+-  typing(root, "finding", KIND, "page-type/page")
+-  expect(kindsUnderDomain(root).has("finding")).toBe(false)
+-})
+-
+-test("a page is answered under its address", () => {
+-  const root = scratch.rootFor("akasha-domains-")
+-  filing(root, "domain", "one", ONE)
+-  expect(domainsDrawn(root).map((held) => held.slug)).toEqual(["domain/one"])
+-})
+-
+-test("the part edge is read off the page naming the part", () => {
+-  const root = scratch.rootFor("akasha-domains-")
+-  filing(root, "domain", "over", ONE, { partSlugs: ["domain/under"] })
+-  filing(root, "domain", "under", TWO)
+-  const drawn = domainsDrawn(root)
+-  expect(drawn.find((held) => held.slug === "domain/under")?.parent).toBe("domain/over")
+-  expect(drawn.find((held) => held.slug === "domain/over")?.parent).toBe(null)
+-})
+-
+-test("an order is read off the page holding the parts", () => {
+-  const root = scratch.rootFor("akasha-domains-")
+-  filing(root, "domain", "over", ONE, { partSlugs: ["domain/second", "domain/first"] })
+-  filing(root, "domain", "first", TWO)
+-  filing(root, "domain", "second", THREE)
+-  const over = domainsDrawn(root).find((held) => held.slug === "domain/over")
+-  expect(over?.sequence).toEqual(["domain/second", "domain/first"])
+-})
+-
+-test("a page whose every part names nothing listed is answered with no order", () => {
+-  const root = scratch.rootFor("akasha-domains-")
+-  filing(root, "domain", "one", ONE, { partSlugs: ["domain/absent"] })
+-  expect(domainsDrawn(root)[0]?.sequence).toEqual([])
+-})
+-
+-test("a page under two parents sits under none", () => {
+-  const root = scratch.rootFor("akasha-domains-")
+-  filing(root, "domain", "over", ONE, { partSlugs: ["domain/under"] })
+-  filing(root, "domain", "also", TWO, { partSlugs: ["domain/under"] })
+-  filing(root, "domain", "under", THREE)
+-  expect(domainsDrawn(root).find((held) => held.slug === "domain/under")?.parent).toBe(null)
+-})
+-
+-test("a domain a persona names by address answers with that persona", () => {
+-  const root = scratch.rootFor("akasha-domains-")
+-  filing(root, "domain", "one", ONE)
+-  filing(root, "persona", "athena", HER, { championedDomainSlug: "domain/one" })
+-  champions(root, ONE, HER)
+-  expect(domainsDrawn(root).find((held) => held.slug === "domain/one")?.persona).toBe("athena")
+-})
+-
+-test("a domain a persona names by a bare slug answers with that persona", () => {
+-  const root = scratch.rootFor("akasha-domains-")
+-  filing(root, "domain", "one", ONE)
+-  filing(root, "persona", "athena", HER, { championedDomainSlug: "one" })
+-  champions(root, ONE, HER)
+-  expect(domainsDrawn(root).find((held) => held.slug === "domain/one")?.persona).toBe("athena")
+-})
+-
+-test("a domain no persona names answers with no champion", () => {
+-  const root = scratch.rootFor("akasha-domains-")
+-  filing(root, "domain", "one", ONE)
+-  filing(root, "domain", "two", TWO)
+-  filing(root, "persona", "athena", HER, { championedDomainSlug: "domain/one" })
+-  champions(root, ONE, HER)
+-  expect(domainsDrawn(root).find((held) => held.slug === "domain/two")?.persona).toBe(null)
+-})
+diff --git a/editor-extension/panel-domains/panel-domains.module.ts b/editor-extension/panel-domains/panel-domains.module.ts
+deleted file mode 100644
+index 4bba2d67c4f169dbbbcf4d9428c7f785c3c8e249..0000000000000000000000000000000000000000
+--- a/editor-extension/panel-domains/panel-domains.module.ts
++++ /dev/null
+@@ -1,109 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const panelDomains = {
+-  id: "01a04e9f-4572-74d2-b19a-9fd2f81583eb",
+-  pageTypeSlug: "module",
+-  slug: "panel-domains",
+-  definition: "every domain the domains panel draws, its champion, its parent, and their order",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A page of every page type sitting under `domain` is drawn rather than a `domain` page alone.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Which page types sit under `domain` is worked out from the page type pages themselves.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page is answered under its address rather than its slug.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Two page types may each hold a page of one slug.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A part edge is read off the page naming the part.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The parts a page names are read off the value the index carries for that page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A part naming no page drawn here makes no edge.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page under other than one parent is answered as under no parent.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An order is the parts a page names.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The parts keep the order that page names the parts in.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A domain answers with the persona championing that domain.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The champion edge is read backwards off the persona rather than off the domain.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A persona's own slug is read off her file name rather than out of her page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A domain two personas champion answers with the first persona by name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A domain no persona champions answers with no champion rather than an empty champion.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The index files an edge without the place the edge was stated in.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The index is asked which personas champion a page only where a persona could.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A page a persona could be naming is a page whose address or whose slug that persona states.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A slug two page types each hold widens the pages asked about rather than narrowing the pages.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No page is opened for the parts that page names.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No page is opened for the order those parts keep.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads the pages line by line.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Every page answered is a page the index named first.",
+-    },
+-  ],
+-} as const satisfies Module
