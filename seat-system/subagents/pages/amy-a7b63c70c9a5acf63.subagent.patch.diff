@@ -273207,3 +273207,15 @@ C`8FT`
 literal 0
 HcmV?d00001
 
+diff --git a/personas/aelwyn/aelwyn.persona.ts b/personas/aelwyn/aelwyn.persona.ts
+index 5663846f2677d2401eea9ecc526f1b61699c786f..5dd3b65b6ad91f7da8af1bda6d51d8aa1f23d408 100644
+--- a/personas/aelwyn/aelwyn.persona.ts
++++ b/personas/aelwyn/aelwyn.persona.ts
+@@ -16,6 +16,7 @@ export const aelwyn = {
+   email: "aelwyn@alanwalton.com",
+   voiceReferenceSha256: "31f54920b26dc53d594022fe0fa819b6eb2c2ef252a6b7b2aefbbad45a423edb",
+   cover: "/api/image/019f324d-3650-7a19-a5c0-031fdb418214",
++  desktopWallpaper: "png",
+   mobileWallpaper: "png",
+   greenDayPoints: 400,
+   history:
