@@ -15,6 +15,4 @@ export const eatingWhatSheBringsMe = {
   ],
   settled:
     "Between a third and half of what I eat is eaten because she brought it.\n\nRefusing reads as refusing the bid, so the obligation binds through the ordinary middle of my capacity.\n\nI can decline only at the extremes: with reserve to absorb her disappointment, or too depleted to push through.\n\nPrying the food apart from the care has been tried and failed each time; the landing depends on not naming it.\n\nWhat works is ambient shared direction rather than any agreement.",
-  unsettled:
-    "How the food bids actually run in her terms is uncaptured: how often, what she says, and what I feel receiving it against eating it.\n\nThe two thresholds on when I can decline were drawn from the model rather than from anything I said.\n\nWhat Jen herself would accept as honouring her care has never been asked. She is rendered here only through my model of her.",
 } as const satisfies AllAboutAlanTopic
