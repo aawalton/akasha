@@ -1,3 +1,50 @@
+diff --git a/alan/atlas-web/pin-time-color/pin-time-color.module.code.ts b/alan/atlas-web/pin-time-color/pin-time-color.module.code.ts
+index e55a701caea7b996429eb031a1d18c088cb11b1d..967fd1603a3ad5148499d7cf3f3227a7259c6d12 100644
+--- a/alan/atlas-web/pin-time-color/pin-time-color.module.code.ts
++++ b/alan/atlas-web/pin-time-color/pin-time-color.module.code.ts
+@@ -10,19 +10,23 @@ export const TIME_BUCKET_TOKENS: Record<TimeBucket, string> = {
+ }
+ 
+ export function timeBucket(
+-  scheduledStart: string | null | undefined,
+-  scheduledEnd: string | null | undefined,
++  scheduledStartAt: string | null | undefined,
++  scheduledEndAt: string | null | undefined,
+   nowMs: number
+ ): TimeBucket {
+-  if (scheduledStart === null || scheduledStart === undefined || scheduledStart.length === 0) {
++  if (
++    scheduledStartAt === null ||
++    scheduledStartAt === undefined ||
++    scheduledStartAt.length === 0
++  ) {
+     return "unscheduled"
+   }
+-  const startMs = Date.parse(scheduledStart)
++  const startMs = Date.parse(scheduledStartAt)
+   if (Number.isNaN(startMs)) return "unscheduled"
+ 
+   let endMs = startMs
+-  if (scheduledEnd !== null && scheduledEnd !== undefined && scheduledEnd.length > 0) {
+-    const parsedEnd = Date.parse(scheduledEnd)
++  if (scheduledEndAt !== null && scheduledEndAt !== undefined && scheduledEndAt.length > 0) {
++    const parsedEnd = Date.parse(scheduledEndAt)
+     if (!Number.isNaN(parsedEnd) && parsedEnd > startMs) endMs = parsedEnd
+   }
+ 
+@@ -32,9 +36,9 @@ export function timeBucket(
+ }
+ 
+ export function pinTimeToken(
+-  scheduledStart: string | null | undefined,
+-  scheduledEnd: string | null | undefined,
++  scheduledStartAt: string | null | undefined,
++  scheduledEndAt: string | null | undefined,
+   nowMs: number
+ ): string {
+-  return TIME_BUCKET_TOKENS[timeBucket(scheduledStart, scheduledEnd, nowMs)]
++  return TIME_BUCKET_TOKENS[timeBucket(scheduledStartAt, scheduledEndAt, nowMs)]
+ }
 diff --git a/alan/atlas-web/pins/pins.module.code.ts b/alan/atlas-web/pins/pins.module.code.ts
 index efc67b62a40611aa5862809c8bffa45bab1356a3..12f7fba638b23e58a4fb99260c462b58e6afa0e3 100644
 --- a/alan/atlas-web/pins/pins.module.code.ts
