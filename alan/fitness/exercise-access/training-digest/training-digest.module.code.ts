@@ -71,7 +71,7 @@ export async function trainingDigest(
 
   const equipment = await equipmentStandings()
   if ("refused" in equipment) return equipment
-  const lastSession = await sessionStanding(recentRows[0], bodyweight)
+  const lastSession = await sessionStanding(recentRows[0])
   if ("refused" in lastSession) return lastSession
   const mobility = await mobilityStandings()
   if ("refused" in mobility) return mobility

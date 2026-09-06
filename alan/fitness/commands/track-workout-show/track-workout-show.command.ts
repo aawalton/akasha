@@ -17,7 +17,7 @@ export const trackWorkoutShow = {
   helpNotes: [
     "the sets come grouped by movement, and within a movement by set number.",
     "a movement is named by its exercise page's title, falling back to its slug.",
-    "the volume counts the bodyweight the client profile states.",
+    "the volume is the figure the session carries rather than a count made here.",
   ],
   invariants: [
     {

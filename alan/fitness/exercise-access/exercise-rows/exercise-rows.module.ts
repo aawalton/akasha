@@ -10,11 +10,15 @@ export const exerciseRows = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The rows are read from the index over the checkout this code runs in.",
+      statement: "The rows are asked of the checkout this code runs in.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row carries the keys its page type works out beside the keys its page states.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches the pages-service.",
+      statement: "No row here is fetched over HTTP.",
     },
     {
       invariantKind: "departure",

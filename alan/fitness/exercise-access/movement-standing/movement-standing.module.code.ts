@@ -5,7 +5,6 @@ import {
   rowsFor,
   textIn,
 } from "../exercise-rows/exercise-rows.module.code.ts"
-import { sessionVolume } from "../session-volume/session-volume.module.code.ts"
 import { bestSet, lastWorkingSet, type SetLine } from "../set-history/set-history.module.code.ts"
 import { type SetTarget, targetPast } from "../set-target/set-target.module.code.ts"
 
@@ -171,10 +170,7 @@ export async function movementStandings(slugs: readonly string[]): Promise<Stand
   return { standings: found }
 }
 
-export async function sessionStanding(
-  session: Row | undefined,
-  bodyweight: number
-): Promise<Summarised> {
+export async function sessionStanding(session: Row | undefined): Promise<Summarised> {
   if (session === undefined || session.slug === null) return { standing: null }
   const logs = await rowsFor({
     pageTypeSlug: SET_LOG,
@@ -185,13 +181,12 @@ export async function sessionStanding(
   const slugs = movementSlugsIn(logs.rows)
   const titled = await exerciseTitles(slugs)
   if ("refused" in titled) return titled
-  const counted = await sessionVolume(session.slug, bodyweight)
-  if ("refused" in counted) return counted
   return {
     standing: {
       id: session.id,
       date: textIn(session, "workoutSessionDate") ?? null,
-      totalVolume: counted.volume,
+      // THE SESSION IS ASKED WHAT THAT SESSION MOVED, rather than the sets being counted again.
+      totalVolume: numberIn(session, "sessionVolume") ?? 0,
       movements: slugs.map((slug) => titled.titles.get(slug) ?? slug),
     },
   }

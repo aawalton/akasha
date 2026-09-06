@@ -9,9 +9,6 @@ import {
   textIn,
   titleOf,
 } from "@akasha/exercise-access/exercise-rows"
-import { statedBodyweight } from "@akasha/exercise-access/session-volume"
-import type { VolumeSetInput } from "@akasha/exercise-access/set-volume"
-import { computeSessionVolume } from "@akasha/exercise-access/set-volume"
 import {
   asJson,
   DATA,
@@ -142,22 +139,6 @@ export async function trackWorkoutShow(argv: readonly string[] = []): Promise<An
     }
   }
 
-  const weighed = await statedBodyweight()
-  if ("refused" in weighed) return refusedBy([weighed.refused], DATA)
-
-  const volumeInputs: readonly VolumeSetInput[] = setLogs.rows.map((row) => {
-    const exerciseSlug = textIn(row, "exerciseSlug")
-    const info = exerciseSlug !== undefined ? movements.get(exerciseSlug) : undefined
-    return {
-      reps: numberIn(row, "reps"),
-      weight: numberIn(row, "weight"),
-      isWarmup: boolIn(row, "isWarmup"),
-      activityType: textIn(row, "activityType"),
-      loadFactor: info?.loadFactor,
-      implementCount: info?.implementCount,
-    }
-  })
-
   const scheduleDay = await titleBySlug(SCHEDULE_DAY, textIn(session, "scheduleDaySlug"))
   if ("refused" in scheduleDay) return refusedBy([scheduleDay.refused], DATA)
 
@@ -168,7 +149,9 @@ export async function trackWorkoutShow(argv: readonly string[] = []): Promise<An
     scheduleDay: scheduleDay.title,
     startedAt: textIn(session, "workoutSessionStartedAt") ?? null,
     completedAt: textIn(session, "workoutSessionCompletedAt") ?? null,
-    totalVolume: computeSessionVolume(volumeInputs, weighed.bodyweight),
+    // THE SESSION IS ASKED WHAT THAT SESSION MOVED. The formula sits on the set's own page, so
+    // counting the reps again here is a second answer that can differ from the day's.
+    totalVolume: numberIn(session, "sessionVolume") ?? 0,
   }
   const lines = setLinesOf(setLogs.rows, movements)
 

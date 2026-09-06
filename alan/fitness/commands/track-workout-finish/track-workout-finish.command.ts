@@ -18,7 +18,7 @@ export const trackWorkoutFinish = {
   helpNotes: [
     "notes given are added under the notes already there rather than written over them.",
     "the duration is the minutes between the moment started and the moment closed.",
-    "the volume counts the bodyweight the client profile states.",
+    "the volume is the figure the session carries rather than a count made here.",
   ],
   invariants: [
     {
