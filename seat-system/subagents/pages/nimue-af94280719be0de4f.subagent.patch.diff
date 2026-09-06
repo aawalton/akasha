@@ -28,3 +28,35 @@ index c5ce15266e045a2a07945b42655ce14b5e49c339..ae51acaaec190da9c5a9042bf3209fe7
  }
  
  export function bareTypeIn(prefix: string): string {
+diff --git a/agents/claude-accounts/modules/reading/claude-account-reading.module.test.ts b/agents/claude-accounts/modules/reading/claude-account-reading.module.test.ts
+index b8780aa5dc2e115c76807760b4c00922c50e45dc..77193ef339867b218a654f663b72d3637c8fd95a 100644
+--- a/agents/claude-accounts/modules/reading/claude-account-reading.module.test.ts
++++ b/agents/claude-accounts/modules/reading/claude-account-reading.module.test.ts
+@@ -4,7 +4,7 @@ import { join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { readingIn } from "@akasha/indexes"
+ import type { Child, Reading } from "@akasha/indexes/shape"
+-import { listedFiled, pageFiled } from "@akasha/indexes/testing"
++import { listedFiled, pageFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+ import {
+   accountBesideIn,
+   accountPathIn,
+@@ -70,15 +70,14 @@ function idFor(slug: string): string {
+ 
+ function accountWritten(root: string, slug: string, stated: Held, beside: Held | null): undefined {
+   const at = pageAt(slug)
++  const value = { id: idFor(slug), pageTypeSlug: "claude-account", slug, ...stated }
+   mkdirSync(join(root, `${PAGES_AT}/${slug}`), { recursive: true })
+-  writeFileSync(
+-    join(root, at),
+-    bodied(slug, { id: idFor(slug), pageTypeSlug: "claude-account", slug, ...stated })
+-  )
++  writeFileSync(join(root, at), bodied(slug, value))
+   if (beside !== null) {
+     writeFileSync(join(root, at.replace(/\.ts$/, ".uncommitted.ts")), bodied("held", beside))
+   }
+   listedFiled(root, "claude-account", slug, [{ path: at, id: idFor(slug) }])
++  valueAlsoFiled(root, "claude-account", [{ path: at, value }])
+ }
+ 
+ function worldMade(): string {
