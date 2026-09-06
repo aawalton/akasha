@@ -24,7 +24,7 @@ export const atomicChange = {
     },
     {
       invariantKind: "departure",
-      statement: "An atomic change runs no atomic change.",
+      statement: "An atomic change runs partial changes and no other change.",
     },
     {
       invariantKind: "departure",
