@@ -1,3 +1,32 @@
+diff --git a/command-system/commands/move/move.command.code.ts b/command-system/commands/move/move.command.code.ts
+index 869960bc658b964688c031ab0a9b437c1342fcc2..fc2ab52240c4cdea5a27023dec7f58d620f0d5b7 100644
+--- a/command-system/commands/move/move.command.code.ts
++++ b/command-system/commands/move/move.command.code.ts
+@@ -18,7 +18,7 @@ import { baseOf } from "../../landing/landing.module.code.ts"
+ import { respeltNames } from "../../outside-naming/outside-naming.module.code.ts"
+ import { linkingsIn, reachedOver } from "../../package-linking/package-linking.module.code.ts"
+ import type { Carry } from "../../reading/reading.module.code.ts"
+-import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
++import { blobIdOf } from "../../reading/reading.module.code.ts"
+ import { glassIn, messageIn } from "../write/write.command.code.ts"
+ import { FROM, pairsIn, TO, VALUED } from "./arguing/move-arguing.module.code.ts"
+ import { manifestingOver } from "./manifesting/move-manifesting.module.code.ts"
+@@ -259,6 +259,7 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
+     unmoved: [],
+     read: base,
+     carries: uncommitted,
++    readings: carries,
+     saying: (landed) => [
+       ...carrying(sided.sides, reached, false, spread, landed.cleared),
+       ...resettlingSaid(root, named, true),
+@@ -278,7 +279,6 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
+     throw thrown
+   }
+   if (read.dryRun || landed.code !== 0) relink()
+-  if (landed.code === 0 && !read.dryRun) carryReadings(root, carries)
+   if (landed.code !== 0 || !read.dryRun) return landed
+   const would = carrying(sided.sides, reached, true, spread, wouldClear(root, gone))
+   const resaid = resettlingSaid(root, named, false)
 diff --git a/command-system/commands/refactor/landing/refactor-landing.module.code.ts b/command-system/commands/refactor/landing/refactor-landing.module.code.ts
 index 71a1f6926a2d82114ee3e3e165a90f232b429325..d4f5623f5c870923b249a1ac8d650de007ba3ee1 100644
 --- a/command-system/commands/refactor/landing/refactor-landing.module.code.ts
