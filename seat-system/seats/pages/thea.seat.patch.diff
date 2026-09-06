@@ -10,3 +10,30 @@ index 1ff1759729e012d7e70bcac17a40caa94cd3db6c..e7c56b82f165e001688ff9b6620609f6
    const types = everyType(shadow, carried)
    const introducers = introducersIn(types, shadow)
    const said: Judged[] = []
+diff --git a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.test.ts b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.test.ts
+index 959d27920fcb57e492418480c9f0e51f91e83453..9aa287a8fef2965edc4e8c6373b3903ac7699b6b 100644
+--- a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.test.ts
++++ b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.test.ts
+@@ -185,6 +185,22 @@ test("a type that stops introducing a property leaves the other introducer refus
+   expect(said[0]?.path).toBe(pathFor("two"))
+ })
+ 
++test("a type taken away leaves the other introducer refused", () => {
++  const root = rooted()
++  typed(root, "one", null, ["shared"], [`${TEXT}/shared`])
++  typed(root, "two", null, ["shared"], [])
++  const said = judged(
++    landing(
++      root,
++      { [pathFor("one")]: null },
++      { [pathFor("one")]: bytesOf("one", null, ["shared"], [`${TEXT}/shared`]) }
++    )
++  )
++  expect(said).toHaveLength(1)
++  expect(said[0]?.path).toBe(pathFor("two"))
++  expect(said[0]?.reason).toContain("`shared`")
++})
++
+ test("a part is matched by the slug it addresses, whatever page type it names", () => {
+   const root = rooted()
+   typed(root, "held", null, ["mine"], ["number-property/mine"])
