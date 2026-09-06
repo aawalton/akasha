@@ -1,5 +1,5 @@
 diff --git a/editor-extension/node-cleanliness/node-cleanliness.module.ts b/editor-extension/node-cleanliness/node-cleanliness.module.ts
-index 26ab398b56ae8d45f4dbb302d6a1c47c0fc2b083..61b81b0cafd141bcdbdc274b42669088eb5159cb 100644
+index 26ab398b56ae8d45f4dbb302d6a1c47c0fc2b083..9550759733170e3ac4c3e8d5f08a569b1ff9a16b 100644
 --- a/editor-extension/node-cleanliness/node-cleanliness.module.ts
 +++ b/editor-extension/node-cleanliness/node-cleanliness.module.ts
 @@ -22,7 +22,7 @@ export const nodeCleanliness = {
@@ -8,6 +8,15 @@ index 26ab398b56ae8d45f4dbb302d6a1c47c0fc2b083..61b81b0cafd141bcdbdc274b42669088
        invariantKind: "departure",
 -      statement: "The entry point judged is the one the host loads.",
 +      statement: "The entry point judged is the entry point the host loads.",
+     },
+     {
+       invariantKind: "departure",
+@@ -51,7 +51,7 @@ export const nodeCleanliness = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "`Bun.*`, `import.meta.path`, `import.meta.dir` and `import.meta.dirname` are refused.",
++        "`Bun.*` or `import.meta.path` or `import.meta.dir` or `import.meta.dirname` is refused.",
      },
      {
        invariantKind: "departure",
