@@ -1,0 +1,39 @@
+diff --git a/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts b/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
+index 54ecf4d8799e5f5cfb56ecdf3a7ca37be3dbf516..34c8a1017120579d369841b05dc48b1224372755 100644
+--- a/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
++++ b/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
+@@ -138,6 +138,18 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean):
+     return { report, refusals: [], code: 0 }
+   }
+ 
++  // THE BUILD IS MADE BEFORE THE MANIFEST IS APPLIED. A pod starts on a build kept beside the
++  // package that pod runs from, so a manifest moving that package rolls out a pod with no build to
++  // start on, and the apply waits on a rollout only this build could have finished.
++  if (target !== null && !isBuilt) {
++    const built = buildInPod(target, sha, resolved)
++    for (const one of built.ran) {
++      report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
++    }
++    if (built.why !== null) return { report, refusals: [built.why], code: OPERATIONAL }
++    report.push(`built\t${target.packagePath}\tin ${built.pod} from ${sha}`)
++  }
++
+   if (differs || !up) {
+     for (const one of writeManifests(given.root, plan)) report.push(`wrote\t${one}`)
+     const refusals: string[] = []
+@@ -150,15 +162,6 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean):
+     if (refusals.length > 0) return { report, refusals, code: OPERATIONAL }
+   }
+ 
+-  if (target !== null && !isBuilt) {
+-    const built = buildInPod(target, sha, resolved)
+-    for (const one of built.ran) {
+-      report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
+-    }
+-    if (built.why !== null) return { report, refusals: [built.why], code: OPERATIONAL }
+-    report.push(`built\t${target.packagePath}\tin ${built.pod} from ${sha}`)
+-  }
+-
+   report.push(
+     `up\t${workload.kind} ${workload.namespace}/${workload.name} stands as its page describes`
+   )
