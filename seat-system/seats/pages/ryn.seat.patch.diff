@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.ts b/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.ts
+index 50cbb712f001239b5c22ecfab0afa8054c32fb44..8c41ef7737538d27b4b4db0f596f71f4b1b635cf 100644
+--- a/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.ts
++++ b/seat-system/supervising/supervisor-resume-notices/supervisor-resume-notices.module.ts
+@@ -13,7 +13,7 @@ export const supervisorResumeNotices = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The compose module is imported from beside this one and its function called.",
++      statement: "The compose module is imported from beside this module and its function called.",
+     },
+     {
+       invariantKind: "departure",
