@@ -22,10 +22,7 @@ export function missingIn(
 
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const said: Judged[] = []
-  const carried = new Set(change.changed)
-  const named = new Set(shadow.index.everyPath())
-  const there = (path: string): boolean =>
-    carried.has(path) ? change.after(path) !== null : named.has(path) || change.after(path) !== null
+  const there = (path: string): boolean => change.after(path) !== null
   for (const one of manifestsIn(shadow)) {
     const text = textIn(change, one.at)
     if (text === null) continue
