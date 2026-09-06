@@ -22,11 +22,12 @@ export const narrowComparison = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A comparison taking one value is given one.",
+      statement: "A comparison taking one value is given one value.",
     },
     {
       invariantKind: "departure",
-      statement: "A comparison taking many is given as many as that comparison needs.",
+      statement:
+        "A comparison taking many values is given as many values as that comparison needs.",
     },
   ],
 } as const satisfies TextProperty
