@@ -1,3 +1,16 @@
+diff --git a/command-system/commands/dev-server/dev-server.command.code.ts b/command-system/commands/dev-server/dev-server.command.code.ts
+index 54cc145c4b9a725312a410cfa4c59f6532c304d8..179e9d3703f283566c84b92a356593052ecfda91 100644
+--- a/command-system/commands/dev-server/dev-server.command.code.ts
++++ b/command-system/commands/dev-server/dev-server.command.code.ts
+@@ -3,7 +3,7 @@ import { exitCodeForThrowable } from "@akasha/errors-core/exit-code"
+ import {
+   readEnvLocal,
+   resolveEnvLocalPath,
+-  writeEnvLocalFromSops,
++  writeEnvLocalFromPages,
+ } from "@akasha/service-system/dev-server-env-writing"
+ import {
+   type DevServerRecord,
 diff --git a/service-system/secrets/secret-saying/secret-saying.module.code.ts b/service-system/secrets/secret-saying/secret-saying.module.code.ts
 index 057008123102c4439afe4a227bcb7a404a936ee3..8269b2e6b3fd345c76920e2af42c715fd74a4014 100644
 --- a/service-system/secrets/secret-saying/secret-saying.module.code.ts
