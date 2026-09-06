@@ -71,6 +71,19 @@ index 509ce8a91afe0c0686d2e7cf209db84074dbf321..7e9acceb391e28970e9ce3bd864b50d6
      recordSweep(FEATURE, { ...counted, boundMs: PROCESS_ID_TIMEOUT_MS, ms, trigger: "write" })
      for (const seat of seats) {
        seatByTerminal.set(seat.terminal, seat.name)
+diff --git a/editor-extension/editor-layout-panel/editor-layout-panel.module.ts b/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
+index 117606c7c2c71b509bc02e4763c610105d39bc80..03c752dcb888696a9b6a7a12f798645747255259 100644
+--- a/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
++++ b/editor-extension/editor-layout-panel/editor-layout-panel.module.ts
+@@ -37,7 +37,7 @@ export const editorLayoutPanel = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A window whose ps snapshot is empty is read with no seat named.",
++      statement: "A window that could not read the seats is read with no seat named.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/editor-extension/package.json b/editor-extension/package.json
 index 9633db6a2414e255a5994f9ef3015e387947218d..2317fb3b81c68eddafb7aa2b62be4c6875bd0cea 100644
 --- a/editor-extension/package.json
