@@ -1,0 +1,26 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-abbys-four-step-shape-holds.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-abbys-four-step-shape-holds.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..be15ae839b117c07020657e4c183ece9ba125f5a
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-abbys-four-step-shape-holds.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAbbysFourStepShapeHolds = {
++  id: "01a077e6-d795-738c-8de9-63e53777e434",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-abbys-four-step-shape-holds",
++  topicSlug: "the-shape-behind-the-two-lines",
++  ask: "Abby read four steps under both my lines: a cost collapses, I do a hundred times more, the volume breaks something new, and I build one shared structure. Does that shape hold?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-shape-behind-the-two-lines.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-shape-behind-the-two-lines.all-about-alan-topic.ts
+index 3ecf9d10ae52e8ccd774135027188094af1bb8bb..f5e1c331fdb8e458e7f1b408eebcccbf9a50b1d1 100644
+--- a/alan/books/all-about-alan/topics/pages/the-shape-behind-the-two-lines.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-shape-behind-the-two-lines.all-about-alan-topic.ts
+@@ -7,6 +7,4 @@ export const theShapeBehindTheTwoLines = {
+   title: "The Shape Behind The Two Lines",
+   definition: "the pattern Abby read under both lines, and how much of it is mine",
+   parentSlugs: ["what-happens-when-something-gets-cheap"],
+-  unsettled:
+-    "Abby's reading, which I called pretty true: each line runs the same four steps — a cost collapses, I do about a hundred times more of the thing, the volume breaks something nobody had needed to solve before, and I build one shared structure that makes the volume cheap. The two lines are mine; the four-step shape is hers.",
+ } as const satisfies AllAboutAlanTopic
