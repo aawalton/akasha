@@ -10,7 +10,7 @@ export const temperComparisonOp = {
   definition: "a way of comparing a number an item rule reads",
   pluralSlug: "temper-comparison-ops",
   extendsSlug: ["page-type/temper-progress-thing"],
-  properties: [{ pagePropertySlug: "key", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

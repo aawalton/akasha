@@ -9,14 +9,19 @@ export const completions = {
   propertySlug: "completions",
   definition: "the tasks marked done on a day, one completion to a line",
   properties: [
-    { pagePropertySlug: "completed-at", required: true, many: false },
-    { pagePropertySlug: "task", required: false, many: false },
-    { pagePropertySlug: "title", required: false, many: false },
-    { pagePropertySlug: "character", required: false, many: false },
-    { pagePropertySlug: "eso-character-id", required: false, many: false },
-    { pagePropertySlug: "due-date", required: false, many: false },
-    { pagePropertySlug: "completion-card-id", required: false, many: false },
-    { pagePropertySlug: "completion-item-path", required: false, many: true, max: null },
+    { pagePropertySlug: "instant-property/completed-at", required: true, many: false },
+    { pagePropertySlug: "text-property/task", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: false, many: false },
+    { pagePropertySlug: "text-property/character", required: false, many: false },
+    { pagePropertySlug: "text-property/eso-character-id", required: false, many: false },
+    { pagePropertySlug: "text-property/due-date", required: false, many: false },
+    { pagePropertySlug: "text-property/completion-card-id", required: false, many: false },
+    {
+      pagePropertySlug: "text-property/completion-item-path",
+      required: false,
+      many: true,
+      max: null,
+    },
   ],
   invariants: [
     {

@@ -41,15 +41,24 @@ export const temperProgressThing = {
     "text-property/scope",
   ],
   properties: [
-    { pagePropertySlug: "node-id", required: false, many: false },
-    { pagePropertySlug: "character", required: false, many: false },
-    { pagePropertySlug: "completion-card-id", required: false, many: false },
-    { pagePropertySlug: "completion-item-path", required: false, many: true, max: null },
-    { pagePropertySlug: "scope", required: false, many: false },
-    { pagePropertySlug: "priority", required: false, many: false },
-    { pagePropertySlug: "due-date", required: false, many: false },
-    { pagePropertySlug: "rrule-rule", required: false, many: false },
-    { pagePropertySlug: "rrule-anchor-from-completion", required: false, many: false },
+    { pagePropertySlug: "text-property/node-id", required: false, many: false },
+    { pagePropertySlug: "text-property/character", required: false, many: false },
+    { pagePropertySlug: "text-property/completion-card-id", required: false, many: false },
+    {
+      pagePropertySlug: "text-property/completion-item-path",
+      required: false,
+      many: true,
+      max: null,
+    },
+    { pagePropertySlug: "text-property/scope", required: false, many: false },
+    { pagePropertySlug: "text-property/priority", required: false, many: false },
+    { pagePropertySlug: "text-property/due-date", required: false, many: false },
+    { pagePropertySlug: "text-property/rrule-rule", required: false, many: false },
+    {
+      pagePropertySlug: "boolean-property/rrule-anchor-from-completion",
+      required: false,
+      many: false,
+    },
   ],
   invariants: [
     {

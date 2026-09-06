@@ -17,8 +17,8 @@ export const temperHoldingsThing = {
   extendsSlug: ["page-type/temper-thing"],
   partSlugs: ["number-property/total-value"],
   properties: [
-    { pagePropertySlug: "captured-at", required: false, many: false },
-    { pagePropertySlug: "total-value", required: false, many: false },
+    { pagePropertySlug: "instant-property/captured-at", required: false, many: false },
+    { pagePropertySlug: "number-property/total-value", required: false, many: false },
   ],
   invariants: [
     {

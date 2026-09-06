@@ -32,13 +32,23 @@ export const temperWatcherEnrolment = {
     "text-property/token-name",
   ],
   properties: [
-    { pagePropertySlug: "account-page", required: true, many: false },
-    { pagePropertySlug: "token-hash", required: true, many: false },
-    { pagePropertySlug: "token-name", required: true, many: false },
-    { pagePropertySlug: "token-created-at", required: true, many: false },
-    { pagePropertySlug: "token", required: false, many: false, secret: true },
-    { pagePropertySlug: "token-last-used-at", required: false, many: false, uncommitted: true },
-    { pagePropertySlug: "last-run-outcome", required: false, many: false, uncommitted: true },
+    { pagePropertySlug: "text-property/account-page", required: true, many: false },
+    { pagePropertySlug: "text-property/token-hash", required: true, many: false },
+    { pagePropertySlug: "text-property/token-name", required: true, many: false },
+    { pagePropertySlug: "instant-property/token-created-at", required: true, many: false },
+    { pagePropertySlug: "text-property/token", required: false, many: false, secret: true },
+    {
+      pagePropertySlug: "instant-property/token-last-used-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
+    {
+      pagePropertySlug: "text-property/last-run-outcome",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   invariants: [
     {

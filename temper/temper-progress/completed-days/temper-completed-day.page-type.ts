@@ -22,8 +22,8 @@ export const temperCompletedDay = {
     "text-property/task",
   ],
   properties: [
-    { pagePropertySlug: "day", required: true, many: false },
-    { pagePropertySlug: "completions", required: false, many: false },
+    { pagePropertySlug: "text-property/day", required: true, many: false },
+    { pagePropertySlug: "page-property-entry/completions", required: false, many: false },
   ],
   invariants: [
     {

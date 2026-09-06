@@ -17,12 +17,17 @@ export const temperCompletionOverride = {
   extendsSlug: ["page-type/temper-progress-thing"],
   partSlugs: ["number-property/floor", "text-property/override-reason"],
   properties: [
-    { pagePropertySlug: "account-page", required: true, many: false },
-    { pagePropertySlug: "character", required: true, many: false },
-    { pagePropertySlug: "completion-card-id", required: true, many: false },
-    { pagePropertySlug: "completion-item-path", required: true, many: true, max: null },
-    { pagePropertySlug: "floor", required: true, many: false },
-    { pagePropertySlug: "override-reason", required: true, many: false },
+    { pagePropertySlug: "text-property/account-page", required: true, many: false },
+    { pagePropertySlug: "text-property/character", required: true, many: false },
+    { pagePropertySlug: "text-property/completion-card-id", required: true, many: false },
+    {
+      pagePropertySlug: "text-property/completion-item-path",
+      required: true,
+      many: true,
+      max: null,
+    },
+    { pagePropertySlug: "number-property/floor", required: true, many: false },
+    { pagePropertySlug: "text-property/override-reason", required: true, many: false },
   ],
   invariants: [
     {

@@ -9,10 +9,10 @@ export const progress = {
   propertySlug: "progress",
   definition: "how far a task has come, one character to a line",
   properties: [
-    { pagePropertySlug: "character-name", required: true, many: false },
-    { pagePropertySlug: "progress-total", required: true, many: false },
-    { pagePropertySlug: "progress-current", required: true, many: false },
-    { pagePropertySlug: "display-order", required: true, many: false },
+    { pagePropertySlug: "text-property/character-name", required: true, many: false },
+    { pagePropertySlug: "number-property/progress-total", required: true, many: false },
+    { pagePropertySlug: "number-property/progress-current", required: true, many: false },
+    { pagePropertySlug: "number-property/display-order", required: true, many: false },
   ],
   invariants: [
     {

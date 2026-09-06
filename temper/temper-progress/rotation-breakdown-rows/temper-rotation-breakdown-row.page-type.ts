@@ -15,9 +15,9 @@ export const temperRotationBreakdownRow = {
   extendsSlug: ["page-type/temper-progress-thing"],
   partSlugs: ["text-property/full-name"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "description", required: true, many: false },
-    { pagePropertySlug: "full-name", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "text-property/description", required: true, many: false },
+    { pagePropertySlug: "text-property/full-name", required: true, many: false },
   ],
   invariants: [
     {
