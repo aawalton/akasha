@@ -9,6 +9,4 @@ export const whereSafetyHasGotTo = {
   parentSlugs: ["safety-bar"],
   relatedSlugs: ["whether-my-2026-forecast-is-holding"],
   settled: "In late August 2026 I read myself at two to three, still on the lower end.",
-  unsettled:
-    "Each step in the one-sigma low unlocks a named class: conflict bearable at 4, criticism bearable at 5, conflict recurringly initiate-able at 4. Read as recovery milestones rather than as numbers.\n\nMy stated medians and the recorded figures disagree, and nothing says which quantity each reads.",
 } as const satisfies AllAboutAlanTopic
