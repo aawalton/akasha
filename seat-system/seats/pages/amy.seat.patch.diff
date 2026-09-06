@@ -42,6 +42,50 @@ index 0000000000000000000000000000000000000000..c681835ce06964a03dcd438a733d31da
 +export function roleIsOnCall(roleSlug: string | null): boolean {
 +  return roleSlug !== null && roleSlug !== "" && onCallRoles().has(roleSlug)
 +}
+diff --git a/seat-system/seat-role-on-call/seat-role-on-call.module.test.ts b/seat-system/seat-role-on-call/seat-role-on-call.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d1cbd2a01cb87111152247731bf98b7c0dfd0a07
+--- /dev/null
++++ b/seat-system/seat-role-on-call/seat-role-on-call.module.test.ts
+@@ -0,0 +1,38 @@
++import { expect, test } from "bun:test"
++import { onCallRolesIn } from "./seat-role-on-call.module.code.ts"
++
++test("a role holding true under the on-call key is on call", () => {
++  expect([...onCallRolesIn([{ value: { slug: "handler", onCall: true } }])]).toEqual(["handler"])
++})
++
++test("anything other than true under that key reads as not on call", () => {
++  const held = onCallRolesIn([
++    { value: { slug: "worker", onCall: false } },
++    { value: { slug: "definer" } },
++    { value: { slug: "coach", onCall: "true" } },
++    { value: { slug: "operator", onCall: 1 } },
++  ])
++
++  expect([...held]).toEqual([])
++})
++
++test("a role naming no slug is left out", () => {
++  const held = onCallRolesIn([
++    { value: { onCall: true } },
++    { value: { slug: "", onCall: true } },
++    { value: { slug: 7, onCall: true } },
++  ])
++
++  expect([...held]).toEqual([])
++})
++
++test("a value that is no record is passed over rather than refused", () => {
++  const held = onCallRolesIn([
++    { value: null },
++    { value: "handler" },
++    { value: [{ slug: "handler", onCall: true }] },
++    { value: { slug: "handler", onCall: true } },
++  ])
++
++  expect([...held]).toEqual(["handler"])
++})
 diff --git a/seat-system/seat-role-on-call/seat-role-on-call.module.ts b/seat-system/seat-role-on-call/seat-role-on-call.module.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..f19cd6d9c5f5318c88ac3875a9a5d098e0cac99c
