@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts b/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts
-index 25747c3ca24bea0fc9678d07fba20adfcc03578a..31432e91fa17427006c94d6224da18a21f2032d9 100644
+index 25747c3ca24bea0fc9678d07fba20adfcc03578a..a4728b59f813fe0c2a7ad745c31ca8035f823059 100644
 --- a/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts
 +++ b/checks/code-checks/pages/lint-clean/lint-clean.code-check.code.ts
 @@ -6,26 +6,47 @@ import type { Body, Selector } from "../../../modules/change-walking/change-walk
@@ -60,3 +60,17 @@ index 25747c3ca24bea0fc9678d07fba20adfcc03578a..31432e91fa17427006c94d6224da18a2
      if (change.after(one) === null) continue
      held.add(one)
    }
+@@ -51,7 +72,12 @@ export function judgedOf(linted: Linted, first: string, root: string): readonly
+ }
+ 
+ function refusalsIn(change: Change): readonly Judged[] {
+-  const carried = carriedIn(change)
++  const reads = readsIn(change.after(CONFIG))
++  const named = change.changed[0]
++  if (reads === null) {
++    return named === undefined ? [] : [{ path: named, reason: UNCONFIGURED }]
++  }
++  const carried = carriedIn(change, reads)
+   const first = carried[0]
+   if (first === undefined) return []
+   const world = worldOf(change.root, carried, change.after, null)
