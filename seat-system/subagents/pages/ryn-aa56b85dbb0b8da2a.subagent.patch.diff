@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
+index b8ade63be5844cd954278abdc774889eed65f2dc..333929a30f3bdf9c06c93afd1f2be4755839926e 100644
+--- a/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
++++ b/temper/temper-progress/inventory-rules/temper-inventory-rule.page-type.ts
+@@ -41,7 +41,8 @@ export const temperInventoryRule = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A rule here is one a player has adopted rather than one offered to a player.",
++      statement:
++        "A rule here is a rule a player has adopted rather than a rule offered to a player.",
+     },
+     {
+       invariantKind: "departure",
