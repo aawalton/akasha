@@ -21,7 +21,7 @@ export const companionSkillOptimizer = {
     },
     {
       invariantKind: "gap",
-      statement: "A taunt counts only when its cooldown is at most sixteen seconds.",
+      statement: "A taunt counts only when its cooldown is sixteen seconds or shorter.",
     },
   ],
 } as const satisfies Module
