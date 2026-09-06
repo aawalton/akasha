@@ -1,9 +1,9 @@
 writerOwesReading: false
 diff --git a/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts b/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
-index e62ca33b4db76a7bbc5e9084cb55bb200432df11..79a6db0fa9d6ffffce6a2d41003de94a5f43d537 100644
+index e62ca33b4db76a7bbc5e9084cb55bb200432df11..d4fc6469ccf255a3a00f8d23fe034efbb93e1fc9 100644
 --- a/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
 +++ b/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
-@@ -10,19 +10,19 @@ export const seatTranscriptRotation = {
+@@ -10,23 +10,23 @@ export const seatTranscriptRotation = {
    invariants: [
      {
        invariantKind: "departure",
@@ -24,6 +24,11 @@ index e62ca33b4db76a7bbc5e9084cb55bb200432df11..79a6db0fa9d6ffffce6a2d41003de94a
        invariantKind: "departure",
 -      statement: "A candidate is a `.jsonl` file directly beside the one the seat names.",
 +      statement: "A candidate is a `.jsonl` file directly beside the transcript the seat names.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file no newer than the one the seat names is no candidate.",
++      statement: "A file no newer than the transcript the seat names is no candidate.",
      },
      {
        invariantKind: "departure",
