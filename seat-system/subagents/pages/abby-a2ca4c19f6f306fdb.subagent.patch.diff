@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-many-named-levels-there-are.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-many-named-levels-there-are.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..044df6d534f9ac5f1ebd8f1ced3c8b7436f28243
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-many-named-levels-there-are.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howManyNamedLevelsThereAre = {
++  id: "01a077f3-1084-7ff8-8d2c-5ab82718c73e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-many-named-levels-there-are",
++  topicSlug: "the-coloured-circles-i-run-on",
++  ask: "How many named levels are there? I described five, one account records four, and what runs shows five.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-happens-when-a-persona-tips-yellow.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-happens-when-a-persona-tips-yellow.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..98201dfd42749f6aa4662895282db40a16a5a147
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-happens-when-a-persona-tips-yellow.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatHappensWhenAPersonaTipsYellow = {
++  id: "01a077f3-1085-7ce1-9edd-aaa3be70c8c0",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-happens-when-a-persona-tips-yellow",
++  topicSlug: "the-coloured-circles-i-run-on",
++  ask: "When a persona of mine tips from green to yellow something changes in what I do. What is the step between the two colours?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-prompts-me-to-look-at-the-circles.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-prompts-me-to-look-at-the-circles.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..87cfece9e1f74f07e1993a0ecf1caab4255c10c7
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-prompts-me-to-look-at-the-circles.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatPromptsMeToLookAtTheCircles = {
++  id: "01a077f3-1085-7557-aa90-2d12885dce25",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-prompts-me-to-look-at-the-circles",
++  topicSlug: "the-coloured-circles-i-run-on",
++  ask: "What prompts me to look at the circles at all, given that noticing I should check is itself a signal I do not have?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-every-group-wants-the-same-layers.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-every-group-wants-the-same-layers.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d5511b1854959dd4b0ee4a6f2248096395d98694
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-every-group-wants-the-same-layers.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherEveryGroupWantsTheSameLayers = {
++  id: "01a077f3-1085-7daf-81e3-2fe27de88952",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-every-group-wants-the-same-layers",
++  topicSlug: "the-coloured-circles-i-run-on",
++  ask: "Does every group want the same number of layers, given the argument is about my range in an area and the areas differ?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-coloured-circles-i-run-on.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-coloured-circles-i-run-on.all-about-alan-topic.ts
+index 2465740f429fcda39eb835e6ea899e1865d04c55..21344db2c286703a4b04bdf93ec04e6ece5dd642 100644
+--- a/alan/books/all-about-alan/topics/pages/the-coloured-circles-i-run-on.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-coloured-circles-i-run-on.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const theColouredCirclesIRunOn = {
+   relatedSlugs: ["how-i-get-anything-done", "how-well-i-can-measure"],
+   settled:
+     "The ordinary nudge to eat, move, sleep or wash is built from a body signal read against experience, and I have neither.\n\nSo the prompt sits outside me and has to read now. It is a pointer, not a measurement.\n\nColour parses without being read, which lets unlike things sit in one row.\n\nGraded levels rather than one bar, because one bar is out of reach on a bad day and met by noon on a good one.\n\nGrouped by area of life: eighteen circles, my six values, six inboxes and six upkeeps.",
+-  unsettled:
+-    "How many named levels there are is unsettled. I described five, one account records four, and what runs shows five.\n\nWhat prompts me to look at all is unstated. Noticing I should check is itself a signal I do not have.\n\nWhether every group wants the same number of layers is open, since the argument is about my range in that area and the areas differ.\n\nWhen one of my personas tips from green to yellow something changes in what I do, and the step between has never been traced.",
+ } as const satisfies AllAboutAlanTopic
