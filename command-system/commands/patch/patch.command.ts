@@ -129,7 +129,7 @@ export const patch = {
     },
     {
       invariantKind: "departure",
-      statement: "A path the patch carries a conflict at is named as carrying one.",
+      statement: "A path the patch carries a conflict at is named as carrying a conflict.",
     },
     {
       invariantKind: "departure",
