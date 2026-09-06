@@ -53,6 +53,41 @@ index 26bcec94bfac9b06f319a597d72199aa32598980..bb08d17c7759aaca12a96264b9fa31a8
    const text = world.textOf(given.at)
    if (text === null) return refusing(`\`${given.at}\` could not be read`)
    const source = parsedAs(given.at, text)
+diff --git a/changes/pages/rename-code-token/rename-code-token.change.code.ts b/changes/pages/rename-code-token/rename-code-token.change.code.ts
+index 6c3a12d0c996e5c3985d6e31adeaa2799c6b9e5c..148cc466ce43e58cb7b33ba1280b2ef373292485 100644
+--- a/changes/pages/rename-code-token/rename-code-token.change.code.ts
++++ b/changes/pages/rename-code-token/rename-code-token.change.code.ts
+@@ -16,7 +16,7 @@ import { renameLocalVariable } from "../rename-local-variable/rename-local-varia
+ 
+ export const LINE = "--line"
+ 
+-export type Asked = {
++export type RenameCodeTokenAsked = {
+   readonly at: string
+   readonly of: string
+   readonly to: string
+@@ -41,7 +41,11 @@ function linesOf(typing: Typing, path: string, declared: readonly ts.Node[]): st
+   return [...lines].sort((here, there) => here - there).join(" or ")
+ }
+ 
+-function pickedIn(typing: Typing, given: Asked, declared: readonly ts.Node[]): Picked {
++function pickedIn(
++  typing: Typing,
++  given: RenameCodeTokenAsked,
++  declared: readonly ts.Node[]
++): Picked {
+   if (given.line === undefined) {
+     const first = declared[0]
+     if (declared.length === 1 && first !== undefined) return { node: first }
+@@ -61,7 +65,7 @@ function pickedIn(typing: Typing, given: Asked, declared: readonly ts.Node[]): P
+   }
+ }
+ 
+-export function renameCodeToken(world: World, given: Asked): Answer {
++export function renameCodeToken(world: World, given: RenameCodeTokenAsked): Answer {
+   if (!typed(given.at)) return refusing(`\`${given.at}\` names no TypeScript body`)
+   const text = world.textOf(given.at)
+   if (text === null) return refusing(`\`${given.at}\` could not be read`)
 diff --git a/changes/pages/rename-path/rename-path.change.code.ts b/changes/pages/rename-path/rename-path.change.code.ts
 index 86629daee04b8e941c0dfed7db8fd946c11e1721..b272b91ac038a400af51cfbcf83385f8846648e6 100644
 --- a/changes/pages/rename-path/rename-path.change.code.ts
