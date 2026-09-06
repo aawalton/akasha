@@ -1,0 +1,13 @@
+diff --git a/command-system/commands/index/index.command.code.ts b/command-system/commands/index/index.command.code.ts
+index 1161fb020952657c5188f03013eae1e2ab7fbcef..7284e9357185ee13604f73c2daa71eac976930e9 100644
+--- a/command-system/commands/index/index.command.code.ts
++++ b/command-system/commands/index/index.command.code.ts
+@@ -19,6 +19,8 @@ const DOMAIN_AT = "akasha.domain.ts"
+ 
+ const SHOWN = 5
+ 
++const PARTED_BY = "/"
++
+ const UNCHANGED = "the index stands as it did, and nothing was put in its place"
+ 
+ const COMMITTING = new Map<string, string>([
