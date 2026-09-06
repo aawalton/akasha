@@ -4,7 +4,7 @@ import { useSingleFlight } from "@akasha/design-primitives/use-single-flight"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
-import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type { InventoryLoggingSettings } from "@akasha/temper-items-core/inventory-logging-types"
 import {
@@ -63,7 +63,7 @@ function isStringBooleanRecord(value: unknown): value is Record<string, boolean>
 
 function useSettingsBlob() {
   const userId = useUserId()
-  const { rows } = usePagesSupabase({
+  const { rows } = usePages({
     pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
     where:
       userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }],

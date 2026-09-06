@@ -7,7 +7,7 @@ import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
-import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type { CharacterBuildMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import type { CharacterVisibility } from "@akasha/temper-character-build/build-types"
@@ -99,7 +99,7 @@ function buildMetadataToJson(meta: CharacterBuildMetadata): Json {
 
 export function useCharacterList() {
   const userId = useUserId()
-  const { rows, isLoading, error } = usePagesSupabase({
+  const { rows, isLoading, error } = usePages({
     pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
     where:
       userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }],
@@ -123,7 +123,7 @@ export function useCharacterList() {
 
 export function useCharacter(buildId: string) {
   const userId = useUserId()
-  const { rows, isLoading, error } = usePagesSupabase({
+  const { rows, isLoading, error } = usePages({
     pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
     where: [{ key: "id", eq: buildId }],
     limit: 1,
@@ -357,14 +357,14 @@ export function useCharacterLifecycle() {
 }
 
 export function useAllCharacterList(userId: string | null) {
-  const userRead = usePagesSupabase({
+  const userRead = usePages({
     pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
     where:
       userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }],
     order: [{ by: "updatedAt", dir: "desc" }],
     limit: 500,
   })
-  const publicRead = usePagesSupabase({
+  const publicRead = usePages({
     pageTypeSlug: CHARACTER_BUILD_PAGE_TYPE_SLUG,
     where: [{ key: "visibility", eq: "public" }],
     order: [{ by: "updatedAt", dir: "desc" }],

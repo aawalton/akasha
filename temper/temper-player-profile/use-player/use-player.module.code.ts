@@ -5,7 +5,7 @@ import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticPatchPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-patch-page"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
-import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type { ProfileMetadata } from "@akasha/temper-build-metadata/build-metadata"
 import { useCallback, useMemo } from "react"
@@ -58,7 +58,7 @@ function mapPlayerRow(row: Record<string, unknown> | undefined): PlayerRow | und
 
 export function usePlayer() {
   const userId = useUserId()
-  const { rows, isLoading } = usePagesSupabase({
+  const { rows, isLoading } = usePages({
     pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
     where:
       userId != null ? [{ key: "title", eq: userId }] : [{ key: "title", eq: NEVER_MATCH_VALUE }],
@@ -123,7 +123,7 @@ export function usePlayer() {
 }
 
 export function usePlayerByUserId(userId: string) {
-  const { rows } = usePagesSupabase({
+  const { rows } = usePages({
     pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
     where: [{ key: "title", eq: userId }],
     limit: 1,

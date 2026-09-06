@@ -112,9 +112,9 @@ const ACT_BY_KIND: Readonly<Record<ClientPageAccessKind, string>> = {
   "pages-access-import":
     "call it from inside a @shared/pages-ui useOptimistic* wrapper, so the write is predicted and reconciled",
   "raw-from-pages":
-    "read pages with usePagesSupabase from @shared/pages-ui, which shares one interned query per options shape",
+    "read pages with usePages from @shared/pages-ui, which shares one interned query per options shape",
   "raw-pages-subscription":
-    "delete this channel and take updates from usePagesSupabase in @shared/pages-ui — a parallel subscription duplicates the realtime traffic and bypasses prediction reconciliation",
+    "delete this channel and take updates from usePages in @shared/pages-ui — a parallel subscription duplicates the realtime traffic and bypasses prediction reconciliation",
 }
 
 function formatFinding(f: ClientPageAccessFinding): string {

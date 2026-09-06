@@ -1,7 +1,7 @@
 "use client"
 
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
-import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { assembleInventory } from "@akasha/temper-items-core/assemble-inventory"
 import type { InventoryDatabase } from "@akasha/temper-items-core/inventory-types"
 import type { PricingData } from "@akasha/temper-trading-pricing/pricing-types"
@@ -36,7 +36,7 @@ function mapSnapshotRow(row: Record<string, unknown>): InventorySnapshotRow {
 }
 
 export function useInventory(userId: string | null) {
-  const snapshotRead = usePagesSupabase({
+  const snapshotRead = usePages({
     pageTypeSlug: INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
     where:
       userId != null
@@ -47,7 +47,7 @@ export function useInventory(userId: string | null) {
   })
   const snapshot = snapshotRead.rows[0] ? mapSnapshotRow(snapshotRead.rows[0]) : null
 
-  const chunksRead = usePagesSupabase({
+  const chunksRead = usePages({
     pageTypeSlug: INVENTORY_CHUNK_PAGE_TYPE_SLUG,
     where: snapshot
       ? [{ key: "inventory", eq: snapshot.id }]

@@ -7,7 +7,7 @@ import { triggerSafeNode } from "@akasha/design-primitives/trigger-safe-node"
 import type { PageCondition, PageWhere } from "@akasha/pages-core/page-types"
 import { expandDateMentions } from "@akasha/pages-core/view/expand-date-mentions"
 import { useNavMutations } from "@akasha/pages-ui/supabase/use-nav-mutations"
-import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { NavCountBadge } from "@akasha/pages-ui-components/nav-count-badge"
 import { parseShowCountBadge } from "@akasha/pages-ui-components/nav-count-badge-decider"
 import { NavItemActions } from "@akasha/pages-ui-components/nav-item-actions"
@@ -52,7 +52,7 @@ export function useAppNavItems({
     if (appSlug != null && appSlug !== "") named.push({ key: "app", eq: appSlug })
     return named.length === 1 ? named : [{ or: named }]
   }, [appId, appSlug])
-  const { rows: liveRows, isLoading } = usePagesSupabase({
+  const { rows: liveRows, isLoading } = usePages({
     pageTypeSlug: NAV_SLUG,
     where: navWhere,
     limit: NAV_ITEM_LIMIT,

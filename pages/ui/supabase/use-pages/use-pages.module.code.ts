@@ -22,6 +22,6 @@ export interface UsePagesSupabaseResult {
   totalCount: number | null
 }
 
-export function usePagesSupabase(options: UsePagesSupabaseOptions): UsePagesSupabaseResult {
+export function usePages(options: UsePagesSupabaseOptions): UsePagesSupabaseResult {
   return useQuery(options)
 }

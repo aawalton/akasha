@@ -6,7 +6,7 @@ import { PageLayout, PageLayoutSkeleton, PageTitle } from "@akasha/design-layout
 import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
 import { surfaceClass } from "@akasha/design-primitives/surface-class"
 import { reportError } from "@akasha/errors-client/error-reporting"
-import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { ViewPageContent } from "@akasha/pages-ui-components/view-page-content"
 import { buildPageHrefParam } from "@akasha/pages-url/page-href"
 import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
@@ -36,7 +36,7 @@ export function homeUnresolvedBecause(args: {
 }
 
 export default function CapacitorHome() {
-  const { rows, isLoading, isDegraded, error } = usePagesSupabase({
+  const { rows, isLoading, isDegraded, error } = usePages({
     pageTypeSlug: NAV_SLUG,
     where: [
       {

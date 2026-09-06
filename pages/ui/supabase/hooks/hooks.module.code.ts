@@ -14,7 +14,7 @@ import {
   toPageWithProperties,
 } from "@akasha/pages-ui/supabase/page-with-properties"
 import { getRelatedPagesByIdCoalesced } from "@akasha/pages-ui/supabase/related-pages-coalesce"
-import { type UsePagesSupabaseOptions, usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { type UsePagesSupabaseOptions, usePages } from "@akasha/pages-ui/supabase/use-pages"
 import {
   createIdSuffixPipeline,
   type IdSuffixResult,
@@ -80,7 +80,7 @@ export function useAllPages({ pageTypeSlug }: { pageTypeSlug: string }): {
   isDegraded: boolean
   error: Error | null
 } {
-  const result = usePagesSupabase({ pageTypeSlug })
+  const result = usePages({ pageTypeSlug })
   const { error, hasMore, isDegraded, isLoading, loadMore } = result
   useEffect(() => {
     if (hasMore && !isLoading) loadMore()
@@ -175,7 +175,7 @@ export function useViewsForNavItem({
     }),
     [where]
   )
-  const result = usePagesSupabase(options)
+  const result = usePages(options)
   const views = useMemo(
     () => (asked != null ? result.rows.map((r) => toPageWithProperties(r)) : []),
     [result.rows, asked]

@@ -3,7 +3,7 @@
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
-import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import { getCompanionIdByDefId } from "@akasha/temper-companions-core/companions"
 import type {
@@ -58,7 +58,7 @@ export function useTemperImport() {
   const userWhere =
     userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }]
 
-  const { rows: existingCharacterRows } = usePagesSupabase({
+  const { rows: existingCharacterRows } = usePages({
     pageTypeSlug: "temper-account-character",
     where: userWhere,
     limit: 1000,
@@ -68,7 +68,7 @@ export function useTemperImport() {
     existingRowsRef.current = existingCharacterRows
   }, [existingCharacterRows])
 
-  const { rows: existingAccountRows } = usePagesSupabase({
+  const { rows: existingAccountRows } = usePages({
     pageTypeSlug: "temper-account",
     where: userWhere,
     limit: 1,
@@ -78,7 +78,7 @@ export function useTemperImport() {
     existingAccountRef.current = existingAccountRows
   }, [existingAccountRows])
 
-  const { rows: existingCompanionRows } = usePagesSupabase({
+  const { rows: existingCompanionRows } = usePages({
     pageTypeSlug: "temper-companion-progress",
     where: userWhere,
     limit: 1000,

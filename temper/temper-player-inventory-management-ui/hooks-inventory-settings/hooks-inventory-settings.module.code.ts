@@ -5,7 +5,7 @@ import { deletePages } from "@akasha/pages-access/delete"
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
 import { upsertPage, upsertPages } from "@akasha/pages-access/upsert"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
-import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type {
   AutomationSettings,
@@ -56,7 +56,7 @@ function asJson(value: SettingsBlob): Json {
 
 function useSettingsBlob() {
   const userId = useUserId()
-  const { rows } = usePagesSupabase({
+  const { rows } = usePages({
     pageTypeSlug: PLAYER_PAGE_TYPE_SLUG,
     where:
       userId != null ? [{ key: "title", eq: userId }] : [{ key: "title", eq: NEVER_MATCH_VALUE }],
@@ -130,7 +130,7 @@ export function useManagedGuildBanks() {
 
 export function useInventorySettings() {
   const { settings, userId } = useSettingsBlob()
-  const { rows } = usePagesSupabase({
+  const { rows } = usePages({
     pageTypeSlug: RULE_PAGE_TYPE_SLUG,
     where:
       userId != null

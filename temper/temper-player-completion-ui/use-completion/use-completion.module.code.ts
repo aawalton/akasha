@@ -1,7 +1,7 @@
 "use client"
 
 import { NEVER_MATCH_VALUE } from "@akasha/pages-access/sentinels"
-import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { useUserId } from "@akasha/pages-ui/use-user-id"
 import type {
   AccountCompletion,
@@ -156,7 +156,7 @@ export function useCompletionCharactersByUser(userId: string | null) {
 }
 
 function useCompletionCharactersByUserInternal(userId: string | null) {
-  const { rows, isLoading, isDegraded, error } = usePagesSupabase({
+  const { rows, isLoading, isDegraded, error } = usePages({
     pageTypeSlug: CHARACTER_PAGE_TYPE_SLUG,
     where:
       userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }],
@@ -189,7 +189,7 @@ export function useCompletionCompanionsByUser(userId: string) {
 }
 
 function useCompletionCompanionsByUserInternal(userId: string | null) {
-  const { rows, isLoading, error } = usePagesSupabase({
+  const { rows, isLoading, error } = usePages({
     pageTypeSlug: COMPANION_PAGE_TYPE_SLUG,
     where:
       userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }],
@@ -221,7 +221,7 @@ export function useAccountCompletionByUser(userId: string) {
 }
 
 function useAccountCompletionByUserInternal(userId: string | null) {
-  const { rows, isLoading, error } = usePagesSupabase({
+  const { rows, isLoading, error } = usePages({
     pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG,
     where:
       userId != null ? [{ key: "userId", eq: userId }] : [{ key: "userId", eq: NEVER_MATCH_VALUE }],

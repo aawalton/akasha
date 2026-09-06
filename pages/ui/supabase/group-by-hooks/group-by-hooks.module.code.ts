@@ -16,7 +16,7 @@ import {
   type PageWithProperties,
   toPageWithProperties,
 } from "@akasha/pages-ui/supabase/page-with-properties"
-import { type UsePagesSupabaseOptions, usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { type UsePagesSupabaseOptions, usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { viewFilterToCondition } from "@akasha/pages-ui/supabase/view-filter-to-condition"
 import { useMemo } from "react"
 
@@ -91,7 +91,7 @@ export function useGroupByPaginatedQuery(args: GroupByArgs): GroupByResult {
     [pageTypeSlug, where, order, pageSize]
   )
 
-  const result = usePagesSupabase(options)
+  const result = usePages(options)
 
   const filteredRows = useMemo(
     () =>

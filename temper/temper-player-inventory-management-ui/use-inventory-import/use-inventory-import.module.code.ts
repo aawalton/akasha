@@ -7,7 +7,7 @@ import { upsertPage } from "@akasha/pages-access/upsert"
 import { useOptimisticCreatePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-create-page"
 import { useOptimisticDeletePage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-delete-page"
 import { useOptimisticUpsertPage } from "@akasha/pages-ui/supabase/mutations/use-optimistic-upsert-page"
-import { usePagesSupabase } from "@akasha/pages-ui/supabase/use-pages"
+import { usePages } from "@akasha/pages-ui/supabase/use-pages"
 import { parseInventoryContent } from "@akasha/temper-items-core/inventory-parser"
 import { computeInventoryTotalValue } from "@akasha/temper-items-core/inventory-value"
 import {
@@ -52,7 +52,7 @@ export function useInventoryImport(userId: string | null) {
   const [dragOver, setDragOver] = useState(false)
   const inputRef = useRef<HTMLInputElement>(null)
 
-  const { rows: snapshotRows } = usePagesSupabase({
+  const { rows: snapshotRows } = usePages({
     pageTypeSlug: INVENTORY_SNAPSHOT_PAGE_TYPE_SLUG,
     where:
       userId != null
@@ -67,7 +67,7 @@ export function useInventoryImport(userId: string | null) {
     snapshotRowsRef.current = snapshotRows
   }, [snapshotRows])
 
-  const { rows: chunkRows } = usePagesSupabase({
+  const { rows: chunkRows } = usePages({
     pageTypeSlug: INVENTORY_CHUNK_PAGE_TYPE_SLUG,
     where:
       userId != null
