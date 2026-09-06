@@ -1,5 +1,5 @@
 diff --git a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
-index 48393ee6cdeb107303c200ac9681b2c347fa390d..bebccf33884420f4117f51b720a2c4a8e406e737 100644
+index 48393ee6cdeb107303c200ac9681b2c347fa390d..1d4257e81a16631112786cfe6e4c57a9cd1673a1 100644
 --- a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
 +++ b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.code.ts
 @@ -1,4 +1,4 @@
@@ -8,3 +8,12 @@ index 48393ee6cdeb107303c200ac9681b2c347fa390d..bebccf33884420f4117f51b720a2c4a8
  import { ranAsHook } from "../../hook-answer/hook-answer.module.code.ts"
  import { shownIn } from "../../path-showing/path-showing.module.code.ts"
  import { insideOf, settled } from "../../settling/settling.module.code.ts"
+@@ -7,6 +7,8 @@ const HOOK = "block-akasha-reads"
+ 
+ const FILE_PATH = "file_path"
+ 
++const DATA_AT = ".git/data"
++
+ export const SCOPE: readonly string[] = [
+   "block-akasha-reads refuses a Read landing anywhere inside this checkout, and stands aside",
+   "everywhere else.",
