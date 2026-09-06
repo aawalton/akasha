@@ -3679,16 +3679,17 @@ index 1f904a4d107c516e49daf3f9691f1e52bd1674b9..00000000000000000000000000000000
 -} as const satisfies NumberProperty
 diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-mastery-level-slug.relation-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-mastery-level-slug.relation-property.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..9a3a5655457aa117b610d991b6a66ca94f719e5e
+index 0000000000000000000000000000000000000000..f4775ac9408be77898fdd3d9de78c5cf60cec798
 --- /dev/null
 +++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-mastery-level-slug.relation-property.ts
-@@ -0,0 +1,18 @@
+@@ -0,0 +1,19 @@
 +import type { Slug } from "@akasha/pages/page/slug"
 +import type { RelationProperty } from "@akasha/pages/relation-property"
 +
 +export type TopicMasteryLevelSlug = Slug
 +
 +export const topicMasteryLevelSlug = {
++  id: "01a0784a-cdb7-7780-bc90-9d5f5a5cc720",
 +  pageTypeSlug: "relation-property",
 +  slug: "topic-mastery-level-slug",
 +  propertySlug: "mastery-level-slug",
