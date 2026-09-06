@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
-index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..c109d2b3acb7b36519e845fe6c4a7198c1e4ab20 100644
+index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..802bb36f1b461546c5c5be93b5d69ea121f7b4fc 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
 @@ -9,7 +9,8 @@ export const treeDrawing = {
@@ -22,7 +22,12 @@ index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..c109d2b3acb7b36519e845fe6c4a7198
      },
      {
        invariantKind: "departure",
-@@ -29,15 +30,16 @@ export const treeDrawing = {
+@@ -25,19 +26,20 @@ export const treeDrawing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A domains row carries its champion, which the panel makes the row's description.",
++      statement: "A domains row carries its champion as the description the panel draws.",
      },
      {
        invariantKind: "departure",
