@@ -147,3 +147,26 @@ index 81b59ea81894a7a863b80217070c817fea32f31b..ba9aa3eae567e57fd72e678d013e3187
 +    expect(flagValues(["--resource", "r"], "--label")).toEqual([])
 +  })
 +})
+diff --git a/service-system/secrets/secret-saying/secret-saying.module.ts b/service-system/secrets/secret-saying/secret-saying.module.ts
+index fa87d69301ec5561f37c008e6f8fcff265e13c17..dc35bf26a8ed0f23b7296b9789de34caeb538906 100644
+--- a/service-system/secrets/secret-saying/secret-saying.module.ts
++++ b/service-system/secrets/secret-saying/secret-saying.module.ts
+@@ -32,6 +32,18 @@ export const secretSaying = {
+       invariantKind: "constraint",
+       statement: "The type a Secret is on the cluster cannot be changed once that Secret is there.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A resource's labels are said as given, and no labels key at all where none is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A label is written as a name and a value with the first `=` between them.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An entry that is no such pair is refused rather than passed over.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Two pages placing a value in one resource at one key are refused here too.",
