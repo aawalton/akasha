@@ -1,9 +1,9 @@
 writerOwesReading: false
 diff --git a/alan/self/identity-statements/identity-statement.page-type.ts b/alan/self/identity-statements/identity-statement.page-type.ts
-index 8385b14222ab405ac920aa0240a6a995c3d0dd81..fac2cc90d2845f958d98094d6bf9f3e4e3e61a43 100644
+index 8385b14222ab405ac920aa0240a6a995c3d0dd81..56a57f5e1cd030963f9298793814cd75594928a8 100644
 --- a/alan/self/identity-statements/identity-statement.page-type.ts
 +++ b/alan/self/identity-statements/identity-statement.page-type.ts
-@@ -93,7 +93,7 @@ export const identityStatement = {
+@@ -93,12 +93,12 @@ export const identityStatement = {
      {
        invariantKind: "departure",
        statement:
@@ -12,3 +12,9 @@ index 8385b14222ab405ac920aa0240a6a995c3d0dd81..fac2cc90d2845f958d98094d6bf9f3e4
      },
      {
        invariantKind: "departure",
+       statement:
+-        "A superseding statement names the superseded one, and the superseded one names the superseding one.",
++        "A supersession is stated on the superseding statement and on the superseded statement.",
+     },
+   ],
+ } as const satisfies PageType
