@@ -60,3 +60,19 @@ index 972322e181ec671350764909d56dca6bcf92250f..efb079fa888ca167b33e2032bb92b0e2
  })
  
  test("a body that is not text refuses rather than being passed over", () => {
+diff --git a/checks/code-checks/pages/no-class/no-class.code-check.ts b/checks/code-checks/pages/no-class/no-class.code-check.ts
+index 313e2ccafc45a6a2114b319f877ca0a630e2ba13..bfeea1faa8a26bd809760d9300160ee1e0ab2894 100644
+--- a/checks/code-checks/pages/no-class/no-class.code-check.ts
++++ b/checks/code-checks/pages/no-class/no-class.code-check.ts
+@@ -25,6 +25,11 @@ export const noClass = {
+       invariantKind: "departure",
+       statement: "A class extending a bare `Component` is let through on the same terms.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A class a type declaration holds is let through, nothing there being compiled into what runs.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
