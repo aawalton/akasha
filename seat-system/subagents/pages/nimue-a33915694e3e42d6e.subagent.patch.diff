@@ -1,3 +1,33 @@
+diff --git a/agents/claude-accounts/claude-account.page-type.ts b/agents/claude-accounts/claude-account.page-type.ts
+index 0f8b731541780d011dd9f53b9785ede7aa14b580..3a361bda56e27a8b383d73edc8827e017340e673 100644
+--- a/agents/claude-accounts/claude-account.page-type.ts
++++ b/agents/claude-accounts/claude-account.page-type.ts
+@@ -60,8 +60,8 @@ export const claudeAccount = {
+   partSlugs: [
+     "command/claude-account-add",
+     "command/claude-account-re-enable",
+-    "computed-property/effective-five-hour-percent-used",
+-    "computed-property/effective-seven-day-percent-used",
++    "computed-property/effective-five-hour-usage",
++    "computed-property/effective-seven-day-usage",
+     "email-address-property/email",
+     "instant-property/access-token-expires-at",
+     "instant-property/five-hour-resets-at",
+@@ -202,12 +202,12 @@ export const claudeAccount = {
+       uncommitted: true,
+     },
+     {
+-      pagePropertySlug: "computed-property/effective-five-hour-percent-used",
++      pagePropertySlug: "computed-property/effective-five-hour-usage",
+       required: false,
+       many: false,
+     },
+     {
+-      pagePropertySlug: "computed-property/effective-seven-day-percent-used",
++      pagePropertySlug: "computed-property/effective-seven-day-usage",
+       required: false,
+       many: false,
+     },
 diff --git a/agents/claude-accounts/properties/effective-five-hour-percent-used.computed-property.code.ts b/agents/claude-accounts/properties/effective-five-hour-percent-used.computed-property.code.ts
 deleted file mode 100644
 index 12c0a2a52e837073cee1fc2006d1e5fd296fe89b..0000000000000000000000000000000000000000
