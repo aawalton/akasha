@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-catalog-addon/catalog-invalidations/catalog-invalidations.module.ts b/temper/temper-catalog-addon/catalog-invalidations/catalog-invalidations.module.ts
+index efa3ef616bf6532c74c600bdc122eb876137390b..95696947a2dff9bc41befc2abda20bd067462889 100644
+--- a/temper/temper-catalog-addon/catalog-invalidations/catalog-invalidations.module.ts
++++ b/temper/temper-catalog-addon/catalog-invalidations/catalog-invalidations.module.ts
+@@ -9,7 +9,7 @@ export const catalogInvalidations = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A request no newer than the last one seen changes nothing.",
++      statement: "A request no newer than the last request seen changes nothing.",
+     },
+     {
+       invariantKind: "departure",
