@@ -15,8 +15,11 @@ export const coachingContext = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A constraint tagged with a focus binds that focus, and one tagged with all binds every focus.",
+      statement: "A constraint tagged with a focus binds that focus.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A constraint tagged with all binds every focus.",
     },
     {
       invariantKind: "departure",
@@ -33,12 +36,15 @@ export const coachingContext = {
     {
       invariantKind: "gap",
       statement:
-        "A piece of kit's kind, its setup and its load are no page properties of that kit yet.",
+        "A piece of kit's kind and its setup and its load are no page properties of that kit yet.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "No equipment item page exists, so nothing states the kit a session is loaded with.",
+      statement: "No equipment item page exists.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Nothing states the kit a session is loaded with.",
     },
   ],
 } as const satisfies Module
