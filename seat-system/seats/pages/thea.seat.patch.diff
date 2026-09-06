@@ -76,6 +76,19 @@ index beaf932954e05eea67fa84bb791840b100583455..0277653fad21c79b563a41789dd3e422
    pageTypeSlug: "module",
    slug: "images",
    definition: "the container images a step may run, and the tools each one carries",
+diff --git a/changes/workflow-language/inputs-hash/inputs-hash.module.ts b/changes/workflow-language/inputs-hash/inputs-hash.module.ts
+index b9cd82e569760b201a5cb61501c02e60b16b1cef..96c808b7ff340139d86558eccc32fbafdffae0e6 100644
+--- a/changes/workflow-language/inputs-hash/inputs-hash.module.ts
++++ b/changes/workflow-language/inputs-hash/inputs-hash.module.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "../../../code-system/modules/module.page-type.ts"
+ 
+ export const inputsHash = {
+-  id: "01a06f10-7000-7006-b0006-9d4a2f6c0006e1",
++  id: "01a07740-d031-75fd-8c46-8bdcc92c5a1b",
+   pageTypeSlug: "module",
+   slug: "inputs-hash",
+   definition: "a hash over a set of repository files, and the errors an unreadable set raises",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
