@@ -17,10 +17,15 @@ const counted = async () => ({ taps: 4, at: AT })
 
 const uncounted = async () => null
 
+// THE ORIGIN IS SET ON THE HEADERS RATHER THAN IN THE INIT. This workspace preloads happy-dom,
+// whose `Request` drops `Origin` the way a browser does, and the whole cross-origin answer turns
+// on that one header.
 function asked(body: unknown): Request {
+  const headers = new Headers([["Content-Type", "application/json"]])
+  headers.set("Origin", CAPACITOR)
   return new Request("https://alanwalton.com/api/widget-tap", {
     method: "POST",
-    headers: { "Content-Type": "application/json", Origin: CAPACITOR },
+    headers,
     body: JSON.stringify(body),
   })
 }
