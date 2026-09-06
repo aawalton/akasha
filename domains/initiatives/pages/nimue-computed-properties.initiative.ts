@@ -21,7 +21,7 @@ export const nimueComputedProperties = {
       statement:
         "A check refuses a calculation reaching outside its shape or answering twice over.",
       workingMemory:
-        "`calculation-imports-only-types` is landed and judging at every phase. It refuses a value import in a computed property's code file, which typecheck passes and which fails only at query time. Proved by a seeded import that resolves: one refusal, typecheck silent. Left here: that the one export is named `work`, which `workIn` already states so a second statement would be one rule in two files, and that `holds` agrees with the return type.",
+        "`calculation-imports-only-types` is landed and judging at patch alone. It refuses a value import in a computed property's code file, which typecheck passes and which fails only at query time. Proved by a seeded import that resolves: one refusal, typecheck silent. Left here: that the one export is named `work`, which `workIn` already states so a second statement would be one rule in two files, and that `holds` agrees with the return type.",
     },
   ],
   constraints: [
