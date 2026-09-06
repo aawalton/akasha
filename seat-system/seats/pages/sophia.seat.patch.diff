@@ -1,0 +1,30 @@
+diff --git a/command-system/commands/refactor/refactor.command.code.ts b/command-system/commands/refactor/refactor.command.code.ts
+index b8ead3fea0bfb19c134472c5cf61289767a8fcd6..daea1899840825615559e4f033c6807859ea69a3 100644
+--- a/command-system/commands/refactor/refactor.command.code.ts
++++ b/command-system/commands/refactor/refactor.command.code.ts
+@@ -19,7 +19,7 @@ import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
+ import type { FileCarry, FileEdit } from "../../landing/landing.module.code.ts"
+ import { baseOf } from "../../landing/landing.module.code.ts"
+ import type { Carry as Reading } from "../../reading/reading.module.code.ts"
+-import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
++import { blobIdOf } from "../../reading/reading.module.code.ts"
+ import { glassIn, messageIn } from "../write/write.command.code.ts"
+ import {
+   AT,
+@@ -230,14 +230,12 @@ export async function landed(
+     unmoved: [],
+     read: base,
+     carries: moving,
++    readings,
+     saying: () => saying(one, carries, repointing, pages, left, false),
+     draft: given.agentId !== null,
+   }
+   const landing = await landingAsked({ ...given, root }, asked)
+-  if (!dryRun) {
+-    if (landing.code === 0) carryReadings(root, readings)
+-    return landing
+-  }
++  if (!dryRun) return landing
+   return answering(
+     [...saying(one, carries, repointing, pages, left, true), ...landing.report],
+     landing.refusals,
