@@ -1,13 +1,17 @@
 diff --git a/changes/kinds/change-kind.page-type.ts b/changes/kinds/change-kind.page-type.ts
-index 96abc5b66d82ca1755561248316d00d50d172174..5a17fb701e33e6ec35c854849a51ad954cd9350b 100644
+index 96abc5b66d82ca1755561248316d00d50d172174..5ea3e41c4f2759b392df244e15b4ca58577ccf09 100644
 --- a/changes/kinds/change-kind.page-type.ts
 +++ b/changes/kinds/change-kind.page-type.ts
-@@ -36,11 +36,11 @@ export const changeKind = {
+@@ -36,11 +36,15 @@ export const changeKind = {
      {
        invariantKind: "departure",
        statement:
 -        "Whether the checks and the warrants run on a change of a kind is read off that kind's page.",
++<<<<<<< what this change would leave
 +        "Whether the checks run and what a change of a kind asks is read off that kind's page.",
++=======
++        "Whether the checks run and what the writer owes are read off the change kind's page.",
++>>>>>>> what HEAD holds
      },
      {
        invariantKind: "departure",
