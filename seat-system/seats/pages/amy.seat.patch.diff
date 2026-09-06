@@ -1,3 +1,16 @@
+diff --git a/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts b/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
+index 34c8a1017120579d369841b05dc48b1224372755..0fb6f4e8eded4dabd16458e4fbdadc16efbe0bd4 100644
+--- a/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
++++ b/command-system/commands/deploy/web-putting-up/deploy-web-putting-up.module.code.ts
+@@ -142,7 +142,7 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean):
+   // package that pod runs from, so a manifest moving that package rolls out a pod with no build to
+   // start on, and the apply waits on a rollout only this build could have finished.
+   if (target !== null && !isBuilt) {
+-    const built = buildInPod(target, sha, resolved)
++    const built = buildInPod(target, sha, resolved, !differs && up)
+     for (const one of built.ran) {
+       report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
+     }
 diff --git a/service-system/cluster-services/web-app-building/web-app-building.module.code.ts b/service-system/cluster-services/web-app-building/web-app-building.module.code.ts
 index 41166242696de3b393cbb8e87392c87003bc41b5..10e3870f2402bd8ffbd596159c85b3dcaa0532a7 100644
 --- a/service-system/cluster-services/web-app-building/web-app-building.module.code.ts
