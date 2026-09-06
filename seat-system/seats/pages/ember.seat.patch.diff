@@ -1,0 +1,19 @@
+diff --git a/temper/temper-character/account-characters/properties/character-roles.relation-property.ts b/temper/temper-character/account-characters/properties/character-roles.relation-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..457449098164251302f56f922bdb813931c299f8
+--- /dev/null
++++ b/temper/temper-character/account-characters/properties/character-roles.relation-property.ts
+@@ -0,0 +1,13 @@
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
++
++export type CharacterRoles = Slug
++
++export const characterRoles = {
++  id: "01a076c2-ee95-7043-8326-ee288ac93a97",
++  pageTypeSlug: "relation-property",
++  slug: "character-roles",
++  propertySlug: "roles",
++  definition: "a part a character is planned to play",
++  targetPageTypeSlug: "page-type/temper-character-role",
++} as const satisfies RelationProperty
