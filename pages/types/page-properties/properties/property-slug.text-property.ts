@@ -26,7 +26,7 @@ export const propertySlug = {
     },
     {
       invariantKind: "departure",
-      statement: "The key a page carries is this written in camel.",
+      statement: "The key a page carries is this slug written in camel.",
     },
     {
       invariantKind: "departure",
