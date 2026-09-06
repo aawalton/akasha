@@ -1,6 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { pageFiled } from "@akasha/indexes/testing"
+import { pageFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { namedUnder } from "@akasha/pages/page-file-name"
 import { shadowAt, shadowFor } from "@akasha/pages/shadow"
@@ -78,6 +78,17 @@ function rooted(): string {
     pathFor("record-property", "properties"),
     body("record-property", "properties", RECORD, ["page-property-slug"])
   )
+  valueAlsoFiled(root, "record-property", [
+    {
+      path: pathFor("record-property", "properties"),
+      value: {
+        id: RECORD,
+        pageTypeSlug: "record-property",
+        slug: "properties",
+        properties: [{ pagePropertySlug: "page-property-slug" }],
+      },
+    },
+  ])
   return root
 }
 
