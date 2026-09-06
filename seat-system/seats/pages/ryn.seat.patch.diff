@@ -1,0 +1,13 @@
+diff --git a/changes/partial/pages/repoint-imports/repoint-imports.change-partial.ts b/changes/partial/pages/repoint-imports/repoint-imports.change-partial.ts
+index bbfe61026dc8e5ef10056b9c7f76a1ab83259d67..9cd25a554d13e46f2277d9ea8cfa6eb5c45f0f9e 100644
+--- a/changes/partial/pages/repoint-imports/repoint-imports.change-partial.ts
++++ b/changes/partial/pages/repoint-imports/repoint-imports.change-partial.ts
+@@ -28,7 +28,7 @@ export const repointImports = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A name that is no module specifier is read against the folder of the body naming it.",
++        "A name that is no module specifier is read against the folder of the body naming that name.",
+     },
+     {
+       invariantKind: "absence",
