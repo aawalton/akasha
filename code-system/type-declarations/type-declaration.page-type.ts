@@ -39,7 +39,7 @@ export const typeDeclaration = {
     },
     {
       invariantKind: "departure",
-      statement: "No declaration file is written beside a module.",
+      statement: "No file ending `.d.ts` is written beside a module.",
     },
   ],
 } as const satisfies PageType
