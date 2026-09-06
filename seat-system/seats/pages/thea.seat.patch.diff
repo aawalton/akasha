@@ -590,6 +590,17 @@ index 9b3ac3dca449c66b2dd79cf5efbfdafcf2439692..e168e9717e6bbce045c0c70cb6439fd0
 +  maxLength: 100,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/chess/chess-puzzle-sets/properties/game-url.url-property.ts b/alan/chess/chess-puzzle-sets/properties/game-url.url-property.ts
+index b0a39398933d1702463b5d5c6e974d0e4f1c20d8..4c67fbf18385e17de970572e7ec24c21192c8f7b 100644
+--- a/alan/chess/chess-puzzle-sets/properties/game-url.url-property.ts
++++ b/alan/chess/chess-puzzle-sets/properties/game-url.url-property.ts
+@@ -8,5 +8,5 @@ export const gameUrl = {
+   slug: "game-url",
+   propertySlug: "game-url",
+   definition: "the game a puzzle was taken from",
+-  max: 200,
++  maxLength: 200,
+ } as const satisfies UrlProperty
 diff --git a/alan/chess/chess-puzzle-sets/properties/opening-tags.text-property.ts b/alan/chess/chess-puzzle-sets/properties/opening-tags.text-property.ts
 index ee1015129f8590dfb794143e4c459c043be1d771..9dd7bc32c7f8f7e9fe9b051fbb26e72aa31010c1 100644
 --- a/alan/chess/chess-puzzle-sets/properties/opening-tags.text-property.ts
@@ -698,6 +709,39 @@ index e3cb5cba2a0519e24cefffd459f60f3978836d5a..1887b4d4c81d1c5dd58f7a49043ac8e0
 +  maxLength: 100,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/fitness/exercises/properties/exercise-external-link.url-property.ts b/alan/fitness/exercises/properties/exercise-external-link.url-property.ts
+index 8837576eb92dca9261911691eb80309bb2572cc4..064f2d8caf227b6b4137ea6b991a34dee638ba32 100644
+--- a/alan/fitness/exercises/properties/exercise-external-link.url-property.ts
++++ b/alan/fitness/exercises/properties/exercise-external-link.url-property.ts
+@@ -8,5 +8,5 @@ export const exerciseExternalLink = {
+   slug: "exercise-external-link",
+   propertySlug: "exercise-external-link",
+   definition: "where the movement is described in the catalogue it came from",
+-  max: 200,
++  maxLength: 200,
+ } as const satisfies UrlProperty
+diff --git a/alan/fitness/exercises/properties/image-end-url.url-property.ts b/alan/fitness/exercises/properties/image-end-url.url-property.ts
+index 208d3b92a73f4041f8325661679e59957ababc65..ab2426ed106c641882a3546d28c8e375f6e5a3f4 100644
+--- a/alan/fitness/exercises/properties/image-end-url.url-property.ts
++++ b/alan/fitness/exercises/properties/image-end-url.url-property.ts
+@@ -8,5 +8,5 @@ export const imageEndUrl = {
+   slug: "image-end-url",
+   propertySlug: "image-end-url",
+   definition: "a picture of the movement at its finish",
+-  max: 200,
++  maxLength: 200,
+ } as const satisfies UrlProperty
+diff --git a/alan/fitness/exercises/properties/image-start-url.url-property.ts b/alan/fitness/exercises/properties/image-start-url.url-property.ts
+index f241cc131df677a40a2be4cd25d8070f9a5a62ad..2ecc3f035007e2ec0bcdc60118951d1c1b02c395 100644
+--- a/alan/fitness/exercises/properties/image-start-url.url-property.ts
++++ b/alan/fitness/exercises/properties/image-start-url.url-property.ts
+@@ -8,5 +8,5 @@ export const imageStartUrl = {
+   slug: "image-start-url",
+   propertySlug: "image-start-url",
+   definition: "a picture of the movement at its start",
+-  max: 200,
++  maxLength: 200,
+ } as const satisfies UrlProperty
 diff --git a/alan/fitness/mobility-readings/properties/mobility-reading-value-text.text-property.ts b/alan/fitness/mobility-readings/properties/mobility-reading-value-text.text-property.ts
 index 640bd6c6d8c83511c362102950c557ac46153ac7..cd0ada3c3b2422c34859568b98198c1070268f0c 100644
 --- a/alan/fitness/mobility-readings/properties/mobility-reading-value-text.text-property.ts
@@ -746,6 +790,17 @@ index 9f067d7061085e67b781a7802ff87f7728efdfde..4d398843e22c55d2ca42c55389b02bef
 +  maxLength: 1000,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts
+index 21d65a473cf097bdf16b49d2ab15763e4708bb11..84f3032010951dc4346ce8b21c7460f51f5f4d62 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-base-url.url-property.ts
+@@ -8,5 +8,5 @@ export const calendarSourceBaseUrl = {
+   slug: "calendar-source-base-url",
+   propertySlug: "base-url",
+   definition: "the address a source's own pages sit under",
+-  max: 200,
++  maxLength: 200,
+ } as const satisfies UrlProperty
 diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-color.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-color.text-property.ts
 index f0a3a1299d273d871dc2ec233fc47c318b43e5d3..2b46f698c6717427df7e80a7c6569bd7163b2507 100644
 --- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-color.text-property.ts
@@ -782,6 +837,17 @@ index 7ec5c6adf40d3bc5cf86baaabf8e24058bb948f8..3b3f4fe28332d6043050b99709ca7df5
 +  maxLength: 400,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-feed-url.url-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-feed-url.url-property.ts
+index 509e38627eb6da3db8259dac2c3a90edcc892ec5..8db46b52d975e5b20186a5756d11d36e04f8cdfa 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-feed-url.url-property.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-feed-url.url-property.ts
+@@ -8,5 +8,5 @@ export const calendarSourceFeedUrl = {
+   slug: "calendar-source-feed-url",
+   propertySlug: "feed-url",
+   definition: "the address a source publishes its events at",
+-  max: 400,
++  maxLength: 400,
+ } as const satisfies UrlProperty
 diff --git a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-kind.text-property.ts b/alan/harness/calendar/calendar-event-sources/properties/calendar-source-kind.text-property.ts
 index ae884b30946473f9868eff7e698bae1ce850f5ea..2df31ccaeb4140880486dfdacfc963c326615b8a 100644
 --- a/alan/harness/calendar/calendar-event-sources/properties/calendar-source-kind.text-property.ts
@@ -866,6 +932,28 @@ index fe147eb06d314a78d82437e416e843c4a8c2cc09..4269d55039d8d258e0025c69f160c91e
 +  maxLength: 400,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-external-link.url-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-external-link.url-property.ts
+index 576b8b33038aabc4dda04625fa1b718944570a5c..e84b0c5b6c867778fb5c492fed78f305b3f8f64d 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-external-link.url-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-external-link.url-property.ts
+@@ -8,5 +8,5 @@ export const calendarEventExternalLink = {
+   slug: "calendar-event-external-link",
+   propertySlug: "external-link",
+   definition: "the address an event is at on its source",
+-  max: 200,
++  maxLength: 200,
+ } as const satisfies UrlProperty
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-image-url.url-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-image-url.url-property.ts
+index 97e9cffdfa6f68bc7f6e63a6945548fec84020c3..67729fcf99842e12bb96837eb44312776c24fa63 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-image-url.url-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-image-url.url-property.ts
+@@ -8,5 +8,5 @@ export const calendarEventImageUrl = {
+   slug: "calendar-event-image-url",
+   propertySlug: "image-url",
+   definition: "the picture a source shows an event under",
+-  max: 200,
++  maxLength: 200,
+ } as const satisfies UrlProperty
 diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-location.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-location.text-property.ts
 index ae13144a1c38e31b771f5702d84a58f6c88d80d1..cf0ea522c386a86de2b637451501001c37e9f59f 100644
 --- a/alan/harness/calendar/calendar-events/properties/calendar-event-location.text-property.ts
@@ -878,6 +966,17 @@ index ae13144a1c38e31b771f5702d84a58f6c88d80d1..cf0ea522c386a86de2b637451501001c
 +  maxLength: 400,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-registration-url.url-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-registration-url.url-property.ts
+index 6ce5099d2a53edcaf996c8dc55c1e24d5b028b12..372b6061144a3a4c6572baeac466c5953f63e138 100644
+--- a/alan/harness/calendar/calendar-events/properties/calendar-event-registration-url.url-property.ts
++++ b/alan/harness/calendar/calendar-events/properties/calendar-event-registration-url.url-property.ts
+@@ -8,5 +8,5 @@ export const calendarEventRegistrationUrl = {
+   slug: "calendar-event-registration-url",
+   propertySlug: "registration-url",
+   definition: "the address a place at an event is taken at",
+-  max: 200,
++  maxLength: 200,
+ } as const satisfies UrlProperty
 diff --git a/alan/harness/calendar/calendar-events/properties/calendar-event-tags.text-property.ts b/alan/harness/calendar/calendar-events/properties/calendar-event-tags.text-property.ts
 index 1864f3a70cf4946a0bc07c57f986014b1939d517..1c264d86257afa249d8f2e7cca31e2cba0120ca8 100644
 --- a/alan/harness/calendar/calendar-events/properties/calendar-event-tags.text-property.ts
@@ -1512,6 +1611,17 @@ index 63e04d67ff8e5934c686323cf644c69a73da4b11..fd900edc9e062e306f8d0d59d6e0b04a
 +  maxLength: 20,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/relating/relationships/properties/relationship-linkedin-url.url-property.ts b/alan/relating/relationships/properties/relationship-linkedin-url.url-property.ts
+index c2164577bb5c4495b25aa896daac80ba7f33f5ba..9d24b37e753bb87dcadc3c9daa114c8365484960 100644
+--- a/alan/relating/relationships/properties/relationship-linkedin-url.url-property.ts
++++ b/alan/relating/relationships/properties/relationship-linkedin-url.url-property.ts
+@@ -8,5 +8,5 @@ export const relationshipLinkedinUrl = {
+   slug: "relationship-linkedin-url",
+   propertySlug: "relationship-linkedin-url",
+   definition: "this person's LinkedIn page",
+-  max: 100,
++  maxLength: 100,
+ } as const satisfies UrlProperty
 diff --git a/alan/relating/relationships/properties/relationship-met-at.text-property.ts b/alan/relating/relationships/properties/relationship-met-at.text-property.ts
 index eb8a047faa93b203f71487bb0ccd305f14357948..9341e849d0469d1545d333d79d897fc1d68cfeb3 100644
 --- a/alan/relating/relationships/properties/relationship-met-at.text-property.ts
@@ -1839,6 +1949,17 @@ index a0ec041caa04b7d066ddb7581a684395ab178e03..7111afe5c7153ba0d8a42d5be81fe73d
 +  maxLength: 20,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/tracking/to-dos/properties/link.url-property.ts b/alan/tracking/to-dos/properties/link.url-property.ts
+index 1e3a78c3e62dbfc89974472f36fe15a1ef457166..0660646ce22ec54f5b6ce3f747f9df0788d1d40f 100644
+--- a/alan/tracking/to-dos/properties/link.url-property.ts
++++ b/alan/tracking/to-dos/properties/link.url-property.ts
+@@ -8,5 +8,5 @@ export const link = {
+   slug: "link",
+   propertySlug: "link",
+   definition: "where Alan goes to do it",
+-  max: 100,
++  maxLength: 100,
+ } as const satisfies UrlProperty
 diff --git a/alan/tracking/to-dos/properties/to-do-recurrence.text-property.ts b/alan/tracking/to-dos/properties/to-do-recurrence.text-property.ts
 index f64dbd5d5689177c4a94b6166f225d37e64a6052..a64fba111814981d8701e5de24a57f4715d9b524 100644
 --- a/alan/tracking/to-dos/properties/to-do-recurrence.text-property.ts
@@ -2211,6 +2332,17 @@ index 58435225fdee5bf8aa4aabdb36cb095ef439f939..d3e6ebb98fbfda8de03f76e24da0f773
 +  maxLength: 100,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/collections/externals/properties/external-link.url-property.ts b/collections/externals/properties/external-link.url-property.ts
+index 8390baf27872c0785499a6436b40006bff90582e..5693f023f64ccd4313dfea42eb9b7236ece3994d 100644
+--- a/collections/externals/properties/external-link.url-property.ts
++++ b/collections/externals/properties/external-link.url-property.ts
+@@ -8,5 +8,5 @@ export const externalLink = {
+   slug: "external-link",
+   propertySlug: "external-link",
+   definition: "the page at the source a collection was read from",
+-  max: 200,
++  maxLength: 200,
+ } as const satisfies UrlProperty
 diff --git a/collections/externals/properties/source.text-property.ts b/collections/externals/properties/source.text-property.ts
 index f57465842655d28e78929b8d3054a08334550af4..97bb7d4a69306148c8ca64c19b3f65028d91e25f 100644
 --- a/collections/externals/properties/source.text-property.ts
@@ -2922,6 +3054,17 @@ index 1e28170520b65795b6a41ecc093a7372dc88d347..df0f4ab717f12c63e16f295424dac415
    nameFormatSlug: null,
    invariants: [
      {
+diff --git a/machines/computers/properties/computer-link.url-property.ts b/machines/computers/properties/computer-link.url-property.ts
+index fc96480a12acb8f6165bd91f86310355f4209ad4..1f25f5da6122e89d8609ed181654a69297b5a6ef 100644
+--- a/machines/computers/properties/computer-link.url-property.ts
++++ b/machines/computers/properties/computer-link.url-property.ts
+@@ -8,5 +8,5 @@ export const computerLink = {
+   slug: "computer-link",
+   propertySlug: "link",
+   definition: "where its specification is",
+-  max: 200,
++  maxLength: 200,
+ } as const satisfies UrlProperty
 diff --git a/machines/computers/properties/computer-model.text-property.ts b/machines/computers/properties/computer-model.text-property.ts
 index eaf90f82a8049bb09f95120d11bc30c9baa1e750..45a4f50fc5370dcfffbd87f320715647b1101583 100644
 --- a/machines/computers/properties/computer-model.text-property.ts
@@ -4245,6 +4388,17 @@ index 453af679113570c38ea9fe09410a90473184ee78..2807af39f10fe04f5b1830e714dad533
 +  maxLength: 200,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/places/locations/properties/source-url.url-property.ts b/places/locations/properties/source-url.url-property.ts
+index 15ec8fdb961ac2842e28c7e0b0464935f64c06be..49e04504530caf9e31a4025f5c29559908730676 100644
+--- a/places/locations/properties/source-url.url-property.ts
++++ b/places/locations/properties/source-url.url-property.ts
+@@ -8,5 +8,5 @@ export const sourceUrl = {
+   slug: "source-url",
+   propertySlug: "source-url",
+   definition: "where the source shows the place",
+-  max: 200,
++  maxLength: 200,
+ } as const satisfies UrlProperty
 diff --git a/readout-system/readout-groups/properties/sort-order.text-property.ts b/readout-system/readout-groups/properties/sort-order.text-property.ts
 index adfdb0112bd2a0d1751a32e748fbffaa3578e1c8..8770be70c07b68188a054d9e0f6bb7666391e43b 100644
 --- a/readout-system/readout-groups/properties/sort-order.text-property.ts
@@ -4295,6 +4449,17 @@ index 65bff67e39fa55466f0702744dfe6474095c62ed..a95ac67c8a06fcc8bb10f0f80cef12d0
 +  maxLength: 100,
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
+diff --git a/readout-system/readout-widgets/properties/feed.url-property.ts b/readout-system/readout-widgets/properties/feed.url-property.ts
+index 35697e41af912b1cc5ae86bee70135f5abe39867..e8940ae988a4f407dc5050df847fd571581eb724 100644
+--- a/readout-system/readout-widgets/properties/feed.url-property.ts
++++ b/readout-system/readout-widgets/properties/feed.url-property.ts
+@@ -8,5 +8,5 @@ export const feed = {
+   slug: "feed",
+   propertySlug: "feed",
+   definition: "where a widget fetches the readings it draws",
+-  max: 100,
++  maxLength: 100,
+ } as const satisfies UrlProperty
 diff --git a/readout-system/readout-widgets/properties/gallery-description.text-property.ts b/readout-system/readout-widgets/properties/gallery-description.text-property.ts
 index 80588a4a5637902e0b96452eb3da2e3816f87eed..525cb368bb17d13d8a48d1e6ccae4b837bccf4ee 100644
 --- a/readout-system/readout-widgets/properties/gallery-description.text-property.ts
@@ -7441,5 +7606,552 @@ index 643639771e4e789bf49e16b279e43693c4445cf6..48ccd0155cc934e9821a26223700d1fe
    definition: "the string the game writes a collectible's whole state as",
 -  max: 200,
 +  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/cooldown-key.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/cooldown-key.text-property.ts
+index e13722c95f52101330fa2ba039348b1ad01f95a4..eb78f7dc06ba2bffa5c84caaca0fcde4abe1fe4d 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/cooldown-key.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/cooldown-key.text-property.ts
+@@ -8,6 +8,6 @@ export const cooldownKey = {
+   slug: "cooldown-key",
+   propertySlug: "cooldown-key",
+   definition: "the string the game names a timed activity by",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/currency-scope.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/currency-scope.text-property.ts
+index 14dd9ec50e17c4fecabf0050c131a7d64c872eb8..0f39f933db07ed5f511c25696bd92bf4b10e91c9 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/currency-scope.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/currency-scope.text-property.ts
+@@ -8,6 +8,6 @@ export const currencyScope = {
+   slug: "currency-scope",
+   propertySlug: "scope",
+   definition: "how widely a purse reaches across an account",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/furnishing-key.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/furnishing-key.text-property.ts
+index d873f45336b126a7a36c4313b702b9aafa38ad91..6c10031eaefbb40d29017ae965376a5e18f8f7a5 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/furnishing-key.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/furnishing-key.text-property.ts
+@@ -8,6 +8,6 @@ export const furnishingKey = {
+   slug: "furnishing-key",
+   propertySlug: "furnishing-key",
+   definition: "the string the game names a placed furnishing by",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/furniture-category.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/furniture-category.text-property.ts
+index d0e8ea9b22ecc4d76fcc71667f7d83dae29843ee..458843411aa81ff979ce0a2529a5b6664adc6a5e 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/furniture-category.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/furniture-category.text-property.ts
+@@ -8,6 +8,6 @@ export const furnitureCategory = {
+   slug: "furniture-category",
+   propertySlug: "furniture-category",
+   definition: "the room a furnishing is filed under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/item-link.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/item-link.text-property.ts
+index 53d63b6e0477b6cb2a224ccee31282dcbe733695..3b059dc879360a87801f0636dd7edcade1864204 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/item-link.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/item-link.text-property.ts
+@@ -8,6 +8,6 @@ export const itemLink = {
+   slug: "item-link",
+   propertySlug: "item-link",
+   definition: "the string the game writes an item's whole state as",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/location-id.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/location-id.text-property.ts
+index 9463d7710b049bb048c99b42e6c2322300da5e74..acb8892804081542c5fc25761df5966b5307bd99 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/location-id.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/location-id.text-property.ts
+@@ -8,6 +8,6 @@ export const locationId = {
+   slug: "location-id",
+   propertySlug: "location-id",
+   definition: "the bag holder a stack sits with, as the game names holders",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-holdings/inventory-snapshots/properties/price-source.text-property.ts b/temper/temper-holdings/inventory-snapshots/properties/price-source.text-property.ts
+index 29eb2b0b62f2ae055c262f2d526bdc098295918a..8a3181682a45b48bcc34a53569e54aae991ade69 100644
+--- a/temper/temper-holdings/inventory-snapshots/properties/price-source.text-property.ts
++++ b/temper/temper-holdings/inventory-snapshots/properties/price-source.text-property.ts
+@@ -8,6 +8,6 @@ export const priceSource = {
+   slug: "price-source",
+   propertySlug: "price-source",
+   definition: "the addon the gold figures on a reading came from",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-holdings/item-category-trees/properties/item-name-contains.text-property.ts b/temper/temper-holdings/item-category-trees/properties/item-name-contains.text-property.ts
+index 866db75f539bcfaab6eb5bb1b39ca4aa13475278..3e681b7736f30e4518a43cfcee5a87a3d695e0dc 100644
+--- a/temper/temper-holdings/item-category-trees/properties/item-name-contains.text-property.ts
++++ b/temper/temper-holdings/item-category-trees/properties/item-name-contains.text-property.ts
+@@ -8,6 +8,6 @@ export const itemNameContains = {
+   slug: "item-name-contains",
+   propertySlug: "item-name-contains",
+   definition: "the words an item's name carries for the branch to take it",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-holdings/sales/properties/buyer-name.text-property.ts b/temper/temper-holdings/sales/properties/buyer-name.text-property.ts
+index ec5df62108100af212d44808e4fd83610ca8f1c1..1f3753018527d7481cf3762ea3822780f4dd1f2d 100644
+--- a/temper/temper-holdings/sales/properties/buyer-name.text-property.ts
++++ b/temper/temper-holdings/sales/properties/buyer-name.text-property.ts
+@@ -8,6 +8,6 @@ export const buyerName = {
+   slug: "buyer-name",
+   propertySlug: "buyer-name",
+   definition: "the account an item was bought by",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-holdings/sales/properties/guild-name.text-property.ts b/temper/temper-holdings/sales/properties/guild-name.text-property.ts
+index 37a0fb30b22b4c5b7bb0407fab02da7552205bc7..e8ea6c11949f46b3231c27708985098b502df288 100644
+--- a/temper/temper-holdings/sales/properties/guild-name.text-property.ts
++++ b/temper/temper-holdings/sales/properties/guild-name.text-property.ts
+@@ -8,7 +8,7 @@ export const guildName = {
+   slug: "guild-name",
+   propertySlug: "guild-name",
+   definition: "the guild whose store an item went through",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a guild." }],
+ } as const satisfies TextProperty
+diff --git a/temper/temper-holdings/sales/properties/sale-id.text-property.ts b/temper/temper-holdings/sales/properties/sale-id.text-property.ts
+index eb077d46d27c100ed187afcb17f05f2e360d90e7..0c650ed7f94144909dd00646de69e4cacd9e88a7 100644
+--- a/temper/temper-holdings/sales/properties/sale-id.text-property.ts
++++ b/temper/temper-holdings/sales/properties/sale-id.text-property.ts
+@@ -8,7 +8,7 @@ export const saleId = {
+   slug: "sale-id",
+   propertySlug: "sale-id",
+   definition: "what the game calls one sale",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     { invariantKind: "departure", statement: "A sale carrying no sale id is not kept." },
+diff --git a/temper/temper-progress/activity-categories/properties/badge-variant.text-property.ts b/temper/temper-progress/activity-categories/properties/badge-variant.text-property.ts
+index d59b78ffd896ba61145e4efb796d7d97ca316e7d..929e6a2229f690ae1919f95f4a7b8a22798e0400 100644
+--- a/temper/temper-progress/activity-categories/properties/badge-variant.text-property.ts
++++ b/temper/temper-progress/activity-categories/properties/badge-variant.text-property.ts
+@@ -8,6 +8,6 @@ export const badgeVariant = {
+   slug: "badge-variant",
+   propertySlug: "badge-variant",
+   definition: "the color a category is badged in",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-progress/completed-days/properties/day.text-property.ts b/temper/temper-progress/completed-days/properties/day.text-property.ts
+index cd5138ee38f2b9dec730f160d53b14bf8da446c0..f42518e3d85ddc8cfb786b0b698d472b933721c7 100644
+--- a/temper/temper-progress/completed-days/properties/day.text-property.ts
++++ b/temper/temper-progress/completed-days/properties/day.text-property.ts
+@@ -8,7 +8,7 @@ export const day = {
+   slug: "day",
+   propertySlug: "day",
+   definition: "the calendar day a page gathers",
+-  max: 10,
++  maxLength: 10,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/temper/temper-progress/completed-days/properties/task.text-property.ts b/temper/temper-progress/completed-days/properties/task.text-property.ts
+index b9962d2e280bcedeaf5648166d7eb05ca3dd1c0c..1c44e342c7c015195cb55358acfc9fdf05e9a070 100644
+--- a/temper/temper-progress/completed-days/properties/task.text-property.ts
++++ b/temper/temper-progress/completed-days/properties/task.text-property.ts
+@@ -8,7 +8,7 @@ export const task = {
+   slug: "task",
+   propertySlug: "task",
+   definition: "the recurring task a completion answers to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     { invariantKind: "gap", statement: "This property is a relation to a temper task." },
+diff --git a/temper/temper-progress/completion-categories/properties/tab.text-property.ts b/temper/temper-progress/completion-categories/properties/tab.text-property.ts
+index 598e321e6aa0527554f8da4debe3875d9581a05c..6c80ec7f42dd8c02ebf80b4edb3abadc56946375 100644
+--- a/temper/temper-progress/completion-categories/properties/tab.text-property.ts
++++ b/temper/temper-progress/completion-categories/properties/tab.text-property.ts
+@@ -8,6 +8,6 @@ export const tab = {
+   slug: "tab",
+   propertySlug: "tab",
+   definition: "the tab of the completion view a node is shown under",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-progress/completion-overrides/properties/override-reason.text-property.ts b/temper/temper-progress/completion-overrides/properties/override-reason.text-property.ts
+index a9c4eff4040f097bca26aff04d2a0d9ee14f8080..cb8291c16d2599bc3cdd266b9b2dbcc0c9ceda24 100644
+--- a/temper/temper-progress/completion-overrides/properties/override-reason.text-property.ts
++++ b/temper/temper-progress/completion-overrides/properties/override-reason.text-property.ts
+@@ -8,6 +8,6 @@ export const overrideReason = {
+   slug: "override-reason",
+   propertySlug: "override-reason",
+   definition: "why a count is set by hand instead of taken from the game",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts b/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts
+index 429c84d12600431b03f773ee8fa758daadb29b1b..1b4b226b64720a1a80daf8c286a684697a29b816 100644
+--- a/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts
++++ b/temper/temper-progress/inventory-rules/properties/char-eligibility.text-property.ts
+@@ -8,7 +8,7 @@ export const charEligibility = {
+   slug: "char-eligibility",
+   propertySlug: "char-eligibility",
+   definition: "which characters one leg of a destination chain will send an item to",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/temper/temper-progress/metric-trees/properties/node-type.text-property.ts b/temper/temper-progress/metric-trees/properties/node-type.text-property.ts
+index e738902af91637bf2c6c490da8221b8f9d491d97..86c9b24fb87a5838ae9ac724731d077b4255d3d8 100644
+--- a/temper/temper-progress/metric-trees/properties/node-type.text-property.ts
++++ b/temper/temper-progress/metric-trees/properties/node-type.text-property.ts
+@@ -8,6 +8,6 @@ export const nodeType = {
+   slug: "node-type",
+   propertySlug: "node-type",
+   definition: "which rank of the metric tree a node sits at",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-progress/progress-things/properties/character.text-property.ts b/temper/temper-progress/progress-things/properties/character.text-property.ts
+index 8865a72b85380fc391a7190989a57bd916775698..0fabed7a7fef6adb047a251c23e6319d1c5b2c5f 100644
+--- a/temper/temper-progress/progress-things/properties/character.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/character.text-property.ts
+@@ -8,7 +8,7 @@ export const character = {
+   slug: "character",
+   propertySlug: "character",
+   definition: "the character a page is about",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a character." }],
+ } as const satisfies TextProperty
+diff --git a/temper/temper-progress/progress-things/properties/completion-card-id.text-property.ts b/temper/temper-progress/progress-things/properties/completion-card-id.text-property.ts
+index 5729589d3e43caf1a2ce6b6b7a90f68a00ac1eec..4a2729ada3d5d25cd02a26744e30135884181343 100644
+--- a/temper/temper-progress/progress-things/properties/completion-card-id.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/completion-card-id.text-property.ts
+@@ -8,7 +8,7 @@ export const completionCardId = {
+   slug: "completion-card-id",
+   propertySlug: "completion-card-id",
+   definition: "the completion card a page counts toward",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     { invariantKind: "gap", statement: "This property is a relation to a completion card." },
+diff --git a/temper/temper-progress/progress-things/properties/completion-item-path.text-property.ts b/temper/temper-progress/progress-things/properties/completion-item-path.text-property.ts
+index f0f37be9c9cf3b6dc5b614c582c2c60fd8de6f99..3a7c5c8feaf02bf6d0ac91aef9ae5e9f258ee57d 100644
+--- a/temper/temper-progress/progress-things/properties/completion-item-path.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/completion-item-path.text-property.ts
+@@ -8,7 +8,7 @@ export const completionItemPath = {
+   slug: "completion-item-path",
+   propertySlug: "completion-item-path",
+   definition: "one step of the way down a completion card to the item counted",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/temper/temper-progress/progress-things/properties/due-date.text-property.ts b/temper/temper-progress/progress-things/properties/due-date.text-property.ts
+index 72690741d220a2687578c3d374cd0f6a3364a30c..7da7eb3db2f5dfefada926aa1aef263a28e09160 100644
+--- a/temper/temper-progress/progress-things/properties/due-date.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/due-date.text-property.ts
+@@ -8,7 +8,7 @@ export const dueDate = {
+   slug: "due-date",
+   propertySlug: "due-date",
+   definition: "the day a task is next wanted",
+-  max: 10,
++  maxLength: 10,
+   nameFormatSlug: null,
+   invariants: [
+     { invariantKind: "departure", statement: "A due date is written as an ISO 8601 calendar day." },
+diff --git a/temper/temper-progress/progress-things/properties/node-id.text-property.ts b/temper/temper-progress/progress-things/properties/node-id.text-property.ts
+index 563e5e10cc157279d01fc1e72f8f4ff9936406ac..b444d4f7865af55be6c4a38831cb8fb55f21b106 100644
+--- a/temper/temper-progress/progress-things/properties/node-id.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/node-id.text-property.ts
+@@ -8,7 +8,7 @@ export const nodeId = {
+   slug: "node-id",
+   propertySlug: "node-id",
+   definition: "the name a node answers to inside its own tree",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     { invariantKind: "gap", statement: "This property is a relation to a node of the same tree." },
+diff --git a/temper/temper-progress/progress-things/properties/priority.text-property.ts b/temper/temper-progress/progress-things/properties/priority.text-property.ts
+index dc029645c97061d662335f45b7fee9dbefae1b94..aa2bf7a546ae8849085bb4601464fa306e0454be 100644
+--- a/temper/temper-progress/progress-things/properties/priority.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/priority.text-property.ts
+@@ -8,7 +8,7 @@ export const priority = {
+   slug: "priority",
+   propertySlug: "priority",
+   definition: "how soon a task is wanted against its siblings",
+-  max: 4,
++  maxLength: 4,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     { invariantKind: "departure", statement: "A priority is written `p` before its number." },
+diff --git a/temper/temper-progress/progress-things/properties/rrule-rule.text-property.ts b/temper/temper-progress/progress-things/properties/rrule-rule.text-property.ts
+index 7e783f9e491bfa8a885b6c14f0a820978ce67f4a..add40bfdd7487af19b520bb7c13bbd01d9e4625d 100644
+--- a/temper/temper-progress/progress-things/properties/rrule-rule.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/rrule-rule.text-property.ts
+@@ -8,7 +8,7 @@ export const rruleRule = {
+   slug: "rrule-rule",
+   propertySlug: "rrule-rule",
+   definition: "how often a task comes round again",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/temper/temper-progress/progress-things/properties/scope.text-property.ts b/temper/temper-progress/progress-things/properties/scope.text-property.ts
+index 68cb4e3ec2894720247d40d9bc87e0ee56613f02..b89c01efcfe59771e1fefd230ef5dbc0934d0677 100644
+--- a/temper/temper-progress/progress-things/properties/scope.text-property.ts
++++ b/temper/temper-progress/progress-things/properties/scope.text-property.ts
+@@ -8,6 +8,6 @@ export const scope = {
+   slug: "scope",
+   propertySlug: "scope",
+   definition: "how widely a task reaches across an account",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: "name-format/lower-snake-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-progress/rotation-breakdown-rows/properties/full-name.text-property.ts b/temper/temper-progress/rotation-breakdown-rows/properties/full-name.text-property.ts
+index bb2747d69cdc91eecc8dd90e7f5bb1f2fbf98e9b..d6fc66a46b621dbbf9d4d9887f8f5ad169bd740a 100644
+--- a/temper/temper-progress/rotation-breakdown-rows/properties/full-name.text-property.ts
++++ b/temper/temper-progress/rotation-breakdown-rows/properties/full-name.text-property.ts
+@@ -8,6 +8,6 @@ export const fullName = {
+   slug: "full-name",
+   propertySlug: "full-name",
+   definition: "the name a row is shown under where there is room for it",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-progress/rules/properties/condition-value.text-property.ts b/temper/temper-progress/rules/properties/condition-value.text-property.ts
+index 303fdc261eee51e1dfd2744ac128a97d2632977f..cf07869a245436e531b2634bfddf072b0455d1fb 100644
+--- a/temper/temper-progress/rules/properties/condition-value.text-property.ts
++++ b/temper/temper-progress/rules/properties/condition-value.text-property.ts
+@@ -8,7 +8,7 @@ export const conditionValue = {
+   slug: "condition-value",
+   propertySlug: "condition-value",
+   definition: "what one condition of a rule tests against",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/temper/temper-progress/rules/properties/destination.text-property.ts b/temper/temper-progress/rules/properties/destination.text-property.ts
+index 064aaa49d2f01229ca0d74ca787a7a1fbefe88d8..e2e7322cb5f45a0076659ba12ead5e8cf6bb0f5b 100644
+--- a/temper/temper-progress/rules/properties/destination.text-property.ts
++++ b/temper/temper-progress/rules/properties/destination.text-property.ts
+@@ -8,6 +8,6 @@ export const destination = {
+   slug: "destination",
+   propertySlug: "destination",
+   definition: "where a rule moving an item puts the item",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-progress/tasks/properties/character-name.text-property.ts b/temper/temper-progress/tasks/properties/character-name.text-property.ts
+index aaadd01a290ef8f40f8a95e4d94fca289d2f5e53..3f283c4e06de732e83ff24a4585257e97941411e 100644
+--- a/temper/temper-progress/tasks/properties/character-name.text-property.ts
++++ b/temper/temper-progress/tasks/properties/character-name.text-property.ts
+@@ -8,6 +8,6 @@ export const characterName = {
+   slug: "character-name",
+   propertySlug: "character-name",
+   definition: "the name a character is shown under in the game",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-progress/tasks/properties/effective-character.text-property.ts b/temper/temper-progress/tasks/properties/effective-character.text-property.ts
+index 11d72fdd48c78de1e2adaf1e2b7685cf0cec6f2e..cc36699b783b541529b898bb657f4b6a92946fc7 100644
+--- a/temper/temper-progress/tasks/properties/effective-character.text-property.ts
++++ b/temper/temper-progress/tasks/properties/effective-character.text-property.ts
+@@ -8,7 +8,7 @@ export const effectiveCharacter = {
+   slug: "effective-character",
+   propertySlug: "effective-character",
+   definition: "the character a rotating task falls to for its current turn",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a character." }],
+ } as const satisfies TextProperty
+diff --git a/temper/temper-progress/watcher-enrolments/properties/last-run-outcome.text-property.ts b/temper/temper-progress/watcher-enrolments/properties/last-run-outcome.text-property.ts
+index 7de3ad35e4c5ead477fe26a496bd191e72e0afd7..6cc988bf5e1f9c432c01e716ebff956ca0764831 100644
+--- a/temper/temper-progress/watcher-enrolments/properties/last-run-outcome.text-property.ts
++++ b/temper/temper-progress/watcher-enrolments/properties/last-run-outcome.text-property.ts
+@@ -8,7 +8,7 @@ export const lastRunOutcome = {
+   slug: "last-run-outcome",
+   propertySlug: "last-run-outcome",
+   definition: "what a watcher reported of the run it made last",
+-  max: 20000,
++  maxLength: 20000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/temper/temper-progress/watcher-enrolments/properties/token-hash.text-property.ts b/temper/temper-progress/watcher-enrolments/properties/token-hash.text-property.ts
+index 9a729c24e84bf6a649df48ecded18840eb557a1f..94e62ce6ac9948d2736dffdd31eff2d86df49541 100644
+--- a/temper/temper-progress/watcher-enrolments/properties/token-hash.text-property.ts
++++ b/temper/temper-progress/watcher-enrolments/properties/token-hash.text-property.ts
+@@ -8,6 +8,6 @@ export const tokenHash = {
+   slug: "token-hash",
+   propertySlug: "token-hash",
+   definition: "the digest a token is recognised by without the token being held",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-progress/watcher-enrolments/properties/token-name.text-property.ts b/temper/temper-progress/watcher-enrolments/properties/token-name.text-property.ts
+index 5bbb3e067d8c7f0f34a6eef30bc42295bce6f563..3a4f52e2227eb117ecd914808e1af4e14deec0fc 100644
+--- a/temper/temper-progress/watcher-enrolments/properties/token-name.text-property.ts
++++ b/temper/temper-progress/watcher-enrolments/properties/token-name.text-property.ts
+@@ -8,6 +8,6 @@ export const tokenName = {
+   slug: "token-name",
+   propertySlug: "token-name",
+   definition: "the name a token is shown under where tokens are listed",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-progress/watcher-enrolments/properties/token.text-property.ts b/temper/temper-progress/watcher-enrolments/properties/token.text-property.ts
+index 56513a2bc97a6eece7ebce0890ba0b0cc92f792a..de4bd0e17ee5e4b21c2cffd113851300e0c60fb6 100644
+--- a/temper/temper-progress/watcher-enrolments/properties/token.text-property.ts
++++ b/temper/temper-progress/watcher-enrolments/properties/token.text-property.ts
+@@ -8,6 +8,6 @@ export const token = {
+   slug: "token",
+   propertySlug: "token",
+   definition: "the secret a watcher signs its calls with",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-things/properties/account-page.text-property.ts b/temper/temper-things/properties/account-page.text-property.ts
+index 559e16cb07a5d4002d93f86579ab9f0db8109923..3d8865db3cb77f570bf274170749911214e82164 100644
+--- a/temper/temper-things/properties/account-page.text-property.ts
++++ b/temper/temper-things/properties/account-page.text-property.ts
+@@ -8,7 +8,7 @@ export const accountPage = {
+   slug: "account-page",
+   propertySlug: "account-page",
+   definition: "the account a page belongs to",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+   invariants: [{ invariantKind: "gap", statement: "This property is a relation to  an account." }],
+ } as const satisfies TextProperty
+diff --git a/temper/temper-things/properties/category-id.text-property.ts b/temper/temper-things/properties/category-id.text-property.ts
+index 9813e5137cca47463c21af65b5952044f5da585c..6f2857cc614d69677a79c7b527abfda455a85045 100644
+--- a/temper/temper-things/properties/category-id.text-property.ts
++++ b/temper/temper-things/properties/category-id.text-property.ts
+@@ -8,7 +8,7 @@ export const categoryId = {
+   slug: "category-id",
+   propertySlug: "category-id",
+   definition: "the group a thing is filed under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [{ invariantKind: "gap", statement: "This property is a relation to  a category." }],
+ } as const satisfies TextProperty
+diff --git a/temper/temper-things/properties/category.text-property.ts b/temper/temper-things/properties/category.text-property.ts
+index da969e29be570cb967164aa2e2d1962b45c34b80..a370fa97ece801d02ae903eed9527c13855a60ca 100644
+--- a/temper/temper-things/properties/category.text-property.ts
++++ b/temper/temper-things/properties/category.text-property.ts
+@@ -8,6 +8,6 @@ export const category = {
+   slug: "category",
+   propertySlug: "category",
+   definition: "the sort of thing a page is about",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-things/properties/companion-id.text-property.ts b/temper/temper-things/properties/companion-id.text-property.ts
+index ef55df5c4dda5765ce657d53eb247283ebfaea10..7b901ed567164bd677d78d4e4374cdd433d3e21d 100644
+--- a/temper/temper-things/properties/companion-id.text-property.ts
++++ b/temper/temper-things/properties/companion-id.text-property.ts
+@@ -8,7 +8,7 @@ export const companionId = {
+   slug: "companion-id",
+   propertySlug: "companion-id",
+   definition: "the companion a page is about",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [{ invariantKind: "gap", statement: "This property is a relation to  a companion." }],
+ } as const satisfies TextProperty
+diff --git a/temper/temper-things/properties/eso-character-id.text-property.ts b/temper/temper-things/properties/eso-character-id.text-property.ts
+index a28a9f777b5f2ddc3f952a9f3470909a0cf5f958..50cc4ec9d790fec51f025e9fca679a75592f89d0 100644
+--- a/temper/temper-things/properties/eso-character-id.text-property.ts
++++ b/temper/temper-things/properties/eso-character-id.text-property.ts
+@@ -8,6 +8,6 @@ export const esoCharacterId = {
+   slug: "eso-character-id",
+   propertySlug: "eso-character-id",
+   definition: "the character The Elder Scrolls Online names by this",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-things/properties/icon.text-property.ts b/temper/temper-things/properties/icon.text-property.ts
+index a4189f1187733abc27463218c4f10a3b5690ff41..02e21eab319a6b4d4d19ff7cc39ed378abb38724 100644
+--- a/temper/temper-things/properties/icon.text-property.ts
++++ b/temper/temper-things/properties/icon.text-property.ts
+@@ -8,6 +8,6 @@ export const icon = {
+   slug: "icon",
+   propertySlug: "icon",
+   definition: "the icon a thing is shown with",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-things/properties/key.text-property.ts b/temper/temper-things/properties/key.text-property.ts
+index caaada54ad7d7f7491591725dd7d2dd91e725156..cb4b75d20fcc64cac95a7862859914d3f3bb11ae 100644
+--- a/temper/temper-things/properties/key.text-property.ts
++++ b/temper/temper-things/properties/key.text-property.ts
+@@ -8,6 +8,6 @@ export const key = {
+   slug: "key",
+   propertySlug: "key",
+   definition: "the string The Elder Scrolls Online names a thing by",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-things/properties/parent.text-property.ts b/temper/temper-things/properties/parent.text-property.ts
+index 3f167c33b115343dd738efc00146beba048d2bfc..83ff35d91c37e774af7958780d4d5ae329d0f5d4 100644
+--- a/temper/temper-things/properties/parent.text-property.ts
++++ b/temper/temper-things/properties/parent.text-property.ts
+@@ -8,7 +8,7 @@ export const parent = {
+   slug: "parent",
+   propertySlug: "parent",
+   definition: "the page a page hangs beneath",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     { invariantKind: "gap", statement: "This property is a relation to  the page above." },
+diff --git a/temper/temper-things/properties/zone-name.text-property.ts b/temper/temper-things/properties/zone-name.text-property.ts
+index 4813d286cc6001e0cc003a8a22ce7fb8fab8b242..080ace22d74bd38b221127fc26c1c77f02716805 100644
+--- a/temper/temper-things/properties/zone-name.text-property.ts
++++ b/temper/temper-things/properties/zone-name.text-property.ts
+@@ -8,6 +8,6 @@ export const zoneName = {
+   slug: "zone-name",
+   propertySlug: "zone-name",
+   definition: "what a zone is called",
+-  max: 100,
++  maxLength: 100,
    nameFormatSlug: null,
  } as const satisfies TextProperty
