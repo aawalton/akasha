@@ -34,11 +34,6 @@ export const amyAlanHarnessImprovements = {
         "`temper-tasks-all`, `temper-tasks-completed`, `temper-tasks-today`, `temper-tasks-up-next` and `alanwalton-temper-tasks` each name `temper-task` and resolve that subject in the serving pod against 24 rows. The completed view narrowed nothing under a title saying otherwise and now narrows to the tasks carrying a completion.",
     },
     {
-      statement: "The serving pod carries the mends that are landed.",
-      workingMemory:
-        "The pod serves `e633e23af8`, which carries the four mends that stopped every view. Two mends landed since and cannot go up: `a096ceda0b` keys the favorites predicate as the home view spells it, and `5bb486c0ab` makes a new nav item take a slug free among every nav rather than among its own app's, where creating `Books` under alanwalton would have written over Archive of Worlds' `books.nav.ts` and kept that page's id. A web deploy serves what origin carries, and the akasha migration's sixteenth constraint keeps commits local, so no push can close that gap. View pages are answered live and needed no deploy.",
-    },
-    {
       statement: "Temper, Atlas and Archive of Worlds each show their nav items.",
       workingMemory:
         "Each of the three asks `nav` for `key: \"app\"` carrying an app's id, where the `nav` page type declares `appSlug` and no key holding an id, so each question is refused and the whole navigation goes unread. The three-line mend is written and each app already exports the slug it needs. What blocks it is that `temper/temper-web/routes/_app-layout.tsx`, `alan/atlas-web/routes/_app-layout.tsx` and `archive-of-worlds/archive-of-worlds-web/routes/_app-layout.tsx` belong to no page, so every write to them is refused. Each is named by path from its app's `routes.ts`, which does belong to a page, so a route page could take it — but a layout is imported by the route table rather than reached by a url, which is not what a route is.",
@@ -46,7 +41,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "Every view lists the pages it is named for.",
       workingMemory:
-        "Nine views name no page type and no predicate, so each resolves no subject and lists nothing: `archive-of-worlds-new-page-list`, `docs-all-pages`, `docs-claude-md`, `notifications-closed`, `notifications-unread`, `temper-new-page-list`, `tracking-session-tracking`, and the `errors` nav holds no view at all. No page type of the 460 declares `sent-at`, `source-path` or `start-time`, which those views narrow and sort by, so each names a subject that never landed rather than one spelled wrong. `home-favorites` and `home-recently-viewed` name predicates instead and are right as they are. The registry filed the favorites predicate under `FAVORITES` where the view spells it `favorites`, so it answered nothing; `a096ceda0b` keys it as the view spells it and origin does not carry that commit, so the home tab shows favorites only once a push lets a deploy go up.",
+        "Two views name no page type and no predicate, so each resolves no subject and lists nothing: `archive-of-worlds-new-page-list` and `temper-new-page-list`, each the sole view under its app's New Page nav. Alan stripped the seven of that kind under alanwalton, and `36da8355f1` took the Notifications, Docs and Errors navs with them. `home-favorites` and `home-recently-viewed` name predicates instead and are right as they are.",
     },
   ],
 } as const satisfies Initiative
