@@ -1,0 +1,193 @@
+diff --git a/command-system/commands/refactor/page-renaming/page-renaming.module.code.ts b/command-system/commands/refactor/page-renaming/page-renaming.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1a9141a92a21af5b5f6a34002251711ca85302c3
+--- /dev/null
++++ b/command-system/commands/refactor/page-renaming/page-renaming.module.code.ts
+@@ -0,0 +1,75 @@
++import { listedAt } from "@akasha/indexes"
++import { renamePage } from "../../../../changes/refactor-changes/pages/rename-page-slug/rename-page.refactor-change.code.ts"
++import { counted } from "../../../asking/asking.module.code.ts"
++import type { Answer, Given } from "../../../calling/calling.module.code.ts"
++import { answering } from "../../../calling/calling.module.code.ts"
++import type { FileCarry } from "../../../landing/landing.module.code.ts"
++import { baseOf } from "../../../landing/landing.module.code.ts"
++import { VALUED } from "../arguing/refactor-arguing.module.code.ts"
++import { bodyTextOf, respelledLanded, were } from "../landing/refactor-landing.module.code.ts"
++import { pairFor } from "../slug-renaming/slug-renaming.module.code.ts"
++
++export function saidUnder(
++  moved: ReadonlyMap<string, string>,
++  bodies: ReadonlyMap<string, string>
++): ReadonlyMap<string, string> {
++  const back = new Map<string, string>()
++  for (const [from, to] of moved) back.set(to, from)
++  const said = new Map<string, string>()
++  for (const [path, body] of bodies) said.set(back.get(path) ?? path, body)
++  return said
++}
++
++function pageSaying(
++  was: string,
++  now: string,
++  carried: number,
++  repointing: number,
++  dry: boolean
++): readonly string[] {
++  return [
++    `\`${was}\` ${dry ? "would be renamed" : "was renamed"} to \`${now}\``,
++    `${counted(carried, "file")} ${were(carried, dry)} carried`,
++    repointing === 0
++      ? "no file naming it needed repointing"
++      : `${counted(repointing, "file")} naming it ${were(repointing, dry)} repointed`,
++  ]
++}
++
++export async function pageLanded(
++  given: Given,
++  root: string,
++  from: string,
++  to: string,
++  plural: string | undefined,
++  argv: readonly string[]
++): Promise<Answer> {
++  const asked = pairFor(from, to, (pageTypeSlug, slug) => listedAt(root, pageTypeSlug, slug))
++  if ("refused" in asked) return answering([], [asked.refused], 1)
++  const was = asked.pair.was
++  const at = asked.pair.from
++  const renamed = renamePage(
++    root,
++    plural === undefined ? { at, to } : { at, to, plural },
++    bodyTextOf(root, baseOf(root))
++  )
++  const moved = renamed.moved
++  const bodies = renamed.bodies
++  if (moved === null || bodies === null) {
++    return answering([], [renamed.refused ?? `\`${was}\` was not renamed`], 1)
++  }
++  const said = saidUnder(moved, bodies)
++  const carries: readonly FileCarry[] = [...moved].map(([one, two]) => ({ from: one, to: two }))
++  const repointing = [...said.keys()].filter((path) => !moved.has(path)).length
++  return await respelledLanded(
++    given,
++    root,
++    said,
++    `rename the page \`${was}\` to \`${to}\``,
++    (dry) => pageSaying(was, to, carries.length, repointing, dry),
++    false,
++    argv,
++    VALUED,
++    carries
++  )
++}
+diff --git a/command-system/commands/refactor/page-renaming/page-renaming.module.test.ts b/command-system/commands/refactor/page-renaming/page-renaming.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b499770aca4e7796f5f8e06f8de83fa3376376fe
+--- /dev/null
++++ b/command-system/commands/refactor/page-renaming/page-renaming.module.test.ts
+@@ -0,0 +1,47 @@
++import { expect, test } from "bun:test"
++import { saidUnder } from "./page-renaming.module.code.ts"
++
++const AT = "akasha/one/held.thing.ts"
++
++const THERE = "akasha/one/renamed.thing.ts"
++
++const BESIDE = "akasha/one/held.thing.code.ts"
++
++const BESIDE_THERE = "akasha/one/renamed.thing.code.ts"
++
++const NAMER = "akasha/two/namer.thing.ts"
++
++test("a body under the path a file moved to is said under the path that file moved from", () => {
++  const said = saidUnder(
++    new Map([[AT, THERE]]),
++    new Map([
++      [THERE, "the page that moved"],
++      [NAMER, "the page naming it"],
++    ])
++  )
++  expect([...said.keys()].sort()).toEqual([AT, NAMER])
++  expect(said.get(AT)).toBe("the page that moved")
++  expect(said.get(THERE)).toBeUndefined()
++  expect(said.get(NAMER)).toBe("the page naming it")
++})
++
++test("every moved file is said under its own path", () => {
++  const said = saidUnder(
++    new Map([
++      [AT, THERE],
++      [BESIDE, BESIDE_THERE],
++    ]),
++    new Map([
++      [THERE, "the page"],
++      [BESIDE_THERE, "the code"],
++    ])
++  )
++  expect([...said.keys()].sort()).toEqual([BESIDE, AT].sort())
++  expect(said.get(AT)).toBe("the page")
++  expect(said.get(BESIDE)).toBe("the code")
++})
++
++test("a file that moved and left no body is left out", () => {
++  const said = saidUnder(new Map([[AT, THERE]]), new Map([[NAMER, "the page naming it"]]))
++  expect([...said.keys()]).toEqual([NAMER])
++})
+diff --git a/command-system/commands/refactor/page-renaming/page-renaming.module.ts b/command-system/commands/refactor/page-renaming/page-renaming.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d5ebc8c4cd7fc6d494d6d81a13d4dec56b2a8ee8
+--- /dev/null
++++ b/command-system/commands/refactor/page-renaming/page-renaming.module.ts
+@@ -0,0 +1,53 @@
++import type { Module } from "@akasha/code/module"
++
++export const pageRenaming = {
++  id: "01a076d6-81be-7ed1-9c02-e980829f1c6f",
++  pageTypeSlug: "module",
++  slug: "page-renaming",
++  definition: "a page slug rename run by the change page that renames a page",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The address a page is at is resolved before the change page is run.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A refusal the change page gives is answered as this module's own refusal.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The change page answers a body under the path that body lands at.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A body under the path a file moved to is said under the path that file moved from.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every file the change page moved is handed to the landing as a carry.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A plural reaches the change page only where the caller said a plural.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The report says how many files were carried.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The report says how many files naming the page were repointed.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here takes a dry run.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here works out a body.",
++    },
++  ],
++} as const satisfies Module
