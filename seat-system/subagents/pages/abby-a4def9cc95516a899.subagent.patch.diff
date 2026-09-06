@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-fast-my-startle-tail-decays.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-fast-my-startle-tail-decays.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0a34d4d3948d9dbfec4731f3a8940f4d474084ba
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-fast-my-startle-tail-decays.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howFastMyStartleTailDecays = {
++  id: "01a077de-7e77-7ddb-9d82-da6ab31a4375",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-fast-my-startle-tail-decays",
++  topicSlug: "after-something-alarms-me",
++  ask: "How fast does my week of being easily startled decay after an alarm, and would a reading every six to twelve hours pin the half-life?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-vagal-lever-shortens-the-tail.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-vagal-lever-shortens-the-tail.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..be2888d267751d7de744001c5e73feb7ae5a009d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-vagal-lever-shortens-the-tail.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAVagalLeverShortensTheTail = {
++  id: "01a077de-7e78-7675-abd4-630fb5cc4067",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-vagal-lever-shortens-the-tail",
++  topicSlug: "after-something-alarms-me",
++  ask: "Applied during an alarm or straight after, does a fast vagal lever make the alarm encode less fully and shorten my tail of being easily startled?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/after-something-alarms-me.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/after-something-alarms-me.all-about-alan-topic.ts
+index 7bb43c1122dca7659ba625f955adbdee56e7b3df..2b3b96d2cdc390eb7697ff185e95c227c59f81a1 100644
+--- a/alan/books/all-about-alan/topics/pages/after-something-alarms-me.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/after-something-alarms-me.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const afterSomethingAlarmsMe = {
+   parentSlugs: ["safety-bar"],
+   settled:
+     "It drops hard, comes most of the way back, and leaves about a week of being easily startled.",
+-  unsettled:
+-    "The week-long tail is approximate and its decay constant is uninstrumented. Readings every six to twelve hours after a known alarm would pin the half-life.\n\nApplied during or straight after, does a fast vagal lever make the alarm encode less fully and shorten the tail?",
+ } as const satisfies AllAboutAlanTopic
