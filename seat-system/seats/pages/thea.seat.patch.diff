@@ -60,3 +60,22 @@ index 1dbf0a62b85133bd46ad99ff171dd5c96e998a4a..9ac11579427a15f75d10ec6f69226e33
  function slugOf(standing: Listed | null, id: string): string | null {
    if (standing === null) return null
    const said = partedIn(standing.path)
+diff --git a/pages/indexes/reading/index-reading.module.ts b/pages/indexes/reading/index-reading.module.ts
+index 85672ada9f1ee982a0c8d429f908207639581c47..15b915c48eaa96ccadfb1c1f1964c908465cc19f 100644
+--- a/pages/indexes/reading/index-reading.module.ts
++++ b/pages/indexes/reading/index-reading.module.ts
+@@ -17,6 +17,14 @@ export const indexReading = {
+       invariantKind: "departure",
+       statement: "An answer about one page is one file read or one directory listed.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The files sitting in one folder are one directory listed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The folders sitting in one folder are that same directory listed.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
