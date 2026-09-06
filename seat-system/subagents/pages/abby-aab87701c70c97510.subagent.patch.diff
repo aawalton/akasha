@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-reflex-is-one-old-subsystem.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-reflex-is-one-old-subsystem.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0e4e389da6edbe6b0b25450952d230050754e3d5
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-reflex-is-one-old-subsystem.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheReflexIsOneOldSubsystem = {
++  id: "01a077e9-7936-7f6e-ae0d-9b44a671355e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-reflex-is-one-old-subsystem",
++  topicSlug: "what-still-fires-off-a-memory",
++  ask: "Does the reflex reaching sight, texture and sound as well fit one old subsystem, or is the reflex broader than not eating what would make me sick?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-reflexes-a-memory-still-fires.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-reflexes-a-memory-still-fires.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..67de769f3425bd68b517ac4e176e6abe7748b9f5
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-reflexes-a-memory-still-fires.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichReflexesAMemoryStillFires = {
++  id: "01a077e9-7935-7e2e-922a-b39cbb53beaf",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-reflexes-a-memory-still-fires",
++  topicSlug: "what-still-fires-off-a-memory",
++  ask: "Which other reflexes does a memory still fire the way disgust does, startle or gag or salivation? A quiet reflex fires below my floor, so the answer needs a signal someone else can see.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-still-fires-off-a-memory.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-still-fires-off-a-memory.all-about-alan-topic.ts
+index 071cbbb3ed912a047a94ff9f875a639d3e4421f7..0e7abf4bab2bef95841cd8dfae93ab39f4552980 100644
+--- a/alan/books/all-about-alan/topics/pages/what-still-fires-off-a-memory.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-still-fires-off-a-memory.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const whatStillFiresOffAMemory = {
+   parentSlugs: ["what-i-cannot-play-forward"],
+   relatedSlugs: ["the-body-signals-i-can-barely-hear"],
+   settled: "A taste I cannot bring back still crinkles my face, at about a fifth of the strength.",
+-  unsettled:
+-    "Which other reflexes fire off a memory the way disgust does, startle or gag or salivation, needs a signal someone outside can see. A quiet one can fire below my floor and read as nothing.\n\nWhether the reflex reaching sight, texture and sound as well fits one old subsystem, or means it is broader than not eating what would make me sick, is unprobed.",
+ } as const satisfies AllAboutAlanTopic
