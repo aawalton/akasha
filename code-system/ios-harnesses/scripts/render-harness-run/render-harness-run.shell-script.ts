@@ -10,7 +10,7 @@ export const renderHarnessRun = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A workstation that is not a mac hands the run to one that is.",
+      statement: "A workstation that is not a mac hands the run to a workstation that is a mac.",
     },
     {
       invariantKind: "departure",
