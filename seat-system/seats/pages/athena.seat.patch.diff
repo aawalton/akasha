@@ -1,3 +1,22 @@
+diff --git a/editor-extension/column-sampling/column-sampling.module.code.ts b/editor-extension/column-sampling/column-sampling.module.code.ts
+index 30fee7537d48d4841d1d791988bd9bb039e89395..49abd63c30c5fd87c5b9a7a7b3516b6a4d3ee692 100644
+--- a/editor-extension/column-sampling/column-sampling.module.code.ts
++++ b/editor-extension/column-sampling/column-sampling.module.code.ts
+@@ -14,11 +14,11 @@ export async function sampleColumns(
+   trigger: string,
+   feature: string
+ ): Promise<readonly SeatTerminal[] | undefined> {
+-  const { seatNames, psRows, tmuxClients } = await readSeatLookup()
+-  if (psRows.length === 0) {
++  const seatByShellPid = readSeatLookup()
++  if (seatByShellPid === null) {
+     return undefined
+   }
+-  const { seats, sweep, counted, ms } = await readSeatTerminals(seatNames, psRows, tmuxClients)
++  const { seats, sweep, counted, ms } = await readSeatTerminals(seatByShellPid)
+   columns.record(seats)
+   const placed = seats.filter((s) => s.column !== undefined).length
+   recordSweep(feature, { ...counted, boundMs: PROCESS_ID_TIMEOUT_MS, ms, trigger })
 diff --git a/editor-extension/seat-showing/seat-showing.module.code.ts b/editor-extension/seat-showing/seat-showing.module.code.ts
 index f5c9ec733709e3a8e9fd43fee918cc98d5178364..b9da93a13f30f690746c9a000e74de190e06b9c9 100644
 --- a/editor-extension/seat-showing/seat-showing.module.code.ts
