@@ -87,7 +87,8 @@ export const monarch = {
     },
     {
       invariantKind: "departure",
-      statement: "Every site showing the reading is carried that reading rather than taking one.",
+      statement:
+        "Every site showing the reading is carried that reading rather than taking that reading.",
     },
     {
       invariantKind: "departure",
@@ -101,17 +102,24 @@ export const monarch = {
     { invariantKind: "absence", statement: "Monarch's own rules engine is never written to." },
     {
       invariantKind: "departure",
-      statement:
-        "Category rules run outside Monarch, and only a single transaction update is posted back.",
+      statement: "Category rules run outside Monarch.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only a single transaction update is posted back.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Category rules run without asking on that sync, over a window narrower than the copy's.",
+        "Category rules run without asking on that sync over a window narrower than the copy's.",
     },
     {
       invariantKind: "departure",
-      statement: "Transactions are checked every minute, and only changed rows move.",
+      statement: "Transactions are checked every minute.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only changed rows move.",
     },
     {
       invariantKind: "departure",
@@ -120,8 +128,11 @@ export const monarch = {
     { invariantKind: "departure", statement: "Every monarch page is in a file." },
     {
       invariantKind: "departure",
-      statement:
-        "The pages a schedule writes are in memory; that schedule is named in the instructions.",
+      statement: "The pages a schedule writes are in memory.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A schedule writing pages in memory is named in the instructions.",
     },
     {
       invariantKind: "departure",
