@@ -54,7 +54,7 @@ index 1161fb020952657c5188f03013eae1e2ab7fbcef..f073ae92c95fd92d97483cc11425fefa
  }
  
 diff --git a/command-system/commands/index/index.command.test.ts b/command-system/commands/index/index.command.test.ts
-index 22a55f763a35a8a753b1a2414b02ff78bee087b4..78244914d215cf51a65498d4920a5aa1712558da 100644
+index 22a55f763a35a8a753b1a2414b02ff78bee087b4..02f2209f511ecdfb235e338c1942ab7df31d7beb 100644
 --- a/command-system/commands/index/index.command.test.ts
 +++ b/command-system/commands/index/index.command.test.ts
 @@ -18,7 +18,7 @@ import { textProperty } from "@akasha/pages/text-property"
@@ -66,3 +66,23 @@ index 22a55f763a35a8a753b1a2414b02ff78bee087b4..78244914d215cf51a65498d4920a5aa1
  import { index as indexCommand } from "./index.command.ts"
  
  const TREE = "."
+@@ -254,6 +254,19 @@ test("the files the index differed in are named rather than only counted", () =>
+   expect(said(answer)).toContain(".jsonl")
+ })
+ 
++test("the paths a difference holds are counted under the index each is filed in", () => {
++  expect(classed(["path/a.jsonl", "value/c.jsonl", "path/b.jsonl"])).toBe("path 2, value 1")
++})
++
++test("the report counts the indexes a difference falls under beside the files it names", () => {
++  const root = repoAt()
++  seeded(root)
++  listedUnreadableFiled(root, "domain", "gone")
++  const answer = index(["refresh", "--dry-run"], givenAt(root))
++  expect(answer.code).toBe(OK)
++  expect(said(answer)).toMatch(/taken away — \S+ \d+ — /)
++})
++
+ test("a dry run names a path belonging to no index and leaves that path alone", () => {
+   const root = repoAt()
+   seeded(root)
