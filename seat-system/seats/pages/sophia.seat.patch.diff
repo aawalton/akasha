@@ -1,27 +1,23 @@
 diff --git a/context/warrants/agent-role/agent-role.context-warrant.code.ts b/context/warrants/agent-role/agent-role.context-warrant.code.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..e1e8f0bdcc97fa5b27da56647c45ac2dfb35176b
+index 0000000000000000000000000000000000000000..1e570bfbfa31bc1da198021dd64fd7b5bed78b6f
 --- /dev/null
 +++ b/context/warrants/agent-role/agent-role.context-warrant.code.ts
-@@ -0,0 +1,24 @@
+@@ -0,0 +1,20 @@
 +import { listedAt } from "@akasha/indexes"
-+import { partedIn } from "@akasha/pages/page-file-name"
 +import { slugStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
 +import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
 +
 +export const ROLE_TYPE =
-+  "A subagent is held to what every role is held to, and that is read before the subagent is changed."
++  "An agent is held to what every role is held to, and that is read before the agent is changed."
 +
 +const PAGE_TYPE = "page-type"
 +
 +const ROLE = "role"
 +
-+const SUBAGENT = "subagent"
-+
 +const KEY = "slug"
 +
 +export function agentRole(root: string, path: string): readonly Warrant[] {
-+  if (partedIn(path)?.pageType !== SUBAGENT) return []
 +  if (slugStated(root, path, KEY) === null) return []
 +  const listed = listedAt(root, PAGE_TYPE, ROLE)[0]
 +  if (listed === undefined) return []
