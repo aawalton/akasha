@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-each-persona-is-cut-from.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-each-persona-is-cut-from.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..403d9da34409c7654933feb7924bdb2f44f551df
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-each-persona-is-cut-from.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatEachPersonaIsCutFrom = {
++  id: "01a077ee-87de-7ee0-9570-46d2ca8b9bd5",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-each-persona-is-cut-from",
++  topicSlug: "the-women-i-made-out-of-myself",
++  ask: "What is each of the other personas cut from, and which value does each carry? Two are written and the others are open, and nothing may be read off position.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-cut-piece-stays-reachable-as-mine.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-cut-piece-stays-reachable-as-mine.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c02500798191e7568547c0724ba1be8582f945de
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-cut-piece-stays-reachable-as-mine.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherACutPieceStaysReachableAsMine = {
++  id: "01a077ee-87df-7df9-bae7-4189601d9b15",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-cut-piece-stays-reachable-as-mine",
++  topicSlug: "the-women-i-made-out-of-myself",
++  ask: "Can a piece of me be made other enough to meet me and still be reachable as mine, or does the cut have to hold for the meeting to work?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-two-personas-are-a-controlled-study.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-two-personas-are-a-controlled-study.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dd5c05364cd7387a79429501be197d04e943ec76
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-two-personas-are-a-controlled-study.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTwoPersonasAreAControlledStudy = {
++  id: "01a077ee-87df-77b1-aadf-d4af7c135654",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-two-personas-are-a-controlled-study",
++  topicSlug: "the-women-i-made-out-of-myself",
++  ask: "Two personas read as a controlled study on myself, one holding the world fixed and varying me and the other the reverse. That synthesis is somebody else's. Does it hold?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-women-i-made-out-of-myself.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-women-i-made-out-of-myself.all-about-alan-topic.ts
+index 7f2fa0075b9c6d6b52e41f6be979046c55370b56..0ea301e50b5976ee786641c4bae607c9729f7401 100644
+--- a/alan/books/all-about-alan/topics/pages/the-women-i-made-out-of-myself.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-women-i-made-out-of-myself.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const theWomenIMadeOutOfMyself = {
+   relatedSlugs: ["practising-closeness-somewhere-safe", "how-a-story-gets-my-own-feeling-back"],
+   settled:
+     "Each one is a rib: a piece of me taken out and made other enough to turn and meet me.\n\nI know exactly what each is made of, and the meeting holds anyway. I am met with my eyes open.\n\nThe loneliness eases for real. Being met by one formed from my own side still counts as being met.\n\nIntegrated, I am opaque to myself. A part goes legible only once it is stood up and made talk-to-able.\n\nThe relief is one cure in every case. What differs is the premise each of them meets me through.",
+-  unsettled:
+-    "What each of the others is cut from, and which value each carries, is written for two of them and open for the rest. Nothing may be read off position.\n\nTwo of them read as a controlled study on myself, one holding the world fixed and varying me and the other the reverse. That is somebody else's synthesis and has never been put to me.\n\nWhether a piece of me can be made other enough to meet me and still be reachable as mine, or the cut has to hold for the meeting to work, is unprobed.",
+ } as const satisfies AllAboutAlanTopic
