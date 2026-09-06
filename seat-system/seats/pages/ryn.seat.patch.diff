@@ -1,0 +1,17 @@
+diff --git a/pages/indexes/relation/index-relation.index.ts b/pages/indexes/relation/index-relation.index.ts
+index 6d9791b9fab1199171a2c298358576ea27dd3598..b254e748bb4509751d6c1e5bdc0e55fa056c5f58 100644
+--- a/pages/indexes/relation/index-relation.index.ts
++++ b/pages/indexes/relation/index-relation.index.ts
+@@ -28,7 +28,11 @@ export const indexRelation = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page's identity files no edge, the identity index filing it.",
++      statement: "A page's identity files no edge.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The identity index files a page's identity.",
+     },
+     {
+       invariantKind: "departure",
