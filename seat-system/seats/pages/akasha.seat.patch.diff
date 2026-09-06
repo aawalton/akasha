@@ -1,0 +1,719 @@
+runsWarrants: false
+diff --git a/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts b/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts
+index 48ffd0fd780b5751497d8074a89c6734b587bda6..06b7b91b8937bb663797b4aa86599fe480f6473e 100644
+--- a/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts
++++ b/alan/harness/monarch/monarch-categories/monarch-category.page-type.ts
+@@ -17,8 +17,8 @@ export const monarchCategory = {
+   extendsSlug: ["page-type/monarch-record"],
+   partSlugs: ["select-property/category-group-type", "text-property/category-group"],
+   properties: [
+-    { pagePropertySlug: "category-group", required: false, many: false },
+-    { pagePropertySlug: "category-group-type", required: false, many: false },
++    { pagePropertySlug: "text-property/category-group", required: false, many: false },
++    { pagePropertySlug: "select-property/category-group-type", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-directions/monarch-direction.page-type.ts b/alan/harness/monarch/monarch-directions/monarch-direction.page-type.ts
+index 5c58c0eed6fa39725d453355f317b3fa712d210a..090a13f382e4b587e19555bb37a6bb272409638c 100644
+--- a/alan/harness/monarch/monarch-directions/monarch-direction.page-type.ts
++++ b/alan/harness/monarch/monarch-directions/monarch-direction.page-type.ts
+@@ -17,8 +17,8 @@ export const monarchDirection = {
+   extendsSlug: ["page-type/monarch-record"],
+   partSlugs: ["text-property/applies-when", "text-property/directs"],
+   properties: [
+-    { pagePropertySlug: "applies-when", required: true, many: false },
+-    { pagePropertySlug: "directs", required: true, many: false },
++    { pagePropertySlug: "text-property/applies-when", required: true, many: false },
++    { pagePropertySlug: "text-property/directs", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts b/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts
+index ad528c7835233c9127ea38d459d5fac7c8b4e840..3457770a0d25aa4308f0d7f2b86ad7209bbf9f24 100644
+--- a/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts
++++ b/alan/harness/monarch/monarch-holdings/monarch-holding.page-type.ts
+@@ -32,12 +32,12 @@ export const monarchHolding = {
+     "text-property/ticker",
+   ],
+   properties: [
+-    { pagePropertySlug: "account-slug", required: true, many: false },
+-    { pagePropertySlug: "security-name", required: true, many: false },
+-    { pagePropertySlug: "ticker", required: true, many: false },
+-    { pagePropertySlug: "quantity", required: true, many: false },
+-    { pagePropertySlug: "cost-basis", required: true, many: false },
+-    { pagePropertySlug: "holding-value", required: true, many: false },
++    { pagePropertySlug: "relation-property/account-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/security-name", required: true, many: false },
++    { pagePropertySlug: "text-property/ticker", required: true, many: false },
++    { pagePropertySlug: "number-property/quantity", required: true, many: false },
++    { pagePropertySlug: "number-property/cost-basis", required: true, many: false },
++    { pagePropertySlug: "number-property/holding-value", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts b/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
+index d460a349a479d2c75f31146140706b65d92ad081..7eff1453a8ce0a839aa074b4f65c4e4434948d0d 100644
+--- a/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
++++ b/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
+@@ -17,8 +17,8 @@ export const monarchMerchant = {
+   extendsSlug: ["page-type/page"],
+   partSlugs: ["text-property/merchant-patterns"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "merchant-patterns", required: true, many: true, max: 20 },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/merchant-patterns", required: true, many: true, max: 20 },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-months/monarch-month.page-type.ts b/alan/harness/monarch/monarch-months/monarch-month.page-type.ts
+index 651495bb2c85756e299cfb26e74654409a59818e..3e5df976ebad2b6b16f70aef766ae9e8eeeda026 100644
+--- a/alan/harness/monarch/monarch-months/monarch-month.page-type.ts
++++ b/alan/harness/monarch/monarch-months/monarch-month.page-type.ts
+@@ -35,8 +35,8 @@ export const monarchMonth = {
+     "text-property/transaction-note",
+   ],
+   properties: [
+-    { pagePropertySlug: "starts-on", required: true, many: false },
+-    { pagePropertySlug: "transactions", required: true, many: false },
++    { pagePropertySlug: "calendar-date-property/starts-on", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/transactions", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
+index 7f357b98b2f4844cc792176ebbce2ff515fc7176..52650228d06bb79dff91baf4459ff7a41d53825c 100644
+--- a/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
++++ b/alan/harness/monarch/monarch-months/properties/transactions.page-property-entry.ts
+@@ -9,24 +9,24 @@ export const transactions = {
+   propertySlug: "transactions",
+   definition: "the movements of money a month covers, one to a line",
+   properties: [
+-    { pagePropertySlug: "monarch-id", required: true, many: false },
+-    { pagePropertySlug: "monarch-updated-at", required: true, many: false },
+-    { pagePropertySlug: "transaction-day", required: true, many: false },
+-    { pagePropertySlug: "amount", required: true, many: false },
+-    { pagePropertySlug: "merchant", required: true, many: false },
+-    { pagePropertySlug: "account-name", required: true, many: false },
+-    { pagePropertySlug: "account-slug", required: true, many: false },
+-    { pagePropertySlug: "category-slug", required: true, many: false },
+-    { pagePropertySlug: "statement-line", required: false, many: false },
+-    { pagePropertySlug: "transaction-note", required: false, many: false },
+-    { pagePropertySlug: "category-source", required: false, many: false },
+-    { pagePropertySlug: "category-decided-by", required: false, many: false },
+-    { pagePropertySlug: "amazon-order-number", required: false, many: false },
+-    { pagePropertySlug: "tag-slugs", required: false, many: true, max: 20 },
+-    { pagePropertySlug: "split", required: false, many: false },
+-    { pagePropertySlug: "recurring", required: false, many: false },
+-    { pagePropertySlug: "needs-review", required: false, many: false },
+-    { pagePropertySlug: "pending", required: false, many: false },
++    { pagePropertySlug: "text-property/monarch-id", required: true, many: false },
++    { pagePropertySlug: "instant-property/monarch-updated-at", required: true, many: false },
++    { pagePropertySlug: "calendar-date-property/transaction-day", required: true, many: false },
++    { pagePropertySlug: "number-property/amount", required: true, many: false },
++    { pagePropertySlug: "text-property/merchant", required: true, many: false },
++    { pagePropertySlug: "text-property/account-name", required: true, many: false },
++    { pagePropertySlug: "relation-property/account-slug", required: true, many: false },
++    { pagePropertySlug: "relation-property/category-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/statement-line", required: false, many: false },
++    { pagePropertySlug: "text-property/transaction-note", required: false, many: false },
++    { pagePropertySlug: "select-property/category-source", required: false, many: false },
++    { pagePropertySlug: "text-property/category-decided-by", required: false, many: false },
++    { pagePropertySlug: "text-property/amazon-order-number", required: false, many: false },
++    { pagePropertySlug: "relation-property/tag-slugs", required: false, many: true, max: 20 },
++    { pagePropertySlug: "boolean-property/split", required: false, many: false },
++    { pagePropertySlug: "boolean-property/recurring", required: false, many: false },
++    { pagePropertySlug: "boolean-property/needs-review", required: false, many: false },
++    { pagePropertySlug: "boolean-property/pending", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-records/monarch-record.page-type.ts b/alan/harness/monarch/monarch-records/monarch-record.page-type.ts
+index 70a9829b2019dba3628b9018cf6b305b28555f16..d2df868511fb0cb3d2665126db4c00d0d7466dd5 100644
+--- a/alan/harness/monarch/monarch-records/monarch-record.page-type.ts
++++ b/alan/harness/monarch/monarch-records/monarch-record.page-type.ts
+@@ -19,9 +19,9 @@ export const monarchRecord = {
+   extendsSlug: ["page-type/page"],
+   partSlugs: ["text-property/monarch-id"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "monarch-id", required: false, many: false },
+-    { pagePropertySlug: "definition", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/monarch-id", required: false, many: false },
++    { pagePropertySlug: "text-property/definition", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-tags/monarch-tag.page-type.ts b/alan/harness/monarch/monarch-tags/monarch-tag.page-type.ts
+index a6d1571092252b16fdcd880c4b2d28938c5b2fae..8741bb41864b38e94d09acec0f39e8cfc473fa17 100644
+--- a/alan/harness/monarch/monarch-tags/monarch-tag.page-type.ts
++++ b/alan/harness/monarch/monarch-tags/monarch-tag.page-type.ts
+@@ -17,8 +17,8 @@ export const monarchTag = {
+   extendsSlug: ["page-type/monarch-record"],
+   partSlugs: ["number-property/tag-place", "text-property/tag-colour"],
+   properties: [
+-    { pagePropertySlug: "tag-colour", required: true, many: false },
+-    { pagePropertySlug: "tag-place", required: true, many: false },
++    { pagePropertySlug: "text-property/tag-colour", required: true, many: false },
++    { pagePropertySlug: "number-property/tag-place", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/notification-feeds/notification-feed.page-type.ts b/alan/harness/notification-feeds/notification-feed.page-type.ts
+index f030019bf8dc1aad74de59284ee1d39ca15f276f..582e07c17dd7f97148a1fa1ea734a8aad38196cd 100644
+--- a/alan/harness/notification-feeds/notification-feed.page-type.ts
++++ b/alan/harness/notification-feeds/notification-feed.page-type.ts
+@@ -25,8 +25,8 @@ export const notificationFeed = {
+     "text-property/notification-source",
+   ],
+   properties: [
+-    { pagePropertySlug: "person-slug", required: true, many: false },
+-    { pagePropertySlug: "notifications", required: true, many: false },
++    { pagePropertySlug: "relation-property/person-slug", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/notifications", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts b/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
+index 0059e993d22456f1e44fdce0e3069c9a7fcf5219..f3712fbe6e252c7d131cf788252033a7f6301bf4 100644
+--- a/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
++++ b/alan/harness/notification-feeds/properties/notifications.page-property-entry.ts
+@@ -9,13 +9,13 @@ export const notifications = {
+   propertySlug: "notifications",
+   definition: "something pushed at a person rather than waiting for them to look",
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "notification-body", required: false, many: false },
+-    { pagePropertySlug: "notification-link", required: false, many: false },
+-    { pagePropertySlug: "notification-kind", required: false, many: false },
+-    { pagePropertySlug: "notification-source", required: false, many: false },
+-    { pagePropertySlug: "notification-sent-at", required: true, many: false },
+-    { pagePropertySlug: "notification-read-at", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/notification-body", required: false, many: false },
++    { pagePropertySlug: "text-property/notification-link", required: false, many: false },
++    { pagePropertySlug: "text-property/notification-kind", required: false, many: false },
++    { pagePropertySlug: "text-property/notification-source", required: false, many: false },
++    { pagePropertySlug: "instant-property/notification-sent-at", required: true, many: false },
++    { pagePropertySlug: "instant-property/notification-read-at", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
+index 3586036520a6bccb287ca8cfb0b68ce7becd85d0..f11177c8d0fcd499be03c89f759007ff844cd34e 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
+@@ -60,20 +60,25 @@ export const learnEverythingTopic = {
+     "domain/learn-everything-topic-mastery",
+   ],
+   properties: [
+-    { pagePropertySlug: "topic-node", required: true, many: false },
+-    { pagePropertySlug: "topic-depth", required: true, many: false },
+-    { pagePropertySlug: "topic-coverage", required: true, many: false },
+-    { pagePropertySlug: "topic-scored-on", required: true, many: false },
+-    { pagePropertySlug: "topic-status", required: true, many: false },
+-    { pagePropertySlug: "topic-part-of-slugs", required: false, many: true, max: null },
+-    { pagePropertySlug: "topic-calibration", required: false, many: false },
+-    { pagePropertySlug: "topic-calibration-read", required: false, many: false },
+-    { pagePropertySlug: "topic-capture", required: false, many: false },
+-    { pagePropertySlug: "frontier", required: false, many: false },
+-    { pagePropertySlug: "integration", required: false, many: false },
+-    { pagePropertySlug: "misconceptions", required: false, many: false },
+-    { pagePropertySlug: "bites", required: false, many: false },
+-    { pagePropertySlug: "topic-evidence", required: false, many: false },
++    { pagePropertySlug: "text-property/topic-node", required: true, many: false },
++    { pagePropertySlug: "number-property/topic-depth", required: true, many: false },
++    { pagePropertySlug: "number-property/topic-coverage", required: true, many: false },
++    { pagePropertySlug: "calendar-date-property/topic-scored-on", required: true, many: false },
++    { pagePropertySlug: "select-property/topic-status", required: true, many: false },
++    {
++      pagePropertySlug: "relation-property/topic-part-of-slugs",
++      required: false,
++      many: true,
++      max: null,
++    },
++    { pagePropertySlug: "number-property/topic-calibration", required: false, many: false },
++    { pagePropertySlug: "text-property/topic-calibration-read", required: false, many: false },
++    { pagePropertySlug: "record-property/topic-capture", required: false, many: false },
++    { pagePropertySlug: "file-property/frontier", required: false, many: false },
++    { pagePropertySlug: "file-property/integration", required: false, many: false },
++    { pagePropertySlug: "file-property/misconceptions", required: false, many: false },
++    { pagePropertySlug: "file-property/bites", required: false, many: false },
++    { pagePropertySlug: "file-property/topic-evidence", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/library/book-of-everything/learn-everything-topics/properties/topic-capture.record-property.ts b/alan/library/book-of-everything/learn-everything-topics/properties/topic-capture.record-property.ts
+index ea8beb860cbf8aa44e2bb8d7ab5071c22981b8c4..ee2b56102a86b6bdd3ac494aca6403ce9f4d16af 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/properties/topic-capture.record-property.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/properties/topic-capture.record-property.ts
+@@ -16,9 +16,9 @@ export const topicCapture = {
+   propertySlug: "capture",
+   definition: "the transcript a topic's score was read out of, and how far it was read",
+   properties: [
+-    { pagePropertySlug: "capture-source", required: true, many: false },
+-    { pagePropertySlug: "capture-through-line", required: true, many: false },
+-    { pagePropertySlug: "capture-through-at", required: true, many: false },
++    { pagePropertySlug: "text-property/capture-source", required: true, many: false },
++    { pagePropertySlug: "number-property/capture-through-line", required: true, many: false },
++    { pagePropertySlug: "instant-property/capture-through-at", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/library/litrpg-collections/litrpg-collection.page-type.ts b/alan/library/litrpg-collections/litrpg-collection.page-type.ts
+index 6792ff4975a3262b3c80502337287e17e225f801..cd8b57a0e53a4004f368a398c5bd5c4cf8bf4839 100644
+--- a/alan/library/litrpg-collections/litrpg-collection.page-type.ts
++++ b/alan/library/litrpg-collections/litrpg-collection.page-type.ts
+@@ -13,5 +13,5 @@ export const litrpgCollection = {
+   definition: "a shelf of litrpg stories Alan keeps together",
+   pluralSlug: "litrpg-collections",
+   extendsSlug: ["page-type/collection"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/alan/library/reading/author-collections/author-collection.page-type.ts b/alan/library/reading/author-collections/author-collection.page-type.ts
+index 4b333254111f3de4fd7518a1a209f2d35fb442be..f176a5b9866bd8e31bb54391e05e4ee120cb6bd6 100644
+--- a/alan/library/reading/author-collections/author-collection.page-type.ts
++++ b/alan/library/reading/author-collections/author-collection.page-type.ts
+@@ -13,5 +13,5 @@ export const authorCollection = {
+   definition: "a shelf of authors Alan keeps together",
+   pluralSlug: "author-collections",
+   extendsSlug: ["page-type/collection"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/alan/library/reading/authors/author.page-type.ts b/alan/library/reading/authors/author.page-type.ts
+index e5aef2b4ed6f050cc5c6b0998c0fcd86ba2f61f1..a4932c5779f2999be12cb10f2508df36f1ac2732 100644
+--- a/alan/library/reading/authors/author.page-type.ts
++++ b/alan/library/reading/authors/author.page-type.ts
+@@ -13,5 +13,5 @@ export const author = {
+   definition: "one who wrote what Alan reads",
+   pluralSlug: "authors",
+   extendsSlug: ["page-type/collection-external"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/alan/library/reading/book-chapters/book-chapter.page-type.ts b/alan/library/reading/book-chapters/book-chapter.page-type.ts
+index a6bb6c9ad74ffdec28f8a41adada6be5093eb7f7..623b35c3fb21b1d55476a20e0f2cb5f37a0dcdf6 100644
+--- a/alan/library/reading/book-chapters/book-chapter.page-type.ts
++++ b/alan/library/reading/book-chapters/book-chapter.page-type.ts
+@@ -17,9 +17,9 @@ export const bookChapter = {
+   extendsSlug: ["page-type/collection"],
+   partSlugs: ["file-property/chapter-text"],
+   properties: [
+-    { pagePropertySlug: "slug", required: true, many: false, unique: "part-of" },
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "chapter-text", required: true, many: false },
++    { pagePropertySlug: "text-property/slug", required: true, many: false, unique: "part-of" },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "file-property/chapter-text", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/library/reading/book-collections/book-collection.page-type.ts b/alan/library/reading/book-collections/book-collection.page-type.ts
+index b7cd2da00ca3b8f21b47f27f521dcb5e90cc9020..d204aa5a0854f31ce90a275bde87a5e0927a8fae 100644
+--- a/alan/library/reading/book-collections/book-collection.page-type.ts
++++ b/alan/library/reading/book-collections/book-collection.page-type.ts
+@@ -13,5 +13,5 @@ export const bookCollection = {
+   definition: "a shelf of books Alan keeps together",
+   pluralSlug: "book-collections",
+   extendsSlug: ["page-type/collection-external"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/alan/library/reading/book-series/book-series.page-type.ts b/alan/library/reading/book-series/book-series.page-type.ts
+index 8b87ee06db8b5905640686438532203c8d4b17ad..c1b4a5fbbc0fc5a2b4a542e408b8817a09c4fb84 100644
+--- a/alan/library/reading/book-series/book-series.page-type.ts
++++ b/alan/library/reading/book-series/book-series.page-type.ts
+@@ -17,8 +17,8 @@ export const bookSeries = {
+   extendsSlug: ["page-type/collection-external"],
+   partSlugs: ["select-property/maturity-rating"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "maturity-rating", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "select-property/maturity-rating", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/library/reading/books/book.page-type.ts b/alan/library/reading/books/book.page-type.ts
+index b55f4fd348eeed22002e69c8093547efa97c066b..fa8c396d28ae49aaa9bb88cced6831b78f672082 100644
+--- a/alan/library/reading/books/book.page-type.ts
++++ b/alan/library/reading/books/book.page-type.ts
+@@ -34,13 +34,13 @@ export const book = {
+     "text-property/publisher",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "isbn", required: false, many: false },
+-    { pagePropertySlug: "isbn13", required: false, many: false },
+-    { pagePropertySlug: "publisher", required: false, many: false },
+-    { pagePropertySlug: "original-publication-year", required: false, many: false },
+-    { pagePropertySlug: "rating", required: false, many: false },
+-    { pagePropertySlug: "page-count", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/isbn", required: false, many: false },
++    { pagePropertySlug: "text-property/isbn13", required: false, many: false },
++    { pagePropertySlug: "text-property/publisher", required: false, many: false },
++    { pagePropertySlug: "number-property/original-publication-year", required: false, many: false },
++    { pagePropertySlug: "number-property/rating", required: false, many: false },
++    { pagePropertySlug: "number-property/page-count", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/library/reading/gbww-readings/gbww-reading.page-type.ts b/alan/library/reading/gbww-readings/gbww-reading.page-type.ts
+index 5f24b144461d6aa96e578cc7774df17e6de25f54..8af839733d72ed006d707f26ba58f9685f54c00e 100644
+--- a/alan/library/reading/gbww-readings/gbww-reading.page-type.ts
++++ b/alan/library/reading/gbww-readings/gbww-reading.page-type.ts
+@@ -37,15 +37,15 @@ export const gbwwReading = {
+     "text-property/gbww-work",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "collection-author", required: true, many: false },
+-    { pagePropertySlug: "gbww-work", required: true, many: false },
+-    { pagePropertySlug: "gbww-section", required: true, many: false },
+-    { pagePropertySlug: "gbww-plan-key", required: true, many: false },
+-    { pagePropertySlug: "gbww-plan-year", required: true, many: false },
+-    { pagePropertySlug: "gbww-reading-number", required: true, many: false },
+-    { pagePropertySlug: "gbww-edition-marker", required: true, many: false },
+-    { pagePropertySlug: "gbww-story-slug", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/collection-author", required: true, many: false },
++    { pagePropertySlug: "text-property/gbww-work", required: true, many: false },
++    { pagePropertySlug: "text-property/gbww-section", required: true, many: false },
++    { pagePropertySlug: "text-property/gbww-plan-key", required: true, many: false },
++    { pagePropertySlug: "number-property/gbww-plan-year", required: true, many: false },
++    { pagePropertySlug: "number-property/gbww-reading-number", required: true, many: false },
++    { pagePropertySlug: "select-property/gbww-edition-marker", required: true, many: false },
++    { pagePropertySlug: "relation-property/gbww-story-slug", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/library/reading/scripture-collections/scripture-collection.page-type.ts b/alan/library/reading/scripture-collections/scripture-collection.page-type.ts
+index 17f066cc019890ec9d111ab36f78e63769de9d53..31e7de589613273fcf4ce1d2fc5adac4323cc89c 100644
+--- a/alan/library/reading/scripture-collections/scripture-collection.page-type.ts
++++ b/alan/library/reading/scripture-collections/scripture-collection.page-type.ts
+@@ -13,5 +13,5 @@ export const scriptureCollection = {
+   definition: "a book of scripture Alan reads chapters of",
+   pluralSlug: "scripture-collections",
+   extendsSlug: ["page-type/collection-external"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/alan/library/reading/scripture-passages/scripture-passage.page-type.ts b/alan/library/reading/scripture-passages/scripture-passage.page-type.ts
+index 3c8bf93b038f4b1141a043c7fd20568cd07f88aa..d406fb0bc764d2e56cd5ca39503c7b08504392f0 100644
+--- a/alan/library/reading/scripture-passages/scripture-passage.page-type.ts
++++ b/alan/library/reading/scripture-passages/scripture-passage.page-type.ts
+@@ -27,11 +27,11 @@ export const scripturePassage = {
+     "text-property/scripture-book",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "external-id", required: false, many: false },
+-    { pagePropertySlug: "scripture-book", required: false, many: false },
+-    { pagePropertySlug: "scripture-translation", required: false, many: false },
+-    { pagePropertySlug: "passage-text", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/external-id", required: false, many: false },
++    { pagePropertySlug: "text-property/scripture-book", required: false, many: false },
++    { pagePropertySlug: "select-property/scripture-translation", required: false, many: false },
++    { pagePropertySlug: "file-property/passage-text", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/library/studying/great-courses-collections/great-courses-collection.page-type.ts b/alan/library/studying/great-courses-collections/great-courses-collection.page-type.ts
+index a154e6eadb8e8949358319650febfbd129201b79..d044fa5d092735abd7fe9a5b0d0ec06136ebe5d1 100644
+--- a/alan/library/studying/great-courses-collections/great-courses-collection.page-type.ts
++++ b/alan/library/studying/great-courses-collections/great-courses-collection.page-type.ts
+@@ -13,7 +13,7 @@ export const greatCoursesCollection = {
+   definition: "one shelf the whole Great Courses catalogue is reached through",
+   pluralSlug: "great-courses-collections",
+   extendsSlug: ["page-type/collection-external"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/alan/library/studying/great-courses-subjects/great-courses-subject.page-type.ts b/alan/library/studying/great-courses-subjects/great-courses-subject.page-type.ts
+index 6895d5f0993009245353b9ed498294c3caeefa15..a3f3b77352181984967c3a0f247de6d9db75e1e1 100644
+--- a/alan/library/studying/great-courses-subjects/great-courses-subject.page-type.ts
++++ b/alan/library/studying/great-courses-subjects/great-courses-subject.page-type.ts
+@@ -13,7 +13,7 @@ export const greatCoursesSubject = {
+   definition: "one shelf the courses are sorted onto by what they teach",
+   pluralSlug: "great-courses-subjects",
+   extendsSlug: ["page-type/collection-external"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/alan/library/studying/great-courses/great-course.page-type.ts b/alan/library/studying/great-courses/great-course.page-type.ts
+index 763edbc284f9d147247714d39fe48082e52d0d47..02b6cb0724fd11211468f8cb94972d3a70a89cf5 100644
+--- a/alan/library/studying/great-courses/great-course.page-type.ts
++++ b/alan/library/studying/great-courses/great-course.page-type.ts
+@@ -13,7 +13,7 @@ export const greatCourse = {
+   definition: "one course Alan is taught by",
+   pluralSlug: "great-courses",
+   extendsSlug: ["page-type/collection-external"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/alan/library/watching/episodes/episode.page-type.ts b/alan/library/watching/episodes/episode.page-type.ts
+index 97c93158d693338cee8b3b1f08d47d4b5d968463..ecbd60abdd86e069ba1fbe1a53211ab38e4487c3 100644
+--- a/alan/library/watching/episodes/episode.page-type.ts
++++ b/alan/library/watching/episodes/episode.page-type.ts
+@@ -21,10 +21,10 @@ export const episode = {
+   extendsSlug: ["page-type/collection-external"],
+   partSlugs: ["select-property/episode-type", "text-property/still-path"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "episode-type", required: false, many: false },
+-    { pagePropertySlug: "still-path", required: false, many: false },
+-    { pagePropertySlug: "vote-average", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "select-property/episode-type", required: false, many: false },
++    { pagePropertySlug: "text-property/still-path", required: false, many: false },
++    { pagePropertySlug: "number-property/vote-average", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/library/watching/fandom-collections/fandom-collection.page-type.ts b/alan/library/watching/fandom-collections/fandom-collection.page-type.ts
+index c64794ab24bb7b25c3b85ab3a8f547f0cb582f22..99c323760a7fe7fb7be799a02215ad13cfd744f7 100644
+--- a/alan/library/watching/fandom-collections/fandom-collection.page-type.ts
++++ b/alan/library/watching/fandom-collections/fandom-collection.page-type.ts
+@@ -13,5 +13,5 @@ export const fandomCollection = {
+   definition: "a shelf of fandoms Alan keeps together",
+   pluralSlug: "fandom-collections",
+   extendsSlug: ["page-type/collection"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/alan/library/watching/fandoms/fandom.page-type.ts b/alan/library/watching/fandoms/fandom.page-type.ts
+index 945a2e09040c8ccd8fe4cdb90284b0125d62a6cb..9dbe032a0f82cb99044451d54da2568a5c185539 100644
+--- a/alan/library/watching/fandoms/fandom.page-type.ts
++++ b/alan/library/watching/fandoms/fandom.page-type.ts
+@@ -13,5 +13,5 @@ export const fandom = {
+   definition: "a world Alan follows across its shows and films",
+   pluralSlug: "fandoms",
+   extendsSlug: ["page-type/collection-external"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/alan/library/watching/franchises/franchise.page-type.ts b/alan/library/watching/franchises/franchise.page-type.ts
+index b0a30b121650a7e6bdeab189962e168087abc719..1373aee7675a7195270373baaf87afd4fc88135f 100644
+--- a/alan/library/watching/franchises/franchise.page-type.ts
++++ b/alan/library/watching/franchises/franchise.page-type.ts
+@@ -13,7 +13,7 @@ export const franchise = {
+   definition: "the shows and films that share one world",
+   pluralSlug: "franchises",
+   extendsSlug: ["page-type/collection-external"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/alan/library/watching/movies/movie.page-type.ts b/alan/library/watching/movies/movie.page-type.ts
+index c3be8a1392977e5a86e32198adaf094a080add0d..5911de3b779fd0d1f1e65052b8d3fb29749ef380 100644
+--- a/alan/library/watching/movies/movie.page-type.ts
++++ b/alan/library/watching/movies/movie.page-type.ts
+@@ -25,12 +25,12 @@ export const movie = {
+   extendsSlug: ["page-type/collection-external"],
+   partSlugs: [],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "genres", required: false, many: true, max: null },
+-    { pagePropertySlug: "imdb-id", required: false, many: false },
+-    { pagePropertySlug: "poster-path", required: false, many: false },
+-    { pagePropertySlug: "production-status", required: false, many: false },
+-    { pagePropertySlug: "vote-average", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/genres", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/imdb-id", required: false, many: false },
++    { pagePropertySlug: "text-property/poster-path", required: false, many: false },
++    { pagePropertySlug: "select-property/production-status", required: false, many: false },
++    { pagePropertySlug: "number-property/vote-average", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/library/watching/seasons/season.page-type.ts b/alan/library/watching/seasons/season.page-type.ts
+index 35be8602e5cc851ba31ab61eec83d8fc8325218e..7e284dda8abbd64d131d9f6697e041601caf3cf5 100644
+--- a/alan/library/watching/seasons/season.page-type.ts
++++ b/alan/library/watching/seasons/season.page-type.ts
+@@ -19,9 +19,9 @@ export const season = {
+   extendsSlug: ["page-type/collection-external"],
+   partSlugs: [],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "poster-path", required: false, many: false },
+-    { pagePropertySlug: "vote-average", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/poster-path", required: false, many: false },
++    { pagePropertySlug: "number-property/vote-average", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/library/watching/show-collections/show-collection.page-type.ts b/alan/library/watching/show-collections/show-collection.page-type.ts
+index 4d708e34641bb323b075a50e7b4eed9427ba231b..dbde66710d80cc3b1cbfeb84d0bd627ae47b0091 100644
+--- a/alan/library/watching/show-collections/show-collection.page-type.ts
++++ b/alan/library/watching/show-collections/show-collection.page-type.ts
+@@ -13,5 +13,5 @@ export const showCollection = {
+   definition: "a shelf of shows Alan keeps together",
+   pluralSlug: "show-collections",
+   extendsSlug: ["page-type/collection-external"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/alan/library/watching/shows/show.page-type.ts b/alan/library/watching/shows/show.page-type.ts
+index 56de59d2691c612bea3374f3556caa7a62a98f6d..a203f713550fab38e544a7a199126a411a5698e0 100644
+--- a/alan/library/watching/shows/show.page-type.ts
++++ b/alan/library/watching/shows/show.page-type.ts
+@@ -27,13 +27,13 @@ export const show = {
+   extendsSlug: ["page-type/collection-external"],
+   partSlugs: ["calendar-date-property/last-air-date"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "genres", required: false, many: true, max: null },
+-    { pagePropertySlug: "imdb-id", required: false, many: false },
+-    { pagePropertySlug: "last-air-date", required: false, many: false },
+-    { pagePropertySlug: "poster-path", required: false, many: false },
+-    { pagePropertySlug: "production-status", required: false, many: false },
+-    { pagePropertySlug: "vote-average", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/genres", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/imdb-id", required: false, many: false },
++    { pagePropertySlug: "calendar-date-property/last-air-date", required: false, many: false },
++    { pagePropertySlug: "text-property/poster-path", required: false, many: false },
++    { pagePropertySlug: "select-property/production-status", required: false, many: false },
++    { pagePropertySlug: "number-property/vote-average", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/music/catalog/artist-collections/artist-collection.page-type.ts b/alan/music/catalog/artist-collections/artist-collection.page-type.ts
+index 1804f3c8af5129339fa0300467f7453558f6cdff..33d6e7c1776d96bc015253e82f2c0527f5221810 100644
+--- a/alan/music/catalog/artist-collections/artist-collection.page-type.ts
++++ b/alan/music/catalog/artist-collections/artist-collection.page-type.ts
+@@ -13,5 +13,5 @@ export const artistCollection = {
+   definition: "a shelf of artists Alan keeps together",
+   pluralSlug: "artist-collections",
+   extendsSlug: ["page-type/collection"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/alan/music/catalog/artists/artist.page-type.ts b/alan/music/catalog/artists/artist.page-type.ts
+index 931f9fcd75651deafa66b3fdf67cc349b4057acb..c959a668fa173f0b715a7e11fb8d0d8f572fb486 100644
+--- a/alan/music/catalog/artists/artist.page-type.ts
++++ b/alan/music/catalog/artists/artist.page-type.ts
+@@ -19,8 +19,8 @@ export const artist = {
+   extendsSlug: ["page-type/collection-external"],
+   partSlugs: ["file-property/reaction", "text-property/artist-genre"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "artist-genre", required: false, many: true, max: null },
+-    { pagePropertySlug: "reaction", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/artist-genre", required: false, many: true, max: null },
++    { pagePropertySlug: "file-property/reaction", required: false, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/alan/music/catalog/release-collections/release-collection.page-type.ts b/alan/music/catalog/release-collections/release-collection.page-type.ts
+index 4673654890b4c3deab99c0fd44d9f446721d60f4..d5409230dd3244bc8addb95a11e80ec806f0048d 100644
+--- a/alan/music/catalog/release-collections/release-collection.page-type.ts
++++ b/alan/music/catalog/release-collections/release-collection.page-type.ts
+@@ -13,5 +13,5 @@ export const releaseCollection = {
+   definition: "a shelf of releases Alan keeps together",
+   pluralSlug: "release-collections",
+   extendsSlug: ["page-type/collection"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/alan/music/catalog/releases/release.page-type.ts b/alan/music/catalog/releases/release.page-type.ts
+index d26ad00f2574149a11767e204ee4f92c64c11c74..4c286cd861a428fefc7e1de4ac74f6657dd3978e 100644
+--- a/alan/music/catalog/releases/release.page-type.ts
++++ b/alan/music/catalog/releases/release.page-type.ts
+@@ -13,7 +13,7 @@ export const release = {
+   definition: "an album Alan keeps",
+   pluralSlug: "releases",
+   extendsSlug: ["page-type/collection-external"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/alan/music/catalog/songs/song.page-type.ts b/alan/music/catalog/songs/song.page-type.ts
+index f6ab08e31e604e15e0943e7029b41f45c3e7b50b..ebfac1bfec5f8a4ea25d2cfe0337cc68da24b2eb 100644
+--- a/alan/music/catalog/songs/song.page-type.ts
++++ b/alan/music/catalog/songs/song.page-type.ts
+@@ -48,18 +48,18 @@ export const song = {
+     "text-property/written",
+   ],
+   properties: [
+-    { pagePropertySlug: "external-id", required: true, many: false },
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "artist-slug", required: true, many: false },
+-    { pagePropertySlug: "song-type", required: true, many: false },
+-    { pagePropertySlug: "performed", required: true, many: false },
+-    { pagePropertySlug: "lyrics-source", required: false, many: false },
+-    { pagePropertySlug: "written", required: false, many: false },
+-    { pagePropertySlug: "singability", required: false, many: false },
+-    { pagePropertySlug: "lyrics", required: false, many: false },
+-    { pagePropertySlug: "synced-lyrics", required: false, many: false },
+-    { pagePropertySlug: "insights", required: false, many: false },
+-    { pagePropertySlug: "personal-connections", required: false, many: false },
++    { pagePropertySlug: "text-property/external-id", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/artist-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/song-type", required: true, many: false },
++    { pagePropertySlug: "boolean-property/performed", required: true, many: false },
++    { pagePropertySlug: "text-property/lyrics-source", required: false, many: false },
++    { pagePropertySlug: "text-property/written", required: false, many: false },
++    { pagePropertySlug: "text-property/singability", required: false, many: false },
++    { pagePropertySlug: "file-property/lyrics", required: false, many: false },
++    { pagePropertySlug: "file-property/synced-lyrics", required: false, many: false },
++    { pagePropertySlug: "file-property/insights", required: false, many: false },
++    { pagePropertySlug: "file-property/personal-connections", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/music/listening/heard-music/heard-music.page-type.ts b/alan/music/listening/heard-music/heard-music.page-type.ts
+index eb4e48945bca2955f707f5b006ef07b336230742..d122b9c38da70a251e75a1f89622e831d15b092f 100644
+--- a/alan/music/listening/heard-music/heard-music.page-type.ts
++++ b/alan/music/listening/heard-music/heard-music.page-type.ts
+@@ -17,8 +17,8 @@ export const heardMusic = {
+   extendsSlug: ["page-type/page"],
+   partSlugs: ["page-property-entry/tracks"],
+   properties: [
+-    { pagePropertySlug: "person-slug", required: true, many: false },
+-    { pagePropertySlug: "tracks", required: true, many: false },
++    { pagePropertySlug: "relation-property/person-slug", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/tracks", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/music/listening/heard-music/tracks/tracks.page-property-entry.ts b/alan/music/listening/heard-music/tracks/tracks.page-property-entry.ts
+index cda6bf73b59d4ad35b11893b33158b2a9b1ce456..9bb9da0764d3cfcf70bfee9792146d52bfaea8ad 100644
+--- a/alan/music/listening/heard-music/tracks/tracks.page-property-entry.ts
++++ b/alan/music/listening/heard-music/tracks/tracks.page-property-entry.ts
+@@ -17,12 +17,12 @@ export const tracks = {
+     "text-property/track-name",
+   ],
+   properties: [
+-    { pagePropertySlug: "spotify-track-id", required: true, many: false },
+-    { pagePropertySlug: "title-key", required: true, many: false },
+-    { pagePropertySlug: "track-name", required: false, many: false },
+-    { pagePropertySlug: "artist-name", required: false, many: false },
+-    { pagePropertySlug: "first-heard-at", required: false, many: false },
+-    { pagePropertySlug: "heard-source", required: false, many: false },
++    { pagePropertySlug: "text-property/spotify-track-id", required: true, many: false },
++    { pagePropertySlug: "text-property/title-key", required: true, many: false },
++    { pagePropertySlug: "text-property/track-name", required: false, many: false },
++    { pagePropertySlug: "text-property/artist-name", required: false, many: false },
++    { pagePropertySlug: "instant-property/first-heard-at", required: false, many: false },
++    { pagePropertySlug: "text-property/heard-source", required: false, many: false },
+   ],
+   invariants: [
+     {
