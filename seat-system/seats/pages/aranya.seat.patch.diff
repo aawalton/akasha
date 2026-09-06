@@ -109,6 +109,47 @@ index e1cfdee8bdcbbb8395a62c147af4bad6104c8f54..ba0e63a92011eac85d804f13c1583238
    const census = censusOf(judged)
    const stale = staleAmong(judged)
    if (!read.removing) return answering([...census, ...heldBack(stale.length)], [], 0)
+diff --git a/command-system/commands/subagent-sweep/subagent-sweep.command.test-fixtures.ts b/command-system/commands/subagent-sweep/subagent-sweep.command.test-fixtures.ts
+index c8ea8d0b0f43b7b986809b7c17914000f76fc4a4..c3d5e68fd4a353d5eaeda4809dce24c00fa97cc8 100644
+--- a/command-system/commands/subagent-sweep/subagent-sweep.command.test-fixtures.ts
++++ b/command-system/commands/subagent-sweep/subagent-sweep.command.test-fixtures.ts
+@@ -100,16 +100,32 @@ export function node(agentId: string | null, children: readonly SubagentNode[] =
+   return { key: `tool-${agentId ?? "unnamed"}`, label: "Explore", agentId, children }
+ }
+ 
+-export function reading(by: Readonly<Record<string, readonly SubagentNode[]>>): SeatTranscripts {
+-  return { forSeat: (agentId) => Promise.resolve(by[agentId] ?? []) }
++export function reading(
++  by: Readonly<Record<string, readonly SubagentNode[]>>,
++  ended: Readonly<Record<string, readonly string[]>> = {}
++): SeatTranscripts {
++  return {
++    forSeat: (agentId) => Promise.resolve(by[agentId] ?? []),
++    endedForSeat: (agentId) => Promise.resolve(ended[agentId] ?? []),
++  }
+ }
+ 
+ export const UNREADABLE: SeatTranscripts = {
+   forSeat: () => Promise.reject(new Error("EACCES: permission denied")),
++  endedForSeat: () => Promise.reject(new Error("EACCES: permission denied")),
+ }
+ 
+-export function saying(own: readonly string[]): RunningSaid {
+-  return () => Promise.resolve(new Set(own))
++// A SEAT WHOSE RUNNING READING THROWS AND WHOSE ENDED READING ANSWERS. The two
++// are asked apart, so a test can seed one failing and watch the other stand.
++export function halfReading(ended: Readonly<Record<string, readonly string[]>>): SeatTranscripts {
++  return {
++    forSeat: () => Promise.reject(new Error("EACCES: permission denied")),
++    endedForSeat: (agentId) => Promise.resolve(ended[agentId] ?? []),
++  }
++}
++
++export function saying(own: readonly string[], ended: readonly string[] = []): RunningSaid {
++  return () => Promise.resolve({ running: new Set(own), ended: new Set(ended) })
+ }
+ 
+ export const THROWS: RunningSaid = () => Promise.reject(new Error("no transcript would open"))
 diff --git a/command-system/commands/subagent-sweep/subagent-sweep.command.ts b/command-system/commands/subagent-sweep/subagent-sweep.command.ts
 index f6fa01866168dc7de0dec4d0b28e3593cfba6107..f9a3b941f9d7921285740f23dca4c80be30669ed 100644
 --- a/command-system/commands/subagent-sweep/subagent-sweep.command.ts
