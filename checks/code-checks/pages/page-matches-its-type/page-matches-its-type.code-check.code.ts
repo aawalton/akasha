@@ -1,9 +1,7 @@
 import { waitingProperties } from "@akasha/indexes/generated-properties"
 import type { Change } from "@akasha/pages/change"
 import { type Formatting, matchingIn } from "@akasha/pages/name-format/format-reaching"
-import { entriedAmong, entriesIn, type Rows } from "@akasha/pages/page-entries"
 import { pageNamed } from "@akasha/pages/page-file-name"
-import { partsOf } from "@akasha/pages/page-file-parts"
 import type { Carried } from "@akasha/pages/page-type-properties"
 import { loadedFrom, numberAt, textAt, type Value } from "@akasha/pages/page-value"
 import type { Shadow } from "@akasha/pages/shadow"
@@ -16,18 +14,23 @@ import {
 } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { refusalText } from "../../../modules/refusal-text/refusal-text.module.code.ts"
+import {
+  entryReasonsIn,
+  FORMAT,
+  fieldsFor,
+  fieldsOf,
+  offFormat,
+  overMax,
+  overTotal,
+  type Shaping,
+  twiceIn,
+} from "./modules/entry-reasons/entry-reasons.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 
 const COMPUTED = "computed-property"
 
-const FORMAT = "nameFormatSlug"
-
 const NOTHING: ReadonlySet<string> = new Set()
-
-const ID = "id"
-
-const OWN: ReadonlySet<string> = new Set([ID])
 
 function entriesAt(held: Value, key: string): readonly Value[] {
   const said = held[key]
@@ -39,148 +42,6 @@ function entriesAt(held: Value, key: string): readonly Value[] {
     }
   }
   return kept
-}
-
-function overMax(said: unknown, max: number | null, slug: string, where: string): string | null {
-  if (typeof said !== "string" || max === null) return null
-  if (said.length <= max) return null
-  return `${where}\`${slug}\` runs to ${said.length} characters, over the max of ${max}`
-}
-
-function offFormat(
-  said: unknown,
-  nameFormatSlug: string | null,
-  formatting: Formatting,
-  slug: string
-): string | null {
-  if (typeof said !== "string" || nameFormatSlug === null) return null
-  if (formatting(nameFormatSlug)(said)) return null
-  return `\`${slug}\` is "${said}", which is not written in \`${nameFormatSlug}\``
-}
-
-function overTotal(held: readonly unknown[], total: number | null, slug: string): string | null {
-  if (total === null) return null
-  let sum = 0
-  for (const one of held) if (typeof one === "string") sum += one.length
-  if (sum <= total) return null
-  return `holds ${sum} characters of \`${slug}\`, over the total of ${total}`
-}
-
-function twiceIn(held: readonly unknown[], slug: string): string | null {
-  const seen = new Set<string>()
-  for (const one of held) {
-    const key = typeof one === "string" ? one : JSON.stringify(one)
-    if (typeof key !== "string") continue
-    if (seen.has(key)) {
-      const said = typeof one === "string" ? `"${one}"` : "an entry"
-      return `repeats ${said} in \`${slug}\`, and a list carries each value once`
-    }
-    seen.add(key)
-  }
-  return null
-}
-
-export type Shaping = {
-  readonly fields: ReadonlyMap<string, Carried>
-  readonly slug: string
-  readonly pageFor: (one: Carried) => Value | null
-  readonly formatting: Formatting
-}
-
-export function fieldsFor(page: Value, shadow: Shadow, slug: string): ReadonlyMap<string, Carried> {
-  const found = new Map<string, Carried>()
-  for (const each of shadow.index.carriedIn(page, slug)) found.set(each.key, each)
-  return found
-}
-
-export function fieldsOf(
-  entry: Value,
-  shaping: Shaping,
-  unjudged: ReadonlySet<string>
-): readonly string[] {
-  const said: string[] = []
-  const { fields, slug, pageFor, formatting } = shaping
-  for (const [inner, stated] of Object.entries(entry)) {
-    if (unjudged.has(inner)) continue
-    const shaped = fields.get(inner)
-    if (shaped === undefined) {
-      said.push(`states \`${slug} ${inner}\`, which \`${slug}\` does not declare`)
-      continue
-    }
-    const field = shaped.pagePropertySlug
-    const fieldPage = pageFor(shaped)
-    const max = fieldPage === null ? null : numberAt(fieldPage, "max")
-    const format = fieldPage === null ? null : textAt(fieldPage, FORMAT)
-    const many = Array.isArray(stated)
-    if (shaped.many && many && shaped.max !== null && stated.length > shaped.max) {
-      said.push(`holds ${stated.length} of \`${slug} ${field}\`, over the max of ${shaped.max}`)
-    }
-    if (shaped.many && many) {
-      const why = overTotal(stated, shaped.total, `${slug} ${field}`)
-      if (why !== null) said.push(why)
-      const twice = twiceIn(stated, `${slug} ${field}`)
-      if (twice !== null) said.push(twice)
-    }
-    for (const each of many ? stated : [stated]) {
-      const why = overMax(each, max, `${slug} ${field}`, "")
-      if (why !== null) said.push(why)
-      const off = offFormat(each, format, formatting, `${slug} ${field}`)
-      if (off !== null) said.push(off)
-    }
-  }
-  return said
-}
-
-export function entriesOver(
-  path: string,
-  propertySlug: string,
-  held: string,
-  beside: (at: string) => string | null
-): Rows {
-  const found: Value[] = []
-  for (const at of partsOf(path, propertySlug, held, (one) => beside(one) !== null)) {
-    const text = beside(at)
-    if (text === null) continue
-    const read = entriesIn(at, text)
-    if ("refused" in read) return read
-    found.push(...read.entries)
-  }
-  return { entries: found }
-}
-
-export function entryReasonsIn(
-  value: Value,
-  declared: readonly Carried[],
-  shadow: Shadow,
-  path: string,
-  beside: (at: string) => string | null,
-  formatting: Formatting
-): readonly string[] {
-  const said: string[] = []
-  const pageFor = (one: Carried): Value | null =>
-    shadow.index.pageAt(one.pageTypeSlug, one.pagePropertySlug)
-  for (const one of entriedAmong(declared)) {
-    const held = value[one.key]
-    if (typeof held !== "string") continue
-    const read = entriesOver(path, one.propertySlug, held, beside)
-    if ("refused" in read) {
-      said.push(read.refused)
-      continue
-    }
-    const page = pageFor(one)
-    if (page === null) continue
-    const slug = one.pagePropertySlug
-    const fields = fieldsFor(page, shadow, slug)
-    if (fields.size === 0) continue
-    const shaping: Shaping = { fields, slug, pageFor, formatting }
-    for (const entry of read.entries) {
-      if (typeof entry[ID] !== "string") {
-        said.push(`keeps an entry of \`${slug}\` carrying no id, and every entry carries an id`)
-      }
-      said.push(...fieldsOf(entry, shaping, OWN))
-    }
-  }
-  return said
 }
 
 // THE WORDS COME FROM THE REFUSAL'S OWN PAGE. A page stating a key its page type works out carries

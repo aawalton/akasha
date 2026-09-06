@@ -5,6 +5,7 @@ export const pageMatchesItsType = {
   pageTypeSlug: "code-check",
   slug: "page-matches-its-type",
   definition: "the check refusing a page that does not carry what its page type declares",
+  partSlugs: ["module/entry-reasons"],
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -70,31 +71,6 @@ export const pageMatchesItsType = {
       invariantKind: "departure",
       statement:
         "Where a page type sits is read from the index as the change leaves that page type.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A record's fields are judged against the record property that declares those fields.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An entry beside the page is judged against the fields its property declares.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A numbered entry file beside the page is judged as the first file is judged.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An entry's own id is not judged as a field of the shape declaring the entry.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An entry carrying no id refuses the page.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "An entry file that will not read refuses the page.",
     },
     {
       invariantKind: "gap",
