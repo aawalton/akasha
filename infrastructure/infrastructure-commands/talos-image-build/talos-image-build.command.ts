@@ -27,7 +27,11 @@ export const talosImageBuild = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The node is named as a word or after `--node`, and naming both is refused.",
+      statement: "The node is named as a word or after `--node`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A node named as a word and after `--node` is refused.",
     },
     {
       invariantKind: "departure",
@@ -35,7 +39,8 @@ export const talosImageBuild = {
     },
     {
       invariantKind: "departure",
-      statement: "A schematic id is the content of the schematic rather than a name given to it.",
+      statement:
+        "A schematic id is the content of the schematic rather than a name given to the schematic.",
     },
     {
       invariantKind: "departure",
