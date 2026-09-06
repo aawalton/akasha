@@ -47,7 +47,7 @@ export const lockHolder = {
     },
     {
       invariantKind: "departure",
-      statement: "No holder is an answer rather than a failure to read one.",
+      statement: "No holder is an answer rather than a failure to read a holder.",
     },
     {
       invariantKind: "absence",
