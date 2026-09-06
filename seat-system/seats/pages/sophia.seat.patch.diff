@@ -1,0 +1,13 @@
+diff --git a/role-system/roles/role.page-type.ts b/role-system/roles/role.page-type.ts
+index 9b47cd75d3aa778c974fe21e49e480295e478a40..618e4cb412a887b7175624d0cd319c75afd47f13 100644
+--- a/role-system/roles/role.page-type.ts
++++ b/role-system/roles/role.page-type.ts
+@@ -73,7 +73,7 @@ export const role = {
+     {
+       directiveKind: "rule",
+       name: "Irreversibility",
+-      act: "Look at what an irreversible act lands on before making it.",
++      act: "Look at what an irreversible command lands on before running it.",
+       warrant:
+         "A reversible command and an irreversible one run the same motion, and the difference shows too late.",
+       aids: ["Looking means listing what it hits, not thinking.", "Overwriting is deleting."],
