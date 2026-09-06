@@ -298,6 +298,71 @@ index 8986ff1ff968c9ad3f66dd00b6e8ecf6ec20dfc8..dc0c85a93da2a40f857a630889e92604
    unitSlug: "words",
    chapterText: "md",
  } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/installers/defunct.book-section.ts b/alan/books/my-projects/sections/solar-power/installers/defunct.book-section.ts
+index c6bd5908a03d7a11a213e02c57c73b44b29538ed..1c7bfcdd989dca755045de0d994160dccdab9da0 100644
+--- a/alan/books/my-projects/sections/solar-power/installers/defunct.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/installers/defunct.book-section.ts
+@@ -6,7 +6,7 @@ export const defunct = {
+   slug: "defunct",
+   title: "Defunct / Red-Flag Operators",
+   description: "Defunct, exited, or red-flagged solar installers — do not contract.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["installers"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/installers/local.book-section.ts b/alan/books/my-projects/sections/solar-power/installers/local.book-section.ts
+index 35f406d0a323ceab195c7f47aca7c28562951e47..2bec42af3bc9a44d0017a5d5aeaf92c97faff1aa 100644
+--- a/alan/books/my-projects/sections/solar-power/installers/local.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/installers/local.book-section.ts
+@@ -6,7 +6,7 @@ export const local = {
+   slug: "local",
+   title: "Local Utah Installers",
+   description: "Utah-based local solar installers serving Provo / Utah County.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["installers"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/installers/national.book-section.ts b/alan/books/my-projects/sections/solar-power/installers/national.book-section.ts
+index aab31ec8fba6854db64b9e07fae7980bca60bace..c42093b462eb4a271ff59fd597a0f627c8dec1c5 100644
+--- a/alan/books/my-projects/sections/solar-power/installers/national.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/installers/national.book-section.ts
+@@ -6,7 +6,7 @@ export const national = {
+   slug: "national",
+   title: "National Installers",
+   description: "National multi-state solar installers with Utah / Provo presence.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["installers"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/installers/observations.book-section.ts b/alan/books/my-projects/sections/solar-power/installers/observations.book-section.ts
+index fbf694ad126bfead81e8845232707de7743f7229..d7b1b2fdb07196b2f970a0a1421ce4fba2a64134 100644
+--- a/alan/books/my-projects/sections/solar-power/installers/observations.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/installers/observations.book-section.ts
+@@ -6,7 +6,7 @@ export const observations = {
+   slug: "observations",
+   title: "Summary Observations",
+   description: "Summary observations on Provo / Utah solar installer landscape.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["installers"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/installers/regional.book-section.ts b/alan/books/my-projects/sections/solar-power/installers/regional.book-section.ts
+index ff366ccd66d1692728ee4bf4e219ba59ed7bacc6..181aeb005ec2352f89899204c0d81f1c8b8721a9 100644
+--- a/alan/books/my-projects/sections/solar-power/installers/regional.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/installers/regional.book-section.ts
+@@ -6,7 +6,7 @@ export const regional = {
+   slug: "regional",
+   title: "Regional Installers",
+   description: "Regional / multi-state solar installers serving Provo, UT.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["installers"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
 diff --git a/alan/books/my-projects/sections/solar-power/pricing.book-section.ts b/alan/books/my-projects/sections/solar-power/pricing.book-section.ts
 index 90c9450af1059bbfa0bcf4c6b4d981c834eb4919..eae13cabbf114092cbd025194042ead32670992b 100644
 --- a/alan/books/my-projects/sections/solar-power/pricing.book-section.ts
