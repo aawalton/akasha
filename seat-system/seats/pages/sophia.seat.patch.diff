@@ -1,16 +1,3 @@
-diff --git a/pages/file-name/page-file-name.module.test.ts b/pages/file-name/page-file-name.module.test.ts
-index 13aa26efd25ab2b745732662022ce04be319a93c..c6e5bf1716ee10c93c6f4924c78f81e268ab4c9e 100644
---- a/pages/file-name/page-file-name.module.test.ts
-+++ b/pages/file-name/page-file-name.module.test.ts
-@@ -286,7 +286,7 @@ test("a slug carrying hyphens and digits still anchors the name at its first par
-   })
-   expect(partedIn("akasha/one/temper-0000000000000fff.runtime-error.uncommitted.ts")).toEqual({
-     slug: "temper-0000000000000fff",
--    pageType: "error",
-+    pageType: "runtime-error",
-     sections: ["uncommitted"],
-     held: "ts",
-   })
 diff --git a/person-system/device-secret-keeping/device-secret-keeping.module.test.ts b/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
 index b86169ee813e436588ba5dae00e5e354c33ce684..363b980f74972c9e9532bf3b4e22d1f8433867cf 100644
 --- a/person-system/device-secret-keeping/device-secret-keeping.module.test.ts
