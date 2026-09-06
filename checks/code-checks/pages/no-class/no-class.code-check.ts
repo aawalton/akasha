@@ -27,6 +27,10 @@ export const noClass = {
     },
     {
       invariantKind: "departure",
+      statement: "A class a type declaration holds is let through.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A class extending `React.Component` that declares no `static getDerivedStateFromError` is refused.",
     },

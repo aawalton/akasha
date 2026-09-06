@@ -16,6 +16,8 @@ const DERIVED = "getDerivedStateFromError"
 
 const UNNAMED = "an unnamed class"
 
+const DECLARED = ".d.ts"
+
 type Found = {
   readonly named: string
   readonly line: number
@@ -63,10 +65,10 @@ function extendsComponent(extending: string | null): boolean {
 
 export function classesIn(at: string, text: string): readonly Found[] {
   const source = parsedAs(at, text)
-  const found: Found[] = []
+  const seen: Found[] = []
   const held = (node: ts.Node): undefined => {
     if (ts.isClassDeclaration(node) || ts.isClassExpression(node)) {
-      found.push({
+      seen.push({
         named: node.name?.text ?? UNNAMED,
         line: lineOf(source, node),
         expression: ts.isClassExpression(node),
@@ -77,7 +79,7 @@ export function classesIn(at: string, text: string): readonly Found[] {
     ts.forEachChild(node, held)
   }
   ts.forEachChild(source, held)
-  return found
+  return seen
 }
 
 function permitted(one: Found): boolean {
@@ -96,6 +98,7 @@ function reasonFor(one: Found): string {
 }
 
 function found(path: string, text: string): readonly string[] {
+  if (path.endsWith(DECLARED)) return []
   return classesIn(path, text)
     .filter((one) => !permitted(one))
     .map(reasonFor)

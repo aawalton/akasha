@@ -132,8 +132,10 @@ test("a file that is not TypeScript is passed over", () => {
   expect(reasonsIn(given("akasha/notes.txt", "class Held {}\n"))).toEqual([])
 })
 
-test("a declaration file is judged, because its name ends in `.ts`", () => {
-  expect(reasonsIn(given("akasha/held.d.ts", "declare class Held {}\n"))).toHaveLength(1)
+test("a class a declaration file holds is let through, and the same body in a module is not", () => {
+  const body = "export class Held {}\n"
+  expect(reasonsIn(given("akasha/held.d.ts", body))).toEqual([])
+  expect(reasonsIn(given("akasha/held.ts", body))).toHaveLength(1)
 })
 
 test("a body that is not text refuses rather than being passed over", () => {
