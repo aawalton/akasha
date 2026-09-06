@@ -1,0 +1,64 @@
+diff --git a/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.code.ts b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.code.ts
+index 5972a6822008ac79f001658b5685a678348f0165..aa5e4753a914067f17bdf81d751b3658c5cd757d 100644
+--- a/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.code.ts
++++ b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.code.ts
+@@ -3,7 +3,7 @@ import ts from "typescript"
+ import {
+   judgingEach,
+   overEachText,
+-  TEXTS,
++  textsBy,
+ } from "../../../modules/change-walking/change-walking.module.code.ts"
+ 
+ const CALCULATED = ".computed-property.code.ts"
+@@ -50,13 +50,19 @@ function reasonFor(one: Found): string {
+   return `line ${one.line} imports \`${one.named}\` from \`${one.from}\` as a value — ${ONLY}`
+ }
+ 
++function calculated(path: string): boolean {
++  return path.endsWith(CALCULATED)
++}
++
+ function refusalsIn(path: string, text: string): readonly string[] {
+-  if (!path.endsWith(CALCULATED)) return []
++  if (!calculated(path)) return []
+   return valueImportsIn(path, text).map(reasonFor)
+ }
+ 
+ export const reasonsIn = overEachText(refusalsIn)
+ 
+-export const calculationImportsOnlyTypes = judgingEach(TEXTS, (given) =>
++const CALCULATIONS = textsBy("calculations", calculated)
++
++export const calculationImportsOnlyTypes = judgingEach(CALCULATIONS, (given) =>
+   refusalsIn(given.path, given.text)
+ )
+diff --git a/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
+index 39569307fa2eb41e989b13b17ee2822df2a720cc..1337f0221d9288e093db16e1bd108fb366aa52bc 100644
+--- a/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
++++ b/checks/code-checks/pages/calculation-imports-only-types/calculation-imports-only-types.code-check.ts
+@@ -53,6 +53,11 @@ export const calculationImportsOnlyTypes = {
+       invariantKind: "absence",
+       statement: "Only a file named `.computed-property.code.ts` is judged.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "This check's input is those files alone, so a change carrying none does not run it.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here judges a calculation's exports.",
+diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
+index 37cbd542df57adfc6921d7e004954d6bfb0a7f21..7a33d3424db8c036f4d8be6aeaa1f756478c141a 100644
+--- a/checks/modules/change-walking/change-walking.module.code.ts
++++ b/checks/modules/change-walking/change-walking.module.code.ts
+@@ -95,7 +95,7 @@ export function bodyNamed(path: string): boolean {
+   return textNamed(path) || styleNamed(path)
+ }
+ 
+-function textsBy(named: string, taken: (path: string) => boolean): Selector<Text> {
++export function textsBy(named: string, taken: (path: string) => boolean): Selector<Text> {
+   return {
+     named,
+     isInput: (path) => taken(path),
