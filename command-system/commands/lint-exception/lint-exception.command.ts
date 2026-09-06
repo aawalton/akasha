@@ -44,7 +44,7 @@ export const lintException = {
     },
     {
       invariantKind: "departure",
-      statement: "The override already turning that rule off is the one a package joins.",
+      statement: "The override already turning that rule off is the override a package joins.",
     },
     {
       invariantKind: "departure",
