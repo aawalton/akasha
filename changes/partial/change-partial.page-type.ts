@@ -27,16 +27,15 @@ export const changePartial = {
     {
       invariantKind: "departure",
       statement:
-        "A partial change is handed the files it works over rather than asking the index for them.",
+        "A partial change is handed the files to work over rather than asking the index for those files.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "The bodies are answered rather than written, so the change running it lands them as one.",
+      statement: "The bodies the calling change lands as a unit are answered rather than written.",
     },
     {
       invariantKind: "departure",
-      statement: "A partial change refuses or answers every body it changes.",
+      statement: "A partial change refuses or answers every body the partial change changes.",
     },
     {
       invariantKind: "absence",
