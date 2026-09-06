@@ -30,7 +30,7 @@ export const change = {
     "making the edits and applying them are two calls, so the edits held unapplied are the dry run.",
     "`drop` is the one first word naming no change, and takes away every edit kept.",
     "a drop names each edit that went, because nothing puts a dropped edit back.",
-    "a change whose page runs the checks is judged here, and the edits are kept whatever refused.",
+    "no check runs here, and an apply judges the edits kept before the edits are folded in.",
   ],
   invariants: [
     {
@@ -137,11 +137,11 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A change whose page runs the checks has the whole set of edits kept judged here.",
+      statement: "No check runs here.",
     },
     {
       invariantKind: "departure",
-      statement: "A check refusing is reported rather than taking the edits kept away.",
+      statement: "An apply judges the whole set of edits kept before folding the edits in.",
     },
     {
       invariantKind: "departure",
@@ -149,7 +149,7 @@ export const change = {
     },
     {
       invariantKind: "departure",
-      statement: "A change whose page runs no check is judged by no check here.",
+      statement: "A check refusing at an apply leaves the edits kept where the edits are.",
     },
     {
       invariantKind: "absence",

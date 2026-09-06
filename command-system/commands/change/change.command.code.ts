@@ -28,9 +28,7 @@ import {
 import { mistaking } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
-import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
-import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
 import { inputIn, type Piping } from "../../piping/piping.module.code.ts"
 import { offRepo, pathAt, unknownIn } from "../write/write.command.code.ts"
 
@@ -42,17 +40,12 @@ const BYTES = new TextEncoder()
 
 const AT = "at"
 
-const RUNS_CHECKS = "runsChecks"
-
 const CHANGE_COMMAND = "change-command"
 
 // A change reached from the command line is typed for the kind that change is, and the old
 // `change-command` is the type those kinds replace, so a slug is looked for under each of them
 // until no page is left carrying the old type.
 const COMMAND_TYPES: readonly string[] = [CHANGE_COMMAND, "change-checked", "change-authored"]
-
-const STILL_KEPT =
-  "the edits are kept — mend what refused with more changes before `akasha apply` lands them"
 
 const DROP = "drop"
 

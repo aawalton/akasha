@@ -6,6 +6,7 @@ export const changePagePageType = {
   slug: "change-page-page-type",
   definition: "one page stated as another page type, in the data and in every file name",
   code: "ts",
+  test: "ts",
 
   isCommand: true,
   runsChecks: true,
