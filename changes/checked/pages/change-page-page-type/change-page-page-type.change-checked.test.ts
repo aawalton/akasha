@@ -13,12 +13,28 @@ const ONE_PAGE = "akasha/kept/one.kept.ts"
 
 const ONE_MOVED = "akasha/kept/one.spare.ts"
 
+const ONE_CODE = "akasha/kept/one.kept.code.ts"
+
+const ONE_TEST = "akasha/kept/one.kept.test.ts"
+
+const ONE_TEST_MOVED = "akasha/kept/one.spare.test.ts"
+
+const ONE_CODE_BODY = `export const held = "one"
+`
+
+const ONE_TEST_BODY = `import { held } from "./one.kept.code.ts"
+
+export const proved = held
+`
+
 const ONE_BODY = `import type { Kept } from "../kept.page-type.ts"
 
 export const one = {
   id: "${idOf("1")}",
   pageTypeSlug: "kept",
   slug: "one",
+  code: "ts",
+  test: "ts",
   definition: "a page stated as another page type",
 } as const satisfies Kept
 `
@@ -30,6 +46,10 @@ function typeBody(slug: string, at: string): string {
     slug,
     pluralSlug: `${slug}s`,
     extendsSlug: ["page-type/page"],
+    properties: [
+      { pagePropertySlug: "file-property/code", required: false, many: false },
+      { pagePropertySlug: "file-property/test", required: false, many: false },
+    ],
   })
 }
 
@@ -38,6 +58,8 @@ function repoIn(): string {
     [KEPT_TYPE]: typeBody("kept", "e"),
     [SPARE_TYPE]: typeBody("spare", "f"),
     [ONE_PAGE]: ONE_BODY,
+    [ONE_CODE]: ONE_CODE_BODY,
+    [ONE_TEST]: ONE_TEST_BODY,
   })
 }
 
@@ -59,6 +81,14 @@ test("the page type a page states is restated in the body", () => {
   expect(one?.body ?? "").toContain(`pageTypeSlug: "spare"`)
   expect(one?.body ?? "").toContain("satisfies Spare")
   expect(one?.body ?? "").toContain(`from "../spare.page-type.ts"`)
+})
+
+test("a moved body naming another moved path is repointed in the same answer", () => {
+  const said = changePagePageType(worldIn(repoIn()), { at: ONE_PAGE, to: SPARE_TYPE })
+  const one = said.edits.find((edit) => edit.path === ONE_TEST_MOVED)
+
+  expect(said.refused).toBeNull()
+  expect(one?.body ?? "").toContain(`from "./one.spare.code.ts"`)
 })
 
 test("the page type a page already is refuses rather than carrying the page", () => {
