@@ -10,7 +10,7 @@ export const seatReviveIoVerifyDecide = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A seat that has advanced on any of its signals has advanced.",
+      statement: "A seat that has advanced on a single signal has advanced.",
     },
     {
       invariantKind: "departure",
