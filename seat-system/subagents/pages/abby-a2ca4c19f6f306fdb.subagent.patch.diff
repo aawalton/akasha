@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-my-stamina-actually-moves.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-my-stamina-actually-moves.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f60e510f237098d71825a6ed748c7c250b7154b7
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-my-stamina-actually-moves.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howMyStaminaActuallyMoves = {
++  id: "01a077ee-6669-753c-9247-b8c5b9b0d696",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-my-stamina-actually-moves",
++  topicSlug: "stamina-bar",
++  ask: "How does my stamina actually move: what sleep puts back, what the day takes out, and what fatigue, sleep debt, hunger and thirst do to the bar?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-sits-below-zero-on-stamina.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-sits-below-zero-on-stamina.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ac5ecc0f45ae51131f8215faf4950d683c898703
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-sits-below-zero-on-stamina.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatSitsBelowZeroOnStamina = {
++  id: "01a077ee-6668-7204-bab6-656e1fa75295",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-sits-below-zero-on-stamina",
++  topicSlug: "stamina-bar",
++  ask: "What sits below zero on my stamina bar? Nothing below zero has come up for stamina, and the same three readings fit as for mana.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/stamina-bar.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/stamina-bar.all-about-alan-topic.ts
+index dc789dc18025875a9065625aaae97ce8fb2542d2..19e193c0c830040ba7979fcaddac1ebd152f07cd 100644
+--- a/alan/books/all-about-alan/topics/pages/stamina-bar.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/stamina-bar.all-about-alan-topic.ts
+@@ -8,6 +8,4 @@ export const staminaBar = {
+   definition: "what my body has left to move with",
+   parentSlugs: ["resource-bars"],
+   relatedSlugs: ["mana-bar"],
+-  unsettled:
+-    "Nothing below zero has surfaced for stamina either, and the same three readings fit as for mana.\n\nHow stamina actually moves is uncaptured: what sleep puts back, what the day takes out, and what fatigue, sleep debt, hunger and thirst do to it.",
+ } as const satisfies AllAboutAlanTopic
