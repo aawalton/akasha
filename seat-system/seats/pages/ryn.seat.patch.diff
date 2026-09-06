@@ -1,9 +1,8 @@
-readersOweReading: false
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index b021b6cbdde91ee5c6797452cae7554ada89bcef..4b3b2c61e26fc80624992e9aba31cc5f879aa367 100644
+index b021b6cbdde91ee5c6797452cae7554ada89bcef..1d3677f9a9eaa1a9bb760c2ca58fc725a5e444c2 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
-@@ -56,7 +56,7 @@ export const codeTests = {
+@@ -56,11 +56,15 @@ export const codeTests = {
      },
      {
        invariantKind: "departure",
@@ -12,7 +11,16 @@ index b021b6cbdde91ee5c6797452cae7554ada89bcef..4b3b2c61e26fc80624992e9aba31cc5f
      },
      {
        invariantKind: "departure",
-@@ -267,7 +267,7 @@ export const codeTests = {
+-      statement: "A group is run in batches, and a batch is one run.",
++      statement: "A group is run in batches.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A batch is one run.",
+     },
+     {
+       invariantKind: "departure",
+@@ -267,7 +271,7 @@ export const codeTests = {
      },
      {
        invariantKind: "departure",
