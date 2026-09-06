@@ -52,3 +52,39 @@ index 0000000000000000000000000000000000000000..dcc84d469d47b9aff1e36ca7ec000956
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/command-system/commands/track/track.command.ts b/command-system/commands/track/track.command.ts
+index f1516a703ee8b15ad96856cc02ad6cf86192e6f5..f6803c070f844842f2bc841e8a012f154f3bad32 100644
+--- a/command-system/commands/track/track.command.ts
++++ b/command-system/commands/track/track.command.ts
+@@ -8,7 +8,12 @@ export const track = {
+   code: "ts",
+   test: "ts",
+   changeKindSlug: "change-mechanical",
+-  partSlugs: ["module/session-leveling", "module/session-rows", "module/waking"],
++  partSlugs: [
++    "module/day-landing",
++    "module/session-leveling",
++    "module/session-rows",
++    "module/waking",
++  ],
+   taking: [
+     { said: "session", takes: "what to act on, which is one stretch of time a day was spent in" },
+     { said: "open", takes: "the act, which is to begin a stretch where none is open" },
+@@ -216,7 +221,7 @@ export const track = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Two days one act changes land as one commit.",
++      statement: "Two days one act changes land in a single commit.",
+     },
+     {
+       invariantKind: "absence",
+@@ -313,7 +318,7 @@ export const track = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A set that is judged sound lands as one commit.",
++      statement: "A set that is judged sound lands in a single commit.",
+     },
+     {
+       invariantKind: "departure",
