@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts b/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts
+index 18e67c6f12b8e6b9664665b7e2fa0610df379eb7..0284cdb12939195275bba632dab6ba8ca490b225 100644
+--- a/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts
++++ b/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts
+@@ -59,7 +59,7 @@ export const exerciseNextSet = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A slot with no load prescribed says to pick one that holds the range at the RIR target.",
++        "A slot with no load prescribed says to pick a load holding the range at the RIR target.",
+     },
+     {
+       invariantKind: "absence",
