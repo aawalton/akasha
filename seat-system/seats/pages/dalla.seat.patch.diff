@@ -1,0 +1,88 @@
+diff --git a/testing-system/minting/minting.module.code.ts b/testing-system/minting/minting.module.code.ts
+index 698d4316f3c5a80f7b751f7fb9d801d4d8ef063f..4f5c17894ba0ad4dd806449f7858fd0a3cfddb8a 100644
+--- a/testing-system/minting/minting.module.code.ts
++++ b/testing-system/minting/minting.module.code.ts
+@@ -2,7 +2,7 @@ import { createHash } from "node:crypto"
+ import { mkdirSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import type { Phase } from "@akasha/checks/checking"
+-import { idFiled, listedFiled } from "@akasha/indexes/testing"
++import { idFiled, listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
+ import { exportedAs } from "@akasha/pages/page-export-name"
+ 
+ export const REFUSES_CODE = `export function refuses(change) {
+@@ -35,24 +35,35 @@ export function mintedId(slug: string): string {
+   return `${time}-${version}-${variant}-${said.slice(20, 32)}`
+ }
+ 
++function valueFor(
++  slug: string,
++  id: string,
++  definition: string,
++  phase: Phase = "patch"
++): Readonly<Record<string, unknown>> {
++  return {
++    id,
++    pageTypeSlug: CHECK,
++    slug,
++    definition,
++    code: "ts",
++    runsOnPatch: phase === "patch",
++    runsOnWorktree: phase === "worktree",
++    runsOnDeploy: phase === "deploy",
++    runsOnAudit: phase === "audit",
++  }
++}
++
+ export function pageFor(
+   slug: string,
+   id: string,
+   definition: string,
+   phase: Phase = "patch"
+ ): string {
+-  return `export const ${exportedAs(slug)} = {
+-  id: "${id}",
+-  pageTypeSlug: "${CHECK}",
+-  slug: "${slug}",
+-  definition: "${definition}",
+-  code: "ts",
+-  runsOnPatch: ${phase === "patch"},
+-  runsOnWorktree: ${phase === "worktree"},
+-  runsOnDeploy: ${phase === "deploy"},
+-  runsOnAudit: ${phase === "audit"},
+-}
+-`
++  const said = Object.entries(valueFor(slug, id, definition, phase))
++    .map(([key, one]) => `  ${key}: ${JSON.stringify(one)},`)
++    .join("\n")
++  return `export const ${exportedAs(slug)} = {\n${said}\n}\n`
+ }
+ 
+ export function minting(
+@@ -68,6 +79,7 @@ export function minting(
+   writeFileSync(join(root, at), pageFor(slug, id, definition, phase))
+   writeFileSync(join(root, `akasha/${slug}.${CHECK}.code.ts`), code)
+   listedFiled(root, CHECK, slug, [{ path: at, id }])
++  valueAlsoFiled(root, CHECK, [{ path: at, value: valueFor(slug, id, definition, phase) }])
+   idFiled(root, CHECK_TYPE, [{ path: CHECK_TYPE_AT, id: CHECK_TYPE }])
+ }
+ 
+diff --git a/testing-system/minting/minting.module.ts b/testing-system/minting/minting.module.ts
+index c135b0a016a0e89a7226542e30d92814f5a20bc6..be6f50af0c4c50b3ffbee8383a957bdccfa189ac 100644
+--- a/testing-system/minting/minting.module.ts
++++ b/testing-system/minting/minting.module.ts
+@@ -15,6 +15,14 @@ export const minting = {
+       invariantKind: "departure",
+       statement: "One place mints the checks.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The index names a check a test mints.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A check a test mints carries the same value in the index and in its own body.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A minted id is worked out from the slug the id is minted for.",
