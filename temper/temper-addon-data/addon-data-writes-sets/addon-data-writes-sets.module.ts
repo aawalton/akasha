@@ -9,11 +9,11 @@ export const addonDataWritesSets = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A section renders some of its tables from pages and some from what temper holds.",
+      statement: "A section renders certain tables from pages and the rest from what temper holds.",
     },
     {
       invariantKind: "departure",
-      statement: "A section states its writes rather than performing those writes.",
+      statement: "A section states the section's writes rather than performing the writes.",
     },
   ],
 } as const satisfies Module
