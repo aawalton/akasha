@@ -1,0 +1,110 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/command-system/commands/apply/apply.command.code.ts b/command-system/commands/apply/apply.command.code.ts
+index 972b53c823e43336608e11a150f64098d737cc47..1f6502735306ba30c6cbbd8b259cc2fc66f40532 100644
+--- a/command-system/commands/apply/apply.command.code.ts
++++ b/command-system/commands/apply/apply.command.code.ts
+@@ -7,6 +7,9 @@ import {
+ } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
+ import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
++import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
++import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
++import { editsFor } from "../change/change.command.code.ts"
+ import { type Draft, drafted, type Running } from "../../drafting/drafting.module.code.ts"
+ import { applying } from "../patch/patch.command.code.ts"
+ import { MESSAGE, MESSAGE_FILE, unknownIn } from "../write/write.command.code.ts"
+@@ -63,11 +66,28 @@ export function folding(root: string, page: string): Folded {
+   return "why" in kept ? { refusals: [kept.why] } : answer
+ }
+ 
++// The edits are judged where the edits are kept, so a refusal leaves the edits beside the agent's
++// page for another change to mend rather than in a patch no change reaches.
++async function refusedBefore(root: string, page: string): Promise<readonly string[]> {
++  const kept = keptEdits(root, page, (had) => had)
++  if ("why" in kept) return [kept.why]
++  if (kept.rows.length === 0) return []
++  const built = gateBuilt(root)
++  if ("broken" in built) return [`no check ran — the checks would not load: ${built.broken}`]
++  const change = changeOf(root, { base: baseOf(root), edits: editsFor(kept.rows) })
++  const said = await built.gate.over(change)
++  return said.map((one) => `${one.path} — ${one.reason}`)
++}
++
+ export async function apply(argv: readonly string[], given: Given): Promise<Answer> {
+   const unknown = unknownIn(argv, APPLYING, BARE)
+   if (unknown.length > 0) return mistaking(unknown)
+   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
+   if (page === null || editsAt(page) === null) return mistaking([NO_PAGE])
++  if (!argv.includes(BREAK_GLASS)) {
++    const refused = await refusedBefore(given.root, page)
++    if (refused.length > 0) return { report: [], refusals: refused, code: 3 }
++  }
+   const said = folding(given.root, page)
+   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
+   const answered = await applying(given, page, argv)
+diff --git a/command-system/commands/change/change.command.code.ts b/command-system/commands/change/change.command.code.ts
+index 694123ff5cbd67dcbef30338df8b8fe143bd86de..0e8dd55a60bd082da820029c61a809aba1db44fa 100644
+--- a/command-system/commands/change/change.command.code.ts
++++ b/command-system/commands/change/change.command.code.ts
+@@ -125,15 +125,6 @@ export function editsFor(rows: readonly Edit[]): readonly FileEdit[] {
+   return held
+ }
+ 
+-async function judgedSaid(root: string, rows: readonly Edit[]): Promise<readonly string[]> {
+-  const built = gateBuilt(root)
+-  if ("broken" in built) return [`no check ran — the checks would not load: ${built.broken}`]
+-  const change = changeOf(root, { base: baseOf(root), edits: editsFor(rows) })
+-  const said = await built.gate.over(change)
+-  if (said.length === 0) return ["every check judged the edits kept, and none refused"]
+-  return [...said.map((one) => `${one.path} — ${one.reason}`), STILL_KEPT]
+-}
+-
+ // A slug names one page under one of the types a command change carries, and a slug naming none
+ // reads as the old type, so the refusal a caller sees for a name that is nowhere stays what it was.
+ function typeOf(world: World, slug: string): string {
+@@ -141,11 +132,6 @@ function typeOf(world: World, slug: string): string {
+   return CHANGE_COMMAND
+ }
+ 
+-function checkedIn(world: World, slug: string): boolean {
+-  const value = world.index.pageAt(typeOf(world, slug), slug)
+-  return value !== null && value[RUNS_CHECKS] === true
+-}
+-
+ function saidOf(one: Edit): string {
+   const came = one.from
+   if (came !== undefined && came !== one.path) return `moves ${came} to ${one.path}`
+@@ -166,12 +152,7 @@ export function dropping(root: string, page: string): Answer {
+   return { report: [...went, DROPPED], refusals: [], code: 0 }
+ }
+ 
+-export async function appending(
+-  root: string,
+-  page: string,
+-  over: Over,
+-  checked: boolean
+-): Promise<Answer> {
++export async function appending(root: string, page: string, over: Over): Promise<Answer> {
+   let answer: Answer = mistaking([NO_PAGE])
+   const kept = keptEdits(root, page, (had) => {
+     const before = foldedIn(had)
+@@ -201,8 +182,7 @@ export async function appending(
+     return [...had, ...said.edits]
+   })
+   if ("why" in kept) return { report: [], refusals: [kept.why], code: 3 }
+-  if (!checked || answer.code !== 0) return answer
+-  return { ...answer, report: [...answer.report, ...(await judgedSaid(root, kept.rows))] }
++  return answer
+ }
+ 
+ export type Loading = (world: World, at: string) => Promise<Loaded | string>
+@@ -231,7 +211,7 @@ export async function changing(
+   const loaded = await loading(world, `${typeOf(world, slug)}/${slug}`)
+   if (typeof loaded === "string") return mistaking([loaded, DROP_SAID])
+   const held: Loaded = loaded
+-  return await appending(root, page, (one) => ranBy(one, held, given), checkedIn(world, slug))
++  return await appending(root, page, (one) => ranBy(one, held, given))
+ }
+ 
+ export async function change(argv: readonly string[], given: Given): Promise<Answer> {
