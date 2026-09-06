@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-connection-debt-is-a-bar.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-connection-debt-is-a-bar.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ef858e22924d2009eb3fbf274b154d0f197b981f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-connection-debt-is-a-bar.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherConnectionDebtIsABar = {
++  id: "01a077e4-d814-744a-a471-7e6fb2287d8b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-connection-debt-is-a-bar",
++  topicSlug: "resource-bars",
++  ask: "Connection debt tracks a need as the four bars do, but is shaped as a payable debt stock rather than a capacity buffer. Does connection debt belong inside the bar model or beside it?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-investing-beats-banking-elsewhere.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-investing-beats-banking-elsewhere.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2f4087a194d5380b5c92aea12f48cbf54d1750c6
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-investing-beats-banking-elsewhere.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherInvestingBeatsBankingElsewhere = {
++  id: "01a077e4-d815-70fa-95ec-c95187ff7fa2",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-investing-beats-banking-elsewhere",
++  topicSlug: "resource-bars",
++  ask: "Investing beats banking for safety. Does investing beat banking for mana, stamina and stress capacity too?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/resource-bars.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/resource-bars.all-about-alan-topic.ts
+index 067ad695e33e6ab599118a5a37441836243b01bd..c6a03241dd11373faa23845037fe40e1113fe6cc 100644
+--- a/alan/books/all-about-alan/topics/pages/resource-bars.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/resource-bars.all-about-alan-topic.ts
+@@ -7,6 +7,4 @@ export const resourceBars = {
+   title: "Resource Bars",
+   definition: "how much I have of each thing I run on",
+   parentSlugs: ["resources"],
+-  unsettled:
+-    "Connection debt tracks a need the way the four bars track theirs, but it is shaped as a payable debt stock rather than a capacity buffer. Does it belong inside the model or alongside it? The name predates it either way.\n\nInvesting beats banking for safety. Whether that carries to mana, stamina and stress capacity is open.",
+ } as const satisfies AllAboutAlanTopic
