@@ -1,8 +1,8 @@
 diff --git a/pages/commands/page-secret-acting/page-secret-acting.module.ts b/pages/commands/page-secret-acting/page-secret-acting.module.ts
-index b5f7e1702078f146819728cafe225e73611639c4..514a2d2c94d78ae2d05ed81fc333708b13d052ea 100644
+index b5f7e1702078f146819728cafe225e73611639c4..1d57372dda2453cacaacd91e7163cc5aea4623bd 100644
 --- a/pages/commands/page-secret-acting/page-secret-acting.module.ts
 +++ b/pages/commands/page-secret-acting/page-secret-acting.module.ts
-@@ -26,16 +26,16 @@ export const pageSecretActing = {
+@@ -26,21 +26,21 @@ export const pageSecretActing = {
      },
      {
        invariantKind: "departure",
@@ -19,6 +19,12 @@ index b5f7e1702078f146819728cafe225e73611639c4..514a2d2c94d78ae2d05ed81fc333708b
        invariantKind: "departure",
 -      statement: "A word said as no flag is refused, since everything taken here is named by one.",
 +      statement: "A word said as no flag is refused.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A caller's mistake, the data and an operational fault answer with codes of their own.",
++        "A caller's mistake and the data and an operational fault answer with codes of their own.",
      },
      {
        invariantKind: "departure",
