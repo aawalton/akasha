@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/domains/plain-language/onnx-parsing/onnx-parsing.module.ts b/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
+index 8cbb93eb5dae9feb7beea08c199b84ed6c7f80e6..001206786f1374cf8964d8adf616230fe3a68fb3 100644
+--- a/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
++++ b/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
+@@ -33,7 +33,7 @@ export const onnxParsing = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No process outside this one is started to parse a text.",
++      statement: "No process outside this process is started to parse a text.",
+     },
+     {
+       invariantKind: "departure",
