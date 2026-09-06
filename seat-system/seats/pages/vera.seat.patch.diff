@@ -59,3 +59,19 @@ index 771b5d901d5cfbf69fe53a9994315393c6419dae..89f395ecca188f50c8051d65f2b900b7
        }
      }
      held.set(folder, made)
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
+index 940fa0591285240a6e133ecf2dd080b04bc02570..395e2d6d97e3ff91c9aa70ac05c585f9aed80754 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
+@@ -129,6 +129,11 @@ export const folderShape = {
+       statement:
+         "A page type declares the fields of every record property in that page type's `properties` folder.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A page type declares the members of every one-of property in that page type's `properties` folder.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A folder holding one page answers with the name that page gives its folder.",
