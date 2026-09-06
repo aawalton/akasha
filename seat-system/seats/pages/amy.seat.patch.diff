@@ -1,0 +1,13 @@
+diff --git a/readout-system/readout-widgets/pages/smilingjenny-categorize.readout-widget.ts b/readout-system/readout-widgets/pages/smilingjenny-categorize.readout-widget.ts
+index 4c4d5fbb043417a5026b9f00ce8c10ec7da67a3d..f8b2346ff1bde8e51ef4109868518be5660c8297 100644
+--- a/readout-system/readout-widgets/pages/smilingjenny-categorize.readout-widget.ts
++++ b/readout-system/readout-widgets/pages/smilingjenny-categorize.readout-widget.ts
+@@ -13,7 +13,7 @@ export const smilingjennyCategorize = {
+   galleryName: "Left to Review",
+   galleryDescription:
+     "How many of the past year's transactions Monarch is waiting to have reviewed.",
+-  opens: "capacitor://monarch-relay",
++  opens: "capacitor://monarch-relay#widget=smilingjenny-categorize",
+   groupSlugs: ["categorization"],
+   place: 1,
+ } as const satisfies ReadoutWidget
