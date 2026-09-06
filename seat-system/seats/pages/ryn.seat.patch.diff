@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/properties-of-the-type-above/properties-of-the-type-above.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/properties-of-the-type-above/properties-of-the-type-above.folder-shape.ts
+index 372fbd2af944d53441f22af13c765cda469ef30e..cd31ce9e1977304477c9eaaf1e07a8a83a7bde3a 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/properties-of-the-type-above/properties-of-the-type-above.folder-shape.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/properties-of-the-type-above/properties-of-the-type-above.folder-shape.ts
+@@ -29,7 +29,7 @@ export const propertiesOfTheTypeAbove = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file beside a property page is one that property page states.",
++      statement: "A file beside a property page is a file that property page states.",
+     },
+     {
+       invariantKind: "departure",
