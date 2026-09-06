@@ -13,7 +13,7 @@ export const currencyPriceLookup = {
     },
     {
       invariantKind: "departure",
-      statement: "Gold is worth one.",
+      statement: "Gold is worth one gold.",
     },
     {
       invariantKind: "departure",
