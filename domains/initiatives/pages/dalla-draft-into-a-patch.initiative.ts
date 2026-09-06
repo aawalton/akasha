@@ -58,14 +58,14 @@ export const dallaDraftIntoAPatch = {
         "`carryReadings` is called at four hand-written sites, each behind its own `if (landing.code === 0)`, so the rule that passing `carries` obliges carrying the readings is enforced by nothing. `dropReadings` is called by `remove` alone, so `write --remove` and `edit --remove` take a path away and leave the record naming it.",
     },
     {
-      statement: "Every mechanical change is an atomic change a refactor command runs.",
+      statement: "Every mechanical change is a change page a refactor command runs.",
       workingMemory:
-        "Atomic: `rename-local-variable`, `rename-export`, `rename-property-signature` addressed as `Type.property`, `rename-path`, `rename-slug`. Refactor: `rename-code-token`, and `rename-page-slug` running the slug and path renames as one act. Blocked: `rename-export` refuses a page file, since a page's export is its slug, and `rename-slug` defers the export to it, so a page's exported const is renamed by nothing and the two pages contradict each other.",
+        "Three tiers. Partial: `repoint-imports` and `respell-export`, each handed its reach and each breaking the tree alone. Atomic: `rename-local-variable`, `rename-export`, `rename-property-signature` addressed as `Type.property`, `rename-path`, `rename-slug`, each running partial changes and no other change. Refactor: `rename-code-token` and `rename-page-slug`. `rename-slug` spells the exported const now, so nothing is left renaming it.",
     },
     {
       statement: "The change page types are named change-atomic and change-refactor.",
       workingMemory:
-        "`atomic-change` becomes `change-atomic` under `changes/atomic`, and `refactor-change` becomes `change-refactor` under `changes/refactor`. Held until the refactor command is built here: these renames are landed by that command rather than by `akasha refactor rename page-slug`, which is the command it replaces. `rename-path` is the primitive three of the five `refactor rename` namespaces need, and it is landed.",
+        "`atomic-change` becomes `change-atomic` under `changes/atomic`, and `refactor-change` becomes `change-refactor` under `changes/refactor`. Held until the refactor command is built here: these renames are landed by that command rather than by `akasha refactor rename page-slug`, which is the command it replaces. `change-partial` was born under this naming at `changes/partial`, so the two older types alone wait.",
     },
   ],
   constraints: [
