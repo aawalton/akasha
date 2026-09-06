@@ -34,3 +34,22 @@ index d3953e2022fe15babf8f2780b35ae26257cf6932..321c1154326c1e197e3d59097c3b6cb6
 +): Promise<Answer> {
 +  return await runAt(world, at, given)
 +}
+diff --git a/changes/runners/pages/change-running/change-running.change-runner.ts b/changes/runners/pages/change-running/change-running.change-runner.ts
+index f8493346a645258d832c65b6a920cf0f46805d51..b2b5d178a4774aa7661e7b433f0d2ae63c74c5ac 100644
+--- a/changes/runners/pages/change-running/change-running.change-runner.ts
++++ b/changes/runners/pages/change-running/change-running.change-runner.ts
+@@ -40,6 +40,14 @@ export const changeRunning = {
+       invariantKind: "departure",
+       statement: "An address reaching no page is refused rather than answered with no edits.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An address written in code is held to the arguments the map states.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An address worked out while a command runs is held to the change's refusals.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "No change is imported here.",
