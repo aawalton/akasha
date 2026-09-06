@@ -1,0 +1,41 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/alan/fitness/set-logs/pages/sunday-rest-2026-09-06-dumbbell-bench-press-set-1.set-log.ts b/alan/fitness/set-logs/pages/sunday-rest-2026-09-06-dumbbell-bench-press-set-1.set-log.ts
+deleted file mode 100644
+index 46f801d177fd1c4868c1d2028dd39d3f57b0d5bb..0000000000000000000000000000000000000000
+--- a/alan/fitness/set-logs/pages/sunday-rest-2026-09-06-dumbbell-bench-press-set-1.set-log.ts
++++ /dev/null
+@@ -1,14 +0,0 @@
+-import type { SetLog } from "../set-log.page-type.ts"
+-
+-export const sundayRest20260906DumbbellBenchPressSet1 = {
+-  id: "01a07770-0718-74bb-a404-301b0aa5e998",
+-  pageTypeSlug: "set-log",
+-  slug: "sunday-rest-2026-09-06-dumbbell-bench-press-set-1",
+-  title: "Dumbbell Bench Press set 1",
+-  exerciseSlug: "dumbbell-bench-press",
+-  isWarmup: false,
+-  reps: 5,
+-  sessionSlug: "sunday-rest-2026-09-06",
+-  setNumber: 1,
+-  weight: 100,
+-} as const satisfies SetLog
+diff --git a/alan/fitness/workout-sessions/pages/sunday-rest-2026-09-06.workout-session.ts b/alan/fitness/workout-sessions/pages/sunday-rest-2026-09-06.workout-session.ts
+deleted file mode 100644
+index 8c92c498ba2bb2e6e4bde743373fbf9006776d64..0000000000000000000000000000000000000000
+--- a/alan/fitness/workout-sessions/pages/sunday-rest-2026-09-06.workout-session.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { WorkoutSession } from "../workout-session.page-type.ts"
+-
+-export const sundayRest20260906 = {
+-  id: "01a0776f-db92-7abc-8127-d90aee3e54ed",
+-  pageTypeSlug: "workout-session",
+-  slug: "sunday-rest-2026-09-06",
+-  title: "Sunday rest — 2026-09-06",
+-  workoutSessionCompletedAt: "2026-09-06T15:57:10.349Z",
+-  workoutSessionDate: "2026-09-06",
+-  notes: "a verification run amy opened to prove the writer, and takes away again",
+-  scheduleDaySlug: "push-pull-legs-3beb3d9a-sunday",
+-  workoutSessionStartedAt: "2026-09-06T15:56:53.806Z",
+-} as const satisfies WorkoutSession
