@@ -1,3 +1,144 @@
+diff --git a/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx b/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx
+index 22646802c58c7e44808a76f73cc6bf797bf90f34..48c8e98fceda7ef2a968529b710fe40bfcd3567b 100644
+--- a/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx
++++ b/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx
+@@ -1,14 +1,37 @@
+ "use client"
+ 
+ import { decideOpenUrlRoute } from "@akasha/person-system/push-routing"
++import { widgetTapped } from "@akasha/readout-system/widget-tap-link"
+ import { useEffect, useRef } from "react"
+ import { useNavigate } from "react-router"
++import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
+ import {
+   getApp,
+   isNativeShell,
+   type PluginListenerHandle,
+ } from "../capacitor-bridge/capacitor-bridge.module.code.ts"
+ 
++// THE WIDGET'S NAME IS READ OFF THE RAW LINK, not off the path the link routes to.
++// `decideOpenUrlRoute` builds that path from the pathname and the search alone, so the name sits in
++// the fragment where it cannot change where the tap lands.
++function countTap(url: string): undefined {
++  const widget = widgetTapped(url)
++  if (widget === null) return
++  void apiFetch("/api/widget-tap", {
++    method: "POST",
++    headers: { "Content-Type": "application/json" },
++    body: JSON.stringify({ widget }),
++  })
++    .then((answered) => {
++      if (!answered.ok) {
++        console.warn("[deep-link] tap not counted", widget, answered.status)
++      }
++    })
++    .catch((error: unknown) => {
++      console.warn("[deep-link] tap not counted", widget, error)
++    })
++}
++
+ export function DeepLinkOpenSync() {
+   const navigate = useNavigate()
+   const navigateRef = useRef(navigate)
+@@ -26,6 +49,7 @@ export function DeepLinkOpenSync() {
+ 
+     const route = (url: string | null | undefined, source: string) => {
+       if (url == null) return
++      countTap(url)
+       const path = decideOpenUrlRoute(url)
+       if (path == null) {
+         console.warn(`[deep-link] ${source} with no routable path`, url)
+diff --git a/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts b/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
+index 960a8269ae4b46af1fd89aec8975e84e6b744ad0..52a7b0e425f211b1f1f8e2ca0cebfa71affdb181 100644
+--- a/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
++++ b/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
+@@ -6,4 +6,26 @@ export const deepLinkOpenSync = {
+   slug: "deep-link-open-sync",
+   definition: "a link the native shell was opened by, carried into the router",
+   code: "tsx",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A link naming a widget counts a tap on that widget.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A link naming no widget counts nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A tap is counted before the link is routed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A tap that cannot be counted leaves the routing alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A link the router refuses counts its tap all the same.",
++    },
++  ],
+ } as const satisfies Module
+diff --git a/alan/web/routes/api.widget-tap.ts b/alan/web/routes/api.widget-tap.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5e68eae22dc1e0e82c8e1ddd1e40cda578e3f0bc
+--- /dev/null
++++ b/alan/web/routes/api.widget-tap.ts
+@@ -0,0 +1,54 @@
++import { countTap } from "@akasha/readout-system/widget-tap-counting"
++import { resolveDeviceTokenContext } from "../.server/device-token-context/device-token-context.module.code.ts"
++import { capacitorCorsHeaders, withCors } from "../capacitor-cors/capacitor-cors.module.code.ts"
++import type { Route } from "./+types/api.widget-tap"
++
++const CORS_METHODS = "POST, OPTIONS"
++
++// THE PHONE HOLDS NO RELAY SECRET, so the guard the relay route presents cannot admit a tap. A tap
++// arrives from the web view under the account's own bearer token, which is what the push
++// registration route is already shaped for.
++function widgetIn(body: unknown): string | null {
++  if (typeof body !== "object" || body === null) return null
++  const widget = (body as { widget?: unknown }).widget
++  return typeof widget === "string" && widget !== "" ? widget : null
++}
++
++export async function loader({ request }: Route.LoaderArgs): Promise<Response> {
++  const cors = capacitorCorsHeaders(request, CORS_METHODS)
++  if (request.method === "OPTIONS") {
++    return new Response(null, { status: 204, headers: cors })
++  }
++  return Response.json({ ok: false, error: "Method not allowed" }, { status: 405, headers: cors })
++}
++
++export async function action({ request }: Route.ActionArgs): Promise<Response> {
++  const cors = capacitorCorsHeaders(request, CORS_METHODS)
++  const ctx = await resolveDeviceTokenContext(request)
++  if (!ctx.authenticated) {
++    return Response.json(
++      { ok: false, error: "Not authenticated." },
++      { status: 401, headers: withCors(ctx.headers, cors) }
++    )
++  }
++
++  const widget = widgetIn(await request.json().catch(() => null))
++  if (widget === null) {
++    return Response.json(
++      { ok: false, error: "No widget." },
++      { status: 400, headers: withCors(ctx.headers, cors) }
++    )
++  }
++
++  const tapped = await countTap(widget, new Date())
++  if (tapped === null) {
++    return Response.json(
++      { ok: false, error: "No such widget." },
++      { status: 404, headers: withCors(ctx.headers, cors) }
++    )
++  }
++  return Response.json(
++    { ok: true, widget, taps: tapped.taps, at: tapped.at },
++    { headers: withCors(ctx.headers, cors) }
++  )
++}
 diff --git a/readout-system/package.json b/readout-system/package.json
 index 2d0b359c96217bbae3b5f7331c176701d786c2ad..279ebd5974686ce1e5a1810029fd990da764d5f2 100644
 --- a/readout-system/package.json
@@ -26,6 +167,155 @@ index f281d6de3038b6dc0007bcc1f1da38a7ee95f3b7..31e13c8e45bd6ab81a9be6ff32499f48
      "stylesheet/readout-look",
      "domain/readout-color",
      "domain/readout-figure",
+diff --git a/readout-system/widget-tap-counting/widget-tap-counting.module.code.ts b/readout-system/widget-tap-counting/widget-tap-counting.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6f3f895b1e52069328dd7e7d092eafbf35336ece
+--- /dev/null
++++ b/readout-system/widget-tap-counting/widget-tap-counting.module.code.ts
+@@ -0,0 +1,52 @@
++import { getPage } from "@akasha/pages-access/get"
++import { patchPage } from "@akasha/pages-access/patch"
++import type { PageWhere } from "@akasha/pages-core/page-types"
++
++const PAGE_TYPE = "readout-widget"
++
++const TAPS = "taps"
++
++const LAST_TAPPED_AT = "lastTappedAt"
++
++export type Tapped = {
++  readonly taps: number
++  readonly at: string
++}
++
++export function tapsOn(values: Readonly<Record<string, unknown>>): number {
++  const taps = values[TAPS]
++  if (taps === undefined || taps === null) return 0
++  if (typeof taps !== "number") {
++    throw new Error(
++      `the widget '${String(values["slug"])}' carries a tap count that is no number, so how ` +
++        "often that widget was tapped is unknown rather than never"
++    )
++  }
++  return taps
++}
++
++/**
++ * One more tap on the widget `slug` names, or nothing where no widget page carries that slug.
++ *
++ * THE STORE IS ASKED RATHER THAN THE CHECKOUT BESIDE THE CALLER. A pod's checkout is a clone, and a
++ * clone carries no index, so nothing here could find the widget's own file. The store answers from
++ * the machine holding the tree, and both values are uncommitted, so the write it makes there leaves
++ * no commit.
++ *
++ * THE COUNT IS READ AND WRITTEN BACK RATHER THAN ADDED TO IN PLACE. Two taps arriving together read
++ * the same count and write the same count back, so one of the two is lost. Alan reads this number to
++ * tell a widget he uses from one he leaves alone, and that reading survives a tap going missing.
++ */
++export async function countTap(slug: string, at: Date): Promise<Tapped | null> {
++  const where: PageWhere = [{ key: "slug", eq: slug }]
++  const held = await getPage({ pageTypeSlug: PAGE_TYPE, where })
++  if (held === null) return null
++  const taps = tapsOn(held) + 1
++  const moment = at.toISOString()
++  await patchPage({
++    pageTypeSlug: PAGE_TYPE,
++    where,
++    set: { [TAPS]: taps, [LAST_TAPPED_AT]: moment },
++  })
++  return { taps, at: moment }
++}
+diff --git a/readout-system/widget-tap-counting/widget-tap-counting.module.test.ts b/readout-system/widget-tap-counting/widget-tap-counting.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9c420d996e484c910e7d0b31f832377e43f162c9
+--- /dev/null
++++ b/readout-system/widget-tap-counting/widget-tap-counting.module.test.ts
+@@ -0,0 +1,23 @@
++import { expect, test } from "bun:test"
++import { tapsOn } from "./widget-tap-counting.module.code.ts"
++
++test("a widget carrying no count has taken no tap", () => {
++  expect(tapsOn({ slug: "alanwalton-surplus" })).toBe(0)
++  expect(tapsOn({ slug: "alanwalton-surplus", taps: null })).toBe(0)
++})
++
++test("the count a widget carries is the count read back", () => {
++  expect(tapsOn({ slug: "alanwalton-surplus", taps: 19 })).toBe(19)
++})
++
++test("a count of no taps is a count rather than an absent one", () => {
++  expect(tapsOn({ slug: "alanwalton-surplus", taps: 0 })).toBe(0)
++})
++
++test("a count that is no number is refused rather than read as no tap", () => {
++  expect(() => tapsOn({ slug: "alanwalton-surplus", taps: "many" })).toThrow()
++})
++
++test("a refusal names the widget carrying the count", () => {
++  expect(() => tapsOn({ slug: "alanwalton-surplus", taps: "many" })).toThrow(/alanwalton-surplus/)
++})
+diff --git a/readout-system/widget-tap-counting/widget-tap-counting.module.ts b/readout-system/widget-tap-counting/widget-tap-counting.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6bee5a8da081d6bcffc0685cf659d70e52a741b9
+--- /dev/null
++++ b/readout-system/widget-tap-counting/widget-tap-counting.module.ts
+@@ -0,0 +1,56 @@
++import type { Module } from "@akasha/code/module"
++
++export const widgetTapCounting = {
++  id: "01a078a8-b96f-765d-99ff-5703d9b2edd3",
++  pageTypeSlug: "module",
++  slug: "widget-tap-counting",
++  definition: "the taps a widget has taken, counted through the page store",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A widget's taps are read and written through the page store.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A caller holding a clone of the tree has no index to find a widget's file by.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A tap never reaches the commit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The moment of the last tap is written beside the count.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A widget carrying no count has taken no tap.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The two keys a tap is counted under are named here alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A count that is no number is refused rather than read as no tap.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A slug no widget page carries answers with nothing.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here decides a tap happened.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a link.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "The round trip to the store is proved by a test.",
++    },
++  ],
++} as const satisfies Module
 diff --git a/readout-system/widget-tap-link/widget-tap-link.module.code.ts b/readout-system/widget-tap-link/widget-tap-link.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..bb3fd62f72d4566ed4e39386398574fd9d5473ed
