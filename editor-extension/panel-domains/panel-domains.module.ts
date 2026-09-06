@@ -32,7 +32,7 @@ export const panelDomains = {
     },
     {
       invariantKind: "departure",
-      statement: "A page under other than one parent is answered as under none.",
+      statement: "A page under other than one parent is answered as under no parent.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,7 @@ export const panelDomains = {
     },
     {
       invariantKind: "departure",
-      statement: "A persona names the domain she champions, so that edge is read backwards here.",
+      statement: "The champion edge is read backwards off the persona rather than off the domain.",
     },
     {
       invariantKind: "departure",
@@ -52,11 +52,12 @@ export const panelDomains = {
     },
     {
       invariantKind: "departure",
-      statement: "A domain two personas champion answers with the first of them by name.",
+      statement: "A domain two personas champion answers with the first persona by name.",
     },
     {
       invariantKind: "departure",
-      statement: "A domain no persona champions answers with no champion rather than an empty one.",
+      statement:
+        "A domain no persona champions answers with no champion rather than an empty champion.",
     },
     {
       invariantKind: "departure",
