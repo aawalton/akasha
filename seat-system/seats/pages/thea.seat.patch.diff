@@ -60,7 +60,7 @@ index e6b8b6999a4c0568aa8bbb181c196383890f953a..ff853c7c36567efef74ec3a3ba340510
        const off = offFormat(each, format, formatting, `${slug} ${field}`)
        if (off !== null) said.push(off)
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
-index c077c84259985b9aefdf39af0955b39939b8f502..fefb831144f5f7738333a24b5fdd1b865531d8f0 100644
+index c077c84259985b9aefdf39af0955b39939b8f502..d5ec680f9222f108ff5e6e4f3f327a249c8a9796 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
 @@ -20,8 +20,7 @@ import {
@@ -82,3 +82,12 @@ index c077c84259985b9aefdf39af0955b39939b8f502..fefb831144f5f7738333a24b5fdd1b86
        const twice = twiceIn(held, slug)
        if (twice !== null) said.push(twice)
      }
+@@ -113,7 +110,7 @@ export function reasonsIn(
+     const max = one.maxLength ?? numberAt(page, "maxLength")
+     const format = textAt(page, FORMAT)
+     for (const each of listed ? held : [held]) {
+-      const why = overMax(each, max, slug, "")
++      const why = overLength(each, max, slug, "")
+       if (why !== null) said.push(why)
+       const off = offFormat(each, format, formatting, slug)
+       if (off !== null) said.push(off)
