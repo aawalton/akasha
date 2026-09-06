@@ -1,0 +1,17 @@
+diff --git a/domains/plain-language/spelt-scanning/spelt-scanning.module.ts b/domains/plain-language/spelt-scanning/spelt-scanning.module.ts
+index 1a6cff7b3981fe56c595c5d8b40ef7428279c724..1f995f0744b0b68826ab6f327d2c9fefa5ce641d 100644
+--- a/domains/plain-language/spelt-scanning/spelt-scanning.module.ts
++++ b/domains/plain-language/spelt-scanning/spelt-scanning.module.ts
+@@ -13,7 +13,11 @@ export const speltScanning = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The filler runs the length the name ran, so every offset after it holds.",
++      statement: "The filler runs the length the name ran.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every offset after the name holds.",
+     },
+     {
+       invariantKind: "departure",
