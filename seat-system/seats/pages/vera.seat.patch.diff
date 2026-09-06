@@ -1,0 +1,1653 @@
+runsWarrants: false
+diff --git a/collections/royal-road/package.json b/collections/royal-road/package.json
+index 69714284f1204a58e38d961ab4a8b7c68d4d12db..72897ca7a785e4c159fe45fe6c4c5f82464ea8f4 100644
+--- a/collections/royal-road/package.json
++++ b/collections/royal-road/package.json
+@@ -3,7 +3,7 @@
+   "private": true,
+   "type": "module",
+   "exports": {
+-    "./royal-road-pages": "./royal-road-pages/royal-road-pages.module.code.ts"
++    "./royal-road-pages": "./pages/royal-road-pages.module.code.ts"
+   },
+   "dependencies": {
+     "@akasha/story-engine-core": "workspace:*"
+diff --git a/collections/royal-road/pages/royal-road-pages.module.code.ts b/collections/royal-road/pages/royal-road-pages.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c1326b4b5bd9ccf9676f81e966e2893f227590de
+--- /dev/null
++++ b/collections/royal-road/pages/royal-road-pages.module.code.ts
+@@ -0,0 +1,226 @@
++import { chapterWords as countChapterWords } from "@akasha/story-engine-core/chapter-words"
++
++export const ROYAL_ROAD_ORIGIN = "https://www.royalroad.com"
++
++const USER_AGENT =
++  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
++
++export function royalRoadUrl(path: string): string {
++  return path.startsWith("http") ? path : `${ROYAL_ROAD_ORIGIN}${path}`
++}
++
++export interface RawChapter {
++  readonly id: string
++  readonly title: string
++  readonly url: string
++  readonly order: number
++  readonly date: string
++  readonly isUnlocked: boolean
++  readonly visible: boolean
++}
++
++export interface FictionMeta {
++  readonly title: string | null
++  readonly author: string | null
++  readonly status: string | null
++  readonly description: string | null
++  readonly tags: readonly string[]
++}
++
++export interface ParsedFiction {
++  readonly meta: FictionMeta
++  readonly chapters: readonly RawChapter[]
++}
++
++const ENTITIES: Record<string, string> = {
++  "&nbsp;": " ",
++  "&amp;": "&",
++  "&lt;": "<",
++  "&gt;": ">",
++  "&#39;": "'",
++  "&apos;": "'",
++  "&quot;": '"',
++}
++
++export function decodeEntities(text: string): string {
++  return text
++    .replace(/&#(\d+);/g, (_, code: string) => String.fromCodePoint(Number(code)))
++    .replace(/&#[xX]([0-9a-fA-F]+);/g, (_, code: string) =>
++      String.fromCodePoint(parseInt(code, 16))
++    )
++    .replace(/&nbsp;|&amp;|&lt;|&gt;|&#39;|&apos;|&quot;/g, (m) => ENTITIES[m] ?? m)
++}
++
++export function htmlToText(html: string): string {
++  return decodeEntities(
++    html
++      .replace(/<br\s*\/?>/gi, "\n")
++      .replace(/<\/(p|div|h[1-6]|li)>/gi, "\n\n")
++      .replace(/<[^>]*>/g, "")
++  )
++    .replace(/[ \t]+/g, " ")
++    .replace(/\n{3,}/g, "\n\n")
++    .trim()
++}
++
++const CHAPTERS_WITH_VOLUMES = /window\.chapters\s*=\s*(\[[\s\S]*?\]);\s*window\.volumes/
++const CHAPTERS_PLAIN = /window\.chapters\s*=\s*(\[[\s\S]*?\]);/
++
++interface ChapterJson {
++  readonly id: number
++  readonly title: string
++  readonly url: string
++  readonly order: number
++  readonly date: string
++  readonly isUnlocked?: boolean
++  readonly visible?: number | boolean
++}
++
++export function parseChapterList(html: string): readonly RawChapter[] {
++  const raw = CHAPTERS_WITH_VOLUMES.exec(html)?.[1] ?? CHAPTERS_PLAIN.exec(html)?.[1]
++  if (raw === undefined) return []
++  let list: readonly ChapterJson[]
++  try {
++    list = JSON.parse(raw) as readonly ChapterJson[]
++  } catch {
++    return []
++  }
++  return list.map((one) => ({
++    id: String(one.id),
++    title: decodeEntities(one.title ?? "").trim(),
++    url: one.url,
++    order: one.order,
++    date: one.date,
++    isUnlocked: one.isUnlocked !== false,
++    visible: one.visible === undefined ? true : one.visible === 1 || one.visible === true,
++  }))
++}
++
++const KNOWN_STATUS = ["ONGOING", "COMPLETED", "HIATUS", "STUBBED", "DROPPED"]
++
++function textOfAll(html: string, pattern: RegExp): string[] {
++  const out: string[] = []
++  for (const m of html.matchAll(pattern)) {
++    const inner = m[1]
++    if (inner === undefined) continue
++    const text = decodeEntities(inner.replace(/<[^>]*>/g, "")).trim()
++    if (text.length > 0) out.push(text)
++  }
++  return out
++}
++
++export function parseStatus(html: string): string | null {
++  const labels = textOfAll(html, /<span[^>]*class="[^"]*\blabel\b[^"]*"[^>]*>([\s\S]*?)<\/span>/gi)
++  for (const label of labels) {
++    const upper = label.toUpperCase()
++    if (KNOWN_STATUS.includes(upper)) return upper
++  }
++  return null
++}
++
++export function parseTags(html: string): readonly string[] {
++  const tags = textOfAll(html, /<a[^>]*class="[^"]*\bfiction-tag\b[^"]*"[^>]*>([\s\S]*?)<\/a>/gi)
++  return [...new Set(tags)]
++}
++
++interface BookLd {
++  readonly "@type"?: string | readonly string[]
++  readonly name?: string
++  readonly description?: string
++  readonly author?: { readonly name?: string } | readonly { readonly name?: string }[]
++}
++
++function parseBookLd(html: string): BookLd | null {
++  for (const m of html.matchAll(
++    /<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/gi
++  )) {
++    const body = m[1]
++    if (body === undefined) continue
++    let parsed: unknown
++    try {
++      parsed = JSON.parse(body)
++    } catch {
++      continue
++    }
++    for (const candidate of Array.isArray(parsed) ? parsed : [parsed]) {
++      const one = candidate as BookLd
++      const type = one["@type"]
++      const isBook = Array.isArray(type) ? type.includes("Book") : type === "Book"
++      if (isBook) return one
++    }
++  }
++  return null
++}
++
++type Named = { readonly name?: string }
++
++function firstAuthorName(field: BookLd["author"]): string | null {
++  if (field === undefined) return null
++  if (Array.isArray(field)) return (field as readonly Named[])[0]?.name ?? null
++  return (field as Named).name ?? null
++}
++
++export function parseFictionPage(html: string): ParsedFiction {
++  const ld = parseBookLd(html)
++  const author = firstAuthorName(ld?.author)
++  const h1 = /<h1[^>]*>([\s\S]*?)<\/h1>/i.exec(html)?.[1]
++  const fallbackTitle = h1 === undefined ? null : decodeEntities(h1.replace(/<[^>]*>/g, "")).trim()
++  return {
++    meta: {
++      title: ld?.name ?? fallbackTitle,
++      author: author ?? null,
++      status: parseStatus(html),
++      description: ld?.description === undefined ? null : htmlToText(ld.description),
++      tags: parseTags(html),
++    },
++    chapters: parseChapterList(html),
++  }
++}
++
++function innerHtmlOfDiv(html: string, openPattern: RegExp): string | null {
++  const opened = openPattern.exec(html)
++  if (opened?.index === undefined) return null
++  const from = opened.index + opened[0].length
++  const tags = /<(\/?)div\b[^>]*>/gi
++  tags.lastIndex = from
++  let depth = 1
++  for (let m = tags.exec(html); m !== null; m = tags.exec(html)) {
++    depth += m[1] === "/" ? -1 : 1
++    if (depth === 0) return html.slice(from, m.index)
++  }
++  return html.slice(from)
++}
++
++export type ProseRead =
++  | { readonly ok: true; readonly text: string; readonly wordCount: number }
++  | { readonly ok: false; readonly why: string }
++
++const NO_CONTAINER = "no `chapter-content` div is in the page"
++
++const NO_TEXT =
++  "the `chapter-content` div holds no text: no `<p>` in it carries any, and nothing survives " +
++  "reading its layout as line breaks either"
++
++export function parseChapterProse(html: string): ProseRead {
++  const container = innerHtmlOfDiv(html, /<div[^>]*class="[^"]*\bchapter-content\b[^"]*"[^>]*>/i)
++  if (container === null) return { ok: false, why: NO_CONTAINER }
++  const paragraphs: string[] = []
++  for (const m of container.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)) {
++    const inner = m[1]
++    if (inner === undefined) continue
++    const text = decodeEntities(inner.replace(/<[^>]*>/g, "")).trim()
++    if (text.length > 0) paragraphs.push(text)
++  }
++  const text = paragraphs.length > 0 ? paragraphs.join("\n\n") : htmlToText(container)
++  if (text.length === 0) return { ok: false, why: NO_TEXT }
++  return { ok: true, text, wordCount: countChapterWords(text) }
++}
++
++export async function fetchHtml(url: string): Promise<string> {
++  const response = await fetch(url, {
++    headers: { "user-agent": USER_AGENT, accept: "text/html,application/xhtml+xml" },
++    signal: AbortSignal.timeout(45_000),
++  })
++  if (!response.ok) throw new Error(`${response.status} ${response.statusText} for ${url}`)
++  return await response.text()
++}
+diff --git a/collections/royal-road/pages/royal-road-pages.module.ts b/collections/royal-road/pages/royal-road-pages.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e24f2868d0ed21a7cc2fa7998772d252eb49d0e7
+--- /dev/null
++++ b/collections/royal-road/pages/royal-road-pages.module.ts
+@@ -0,0 +1,37 @@
++import type { Module } from "../../../code-system/modules/module.page-type.ts"
++
++export const royalRoadPages = {
++  id: "01a0657f-4492-7001-ad86-00f3e943bd74",
++  pageTypeSlug: "module",
++  slug: "royal-road-pages",
++  definition: "a Royal Road fiction page and chapter page read into values",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A chapter list is read off the `window.chapters` array the page carries.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A fiction's title and author are read off the linked-data Book block the page carries.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A chapter is not always laid out in paragraph tags.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A chapter holding no paragraph tag is read by its line breaks instead.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A chapter that yields a paragraph is read byte for byte as that chapter was before.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A container that is absent and a container that yields nothing are two readings.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/collections/royal-road/royal-road-pages/royal-road-pages.module.code.ts b/collections/royal-road/royal-road-pages/royal-road-pages.module.code.ts
+deleted file mode 100644
+index c1326b4b5bd9ccf9676f81e966e2893f227590de..0000000000000000000000000000000000000000
+--- a/collections/royal-road/royal-road-pages/royal-road-pages.module.code.ts
++++ /dev/null
+@@ -1,226 +0,0 @@
+-import { chapterWords as countChapterWords } from "@akasha/story-engine-core/chapter-words"
+-
+-export const ROYAL_ROAD_ORIGIN = "https://www.royalroad.com"
+-
+-const USER_AGENT =
+-  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
+-
+-export function royalRoadUrl(path: string): string {
+-  return path.startsWith("http") ? path : `${ROYAL_ROAD_ORIGIN}${path}`
+-}
+-
+-export interface RawChapter {
+-  readonly id: string
+-  readonly title: string
+-  readonly url: string
+-  readonly order: number
+-  readonly date: string
+-  readonly isUnlocked: boolean
+-  readonly visible: boolean
+-}
+-
+-export interface FictionMeta {
+-  readonly title: string | null
+-  readonly author: string | null
+-  readonly status: string | null
+-  readonly description: string | null
+-  readonly tags: readonly string[]
+-}
+-
+-export interface ParsedFiction {
+-  readonly meta: FictionMeta
+-  readonly chapters: readonly RawChapter[]
+-}
+-
+-const ENTITIES: Record<string, string> = {
+-  "&nbsp;": " ",
+-  "&amp;": "&",
+-  "&lt;": "<",
+-  "&gt;": ">",
+-  "&#39;": "'",
+-  "&apos;": "'",
+-  "&quot;": '"',
+-}
+-
+-export function decodeEntities(text: string): string {
+-  return text
+-    .replace(/&#(\d+);/g, (_, code: string) => String.fromCodePoint(Number(code)))
+-    .replace(/&#[xX]([0-9a-fA-F]+);/g, (_, code: string) =>
+-      String.fromCodePoint(parseInt(code, 16))
+-    )
+-    .replace(/&nbsp;|&amp;|&lt;|&gt;|&#39;|&apos;|&quot;/g, (m) => ENTITIES[m] ?? m)
+-}
+-
+-export function htmlToText(html: string): string {
+-  return decodeEntities(
+-    html
+-      .replace(/<br\s*\/?>/gi, "\n")
+-      .replace(/<\/(p|div|h[1-6]|li)>/gi, "\n\n")
+-      .replace(/<[^>]*>/g, "")
+-  )
+-    .replace(/[ \t]+/g, " ")
+-    .replace(/\n{3,}/g, "\n\n")
+-    .trim()
+-}
+-
+-const CHAPTERS_WITH_VOLUMES = /window\.chapters\s*=\s*(\[[\s\S]*?\]);\s*window\.volumes/
+-const CHAPTERS_PLAIN = /window\.chapters\s*=\s*(\[[\s\S]*?\]);/
+-
+-interface ChapterJson {
+-  readonly id: number
+-  readonly title: string
+-  readonly url: string
+-  readonly order: number
+-  readonly date: string
+-  readonly isUnlocked?: boolean
+-  readonly visible?: number | boolean
+-}
+-
+-export function parseChapterList(html: string): readonly RawChapter[] {
+-  const raw = CHAPTERS_WITH_VOLUMES.exec(html)?.[1] ?? CHAPTERS_PLAIN.exec(html)?.[1]
+-  if (raw === undefined) return []
+-  let list: readonly ChapterJson[]
+-  try {
+-    list = JSON.parse(raw) as readonly ChapterJson[]
+-  } catch {
+-    return []
+-  }
+-  return list.map((one) => ({
+-    id: String(one.id),
+-    title: decodeEntities(one.title ?? "").trim(),
+-    url: one.url,
+-    order: one.order,
+-    date: one.date,
+-    isUnlocked: one.isUnlocked !== false,
+-    visible: one.visible === undefined ? true : one.visible === 1 || one.visible === true,
+-  }))
+-}
+-
+-const KNOWN_STATUS = ["ONGOING", "COMPLETED", "HIATUS", "STUBBED", "DROPPED"]
+-
+-function textOfAll(html: string, pattern: RegExp): string[] {
+-  const out: string[] = []
+-  for (const m of html.matchAll(pattern)) {
+-    const inner = m[1]
+-    if (inner === undefined) continue
+-    const text = decodeEntities(inner.replace(/<[^>]*>/g, "")).trim()
+-    if (text.length > 0) out.push(text)
+-  }
+-  return out
+-}
+-
+-export function parseStatus(html: string): string | null {
+-  const labels = textOfAll(html, /<span[^>]*class="[^"]*\blabel\b[^"]*"[^>]*>([\s\S]*?)<\/span>/gi)
+-  for (const label of labels) {
+-    const upper = label.toUpperCase()
+-    if (KNOWN_STATUS.includes(upper)) return upper
+-  }
+-  return null
+-}
+-
+-export function parseTags(html: string): readonly string[] {
+-  const tags = textOfAll(html, /<a[^>]*class="[^"]*\bfiction-tag\b[^"]*"[^>]*>([\s\S]*?)<\/a>/gi)
+-  return [...new Set(tags)]
+-}
+-
+-interface BookLd {
+-  readonly "@type"?: string | readonly string[]
+-  readonly name?: string
+-  readonly description?: string
+-  readonly author?: { readonly name?: string } | readonly { readonly name?: string }[]
+-}
+-
+-function parseBookLd(html: string): BookLd | null {
+-  for (const m of html.matchAll(
+-    /<script[^>]*type="application\/ld\+json"[^>]*>([\s\S]*?)<\/script>/gi
+-  )) {
+-    const body = m[1]
+-    if (body === undefined) continue
+-    let parsed: unknown
+-    try {
+-      parsed = JSON.parse(body)
+-    } catch {
+-      continue
+-    }
+-    for (const candidate of Array.isArray(parsed) ? parsed : [parsed]) {
+-      const one = candidate as BookLd
+-      const type = one["@type"]
+-      const isBook = Array.isArray(type) ? type.includes("Book") : type === "Book"
+-      if (isBook) return one
+-    }
+-  }
+-  return null
+-}
+-
+-type Named = { readonly name?: string }
+-
+-function firstAuthorName(field: BookLd["author"]): string | null {
+-  if (field === undefined) return null
+-  if (Array.isArray(field)) return (field as readonly Named[])[0]?.name ?? null
+-  return (field as Named).name ?? null
+-}
+-
+-export function parseFictionPage(html: string): ParsedFiction {
+-  const ld = parseBookLd(html)
+-  const author = firstAuthorName(ld?.author)
+-  const h1 = /<h1[^>]*>([\s\S]*?)<\/h1>/i.exec(html)?.[1]
+-  const fallbackTitle = h1 === undefined ? null : decodeEntities(h1.replace(/<[^>]*>/g, "")).trim()
+-  return {
+-    meta: {
+-      title: ld?.name ?? fallbackTitle,
+-      author: author ?? null,
+-      status: parseStatus(html),
+-      description: ld?.description === undefined ? null : htmlToText(ld.description),
+-      tags: parseTags(html),
+-    },
+-    chapters: parseChapterList(html),
+-  }
+-}
+-
+-function innerHtmlOfDiv(html: string, openPattern: RegExp): string | null {
+-  const opened = openPattern.exec(html)
+-  if (opened?.index === undefined) return null
+-  const from = opened.index + opened[0].length
+-  const tags = /<(\/?)div\b[^>]*>/gi
+-  tags.lastIndex = from
+-  let depth = 1
+-  for (let m = tags.exec(html); m !== null; m = tags.exec(html)) {
+-    depth += m[1] === "/" ? -1 : 1
+-    if (depth === 0) return html.slice(from, m.index)
+-  }
+-  return html.slice(from)
+-}
+-
+-export type ProseRead =
+-  | { readonly ok: true; readonly text: string; readonly wordCount: number }
+-  | { readonly ok: false; readonly why: string }
+-
+-const NO_CONTAINER = "no `chapter-content` div is in the page"
+-
+-const NO_TEXT =
+-  "the `chapter-content` div holds no text: no `<p>` in it carries any, and nothing survives " +
+-  "reading its layout as line breaks either"
+-
+-export function parseChapterProse(html: string): ProseRead {
+-  const container = innerHtmlOfDiv(html, /<div[^>]*class="[^"]*\bchapter-content\b[^"]*"[^>]*>/i)
+-  if (container === null) return { ok: false, why: NO_CONTAINER }
+-  const paragraphs: string[] = []
+-  for (const m of container.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)) {
+-    const inner = m[1]
+-    if (inner === undefined) continue
+-    const text = decodeEntities(inner.replace(/<[^>]*>/g, "")).trim()
+-    if (text.length > 0) paragraphs.push(text)
+-  }
+-  const text = paragraphs.length > 0 ? paragraphs.join("\n\n") : htmlToText(container)
+-  if (text.length === 0) return { ok: false, why: NO_TEXT }
+-  return { ok: true, text, wordCount: countChapterWords(text) }
+-}
+-
+-export async function fetchHtml(url: string): Promise<string> {
+-  const response = await fetch(url, {
+-    headers: { "user-agent": USER_AGENT, accept: "text/html,application/xhtml+xml" },
+-    signal: AbortSignal.timeout(45_000),
+-  })
+-  if (!response.ok) throw new Error(`${response.status} ${response.statusText} for ${url}`)
+-  return await response.text()
+-}
+diff --git a/collections/royal-road/royal-road-pages/royal-road-pages.module.ts b/collections/royal-road/royal-road-pages/royal-road-pages.module.ts
+deleted file mode 100644
+index e24f2868d0ed21a7cc2fa7998772d252eb49d0e7..0000000000000000000000000000000000000000
+--- a/collections/royal-road/royal-road-pages/royal-road-pages.module.ts
++++ /dev/null
+@@ -1,37 +0,0 @@
+-import type { Module } from "../../../code-system/modules/module.page-type.ts"
+-
+-export const royalRoadPages = {
+-  id: "01a0657f-4492-7001-ad86-00f3e943bd74",
+-  pageTypeSlug: "module",
+-  slug: "royal-road-pages",
+-  definition: "a Royal Road fiction page and chapter page read into values",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A chapter list is read off the `window.chapters` array the page carries.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A fiction's title and author are read off the linked-data Book block the page carries.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A chapter is not always laid out in paragraph tags.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A chapter holding no paragraph tag is read by its line breaks instead.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A chapter that yields a paragraph is read byte for byte as that chapter was before.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A container that is absent and a container that yields nothing are two readings.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/collections/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts b/collections/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts
+deleted file mode 100644
+index e55265edac9d56a344288150fff4b2f6efc19473..0000000000000000000000000000000000000000
+--- a/collections/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts
++++ /dev/null
+@@ -1,435 +0,0 @@
+-import { landedMechanically } from "@akasha/command-system/asking"
+-import type { FileEdit } from "@akasha/command-system/landing"
+-import { akashaRoot } from "@akasha/pages/checkout-roots"
+-import { besideAt } from "@akasha/pages/page-file-name"
+-import type { Value } from "@akasha/pages/page-value"
+-import { asking, type Row } from "@akasha/pages-system-service/asking"
+-import { composedFor } from "@akasha/pages-system-service/composing"
+-import type { RawChapter } from "@akasha/royal-road/royal-road-pages"
+-import {
+-  fetchHtml,
+-  parseChapterProse,
+-  parseFictionPage,
+-  royalRoadUrl,
+-} from "@akasha/royal-road/royal-road-pages"
+-
+-const ROOT = akashaRoot()
+-const STORY_PAGE_TYPE = "story-read"
+-const CHAPTER_PAGE_TYPE = "story-chapter-read"
+-const SOURCE = "royal-road"
+-const CALLED_AS = "royal-road-sync"
+-const PROSE = "prose"
+-const TXT = "txt"
+-const WORDS = "words"
+-const PART_OF = "partOfSlugs"
+-const REQUEST_DELAY_MS = 1500
+-const POSITION_DIGITS = 4
+-const BATCH_CEILING = 50
+-const BYTES = new TextEncoder()
+-
+-// A title is shortened to whole words at fifty characters, and the whole slug to the hundred
+-// `slug` states as its max: the longest story slug here is 56, leaving 38 for the title, and a
+-// slug of 112 characters would be refused by `page-matches-its-type`.
+-const TITLE_CEILING = 50
+-const SLUG_HOLDS = 100
+-
+-const DAY = /^\d{4}-\d{2}-\d{2}$/
+-const CHAPTER_AT = /\/chapter\/(\d+)/
+-
+-const STATUS_KEPT = new Set(["ongoing", "completed", "hiatus"])
+-
+-export class SyncRefused extends Error {}
+-
+-function delay(ms: number): Promise<void> {
+-  return new Promise((resolve) => setTimeout(resolve, ms))
+-}
+-
+-export function slugify(title: string): string {
+-  return title
+-    .toLowerCase()
+-    .replace(/[^a-z0-9\s-]/g, "")
+-    .trim()
+-    .replace(/[\s-]+/g, "-")
+-    .replace(/^-+|-+$/g, "")
+-}
+-
+-export function shortenedToWords(whole: string, ceiling: number): string {
+-  if (whole.length <= ceiling) return whole
+-  const words = whole.split("-")
+-  let out = words[0] ?? ""
+-  for (const word of words.slice(1)) {
+-    if (out.length + 1 + word.length > ceiling) break
+-    out = `${out}-${word}`
+-  }
+-  return out.length <= ceiling ? out : out.slice(0, ceiling).replace(/-+$/, "")
+-}
+-
+-export function chapterPageSlug(
+-  storySlug: string,
+-  position: number,
+-  title: string,
+-  fallback: string,
+-  room: number
+-): string {
+-  const opening = `${storySlug}-${String(position).padStart(POSITION_DIGITS, "0")}-`
+-  const said = slugify(title)
+-  const ceiling = Math.min(TITLE_CEILING, SLUG_HOLDS - opening.length - room)
+-  return `${opening}${shortenedToWords(said === "" ? fallback : said, ceiling)}`
+-}
+-
+-function textIn(row: Row, key: string): string | null {
+-  const held = row[key]
+-  return typeof held === "string" && held !== "" ? held : null
+-}
+-
+-function listIn(row: Row, key: string): readonly string[] {
+-  const held = row[key]
+-  if (!Array.isArray(held)) return []
+-  return held.filter((one): one is string => typeof one === "string")
+-}
+-
+-export interface Story {
+-  readonly slug: string
+-  readonly externalId: string
+-  readonly worldSlug: string | null
+-  readonly status: string | null
+-  readonly tags: readonly string[]
+-}
+-
+-export function readStories(only: string | undefined): readonly Story[] {
+-  const asked = asking(ROOT, {
+-    pageTypeSlug: STORY_PAGE_TYPE,
+-    where: { source: { is: SOURCE } },
+-    keys: ["slug", "externalId", "worldSlug", "publicationStatus", "externalTags"],
+-  })
+-  if ("refused" in asked)
+-    throw new SyncRefused(`the stories to follow went unread: ${asked.refused}`)
+-  if (asked.rows.length === 0) {
+-    throw new SyncRefused(
+-      `${STORY_PAGE_TYPE} answered with no story read from ${SOURCE}. An empty answer is a ` +
+-        `broken read rather than an empty shelf.`
+-    )
+-  }
+-  const out: Story[] = []
+-  for (const row of asked.rows) {
+-    const slug = textIn(row, "slug")
+-    if (slug === null) continue
+-    if (only !== undefined && slug !== only) continue
+-    const externalId = textIn(row, "externalId")
+-    if (externalId === null) {
+-      console.log(`skip ${slug}: no externalId`)
+-      continue
+-    }
+-    out.push({
+-      slug,
+-      externalId,
+-      worldSlug: textIn(row, "worldSlug"),
+-      status: textIn(row, "publicationStatus"),
+-      tags: listIn(row, "externalTags"),
+-    })
+-  }
+-  return out
+-}
+-
+-const OPENS_WITH = `${STORY_PAGE_TYPE}/`
+-
+-export function storySlugsOf(held: unknown): readonly string[] {
+-  if (!Array.isArray(held)) return []
+-  const out: string[] = []
+-  for (const one of held) {
+-    if (typeof one !== "string" || one === "") continue
+-    // Both forms are in the store: 4,206 royal road chapters say `story-read/<slug>` and 12,623
+-    // say `<slug>`. Reading only the qualified one would file every chapter of the rest again.
+-    out.push(one.startsWith(OPENS_WITH) ? one.slice(OPENS_WITH.length) : one)
+-  }
+-  return out
+-}
+-
+-export interface Held {
+-  readonly idsByStory: ReadonlyMap<string, ReadonlySet<string>>
+-  readonly slugs: ReadonlySet<string>
+-}
+-
+-export function chapterIdIn(row: Row): string | null {
+-  const id = textIn(row, "externalId")
+-  if (id !== null) return id
+-  // 602 chapters of one royal road story state no externalId. Their link carries the id royal
+-  // road lists them under, so reading it there is what keeps them known by their id.
+-  const link = textIn(row, "externalLink")
+-  return link === null ? null : (CHAPTER_AT.exec(link)?.[1] ?? null)
+-}
+-
+-export function heldChapters(): Held {
+-  const asked = asking(ROOT, {
+-    pageTypeSlug: CHAPTER_PAGE_TYPE,
+-    keys: ["slug", "externalId", "externalLink", PART_OF],
+-  })
+-  if ("refused" in asked) {
+-    throw new SyncRefused(
+-      `the chapters already filed went unread, so every chapter royal road lists would read as ` +
+-        `new and be filed again: ${asked.refused}`
+-    )
+-  }
+-  if (asked.rows.length === 0) {
+-    throw new SyncRefused(
+-      `${CHAPTER_PAGE_TYPE} answered with no chapter at all. An empty answer is a broken read ` +
+-        `rather than an empty shelf, and syncing on it would file every chapter a second time.`
+-    )
+-  }
+-  const slugs = new Set<string>()
+-  const idsByStory = new Map<string, Set<string>>()
+-  for (const row of asked.rows) {
+-    // A name is taken by every chapter rather than by one story's: the chapters are filed flat.
+-    const slug = textIn(row, "slug")
+-    if (slug !== null) slugs.add(slug)
+-    // The source a chapter says is not read here: 2,097 say none, and a chapter belongs to the
+-    // story it is part of whatever it says. Reading it dropped all 2,097 out of this answer.
+-    const id = chapterIdIn(row)
+-    if (id === null) continue
+-    for (const story of storySlugsOf(row[PART_OF])) {
+-      const ids = idsByStory.get(story) ?? new Set<string>()
+-      ids.add(id)
+-      idsByStory.set(story, ids)
+-    }
+-  }
+-  return { idsByStory, slugs }
+-}
+-
+-export interface Filed {
+-  readonly named: string
+-  readonly changes: readonly FileEdit[]
+-}
+-
+-export function filedChapter(
+-  story: Story,
+-  chapter: RawChapter,
+-  text: string,
+-  wordCount: number,
+-  taken: Set<string>
+-): Filed {
+-  const position = chapter.order + 1
+-  const stem = chapterPageSlug(story.slug, position, chapter.title, chapter.id, 0)
+-  const room = chapter.id.length + 1
+-  const slug = taken.has(stem)
+-    ? `${chapterPageSlug(story.slug, position, chapter.title, chapter.id, room)}-${chapter.id}`
+-    : stem
+-  taken.add(slug)
+-  const values: Value = {
+-    pageTypeSlug: CHAPTER_PAGE_TYPE,
+-    slug,
+-    title: chapter.title,
+-    [PART_OF]: [`${OPENS_WITH}${story.slug}`],
+-    position,
+-    ownLength: wordCount,
+-    unitSlug: WORDS,
+-    externalLink: royalRoadUrl(chapter.url),
+-    externalId: chapter.id,
+-    source: SOURCE,
+-    prose: TXT,
+-  }
+-  const day = chapter.date.slice(0, 10)
+-  if (DAY.test(day)) values["publishedAt"] = day
+-  const named = `${CHAPTER_PAGE_TYPE}/${slug}`
+-  const composed = composedFor(ROOT, { pageTypeSlug: CHAPTER_PAGE_TYPE, slug, values })
+-  if ("refused" in composed) {
+-    throw new SyncRefused(`${named} was composed by nothing: ${composed.refused}`)
+-  }
+-  const beside = besideAt(composed.put.path, PROSE, TXT)
+-  if (beside === null) {
+-    throw new SyncRefused(
+-      `${composed.put.path} is no page file, so its prose has no name beside it`
+-    )
+-  }
+-  return {
+-    named,
+-    changes: [
+-      { path: composed.put.path, body: BYTES.encode(composed.put.content) },
+-      { path: beside, body: BYTES.encode(text) },
+-    ],
+-  }
+-}
+-
+-export function restatementFor(
+-  story: Story,
+-  status: string | null,
+-  tags: readonly string[]
+-): Value | null {
+-  const values: Value = {}
+-  const wanted = status === null ? null : status.toLowerCase()
+-  if (wanted !== null && STATUS_KEPT.has(wanted) && wanted !== story.status) {
+-    values["publicationStatus"] = wanted
+-  }
+-  const sameTags =
+-    tags.length === story.tags.length && tags.every((tag, i) => tag === story.tags[i])
+-  if (tags.length > 0 && !sameTags) values["externalTags"] = [...tags]
+-  return Object.keys(values).length === 0 ? null : values
+-}
+-
+-export function restatedStory(story: Story, values: Value): Filed {
+-  const named = `${STORY_PAGE_TYPE}/${story.slug}`
+-  const composed = composedFor(ROOT, {
+-    pageTypeSlug: STORY_PAGE_TYPE,
+-    slug: story.slug,
+-    values: { ...values, pageTypeSlug: STORY_PAGE_TYPE, slug: story.slug },
+-    merge: true,
+-  })
+-  if ("refused" in composed) {
+-    throw new SyncRefused(`${named} was composed by nothing: ${composed.refused}`)
+-  }
+-  return {
+-    named,
+-    changes: [{ path: composed.put.path, body: BYTES.encode(composed.put.content) }],
+-  }
+-}
+-
+-interface Counts {
+-  composed: number
+-  skipped: number
+-  failed: number
+-  restated: number
+-  refused: number
+-  unworlded: number
+-}
+-
+-async function syncStory(
+-  story: Story,
+-  held: Held,
+-  taken: Set<string>,
+-  counts: Counts,
+-  budget: { left: number },
+-  filing: Filed[]
+-): Promise<void> {
+-  const fictionUrl = royalRoadUrl(`/fiction/${story.externalId}/${story.slug}`)
+-  const fiction = parseFictionPage(await fetchHtml(fictionUrl))
+-  await delay(REQUEST_DELAY_MS)
+-
+-  const ids = held.idsByStory.get(story.slug) ?? new Set<string>()
+-  const pending = fiction.chapters.filter(
+-    (one) => one.visible && one.isUnlocked && !ids.has(one.id)
+-  )
+-  const listed = `${story.slug}: ${fiction.chapters.length} listed, ${ids.size} held`
+-  console.log(
+-    pending.length === 0 ? `  ${listed}, nothing new` : `  ${listed}, ${pending.length} new`
+-  )
+-
+-  for (const chapter of pending) {
+-    if (budget.left <= 0) {
+-      counts.skipped += 1
+-      continue
+-    }
+-    budget.left -= 1
+-    try {
+-      const prose = parseChapterProse(await fetchHtml(royalRoadUrl(chapter.url)))
+-      await delay(REQUEST_DELAY_MS)
+-      if (!prose.ok) {
+-        // The url and the reason, not the title alone: `no prose found` named neither which page
+-        // it read nor which of the parser's two refusals it hit, so 61 failures a run for a
+-        // fortnight said nothing anyone could act on.
+-        console.log(`    no prose: ${royalRoadUrl(chapter.url)} — ${prose.why}`)
+-        counts.failed += 1
+-        continue
+-      }
+-      const filed = filedChapter(story, chapter, prose.text, prose.wordCount, taken)
+-      filing.push(filed)
+-      console.log(`    + ${filed.named} (${prose.wordCount} words)`)
+-      counts.composed += 1
+-    } catch (error) {
+-      console.log(`    failed: ${chapter.title} — ${String(error)}`)
+-      counts.failed += 1
+-    }
+-  }
+-
+-  const wanted = restatementFor(story, fiction.meta.status, fiction.meta.tags)
+-  if (wanted === null) return
+-  if (story.worldSlug === null) {
+-    // `worldSlug` is required on a story read and royal road answers with nothing that serves as
+-    // one. Restating without it would refuse the batch and take every chapter in it down too.
+-    console.log(
+-      `    ${STORY_PAGE_TYPE}/${story.slug} not restated: it states no worldSlug and ${SOURCE} ` +
+-        `answers with none. Put a world on that page by hand before it restates.`
+-    )
+-    counts.unworlded += 1
+-    return
+-  }
+-  filing.push(restatedStory(story, wanted))
+-  console.log(`    restated ${STORY_PAGE_TYPE}/${story.slug}`)
+-  counts.restated += 1
+-}
+-
+-export async function landInBatches(filing: readonly Filed[], counts: Counts): Promise<void> {
+-  for (let at = 0; at < filing.length; at += BATCH_CEILING) {
+-    const batch = filing.slice(at, at + BATCH_CEILING)
+-    // A page and its prose go into one commit: the page alone states a file that is not there.
+-    const changes = batch.flatMap((one) => [...one.changes])
+-    const answer = await landedMechanically(
+-      ROOT,
+-      CALLED_AS,
+-      changes,
+-      `royal road sync ${batch.length} page(s)`
+-    )
+-    if (answer.code !== 0) {
+-      counts.refused += batch.length
+-      console.log(`  refused ${batch.length} page(s): ${answer.refusals.join("; ")}`)
+-      continue
+-    }
+-    console.log(`  landed ${batch.length} page(s)`)
+-  }
+-}
+-
+-export async function main(argv: readonly string[]): Promise<number> {
+-  const only = argv.includes("--story") ? argv[argv.indexOf("--story") + 1] : undefined
+-  const limitRaw = argv.includes("--limit") ? argv[argv.indexOf("--limit") + 1] : undefined
+-  const budget = { left: limitRaw === undefined ? Number.MAX_SAFE_INTEGER : Number(limitRaw) }
+-
+-  let stories: readonly Story[]
+-  let held: Held
+-  try {
+-    stories = readStories(only)
+-    held = heldChapters()
+-  } catch (error) {
+-    console.log(`royal road sync: ${String(error)}`)
+-    return 1
+-  }
+-  console.log(`royal road sync: ${stories.length} stor${stories.length === 1 ? "y" : "ies"}`)
+-  const counts: Counts = {
+-    composed: 0,
+-    skipped: 0,
+-    failed: 0,
+-    restated: 0,
+-    refused: 0,
+-    unworlded: 0,
+-  }
+-  const taken = new Set(held.slugs)
+-  const filing: Filed[] = []
+-
+-  for (const story of stories) {
+-    try {
+-      await syncStory(story, held, taken, counts, budget, filing)
+-    } catch (error) {
+-      console.log(`  ${story.slug}: failed — ${String(error)}`)
+-      counts.failed += 1
+-    }
+-  }
+-
+-  if (filing.length === 0) {
+-    console.log("nothing to land")
+-  } else if (argv.includes("--commit")) {
+-    await landInBatches(filing, counts)
+-  } else {
+-    console.log(`${filing.length} page(s) composed and not landed; --commit lands them`)
+-    for (const one of filing) for (const change of one.changes) console.log(`    ${change.path}`)
+-  }
+-
+-  console.log(
+-    `composed ${counts.composed} chapter(s), restated ${counts.restated} story page(s), ` +
+-      `skipped ${counts.skipped} over budget, ${counts.failed} failed, ${counts.refused} refused, ` +
+-      `${counts.unworlded} unrestated for no world`
+-  )
+-  // A RUN THAT FAILED ITEMS IS A FAILED RUN. This was `failed > 0 && composed === 0`, so a run
+-  // reported red only when it managed nothing at all. Of the 259 completed runs between
+-  // 2026-08-17 and 2026-09-02, 127 exited 0 while reporting 61 failed: one new chapter anywhere
+-  // across 103 stories suppressed the signal on exactly the runs that had work to show.
+-  return counts.refused > 0 || counts.failed > 0 || counts.unworlded > 0 ? 1 : 0
+-}
+-
+-if (import.meta.main) process.exit(await main(process.argv.slice(2)))
+diff --git a/collections/royal-road/royal-road-syncing/royal-road-syncing.module.ts b/collections/royal-road/royal-road-syncing/royal-road-syncing.module.ts
+deleted file mode 100644
+index 815bdfceaf3a019ac29f8687bb7519671b12e84c..0000000000000000000000000000000000000000
+--- a/collections/royal-road/royal-road-syncing/royal-road-syncing.module.ts
++++ /dev/null
+@@ -1,91 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const royalRoadSyncing = {
+-  id: "01a0686a-7a57-7b85-b362-7a71277ca88c",
+-  pageTypeSlug: "module",
+-  slug: "royal-road-syncing",
+-  definition: "every chapter royal road lists for a story read and filed under that story",
+-  code: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A story is followed by the royal road id the story states.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "No story page is created here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A chapter already held is known by its royal road id rather than by its title.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A chapter stating no royal road id is known by the id its link carries.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A chapter already filed is read whatever source that chapter states.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A chapter royal road hides or keeps locked is left where that chapter is.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A chapter's name opens with its story's slug, then its position padded to four digits.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The title follows, cut back to whole words at fifty characters.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A name is cut back further where that name would otherwise run past a slug's hundred characters.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A name another chapter already holds takes the chapter's royal road id on the end.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A chapter names the story that chapter is part of by page type and slug rather than by slug alone.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A story's status is restated only where royal road says ongoing, completed or hiatus.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A story naming no world is left unrestated and said to be.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A second and a half sits between one request to royal road and the next.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "The pages composed are shown rather than landed unless the run was asked to commit those pages.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Pages land fifty at a time, each fifty its own commit, every page with the files beside that page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A chapter refused for holding no prose is named by the page read and the refusal that chapter hit.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A run that failed a chapter is a failed run however much else that run composed.",
+-    },
+-  ],
+-} as const satisfies Module
+diff --git a/collections/royal-road/syncing/royal-road-syncing.module.code.ts b/collections/royal-road/syncing/royal-road-syncing.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e55265edac9d56a344288150fff4b2f6efc19473
+--- /dev/null
++++ b/collections/royal-road/syncing/royal-road-syncing.module.code.ts
+@@ -0,0 +1,435 @@
++import { landedMechanically } from "@akasha/command-system/asking"
++import type { FileEdit } from "@akasha/command-system/landing"
++import { akashaRoot } from "@akasha/pages/checkout-roots"
++import { besideAt } from "@akasha/pages/page-file-name"
++import type { Value } from "@akasha/pages/page-value"
++import { asking, type Row } from "@akasha/pages-system-service/asking"
++import { composedFor } from "@akasha/pages-system-service/composing"
++import type { RawChapter } from "@akasha/royal-road/royal-road-pages"
++import {
++  fetchHtml,
++  parseChapterProse,
++  parseFictionPage,
++  royalRoadUrl,
++} from "@akasha/royal-road/royal-road-pages"
++
++const ROOT = akashaRoot()
++const STORY_PAGE_TYPE = "story-read"
++const CHAPTER_PAGE_TYPE = "story-chapter-read"
++const SOURCE = "royal-road"
++const CALLED_AS = "royal-road-sync"
++const PROSE = "prose"
++const TXT = "txt"
++const WORDS = "words"
++const PART_OF = "partOfSlugs"
++const REQUEST_DELAY_MS = 1500
++const POSITION_DIGITS = 4
++const BATCH_CEILING = 50
++const BYTES = new TextEncoder()
++
++// A title is shortened to whole words at fifty characters, and the whole slug to the hundred
++// `slug` states as its max: the longest story slug here is 56, leaving 38 for the title, and a
++// slug of 112 characters would be refused by `page-matches-its-type`.
++const TITLE_CEILING = 50
++const SLUG_HOLDS = 100
++
++const DAY = /^\d{4}-\d{2}-\d{2}$/
++const CHAPTER_AT = /\/chapter\/(\d+)/
++
++const STATUS_KEPT = new Set(["ongoing", "completed", "hiatus"])
++
++export class SyncRefused extends Error {}
++
++function delay(ms: number): Promise<void> {
++  return new Promise((resolve) => setTimeout(resolve, ms))
++}
++
++export function slugify(title: string): string {
++  return title
++    .toLowerCase()
++    .replace(/[^a-z0-9\s-]/g, "")
++    .trim()
++    .replace(/[\s-]+/g, "-")
++    .replace(/^-+|-+$/g, "")
++}
++
++export function shortenedToWords(whole: string, ceiling: number): string {
++  if (whole.length <= ceiling) return whole
++  const words = whole.split("-")
++  let out = words[0] ?? ""
++  for (const word of words.slice(1)) {
++    if (out.length + 1 + word.length > ceiling) break
++    out = `${out}-${word}`
++  }
++  return out.length <= ceiling ? out : out.slice(0, ceiling).replace(/-+$/, "")
++}
++
++export function chapterPageSlug(
++  storySlug: string,
++  position: number,
++  title: string,
++  fallback: string,
++  room: number
++): string {
++  const opening = `${storySlug}-${String(position).padStart(POSITION_DIGITS, "0")}-`
++  const said = slugify(title)
++  const ceiling = Math.min(TITLE_CEILING, SLUG_HOLDS - opening.length - room)
++  return `${opening}${shortenedToWords(said === "" ? fallback : said, ceiling)}`
++}
++
++function textIn(row: Row, key: string): string | null {
++  const held = row[key]
++  return typeof held === "string" && held !== "" ? held : null
++}
++
++function listIn(row: Row, key: string): readonly string[] {
++  const held = row[key]
++  if (!Array.isArray(held)) return []
++  return held.filter((one): one is string => typeof one === "string")
++}
++
++export interface Story {
++  readonly slug: string
++  readonly externalId: string
++  readonly worldSlug: string | null
++  readonly status: string | null
++  readonly tags: readonly string[]
++}
++
++export function readStories(only: string | undefined): readonly Story[] {
++  const asked = asking(ROOT, {
++    pageTypeSlug: STORY_PAGE_TYPE,
++    where: { source: { is: SOURCE } },
++    keys: ["slug", "externalId", "worldSlug", "publicationStatus", "externalTags"],
++  })
++  if ("refused" in asked)
++    throw new SyncRefused(`the stories to follow went unread: ${asked.refused}`)
++  if (asked.rows.length === 0) {
++    throw new SyncRefused(
++      `${STORY_PAGE_TYPE} answered with no story read from ${SOURCE}. An empty answer is a ` +
++        `broken read rather than an empty shelf.`
++    )
++  }
++  const out: Story[] = []
++  for (const row of asked.rows) {
++    const slug = textIn(row, "slug")
++    if (slug === null) continue
++    if (only !== undefined && slug !== only) continue
++    const externalId = textIn(row, "externalId")
++    if (externalId === null) {
++      console.log(`skip ${slug}: no externalId`)
++      continue
++    }
++    out.push({
++      slug,
++      externalId,
++      worldSlug: textIn(row, "worldSlug"),
++      status: textIn(row, "publicationStatus"),
++      tags: listIn(row, "externalTags"),
++    })
++  }
++  return out
++}
++
++const OPENS_WITH = `${STORY_PAGE_TYPE}/`
++
++export function storySlugsOf(held: unknown): readonly string[] {
++  if (!Array.isArray(held)) return []
++  const out: string[] = []
++  for (const one of held) {
++    if (typeof one !== "string" || one === "") continue
++    // Both forms are in the store: 4,206 royal road chapters say `story-read/<slug>` and 12,623
++    // say `<slug>`. Reading only the qualified one would file every chapter of the rest again.
++    out.push(one.startsWith(OPENS_WITH) ? one.slice(OPENS_WITH.length) : one)
++  }
++  return out
++}
++
++export interface Held {
++  readonly idsByStory: ReadonlyMap<string, ReadonlySet<string>>
++  readonly slugs: ReadonlySet<string>
++}
++
++export function chapterIdIn(row: Row): string | null {
++  const id = textIn(row, "externalId")
++  if (id !== null) return id
++  // 602 chapters of one royal road story state no externalId. Their link carries the id royal
++  // road lists them under, so reading it there is what keeps them known by their id.
++  const link = textIn(row, "externalLink")
++  return link === null ? null : (CHAPTER_AT.exec(link)?.[1] ?? null)
++}
++
++export function heldChapters(): Held {
++  const asked = asking(ROOT, {
++    pageTypeSlug: CHAPTER_PAGE_TYPE,
++    keys: ["slug", "externalId", "externalLink", PART_OF],
++  })
++  if ("refused" in asked) {
++    throw new SyncRefused(
++      `the chapters already filed went unread, so every chapter royal road lists would read as ` +
++        `new and be filed again: ${asked.refused}`
++    )
++  }
++  if (asked.rows.length === 0) {
++    throw new SyncRefused(
++      `${CHAPTER_PAGE_TYPE} answered with no chapter at all. An empty answer is a broken read ` +
++        `rather than an empty shelf, and syncing on it would file every chapter a second time.`
++    )
++  }
++  const slugs = new Set<string>()
++  const idsByStory = new Map<string, Set<string>>()
++  for (const row of asked.rows) {
++    // A name is taken by every chapter rather than by one story's: the chapters are filed flat.
++    const slug = textIn(row, "slug")
++    if (slug !== null) slugs.add(slug)
++    // The source a chapter says is not read here: 2,097 say none, and a chapter belongs to the
++    // story it is part of whatever it says. Reading it dropped all 2,097 out of this answer.
++    const id = chapterIdIn(row)
++    if (id === null) continue
++    for (const story of storySlugsOf(row[PART_OF])) {
++      const ids = idsByStory.get(story) ?? new Set<string>()
++      ids.add(id)
++      idsByStory.set(story, ids)
++    }
++  }
++  return { idsByStory, slugs }
++}
++
++export interface Filed {
++  readonly named: string
++  readonly changes: readonly FileEdit[]
++}
++
++export function filedChapter(
++  story: Story,
++  chapter: RawChapter,
++  text: string,
++  wordCount: number,
++  taken: Set<string>
++): Filed {
++  const position = chapter.order + 1
++  const stem = chapterPageSlug(story.slug, position, chapter.title, chapter.id, 0)
++  const room = chapter.id.length + 1
++  const slug = taken.has(stem)
++    ? `${chapterPageSlug(story.slug, position, chapter.title, chapter.id, room)}-${chapter.id}`
++    : stem
++  taken.add(slug)
++  const values: Value = {
++    pageTypeSlug: CHAPTER_PAGE_TYPE,
++    slug,
++    title: chapter.title,
++    [PART_OF]: [`${OPENS_WITH}${story.slug}`],
++    position,
++    ownLength: wordCount,
++    unitSlug: WORDS,
++    externalLink: royalRoadUrl(chapter.url),
++    externalId: chapter.id,
++    source: SOURCE,
++    prose: TXT,
++  }
++  const day = chapter.date.slice(0, 10)
++  if (DAY.test(day)) values["publishedAt"] = day
++  const named = `${CHAPTER_PAGE_TYPE}/${slug}`
++  const composed = composedFor(ROOT, { pageTypeSlug: CHAPTER_PAGE_TYPE, slug, values })
++  if ("refused" in composed) {
++    throw new SyncRefused(`${named} was composed by nothing: ${composed.refused}`)
++  }
++  const beside = besideAt(composed.put.path, PROSE, TXT)
++  if (beside === null) {
++    throw new SyncRefused(
++      `${composed.put.path} is no page file, so its prose has no name beside it`
++    )
++  }
++  return {
++    named,
++    changes: [
++      { path: composed.put.path, body: BYTES.encode(composed.put.content) },
++      { path: beside, body: BYTES.encode(text) },
++    ],
++  }
++}
++
++export function restatementFor(
++  story: Story,
++  status: string | null,
++  tags: readonly string[]
++): Value | null {
++  const values: Value = {}
++  const wanted = status === null ? null : status.toLowerCase()
++  if (wanted !== null && STATUS_KEPT.has(wanted) && wanted !== story.status) {
++    values["publicationStatus"] = wanted
++  }
++  const sameTags =
++    tags.length === story.tags.length && tags.every((tag, i) => tag === story.tags[i])
++  if (tags.length > 0 && !sameTags) values["externalTags"] = [...tags]
++  return Object.keys(values).length === 0 ? null : values
++}
++
++export function restatedStory(story: Story, values: Value): Filed {
++  const named = `${STORY_PAGE_TYPE}/${story.slug}`
++  const composed = composedFor(ROOT, {
++    pageTypeSlug: STORY_PAGE_TYPE,
++    slug: story.slug,
++    values: { ...values, pageTypeSlug: STORY_PAGE_TYPE, slug: story.slug },
++    merge: true,
++  })
++  if ("refused" in composed) {
++    throw new SyncRefused(`${named} was composed by nothing: ${composed.refused}`)
++  }
++  return {
++    named,
++    changes: [{ path: composed.put.path, body: BYTES.encode(composed.put.content) }],
++  }
++}
++
++interface Counts {
++  composed: number
++  skipped: number
++  failed: number
++  restated: number
++  refused: number
++  unworlded: number
++}
++
++async function syncStory(
++  story: Story,
++  held: Held,
++  taken: Set<string>,
++  counts: Counts,
++  budget: { left: number },
++  filing: Filed[]
++): Promise<void> {
++  const fictionUrl = royalRoadUrl(`/fiction/${story.externalId}/${story.slug}`)
++  const fiction = parseFictionPage(await fetchHtml(fictionUrl))
++  await delay(REQUEST_DELAY_MS)
++
++  const ids = held.idsByStory.get(story.slug) ?? new Set<string>()
++  const pending = fiction.chapters.filter(
++    (one) => one.visible && one.isUnlocked && !ids.has(one.id)
++  )
++  const listed = `${story.slug}: ${fiction.chapters.length} listed, ${ids.size} held`
++  console.log(
++    pending.length === 0 ? `  ${listed}, nothing new` : `  ${listed}, ${pending.length} new`
++  )
++
++  for (const chapter of pending) {
++    if (budget.left <= 0) {
++      counts.skipped += 1
++      continue
++    }
++    budget.left -= 1
++    try {
++      const prose = parseChapterProse(await fetchHtml(royalRoadUrl(chapter.url)))
++      await delay(REQUEST_DELAY_MS)
++      if (!prose.ok) {
++        // The url and the reason, not the title alone: `no prose found` named neither which page
++        // it read nor which of the parser's two refusals it hit, so 61 failures a run for a
++        // fortnight said nothing anyone could act on.
++        console.log(`    no prose: ${royalRoadUrl(chapter.url)} — ${prose.why}`)
++        counts.failed += 1
++        continue
++      }
++      const filed = filedChapter(story, chapter, prose.text, prose.wordCount, taken)
++      filing.push(filed)
++      console.log(`    + ${filed.named} (${prose.wordCount} words)`)
++      counts.composed += 1
++    } catch (error) {
++      console.log(`    failed: ${chapter.title} — ${String(error)}`)
++      counts.failed += 1
++    }
++  }
++
++  const wanted = restatementFor(story, fiction.meta.status, fiction.meta.tags)
++  if (wanted === null) return
++  if (story.worldSlug === null) {
++    // `worldSlug` is required on a story read and royal road answers with nothing that serves as
++    // one. Restating without it would refuse the batch and take every chapter in it down too.
++    console.log(
++      `    ${STORY_PAGE_TYPE}/${story.slug} not restated: it states no worldSlug and ${SOURCE} ` +
++        `answers with none. Put a world on that page by hand before it restates.`
++    )
++    counts.unworlded += 1
++    return
++  }
++  filing.push(restatedStory(story, wanted))
++  console.log(`    restated ${STORY_PAGE_TYPE}/${story.slug}`)
++  counts.restated += 1
++}
++
++export async function landInBatches(filing: readonly Filed[], counts: Counts): Promise<void> {
++  for (let at = 0; at < filing.length; at += BATCH_CEILING) {
++    const batch = filing.slice(at, at + BATCH_CEILING)
++    // A page and its prose go into one commit: the page alone states a file that is not there.
++    const changes = batch.flatMap((one) => [...one.changes])
++    const answer = await landedMechanically(
++      ROOT,
++      CALLED_AS,
++      changes,
++      `royal road sync ${batch.length} page(s)`
++    )
++    if (answer.code !== 0) {
++      counts.refused += batch.length
++      console.log(`  refused ${batch.length} page(s): ${answer.refusals.join("; ")}`)
++      continue
++    }
++    console.log(`  landed ${batch.length} page(s)`)
++  }
++}
++
++export async function main(argv: readonly string[]): Promise<number> {
++  const only = argv.includes("--story") ? argv[argv.indexOf("--story") + 1] : undefined
++  const limitRaw = argv.includes("--limit") ? argv[argv.indexOf("--limit") + 1] : undefined
++  const budget = { left: limitRaw === undefined ? Number.MAX_SAFE_INTEGER : Number(limitRaw) }
++
++  let stories: readonly Story[]
++  let held: Held
++  try {
++    stories = readStories(only)
++    held = heldChapters()
++  } catch (error) {
++    console.log(`royal road sync: ${String(error)}`)
++    return 1
++  }
++  console.log(`royal road sync: ${stories.length} stor${stories.length === 1 ? "y" : "ies"}`)
++  const counts: Counts = {
++    composed: 0,
++    skipped: 0,
++    failed: 0,
++    restated: 0,
++    refused: 0,
++    unworlded: 0,
++  }
++  const taken = new Set(held.slugs)
++  const filing: Filed[] = []
++
++  for (const story of stories) {
++    try {
++      await syncStory(story, held, taken, counts, budget, filing)
++    } catch (error) {
++      console.log(`  ${story.slug}: failed — ${String(error)}`)
++      counts.failed += 1
++    }
++  }
++
++  if (filing.length === 0) {
++    console.log("nothing to land")
++  } else if (argv.includes("--commit")) {
++    await landInBatches(filing, counts)
++  } else {
++    console.log(`${filing.length} page(s) composed and not landed; --commit lands them`)
++    for (const one of filing) for (const change of one.changes) console.log(`    ${change.path}`)
++  }
++
++  console.log(
++    `composed ${counts.composed} chapter(s), restated ${counts.restated} story page(s), ` +
++      `skipped ${counts.skipped} over budget, ${counts.failed} failed, ${counts.refused} refused, ` +
++      `${counts.unworlded} unrestated for no world`
++  )
++  // A RUN THAT FAILED ITEMS IS A FAILED RUN. This was `failed > 0 && composed === 0`, so a run
++  // reported red only when it managed nothing at all. Of the 259 completed runs between
++  // 2026-08-17 and 2026-09-02, 127 exited 0 while reporting 61 failed: one new chapter anywhere
++  // across 103 stories suppressed the signal on exactly the runs that had work to show.
++  return counts.refused > 0 || counts.failed > 0 || counts.unworlded > 0 ? 1 : 0
++}
++
++if (import.meta.main) process.exit(await main(process.argv.slice(2)))
+diff --git a/collections/royal-road/syncing/royal-road-syncing.module.ts b/collections/royal-road/syncing/royal-road-syncing.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..815bdfceaf3a019ac29f8687bb7519671b12e84c
+--- /dev/null
++++ b/collections/royal-road/syncing/royal-road-syncing.module.ts
+@@ -0,0 +1,91 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const royalRoadSyncing = {
++  id: "01a0686a-7a57-7b85-b362-7a71277ca88c",
++  pageTypeSlug: "module",
++  slug: "royal-road-syncing",
++  definition: "every chapter royal road lists for a story read and filed under that story",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A story is followed by the royal road id the story states.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No story page is created here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A chapter already held is known by its royal road id rather than by its title.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A chapter stating no royal road id is known by the id its link carries.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A chapter already filed is read whatever source that chapter states.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A chapter royal road hides or keeps locked is left where that chapter is.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A chapter's name opens with its story's slug, then its position padded to four digits.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The title follows, cut back to whole words at fifty characters.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A name is cut back further where that name would otherwise run past a slug's hundred characters.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A name another chapter already holds takes the chapter's royal road id on the end.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A chapter names the story that chapter is part of by page type and slug rather than by slug alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A story's status is restated only where royal road says ongoing, completed or hiatus.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A story naming no world is left unrestated and said to be.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A second and a half sits between one request to royal road and the next.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The pages composed are shown rather than landed unless the run was asked to commit those pages.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Pages land fifty at a time, each fifty its own commit, every page with the files beside that page.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A chapter refused for holding no prose is named by the page read and the refusal that chapter hit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run that failed a chapter is a failed run however much else that run composed.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/service-system/workstation-services/pages/royal-road-sync.workstation-service.ts b/service-system/workstation-services/pages/royal-road-sync.workstation-service.ts
+index 45d0987f6d4624bbb4d8dfd916936a9871d374cf..e74f386f1c33ea57616914a1d1280990623ec90e 100644
+--- a/service-system/workstation-services/pages/royal-road-sync.workstation-service.ts
++++ b/service-system/workstation-services/pages/royal-road-sync.workstation-service.ts
+@@ -6,7 +6,7 @@ export const royalRoadSync = {
+   slug: "royal-road-sync",
+   definition: "the service syncing Royal Road chapters",
+   runs: [
+-    "flock -n /var/tmp/royal-road-sync.lock bun collections/royal-road/royal-road-syncing/royal-road-syncing.module.code.ts --commit",
++    "flock -n /var/tmp/royal-road-sync.lock bun collections/royal-road/syncing/royal-road-syncing.module.code.ts --commit",
+   ],
+   enabled: true,
+   needsSecrets: false,
