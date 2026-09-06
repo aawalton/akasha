@@ -1,0 +1,18 @@
+diff --git a/changes/refactor-changes/pages/rename-page/rename-page.refactor-change.ts b/changes/refactor-changes/pages/rename-page/rename-page.refactor-change.ts
+index 9510e72876a41688f164c66f680f434ecaba9e40..7ed50c20f2c939638c274602ee5a5beb2bb8a4ed 100644
+--- a/changes/refactor-changes/pages/rename-page/rename-page.refactor-change.ts
++++ b/changes/refactor-changes/pages/rename-page/rename-page.refactor-change.ts
+@@ -100,5 +100,13 @@ export const renamePage = {
+       invariantKind: "departure",
+       statement: "The bodies and the paths that moved are answered rather than written.",
+     },
++    {
++      invariantKind: "gap",
++      statement: "A file holding uncommitted values is left where that file sits.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A numbered part of a property's file is left where that part sits.",
++    },
+   ],
+ } as const satisfies RefactorChange
