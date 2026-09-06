@@ -29,7 +29,8 @@ export const clusterRbacManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "A gap is named by its profile's path, its namespace, and the permission itself.",
+      statement:
+        "A gap is named by its profile's path and its namespace and the permission itself.",
     },
     {
       invariantKind: "departure",
@@ -45,12 +46,19 @@ export const clusterRbacManifest = {
     },
     {
       invariantKind: "departure",
-      statement: "The ci namespace role grants create on pods, which the cluster role does not.",
+      statement: "The ci namespace role grants create on pods.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "That role is admitted because the account applying that role already holds that verb.",
+      statement: "The cluster role does not grant create on pods.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The ci namespace role is admitted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The account applying the ci namespace role already holds create on pods.",
     },
     {
       invariantKind: "absence",
