@@ -47,9 +47,9 @@ import {
 
 const REPO_AT = rootOf(import.meta.dir)
 
-const NAMED = "akasha/code-system/modules/module.page-type.ts"
+const NAMED = "code-system/modules/module.page-type.ts"
 
-const NAMER = "akasha/pages-system/indexes/index/index.page-type.ts"
+const NAMER = "pages/indexes/index.page-type.ts"
 
 const EXTENDS = "extends-slug"
 

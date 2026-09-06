@@ -236,6 +236,9 @@ export function loaderWorld(names = true): string {
   paged(root, LOADED_AT, { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED })
   filed(root, `path/${LOADED_AT}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
   filed(root, `identity/${HELD_TYPE}/slug/${LOADED}.jsonl`, { path: LOADED_AT, id: LOADED_ID })
+  linesFiled(root, `value/${HELD_TYPE}.jsonl`, [
+    { path: LOADED_AT, value: { id: LOADED_ID, pageTypeSlug: HELD_TYPE, slug: LOADED } },
+  ])
   if (names) {
     filed(root, `${HELD_RELATION}/page/id/${LOADER_ID}/${LOADED_BY}/${TYPE_ID}.jsonl`, {
       path: TYPE_AT,
