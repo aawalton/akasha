@@ -1,3 +1,16 @@
+diff --git a/alan/tracking/daily/wake-days/pages/2026-09-06/wake-day-2026-09-06.wake-day.ts b/alan/tracking/daily/wake-days/pages/2026-09-06/wake-day-2026-09-06.wake-day.ts
+index 58592a543ff181849579ecdcb8c17fbdb0447ebc..01b494a9d795176df68696e444acb0f6ad5db85e 100644
+--- a/alan/tracking/daily/wake-days/pages/2026-09-06/wake-day-2026-09-06.wake-day.ts
++++ b/alan/tracking/daily/wake-days/pages/2026-09-06/wake-day-2026-09-06.wake-day.ts
+@@ -8,7 +8,7 @@ export const wakeDay20260906 = {
+   date: "2026-09-06",
+   version: "3.0",
+   wisdomWords: 6873,
+-  intelligenceWords: 1019,
++  intelligenceTopics: 3,
+   inboxTasks: 26,
+   inboxTasksClearedToday: false,
+   inboxTemperTasks: 14,
 diff --git a/alan/tracking/daily/wake-days/properties/intelligence-topics.number-property.ts b/alan/tracking/daily/wake-days/properties/intelligence-topics.number-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..4bd8362ee3df75965236a7f165556910c2aadad5
