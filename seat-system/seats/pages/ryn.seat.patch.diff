@@ -1,0 +1,13 @@
+diff --git a/editor-extension/transcript-sources/transcript-sources.module.ts b/editor-extension/transcript-sources/transcript-sources.module.ts
+index 130e4f60162d26e3cb0396d7bf6e3b394fc8bdf2..ea1beaaadc8e60f36599193045e8e91f7794ece8 100644
+--- a/editor-extension/transcript-sources/transcript-sources.module.ts
++++ b/editor-extension/transcript-sources/transcript-sources.module.ts
+@@ -9,7 +9,7 @@ export const transcriptSources = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Where a seat's transcript is, is asked of a bun child.",
++      statement: "A bun child is asked where a seat's transcript is.",
+     },
+     {
+       invariantKind: "departure",
