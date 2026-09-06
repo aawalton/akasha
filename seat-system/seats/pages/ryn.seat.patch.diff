@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/fitness/exercise-access/exercise-load-model/exercise-load-model.module.ts b/alan/fitness/exercise-access/exercise-load-model/exercise-load-model.module.ts
+index f5aad4b11a67537f3aded4f11e7f594a0f9fb6fd..377018fa074092acf0a0489003e059e49fb147b1 100644
+--- a/alan/fitness/exercise-access/exercise-load-model/exercise-load-model.module.ts
++++ b/alan/fitness/exercise-access/exercise-load-model/exercise-load-model.module.ts
+@@ -20,7 +20,7 @@ export const exerciseLoadModel = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A movement named outright takes the implement count named rather than the worked one.",
++        "A movement named outright takes the implement count named rather than the count worked out.",
+     },
+     {
+       invariantKind: "departure",
