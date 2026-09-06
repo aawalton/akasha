@@ -8,6 +8,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import { worldAt } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { renameSlug } from "./rename-page-slug.change.code.ts"
 
 afterAll(scratch.sweep)
@@ -46,7 +47,8 @@ function bodyIn(said: Answer, path: string): string {
 }
 
 function whyOf(at: string, to: string, textOf: (path: string) => string | null): string {
-  const said = renameSlug(scratch.rootFor("rename-slug-"), { at, to }, textOf)
+  const world = worldAt(scratch.rootFor("rename-slug-"), textOf)
+  const said = renameSlug(world, { at, to })
   expect(said.edits).toEqual([])
   return said.refused ?? ""
 }
@@ -102,7 +104,7 @@ test("an index that cannot answer refuses rather than narrowing the reach", () =
 
 test("a slug a page of that page type carries already is refused", () => {
   const root = indexedRepo()
-  const said = renameSlug(root, { at: HELD_PAGE, to: "namer" }, textIn(root))
+  const said = renameSlug(worldAt(root, textIn(root)), { at: HELD_PAGE, to: "namer" })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("a `module` carries the slug `namer` already")
 })
@@ -110,16 +112,15 @@ test("a slug a page of that page type carries already is refused", () => {
 test("a namer that could not be read is refused", () => {
   const root = indexedRepo()
   const text = textIn(root)
-  const said = renameSlug(root, { at: HELD_PAGE, to: KEPT }, (path) =>
-    path === NAMER_PAGE ? null : text(path)
-  )
+  const world = worldAt(root, (path) => (path === NAMER_PAGE ? null : text(path)))
+  const said = renameSlug(world, { at: HELD_PAGE, to: KEPT })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${NAMER_PAGE}\` names this page and could not be read`)
 })
 
 test("the page's own slug and every name of it are restated", () => {
   const root = indexedRepo()
-  const said = renameSlug(root, { at: HELD_PAGE, to: KEPT }, textIn(root))
+  const said = renameSlug(worldAt(root, textIn(root)), { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
   expect(pathsOf(said)).toEqual([HELD_PAGE, NAMER_PAGE])
   expect(bodyIn(said, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)
@@ -132,7 +133,7 @@ test("the page's own slug and every name of it are restated", () => {
 test("each body is answered beside the body it was worked out from", () => {
   const root = indexedRepo()
   const text = textIn(root)
-  const said = renameSlug(root, { at: HELD_PAGE, to: KEPT }, text)
+  const said = renameSlug(worldAt(root, text), { at: HELD_PAGE, to: KEPT })
   for (const one of said.edits) {
     expect(one.was).toBe(text(one.path))
     expect(one.from).toBe(undefined)
@@ -141,7 +142,7 @@ test("each body is answered beside the body it was worked out from", () => {
 
 test("the page's exported const is renamed with its slug", () => {
   const root = indexedRepo()
-  const said = renameSlug(root, { at: HELD_PAGE, to: KEPT }, textIn(root))
+  const said = renameSlug(worldAt(root, textIn(root)), { at: HELD_PAGE, to: KEPT })
   expect(said.refused).toBe(null)
   expect(bodyIn(said, HELD_PAGE)).toContain(`export const ${KEPT} =`)
   expect(bodyIn(said, HELD_PAGE)).not.toContain(`export const ${HELD_SLUG} =`)
@@ -150,23 +151,21 @@ test("the page's exported const is renamed with its slug", () => {
 test("the bodies are answered rather than written", () => {
   const root = indexedRepo()
   const text = textIn(root)
-  expect(renameSlug(root, { at: HELD_PAGE, to: KEPT }, text).refused).toBe(null)
+  expect(renameSlug(worldAt(root, text), { at: HELD_PAGE, to: KEPT }).refused).toBe(null)
   expect(text(HELD_PAGE)).toContain(`"slug": "${HELD_SLUG}"`)
   expect(text(NAMER_PAGE)).toContain(`"note": "${HELD_SLUG}"`)
 })
 
 test("a page stating a plural is refused where the plural it becomes is not said", () => {
-  const said = renameSlug(scratch.rootFor("rename-slug-"), { at: PAGE, to: KEPT }, holding(PLURAL))
+  const world = worldAt(scratch.rootFor("rename-slug-"), holding(PLURAL))
+  const said = renameSlug(world, { at: PAGE, to: KEPT })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${PAGE}\` states a \`pluralSlug\`, so the plural it becomes is said`)
 })
 
 test("a page stating no plural is refused where one is said", () => {
-  const said = renameSlug(
-    scratch.rootFor("rename-slug-"),
-    { at: PAGE, to: KEPT, plural: "kepts" },
-    holding(WHOLE)
-  )
+  const world = worldAt(scratch.rootFor("rename-slug-"), holding(WHOLE))
+  const said = renameSlug(world, { at: PAGE, to: KEPT, plural: "kepts" })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${PAGE}\` states no \`pluralSlug\`, so no plural is said`)
 })
@@ -178,9 +177,8 @@ test("the plural is stated anew beside the slug", () => {
     `"slug": "${HELD_SLUG}",`,
     `"slug": "${HELD_SLUG}",\n  "pluralSlug": "helds",`
   )
-  const said = renameSlug(root, { at: HELD_PAGE, to: KEPT, plural: "kepts" }, (path) =>
-    path === HELD_PAGE ? held : text(path)
-  )
+  const world = worldAt(root, (path) => (path === HELD_PAGE ? held : text(path)))
+  const said = renameSlug(world, { at: HELD_PAGE, to: KEPT, plural: "kepts" })
   expect(said.refused).toBe(null)
   expect(bodyIn(said, HELD_PAGE)).toContain(`"pluralSlug": "kepts"`)
   expect(bodyIn(said, HELD_PAGE)).toContain(`"slug": "${KEPT}"`)

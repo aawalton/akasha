@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratch } from "@akasha/indexes/indexing/testing"
+import { worldAt } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { renamePropertySignature } from "./rename-property-signature.change.code.ts"
 
 afterAll(scratch.sweep)
@@ -9,7 +10,8 @@ const CODE = "akasha/one/held/held.module.code.ts"
 const NOTHING = (): null => null
 
 function whyOf(at: string, of: string, to: string): string {
-  const said = renamePropertySignature(scratch.rootFor("rename-property-"), { at, of, to }, NOTHING)
+  const world = worldAt(scratch.rootFor("rename-property-"), NOTHING)
+  const said = renamePropertySignature(world, { at, of, to })
   expect(said.edits).toEqual([])
   return said.refused ?? ""
 }

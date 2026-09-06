@@ -1,6 +1,5 @@
 import { basename, dirname, join } from "node:path"
 import { parsedAs } from "@akasha/code/code-source"
-import { filesIn, listedAt, schemaOf } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import { folderFor } from "../../../pages/service/page-composing/page-composing.module.code.ts"
@@ -9,7 +8,8 @@ import {
   gathered,
   refusing,
 } from "../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer, Edit } from "../../modules/change-answer/change-answer.module.types.ts"
+import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import { type World, worldOver } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { renameSlug } from "../rename-page-slug/rename-page-slug.change.code.ts"
 import { renamePath } from "../rename-path/rename-path.change.code.ts"
 import { statedIn } from "../restate-value/restate-value.change.code.ts"
@@ -42,13 +42,6 @@ type Read = { readonly held: Held } | { readonly refused: string }
 
 type Move = { readonly from: string; readonly to: string }
 
-function readingOver(
-  held: ReadonlyMap<string, string>,
-  textOf: (path: string) => string | null
-): (path: string) => string | null {
-  return (path) => held.get(path) ?? textOf(path)
-}
-
 function readIn(at: string, text: string): Read {
   const source = parsedAs(at, text)
   const said = statedIn(source)
@@ -67,10 +60,10 @@ function readIn(at: string, text: string): Read {
 
 type Beside = { readonly propertySlug: string; readonly ending: string }
 
-function besideIn(root: string, held: Held): readonly Beside[] {
+function besideIn(world: World, held: Held): readonly Beside[] {
   const found: Beside[] = []
   for (const [key, ending] of held.said) {
-    const answer = schemaOf(root, slugFor(key))
+    const answer = world.index.schemaOf(slugFor(key))
     if ("refused" in answer) continue
     const one = answer.schema
     if (one.pageTypeSlug !== FILE_PROPERTY) continue
@@ -92,66 +85,31 @@ function movesOver(beside: readonly Beside[], at: string, to: string): readonly 
   return found.sort((one, two) => (one.from < two.from ? -1 : one.from > two.from ? 1 : 0))
 }
 
-function pluralIn(root: string, held: Held, textOf: (path: string) => string | null): string {
-  const at = listedAt(root, PAGE_TYPE, held.pageTypeSlug)[0]?.path
+function pluralIn(world: World, held: Held): string {
+  const at = world.index.listedAt(PAGE_TYPE, held.pageTypeSlug)[0]?.path
   if (at === undefined) return ""
-  const text = textOf(at)
+  const text = world.textOf(at)
   if (text === null) return ""
   const read = readIn(at, text)
   return "refused" in read ? "" : (read.held.said.get(PLURAL_SLUG) ?? "")
 }
 
-function ownsIn(root: string, held: Held, at: string, beside: readonly Beside[]): boolean {
+function ownsIn(world: World, held: Held, at: string, beside: readonly Beside[]): boolean {
   if (beside.length === 0) return false
   const opening = `${held.slug}.${held.pageTypeSlug}.`
-  const files = filesIn(root, dirname(at))
+  const files = world.index.filesIn(dirname(at))
   return files.length > 0 && files.every((one) => basename(one).startsWith(opening))
 }
 
-function landingIn(
-  root: string,
-  held: Held,
-  given: Asked,
-  beside: readonly Beside[],
-  textOf: (path: string) => string | null
-): string {
+function landingIn(world: World, held: Held, given: Asked, beside: readonly Beside[]): string {
   const name = `${given.to}.${held.pageTypeSlug}${TYPED}`
   const folder = dirname(given.at)
-  if (!ownsIn(root, held, given.at, beside)) return join(folder, name)
-  return join(
-    dirname(folder),
-    folderFor(pluralIn(root, held, textOf), held.pageTypeSlug, given.to),
-    name
-  )
+  if (!ownsIn(world, held, given.at, beside)) return join(folder, name)
+  return join(dirname(folder), folderFor(pluralIn(world, held), held.pageTypeSlug, given.to), name)
 }
 
-/**
- * `gathered` keys an edit by where that edit lands, so a write to a path and a later move off that
- * path are two edits rather than one. This folds the pair: the write is dropped and the move states
- * the body the write started from.
- */
-function carriedOff(said: Answer): Answer {
-  if (said.refused !== null) return said
-  const held = new Map(said.edits.map((one) => [one.path, one]))
-  const gone = new Set(said.edits.flatMap((one) => (one.from === undefined ? [] : [one.from])))
-  const edits: Edit[] = []
-  for (const one of said.edits) {
-    if (one.from === undefined) {
-      if (!gone.has(one.path)) edits.push(one)
-      continue
-    }
-    const was = held.get(one.from)
-    edits.push(was === undefined ? one : { ...one, was: was.was })
-  }
-  return answered(edits)
-}
-
-export function renamePage(
-  root: string,
-  given: Asked,
-  textOf: (path: string) => string | null
-): Answer {
-  const text = textOf(given.at)
+export function renamePage(world: World, given: Asked): Answer {
+  const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const read = readIn(given.at, text)
   if ("refused" in read) return refusing(read.refused)
@@ -159,34 +117,37 @@ export function renamePage(
   if (held.pageTypeSlug === PAGE_TYPE) {
     return refusing(`\`${given.at}\` names a page type, whose slug is renamed by another act`)
   }
-  const bodies = new Map<string, string>()
-  const over = readingOver(bodies, textOf)
   let lands: string
   let beside: readonly Beside[]
   try {
-    beside = besideIn(root, held)
-    lands = landingIn(root, held, given, beside, over)
+    beside = besideIn(world, held)
+    lands = landingIn(world, held, given, beside)
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
     return refusing(`${why}, so no file was carried`)
   }
   const answers: Answer[] = []
+  let folded = answered([])
+  let seen = world
   if (given.to === held.slug) {
     const carries = `\`${given.to}\` is the slug this page carries`
     if (given.plural !== undefined) return refusing(`${carries}, so no plural is restated`)
     if (lands === given.at) return refusing(`${carries}, in the folder that slug names`)
   } else {
-    const said = renameSlug(root, { at: given.at, to: given.to, plural: given.plural }, over)
+    const said = renameSlug(seen, { at: given.at, to: given.to, plural: given.plural })
     if (said.refused !== null) return said
     answers.push(said)
-    for (const one of said.edits) if (one.body !== null) bodies.set(one.path, one.body)
+    folded = gathered(answers)
+    if (folded.refused !== null) return folded
+    seen = worldOver(world, folded)
   }
   for (const one of [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]) {
-    const carried = renamePath(root, one, over)
+    const carried = renamePath(seen, one)
     if (carried.refused !== null) return carried
     answers.push(carried)
-    for (const edit of carried.edits) if (edit.body !== null) bodies.set(edit.path, edit.body)
-    bodies.delete(one.from)
+    folded = gathered(answers)
+    if (folded.refused !== null) return folded
+    seen = worldOver(world, folded)
   }
-  return carriedOff(gathered(answers))
+  return folded
 }

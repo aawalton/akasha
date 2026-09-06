@@ -8,6 +8,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import { worldAt } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { renameExport } from "./rename-export.change.code.ts"
 
 afterAll(scratch.sweep)
@@ -27,7 +28,8 @@ function bodyIn(said: Answer, path: string): string | null | undefined {
 }
 
 function whyOf(at: string, of: string, to: string): string {
-  const said = renameExport(scratch.rootFor("rename-export-"), { at, of, to }, NOTHING)
+  const world = worldAt(scratch.rootFor("rename-export-"), NOTHING)
+  const said = renameExport(world, { at, of, to })
   expect(said.edits).toEqual([])
   return said.refused ?? ""
 }
@@ -64,7 +66,8 @@ test("an index that cannot answer refuses rather than narrowing the reach", () =
 
 test("the declaring file and the file importing it are both spelled anew", () => {
   const root = indexedRepo()
-  const said = renameExport(root, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED }, textIn(root))
+  const world = worldAt(root, textIn(root))
+  const said = renameExport(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(pathsOf(said)).toEqual([HELD_CODE, NAMER_CODE])
   expect(bodyIn(said, HELD_CODE)).toBe(`export const ${CARRIED} = 1\n`)
@@ -76,16 +79,16 @@ test("the declaring file and the file importing it are both spelled anew", () =>
 test("the bodies are answered rather than written", () => {
   const root = indexedRepo()
   const text = textIn(root)
-  expect(renameExport(root, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED }, text).refused).toBe(
-    null
-  )
+  const said = renameExport(worldAt(root, text), { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
+  expect(said.refused).toBe(null)
   expect(text(HELD_CODE)).toBe(`export const ${HELD_EXPORT} = 1\n`)
   expect(text(NAMER_CODE)).toContain(`import { ${HELD_EXPORT} }`)
 })
 
 test("a rename refuses where a file it would change already reaches the new name", () => {
   const root = indexedRepo()
-  const said = renameExport(root, { at: HELD_CODE, of: HELD_EXPORT, to: "named" }, textIn(root))
+  const world = worldAt(root, textIn(root))
+  const said = renameExport(world, { at: HELD_CODE, of: HELD_EXPORT, to: "named" })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${NAMER_CODE}\` already reaches a \`named\``)
 })

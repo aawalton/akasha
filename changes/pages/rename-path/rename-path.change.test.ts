@@ -7,6 +7,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import type { Answer, Edit } from "../../modules/change-answer/change-answer.module.types.ts"
+import { worldAt } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { renamePath } from "./rename-path.change.code.ts"
 
 afterAll(scratch.sweep)
@@ -28,25 +29,28 @@ function movesOf(said: Answer): readonly Edit[] {
 }
 
 test("the path it already sits at is refused", () => {
-  const said = renamePath(scratch.rootFor("rename-path-"), { from: KEPT, to: KEPT }, NOTHING)
+  const world = worldAt(scratch.rootFor("rename-path-"), NOTHING)
+  const said = renamePath(world, { from: KEPT, to: KEPT })
   expect(said.refused).toBe("`akasha/one/kept.module.code.ts` is the path it already sits at")
 })
 
 test("a body that could not be read is refused", () => {
-  const said = renamePath(scratch.rootFor("rename-path-"), { from: HELD_CODE, to: KEPT }, NOTHING)
+  const world = worldAt(scratch.rootFor("rename-path-"), NOTHING)
+  const said = renamePath(world, { from: HELD_CODE, to: KEPT })
   expect(said.refused).toBe(`\`${HELD_CODE}\` could not be read`)
 })
 
 test("a body already at the path it would move to is refused", () => {
   const root = indexedRepo()
-  const said = renamePath(root, { from: HELD_CODE, to: NAMER_CODE }, textIn(root))
+  const said = renamePath(worldAt(root, textIn(root)), { from: HELD_CODE, to: NAMER_CODE })
   expect(said.refused).toBe(`\`${NAMER_CODE}\` is a body already`)
 })
 
 test("an index that cannot answer refuses rather than narrowing the reach", () => {
   const held = (path: string): string | null =>
     path === HELD_CODE ? "export const kept = 1\n" : null
-  const said = renamePath(scratch.rootFor("rename-path-"), { from: HELD_CODE, to: KEPT }, held)
+  const world = worldAt(scratch.rootFor("rename-path-"), held)
+  const said = renamePath(world, { from: HELD_CODE, to: KEPT })
   expect(said.edits).toEqual([])
   expect(said.refused).toContain("so none were repointed")
 })
@@ -54,7 +58,7 @@ test("an index that cannot answer refuses rather than narrowing the reach", () =
 test("a path that moves carries its importer with it", () => {
   const root = indexedRepo()
   const text = textIn(root)
-  const said = renamePath(root, { from: HELD_CODE, to: KEPT }, text)
+  const said = renamePath(worldAt(root, text), { from: HELD_CODE, to: KEPT })
   expect(said.refused).toBe(null)
   expect(pathsOf(said)).toEqual([KEPT, NAMER_CODE].sort())
   expect(bodyIn(said, NAMER_CODE)).toContain("../one/kept.module.code.ts")
@@ -63,7 +67,7 @@ test("a path that moves carries its importer with it", () => {
 test("the path taken away is answered as the move the body arrives by", () => {
   const root = indexedRepo()
   const text = textIn(root)
-  const said = renamePath(root, { from: HELD_CODE, to: KEPT }, text)
+  const said = renamePath(worldAt(root, text), { from: HELD_CODE, to: KEPT })
   const moves = movesOf(said)
   expect(moves).toHaveLength(1)
   expect(moves[0]?.from).toBe(HELD_CODE)

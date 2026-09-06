@@ -15,6 +15,7 @@ import {
   writing,
 } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../modules/change-answer/change-answer.module.types.ts"
+import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
 
 const ADDRESSED = /^([A-Za-z_$][A-Za-z0-9_$]*)\.([A-Za-z_$][A-Za-z0-9_$]*)$/
 
@@ -94,17 +95,14 @@ function whyNot(given: Asked, address: Addressed | null): string | null {
   return null
 }
 
-export function renamePropertySignature(
-  root: string,
-  given: Asked,
-  textOf: (path: string) => string | null
-): Answer {
+export function renamePropertySignature(world: World, given: Asked): Answer {
   const address = addressIn(given.of)
   const why = whyNot(given, address)
   if (why !== null || address === null) return refusing(why ?? given.of)
-  const reading = importingOf(root, new Map([[given.at, given.at]]))
+  const reading = importingOf(world.index, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
-  const typing = typingOver(root, [given.at, ...reading.importers], readingOf(root, textOf))
+  const over = [given.at, ...reading.importers]
+  const typing = typingOver(world.root, over, readingOf(world.root, world.textOf))
   const types = typesNamed(typing, given.at, address.type)
   if (types.length === 0) return refusing(`\`${given.at}\` declares no type \`${address.type}\``)
   const declared = new Set(types.flatMap((one) => [...signaturesIn(one, address.property)]))
@@ -120,7 +118,7 @@ export function renamePropertySignature(
   }
   const held = new Map<string, Spot[]>()
   const seen = new Set<string>()
-  for (const found of namingOf(typing, root, declared)) {
+  for (const found of namingOf(typing, world.root, declared)) {
     const spot = `${found.path}:${found.start}`
     if (seen.has(spot)) continue
     seen.add(spot)
@@ -137,7 +135,7 @@ export function renamePropertySignature(
   }
   const edits: Edit[] = []
   for (const [path, spots] of held) {
-    const text = textOf(path)
+    const text = world.textOf(path)
     if (text === null) return refusing(`\`${path}\` would change and could not be read`)
     let body = text
     for (const one of [...spots].sort((here, there) => there.start - here.start)) {

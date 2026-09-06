@@ -2,6 +2,7 @@ import { typed } from "@akasha/code/code-typing"
 import { importingOf } from "../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { refusing } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { respelled } from "../respell-export/respell-export.change.code.ts"
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
@@ -27,15 +28,11 @@ function whyNot(given: Asked): string | null {
   return null
 }
 
-export function renameExport(
-  root: string,
-  given: Asked,
-  textOf: (path: string) => string | null
-): Answer {
+export function renameExport(world: World, given: Asked): Answer {
   const why = whyNot(given)
   if (why !== null) return refusing(why)
-  const reading = importingOf(root, new Map([[given.at, given.at]]))
+  const reading = importingOf(world.index, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
   const over = [given.at, ...reading.importers]
-  return respelled(root, given.at, over, given.of, given.to, textOf)
+  return respelled(world.root, given.at, over, given.of, given.to, world.textOf)
 }

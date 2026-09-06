@@ -8,6 +8,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import { worldAt } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { renameCodeToken } from "./rename-code-token.change.code.ts"
 
 afterAll(scratch.sweep)
@@ -37,36 +38,28 @@ function bodyIn(said: Answer, path: string): string {
 }
 
 test("a path that is no TypeScript body is refused", () => {
-  const said = renameCodeToken(
-    scratch.rootFor("token-"),
-    { at: "a.md", of: "one", to: "two" },
-    NOTHING
-  )
+  const world = worldAt(scratch.rootFor("token-"), NOTHING)
+  const said = renameCodeToken(world, { at: "a.md", of: "one", to: "two" })
   expect(said.refused).toBe("`a.md` names no TypeScript body")
 })
 
 test("a body that could not be read is refused", () => {
-  const said = renameCodeToken(
-    scratch.rootFor("token-"),
-    { at: LOCAL, of: "one", to: "two" },
-    NOTHING
-  )
+  const world = worldAt(scratch.rootFor("token-"), NOTHING)
+  const said = renameCodeToken(world, { at: LOCAL, of: "one", to: "two" })
   expect(said.refused).toBe("`akasha/one/local.module.code.ts` could not be read")
 })
 
 test("an exported name is renamed through every importer", () => {
   const root = indexedRepo()
-  const said = renameCodeToken(root, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED }, textIn(root))
+  const world = worldAt(root, textIn(root))
+  const said = renameCodeToken(world, { at: HELD_CODE, of: HELD_EXPORT, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(pathsOf(said)).toEqual([HELD_CODE, NAMER_CODE])
 })
 
 test("a name no export carries is renamed over its own file", () => {
-  const said = renameCodeToken(
-    scratch.rootFor("token-"),
-    { at: LOCAL, of: "kept", to: CARRIED },
-    bodyOf
-  )
+  const world = worldAt(scratch.rootFor("token-"), bodyOf)
+  const said = renameCodeToken(world, { at: LOCAL, of: "kept", to: CARRIED })
   expect(said.refused).toBe(null)
   expect(bodyIn(said, LOCAL)).toBe(BODY.replaceAll("kept", CARRIED))
   expect(said.edits[0]?.was).toBe(BODY)
@@ -74,11 +67,8 @@ test("a name no export carries is renamed over its own file", () => {
 })
 
 test("a name the file declares nowhere is refused", () => {
-  const said = renameCodeToken(
-    scratch.rootFor("token-"),
-    { at: LOCAL, of: "missing", to: CARRIED },
-    bodyOf
-  )
+  const world = worldAt(scratch.rootFor("token-"), bodyOf)
+  const said = renameCodeToken(world, { at: LOCAL, of: "missing", to: CARRIED })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`akasha/one/local.module.code.ts` declares no `missing`")
 })

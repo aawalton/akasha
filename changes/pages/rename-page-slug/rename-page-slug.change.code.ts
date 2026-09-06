@@ -1,5 +1,5 @@
 import { literalOf, parsedAs } from "@akasha/code/code-source"
-import { type Named, namersOf, slugsOfType } from "@akasha/indexes"
+import type { Named } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import ts from "typescript"
@@ -11,6 +11,7 @@ import {
   writing,
 } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../modules/change-answer/change-answer.module.types.ts"
+import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { respelled } from "../respell-export/respell-export.change.code.ts"
 import { restated, statedIn } from "../restate-value/restate-value.change.code.ts"
 
@@ -117,9 +118,9 @@ export function splicedIn(text: string, spots: readonly Spot[]): string {
   return body
 }
 
-function reachOf(root: string, id: string, pageTypeSlug: string): Reach {
+function reachOf(world: World, id: string, pageTypeSlug: string): Reach {
   try {
-    return { namers: namersOf(root, id), slugs: slugsOfType(root, pageTypeSlug) }
+    return { namers: world.index.namersOf(id), slugs: world.index.slugsOfType(pageTypeSlug) }
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
     return { unread: `${why}, so no slug was restated` }
@@ -136,13 +137,9 @@ function namingIn(namers: readonly Named[]): ReadonlyMap<string, ReadonlySet<str
   return found
 }
 
-export function renameSlug(
-  root: string,
-  given: Asked,
-  textOf: (path: string) => string | null
-): Answer {
+export function renameSlug(world: World, given: Asked): Answer {
   if (!given.at.endsWith(TYPED)) return refusing(`\`${given.at}\` is no \`.ts\` file`)
-  const text = textOf(given.at)
+  const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const source = parsedAs(given.at, text)
   const said = statedIn(source)
@@ -167,7 +164,7 @@ export function renameSlug(
     return refusing(`\`${given.to}\` is no slug, a slug being lower kebab case`)
   }
   if (given.to === slug.text) return refusing(`\`${given.to}\` is the slug it already carries`)
-  const reach = reachOf(root, id.text, pageType.text)
+  const reach = reachOf(world, id.text, pageType.text)
   if ("unread" in reach) return refusing(reach.unread)
   if (reach.slugs.includes(given.to)) {
     return refusing(`a \`${pageType.text}\` carries the slug \`${given.to}\` already`)
@@ -184,7 +181,7 @@ export function renameSlug(
   for (const [path, slugs] of namingIn(reach.namers)) {
     let body = texts.get(path)
     if (body === undefined) {
-      const read = textOf(path)
+      const read = world.textOf(path)
       if (read === null) return refusing(`\`${path}\` names this page and could not be read`)
       texts.set(path, read)
       body = read
@@ -208,11 +205,11 @@ export function renameSlug(
     answers.push(stated)
     for (const edit of stated.edits) if (edit.body !== null) bodies.set(edit.path, edit.body)
   }
-  const reading = importingOf(root, new Map([[given.at, given.at]]))
+  const reading = importingOf(world.index, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
   const over = [given.at, ...reading.importers]
-  const spelled = respelled(root, given.at, over, bound, exportedAs(given.to), (path) => {
-    return bodies.get(path) ?? textOf(path)
+  const spelled = respelled(world.root, given.at, over, bound, exportedAs(given.to), (path) => {
+    return bodies.get(path) ?? world.textOf(path)
   })
   if (spelled.refused !== null) return spelled
   answers.push(spelled)

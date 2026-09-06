@@ -29,6 +29,39 @@ export const changeShadow = {
       statement: "A shadow that will not build comes back refused rather than as a shadow.",
     },
     {
+      invariantKind: "departure",
+      statement: "A change reads the files and the index through one world.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world over no answer reads the index committed at the root.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world over an answer reads the index that answer leaves.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path an answer writes reads back the body that answer leaves at the path.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path an answer carries away reads back nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path no answer names reads back the body the world beneath answers.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A world is worked out over the answers gathered so far rather than over one answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A world whose shadow will not build throws where the index is asked.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here builds a second shadow of its own.",
     },

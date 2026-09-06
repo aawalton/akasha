@@ -10,6 +10,7 @@ import {
 import ts from "typescript"
 import { gathered, refusing } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { renameExport } from "../rename-export/rename-export.change.code.ts"
 import { renameLocalVariable } from "../rename-local-variable/rename-local-variable.change.code.ts"
 
@@ -60,17 +61,13 @@ function pickedIn(typing: Typing, given: Asked, declared: readonly ts.Node[]): P
   }
 }
 
-export function renameCodeToken(
-  root: string,
-  given: Asked,
-  textOf: (path: string) => string | null
-): Answer {
+export function renameCodeToken(world: World, given: Asked): Answer {
   if (!typed(given.at)) return refusing(`\`${given.at}\` names no TypeScript body`)
-  const text = textOf(given.at)
+  const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
-  const typing = typingOver(root, [given.at], readingOf(root, textOf))
+  const typing = typingOver(world.root, [given.at], readingOf(world.root, world.textOf))
   if (exportsNamed(typing, given.at, given.of).length > 0) {
-    return gathered([renameExport(root, { at: given.at, of: given.of, to: given.to }, textOf)])
+    return gathered([renameExport(world, { at: given.at, of: given.of, to: given.to })])
   }
   const declared = declaredNamed(typing, given.at, given.of)
   if (declared.length === 0) return refusing(`\`${given.at}\` declares no \`${given.of}\``)

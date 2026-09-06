@@ -13,6 +13,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import { worldAt } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { renamePage } from "./rename-page.change.code.ts"
 
 afterAll(scratch.sweep)
@@ -64,28 +65,34 @@ function holdsIn(said: Answer, path: string): boolean {
 }
 
 test("a body that could not be read is refused", () => {
-  const said = renamePage(scratch.rootFor("slug-"), { at: HELD_PAGE, to: CARRIED }, NOTHING)
+  const said = renamePage(worldAt(scratch.rootFor("slug-"), NOTHING), {
+    at: HELD_PAGE,
+    to: CARRIED,
+  })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`akasha/one/held.module.ts` could not be read")
 })
 
 test("a body stating no slug is refused", () => {
   const body = bodyOf({ id: idOf("8"), pageTypeSlug: "module" })
-  const said = renamePage(scratch.rootFor("slug-"), { at: HELD_PAGE, to: CARRIED }, saying(body))
+  const world = worldAt(scratch.rootFor("slug-"), saying(body))
+  const said = renamePage(world, { at: HELD_PAGE, to: CARRIED })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`akasha/one/held.module.ts` states no `slug`")
 })
 
 test("a body stating no page type is refused", () => {
   const body = bodyOf({ id: idOf("8"), slug: HELD_SLUG })
-  const said = renamePage(scratch.rootFor("slug-"), { at: HELD_PAGE, to: CARRIED }, saying(body))
+  const world = worldAt(scratch.rootFor("slug-"), saying(body))
+  const said = renamePage(world, { at: HELD_PAGE, to: CARRIED })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`akasha/one/held.module.ts` states no `pageTypeSlug`")
 })
 
 test("a page type is refused, its slug being renamed by another act", () => {
   const body = bodyOf({ id: idOf("8"), pageTypeSlug: "page-type", slug: HELD_SLUG })
-  const said = renamePage(scratch.rootFor("slug-"), { at: HELD_PAGE, to: CARRIED }, saying(body))
+  const world = worldAt(scratch.rootFor("slug-"), saying(body))
+  const said = renamePage(world, { at: HELD_PAGE, to: CARRIED })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
     "`akasha/one/held.module.ts` names a page type, whose slug is renamed by another act"
@@ -94,7 +101,7 @@ test("a page type is refused, its slug being renamed by another act", () => {
 
 test("a refusal from the slug rename is answered as this change's own", () => {
   const root = indexedRepo()
-  const said = renamePage(root, { at: HELD_PAGE, to: "namer" }, textIn(root))
+  const said = renamePage(worldAt(root, textIn(root)), { at: HELD_PAGE, to: "namer" })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("a `module` carries the slug `namer` already")
 })
@@ -105,7 +112,7 @@ test("a page whose slug is more than one word has its camel export renamed too",
     [OTHER_PAGE]: statedAs(value, "otherOne"),
     [OTHER_CODE]: "export const kept = 2\n",
   })
-  const said = renamePage(root, { at: OTHER_PAGE, to: CARRIED }, textIn(root))
+  const said = renamePage(worldAt(root, textIn(root)), { at: OTHER_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(bodyIn(said, CARRIED_PAGE)).toContain(`export const ${CARRIED} =`)
   expect(bodyIn(said, CARRIED_PAGE)).not.toContain("export const otherOne")
@@ -118,7 +125,7 @@ test("a page's slug is renamed in its data, and its files are carried with it", 
   const namer = was(NAMER_PAGE) ?? ""
   const namerCode = was(NAMER_CODE) ?? ""
   const heldCode = was(HELD_CODE) ?? ""
-  const said = renamePage(root, { at: HELD_PAGE, to: CARRIED }, was)
+  const said = renamePage(worldAt(root, was), { at: HELD_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [HELD_PAGE, CARRIED_PAGE],
@@ -148,7 +155,7 @@ test("a page's slug is renamed in its data, and its files are carried with it", 
 test("a body a move carries states the body on disk before the change", () => {
   const root = indexedRepo()
   const was = textIn(root)
-  const said = renamePage(root, { at: HELD_PAGE, to: CARRIED }, was)
+  const said = renamePage(worldAt(root, was), { at: HELD_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   for (const one of said.edits) {
     expect(one.was).toBe(was(one.from ?? one.path))
@@ -173,7 +180,7 @@ test("a beside file whose key is more than one word is carried too", () => {
     "akasha/four/wide.module.code.ts": "export const kept = 3\n",
     "akasha/four/wide.module.test-fixtures.ts": "export const set = 4\n",
   })
-  const said = renamePage(root, { at: WIDE_PAGE, to: CARRIED }, textIn(root))
+  const said = renamePage(worldAt(root, textIn(root)), { at: WIDE_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [WIDE_PAGE, CARRIED_PAGE],
@@ -193,7 +200,7 @@ test("a page sharing its folder is renamed in the folder that page sits in", () 
       slug: "second",
     }),
   })
-  const said = renamePage(root, { at: OTHER_PAGE, to: CARRIED }, textIn(root))
+  const said = renamePage(worldAt(root, textIn(root)), { at: OTHER_PAGE, to: CARRIED })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [OTHER_PAGE, "akasha/three/carried.module.ts"],
@@ -207,7 +214,7 @@ test("a page carrying the slug asked for is carried into the folder that slug na
     [OTHER_PAGE]: statedAs(value, "otherOne"),
     [OTHER_CODE]: "export const kept = 2\n",
   })
-  const said = renamePage(root, { at: OTHER_PAGE, to: OTHER_SLUG }, textIn(root))
+  const said = renamePage(worldAt(root, textIn(root)), { at: OTHER_PAGE, to: OTHER_SLUG })
   expect(said.refused).toBe(null)
   expect(movesOf(said)).toEqual([
     [OTHER_PAGE, `akasha/${OTHER_SLUG}/${OTHER_SLUG}.module.ts`],
@@ -225,7 +232,7 @@ test("a page carrying the slug asked for, in the folder that slug names, is refu
     }),
     [SEATED_CODE]: "export const kept = 5\n",
   })
-  const said = renamePage(root, { at: SEATED_PAGE, to: SEATED_SLUG }, textIn(root))
+  const said = renamePage(worldAt(root, textIn(root)), { at: SEATED_PAGE, to: SEATED_SLUG })
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(
     `\`${SEATED_SLUG}\` is the slug this page carries, in the folder that slug names`

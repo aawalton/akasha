@@ -43,6 +43,9 @@ import {
   listedNamed,
   type Named,
   namersOf,
+  type Schemad,
+  schemaOf,
+  slugsOfType,
   typeSlugById,
   typeSlugOf,
 } from "../reading/index-reading.module.code.ts"
@@ -79,7 +82,9 @@ export type Answering = {
   readonly propertiesOf: (pageTypeSlug: string) => readonly Carried[]
   readonly propertiesIfNamed: (pageTypeSlug: string) => readonly Carried[] | null
   readonly schemaAt: () => ReadonlyMap<string, Filed>
+  readonly schemaOf: (named: string) => Schemad
   readonly sidecarsAt: () => SidecarsBy
+  readonly slugsOfType: (pageTypeSlug: string) => readonly string[]
   readonly sourceIn: () => Source
   readonly typeSlugById: (id: string) => string | null
   readonly typeSlugOf: (id: string) => string
@@ -113,7 +118,9 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
     propertiesOf: (pageTypeSlug) => propertiesOf(pageTypeSlug, reading, pageOf),
     propertiesIfNamed: (pageTypeSlug) => propertiesIfNamedOf(pageTypeSlug, reading, pageOf),
     schemaAt: () => schemaAt(reading),
+    schemaOf: (named) => schemaOf(reading, named),
     sidecarsAt: () => sidecarsOver(reading, []),
+    slugsOfType: (pageTypeSlug) => slugsOfType(reading, pageTypeSlug),
     sourceIn: () => sourceIn(reading, pageOf),
     typeSlugById: (id) => typeSlugById(reading, id),
     typeSlugOf: (id) => typeSlugOf(reading, id),
