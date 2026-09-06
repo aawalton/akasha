@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/ui-store/pages-ui-store.workspace-package.ts b/pages/ui-store/pages-ui-store.workspace-package.ts
+index 5305523a202c76b9b14ddf415527e148e8f4daaf..f2329eafc1ec199783515396978af8ac97ea9695 100644
+--- a/pages/ui-store/pages-ui-store.workspace-package.ts
++++ b/pages/ui-store/pages-ui-store.workspace-package.ts
+@@ -31,7 +31,7 @@ export const pagesUiStore = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "This package reaches the old page store rather than the one akasha holds.",
++      statement: "This package reaches the old page store rather than the store akasha holds.",
+     },
+     {
+       invariantKind: "gap",
