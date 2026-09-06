@@ -1410,10 +1410,10 @@ index 8310e754d28ba7ce800777f87e901ce700b76ee1..b23c694d2e89766e7771b34e30d59106
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts b/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
-index 7eff1453a8ce0a839aa074b4f65c4e4434948d0d..c6030e6589ef5eec2dbcd5d9098ae2f5b603f000 100644
+index 7eff1453a8ce0a839aa074b4f65c4e4434948d0d..9391624c53a3772d43772adfb16e4e68438380e4 100644
 --- a/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
 +++ b/alan/harness/monarch/monarch-merchants/monarch-merchant.page-type.ts
-@@ -18,7 +18,12 @@ export const monarchMerchant = {
+@@ -18,12 +18,17 @@ export const monarchMerchant = {
    partSlugs: ["text-property/merchant-patterns"],
    properties: [
      { pagePropertySlug: "text-property/title", required: true, many: false },
@@ -1427,6 +1427,12 @@ index 7eff1453a8ce0a839aa074b4f65c4e4434948d0d..c6030e6589ef5eec2dbcd5d9098ae2f5
    ],
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "How the money moved is a merchant here, for rows whose words name no vendor.",
++      statement: "How the money moved is a merchant here for rows whose words name no vendor.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts b/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts
 index 6ca3a6045c8583738d10fb42d4af71b14083de5a..2e80c327427b2d407303c1dd4297a7f0154afd8d 100644
 --- a/alan/harness/monarch/monarch-merchants/properties/merchant-patterns.text-property.ts
@@ -4726,7 +4732,7 @@ index 5d006312114194c1a8d4d33d3668a244e69f35ff..9d5fb171a07afa1277dbd6cc250282d5
    max: null,
  } as const satisfies NumberProperty
 diff --git a/pages/types/page-properties/properties/property-slug.text-property.ts b/pages/types/page-properties/properties/property-slug.text-property.ts
-index b0472265b556de9c09af366196fb67c547bacfac..73eae3dd86223d0bb2e6342d24484c5bcd8ad56c 100644
+index c9434ec6e7d509f812bb8b0477b39b4f0b3a37f9..216ec61471d565ac742e0d3ea3109283f1c88659 100644
 --- a/pages/types/page-properties/properties/property-slug.text-property.ts
 +++ b/pages/types/page-properties/properties/property-slug.text-property.ts
 @@ -8,7 +8,7 @@ export const propertySlug = {
@@ -4738,12 +4744,15 @@ index b0472265b556de9c09af366196fb67c547bacfac..73eae3dd86223d0bb2e6342d24484c5b
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
-@@ -26,7 +26,7 @@ export const propertySlug = {
+@@ -26,7 +26,11 @@ export const propertySlug = {
      },
      {
        invariantKind: "departure",
--      statement: "The key a page carries is this written in camel.",
++<<<<<<< what this change would leave
 +      statement: "The key a page carries is the slug written in camel.",
++=======
+       statement: "The key a page carries is this slug written in camel.",
++>>>>>>> what HEAD holds
      },
      {
        invariantKind: "departure",
