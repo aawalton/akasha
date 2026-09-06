@@ -24,7 +24,8 @@
       "!**/*.config.js",
       "!**/*.config.mjs",
       "!**/*.config.ts",
-      "!**/*.generated.ts"
+      "!**/*.generated.ts",
+      "!editor-extension/vscode-api/vscode-api.type-declaration.d.ts"
     ]
   },
   "formatter": {

@@ -8,6 +8,7 @@ export const ambientTypes = {
   slug: "ambient-types",
   propertySlug: "d",
   definition: "the types a page declares for a compiler to read",
+  runsFileLength: false,
   invariants: [
     {
       invariantKind: "departure",
