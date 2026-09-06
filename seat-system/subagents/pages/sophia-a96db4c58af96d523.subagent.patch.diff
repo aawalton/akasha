@@ -1,3 +1,16 @@
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts
+index 7ebac986e95e1b7958047868dc4b1eba58c9cf47..acbf4986764f0dc028f777390ce99bb0a71a85e3 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.test.ts
+@@ -53,7 +53,7 @@ test("the command's name argued to another program is left", () => {
+ })
+ 
+ test("a file sitting in the dispatcher's own folder is refused nothing", () => {
+-  const at = "akasha/command-system/cli/cli.module.test.ts"
++  const at = "command-system/cli/cli.module.test.ts"
+   const text = 'Bun.spawnSync([process.execPath, "akasha/command-system/cli/cli.module.code.ts"])\n'
+   expect(noAkashaCommandFromCode({ path: at, source: parsedAs(at, text) })).toEqual([])
+ })
 diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-run-outside-the-runner/no-run-outside-the-runner.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-run-outside-the-runner/no-run-outside-the-runner.syntax-rule.test.ts
 index b387a57a368e7facede835993d5b00387bfce60d..2bf09bc171d7873753a1cc7cfb0d5af8401d4c88 100644
 --- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-run-outside-the-runner/no-run-outside-the-runner.syntax-rule.test.ts
