@@ -1,15 +1,21 @@
 readersOweReading: false
 diff --git a/alan/relating/connection-activities/connection-activity.page-type.ts b/alan/relating/connection-activities/connection-activity.page-type.ts
-index 015e68668e7a0ea2c8ee574cbaf01c2302556685..692344ce2b0d4c63fa4b55f65c554658fb582026 100644
+index 015e68668e7a0ea2c8ee574cbaf01c2302556685..fb3c859bad1dc287a41ff509390fb026384b411b 100644
 --- a/alan/relating/connection-activities/connection-activity.page-type.ts
 +++ b/alan/relating/connection-activities/connection-activity.page-type.ts
-@@ -176,7 +176,8 @@ export const connectionActivity = {
+@@ -176,11 +176,13 @@ export const connectionActivity = {
      },
      {
        invariantKind: "departure",
 -      statement: "Reality counts one authentic, a half professional and a quarter celebrity.",
 +      statement:
 +        "Reality counts a whole for authentic and a half for professional and a quarter for celebrity.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Safety counts a quarter at L3, a half at L4, three quarters at L5 and one at L6.",
++      statement:
++        "Safety counts a quarter at L3 and a half at L4 and three quarters at L5 and a whole at L6.",
      },
      {
        invariantKind: "departure",
