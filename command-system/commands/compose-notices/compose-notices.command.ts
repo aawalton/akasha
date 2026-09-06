@@ -34,17 +34,20 @@ export const composeNotices = {
     },
     {
       invariantKind: "departure",
-      statement: "The JSON is indented two spaces, which the callers diffing that JSON read.",
+      statement: "The JSON is indented two spaces.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The callers of this command diff the JSON written.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run named `--out` writes the JSON there rather than saying the JSON.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Named `--out`, the command writes there and says nothing rather than saying the JSON written.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A relative `--out` path is read against the repository root, not the caller's folder.",
+        "A relative `--out` path is read against the repository root rather than the caller's folder.",
     },
     {
       invariantKind: "absence",
@@ -52,7 +55,7 @@ export const composeNotices = {
     },
     {
       invariantKind: "absence",
-      statement: "Named no `--out`, a run writes nothing.",
+      statement: "A run named no `--out` writes nothing.",
     },
   ],
 } as const satisfies Command
