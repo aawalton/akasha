@@ -22,8 +22,7 @@ export const exhaustiveDispatch = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Each of those defaults ends the dispatch rather than falling out of that dispatch.",
+      statement: "Every such default ends the dispatch rather than falling out of that dispatch.",
     },
     {
       invariantKind: "departure",
