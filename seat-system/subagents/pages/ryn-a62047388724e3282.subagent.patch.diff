@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/refactor/refactor.command.ts b/command-system/commands/refactor/refactor.command.ts
-index 809e2755b6345bd49330528a3f4d701006939552..811b22625f7f54b0feb7e864f96109b11b822bc0 100644
+index 809e2755b6345bd49330528a3f4d701006939552..8bdd0b82a8c335859d0bc0121bae4d41857e06da 100644
 --- a/command-system/commands/refactor/refactor.command.ts
 +++ b/command-system/commands/refactor/refactor.command.ts
 @@ -190,7 +190,7 @@ export const refactor = {
@@ -30,3 +30,12 @@ index 809e2755b6345bd49330528a3f4d701006939552..811b22625f7f54b0feb7e864f96109b1
      },
      {
        invariantKind: "departure",
+@@ -262,7 +262,7 @@ export const refactor = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Every manifest depending on the renamed package is respelled as expand renames it.",
++        "Every manifest depending on the renamed package is respelled as expand renames the package.",
+     },
+     {
+       invariantKind: "absence",
