@@ -1,0 +1,12 @@
+diff --git a/changes/workflow-language/workflow-language.workspace-package.ts b/changes/workflow-language/workflow-language.workspace-package.ts
+index fd5e097e6dfa06a54c82e2e3c6cc11616e2a9737..54cad182391aa35223d707f376984fc4b577fde3 100644
+--- a/changes/workflow-language/workflow-language.workspace-package.ts
++++ b/changes/workflow-language/workflow-language.workspace-package.ts
+@@ -27,6 +27,7 @@ export const workflowLanguage = {
+     "module/retry-transient-ddl",
+     "module/rollback-image",
+     "module/set-image",
++    "workflow-step/secret-place",
+     "workflow-step/sops-decrypt",
+     "workflow-step/source-sync",
+     "module/verify-rollout",
