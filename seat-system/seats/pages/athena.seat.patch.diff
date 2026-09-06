@@ -17,6 +17,25 @@ index 34fea6f2bea447fb9787784868e06dadf7f18e0a..1578ba14509bd41a40e6ac12b67881ae
  }
  
  export function seatContextValue(live: boolean, place: SeatMode): string {
+diff --git a/editor-extension/seat-toggles/seat-toggles.module.test.ts b/editor-extension/seat-toggles/seat-toggles.module.test.ts
+index 422a600b57776398905c377635f11073f65ef941..be48a98cc051a247339625b2c136f0cfdb90d734 100644
+--- a/editor-extension/seat-toggles/seat-toggles.module.test.ts
++++ b/editor-extension/seat-toggles/seat-toggles.module.test.ts
+@@ -1,4 +1,5 @@
+ import { describe, expect, test } from "bun:test"
++import { SEAT_ATTACH_FN } from "@akasha/seat-system/terminal-seat-marks"
+ import { SEAT_TAB_KEY_NAMES } from "../seat-tab-context/seat-tab-context.module.code.ts"
+ import {
+   attachCommandLine,
+@@ -41,7 +42,7 @@ describe("the name a seat is attached by", () => {
+ 
+   test("a name that is no seat name is refused rather than run", () => {
+     expect(() => attachCommandLine("ember; rm -rf /")).toThrow()
+-    expect(attachCommandLine("ember")).toBe('tmux attach-session -t "=ember"')
++    expect(attachCommandLine("ember")).toBe(`${SEAT_ATTACH_FN} "ember"`)
+   })
+ })
+ 
 diff --git a/seat-system/package.json b/seat-system/package.json
 index 926771b6f3de3279a681f1e83fbb22d07845e06b..52dc7350b5609c19949848224f740fdb37d1ea8a 100644
 --- a/seat-system/package.json
