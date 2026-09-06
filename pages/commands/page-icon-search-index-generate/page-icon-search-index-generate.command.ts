@@ -39,7 +39,7 @@ export const pageIconSearchIndexGenerate = {
     {
       invariantKind: "departure",
       statement:
-        "The one page anything outside imports reaches its shards by the path each stands at.",
+        "The single page anything outside imports reaches its shards by the path every shard sits at.",
     },
     {
       invariantKind: "absence",
