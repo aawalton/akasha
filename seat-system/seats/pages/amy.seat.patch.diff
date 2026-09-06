@@ -1,0 +1,443 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/alan/fitness/commands/exercise-commands.workspace-package.ts b/alan/fitness/commands/exercise-commands.workspace-package.ts
+index 04a7368a7c99719be8b8fc2f3c992f8c9a4fc452..ac619d886ca0bd30ccd31ee6bf4650c3b07113e3 100644
+--- a/alan/fitness/commands/exercise-commands.workspace-package.ts
++++ b/alan/fitness/commands/exercise-commands.workspace-package.ts
+@@ -13,7 +13,7 @@ export const exerciseCommands = {
+     "command/exercise-equipment-list",
+     "command/exercise-equipment-set",
+     "command/exercise-history",
+-    "command/exercise-log-activity",
++    "command/track-workout-activity",
+     "command/track-workout-set",
+     "command/exercise-mobility-log",
+     "command/exercise-mobility-show",
+diff --git a/alan/fitness/commands/exercise-log-activity/exercise-log-activity.command.code.ts b/alan/fitness/commands/exercise-log-activity/exercise-log-activity.command.code.ts
+deleted file mode 100644
+index c94dbcdcf910b2426aa119888af5dab8e0a08803..0000000000000000000000000000000000000000
+--- a/alan/fitness/commands/exercise-log-activity/exercise-log-activity.command.code.ts
++++ /dev/null
+@@ -1,152 +0,0 @@
+-import { landingAsked, wroteAndTook } from "@akasha/command-system/asking"
+-import type { Answer, Given } from "@akasha/command-system/calling"
+-import { refused } from "@akasha/command-system/calling"
+-import type { FileEdit } from "@akasha/command-system/landing"
+-import { chosenIn, countIn, decimalIn } from "@akasha/exercise-access/exercise-choosing"
+-import { exerciseNamed, openSession } from "@akasha/exercise-access/exercise-finding"
+-import { numberIn, rowsFor, titleOf } from "@akasha/exercise-access/exercise-rows"
+-import { nextSetNumber, setLogSlug } from "@akasha/exercise-access/session-derive"
+-import type { Value } from "@akasha/pages/page-value"
+-import { composedFor } from "@akasha/pages-service/composing"
+-import { firstOf, JSON_SAID, proseIn, saidIn } from "../exercise-said/exercise-said.module.code.ts"
+-
+-const INPUT = 1
+-
+-const DATA = 2
+-
+-const SET_LOG = "set-log"
+-
+-const ACTIVITY_TYPES = ["cardio", "mobility"] as const
+-
+-const EXERCISE = "--exercise"
+-
+-const TYPE = "--type"
+-
+-const DURATION = "--duration"
+-
+-const HOLD = "--hold"
+-
+-const DISTANCE = "--distance"
+-
+-const NOTE = "--note"
+-
+-const SESSION = "--session"
+-
+-const SET_NUMBER = "--set-number"
+-
+-const SECONDS_A_MINUTE = 60
+-
+-const AT_MOST = 200
+-
+-const NOTHING = "-"
+-
+-export async function exerciseLogActivity(argv: readonly string[], given: Given): Promise<Answer> {
+-  const reading = saidIn(
+-    argv,
+-    [EXERCISE, TYPE, DURATION, HOLD, DISTANCE, NOTE, `${NOTE}-file`, SESSION, SET_NUMBER],
+-    [JSON_SAID],
+-    1
+-  )
+-  if ("refused" in reading) return refused(reading.refused, INPUT)
+-  const said = reading.said
+-
+-  const ref = firstOf(said, EXERCISE)
+-  if (ref === undefined) {
+-    return refused(`\`${EXERCISE}\` names the movement, and this call names none`, INPUT)
+-  }
+-  const typeSaid = said.held.get(TYPE)
+-  if (typeSaid === undefined) {
+-    return refused(`\`${TYPE}\` says which sort of activity, and this call names none`, INPUT)
+-  }
+-  const activityType = chosenIn(TYPE, typeSaid, ACTIVITY_TYPES)
+-  if ("refused" in activityType) return refused(activityType.refused, INPUT)
+-
+-  const minutes = decimalIn(DURATION, said.held.get(DURATION))
+-  if ("refused" in minutes) return refused(minutes.refused, INPUT)
+-  const held = decimalIn(HOLD, said.held.get(HOLD))
+-  if ("refused" in held) return refused(held.refused, INPUT)
+-  if (minutes.number !== undefined && held.number !== undefined) {
+-    return refused(
+-      `\`${DURATION}\` and \`${HOLD}\` each say how long it ran, and this call gives both`,
+-      INPUT
+-    )
+-  }
+-  const durationSeconds =
+-    minutes.number !== undefined ? Math.round(minutes.number * SECONDS_A_MINUTE) : held.number
+-
+-  const distance = decimalIn(DISTANCE, said.held.get(DISTANCE))
+-  if ("refused" in distance) return refused(distance.refused, INPUT)
+-  const note = proseIn(said, NOTE)
+-  if ("refused" in note) return refused(note.refused, INPUT)
+-  const numbered = countIn(SET_NUMBER, said.held.get(SET_NUMBER))
+-  if ("refused" in numbered) return refused(numbered.refused, INPUT)
+-  const json = said.bare.has(JSON_SAID)
+-
+-  const session = await openSession(said.held.get(SESSION), new Date())
+-  if ("refused" in session) return refused(session.refused, DATA)
+-  const exercise = await exerciseNamed(ref)
+-  if ("refused" in exercise) return refused(exercise.refused, DATA)
+-  if (session.row.slug === null)
+-    return refused(`the session ${session.row.id} carries no slug`, DATA)
+-  if (exercise.row.slug === null) {
+-    return refused(`the movement ${exercise.row.id} carries no slug`, DATA)
+-  }
+-
+-  const already = await rowsFor({
+-    pageTypeSlug: SET_LOG,
+-    where: [
+-      { key: "sessionSlug", eq: session.row.slug },
+-      { key: "exerciseSlug", eq: exercise.row.slug },
+-    ],
+-    limit: AT_MOST,
+-  })
+-  if ("unread" in already) return refused(already.unread, DATA)
+-  const setNumber =
+-    numbered.number ??
+-    nextSetNumber(
+-      already.rows.map((row) => numberIn(row, "setNumber")).filter((one) => one !== undefined)
+-    )
+-
+-  const named = titleOf(exercise.row)
+-  const slug = setLogSlug(session.row.slug, exercise.row.slug, setNumber)
+-  const values: Value = {
+-    title: `${named} ${activityType.chosen} ${setNumber}`,
+-    sessionSlug: session.row.slug,
+-    exerciseSlug: exercise.row.slug,
+-    setNumber,
+-    activityType: activityType.chosen,
+-    ...(durationSeconds !== undefined ? { durationSeconds } : {}),
+-    ...(distance.number !== undefined ? { distance: distance.number } : {}),
+-    ...(note.text !== undefined ? { note: note.text } : {}),
+-  }
+-
+-  const composed = composedFor(given.root, { pageTypeSlug: SET_LOG, slug, values })
+-  if ("refused" in composed) return refused(composed.refused, DATA)
+-
+-  const changes: FileEdit[] = [
+-    { path: composed.put.path, body: new TextEncoder().encode(composed.put.content) },
+-  ]
+-  const answer = await landingAsked(given, {
+-    changes,
+-    message: `record ${named} ${activityType.chosen} ${setNumber}`,
+-    dryRun: false,
+-    glass: null,
+-    unmoved: [],
+-    saying: wroteAndTook,
+-  })
+-  if (answer.code !== 0) return answer
+-
+-  const told = json
+-    ? JSON.stringify({
+-        path: composed.put.path,
+-        exercise: named,
+-        setNumber,
+-        activityType: activityType.chosen,
+-        durationSeconds: durationSeconds ?? null,
+-        distance: distance.number ?? null,
+-        note: note.text ?? null,
+-        session: session.row.slug,
+-      })
+-    : `path\t${composed.put.path}\nexercise\t${named}\nsetNumber\t${setNumber}\nactivityType\t${activityType.chosen}\ndurationSeconds\t${durationSeconds ?? NOTHING}\nnote\t${note.text ?? NOTHING}`
+-  return { report: json ? [told] : [told, ...answer.report], refusals: [], code: 0 }
+-}
+diff --git a/alan/fitness/commands/exercise-log-activity/exercise-log-activity.command.ts b/alan/fitness/commands/exercise-log-activity/exercise-log-activity.command.ts
+deleted file mode 100644
+index 37841a88332c20c191cbbded9cde17e2d72cd0e2..0000000000000000000000000000000000000000
+--- a/alan/fitness/commands/exercise-log-activity/exercise-log-activity.command.ts
++++ /dev/null
+@@ -1,50 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const exerciseLogActivity = {
+-  id: "01a0685c-7d81-75b0-a1e4-58ac04db66f1",
+-  pageTypeSlug: "command",
+-  slug: "exercise-log-activity",
+-  definition:
+-    "the command writing down one stretch of cardio or mobility, timed rather than repped",
+-  code: "ts",
+-  changeKindSlug: "change-mechanical",
+-  taking: [
+-    { said: "<exercise>", takes: "the movement the stretch was of, named as the first word" },
+-    {
+-      said: "--exercise <ref>",
+-      takes: "the movement, named by id, by slug, by title or by part of one",
+-    },
+-    { said: "--type <cardio|mobility>", takes: "which of the two sorts of activity it was" },
+-    { said: "--duration <min>", takes: "how long it ran, said in minutes" },
+-    { said: "--hold <sec>", takes: "how long a mobility position was held, said in seconds" },
+-    { said: "--distance <miles>", takes: "how far it covered, said in miles" },
+-    { said: "--note <text>", takes: "what the stretch felt like, or anything else worth keeping" },
+-    { said: "--note-file <file>", takes: "a file the note is read from" },
+-    {
+-      said: "--session <ref>",
+-      takes: "the session to write into, which is the open one otherwise",
+-    },
+-    { said: "--set-number <n>", takes: "the number to give the stretch, rather than the next one" },
+-    { said: "--json", takes: "answer as JSON rather than as a line meant for a reader" },
+-  ],
+-  helpNotes: [
+-    "this is the sibling of `exercise-log-set` for work that is timed rather than repped.",
+-    "`--duration` is minutes and `--hold` is seconds, both land as seconds, and one call says at most one of them.",
+-    "the session falls to the open one, and a session left open from an earlier day is refused rather than written to.",
+-    "the number a stretch gets is one past the highest already logged for that movement in that session.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A stretch of cardio or mobility is written down as a set that carries no reps.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "How long a stretch ran is kept in seconds however that span was said.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A call saying both a duration and a hold is refused.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/alan/fitness/commands/track-workout-activity/track-workout-activity.command.code.ts b/alan/fitness/commands/track-workout-activity/track-workout-activity.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ba33132be81276bc1c6c9693cfc06d2089a32b40
+--- /dev/null
++++ b/alan/fitness/commands/track-workout-activity/track-workout-activity.command.code.ts
+@@ -0,0 +1,152 @@
++import { landingAsked, wroteAndTook } from "@akasha/command-system/asking"
++import type { Answer, Given } from "@akasha/command-system/calling"
++import { refused } from "@akasha/command-system/calling"
++import type { FileEdit } from "@akasha/command-system/landing"
++import { chosenIn, countIn, decimalIn } from "@akasha/exercise-access/exercise-choosing"
++import { exerciseNamed, openSession } from "@akasha/exercise-access/exercise-finding"
++import { numberIn, rowsFor, titleOf } from "@akasha/exercise-access/exercise-rows"
++import { nextSetNumber, setLogSlug } from "@akasha/exercise-access/session-derive"
++import type { Value } from "@akasha/pages/page-value"
++import { composedFor } from "@akasha/pages-service/composing"
++import { firstOf, JSON_SAID, proseIn, saidIn } from "../exercise-said/exercise-said.module.code.ts"
++
++const INPUT = 1
++
++const DATA = 2
++
++const SET_LOG = "set-log"
++
++const ACTIVITY_TYPES = ["cardio", "mobility"] as const
++
++const EXERCISE = "--exercise"
++
++const TYPE = "--type"
++
++const DURATION = "--duration"
++
++const HOLD = "--hold"
++
++const DISTANCE = "--distance"
++
++const NOTE = "--note"
++
++const SESSION = "--session"
++
++const SET_NUMBER = "--set-number"
++
++const SECONDS_A_MINUTE = 60
++
++const AT_MOST = 200
++
++const NOTHING = "-"
++
++export async function trackWorkoutActivity(argv: readonly string[], given: Given): Promise<Answer> {
++  const reading = saidIn(
++    argv,
++    [EXERCISE, TYPE, DURATION, HOLD, DISTANCE, NOTE, `${NOTE}-file`, SESSION, SET_NUMBER],
++    [JSON_SAID],
++    1
++  )
++  if ("refused" in reading) return refused(reading.refused, INPUT)
++  const said = reading.said
++
++  const ref = firstOf(said, EXERCISE)
++  if (ref === undefined) {
++    return refused(`\`${EXERCISE}\` names the movement, and this call names none`, INPUT)
++  }
++  const typeSaid = said.held.get(TYPE)
++  if (typeSaid === undefined) {
++    return refused(`\`${TYPE}\` says which sort of activity, and this call names none`, INPUT)
++  }
++  const activityType = chosenIn(TYPE, typeSaid, ACTIVITY_TYPES)
++  if ("refused" in activityType) return refused(activityType.refused, INPUT)
++
++  const minutes = decimalIn(DURATION, said.held.get(DURATION))
++  if ("refused" in minutes) return refused(minutes.refused, INPUT)
++  const held = decimalIn(HOLD, said.held.get(HOLD))
++  if ("refused" in held) return refused(held.refused, INPUT)
++  if (minutes.number !== undefined && held.number !== undefined) {
++    return refused(
++      `\`${DURATION}\` and \`${HOLD}\` each say how long it ran, and this call gives both`,
++      INPUT
++    )
++  }
++  const durationSeconds =
++    minutes.number !== undefined ? Math.round(minutes.number * SECONDS_A_MINUTE) : held.number
++
++  const distance = decimalIn(DISTANCE, said.held.get(DISTANCE))
++  if ("refused" in distance) return refused(distance.refused, INPUT)
++  const note = proseIn(said, NOTE)
++  if ("refused" in note) return refused(note.refused, INPUT)
++  const numbered = countIn(SET_NUMBER, said.held.get(SET_NUMBER))
++  if ("refused" in numbered) return refused(numbered.refused, INPUT)
++  const json = said.bare.has(JSON_SAID)
++
++  const session = await openSession(said.held.get(SESSION), new Date())
++  if ("refused" in session) return refused(session.refused, DATA)
++  const exercise = await exerciseNamed(ref)
++  if ("refused" in exercise) return refused(exercise.refused, DATA)
++  if (session.row.slug === null)
++    return refused(`the session ${session.row.id} carries no slug`, DATA)
++  if (exercise.row.slug === null) {
++    return refused(`the movement ${exercise.row.id} carries no slug`, DATA)
++  }
++
++  const already = await rowsFor({
++    pageTypeSlug: SET_LOG,
++    where: [
++      { key: "sessionSlug", eq: session.row.slug },
++      { key: "exerciseSlug", eq: exercise.row.slug },
++    ],
++    limit: AT_MOST,
++  })
++  if ("unread" in already) return refused(already.unread, DATA)
++  const setNumber =
++    numbered.number ??
++    nextSetNumber(
++      already.rows.map((row) => numberIn(row, "setNumber")).filter((one) => one !== undefined)
++    )
++
++  const named = titleOf(exercise.row)
++  const slug = setLogSlug(session.row.slug, exercise.row.slug, setNumber)
++  const values: Value = {
++    title: `${named} ${activityType.chosen} ${setNumber}`,
++    sessionSlug: session.row.slug,
++    exerciseSlug: exercise.row.slug,
++    setNumber,
++    activityType: activityType.chosen,
++    ...(durationSeconds !== undefined ? { durationSeconds } : {}),
++    ...(distance.number !== undefined ? { distance: distance.number } : {}),
++    ...(note.text !== undefined ? { note: note.text } : {}),
++  }
++
++  const composed = composedFor(given.root, { pageTypeSlug: SET_LOG, slug, values })
++  if ("refused" in composed) return refused(composed.refused, DATA)
++
++  const changes: FileEdit[] = [
++    { path: composed.put.path, body: new TextEncoder().encode(composed.put.content) },
++  ]
++  const answer = await landingAsked(given, {
++    changes,
++    message: `record ${named} ${activityType.chosen} ${setNumber}`,
++    dryRun: false,
++    glass: null,
++    unmoved: [],
++    saying: wroteAndTook,
++  })
++  if (answer.code !== 0) return answer
++
++  const told = json
++    ? JSON.stringify({
++        path: composed.put.path,
++        exercise: named,
++        setNumber,
++        activityType: activityType.chosen,
++        durationSeconds: durationSeconds ?? null,
++        distance: distance.number ?? null,
++        note: note.text ?? null,
++        session: session.row.slug,
++      })
++    : `path\t${composed.put.path}\nexercise\t${named}\nsetNumber\t${setNumber}\nactivityType\t${activityType.chosen}\ndurationSeconds\t${durationSeconds ?? NOTHING}\nnote\t${note.text ?? NOTHING}`
++  return { report: json ? [told] : [told, ...answer.report], refusals: [], code: 0 }
++}
+diff --git a/alan/fitness/commands/track-workout-activity/track-workout-activity.command.ts b/alan/fitness/commands/track-workout-activity/track-workout-activity.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2e07a523389cd47f211bf5f81f85b83231dfa9ba
+--- /dev/null
++++ b/alan/fitness/commands/track-workout-activity/track-workout-activity.command.ts
+@@ -0,0 +1,50 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const trackWorkoutActivity = {
++  id: "01a0685c-7d81-75b0-a1e4-58ac04db66f1",
++  pageTypeSlug: "command",
++  slug: "track-workout-activity",
++  definition:
++    "the command writing down one stretch of cardio or mobility, timed rather than repped",
++  code: "ts",
++  changeKindSlug: "change-mechanical",
++  taking: [
++    { said: "<exercise>", takes: "the movement the stretch was of, named as the first word" },
++    {
++      said: "--exercise <ref>",
++      takes: "the movement, named by id, by slug, by title or by part of one",
++    },
++    { said: "--type <cardio|mobility>", takes: "which of the two sorts of activity it was" },
++    { said: "--duration <min>", takes: "how long it ran, said in minutes" },
++    { said: "--hold <sec>", takes: "how long a mobility position was held, said in seconds" },
++    { said: "--distance <miles>", takes: "how far it covered, said in miles" },
++    { said: "--note <text>", takes: "what the stretch felt like, or anything else worth keeping" },
++    { said: "--note-file <file>", takes: "a file the note is read from" },
++    {
++      said: "--session <ref>",
++      takes: "the session to write into, which is the open one otherwise",
++    },
++    { said: "--set-number <n>", takes: "the number to give the stretch, rather than the next one" },
++    { said: "--json", takes: "answer as JSON rather than as a line meant for a reader" },
++  ],
++  helpNotes: [
++    "this is the sibling of `exercise-log-set` for work that is timed rather than repped.",
++    "`--duration` is minutes and `--hold` is seconds, both land as seconds, and one call says at most one of them.",
++    "the session falls to the open one, and a session left open from an earlier day is refused rather than written to.",
++    "the number a stretch gets is one past the highest already logged for that movement in that session.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A stretch of cardio or mobility is written down as a set that carries no reps.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "How long a stretch ran is kept in seconds however that span was said.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A call saying both a duration and a hold is refused.",
++    },
++  ],
++} as const satisfies Command
