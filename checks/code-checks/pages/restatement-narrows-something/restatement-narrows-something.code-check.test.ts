@@ -78,13 +78,13 @@ test("a restatement making an optional property required is let through", () => 
   expect(said).toEqual([])
 })
 
-test("a restatement lowering a max is let through", () => {
+test("a restatement lowering a max count is let through", () => {
   const root = rooted()
   const said = restating(
     root,
     judged,
-    { required: true, many: true, max: 20 },
-    { required: true, many: true, max: 5 }
+    { required: true, many: true, maxCount: 20 },
+    { required: true, many: true, maxCount: 5 }
   )
 
   expect(said).toEqual([])
@@ -95,8 +95,8 @@ test("a restatement binding a max that stood unbounded is let through", () => {
   const said = restating(
     root,
     judged,
-    { required: true, many: true, max: null },
-    { required: true, many: true, max: 5 }
+    { required: true, many: true, maxCount: null },
+    { required: true, many: true, maxCount: 5 }
   )
 
   expect(said).toEqual([])
@@ -150,13 +150,13 @@ test("a restatement loosening what is required is left to the check refusing tha
   expect(said).toEqual([])
 })
 
-test("a restatement raising a max is left to the check refusing that", () => {
+test("a restatement raising a max count is left to the check refusing that", () => {
   const root = rooted()
   const said = restating(
     root,
     judged,
-    { required: true, many: true, max: 5 },
-    { required: true, many: true, max: 20 }
+    { required: true, many: true, maxCount: 5 },
+    { required: true, many: true, maxCount: 20 }
   )
 
   expect(said).toEqual([])
