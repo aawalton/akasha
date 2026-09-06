@@ -31,6 +31,47 @@ index f60c54f4fcaa28332bace82d0b4599229ec6d290..d75ea2e70ecd28cd76b5285b763b5527
      },
      {
        invariantKind: "departure",
+diff --git a/editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts b/editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts
+index 307e307531369ed2e7edd64704a1d4ceb470b198..85695ccb869d887225502a6240022db1c9a3570e 100644
+--- a/editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts
++++ b/editor-extension/ops-extension/extension-entry/extension-entry.module.code.ts
+@@ -9,6 +9,7 @@ import {
+   setObservationStore,
+ } from "@akasha/editor-extension/observation-store"
+ import * as pageTree from "@akasha/editor-extension/page-tree-panel"
++import * as seatEnter from "@akasha/editor-extension/seat-terminal-enter"
+ import * as statusBar from "@akasha/editor-extension/status-bar-panel"
+ import * as terminalRename from "@akasha/editor-extension/terminal-renaming"
+ import * as transcript from "@akasha/editor-extension/transcript-panel"
+@@ -18,7 +19,10 @@ import * as vscode from "vscode"
+ 
+ const FEATURE_TIMEOUT_MS = 20_000
+ 
+-const features = (context: vscode.ExtensionContext): readonly Startable[] => [
++const features = (
++  context: vscode.ExtensionContext,
++  say: (text: string) => void
++): readonly Startable[] => [
+   { name: "terminal-rename", start: async () => terminalRename.activate(context) },
+   { name: "transcript", start: async () => transcript.activate(context) },
+   { name: "agent-tree", start: async () => agentTree.activate(context) },
+@@ -27,6 +31,7 @@ const features = (context: vscode.ExtensionContext): readonly Startable[] => [
+   { name: "page-tree", start: async () => pageTree.activate(context) },
+   { name: "status-bar", start: async () => statusBar.activate(context) },
+   { name: "editor-layout", start: async () => editorLayout.activate(context) },
++  { name: "seat-terminal-enter", start: async () => seatEnter.activate(context, say) },
+ ]
+ 
+ export async function activate(context: vscode.ExtensionContext): Promise<void> {
+@@ -50,7 +55,7 @@ export async function activate(context: vscode.ExtensionContext): Promise<void>
+     },
+   })
+ 
+-  const startables = features(context)
++  const startables = features(context, (line) => output.appendLine(line))
+   output.appendLine(`[activate] starting ${startables.length} features`)
+ 
+   const outcomes = await startIsolated(startables, FEATURE_TIMEOUT_MS, (line) =>
 diff --git a/editor-extension/ops-extension/package.json b/editor-extension/ops-extension/package.json
 index e24d15bce488e8cf0b5a6b841c8ed41e274779b4..5d416711f206a1ef358d1cdc4f0eeef5a7488477 100644
 --- a/editor-extension/ops-extension/package.json
