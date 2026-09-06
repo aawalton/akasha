@@ -1,3 +1,15 @@
+diff --git a/code-system/type-declarations/properties/ambient-types.file-property.ts b/code-system/type-declarations/properties/ambient-types.file-property.ts
+index d53ee5424062f6d90beb0f68c0a8a31fc137b86c..da700b7ae0235e4630cd2a1a81e7be0b18673edd 100644
+--- a/code-system/type-declarations/properties/ambient-types.file-property.ts
++++ b/code-system/type-declarations/properties/ambient-types.file-property.ts
+@@ -8,6 +8,7 @@ export const ambientTypes = {
+   slug: "ambient-types",
+   propertySlug: "d",
+   definition: "the types a page declares for a compiler to read",
++  runsFileLength: false,
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/editor-extension/vscode-api/vscode-api.type-declaration.d.ts b/editor-extension/vscode-api/vscode-api.type-declaration.d.ts
 index 953f7fee2b7737b6c7ae89672acfcf0ca384b47d..55e66fe51d49a6343a5f86d9fae983e2b437f277 100644
 --- a/editor-extension/vscode-api/vscode-api.type-declaration.d.ts
