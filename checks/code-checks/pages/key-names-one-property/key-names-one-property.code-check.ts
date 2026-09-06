@@ -20,11 +20,11 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "One inherited and one declared meet as surely as two declared.",
+      statement: "An inherited key and a declared key meet as surely as two declared keys.",
     },
     {
       invariantKind: "departure",
-      statement: "Two declarations at one key naming different properties collide.",
+      statement: "Two declarations at the same key naming different properties collide.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +64,7 @@ export const keyNamesOneProperty = {
     },
     {
       invariantKind: "departure",
-      statement: "Whether a property is carried once or many never changes.",
+      statement: "Whether a property is carried once or many times never changes.",
     },
     {
       invariantKind: "departure",
