@@ -1,5 +1,5 @@
 diff --git a/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts b/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
-index 23128cb8d4b72f963d0b4767a39a5a68db492b9e..2fc235e20e491e89008c3dcec3cca3c11e9b3bf8 100644
+index 23128cb8d4b72f963d0b4767a39a5a68db492b9e..eba36422dd9feb134c441ff131a20b2806f36ba1 100644
 --- a/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
 +++ b/alan/fitness/exercise-access/exercise-finding/exercise-finding.module.ts
 @@ -9,7 +9,8 @@ export const exerciseFinding = {
@@ -9,6 +9,15 @@ index 23128cb8d4b72f963d0b4767a39a5a68db492b9e..2fc235e20e491e89008c3dcec3cca3c1
 -      statement: "A page is named by its id, by its slug, by its whole title or by part of one.",
 +      statement:
 +        "A page is named by its id or by its slug or by its whole title or by part of a title.",
+     },
+     {
+       invariantKind: "departure",
+@@ -21,7 +22,7 @@ export const exerciseFinding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The session left unsaid is the most recent one still open.",
++      statement: "The session left unsaid is the most recent session still open.",
      },
      {
        invariantKind: "departure",
