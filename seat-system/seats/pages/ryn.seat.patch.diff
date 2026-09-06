@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts b/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
-index 6343d236d5236913518e13e531427e3921f693d8..dbfe5e9fa5191218c2c4ef6b58de8b7cfed3c45b 100644
+index 6343d236d5236913518e13e531427e3921f693d8..4781dc9b91005c96f147f679db0e317853021f3e 100644
 --- a/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
 +++ b/alan/harness/monarch/eval-agent/monarch-eval-agent.module.ts
 @@ -9,15 +9,20 @@ export const monarchEvalAgent = {
@@ -26,7 +26,12 @@ index 6343d236d5236913518e13e531427e3921f693d8..dbfe5e9fa5191218c2c4ef6b58de8b7c
      },
      {
        invariantKind: "departure",
-@@ -30,8 +35,7 @@ export const monarchEvalAgent = {
+@@ -26,12 +31,11 @@ export const monarchEvalAgent = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A confidence outside high, medium and low is refused rather than rounded.",
++      statement: "A confidence outside high and medium and low is refused rather than rounded.",
      },
      {
        invariantKind: "departure",
