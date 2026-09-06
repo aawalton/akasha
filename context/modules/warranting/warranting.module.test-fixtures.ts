@@ -4,7 +4,13 @@ import { recordRead, SUBAGENT_MARK } from "@akasha/command-system/reading"
 import { rootOf } from "@akasha/command-system/rooting"
 import { writing } from "@akasha/command-system/scratching/testing"
 import { dataAt } from "@akasha/file-system/data-place"
-import { idFiled, listedFiled, pathFiled, relationFiled } from "@akasha/indexes/testing"
+import {
+  idFiled,
+  listedFiled,
+  pathFiled,
+  relationFiled,
+  valueAlsoFiled,
+} from "@akasha/indexes/testing"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { mintedId } from "@akasha/testing-system/minting"
 import type { Warrant } from "./warranting.module.code.ts"
@@ -59,6 +65,9 @@ export function warrantsSeeded(root: string, slugs: readonly string[] = WARRANTS
     writeFileSync(join(root, path), pageFor(slug, id))
     writeFileSync(join(root, `${path.slice(0, -".ts".length)}.code.ts`), codeFor(slug))
     listedFiled(root, CONTEXT_WARRANT, slug, [{ path, id }])
+    valueAlsoFiled(root, CONTEXT_WARRANT, [
+      { path, value: { id, pageTypeSlug: CONTEXT_WARRANT, slug } },
+    ])
   }
 }
 
@@ -151,6 +160,9 @@ export function warrantingStated(root: string, every: readonly Said[]): undefine
     writing(root, at, one.page ?? statedPageFor(one, id))
     writing(root, `${at.slice(0, -".ts".length)}.code.ts`, one.code ?? statedCodeFor(one))
     listedFiled(root, CONTEXT_WARRANT, one.slug, [{ path: at, id }])
+    valueAlsoFiled(root, CONTEXT_WARRANT, [
+      { path: at, value: { id, pageTypeSlug: CONTEXT_WARRANT, slug: one.slug } },
+    ])
   }
 }
 
