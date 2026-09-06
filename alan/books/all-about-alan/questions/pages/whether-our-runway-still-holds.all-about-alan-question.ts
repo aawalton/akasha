@@ -5,5 +5,5 @@ export const whetherOurRunwayStillHolds = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-our-runway-still-holds",
   topicSlug: "the-money-we-are-living-on",
-  ask: "Does the eight to eighteen years still hold? The runway has not been recomputed since retiring, the trip and the new arrangement.",
+  ask: "The runway has not been recomputed since retiring, the trip and the new arrangement. Does the eight to eighteen years still hold?",
 } as const satisfies AllAboutAlanQuestion

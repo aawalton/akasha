@@ -5,5 +5,5 @@ export const whetherMyWellIsDrainedOrMyMapIsFlat = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-my-well-is-drained-or-my-map-is-flat",
   topicSlug: "how-much-of-me-is-machine",
-  ask: "Is my well drained, or is my map simply flat in its affect? A drained well could refill where a flat map would not.",
+  ask: "A drained well could refill where a flat map would not. Is my well drained, or is my map simply flat in its affect?",
 } as const satisfies AllAboutAlanQuestion
