@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/indexes/reaching/reaching.module.ts b/pages/indexes/reaching/reaching.module.ts
-index 3960f00eb1eef6ecee8f5caff8a5d772b59a74bb..609d12fc23844830bebece682aa7e0efe3dae2a5 100644
+index 3960f00eb1eef6ecee8f5caff8a5d772b59a74bb..4958214c08db4df4edc367788dcbb07d8edc579a 100644
 --- a/pages/indexes/reaching/reaching.module.ts
 +++ b/pages/indexes/reaching/reaching.module.ts
 @@ -23,7 +23,8 @@ export const reaching = {
@@ -43,6 +43,15 @@ index 3960f00eb1eef6ecee8f5caff8a5d772b59a74bb..609d12fc23844830bebece682aa7e0ef
        invariantKind: "departure",
 -      statement: "Whether a page type is mortal is answered beside what a name reaches.",
 +      statement: "Whether a page type is mortal is answered beside the page a name reaches.",
+     },
+     {
+       invariantKind: "departure",
+@@ -78,7 +80,7 @@ export const reaching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name stating none is judged by every target its property declares.",
++      statement: "A name stating no page type is judged by every target its property declares.",
      },
      {
        invariantKind: "departure",
