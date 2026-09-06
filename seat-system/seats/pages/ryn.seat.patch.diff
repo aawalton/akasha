@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/move/move.command.ts b/command-system/commands/move/move.command.ts
-index 06819a89735338d86a2b6ad59215869fea03196b..2dc14b23dd957d3ceb64a498327679ddaa7bc289 100644
+index 06819a89735338d86a2b6ad59215869fea03196b..825285de372a0d14d0f332e31497213e0e848564 100644
 --- a/command-system/commands/move/move.command.ts
 +++ b/command-system/commands/move/move.command.ts
 @@ -60,7 +60,7 @@ export const move = {
@@ -25,3 +25,13 @@ index 06819a89735338d86a2b6ad59215869fea03196b..2dc14b23dd957d3ceb64a498327679dd
      },
      {
        invariantKind: "departure",
+@@ -315,7 +315,8 @@ export const move = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A string reading as a moved path is repointed only where that string names one.",
++      statement:
++        "A string reading as a moved path is repointed only where that string names the moved path.",
+     },
+     {
+       invariantKind: "gap",
