@@ -1,0 +1,29 @@
+diff --git a/changes/kinds/change-kind.page-type.ts b/changes/kinds/change-kind.page-type.ts
+index 96abc5b66d82ca1755561248316d00d50d172174..5a17fb701e33e6ec35c854849a51ad954cd9350b 100644
+--- a/changes/kinds/change-kind.page-type.ts
++++ b/changes/kinds/change-kind.page-type.ts
+@@ -36,11 +36,11 @@ export const changeKind = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "Whether the checks and the warrants run on a change of a kind is read off that kind's page.",
++        "Whether the checks run and what a change of a kind asks is read off that kind's page.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Whether the checks run and whether the warrants run are two answers.",
++      statement: "Whether the checks run and whether the writer owes reading are two answers.",
+     },
+   ],
+ } as const satisfies PageType
+diff --git a/changes/kinds/properties/writer-owes-reading.boolean-property.ts b/changes/kinds/properties/writer-owes-reading.boolean-property.ts
+index 6dd611d12b07f21f8d89eeaeae8a6f1b737f6953..aef8421f8970b9a416d674633129e6fb12571e75 100644
+--- a/changes/kinds/properties/writer-owes-reading.boolean-property.ts
++++ b/changes/kinds/properties/writer-owes-reading.boolean-property.ts
+@@ -7,5 +7,5 @@ export const writerOwesReading = {
+   pageTypeSlug: "boolean-property",
+   slug: "writer-owes-reading",
+   propertySlug: "writer-owes-reading",
+-  definition: "whether warrants run on a change of this kind",
++  definition: "whether the writer of a change of this kind owes the readings its paths warrant",
+ } as const satisfies BooleanProperty
