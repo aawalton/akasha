@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/hook-system/agent-hooks/agent-hook.page-type.ts b/hook-system/agent-hooks/agent-hook.page-type.ts
+index 49c030834043ece96d39f07b8692c0bfa1b8d5f6..642772092fb0053dbfbb4476a066ffae91ffe9c5 100644
+--- a/hook-system/agent-hooks/agent-hook.page-type.ts
++++ b/hook-system/agent-hooks/agent-hook.page-type.ts
+@@ -53,7 +53,7 @@ export const agentHook = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A hook is handed no others.",
++      statement: "A hook is handed no other calls.",
+     },
+     {
+       invariantKind: "departure",
