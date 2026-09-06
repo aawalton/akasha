@@ -63,3 +63,26 @@ index b7456736f8dcc696213dd66ff3520200b6084497..5a26c57001b3cd33d0716b8a621f4a84
    }
    return { words, shas }
  }
+diff --git a/alan/tracking/daily/topic-words/topic-words.module.ts b/alan/tracking/daily/topic-words/topic-words.module.ts
+index 4d51c515e50d15c01fb0319ec7bec648b4c16439..644c9f5e39333bc3b8205859266e0f2dfe292c61 100644
+--- a/alan/tracking/daily/topic-words/topic-words.module.ts
++++ b/alan/tracking/daily/topic-words/topic-words.module.ts
+@@ -12,6 +12,18 @@ export const topicWords = {
+       invariantKind: "departure",
+       statement: "A run of this file counts today's words onto today's day.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Every word a commit added is counted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A word a commit took away is subtracted from no count.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file that moved is read as the move rather than as the whole file written.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The wisdom words land before the intelligence words.",
