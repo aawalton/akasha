@@ -27,3 +27,38 @@ index 71a1f6926a2d82114ee3e3e165a90f232b429325..d4f5623f5c870923b249a1ac8d650de0
 +  if (!dryRun) return landing
    return answering([...saying(true), ...landing.report], landing.refusals, landing.code)
  }
+diff --git a/command-system/commands/refactor/landing/refactor-landing.module.ts b/command-system/commands/refactor/landing/refactor-landing.module.ts
+index 0dbe92e3865203b885c752b2e8be06fdb2da0da1..cc746222dc03618b5ae1a41d67770d206f498920 100644
+--- a/command-system/commands/refactor/landing/refactor-landing.module.ts
++++ b/command-system/commands/refactor/landing/refactor-landing.module.ts
+@@ -21,11 +21,7 @@ export const refactorLanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A reading of every body that landed is carried with the landing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A reading is carried only where the landing was clean.",
++      statement: "The path a body came from is handed to the landing that carries the reading.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,7 +35,7 @@ export const refactorLanding = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A file a rename carries is taken away at the name it had and written at the name it becomes.",
++        "A file a rename carries is taken away at the old name and written at the name that file becomes.",
+     },
+     {
+       invariantKind: "departure",
+@@ -52,7 +48,7 @@ export const refactorLanding = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A body respelled at a path this carries is written at the name that path becomes.",
++        "A body respelled at a path a rename carries is written at the name that path becomes.",
+     },
+     {
+       invariantKind: "absence",
