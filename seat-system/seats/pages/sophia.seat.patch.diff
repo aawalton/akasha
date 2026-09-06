@@ -1,0 +1,15 @@
+diff --git a/role-system/roles/role.page-type.ts b/role-system/roles/role.page-type.ts
+index 683f19291a043f08173165eb9f6a2795da381074..7975cb163b8bb88e80bc97e1e6b6aa0258469df5 100644
+--- a/role-system/roles/role.page-type.ts
++++ b/role-system/roles/role.page-type.ts
+@@ -28,10 +28,6 @@ export const role = {
+   ],
+   properties: [{ pagePropertySlug: "on-call", required: true, many: false }],
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A seat started with an on-call role starts on call.",
+-    },
+     {
+       invariantKind: "upkeep",
+       statement:
