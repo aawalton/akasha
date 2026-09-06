@@ -9,11 +9,11 @@ export const supervisorIdleRule = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An unreachable rule answers not idle, with the reason rule-unreachable.",
+      statement: "An unreachable rule answers not idle with the reason rule-unreachable.",
     },
     {
       invariantKind: "departure",
-      statement: "The safe answer for cmdlines is that none of those cmdlines are ignored.",
+      statement: "The safe answer for cmdlines is that no cmdline is ignored.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const supervisorIdleRule = {
     },
     {
       invariantKind: "departure",
-      statement: "An answer that fails its shape falls to the safe answer, as a failed ask does.",
+      statement: "An answer that fails its shape falls to the safe answer as a failed ask does.",
     },
     {
       invariantKind: "departure",
@@ -33,11 +33,11 @@ export const supervisorIdleRule = {
     },
     {
       invariantKind: "departure",
-      statement: "A verdict's reason is the busyReason the rule states, not a fixed string.",
+      statement: "A verdict's reason is the busyReason the rule states rather than a fixed string.",
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a process, a port or a page.",
+      statement: "Nothing here reads a process or a port or a page.",
     },
   ],
 } as const satisfies Module
