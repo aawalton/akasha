@@ -45767,19 +45767,6 @@ index 6325193d647624fa4b53618f2de9cc9d03a5d371..c23355552465380658ee3bb80a9ef4f3
  
  export const channelDelivery = {
    id: "01a0657e-795c-7001-943b-4973f01721fa",
-diff --git a/seat-system/subagents/pages/aine-ac41bbdf582da9113.subagent.patch.diff b/seat-system/subagents/pages/aine-ac41bbdf582da9113.subagent.patch.diff
-index 468e4ae51144aa7a51c88947b14dbc8eb029eba4..61ce52e5963210d39286f21b0ebe696706de223d 100644
---- a/seat-system/subagents/pages/aine-ac41bbdf582da9113.subagent.patch.diff
-+++ b/seat-system/subagents/pages/aine-ac41bbdf582da9113.subagent.patch.diff
-@@ -109,7 +109,7 @@ index 0000000000000000000000000000000000000000..4de2efd7c67a5395414bdf3582cef850
- --- /dev/null
- +++ b/google/oauth/oauth-client/oauth-client.module.ts
- @@ -0,0 +1,23 @@
--+import type { Module } from "../../../code-system/modules/module.page-type.ts"
-++import type { Module } from "../../../code/modules/module.page-type.ts"
- +
- +export const oauthClient = {
- +  id: "01a06d16-f135-7230-acd8-d3d66ea08433",
 diff --git a/seat-system/window-duration/window-duration.module.ts b/seat-system/window-duration/window-duration.module.ts
 index 112657284db144a6fa52ee5d749363ab5144d8cd..c3edfb74d7882d338f6627efb9668fb8904d4384 100644
 --- a/seat-system/window-duration/window-duration.module.ts
