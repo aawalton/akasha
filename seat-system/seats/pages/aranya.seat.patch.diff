@@ -1,0 +1,24 @@
+diff --git a/infrastructure/cluster-operations/bootstrap-namespace/bootstrap-namespace.shell-script.shell.sh b/infrastructure/cluster-operations/bootstrap-namespace/bootstrap-namespace.shell-script.shell.sh
+index 7088bfe2c1e711075da35992ad42837a8eb380ae..f0ae1e33a247f6cd50fe6f76d859961a800091f2 100644
+--- a/infrastructure/cluster-operations/bootstrap-namespace/bootstrap-namespace.shell-script.shell.sh
++++ b/infrastructure/cluster-operations/bootstrap-namespace/bootstrap-namespace.shell-script.shell.sh
+@@ -33,17 +33,8 @@ resolve_workspace_dir() {
+ WORKSPACE_DIR="$(resolve_workspace_dir "$WORKSPACE")"
+ 
+ NAMESPACE="$WORKSPACE"
+-REPO_ROOT="${AKASHA_ROOT}"
+-
+-resolve_secrets_sops() {
+-  local ws="$1"
+-  local workspace_dir="$2"
+-  case "$ws" in
+-    collections) echo "${workspace_dir}/deploy/k8s/secrets.sops.yaml" ;;
+-    agents)      echo "${REPO_ROOT}/packages/agents/k8s/secrets.sops.yaml" ;;
+-    *)           echo "${workspace_dir}/deploy/secrets.sops.yaml" ;;
+-  esac
+-}
++SECRET_RESOURCE="${WORKSPACE}-secrets"
++SECRET_SAYING="${AKASHA_ROOT}/service-system/secrets/secret-saying/secret-saying.module.code.ts"
+ 
+ if [[ ! -d "$WORKSPACE_DIR" ]]; then
+   die "Workspace directory not found: $WORKSPACE_DIR"
