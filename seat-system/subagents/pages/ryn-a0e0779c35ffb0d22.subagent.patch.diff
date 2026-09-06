@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.ts b/command-system/commands/measure/check-measuring/check-measuring.module.ts
-index deca30d98dfc44057befd023332874825df0bdac..bf9643900507e11cbdaf265105df7d88afd4cd36 100644
+index deca30d98dfc44057befd023332874825df0bdac..5800805eb64b2d0d71b070b7431cdbe1e175d466 100644
 --- a/command-system/commands/measure/check-measuring/check-measuring.module.ts
 +++ b/command-system/commands/measure/check-measuring/check-measuring.module.ts
 @@ -23,7 +23,7 @@ export const checkMeasuring = {
@@ -9,6 +9,16 @@ index deca30d98dfc44057befd023332874825df0bdac..bf9643900507e11cbdaf265105df7d88
        invariantKind: "departure",
 -      statement: "A run older than that is not counted.",
 +      statement: "A run older than twenty-four hours is not counted.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,7 +39,8 @@ export const checkMeasuring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run's processor time is that run's own together with the children it reaped.",
++      statement:
++        "A run's processor time is that run's own together with the children that run reaped.",
      },
      {
        invariantKind: "departure",
