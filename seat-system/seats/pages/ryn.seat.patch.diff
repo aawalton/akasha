@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/fitness/commands/exercise-today/exercise-today.command.ts b/alan/fitness/commands/exercise-today/exercise-today.command.ts
+index dfcc7434dce04824c0d97c37a0bd7410f4d776f1..fe93a8e2e35ca35630daad1bd712ce022903892e 100644
+--- a/alan/fitness/commands/exercise-today/exercise-today.command.ts
++++ b/alan/fitness/commands/exercise-today/exercise-today.command.ts
+@@ -33,7 +33,7 @@ export const exerciseToday = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The session answered is the newest one started on that date.",
++      statement: "The session answered is the newest session started on that date.",
+     },
+     {
+       invariantKind: "departure",
