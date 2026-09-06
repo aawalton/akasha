@@ -9,7 +9,11 @@ export const supervisorInteractiveSeams = {
   invariants: [
     {
       invariantKind: "absence",
-      statement: "Nothing here holds behaviour; the seam is one type and no more.",
+      statement: "Nothing here holds behaviour.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The seam is a type alone.",
     },
   ],
 } as const satisfies Module
