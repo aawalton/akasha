@@ -29,3 +29,16 @@ index 0000000000000000000000000000000000000000..1b3504c6841c41d0afec67abcd61bf7e
 +  const held = movement === null ? 1 : (movement.implementCount ?? 1)
 +  return ((page.weight ?? 0) * held + share * own) * (page.reps ?? 0)
 +}
+diff --git a/alan/fitness/set-logs/properties/set-volume.computed-property.ts b/alan/fitness/set-logs/properties/set-volume.computed-property.ts
+index 2e6573d35ce7504a25b305ffa6cc27213fa34204..2a11515f0a6fa679838efc69f564767c7148ae55 100644
+--- a/alan/fitness/set-logs/properties/set-volume.computed-property.ts
++++ b/alan/fitness/set-logs/properties/set-volume.computed-property.ts
+@@ -38,7 +38,7 @@ export const setVolume = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A set of any activity other than strength is worth nothing.",
++      statement: "A set stating an activity is worth nothing.",
+     },
+     {
+       invariantKind: "departure",
