@@ -1,0 +1,41 @@
+diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
+index e373d042f2ce7912ab9e8714f5453895ba8b02f5..2b1a9155b727ba7933b896ded82cd7ec5df41aa3 100644
+--- a/command-system/asking/asking.module.ts
++++ b/command-system/asking/asking.module.ts
+@@ -27,7 +27,7 @@ export const asking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A draft runs the checks a landing runs and the warrants a landing runs.",
++      statement: "A draft runs the checks a landing runs and owes the reading a landing owes.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/command-system/calling/calling.module.ts b/command-system/calling/calling.module.ts
+index 7afc868f082e3fbda80db98e4af26720585aa678..895d0da3d4dbdc970fa128a271622ecabdcad05b 100644
+--- a/command-system/calling/calling.module.ts
++++ b/command-system/calling/calling.module.ts
+@@ -91,7 +91,8 @@ export const calling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The checks and warrants that run on a kind are read off that kind's own page.",
++      statement:
++        "The checks a kind runs and the reading its writer owes are read off that kind's own page.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index aa728b74146a47518c80a95dce60ab50eda2516d..0393c76da97bb322df6337296cabd35dcd9bad3d 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -264,7 +264,8 @@ export const landing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A draft says which checks and warrants the change drafted into the patch runs.",
++      statement:
++        "A draft says which checks the change drafted into the patch runs and what its writer owes.",
+     },
+     {
+       invariantKind: "departure",
