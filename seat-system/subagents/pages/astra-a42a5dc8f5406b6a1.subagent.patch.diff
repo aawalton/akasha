@@ -1,0 +1,15 @@
+diff --git a/pages/service/page-writing/page-writing.module.code.ts b/pages/service/page-writing/page-writing.module.code.ts
+index b1d9421c84dfa0f9aba728b258ac7037e97cc502..3e4484aec9ce624017c81504b41310165499fce6 100644
+--- a/pages/service/page-writing/page-writing.module.code.ts
++++ b/pages/service/page-writing/page-writing.module.code.ts
+@@ -103,8 +103,8 @@ export function editsIn(asked: Asked): readonly FileEdit[] {
+ 
+ export function messageIn(batch: readonly Asked[]): string {
+   const each = batch.map((one) => `${one.message.trim()}\n\n${WRITTEN_BY}${one.writer}`)
+-  const one = each[0]
+-  if (batch.length === 1 && one !== undefined) return one
++  const first = each[0]
++  if (batch.length === 1 && first !== undefined) return first
+   return `${batch.length} writes arrived together, so they land together\n\n${each.join(APART)}`
+ }
+ 
