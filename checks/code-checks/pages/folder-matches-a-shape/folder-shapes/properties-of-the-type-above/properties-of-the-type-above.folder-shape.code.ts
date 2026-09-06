@@ -20,9 +20,11 @@ export function propertiesOfTheTypeAbove(standing: Standing): readonly string[] 
       `${standing.strays.length} files are neither a page nor a file beside one: ${saidInside(standing.folder, standing.strays)}`
     )
   }
-  if (standing.properties.length > 0) {
+  const claimed = new Set<string>(standing.pages.flatMap((one) => standing.parts(one)))
+  const beside = standing.properties.filter((one) => !claimed.has(one.path))
+  if (beside.length > 0) {
     said.push(
-      `${standing.properties.length} files sit beside a page, and a property page carries no file of its own: ${saidInside(standing.folder, standing.properties)}`
+      `${beside.length} files sit beside a page that states no such file: ${saidInside(standing.folder, beside)}`
     )
   }
   const other = standing.pages.filter(

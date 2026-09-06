@@ -29,6 +29,14 @@ export const propertiesOfTheTypeAbove = {
     },
     {
       invariantKind: "departure",
+      statement: "A file beside a property page is one that property page states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property page carrying code holds that code beside itself rather than apart.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A field declared by a record property beside a property page is declared by that page type too.",
     },
