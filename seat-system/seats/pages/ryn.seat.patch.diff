@@ -1,5 +1,5 @@
 diff --git a/alan/harness/inboxes/reading/inbox-reading.module.ts b/alan/harness/inboxes/reading/inbox-reading.module.ts
-index 2fe9c394398484c84fb88eaa8a2075d09f7535a9..c220a5b26de91947c11eb023bd574105501bd50f 100644
+index 2fe9c394398484c84fb88eaa8a2075d09f7535a9..9c79804f2e10aef8dde2083d521f4f5901c0049e 100644
 --- a/alan/harness/inboxes/reading/inbox-reading.module.ts
 +++ b/alan/harness/inboxes/reading/inbox-reading.module.ts
 @@ -75,7 +75,8 @@ export const inboxReading = {
@@ -12,3 +12,13 @@ index 2fe9c394398484c84fb88eaa8a2075d09f7535a9..c220a5b26de91947c11eb023bd574105
      },
      {
        invariantKind: "departure",
+@@ -103,7 +104,8 @@ export const inboxReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The root read is the one the environment states or the one the call was made in.",
++      statement:
++        "The root read is the root the environment states or the root the call was made in.",
+     },
+     {
+       invariantKind: "stopgap",
