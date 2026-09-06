@@ -158,48 +158,6 @@ index 0000000000000000000000000000000000000000..c477ef423ee2d0cdc9b14162dce793cd
 +
 +  expect(said.refused ?? "").toMatch(/`new`/)
 +})
-diff --git a/changes/command/pages/change-file/change-file.change-command.ts b/changes/command/pages/change-file/change-file.change-command.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..4efed454783c33755ef3d807aef2f4f9ebf00539
---- /dev/null
-+++ b/changes/command/pages/change-file/change-file.change-command.ts
-@@ -0,0 +1,36 @@
-+import type { ChangeCommand } from "../../change-command.page-type.ts"
-+
-+export const changeFile = {
-+  id: "01a07812-7a76-7a89-b79b-6fcbc3e4c40f",
-+  pageTypeSlug: "change-command",
-+  slug: "change-file",
-+  definition: "one passage of one body replaced, judged by the checks a landing runs",
-+  code: "ts",
-+  test: "ts",
-+  isCommand: true,
-+  runsChecks: true,
-+  readersOweReading: true,
-+  writerOwesReading: true,
-+  invariants: [
-+    {
-+      invariantKind: "departure",
-+      statement: "The arguments are read here rather than trusted.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "An argument this change is handed no value for is refused by name.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "The passage and what the passage becomes are two arguments.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "Working the passage is left to the partial this change runs.",
-+    },
-+    {
-+      invariantKind: "absence",
-+      statement: "No guard runs here, and the checks judge what this change leaves.",
-+    },
-+  ],
-+} as const satisfies ChangeCommand
 diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
 index 8763093653f997c21daaa9a3421485f1043946de..6a68d40c2a8064abd2dbeaae3796fcce813beb6b 100644
 --- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
