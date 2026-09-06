@@ -1,0 +1,32 @@
+diff --git a/pages/file-properties/properties/holds-bytes.boolean-property.ts b/pages/file-properties/properties/holds-bytes.boolean-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5131cb730ba3e1d0c358f3ff0d11eb92c8519be7
+--- /dev/null
++++ b/pages/file-properties/properties/holds-bytes.boolean-property.ts
+@@ -0,0 +1,26 @@
++import type { BooleanProperty } from "@akasha/pages/boolean-property"
++
++export type HoldsBytes = boolean
++
++export const holdsBytes = {
++  id: "01a0783e-bc03-787d-b886-e4476954adbe",
++  pageTypeSlug: "boolean-property",
++  slug: "holds-bytes",
++  propertySlug: "holds-bytes",
++  definition: "whether the files a property holds are bytes rather than text",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A property saying nothing here holds text.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A property holding bytes is answered as the bytes on disk rather than as text.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A property exempts every file that property holds rather than one file named here.",
++    },
++  ],
++} as const satisfies BooleanProperty
