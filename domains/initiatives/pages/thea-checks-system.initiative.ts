@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Four steps: 1 the category prevented, 2 the right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero, and check the scratch world exercises the path rather than a fallback. Done through id-is-a-uuid-version-7, on at patch, its 22 counterfeit ids re-minted and three findings closed. Re-minting an id orphans every edge naming it, the index filing an incoming edge under the target's id and the naming page writing it. Next identifier-matches-its-place.",
+        "Four steps: 1 the category prevented, 2 the right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero, and check the scratch world exercises the path rather than a fallback. Done through id-is-a-uuid-version-7. identifier-matches-its-place stays off by Alan's call, half built: it judges the vendored lua runtime its own page skips, and inverts 11 components into browser tags. Two findings filed, one corrected, one stale removed. Next identifier-names-one-page.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
