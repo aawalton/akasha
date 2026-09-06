@@ -1,5 +1,5 @@
 diff --git a/pages/indexes/property-carrying/property-carrying.module.test.ts b/pages/indexes/property-carrying/property-carrying.module.test.ts
-index f9510b6ab3d0e74d71df0452837617d601820cb7..36a9ca0460d5fdbf50c8d886c7292fb7ee68e39a 100644
+index f9510b6ab3d0e74d71df0452837617d601820cb7..efb4f542bbf2904399cef89f16137e614c2bdeff 100644
 --- a/pages/indexes/property-carrying/property-carrying.module.test.ts
 +++ b/pages/indexes/property-carrying/property-carrying.module.test.ts
 @@ -6,6 +6,7 @@ import {
@@ -10,3 +10,25 @@ index f9510b6ab3d0e74d71df0452837617d601820cb7..36a9ca0460d5fdbf50c8d886c7292fb7
  } from "../reading/index-reading.module.test-fixtures.ts"
  import {
    type Carried,
+@@ -39,9 +40,20 @@ function pageAt(slug: string, kind: string): string {
+   return `akasha/${slug}.${kind}.ts`
+ }
+ 
++function listedAndValued(
++  root: string,
++  kind: string,
++  slug: string,
++  path: string,
++  id: string
++): undefined {
++  listedFiled(root, kind, slug, [{ path, id }])
++  valueAlsoFiled(root, kind, [{ path, value: { id, pageTypeSlug: kind, slug } }])
++}
++
+ function filed(root: string, slug: string, kind: string, id: string): undefined {
+   const path = pageAt(slug, kind)
+-  listedFiled(root, kind, slug, [{ path, id }])
++  listedAndValued(root, kind, slug, path, id)
+   idFiled(root, id, [{ path, id }])
+ }
+ 
