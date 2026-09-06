@@ -27,7 +27,7 @@ export const listens = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A play key names one listen and no other.",
+      statement: "A play key names a single listen.",
     },
     {
       invariantKind: "absence",
