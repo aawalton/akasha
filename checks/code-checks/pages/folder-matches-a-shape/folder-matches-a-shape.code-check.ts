@@ -95,6 +95,14 @@ export const folderMatchesAShape = {
     },
     {
       invariantKind: "departure",
+      statement: "Every folder answering to a folder above a changed path is judged.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That folder is judged though the change carries no path inside that folder.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A shape reads the folders under a folder as well as the files sitting in the folder.",
     },

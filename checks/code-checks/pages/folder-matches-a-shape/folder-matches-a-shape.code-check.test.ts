@@ -1,7 +1,10 @@
 import { expect, test } from "bun:test"
+import { NAMING_NONE } from "@akasha/code/code-specifier"
 import type { Change } from "@akasha/pages/change"
 import {
+  answeringTo,
   edgesOf,
+  foldersJudgedBy,
   foldersTouchedBy,
   type Holds,
   heldFolder,
@@ -12,6 +15,7 @@ import {
 import {
   ancestorsOf,
   folderOf,
+  type Grouped,
   reachedFolders,
 } from "./modules/folder-grouping/folder-grouping.module.code.ts"
 
@@ -37,6 +41,13 @@ function holding(named: Readonly<Record<string, readonly string[]>>): Holds {
     holds: [],
     declared: new Set<string>(),
   })
+}
+
+function grouping(under: Readonly<Record<string, readonly string[]>>): Grouped {
+  return {
+    at: () => [],
+    foldersIn: (folder) => under[folder] ?? [],
+  }
 }
 
 test("a folder is every part of a path but its last", () => {
@@ -150,6 +161,68 @@ test("a folder named for no part is never looked through", () => {
   const holds = holding({ "akasha/foo": ["foo"] })
   expect(heldFolder("akasha/foo/other", holds)).toBe(false)
   expect(namingFolderOf("akasha/foo/other/deep", holds)).toBe("akasha/foo/other")
+})
+
+test("the folders sitting in a folder answer to that folder", () => {
+  const grouped = grouping({ "akasha/foo": ["akasha/foo/one", "akasha/foo/two"] })
+  expect(answeringTo("akasha/foo", grouped, holding({}))).toEqual([
+    "akasha/foo/one",
+    "akasha/foo/two",
+  ])
+})
+
+test("a part is looked through, so the folders in it answer to the folder above that part", () => {
+  const holds = holding({ "akasha/foo": ["foo"] })
+  const grouped = grouping({
+    "akasha/foo": ["akasha/foo/modules"],
+    "akasha/foo/modules": ["akasha/foo/modules/one"],
+  })
+  expect([...answeringTo("akasha/foo", grouped, holds)].sort()).toEqual([
+    "akasha/foo/modules",
+    "akasha/foo/modules/one",
+  ])
+  expect(namingFolderOf("akasha/foo/modules/one", holds)).toBe("akasha/foo")
+})
+
+test("a folder named `pages` the page in it names ends the descent", () => {
+  const holds = holding({ "akasha/pages-system/pages": ["page", "pages"] })
+  const grouped = grouping({
+    "akasha/pages-system": ["akasha/pages-system/pages"],
+    "akasha/pages-system/pages": ["akasha/pages-system/pages/address"],
+  })
+  expect(answeringTo("akasha/pages-system", grouped, holds)).toEqual(["akasha/pages-system/pages"])
+})
+
+test("a folder that is no part ends the descent, that folder naming the folders in it", () => {
+  const holds = holding({ "akasha/foo": ["foo"] })
+  const grouped = grouping({
+    "akasha/foo": ["akasha/foo/other"],
+    "akasha/foo/other": ["akasha/foo/other/deep"],
+  })
+  expect(answeringTo("akasha/foo", grouped, holds)).toEqual(["akasha/foo/other"])
+  expect(namingFolderOf("akasha/foo/other/deep", holds)).toBe("akasha/foo/other")
+})
+
+test("a folder answering to a changed page is judged though no path inside it changed", () => {
+  const holds = holding({ "akasha/foo": ["foo"] })
+  const grouped = grouping({
+    akasha: ["akasha/foo"],
+    "akasha/foo": ["akasha/foo/foo-shapes", "akasha/foo/modules"],
+    "akasha/foo/modules": ["akasha/foo/modules/deep"],
+  })
+  const said = foldersJudgedBy(
+    change(["akasha/foo/foo.module.ts"], { "akasha/foo/foo.module.ts": "" }, {}),
+    NAMING_NONE,
+    grouped,
+    holds
+  )
+  expect([...said].sort()).toEqual([
+    "akasha",
+    "akasha/foo",
+    "akasha/foo/foo-shapes",
+    "akasha/foo/modules",
+    "akasha/foo/modules/deep",
+  ])
 })
 
 test("the page a claimed file sits beside is the one the index names", () => {
