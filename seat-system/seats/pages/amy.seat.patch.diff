@@ -1,3 +1,23 @@
+diff --git a/alan/harness/attributes/reading/attributes-reading.module.ts b/alan/harness/attributes/reading/attributes-reading.module.ts
+index d5e90297e7fca4a42e63ca6e69e43ffb7b125801..8aab522a30da2e374c50a0b0e27d7b7154cfd851 100644
+--- a/alan/harness/attributes/reading/attributes-reading.module.ts
++++ b/alan/harness/attributes/reading/attributes-reading.module.ts
+@@ -64,15 +64,6 @@ export const attributesReading = {
+       statement:
+         "The root read is the root the environment states or the folder the call was made in.",
+     },
+-    {
+-      invariantKind: "absence",
+-      statement: "Wisdom takes no reading while nothing writes `wisdom-words` onto a day.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement:
+-        "Intelligence takes no reading while nothing writes `intelligence-words` onto a day.",
+-    },
+     {
+       invariantKind: "stopgap",
+       statement: "Each readout's path is spelled here rather than asked of the index.",
 diff --git a/alan/tracking/daily/topic-words-service/topic-words-service.workstation-service.ts b/alan/tracking/daily/topic-words-service/topic-words-service.workstation-service.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..f4311b5e1c7b6228ab372b5275b4aa6ea26d05af
