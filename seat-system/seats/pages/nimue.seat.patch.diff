@@ -20,3 +20,15 @@ index c00f83f093642a3e512e702899ed71836e82f144..cd9631e81eae88aa804af1e152ebe25d
 -  keys: ["slug", "key", "defined-on-slug", "type"],
 +  keys: ["slug", "propertySlug", "pageTypeSlug"],
  } as const satisfies PageQuery
+diff --git a/pages/queries/pages/persona-all.page-query.ts b/pages/queries/pages/persona-all.page-query.ts
+index 58b3a450217930f08ed832c83eced29dc5610ec7..5479e50c0dc989a717d48e193bcc81083d549f61 100644
+--- a/pages/queries/pages/persona-all.page-query.ts
++++ b/pages/queries/pages/persona-all.page-query.ts
+@@ -8,7 +8,6 @@ export const personaAll = {
+   keys: [
+     "id",
+     "slug",
+-    "seq",
+     "title",
+     "cover",
+     "valueSlug",
