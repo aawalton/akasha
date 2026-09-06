@@ -1,5 +1,5 @@
 diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
-index a87980fc09e4875973e1ddc43a32387be5566b39..6272b9c615425775c58b9f29c6829618d3bff825 100644
+index a87980fc09e4875973e1ddc43a32387be5566b39..bc16a12180fdef8b98750ffa77d088ea3d62129f 100644
 --- a/command-system/asking/asking.module.code.ts
 +++ b/command-system/asking/asking.module.code.ts
 @@ -7,7 +7,7 @@ import { agentPathOf } from "@akasha/context/warranting"
@@ -24,6 +24,15 @@ index a87980fc09e4875973e1ddc43a32387be5566b39..6272b9c615425775c58b9f29c6829618
  function bypassIn(given: Given, asked: Asked): Bypass | null {
    if (asked.glass !== null) return { reason: asked.glass, said: glassSaid(asked.glass) }
    const kind = given.changeKind
+@@ -351,7 +345,7 @@ async function draftingAsked(
+       asked.read ?? null,
+       asRead,
+       asked.carries ?? [],
+-      { page, running: runningOf(given) }
++      { page, running: runningOf(given.changeKind) }
+     )
+   } catch (thrown) {
+     return { report: [], refusals: [`nothing was drafted — ${whyOf(thrown)}`], code: 3 }
 diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
 index 17f733ec596a0fdf6df4e49381c51a17542dde69..6aef4f2a8034b12f041a07ff1aaa9feb91bb5f44 100644
 --- a/command-system/drafting/drafting.module.code.ts
