@@ -52,6 +52,22 @@ index 4cfcbbfed43f2142368da2bc8263e5f3add4c534..62733bf5ae3a2c6dc4d40eb394cd88ea
      },
      {
        invariantKind: "gap",
+diff --git a/code-system/ios-apps/pages/alanwalton/alanwalton.ios-app.ts b/code-system/ios-apps/pages/alanwalton/alanwalton.ios-app.ts
+index 13750217f460565c697aff47a86d9fe15bb4d73c..f4ec0b51e5fb71534b33a6713c4d38391aecca67 100644
+--- a/code-system/ios-apps/pages/alanwalton/alanwalton.ios-app.ts
++++ b/code-system/ios-apps/pages/alanwalton/alanwalton.ios-app.ts
+@@ -22,6 +22,11 @@ export const alanwalton = {
+   macWwwStagingRel: ".testflight-www-staging",
+   marketingVersion: "1.0",
+   nativeShellRepoPath: "akasha:code-system/ios-apps/pages/alanwalton",
++  programSlugs: [
++    "ios-program/alanwalton-app",
++    "ios-program/alanwalton-decode-harness",
++    "ios-program/alanwalton-widget",
++  ],
+   spaSourcePath: "alan/web-capacitor",
+   stageScript: "shell-script/alanwalton-stage-app",
+   webEnvPath: "alan/web/.env.local",
 diff --git a/code-system/ios-apps/pages/smilingjenny/smilingjenny.ios-app.ts b/code-system/ios-apps/pages/smilingjenny/smilingjenny.ios-app.ts
 index 46df7cb69303691de6ac201bec97747dccbee218..31d6300c7368436f0c2383ca2fb706ed65c050e0 100644
 --- a/code-system/ios-apps/pages/smilingjenny/smilingjenny.ios-app.ts
