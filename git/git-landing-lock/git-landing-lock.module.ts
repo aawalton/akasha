@@ -23,7 +23,7 @@ export const gitLandingLock = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal says plainly that nothing was written, unlinked or committed.",
+      statement: "A refusal says plainly that nothing was written or unlinked or committed.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,11 @@ export const gitLandingLock = {
     },
     {
       invariantKind: "departure",
-      statement: "This lock is not the akasha landing lock, and neither excludes the other.",
+      statement: "This lock is not the akasha landing lock.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Neither lock excludes the other lock.",
     },
   ],
 } as const satisfies Module
