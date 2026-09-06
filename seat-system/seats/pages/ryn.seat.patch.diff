@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts b/temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts
+index af139dd67ee89437ab33690578757ce2263f380f..b62800d5668d98d3ca60f3c9f64373201b2732df 100644
+--- a/temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts
++++ b/temper/temper-progress/readouts/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts
+@@ -20,7 +20,7 @@ export const inboxesTemperTasks = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The count is the one the tracking day carries.",
++      statement: "The count is the count the tracking day carries.",
+     },
+     {
+       invariantKind: "departure",
