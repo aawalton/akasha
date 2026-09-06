@@ -1,0 +1,365 @@
+writerOwesReading: false
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/austria.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/austria.book-section.ts
+index 36968c1e0c452d6f827b7b165c642096687c4e0b..dcc97d82096fa5387bc529fdbada9dc1025cb237 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/austria.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/austria.book-section.ts
+@@ -7,7 +7,7 @@ export const austria = {
+   title: "Austria",
+   description:
+     "All paths to Austrian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/croatia.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/croatia.book-section.ts
+index 6aff617fa7319a0ba0d164021e9895115e25dca5..4464a01b7020547787719a304c18a18e0cf3b7c5 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/croatia.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/croatia.book-section.ts
+@@ -7,7 +7,7 @@ export const croatia = {
+   title: "Croatian Citizenship Paths",
+   description:
+     "All paths to Croatian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-belgium.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-belgium.book-section.ts
+index dc73b4e04c9bbbe9752a78625c0a45c8cb414925..a09d9e2cc02ce13fe71defb048b74780b6e55d97 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-belgium.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-belgium.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipBelgium = {
+   title: "Belgian Citizenship Paths (May 2026)",
+   description:
+     "All paths to Belgian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-bulgaria.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-bulgaria.book-section.ts
+index 42c5246cbd2ce17709e169ecdcf412997723bc1b..57b5caea8b2050e4e10ccaaa3d37950d228ce543 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-bulgaria.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-bulgaria.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipBulgaria = {
+   title: "Bulgarian Citizenship Paths",
+   description:
+     "All paths to Bulgarian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-cyprus.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-cyprus.book-section.ts
+index b9ae22ab2d2913299c76b4424922de50ea841238..d4b7c1897ece664c4ead09792aff08bb7fc960d4 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-cyprus.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-cyprus.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipCyprus = {
+   title: "Cypriot Citizenship Paths (May 2026)",
+   description:
+     "All paths to Cypriot citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-czechia.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-czechia.book-section.ts
+index 09f7eab12ba3032e66aafde4738514c81a5069ce..274dd3c1ad55b78e223737f6def43361b9b50536 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-czechia.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-czechia.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipCzechia = {
+   title: "Czech Citizenship Paths (May 2026)",
+   description:
+     "All paths to Czech citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-denmark.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-denmark.book-section.ts
+index 0ea022c9ba437b70d1f2e5d7ec177e5b72016b17..715022c8be3978e9ebc6d8551558eea97949d875 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-denmark.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-denmark.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipDenmark = {
+   title: "Denmark",
+   description:
+     "All paths to Danish citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-estonia.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-estonia.book-section.ts
+index 4c65dc1d3d36fd2babc78f43d9a16f0411a63b2e..458286811181c3eb369070ab70fc750357956a42 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-estonia.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-estonia.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipEstonia = {
+   title: "Estonian Citizenship Paths (May 2026)",
+   description:
+     "All paths to Estonian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (with the birthright-by-blood nuance), and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-finland.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-finland.book-section.ts
+index 45ba7b7ff50ca134674fbd9d6f56da0326821a5d..8e49d52da349cd5fcef72ec1a80e72c9aad87f45 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-finland.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-finland.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipFinland = {
+   title: "Finland",
+   description:
+     "All paths to Finnish citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-france.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-france.book-section.ts
+index accc1fadc10aad5bbddbd918e93bb56542f557df..3b486a171511177ac9e3d1227c63df16379a8616 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-france.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-france.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipFrance = {
+   title: "France",
+   description:
+     "All paths to French citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-germany.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-germany.book-section.ts
+index 2f2ac4884ed3f51f5d00a9af79d435da0275883a..71d061acd1db646674f2abe93e817bd1645caaa2 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-germany.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-germany.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipGermany = {
+   title: "Germany",
+   description:
+     "All paths to German citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (post-2024 reform), and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-greece.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-greece.book-section.ts
+index 25551ddac6b9f0fee24cced8ba6a84c823afde90..428624c294c4aa0f89c79f8fc71590a4f070f356 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-greece.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-greece.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipGreece = {
+   title: "Greek Citizenship Paths (May 2026)",
+   description:
+     "All paths to Greek citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-hungary.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-hungary.book-section.ts
+index 9e0d5399cba27ca4147e60d0014835d02ca5a9ec..45d37d9a0e13cd077b6d7e1a90900562530b6fba 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-hungary.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-hungary.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipHungary = {
+   title: "Hungarian Citizenship Paths",
+   description:
+     "All paths to Hungarian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-ireland.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-ireland.book-section.ts
+index f571d5d8e82d96b1e79169a00ef85b018f778288..a69b66fbcee0abe7cbf847bc925e9b273077c011 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-ireland.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-ireland.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipIreland = {
+   title: "Ireland — Paths to Citizenship (May 2026)",
+   description:
+     "All paths to Irish citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-italy.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-italy.book-section.ts
+index ceae7224a1432f3a4fb0dcfb5ceb4fee53954737..3b93e5b37e4e840ced8b9357ea9e89c3f89e5af4 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-italy.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-italy.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipItaly = {
+   title: "Italy",
+   description:
+     "All paths to Italian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path (esp. post-Tajani-decree jure sanguinis state).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-latvia.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-latvia.book-section.ts
+index ee35b0038f402587194255e38624ea7c9c26cf0d..a12ff35d5ad90b513b18c52f5281452ace41ed47 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-latvia.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-latvia.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipLatvia = {
+   title: "Latvian Citizenship Paths (May 2026)",
+   description:
+     "All paths to Latvian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-lithuania.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-lithuania.book-section.ts
+index 878109990a70118a6dcc71ea3477fa3d8ab4d819..e73935566e3904a4c7b62175f002ca6340b4a80a 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-lithuania.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-lithuania.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipLithuania = {
+   title: "Lithuanian Citizenship Paths (May 2026)",
+   description:
+     "All paths to Lithuanian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (constitutionally restricted), and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-luxembourg.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-luxembourg.book-section.ts
+index a8592b8eae4b9b155ed55dc2f7e49080c39c3d34..7aa18a6576449dc67aa6938e65e3c83d0800019b 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-luxembourg.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-luxembourg.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipLuxembourg = {
+   title: "Luxembourgish Citizenship Paths (May 2026)",
+   description:
+     "All paths to Luxembourgish citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (allowed since 2009), and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-malta.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-malta.book-section.ts
+index 08e130c2e9959ba57e460ca524596b3b4b06b6df..81c4907694f84a8c360d5e71683a1dcfc53444eb 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-malta.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-malta.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipMalta = {
+   title: "Maltese Citizenship Paths (May 2026)",
+   description:
+     "All paths to Maltese citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path (especially post-ECJ-ruling MEIN status).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-netherlands.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-netherlands.book-section.ts
+index cbcbbdd3dc6551f8feec378611fd4a02a4fd811c..360f2539c8dea3e033a4ee5f239e4bdcdc5fda26 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-netherlands.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-netherlands.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipNetherlands = {
+   title: "Netherlands",
+   description:
+     "All paths to Dutch citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (restricted), and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-poland.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-poland.book-section.ts
+index 775c7be81d26a59347b6bb252618f7751a775be9..6f01002ff42b4f11277ba23e43911cbc2ab5c500 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-poland.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-poland.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipPoland = {
+   title: "Polish Citizenship Paths (May 2026)",
+   description:
+     "All paths to Polish citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (tolerated), and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-portugal.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-portugal.book-section.ts
+index 789f54898784be9d25841727b0d1434c8b1ae22c..45c762807248ef2f0c5235b0e07119df1099563e 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-portugal.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-portugal.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipPortugal = {
+   title: "Portuguese Citizenship Paths (May 2026)",
+   description:
+     "All paths to Portuguese citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path (post-Sephardic-closure, post-2025-reform).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-romania.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-romania.book-section.ts
+index 4ab305c13fad5b1db3b1e6861eb982435014a5bc..54d3ff8f50b5d9565f6362d578a1ec647b88a45a 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-romania.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-romania.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipRomania = {
+   title: "Romanian Citizenship Paths",
+   description:
+     "All paths to Romanian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path (esp. Article 11 reacquisition).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-slovakia.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-slovakia.book-section.ts
+index d98c43b84f68ee729293181682c688c8042370af..78058a12d143f293acbdccc0f65e73e6646b0303 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-slovakia.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-slovakia.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipSlovakia = {
+   title: "Slovak Citizenship Paths (May 2026)",
+   description:
+     "All paths to Slovak citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (constrained), and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-slovenia.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-slovenia.book-section.ts
+index 724caba2f20628cf44c080b573109e3693880f11..2a04dde415923f4110b125a0b9ad52069b553eb2 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-slovenia.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-slovenia.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipSlovenia = {
+   title: "Slovenia — Paths to Citizenship (May 2026)",
+   description:
+     "All paths to Slovenian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (restricted), and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-spain.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-spain.book-section.ts
+index fd2e880073d7179a209ff355adce0691e8cadb17..b6f92aac9a03c6574ecbd66741ed00f839706fd9 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-spain.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-spain.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipSpain = {
+   title: "Spain — Paths to Citizenship (May 2026)",
+   description:
+     "All paths to Spanish citizenship as of May 2026 — requirements, timelines, asymmetric dual-citizenship policy, and current backlogs per path.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-summary.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-summary.book-section.ts
+index c9738f6738262f60546bb01c7c2fb58ac531efc6..47c0287a0f3dd76f7e92c2428e76a3439f9f6b1c 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-summary.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-summary.book-section.ts
+@@ -5,7 +5,7 @@ export const euCitizenshipSummary = {
+   pageTypeSlug: "book-section",
+   slug: "eu-citizenship-summary",
+   title: "Summary",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-sweden.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-sweden.book-section.ts
+index adfe45f16e7b0b1e15d05f763c666fbf798c2e45..5c9174f3533e292b3dc6f6ae21cd8ef70640bdb3 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-sweden.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-citizenship/eu-citizenship-sweden.book-section.ts
+@@ -7,7 +7,7 @@ export const euCitizenshipSweden = {
+   title: "Sweden",
+   description:
+     "All paths to Swedish citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path (post-Kristersson-tightenings).",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-citizenship"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
