@@ -1,5 +1,5 @@
 diff --git a/seat-system/subagent-page/subagent-page.module.test-fixtures.ts b/seat-system/subagent-page/subagent-page.module.test-fixtures.ts
-index 6a08db76ca784bed870347d20f4ef3122507d2aa..8456b686b9d3793f9b0bb93080c9d0f10701ea96 100644
+index 6a08db76ca784bed870347d20f4ef3122507d2aa..cd9882ed80006adee2a14d6a9d517f344b49dd83 100644
 --- a/seat-system/subagent-page/subagent-page.module.test-fixtures.ts
 +++ b/seat-system/subagent-page/subagent-page.module.test-fixtures.ts
 @@ -1,6 +1,6 @@
@@ -9,4 +9,22 @@ index 6a08db76ca784bed870347d20f4ef3122507d2aa..8456b686b9d3793f9b0bb93080c9d0f1
 +import { listedFiled, rebuiltIn, valueAlsoFiled } from "@akasha/indexes/testing"
  import { declaringUnder } from "@akasha/testing-system/declaring"
  import { standingSubagentsOf } from "./subagent-page.module.code.ts"
+ 
+@@ -43,6 +43,17 @@ export function seated(root: string): string {
+   gitIn(root, ["commit", "--quiet", "-m", "first"])
+   rebuiltIn(root, TREE)
+   listedFiled(root, "seat", "akasha", [{ path: SEAT_AT, id: SEAT_ID }])
++  valueAlsoFiled(root, "seat", [
++    {
++      path: SEAT_AT,
++      value: {
++        id: SEAT_ID,
++        pageTypeSlug: "seat",
++        slug: "akasha",
++        assignmentSlug: "domain/akasha-system",
++      },
++    },
++  ])
+   return root
+ }
  
