@@ -82,8 +82,8 @@ test("the roster names no repository and no glob", async () => {
 
 test("what names a page is found by asking each page type in turn", async () => {
   const asked = await askNaming(
-    { key: "domainSlug", name: "workspace-package/pages-system", pageTypes: ["finding"] },
-    answering([[{ slug: "one", domainSlug: "workspace-package/pages-system" }]]),
+    { key: "domainSlug", name: "workspace-package/page", pageTypes: ["finding"] },
+    answering([[{ slug: "one", domainSlug: "workspace-package/page" }]]),
     noNap
   )
   expect(asked.ok).toBe(true)
@@ -92,7 +92,7 @@ test("what names a page is found by asking each page type in turn", async () => 
     {
       pageType: "finding",
       key: "domainSlug",
-      rows: [{ values: { slug: "one", domainSlug: "workspace-package/pages-system" } }],
+      rows: [{ values: { slug: "one", domainSlug: "workspace-package/page" } }],
     },
   ])
 })
@@ -150,7 +150,7 @@ test("the store standing on this workstation answers what names a domain", async
   const asked = await underOrigin(() =>
     askNaming({
       key: "domainSlug",
-      name: "workspace-package/pages-system-service",
+      name: "workspace-package/page",
       pageTypes: ["finding"],
     })
   )
