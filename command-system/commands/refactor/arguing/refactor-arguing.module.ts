@@ -14,11 +14,11 @@ export const refactorArguing = {
     },
     {
       invariantKind: "departure",
-      statement: "A flag said more than once is refused.",
+      statement: "A flag said twice is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A flag needing a value and given none is refused.",
+      statement: "A flag needing a value and given no value is refused.",
     },
     {
       invariantKind: "departure",
