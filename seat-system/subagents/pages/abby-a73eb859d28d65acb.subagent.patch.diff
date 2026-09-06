@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-dependence-and-reach-compose-into-safety.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-dependence-and-reach-compose-into-safety.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..775a8d87b4c58bf7a470c00e7bfcc1fa8e71eb90
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-dependence-and-reach-compose-into-safety.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howDependenceAndReachComposeIntoSafety = {
++  id: "01a077f0-d5c5-75f3-be7a-b91d2f9a0a31",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-dependence-and-reach-compose-into-safety",
++  topicSlug: "who-is-safe-to-be-around",
++  ask: "A person's safety rests on how much I depend on them and how far my reaction reaches them rather than on closeness, so how does each break down and how do the two compose?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-safe-middle-can-be-held.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-safe-middle-can-be-held.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..14f5c2825258eec815d6f7cbef83d3b12cf5afbd
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-safe-middle-can-be-held.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheSafeMiddleCanBeHeld = {
++  id: "01a077f0-d5c4-7a7e-8975-d067b6b7f99d",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-safe-middle-can-be-held",
++  topicSlug: "who-is-safe-to-be-around",
++  ask: "Can the safe middle be held, or is the safe middle only the slower part of the same one-way slide?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/who-is-safe-to-be-around.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/who-is-safe-to-be-around.all-about-alan-topic.ts
+index 2d67f3ff3ae04194059a00b528883f42cb3be2c4..4d1b9419fca3ed9e5bc1a7aa4d84ed7339cea8d1 100644
+--- a/alan/books/all-about-alan/topics/pages/who-is-safe-to-be-around.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/who-is-safe-to-be-around.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const whoIsSafeToBeAround = {
+   parentSlugs: ["why-getting-close-hurts"],
+   settled:
+     "Safest is the middle, then strangers, then long good relationships, then people I know are dangerous.\n\nA stranger outranks someone I have loved for years, having had no time to lay down a single trigger.\n\nA fresh start zeroes the damage, which is why fresh starts feel safe and staying gets hard.",
+-  unsettled:
+-    "Whether the safe middle can be held, or is only the slower part of the same one-way slide, is unresolved.\n\nWhat makes a person safe turns on how much I depend on them and how far my reaction reaches them, rather than on closeness, and on how reachable they are. Neither is broken down, and how the two compose is unworked.",
+ } as const satisfies AllAboutAlanTopic
