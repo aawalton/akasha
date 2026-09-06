@@ -17,7 +17,8 @@ export const earnedColorSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "A scale states one earned color whatever readouts are read against that scale.",
+      statement:
+        "A scale states a single earned color whatever readouts are read against that scale.",
     },
     {
       invariantKind: "gap",
