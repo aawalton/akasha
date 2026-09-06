@@ -1,8 +1,8 @@
 diff --git a/seat-system/supervising/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts b/seat-system/supervising/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts
-index 11dae4f6080d122dedaa26ca0ff86f62e87ebe44..a52758dfb3cb6e34e34bd1a10031852152f5a813 100644
+index 11dae4f6080d122dedaa26ca0ff86f62e87ebe44..757efefc44c1a2e78e59bded437f0d4be1f14876 100644
 --- a/seat-system/supervising/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts
 +++ b/seat-system/supervising/supervisor-iteration-outcome/supervisor-iteration-outcome.module.ts
-@@ -13,11 +13,15 @@ export const supervisorIterationOutcome = {
+@@ -13,15 +13,19 @@ export const supervisorIterationOutcome = {
      },
      {
        invariantKind: "departure",
@@ -13,10 +13,15 @@ index 11dae4f6080d122dedaa26ca0ff86f62e87ebe44..a52758dfb3cb6e34e34bd1a100318521
        invariantKind: "departure",
 -      statement: "The maintenance flag is read off the pending record, not off the event.",
 +      statement: "Every other action breaks the loop.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "The maintenance flag is read off the pending record rather than off the event.",
      },
      {
        invariantKind: "departure",
+-      statement: "A directive is one of two words, continue or break.",
++      statement: "The maintenance flag is read off the pending record rather than off the event.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A directive is either continue or break.",
+     },
+     {
+       invariantKind: "absence",
