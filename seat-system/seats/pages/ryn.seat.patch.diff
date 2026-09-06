@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/person-system/sms-opt-in/sms-opt-in.module.ts b/person-system/sms-opt-in/sms-opt-in.module.ts
+index 0caa1b7cc080cb135fd103e0e61f8025f9f415ca..3c3f94c102c9df6bb49253c3dd146fde2192be30 100644
+--- a/person-system/sms-opt-in/sms-opt-in.module.ts
++++ b/person-system/sms-opt-in/sms-opt-in.module.ts
+@@ -14,7 +14,7 @@ export const smsOptIn = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The wording shown is the one the consent module states.",
++      statement: "The wording shown is the wording the consent module states.",
+     },
+     {
+       invariantKind: "departure",
