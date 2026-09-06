@@ -5,7 +5,7 @@ export const learnEverythingTopic09NorthAfricaCarthageAndKush = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-09-north-africa-carthage-and-kush",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › North Africa: Carthage and Kush",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-21",
   status: "unopened",
   partOfSlugs: [

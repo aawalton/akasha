@@ -5,7 +5,7 @@ export const learnEverythingTopic02TheHydrosphereTheOceansFreshwaterAndIceMasses
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-the-hydrosphere-the-oceans-freshwater-and-ice-masses",
   node: "The Earth › Earth's Envelope › The Hydrosphere: the Oceans, Freshwater and Ice Masses",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-earth-s-envelope"],

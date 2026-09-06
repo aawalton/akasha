@@ -5,7 +5,7 @@ export const learnEverythingTopic02TheGroupStructureOfSociety = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-the-group-structure-of-society",
   node: "Human Society › Social Organization and Social Change › The Group Structure of Society",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-social-organization-and-social-change"],

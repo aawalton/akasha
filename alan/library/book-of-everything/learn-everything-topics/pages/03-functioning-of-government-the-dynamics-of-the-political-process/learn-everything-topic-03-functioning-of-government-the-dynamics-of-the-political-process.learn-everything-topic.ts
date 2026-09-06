@@ -5,7 +5,7 @@ export const learnEverythingTopic03FunctioningOfGovernmentTheDynamicsOfThePoliti
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-functioning-of-government-the-dynamics-of-the-political-process",
   node: "Human Society › Politics and Government › Functioning of Government: the Dynamics of the Political Process",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-04-politics-and-government"],

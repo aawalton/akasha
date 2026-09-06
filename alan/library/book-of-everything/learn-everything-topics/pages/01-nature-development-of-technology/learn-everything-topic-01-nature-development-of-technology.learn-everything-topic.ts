@@ -5,7 +5,7 @@ export const learnEverythingTopic01NatureDevelopmentOfTechnology = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-nature-development-of-technology",
   node: "Technology › Nature & Development of Technology",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-07-technology"],

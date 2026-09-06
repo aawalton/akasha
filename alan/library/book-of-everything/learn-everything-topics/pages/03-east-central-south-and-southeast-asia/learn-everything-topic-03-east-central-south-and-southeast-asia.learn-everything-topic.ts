@@ -5,7 +5,7 @@ export const learnEverythingTopic03EastCentralSouthAndSoutheastAsia = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-east-central-south-and-southeast-asia",
   node: "The History of Mankind › East, Central, South, and Southeast Asia",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-09-the-history-of-mankind"],

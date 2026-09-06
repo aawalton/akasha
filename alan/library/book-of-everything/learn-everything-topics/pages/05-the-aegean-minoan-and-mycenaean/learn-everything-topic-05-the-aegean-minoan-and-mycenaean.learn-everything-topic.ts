@@ -5,7 +5,7 @@ export const learnEverythingTopic05TheAegeanMinoanAndMycenaean = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-05-the-aegean-minoan-and-mycenaean",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › The Aegean: Minoan and Mycenaean",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-21",
   status: "unopened",
   partOfSlugs: [

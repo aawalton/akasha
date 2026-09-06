@@ -5,7 +5,7 @@ export const learnEverythingTopic03ConstructionTechnology = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-construction-technology",
   node: "Technology › Fields of Technology › Construction Technology",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-fields-of-technology"],

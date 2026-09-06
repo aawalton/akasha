@@ -5,7 +5,7 @@ export const learnEverythingTopic05NutritionTheProcurementAndProcessingOfNutrien
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-05-nutrition-the-procurement-and-processing-of-nutrients",
   node: "Life on Earth › The Structures and Functions of Organisms › Nutrition: the Procurement and Processing of Nutrients",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],

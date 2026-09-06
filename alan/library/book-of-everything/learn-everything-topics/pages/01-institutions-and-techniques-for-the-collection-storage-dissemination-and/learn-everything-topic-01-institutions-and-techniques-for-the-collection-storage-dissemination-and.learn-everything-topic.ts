@@ -6,7 +6,7 @@ export const learnEverythingTopic01InstitutionsAndTechniquesForTheCollectionStor
     pageTypeSlug: "learn-everything-topic",
     slug: "learn-everything-topic-01-institutions-and-techniques-for-the-collection-storage-dissemination-and",
     node: "The Branches of Knowledge › Preservation of Knowledge › Institutions and Techniques for the Collection, Storage, Dissemination and Preservation of Knowledge",
-    depth: 0,
+    masteryLevelSlug: "mastery-level/novice",
     scoredOn: "2026-06-19",
     status: "unopened",
     partOfSlugs: ["learn-everything-topic-06-preservation-of-knowledge"],

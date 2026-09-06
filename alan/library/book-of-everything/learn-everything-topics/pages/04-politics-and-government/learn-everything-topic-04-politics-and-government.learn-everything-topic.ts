@@ -5,7 +5,7 @@ export const learnEverythingTopic04PoliticsAndGovernment = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-politics-and-government",
   node: "Human Society › Politics and Government",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-05-human-society"],

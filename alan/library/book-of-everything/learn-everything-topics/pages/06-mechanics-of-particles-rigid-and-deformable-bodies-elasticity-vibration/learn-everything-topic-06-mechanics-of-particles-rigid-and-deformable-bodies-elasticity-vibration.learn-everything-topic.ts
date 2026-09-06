@@ -6,7 +6,7 @@ export const learnEverythingTopic06MechanicsOfParticlesRigidAndDeformableBodiesE
     pageTypeSlug: "learn-everything-topic",
     slug: "learn-everything-topic-06-mechanics-of-particles-rigid-and-deformable-bodies-elasticity-vibration",
     node: "Matter and Energy › Energy, Radiation, and States of Matter › Mechanics of Particles, Rigid and Deformable Bodies: Elasticity, Vibration, and Flow",
-    depth: 0,
+    masteryLevelSlug: "mastery-level/novice",
     scoredOn: "2026-06-19",
     status: "unopened",
     partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],

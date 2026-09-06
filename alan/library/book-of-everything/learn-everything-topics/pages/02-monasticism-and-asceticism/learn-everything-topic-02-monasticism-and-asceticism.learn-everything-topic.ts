@@ -5,7 +5,7 @@ export const learnEverythingTopic02MonasticismAndAsceticism = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-monasticism-and-asceticism",
   node: "Religion › Religion in General › Religious Life: Institutions and Practices › Monasticism and Asceticism",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-religious-life-institutions-and-practices"],

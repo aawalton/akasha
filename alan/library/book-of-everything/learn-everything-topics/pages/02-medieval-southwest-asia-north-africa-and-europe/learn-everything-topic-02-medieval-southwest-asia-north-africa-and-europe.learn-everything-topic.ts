@@ -5,7 +5,7 @@ export const learnEverythingTopic02MedievalSouthwestAsiaNorthAfricaAndEurope = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-medieval-southwest-asia-north-africa-and-europe",
   node: "The History of Mankind › Medieval Southwest Asia, North Africa, and Europe",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-09-the-history-of-mankind"],

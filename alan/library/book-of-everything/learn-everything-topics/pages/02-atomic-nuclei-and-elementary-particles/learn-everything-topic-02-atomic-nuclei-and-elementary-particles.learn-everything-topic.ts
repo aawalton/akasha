@@ -5,7 +5,7 @@ export const learnEverythingTopic02AtomicNucleiAndElementaryParticles = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-atomic-nuclei-and-elementary-particles",
   node: "Matter and Energy › Atoms › Atomic Nuclei and Elementary Particles",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-atoms"],

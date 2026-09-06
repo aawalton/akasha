@@ -5,7 +5,7 @@ export const learnEverythingTopic04ComputerScienceAndComputation = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-computer-science-and-computation",
   node: "The Branches of Knowledge › Mathematics › Applications of Mathematics › Computer Science and Computation",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-20",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-applications-of-mathematics"],

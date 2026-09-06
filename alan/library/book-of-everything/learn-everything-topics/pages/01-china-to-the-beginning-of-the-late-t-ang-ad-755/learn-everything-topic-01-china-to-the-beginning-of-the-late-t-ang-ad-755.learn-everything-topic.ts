@@ -5,7 +5,7 @@ export const learnEverythingTopic01ChinaToTheBeginningOfTheLateTAngAd755 = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-china-to-the-beginning-of-the-late-t-ang-ad-755",
   node: "The History of Mankind › East, Central, South, and Southeast Asia › China to the Beginning of the Late T'ang AD 755",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-east-central-south-and-southeast-asia"],

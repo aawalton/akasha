@@ -5,7 +5,7 @@ export const learnEverythingTopic05DevelopmentOfLearningAndThinking = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-05-development-of-learning-and-thinking",
   node: "Human Life › Human Behavior and Experience › Development of Learning and Thinking",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-human-behavior-and-experience"],

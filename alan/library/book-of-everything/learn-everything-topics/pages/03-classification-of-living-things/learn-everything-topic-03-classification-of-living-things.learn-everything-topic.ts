@@ -5,7 +5,7 @@ export const learnEverythingTopic03ClassificationOfLivingThings = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-classification-of-living-things",
   node: "Life on Earth › The Nature and Diversity of Life › Classification of Living Things",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-the-nature-and-diversity-of-life"],

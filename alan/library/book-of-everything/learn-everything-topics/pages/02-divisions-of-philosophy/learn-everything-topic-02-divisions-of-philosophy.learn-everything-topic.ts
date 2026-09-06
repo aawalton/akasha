@@ -5,7 +5,7 @@ export const learnEverythingTopic02DivisionsOfPhilosophy = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-divisions-of-philosophy",
   node: "The Branches of Knowledge › Philosophy › Divisions of Philosophy",
-  depth: 4,
+  masteryLevelSlug: "mastery-level/expert",
   scoredOn: "2026-06-23",
   status: "live",
   partOfSlugs: ["learn-everything-topic-05-philosophy"],

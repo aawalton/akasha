@@ -5,7 +5,7 @@ export const learnEverythingTopic03BranchesOfPrivateLawSubstantiveAndProcedural 
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-branches-of-private-law-substantive-and-procedural",
   node: "Human Society › Law › Branches of Private Law, Substantive and Procedural",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-05-law"],

@@ -5,7 +5,7 @@ export const learnEverythingTopic04TheDistributionOfIncomeAndWealth = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-the-distribution-of-income-and-wealth",
   node: "Human Society › The Production, Distribution, and Utilization of Wealth › The Distribution of Income and Wealth",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-the-production-distribution-and-utilization-of-wealth"],

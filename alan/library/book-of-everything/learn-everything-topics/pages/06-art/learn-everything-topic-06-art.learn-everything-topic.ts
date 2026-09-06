@@ -5,7 +5,7 @@ export const learnEverythingTopic06Art = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-06-art",
   node: "Art",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["profile"],

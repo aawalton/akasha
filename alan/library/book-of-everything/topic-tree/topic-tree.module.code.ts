@@ -14,7 +14,6 @@ export type Topic = {
   readonly at: string
   readonly label: string
   readonly title: string
-  readonly depth: number
   readonly coverage: number
   readonly status: ProfileStatus
   readonly children: readonly Topic[]
@@ -25,7 +24,6 @@ export type Row = {
   readonly at: string
   readonly order: string
   readonly label: string
-  readonly depth: number
   readonly coverage: number
   readonly status: ProfileStatus
   readonly parent: string | null
@@ -82,7 +80,6 @@ export function rowsIn(root: string): readonly Row[] {
         at,
         order: orderOf(at),
         label: typeof label === "string" ? label : slug,
-        depth: numberOf(held["depth"]),
         coverage: numberOf(held["coverage"]),
         status: statusOf(held["status"]),
         parent: parentIn(held["partOfSlugs"]),
@@ -117,7 +114,6 @@ export function treeOf(rows: readonly Row[]): Topic {
       at: one.at,
       label: one.label,
       title: displayTitle(one.label),
-      depth: one.depth,
       coverage: one.coverage,
       status: one.status,
       children: (kin.get(one.slug) ?? []).filter((held) => !open.has(held.slug)).map(built),

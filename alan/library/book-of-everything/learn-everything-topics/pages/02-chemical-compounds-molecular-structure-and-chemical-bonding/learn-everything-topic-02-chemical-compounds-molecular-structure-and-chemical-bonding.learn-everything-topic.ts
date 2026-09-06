@@ -5,7 +5,7 @@ export const learnEverythingTopic02ChemicalCompoundsMolecularStructureAndChemica
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-chemical-compounds-molecular-structure-and-chemical-bonding",
   node: "Matter and Energy › Energy, Radiation, and States of Matter › Chemical Compounds: Molecular Structure and Chemical Bonding",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],

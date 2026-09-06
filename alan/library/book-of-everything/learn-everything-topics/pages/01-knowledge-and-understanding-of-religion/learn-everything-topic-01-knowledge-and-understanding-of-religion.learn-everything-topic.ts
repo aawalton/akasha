@@ -5,7 +5,7 @@ export const learnEverythingTopic01KnowledgeAndUnderstandingOfReligion = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-knowledge-and-understanding-of-religion",
   node: "Religion › Religion in General › Knowledge and Understanding of Religion",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-religion-in-general"],

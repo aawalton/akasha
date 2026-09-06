@@ -5,7 +5,7 @@ export const learnEverythingTopic01ReligiousAuthorityAndPriesthood = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-religious-authority-and-priesthood",
   node: "Religion › Religion in General › Religious Life: Institutions and Practices › Religious Authority and Priesthood",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-religious-life-institutions-and-practices"],

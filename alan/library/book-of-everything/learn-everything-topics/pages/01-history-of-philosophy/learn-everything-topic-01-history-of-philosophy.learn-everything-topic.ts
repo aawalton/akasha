@@ -5,7 +5,7 @@ export const learnEverythingTopic01HistoryOfPhilosophy = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-history-of-philosophy",
   node: "The Branches of Knowledge › Philosophy › History of Philosophy",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-05-philosophy"],

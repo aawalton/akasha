@@ -5,7 +5,7 @@ export const learnEverythingTopic01ChemicalElementsPeriodicVariationInTheirPrope
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-chemical-elements-periodic-variation-in-their-properties",
   node: "Matter and Energy › Energy, Radiation, and States of Matter › Chemical Elements: Periodic Variation in Their Properties",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],

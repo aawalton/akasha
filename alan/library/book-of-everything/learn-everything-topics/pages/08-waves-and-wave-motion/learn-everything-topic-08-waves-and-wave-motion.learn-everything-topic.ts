@@ -5,7 +5,7 @@ export const learnEverythingTopic08WavesAndWaveMotion = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-08-waves-and-wave-motion",
   node: "Matter and Energy › Energy, Radiation, and States of Matter › Waves and Wave Motion",
-  depth: 2,
+  masteryLevelSlug: "mastery-level/student",
   scoredOn: "2026-07-07",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],

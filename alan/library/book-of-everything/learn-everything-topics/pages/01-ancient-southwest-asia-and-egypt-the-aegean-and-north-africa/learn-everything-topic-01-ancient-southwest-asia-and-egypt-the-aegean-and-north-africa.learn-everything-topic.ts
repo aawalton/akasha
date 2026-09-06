@@ -5,7 +5,7 @@ export const learnEverythingTopic01AncientSouthwestAsiaAndEgyptTheAegeanAndNorth
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa",
-  depth: 3,
+  masteryLevelSlug: "mastery-level/scholar",
   scoredOn: "2026-06-20",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-01-ancient-southwest-asia-north-africa-and-europe"],

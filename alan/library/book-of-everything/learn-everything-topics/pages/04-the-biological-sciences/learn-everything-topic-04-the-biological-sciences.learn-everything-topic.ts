@@ -5,7 +5,7 @@ export const learnEverythingTopic04TheBiologicalSciences = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-the-biological-sciences",
   node: "The Branches of Knowledge › Science › The Biological Sciences",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-science"],

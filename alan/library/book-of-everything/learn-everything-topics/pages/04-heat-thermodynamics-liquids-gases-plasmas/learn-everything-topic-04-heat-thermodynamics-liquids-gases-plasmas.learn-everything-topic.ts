@@ -5,7 +5,7 @@ export const learnEverythingTopic04HeatThermodynamicsLiquidsGasesPlasmas = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-heat-thermodynamics-liquids-gases-plasmas",
   node: "Matter and Energy › Energy, Radiation, and States of Matter › Heat, Thermodynamics, Liquids, Gases, Plasmas",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],

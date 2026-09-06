@@ -5,7 +5,7 @@ export const learnEverythingTopic05ThePlaceOfHumansInTheBiosphere = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-05-the-place-of-humans-in-the-biosphere",
   node: "Life on Earth › The Biosphere › The Place of Humans in the Biosphere",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-05-the-biosphere"],

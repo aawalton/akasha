@@ -5,7 +5,7 @@ export const learnEverythingTopic01AncientSouthwestAsiaNorthAfricaAndEurope = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-ancient-southwest-asia-north-africa-and-europe",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-09-the-history-of-mankind"],

@@ -5,7 +5,7 @@ export const learnEverythingTopic08DevelopmentGrowthDifferentiationAndMorphogene
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-08-development-growth-differentiation-and-morphogenesis",
   node: "Life on Earth › The Structures and Functions of Organisms › Development: Growth, Differentiation, and Morphogenesis",
-  depth: 2,
+  masteryLevelSlug: "mastery-level/scholar",
   scoredOn: "2026-09-06",
   status: "live",
   partOfSlugs: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],

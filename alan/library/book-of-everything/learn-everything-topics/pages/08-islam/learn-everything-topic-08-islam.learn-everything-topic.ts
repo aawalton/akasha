@@ -5,7 +5,7 @@ export const learnEverythingTopic08Islam = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-08-islam",
   node: "Religion › Particular Religions › Islam",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-particular-religions"],

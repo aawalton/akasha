@@ -5,7 +5,7 @@ export const learnEverythingTopic10GameDesign = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-10-game-design",
   node: "Art › Particular Arts › Game Design",
-  depth: 3,
+  masteryLevelSlug: "mastery-level/scholar",
   scoredOn: "2026-06-25",
   status: "live",
   partOfSlugs: ["learn-everything-topic-02-particular-arts"],

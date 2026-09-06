@@ -5,7 +5,7 @@ export const learnEverythingTopic02FeaturesProducedByGeomorphicProcesses = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-features-produced-by-geomorphic-processes",
   node: "The Earth › Surface Features › Features Produced by Geomorphic Processes",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-surface-features"],

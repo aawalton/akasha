@@ -5,7 +5,7 @@ export const learnEverythingTopic03InformationTheory = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-information-theory",
   node: "The Branches of Knowledge › Mathematics › Applications of Mathematics › Information Theory",
-  depth: 3,
+  masteryLevelSlug: "mastery-level/scholar",
   scoredOn: "2026-06-20",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-03-applications-of-mathematics"],

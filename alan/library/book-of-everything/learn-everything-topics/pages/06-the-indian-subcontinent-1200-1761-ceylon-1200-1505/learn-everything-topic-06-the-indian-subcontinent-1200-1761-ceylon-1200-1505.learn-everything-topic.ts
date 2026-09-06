@@ -5,7 +5,7 @@ export const learnEverythingTopic06TheIndianSubcontinent12001761Ceylon12001505 =
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-06-the-indian-subcontinent-1200-1761-ceylon-1200-1505",
   node: "The History of Mankind › East, Central, South, and Southeast Asia › The Indian Subcontinent 1200–1761, Ceylon 1200–1505",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-east-central-south-and-southeast-asia"],

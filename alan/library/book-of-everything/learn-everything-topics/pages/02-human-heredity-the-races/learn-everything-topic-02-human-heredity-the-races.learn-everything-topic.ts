@@ -5,7 +5,7 @@ export const learnEverythingTopic02HumanHeredityTheRaces = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-human-heredity-the-races",
   node: "Human Life › The Development of Human Life › Human Heredity: the Races",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-the-development-of-human-life"],

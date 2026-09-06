@@ -5,7 +5,7 @@ export const learnEverythingTopic09OtherReligionsAndReligiousMovementsInTheModer
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-09-other-religions-and-religious-movements-in-the-modern-world",
   node: "Religion › Particular Religions › Other Religions and Religious Movements in the Modern World",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-particular-religions"],

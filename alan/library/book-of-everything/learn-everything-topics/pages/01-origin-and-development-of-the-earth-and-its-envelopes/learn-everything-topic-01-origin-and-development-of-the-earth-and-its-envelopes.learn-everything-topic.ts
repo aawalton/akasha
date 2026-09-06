@@ -5,7 +5,7 @@ export const learnEverythingTopic01OriginAndDevelopmentOfTheEarthAndItsEnvelopes
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-origin-and-development-of-the-earth-and-its-envelopes",
   node: "The Earth › Earth's History › Origin and Development of the Earth and Its Envelopes",
-  depth: 3,
+  masteryLevelSlug: "mastery-level/scholar",
   scoredOn: "2026-06-19",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-04-earth-s-history"],

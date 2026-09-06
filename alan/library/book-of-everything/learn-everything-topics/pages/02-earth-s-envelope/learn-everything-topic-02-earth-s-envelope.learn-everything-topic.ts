@@ -5,7 +5,7 @@ export const learnEverythingTopic02EarthSEnvelope = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-earth-s-envelope",
   node: "The Earth › Earth's Envelope",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-the-earth"],

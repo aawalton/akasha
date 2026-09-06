@@ -5,7 +5,7 @@ export const learnEverythingTopic03VitalProcessesAtTheMolecularLevel = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-vital-processes-at-the-molecular-level",
   node: "Life on Earth › The Molecular Basis of Life › Vital Processes at the Molecular Level",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-the-molecular-basis-of-life"],

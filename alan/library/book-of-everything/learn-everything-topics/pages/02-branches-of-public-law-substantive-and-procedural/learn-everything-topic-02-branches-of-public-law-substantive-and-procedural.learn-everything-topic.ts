@@ -5,7 +5,7 @@ export const learnEverythingTopic02BranchesOfPublicLawSubstantiveAndProcedural =
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-branches-of-public-law-substantive-and-procedural",
   node: "Human Society › Law › Branches of Public Law, Substantive and Procedural",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-05-law"],

@@ -5,7 +5,7 @@ export const learnEverythingTopic02FormalLogicMetalogicAppliedLogic = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-formal-logic-metalogic-applied-logic",
   node: "The Branches of Knowledge › Logic › Formal Logic, Metalogic, & Applied Logic",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-logic"],

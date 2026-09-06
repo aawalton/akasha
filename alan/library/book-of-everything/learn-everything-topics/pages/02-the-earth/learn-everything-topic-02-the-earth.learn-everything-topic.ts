@@ -5,7 +5,7 @@ export const learnEverythingTopic02TheEarth = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-the-earth",
   node: "The Earth",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["profile"],

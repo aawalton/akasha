@@ -13,11 +13,11 @@ export const topicCoverage = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A leaf's coverage is its own depth.",
+      statement: "A leaf's coverage is the rank of its own mastery level.",
     },
     {
       invariantKind: "departure",
-      statement: "A branch weighs its own depth and the mean of its children equally.",
+      statement: "A branch weighs its own rank and the mean of its children equally.",
     },
     {
       invariantKind: "departure",

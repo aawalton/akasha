@@ -5,7 +5,7 @@ export const learnEverythingTopic01TheNatureAndDiversityOfLife = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-the-nature-and-diversity-of-life",
   node: "Life on Earth › The Nature and Diversity of Life",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-life-on-earth"],

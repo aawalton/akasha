@@ -5,7 +5,7 @@ export const learnEverythingTopic01PeoplesAndCulturesOfTheWorld = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-peoples-and-cultures-of-the-world",
   node: "Human Society › Social Groups: Ethnic groups and Cultures › Peoples and Cultures of the World",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-social-groups-ethnic-groups-and-cultures"],

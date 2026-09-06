@@ -5,7 +5,7 @@ export const learnEverythingTopic04MineralsAndRocks = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-minerals-and-rocks",
   node: "The Earth › Earth's Properties, Structure, Composition › Minerals and Rocks",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-earth-s-properties-structure-composition"],

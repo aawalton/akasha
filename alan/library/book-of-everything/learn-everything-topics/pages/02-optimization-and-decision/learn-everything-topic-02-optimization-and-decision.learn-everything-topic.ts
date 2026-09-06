@@ -5,7 +5,7 @@ export const learnEverythingTopic02OptimizationAndDecision = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-optimization-and-decision",
   node: "The Branches of Knowledge › Mathematics › Applications of Mathematics › Optimization and Decision",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-20",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-applications-of-mathematics"],

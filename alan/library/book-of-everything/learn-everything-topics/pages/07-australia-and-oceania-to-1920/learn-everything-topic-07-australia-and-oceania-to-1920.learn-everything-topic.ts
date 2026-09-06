@@ -5,7 +5,7 @@ export const learnEverythingTopic07AustraliaAndOceaniaTo1920 = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-07-australia-and-oceania-to-1920",
   node: "The History of Mankind › The Modern World to 1920 › Australia and Oceania to 1920",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-06-the-modern-world-to-1920"],

@@ -5,7 +5,7 @@ export const learnEverythingTopic01PoliticalTheory = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-political-theory",
   node: "Human Society › Politics and Government › Political Theory",
-  depth: 3,
+  masteryLevelSlug: "mastery-level/scholar",
   scoredOn: "2026-06-19",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-04-politics-and-government"],

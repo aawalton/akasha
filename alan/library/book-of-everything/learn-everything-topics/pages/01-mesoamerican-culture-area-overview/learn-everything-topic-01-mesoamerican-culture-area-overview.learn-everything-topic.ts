@@ -5,7 +5,7 @@ export const learnEverythingTopic01MesoamericanCultureAreaOverview = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-mesoamerican-culture-area-overview",
   node: "The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Mesoamerican Culture-Area Overview",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-meso-american-civilization-to-ad-1540"],

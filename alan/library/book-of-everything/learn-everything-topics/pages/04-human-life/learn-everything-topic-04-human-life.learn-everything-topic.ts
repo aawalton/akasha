@@ -5,7 +5,7 @@ export const learnEverythingTopic04HumanLife = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-human-life",
   node: "Human Life",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["profile"],

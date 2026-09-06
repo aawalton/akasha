@@ -5,7 +5,7 @@ export const learnEverythingTopic03ApplicationsOfMathematics = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-applications-of-mathematics",
   node: "The Branches of Knowledge › Mathematics › Applications of Mathematics",
-  depth: 3,
+  masteryLevelSlug: "mastery-level/scholar",
   scoredOn: "2026-06-20",
   status: "live",
   partOfSlugs: ["learn-everything-topic-02-mathematics"],

@@ -5,7 +5,7 @@ export const learnEverythingTopic01EconomicConceptsIssuesAndSystems = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-economic-concepts-issues-and-systems",
   node: "Human Society › The Production, Distribution, and Utilization of Wealth › Economic Concepts, Issues, and Systems",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-the-production-distribution-and-utilization-of-wealth"],

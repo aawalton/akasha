@@ -5,7 +5,7 @@ export const learnEverythingTopic05BalanceAndFriction = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-05-balance-and-friction",
   node: "Art › Particular Arts › Game Design › Balance and Friction",
-  depth: 2,
+  masteryLevelSlug: "mastery-level/student",
   scoredOn: "2026-06-25",
   status: "live",
   partOfSlugs: ["learn-everything-topic-10-game-design"],

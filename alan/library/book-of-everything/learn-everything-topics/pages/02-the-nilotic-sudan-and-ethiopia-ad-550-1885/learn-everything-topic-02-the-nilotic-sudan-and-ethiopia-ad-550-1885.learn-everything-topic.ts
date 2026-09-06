@@ -5,7 +5,7 @@ export const learnEverythingTopic02TheNiloticSudanAndEthiopiaAd5501885 = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-the-nilotic-sudan-and-ethiopia-ad-550-1885",
   node: "The History of Mankind › Sub-Saharan Africa to 1885 › The Nilotic Sudan and Ethiopia AD 550–1885",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-04-sub-saharan-africa-to-1885"],

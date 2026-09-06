@@ -5,7 +5,7 @@ export const learnEverythingTopic06MilitaryTechnology = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-06-military-technology",
   node: "Technology › Fields of Technology › Military Technology",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-fields-of-technology"],

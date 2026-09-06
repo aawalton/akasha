@@ -6,7 +6,12 @@ export const bookOfEverything = {
   slug: "book-of-everything",
   definition: "how far into the whole of knowledge Ali has read, node by node",
   manifest: "json",
-  partSlugs: ["page-type/learn-everything-topic", "module/topic-tree", "module/seeded-draw"],
+  partSlugs: [
+    "page-type/learn-everything-topic",
+    "page-type/mastery-level",
+    "module/topic-tree",
+    "module/seeded-draw",
+  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -18,7 +23,7 @@ export const bookOfEverything = {
     },
     {
       invariantKind: "departure",
-      statement: "A node's depth is judged by hand.",
+      statement: "A node's mastery level is judged by hand.",
     },
     {
       invariantKind: "departure",

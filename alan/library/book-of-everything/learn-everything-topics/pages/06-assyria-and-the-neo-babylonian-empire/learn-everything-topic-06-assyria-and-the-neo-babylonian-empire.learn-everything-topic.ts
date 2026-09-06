@@ -5,7 +5,7 @@ export const learnEverythingTopic06AssyriaAndTheNeoBabylonianEmpire = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-06-assyria-and-the-neo-babylonian-empire",
   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa › Assyria and the Neo-Babylonian Empire",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-21",
   status: "unopened",
   partOfSlugs: [

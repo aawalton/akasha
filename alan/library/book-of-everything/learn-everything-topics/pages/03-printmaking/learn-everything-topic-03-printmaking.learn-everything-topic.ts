@@ -5,7 +5,7 @@ export const learnEverythingTopic03Printmaking = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-printmaking",
   node: "Art › Particular Arts › Drawing, Painting, Printmaking, Photography › Printmaking",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-20",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-08-drawing-painting-printmaking-photography"],

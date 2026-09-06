@@ -5,7 +5,7 @@ export const learnEverythingTopic02ReligiousLifeInstitutionsAndPractices = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-religious-life-institutions-and-practices",
   node: "Religion › Religion in General › Religious Life: Institutions and Practices",
-  depth: 4,
+  masteryLevelSlug: "mastery-level/expert",
   scoredOn: "2026-06-19",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-01-religion-in-general"],

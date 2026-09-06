@@ -5,7 +5,7 @@ export const learnEverythingTopic02RelationOfFormAndFunctionInOrganisms = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-relation-of-form-and-function-in-organisms",
   node: "Life on Earth › The Structures and Functions of Organisms › Relation of Form and Function in Organisms",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],

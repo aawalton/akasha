@@ -5,7 +5,7 @@ export const learnEverythingTopic07SoutheastAsiaTo1600 = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-07-southeast-asia-to-1600",
   node: "The History of Mankind › East, Central, South, and Southeast Asia › Southeast Asia to 1600",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-east-central-south-and-southeast-asia"],

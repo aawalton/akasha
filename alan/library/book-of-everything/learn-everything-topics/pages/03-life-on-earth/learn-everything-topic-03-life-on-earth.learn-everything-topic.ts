@@ -5,7 +5,7 @@ export const learnEverythingTopic03LifeOnEarth = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-life-on-earth",
   node: "Life on Earth",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["profile"],

@@ -5,7 +5,7 @@ export const learnEverythingTopic02TechnologyOfToolsAndMachines = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-technology-of-tools-and-machines",
   node: "Technology › Elements of Technology › Technology of Tools and Machines",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-elements-of-technology"],

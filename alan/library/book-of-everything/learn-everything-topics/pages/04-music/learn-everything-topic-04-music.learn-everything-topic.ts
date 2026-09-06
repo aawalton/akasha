@@ -5,7 +5,7 @@ export const learnEverythingTopic04Music = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-music",
   node: "Art › Particular Arts › Music",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-particular-arts"],

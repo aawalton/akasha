@@ -5,7 +5,7 @@ export const learnEverythingTopic03HumanBehaviorAndExperience = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-human-behavior-and-experience",
   node: "Human Life › Human Behavior and Experience",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-04-human-life"],

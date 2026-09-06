@@ -5,7 +5,7 @@ export const learnEverythingTopic06EconomicGrowthAndPlanning = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-06-economic-growth-and-planning",
   node: "Human Society › The Production, Distribution, and Utilization of Wealth › Economic Growth and Planning",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-the-production-distribution-and-utilization-of-wealth"],

@@ -5,7 +5,7 @@ export const learnEverythingTopic02ElementsOfTechnology = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-elements-of-technology",
   node: "Technology › Elements of Technology",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-07-technology"],

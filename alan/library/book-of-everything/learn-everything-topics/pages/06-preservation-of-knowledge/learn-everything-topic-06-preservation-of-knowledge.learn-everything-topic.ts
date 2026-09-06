@@ -5,7 +5,7 @@ export const learnEverythingTopic06PreservationOfKnowledge = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-06-preservation-of-knowledge",
   node: "The Branches of Knowledge › Preservation of Knowledge",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-10-the-branches-of-knowledge"],

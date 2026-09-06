@@ -5,7 +5,7 @@ export const learnEverythingTopic03TechnologyOfMeasurementObservationAndControl 
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-technology-of-measurement-observation-and-control",
   node: "Technology › Elements of Technology › Technology of Measurement, Observation, and Control",
-  depth: 4,
+  masteryLevelSlug: "mastery-level/expert",
   scoredOn: "2026-06-20",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-02-elements-of-technology"],

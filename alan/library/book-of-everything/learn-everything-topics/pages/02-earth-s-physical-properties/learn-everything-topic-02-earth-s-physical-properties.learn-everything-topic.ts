@@ -5,7 +5,7 @@ export const learnEverythingTopic02EarthSPhysicalProperties = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-earth-s-physical-properties",
   node: "The Earth › Earth's Properties, Structure, Composition › Earth's Physical Properties",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-earth-s-properties-structure-composition"],

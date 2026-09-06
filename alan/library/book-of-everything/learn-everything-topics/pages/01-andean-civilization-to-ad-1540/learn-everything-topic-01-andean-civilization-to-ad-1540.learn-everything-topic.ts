@@ -5,7 +5,7 @@ export const learnEverythingTopic01AndeanCivilizationToAd1540 = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-andean-civilization-to-ad-1540",
   node: "The History of Mankind › Pre-Columbian America › Andean Civilization to AD 1540",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-05-pre-columbian-america"],

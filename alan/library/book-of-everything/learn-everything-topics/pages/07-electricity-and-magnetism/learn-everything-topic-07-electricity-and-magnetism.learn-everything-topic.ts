@@ -5,7 +5,7 @@ export const learnEverythingTopic07ElectricityAndMagnetism = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-07-electricity-and-magnetism",
   node: "Matter and Energy › Energy, Radiation, and States of Matter › Electricity and Magnetism",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],

@@ -5,7 +5,7 @@ export const learnEverythingTopic04ExtractionAndConversionOfIndustrialRawMateria
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-extraction-and-conversion-of-industrial-raw-materials",
   node: "Technology › Elements of Technology › Extraction and Conversion of Industrial Raw Materials",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-elements-of-technology"],

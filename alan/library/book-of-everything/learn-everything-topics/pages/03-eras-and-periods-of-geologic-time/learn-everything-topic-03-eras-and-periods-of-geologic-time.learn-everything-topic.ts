@@ -5,7 +5,7 @@ export const learnEverythingTopic03ErasAndPeriodsOfGeologicTime = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-eras-and-periods-of-geologic-time",
   node: "The Earth › Earth's History › Eras and Periods of Geologic Time",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-04-earth-s-history"],

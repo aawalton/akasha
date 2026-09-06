@@ -5,7 +5,7 @@ export const learnEverythingTopic02HumanHealth = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-human-health",
   node: "Human Life › The Human Body: Health and Disease › Human Health",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-02-the-human-body-health-and-disease"],

@@ -5,7 +5,7 @@ export const learnEverythingTopic03DiseaseAndDeath = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-03-disease-and-death",
   node: "Life on Earth › The Biosphere › Disease and Death",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-05-the-biosphere"],

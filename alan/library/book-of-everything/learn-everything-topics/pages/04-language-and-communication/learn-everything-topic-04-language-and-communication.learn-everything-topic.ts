@@ -5,7 +5,7 @@ export const learnEverythingTopic04LanguageAndCommunication = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-language-and-communication",
   node: "Human Society › Social Groups: Ethnic groups and Cultures › Language and Communication",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-01-social-groups-ethnic-groups-and-cultures"],

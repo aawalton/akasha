@@ -5,7 +5,7 @@ export const learnEverythingTopic05TheBiosphere = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-05-the-biosphere",
   node: "Life on Earth › The Biosphere",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-life-on-earth"],

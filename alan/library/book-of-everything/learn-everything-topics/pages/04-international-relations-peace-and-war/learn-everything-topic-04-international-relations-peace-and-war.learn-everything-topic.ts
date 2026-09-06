@@ -5,7 +5,7 @@ export const learnEverythingTopic04InternationalRelationsPeaceAndWar = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-international-relations-peace-and-war",
   node: "Human Society › Politics and Government › International Relations: Peace and War",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-04-politics-and-government"],

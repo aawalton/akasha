@@ -5,7 +5,7 @@ export const learnEverythingTopic06GasExchangeInternalTransportAndElimination = 
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-06-gas-exchange-internal-transport-and-elimination",
   node: "Life on Earth › The Structures and Functions of Organisms › Gas Exchange, Internal Transport, and Elimination",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],

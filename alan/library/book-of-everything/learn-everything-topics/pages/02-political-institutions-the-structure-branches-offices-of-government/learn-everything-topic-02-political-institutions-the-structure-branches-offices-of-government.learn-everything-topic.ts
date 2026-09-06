@@ -5,7 +5,7 @@ export const learnEverythingTopic02PoliticalInstitutionsTheStructureBranchesOffi
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-02-political-institutions-the-structure-branches-offices-of-government",
   node: "Human Society › Politics and Government › Political Institutions: the Structure, Branches, & Offices of Government",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-04-politics-and-government"],

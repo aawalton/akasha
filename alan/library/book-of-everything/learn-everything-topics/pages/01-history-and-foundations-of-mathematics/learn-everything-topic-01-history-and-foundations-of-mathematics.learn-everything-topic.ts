@@ -5,7 +5,7 @@ export const learnEverythingTopic01HistoryAndFoundationsOfMathematics = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-history-and-foundations-of-mathematics",
   node: "The Branches of Knowledge › Mathematics › History and Foundations of Mathematics",
-  depth: 3,
+  masteryLevelSlug: "mastery-level/scholar",
   scoredOn: "2026-06-20",
   status: "resting",
   partOfSlugs: ["learn-everything-topic-02-mathematics"],

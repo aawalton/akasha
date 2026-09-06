@@ -5,7 +5,7 @@ export const learnEverythingTopic07TechnologyOfTheUrbanCommunity = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-07-technology-of-the-urban-community",
   node: "Technology › Fields of Technology › Technology of the Urban Community",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-fields-of-technology"],

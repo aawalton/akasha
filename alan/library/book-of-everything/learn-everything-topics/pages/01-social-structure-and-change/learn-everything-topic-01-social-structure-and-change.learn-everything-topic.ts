@@ -5,7 +5,7 @@ export const learnEverythingTopic01SocialStructureAndChange = {
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-01-social-structure-and-change",
   node: "Human Society › Social Organization and Social Change › Social Structure and Change",
-  depth: 3,
+  masteryLevelSlug: "mastery-level/scholar",
   scoredOn: "2026-06-23",
   status: "live",
   partOfSlugs: ["learn-everything-topic-02-social-organization-and-social-change"],

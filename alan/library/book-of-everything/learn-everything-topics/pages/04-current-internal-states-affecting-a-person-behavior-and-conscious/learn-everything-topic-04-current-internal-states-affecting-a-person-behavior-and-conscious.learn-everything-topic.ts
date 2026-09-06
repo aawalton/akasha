@@ -5,7 +5,7 @@ export const learnEverythingTopic04CurrentInternalStatesAffectingAPersonBehavior
   pageTypeSlug: "learn-everything-topic",
   slug: "learn-everything-topic-04-current-internal-states-affecting-a-person-behavior-and-conscious",
   node: "Human Life › Human Behavior and Experience › Current Internal states affecting a person' behavior and conscious experience",
-  depth: 0,
+  masteryLevelSlug: "mastery-level/novice",
   scoredOn: "2026-06-19",
   status: "unopened",
   partOfSlugs: ["learn-everything-topic-03-human-behavior-and-experience"],
