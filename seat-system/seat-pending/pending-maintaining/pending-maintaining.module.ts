@@ -21,7 +21,7 @@ export const pendingMaintaining = {
     },
     {
       invariantKind: "departure",
-      statement: "Three of the four components are maintained here.",
+      statement: "Every component but the compacting component is maintained here.",
     },
     {
       invariantKind: "departure",
@@ -54,16 +54,19 @@ export const pendingMaintaining = {
     {
       invariantKind: "departure",
       statement:
-        "A transcript settles for its own stretch rather than the one a store settles for.",
+        "A transcript settles for its own stretch rather than the stretch a store settles for.",
     },
     {
       invariantKind: "departure",
-      statement: "A transcript settles for the shorter stretch of the two.",
+      statement: "A transcript settles for the shorter stretch.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "This module writes into no transcript folder, so a transcript run triggers no other.",
+      statement: "This module writes into no transcript folder.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A transcript run triggers no other run.",
     },
     {
       invariantKind: "departure",
