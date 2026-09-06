@@ -42,7 +42,7 @@ const AT = "at"
 
 const APPLY = "apply"
 
-const NO_MESSAGE = "`apply` takes what the commit says, and the message given is empty"
+const NO_MESSAGE = "`apply` takes the commit message, and the message given is empty"
 
 const CHANGE_COMMAND = "change-command"
 
