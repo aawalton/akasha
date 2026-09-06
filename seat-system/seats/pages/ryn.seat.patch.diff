@@ -1,14 +1,19 @@
 readersOweReading: false
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
-index 224342cbc972faeaeb34b0cbde5e48a7e404fc9b..47be4ce185f4ba3d4c8324a1001ef2a31e91be25 100644
+index 224342cbc972faeaeb34b0cbde5e48a7e404fc9b..6356c5f4bccb93dbf768972a0e0f2be7d890e15a 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
-@@ -49,7 +49,7 @@ export const codeEditorDataInterface = {
+@@ -49,11 +49,11 @@ export const codeEditorDataInterface = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "One service writes every one of these files.",
 +      statement: "One service writes every file here.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The editor reads these files and writes none of these files.",
++      statement: "The editor reads these files and writes no file here.",
      },
      {
        invariantKind: "departure",
