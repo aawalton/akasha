@@ -18,7 +18,6 @@ export const learnNext = {
     "the sweep is drawn from a seed written into the code, so the leaf handed back keeps coming back until that leaf is opened.",
     "a leaf is opened where its status is anything other than unopened.",
     "the sweep covers every leaf, so which leaves are opened moves the place reached rather than the order.",
-    "`akasha ali-random-leaf` draws afresh on every call, and the draw here is one order walked through.",
   ],
   invariants: [
     {
