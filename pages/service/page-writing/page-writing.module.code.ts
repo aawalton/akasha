@@ -103,8 +103,8 @@ export function editsIn(asked: Asked): readonly FileEdit[] {
 
 export function messageIn(batch: readonly Asked[]): string {
   const each = batch.map((one) => `${one.message.trim()}\n\n${WRITTEN_BY}${one.writer}`)
-  const one = each[0]
-  if (batch.length === 1 && one !== undefined) return one
+  const first = each[0]
+  if (batch.length === 1 && first !== undefined) return first
   return `${batch.length} writes arrived together, so they land together\n\n${each.join(APART)}`
 }
 
