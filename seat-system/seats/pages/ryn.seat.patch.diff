@@ -1,5 +1,5 @@
 diff --git a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
-index 01a01f5b31e5c4ae98aa58a30a6441efe287ab0c..21ee79239dfce7dc23bd531dfa93e1f212b9a2cc 100644
+index 01a01f5b31e5c4ae98aa58a30a6441efe287ab0c..ac6729a4c372570cdb2e485e54ae53a3288692fd 100644
 --- a/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
 +++ b/editor-extension/vscode-stub/vscode-stub.javascript-module.ts
 @@ -37,8 +37,11 @@ export const vscodeStub = {
@@ -16,3 +16,12 @@ index 01a01f5b31e5c4ae98aa58a30a6441efe287ab0c..21ee79239dfce7dc23bd531dfa93e1f2
      },
      {
        invariantKind: "departure",
+@@ -50,7 +53,7 @@ export const vscodeStub = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "An extension reaches far more of the editor's interface than is named here.",
++      statement: "An extension reaches parts of the editor's interface no page here names.",
+     },
+   ],
+ } as const satisfies JavascriptModule
