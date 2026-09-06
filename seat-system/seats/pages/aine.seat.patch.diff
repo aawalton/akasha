@@ -103,6 +103,97 @@ index 9ff6040d31901ebdc4e40bb64423ccf322ac74f1..b918c29d1c96f8bb3990e5ddd8e69143
    unitSlug: "words",
    chapterText: "md",
  } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/energy-demand/computers.book-section.ts b/alan/books/my-projects/sections/solar-power/energy-demand/computers.book-section.ts
+index 23bf99ebcd13f8cd0fdc509b2abaf066d12a7932..bf9a27e477897eea78143579546426bd8be84028 100644
+--- a/alan/books/my-projects/sections/solar-power/energy-demand/computers.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/energy-demand/computers.book-section.ts
+@@ -7,7 +7,7 @@ export const computers = {
+   title: "12 Gaming Computers",
+   description:
+     "12 high-end gaming PCs — per-system TDP breakdown, moderate vs heavy usage scenarios, annual kWh range, peak coincident draw, year-round flat profile.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["energy-demand"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/energy-demand/hvac.book-section.ts b/alan/books/my-projects/sections/solar-power/energy-demand/hvac.book-section.ts
+index afff5d1d1ff284e3f7d8592777395ecc7cdde57d..dd1d3ca78971a0898ef03f2dbf860578702354e4 100644
+--- a/alan/books/my-projects/sections/solar-power/energy-demand/hvac.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/energy-demand/hvac.book-section.ts
+@@ -7,7 +7,7 @@ export const hvac = {
+   title: "Space Heating + Cooling (Heat Pump)",
+   description:
+     "Heat pump space heating and cooling demand for a 6000 sq ft Provo home — heat-loss math, COP-vs-outdoor-temp integration, well-insulated vs. existing-house cases.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["energy-demand"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/energy-demand/lights-and-plugs.book-section.ts b/alan/books/my-projects/sections/solar-power/energy-demand/lights-and-plugs.book-section.ts
+index 081cad72def9fa10f50b11aded3fed47a3de050d..0cf45712ce747256bed178d1535536952c07b46a 100644
+--- a/alan/books/my-projects/sections/solar-power/energy-demand/lights-and-plugs.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/energy-demand/lights-and-plugs.book-section.ts
+@@ -7,7 +7,7 @@ export const lightsAndPlugs = {
+   title: "Lighting + Plug Loads (non-gaming)",
+   description:
+     "Lighting, non-gaming plug loads, networking, outdoor lighting, garage, and pool/hot-tub/home-lab flag-loads — annual kWh and what pushes them up or down.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["energy-demand"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/energy-demand/self-sufficiency.book-section.ts b/alan/books/my-projects/sections/solar-power/energy-demand/self-sufficiency.book-section.ts
+index 9dc1bafd9d17f9d1ba8c58b6d582170252f911ed..4f40c70d09a7b0c4f1ae3ea5ede278efe030d93c 100644
+--- a/alan/books/my-projects/sections/solar-power/energy-demand/self-sufficiency.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/energy-demand/self-sufficiency.book-section.ts
+@@ -7,7 +7,7 @@ export const selfSufficiency = {
+   title: "Self-Sufficiency Implications",
+   description:
+     "Self-sufficiency analysis — battery autonomy math, winter shortfall problem, generator vs oversize-PV tradeoff, load-shedding hierarchy for the Provo all-electric home.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["energy-demand"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/energy-demand/totals.book-section.ts b/alan/books/my-projects/sections/solar-power/energy-demand/totals.book-section.ts
+index 8e24fd4bd3a47fc9917bcf0accead9f96991716a..28279daf377e0e68c0d75095f3a6a3b4786f2fa8 100644
+--- a/alan/books/my-projects/sections/solar-power/energy-demand/totals.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/energy-demand/totals.book-section.ts
+@@ -7,7 +7,7 @@ export const totals = {
+   title: "Totals",
+   description:
+     "Aggregate annual energy demand, monthly distribution table, peak demand stack, service-panel sizing implications for the all-electric Provo home.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["energy-demand"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/energy-demand/vehicles.book-section.ts b/alan/books/my-projects/sections/solar-power/energy-demand/vehicles.book-section.ts
+index 869fd3349b2f1748530917b4bd0d96efe5371104..d267fa409a4805ef28a20303b9fc1688aff76415 100644
+--- a/alan/books/my-projects/sections/solar-power/energy-demand/vehicles.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/energy-demand/vehicles.book-section.ts
+@@ -7,7 +7,7 @@ export const vehicles = {
+   title: "Two Electric Vehicles",
+   description:
+     "Two long-range BEVs — annual miles, mi/kWh efficiency by model, charging losses, cold-weather penalty, Level 2 charging peak draw, scheduling implications.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["energy-demand"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/energy-demand/water-and-appliances.book-section.ts b/alan/books/my-projects/sections/solar-power/energy-demand/water-and-appliances.book-section.ts
+index 918ff0556b463753adee93137b7bb3cc65565645..f7d9c315b97ce3a5577c8cad9af1e1e8b8f54e93 100644
+--- a/alan/books/my-projects/sections/solar-power/energy-demand/water-and-appliances.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/energy-demand/water-and-appliances.book-section.ts
+@@ -7,7 +7,7 @@ export const waterAndAppliances = {
+   title: "Domestic Hot Water + Appliances",
+   description:
+     "Domestic hot water, induction range, refrigeration, dryer, dishwasher, and miscellaneous kitchen appliances — annual kWh, peak draw, HPWH vs resistance tradeoff.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["energy-demand"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
 diff --git a/alan/books/my-projects/sections/solar-power/envelope.book-section.ts b/alan/books/my-projects/sections/solar-power/envelope.book-section.ts
 index bbcd21d95b46dcf8d5bc74e78632676690f73190..ebcfeb5a6a8cc60aa1e2348969afbe29d2112674 100644
 --- a/alan/books/my-projects/sections/solar-power/envelope.book-section.ts
