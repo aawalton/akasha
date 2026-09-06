@@ -93,3 +93,15 @@ index 845f38c39817aae1aade2ba6130fee4bc7c8f5cd..d243cc7ce3872ae7a736f959abb8750f
    viewPlace: 0,
    viewSorts: [{ key: "rotation-position", descending: true }],
    groupBy: "solo-difficulty",
+diff --git a/pages/views/pages/games-list.view.ts b/pages/views/pages/games-list.view.ts
+index cb12cc0ad8dc4a4512ccc7cc003057778d3febd5..4924873c0f61323bdee28c0801267145a700ce04 100644
+--- a/pages/views/pages/games-list.view.ts
++++ b/pages/views/pages/games-list.view.ts
+@@ -6,6 +6,7 @@ export const gamesList = {
+   slug: "games-list",
+   title: "List",
+   navSlug: "games",
++  pageType: "game",
+   viewPlace: 0,
+   layout: "cards",
+   viewSorts: [{ key: "created-at", descending: true }],
