@@ -71,6 +71,7 @@ export const command = {
     "command/replace",
     "command/restore",
     "command/seat",
+    "command/seat-messaged",
     "command/seat-transcripts",
     "command/subagent-sweep",
     "command/service",
