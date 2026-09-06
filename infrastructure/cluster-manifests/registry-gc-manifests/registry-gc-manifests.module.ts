@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const registryGcManifests = {
   id: "01a073af-3331-7e46-9dcb-a64d98dd4e67",

@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const mirrorBaseImages = {
   id: "01a06865-abff-7014-b7ef-ce7f60e655a8",

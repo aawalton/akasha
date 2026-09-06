@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const seaweedfs = {
   id: "01a06816-68b1-73dc-970e-be70fec533a1",

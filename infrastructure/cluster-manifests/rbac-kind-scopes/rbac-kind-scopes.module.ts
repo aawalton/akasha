@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const rbacKindScopes = {
   id: "01a06860-955d-7020-b4b0-2f44572ca5c9",

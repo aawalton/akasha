@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const postgresAnnualDump = {
   id: "01a06865-c012-7000-8a01-503775ee557e",

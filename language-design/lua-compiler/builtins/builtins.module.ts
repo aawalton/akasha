@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const builtins = {
   id: "01a06758-8ecc-7000-bd44-b5897884195d",

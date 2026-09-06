@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const clusterApi = {
   id: "01a068d4-d2aa-79d4-b241-bf8c8672b7fd",

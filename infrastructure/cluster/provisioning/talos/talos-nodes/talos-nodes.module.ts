@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const talosNodes = {
   id: "01a06813-7b0f-7c4c-b3b8-e5f0a973b73b",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const transpilation = {
   id: "01a06758-8ed2-7000-93e1-ce27921513fb",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const builtinMath = {
   id: "01a06758-8ecd-7000-8612-3b40cf193206",

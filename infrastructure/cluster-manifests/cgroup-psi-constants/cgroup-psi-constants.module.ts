@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const cgroupPsiConstants = {
   id: "01a06810-1262-745b-9921-d2448a38dad3",

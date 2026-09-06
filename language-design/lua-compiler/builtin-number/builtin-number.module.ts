@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const builtinNumber = {
   id: "01a06758-8ece-7000-91d7-80cda0f0d394",

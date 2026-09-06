@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const builtinSymbol = {
   id: "01a06758-8ecf-7001-8cab-6976114d7b0b",

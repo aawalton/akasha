@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seaweedfsRbac = {
   id: "01a06860-955d-7013-a610-dc336fd35734",

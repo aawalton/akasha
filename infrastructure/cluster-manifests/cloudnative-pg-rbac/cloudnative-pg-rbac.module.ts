@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const cloudnativePgRbac = {
   id: "01a06860-955d-7006-a3c6-419fb8ea5b50",

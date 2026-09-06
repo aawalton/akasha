@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const synthManifests = {
   id: "01a06810-0b68-7695-97a7-2d2f26274a9e",

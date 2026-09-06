@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const proxyCore = {
   id: "01a06863-8e7c-73d0-a5a6-6291492430fc",

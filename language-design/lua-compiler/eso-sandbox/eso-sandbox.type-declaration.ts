@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "@akasha/code-system/type-declaration"
+import type { TypeDeclaration } from "@akasha/code/type-declaration"
 
 export const esoSandbox = {
   id: "01a06c82-21b5-74b7-9f92-ab9f244c6e82",

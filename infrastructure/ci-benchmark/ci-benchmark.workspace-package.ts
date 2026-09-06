@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const ciBenchmark = {
   id: "01a0675b-16d8-704b-a679-f300bf41cd88",

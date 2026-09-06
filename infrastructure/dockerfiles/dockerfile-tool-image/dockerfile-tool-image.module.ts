@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const dockerfileToolImage = {
   id: "01a06865-abff-7008-9b28-d4710d8bebb9",

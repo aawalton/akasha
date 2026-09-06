@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const contextTempSymbolId = {
   id: "01a06758-8e6f-7002-b885-482fb21d049f",

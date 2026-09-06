@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const talosctl = {
   id: "01a06813-7b0f-7010-a231-2838cd77ce50",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const rbacYaml = {
   id: "01a06860-955d-701e-aae0-27c0fd9da4fc",

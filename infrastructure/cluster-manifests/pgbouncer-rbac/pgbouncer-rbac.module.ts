@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pgbouncerRbac = {
   id: "01a06860-955d-700e-a40f-80d0c90977ee",

@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const dockerfiles = {
   id: "01a06865-abff-7000-a441-7a4caa49c9d9",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const clusterJobs = {
   id: "01a068d4-d2aa-72e1-bfcb-3e3912d25e2d",

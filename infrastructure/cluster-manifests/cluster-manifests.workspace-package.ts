@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const clusterManifests = {
   id: "01a06810-1263-7296-86ac-72d2a283e164",

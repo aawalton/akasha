@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const lokiService = {
   id: "01a06816-68b1-7121-a3e4-61d3cc74c4c8",

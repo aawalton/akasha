@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const prometheusManifests = {
   id: "01a073af-1ffc-7f13-af2b-01872be66e05",

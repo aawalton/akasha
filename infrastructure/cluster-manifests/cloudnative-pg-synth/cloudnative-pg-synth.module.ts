@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const cloudnativePgSynth = {
   id: "01a06810-1262-73a0-9da5-97719150b83d",

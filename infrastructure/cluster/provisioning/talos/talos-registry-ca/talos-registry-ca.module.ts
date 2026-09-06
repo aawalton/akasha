@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const talosRegistryCa = {
   id: "01a06813-7b0f-77e9-b7be-7c10f95506c1",

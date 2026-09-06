@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const alanwaltonWebRbac = {
   id: "01a06860-955d-7000-bfac-a5a3a5c691a3",

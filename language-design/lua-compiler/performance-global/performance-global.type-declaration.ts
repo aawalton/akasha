@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "@akasha/code-system/type-declaration"
+import type { TypeDeclaration } from "@akasha/code/type-declaration"
 
 export const performanceGlobal = {
   id: "01a06c82-21b6-70be-aed0-9bc2e1d7da47",

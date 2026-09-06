@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seaweedfsBackupManifests = {
   id: "01a06816-68b0-7fd4-bbb3-f018c687f369",

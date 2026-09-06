@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const ciNamespaceSynth = {
   id: "01a06865-c012-7004-a5d1-7e3f9c4a5b04",

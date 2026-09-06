@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const transformation = {
   id: "01a06758-8e72-7000-a9f6-31e417bb363d",

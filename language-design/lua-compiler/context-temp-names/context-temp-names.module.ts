@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const contextTempNames = {
   id: "01a06758-8e6f-7001-90e4-f3d574e37f72",

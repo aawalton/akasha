@@ -1,4 +1,4 @@
-import type { ContainerRecipe } from "@akasha/code-system/container-recipe"
+import type { ContainerRecipe } from "@akasha/code/container-recipe"
 
 export const postgresCnpgImage = {
   id: "01a0685d-ab5d-737f-8ad6-6ecbb49de6e6",

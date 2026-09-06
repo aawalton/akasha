@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tailnetEgressRbac = {
   id: "01a06860-955d-7017-b370-a4a15b03918f",

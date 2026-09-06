@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const audhdalanWebRbac = {
   id: "01a06860-955d-7002-9863-00e228d6aaae",

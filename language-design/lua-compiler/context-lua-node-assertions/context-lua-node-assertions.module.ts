@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const contextLuaNodeAssertions = {
   id: "01a06758-8e6f-7000-a786-11c4103370cf",

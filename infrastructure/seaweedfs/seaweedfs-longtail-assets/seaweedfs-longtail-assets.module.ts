@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seaweedfsLongtailAssets = {
   id: "01a06816-68b1-79f1-80ea-b9139a5ad8ec",

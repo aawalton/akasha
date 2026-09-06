@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const certManagerRbac = {
   id: "01a06860-955d-7004-a130-738e889537d7",

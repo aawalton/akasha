@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const orchestratorCacheLocations = {
   id: "01a06735-dd9c-700a-8ad6-ed91c294657a",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const lokiConstants = {
   id: "01a06816-68b1-78e1-906d-cb209f53a78c",

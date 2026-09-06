@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const promote = {
   id: "01a06865-abff-7015-9700-1d0c47fdac9e",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const talosPaths = {
   id: "01a06813-7b0f-7d70-b1b8-8c7051dcac51",

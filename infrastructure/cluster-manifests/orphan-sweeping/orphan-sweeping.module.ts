@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const orphanSweeping = {
   id: "01a0686a-7a57-75d7-a420-ed74ca10393d",

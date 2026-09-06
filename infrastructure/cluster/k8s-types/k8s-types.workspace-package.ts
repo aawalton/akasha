@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const k8sTypes = {
   id: "01a06735-dd9c-700c-89ca-ed7f38cab9b1",

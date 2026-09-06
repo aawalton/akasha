@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const rbacProfiles = {
   id: "01a06860-955d-701f-aec7-c1f9a35c58d5",

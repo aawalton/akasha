@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const collectionsRbac = {
   id: "01a06860-955d-7007-8fe8-8bb0d4823f03",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const rbacPermissions = {
   id: "01a06860-955d-701d-849a-cac7f36f9047",

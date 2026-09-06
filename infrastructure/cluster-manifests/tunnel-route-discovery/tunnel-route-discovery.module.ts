@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tunnelRouteDiscovery = {
   id: "01a06810-1262-7570-bae6-93d030d82053",

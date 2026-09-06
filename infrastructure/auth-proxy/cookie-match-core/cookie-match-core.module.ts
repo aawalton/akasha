@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const cookieMatchCore = {
   id: "01a06863-8e7c-7c09-8de5-7989e7888711",

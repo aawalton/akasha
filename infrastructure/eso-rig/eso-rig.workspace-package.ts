@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const esoRig = {
   id: "01a06866-58f8-7e5f-853a-325ce7e59667",

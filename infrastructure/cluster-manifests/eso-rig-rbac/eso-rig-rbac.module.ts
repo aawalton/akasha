@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const esoRigRbac = {
   id: "01a06860-955d-7008-a636-05ab4b1fa17d",

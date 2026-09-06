@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const archiveOfWorldsWebRbac = {
   id: "01a06860-955d-7001-8d30-6e4f022b2178",

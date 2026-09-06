@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const synthDrift = {
   id: "01a06810-0b68-7951-a36a-4b0291df9b60",

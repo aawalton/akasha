@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const talosEmitYaml = {
   id: "01a06813-7b0f-7775-b901-70f0a06199e3",

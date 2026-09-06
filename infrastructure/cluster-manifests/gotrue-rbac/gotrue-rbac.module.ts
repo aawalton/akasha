@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const gotrueRbac = {
   id: "01a06860-955d-7009-9c65-99e50a524a19",

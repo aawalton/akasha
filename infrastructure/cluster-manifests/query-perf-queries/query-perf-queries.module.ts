@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const queryPerfQueries = {
   id: "01a06810-1263-7010-b21f-ea922ce881aa",

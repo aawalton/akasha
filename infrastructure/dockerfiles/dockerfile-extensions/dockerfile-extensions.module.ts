@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const dockerfileExtensions = {
   id: "01a06865-abff-7002-982c-70fcb1c90980",

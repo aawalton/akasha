@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const generateCerts = {
   id: "01a0685d-ab5c-76ef-a6d6-06853d055569",

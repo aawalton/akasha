@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const registryGc = {
   id: "01a06865-abff-7016-a63b-674885e86211",

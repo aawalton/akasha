@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const transpileOutputCollector = {
   id: "01a06758-8ed3-7000-9776-842830b4ff4a",

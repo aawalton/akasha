@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const transpileDiagnostics = {
   id: "01a06758-8ed0-7001-8afe-31c1c41ad19f",

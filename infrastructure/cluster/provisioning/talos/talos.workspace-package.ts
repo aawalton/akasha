@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const talos = {
   id: "01a06813-7b0e-79e0-ae0d-60b8f8c4a138",

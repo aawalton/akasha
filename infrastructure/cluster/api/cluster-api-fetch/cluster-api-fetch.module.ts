@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const clusterApiFetch = {
   id: "01a068d4-d2aa-7902-bb36-12d037d7ac6b",

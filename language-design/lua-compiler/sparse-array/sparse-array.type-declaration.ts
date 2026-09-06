@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "@akasha/code-system/type-declaration"
+import type { TypeDeclaration } from "@akasha/code/type-declaration"
 
 export const sparseArray = {
   id: "01a06c82-21b7-7000-a8aa-ec4efb907809",

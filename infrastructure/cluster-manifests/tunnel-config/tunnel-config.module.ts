@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tunnelConfig = {
   id: "01a06865-abff-7030-8fe7-5f70cda3c706",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const transpileEmitFile = {
   id: "01a06758-8ed0-7002-9373-af4ed6123e75",

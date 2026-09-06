@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const luaCompiler = {
   id: "01a06759-2aa6-7004-8e68-88c34898e172",

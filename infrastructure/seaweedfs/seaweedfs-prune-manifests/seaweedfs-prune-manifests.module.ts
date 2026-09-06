@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const seaweedfsPruneManifests = {
   id: "01a06816-68b1-78d7-9f5d-eb0a3b7dc03a",

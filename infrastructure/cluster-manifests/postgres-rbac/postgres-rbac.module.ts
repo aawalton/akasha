@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const postgresRbac = {
   id: "01a06860-955d-7010-b4a7-ccd8e4bac5d4",

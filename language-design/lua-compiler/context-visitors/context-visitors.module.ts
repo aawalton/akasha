@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const contextVisitors = {
   id: "01a06758-8e71-7000-82af-3ef0932fe5e4",

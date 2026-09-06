@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const talosWaitForPort = {
   id: "01a06813-7b0f-7521-9492-72769e9aaf3c",
