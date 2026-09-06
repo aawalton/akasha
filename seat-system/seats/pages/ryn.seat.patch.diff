@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/transaction/monarch-transaction.module.ts b/alan/harness/monarch/transaction/monarch-transaction.module.ts
-index 45f5d6aecfb611ff8768ee41da8bf7416cc078a5..77cf5b3ad8946f25b04f6216ecc8d56b9dddc781 100644
+index 45f5d6aecfb611ff8768ee41da8bf7416cc078a5..a3463dec26df16d0227373c349a7086449a4b115 100644
 --- a/alan/harness/monarch/transaction/monarch-transaction.module.ts
 +++ b/alan/harness/monarch/transaction/monarch-transaction.module.ts
 @@ -16,11 +16,15 @@ export const monarchTransaction = {
@@ -20,3 +20,17 @@ index 45f5d6aecfb611ff8768ee41da8bf7416cc078a5..77cf5b3ad8946f25b04f6216ecc8d56b
      },
      {
        invariantKind: "departure",
+@@ -48,8 +52,11 @@ export const monarchTransaction = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A window is cut from a moment handed in rather than from the clock, so a run can be repeated.",
++      statement: "A window is cut from a moment handed in rather than from the clock.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run can be repeated.",
+     },
+     {
+       invariantKind: "absence",
