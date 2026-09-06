@@ -1,0 +1,40 @@
+import type { ChangeCommand } from "../../change-command.page-type.ts"
+
+export const addFile = {
+  id: "01a07813-6e3b-77c3-9c1e-b0c5778fd31b",
+  pageTypeSlug: "change-command",
+  slug: "add-file",
+  definition: "one body written at one path, judged by the checks a landing runs",
+  code: "ts",
+  test: "ts",
+  isCommand: true,
+  runsChecks: true,
+  readersOweReading: true,
+  writerOwesReading: true,
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "The arguments are read here rather than trusted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An argument this change is handed no value for is refused by name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The body is handed in whole rather than as a passage.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Writing the body is left to the partial this change runs.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No guard runs here.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The checks judge the tree the edits leave.",
+    },
+  ],
+} as const satisfies ChangeCommand
