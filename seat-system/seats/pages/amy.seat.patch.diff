@@ -363,3 +363,48 @@ index e0dfbc4ba9890a43be24c82a9bc1ba9f69e219fa..030240eb1dd12d9af3727f41ba255d0f
  })
  
  test("a reading of zero is a reading rather than an absent one", () => {
+diff --git a/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.ts b/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.ts
+index 04cbeb19e4f8ed7f4accfe2208da028063cc92d8..4f11143f320eea1e30923afe63695b4b70e9f2fe 100644
+--- a/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.ts
++++ b/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.ts
+@@ -4,7 +4,7 @@ export const attributeIntelligence = {
+   id: "01a06838-94d9-7c36-b921-4351c8db6033",
+   pageTypeSlug: "readout",
+   slug: "attribute-intelligence",
+-  definition: "the points Alan earned on a day for the words he added about what he is learning",
++  definition: "the points Alan earned on a day for the learn-everything topics he updated",
+   code: "ts",
+   test: "ts",
+   label: "Intelligence",
+@@ -17,11 +17,11 @@ export const attributeIntelligence = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The reading is the words about Alan's learning turned into points.",
++      statement: "The reading is the learn-everything topics Alan updated turned into points.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Ten thousand words added is one point.",
++      statement: "Four topics updated is one point.",
+     },
+ 
+     {
+@@ -30,7 +30,7 @@ export const attributeIntelligence = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A day carrying no words is no reading rather than an intelligence of zero.",
++      statement: "A day carrying no count is no reading rather than an intelligence of zero.",
+     },
+ 
+     {
+@@ -39,7 +39,7 @@ export const attributeIntelligence = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here counts the words a commit added.",
++      statement: "Nothing here counts the topics a commit updated.",
+     },
+     {
+       invariantKind: "absence",
