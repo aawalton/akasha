@@ -1,0 +1,72 @@
+diff --git a/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.ts b/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..326b721011d3eb931fe01dec18e2a42e09b58529
+--- /dev/null
++++ b/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.ts
+@@ -0,0 +1,66 @@
++import type { Module } from "@akasha/code/module"
++
++export const terminalSeatMarks = {
++  id: "01a0785b-7029-76d8-8899-b5433f4b6af3",
++  pageTypeSlug: "module",
++  slug: "terminal-seat-marks",
++  definition: "the seat a terminal is attached to, stated by the shell attaching it",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "The shell attaching to a seat states that seat rather than a reader working it out.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A mark is beside the terminal's own page, named for that terminal as its page is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A mark is there from just before the attach until the attach returns.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A mark names the pid of the shell and the moment that shell started.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A mark whose pid started at another moment is a mark for a shell that is gone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A shell that ended without clearing its mark leaves a mark reaching no terminal.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A pid used again takes what its own mark states, a mark being named for its pid.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder that cannot be read answers nothing rather than answering no mark.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat named by a mark that is no seat name is no seat.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here asks tmux which client sits on which session.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here walks a parent chain.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here knows which seats exist.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a color.",
++    },
++  ],
++} as const satisfies Module
