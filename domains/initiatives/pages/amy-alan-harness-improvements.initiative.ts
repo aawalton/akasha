@@ -8,18 +8,10 @@ export const amyAlanHarnessImprovements = {
   personaSlug: "amy",
   intents: [
     {
-      statement: "The persona Alan messaged most recently is tracked reliably in the code editor.",
-    },
-    {
       statement:
         "`akasha measure attributes` answers each attribute's total level, floored to two decimals.",
       workingMemory:
-        "The figures are the computed properties the total level of each attribute is worked out from, floored rather than rounded to two decimal places.",
-    },
-    {
-      statement: "An attribute's stoplight shows what that attribute has reached.",
-      workingMemory:
-        "The counter subtracted what a commit removed from what that commit added, so a day spent rewriting scored nothing. It now counts every word added and reads a moved file as a move. Wisdom went from 1,856 to 6,397 and is yellow; intelligence went from 540 to 1,019 and sits under the red rung at 2,500 words. Endurance takes no reading because Alan's watch has sent no active energy since 2026-09-05. Days before today still carry figures the old rule worked out.",
+        "The command answers the reading for the day rather than a total, and every attribute page carries a lifetime of zero, so nothing sums a day into a lifetime yet. The flooring and the two decimal places are done. Each readout's own code holds what one point of that attribute costs, so a total is those daily points added up rather than the arithmetic written again.",
     },
   ],
 } as const satisfies Initiative
