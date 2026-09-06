@@ -8,6 +8,4 @@ export const manaBar = {
   definition: "what my brain has left to start things with",
   parentSlugs: ["resource-bars"],
   relatedSlugs: ["stamina-bar"],
-  unsettled:
-    "Nothing below zero has surfaced for mana. Three readings still fit: there is no territory below zero, or there is and I have not reached it, or I have reached it and the stoplight is too coarse to show it.",
 } as const satisfies AllAboutAlanTopic
