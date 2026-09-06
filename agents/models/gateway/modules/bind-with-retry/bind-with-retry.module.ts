@@ -34,7 +34,7 @@ export const bindWithRetry = {
     },
     {
       invariantKind: "departure",
-      statement: "Retries are spaced by a fixed interval rather than a growing one.",
+      statement: "Retries are spaced by a fixed interval rather than a growing interval.",
     },
     {
       invariantKind: "constraint",
