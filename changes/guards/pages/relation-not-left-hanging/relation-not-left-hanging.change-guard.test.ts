@@ -10,6 +10,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
+import { schemaFiled } from "@akasha/indexes/testing"
 import { NOT_WORKED_OUT } from "@akasha/pages/shadow"
 import { answered, taking } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
@@ -23,7 +24,7 @@ afterAll(scratch.sweep)
 
 const GUARDS = [relationNotLeftHanging]
 
-const BROKEN = "export const held = ((\n"
+const HELD_BODY = "export const held = 1\n"
 
 const SPARK_TYPE = "akasha/spark.page-type.ts"
 
@@ -39,15 +40,29 @@ const MORTAL_TYPE = bodyOf({
   mortal: true,
 })
 
+function brokenRoot(): string {
+  const root = scratch.rootFor("relation-broken-")
+  schemaFiled(root, "text-property", "held", [
+    {
+      pageTypeSlug: "text-property",
+      targetPageTypeSlug: null,
+      unique: null,
+      slug: "held",
+      propertySlug: "held",
+    },
+  ])
+  return root
+}
+
 function takingAway(root: string, path: string): Answer {
   const was = textIn(root)(path) ?? ""
   return guardedBy(root, answered([taking(path, was)]), GUARDS)
 }
 
 test("a shadow that will not build refuses rather than answering no hanging relation", () => {
-  const root = indexedRepo()
+  const root = brokenRoot()
 
-  const said = guardedBy(root, answered([taking(HELD_PAGE, BROKEN)]), GUARDS)
+  const said = guardedBy(root, answered([taking(HELD_PAGE, HELD_BODY)]), GUARDS)
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(NOT_WORKED_OUT)
@@ -56,7 +71,7 @@ test("a shadow that will not build refuses rather than answering no hanging rela
 test("an index that will not read refuses rather than answering no hanging relation", () => {
   const root = scratch.rootFor("relation-no-index-")
 
-  const said = guardedBy(root, answered([taking(HELD_PAGE, "export const held = 1\n")]), GUARDS)
+  const said = guardedBy(root, answered([taking(HELD_PAGE, HELD_BODY)]), GUARDS)
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toContain(NOT_READ)

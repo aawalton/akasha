@@ -8,6 +8,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
+import { schemaFiled } from "@akasha/indexes/testing"
 import { NOT_WORKED_OUT } from "@akasha/pages/shadow"
 import { answered, taking } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
@@ -21,13 +22,25 @@ afterAll(scratch.sweep)
 
 const GUARDS = [importNotLeftHanging]
 
-const BROKEN = "export const held = ((\n"
-
-const HELD_PAGE = "akasha/one/held.module.ts"
+const KEPT_BODY = "export const kept = 1\n"
 
 const SPARE_PAGE = "akasha/three/spare.module.ts"
 
 const SPARE_CODE = "akasha/three/spare.module.code.ts"
+
+function brokenRoot(): string {
+  const root = scratch.rootFor("import-broken-")
+  schemaFiled(root, "text-property", "held", [
+    {
+      pageTypeSlug: "text-property",
+      targetPageTypeSlug: null,
+      unique: null,
+      slug: "held",
+      propertySlug: "held",
+    },
+  ])
+  return root
+}
 
 function spareRepo(): string {
   return indexedRepo({
@@ -49,9 +62,9 @@ function takingAway(root: string, path: string): Answer {
 }
 
 test("a shadow that will not build refuses rather than answering no hanging import", () => {
-  const root = indexedRepo()
+  const root = brokenRoot()
 
-  const said = guardedBy(root, answered([taking(HELD_PAGE, BROKEN)]), GUARDS)
+  const said = guardedBy(root, answered([taking(HELD_CODE, KEPT_BODY)]), GUARDS)
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(NOT_WORKED_OUT)
@@ -60,7 +73,7 @@ test("a shadow that will not build refuses rather than answering no hanging impo
 test("an index that will not read refuses rather than answering no hanging import", () => {
   const root = scratch.rootFor("import-no-index-")
 
-  const said = guardedBy(root, answered([taking(HELD_CODE, "export const kept = 1\n")]), GUARDS)
+  const said = guardedBy(root, answered([taking(HELD_CODE, KEPT_BODY)]), GUARDS)
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toContain(NOT_READ)
