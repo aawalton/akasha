@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/command-system/manifest-locking/manifest-locking.module.ts b/command-system/manifest-locking/manifest-locking.module.ts
-index 2245abe6e1d8b8289ea05d711545420c811fa5f5..ec2fe174eda364ca2a2d2488518032afb1766342 100644
+index 2245abe6e1d8b8289ea05d711545420c811fa5f5..2f2613fcb8c6e08d1ba0c7db5602a3e273aa7b2f 100644
 --- a/command-system/manifest-locking/manifest-locking.module.ts
 +++ b/command-system/manifest-locking/manifest-locking.module.ts
-@@ -19,7 +19,7 @@ export const manifestLocking = {
+@@ -19,11 +19,11 @@ export const manifestLocking = {
      },
      {
        invariantKind: "departure",
 -      statement: "A manifest is one named `package.json` at the root or under a folder.",
 +      statement: "A manifest is a file named `package.json` at the root or under a folder.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A manifest arriving and one going are the same event here.",
++      statement: "A manifest arriving and a manifest going are the same event here.",
      },
      {
        invariantKind: "departure",
