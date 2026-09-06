@@ -34,7 +34,7 @@ index a87980fc09e4875973e1ddc43a32387be5566b39..bc16a12180fdef8b98750ffa77d088ea
    } catch (thrown) {
      return { report: [], refusals: [`nothing was drafted — ${whyOf(thrown)}`], code: 3 }
 diff --git a/command-system/asking/asking.module.test-fixtures.ts b/command-system/asking/asking.module.test-fixtures.ts
-index f651f60dd17d7c2ca8c4fb8fc6b6d2328d530d9a..aed3e293407cb6db932238fd76230030a77cdcda 100644
+index f651f60dd17d7c2ca8c4fb8fc6b6d2328d530d9a..02c3b5b9fdd6b5ae9244775c89723d1a3b2c0bd5 100644
 --- a/command-system/asking/asking.module.test-fixtures.ts
 +++ b/command-system/asking/asking.module.test-fixtures.ts
 @@ -11,11 +11,11 @@ import { put } from "@akasha/testing-system/putting"
@@ -51,6 +51,24 @@ index f651f60dd17d7c2ca8c4fb8fc6b6d2328d530d9a..aed3e293407cb6db932238fd76230030
  
  const ADMITS_AT = "akasha/admits.code-check*"
  
+@@ -236,17 +236,6 @@ export const mechanically = async (root: string): Promise<number> =>
+ 
+ export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
+ 
+-export const ranBy = (runsChecks: boolean, owesReading: boolean): Running =>
+-  runningOf({
+-    ...givenIn(""),
+-    changeKind: {
+-      slug: "held",
+-      runsChecks,
+-      writerOwesReading: owesReading,
+-      readersOweReading: false,
+-    },
+-  })
+-
+ export function seeded(root: string): boolean {
+   const held = [{ path: "akasha/one.ts", was: bytes("committed\n"), body: bytes(PROPOSED) }]
+   return !("why" in drafted(root, SEAT_AT, held))
 diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
 index 17f733ec596a0fdf6df4e49381c51a17542dde69..6aef4f2a8034b12f041a07ff1aaa9feb91bb5f44 100644
 --- a/command-system/drafting/drafting.module.code.ts
