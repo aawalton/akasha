@@ -29,7 +29,8 @@ export const errorsTriage = {
     },
     {
       invariantKind: "departure",
-      statement: "A judgement drawn from an inferred addon is named apart from an attributed one.",
+      statement:
+        "A judgement drawn from an inferred addon is named apart from an attributed addon.",
     },
     {
       invariantKind: "absence",
