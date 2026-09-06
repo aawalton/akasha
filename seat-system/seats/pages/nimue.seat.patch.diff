@@ -9,3 +9,14 @@ index 7263933e154496ae554b50822bf38896c69a78e8..84892ea7787e5fe19074f228bf65cab0
 -  keys: ["slug", "key", "defined-on-slug", "type"],
 +  keys: ["slug", "propertySlug", "pageTypeSlug"],
  } as const satisfies PageQuery
+diff --git a/pages/queries/pages/page-property-definition-all.page-query.ts b/pages/queries/pages/page-property-definition-all.page-query.ts
+index c00f83f093642a3e512e702899ed71836e82f144..cd9631e81eae88aa804af1e152ebe25da5ed4c2c 100644
+--- a/pages/queries/pages/page-property-definition-all.page-query.ts
++++ b/pages/queries/pages/page-property-definition-all.page-query.ts
+@@ -5,5 +5,5 @@ export const pagePropertyDefinitionAll = {
+   pageTypeSlug: "page-query",
+   slug: "page-property-definition-all",
+   asksOfSlug: "page-property",
+-  keys: ["slug", "key", "defined-on-slug", "type"],
++  keys: ["slug", "propertySlug", "pageTypeSlug"],
+ } as const satisfies PageQuery
