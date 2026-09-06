@@ -17,7 +17,7 @@ export const spawnCeiling = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal for the ceiling is told apart from any other by its own name.",
+      statement: "A refusal for the ceiling is told apart from any other refusal by its own name.",
     },
   ],
 } as const satisfies Module
