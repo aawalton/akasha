@@ -26,7 +26,7 @@ export const seatCall = {
     },
     {
       invariantKind: "departure",
-      statement: "A line left off would read as an empty value rather than an absent one.",
+      statement: "A line left off would read as an empty value rather than an absent value.",
     },
     {
       invariantKind: "departure",
