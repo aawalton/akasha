@@ -12,6 +12,7 @@ import {
   writing,
 } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../modules/change-answer/change-answer.module.types.ts"
+import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
 
 type Spot = {
   readonly start: number
@@ -59,4 +60,15 @@ export function respelled(
     edits.push(writing(path, text, body))
   }
   return answered(edits)
+}
+
+export type Given = {
+  readonly at: string
+  readonly over: readonly string[]
+  readonly of: string
+  readonly to: string
+}
+
+export function runChange(world: World, given: Given): Answer {
+  return respelled(world.root, given.at, given.over, given.of, given.to, world.textOf)
 }

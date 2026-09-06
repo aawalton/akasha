@@ -1,7 +1,13 @@
 import { basename, dirname, extname, join, relative } from "node:path"
 import { landingOf, placedIn, spelledIn } from "@akasha/code/code-specifier"
-import { answered, moving, writing } from "../../modules/change-answer/change-answer.module.code.ts"
+import {
+  answered,
+  moving,
+  refusing,
+  writing,
+} from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
 
 const GENERATED = "+types"
 
@@ -76,4 +82,18 @@ export function repointed(
   }
   const body = `${out}${text.slice(at)}`
   return answered([was === now ? writing(now, text, body) : moving(was, now, text, body)])
+}
+
+// The paths that moved arrive as a plain object rather than a map, so an address reaches this
+// change with arguments a command line and a caller in code can both spell.
+export type Given = {
+  readonly was: string
+  readonly now: string
+  readonly moved: Readonly<Record<string, string>>
+}
+
+export function runChange(world: World, given: Given): Answer {
+  const text = world.textOf(given.was)
+  if (text === null) return refusing(`\`${given.was}\` holds no body, so nothing is repointed`)
+  return repointed(given.was, given.now, text, new Map(Object.entries(given.moved)))
 }

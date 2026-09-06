@@ -6,6 +6,7 @@ import {
   writing,
 } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
+import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
@@ -236,4 +237,18 @@ export function renameLocalVariable(path: string, text: string, given: Asked): A
     body = body.slice(0, from) + put + body.slice(one.getEnd())
   }
   return answered([writing(path, text, body)])
+}
+
+// The offset is `spot` rather than `at`, because `at` names the path a change acts on everywhere a
+// change is reached by address.
+export type Given = {
+  readonly at: string
+  readonly spot: number
+  readonly to: string
+}
+
+export function runChange(world: World, given: Given): Answer {
+  const text = world.textOf(given.at)
+  if (text === null) return refusing(`\`${given.at}\` holds no body, so nothing is renamed`)
+  return renameLocalVariable(given.at, text, { at: given.spot, to: given.to })
 }
