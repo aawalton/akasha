@@ -7,7 +7,9 @@ export const codeSystem = {
   definition: "how we write what runs",
   manifest: "json",
   partSlugs: [
+    "domain/code-audit-ast-unused",
     "page-type/component",
+    "page-type/flag",
     "page-type/module",
     "page-type/container-recipe",
     "page-type/python-module",
