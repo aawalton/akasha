@@ -6,4 +6,11 @@ export const amyAlanHarnessImprovements = {
   slug: "amy-alan-harness-improvements",
   domainSlug: "domain/alan-harness",
   personaSlug: "amy",
+  intents: [
+    {
+      statement: "The Safety widget shows its number whatever that number is.",
+      workingMemory:
+        "Alan's version and Jenny's version both. The number is hidden at 4 and above today. Where the stoplight is drawn among other stoplights in a readout group it goes on hiding the number, so the two drawings differ in this and the rule belongs to the widget rather than to the stoplight.",
+    },
+  ],
 } as const satisfies Initiative
