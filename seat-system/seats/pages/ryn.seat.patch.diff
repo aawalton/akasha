@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/git/git-pushing/git-pushing.module.ts b/git/git-pushing/git-pushing.module.ts
+index f467085862cff1f88428c232cdb76b8a2815993e..73497415bcde919af4237094aa3059bfac88ae7f 100644
+--- a/git/git-pushing/git-pushing.module.ts
++++ b/git/git-pushing/git-pushing.module.ts
+@@ -15,7 +15,8 @@ export const gitPushing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The remote is the one the branch tracks, or the first the checkout names.",
++      statement:
++        "The remote is the remote the branch tracks or the first remote the checkout names.",
+     },
+     {
+       invariantKind: "departure",
