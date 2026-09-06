@@ -142,6 +142,18 @@ index 6d18847e6a086014f0f5bea02980af89ab125ffb..579c24e3187cd9226ce5833891859648
 -  resourceKey: "DASHBOARD_USERNAME",
 +  placements: [{ resourceName: "supabase-studio-secrets", resourceKey: "DASHBOARD_USERNAME" }],
  } as const satisfies Secret
+diff --git a/service-system/secrets/pages/supabase-studio-secrets-database-url.secret.ts b/service-system/secrets/pages/supabase-studio-secrets-database-url.secret.ts
+index 748d261d3544ac8a694a7f5ce0d624487d911bea..39e447874e0d20946e59b7f5189bd0012978b9df 100644
+--- a/service-system/secrets/pages/supabase-studio-secrets-database-url.secret.ts
++++ b/service-system/secrets/pages/supabase-studio-secrets-database-url.secret.ts
+@@ -4,6 +4,5 @@ export const supabaseStudioSecretsDatabaseUrl = {
+   id: "01a06832-cf2d-708e-bb93-5dc6d58ee786",
+   pageTypeSlug: "secret",
+   slug: "supabase-studio-secrets-database-url",
+-  resourceName: "supabase-studio-secrets",
+-  resourceKey: "DATABASE_URL",
++  placements: [{ resourceName: "supabase-studio-secrets", resourceKey: "DATABASE_URL" }],
+ } as const satisfies Secret
 diff --git a/service-system/secrets/properties/placements.record-property.ts b/service-system/secrets/properties/placements.record-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..a5169276a8d50bbdb85c294495da1c201c0cf4d2
