@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-minimal-dose-breakfast-cost.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-minimal-dose-breakfast-cost.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..304a6c21720a8ff99dd6318b79f0e935ac86fa07
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-the-minimal-dose-breakfast-cost.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTheMinimalDoseBreakfastCost = {
++  id: "01a077f0-49e9-703f-b596-e260f12d4b29",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-the-minimal-dose-breakfast-cost",
++  topicSlug: "when-i-lost-who-i-was",
++  ask: "What did the minimal-dose breakfast cost me, did the controls hold, and what did the aftershock look like? Nobody wrote any of that down.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-firing-carries-a-fresh-encoding-signature.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-firing-carries-a-fresh-encoding-signature.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ed5710eb115440239d6b81ca40b7586c63ede32d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-firing-carries-a-fresh-encoding-signature.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheFiringCarriesAFreshEncodingSignature = {
++  id: "01a077f0-49ea-7d89-b044-6cf376623721",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-firing-carries-a-fresh-encoding-signature",
++  topicSlug: "when-i-lost-who-i-was",
++  ask: "Does the firing carry the fresh-encoding signature, and what cues set the firing off?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-tie-with-nick-has-a-repair-path.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-tie-with-nick-has-a-repair-path.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..16b3e870bd1a534d09a33992433f4333e5bef9c5
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-tie-with-nick-has-a-repair-path.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheTieWithNickHasARepairPath = {
++  id: "01a077f0-49e9-7b3c-9068-a1c98ad6be37",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-tie-with-nick-has-a-repair-path",
++  topicSlug: "when-i-lost-who-i-was",
++  ask: "Does the relationship with Nick have a repair path, and do I want one? Asking only where the relationship is now brought me near tears, so I pace this.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-identities-survived-the-collapse.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-identities-survived-the-collapse.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7ac469045665224738659bf015bbaddb008b7214
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-identities-survived-the-collapse.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichIdentitiesSurvivedTheCollapse = {
++  id: "01a077f0-49e8-7957-b19f-e3af489f455c",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-identities-survived-the-collapse",
++  topicSlug: "when-i-lost-who-i-was",
++  ask: "Which identities survived, and how were they rebuilt or replaced after? My record stops at what fell.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/when-i-lost-who-i-was.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/when-i-lost-who-i-was.all-about-alan-topic.ts
+index eea9fdf3203d0ab38b0d2e8ec07e502be6cb6137..f44a003f6be33344946ee58eba74812630015662 100644
+--- a/alan/books/all-about-alan/topics/pages/when-i-lost-who-i-was.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/when-i-lost-who-i-was.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const whenILostWhoIWas = {
+   parentSlugs: ["alan"],
+   settled:
+     "At least eighty percent of my identities fell at once, twelve of them named.\n\nEvery close tie but Jen ran through the company, so the firing took the work and the people in one stroke.\n\nBeing fired broke my sense of self, and it was worse than any physical beating.\n\nTalking to the one friend still on good terms costs about two days in bed afterwards.",
+-  unsettled:
+-    "Which identities survived, and how they were rebuilt or replaced after, is uncaptured. The record stops at what fell.\n\nWhether the relationship with Nick has a repair path, and whether I want one, is unsettled and paced: asking only where it stands brought me near tears.\n\nWhat the minimal-dose breakfast cost, whether the controls held and what the aftershock looked like, was never written down.\n\nWhether the firing carries the fresh-encoding signature, and what cues set it off, is a residual.",
+ } as const satisfies AllAboutAlanTopic
