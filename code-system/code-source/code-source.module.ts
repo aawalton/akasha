@@ -10,10 +10,6 @@ export const codeSource = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "One parse serves every body read as TypeScript here.",
-    },
-    {
-      invariantKind: "departure",
       statement:
         "Whether a node can be asked for its parent is named rather than passed as a bare flag.",
     },
