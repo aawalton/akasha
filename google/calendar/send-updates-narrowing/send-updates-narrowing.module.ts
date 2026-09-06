@@ -13,7 +13,7 @@ export const sendUpdatesNarrowing = {
     },
     {
       invariantKind: "departure",
-      statement: "Saying nothing about send-updates is not saying none.",
+      statement: "Saying nothing about send-updates is not asking for `none`.",
     },
   ],
 } as const satisfies Module
