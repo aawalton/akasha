@@ -10,6 +10,4 @@ export const gettingBackToMakingWithMyHands = {
   parentSlugs: ["where-the-scar-ends"],
   relatedSlugs: ["playing-again", "what-a-persona-makes-cheaper"],
   settled: "The gate has correctly kept me out, so there is no attempt to learn from.",
-  unsettled:
-    "What is mine is that the maker is less buried than before and some edges are surfacing. Whether the image work, the storytelling and the souls count as maker channels is unconfirmed.\n\nWhich doorway costs least — drawing, Lego, quilting — cannot be worked out from outside. Only going in and looking would produce anything, and nobody has.",
 } as const satisfies AllAboutAlanTopic
