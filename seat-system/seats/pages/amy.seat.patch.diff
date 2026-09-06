@@ -11,3 +11,13 @@ index 0bd8666fb79eb141a5e5d5946eec279c8d25d39d..70fda391cb94252d2243d37de5b46b98
    filters: [{ propertyId: "favoritedAt", operator: "is_not_empty" }],
    sorts: [{ field: "favoritedAt", direction: "desc" }],
    limit: 100,
+diff --git a/pages/core/schema/cross-type-predicates/cross-type-predicates.module.ts b/pages/core/schema/cross-type-predicates/cross-type-predicates.module.ts
+index 08f938473586f5a80cd393a94a018620334cfad6..a63cca532ffde4ef8c90fb8084bba5cd6a912099 100644
+--- a/pages/core/schema/cross-type-predicates/cross-type-predicates.module.ts
++++ b/pages/core/schema/cross-type-predicates/cross-type-predicates.module.ts
+@@ -6,4 +6,5 @@ export const crossTypePredicates = {
+   slug: "cross-type-predicates",
+   definition: "a preset defining a smart list of pages across all types",
+   code: "ts",
++  test: "ts",
+ } as const satisfies Module
