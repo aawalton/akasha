@@ -58,16 +58,15 @@ index 0000000000000000000000000000000000000000..e3d47ca929ac339c1a014b5c76c4f64f
 +} as const satisfies PageType
 diff --git a/changes/runners/properties/addressed.named-file-property.ts b/changes/runners/properties/addressed.named-file-property.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..76497ca0a1fb695237c43c0ddb64501988fe7e32
+index 0000000000000000000000000000000000000000..4b7a1fe5b5fd02d6721468f1dd4d1a3a14c9bce8
 --- /dev/null
 +++ b/changes/runners/properties/addressed.named-file-property.ts
-@@ -0,0 +1,44 @@
+@@ -0,0 +1,43 @@
 +import type { NamedFileProperty } from "@akasha/pages/named-file-property"
 +
 +export type Addressed = "ts"
 +
 +export const addressed = {
-+  id: "01a077c1-adf8-7368-b7fd-5bc4e6b1f2fc",
 +  pageTypeSlug: "named-file-property",
 +  slug: "addressed",
 +  propertySlug: "addressed",
@@ -78,11 +77,11 @@ index 0000000000000000000000000000000000000000..76497ca0a1fb695237c43c0ddb645019
 +  invariants: [
 +    {
 +      invariantKind: "departure",
-+      statement: "A runner states this property, and the map is beside that runner's page.",
++      statement: "The map is beside the page of the runner stating this property.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "The file this holds is written by a command rather than by an author.",
++      statement: "The map is written by a command rather than by an author.",
 +    },
 +    {
 +      invariantKind: "departure",
@@ -90,11 +89,11 @@ index 0000000000000000000000000000000000000000..76497ca0a1fb695237c43c0ddb645019
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "The map binds an address to the arguments the change's own function takes.",
++      statement: "The map binds an address to the arguments the change takes.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "The map reads each signature rather than restating one.",
++      statement: "The map reads a change's signature rather than restating that signature.",
 +    },
 +    {
 +      invariantKind: "departure",
