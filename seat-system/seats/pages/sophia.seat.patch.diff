@@ -1,0 +1,12 @@
+diff --git a/command-system/commands/remove/remove.command.test-fixtures.ts b/command-system/commands/remove/remove.command.test-fixtures.ts
+index a3b43f2fa2edbb07cb459c2a1a04f83be007a9b1..6a887384713152e9f1cbc1571505f3f48cbe79fa 100644
+--- a/command-system/commands/remove/remove.command.test-fixtures.ts
++++ b/command-system/commands/remove/remove.command.test-fixtures.ts
+@@ -1,6 +1,7 @@
+ import { lstatSync, mkdirSync, readFileSync, symlinkSync, writeFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { said as gitIn } from "@akasha/git/git-running"
++import { noImportersFiled } from "@akasha/indexes/testing"
+ import { admitting } from "@akasha/testing-system/minting"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+ import { baseOf } from "../../landing/landing.module.code.ts"
