@@ -1,3 +1,16 @@
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index bc16a12180fdef8b98750ffa77d088ea3d62129f..993ab13a1ad763b9bf612ee9cdac3a8f683c25c5 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -412,7 +412,7 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer>
+   }
+   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
+   recordLanded(given, formatting.changes)
+-  carryLanded(given, base, held.changes, held.readings ?? [])
++  carryLanded(given.root, base, runningOf(given.changeKind), held.changes, held.readings ?? [])
+   const put = installingIn(given.root, held.changes)
+   return {
+     report: reported(counted, said, {
 diff --git a/command-system/landing-reading/landing-reading.module.code.ts b/command-system/landing-reading/landing-reading.module.code.ts
 index 4e755ebf17e52c0c65cae403ca418e95ddcc9cb3..d081cb2820ec5059c134e66f5eada556dcac1623 100644
 --- a/command-system/landing-reading/landing-reading.module.code.ts
