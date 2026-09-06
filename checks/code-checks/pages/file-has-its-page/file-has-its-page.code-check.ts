@@ -18,11 +18,11 @@ export const fileHasItsPage = {
     },
     {
       invariantKind: "departure",
-      statement: "A move repoints no import to such a file and reports none left behind.",
+      statement: "A move repoints no import to such a file and reports no import left behind.",
     },
     {
       invariantKind: "constraint",
-      statement: "A phase judging every file in the tree reaches such a file like any other.",
+      statement: "A phase judging every file in the tree reaches such a file like a claimed file.",
     },
     {
       invariantKind: "departure",
