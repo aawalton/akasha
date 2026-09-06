@@ -1,3 +1,16 @@
+diff --git a/person-system/people/email/email-rules/email-rule.page-type.ts b/person-system/people/email/email-rules/email-rule.page-type.ts
+index 6e42c9d3703adee9a502fb1356219aa6d3e7dd25..4f55c622252d6674d9f605403526de4d9be09407 100644
+--- a/person-system/people/email/email-rules/email-rule.page-type.ts
++++ b/person-system/people/email/email-rules/email-rule.page-type.ts
+@@ -16,6 +16,8 @@ export const emailRule = {
+   pluralSlug: "email-rules",
+   extendsSlug: ["page-type/page"],
+   partSlugs: [
++    "page-type/email-rule-agent",
++    "page-type/email-rule-code",
+     "record-property/email-rule-matches",
+     "select-property/email-rule-match-comparison",
+     "select-property/email-rule-match-field",
 diff --git a/person-system/people/email/email.domain.ts b/person-system/people/email/email.domain.ts
 index 8361a36791233670dbe5be467d5f0fe544eb2d30..17e304f7c7d5940dd8ca35ff2ec2f7003fde9a86 100644
 --- a/person-system/people/email/email.domain.ts
