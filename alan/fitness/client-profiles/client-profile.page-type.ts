@@ -1,7 +1,7 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../pages/properties/title.text-property.ts"
-import type { Bodyweight } from "./properties/bodyweight.number-property.ts"
+import type { Bodyweight } from "../../../person-system/people/properties/bodyweight.number-property.ts"
 
 export type ClientProfile = Page & {
   title: Title
@@ -15,7 +15,7 @@ export const clientProfile = {
   definition: "what the coach knows about the body she is training",
   pluralSlug: "client-profiles",
   extendsSlug: ["page-type/page"],
-  partSlugs: ["number-property/bodyweight"],
+  partSlugs: [],
   properties: [
     { pagePropertySlug: "text-property/title", required: true, many: false },
     { pagePropertySlug: "number-property/bodyweight", required: false, many: false },

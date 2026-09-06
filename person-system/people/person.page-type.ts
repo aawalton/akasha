@@ -20,6 +20,7 @@ export const person = {
   pluralSlug: "people",
   extendsSlug: ["page-type/domain"],
   partSlugs: [
+    "number-property/bodyweight",
     "person/alan",
     "person/david",
     "person/jenny",
