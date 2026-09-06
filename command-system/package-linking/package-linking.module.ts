@@ -35,8 +35,7 @@ export const packageLinking = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name resolves to the link that was there or the one arriving, never to neither.",
+      statement: "A name resolves to the link that was there or to the link arriving.",
     },
     {
       invariantKind: "departure",
