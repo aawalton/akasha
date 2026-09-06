@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/car-research/cars/car.page-type.ts b/alan/car-research/cars/car.page-type.ts
+index aae77967eca8813b458fba9f325da74923e22e21..9855bcce1a25ebd4c0e2902da46364ae53c1db30 100644
+--- a/alan/car-research/cars/car.page-type.ts
++++ b/alan/car-research/cars/car.page-type.ts
+@@ -33,7 +33,7 @@ export const car = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Every page type naming a level of a maker's catalogue builds on this one.",
++      statement: "Every page type naming a level of a maker's catalogue builds on this page type.",
+     },
+     {
+       invariantKind: "departure",
