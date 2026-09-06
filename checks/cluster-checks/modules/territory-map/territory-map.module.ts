@@ -9,7 +9,7 @@ export const territoryMap = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A map naming no addon is refused rather than read as a map naming none.",
+      statement: "A map naming no addon is refused rather than read as an empty map.",
     },
     {
       invariantKind: "departure",
