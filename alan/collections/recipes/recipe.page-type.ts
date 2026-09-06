@@ -13,5 +13,5 @@ export const recipe = {
   definition: "a dish Alan cooks",
   pluralSlug: "recipes",
   extendsSlug: ["page-type/collection"],
-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
 } as const satisfies PageType

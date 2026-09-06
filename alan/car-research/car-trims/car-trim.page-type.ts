@@ -17,8 +17,8 @@ export const carTrim = {
   extendsSlug: ["page-type/car"],
   partSlugs: ["relation-property/car-year-slug"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "car-year-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/car-year-slug", required: true, many: false },
   ],
   invariants: [
     {

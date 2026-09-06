@@ -25,10 +25,10 @@ export const scheduleDay = {
     "select-property/focus",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "day-of-week", required: true, many: false },
-    { pagePropertySlug: "focus", required: true, many: false },
-    { pagePropertySlug: "schedule-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "select-property/day-of-week", required: true, many: false },
+    { pagePropertySlug: "select-property/focus", required: true, many: false },
+    { pagePropertySlug: "relation-property/schedule-slug", required: true, many: false },
   ],
   invariants: [
     {

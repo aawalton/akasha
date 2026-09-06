@@ -19,9 +19,9 @@ export const allAboutAlanModel = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["file-property/simulation"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "definition", required: true, many: false },
-    { pagePropertySlug: "simulation", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/definition", required: true, many: false },
+    { pagePropertySlug: "file-property/simulation", required: false, many: false },
   ],
   invariants: [
     {

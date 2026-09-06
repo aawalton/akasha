@@ -19,9 +19,9 @@ export const allAboutAlanExperiment = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["file-property/line-set"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "definition", required: true, many: false },
-    { pagePropertySlug: "line-set", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/definition", required: true, many: false },
+    { pagePropertySlug: "file-property/line-set", required: false, many: false },
   ],
   invariants: [
     {

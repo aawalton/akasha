@@ -25,10 +25,10 @@ export const car = {
     "text-property/sources",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "short-list", required: false, many: false },
-    { pagePropertySlug: "sources", required: false, many: false },
-    { pagePropertySlug: "exclusion-reason", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "boolean-property/short-list", required: false, many: false },
+    { pagePropertySlug: "text-property/sources", required: false, many: false },
+    { pagePropertySlug: "text-property/exclusion-reason", required: false, many: false },
   ],
   invariants: [
     {

@@ -27,8 +27,8 @@ export const attribute = {
     "text-property/point-unit",
   ],
   properties: [
-    { pagePropertySlug: "point-unit", required: true, many: false },
-    { pagePropertySlug: "lifetime-points", required: true, many: false },
+    { pagePropertySlug: "text-property/point-unit", required: true, many: false },
+    { pagePropertySlug: "number-property/lifetime-points", required: true, many: false },
   ],
   invariants: [
     {

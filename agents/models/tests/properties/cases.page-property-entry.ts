@@ -9,9 +9,9 @@ export const cases = {
   propertySlug: "cases",
   definition: "the labelled texts a prompt is judged by",
   properties: [
-    { pagePropertySlug: "case-page", required: true, many: false },
-    { pagePropertySlug: "definition", required: true, many: false },
-    { pagePropertySlug: "case-statement", required: true, many: false },
-    { pagePropertySlug: "case-answer", required: true, many: false },
+    { pagePropertySlug: "relation-property/case-page", required: true, many: false },
+    { pagePropertySlug: "text-property/definition", required: true, many: false },
+    { pagePropertySlug: "text-property/case-statement", required: true, many: false },
+    { pagePropertySlug: "text-property/case-answer", required: true, many: false },
   ],
 } as const satisfies PagePropertyEntry

@@ -25,10 +25,10 @@ export const chessReviewSession = {
     "relation-property/chess-game-slug",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "chess-game-slug", required: true, many: false },
-    { pagePropertySlug: "reviewed-at", required: true, many: false },
-    { pagePropertySlug: "chess-review-session-notes", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/chess-game-slug", required: true, many: false },
+    { pagePropertySlug: "instant-property/reviewed-at", required: true, many: false },
+    { pagePropertySlug: "file-property/chess-review-session-notes", required: true, many: false },
   ],
   invariants: [
     {

@@ -22,9 +22,13 @@ export const workoutSchedule = {
     "text-property/workout-schedule-description",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "workout-schedule-active", required: true, many: false },
-    { pagePropertySlug: "workout-schedule-description", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "boolean-property/workout-schedule-active", required: true, many: false },
+    {
+      pagePropertySlug: "text-property/workout-schedule-description",
+      required: false,
+      many: false,
+    },
   ],
   invariants: [
     {

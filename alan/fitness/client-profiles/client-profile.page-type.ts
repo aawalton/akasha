@@ -17,8 +17,8 @@ export const clientProfile = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["number-property/bodyweight"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "bodyweight", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "number-property/bodyweight", required: false, many: false },
   ],
   invariants: [
     {

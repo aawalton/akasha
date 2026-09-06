@@ -36,13 +36,21 @@ export const mobilityReading = {
     "text-property/mobility-reading-value-text",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "context", required: true, many: false },
-    { pagePropertySlug: "mobility-reading-date", required: true, many: false },
-    { pagePropertySlug: "mobility-reading-metric", required: true, many: false },
-    { pagePropertySlug: "side", required: true, many: false },
-    { pagePropertySlug: "mobility-reading-value-num", required: false, many: false },
-    { pagePropertySlug: "mobility-reading-value-text", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "select-property/context", required: true, many: false },
+    {
+      pagePropertySlug: "calendar-date-property/mobility-reading-date",
+      required: true,
+      many: false,
+    },
+    { pagePropertySlug: "select-property/mobility-reading-metric", required: true, many: false },
+    { pagePropertySlug: "select-property/side", required: true, many: false },
+    {
+      pagePropertySlug: "number-property/mobility-reading-value-num",
+      required: false,
+      many: false,
+    },
+    { pagePropertySlug: "text-property/mobility-reading-value-text", required: true, many: false },
     { pagePropertySlug: "text-property/note", required: false, many: false },
   ],
   invariants: [

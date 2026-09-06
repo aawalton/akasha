@@ -20,5 +20,5 @@ export const modelFamily = {
     "text-property/model-name",
   ],
   extendsSlug: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "model-name", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/model-name", required: true, many: false }],
 } as const satisfies PageType

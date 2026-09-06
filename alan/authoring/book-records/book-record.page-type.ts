@@ -31,12 +31,12 @@ export const bookRecord = {
     "text-property/record-brief",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "definition", required: true, many: false },
-    { pagePropertySlug: "record-book-slug", required: true, many: false },
-    { pagePropertySlug: "record-brief", required: false, many: false },
-    { pagePropertySlug: "kept-by", required: false, many: false },
-    { pagePropertySlug: "writing", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/definition", required: true, many: false },
+    { pagePropertySlug: "text-property/record-book-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/record-brief", required: false, many: false },
+    { pagePropertySlug: "text-property/kept-by", required: false, many: false },
+    { pagePropertySlug: "file-property/writing", required: true, many: false },
   ],
   invariants: [
     {

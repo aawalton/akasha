@@ -37,14 +37,14 @@ export const carModel = {
     "text-property/segment",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "body-style", required: true, many: false },
-    { pagePropertySlug: "generation", required: true, many: false },
-    { pagePropertySlug: "model-years-available", required: true, many: false },
-    { pagePropertySlug: "overview", required: true, many: false },
-    { pagePropertySlug: "powertrain-options", required: true, many: true, max: null },
-    { pagePropertySlug: "segment", required: true, many: false },
-    { pagePropertySlug: "car-make-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/body-style", required: true, many: false },
+    { pagePropertySlug: "text-property/generation", required: true, many: false },
+    { pagePropertySlug: "text-property/model-years-available", required: true, many: false },
+    { pagePropertySlug: "text-property/overview", required: true, many: false },
+    { pagePropertySlug: "text-property/powertrain-options", required: true, many: true, max: null },
+    { pagePropertySlug: "text-property/segment", required: true, many: false },
+    { pagePropertySlug: "relation-property/car-make-slug", required: true, many: false },
   ],
   invariants: [
     {

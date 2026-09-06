@@ -30,12 +30,22 @@ export const allAboutAlanTopic = {
     "text-property/topic-unsettled",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "definition", required: true, many: false },
-    { pagePropertySlug: "topic-parent-slugs", required: false, many: true, max: null },
-    { pagePropertySlug: "topic-related-slugs", required: false, many: true, max: null },
-    { pagePropertySlug: "topic-settled", required: false, many: false },
-    { pagePropertySlug: "topic-unsettled", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/definition", required: true, many: false },
+    {
+      pagePropertySlug: "relation-property/topic-parent-slugs",
+      required: false,
+      many: true,
+      max: null,
+    },
+    {
+      pagePropertySlug: "relation-property/topic-related-slugs",
+      required: false,
+      many: true,
+      max: null,
+    },
+    { pagePropertySlug: "text-property/topic-settled", required: false, many: false },
+    { pagePropertySlug: "text-property/topic-unsettled", required: false, many: false },
   ],
   invariants: [
     {

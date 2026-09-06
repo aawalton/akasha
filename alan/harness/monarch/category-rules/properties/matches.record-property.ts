@@ -19,9 +19,9 @@ export const matches = {
   propertySlug: "matches",
   definition: "what a rule tests a transaction against, each with the key tested and how",
   properties: [
-    { pagePropertySlug: "match-key", required: true, many: false },
-    { pagePropertySlug: "match-comparison", required: true, many: false },
-    { pagePropertySlug: "match-values", required: true, many: true, max: 20 },
+    { pagePropertySlug: "select-property/match-key", required: true, many: false },
+    { pagePropertySlug: "select-property/match-comparison", required: true, many: false },
+    { pagePropertySlug: "text-property/match-values", required: true, many: true, max: 20 },
   ],
   invariants: [
     {

@@ -28,9 +28,9 @@ export const modelTest = {
   ],
   extendsSlug: ["page-type/module"],
   properties: [
-    { pagePropertySlug: "model-family-slug", required: true, many: false },
-    { pagePropertySlug: "prompt", required: true, many: false },
-    { pagePropertySlug: "cases", required: true, many: false },
+    { pagePropertySlug: "relation-property/model-family-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/prompt", required: true, many: false },
+    { pagePropertySlug: "page-property-entry/cases", required: true, many: false },
   ],
   invariants: [
     {

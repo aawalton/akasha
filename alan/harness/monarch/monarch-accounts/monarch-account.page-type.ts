@@ -32,23 +32,23 @@ export const monarchAccount = {
     "text-property/account-display-name",
   ],
   properties: [
-    { pagePropertySlug: "account-display-name", required: true, many: false },
-    { pagePropertySlug: "current-balance", required: true, many: false },
-    { pagePropertySlug: "account-type", required: true, many: false },
-    { pagePropertySlug: "asset", required: true, many: false },
-    { pagePropertySlug: "account-active", required: true, many: false },
-    { pagePropertySlug: "account-hidden", required: true, many: false },
+    { pagePropertySlug: "text-property/account-display-name", required: true, many: false },
+    { pagePropertySlug: "number-property/current-balance", required: true, many: false },
+    { pagePropertySlug: "select-property/account-type", required: true, many: false },
+    { pagePropertySlug: "boolean-property/asset", required: true, many: false },
+    { pagePropertySlug: "boolean-property/account-active", required: true, many: false },
+    { pagePropertySlug: "boolean-property/account-hidden", required: true, many: false },
   ],
   invariants: [
     {
       invariantKind: "departure",
       statement:
-        "An account with no transaction is still an account, a retirement or brokerage balance that moves.",
+        "An account holding no transaction is still an account, a retirement or brokerage balance moving without a row against it.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Monarch reopens a closed account under a second id rather than reviving the first.",
+        "Monarch reopens a closed account under a second id rather than reviving the first, so two accounts carry the same last four digits.",
     },
     {
       invariantKind: "departure",

@@ -36,10 +36,10 @@ export const codeEditorDataInterface = {
     "code-editor-data-interface/terminal-tabs",
   ],
   properties: [
-    { pagePropertySlug: "cooldown-milliseconds", required: true, many: false },
-    { pagePropertySlug: "ambient-types", required: true, many: false, default: "ts" },
+    { pagePropertySlug: "number-property/cooldown-milliseconds", required: true, many: false },
+    { pagePropertySlug: "file-property/ambient-types", required: true, many: false, default: "ts" },
     {
-      pagePropertySlug: "state",
+      pagePropertySlug: "file-property/state",
       required: false,
       many: false,
       uncommitted: true,

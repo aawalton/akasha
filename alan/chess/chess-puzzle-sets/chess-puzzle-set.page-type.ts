@@ -32,8 +32,8 @@ export const chessPuzzleSet = {
     "url-property/game-url",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "puzzles", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "page-property-entry/puzzles", required: false, many: false },
   ],
   invariants: [
     {

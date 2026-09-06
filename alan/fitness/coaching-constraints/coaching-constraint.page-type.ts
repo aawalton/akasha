@@ -31,12 +31,20 @@ export const coachingConstraint = {
     "select-property/focus-tags",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "coaching-constraint-active", required: true, many: false },
-    { pagePropertySlug: "focus-tags", required: true, many: true, max: null },
-    { pagePropertySlug: "coaching-constraint-kind", required: true, many: false },
-    { pagePropertySlug: "coaching-constraint-sort-order", required: false, many: false },
-    { pagePropertySlug: "asks", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    {
+      pagePropertySlug: "boolean-property/coaching-constraint-active",
+      required: true,
+      many: false,
+    },
+    { pagePropertySlug: "select-property/focus-tags", required: true, many: true, max: null },
+    { pagePropertySlug: "select-property/coaching-constraint-kind", required: true, many: false },
+    {
+      pagePropertySlug: "number-property/coaching-constraint-sort-order",
+      required: false,
+      many: false,
+    },
+    { pagePropertySlug: "file-property/asks", required: false, many: false },
   ],
   invariants: [
     {

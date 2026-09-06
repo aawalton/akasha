@@ -31,12 +31,24 @@ export const workoutSession = {
     "text-property/workout-session-notes",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "workout-session-completed-at", required: true, many: false },
-    { pagePropertySlug: "workout-session-date", required: true, many: false },
-    { pagePropertySlug: "workout-session-notes", required: false, many: false },
-    { pagePropertySlug: "schedule-day-slug", required: true, many: false },
-    { pagePropertySlug: "workout-session-started-at", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    {
+      pagePropertySlug: "instant-property/workout-session-completed-at",
+      required: true,
+      many: false,
+    },
+    {
+      pagePropertySlug: "calendar-date-property/workout-session-date",
+      required: true,
+      many: false,
+    },
+    { pagePropertySlug: "text-property/workout-session-notes", required: false, many: false },
+    { pagePropertySlug: "relation-property/schedule-day-slug", required: true, many: false },
+    {
+      pagePropertySlug: "instant-property/workout-session-started-at",
+      required: true,
+      many: false,
+    },
   ],
   invariants: [
     {

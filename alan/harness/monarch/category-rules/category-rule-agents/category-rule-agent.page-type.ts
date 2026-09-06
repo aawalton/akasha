@@ -14,7 +14,7 @@ export const categoryRuleAgent = {
   pluralSlug: "category-rule-agents",
   extendsSlug: ["page-type/category-rule"],
   partSlugs: ["text-property/judgement"],
-  properties: [{ pagePropertySlug: "judgement", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/judgement", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

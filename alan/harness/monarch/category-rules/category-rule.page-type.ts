@@ -31,11 +31,11 @@ export const categoryRule = {
     "text-property/rule-note",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "matches", required: true, many: true, max: 10 },
-    { pagePropertySlug: "category-slug", required: false, many: false },
-    { pagePropertySlug: "rule-note", required: false, many: false },
-    { pagePropertySlug: "counterpart-within-days", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "record-property/matches", required: true, many: true, max: 10 },
+    { pagePropertySlug: "relation-property/category-slug", required: false, many: false },
+    { pagePropertySlug: "text-property/rule-note", required: false, many: false },
+    { pagePropertySlug: "number-property/counterpart-within-days", required: false, many: false },
   ],
   invariants: [
     {

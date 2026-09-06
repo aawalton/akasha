@@ -13,5 +13,5 @@ export const exerciseCollection = {
   definition: "a shelf of exercises Alan keeps together",
   pluralSlug: "exercise-collections",
   extendsSlug: ["page-type/collection"],
-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
 } as const satisfies PageType
