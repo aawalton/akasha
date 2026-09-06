@@ -1,3 +1,32 @@
+diff --git a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.code.ts b/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.code.ts
+index db3b648b8c55b48e77546ce0bef107519fe7a68d..627850c09a43a6d9c6b9e9035eb69ef854c35f4a 100644
+--- a/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.code.ts
++++ b/agents/claude-accounts/modules/credential-push/claude-account-credential-push.module.code.ts
+@@ -86,6 +86,15 @@ function refusedFor(slug: string, why: string): Push {
+   return { kind: "refused", slug, why }
+ }
+ 
++// `unfit` is the rule every secret is held to, and it admits a newline because a secret may be a
++// whole file. A token is not that kind of secret, and this module's page says a token holding a
++// newline is refused, so the narrower rule a token is held to is written here.
++function unfitToken(key: string, value: string): string | null {
++  const wrong = unfit(key, value)
++  if (wrong !== null) return wrong
++  return value.includes("\n") ? `\`${key}\` holds a newline, and a token is one line` : null
++}
++
+ export function sayingOf(answer: Answer): string {
+   const said = answer.refusals.filter((one) => one.trim() !== "")
+   if (said.length > 0) return said.join("; ")
+@@ -190,7 +199,7 @@ export async function pushedIn(
+       [REFRESH_KEY, credential.refreshToken],
+     ])
+     for (const [key, value] of next) {
+-      const wrong = unfit(key, value)
++      const wrong = unfitToken(key, value)
+       if (wrong !== null) return refusedFor(slug, wrong)
+     }
+     const at = instantOf(credential.accessTokenExpiresAtMs)
 diff --git a/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts b/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts
 index ae51acaaec190da9c5a9042bf3209fe7fa979589..852ce95c8efc98482b849e79a0f1fc169e5ff719 100644
 --- a/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts
