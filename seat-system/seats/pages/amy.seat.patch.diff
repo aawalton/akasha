@@ -46,3 +46,15 @@ index 1563960b9f561397ef6c3d51427be8ff96ac636c..7b81c47b47f2fd9af5e13c4a77e22ddc
    viewPlace: 0,
    viewSorts: [{ key: "title", descending: false }],
    pageSize: 12,
+diff --git a/pages/views/pages/temper-tasks-all.view.ts b/pages/views/pages/temper-tasks-all.view.ts
+index 875964937c1e55108d20c8b8542da7614cc9c8f6..62ba9cbc382a69bbc890eb5f5bfb572391368e2b 100644
+--- a/pages/views/pages/temper-tasks-all.view.ts
++++ b/pages/views/pages/temper-tasks-all.view.ts
+@@ -6,6 +6,7 @@ export const temperTasksAll = {
+   slug: "temper-tasks-all",
+   title: "All",
+   navSlug: "temper-tasks",
++  pageType: "temper-task",
+   viewPlace: 4,
+   viewSorts: [{ key: "updated-at", descending: true }],
+   visibleProperties: ["due-date"],
