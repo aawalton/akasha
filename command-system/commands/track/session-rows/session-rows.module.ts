@@ -55,7 +55,7 @@ export const sessionRows = {
     },
     {
       invariantKind: "departure",
-      statement: "A relationship a caller names is kept beside one a title tagged.",
+      statement: "A relationship a caller names is kept beside a relationship a title tagged.",
     },
     {
       invariantKind: "absence",
