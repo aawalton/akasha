@@ -1,3 +1,4 @@
+import { slugIn } from "@akasha/pages/page-address"
 import {
   type Asked,
   type ComposedQuery,
@@ -202,8 +203,14 @@ async function propertyPages(
   return found
 }
 
+function namedIn(one: Flat): string | null {
+  const said = one.pagePropertySlug
+  if (typeof said !== "string" || said === "") return null
+  return slugIn(said) ?? said
+}
+
 function declaredFrom(one: Flat, page: Flat | undefined, on: string): Declaration | null {
-  const slug = typeof one.pagePropertySlug === "string" ? one.pagePropertySlug : null
+  const slug = namedIn(one)
   if (slug === null) return null
   return {
     key: page === undefined ? slug : (textAt(page, "propertySlug") ?? slug),
@@ -243,7 +250,7 @@ export async function askShape(
       pageTypeId: textAt(first, "id") ?? "",
       ownerSlug: null,
       declarations: stated.flatMap((one) => {
-        const slug = typeof one.pagePropertySlug === "string" ? one.pagePropertySlug : null
+        const slug = namedIn(one)
         const made = declaredFrom(one, slug === null ? undefined : pages.get(slug), pageType)
         return made === null ? [] : [made]
       }),
