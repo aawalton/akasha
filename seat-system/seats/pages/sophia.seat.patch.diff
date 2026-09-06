@@ -1,0 +1,27 @@
+diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
+index e373d042f2ce7912ab9e8714f5453895ba8b02f5..2b1a9155b727ba7933b896ded82cd7ec5df41aa3 100644
+--- a/command-system/asking/asking.module.ts
++++ b/command-system/asking/asking.module.ts
+@@ -27,7 +27,7 @@ export const asking = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A draft runs the checks a landing runs and the warrants a landing runs.",
++      statement: "A draft runs the checks a landing runs and owes the reading a landing owes.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/command-system/landing/landing.module.ts b/command-system/landing/landing.module.ts
+index aa728b74146a47518c80a95dce60ab50eda2516d..e5ecad45ea68da6d2656cd30170027fad9831a67 100644
+--- a/command-system/landing/landing.module.ts
++++ b/command-system/landing/landing.module.ts
+@@ -264,7 +264,8 @@ export const landing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A draft says which checks and warrants the change drafted into the patch runs.",
++      statement:
++        "A draft says which checks the change drafted into the patch runs and the reading owed.",
+     },
+     {
+       invariantKind: "departure",
