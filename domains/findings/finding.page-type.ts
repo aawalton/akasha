@@ -27,7 +27,7 @@ export const finding = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A finding informs a decision rather than demanding one.",
+      statement: "A finding informs a decision rather than demanding a decision.",
     },
     {
       invariantKind: "departure",
@@ -40,6 +40,10 @@ export const finding = {
     {
       invariantKind: "departure",
       statement: "A finding carried into a domain intent or an initiative intent is done.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A finding written into the book section holding its subject is done.",
     },
     {
       invariantKind: "departure",
