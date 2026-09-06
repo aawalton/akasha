@@ -1,0 +1,1096 @@
+runsWarrants: false
+diff --git a/agents/models/families/model-family.page-type.ts b/agents/models/families/model-family.page-type.ts
+index 2e22f305a44ffd85a33d8fdc33c59ef1e02379d3..0fa91c215d962e530cf9cdb96daf1875b51b3afe 100644
+--- a/agents/models/families/model-family.page-type.ts
++++ b/agents/models/families/model-family.page-type.ts
+@@ -20,5 +20,5 @@ export const modelFamily = {
+     "text-property/model-name",
+   ],
+   extendsSlug: ["page-type/domain"],
+-  properties: [{ pagePropertySlug: "model-name", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/model-name", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/agents/models/tests/model-test.page-type.ts b/agents/models/tests/model-test.page-type.ts
+index 918235fa815512b17f9e33831ffc8bc646ea26e9..d156470e950fff9166f8cec09d3aed3e07a31a2d 100644
+--- a/agents/models/tests/model-test.page-type.ts
++++ b/agents/models/tests/model-test.page-type.ts
+@@ -28,9 +28,9 @@ export const modelTest = {
+   ],
+   extendsSlug: ["page-type/module"],
+   properties: [
+-    { pagePropertySlug: "model-family-slug", required: true, many: false },
+-    { pagePropertySlug: "prompt", required: true, many: false },
+-    { pagePropertySlug: "cases", required: true, many: false },
++    { pagePropertySlug: "relation-property/model-family-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/prompt", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/cases", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/agents/models/tests/properties/cases.page-property-entry.ts b/agents/models/tests/properties/cases.page-property-entry.ts
+index 85c4b760e5a226e370939c93f9fae1cee7ddeb54..a2d523ff8f326458df5f59b2184b870a54b708d2 100644
+--- a/agents/models/tests/properties/cases.page-property-entry.ts
++++ b/agents/models/tests/properties/cases.page-property-entry.ts
+@@ -9,9 +9,9 @@ export const cases = {
+   propertySlug: "cases",
+   definition: "the labelled texts a prompt is judged by",
+   properties: [
+-    { pagePropertySlug: "case-page", required: true, many: false },
+-    { pagePropertySlug: "definition", required: true, many: false },
+-    { pagePropertySlug: "case-statement", required: true, many: false },
+-    { pagePropertySlug: "case-answer", required: true, many: false },
++    { pagePropertySlug: "relation-property/case-page", required: true, many: false },
++    { pagePropertySlug: "text-property/definition", required: true, many: false },
++    { pagePropertySlug: "text-property/case-statement", required: true, many: false },
++    { pagePropertySlug: "text-property/case-answer", required: true, many: false },
+   ],
+ } as const satisfies PagePropertyEntry
+diff --git a/alan/attributes/attribute.page-type.ts b/alan/attributes/attribute.page-type.ts
+index 3a3107717dcea215be9d38402b0adc27ee3668d4..ff204abfdf8a9864af4301ab387cd4f5c51c387f 100644
+--- a/alan/attributes/attribute.page-type.ts
++++ b/alan/attributes/attribute.page-type.ts
+@@ -27,8 +27,8 @@ export const attribute = {
+     "text-property/point-unit",
+   ],
+   properties: [
+-    { pagePropertySlug: "point-unit", required: true, many: false },
+-    { pagePropertySlug: "lifetime-points", required: true, many: false },
++    { pagePropertySlug: "text-property/point-unit", required: true, many: false },
++    { pagePropertySlug: "number-property/lifetime-points", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/authoring/book-records/book-record.page-type.ts b/alan/authoring/book-records/book-record.page-type.ts
+index 42631167cc594a6f7b6776907c111f1a328b2ed3..6ee32c9558aea92b2ceb01c209d2cae396a7996a 100644
+--- a/alan/authoring/book-records/book-record.page-type.ts
++++ b/alan/authoring/book-records/book-record.page-type.ts
+@@ -31,12 +31,12 @@ export const bookRecord = {
+     "text-property/record-brief",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "definition", required: true, many: false },
+-    { pagePropertySlug: "record-book-slug", required: true, many: false },
+-    { pagePropertySlug: "record-brief", required: false, many: false },
+-    { pagePropertySlug: "kept-by", required: false, many: false },
+-    { pagePropertySlug: "writing", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/definition", required: true, many: false },
++    { pagePropertySlug: "text-property/record-book-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/record-brief", required: false, many: false },
++    { pagePropertySlug: "text-property/kept-by", required: false, many: false },
++    { pagePropertySlug: "file-property/writing", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/books/alan-book.page-type.ts b/alan/books/alan-book.page-type.ts
+index 3b1bd6f7ca78f58616370f85de1fefba96255f2b..4454acbf2cdd158708375160fa60617dda24e548 100644
+--- a/alan/books/alan-book.page-type.ts
++++ b/alan/books/alan-book.page-type.ts
+@@ -13,7 +13,7 @@ export const alanBook = {
+   definition: "one book Alan writes",
+   pluralSlug: "alan-books",
+   extendsSlug: ["page-type/collection"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/alan/books/all-about-alan/experiments/all-about-alan-experiment.page-type.ts b/alan/books/all-about-alan/experiments/all-about-alan-experiment.page-type.ts
+index 0a2d5e0424aad7a4422c83b4a0cba81f54a456c4..fd9552811aab848c302a542d759fc52e37c02b41 100644
+--- a/alan/books/all-about-alan/experiments/all-about-alan-experiment.page-type.ts
++++ b/alan/books/all-about-alan/experiments/all-about-alan-experiment.page-type.ts
+@@ -19,9 +19,9 @@ export const allAboutAlanExperiment = {
+   extendsSlug: ["page-type/page"],
+   partSlugs: ["file-property/line-set"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "definition", required: true, many: false },
+-    { pagePropertySlug: "line-set", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/definition", required: true, many: false },
++    { pagePropertySlug: "file-property/line-set", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/books/all-about-alan/models/all-about-alan-model.page-type.ts b/alan/books/all-about-alan/models/all-about-alan-model.page-type.ts
+index 5f09ceed4fabe58689b5bf5e0f84d075735bb864..82935d76ec1efc71dc7453bf33354a7131030fa4 100644
+--- a/alan/books/all-about-alan/models/all-about-alan-model.page-type.ts
++++ b/alan/books/all-about-alan/models/all-about-alan-model.page-type.ts
+@@ -19,9 +19,9 @@ export const allAboutAlanModel = {
+   extendsSlug: ["page-type/page"],
+   partSlugs: ["file-property/simulation"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "definition", required: true, many: false },
+-    { pagePropertySlug: "simulation", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/definition", required: true, many: false },
++    { pagePropertySlug: "file-property/simulation", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts b/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
+index fd5e498dd7950d3b93c6c59047f8cb8707d59915..1cbd6e273edb0f043db17442a9a5811a87bb30a3 100644
+--- a/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
++++ b/alan/books/all-about-alan/topics/all-about-alan-topic.page-type.ts
+@@ -30,12 +30,22 @@ export const allAboutAlanTopic = {
+     "text-property/topic-unsettled",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "definition", required: true, many: false },
+-    { pagePropertySlug: "topic-parent-slugs", required: false, many: true, max: null },
+-    { pagePropertySlug: "topic-related-slugs", required: false, many: true, max: null },
+-    { pagePropertySlug: "topic-settled", required: false, many: false },
+-    { pagePropertySlug: "topic-unsettled", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/definition", required: true, many: false },
++    {
++      pagePropertySlug: "relation-property/topic-parent-slugs",
++      required: false,
++      many: true,
++      max: null,
++    },
++    {
++      pagePropertySlug: "relation-property/topic-related-slugs",
++      required: false,
++      many: true,
++      max: null,
++    },
++    { pagePropertySlug: "text-property/topic-settled", required: false, many: false },
++    { pagePropertySlug: "text-property/topic-unsettled", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/car-research/car-makes/car-make.page-type.ts b/alan/car-research/car-makes/car-make.page-type.ts
+index 47643b8ac6f915761aa417b80114a011ceb622a4..cef8b9f5aad184cb9fbc9a88d74f1893227a91c9 100644
+--- a/alan/car-research/car-makes/car-make.page-type.ts
++++ b/alan/car-research/car-makes/car-make.page-type.ts
+@@ -46,17 +46,17 @@ export const carMake = {
+     "text-property/reliability-notes",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "charging-network-access", required: true, many: false },
+-    { pagePropertySlug: "country", required: true, many: false },
+-    { pagePropertySlug: "drm-policy", required: true, many: false },
+-    { pagePropertySlug: "electrification-strategy", required: true, many: false },
+-    { pagePropertySlug: "founding-year", required: true, many: false },
+-    { pagePropertySlug: "kill-switch-policy", required: true, many: false },
+-    { pagePropertySlug: "nacs-adoption", required: true, many: false },
+-    { pagePropertySlug: "parent-corporation", required: true, many: false },
+-    { pagePropertySlug: "reliability-notes", required: true, many: false },
+-    { pagePropertySlug: "trims", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/charging-network-access", required: true, many: false },
++    { pagePropertySlug: "text-property/country", required: true, many: false },
++    { pagePropertySlug: "text-property/drm-policy", required: true, many: false },
++    { pagePropertySlug: "text-property/electrification-strategy", required: true, many: false },
++    { pagePropertySlug: "number-property/founding-year", required: true, many: false },
++    { pagePropertySlug: "text-property/kill-switch-policy", required: true, many: false },
++    { pagePropertySlug: "text-property/nacs-adoption", required: true, many: false },
++    { pagePropertySlug: "text-property/parent-corporation", required: true, many: false },
++    { pagePropertySlug: "text-property/reliability-notes", required: true, many: false },
++    { pagePropertySlug: "file-property/trims", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/car-research/car-models/car-model.page-type.ts b/alan/car-research/car-models/car-model.page-type.ts
+index 7eaa505213dcc52985147e8a23ecf14cf1d7ef6b..52645ead54c82f2e3e066e2ed2a9f4ed3c09da07 100644
+--- a/alan/car-research/car-models/car-model.page-type.ts
++++ b/alan/car-research/car-models/car-model.page-type.ts
+@@ -37,14 +37,14 @@ export const carModel = {
+     "text-property/segment",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "body-style", required: true, many: false },
+-    { pagePropertySlug: "generation", required: true, many: false },
+-    { pagePropertySlug: "model-years-available", required: true, many: false },
+-    { pagePropertySlug: "overview", required: true, many: false },
+-    { pagePropertySlug: "powertrain-options", required: true, many: true, max: null },
+-    { pagePropertySlug: "segment", required: true, many: false },
+-    { pagePropertySlug: "car-make-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/body-style", required: true, many: false },
++    { pagePropertySlug: "text-property/generation", required: true, many: false },
++    { pagePropertySlug: "text-property/model-years-available", required: true, many: false },
++    { pagePropertySlug: "text-property/overview", required: true, many: false },
++    { pagePropertySlug: "text-property/powertrain-options", required: true, many: true, max: null },
++    { pagePropertySlug: "text-property/segment", required: true, many: false },
++    { pagePropertySlug: "relation-property/car-make-slug", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/car-research/car-trims/car-trim.page-type.ts b/alan/car-research/car-trims/car-trim.page-type.ts
+index 0fd4b5af56807e20dab0862197c5a3d88ffb2af5..26595f6e08acf88a8c165caf17caecc9782d2cb6 100644
+--- a/alan/car-research/car-trims/car-trim.page-type.ts
++++ b/alan/car-research/car-trims/car-trim.page-type.ts
+@@ -17,8 +17,8 @@ export const carTrim = {
+   extendsSlug: ["page-type/car"],
+   partSlugs: ["relation-property/car-year-slug"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "car-year-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/car-year-slug", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/car-research/car-years/car-year.page-type.ts b/alan/car-research/car-years/car-year.page-type.ts
+index 41fce64cb108b96694cfd00cbe05c7df5a7697d5..3b95078bbff378513be5564b12869d22568499b0 100644
+--- a/alan/car-research/car-years/car-year.page-type.ts
++++ b/alan/car-research/car-years/car-year.page-type.ts
+@@ -25,10 +25,10 @@ export const carYear = {
+     "text-property/refresh-notes",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "model-year", required: true, many: false },
+-    { pagePropertySlug: "refresh-notes", required: true, many: false },
+-    { pagePropertySlug: "car-model-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "number-property/model-year", required: true, many: false },
++    { pagePropertySlug: "text-property/refresh-notes", required: true, many: false },
++    { pagePropertySlug: "relation-property/car-model-slug", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/car-research/cars/car.page-type.ts b/alan/car-research/cars/car.page-type.ts
+index d171700b4f2746ac3813ad85e9e72b88b6f423bc..aae77967eca8813b458fba9f325da74923e22e21 100644
+--- a/alan/car-research/cars/car.page-type.ts
++++ b/alan/car-research/cars/car.page-type.ts
+@@ -25,10 +25,10 @@ export const car = {
+     "text-property/sources",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "short-list", required: false, many: false },
+-    { pagePropertySlug: "sources", required: false, many: false },
+-    { pagePropertySlug: "exclusion-reason", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "boolean-property/short-list", required: false, many: false },
++    { pagePropertySlug: "text-property/sources", required: false, many: false },
++    { pagePropertySlug: "text-property/exclusion-reason", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/chess/chess-games/chess-game.page-type.ts b/alan/chess/chess-games/chess-game.page-type.ts
+index 1a1a3fb37f8c87823f5d5935cfaf08af75565d16..7032035d039e7cbaef4821b55a96b1de6396b8fb 100644
+--- a/alan/chess/chess-games/chess-game.page-type.ts
++++ b/alan/chess/chess-games/chess-game.page-type.ts
+@@ -85,29 +85,29 @@ export const chessGame = {
+     "text-property/time-control",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "external-id", required: true, many: false },
+-    { pagePropertySlug: "chess-white", required: true, many: false },
+-    { pagePropertySlug: "chess-black", required: true, many: false },
+-    { pagePropertySlug: "played-at", required: true, many: false },
+-    { pagePropertySlug: "rated", required: true, many: false },
+-    { pagePropertySlug: "chess-variant", required: true, many: false },
+-    { pagePropertySlug: "chess-speed", required: true, many: false },
+-    { pagePropertySlug: "chess-result", required: true, many: false },
+-    { pagePropertySlug: "chess-winner", required: true, many: false },
+-    { pagePropertySlug: "ply", required: true, many: false },
+-    { pagePropertySlug: "chess-source", required: false, many: false },
+-    { pagePropertySlug: "source-game-id", required: false, many: false },
+-    { pagePropertySlug: "handle", required: false, many: false },
+-    { pagePropertySlug: "opening-name", required: false, many: false },
+-    { pagePropertySlug: "opening-eco", required: false, many: false },
+-    { pagePropertySlug: "lesson", required: false, many: false },
+-    { pagePropertySlug: "chess-collection", required: false, many: false },
+-    { pagePropertySlug: "fen", required: false, many: false },
+-    { pagePropertySlug: "time-control", required: false, many: false },
+-    { pagePropertySlug: "player-color", required: false, many: false },
+-    { pagePropertySlug: "chess-outcome", required: false, many: false },
+-    { pagePropertySlug: "pgn", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/external-id", required: true, many: false },
++    { pagePropertySlug: "text-property/chess-white", required: true, many: false },
++    { pagePropertySlug: "text-property/chess-black", required: true, many: false },
++    { pagePropertySlug: "instant-property/played-at", required: true, many: false },
++    { pagePropertySlug: "boolean-property/rated", required: true, many: false },
++    { pagePropertySlug: "select-property/chess-variant", required: true, many: false },
++    { pagePropertySlug: "select-property/chess-speed", required: true, many: false },
++    { pagePropertySlug: "select-property/chess-result", required: true, many: false },
++    { pagePropertySlug: "select-property/chess-winner", required: true, many: false },
++    { pagePropertySlug: "number-property/ply", required: true, many: false },
++    { pagePropertySlug: "text-property/chess-source", required: false, many: false },
++    { pagePropertySlug: "text-property/source-game-id", required: false, many: false },
++    { pagePropertySlug: "text-property/handle", required: false, many: false },
++    { pagePropertySlug: "text-property/opening-name", required: false, many: false },
++    { pagePropertySlug: "text-property/opening-eco", required: false, many: false },
++    { pagePropertySlug: "text-property/lesson", required: false, many: false },
++    { pagePropertySlug: "text-property/chess-collection", required: false, many: false },
++    { pagePropertySlug: "text-property/fen", required: false, many: false },
++    { pagePropertySlug: "text-property/time-control", required: false, many: false },
++    { pagePropertySlug: "select-property/player-color", required: false, many: false },
++    { pagePropertySlug: "select-property/chess-outcome", required: false, many: false },
++    { pagePropertySlug: "file-property/pgn", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/chess/chess-progresses/chess-progress.page-type.ts b/alan/chess/chess-progresses/chess-progress.page-type.ts
+index df70754c0934dc135deb044a5ceff7a4536b2889..c879f14ccc97ae83b56a533ec50b0dd0096714f0 100644
+--- a/alan/chess/chess-progresses/chess-progress.page-type.ts
++++ b/alan/chess/chess-progresses/chess-progress.page-type.ts
+@@ -38,15 +38,15 @@ export const chessProgress = {
+     "text-property/motif-id",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "category", required: true, many: false },
+-    { pagePropertySlug: "chess-progress-status", required: true, many: false },
+-    { pagePropertySlug: "description", required: true, many: false },
+-    { pagePropertySlug: "motif-id", required: false, many: false },
+-    { pagePropertySlug: "mastery-level", required: false, many: false },
+-    { pagePropertySlug: "last-reviewed", required: false, many: false },
+-    { pagePropertySlug: "active-drill", required: false, many: false },
+-    { pagePropertySlug: "icon", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/category", required: true, many: false },
++    { pagePropertySlug: "select-property/chess-progress-status", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
++    { pagePropertySlug: "text-property/motif-id", required: false, many: false },
++    { pagePropertySlug: "select-property/mastery-level", required: false, many: false },
++    { pagePropertySlug: "calendar-date-property/last-reviewed", required: false, many: false },
++    { pagePropertySlug: "boolean-property/active-drill", required: false, many: false },
++    { pagePropertySlug: "text-property/icon", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/chess/chess-puzzle-sets/chess-puzzle-set.page-type.ts b/alan/chess/chess-puzzle-sets/chess-puzzle-set.page-type.ts
+index 1c4b4f42eafe8b98dc4bf06c9c30368d459b724a..9955884b6a4f3017487fe31ff044c97b8724d77e 100644
+--- a/alan/chess/chess-puzzle-sets/chess-puzzle-set.page-type.ts
++++ b/alan/chess/chess-puzzle-sets/chess-puzzle-set.page-type.ts
+@@ -32,8 +32,8 @@ export const chessPuzzleSet = {
+     "url-property/game-url",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "puzzles", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/puzzles", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/chess/chess-puzzle-sets/properties/puzzles.page-property-entry.ts b/alan/chess/chess-puzzle-sets/properties/puzzles.page-property-entry.ts
+index ce2f48d29120c10aae64cdb00246b0d641c4b5e6..8174b5016fd58a5a4fb04a5e68cec8dc6db2f4e3 100644
+--- a/alan/chess/chess-puzzle-sets/properties/puzzles.page-property-entry.ts
++++ b/alan/chess/chess-puzzle-sets/properties/puzzles.page-property-entry.ts
+@@ -9,20 +9,20 @@ export const puzzles = {
+   propertySlug: "puzzles",
+   definition: "every puzzle a set holds, one to a line",
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "puzzle-id", required: true, many: false },
+-    { pagePropertySlug: "fen", required: true, many: false },
+-    { pagePropertySlug: "puzzle-moves", required: true, many: false },
+-    { pagePropertySlug: "puzzle-rating", required: true, many: false },
+-    { pagePropertySlug: "rating-deviation", required: true, many: false },
+-    { pagePropertySlug: "popularity", required: true, many: false },
+-    { pagePropertySlug: "nb-plays", required: true, many: false },
+-    { pagePropertySlug: "puzzle-themes", required: true, many: true, max: null },
+-    { pagePropertySlug: "game-url", required: true, many: false },
+-    { pagePropertySlug: "puzzle-license", required: true, many: false },
+-    { pagePropertySlug: "solver-color", required: true, many: false },
+-    { pagePropertySlug: "opening-tags", required: false, many: true, max: null },
+-    { pagePropertySlug: "solved", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/puzzle-id", required: true, many: false },
++    { pagePropertySlug: "text-property/fen", required: true, many: false },
++    { pagePropertySlug: "text-property/puzzle-moves", required: true, many: false },
++    { pagePropertySlug: "number-property/puzzle-rating", required: true, many: false },
++    { pagePropertySlug: "number-property/rating-deviation", required: true, many: false },
++    { pagePropertySlug: "number-property/popularity", required: true, many: false },
++    { pagePropertySlug: "number-property/nb-plays", required: true, many: false },
++    { pagePropertySlug: "text-property/puzzle-themes", required: true, many: true, max: null },
++    { pagePropertySlug: "url-property/game-url", required: true, many: false },
++    { pagePropertySlug: "text-property/puzzle-license", required: true, many: false },
++    { pagePropertySlug: "select-property/solver-color", required: true, many: false },
++    { pagePropertySlug: "text-property/opening-tags", required: false, many: true, max: null },
++    { pagePropertySlug: "boolean-property/solved", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/chess/chess-review-sessions/chess-review-session.page-type.ts b/alan/chess/chess-review-sessions/chess-review-session.page-type.ts
+index 36294095d6d9e055bebe0d7f024f62402314b71a..eb3a655a2cd76c7e040a08ab4c7d2c0d3a991ebf 100644
+--- a/alan/chess/chess-review-sessions/chess-review-session.page-type.ts
++++ b/alan/chess/chess-review-sessions/chess-review-session.page-type.ts
+@@ -25,10 +25,10 @@ export const chessReviewSession = {
+     "relation-property/chess-game-slug",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "chess-game-slug", required: true, many: false },
+-    { pagePropertySlug: "reviewed-at", required: true, many: false },
+-    { pagePropertySlug: "chess-review-session-notes", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "relation-property/chess-game-slug", required: true, many: false },
++    { pagePropertySlug: "instant-property/reviewed-at", required: true, many: false },
++    { pagePropertySlug: "file-property/chess-review-session-notes", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/collections/recipe-collections/recipe-collection.page-type.ts b/alan/collections/recipe-collections/recipe-collection.page-type.ts
+index 3af9825717c137dbdb409bf9c3e6d7017c364cd1..733fc72b6f3f0f49e5c3d2dbb119bd07ab8e07df 100644
+--- a/alan/collections/recipe-collections/recipe-collection.page-type.ts
++++ b/alan/collections/recipe-collections/recipe-collection.page-type.ts
+@@ -13,5 +13,5 @@ export const recipeCollection = {
+   definition: "a shelf of recipes Alan keeps together",
+   pluralSlug: "recipe-collections",
+   extendsSlug: ["page-type/collection"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/alan/collections/recipes/recipe.page-type.ts b/alan/collections/recipes/recipe.page-type.ts
+index 317d85c471ac0210ce41e3a27d54ee63bc6895c9..a00efb924af1cc1ff5630c3ca0499844368562cf 100644
+--- a/alan/collections/recipes/recipe.page-type.ts
++++ b/alan/collections/recipes/recipe.page-type.ts
+@@ -13,5 +13,5 @@ export const recipe = {
+   definition: "a dish Alan cooks",
+   pluralSlug: "recipes",
+   extendsSlug: ["page-type/collection"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/alan/fitness/client-profiles/client-profile.page-type.ts b/alan/fitness/client-profiles/client-profile.page-type.ts
+index 99a4f0ee11a120b51a49e99ad29ba643c40f0d78..588ecd90611aebfcfddbc1108fae14992e0b73b0 100644
+--- a/alan/fitness/client-profiles/client-profile.page-type.ts
++++ b/alan/fitness/client-profiles/client-profile.page-type.ts
+@@ -17,8 +17,8 @@ export const clientProfile = {
+   extendsSlug: ["page-type/page"],
+   partSlugs: ["number-property/bodyweight"],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "bodyweight", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "number-property/bodyweight", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/fitness/coaching-constraints/coaching-constraint.page-type.ts b/alan/fitness/coaching-constraints/coaching-constraint.page-type.ts
+index 2bc7db89f6f3cd070d597c180ce5898ecfd5d95d..4813491379fa10bbb3233e7f661b23bcb253bc47 100644
+--- a/alan/fitness/coaching-constraints/coaching-constraint.page-type.ts
++++ b/alan/fitness/coaching-constraints/coaching-constraint.page-type.ts
+@@ -31,12 +31,20 @@ export const coachingConstraint = {
+     "select-property/focus-tags",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "coaching-constraint-active", required: true, many: false },
+-    { pagePropertySlug: "focus-tags", required: true, many: true, max: null },
+-    { pagePropertySlug: "coaching-constraint-kind", required: true, many: false },
+-    { pagePropertySlug: "coaching-constraint-sort-order", required: false, many: false },
+-    { pagePropertySlug: "asks", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    {
++      pagePropertySlug: "boolean-property/coaching-constraint-active",
++      required: true,
++      many: false,
++    },
++    { pagePropertySlug: "select-property/focus-tags", required: true, many: true, max: null },
++    { pagePropertySlug: "select-property/coaching-constraint-kind", required: true, many: false },
++    {
++      pagePropertySlug: "number-property/coaching-constraint-sort-order",
++      required: false,
++      many: false,
++    },
++    { pagePropertySlug: "file-property/asks", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/fitness/equipment-items/equipment-item.page-type.ts b/alan/fitness/equipment-items/equipment-item.page-type.ts
+index 92c73d05c179788e3f04bb079dbe17a5ee9f6eb2..793750f851181f50beda0f718620a5bdb4d4c6ac 100644
+--- a/alan/fitness/equipment-items/equipment-item.page-type.ts
++++ b/alan/fitness/equipment-items/equipment-item.page-type.ts
+@@ -40,13 +40,13 @@ export const equipmentItem = {
+     "text-property/equipment-notes",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "equipment-category", required: true, many: false },
+-    { pagePropertySlug: "equipment-configuration", required: true, many: false },
+-    { pagePropertySlug: "equipment-available", required: true, many: false },
+-    { pagePropertySlug: "equipment-loads", required: false, many: true, max: 20 },
+-    { pagePropertySlug: "equipment-notes", required: false, many: false },
+-    { pagePropertySlug: "equipment-sort-order", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "select-property/equipment-category", required: true, many: false },
++    { pagePropertySlug: "select-property/equipment-configuration", required: true, many: false },
++    { pagePropertySlug: "boolean-property/equipment-available", required: true, many: false },
++    { pagePropertySlug: "number-property/equipment-loads", required: false, many: true, max: 20 },
++    { pagePropertySlug: "text-property/equipment-notes", required: false, many: false },
++    { pagePropertySlug: "number-property/equipment-sort-order", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/fitness/exercise-collections/exercise-collection.page-type.ts b/alan/fitness/exercise-collections/exercise-collection.page-type.ts
+index d903d1d5fdcf18e0e55b63b3d4df2cde27be3ab4..6af6adcc49590d43644dd4343d1d9be25843eb7f 100644
+--- a/alan/fitness/exercise-collections/exercise-collection.page-type.ts
++++ b/alan/fitness/exercise-collections/exercise-collection.page-type.ts
+@@ -13,5 +13,5 @@ export const exerciseCollection = {
+   definition: "a shelf of exercises Alan keeps together",
+   pluralSlug: "exercise-collections",
+   extendsSlug: ["page-type/collection"],
+-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/alan/fitness/exercises/exercise.page-type.ts b/alan/fitness/exercises/exercise.page-type.ts
+index 78fadf2701d978ae8939a2bea88b2ff14338fa2d..d5a3c3a2dd11b9e64ddd78ca74c2eda4af5b066f 100644
+--- a/alan/fitness/exercises/exercise.page-type.ts
++++ b/alan/fitness/exercises/exercise.page-type.ts
+@@ -94,33 +94,42 @@ export const exercise = {
+     "url-property/image-start-url",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "exercise-category", required: true, many: false },
+-    { pagePropertySlug: "equipment", required: false, many: false },
+-    { pagePropertySlug: "exercise-external-id", required: false, many: false },
+-    { pagePropertySlug: "exercise-external-link", required: false, many: false },
+-    { pagePropertySlug: "force", required: false, many: false },
+-    { pagePropertySlug: "grip-demand", required: true, many: false },
+-    { pagePropertySlug: "image-end-url", required: false, many: false },
+-    { pagePropertySlug: "image-start-url", required: false, many: false },
+-    { pagePropertySlug: "implement-count", required: true, many: false },
+-    { pagePropertySlug: "is-ballistic", required: true, many: false },
+-    { pagePropertySlug: "exercise-last-synced-at", required: false, many: false },
+-    { pagePropertySlug: "laterality", required: true, many: false },
+-    { pagePropertySlug: "exercise-level", required: true, many: false },
+-    { pagePropertySlug: "load-factor", required: true, many: false },
+-    { pagePropertySlug: "mechanic", required: false, many: false },
+-    { pagePropertySlug: "movement-pattern", required: true, many: false },
+-    { pagePropertySlug: "muscle-focus", required: true, many: false },
+-    { pagePropertySlug: "primary-muscles", required: true, many: true, max: null },
+-    { pagePropertySlug: "scoring-mode", required: true, many: false },
+-    { pagePropertySlug: "secondary-muscles", required: false, many: true, max: null },
+-    { pagePropertySlug: "secondary-pattern", required: false, many: false },
+-    { pagePropertySlug: "sfr-score", required: true, many: false },
+-    { pagePropertySlug: "skill-cost", required: true, many: false },
+-    { pagePropertySlug: "exercise-source", required: true, many: false },
+-    { pagePropertySlug: "trains-lengthened-range", required: true, many: false },
+-    { pagePropertySlug: "instructions", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "select-property/exercise-category", required: true, many: false },
++    { pagePropertySlug: "select-property/equipment", required: false, many: false },
++    { pagePropertySlug: "text-property/exercise-external-id", required: false, many: false },
++    { pagePropertySlug: "url-property/exercise-external-link", required: false, many: false },
++    { pagePropertySlug: "select-property/force", required: false, many: false },
++    { pagePropertySlug: "select-property/grip-demand", required: true, many: false },
++    { pagePropertySlug: "url-property/image-end-url", required: false, many: false },
++    { pagePropertySlug: "url-property/image-start-url", required: false, many: false },
++    { pagePropertySlug: "number-property/implement-count", required: true, many: false },
++    { pagePropertySlug: "boolean-property/is-ballistic", required: true, many: false },
++    {
++      pagePropertySlug: "calendar-date-property/exercise-last-synced-at",
++      required: false,
++      many: false,
++    },
++    { pagePropertySlug: "select-property/laterality", required: true, many: false },
++    { pagePropertySlug: "select-property/exercise-level", required: true, many: false },
++    { pagePropertySlug: "number-property/load-factor", required: true, many: false },
++    { pagePropertySlug: "select-property/mechanic", required: false, many: false },
++    { pagePropertySlug: "select-property/movement-pattern", required: true, many: false },
++    { pagePropertySlug: "select-property/muscle-focus", required: true, many: false },
++    { pagePropertySlug: "select-property/primary-muscles", required: true, many: true, max: null },
++    { pagePropertySlug: "select-property/scoring-mode", required: true, many: false },
++    {
++      pagePropertySlug: "select-property/secondary-muscles",
++      required: false,
++      many: true,
++      max: null,
++    },
++    { pagePropertySlug: "select-property/secondary-pattern", required: false, many: false },
++    { pagePropertySlug: "number-property/sfr-score", required: true, many: false },
++    { pagePropertySlug: "select-property/skill-cost", required: true, many: false },
++    { pagePropertySlug: "select-property/exercise-source", required: true, many: false },
++    { pagePropertySlug: "boolean-property/trains-lengthened-range", required: true, many: false },
++    { pagePropertySlug: "file-property/instructions", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/fitness/mobility-readings/mobility-reading.page-type.ts b/alan/fitness/mobility-readings/mobility-reading.page-type.ts
+index de092378237937895d986fe9f9c1852ff6cbcff5..2880c1db94c54d4583a0a258297166028a92bb68 100644
+--- a/alan/fitness/mobility-readings/mobility-reading.page-type.ts
++++ b/alan/fitness/mobility-readings/mobility-reading.page-type.ts
+@@ -36,13 +36,21 @@ export const mobilityReading = {
+     "text-property/mobility-reading-value-text",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "context", required: true, many: false },
+-    { pagePropertySlug: "mobility-reading-date", required: true, many: false },
+-    { pagePropertySlug: "mobility-reading-metric", required: true, many: false },
+-    { pagePropertySlug: "side", required: true, many: false },
+-    { pagePropertySlug: "mobility-reading-value-num", required: false, many: false },
+-    { pagePropertySlug: "mobility-reading-value-text", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "select-property/context", required: true, many: false },
++    {
++      pagePropertySlug: "calendar-date-property/mobility-reading-date",
++      required: true,
++      many: false,
++    },
++    { pagePropertySlug: "select-property/mobility-reading-metric", required: true, many: false },
++    { pagePropertySlug: "select-property/side", required: true, many: false },
++    {
++      pagePropertySlug: "number-property/mobility-reading-value-num",
++      required: false,
++      many: false,
++    },
++    { pagePropertySlug: "text-property/mobility-reading-value-text", required: true, many: false },
+     { pagePropertySlug: "text-property/note", required: false, many: false },
+   ],
+   invariants: [
+diff --git a/alan/fitness/schedule-days/schedule-day.page-type.ts b/alan/fitness/schedule-days/schedule-day.page-type.ts
+index 4faf8e00fea7132f54fad68b4001599c43c7d48f..f3e297aa48b17cccfd7d73ee0368448f84162b19 100644
+--- a/alan/fitness/schedule-days/schedule-day.page-type.ts
++++ b/alan/fitness/schedule-days/schedule-day.page-type.ts
+@@ -25,10 +25,10 @@ export const scheduleDay = {
+     "select-property/focus",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "day-of-week", required: true, many: false },
+-    { pagePropertySlug: "focus", required: true, many: false },
+-    { pagePropertySlug: "schedule-slug", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "select-property/day-of-week", required: true, many: false },
++    { pagePropertySlug: "select-property/focus", required: true, many: false },
++    { pagePropertySlug: "relation-property/schedule-slug", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/fitness/selection-policies/selection-policy.page-type.ts b/alan/fitness/selection-policies/selection-policy.page-type.ts
+index 141f26b0db67c11ee6607ca352a41f18dde511fc..6b57493461543cb00ec73277a02277b702a3ba6c 100644
+--- a/alan/fitness/selection-policies/selection-policy.page-type.ts
++++ b/alan/fitness/selection-policies/selection-policy.page-type.ts
+@@ -59,21 +59,21 @@ export const selectionPolicy = {
+     "number-property/zone2-weekly-floor",
+   ],
+   properties: [
+-    { pagePropertySlug: "weight-longevity", required: true, many: false },
+-    { pagePropertySlug: "weight-energy", required: true, many: false },
+-    { pagePropertySlug: "weight-functionality", required: true, many: false },
+-    { pagePropertySlug: "weight-aesthetics", required: true, many: false },
+-    { pagePropertySlug: "novelty-cap-per-session", required: true, many: false },
+-    { pagePropertySlug: "anchor-block-weeks", required: true, many: false },
+-    { pagePropertySlug: "anchor-escape-rpe-ceiling", required: true, many: false },
+-    { pagePropertySlug: "layoff-grace-days", required: true, many: false },
+-    { pagePropertySlug: "layoff-max-load-reduction", required: true, many: false },
+-    { pagePropertySlug: "layoff-saturation-days", required: true, many: false },
+-    { pagePropertySlug: "weekly-set-floor", required: true, many: false },
+-    { pagePropertySlug: "weekly-set-ceiling", required: true, many: false },
+-    { pagePropertySlug: "zone2-weekly-floor", required: true, many: false },
+-    { pagePropertySlug: "recency-weight", required: true, many: false },
+-    { pagePropertySlug: "recency-saturation-days", required: true, many: false },
++    { pagePropertySlug: "number-property/weight-longevity", required: true, many: false },
++    { pagePropertySlug: "number-property/weight-energy", required: true, many: false },
++    { pagePropertySlug: "number-property/weight-functionality", required: true, many: false },
++    { pagePropertySlug: "number-property/weight-aesthetics", required: true, many: false },
++    { pagePropertySlug: "number-property/novelty-cap-per-session", required: true, many: false },
++    { pagePropertySlug: "number-property/anchor-block-weeks", required: true, many: false },
++    { pagePropertySlug: "number-property/anchor-escape-rpe-ceiling", required: true, many: false },
++    { pagePropertySlug: "number-property/layoff-grace-days", required: true, many: false },
++    { pagePropertySlug: "number-property/layoff-max-load-reduction", required: true, many: false },
++    { pagePropertySlug: "number-property/layoff-saturation-days", required: true, many: false },
++    { pagePropertySlug: "number-property/weekly-set-floor", required: true, many: false },
++    { pagePropertySlug: "number-property/weekly-set-ceiling", required: true, many: false },
++    { pagePropertySlug: "number-property/zone2-weekly-floor", required: true, many: false },
++    { pagePropertySlug: "number-property/recency-weight", required: true, many: false },
++    { pagePropertySlug: "number-property/recency-saturation-days", required: true, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/fitness/set-logs/set-log.page-type.ts b/alan/fitness/set-logs/set-log.page-type.ts
+index 09b39ec35977bcf8c189c19257a1a82bf6a1da12..b1640c4ecd2a856489c6c23db4caceab2cae1d3f 100644
+--- a/alan/fitness/set-logs/set-log.page-type.ts
++++ b/alan/fitness/set-logs/set-log.page-type.ts
+@@ -49,18 +49,18 @@ export const setLog = {
+     "text-property/note",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "activity-type", required: false, many: false },
+-    { pagePropertySlug: "distance", required: false, many: false },
+-    { pagePropertySlug: "duration-seconds", required: false, many: false },
+-    { pagePropertySlug: "exercise-slug", required: true, many: false },
+-    { pagePropertySlug: "is-warmup", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "select-property/activity-type", required: false, many: false },
++    { pagePropertySlug: "number-property/distance", required: false, many: false },
++    { pagePropertySlug: "number-property/duration-seconds", required: false, many: false },
++    { pagePropertySlug: "relation-property/exercise-slug", required: true, many: false },
++    { pagePropertySlug: "boolean-property/is-warmup", required: false, many: false },
+     { pagePropertySlug: "text-property/note", required: false, many: false },
+-    { pagePropertySlug: "reps", required: false, many: false },
+-    { pagePropertySlug: "rpe", required: false, many: false },
+-    { pagePropertySlug: "session-slug", required: true, many: false },
+-    { pagePropertySlug: "set-number", required: true, many: false },
+-    { pagePropertySlug: "weight", required: false, many: false },
++    { pagePropertySlug: "number-property/reps", required: false, many: false },
++    { pagePropertySlug: "number-property/rpe", required: false, many: false },
++    { pagePropertySlug: "relation-property/session-slug", required: true, many: false },
++    { pagePropertySlug: "number-property/set-number", required: true, many: false },
++    { pagePropertySlug: "number-property/weight", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/fitness/workout-schedules/workout-schedule.page-type.ts b/alan/fitness/workout-schedules/workout-schedule.page-type.ts
+index 63e52b8385edd9a41f37ac06da7d3c488a892d9c..0134203a773e248d36146d31b342e87aec3b9d1e 100644
+--- a/alan/fitness/workout-schedules/workout-schedule.page-type.ts
++++ b/alan/fitness/workout-schedules/workout-schedule.page-type.ts
+@@ -22,9 +22,13 @@ export const workoutSchedule = {
+     "text-property/workout-schedule-description",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "workout-schedule-active", required: true, many: false },
+-    { pagePropertySlug: "workout-schedule-description", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "boolean-property/workout-schedule-active", required: true, many: false },
++    {
++      pagePropertySlug: "text-property/workout-schedule-description",
++      required: false,
++      many: false,
++    },
+   ],
+   invariants: [
+     {
+diff --git a/alan/fitness/workout-sessions/workout-session.page-type.ts b/alan/fitness/workout-sessions/workout-session.page-type.ts
+index d00ed91035eaaa9e10c06d2f36f7db3a46305a13..896ded2ef1d37deb29849b41c1d9322d7102af6b 100644
+--- a/alan/fitness/workout-sessions/workout-session.page-type.ts
++++ b/alan/fitness/workout-sessions/workout-session.page-type.ts
+@@ -31,12 +31,24 @@ export const workoutSession = {
+     "text-property/workout-session-notes",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "workout-session-completed-at", required: true, many: false },
+-    { pagePropertySlug: "workout-session-date", required: true, many: false },
+-    { pagePropertySlug: "workout-session-notes", required: false, many: false },
+-    { pagePropertySlug: "schedule-day-slug", required: true, many: false },
+-    { pagePropertySlug: "workout-session-started-at", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    {
++      pagePropertySlug: "instant-property/workout-session-completed-at",
++      required: true,
++      many: false,
++    },
++    {
++      pagePropertySlug: "calendar-date-property/workout-session-date",
++      required: true,
++      many: false,
++    },
++    { pagePropertySlug: "text-property/workout-session-notes", required: false, many: false },
++    { pagePropertySlug: "relation-property/schedule-day-slug", required: true, many: false },
++    {
++      pagePropertySlug: "instant-property/workout-session-started-at",
++      required: true,
++      many: false,
++    },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/calendar/calendar-event-sources/calendar-event-source.page-type.ts b/alan/harness/calendar/calendar-event-sources/calendar-event-source.page-type.ts
+index 8f969a581c213ac5f7fb6df90419964430ac42f9..f41c3b2ae6fe7a949537887be1d15f67cdc800ff 100644
+--- a/alan/harness/calendar/calendar-event-sources/calendar-event-source.page-type.ts
++++ b/alan/harness/calendar/calendar-event-sources/calendar-event-source.page-type.ts
+@@ -46,17 +46,25 @@ export const calendarEventSource = {
+     "url-property/calendar-source-feed-url",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "calendar-source-external-id", required: true, many: false },
+-    { pagePropertySlug: "calendar-source-kind", required: true, many: false },
+-    { pagePropertySlug: "calendar-source-base-url", required: true, many: false },
+-    { pagePropertySlug: "calendar-source-feed-url", required: true, many: false },
+-    { pagePropertySlug: "calendar-source-timezone", required: true, many: false },
+-    { pagePropertySlug: "calendar-source-provider-client", required: true, many: false },
+-    { pagePropertySlug: "calendar-source-detail-url-template", required: false, many: false },
+-    { pagePropertySlug: "calendar-source-color", required: false, many: false },
+-    { pagePropertySlug: "calendar-source-sync-status", required: false, many: false },
+-    { pagePropertySlug: "events", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/calendar-source-external-id", required: true, many: false },
++    { pagePropertySlug: "text-property/calendar-source-kind", required: true, many: false },
++    { pagePropertySlug: "url-property/calendar-source-base-url", required: true, many: false },
++    { pagePropertySlug: "url-property/calendar-source-feed-url", required: true, many: false },
++    { pagePropertySlug: "text-property/calendar-source-timezone", required: true, many: false },
++    {
++      pagePropertySlug: "text-property/calendar-source-provider-client",
++      required: true,
++      many: false,
++    },
++    {
++      pagePropertySlug: "text-property/calendar-source-detail-url-template",
++      required: false,
++      many: false,
++    },
++    { pagePropertySlug: "text-property/calendar-source-color", required: false, many: false },
++    { pagePropertySlug: "text-property/calendar-source-sync-status", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/events", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts b/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
+index 1e32252df0e0450113a136986c4c8608257c4d8b..5e9264848d780b89782fb8546217807ad086507b 100644
+--- a/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
++++ b/alan/harness/calendar/calendar-event-sources/properties/events.page-property-entry.ts
+@@ -9,25 +9,55 @@ export const events = {
+   propertySlug: "events",
+   definition: "every event a source publishes, one to a line",
+   properties: [
+-    { pagePropertySlug: "seq", required: true, many: false },
+-    { pagePropertySlug: "slug", required: true, many: false },
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "calendar-event-external-id", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-external-link", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-start-at", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-end-at", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-all-day", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-location", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-description", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-types", required: false, many: true, max: 20 },
+-    { pagePropertySlug: "calendar-event-age-groups", required: false, many: true, max: 20 },
+-    { pagePropertySlug: "calendar-event-tags", required: false, many: true, max: 20 },
+-    { pagePropertySlug: "calendar-event-image-url", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-max-attendees", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-registration-required", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-registration-opens-at", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-registration-url", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-last-synced-at", required: false, many: false },
++    { pagePropertySlug: "number-property/seq", required: true, many: false },
++    { pagePropertySlug: "text-property/slug", required: true, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "text-property/calendar-event-external-id", required: false, many: false },
++    { pagePropertySlug: "url-property/calendar-event-external-link", required: false, many: false },
++    { pagePropertySlug: "instant-property/calendar-event-start-at", required: false, many: false },
++    { pagePropertySlug: "instant-property/calendar-event-end-at", required: false, many: false },
++    { pagePropertySlug: "boolean-property/calendar-event-all-day", required: false, many: false },
++    { pagePropertySlug: "text-property/calendar-event-location", required: false, many: false },
++    { pagePropertySlug: "text-property/calendar-event-description", required: false, many: false },
++    {
++      pagePropertySlug: "text-property/calendar-event-types",
++      required: false,
++      many: true,
++      max: 20,
++    },
++    {
++      pagePropertySlug: "text-property/calendar-event-age-groups",
++      required: false,
++      many: true,
++      max: 20,
++    },
++    { pagePropertySlug: "text-property/calendar-event-tags", required: false, many: true, max: 20 },
++    { pagePropertySlug: "url-property/calendar-event-image-url", required: false, many: false },
++    {
++      pagePropertySlug: "number-property/calendar-event-max-attendees",
++      required: false,
++      many: false,
++    },
++    {
++      pagePropertySlug: "boolean-property/calendar-event-registration-required",
++      required: false,
++      many: false,
++    },
++    {
++      pagePropertySlug: "instant-property/calendar-event-registration-opens-at",
++      required: false,
++      many: false,
++    },
++    {
++      pagePropertySlug: "url-property/calendar-event-registration-url",
++      required: false,
++      many: false,
++    },
++    {
++      pagePropertySlug: "instant-property/calendar-event-last-synced-at",
++      required: false,
++      many: false,
++    },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
+index 70ea53dc753acf57a1eea0c8bb4c9131e07c567c..19095fff8e5ef5521e6975a9eb21483dd5a8cb20 100644
+--- a/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
++++ b/alan/harness/calendar/calendar-events/calendar-event.page-type.ts
+@@ -62,22 +62,52 @@ export const calendarEvent = {
+   ],
+   extendsSlug: ["page-type/page"],
+   properties: [
+-    { pagePropertySlug: "calendar-event-external-id", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-external-link", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-start-at", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-end-at", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-all-day", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-location", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-description", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-types", required: false, many: true, max: 20 },
+-    { pagePropertySlug: "calendar-event-age-groups", required: false, many: true, max: 20 },
+-    { pagePropertySlug: "calendar-event-tags", required: false, many: true, max: 20 },
+-    { pagePropertySlug: "calendar-event-image-url", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-max-attendees", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-registration-required", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-registration-opens-at", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-registration-url", required: false, many: false },
+-    { pagePropertySlug: "calendar-event-last-synced-at", required: false, many: false },
++    { pagePropertySlug: "text-property/calendar-event-external-id", required: false, many: false },
++    { pagePropertySlug: "url-property/calendar-event-external-link", required: false, many: false },
++    { pagePropertySlug: "instant-property/calendar-event-start-at", required: false, many: false },
++    { pagePropertySlug: "instant-property/calendar-event-end-at", required: false, many: false },
++    { pagePropertySlug: "boolean-property/calendar-event-all-day", required: false, many: false },
++    { pagePropertySlug: "text-property/calendar-event-location", required: false, many: false },
++    { pagePropertySlug: "text-property/calendar-event-description", required: false, many: false },
++    {
++      pagePropertySlug: "text-property/calendar-event-types",
++      required: false,
++      many: true,
++      max: 20,
++    },
++    {
++      pagePropertySlug: "text-property/calendar-event-age-groups",
++      required: false,
++      many: true,
++      max: 20,
++    },
++    { pagePropertySlug: "text-property/calendar-event-tags", required: false, many: true, max: 20 },
++    { pagePropertySlug: "url-property/calendar-event-image-url", required: false, many: false },
++    {
++      pagePropertySlug: "number-property/calendar-event-max-attendees",
++      required: false,
++      many: false,
++    },
++    {
++      pagePropertySlug: "boolean-property/calendar-event-registration-required",
++      required: false,
++      many: false,
++    },
++    {
++      pagePropertySlug: "instant-property/calendar-event-registration-opens-at",
++      required: false,
++      many: false,
++    },
++    {
++      pagePropertySlug: "url-property/calendar-event-registration-url",
++      required: false,
++      many: false,
++    },
++    {
++      pagePropertySlug: "instant-property/calendar-event-last-synced-at",
++      required: false,
++      many: false,
++    },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+index a2851d2470547ed09e21df420c8caec4f1c0d720..224342cbc972faeaeb34b0cbde5e48a7e404fc9b 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/code-editor-data-interface.page-type.ts
+@@ -36,10 +36,10 @@ export const codeEditorDataInterface = {
+     "code-editor-data-interface/terminal-tabs",
+   ],
+   properties: [
+-    { pagePropertySlug: "cooldown-milliseconds", required: true, many: false },
+-    { pagePropertySlug: "ambient-types", required: true, many: false, default: "ts" },
++    { pagePropertySlug: "number-property/cooldown-milliseconds", required: true, many: false },
++    { pagePropertySlug: "file-property/ambient-types", required: true, many: false, default: "ts" },
+     {
+-      pagePropertySlug: "state",
++      pagePropertySlug: "file-property/state",
+       required: false,
+       many: false,
+       uncommitted: true,
+diff --git a/alan/harness/monarch/category-rules/category-rule-agents/category-rule-agent.page-type.ts b/alan/harness/monarch/category-rules/category-rule-agents/category-rule-agent.page-type.ts
+index 2a253e75a8e3809f749fc8fcebec08d161561e17..07e2c839dca8fc2f7992d63ebd8ab34550c830bc 100644
+--- a/alan/harness/monarch/category-rules/category-rule-agents/category-rule-agent.page-type.ts
++++ b/alan/harness/monarch/category-rules/category-rule-agents/category-rule-agent.page-type.ts
+@@ -14,7 +14,7 @@ export const categoryRuleAgent = {
+   pluralSlug: "category-rule-agents",
+   extendsSlug: ["page-type/category-rule"],
+   partSlugs: ["text-property/judgement"],
+-  properties: [{ pagePropertySlug: "judgement", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/judgement", required: true, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/alan/harness/monarch/category-rules/category-rule.page-type.ts b/alan/harness/monarch/category-rules/category-rule.page-type.ts
+index 88aedeac1c2c787b57ece30ccc09fc8b5d695d50..d1f4c763a9f9eb10514b83db2c1f60d3d266a2bd 100644
+--- a/alan/harness/monarch/category-rules/category-rule.page-type.ts
++++ b/alan/harness/monarch/category-rules/category-rule.page-type.ts
+@@ -31,11 +31,11 @@ export const categoryRule = {
+     "text-property/rule-note",
+   ],
+   properties: [
+-    { pagePropertySlug: "title", required: true, many: false },
+-    { pagePropertySlug: "matches", required: true, many: true, max: 10 },
+-    { pagePropertySlug: "category-slug", required: false, many: false },
+-    { pagePropertySlug: "rule-note", required: false, many: false },
+-    { pagePropertySlug: "counterpart-within-days", required: false, many: false },
++    { pagePropertySlug: "text-property/title", required: true, many: false },
++    { pagePropertySlug: "record-property/matches", required: true, many: true, max: 10 },
++    { pagePropertySlug: "relation-property/category-slug", required: false, many: false },
++    { pagePropertySlug: "text-property/rule-note", required: false, many: false },
++    { pagePropertySlug: "number-property/counterpart-within-days", required: false, many: false },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/category-rules/properties/matches.record-property.ts b/alan/harness/monarch/category-rules/properties/matches.record-property.ts
+index 0a404af6b9bd82bbb220a0966344811c2d6ad411..1ff7faab19f3ab87050ef35ffc401074fb27a5cf 100644
+--- a/alan/harness/monarch/category-rules/properties/matches.record-property.ts
++++ b/alan/harness/monarch/category-rules/properties/matches.record-property.ts
+@@ -19,9 +19,9 @@ export const matches = {
+   propertySlug: "matches",
+   definition: "what a rule tests a transaction against, each with the key tested and how",
+   properties: [
+-    { pagePropertySlug: "match-key", required: true, many: false },
+-    { pagePropertySlug: "match-comparison", required: true, many: false },
+-    { pagePropertySlug: "match-values", required: true, many: true, max: 20 },
++    { pagePropertySlug: "select-property/match-key", required: true, many: false },
++    { pagePropertySlug: "select-property/match-comparison", required: true, many: false },
++    { pagePropertySlug: "text-property/match-values", required: true, many: true, max: 20 },
+   ],
+   invariants: [
+     {
+diff --git a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+index 85786b70738165c22c0c831b3cdd2ab8d9366320..7ebd6c69a6aef371fde996572826464c40c2224f 100644
+--- a/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
++++ b/alan/harness/monarch/monarch-accounts/monarch-account.page-type.ts
+@@ -32,23 +32,23 @@ export const monarchAccount = {
+     "text-property/account-display-name",
+   ],
+   properties: [
+-    { pagePropertySlug: "account-display-name", required: true, many: false },
+-    { pagePropertySlug: "current-balance", required: true, many: false },
+-    { pagePropertySlug: "account-type", required: true, many: false },
+-    { pagePropertySlug: "asset", required: true, many: false },
+-    { pagePropertySlug: "account-active", required: true, many: false },
+-    { pagePropertySlug: "account-hidden", required: true, many: false },
++    { pagePropertySlug: "text-property/account-display-name", required: true, many: false },
++    { pagePropertySlug: "number-property/current-balance", required: true, many: false },
++    { pagePropertySlug: "select-property/account-type", required: true, many: false },
++    { pagePropertySlug: "boolean-property/asset", required: true, many: false },
++    { pagePropertySlug: "boolean-property/account-active", required: true, many: false },
++    { pagePropertySlug: "boolean-property/account-hidden", required: true, many: false },
+   ],
+   invariants: [
+     {
+       invariantKind: "departure",
+       statement:
+-        "An account with no transaction is still an account, a retirement or brokerage balance that moves.",
++        "An account holding no transaction is still an account, a retirement or brokerage balance moving without a row against it.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "Monarch reopens a closed account under a second id rather than reviving the first.",
++        "Monarch reopens a closed account under a second id rather than reviving the first, so two accounts carry the same last four digits.",
+     },
+     {
+       invariantKind: "departure",
