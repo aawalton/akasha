@@ -1,4 +1,12 @@
-import { appendFileSync, cpSync, existsSync, mkdirSync, rmSync, writeFileSync } from "node:fs"
+import {
+  appendFileSync,
+  cpSync,
+  existsSync,
+  mkdirSync,
+  readFileSync,
+  rmSync,
+  writeFileSync,
+} from "node:fs"
 import { dirname, join } from "node:path"
 import { everyFileUnder } from "@akasha/testing-system/walking"
 import type { Entry } from "../entries/index-entries.module.code.ts"
@@ -249,6 +257,23 @@ export function idCopied(from: string, into: string, id: string): undefined {
 
 export function listedTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
   taking(root, join(indexIdentity.name, pageTypeSlug, SLUG, `${slug}${ENDING}`))
+}
+
+function slugSaid(line: string): unknown {
+  try {
+    return (JSON.parse(line) as { value?: { slug?: unknown } }).value?.slug
+  } catch {
+    return undefined
+  }
+}
+
+export function valueTakenFrom(root: string, pageTypeSlug: string, slug: string): undefined {
+  const at = under(root, `${join(indexValue.name, pageTypeSlug)}${ENDING}`)
+  if (!existsSync(at)) return
+  const kept = readFileSync(at, "utf8")
+    .split("\n")
+    .filter((one) => one !== "" && slugSaid(one) !== slug)
+  writeFileSync(at, kept.map((one) => `${one}\n`).join(""))
 }
 
 export function importsListed(root: string): boolean {

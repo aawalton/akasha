@@ -118,7 +118,19 @@ export const index = {
     },
     {
       invariantKind: "gap",
-      statement: "Only an importer of a file is refused, and only for a path that makes an edge.",
+      statement: "Only an importer of a file is refused.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "Only a path that makes an edge refuses the importers of that path.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A fixture files a page into every index a reader reads that page from.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A fixture takes a page out of every index answering for that page.",
     },
     {
       invariantKind: "gap",

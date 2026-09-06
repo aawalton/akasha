@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { existsSync, readFileSync } from "node:fs"
 import { join } from "node:path"
-import { listedTakenFrom } from "@akasha/indexes/testing"
+import { listedTakenFrom, valueTakenFrom } from "@akasha/indexes/testing"
 import { ADMITS_CODE, REFUSES_CODE } from "@akasha/testing-system/minting"
 import { put } from "@akasha/testing-system/putting"
 import { patch } from "../commands/patch/patch.command.code.ts"
@@ -178,6 +178,7 @@ test("a gate counts the removal it judged beside the body it wrote, so a move is
 test("a landing whose phase runs no check says the paths landed unjudged", async () => {
   const root = repoWith()
   listedTakenFrom(root, "code-check", "admits")
+  valueTakenFrom(root, "code-check", "admits")
   checking(root, "later", ADMITS_CODE, "deploy")
   const said = await wrote(root, ["--message", "held"])
   expect(said.code).toBe(0)
