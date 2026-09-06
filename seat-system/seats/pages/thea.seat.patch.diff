@@ -1,0 +1,26 @@
+diff --git a/domains/initiatives/pages/nimue-computed-properties.initiative.ts b/domains/initiatives/pages/nimue-computed-properties.initiative.ts
+index 9033b489926a59aec421ba79ea94740feb30e44c..27dc210823d4ebafb58bc3b34f85fdfa10308008 100644
+--- a/domains/initiatives/pages/nimue-computed-properties.initiative.ts
++++ b/domains/initiatives/pages/nimue-computed-properties.initiative.ts
+@@ -21,7 +21,7 @@ export const nimueComputedProperties = {
+       statement:
+         "A check refuses a calculation reaching outside its shape or answering twice over.",
+       workingMemory:
+-        "`calculation-imports-only-types` is landed and judging at every phase. It refuses a value import in a computed property's code file, which typecheck passes and which fails only at query time. Proved by a seeded import that resolves: one refusal, typecheck silent. Left here: that the one export is named `work`, which `workIn` already states so a second statement would be one rule in two files, and that `holds` agrees with the return type.",
++        "`calculation-imports-only-types` is landed and judging at patch alone. It refuses a value import in a computed property's code file, which typecheck passes and which fails only at query time. Proved by a seeded import that resolves: one refusal, typecheck silent. Left here: that the one export is named `work`, which `workIn` already states so a second statement would be one rule in two files, and that `holds` agrees with the return type.",
+     },
+   ],
+   constraints: [
+diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
+index d838489dd1fdfc7b07e35362f5f2a1b1a719263e..e1cc2d6ea011b296b427329f1a7bafe25d8497c7 100644
+--- a/domains/initiatives/pages/thea-checks-system.initiative.ts
++++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
+@@ -10,7 +10,7 @@ export const theaChecksSystem = {
+     {
+       statement: "Every check is cheap enough for patch and runs there.",
+       workingMemory:
+-        "Four steps: 1 the failure category prevented, 2 the right files judged at patch, 3 cheap at patch, 4 turned on. A check no changed path satisfies never runs, so a file not judged costs nothing. Cost is read from the entries beside each check's page; their count is the change's size, not the check's own. 43 checks, alphabetical. Done: domain-is-named-by-a-parent, email-address-is-well-formed, file-has-its-page. Next: file-length. calculation-imports-only-types is on at patch but took no step.",
++        "Four steps: 1 the failure category prevented, 2 the right files judged at patch, 3 cheap at patch, 4 turned on. A check no changed path satisfies never runs, so a file not judged costs nothing. Cost is read from the entries beside each check's page; their count is the change's size, not the check's own. 43 checks, alphabetical. Done: domain-is-named-by-a-parent, email-address-is-well-formed, file-has-its-page. Now: calculation-imports-only-types, step 1 done. Then file-length.",
+     },
+     {
+       statement: "The tests beside a changed file judge the change that carries it.",
