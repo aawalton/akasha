@@ -155,3 +155,33 @@ index dba351e3521cc29e0e56d17c92b3005fd8de0dc6..d8775e418536f6777cb224dc82d22f8b
      },
      {
        invariantKind: "absence",
+diff --git a/seat-system/agent-page-reading/agent-page-reading.module.code.ts b/seat-system/agent-page-reading/agent-page-reading.module.code.ts
+index 0211e865817e9662097fae2e08a2a42920d3303c..d2c3e1a5cc3db4ea44a5f66d4f5c9cde768ea157 100644
+--- a/seat-system/agent-page-reading/agent-page-reading.module.code.ts
++++ b/seat-system/agent-page-reading/agent-page-reading.module.code.ts
+@@ -10,6 +10,8 @@ const PRINCIPAL_SEAT_NAME = "principalSeatName"
+ 
+ const AGENT_ID = "agentId"
+ 
++const DISPATCHED_AS = "dispatchedAs"
++
+ const SUBAGENT_MARK = "--"
+ 
+ function declaredAt(at: string, root: string): Value | null {
+@@ -32,6 +34,7 @@ export interface SubagentPage {
+   readonly seat: string
+   readonly own: string
+   readonly at: string
++  readonly dispatchedAs: string | null
+ }
+ 
+ export function subagentPagesStanding(root: string): readonly SubagentPage[] {
+@@ -46,7 +49,7 @@ export function subagentPagesStanding(root: string): readonly SubagentPage[] {
+     if (parts <= 0) continue
+     const own = agentId.slice(parts + SUBAGENT_MARK.length)
+     if (own === "") continue
+-    found.push({ seat, own, at: listed.path })
++    found.push({ seat, own, at: listed.path, dispatchedAs: textIn(held, DISPATCHED_AS) })
+   }
+   return found
+ }
