@@ -88,12 +88,16 @@ export const commandSystem = {
     },
     {
       invariantKind: "absence",
-      statement: "No command of the old ops CLI remains, and nothing dispatches one.",
+      statement: "No command of the old ops CLI remains.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing dispatches an ops command.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A command is reached by importing it or by naming it rather than by spelling its path.",
+        "A command is reached by import or by name rather than by spelling the command's path.",
     },
     {
       invariantKind: "departure",
