@@ -271,12 +271,17 @@ export function everythingIn(root: string): Change {
   return { root, changed: everyFileInside(root), before: both, after: both }
 }
 
+function isFolder(thrown: unknown): boolean {
+  if (thrown === null || typeof thrown !== "object" || !("code" in thrown)) return false
+  return thrown.code === "EISDIR"
+}
+
 export function onDisk(root: string): (path: string) => Uint8Array | null {
   return (path) => {
     try {
       return readFileSync(join(root, path))
     } catch (thrown) {
-      if (isMissing(thrown)) return null
+      if (isMissing(thrown) || isFolder(thrown)) return null
       throw new Error(`${path} is there and would not open — ${String(thrown)}`)
     }
   }
