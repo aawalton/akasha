@@ -16,7 +16,7 @@ export const upkeepActivity = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The reading is the one the tracking day carries for the day asked for.",
+      statement: "The reading is the reading the tracking day carries for the day asked for.",
     },
     {
       invariantKind: "departure",
