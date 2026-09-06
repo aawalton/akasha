@@ -18,7 +18,7 @@ export const memoryReaperOwner = {
     },
     {
       invariantKind: "departure",
-      statement: "The nearest ancestor naming a seat is the one the process belongs to.",
+      statement: "The nearest ancestor naming a seat is the seat the process belongs to.",
     },
     {
       invariantKind: "departure",
