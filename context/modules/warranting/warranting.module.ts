@@ -56,7 +56,8 @@ export const warranting = {
     },
     {
       invariantKind: "departure",
-      statement: "A list held back says how many readings are owed past it and to call again.",
+      statement:
+        "A list held back says how many readings are owed past the list and to call again.",
     },
     {
       invariantKind: "departure",
@@ -66,10 +67,6 @@ export const warranting = {
       invariantKind: "departure",
       statement:
         "A call charged to no agent is refused whole and said to be impossible rather than merely wrong.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "Warrants apply to an authored change alone.",
     },
     {
       invariantKind: "departure",
