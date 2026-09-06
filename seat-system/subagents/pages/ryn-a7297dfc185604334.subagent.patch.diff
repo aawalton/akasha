@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/worked-typing/worked-typing.module.ts b/command-system/worked-typing/worked-typing.module.ts
-index 198b71b9e8317c7bd8cd1946789e08e5a9ccabc7..c19f009efc55a7a2ce01c327c13d80ff5d2bacc6 100644
+index 198b71b9e8317c7bd8cd1946789e08e5a9ccabc7..c2df1e1162bd79fd42b84965580aab3f384c2be3 100644
 --- a/command-system/worked-typing/worked-typing.module.ts
 +++ b/command-system/worked-typing/worked-typing.module.ts
 @@ -43,7 +43,8 @@ export const workedTyping = {
@@ -10,6 +10,15 @@ index 198b71b9e8317c7bd8cd1946789e08e5a9ccabc7..c19f009efc55a7a2ce01c327c13d80ff
 -      statement: "A stored property declaring a worked form is omitted from the type it extends.",
 +      statement:
 +        "A stored property declaring a worked form is omitted from the type the worked type extends.",
+     },
+     {
+       invariantKind: "departure",
+@@ -59,7 +60,7 @@ export const workedTyping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A file already holding what would be written again is left alone.",
++      statement: "A file already holding the body that would be written again is left alone.",
      },
      {
        invariantKind: "departure",
