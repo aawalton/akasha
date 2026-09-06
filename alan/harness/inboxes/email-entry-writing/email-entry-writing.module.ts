@@ -50,7 +50,7 @@ export const emailEntryWriting = {
     },
     {
       invariantKind: "constraint",
-      statement: "The first tick after a day boundary is the one this road has to answer for.",
+      statement: "The first tick after a day boundary is the tick this road has to answer for.",
     },
   ],
 } as const satisfies Module
