@@ -3865,13 +3865,14 @@ index 0000000000000000000000000000000000000000..4b6742bc71585f2a0cd7d441e7e36526
 +} as const satisfies MasteryLevel
 diff --git a/alan/library/book-of-everything/mastery-levels/pages/scholar.mastery-level.ts b/alan/library/book-of-everything/mastery-levels/pages/scholar.mastery-level.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..4daca27446ef55ef98f200736895eb7a30ec348b
+index 0000000000000000000000000000000000000000..396b54761b1ec45fe8fd6f6c76d674142f51fa2c
 --- /dev/null
 +++ b/alan/library/book-of-everything/mastery-levels/pages/scholar.mastery-level.ts
-@@ -0,0 +1,10 @@
+@@ -0,0 +1,11 @@
 +import type { MasteryLevel } from "../mastery-level.page-type.ts"
 +
 +export const scholar = {
++  id: "01a0784a-cdb9-7a08-987d-f49f5a6368b3",
 +  pageTypeSlug: "mastery-level",
 +  slug: "scholar",
 +  definition: "a model that generates rather than recalls",
