@@ -45,3 +45,58 @@ index 0000000000000000000000000000000000000000..a5169276a8d50bbdb85c294495da1c20
 +    },
 +  ],
 +} as const satisfies RecordProperty
+diff --git a/service-system/secrets/secret.page-type.ts b/service-system/secrets/secret.page-type.ts
+index 189a79812deb8075f2eae6c8013f84d0d4a222e8..0d6280faf4517d91b17ae846d5d289641e658e3e 100644
+--- a/service-system/secrets/secret.page-type.ts
++++ b/service-system/secrets/secret.page-type.ts
+@@ -1,12 +1,10 @@
+ import type { Page } from "@akasha/pages/page"
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { ResourceName } from "../cluster-services/properties/resource-name.text-property.ts"
+-import type { ResourceKey } from "./properties/resource-key.text-property.ts"
++import type { Placements } from "./properties/placements.record-property.ts"
+ import type { SecretValue } from "./properties/secret-value.text-property.ts"
+ 
+ export type Secret = Page & {
+-  resourceName: ResourceName
+-  resourceKey: ResourceKey
++  placements: Placements
+   value?: SecretValue
+ }
+ 
+@@ -17,10 +15,13 @@ export const secret = {
+   definition: "one secret value under a name of its own",
+   pluralSlug: "secrets",
+   extendsSlug: ["page-type/page"],
+-  partSlugs: ["text-property/resource-key", "text-property/secret-value"],
++  partSlugs: [
++    "record-property/placements",
++    "text-property/resource-key",
++    "text-property/secret-value",
++  ],
+   properties: [
+-    { pagePropertySlug: "resource-name", required: true, many: false },
+-    { pagePropertySlug: "resource-key", required: true, many: false },
++    { pagePropertySlug: "placements", required: true, many: true, max: null },
+     { pagePropertySlug: "secret-value", required: false, many: false, secret: true },
+   ],
+   invariants: [
+@@ -36,13 +37,17 @@ export const secret = {
+       invariantKind: "departure",
+       statement: "A resource of many keys is that many pages.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A value wanted in a second resource is a second placement rather than a copy.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The cluster is asked for the resource name and the key.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Two pages claiming one resource name and key are refused.",
++      statement: "Two pages putting a value in one resource under one key are refused.",
+     },
+     {
+       invariantKind: "gap",
