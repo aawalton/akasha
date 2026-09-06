@@ -14,7 +14,7 @@ export const wsBridge = {
     },
     {
       invariantKind: "departure",
-      statement: "Either side closing closes the other.",
+      statement: "Either side closing closes the far side.",
     },
   ],
 } as const satisfies Module
