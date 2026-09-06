@@ -18,7 +18,7 @@ import { baseOf } from "../../landing/landing.module.code.ts"
 import { respeltNames } from "../../outside-naming/outside-naming.module.code.ts"
 import { linkingsIn, reachedOver } from "../../package-linking/package-linking.module.code.ts"
 import type { Carry } from "../../reading/reading.module.code.ts"
-import { blobIdOf, carryReadings } from "../../reading/reading.module.code.ts"
+import { blobIdOf } from "../../reading/reading.module.code.ts"
 import { glassIn, messageIn } from "../write/write.command.code.ts"
 import { FROM, pairsIn, TO, VALUED } from "./arguing/move-arguing.module.code.ts"
 import { manifestingOver } from "./manifesting/move-manifesting.module.code.ts"
@@ -259,6 +259,7 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
     unmoved: [],
     read: base,
     carries: uncommitted,
+    readings: carries,
     saying: (landed) => [
       ...carrying(sided.sides, reached, false, spread, landed.cleared),
       ...resettlingSaid(root, named, true),
@@ -278,7 +279,6 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
     throw thrown
   }
   if (read.dryRun || landed.code !== 0) relink()
-  if (landed.code === 0 && !read.dryRun) carryReadings(root, carries)
   if (landed.code !== 0 || !read.dryRun) return landed
   const would = carrying(sided.sides, reached, true, spread, wouldClear(root, gone))
   const resaid = resettlingSaid(root, named, false)

@@ -21,11 +21,7 @@ export const refactorLanding = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading of every body that landed is carried with the landing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A reading is carried only where the landing was clean.",
+      statement: "The path a body came from is handed to the landing that carries the reading.",
     },
     {
       invariantKind: "departure",
@@ -39,7 +35,7 @@ export const refactorLanding = {
     {
       invariantKind: "departure",
       statement:
-        "A file a rename carries is taken away at the name it had and written at the name it becomes.",
+        "A file a rename carries is taken away at the old name and written at the name that file becomes.",
     },
     {
       invariantKind: "departure",
@@ -52,7 +48,7 @@ export const refactorLanding = {
     {
       invariantKind: "departure",
       statement:
-        "A body respelled at a path this carries is written at the name that path becomes.",
+        "A body respelled at a path a rename carries is written at the name that path becomes.",
     },
     {
       invariantKind: "absence",
