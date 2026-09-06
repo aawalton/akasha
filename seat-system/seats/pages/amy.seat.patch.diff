@@ -58,3 +58,15 @@ index f0221404344db9fa83c04f83ea1f47468ea35854..d30a04759620843b011487849f04e110
    viewPlace: 0,
    viewSorts: [{ key: "seven-day-started-at", descending: false }],
    visibleProperties: [
+diff --git a/pages/views/pages/computers-list.view.ts b/pages/views/pages/computers-list.view.ts
+index c9d140dec7b41ffa3c1de6e1313497df721a5f1f..ed168355f65271dcf425ac353a93bb93e99fc7a9 100644
+--- a/pages/views/pages/computers-list.view.ts
++++ b/pages/views/pages/computers-list.view.ts
+@@ -6,6 +6,7 @@ export const computersList = {
+   slug: "computers-list",
+   title: "List",
+   navSlug: "computers",
++  pageType: "computer",
+   viewPlace: 0,
+   layout: "table",
+   viewSorts: [{ key: "title", descending: false }],
