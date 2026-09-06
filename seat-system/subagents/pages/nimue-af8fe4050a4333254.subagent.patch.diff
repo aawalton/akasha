@@ -1,0 +1,126 @@
+diff --git a/agents/claude-accounts/properties/effective-five-hour-percent-used.computed-property.code.ts b/agents/claude-accounts/properties/effective-five-hour-percent-used.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..eda1eb28a63fce09af0f3c66a729f6d4aeed247d
+--- /dev/null
++++ b/agents/claude-accounts/properties/effective-five-hour-percent-used.computed-property.code.ts
+@@ -0,0 +1,22 @@
++import type { Work } from "@akasha/pages/computed-property"
++import type { ClaudeAccount } from "../claude-account.page-type.ts"
++
++const CEILING = 100
++
++function withdrawn(said: unknown): boolean {
++  return typeof said === "string" && said !== ""
++}
++
++function percentIn(said: unknown): number | null {
++  if (typeof said === "number") return Number.isFinite(said) ? said : null
++  if (typeof said !== "string" || said === "") return null
++  const found = Number(said)
++  return Number.isFinite(found) ? found : null
++}
++
++export const work: Work<ClaudeAccount, number> = (page) => {
++  if (withdrawn(page.subscriptionDisabledReason)) return CEILING
++  const seven = percentIn(page.sevenDayPercentUsed)
++  if (seven !== null && seven >= CEILING) return CEILING
++  return percentIn(page.fiveHourPercentUsed)
++}
+diff --git a/agents/claude-accounts/properties/effective-five-hour-percent-used.computed-property.ts b/agents/claude-accounts/properties/effective-five-hour-percent-used.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ca4f2d8e7f12da779a0b62e07a86934d91b2c49d
+--- /dev/null
++++ b/agents/claude-accounts/properties/effective-five-hour-percent-used.computed-property.ts
+@@ -0,0 +1,32 @@
++import type { ComputedProperty } from "@akasha/pages/computed-property"
++
++export type EffectiveFiveHourPercentUsed = number
++
++export const effectiveFiveHourPercentUsed = {
++  id: "01a07659-1795-7ecf-b6af-a6a32cda7a73",
++  pageTypeSlug: "computed-property",
++  slug: "effective-five-hour-percent-used",
++  propertySlug: "effective-five-hour-percent-used",
++  definition:
++    "how much of the five-hour allowance is spent, a withdrawn or spent week counting as all of it",
++  holds: "number",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An account whose subscription is withdrawn has spent the whole of the window.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An account that has spent its seven-day window has spent its five-hour one.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An account carrying no percent is worked out as no reading rather than as zero.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A percent stated as text is read as the number that percent spells.",
++    },
++  ],
++} as const satisfies ComputedProperty
+diff --git a/agents/claude-accounts/properties/effective-seven-day-percent-used.computed-property.code.ts b/agents/claude-accounts/properties/effective-seven-day-percent-used.computed-property.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..12a1ca724e5db5eaf07ad2126afcc947a76080d7
+--- /dev/null
++++ b/agents/claude-accounts/properties/effective-seven-day-percent-used.computed-property.code.ts
+@@ -0,0 +1,20 @@
++import type { Work } from "@akasha/pages/computed-property"
++import type { ClaudeAccount } from "../claude-account.page-type.ts"
++
++const CEILING = 100
++
++function withdrawn(said: unknown): boolean {
++  return typeof said === "string" && said !== ""
++}
++
++function percentIn(said: unknown): number | null {
++  if (typeof said === "number") return Number.isFinite(said) ? said : null
++  if (typeof said !== "string" || said === "") return null
++  const found = Number(said)
++  return Number.isFinite(found) ? found : null
++}
++
++export const work: Work<ClaudeAccount, number> = (page) => {
++  if (withdrawn(page.subscriptionDisabledReason)) return CEILING
++  return percentIn(page.sevenDayPercentUsed)
++}
+diff --git a/agents/claude-accounts/properties/effective-seven-day-percent-used.computed-property.ts b/agents/claude-accounts/properties/effective-seven-day-percent-used.computed-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ac89c3326a00e8d6737b23434300ff176422a507
+--- /dev/null
++++ b/agents/claude-accounts/properties/effective-seven-day-percent-used.computed-property.ts
+@@ -0,0 +1,28 @@
++import type { ComputedProperty } from "@akasha/pages/computed-property"
++
++export type EffectiveSevenDayPercentUsed = number
++
++export const effectiveSevenDayPercentUsed = {
++  id: "01a07659-1796-79b2-9c53-f9a3eb5ed248",
++  pageTypeSlug: "computed-property",
++  slug: "effective-seven-day-percent-used",
++  propertySlug: "effective-seven-day-percent-used",
++  definition:
++    "how much of the seven-day allowance is spent, a withdrawn subscription counting as all of it",
++  holds: "number",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An account whose subscription is withdrawn has spent the whole of the window.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An account carrying no percent is worked out as no reading rather than as zero.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A percent stated as text is read as the number that percent spells.",
++    },
++  ],
++} as const satisfies ComputedProperty
