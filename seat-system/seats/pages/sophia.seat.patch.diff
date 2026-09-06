@@ -1,0 +1,37 @@
+diff --git a/changes/kinds/pages/change-restated.change-kind.ts b/changes/kinds/pages/change-restated.change-kind.ts
+index 8c7fd54807dbd3f70fc557a10e9337bef99ba780..547bb18c902b108849c56148a6445c5beda58348 100644
+--- a/changes/kinds/pages/change-restated.change-kind.ts
++++ b/changes/kinds/pages/change-restated.change-kind.ts
+@@ -6,9 +6,18 @@ export const changeRestated = {
+   slug: "change-restated",
+   definition: "a change saying what a page already said in other words",
+   runsChecks: true,
+-  writerOwesReading: false,
++  writerOwesReading: true,
+   readersOweReading: false,
+   invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A restated change owes the reading an authored change owes.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Every reading of a page a restatement changes answers for the page the restatement leaves.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A restated change is composed by an agent rather than by a program.",
+diff --git a/command-system/commands/edit/edit.command.ts b/command-system/commands/edit/edit.command.ts
+index acd9040498423569d23d7af306946db7adfa91fe..1a7e8ae542bd38e0d80292429b68b81e22346224 100644
+--- a/command-system/commands/edit/edit.command.ts
++++ b/command-system/commands/edit/edit.command.ts
+@@ -22,7 +22,7 @@ export const edit = {
+   ],
+   helpNotes: [
+     "a mechanical change is made by the command for it rather than by passages stated here.",
+-    "`--restated` runs every check and owes no reading, so say it only where the meaning is unchanged.",
++    "`--restated` owes the reading a write owes and stales no reader, so say it only where the meaning is unchanged.",
+     "`move` carries and repoints, `refactor` renames and retypes, `replace` substitutes across files, `remove` takes away.",
+     "--file-path, --old-file and --new-file repeat in triples, so several files change as one.",
+     "a passage stated must be in the file exactly once, or the call is refused.",
