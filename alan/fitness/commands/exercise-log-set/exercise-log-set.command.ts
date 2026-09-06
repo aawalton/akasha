@@ -44,7 +44,7 @@ export const exerciseLogSet = {
     },
     {
       invariantKind: "departure",
-      statement: "The first set of a movement in a session is set one.",
+      statement: "A movement's first set in a session is numbered 1.",
     },
     {
       invariantKind: "departure",
