@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folders-only/folders-only.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folders-only/folders-only.folder-shape.ts
-index 9cad76567e80bef2047919fc2902d2a26e507db4..bc77b977490904d753e8122f5138ceafe32460b7 100644
+index 9cad76567e80bef2047919fc2902d2a26e507db4..52dc24c96d23c57c18d82523c011f4b464f9f6ed 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folders-only/folders-only.folder-shape.ts
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folders-only/folders-only.folder-shape.ts
 @@ -20,7 +20,7 @@ export const foldersOnly = {
@@ -12,3 +12,12 @@ index 9cad76567e80bef2047919fc2902d2a26e507db4..bc77b977490904d753e8122f5138ceaf
      },
      {
        invariantKind: "gap",
+@@ -28,7 +28,7 @@ export const foldersOnly = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "The akasha folder is judged by a shape of its own rather than by this one.",
++      statement: "The akasha folder is judged by a shape of its own rather than by this shape.",
+     },
+   ],
+ } as const satisfies FolderShape
