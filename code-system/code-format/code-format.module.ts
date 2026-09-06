@@ -16,7 +16,7 @@ export const codeFormat = {
     {
       invariantKind: "departure",
       statement:
-        "The formatter is the one the repo already stands on reached inside the root it is run for.",
+        "The formatter the repo already stands on is reached inside the root the formatting is run for.",
     },
     {
       invariantKind: "departure",
@@ -78,7 +78,7 @@ export const codeFormat = {
     },
     {
       invariantKind: "departure",
-      statement: "Reordering one of those characters is not changing one.",
+      statement: "Reordering those characters is not changing those characters.",
     },
     {
       invariantKind: "departure",
