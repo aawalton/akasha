@@ -1,0 +1,18 @@
+diff --git a/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts b/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts
+index a5f374d68f0e1b52427d37867361db346b555427..6f57d07b25c56dcace6cdbe8c9eb74a0737eb617 100644
+--- a/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts
++++ b/service-system/workstation-services/tick-ratchet/tick-ratchet.module.ts
+@@ -18,8 +18,11 @@ export const tickRatchet = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A run of throws is counted in whole ticks from one, and any other threshold is refused.",
++      statement: "A run of throws is counted in whole ticks beginning at `1`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Any other threshold is refused.",
+     },
+     {
+       invariantKind: "departure",
