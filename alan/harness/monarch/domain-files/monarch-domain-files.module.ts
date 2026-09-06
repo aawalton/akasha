@@ -14,7 +14,7 @@ export const monarchDomainFiles = {
     },
     {
       invariantKind: "departure",
-      statement: "The whole body is composed rather than a line of it patched.",
+      statement: "The whole body is composed rather than a line of that body patched.",
     },
     {
       invariantKind: "departure",
