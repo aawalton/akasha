@@ -1,5 +1,3 @@
-writerOwesReading: false
-readersOweReading: false
 diff --git a/pages/indexes/entries/index-entries.module.code.ts b/pages/indexes/entries/index-entries.module.code.ts
 index ef9f3b06ef763b5d4c99d40d050a9ab29963085c..7991332f3a11d942e03b2738cd367b0977fd2ef5 100644
 --- a/pages/indexes/entries/index-entries.module.code.ts
@@ -236,10 +234,10 @@ index 0000000000000000000000000000000000000000..53bb763c8d73dfde698355a52d9b400e
 +})
 diff --git a/pages/types/gathering/page-type-gathering.module.ts b/pages/types/gathering/page-type-gathering.module.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..bd20472153e00de565887c9d64d3807aa1fa35e1
+index 0000000000000000000000000000000000000000..67b030f95f0f8d8d5d9f82b2bd8f62c30ffcc6b6
 --- /dev/null
 +++ b/pages/types/gathering/page-type-gathering.module.ts
-@@ -0,0 +1,33 @@
+@@ -0,0 +1,32 @@
 +import type { Module } from "@akasha/code/module"
 +
 +export const pageTypeGathering = {
@@ -260,8 +258,7 @@ index 0000000000000000000000000000000000000000..bd20472153e00de565887c9d64d3807a
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement:
-+        "A type reaching `page-type` through another type is found on a later pass than that other.",
++      statement: "The walk finds a type only after finding every type that type extends.",
 +    },
 +    {
 +      invariantKind: "departure",
