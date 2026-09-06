@@ -1,3 +1,24 @@
+diff --git a/command-system/asking/asking.module.test-fixtures.ts b/command-system/asking/asking.module.test-fixtures.ts
+index f651f60dd17d7c2ca8c4fb8fc6b6d2328d530d9a..a58ec6ac291c33b253bdeca54616977d2938eede 100644
+--- a/command-system/asking/asking.module.test-fixtures.ts
++++ b/command-system/asking/asking.module.test-fixtures.ts
+@@ -236,14 +236,14 @@ export const mechanically = async (root: string): Promise<number> =>
+ 
+ export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
+ 
+-export const ranBy = (runsChecks: boolean, owesReading: boolean): Running =>
++export const ranBy = (runsChecks: boolean, owesReading: boolean, stalesReaders: boolean): Running =>
+   runningOf({
+     ...givenIn(""),
+     changeKind: {
+       slug: "held",
+       runsChecks,
+       writerOwesReading: owesReading,
+-      readersOweReading: false,
++      readersOweReading: stalesReaders,
+     },
+   })
+ 
 diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
 index 17f733ec596a0fdf6df4e49381c51a17542dde69..1a2447e292548e9be9b75e8e7108b4e677959293 100644
 --- a/command-system/drafting/drafting.module.code.ts
