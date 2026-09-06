@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts
-index 8e72d99b01bc1e231e1d3e5d7ebc678e5af585ca..d209641c9213c83e68b3ac2857d508d32d797a40 100644
+index 8e72d99b01bc1e231e1d3e5d7ebc678e5af585ca..4caddac6c3d1e703a48c978ebfd6e9e312b4cf55 100644
 --- a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts
 +++ b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts
 @@ -15,8 +15,11 @@ export const introducedPropertyIsAPart = {
@@ -16,3 +16,12 @@ index 8e72d99b01bc1e231e1d3e5d7ebc678e5af585ca..d209641c9213c83e68b3ac2857d508d3
      },
      {
        invariantKind: "departure",
+@@ -59,7 +62,7 @@ export const introducedPropertyIsAPart = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "A property two page types introduce stands under the one that introduces that property.",
++        "A property two page types introduce is a part of the page type that introduces that property.",
+     },
+   ],
+ } as const satisfies CodeCheck
