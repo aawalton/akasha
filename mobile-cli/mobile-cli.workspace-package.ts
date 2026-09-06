@@ -41,12 +41,11 @@ export const mobileCli = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every build runs on the one mac this workstation reaches over ssh.",
+      statement: "Every build runs on the single mac this workstation reaches over ssh.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "What a program compiles is read off its `ios-program` page rather than off the Swift.",
+      statement: "The sources a program compiles are read off that program's `ios-program` page.",
     },
     {
       invariantKind: "departure",
