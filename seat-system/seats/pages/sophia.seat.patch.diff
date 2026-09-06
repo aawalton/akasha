@@ -1,4 +1,3 @@
-runsWarrants: false
 diff --git a/context/warrants/context-warrant.page-type.ts b/context/warrants/context-warrant.page-type.ts
 index 229c4979c52caef9abce2736aa8a03089bd114e3..da8d1db1763e3f83aefb1aef4db41954af844238 100644
 --- a/context/warrants/context-warrant.page-type.ts
@@ -309,17 +308,17 @@ index 0000000000000000000000000000000000000000..95043310456b62667d6ebec45c7fdae8
 +})
 diff --git a/context/warrants/seat-persona/seat-persona.context-warrant.ts b/context/warrants/seat-persona/seat-persona.context-warrant.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..943f27f9bb123ca5cb0ea5894df53083813a2c0e
+index 0000000000000000000000000000000000000000..cb68d4a2a6da82f8eaa716257b7603c3f296e0b8
 --- /dev/null
 +++ b/context/warrants/seat-persona/seat-persona.context-warrant.ts
-@@ -0,0 +1,35 @@
+@@ -0,0 +1,31 @@
 +import type { ContextWarrant } from "../context-warrant.page-type.ts"
 +
 +export const seatPersona = {
 +  id: "01a0582e-2829-7ac3-97b6-30591b0cdbde",
 +  pageTypeSlug: "context-warrant",
 +  slug: "seat-persona",
-+  definition: "what a seat must read for the type of the persona it states",
++  definition: "what a seat must read for the type every persona is held to",
 +  code: "ts",
 +  test: "ts",
 +  runsOnRead: true,
@@ -328,23 +327,19 @@ index 0000000000000000000000000000000000000000..943f27f9bb123ca5cb0ea5894df53083
 +  invariants: [
 +    {
 +      invariantKind: "departure",
-+      statement: "A seat warrants the type of the persona the seat states.",
++      statement: "A seat warrants the persona page type.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat stating no persona warrants the type all the same.",
 +    },
 +    {
 +      invariantKind: "absence",
-+      statement: "A seat warrants no type that the persona's type extends.",
++      statement: "A subagent speaks to nobody as a persona, so a subagent warrants no type here.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "The readings a page owes its type are one rule wherever the rule is asked.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A seat stating no persona warrants no type.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "A persona whose page cannot be found warrants no type.",
++      statement: "A persona page type that cannot be found is no warrant.",
 +    },
 +  ],
 +} as const satisfies ContextWarrant
