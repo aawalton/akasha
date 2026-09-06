@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-complete-enough-requires-of-the-book.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-complete-enough-requires-of-the-book.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1cda705a224b57480e80654000d4c8610c5d0813
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-complete-enough-requires-of-the-book.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatCompleteEnoughRequiresOfTheBook = {
++  id: "01a077ea-3e6a-741e-bfde-c098ccbf14e6",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-complete-enough-requires-of-the-book",
++  topicSlug: "what-the-book-of-me-is-for",
++  ask: "What does complete enough actually require of the book of me, in coverage and in fidelity, and what would tell me the book had arrived?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-compression-fits-me-on-one-machine.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-compression-fits-me-on-one-machine.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..78c9240075e31145475c7126b4f4e67ab26ab552
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-compression-fits-me-on-one-machine.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherCompressionFitsMeOnOneMachine = {
++  id: "01a077ea-3e6b-7309-8aa0-c2e2ef30764b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-compression-fits-me-on-one-machine",
++  topicSlug: "what-the-book-of-me-is-for",
++  ask: "Do clarity and compression ever get the whole picture onto one machine, and how do I compress the picture without losing the thing compressed?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-surveying-strangers-works-elsewhere.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-surveying-strangers-works-elsewhere.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bae74f5c7b3ad159c3521c88ebe39ecf31da73be
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-surveying-strangers-works-elsewhere.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherSurveyingStrangersWorksElsewhere = {
++  id: "01a077ea-3e68-7df3-94cb-819f06f57bdc",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-surveying-strangers-works-elsewhere",
++  topicSlug: "what-the-book-of-me-is-for",
++  ask: "In college I surveyed strangers, probed, aggregated across people and acted on the result. Does that way of getting at what I cannot see from inside work anywhere else?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-the-book-of-me-is-for.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-the-book-of-me-is-for.all-about-alan-topic.ts
+index 6b12bda4e3ccefd4bab00701aab6814a839672eb..fd47ff63f8ffdcd54700bdb05ee99820a3fdaa7f 100644
+--- a/alan/books/all-about-alan/topics/pages/what-the-book-of-me-is-for.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-the-book-of-me-is-for.all-about-alan-topic.ts
+@@ -14,6 +14,4 @@ export const whatTheBookOfMeIsFor = {
+   ],
+   settled:
+     "Watching me can only show what moves with what. A cause costs a real experiment on myself, every time.\n\nI cannot run one in my head for free the way most people can.\n\nWhat I am missing is buildable, but only outside my skull, and this corpus is what it gets built out of.\n\nSix hundred thousand words in, a sister running accurate what-ifs off it is still a long way off.\n\nThree gaps, one per layer: the watching unfinished, the top of me barely lived, and no machine big enough to hold it whole.",
+-  unsettled:
+-    "In college I surveyed strangers, probed, aggregated across people and acted on the result. Whether that way of getting at what I cannot see from inside works anywhere else is untested.\n\nWhat complete enough actually requires, how much coverage and what fidelity, and what would say it had arrived, is unmined.\n\nWhether clarity and compression ever get the whole picture onto one machine, and how to compress it without losing the thing it compresses, is open.",
+ } as const satisfies AllAboutAlanTopic
