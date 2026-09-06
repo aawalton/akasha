@@ -1,6 +1,6 @@
-runsWarrants: false
+writerOwesReading: false
 diff --git a/editor-extension/panel-domains/panel-domains.module.ts b/editor-extension/panel-domains/panel-domains.module.ts
-index 5ad41df774743de28f1c4bd92f8192044ac1b966..45385ec029b788288a2e39b73f76f1d2af27afff 100644
+index 5ad41df774743de28f1c4bd92f8192044ac1b966..7b306eb9e8f7e4f885edf442720dcffcc96bd3a4 100644
 --- a/editor-extension/panel-domains/panel-domains.module.ts
 +++ b/editor-extension/panel-domains/panel-domains.module.ts
 @@ -32,7 +32,7 @@ export const panelDomains = {
@@ -21,12 +21,18 @@ index 5ad41df774743de28f1c4bd92f8192044ac1b966..45385ec029b788288a2e39b73f76f1d2
      },
      {
        invariantKind: "departure",
-@@ -52,7 +52,7 @@ export const panelDomains = {
+@@ -52,11 +52,12 @@ export const panelDomains = {
      },
      {
        invariantKind: "departure",
 -      statement: "A domain two personas champion answers with the first of them by name.",
 +      statement: "A domain two personas champion answers with the first persona by name.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A domain no persona champions answers with no champion rather than an empty one.",
++      statement:
++        "A domain no persona champions answers with no champion rather than an empty champion.",
      },
      {
        invariantKind: "departure",
