@@ -1,0 +1,59 @@
+diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
+index 17f733ec596a0fdf6df4e49381c51a17542dde69..1a2447e292548e9be9b75e8e7108b4e677959293 100644
+--- a/command-system/drafting/drafting.module.code.ts
++++ b/command-system/drafting/drafting.module.code.ts
+@@ -42,13 +42,27 @@ const NOT_OWED_AT = "writerOwesReading: false"
+ 
+ const NOT_OWED_WAS = "runsWarrants: false"
+ 
++const NOT_STALED_AT = "readersOweReading: false"
++
+ const DIFF_AT = "diff --git "
+ 
+-export type Running = { readonly checks: boolean; readonly writerOwesReading: boolean }
++export type Running = {
++  readonly checks: boolean
++  readonly writerOwesReading: boolean
++  readonly readersOweReading: boolean
++}
+ 
+-export const AUTHORED: Running = { checks: true, writerOwesReading: true }
++export const AUTHORED: Running = {
++  checks: true,
++  writerOwesReading: true,
++  readersOweReading: true,
++}
+ 
+-const RUNS_NOTHING: Running = { checks: false, writerOwesReading: false }
++const RUNS_NOTHING: Running = {
++  checks: false,
++  writerOwesReading: false,
++  readersOweReading: false,
++}
+ 
+ export type Draft = {
+   readonly path: string
+@@ -213,6 +227,7 @@ export function runningIn(patch: string | null): Running {
+   return {
+     checks: !lines.includes(NO_CHECKS_AT),
+     writerOwesReading: !lines.includes(NOT_OWED_AT) && !lines.includes(NOT_OWED_WAS),
++    readersOweReading: !lines.includes(NOT_STALED_AT),
+   }
+ }
+ 
+@@ -220,6 +235,7 @@ function eitherOf(one: Running, two: Running): Running {
+   return {
+     checks: one.checks || two.checks,
+     writerOwesReading: one.writerOwesReading || two.writerOwesReading,
++    readersOweReading: one.readersOweReading || two.readersOweReading,
+   }
+ }
+ 
+@@ -227,6 +243,7 @@ function preambleOf(running: Running): string {
+   const said = [
+     ...(running.checks ? [] : [NO_CHECKS_AT]),
+     ...(running.writerOwesReading ? [] : [NOT_OWED_AT]),
++    ...(running.readersOweReading ? [] : [NOT_STALED_AT]),
+   ]
+   return said.length === 0 ? "" : `${said.join("\n")}\n`
+ }
