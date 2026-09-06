@@ -235,7 +235,10 @@ export function asking(root: string, query: Query): Asked {
   if (unnamed !== null) return { refused: unnamed }
   let held: readonly Valued[]
   try {
-    const counted = computedInto(gatheredFor(root, query.pageTypeSlug, carried, query.files ?? []))
+    const counted = computedInto(
+      root,
+      gatheredFor(root, query.pageTypeSlug, carried, query.files ?? [])
+    )
     const darkened = unlit(query, counted.dark)
     if (darkened !== null) return { refused: darkened }
     held = counted.rows.filter((one) => narrows(one.value, query.where))

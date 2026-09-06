@@ -39,6 +39,31 @@ export const kindsGathering = {
       statement: "A calculation reaching a slug reaches the first row gathered under that slug.",
     },
     {
+      invariantKind: "departure",
+      statement: "A slug no row gathered carries is looked for in the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A page is named to the index as that page's page type and its slug joined by a slash.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page reached through the index carries its own page type's calculations.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which pages name a page under one property is read from the relation index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page type's values are read once however many pages reach into that page type.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "No page type is read until a calculation reaches into that page type.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a question or refuses a question.",
     },
