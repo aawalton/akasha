@@ -1,0 +1,22 @@
+diff --git a/alan/fitness/commands/exercise-session-start/exercise-session-start.command.ts b/alan/fitness/commands/exercise-session-start/exercise-session-start.command.ts
+index 3f44265eaab4c50032efb873ac0060079a73bcff..263d2f207c2eb6aa8f19ed6841647c98c55848a0 100644
+--- a/alan/fitness/commands/exercise-session-start/exercise-session-start.command.ts
++++ b/alan/fitness/commands/exercise-session-start/exercise-session-start.command.ts
+@@ -28,7 +28,7 @@ export const exerciseSessionStart = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Sessions abandoned before this day are closed before this one is opened.",
++      statement: "A session abandoned before this day is closed before a new session is opened.",
+     },
+     {
+       invariantKind: "departure",
+@@ -36,7 +36,7 @@ export const exerciseSessionStart = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The session's title says the weekday, the focus and the date.",
++      statement: "The session's title says the weekday and the focus and the date.",
+     },
+     {
+       invariantKind: "departure",
