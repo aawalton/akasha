@@ -1,0 +1,31 @@
+diff --git a/command-system/commands/index/index.command.code.ts b/command-system/commands/index/index.command.code.ts
+index d95b74ae0fd956d84b64fabca32d53b463b04308..bf28a954a5716ff2309f8fdbc15b647ae47ef36a 100644
+--- a/command-system/commands/index/index.command.code.ts
++++ b/command-system/commands/index/index.command.code.ts
+@@ -77,15 +77,19 @@ export function named(paths: readonly string[]): string {
+   return paths.length > SHOWN ? `${shown}, and ${paths.length - SHOWN} more` : shown
+ }
+ 
+-export function driftSaid(drift: Drift): string {
++export function driftSaid(drift: Drift): readonly string[] {
+   const many = drift.added.length + drift.changed.length + drift.went.length
+-  if (many === 0) return "nothing in the index differed from what the pages say"
+-  return (
++  if (many === 0) return ["nothing in the index differed from what the pages say"]
++  const said = [
+     "the index differed from what the pages say — " +
+-    `${counted(drift.added.length, "file")} added, ` +
+-    `${counted(drift.changed.length, "file")} changed, ` +
+-    `${counted(drift.went.length, "file")} taken away`
+-  )
++      `${counted(drift.added.length, "file")} added, ` +
++      `${counted(drift.changed.length, "file")} changed, ` +
++      `${counted(drift.went.length, "file")} taken away`,
++  ]
++  if (drift.added.length > 0) said.push(`added — ${named(drift.added)}`)
++  if (drift.changed.length > 0) said.push(`changed — ${named(drift.changed)}`)
++  if (drift.went.length > 0) said.push(`taken away — ${named(drift.went)}`)
++  return said
+ }
+ 
+ function refusing(said: readonly string[], code: number): Answer {
