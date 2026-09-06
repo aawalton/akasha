@@ -55,3 +55,64 @@ index cc9e113aba48e7549312c4701e71d1507227358d..e51c3695f0aed5f9b4b7715d248bfe25
    const unknown = unknownIn(rest, option.valued, BARE)
    if (unknown.length > 0) return mistaking(unknown)
    const over = option.over(root, rest)
+diff --git a/command-system/commands/change/change.command.ts b/command-system/commands/change/change.command.ts
+index 76892235c2377cc6dce9f0690fb218de2775fca9..2a8c83b2cf874d02ec9146da7570182cd8cc3027 100644
+--- a/command-system/commands/change/change.command.ts
++++ b/command-system/commands/change/change.command.ts
+@@ -10,6 +10,7 @@ export const change = {
+   changeKindSlug: "change-mechanical",
+   taking: [
+     { said: "remove-page", takes: "the change to run, which takes one page away" },
++    { said: "drop", takes: "the act taking away every edit kept beside this agent's page" },
+     { said: "--file-path <path>", takes: "the path the change named acts on" },
+   ],
+   helpNotes: [
+@@ -20,6 +21,9 @@ export const change = {
+     "a change reads the world as every edit appended before it had already landed.",
+     "a change that refuses appends nothing and leaves the edits as the edits were.",
+     "making the edits and applying them are two calls, so the edits held unapplied are the dry run.",
++    "`drop` is the one first word naming no change, and takes away every edit kept.",
++    "a drop names each edit that went, because nothing puts a dropped edit back.",
++    "a change whose page runs the checks is judged here, and the edits are kept whatever refused.",
+   ],
+   invariants: [
+     {
+@@ -87,8 +91,36 @@ export const change = {
+       statement: "The changes this runs are spelled here rather than read off the index.",
+     },
+     {
+-      invariantKind: "gap",
+-      statement: "A change is judged by no check until the edits that change answered apply.",
++      invariantKind: "departure",
++      statement: "`drop` names no change and takes away every edit kept.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drop names each edit that went.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drop over no edit kept says so rather than refusing.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No drop takes one path out and leaves the rest.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A change whose page runs the checks has the whole set of edits kept judged here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A check refusing is reported rather than taking the edits kept away.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An apply is where a check refusing stops the edits landing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A change whose page runs no check is judged by no check here.",
+     },
+   ],
+ } as const satisfies Command
