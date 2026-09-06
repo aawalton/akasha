@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-each-job-cost-me-year-by-year.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-each-job-cost-me-year-by-year.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f332bfc2573a0146581e362a4ab08706eda92101
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-each-job-cost-me-year-by-year.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatEachJobCostMeYearByYear = {
++  id: "01a077ea-6a07-77f9-b877-dbeb44a33a06",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-each-job-cost-me-year-by-year",
++  topicSlug: "why-i-stopped-working",
++  ask: "What did each role actually cost me, year by year? Only the last role is anchored, and the rest would make the ratchet something that could be shown wrong.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-i-optimised-over-that-decade.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-i-optimised-over-that-decade.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2c047bcdda8360cbc38d0ca3e62f59016396b452
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-i-optimised-over-that-decade.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatIOptimisedOverThatDecade = {
++  id: "01a077ea-6a08-7fdd-ab17-31cfc37b6f4a",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-i-optimised-over-that-decade",
++  topicSlug: "why-i-stopped-working",
++  ask: "What did I actually optimise over that decade, and what was the limit the optimising never reached?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-partial-work-could-look-like.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-partial-work-could-look-like.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4c9eab8701c5ee8e7dbefce15197a102d1dbe090
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-partial-work-could-look-like.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatPartialWorkCouldLookLike = {
++  id: "01a077ea-6a08-7924-9d34-f3f4203c8a7d",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-partial-work-could-look-like",
++  topicSlug: "why-i-stopped-working",
++  ask: "What could partial or different work look like if I keep recovering, given what a higher state permits?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-someone-without-a-runway-does.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-someone-without-a-runway-does.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c5f8c3d75b8c75f981a68690e63cd179cd3c5c50
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-someone-without-a-runway-does.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatSomeoneWithoutARunwayDoes = {
++  id: "01a077ea-6a08-7719-bc20-51d7ab4a400e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-someone-without-a-runway-does",
++  topicSlug: "why-i-stopped-working",
++  ask: "What does someone without a runway do instead of stopping? I have named that as a separate problem and never worked it.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/why-i-stopped-working.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/why-i-stopped-working.all-about-alan-topic.ts
+index 907c88329fd38f7ef0df4101e7e9dbc462a06f2c..a9f39c0a8a4a99b40cced91563330f1cc6beba43 100644
+--- a/alan/books/all-about-alan/topics/pages/why-i-stopped-working.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/why-i-stopped-working.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whyIStoppedWorking = {
+   relatedSlugs: ["what-i-let-myself-take-on", "the-things-i-never-weigh"],
+   settled:
+     "At the best-fitting job I could imagine, work still took four fifths of everything I had.\n\nFitting a role better lowers the multiplier. It does not make having a job cheap.\n\nFor a decade each new one fitted better and still cost more, because I was falling faster than I optimised.\n\nThe sums had said stop months before. Being fired only set the date.\n\nWhat retirement really bought was the right to decline. My rule against unaffordable things cannot exist without it.",
+-  unsettled:
+-    "What each role actually cost, year by year, would make the ratchet something that could be shown wrong. Only the last one is anchored.\n\nWhat someone without a runway does instead is named as a separate problem and never worked.\n\nWhat partial or different work could look like if I keep recovering is open, and rests on what a higher state permits.\n\nWhat I actually optimised over that decade, and the limit it never reached, has never been listed.",
+ } as const satisfies AllAboutAlanTopic
