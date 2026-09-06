@@ -19,7 +19,7 @@ export const channelDelivery = {
     {
       invariantKind: "departure",
       statement:
-        "A message the seat found in its own inbox is apart from one the channel woke the seat with.",
+        "A message the seat found in its own inbox is apart from a message the channel woke the seat with.",
     },
     {
       invariantKind: "departure",
@@ -44,7 +44,8 @@ export const channelDelivery = {
     },
     {
       invariantKind: "departure",
-      statement: "One injected transcript settles the whole set however many others saw nothing.",
+      statement:
+        "One injected transcript settles the whole set however many transcripts saw nothing.",
     },
   ],
 } as const satisfies Module
