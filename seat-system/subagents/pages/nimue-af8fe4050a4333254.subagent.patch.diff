@@ -1,0 +1,11 @@
+diff --git a/pages/queries/pages/claude-accounts-mean-weekly-used.page-query.ts b/pages/queries/pages/claude-accounts-mean-weekly-used.page-query.ts
+index a74a128b9572b0c006bf5b11f6047090d8ce5c46..ac20d8ad8e61c61913a94a3500bfc953eeeca9d9 100644
+--- a/pages/queries/pages/claude-accounts-mean-weekly-used.page-query.ts
++++ b/pages/queries/pages/claude-accounts-mean-weekly-used.page-query.ts
+@@ -6,5 +6,5 @@ export const claudeAccountsMeanWeeklyUsed = {
+   slug: "claude-accounts-mean-weekly-used",
+   asksOfSlug: "claude-account",
+   reduction: "mean",
+-  targetKey: "effective-seven-day-percent-used",
++  targetKey: "effectiveSevenDayPercentUsed",
+ } as const satisfies PageQuery
