@@ -49,7 +49,7 @@ export const mobileCut = {
     {
       invariantKind: "departure",
       statement:
-        "A cut made before the build input tree hash was recorded carries none and reads as owed.",
+        "A cut made before the build input tree hash was recorded carries no hash and reads as owed.",
     },
     {
       invariantKind: "departure",
