@@ -9,7 +9,7 @@ import {
   scratch,
   textIn,
 } from "../../../../pages/indexes/indexing/indexing.module.test-fixtures.ts"
-import { respelled } from "./respell-export.module.code.ts"
+import { respelled } from "./respell-export.change-partial.code.ts"
 
 afterAll(scratch.sweep)
 

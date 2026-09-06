@@ -4,7 +4,7 @@ import { exportedAs } from "@akasha/pages/page-export-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import ts from "typescript"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { respelled } from "../../../partial/pages/respell-export/respell-export.module.code.ts"
+import { respelled } from "../../../partial/pages/respell-export/respell-export.change-partial.code.ts"
 
 const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
 

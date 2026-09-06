@@ -1,8 +1,8 @@
-import type { Module } from "@akasha/code-system/module"
+import type { ChangePartial } from "../../change-partial.page-type.ts"
 
 export const respellExport = {
   id: "01a07651-187f-7ce5-a806-842a471da594",
-  pageTypeSlug: "module",
+  pageTypeSlug: "change-partial",
   slug: "respell-export",
   definition: "a name one body exports spelled anew across the paths a caller hands in",
   code: "ts",
@@ -54,4 +54,4 @@ export const respellExport = {
       statement: "Nothing here judges whether the name a body carries is a page's own.",
     },
   ],
-} as const satisfies Module
+} as const satisfies ChangePartial
