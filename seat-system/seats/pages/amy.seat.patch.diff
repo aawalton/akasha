@@ -246,6 +246,30 @@ index d95be9dcced63bbf80a5125272d80ffd6f2ebee1..00000000000000000000000000000000
 -    },
 -  ],
 -} as const satisfies NumberProperty
+diff --git a/alan/tracking/daily/wake-days/properties/wisdom-words.number-property.ts b/alan/tracking/daily/wake-days/properties/wisdom-words.number-property.ts
+index 6ecb2f993e1fcf0862122cd3249386d97b40c15a..51c54826868f65eb53336162e339d825ec1ced06 100644
+--- a/alan/tracking/daily/wake-days/properties/wisdom-words.number-property.ts
++++ b/alan/tracking/daily/wake-days/properties/wisdom-words.number-property.ts
+@@ -7,7 +7,7 @@ export const wisdomWords = {
+   pageTypeSlug: "number-property",
+   slug: "wisdom-words",
+   propertySlug: "wisdom-words",
+-  definition: "the words Alan added to the pages about himself on a day, net of what he removed",
++  definition: "the words Alan added to the pages about himself on a day",
+   max: null,
+   invariants: [
+     {
+@@ -15,10 +15,6 @@ export const wisdomWords = {
+       statement:
+         "A day whose commits left Alan's topic pages untouched reads zero rather than unread.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "A commit that took more words away than that commit added counts as zero.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "No day before 2026-09-03 carries this reading.",
 diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.ts b/alan/tracking/daily/wake-days/wake-day.page-type.ts
 index d2dd1a99ef196d4724c8f397cec5a751a24e31cf..0023bfa356d922067bb31b348d790b415278981a 100644
 --- a/alan/tracking/daily/wake-days/wake-day.page-type.ts
