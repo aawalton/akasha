@@ -148,7 +148,7 @@ export function placedAt(pages: readonly SecretPage[]): ReadonlyMap<string, Secr
   return at
 }
 
-function valueOf(akasha: string, page: SecretPage): string {
+export function valueOf(akasha: string, page: SecretPage): string {
   const sidecar = secretAt(page.relPath)
   if (sidecar === null) {
     throw new DeployRefused(`${page.relPath} is not a page, so no sops file names its value`)

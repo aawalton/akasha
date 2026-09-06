@@ -8,6 +8,7 @@ export const serviceSystem = {
   manifest: "json",
   partSlugs: [
     "module/secret-placing",
+    "module/secret-saying",
     "module/tick-sleeping",
     "page-type/service",
     "page-type/workstation-service",
