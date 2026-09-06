@@ -242,7 +242,7 @@ export const proxyServing = {
     },
     {
       invariantKind: "departure",
-      statement: "A pipeline handed in replaces the one named here.",
+      statement: "A pipeline handed in replaces the pipeline named here.",
     },
     {
       invariantKind: "constraint",
