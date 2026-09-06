@@ -4977,10 +4977,10 @@ index cf81b7e53581b3c3977e1eaec928d1b45deb95fb..d034fefe901ad23c2a4fef0146b11203
    invariants: [
      {
 diff --git a/pages/types/properties/load-scroll.text-property.ts b/pages/types/properties/load-scroll.text-property.ts
-index bf5fe102e1c249b299e851acaf232114278067a0..8bfcc048aa1e422139adeb1faf49c3f339138216 100644
+index bf5fe102e1c249b299e851acaf232114278067a0..d2dc2b35723c0ba357fc58b073ef8fdd567743ed 100644
 --- a/pages/types/properties/load-scroll.text-property.ts
 +++ b/pages/types/properties/load-scroll.text-property.ts
-@@ -8,7 +8,7 @@ export const loadScroll = {
+@@ -8,13 +8,13 @@ export const loadScroll = {
    slug: "load-scroll",
    propertySlug: "load-scroll",
    definition: "the place in a page the reader is put at as the page opens",
@@ -4989,6 +4989,13 @@ index bf5fe102e1c249b299e851acaf232114278067a0..8bfcc048aa1e422139adeb1faf49c3f3
    nameFormatSlug: "name-format/lower-kebab-case",
    invariants: [
      {
+       invariantKind: "departure",
+       statement:
+-        "A page opens at its start, at its end, at its newest part, or where reading stopped.",
++        "A page opens at its start or its end or its newest part or where reading stopped.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/types/properties/media-renderer.text-property.ts b/pages/types/properties/media-renderer.text-property.ts
 index ac6c534375b1a7882cdf38faee568fc06d1a9383..476739668521037c62422ce9ea44492c8aa2f139 100644
 --- a/pages/types/properties/media-renderer.text-property.ts
