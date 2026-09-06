@@ -7,7 +7,7 @@ export const waterAndAppliances = {
   title: "Domestic Hot Water + Appliances",
   description:
     "Domestic hot water, induction range, refrigeration, dryer, dishwasher, and miscellaneous kitchen appliances — annual kWh, peak draw, HPWH vs resistance tradeoff.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["energy-demand"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

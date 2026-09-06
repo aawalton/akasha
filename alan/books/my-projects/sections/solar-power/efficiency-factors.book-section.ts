@@ -7,7 +7,7 @@ export const efficiencyFactors = {
   title: "Rooftop Solar Efficiency Factors (Provo, UT)",
   description:
     "Mechanical decomposition of rooftop solar efficiency factors — from atmospheric irradiance to AC power at the meter — calibrated for Provo, UT.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["solar-power"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

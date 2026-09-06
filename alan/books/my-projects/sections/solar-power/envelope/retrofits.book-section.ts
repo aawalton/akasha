@@ -7,7 +7,7 @@ export const retrofits = {
   title: "Retrofit Packages — Leverage Ranking",
   description:
     "Envelope retrofit packages ranked by heating-load-reduction-per-dollar — air sealing dominates, windows lose on energy alone.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["envelope"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -7,7 +7,7 @@ export const components = {
   title: "Component Breakdown",
   description:
     "Component breakdown of residential solar $/W — NREL Q1 2024 benchmark for 8 kW system, plus inverter and battery line items.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["pricing"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

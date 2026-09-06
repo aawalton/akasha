@@ -7,7 +7,7 @@ export const cost = {
   title: "Total Cost Stack",
   description:
     "Total cost stack — PV + battery + service panel + EV chargers, pre-ITC and post-ITC, three demand scenarios. ITC status uncertainty called out.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["sizing"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

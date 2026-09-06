@@ -7,7 +7,7 @@ export const envelope = {
   title: "Envelope Retrofit Decision",
   description:
     "Envelope retrofit decision for a 1970s 6000 sq ft Provo house — assessment options, retrofit packages ranked by leverage, and recommended sequence.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["solar-power"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

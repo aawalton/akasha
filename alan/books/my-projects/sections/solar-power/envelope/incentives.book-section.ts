@@ -7,7 +7,7 @@ export const incentives = {
   title: "Incentives and Utah Contractors",
   description:
     "Current envelope-retrofit incentives in Utah (May 2026) — federal 25C dead, Utah HOMES/HEAR pending, Rocky Mountain Power Wattsmart live — plus local contractor leads.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["envelope"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

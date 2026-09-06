@@ -6,7 +6,7 @@ export const national = {
   slug: "national",
   title: "National Installers",
   description: "National multi-state solar installers with Utah / Provo presence.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["installers"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

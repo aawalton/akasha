@@ -7,7 +7,7 @@ export const baseline = {
   title: "1970s Utah House — Envelope Baseline",
   description:
     "Typical envelope characteristics of a 1970s Utah house — assemblies, R-values, air leakage, ductwork — that set the starting heating load.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["envelope"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

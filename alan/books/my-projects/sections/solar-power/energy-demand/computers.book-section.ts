@@ -7,7 +7,7 @@ export const computers = {
   title: "12 Gaming Computers",
   description:
     "12 high-end gaming PCs — per-system TDP breakdown, moderate vs heavy usage scenarios, annual kWh range, peak coincident draw, year-round flat profile.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["energy-demand"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

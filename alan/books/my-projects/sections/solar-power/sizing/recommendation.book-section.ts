@@ -7,7 +7,7 @@ export const recommendation = {
   title: "Sensitivity and Recommendation",
   description:
     "Sensitivity levers ranked by leverage, the envelope-retrofit bracket called out, and the single planning case for the next iteration to evaluate bids against.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["sizing"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

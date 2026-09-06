@@ -7,7 +7,7 @@ export const resource = {
   title: "Solar Resource at Provo",
   description:
     "Solar resource at Provo, UT — annual and monthly GHI/DNI, peak sun hours, altitude bonus. The denominator before any roof factor.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["efficiency-factors"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -7,7 +7,7 @@ export const installers = {
   title: "Rooftop Solar Installers Serving Provo, UT",
   description:
     "Comprehensive list of rooftop solar installers serving Provo, UT (1350 Apple Ave) with credentials, ratings, warranties, and red flags.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["solar-power"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

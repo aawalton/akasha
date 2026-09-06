@@ -7,7 +7,7 @@ export const sequence = {
   title: "Recommended Sequence",
   description:
     "Recommended project sequence for a 1970s 6000 sq ft Provo house — audit, retrofit, post-retrofit verification, then parallel heat pump and PV.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["envelope"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

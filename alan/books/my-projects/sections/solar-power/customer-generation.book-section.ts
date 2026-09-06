@@ -7,7 +7,7 @@ export const customerGeneration = {
   title: "Customer Generation — Provo Power",
   description:
     "Provo Power net-metering / customer-generation program — compensation mechanism, system size cap, annual reset, interconnection. Plus federal ITC status check.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["solar-power"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

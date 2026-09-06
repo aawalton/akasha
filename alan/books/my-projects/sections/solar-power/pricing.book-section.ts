@@ -7,7 +7,7 @@ export const pricing = {
   title: "Rooftop Solar Pricing",
   description:
     "Rooftop solar pricing — component breakdown, levers, and cost-curve history for residential US (with Utah context).",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["solar-power"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -6,7 +6,7 @@ export const levers = {
   slug: "levers",
   title: "Levers and Knobs",
   description: "Levers that move residential solar price up or down for a specific quote.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["pricing"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

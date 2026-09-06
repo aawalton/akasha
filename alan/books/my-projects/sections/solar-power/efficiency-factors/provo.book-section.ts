@@ -7,7 +7,7 @@ export const provo = {
   title: "Provo-Specific Anchor Numbers",
   description:
     "Provo-specific anchor numbers — best-case specific yield, sensitivity ranges for roof orientation, and the inputs to plug into PVWatts.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["efficiency-factors"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

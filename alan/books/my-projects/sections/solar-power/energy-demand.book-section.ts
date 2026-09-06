@@ -7,7 +7,7 @@ export const energyDemand = {
   title: "Annual Energy Demand (1350 Apple Ave, Provo, UT)",
   description:
     "Annual energy demand plan for all-electric 6000 sq ft Provo home with heat pumps, 12 gaming PCs, two EVs — sized for self-sufficiency.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["solar-power"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -7,7 +7,7 @@ export const orientation = {
   title: "Tilt and Azimuth (POA Irradiance)",
   description:
     "Plane-of-array (POA) irradiance — converting GHI to what actually hits the panel. Tilt, azimuth, and combined derate tables for Provo.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["efficiency-factors"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -7,7 +7,7 @@ export const hvac = {
   title: "Space Heating + Cooling (Heat Pump)",
   description:
     "Heat pump space heating and cooling demand for a 6000 sq ft Provo home — heat-loss math, COP-vs-outdoor-temp integration, well-insulated vs. existing-house cases.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["energy-demand"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

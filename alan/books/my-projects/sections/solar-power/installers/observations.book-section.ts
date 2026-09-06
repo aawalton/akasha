@@ -6,7 +6,7 @@ export const observations = {
   slug: "observations",
   title: "Summary Observations",
   description: "Summary observations on Provo / Utah solar installer landscape.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["installers"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

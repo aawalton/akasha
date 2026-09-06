@@ -7,7 +7,7 @@ export const costCurve = {
   title: "Cost Curve — Past 15 Years",
   description:
     "Cost-curve history for residential solar — total retail, modules, inverters, batteries, soft costs.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["pricing"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

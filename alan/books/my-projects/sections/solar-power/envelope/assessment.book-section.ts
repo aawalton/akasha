@@ -7,7 +7,7 @@ export const assessment = {
   title: "Envelope Assessment Options",
   description:
     "Assessment options for the envelope — blower door, IR thermography, Manual J, BPI / RESNET audits — with current pricing and what each one resolves.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["envelope"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -7,7 +7,7 @@ export const demand = {
   title: "Revised Annual Demand (Iteration 2)",
   description:
     "Iteration-2 revised annual demand — flag-loads removed, low-end EV miles applied, home lab folded into the 12 PCs, inference upside flagged.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["sizing"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -7,7 +7,7 @@ export const degradationSystem = {
   title: "Degradation, ILR, Albedo, Structural, UV",
   description:
     "Module degradation, DC/AC ratio & clipping, albedo, snow load structural, and high-altitude UV. The factors that act over years or at the system-design level.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["efficiency-factors"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection
