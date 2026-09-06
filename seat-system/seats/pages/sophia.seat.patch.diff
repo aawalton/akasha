@@ -1,0 +1,13 @@
+diff --git a/command-system/commands/read/read.command.test-fixtures.ts b/command-system/commands/read/read.command.test-fixtures.ts
+index c82e39778bc2661656f9d63514d96840ffdc8840..868c342d3e587ca9f67594c9bea70d5b91db44f9 100644
+--- a/command-system/commands/read/read.command.test-fixtures.ts
++++ b/command-system/commands/read/read.command.test-fixtures.ts
+@@ -294,7 +294,7 @@ const TYPES: readonly {
+   { slug: "page", at: PAGE_TYPE, body: PAGE_BODY, above: [] },
+ ]
+ 
+-export const WARRANTED: readonly string[] = [THING, THING_TYPE, PAGE_TYPE]
++export const WARRANTED: readonly string[] = [THING, THING_TYPE]
+ 
+ export function thingRoot(): string {
+   return rootWarranting([{ at: THING, body: "one\n" }])
