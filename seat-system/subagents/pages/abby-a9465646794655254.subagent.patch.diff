@@ -1,0 +1,26 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-i-build-the-curiosity-prosthesis.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-i-build-the-curiosity-prosthesis.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..95d78fd83ab558524fe1ed7964e763db85668566
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-i-build-the-curiosity-prosthesis.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherIBuildTheCuriosityProsthesis = {
++  id: "01a077e3-8b8a-7da9-b0b9-9c1072cc765e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-i-build-the-curiosity-prosthesis",
++  topicSlug: "being-curious-about-her",
++  ask: "Do I build the drafted prosthesis, research the known ground, find the gaps, aim a question at the steepest one, as my first piece closed by porting a system rather than compiling a definition?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/being-curious-about-her.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/being-curious-about-her.all-about-alan-topic.ts
+index b0e9f13c0044e4db2822c190e5445595621dd7b9..0ae15f85ebfd41325558833c410dbc4d7e8ebb27 100644
+--- a/alan/books/all-about-alan/topics/pages/being-curious-about-her.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/being-curious-about-her.all-about-alan-topic.ts
+@@ -8,6 +8,4 @@ export const beingCuriousAboutHer = {
+   definition: "the engine runs on novelty she brings, and I cannot make my own",
+   parentSlugs: ["working-out-what-love-is"],
+   settled: "The part that would generate a question is the part that does not run.",
+-  unsettled:
+-    "A prosthesis is drafted and uncommitted: research the known ground, find the gaps, aim a question at the steepest one. Whether I build it is open, and it would be the first piece closed by porting a system rather than compiling a definition.",
+ } as const satisfies AllAboutAlanTopic
