@@ -89,6 +89,52 @@ index 0000000000000000000000000000000000000000..4c84f7f4fdc7cf2640000fa80e156a51
 +  expect(said.edits).toEqual([])
 +  expect(said.refused ?? "").toMatch(/`body`/)
 +})
+diff --git a/changes/command/pages/add-file/add-file.change-command.ts b/changes/command/pages/add-file/add-file.change-command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cb5aa30d53bab9de4a30574f59a8370bd2c85659
+--- /dev/null
++++ b/changes/command/pages/add-file/add-file.change-command.ts
+@@ -0,0 +1,40 @@
++import type { ChangeCommand } from "../../change-command.page-type.ts"
++
++export const addFile = {
++  id: "01a07813-6e3b-77c3-9c1e-b0c5778fd31b",
++  pageTypeSlug: "change-command",
++  slug: "add-file",
++  definition: "one body written at one path, judged by the checks a landing runs",
++  code: "ts",
++  test: "ts",
++  isCommand: true,
++  runsChecks: true,
++  readersOweReading: true,
++  writerOwesReading: true,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The arguments are read here rather than trusted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An argument this change is handed no value for is refused by name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body is handed in whole rather than as a passage.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Writing the body is left to the partial this change runs.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No guard runs here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The checks judge the tree the edits leave.",
++    },
++  ],
++} as const satisfies ChangeCommand
 diff --git a/changes/command/pages/change-file/change-file.change-command.code.ts b/changes/command/pages/change-file/change-file.change-command.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..31f16df5c20600eaae266220d5f2db50fc804203
@@ -175,6 +221,52 @@ index 0000000000000000000000000000000000000000..c477ef423ee2d0cdc9b14162dce793cd
 +
 +  expect(said.refused ?? "").toMatch(/`new`/)
 +})
+diff --git a/changes/command/pages/change-file/change-file.change-command.ts b/changes/command/pages/change-file/change-file.change-command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8dbb620b8ac3e895866e5315030f5e5696671777
+--- /dev/null
++++ b/changes/command/pages/change-file/change-file.change-command.ts
+@@ -0,0 +1,40 @@
++import type { ChangeCommand } from "../../change-command.page-type.ts"
++
++export const changeFile = {
++  id: "01a07813-6e3d-7d39-a28a-164766ab0fed",
++  pageTypeSlug: "change-command",
++  slug: "change-file",
++  definition: "one passage of one body replaced, judged by the checks a landing runs",
++  code: "ts",
++  test: "ts",
++  isCommand: true,
++  runsChecks: true,
++  readersOweReading: true,
++  writerOwesReading: true,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The arguments are read here rather than trusted.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An argument this change is handed no value for is refused by name.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The passage and the replacement are two arguments.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Working the passage is left to the partial this change runs.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No guard runs here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The checks judge the tree the edits leave.",
++    },
++  ],
++} as const satisfies ChangeCommand
 diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
 index 8763093653f997c21daaa9a3421485f1043946de..6a68d40c2a8064abd2dbeaae3796fcce813beb6b 100644
 --- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
