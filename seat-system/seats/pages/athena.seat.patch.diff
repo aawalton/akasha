@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/vera-context-cleanup.initiative.ts b/domains/initiatives/pages/vera-context-cleanup.initiative.ts
+index d0bb4c268d3cad8df18b16769628f3b0a8a666eb..025e8f65c935ff383abe0902a607a37cc187f642 100644
+--- a/domains/initiatives/pages/vera-context-cleanup.initiative.ts
++++ b/domains/initiatives/pages/vera-context-cleanup.initiative.ts
+@@ -4,7 +4,7 @@ export const veraContextCleanup = {
+   id: "01a06d62-864e-7da2-8e20-813302d6a5fd",
+   pageTypeSlug: "initiative",
+   slug: "vera-context-cleanup",
+-  domainSlug: "domain/collection-system",
++  domainSlug: "page-type/collection",
+   personaSlug: "vera",
+   intents: [
+     {
