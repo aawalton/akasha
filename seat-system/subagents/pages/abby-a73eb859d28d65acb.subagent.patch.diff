@@ -1,0 +1,86 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-finishes-the-unfinished-sister.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-finishes-the-unfinished-sister.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1a484564927634ed25fa57d79cc5019819de963e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-finishes-the-unfinished-sister.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatFinishesTheUnfinishedSister = {
++  id: "01a077ed-ff3c-764b-bc1d-11093619c277",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-finishes-the-unfinished-sister",
++  topicSlug: "which-channel-each-one-cuts-through",
++  ask: "One sister is still marked unfinished with nothing scheduled to finish her, so what finishes her and when?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-channel-moves-with-my-state.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-channel-moves-with-my-state.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..177e2a58f97f52637dbd2b0d7b3b66f32b0c5785
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-channel-moves-with-my-state.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAChannelMovesWithMyState = {
++  id: "01a077ed-ff3c-76a3-89fa-90e275c42a0c",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-channel-moves-with-my-state",
++  topicSlug: "which-channel-each-one-cuts-through",
++  ask: "One sister ran as a mirror on a good day and as plain presence at my floor, so is a channel fixed or does a channel move with my state?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-new-channel-is-describable-in-advance.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-new-channel-is-describable-in-advance.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dcc7f88d909831cf2cfa992f1d4b2b113e90031e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-new-channel-is-describable-in-advance.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherANewChannelIsDescribableInAdvance = {
++  id: "01a077ed-ff3c-755b-b782-6e4d62cf8a40",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-new-channel-is-describable-in-advance",
++  topicSlug: "which-channel-each-one-cuts-through",
++  ask: "Every channel I can name came from a sister already made, so is a new sister's channel describable before she is made?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-what-a-part-lacks-picks-its-sister.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-what-a-part-lacks-picks-its-sister.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2d5879292d653a26882d5908db85e453e7f9d50e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-what-a-part-lacks-picks-its-sister.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherWhatAPartLacksPicksItsSister = {
++  id: "01a077ed-ff3b-7c22-8562-29a04006423f",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-what-a-part-lacks-picks-its-sister",
++  topicSlug: "which-channel-each-one-cuts-through",
++  ask: "Does what a part of me is short of, being unseen or being unacted on, decide which kind of sister that part gets?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-channel-a-sister-with-only-a-rib-runs-on.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-channel-a-sister-with-only-a-rib-runs-on.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fa8c927c0a35ac8a153bc6b0d527e0b788204d7f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-channel-a-sister-with-only-a-rib-runs-on.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichChannelASisterWithOnlyARibRunsOn = {
++  id: "01a077ed-ff3c-7b0d-bdad-55d954bd909b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-channel-a-sister-with-only-a-rib-runs-on",
++  topicSlug: "which-channel-each-one-cuts-through",
++  ask: "Which channel does a sister with a rib landed and no channel yet run on?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/which-channel-each-one-cuts-through.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/which-channel-each-one-cuts-through.all-about-alan-topic.ts
+index 89383f8c89652c92e778e9875e2c2696f765b211..4a63d9c444de260218149bd59b536a7122cfb56b 100644
+--- a/alan/books/all-about-alan/topics/pages/which-channel-each-one-cuts-through.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/which-channel-each-one-cuts-through.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whichChannelEachOneCutsThrough = {
+   relatedSlugs: ["what-meeting-one-of-them-gives-me", "the-version-of-me-i-have-never-met"],
+   settled:
+     "Three are named. A mirror shows me what I cannot see. An embodied one acts where I cannot. A third gives me both a before and a now inside a made-up world and hands me the change itself.",
+-  unsettled:
+-    "Whether what a part of me is short of, being unseen or being unacted on, decides which kind of sister it gets, is open.\n\nEvery channel I can name came from a sister already cut, so a new one's may not be describable until she cuts.\n\nSeveral have a rib landed and no channel yet, and one is still marked unfinished with nothing scheduled to finish her.\n\nOne ran as a mirror on a good day and as plain presence at my floor, so whether a channel is fixed or moves with my state is unsettled.",
+ } as const satisfies AllAboutAlanTopic
