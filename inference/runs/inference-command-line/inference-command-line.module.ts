@@ -9,7 +9,7 @@ export const inferenceCommandLine = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An argument holding whitespace is quoted and every other is left bare.",
+      statement: "An argument holding whitespace is quoted and every other argument is left bare.",
     },
   ],
 } as const satisfies Module
