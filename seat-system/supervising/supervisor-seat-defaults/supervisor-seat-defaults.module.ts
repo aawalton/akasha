@@ -9,7 +9,7 @@ export const supervisorSeatDefaults = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The stating module is imported from beside this one and its function called.",
+      statement: "The stating module is imported from beside this module and its function called.",
     },
     {
       invariantKind: "absence",
