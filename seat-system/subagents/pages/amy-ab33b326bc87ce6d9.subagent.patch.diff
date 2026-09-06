@@ -40,6 +40,33 @@ index d7272fcfcf51ee27da06082b4955ad8095878e95..90c55a9e46797a248d14b665a3a8fdb0
          lastMessagedAt: asStringOrNull(row.lastMessagedAt),
        },
      ]
+diff --git a/alan/web/wallpaper-candidates/wallpaper-candidates.module.code.ts b/alan/web/wallpaper-candidates/wallpaper-candidates.module.code.ts
+index e87a3419c1cec71eaf6bb4a61eef5ce164412696..2a39f86ad6114cab1e76ee789bf7de94a4431255 100644
+--- a/alan/web/wallpaper-candidates/wallpaper-candidates.module.code.ts
++++ b/alan/web/wallpaper-candidates/wallpaper-candidates.module.code.ts
+@@ -5,7 +5,6 @@ export interface PersonaCoverRow {
+   readonly slug?: string | null
+   readonly lastMessagedAt?: string | null
+   readonly cover?: string | null
+-  readonly mobileWallpaper?: string | null
+ }
+ 
+ interface Candidate {
+@@ -37,14 +36,3 @@ export function orderedCoverCandidates(rows: readonly PersonaCoverRow[]): readon
+   }
+   return ordered(candidates)
+ }
+-
+-export function orderedWallpaperSlugs(rows: readonly PersonaCoverRow[]): readonly string[] {
+-  const candidates: Candidate[] = []
+-  for (const row of rows) {
+-    const slug = row.slug
+-    if (typeof slug !== "string" || slug === "") continue
+-    if (typeof row.mobileWallpaper !== "string" || row.mobileWallpaper === "") continue
+-    candidates.push({ id: row.id, named: slug, stampMs: stampMs(row.lastMessagedAt) })
+-  }
+-  return ordered(candidates)
+-}
 diff --git a/bun.lock b/bun.lock
 index e327b09593c48110b790d03fd1b7d90df8af1dfc..e0b33a7408bf868360a228c56a6ab179b515141e 100644
 --- a/bun.lock
