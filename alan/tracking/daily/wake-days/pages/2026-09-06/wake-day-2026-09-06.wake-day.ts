@@ -7,7 +7,6 @@ export const wakeDay20260906 = {
   title: "@date:2026-09-06",
   date: "2026-09-06",
   version: "3.0",
-  strengthVolume: 0,
   wisdomWords: 0,
   intelligenceWords: 0,
   inboxTasks: 26,
@@ -15,4 +14,5 @@ export const wakeDay20260906 = {
   inboxTemperTasks: 15,
   inboxTemperTasksClearedToday: false,
   sessions: "jsonl",
+  strengthVolume: 0,
 } as const satisfies WakeDay
