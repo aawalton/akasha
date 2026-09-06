@@ -35,7 +35,11 @@ export const agentTreePanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A color is carried on as its name, the decoration being what reads that name.",
+      statement: "A color is carried on as its name.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The decoration reads that name.",
     },
     {
       invariantKind: "departure",
@@ -66,7 +70,7 @@ export const agentTreePanel = {
     {
       invariantKind: "departure",
       statement:
-        "A read that lost seats says how many rather than drawing a short tree in silence.",
+        "A read that lost seats says the count lost rather than drawing a short tree in silence.",
     },
 
     {
@@ -89,7 +93,7 @@ export const agentTreePanel = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here hangs a row under another row or draws one.",
+      statement: "Nothing here hangs a row under another row or draws a row.",
     },
     {
       invariantKind: "absence",
