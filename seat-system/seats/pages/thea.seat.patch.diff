@@ -11,25 +11,6 @@ index 3a361bda56e27a8b383d73edc8827e017340e673..a846fc3b5d76e25747c3bc2459024b6f
      { pagePropertySlug: "text-property/access-token", required: true, many: false, secret: true },
      { pagePropertySlug: "text-property/refresh-token", required: true, many: false, secret: true },
      {
-diff --git a/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts b/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts
-index 852ce95c8efc98482b849e79a0f1fc169e5ff719..1a10291aa44e7ab573d7a34371bf70d7dcc3fbe2 100644
---- a/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts
-+++ b/agents/claude-accounts/modules/marking/claude-account-marking.module.test-fixtures.ts
-@@ -157,8 +157,13 @@ export function carriedOf(key: string, said: Partial<Carried> = {}): Carried {
-     declaredBy: "claude-account",
-     required: false,
-     many: false,
--    max: null,
-+<<<<<<< what this change would leave
-+    maxCount: null,
-     total: null,
-+=======
-+    max: null,
-+    maxLength: null,
-+>>>>>>> what HEAD holds
-     uncommitted: false,
-     secret: false,
-     ...said,
 diff --git a/agents/claude-accounts/properties/access-token.text-property.ts b/agents/claude-accounts/properties/access-token.text-property.ts
 index 880a9083330e504a6a6332ed247e6648d51aef7a..c168a66dd239f3141105c27aa3773685e3d3f958 100644
 --- a/agents/claude-accounts/properties/access-token.text-property.ts
