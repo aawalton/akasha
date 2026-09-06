@@ -1,9 +1,14 @@
-readersOweReading: false
 diff --git a/alan/relating/connection-activities/connection-activity.page-type.ts b/alan/relating/connection-activities/connection-activity.page-type.ts
-index 015e68668e7a0ea2c8ee574cbaf01c2302556685..fb3c859bad1dc287a41ff509390fb026384b411b 100644
+index 015e68668e7a0ea2c8ee574cbaf01c2302556685..4216a67915960dbdd98f53d781224730bee9457b 100644
 --- a/alan/relating/connection-activities/connection-activity.page-type.ts
 +++ b/alan/relating/connection-activities/connection-activity.page-type.ts
-@@ -176,11 +176,13 @@ export const connectionActivity = {
+@@ -171,16 +171,17 @@ export const connectionActivity = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The multiplier is maturity, attractiveness, femininity, wit, kindness, reality, energy, positivity, attention, identification, intensity, novelty, modality and safety multiplied together.",
++      statement: "The multiplier is the fourteen ratings multiplied together.",
      },
      {
        invariantKind: "departure",
