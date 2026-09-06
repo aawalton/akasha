@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/readout-system/readout-asking/readout-asking.module.ts b/readout-system/readout-asking/readout-asking.module.ts
+index 26ac1ebd103c5a35b85e1021b3d268b7633318fc..f9d14c300645c499033c70c8eb63e04e6ff18318 100644
+--- a/readout-system/readout-asking/readout-asking.module.ts
++++ b/readout-system/readout-asking/readout-asking.module.ts
+@@ -11,7 +11,7 @@ export const readoutAsking = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A readout is handed its asking rather than holding one.",
++      statement: "A readout is handed its asking rather than holding an asking.",
+     },
+     {
+       invariantKind: "departure",
