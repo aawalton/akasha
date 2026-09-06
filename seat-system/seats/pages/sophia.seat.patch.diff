@@ -1,0 +1,12 @@
+diff --git a/context/modules/warranting/warranting.module.code.ts b/context/modules/warranting/warranting.module.code.ts
+index 84f32740d33a237774639e5b6a313dd2374e1529..47b8eaf5eb91606fc313a3b4d89f032fe6624a79 100644
+--- a/context/modules/warranting/warranting.module.code.ts
++++ b/context/modules/warranting/warranting.module.code.ts
+@@ -69,7 +69,6 @@ export type Owing = {
+ 
+ export type Known = {
+   readonly types: ReadonlySet<string>
+-  readonly above: () => ReadonlyMap<string, readonly string[]>
+ }
+ 
+ export type Knowing = () => Known
