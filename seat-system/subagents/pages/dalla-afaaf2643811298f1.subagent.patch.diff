@@ -11,6 +11,19 @@ index 266b849afd483a38ccec1d2ec54a257ab3605dd9..9dd6783a45def6ea0ad80607567842ef
    evidence:
      "The 678 rows of `alan.heard-music.tracks.jsonl` name four sources. Every row sourced `seed-top-tracks` (130), `seed-prior-window` (46) or `observed` (473) names a Spotify track id. Every row sourced `seed-rated` (29) names none, and no row sourced `seed-rated` names one. The split is total either way. All 29 title keys match a rated song page, of the 30 rated song pages the catalog holds. The 649 rows that do name an id were carried across whole, and each of the 649 ids is distinct.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts b/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts
+index ed91a37861d1fa0b4f6f05c4f14d93e95bac7db8..8dabf0b40fd84efc38eaf698a8549c7923d9ace3 100644
+--- a/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts
++++ b/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts
+@@ -6,7 +6,7 @@ export const theAkashaReminderCarriesNoWarrantAndExtendsNoMessage = {
+   slug: "the-akasha-reminder-carries-no-warrant-and-extends-no-message",
+   domainSlug: "workspace-package/reminder-system",
+   claim:
+-    "The reminder recreated in akasha drops the warrant a reminder carried and the message page type a reminder extended.",
++    "The reminder recreated in akasha drops the warrant one reminder carried and the message page type a reminder extended.",
+   evidence:
+     "The old `reminder` extends `message` and inherits `to`, `from`, `warrant` and `claimed-at`. The akasha one extends `page` and carries `to`, `from`, `schedule`, `text` and `next-at`. Two things did not come across. The warrant said whether a sender waits, as `announce` or `blocked`; the one reminder that exists says `announce`, and a clock waits for nothing, so nothing states it. The `warrant` slug is also taken by what a directive states. The message page type did not come across because carrying it across is the whole messaging system, which no intent yet names. Until messaging moves in, a reminder that comes due is still handed to `writeMessage` in the old system.",
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts b/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts
 index a9de3b8c68b0ffd7a589a1cc411c319cf23ebda4..dda7c70ce1bb550a3d9ebd9e4d3be95d868e8887 100644
 --- a/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts
