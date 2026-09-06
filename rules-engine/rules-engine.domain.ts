@@ -86,7 +86,8 @@ export const rulesEngine = {
     },
     {
       invariantKind: "departure",
-      statement: "The engine answers that one match covers no other where covering is undecided.",
+      statement:
+        "The engine answers that one match covers no second match where covering is undecided.",
     },
     {
       invariantKind: "departure",
