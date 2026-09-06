@@ -10,7 +10,7 @@ export const supervisorHandoffEnv = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A handoff missing any of its parts is ignored rather than half-read.",
+      statement: "A handoff missing a single part is ignored rather than half-read.",
     },
     {
       invariantKind: "departure",
