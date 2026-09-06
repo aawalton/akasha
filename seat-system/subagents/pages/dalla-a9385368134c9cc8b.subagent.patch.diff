@@ -31,3 +31,26 @@ index fc2ab52240c4cdea5a27023dec7f58d620f0d5b7..5721ed15d1270f79688fbc3a7f76d31c
      const next = respelled(path, said, addressing.get(path) ?? NOTHING_SAID)
      if (next === text) continue
      repointing.push(path)
+diff --git a/command-system/commands/refactor/refactor.command.code.ts b/command-system/commands/refactor/refactor.command.code.ts
+index daea1899840825615559e4f033c6807859ea69a3..5bf70055eb7a19be8545c23deb8573b2a30aadfe 100644
+--- a/command-system/commands/refactor/refactor.command.code.ts
++++ b/command-system/commands/refactor/refactor.command.code.ts
+@@ -6,7 +6,7 @@ import { importEdge } from "@akasha/graph/import-edge"
+ import { everyPath, readingIn } from "@akasha/indexes"
+ import { uncommittedNamed } from "@akasha/pages/page-file-name"
+ import { shadowAt } from "@akasha/pages/shadow"
+-import { repointed } from "../../../changes/partial/pages/repoint-imports/repoint-imports.change-partial.code.ts"
++import { repointed } from "../../../changes/pages/repoint-imports/repoint-imports.change.code.ts"
+ import {
+   importingOf,
+   spellingOf,
+@@ -107,7 +107,8 @@ function rewritten(held: Rewriting, from: string, to: string, text: string): str
+     const stated = restated(from, next, said, own ? one.now : null)
+     if (stated !== null) next = stated
+   }
+-  const done = repointed(from, to, next, held.moved)
++  const pointed = repointed(from, to, next, held.moved)
++  const done = pointed.edits[0]?.body ?? next
+   return pathRespelled(to, done, one.was, one.now) ?? done
+ }
+ 
