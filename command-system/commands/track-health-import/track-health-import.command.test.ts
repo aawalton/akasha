@@ -74,26 +74,20 @@ const BROKEN_REACH: ImportRunDeps = {
   },
 }
 
-test("a call naming no subject is refused as the caller's fault", async () => {
-  const answer = await trackHealthImport([])
-  expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("health")
-})
-
-test("a subject this command does not bring in is refused by name", async () => {
+test("a word of its own is refused, because this call takes flags alone", async () => {
   const answer = await trackHealthImport(["weather"])
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("`weather`")
 })
 
-test("a second subject is refused rather than chosen between", async () => {
-  const answer = await trackHealthImport(["health", "weather"])
+test("the subject is no longer said, so naming it is refused as a word of its own", async () => {
+  const answer = await trackHealthImport(["health"])
   expect(answer.code).toBe(1)
-  expect(answer.refusals[0]).toContain("one subject")
+  expect(answer.refusals[0]).toContain("akasha track health import")
 })
 
 test("a flag this command does not take is refused by name", async () => {
-  const answer = await trackHealthImport(["health", "--json"])
+  const answer = await trackHealthImport(["--json"])
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("`--json`")
 })

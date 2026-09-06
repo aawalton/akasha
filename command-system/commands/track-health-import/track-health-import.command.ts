@@ -4,12 +4,11 @@ export const trackHealthImport = {
   id: "01a0620c-6340-70c9-a176-730aa9470e96",
   pageTypeSlug: "command",
   slug: "track-health-import",
-  definition: "the command bringing a named subject in from outside",
+  definition: "the command bringing an Apple Health export into the sample store",
   code: "ts",
   test: "ts",
   changeKindSlug: "change-none",
   taking: [
-    { said: "<subject>", takes: "what is brought in, which is `health`" },
     {
       said: "--path <file>",
       takes: "the export to read, in place of the newest export the machine holds",
@@ -23,8 +22,7 @@ export const trackHealthImport = {
     },
   ],
   helpNotes: [
-    "the subject comes first, and one call brings in one subject.",
-    "`health` reads an Apple Health export and lands the active energy and step count records that export holds in the sample store.",
+    "the active energy and step count records the export holds are what lands in the sample store.",
     "the export is the newest `export*.zip` in `~/Downloads` unless `--path` names another.",
     "this workstation is looked in first and the macbook is reached over ssh only where this workstation holds no export.",
     "the phone writes that zip and nothing here makes the zip, so neither machine holding one refuses the call rather than waiting.",
@@ -40,15 +38,7 @@ export const trackHealthImport = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An import brings in one subject.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The subject comes first and what bounds the import comes after the subject.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A subject nothing here brings in is refused rather than chosen for.",
+      statement: "This call takes flags alone.",
     },
     {
       invariantKind: "departure",

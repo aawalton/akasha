@@ -24,6 +24,8 @@ const NOTHING = "—"
 
 export const HEALTH = "health"
 
+const CALLED = "akasha track health import"
+
 const PATH = "--path"
 
 const SINCE = "--since"
@@ -71,12 +73,12 @@ export function taken(argv: readonly string[]): Reading {
     }
     if (!one.startsWith("-")) {
       return {
-        refused: `\`akasha importing\` brings in one subject, and \`${one}\` is named after \`${HEALTH}\``,
+        refused: `\`${CALLED}\` takes flags alone, and \`${one}\` is named as a word of its own`,
       }
     }
     const named = VALUED.find((each) => one === each || one.startsWith(`${each}=`))
     if (named === undefined) {
-      return { refused: `\`${one}\` is nothing \`akasha importing ${HEALTH}\` takes` }
+      return { refused: `\`${one}\` is nothing \`${CALLED}\` takes` }
     }
     let value: string | undefined
     if (one === named) {
@@ -210,17 +212,7 @@ export function reaching(held: Taken): ImportRunDeps {
 }
 
 export async function trackHealthImport(argv: readonly string[]): Promise<Answer> {
-  const subject = argv[0]
-  if (subject === undefined) {
-    return refused(`\`akasha importing\` takes a subject, which is \`${HEALTH}\``, INPUT)
-  }
-  if (subject !== HEALTH) {
-    return refused(
-      `\`${subject}\` is nothing \`akasha importing\` brings in, which is \`${HEALTH}\``,
-      INPUT
-    )
-  }
-  const held = taken(argv.slice(1))
+  const held = taken(argv)
   if ("refused" in held) return refused(held.refused, INPUT)
   return await healthImported(held, reaching(held), Date.now())
 }
