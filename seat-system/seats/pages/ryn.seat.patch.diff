@@ -1,0 +1,19 @@
+readersOweReading: false
+diff --git a/utils-run/running/running.module.ts b/utils-run/running/running.module.ts
+index 16594cd669bd15c36e8325848fe8342159ba57fa..957eee63ae2864bb7058fc1868aec4c0bf465e59 100644
+--- a/utils-run/running/running.module.ts
++++ b/utils-run/running/running.module.ts
+@@ -42,11 +42,11 @@ export const running = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A process inherits the environment of the one that started that process.",
++      statement: "A process inherits the environment of its caller.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An environment stated replaces the one inherited.",
++      statement: "An environment stated replaces the environment inherited.",
+     },
+     {
+       invariantKind: "departure",
