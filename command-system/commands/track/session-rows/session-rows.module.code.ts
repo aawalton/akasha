@@ -104,6 +104,8 @@ export type Held = {
   readonly day: string
   readonly path: string
   readonly page: string
+  readonly pageAt: string
+  readonly pageSaid: string
   readonly rows: Row[]
 }
 
@@ -317,7 +319,7 @@ export function heldFor(root: string, day: string): Held | string {
   } catch {
     rows = []
   }
-  return { day, path, page: id, rows }
+  return { day, path, page: id, pageAt: page, pageSaid, rows }
 }
 
 export function openIn(rows: readonly Row[]): Row | null {

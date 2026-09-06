@@ -8,7 +8,12 @@ export const track = {
   code: "ts",
   test: "ts",
   changeKindSlug: "change-mechanical",
-  partSlugs: ["module/session-leveling", "module/session-rows", "module/waking"],
+  partSlugs: [
+    "module/day-landing",
+    "module/session-leveling",
+    "module/session-rows",
+    "module/waking",
+  ],
   taking: [
     { said: "session", takes: "what to act on, which is one stretch of time a day was spent in" },
     { said: "open", takes: "the act, which is to begin a stretch where none is open" },
@@ -216,7 +221,7 @@ export const track = {
     },
     {
       invariantKind: "departure",
-      statement: "Two days one act changes land as one commit.",
+      statement: "Two days one act changes land in a single commit.",
     },
     {
       invariantKind: "absence",
@@ -313,7 +318,7 @@ export const track = {
     },
     {
       invariantKind: "departure",
-      statement: "A set that is judged sound lands as one commit.",
+      statement: "A set that is judged sound lands in a single commit.",
     },
     {
       invariantKind: "departure",

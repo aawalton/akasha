@@ -1,4 +1,4 @@
-import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
+import { mkdtempSync, readFileSync, rmSync } from "node:fs"
 import { join } from "node:path"
 import { readMountainWallTime } from "@akasha/day/mountain-wall"
 import { mistaking } from "../../asking/asking.module.code.ts"
@@ -6,6 +6,7 @@ import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { refused } from "../../calling/calling.module.code.ts"
 import { SCRATCH_AT } from "../../scratching/scratching.module.code.ts"
 import { filing } from "../write/write.command.code.ts"
+import { besideArgv, type Landing, pathUnder } from "./day-landing/day-landing.module.code.ts"
 import {
   difficultyForTitle,
   readDifficulty,
@@ -54,8 +55,6 @@ function telling(lines: string): Answer {
   return { report: lines === "" ? [] : [lines], refusals: [], code: 0 }
 }
 
-type Landing = { readonly held: Held; readonly rows: Row[] }
-
 type Ending = Landing & { readonly stretch: Row }
 
 async function landedAcross(
@@ -63,24 +62,16 @@ async function landedAcross(
   said: string,
   given: Given
 ): Promise<Answer> {
-  const at = (path: string): string =>
-    path.startsWith(given.root) ? path.slice(given.root.length).replace(/^\//, "") : path
   const last = landings[landings.length - 1]
   if (last === undefined) return mistaking(["this act composed no day"])
   const body = new TextEncoder().encode(linesOf(last.rows))
-  const rest = landings.slice(0, -1)
-  const scratch = rest.length === 0 ? "" : mkdtempSync(join(SCRATCH_AT, "akasha-track-"))
+  const scratch = mkdtempSync(join(SCRATCH_AT, "akasha-track-"))
   try {
-    const argv: string[] = []
-    rest.forEach((one, index) => {
-      const beside = join(scratch, `day-${String(index)}`)
-      writeFileSync(beside, linesOf(one.rows))
-      argv.push("--file-path", at(one.held.path), "--content-file", beside)
-    })
-    argv.push("--file-path", at(last.held.path), "--message", said)
+    const argv = [...besideArgv(landings, scratch, given.root)]
+    argv.push("--file-path", pathUnder(given.root, last.held.path), "--message", said)
     return await filing(argv, given, () => ({ bytes: body }))
   } finally {
-    if (scratch !== "") rmSync(scratch, { recursive: true, force: true })
+    rmSync(scratch, { recursive: true, force: true })
   }
 }
 
