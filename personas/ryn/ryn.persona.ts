@@ -19,6 +19,7 @@ export const ryn = {
     "A clear young woman's voice in a medium-LOW register, bright but poised, quick-minded and confident; excitement held on a steady frame, like a librarian who can command a room when she needs to; crisp diction, warm undertone; noticeably lower-pitched than a typical young voice, never squeaky.",
   voiceReferenceSha256: "b17f99cfb1fa6cbe7f41e8407aa729500507963f77c6de3a4ec5adb3f3d6202d",
   cover: "/api/image/019f324d-7ef7-7d92-a055-e0ea96d6ae10",
+  desktopWallpaper: "png",
   mobileWallpaper: "png",
   greenDayPoints: 4,
   history:

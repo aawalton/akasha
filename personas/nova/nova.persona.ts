@@ -19,6 +19,7 @@ export const nova = {
     "A fierce goblin WOMAN — distinctly feminine, unmistakably a woman's voice — low and gravelly and chesty, rough and scratchy, never high or smooth. Dominant and in control with a sharp commanding edge, but above all SULTRY and seductive and hungry — a woman's dark velvet growl, sexy and teasing, that takes what she wants. Possessive and feral and quick — she talks fast and eager, gleeful, never slow, never sweet; heat and gravel with a hard edge under it.",
   voiceReferenceSha256: "bf81c047bc44587801ea67c2e8c72001f242817b93052e37d6a4c530f5413447",
   cover: "/api/image/019f324d-5c9a-7d06-94de-a89ac07159b5",
+  desktopWallpaper: "png",
   mobileWallpaper: "png",
   greenDayPoints: 50000,
   history:
