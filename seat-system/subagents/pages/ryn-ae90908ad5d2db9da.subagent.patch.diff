@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/editor-extension/work-initiatives/work-initiatives.module.ts b/editor-extension/work-initiatives/work-initiatives.module.ts
-index 81ff66a340c93763925dfd896ca6e6c5f157cdb8..85e86a4be4f09edf96aa474f47dccdbfacca38ef 100644
+index 81ff66a340c93763925dfd896ca6e6c5f157cdb8..faea6247f3ae86cd49262fb33e0b8e7fb4930cbd 100644
 --- a/editor-extension/work-initiatives/work-initiatives.module.ts
 +++ b/editor-extension/work-initiatives/work-initiatives.module.ts
 @@ -19,7 +19,8 @@ export const workInitiatives = {
@@ -19,6 +19,15 @@ index 81ff66a340c93763925dfd896ca6e6c5f157cdb8..85e86a4be4f09edf96aa474f47dccdbf
        invariantKind: "departure",
 -      statement: "An initiative under other than one parent is answered as under none.",
 +      statement: "An initiative under other than one parent is answered as under no parent.",
+     },
+     {
+       invariantKind: "departure",
+@@ -51,7 +52,7 @@ export const workInitiatives = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The intents are answered in the order the page states them.",
++      statement: "The intents are answered in the order the page states the intents.",
      },
      {
        invariantKind: "departure",
