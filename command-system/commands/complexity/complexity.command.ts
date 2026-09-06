@@ -63,8 +63,11 @@ export const complexity = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A threshold is a floor for every metric but the maintainability index, a ceiling for that index.",
+      statement: "A threshold is a floor for every metric but the maintainability index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A threshold is a ceiling for the maintainability index.",
     },
 
     {
@@ -78,7 +81,7 @@ export const complexity = {
     {
       invariantKind: "stopgap",
       statement:
-        "The workspace read is the one the process is in rather than the root the call names.",
+        "The workspace read is the workspace the process is in rather than the root the call names.",
     },
     {
       invariantKind: "absence",
