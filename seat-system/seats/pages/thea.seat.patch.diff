@@ -1,3 +1,16 @@
+diff --git a/pages/indexes/index.page-type.ts b/pages/indexes/index.page-type.ts
+index 9af0c40de01a4d8ef093d47ed82fb492bcfdcc2f..973d77ff8f0b2e2ec6d44aaf38d6aa6d5503a23a 100644
+--- a/pages/indexes/index.page-type.ts
++++ b/pages/indexes/index.page-type.ts
+@@ -14,7 +14,7 @@ export const index = {
+   slug: "index",
+   definition: "one question the pages can be asked, answered by reading one file",
+   pluralSlug: "indexes",
+-  partSlugs: [],
++  partSlugs: ["text-property/index-name"],
+   extendsSlug: ["page-type/module"],
+   properties: [
+     { pagePropertySlug: "text-property/index-name", required: true, many: false },
 diff --git a/personas/persona.page-type.ts b/personas/persona.page-type.ts
 index 5b0a401b40d96b7e787ebfd3022c6f82ecb6e5f4..3916b11b7a0bd7cf10b00116d73d1a63b4174c3d 100644
 --- a/personas/persona.page-type.ts
