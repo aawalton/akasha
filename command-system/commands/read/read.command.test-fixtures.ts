@@ -294,7 +294,7 @@ const TYPES: readonly {
   { slug: "page", at: PAGE_TYPE, body: PAGE_BODY, above: [] },
 ]
 
-export const WARRANTED: readonly string[] = [THING, THING_TYPE, PAGE_TYPE]
+export const WARRANTED: readonly string[] = [THING, THING_TYPE]
 
 export function thingRoot(): string {
   return rootWarranting([{ at: THING, body: "one\n" }])
@@ -310,7 +310,7 @@ export function leftIn(report: readonly string[]): readonly string[] {
 }
 
 export function everyPaged(): readonly string[] {
-  return [...namingPages().filter((one) => one !== "--file-path"), THING_TYPE, PAGE_TYPE]
+  return [...namingPages().filter((one) => one !== "--file-path"), THING_TYPE]
 }
 
 export type Ceilinged = {
@@ -344,9 +344,7 @@ export function priced(): Priced {
   ]
   const call = restCall(CALLED_AS, left)
   const held =
-    costOf(linesFor(THING_TYPE, bodyOf(THING_BODY))) +
-    costOf(linesFor(PAGE_TYPE, bodyOf(PAGE_BODY))) +
-    costOf(linesFor(two, bodyOf(body)))
+    costOf(linesFor(THING_TYPE, bodyOf(THING_BODY))) + costOf(linesFor(two, bodyOf(body)))
   const want = ANSWER_CEILING - Math.floor(costOf(call) / 2) - held
   const bare = costOf(linesFor(one, bodyOf("x\n")))
   const root = rootWarranting([

@@ -327,7 +327,7 @@ test("a file warranted and named both comes back once, and --full expands the sa
   const root = thingRoot()
   const said = read(["--file-path", THING, "--file-path", THING_TYPE], givenFor(root))
   expect(headedIn(said.report, THING_TYPE)).toBe(1)
-  expect(wholeIn(read(["--full", "--file-path", THING], givenFor(root)).report).length).toBe(3)
+  expect(wholeIn(read(["--full", "--file-path", THING], givenFor(root)).report).length).toBe(2)
 })
 
 test("a warrant naming a file outside the repository reaches no read", () => {
