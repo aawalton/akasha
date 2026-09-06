@@ -1,4 +1,10 @@
 export type Changes = {
+  "change-authored/add-file": Parameters<
+    typeof import("../../../command/pages/add-file/add-file.change-authored.code.ts")["runChange"]
+  >[1]
+  "change-authored/change-file": Parameters<
+    typeof import("../../../command/pages/change-file/change-file.change-authored.code.ts")["runChange"]
+  >[1]
   "change-checked/change-page-page-type": Parameters<
     typeof import("../../../checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts")["runChange"]
   >[1]
@@ -10,12 +16,6 @@ export type Changes = {
   >[1]
   "change-checked/remove-page-type": Parameters<
     typeof import("../../../command/pages/remove-page-type/remove-page-type.change-checked.code.ts")["runChange"]
-  >[1]
-  "change-command/add-file": Parameters<
-    typeof import("../../../command/pages/add-file/add-file.change-command.code.ts")["runChange"]
-  >[1]
-  "change-command/change-file": Parameters<
-    typeof import("../../../command/pages/change-file/change-file.change-command.code.ts")["runChange"]
   >[1]
   "change/add-file": Parameters<
     typeof import("../../../pages/add-file/add-file.change.code.ts")["runChange"]

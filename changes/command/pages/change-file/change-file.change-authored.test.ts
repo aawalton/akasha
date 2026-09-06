@@ -3,7 +3,7 @@ import {
   NOTHING_OVER,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { changeFileCommand } from "./change-file.change-command.code.ts"
+import { changeFileCommand } from "./change-file.change-authored.code.ts"
 
 const AT = "akasha/one.held.ts"
 

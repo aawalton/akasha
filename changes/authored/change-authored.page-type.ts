@@ -14,6 +14,7 @@ export const changeAuthored = {
   definition: "a change carrying a body an agent composed",
   pluralSlug: "change-authored",
   extendsSlug: ["page-type/change"],
+  partSlugs: ["change-authored/add-file", "change-authored/change-file"],
   invariants: [
     {
       invariantKind: "departure",
