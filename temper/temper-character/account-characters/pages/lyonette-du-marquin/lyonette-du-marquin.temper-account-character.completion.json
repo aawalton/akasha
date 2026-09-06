@@ -9,7 +9,7 @@
   "className": "Templar",
   "classIcon": "/esoui/art/icons/class/class_templar.dds",
   "companionRapport": {
-    "6": 3118,
+    "6": 3123,
     "13": 772
   },
   "quests": [
@@ -13189,8 +13189,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "date": "2026-09-04",
-    "completed": 7
+    "completed": 7,
+    "date": "2026-09-06"
   },
   "dailyWritStates": {
     "completed": {
@@ -13211,7 +13211,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-04"
+    "date": "2026-09-06"
   },
   "motifKnowledge": {
     "1": {
