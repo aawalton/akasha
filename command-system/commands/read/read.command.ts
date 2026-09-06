@@ -32,7 +32,7 @@ export const read = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A read returns the whole file or the difference since the agent read the file.",
+      statement: "A read returns the whole file or the difference after the agent read the file.",
     },
     {
       invariantKind: "departure",
@@ -50,7 +50,7 @@ export const read = {
     {
       invariantKind: "departure",
       statement:
-        "The difference is worked out against the body the record names and against no other.",
+        "The difference is worked out against the body the record names and against no other body.",
     },
     {
       invariantKind: "departure",
@@ -145,7 +145,7 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A subagent's own seat page is the page of the seat above it.",
+      statement: "A subagent's own seat page is the page of the seat above that subagent.",
     },
     {
       invariantKind: "departure",
@@ -161,7 +161,8 @@ export const read = {
     },
     {
       invariantKind: "departure",
-      statement: "A warrant reaches a read only where that warrant says that warrant runs on one.",
+      statement:
+        "A warrant reaches a read only where that warrant says that warrant runs on a read.",
     },
     {
       invariantKind: "departure",
