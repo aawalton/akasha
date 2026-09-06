@@ -1,0 +1,88 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-fast-each-safety-lever-runs.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-fast-each-safety-lever-runs.all-about-alan-question.ts
+index 532ba6d73e5012e6ebaedfcd8a0f50fe46c44cda..3a679bbea53049196918d7a21d99cf327c351226 100644
+--- a/alan/books/all-about-alan/questions/pages/how-fast-each-safety-lever-runs.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-fast-each-safety-lever-runs.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const howFastEachSafetyLeverRuns = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-fast-each-safety-lever-runs",
+   topicSlug: "how-safety-climbs",
+-  ask: "What duration does each lever run at: slow surplus, faster repair with Jen, and a daily health shock? The three speeds are not pinned.",
++  ask: "The three speeds are not pinned. What duration does each lever run at: slow surplus, faster repair with Jen, and a daily health shock?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-fast-my-warm-set-fades.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-fast-my-warm-set-fades.all-about-alan-question.ts
+index bf831519f61f9fd5c26bcfed68eeb1d47fe50497..fecbf2a313dbcff49db1745596042ff55356d9c4 100644
+--- a/alan/books/all-about-alan/questions/pages/how-fast-my-warm-set-fades.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-fast-my-warm-set-fades.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const howFastMyWarmSetFades = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-fast-my-warm-set-fades",
+   topicSlug: "what-stays-warm-for-a-while",
+-  ask: "Does the freshness fade over about a day to almost nothing? I hold that guess at about one in five.",
++  ask: "I hold the guess at about one in five: does the freshness fade over about a day to almost nothing?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-i-build-an-external-gauge.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-i-build-an-external-gauge.all-about-alan-question.ts
+index d003fd8c8d1abeca08e70c7b444920b1307b2239..5c4726428d6cacfbde1dc0134b7e1acf9373e1aa 100644
+--- a/alan/books/all-about-alan/questions/pages/how-i-build-an-external-gauge.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-i-build-an-external-gauge.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const howIBuildAnExternalGauge = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-i-build-an-external-gauge",
+   topicSlug: "how-i-read-myself",
+-  ask: "What is my method for building an external gauge for a state I cannot read, across proxies, an observer and check-ins? I make the move everywhere and name it nowhere.",
++  ask: "I make the move everywhere and name the move nowhere. What is my method for building an external gauge for a state I cannot read, across proxies, an observer and check-ins?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-i-notice-the-pieces-of-love-live.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-i-notice-the-pieces-of-love-live.all-about-alan-question.ts
+index 413e4bba0893c5f14dd4e3b5be440b7f55e8110d..2492506ff2572a47e68a6ca9c148ff4a95f73f6e 100644
+--- a/alan/books/all-about-alan/questions/pages/how-i-notice-the-pieces-of-love-live.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-i-notice-the-pieces-of-love-live.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const howINoticeThePiecesOfLoveLive = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-i-notice-the-pieces-of-love-live",
+   topicSlug: "working-out-what-love-is",
+-  ask: "How do I notice the other pieces of love as they happen? The model is walked and the detection side empty, with a single piece of thirteen carrying a bridge I can notice live.",
++  ask: "The model is walked and the detection side empty, with a single piece of thirteen carrying a bridge I can notice live. How do I notice the other pieces of love as they happen?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-many-named-levels-there-are.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-many-named-levels-there-are.all-about-alan-question.ts
+index 044df6d534f9ac5f1ebd8f1ced3c8b7436f28243..2b8a9c1425efa0467f70cd7666d374ad4d8b38b4 100644
+--- a/alan/books/all-about-alan/questions/pages/how-many-named-levels-there-are.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-many-named-levels-there-are.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const howManyNamedLevelsThereAre = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-many-named-levels-there-are",
+   topicSlug: "the-coloured-circles-i-run-on",
+-  ask: "How many named levels are there? I described five, one account records four, and what runs shows five.",
++  ask: "I described five named levels, one account records four, and what runs shows five. How many named levels are there?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-much-more-of-the-three-million-goes.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-much-more-of-the-three-million-goes.all-about-alan-question.ts
+index bcd9fc45d9f0947084c358f0a79624f1989c895f..83f1bbeeb47868edd41c183903c3b268710bfbbc 100644
+--- a/alan/books/all-about-alan/questions/pages/how-much-more-of-the-three-million-goes.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-much-more-of-the-three-million-goes.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const howMuchMoreOfTheThreeMillionGoes = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-much-more-of-the-three-million-goes",
+   topicSlug: "why-i-rebuilt-everything",
+-  ask: "How much more of the three million lines has to go? I have only said I need to get rid of more.",
++  ask: "I have only said I need to get rid of more. How much more of the three million lines has to go?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-much-of-a-social-hour-is-the-paused-breathing.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-much-of-a-social-hour-is-the-paused-breathing.all-about-alan-question.ts
+index c8af8cf7e5d337dc0c4ff0ef7eb4ea4aec90cb50..682568d55e3d753e1f0cee95232a685cc023e08f 100644
+--- a/alan/books/all-about-alan/questions/pages/how-much-of-a-social-hour-is-the-paused-breathing.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-much-of-a-social-hour-is-the-paused-breathing.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const howMuchOfASocialHourIsThePausedBreathing = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-much-of-a-social-hour-is-the-paused-breathing",
+   topicSlug: "what-interrupts-my-breathing",
+-  ask: "How much of what a social hour costs me is the paused breathing rather than the compensating? A coding hour against a social one would tell the two apart.",
++  ask: "A coding hour against a social one would tell the two apart. How much of what a social hour costs me is the paused breathing rather than the compensating?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/how-my-harness-holds-each-kind-of-thing.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-my-harness-holds-each-kind-of-thing.all-about-alan-question.ts
+index abc14d42bdea78ad3b381a65da3ef6c5a7147f80..53d47afda94675eb018f7335a19c5db6ae38eef8 100644
+--- a/alan/books/all-about-alan/questions/pages/how-my-harness-holds-each-kind-of-thing.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/how-my-harness-holds-each-kind-of-thing.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const howMyHarnessHoldsEachKindOfThing = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "how-my-harness-holds-each-kind-of-thing",
+   topicSlug: "small-bites-of-many-things",
+-  ask: "How does my harness hold a book, a show, a course, a project or a game? No worked shape has been written for any of the five.",
++  ask: "No worked shape has been written for any of the five. How does my harness hold a book, a show, a course, a project or a game?",
+ } as const satisfies AllAboutAlanQuestion
