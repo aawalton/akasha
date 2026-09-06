@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-interchangeable-pile-holds.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-interchangeable-pile-holds.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..da2fdc0932211a6568ded38b163fd4fcffc5a911
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-the-interchangeable-pile-holds.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTheInterchangeablePileHolds = {
++  id: "01a077e5-4d70-7ce7-9b33-cd18311e7871",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-the-interchangeable-pile-holds",
++  topicSlug: "the-scaffolding-i-built",
++  ask: "What does the interchangeable pile in my harness hold now, and what has come and gone from that pile?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/when-the-overload-behind-my-second-organ-hit.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/when-the-overload-behind-my-second-organ-hit.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9cb724e5a4d7e8822e8a31b8fd7a696f0388b52e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/when-the-overload-behind-my-second-organ-hit.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whenTheOverloadBehindMySecondOrganHit = {
++  id: "01a077e5-4d71-72b2-bfbb-fc20dd7484ef",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "when-the-overload-behind-my-second-organ-hit",
++  topicSlug: "the-scaffolding-i-built",
++  ask: "When did the overload that drove my second permanent organ happen, the way the first organ is anchored to being overwhelmed at Epic?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-scaffolds-survive-low-capacity.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-scaffolds-survive-low-capacity.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cfbef6def7c498158ef4b6bc2292e34ec0e32514
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-scaffolds-survive-low-capacity.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichScaffoldsSurviveLowCapacity = {
++  id: "01a077e5-4d72-7b21-a665-8e5eb60a3129",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-scaffolds-survive-low-capacity",
++  topicSlug: "the-scaffolding-i-built",
++  ask: "Knowing my macros survives into low capacity. Does any other scaffold hold that way, and what decides which scaffolds hold?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-my-hours-dropped-from-twelve-to-ten.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-my-hours-dropped-from-twelve-to-ten.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7257209967aa77156518b6becb5927224ffebaa2
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/why-my-hours-dropped-from-twelve-to-ten.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whyMyHoursDroppedFromTwelveToTen = {
++  id: "01a077e5-4d72-79d0-b935-56371a5690f1",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "why-my-hours-dropped-from-twelve-to-ten",
++  topicSlug: "the-scaffolding-i-built",
++  ask: "Does my drop from twelve hours a day to eight or ten answer a rough stretch, or is that drop independent settling? I stopped tracking the hours.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-scaffolding-i-built.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-scaffolding-i-built.all-about-alan-topic.ts
+index f0c032c9e67b00b7673984fa8393e3c76197e1de..e3520b0d6542f56124f12e8484f016891c7ec413 100644
+--- a/alan/books/all-about-alan/topics/pages/the-scaffolding-i-built.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-scaffolding-i-built.all-about-alan-topic.ts
+@@ -15,6 +15,4 @@ export const theScaffoldingIBuilt = {
+   ],
+   settled:
+     "I am the agent and the system around me is the harness. Every tool in it is a part, not the thing.\n\nIt grows by adding rather than replacing, and a layer gets built when something buckles.\n\nTwenty years produced two permanent organs, one on what I can track and one on what I can carry.\n\nThe two are wired together: clearing the queues lifts my safety, and low safety piles them up and drags it lower.\n\nThe task half lives in software now, a set of streams I push things out of my head into.",
+-  unsettled:
+-    "What the interchangeable pile holds now, and what has come and gone, is not catalogued.\n\nThe overload that drove the second organ is undated, where the first is anchored to being overwhelmed at Epic.\n\nWhether the drop from twelve hours a day to eight or ten answers a rough stretch or is independent settling is unprobed, and I stopped tracking it.\n\nKnowing my macros survives into low capacity. Whether any other scaffold holds that way, and what decides it, is unprobed.",
+ } as const satisfies AllAboutAlanTopic
