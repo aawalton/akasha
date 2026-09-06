@@ -29,14 +29,16 @@ export type Schema = {
   readonly fileName: string | null
 }
 
+// A page type is a page of any type reaching `page-type` by extending, so the slugs are read out of
+// the identity each of those types keeps rather than out of `page-type` alone.
 export function pageTypesIn(given: string | Reading): ReadonlySet<string> {
-  const dir = join(IDENTITY, "page-type", "slug")
-  return new Set<string>([
-    "page-type",
-    ...readingIn(given)
-      .listing(dir)
-      .map((one) => one.name.slice(0, -ENDING.length)),
-  ])
+  const found = new Set<string>([PAGE_TYPE])
+  for (const one of typeSlugsIn(given)) {
+    for (const each of readingIn(given).listing(join(IDENTITY, one, "slug"))) {
+      found.add(each.name.slice(0, -ENDING.length))
+    }
+  }
+  return found
 }
 
 export function under(repo: string, path: string): string {
