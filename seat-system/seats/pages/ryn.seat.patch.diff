@@ -1,0 +1,17 @@
+diff --git a/git/git-answering/git-answering.module.ts b/git/git-answering/git-answering.module.ts
+index 8a7210195c1c57f524996876a8a527fbefea3922..25358d1a7e2eeb0db4082a8249e3ebab867f7795 100644
+--- a/git/git-answering/git-answering.module.ts
++++ b/git/git-answering/git-answering.module.ts
+@@ -38,7 +38,11 @@ export const gitAnswering = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The git that is run is the one the environment names, or `git`.",
++      statement: "The git that is run is the git the environment names.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run the environment names no git for runs `git`.",
+     },
+     {
+       invariantKind: "departure",
