@@ -32,3 +32,30 @@ index 5b0a401b40d96b7e787ebfd3022c6f82ecb6e5f4..3916b11b7a0bd7cf10b00116d73d1a63
    properties: [
      { pagePropertySlug: "text-property/purpose", required: false, many: false },
      { pagePropertySlug: "file-property/portrait", required: false, many: false },
+diff --git a/personas/persona.workspace-package.ts b/personas/persona.workspace-package.ts
+index 0fd3b4af88a79165a3c72db2203b9a010771416b..91176461cad962f5d9979f08e680659f6b3511c3 100644
+--- a/personas/persona.workspace-package.ts
++++ b/personas/persona.workspace-package.ts
+@@ -9,8 +9,6 @@ export const persona = {
+   partSlugs: [
+     "domain/persona-points",
+     "email-address-property/email-address",
+-    "file-property/appearance",
+-    "file-property/portrait",
+     "number-property/green-day-points",
+     "page-type/closeness-level",
+     "page-type/origin-kind",
+@@ -69,13 +67,6 @@ export const persona = {
+     "persona/vera",
+     "persona/zadi",
+     "persona/zeli",
+-    "relation-property/championed-domain-slug",
+-    "relation-property/origin",
+-    "text-property/history",
+-    "text-property/last-messaged-at",
+-    "text-property/purpose",
+     "text-property/value-slug",
+-    "text-property/voice-instruction",
+-    "text-property/voice-reference-sha256",
+   ],
+ } as const satisfies WorkspacePackage
