@@ -1,9 +1,9 @@
 readersOweReading: false
 diff --git a/readout-system/readout-body/readout-body.module.ts b/readout-system/readout-body/readout-body.module.ts
-index 23591b50dee8810c8eddb8911573cbb2460b4813..88c1cbc7f11a17665f6d0858f0a6aefd35647c77 100644
+index 23591b50dee8810c8eddb8911573cbb2460b4813..44807be7d2ca41c2a891c23544b848b0efe02fb2 100644
 --- a/readout-system/readout-body/readout-body.module.ts
 +++ b/readout-system/readout-body/readout-body.module.ts
-@@ -10,7 +10,7 @@ export const readoutBody = {
+@@ -10,11 +10,11 @@ export const readoutBody = {
      {
        invariantKind: "departure",
        statement:
@@ -12,3 +12,8 @@ index 23591b50dee8810c8eddb8911573cbb2460b4813..88c1cbc7f11a17665f6d0858f0a6aefd
      },
      {
        invariantKind: "departure",
+-      statement: "A surface drawing a reading is held to these keys and no others.",
++      statement: "A surface drawing a reading is held to the keys named here and to no other key.",
+     },
+     {
+       invariantKind: "stopgap",
