@@ -398,3 +398,17 @@ index 0000000000000000000000000000000000000000..47716b81c2cb028175b8c0f2ef609e30
 +  slug: "pipeline-engine-secrets-database-url",
 +  placements: [{ resourceName: "pipeline-engine-secrets", resourceKey: "DATABASE_URL" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/pipeline-engine-secrets-git-webhook-secret.secret.ts b/service-system/secrets/pages/pipeline-engine-secrets-git-webhook-secret.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3b9067a849a6efc189f4d54d2689b1b61b10fc16
+--- /dev/null
++++ b/service-system/secrets/pages/pipeline-engine-secrets-git-webhook-secret.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const pipelineEngineSecretsGitWebhookSecret = {
++  id: "01a076b8-b2da-7ca2-ae73-2de5220aed79",
++  pageTypeSlug: "secret",
++  slug: "pipeline-engine-secrets-git-webhook-secret",
++  placements: [{ resourceName: "pipeline-engine-secrets", resourceKey: "GIT_WEBHOOK_SECRET" }],
++} as const satisfies Secret
