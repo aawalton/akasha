@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/alan/tracking/tracking-landing/tracking-landing.module.ts b/alan/tracking/tracking-landing/tracking-landing.module.ts
+index 73885eda4c25db8072c8d21274512d11e1004a1b..0e759a95d1426b5dbe6560fd9f86471a471f7e43 100644
+--- a/alan/tracking/tracking-landing/tracking-landing.module.ts
++++ b/alan/tracking/tracking-landing/tracking-landing.module.ts
+@@ -18,7 +18,7 @@ export const trackingLanding = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Every change of one call lands as one commit or none of them lands.",
++      statement: "Every change of a single call lands as a single commit or no change lands.",
+     },
+     {
+       invariantKind: "departure",
