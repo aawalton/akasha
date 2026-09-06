@@ -1,0 +1,13 @@
+diff --git a/code-system/code-typing/code-typing.module.ts b/code-system/code-typing/code-typing.module.ts
+index 62b7f5dd26ea07eaa22791aa6a370b99854b868a..b4e9640de5785a2eab6edc3db529ec7fe61e430b 100644
+--- a/code-system/code-typing/code-typing.module.ts
++++ b/code-system/code-typing/code-typing.module.ts
+@@ -20,7 +20,7 @@ export const codeTyping = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A global under a name the browser also declares collides rather than replaces it.",
++        "A global under a name the browser also declares collides rather than replacing that declaration.",
+     },
+     {
+       invariantKind: "gap",
