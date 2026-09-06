@@ -22,7 +22,7 @@ export const propertyKey = {
     },
     {
       invariantKind: "departure",
-      statement: "The two are one name in two formats and neither is the other's second spelling.",
+      statement: "The key and the slug are one name in two formats rather than two spellings.",
     },
   ],
 } as const satisfies NamePlace
