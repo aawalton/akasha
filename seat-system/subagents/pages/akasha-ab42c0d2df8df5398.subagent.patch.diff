@@ -1,5 +1,5 @@
 diff --git a/pages/indexes/property-carrying/property-carrying.module.test.ts b/pages/indexes/property-carrying/property-carrying.module.test.ts
-index f9510b6ab3d0e74d71df0452837617d601820cb7..efb4f542bbf2904399cef89f16137e614c2bdeff 100644
+index f9510b6ab3d0e74d71df0452837617d601820cb7..ab574ffa8efce59337782f8b7968b6f3deedf84b 100644
 --- a/pages/indexes/property-carrying/property-carrying.module.test.ts
 +++ b/pages/indexes/property-carrying/property-carrying.module.test.ts
 @@ -6,6 +6,7 @@ import {
@@ -30,5 +30,14 @@ index f9510b6ab3d0e74d71df0452837617d601820cb7..efb4f542bbf2904399cef89f16137e61
 -  listedFiled(root, kind, slug, [{ path, id }])
 +  listedAndValued(root, kind, slug, path, id)
    idFiled(root, id, [{ path, id }])
+ }
+ 
+@@ -71,7 +83,7 @@ function rooted(): string {
+   const root = scratch.rootFor("akasha-carrying-")
+   property(root, "held", "text-property", HELD)
+   filed(root, "thing", "page-type", THING)
+-  listedFiled(root, "thing", "one", [{ path: "akasha/one.thing.ts", id: ONE }])
++  listedAndValued(root, "thing", "one", "akasha/one.thing.ts", ONE)
+   return root
  }
  
