@@ -134,7 +134,7 @@ index 0000000000000000000000000000000000000000..4caaf20de3e842413e4563bf8a4a7dcd
 +})
 diff --git a/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.ts b/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..569a521f727c2fc10ded4845963875edf46a4d68
+index 0000000000000000000000000000000000000000..b8de6cf970d998f5475ee97dcdd67e35322d1236
 --- /dev/null
 +++ b/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.ts
 @@ -0,0 +1,53 @@
@@ -183,7 +183,7 @@ index 0000000000000000000000000000000000000000..569a521f727c2fc10ded4845963875ed
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "An index this guard cannot read refuses the answer.",
++      statement: "An index a guard cannot read refuses the answer.",
 +    },
 +    {
 +      invariantKind: "absence",
