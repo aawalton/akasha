@@ -69,3 +69,15 @@ index 7d6777606aa99a7310bea0844e637e5db9699457..1529798983b0b461cc1369546e7a5313
    viewPlace: 1,
    layout: "cards",
    narrows: [{ key: "status", comparison: "is", values: ["Not Started"] }],
+diff --git a/pages/views/pages/anime-and-shows-watching.view.ts b/pages/views/pages/anime-and-shows-watching.view.ts
+index d208be7c6cce51f5eae918ca4c20c6f0307c1d26..d4f687f4fd24cb3b39786bb2b460569f1e2823ef 100644
+--- a/pages/views/pages/anime-and-shows-watching.view.ts
++++ b/pages/views/pages/anime-and-shows-watching.view.ts
+@@ -6,6 +6,7 @@ export const animeAndShowsWatching = {
+   slug: "anime-and-shows-watching",
+   title: "Watching",
+   navSlug: "anime-and-shows",
++  pageType: "ki-show",
+   viewPlace: 0,
+   layout: "cards",
+   narrows: [{ key: "status", comparison: "in", values: ["In Progress", "Following"] }],
