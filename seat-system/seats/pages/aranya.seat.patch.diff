@@ -36,6 +36,26 @@ index 057008123102c4439afe4a227bcb7a404a936ee3..8269b2e6b3fd345c76920e2af42c715f
  }
  
  export function runSaying(argv: readonly string[]): number {
+diff --git a/service-system/secrets/secret-saying/secret-saying.module.ts b/service-system/secrets/secret-saying/secret-saying.module.ts
+index 1ae51b5eccb8bf558e619a18e97b8e88510fac54..e9c99d3162e0827c8824b9946b8f47507c97a012 100644
+--- a/service-system/secrets/secret-saying/secret-saying.module.ts
++++ b/service-system/secrets/secret-saying/secret-saying.module.ts
+@@ -4,10 +4,14 @@ export const secretSaying = {
+   id: "01a07667-e09b-7f6e-bc84-5a76ea3566f4",
+   pageTypeSlug: "module",
+   slug: "secret-saying",
+-  definition: "the Secret one resource's pages hold, said as yaml for kubectl to apply",
++  definition: "the values one resource's pages hold, said as yaml or handed over key by key",
+   code: "ts",
+   test: "ts",
+   invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The values are gathered once and either said as yaml or handed over as they are.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The yaml is said rather than applied.",
 diff --git a/service-system/web-apps/dev-server-env-writing/dev-server-env-writing.module.code.ts b/service-system/web-apps/dev-server-env-writing/dev-server-env-writing.module.code.ts
 index a3d4f28e587dbe44921c3cd9cbf66f9849705cd1..9e746702eeb5a2e8595b56a25496a3c4f83f23f7 100644
 --- a/service-system/web-apps/dev-server-env-writing/dev-server-env-writing.module.code.ts
