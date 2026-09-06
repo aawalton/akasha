@@ -21,7 +21,7 @@ export const temperInventoryReplayExplain = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The trace given back is the one the addon stored.",
+      statement: "The trace given back is the trace the addon stored.",
     },
     {
       invariantKind: "departure",
