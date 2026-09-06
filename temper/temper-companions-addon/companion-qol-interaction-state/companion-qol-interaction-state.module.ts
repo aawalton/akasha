@@ -10,7 +10,7 @@ export const companionQolInteractionState = {
     {
       invariantKind: "departure",
       statement:
-        "A companion dismissed by the player is told apart from one dismissed for an interaction.",
+        "A companion dismissed by the player is told apart from a companion dismissed for an interaction.",
     },
   ],
 } as const satisfies Module
