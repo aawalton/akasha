@@ -102,6 +102,19 @@ index d95ac877b7dba8c28f5a0b7e0fe8de7fee261c9d..a39afa3b495bd780bf174e92e273bd7b
    pageTypeSlug: "workflow-step",
    slug: "kubectl-apply",
    definition: "a step applying manifests, either within a namespace or across the cluster",
+diff --git a/changes/workflow-language/pod-selection/pod-selection.module.ts b/changes/workflow-language/pod-selection/pod-selection.module.ts
+index 09f6105a20c93030293c080301531c93ebf05a04..05c593742998d656f760251218829a31775249af 100644
+--- a/changes/workflow-language/pod-selection/pod-selection.module.ts
++++ b/changes/workflow-language/pod-selection/pod-selection.module.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "../../../code-system/modules/module.page-type.ts"
+ 
+ export const podSelection = {
+-  id: "01a06f10-7000-700c-b000c-9d4a2f6c000ce1",
++  id: "01a07740-d031-750a-bb56-bf2ab4991321",
+   pageTypeSlug: "module",
+   slug: "pod-selection",
+   definition: "shell lines naming one live pod of a deployment in a namespace",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
