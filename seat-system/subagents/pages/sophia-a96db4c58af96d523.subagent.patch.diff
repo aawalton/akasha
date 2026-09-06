@@ -1,0 +1,13 @@
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-run-outside-the-runner/no-run-outside-the-runner.syntax-rule.test.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-run-outside-the-runner/no-run-outside-the-runner.syntax-rule.test.ts
+index b387a57a368e7facede835993d5b00387bfce60d..2bf09bc171d7873753a1cc7cfb0d5af8401d4c88 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-run-outside-the-runner/no-run-outside-the-runner.syntax-rule.test.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-run-outside-the-runner/no-run-outside-the-runner.syntax-rule.test.ts
+@@ -75,7 +75,7 @@ test("Bun.which is permitted", () => {
+ })
+ 
+ test("a file in the runner's own folder is refused nothing", () => {
+-  const at = "akasha/utils-run/running/running.module.code.ts"
++  const at = "utils-run/running/running.module.code.ts"
+   const text = 'import { spawnSync } from "node:child_process"\nspawnSync(argv)\n'
+   expect(noRunOutsideTheRunner({ path: at, source: parsedAs(at, text) })).toEqual([])
+ })
