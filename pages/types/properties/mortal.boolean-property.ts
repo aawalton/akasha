@@ -19,7 +19,8 @@ export const mortal = {
     },
     {
       invariantKind: "departure",
-      statement: "A mortal page naming a page that is not there is not refused for naming it.",
+      statement:
+        "A mortal page naming a page that is not there is not refused for naming that page.",
     },
     {
       invariantKind: "departure",
@@ -27,7 +28,11 @@ export const mortal = {
     },
     {
       invariantKind: "departure",
-      statement: "Either exemption alone is enough, and neither waits on the other.",
+      statement: "Either exemption applies on its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Neither exemption waits on the other exemption.",
     },
   ],
 } as const satisfies BooleanProperty
