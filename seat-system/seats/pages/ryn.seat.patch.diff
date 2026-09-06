@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/seat-modes/seat-modes.module.ts b/seat-system/seat-modes/seat-modes.module.ts
+index dc2df5aeb3ced41fa02788017647d488c92b2e3f..84ac71d6de8dd1f5ac8cfff8d40afb934351a616 100644
+--- a/seat-system/seat-modes/seat-modes.module.ts
++++ b/seat-system/seat-modes/seat-modes.module.ts
+@@ -19,7 +19,7 @@ export const seatModes = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A launch naming neither answers no mode rather than a default one.",
++      statement: "A launch naming neither answers no mode rather than a default mode.",
+     },
+     {
+       invariantKind: "departure",
