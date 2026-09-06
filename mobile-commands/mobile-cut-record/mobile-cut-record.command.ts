@@ -32,7 +32,7 @@ export const mobileCutRecord = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A build number is a whole number of at least one.",
+      statement: "A build number is a whole number no lower than 1.",
     },
     {
       invariantKind: "departure",
