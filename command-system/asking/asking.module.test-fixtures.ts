@@ -239,7 +239,12 @@ export const PROGRAM = [{ path: TWO_AT, body: bytes(PROPOSED) }]
 export const ranBy = (runsChecks: boolean, owesReading: boolean): Running =>
   runningOf({
     ...givenIn(""),
-    changeKind: { slug: "held", runsChecks, writerOwesReading: owesReading },
+    changeKind: {
+      slug: "held",
+      runsChecks,
+      writerOwesReading: owesReading,
+      readersOweReading: false,
+    },
   })
 
 export function seeded(root: string): boolean {

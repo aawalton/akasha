@@ -432,6 +432,7 @@ export const MECHANICAL: Kind = {
   slug: "change-mechanical",
   runsChecks: false,
   writerOwesReading: false,
+  readersOweReading: false,
 }
 
 export async function landedMechanically(

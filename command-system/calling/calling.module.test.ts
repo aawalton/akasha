@@ -285,7 +285,12 @@ test("a name no command carries is told where the surface is written down", asyn
   expect(said.refusals[0]).toContain("Say `akasha --help` for what each of them takes.")
 })
 
-const CARRIED = { slug: "change-mechanical", runsChecks: false, writerOwesReading: false }
+const CARRIED = {
+  slug: "change-mechanical",
+  runsChecks: false,
+  writerOwesReading: false,
+  readersOweReading: false,
+}
 
 test("the change kind a call already carries is what the command is handed", async () => {
   const root = rootWith([{ slug: "held", body: SAYS_KIND }])

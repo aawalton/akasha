@@ -11,6 +11,7 @@ export type Kind = {
   readonly slug: string
   readonly runsChecks: boolean
   readonly writerOwesReading: boolean
+  readonly readersOweReading: boolean
 }
 
 export type Outside = {
@@ -48,6 +49,8 @@ const CHANGE_KIND = "changeKindSlug"
 const RUNS_CHECKS = "runsChecks"
 
 const WRITER_OWES_READING = "writerOwesReading"
+
+const READERS_OWE_READING = "readersOweReading"
 
 const CHANGE_KIND_TYPE = "01a05e11-d3f8-72af-b104-6cdd1255b0eb"
 
@@ -159,8 +162,11 @@ export function kindNamed(root: string, slug: string): Kind | null {
   if (page === null) return null
   const checks = page[RUNS_CHECKS]
   const owed = page[WRITER_OWES_READING]
-  if (typeof checks !== "boolean" || typeof owed !== "boolean") return null
-  return { slug, runsChecks: checks, writerOwesReading: owed }
+  const stales = page[READERS_OWE_READING]
+  if (typeof checks !== "boolean" || typeof owed !== "boolean" || typeof stales !== "boolean") {
+    return null
+  }
+  return { slug, runsChecks: checks, writerOwesReading: owed, readersOweReading: stales }
 }
 
 function kindOf(root: string, page: Record<string, unknown> | null): Kind | null {

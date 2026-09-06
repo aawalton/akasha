@@ -94,7 +94,7 @@ export const calling = {
     {
       invariantKind: "departure",
       statement:
-        "The checks a kind runs and the reading its writer owes are read off that kind's own page.",
+        "The checks a kind runs and the readings a change of that kind owes are read off its page.",
     },
     {
       invariantKind: "departure",
