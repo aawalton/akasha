@@ -13,6 +13,14 @@ export const secretPlace = {
     },
     {
       invariantKind: "departure",
+      statement: "A step naming no type places an Opaque Secret.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resource the cluster holds under another type is named with that type here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "What a resource holds is read from the pages placing a value in it.",
     },
     {

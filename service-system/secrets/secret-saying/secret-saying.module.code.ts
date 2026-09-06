@@ -9,6 +9,8 @@ import {
 
 const PREFIX = "[secret-saying]"
 
+export const OPAQUE = "Opaque"
+
 export function flagValue(argv: readonly string[], name: string): string | undefined {
   const at = argv.indexOf(name)
   if (at === -1) return undefined
@@ -34,18 +36,24 @@ export function heldBy(pages: readonly SecretPage[], resource: string): readonly
 export function secretYaml(
   values: Record<string, string>,
   resource: string,
-  namespace: string
+  namespace: string,
+  type: string = OPAQUE
 ): string {
   return stringify({
     apiVersion: "v1",
     kind: "Secret",
     metadata: { name: resource, namespace },
-    type: "Opaque",
+    type,
     stringData: values,
   })
 }
 
-export function sayingFor(akasha: string, resource: string, namespace: string): string {
+export function sayingFor(
+  akasha: string,
+  resource: string,
+  namespace: string,
+  type: string = OPAQUE
+): string {
   const pages = secretPages(akasha)
   placedAt(pages)
   const held = heldBy(pages, resource)
@@ -56,13 +64,14 @@ export function sayingFor(akasha: string, resource: string, namespace: string): 
   }
   const values: Record<string, string> = {}
   for (const one of held) values[one.key] = valueOf(akasha, one.page)
-  return secretYaml(values, resource, namespace)
+  return secretYaml(values, resource, namespace, type)
 }
 
 export function runSaying(argv: readonly string[]): number {
   const root = flagValue(argv, "--root")
   const resource = flagValue(argv, "--resource")
   const namespace = flagValue(argv, "--namespace")
+  const type = flagValue(argv, "--type") ?? OPAQUE
   for (const [flag, held] of [
     ["--root", root],
     ["--resource", resource],
@@ -74,7 +83,7 @@ export function runSaying(argv: readonly string[]): number {
     }
   }
   try {
-    process.stdout.write(sayingFor(root as string, resource as string, namespace as string))
+    process.stdout.write(sayingFor(root as string, resource as string, namespace as string, type))
   } catch (thrown) {
     process.stderr.write(`${PREFIX} ${thrown instanceof Error ? thrown.message : String(thrown)}\n`)
     return 1

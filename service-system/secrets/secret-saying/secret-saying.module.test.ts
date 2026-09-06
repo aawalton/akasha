@@ -63,6 +63,17 @@ describe("secretYaml", () => {
       ].join("\n")
     )
   })
+
+  test("says the type it is given, a cluster refusing a type changed under it", () => {
+    const said = secretYaml(
+      { "tls.crt": "a", "tls.key": "b" },
+      "pgbouncer-tls",
+      "pgbouncer",
+      "kubernetes.io/tls"
+    )
+    expect(said).toContain("type: kubernetes.io/tls")
+    expect(said).not.toContain("Opaque")
+  })
 })
 
 describe("flagValue", () => {

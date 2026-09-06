@@ -26,6 +26,14 @@ export const secretSaying = {
     },
     {
       invariantKind: "departure",
+      statement: "A resource's type is said as given, and as Opaque where none is given.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "The type a Secret is on the cluster cannot be changed once that Secret is there.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Two pages placing a value in one resource at one key are refused here too.",
     },
     {

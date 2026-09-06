@@ -8,10 +8,12 @@ interface SecretPlaceConfig {
   name: string
   namespace: string
   resource: string
+  type?: string
 }
 
 export function secretPlaceApply(config: SecretPlaceConfig): Step {
-  const { name, namespace, resource } = config
+  const { name, namespace, resource, type } = config
+  const typed = type === undefined ? "" : ` --type ${type}`
   return {
     name,
     image: IMAGES.CI,
@@ -21,7 +23,7 @@ export function secretPlaceApply(config: SecretPlaceConfig): Step {
     },
     commands: (ci: CIContext) => [
       "set -e",
-      `SAID=$(bun "${ci.workspace}/${SAYING}" --root "${ci.workspace}" --resource ${resource} --namespace ${namespace})`,
+      `SAID=$(bun "${ci.workspace}/${SAYING}" --root "${ci.workspace}" --resource ${resource} --namespace ${namespace}${typed})`,
       `echo "$SAID" | kubectl apply --dry-run=client -n ${namespace} -f -`,
       `echo "$SAID" | kubectl apply -n ${namespace} -f -`,
     ],
