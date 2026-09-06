@@ -1,0 +1,16 @@
+diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
+index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
+--- a/pages/page.page-type.ts
++++ b/pages/page.page-type.ts
+@@ -71,11 +71,6 @@ export const page = {
+       invariantKind: "departure",
+       statement: "A page's identity is unchanged when its title changes.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "An identity replaced for being no uuid version 7 keeps the old identity's last eight hex.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "Some page properties have their own files.",
