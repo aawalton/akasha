@@ -1,14 +1,20 @@
 readersOweReading: false
 diff --git a/editor-extension/seat-acts/seat-acts.module.ts b/editor-extension/seat-acts/seat-acts.module.ts
-index 902ab95b4838beec6e187eab8d902b5a908a116c..eb1a926bb783b8b43ed203f57ff9f10b5ad7b142 100644
+index 902ab95b4838beec6e187eab8d902b5a908a116c..04b83b2215d6476c929ac074d04a5e1f5ed0e1fe 100644
 --- a/editor-extension/seat-acts/seat-acts.module.ts
 +++ b/editor-extension/seat-acts/seat-acts.module.ts
-@@ -30,7 +30,7 @@ export const seatActs = {
+@@ -30,12 +30,12 @@ export const seatActs = {
      },
      {
        invariantKind: "departure",
 -      statement: "A stop asks the seat's supervisor without forcing it.",
 +      statement: "A stop asks the seat's supervisor without forcing the supervisor.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A revive is given the prompt the compose module renders rather than one written here.",
++        "A revive is given the prompt the compose module renders rather than a prompt written here.",
      },
      {
        invariantKind: "departure",
