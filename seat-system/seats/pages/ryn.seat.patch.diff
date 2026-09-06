@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.ts b/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.ts
-index 409c314530da2484cd9ba7653df32a0c9b93d4ee..9b87c20640cf9ff52d4cfb8671e09d5cd9289046 100644
+index 409c314530da2484cd9ba7653df32a0c9b93d4ee..e2e0b65782ceb8f9f79b0716255c46939182ef65 100644
 --- a/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.ts
 +++ b/seat-system/supervising/supervisor-spawn-agents/supervisor-spawn-agents.module.ts
 @@ -13,7 +13,7 @@ export const supervisorSpawnAgents = {
@@ -12,3 +11,13 @@ index 409c314530da2484cd9ba7653df32a0c9b93d4ee..9b87c20640cf9ff52d4cfb8671e09d5c
      },
      {
        invariantKind: "departure",
+@@ -21,8 +21,7 @@ export const supervisorSpawnAgents = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "An empty map is no definitions, because a seat given one would delegate to nothing.",
++      statement: "An empty map is no definitions.",
+     },
+   ],
+ } as const satisfies Module
