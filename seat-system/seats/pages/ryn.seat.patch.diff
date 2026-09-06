@@ -1,7 +1,16 @@
 diff --git a/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts b/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts
-index 9b90a1755ef52d9cb22870d74735222a7b0cd13e..433597567601dd2d5b356bdde2357870b99f3172 100644
+index 9b90a1755ef52d9cb22870d74735222a7b0cd13e..52aeb05ef6532df5b4614c874d43a3b8385b0215 100644
 --- a/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts
 +++ b/seat-system/supervisor-limit-resume-effects/supervisor-limit-resume-effects.module.ts
+@@ -11,7 +11,7 @@ export const supervisorLimitResumeEffects = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A rate limit is read from the last assistant line of a transcript, not from any line.",
++        "A rate limit is read from the last assistant line of a transcript rather than from any line.",
+     },
+     {
+       invariantKind: "departure",
 @@ -31,7 +31,7 @@ export const supervisorLimitResumeEffects = {
      },
      {
