@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-open-questions-keep-the-lost-nuance.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-open-questions-keep-the-lost-nuance.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0e4343b58181109b1131d3997072e419f172ca8e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-open-questions-keep-the-lost-nuance.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherOpenQuestionsKeepTheLostNuance = {
++  id: "01a077e8-8944-7f2a-aec5-6f9ea9fc81b3",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-open-questions-keep-the-lost-nuance",
++  topicSlug: "what-a-model-leaves-out",
++  ask: "Abby reads what is open on every topic in this book as where the nuance a definition simplified out is kept rather than thrown away. Does that reading hold?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-nuance-is-worth-losing.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-nuance-is-worth-losing.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a3510c50e57ae2cedfeeb20b6acc40b484cf43de
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-nuance-is-worth-losing.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichNuanceIsWorthLosing = {
++  id: "01a077e8-8945-77b2-bcf2-c356e1afcd06",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-nuance-is-worth-losing",
++  topicSlug: "what-a-model-leaves-out",
++  ask: "Is any nuance worth losing, and what tells me which nuance that is?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-way-i-go-when-nuance-will-not-fit.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-way-i-go-when-nuance-will-not-fit.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7a23cce2668bf0bc08f1cc1fb2e8263828e57fab
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-way-i-go-when-nuance-will-not-fit.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichWayIGoWhenNuanceWillNotFit = {
++  id: "01a077e8-8944-7ae9-ad6c-802d4114b603",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-way-i-go-when-nuance-will-not-fit",
++  topicSlug: "what-a-model-leaves-out",
++  ask: "A model has to fit in my head before it changes what I do, so concise beats complete. Which way do I go when the nuance will not fit?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-a-model-leaves-out.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-a-model-leaves-out.all-about-alan-topic.ts
+index e0d35c7062112264dd683ba106e30e050a2b33a3..4b02f5fb84fdc96b6ff9ba6d2acf2d2c69203262 100644
+--- a/alan/books/all-about-alan/topics/pages/what-a-model-leaves-out.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-a-model-leaves-out.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatAModelLeavesOut = {
+   relatedSlugs: ["what-i-think-truth-is"],
+   settled:
+     "All models are false, because they simplify out nuance for intelligibility.\n\nI find the nuance is where the gold is.",
+-  unsettled:
+-    "This sits against my own test that a model has to fit in my head before it changes what I do, so concise beats complete. Which way I go when the nuance will not fit is unsettled.\n\nAbby's reading: this is why every topic in this book carries a Questions section. The section is where the nuance a definition simplified out gets kept instead of thrown away.\n\nWhether some nuance is worth losing, and what tells me which, is unprobed.",
+ } as const satisfies AllAboutAlanTopic
