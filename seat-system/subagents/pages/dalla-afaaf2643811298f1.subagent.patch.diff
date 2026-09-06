@@ -243,6 +243,19 @@ index 6d6803ce4645e952385a165fafd1d5f3520757d2..5a0c7e043aa52b5b688368e2c223dbc8
    evidence:
      "My own reading of Abby's backlog at `~/abby-backlog-2026-08-06/`, migrated here as a finding. Carried in `backlog/personal-freedom.md` line 26 as `VENDOR/streaming-audit` (was item 5), citing `notes/software-and-saas.md` for the four D grades and recording the remediation priority as low.\n\nWhat I did not measure: I did not read the software-and-SaaS note, so the four services and their grades are the backlog's account. \"Probably redundant\" is the item's own hedge, not a comparison anyone has run — no overlap analysis exists in what I read. My last clause about ease of cancellation is my own reading and is not in the item.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/term-life-cover-outlasts-need.finding.ts b/domains/findings/pages/term-life-cover-outlasts-need.finding.ts
+index d6cae6c13de88721a211f2c9394990a988689555..788978dd6179470741faf300f1c15469513cba5c 100644
+--- a/domains/findings/pages/term-life-cover-outlasts-need.finding.ts
++++ b/domains/findings/pages/term-life-cover-outlasts-need.finding.ts
+@@ -6,7 +6,7 @@ export const termLifeCoverOutlastsNeed = {
+   slug: "term-life-cover-outlasts-need",
+   domainSlug: "domain/all-about-alan",
+   claim:
+-    "Alan carries $4M of term life cover against a need that shrinks as his children reach independence — Lizzy in five to seven years, Joseph in seven to nine, Katara in ten or more. Nothing re-evaluates the face value against that shrinking need on any cadence, and nothing tracks the policies' expiration dates or their renewal and re-rate windows, so cover could drop off at a moment nobody chose.",
++    "Alan carries $4M of term life cover against one need that shrinks as his children reach independence — Lizzy in five to seven years, Joseph in seven to nine, Katara in ten or more. Nothing re-evaluates the face value against that shrinking need on any cadence, and nothing tracks the policies' expiration dates or their renewal and re-rate windows, so cover could drop off at a moment nobody chose.",
+   evidence:
+     "My own reading of Abby's backlog at `~/abby-backlog-2026-08-06/`, migrated here as a finding. Carried in `backlog/personal-freedom.md` line 66 as `WATCH/term-life-cadence` (was item 41), citing the term-life section of `notes/insurance.md` and proposing an annual review as the default cadence, to land as a recurring entry once the cadence is settled.\n\nWhat I did not measure: I did not read `notes/insurance.md`, so the $4M face value, the three children's ages and the independence windows are the backlog's figures, recorded there as of 2026-07-02. That no cadence is running is what the item's open status implies. My closing clause about cover dropping off unchosen restates the item's concern about expiration dates rather than adding evidence.",
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts b/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts
 index ed91a37861d1fa0b4f6f05c4f14d93e95bac7db8..8dabf0b40fd84efc38eaf698a8549c7923d9ace3 100644
 --- a/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts
