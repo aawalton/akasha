@@ -24,3 +24,25 @@ index dd75401e5b0ed13c4cb0942c2331a41d7a3b944b..281bff0e9957820c7caf37c5efb9c0f9
 +export function runChange(world: World, given: RemovePageAsked): Answer {
 +  return removePage(world, given)
 +}
+diff --git a/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts b/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts
+index 6ce423661a9acf50c399bc06f933945d19b19d15..666deb32c3dce98c541bd8dc35914ab99322f9c0 100644
+--- a/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts
++++ b/changes/guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts
+@@ -2,7 +2,10 @@ import {
+   takingIn,
+   unreadable,
+ } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+-import type { Guarding } from "../../../modules/change-guarding/change-guarding.module.types.ts"
++import type {
++  Guard,
++  Guarding,
++} from "../../../modules/change-guarding/change-guarding.module.types.ts"
+ 
+ function hangingIn(given: Guarding, taken: readonly string[]): string | null {
+   for (const path of taken) {
+@@ -23,3 +26,5 @@ export function importNotLeftHanging(given: Guarding): string | null {
+     return unreadable(cause)
+   }
+ }
++
++export const runGuard: Guard = importNotLeftHanging
