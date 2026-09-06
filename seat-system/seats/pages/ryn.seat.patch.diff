@@ -1,0 +1,18 @@
+diff --git a/browser/browser-commands/verify-render-plan/verify-render-plan.module.ts b/browser/browser-commands/verify-render-plan/verify-render-plan.module.ts
+index 8b377a0ae35f06cbad0c6d3e6bdbd7f9a3a4ab05..c958593171770487175fd35ddabd598e0edca943 100644
+--- a/browser/browser-commands/verify-render-plan/verify-render-plan.module.ts
++++ b/browser/browser-commands/verify-render-plan/verify-render-plan.module.ts
+@@ -10,8 +10,11 @@ export const verifyRenderPlan = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A session is anonymous, throwaway or the real user, each naming the environment that session needs.",
++      statement: "A session is anonymous or throwaway or the real user.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every sort of session names the environment that session needs.",
+     },
+     {
+       invariantKind: "departure",
