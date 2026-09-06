@@ -10,7 +10,7 @@ export const browserTestEnv = {
     {
       invariantKind: "departure",
       statement:
-        "An environment missing any of its names yields no environment rather than a partial one.",
+        "An environment missing a name yields no environment rather than a partial environment.",
     },
   ],
 } as const satisfies Module
