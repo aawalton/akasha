@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/fitness/commands/exercise-said/exercise-said.module.ts b/alan/fitness/commands/exercise-said/exercise-said.module.ts
+index c3bab3e3034916f1eeef41c13b505e02354ad9df..f0b2985c8870bd96773cf22a5ed089d6dcf78db1 100644
+--- a/alan/fitness/commands/exercise-said/exercise-said.module.ts
++++ b/alan/fitness/commands/exercise-said/exercise-said.module.ts
+@@ -13,7 +13,7 @@ export const exerciseSaid = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A flag named twice is refused rather than settled by the last one said.",
++      statement: "A flag named twice is refused rather than settled by the last flag said.",
+     },
+     {
+       invariantKind: "departure",
