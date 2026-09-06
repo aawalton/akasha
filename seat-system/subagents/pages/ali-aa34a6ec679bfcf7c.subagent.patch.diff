@@ -247,7 +247,7 @@ index 22893ec44e3f567f3f5c608205824c34b9dd36fb..99309d4262e277f5571d747d885d3c72
      "command/ali-random-leaf",
      "command/learn-next",
 diff --git a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
-index f11177c8d0fcd499be03c89f759007ff844cd34e..2af454969d15c2ee5daf857032fac3fc1fc8fe23 100644
+index f11177c8d0fcd499be03c89f759007ff844cd34e..83827700933606732f17b39a09962c4d437fb65c 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
 +++ b/alan/library/book-of-everything/learn-everything-topics/learn-everything-topic.page-type.ts
 @@ -7,7 +7,6 @@ import type { Misconceptions } from "./properties/misconceptions.file-property.t
@@ -291,7 +291,7 @@ index f11177c8d0fcd499be03c89f759007ff844cd34e..2af454969d15c2ee5daf857032fac3fc
      { pagePropertySlug: "calendar-date-property/topic-scored-on", required: true, many: false },
      { pagePropertySlug: "select-property/topic-status", required: true, many: false },
      {
-@@ -80,6 +78,7 @@ export const learnEverythingTopic = {
+@@ -80,16 +78,25 @@ export const learnEverythingTopic = {
      { pagePropertySlug: "file-property/bites", required: false, many: false },
      { pagePropertySlug: "file-property/topic-evidence", required: false, many: false },
    ],
@@ -299,7 +299,15 @@ index f11177c8d0fcd499be03c89f759007ff844cd34e..2af454969d15c2ee5daf857032fac3fc
    invariants: [
      {
        invariantKind: "departure",
-@@ -90,6 +89,10 @@ export const learnEverythingTopic = {
+-      statement: "Every level of the map is a topic, the whole of that map included.",
++      statement: "Every level of the map is a topic.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The whole of the map is a topic.",
+     },
+     {
+       invariantKind: "departure",
        statement:
          "A topic's depth is judged by hand and its coverage worked out from beneath that topic.",
      },
