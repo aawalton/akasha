@@ -1,0 +1,13 @@
+diff --git a/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts b/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts
+index a9de3b8c68b0ffd7a589a1cc411c319cf23ebda4..dda7c70ce1bb550a3d9ebd9e4d3be95d868e8887 100644
+--- a/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts
++++ b/domains/findings/pages/the-provisioning-scripts-still-carry-their-own-table.finding.ts
+@@ -6,7 +6,7 @@ export const theProvisioningScriptsStillCarryTheirOwnTable = {
+   slug: "the-provisioning-scripts-still-carry-their-own-table",
+   domainSlug: "domain/provisioning",
+   claim:
+-    "Every file the workstation is set up with is now a provisioned-file page stating where it goes, but setup-symlinks.sh still spells that table out itself rather than reading it from the pages.",
++    "Every file the workstation is set up with is now one provisioned-file page stating where it goes, but setup-symlinks.sh still spells that table out itself rather than reading it from the pages.",
+   evidence:
+     "The seventeen pages under akasha/machines/provisioning/provisioned-files/pages each carry installPath, placedBy, onlyOn and reloadWith, which is everything the placer needs. The script was left spelling the table because it could not be run to test: a wrong projection breaks the workstation on the next provisioning run, and the block forbade installing or linking anything live. The projection is the remaining half of the adaptation and wants a command beside `service install`, which already projects workstation-service pages into units the same way.",
+ } as const satisfies Finding
