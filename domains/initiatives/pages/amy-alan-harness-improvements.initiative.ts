@@ -32,5 +32,10 @@ export const amyAlanHarnessImprovements = {
       workingMemory:
         "Written and waiting on a deploy. The route reads the persona's own file property through the pages service rather than the object store, and six tests cover the ordering. A pod reaches `/file` today: nova's picture came back whole inside the running web pod. A pod serves the build from origin main, and the migration keeps commits local, so Alan's phone reaches the old route until that hold lifts.",
     },
+    {
+      statement: "An attribute's stoplight shows what that attribute has reached.",
+      workingMemory:
+        "Alan has reached a mark on intelligence and on wisdom, and both stoplights are black. Black is what a stoplight shows where no reading reached that stoplight, so the reading is what to look at before the attribute.",
+    },
   ],
 } as const satisfies Initiative
