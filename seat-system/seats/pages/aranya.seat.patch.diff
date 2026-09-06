@@ -412,3 +412,17 @@ index 0000000000000000000000000000000000000000..3b9067a849a6efc189f4d54d2689b1b6
 +  slug: "pipeline-engine-secrets-git-webhook-secret",
 +  placements: [{ resourceName: "pipeline-engine-secrets", resourceKey: "GIT_WEBHOOK_SECRET" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/pipeline-engine-secrets-mcp-api-key.secret.ts b/service-system/secrets/pages/pipeline-engine-secrets-mcp-api-key.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e1e8f4b9e8dbc1d6894874ce0e0f37ee09bdae14
+--- /dev/null
++++ b/service-system/secrets/pages/pipeline-engine-secrets-mcp-api-key.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const pipelineEngineSecretsMcpApiKey = {
++  id: "01a076b8-c99e-7131-9583-f1eb92ab5dbb",
++  pageTypeSlug: "secret",
++  slug: "pipeline-engine-secrets-mcp-api-key",
++  placements: [{ resourceName: "pipeline-engine-secrets", resourceKey: "MCP_API_KEY" }],
++} as const satisfies Secret
