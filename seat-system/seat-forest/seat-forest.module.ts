@@ -13,7 +13,7 @@ export const seatForest = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat nothing observed a mode of shows the mode it was started in.",
+      statement: "A seat nothing observed a mode of shows the mode that seat was started in.",
     },
   ],
 } as const satisfies Module
