@@ -10,11 +10,12 @@ export const readoutUnread = {
   invariants: [
     {
       invariantKind: "constraint",
-      statement: "A group can hold exactly the right number of lights and none of the readings.",
+      statement:
+        "A group can hold exactly the right number of lights and no reading behind those lights.",
     },
     {
       invariantKind: "constraint",
-      statement: "A count of lights is blind to whether a reading is behind each one.",
+      statement: "A count of lights is blind to whether a reading is behind each light.",
     },
     {
       invariantKind: "departure",
@@ -47,7 +48,7 @@ export const readoutUnread = {
     },
     {
       invariantKind: "departure",
-      statement: "A refusal names each unread light by its label.",
+      statement: "A refusal names every unread light by its label.",
     },
     {
       invariantKind: "departure",
