@@ -50,7 +50,7 @@ index 057008123102c4439afe4a227bcb7a404a936ee3..8269b2e6b3fd345c76920e2af42c715f
  
  export function runSaying(argv: readonly string[]): number {
 diff --git a/service-system/secrets/secret-saying/secret-saying.module.ts b/service-system/secrets/secret-saying/secret-saying.module.ts
-index 1ae51b5eccb8bf558e619a18e97b8e88510fac54..e9c99d3162e0827c8824b9946b8f47507c97a012 100644
+index 1ae51b5eccb8bf558e619a18e97b8e88510fac54..96828c3e55cc4d165b2b4a53e0bbb6e21838c18d 100644
 --- a/service-system/secrets/secret-saying/secret-saying.module.ts
 +++ b/service-system/secrets/secret-saying/secret-saying.module.ts
 @@ -4,10 +4,14 @@ export const secretSaying = {
@@ -64,7 +64,7 @@ index 1ae51b5eccb8bf558e619a18e97b8e88510fac54..e9c99d3162e0827c8824b9946b8f4750
    invariants: [
 +    {
 +      invariantKind: "departure",
-+      statement: "The values are gathered once and either said as yaml or handed over as they are.",
++      statement: "The same gathering of a resource's values serves the yaml and the handing over.",
 +    },
      {
        invariantKind: "departure",
