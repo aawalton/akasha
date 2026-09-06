@@ -1,5 +1,5 @@
 diff --git a/command-system/commit-author/commit-author.module.code.ts b/command-system/commit-author/commit-author.module.code.ts
-index 2adf96c97bee91bdb3dea0cfbeb0e2cc3ac8091d..735ddb6d02dc560b9d625525ab0c20750ee904af 100644
+index 2adf96c97bee91bdb3dea0cfbeb0e2cc3ac8091d..f0edc8f5cdfc3be86eea7a5d0a1e6232bcf21f28 100644
 --- a/command-system/commit-author/commit-author.module.code.ts
 +++ b/command-system/commit-author/commit-author.module.code.ts
 @@ -1,4 +1,5 @@
@@ -8,3 +8,12 @@ index 2adf96c97bee91bdb3dea0cfbeb0e2cc3ac8091d..735ddb6d02dc560b9d625525ab0c2075
  import { displayNameOf, personaAt } from "@akasha/persona-system/persona-reading"
  import { seat } from "@akasha/seat-system/seat-page-type"
  import { pageTextOf } from "@akasha/seat-system/seat-page-values"
+@@ -44,7 +45,7 @@ export function personaAuthor(persona: string): string | null {
+ // is.
+ function defaultPersona(): string | null {
+   for (const one of seat.properties) {
+-    if (one.pagePropertySlug !== PERSONA_SLUG_PROPERTY) continue
++    if (slugOf(one.pagePropertySlug) !== PERSONA_SLUG_PROPERTY) continue
+     const value: unknown = "default" in one ? one.default : undefined
+     return typeof value === "string" ? value : null
+   }
