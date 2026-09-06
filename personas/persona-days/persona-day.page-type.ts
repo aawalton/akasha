@@ -6,7 +6,6 @@ import type { Date as TrackedDate } from "../../alan/tracking/daily/wake-days/pr
 import type { NutritionPoints } from "../../alan/tracking/daily/wake-days/properties/nutrition-points.number-property.ts"
 import type { SleepPoints } from "../../alan/tracking/daily/wake-days/properties/sleep-points.number-property.ts"
 import type { StrengthPoints } from "../../alan/tracking/daily/wake-days/properties/strength-points.number-property.ts"
-import type { StrengthVolume } from "../../alan/tracking/daily/wake-days/properties/strength-volume.number-property.ts"
 import type { TaskPoints } from "../../alan/tracking/daily/wake-days/properties/task-points.number-property.ts"
 import type { GreenDayPoints } from "../properties/green-day-points.number-property.ts"
 import type { ValueSlug } from "../properties/value-slug.text-property.ts"
@@ -14,6 +13,7 @@ import type { BytePoints } from "./properties/byte-points.number-property.ts"
 import type { DayPersonaSlug } from "./properties/day-persona-slug.relation-property.ts"
 import type { SourcePoints } from "./properties/source-points.number-property.ts"
 import type { SourceTotalSnapshot } from "./properties/source-total-snapshot.number-property.ts"
+import type { StrengthVolume } from "./properties/strength-volume.number-property.ts"
 
 export type PersonaDay = Page & {
   personaSlug: DayPersonaSlug
@@ -43,6 +43,7 @@ export const personaDay = {
     "number-property/byte-points",
     "number-property/source-points",
     "number-property/source-total-snapshot",
+    "number-property/strength-volume",
     "relation-property/day-persona-slug",
   ],
   properties: [

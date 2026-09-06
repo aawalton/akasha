@@ -1,6 +1,7 @@
 import type { Page } from "@akasha/pages/page"
 import type { PageType } from "@akasha/pages/page-type"
 import type { Title } from "../../../../pages/properties/title.text-property.ts"
+import type { StrengthVolume } from "../../../../personas/persona-days/properties/strength-volume.number-property.ts"
 import type { ActiveCalories } from "./properties/active-calories.number-property.ts"
 import type { BreathingPoints } from "./properties/breathing-points.number-property.ts"
 import type { CardioPoints } from "./properties/cardio-points.number-property.ts"
@@ -30,7 +31,6 @@ import type { Sessions } from "./properties/sessions.page-property-entry.ts"
 import type { SleepPoints } from "./properties/sleep-points.number-property.ts"
 import type { SpannedFromDayBoundary } from "./properties/spanned-from-day-boundary.boolean-property.ts"
 import type { StrengthPoints } from "./properties/strength-points.number-property.ts"
-import type { StrengthVolume } from "./properties/strength-volume.number-property.ts"
 import type { TaskPoints } from "./properties/task-points.number-property.ts"
 import type { Version } from "./properties/version.text-property.ts"
 import type { WealthPoints } from "./properties/wealth-points.number-property.ts"
@@ -130,7 +130,6 @@ export const wakeDay = {
     "number-property/seq",
     "number-property/sleep-points",
     "number-property/strength-points",
-    "number-property/strength-volume",
     "number-property/task-points",
     "number-property/wealth-points",
     "number-property/wisdom-words",
