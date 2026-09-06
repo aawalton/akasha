@@ -1,0 +1,28 @@
+diff --git a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
+index f0fa55ced9031bfdc5c83cabe230428f8954e0ae..916d3b5dfbcb1754b8f07fecab7992d5872eb0dc 100644
+--- a/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
++++ b/alan/fitness/exercise-access/exercise-rows/exercise-rows.module.code.ts
+@@ -1,5 +1,5 @@
+-import { valuesOfType } from "@akasha/indexes"
+ import { AKASHA, resolveRoots } from "@akasha/pages/checkout-roots"
++import { asking as answering } from "@akasha/pages-service/asking"
+ 
+ export type Value =
+   | string
+@@ -140,10 +140,15 @@ export function shapedIn(rows: readonly Row[], asking: Asking): readonly Row[] {
+   return asking.select === undefined ? cut : cut.map((row) => cutTo(row, asking.select ?? []))
+ }
+ 
++// THE ROWS ARE ASKED FOR RATHER THAN READ OFF THE INDEX. A key a page type works out is on no page
++// file, so a reader taking the index's own values sees a session's volume as absent and counts the
++// sets again to fill the hole. Asking hands back the stored keys and the worked ones together.
+ export async function rowsFor(asking: Asking): Promise<Rows> {
+   let held: readonly Row[]
+   try {
+-    held = valuesOfType(checkoutRoot(), asking.pageTypeSlug).map((one) => rowOf(one.value))
++    const found = answering(checkoutRoot(), { pageTypeSlug: asking.pageTypeSlug })
++    if ("refused" in found) return { unread: found.refused }
++    held = found.rows.map((one) => rowOf(one))
+   } catch (why) {
+     const said = why instanceof Error ? why.message : String(why)
+     return { unread: `\`${asking.pageTypeSlug}\` went unread: ${said}` }
