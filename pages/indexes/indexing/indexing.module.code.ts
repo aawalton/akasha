@@ -153,6 +153,8 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
   const paths = held.flatMap((one) => claim(one.value, one.path, false))
   drift.push(reconcile(join(root, PATH), paths, root, put))
   drift.push(reconcile(join(root, SCHEMA), schema, root, put))
+  const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
+  drift.push(reconcile(join(root, VALUE), valued, root, put))
   const known = knownIn(readingAt(root), (path) => valueAt(path, repo))
   const filed = held.map((one) => relationIn(one.value, one.path, known, repo))
   const relation = filed.flatMap((one) => one.entries)
@@ -162,8 +164,6 @@ export function rebuiltFrom(tree: string, root: string, repo: string, put = true
     importIn(readFileSync(path, "utf8"), path, repo, naming)
   )
   drift.push(reconcile(join(root, IMPORT), imported, root, put))
-  const valued = held.flatMap((one) => valueIn(one.value, one.path, repo))
-  drift.push(reconcile(join(root, VALUE), valued, root, put))
   return {
     pages: held.length,
     entries:
