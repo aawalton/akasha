@@ -51,7 +51,7 @@ export const claudeAccountMeasuring = {
     {
       invariantKind: "departure",
       statement:
-        "An account no window has been read of is marked unread rather than as spending none.",
+        "An account no window has been read of is marked unread rather than as spending zero.",
     },
     {
       invariantKind: "absence",
