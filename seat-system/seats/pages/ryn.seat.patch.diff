@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.ts b/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.ts
+index 426fc4135ebb8f02f1c993623d37220ae3ebb317..c7c6ce8d268a312a8760b349ee3558282150ab16 100644
+--- a/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.ts
++++ b/checks/code-checks/pages/manifest-names-what-is-reached/manifest-names-what-is-reached.code-check.ts
+@@ -33,7 +33,7 @@ export const manifestNamesWhatIsReached = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A dependency judged for going unreached is one stated under `dependencies` or `devDependencies`.",
++        "A dependency judged for going unreached is stated under `dependencies` or `devDependencies`.",
+     },
+     {
+       invariantKind: "departure",
