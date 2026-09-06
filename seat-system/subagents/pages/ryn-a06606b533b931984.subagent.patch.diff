@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/capacity/reading/capacity-reading.module.ts b/alan/harness/capacity/reading/capacity-reading.module.ts
-index 497f38e30d101b03e12e49ba6266770b81ab85ba..1547e80479417d7a1f2798f44fab5e08616127cd 100644
+index 497f38e30d101b03e12e49ba6266770b81ab85ba..eebb3259d5af8ac1e77653b7c705669b930b68c9 100644
 --- a/alan/harness/capacity/reading/capacity-reading.module.ts
 +++ b/alan/harness/capacity/reading/capacity-reading.module.ts
 @@ -78,7 +78,8 @@ export const capacityReading = {
@@ -23,3 +23,12 @@ index 497f38e30d101b03e12e49ba6266770b81ab85ba..1547e80479417d7a1f2798f44fab5e08
      },
      {
        invariantKind: "stopgap",
+@@ -98,7 +100,7 @@ export const capacityReading = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Importing this file takes none.",
++      statement: "Importing this file takes no reading.",
+     },
+     {
+       invariantKind: "absence",
