@@ -14,7 +14,7 @@ const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
-const REPO = join(import.meta.dir, "..", "..", "..")
+const REPO = join(import.meta.dir, "..", "..")
 
 const REAL = "agents/models/tests/pages/restatement/restatement.model-test.ts"
 
