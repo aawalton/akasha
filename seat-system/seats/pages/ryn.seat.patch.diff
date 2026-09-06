@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/pages/types/properties/mortal.boolean-property.ts b/pages/types/properties/mortal.boolean-property.ts
-index 039430f47d81d7f3b7fde54129b20e7770475a24..0f5a4836ef36b56ffb60e12a8e6ad3dda8b7e91c 100644
+index 039430f47d81d7f3b7fde54129b20e7770475a24..a097814ee194c58d29757f38e838f52c5132fc29 100644
 --- a/pages/types/properties/mortal.boolean-property.ts
 +++ b/pages/types/properties/mortal.boolean-property.ts
 @@ -19,7 +19,8 @@ export const mortal = {
@@ -13,3 +12,16 @@ index 039430f47d81d7f3b7fde54129b20e7770475a24..0f5a4836ef36b56ffb60e12a8e6ad3dd
      },
      {
        invariantKind: "departure",
+@@ -27,7 +28,11 @@ export const mortal = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Either exemption alone is enough, and neither waits on the other.",
++      statement: "Either exemption applies on its own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Neither exemption waits on the other exemption.",
+     },
+   ],
+ } as const satisfies BooleanProperty
