@@ -12,7 +12,8 @@ export const nice = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A higher number gives a unit less of the machine when the machine is busy.",
+      statement:
+        "A higher number gives a unit a smaller share of the machine when the machine is busy.",
     },
   ],
 } as const satisfies NumberProperty
