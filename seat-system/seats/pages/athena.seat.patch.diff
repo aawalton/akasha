@@ -1,0 +1,922 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/domains/domain.workspace-package.ts b/domains/domain.workspace-package.ts
+index c539546892c12cebae214beb180e681a31ed53ce..480577f989cd4aca74faac5cd4512f2ec93e3543 100644
+--- a/domains/domain.workspace-package.ts
++++ b/domains/domain.workspace-package.ts
+@@ -7,6 +7,7 @@ export const domain = {
+   definition: "how we define how things should be",
+   manifest: "json",
+   partSlugs: [
++    "module/work-initiatives",
+     "page-type/domain",
+     "page-type/finding",
+     "page-type/initiative",
+diff --git a/domains/modules/work-initiatives/work-initiatives.module.code.ts b/domains/modules/work-initiatives/work-initiatives.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b97620a48d0db3b5d7613ae8c045c6c48b3f414a
+--- /dev/null
++++ b/domains/modules/work-initiatives/work-initiatives.module.code.ts
+@@ -0,0 +1,110 @@
++import { partedIn } from "../../../pages/file-name/page-file-name.module.code.ts"
++import {
++  everyOfType,
++  idsNaming,
++  typeSlugOf,
++} from "../../../pages/indexes/reading/index-reading.module.code.ts"
++import { valueAt } from "../../../pages/value/page-value.module.code.ts"
++
++const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
++
++const PARENT = "parent-slug"
++
++const PERSONA = "personaSlug"
++
++const INTENTS = "intents"
++
++const STATEMENT = "statement"
++
++const WORKING_MEMORY = "workingMemory"
++
++export type InitiativeIntent = {
++  readonly statement: string
++  readonly workingMemory: string | null
++}
++
++export type InitiativeRow = {
++  readonly slug: string
++  readonly path: string
++  readonly parent: string | null
++  readonly persona: string | null
++  readonly intents: readonly InitiativeIntent[]
++}
++
++type Held = {
++  readonly persona: string | null
++  readonly intents: readonly InitiativeIntent[]
++}
++
++const NOTHING_HELD: Held = { persona: null, intents: [] }
++
++function slugIn(path: string, typeSlug: string): string | null {
++  const said = partedIn(path)
++  if (said === null || said.sections.length > 0 || said.pageType !== typeSlug) return null
++  return said.slug
++}
++
++function textIn(held: unknown): string | null {
++  return typeof held === "string" && held !== "" ? held : null
++}
++
++// AN INTENT WITH NO STATEMENT IS NO INTENT, and is passed over rather than drawn as a row with an
++// empty label. The statement is required of an intent where the page type declares one, so a page
++// short of it is a page the write gate would have refused — this reads what is on disk, which is
++// not always what the gate last judged.
++function intentsIn(held: unknown): readonly InitiativeIntent[] {
++  if (!Array.isArray(held)) return []
++  const drawn: InitiativeIntent[] = []
++  for (const one of held) {
++    if (one === null || typeof one !== "object" || Array.isArray(one)) continue
++    const row = one as Record<string, unknown>
++    const statement = textIn(row[STATEMENT])
++    if (statement === null) continue
++    drawn.push({ statement, workingMemory: textIn(row[WORKING_MEMORY]) })
++  }
++  return drawn
++}
++
++// WHAT THE PAGE ITSELF CARRIES, TAKEN IN ONE OPENING RATHER THAN ONE FOR EACH KEY. The index files
++// identities and edges and no text, so both the persona and the intents have to come out of the
++// page body — and transpiling a body to read it is the dearest thing this module does, so it is
++// done once for each initiative however many keys are wanted off it.
++function heldAt(root: string, path: string): Held {
++  const value = valueAt(path, root)
++  if (value === null) return NOTHING_HELD
++  return { persona: textIn(value[PERSONA]), intents: intentsIn(value[INTENTS]) }
++}
++
++export function initiativesDrawn(root: string): readonly InitiativeRow[] {
++  const typeSlug = typeSlugOf(root, INITIATIVE_TYPE)
++  const pages = everyOfType(root, typeSlug)
++  const slugById = new Map<string, string>()
++  for (const one of pages) {
++    const slug = slugIn(one.path, typeSlug)
++    if (slug !== null) slugById.set(one.id, slug)
++  }
++  const edges = [...pages].flatMap((one) => {
++    const parent = slugById.get(one.id)
++    if (parent === undefined) return []
++    return [...idsNaming(root, one.id, PARENT)].flatMap((naming) => {
++      const child = slugById.get(naming)
++      return child === undefined ? [] : [{ child, parent }]
++    })
++  })
++  const parentsOf = Map.groupBy(edges, (one) => one.child)
++  const drawn: InitiativeRow[] = []
++  for (const one of pages) {
++    const slug = slugById.get(one.id)
++    if (slug === undefined) continue
++    const named = parentsOf.get(slug) ?? []
++    const held = heldAt(root, one.path)
++    drawn.push({
++      slug,
++      path: one.path,
++      parent: named.length === 1 ? (named[0]?.parent ?? null) : null,
++      persona: held.persona,
++      intents: held.intents,
++    })
++  }
++  return drawn
++}
+diff --git a/domains/modules/work-initiatives/work-initiatives.module.test.ts b/domains/modules/work-initiatives/work-initiatives.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..21a5d643dfc8f505e90a4b8d079b2cd2da2956e8
+--- /dev/null
++++ b/domains/modules/work-initiatives/work-initiatives.module.test.ts
+@@ -0,0 +1,228 @@
++import { afterAll, expect, test } from "bun:test"
++import { mkdirSync, writeFileSync } from "node:fs"
++import { dirname, join } from "node:path"
++import { scratchWorld } from "../../../command-system/scratching/scratching.module.code.ts"
++import {
++  idFiled,
++  relationFiled,
++  valueAlsoFiled,
++} from "../../../pages/indexes/reading/index-reading.module.test-fixtures.ts"
++import { initiativesDrawn } from "./work-initiatives.module.code.ts"
++
++const ONE = "01a04e9f-0000-7000-8000-00000000000a"
++
++const TWO = "01a04e9f-0000-7000-8000-00000000000b"
++
++const THREE = "01a04e9f-0000-7000-8000-00000000000c"
++
++const INITIATIVE = "initiative"
++
++const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
++
++const PARENT_SLUG = "parent-slug"
++
++const scratch = scratchWorld()
++
++afterAll(scratch.sweep)
++
++function pathFor(slug: string, typeSlug: string = INITIATIVE): string {
++  return `akasha/domain-system/initiative/initiatives/${slug}.${typeSlug}.ts`
++}
++
++function worldFor(typeSlug: string = INITIATIVE): string {
++  const root = scratch.rootFor("akasha-work-")
++  idFiled(root, INITIATIVE_TYPE, [
++    { path: `akasha/domain-system/initiative/${typeSlug}.page-type.ts`, id: INITIATIVE_TYPE },
++  ])
++  return root
++}
++
++// The pages of a page type are read out of the value index, one line for each page, so that is
++// where a test puts them. The identity index answers which page carries one slug, which is a
++// narrower question than this panel asks.
++function filing(root: string, slug: string, id: string, typeSlug: string = INITIATIVE): undefined {
++  valueAlsoFiled(root, typeSlug, [{ path: pathFor(slug, typeSlug), value: { id, slug } }])
++}
++
++function under(root: string, child: string, parent: string): undefined {
++  relationFiled(root, parent, PARENT_SLUG, child, [{ path: pathFor("naming"), id: child }])
++}
++
++test("every initiative the index files is drawn", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  filing(root, "amy-two", TWO)
++  expect(initiativesDrawn(root).map((one) => one.slug)).toEqual(["amy-one", "amy-two"])
++})
++
++test("every initiative is drawn though the page type saying what one is carries another slug", () => {
++  const root = worldFor("endeavour")
++  filing(root, "amy-one", ONE, "endeavour")
++  expect(initiativesDrawn(root).map((one) => one.slug)).toEqual(["amy-one"])
++})
++
++test("an index filing no initiative draws nothing", () => {
++  const root = worldFor()
++  expect(initiativesDrawn(root)).toEqual([])
++})
++
++test("an index naming no page type for initiatives refuses rather than drawing none", () => {
++  const root = scratch.rootFor("akasha-work-")
++  expect(() => initiativesDrawn(root)).toThrow("could not be answered")
++})
++
++test("the edge is filed under the parent, so the child is the one that sits under", () => {
++  const root = worldFor()
++  filing(root, "amy-parent", ONE)
++  filing(root, "amy-child", TWO)
++  under(root, TWO, ONE)
++  const drawn = initiativesDrawn(root)
++  expect(drawn.find((one) => one.slug === "amy-child")?.parent).toBe("amy-parent")
++  expect(drawn.find((one) => one.slug === "amy-parent")?.parent).toBe(null)
++})
++
++test("an initiative naming no parent sits under none", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  expect(initiativesDrawn(root)[0]?.parent).toBe(null)
++})
++
++test("a parent the index files no initiative for sits under none", () => {
++  const root = worldFor()
++  filing(root, "amy-two", TWO)
++  under(root, TWO, THREE)
++  expect(initiativesDrawn(root)[0]?.parent).toBe(null)
++})
++
++test("an initiative under two parents sits under none", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  filing(root, "amy-two", TWO)
++  filing(root, "amy-three", THREE)
++  under(root, THREE, ONE)
++  under(root, THREE, TWO)
++  const drawn = initiativesDrawn(root)
++  expect(drawn.find((one) => one.slug === "amy-three")?.parent).toBe(null)
++})
++
++test("a parent under two children keeps each of them under it", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  filing(root, "amy-two", TWO)
++  filing(root, "amy-three", THREE)
++  under(root, TWO, ONE)
++  under(root, THREE, ONE)
++  const drawn = initiativesDrawn(root)
++  expect(drawn.find((one) => one.slug === "amy-two")?.parent).toBe("amy-one")
++  expect(drawn.find((one) => one.slug === "amy-three")?.parent).toBe("amy-one")
++})
++
++test("a path the file name says is no initiative is passed over", () => {
++  const root = worldFor()
++  valueAlsoFiled(root, INITIATIVE, [
++    { path: "akasha/editor-extension/stray.module.ts", value: { id: ONE, slug: "stray" } },
++  ])
++  expect(initiativesDrawn(root)).toEqual([])
++})
++
++function pageAt(root: string, slug: string, body: string): undefined {
++  const path = join(root, pathFor(slug))
++  mkdirSync(dirname(path), { recursive: true })
++  writeFileSync(path, body)
++}
++
++test("a persona is read out of the page the index named", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(
++    root,
++    "amy-one",
++    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", personaSlug: "amy" }\n'
++  )
++  expect(initiativesDrawn(root)[0]?.persona).toBe("amy")
++})
++
++test("a page the index named but no file holds answers no persona", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  expect(initiativesDrawn(root)[0]?.persona).toBe(null)
++})
++
++test("a page stating no persona answers none", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(root, "amy-one", 'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one" }\n')
++  expect(initiativesDrawn(root)[0]?.persona).toBe(null)
++})
++
++test("the intents are read out of the page in the order that page states them", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(
++    root,
++    "amy-one",
++    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
++      '{ statement: "zebra" }, { statement: "apple" }] }\n'
++  )
++  expect(initiativesDrawn(root)[0]?.intents.map((one) => one.statement)).toEqual(["zebra", "apple"])
++})
++
++test("an intent's working memory is read where the intent states one", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(
++    root,
++    "amy-one",
++    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
++      '{ statement: "make it so", workingMemory: "cut at 74bda7f0" }] }\n'
++  )
++  expect(initiativesDrawn(root)[0]?.intents[0]?.workingMemory).toBe("cut at 74bda7f0")
++})
++
++test("an intent stating no working memory carries none", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(
++    root,
++    "amy-one",
++    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
++      '{ statement: "make it so" }] }\n'
++  )
++  expect(initiativesDrawn(root)[0]?.intents[0]?.workingMemory).toBe(null)
++})
++
++test("a page stating no intents carries none", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(root, "amy-one", 'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one" }\n')
++  expect(initiativesDrawn(root)[0]?.intents).toEqual([])
++})
++
++test("a page the index named but no file holds carries no intent", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  expect(initiativesDrawn(root)[0]?.intents).toEqual([])
++})
++
++test("an entry stating no statement is no intent and is passed over", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(
++    root,
++    "amy-one",
++    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
++      '{ workingMemory: "held" }, { statement: "make it so" }] }\n'
++  )
++  expect(initiativesDrawn(root)[0]?.intents.map((one) => one.statement)).toEqual(["make it so"])
++})
++
++test("an intents key holding what is no list carries no intent", () => {
++  const root = worldFor()
++  filing(root, "amy-one", ONE)
++  pageAt(
++    root,
++    "amy-one",
++    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: "make it so" }\n'
++  )
++  expect(initiativesDrawn(root)[0]?.intents).toEqual([])
++})
+diff --git a/domains/modules/work-initiatives/work-initiatives.module.ts b/domains/modules/work-initiatives/work-initiatives.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..040994b2f4fffb07df3432ffb9b6d4f07453c408
+--- /dev/null
++++ b/domains/modules/work-initiatives/work-initiatives.module.ts
+@@ -0,0 +1,86 @@
++import type { Module } from "../../../code-system/modules/module.page-type.ts"
++
++export const workInitiatives = {
++  id: "01a04e9f-4572-7339-8438-7d5a5777f8ab",
++  pageTypeSlug: "module",
++  slug: "work-initiatives",
++  definition: "every initiative the work panel draws, what each holds, and the one each sits under",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "An initiative is found through the page type reached by its id rather than by a spelled slug.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An index filing no initiative draws no initiative.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "An index that cannot say what an initiative is refuses rather than drawing no initiative.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An initiative's slug is read off its file's name rather than out of its page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A parent is answered as a slug.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The index files that edge by id while the tree is built from slugs.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The index files a parent edge under the parent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An initiative under other than one parent is answered as under no parent.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A persona is read out of the page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The intents an initiative holds are read out of the page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The intents are answered in the order the page states the intents.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An entry stating no statement is no intent and is passed over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An intent stating no working memory carries no working memory.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page is opened once however many keys are read out of that page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The index files identities and edges.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The index files no text.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here walks the pages.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Every initiative answered is an initiative the index named first.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/editor-extension/editor-extension.workspace-package.ts b/editor-extension/editor-extension.workspace-package.ts
+index 360370151a2f1c09613951318f240aea4dd8ce78..e395f0709ad9291da58978ab1a83a23f79ad9f0f 100644
+--- a/editor-extension/editor-extension.workspace-package.ts
++++ b/editor-extension/editor-extension.workspace-package.ts
+@@ -10,7 +10,6 @@ export const editorExtension = {
+     "module/champions-tree",
+     "module/page-tree-assemble",
+     "module/command-server-client",
+-    "module/work-initiatives",
+     "module/panel-domains",
+     "module/terminal-marks",
+     "module/domain-tree-ids",
+diff --git a/editor-extension/package.json b/editor-extension/package.json
+index 2317fb3b81c68eddafb7aa2b62be4c6875bd0cea..3138cf3eca9f722792d20f9a42d55e0f51c16067 100644
+--- a/editor-extension/package.json
++++ b/editor-extension/package.json
+@@ -56,7 +56,6 @@
+     "./transcript-panel": "./transcript-panel/transcript-panel.module.code.ts",
+     "./tree-filter": "./tree-filter/tree-filter.module.code.ts",
+     "./window-identity": "./window-identity/window-identity.module.code.ts",
+-    "./work-initiatives": "./work-initiatives/work-initiatives.module.code.ts",
+     "./work-tree-ids": "./work-tree-ids/work-tree-ids.module.code.ts",
+     "./work-tree-panel": "./work-tree-panel/work-tree-panel.module.code.ts"
+   },
+diff --git a/editor-extension/work-initiatives/work-initiatives.module.code.ts b/editor-extension/work-initiatives/work-initiatives.module.code.ts
+deleted file mode 100644
+index 836103db61691f38572243a766304479ef0ff257..0000000000000000000000000000000000000000
+--- a/editor-extension/work-initiatives/work-initiatives.module.code.ts
++++ /dev/null
+@@ -1,110 +0,0 @@
+-import { partedIn } from "../../pages/file-name/page-file-name.module.code.ts"
+-import {
+-  everyOfType,
+-  idsNaming,
+-  typeSlugOf,
+-} from "../../pages/indexes/reading/index-reading.module.code.ts"
+-import { valueAt } from "../../pages/value/page-value.module.code.ts"
+-
+-const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
+-
+-const PARENT = "parent-slug"
+-
+-const PERSONA = "personaSlug"
+-
+-const INTENTS = "intents"
+-
+-const STATEMENT = "statement"
+-
+-const WORKING_MEMORY = "workingMemory"
+-
+-export type InitiativeIntent = {
+-  readonly statement: string
+-  readonly workingMemory: string | null
+-}
+-
+-export type InitiativeRow = {
+-  readonly slug: string
+-  readonly path: string
+-  readonly parent: string | null
+-  readonly persona: string | null
+-  readonly intents: readonly InitiativeIntent[]
+-}
+-
+-type Held = {
+-  readonly persona: string | null
+-  readonly intents: readonly InitiativeIntent[]
+-}
+-
+-const NOTHING_HELD: Held = { persona: null, intents: [] }
+-
+-function slugIn(path: string, typeSlug: string): string | null {
+-  const said = partedIn(path)
+-  if (said === null || said.sections.length > 0 || said.pageType !== typeSlug) return null
+-  return said.slug
+-}
+-
+-function textIn(held: unknown): string | null {
+-  return typeof held === "string" && held !== "" ? held : null
+-}
+-
+-// AN INTENT WITH NO STATEMENT IS NO INTENT, and is passed over rather than drawn as a row with an
+-// empty label. The statement is required of an intent where the page type declares one, so a page
+-// short of it is a page the write gate would have refused — this reads what is on disk, which is
+-// not always what the gate last judged.
+-function intentsIn(held: unknown): readonly InitiativeIntent[] {
+-  if (!Array.isArray(held)) return []
+-  const drawn: InitiativeIntent[] = []
+-  for (const one of held) {
+-    if (one === null || typeof one !== "object" || Array.isArray(one)) continue
+-    const row = one as Record<string, unknown>
+-    const statement = textIn(row[STATEMENT])
+-    if (statement === null) continue
+-    drawn.push({ statement, workingMemory: textIn(row[WORKING_MEMORY]) })
+-  }
+-  return drawn
+-}
+-
+-// WHAT THE PAGE ITSELF CARRIES, TAKEN IN ONE OPENING RATHER THAN ONE FOR EACH KEY. The index files
+-// identities and edges and no text, so both the persona and the intents have to come out of the
+-// page body — and transpiling a body to read it is the dearest thing this module does, so it is
+-// done once for each initiative however many keys are wanted off it.
+-function heldAt(root: string, path: string): Held {
+-  const value = valueAt(path, root)
+-  if (value === null) return NOTHING_HELD
+-  return { persona: textIn(value[PERSONA]), intents: intentsIn(value[INTENTS]) }
+-}
+-
+-export function initiativesDrawn(root: string): readonly InitiativeRow[] {
+-  const typeSlug = typeSlugOf(root, INITIATIVE_TYPE)
+-  const pages = everyOfType(root, typeSlug)
+-  const slugById = new Map<string, string>()
+-  for (const one of pages) {
+-    const slug = slugIn(one.path, typeSlug)
+-    if (slug !== null) slugById.set(one.id, slug)
+-  }
+-  const edges = [...pages].flatMap((one) => {
+-    const parent = slugById.get(one.id)
+-    if (parent === undefined) return []
+-    return [...idsNaming(root, one.id, PARENT)].flatMap((naming) => {
+-      const child = slugById.get(naming)
+-      return child === undefined ? [] : [{ child, parent }]
+-    })
+-  })
+-  const parentsOf = Map.groupBy(edges, (one) => one.child)
+-  const drawn: InitiativeRow[] = []
+-  for (const one of pages) {
+-    const slug = slugById.get(one.id)
+-    if (slug === undefined) continue
+-    const named = parentsOf.get(slug) ?? []
+-    const held = heldAt(root, one.path)
+-    drawn.push({
+-      slug,
+-      path: one.path,
+-      parent: named.length === 1 ? (named[0]?.parent ?? null) : null,
+-      persona: held.persona,
+-      intents: held.intents,
+-    })
+-  }
+-  return drawn
+-}
+diff --git a/editor-extension/work-initiatives/work-initiatives.module.test.ts b/editor-extension/work-initiatives/work-initiatives.module.test.ts
+deleted file mode 100644
+index e510a23c3fe0e634671774ad15277d52bdfdb7c5..0000000000000000000000000000000000000000
+--- a/editor-extension/work-initiatives/work-initiatives.module.test.ts
++++ /dev/null
+@@ -1,228 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import { mkdirSync, writeFileSync } from "node:fs"
+-import { dirname, join } from "node:path"
+-import { scratchWorld } from "../../command-system/scratching/scratching.module.code.ts"
+-import {
+-  idFiled,
+-  relationFiled,
+-  valueAlsoFiled,
+-} from "../../pages/indexes/reading/index-reading.module.test-fixtures.ts"
+-import { initiativesDrawn } from "./work-initiatives.module.code.ts"
+-
+-const ONE = "01a04e9f-0000-7000-8000-00000000000a"
+-
+-const TWO = "01a04e9f-0000-7000-8000-00000000000b"
+-
+-const THREE = "01a04e9f-0000-7000-8000-00000000000c"
+-
+-const INITIATIVE = "initiative"
+-
+-const INITIATIVE_TYPE = "01a04e58-5735-72b4-b945-56366461c776"
+-
+-const PARENT_SLUG = "parent-slug"
+-
+-const scratch = scratchWorld()
+-
+-afterAll(scratch.sweep)
+-
+-function pathFor(slug: string, typeSlug: string = INITIATIVE): string {
+-  return `akasha/domain-system/initiative/initiatives/${slug}.${typeSlug}.ts`
+-}
+-
+-function worldFor(typeSlug: string = INITIATIVE): string {
+-  const root = scratch.rootFor("akasha-work-")
+-  idFiled(root, INITIATIVE_TYPE, [
+-    { path: `akasha/domain-system/initiative/${typeSlug}.page-type.ts`, id: INITIATIVE_TYPE },
+-  ])
+-  return root
+-}
+-
+-// The pages of a page type are read out of the value index, one line for each page, so that is
+-// where a test puts them. The identity index answers which page carries one slug, which is a
+-// narrower question than this panel asks.
+-function filing(root: string, slug: string, id: string, typeSlug: string = INITIATIVE): undefined {
+-  valueAlsoFiled(root, typeSlug, [{ path: pathFor(slug, typeSlug), value: { id, slug } }])
+-}
+-
+-function under(root: string, child: string, parent: string): undefined {
+-  relationFiled(root, parent, PARENT_SLUG, child, [{ path: pathFor("naming"), id: child }])
+-}
+-
+-test("every initiative the index files is drawn", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  filing(root, "amy-two", TWO)
+-  expect(initiativesDrawn(root).map((one) => one.slug)).toEqual(["amy-one", "amy-two"])
+-})
+-
+-test("every initiative is drawn though the page type saying what one is carries another slug", () => {
+-  const root = worldFor("endeavour")
+-  filing(root, "amy-one", ONE, "endeavour")
+-  expect(initiativesDrawn(root).map((one) => one.slug)).toEqual(["amy-one"])
+-})
+-
+-test("an index filing no initiative draws nothing", () => {
+-  const root = worldFor()
+-  expect(initiativesDrawn(root)).toEqual([])
+-})
+-
+-test("an index naming no page type for initiatives refuses rather than drawing none", () => {
+-  const root = scratch.rootFor("akasha-work-")
+-  expect(() => initiativesDrawn(root)).toThrow("could not be answered")
+-})
+-
+-test("the edge is filed under the parent, so the child is the one that sits under", () => {
+-  const root = worldFor()
+-  filing(root, "amy-parent", ONE)
+-  filing(root, "amy-child", TWO)
+-  under(root, TWO, ONE)
+-  const drawn = initiativesDrawn(root)
+-  expect(drawn.find((one) => one.slug === "amy-child")?.parent).toBe("amy-parent")
+-  expect(drawn.find((one) => one.slug === "amy-parent")?.parent).toBe(null)
+-})
+-
+-test("an initiative naming no parent sits under none", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  expect(initiativesDrawn(root)[0]?.parent).toBe(null)
+-})
+-
+-test("a parent the index files no initiative for sits under none", () => {
+-  const root = worldFor()
+-  filing(root, "amy-two", TWO)
+-  under(root, TWO, THREE)
+-  expect(initiativesDrawn(root)[0]?.parent).toBe(null)
+-})
+-
+-test("an initiative under two parents sits under none", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  filing(root, "amy-two", TWO)
+-  filing(root, "amy-three", THREE)
+-  under(root, THREE, ONE)
+-  under(root, THREE, TWO)
+-  const drawn = initiativesDrawn(root)
+-  expect(drawn.find((one) => one.slug === "amy-three")?.parent).toBe(null)
+-})
+-
+-test("a parent under two children keeps each of them under it", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  filing(root, "amy-two", TWO)
+-  filing(root, "amy-three", THREE)
+-  under(root, TWO, ONE)
+-  under(root, THREE, ONE)
+-  const drawn = initiativesDrawn(root)
+-  expect(drawn.find((one) => one.slug === "amy-two")?.parent).toBe("amy-one")
+-  expect(drawn.find((one) => one.slug === "amy-three")?.parent).toBe("amy-one")
+-})
+-
+-test("a path the file name says is no initiative is passed over", () => {
+-  const root = worldFor()
+-  valueAlsoFiled(root, INITIATIVE, [
+-    { path: "akasha/editor-extension/stray.module.ts", value: { id: ONE, slug: "stray" } },
+-  ])
+-  expect(initiativesDrawn(root)).toEqual([])
+-})
+-
+-function pageAt(root: string, slug: string, body: string): undefined {
+-  const path = join(root, pathFor(slug))
+-  mkdirSync(dirname(path), { recursive: true })
+-  writeFileSync(path, body)
+-}
+-
+-test("a persona is read out of the page the index named", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  pageAt(
+-    root,
+-    "amy-one",
+-    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", personaSlug: "amy" }\n'
+-  )
+-  expect(initiativesDrawn(root)[0]?.persona).toBe("amy")
+-})
+-
+-test("a page the index named but no file holds answers no persona", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  expect(initiativesDrawn(root)[0]?.persona).toBe(null)
+-})
+-
+-test("a page stating no persona answers none", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  pageAt(root, "amy-one", 'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one" }\n')
+-  expect(initiativesDrawn(root)[0]?.persona).toBe(null)
+-})
+-
+-test("the intents are read out of the page in the order that page states them", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  pageAt(
+-    root,
+-    "amy-one",
+-    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
+-      '{ statement: "zebra" }, { statement: "apple" }] }\n'
+-  )
+-  expect(initiativesDrawn(root)[0]?.intents.map((one) => one.statement)).toEqual(["zebra", "apple"])
+-})
+-
+-test("an intent's working memory is read where the intent states one", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  pageAt(
+-    root,
+-    "amy-one",
+-    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
+-      '{ statement: "make it so", workingMemory: "cut at 74bda7f0" }] }\n'
+-  )
+-  expect(initiativesDrawn(root)[0]?.intents[0]?.workingMemory).toBe("cut at 74bda7f0")
+-})
+-
+-test("an intent stating no working memory carries none", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  pageAt(
+-    root,
+-    "amy-one",
+-    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
+-      '{ statement: "make it so" }] }\n'
+-  )
+-  expect(initiativesDrawn(root)[0]?.intents[0]?.workingMemory).toBe(null)
+-})
+-
+-test("a page stating no intents carries none", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  pageAt(root, "amy-one", 'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one" }\n')
+-  expect(initiativesDrawn(root)[0]?.intents).toEqual([])
+-})
+-
+-test("a page the index named but no file holds carries no intent", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  expect(initiativesDrawn(root)[0]?.intents).toEqual([])
+-})
+-
+-test("an entry stating no statement is no intent and is passed over", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  pageAt(
+-    root,
+-    "amy-one",
+-    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: [' +
+-      '{ workingMemory: "held" }, { statement: "make it so" }] }\n'
+-  )
+-  expect(initiativesDrawn(root)[0]?.intents.map((one) => one.statement)).toEqual(["make it so"])
+-})
+-
+-test("an intents key holding what is no list carries no intent", () => {
+-  const root = worldFor()
+-  filing(root, "amy-one", ONE)
+-  pageAt(
+-    root,
+-    "amy-one",
+-    'export const amyOne = { pageTypeSlug: "initiative", slug: "amy-one", intents: "make it so" }\n'
+-  )
+-  expect(initiativesDrawn(root)[0]?.intents).toEqual([])
+-})
+diff --git a/editor-extension/work-initiatives/work-initiatives.module.ts b/editor-extension/work-initiatives/work-initiatives.module.ts
+deleted file mode 100644
+index 8eeda56e59b26f5a6b3bebc9689c99fb9bb68ad1..0000000000000000000000000000000000000000
+--- a/editor-extension/work-initiatives/work-initiatives.module.ts
++++ /dev/null
+@@ -1,86 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-
+-export const workInitiatives = {
+-  id: "01a04e9f-4572-7339-8438-7d5a5777f8ab",
+-  pageTypeSlug: "module",
+-  slug: "work-initiatives",
+-  definition: "every initiative the work panel draws, what each holds, and the one each sits under",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "An initiative is found through the page type reached by its id rather than by a spelled slug.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An index filing no initiative draws no initiative.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "An index that cannot say what an initiative is refuses rather than drawing no initiative.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An initiative's slug is read off its file's name rather than out of its page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A parent is answered as a slug.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The index files that edge by id while the tree is built from slugs.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The index files a parent edge under the parent.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An initiative under other than one parent is answered as under no parent.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A persona is read out of the page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The intents an initiative holds are read out of the page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The intents are answered in the order the page states the intents.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An entry stating no statement is no intent and is passed over.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An intent stating no working memory carries no working memory.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page is opened once however many keys are read out of that page.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The index files identities and edges.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The index files no text.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here walks the pages.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Every initiative answered is an initiative the index named first.",
+-    },
+-  ],
+-} as const satisfies Module
