@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/seat-reading/seat-reading.module.ts b/seat-system/seat-reading/seat-reading.module.ts
+index cad7ae7e1fd47196b85ea8392b6e1062d74a5b82..76407076c5a8c7e95c100a678864309b73bcfdac 100644
+--- a/seat-system/seat-reading/seat-reading.module.ts
++++ b/seat-system/seat-reading/seat-reading.module.ts
+@@ -34,7 +34,7 @@ export const seatReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The root is the one the file itself stands in.",
++      statement: "The root is the folder the file itself sits in.",
+     },
+     {
+       invariantKind: "departure",
