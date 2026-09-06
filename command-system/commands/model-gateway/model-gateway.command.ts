@@ -39,7 +39,7 @@ export const modelGateway = {
     {
       invariantKind: "departure",
       statement:
-        "A status weighs the running version against the tree here rather than a published one.",
+        "A status weighs the running version against the tree here rather than a published version.",
     },
     {
       invariantKind: "departure",
@@ -60,7 +60,11 @@ export const modelGateway = {
     },
     {
       invariantKind: "departure",
-      statement: "The gateway alone is respawned, on the port that gateway already held.",
+      statement: "The gateway alone is respawned.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The gateway is respawned on the port the gateway already held.",
     },
     {
       invariantKind: "departure",
@@ -68,7 +72,11 @@ export const modelGateway = {
     },
     {
       invariantKind: "departure",
-      statement: "A swap reaches one seat or every live seat, and naming neither is refused.",
+      statement: "A swap reaches one seat or every live seat.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A swap naming no seat and no fleet is refused.",
     },
     {
       invariantKind: "departure",
