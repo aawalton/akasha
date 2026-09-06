@@ -23,12 +23,12 @@ export const page = {
   pluralSlug: "pages",
   extendsSlug: [],
   properties: [
-    { pagePropertySlug: "id", required: true, many: false },
-    { pagePropertySlug: "page-type-slug", required: true, many: false },
-    { pagePropertySlug: "slug", required: true, many: false },
-    { pagePropertySlug: "title", required: false, many: false },
-    { pagePropertySlug: "description", required: false, many: false },
-    { pagePropertySlug: "cover", required: false, many: false },
+    { pagePropertySlug: "text-property/id", required: true, many: false },
+    { pagePropertySlug: "relation-property/page-type-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/slug", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: false, many: false },
+    { pagePropertySlug: "text-property/description", required: false, many: false },
+    { pagePropertySlug: "text-property/cover", required: false, many: false },
   ],
   partSlugs: [
     "relation-property/page-type-slug",

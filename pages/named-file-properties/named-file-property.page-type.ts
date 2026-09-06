@@ -14,7 +14,7 @@ export const namedFileProperty = {
   pluralSlug: "named-file-properties",
   partSlugs: ["text-property/file-name"],
   extendsSlug: ["page-type/file-property"],
-  properties: [{ pagePropertySlug: "file-name", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/file-name", required: true, many: false }],
   invariants: [
     {
       invariantKind: "constraint",

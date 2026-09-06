@@ -13,7 +13,7 @@ export const kiCollectionTemplate = {
   definition: "a collection of Ki's, held apart from Alan's",
   pluralSlug: "ki-collection-templates",
   extendsSlug: ["page-type/collection-external"],
-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

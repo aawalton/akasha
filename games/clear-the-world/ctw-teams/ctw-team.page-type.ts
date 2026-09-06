@@ -30,12 +30,12 @@ export const ctwTeam = {
     "number-property/zones-completed",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "cells-cleared", required: true, many: false },
-    { pagePropertySlug: "craters", required: true, many: false },
-    { pagePropertySlug: "hazards-marked", required: true, many: false },
-    { pagePropertySlug: "zones-completed", required: true, many: false },
-    { pagePropertySlug: "hex", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "number-property/cells-cleared", required: true, many: false },
+    { pagePropertySlug: "number-property/craters", required: true, many: false },
+    { pagePropertySlug: "number-property/hazards-marked", required: true, many: false },
+    { pagePropertySlug: "number-property/zones-completed", required: true, many: false },
+    { pagePropertySlug: "text-property/hex", required: true, many: false },
   ],
   invariants: [
     {

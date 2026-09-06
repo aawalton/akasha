@@ -23,7 +23,7 @@ export const host = {
     "host/node-06",
     "host/workstation",
   ],
-  properties: [{ pagePropertySlug: "title", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/title", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

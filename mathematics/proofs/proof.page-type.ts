@@ -28,11 +28,11 @@ export const proof = {
     "select-property/proof-status",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "proves-slug", required: true, many: false },
-    { pagePropertySlug: "proof-status", required: true, many: false },
-    { pagePropertySlug: "attempt", required: true, many: false },
-    { pagePropertySlug: "derivation", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/proves-slug", required: true, many: false },
+    { pagePropertySlug: "select-property/proof-status", required: true, many: false },
+    { pagePropertySlug: "number-property/attempt", required: true, many: false },
+    { pagePropertySlug: "file-property/derivation", required: false, many: false },
   ],
   invariants: [
     {

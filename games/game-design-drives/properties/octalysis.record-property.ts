@@ -16,8 +16,8 @@ export const octalysis = {
   propertySlug: "octalysis",
   definition: "how Chou's own system names and numbers a drive",
   properties: [
-    { pagePropertySlug: "octalysis-number", required: true, many: false },
-    { pagePropertySlug: "octalysis-name", required: true, many: false },
-    { pagePropertySlug: "octalysis-definition", required: true, many: false },
+    { pagePropertySlug: "number-property/octalysis-number", required: true, many: false },
+    { pagePropertySlug: "text-property/octalysis-name", required: true, many: false },
+    { pagePropertySlug: "text-property/octalysis-definition", required: true, many: false },
   ],
 } as const satisfies RecordProperty

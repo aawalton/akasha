@@ -25,10 +25,10 @@ export const proposition = {
     "select-property/proposition-status",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "proposition-kind", required: true, many: false },
-    { pagePropertySlug: "proposition-status", required: true, many: false },
-    { pagePropertySlug: "statement", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "select-property/proposition-kind", required: true, many: false },
+    { pagePropertySlug: "select-property/proposition-status", required: true, many: false },
+    { pagePropertySlug: "file-property/statement", required: false, many: false },
   ],
   invariants: [
     {

@@ -14,7 +14,9 @@ export const certificateAuthority = {
   pluralSlug: "certificate-authorities",
   partSlugs: ["named-file-property/authority-certificate"],
   extendsSlug: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "authority-certificate", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "named-file-property/authority-certificate", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",

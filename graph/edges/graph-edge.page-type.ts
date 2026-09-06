@@ -22,8 +22,13 @@ export const graphEdge = {
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "index-slug", required: false, many: false },
-    { pagePropertySlug: "attribute-slugs", required: false, many: true, max: null },
+    { pagePropertySlug: "relation-property/index-slug", required: false, many: false },
+    {
+      pagePropertySlug: "relation-property/attribute-slugs",
+      required: false,
+      many: true,
+      max: null,
+    },
   ],
   invariants: [
     {

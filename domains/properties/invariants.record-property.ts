@@ -17,8 +17,8 @@ export const invariants = {
   propertySlug: "invariants",
   definition: "what must be true of a page, each with the sort it is",
   properties: [
-    { pagePropertySlug: "invariant-kind", required: true, many: false },
-    { pagePropertySlug: "invariant-statement", required: true, many: false },
+    { pagePropertySlug: "relation-property/invariant-kind", required: true, many: false },
+    { pagePropertySlug: "text-property/invariant-statement", required: true, many: false },
   ],
   invariants: [
     {

@@ -17,8 +17,8 @@ export const index = {
   partSlugs: [],
   extendsSlug: ["page-type/module"],
   properties: [
-    { pagePropertySlug: "index-name", required: true, many: false },
-    { pagePropertySlug: "test", required: true, many: false },
+    { pagePropertySlug: "text-property/index-name", required: true, many: false },
+    { pagePropertySlug: "file-property/test", required: true, many: false },
   ],
   invariants: [
     {

@@ -25,9 +25,9 @@ export const tabooTerm = {
   ],
   extendsSlug: ["page-type/page"],
   properties: [
-    { pagePropertySlug: "pattern", required: true, many: false },
-    { pagePropertySlug: "taboo-senses", required: true, many: true, max: null },
-    { pagePropertySlug: "kept-senses", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/pattern", required: true, many: false },
+    { pagePropertySlug: "record-property/taboo-senses", required: true, many: true, max: null },
+    { pagePropertySlug: "text-property/kept-senses", required: false, many: true, max: null },
   ],
   invariants: [
     {

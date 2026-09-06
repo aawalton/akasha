@@ -17,8 +17,8 @@ export const fileProperty = {
   partSlugs: ["boolean-property/machine-written", "boolean-property/runs-file-length"],
   extendsSlug: ["page-type/page-property"],
   properties: [
-    { pagePropertySlug: "machine-written", required: false, many: false },
-    { pagePropertySlug: "runs-file-length", required: false, many: false },
+    { pagePropertySlug: "boolean-property/machine-written", required: false, many: false },
+    { pagePropertySlug: "boolean-property/runs-file-length", required: false, many: false },
   ],
   invariants: [
     {

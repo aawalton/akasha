@@ -22,9 +22,14 @@ export const idleGame = {
   },
   partSlugs: ["instant-property/favorited-at"],
   properties: [
-    { pagePropertySlug: "game-engine", required: true, many: false },
-    { pagePropertySlug: "favorited-at", required: false, many: false },
-    { pagePropertySlug: "last-viewed-at", required: false, many: false, uncommitted: true },
+    { pagePropertySlug: "text-property/game-engine", required: true, many: false },
+    { pagePropertySlug: "instant-property/favorited-at", required: false, many: false },
+    {
+      pagePropertySlug: "instant-property/last-viewed-at",
+      required: false,
+      many: false,
+      uncommitted: true,
+    },
   ],
   invariants: [
     {

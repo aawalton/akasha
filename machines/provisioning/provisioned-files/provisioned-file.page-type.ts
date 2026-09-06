@@ -46,11 +46,11 @@ export const provisionedFile = {
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "content", required: true, many: false },
-    { pagePropertySlug: "placed-by", required: true, many: false },
-    { pagePropertySlug: "only-on", required: true, many: false },
-    { pagePropertySlug: "install-path", required: false, many: false },
-    { pagePropertySlug: "reload-with", required: false, many: false },
+    { pagePropertySlug: "file-property/content", required: true, many: false },
+    { pagePropertySlug: "select-property/placed-by", required: true, many: false },
+    { pagePropertySlug: "select-property/only-on", required: true, many: false },
+    { pagePropertySlug: "text-property/install-path", required: false, many: false },
+    { pagePropertySlug: "text-property/reload-with", required: false, many: false },
   ],
   invariants: [
     {

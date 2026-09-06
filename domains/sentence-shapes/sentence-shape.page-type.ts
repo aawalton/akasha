@@ -26,9 +26,9 @@ export const sentenceShape = {
     "sentence-shape/partitive-quantifier",
   ],
   properties: [
-    { pagePropertySlug: "test", required: true, many: false },
-    { pagePropertySlug: "allowed", required: false, many: false },
-    { pagePropertySlug: "reason", required: false, many: false },
+    { pagePropertySlug: "file-property/test", required: true, many: false },
+    { pagePropertySlug: "boolean-property/allowed", required: false, many: false },
+    { pagePropertySlug: "text-property/reason", required: false, many: false },
   ],
   invariants: [
     {
