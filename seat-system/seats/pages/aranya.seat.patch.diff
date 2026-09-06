@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/subagent-sweep/subagent-sweep.command.code.ts b/command-system/commands/subagent-sweep/subagent-sweep.command.code.ts
-index e1cfdee8bdcbbb8395a62c147af4bad6104c8f54..90733658a5c93c33c338e2b1f1f88e00259d7f71 100644
+index e1cfdee8bdcbbb8395a62c147af4bad6104c8f54..ba0e63a92011eac85d804f13c158323822d5b530 100644
 --- a/command-system/commands/subagent-sweep/subagent-sweep.command.code.ts
 +++ b/command-system/commands/subagent-sweep/subagent-sweep.command.code.ts
 @@ -28,15 +28,17 @@ import { type Answer, answering, type Given } from "../../calling/calling.module
@@ -91,6 +91,24 @@ index e1cfdee8bdcbbb8395a62c147af4bad6104c8f54..90733658a5c93c33c338e2b1f1f88e00
    return runningOwnIn(pages, createSubagentReader(), (seat) => transcriptOf(seat)?.value ?? null)
  }
  
+@@ -153,13 +176,13 @@ export async function subagentSweep(
+   if ("refused" in read) return answering([], [read.refused], 1)
+   const root = resolve(given.root)
+   const pages = pagesIn(root)
+-  let running: ReadonlySet<string> = new Set()
++  let own: OwnIds = NO_OWN_IDS
+   try {
+-    running = await said(pages)
++    own = await said(pages)
+   } catch {
+-    running = new Set()
++    own = NO_OWN_IDS
+   }
+-  const judged = judgedOver(pages, seenIn(entries, baseDir, running))
++  const judged = judgedOver(pages, seenIn(entries, baseDir, own.running, own.ended))
+   const census = censusOf(judged)
+   const stale = staleAmong(judged)
+   if (!read.removing) return answering([...census, ...heldBack(stale.length)], [], 0)
 diff --git a/editor-extension/subagent-core/subagent-core.module.code.ts b/editor-extension/subagent-core/subagent-core.module.code.ts
 index bd4fb7f4bb5fbd5b135539a4a1603213fecf6863..25f8c8162bf9d3c8f56e4677f2082f731275637d 100644
 --- a/editor-extension/subagent-core/subagent-core.module.code.ts
