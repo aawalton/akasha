@@ -22,7 +22,7 @@ export const esoDeclarationText = {
     },
     {
       invariantKind: "departure",
-      statement: "One return is written as the return type and several as a tuple.",
+      statement: "One return is written as the return type and several returns as a tuple.",
     },
     {
       invariantKind: "departure",
