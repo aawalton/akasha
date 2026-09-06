@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.ts b/command-system/commands/measure/check-measuring/check-measuring.module.ts
+index deca30d98dfc44057befd023332874825df0bdac..bf9643900507e11cbdaf265105df7d88afd4cd36 100644
+--- a/command-system/commands/measure/check-measuring/check-measuring.module.ts
++++ b/command-system/commands/measure/check-measuring/check-measuring.module.ts
+@@ -23,7 +23,7 @@ export const checkMeasuring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run older than that is not counted.",
++      statement: "A run older than twenty-four hours is not counted.",
+     },
+     {
+       invariantKind: "departure",
