@@ -21,7 +21,8 @@ export const memoryReaperKill = {
     },
     {
       invariantKind: "departure",
-      statement: "A whole tree is asked together and waited on together rather than one at a time.",
+      statement:
+        "A whole tree is asked together and waited on together rather than a process at a time.",
     },
   ],
 } as const satisfies Module
