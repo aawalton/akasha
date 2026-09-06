@@ -13,13 +13,15 @@ export const monarchRulePages = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A slug that names no existing category is refused, so a merged or renamed category is loud.",
+      statement: "A slug that names no existing category is refused.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A category page with no Monarch id is refused, because nothing could be posted back for the page.",
+      statement: "A merged or renamed category is loud.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A category page with no Monarch id is refused.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +30,11 @@ export const monarchRulePages = {
     },
     {
       invariantKind: "departure",
-      statement: "An amount sign is positive, negative or nothing, and any other word is refused.",
+      statement: "An amount sign is positive or negative or nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Any other word is refused.",
     },
     {
       invariantKind: "departure",
