@@ -21,7 +21,7 @@ export const monarchAmazonPairs = {
     },
     {
       invariantKind: "departure",
-      statement: "A category of Uncategorized is no category here, the same as naming none.",
+      statement: "A category of Uncategorized is no category here.",
     },
     {
       invariantKind: "departure",
@@ -34,8 +34,7 @@ export const monarchAmazonPairs = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "This reports and does not correct, because which category a refund carries is Alan's to settle.",
+      statement: "This module reports and corrects nothing.",
     },
     {
       invariantKind: "absence",
