@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-would-measure-my-backlog-trend.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-would-measure-my-backlog-trend.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3c3126967e07a9f87047a13758773d624ee1f8f7
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-would-measure-my-backlog-trend.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatWouldMeasureMyBacklogTrend = {
++  id: "01a07803-4a2c-74c8-9e19-235d214f1e95",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-would-measure-my-backlog-trend",
++  topicSlug: "how-safety-climbs",
++  ask: "My list of work getting longer or shorter is meant to read whether akasha is flowing, and nothing measures it. What would I have to count for that measure to run?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-safety-levers-read-direction.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-safety-levers-read-direction.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..09f6b89341499459aa266910449249ddfa747a30
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-safety-levers-read-direction.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMySafetyLeversReadDirection = {
++  id: "01a07803-4a2d-74eb-b124-6d120f0f70fa",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-safety-levers-read-direction",
++  topicSlug: "how-safety-climbs",
++  ask: "Do my safety levers read a direction rather than a level, given getting shorter, getting better and surplus banked over time, and is the direction what raises safety?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-interventions-the-safety-harness-takes.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-interventions-the-safety-harness-takes.all-about-alan-question.ts
+deleted file mode 100644
+index c0df3f10b1e7db1f87b7d6db633773dc529e1f74..0000000000000000000000000000000000000000
+--- a/alan/books/all-about-alan/questions/pages/which-interventions-the-safety-harness-takes.all-about-alan-question.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+-
+-export const whichInterventionsTheSafetyHarnessTakes = {
+-  id: "01a07800-8f51-765f-a822-97096341d114",
+-  pageTypeSlug: "all-about-alan-question",
+-  slug: "which-interventions-the-safety-harness-takes",
+-  topicSlug: "how-safety-climbs",
+-  ask: "My safety harness works but takes a different set of interventions from the executive-function harness. Which interventions are they?",
+-} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-safety-climbs.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-safety-climbs.all-about-alan-topic.ts
+index 007e844c97a43b5191e4c13e70ab4a9d854151f5..f86279f1670ec2b93ffe3ba61ba14f00336e5b60 100644
+--- a/alan/books/all-about-alan/topics/pages/how-safety-climbs.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-safety-climbs.all-about-alan-topic.ts
+@@ -9,5 +9,5 @@ export const howSafetyClimbs = {
+   parentSlugs: ["safety-bar"],
+   relatedSlugs: ["what-calms-me-down"],
+   settled:
+-    "It climbs the slow way through capacity I build back and the fast way straight at the nerve.\n\nHolding my line stops the drain but does not by itself raise it.\n\nI am building my harness out around safety now as well. The harness works here, and takes a different set of interventions from the ones executive function took.",
++    "It climbs the slow way through capacity I build back and the fast way straight at the nerve.\n\nHolding my line stops the drain but does not by itself raise it.\n\nI am building my harness out around safety now as well. The harness works here, and takes a different set of interventions from the ones executive function took.\n\nFour of those interventions are visible to me so far. Changes flowing smoothly through my akasha system, read off whether my list of work to be done is getting longer or shorter. My relationship with Jen being good, and more so getting better. The flow through my life going well, read off more green and blue stoplights. Banking surplus over time.\n\nThe akasha measure is not running yet.",
+ } as const satisfies AllAboutAlanTopic
