@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/state-cooldown/state-cooldown.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/state-cooldown/state-cooldown.module.ts
+index 8a2936301073559daeef16c27edfa74290252387..8cc12b0eb1178cf8106209efc198930b883d566d 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/state-cooldown/state-cooldown.module.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/state-cooldown/state-cooldown.module.ts
+@@ -22,7 +22,7 @@ export const stateCooldown = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A line the same as the one already written is not written again.",
++      statement: "A line the same as the line already written is not written again.",
+     },
+     {
+       invariantKind: "departure",
