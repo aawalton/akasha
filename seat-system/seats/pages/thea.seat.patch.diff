@@ -4601,7 +4601,7 @@ index c128aab5edc852524d8dcc8dd8f977902de3558b..94c862dff6b304fd0eb3b0747778607b
        secret: one["secret"] === true,
      })
 diff --git a/pages/types/declared-properties/declared-properties.module.test.ts b/pages/types/declared-properties/declared-properties.module.test.ts
-index d8b8759f311c080593f4edf989c8453ffed3de60..5322cd91a2d87b19be6e816bf3ce1a64f47556e1 100644
+index d8b8759f311c080593f4edf989c8453ffed3de60..861ff7fb59d7f261316024c21fe8cf8807f5e97a 100644
 --- a/pages/types/declared-properties/declared-properties.module.test.ts
 +++ b/pages/types/declared-properties/declared-properties.module.test.ts
 @@ -80,8 +80,13 @@ test("a page type carries the properties it declares itself", () => {
@@ -4618,6 +4618,15 @@ index d8b8759f311c080593f4edf989c8453ffed3de60..5322cd91a2d87b19be6e816bf3ce1a64
        uncommitted: false,
        secret: false,
      },
+@@ -127,7 +132,7 @@ test("the nearest declaration binds, and a further one for the property is passe
+   expect(carried).toHaveLength(1)
+   expect(carried[0]?.declaredBy).toBe("page-type")
+   expect(carried[0]?.required).toBe(true)
+-  expect(carried[0]?.max).toBe(20)
++  expect(carried[0]?.maxCount).toBe(20)
+ })
+ 
+ test("a declaration reaching no page property is left out rather than keyed by what it states", () => {
 diff --git a/pages/types/page-properties/page-property.page-type.ts b/pages/types/page-properties/page-property.page-type.ts
 index 66302224b95717126a926442b9d509e4b40a550b..8b662114a86df7089703c959df40f8cad8e58a01 100644
 --- a/pages/types/page-properties/page-property.page-type.ts
