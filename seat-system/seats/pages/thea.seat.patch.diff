@@ -1,0 +1,21 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.test.ts b/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.test.ts
+index cf9b59c19d25f37c5379c4115a651d913bd790ad..f766b9d48d08ae3da1d3ca42d11f5ab3143cc8b7 100644
+--- a/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.test.ts
++++ b/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.test.ts
+@@ -23,7 +23,13 @@ test("a const enum is an enum", () => {
+ })
+ 
+ test("a declared enum is an enum", () => {
+-  expect(reasonsIn(given("akasha/held.d.ts", "declare enum One {\n  Two,\n}\n"))).toHaveLength(1)
++  expect(reasonsIn(given("akasha/held.ts", "declare enum One {\n  Two,\n}\n"))).toHaveLength(1)
++})
++
++test("a type declaration is let through, and the same body in a module is not", () => {
++  const body = "declare enum One {\n  Two,\n}\n"
++  expect(reasonsIn(given("akasha/held.d.ts", body))).toEqual([])
++  expect(reasonsIn(given("akasha/held.ts", body))).toHaveLength(1)
+ })
+ 
+ test("a named namespace is refused, and the reason names the line and the namespace", () => {
