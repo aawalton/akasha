@@ -1,5 +1,5 @@
 diff --git a/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.ts b/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.ts
-index 1eb070a44f216e9465729633bff35f19b6addecf..3d8d5e6bcb60e49f3ce84beeda7c11d95154663d 100644
+index 1eb070a44f216e9465729633bff35f19b6addecf..d2cd34f268d81eba2e55a72c4c57270434b0e5e5 100644
 --- a/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.ts
 +++ b/temper/temper-items-rules-core/inventory-rule-writes/inventory-rule-writes.module.ts
 @@ -14,7 +14,7 @@ export const inventoryRuleWrites = {
@@ -11,3 +11,16 @@ index 1eb070a44f216e9465729633bff35f19b6addecf..3d8d5e6bcb60e49f3ce84beeda7c11d9
      },
      {
        invariantKind: "departure",
+@@ -43,7 +43,11 @@ export const inventoryRuleWrites = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A key a rule drops is kept by the page, because a write merges onto the page.",
++      statement: "A key a rule drops is kept by the page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A write merges onto the page.",
+     },
+   ],
+ } as const satisfies Module
