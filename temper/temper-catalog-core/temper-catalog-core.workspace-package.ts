@@ -24,7 +24,7 @@ export const temperCatalogCore = {
     },
     {
       invariantKind: "departure",
-      statement: "Each catalog domain's collector lives in a package apart from this one.",
+      statement: "Each catalog domain's collector lives in a package apart from this package.",
     },
     {
       invariantKind: "absence",
