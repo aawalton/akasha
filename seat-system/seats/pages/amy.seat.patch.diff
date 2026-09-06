@@ -20,6 +20,34 @@ index 9fb1612e59d54172249e6d4cfc8aef1b40f8e421..bcb536466b763afb4e41cf29fb5d6d08
          limit: 200,
        })
        navItems = result.rows
+diff --git a/alan/web-capacitor/routes/alan-web-capacitor-home/alan-web-capacitor-home.route.code.tsx b/alan/web-capacitor/routes/alan-web-capacitor-home/alan-web-capacitor-home.route.code.tsx
+index 658254e2a7044ecbf130f495797064e32500a906..6f9151903678ec814c3d395d55ef1d673ae12e5a 100644
+--- a/alan/web-capacitor/routes/alan-web-capacitor-home/alan-web-capacitor-home.route.code.tsx
++++ b/alan/web-capacitor/routes/alan-web-capacitor-home/alan-web-capacitor-home.route.code.tsx
+@@ -1,6 +1,6 @@
+ "use client"
+ 
+-import { ALANWALTON_APP_ID, ALANWALTON_APP_SLUG } from "@akasha/alanwalton-web/alan-app-id"
++import { ALANWALTON_APP_SLUG } from "@akasha/alanwalton-web/alan-app-id"
+ import { HOME_NAV_SLUG } from "@akasha/alanwalton-web/home-dni"
+ import { PageLayout, PageLayoutSkeleton, PageTitle } from "@akasha/design-layout/page-layout"
+ import { tabbedPageSkeleton } from "@akasha/design-layout/skeleton-presets"
+@@ -38,14 +38,7 @@ export function homeUnresolvedBecause(args: {
+ export default function CapacitorHome() {
+   const { rows, isLoading, isDegraded, error } = usePages({
+     pageTypeSlug: NAV_SLUG,
+-    where: [
+-      {
+-        or: [
+-          { key: "app", eq: ALANWALTON_APP_ID },
+-          { key: "app", eq: ALANWALTON_APP_SLUG },
+-        ],
+-      },
+-    ],
++    where: [{ key: "appSlug", eq: ALANWALTON_APP_SLUG }],
+     limit: 200,
+   })
+ 
 diff --git a/archive-of-worlds/archive-of-worlds-web/routes/_app-layout.tsx b/archive-of-worlds/archive-of-worlds-web/routes/_app-layout.tsx
 index e5fb0bcb0d08d4de4090b69ce6d97ac992e3cc50..f7921797e19b6e652ee30f8a30d3d6b1b57aca52 100644
 --- a/archive-of-worlds/archive-of-worlds-web/routes/_app-layout.tsx
