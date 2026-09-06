@@ -1,0 +1,17 @@
+diff --git a/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts b/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts
+index 4ffba304db5e59d5af6946af0b751bb5a40091b5..bcb14dfaf1dbaa293700de3f8bea620f292cb8b5 100644
+--- a/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts
++++ b/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts
+@@ -14,7 +14,11 @@ export const supervisorInteractive = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A null child from adoption ends the loop, and nothing is spawned in its place.",
++      statement: "A null child from adoption ends the loop.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Nothing is spawned in the place of a null child.",
+     },
+     {
+       invariantKind: "departure",
