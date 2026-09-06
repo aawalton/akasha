@@ -1,3 +1,15 @@
+diff --git a/seat-system/seat-system.workspace-package.ts b/seat-system/seat-system.workspace-package.ts
+index 687fe95ef405f38d217cec91b170524fa4f5b140..5564051d7f950fdbbe907cb76805aa0af3b5954a 100644
+--- a/seat-system/seat-system.workspace-package.ts
++++ b/seat-system/seat-system.workspace-package.ts
+@@ -323,6 +323,7 @@ export const seatSystem = {
+     "module/terminal-entry-points",
+     "module/terminal-reload",
+     "module/terminal-seat-launchers",
++    "module/terminal-seat-marks",
+     "module/terminal-seat-stating",
+     "module/launch-flags",
+     "module/tool-access",
 diff --git a/seat-system/terminal-init/terminal-ended/terminal-ended.module.code.ts b/seat-system/terminal-init/terminal-ended/terminal-ended.module.code.ts
 index 013da3d3720bc24a02f3b6b70ac22b57197f6e0d..95497eec6a14ece76ed9708c01804a2ff2431c93 100644
 --- a/seat-system/terminal-init/terminal-ended/terminal-ended.module.code.ts
