@@ -61,7 +61,7 @@ export const esoAddon = {
     },
     {
       invariantKind: "departure",
-      statement: "A seam writes the manifest the game reads from the one beside the page.",
+      statement: "A seam writes the manifest the game reads from the manifest beside the page.",
     },
     {
       invariantKind: "departure",
@@ -90,7 +90,7 @@ export const esoAddon = {
     {
       invariantKind: "departure",
       statement:
-        "A second addon shipped inside one is versioned with the addon shipping that second addon.",
+        "A second addon shipped inside an addon is versioned with the addon shipping that second addon.",
     },
     {
       invariantKind: "constraint",
