@@ -1,0 +1,138 @@
+diff --git a/pages/service/kinds-gathering/kinds-gathering.module.code.ts b/pages/service/kinds-gathering/kinds-gathering.module.code.ts
+index 93e94ab55aba8ba8f6e5ce2ba19fdd4c5a226c88..9b703ea1b0d673324042ac75a0b3c37284daf5b0 100644
+--- a/pages/service/kinds-gathering/kinds-gathering.module.code.ts
++++ b/pages/service/kinds-gathering/kinds-gathering.module.code.ts
+@@ -1,10 +1,24 @@
+ import { readFileSync } from "node:fs"
+ import { isAbsolute, join } from "node:path"
+-import { readingIn, type Valued, valuesOfType } from "@akasha/indexes"
++import {
++  idsNaming,
++  listedAt,
++  listedById,
++  readingIn,
++  type Valued,
++  valuesOfType,
++} from "@akasha/indexes"
+ import { workIn } from "@akasha/pages/calculation-loading"
+-import { type Computed, computingOver, type Subject } from "@akasha/pages/page-computing"
++import {
++  type Computed,
++  computingOver,
++  type Named as Reached,
++  type Source as Reaching,
++  type Subject,
++} from "@akasha/pages/page-computing"
+ import { entriedValue } from "@akasha/pages/page-entries"
+ import { filedValue } from "@akasha/pages/page-file-body"
++import { partedIn } from "@akasha/pages/page-file-name"
+ import { kindsUnder } from "@akasha/pages/page-type-descent"
+ import {
+   type Carried,
+@@ -22,6 +36,8 @@ const COMPUTED = "computed-property"
+ 
+ const CODE = ".code.ts"
+ 
++const SLASH = "/"
++
+ export type Named = Map<string, ReadonlyMap<string, Value>>
+ 
+ export function sourceFor(root: string): Source {
+@@ -114,7 +130,81 @@ export type Counted = {
+   readonly dark: ReadonlyMap<string, string>
+ }
+ 
+-export function computedInto(counting: readonly Counting[]): Counted {
++// THE ROWS A QUERY ASKED FOR ARE NOT EVERY PAGE A CALCULATION REACHES. A rollup sums over the pages
++// of another page type entirely, so a reach falling outside those rows is answered from the index,
++// and the page it answers carries the calculations that page's own page type declares.
++function reachingIn(
++  root: string,
++  own: ReadonlyMap<string, Subject>,
++  named: ReadonlyMap<string, string>
++): Reaching {
++  const reading = readingIn(root)
++  const carried = new Map<string, readonly Computed[]>()
++  const valued = new Map<string, ReadonlyMap<string, Value>>()
++  const made = new Map<string, Subject | null>()
++  let properties: Source | null = null
++
++  const computedOf = (pageTypeSlug: string): readonly Computed[] => {
++    const already = carried.get(pageTypeSlug)
++    if (already !== undefined) return already
++    properties ??= sourceFor(root)
++    const found = computedFor(root, carriedFor(root, pageTypeSlug, properties))
++    carried.set(pageTypeSlug, found)
++    return found
++  }
++
++  const valuesOf = (pageTypeSlug: string): ReadonlyMap<string, Value> => {
++    const already = valued.get(pageTypeSlug)
++    if (already !== undefined) return already
++    const found = new Map<string, Value>()
++    for (const one of valuesOfType(reading, pageTypeSlug)) found.set(one.path, one.value)
++    valued.set(pageTypeSlug, found)
++    return found
++  }
++
++  const filed = (path: string): Subject | null => {
++    const here = own.get(path)
++    if (here !== undefined) return here
++    const already = made.get(path)
++    if (already !== undefined) return already
++    const parted = partedIn(path)
++    const value = parted === null ? undefined : valuesOf(parted.pageType).get(path)
++    const subject =
++      parted === null || value === undefined
++        ? null
++        : { id: textAt(value, "id") ?? path, value, computed: computedOf(parted.pageType) }
++    made.set(path, subject)
++    return subject
++  }
++
++  const subjectAt = (said: string): Subject | null => {
++    const here = own.get(said)
++    if (here !== undefined) return here
++    const at = named.get(said)
++    if (at !== undefined) return own.get(at) ?? null
++    const cut = said.indexOf(SLASH)
++    if (cut === -1) return null
++    const listed = listedAt(reading, said.slice(0, cut), said.slice(cut + 1))
++    const one = listed.length === 1 ? listed[0] : undefined
++    return one === undefined ? null : filed(one.path)
++  }
++
++  const namingAt = (id: string, propertySlug: string): readonly Reached[] => {
++    const found: Reached[] = []
++    for (const naming of idsNaming(reading, id, propertySlug)) {
++      const listed = listedById(reading, naming)
++      if (listed === null) continue
++      const subject = filed(listed.path)
++      if (subject === null) continue
++      found.push({ slug: textAt(subject.value, "slug") ?? listed.path, subject })
++    }
++    return found
++  }
++
++  return { subjectAt, namingAt }
++}
++
++export function computedInto(root: string, counting: readonly Counting[]): Counted {
+   if (counting.every((one) => one.computed.length === 0)) {
+     return { rows: counting.map((one) => one.row), dark: new Map() }
+   }
+@@ -129,13 +219,7 @@ export function computedInto(counting: readonly Counting[]): Counted {
+     const slug = textAt(one.row.value, "slug")
+     if (slug !== null && !named.has(slug)) named.set(slug, one.row.path)
+   }
+-  const reached = (said: string): Subject | null => {
+-    const own = subjects.get(said)
+-    if (own !== undefined) return own
+-    const at = named.get(said)
+-    return at === undefined ? null : (subjects.get(at) ?? null)
+-  }
+-  const computing = computingOver({ subjectAt: reached })
++  const computing = computingOver(reachingIn(root, subjects, named))
+   const dark = new Map<string, string>()
+   const rows = counting.map((one) => {
+     const worked = computing.workedAt(one.row.path)
