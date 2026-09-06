@@ -4192,10 +4192,10 @@ index 3e1c8d2e8eb89b59b40634c11a783393dc3d64ef..2fbbe4fa6d41c9ded899d7bf481e6ca4
    nameFormatSlug: "name-format/lower-kebab-case",
  } as const satisfies TextProperty
 diff --git a/infrastructure/alerts/properties/alert-summary.text-property.ts b/infrastructure/alerts/properties/alert-summary.text-property.ts
-index 1e28170520b65795b6a41ecc093a7372dc88d347..df0f4ab717f12c63e16f295424dac415b2087e56 100644
+index 1e28170520b65795b6a41ecc093a7372dc88d347..713a71a549b120397ac311341a078bf8efeb5efc 100644
 --- a/infrastructure/alerts/properties/alert-summary.text-property.ts
 +++ b/infrastructure/alerts/properties/alert-summary.text-property.ts
-@@ -8,7 +8,7 @@ export const alertSummary = {
+@@ -8,13 +8,16 @@ export const alertSummary = {
    slug: "alert-summary",
    propertySlug: "summary",
    definition: "the line shown when an alert is raised",
@@ -4204,6 +4204,17 @@ index 1e28170520b65795b6a41ecc093a7372dc88d347..df0f4ab717f12c63e16f295424dac415
    nameFormatSlug: null,
    invariants: [
      {
+       invariantKind: "departure",
+-      statement:
+-        "A summary carries the labels of the rule raising the alert, written in a template.",
++      statement: "A summary carries the labels of the rule raising the alert.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A summary is written in a template.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/machines/computers/properties/computer-link.url-property.ts b/machines/computers/properties/computer-link.url-property.ts
 index fc96480a12acb8f6165bd91f86310355f4209ad4..1f25f5da6122e89d8609ed181654a69297b5a6ef 100644
 --- a/machines/computers/properties/computer-link.url-property.ts
