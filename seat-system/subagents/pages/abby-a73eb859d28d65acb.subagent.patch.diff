@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-reflex-becomes-belief-reachable.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-reflex-becomes-belief-reachable.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..eaf17d5bb1fdc7068de0f1468a067788d0ee291d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-reflex-becomes-belief-reachable.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAReflexBecomesBeliefReachable = {
++  id: "01a077ef-73b9-73a2-8444-b08756cdb6cf",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-reflex-becomes-belief-reachable",
++  topicSlug: "which-lever-reaches-a-response",
++  ask: "Can a reflex quiet enough that thought arrives in time and the reflex becomes belief-reachable, or does the reflex only ever grow quieter and remain reflexive?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-social-cost-re-test-can-be-skipped.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-social-cost-re-test-can-be-skipped.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5dfa2435b8c9a54d4e5b0c6e4065eb1ea6ef385f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-social-cost-re-test-can-be-skipped.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheSocialCostReTestCanBeSkipped = {
++  id: "01a077ef-73ba-769a-b5fa-8b3c3219244b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-social-cost-re-test-can-be-skipped",
++  topicSlug: "which-lever-reaches-a-response",
++  ask: "I cannot tell a true social cost from an inflated one from inside, and nothing reads the cost before I act, so can the re-test afterwards ever be skipped?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-lever-a-mixed-response-takes-first.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-lever-a-mixed-response-takes-first.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..740e34e969f99a827312d7df50d53576256b7462
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-lever-a-mixed-response-takes-first.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichLeverAMixedResponseTakesFirst = {
++  id: "01a077ef-73b8-7d3b-be33-2c9562f4dcb2",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-lever-a-mixed-response-takes-first",
++  topicSlug: "which-lever-reaches-a-response",
++  ask: "For a response that is part belief and part reflex, which lever do I reach for first, and does rewriting the belief lighten what exposure has to do?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/which-lever-reaches-a-response.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/which-lever-reaches-a-response.all-about-alan-topic.ts
+index c8f4cf1b550a54a5bb92aec5f7743643c1ce3105..066c05ea162fc188b1dab0ab23d91e2cb325424f 100644
+--- a/alan/books/all-about-alan/topics/pages/which-lever-reaches-a-response.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/which-lever-reaches-a-response.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whichLeverReachesAResponse = {
+   relatedSlugs: ["what-criticism-does-to-me", "digging-up-an-old-belief"],
+   settled:
+     "One kind runs through a belief. Rewrite the belief and the behaviour changes on the next go.\n\nThe other fires before any thought loads, so understanding it does nothing at all.\n\nA won argument does not switch off a rule running below it. Five of mine still fire.\n\nNo framework moves me until it yields a concrete use that lands in my map.\n\nFor the below-thought kind I expand only on a surplus and re-ask whether it is safe now, holding dangerous provisionally true.",
+-  unsettled:
+-    "Some responses are part belief and part reflex. Which lever to reach for first, and whether rewriting the belief lightens what exposure has to do, is open.\n\nWhether a reflex can quiet enough that thought arrives in time and it becomes belief-reachable, or only ever stays reflexive and quieter, is unanswered.\n\nI cannot tell a true social cost from an inflated one from inside, and nothing reads it before I act. Whether the re-test after can ever be skipped is open.",
+ } as const satisfies AllAboutAlanTopic
