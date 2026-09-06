@@ -1,8 +1,8 @@
 diff --git a/command-system/commands/compose-notices/compose-notices.command.ts b/command-system/commands/compose-notices/compose-notices.command.ts
-index f8e5f4d62d871cb7133d7e4c8457731b92260a17..6023ccb01ae7434d0c0dfd70843792aed98a1ddb 100644
+index f8e5f4d62d871cb7133d7e4c8457731b92260a17..8a6bbc3fc8b879d0f2c327a543cddf327b702e50 100644
 --- a/command-system/commands/compose-notices/compose-notices.command.ts
 +++ b/command-system/commands/compose-notices/compose-notices.command.ts
-@@ -34,12 +34,15 @@ export const composeNotices = {
+@@ -34,17 +34,20 @@ export const composeNotices = {
      },
      {
        invariantKind: "departure",
@@ -21,3 +21,9 @@ index f8e5f4d62d871cb7133d7e4c8457731b92260a17..6023ccb01ae7434d0c0dfd70843792ae
      },
      {
        invariantKind: "departure",
+       statement:
+-        "A relative `--out` path is read against the repository root, not the caller's folder.",
++        "A relative `--out` path is read against the repository root rather than the caller's folder.",
+     },
+     {
+       invariantKind: "absence",
