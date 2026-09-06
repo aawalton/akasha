@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/temper/temper-commands/inventory-settings-handle/inventory-settings-handle.module.ts b/temper/temper-commands/inventory-settings-handle/inventory-settings-handle.module.ts
+index 67da112c59b37615b94843c702a91b5339edc8d3..10074cbd97d2e256186c2abbc8d515ae2353627f 100644
+--- a/temper/temper-commands/inventory-settings-handle/inventory-settings-handle.module.ts
++++ b/temper/temper-commands/inventory-settings-handle/inventory-settings-handle.module.ts
+@@ -10,7 +10,8 @@ export const inventorySettingsHandle = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "Settings are read and written for the signed-in player rather than a named one.",
++      statement:
++        "Settings are read and written for the signed-in player rather than a named player.",
+     },
+     {
+       invariantKind: "departure",
