@@ -11,11 +11,13 @@ export const updatedAt = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The game is told this so the game knows which rules it has already seen.",
+      statement:
+        "The game is told when a rule changed so the game knows which rules the game has already seen.",
     },
     {
       invariantKind: "departure",
-      statement: "This is the moment the player changed the rule rather than the moment it landed.",
+      statement:
+        "This instant is the moment the player changed the rule rather than the moment the rule landed.",
     },
   ],
 } as const satisfies InstantProperty
