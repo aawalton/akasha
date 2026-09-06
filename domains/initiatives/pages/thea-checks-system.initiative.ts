@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Four steps: 1 category, 2 right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero. Time a check warm: the first ask pays ~650ms of index work 9 of 12 patch checks share, so a fresh shadow misreads a cost 200x. Its entries jsonl holds the real cost. identifier-matches-its-place off, half built, 3 findings. identifier-names-one-page done. instant-property-slug-closes-with-at on at patch. introduced-property-is-a-part at step 2: 23 break its rule, it refuses 10.",
+        "Four steps: 1 category, 2 right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero. Time a check warm: the first ask pays ~650ms of index work 9 of 12 patch checks share, so a fresh shadow misreads a cost 200x. Its entries jsonl holds the real cost. identifier-matches-its-place off, 3 findings. identifier-names-one-page and instant-property-slug-closes-with-at on. introduced-property-is-a-part at step 3, 23 break its rule, refuses 10, removals now judged.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
