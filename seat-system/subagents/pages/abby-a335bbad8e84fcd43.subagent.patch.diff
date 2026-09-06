@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-reading-can-go-backwards.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-reading-can-go-backwards.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2ab2a828ec0bd004b48e9c679e25d5fc3b729e9c
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-reading-can-go-backwards.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAReadingCanGoBackwards = {
++  id: "01a077e5-ed76-7ec8-90fa-81459dbb7a59",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-reading-can-go-backwards",
++  topicSlug: "how-well-i-can-measure",
++  ask: "Can a reading go backwards, so a resource loses resolution when I stop attending to that resource, or do the anchors hold once the anchors have landed?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-safety-anchors-go-numeric.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-safety-anchors-go-numeric.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8321659215ab0e78d2f4f9da5a8621c6d0328a9b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-safety-anchors-go-numeric.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMySafetyAnchorsGoNumeric = {
++  id: "01a077e5-ed75-7e2e-863f-1e1eb0095f71",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-safety-anchors-go-numeric",
++  topicSlug: "how-well-i-can-measure",
++  ask: "Safety sits at numbered levels with no numeric scale under them, and has been my limiting resource long enough that more resolution might land. Will my safety anchors go numeric?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-ladder-works-outside-my-resources.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-ladder-works-outside-my-resources.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..47bb08c683cec2c2927e196cf24e798fd21a7779
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-ladder-works-outside-my-resources.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheLadderWorksOutsideMyResources = {
++  id: "01a077e5-ed77-77d6-8751-efd8a0b35e22",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-ladder-works-outside-my-resources",
++  topicSlug: "how-well-i-can-measure",
++  ask: "Does the measuring ladder work on anything I track outside my resources?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-well-i-can-measure.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-well-i-can-measure.all-about-alan-topic.ts
+index 2cec5085a25ff1409a9a11650288a19b718bfe5d..7f9012f696311a5a8285eff302de405a06fb7757 100644
+--- a/alan/books/all-about-alan/topics/pages/how-well-i-can-measure.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-well-i-can-measure.all-about-alan-topic.ts
+@@ -8,6 +8,4 @@ export const howWellICanMeasure = {
+   definition: "how sharply I can read one of my own resources",
+   parentSlugs: ["resources"],
+   settled: "The ladder runs from not knowing a resource exists up to a real number.",
+-  unsettled:
+-    "Safety sits at numbered levels with no numeric scale under them. It has been the limiting resource long enough that further resolution might land. Will the anchors go numeric?\n\nCan a reading go backwards? Does a resource lose resolution when I stop attending to it, or do the anchors hold once they have landed?\n\nAnd does the ladder work on anything I track outside my resources?",
+ } as const satisfies AllAboutAlanTopic
