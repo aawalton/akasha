@@ -53,7 +53,7 @@ export const backupRetention = {
     },
     {
       invariantKind: "departure",
-      statement: "The cluster starts both of these runs on a schedule.",
+      statement: "The cluster runs the promoter and the longtail copier on a schedule.",
     },
   ],
 } as const satisfies WorkspacePackage
