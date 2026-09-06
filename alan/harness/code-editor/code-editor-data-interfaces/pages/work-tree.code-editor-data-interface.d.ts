@@ -1,5 +1,5 @@
-// The work panel. A row's color is already raised from the rows beneath it, so the editor draws
-// the color it is given rather than working one out.
+// The work panel. A row draws the color it is given and works none out. A row is given the color
+// of the seat sitting on it, or no color, and takes nothing from the rows beneath it.
 //
 // A row is an initiative or one of the intents that initiative holds. The two are told apart by
 // `kind` rather than by whether a row has children, because an initiative holding no intent and

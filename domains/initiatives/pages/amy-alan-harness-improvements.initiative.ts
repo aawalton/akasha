@@ -6,9 +6,4 @@ export const amyAlanHarnessImprovements = {
   slug: "amy-alan-harness-improvements",
   domainSlug: "domain/alan-harness",
   personaSlug: "amy",
-  intents: [
-    {
-      statement: "The work panel draws an initiative's intents beneath that initiative.",
-    },
-  ],
 } as const satisfies Initiative

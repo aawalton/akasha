@@ -115,10 +115,6 @@ export const codeEditor = {
     },
     {
       invariantKind: "departure",
-      statement: "A row takes the highest color of the rows beneath the row.",
-    },
-    {
-      invariantKind: "departure",
       statement: "Green outranks blue.",
     },
     {
