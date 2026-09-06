@@ -1,5 +1,5 @@
 diff --git a/editor-extension/page-tree-assemble/page-tree-assemble.module.ts b/editor-extension/page-tree-assemble/page-tree-assemble.module.ts
-index 1d7456b105b2a24ca3ff750bbdc7ca2d2986e195..865967ad4dac8dafc74fcd247b5292b71dc00043 100644
+index 1d7456b105b2a24ca3ff750bbdc7ca2d2986e195..687a5e88181fe3cec23b2d259f20c660c5c17ade 100644
 --- a/editor-extension/page-tree-assemble/page-tree-assemble.module.ts
 +++ b/editor-extension/page-tree-assemble/page-tree-assemble.module.ts
 @@ -59,8 +59,7 @@ export const pageTreeAssemble = {
@@ -9,6 +9,15 @@ index 1d7456b105b2a24ca3ff750bbdc7ca2d2986e195..865967ad4dac8dafc74fcd247b5292b7
 -      statement:
 -        "A page type naming two types above that page type is drawn once under each of those types.",
 +      statement: "A page type is drawn once under every type above that page type.",
+     },
+     {
+       invariantKind: "departure",
+@@ -77,7 +76,7 @@ export const pageTreeAssemble = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A type already open above the one being drawn is left out.",
++      statement: "A type already open above the type being drawn is left out.",
      },
      {
        invariantKind: "departure",
