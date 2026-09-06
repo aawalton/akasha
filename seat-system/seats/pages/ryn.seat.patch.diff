@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/types/properties/worked.file-property.ts b/pages/types/properties/worked.file-property.ts
+index 35ed0853c86503861deeb925fc07802d18ea5eb5..d28f5b2ddb955cbb5d85dde0da45518cb3f74075 100644
+--- a/pages/types/properties/worked.file-property.ts
++++ b/pages/types/properties/worked.file-property.ts
+@@ -17,7 +17,7 @@ export const worked = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The file this holds is written by a command rather than by an author.",
++      statement: "The file this property holds is written by a command rather than by an author.",
+     },
+   ],
+ } as const satisfies FileProperty
