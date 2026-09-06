@@ -1,8 +1,21 @@
 diff --git a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
-index a4ddc23220965d233be8e4893047e0939dac4395..c3e454a7e5388f3e08bfb3a06df9803cd613baea 100644
+index a4ddc23220965d233be8e4893047e0939dac4395..85268d4143829d25a89452c2fd57383f8c0bbf2e 100644
 --- a/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
 +++ b/git-transport/hooks/post-receive-mirror/post-receive-mirror.shell-script.ts
-@@ -50,8 +50,7 @@ export const postReceiveMirror = {
+@@ -22,7 +22,11 @@ export const postReceiveMirror = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The runner leaves the process group, which the transport sweeps.",
++      statement: "The runner leaves the process group.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The transport sweeps that process group.",
+     },
+     {
+       invariantKind: "departure",
+@@ -50,8 +54,7 @@ export const postReceiveMirror = {
      },
      {
        invariantKind: "departure",
