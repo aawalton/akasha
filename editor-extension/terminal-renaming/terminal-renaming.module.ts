@@ -25,7 +25,7 @@ export const terminalRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A write of that file, a terminal event or a command starts a naming.",
+      statement: "A write of that file or a terminal event or a command starts a naming.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +33,7 @@ export const terminalRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A file not read yet leaves every terminal the name and color it has.",
+      statement: "A file not read yet leaves every terminal the name and color that terminal has.",
     },
     {
       invariantKind: "departure",
@@ -41,7 +41,8 @@ export const terminalRenaming = {
     },
     {
       invariantKind: "departure",
-      statement: "A color's name is read through the palette before a terminal is given it.",
+      statement:
+        "A color's name is read through the palette before a terminal is given that color.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +66,7 @@ export const terminalRenaming = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reads a seat, a process table or a tmux client.",
+      statement: "Nothing here reads a seat or a process table or a tmux client.",
     },
   ],
 } as const satisfies Module
