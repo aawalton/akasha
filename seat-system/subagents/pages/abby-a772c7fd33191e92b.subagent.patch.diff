@@ -1,0 +1,110 @@
+diff --git a/alan/books/all-about-alan/questions/pages/which-macho-traits-carry-the-cost.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-macho-traits-carry-the-cost.all-about-alan-question.ts
+index 0ce141865c95839281452c3a17730f4279fb7c8b..3716b3cfdfc5fa01dab7e5eb7aab47382ac74c15 100644
+--- a/alan/books/all-about-alan/questions/pages/which-macho-traits-carry-the-cost.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/which-macho-traits-carry-the-cost.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whichMachoTraitsCarryTheCost = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "which-macho-traits-carry-the-cost",
+   topicSlug: "why-macho-costs-me-so-much",
+-  ask: "Which traits carry the cost, what does each cost me, and by what mechanism? Size, threat, loudness, unkindness and background conflict are a start rather than a list.",
++  ask: "Size, threat, loudness, unkindness and background conflict are a start rather than a list, so which traits carry the cost, what does each cost me, and by what mechanism?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-parts-of-my-ethics-are-mine.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-parts-of-my-ethics-are-mine.all-about-alan-question.ts
+index bb2f5a964d0416b6a9583423cb724431efa44b2e..40b5b0704399ce43a43e4412fc39fe79fea4723e 100644
+--- a/alan/books/all-about-alan/questions/pages/which-parts-of-my-ethics-are-mine.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/which-parts-of-my-ethics-are-mine.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whichPartsOfMyEthicsAreMine = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "which-parts-of-my-ethics-are-mine",
+   topicSlug: "the-ethics-i-worked-out",
+-  ask: "Which parts of the moral framework are mine and which belong to the idealised system it is written for? This is the central unresolved thread and should be asked directly.",
++  ask: "This is the central unresolved thread and should be asked directly: which parts of the moral framework are mine, and which belong to the idealised system the framework is written for?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-projects-my-harness-carried.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-projects-my-harness-carried.all-about-alan-question.ts
+index 26efdbb5c0678b614f086f3af040dfd353516238..a172bd7c9ee2e299721f3f4a4e36fd040497814e 100644
+--- a/alan/books/all-about-alan/questions/pages/which-projects-my-harness-carried.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/which-projects-my-harness-carried.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whichProjectsMyHarnessCarried = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "which-projects-my-harness-carried",
+   topicSlug: "what-my-scaffolding-buys-me",
+-  ask: "Which projects did my harness actually route my hyperfocus, depth, precision and pattern recognition into? No instance is collected behind the routing yet.",
++  ask: "No instance is collected behind the routing yet, so which projects did my harness actually route my hyperfocus, depth, precision and pattern recognition into?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-reflexes-a-memory-still-fires.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-reflexes-a-memory-still-fires.all-about-alan-question.ts
+index 67de769f3425bd68b517ac4e176e6abe7748b9f5..223048a78d4a9d5fd107d31aba8b5b79e879426c 100644
+--- a/alan/books/all-about-alan/questions/pages/which-reflexes-a-memory-still-fires.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/which-reflexes-a-memory-still-fires.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whichReflexesAMemoryStillFires = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "which-reflexes-a-memory-still-fires",
+   topicSlug: "what-still-fires-off-a-memory",
+-  ask: "Which other reflexes does a memory still fire the way disgust does, startle or gag or salivation? A quiet reflex fires below my floor, so the answer needs a signal someone else can see.",
++  ask: "A quiet reflex fires below my floor, so the answer needs a signal someone else can see: which other reflexes does a memory still fire the way disgust does, startle or gag or salivation?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-social-situations-i-misread.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-social-situations-i-misread.all-about-alan-question.ts
+index a259ba93c841faa6944f608c792fd903ce523230..760e36d56589ee58e531ed802702a61ab9dab5bb 100644
+--- a/alan/books/all-about-alan/questions/pages/which-social-situations-i-misread.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/which-social-situations-i-misread.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whichSocialSituationsIMisread = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "which-social-situations-i-misread",
+   topicSlug: "why-people-read-as-unsafe",
+-  ask: "Which social situations have I catastrophically misread? The account has no worked case under it while those episodes are uncatalogued.",
++  ask: "The account has no worked case under it while the episodes stay uncatalogued: which social situations have I catastrophically misread?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-yes-each-feeling-word-runs-on.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-yes-each-feeling-word-runs-on.all-about-alan-question.ts
+index 3e0492672a0379076cb8bd57e8578ee39670dcb1..8eac86a7fb08d479d0116ccb18c3c9bce142722c 100644
+--- a/alan/books/all-about-alan/questions/pages/which-yes-each-feeling-word-runs-on.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/which-yes-each-feeling-word-runs-on.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whichYesEachFeelingWordRunsOn = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "which-yes-each-feeling-word-runs-on",
+   topicSlug: "when-i-agree-a-feeling-word-fits",
+-  ask: "Does each feeling word run on a live tell or on a definitional match? The distinction rests on a handful of cases and my vocabulary is unsorted word by word.",
++  ask: "The distinction rests on a handful of cases and my vocabulary is unsorted word by word, so does each feeling word run on a live tell or on a definitional match?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-i-keep-commitments-at-all.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-i-keep-commitments-at-all.all-about-alan-question.ts
+index 2e3b983b4d5bd1319713bc9053ae3e4a3e3f6b81..3ad4d7389c4f3a734aba7076d0c51ef1a3c43163 100644
+--- a/alan/books/all-about-alan/questions/pages/why-i-keep-commitments-at-all.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/why-i-keep-commitments-at-all.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whyIKeepCommitmentsAtAll = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "why-i-keep-commitments-at-all",
+   topicSlug: "keeping-my-word",
+-  ask: "Why do I keep commitments at all? I park the question on purpose, because the rule guards a hazard and probing whether the rule is still needed is itself the risk.",
++  ask: "I park this on purpose, because the rule guards a hazard and probing whether the rule is still needed is itself the risk: why do I keep commitments at all?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-my-hours-dropped-from-twelve-to-ten.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-my-hours-dropped-from-twelve-to-ten.all-about-alan-question.ts
+index 7257209967aa77156518b6becb5927224ffebaa2..45403ec7fe36dadb31ec5324b291e2277416c30c 100644
+--- a/alan/books/all-about-alan/questions/pages/why-my-hours-dropped-from-twelve-to-ten.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/why-my-hours-dropped-from-twelve-to-ten.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whyMyHoursDroppedFromTwelveToTen = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "why-my-hours-dropped-from-twelve-to-ten",
+   topicSlug: "the-scaffolding-i-built",
+-  ask: "Does my drop from twelve hours a day to eight or ten answer a rough stretch, or is that drop independent settling? I stopped tracking the hours.",
++  ask: "I stopped tracking the hours: does my drop from twelve hours a day to eight or ten answer a rough stretch, or is that drop independent settling?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-my-mental-loops-settle-and-interest-me-at-once.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-my-mental-loops-settle-and-interest-me-at-once.all-about-alan-question.ts
+index 41b6dc79e96245fd2bbbcfc52260143ebec6a3ea..69b0fb68c46a94f3d2122d70ac084e23f2432567 100644
+--- a/alan/books/all-about-alan/questions/pages/why-my-mental-loops-settle-and-interest-me-at-once.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/why-my-mental-loops-settle-and-interest-me-at-once.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whyMyMentalLoopsSettleAndInterestMeAtOnce = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "why-my-mental-loops-settle-and-interest-me-at-once",
+   topicSlug: "the-repeating-i-do-to-settle",
+-  ask: "Do the mental loops settle me and feed my interest at once by accident, or because my day is built that way? The answer decides how I describe the pattern.",
++  ask: "The answer decides how I describe the pattern: do the mental loops settle me and feed my interest at once by accident, or because my day is built that way?",
+ } as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-speed-reading-worked-where-a-palace-did-not.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-speed-reading-worked-where-a-palace-did-not.all-about-alan-question.ts
+index 49dfe2903406b1fa99dc923993fdf178ff2109cd..8c53cf67ca4d1583d4d4743ba4e384f561f7f77d 100644
+--- a/alan/books/all-about-alan/questions/pages/why-speed-reading-worked-where-a-palace-did-not.all-about-alan-question.ts
++++ b/alan/books/all-about-alan/questions/pages/why-speed-reading-worked-where-a-palace-did-not.all-about-alan-question.ts
+@@ -5,5 +5,5 @@ export const whySpeedReadingWorkedWhereAPalaceDidNot = {
+   pageTypeSlug: "all-about-alan-question",
+   slug: "why-speed-reading-worked-where-a-palace-did-not",
+   topicSlug: "playing-the-long-game",
+-  ask: "Why did speed reading work for me where the memory palace could not? The result is on record with no mechanism under it.",
++  ask: "The result is on record with no mechanism under it: why did speed reading work for me where the memory palace could not?",
+ } as const satisfies AllAboutAlanQuestion
