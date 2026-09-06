@@ -272,3 +272,15 @@ index d91f260e3088ba018cd458bf2093fd0346908917..ec72e37b32ec551954233b6d55ce88d4
    layout: "list",
    narrows: [{ key: "partOf", comparison: "is", values: ["anthology"] }],
    viewSorts: [{ key: "position", descending: false }],
+diff --git a/pages/views/pages/stories-great-books.view.ts b/pages/views/pages/stories-great-books.view.ts
+index 5d2f8e5c7dff98b46bb6a4ac858685748e9ed5ef..b9f89de6901b76c8eeb2d5278319425bd5481cc3 100644
+--- a/pages/views/pages/stories-great-books.view.ts
++++ b/pages/views/pages/stories-great-books.view.ts
+@@ -6,6 +6,7 @@ export const storiesGreatBooks = {
+   slug: "stories-great-books",
+   title: "Great Books",
+   navSlug: "stories",
++  pageType: "book-section",
+   viewPlace: 3,
+   layout: "list",
+   narrows: [{ key: "partOf", comparison: "is", values: ["plato-apology-crito"] }],
