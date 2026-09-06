@@ -37,9 +37,5 @@ export const exerciseAccess = {
       invariantKind: "departure",
       statement: "The exercise pages are read from the checkout this code runs in.",
     },
-    {
-      invariantKind: "stopgap",
-      statement: "The pages read here are the collections package's rather than akasha's.",
-    },
   ],
 } as const satisfies WorkspacePackage
