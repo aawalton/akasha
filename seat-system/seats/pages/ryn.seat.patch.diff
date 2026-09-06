@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-commands/temper-inventory-bank-profile/temper-inventory-bank-profile.command.ts b/temper/temper-commands/temper-inventory-bank-profile/temper-inventory-bank-profile.command.ts
+index f2e8d2b44a98621153bb5a6e55b06842109d5631..e58c859adbc832cf1ee3e185a544981af083b98a 100644
+--- a/temper/temper-commands/temper-inventory-bank-profile/temper-inventory-bank-profile.command.ts
++++ b/temper/temper-commands/temper-inventory-bank-profile/temper-inventory-bank-profile.command.ts
+@@ -19,7 +19,7 @@ export const temperInventoryBankProfile = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The capture read is the most recent one.",
++      statement: "The capture read is the most recent capture.",
+     },
+     {
+       invariantKind: "departure",
