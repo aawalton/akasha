@@ -5,5 +5,5 @@ export const whetherEveryLagSortsIntoTheTwoKinds = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-every-lag-sorts-into-the-two-kinds",
   topicSlug: "why-my-doing-lags-my-believing",
-  ask: "Does every lag I can name sort into the two kinds with no residue? The two were stated in general and tested mostly on how I connect with people.",
+  ask: "The two kinds were stated in general and tested mostly on how I connect with people. Does every lag I can name sort into those two kinds with no residue?",
 } as const satisfies AllAboutAlanQuestion

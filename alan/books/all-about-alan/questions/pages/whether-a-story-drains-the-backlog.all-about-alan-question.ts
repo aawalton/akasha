@@ -5,5 +5,5 @@ export const whetherAStoryDrainsTheBacklog = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-a-story-drains-the-backlog",
   topicSlug: "letting-a-feeling-in-through-a-story",
-  ask: "Does a story drain my backlog of suppressed feeling, or only relieve the backlog until it refills? I hold a spread over the two rather than a verdict.",
+  ask: "Between draining and relieving I hold a spread rather than a verdict. Does a story drain my backlog of suppressed feeling, or only relieve the backlog until it refills?",
 } as const satisfies AllAboutAlanQuestion

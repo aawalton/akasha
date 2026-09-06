@@ -5,5 +5,5 @@ export const whetherBeingFullySeenWouldCostTooMuch = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-being-fully-seen-would-cost-too-much",
   topicSlug: "why-i-keep-hard-truths-back",
-  ask: "Would being fully seen cost the people closest to me more than they can carry? That general judgment under the rule was never put to me.",
+  ask: "Nobody ever put the general judgment under the rule to me. Would being fully seen cost the people closest to me more than they can carry?",
 } as const satisfies AllAboutAlanQuestion

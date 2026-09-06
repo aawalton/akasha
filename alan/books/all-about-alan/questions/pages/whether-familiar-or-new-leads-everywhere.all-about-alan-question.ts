@@ -5,5 +5,5 @@ export const whetherFamiliarOrNewLeadsEverywhere = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-familiar-or-new-leads-everywhere",
   topicSlug: "what-pulls-me-into-doing-something",
-  ask: "Does a single dimension fire the instinctive channel everywhere, or does the leading dimension shift by context? I rest that on one case.",
+  ask: "One case is all I rest the answer on. Does a single dimension fire the instinctive channel everywhere, or does the leading dimension shift by context?",
 } as const satisfies AllAboutAlanQuestion

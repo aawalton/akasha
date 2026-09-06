@@ -5,5 +5,5 @@ export const whetherEachTankHasItsOwnAche = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-each-tank-has-its-own-ache",
   topicSlug: "the-four-things-i-need-from-people",
-  ask: "Does a tank other than being known running low make its own distinct ache, or does every shortfall collapse into one loneliness? I hold one data point here.",
+  ask: "I hold one data point on the tanks. Does a tank other than being known running low make its own distinct ache, or does every shortfall collapse into one loneliness?",
 } as const satisfies AllAboutAlanQuestion

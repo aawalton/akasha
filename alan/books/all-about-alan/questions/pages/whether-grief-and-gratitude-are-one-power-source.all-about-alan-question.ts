@@ -5,5 +5,5 @@ export const whetherGriefAndGratitudeAreOnePowerSource = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-grief-and-gratitude-are-one-power-source",
   topicSlug: "the-crowd-that-has-been-me",
-  ask: "Are grief and gratitude one power source or two? The answer bears on what my will to live is actually running on.",
+  ask: "Since the answer bears on what my will to live is actually running on, are grief and gratitude one power source or two?",
 } as const satisfies AllAboutAlanQuestion
