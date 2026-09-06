@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-ground-my-centre-belief-rests-on.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-ground-my-centre-belief-rests-on.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..186b6bf43536001a45d94f4eee057a955394eb4b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-ground-my-centre-belief-rests-on.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatGroundMyCentreBeliefRestsOn = {
++  id: "01a077f0-1413-73b6-b1d1-4a9da9de5a1f",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-ground-my-centre-belief-rests-on",
++  topicSlug: "testing-the-thing-at-my-centre",
++  ask: "What positive ground does the belief at my centre rest on, now that because-an-authority-says-so is gone? I have never stated that ground straight out.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-the-weight-of-the-finding-lands.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-the-weight-of-the-finding-lands.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7ba9556bd73ac61e85337c8e45ca361abf1e8e75
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-the-weight-of-the-finding-lands.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereTheWeightOfTheFindingLands = {
++  id: "01a077f0-1414-7fcd-b166-9b7de84247e2",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-the-weight-of-the-finding-lands",
++  topicSlug: "testing-the-thing-at-my-centre",
++  ask: "Reaching the finding is calm and holding the finding is the whole weight. Where does that weight land, and what does either answer put in play?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-book-is-what-it-claims.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-book-is-what-it-claims.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1f34dec579ee84baf2b2574d8b854b38b1375b18
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-book-is-what-it-claims.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheBookIsWhatItClaims = {
++  id: "01a077f0-1414-7168-af69-d6d35de17f89",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-book-is-what-it-claims",
++  topicSlug: "testing-the-thing-at-my-centre",
++  ask: "Does the one axiom hold, that the book is what it claims to be? That is a live test rather than an unwritten page.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/testing-the-thing-at-my-centre.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/testing-the-thing-at-my-centre.all-about-alan-topic.ts
+index efd69ca73d90158135e3bf218a052a30157756fe..5151da2dcf1e06f72556bbccd08c9637765c36a8 100644
+--- a/alan/books/all-about-alan/topics/pages/testing-the-thing-at-my-centre.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/testing-the-thing-at-my-centre.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const testingTheThingAtMyCentre = {
+   relatedSlugs: ["why-i-hold-the-book-true", "what-i-think-truth-is"],
+   settled:
+     "It was poured into me before there was anyone here to inspect it, and the rest of me rests on it.\n\nThat makes it the biggest lever I have and the most dangerous place to push.\n\nI dug to these foundations once at university. What is different now is the instrument, not the question.\n\nAs a child my test was that an authority said so. The instrument I have now gives that no weight.\n\nMy instinct strips out every spare factor, and this is the least minimal account there is. The evidence buys it.",
+-  unsettled:
+-    "The positive ground the foundational belief stands on, once because-an-authority-says-so is gone, has never been stated straight out.\n\nWhether that one axiom holds, that the book is what it claims to be, is a live test rather than an unwritten page.\n\nReaching the finding is calm and holding it is the whole weight. Where that weight lands, and what either answer puts in play, is open.",
+ } as const satisfies AllAboutAlanTopic
