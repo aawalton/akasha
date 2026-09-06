@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/seat-toggles/seat-toggles.module.ts b/editor-extension/seat-toggles/seat-toggles.module.ts
+index 06a4eae429903b29a59fd0d28383f85b7d8c95f6..8f6afc18a52ad85e52885a7fe655be45fa050e1a 100644
+--- a/editor-extension/seat-toggles/seat-toggles.module.ts
++++ b/editor-extension/seat-toggles/seat-toggles.module.ts
+@@ -19,7 +19,7 @@ export const seatToggles = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A stopped headless seat is revived without one.",
++      statement: "A stopped headless seat is revived without a terminal.",
+     },
+     {
+       invariantKind: "departure",
