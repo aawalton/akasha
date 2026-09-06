@@ -1,0 +1,12 @@
+diff --git a/pages/views/pages/books-all-by-status.view.ts b/pages/views/pages/books-all-by-status.view.ts
+index 05fed764567c16950dab0a1f4dcdf80aa74920c7..d9e3faa2329c32d5f31d2bab3c77661120876d55 100644
+--- a/pages/views/pages/books-all-by-status.view.ts
++++ b/pages/views/pages/books-all-by-status.view.ts
+@@ -6,6 +6,7 @@ export const booksAllByStatus = {
+   slug: "books-all-by-status",
+   title: "All by Status",
+   navSlug: "books",
++  pageType: "ki-book",
+   viewPlace: 3,
+   layout: "cards",
+   viewSorts: [{ key: "title", descending: false }],
