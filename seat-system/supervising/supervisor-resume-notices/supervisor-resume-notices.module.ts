@@ -13,11 +13,12 @@ export const supervisorResumeNotices = {
     },
     {
       invariantKind: "departure",
-      statement: "The compose module is imported from beside this one and its function called.",
+      statement: "The compose module is imported from beside this module and its function called.",
     },
     {
       invariantKind: "departure",
-      statement: "A compose that fails any way at all hands back a notice saying so, not a throw.",
+      statement:
+        "A compose that fails in any way hands back a notice saying so rather than a throw.",
     },
   ],
 } as const satisfies Module
