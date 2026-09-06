@@ -7,7 +7,7 @@ export const specialCategory = {
   title: "Special Category",
   description:
     "Australia special-category residency: the New Zealand-citizen Special Category Visa 444 and its 2023 direct-citizenship path (May 2026 snapshot).",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["australia"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

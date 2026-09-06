@@ -7,7 +7,7 @@ export const businessInvestment = {
   title: "Business Investment",
   description:
     "Australia business/investment residency paths: the BIIP (incl. Significant Investor Visa) closure of 31 Jul 2024 and what replaced it (May 2026 snapshot).",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["australia"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

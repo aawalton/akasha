@@ -7,7 +7,7 @@ export const familyStream = {
   title: "Family Stream",
   description:
     "Australia family-stream residency paths: partner (309/100, 820/801), parent (103/143/864), and other family visas with current backlogs (May 2026 snapshot).",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["australia"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

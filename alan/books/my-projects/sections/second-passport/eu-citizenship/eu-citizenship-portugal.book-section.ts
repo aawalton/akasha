@@ -7,7 +7,7 @@ export const euCitizenshipPortugal = {
   title: "Portuguese Citizenship Paths (May 2026)",
   description:
     "All paths to Portuguese citizenship as of May 2026 — requirements, timelines, dual-citizenship policy, and current backlogs per path (post-Sephardic-closure, post-2025-reform).",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["eu-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

@@ -7,7 +7,7 @@ export const otherCitizenshipUk = {
   title: "United Kingdom — Paths to Citizenship (May 2026)",
   description:
     "UK citizenship paths (May 2026 snapshot). For residency paths, see ../residency/uk.md.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["other-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

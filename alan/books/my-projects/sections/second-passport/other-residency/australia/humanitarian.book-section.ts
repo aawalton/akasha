@@ -7,7 +7,7 @@ export const humanitarian = {
   title: "Humanitarian",
   description:
     "Australia humanitarian/protection residency paths: offshore refugee (200–204), onshore protection (866), and phasing-out temporary protection (May 2026 snapshot).",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["australia"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

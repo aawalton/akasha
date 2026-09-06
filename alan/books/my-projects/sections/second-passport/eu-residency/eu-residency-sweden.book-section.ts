@@ -7,7 +7,7 @@ export const euResidencySweden = {
   title: "Sweden",
   description:
     "Sweden residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/sweden.md.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["eu-residency"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

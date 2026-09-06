@@ -6,7 +6,7 @@ export const otherCitizenshipAndorra = {
   slug: "other-citizenship-andorra",
   title: "Andorra",
   description: "Andorra citizenship paths (May 2026 snapshot).",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["other-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

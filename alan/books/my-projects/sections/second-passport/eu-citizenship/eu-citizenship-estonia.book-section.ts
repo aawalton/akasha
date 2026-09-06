@@ -7,7 +7,7 @@ export const euCitizenshipEstonia = {
   title: "Estonian Citizenship Paths (May 2026)",
   description:
     "All paths to Estonian citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (with the birthright-by-blood nuance), and current backlogs per path.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["eu-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

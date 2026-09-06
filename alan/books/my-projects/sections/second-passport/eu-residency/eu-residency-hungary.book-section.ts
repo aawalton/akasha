@@ -7,7 +7,7 @@ export const euResidencyHungary = {
   title: "Hungary",
   description:
     "Hungary residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/hungary.md.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["eu-residency"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

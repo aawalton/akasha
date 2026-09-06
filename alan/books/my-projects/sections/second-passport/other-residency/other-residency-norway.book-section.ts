@@ -6,7 +6,7 @@ export const otherResidencyNorway = {
   slug: "other-residency-norway",
   title: "Norway",
   description: "Norway residency paths (May 2026 snapshot).",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["other-residency"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

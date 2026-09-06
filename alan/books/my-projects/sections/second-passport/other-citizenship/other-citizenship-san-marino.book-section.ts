@@ -6,7 +6,7 @@ export const otherCitizenshipSanMarino = {
   slug: "other-citizenship-san-marino",
   title: "San Marino",
   description: "San Marino citizenship paths (May 2026 snapshot).",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["other-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

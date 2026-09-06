@@ -7,7 +7,7 @@ export const euCitizenshipLuxembourg = {
   title: "Luxembourgish Citizenship Paths (May 2026)",
   description:
     "All paths to Luxembourgish citizenship as of May 2026 — requirements, timelines, dual-citizenship policy (allowed since 2009), and current backlogs per path.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["eu-citizenship"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection

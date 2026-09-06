@@ -7,7 +7,7 @@ export const otherResidencyAustralia = {
   title: "Australia",
   description:
     "Australia residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/australia.md.",
-  partOfSlugs: ["all-about-alan"],
+  partOfSlugs: ["other-residency"],
   unitSlug: "words",
   chapterText: "md",
 } as const satisfies BookSection
