@@ -1,3 +1,26 @@
+diff --git a/code-system/ios-components/pages/alanwalton-safety-level-widget/alanwalton-safety-level-widget.ios-component.swift.swift b/code-system/ios-components/pages/alanwalton-safety-level-widget/alanwalton-safety-level-widget.ios-component.swift.swift
+index b66890e9e8297da9f913d1ca0f61914d4d7041ec..4b678b2f08b2e88ff04d4ad80e20ec29070930e9 100644
+--- a/code-system/ios-components/pages/alanwalton-safety-level-widget/alanwalton-safety-level-widget.ios-component.swift.swift
++++ b/code-system/ios-components/pages/alanwalton-safety-level-widget/alanwalton-safety-level-widget.ios-component.swift.swift
+@@ -8,7 +8,7 @@ enum SafetyLevelFeed: WidgetFeed {
+         stoplights: [
+             HabitStoplight(
+                 habit: nil, tier: .yellow, reading: "2.5", nextTier: .green, progress: 0.50,
+-                label: "Safety"
++                label: "Safety", figureOffScale: true
+             )
+         ]
+     )
+@@ -46,7 +46,8 @@ struct SafetyLevelHomeView: View {
+             reading: safety?.reading,
+             caption: safetyCaption(entry.state),
+             nextTier: safety?.nextTier,
+-            progress: safety?.progress
++            progress: safety?.progress,
++            figureOffScale: safety?.figureOffScale ?? false
+         )
+     }
+ }
 diff --git a/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.swift.swift b/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.swift.swift
 index 3e3e91e7b8a8fa444a9f1a05a63e17ef0587caed..b7a663d45606a0d7417b509301fc0479337588e3 100644
 --- a/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.swift.swift
