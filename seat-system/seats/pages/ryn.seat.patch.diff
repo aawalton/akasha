@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/propose/monarch-propose.module.ts b/alan/harness/monarch/propose/monarch-propose.module.ts
-index 8154b7ebdb2e2dc3e49669f7fd8ae4745bb90f22..da5241590670d552345c004d4e8bffb1b3f55b7e 100644
+index 8154b7ebdb2e2dc3e49669f7fd8ae4745bb90f22..62568765ead6b54eff08b1cd03b126c591e9a2aa 100644
 --- a/alan/harness/monarch/propose/monarch-propose.module.ts
 +++ b/alan/harness/monarch/propose/monarch-propose.module.ts
 @@ -9,7 +9,11 @@ export const monarchPropose = {
@@ -12,6 +12,20 @@ index 8154b7ebdb2e2dc3e49669f7fd8ae4745bb90f22..da5241590670d552345c004d4e8bffb1
 +    {
 +      invariantKind: "departure",
 +      statement: "A rule is weighed before that rule stands.",
+     },
+     {
+       invariantKind: "departure",
+@@ -18,8 +22,11 @@ export const monarchPropose = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A named rule that does not stand is refused, and the rules that do stand are named in the refusal.",
++      statement: "A named rule that does not stand is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The refusal for a named rule lists the rules that do stand.",
      },
      {
        invariantKind: "departure",
