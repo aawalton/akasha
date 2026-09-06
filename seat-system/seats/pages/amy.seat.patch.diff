@@ -115,3 +115,18 @@ index b4302b2164080726c620561f813debf45c566e56..3910498a6c6c1f967e295012bad55d38
      "module/day-opening",
    ],
    invariants: [
+diff --git a/readout-system/readouts/pages/attribute-wisdom/attribute-wisdom.readout.ts b/readout-system/readouts/pages/attribute-wisdom/attribute-wisdom.readout.ts
+index c7473e0d51607a91b54ae2d173b30b95498cab99..26790cdb9f36f4b5a4c15854e68f32e14ff38114 100644
+--- a/readout-system/readouts/pages/attribute-wisdom/attribute-wisdom.readout.ts
++++ b/readout-system/readouts/pages/attribute-wisdom/attribute-wisdom.readout.ts
+@@ -33,10 +33,6 @@ export const attributeWisdom = {
+       statement: "A day carrying no words is no reading rather than a wisdom of zero.",
+     },
+ 
+-    {
+-      invariantKind: "stopgap",
+-      statement: "Nothing writes those words onto a day yet.",
+-    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here caches a reading or decides when a reading is taken.",
