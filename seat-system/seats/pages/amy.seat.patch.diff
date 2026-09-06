@@ -1,0 +1,10 @@
+diff --git a/alan/web/wallpaper-candidates/wallpaper-candidates.module.ts b/alan/web/wallpaper-candidates/wallpaper-candidates.module.ts
+index 0d1741317125482645ffcfd1f92eb8f99dd27cad..ca4d0d8d0c5a4656e5c08b60028645ce6d6e00ad 100644
+--- a/alan/web/wallpaper-candidates/wallpaper-candidates.module.ts
++++ b/alan/web/wallpaper-candidates/wallpaper-candidates.module.ts
+@@ -6,4 +6,5 @@ export const wallpaperCandidates = {
+   slug: "wallpaper-candidates",
+   definition: "the covers a wallpaper may be drawn from, in the order they are tried",
+   code: "ts",
++  test: "ts",
+ } as const satisfies Module
