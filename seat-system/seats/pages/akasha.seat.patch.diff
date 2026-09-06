@@ -17,3 +17,12 @@ index 2adf96c97bee91bdb3dea0cfbeb0e2cc3ac8091d..f0edc8f5cdfc3be86eea7a5d0a1e6232
      const value: unknown = "default" in one ? one.default : undefined
      return typeof value === "string" ? value : null
    }
+diff --git a/seat-system/seat-naming/seat-naming.module.code.ts b/seat-system/seat-naming/seat-naming.module.code.ts
+index 58c1cf0030f5c4f6ef5bab320ab53da6f46fe74c..969a9aa0d16f893f4bc4bb7ef7a6f73615e51b2a 100644
+--- a/seat-system/seat-naming/seat-naming.module.code.ts
++++ b/seat-system/seat-naming/seat-naming.module.code.ts
+@@ -1,3 +1,4 @@
++import { slugOf } from "@akasha/pages/page-value"
+ import { seat } from "../seats/seat.page-type.ts"
+ 
+ export const JOINER = "-"
