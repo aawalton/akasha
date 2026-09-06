@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
-index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..0a52e35fce6c4ad0e50923dc2e2aa6c673074dbe 100644
+index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..856fb3b8f6a122106dc749a135ce563183adcf16 100644
 --- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
 +++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
 @@ -135,12 +135,17 @@ test("a restatement raising a max is refused", () => {
@@ -24,7 +24,7 @@ index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..0a52e35fce6c4ad0e50923dc2e2aa6c6
  })
  
  test("a restatement letting a bounded property go unbounded is refused", () => {
-@@ -148,8 +153,13 @@ test("a restatement letting a bounded property go unbounded is refused", () => {
+@@ -148,12 +153,17 @@ test("a restatement letting a bounded property go unbounded is refused", () => {
    const said = restating(
      root,
      judged,
@@ -39,6 +39,11 @@ index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..0a52e35fce6c4ad0e50923dc2e2aa6c6
    )
  
    expect(said).toHaveLength(1)
+-  expect(said[0]?.reason).toContain("`max` rises from `5` to `none`")
++  expect(said[0]?.reason).toContain("`max-count` rises from `5` to `none`")
+ })
+ 
+ test("a restatement lowering a max is let through", () => {
 @@ -161,8 +171,13 @@ test("a restatement lowering a max is let through", () => {
    const said = restating(
      root,
