@@ -1,0 +1,13 @@
+diff --git a/editor-extension/transcript-view/transcript-view.module.ts b/editor-extension/transcript-view/transcript-view.module.ts
+index ab1ed4ecfd5d386ef13047eea70927548411a470..70a17a9a3c85bab9755c76a6e5a6230c4386b0a9 100644
+--- a/editor-extension/transcript-view/transcript-view.module.ts
++++ b/editor-extension/transcript-view/transcript-view.module.ts
+@@ -45,7 +45,7 @@ export const transcriptView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The panel reads when a file it is fed by is written and at no other time.",
++      statement: "The panel reads when a file the panel is fed by is written and at no other time.",
+     },
+     {
+       invariantKind: "departure",
