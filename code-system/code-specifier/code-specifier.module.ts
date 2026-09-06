@@ -18,7 +18,7 @@ export const codeSpecifier = {
     },
     {
       invariantKind: "departure",
-      statement: "A specifier is one of the strings a body spells.",
+      statement: "A specifier is a string among the strings a body spells.",
     },
     {
       invariantKind: "departure",
