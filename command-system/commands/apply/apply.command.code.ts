@@ -37,6 +37,8 @@ function bytesOf(body: string | null): Uint8Array | null {
 }
 
 // The gate judges the body the landing writes, so a body is formatted before that body is judged.
+// A body is formatted after the edits are gathered rather than before, because gathering reads the
+// body an earlier edit left, and formatting a body first leaves the later edit reading another.
 // A layout the formatter mends is applied rather than refused, and what a check refuses is what no
 // formatter can mend.
 export function formattedEdits(root: string, rows: readonly Edit[]): readonly Edit[] {
@@ -65,15 +67,14 @@ export function folding(root: string, page: string): Folded {
   let answer: Folded = { folded: [] }
   const kept = keptEdits(root, page, (had) => {
     if (had.length === 0) return had
-    const left = had.filter((one) => !writtenAgain(one.path))
-    const held = formattedEdits(root, left)
+    const held = had.filter((one) => !writtenAgain(one.path))
     if (held.length === 0) return null
     const said = foldedIn(held)
     if (said.refused !== null) {
       answer = { refusals: [said.refused] }
       return had
     }
-    const took = drafted(root, page, draftsOf(said.edits), CHANGED)
+    const took = drafted(root, page, draftsOf(formattedEdits(root, said.edits)), CHANGED)
     if ("why" in took) {
       answer = { refusals: [took.why] }
       return had
