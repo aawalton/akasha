@@ -1,7 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
-import { pathFiled } from "@akasha/indexes/testing"
+import {
+  listedFiled,
+  pageFiled,
+  pathFiled,
+  relationFiled,
+  schemaFiled,
+  valueAlsoFiled,
+} from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
-import { shadowFor } from "@akasha/pages/shadow"
+import { type Shadow, shadowFor } from "@akasha/pages/shadow"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import { change, scratch, staged } from "../typecheck/typecheck.code-check.test-fixtures.ts"
 import {
@@ -38,6 +45,32 @@ const HOLDS_ALIAS = "type HELD = string\n"
 
 const APART = "declare const OTHER: string\n"
 
+const AMBIENT = "ambient-types"
+
+const DECLARES = "page-property-slug"
+
+const FILE_PROPERTY = "file-property"
+
+const PAGE_TYPE = "page-type"
+
+const DECLARER = "type-declaration"
+
+const AMBIENT_AT = "akasha/ambient-types.file-property.ts"
+
+const DECLARER_AT = "akasha/type-declaration.page-type.ts"
+
+const SHARED_PAGE_AT = "akasha/shared.type-declaration.ts"
+
+const APART_AT = "akasha/apart.type-declaration.d.ts"
+
+const AMBIENT_ID = "01a06110-0000-7000-8000-00000000e004"
+
+const DECLARER_ID = "01a06110-0000-7000-8000-00000000e005"
+
+const SHARED_PAGE_ID = "01a06110-0000-7000-8000-00000000e006"
+
+const APART_ID = "01a06110-0000-7000-8000-00000000e007"
+
 function globally(body: string): string {
   return `export const away = 1\n\ndeclare global {\n${body}}\n`
 }
@@ -60,10 +93,48 @@ function sharing(first: string, second: string): string {
   return root
 }
 
-function judged(given: Change): readonly Judged[] {
+function ambient(root: string): undefined {
+  schemaFiled(root, FILE_PROPERTY, AMBIENT, [
+    {
+      pageTypeSlug: FILE_PROPERTY,
+      targetPageTypeSlug: null,
+      unique: null,
+      slug: AMBIENT,
+      propertySlug: "d",
+      fileName: null,
+    },
+  ])
+  listedFiled(root, FILE_PROPERTY, AMBIENT, [{ path: AMBIENT_AT, id: AMBIENT_ID }])
+  pageFiled(root, AMBIENT_ID, AMBIENT_AT)
+  listedFiled(root, PAGE_TYPE, DECLARER, [{ path: DECLARER_AT, id: DECLARER_ID }])
+  pageFiled(root, DECLARER_ID, DECLARER_AT)
+  relationFiled(root, AMBIENT_ID, DECLARES, DECLARER_ID, [{ path: DECLARER_AT }])
+  valueAlsoFiled(root, DECLARER, [
+    { path: SHARED_PAGE_AT, value: { id: SHARED_PAGE_ID, pageTypeSlug: DECLARER, slug: "shared" } },
+  ])
+}
+
+function naming(shared: string, held: string): string {
+  const root = staged({ [SHARED_AT]: shared, [MODULE_AT]: held, [APART_AT]: APART })
+  pathFiled(root, SHARED_AT, [{ path: SHARED_AT, id: SHARED_ID }])
+  pathFiled(root, MODULE_AT, [{ path: MODULE_AT, id: MODULE_ID }])
+  pathFiled(root, APART_AT, [{ path: APART_AT, id: APART_ID }])
+  ambient(root)
+  return root
+}
+
+function shadowed(given: Change): Shadow {
   const cast = shadowFor(given)
   if ("refused" in cast) throw new Error(cast.refused)
-  return globalDeclaredOnce(given, cast.shadow)
+  return cast.shadow
+}
+
+function reached(given: Change): readonly string[] {
+  return readingIn(given, shadowed(given)).filter((one) => one.startsWith(HERE))
+}
+
+function judged(given: Change): readonly Judged[] {
+  return globalDeclaredOnce(given, shadowed(given))
 }
 
 function over(shared: string, inside: string): readonly Judged[] {
@@ -201,10 +272,7 @@ test("the files read are the ones the index names beside the ones the change car
   const held = globally(indented(HOLDS_VALUE))
   const added = "akasha/two.module.code.ts"
   const given = change(staging(APART, held), { [added]: held })
-  const cast = shadowFor(given)
-  if ("refused" in cast) throw new Error(cast.refused)
-  const read = readingIn(given, cast.shadow).filter((one) => one.startsWith(HERE))
-  expect(read).toEqual([MODULE_AT, SHARED_AT, added])
+  expect(reached(given)).toEqual([MODULE_AT, SHARED_AT, added])
 })
 
 test("a file the change takes away is read no more", () => {
@@ -225,4 +293,30 @@ test("a TypeScript file akasha compiles is input to this check", () => {
 
 test("a file inside the packages folder is no input", () => {
   expect(globalDeclaredOnce.isInput("node_modules/one/one.ts", {} as never)).toBe(false)
+})
+
+test("the declaration files read are the ones the index names as carrying ambient types", () => {
+  const held = globally(indented(HOLDS_VALUE))
+  const given = change(naming(HOLDS_VALUE, held), { [MODULE_AT]: held })
+  expect(reached(given)).toEqual([MODULE_AT, SHARED_AT])
+})
+
+test("a declaration file the index names no ambient types on is read no further", () => {
+  const held = globally(indented(HOLDS_VALUE))
+  const given = change(naming(HOLDS_VALUE, held), { [MODULE_AT]: held })
+  expect(reached(given)).not.toContain(APART_AT)
+})
+
+test("every file the index names is read where the change carries a declaration file", () => {
+  const held = globally(indented(HOLDS_VALUE))
+  const given = change(naming(HOLDS_VALUE, held), { [SHARED_AT]: HOLDS_VALUE })
+  expect(reached(given)).toEqual([APART_AT, MODULE_AT, SHARED_AT])
+})
+
+test("a clash with a declaration file the index names is refused where the reach is narrow", () => {
+  const held = globally(indented(HOLDS_VALUE))
+  const said = judged(change(naming(HOLDS_VALUE, held), { [MODULE_AT]: held }))
+  expect(said).toHaveLength(1)
+  expect(said[0]?.path).toBe(MODULE_AT)
+  expect(reasoned(said)).toContain(SHARED_AT)
 })
