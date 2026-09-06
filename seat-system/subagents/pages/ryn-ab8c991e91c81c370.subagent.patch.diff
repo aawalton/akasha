@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
-index 6bf8f1ad39460f66306639a8dc8d11e620b34634..ac90872c7528eae1b5adc41cd0096cc489b1622c 100644
+index 6bf8f1ad39460f66306639a8dc8d11e620b34634..95b923e448d432350e443a3701311005f8282fc5 100644
 --- a/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
 +++ b/seat-system/supervising/supervisor-heartbeat-beat/supervisor-heartbeat-beat.module.ts
 @@ -14,7 +14,7 @@ export const supervisorHeartbeatBeat = {
@@ -9,6 +9,16 @@ index 6bf8f1ad39460f66306639a8dc8d11e620b34634..ac90872c7528eae1b5adc41cd0096cc4
        statement:
 -        "A write that can await the beat calls it, and one that cannot runs it as a child.",
 +        "A write that can await the beat calls the beat and a write that cannot runs the beat as a child.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,7 +39,8 @@ export const supervisorHeartbeatBeat = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A seat with no composed name and none in its history is not recorded at all.",
++      statement:
++        "A seat with no composed name and no composed name in its history is not recorded at all.",
      },
      {
        invariantKind: "departure",
