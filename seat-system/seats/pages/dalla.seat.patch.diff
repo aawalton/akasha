@@ -560,23 +560,6 @@ index 349aabeeb70f1aa2d208bd206d4f4ba7f872e678..00000000000000000000000000000000
 -    },
 -  ],
 -} as const satisfies ChangeCommand
-diff --git a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
-index 99c4682b58aef510cd06bae03fb4bb5a3bf0b5a4..193e2d61d8068360f587aeb1b33ca51faf3c280e 100644
---- a/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
-+++ b/changes/runners/pages/change-running/change-running.change-runner.addressed.ts
-@@ -12,10 +12,10 @@ export type Changes = {
-     typeof import("../../../command/pages/change-file/change-file.change-command.code.ts")["runChange"]
-   >[1]
-   "change-command/remove-page": Parameters<
--    typeof import("../../../command/pages/remove-page/remove-page.change-command.code.ts")["runChange"]
-+    typeof import("../../../command/pages/remove-page/remove-page.change-checked.code.ts")["runChange"]
-   >[1]
-   "change-command/remove-page-type": Parameters<
--    typeof import("../../../command/pages/remove-page-type/remove-page-type.change-command.code.ts")["runChange"]
-+    typeof import("../../../command/pages/remove-page-type/remove-page-type.change-checked.code.ts")["runChange"]
-   >[1]
-   "change/add-file": Parameters<
-     typeof import("../../../pages/add-file/add-file.change.code.ts")["runChange"]
 diff --git a/command-system/commands/change/change.command.test.ts b/command-system/commands/change/change.command.test.ts
 index 7a8b0bedf9f8fde7e13faa32e8ab7b75a7437fad..f0b09358e4132be7499f4770ff2d28d661373dc5 100644
 --- a/command-system/commands/change/change.command.test.ts
