@@ -1,6 +1,5 @@
-writerOwesReading: false
 diff --git a/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts b/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
-index e62ca33b4db76a7bbc5e9084cb55bb200432df11..d4fc6469ccf255a3a00f8d23fe034efbb93e1fc9 100644
+index e62ca33b4db76a7bbc5e9084cb55bb200432df11..f326536f86d41f4c2d21f11a27f19ffcb26d0c27 100644
 --- a/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
 +++ b/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
 @@ -10,23 +10,23 @@ export const seatTranscriptRotation = {
@@ -29,6 +28,15 @@ index e62ca33b4db76a7bbc5e9084cb55bb200432df11..d4fc6469ccf255a3a00f8d23fe034efb
        invariantKind: "departure",
 -      statement: "A file no newer than the one the seat names is no candidate.",
 +      statement: "A file no newer than the transcript the seat names is no candidate.",
+     },
+     {
+       invariantKind: "departure",
+@@ -39,7 +39,7 @@ export const seatTranscriptRotation = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Exactly one candidate left is the answer, and any other number answers nothing.",
++      statement: "The answer comes only where exactly one candidate is left.",
      },
      {
        invariantKind: "departure",
