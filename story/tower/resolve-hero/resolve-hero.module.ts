@@ -13,7 +13,7 @@ export const resolveHero = {
     },
     {
       invariantKind: "departure",
-      statement: "A game with no illustrations file reads as having none.",
+      statement: "A game with no illustrations file reads as having no illustrations.",
     },
     {
       invariantKind: "departure",
