@@ -53,3 +53,42 @@ index bb1830afb3d5b716ccadd88498a868d3ecd4ff01..134e8b52dca64eba24d21a13bb8086f6
 +  }
 +  process.stdout.write(`active calories landed on ${landed.join(", ")}\n`)
 +}
+diff --git a/alan/tracking/daily/day-active-calories/day-active-calories.module.ts b/alan/tracking/daily/day-active-calories/day-active-calories.module.ts
+index 860b4c42e1ff260981f216205629441a127b5805..27f7b346eaf9e3add67d2ac8867641395af19935 100644
+--- a/alan/tracking/daily/day-active-calories/day-active-calories.module.ts
++++ b/alan/tracking/daily/day-active-calories/day-active-calories.module.ts
+@@ -7,4 +7,34 @@ export const dayActiveCalories = {
+   definition:
+     "one day's active calories, recomputed from the health samples and written onto the day",
+   code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A run of this file writes the four days ending today.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A day is written again because its samples arrive after the day itself does.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A day carrying no sample the calories are counted from is left as it is.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A day that throws leaves the other days to land.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A run that landed nothing exits 2.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here decides when the calories are due.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Importing this file writes nothing.",
++    },
++  ],
+ } as const satisfies Module
