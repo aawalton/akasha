@@ -5,5 +5,10 @@ export const cluster = {
   pageTypeSlug: "domain",
   slug: "cluster",
   definition: "the Kubernetes cluster the system's services run on",
-  partSlugs: [],
+  partSlugs: [
+    "domain/cluster-provisioning",
+    "workspace-package/cluster-api",
+    "workspace-package/k8s-synth",
+    "workspace-package/k8s-types",
+  ],
 } as const satisfies Domain

@@ -1009,13 +1009,6 @@
     "infrastructure/ci-benchmark": {
       "name": "@akasha/ci-benchmark",
     },
-    "infrastructure/cluster-api": {
-      "name": "@akasha/cluster-api",
-      "dependencies": {
-        "@akasha/utils-narrow": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
     "infrastructure/cluster-manifests": {
       "name": "@akasha/cluster-manifests",
       "dependencies": {
@@ -1028,7 +1021,29 @@
         "zod": "^4.3.6",
       },
     },
-    "infrastructure/cluster-provisioning/talos": {
+    "infrastructure/cluster/api": {
+      "name": "@akasha/cluster-api",
+      "dependencies": {
+        "@akasha/utils-narrow": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "infrastructure/cluster/k8s-synth": {
+      "name": "@akasha/k8s-synth",
+      "dependencies": {
+        "@akasha/indexes": "workspace:*",
+        "zod": "^4.3.6",
+      },
+    },
+    "infrastructure/cluster/k8s-types": {
+      "name": "@akasha/k8s-types",
+      "dependencies": {
+        "@akasha/utils-run": "workspace:*",
+        "cdk8s": "^2.70.60",
+        "zod": "^4.3.6",
+      },
+    },
+    "infrastructure/cluster/provisioning/talos": {
       "name": "@akasha/talos",
       "dependencies": {
         "@akasha/errors-core": "workspace:*",
@@ -1059,21 +1074,6 @@
         "@akasha/cluster-manifests": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/talos": "workspace:*",
-      },
-    },
-    "infrastructure/k8s-synth": {
-      "name": "@akasha/k8s-synth",
-      "dependencies": {
-        "@akasha/indexes": "workspace:*",
-        "zod": "^4.3.6",
-      },
-    },
-    "infrastructure/k8s-types": {
-      "name": "@akasha/k8s-types",
-      "dependencies": {
-        "@akasha/utils-run": "workspace:*",
-        "cdk8s": "^2.70.60",
-        "zod": "^4.3.6",
       },
     },
     "infrastructure/loki-service": {
@@ -2981,7 +2981,7 @@
 
     "@akasha/ci-benchmark": ["@akasha/ci-benchmark@workspace:infrastructure/ci-benchmark"],
 
-    "@akasha/cluster-api": ["@akasha/cluster-api@workspace:infrastructure/cluster-api"],
+    "@akasha/cluster-api": ["@akasha/cluster-api@workspace:infrastructure/cluster/api"],
 
     "@akasha/cluster-manifests": ["@akasha/cluster-manifests@workspace:infrastructure/cluster-manifests"],
 
@@ -3083,9 +3083,9 @@
 
     "@akasha/infrastructure-commands": ["@akasha/infrastructure-commands@workspace:infrastructure/infrastructure-commands"],
 
-    "@akasha/k8s-synth": ["@akasha/k8s-synth@workspace:infrastructure/k8s-synth"],
+    "@akasha/k8s-synth": ["@akasha/k8s-synth@workspace:infrastructure/cluster/k8s-synth"],
 
-    "@akasha/k8s-types": ["@akasha/k8s-types@workspace:infrastructure/k8s-types"],
+    "@akasha/k8s-types": ["@akasha/k8s-types@workspace:infrastructure/cluster/k8s-types"],
 
     "@akasha/location-traces-access": ["@akasha/location-traces-access@workspace:location-traces-access"],
 
@@ -3183,7 +3183,7 @@
 
     "@akasha/supabase-server": ["@akasha/supabase-server@workspace:supabase-server"],
 
-    "@akasha/talos": ["@akasha/talos@workspace:infrastructure/cluster-provisioning/talos"],
+    "@akasha/talos": ["@akasha/talos@workspace:infrastructure/cluster/provisioning/talos"],
 
     "@akasha/temper-addon-build": ["@akasha/temper-addon-build@workspace:temper/temper-addon-build"],
 
