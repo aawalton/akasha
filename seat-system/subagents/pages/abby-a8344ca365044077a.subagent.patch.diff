@@ -1,0 +1,86 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-i-would-come-off-adhd-medication.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-i-would-come-off-adhd-medication.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fa43298c3c28811999db1d013c0764a694621419
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-i-would-come-off-adhd-medication.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howIWouldComeOffAdhdMedication = {
++  id: "01a077e2-d79a-71bb-b581-21bb47791da8",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-i-would-come-off-adhd-medication",
++  topicSlug: "having-adhd",
++  ask: "What are the steps for coming off my ADHD medication?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-adhd-gives-me-that-i-would-not-trade.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-adhd-gives-me-that-i-would-not-trade.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a49c9172c8f7f6621f866b6ecbfbcee86da67e93
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-adhd-gives-me-that-i-would-not-trade.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatAdhdGivesMeThatIWouldNotTrade = {
++  id: "01a077e2-d79a-7f24-95b4-e6ad035d2726",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-adhd-gives-me-that-i-would-not-trade",
++  topicSlug: "having-adhd",
++  ask: "What does ADHD give me that I would not trade, and do those gifts separate cleanly from autism's?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-medication-moves-when-it-doubles-my-resilience.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-medication-moves-when-it-doubles-my-resilience.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0cc1e8f541ce470649c23db6bf78610b517542ec
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-medication-moves-when-it-doubles-my-resilience.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMedicationMovesWhenItDoublesMyResilience = {
++  id: "01a077e2-d79a-7b9e-a9d5-0d43e342ba8f",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-medication-moves-when-it-doubles-my-resilience",
++  topicSlug: "having-adhd",
++  ask: "Medication roughly doubles my resilience. Does it move my reserve, my recovery speed, or my cost multiplier?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-adhd-levers-i-actually-use.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-adhd-levers-i-actually-use.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a6b83f0df0f484bc7098f324e2d998485722c5db
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-adhd-levers-i-actually-use.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichAdhdLeversIActuallyUse = {
++  id: "01a077e2-d799-76c9-98f6-c073ff6214e8",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-adhd-levers-i-actually-use",
++  topicSlug: "having-adhd",
++  ask: "Which levers do I actually use against ADHD, across medication, systems, and controls on my surroundings?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-part-of-adhd-has-cost-me-most.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-part-of-adhd-has-cost-me-most.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..baaa102eaaa9f2d231b2c0f1e084865f92e33e1c
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-part-of-adhd-has-cost-me-most.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichPartOfAdhdHasCostMeMost = {
++  id: "01a077e2-d79a-75e0-adc7-591c3c43da34",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-part-of-adhd-has-cost-me-most",
++  topicSlug: "having-adhd",
++  ask: "Which part of ADHD has cost me most: executive function, attention, time, or working memory?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/having-adhd.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/having-adhd.all-about-alan-topic.ts
+index bd6c5dec15931f44929c16aca02a06e39533d3e7..c3f61b01948485a25332951eb947af4821ddd940 100644
+--- a/alan/books/all-about-alan/topics/pages/having-adhd.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/having-adhd.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const havingAdhd = {
+   relatedSlugs: ["how-my-attention-works", "how-i-get-anything-done"],
+   settled:
+     "It is how I am built rather than something wrong with me, and I would not take a pill against it.\n\nThe heart of it is executive function, and I get a double dose because autism brings its own.\n\nIts social face is milder than autism's, and it has real treatments where autism has almost none.\n\nMilder socially is not milder. Left unmanaged it is sharply disabling for the one who has it.",
+-  unsettled:
+-    "Which levers I actually use, medication and systems and controls on my surroundings, has never been set down.\n\nWhat it gives me that I would not trade, and whether those gifts separate cleanly from autism's, is unanswered.\n\nWhich part of it has cost me most, whether executive function or attention or time or working memory, is unranked.\n\nMedication roughly doubles my resilience, and which of reserve, recovery speed or cost multiplier it moves is unsplit. Coming off it has no steps yet.",
+ } as const satisfies AllAboutAlanTopic
