@@ -9,6 +9,7 @@ export const changePartial = {
   slug: "change-partial",
   definition: "a piece of a change that leaves the tree broken on its own",
   pluralSlug: "change-partials",
+  partSlugs: [],
   extendsSlug: ["page-type/module"],
   invariants: [
     {
