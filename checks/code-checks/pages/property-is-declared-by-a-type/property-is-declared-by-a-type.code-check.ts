@@ -36,7 +36,7 @@ export const propertyIsDeclaredByAType = {
     {
       invariantKind: "departure",
       statement:
-        "`one-of-property` declares its members the same way a page type declares its properties.",
+        "A `one-of-property` page declares its members the same way a page type declares its properties.",
     },
     {
       invariantKind: "departure",
