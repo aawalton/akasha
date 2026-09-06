@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/file-system/answer-keeping/answer-keeping.module.ts b/file-system/answer-keeping/answer-keeping.module.ts
+index eb88248208a468a9514809987b47f74125d37604..fbaac568e50bf2a6eb30d372c0e08d2f7c22fea1 100644
+--- a/file-system/answer-keeping/answer-keeping.module.ts
++++ b/file-system/answer-keeping/answer-keeping.module.ts
+@@ -31,7 +31,7 @@ export const answerKeeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The code working an answer out is one of that answer's inputs.",
++      statement: "The code working an answer out is an input to that answer.",
+     },
+     {
+       invariantKind: "departure",
