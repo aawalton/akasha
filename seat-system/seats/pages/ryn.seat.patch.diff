@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/health-samples-access/sample-selecting/sample-selecting.module.ts b/health-samples-access/sample-selecting/sample-selecting.module.ts
+index 43d953337cb560b5a863c82e627e263dcd42fae1..ccdf13115da16f03c2b6f8b9046147bd65814317 100644
+--- a/health-samples-access/sample-selecting/sample-selecting.module.ts
++++ b/health-samples-access/sample-selecting/sample-selecting.module.ts
+@@ -31,7 +31,7 @@ export const sampleSelecting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row carrying a metric other than the one asked for is dropped.",
++      statement: "A row carrying a metric other than the metric asked for is dropped.",
+     },
+     {
+       invariantKind: "departure",
