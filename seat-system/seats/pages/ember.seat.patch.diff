@@ -1,3 +1,34 @@
+diff --git a/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts b/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts
+index 015c8bef2ea8b00161968956319ca9eaabcb2cdf..a564acab6e48c8686eb80cd5e7e658fa59e9c8af 100644
+--- a/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts
++++ b/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts
+@@ -28,8 +28,24 @@ export const hooksInventorySettings = {
+       statement: "The item rules and the buy rules are still read from the settings blob.",
+     },
+     {
+-      invariantKind: "gap",
+-      statement: "The settings blob answers with the ending of its file rather than its body.",
++      invariantKind: "departure",
++      statement: "The settings blob is asked for under `files`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A blob answering as its file's ending is refused rather than read as unset.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One copy of the blob is held here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every panel reads that copy.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A write before the blob is read is refused.",
+     },
+   ],
+ } as const satisfies Module
 diff --git a/temper/temper-player-inventory-management-ui/package.json b/temper/temper-player-inventory-management-ui/package.json
 index 478bcc633a4004d1d7979cb1201237e30e0ac5bb..71a50e0f2a25166d4bf7da6cb46149aff1b72a63 100644
 --- a/temper/temper-player-inventory-management-ui/package.json
