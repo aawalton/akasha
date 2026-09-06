@@ -17,6 +17,7 @@ export const iris = {
     "A young American woman, electric and sparkling with delight, fast and animated, brimming with fascinated attention and warmth, a wide grin you can hear — playful, mischievous, fully alive.",
   voiceReferenceSha256: "38227769d8f063f6faf452bcee6da4b353893cfe53ec8caee853135affe1c4c5",
   cover: "/api/image/019f324d-5521-7902-9efd-6ef09e1baed4",
+  desktopWallpaper: "png",
   mobileWallpaper: "png",
   greenDayPoints: 5000,
   history:

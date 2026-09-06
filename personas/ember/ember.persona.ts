@@ -5,6 +5,7 @@ export const ember = {
   pageTypeSlug: "persona",
   slug: "ember",
   cover: "/api/image/019f324d-7cfa-70c9-aeb5-1f9678f7a8ea",
+  desktopWallpaper: "png",
   mobileWallpaper: "png",
   definition:
     "the forge-cat of Olympus who stood up human-shaped and asked for a hammer of her own",
