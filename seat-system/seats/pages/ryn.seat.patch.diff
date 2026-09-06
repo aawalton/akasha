@@ -1,9 +1,9 @@
 readersOweReading: false
 diff --git a/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.ts b/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.ts
-index 0d54caf2b8806f56408af623c099d99ca7056a91..0e5b0110d67d8714b3ba6492d12b1b8bf411e06c 100644
+index 0d54caf2b8806f56408af623c099d99ca7056a91..042acf5099c005c7d090763cc615a193aa08e770 100644
 --- a/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.ts
 +++ b/checks/code-checks/pages/file-has-its-page/file-has-its-page.code-check.ts
-@@ -18,7 +18,7 @@ export const fileHasItsPage = {
+@@ -18,11 +18,11 @@ export const fileHasItsPage = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,8 @@ index 0d54caf2b8806f56408af623c099d99ca7056a91..0e5b0110d67d8714b3ba6492d12b1b8b
      },
      {
        invariantKind: "constraint",
+-      statement: "A phase judging every file in the tree reaches such a file like any other.",
++      statement: "A phase judging every file in the tree reaches such a file like a claimed file.",
+     },
+     {
+       invariantKind: "departure",
