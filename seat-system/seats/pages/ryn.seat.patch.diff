@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-start/seat-start.module.ts b/seat-system/seat-start/seat-start.module.ts
-index d925c32e6d692c98e47a05ec2602e2f28a1e1bec..3a7ba9d97dfd3643d8ba9f98b647d28e7428a715 100644
+index d925c32e6d692c98e47a05ec2602e2f28a1e1bec..a2b9d8b6451752dda04be2ebdcafd21027efcc60 100644
 --- a/seat-system/seat-start/seat-start.module.ts
 +++ b/seat-system/seat-start/seat-start.module.ts
 @@ -14,8 +14,11 @@ export const seatStart = {
@@ -13,6 +13,15 @@ index d925c32e6d692c98e47a05ec2602e2f28a1e1bec..3a7ba9d97dfd3643d8ba9f98b647d28e
 +    {
 +      invariantKind: "departure",
 +      statement: "The function the command calls reads no argument and writes no answer.",
+     },
+     {
+       invariantKind: "departure",
+@@ -28,7 +31,7 @@ export const seatStart = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A headless start launches the seat here and an interactive one leaves that seat detached.",
++        "A headless start launches the seat here and an interactive start leaves that seat detached.",
      },
      {
        invariantKind: "departure",
