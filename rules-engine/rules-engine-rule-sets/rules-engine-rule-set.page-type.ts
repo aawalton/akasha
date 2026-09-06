@@ -11,11 +11,19 @@ export const rulesEngineRuleSet = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A rule set declares a shape of its own, and no two rule sets share one.",
+      statement: "A rule set declares a shape of its own.",
     },
     {
       invariantKind: "departure",
-      statement: "The pages a rule set applies to are its own, and nothing crosses between two.",
+      statement: "No two rule sets share a shape.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages a rule set applies to are its own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing crosses between two rule sets.",
     },
     {
       invariantKind: "departure",
