@@ -1,3 +1,27 @@
+diff --git a/command-system/commands/move/renaming/move-renaming.module.test.ts b/command-system/commands/move/renaming/move-renaming.module.test.ts
+index 2bce72b862bcc2d754c5efe7a3b91af536b17ade..647925784a03c0f930787ffc157ebf22be6dada1 100644
+--- a/command-system/commands/move/renaming/move-renaming.module.test.ts
++++ b/command-system/commands/move/renaming/move-renaming.module.test.ts
+@@ -32,6 +32,7 @@ const HELD: readonly Listed[] = [{ path: AT, id: AAAA }]
+ const KNOWN: Shaped = {
+   targetOf: (propertySlug) => (propertySlug === "names" ? "thing" : null),
+   admitting: () => ["thing"],
++  mortal: () => false,
+   at: (pageTypeSlug, slug) => (pageTypeSlug === "thing" && slug === "held" ? HELD : []),
+   byId: (id) => (id === AAAA ? (HELD[0] ?? null) : null),
+   fieldsOf: () => [],
+diff --git a/command-system/commands/refactor/type-respelling/type-respelling.module.test.ts b/command-system/commands/refactor/type-respelling/type-respelling.module.test.ts
+index ca1708e35c249c6ac5ff2ce8ad3d8a58cf1e00e3..afae5073fe0fee1894d3affa82e47a05e2b998d8 100644
+--- a/command-system/commands/refactor/type-respelling/type-respelling.module.test.ts
++++ b/command-system/commands/refactor/type-respelling/type-respelling.module.test.ts
+@@ -80,6 +80,7 @@ const TARGETS: Record<string, string> = {
+ const KNOWN: Shaped = {
+   targetOf: (propertySlug) => TARGETS[propertySlug] ?? null,
+   admitting: (target) => [target],
++  mortal: () => false,
+   at: (pageTypeSlug, slug) => {
+     const id = AT[pageTypeSlug]?.[slug]
+     return id === undefined ? [] : [{ path: `${slug}.${pageTypeSlug}.ts`, id }]
 diff --git a/pages/indexes/entries/index-entries.module.test-fixtures.ts b/pages/indexes/entries/index-entries.module.test-fixtures.ts
 index 98b22117d796a29e267053cf125b0e4845f47f92..29ee3334bef21e906ad9513634e2ff48a1b0412d 100644
 --- a/pages/indexes/entries/index-entries.module.test-fixtures.ts
@@ -32,7 +56,7 @@ index 98b22117d796a29e267053cf125b0e4845f47f92..29ee3334bef21e906ad9513634e2ff48
        const id = pages[`${pageTypeSlug}/${slug}`]
        return id === undefined ? [] : [{ path: `${slug}.${pageTypeSlug}.ts`, id }]
 diff --git a/pages/indexes/reaching/reaching.module.code.ts b/pages/indexes/reaching/reaching.module.code.ts
-index 8f715ec47d1e9d63d561ff33b40a7a1193ef240a..3a196136311fa3da1056b2c622abac62eb87a50a 100644
+index 8f715ec47d1e9d63d561ff33b40a7a1193ef240a..c463b5a4c9026ed66b95515cd211a93cc0c22b20 100644
 --- a/pages/indexes/reaching/reaching.module.code.ts
 +++ b/pages/indexes/reaching/reaching.module.code.ts
 @@ -21,6 +21,8 @@ const DECLARED = "properties"
@@ -52,6 +76,21 @@ index 8f715ec47d1e9d63d561ff33b40a7a1193ef240a..3a196136311fa3da1056b2c622abac62
    readonly at: (pageTypeSlug: string, slug: string) => readonly Listed[]
    readonly byId: (id: string) => Listed | null
  }
+@@ -85,12 +88,14 @@ export function knownIn(reading: Reading, pageOf: (path: string) => Value | null
+   }
+ 
+   const above = new Map<string, readonly string[]>()
++  const dies = new Set<string>()
+   for (const one of everyOfType(reading, "page-type")) {
+     const value = pageOf(one.path)
+     if (value === null) continue
+     const slug = textAt(value, "slug")
+     const named = slugsIn(value["extendsSlug"])
+     if (slug !== null && named.length > 0) above.set(slug, named)
++    if (slug !== null && value[MORTAL] === true) dies.add(slug)
+   }
+   const everyType = new Set<string>([...above.keys(), ...[...above.values()].flat()])
+ 
 diff --git a/pages/indexes/reaching/reaching.module.test.ts b/pages/indexes/reaching/reaching.module.test.ts
 index ab369e0d793b347ced77622062532f1a815028b8..a97a64f1a0f784bc899dedf6bf3ac3534b4a52ba 100644
 --- a/pages/indexes/reaching/reaching.module.test.ts
