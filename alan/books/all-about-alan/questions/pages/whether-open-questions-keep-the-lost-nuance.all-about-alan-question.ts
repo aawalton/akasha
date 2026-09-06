@@ -5,5 +5,5 @@ export const whetherOpenQuestionsKeepTheLostNuance = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-open-questions-keep-the-lost-nuance",
   topicSlug: "what-a-model-leaves-out",
-  ask: "Abby reads what is open on every topic in this book as where the nuance a definition simplified out is kept rather than thrown away. Does that reading hold?",
+  ask: "Abby's reading is that what stays open on every topic in this book is where the nuance a definition simplified out is kept rather than thrown away. Does that reading hold?",
 } as const satisfies AllAboutAlanQuestion

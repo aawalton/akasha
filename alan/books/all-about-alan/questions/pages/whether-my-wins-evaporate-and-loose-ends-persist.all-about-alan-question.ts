@@ -5,5 +5,5 @@ export const whetherMyWinsEvaporateAndLooseEndsPersist = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-my-wins-evaporate-and-loose-ends-persist",
   topicSlug: "what-my-record-gives-me-back",
-  ask: "Abby reads my wins as evaporating while my loose ends persist, since only the unfinished revolutions stay present to me. Is that reading of what it costs me right?",
+  ask: "Abby's reading is that my wins evaporate while my loose ends persist, since only the unfinished revolutions stay present to me. Does that reading of what it costs me hold?",
 } as const satisfies AllAboutAlanQuestion

@@ -5,5 +5,5 @@ export const whetherOneShapeFitsBothCollapses = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-one-shape-fits-both-collapses",
   topicSlug: "what-happens-when-something-gets-cheap",
-  ask: "Abby reads one shape turning up twice: cheap instructions breaking on volume, cheap checks breaking on evaluation, each fixed by one structure built once and read many times. Does that shape hold?",
+  ask: "Abby's reading is that one shape turned up twice: cheap instructions breaking on volume, cheap checks breaking on evaluation, each fixed by one structure built once. Does that reading hold?",
 } as const satisfies AllAboutAlanQuestion
