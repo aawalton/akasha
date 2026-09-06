@@ -1,0 +1,87 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/kinds/pages/change-authored.change-kind.ts b/changes/kinds/pages/change-authored.change-kind.ts
+index d1973cad8a9058680bf5187822427f2e1f5a2cb0..85ae9dba2664eede26834bd99542836087d6d17c 100644
+--- a/changes/kinds/pages/change-authored.change-kind.ts
++++ b/changes/kinds/pages/change-authored.change-kind.ts
+@@ -1,5 +1,12 @@
++import type { Change } from "../../change.page-type.ts"
+ import type { ChangeKind } from "../change-kind.page-type.ts"
+ 
++export type ChangeAuthored = Change & {
++  runsChecks: true
++  readersOweReading: true
++  writerOwesReading: true
++}
++
+ export const changeAuthored = {
+   id: "01a05df1-e262-7648-bbe1-061d37bd706d",
+   pageTypeSlug: "change-kind",
+diff --git a/changes/kinds/pages/change-checked.change-kind.ts b/changes/kinds/pages/change-checked.change-kind.ts
+index 1789c9bab136b0642a363756939b3e6dc9b11ec3..7c527bdc95d0fae56d6476abf3c033c3a36064eb 100644
+--- a/changes/kinds/pages/change-checked.change-kind.ts
++++ b/changes/kinds/pages/change-checked.change-kind.ts
+@@ -1,5 +1,12 @@
++import type { Change } from "../../change.page-type.ts"
+ import type { ChangeKind } from "../change-kind.page-type.ts"
+ 
++export type ChangeChecked = Change & {
++  runsChecks: true
++  readersOweReading: false
++  writerOwesReading: false
++}
++
+ export const changeChecked = {
+   id: "01a0725c-56f6-7761-b210-d08f0ff70c22",
+   pageTypeSlug: "change-kind",
+diff --git a/changes/kinds/pages/change-mechanical.change-kind.ts b/changes/kinds/pages/change-mechanical.change-kind.ts
+index 5bcabbf8f222e9d8a870515731e8fb6c06a20099..b6258a96b058cea2372eb22afa2da5c092629bd0 100644
+--- a/changes/kinds/pages/change-mechanical.change-kind.ts
++++ b/changes/kinds/pages/change-mechanical.change-kind.ts
+@@ -1,5 +1,12 @@
++import type { Change } from "../../change.page-type.ts"
+ import type { ChangeKind } from "../change-kind.page-type.ts"
+ 
++export type ChangeMechanical = Change & {
++  runsChecks: false
++  readersOweReading: false
++  writerOwesReading: false
++}
++
+ export const changeMechanical = {
+   id: "01a05df1-e262-72e3-8f24-d6e5e4ed122d",
+   pageTypeSlug: "change-kind",
+diff --git a/changes/kinds/pages/change-none.change-kind.ts b/changes/kinds/pages/change-none.change-kind.ts
+index 9911ba378b08cbe69fb0096ea1df98d0eb74c88c..d783ac67127fdf497b44ac9e81862d0587852be0 100644
+--- a/changes/kinds/pages/change-none.change-kind.ts
++++ b/changes/kinds/pages/change-none.change-kind.ts
+@@ -1,5 +1,12 @@
++import type { Change } from "../../change.page-type.ts"
+ import type { ChangeKind } from "../change-kind.page-type.ts"
+ 
++export type ChangeNone = Change & {
++  runsChecks: false
++  readersOweReading: false
++  writerOwesReading: false
++}
++
+ export const changeNone = {
+   id: "01a05e59-9926-76d2-8dca-b8d061081c34",
+   pageTypeSlug: "change-kind",
+diff --git a/changes/kinds/pages/change-restated.change-kind.ts b/changes/kinds/pages/change-restated.change-kind.ts
+index 806887869ea65227324eee967fa813ab214f008c..fa1e51c034c00ad71f5c41e38066f3bd08d1d224 100644
+--- a/changes/kinds/pages/change-restated.change-kind.ts
++++ b/changes/kinds/pages/change-restated.change-kind.ts
+@@ -1,5 +1,12 @@
++import type { Change } from "../../change.page-type.ts"
+ import type { ChangeKind } from "../change-kind.page-type.ts"
+ 
++export type ChangeRestated = Change & {
++  runsChecks: true
++  readersOweReading: false
++  writerOwesReading: true
++}
++
+ export const changeRestated = {
+   id: "01a07245-0dbf-7539-b0dc-ce6281aa96e8",
+   pageTypeSlug: "change-kind",
