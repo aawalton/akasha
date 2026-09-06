@@ -65,15 +65,6 @@ export const attributesReading = {
         "The root read is the root the environment states or the folder the call was made in.",
     },
     {
-      invariantKind: "absence",
-      statement: "Wisdom takes no reading while nothing writes `wisdom-words` onto a day.",
-    },
-    {
-      invariantKind: "absence",
-      statement:
-        "Intelligence takes no reading while nothing writes `intelligence-words` onto a day.",
-    },
-    {
       invariantKind: "stopgap",
       statement: "Each readout's path is spelled here rather than asked of the index.",
     },

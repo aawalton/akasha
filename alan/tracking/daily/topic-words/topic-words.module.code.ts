@@ -1,4 +1,4 @@
-import { getEsoDayWindow } from "@akasha/day/eso-day"
+import { getEsoDayStr, getEsoDayWindow } from "@akasha/day/eso-day"
 import { runGit } from "@akasha/git/git-answering"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import {
@@ -144,4 +144,29 @@ export function countWisdomWordsForDay(root: string, dayStr: string): Promise<Da
 
 export function countIntelligenceWordsForDay(root: string, dayStr: string): Promise<DayWords> {
   return countWordsForDay(root, dayStr, INTELLIGENCE_PATHSPEC)
+}
+
+type Landing = readonly [string, () => Promise<{ outcome: WriteOutcome }>]
+
+if (import.meta.main) {
+  const day = getEsoDayStr(new Date())
+  // THE TWO COUNTS LAND ONE AFTER THE OTHER. Each patches the same day page, so counting them
+  // together would put two writes on one file, and the second would land against a body the first
+  // had already moved out from under it.
+  const landings: readonly Landing[] = [
+    ["wisdom words", () => rollupWisdomWordsForDay(day)],
+    ["intelligence words", () => rollupIntelligenceWordsForDay(day)],
+  ]
+  const landed: string[] = []
+  for (const [field, rollup] of landings) {
+    try {
+      const { outcome } = await rollup()
+      landed.push(`${field} ${outcome}`)
+    } catch (thrown) {
+      const why = thrown instanceof Error ? thrown.message : String(thrown)
+      process.stderr.write(`the ${field} for ${day} did not land: ${why}\n`)
+    }
+  }
+  if (landed.length === 0) process.exit(1)
+  process.stdout.write(`${day} carries ${landed.join(" and ")}\n`)
 }

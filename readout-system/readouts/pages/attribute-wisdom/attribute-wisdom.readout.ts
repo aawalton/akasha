@@ -34,10 +34,6 @@ export const attributeWisdom = {
     },
 
     {
-      invariantKind: "stopgap",
-      statement: "Nothing writes those words onto a day yet.",
-    },
-    {
       invariantKind: "absence",
       statement: "Nothing here caches a reading or decides when a reading is taken.",
     },

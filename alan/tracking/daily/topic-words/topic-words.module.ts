@@ -7,4 +7,38 @@ export const topicWords = {
   definition:
     "the wisdom and intelligence words Alan wrote on one day, counted from the commits that landed in it",
   code: "ts",
+  invariants: [
+    {
+      invariantKind: "departure",
+      statement: "A run of this file counts today's words onto today's day.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The wisdom words land before the intelligence words.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count that does not land leaves the other count to land.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count that does not land is named on the error stream with its reason.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run that landed neither count exits 1.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A count matching the count the day carries lands no commit.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Nothing here decides when a count is due.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "Importing this file counts nothing.",
+    },
+  ],
 } as const satisfies Module
