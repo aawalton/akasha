@@ -25,7 +25,7 @@ export const generationLog = {
     {
       invariantKind: "departure",
       statement:
-        "A generation log holds its runs and their outputs beside the log rather than filing each on its own.",
+        "A generation log holds its runs and their outputs beside the log rather than in pages of their own.",
     },
     {
       invariantKind: "departure",
@@ -33,8 +33,11 @@ export const generationLog = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "Nothing lands a row, so the log reaches only as far as its last hand-written line.",
+      statement: "Nothing lands a row.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The log reaches only as far as its last hand-written line.",
     },
   ],
 } as const satisfies PageType
