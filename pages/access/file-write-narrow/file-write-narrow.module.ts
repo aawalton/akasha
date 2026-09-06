@@ -14,7 +14,7 @@ export const fileWriteNarrow = {
     },
     {
       invariantKind: "absence",
-      statement: "No condition is dropped for being one this cannot carry.",
+      statement: "No condition is dropped for being a condition this module cannot carry.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,11 @@ export const fileWriteNarrow = {
     },
     {
       invariantKind: "departure",
-      statement: "A value that is no text is lowered as its text, a test carrying text.",
+      statement: "A value that is no text is lowered as its text.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A lowered value becomes a test carrying text.",
     },
     {
       invariantKind: "departure",
