@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-catalog/temper-pursuits/tribute-patrons/properties/cards.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/tribute-patrons/properties/cards.page-property-entry.ts
+index d1c585243a66045e5dda23d60bcce99d2bc7ad85..a5db09adb1a2842e550f828b0b0e74857402678a 100644
+--- a/temper/temper-catalog/temper-pursuits/tribute-patrons/properties/cards.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/tribute-patrons/properties/cards.page-property-entry.ts
+@@ -16,7 +16,7 @@ export const cards = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A card here is one a patron lets a player upgrade.",
++      statement: "A card here is a card a patron lets a player upgrade.",
+     },
+   ],
+ } as const satisfies PagePropertyEntry
