@@ -16,7 +16,7 @@ export const trackingCapture = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every tracked field states the one capture its values come of.",
+      statement: "Every tracked field states the single capture its values come of.",
     },
     {
       invariantKind: "departure",
