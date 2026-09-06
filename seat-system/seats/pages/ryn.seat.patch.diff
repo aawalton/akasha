@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/editor-extension/agent-row/agent-row.module.ts b/editor-extension/agent-row/agent-row.module.ts
-index 04b1fbab256a91423e001a1aa4b1ae71320354ea..cf4d1570757d359e7cf36835525739896ff97ae0 100644
+index 04b1fbab256a91423e001a1aa4b1ae71320354ea..a58d1e42775b89839e8222ad510d0bd80896004c 100644
 --- a/editor-extension/agent-row/agent-row.module.ts
 +++ b/editor-extension/agent-row/agent-row.module.ts
 @@ -21,7 +21,7 @@ export const agentRow = {
@@ -12,3 +12,12 @@ index 04b1fbab256a91423e001a1aa4b1ae71320354ea..cf4d1570757d359e7cf3683552573989
      },
      {
        invariantKind: "departure",
+@@ -41,7 +41,7 @@ export const agentRow = {
+     },
+     {
+       invariantKind: "gap",
+-      statement: "A row is spelled here as every other tree the editor draws spells one.",
++      statement: "A row is spelled here as every other tree the editor draws spells a row.",
+     },
+   ],
+ } as const satisfies Module
