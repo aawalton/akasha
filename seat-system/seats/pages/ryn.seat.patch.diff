@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-commands/temper-inventory-master-craft-trace/temper-inventory-master-craft-trace.command.ts b/temper/temper-commands/temper-inventory-master-craft-trace/temper-inventory-master-craft-trace.command.ts
+index ae638f9e9b99c81fd6e1d7099793892d8bd5fe8c..8b04bca83c5f073f3c922b58600a94aceb63941a 100644
+--- a/temper/temper-commands/temper-inventory-master-craft-trace/temper-inventory-master-craft-trace.command.ts
++++ b/temper/temper-commands/temper-inventory-master-craft-trace/temper-inventory-master-craft-trace.command.ts
+@@ -22,7 +22,7 @@ export const temperInventoryMasterCraftTrace = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The oldest trace goes when a new one arrives.",
++      statement: "The oldest trace goes when a new trace arrives.",
+     },
+     {
+       invariantKind: "departure",
