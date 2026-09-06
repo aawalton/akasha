@@ -13,7 +13,7 @@ export const idleSave = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A player has one save and no more.",
+      statement: "A player has one save and no second save.",
     },
     {
       invariantKind: "departure",
