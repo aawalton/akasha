@@ -1,5 +1,36 @@
 writerOwesReading: false
 readersOweReading: false
+diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
+index b7f9a8d91aec2773bffaa2ae9b3b1b0e1c5fffd4..16dafecd01de7182d68047442353c6cbc0c63789 100644
+--- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
++++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test.ts
+@@ -135,7 +135,7 @@ test("a restatement raising a max is refused", () => {
+   const said = restating(
+     root,
+     judged,
+-    { required: true, many: true, max: 5 },
++    { required: true, many: true, maxCount: 5 },
+     { required: true, many: true, max: 20 }
+   )
+ 
+@@ -148,7 +148,7 @@ test("a restatement letting a bounded property go unbounded is refused", () => {
+   const said = restating(
+     root,
+     judged,
+-    { required: true, many: true, max: 5 },
++    { required: true, many: true, maxCount: 5 },
+     { required: true, many: true, max: null }
+   )
+ 
+@@ -162,7 +162,7 @@ test("a restatement lowering a max is let through", () => {
+     root,
+     judged,
+     { required: true, many: true, max: 20 },
+-    { required: true, many: true, max: 5 }
++    { required: true, many: true, maxCount: 5 }
+   )
+ 
+   expect(said).toEqual([])
 diff --git a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
 index e6b8b6999a4c0568aa8bbb181c196383890f953a..ff853c7c36567efef74ec3a3ba34051088d5c75c 100644
 --- a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
