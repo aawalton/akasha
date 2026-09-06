@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/pages/core/schema/page-type-inheritance/page-type-inheritance.module.ts b/pages/core/schema/page-type-inheritance/page-type-inheritance.module.ts
+index f1b88418dad9c97505d17651f4d8c59b94527bcf..158a9749eafbdae0d95c1b5d9d6c26b284f56f1a 100644
+--- a/pages/core/schema/page-type-inheritance/page-type-inheritance.module.ts
++++ b/pages/core/schema/page-type-inheritance/page-type-inheritance.module.ts
+@@ -10,7 +10,8 @@ export const pageTypeInheritance = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A page type descends from another where any one of the parents it names does.",
++      statement:
++        "A page type descends from another page type where any parent that page type names does.",
+     },
+     {
+       invariantKind: "departure",
