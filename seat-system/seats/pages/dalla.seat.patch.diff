@@ -1,0 +1,342 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/kinds/authored/change-authored.change-kind.ts b/changes/kinds/authored/change-authored.change-kind.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..85ae9dba2664eede26834bd99542836087d6d17c
+--- /dev/null
++++ b/changes/kinds/authored/change-authored.change-kind.ts
+@@ -0,0 +1,26 @@
++import type { Change } from "../../change.page-type.ts"
++import type { ChangeKind } from "../change-kind.page-type.ts"
++
++export type ChangeAuthored = Change & {
++  runsChecks: true
++  readersOweReading: true
++  writerOwesReading: true
++}
++
++export const changeAuthored = {
++  id: "01a05df1-e262-7648-bbe1-061d37bd706d",
++  pageTypeSlug: "change-kind",
++  slug: "change-authored",
++  definition: "a change composed by an agent",
++  pluralSlug: "change-authored",
++  extendsSlug: ["page-type/change"],
++  runsChecks: true,
++  writerOwesReading: true,
++  readersOweReading: true,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An authored change is refused until its required reading is read.",
++    },
++  ],
++} as const satisfies ChangeKind
+diff --git a/changes/kinds/mechanical/change-mechanical.change-kind.ts b/changes/kinds/mechanical/change-mechanical.change-kind.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b6258a96b058cea2372eb22afa2da5c092629bd0
+--- /dev/null
++++ b/changes/kinds/mechanical/change-mechanical.change-kind.ts
+@@ -0,0 +1,44 @@
++import type { Change } from "../../change.page-type.ts"
++import type { ChangeKind } from "../change-kind.page-type.ts"
++
++export type ChangeMechanical = Change & {
++  runsChecks: false
++  readersOweReading: false
++  writerOwesReading: false
++}
++
++export const changeMechanical = {
++  id: "01a05df1-e262-72e3-8f24-d6e5e4ed122d",
++  pageTypeSlug: "change-kind",
++  slug: "change-mechanical",
++  definition: "a change composed by a program",
++  pluralSlug: "change-mechanical",
++  extendsSlug: ["page-type/change"],
++  runsChecks: false,
++  writerOwesReading: false,
++  readersOweReading: false,
++  invariants: [
++    {
++      invariantKind: "absence",
++      statement: "A mechanical change is not shown to Alan line by line.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A mechanical change is not authored prose.",
++    },
++
++    {
++      invariantKind: "departure",
++      statement:
++        "A fault a mechanical change lands is a fault in the program that composed the change.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A fault the audit finds is repaired rather than undone.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A fault a mechanical change lands is found by the audit.",
++    },
++  ],
++} as const satisfies ChangeKind
+diff --git a/changes/kinds/none/change-none.change-kind.ts b/changes/kinds/none/change-none.change-kind.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d783ac67127fdf497b44ac9e81862d0587852be0
+--- /dev/null
++++ b/changes/kinds/none/change-none.change-kind.ts
+@@ -0,0 +1,20 @@
++import type { Change } from "../../change.page-type.ts"
++import type { ChangeKind } from "../change-kind.page-type.ts"
++
++export type ChangeNone = Change & {
++  runsChecks: false
++  readersOweReading: false
++  writerOwesReading: false
++}
++
++export const changeNone = {
++  id: "01a05e59-9926-76d2-8dca-b8d061081c34",
++  pageTypeSlug: "change-kind",
++  slug: "change-none",
++  definition: "an act that edits nothing",
++  pluralSlug: "change-none",
++  extendsSlug: ["page-type/change"],
++  runsChecks: false,
++  writerOwesReading: false,
++  readersOweReading: false,
++} as const satisfies ChangeKind
+diff --git a/changes/kinds/pages/change-authored.change-kind.ts b/changes/kinds/pages/change-authored.change-kind.ts
+deleted file mode 100644
+index 85ae9dba2664eede26834bd99542836087d6d17c..0000000000000000000000000000000000000000
+--- a/changes/kinds/pages/change-authored.change-kind.ts
++++ /dev/null
+@@ -1,26 +0,0 @@
+-import type { Change } from "../../change.page-type.ts"
+-import type { ChangeKind } from "../change-kind.page-type.ts"
+-
+-export type ChangeAuthored = Change & {
+-  runsChecks: true
+-  readersOweReading: true
+-  writerOwesReading: true
+-}
+-
+-export const changeAuthored = {
+-  id: "01a05df1-e262-7648-bbe1-061d37bd706d",
+-  pageTypeSlug: "change-kind",
+-  slug: "change-authored",
+-  definition: "a change composed by an agent",
+-  pluralSlug: "change-authored",
+-  extendsSlug: ["page-type/change"],
+-  runsChecks: true,
+-  writerOwesReading: true,
+-  readersOweReading: true,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "An authored change is refused until its required reading is read.",
+-    },
+-  ],
+-} as const satisfies ChangeKind
+diff --git a/changes/kinds/pages/change-mechanical.change-kind.ts b/changes/kinds/pages/change-mechanical.change-kind.ts
+deleted file mode 100644
+index b6258a96b058cea2372eb22afa2da5c092629bd0..0000000000000000000000000000000000000000
+--- a/changes/kinds/pages/change-mechanical.change-kind.ts
++++ /dev/null
+@@ -1,44 +0,0 @@
+-import type { Change } from "../../change.page-type.ts"
+-import type { ChangeKind } from "../change-kind.page-type.ts"
+-
+-export type ChangeMechanical = Change & {
+-  runsChecks: false
+-  readersOweReading: false
+-  writerOwesReading: false
+-}
+-
+-export const changeMechanical = {
+-  id: "01a05df1-e262-72e3-8f24-d6e5e4ed122d",
+-  pageTypeSlug: "change-kind",
+-  slug: "change-mechanical",
+-  definition: "a change composed by a program",
+-  pluralSlug: "change-mechanical",
+-  extendsSlug: ["page-type/change"],
+-  runsChecks: false,
+-  writerOwesReading: false,
+-  readersOweReading: false,
+-  invariants: [
+-    {
+-      invariantKind: "absence",
+-      statement: "A mechanical change is not shown to Alan line by line.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "A mechanical change is not authored prose.",
+-    },
+-
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A fault a mechanical change lands is a fault in the program that composed the change.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A fault the audit finds is repaired rather than undone.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "A fault a mechanical change lands is found by the audit.",
+-    },
+-  ],
+-} as const satisfies ChangeKind
+diff --git a/changes/kinds/pages/change-none.change-kind.ts b/changes/kinds/pages/change-none.change-kind.ts
+deleted file mode 100644
+index d783ac67127fdf497b44ac9e81862d0587852be0..0000000000000000000000000000000000000000
+--- a/changes/kinds/pages/change-none.change-kind.ts
++++ /dev/null
+@@ -1,20 +0,0 @@
+-import type { Change } from "../../change.page-type.ts"
+-import type { ChangeKind } from "../change-kind.page-type.ts"
+-
+-export type ChangeNone = Change & {
+-  runsChecks: false
+-  readersOweReading: false
+-  writerOwesReading: false
+-}
+-
+-export const changeNone = {
+-  id: "01a05e59-9926-76d2-8dca-b8d061081c34",
+-  pageTypeSlug: "change-kind",
+-  slug: "change-none",
+-  definition: "an act that edits nothing",
+-  pluralSlug: "change-none",
+-  extendsSlug: ["page-type/change"],
+-  runsChecks: false,
+-  writerOwesReading: false,
+-  readersOweReading: false,
+-} as const satisfies ChangeKind
+diff --git a/changes/kinds/pages/change-restated.change-kind.ts b/changes/kinds/pages/change-restated.change-kind.ts
+deleted file mode 100644
+index fa1e51c034c00ad71f5c41e38066f3bd08d1d224..0000000000000000000000000000000000000000
+--- a/changes/kinds/pages/change-restated.change-kind.ts
++++ /dev/null
+@@ -1,56 +0,0 @@
+-import type { Change } from "../../change.page-type.ts"
+-import type { ChangeKind } from "../change-kind.page-type.ts"
+-
+-export type ChangeRestated = Change & {
+-  runsChecks: true
+-  readersOweReading: false
+-  writerOwesReading: true
+-}
+-
+-export const changeRestated = {
+-  id: "01a07245-0dbf-7539-b0dc-ce6281aa96e8",
+-  pageTypeSlug: "change-kind",
+-  slug: "change-restated",
+-  definition: "a change saying what a page already said in other words",
+-  pluralSlug: "change-restated",
+-  extendsSlug: ["page-type/change"],
+-  runsChecks: true,
+-  writerOwesReading: true,
+-  readersOweReading: false,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A restated change owes the reading an authored change owes.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Every reading of a page a restatement changes answers for the page the restatement leaves.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A restated change is composed by an agent rather than by a program.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A restated change leaves a page's meaning unchanged.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Only the words a page states are changed.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A rewrite narrowing the claim a statement binds is authored rather than restated.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every check an authored change is judged by judges a restated change.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A restated change moving more than the words a page states is refused.",
+-    },
+-  ],
+-} as const satisfies ChangeKind
+diff --git a/changes/kinds/restated/change-restated.change-kind.ts b/changes/kinds/restated/change-restated.change-kind.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fa1e51c034c00ad71f5c41e38066f3bd08d1d224
+--- /dev/null
++++ b/changes/kinds/restated/change-restated.change-kind.ts
+@@ -0,0 +1,56 @@
++import type { Change } from "../../change.page-type.ts"
++import type { ChangeKind } from "../change-kind.page-type.ts"
++
++export type ChangeRestated = Change & {
++  runsChecks: true
++  readersOweReading: false
++  writerOwesReading: true
++}
++
++export const changeRestated = {
++  id: "01a07245-0dbf-7539-b0dc-ce6281aa96e8",
++  pageTypeSlug: "change-kind",
++  slug: "change-restated",
++  definition: "a change saying what a page already said in other words",
++  pluralSlug: "change-restated",
++  extendsSlug: ["page-type/change"],
++  runsChecks: true,
++  writerOwesReading: true,
++  readersOweReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A restated change owes the reading an authored change owes.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Every reading of a page a restatement changes answers for the page the restatement leaves.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A restated change is composed by an agent rather than by a program.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A restated change leaves a page's meaning unchanged.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Only the words a page states are changed.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A rewrite narrowing the claim a statement binds is authored rather than restated.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every check an authored change is judged by judges a restated change.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A restated change moving more than the words a page states is refused.",
++    },
++  ],
++} as const satisfies ChangeKind
