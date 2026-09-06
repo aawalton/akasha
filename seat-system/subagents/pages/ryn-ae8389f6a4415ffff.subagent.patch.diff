@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/music/choosing/music-exploration/music-exploration.module.ts b/alan/music/choosing/music-exploration/music-exploration.module.ts
-index 274bf77b8f3d5b2ba11dd9d57807f63815ceef12..b4f1020d8a16fa45232488704dc09347a396df42 100644
+index 274bf77b8f3d5b2ba11dd9d57807f63815ceef12..ed564c5c0b85b36fca57a725b58bfec60130dfd8 100644
 --- a/alan/music/choosing/music-exploration/music-exploration.module.ts
 +++ b/alan/music/choosing/music-exploration/music-exploration.module.ts
 @@ -10,11 +10,11 @@ export const musicExploration = {
@@ -14,6 +14,15 @@ index 274bf77b8f3d5b2ba11dd9d57807f63815ceef12..b4f1020d8a16fa45232488704dc09347
        invariantKind: "departure",
 -      statement: "A song offered is one the artist performs.",
 +      statement: "A song offered is a song the artist performs.",
+     },
+     {
+       invariantKind: "departure",
+@@ -56,7 +56,7 @@ export const musicExploration = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A new artist scores as the highest likeness to any one loved artist.",
++      statement: "A new artist scores as the highest likeness to a single loved artist.",
      },
      {
        invariantKind: "departure",
