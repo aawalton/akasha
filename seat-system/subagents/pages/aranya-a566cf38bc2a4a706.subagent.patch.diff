@@ -26,3 +26,17 @@ index 0000000000000000000000000000000000000000..cfd0ae5c2c3da035afdce7b4143be24f
 +  slug: "prometheus-secrets-database-url",
 +  placements: [{ resourceName: "prometheus-secrets", resourceKey: "DATABASE_URL" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/prometheus-secrets-pgbouncer-stats-dsn.secret.ts b/service-system/secrets/pages/prometheus-secrets-pgbouncer-stats-dsn.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..611abe01e05c19029b26f89a32344e03e8ac2fa9
+--- /dev/null
++++ b/service-system/secrets/pages/prometheus-secrets-pgbouncer-stats-dsn.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const prometheusSecretsPgbouncerStatsDsn = {
++  id: "01a07698-5ad5-75dd-8ad6-61c0372a4e3b",
++  pageTypeSlug: "secret",
++  slug: "prometheus-secrets-pgbouncer-stats-dsn",
++  placements: [{ resourceName: "prometheus-secrets", resourceKey: "PGBOUNCER_STATS_DSN" }],
++} as const satisfies Secret
