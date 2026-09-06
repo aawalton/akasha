@@ -11,6 +11,19 @@ index 9968f1db07ea8a861fb727b66e95849e548d6663..3bdd997192bde306f67ba5097c9eac76
    pageTypeSlug: "domain",
    slug: "monarch-eval",
    definition:
+diff --git a/changes/workflow-language/buildkit/buildkit.module.ts b/changes/workflow-language/buildkit/buildkit.module.ts
+index 9121632423cf48ec65f7a9ddf20ed12e6260a2c0..d65b66cc3a1d6228db5b7e3387970db56edf5462 100644
+--- a/changes/workflow-language/buildkit/buildkit.module.ts
++++ b/changes/workflow-language/buildkit/buildkit.module.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "../../../code-system/modules/module.page-type.ts"
+ 
+ export const buildkit = {
+-  id: "01a06f10-7000-7008-b0008-9d4a2f6c0008e1",
++  id: "01a07740-d031-7c82-8d85-3e72173a776d",
+   pageTypeSlug: "module",
+   slug: "buildkit",
+   definition: "a step building an image through buildctl, retried where the failure was in passing",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
