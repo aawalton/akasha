@@ -193,6 +193,19 @@ index 38f888a0d848ba79a9d9070a4635b4c10268bf95..6c5cad4d1ffe896470d6fa57782f4dc6
    pageTypeSlug: "module",
    slug: "set-image",
    definition: "shell lines setting the image of a deployment's containers",
+diff --git a/changes/workflow-language/sops-decrypt/sops-decrypt.workflow-step.ts b/changes/workflow-language/sops-decrypt/sops-decrypt.workflow-step.ts
+index cc9376d3e9c84a90c807124da50a691bcbc4a6f9..37751cd6654e5db0a5787216d83ca06f5be13e92 100644
+--- a/changes/workflow-language/sops-decrypt/sops-decrypt.workflow-step.ts
++++ b/changes/workflow-language/sops-decrypt/sops-decrypt.workflow-step.ts
+@@ -1,7 +1,7 @@
+ import type { WorkflowStep } from "../workflow-steps/workflow-step.page-type.ts"
+ 
+ export const sopsDecrypt = {
+-  id: "01a06f10-7000-7011-b0011-9d4a2f6c0011e1",
++  id: "01a07740-d031-71a9-a797-ffe0d2219c1e",
+   pageTypeSlug: "workflow-step",
+   slug: "sops-decrypt",
+   definition: "a step decrypting a sops file and applying what it holds",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
