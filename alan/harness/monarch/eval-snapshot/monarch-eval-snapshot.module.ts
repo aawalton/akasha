@@ -13,8 +13,7 @@ export const monarchEvalSnapshot = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Pages are hashed in path order, so the mark does not depend on the order those pages were read.",
+      statement: "Pages are hashed in path order.",
     },
     {
       invariantKind: "departure",
@@ -22,16 +21,16 @@ export const monarchEvalSnapshot = {
     },
     {
       invariantKind: "departure",
-      statement: "A month with no sidecar is hashed as having none rather than failing.",
+      statement: "A month with no sidecar is hashed as having no sidecar rather than failing.",
     },
     {
       invariantKind: "departure",
-      statement: "A move is said as the mark before and the mark after, family by family.",
+      statement: "A move is said family by family as the mark before and the mark after.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A family present on one side and absent on the other is said as absent rather than passed over.",
+        "A family present on one side and absent on the second is said as absent rather than passed over.",
     },
     {
       invariantKind: "absence",
