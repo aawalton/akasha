@@ -9,6 +9,7 @@ export const change = {
   partSlugs: [
     "page-type/atomic-change",
     "page-type/refactor-change",
+    "page-type/change-partial",
     "page-type/workflow-template",
     "page-type/change-kind",
     "workspace-package/workflow-language",
