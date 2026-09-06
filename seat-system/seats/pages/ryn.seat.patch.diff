@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts b/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts
-index 849858e9bc032fb26709127314a65896ff92f752..ba173252f89a53d9cca772c6981f372d48a94e77 100644
+index 849858e9bc032fb26709127314a65896ff92f752..e46fde218dfc4a5c8697d038c2e69e06390f5498 100644
 --- a/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts
 +++ b/alan/harness/monarch/audible-migration/monarch-audible-migration.module.ts
 @@ -10,7 +10,7 @@ export const monarchAudibleMigration = {
@@ -11,13 +11,19 @@ index 849858e9bc032fb26709127314a65896ff92f752..ba173252f89a53d9cca772c6981f372d
      },
      {
        invariantKind: "departure",
-@@ -27,8 +27,7 @@ export const monarchAudibleMigration = {
+@@ -27,13 +27,12 @@ export const monarchAudibleMigration = {
      },
      {
        invariantKind: "departure",
 -      statement:
 -        "A row this scheme itself wrote is passed over, so a run does not migrate its own work.",
 +      statement: "A row this scheme itself wrote is passed over.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A credit, an uncategorized charge and a charge noted as reimbursed are recategorized only.",
++        "A credit and an uncategorized charge and a charge noted as reimbursed are recategorized only.",
      },
      {
        invariantKind: "departure",
