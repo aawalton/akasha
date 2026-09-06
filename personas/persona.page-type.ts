@@ -47,7 +47,17 @@ export const persona = {
       },
     },
   },
-  partSlugs: [],
+  partSlugs: [
+    "file-property/appearance",
+    "file-property/portrait",
+    "relation-property/championed-domain-slug",
+    "relation-property/origin",
+    "text-property/history",
+    "text-property/last-messaged-at",
+    "text-property/purpose",
+    "text-property/voice-instruction",
+    "text-property/voice-reference-sha256",
+  ],
   properties: [
     { pagePropertySlug: "text-property/purpose", required: false, many: false },
     { pagePropertySlug: "file-property/portrait", required: false, many: false },

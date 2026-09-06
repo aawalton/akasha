@@ -14,7 +14,7 @@ export const index = {
   slug: "index",
   definition: "one question the pages can be asked, answered by reading one file",
   pluralSlug: "indexes",
-  partSlugs: [],
+  partSlugs: ["text-property/index-name"],
   extendsSlug: ["page-type/module"],
   properties: [
     { pagePropertySlug: "text-property/index-name", required: true, many: false },
@@ -27,7 +27,7 @@ export const index = {
     },
     {
       invariantKind: "departure",
-      statement: "Only a question no index answers is a new one.",
+      statement: "A question no index answers makes a new index.",
     },
     {
       invariantKind: "departure",

@@ -9,8 +9,6 @@ export const persona = {
   partSlugs: [
     "domain/persona-points",
     "email-address-property/email-address",
-    "file-property/appearance",
-    "file-property/portrait",
     "number-property/green-day-points",
     "page-type/closeness-level",
     "page-type/origin-kind",
@@ -69,13 +67,6 @@ export const persona = {
     "persona/vera",
     "persona/zadi",
     "persona/zeli",
-    "relation-property/championed-domain-slug",
-    "relation-property/origin",
-    "text-property/history",
-    "text-property/last-messaged-at",
-    "text-property/purpose",
     "text-property/value-slug",
-    "text-property/voice-instruction",
-    "text-property/voice-reference-sha256",
   ],
 } as const satisfies WorkspacePackage

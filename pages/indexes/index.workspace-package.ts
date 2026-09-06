@@ -27,7 +27,6 @@ export const index = {
     "module/property-carrying",
     "module/index-answering",
     "module/tree-reading",
-    "text-property/index-name",
   ],
   invariants: [
     {
