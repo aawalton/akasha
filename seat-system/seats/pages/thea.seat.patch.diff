@@ -335,7 +335,7 @@ index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..89022557c5bdf7a646014e19392bbc27
    ])
  })
 diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
-index 8c089456d24331b27ea12ac563e293e181a28e4c..363bb6d294645a2f7b52016e5b24028ef7ec2896 100644
+index 8c089456d24331b27ea12ac563e293e181a28e4c..2d6a4459dd264c051d08d88d00eb79c8d322f47f 100644
 --- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
 +++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
 @@ -102,13 +102,18 @@ test("a restatement binding a max that stood unbounded is let through", () => {
@@ -359,7 +359,13 @@ index 8c089456d24331b27ea12ac563e293e181a28e4c..363bb6d294645a2f7b52016e5b24028e
    )
  
    expect(said).toEqual([])
-@@ -179,8 +184,13 @@ test("a restatement raising a total alone is refused for narrowing nothing", ()
+@@ -174,13 +179,18 @@ test("a restatement turning a property from one to many is left to the check ref
+   expect(said).toEqual([])
+ })
+ 
+-test("a restatement raising a total alone is refused for narrowing nothing", () => {
++test("a restatement raising a length alone is refused for narrowing nothing", () => {
+   const root = rooted()
    const said = restating(
      root,
      judged,
