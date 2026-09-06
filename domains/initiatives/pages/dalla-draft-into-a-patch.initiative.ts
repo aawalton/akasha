@@ -60,7 +60,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "Every mechanical change is a change page a refactor command runs.",
       workingMemory:
-        "Three tiers. Partial: `repoint-imports` and `respell-export`, each handed its reach and each breaking the tree alone. Atomic: `rename-local-variable`, `rename-export`, `rename-property-signature` addressed as `Type.property`, `rename-path`, `rename-slug`, each running partial changes and no other change. Refactor: `rename-code-token` and `rename-page-slug`. `rename-slug` spells the exported const now, so nothing is left renaming it.",
+        "Three tiers, told apart by who finds the reach. Partial: `repoint-imports`, `respell-export`, `restate-value`, each handed the files it works over. Atomic: `rename-local-variable`, `rename-export`, `rename-property-signature`, `rename-path`, `rename-slug`. Refactor: `rename-code-token`, `rename-page`. Only `repoint-imports` is run by a command, by accident of a move. The folder `rename-page-slug` keeps its old name until a change page can move a folder.",
     },
     {
       statement: "The change page types are named change-atomic and change-refactor.",
