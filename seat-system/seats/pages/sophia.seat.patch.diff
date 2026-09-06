@@ -140,3 +140,16 @@ index c68f7b906645c1c9d791f1f2875fec39f0258f9f..1ff8d400203490d4b7a9cc63846c8058
  })
  
  test("what this does not reach is printed, and names Grep and Glob", () => {
+diff --git a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.ts b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.ts
+index 4feb7447fb492ae6d8ef24f0d854b1f07aa16ba3..8025aeee7bcafde4d3490eec79bec097d659a612 100644
+--- a/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.ts
++++ b/hook-system/agent-hooks/block-akasha-reads/block-akasha-reads.agent-hook.ts
+@@ -4,7 +4,7 @@ export const blockAkashaReads = {
+   id: "01a04eb3-0e18-748c-9e7f-ae84d9254e02",
+   pageTypeSlug: "agent-hook",
+   slug: "block-akasha-reads",
+-  definition: "a refusal of a Read landing inside the akasha folder, naming the akasha read",
++  definition: "a refusal of a Read landing inside this checkout, naming the akasha read",
+   code: "ts",
+   test: "ts",
+   runsAt: ["PreToolUse"],
