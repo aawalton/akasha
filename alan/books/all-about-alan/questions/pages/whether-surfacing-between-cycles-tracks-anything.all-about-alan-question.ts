@@ -5,5 +5,5 @@ export const whetherSurfacingBetweenCyclesTracksAnything = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-surfacing-between-cycles-tracks-anything",
   topicSlug: "sleep",
-  ask: "Does how often I surface between cycles track anything, such as how much I have left or how stressed I am? I treat the surfacing as harmless.",
+  ask: "I treat surfacing between cycles as harmless. Does how often I surface track anything, such as how much I have left or how stressed I am?",
 } as const satisfies AllAboutAlanQuestion

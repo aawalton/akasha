@@ -5,5 +5,5 @@ export const whetherSimulatingSomeoneReachesTheTruth = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-simulating-someone-reaches-the-truth",
   topicSlug: "what-understanding-cannot-reach",
-  ask: "Is the simulation other people run a channel onto the truth about someone, or an engine projecting their own interior? That one is mine to answer.",
+  ask: "This question is mine to answer: is the simulation other people run a channel onto the truth about someone, or an engine projecting their own interior?",
 } as const satisfies AllAboutAlanQuestion

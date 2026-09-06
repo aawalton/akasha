@@ -5,5 +5,5 @@ export const whetherTheCutRunsTwelveMonthsOrEighteen = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-the-cut-runs-twelve-months-or-eighteen",
   topicSlug: "the-year-i-cut-everyone-out",
-  ask: "Is twelve months the designed length or an old snapshot? Another account reads eighteen, and neither account is the authority.",
+  ask: "Another account reads eighteen, and neither account is the authority: is twelve months the designed length or an old snapshot?",
 } as const satisfies AllAboutAlanQuestion

@@ -5,5 +5,5 @@ export const whetherTheDirectionIndicatorEarnsItsPlace = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-the-direction-indicator-earns-its-place",
   topicSlug: "showing-jen-where-i-am",
-  ask: "Does the direction indicator earn its place on the widget, or is the level alone what gets read? The build is what answers that.",
+  ask: "The build is what answers this: does the direction indicator earn its place on the widget, or is the level alone what gets read?",
 } as const satisfies AllAboutAlanQuestion

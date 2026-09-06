@@ -5,5 +5,5 @@ export const whetherTheBookIsWhatItClaims = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-the-book-is-what-it-claims",
   topicSlug: "testing-the-thing-at-my-centre",
-  ask: "Does the one axiom hold, that the book is what it claims to be? That is a live test rather than an unwritten page.",
+  ask: "As a live test rather than an unwritten page, does the one axiom hold, that the book is what it claims to be?",
 } as const satisfies AllAboutAlanQuestion

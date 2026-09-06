@@ -5,5 +5,5 @@ export const whetherTheDysphoriaYearsSitDifferentlyNow = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-the-dysphoria-years-sit-differently-now",
   topicSlug: "what-i-thought-was-dysphoria",
-  ask: "Now that I have the layers and the measurement error, does the whole thing sit differently rather than as a condition I have? The question is about fit, not about how much it hurts.",
+  ask: "This asks about fit, not about how much it hurts: now that I have the layers and the measurement error, does the whole thing sit differently rather than as a condition I have?",
 } as const satisfies AllAboutAlanQuestion
