@@ -132,10 +132,12 @@ export function parseExportDateLine(line: string): number | undefined {
   return appleDateToMs(parsed.data.value)
 }
 
+export const NO_FILE = "NOFILE"
+
 export function parseHealthExport(stdout: string): HealthExport {
   const lines = stdout.split("\n")
   const first = lines[0]?.trim() ?? ""
-  if (first === "NOFILE" || first === "") {
+  if (first === NO_FILE || first === "") {
     return { sourceFile: null, exportedAtMs: undefined, records: [], skipped: 0 }
   }
   const sourceFile = first.startsWith("FILE\t") ? first.slice("FILE\t".length) : null

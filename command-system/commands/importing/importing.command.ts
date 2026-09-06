@@ -12,7 +12,7 @@ export const importing = {
     { said: "<subject>", takes: "what is brought in, which is `health`" },
     {
       said: "--path <file>",
-      takes: "the export on the macbook to read, in place of the newest export there",
+      takes: "the export to read, in place of the newest export the machine holds",
     },
     { said: "--since <YYYY-MM-DD>", takes: "the first civil day to bring in" },
     { said: "--batch <n>", takes: "how many readings one write carries, 1 to 1000" },
@@ -24,10 +24,11 @@ export const importing = {
   ],
   helpNotes: [
     "the subject comes first, and one call brings in one subject.",
-    "`health` reads an Apple Health export on the macbook over ssh and lands the active energy and step count records the export holds in the sample store.",
-    "the export is the newest `export*.zip` in the Mac's `~/Downloads` unless `--path` names another.",
-    "the phone writes that zip and nothing here makes the zip, so a Mac holding none refuses the call rather than waiting.",
-    "records are filtered on the macbook, so a call naming `--since` moves less over the wire than a call naming none.",
+    "`health` reads an Apple Health export and lands the active energy and step count records that export holds in the sample store.",
+    "the export is the newest `export*.zip` in `~/Downloads` unless `--path` names another.",
+    "this workstation is looked in first and the macbook is reached over ssh only where this workstation holds no export.",
+    "the phone writes that zip and nothing here makes the zip, so neither machine holding one refuses the call rather than waiting.",
+    "records are filtered on the machine holding the export, so a call naming `--since` reads less than a call naming none.",
     "`--since` bounds the import below and nothing bounds the import above, so a day named far back brings in every record after that day.",
     "a call naming no `--since` brings in the whole history the export holds.",
     "a run that ends part way leaves a checkpoint keyed by the export, the day named and the metrics, and the next call takes that run up where the run ended.",
@@ -71,7 +72,11 @@ export const importing = {
     },
     {
       invariantKind: "departure",
-      statement: "An export the macbook does not hold refuses the call.",
+      statement: "This workstation is looked in before the macbook is reached.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An export neither machine holds refuses the call.",
     },
     {
       invariantKind: "absence",
@@ -79,7 +84,7 @@ export const importing = {
     },
     {
       invariantKind: "gap",
-      statement: "Whether the export on the macbook is current is answered by nothing here.",
+      statement: "Whether the export read is current is answered by nothing here.",
     },
   ],
 } as const satisfies Command
