@@ -20,7 +20,6 @@ export const change = {
   pluralSlug: "changes",
   extendsSlug: ["page-type/module"],
   partSlugs: [
-    "page-type/change-partial",
     "page-type/change-command",
     "page-type/change-checked",
     "page-type/change-authored",

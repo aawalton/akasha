@@ -25,6 +25,10 @@ export const addressMapping = {
     },
     {
       invariantKind: "departure",
+      statement: "A body the landing rewrites is read through the shadow rather than off the disk.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The map is written again on every landing rather than when a change moves.",
     },
     {

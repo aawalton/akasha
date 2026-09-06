@@ -12,7 +12,6 @@ const RUNNER = "change-runner"
 
 const REACHED = [
   "change",
-  "change-partial",
   "change-command",
   "change-mechanical",
   "change-checked",
@@ -56,14 +55,10 @@ function specifierFor(from: string, to: string): string {
   return said.startsWith(".") ? said : `./${said}`
 }
 
-// A change is reached by address only where its code exports the run, so a change not yet
-// written that way is left out of the map rather than named in a map that will not compile.
 function declaresRun(text: string): boolean {
   return new RegExp(`export (async )?function ${RUN_CHANGE}\\b`).test(text)
 }
 
-// The shadow answers the path on disk holding a body, and a body the change rewrites sits at no
-// such path, so reading through the shadow drops every change the landing itself touches.
 export function textOver(root: string, change: Change): (path: string) => string | null {
   const carried = new Set(change.changed)
   return (path) => {
@@ -108,9 +103,6 @@ export function bodyFor(addresses: readonly Address[]): string {
   return `${lines.join("\n")}\n`
 }
 
-// The address map is written again from the addresses reached on every apply, so this module is the
-// one writer of that body. An edit a change answers for the map is dropped rather than landed,
-// because two writers for one path make a stale read out of a body no reader read wrong.
 export function writtenAgain(path: string): boolean {
   const said = partedIn(path)
   if (said === null || said.pageType !== RUNNER) return false
