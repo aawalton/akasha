@@ -10,7 +10,11 @@ export const luaMarshal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A missing value and a null value both become `nil`.",
+      statement: "A missing value becomes `nil`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A null value becomes `nil`.",
     },
     {
       invariantKind: "departure",
@@ -30,7 +34,7 @@ export const luaMarshal = {
     },
     {
       invariantKind: "departure",
-      statement: "A long literal is fenced with as many equals signs as the text forces.",
+      statement: "A long literal is fenced with the equals signs the text forces.",
     },
     {
       invariantKind: "absence",
