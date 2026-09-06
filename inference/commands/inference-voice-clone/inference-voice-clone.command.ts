@@ -43,7 +43,7 @@ export const inferenceVoiceClone = {
     },
     {
       invariantKind: "departure",
-      statement: "A call naming no clip uses the one the host was provisioned with.",
+      statement: "A call naming no clip uses the clip the host was provisioned with.",
     },
     {
       invariantKind: "departure",
