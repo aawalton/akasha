@@ -23,9 +23,9 @@ export const component = {
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "component-code", required: true, many: false },
-    { pagePropertySlug: "component-test", required: false, many: false },
-    { pagePropertySlug: "component-test-fixtures", required: false, many: false },
+    { pagePropertySlug: "file-property/component-code", required: true, many: false },
+    { pagePropertySlug: "file-property/component-test", required: false, many: false },
+    { pagePropertySlug: "file-property/component-test-fixtures", required: false, many: false },
   ],
   invariants: [
     {

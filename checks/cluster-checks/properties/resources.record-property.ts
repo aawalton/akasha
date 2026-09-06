@@ -16,9 +16,9 @@ export const resources = {
   propertySlug: "resources",
   definition: "the compute a pod asks for and is held to",
   properties: [
-    { pagePropertySlug: "request-memory", required: false, many: false },
-    { pagePropertySlug: "limit-memory", required: false, many: false },
-    { pagePropertySlug: "request-cpu", required: false, many: false },
+    { pagePropertySlug: "text-property/request-memory", required: false, many: false },
+    { pagePropertySlug: "text-property/limit-memory", required: false, many: false },
+    { pagePropertySlug: "text-property/request-cpu", required: false, many: false },
   ],
   invariants: [
     {

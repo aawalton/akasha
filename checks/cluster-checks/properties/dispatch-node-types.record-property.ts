@@ -17,8 +17,8 @@ export const dispatchNodeTypes = {
   propertySlug: "dispatch-node-types",
   definition: "the tree nodes whose change wakes a check, each narrowed to a path or not",
   properties: [
-    { pagePropertySlug: "node-kind", required: true, many: false },
-    { pagePropertySlug: "under", required: false, many: false },
+    { pagePropertySlug: "text-property/node-kind", required: true, many: false },
+    { pagePropertySlug: "text-property/under", required: false, many: false },
   ],
   invariants: [
     {

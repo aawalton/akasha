@@ -15,14 +15,14 @@ export const listens = {
     "text-property/play-key",
   ],
   properties: [
-    { pagePropertySlug: "play-key", required: true, many: false },
-    { pagePropertySlug: "spotify-track-id", required: true, many: false },
-    { pagePropertySlug: "played-at", required: true, many: false },
-    { pagePropertySlug: "track-name", required: false, many: false },
-    { pagePropertySlug: "artist-name", required: false, many: false },
-    { pagePropertySlug: "minutes", required: false, many: false },
-    { pagePropertySlug: "first-listen", required: false, many: false },
-    { pagePropertySlug: "new-music-minutes", required: false, many: false },
+    { pagePropertySlug: "text-property/play-key", required: true, many: false },
+    { pagePropertySlug: "text-property/spotify-track-id", required: true, many: false },
+    { pagePropertySlug: "instant-property/played-at", required: true, many: false },
+    { pagePropertySlug: "text-property/track-name", required: false, many: false },
+    { pagePropertySlug: "text-property/artist-name", required: false, many: false },
+    { pagePropertySlug: "number-property/minutes", required: false, many: false },
+    { pagePropertySlug: "boolean-property/first-listen", required: false, many: false },
+    { pagePropertySlug: "number-property/new-music-minutes", required: false, many: false },
   ],
   invariants: [
     {

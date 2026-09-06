@@ -24,9 +24,14 @@ export const modelCheck = {
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "model-test-slugs", required: true, many: true, max: null },
-    { pagePropertySlug: "patch-runs", required: true, many: false },
-    { pagePropertySlug: "audit-runs", required: true, many: false },
+    {
+      pagePropertySlug: "relation-property/model-test-slugs",
+      required: true,
+      many: true,
+      max: null,
+    },
+    { pagePropertySlug: "number-property/patch-runs", required: true, many: false },
+    { pagePropertySlug: "number-property/audit-runs", required: true, many: false },
   ],
   invariants: [
     {

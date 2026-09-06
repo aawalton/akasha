@@ -43,7 +43,7 @@ export const syntaxRule = {
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "code-check/no-refused-syntax",
-  properties: [{ pagePropertySlug: "test", required: true, many: false }],
+  properties: [{ pagePropertySlug: "file-property/test", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

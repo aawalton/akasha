@@ -25,8 +25,8 @@ export const changeKind = {
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "runs-checks", required: true, many: false },
-    { pagePropertySlug: "runs-warrants", required: true, many: false },
+    { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
+    { pagePropertySlug: "boolean-property/runs-warrants", required: true, many: false },
   ],
   invariants: [
     {

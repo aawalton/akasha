@@ -31,12 +31,12 @@ export const lifeTheme = {
     "select-property/life-theme-status",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "end-date", required: false, many: false },
-    { pagePropertySlug: "life-theme-parent-slug", required: false, many: false },
-    { pagePropertySlug: "start-date", required: false, many: false },
-    { pagePropertySlug: "life-theme-status", required: true, many: false },
-    { pagePropertySlug: "life-theme-value-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "calendar-date-property/end-date", required: false, many: false },
+    { pagePropertySlug: "relation-property/life-theme-parent-slug", required: false, many: false },
+    { pagePropertySlug: "calendar-date-property/start-date", required: false, many: false },
+    { pagePropertySlug: "select-property/life-theme-status", required: true, many: false },
+    { pagePropertySlug: "relation-property/life-theme-value-slug", required: true, many: false },
   ],
   invariants: [
     {

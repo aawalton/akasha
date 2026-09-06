@@ -28,8 +28,8 @@ export const iosHarness = {
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "swift", required: false, many: false },
-    { pagePropertySlug: "main", required: false, many: false },
+    { pagePropertySlug: "file-property/swift", required: false, many: false },
+    { pagePropertySlug: "named-file-property/main", required: false, many: false },
   ],
   invariants: [
     {

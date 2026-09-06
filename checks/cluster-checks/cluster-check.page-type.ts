@@ -108,13 +108,18 @@ export const clusterCheck = {
     "text-property/under",
   ],
   properties: [
-    { pagePropertySlug: "dispatch-node-types", required: false, many: true, max: null },
-    { pagePropertySlug: "always-run", required: false, many: false },
-    { pagePropertySlug: "tree-sha", required: false, many: false },
-    { pagePropertySlug: "resources", required: false, many: false },
-    { pagePropertySlug: "image", required: false, many: false },
-    { pagePropertySlug: "environment", required: false, many: false },
-    { pagePropertySlug: "closure-policy", required: false, many: false },
+    {
+      pagePropertySlug: "record-property/dispatch-node-types",
+      required: false,
+      many: true,
+      max: null,
+    },
+    { pagePropertySlug: "boolean-property/always-run", required: false, many: false },
+    { pagePropertySlug: "boolean-property/tree-sha", required: false, many: false },
+    { pagePropertySlug: "record-property/resources", required: false, many: false },
+    { pagePropertySlug: "text-property/image", required: false, many: false },
+    { pagePropertySlug: "text-property/environment", required: false, many: false },
+    { pagePropertySlug: "text-property/closure-policy", required: false, many: false },
   ],
   invariants: [
     {

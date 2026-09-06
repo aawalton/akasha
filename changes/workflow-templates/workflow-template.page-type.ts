@@ -26,10 +26,15 @@ export const workflowTemplate = {
     "select-property/workflow-kind",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "workflow-kind", required: true, many: false },
-    { pagePropertySlug: "declaration", required: true, many: false },
-    { pagePropertySlug: "workflow-cluster-service-slugs", required: false, many: true, max: null },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "select-property/workflow-kind", required: true, many: false },
+    { pagePropertySlug: "file-property/declaration", required: true, many: false },
+    {
+      pagePropertySlug: "relation-property/workflow-cluster-service-slugs",
+      required: false,
+      many: true,
+      max: null,
+    },
   ],
   invariants: [
     {

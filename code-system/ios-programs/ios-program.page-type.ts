@@ -40,13 +40,18 @@ export const iosProgram = {
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "bundle-id", required: false, many: false },
-    { pagePropertySlug: "component-slugs", required: false, many: true, max: null },
-    { pagePropertySlug: "profile-name", required: false, many: false },
-    { pagePropertySlug: "target-name", required: false, many: false },
-    { pagePropertySlug: "main", required: false, many: false },
-    { pagePropertySlug: "info-plist", required: false, many: false },
-    { pagePropertySlug: "entitlements", required: false, many: false },
+    { pagePropertySlug: "text-property/bundle-id", required: false, many: false },
+    {
+      pagePropertySlug: "relation-property/component-slugs",
+      required: false,
+      many: true,
+      max: null,
+    },
+    { pagePropertySlug: "text-property/profile-name", required: false, many: false },
+    { pagePropertySlug: "text-property/target-name", required: false, many: false },
+    { pagePropertySlug: "named-file-property/main", required: false, many: false },
+    { pagePropertySlug: "file-property/info-plist", required: false, many: false },
+    { pagePropertySlug: "file-property/entitlements", required: false, many: false },
   ],
   invariants: [
     {

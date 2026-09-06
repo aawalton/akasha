@@ -31,12 +31,28 @@ export const relationshipDeposit = {
     "select-property/relationship-deposit-size",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "relationship-deposit-date", required: true, many: false },
-    { pagePropertySlug: "relationship-deposit-persona-slug", required: true, many: false },
-    { pagePropertySlug: "relationship-deposit-relationship-slug", required: true, many: false },
-    { pagePropertySlug: "relationship-deposit-size", required: true, many: false },
-    { pagePropertySlug: "relationship-deposit-value-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    {
+      pagePropertySlug: "calendar-date-property/relationship-deposit-date",
+      required: true,
+      many: false,
+    },
+    {
+      pagePropertySlug: "relation-property/relationship-deposit-persona-slug",
+      required: true,
+      many: false,
+    },
+    {
+      pagePropertySlug: "relation-property/relationship-deposit-relationship-slug",
+      required: true,
+      many: false,
+    },
+    { pagePropertySlug: "select-property/relationship-deposit-size", required: true, many: false },
+    {
+      pagePropertySlug: "relation-property/relationship-deposit-value-slug",
+      required: true,
+      many: false,
+    },
   ],
   invariants: [
     {

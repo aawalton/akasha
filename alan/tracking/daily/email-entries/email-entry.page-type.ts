@@ -19,9 +19,9 @@ export const emailEntry = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["number-property/lowest-inbox-count"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "date", required: true, many: false },
-    { pagePropertySlug: "lowest-inbox-count", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/date", required: true, many: false },
+    { pagePropertySlug: "number-property/lowest-inbox-count", required: false, many: false },
   ],
   invariants: [
     {

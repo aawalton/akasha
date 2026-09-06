@@ -28,11 +28,11 @@ export const foodEntry = {
     "number-property/plant-grams",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "happened-at", required: true, many: false },
-    { pagePropertySlug: "plant-grams", required: false, many: false },
-    { pagePropertySlug: "estimated-calories", required: false, many: false },
-    { pagePropertySlug: "food-entry-note", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "instant-property/happened-at", required: true, many: false },
+    { pagePropertySlug: "number-property/plant-grams", required: false, many: false },
+    { pagePropertySlug: "number-property/estimated-calories", required: false, many: false },
+    { pagePropertySlug: "file-property/food-entry-note", required: false, many: false },
   ],
   invariants: [
     {

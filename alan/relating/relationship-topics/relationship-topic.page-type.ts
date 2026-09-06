@@ -28,11 +28,24 @@ export const relationshipTopic = {
     "select-property/relationship-topic-status",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "relationship-topic-parent-slug", required: false, many: false },
-    { pagePropertySlug: "relationship-topic-person-slugs", required: false, many: true, max: null },
-    { pagePropertySlug: "relationship-topic-sensitivity", required: true, many: false },
-    { pagePropertySlug: "relationship-topic-status", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    {
+      pagePropertySlug: "relation-property/relationship-topic-parent-slug",
+      required: false,
+      many: false,
+    },
+    {
+      pagePropertySlug: "relation-property/relationship-topic-person-slugs",
+      required: false,
+      many: true,
+      max: null,
+    },
+    {
+      pagePropertySlug: "select-property/relationship-topic-sensitivity",
+      required: true,
+      many: false,
+    },
+    { pagePropertySlug: "select-property/relationship-topic-status", required: true, many: false },
   ],
   invariants: [
     {

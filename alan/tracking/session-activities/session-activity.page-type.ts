@@ -21,10 +21,10 @@ export const sessionActivity = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["number-property/default-difficulty"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "default-difficulty", required: true, many: false },
-    { pagePropertySlug: "icon", required: false, many: false },
-    { pagePropertySlug: "seq", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "number-property/default-difficulty", required: true, many: false },
+    { pagePropertySlug: "text-property/icon", required: false, many: false },
+    { pagePropertySlug: "number-property/seq", required: false, many: false },
   ],
   invariants: [
     {

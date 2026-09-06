@@ -14,7 +14,7 @@ export const javascriptModule = {
   pluralSlug: "javascript-modules",
   partSlugs: ["file-property/javascript"],
   extendsSlug: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "javascript", required: true, many: false }],
+  properties: [{ pagePropertySlug: "file-property/javascript", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

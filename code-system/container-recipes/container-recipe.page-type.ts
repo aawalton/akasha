@@ -14,7 +14,7 @@ export const containerRecipe = {
   pluralSlug: "container-recipes",
   partSlugs: ["named-file-property/recipe"],
   extendsSlug: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "recipe", required: true, many: false }],
+  properties: [{ pagePropertySlug: "named-file-property/recipe", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

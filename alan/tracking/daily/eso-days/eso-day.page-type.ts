@@ -33,11 +33,11 @@ export const esoDay = {
     "text-property/surplus-tier-said",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "eso-day", required: true, many: false },
-    { pagePropertySlug: "surplus-tier-said", required: false, many: false },
-    { pagePropertySlug: "health-samples", required: false, many: false },
-    { pagePropertySlug: "listens", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/eso-day", required: true, many: false },
+    { pagePropertySlug: "text-property/surplus-tier-said", required: false, many: false },
+    { pagePropertySlug: "page-property-entry/health-samples", required: false, many: false },
+    { pagePropertySlug: "page-property-entry/listens", required: false, many: false },
   ],
   invariants: [
     {

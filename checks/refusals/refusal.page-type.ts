@@ -18,8 +18,8 @@ export const refusal = {
   mortal: true,
   partSlugs: ["text-property/refusal-text"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "refusal-text", required: true, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "text-property/refusal-text", required: true, many: false },
   ],
   invariants: [
     {

@@ -17,8 +17,8 @@ export const esoInterface = {
   partSlugs: ["file-property/markup", "text-property/loaded-as"],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "markup", required: true, many: false },
-    { pagePropertySlug: "loaded-as", required: true, many: false },
+    { pagePropertySlug: "file-property/markup", required: true, many: false },
+    { pagePropertySlug: "text-property/loaded-as", required: true, many: false },
   ],
   invariants: [
     {
