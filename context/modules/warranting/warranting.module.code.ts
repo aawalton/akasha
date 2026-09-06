@@ -9,17 +9,9 @@ import {
   SUBAGENT_MARK,
   sameBody,
 } from "@akasha/command-system/reading"
-import {
-  everyOfType,
-  readingIn as indexReadingIn,
-  listedAt,
-  listedById,
-  slugsOfType,
-} from "@akasha/indexes"
+import { everyOfType, listedAt, listedById, slugsOfType } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
-import { listedAbove } from "@akasha/pages/page-type-descent"
-import { valueAt } from "@akasha/pages/page-value"
 import { slugOf } from "@akasha/seat-system/subagent-presence"
 
 const READ_CALL = "akasha read --file-path"
@@ -69,7 +61,6 @@ export type Owing = {
 
 export type Known = {
   readonly types: ReadonlySet<string>
-  readonly above: () => ReadonlyMap<string, readonly string[]>
 }
 
 export type Knowing = () => Known
@@ -102,12 +93,7 @@ const loadFrom = createRequire(import.meta.url)
 
 export function knowingIn(root: string): Knowing {
   let known: Known | null = null
-  let above: ReadonlyMap<string, readonly string[]> | null = null
-  return () =>
-    (known ??= {
-      types: new Set<string>([PAGE_TYPE, ...slugsOfType(root, PAGE_TYPE)]),
-      above: () => (above ??= listedAbove(indexReadingIn(root), (path) => valueAt(path, root))),
-    })
+  return () => (known ??= { types: new Set<string>([PAGE_TYPE, ...slugsOfType(root, PAGE_TYPE)]) })
 }
 
 export function fromTabooTerm(warrant: Warrant): boolean {
