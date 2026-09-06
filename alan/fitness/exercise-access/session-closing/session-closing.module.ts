@@ -19,8 +19,11 @@ export const sessionClosing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A session abandoned closes at its last set, and at its start where no set states a time.",
+      statement: "A session abandoned closes at its last set.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A session whose sets state no time closes at that session's start.",
     },
     {
       invariantKind: "departure",
@@ -29,13 +32,15 @@ export const sessionClosing = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A set states no time that set was logged, so every close falls back to the session's start.",
+      statement: "A set states no time that set was logged.",
     },
     {
       invariantKind: "gap",
-      statement:
-        "Nothing here writes a close back, because the on-workstation write of a page file is the service's.",
+      statement: "Nothing here writes a close back.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "The on-workstation write of a page file is the service's.",
     },
   ],
 } as const satisfies Module
