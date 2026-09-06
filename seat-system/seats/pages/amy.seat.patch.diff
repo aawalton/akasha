@@ -81,3 +81,15 @@ index 0119fb7ba924fb575c008cd3f65755c77704bf91..7b9b6fa8d185d26169ce957a8eb8a13b
 +  pageType: "relationship",
    viewPlace: 0,
  } as const satisfies View
+diff --git a/pages/views/pages/dungeons-list.view.ts b/pages/views/pages/dungeons-list.view.ts
+index 845f38c39817aae1aade2ba6130fee4bc7c8f5cd..d243cc7ce3872ae7a736f959abb8750f2a4044ad 100644
+--- a/pages/views/pages/dungeons-list.view.ts
++++ b/pages/views/pages/dungeons-list.view.ts
+@@ -6,6 +6,7 @@ export const dungeonsList = {
+   slug: "dungeons-list",
+   title: "List",
+   navSlug: "dungeons",
++  pageType: "temper-dungeon",
+   viewPlace: 0,
+   viewSorts: [{ key: "rotation-position", descending: true }],
+   groupBy: "solo-difficulty",
