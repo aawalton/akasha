@@ -1,4 +1,11 @@
+import type { Change } from "../../change.page-type.ts"
 import type { ChangeKind } from "../change-kind.page-type.ts"
+
+export type ChangeMechanical = Change & {
+  runsChecks: false
+  readersOweReading: false
+  writerOwesReading: false
+}
 
 export const changeMechanical = {
   id: "01a05df1-e262-72e3-8f24-d6e5e4ed122d",
