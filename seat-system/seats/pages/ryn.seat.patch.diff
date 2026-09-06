@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts b/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts
+index 58c6eac8274c7f9185d6eed5cf417139efa616eb..8ea48e1b293b777d43c83062e0ee878390640445 100644
+--- a/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts
++++ b/temper/temper-addon-data/addon-data-proof/addon-data-proof.module.ts
+@@ -22,7 +22,8 @@ export const addonDataProof = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A section is driven on its own so that a section that throws hides no other.",
++      statement:
++        "A section is driven on its own so that a section that throws hides no second section.",
+     },
+     {
+       invariantKind: "departure",
