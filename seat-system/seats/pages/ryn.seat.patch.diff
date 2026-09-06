@@ -1,0 +1,18 @@
+diff --git a/command-system/commands/refactor/type-renaming/type-renaming.module.ts b/command-system/commands/refactor/type-renaming/type-renaming.module.ts
+index df312ca701f13bfbc6b8bb1412df2688344a66bd..c746144b3e0f1285c43c1b0ab98ac6c525a7f06a 100644
+--- a/command-system/commands/refactor/type-renaming/type-renaming.module.ts
++++ b/command-system/commands/refactor/type-renaming/type-renaming.module.ts
+@@ -53,8 +53,11 @@ export const typeRenaming = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The folder holding many of its pages is named for its plural and moves with that.",
++      statement: "The folder holding a type's pages is named for that type's plural.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That folder moves with the type.",
+     },
+     {
+       invariantKind: "departure",
