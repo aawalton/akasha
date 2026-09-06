@@ -1,5 +1,5 @@
 diff --git a/seat-system/subagents/presence/subagent-presence.module.code.ts b/seat-system/subagents/presence/subagent-presence.module.code.ts
-index 72c2f8dc7ed85e7c912a5651b9e781a607b199d8..1d5b814f8acf3bfabdd049999bb589948b4a9428 100644
+index 72c2f8dc7ed85e7c912a5651b9e781a607b199d8..dd45d669293484a93da133bd259f809ea0c2f46e 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.code.ts
 +++ b/seat-system/subagents/presence/subagent-presence.module.code.ts
 @@ -320,6 +320,40 @@ export function stampedAt(when: Date): string {
@@ -43,6 +43,19 @@ index 72c2f8dc7ed85e7c912a5651b9e781a607b199d8..1d5b814f8acf3bfabdd049999bb58994
  function saying(why: string): number {
    process.stderr.write(`${stampedAt(new Date())} ${CALLED_AS}: ${why}\n`)
    return 1
+@@ -345,9 +379,10 @@ export async function ran(argv: readonly string[]): Promise<number> {
+     if (dispatchedAs === undefined || dispatchedAs === "")
+       return saying(`${at} — no kind was named`)
+     if (seatId === undefined || seatId === "") return saying(`${at} — no seat id was named`)
+-    return answering(await wrote(root, seatName, seatId, own, dispatchedAs), at)
++    const put = await landingAgain(() => wrote(root, seatName, seatId, own, dispatchedAs))
++    return answering(put, at)
+   }
+-  if (act === TAKING) return answering(await took(root, seatName, own), at)
++  if (act === TAKING) return answering(await landingAgain(() => took(root, seatName, own)), at)
+   return saying(`\`${act}\` is no act this takes`)
+ }
+ 
 diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
 index 71b1c9cff57cffa813d5b45643073156c9a76e96..15d8960e564e93509f0026bcf075190045950118 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.ts
