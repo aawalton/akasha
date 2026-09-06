@@ -56,6 +56,56 @@ index 0000000000000000000000000000000000000000..e3d47ca929ac339c1a014b5c76c4f64f
 +    },
 +  ],
 +} as const satisfies PageType
+diff --git a/changes/runners/properties/addressed.named-file-property.ts b/changes/runners/properties/addressed.named-file-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d4a23bc5e01fc5ecf07f032216f7381b17ea270e
+--- /dev/null
++++ b/changes/runners/properties/addressed.named-file-property.ts
+@@ -0,0 +1,44 @@
++import type { NamedFileProperty } from "@akasha/pages/named-file-property"
++
++export type Addressed = "ts"
++
++export const addressed = {
++  id: "01a077c2-e56c-7a83-b853-f1e2a316e26f",
++  pageTypeSlug: "named-file-property",
++  slug: "addressed",
++  propertySlug: "addressed",
++  definition: "the type binding each change address to that change's own arguments",
++  fileName: "addressed.d.ts",
++  machineWritten: true,
++  runsFileLength: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The map is beside the page of the runner stating this property.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The map is written by a command rather than by an author.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "TypeScript reads a name ending `.d.ts` as a declaration.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The map binds an address to the arguments the change takes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The map reads a change's signature rather than restating that signature.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An address the map does not hold is refused where that address is written.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "A compiler emits nothing from the map.",
++    },
++  ],
++} as const satisfies NamedFileProperty
 diff --git a/code-system/type-declarations/type-declaration.page-type.ts b/code-system/type-declarations/type-declaration.page-type.ts
 index 0ccaa58031909f5f8aca99a1e5a11d363db666ed..2d463a2069d10bcc294475b29dfa481858ab46e2 100644
 --- a/code-system/type-declarations/type-declaration.page-type.ts
