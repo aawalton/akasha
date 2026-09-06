@@ -11,6 +11,34 @@ index 0bd8666fb79eb141a5e5d5946eec279c8d25d39d..70fda391cb94252d2243d37de5b46b98
    filters: [{ propertyId: "favoritedAt", operator: "is_not_empty" }],
    sorts: [{ field: "favoritedAt", direction: "desc" }],
    limit: 100,
+diff --git a/pages/core/schema/cross-type-predicates/cross-type-predicates.module.test.ts b/pages/core/schema/cross-type-predicates/cross-type-predicates.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..60acd51f09abfc4dcd55a0400e7b38f8553c52e4
+--- /dev/null
++++ b/pages/core/schema/cross-type-predicates/cross-type-predicates.module.test.ts
+@@ -0,0 +1,22 @@
++import { expect, test } from "bun:test"
++import {
++  CROSS_TYPE_PREDICATES,
++  getCrossTypePredicate,
++} from "./cross-type-predicates.module.code.ts"
++
++test("a predicate is reached by the key a view writes", () => {
++  expect(getCrossTypePredicate("favorites")?.filters[0]?.propertyId).toBe("favoritedAt")
++  expect(getCrossTypePredicate("recently-viewed")?.filters[0]?.propertyId).toBe("lastViewedAt")
++})
++
++test("a predicate is keyed as a view spells a predicate", () => {
++  for (const key of Object.keys(CROSS_TYPE_PREDICATES)) expect(key).toBe(key.toLowerCase())
++})
++
++test("a predicate is filed under the key it states", () => {
++  for (const [key, one] of Object.entries(CROSS_TYPE_PREDICATES)) expect(one.key).toBe(key)
++})
++
++test("a key no predicate states is answered with nothing", () => {
++  expect(getCrossTypePredicate("FAVORITES")).toBeUndefined()
++})
 diff --git a/pages/core/schema/cross-type-predicates/cross-type-predicates.module.ts b/pages/core/schema/cross-type-predicates/cross-type-predicates.module.ts
 index 08f938473586f5a80cd393a94a018620334cfad6..a63cca532ffde4ef8c90fb8084bba5cd6a912099 100644
 --- a/pages/core/schema/cross-type-predicates/cross-type-predicates.module.ts
