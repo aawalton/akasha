@@ -1,0 +1,18 @@
+diff --git a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts b/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts
+index ecf63460cd3b1d4c90d10024ddcc5dbe48bd8451..2f01c85c218b520db54c0c85624a752a151fade0 100644
+--- a/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts
++++ b/alan/harness/monarch/rule-pages/monarch-rule-pages.module.ts
+@@ -13,8 +13,11 @@ export const monarchRulePages = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A slug that names no existing category is refused, so a merged or renamed category is loud.",
++      statement: "A slug that names no existing category is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A merged or renamed category is loud.",
+     },
+     {
+       invariantKind: "departure",
