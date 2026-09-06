@@ -43,3 +43,26 @@ index b68cc92e71439187a10f0923dc82ef8d02cfa2fc..d7a2c79ecf2317c7914ca5fb89204f93
        } catch (error: unknown) {
          console.error("[deep-link] getLaunchUrl threw", error)
        }
+diff --git a/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts b/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
+index f983f98532fb927228d0cd4199cc0c2fcf23246b..6f6ab1a435df06d96e65145371eb49457979a94b 100644
+--- a/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
++++ b/alan/web/deep-link-open-sync/deep-link-open-sync.module.ts
+@@ -31,5 +31,18 @@ export const deepLinkOpenSync = {
+       invariantKind: "departure",
+       statement: "A link the listener already carried is not carried again as the launch link.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "The link the app was launched by is counted once however many readers take that link.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "One link arriving twice at startup reads as two identical links arriving.",
++    },
++    {
++      invariantKind: "stopgap",
++      statement: "The second of two identical links at startup is counted as no tap of its own.",
++    },
+   ],
+ } as const satisfies Module
