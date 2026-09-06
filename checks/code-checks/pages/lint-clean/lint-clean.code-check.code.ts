@@ -6,26 +6,44 @@ import type { Body, Selector } from "../../../modules/change-walking/change-walk
 import { FILES, input } from "../../../modules/change-walking/change-walking.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 
-const READ: readonly string[] = [".ts", ".tsx", ".css"]
+const CONFIG = "biome.json"
+
+const NAMES = "**/*."
 
 const WORLD = "the world this change was stood up in"
 
 const UNLOOKED = "A linter that could not look has verified nothing, so this change is not judged."
 
-export function lookedAt(path: string): boolean {
-  return READ.some((one) => path.endsWith(one))
+export function readsIn(said: Uint8Array | null): readonly string[] | null {
+  if (said === null) return null
+  const found: string[] = []
+  try {
+    const held = JSON.parse(new TextDecoder().decode(said)) as {
+      files?: { includes?: readonly string[] }
+    }
+    for (const one of held.files?.includes ?? []) {
+      if (one.startsWith(NAMES)) found.push(one.slice(NAMES.length - 1))
+    }
+  } catch {
+    return null
+  }
+  return found.length === 0 ? null : found
+}
+
+export function lookedAt(path: string, reads: readonly string[] | null): boolean {
+  return reads === null || reads.some((one) => path.endsWith(one))
 }
 
 const LOOKED: Selector<Body> = {
-  named: "the files the linter reads",
-  isInput: (path) => lookedAt(path),
-  from: (change, shadow) => FILES.from(change, shadow).filter((one) => lookedAt(one.path)),
+  named: "the files the linter reads and the configuration naming them",
+  isInput: () => true,
+  from: (change, shadow) => FILES.from(change, shadow),
 }
 
-export function carriedIn(change: Change): readonly string[] {
+export function carriedIn(change: Change, reads: readonly string[] | null): readonly string[] {
   const held = new Set<string>()
   for (const one of change.changed) {
-    if (!lookedAt(one)) continue
+    if (!lookedAt(one, reads)) continue
     if (change.after(one) === null) continue
     held.add(one)
   }
@@ -51,7 +69,7 @@ export function judgedOf(linted: Linted, first: string, root: string): readonly 
 }
 
 function refusalsIn(change: Change): readonly Judged[] {
-  const carried = carriedIn(change)
+  const carried = carriedIn(change, readsIn(change.after(CONFIG)))
   const first = carried[0]
   if (first === undefined) return []
   const world = worldOf(change.root, carried, change.after, null)

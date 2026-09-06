@@ -17,8 +17,13 @@ import {
   lintClean,
   lookedAt,
   outsideOf,
+  readsIn,
   reasonOf,
 } from "./lint-clean.code-check.code.ts"
+
+const READS: readonly string[] = [".ts", ".tsx", ".css"]
+
+const said = (text: string) => new TextEncoder().encode(text)
 
 const REPO_AT = rootOf(import.meta.dir)
 
@@ -27,7 +32,8 @@ const MODULES = "node_modules"
 const CONFIG = "biome.json"
 
 const SETTINGS =
-  '{"formatter":{"enabled":false},"assist":{"enabled":false},"linter":{"rules":' +
+  '{"files":{"includes":["**/*.ts","**/*.tsx","**/*.css"]},' +
+  '"formatter":{"enabled":false},"assist":{"enabled":false},"linter":{"rules":' +
   '{"recommended":false,"correctness":{"noUnusedVariables":"error"}}}}\n'
 
 const CLEAN = "export function held(): number {\n  return 1\n}\n"
@@ -74,7 +80,7 @@ test("the files judged are the ones the linter reads, said once and in order", (
     "akasha/held.css",
     "akasha/held.md",
   ]
-  expect(carriedIn(change(root, changed))).toEqual([
+  expect(carriedIn(change(root, changed), READS)).toEqual([
     "akasha/held.css",
     "akasha/held.tsx",
     "akasha/one.ts",
@@ -83,15 +89,32 @@ test("the files judged are the ones the linter reads, said once and in order", (
 })
 
 test("a stylesheet and a body written with JSX are both read, and a note is not", () => {
-  expect(lookedAt("akasha/one.css")).toBe(true)
-  expect(lookedAt("akasha/one.tsx")).toBe(true)
-  expect(lookedAt("akasha/one.ts")).toBe(true)
-  expect(lookedAt("akasha/one.md")).toBe(false)
+  expect(lookedAt("akasha/one.css", READS)).toBe(true)
+  expect(lookedAt("akasha/one.tsx", READS)).toBe(true)
+  expect(lookedAt("akasha/one.ts", READS)).toBe(true)
+  expect(lookedAt("akasha/one.md", READS)).toBe(false)
+})
+
+test("the names the configuration reads are the names the check reads", () => {
+  expect(readsIn(said('{"files":{"includes":["**/*.ts","**/*.js","!**/node_modules"]}}'))).toEqual([
+    ".ts",
+    ".js",
+  ])
+})
+
+test("a configuration narrowing by no name leaves every changed file read", () => {
+  expect(readsIn(said('{"linter":{"enabled":true}}'))).toBe(null)
+  expect(lookedAt("akasha/one.js", null)).toBe(true)
+})
+
+test("a configuration that will not parse narrows nothing rather than throwing", () => {
+  expect(readsIn(said("{not json"))).toBe(null)
+  expect(readsIn(null)).toBe(null)
 })
 
 test("a file the change takes away is judged by nothing", () => {
   const root = repo({ "akasha/one.ts": CLEAN })
-  expect(carriedIn(change(root, ["akasha/one.ts"], gone))).toEqual([])
+  expect(carriedIn(change(root, ["akasha/one.ts"], gone), READS)).toEqual([])
 })
 
 test("a change carrying no file the linter reads is judged by no run", () => {
