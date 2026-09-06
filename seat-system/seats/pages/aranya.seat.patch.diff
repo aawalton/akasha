@@ -1,0 +1,14 @@
+diff --git a/service-system/secrets/pages/collections-secrets-anon-key.secret.ts b/service-system/secrets/pages/collections-secrets-anon-key.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..235ce0697333e7be4453a3b95069cfc106902b0c
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-anon-key.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsAnonKey = {
++  id: "01a07697-d07d-7c5d-aa96-48c5303250d9",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-anon-key",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "ANON_KEY" }],
++} as const satisfies Secret
