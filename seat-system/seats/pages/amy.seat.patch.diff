@@ -26,3 +26,22 @@ index f19b6e4ee5715df60d5944ea3373ab9420ae0a7e..5177a294987f313506cef24c59371b8c
    const content = bodyOf({
      pageTypeSlug: named.pageTypeSlug,
      slug: named.slug,
+diff --git a/pages/service/page-composing/page-composing.module.ts b/pages/service/page-composing/page-composing.module.ts
+index a83cafddfa0651a290cc02bc5d674a0365f743d0..027f7e3cb024cfa92bced384a9b4c5ebcbe6d5df 100644
+--- a/pages/service/page-composing/page-composing.module.ts
++++ b/pages/service/page-composing/page-composing.module.ts
+@@ -88,6 +88,14 @@ export const pageComposing = {
+       invariantKind: "departure",
+       statement: "A value under a property the page type declares secret is refused.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A page carries the page type the caller named.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page carries the slug the caller named.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A page the index already holds keeps the identity the page has.",
