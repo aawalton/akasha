@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-makes-a-layer-the-next-to-redo.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-makes-a-layer-the-next-to-redo.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..469f20b6902b3fc71c00a6d1e2e2e5ddc7876282
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-makes-a-layer-the-next-to-redo.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMakesALayerTheNextToRedo = {
++  id: "01a077ee-fbc5-7f05-9382-63976638e9b4",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-makes-a-layer-the-next-to-redo",
++  topicSlug: "how-often-i-start-over",
++  ask: "What makes a layer the next one to redo, rather than a layer further out?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-one-prestige-costs-now.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-one-prestige-costs-now.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8d3e89e6b6389632ea38bd6481e30032fc57844e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-one-prestige-costs-now.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatOnePrestigeCostsNow = {
++  id: "01a077ee-fbc5-72f5-b721-0b9e541c6022",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-one-prestige-costs-now",
++  topicSlug: "how-often-i-start-over",
++  ask: "What does one prestige cost me now, at four a day rather than one a month?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-prestige-rate-has-a-ceiling.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-prestige-rate-has-a-ceiling.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..05c185f34de50409cdd3235f32dea96f5ae00887
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-prestige-rate-has-a-ceiling.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyPrestigeRateHasACeiling = {
++  id: "01a077ee-fbc4-7a6d-a719-90589595c2c3",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-prestige-rate-has-a-ceiling",
++  topicSlug: "how-often-i-start-over",
++  ask: "Can the rate I prestige at keep climbing, or does the rate have a ceiling?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-often-i-start-over.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-often-i-start-over.all-about-alan-topic.ts
+index bfa4fc8aaf0c8eda786f19f6907656c628cbdef6..0dcf6259e4158db5cde3ff1a317202e51d69d9c3 100644
+--- a/alan/books/all-about-alan/topics/pages/how-often-i-start-over.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-often-i-start-over.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const howOftenIStartOver = {
+   relatedSlugs: ["what-my-record-gives-me-back"],
+   settled:
+     "I think about this as an idle game. Every time I rebuild a foundation layer I am prestiging: starting over for permanent gains.\n\nAt the beginning of the year I prestiged about once a month.\n\nLast month it was about once a week.\n\nFor the last week it has been four times a day.\n\nI think I have moved at least six million lines in restructuring in just the past few days.",
+-  unsettled:
+-    "Whether the rate can keep climbing or has a ceiling is unknown.\n\nWhat one prestige costs me now, at four a day rather than one a month, is unmeasured.\n\nWhat makes a layer the next one to redo, rather than one further out, is unwritten.",
+ } as const satisfies AllAboutAlanTopic
