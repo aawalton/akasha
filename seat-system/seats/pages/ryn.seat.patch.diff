@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/agents/claude-accounts/modules/oauth/claude-account-oauth.module.ts b/agents/claude-accounts/modules/oauth/claude-account-oauth.module.ts
+index 49d9c4141918a11ae1cd7f990effc9db5b108d94..cf805960e1791b827576eef4537ce4902d4f9ac9 100644
+--- a/agents/claude-accounts/modules/oauth/claude-account-oauth.module.ts
++++ b/agents/claude-accounts/modules/oauth/claude-account-oauth.module.ts
+@@ -272,7 +272,7 @@ export const claudeAccountOauth = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "An account met by a rate limit waits five minutes even where `Retry-After` says less.",
++        "An account met by a rate limit waits five minutes even where `Retry-After` says a shorter wait.",
+     },
+     {
+       invariantKind: "gap",
