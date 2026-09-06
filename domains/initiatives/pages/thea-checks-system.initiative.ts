@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Four steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file judged, 4 over the whole repository. Then it goes on at patch. Cost over a file not judged is settled by structure: `checksFor` gates on `takesFrom`, so a check no changed path satisfies never runs. 43 checks, alphabetical. Done: domain-is-named-by-a-parent, email-address-is-well-formed. Now: file-has-its-page, at patch, steps 1 and 2 done.",
+        "Four steps per check: 1 failure category prevented, 2 file set covered, 3 cost over one file judged, 4 over the whole repository. A check no changed path satisfies never runs, so a file not judged costs nothing. Cost is read from the entries beside each check's page; their count is the change's size, not the check's own. 43 checks, alphabetical. Done: domain-is-named-by-a-parent, email-address-is-well-formed. Now: file-has-its-page, steps 1-3 done, one file 0.2ms mean over 6808 runs.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
