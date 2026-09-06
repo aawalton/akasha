@@ -19,7 +19,7 @@ export const noNonNullAssertion = {
     },
     {
       invariantKind: "departure",
-      statement: "One reached through an optional chain is refused as a bare one is.",
+      statement: "An operator reached through an optional chain is refused as a bare operator is.",
     },
     {
       invariantKind: "departure",
