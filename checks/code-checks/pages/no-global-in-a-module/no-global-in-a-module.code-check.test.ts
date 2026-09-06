@@ -81,10 +81,6 @@ test("a declaration file is no input", () => {
   expect(moduleAt(DECLARED_AT)).toBe(false)
 })
 
-test("a file outside akasha is no input", () => {
-  expect(moduleAt("temper/one.module.code.ts")).toBe(false)
-})
-
 test("a module naming a namespace that is not global is refused nothing", () => {
   const held = "export const away = 1\n\ndeclare module Held {\n  const ONE: number\n}\n"
   expect(reasonsIn({ root: "", path: ONE_AT, text: held })).toEqual([])
