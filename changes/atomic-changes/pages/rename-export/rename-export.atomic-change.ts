@@ -14,13 +14,17 @@ export const renameExport = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page's export is its slug, and renaming that is a slug rename rather than this.",
+      statement: "A page's export is its slug.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Renaming a page's export is a slug rename rather than an export rename.",
     },
 
     {
       invariantKind: "departure",
-      statement: "A rename refuses where any file it would change already reaches the new name.",
+      statement:
+        "A rename refuses where a file the rename would change already reaches the new name.",
     },
     {
       invariantKind: "departure",
