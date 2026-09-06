@@ -1,0 +1,31 @@
+diff --git a/changes/workflow-templates/pages/workflow-headscale/workflow-headscale.workflow-template.declaration.ts b/changes/workflow-templates/pages/workflow-headscale/workflow-headscale.workflow-template.declaration.ts
+index 1600b4a7d8b97e0dc904ff0efde0465c4743fc92..b3e50210c4b0fca7e127ef452bcb590907e83e79 100644
+--- a/changes/workflow-templates/pages/workflow-headscale/workflow-headscale.workflow-template.declaration.ts
++++ b/changes/workflow-templates/pages/workflow-headscale/workflow-headscale.workflow-template.declaration.ts
+@@ -2,7 +2,7 @@ import { checksumHashCommands } from "@akasha/workflow-language/checksum-hash"
+ import { IMAGES } from "@akasha/workflow-language/images"
+ import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+ import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
++import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
+ import { step } from "@akasha/workflow-language/step"
+ import { workflow } from "@akasha/workflow-language/workflow"
+ 
+@@ -26,14 +26,12 @@ export default workflow("headscale", {
+     }),
+     applyRbac({
+       name: "headscale-apply-rbac",
+-      rbacFile:
+-        "infrastructure/cluster-manifests/headscale-rbac/headscale-rbac.module.code.ts",
++      rbacFile: "infrastructure/cluster-manifests/headscale-rbac/headscale-rbac.module.code.ts",
+     }),
+-    sopsDecryptApply({
++    secretPlaceApply({
+       name: "headscale-apply-secret",
+       namespace: "headscale",
+-      secretFile:
+-        "service-system/cluster-services/pages/headscale/headscale.k8s-secret.sops.yaml",
++      resource: "headscale-secrets",
+     }),
+     kubectlApply({
+       name: "headscale-apply-configmap",
