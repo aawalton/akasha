@@ -1,0 +1,13 @@
+diff --git a/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts b/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts
+index 9a52747d1d54ea9030178f3514eb639eaff66538..50b3ef8a0a21740c16fbfdc7350e97c4edc554fe 100644
+--- a/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts
++++ b/alan/fitness/commands/exercise-session-show/exercise-session-show.command.ts
+@@ -34,7 +34,7 @@ export const exerciseSessionShow = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A warmup set is marked as one.",
++      statement: "A warmup set is marked as a warmup.",
+     },
+     {
+       invariantKind: "absence",
