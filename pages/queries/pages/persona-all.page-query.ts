@@ -8,7 +8,6 @@ export const personaAll = {
   keys: [
     "id",
     "slug",
-    "seq",
     "title",
     "cover",
     "valueSlug",

@@ -5,5 +5,5 @@ export const alanHarnessTrackingFieldAll = {
   pageTypeSlug: "page-query",
   slug: "alan-harness-tracking-field-all",
   asksOfSlug: "tracking-field",
-  keys: ["slug", "key", "defined-on-slug", "type"],
+  keys: ["slug", "propertySlug", "pageTypeSlug"],
 } as const satisfies PageQuery

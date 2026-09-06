@@ -5,6 +5,6 @@ export const relationPropertyDefinitions = {
   pageTypeSlug: "page-query",
   slug: "relation-property-definitions",
   asksOfSlug: "page-property",
-  narrows: [{ key: "type", comparison: "is", values: ["relation-id"] }],
-  keys: ["defined-on-slug", "key"],
+  narrows: [{ key: "pageTypeSlug", comparison: "is", values: ["relation-property"] }],
+  keys: ["slug", "propertySlug"],
 } as const satisfies PageQuery
