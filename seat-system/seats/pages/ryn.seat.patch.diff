@@ -1,5 +1,5 @@
 diff --git a/domains/initiatives/pages/ryn-trained-parser.initiative.ts b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
-index 67ff9b27c18ab390f2ea1b5198139b20a3b846cc..5a405ecc67401320981eaeaeee2182393f1a2c4b 100644
+index 67ff9b27c18ab390f2ea1b5198139b20a3b846cc..4674866ae907f478a85aef004a9efc33b0ea4709 100644
 --- a/domains/initiatives/pages/ryn-trained-parser.initiative.ts
 +++ b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
 @@ -20,7 +20,7 @@ export const rynTrainedParser = {
@@ -11,3 +11,12 @@ index 67ff9b27c18ab390f2ea1b5198139b20a3b846cc..5a405ecc67401320981eaeaeee218239
      },
      {
        statement: "Whether akasha writes in the passive is decided.",
+@@ -33,7 +33,7 @@ export const rynTrainedParser = {
+     {
+       statement: "Every invariant under akasha is written in plain language.",
+       workingMemory:
+-        "One family is left. 167 statements match lone-pronoun, every one on a pronoun whose noun sits in the same sentence, and that family waits on Alan. The 135 statements past the 100-character maximum are 2 now: fourteen named ratings and five named captures, each an enumeration of members that are no pages. Fourteen lanes reworded 59, cut 47 reason clauses and split 29, and the 7 handed back as unfittable were settled by splitting rather than rewording.",
++        "One family is left: 167 statements match lone-pronoun, and naming the noun each points at is the rewrite. The 135 statements past the 100-character maximum are 2 now: fourteen named ratings and five named captures, each an enumeration of members that are no pages. Fourteen lanes reworded 59, cut 47 reason clauses and split 29, and the 7 handed back as unfittable were settled by splitting rather than rewording.",
+     },
+   ],
+   constraints: [
