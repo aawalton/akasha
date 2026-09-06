@@ -16,3 +16,19 @@ index 2f49e1a706e70436eb8bf11f4f25d668d12fb50e..dbf1220d4763b12130a0ad7bebf8c35e
  }
  
  export async function measureAttributes(_argv: readonly string[], given: Given): Promise<Answer> {
+diff --git a/command-system/commands/measure-attributes/measure-attributes.command.test.ts b/command-system/commands/measure-attributes/measure-attributes.command.test.ts
+index 3b36c7d782c1d9f25260d3ad59c2e6a1acdd7f47..ead45918d669dcc411f897fa2bddcf9854f2dcc0 100644
+--- a/command-system/commands/measure-attributes/measure-attributes.command.test.ts
++++ b/command-system/commands/measure-attributes/measure-attributes.command.test.ts
+@@ -41,5 +41,10 @@ test("the labels are padded so the figures line up", () => {
+       { label: "Strength", figure: 2.7 },
+       { label: "Wisdom", figure: 0.02 },
+     ])
+-  ).toEqual(["Strength  2.7", "Wisdom    0.02"])
++  ).toEqual(["Strength  2.70", "Wisdom    0.02"])
++})
++
++test("a figure with no hundredths and no tenths is written to two places anyway", () => {
++  expect(linesOf([{ label: "Wisdom", figure: 0 }])).toEqual(["Wisdom  0.00"])
++  expect(linesOf([{ label: "Wisdom", figure: 3 }])).toEqual(["Wisdom  3.00"])
+ })
