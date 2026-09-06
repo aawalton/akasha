@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.ts b/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.ts
+index 39dfede0687d3602734762d25ecece0749491959..1854e2e695841ebc4879375fc4915c507f626f33 100644
+--- a/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.ts
++++ b/seat-system/recipient-resolving/seat-wake-match-decide/seat-wake-match-decide.module.ts
+@@ -14,7 +14,8 @@ export const seatWakeMatchDecide = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An absent seat is revived only where the work matches one of its wake sources.",
++      statement:
++        "An absent seat is revived only where the work matches a wake source that seat states.",
+     },
+     {
+       invariantKind: "departure",
