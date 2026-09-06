@@ -1,0 +1,17 @@
+diff --git a/changes/properties/is-command.boolean-property.ts b/changes/properties/is-command.boolean-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..32a1fe91d0560f3d1defebda27af04873de11971
+--- /dev/null
++++ b/changes/properties/is-command.boolean-property.ts
+@@ -0,0 +1,11 @@
++import type { BooleanProperty } from "../../pages/boolean-properties/boolean-property.page-type.ts"
++
++export type IsCommand = boolean
++
++export const isCommand = {
++  id: "01a0770b-b274-73c9-9437-2c09f28aee2a",
++  pageTypeSlug: "boolean-property",
++  slug: "is-command",
++  propertySlug: "is-command",
++  definition: "whether a change is reached from the command line",
++} as const satisfies BooleanProperty
