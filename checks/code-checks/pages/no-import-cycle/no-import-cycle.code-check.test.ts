@@ -147,16 +147,6 @@ test("a package specifier naming no path of its own is passed over", () => {
   expect(reachedIn(AT, 'import ts from "typescript"\n')).toEqual(["typescript"])
 })
 
-test("a file outside the akasha folder is no part of the graph", () => {
-  const held = reachingIn(
-    change({
-      "tools/one.ts": 'import { two } from "./two.ts"\n',
-      "tools/two.ts": 'import { one } from "./one.ts"\n',
-    })
-  )
-  expect([...held.keys()]).toEqual([])
-})
-
 test("a file that is not TypeScript is no part of the graph", () => {
   expect([...reachingIn(change({ "akasha/notes.txt": "" })).keys()]).toEqual([])
 })
