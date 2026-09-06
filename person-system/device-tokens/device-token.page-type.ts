@@ -52,7 +52,7 @@ export const deviceToken = {
     },
     {
       invariantKind: "departure",
-      statement: "Registering a token again replaces the one that was there.",
+      statement: "Registering a token again replaces the token that was there.",
     },
     {
       invariantKind: "departure",
