@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
+index 469ed3afc2a9f972892f1800ac7eecd6e815a011..b4d0c93260ceb9b5ec57dcb36d688148f357bdff 100644
+--- a/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
++++ b/checks/cluster-checks/modules/violation-reporting/violation-reporting.module.ts
+@@ -53,7 +53,7 @@ export const violationReporting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The footer names the remediation where the caller gave one.",
++      statement: "The footer names the remediation where the caller gave a remediation.",
+     },
+     {
+       invariantKind: "departure",
