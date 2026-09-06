@@ -85,7 +85,7 @@ export const bodyMerging = {
     },
     {
       invariantKind: "departure",
-      statement: "A path two changes each make is refused rather than merged.",
+      statement: "A path two changes make is refused rather than merged.",
     },
     {
       invariantKind: "departure",
@@ -93,7 +93,7 @@ export const bodyMerging = {
     },
     {
       invariantKind: "departure",
-      statement: "Bytes spelling no text are bytes that hold a zero byte or decode as none.",
+      statement: "Bytes spelling no text hold a zero byte or fail to decode.",
     },
     {
       invariantKind: "departure",
