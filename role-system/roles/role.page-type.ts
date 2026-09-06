@@ -40,14 +40,6 @@ export const role = {
     },
     {
       directiveKind: "rule",
-      name: "Scope",
-      act: "Deliver the whole scope; where part is blocked, deliver the rest and say what you left out.",
-      warrant:
-        "Narrowing comes back coherent and finished, and only whoever holds the original ask sees the gap.",
-      aids: ["Hard is not blocked.", "Scaling down is the requester's call."],
-    },
-    {
-      directiveKind: "rule",
       name: "Verification",
       act: "Report only what you verified; where you could not, say so rather than reporting success.",
       warrant:
