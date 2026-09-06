@@ -1,3 +1,16 @@
+diff --git a/alan/web/routes.ts b/alan/web/routes.ts
+index ec3b0e94c8f707ac315deeaea353d39d0098afcd..f4faae1752f01e2b0b6785c99252ce4681370d59 100644
+--- a/alan/web/routes.ts
++++ b/alan/web/routes.ts
+@@ -39,7 +39,7 @@ export default [
+   route("api/page-write", "routes/api.page-write.ts"),
+   route("api/nav-icon/:idSuffix", "routes/api.nav-icon.$idSuffix.ts"),
+   route("api/image/:imageId", "routes/api.image.$imageId.ts"),
+-  route("api/wallpaper", "routes/api.wallpaper.ts"),
++  route("api/wallpaper", "routes/wallpaper/wallpaper.route.code.ts"),
+   route("api/property-option", "routes/api.property-option.ts"),
+   route("api/media/token", "routes/api.media.token.ts"),
+   route("api/media/:pageId/variants", "routes/api.media.$pageId.variants.ts"),
 diff --git a/alan/web/routes/wallpaper/wallpaper.route.code.ts b/alan/web/routes/wallpaper/wallpaper.route.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..d7272fcfcf51ee27da06082b4955ad8095878e95
