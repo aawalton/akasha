@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+
+export const whyMyHoursDroppedFromTwelveToTen = {
+  id: "01a077e5-4d72-79d0-b935-56371a5690f1",
+  pageTypeSlug: "all-about-alan-question",
+  slug: "why-my-hours-dropped-from-twelve-to-ten",
+  topicSlug: "the-scaffolding-i-built",
+  ask: "Does my drop from twelve hours a day to eight or ten answer a rough stretch, or is that drop independent settling? I stopped tracking the hours.",
+} as const satisfies AllAboutAlanQuestion
