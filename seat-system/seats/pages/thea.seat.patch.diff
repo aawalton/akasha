@@ -2419,7 +2419,7 @@ index f1624f230eb4966a5a5f70a48311420aca07f46d..965cfe1633fed8f090560bd7363d736d
    invariants: [
      {
 diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.ts b/alan/tracking/daily/wake-days/wake-day.page-type.ts
-index d2dd1a99ef196d4724c8f397cec5a751a24e31cf..d906b399940bbe7f7695e9f24bcf43b89664307f 100644
+index 0023bfa356d922067bb31b348d790b415278981a..a6ff84d7f046faf41df060747c6f2b9f0952c859 100644
 --- a/alan/tracking/daily/wake-days/wake-day.page-type.ts
 +++ b/alan/tracking/daily/wake-days/wake-day.page-type.ts
 @@ -152,8 +152,8 @@ export const wakeDay = {
@@ -4457,7 +4457,7 @@ index 887f5c1d80f26d8107e6cf9e41973faa405cf926..0019ed8c976ffaf035115f1043100027
    invariants: [
      {
 diff --git a/pages/queries/page-query.page-type.ts b/pages/queries/page-query.page-type.ts
-index 6e5c5ca576ca8c09c81bf595aa7f58279ecc3ff2..aa46de4aa2b4384d0eb60dd7fc40ded4f160c35f 100644
+index 6e5c5ca576ca8c09c81bf595aa7f58279ecc3ff2..fbd7d43b368475412c8a13f6dc6cf13bce8c752e 100644
 --- a/pages/queries/page-query.page-type.ts
 +++ b/pages/queries/page-query.page-type.ts
 @@ -53,12 +53,12 @@ export const pageQuery = {
@@ -4477,18 +4477,6 @@ index 6e5c5ca576ca8c09c81bf595aa7f58279ecc3ff2..aa46de4aa2b4384d0eb60dd7fc40ded4
      { pagePropertySlug: "text-property/sort-by", required: false, many: false },
      {
        pagePropertySlug: "boolean-property/descending",
-@@ -76,7 +76,11 @@ export const pageQuery = {
-     },
-     {
-       invariantKind: "departure",
-+<<<<<<< what this change would leave
-+      statement: "A query names one page type rather than several page types at once.",
-+=======
-       statement: "A query names a single page type rather than two at once.",
-+>>>>>>> what HEAD holds
-     },
-     {
-       invariantKind: "departure",
 diff --git a/pages/queries/properties/asks-of-slug.text-property.ts b/pages/queries/properties/asks-of-slug.text-property.ts
 index 2bcad4d489db226fa8a5df9620f56175a90f1976..2bcc667c4d66fd3cdd54870e49a0fe0502c2d2e6 100644
 --- a/pages/queries/properties/asks-of-slug.text-property.ts
@@ -4725,10 +4713,10 @@ index 3e74a7396aace37d5919a95771006b6814f6f077..983045625ae736a01f52bfae170bd158
    ],
  } as const satisfies PageType
 diff --git a/pages/types/declared-properties/declared-properties.module.code.ts b/pages/types/declared-properties/declared-properties.module.code.ts
-index c128aab5edc852524d8dcc8dd8f977902de3558b..94c862dff6b304fd0eb3b0747778607bafba3970 100644
+index 022a30ee703ce5dba3f8549962dbc815421abb21..4658f39fd18f99329af3471ee6a82a74703d9955 100644
 --- a/pages/types/declared-properties/declared-properties.module.code.ts
 +++ b/pages/types/declared-properties/declared-properties.module.code.ts
-@@ -28,8 +28,8 @@ export type Carried = {
+@@ -29,8 +29,8 @@ export type Carried = {
    readonly declaredBy: string
    readonly required: boolean
    readonly many: boolean
@@ -4739,7 +4727,7 @@ index c128aab5edc852524d8dcc8dd8f977902de3558b..94c862dff6b304fd0eb3b0747778607b
    readonly uncommitted: boolean
    readonly secret: boolean
  }
-@@ -96,8 +96,8 @@ export function carriedFrom(value: Value, source: Source, declaredBy: string): r
+@@ -111,8 +111,8 @@ export function carriedFrom(value: Value, source: Source, declaredBy: string): r
        declaredBy,
        required: one["required"] === true,
        many: one["many"] === true,
@@ -6176,7 +6164,7 @@ index adfdb0112bd2a0d1751a32e748fbffaa3578e1c8..8770be70c07b68188a054d9e0f6bb766
    invariants: [
      {
 diff --git a/readout-system/readout-scales/properties/earned-color-slug.text-property.ts b/readout-system/readout-scales/properties/earned-color-slug.text-property.ts
-index 64a0359734cf34c61c426f980be8a0c146a18f01..76c5056f304e102023f29f0d3826716500537f85 100644
+index bf660563782d2ed8c98b87ad80ff67896f97d356..142e761f88225f9d9bca723a6f8605992643628a 100644
 --- a/readout-system/readout-scales/properties/earned-color-slug.text-property.ts
 +++ b/readout-system/readout-scales/properties/earned-color-slug.text-property.ts
 @@ -8,7 +8,7 @@ export const earnedColorSlug = {
@@ -6188,12 +6176,16 @@ index 64a0359734cf34c61c426f980be8a0c146a18f01..76c5056f304e102023f29f0d38267165
    nameFormatSlug: null,
    invariants: [
      {
-@@ -17,7 +17,7 @@ export const earnedColorSlug = {
+@@ -17,8 +17,12 @@ export const earnedColorSlug = {
      },
      {
        invariantKind: "departure",
--      statement: "A scale states one earned color whatever readouts are read against that scale.",
++<<<<<<< what this change would leave
 +      statement: "A scale states its earned color whatever readouts are read against that scale.",
++=======
+       statement:
+         "A scale states a single earned color whatever readouts are read against that scale.",
++>>>>>>> what HEAD holds
      },
      {
        invariantKind: "gap",
