@@ -1,0 +1,13 @@
+diff --git a/alan/harness/notification-feeds/notification-feed.page-type.ts b/alan/harness/notification-feeds/notification-feed.page-type.ts
+index 582e07c17dd7f97148a1fa1ea734a8aad38196cd..2ecef2281f1bbcb7c76040ae9b632d2ead5116b1 100644
+--- a/alan/harness/notification-feeds/notification-feed.page-type.ts
++++ b/alan/harness/notification-feeds/notification-feed.page-type.ts
+@@ -35,7 +35,7 @@ export const notificationFeed = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One person has one feed, whatever pushed at that person.",
++      statement: "One person has one feed whatever pushed at that person.",
+     },
+     {
+       invariantKind: "departure",
