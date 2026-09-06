@@ -1,8 +1,8 @@
 diff --git a/pages/types/properties/detail-config.record-property.ts b/pages/types/properties/detail-config.record-property.ts
-index 3ba5a8ff8241af56101f7e9e01d313a6615876eb..2f0b021cb9d7fd190852404398f7cb0723d20796 100644
+index 3ba5a8ff8241af56101f7e9e01d313a6615876eb..f3095a9369e10b9898da7a8e7e23b85c28fff248 100644
 --- a/pages/types/properties/detail-config.record-property.ts
 +++ b/pages/types/properties/detail-config.record-property.ts
-@@ -44,11 +44,13 @@ export const detailConfig = {
+@@ -44,16 +44,17 @@ export const detailConfig = {
    invariants: [
      {
        invariantKind: "departure",
@@ -15,6 +15,12 @@ index 3ba5a8ff8241af56101f7e9e01d313a6615876eb..2f0b021cb9d7fd190852404398f7cb07
 -      statement: "A page type stating none takes the layout the page type above states.",
 +      statement:
 +        "A page type stating no detail config takes the layout the page type above states.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A page type with none above that page type and none of its own is laid out plainly.",
++      statement: "A page type with no detail config here or above is laid out plainly.",
      },
      {
        invariantKind: "departure",
