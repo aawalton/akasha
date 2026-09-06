@@ -1,4 +1,11 @@
-import { askComposed as composedAnswer } from "../store-questioning/store-questioning.module.code.ts"
+import {
+  type Asked,
+  type ComposedQuery,
+  askComposed as composedAnswer,
+  type QueryAnswer,
+  type QueryRow,
+  type Value,
+} from "../store-questioning/store-questioning.module.code.ts"
 import {
   type Fetcher,
   pagesFetcher,
@@ -6,36 +13,7 @@ import {
   sleep,
 } from "../store-reaching/store-reaching.module.code.ts"
 
-export type Value = string | number | boolean | readonly string[]
-
-export type QueryRow = { readonly at?: string; readonly values: Record<string, unknown> }
-
-export type QueryAnswer = {
-  readonly n: number
-  readonly value: number | null
-  readonly over: number | null
-  readonly rows: readonly QueryRow[]
-  readonly faults: readonly string[]
-  readonly omitted: readonly string[]
-  readonly unfound: readonly string[]
-}
-
-export type Asked =
-  | { readonly ok: true; readonly answer: QueryAnswer }
-  | { readonly ok: false; readonly why: string; readonly status?: number }
-
-export type ComposedQuery = {
-  readonly "page-type": string
-  readonly where?: Readonly<Record<string, unknown>>
-  readonly "count-by"?: readonly string[]
-  readonly keys?: readonly string[]
-  readonly "sort-by"?: string
-  readonly descending?: boolean
-  readonly limit?: number
-  readonly offset?: number
-  readonly function?: "sum" | "mean"
-  readonly target?: string
-}
+export type { Asked, ComposedQuery, QueryAnswer, QueryRow, Value }
 
 export async function askComposed(
   query: ComposedQuery,
