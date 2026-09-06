@@ -1,8 +1,17 @@
 readersOweReading: false
 diff --git a/alan/fitness/exercise-access/session-derive/session-derive.module.ts b/alan/fitness/exercise-access/session-derive/session-derive.module.ts
-index 62fcd9bdfc70f91ec3d0bf386a4cb63653bf558c..55661482ce2bf487866637c9fe90d30a7db41d35 100644
+index 62fcd9bdfc70f91ec3d0bf386a4cb63653bf558c..4237b8fec0cb8204f7ed860f761f7cbca0f23fea 100644
 --- a/alan/fitness/exercise-access/session-derive/session-derive.module.ts
 +++ b/alan/fitness/exercise-access/session-derive/session-derive.module.ts
+@@ -10,7 +10,7 @@ export const sessionDerive = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A session's slug says the day of the week, the focus and the day.",
++      statement: "A session's slug says the day of the week and the focus and the day.",
+     },
+     {
+       invariantKind: "departure",
 @@ -19,11 +19,12 @@ export const sessionDerive = {
      },
      {
