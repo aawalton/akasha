@@ -1,0 +1,48 @@
+diff --git a/changes/workflow-templates/pages/workflow-pgbouncer/workflow-pgbouncer.workflow-template.declaration.ts b/changes/workflow-templates/pages/workflow-pgbouncer/workflow-pgbouncer.workflow-template.declaration.ts
+index 443450b4aedeb4cfe5ecde5d6f20659db546ffb9..b2bd5a0c6fb1341a214bd0c1f25167c39bad5ca7 100644
+--- a/changes/workflow-templates/pages/workflow-pgbouncer/workflow-pgbouncer.workflow-template.declaration.ts
++++ b/changes/workflow-templates/pages/workflow-pgbouncer/workflow-pgbouncer.workflow-template.declaration.ts
+@@ -1,7 +1,7 @@
+ import { IMAGES } from "@akasha/workflow-language/images"
+ import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+ import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
++import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
+ import { step } from "@akasha/workflow-language/step"
+ import { verifyRolloutCommands } from "@akasha/workflow-language/verify-rollout"
+ import { workflow } from "@akasha/workflow-language/workflow"
+@@ -26,28 +26,26 @@ export default workflow("pgbouncer", {
+     {
+       ...applyRbac({
+         name: "pgbouncer-apply-rbac",
+-        rbacFile:
+-          "infrastructure/cluster-manifests/pgbouncer-rbac/pgbouncer-rbac.module.code.ts",
++        rbacFile: "infrastructure/cluster-manifests/pgbouncer-rbac/pgbouncer-rbac.module.code.ts",
+       }),
+       dependsOn: ["pgbouncer-apply-namespace"],
+     },
+ 
+     {
+-      ...sopsDecryptApply({
++      ...secretPlaceApply({
+         name: "pgbouncer-apply-tls",
+         namespace: "pgbouncer",
+-        secretFile:
+-          "service-system/cluster-services/pages/pgbouncer/tls.k8s-secret.sops.yaml",
++        resource: "pgbouncer-tls",
++        type: "kubernetes.io/tls",
+       }),
+       dependsOn: ["pgbouncer-apply-namespace"],
+     },
+ 
+     {
+-      ...sopsDecryptApply({
++      ...secretPlaceApply({
+         name: "pgbouncer-apply-auth",
+         namespace: "pgbouncer",
+-        secretFile:
+-          "service-system/cluster-services/pages/pgbouncer/auth.k8s-secret.sops.yaml",
++        resource: "pgbouncer-auth",
+       }),
+       dependsOn: ["pgbouncer-apply-namespace"],
+     },
