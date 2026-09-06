@@ -9,7 +9,7 @@ export const mobilityDerive = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A reading naming no side is named without one.",
+      statement: "A reading naming no side is named without a side.",
     },
     {
       invariantKind: "departure",
