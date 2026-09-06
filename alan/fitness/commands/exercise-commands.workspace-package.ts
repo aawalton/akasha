@@ -38,7 +38,7 @@ export const exerciseCommands = {
     },
     {
       invariantKind: "absence",
-      statement: "No command here reaches the pages-system-service over the network.",
+      statement: "No command here reaches the pages-service over the network.",
     },
     {
       invariantKind: "departure",

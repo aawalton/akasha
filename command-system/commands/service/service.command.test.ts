@@ -27,7 +27,7 @@ test("naming no service and not saying every one is refused", () => {
 })
 
 test("naming a service beside every service is refused", () => {
-  const answer = service(["install", "pages-system-service", "--all"], HERE)
+  const answer = service(["install", "pages-service", "--all"], HERE)
   expect(answer.code).toBe(1)
   expect(answer.refusals[0]).toContain("two things")
 })
@@ -51,16 +51,16 @@ test("a slug no service page carries is refused as the data's fault", () => {
 })
 
 test("a dry run reports the plan and writes nothing", () => {
-  const answer = service(["install", "pages-system-service", "--dry-run"], HERE)
+  const answer = service(["install", "pages-service", "--dry-run"], HERE)
   expect(answer.code).toBe(0)
   expect(answer.refusals).toEqual([])
-  expect(answer.report).toContain("write\tpages-system-service.service")
-  expect(answer.report).toContain("enable\tpages-system-service.service")
+  expect(answer.report).toContain("write\tpages-service.service")
+  expect(answer.report).toContain("enable\tpages-service.service")
   expect(answer.report[answer.report.length - 1]).toContain("dry-run")
 })
 
 test("a dry run naming one service plans nothing for any other", () => {
-  const answer = service(["install", "pages-system-service", "--dry-run"], HERE)
+  const answer = service(["install", "pages-service", "--dry-run"], HERE)
   for (const line of answer.report) expect(line).not.toContain("remove\t")
 })
 
@@ -89,9 +89,9 @@ test("an act asking systemd for a slug no page carries is the data's fault", () 
 })
 
 test("a dry run names the unit systemd would be asked about and asks nothing", () => {
-  const answer = service(["restart", "pages-system-service", "--dry-run"], HERE)
+  const answer = service(["restart", "pages-service", "--dry-run"], HERE)
   expect(answer.code).toBe(0)
   expect(answer.refusals).toEqual([])
-  expect(answer.report[0]).toBe("restart\tpages-system-service.service")
+  expect(answer.report[0]).toBe("restart\tpages-service.service")
   expect(answer.report[answer.report.length - 1]).toContain("dry-run")
 })

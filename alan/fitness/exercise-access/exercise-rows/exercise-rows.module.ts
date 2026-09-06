@@ -14,7 +14,7 @@ export const exerciseRows = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches the pages-system-service.",
+      statement: "Nothing here reaches the pages-service.",
     },
     {
       invariantKind: "departure",
