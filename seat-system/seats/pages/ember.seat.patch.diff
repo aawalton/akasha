@@ -162,9 +162,18 @@ index eb590729e54fa83822ed8b25eadac1de7b2d620d..f6e5b06550252eec89ce70dc33c5c0d7
  
  export function useCraftBagAccess() {
 diff --git a/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts b/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts
-index 015c8bef2ea8b00161968956319ca9eaabcb2cdf..a564acab6e48c8686eb80cd5e7e658fa59e9c8af 100644
+index 015c8bef2ea8b00161968956319ca9eaabcb2cdf..beda2a40938ddde9a24b1ac226400f3b7eb151f9 100644
 --- a/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts
 +++ b/temper/temper-player-inventory-management-ui/hooks-inventory-settings/hooks-inventory-settings.module.ts
+@@ -17,7 +17,7 @@ export const hooksInventorySettings = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A rule page no rule wants any more is taken away in the same save.",
++      statement: "A rule page no rule wants is taken away in the same save.",
+     },
+     {
+       invariantKind: "absence",
 @@ -28,8 +28,24 @@ export const hooksInventorySettings = {
        statement: "The item rules and the buy rules are still read from the settings blob.",
      },
