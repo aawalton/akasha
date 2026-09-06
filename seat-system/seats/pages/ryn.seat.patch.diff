@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/seats/properties/proxy.record-property.ts b/seat-system/seats/properties/proxy.record-property.ts
+index e19a6843b67b36fce74105bde5b79632bb137f70..79d0096b2bd165c14cf35440ff9f1c469d9d5947 100644
+--- a/seat-system/seats/properties/proxy.record-property.ts
++++ b/seat-system/seats/properties/proxy.record-property.ts
+@@ -23,7 +23,7 @@ export const proxy = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A proxy short of any of these fields is no proxy at all.",
++      statement: "A proxy short of a single field is no proxy at all.",
+     },
+   ],
+ } as const satisfies RecordProperty
