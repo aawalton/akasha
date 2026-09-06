@@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import { listedFiled } from "@akasha/indexes/testing"
+import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import type { Change } from "@akasha/pages/change"
 import { type Shadow, shadowFor } from "@akasha/pages/shadow"
 import {
@@ -67,6 +67,9 @@ function typed(
 ): undefined {
   const path = pathFor(slug)
   listedFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
+  valueAlsoFiled(root, PAGE_TYPE, [
+    { path, value: { id: `id-${slug}`, pageTypeSlug: PAGE_TYPE, slug } },
+  ])
   mkdirSync(join(root, "akasha"), { recursive: true })
   writeFileSync(join(root, path), stated(slug, above, declares, parts))
 }

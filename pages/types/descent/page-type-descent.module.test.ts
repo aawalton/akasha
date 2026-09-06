@@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { readingIn } from "@akasha/indexes"
-import { listedFiled } from "@akasha/indexes/testing"
+import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { valueAt } from "@akasha/pages/page-value"
 import { kindsUnder, listedAbove } from "./page-type-descent.module.code.ts"
 
@@ -26,6 +26,9 @@ function namedIn(above: readonly string[]): readonly string[] {
 function typed(root: string, slug: string, above: readonly string[] | null): undefined {
   const path = `akasha/held/${slug}.page-type.ts`
   listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
+  valueAlsoFiled(root, "page-type", [
+    { path, value: { id: `id-${slug}`, pageTypeSlug: "page-type", slug } },
+  ])
   const page = join(root, path)
   mkdirSync(dirname(page), { recursive: true })
   const said = above === null ? "[]" : JSON.stringify(namedIn(above))
