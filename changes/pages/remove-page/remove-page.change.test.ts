@@ -38,6 +38,8 @@ const SPARE_PAGE = "akasha/three/spare.module.ts"
 
 const SPARE_CODE = "akasha/three/spare.module.code.ts"
 
+const NOTER_PAGE = "akasha/three/noter.module.ts"
+
 const CHILD_PAGE = "akasha/four/child.module.ts"
 
 const PARENT_PAGE = "akasha/four/parent.module.ts"
@@ -53,6 +55,13 @@ const SPARE: Readonly<Record<string, string>> = {
     code: "ts",
   }),
   [SPARE_CODE]: 'import { kept } from "../one/held.module.code.ts"\n\nexport const spare = kept\n',
+  [NOTER_PAGE]: pageOf({
+    id: idOf("0"),
+    pageTypeSlug: "module",
+    slug: "noter",
+    definition: "a page naming the page held by a relation that is no containment",
+    note: "held",
+  }),
 }
 
 const CHILD = pageOf({
