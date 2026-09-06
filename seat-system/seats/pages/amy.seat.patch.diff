@@ -260,6 +260,42 @@ index 85da2613d72e1789bb894d402a41e8cd287e16c5..591a021fa467c86b0c17480fc2d38da8
 +  const said = new Map(rowsOf(root, "held").map((one) => [one["slug"], one]))
 +  expect(said.get("top")?.["summed"]).toBe(0)
 +})
+diff --git a/pages/service/kinds-gathering/kinds-gathering.module.ts b/pages/service/kinds-gathering/kinds-gathering.module.ts
+index 16530244218ce8343bbe6c58744a54b895924407..22459139ca1f500cd70516b78fa14f8a27eb81e2 100644
+--- a/pages/service/kinds-gathering/kinds-gathering.module.ts
++++ b/pages/service/kinds-gathering/kinds-gathering.module.ts
+@@ -38,6 +38,31 @@ export const kindsGathering = {
+       invariantKind: "departure",
+       statement: "A calculation reaching a slug reaches the first row gathered under that slug.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A slug no row gathered carries is looked for in the index.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A page is named to the index as that page's page type and its slug joined by a slash.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page reached through the index carries its own page type's calculations.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Which pages name a page under one property is read from the relation index.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page type's values are read once however many pages reach into that page type.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "No page type is read until a calculation reaches into that page type.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here reads a question or refuses a question.",
 diff --git a/pages/service/page-asking/page-asking.module.code.ts b/pages/service/page-asking/page-asking.module.code.ts
 index 576b53aa623c30d6567d42c2dadc46f085db2d07..77cd2c8559fa4425f69781c4335cd414e5e52c31 100644
 --- a/pages/service/page-asking/page-asking.module.code.ts
