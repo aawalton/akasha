@@ -33,14 +33,11 @@ export type Outside = {
 export function arrivalOf(landed: string, moved: ReadonlyMap<string, string>): string | null {
   const whole = moved.get(landed)
   if (whole !== undefined) return whole
-  let held = ""
-  let found: string | null = null
-  for (const [was, now] of moved) {
-    if (was.length <= held.length || !landed.startsWith(`${was}${UNDER}`)) continue
-    held = was
-    found = `${now}${landed.slice(was.length)}`
+  for (let at = landed.lastIndexOf(UNDER); at > 0; at = landed.lastIndexOf(UNDER, at - 1)) {
+    const now = moved.get(landed.slice(0, at))
+    if (now !== undefined) return `${now}${landed.slice(at)}`
   }
-  return found
+  return null
 }
 
 export function reachedFrom(from: string, said: string): string | null {

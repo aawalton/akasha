@@ -11,6 +11,15 @@ const APART = SEGMENT.source.replace("[", "[^")
 
 const PATTERNED = /[$()*+.?[\\\]^{|}]/g
 
+/** A name every character of which a path-like run of a body carries. */
+const RUN_CARRIES = /^[A-Za-z0-9._@/-]+$/
+
+/** The names no run carries whole, worked out once for each set of names handed in. */
+const CARRIED_APART = new WeakMap<object, readonly string[]>()
+
+/** The names gathered for looking up, worked out once for each set of names handed in. */
+const GATHERED = new WeakMap<object, ReadonlySet<string>>()
+
 const PARTED_BY = "/"
 
 const FOUND_NOTHING = 1
@@ -52,8 +61,52 @@ export function boundedAt(text: string, at: number, was: string): boolean {
   return after === "" || !SEGMENT.test(after)
 }
 
+function apartFrom(names: Iterable<string>, at: object): readonly string[] {
+  const found = CARRIED_APART.get(at)
+  if (found !== undefined) return found
+  const apart: string[] = []
+  for (const one of names) if (!RUN_CARRIES.test(one)) apart.push(one)
+  CARRIED_APART.set(at, apart)
+  return apart
+}
+
+function gatheredIn(names: Iterable<string>, at: object): ReadonlySet<string> {
+  const found = GATHERED.get(at)
+  if (found !== undefined) return found
+  const held = new Set(names)
+  GATHERED.set(at, held)
+  return held
+}
+
+/** Where a name a run leads could end, which is wherever the run stops carrying a segment. */
+function endsIn(run: string): readonly number[] {
+  const found: number[] = [run.length]
+  for (let at = 1; at < run.length; at = at + 1) {
+    if (!SEGMENT.test(run.charAt(at))) found.push(at)
+  }
+  return found
+}
+
+/**
+ * Every name a body could carry, told once for each place a name could start. A name starts
+ * where a path-like run starts, no other place having a character before it that leaves a name
+ * bounded, so the body is read through once however many names are looked for.
+ */
+function runsTold(text: string, told: (at: number, was: string) => boolean): boolean {
+  const runs = /[A-Za-z0-9._@/-]+/g
+  for (let one = runs.exec(text); one !== null; one = runs.exec(text)) {
+    const run = one[0]
+    for (const end of endsIn(run)) {
+      if (told(one.index, end === run.length ? run : run.slice(0, end))) return true
+    }
+  }
+  return false
+}
+
 export function spellsBounded(text: string, named: readonly string[]): boolean {
-  for (const was of named) {
+  const held = gatheredIn(named, named)
+  if (runsTold(text, (at, was) => held.has(was) && boundedAt(text, at, was))) return true
+  for (const was of apartFrom(named, named)) {
     for (let at = text.indexOf(was); at >= 0; at = text.indexOf(was, at + 1)) {
       if (boundedAt(text, at, was)) return true
     }
@@ -63,7 +116,14 @@ export function spellsBounded(text: string, named: readonly string[]): boolean {
 
 export function namesIn(text: string, named: ReadonlyMap<string, string>): readonly Placed[] {
   const found: Placed[] = []
-  for (const [was, now] of named) {
+  runsTold(text, (at, was) => {
+    const now = named.get(was)
+    if (now !== undefined && boundedAt(text, at, was)) found.push({ at, was, now })
+    return false
+  })
+  for (const was of apartFrom(named.keys(), named)) {
+    const now = named.get(was)
+    if (now === undefined) continue
     for (let at = text.indexOf(was); at >= 0; at = text.indexOf(was, at + 1)) {
       if (boundedAt(text, at, was)) found.push({ at, was, now })
     }

@@ -27,6 +27,16 @@ export const outsideNaming = {
     {
       invariantKind: "departure",
       statement:
+        "A body is read through once however many names are looked for, a name standing only " +
+        "where a path-like run of that body starts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A name no such run carries whole is looked for through the body itself.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
         "A name another name asked after ends with is the only one looked for, since a body " +
         "carrying the longer name carries the shorter one too.",
     },

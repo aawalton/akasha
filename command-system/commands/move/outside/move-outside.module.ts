@@ -22,6 +22,10 @@ export const moveOutside = {
     },
     {
       invariantKind: "departure",
+      statement: "The longest folder that moved is the one a path beneath it arrives under.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A path spelled with no leading dot is resolved against the folder of the file carrying it.",
     },

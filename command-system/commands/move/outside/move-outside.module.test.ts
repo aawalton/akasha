@@ -32,6 +32,7 @@ import {
 } from "../move.command.test-fixtures.ts"
 import {
   alikeSaid,
+  arrivalOf,
   beneathNames,
   outsideSaid,
   reachesIn,
@@ -130,6 +131,17 @@ test("a relative reach climbing out of the repository is left alone", () => {
 test("a reach is answered with where the reach sits and what it becomes", () => {
   const found = reachesIn(AT, 'x "../../akasha/one"', MOVED)
   expect(found.map((one) => one.now)).toEqual(["../../akasha/far/one"])
+})
+
+test("the longest folder that moved is the one a path beneath it arrives under", () => {
+  const moved = new Map([
+    ["akasha/one", "far/one"],
+    ["akasha/one/two", "elsewhere/two"],
+  ])
+  expect(arrivalOf("akasha/one/two/held.ts", moved)).toBe("elsewhere/two/held.ts")
+  expect(arrivalOf("akasha/one/other/held.ts", moved)).toBe("far/one/other/held.ts")
+  expect(arrivalOf("akasha/one/two", moved)).toBe("elsewhere/two")
+  expect(arrivalOf("akasha/other/held.ts", moved)).toBe(null)
 })
 
 test("the tail of a path that moved from each folder above it is looked for too", () => {

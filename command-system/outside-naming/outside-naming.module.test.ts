@@ -14,6 +14,7 @@ import {
   respeltNames,
   spelledRespelt,
   spelledTracked,
+  spellsBounded,
 } from "./outside-naming.module.code.ts"
 
 const scratch = scratchWorld()
@@ -142,6 +143,23 @@ test("a name shortened away is still found by the shorter name standing for it",
   const named = ["akasha/one/two/held.ts", "one/two/held.ts", "two/held.ts"]
   const found = namedTracked(root, baseOf(root), named)
   expect("paths" in found ? found.paths : ["it refused"]).toEqual(["tools/lib/carries.ts"])
+})
+
+test("a name holding a character no path-like run carries is read all the same", () => {
+  const named = new Map([["web/routes/api.image.$imageId.ts", "web/routes/api.image.$id.ts"]])
+  const held = 'at "web/routes/api.image.$imageId.ts" said'
+  expect(respeltNames(held, named)).toBe('at "web/routes/api.image.$id.ts" said')
+  expect(spellsBounded(held, [...named.keys()])).toBe(true)
+  expect(spellsBounded("at nothing said", [...named.keys()])).toBe(false)
+})
+
+test("a body is read the same for one name as for many", () => {
+  const named = new Map([["akasha/one", "akasha/far/one"], ["tools/held.ts", "tools/far.ts"]])
+  expect(respeltNames('"akasha/one" "tools/held.ts" "akasha/one-other"', named)).toBe(
+    '"akasha/far/one" "tools/far.ts" "akasha/one-other"'
+  )
+  expect(spellsBounded('"akasha/one-other"', [...named.keys()])).toBe(false)
+  expect(spellsBounded('"tools/held.ts"', [...named.keys()])).toBe(true)
 })
 
 test("more names than one command line carries are asked for over more calls", () => {
