@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/commands/measure/checkout-counting/checkout-counting.module.ts b/command-system/commands/measure/checkout-counting/checkout-counting.module.ts
+index a5ab78c02ae9719567ba97ef4d57bddba1517ad7..cc617d3c16068e07971d8a71e04910f7f8ad1fb0 100644
+--- a/command-system/commands/measure/checkout-counting/checkout-counting.module.ts
++++ b/command-system/commands/measure/checkout-counting/checkout-counting.module.ts
+@@ -33,7 +33,7 @@ export const checkoutCounting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A listing git could not answer throws rather than listing none.",
++      statement: "A listing git could not answer throws rather than answering empty.",
+     },
+     {
+       invariantKind: "departure",
