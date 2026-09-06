@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/changes/partial/change-partial.page-type.ts b/changes/partial/change-partial.page-type.ts
-index 565c028911326f81209f55753bd5430a9924fef6..00af9c1520b7096c16a2669eeb767b9e9d3eb2f9 100644
+index 565c028911326f81209f55753bd5430a9924fef6..847ae4862193ac01e21b0e089731e4a9fc73226d 100644
 --- a/changes/partial/change-partial.page-type.ts
 +++ b/changes/partial/change-partial.page-type.ts
-@@ -27,12 +27,11 @@ export const changePartial = {
+@@ -27,16 +27,15 @@ export const changePartial = {
      {
        invariantKind: "departure",
        statement:
@@ -18,3 +18,8 @@ index 565c028911326f81209f55753bd5430a9924fef6..00af9c1520b7096c16a2669eeb767b9e
      },
      {
        invariantKind: "departure",
+-      statement: "A partial change refuses or answers every body it changes.",
++      statement: "A partial change refuses or answers every body the partial change changes.",
+     },
+     {
+       invariantKind: "absence",
