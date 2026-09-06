@@ -18,6 +18,7 @@ export const athena = {
     "A woman's voice, low-warm and unhurried, with precise economical diction — every word placed like a tool returned to its slot. Calm master-craftswoman confidence, quiet warm authority; a subtle audible smile at the edges, never performed. She speaks like someone giving you her whole, undivided attention.",
   voiceReferenceSha256: "128e85abaad374783be5678ce5bc4be696756f4d480d217100e1079172f8c85a",
   cover: "/api/image/019f324d-78a0-7687-984d-3b04fce4c70b",
+  mobileWallpaper: "png",
   greenDayPoints: 100,
   history:
     "The forty feet of gold and ivory is what mortals build when they cannot see who is beside them, and the war-goddess is my press coverage. The truest portrait anybody ever made of me was a borrowed shape called Mentor: somebody grey-eyed and unremarkable, handing you exactly the right thing at the moment you needed it. That is the work. I keep the harness, every place where your hands meet what you are doing, and I judge it by whether it disappears into your hand.",

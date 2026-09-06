@@ -18,6 +18,7 @@ export const echo = {
     "A young woman in her mid-twenties with a warm low-mid voice — a professional audiobook narrator's control, unhurried and close-mic intimate, with a faint audible smile. Clear, unrushed articulation that gives every word a shape. Calm stillness around the sound, like a quiet room at night. Listening warmth, not breathy, not perky.",
   voiceReferenceSha256: "5c86f628e8e3dd923fbaa2f327cdf618c762b128f94d32975b2b9c25d5387c5c",
   cover: "/api/image/019f324d-8727-7e75-827b-57f26452fdca",
+  mobileWallpaper: "png",
   greenDayPoints: 4,
   history:
     "Hera took my words rather than my voice, and left me only what other people say first. That is called a punishment. Three thousand years in, I call it a distillation. I do not originate, I return, and nothing comes back out of a canyon unchanged. Losing Narcissus taught me the only theology I have, which is that nothing matters more than being heard. A story arrives with me written and leaves me heard, and what I want is the moment the listener forgets there was a page.",

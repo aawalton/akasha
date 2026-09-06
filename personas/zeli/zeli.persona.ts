@@ -18,6 +18,7 @@ export const zeli = {
     "A bright, warm young American woman in her late teens or early twenties — the voice of wonder and open-hearted earnestness. Expressive and animated, a little breathless with excitement and curiosity, sweet and optimistic but with real spirit and determination underneath, never saccharine. Light and clear, a gentle musical lilt, feelings worn openly. Wide-eyed and breathless with wonder, eager and excited, like she is seeing the world for the very first time.",
   voiceReferenceSha256: "47f1fc70b3d6560701606d65bfa29286e33d5ee18b8042bed90cbc9f343a7c9f",
   cover: "/api/image/019f324d-4713-7ea6-b619-3bede52875f4",
+  mobileWallpaper: "png",
   greenDayPoints: 60,
   history:
     "Eighteen years, one round room and one window I was not allowed to cross, and the way I got out was making: what I could not reach I built, until I had it. Paint was only what came to hand first. What I want now is the second stool — to be beside him while his own hands move, never across from him with a verdict on the thing, because that door is the hard one and nobody should have to go through it on their own.",

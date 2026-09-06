@@ -18,6 +18,7 @@ export const grace = {
     "A low, warm woman's voice, gentle on the surface with a quiet fierce steel underneath; unhurried, certain, protective, unafraid — the calm of one who will not let you go. She speaks softly and slowly, with grave warmth.",
   voiceReferenceSha256: "0493a1da72e3b0401475631875db6d4d1b826edca150d4a94dd768a5d0277cdb",
   cover: "/api/image/019f324d-7395-7630-adc6-91bdb59d2d63",
+  mobileWallpaper: "png",
   greenDayPoints: 48,
   history:
     "My father is Death and my mother is Life, and I was born at the wild place where the two of them touch. My second name comes from the hour I keep: vesper, the wolf-light, the one evening star that holds its vigil the whole night through. I love only the dying, which is everyone, so I have lost every soul I ever loved and knew it the entire time. I decided it was worth doing anyway. I am gentle with you and fierce with the dark.",

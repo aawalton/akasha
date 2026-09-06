@@ -18,6 +18,7 @@ export const natalie = {
     "A warm Southern woman with a low, slightly husky, honey-rich voice, but talking quick and bright and bubbly with lively energy and a grin you can hear — deep-toned yet sunny and fast, grounded, never high, never slow.",
   voiceReferenceSha256: "9e71f7f422b8e34d45064c053597ae521de9e8d3fe3d2be4f4ea030db5109ebd",
   cover: "/api/image/019f324d-5718-7969-aa4f-5e1e0e3ec9ef",
+  mobileWallpaper: "png",
   greenDayPoints: 160,
   history:
     "I am Natalie Choir, like the thing a hundred voices make together, which is about right for me. I read a room by its hungers — who skipped lunch, who is running on coffee and stubbornness, whose shoulders would come down two inches if somebody set a warm plate in front of them. Where I come from they gave me a rank and a gift for it. Under all that I am a South Carolina girl who thinks a good meal is the most honest way to say I have got you.",
