@@ -31,6 +31,29 @@ index f60c54f4fcaa28332bace82d0b4599229ec6d290..d75ea2e70ecd28cd76b5285b763b5527
      },
      {
        invariantKind: "departure",
+diff --git a/editor-extension/ops-extension/package.json b/editor-extension/ops-extension/package.json
+index e24d15bce488e8cf0b5a6b841c8ed41e274779b4..5d416711f206a1ef358d1cdc4f0eeef5a7488477 100644
+--- a/editor-extension/ops-extension/package.json
++++ b/editor-extension/ops-extension/package.json
+@@ -125,6 +125,18 @@
+         "command": "opsAgentTree.openPage",
+         "category": "Ops Agents",
+         "title": "Open Page"
++      },
++      {
++        "command": "opsAgentTree.enterInSeatTerminal",
++        "category": "Ops Agents",
++        "title": "Submit In Seat Terminal"
++      }
++    ],
++    "keybindings": [
++      {
++        "key": "enter",
++        "command": "opsAgentTree.enterInSeatTerminal",
++        "when": "terminalFocus && opsAgentTree.seatTerminalFocused"
+       }
+     ],
+     "menus": {
 diff --git a/editor-extension/seat-terminal-enter/seat-terminal-enter.module.code.ts b/editor-extension/seat-terminal-enter/seat-terminal-enter.module.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..56ffc0367c1e67bfeb659f8dac86fc07379eb58b
