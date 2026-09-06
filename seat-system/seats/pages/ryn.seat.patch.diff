@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/editor-extension/work-tree-view/work-tree-view.module.ts b/editor-extension/work-tree-view/work-tree-view.module.ts
-index 24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c..3f217d4409dc0f59e41ac73e36c445ffd6c78b56 100644
+index 24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c..2a9003a455319660bb3763a8a3a5e485dc1b3e26 100644
 --- a/editor-extension/work-tree-view/work-tree-view.module.ts
 +++ b/editor-extension/work-tree-view/work-tree-view.module.ts
 @@ -9,7 +9,7 @@ export const workTreeView = {
@@ -9,6 +9,15 @@ index 24f98405ae8aaaf9e5d8f7718ffe20c82c9eda2c..3f217d4409dc0f59e41ac73e36c445ff
        invariantKind: "departure",
 -      statement: "A filter that reads the same as the one held redraws nothing.",
 +      statement: "A filter that reads the same as the filter held redraws nothing.",
+     },
+     {
+       invariantKind: "departure",
+@@ -48,7 +48,7 @@ export const workTreeView = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row opens the whole path that row carries rather than one composed here.",
++      statement: "A row opens the whole path that row carries rather than a path composed here.",
      },
      {
        invariantKind: "departure",
