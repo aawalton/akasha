@@ -38,7 +38,9 @@ export const DROPPED = "goes; the patch it held is dropped"
 
 const NO_CHECKS_AT = "runsChecks: false"
 
-const NO_WARRANTS_AT = "runsWarrants: false"
+const NOT_OWED_AT = "writerOwesReading: false"
+
+const NOT_OWED_WAS = "runsWarrants: false"
 
 const DIFF_AT = "diff --git "
 
@@ -210,7 +212,7 @@ export function runningIn(patch: string | null): Running {
   const lines = (at < 0 ? patch : patch.slice(0, at)).split("\n")
   return {
     checks: !lines.includes(NO_CHECKS_AT),
-    writerOwesReading: !lines.includes(NO_WARRANTS_AT),
+    writerOwesReading: !lines.includes(NOT_OWED_AT) && !lines.includes(NOT_OWED_WAS),
   }
 }
 
@@ -224,7 +226,7 @@ function eitherOf(one: Running, two: Running): Running {
 function preambleOf(running: Running): string {
   const said = [
     ...(running.checks ? [] : [NO_CHECKS_AT]),
-    ...(running.writerOwesReading ? [] : [NO_WARRANTS_AT]),
+    ...(running.writerOwesReading ? [] : [NOT_OWED_AT]),
   ]
   return said.length === 0 ? "" : `${said.join("\n")}\n`
 }

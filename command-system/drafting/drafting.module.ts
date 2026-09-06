@@ -220,15 +220,17 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A patch carries whether its changes run checks and whether they run warrants.",
+      statement:
+        "A patch carries whether the checks run on its changes and whether the writer owes reading.",
     },
     {
       invariantKind: "departure",
-      statement: "A patch runs the checks and warrants any change drafted into that patch runs.",
+      statement:
+        "A patch runs the checks and owes the reading of every change drafted into that patch.",
     },
     {
       invariantKind: "departure",
-      statement: "Checks and warrants are unioned each on its own.",
+      statement: "The checks are unioned apart from the reading the writer owes.",
     },
     {
       invariantKind: "departure",
@@ -236,16 +238,16 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "A resolve runs checks and warrants.",
+      statement: "A resolve runs the checks and owes the reading.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A path taken out leaves the patch running the checks and warrants that patch ran.",
+        "A path taken out leaves the patch running the checks and owing the reading that patch did.",
     },
     {
       invariantKind: "departure",
-      statement: "A patch taking another in runs the checks and warrants both patches ran.",
+      statement: "A patch taking another in runs the checks and owes the reading both patches did.",
     },
     {
       invariantKind: "departure",
@@ -254,6 +256,10 @@ export const drafting = {
     {
       invariantKind: "departure",
       statement: "A flag no line names is true.",
+    },
+    {
+      invariantKind: "stopgap",
+      statement: "A patch drafted before the flag was renamed is read under the old spelling too.",
     },
   ],
 } as const satisfies Module
