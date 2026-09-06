@@ -335,10 +335,16 @@ index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..89022557c5bdf7a646014e19392bbc27
    ])
  })
 diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
-index 8c089456d24331b27ea12ac563e293e181a28e4c..7bac261d991b4e40f4524330a74d92d9d1542c30 100644
+index 8c089456d24331b27ea12ac563e293e181a28e4c..363bb6d294645a2f7b52016e5b24028ef7ec2896 100644
 --- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
 +++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
-@@ -107,8 +107,13 @@ test("a restatement lowering a total is let through", () => {
+@@ -102,13 +102,18 @@ test("a restatement binding a max that stood unbounded is let through", () => {
+   expect(said).toEqual([])
+ })
+ 
+-test("a restatement lowering a total is let through", () => {
++test("a restatement lowering a length is let through", () => {
+   const root = rooted()
    const said = restating(
      root,
      judged,
