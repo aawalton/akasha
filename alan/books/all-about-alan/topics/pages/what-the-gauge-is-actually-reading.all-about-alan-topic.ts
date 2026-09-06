@@ -10,6 +10,4 @@ export const whatTheGaugeIsActuallyReading = {
   parentSlugs: ["not-wanting-to-is-the-gauge"],
   relatedSlugs: ["how-a-want-fires", "the-body-signals-i-can-barely-hear"],
   settled: "Not wanting to is an absolute veto. Wanting is not trusted.",
-  unsettled:
-    "What the reading refers to is undetermined: a pull I feel, a body state I do not, or both at once. The three would mean different things.\n\nWhether the asymmetry is set right is uncalibrated. There may be states where not wanting to is untrustworthy and the bar to push past it should be low, and states where wanting should be trusted.",
 } as const satisfies AllAboutAlanTopic
