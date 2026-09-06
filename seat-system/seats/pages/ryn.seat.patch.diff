@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/infrastructure/cluster/provisioning/bootstrap-layers.domain.ts b/infrastructure/cluster/provisioning/bootstrap-layers.domain.ts
+index 062aa895da44f8c216bc3dd02741041b51b71ec9..a511c677b05423bcde95cd75586ac5878fe86451 100644
+--- a/infrastructure/cluster/provisioning/bootstrap-layers.domain.ts
++++ b/infrastructure/cluster/provisioning/bootstrap-layers.domain.ts
+@@ -8,7 +8,7 @@ export const bootstrapLayers = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The toolchain layer reuses two of `prep.workflow`'s steps and no more.",
++      statement: "The toolchain layer reuses exactly two of `prep.workflow`'s steps.",
+     },
+     {
+       invariantKind: "departure",
