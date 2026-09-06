@@ -14,8 +14,11 @@ export const gitPathspec = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A writing command over the ceiling passes its paths on stdin, so one command still makes one change.",
+      statement: "A writing command over the ceiling passes its paths on stdin.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "One command still makes one change.",
     },
     {
       invariantKind: "departure",
@@ -28,8 +31,11 @@ export const gitPathspec = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A path git holds only in history counts as held, so a path already removed from disk is still named.",
+      statement: "A path git holds only in history counts as held.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path already removed from disk is still named.",
     },
   ],
 } as const satisfies Module
