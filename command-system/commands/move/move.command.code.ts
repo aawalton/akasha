@@ -2,7 +2,7 @@ import { resolve } from "node:path"
 import { typed } from "@akasha/code/code-typing"
 import { everyPath } from "@akasha/indexes"
 import { valuesOver } from "@akasha/pages/page-value"
-import { repointed } from "../../../changes/partial/pages/repoint-imports/repoint-imports.change-partial.code.ts"
+import { repointed } from "../../../changes/pages/repoint-imports/repoint-imports.change.code.ts"
 import {
   importingOf,
   spellingOf,
@@ -157,7 +157,8 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
         2
       )
     }
-    const said = respeltNames(repointed(one.from, one.to, text, moved), named)
+    const pointed = repointed(one.from, one.to, text, moved)
+    const said = respeltNames(pointed.edits[0]?.body ?? text, named)
     let next = respelled(one.to, said, addressing.get(one.from) ?? NOTHING_SAID)
     const renaming = one.renaming
     if (renaming !== null && !one.named) {
@@ -208,7 +209,8 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
         2
       )
     }
-    const said = respeltNames(repointed(path, path, text, moved), named)
+    const pointed = repointed(path, path, text, moved)
+    const said = respeltNames(pointed.edits[0]?.body ?? text, named)
     const next = respelled(path, said, addressing.get(path) ?? NOTHING_SAID)
     if (next === text) continue
     repointing.push(path)
