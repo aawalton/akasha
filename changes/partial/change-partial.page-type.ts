@@ -12,11 +12,7 @@ export const changePartial = {
   slug: "change-partial",
   definition: "a change run by another change rather than reached from the command line",
   pluralSlug: "change-partial",
-  partSlugs: [
-    "change-partial/repoint-imports",
-    "change-partial/respell-export",
-    "change-partial/restate-value",
-  ],
+  partSlugs: [],
   extendsSlug: ["page-type/change"],
   invariants: [
     {
