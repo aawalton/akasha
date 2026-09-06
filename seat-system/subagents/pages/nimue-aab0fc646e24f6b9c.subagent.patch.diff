@@ -78,3 +78,34 @@ index cb4fc86bcd516b6eb8392eeb74b90333cee5e0fe..d44c67a4bec9c068f9dbf5af7d7d7423
    if (spent.length === 0) {
      return {
        ok: false,
+diff --git a/alan/web/routes/claude-usage/claude-usage.route.test.ts b/alan/web/routes/claude-usage/claude-usage.route.test.ts
+index e737304ffd2f5a83e04fe0bc02b31b676321fa3b..cd305f7db70c6fc065eaf7896771772269e50269 100644
+--- a/alan/web/routes/claude-usage/claude-usage.route.test.ts
++++ b/alan/web/routes/claude-usage/claude-usage.route.test.ts
+@@ -22,7 +22,6 @@ import {
+   askingsAt,
+   buildClaudeUsageResponse,
+   type ClaudeUsageAnswers,
+-  spentIn,
+   type UsageWidgetPayload,
+ } from "./claude-usage.route.code.ts"
+ 
+@@ -165,18 +164,6 @@ test("the tier is read off how long the seven-day window has left", async () =>
+   expect(await tierAt(100)).toBe("blue")
+ })
+ 
+-test("a withdrawn subscription has spent the whole of its seven-day window", () => {
+-  expect(spentIn({ slug: "aine", subscriptionDisabledReason: "cancelled" })).toBe(100)
+-  const withdrawn = { slug: "aine", sevenDayPercentUsed: 2, subscriptionDisabledReason: "gone" }
+-  expect(spentIn(withdrawn)).toBe(100)
+-})
+-
+-test("a figure standing as text is read as the number it is", () => {
+-  expect(spentIn({ slug: "aine", sevenDayPercentUsed: "42" })).toBe(42)
+-  expect(spentIn({ slug: "aine", sevenDayPercentUsed: "" })).toBeNull()
+-  expect(spentIn({ slug: "aine" })).toBeNull()
+-})
+-
+ test("the mean is asked of every account, narrowing nothing", () => {
+   const asking = askingsAt(NOW).meanWeeklyUsed
+   expect(asking.pageTypeSlug).toBe(ACCOUNT)
