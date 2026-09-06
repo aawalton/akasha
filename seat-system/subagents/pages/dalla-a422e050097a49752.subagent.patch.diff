@@ -191,3 +191,66 @@ index 0000000000000000000000000000000000000000..d5ebc8c4cd7fc6d494d6d81a13d4dec5
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/command-system/commands/refactor/refactor.command.ts b/command-system/commands/refactor/refactor.command.ts
+index 809e2755b6345bd49330528a3f4d701006939552..5936fde72cda02910cefacabbf870691efdd6152 100644
+--- a/command-system/commands/refactor/refactor.command.ts
++++ b/command-system/commands/refactor/refactor.command.ts
+@@ -12,6 +12,7 @@ export const refactor = {
+     "module/key-respelling",
+     "module/package-phasing",
+     "module/package-renaming",
++    "module/page-renaming",
+     "module/page-retyping",
+     "module/refactor-arguing",
+     "module/refactor-landing",
+@@ -33,7 +34,10 @@ export const refactor = {
+       takes: "a page type's slug, a page's address, a property's address, or a name a body carries",
+     },
+     { said: "--to <slug>", takes: "the slug or name it becomes, or the key a property is read by" },
+-    { said: "--plural <slug>", takes: "the plural it becomes, on a page type rename alone" },
++    {
++      said: "--plural <slug>",
++      takes: "the plural it becomes, on a page type rename or a page slug rename",
++    },
+     { said: "--at <path>", takes: "the file exporting the name, on a name rename alone" },
+     {
+       said: "--line <n>",
+@@ -43,7 +47,10 @@ export const refactor = {
+     { said: "--message <text>", takes: "what the commit is for" },
+     { said: "--message-file <file>", takes: "a file the commit message is read from" },
+     { said: "--break-the-glass <reason>", takes: "why no check runs, said in the commit" },
+-    { said: "--dry-run", takes: "say what would happen and write nothing" },
++    {
++      said: "--dry-run",
++      takes: "say what would happen and write nothing, on every act but a page slug rename",
++    },
+   ],
+   helpNotes: [
+     "the act and the namespace stand before the flags, so more of each can be taken later.",
+@@ -54,7 +61,8 @@ export const refactor = {
+     "`page-type` itself is refused, being the tail every page type's own file carries.",
+     "a page slug rename takes the address a page is at, since a slug alone reaches no page.",
+     "a page slug rename carries the page's own file and the files beside it to the new name.",
+-    "a spelling of the old slug it cannot judge to be an address is named rather than changed.",
++    "a page slug rename is landed by the change page renaming a page, so it takes no --dry-run.",
++    "a page slug rename states the plural where the page it renames states one.",
+     "--dry-run names every file it would carry; a landing says how many.",
+     "a spelling it cannot judge to be a path is named in the answer rather than changed.",
+     "a property is named by the address it stands at, since a key on its own reaches no property.",
+@@ -98,7 +106,15 @@ export const refactor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page slug rename names every place that still spells the old slug.",
++      statement: "A page slug rename is landed by the change page that renames a page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page slug rename takes no dry run.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page slug rename states the plural the renamed page becomes.",
+     },
+     {
+       invariantKind: "departure",
