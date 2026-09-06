@@ -9,6 +9,4 @@ export const whatTheGraphIsMadeOf = {
   parentSlugs: ["the-graph-i-built-to-run-my-checks"],
   settled:
     "It is a whole system now, which is why I call it the graph system: nodes, edges, attributes, producers, queries.\n\nParts of it are derived from pages, parts from the filesystem, parts from code, and parts from other places.",
-  unsettled:
-    "Where the graph draws from something other than pages, the filesystem or code is unlisted.",
 } as const satisfies AllAboutAlanTopic
