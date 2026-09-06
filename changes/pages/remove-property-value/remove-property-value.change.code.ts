@@ -8,7 +8,7 @@ import {
 } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
-import { keyOf, literalIn } from "../restate-value/restate-value.change.code.ts"
+import { keyOf, literalIn } from "../restate-value/restate-value.change-mechanical.code.ts"
 
 const BLIND = ts.TypeFlags.Any | ts.TypeFlags.Unknown
 
@@ -66,7 +66,7 @@ export function removePropertyValue(world: World, given: RemovePropertyValueAske
     owner === null
       ? -1
       : owner.properties.findIndex(
-          (one) => ts.isPropertyAssignment(one) && keyOf(one) === given.key
+          (each) => ts.isPropertyAssignment(each) && keyOf(each) === given.key
         )
   const one = owner === null ? undefined : owner.properties[at]
   if (owner === null || one === undefined || !ts.isPropertyAssignment(one)) {

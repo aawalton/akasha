@@ -13,7 +13,7 @@ import {
 import type { Answer, Edit } from "../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { respelled } from "../respell-export/respell-export.change.code.ts"
-import { restated, statedIn } from "../restate-value/restate-value.change.code.ts"
+import { restated, statedIn } from "../restate-value/restate-value.change-mechanical.code.ts"
 
 const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
 

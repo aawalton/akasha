@@ -1,8 +1,8 @@
-import type { Change } from "../../change.page-type.ts"
+import type { ChangeMechanical } from "../../mechanical/change-mechanical.page-type.ts"
 
 export const moveFile = {
   id: "01a07883-67ed-7849-b6e5-e499695cac46",
-  pageTypeSlug: "change",
+  pageTypeSlug: "change-mechanical",
   slug: "move-file",
   definition: "one file carried to another path, with nothing else judged",
   code: "ts",
@@ -33,4 +33,4 @@ export const moveFile = {
       statement: "The calling change repoints every body naming the path that moved.",
     },
   ],
-} as const satisfies Change
+} as const satisfies ChangeMechanical

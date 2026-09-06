@@ -1,8 +1,8 @@
-import type { Change } from "../../change.page-type.ts"
+import type { ChangeMechanical } from "../../mechanical/change-mechanical.page-type.ts"
 
 export const repointImports = {
   id: "01a07718-c9b6-7696-a9d0-77a8605d3a0b",
-  pageTypeSlug: "change",
+  pageTypeSlug: "change-mechanical",
   slug: "repoint-imports",
   definition: "a body rewritten so the paths it names follow the files that moved",
   code: "ts",
@@ -11,4 +11,4 @@ export const repointImports = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
-} as const satisfies Change
+} as const satisfies ChangeMechanical

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { removeFile } from "./remove-file.change.code.ts"
+import { removeFile } from "./remove-file.change-mechanical.code.ts"
 
 const AT = "akasha/one.held.ts"
 

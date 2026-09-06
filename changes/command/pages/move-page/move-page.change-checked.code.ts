@@ -8,7 +8,7 @@ import type { Answer, Edit } from "../../../modules/change-answer/change-answer.
 import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
-import { repointed } from "../../../pages/repoint-imports/repoint-imports.change.code.ts"
+import { repointed } from "../../../pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
 
 const GUARDS = [importNotLeftHanging]
 

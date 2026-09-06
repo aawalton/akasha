@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
-import { restated } from "./restate-value.change.code.ts"
+import { restated } from "./restate-value.change-mechanical.code.ts"
 
 const AT = "akasha/held/kept.page-type.ts"
 

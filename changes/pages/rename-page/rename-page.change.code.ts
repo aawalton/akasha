@@ -12,7 +12,7 @@ import type { Answer } from "../../modules/change-answer/change-answer.module.ty
 import { type World, worldOver } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { renameSlug } from "../rename-page-slug/rename-page-slug.change.code.ts"
 import { renamePath } from "../rename-path/rename-path.change.code.ts"
-import { statedIn } from "../restate-value/restate-value.change.code.ts"
+import { statedIn } from "../restate-value/restate-value.change-mechanical.code.ts"
 
 const TYPED = ".ts"
 

@@ -14,6 +14,12 @@ export const changeMechanical = {
   definition: "a change another change composes rather than a command line reaches",
   pluralSlug: "change-mechanical",
   extendsSlug: ["page-type/change"],
+  partSlugs: [
+    "change-mechanical/move-file",
+    "change-mechanical/remove-file",
+    "change-mechanical/repoint-imports",
+    "change-mechanical/restate-value",
+  ],
   invariants: [
     {
       invariantKind: "departure",

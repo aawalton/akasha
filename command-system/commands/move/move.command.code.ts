@@ -2,7 +2,7 @@ import { resolve } from "node:path"
 import { typed } from "@akasha/code/code-typing"
 import { everyPath } from "@akasha/indexes"
 import { valuesOver } from "@akasha/pages/page-value"
-import { repointed } from "../../../changes/pages/repoint-imports/repoint-imports.change.code.ts"
+import { repointed } from "../../../changes/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
 import {
   importingOf,
   spellingOf,
@@ -158,8 +158,8 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
       )
     }
     const pointed = repointed(one.from, one.to, text, moved)
-    const said = respeltNames(pointed.edits[0]?.body ?? text, named)
-    let next = respelled(one.to, said, addressing.get(one.from) ?? NOTHING_SAID)
+    const spelt = respeltNames(pointed.edits[0]?.body ?? text, named)
+    let next = respelled(one.to, spelt, addressing.get(one.from) ?? NOTHING_SAID)
     const renaming = one.renaming
     if (renaming !== null && !one.named) {
       next = rebound(one.to, next, renaming.was, renaming.now)
@@ -210,8 +210,8 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
       )
     }
     const pointed = repointed(path, path, text, moved)
-    const said = respeltNames(pointed.edits[0]?.body ?? text, named)
-    const next = respelled(path, said, addressing.get(path) ?? NOTHING_SAID)
+    const spelt = respeltNames(pointed.edits[0]?.body ?? text, named)
+    const next = respelled(path, spelt, addressing.get(path) ?? NOTHING_SAID)
     if (next === text) continue
     repointing.push(path)
     carries.push({ was: path, now: path, from: blobIdOf(held) })
@@ -228,7 +228,7 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
   if ("refusals" in edited) return answering([], edited.refusals, 1)
   for (const one of edited.edits) {
     const body = new TextEncoder().encode(one.text)
-    const at = changes.findIndex((held) => held.path === one.path)
+    const at = changes.findIndex((each) => each.path === one.path)
     if (at !== -1) {
       changes[at] = { path: one.path, body, carried: true }
       continue
@@ -262,8 +262,8 @@ export async function move(argv: readonly string[], given: Given): Promise<Answe
     read: base,
     carries: uncommitted,
     readings: carries,
-    saying: (landed) => [
-      ...carrying(sided.sides, reached, false, spread, landed.cleared),
+    saying: (done) => [
+      ...carrying(sided.sides, reached, false, spread, done.cleared),
       ...resettlingSaid(root, named, true),
     ],
     draft: given.agentId !== null,

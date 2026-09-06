@@ -6,7 +6,7 @@ import { importEdge } from "@akasha/graph/import-edge"
 import { everyPath, readingIn } from "@akasha/indexes"
 import { uncommittedNamed } from "@akasha/pages/page-file-name"
 import { shadowAt } from "@akasha/pages/shadow"
-import { repointed } from "../../../changes/pages/repoint-imports/repoint-imports.change.code.ts"
+import { repointed } from "../../../changes/pages/repoint-imports/repoint-imports.change-mechanical.code.ts"
 import {
   importingOf,
   spellingOf,
@@ -152,7 +152,7 @@ export async function landed(
   const bodyText = bodyTextOf(root, base)
   const onDisk = (path: string): boolean => existsSync(join(root, path))
   const carries = carriesFor(root, one, onDisk)
-  const moved = new Map<string, string>(carries.map((held) => [held.from, held.to]))
+  const moved = new Map<string, string>(carries.map((each) => [each.from, each.to]))
   const typing = typingOver(root, everyPath(root).filter(compiled), readingOf(root, bodyText))
   const held: Rewriting = {
     one,
@@ -324,11 +324,11 @@ export async function refactor(argv: readonly string[], given: Given): Promise<A
     namespace !== TOKEN &&
     namespace !== PACKAGE
   ) {
-    const said = namespace === undefined ? "none was named" : `\`${namespace}\` is not one of them`
+    const why = namespace === undefined ? "none was named" : `\`${namespace}\` is not one of them`
     return answering(
       [],
       [
-        `${RENAME} names the namespace it is worked over, and ${said} — ` +
+        `${RENAME} names the namespace it is worked over, and ${why} — ` +
           `it carries \`${PAGE_TYPE}\`, \`${PAGE_SLUG}\`, \`${PROPERTY_SLUG}\`, \`${TOKEN}\` ` +
           `and \`${PACKAGE}\``,
       ],
@@ -347,8 +347,8 @@ export async function refactor(argv: readonly string[], given: Given): Promise<A
   if (namespace === TOKEN) {
     const at = read.said.get(AT)
     if (from === undefined || to === undefined || at === undefined) {
-      const said = `a name rename takes ${AT}, ${FROM} and ${TO}, and one of them was not said`
-      return answering([], [said], 1)
+      const why = `a name rename takes ${AT}, ${FROM} and ${TO}, and one of them was not said`
+      return answering([], [why], 1)
     }
     const asked = tokeningFor(at, from, to, read.said.get(LINE))
     if ("refused" in asked) return answering([], [asked.refused], 1)
@@ -356,8 +356,8 @@ export async function refactor(argv: readonly string[], given: Given): Promise<A
   }
   if (namespace === PACKAGE) {
     if (from === undefined || to === undefined) {
-      const said = `a package rename takes ${FROM} and ${TO}, and one of them was not said`
-      return answering([], [said], 1)
+      const why = `a package rename takes ${FROM} and ${TO}, and one of them was not said`
+      return answering([], [why], 1)
     }
     if (read.said.has(PLURAL)) {
       return answering([], [`${PLURAL} names a page type's plural, and a package carries none`], 1)
@@ -366,14 +366,14 @@ export async function refactor(argv: readonly string[], given: Given): Promise<A
   }
   if (namespace === PAGE_SLUG) {
     if (from === undefined || to === undefined) {
-      const said = `a page slug rename takes ${FROM} and ${TO}, and one of them was not said`
-      return answering([], [said], 1)
+      const why = `a page slug rename takes ${FROM} and ${TO}, and one of them was not said`
+      return answering([], [why], 1)
     }
     if (read.dryRun) {
-      const said =
+      const why =
         `a page slug rename takes no ${DRY_RUN} — let it draft, and read the patch it keeps ` +
         "before running `akasha patch apply`"
-      return answering([], [said], 1)
+      return answering([], [why], 1)
     }
     return await pageLanded(given, root, from, to, read.said.get(PLURAL), argv)
   }

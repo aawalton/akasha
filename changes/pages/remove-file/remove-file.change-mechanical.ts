@@ -1,8 +1,8 @@
-import type { Change } from "../../change.page-type.ts"
+import type { ChangeMechanical } from "../../mechanical/change-mechanical.page-type.ts"
 
 export const removeFile = {
   id: "01a07744-1311-748c-a35b-3ebe72349dee",
-  pageTypeSlug: "change",
+  pageTypeSlug: "change-mechanical",
   slug: "remove-file",
   definition: "one file taken away, with nothing else judged",
   code: "ts",
@@ -33,4 +33,4 @@ export const removeFile = {
       statement: "Nothing here reads the disk or an index.",
     },
   ],
-} as const satisfies Change
+} as const satisfies ChangeMechanical

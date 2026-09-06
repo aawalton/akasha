@@ -8,7 +8,7 @@ import type { Answer } from "../../modules/change-answer/change-answer.module.ty
 import { guardedBy } from "../../modules/change-guarding/change-guarding.module.code.ts"
 import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../modules/page-claiming/page-claiming.module.code.ts"
-import { removeFile } from "../remove-file/remove-file.change.code.ts"
+import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
 import { removePropertyValue } from "../remove-property-value/remove-property-value.change.code.ts"
 
 const PAGE_TYPE = "page-type"

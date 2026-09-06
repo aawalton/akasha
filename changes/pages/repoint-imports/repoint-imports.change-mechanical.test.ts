@@ -6,7 +6,7 @@ import {
   TARGET,
 } from "../../../command-system/commands/move/move.command.test-fixtures.ts"
 import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
-import { repointed } from "./repoint-imports.change.code.ts"
+import { repointed } from "./repoint-imports.change-mechanical.code.ts"
 
 const TABLE = "akasha/one/routes.ts"
 

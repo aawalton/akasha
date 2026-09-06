@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { moveFile } from "./move-file.change.code.ts"
+import { moveFile } from "./move-file.change-mechanical.code.ts"
 
 const FROM = "akasha/one.held.ts"
 

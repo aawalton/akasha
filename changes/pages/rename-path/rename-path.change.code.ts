@@ -2,7 +2,7 @@ import { importingOf } from "../../../pages/indexes/path-naming/path-naming.modu
 import { answered, refusing } from "../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer, Edit } from "../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../modules/change-shadow/change-shadow.module.code.ts"
-import { repointed } from "../repoint-imports/repoint-imports.change.code.ts"
+import { repointed } from "../repoint-imports/repoint-imports.change-mechanical.code.ts"
 
 export type RenamePathAsked = {
   readonly from: string
