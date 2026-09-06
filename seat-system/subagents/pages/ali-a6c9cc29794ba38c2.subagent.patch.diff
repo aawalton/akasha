@@ -3899,15 +3899,16 @@ index 0000000000000000000000000000000000000000..21818f0f56330f8a48073de27db1b6ad
 +} as const satisfies MasteryLevel
 diff --git a/alan/library/book-of-everything/mastery-levels/properties/mastery-behaviour.text-property.ts b/alan/library/book-of-everything/mastery-levels/properties/mastery-behaviour.text-property.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..e2bc4c2cae8dfbe5f422f144ea0ee47b091942c8
+index 0000000000000000000000000000000000000000..cc84de6abfc01cd7153fafe514a7db37f1e48391
 --- /dev/null
 +++ b/alan/library/book-of-everything/mastery-levels/properties/mastery-behaviour.text-property.ts
-@@ -0,0 +1,18 @@
+@@ -0,0 +1,19 @@
 +import type { TextProperty } from "@akasha/pages/text-property"
 +
 +export type MasteryBehaviour = string
 +
 +export const masteryBehaviour = {
++  id: "01a0784a-cdba-7f44-8b2a-45ca64505638",
 +  pageTypeSlug: "text-property",
 +  slug: "mastery-behaviour",
 +  propertySlug: "behaviour",
