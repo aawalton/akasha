@@ -66,3 +66,15 @@ index 0000000000000000000000000000000000000000..5131cb730ba3e1d0c358f3ff0d11eb92
 +    },
 +  ],
 +} as const satisfies BooleanProperty
+diff --git a/personas/properties/mobile-wallpaper.file-property.ts b/personas/properties/mobile-wallpaper.file-property.ts
+index 8275322eaba56389cd53e9f34400a581bc3deac8..43a29008201c513de780debe591a8970544c2487 100644
+--- a/personas/properties/mobile-wallpaper.file-property.ts
++++ b/personas/properties/mobile-wallpaper.file-property.ts
+@@ -10,6 +10,7 @@ export const mobileWallpaper = {
+   definition: "the picture a persona is shown as on Alan's phone",
+   machineWritten: true,
+   runsFileLength: false,
++  holdsBytes: true,
+   invariants: [
+     {
+       invariantKind: "departure",
