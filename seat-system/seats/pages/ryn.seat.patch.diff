@@ -1,0 +1,17 @@
+diff --git a/inference/clients/ace-step-client/ace-step-client.module.ts b/inference/clients/ace-step-client/ace-step-client.module.ts
+index eb70feb5a13208789e23c2b56c325d46b75ae113..4994af0aaba78476cd28087542e38f18ec61e609 100644
+--- a/inference/clients/ace-step-client/ace-step-client.module.ts
++++ b/inference/clients/ace-step-client/ace-step-client.module.ts
+@@ -13,7 +13,11 @@ export const aceStepClient = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The seed is always told, so the service draws none of its own.",
++      statement: "The seed is always told.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The service draws no seed of its own.",
+     },
+     {
+       invariantKind: "departure",
