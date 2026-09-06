@@ -1,5 +1,5 @@
 diff --git a/changes/partial/pages/repoint-imports/repoint-imports.change-partial.ts b/changes/partial/pages/repoint-imports/repoint-imports.change-partial.ts
-index bbfe61026dc8e5ef10056b9c7f76a1ab83259d67..92a6c478bfd5ff88f46f80734d35a5433c1fa5ef 100644
+index bbfe61026dc8e5ef10056b9c7f76a1ab83259d67..c62fe791b0bf4901486613505b7a4995b0284dd4 100644
 --- a/changes/partial/pages/repoint-imports/repoint-imports.change-partial.ts
 +++ b/changes/partial/pages/repoint-imports/repoint-imports.change-partial.ts
 @@ -28,11 +28,11 @@ export const repointImports = {
@@ -16,3 +16,12 @@ index bbfe61026dc8e5ef10056b9c7f76a1ab83259d67..92a6c478bfd5ff88f46f80734d35a543
      },
      {
        invariantKind: "absence",
+@@ -44,7 +44,7 @@ export const repointImports = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Those declarations are named for the body naming them.",
++      statement: "Those declarations are named for the body naming those declarations.",
+     },
+     {
+       invariantKind: "departure",
