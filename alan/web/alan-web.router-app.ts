@@ -148,5 +148,6 @@ export const alanWeb = {
     "route/inbox-stoplights",
     "route/no-such-route",
     "route/pages-ready",
+    "route/wallpaper",
   ],
 } as const satisfies RouterApp
