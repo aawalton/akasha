@@ -1,3 +1,44 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-the-stress-taking-my-sleep-is-made-of.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-the-stress-taking-my-sleep-is-made-of.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6bb523b4e95c993265ff0c3c71e5eb18e7c82213
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-the-stress-taking-my-sleep-is-made-of.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatTheStressTakingMySleepIsMadeOf = {
++  id: "01a0780e-1872-7521-a452-bff76e8c6e01",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-the-stress-taking-my-sleep-is-made-of",
++  topicSlug: "sleep",
++  ask: "Stress is taking two or three hours off my sleep. What is that stress made of, and is it the same thing every night?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-took-my-sleep-down-to-seven.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-took-my-sleep-down-to-seven.all-about-alan-question.ts
+deleted file mode 100644
+index c43b24083b90966e90e7fa1fa9b9ac61a2508b29..0000000000000000000000000000000000000000
+--- a/alan/books/all-about-alan/questions/pages/what-took-my-sleep-down-to-seven.all-about-alan-question.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+-
+-export const whatTookMySleepDownToSeven = {
+-  id: "01a0780b-3f60-76b7-af1c-67ab8a2981f8",
+-  pageTypeSlug: "all-about-alan-question",
+-  slug: "what-took-my-sleep-down-to-seven",
+-  topicSlug: "sleep",
+-  ask: "I want nine or ten hours and I am getting seven most days. What is taking the other two or three, and is the cause the same one every night?",
+-} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts
+index dfe2e415b94d0527d26f32947b57288355897688..2c9ac77b57cb931b1e073ec5c33ec9d257d6e067 100644
+--- a/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/sleep.all-about-alan-topic.ts
+@@ -8,5 +8,5 @@ export const sleep = {
+   definition: "how I sleep, and what it does for me",
+   parentSlugs: ["resources"],
+   settled:
+-    "Seven hours most days at the moment, where I want nine or ten.\n\nI almost always wake without an alarm.\n\nIt is the nearest thing to a cure-all I have found.",
++    "Seven hours most days at the moment, where I want nine or ten.\n\nStress is what is trimming the hours now, rather than Vyvanse.\n\nI almost always wake without an alarm.\n\nIt is the nearest thing to a cure-all I have found.",
+ } as const satisfies AllAboutAlanTopic
 diff --git a/role-system/roles/pages/interviewer.role.ts b/role-system/roles/pages/interviewer.role.ts
 index c4082fce99b86febefc32e5ac687d077fe096f13..8c66f2af90c35366da67cdeaeee66b1dc43a960a 100644
 --- a/role-system/roles/pages/interviewer.role.ts
