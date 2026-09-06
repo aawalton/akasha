@@ -55,6 +55,63 @@ index cc9e113aba48e7549312c4701e71d1507227358d..e51c3695f0aed5f9b4b7715d248bfe25
    const unknown = unknownIn(rest, option.valued, BARE)
    if (unknown.length > 0) return mistaking(unknown)
    const over = option.over(root, rest)
+diff --git a/command-system/commands/change/change.command.test.ts b/command-system/commands/change/change.command.test.ts
+index 57395788e062922fbef95c281465723031889b80..6eb104abf0d10d9276446fa9073b23ae32bceb31 100644
+--- a/command-system/commands/change/change.command.test.ts
++++ b/command-system/commands/change/change.command.test.ts
+@@ -93,7 +93,10 @@ test("a change that refuses appends nothing and says why that change refused", a
+ test("a word naming no change is refused with the changes this command runs", async () => {
+   const said = await changing(repo(), PAGE, ["remove-file", "--file-path", NAMER_PAGE])
+ 
+-  expect(said.refusals).toEqual(["`remove-file` is no change this runs, which takes `remove-page`"])
++  expect(said.refusals).toEqual([
++    "`remove-file` is no change this runs, which takes `remove-page`",
++    "`drop` takes away the edits kept, and is the one word here naming no change",
++  ])
+ })
+ 
+ test("a call naming no change is refused with the changes this command runs", async () => {
+@@ -132,6 +135,40 @@ test("a path that is no page keeps no edits", async () => {
+   expect(said.refusals).toEqual(["a path that is no page keeps no edits"])
+ })
+ 
++test("a drop takes away every edit kept and names each edit that went", async () => {
++  const root = repo()
++  await changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
++
++  const said = await changing(root, PAGE, ["drop"])
++
++  expect(said.refusals).toEqual([])
++  expect(said.code).toBe(0)
++  expect(said.report).toEqual([
++    ...[`takes ${NAMER_CODE} away`, `takes ${NAMER_PAGE} away`].sort(),
++    "these edits are gone, and no apply lands them",
++  ])
++  expect(pathsIn(root)).toEqual([])
++})
++
++test("a drop over no edit kept says so rather than refusing", async () => {
++  const root = repo()
++
++  const said = await changing(root, PAGE, ["drop"])
++
++  expect(said.refusals).toEqual([])
++  expect(said.code).toBe(0)
++  expect(said.report).toEqual(["no edits are kept beside this agent's page, so nothing went"])
++})
++
++test("a flag given to a drop is refused", async () => {
++  const root = repo()
++
++  const said = await changing(root, PAGE, ["drop", "--file-path", NAMER_PAGE])
++
++  expect(said.code).toBe(2)
++  expect(pathsIn(root)).toEqual([])
++})
++
+ test("an edit writing a body becomes a change carrying that body", () => {
+   expect(editsFor([{ path: "a/b.ts", was: null, body: "held" }])).toEqual([
+     { path: "a/b.ts", body: new TextEncoder().encode("held") },
 diff --git a/command-system/commands/change/change.command.ts b/command-system/commands/change/change.command.ts
 index 76892235c2377cc6dce9f0690fb218de2775fca9..2a8c83b2cf874d02ec9146da7570182cd8cc3027 100644
 --- a/command-system/commands/change/change.command.ts
