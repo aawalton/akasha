@@ -1,5 +1,5 @@
 diff --git a/code-system/code-tests/code-tests.module.ts b/code-system/code-tests/code-tests.module.ts
-index b021b6cbdde91ee5c6797452cae7554ada89bcef..c1fc9140a01aef955b50ff77c72f538a1d4e36f9 100644
+index b021b6cbdde91ee5c6797452cae7554ada89bcef..919ef43ad3a655ee2c5ffb007bb92943f02ddc82 100644
 --- a/code-system/code-tests/code-tests.module.ts
 +++ b/code-system/code-tests/code-tests.module.ts
 @@ -56,11 +56,15 @@ export const codeTests = {
@@ -20,7 +20,7 @@ index b021b6cbdde91ee5c6797452cae7554ada89bcef..c1fc9140a01aef955b50ff77c72f538a
      },
      {
        invariantKind: "departure",
-@@ -267,11 +271,15 @@ export const codeTests = {
+@@ -267,15 +271,19 @@ export const codeTests = {
      },
      {
        invariantKind: "departure",
@@ -35,6 +35,11 @@ index b021b6cbdde91ee5c6797452cae7554ada89bcef..c1fc9140a01aef955b50ff77c72f538a
        invariantKind: "departure",
 -      statement: "A run is named by path and, where a name is given, by one test's whole name.",
 +      statement: "A run given a name is named by that test's whole name too.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A name reaches the runner escaped and anchored, so the name matches whole.",
++      statement: "A name reaches the runner escaped and anchored.",
      },
      {
        invariantKind: "departure",
