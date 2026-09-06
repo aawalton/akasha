@@ -1,5 +1,5 @@
 diff --git a/command-system/applying/applying.module.code.ts b/command-system/applying/applying.module.code.ts
-index 0b155357e845e1bc2ff86fae15b491dab2b6eb0b..ec7bbf42eb74959cbdacc0ef4c1d1fb329575a50 100644
+index 0b155357e845e1bc2ff86fae15b491dab2b6eb0b..f088fb9bfc437d6b9bc31082773ace1325398722 100644
 --- a/command-system/applying/applying.module.code.ts
 +++ b/command-system/applying/applying.module.code.ts
 @@ -17,6 +17,7 @@ import {
@@ -10,6 +10,14 @@ index 0b155357e845e1bc2ff86fae15b491dab2b6eb0b..ec7bbf42eb74959cbdacc0ef4c1d1fb3
  import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
  import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
  
+@@ -109,6 +110,7 @@ export async function applied(
+   const done = await landing(root, prepared.changes, said0, gate, writer, head, asRead, carries)
+   if ("refusals" in done) return done
+   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
++  carryLanded(root, head, running, prepared.changes, [])
+   droppedPatch(root, page, APPLIED)
+   const put = installingIn(root, prepared.changes)
+   return {
 diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
 index bc16a12180fdef8b98750ffa77d088ea3d62129f..993ab13a1ad763b9bf612ee9cdac3a8f683c25c5 100644
 --- a/command-system/asking/asking.module.code.ts
