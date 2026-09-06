@@ -12,3 +12,17 @@ index 0000000000000000000000000000000000000000..43824a2331921681394e31262bac1ece
 +  slug: "realtime-secrets-database-url",
 +  placements: [{ resourceName: "realtime-secrets", resourceKey: "DATABASE_URL" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/realtime-secrets-db-enc-key.secret.ts b/service-system/secrets/pages/realtime-secrets-db-enc-key.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..853f5294775b7077bceaf02735306ee8f51d7e7e
+--- /dev/null
++++ b/service-system/secrets/pages/realtime-secrets-db-enc-key.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const realtimeSecretsDbEncKey = {
++  id: "01a07699-6219-7063-a25d-8050d0f6f272",
++  pageTypeSlug: "secret",
++  slug: "realtime-secrets-db-enc-key",
++  placements: [{ resourceName: "realtime-secrets", resourceKey: "DB_ENC_KEY" }],
++} as const satisfies Secret
