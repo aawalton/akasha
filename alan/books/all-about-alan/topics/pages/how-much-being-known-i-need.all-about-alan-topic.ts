@@ -9,6 +9,4 @@ export const howMuchBeingKnownINeed = {
   parentSlugs: ["being-known"],
   settled:
     "Nobody stays full on a basic need. The bar is clearing the deficiency and re-dosing as it drops.\n\nAbout an hour a month now, an hour a week to start with, an hour a day as the long ideal.\n\nToday's text and low-fidelity hours barely count toward those numbers.",
-  unsettled:
-    "Which real source costs me least per hour is unranked, of the therapist, low-stakes ties, and Jen in a window where we both have room.\n\nHow wide the window where Jen and I both have surplus actually is, and whether scheduling or recovery order widens it, is unmeasured.\n\nNothing tallies the hours, and what counts as one is undefined. With fidelity partial, an honest count would have to be weighted.\n\nBeing known in my head does not settle what my body carries. Jen is the only payer there.",
 } as const satisfies AllAboutAlanTopic
