@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-commands/temper-eso-generate-hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts b/temper/temper-commands/temper-eso-generate-hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts
+index 7e9a9c9d08cdee7b07524733fbb6c3a787671bb9..b0ecbe7a9529efe03911d26f131f98550876153e 100644
+--- a/temper/temper-commands/temper-eso-generate-hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts
++++ b/temper/temper-commands/temper-eso-generate-hud-scene-catalog/temper-eso-generate-hud-scene-catalog.command.ts
+@@ -29,7 +29,7 @@ export const temperEsoGenerateHudSceneCatalog = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run parses by the rules sitting beside it rather than by the tree's.",
++      statement: "A run parses by the rules sitting beside that run rather than by the tree's.",
+     },
+     {
+       invariantKind: "departure",
