@@ -25,7 +25,7 @@ export const helpExclusions = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A set names two flags or more.",
+      statement: "A set names at least two flags.",
     },
   ],
 } as const satisfies RecordProperty
