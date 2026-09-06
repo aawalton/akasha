@@ -1,3 +1,17 @@
+diff --git a/readout-system/readout-widgets/pages/alanwalton-safety-level.readout-widget.ts b/readout-system/readout-widgets/pages/alanwalton-safety-level.readout-widget.ts
+index 93e545350c87d28726a225c516b962ff47f84393..446fa56996c59b3b933d3c03214320ae93cedaaf 100644
+--- a/readout-system/readout-widgets/pages/alanwalton-safety-level.readout-widget.ts
++++ b/readout-system/readout-widgets/pages/alanwalton-safety-level.readout-widget.ts
+@@ -13,7 +13,8 @@ export const alanwaltonSafetyLevel = {
+   caption: "Safety",
+   galleryName: "Safety",
+   galleryDescription: "Where your safety level is today.",
+-  opens: "capacitor://localhost/nav/tracking-690c624f?tab=019edbf5-d4ea-7380-a6be-bc7496dbb24c",
++  opens:
++    "capacitor://localhost/nav/tracking-690c624f?tab=019edbf5-d4ea-7380-a6be-bc7496dbb24c#widget=alanwalton-safety-level",
+   groupSlugs: ["safety"],
+   place: 9,
+ } as const satisfies ReadoutWidget
 diff --git a/readout-system/readout-widgets/pages/alanwalton-surplus.readout-widget.ts b/readout-system/readout-widgets/pages/alanwalton-surplus.readout-widget.ts
 index f3740c93e665745f40f0ab3febcae3ce3c31bdd3..152f945fbb8ea5bef0c6342a72000a90b40e4ffd 100644
 --- a/readout-system/readout-widgets/pages/alanwalton-surplus.readout-widget.ts
