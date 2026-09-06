@@ -50,6 +50,23 @@ export const applying = {
     },
     {
       invariantKind: "departure",
+      statement: "An apply carrying a manifest carries the lockfile those manifests warrant.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply writes a page type's worked type again as any other landing does.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An apply carrying a manifest installs the checkout onto the commit it landed.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "An install the apply's tree would not take is answered as the landing road answers it.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A reading is recorded of the body the formatter left rather than the body drafted.",
     },

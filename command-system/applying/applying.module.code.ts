@@ -1,7 +1,7 @@
 import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import type { Judging } from "@akasha/checks/judging"
 import { said as gitSaid } from "@akasha/git/git-running"
-import { bypassedIn, formattingIn, MECHANICAL, noCheckSaid } from "../asking/asking.module.code.ts"
+import { bypassedIn, MECHANICAL, noCheckSaid, preparing } from "../asking/asking.module.code.ts"
 import {
   APPLIED,
   type Bodies,
@@ -17,6 +17,7 @@ import {
   landing,
   type Refused,
 } from "../landing/landing.module.code.ts"
+import { installingIn } from "../manifest-locking/manifest-locking.module.code.ts"
 import { blobIdOf, type Reading, readingIn, recordRead } from "../reading/reading.module.code.ts"
 
 const NO_PAGE = "a path that is no page keeps no patch"
@@ -31,6 +32,8 @@ export type Applied = {
   readonly base: string
   readonly landed: readonly string[]
   readonly formatted: readonly string[]
+  readonly said: readonly string[]
+  readonly wrong: readonly string[]
   readonly commit: string | null
 }
 
@@ -98,17 +101,21 @@ export async function applied(
   const running = runningIn(patch)
   const gate = running.checks ? judging : NO_GATE
   const said0 = running.checks ? message : bypassedIn(message, noCheckSaid(MECHANICAL.slug))
-  const formatting = formattingIn(root, editsOf(said.held))
+  const prepared = preparing(root, head, editsOf(said.held))
+  const formatting = prepared.formatting
   if (running.warrants && agentId !== null) warrantedAgain(root, agentId, said.held, said.moved)
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
-  const done = await landing(root, formatting.changes, said0, gate, writer, head, asRead, carries)
+  const done = await landing(root, prepared.changes, said0, gate, writer, head, asRead, carries)
   if ("refusals" in done) return done
   if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
   droppedPatch(root, page, APPLIED)
+  const put = installingIn(root, prepared.changes)
   return {
     base: done.base,
     landed: [...done.wrote, ...done.took].sort(),
     formatted: [...formatting.formatted].sort(),
+    said: [...prepared.said, ...put.said],
+    wrong: put.wrong,
     commit: done.commit,
   }
 }

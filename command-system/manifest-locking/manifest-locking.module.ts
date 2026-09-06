@@ -76,7 +76,11 @@ export const manifestLocking = {
     },
     {
       invariantKind: "departure",
-      statement: "The install runs under the hold a landing takes.",
+      statement: "The install runs once the landing has given up the hold.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "Two landings carrying a manifest at once install at once.",
     },
     {
       invariantKind: "departure",

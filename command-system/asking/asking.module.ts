@@ -128,6 +128,15 @@ export const asking = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Formatting, the lockfile and the worked type are worked out before the hold is taken.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every road that lands works those three out through one step here.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A lockfile that could not be made is said rather than refusing the change.",
     },
     {

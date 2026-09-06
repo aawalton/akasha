@@ -356,13 +356,14 @@ export async function applying(
       report: [
         ...said.landed.map((one) => `landed ${one}`),
         ...formattedSaid(said.formatted),
+        ...said.said,
         ...(broken === null ? [] : [glassSaid(broken)]),
         said.commit === null
           ? "nothing was committed — the tree already holds what the patch asked for"
           : `committed as ${said.commit}`,
       ],
-      refusals: [],
-      code: 0,
+      refusals: said.wrong,
+      code: said.wrong.length === 0 ? 0 : 3,
     }
   } catch (thrown) {
     return { report: [], refusals: [`nothing was committed — ${whyOf(thrown)}`], code: 3 }

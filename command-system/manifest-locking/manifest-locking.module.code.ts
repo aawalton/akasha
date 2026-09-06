@@ -11,7 +11,6 @@ import {
 import { dirname, join, relative } from "node:path"
 import { argvFor } from "@akasha/git/git-running"
 import { ran } from "@akasha/utils-run/running"
-import { holding } from "../holding/holding.module.code.ts"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 
 const MANIFEST = "package.json"
@@ -147,7 +146,7 @@ export function lockingFor(root: string, base: string, changes: readonly FileEdi
 export const INSTALL_SPELLING =
   `the lockfile is made without an install, so what the workspace reaches its packages through ` +
   `still points at the folders the manifests named before, and a landing carrying a ` +
-  `\`${MANIFEST}\` installs the checkout under the hold to move it`
+  `\`${MANIFEST}\` installs the checkout to move it, once that landing has given up the hold`
 
 export type Installing = {
   readonly said: readonly string[]
@@ -249,7 +248,7 @@ export function installingIn(root: string, changes: readonly FileEdit[]): Instal
   if (manifestsIn(changes).length === 0) return NOTHING_INSTALLED
   if (!existsSync(join(root, MANIFEST))) return NOTHING_INSTALLED
   try {
-    return holding(root, () => installedIn(root))
+    return installedIn(root)
   } catch (thrown) {
     return {
       said: [],
