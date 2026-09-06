@@ -244,15 +244,27 @@ index 59a850bcf2d69c4c9e137a63c419bc1cdce19c0b..041bc1f9574edf2ec71e9a5dbb2e5efa
    listedFiled(root, "page-type", "page-type", [{ path: typeAt, id: PAGE_TYPE_ID }])
    schemaFiledFor(root, "relation-property", "extends-slug")
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
-index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..c7767e7be9189184623f49927ea616c72bcba594 100644
+index b3b02bc80d350bb5d67ca0cf90f711a2cf091bcd..3d3124d9824bc47f2b2303481ec6801d44190acf 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
-@@ -135,7 +135,7 @@ test("a property the page type does not declare is refused", () => {
+@@ -135,9 +135,9 @@ test("a property the page type does not declare is refused", () => {
    ])
  })
  
 -test("a value over its text max is refused", () => {
 +test("a value over its text length is refused", () => {
    expect(over({ id: "a", slug: "far-too-long", test: "ts" }, "check")).toEqual([
-     "`slug` runs to 12 characters, over the max of 8",
+-    "`slug` runs to 12 characters, over the max of 8",
++    "`slug` runs to 12 characters, over the length of 8",
    ])
+ })
+ 
+@@ -238,7 +238,7 @@ test("a record field is judged by the format its own property states", () => {
+ 
+ test("a value both over its max and off its format is refused for each", () => {
+   expect(over({ id: "a", slug: "Far-Too-Long", test: "ts" }, "check")).toEqual([
+-    "`slug` runs to 12 characters, over the max of 8",
++    "`slug` runs to 12 characters, over the length of 8",
+     '`slug` is "Far-Too-Long", which is not written in `all-lower`',
+   ])
+ })
