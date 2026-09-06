@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-resume/seat-resume.module.ts b/seat-system/seat-resume/seat-resume.module.ts
-index d99c083c385f21c6e49e99fa6a46b8ebd6522ffa..57a806ca7cf76f13930e8b6f332964915f43ba00 100644
+index d99c083c385f21c6e49e99fa6a46b8ebd6522ffa..1029692f8640ed3377f4f6fbe340811e6e41da22 100644
 --- a/seat-system/seat-resume/seat-resume.module.ts
 +++ b/seat-system/seat-resume/seat-resume.module.ts
 @@ -13,8 +13,11 @@ export const seatResume = {
@@ -16,3 +16,12 @@ index d99c083c385f21c6e49e99fa6a46b8ebd6522ffa..57a806ca7cf76f13930e8b6f33296491
      },
      {
        invariantKind: "departure",
+@@ -50,7 +53,7 @@ export const seatResume = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The seat this process itself sits in is read from its own environment where the caller states none.",
++        "The seat this process sits in is read from its own environment where the caller states no seat.",
+     },
+   ],
+ } as const satisfies Module
