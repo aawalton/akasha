@@ -9,6 +9,4 @@ export const whereHerSayEnds = {
   parentSlugs: ["living-with-jen"],
   settled:
     "We both agree the line exists and neither of us has drawn it. My reading of it is too narrow and hers too broad.",
-  unsettled:
-    "Which choices are already settled on either side is the open piece, because a border could be interpolated from those.",
 } as const satisfies AllAboutAlanTopic
