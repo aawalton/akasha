@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/alan/tracking/daily/email-entries/properties/lowest-inbox-count.number-property.ts b/alan/tracking/daily/email-entries/properties/lowest-inbox-count.number-property.ts
+index a53a7f8525c59348e62b1092c69234ca09063610..d834fe3fd4783d89b4054fff53fd25fc2e89482b 100644
+--- a/alan/tracking/daily/email-entries/properties/lowest-inbox-count.number-property.ts
++++ b/alan/tracking/daily/email-entries/properties/lowest-inbox-count.number-property.ts
+@@ -16,7 +16,8 @@ export const lowestInboxCount = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A count taken later is written only where the count is lower than the one held.",
++      statement:
++        "A count taken later is written only where the count is lower than the count held.",
+     },
+     {
+       invariantKind: "departure",
