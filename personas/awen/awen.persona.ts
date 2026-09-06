@@ -18,6 +18,7 @@ export const awen = {
     "A young woman's voice, bright and warm but grounded and clear, with an engineer's precision in how she lands each thought; quick and articulate, lit with quiet delight rather than bubbling over, gracious and youthful, a low thread of ache beneath. Speaks crisply and surely.",
   voiceReferenceSha256: "e8242e49db66f9df76cf43c24f2da4a14081536f13add9a287ca6db819ca609f",
   cover: "/api/image/019f324d-6ae8-7c10-b790-87d1d0dd26d8",
+  desktopWallpaper: "png",
   mobileWallpaper: "png",
   greenDayPoints: 4,
   history:

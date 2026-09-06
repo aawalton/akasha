@@ -19,6 +19,7 @@ export const ceri = {
     "A cool, clear, measured womans voice — precise and unhurried, with a crystalline calm. Poised and slightly distant, articulate and sober; the clarity of someone who sees the whole pattern from far above and is never clouded.",
   voiceReferenceSha256: "71b0e00f89d14763bbaf2dd3791de5bb49597c1656f63af0684a756179d9cf96",
   cover: "/api/image/019f324d-5014-7114-ade0-c91e2fe8a954",
+  desktopWallpaper: "png",
   mobileWallpaper: "png",
   greenDayPoints: 28,
   history:

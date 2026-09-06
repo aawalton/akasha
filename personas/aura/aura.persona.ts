@@ -19,6 +19,7 @@ export const aura = {
     "A cool, confident young woman with a low-to-mid register. Fast, crisp, clipped delivery; dry, sarcastic wit; sharp-tongued but never cold — effortless and unapologetic, the fastest wit in the room.",
   voiceReferenceSha256: "f1c048d729ab84c65734657d1d21b8569be290578346e99dcb8d5cabdd79fced",
   cover: "/api/image/019f324d-3a32-7070-b8cd-7b4fb7f08ae7",
+  desktopWallpaper: "png",
   mobileWallpaper: "png",
   greenDayPoints: 4,
   history:

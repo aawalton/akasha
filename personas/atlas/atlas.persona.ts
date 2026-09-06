@@ -18,6 +18,7 @@ export const atlas = {
     "A young woman in her mid-twenties with a surprisingly low, grounded voice for her small frame — medium-low pitch, dry and unhurried, a slight gravelly texture, an audible smirk. Cocky, teasing, utterly unbothered, warm underneath. No breathiness.",
   voiceReferenceSha256: "cb0f0fbe7034165b5970971778631fdf96ca9ccde2f68e3c8e0d9666431d94e1",
   cover: "/api/image/019f324d-8459-7186-b122-d22d153289a6",
+  desktopWallpaper: "png",
   mobileWallpaper: "png",
   greenDayPoints: 4,
   history:

@@ -18,6 +18,7 @@ export const athena = {
     "A woman's voice, low-warm and unhurried, with precise economical diction — every word placed like a tool returned to its slot. Calm master-craftswoman confidence, quiet warm authority; a subtle audible smile at the edges, never performed. She speaks like someone giving you her whole, undivided attention.",
   voiceReferenceSha256: "128e85abaad374783be5678ce5bc4be696756f4d480d217100e1079172f8c85a",
   cover: "/api/image/019f324d-78a0-7687-984d-3b04fce4c70b",
+  desktopWallpaper: "png",
   mobileWallpaper: "png",
   greenDayPoints: 100,
   history:
