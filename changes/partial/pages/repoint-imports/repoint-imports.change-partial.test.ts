@@ -11,7 +11,7 @@ import {
   scratch,
   TARGET,
 } from "../../../../command-system/commands/move/move.command.test-fixtures.ts"
-import { repointed } from "./repoint-imports.module.code.ts"
+import { repointed } from "./repoint-imports.change-partial.code.ts"
 
 afterAll(scratch.sweep)
 

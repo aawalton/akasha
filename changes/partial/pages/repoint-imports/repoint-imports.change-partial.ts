@@ -1,8 +1,8 @@
-import type { Module } from "@akasha/code-system/module"
+import type { ChangePartial } from "../../change-partial.page-type.ts"
 
 export const repointImports = {
   id: "01a04efb-db14-7000-a96d-4bace8327509",
-  pageTypeSlug: "module",
+  pageTypeSlug: "change-partial",
   slug: "repoint-imports",
   definition: "a body rewritten so the paths it names follow the files that moved",
   code: "ts",
@@ -55,4 +55,4 @@ export const repointImports = {
       statement: "No naming is handed in here.",
     },
   ],
-} as const satisfies Module
+} as const satisfies ChangePartial

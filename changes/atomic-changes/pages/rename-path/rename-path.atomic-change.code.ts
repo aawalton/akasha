@@ -1,5 +1,5 @@
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { repointed } from "../../../partial/pages/repoint-imports/repoint-imports.module.code.ts"
+import { repointed } from "../../../partial/pages/repoint-imports/repoint-imports.change-partial.code.ts"
 
 export type Asked = {
   readonly from: string
