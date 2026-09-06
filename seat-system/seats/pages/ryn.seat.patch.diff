@@ -1,0 +1,18 @@
+diff --git a/alan/harness/monarch/land-files/monarch-land-files.module.ts b/alan/harness/monarch/land-files/monarch-land-files.module.ts
+index 6baad72468610620d93373f47060662890e7c9e9..b217e50477a2655b8b9d44fe1107580f68f67dfa 100644
+--- a/alan/harness/monarch/land-files/monarch-land-files.module.ts
++++ b/alan/harness/monarch/land-files/monarch-land-files.module.ts
+@@ -23,8 +23,11 @@ export const monarchLandFiles = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A category akasha decided is held against one arriving from Monarch, and that holding is said.",
++      statement: "A category akasha decided is held against the category arriving from Monarch.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "That comparison is reported.",
+     },
+     {
+       invariantKind: "departure",
