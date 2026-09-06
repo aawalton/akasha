@@ -9,6 +9,4 @@ export const runningOutOfContent = {
   parentSlugs: ["what-pulls-me-into-doing-something"],
   settled:
     "Other people can retreat inward for the same mix of the familiar and the new. I have nothing to retreat to.",
-  unsettled:
-    "Running out is a real and aversive state, and what the aversion actually feels like or runs on has never been named.",
 } as const satisfies AllAboutAlanTopic
