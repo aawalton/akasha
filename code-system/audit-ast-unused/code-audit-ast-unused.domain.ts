@@ -9,7 +9,11 @@ export const codeAuditAstUnused = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The curation is a root file naming its parts, one per package family.",
+      statement: "The curation is a root file naming its parts.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The root names a part for each package family.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +25,7 @@ export const codeAuditAstUnused = {
     },
     {
       invariantKind: "departure",
-      statement: "A workspace the curation does not name takes default entry globs, not none.",
+      statement: "A workspace the curation does not name takes the default entry globs.",
     },
     {
       invariantKind: "departure",
