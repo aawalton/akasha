@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/hook-system/chain-refusal/chain-refusal.module.ts b/hook-system/chain-refusal/chain-refusal.module.ts
+index 0822378349b434fd17a001aa6bb3390e916bb100..81be9ce0a1deb86464275e18b131ecabfcc33efe 100644
+--- a/hook-system/chain-refusal/chain-refusal.module.ts
++++ b/hook-system/chain-refusal/chain-refusal.module.ts
+@@ -35,7 +35,7 @@ export const chainRefusal = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "A hook is handed back the one refusal or none.",
++      statement: "A hook is handed back the one refusal or no refusal.",
+     },
+   ],
+ } as const satisfies Module
