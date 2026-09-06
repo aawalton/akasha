@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/seat-call/seat-call.module.ts b/seat-system/seat-call/seat-call.module.ts
+index a9fc0f949569d062accec13fe6424a18d4634d7e..ecb6b5b0d542d5f0b56210bb11d11b0babfcb5f2 100644
+--- a/seat-system/seat-call/seat-call.module.ts
++++ b/seat-system/seat-call/seat-call.module.ts
+@@ -26,7 +26,7 @@ export const seatCall = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A line left off would read as an empty value rather than an absent one.",
++      statement: "A line left off would read as an empty value rather than an absent value.",
+     },
+     {
+       invariantKind: "departure",
