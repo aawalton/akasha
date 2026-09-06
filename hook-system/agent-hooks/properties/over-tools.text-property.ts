@@ -20,7 +20,8 @@ export const overTools = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook is handed the calls of the tools that hook states here and no others.",
+      statement:
+        "A hook is handed the calls of the tools that hook states here and no other calls.",
     },
     {
       invariantKind: "departure",
