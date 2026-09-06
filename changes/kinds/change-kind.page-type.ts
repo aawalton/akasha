@@ -1,7 +1,7 @@
 import type { Domain } from "../../domains/domain.page-type.ts"
 import type { PageType } from "../../pages/types/page-type.page-type.ts"
 import type { RunsChecks } from "./properties/runs-checks.boolean-property.ts"
-import type { RunsWarrants } from "./properties/runs-warrants.boolean-property.ts"
+import type { RunsWarrants } from "./properties/writer-owes-reading.boolean-property.ts"
 
 export type ChangeKind = Domain & {
   runsChecks: RunsChecks
@@ -21,12 +21,12 @@ export const changeKind = {
     "change-kind/change-none",
     "change-kind/change-restated",
     "boolean-property/runs-checks",
-    "boolean-property/runs-warrants",
+    "boolean-property/writer-owes-reading",
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
-    { pagePropertySlug: "boolean-property/runs-warrants", required: true, many: false },
+    { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
   ],
   invariants: [
     {
