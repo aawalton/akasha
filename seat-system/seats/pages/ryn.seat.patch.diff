@@ -1,0 +1,13 @@
+diff --git a/temper/temper-commands/inventory-plan-inputs/inventory-plan-inputs.module.ts b/temper/temper-commands/inventory-plan-inputs/inventory-plan-inputs.module.ts
+index a0b626605bea1681a8d8856e6cdf7feb832fd38f..e0b60af5201fb18982447394fc0feaa22e4990e9 100644
+--- a/temper/temper-commands/inventory-plan-inputs/inventory-plan-inputs.module.ts
++++ b/temper/temper-commands/inventory-plan-inputs/inventory-plan-inputs.module.ts
+@@ -9,7 +9,7 @@ export const inventoryPlanInputs = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The inventory and the characters are read from two files rather than one.",
++      statement: "The inventory and the characters are read from two files rather than one file.",
+     },
+     {
+       invariantKind: "departure",
