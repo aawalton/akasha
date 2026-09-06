@@ -400,10 +400,10 @@ index 5a064472cf2f1c7bb35a7006513c16e318651acd..4d6f73cc025bf25e2e42383f1db03116
      return {
        page,
 diff --git a/seat-system/subagent-census/subagent-census.module.ts b/seat-system/subagent-census/subagent-census.module.ts
-index 31dae6ddd7b2f0f3387678f5c5a147b4b2f7938a..6cc1919760fe037839af515b11f97fc460a03954 100644
+index 31dae6ddd7b2f0f3387678f5c5a147b4b2f7938a..44ca6f579543b9de35614cf1d25f82a001c85dd5 100644
 --- a/seat-system/subagent-census/subagent-census.module.ts
 +++ b/seat-system/subagent-census/subagent-census.module.ts
-@@ -31,11 +31,25 @@ export const subagentCensus = {
+@@ -31,11 +31,23 @@ export const subagentCensus = {
      },
      {
        invariantKind: "departure",
@@ -412,13 +412,11 @@ index 31dae6ddd7b2f0f3387678f5c5a147b4b2f7938a..6cc1919760fe037839af515b11f97fc4
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement:
-+        "What a transcript says of life is weighed before what that transcript says of an end.",
++      statement: "Life read in a transcript is weighed before an end read in that transcript.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement:
-+        "What a transcript says of life is weighed before every rule that could reach stale.",
++      statement: "Life read in a transcript is weighed before every rule that could reach stale.",
      },
      {
        invariantKind: "absence",
@@ -431,7 +429,7 @@ index 31dae6ddd7b2f0f3387678f5c5a147b4b2f7938a..6cc1919760fe037839af515b11f97fc4
      },
      {
        invariantKind: "departure",
-@@ -51,11 +65,16 @@ export const subagentCensus = {
+@@ -51,11 +63,15 @@ export const subagentCensus = {
      },
      {
        invariantKind: "departure",
@@ -445,12 +443,11 @@ index 31dae6ddd7b2f0f3387678f5c5a147b4b2f7938a..6cc1919760fe037839af515b11f97fc4
      {
        invariantKind: "departure",
 -      statement: "A take-down is read whether or not its line opens with the time it was written.",
-+      statement:
-+        "A take-down is read whether or not that take-down's line opens with the time it was written.",
++      statement: "A take-down is read whether or not that take-down's line opens with a time.",
      },
      {
        invariantKind: "departure",
-@@ -63,7 +82,11 @@ export const subagentCensus = {
+@@ -63,7 +79,11 @@ export const subagentCensus = {
      },
      {
        invariantKind: "absence",
@@ -463,7 +460,7 @@ index 31dae6ddd7b2f0f3387678f5c5a147b4b2f7938a..6cc1919760fe037839af515b11f97fc4
      },
      {
        invariantKind: "departure",
-@@ -75,8 +98,11 @@ export const subagentCensus = {
+@@ -75,8 +95,11 @@ export const subagentCensus = {
      },
      {
        invariantKind: "departure",
@@ -477,7 +474,7 @@ index 31dae6ddd7b2f0f3387678f5c5a147b4b2f7938a..6cc1919760fe037839af515b11f97fc4
      },
      {
        invariantKind: "departure",
-@@ -89,11 +115,19 @@ export const subagentCensus = {
+@@ -89,11 +112,19 @@ export const subagentCensus = {
      {
        invariantKind: "departure",
        statement:
