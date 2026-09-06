@@ -15,12 +15,12 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "Every file compiles against the full ESNext library, so the browser is in scope.",
+      statement: "Every file compiles against the full ESNext library.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A global under a name the browser also declares collides rather than replaces it.",
+        "A global under a name the browser also declares collides rather than replacing that declaration.",
     },
     {
       invariantKind: "gap",
@@ -67,8 +67,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A key more than one part of a union declares apart is resolved through none of those parts.",
+      statement: "A key more than one part of a union declares apart is resolved through no part.",
     },
     {
       invariantKind: "departure",
@@ -122,7 +121,7 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
-      statement: "A name shadowing an imported one inside a scope is left as that name is.",
+      statement: "A name shadowing an imported name inside a scope is left as that name is.",
     },
     {
       invariantKind: "departure",
