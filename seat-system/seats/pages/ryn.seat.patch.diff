@@ -1,13 +1,23 @@
 diff --git a/inference/runs/inference-run-store/inference-run-store.module.ts b/inference/runs/inference-run-store/inference-run-store.module.ts
-index c3e89e099a81e10cf08071aeabd05a7a6864015e..f3b3aba003c4d6732f862f2532ff4fa157612f1a 100644
+index c3e89e099a81e10cf08071aeabd05a7a6864015e..3bf49a01081ceb53da698bd6a061a33650801328 100644
 --- a/inference/runs/inference-run-store/inference-run-store.module.ts
 +++ b/inference/runs/inference-run-store/inference-run-store.module.ts
-@@ -9,7 +9,7 @@ export const inferenceRunStore = {
+@@ -9,12 +9,16 @@ export const inferenceRunStore = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "A run that throws is still finished, as failed, and the failure is raised on.",
 +      statement: "The failure a run throws is raised on.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An audio operation records the output that operation made as audio.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "An audio operation records the output that operation made as audio and every other as an image.",
++        "An operation that is not audio records the output that operation made as an image.",
      },
      {
        invariantKind: "departure",
