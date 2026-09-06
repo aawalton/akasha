@@ -10,12 +10,12 @@ export const wanHosting = {
     {
       invariantKind: "departure",
       statement:
-        "The port, the data directory and the scorer's image are read from the environment.",
+        "The port and the data directory and the scorer's image are read from the environment.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An environment naming none of those is answered with a default rather than refused.",
+        "A value the environment does not name is answered with a default rather than refused.",
     },
     {
       invariantKind: "departure",
@@ -23,11 +23,12 @@ export const wanHosting = {
     },
     {
       invariantKind: "departure",
-      statement: "ffprobe answers how many frames a clip holds and how large they are.",
+      statement: "ffprobe answers how many frames a clip holds and how large those frames are.",
     },
     {
       invariantKind: "departure",
-      statement: "An ffprobe ending at anything but zero is answered with the last line it wrote.",
+      statement:
+        "An ffprobe ending at anything but zero is answered with the last line ffprobe wrote.",
     },
     {
       invariantKind: "absence",
