@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+
+export const whetherEachTankHasItsOwnAche = {
+  id: "01a077e8-436a-7915-8630-5d1af47b2486",
+  pageTypeSlug: "all-about-alan-question",
+  slug: "whether-each-tank-has-its-own-ache",
+  topicSlug: "the-four-things-i-need-from-people",
+  ask: "Does a tank other than being known running low make its own distinct ache, or does every shortfall collapse into one loneliness? I hold one data point here.",
+} as const satisfies AllAboutAlanQuestion
