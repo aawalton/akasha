@@ -8,7 +8,7 @@ export const bootstrapLayers = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The toolchain layer reuses two of `prep.workflow`'s steps and no more.",
+      statement: "The toolchain layer reuses exactly two of `prep.workflow`'s steps.",
     },
     {
       invariantKind: "departure",
