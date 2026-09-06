@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquities.page-property-entry.ts b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquities.page-property-entry.ts
+index 9aae2fea10c76eeace2ee83819fc16b5f50ec22e..c04b8c6bfe08f500d647020eeb0ee0a6a6fa063c 100644
+--- a/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquities.page-property-entry.ts
++++ b/temper/temper-catalog/temper-pursuits/antiquity-categories/properties/antiquities.page-property-entry.ts
+@@ -17,7 +17,7 @@ export const antiquities = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An antiquity here is one a player digs up and reads lore from.",
++      statement: "An antiquity here is an antiquity a player digs up and reads lore from.",
+     },
+   ],
+ } as const satisfies PagePropertyEntry
