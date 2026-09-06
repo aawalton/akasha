@@ -1,6 +1,5 @@
-writerOwesReading: false
 diff --git a/editor-extension/page-tree-view/page-tree-view.module.ts b/editor-extension/page-tree-view/page-tree-view.module.ts
-index 59936f69a0e963dcdf4f3efba2a249585e378806..7512cef27037671699c78374e6e295ebd18cd953 100644
+index 59936f69a0e963dcdf4f3efba2a249585e378806..315d0a3fbc836ea742ed2faa21e129edfc3a6bfd 100644
 --- a/editor-extension/page-tree-view/page-tree-view.module.ts
 +++ b/editor-extension/page-tree-view/page-tree-view.module.ts
 @@ -9,7 +9,7 @@ export const pageTreeView = {
@@ -12,7 +11,17 @@ index 59936f69a0e963dcdf4f3efba2a249585e378806..7512cef27037671699c78374e6e295eb
      },
      {
        invariantKind: "departure",
-@@ -31,15 +31,16 @@ export const pageTreeView = {
+@@ -18,8 +18,7 @@ export const pageTreeView = {
+ 
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A row is identified apart while a filter is there, so the editor redraws that row.",
++      statement: "A row is identified apart while a filter is there.",
+     },
+     {
+       invariantKind: "departure",
+@@ -31,15 +30,16 @@ export const pageTreeView = {
      },
      {
        invariantKind: "departure",
