@@ -32,3 +32,16 @@ index 58b3a450217930f08ed832c83eced29dc5610ec7..5479e50c0dc989a717d48e193bcc8108
      "title",
      "cover",
      "valueSlug",
+diff --git a/pages/queries/pages/relation-property-definitions.page-query.ts b/pages/queries/pages/relation-property-definitions.page-query.ts
+index a83bc3da6c2997e74246c2522f55ec0736777c84..853b23518fbefb56d45b020d9cc21ab527db3879 100644
+--- a/pages/queries/pages/relation-property-definitions.page-query.ts
++++ b/pages/queries/pages/relation-property-definitions.page-query.ts
+@@ -5,6 +5,6 @@ export const relationPropertyDefinitions = {
+   pageTypeSlug: "page-query",
+   slug: "relation-property-definitions",
+   asksOfSlug: "page-property",
+-  narrows: [{ key: "type", comparison: "is", values: ["relation-id"] }],
+-  keys: ["defined-on-slug", "key"],
++  narrows: [{ key: "pageTypeSlug", comparison: "is", values: ["relation-property"] }],
++  keys: ["slug", "propertySlug"],
+ } as const satisfies PageQuery
