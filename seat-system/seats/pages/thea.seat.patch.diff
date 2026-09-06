@@ -1,0 +1,12 @@
+diff --git a/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.code.ts b/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.code.ts
+index be9030561fa8efe48bea725dc713bdec62eda8f6..33110cf96d54123a7eb230899001d3979b484315 100644
+--- a/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.code.ts
++++ b/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.code.ts
+@@ -211,3 +211,7 @@ const GLOBALS: Selector<Body> = {
+ }
+ 
+ export const globalDeclaredOnce = input(GLOBALS, refusalsIn)
++
++declare global {
++  type TreeRow = { readonly key: string }
++}
