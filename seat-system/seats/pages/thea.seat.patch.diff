@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts b/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
+index 96b719f335f20b717390193257d95b7dd465dd8b..ba82ff85c87e6e5e9a515b7b35e82c3ac5890d93 100644
+--- a/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
++++ b/checks/code-checks/pages/manifest-lands-on-a-file/manifest-lands-on-a-file.code-check.ts
+@@ -7,7 +7,7 @@ export const manifestLandsOnAFile = {
+   definition: "the check refusing a way into a package that lands where no file is",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
