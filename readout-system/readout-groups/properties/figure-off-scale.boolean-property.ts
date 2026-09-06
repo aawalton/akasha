@@ -16,11 +16,11 @@ export const figureOffScale = {
     {
       invariantKind: "departure",
       statement:
-        "A reading has no number to draw past either end of its scale where this is false.",
+        "A reading has no number to draw past either end of its scale where the group states false.",
     },
     {
       invariantKind: "departure",
-      statement: "A reading between two rungs draws its number whatever this states.",
+      statement: "A reading between two rungs draws its number whatever the group states.",
     },
   ],
 } as const satisfies BooleanProperty
