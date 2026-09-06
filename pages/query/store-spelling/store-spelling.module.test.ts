@@ -39,12 +39,14 @@ test("a declared key goes to the store camelized", () => {
   const spelled = storeSpelled({
     "page-type": "temper-skill",
     keys: ["value-slug", "id"],
+    files: ["working-memory"],
     "count-by": ["skill-line-id"],
     "sort-by": "ability-id",
     target: "effect-value",
     where: { "skill-type": "active" },
   })
   expect(spelled.keys).toEqual(["valueSlug", "id"])
+  expect(spelled.files).toEqual(["workingMemory"])
   expect(spelled["count-by"]).toEqual(["skillLineId"])
   expect(spelled["sort-by"]).toBe("abilityId")
   expect(spelled.target).toBe("effectValue")

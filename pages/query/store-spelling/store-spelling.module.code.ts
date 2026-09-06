@@ -20,6 +20,8 @@ export function storeSpelled(query: ComposedQuery): ComposedQuery {
   const held: Record<string, unknown> = { ...query }
   const keys = query.keys
   if (keys !== undefined) held.keys = keys.map(camelizeKey)
+  const files = query.files
+  if (files !== undefined) held.files = files.map(camelizeKey)
   const countBy = query["count-by"]
   if (countBy !== undefined) held["count-by"] = countBy.map(camelizeKey)
   const sortBy = query["sort-by"]
