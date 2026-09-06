@@ -1,0 +1,28 @@
+diff --git a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+index bce716e216ddbbd3a08d3901e255f33d40c90720..42193d452f106d3d48ca53bd3c89714f73376770 100644
+--- a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
++++ b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+@@ -41,18 +41,17 @@ export const athenaCommandsAtTheRoot = {
+     {
+       statement: "An index written as changes land matches what a rebuild would write.",
+       workingMemory:
+-        "One `akasha index refresh` over 3bef71cdf9 read 70111 pages and 506059 entries, then reconciled by taking 30974 files away, adding 4 and changing none. So the incremental path leaves files behind rather than writing wrong lines. Nothing measures that drift between landings and nothing fails as it grows, so it is found only by rebuilding. A shard folder holding one child keeps that child's mtime, so a folder time is no reading of what is under it.",
++        "A refresh over 5e6b09d17d added 30933 files, changed none and took 24 away. That was the gap the 09:36 outage left, when the index could not read its own page types and every settle under-wrote. A dry run before a landing and a dry run after both read the index as matching, so a landing leaks nothing. Nothing measures this between rebuilds and nothing fails as it grows. A dry run resolves relations against the index as it is, so its drift is not the drift a real refresh lands.",
+     },
+     {
+-      statement:
+-        "Every page carrying a relation is filed rather than refused for naming a page ambiguously.",
++      statement: "The index holds no folder left behind by a design that is gone.",
+       workingMemory:
+-        "A refresh refuses three. `athena.persona.ts` names `agent` for `championed-domain-slug`, which reaches both agents/agent.workspace-package.ts and agents/agent.page-type.ts; `ryn.persona.ts` names `domain`, which reaches five, one of them the domain command. Both want the page type named in the value. `parser-model.page-type.ts` names `parser-model/compact-parser` in `part-slugs`, where the property admits only a domain and what extends one.",
++        "`.git/data/index.refreshing.1863013`, `.3338665` and `.3668113` hold 1.11 million files over 4.5 GiB, and `.git/data/index.replaced.1989829` 168450 files over 704 MiB. Aranya took the build-beside design out at 958d7455c9 and fdd2ee2f67 on 2026-09-05, which orphaned all four; the rebuild repairs in place now and makes none. No command reaps them, and `block-akasha-shell-writes` refuses any `rm` under `.git/data`, so no agent can take them away.",
+     },
+     {
+-      statement: "A rebuild that dies leaves no scratch folder behind.",
++      statement: "The index tells a reader which commit that index describes.",
+       workingMemory:
+-        "Three `.git/data/index.refreshing.<pid>` folders are there with dead pids: 3668113 from 2026-09-04 16:23, 3338665 at 07:54 and 1863013 at 09:13. Each is an unfinished rebuild's scratch. Whether each died on its own or was killed is unread. Nothing reaps them and nothing reads them, so they are debris rather than a lock, and they are the only record that a rebuild died at all.",
++        "`.git/data/index/stamp.jsonl` was last written 2026-09-05 09:58 and names commit 366080ef, 10091 commits behind HEAD. Nothing in the tree writes it: 958d7455c9 deleted the stamp module and fdd2ee2f67 took the stamp out of the rebuild. One reader is left. `data-watching.module.code.ts` refreshes the code editor's work-tree, domain-tree and page-tree pictures only when that file changes, so those three have not refreshed since. A finding reads the stale stamp as lag; it is dead.",
+     },
+   ],
+   constraints: [
