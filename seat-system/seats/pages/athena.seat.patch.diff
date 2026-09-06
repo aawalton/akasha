@@ -1,0 +1,287 @@
+diff --git a/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.code.ts b/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..034052df4abfe6a38b75cfecb539ae4385490240
+--- /dev/null
++++ b/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.code.ts
+@@ -0,0 +1,117 @@
++import { readdirSync, readFileSync } from "node:fs"
++import { join } from "node:path"
++import { TERMINAL_PAGES_DIR } from "../terminal-ended/terminal-ended.module.code.ts"
++import { ROOT } from "../terminal-entry-points/terminal-entry-points.module.code.ts"
++
++export const SEAT_ATTACH_FN = "__editor_terminal_seat_attach"
++
++export const MARK_TAIL = ".code-editor-terminal.seat.uncommitted.attachment.json"
++
++const STARTED_AT_FIELD = 20
++
++export type SeatMark = {
++  readonly pid: number
++  readonly startedAt: string
++  readonly seat: string
++}
++
++export function seatAttachFnLines(): readonly string[] {
++  return [
++    `${SEAT_ATTACH_FN}() {`,
++    '  local _seat="$1"',
++    `  local _root="${ROOT}"`,
++    `  local _dir="$_root/${TERMINAL_PAGES_DIR}"`,
++    '  local _at="" _stat _rest _start',
++    '  if mkdir -p "$_dir" 2>/dev/null; then',
++    "    _stat=$(</proc/$$/stat)",
++    '    _rest="${_stat##*) }"',
++    `    _start=$(printf '%s' "$_rest" | awk '{ print $${STARTED_AT_FIELD} }')`,
++    '    if [ -n "$_start" ]; then',
++    `      _at="$_dir/$$-$_start${MARK_TAIL}"`,
++    `      printf '{"seat":"%s"}\\n' "$_seat" >"$_at" 2>/dev/null || _at=""`,
++    "    fi",
++    "  fi",
++    '  tmux attach-session -t "=$_seat"',
++    "  local _rc=$?",
++    '  [ -n "$_at" ] && rm -f "$_at" 2>/dev/null',
++    "  return $_rc",
++    "}",
++  ]
++}
++
++export function seatMarksAt(root: string): string {
++  return join(root, TERMINAL_PAGES_DIR)
++}
++
++export function startedAtOf(pid: number): string | null {
++  let stat: string
++  try {
++    stat = readFileSync(`/proc/${String(pid)}/stat`).toString("utf8")
++  } catch {
++    return null
++  }
++  const close = stat.lastIndexOf(")")
++  if (close === -1) return null
++  const after = stat
++    .slice(close + 1)
++    .trim()
++    .split(/\s+/)
++  const started = after[STARTED_AT_FIELD - 1]
++  return started === undefined || started === "" ? null : started
++}
++
++export function markIn(name: string, body: string): SeatMark | null {
++  if (!name.endsWith(MARK_TAIL)) return null
++  const stem = name.slice(0, -MARK_TAIL.length)
++  const dash = stem.indexOf("-")
++  if (dash < 0) return null
++  const pid = Number(stem.slice(0, dash))
++  const startedAt = stem.slice(dash + 1)
++  if (!Number.isInteger(pid) || pid <= 0 || startedAt === "") return null
++  let said: unknown
++  try {
++    said = JSON.parse(body)
++  } catch {
++    return null
++  }
++  if (said === null || typeof said !== "object") return null
++  const seat = (said as { seat?: unknown }).seat
++  if (typeof seat !== "string" || seat === "") return null
++  return { pid, startedAt, seat }
++}
++
++export function marksIn(at: string): readonly SeatMark[] | null {
++  let names: readonly string[]
++  try {
++    names = readdirSync(at)
++  } catch {
++    return null
++  }
++  const found: SeatMark[] = []
++  for (const name of names) {
++    if (!name.endsWith(MARK_TAIL)) continue
++    let body: string
++    try {
++      body = readFileSync(join(at, name)).toString("utf8")
++    } catch {
++      continue
++    }
++    const mark = markIn(name, body)
++    if (mark !== null) found.push(mark)
++  }
++  return found
++}
++
++export function seatByShellPid(
++  marks: readonly SeatMark[],
++  seatNames: ReadonlySet<string>,
++  startedAt: (pid: number) => string | null = startedAtOf
++): ReadonlyMap<number, string> {
++  const found = new Map<number, string>()
++  for (const mark of marks) {
++    if (!seatNames.has(mark.seat)) continue
++    if (startedAt(mark.pid) !== mark.startedAt) continue
++    found.set(mark.pid, mark.seat)
++  }
++  return found
++}
+diff --git a/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.test.ts b/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6d735f32019813732706b759374322ba1252e045
+--- /dev/null
++++ b/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.test.ts
+@@ -0,0 +1,83 @@
++import { describe, expect, it } from "bun:test"
++import {
++  MARK_TAIL,
++  markIn,
++  SEAT_ATTACH_FN,
++  type SeatMark,
++  seatAttachFnLines,
++  seatByShellPid,
++} from "./terminal-seat-marks.module.code.ts"
++
++const SEATS = new Set(["amy", "aranya"])
++
++function startedIn(started: Readonly<Record<number, string>>): (pid: number) => string | null {
++  return (pid) => started[pid] ?? null
++}
++
++function markOf(pid: number, startedAt: string, seat: string): SeatMark {
++  return { pid, startedAt, seat }
++}
++
++describe("a mark a shell left", () => {
++  it("names the seat that shell attached to", () => {
++    const found = seatByShellPid([markOf(40, "9931", "amy")], SEATS, startedIn({ 40: "9931" }))
++    expect(found.get(40)).toBe("amy")
++  })
++
++  it("names nothing where the pid started at another moment", () => {
++    const found = seatByShellPid([markOf(40, "9931", "amy")], SEATS, startedIn({ 40: "20507" }))
++    expect(found.size).toBe(0)
++  })
++
++  it("names nothing where the pid is gone", () => {
++    const found = seatByShellPid([markOf(40, "9931", "amy")], SEATS, startedIn({}))
++    expect(found.size).toBe(0)
++  })
++
++  it("names nothing where the seat is no seat", () => {
++    const found = seatByShellPid([markOf(40, "9931", "nobody")], SEATS, startedIn({ 40: "9931" }))
++    expect(found.size).toBe(0)
++  })
++
++  it("leaves the other marks where one is stale", () => {
++    const marks = [markOf(40, "9931", "amy"), markOf(60, "9955", "aranya")]
++    const found = seatByShellPid(marks, SEATS, startedIn({ 40: "1", 60: "9955" }))
++    expect([...found]).toEqual([[60, "aranya"]])
++  })
++})
++
++describe("the name a mark is written under", () => {
++  it("is read back as the pid and the moment that pid started", () => {
++    expect(markIn(`40-9931${MARK_TAIL}`, '{"seat":"amy"}\n')).toEqual(markOf(40, "9931", "amy"))
++  })
++
++  it("is no mark where the file is named some other way", () => {
++    expect(markIn("40-9931.code-editor-terminal.ended.uncommitted.attachment.json", "{}")).toBe(
++      null
++    )
++  })
++
++  it("is no mark where the body names no seat", () => {
++    expect(markIn(`40-9931${MARK_TAIL}`, "{}")).toBe(null)
++    expect(markIn(`40-9931${MARK_TAIL}`, "not json")).toBe(null)
++  })
++
++  it("is no mark where the name carries no moment", () => {
++    expect(markIn(`40${MARK_TAIL}`, '{"seat":"amy"}')).toBe(null)
++  })
++})
++
++describe("the shell that attaches", () => {
++  it("writes its mark before attaching and clears it after", () => {
++    const said = seatAttachFnLines().join("\n")
++    expect(said).toContain(`${SEAT_ATTACH_FN}() {`)
++    expect(said.indexOf(MARK_TAIL)).toBeLessThan(said.indexOf("tmux attach-session"))
++    expect(said.indexOf("tmux attach-session")).toBeLessThan(said.indexOf('rm -f "$_at"'))
++  })
++
++  it("hands back what the attach handed it", () => {
++    const said = seatAttachFnLines().join("\n")
++    expect(said).toContain("local _rc=$?")
++    expect(said).toContain("return $_rc")
++  })
++})
+diff --git a/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.ts b/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fc92163fcc549de4b27bf89531f89fd33da65bab
+--- /dev/null
++++ b/seat-system/terminal-init/terminal-seat-marks/terminal-seat-marks.module.ts
+@@ -0,0 +1,69 @@
++import type { Module } from "@akasha/code/module"
++
++export const terminalSeatMarks = {
++  id: "01a0785c-fa03-739c-823f-27b2ea6fc501",
++  pageTypeSlug: "module",
++  slug: "terminal-seat-marks",
++  definition: "the seat a terminal is attached to, stated by the shell attaching it",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "The shell attaching to a seat states that seat rather than a reader working the seat out.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A mark is beside the terminal's own page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A mark is named for its terminal as that terminal's page is named.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A mark is there from just before the attach until the attach returns.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A mark names the pid of the shell and the moment that shell started.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A mark whose pid started at another moment is a mark for a shell that is gone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A shell that ended without clearing its mark leaves a mark reaching no terminal.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A pid used again takes what the mark named for that pid states.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder that cannot be read answers nothing rather than answering no mark.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat named by a mark that is no seat name is no seat.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here asks tmux which client sits on which session.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here walks a parent chain.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here knows which seats exist.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a color.",
++    },
++  ],
++} as const satisfies Module
