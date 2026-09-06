@@ -1,3 +1,16 @@
+diff --git a/domains/findings/pages/a-page-landed-over-http-without-the-cli.finding.ts b/domains/findings/pages/a-page-landed-over-http-without-the-cli.finding.ts
+index 2213bd892d916dcf1bd23cfe2973cdd0697bb16f..6ec022c0d3073b777da78fc0fa29106236cebbf6 100644
+--- a/domains/findings/pages/a-page-landed-over-http-without-the-cli.finding.ts
++++ b/domains/findings/pages/a-page-landed-over-http-without-the-cli.finding.ts
+@@ -6,7 +6,7 @@ export const aPageLandedOverHttpWithoutTheCli = {
+   slug: "a-page-landed-over-http-without-the-cli",
+   domainSlug: "workspace-package/page",
+   claim:
+-    "This page was written by a POST to the page store rather than by the akasha command line. Nothing typed it into the worktree and no check judged it. The service wrote it, indexed it and committed it in one go, authored by the writer the request named.",
++    "This page was written by one POST to the page store rather than by the akasha command line. Nothing typed it into the worktree and no check judged it. The service wrote it, indexed it and committed it in one go, authored by the writer the request named.",
+   evidence:
+     "Sent to http://127.0.0.1:8787/write as JSON carrying `writer`, `message` and one `puts` entry holding this file's whole body. The answer named the commit it landed as, and the paths it wrote. The service was running the code committed one second earlier, restarted by the wrapper that follows the files it imports.\n\nWhat this proves and what it does not: it proves a page reaches the store over HTTP from a workstation, which is what the intent asked. It does not prove anything about the checks, because the write route is built on the same landing every akasha command uses but handed a judging that judges nothing. That is deliberate and the package says so. It means a body that no check would pass can land this way. Whoever opens the store to a caller other than a workstation should read that sentence again first.",
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/a-reminder-schedule-is-judged-when-it-is-sent-rather-than-when-it-is-written.finding.ts b/domains/findings/pages/a-reminder-schedule-is-judged-when-it-is-sent-rather-than-when-it-is-written.finding.ts
 index 12e8a7407317301d5c6123fdc4343bd5fd0c2bb2..3d67734ea4d8e7f2217416f278c62591c8965401 100644
 --- a/domains/findings/pages/a-reminder-schedule-is-judged-when-it-is-sent-rather-than-when-it-is-written.finding.ts
