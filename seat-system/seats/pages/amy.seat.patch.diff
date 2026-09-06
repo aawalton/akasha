@@ -1,3 +1,15 @@
+diff --git a/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.code.ts b/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.code.ts
+index be9030561fa8efe48bea725dc713bdec62eda8f6..5772281c09ba196d025e789f465d847eb7a713b3 100644
+--- a/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.code.ts
++++ b/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.code.ts
+@@ -150,6 +150,7 @@ function declaringAmong(changed: readonly string[]): boolean {
+ function carryingIn(change: Change): boolean {
+   if (declaringAmong(change.changed)) return true
+   for (const path of change.changed) {
++    if (!compiled(path)) continue
+     const text = textIn(change, path)
+     if (text !== null && text.includes(SPELT)) return true
+   }
 diff --git a/personas/amy/amy.persona.mobile-wallpaper.png b/personas/amy/amy.persona.mobile-wallpaper.png
 new file mode 100644
 index 0000000000000000000000000000000000000000..31ba9e416aa24b2393f8c37dfc35db2302e8854c
