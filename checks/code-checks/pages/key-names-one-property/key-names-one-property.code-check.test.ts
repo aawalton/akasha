@@ -200,6 +200,23 @@ test("a page type is judged when the change carries a property it declares", () 
   expect(said.map((one) => one.path)).toEqual([at])
 })
 
+test("a page type under a judged page type is judged as well", () => {
+  const root = rooted()
+  const over = "akasha/types/over.page-type.ts"
+  const under = "akasha/types/under.page-type.ts"
+  declaring(root, "held", { pageTypeSlug: NUMBER })
+  typed(root, "over", null, ["text-property/held", "number-property/held"])
+  typed(root, "under", "over")
+  pageFiled(root, "id-over", over)
+  pageFiled(root, "id-under", under)
+  edging(root, THREE, "page-property-slug", "id-over", over)
+  const said = judged(
+    landing(root, { [pathFor(TEXT, "held")]: propertied(root, TEXT, "held", THREE) })
+  )
+
+  expect([...new Set(said.map((one) => one.path))].sort()).toEqual([over, under])
+})
+
 test("a page type the change neither carries nor is reached from is not judged", () => {
   const root = rooted()
   declaring(root, "held", { pageTypeSlug: NUMBER })
