@@ -129,3 +129,15 @@ index 16f7d8522cdc5a87f0b0a65f3231f0b618872c18..f9caae6f0fa5097a94a0b33353bc5504
    viewPlace: 0,
    layout: "gallery",
    narrows: [{ key: "seat-index", comparison: "empty", values: ["false"] }],
+diff --git a/pages/views/pages/idle-roster-cards.view.ts b/pages/views/pages/idle-roster-cards.view.ts
+index 0c15b76ee955c30244450248ccbbe50cfde766e7..f17718522360ad2b847d1eaea9c5107cdb632dd1 100644
+--- a/pages/views/pages/idle-roster-cards.view.ts
++++ b/pages/views/pages/idle-roster-cards.view.ts
+@@ -6,6 +6,7 @@ export const idleRosterCards = {
+   slug: "idle-roster-cards",
+   title: "Cards",
+   navSlug: "idle-roster",
++  pageType: "idle-persona-card",
+   viewPlace: 0,
+   layout: "gallery",
+   groupSorts: [{ key: "lock-state", descending: false }],
