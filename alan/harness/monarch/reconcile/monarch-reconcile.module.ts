@@ -11,17 +11,16 @@ export const monarchReconcile = {
     {
       invariantKind: "departure",
       statement:
-        "A row Monarch no longer lists is retired, judged on the fetched window rather than one missing id.",
+        "A row Monarch no longer lists is retired on the fetched window rather than on a missing id.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A reconciliation retiring more than a twentieth of the rows weighed is refused.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A reconciliation that would retire more than a twentieth of the rows it weighed is refused.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Nothing is retired at all where the ceiling is passed, rather than the first rows being taken.",
+        "Nothing is retired where the ceiling is passed rather than the first rows being taken.",
     },
     {
       invariantKind: "departure",
@@ -34,8 +33,7 @@ export const monarchReconcile = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The scope reconciled against is named in the refusal, so a run says the scope that run weighed.",
+      statement: "The scope reconciled against is named in the refusal.",
     },
   ],
 } as const satisfies Module
