@@ -9,6 +9,4 @@ export const proofICanDoThings = {
   parentSlugs: ["safety-bar"],
   settled:
     "It comes from pointing at something I actually did, never from feeling better about it.",
-  unsettled:
-    "Finishing a project is the anchored case. Whether physical accomplishment, social effectiveness or control over my surroundings runs through the same verification is open.",
 } as const satisfies AllAboutAlanTopic
