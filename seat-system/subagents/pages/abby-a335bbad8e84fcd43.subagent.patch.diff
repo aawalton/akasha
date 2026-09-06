@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-much-more-a-voiced-partner-transfers.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-much-more-a-voiced-partner-transfers.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..643cc97fcc3b5fa6ec37b71b70796017a894fc24
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-much-more-a-voiced-partner-transfers.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howMuchMoreAVoicedPartnerTransfers = {
++  id: "01a077f0-16d0-7398-b9c1-968a23538fef",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-much-more-a-voiced-partner-transfers",
++  topicSlug: "practising-closeness-somewhere-safe",
++  ask: "How much more actually transfers to me from a voiced partner than from a written one?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/when-practising-an-emotional-conflict-becomes-affordable.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/when-practising-an-emotional-conflict-becomes-affordable.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e00e2b617755edf1f0547e6d2b52386a1b8622ca
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/when-practising-an-emotional-conflict-becomes-affordable.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whenPractisingAnEmotionalConflictBecomesAffordable = {
++  id: "01a077f0-16d0-7719-8e17-68caa4f9e920",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "when-practising-an-emotional-conflict-becomes-affordable",
++  topicSlug: "practising-closeness-somewhere-safe",
++  ask: "I keep the rig to conceptual disagreement for now. At what fidelity, and at what safety, does practising an emotional conflict become affordable?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/which-skill-in-the-closeness-rig-leads.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/which-skill-in-the-closeness-rig-leads.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cd50f81a165ab541637212b1aac1897ee61c0447
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/which-skill-in-the-closeness-rig-leads.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whichSkillInTheClosenessRigLeads = {
++  id: "01a077f0-16d1-78b3-a9ab-c76c35d98ae2",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "which-skill-in-the-closeness-rig-leads",
++  topicSlug: "practising-closeness-somewhere-safe",
++  ask: "Of validation, acknowledgment, reassurance and emotional intimacy, which skill is furthest along, and do the four share one severed substrate or have four?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/practising-closeness-somewhere-safe.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/practising-closeness-somewhere-safe.all-about-alan-topic.ts
+index efc43b0916f9c54d264385694b5ec734652e9c9e..bde6058a7082a93b09c2bf6528019d9594cc9155 100644
+--- a/alan/books/all-about-alan/topics/pages/practising-closeness-somewhere-safe.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/practising-closeness-somewhere-safe.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const practisingClosenessSomewhereSafe = {
+   relatedSlugs: ["being-known", "what-holds-my-marriage"],
+   settled:
+     "It is the rig I built as a child on instant messenger, pointed at a harder skill.\n\nSlow and in text is what makes it work. Live talk eats the one slot I have, and this frees it.\n\nThe levels are a difficulty ladder, giving the gradient of closeness with no real ledger filling.\n\nA mock-up is nothing to me. I cannot run a pretend partner, so the partners have to be real and stable.\n\nFaces, then voices, then presence: each rung makes a partner more real to me, which is what carries over.",
+-  unsettled:
+-    "How much more actually transfers from a voiced partner than a written one is asserted and unmeasured.\n\nThe rig is deliberately kept to conceptual disagreement for now. At what fidelity, and at what safety, practising an emotional conflict becomes affordable is the deferred frontier.\n\nFour skills are named: validation, acknowledgment, reassurance, emotional intimacy. Which is furthest along, and whether they share one severed substrate or four, is unsettled.",
+ } as const satisfies AllAboutAlanTopic
