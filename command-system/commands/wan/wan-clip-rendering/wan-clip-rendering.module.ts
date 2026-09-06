@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const wanClipRendering = {
   id: "01a072fa-322d-7288-8757-5da45309b677",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageRetyping = {
   id: "01a06e4c-2a91-7a0a-8c4c-40eb00b9f1f1",

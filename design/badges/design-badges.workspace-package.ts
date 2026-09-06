@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const designBadges = {
   id: "01a05b55-a539-766c-98d3-a4d3e2fc6c4b",

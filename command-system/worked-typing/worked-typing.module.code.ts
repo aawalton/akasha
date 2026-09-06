@@ -1,6 +1,6 @@
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
-import { formattedBody } from "@akasha/code-system/code-format"
+import { formattedBody } from "@akasha/code/code-format"
 import type { Schema } from "@akasha/indexes"
 import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
 import type { Shadow } from "@akasha/pages/shadow"

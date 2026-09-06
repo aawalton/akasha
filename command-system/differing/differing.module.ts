@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const differing = {
   id: "01a04ebb-d762-7000-92c3-765835d1b7a3",

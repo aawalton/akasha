@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const badgeLayoutContext = {
   id: "01a05b55-a539-7f95-a30c-8b90c271e72d",

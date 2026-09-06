@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const alanwaltonFluidaudioPin = {
   id: "01a0595b-ef58-7995-bdd6-75586caa5bab",

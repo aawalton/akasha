@@ -1,4 +1,4 @@
-import { parsedAs } from "@akasha/code-system/code-source"
+import { parsedAs } from "@akasha/code/code-source"
 import type { Generated } from "@akasha/indexes/generated-properties"
 import { generatedProperties } from "@akasha/indexes/generated-properties"
 import { heldIn, pageNamed } from "@akasha/pages/page-file-name"

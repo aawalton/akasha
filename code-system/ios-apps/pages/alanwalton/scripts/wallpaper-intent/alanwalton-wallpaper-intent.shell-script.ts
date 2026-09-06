@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const alanwaltonWallpaperIntent = {
   id: "01a0595b-ef5f-7a82-a8fe-8afd01161ef1",

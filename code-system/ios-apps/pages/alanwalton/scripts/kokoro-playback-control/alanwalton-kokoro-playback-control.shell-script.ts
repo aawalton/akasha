@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const alanwaltonKokoroPlaybackControl = {
   id: "01a0595b-ef5c-7f4b-9b2e-9b6cf37dcb79",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const runCost = {
   id: "01a06949-b281-78a7-a70c-701001269801",

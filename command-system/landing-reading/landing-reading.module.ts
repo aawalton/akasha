@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const landingReading = {
   id: "01a06dc1-7f50-78ab-b4c7-e9d9290ad691",

@@ -1,4 +1,4 @@
-import { literalOf, parsedAs } from "@akasha/code-system/code-source"
+import { literalOf, parsedAs } from "@akasha/code/code-source"
 import { everyOfType, everyPath, listedAt } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import ts from "typescript"

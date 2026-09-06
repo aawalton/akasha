@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const bodyMerging = {
   id: "01a062c6-2c7a-7f20-859b-3a675a130bd0",

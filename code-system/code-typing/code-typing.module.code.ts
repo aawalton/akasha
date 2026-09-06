@@ -1,6 +1,6 @@
 import { realpathSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { stamped, versionOf, writtenTo } from "@akasha/code-system/typing-keeping"
+import { stamped, versionOf, writtenTo } from "@akasha/code/typing-keeping"
 import ts from "typescript"
 
 const TS = ".ts"

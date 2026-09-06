@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const restating = {
   id: "01a0725b-7254-78a0-805c-1e7767a3e280",

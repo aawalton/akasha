@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const parseArgs = {
   id: "01a06984-c75c-7000-aa0f-75be5d36446c",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const bodyNotUtf8 = {
   id: "01a06982-39cd-7000-aaed-afa3d4b4e20b",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const packagePhasing = {
   id: "01a07245-8d2b-7f3a-8c13-c97c55d53541",

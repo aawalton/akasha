@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const alanwaltonKokoroModelPreparation = {
   id: "01a0595b-ef5b-7c52-9a71-eda688105984",

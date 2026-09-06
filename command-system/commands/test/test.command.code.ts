@@ -1,8 +1,8 @@
 import { existsSync } from "node:fs"
 import { join, relative, resolve } from "node:path"
-import { textIn } from "@akasha/code-system/body-text"
-import type { Ran, Summary, Verdict } from "@akasha/code-system/code-tests"
-import { plain, ranOver, testNamed, testsUnder } from "@akasha/code-system/code-tests"
+import { textIn } from "@akasha/code/body-text"
+import type { Ran, Summary, Verdict } from "@akasha/code/code-tests"
+import { plain, ranOver, testNamed, testsUnder } from "@akasha/code/code-tests"
 import { endingOf } from "@akasha/utils-run/running"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const moveSiding = {
   id: "01a07208-15d9-7ea4-b255-645f2d052aa0",

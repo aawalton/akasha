@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 import type { PageType } from "@akasha/pages/page-type"
 import type { ChangeKindSlug } from "./properties/change-kind-slug.relation-property.ts"
 import type { HelpEnvVars } from "./properties/help-env-vars.record-property.ts"

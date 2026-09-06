@@ -1,6 +1,6 @@
 import { existsSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { compiled, readingOf, typed, typingOver } from "@akasha/code-system/code-typing"
+import { compiled, readingOf, typed, typingOver } from "@akasha/code/code-typing"
 import { reachingInto } from "@akasha/graph/graph-asking"
 import { importEdge } from "@akasha/graph/import-edge"
 import { everyPath, listedAt, readingIn } from "@akasha/indexes"

@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { resolve } from "node:path"
 import { notUtf8 } from "@akasha/checks/body-not-utf8"
-import { decodeUtf8 } from "@akasha/code-system/utf8-body"
+import { decodeUtf8 } from "@akasha/code/utf8-body"
 import { fail } from "@akasha/command-system/command-failing"
 import {
   AKASHA,

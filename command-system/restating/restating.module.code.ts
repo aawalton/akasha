@@ -1,5 +1,5 @@
-import { formattedBody } from "@akasha/code-system/code-format"
-import { tokensOf } from "@akasha/code-system/code-tokens"
+import { formattedBody } from "@akasha/code/code-format"
+import { tokensOf } from "@akasha/code/code-tokens"
 
 export type Interior = {
   readonly start: number

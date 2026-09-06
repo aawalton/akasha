@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const jsonBadge = {
   id: "01a05b55-a539-7c5d-8f10-546de142862f",

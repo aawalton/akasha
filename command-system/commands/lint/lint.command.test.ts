@@ -1,7 +1,7 @@
 import { afterAll, test as check, expect } from "bun:test"
 import { mkdirSync, realpathSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
-import type { Found } from "@akasha/code-system/code-lint"
+import type { Found } from "@akasha/code/code-lint"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
 import { lint, many, reportOf, sayingOf } from "./lint.command.code.ts"

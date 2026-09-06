@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const patching = {
   id: "01a06303-cba2-7ada-9cb8-d1b24bf3bd62",

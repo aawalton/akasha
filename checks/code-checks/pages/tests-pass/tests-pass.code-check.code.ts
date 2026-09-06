@@ -1,11 +1,5 @@
-import type { Ran } from "@akasha/code-system/code-tests"
-import {
-  alreadyRunning,
-  plain,
-  ranOver,
-  testsBesideOf,
-  worldOf,
-} from "@akasha/code-system/code-tests"
+import type { Ran } from "@akasha/code/code-tests"
+import { alreadyRunning, plain, ranOver, testsBesideOf, worldOf } from "@akasha/code/code-tests"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
 import { endingOf } from "@akasha/utils-run/running"

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const changeFreshness = {
   id: "01a04faa-e70a-757d-a665-8e7b7bcfd14d",

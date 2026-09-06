@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const removeManifesting = {
   id: "01a06cae-c0e6-7131-b018-ad2125eea727",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const packageLinking = {
   id: "01a05e70-aa0f-7000-8196-db94598b6c0c",

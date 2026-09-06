@@ -1,5 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import { textIn } from "@akasha/code-system/body-text"
+import { textIn } from "@akasha/code/body-text"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { scratchWorld } from "../scratching/scratching.module.code.ts"

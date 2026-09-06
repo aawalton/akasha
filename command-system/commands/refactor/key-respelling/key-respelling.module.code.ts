@@ -1,5 +1,5 @@
 import { dirname, join } from "node:path"
-import type { Naming, Typing } from "@akasha/code-system/code-typing"
+import type { Naming, Typing } from "@akasha/code/code-typing"
 import {
   compiled,
   declarationsNamed,
@@ -7,7 +7,7 @@ import {
   readingOf,
   spelledAs,
   typingOver,
-} from "@akasha/code-system/code-typing"
+} from "@akasha/code/code-typing"
 import { everyPath, listedAt, readingIn, schemaOf } from "@akasha/indexes"
 import { pageTypesIn } from "@akasha/indexes/entries"
 import { carryingOf, declaringOf } from "@akasha/indexes/property-carrying"

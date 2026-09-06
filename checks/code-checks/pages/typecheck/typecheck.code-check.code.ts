@@ -1,8 +1,8 @@
 import { readdirSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
-import { textIn } from "@akasha/code-system/body-text"
-import { parsedAs } from "@akasha/code-system/code-source"
-import { specifiersIn } from "@akasha/code-system/code-specifier"
+import { textIn } from "@akasha/code/body-text"
+import { parsedAs } from "@akasha/code/code-source"
+import { specifiersIn } from "@akasha/code/code-specifier"
 import {
   compiled,
   directoriesIn,
@@ -10,10 +10,10 @@ import {
   manifested,
   readingOf,
   servedOf,
-} from "@akasha/code-system/code-typing"
-import { lua50Config } from "@akasha/code-system/lua-runtime-library/lua50-config"
-import { universalConfig } from "@akasha/code-system/lua-runtime-library/universal-config"
-import { reachesIn } from "@akasha/code-system/package-manifest"
+} from "@akasha/code/code-typing"
+import { lua50Config } from "@akasha/code/lua-runtime-library/lua50-config"
+import { universalConfig } from "@akasha/code/lua-runtime-library/universal-config"
+import { reachesIn } from "@akasha/code/package-manifest"
 import { reachingInto } from "@akasha/graph/graph-asking"
 import { importEdge } from "@akasha/graph/import-edge"
 import type { Answering } from "@akasha/indexes/answering"

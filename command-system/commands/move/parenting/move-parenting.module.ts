@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const moveParenting = {
   id: "01a06d2b-a523-7de4-a400-2f0a9f2abda6",

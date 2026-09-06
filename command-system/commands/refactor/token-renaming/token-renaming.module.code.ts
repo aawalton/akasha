@@ -14,7 +14,7 @@ import {
   type Typing,
   typed,
   typingOver,
-} from "@akasha/code-system/code-typing"
+} from "@akasha/code/code-typing"
 import type ts from "typescript"
 import { counted } from "../../../asking/asking.module.code.ts"
 import { were } from "../landing/refactor-landing.module.code.ts"

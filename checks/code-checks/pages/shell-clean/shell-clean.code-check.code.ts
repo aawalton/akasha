@@ -1,4 +1,4 @@
-import { worldOf } from "@akasha/code-system/code-tests"
+import { worldOf } from "@akasha/code/code-tests"
 import type { Change } from "@akasha/pages/change"
 import type { Shadow } from "@akasha/pages/shadow"
 import { ran } from "@akasha/utils-run/running"

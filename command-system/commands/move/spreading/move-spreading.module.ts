@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const moveSpreading = {
   id: "01a05d57-f5d8-7e53-8ccd-0fd0f89a3053",

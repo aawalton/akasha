@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const moveResettling = {
   id: "01a062fe-9cb1-7206-be2f-34f5df0717c9",

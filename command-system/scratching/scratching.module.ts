@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scratching = {
   id: "01a04e38-e129-7fb0-90d9-b552acc212d8",

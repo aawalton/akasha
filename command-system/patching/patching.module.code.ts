@@ -1,6 +1,6 @@
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { decodeUtf8 } from "@akasha/code-system/utf8-body"
+import { decodeUtf8 } from "@akasha/code/utf8-body"
 import { argvFor, said as gitSaid, told as gitTold } from "@akasha/git/git-running"
 import { bytes as ranBytes, said as ranSaid } from "@akasha/utils-run/running"
 import { bodyRead } from "../differing/differing.module.code.ts"

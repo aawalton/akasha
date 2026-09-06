@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const badgeToggleGroup = {
   id: "01a05b55-a539-7ba2-8596-477f129ecac0",

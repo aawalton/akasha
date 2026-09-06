@@ -1,6 +1,6 @@
-import { parsedAs } from "@akasha/code-system/code-source"
-import type { Typing } from "@akasha/code-system/code-typing"
-import { boundAs, exportsNamed, referencesOf } from "@akasha/code-system/code-typing"
+import { parsedAs } from "@akasha/code/code-source"
+import type { Typing } from "@akasha/code/code-typing"
+import { boundAs, exportsNamed, referencesOf } from "@akasha/code/code-typing"
 import { everyOfType, namersOf, readingIn } from "@akasha/indexes"
 import { knownIn, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
 import { addressIn } from "@akasha/pages/page-address"
@@ -20,7 +20,7 @@ export function addressedIn(value: Value, known: Shaped, id: string): readonly A
   const found: Addressed[] = []
   const seen = new Set<string>()
   for (const one of namingsIn(value, known)) {
-    if (one.identity) continue
+    if (one.own) continue
     const wanted = known.targetOf(one.propertySlug)
     if (wanted === null) continue
     for (const named of namesIn(one.held)) {

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const sessionLeveling = {
   id: "01a06868-3956-7058-bd98-818618ad23cf",

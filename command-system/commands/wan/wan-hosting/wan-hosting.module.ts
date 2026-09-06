@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const wanHosting = {
   id: "01a072fa-322d-77af-bb5a-82b475102492",

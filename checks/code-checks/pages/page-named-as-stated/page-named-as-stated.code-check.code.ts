@@ -1,4 +1,4 @@
-import { literalOf, parsedAs } from "@akasha/code-system/code-source"
+import { literalOf, parsedAs } from "@akasha/code/code-source"
 import type { Change } from "@akasha/pages/change"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { partedIn, sectionedIn } from "@akasha/pages/page-file-name"

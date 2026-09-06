@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const royalRoadSyncing = {
   id: "01a0686a-7a57-7b85-b362-7a71277ca88c",

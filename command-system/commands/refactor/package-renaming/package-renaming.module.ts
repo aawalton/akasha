@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const packageRenaming = {
   id: "01a05db4-4c3b-7000-846e-a71e6c71e1e3",

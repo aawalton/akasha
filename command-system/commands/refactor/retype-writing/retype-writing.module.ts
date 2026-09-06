@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const retypeWriting = {
   id: "01a072f6-33c9-7260-bd3c-f83b91948733",

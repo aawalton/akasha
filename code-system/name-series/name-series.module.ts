@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const nameSeries = {
   id: "01a069d1-a0b9-7000-b6eb-54718b0a4502",

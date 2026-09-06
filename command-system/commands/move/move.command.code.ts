@@ -1,5 +1,5 @@
 import { resolve } from "node:path"
-import { typed } from "@akasha/code-system/code-typing"
+import { typed } from "@akasha/code/code-typing"
 import { everyPath } from "@akasha/indexes"
 import { valuesOver } from "@akasha/pages/page-value"
 import { repointed } from "../../../changes/partial/pages/repoint-imports/repoint-imports.change-partial.code.ts"

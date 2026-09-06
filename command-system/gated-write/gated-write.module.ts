@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const gatedWrite = {
   id: "01a06949-b281-7b8d-ae3f-bc451ba4ebb7",

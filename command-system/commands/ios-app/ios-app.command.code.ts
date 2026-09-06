@@ -1,6 +1,6 @@
 import { mkdtempSync, readFileSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { type Plan, planFor } from "@akasha/code-system/app-building"
+import { type Plan, planFor } from "@akasha/code/app-building"
 import { ran as running } from "@akasha/utils-run/running"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 

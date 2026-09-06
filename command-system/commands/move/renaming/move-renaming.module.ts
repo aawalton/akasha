@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const moveRenaming = {
   id: "01a0580e-88ca-790a-846a-3b4f471ec14f",

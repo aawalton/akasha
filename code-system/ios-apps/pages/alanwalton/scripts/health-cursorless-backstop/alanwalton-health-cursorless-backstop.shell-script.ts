@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const alanwaltonHealthCursorlessBackstop = {
   id: "01a0595b-ef58-7361-88ab-99ceef2aceec",

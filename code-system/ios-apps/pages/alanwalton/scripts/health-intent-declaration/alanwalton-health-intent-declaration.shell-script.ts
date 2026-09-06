@@ -1,4 +1,4 @@
-import type { ShellScript } from "@akasha/code-system/shell-script"
+import type { ShellScript } from "@akasha/code/shell-script"
 
 export const alanwaltonHealthIntentDeclaration = {
   id: "01a0595b-ef59-77d8-8fc2-aa1d1a50d200",

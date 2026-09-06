@@ -1,4 +1,4 @@
-import { literalOf, parsedAs } from "@akasha/code-system/code-source"
+import { literalOf, parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
 import { splicedIn } from "../../refactor/type-renaming/type-renaming.module.code.ts"
 

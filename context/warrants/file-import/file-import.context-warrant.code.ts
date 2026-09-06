@@ -1,10 +1,5 @@
-import {
-  landingOf,
-  NAMING_NONE,
-  type Naming,
-  specifiersIn,
-} from "@akasha/code-system/code-specifier"
-import { typed } from "@akasha/code-system/code-typing"
+import { landingOf, NAMING_NONE, type Naming, specifiersIn } from "@akasha/code/code-specifier"
+import { typed } from "@akasha/code/code-typing"
 import { listedByPath } from "@akasha/indexes"
 import { bodiesAt, reachingFor } from "@akasha/indexes/package-reaching"
 import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"

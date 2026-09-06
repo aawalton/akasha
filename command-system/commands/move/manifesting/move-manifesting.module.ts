@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const moveManifesting = {
   id: "01a05d7c-6c95-76a9-aa74-4cf4fa0300f2",

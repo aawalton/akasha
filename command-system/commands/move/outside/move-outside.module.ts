@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const moveOutside = {
   id: "01a05f06-c7a5-7dd1-8ddd-a9cfa93cc222",

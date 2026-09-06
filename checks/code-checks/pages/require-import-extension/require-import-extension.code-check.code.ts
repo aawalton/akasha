@@ -1,4 +1,4 @@
-import { landingOf, specifiersIn } from "@akasha/code-system/code-specifier"
+import { landingOf, specifiersIn } from "@akasha/code/code-specifier"
 import {
   judgingEach,
   overEachText,

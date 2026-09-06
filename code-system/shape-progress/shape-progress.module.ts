@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const shapeProgress = {
   id: "01a05cb3-7cca-71ff-970d-6e0340c8a4ce",

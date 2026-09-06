@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const removeWorkspacing = {
   id: "01a06275-26ce-7655-bc28-31a9955b2d18",

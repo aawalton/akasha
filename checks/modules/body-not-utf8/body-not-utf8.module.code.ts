@@ -1,4 +1,4 @@
-import { leadingBytes } from "@akasha/code-system/utf8-body"
+import { leadingBytes } from "@akasha/code/utf8-body"
 import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
 import { refusalText } from "../refusal-text/refusal-text.module.code.ts"
 

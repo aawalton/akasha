@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const moveArguing = {
   id: "01a05d7c-6c94-7f58-bcd8-e33b648ac89a",

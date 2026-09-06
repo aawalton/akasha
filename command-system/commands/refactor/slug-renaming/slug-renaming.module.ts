@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const slugRenaming = {
   id: "01a062ac-e1ef-7c47-b6b2-5941424c5cd2",

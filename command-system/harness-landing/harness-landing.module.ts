@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const harnessLanding = {
   id: "01a068b3-8055-7002-b15c-89df8a6b0a59",

@@ -1,5 +1,5 @@
 import { dirname, join } from "node:path"
-import { landingOf, specifiersIn } from "@akasha/code-system/code-specifier"
+import { landingOf, specifiersIn } from "@akasha/code/code-specifier"
 import type { Change } from "@akasha/pages/change"
 import { matchingIn } from "@akasha/pages/name-format/format-reaching"
 import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"

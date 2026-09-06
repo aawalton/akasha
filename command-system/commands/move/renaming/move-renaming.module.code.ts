@@ -1,6 +1,6 @@
 import { basename } from "node:path"
-import { literalOf, parsedAs } from "@akasha/code-system/code-source"
-import { spelledIn } from "@akasha/code-system/code-specifier"
+import { literalOf, parsedAs } from "@akasha/code/code-source"
+import { spelledIn } from "@akasha/code/code-specifier"
 import { namersOf, readingIn } from "@akasha/indexes"
 import { knownIn, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
 import { addressIn } from "@akasha/pages/page-address"
@@ -117,7 +117,7 @@ export function rebound(path: string, text: string, was: string, now: string): s
 export function addressingIn(value: Value, known: Shaped, id: string): readonly string[] {
   const found = new Set<string>()
   for (const one of namingsIn(value, known)) {
-    if (one.identity) continue
+    if (one.own) continue
     const wanted = known.targetOf(one.propertySlug)
     if (wanted === null) continue
     for (const named of namesIn(one.held)) {

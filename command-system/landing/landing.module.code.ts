@@ -1,7 +1,7 @@
 import { existsSync, mkdirSync, renameSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import type { Judged, Judging } from "@akasha/checks/judging"
-import { textIn, textOf } from "@akasha/code-system/body-text"
+import { textIn, textOf } from "@akasha/code/body-text"
 import { said as gitIn } from "@akasha/git/git-running"
 import type { Change } from "@akasha/pages/change"
 import { movedOnDisk } from "../change-freshness/change-freshness.module.code.ts"

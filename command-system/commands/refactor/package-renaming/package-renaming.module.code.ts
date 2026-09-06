@@ -1,4 +1,4 @@
-import { spelledIn } from "@akasha/code-system/code-specifier"
+import { spelledIn } from "@akasha/code/code-specifier"
 import { everyPath } from "@akasha/indexes"
 import type { Held } from "../../../asking/asking.module.code.ts"
 import { counted, landedMechanically, landingAsked } from "../../../asking/asking.module.code.ts"

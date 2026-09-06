@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const deployKindReading = {
   id: "01a05f90-94a7-7fc2-9a67-8a23a3e65539",

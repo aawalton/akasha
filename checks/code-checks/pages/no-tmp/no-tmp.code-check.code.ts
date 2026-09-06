@@ -1,4 +1,4 @@
-import { lineOf, parsedAs } from "@akasha/code-system/code-source"
+import { lineOf, parsedAs } from "@akasha/code/code-source"
 import { textAt } from "@akasha/pages/page-value"
 import type { Shadow } from "@akasha/pages/shadow"
 import ts from "typescript"

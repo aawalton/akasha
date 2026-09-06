@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const sessionRows = {
   id: "01a068da-a0ca-7689-b3e8-3d7a7d4c70b1",

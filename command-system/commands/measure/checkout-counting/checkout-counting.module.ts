@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const checkoutCounting = {
   id: "01a06d1e-b1fe-7eae-ba21-1842c4d3106e",

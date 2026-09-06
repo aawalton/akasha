@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const commitAuthor = {
   id: "01a068b1-4f80-7000-adc7-64276300358f",

@@ -1,6 +1,6 @@
 import { existsSync, lstatSync, readdirSync, readFileSync, rmdirSync, statSync } from "node:fs"
 import { join, resolve } from "node:path"
-import { parsedAs } from "@akasha/code-system/code-source"
+import { parsedAs } from "@akasha/code/code-source"
 import { namersOf, readingIn } from "@akasha/indexes"
 import { knownIn, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
 import { besideAll } from "@akasha/pages/page-beside"
@@ -181,7 +181,7 @@ export type Naming = {
 export function namingFor(value: Value, known: Shaped, id: string): readonly Naming[] {
   const found: Naming[] = []
   for (const one of namingsIn(value, known)) {
-    if (one.identity) continue
+    if (one.own) continue
     const wanted = known.targetOf(one.propertySlug)
     if (wanted === null) continue
     const listed = Array.isArray(one.held)

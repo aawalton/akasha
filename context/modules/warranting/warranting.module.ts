@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const warranting = {
   id: "01a04ee0-3078-7000-9069-e5db5da797ad",
