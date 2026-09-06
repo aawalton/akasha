@@ -42,6 +42,28 @@ index 3e3e91e7b8a8fa444a9f1a05a63e17ef0587caed..b7a663d45606a0d7417b509301fc0479
                  let size = metrics.diameter * Self.readingFraction
                  let line = size * Self.lineHeightFactor
                  let halfWidth = max(
+diff --git a/code-system/ios-components/pages/alanwalton-upkeep-stoplights-widget/alanwalton-upkeep-stoplights-widget.ios-component.swift.swift b/code-system/ios-components/pages/alanwalton-upkeep-stoplights-widget/alanwalton-upkeep-stoplights-widget.ios-component.swift.swift
+index a542834cc8af1efce6415bb53db136ccad25bc7a..b5dbe6f1f230c3c88b5b1f7c2f238a9e11359f9d 100644
+--- a/code-system/ios-components/pages/alanwalton-upkeep-stoplights-widget/alanwalton-upkeep-stoplights-widget.ios-component.swift.swift
++++ b/code-system/ios-components/pages/alanwalton-upkeep-stoplights-widget/alanwalton-upkeep-stoplights-widget.ios-component.swift.swift
+@@ -8,6 +8,7 @@ struct UpkeepStoplight: Decodable, Hashable {
+     let nextTier: Tier?
+     let progress: Double?
+     let label: String?
++    var figureOffScale: Bool? = nil
+ }
+ 
+ struct UpkeepStoplightsResponse: Decodable {
+@@ -92,7 +93,8 @@ struct UpkeepHomeView: View {
+                     reading: $0.reading,
+                     nextTier: $0.nextTier,
+                     progress: $0.progress,
+-                    label: $0.label ?? $0.habit
++                    label: $0.label ?? $0.habit,
++                    figureOffScale: $0.figureOffScale ?? false
+                 )
+             }
+         }
 diff --git a/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.swift.swift b/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.swift.swift
 index 474411c369c899f60b1c1fb8590c35ba40075f90..f4048bbc41539d40498d393b1ac53e13c14da51c 100644
 --- a/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.swift.swift
