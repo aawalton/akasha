@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/manifest-locking/manifest-locking.module.ts b/command-system/manifest-locking/manifest-locking.module.ts
-index 2245abe6e1d8b8289ea05d711545420c811fa5f5..2f2613fcb8c6e08d1ba0c7db5602a3e273aa7b2f 100644
+index 2245abe6e1d8b8289ea05d711545420c811fa5f5..35743e561ad67004ca843719b5c0e292ff0ee33e 100644
 --- a/command-system/manifest-locking/manifest-locking.module.ts
 +++ b/command-system/manifest-locking/manifest-locking.module.ts
 @@ -19,11 +19,11 @@ export const manifestLocking = {
@@ -14,6 +14,15 @@ index 2245abe6e1d8b8289ea05d711545420c811fa5f5..2f2613fcb8c6e08d1ba0c7db5602a3e2
        invariantKind: "departure",
 -      statement: "A manifest arriving and one going are the same event here.",
 +      statement: "A manifest arriving and a manifest going are the same event here.",
+     },
+     {
+       invariantKind: "departure",
+@@ -90,7 +90,7 @@ export const manifestLocking = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A lockfile the install makes again says the commit carries one its manifests do not warrant.",
++        "A lockfile the install makes again says the commit carries a lockfile its manifests do not warrant.",
      },
      {
        invariantKind: "departure",
