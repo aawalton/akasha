@@ -33,11 +33,15 @@ export const sessionLoading = {
     },
     {
       invariantKind: "departure",
-      statement: "A set log carries no day, so the day comes from the session that log belongs to.",
+      statement: "A set log carries no day.",
     },
     {
       invariantKind: "departure",
-      statement: "Cardio, mobility and warmup sets are no history to progress from.",
+      statement: "The day comes from the session that log belongs to.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Cardio and mobility and warmup sets are no history to progress from.",
     },
     {
       invariantKind: "departure",
