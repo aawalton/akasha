@@ -248,3 +248,15 @@ index e4ce53cbfc611d33aa7ce0ac44d3f32e308f3e18..526e8109c6db1da1ce2fbbc86317eeb0
    viewPlace: 0,
    visibleProperties: ["page-type-id", "script-type"],
    hiddenPropertiesOrder: ["display-order", "tier-achievements", "seq"],
+diff --git a/pages/views/pages/series-all.view.ts b/pages/views/pages/series-all.view.ts
+index 4d0648403681b8836ec32f2e39813eea522f7b18..1930c3d134ad81559ee48fab6b1adae0f6a01e38 100644
+--- a/pages/views/pages/series-all.view.ts
++++ b/pages/views/pages/series-all.view.ts
+@@ -6,6 +6,7 @@ export const seriesAll = {
+   slug: "series-all",
+   title: "All",
+   navSlug: "series",
++  pageType: "ki-book-series",
+   viewPlace: 0,
+   layout: "cards",
+   viewSorts: [{ key: "title", descending: false }],
