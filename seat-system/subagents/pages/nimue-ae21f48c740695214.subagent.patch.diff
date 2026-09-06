@@ -1,3 +1,34 @@
+diff --git a/command-system/asking/asking.module.code.ts b/command-system/asking/asking.module.code.ts
+index 8af453651f0aed29a08fd5dab6ee24dbf407b1cd..f4c920cb9d9d83da19c9986b11a6dfe486387a53 100644
+--- a/command-system/asking/asking.module.code.ts
++++ b/command-system/asking/asking.module.code.ts
+@@ -36,6 +36,7 @@ import {
+ import { type Reading, SUBAGENT_MARK } from "../reading/reading.module.code.ts"
+ import type { Minted } from "../value-minting/value-minting.module.code.ts"
+ import { mintingOnto } from "../value-minting/value-minting.module.code.ts"
++import { workedFor } from "../worked-typing/worked-typing.module.code.ts"
+ 
+ export const DRY_RUN = "--dry-run"
+ 
+@@ -353,12 +354,17 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer>
+   const unexportable = unexportableIn(formatting.changes)
+   if (unexportable.length > 0) return mistaking([...unexportable, NOTHING])
+   const locking = lockingFor(given.root, baseOf(given.root), formatting.changes)
++  const worked = workedFor(given.root, formatting.changes)
+   const aside = [
+     ...filledSaid(minted.filled),
+     ...formattedSaid(formatting.formatted),
+     ...locking.said,
++    ...worked.said,
+   ]
+-  const held: Asked = { ...asked, changes: [...formatting.changes, ...locking.edits] }
++  const held: Asked = {
++    ...asked,
++    changes: [...formatting.changes, ...locking.edits, ...worked.edits],
++  }
+   const bypass = bypassIn(given, held)
+   const built = gateBuilt(given.root)
+   if ("broken" in built && bypass === null) return unloadable(built.broken)
 diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
 index e0633724f8d2af46232711b977f8dca8c64ecb4e..211030a738d52c4c05c7eb79587316ea980bd351 100644
 --- a/command-system/command-system.workspace-package.ts
