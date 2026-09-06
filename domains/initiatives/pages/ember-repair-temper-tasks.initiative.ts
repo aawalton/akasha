@@ -60,7 +60,7 @@ export const emberRepairTemperTasks = {
     {
       statement: "The browser reads and writes the file beside a page.",
       workingMemory:
-        "The store road is built both ways. A page a write carries may hand over `bodies`, and composedFor puts each at the file its ending names, refusing a key held in no file, a named file, or a missing ending. A query may name `files`, and /ask answers those keys as bodies: ember's portrait reads 2,796 bytes rather than the two characters `md`. A path road was refused because the store limits no caller. Left: the access client drops both fields, and temper-web still reads asRecord(row.completion).",
+        "The store road is built both ways, and askComposed carries `files`: against the running store ember's portrait reads 2,796 bytes where the same ask without it reads the two characters `md`. A write may hand over `bodies`, and composedFor puts each at the file its ending names, refusing a key held in no file, a named file, or a missing ending. A path road was refused: the store limits no caller. Left: the access client drops both fields, and temper-web still reads asRecord(row.completion).",
     },
   ],
   constraints: [
