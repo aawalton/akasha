@@ -1,8 +1,18 @@
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
-index 8ee5f15018d55ace7a493031fae2ba373a767d43..c772feee3e06c492f82ea34df443d1fa82ae98d8 100644
+index 8ee5f15018d55ace7a493031fae2ba373a767d43..e8522aa5db8a02bfae12868101576c611ca8fade 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
 +++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test.ts
-@@ -296,10 +296,6 @@ test("a file the index does not name as a page is passed over, whatever its body
+@@ -210,9 +210,6 @@ test("a single value declared many is refused, and a list declared single is ref
+ })
+ 
+ test("a page type the index does not name is refused, and the check's own reading passes over", () => {
+-  // This asked the strict reading for `no-such-type` and expected `[]`, which conflated a page
+-  // type that is not there with one that carries nothing. Seven page types really were absent from
+-  // the identity index while their files sat on disk, and every one read as declaring nothing.
+   expect(() => declaredIn("no-such-type")).toThrow("`no-such-type` names no page type here")
+   expect(world.index.propertiesIfNamed("no-such-type")).toBe(null)
+ })
+@@ -296,10 +293,6 @@ test("a file the index does not name as a page is passed over, whatever its body
    expect(judgedOver({ "akasha/held.ts": "export const held = (\n" })).toEqual([])
  })
  
