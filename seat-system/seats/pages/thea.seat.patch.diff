@@ -1,0 +1,38 @@
+diff --git a/checks/code-checks/code-check.page-type.ts b/checks/code-checks/code-check.page-type.ts
+index 1d40cc6cbf8e05a14f6e020fe35dffbf2203e069..5911f263339623a8e72da6a2924528732fd73a3c 100644
+--- a/checks/code-checks/code-check.page-type.ts
++++ b/checks/code-checks/code-check.page-type.ts
+@@ -189,20 +189,6 @@ export const codeCheck = {
+         "Never answer for a check by catching its error.",
+       ],
+     },
+-    {
+-      directiveKind: "rule",
+-      name: "Zero At Turning On",
+-      act: "Fix every violation a check finds before it judges the whole tree, never freezing them into a list.",
+-      warrant:
+-        "A check judging the whole tree while its defects stand reads green and blocks nobody.",
+-      aids: [
+-        "Turning the whole-tree phases on before zero stops every writer at once.",
+-        "A check may land with every phase off, which claims nothing and hides nothing.",
+-        "Landing it off puts the rule up for argument before it binds anyone.",
+-        "Never narrow a judging check's reach to make the count zero.",
+-        "Where zero is out of reach, leave the whole-tree phases off until it is not.",
+-      ],
+-    },
+     {
+       directiveKind: "principle",
+       name: "Change Reach",
+diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
+index 5ca30621d8d278e807e7075b3d6a359e50d7e91e..4803eb7fa18c494ae6d24a30b62ab988073ebd40 100644
+--- a/domains/initiatives/pages/thea-checks-system.initiative.ts
++++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
+@@ -10,7 +10,7 @@ export const theaChecksSystem = {
+     {
+       statement: "Every check is cheap enough for patch and runs there.",
+       workingMemory:
+-        "Four steps: 1 the failure category prevented, 2 the right files judged at patch, 3 cheap at patch, 4 turned on. A check no changed path satisfies never runs; the entries beside its page are the only instrument for that. Seed a fault before believing a zero, and never narrow a reach to reach zero. 43 checks, alphabetical. Done: domain-is-named-by-a-parent, email-address-is-well-formed, file-has-its-page, calculation-imports-only-types. Now: file-length, steps 1-3 done, fixed cost dominating.",
++        "Four steps: 1 the failure category prevented, 2 the right files judged at patch, 3 cheap at patch, 4 turned on. A check no changed path satisfies never runs; the entries beside its page are the only instrument for that. Seed a fault before believing a zero. 43 checks, alphabetical. Done: domain-is-named-by-a-parent, email-address-is-well-formed, file-has-its-page, calculation-imports-only-types, file-length. Now: folder-matches-a-shape.",
+     },
+     {
+       statement: "The tests beside a changed file judge the change that carries it.",
