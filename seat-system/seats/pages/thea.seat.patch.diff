@@ -2512,6 +2512,32 @@ index 2bf5ee11f3d194a0bd99dfeb016e29bbd20c2ef4..e3f6cfa2b65c6ab6ff2b546a9eabc783
    }
    if (widthOf(nearer) > widthOf(further)) {
      return `\`unique\` widens from \`${reachIn(further)}\` to \`${reachIn(nearer)}\``
+diff --git a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
+index 154418076c30c01ef2955feee5a0c534295649b2..e6b8b6999a4c0568aa8bbb181c196383890f953a 100644
+--- a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
++++ b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
+@@ -88,14 +88,17 @@ export function fieldsOf(
+     }
+     const field = shaped.pagePropertySlug
+     const fieldPage = pageFor(shaped)
+-    const max = fieldPage === null ? null : numberAt(fieldPage, "max")
++    const stood = fieldPage === null ? null : numberAt(fieldPage, "maxLength")
++    const max = shaped.maxLength ?? stood
+     const format = fieldPage === null ? null : textAt(fieldPage, FORMAT)
+     const many = Array.isArray(stated)
+-    if (shaped.many && many && shaped.max !== null && stated.length > shaped.max) {
+-      said.push(`holds ${stated.length} of \`${slug} ${field}\`, over the max of ${shaped.max}`)
++    if (shaped.many && many && shaped.maxCount !== null && stated.length > shaped.maxCount) {
++      said.push(
++        `holds ${stated.length} of \`${slug} ${field}\`, over the count of ${shaped.maxCount}`
++      )
+     }
+     if (shaped.many && many) {
+-      const why = overTotal(stated, shaped.total, `${slug} ${field}`)
++      const why = overTotal(stated, null, `${slug} ${field}`)
+       if (why !== null) said.push(why)
+       const twice = twiceIn(stated, `${slug} ${field}`)
+       if (twice !== null) said.push(twice)
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
 index 4a1852b02ab8be6cb9ad17429238822d8d1e3ff1..97035222bcfec4f34c9ce68deac3914af82e61ae 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
