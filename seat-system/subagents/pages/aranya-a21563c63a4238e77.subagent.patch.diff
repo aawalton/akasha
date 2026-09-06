@@ -1,0 +1,14 @@
+diff --git a/service-system/secrets/pages/registry-tls-tls-crt.secret.ts b/service-system/secrets/pages/registry-tls-tls-crt.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d74b012de8d6d2d790a84794b6cddc51d238c640
+--- /dev/null
++++ b/service-system/secrets/pages/registry-tls-tls-crt.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const registryTlsTlsCrt = {
++  id: "01a07697-b9c0-7a95-ba69-384559b7559c",
++  pageTypeSlug: "secret",
++  slug: "registry-tls-tls-crt",
++  placements: [{ resourceName: "registry-tls", resourceKey: "tls.crt" }],
++} as const satisfies Secret
