@@ -17,3 +17,22 @@ index 5030466e5641f179a9f752597ac2fda3109092f1..11ff5af4e3a5a1d02e18a381dad7dff1
  "$CAP" "$MODE" ios
 -bash "$HERE/../alanwalton-ios-seam/alanwalton-ios-seam.shell-script.shell.sh"
 +bash "$HERE/../ios-seam/alanwalton-ios-seam.shell-script.shell.sh"
+diff --git a/code-system/ios-apps/pages/smilingjenny/scripts/ios-add/smilingjenny-ios-add.shell-script.shell.sh b/code-system/ios-apps/pages/smilingjenny/scripts/ios-add/smilingjenny-ios-add.shell-script.shell.sh
+index 41a808f9cee49fad09f9f23c1ac5b3b92e24b16a..c65d415e8851335875db15132c18bea987b41f57 100644
+--- a/code-system/ios-apps/pages/smilingjenny/scripts/ios-add/smilingjenny-ios-add.shell-script.shell.sh
++++ b/code-system/ios-apps/pages/smilingjenny/scripts/ios-add/smilingjenny-ios-add.shell-script.shell.sh
+@@ -17,7 +17,7 @@ esac
+ 
+ HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+ PACKAGE="$(cd "$HERE/../.." && pwd)"
+-SHARED="$(cd "$PACKAGE/../../shell-scripts" && pwd)"
++SHARED="$(cd "$PACKAGE/../../scripts" && pwd)"
+ cd "$PACKAGE"
+ 
+ # cap is a devDependency binary, and bun hoists it to the workspace root rather
+@@ -46,4 +46,4 @@ bash "$SHARED/write-capacitor-config/write-capacitor-config.shell-script.shell.s
+ bash "$SHARED/stage-web-entry/stage-web-entry.shell-script.shell.sh" \
+   "$PACKAGE/smilingjenny.ios-app.web-entry.html"
+ "$CAP" "$MODE" ios
+-bash "$HERE/../smilingjenny-ios-seam/smilingjenny-ios-seam.shell-script.shell.sh"
++bash "$HERE/../ios-seam/smilingjenny-ios-seam.shell-script.shell.sh"
