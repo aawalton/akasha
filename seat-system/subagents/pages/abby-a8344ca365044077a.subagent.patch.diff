@@ -1,0 +1,86 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-least-motion-trains-a-motor-pattern.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-least-motion-trains-a-motor-pattern.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6ce2a0a736fc453d477ee5841d136fed98ed75d9
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-least-motion-trains-a-motor-pattern.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatLeastMotionTrainsAMotorPattern = {
++  id: "01a077e5-e07e-795f-ad30-526937c844dd",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-least-motion-trains-a-motor-pattern",
++  topicSlug: "how-a-skill-gets-into-me",
++  ask: "What is the least motion that still trains a motor pattern in me, given that fingering without playing is the lowest I have gone?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-interest-aims-my-offline-rehearsal.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-interest-aims-my-offline-rehearsal.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b0369c785786319640efa89789486addc63cb7cb
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-interest-aims-my-offline-rehearsal.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherInterestAimsMyOfflineRehearsal = {
++  id: "01a077e5-e07e-72a0-a3b3-88b3eba3ab64",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-interest-aims-my-offline-rehearsal",
++  topicSlug: "how-a-skill-gets-into-me",
++  ask: "Does interest firing on one small pattern aim my offline rehearsal at that gap?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-resource-state-picks-the-mode.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-resource-state-picks-the-mode.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..048db580674be172a996025a8b43972b2dd8c7ce
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-resource-state-picks-the-mode.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyResourceStatePicksTheMode = {
++  id: "01a077e5-e07e-7a8c-9ac1-3a1f42560b5b",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-resource-state-picks-the-mode",
++  topicSlug: "how-a-skill-gets-into-me",
++  ask: "Does my resource state decide which mode of learning is even available to me?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-writing-trains-better-than-thinking.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-writing-trains-better-than-thinking.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..89195d9e447f24d8f6a749b78bfc5054606ff029
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-writing-trains-better-than-thinking.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherWritingTrainsBetterThanThinking = {
++  id: "01a077e5-e07d-7037-b8c1-e0bb1aec55d3",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-writing-trains-better-than-thinking",
++  topicSlug: "how-a-skill-gets-into-me",
++  ask: "Does writing train my response weights better than thinking alone does?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-speed-reading-worked-for-me.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-speed-reading-worked-for-me.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5d35c8229601ae961b93de70c687ec57ba39031d
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/why-speed-reading-worked-for-me.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whySpeedReadingWorkedForMe = {
++  id: "01a077e5-e07e-7b1d-ad34-7b2ddd9b09f2",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "why-speed-reading-worked-for-me",
++  topicSlug: "how-a-skill-gets-into-me",
++  ask: "Speed reading worked for me. Was that conceptual mode, low subvocalising, or taking concepts off a chunk?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-a-skill-gets-into-me.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-a-skill-gets-into-me.all-about-alan-topic.ts
+index 0618b1ee1d2fe2ec9c4695b6dce6bdd25f6e7687..cca89ae57c96cdbdcaa0513317f11e3fd5ff52ab 100644
+--- a/alan/books/all-about-alan/topics/pages/how-a-skill-gets-into-me.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-a-skill-gets-into-me.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const howASkillGetsIntoMe = {
+   relatedSlugs: ["what-repetition-encodes", "how-i-get-anything-done"],
+   settled:
+     "A skill lands as a trained weight or as a concept, never as a memory of the room I learned it in.\n\nThat missing layer is why a skill costs so much to build and why it carries anywhere once it is built.\n\nThinking about something outside the moment is training rather than idling. It moves the weights.\n\nIn the moment I run on what is already trained, plus whatever I can read off the scaffolding around me.\n\nThe count is per small pattern. A fluent skill is a stack of them at different stages.",
+-  unsettled:
+-    "Whether writing trains the response weights better than thinking alone is an experiment I have not run.\n\nThe least motion that still trains a motor pattern is unknown. Fingering without playing is my lower bound.\n\nWhether my resource state decides which of the modes is even available is unasked.\n\nWhether interest firing on one small pattern aims the offline rehearsal at that gap is open.\n\nSpeed reading worked and why is unrecorded: conceptual mode, low subvocalising, or concepts off a chunk.",
+ } as const satisfies AllAboutAlanTopic
