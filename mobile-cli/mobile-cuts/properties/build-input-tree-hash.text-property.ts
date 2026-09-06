@@ -13,7 +13,7 @@ export const buildInputTreeHash = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A cut carrying none predates the basis cuts are judged by and reads as owed.",
+      statement: "A cut carrying no hash predates the basis cuts are judged by and reads as owed.",
     },
   ],
 } as const satisfies TextProperty
