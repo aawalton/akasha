@@ -20,7 +20,7 @@ export const instantPropertySlugClosesWithAt = {
     {
       invariantKind: "departure",
       statement:
-        "The slug judged is the one the page states rather than the one its file name says.",
+        "The slug judged is the slug the page states rather than the slug its file name says.",
     },
     {
       invariantKind: "absence",
