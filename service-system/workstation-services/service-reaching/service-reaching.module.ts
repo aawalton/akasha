@@ -15,7 +15,7 @@ export const serviceReaching = {
     {
       invariantKind: "departure",
       statement:
-        "A file is reached at the path that file really is at rather than the one naming that file.",
+        "A file is reached at the path that file really is at rather than the path naming that file.",
     },
     {
       invariantKind: "departure",
