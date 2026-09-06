@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/pages/indexes/reaching/reaching.module.ts b/pages/indexes/reaching/reaching.module.ts
-index 3960f00eb1eef6ecee8f5caff8a5d772b59a74bb..b1af8ee394eef682c6231e277a747a8d049f4786 100644
+index 3960f00eb1eef6ecee8f5caff8a5d772b59a74bb..33ac06f50bb0b4a823d3909bfbf3d29909b6a1d7 100644
 --- a/pages/indexes/reaching/reaching.module.ts
 +++ b/pages/indexes/reaching/reaching.module.ts
 @@ -23,7 +23,8 @@ export const reaching = {
@@ -25,6 +25,15 @@ index 3960f00eb1eef6ecee8f5caff8a5d772b59a74bb..b1af8ee394eef682c6231e277a747a8d
 -      statement: "One a page's type carries neither of reaches nothing.",
 +      statement:
 +        "A key carried by two properties reaches nothing where a page's type carries neither property.",
+     },
+     {
+       invariantKind: "departure",
+@@ -45,7 +47,7 @@ export const reaching = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A value that narrows to more than one page is refused rather than resolved to one of those pages.",
++        "A value that narrows to more than one page is refused rather than resolved to a single page.",
      },
      {
        invariantKind: "departure",
