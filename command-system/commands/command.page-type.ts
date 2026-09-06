@@ -59,6 +59,7 @@ export const command = {
     "command/lint-exception",
     "command/loki",
     "command/measure",
+    "command/measure-attributes",
     "command/model-gateway",
     "command/move",
     "command/page-tree",
