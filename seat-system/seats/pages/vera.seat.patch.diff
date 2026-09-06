@@ -1,0 +1,2004 @@
+runsChecks: false
+runsWarrants: false
+diff --git a/pages/query-keys/page-query-keys.module.ts b/pages/query-keys/page-query-keys.module.ts
+index 4534dfb88425f0d2b5faaf31c04774923add7554..581f9e9908eeb83bd3dc60cc796cd046239771a4 100644
+--- a/pages/query-keys/page-query-keys.module.ts
++++ b/pages/query-keys/page-query-keys.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageQueryKeys = {
+   id: "01a06879-ef4b-7001-ab47-02e822f92b2a",
+diff --git a/pages/query-narrow/page-query-narrow.module.ts b/pages/query-narrow/page-query-narrow.module.ts
+index 0992a1a7e4414257554039c7df8ee65b2f907ff4..a6c5927072513bc22d9cc1ca7a3cf0dcf97bd55f 100644
+--- a/pages/query-narrow/page-query-narrow.module.ts
++++ b/pages/query-narrow/page-query-narrow.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageQueryNarrow = {
+   id: "01a06876-e5ea-7001-86ce-58ce3040f4b6",
+diff --git a/pages/query-reduce/page-query-reduce.module.ts b/pages/query-reduce/page-query-reduce.module.ts
+index 6f66ea151d4f28ddd1de1e06bce7fd9aec613e0c..51c5e68f8f3caafde228d0e82c1eed736f5850fa 100644
+--- a/pages/query-reduce/page-query-reduce.module.ts
++++ b/pages/query-reduce/page-query-reduce.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageQueryReduce = {
+   id: "01a06876-e5ea-7002-83a9-4885bf20bd04",
+diff --git a/pages/query-request/page-query-request.module.ts b/pages/query-request/page-query-request.module.ts
+index 157f4eb755d3c0c620667b067dab93091e3d7e03..ced52ce454c7ebef6eb355f32b3b64f4ade0fbed 100644
+--- a/pages/query-request/page-query-request.module.ts
++++ b/pages/query-request/page-query-request.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageQueryRequest = {
+   id: "01a06874-32db-7000-85c2-0567c0db08d6",
+diff --git a/pages/query-shape/page-query-shape.module.ts b/pages/query-shape/page-query-shape.module.ts
+index 84e83b37fab689745df7e1005bb45a89fbfd34e2..f42c171f88bf808c45c889e5952ab496107fc8da 100644
+--- a/pages/query-shape/page-query-shape.module.ts
++++ b/pages/query-shape/page-query-shape.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageQueryShape = {
+   id: "01a06876-e5ea-7000-a25d-769b1225404c",
+diff --git a/pages/query-values/page-query-values.module.ts b/pages/query-values/page-query-values.module.ts
+index 406f4c5a7ff4235b693cafdcb433106b422c2cb8..3e0863ec9c00646f9062193c2fb5c164ddbdce02 100644
+--- a/pages/query-values/page-query-values.module.ts
++++ b/pages/query-values/page-query-values.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageQueryValues = {
+   id: "01a0686e-6807-7004-b553-004544e7e12b",
+diff --git a/pages/query/pages-query.workspace-package.ts b/pages/query/pages-query.workspace-package.ts
+index 2115e14a6a0e5b70c9d81e5c33004904a1b7df09..19ebc924a3c2ce17f9ea683f4af54a351a272212 100644
+--- a/pages/query/pages-query.workspace-package.ts
++++ b/pages/query/pages-query.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const pagesQuery = {
+   id: "01a05aec-eaaa-785b-b175-87946b2c2eb7",
+diff --git a/pages/query/store-page-asking/store-page-asking.module.ts b/pages/query/store-page-asking/store-page-asking.module.ts
+index f5667e449c12a228503576717431e4f9dff2cac5..f1130672a4d5054a5fddb05e25aeb55d75a41974 100644
+--- a/pages/query/store-page-asking/store-page-asking.module.ts
++++ b/pages/query/store-page-asking/store-page-asking.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const storePageAsking = {
+   id: "01a05aec-eaaa-78d0-9e24-94f935464bf0",
+diff --git a/pages/query/store-questioning/store-questioning.module.ts b/pages/query/store-questioning/store-questioning.module.ts
+index 0f90e65c9b584220bac38d9d9efa27762bd0d603..aa470337a74c895491df5bffe89ee72c1cc8eb38 100644
+--- a/pages/query/store-questioning/store-questioning.module.ts
++++ b/pages/query/store-questioning/store-questioning.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const storeQuestioning = {
+   id: "01a05aec-eaaa-7127-aa3c-7494fc98ae9b",
+diff --git a/pages/query/store-reaching/store-reaching.module.ts b/pages/query/store-reaching/store-reaching.module.ts
+index c302a395a30667751c5e82cd270516fa34e4e9eb..2dc5b24353d235506bcdd90dd1793a6d7ea64543 100644
+--- a/pages/query/store-reaching/store-reaching.module.ts
++++ b/pages/query/store-reaching/store-reaching.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const storeReaching = {
+   id: "01a05aec-eaaa-7fea-bdc1-a5818c78d54a",
+diff --git a/pages/query/store-spelled-asking/store-spelled-asking.module.ts b/pages/query/store-spelled-asking/store-spelled-asking.module.ts
+index 1ca270301856f46aa856252726524724dd7ffd51..9352e58934a5b7d7b7d2a20f7ef2f3c514c6ec7c 100644
+--- a/pages/query/store-spelled-asking/store-spelled-asking.module.ts
++++ b/pages/query/store-spelled-asking/store-spelled-asking.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const storeSpelledAsking = {
+   id: "01a063ba-dbcd-72dd-9475-fbcddbebcd88",
+diff --git a/pages/query/store-spelling/store-spelling.module.ts b/pages/query/store-spelling/store-spelling.module.ts
+index b7351f5564cfc8e5fb44ec0c957c3701b1d097f9..45673df66f3eb2cf5b1cbd64102e34945cbcc44d 100644
+--- a/pages/query/store-spelling/store-spelling.module.ts
++++ b/pages/query/store-spelling/store-spelling.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const storeSpelling = {
+   id: "01a06369-1e85-764a-90a8-c72d834a1882",
+diff --git a/pages/query/store-writing/store-writing.module.ts b/pages/query/store-writing/store-writing.module.ts
+index 55a3c066551572710c38479a5a52b3cb1bfdb5e0..9c809ce2764dfdb3bba312a1b3a00fad4dcdc9e3 100644
+--- a/pages/query/store-writing/store-writing.module.ts
++++ b/pages/query/store-writing/store-writing.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const storeWriting = {
+   id: "01a05aec-eaaa-7be1-9528-6c84a071ce1c",
+diff --git a/pages/repo-path/repo-path.module.ts b/pages/repo-path/repo-path.module.ts
+index 81716b62d89769e9a5811c26e231b46dc671241c..aad97ea3179c7de4d742deba404c01a3e5201d2f 100644
+--- a/pages/repo-path/repo-path.module.ts
++++ b/pages/repo-path/repo-path.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const repoPath = {
+   id: "01a05cc6-2a1c-751d-8813-33c04d9c2005",
+diff --git a/pages/secret/page-secret.module.ts b/pages/secret/page-secret.module.ts
+index 0078a8f35098c6080b718118787755d3463193fa..64a20593b4d430799e1485a07f527611d563e66e 100644
+--- a/pages/secret/page-secret.module.ts
++++ b/pages/secret/page-secret.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageSecret = {
+   id: "01a054c7-d2ae-7000-a800-88a46290bfd1",
+diff --git a/pages/service/kinds-gathering/kinds-gathering.module.ts b/pages/service/kinds-gathering/kinds-gathering.module.ts
+index 298fe78ea405ecbb586bac76033f93169affc1fb..acb880215f1344a9b3808f285648865e5b074f7c 100644
+--- a/pages/service/kinds-gathering/kinds-gathering.module.ts
++++ b/pages/service/kinds-gathering/kinds-gathering.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const kindsGathering = {
+   id: "01a0723b-ed99-778a-8adb-131a72c2cd98",
+diff --git a/pages/service/page-asking/page-asking.module.ts b/pages/service/page-asking/page-asking.module.ts
+index f40cf59806ee10870832f0964e95842420cdf731..89a705301c0d25e5c28407bda4ede2b044e384f6 100644
+--- a/pages/service/page-asking/page-asking.module.ts
++++ b/pages/service/page-asking/page-asking.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageAsking = {
+   id: "01a05a07-81e2-7f5f-a79f-e899fbe6699b",
+diff --git a/pages/service/page-calling/page-calling.module.ts b/pages/service/page-calling/page-calling.module.ts
+index 9a9c6efa27a24e845f493a1e48aef8b319ac2393..d5545a98d683363d212caa6680b8662777c5f482 100644
+--- a/pages/service/page-calling/page-calling.module.ts
++++ b/pages/service/page-calling/page-calling.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageCalling = {
+   id: "01a05e09-12dc-7b16-9bed-9d7b314f2d15",
+diff --git a/pages/service/page-composing/page-composing.module.ts b/pages/service/page-composing/page-composing.module.ts
+index ec92442ae5d9558c12fb01f334e74c8c6326b319..04bec8531e257b734b73bb845cff09e2881eb3dd 100644
+--- a/pages/service/page-composing/page-composing.module.ts
++++ b/pages/service/page-composing/page-composing.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageComposing = {
+   id: "01a05de9-57a4-7810-8d1f-402752b1598b",
+diff --git a/pages/service/page-listening/page-listening.module.ts b/pages/service/page-listening/page-listening.module.ts
+index db5a73a0e3a5114d766f162504629e85c75f7aa3..c9233df9535872c8f670657fc52a9b9c852f261b 100644
+--- a/pages/service/page-listening/page-listening.module.ts
++++ b/pages/service/page-listening/page-listening.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageListening = {
+   id: "01a05a43-5af9-7b66-ac4c-33e3f06d1c87",
+diff --git a/pages/service/page-reading/page-reading.module.code.ts b/pages/service/page-reading/page-reading.module.code.ts
+index cdf1df946439e3ea5395575338c62cb871664ab1..7babb960f9df60519278e3ec8084b1a843f1b950 100644
+--- a/pages/service/page-reading/page-reading.module.code.ts
++++ b/pages/service/page-reading/page-reading.module.code.ts
+@@ -1,4 +1,4 @@
+-import { textOf } from "@akasha/code-system/body-text"
++import { textOf } from "@akasha/code/body-text"
+ import { baseOf, changeOf } from "@akasha/command-system/landing"
+ import { listedAt } from "@akasha/indexes"
+ import { secretNamed, uncommittedNamed } from "@akasha/pages/page-file-name"
+diff --git a/pages/service/page-reading/page-reading.module.ts b/pages/service/page-reading/page-reading.module.ts
+index 514937053f6b3c9e1ab200706fa7d7b213f45570..769bf07241dceab847642af378c5745f74ddaff0 100644
+--- a/pages/service/page-reading/page-reading.module.ts
++++ b/pages/service/page-reading/page-reading.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageReading = {
+   id: "01a05b1e-1347-77b8-9b46-d0b4f449e698",
+diff --git a/pages/service/page-serving/page-serving.module.ts b/pages/service/page-serving/page-serving.module.ts
+index 4a044e2b1118ea10f880dd65606f75df6e5cf9a2..f5268209a8bcfdf9659dbf4ff175752386ab0580 100644
+--- a/pages/service/page-serving/page-serving.module.ts
++++ b/pages/service/page-serving/page-serving.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageServing = {
+   id: "01a05a0c-e821-77b9-8798-ffe359e087ba",
+diff --git a/pages/service/page-writing/page-writing.module.code.ts b/pages/service/page-writing/page-writing.module.code.ts
+index 899fd7b075bc1019f0e61af41993984c3de9c59c..b1d9421c84dfa0f9aba728b258ac7037e97cc502 100644
+--- a/pages/service/page-writing/page-writing.module.code.ts
++++ b/pages/service/page-writing/page-writing.module.code.ts
+@@ -1,5 +1,5 @@
+ import type { Judging } from "@akasha/checks/judging"
+-import { formattedBody } from "@akasha/code-system/code-format"
++import { formattedBody } from "@akasha/code/code-format"
+ import { type FileEdit, landing } from "@akasha/command-system/landing"
+ import { mintingOnto } from "@akasha/command-system/value-minting"
+ import { mergeUncommitted } from "@akasha/pages/page-uncommitted"
+diff --git a/pages/service/page-writing/page-writing.module.ts b/pages/service/page-writing/page-writing.module.ts
+index 053c994776cff1bf4e40daff886ce00fc3562a90..642acac10ce6c9be6a25a9ac049b42c1b19291aa 100644
+--- a/pages/service/page-writing/page-writing.module.ts
++++ b/pages/service/page-writing/page-writing.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageWriting = {
+   id: "01a05abd-fe05-794d-8493-811846971bf6",
+diff --git a/pages/service/pages-service.workspace-package.ts b/pages/service/pages-service.workspace-package.ts
+index 466a0b20c27994392e14fa1671cb68c3e1e22d6e..11e97843c14aa68f135427f8c381862691ab994c 100644
+--- a/pages/service/pages-service.workspace-package.ts
++++ b/pages/service/pages-service.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const pagesService = {
+   id: "01a059f5-b807-7dee-b0fc-4f45379fca1c",
+diff --git a/pages/service/where-testing/where-testing.module.ts b/pages/service/where-testing/where-testing.module.ts
+index 275af50342531a30074976a165eb4235237c7325..af044149079c2189971628543fbb102afc166b94 100644
+--- a/pages/service/where-testing/where-testing.module.ts
++++ b/pages/service/where-testing/where-testing.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const whereTesting = {
+   id: "01a05bdd-d54c-7989-aac7-52cb42d778c4",
+diff --git a/pages/shadow/shadow.module.code.ts b/pages/shadow/shadow.module.code.ts
+index ea966ba98ee2011b50b18b7f587dcbc43f09e0ff..4506731131ea36154b368e0f59d7db6f9ce6c6fe 100644
+--- a/pages/shadow/shadow.module.code.ts
++++ b/pages/shadow/shadow.module.code.ts
+@@ -1,5 +1,5 @@
+ import { createHash } from "node:crypto"
+-import { textOf } from "@akasha/code-system/body-text"
++import { textOf } from "@akasha/code/body-text"
+ import { everyValue, readingIn } from "@akasha/indexes"
+ import { type Answering, answeringOver } from "@akasha/indexes/answering"
+ import { settlingOver } from "@akasha/indexes/indexing"
+diff --git a/pages/shadow/shadow.module.ts b/pages/shadow/shadow.module.ts
+index d8abc029ebf5929cbab73a056c25d159c35d73f6..4b05380b2eae65b112b87d2d2d83df4e956ac3fa 100644
+--- a/pages/shadow/shadow.module.ts
++++ b/pages/shadow/shadow.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const shadow = {
+   id: "01a053a5-3240-7a15-81e0-042ef50c4d89",
+diff --git a/pages/test-run-marking/test-run-marking.module.ts b/pages/test-run-marking/test-run-marking.module.ts
+index 89c26cc3cb04bb0bf9f2b2d668a068260f0aae51..11457058a3e5af8529230a3904512b127200dfff 100644
+--- a/pages/test-run-marking/test-run-marking.module.ts
++++ b/pages/test-run-marking/test-run-marking.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const testRunMarking = {
+   id: "01a069c3-b0fd-7947-8715-46fad5843f53",
+diff --git a/pages/types/declared-properties/declared-properties.module.ts b/pages/types/declared-properties/declared-properties.module.ts
+index 13f0eb54d01d1c030010c06fdaf4eaa66c29c673..f1b1054c21df08b28f0f18d9d8caf2f7f201aff4 100644
+--- a/pages/types/declared-properties/declared-properties.module.ts
++++ b/pages/types/declared-properties/declared-properties.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const declaredProperties = {
+   id: "01a053f6-7bab-764e-b69d-af9ebf0f1558",
+diff --git a/pages/types/descent/page-type-descent.module.ts b/pages/types/descent/page-type-descent.module.ts
+index e6d640bcc20dddadbe2df0ab2627a28634ba27d5..5234abb27fbf8153393c66a27cab7a4b75c533a7 100644
+--- a/pages/types/descent/page-type-descent.module.ts
++++ b/pages/types/descent/page-type-descent.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageTypeDescent = {
+   id: "01a04eca-11d6-7481-9151-c390edc031c2",
+diff --git a/pages/types/folder/page-type-folder.module.ts b/pages/types/folder/page-type-folder.module.ts
+index 573f8e3f48c368afbfacf8d58e560c703dce1834..f6640bb43ea04942a3f0e874bc271de48c1084e3 100644
+--- a/pages/types/folder/page-type-folder.module.ts
++++ b/pages/types/folder/page-type-folder.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageTypeFolder = {
+   id: "01a07690-d4cb-70b5-ab1b-698ad6ee2f09",
+diff --git a/pages/types/page-properties/key/page-property-key.module.ts b/pages/types/page-properties/key/page-property-key.module.ts
+index 39d3b2672343d505cf3a75462f230f240e308bb8..7079bc82a6726e264d7620552d12022352cde1b4 100644
+--- a/pages/types/page-properties/key/page-property-key.module.ts
++++ b/pages/types/page-properties/key/page-property-key.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pagePropertyKey = {
+   id: "01a04e57-b7b0-7401-852a-4c0be30ace24",
+diff --git a/pages/ui-store/collection/acquire/acquire.module.ts b/pages/ui-store/collection/acquire/acquire.module.ts
+index fe7110b540b9b10588c3d284f87a474fd45dec47..962948e7de562cddd251469c9490df9a2bf9b295 100644
+--- a/pages/ui-store/collection/acquire/acquire.module.ts
++++ b/pages/ui-store/collection/acquire/acquire.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const acquire = {
+   id: "01a05b69-453d-7baf-9785-452b40c60767",
+diff --git a/pages/ui-store/collection/content-persistence/content-persistence.module.ts b/pages/ui-store/collection/content-persistence/content-persistence.module.ts
+index b1c7799a633b049ddd6f7359fc994ae4c0d35fc9..6b6dac08b373ac06413ba1b3a7801a24e2657458 100644
+--- a/pages/ui-store/collection/content-persistence/content-persistence.module.ts
++++ b/pages/ui-store/collection/content-persistence/content-persistence.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const contentPersistence = {
+   id: "01a05b69-453e-733e-b49f-b2a6010daa7f",
+diff --git a/pages/ui-store/collection/fetch-attach/fetch-attach.module.ts b/pages/ui-store/collection/fetch-attach/fetch-attach.module.ts
+index 9f079fd3d665b0a79e9e59d6bb2972688a4adabd..e30d04bff5d9b3d73bef8a5023ab0fa3de2fa286 100644
+--- a/pages/ui-store/collection/fetch-attach/fetch-attach.module.ts
++++ b/pages/ui-store/collection/fetch-attach/fetch-attach.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const fetchAttach = {
+   id: "01a05b69-453f-78b8-a67b-fe573df190bf",
+diff --git a/pages/ui-store/collection/file-backing/file-backing.module.ts b/pages/ui-store/collection/file-backing/file-backing.module.ts
+index 8cf8945c8342523875a75bd6ac7785d84e71d3e9..b7dd11ba78d0dc019128adafcd5219c3ce55dfe4 100644
+--- a/pages/ui-store/collection/file-backing/file-backing.module.ts
++++ b/pages/ui-store/collection/file-backing/file-backing.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const fileBacking = {
+   id: "01a05b69-4540-715d-a1fb-2ce95dde8cb6",
+diff --git a/pages/ui-store/collection/identity-change/identity-change.module.ts b/pages/ui-store/collection/identity-change/identity-change.module.ts
+index 4b6002e40f65db2758d4c387ba2b1267cb3c3f00..2f53e1e931d7ddf10b4e16e3bb1f5f0fbf41bbb5 100644
+--- a/pages/ui-store/collection/identity-change/identity-change.module.ts
++++ b/pages/ui-store/collection/identity-change/identity-change.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const identityChange = {
+   id: "01a05b69-4541-7b76-b810-6a886d278d62",
+diff --git a/pages/ui-store/collection/page-row/page-row.module.ts b/pages/ui-store/collection/page-row/page-row.module.ts
+index 974948ef1a96c34b36a8fc07febf87a7564bbfce..28bd4b17fa038cfc17cf630f836cb3734ce2dbc8 100644
+--- a/pages/ui-store/collection/page-row/page-row.module.ts
++++ b/pages/ui-store/collection/page-row/page-row.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageRow = {
+   id: "01a05b69-4542-71af-8043-f28f9fcf592b",
+diff --git a/pages/ui-store/collection/pages-collection/pages-collection.module.ts b/pages/ui-store/collection/pages-collection/pages-collection.module.ts
+index f70e491a8550b23c052aac5d04c6b56f6b7a2632..79e4ee856c0fd2931d4ca0b15e89aa97d57efe68 100644
+--- a/pages/ui-store/collection/pages-collection/pages-collection.module.ts
++++ b/pages/ui-store/collection/pages-collection/pages-collection.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pagesCollection = {
+   id: "01a05b69-4543-700b-b4dc-8cbbeb663941",
+diff --git a/pages/ui-store/collection/persistence/persistence.module.ts b/pages/ui-store/collection/persistence/persistence.module.ts
+index 8e6c523e9bb3a2e0c70d42ebc5de6a737def16cd..982dd4cf1ab301b5bbdd57a72b6cf9c3b82d76ba 100644
+--- a/pages/ui-store/collection/persistence/persistence.module.ts
++++ b/pages/ui-store/collection/persistence/persistence.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const persistence = {
+   id: "01a05b69-4544-78d7-8a8e-945b6447e4d6",
+diff --git a/pages/ui-store/collection/shape-descriptor/shape-descriptor.module.ts b/pages/ui-store/collection/shape-descriptor/shape-descriptor.module.ts
+index 2fcde2a3cb68946820444f9a696647a4fcc36568..42fe1c79f21ee0bd1df400b4f5ae857c2f50673d 100644
+--- a/pages/ui-store/collection/shape-descriptor/shape-descriptor.module.ts
++++ b/pages/ui-store/collection/shape-descriptor/shape-descriptor.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const shapeDescriptor = {
+   id: "01a05b69-4545-7ee0-a1d2-883584cf2c3c",
+diff --git a/pages/ui-store/collection/store/store.module.ts b/pages/ui-store/collection/store/store.module.ts
+index dd0e1dc6eda69bce58d8e38e2a3594f672b31511..9bff0f46c546839e31c503443e197e2e9e434360 100644
+--- a/pages/ui-store/collection/store/store.module.ts
++++ b/pages/ui-store/collection/store/store.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const store = {
+   id: "01a05b69-4546-733d-acfc-e02dbd8417b3",
+diff --git a/pages/ui-store/collection/sync-controller/sync-controller.module.ts b/pages/ui-store/collection/sync-controller/sync-controller.module.ts
+index 71be122044b497e71cdc8959a94c0a73447a61c9..f1f0b29f25a9eb80772318cefb63cf10cdc7a0aa 100644
+--- a/pages/ui-store/collection/sync-controller/sync-controller.module.ts
++++ b/pages/ui-store/collection/sync-controller/sync-controller.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const syncController = {
+   id: "01a05b69-4547-747b-9629-3663477b0241",
+diff --git a/pages/ui-store/diagnostics/diagnostics.module.ts b/pages/ui-store/diagnostics/diagnostics.module.ts
+index 30ae40a90e1c6e0b5001322cbe5bf0e2794ade54..732728c5acf308cce378f7132901cda95b9668bb 100644
+--- a/pages/ui-store/diagnostics/diagnostics.module.ts
++++ b/pages/ui-store/diagnostics/diagnostics.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const diagnostics = {
+   id: "01a05b69-4548-7092-9d76-cae014be5753",
+diff --git a/pages/ui-store/optimistic/convergence/convergence.module.ts b/pages/ui-store/optimistic/convergence/convergence.module.ts
+index 4cc92d2c22908d5b664f77596c3d1135c6811dc0..184df41020a1429c2eba46e8882adb8d0b9b2a57 100644
+--- a/pages/ui-store/optimistic/convergence/convergence.module.ts
++++ b/pages/ui-store/optimistic/convergence/convergence.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const convergence = {
+   id: "01a05b69-4549-7fc8-b09b-98a2acfac09b",
+diff --git a/pages/ui-store/optimistic/optimistic-mutation/optimistic-mutation.module.ts b/pages/ui-store/optimistic/optimistic-mutation/optimistic-mutation.module.ts
+index ebe13cf3810c3dd74e95b2c96ce90ecb365958ac..942ba8b3a37534c31a8834bae227710647d7ced2 100644
+--- a/pages/ui-store/optimistic/optimistic-mutation/optimistic-mutation.module.ts
++++ b/pages/ui-store/optimistic/optimistic-mutation/optimistic-mutation.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const optimisticMutation = {
+   id: "01a05b69-454a-7b13-a861-a18e0f5f1b8c",
+diff --git a/pages/ui-store/optimistic/plan/plan.module.ts b/pages/ui-store/optimistic/plan/plan.module.ts
+index 35a95f755d38a6b6187aee8173b04f6fc022180b..140b38ea3ca8ec3825a26094a94de7f94580374e 100644
+--- a/pages/ui-store/optimistic/plan/plan.module.ts
++++ b/pages/ui-store/optimistic/plan/plan.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const plan = {
+   id: "01a05b69-454b-7a81-b10c-477bfcbd4896",
+diff --git a/pages/ui-store/pages-ui-store.workspace-package.ts b/pages/ui-store/pages-ui-store.workspace-package.ts
+index b25091941fc294849f61edc9ebcfbc0d6bfb6887..5305523a202c76b9b14ddf415527e148e8f4daaf 100644
+--- a/pages/ui-store/pages-ui-store.workspace-package.ts
++++ b/pages/ui-store/pages-ui-store.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const pagesUiStore = {
+   id: "01a05b69-455c-7bbd-8f3b-b2c3946559fc",
+diff --git a/pages/ui-store/query/condition-eval/condition-eval.module.ts b/pages/ui-store/query/condition-eval/condition-eval.module.ts
+index fb75c63d664d1755567a594fb0aebae29ebad807..d34bb56b0a6ca8b7cd547dfa45c1df6de1662a10 100644
+--- a/pages/ui-store/query/condition-eval/condition-eval.module.ts
++++ b/pages/ui-store/query/condition-eval/condition-eval.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const conditionEval = {
+   id: "01a05b69-454c-7ec3-ba3c-2370dee03d6a",
+diff --git a/pages/ui-store/query/condition-expr/condition-expr.module.ts b/pages/ui-store/query/condition-expr/condition-expr.module.ts
+index 8110fd39367b8931c042316d70c1d7c76cccce8c..6e768a7019ec887e24d3b8f8a5dd2ad0482d4c12 100644
+--- a/pages/ui-store/query/condition-expr/condition-expr.module.ts
++++ b/pages/ui-store/query/condition-expr/condition-expr.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const conditionExpr = {
+   id: "01a05b69-454d-7b7a-b33e-c2de2e06ae06",
+diff --git a/pages/ui-store/query/id-suffix-pipeline/id-suffix-pipeline.module.ts b/pages/ui-store/query/id-suffix-pipeline/id-suffix-pipeline.module.ts
+index 549b8ba6087ab963794db18c7d1c9781b8ba2b63..4e6ecf03342ceebf0374d93f66ee984f54605de2 100644
+--- a/pages/ui-store/query/id-suffix-pipeline/id-suffix-pipeline.module.ts
++++ b/pages/ui-store/query/id-suffix-pipeline/id-suffix-pipeline.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const idSuffixPipeline = {
+   id: "01a05b69-454e-7a3f-9487-996fbd634df8",
+diff --git a/pages/ui-store/query/regular-pipeline/regular-pipeline.module.ts b/pages/ui-store/query/regular-pipeline/regular-pipeline.module.ts
+index 12b78cac912b8ac3b7d14a07b2101ea4b4c42e2a..8a771b5b9d644026a502d32effa361449498976b 100644
+--- a/pages/ui-store/query/regular-pipeline/regular-pipeline.module.ts
++++ b/pages/ui-store/query/regular-pipeline/regular-pipeline.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const regularPipeline = {
+   id: "01a05b69-454f-7ac8-bd7a-ce6cef58fd49",
+diff --git a/pages/ui-store/query/sort-resolve/sort-resolve.module.ts b/pages/ui-store/query/sort-resolve/sort-resolve.module.ts
+index 38de7fb0490f87181b3258dd036b89adffb91472..69066b257435943a9154f8cf32afaa50899ad102 100644
+--- a/pages/ui-store/query/sort-resolve/sort-resolve.module.ts
++++ b/pages/ui-store/query/sort-resolve/sort-resolve.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const sortResolve = {
+   id: "01a05b69-4550-734f-b117-9948906f14a9",
+diff --git a/pages/ui-store/query/view-match/view-match.module.ts b/pages/ui-store/query/view-match/view-match.module.ts
+index 86ef6cbbcfae5f0dbd74f6f348800627d422dad0..2d26257610a49c6cc1031bbbe1c36af052d88cb7 100644
+--- a/pages/ui-store/query/view-match/view-match.module.ts
++++ b/pages/ui-store/query/view-match/view-match.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const viewMatch = {
+   id: "01a05b69-4551-75ff-b040-d348271da6aa",
+diff --git a/pages/ui-store/query/view-pipeline/view-pipeline.module.ts b/pages/ui-store/query/view-pipeline/view-pipeline.module.ts
+index b02a885b09e437f97776586e4f8f1d272aa0465a..af9a1fdcc8a4f23a78245b326d82363119962b52 100644
+--- a/pages/ui-store/query/view-pipeline/view-pipeline.module.ts
++++ b/pages/ui-store/query/view-pipeline/view-pipeline.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const viewPipeline = {
+   id: "01a05b69-4552-769b-b58a-70a14d2f7cb3",
+diff --git a/pages/ui-store/query/view-target-slugs/view-target-slugs.module.ts b/pages/ui-store/query/view-target-slugs/view-target-slugs.module.ts
+index 80eb5e03cbe085f621e206f5da6b522b23d71d0f..da26c8cab404ee8e851027665e122cfc221ef2fb 100644
+--- a/pages/ui-store/query/view-target-slugs/view-target-slugs.module.ts
++++ b/pages/ui-store/query/view-target-slugs/view-target-slugs.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const viewTargetSlugs = {
+   id: "01a05b69-4553-7d6d-9198-7fe7231f98f8",
+diff --git a/pages/ui-store/realtime/jwt-exp/jwt-exp.module.ts b/pages/ui-store/realtime/jwt-exp/jwt-exp.module.ts
+index 623b25bd13b8d5823920bc85d5becf2d576e90d0..0e093eaa148caf8c7c817eccde1b651eae16e7cf 100644
+--- a/pages/ui-store/realtime/jwt-exp/jwt-exp.module.ts
++++ b/pages/ui-store/realtime/jwt-exp/jwt-exp.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const jwtExp = {
+   id: "01a05b69-4554-714f-9eff-377a5483bdac",
+diff --git a/pages/ui-store/realtime/jwt-sub/jwt-sub.module.ts b/pages/ui-store/realtime/jwt-sub/jwt-sub.module.ts
+index 5c04652f2ec7b5c9587baa221863fb2ecae27d07..28364a5844f7a1f7fdc97461f6627d5ff3bd4ca5 100644
+--- a/pages/ui-store/realtime/jwt-sub/jwt-sub.module.ts
++++ b/pages/ui-store/realtime/jwt-sub/jwt-sub.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const jwtSub = {
+   id: "01a05b69-4555-7824-9432-7eb9b786def0",
+diff --git a/pages/ui-store/realtime/payload-translator/payload-translator.module.ts b/pages/ui-store/realtime/payload-translator/payload-translator.module.ts
+index 5c0883ff85ee13289bd24c665f98c3b2e1c66f71..6e929b89c3e2e73f3c21c3360445987cba2d08ce 100644
+--- a/pages/ui-store/realtime/payload-translator/payload-translator.module.ts
++++ b/pages/ui-store/realtime/payload-translator/payload-translator.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const payloadTranslator = {
+   id: "01a05b69-4556-79e3-bbe6-95c694d630da",
+diff --git a/pages/ui-store/realtime/shape-meta/shape-meta.module.ts b/pages/ui-store/realtime/shape-meta/shape-meta.module.ts
+index 3d257f8a9023d28514b3bcf6df03534d304ced92..3bcadb459d33be9e179ad88454cf3ff913da1f49 100644
+--- a/pages/ui-store/realtime/shape-meta/shape-meta.module.ts
++++ b/pages/ui-store/realtime/shape-meta/shape-meta.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const shapeMeta = {
+   id: "01a05b69-4557-779c-94fd-95f7ffc36717",
+diff --git a/pages/ui-store/realtime/snapshot-fold/snapshot-fold.module.ts b/pages/ui-store/realtime/snapshot-fold/snapshot-fold.module.ts
+index 50c6cdfd22cfad18a603d22c4f4ac2f752918a71..8ac87f8670653dd5101aa55be730e1ebc561ab60 100644
+--- a/pages/ui-store/realtime/snapshot-fold/snapshot-fold.module.ts
++++ b/pages/ui-store/realtime/snapshot-fold/snapshot-fold.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const snapshotFold = {
+   id: "01a05b69-4558-7c9e-b808-730c3dcd5dea",
+diff --git a/pages/ui-store/report-stall/report-stall.module.ts b/pages/ui-store/report-stall/report-stall.module.ts
+index c92ddd4b75f4e688c531406ed77499e0478c2786..04fb3d99dd7c668c795bb2a373ac27455e63e1af 100644
+--- a/pages/ui-store/report-stall/report-stall.module.ts
++++ b/pages/ui-store/report-stall/report-stall.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const reportStall = {
+   id: "01a05b69-4559-70af-a7b9-baa8532cd964",
+diff --git a/pages/ui-store/singleton/singleton.module.ts b/pages/ui-store/singleton/singleton.module.ts
+index a860d1b7417c067df110d62f664137da62d9de76..9e600a99e8ebe19c545eebcd579896a57b218079 100644
+--- a/pages/ui-store/singleton/singleton.module.ts
++++ b/pages/ui-store/singleton/singleton.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const singleton = {
+   id: "01a05b69-455a-7d6e-96f9-f114dbc25c52",
+diff --git a/pages/ui-store/sql/options/options.module.ts b/pages/ui-store/sql/options/options.module.ts
+index 8a4a00458c909ab21c0764687905af578af305c4..cc9b2661e8577734cdb50c045ed74159eeec2441 100644
+--- a/pages/ui-store/sql/options/options.module.ts
++++ b/pages/ui-store/sql/options/options.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const options = {
+   id: "01a05b69-455b-7fde-a25c-a55f959cde53",
+diff --git a/pages/ui/action-verbs/action-verb-registry/action-verb-registry.module.ts b/pages/ui/action-verbs/action-verb-registry/action-verb-registry.module.ts
+index 62d07da684dbd056acb54d061e4df3e4a7ef118e..f4732674db77656b8402273c0b77ea9a99dfa8fe 100644
+--- a/pages/ui/action-verbs/action-verb-registry/action-verb-registry.module.ts
++++ b/pages/ui/action-verbs/action-verb-registry/action-verb-registry.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const actionVerbRegistry = {
+   id: "01a05c7d-d06d-7923-aef3-5f5f50c5c334",
+diff --git a/pages/ui/app-version/app-version-check/app-version-check.module.ts b/pages/ui/app-version/app-version-check/app-version-check.module.ts
+index f87f7e5efaaebee2000f8a0df5003c237102d4de..97c2e355b515ec75b15389b61d57c0cac4a08b6a 100644
+--- a/pages/ui/app-version/app-version-check/app-version-check.module.ts
++++ b/pages/ui/app-version/app-version-check/app-version-check.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const appVersionCheck = {
+   id: "01a05c0f-884e-79da-afec-110b19b9fb05",
+diff --git a/pages/ui/app-version/use-app-version-check/use-app-version-check.module.ts b/pages/ui/app-version/use-app-version-check/use-app-version-check.module.ts
+index d5e39e432886ca9e734748683649286942328857..0bab4b4d49cdab80e589b7a68fc7ad7413805e51 100644
+--- a/pages/ui/app-version/use-app-version-check/use-app-version-check.module.ts
++++ b/pages/ui/app-version/use-app-version-check/use-app-version-check.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useAppVersionCheck = {
+   id: "01a05c0f-884e-7536-97e4-75ea5b4b6b46",
+diff --git a/pages/ui/block-editor/block-accessory-bar/block-accessory-bar.module.ts b/pages/ui/block-editor/block-accessory-bar/block-accessory-bar.module.ts
+index 25549b9361bd3d539bf41207efd462953ba758ee..db027f81223f396c7e8e2b4a44456fb9a678b573 100644
+--- a/pages/ui/block-editor/block-accessory-bar/block-accessory-bar.module.ts
++++ b/pages/ui/block-editor/block-accessory-bar/block-accessory-bar.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const blockAccessoryBar = {
+   id: "01a061ee-786e-7000-9d49-04de5d6b4867",
+diff --git a/pages/ui/block-editor/block-editor/block-editor.module.ts b/pages/ui/block-editor/block-editor/block-editor.module.ts
+index d4db52e0f2011790702be9a262556d98d2c8cace..6c68a5870358aec68d20616be5220ce6e57ea370 100644
+--- a/pages/ui/block-editor/block-editor/block-editor.module.ts
++++ b/pages/ui/block-editor/block-editor/block-editor.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const blockEditor = {
+   id: "01a06252-3448-7e12-8106-ef83c3f43579",
+diff --git a/pages/ui/block-editor/block-row/block-row.module.ts b/pages/ui/block-editor/block-row/block-row.module.ts
+index 0f566cc2a1a716ece5dc84c227e97607925ad5ec..e3820bc27abda5d9690e830d741e5d80107182c7 100644
+--- a/pages/ui/block-editor/block-row/block-row.module.ts
++++ b/pages/ui/block-editor/block-row/block-row.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const blockRow = {
+   id: "01a06252-3449-7964-ad5b-e1d8e3073421",
+diff --git a/pages/ui/block-editor/block-tree/block-tree.module.ts b/pages/ui/block-editor/block-tree/block-tree.module.ts
+index c4adba8b00e6c4cbfb08597332e97ba1233699a3..d7570b6eed21d6ca4ec7509e379e92572fdc53aa 100644
+--- a/pages/ui/block-editor/block-tree/block-tree.module.ts
++++ b/pages/ui/block-editor/block-tree/block-tree.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const blockTree = {
+   id: "01a06164-b506-700e-903b-fbbe63e551e5",
+diff --git a/pages/ui/block-editor/block-type-helpers/block-type-helpers.module.ts b/pages/ui/block-editor/block-type-helpers/block-type-helpers.module.ts
+index 76cc07d45b99cbb103932f182b82cdce43999975..0307bebbbee25d3ffe83eb7d482742401de6f99a 100644
+--- a/pages/ui/block-editor/block-type-helpers/block-type-helpers.module.ts
++++ b/pages/ui/block-editor/block-type-helpers/block-type-helpers.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const blockTypeHelpers = {
+   id: "01a05c7d-d06b-7920-be11-b4b481f5fc8f",
+diff --git a/pages/ui/block-editor/save-queue/save-queue.module.ts b/pages/ui/block-editor/save-queue/save-queue.module.ts
+index 0ae85ce5200334a6454c93e43f900247bba85863..76b9d01c8d2d3d28eb625d26652a77d7fe46839a 100644
+--- a/pages/ui/block-editor/save-queue/save-queue.module.ts
++++ b/pages/ui/block-editor/save-queue/save-queue.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const saveQueue = {
+   id: "01a05c7d-d069-7d78-8ce2-8d3a31e1f8f3",
+diff --git a/pages/ui/block-editor/slash-menu/slash-menu.module.ts b/pages/ui/block-editor/slash-menu/slash-menu.module.ts
+index 776d49ecf59405cc2700d22ad84900624b3e597c..78581ad542818173764bb0c188718e42db1ab854 100644
+--- a/pages/ui/block-editor/slash-menu/slash-menu.module.ts
++++ b/pages/ui/block-editor/slash-menu/slash-menu.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const slashMenu = {
+   id: "01a061ee-786e-7001-9166-e7e0b6807be4",
+diff --git a/pages/ui/block-editor/use-block-collapse/use-block-collapse.module.ts b/pages/ui/block-editor/use-block-collapse/use-block-collapse.module.ts
+index bc3e45c88c1b67ba03dcadf98b4b6f760c461d5f..f5c1089567b0173a3fc7c9fddf1cdcc8676a8355 100644
+--- a/pages/ui/block-editor/use-block-collapse/use-block-collapse.module.ts
++++ b/pages/ui/block-editor/use-block-collapse/use-block-collapse.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useBlockCollapse = {
+   id: "01a05c7d-d06a-7b77-86c9-2c7e176a7012",
+diff --git a/pages/ui/block-editor/use-block-focus/use-block-focus.module.ts b/pages/ui/block-editor/use-block-focus/use-block-focus.module.ts
+index df1ca9d656c885c712361afc352ed592a830c74f..732dbfead0f68910f266a657e962f78e157cb8dd 100644
+--- a/pages/ui/block-editor/use-block-focus/use-block-focus.module.ts
++++ b/pages/ui/block-editor/use-block-focus/use-block-focus.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useBlockFocus = {
+   id: "01a06205-4f3b-7000-8405-dd8255de93e6",
+diff --git a/pages/ui/block-editor/use-block-keys/use-block-keys.module.ts b/pages/ui/block-editor/use-block-keys/use-block-keys.module.ts
+index af968e4b3118056dfc5b46fd43990608a6fa82f3..83d8b12b76838e8e42b6d20387e0445d9b30f282 100644
+--- a/pages/ui/block-editor/use-block-keys/use-block-keys.module.ts
++++ b/pages/ui/block-editor/use-block-keys/use-block-keys.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useBlockKeys = {
+   id: "01a06205-4f3a-7000-9e3b-b03de1331eea",
+diff --git a/pages/ui/block-editor/use-block-ops/use-block-ops.module.ts b/pages/ui/block-editor/use-block-ops/use-block-ops.module.ts
+index bf7a5d09b48665b7c231b8e9a22a87942e4701cf..df2c4a7fd2eade0edad7c567a8310d53ad61c0c2 100644
+--- a/pages/ui/block-editor/use-block-ops/use-block-ops.module.ts
++++ b/pages/ui/block-editor/use-block-ops/use-block-ops.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useBlockOps = {
+   id: "01a05cba-9cbc-774f-80dc-722ae1f5ccd1",
+diff --git a/pages/ui/block-editor/use-block-persistence/use-block-persistence.module.ts b/pages/ui/block-editor/use-block-persistence/use-block-persistence.module.ts
+index dedba3512da53e3780f71f3d00377a5d1b9964ee..1b2b54dda137b4f554360cde0e8fb9be55626fba 100644
+--- a/pages/ui/block-editor/use-block-persistence/use-block-persistence.module.ts
++++ b/pages/ui/block-editor/use-block-persistence/use-block-persistence.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useBlockPersistence = {
+   id: "01a05cba-9cbc-7938-bd34-83bc397b9257",
+diff --git a/pages/ui/block-editor/use-block-selection/use-block-selection.module.ts b/pages/ui/block-editor/use-block-selection/use-block-selection.module.ts
+index 402f5258eec0d82fafec86ead0c988f2fa520ada..dc3eddf4915ffca98e6f23a9bf420615d92ff2bd 100644
+--- a/pages/ui/block-editor/use-block-selection/use-block-selection.module.ts
++++ b/pages/ui/block-editor/use-block-selection/use-block-selection.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useBlockSelection = {
+   id: "01a05cba-9cbc-77f1-9808-20ef25e05dfa",
+diff --git a/pages/ui/block-editor/use-coarse-pointer/use-coarse-pointer.module.ts b/pages/ui/block-editor/use-coarse-pointer/use-coarse-pointer.module.ts
+index 51216c502b5878c8f2af53684361fe2991b29e7d..069702fdc3628e2dbe81987e37654c9f96fb7dad 100644
+--- a/pages/ui/block-editor/use-coarse-pointer/use-coarse-pointer.module.ts
++++ b/pages/ui/block-editor/use-coarse-pointer/use-coarse-pointer.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useCoarsePointer = {
+   id: "01a05c7d-d06a-7c41-94f9-b9cd44eed247",
+diff --git a/pages/ui/block-editor/use-keyboard-inset/use-keyboard-inset.module.ts b/pages/ui/block-editor/use-keyboard-inset/use-keyboard-inset.module.ts
+index 4be2c6c7e08d68ab051e735259c55b167ff22ebe..b7873be72f8e7420443dd1f492844d12a037c19a 100644
+--- a/pages/ui/block-editor/use-keyboard-inset/use-keyboard-inset.module.ts
++++ b/pages/ui/block-editor/use-keyboard-inset/use-keyboard-inset.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useKeyboardInset = {
+   id: "01a05c7d-d06a-7cd0-99c8-305addb0417b",
+diff --git a/pages/ui/block-editor/use-textarea-input/use-textarea-input.module.ts b/pages/ui/block-editor/use-textarea-input/use-textarea-input.module.ts
+index 61e6e983eef35ad42866bb4290d04cb8c6bbc5cf..9e5bed67e0ee74e01c410b81b7c838e786097b7d 100644
+--- a/pages/ui/block-editor/use-textarea-input/use-textarea-input.module.ts
++++ b/pages/ui/block-editor/use-textarea-input/use-textarea-input.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useTextareaInput = {
+   id: "01a06252-344a-798e-852f-8b867fe1a378",
+diff --git a/pages/ui/cache/boot-gate/boot-gate.module.ts b/pages/ui/cache/boot-gate/boot-gate.module.ts
+index 8ee5042c96a87b10d6fd15c37c7190befe388357..51ebec3c4c697bd63a10efc790fc0ea2783af984 100644
+--- a/pages/ui/cache/boot-gate/boot-gate.module.ts
++++ b/pages/ui/cache/boot-gate/boot-gate.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const bootGate = {
+   id: "01a05c7d-d068-79aa-9ca7-ec600a058f2d",
+diff --git a/pages/ui/cache/tanstack-live/tanstack-live.module.ts b/pages/ui/cache/tanstack-live/tanstack-live.module.ts
+index 2b0691cd971d83cbd9bfc54d624187d19322c859..b338143153dd54dc09ac30639f737cb7f752ea56 100644
+--- a/pages/ui/cache/tanstack-live/tanstack-live.module.ts
++++ b/pages/ui/cache/tanstack-live/tanstack-live.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const tanstackLive = {
+   id: "01a05cba-9cbc-7f0a-9fe4-2beece336d54",
+diff --git a/pages/ui/cache/use-core-definitions-ready/use-core-definitions-ready.module.ts b/pages/ui/cache/use-core-definitions-ready/use-core-definitions-ready.module.ts
+index f94caf15d50340fb748626736c13ce4978b348ab..9ad6a11cf5d6323d470cc98b1616d662cefd6e31 100644
+--- a/pages/ui/cache/use-core-definitions-ready/use-core-definitions-ready.module.ts
++++ b/pages/ui/cache/use-core-definitions-ready/use-core-definitions-ready.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useCoreDefinitionsReady = {
+   id: "01a05cba-9cbb-70a5-a12e-4646925980e8",
+diff --git a/pages/ui/cache/use-query/use-query.module.ts b/pages/ui/cache/use-query/use-query.module.ts
+index 73a7ee9fd543c03c193df5077bb3abe4873409af..0603c4802e9e03872ec9db5a726374c78ecefcfb 100644
+--- a/pages/ui/cache/use-query/use-query.module.ts
++++ b/pages/ui/cache/use-query/use-query.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useQuery = {
+   id: "01a05cce-25ec-7536-86c6-340adc946098",
+diff --git a/pages/ui/cache/use-view-query/use-view-query.module.ts b/pages/ui/cache/use-view-query/use-view-query.module.ts
+index f6497d4bccc40d92b5f7ffa69669cac5233ab39b..66b0878fe17330cfeaab487cc4fea7fa5865065f 100644
+--- a/pages/ui/cache/use-view-query/use-view-query.module.ts
++++ b/pages/ui/cache/use-view-query/use-view-query.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useViewQuery = {
+   id: "01a05cce-25ec-7ff7-96b3-5aee97f05806",
+diff --git a/pages/ui/capabilities/capability-hosts/capability-hosts.module.ts b/pages/ui/capabilities/capability-hosts/capability-hosts.module.ts
+index 6e9055f5eb5ffd719a27d2311584a7a0854ab63b..f559511277477104d71be73aa069f096cff0ef80 100644
+--- a/pages/ui/capabilities/capability-hosts/capability-hosts.module.ts
++++ b/pages/ui/capabilities/capability-hosts/capability-hosts.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const capabilityHosts = {
+   id: "01a05c1c-6e38-7de0-b8e1-e9d60e155537",
+diff --git a/pages/ui/capabilities/page-display-registry/page-display-registry.module.ts b/pages/ui/capabilities/page-display-registry/page-display-registry.module.ts
+index 8bfd1b10728525acb60c1d648308bc6c5460fb28..1c8f7329f312f8fb5fd198ee03210c660d668363 100644
+--- a/pages/ui/capabilities/page-display-registry/page-display-registry.module.ts
++++ b/pages/ui/capabilities/page-display-registry/page-display-registry.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageDisplayRegistry = {
+   id: "01a05c1c-6e38-7acc-bae3-2e0eac01c5ab",
+diff --git a/pages/ui/components/action-button-property-badge/action-button-property-badge.module.ts b/pages/ui/components/action-button-property-badge/action-button-property-badge.module.ts
+index e8c1052d5d2005a8835c997a1a3af6237cc3203e..68341ce18191c1b4eb4aa8a06c2e6bd0360b0cf5 100644
+--- a/pages/ui/components/action-button-property-badge/action-button-property-badge.module.ts
++++ b/pages/ui/components/action-button-property-badge/action-button-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const actionButtonPropertyBadge = {
+   id: "01a0620f-82c4-7000-9e32-46738bc068af",
+diff --git a/pages/ui/components/aggregate-property-badge/aggregate-property-badge.module.ts b/pages/ui/components/aggregate-property-badge/aggregate-property-badge.module.ts
+index e2820caf611fee9de3f8387a999f7630a228ec2a..c7f888e2b7d8d254031ecd216e50561d6bd9b718 100644
+--- a/pages/ui/components/aggregate-property-badge/aggregate-property-badge.module.ts
++++ b/pages/ui/components/aggregate-property-badge/aggregate-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const aggregatePropertyBadge = {
+   id: "01a0620f-82c5-7000-8a1a-5821ea5e911e",
+diff --git a/pages/ui/components/badge-registry/badge-registry.module.ts b/pages/ui/components/badge-registry/badge-registry.module.ts
+index 312c01667e1191a7ad36e12a869478bfa9d5b0b9..2eac8a24c2b7c0baa99c6d24f3caaa51b6ceb1d5 100644
+--- a/pages/ui/components/badge-registry/badge-registry.module.ts
++++ b/pages/ui/components/badge-registry/badge-registry.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const badgeRegistry = {
+   id: "01a0620f-82c5-7001-976e-488a74302e1f",
+diff --git a/pages/ui/components/bare-listing-card/bare-listing-card.module.ts b/pages/ui/components/bare-listing-card/bare-listing-card.module.ts
+index abd1626ff1b337ff73fb23d3aa6b9884b584d1be..a2f9859ede203f273b446499693ea3341a02978a 100644
+--- a/pages/ui/components/bare-listing-card/bare-listing-card.module.ts
++++ b/pages/ui/components/bare-listing-card/bare-listing-card.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const bareListingCard = {
+   id: "01a06257-46e5-7df0-9b5d-3c4b6f7e8246",
+diff --git a/pages/ui/components/base-conditions/base-conditions.module.ts b/pages/ui/components/base-conditions/base-conditions.module.ts
+index 75641fa1c4edc385ae60bcb366c69db657128b64..ad6dcd488cf27ecb34632446ca0ca0ddf6944e51 100644
+--- a/pages/ui/components/base-conditions/base-conditions.module.ts
++++ b/pages/ui/components/base-conditions/base-conditions.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const baseConditions = {
+   id: "01a05cba-9cbb-7b2f-8bb6-ade427f2c6c8",
+diff --git a/pages/ui/components/boolean-property-badge/boolean-property-badge.module.ts b/pages/ui/components/boolean-property-badge/boolean-property-badge.module.ts
+index 631150ebfb81c8be1358e7d38d0b1acf1af66024..578c8716a7a64b0d7d7253c06868e2e8907f72c9 100644
+--- a/pages/ui/components/boolean-property-badge/boolean-property-badge.module.ts
++++ b/pages/ui/components/boolean-property-badge/boolean-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const booleanPropertyBadge = {
+   id: "01a0620f-82c5-7002-b628-caf07d59ed22",
+diff --git a/pages/ui/components/build-server-grouped-sections/build-server-grouped-sections.module.ts b/pages/ui/components/build-server-grouped-sections/build-server-grouped-sections.module.ts
+index 3f92c2d815e711cecba603d37e16d058af3da0bc..422611c1b470d889ca44336a2a33003dbe8040a5 100644
+--- a/pages/ui/components/build-server-grouped-sections/build-server-grouped-sections.module.ts
++++ b/pages/ui/components/build-server-grouped-sections/build-server-grouped-sections.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const buildServerGroupedSections = {
+   id: "01a061ee-786e-7006-b5d7-4f9801a2e33e",
+diff --git a/pages/ui/components/calendar-time-property-badge/calendar-time-property-badge.module.ts b/pages/ui/components/calendar-time-property-badge/calendar-time-property-badge.module.ts
+index 45d0e09ed0e612495732478bf0b9b3fee3ee7e92..6f797354622873e00555a41b020eae148ab3bb61 100644
+--- a/pages/ui/components/calendar-time-property-badge/calendar-time-property-badge.module.ts
++++ b/pages/ui/components/calendar-time-property-badge/calendar-time-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const calendarTimePropertyBadge = {
+   id: "01a0620f-82c5-7003-9fac-5be89a6872a8",
+diff --git a/pages/ui/components/card-property-columns/card-property-columns.module.ts b/pages/ui/components/card-property-columns/card-property-columns.module.ts
+index e3f26be11c5538e77db242bcce4422b9a27ed5c7..f2e078ce21ea61c2c7d5f08b5c2ed87abf1b22a5 100644
+--- a/pages/ui/components/card-property-columns/card-property-columns.module.ts
++++ b/pages/ui/components/card-property-columns/card-property-columns.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const cardPropertyColumns = {
+   id: "01a05cba-f39f-7024-bf3e-8f229f10e57d",
+diff --git a/pages/ui/components/chrome-toggle-decider/chrome-toggle-decider.module.ts b/pages/ui/components/chrome-toggle-decider/chrome-toggle-decider.module.ts
+index 50e97c3b56dbff730892fa3cba48c0ba6734c6b9..ade90acdfc401f83df9962c3621bbd8b2f2fa27a 100644
+--- a/pages/ui/components/chrome-toggle-decider/chrome-toggle-decider.module.ts
++++ b/pages/ui/components/chrome-toggle-decider/chrome-toggle-decider.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const chromeToggleDecider = {
+   id: "01a05c3b-4fc2-770c-8ff5-04a5100e82b0",
+diff --git a/pages/ui/components/components.workspace-package.ts b/pages/ui/components/components.workspace-package.ts
+index 495fcbd432973603748f9d3e4f4c3539b9059daf..bd09a02e702f9ab8bd5e4d561d239b8944f3f2e6 100644
+--- a/pages/ui/components/components.workspace-package.ts
++++ b/pages/ui/components/components.workspace-package.ts
+@@ -1,4 +1,4 @@
+-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
++import type { WorkspacePackage } from "@akasha/code/workspace-package"
+ 
+ export const components = {
+   id: "01a0613d-bbb1-7000-a299-964eee1c712c",
+diff --git a/pages/ui/components/computed-property-badge/computed-property-badge.module.ts b/pages/ui/components/computed-property-badge/computed-property-badge.module.ts
+index 413f28d9430c8ef538c2b43d1a0447d62709d385..57ebbfe1feacb60adfcdbdf3958c09a70637db28 100644
+--- a/pages/ui/components/computed-property-badge/computed-property-badge.module.ts
++++ b/pages/ui/components/computed-property-badge/computed-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const computedPropertyBadge = {
+   id: "01a0620f-82c5-7004-b091-16052091baee",
+diff --git a/pages/ui/components/create-option/create-option.module.ts b/pages/ui/components/create-option/create-option.module.ts
+index 5c6001c472dc7ac10129ebf83911c28b48321ca0..8850172c5d3841413b8c0f8c54685db853366219 100644
+--- a/pages/ui/components/create-option/create-option.module.ts
++++ b/pages/ui/components/create-option/create-option.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const createOption = {
+   id: "01a06158-0a72-7000-baff-30ddc3385dbf",
+diff --git a/pages/ui/components/create-page-dialog/create-page-dialog.module.ts b/pages/ui/components/create-page-dialog/create-page-dialog.module.ts
+index 6cc048bb111bc9f783516b66b1cfe90f55bb127a..dd1f9b5196cc449208b17aaa3b9b852584f6abfa 100644
+--- a/pages/ui/components/create-page-dialog/create-page-dialog.module.ts
++++ b/pages/ui/components/create-page-dialog/create-page-dialog.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const createPageDialog = {
+   id: "01a06257-46f7-78ed-bb4c-fb1127a18588",
+diff --git a/pages/ui/components/create-view-popover/create-view-popover.module.ts b/pages/ui/components/create-view-popover/create-view-popover.module.ts
+index eeb7d4e2b81f85500f986b8d211f5240d7642766..4069ece5d5c25156c63d3a56d5a278b6e84e9dc6 100644
+--- a/pages/ui/components/create-view-popover/create-view-popover.module.ts
++++ b/pages/ui/components/create-view-popover/create-view-popover.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const createViewPopover = {
+   id: "01a0617e-0d2d-700a-99e8-c86d3fe69be4",
+diff --git a/pages/ui/components/date-property-badge/date-property-badge.module.ts b/pages/ui/components/date-property-badge/date-property-badge.module.ts
+index 17b8131b6324e2e745d0250ddcad7d695049972a..3f23265597167e1b228dc7025e282aa5b3ba68f1 100644
+--- a/pages/ui/components/date-property-badge/date-property-badge.module.ts
++++ b/pages/ui/components/date-property-badge/date-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const datePropertyBadge = {
+   id: "01a0620f-82c5-7005-bc60-91bc81bc321d",
+diff --git a/pages/ui/components/date-time-filter-inputs-parse/date-time-filter-inputs-parse.module.ts b/pages/ui/components/date-time-filter-inputs-parse/date-time-filter-inputs-parse.module.ts
+index 8f0effd647c65f85ca623368c6c72c439e3bb408..92a757a018c7bb5252a7cd23922ee812b4d560e3 100644
+--- a/pages/ui/components/date-time-filter-inputs-parse/date-time-filter-inputs-parse.module.ts
++++ b/pages/ui/components/date-time-filter-inputs-parse/date-time-filter-inputs-parse.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const dateTimeFilterInputsParse = {
+   id: "01a05c40-2195-7fa0-a55b-3c06fdedfa46",
+diff --git a/pages/ui/components/date-time-filter-inputs/date-time-filter-inputs.module.ts b/pages/ui/components/date-time-filter-inputs/date-time-filter-inputs.module.ts
+index ccc6e324bbf263465b7a68a5b85d960a6f98f7b6..500bd150fc3abdb13724f22ce1d44ff5da057e76 100644
+--- a/pages/ui/components/date-time-filter-inputs/date-time-filter-inputs.module.ts
++++ b/pages/ui/components/date-time-filter-inputs/date-time-filter-inputs.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const dateTimeFilterInputs = {
+   id: "01a0617e-0d2c-7000-89a8-4f3da6504540",
+diff --git a/pages/ui/components/degrading-image/degrading-image.module.ts b/pages/ui/components/degrading-image/degrading-image.module.ts
+index 91e943521d50a29d0e2f9b1ecada860756b37ed7..0eb298a2fe3956a194a187e92dc7e28697fa2223 100644
+--- a/pages/ui/components/degrading-image/degrading-image.module.ts
++++ b/pages/ui/components/degrading-image/degrading-image.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const degradingImage = {
+   id: "01a05c40-2192-76a6-9bf0-a3b224e8b06b",
+diff --git a/pages/ui/components/drop-zones/drop-zones.module.ts b/pages/ui/components/drop-zones/drop-zones.module.ts
+index 075483b73dbcc3f9e72700f784667c37f0a8fcf2..7f59e0fb737dcf740a8f376724297f2ffec1fce7 100644
+--- a/pages/ui/components/drop-zones/drop-zones.module.ts
++++ b/pages/ui/components/drop-zones/drop-zones.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const dropZones = {
+   id: "01a05c3b-4fc4-74ef-baca-5dc0459014b9",
+diff --git a/pages/ui/components/editable-title/editable-title.module.ts b/pages/ui/components/editable-title/editable-title.module.ts
+index 208ca97fee1f8b8e8d8bd4fb26800a9ea683dec9..ce83e4eaa969fd6eb6b01d5342f46f929b1e8718 100644
+--- a/pages/ui/components/editable-title/editable-title.module.ts
++++ b/pages/ui/components/editable-title/editable-title.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const editableTitle = {
+   id: "01a0617e-0d2d-7012-bf97-7fe785b1d53a",
+diff --git a/pages/ui/components/flat-query-args/flat-query-args.module.ts b/pages/ui/components/flat-query-args/flat-query-args.module.ts
+index 0a633d3a96ce45345fde1563ded306c090555b27..b2be656d841fef4208190012c5af1eff10a4c970 100644
+--- a/pages/ui/components/flat-query-args/flat-query-args.module.ts
++++ b/pages/ui/components/flat-query-args/flat-query-args.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const flatQueryArgs = {
+   id: "01a05c3b-4fc4-7e60-929d-25e876de8431",
+diff --git a/pages/ui/components/formula-property-badge/formula-property-badge.module.ts b/pages/ui/components/formula-property-badge/formula-property-badge.module.ts
+index 0842d44664597cdafdac93f6c62183160a18d0ad..e185525033736410784ee477128ed698bb308504 100644
+--- a/pages/ui/components/formula-property-badge/formula-property-badge.module.ts
++++ b/pages/ui/components/formula-property-badge/formula-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const formulaPropertyBadge = {
+   id: "01a0620f-82c5-7006-91e3-95b0b099f6f6",
+diff --git a/pages/ui/components/gallery-options-picker/gallery-options-picker.module.ts b/pages/ui/components/gallery-options-picker/gallery-options-picker.module.ts
+index ea3ed6b91a7dc2a915f0caee4886563fc9f9c696..be7a28a7c9b924a73f1c43fd46411efb4b8a31c5 100644
+--- a/pages/ui/components/gallery-options-picker/gallery-options-picker.module.ts
++++ b/pages/ui/components/gallery-options-picker/gallery-options-picker.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const galleryOptionsPicker = {
+   id: "01a0617e-0d2d-700e-9947-042b5fe25493",
+diff --git a/pages/ui/components/group-by-picker/group-by-picker.module.ts b/pages/ui/components/group-by-picker/group-by-picker.module.ts
+index 1cc049ca3b9954166295775a7a172af166c684f6..f5c162f709b5ee9d431e0f30edd4b8715efe48fa 100644
+--- a/pages/ui/components/group-by-picker/group-by-picker.module.ts
++++ b/pages/ui/components/group-by-picker/group-by-picker.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const groupByPicker = {
+   id: "01a0617e-0d2d-7000-82f8-29cb9b27e39d",
+diff --git a/pages/ui/components/instant-property-badge/instant-property-badge.module.ts b/pages/ui/components/instant-property-badge/instant-property-badge.module.ts
+index a9276f42ecf562d3f73d945b9c586e0e367e81f1..87fe950070c1efb77ffa2f8c689f73bd0ecfc783 100644
+--- a/pages/ui/components/instant-property-badge/instant-property-badge.module.ts
++++ b/pages/ui/components/instant-property-badge/instant-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const instantPropertyBadge = {
+   id: "01a0620f-82c5-7007-ab28-d3c0bf88adc8",
+diff --git a/pages/ui/components/json-property-badge/json-property-badge.module.ts b/pages/ui/components/json-property-badge/json-property-badge.module.ts
+index a262ad4a0342719b76dec852d81549fbfdb3d9d2..42f77251df1b3331ef812420d9c675db961325a4 100644
+--- a/pages/ui/components/json-property-badge/json-property-badge.module.ts
++++ b/pages/ui/components/json-property-badge/json-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const jsonPropertyBadge = {
+   id: "01a0620f-82c5-7008-92f3-be05de1267a1",
+diff --git a/pages/ui/components/local-position-port/local-position-port.module.ts b/pages/ui/components/local-position-port/local-position-port.module.ts
+index 9c22bddd0b989b7bf65bdf92a3210fef9e309432..457fa0d69e06beec97dddcd87c9c44f8e88c92c0 100644
+--- a/pages/ui/components/local-position-port/local-position-port.module.ts
++++ b/pages/ui/components/local-position-port/local-position-port.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const localPositionPort = {
+   id: "01a05c40-2193-7945-bf9f-7515d092af9d",
+diff --git a/pages/ui/components/markdown-property-badge/markdown-property-badge.module.ts b/pages/ui/components/markdown-property-badge/markdown-property-badge.module.ts
+index caf95b9811a3ef2bc82e65c196211087cb3b5147..ca40986e4ef099143874382792ac046a78ce2d2a 100644
+--- a/pages/ui/components/markdown-property-badge/markdown-property-badge.module.ts
++++ b/pages/ui/components/markdown-property-badge/markdown-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const markdownPropertyBadge = {
+   id: "01a0620f-82c5-7009-8970-833ddf45dede",
+diff --git a/pages/ui/components/multi-relation-property-badge/multi-relation-property-badge.module.ts b/pages/ui/components/multi-relation-property-badge/multi-relation-property-badge.module.ts
+index dc6b703c2293a8f678138fe9fc7012ee46a66fdb..068123cdd25c883491e75fb408184b0ee66d00a1 100644
+--- a/pages/ui/components/multi-relation-property-badge/multi-relation-property-badge.module.ts
++++ b/pages/ui/components/multi-relation-property-badge/multi-relation-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const multiRelationPropertyBadge = {
+   id: "01a0620f-82c5-700a-be7e-dd85cafb8ba6",
+diff --git a/pages/ui/components/multi-select-popover/multi-select-popover.module.ts b/pages/ui/components/multi-select-popover/multi-select-popover.module.ts
+index 8cbcd3f198e75268b65d217b79bc17bd51dd6e85..ef3e32e142bcfd664d30ac9f4d85531c9533054b 100644
+--- a/pages/ui/components/multi-select-popover/multi-select-popover.module.ts
++++ b/pages/ui/components/multi-select-popover/multi-select-popover.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const multiSelectPopover = {
+   id: "01a0617e-0d2d-7002-aa63-1fc20baf93e3",
+diff --git a/pages/ui/components/multi-select-property-badge/multi-select-property-badge.module.ts b/pages/ui/components/multi-select-property-badge/multi-select-property-badge.module.ts
+index f65d4039556aa43fe3288093ee40d975fba73228..3c6d568f97531ae83942ae2d703935b2a89591ac 100644
+--- a/pages/ui/components/multi-select-property-badge/multi-select-property-badge.module.ts
++++ b/pages/ui/components/multi-select-property-badge/multi-select-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const multiSelectPropertyBadge = {
+   id: "01a0620f-82c5-700b-bf45-b85fcd27055b",
+diff --git a/pages/ui/components/nav-command-bindings/nav-command-bindings.module.ts b/pages/ui/components/nav-command-bindings/nav-command-bindings.module.ts
+index 7e2a56c04c4ec8af7e77f79087c73201a55988bd..ae8e13bf805b8b6a42a4211d06fa71a314de6986 100644
+--- a/pages/ui/components/nav-command-bindings/nav-command-bindings.module.ts
++++ b/pages/ui/components/nav-command-bindings/nav-command-bindings.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const navCommandBindings = {
+   id: "01a05cb4-fefb-79d1-a76a-c3d980daa2d0",
+diff --git a/pages/ui/components/nav-count-badge-decider/nav-count-badge-decider.module.ts b/pages/ui/components/nav-count-badge-decider/nav-count-badge-decider.module.ts
+index 107000fea26dd137d72dd47a6d92d442d0b94ab1..e3d45c88e87fbf01855b3d7a4af65c360689b140 100644
+--- a/pages/ui/components/nav-count-badge-decider/nav-count-badge-decider.module.ts
++++ b/pages/ui/components/nav-count-badge-decider/nav-count-badge-decider.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const navCountBadgeDecider = {
+   id: "01a05c40-2194-7494-a518-786df4acb4e9",
+diff --git a/pages/ui/components/nav-count-badge/nav-count-badge.module.ts b/pages/ui/components/nav-count-badge/nav-count-badge.module.ts
+index fc2ba9b0af9b58b23b6f0dbc6a4cfdac5aa2b4e1..723f1b5eb279afe20b83f22fee65ce225c5f01c3 100644
+--- a/pages/ui/components/nav-count-badge/nav-count-badge.module.ts
++++ b/pages/ui/components/nav-count-badge/nav-count-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const navCountBadge = {
+   id: "01a06205-4f3c-7003-90ce-ecbd39470bc4",
+diff --git a/pages/ui/components/nav-item-actions/nav-item-actions.module.ts b/pages/ui/components/nav-item-actions/nav-item-actions.module.ts
+index b2cf05c64178b24466ce8500070adcf114eaf806..3af591b09dfecfb931ac624d864d19653264bed5 100644
+--- a/pages/ui/components/nav-item-actions/nav-item-actions.module.ts
++++ b/pages/ui/components/nav-item-actions/nav-item-actions.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const navItemActions = {
+   id: "01a061ee-786e-7007-b985-51d9bb9dea95",
+diff --git a/pages/ui/components/notes-options-picker/notes-options-picker.module.ts b/pages/ui/components/notes-options-picker/notes-options-picker.module.ts
+index cec99bf34eee4986b0b03b6c47e5fd6a082365f4..7d73d596482c8ae2bb89c72b038b45ad4f481926 100644
+--- a/pages/ui/components/notes-options-picker/notes-options-picker.module.ts
++++ b/pages/ui/components/notes-options-picker/notes-options-picker.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const notesOptionsPicker = {
+   id: "01a0617e-0d2d-7013-a38d-08fabfe17d62",
+diff --git a/pages/ui/components/number-property-badge/number-property-badge.module.ts b/pages/ui/components/number-property-badge/number-property-badge.module.ts
+index 2e9f2725ce39c7faf3643d4e5eba482522f6b26d..33a0535e450a4c639c15ed6dfc0ddfb229a43fe4 100644
+--- a/pages/ui/components/number-property-badge/number-property-badge.module.ts
++++ b/pages/ui/components/number-property-badge/number-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const numberPropertyBadge = {
+   id: "01a0620f-82c5-700c-89dd-2c8e70a5c0d8",
+diff --git a/pages/ui/components/operator-filter-control/operator-filter-control.module.ts b/pages/ui/components/operator-filter-control/operator-filter-control.module.ts
+index 8f6594e873fd59e3d32b06b4e718b3b9fcd6bc26..f00442d20e9ec6a778c63b15ffee04bbe3a07e81 100644
+--- a/pages/ui/components/operator-filter-control/operator-filter-control.module.ts
++++ b/pages/ui/components/operator-filter-control/operator-filter-control.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const operatorFilterControl = {
+   id: "01a06205-4f3b-7006-beaf-dd6eb25b3f5d",
+diff --git a/pages/ui/components/page-actions-menu/page-actions-menu.module.ts b/pages/ui/components/page-actions-menu/page-actions-menu.module.ts
+index 14fb438d7c4a1ae591de36ac233d31b76e2e5cc4..de754aaab8335235ab20f3f2c55ba3e341dfc4dd 100644
+--- a/pages/ui/components/page-actions-menu/page-actions-menu.module.ts
++++ b/pages/ui/components/page-actions-menu/page-actions-menu.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageActionsMenu = {
+   id: "01a0610c-430d-756c-bdd4-2f5d5c128366",
+diff --git a/pages/ui/components/page-board-dnd-helpers/page-board-dnd-helpers.module.ts b/pages/ui/components/page-board-dnd-helpers/page-board-dnd-helpers.module.ts
+index 636161d69bad77dbedca10b69665a47b8ac424e0..dddaf0a66f8d469e3cb3a2372135382071f667c8 100644
+--- a/pages/ui/components/page-board-dnd-helpers/page-board-dnd-helpers.module.ts
++++ b/pages/ui/components/page-board-dnd-helpers/page-board-dnd-helpers.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageBoardDndHelpers = {
+   id: "01a05c3b-4fc4-752f-bd8a-d661af0f143b",
+diff --git a/pages/ui/components/page-board/page-board.module.ts b/pages/ui/components/page-board/page-board.module.ts
+index bd3c51b761bb030e079ab2f2d2cf280a61f6d4f3..0d1a89e47a68ae5cefcb5f6b892e2579712e5044 100644
+--- a/pages/ui/components/page-board/page-board.module.ts
++++ b/pages/ui/components/page-board/page-board.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageBoard = {
+   id: "01a0617e-0d2d-7001-9d93-15c81a59f416",
+diff --git a/pages/ui/components/page-calendar-dnd-helpers/page-calendar-dnd-helpers.module.ts b/pages/ui/components/page-calendar-dnd-helpers/page-calendar-dnd-helpers.module.ts
+index 8e6a44f3a3e50fa2aa960c4602d71b4316044c37..d34ae8abe1d93dd2e9645b49382ef154662a6530 100644
+--- a/pages/ui/components/page-calendar-dnd-helpers/page-calendar-dnd-helpers.module.ts
++++ b/pages/ui/components/page-calendar-dnd-helpers/page-calendar-dnd-helpers.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageCalendarDndHelpers = {
+   id: "01a05c3b-4fc5-7adb-bacc-af547a361223",
+diff --git a/pages/ui/components/page-calendar/page-calendar.module.ts b/pages/ui/components/page-calendar/page-calendar.module.ts
+index cce10f182466ca985fcf20c08cc47c06e3b25453..33cbc997500b7e33c6c426c88eef09ebd660ef0e 100644
+--- a/pages/ui/components/page-calendar/page-calendar.module.ts
++++ b/pages/ui/components/page-calendar/page-calendar.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageCalendar = {
+   id: "01a0617e-0d2c-7001-b9b7-149e52536969",
+diff --git a/pages/ui/components/page-card-cover/page-card-cover.module.ts b/pages/ui/components/page-card-cover/page-card-cover.module.ts
+index f00cdb064e962fd8e2c5c5318b8b68f176d18dbd..d0971f05996d497769124b680166a672c72c09cc 100644
+--- a/pages/ui/components/page-card-cover/page-card-cover.module.ts
++++ b/pages/ui/components/page-card-cover/page-card-cover.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageCardCover = {
+   id: "01a0610c-430c-7460-9b5b-091c301b235b",
+diff --git a/pages/ui/components/page-card-grid/page-card-grid.module.ts b/pages/ui/components/page-card-grid/page-card-grid.module.ts
+index 27dcbf744ab60317f32c9d156f78853e6e080feb..a718b04a6f172f93f78544672b7b9d38cec09516 100644
+--- a/pages/ui/components/page-card-grid/page-card-grid.module.ts
++++ b/pages/ui/components/page-card-grid/page-card-grid.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageCardGrid = {
+   id: "01a0617e-0d2d-700d-ac20-b7b66d889eee",
+diff --git a/pages/ui/components/page-card-notes/page-card-notes.module.ts b/pages/ui/components/page-card-notes/page-card-notes.module.ts
+index b2b95f8b17a2cc314ed2253279c4a1db68171107..0adcc42432b535119e6c887073d44c732822a179 100644
+--- a/pages/ui/components/page-card-notes/page-card-notes.module.ts
++++ b/pages/ui/components/page-card-notes/page-card-notes.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageCardNotes = {
+   id: "01a06257-46e6-787e-98f6-69ce573b0fa8",
+diff --git a/pages/ui/components/page-card-properties/page-card-properties.module.ts b/pages/ui/components/page-card-properties/page-card-properties.module.ts
+index 47261849e2bfddefc3fd6e3bfe457682359dfe62..c15e205b82029c5c7be895fcbfda1a9bb0d5f9ad 100644
+--- a/pages/ui/components/page-card-properties/page-card-properties.module.ts
++++ b/pages/ui/components/page-card-properties/page-card-properties.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageCardProperties = {
+   id: "01a06257-46e7-7085-9e56-ab4ce60b803f",
+diff --git a/pages/ui/components/page-card-renderer/page-card-renderer.module.ts b/pages/ui/components/page-card-renderer/page-card-renderer.module.ts
+index 4b9e32d06d891c13dc639bdb067115879b436749..ea35be53deae76f58ee2785191384a7482ee023b 100644
+--- a/pages/ui/components/page-card-renderer/page-card-renderer.module.ts
++++ b/pages/ui/components/page-card-renderer/page-card-renderer.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageCardRenderer = {
+   id: "01a06257-46e8-7470-a359-c1ab21da09b4",
+diff --git a/pages/ui/components/page-card/page-card.module.ts b/pages/ui/components/page-card/page-card.module.ts
+index 12bf2ef429aedd600c72bbef6ceb212945ce3a37..889c964b48313fbad49b864d47375431bfb1585b 100644
+--- a/pages/ui/components/page-card/page-card.module.ts
++++ b/pages/ui/components/page-card/page-card.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageCard = {
+   id: "01a06257-46e9-7c06-a8f0-6a18df5082fb",
+diff --git a/pages/ui/components/page-collection-content/page-collection-content.module.ts b/pages/ui/components/page-collection-content/page-collection-content.module.ts
+index 5c18c1ea9d0d8967c306f0be591533585bc227f2..ac9067c5c7d2f46958ec0a86130ce87ba3174edb 100644
+--- a/pages/ui/components/page-collection-content/page-collection-content.module.ts
++++ b/pages/ui/components/page-collection-content/page-collection-content.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageCollectionContent = {
+   id: "01a0625a-e4aa-7edf-a962-1513ae4bfd35",
+diff --git a/pages/ui/components/page-cover/page-cover.module.ts b/pages/ui/components/page-cover/page-cover.module.ts
+index e0167156b4baae725710de4c3b64639cf990e37d..712ff8d299862cd18c784c0fa6ec9ae68b49deb8 100644
+--- a/pages/ui/components/page-cover/page-cover.module.ts
++++ b/pages/ui/components/page-cover/page-cover.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageCover = {
+   id: "01a0617e-0d2d-7009-84e0-cb261f506633",
+diff --git a/pages/ui/components/page-data-json/page-data-json.module.ts b/pages/ui/components/page-data-json/page-data-json.module.ts
+index ed47d273c50768dc1fd3229fe8d14496ead03978..38c48f4942f0e773868407f3edcfea836379abbb 100644
+--- a/pages/ui/components/page-data-json/page-data-json.module.ts
++++ b/pages/ui/components/page-data-json/page-data-json.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageDataJson = {
+   id: "01a05cb4-fefa-74fd-be88-18ce5010bcdb",
+diff --git a/pages/ui/components/page-default-content/page-default-content.module.ts b/pages/ui/components/page-default-content/page-default-content.module.ts
+index 3f5fbcb845b823ed19acd5f0998aec4369c0f2c7..0cf120ce9edd82390e9a66ec2bbb6d7e0783341a 100644
+--- a/pages/ui/components/page-default-content/page-default-content.module.ts
++++ b/pages/ui/components/page-default-content/page-default-content.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageDefaultContent = {
+   id: "01a0625a-e4ab-7093-bf90-0ac28e82dbd9",
+diff --git a/pages/ui/components/page-detail-content-helpers/page-detail-content-helpers.module.ts b/pages/ui/components/page-detail-content-helpers/page-detail-content-helpers.module.ts
+index 4bdde970813f2196b69fdaa57597477aa8e09fca..c53680383394463af066f6fd9bf4a6b206539b9b 100644
+--- a/pages/ui/components/page-detail-content-helpers/page-detail-content-helpers.module.ts
++++ b/pages/ui/components/page-detail-content-helpers/page-detail-content-helpers.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageDetailContentHelpers = {
+   id: "01a05cce-25ec-7aa2-b61a-7aa7a2d5bc0a",
+diff --git a/pages/ui/components/page-detail-content/page-detail-content.module.ts b/pages/ui/components/page-detail-content/page-detail-content.module.ts
+index 5f99bcf8e7a4fda148de88cdbc6d28142931c1ba..3b71dc80dc79609090180e102f0b32951441cbb9 100644
+--- a/pages/ui/components/page-detail-content/page-detail-content.module.ts
++++ b/pages/ui/components/page-detail-content/page-detail-content.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageDetailContent = {
+   id: "01a0625a-e4ac-75a5-ad8c-dd0bb5c55a78",
+diff --git a/pages/ui/components/page-detail-header-menu/page-detail-header-menu.module.ts b/pages/ui/components/page-detail-header-menu/page-detail-header-menu.module.ts
+index 690014df8b818cc62dc930434b7029aa8c83a70c..57022e95f1fe78fe635e0e7c2c841f10446f2c98 100644
+--- a/pages/ui/components/page-detail-header-menu/page-detail-header-menu.module.ts
++++ b/pages/ui/components/page-detail-header-menu/page-detail-header-menu.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageDetailHeaderMenu = {
+   id: "01a061ee-786e-7008-9030-51ed6052435c",
+diff --git a/pages/ui/components/page-detail-properties-shared/page-detail-properties-shared.module.ts b/pages/ui/components/page-detail-properties-shared/page-detail-properties-shared.module.ts
+index 72ffb8460b62c2cde51f6b2f2ec6054371e9dd33..d40ed0493a75333e1e719ab6c802d20009114040 100644
+--- a/pages/ui/components/page-detail-properties-shared/page-detail-properties-shared.module.ts
++++ b/pages/ui/components/page-detail-properties-shared/page-detail-properties-shared.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageDetailPropertiesShared = {
+   id: "01a0617e-0d2d-7010-aec7-44431b6a1391",
+diff --git a/pages/ui/components/page-detail-properties/page-detail-properties.module.ts b/pages/ui/components/page-detail-properties/page-detail-properties.module.ts
+index 93e748bdf651652ebb05f80d7fb16aa414cc6722..9829dece78a119f8e118b134a0221b12b6f779cd 100644
+--- a/pages/ui/components/page-detail-properties/page-detail-properties.module.ts
++++ b/pages/ui/components/page-detail-properties/page-detail-properties.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageDetailProperties = {
+   id: "01a06257-46ed-7cf6-b31e-9adb50ca83bc",
+diff --git a/pages/ui/components/page-detail-referrers/page-detail-referrers.module.ts b/pages/ui/components/page-detail-referrers/page-detail-referrers.module.ts
+index b61e3f3bee5ec1e151ed55a337c877b09c4229eb..929f674fac8ad9c92db0ade08fc385a785ad1d05 100644
+--- a/pages/ui/components/page-detail-referrers/page-detail-referrers.module.ts
++++ b/pages/ui/components/page-detail-referrers/page-detail-referrers.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageDetailReferrers = {
+   id: "01a06205-4f3c-7004-9b52-282051429cc8",
+diff --git a/pages/ui/components/page-detail-sections/page-detail-sections.module.ts b/pages/ui/components/page-detail-sections/page-detail-sections.module.ts
+index 0dcbd25cf3584a631b8ed10e0c73b48fd0d18c18..b15251e3b5b510b06038929ffa542df9ea469d1c 100644
+--- a/pages/ui/components/page-detail-sections/page-detail-sections.module.ts
++++ b/pages/ui/components/page-detail-sections/page-detail-sections.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageDetailSections = {
+   id: "01a06205-4f3b-700b-ab3f-b7816b08cd95",
+diff --git a/pages/ui/components/page-detail-sortable-list/page-detail-sortable-list.module.ts b/pages/ui/components/page-detail-sortable-list/page-detail-sortable-list.module.ts
+index 8f04b3cca4453c9850e937ba1f0c5429b362b661..7b8f158e8a01d2544dd5ae0d3ae5de88d7c6dde7 100644
+--- a/pages/ui/components/page-detail-sortable-list/page-detail-sortable-list.module.ts
++++ b/pages/ui/components/page-detail-sortable-list/page-detail-sortable-list.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageDetailSortableList = {
+   id: "01a0617e-0d2d-7008-a3eb-b327b28a824a",
+diff --git a/pages/ui/components/page-detail-subpages/page-detail-subpages.module.ts b/pages/ui/components/page-detail-subpages/page-detail-subpages.module.ts
+index c9af44a99a1fc8ad6804d80fdede615a4b825740..b4adda0d5bfad350bc7e6e7469442a482849b46d 100644
+--- a/pages/ui/components/page-detail-subpages/page-detail-subpages.module.ts
++++ b/pages/ui/components/page-detail-subpages/page-detail-subpages.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageDetailSubpages = {
+   id: "01a06257-46ee-7531-b4b2-e246da65f69b",
+diff --git a/pages/ui/components/page-filter-bar/page-filter-bar.module.ts b/pages/ui/components/page-filter-bar/page-filter-bar.module.ts
+index 0dc11bc0436d5fac07b2013d68b693d317444043..65461e0622d690234dd8df0ece3744e7d60ace89 100644
+--- a/pages/ui/components/page-filter-bar/page-filter-bar.module.ts
++++ b/pages/ui/components/page-filter-bar/page-filter-bar.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageFilterBar = {
+   id: "01a06205-4f3b-700c-ac7d-e00817bf581e",
+diff --git a/pages/ui/components/page-gallery/page-gallery.module.ts b/pages/ui/components/page-gallery/page-gallery.module.ts
+index 723c5f8ff17070ee0a4c81018097d339ece9fe2b..f7252e9efd4466ccdd0c9bac6f7eb1923f64377e 100644
+--- a/pages/ui/components/page-gallery/page-gallery.module.ts
++++ b/pages/ui/components/page-gallery/page-gallery.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageGallery = {
+   id: "01a0617e-0d2d-7011-8cf7-e34d358007f4",
+diff --git a/pages/ui/components/page-list-section/page-list-section.module.ts b/pages/ui/components/page-list-section/page-list-section.module.ts
+index 148ea1a160da549e677f1f99240cf084bf1efdfc..ea2296dde7b386532a6e137e6156cb1a97c9ac20 100644
+--- a/pages/ui/components/page-list-section/page-list-section.module.ts
++++ b/pages/ui/components/page-list-section/page-list-section.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageListSection = {
+   id: "01a06259-5189-7bf0-bb13-4bcafe48d0c8",
+diff --git a/pages/ui/components/page-reader-content/page-reader-content.module.ts b/pages/ui/components/page-reader-content/page-reader-content.module.ts
+index 287195bd476103bc521b0c5225ae9e779b6f4128..f51927fbdd37cab61f2d14c80ba9fa6f4a66e450 100644
+--- a/pages/ui/components/page-reader-content/page-reader-content.module.ts
++++ b/pages/ui/components/page-reader-content/page-reader-content.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageReaderContent = {
+   id: "01a06205-4f3c-700b-a569-c171ba916254",
+diff --git a/pages/ui/components/page-size-picker/page-size-picker.module.ts b/pages/ui/components/page-size-picker/page-size-picker.module.ts
+index 818355288a618c4a82e7a45960a15978c9602130..0e739620ed498bc408916098851c33fc1e60ec1a 100644
+--- a/pages/ui/components/page-size-picker/page-size-picker.module.ts
++++ b/pages/ui/components/page-size-picker/page-size-picker.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageSizePicker = {
+   id: "01a061ee-786e-7009-b3b2-5e217d5c1319",
+diff --git a/pages/ui/components/page-system-shell-helpers/page-system-shell-helpers.module.ts b/pages/ui/components/page-system-shell-helpers/page-system-shell-helpers.module.ts
+index 5dac48780f48857bb15391aace2b29fa6b0cfb88..10774ccff5393ca1d3200c311e2e2ec5668bc2ca 100644
+--- a/pages/ui/components/page-system-shell-helpers/page-system-shell-helpers.module.ts
++++ b/pages/ui/components/page-system-shell-helpers/page-system-shell-helpers.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageSystemShellHelpers = {
+   id: "01a05c40-2194-7fa0-949d-acbc4796814c",
+diff --git a/pages/ui/components/page-system-shell/page-system-shell.module.ts b/pages/ui/components/page-system-shell/page-system-shell.module.ts
+index 86fff29cbf0ffbfb95cb34f7f401c29e8ac78413..be0fcf8bfcdbaef493bf613a2134613e7c75404f 100644
+--- a/pages/ui/components/page-system-shell/page-system-shell.module.ts
++++ b/pages/ui/components/page-system-shell/page-system-shell.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageSystemShell = {
+   id: "01a06205-4f3b-7007-8791-9def357f00ec",
+diff --git a/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.ts b/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.ts
+index 259c5be960733ccaa1dd6bae0e1d5c9f0702e9db..ff586014ca82275e4aeb43eb56ebf615caccc34a 100644
+--- a/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.ts
++++ b/pages/ui/components/page-system-tab-content-props/page-system-tab-content-props.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageSystemTabContentProps = {
+   id: "01a05cce-25ec-7944-be2c-03e36f95bcd2",
+diff --git a/pages/ui/components/page-system-view-body/page-system-view-body.module.ts b/pages/ui/components/page-system-view-body/page-system-view-body.module.ts
+index a3e3fd6eae81c6cc6ac86238956352943858d931..4442d27b421a341a0ce3ead84ebb854445de3c02 100644
+--- a/pages/ui/components/page-system-view-body/page-system-view-body.module.ts
++++ b/pages/ui/components/page-system-view-body/page-system-view-body.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageSystemViewBody = {
+   id: "01a06259-518b-7d1b-8ad2-490e1b9fef48",
+diff --git a/pages/ui/components/page-system-view-header/page-system-view-header.module.ts b/pages/ui/components/page-system-view-header/page-system-view-header.module.ts
+index 6fc8406c2d3e41d63ce868062cb37b7df81de1e8..4e2f31ba2961fea928f593ff8d04ec3e6143a48d 100644
+--- a/pages/ui/components/page-system-view-header/page-system-view-header.module.ts
++++ b/pages/ui/components/page-system-view-header/page-system-view-header.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageSystemViewHeader = {
+   id: "01a06205-4f3c-7005-9a2f-4988e3ec526a",
+diff --git a/pages/ui/components/page-system-view-helpers/page-system-view-helpers.module.ts b/pages/ui/components/page-system-view-helpers/page-system-view-helpers.module.ts
+index 56c55f51841530d01e7940c74b361765ae3eec29..38b8da50877640595527d39e901363b7a0d3db97 100644
+--- a/pages/ui/components/page-system-view-helpers/page-system-view-helpers.module.ts
++++ b/pages/ui/components/page-system-view-helpers/page-system-view-helpers.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageSystemViewHelpers = {
+   id: "01a06205-4f3b-7008-874c-169510050759",
+diff --git a/pages/ui/components/page-system-view-settings/page-system-view-settings.module.ts b/pages/ui/components/page-system-view-settings/page-system-view-settings.module.ts
+index c748c407611b6fa31defbc8f492820f94b0c7de1..b9bdabf00875af98704c6a346deef8a718be0865 100644
+--- a/pages/ui/components/page-system-view-settings/page-system-view-settings.module.ts
++++ b/pages/ui/components/page-system-view-settings/page-system-view-settings.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageSystemViewSettings = {
+   id: "01a06205-4f3b-7009-a2b5-865c829bdbb7",
+diff --git a/pages/ui/components/page-system-view/page-system-view.module.ts b/pages/ui/components/page-system-view/page-system-view.module.ts
+index 38d313a6f30e1b87ffe5dda0c1d28155055f2dd9..f4e266fe9c5d9f32cb0d73d68857565c97bddd2c 100644
+--- a/pages/ui/components/page-system-view/page-system-view.module.ts
++++ b/pages/ui/components/page-system-view/page-system-view.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageSystemView = {
+   id: "01a06259-518c-7118-a20d-0da8da37a32b",
+diff --git a/pages/ui/components/page-table-colgroup/page-table-colgroup.module.ts b/pages/ui/components/page-table-colgroup/page-table-colgroup.module.ts
+index 6f43d925754abf2e34f5c26c69998de165504855..68c8e42fd1e617504a2846dca83981d5120ba10a 100644
+--- a/pages/ui/components/page-table-colgroup/page-table-colgroup.module.ts
++++ b/pages/ui/components/page-table-colgroup/page-table-colgroup.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageTableColgroup = {
+   id: "01a0610c-4308-73b7-9389-1384d6767b90",
+diff --git a/pages/ui/components/page-table-column-dnd-helpers/page-table-column-dnd-helpers.module.ts b/pages/ui/components/page-table-column-dnd-helpers/page-table-column-dnd-helpers.module.ts
+index 4ceaa5d94f405912ed872dea50498c0ce67c7383..d6938e4d7db5461821c14bb47ed49cf8f3b9ed2f 100644
+--- a/pages/ui/components/page-table-column-dnd-helpers/page-table-column-dnd-helpers.module.ts
++++ b/pages/ui/components/page-table-column-dnd-helpers/page-table-column-dnd-helpers.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageTableColumnDndHelpers = {
+   id: "01a05c3d-a2e6-7d5f-aada-bd2a227ba59f",
+diff --git a/pages/ui/components/page-table-header/page-table-header.module.ts b/pages/ui/components/page-table-header/page-table-header.module.ts
+index 72993b6e721595d019d9f23d800536bf131e1e93..a22e974e242887c160f771f2321cebd3a03638dc 100644
+--- a/pages/ui/components/page-table-header/page-table-header.module.ts
++++ b/pages/ui/components/page-table-header/page-table-header.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageTableHeader = {
+   id: "01a0617e-0d2c-7002-b48e-9c0d6cecd201",
+diff --git a/pages/ui/components/page-table-shared/page-table-shared.module.ts b/pages/ui/components/page-table-shared/page-table-shared.module.ts
+index 3c87ed8230279ec2af8ca18fd8d47375f6198c5c..bd26da3b25f52150807ae9ed69486b0822720ada 100644
+--- a/pages/ui/components/page-table-shared/page-table-shared.module.ts
++++ b/pages/ui/components/page-table-shared/page-table-shared.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageTableShared = {
+   id: "01a05c40-2194-7206-9127-bff9ebf4b3ab",
+diff --git a/pages/ui/components/page-table-widths/page-table-widths.module.ts b/pages/ui/components/page-table-widths/page-table-widths.module.ts
+index da5fd5f92be71ee632880c623c0fd9c93ed05b3f..52d5ebe0d88d4d49d118c63510d0174269d81160 100644
+--- a/pages/ui/components/page-table-widths/page-table-widths.module.ts
++++ b/pages/ui/components/page-table-widths/page-table-widths.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageTableWidths = {
+   id: "01a05cce-25ec-76e9-9d53-768bfd67f3c6",
+diff --git a/pages/ui/components/page-table/page-table.module.ts b/pages/ui/components/page-table/page-table.module.ts
+index 86d5e4dff96396796d9cb3ed6722c97816c03f6b..6cc5ff7bfebe1adc17e550071675bcca5a903564 100644
+--- a/pages/ui/components/page-table/page-table.module.ts
++++ b/pages/ui/components/page-table/page-table.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageTable = {
+   id: "01a06257-46f3-77d1-a828-191dbbd5a2c1",
+diff --git a/pages/ui/components/page-timeline-helpers/page-timeline-helpers.module.ts b/pages/ui/components/page-timeline-helpers/page-timeline-helpers.module.ts
+index 4f4cbcd9c43ba2d294dae509fcbfb112b3b36619..0cdb734dca711d1a9b5338e7badaba4a52d59445 100644
+--- a/pages/ui/components/page-timeline-helpers/page-timeline-helpers.module.ts
++++ b/pages/ui/components/page-timeline-helpers/page-timeline-helpers.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageTimelineHelpers = {
+   id: "01a05cce-25ec-700a-89fa-64c10561f7ba",
+diff --git a/pages/ui/components/page-timeline/page-timeline.module.ts b/pages/ui/components/page-timeline/page-timeline.module.ts
+index fd90756eec3782d0ab61593106134298af16dc97..45eb635704f6713d5c69f1f2dab9bf928edad3d9 100644
+--- a/pages/ui/components/page-timeline/page-timeline.module.ts
++++ b/pages/ui/components/page-timeline/page-timeline.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageTimeline = {
+   id: "01a0617e-0d2d-700c-a625-d1033c49761e",
+diff --git a/pages/ui/components/page-title-properties/page-title-properties.module.ts b/pages/ui/components/page-title-properties/page-title-properties.module.ts
+index 6a42da789b04aefc0c8ca10a3091b6ac152306d3..4da169b34fcdd6a0ab7beb2c232d081c4b9df410 100644
+--- a/pages/ui/components/page-title-properties/page-title-properties.module.ts
++++ b/pages/ui/components/page-title-properties/page-title-properties.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pageTitleProperties = {
+   id: "01a06257-46f4-7717-89b0-25d1b05f5b24",
+diff --git a/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.ts b/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.ts
+index 629a573462d71209f0d41b5cd94de64a53cbdc5b..d4bc99bd1d061ee97af8a2ac35e422a0b3845c43 100644
+--- a/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.ts
++++ b/pages/ui/components/pages-by-relation-content/pages-by-relation-content.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pagesByRelationContent = {
+   id: "01a06259-518a-7c74-bd4f-519d9f6c1719",
+diff --git a/pages/ui/components/path-select-property-badge/path-select-property-badge.module.ts b/pages/ui/components/path-select-property-badge/path-select-property-badge.module.ts
+index c7aa0bc66fc87cacb60d7ec19ae9eb40b2199f58..78d9ed26cc8c78b484b01d241f90e3e0c6a05f1f 100644
+--- a/pages/ui/components/path-select-property-badge/path-select-property-badge.module.ts
++++ b/pages/ui/components/path-select-property-badge/path-select-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const pathSelectPropertyBadge = {
+   id: "01a0620f-82c5-700d-b698-7f276e3e32cf",
+diff --git a/pages/ui/components/position-fraction/position-fraction.module.ts b/pages/ui/components/position-fraction/position-fraction.module.ts
+index 17cb607adc9244fac87111b46a55a2535cb0448a..6bd27e2f03e36609386fdffdd67362ad88dd1f3b 100644
+--- a/pages/ui/components/position-fraction/position-fraction.module.ts
++++ b/pages/ui/components/position-fraction/position-fraction.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const positionFraction = {
+   id: "01a05c3b-4fc5-7216-9ef8-0f552ccdcdd3",
+diff --git a/pages/ui/components/position-write-event/position-write-event.module.ts b/pages/ui/components/position-write-event/position-write-event.module.ts
+index f9b9eaa6d20f8c10dce79a992f443077ec67e29b..35fe2826eb8569a69b270bf63b1f2ab4d2265b56 100644
+--- a/pages/ui/components/position-write-event/position-write-event.module.ts
++++ b/pages/ui/components/position-write-event/position-write-event.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const positionWriteEvent = {
+   id: "01a05c3d-a2e5-709a-bf90-f8c567c4cfbe",
+diff --git a/pages/ui/components/progress-property-badge/progress-property-badge.module.ts b/pages/ui/components/progress-property-badge/progress-property-badge.module.ts
+index 9438fbddc9def4a61fd4abec95de73b68521fe8c..85b84d0d29a48ec26766ecda6994b130868ca1de 100644
+--- a/pages/ui/components/progress-property-badge/progress-property-badge.module.ts
++++ b/pages/ui/components/progress-property-badge/progress-property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const progressPropertyBadge = {
+   id: "01a0620f-82c5-700e-8442-3316875e400c",
+diff --git a/pages/ui/components/property-badge/property-badge.module.ts b/pages/ui/components/property-badge/property-badge.module.ts
+index 9ae0850bfa89c57a3ef41b416bf580c4a0e5e484..84069441bffdd5595b1db666ac9303b022c98755 100644
+--- a/pages/ui/components/property-badge/property-badge.module.ts
++++ b/pages/ui/components/property-badge/property-badge.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const propertyBadge = {
+   id: "01a0620f-82c5-700f-bcd7-80f904364925",
+diff --git a/pages/ui/components/property-visibility-picker-helpers/property-visibility-picker-helpers.module.ts b/pages/ui/components/property-visibility-picker-helpers/property-visibility-picker-helpers.module.ts
+index 6332429831f56bd6e15d8e72cf76126ee5f0013f..46125b18f344134e7d6682b5888667944adc2689 100644
+--- a/pages/ui/components/property-visibility-picker-helpers/property-visibility-picker-helpers.module.ts
++++ b/pages/ui/components/property-visibility-picker-helpers/property-visibility-picker-helpers.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const propertyVisibilityPickerHelpers = {
+   id: "01a05c3d-a2e7-7f68-8c0c-41e77dd52b9d",
+diff --git a/pages/ui/components/property-visibility-picker-rows/property-visibility-picker-rows.module.ts b/pages/ui/components/property-visibility-picker-rows/property-visibility-picker-rows.module.ts
+index 9b5c348c516e4d48746642e06e2067df7baa4bf0..debeef0fc2575cb061f060f026f5b0b951d6c329 100644
+--- a/pages/ui/components/property-visibility-picker-rows/property-visibility-picker-rows.module.ts
++++ b/pages/ui/components/property-visibility-picker-rows/property-visibility-picker-rows.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const propertyVisibilityPickerRows = {
+   id: "01a0617e-0d2d-700b-af3c-367efa167a51",
+diff --git a/pages/ui/components/property-visibility-picker/property-visibility-picker.module.ts b/pages/ui/components/property-visibility-picker/property-visibility-picker.module.ts
+index 6b73eed523ddef4e5295743b695b624c6c8946bb..eeb3a23357935115bd50476b31d63bcdb5fef3e4 100644
+--- a/pages/ui/components/property-visibility-picker/property-visibility-picker.module.ts
++++ b/pages/ui/components/property-visibility-picker/property-visibility-picker.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const propertyVisibilityPicker = {
+   id: "01a061ee-786e-700a-91b4-f86d40d1c4e2",
+diff --git a/pages/ui/components/quick-add-form/quick-add-form.module.ts b/pages/ui/components/quick-add-form/quick-add-form.module.ts
+index 731ed641717f5ff7855a14ef4ceb8816fcc5a17d..f9b315486d04394ba48ee28f87e8bffeb67756f0 100644
+--- a/pages/ui/components/quick-add-form/quick-add-form.module.ts
++++ b/pages/ui/components/quick-add-form/quick-add-form.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const quickAddForm = {
+   id: "01a06257-46f8-74d5-a002-4a639f7b09e2",
+diff --git a/pages/ui/components/quick-add/compute-quick-add-payload/compute-quick-add-payload.module.ts b/pages/ui/components/quick-add/compute-quick-add-payload/compute-quick-add-payload.module.ts
+index 93de9b73dd61c49bc73d90621674c914f14f54ac..4563a6696e88fe20def80c8e018d217a5932587f 100644
+--- a/pages/ui/components/quick-add/compute-quick-add-payload/compute-quick-add-payload.module.ts
++++ b/pages/ui/components/quick-add/compute-quick-add-payload/compute-quick-add-payload.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const computeQuickAddPayload = {
+   id: "01a05c40-2195-72d5-b4b9-71ca0a1c440f",
+diff --git a/pages/ui/components/quick-add/parse-inline-tokens/parse-inline-tokens.module.ts b/pages/ui/components/quick-add/parse-inline-tokens/parse-inline-tokens.module.ts
+index 45b58a89b1aeb34dd7d1baf23a3695c63f5affed..b209daa82a642b9e93f6b302f26d6281cbfc580f 100644
+--- a/pages/ui/components/quick-add/parse-inline-tokens/parse-inline-tokens.module.ts
++++ b/pages/ui/components/quick-add/parse-inline-tokens/parse-inline-tokens.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const parseInlineTokens = {
+   id: "01a05c40-2195-7ad7-95be-2a30f075352e",
+diff --git a/pages/ui/components/quick-add/use-active-quick-add-page-type/use-active-quick-add-page-type.module.ts b/pages/ui/components/quick-add/use-active-quick-add-page-type/use-active-quick-add-page-type.module.ts
+index cff9a99ed8a123fe907aa28fb3312ab97d08bccc..b91cfcae56a026037b0d21989ee451eff7081d40 100644
+--- a/pages/ui/components/quick-add/use-active-quick-add-page-type/use-active-quick-add-page-type.module.ts
++++ b/pages/ui/components/quick-add/use-active-quick-add-page-type/use-active-quick-add-page-type.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useActiveQuickAddPageType = {
+   id: "01a06205-4f3c-7006-826b-46e584d9e991",
+diff --git a/pages/ui/components/quick-add/use-inline-completion/use-inline-completion.module.ts b/pages/ui/components/quick-add/use-inline-completion/use-inline-completion.module.ts
+index 9515eb050489c3f8d8901ce0ff8f974d5aa5d286..2320ae8358c6014fe107bff1971c812cdfba3975 100644
+--- a/pages/ui/components/quick-add/use-inline-completion/use-inline-completion.module.ts
++++ b/pages/ui/components/quick-add/use-inline-completion/use-inline-completion.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const useInlineCompletion = {
+   id: "01a05c40-2196-76a5-86e6-fa407ef6bfdd",
+diff --git a/pages/ui/components/read-end/read-end.module.ts b/pages/ui/components/read-end/read-end.module.ts
+index 5886ea92cce1d274b9ea00505f8ef15badd9a1d6..cb5b460f8d95e42cab61fca105484f208405ef22 100644
+--- a/pages/ui/components/read-end/read-end.module.ts
++++ b/pages/ui/components/read-end/read-end.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const readEnd = {
+   id: "01a05c3d-a2e6-7b43-94ff-20aeae3fbcad",
+diff --git a/pages/ui/components/read-progress/read-progress.module.ts b/pages/ui/components/read-progress/read-progress.module.ts
+index 8f3be7f0df0d3626886aac1af9742842084adb8d..e3b6cb7fbcaf90a47eea81e7f2c21005feee7083 100644
+--- a/pages/ui/components/read-progress/read-progress.module.ts
++++ b/pages/ui/components/read-progress/read-progress.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const readProgress = {
+   id: "01a05c3d-a2e5-7e5c-86bc-9dabc556a0d6",
+diff --git a/pages/ui/components/reader-audio-block/reader-audio-block.module.ts b/pages/ui/components/reader-audio-block/reader-audio-block.module.ts
+index 62156d7b32091929dd7111f8d75590e912a4dc4d..7a41be18d93935a6e5ecebbfa37f0e5995b6df0d 100644
+--- a/pages/ui/components/reader-audio-block/reader-audio-block.module.ts
++++ b/pages/ui/components/reader-audio-block/reader-audio-block.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const readerAudioBlock = {
+   id: "01a06205-4f3c-7007-9e7e-5166211c82b9",
+diff --git a/pages/ui/components/reader-char-table/reader-char-table.module.ts b/pages/ui/components/reader-char-table/reader-char-table.module.ts
+index 7e6acea218e3820f271febe884df496fd021448f..3e2f81806464aa2113195d06272d9de8e214b417 100644
+--- a/pages/ui/components/reader-char-table/reader-char-table.module.ts
++++ b/pages/ui/components/reader-char-table/reader-char-table.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const readerCharTable = {
+   id: "01a05c3d-a2e7-7441-80a9-5e6d74c6fadb",
+diff --git a/pages/ui/components/reader-chrome/reader-chrome.module.ts b/pages/ui/components/reader-chrome/reader-chrome.module.ts
+index d7e006288a0bbf6a1f8e65304627d3ad998fb9f9..6581dc1e7588d27963088d08650649cd9ef76b03 100644
+--- a/pages/ui/components/reader-chrome/reader-chrome.module.ts
++++ b/pages/ui/components/reader-chrome/reader-chrome.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const readerChrome = {
+   id: "01a0610c-430a-7727-8552-a78e14674497",
+diff --git a/pages/ui/components/reader-page-source/reader-page-source.module.ts b/pages/ui/components/reader-page-source/reader-page-source.module.ts
+index 198025258532275091636289ff817ee81e73787b..2ad5e2d398cdaf6860fac96ca8d9c3ad708d2f73 100644
+--- a/pages/ui/components/reader-page-source/reader-page-source.module.ts
++++ b/pages/ui/components/reader-page-source/reader-page-source.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const readerPageSource = {
+   id: "01a06205-4f3b-700d-95c2-c752ce5daf9c",
+diff --git a/pages/ui/components/reader-prose-block/reader-prose-block.module.ts b/pages/ui/components/reader-prose-block/reader-prose-block.module.ts
+index 782907ca396378b4e3d182ad55fdf1cec39c9062..c33ad5187bc4a10cd99028d8d774c1efcc88e875 100644
+--- a/pages/ui/components/reader-prose-block/reader-prose-block.module.ts
++++ b/pages/ui/components/reader-prose-block/reader-prose-block.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const readerProseBlock = {
+   id: "01a061ee-786e-700b-9b84-c070a8b099ef",
+diff --git a/pages/ui/components/reader-prose-body/reader-prose-body.module.ts b/pages/ui/components/reader-prose-body/reader-prose-body.module.ts
+index 697200c0c2a4a50bb2756aef80a4ac2a598c03f6..87268464b52a774bc92745f1309d11974e2e0241 100644
+--- a/pages/ui/components/reader-prose-body/reader-prose-body.module.ts
++++ b/pages/ui/components/reader-prose-body/reader-prose-body.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const readerProseBody = {
+   id: "01a06205-4f3b-700a-9501-bee91fcfd432",
+diff --git a/pages/ui/components/reader-prose/reader-prose.module.ts b/pages/ui/components/reader-prose/reader-prose.module.ts
+index f822dafecea26845e189888329b951dfd0d696be..97857de7b2f56c0e99ea3a0f572aba2db24b90ee 100644
+--- a/pages/ui/components/reader-prose/reader-prose.module.ts
++++ b/pages/ui/components/reader-prose/reader-prose.module.ts
+@@ -1,4 +1,4 @@
+-import type { Module } from "@akasha/code-system/module"
++import type { Module } from "@akasha/code/module"
+ 
+ export const readerProse = {
+   id: "01a05c3d-a2e7-7b06-a66e-82d41ecf1e27",
