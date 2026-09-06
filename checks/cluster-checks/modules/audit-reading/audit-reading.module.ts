@@ -10,7 +10,7 @@ export const auditReading = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An audit that scanned nothing is no population rather than a finding of none.",
+      statement: "An audit that scanned nothing is no population rather than a finding of zero.",
     },
     {
       invariantKind: "departure",
