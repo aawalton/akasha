@@ -21,15 +21,15 @@ export const seatShowing = {
     },
     {
       invariantKind: "departure",
-      statement: "An ancestor's column is taken where none is remembered.",
+      statement: "An ancestor's column is taken where no column is remembered for the seat.",
     },
     {
       invariantKind: "departure",
-      statement: "The nearest ancestor holding a terminal is the one whose column is taken.",
+      statement: "The nearest ancestor holding a terminal is the ancestor whose column is taken.",
     },
     {
       invariantKind: "departure",
-      statement: "The lowest open column is taken where neither is to be had.",
+      statement: "The lowest open column is taken where neither column is to be had.",
     },
     {
       invariantKind: "departure",
