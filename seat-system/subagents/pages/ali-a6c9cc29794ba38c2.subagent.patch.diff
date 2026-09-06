@@ -3781,13 +3781,14 @@ index 0000000000000000000000000000000000000000..037cf6c92dee255ba466cdf904bfda40
 +} as const satisfies MasteryLevel
 diff --git a/alan/library/book-of-everything/mastery-levels/pages/expert.mastery-level.ts b/alan/library/book-of-everything/mastery-levels/pages/expert.mastery-level.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..ffe39cfc3c046aa254c556b8368adc62b3c37809
+index 0000000000000000000000000000000000000000..2941d2d8a16acff35092e190d030913259c89b68
 --- /dev/null
 +++ b/alan/library/book-of-everything/mastery-levels/pages/expert.mastery-level.ts
-@@ -0,0 +1,10 @@
+@@ -0,0 +1,11 @@
 +import type { MasteryLevel } from "../mastery-level.page-type.ts"
 +
 +export const expert = {
++  id: "01a0784a-cdb9-786f-883a-2ead5cdc4454",
 +  pageTypeSlug: "mastery-level",
 +  slug: "expert",
 +  definition: "fluency across a whole field",
