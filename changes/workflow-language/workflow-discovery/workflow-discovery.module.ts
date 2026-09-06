@@ -29,7 +29,8 @@ export const workflowDiscovery = {
     },
     {
       invariantKind: "departure",
-      statement: "A declaration is loaded again on each call rather than held from an earlier one.",
+      statement:
+        "A declaration is loaded again on each call rather than held from an earlier call.",
     },
   ],
 } as const satisfies Module
