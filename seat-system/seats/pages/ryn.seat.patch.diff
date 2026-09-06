@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.ts b/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.ts
+index 789ed13a9ae75c037cc728d713c118047b4ff711..2a297d0ba86965b3f5d00809a74e16e02f0aa176 100644
+--- a/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.ts
++++ b/checks/code-checks/pages/name-format-judges-by-one-shape/name-format-judges-by-one-shape.code-check.ts
+@@ -18,7 +18,7 @@ export const nameFormatJudgesByOneShape = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A format no property names is judged like any other.",
++      statement: "A format no property names is judged like a format a property names.",
+     },
+     {
+       invariantKind: "departure",
