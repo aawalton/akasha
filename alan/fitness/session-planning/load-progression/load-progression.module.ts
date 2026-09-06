@@ -14,7 +14,7 @@ export const loadProgression = {
     },
     {
       invariantKind: "departure",
-      statement: "The load worked at is the one most of the sets were at.",
+      statement: "The load worked at is the load the most sets were at.",
     },
     {
       invariantKind: "departure",
