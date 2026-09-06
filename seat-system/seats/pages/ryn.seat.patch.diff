@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/ryn-trained-parser.initiative.ts b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+index 67ff9b27c18ab390f2ea1b5198139b20a3b846cc..5a405ecc67401320981eaeaeee2182393f1a2c4b 100644
+--- a/domains/initiatives/pages/ryn-trained-parser.initiative.ts
++++ b/domains/initiatives/pages/ryn-trained-parser.initiative.ts
+@@ -20,7 +20,7 @@ export const rynTrainedParser = {
+     {
+       statement: "The shapes akasha refuses are rebuilt on the dependency tree.",
+       workingMemory:
+-        "Four shapes were carried over and closing-count makes five, each with a predicate and a test. Forty-eight admitted shapes went. Every one is measured over the tree, and every one answers a seeded control. No invariant holds a free relative. All 167 lone-pronoun matches are pronouns whose noun sits in the same sentence, and that is Alan's. Forty of lone-quantifier's 909 were read by hand: 11 are false refusals, mostly parse errors no predicate separates.",
++        "Four shapes were carried over and closing-count makes five, each with a predicate and a test. Forty-eight admitted shapes went. Every one is measured over the tree, and every one answers a seeded control. No invariant holds a free relative. Eleven lone-pronoun matches drawn evenly were weighed against CTR: ten have a cheaper named alternative, so the shape is right. Forty of lone-quantifier's 909 were read by hand: 11 are false refusals, mostly parse errors no predicate separates.",
+     },
+     {
+       statement: "Whether akasha writes in the passive is decided.",
