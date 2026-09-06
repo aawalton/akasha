@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/alan/fitness/exercise-access/session-derive/session-derive.module.ts b/alan/fitness/exercise-access/session-derive/session-derive.module.ts
+index 62fcd9bdfc70f91ec3d0bf386a4cb63653bf558c..4d8ce139ee2179ac77c8e279029496bca276c49f 100644
+--- a/alan/fitness/exercise-access/session-derive/session-derive.module.ts
++++ b/alan/fitness/exercise-access/session-derive/session-derive.module.ts
+@@ -19,7 +19,8 @@ export const sessionDerive = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A set's number is one past the highest already logged against its session.",
++      statement:
++        "A set's number is the next number after the highest already logged against its session.",
+     },
+     {
+       invariantKind: "departure",
