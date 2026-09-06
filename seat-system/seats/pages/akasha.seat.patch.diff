@@ -614,10 +614,10 @@ index 0cc5ddee4c49f6e517af7705f626a429eca76221..5a51ecd3e49a0b2e9bcf41367dcefcd9
    invariants: [
      {
 diff --git a/context/warrants/context-warrant.page-type.ts b/context/warrants/context-warrant.page-type.ts
-index 2297b439f1596d6c9d80ffc75de490464c1eec92..28e59c86f1be2ec0e94f08cd0472a57e25ecb081 100644
+index 229c4979c52caef9abce2736aa8a03089bd114e3..88382f32a18041f0f36ba9eab303eac5fa2659f9 100644
 --- a/context/warrants/context-warrant.page-type.ts
 +++ b/context/warrants/context-warrant.page-type.ts
-@@ -43,10 +43,10 @@ export const contextWarrant = {
+@@ -42,10 +42,10 @@ export const contextWarrant = {
    extendsSlug: ["page-type/module"],
    loadedBySlug: "module/warranting",
    properties: [
