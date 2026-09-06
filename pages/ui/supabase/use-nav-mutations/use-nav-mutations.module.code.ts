@@ -21,11 +21,13 @@ export function slugFromName(name: string): string {
   return stem === "" ? "nav" : stem
 }
 
-async function freeNavSlug(name: string, appSlug: string): Promise<string> {
+// A NAV SLUG IS ALONE AMONG EVERY NAV THERE IS. A slug is unique among the pages of its page type
+// rather than within one app, so a stem free under this app can already name another app's nav
+// item, and creating it there would write over that page rather than beside it.
+async function freeNavSlug(name: string): Promise<string> {
   const stem = slugFromName(name)
   const { rows } = await getPages({
     pageTypeSlug: NAV_SLUG,
-    where: [{ key: "appSlug", eq: appSlug }],
     select: ["slug"],
     limit: 500,
   })
@@ -126,7 +128,7 @@ export function useNavMutations(appSlug: string) {
         select: ["id"],
         limit: 200,
       })
-      const navSlug = await freeNavSlug(name, appSlug)
+      const navSlug = await freeNavSlug(name)
 
       const created = await runCreate({
         pageTypeSlug: NAV_SLUG,
