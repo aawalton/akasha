@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-watcher/watcher-worker/watcher-worker.module.ts b/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
+index 3b175cf8bda4d4ad71ef7e9847431937dbc32397..dcbda06b2175d895f4f3a3957a0d34e8d7d1b873 100644
+--- a/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
++++ b/temper/temper-watcher/watcher-worker/watcher-worker.module.ts
+@@ -14,7 +14,7 @@ export const watcherWorker = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The start is handed a collaborator rather than reaching for one.",
++      statement: "The start is handed a collaborator rather than reaching for a collaborator.",
+     },
+     {
+       invariantKind: "departure",
