@@ -1,0 +1,19 @@
+diff --git a/domains/findings/pages/a-workspace-alias-bun-cannot-resolve-breaks-every-fresh-install.finding.ts b/domains/findings/pages/a-workspace-alias-bun-cannot-resolve-breaks-every-fresh-install.finding.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..afb92311115c0bbf8ba3a519372a46b9a9fe2a63
+--- /dev/null
++++ b/domains/findings/pages/a-workspace-alias-bun-cannot-resolve-breaks-every-fresh-install.finding.ts
+@@ -0,0 +1,13 @@
++import type { Finding } from "../finding.page-type.ts"
++
++export const aWorkspaceAliasBunCannotResolveBreaksEveryFreshInstall = {
++  id: "01a076be-bd00-74f0-8384-ec880f0aacd3",
++  pageTypeSlug: "finding",
++  slug: "a-workspace-alias-bun-cannot-resolve-breaks-every-fresh-install",
++  domainSlug: "module/package-renaming",
++
++  claim:
++    'Expand writes `"<old name>": "workspace:<new name>@*"` among the root manifest\'s dependencies, and bun reads what follows `workspace:` as a folder path rather than as a package name, so every fresh install from expand until contract fails to resolve. A checkout that installed once keeps working, since the links `node_modules` already carries reach both names, which is why the invariant `Every commit from expand to contract resolves under the old name and the new` reads as true here and is false on a clean checkout.',
++  evidence:
++    'Measured 2026-09-06 while renaming `@akasha/code-system` to `@akasha/code`.\n\nWHAT BUN SAYS. `bun install --dry-run` at the repository root exits 1 with `error: Workspace dependency "@akasha/code-system" not found / Searched in "./@akasha/code@*"` and then `error: @akasha/code-system@workspace:@akasha/code@* failed to resolve`. The searched-in line names the value as a path, so bun is reading `@akasha/code@*` as a folder to look in rather than as a package to alias. bun 1.3.14.\n\nTHE MINIMAL CASE. `git worktree add --detach /tmp/wt HEAD`, then `bun install --dry-run` inside it: exits 1 with the text above. Delete the one alias line from the root manifest and run the same call: it resolves and ends `1 package removed [173.00ms]`. One line, both readings, nothing else changed.\n\nWHY NOTHING NOTICED. `package-renaming` makes the link itself, so `node_modules/@akasha` holds `code -> ../../code-system` beside `code-system -> ../../code-system`. Every import under either name resolves through those links with no install at all, and the checks read the same. The alias in the manifest is doing no resolving work; it is where `package-phasing` reads the phase from.\n\nTHE SAME LINE LANDED TWICE BEFORE. `git log -S` over the root manifest finds `98dc779f1a` writing `"@akasha/pages-system": "workspace:@akasha/pages@*"` and `1ff9f931d3` taking it away, then `2fcc223f2c` writing `"@akasha/pages-system-service": "workspace:@akasha/pages-service@*"` and `aec38b62ff` taking it away. Both renames finished. So the window is real and has been open before without anyone installing into it.\n\nWHAT IS NOT CLAIMED. Whether some other spelling gives bun a working alias was not measured, and neither was what a deploy does with a checkout it installs fresh. The reading is that the phase marker and the resolving are one line doing two jobs, and only one of them works.',
++} as const satisfies Finding
