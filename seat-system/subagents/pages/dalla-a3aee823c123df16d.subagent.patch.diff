@@ -119,6 +119,28 @@ index de575d1b25b0816e4e16eb78cddc348f63426ae1..8bd92a32814d48cc5ac66ce64a01fc09
    const why = whyNot(given)
    if (why !== null) return refusing(why)
    const reading = importingOf(world.index, new Map([[given.at, given.at]]))
+diff --git a/changes/pages/rename-page-slug/rename-page-slug.change.code.ts b/changes/pages/rename-page-slug/rename-page-slug.change.code.ts
+index 3b4bc10acf9f9a8146587e24bb6f978961e2cb3e..81d057c1c99705f4f982fb23643fcfb2248da0f2 100644
+--- a/changes/pages/rename-page-slug/rename-page-slug.change.code.ts
++++ b/changes/pages/rename-page-slug/rename-page-slug.change.code.ts
+@@ -27,7 +27,7 @@ const PLURAL_SLUG = "pluralSlug"
+ 
+ const ID = "id"
+ 
+-export type Asked = {
++export type RenamePageSlugAsked = {
+   readonly at: string
+   readonly to: string
+   readonly plural?: string
+@@ -137,7 +137,7 @@ function namingIn(namers: readonly Named[]): ReadonlyMap<string, ReadonlySet<str
+   return found
+ }
+ 
+-export function renameSlug(world: World, given: Asked): Answer {
++export function renameSlug(world: World, given: RenamePageSlugAsked): Answer {
+   if (!given.at.endsWith(TYPED)) return refusing(`\`${given.at}\` is no \`.ts\` file`)
+   const text = world.textOf(given.at)
+   if (text === null) return refusing(`\`${given.at}\` could not be read`)
 diff --git a/changes/pages/rename-page/rename-page.change.code.ts b/changes/pages/rename-page/rename-page.change.code.ts
 index e6ae857ae07075c8bf28c4fb150c33c0c277f2ab..abcac45ac08ab5418f634c5ef80bd3b913cc8da1 100644
 --- a/changes/pages/rename-page/rename-page.change.code.ts
