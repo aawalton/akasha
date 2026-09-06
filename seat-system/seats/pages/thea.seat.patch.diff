@@ -2359,10 +2359,10 @@ index f64dbd5d5689177c4a94b6166f225d37e64a6052..a64fba111814981d8701e5de24a57f47
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
-index c108c012112222f02295efb6200112ae3c259275..99913921089b47398a2b6de7af2f4b4b1ad1f61c 100644
+index 8980d6953a263d68815ee5222852fde915a963c7..f3923fa9a0306309e40067a4aa7c889da8d7a16d 100644
 --- a/changes/change.page-type.ts
 +++ b/changes/change.page-type.ts
-@@ -56,7 +56,12 @@ export const change = {
+@@ -54,7 +54,12 @@ export const change = {
    ],
    properties: [
      { pagePropertySlug: "boolean-property/is-command", required: true, many: false },
@@ -2512,25 +2512,6 @@ index 2bf5ee11f3d194a0bd99dfeb016e29bbd20c2ef4..e3f6cfa2b65c6ab6ff2b546a9eabc783
    }
    if (widthOf(nearer) > widthOf(further)) {
      return `\`unique\` widens from \`${reachIn(further)}\` to \`${reachIn(nearer)}\``
-diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test-fixtures.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test-fixtures.ts
-index dec9130cd44811e230686481986caade19c8b86a..504a15584c1f449e9da6f1897d4c47263646b8f2 100644
---- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test-fixtures.ts
-+++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.test-fixtures.ts
-@@ -81,8 +81,13 @@ export function holding(one: Partial<Carried>): Carried {
-     declaredBy: "over",
-     required: true,
-     many: false,
--    max: null,
-+<<<<<<< what this change would leave
-+    maxCount: null,
-     total: null,
-+=======
-+    max: null,
-+    maxLength: null,
-+>>>>>>> what HEAD holds
-     uncommitted: false,
-     secret: false,
-     ...one,
 diff --git a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts b/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
 index 154418076c30c01ef2955feee5a0c534295649b2..e6b8b6999a4c0568aa8bbb181c196383890f953a 100644
 --- a/checks/code-checks/pages/page-matches-its-type/modules/entry-reasons/entry-reasons.module.code.ts
