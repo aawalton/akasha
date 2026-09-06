@@ -1,6 +1,6 @@
 import { IMAGES } from "@akasha/workflow-language/images"
 import { applyRbac } from "@akasha/workflow-language/rbac-apply"
-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
 import { step } from "@akasha/workflow-language/step"
 import { workflow } from "@akasha/workflow-language/workflow"
 
@@ -15,11 +15,10 @@ export const workflows = [
         rbacFile:
           "infrastructure/cluster-manifests/collections-rbac/collections-rbac.module.code.ts",
       }),
-      sopsDecryptApply({
+      secretPlaceApply({
         name: "collections-infra-apply-secrets",
         namespace: "collections",
-        secretFile:
-          "infrastructure/cluster-manifests/cluster-secrets/collections.k8s-secret.sops.yaml",
+        resource: "collections-secrets",
       }),
       {
         ...step({

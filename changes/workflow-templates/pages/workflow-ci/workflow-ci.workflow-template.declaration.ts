@@ -1,5 +1,5 @@
 import { IMAGES } from "@akasha/workflow-language/images"
-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
 import { step } from "@akasha/workflow-language/step"
 import { workflow } from "@akasha/workflow-language/workflow"
 
@@ -26,11 +26,10 @@ export default workflow("ci", {
       }),
     },
 
-    sopsDecryptApply({
+    secretPlaceApply({
       name: "ci-apply-pipeline-secrets",
       namespace: "ci",
-      secretFile:
-        "infrastructure/cluster-manifests/cluster-secrets/pipeline-engine.k8s-secret.sops.yaml",
+      resource: "pipeline-engine-secrets",
     }),
   ],
 })
