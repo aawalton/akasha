@@ -56,7 +56,7 @@ export const claudeAccountUpkeepStall = {
     {
       invariantKind: "departure",
       statement:
-        "Every ruling states how many pages there were, how many were judged, and how many are current.",
+        "Every ruling states the count of pages and the count judged and the count current.",
     },
     {
       invariantKind: "departure",
