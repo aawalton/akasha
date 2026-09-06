@@ -12,3 +12,17 @@ index 0000000000000000000000000000000000000000..5711311f2121ebbdeaa989d9f29a1bfd
 +  slug: "pgbouncer-tls-tls-crt",
 +  placements: [{ resourceName: "pgbouncer-tls", resourceKey: "tls.crt" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/pgbouncer-tls-tls-key.secret.ts b/service-system/secrets/pages/pgbouncer-tls-tls-key.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e59b165754c50df4d9a8c3efd2fad03071205a94
+--- /dev/null
++++ b/service-system/secrets/pages/pgbouncer-tls-tls-key.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const pgbouncerTlsTlsKey = {
++  id: "01a0768e-dcfa-76ec-8099-20de33c43eab",
++  pageTypeSlug: "secret",
++  slug: "pgbouncer-tls-tls-key",
++  placements: [{ resourceName: "pgbouncer-tls", resourceKey: "tls.key" }],
++} as const satisfies Secret
