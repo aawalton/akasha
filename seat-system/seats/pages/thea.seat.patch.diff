@@ -3739,3 +3739,747 @@ index 32e123d433b6e32dcb060ce5ea01461a7410c4d7..f0c9875b03189da67f686a6a636cf5f2
 +  maxLength: 45,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/person-system/sms-consents/properties/sms-consent-text-version.text-property.ts b/person-system/sms-consents/properties/sms-consent-text-version.text-property.ts
+index 838e9090acd0fac1fb86c44d01c105317924dc1e..12c2920586c68243bc0cfab5998d7e8ba4bdcac8 100644
+--- a/person-system/sms-consents/properties/sms-consent-text-version.text-property.ts
++++ b/person-system/sms-consents/properties/sms-consent-text-version.text-property.ts
+@@ -8,6 +8,6 @@ export const smsConsentTextVersion = {
+   slug: "sms-consent-text-version",
+   propertySlug: "consent-text-version",
+   definition: "which wording of the agreement the person was shown",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/person-system/sms-consents/properties/sms-consent-user-agent.text-property.ts b/person-system/sms-consents/properties/sms-consent-user-agent.text-property.ts
+index 486ebd4a62738116c7111c152e9f90e3d7a13a98..c7e02e643c27f91ead7486c87e518cb9d7091fb7 100644
+--- a/person-system/sms-consents/properties/sms-consent-user-agent.text-property.ts
++++ b/person-system/sms-consents/properties/sms-consent-user-agent.text-property.ts
+@@ -8,6 +8,6 @@ export const smsConsentUserAgent = {
+   slug: "sms-consent-user-agent",
+   propertySlug: "user-agent",
+   definition: "the browser the agreement was sent from",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/personas/closeness-levels/properties/pose.text-property.ts b/personas/closeness-levels/properties/pose.text-property.ts
+index d19ee9b1a4c4c982814c1464b5a747aec30b94f2..900a943605344d896e790e12f846a85510089d61 100644
+--- a/personas/closeness-levels/properties/pose.text-property.ts
++++ b/personas/closeness-levels/properties/pose.text-property.ts
+@@ -8,6 +8,6 @@ export const pose = {
+   slug: "pose",
+   propertySlug: "pose",
+   definition: "how a persona is posed and framed at a rung",
+-  max: 300,
++  maxLength: 300,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/personas/closeness-levels/properties/stage.text-property.ts b/personas/closeness-levels/properties/stage.text-property.ts
+index c33610206ca7c82c2474ed6e0f3c053eecbbc6ab..d8c0e0ebf5896f14ab0136abd748966eb3a142d8 100644
+--- a/personas/closeness-levels/properties/stage.text-property.ts
++++ b/personas/closeness-levels/properties/stage.text-property.ts
+@@ -8,6 +8,6 @@ export const stage = {
+   slug: "stage",
+   propertySlug: "stage",
+   definition: "the phase of closeness a rung belongs to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/personas/closeness-levels/properties/wardrobe.text-property.ts b/personas/closeness-levels/properties/wardrobe.text-property.ts
+index 337e31a67f4eff9d90bf6861aec2375b166ddddd..157800bafce2f2ea460e7580bf3b998400d6d8e5 100644
+--- a/personas/closeness-levels/properties/wardrobe.text-property.ts
++++ b/personas/closeness-levels/properties/wardrobe.text-property.ts
+@@ -8,6 +8,6 @@ export const wardrobe = {
+   slug: "wardrobe",
+   propertySlug: "wardrobe",
+   definition: "what a persona wears at a rung",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/personas/persona-anchor-images/properties/grade.text-property.ts b/personas/persona-anchor-images/properties/grade.text-property.ts
+index 2c55692492a11716f681ae04be0d500fb854a06d..afc983cc52a8be8f6f77be39dd505b0c5ce097e3 100644
+--- a/personas/persona-anchor-images/properties/grade.text-property.ts
++++ b/personas/persona-anchor-images/properties/grade.text-property.ts
+@@ -9,7 +9,7 @@ export const grade = {
+   slug: "grade",
+   propertySlug: "grade",
+   definition: "Alan's mark for how well a picture caught the persona",
+-  max: 2,
++  maxLength: 2,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/personas/persona-images/properties/image-path.text-property.ts b/personas/persona-images/properties/image-path.text-property.ts
+index d4202ed926856a72433a11d449b06a1f047cca1c..e6cadce6725cab4c577c0b697ea57f3a41c200f1 100644
+--- a/personas/persona-images/properties/image-path.text-property.ts
++++ b/personas/persona-images/properties/image-path.text-property.ts
+@@ -8,7 +8,7 @@ export const imagePath = {
+   slug: "image-path",
+   propertySlug: "image-path",
+   definition: "where a picture is, read against the root it names",
+-  max: 300,
++  maxLength: 300,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/personas/persona-images/properties/image-root.text-property.ts b/personas/persona-images/properties/image-root.text-property.ts
+index e0a60042553962881c1a78d732f6a2a22e7456f9..dfaf9d97716b60ee030a1cd02548341b93c1423d 100644
+--- a/personas/persona-images/properties/image-root.text-property.ts
++++ b/personas/persona-images/properties/image-root.text-property.ts
+@@ -8,7 +8,7 @@ export const imageRoot = {
+   slug: "image-root",
+   propertySlug: "image-root",
+   definition: "the name of the place a picture's path is read against",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/personas/persona-points-sources/properties/points-source-aggregate.text-property.ts b/personas/persona-points-sources/properties/points-source-aggregate.text-property.ts
+index b391e6bb76d2deac71cfe1dcd04277f10c52039c..a77a63101f878f645baa129c6be27d8b289baa12 100644
+--- a/personas/persona-points-sources/properties/points-source-aggregate.text-property.ts
++++ b/personas/persona-points-sources/properties/points-source-aggregate.text-property.ts
+@@ -8,6 +8,6 @@ export const pointsSourceAggregate = {
+   slug: "points-source-aggregate",
+   propertySlug: "aggregate",
+   definition: "how the things a persona counts are added into one number",
+-  max: 8,
++  maxLength: 8,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/personas/persona-points-sources/properties/points-source-kind.text-property.ts b/personas/persona-points-sources/properties/points-source-kind.text-property.ts
+index 9109f029551e23e50b51d1beb59b2f4134712128..2ed9eb55b0d4ddd8f54b87b3ac0bf8a2924a6c9c 100644
+--- a/personas/persona-points-sources/properties/points-source-kind.text-property.ts
++++ b/personas/persona-points-sources/properties/points-source-kind.text-property.ts
+@@ -15,7 +15,7 @@ export const pointsSourceKind = {
+   slug: "points-source-kind",
+   propertySlug: "kind",
+   definition: "how a persona's points are worked out from what she counts",
+-  max: 11,
++  maxLength: 11,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/personas/persona-points-sources/properties/points-source-marker.text-property.ts b/personas/persona-points-sources/properties/points-source-marker.text-property.ts
+index 757c923487546c516473671e8f9450f272ec1785..f7b3a226b8b3618d11794688d49c51e2edf04b09 100644
+--- a/personas/persona-points-sources/properties/points-source-marker.text-property.ts
++++ b/personas/persona-points-sources/properties/points-source-marker.text-property.ts
+@@ -8,7 +8,7 @@ export const pointsSourceMarker = {
+   slug: "points-source-marker",
+   propertySlug: "marker",
+   definition: "the name of the thing a persona's points are counted from",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/personas/persona-points-sources/properties/points-source-path-prefix.text-property.ts b/personas/persona-points-sources/properties/points-source-path-prefix.text-property.ts
+index 811f8f7227431fdcd869db75affb03aa65213a1a..9b9271c01ae70dacfafe4b8059669296d7c80531 100644
+--- a/personas/persona-points-sources/properties/points-source-path-prefix.text-property.ts
++++ b/personas/persona-points-sources/properties/points-source-path-prefix.text-property.ts
+@@ -8,6 +8,6 @@ export const pointsSourcePathPrefix = {
+   slug: "points-source-path-prefix",
+   propertySlug: "path-prefix",
+   definition: "which part of the tree a persona's counted work sits under",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/personas/persona-points-sources/properties/points-source-point-field.text-property.ts b/personas/persona-points-sources/properties/points-source-point-field.text-property.ts
+index 1ddd787a30dc4e38a97609308ec66c99b49e7682..c213cd0652dd67860f312c257657e498e89974b9 100644
+--- a/personas/persona-points-sources/properties/points-source-point-field.text-property.ts
++++ b/personas/persona-points-sources/properties/points-source-point-field.text-property.ts
+@@ -8,6 +8,6 @@ export const pointsSourcePointField = {
+   slug: "points-source-point-field",
+   propertySlug: "point-field",
+   definition: "which value on each counted thing is the points it is worth",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/personas/persona-points-sources/properties/points-source-readings.text-property.ts b/personas/persona-points-sources/properties/points-source-readings.text-property.ts
+index 0eeb7f2cb155fb9bcc798a4999254b131b2d8b13..20d2dadf9a8829ebc124386e779e065c2420db64 100644
+--- a/personas/persona-points-sources/properties/points-source-readings.text-property.ts
++++ b/personas/persona-points-sources/properties/points-source-readings.text-property.ts
+@@ -11,6 +11,6 @@ export const pointsSourceReadings = {
+   propertySlug: "readings",
+   definition:
+     "which readings of Alan's day count towards a persona's points, and how many make one",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/personas/persona-points-sources/properties/points-source-weight-field.text-property.ts b/personas/persona-points-sources/properties/points-source-weight-field.text-property.ts
+index f7e420e2f15e7312d9cbdef641e1453d6df96066..dd6b46314668f4344012f26adbd7cedc29d48d54 100644
+--- a/personas/persona-points-sources/properties/points-source-weight-field.text-property.ts
++++ b/personas/persona-points-sources/properties/points-source-weight-field.text-property.ts
+@@ -8,7 +8,7 @@ export const pointsSourceWeightField = {
+   slug: "points-source-weight-field",
+   propertySlug: "weight-field",
+   definition: "which value on each counted thing decides how much it counts for",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/personas/properties/history.text-property.ts b/personas/properties/history.text-property.ts
+index 156498d0749f3820efa1ca23e130c535332ee299..0aed1a0a6213f4937c2cc023765bbbe4b6d7c31a 100644
+--- a/personas/properties/history.text-property.ts
++++ b/personas/properties/history.text-property.ts
+@@ -8,6 +8,6 @@ export const history = {
+   slug: "history",
+   propertySlug: "history",
+   definition: "how a persona came to be, told in her own voice",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/personas/properties/last-messaged-at.text-property.ts b/personas/properties/last-messaged-at.text-property.ts
+index a20ff21fc9d82d74d290b9230d742e7c5250325c..c05767950d8f299c5267630a53211a242f50f35f 100644
+--- a/personas/properties/last-messaged-at.text-property.ts
++++ b/personas/properties/last-messaged-at.text-property.ts
+@@ -8,7 +8,7 @@ export const lastMessagedAt = {
+   slug: "last-messaged-at",
+   propertySlug: "last-messaged-at",
+   definition: "when Alan last wrote to a persona",
+-  max: 24,
++  maxLength: 24,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/personas/properties/purpose.text-property.ts b/personas/properties/purpose.text-property.ts
+index a1b83d7d9a6ee6200191a397c5d3f91e11b3ac48..e5c105e1fd55ba2f2c9b38366ee496d0502a534d 100644
+--- a/personas/properties/purpose.text-property.ts
++++ b/personas/properties/purpose.text-property.ts
+@@ -8,6 +8,6 @@ export const purpose = {
+   slug: "purpose",
+   propertySlug: "purpose",
+   definition: "what a persona is for",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/personas/properties/value-slug.text-property.ts b/personas/properties/value-slug.text-property.ts
+index 9c70927ebb4f91ccd7e401c072d40e770c2f0d02..303fcffd8752ca1d26952f750fcf3bac2323a97d 100644
+--- a/personas/properties/value-slug.text-property.ts
++++ b/personas/properties/value-slug.text-property.ts
+@@ -8,7 +8,7 @@ export const valueSlug = {
+   slug: "value-slug",
+   propertySlug: "value-slug",
+   definition: "the value a persona represents",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/personas/properties/voice-instruction.text-property.ts b/personas/properties/voice-instruction.text-property.ts
+index ec757feb992748c7778f8788e3e2a88508dfffab..f170e0f237adbc9020e8ae93a399459e78822e72 100644
+--- a/personas/properties/voice-instruction.text-property.ts
++++ b/personas/properties/voice-instruction.text-property.ts
+@@ -8,6 +8,6 @@ export const voiceInstruction = {
+   slug: "voice-instruction",
+   propertySlug: "voice-instruction",
+   definition: "the description a persona's voice was built from",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/personas/properties/voice-reference-sha256.text-property.ts b/personas/properties/voice-reference-sha256.text-property.ts
+index e40472c1e62cc70991f93348be516872ece97058..b2c01346fbda311370f5cf77915cd5f5ee25335a 100644
+--- a/personas/properties/voice-reference-sha256.text-property.ts
++++ b/personas/properties/voice-reference-sha256.text-property.ts
+@@ -8,6 +8,6 @@ export const voiceReferenceSha256 = {
+   slug: "voice-reference-sha256",
+   propertySlug: "voice-reference-sha256",
+   definition: "the checksum of the recording a persona's voice is copied from",
+-  max: 64,
++  maxLength: 64,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/personas/questions/properties/link-label.text-property.ts b/personas/questions/properties/link-label.text-property.ts
+index 68b4aa2e21fefa3be846dc12685b864de852da81..adbe3f14862ca0994fa780af77c091c1a7b2b266 100644
+--- a/personas/questions/properties/link-label.text-property.ts
++++ b/personas/questions/properties/link-label.text-property.ts
+@@ -8,7 +8,7 @@ export const linkLabel = {
+   slug: "link-label",
+   propertySlug: "label",
+   definition: "what a link is called where it is offered",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/personas/questions/properties/link-target.text-property.ts b/personas/questions/properties/link-target.text-property.ts
+index 6562f23999b5cce48e53d427d4970511abbe3ff3..f5a7b69e573694a466f2db186ac7cce2e902a4ba 100644
+--- a/personas/questions/properties/link-target.text-property.ts
++++ b/personas/questions/properties/link-target.text-property.ts
+@@ -8,7 +8,7 @@ export const linkTarget = {
+   slug: "link-target",
+   propertySlug: "target",
+   definition: "where a link goes: a web address, or a path inside the app",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/personas/questions/properties/question-answer.text-property.ts b/personas/questions/properties/question-answer.text-property.ts
+index 6e9b028c5e993f7ca4dced72de99493f575e6875..f82d10d4e77ea7e389018f96ac320c4bdc99ac6b 100644
+--- a/personas/questions/properties/question-answer.text-property.ts
++++ b/personas/questions/properties/question-answer.text-property.ts
+@@ -8,7 +8,7 @@ export const questionAnswer = {
+   slug: "question-answer",
+   propertySlug: "answer",
+   definition: "what closed a question: Alan's answer, or the note saying why it was let go",
+-  max: 4000,
++  maxLength: 4000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/personas/questions/properties/question-ask.text-property.ts b/personas/questions/properties/question-ask.text-property.ts
+index 43cd87ace8314351fc9a552ad4339a7c43860e0f..269d85cd7155d17e99ef4e0f85a6938396b1ac3b 100644
+--- a/personas/questions/properties/question-ask.text-property.ts
++++ b/personas/questions/properties/question-ask.text-property.ts
+@@ -8,7 +8,7 @@ export const questionAsk = {
+   slug: "question-ask",
+   propertySlug: "ask",
+   definition: "the question as it was put to Alan",
+-  max: 4000,
++  maxLength: 4000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/personas/questions/properties/question-asked-in.text-property.ts b/personas/questions/properties/question-asked-in.text-property.ts
+index bb8a17a75b1a80eca48a80113555ad9ccafec8da..14fe3410a40a5b965b5dbec69f4685e53b72ff44 100644
+--- a/personas/questions/properties/question-asked-in.text-property.ts
++++ b/personas/questions/properties/question-asked-in.text-property.ts
+@@ -8,7 +8,7 @@ export const questionAskedIn = {
+   slug: "question-asked-in",
+   propertySlug: "asked-in",
+   definition: "the stretch of work a question came out of, named by its id",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+   invariants: [
+     {
+diff --git a/personas/questions/properties/question-offered.text-property.ts b/personas/questions/properties/question-offered.text-property.ts
+index 518e7f75278f9fc9a202dfcd47afb658c3ce6e9b..212adbd1042e7b43c64961252591a68a3ca5ea8f 100644
+--- a/personas/questions/properties/question-offered.text-property.ts
++++ b/personas/questions/properties/question-offered.text-property.ts
+@@ -8,7 +8,7 @@ export const questionOffered = {
+   slug: "question-offered",
+   propertySlug: "offered",
+   definition: "an answer a question holds out for Alan to pick",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/places/location-deals/properties/deal-key.text-property.ts b/places/location-deals/properties/deal-key.text-property.ts
+index 32cf934911156d936ab44d7831510f8510be6f59..bd306df0ae367720367e5a080d03d816d6b1d6d9 100644
+--- a/places/location-deals/properties/deal-key.text-property.ts
++++ b/places/location-deals/properties/deal-key.text-property.ts
+@@ -8,6 +8,6 @@ export const dealKey = {
+   slug: "deal-key",
+   propertySlug: "deal-key",
+   definition: "what the source calls the offer",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/places/location-deals/properties/fine-print.text-property.ts b/places/location-deals/properties/fine-print.text-property.ts
+index 53d46db67ac1ddaac48bba8a1cc238c77227f2f8..c9b5267584f384a84283a9b8db30d86e2529aa04 100644
+--- a/places/location-deals/properties/fine-print.text-property.ts
++++ b/places/location-deals/properties/fine-print.text-property.ts
+@@ -8,6 +8,6 @@ export const finePrint = {
+   slug: "fine-print",
+   propertySlug: "fine-print",
+   definition: "what the offer does not cover",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/places/location-deals/properties/offer-text.text-property.ts b/places/location-deals/properties/offer-text.text-property.ts
+index 022daa3383626cf5e12106994b2f221a8aa2d30e..bd91e5f5bcba9ec48bef05544dd48503f5c55bf0 100644
+--- a/places/location-deals/properties/offer-text.text-property.ts
++++ b/places/location-deals/properties/offer-text.text-property.ts
+@@ -8,6 +8,6 @@ export const offerText = {
+   slug: "offer-text",
+   propertySlug: "offer-text",
+   definition: "what the offer gives, as the source words it",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/places/location-deals/properties/offer-type.text-property.ts b/places/location-deals/properties/offer-type.text-property.ts
+index dc390df4b1ca09ea300144cddebb3b5f8ce1d27d..98d38423b17db5a91c13e408838b59f39aabb8d1 100644
+--- a/places/location-deals/properties/offer-type.text-property.ts
++++ b/places/location-deals/properties/offer-type.text-property.ts
+@@ -8,6 +8,6 @@ export const offerType = {
+   slug: "offer-type",
+   propertySlug: "offer-type",
+   definition: "the shape of what the offer gives",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/places/location-deals/properties/redemption-code.text-property.ts b/places/location-deals/properties/redemption-code.text-property.ts
+index 8a2a55d4c438f991bdddf18fb5121228b0bc7d0d..650cac1eb0fd65a7c24c476c5d6c59b09f86db37 100644
+--- a/places/location-deals/properties/redemption-code.text-property.ts
++++ b/places/location-deals/properties/redemption-code.text-property.ts
+@@ -8,6 +8,6 @@ export const redemptionCode = {
+   slug: "redemption-code",
+   propertySlug: "redemption-code",
+   definition: "what to give to claim the offer",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/places/location-deals/properties/section.text-property.ts b/places/location-deals/properties/section.text-property.ts
+index b3f9259cab073495a7747d2de179c682d57ab7d8..25dce782542368808fab6018ac3a6300a185a04d 100644
+--- a/places/location-deals/properties/section.text-property.ts
++++ b/places/location-deals/properties/section.text-property.ts
+@@ -8,6 +8,6 @@ export const section = {
+   slug: "section",
+   propertySlug: "section",
+   definition: "the heading the source lists the offer under",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/places/locations/properties/address.text-property.ts b/places/locations/properties/address.text-property.ts
+index c4c1c7170f0cbbd28ecbbc65d66016dcca6aef77..46f789d756c053e48a1c0dc8d82f224895236447 100644
+--- a/places/locations/properties/address.text-property.ts
++++ b/places/locations/properties/address.text-property.ts
+@@ -8,6 +8,6 @@ export const address = {
+   slug: "address",
+   propertySlug: "address",
+   definition: "the street address of the place",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/places/locations/properties/cuisine-or-type.text-property.ts b/places/locations/properties/cuisine-or-type.text-property.ts
+index 3b9b5cd75914e4728d1c90ae46fe97f6226e481c..d264c565222ed19a05b699d9b06d399633202f65 100644
+--- a/places/locations/properties/cuisine-or-type.text-property.ts
++++ b/places/locations/properties/cuisine-or-type.text-property.ts
+@@ -8,6 +8,6 @@ export const cuisineOrType = {
+   slug: "cuisine-or-type",
+   propertySlug: "cuisine-or-type",
+   definition: "what the place serves",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/places/locations/properties/location-category.text-property.ts b/places/locations/properties/location-category.text-property.ts
+index 6a4f7570028b7806ba456f64cd91b7c24ea0d9b8..36e692055bcb3883dad1186b3406674910a42c50 100644
+--- a/places/locations/properties/location-category.text-property.ts
++++ b/places/locations/properties/location-category.text-property.ts
+@@ -8,6 +8,6 @@ export const locationCategory = {
+   slug: "location-category",
+   propertySlug: "location-category",
+   definition: "what kind of place it is",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/places/locations/properties/location-notes.text-property.ts b/places/locations/properties/location-notes.text-property.ts
+index 46230e2d2e383e0ecaebb35d98b1a63b1eb6ecf1..25e1a4bf298086d4f059ad67d7cde97f0f2cde36 100644
+--- a/places/locations/properties/location-notes.text-property.ts
++++ b/places/locations/properties/location-notes.text-property.ts
+@@ -8,6 +8,6 @@ export const locationNotes = {
+   slug: "location-notes",
+   propertySlug: "notes",
+   definition: "what the person kept the place for",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/places/locations/properties/location-source.text-property.ts b/places/locations/properties/location-source.text-property.ts
+index 8c9fea5d07a5f77c96a996434381162533db067d..55ddf610e0c875f1a13c678ab18e30ee383e566c 100644
+--- a/places/locations/properties/location-source.text-property.ts
++++ b/places/locations/properties/location-source.text-property.ts
+@@ -8,6 +8,6 @@ export const locationSource = {
+   slug: "location-source",
+   propertySlug: "location-source",
+   definition: "where the place came from",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/places/locations/properties/review-flag.text-property.ts b/places/locations/properties/review-flag.text-property.ts
+index 8dbfd89f78598bd10963a9d82094f51f002d4102..ac28618bcc70099be19e5a41b491d9cbbfe6f243 100644
+--- a/places/locations/properties/review-flag.text-property.ts
++++ b/places/locations/properties/review-flag.text-property.ts
+@@ -8,6 +8,6 @@ export const reviewFlag = {
+   slug: "review-flag",
+   propertySlug: "review-flag",
+   definition: "what was unclear about tying a review to this place",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/places/locations/properties/review-text.text-property.ts b/places/locations/properties/review-text.text-property.ts
+index eff13ceb7222246e3e3ca700f627752b0ad39324..308dea95b148262e2b9d2d7eacdc7f4c41a1db9d 100644
+--- a/places/locations/properties/review-text.text-property.ts
++++ b/places/locations/properties/review-text.text-property.ts
+@@ -8,6 +8,6 @@ export const reviewText = {
+   slug: "review-text",
+   propertySlug: "review-text",
+   definition: "what the person wrote about the place",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/places/locations/properties/source-place-id.text-property.ts b/places/locations/properties/source-place-id.text-property.ts
+index 453af679113570c38ea9fe09410a90473184ee78..2807af39f10fe04f5b1830e714dad5333de3d1bb 100644
+--- a/places/locations/properties/source-place-id.text-property.ts
++++ b/places/locations/properties/source-place-id.text-property.ts
+@@ -8,6 +8,6 @@ export const sourcePlaceId = {
+   slug: "source-place-id",
+   propertySlug: "source-place-id",
+   definition: "what the source calls the place",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/readout-system/readout-groups/properties/sort-order.text-property.ts b/readout-system/readout-groups/properties/sort-order.text-property.ts
+index adfdb0112bd2a0d1751a32e748fbffaa3578e1c8..8770be70c07b68188a054d9e0f6bb7666391e43b 100644
+--- a/readout-system/readout-groups/properties/sort-order.text-property.ts
++++ b/readout-system/readout-groups/properties/sort-order.text-property.ts
+@@ -8,7 +8,7 @@ export const sortOrder = {
+   slug: "sort-order",
+   propertySlug: "sort-order",
+   definition: "whether a group draws its readings in label order or in place order",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/readout-system/readout-scales/properties/earned-color-slug.text-property.ts b/readout-system/readout-scales/properties/earned-color-slug.text-property.ts
+index 64a0359734cf34c61c426f980be8a0c146a18f01..9de30529088e2915e731858f622901cd8d461830 100644
+--- a/readout-system/readout-scales/properties/earned-color-slug.text-property.ts
++++ b/readout-system/readout-scales/properties/earned-color-slug.text-property.ts
+@@ -8,7 +8,7 @@ export const earnedColorSlug = {
+   slug: "earned-color-slug",
+   propertySlug: "earned-color-slug",
+   definition: "the color a reading takes when the reading is earned rather than measured",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/readout-system/readout-widgets/properties/caption.text-property.ts b/readout-system/readout-widgets/properties/caption.text-property.ts
+index 20a4e3b702cfe94f3a6387c27452f982cc3cb9a5..7c6e8bec158d6ffeeae271219de46af1d8020b4c 100644
+--- a/readout-system/readout-widgets/properties/caption.text-property.ts
++++ b/readout-system/readout-widgets/properties/caption.text-property.ts
+@@ -8,6 +8,6 @@ export const caption = {
+   slug: "caption",
+   propertySlug: "caption",
+   definition: "the words a widget draws beside its reading",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/readout-system/readout-widgets/properties/families.text-property.ts b/readout-system/readout-widgets/properties/families.text-property.ts
+index 65bff67e39fa55466f0702744dfe6474095c62ed..a95ac67c8a06fcc8bb10f0f80cef12d0dcba701b 100644
+--- a/readout-system/readout-widgets/properties/families.text-property.ts
++++ b/readout-system/readout-widgets/properties/families.text-property.ts
+@@ -10,6 +10,6 @@ export const families = {
+   slug: "families",
+   propertySlug: "families",
+   definition: "the tile sizes a widget can be placed at",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/readout-system/readout-widgets/properties/gallery-description.text-property.ts b/readout-system/readout-widgets/properties/gallery-description.text-property.ts
+index 80588a4a5637902e0b96452eb3da2e3816f87eed..525cb368bb17d13d8a48d1e6ccae4b837bccf4ee 100644
+--- a/readout-system/readout-widgets/properties/gallery-description.text-property.ts
++++ b/readout-system/readout-widgets/properties/gallery-description.text-property.ts
+@@ -8,6 +8,6 @@ export const galleryDescription = {
+   slug: "gallery-description",
+   propertySlug: "gallery-description",
+   definition: "the sentence the gallery prints under a widget's name",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/readout-system/readout-widgets/properties/gallery-name.text-property.ts b/readout-system/readout-widgets/properties/gallery-name.text-property.ts
+index 2fe7e144af22bfa1725e8144c098253d2e12f4f7..e21a1d416698b831ff06e74862cee745600dae32 100644
+--- a/readout-system/readout-widgets/properties/gallery-name.text-property.ts
++++ b/readout-system/readout-widgets/properties/gallery-name.text-property.ts
+@@ -8,6 +8,6 @@ export const galleryName = {
+   slug: "gallery-name",
+   propertySlug: "gallery-name",
+   definition: "the name a widget answers to in the widget gallery",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/readout-system/readout-widgets/properties/kind.text-property.ts b/readout-system/readout-widgets/properties/kind.text-property.ts
+index 7a1c6482bac7c4b08c2e8085a690449869d43149..4ccf73210ec92d66dad157f6a2536dd35f081941 100644
+--- a/readout-system/readout-widgets/properties/kind.text-property.ts
++++ b/readout-system/readout-widgets/properties/kind.text-property.ts
+@@ -8,6 +8,6 @@ export const kind = {
+   slug: "kind",
+   propertySlug: "kind",
+   definition: "the name a placed tile is bound to on the device",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/readout-system/readout-widgets/properties/opens.text-property.ts b/readout-system/readout-widgets/properties/opens.text-property.ts
+index eb84b501aadb37e0ae21fabf80beaf67609831ff..1561d7f47195dd954d729318285f5853e5d05252 100644
+--- a/readout-system/readout-widgets/properties/opens.text-property.ts
++++ b/readout-system/readout-widgets/properties/opens.text-property.ts
+@@ -8,6 +8,6 @@ export const opens = {
+   slug: "opens",
+   propertySlug: "opens",
+   definition: "where a tap on a widget goes",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/readout-system/readouts/properties/color-slug.text-property.ts b/readout-system/readouts/properties/color-slug.text-property.ts
+index 2834b4ec74658b73cc9c340a864c8ae344bb9f60..bcec446acc2e788a5a0d3946c24ae1b653a085bd 100644
+--- a/readout-system/readouts/properties/color-slug.text-property.ts
++++ b/readout-system/readouts/properties/color-slug.text-property.ts
+@@ -8,7 +8,7 @@ export const colorSlug = {
+   slug: "color-slug",
+   propertySlug: "color-slug",
+   definition: "the color a reading is always drawn in",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/readout-system/readouts/properties/day-kind.text-property.ts b/readout-system/readouts/properties/day-kind.text-property.ts
+index 45950a91c157e276fae693338d6fc0777192d231..0e0e7544f61f3421169615a4a4ecdc319e6442e8 100644
+--- a/readout-system/readouts/properties/day-kind.text-property.ts
++++ b/readout-system/readouts/properties/day-kind.text-property.ts
+@@ -8,7 +8,7 @@ export const dayKind = {
+   slug: "day-kind",
+   propertySlug: "day-kind",
+   definition: "which of the two days a reading counts on",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/readout-system/readouts/properties/drawn-as.text-property.ts b/readout-system/readouts/properties/drawn-as.text-property.ts
+index 42d2edc474e8acd0c34eb42af11357b8f5cf47e6..a7f315fd48d486bc5d32d2d6ba0dcd9061fd2863 100644
+--- a/readout-system/readouts/properties/drawn-as.text-property.ts
++++ b/readout-system/readouts/properties/drawn-as.text-property.ts
+@@ -8,7 +8,7 @@ export const drawnAs = {
+   slug: "drawn-as",
+   propertySlug: "drawn-as",
+   definition: "whether a reading is drawn as a stoplight or as a bare number",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/readout-system/readouts/properties/earned-key.text-property.ts b/readout-system/readouts/properties/earned-key.text-property.ts
+index e5048bb0d3bf025bd3cb3516d09cf7a7fd2ef7ce..1add44a0c53e7de117449f9df159e5cebf8919fc 100644
+--- a/readout-system/readouts/properties/earned-key.text-property.ts
++++ b/readout-system/readouts/properties/earned-key.text-property.ts
+@@ -8,7 +8,7 @@ export const earnedKey = {
+   slug: "earned-key",
+   propertySlug: "earned-key",
+   definition: "the fact a reading's source carries that earns the scale's earned color",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/readout-system/readouts/properties/figure-format.text-property.ts b/readout-system/readouts/properties/figure-format.text-property.ts
+index 9bc17532201ff28399dcb8065ce078ef4de87150..db3134b9ea358b9d0964cfe08c57bb8a11c80501 100644
+--- a/readout-system/readouts/properties/figure-format.text-property.ts
++++ b/readout-system/readouts/properties/figure-format.text-property.ts
+@@ -8,7 +8,7 @@ export const figureFormat = {
+   slug: "figure-format",
+   propertySlug: "figure-format",
+   definition: "how the number a reading is gets written out",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/readout-system/readouts/properties/label.text-property.ts b/readout-system/readouts/properties/label.text-property.ts
+index be3d0da78fa1fad1f5c78087b49cc5f755009ed0..a0fccad33c64b728c9a657035c5c6e5dcbc86926 100644
+--- a/readout-system/readouts/properties/label.text-property.ts
++++ b/readout-system/readouts/properties/label.text-property.ts
+@@ -8,6 +8,6 @@ export const label = {
+   slug: "label",
+   propertySlug: "label",
+   definition: "the name a reading is shown under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/readout-system/readouts/properties/none-left-emoji.text-property.ts b/readout-system/readouts/properties/none-left-emoji.text-property.ts
+index 172c3aaa8d5ea81d719f302556fc38aff0f74a35..cc52a23ff9d334563e1eb68d9573310c497b8a60 100644
+--- a/readout-system/readouts/properties/none-left-emoji.text-property.ts
++++ b/readout-system/readouts/properties/none-left-emoji.text-property.ts
+@@ -8,6 +8,6 @@ export const noneLeftEmoji = {
+   slug: "none-left-emoji",
+   propertySlug: "none-left-emoji",
+   definition: "the emoji drawn in place of a reading of nothing",
+-  max: 8,
++  maxLength: 8,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/readout-system/readouts/properties/none-left-words.text-property.ts b/readout-system/readouts/properties/none-left-words.text-property.ts
+index 1a0411f8b38ca992896349243cfc642ecd921756..4bdf07ec751286c0437905fa2b2f4472bb05527f 100644
+--- a/readout-system/readouts/properties/none-left-words.text-property.ts
++++ b/readout-system/readouts/properties/none-left-words.text-property.ts
+@@ -8,6 +8,6 @@ export const noneLeftWords = {
+   slug: "none-left-words",
+   propertySlug: "none-left-words",
+   definition: "what is shown in place of a reading of nothing",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/readout-system/readouts/properties/query-argument.text-property.ts b/readout-system/readouts/properties/query-argument.text-property.ts
+index 68e9e419dc8ac1a0c064374e586e309a4d995405..64b43f9f3cb298ed85d55fc12edfb92775f47718 100644
+--- a/readout-system/readouts/properties/query-argument.text-property.ts
++++ b/readout-system/readouts/properties/query-argument.text-property.ts
+@@ -8,7 +8,7 @@ export const queryArgument = {
+   slug: "query-argument",
+   propertySlug: "query-argument",
+   definition: "the argument a reading's query takes its key as",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/readout-system/readouts/properties/query-key.text-property.ts b/readout-system/readouts/properties/query-key.text-property.ts
+index 2404951eb1b4b76c13bbb51a3e30985843ee3cc8..e4dfc35331caa12ca3e5908acf9ee9e4c95d0843 100644
+--- a/readout-system/readouts/properties/query-key.text-property.ts
++++ b/readout-system/readouts/properties/query-key.text-property.ts
+@@ -8,7 +8,7 @@ export const queryKey = {
+   slug: "query-key",
+   propertySlug: "query-key",
+   definition: "the number a reading takes where its query answers more than one",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/readout-system/readouts/properties/query-slug.text-property.ts b/readout-system/readouts/properties/query-slug.text-property.ts
+index 1665bbbaace90da32d0ee9f668f57c1df2f78df5..19b597960b35f8e0a935be38e940f102443b8567 100644
+--- a/readout-system/readouts/properties/query-slug.text-property.ts
++++ b/readout-system/readouts/properties/query-slug.text-property.ts
+@@ -8,7 +8,7 @@ export const querySlug = {
+   slug: "query-slug",
+   propertySlug: "query-slug",
+   definition: "the query a reading is answered by",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
