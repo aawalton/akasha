@@ -1,14 +1,22 @@
-readersOweReading: false
 diff --git a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
-index 04c3961ab38beaf87279042aeb222892b56c0342..f397fef468b3ad45f9cc07e952ea7b57ccbd36b4 100644
+index 04c3961ab38beaf87279042aeb222892b56c0342..89050feb69a10a54d07127078dd768e1caa10ff1 100644
 --- a/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
 +++ b/editor-extension/domain-tree-panel/domain-tree-panel.module.ts
-@@ -31,7 +31,7 @@ export const domainTreePanel = {
+@@ -31,11 +31,15 @@ export const domainTreePanel = {
      },
      {
        invariantKind: "departure",
 -      statement: "The rows the file carries are drawn as they are rather than spelled again.",
 +      statement: "The rows the file carries are drawn unchanged rather than spelled again.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row's champion is carried on, the panel making it the row's description.",
++      statement: "A row's champion is carried on.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The panel makes that champion the row's description.",
      },
      {
        invariantKind: "departure",
