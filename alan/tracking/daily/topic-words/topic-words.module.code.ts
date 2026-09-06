@@ -7,7 +7,7 @@ import {
   writeWisdomWords,
 } from "../write-daily-points/write-daily-points.module.code.ts"
 
-export const WORDS_COUNTED_FROM = "2026-09-03"
+export const WORDS_COUNTED_FROM = "2026-09-06"
 
 const WISDOM_PATHSPEC = ":(glob)alan/books/all-about-alan/topics/pages/**/*.all-about-alan-topic.ts"
 
