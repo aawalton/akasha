@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
-import { idFiled, listedFiled, pathFiled } from "@akasha/indexes/testing"
+import { idFiled, listedFiled, pathFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { shadowFor } from "@akasha/pages/shadow"
 import { change } from "../../../modules/check-scratch/check-scratch.module.code.ts"
 import type { Judged } from "../../../modules/judging/judging.module.code.ts"
@@ -103,6 +103,9 @@ function rooted(body: string): string {
   const held = [{ path: page, id: ID }]
   idFiled(root, ID, held)
   listedFiled(root, "name-format", "lower-kebab-case", held)
+  valueAlsoFiled(root, "name-format", [
+    { path: page, value: { id: ID, pageTypeSlug: "name-format", slug: "lower-kebab-case" } },
+  ])
   pathFiled(root, page, held)
   pathFiled(root, AT, held)
   return root
