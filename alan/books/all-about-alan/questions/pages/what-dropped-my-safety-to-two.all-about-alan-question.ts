@@ -5,5 +5,5 @@ export const whatDroppedMySafetyToTwo = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-dropped-my-safety-to-two",
   topicSlug: "the-budget-i-run-my-days-on",
-  ask: "Four to six was my normal safety not long ago and I have been at two to three this week. What took me down, and is that the same thing taking my sleep?",
+  ask: "Leaving recovery mode on July 6 is what took my safety down. Is that the same thing taking my sleep, or does the sleep run on a cause of its own?",
 } as const satisfies AllAboutAlanQuestion
