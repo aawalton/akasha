@@ -5240,3 +5240,737 @@ index 368f277d156ed4d9f7aa3cb745f929d937fb9ac2..15bc6f27e450d41523587868149948d9
 +  maxLength: 6000,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/story/designs/properties/design-version.text-property.ts b/story/designs/properties/design-version.text-property.ts
+index e5f55e44c92c0cefaf4e34592b357265e47a73fc..ed594888181cc6b169408de4f3096d3a626ad0d1 100644
+--- a/story/designs/properties/design-version.text-property.ts
++++ b/story/designs/properties/design-version.text-property.ts
+@@ -8,6 +8,6 @@ export const designVersion = {
+   slug: "design-version",
+   propertySlug: "version",
+   definition: "which revision of a design this is",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/dungeon-nature.text-property.ts b/story/designs/properties/dungeon-nature.text-property.ts
+index 3a87d177befa193df38bce9df9242be75039dbfa..29929c1d39d78881e4fbc56058ad881926e4cedd 100644
+--- a/story/designs/properties/dungeon-nature.text-property.ts
++++ b/story/designs/properties/dungeon-nature.text-property.ts
+@@ -8,6 +8,6 @@ export const dungeonNature = {
+   slug: "dungeon-nature",
+   propertySlug: "dungeon-nature",
+   definition: "what the dungeon a story is set in is",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/gbww-readings.text-property.ts b/story/designs/properties/gbww-readings.text-property.ts
+index d629e806b207b6b4cd0bb3aec3b96efb019add45..a34360c5426174733d8fce6513f01d791c8de4dd 100644
+--- a/story/designs/properties/gbww-readings.text-property.ts
++++ b/story/designs/properties/gbww-readings.text-property.ts
+@@ -8,6 +8,6 @@ export const gbwwReadings = {
+   slug: "gbww-readings",
+   propertySlug: "gbww-readings",
+   definition: "the Great Books readings a story is set against",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/memory-distribution.text-property.ts b/story/designs/properties/memory-distribution.text-property.ts
+index 33fb7f31e7b7a644e4db00a8343765a7dee69dc1..fb42a0dbb27779e6242f0d1dfd397205e7c3bace 100644
+--- a/story/designs/properties/memory-distribution.text-property.ts
++++ b/story/designs/properties/memory-distribution.text-property.ts
+@@ -8,6 +8,6 @@ export const memoryDistribution = {
+   slug: "memory-distribution",
+   propertySlug: "memory-distribution",
+   definition: "how what a story remembers is spread across it",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/narrator.text-property.ts b/story/designs/properties/narrator.text-property.ts
+index 46a195932e088885ff403de873db1d1d132e9d1b..31d230b3f804305661f5e547b6afacc5a1191c62 100644
+--- a/story/designs/properties/narrator.text-property.ts
++++ b/story/designs/properties/narrator.text-property.ts
+@@ -8,6 +8,6 @@ export const narrator = {
+   slug: "narrator",
+   propertySlug: "narrator",
+   definition: "who tells a story, and from where",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/series-name.text-property.ts b/story/designs/properties/series-name.text-property.ts
+index 4402da6a0c735ccaa81219b0f0170350cb38b356..1972cb41dc29b4bd5ffcda3d6889face0d189a44 100644
+--- a/story/designs/properties/series-name.text-property.ts
++++ b/story/designs/properties/series-name.text-property.ts
+@@ -8,6 +8,6 @@ export const seriesName = {
+   slug: "series-name",
+   propertySlug: "series-name",
+   definition: "the series a story is one of",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/series-status.text-property.ts b/story/designs/properties/series-status.text-property.ts
+index 57259f9da541434a89ed2e5a66c890156690462b..cc6ed8a96c1d7ffa768e810ab5026bf2d5b55a49 100644
+--- a/story/designs/properties/series-status.text-property.ts
++++ b/story/designs/properties/series-status.text-property.ts
+@@ -8,6 +8,6 @@ export const seriesStatus = {
+   slug: "series-status",
+   propertySlug: "series-status",
+   definition: "how far along the series a story is one of has got",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/story-genre.text-property.ts b/story/designs/properties/story-genre.text-property.ts
+index 89b380892f60bb5dfb4a73eda8906dc96223be5d..b8c70962a75ef5d5d29b978b2dee8646f02549f6 100644
+--- a/story/designs/properties/story-genre.text-property.ts
++++ b/story/designs/properties/story-genre.text-property.ts
+@@ -8,6 +8,6 @@ export const storyGenre = {
+   slug: "story-genre",
+   propertySlug: "genre",
+   definition: "a kind of story a design is written as",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/story-premise.text-property.ts b/story/designs/properties/story-premise.text-property.ts
+index f813d6ed9e847a45130afe09e6f0879ddbb0de17..5643ee63ff2d2a2a75e1c08980f8d7aabecb9a9b 100644
+--- a/story/designs/properties/story-premise.text-property.ts
++++ b/story/designs/properties/story-premise.text-property.ts
+@@ -8,6 +8,6 @@ export const storyPremise = {
+   slug: "story-premise",
+   propertySlug: "premise",
+   definition: "what a story is about, in the shape the story is told in",
+-  max: 8000,
++  maxLength: 8000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/story-reader-framing.text-property.ts b/story/designs/properties/story-reader-framing.text-property.ts
+index 50a6c8d141341bd2f4e2ed7772fe45657548031a..3d7797d38d15f9c0f59353ee460842c6aabad77d 100644
+--- a/story/designs/properties/story-reader-framing.text-property.ts
++++ b/story/designs/properties/story-reader-framing.text-property.ts
+@@ -8,6 +8,6 @@ export const storyReaderFraming = {
+   slug: "story-reader-framing",
+   propertySlug: "reader-framing",
+   definition: "what the reader is taken to be while reading",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/story-themes.text-property.ts b/story/designs/properties/story-themes.text-property.ts
+index 687e503548b8f9b7bbbda58ea8b919654e27955c..548cebb66341762f0a14f1632bb002155a8e863c 100644
+--- a/story/designs/properties/story-themes.text-property.ts
++++ b/story/designs/properties/story-themes.text-property.ts
+@@ -8,6 +8,6 @@ export const storyThemes = {
+   slug: "story-themes",
+   propertySlug: "themes",
+   definition: "what a story keeps returning to",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/story-tone.text-property.ts b/story/designs/properties/story-tone.text-property.ts
+index 074fd68d066281e0d78a8230cf9c07303986edb6..83be850bf1bb22b207b756e81aab32a4be55b8a1 100644
+--- a/story/designs/properties/story-tone.text-property.ts
++++ b/story/designs/properties/story-tone.text-property.ts
+@@ -8,6 +8,6 @@ export const storyTone = {
+   slug: "story-tone",
+   propertySlug: "tone",
+   definition: "how a story is meant to feel as it is read",
+-  max: 4000,
++  maxLength: 4000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/structure.text-property.ts b/story/designs/properties/structure.text-property.ts
+index 0be335c0067681b7b84c6f4ab7388f0d4a542f8e..0232e971935cc63db4db8929b105bd2ef3ab042b 100644
+--- a/story/designs/properties/structure.text-property.ts
++++ b/story/designs/properties/structure.text-property.ts
+@@ -8,6 +8,6 @@ export const structure = {
+   slug: "structure",
+   propertySlug: "structure",
+   definition: "how a story's parts are arranged",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/timeline-distribution.text-property.ts b/story/designs/properties/timeline-distribution.text-property.ts
+index 209356e66eab1cb686a9729fffe6abba249ca243..947b3295e1a411c0c489eaaa3147bf8a09bdebaa 100644
+--- a/story/designs/properties/timeline-distribution.text-property.ts
++++ b/story/designs/properties/timeline-distribution.text-property.ts
+@@ -8,6 +8,6 @@ export const timelineDistribution = {
+   slug: "timeline-distribution",
+   propertySlug: "timeline-distribution",
+   definition: "how a story's events are spread across its time",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/visual-style.text-property.ts b/story/designs/properties/visual-style.text-property.ts
+index 53344235fbf1c7c8bfe241c321db70df16d84b1b..a2975a3d011b5dbb0357e2162c521fb4a5afd595 100644
+--- a/story/designs/properties/visual-style.text-property.ts
++++ b/story/designs/properties/visual-style.text-property.ts
+@@ -8,6 +8,6 @@ export const visualStyle = {
+   slug: "visual-style",
+   propertySlug: "visual-style",
+   definition: "how a story's pictures are meant to look",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/designs/properties/writing-philosophy.text-property.ts b/story/designs/properties/writing-philosophy.text-property.ts
+index 7222681e2872bb70ee57220988fd647b1b270307..e6adff3737c7a12bf56aceb17ff120364cadec1e 100644
+--- a/story/designs/properties/writing-philosophy.text-property.ts
++++ b/story/designs/properties/writing-philosophy.text-property.ts
+@@ -8,6 +8,6 @@ export const writingPhilosophy = {
+   slug: "writing-philosophy",
+   propertySlug: "writing-philosophy",
+   definition: "the rules the writing of a story holds itself to",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/elements-played/properties/doing.text-property.ts b/story/elements-played/properties/doing.text-property.ts
+index c31e143c2fbec90ca8de831e8c3f6d3e3c25a014..921a4bdc77e2ca7417d3f79e1bfb886cb7700be5 100644
+--- a/story/elements-played/properties/doing.text-property.ts
++++ b/story/elements-played/properties/doing.text-property.ts
+@@ -8,6 +8,6 @@ export const doing = {
+   slug: "doing",
+   propertySlug: "doing",
+   definition: "how an element acts",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/elements-played/properties/feeling.text-property.ts b/story/elements-played/properties/feeling.text-property.ts
+index 6974beb146807eb16c17dbacff303f02984290a9..92112cd4fa810ac6b37ba0611f929485f9c2a251 100644
+--- a/story/elements-played/properties/feeling.text-property.ts
++++ b/story/elements-played/properties/feeling.text-property.ts
+@@ -8,6 +8,6 @@ export const feeling = {
+   slug: "feeling",
+   propertySlug: "feeling",
+   definition: "how an element is",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/elements-played/properties/knowing.text-property.ts b/story/elements-played/properties/knowing.text-property.ts
+index e638d014bd1f410d07c849a15fb8ccfdc326e3d5..c43c74fc0f9822d6c457afa21ff0849ca600877e 100644
+--- a/story/elements-played/properties/knowing.text-property.ts
++++ b/story/elements-played/properties/knowing.text-property.ts
+@@ -8,6 +8,6 @@ export const knowing = {
+   slug: "knowing",
+   propertySlug: "knowing",
+   definition: "what an element holds as so",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/elements-played/properties/perceiving.text-property.ts b/story/elements-played/properties/perceiving.text-property.ts
+index 75d0692ae2e5ac1108223127758e3815e5d1d559..6775c1585cce69e51901304eb4c95eaa6f3c744f 100644
+--- a/story/elements-played/properties/perceiving.text-property.ts
++++ b/story/elements-played/properties/perceiving.text-property.ts
+@@ -8,6 +8,6 @@ export const perceiving = {
+   slug: "perceiving",
+   propertySlug: "perceiving",
+   definition: "what an element takes in",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/elements-played/properties/wanting.text-property.ts b/story/elements-played/properties/wanting.text-property.ts
+index 6e0cdcf45cf04f55636a6e45f1b5c051ba90dd7b..66cdd24e65a290f78da7ca48c7c0d55bb1b7db6f 100644
+--- a/story/elements-played/properties/wanting.text-property.ts
++++ b/story/elements-played/properties/wanting.text-property.ts
+@@ -8,6 +8,6 @@ export const wanting = {
+   slug: "wanting",
+   propertySlug: "wanting",
+   definition: "what an element is after",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/games/properties/coordinator-agent.text-property.ts b/story/games/properties/coordinator-agent.text-property.ts
+index d164df2ed597582bccb3fa80ed4eab54ede42b4f..67f85123778529fc8359a64aa836f18116ba7fbe 100644
+--- a/story/games/properties/coordinator-agent.text-property.ts
++++ b/story/games/properties/coordinator-agent.text-property.ts
+@@ -8,6 +8,6 @@ export const coordinatorAgent = {
+   slug: "coordinator-agent",
+   propertySlug: "coordinator-agent",
+   definition: "the agent running the game master's side",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/games/properties/game-engine.text-property.ts b/story/games/properties/game-engine.text-property.ts
+index d19df31b3fd61e5c9b30ebb75400e46e904dab82..1d15a2cb6f1a46f9a7169bbc3b0d343407ba3aab 100644
+--- a/story/games/properties/game-engine.text-property.ts
++++ b/story/games/properties/game-engine.text-property.ts
+@@ -8,7 +8,7 @@ export const gameEngine = {
+   slug: "game-engine",
+   propertySlug: "game-engine",
+   definition: "the engine a game is run on",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/story/games/properties/genre.text-property.ts b/story/games/properties/genre.text-property.ts
+index 2b79cfecdc6bc72eeb069597766f844ed92cd886..c5eb2bd545a9ac19e82f80091295351d03dcc6d6 100644
+--- a/story/games/properties/genre.text-property.ts
++++ b/story/games/properties/genre.text-property.ts
+@@ -8,6 +8,6 @@ export const genre = {
+   slug: "genre",
+   propertySlug: "genre",
+   definition: "a kind of story a game belongs to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/story/games/properties/premise.text-property.ts b/story/games/properties/premise.text-property.ts
+index c0d2ba08bbbc3679127287ea0b981544aff0ef8b..ecf08861ddb8e423e9690e4920ecc51e85136e5f 100644
+--- a/story/games/properties/premise.text-property.ts
++++ b/story/games/properties/premise.text-property.ts
+@@ -8,6 +8,6 @@ export const premise = {
+   slug: "premise",
+   propertySlug: "premise",
+   definition: "what a game is about, said as the player meets it",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/games/properties/reader-framing.text-property.ts b/story/games/properties/reader-framing.text-property.ts
+index 20874f0dbefda8b5ad5578b6255f5a1ce1274486..8091c97b56d9cc70868589217d83acb159011233 100644
+--- a/story/games/properties/reader-framing.text-property.ts
++++ b/story/games/properties/reader-framing.text-property.ts
+@@ -8,6 +8,6 @@ export const readerFraming = {
+   slug: "reader-framing",
+   propertySlug: "reader-framing",
+   definition: "the person and tense a game is told in",
+-  max: 300,
++  maxLength: 300,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/games/properties/themes.text-property.ts b/story/games/properties/themes.text-property.ts
+index 8371141216ebc3f1cc82c2cc061d3002e5701d7c..8709f926e5277f703a2eadb16e1c534dbd318cd9 100644
+--- a/story/games/properties/themes.text-property.ts
++++ b/story/games/properties/themes.text-property.ts
+@@ -8,6 +8,6 @@ export const themes = {
+   slug: "themes",
+   propertySlug: "themes",
+   definition: "what a game keeps returning to, said in a line",
+-  max: 300,
++  maxLength: 300,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/games/properties/tone.text-property.ts b/story/games/properties/tone.text-property.ts
+index 3f6ae85129b41370730be5f7d1f9e30b937f870d..d3d4f946a6c4c737a5ea80cb710bf0b9097ba20b 100644
+--- a/story/games/properties/tone.text-property.ts
++++ b/story/games/properties/tone.text-property.ts
+@@ -8,6 +8,6 @@ export const tone = {
+   slug: "tone",
+   propertySlug: "tone",
+   definition: "how a game is meant to feel to play",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/named-events/properties/event-aliases.text-property.ts b/story/named-events/properties/event-aliases.text-property.ts
+index b8c07fbb4fda7b8585927136c94ef009164a8aec..ee04c95782a446fd46d7f83b4d1f3c86ee09422a 100644
+--- a/story/named-events/properties/event-aliases.text-property.ts
++++ b/story/named-events/properties/event-aliases.text-property.ts
+@@ -8,6 +8,6 @@ export const eventAliases = {
+   slug: "event-aliases",
+   propertySlug: "aliases",
+   definition: "the other names the story calls it by",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/named-events/properties/evidence-chapter.text-property.ts b/story/named-events/properties/evidence-chapter.text-property.ts
+index ec156dde382d77bcae1be66a4dfd9a29be43126f..57a44327eddb8c3ecfed28d1b6044aa29e231c81 100644
+--- a/story/named-events/properties/evidence-chapter.text-property.ts
++++ b/story/named-events/properties/evidence-chapter.text-property.ts
+@@ -8,6 +8,6 @@ export const evidenceChapter = {
+   slug: "evidence-chapter",
+   propertySlug: "evidence-chapter",
+   definition: "the chapter the wording placing it is in",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/named-events/properties/evidence-note.text-property.ts b/story/named-events/properties/evidence-note.text-property.ts
+index 0592585271d195d24305459427b101d3b9abdaca..e3db8dc983a2dde0630a579707a488488073845f 100644
+--- a/story/named-events/properties/evidence-note.text-property.ts
++++ b/story/named-events/properties/evidence-note.text-property.ts
+@@ -8,6 +8,6 @@ export const evidenceNote = {
+   slug: "evidence-note",
+   propertySlug: "evidence-note",
+   definition: "the wording it was placed from, and who placed it",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/stories-read/properties/external-tags.text-property.ts b/story/stories-read/properties/external-tags.text-property.ts
+index d5d7a52b80345c0f34e536064624352541ac66c1..7531c7ffe288f5220cfc19c58060c171bfcc505f 100644
+--- a/story/stories-read/properties/external-tags.text-property.ts
++++ b/story/stories-read/properties/external-tags.text-property.ts
+@@ -8,7 +8,7 @@ export const externalTags = {
+   slug: "external-tags",
+   propertySlug: "external-tags",
+   definition: "a word the source files a collection under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/story/story-chapters-read/properties/anchor-chapter.text-property.ts b/story/story-chapters-read/properties/anchor-chapter.text-property.ts
+index 00e1c3b5682c20a0c42f7b7d83940471e43a3035..a4ebaf862c4bee848dd8cdb12fdd3f61b4fe5ea1 100644
+--- a/story/story-chapters-read/properties/anchor-chapter.text-property.ts
++++ b/story/story-chapters-read/properties/anchor-chapter.text-property.ts
+@@ -8,6 +8,6 @@ export const anchorChapter = {
+   slug: "anchor-chapter",
+   propertySlug: "chapter",
+   definition: "the chapter the dating words are in",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/story-chapters-read/properties/anchor-claimed-by.text-property.ts b/story/story-chapters-read/properties/anchor-claimed-by.text-property.ts
+index 2e271c695c1a6728acfadf8f20e91ed71ea7cc0c..d240cdfc7e36a9df0249635034ad41946101d66e 100644
+--- a/story/story-chapters-read/properties/anchor-claimed-by.text-property.ts
++++ b/story/story-chapters-read/properties/anchor-claimed-by.text-property.ts
+@@ -8,7 +8,7 @@ export const anchorClaimedBy = {
+   slug: "anchor-claimed-by",
+   propertySlug: "claimed-by",
+   definition: "who in the story said the anchor",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/story/story-chapters-read/properties/anchor-lexeme.text-property.ts b/story/story-chapters-read/properties/anchor-lexeme.text-property.ts
+index 15796e48e8590742308ecb014c0e2219614825a1..c12662e9661b4459c066b4ca260bcfc7b252c39b 100644
+--- a/story/story-chapters-read/properties/anchor-lexeme.text-property.ts
++++ b/story/story-chapters-read/properties/anchor-lexeme.text-property.ts
+@@ -8,7 +8,7 @@ export const anchorLexeme = {
+   slug: "anchor-lexeme",
+   propertySlug: "lexeme",
+   definition: "the words in the chapter that do the dating",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/story/story-chapters-read/properties/anchor-reference.text-property.ts b/story/story-chapters-read/properties/anchor-reference.text-property.ts
+index eef8db3721ccfa1fa89e2339eabc5ee963e00e49..f470e3e0867ad0dab729f381b2a01e4bf62d17cf 100644
+--- a/story/story-chapters-read/properties/anchor-reference.text-property.ts
++++ b/story/story-chapters-read/properties/anchor-reference.text-property.ts
+@@ -8,7 +8,7 @@ export const anchorReference = {
+   slug: "anchor-reference",
+   propertySlug: "reference",
+   definition: "what an anchor is read against",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/story/world-mechanics/properties/aliases.text-property.ts b/story/world-mechanics/properties/aliases.text-property.ts
+index eecafefb84fd83c7b5a3fdf51c72719d1ead5a62..c113fdcc8d229a002653adf643c667509f1e7395 100644
+--- a/story/world-mechanics/properties/aliases.text-property.ts
++++ b/story/world-mechanics/properties/aliases.text-property.ts
+@@ -9,7 +9,7 @@ export const aliases = {
+   slug: "aliases",
+   propertySlug: "aliases",
+   definition: "another name the text writes a thing under",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/story/world-mechanics/properties/chapter-slug.text-property.ts b/story/world-mechanics/properties/chapter-slug.text-property.ts
+index a3bd9dd896a1d093bd79b46748beab3ef47b8ce4..420c871ff6414023c9d7691b56ac065ad5382251 100644
+--- a/story/world-mechanics/properties/chapter-slug.text-property.ts
++++ b/story/world-mechanics/properties/chapter-slug.text-property.ts
+@@ -8,6 +8,6 @@ export const chapterSlug = {
+   slug: "chapter-slug",
+   propertySlug: "chapter-slug",
+   definition: "the chapter of a story a naming is in",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/world-mechanics/properties/claimed-by-slug.text-property.ts b/story/world-mechanics/properties/claimed-by-slug.text-property.ts
+index ef1d1e082ec0774d084fc1eeda5f33f4cf2f52d6..44cf68978ecca396c40b500c0329be9e38826878 100644
+--- a/story/world-mechanics/properties/claimed-by-slug.text-property.ts
++++ b/story/world-mechanics/properties/claimed-by-slug.text-property.ts
+@@ -8,6 +8,6 @@ export const claimedBySlug = {
+   slug: "claimed-by-slug",
+   propertySlug: "claimed-by-slug",
+   definition: "the character the text is read as giving it to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/story/world-mechanics/properties/effect-quote.text-property.ts b/story/world-mechanics/properties/effect-quote.text-property.ts
+index b76e37428a2a5facfa302aead5dc72aad7552e66..d878e1d3c3dc2b49113db3e44380ee75d1770fdd 100644
+--- a/story/world-mechanics/properties/effect-quote.text-property.ts
++++ b/story/world-mechanics/properties/effect-quote.text-property.ts
+@@ -8,6 +8,6 @@ export const effectQuote = {
+   slug: "effect-quote",
+   propertySlug: "effect-quote",
+   definition: "the sentence what the mechanic did is read out of",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/world-mechanics/properties/evolves-from-slugs.text-property.ts b/story/world-mechanics/properties/evolves-from-slugs.text-property.ts
+index fdce9269b7301179f02b831565e34628a8dc863d..87766ab24a19aa59519413d4deca9e9cbe616dab 100644
+--- a/story/world-mechanics/properties/evolves-from-slugs.text-property.ts
++++ b/story/world-mechanics/properties/evolves-from-slugs.text-property.ts
+@@ -9,7 +9,7 @@ export const evolvesFromSlugs = {
+   slug: "evolves-from-slugs",
+   propertySlug: "evolves-from-slugs",
+   definition: "every mechanic this one is reached from",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/story/world-mechanics/properties/evolves-to-slugs.text-property.ts b/story/world-mechanics/properties/evolves-to-slugs.text-property.ts
+index 3f73963c0a638ec11c7d84e3404c2f7ebb7de031..2a8ba0de86ffd2b0584978ce87992ac8388bf853 100644
+--- a/story/world-mechanics/properties/evolves-to-slugs.text-property.ts
++++ b/story/world-mechanics/properties/evolves-to-slugs.text-property.ts
+@@ -9,7 +9,7 @@ export const evolvesToSlugs = {
+   slug: "evolves-to-slugs",
+   propertySlug: "evolves-to-slugs",
+   definition: "every mechanic this one reaches",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/story/world-mechanics/properties/from-slug.text-property.ts b/story/world-mechanics/properties/from-slug.text-property.ts
+index 74a89e342016978a4419edae30f13574de3efb53..90a0c55c53033a346d7d36c79d43eb56ca8d04fa 100644
+--- a/story/world-mechanics/properties/from-slug.text-property.ts
++++ b/story/world-mechanics/properties/from-slug.text-property.ts
+@@ -8,6 +8,6 @@ export const fromSlug = {
+   slug: "from-slug",
+   propertySlug: "from-slug",
+   definition: "the mechanic an evolution left",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/story/world-mechanics/properties/holder-quote.text-property.ts b/story/world-mechanics/properties/holder-quote.text-property.ts
+index bbf8d0dbf26bef1dccb29253166eeff1d4badc71..5c80c93e6cc389e941a8cbaf27430eaa8a744e02 100644
+--- a/story/world-mechanics/properties/holder-quote.text-property.ts
++++ b/story/world-mechanics/properties/holder-quote.text-property.ts
+@@ -8,6 +8,6 @@ export const holderQuote = {
+   slug: "holder-quote",
+   propertySlug: "holder-quote",
+   definition: "the sentence a holder is read out of",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/world-mechanics/properties/holder-slug.text-property.ts b/story/world-mechanics/properties/holder-slug.text-property.ts
+index ca6b51335cf9d6a0f1cbee5fbdbab65c458fbc73..057d3c367b250482bc463548be4e8364bf87edbf 100644
+--- a/story/world-mechanics/properties/holder-slug.text-property.ts
++++ b/story/world-mechanics/properties/holder-slug.text-property.ts
+@@ -8,6 +8,6 @@ export const holderSlug = {
+   slug: "holder-slug",
+   propertySlug: "holder-slug",
+   definition: "the character a naming gives the mechanic to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/story/world-mechanics/properties/reference-event.text-property.ts b/story/world-mechanics/properties/reference-event.text-property.ts
+index b3826ebb4cea44a7966dc2dd2e565017f6367a5f..0ee04999414ced8d5239fd0e987abe022c5a31fc 100644
+--- a/story/world-mechanics/properties/reference-event.text-property.ts
++++ b/story/world-mechanics/properties/reference-event.text-property.ts
+@@ -8,6 +8,6 @@ export const referenceEvent = {
+   slug: "reference-event",
+   propertySlug: "event",
+   definition: "what happened to the mechanic where the text named it",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/story/world-mechanics/properties/reference-kind.text-property.ts b/story/world-mechanics/properties/reference-kind.text-property.ts
+index 0889477dcc5887b3a1b1227fa6dbe67c83ba5700..51e1380cbc3d874b0a4a51f704675e921ce3aef0 100644
+--- a/story/world-mechanics/properties/reference-kind.text-property.ts
++++ b/story/world-mechanics/properties/reference-kind.text-property.ts
+@@ -8,6 +8,6 @@ export const referenceKind = {
+   slug: "reference-kind",
+   propertySlug: "kind",
+   definition: "which kind of mechanic a naming reads as",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/story/world-mechanics/properties/to-slug.text-property.ts b/story/world-mechanics/properties/to-slug.text-property.ts
+index c1dd85a20661e25288e0422ff5c2752f7b020c82..50ab6301efc1c97491f38cd5931e0ce5596c0276 100644
+--- a/story/world-mechanics/properties/to-slug.text-property.ts
++++ b/story/world-mechanics/properties/to-slug.text-property.ts
+@@ -8,6 +8,6 @@ export const toSlug = {
+   slug: "to-slug",
+   propertySlug: "to-slug",
+   definition: "the mechanic an evolution reached",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/story/world-mechanics/properties/wording.text-property.ts b/story/world-mechanics/properties/wording.text-property.ts
+index 140489265385027a72ad22e7310fc8e93c02fe11..b80a05563d3f6c8b295ce1b4ad2da4891375facd 100644
+--- a/story/world-mechanics/properties/wording.text-property.ts
++++ b/story/world-mechanics/properties/wording.text-property.ts
+@@ -8,6 +8,6 @@ export const wording = {
+   slug: "wording",
+   propertySlug: "wording",
+   definition: "the name as that one place in the text wrote it",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/worlds/properties/character-slug.text-property.ts b/story/worlds/properties/character-slug.text-property.ts
+index bc98c9f841ad41d95269531b19caf4bde303cb63..f6a928dd39600b395babec8c49841af088c262e0 100644
+--- a/story/worlds/properties/character-slug.text-property.ts
++++ b/story/worlds/properties/character-slug.text-property.ts
+@@ -8,7 +8,7 @@ export const characterSlug = {
+   slug: "character-slug",
+   propertySlug: "character-slug",
+   definition: "the character a reading reaches",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/story/worlds/properties/mechanic-slug.text-property.ts b/story/worlds/properties/mechanic-slug.text-property.ts
+index 094418811c217f90c0686d940ebfd0ab0ec75a60..13ac6cc38af1775a8448ad9c38407df80b0dc1ed 100644
+--- a/story/worlds/properties/mechanic-slug.text-property.ts
++++ b/story/worlds/properties/mechanic-slug.text-property.ts
+@@ -8,7 +8,7 @@ export const mechanicSlug = {
+   slug: "mechanic-slug",
+   propertySlug: "mechanic-slug",
+   definition: "the mechanic a reading reaches",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/story/worlds/properties/reading-kind.text-property.ts b/story/worlds/properties/reading-kind.text-property.ts
+index 4101c2a000ee2203cbbf085003568a4fa3ecc583..aaf4faaadaf3f8945d6ad33955667f949f1a73eb 100644
+--- a/story/worlds/properties/reading-kind.text-property.ts
++++ b/story/worlds/properties/reading-kind.text-property.ts
+@@ -30,7 +30,7 @@ export const readingKind = {
+   slug: "reading-kind",
+   propertySlug: "reading-kind",
+   definition: "what sort of thing a name in a world's text names",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/story/worlds/properties/reading-name.text-property.ts b/story/worlds/properties/reading-name.text-property.ts
+index 17f77a401aa6d5371b579066713eb9bb4519139d..1dafa9c73cc5655a5283ca05325f7d1a16bada62 100644
+--- a/story/worlds/properties/reading-name.text-property.ts
++++ b/story/worlds/properties/reading-name.text-property.ts
+@@ -8,6 +8,6 @@ export const readingName = {
+   slug: "reading-name",
+   propertySlug: "reading-name",
+   definition: "the name as a world's text writes it",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/story/worlds/properties/reading-slug.text-property.ts b/story/worlds/properties/reading-slug.text-property.ts
+index 619c69163f517d7b39b8a88cf979bfc1ab17b486..78630ec1fb0936cb2b54bd847c3fe9a4b38e2697 100644
+--- a/story/worlds/properties/reading-slug.text-property.ts
++++ b/story/worlds/properties/reading-slug.text-property.ts
+@@ -8,7 +8,7 @@ export const readingSlug = {
+   slug: "reading-slug",
+   propertySlug: "reading-slug",
+   definition: "the name a reading is looked up by",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/achievement-name.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/achievement-name.text-property.ts
+index 4de0bebd769c63e2127f4b63ce5f9ba7bb64313e..580d89bef3c1a629c55ddd3a99c0090aee5d0031 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/achievement-name.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/achievement-name.text-property.ts
+@@ -8,6 +8,6 @@ export const achievementName = {
+   slug: "achievement-name",
+   propertySlug: "name",
+   definition: "the name an achievement is shown under",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/armor-weight.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/armor-weight.text-property.ts
+index bbbff34433640d3f0223dfefb2551bc01380539c..432ca3ff3ee7f1977c36e3a215c2f3722abedcb5 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/armor-weight.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/armor-weight.text-property.ts
+@@ -8,6 +8,6 @@ export const armorWeight = {
+   slug: "armor-weight",
+   propertySlug: "armor-weight",
+   definition: "how heavy a piece of armor is",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/buff-id.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/buff-id.text-property.ts
+index 469056899044aed3fe467c89cc3d876427e42401..f01ffbfe60a070c5a99368c239d8f4f966f4fbda 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/buff-id.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/buff-id.text-property.ts
+@@ -8,7 +8,7 @@ export const buffId = {
+   slug: "buff-id",
+   propertySlug: "buff-id",
+   definition: "the helpful effect a thing puts on whoever uses it",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a buff." }],
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/debuff-id.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/debuff-id.text-property.ts
+index 508e2e049c1bd039c117d08660103e779980cbcc..352eaf795fc7aac8d92304d373d470fff7549c81 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/debuff-id.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/debuff-id.text-property.ts
+@@ -8,7 +8,7 @@ export const debuffId = {
+   slug: "debuff-id",
+   propertySlug: "debuff-id",
+   definition: "the harmful effect a thing puts on whoever it is used against",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [{ invariantKind: "gap", statement: "This property is a relation to a debuff." }],
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/effect-type.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/effect-type.text-property.ts
+index 757c17733f304a4a76ce3ba4a4025ddb6399d4e3..f27af37f2a9cf0ef45340060812fbcd3ec3609a5 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/effect-type.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/effect-type.text-property.ts
+@@ -8,6 +8,6 @@ export const effectType = {
+   slug: "effect-type",
+   propertySlug: "type",
+   definition: "how an effect's value is read against the metric the effect moves",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/temper/temper-catalog/temper-catalog-things/properties/effect-weapon-types.text-property.ts b/temper/temper-catalog/temper-catalog-things/properties/effect-weapon-types.text-property.ts
+index de4b128095946cd0507b8f84957b121f17cdeb3b..34d8de876c2a30dde2ed84d954c362f33358ed9a 100644
+--- a/temper/temper-catalog/temper-catalog-things/properties/effect-weapon-types.text-property.ts
++++ b/temper/temper-catalog/temper-catalog-things/properties/effect-weapon-types.text-property.ts
+@@ -8,6 +8,6 @@ export const effectWeaponTypes = {
+   slug: "effect-weapon-types",
+   propertySlug: "weapon-types",
+   definition: "a weapon an effect holds for",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
