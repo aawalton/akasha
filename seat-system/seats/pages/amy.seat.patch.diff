@@ -40,3 +40,30 @@ index 8f7c9fd2129b4d661c80b694f782c1b67c60a571..60a194347dd7bc62aa34ac2e574d6ef1
 +  if (here.sourceFile !== null) return here
 +  return parseHealthExport(await runSshCapture(MACBOOK, script))
  }
+diff --git a/health-samples-import/export-fetching/export-fetching.module.ts b/health-samples-import/export-fetching/export-fetching.module.ts
+index bff74093685b24d518f4d0cbb74b1a1339944a86..80a7388790ff20ebfb8d5fa646f96dc374dc967d 100644
+--- a/health-samples-import/export-fetching/export-fetching.module.ts
++++ b/health-samples-import/export-fetching/export-fetching.module.ts
+@@ -4,9 +4,21 @@ export const exportFetching = {
+   id: "01a05c14-b11a-7000-a275-a3e0c5949f69",
+   pageTypeSlug: "module",
+   slug: "export-fetching",
+-  definition: "an export fetched off the laptop and parsed",
++  definition: "an export read off this workstation or off the laptop, and parsed",
+   code: "ts",
+   invariants: [
++    {
++      invariantKind: "departure",
++      statement: "This workstation is looked in before the laptop is asked.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A workstation holding no export falls through to the laptop.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "One script reads either machine.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing is kept on disk between the fetch and the parse.",
