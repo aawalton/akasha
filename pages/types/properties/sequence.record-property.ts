@@ -16,9 +16,9 @@ export const sequence = {
   propertySlug: "sequence",
   definition: "how a page type's pages are grouped and ordered when one is read after another",
   properties: [
-    { pagePropertySlug: "sequence-group-by", required: true, many: false },
-    { pagePropertySlug: "sequence-order-by", required: true, many: false },
-    { pagePropertySlug: "sequence-direction", required: false, many: false },
+    { pagePropertySlug: "text-property/sequence-group-by", required: true, many: false },
+    { pagePropertySlug: "text-property/sequence-order-by", required: true, many: false },
+    { pagePropertySlug: "text-property/sequence-direction", required: false, many: false },
   ],
   invariants: [
     {

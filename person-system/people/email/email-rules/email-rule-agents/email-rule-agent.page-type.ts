@@ -14,7 +14,9 @@ export const emailRuleAgent = {
   pluralSlug: "email-rule-agents",
   extendsSlug: ["page-type/email-rule"],
   partSlugs: ["text-property/email-rule-judgement"],
-  properties: [{ pagePropertySlug: "email-rule-judgement", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "text-property/email-rule-judgement", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",

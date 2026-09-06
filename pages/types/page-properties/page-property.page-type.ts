@@ -28,9 +28,9 @@ export const pageProperty = {
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "property-slug", required: true, many: false },
-    { pagePropertySlug: "generator", required: false, many: false },
-    { pagePropertySlug: "unique", required: false, many: false },
+    { pagePropertySlug: "text-property/property-slug", required: true, many: false },
+    { pagePropertySlug: "relation-property/generator", required: false, many: false },
+    { pagePropertySlug: "relation-property/unique", required: false, many: false },
   ],
   invariants: [
     {

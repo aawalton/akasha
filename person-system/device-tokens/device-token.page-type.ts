@@ -27,11 +27,15 @@ export const deviceToken = {
     "text-property/device-token-token",
   ],
   properties: [
-    { pagePropertySlug: "device-token-person-slug", required: true, many: false },
-    { pagePropertySlug: "device-token-ios-app-slug", required: true, many: false },
-    { pagePropertySlug: "device-token-token", required: true, many: false },
+    { pagePropertySlug: "relation-property/device-token-person-slug", required: true, many: false },
     {
-      pagePropertySlug: "device-token-last-seen-at",
+      pagePropertySlug: "relation-property/device-token-ios-app-slug",
+      required: true,
+      many: false,
+    },
+    { pagePropertySlug: "text-property/device-token-token", required: true, many: false },
+    {
+      pagePropertySlug: "instant-property/device-token-last-seen-at",
       required: false,
       many: false,
       uncommitted: true,

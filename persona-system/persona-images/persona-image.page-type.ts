@@ -25,10 +25,10 @@ export const personaImage = {
     "text-property/image-root",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "image-persona-slug", required: true, many: false },
-    { pagePropertySlug: "image-path", required: false, many: false },
-    { pagePropertySlug: "image-root", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/image-persona-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/image-path", required: false, many: false },
+    { pagePropertySlug: "text-property/image-root", required: false, many: false },
   ],
   invariants: [
     {

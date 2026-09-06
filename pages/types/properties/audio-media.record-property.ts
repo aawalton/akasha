@@ -16,9 +16,9 @@ export const audioMedia = {
   propertySlug: "audio",
   definition: "the audio a page type's pages are rendered as, and what it is rendered from",
   properties: [
-    { pagePropertySlug: "media-source-property-id", required: true, many: false },
-    { pagePropertySlug: "media-renderer", required: true, many: false },
-    { pagePropertySlug: "media-variant-axis", required: false, many: false },
+    { pagePropertySlug: "text-property/media-source-property-id", required: true, many: false },
+    { pagePropertySlug: "text-property/media-renderer", required: true, many: false },
+    { pagePropertySlug: "text-property/media-variant-axis", required: false, many: false },
   ],
   invariants: [
     {

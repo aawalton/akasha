@@ -17,7 +17,7 @@ export const textProperty = {
   partSlugs: ["relation-property/name-format-slug"],
   extendsSlug: ["page-type/page-property"],
   properties: [
-    { pagePropertySlug: "max", required: true, many: false },
-    { pagePropertySlug: "name-format-slug", required: true, many: false },
+    { pagePropertySlug: "number-property/max", required: true, many: false },
+    { pagePropertySlug: "relation-property/name-format-slug", required: true, many: false },
   ],
 } as const satisfies PageType

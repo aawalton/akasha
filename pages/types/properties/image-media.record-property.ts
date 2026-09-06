@@ -11,7 +11,7 @@ export const imageMedia = {
   slug: "image-media",
   propertySlug: "image",
   definition: "the image a page type's pages are rendered as",
-  properties: [{ pagePropertySlug: "media-renderer", required: true, many: false }],
+  properties: [{ pagePropertySlug: "text-property/media-renderer", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

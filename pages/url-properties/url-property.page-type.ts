@@ -13,7 +13,7 @@ export const urlProperty = {
   definition: "a page property holding a web address",
   pluralSlug: "url-properties",
   extendsSlug: ["page-type/page-property"],
-  properties: [{ pagePropertySlug: "max", required: true, many: false }],
+  properties: [{ pagePropertySlug: "number-property/max", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

@@ -26,10 +26,19 @@ export const emailRuleCode = {
     "text-property/email-rule-code-delay",
   ],
   properties: [
-    { pagePropertySlug: "email-rule-code-filing", required: true, many: false },
-    { pagePropertySlug: "email-rule-code-actions", required: false, many: true, max: 2 },
-    { pagePropertySlug: "email-rule-code-delay", required: false, many: false },
-    { pagePropertySlug: "email-rule-code-forward-to-slug", required: false, many: false },
+    { pagePropertySlug: "select-property/email-rule-code-filing", required: true, many: false },
+    {
+      pagePropertySlug: "select-property/email-rule-code-actions",
+      required: false,
+      many: true,
+      max: 2,
+    },
+    { pagePropertySlug: "text-property/email-rule-code-delay", required: false, many: false },
+    {
+      pagePropertySlug: "relation-property/email-rule-code-forward-to-slug",
+      required: false,
+      many: false,
+    },
   ],
   invariants: [
     {

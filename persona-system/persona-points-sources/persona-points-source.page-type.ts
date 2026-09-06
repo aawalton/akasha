@@ -38,14 +38,19 @@ export const personaPointsSource = {
     "text-property/points-source-readings",
   ],
   properties: [
-    { pagePropertySlug: "source-persona-slug", required: true, many: false },
-    { pagePropertySlug: "points-source-kind", required: true, many: false },
-    { pagePropertySlug: "points-source-marker", required: false, many: false },
-    { pagePropertySlug: "points-source-aggregate", required: false, many: false },
-    { pagePropertySlug: "points-source-path-prefix", required: false, many: false },
-    { pagePropertySlug: "points-source-point-field", required: false, many: false },
-    { pagePropertySlug: "points-source-weight-field", required: false, many: false },
-    { pagePropertySlug: "points-source-readings", required: false, many: true, max: null },
+    { pagePropertySlug: "relation-property/source-persona-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/points-source-kind", required: true, many: false },
+    { pagePropertySlug: "text-property/points-source-marker", required: false, many: false },
+    { pagePropertySlug: "text-property/points-source-aggregate", required: false, many: false },
+    { pagePropertySlug: "text-property/points-source-path-prefix", required: false, many: false },
+    { pagePropertySlug: "text-property/points-source-point-field", required: false, many: false },
+    { pagePropertySlug: "text-property/points-source-weight-field", required: false, many: false },
+    {
+      pagePropertySlug: "text-property/points-source-readings",
+      required: false,
+      many: true,
+      max: null,
+    },
   ],
   invariants: [
     {

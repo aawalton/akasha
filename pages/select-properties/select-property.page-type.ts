@@ -14,7 +14,9 @@ export const selectProperty = {
   pluralSlug: "select-properties",
   partSlugs: ["text-property/select-values"],
   extendsSlug: ["page-type/page-property"],
-  properties: [{ pagePropertySlug: "select-values", required: true, many: true, max: null }],
+  properties: [
+    { pagePropertySlug: "text-property/select-values", required: true, many: true, max: null },
+  ],
   invariants: [
     {
       invariantKind: "departure",

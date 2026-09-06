@@ -23,11 +23,11 @@ export const reviewSession = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["file-property/review-session-notes", "relation-property/session-persona-slug"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "session-persona-slug", required: true, many: false },
-    { pagePropertySlug: "date", required: true, many: false },
-    { pagePropertySlug: "review-session-notes", required: true, many: false },
-    { pagePropertySlug: "icon", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "relation-property/session-persona-slug", required: true, many: false },
+    { pagePropertySlug: "text-property/date", required: true, many: false },
+    { pagePropertySlug: "file-property/review-session-notes", required: true, many: false },
+    { pagePropertySlug: "text-property/icon", required: false, many: false },
   ],
   invariants: [
     {

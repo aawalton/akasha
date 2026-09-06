@@ -39,12 +39,12 @@ export const closenessLevel = {
     "text-property/wardrobe",
   ],
   properties: [
-    { pagePropertySlug: "level", required: true, many: false },
-    { pagePropertySlug: "days-to-here", required: true, many: false },
-    { pagePropertySlug: "days-to-next", required: true, many: false },
-    { pagePropertySlug: "stage", required: true, many: false },
-    { pagePropertySlug: "wardrobe", required: true, many: false },
-    { pagePropertySlug: "pose", required: true, many: false },
+    { pagePropertySlug: "number-property/level", required: true, many: false },
+    { pagePropertySlug: "number-property/days-to-here", required: true, many: false },
+    { pagePropertySlug: "number-property/days-to-next", required: true, many: false },
+    { pagePropertySlug: "text-property/stage", required: true, many: false },
+    { pagePropertySlug: "text-property/wardrobe", required: true, many: false },
+    { pagePropertySlug: "text-property/pose", required: true, many: false },
   ],
   invariants: [
     {

@@ -14,8 +14,8 @@ export const childCollection = {
   propertySlug: "child-collection",
   definition: "the pages a page gathers, and the key by which each names the page gathering it",
   properties: [
-    { pagePropertySlug: "child-type", required: true, many: false },
-    { pagePropertySlug: "child-relation", required: true, many: false },
+    { pagePropertySlug: "relation-property/child-type", required: true, many: false },
+    { pagePropertySlug: "text-property/child-relation", required: true, many: false },
   ],
   invariants: [
     {

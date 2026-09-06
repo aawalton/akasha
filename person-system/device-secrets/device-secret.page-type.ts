@@ -26,10 +26,10 @@ export const deviceSecret = {
     "text-property/device-secret-user-id",
   ],
   properties: [
-    { pagePropertySlug: "device-secret-user-id", required: true, many: false },
-    { pagePropertySlug: "device-secret-device-id", required: true, many: false },
-    { pagePropertySlug: "device-secret-hash", required: true, many: false },
-    { pagePropertySlug: "device-secret-revoked-at", required: false, many: false },
+    { pagePropertySlug: "text-property/device-secret-user-id", required: true, many: false },
+    { pagePropertySlug: "text-property/device-secret-device-id", required: true, many: false },
+    { pagePropertySlug: "text-property/device-secret-hash", required: true, many: false },
+    { pagePropertySlug: "instant-property/device-secret-revoked-at", required: false, many: false },
   ],
   mortal: true,
   invariants: [

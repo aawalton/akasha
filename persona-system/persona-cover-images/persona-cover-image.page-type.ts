@@ -14,7 +14,9 @@ export const personaCoverImage = {
   pluralSlug: "persona-cover-images",
   extendsSlug: ["page-type/persona-image"],
   partSlugs: [],
-  properties: [{ pagePropertySlug: "relationship-level", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "number-property/relationship-level", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",

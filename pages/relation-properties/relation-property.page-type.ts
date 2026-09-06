@@ -14,7 +14,9 @@ export const relationProperty = {
   pluralSlug: "relation-properties",
   partSlugs: ["relation-property/target-page-type-slug"],
   extendsSlug: ["page-type/page-property"],
-  properties: [{ pagePropertySlug: "target-page-type-slug", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "relation-property/target-page-type-slug", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",

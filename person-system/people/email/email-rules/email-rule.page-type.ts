@@ -22,8 +22,8 @@ export const emailRule = {
     "text-property/email-rule-match-values",
   ],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "email-rule-matches", required: true, many: true, max: 10 },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "record-property/email-rule-matches", required: true, many: true, max: 10 },
   ],
   invariants: [
     {

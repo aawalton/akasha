@@ -19,9 +19,9 @@ export const gmailMailbox = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["page-property-entry/processed-messages"],
   properties: [
-    { pagePropertySlug: "title", required: true, many: false },
-    { pagePropertySlug: "email-address", required: true, many: false },
-    { pagePropertySlug: "processed-messages", required: false, many: false },
+    { pagePropertySlug: "text-property/title", required: true, many: false },
+    { pagePropertySlug: "email-address-property/email-address", required: true, many: false },
+    { pagePropertySlug: "page-property-entry/processed-messages", required: false, many: false },
   ],
   invariants: [
     {
