@@ -1,0 +1,73 @@
+runsWarrants: false
+diff --git a/pages/ui/package.json b/pages/ui/package.json
+index 6bc84090496628106f8943837c75ea53bb08c2c8..6e992cf6d1050ce318600e01f3a80d608a01fadc 100644
+--- a/pages/ui/package.json
++++ b/pages/ui/package.json
+@@ -101,7 +101,6 @@
+     "./supabase/use-option-list-lookup": "./supabase/use-option-list-lookup/use-option-list-lookup.module.code.ts",
+     "./supabase/use-page": "./supabase/use-page/use-page.module.code.ts",
+     "./supabase/use-page-type-directory": "./supabase/use-page-type-directory/use-page-type-directory.module.code.ts",
+-    "./supabase/use-pages": "./supabase/use-pages/use-pages.module.code.ts",
+     "./supabase/use-reader-neighbors": "./supabase/use-reader-neighbors/use-reader-neighbors.module.code.ts",
+     "./supabase/use-record-page-view": "./supabase/use-record-page-view/use-record-page-view.module.code.ts",
+     "./supabase/use-referrers": "./supabase/use-referrers/use-referrers.module.code.ts",
+diff --git a/pages/ui/supabase/pages-ui-supabase.domain.ts b/pages/ui/supabase/pages-ui-supabase.domain.ts
+index ce4ae7740931d5c633447954d1d6621c892d7afa..3f85a962ab87fff540ccd49f6af54dfd8c3c0af1 100644
+--- a/pages/ui/supabase/pages-ui-supabase.domain.ts
++++ b/pages/ui/supabase/pages-ui-supabase.domain.ts
+@@ -20,7 +20,6 @@ export const pagesUiSupabase = {
+     "module/use-nav-mutations",
+     "module/use-option-list-lookup",
+     "module/use-page",
+-    "module/use-pages",
+     "module/use-page-type-directory",
+     "module/use-reader-neighbors",
+     "module/use-record-page-view",
+diff --git a/pages/ui/supabase/use-pages/use-pages.module.code.ts b/pages/ui/supabase/use-pages/use-pages.module.code.ts
+deleted file mode 100644
+index 80bfa33c5600a76413a8f8729b925a5a674fb68c..0000000000000000000000000000000000000000
+--- a/pages/ui/supabase/use-pages/use-pages.module.code.ts
++++ /dev/null
+@@ -1,27 +0,0 @@
+-"use client"
+-
+-import type { PageOrder, PageSelect } from "@akasha/pages-access/types"
+-import type { Page, PageWhere } from "@akasha/pages-core/page-types"
+-import { useQuery } from "@akasha/pages-ui/cache/use-query"
+-
+-export interface UsePagesSupabaseOptions {
+-  pageTypeSlug: string
+-  where?: PageWhere
+-  order?: PageOrder
+-  select?: PageSelect
+-  limit?: number
+-}
+-
+-export interface UsePagesSupabaseResult {
+-  rows: readonly Page[]
+-  isLoading: boolean
+-  isDegraded: boolean
+-  error: Error | null
+-  hasMore: boolean
+-  loadMore: () => void
+-  totalCount: number | null
+-}
+-
+-export function usePages(options: UsePagesSupabaseOptions): UsePagesSupabaseResult {
+-  return useQuery(options)
+-}
+diff --git a/pages/ui/supabase/use-pages/use-pages.module.ts b/pages/ui/supabase/use-pages/use-pages.module.ts
+deleted file mode 100644
+index df21e6696d6c938589d74f80c5f3abe894f9c85a..0000000000000000000000000000000000000000
+--- a/pages/ui/supabase/use-pages/use-pages.module.ts
++++ /dev/null
+@@ -1,9 +0,0 @@
+-import type { Module } from "@akasha/code-system/module"
+-
+-export const usePages = {
+-  id: "01a0610c-4305-7fc2-bfc4-f567bbe00feb",
+-  pageTypeSlug: "module",
+-  slug: "use-pages",
+-  definition: "the pages of one type read live for a listing",
+-  code: "ts",
+-} as const satisfies Module
