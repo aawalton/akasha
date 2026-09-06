@@ -1,8 +1,8 @@
 diff --git a/pages/query-request/page-query-request.module.ts b/pages/query-request/page-query-request.module.ts
-index ced52ce454c7ebef6eb355f32b3b64f4ade0fbed..d84e7fa3e03f7357efadedb8f2f09530dff3130d 100644
+index ced52ce454c7ebef6eb355f32b3b64f4ade0fbed..34dfcaea76bd560913b27aca9d339810192a37bc 100644
 --- a/pages/query-request/page-query-request.module.ts
 +++ b/pages/query-request/page-query-request.module.ts
-@@ -18,11 +18,11 @@ export const pageQueryRequest = {
+@@ -18,15 +18,19 @@ export const pageQueryRequest = {
      {
        invariantKind: "departure",
        statement:
@@ -16,3 +16,12 @@ index ced52ce454c7ebef6eb355f32b3b64f4ade0fbed..d84e7fa3e03f7357efadedb8f2f09530
      },
      {
        invariantKind: "departure",
+-      statement: "A list is no record, so a body that is a list reads as no record.",
++      statement: "A list is no record.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body that is a list reads as no record.",
+     },
+     {
+       invariantKind: "absence",
