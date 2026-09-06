@@ -17,3 +17,22 @@ index 0000000000000000000000000000000000000000..457449098164251302f56f922bdb8139
 +  definition: "a part a character is planned to play",
 +  targetPageTypeSlug: "page-type/temper-character-role",
 +} as const satisfies RelationProperty
+diff --git a/temper/temper-character/companion-progresses/properties/companion-roles.relation-property.ts b/temper/temper-character/companion-progresses/properties/companion-roles.relation-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8b6e3c82f7fb6694a19f2bded9a408cae5edc32d
+--- /dev/null
++++ b/temper/temper-character/companion-progresses/properties/companion-roles.relation-property.ts
+@@ -0,0 +1,13 @@
++import type { Slug } from "@akasha/pages/page/slug"
++import type { RelationProperty } from "@akasha/pages/relation-property"
++
++export type CompanionRoles = Slug
++
++export const companionRoles = {
++  id: "01a076c3-0a1f-7a37-9498-511bec8c2675",
++  pageTypeSlug: "relation-property",
++  slug: "companion-roles",
++  propertySlug: "roles",
++  definition: "a duty a companion is planned to cover",
++  targetPageTypeSlug: "page-type/temper-companion-role",
++} as const satisfies RelationProperty
