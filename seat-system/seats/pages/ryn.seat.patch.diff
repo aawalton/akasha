@@ -1,13 +1,22 @@
 diff --git a/alan/harness/monarch/transaction/monarch-transaction.module.ts b/alan/harness/monarch/transaction/monarch-transaction.module.ts
-index 45f5d6aecfb611ff8768ee41da8bf7416cc078a5..ebb681395624d1924f9c7b38d93c2994a02a9c19 100644
+index 45f5d6aecfb611ff8768ee41da8bf7416cc078a5..77cf5b3ad8946f25b04f6216ecc8d56b9dddc781 100644
 --- a/alan/harness/monarch/transaction/monarch-transaction.module.ts
 +++ b/alan/harness/monarch/transaction/monarch-transaction.module.ts
-@@ -16,7 +16,7 @@ export const monarchTransaction = {
+@@ -16,11 +16,15 @@ export const monarchTransaction = {
      },
      {
        invariantKind: "departure",
 -      statement: "A description is the merchant and the statement line joined, in that order.",
 +      statement: "A description is the merchant and the statement line joined in that order.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An amount is compared in cents, so two sums a hundredth apart are two sums.",
++      statement: "An amount is compared in cents.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Two sums a hundredth apart are two sums.",
      },
      {
        invariantKind: "departure",
