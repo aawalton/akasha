@@ -1,0 +1,16 @@
+diff --git a/domains/initiatives/pages/nimue-computed-properties.initiative.ts b/domains/initiatives/pages/nimue-computed-properties.initiative.ts
+index 86cf12a0ba853d62ea8f3c27a565d307cc4853af..9033b489926a59aec421ba79ea94740feb30e44c 100644
+--- a/domains/initiatives/pages/nimue-computed-properties.initiative.ts
++++ b/domains/initiatives/pages/nimue-computed-properties.initiative.ts
+@@ -23,11 +23,6 @@ export const nimueComputedProperties = {
+       workingMemory:
+         "`calculation-imports-only-types` is landed and judging at every phase. It refuses a value import in a computed property's code file, which typecheck passes and which fails only at query time. Proved by a seeded import that resolves: one refusal, typecheck silent. Left here: that the one export is named `work`, which `workIn` already states so a second statement would be one rule in two files, and that `holds` agrees with the return type.",
+     },
+-    {
+-      statement: "No page query sums a key no page type declares.",
+-      workingMemory:
+-        "Two of eight reducers are healthy: activity-calories-on-day, 18286 over 137 wake-days, and food-entry-plants-since-waking. episodes-watched and episodes-watched-on-day sum ownLength, which episode declares: 3273 over 147 unfiltered, null narrowed, no episode carrying completedAt. An absent key and an unwritten declared one both read 0; only `declared` parts them. Left: sleep-hours-on-day and surplus-hours-on-day, targets under no spelling, and the two claude-account queries, keys uncommitted.",
+-    },
+   ],
+   constraints: [
+     "A computed property extends a module and a page property both.",
