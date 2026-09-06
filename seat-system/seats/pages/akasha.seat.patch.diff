@@ -1,0 +1,13 @@
+diff --git a/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts b/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
+index d5deaca3a64eea1eb85d1b0414dfe02339149540..a6f0eeff9ed54634bc95df4bfd98bd6510d5517c 100644
+--- a/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
++++ b/checks/code-checks/pages/property-is-declared-by-a-type/property-is-declared-by-a-type.code-check.ts
+@@ -95,7 +95,7 @@ export const propertyIsDeclaredByAType = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A property is declared by slug alone.",
++      statement: "A property is declared by an address naming the page type that property is.",
+     },
+   ],
+ } as const satisfies CodeCheck
