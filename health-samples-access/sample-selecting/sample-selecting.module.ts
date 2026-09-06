@@ -31,11 +31,11 @@ export const sampleSelecting = {
     },
     {
       invariantKind: "departure",
-      statement: "A row carrying a metric other than the one asked for is dropped.",
+      statement: "A row carrying a metric other than the metric asked for is dropped.",
     },
     {
       invariantKind: "departure",
-      statement: "Readings come back oldest first by the instant each began.",
+      statement: "Readings come back oldest first by the instant a reading began.",
     },
     {
       invariantKind: "departure",
