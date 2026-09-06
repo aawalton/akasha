@@ -13,7 +13,7 @@ export const categorizeRing = {
     },
     {
       invariantKind: "departure",
-      statement: "The color is the one the feed's scale gives the reading.",
+      statement: "The color is the color the feed's scale gives the reading.",
     },
     {
       invariantKind: "departure",
