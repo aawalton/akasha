@@ -9,6 +9,4 @@ export const rulesInsteadOfABrake = {
   parentSlugs: ["how-i-decide"],
   relatedSlugs: ["not-wanting-to-is-the-gauge"],
   settled: "I keep them written down because nothing in the moment tells me to stop.",
-  unsettled:
-    "What makes a push slip past the rules — not remembering one, not seeing the thing as recurring, or not seeing the self-hurt until after?\n\nWhich other rules came from what was nearby rather than what caused it is unknown.\n\nTreating future selves as people with a claim on me is how I guard against myself. Is it also how I hold a goal at all, given nothing in me pictures a future?\n\nOnly one of my recovery rules is written down — if I don't want to, I can't. The rest are presumed and uncollected.",
 } as const satisfies AllAboutAlanTopic
