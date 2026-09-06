@@ -29,7 +29,7 @@ export const temperInventoryDecodeLink = {
     },
     {
       invariantKind: "departure",
-      statement: "A link carrying more is read rather than refused.",
+      statement: "A link carrying more fields is read rather than refused.",
     },
     {
       invariantKind: "departure",
