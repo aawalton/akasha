@@ -10,11 +10,11 @@ export const musicExploration = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A song offered is one the artist wrote themselves.",
+      statement: "A song offered is a song the artist wrote themselves.",
     },
     {
       invariantKind: "departure",
-      statement: "A song offered is one the artist performs.",
+      statement: "A song offered is a song the artist performs.",
     },
     {
       invariantKind: "departure",
@@ -56,11 +56,11 @@ export const musicExploration = {
     },
     {
       invariantKind: "departure",
-      statement: "A new artist scores as the highest likeness to any one loved artist.",
+      statement: "A new artist scores as the highest likeness to a single loved artist.",
     },
     {
       invariantKind: "departure",
-      statement: "A tie on that score goes to the artist naming more of the loved genres.",
+      statement: "A tie on that score goes to the artist naming a greater number of loved genres.",
     },
     {
       invariantKind: "departure",
@@ -76,7 +76,7 @@ export const musicExploration = {
     },
     {
       invariantKind: "departure",
-      statement: "The loved artist offered from is the one loved most.",
+      statement: "The loved artist offered from is the artist loved most.",
     },
     {
       invariantKind: "departure",
