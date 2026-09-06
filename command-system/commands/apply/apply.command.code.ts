@@ -1,3 +1,4 @@
+import { formattedBody } from "@akasha/code/code-format"
 import { agentPathOf } from "@akasha/context/warranting"
 import type { Edit } from "../../../changes/modules/change-answer/change-answer.module.types.ts"
 import {
@@ -17,6 +18,8 @@ import { MESSAGE, MESSAGE_FILE, unknownIn } from "../write/write.command.code.ts
 
 const BYTES = new TextEncoder()
 
+const TEXT = new TextDecoder()
+
 const APPLYING = [MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE: readonly string[] = []
@@ -31,6 +34,17 @@ export type Folded =
 
 function bytesOf(body: string | null): Uint8Array | null {
   return body === null ? null : BYTES.encode(body)
+}
+
+// The gate judges the body the landing writes, so a body is formatted before that body is judged.
+// A layout the formatter mends is applied rather than refused, and what a check refuses is what no
+// formatter can mend.
+export function formattedEdits(root: string, rows: readonly Edit[]): readonly Edit[] {
+  return rows.map((one) => {
+    if (one.body === null) return one
+    const done = formattedBody(root, one.path, BYTES.encode(one.body))
+    return done.changed ? { ...one, body: TEXT.decode(done.body) } : one
+  })
 }
 
 export function draftsOf(edits: readonly Edit[]): readonly Draft[] {
@@ -51,7 +65,8 @@ export function folding(root: string, page: string): Folded {
   let answer: Folded = { folded: [] }
   const kept = keptEdits(root, page, (had) => {
     if (had.length === 0) return had
-    const held = had.filter((one) => !writtenAgain(one.path))
+    const left = had.filter((one) => !writtenAgain(one.path))
+    const held = formattedEdits(root, left)
     if (held.length === 0) return null
     const said = foldedIn(held)
     if (said.refused !== null) {
@@ -77,7 +92,10 @@ async function refusedBefore(root: string, page: string): Promise<readonly strin
   if (kept.rows.length === 0) return []
   const built = gateBuilt(root)
   if ("broken" in built) return [`no check ran — the checks would not load: ${built.broken}`]
-  const change = changeOf(root, { base: baseOf(root), edits: editsFor(kept.rows) })
+  const change = changeOf(root, {
+    base: baseOf(root),
+    edits: editsFor(formattedEdits(root, kept.rows)),
+  })
   const said = await built.gate.over(change)
   return said.map((one) => `${one.path} — ${one.reason}`)
 }
