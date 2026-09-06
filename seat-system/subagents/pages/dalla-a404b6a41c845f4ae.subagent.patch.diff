@@ -1,0 +1,27 @@
+diff --git a/changes/pages/remove-page/remove-page.change.test.ts b/changes/pages/remove-page/remove-page.change.test.ts
+index 6dc7f3d030901d582293d42089c35be3ae64f0d8..c3f4397a3de4ed174792462456146a42363b8802 100644
+--- a/changes/pages/remove-page/remove-page.change.test.ts
++++ b/changes/pages/remove-page/remove-page.change.test.ts
+@@ -38,6 +38,8 @@ const SPARE_PAGE = "akasha/three/spare.module.ts"
+ 
+ const SPARE_CODE = "akasha/three/spare.module.code.ts"
+ 
++const NOTER_PAGE = "akasha/three/noter.module.ts"
++
+ const CHILD_PAGE = "akasha/four/child.module.ts"
+ 
+ const PARENT_PAGE = "akasha/four/parent.module.ts"
+@@ -53,6 +55,13 @@ const SPARE: Readonly<Record<string, string>> = {
+     code: "ts",
+   }),
+   [SPARE_CODE]: 'import { kept } from "../one/held.module.code.ts"\n\nexport const spare = kept\n',
++  [NOTER_PAGE]: pageOf({
++    id: idOf("0"),
++    pageTypeSlug: "module",
++    slug: "noter",
++    definition: "a page naming the page held by a relation that is no containment",
++    note: "held",
++  }),
+ }
+ 
+ const CHILD = pageOf({
