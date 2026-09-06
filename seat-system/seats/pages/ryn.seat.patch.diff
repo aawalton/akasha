@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/refactor/package-phasing/package-phasing.module.ts b/command-system/commands/refactor/package-phasing/package-phasing.module.ts
-index c5be4a5e41b4b876b4c9a96ea04314bdd54a340e..d5e136adca2b22c1dd0244a4ce561af1c204e867 100644
+index c5be4a5e41b4b876b4c9a96ea04314bdd54a340e..307ba276fa11b4c69e8bd3e2f637948747b4d349 100644
 --- a/command-system/commands/refactor/package-phasing/package-phasing.module.ts
 +++ b/command-system/commands/refactor/package-phasing/package-phasing.module.ts
 @@ -42,7 +42,11 @@ export const packagePhasing = {
@@ -15,7 +15,7 @@ index c5be4a5e41b4b876b4c9a96ea04314bdd54a340e..d5e136adca2b22c1dd0244a4ce561af1
      },
      {
        invariantKind: "departure",
-@@ -62,7 +66,8 @@ export const packagePhasing = {
+@@ -62,11 +66,12 @@ export const packagePhasing = {
      },
      {
        invariantKind: "departure",
@@ -25,3 +25,8 @@ index c5be4a5e41b4b876b4c9a96ea04314bdd54a340e..d5e136adca2b22c1dd0244a4ce561af1
      },
      {
        invariantKind: "departure",
+-      statement: "A path the rename respelled is judged once, by contract, over the final body.",
++      statement: "A path the rename respelled is judged once by contract over the final body.",
+     },
+     {
+       invariantKind: "absence",
