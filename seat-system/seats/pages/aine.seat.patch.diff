@@ -363,3 +363,341 @@ index adfe45f16e7b0b1e15d05f763c666fbf798c2e45..5c9174f3533e292b3dc6f6ae21cd8ef7
    unitSlug: "words",
    chapterText: "md",
  } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-belgium.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-belgium.book-section.ts
+index 9f0ce5da50a12d75830950b546058f5ecb650bd5..84bb8d207b21b518545ca0044129a533b7be3304 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-belgium.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-belgium.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyBelgium = {
+   title: "Belgium",
+   description:
+     "Belgium residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/belgium.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-bulgaria.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-bulgaria.book-section.ts
+index a354e82213184ecc9b3d3452547d20e6545a2791..588cb66af25f7ef29a2b03dc1652e972c4233105 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-bulgaria.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-bulgaria.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyBulgaria = {
+   title: "Bulgaria",
+   description:
+     "Bulgaria residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/bulgaria.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-cyprus.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-cyprus.book-section.ts
+index 0f26ecb9293b8b73fd244d886da8232e7689b37d..184178a834d4d93fd2308372b5095ce7ed06ed29 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-cyprus.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-cyprus.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyCyprus = {
+   title: "Cyprus",
+   description:
+     "Cyprus residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/cyprus.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-czechia.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-czechia.book-section.ts
+index 953d30ca003c43112096e113414e1cb76a9909de..31d6956b70ff06e2908f173846d54a9197f7c313 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-czechia.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-czechia.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyCzechia = {
+   title: "Czechia",
+   description:
+     "Czechia residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/czechia.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-denmark.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-denmark.book-section.ts
+index 48d6cf798ccb42add4ee256e948782217d905f7c..69be219caa815e31400a53aa632427f3b7447454 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-denmark.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-denmark.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyDenmark = {
+   title: "Denmark",
+   description:
+     "Denmark residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/denmark.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-estonia.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-estonia.book-section.ts
+index fef1f9b47ee1c4f5f3815f087b99af57365159fc..6b855bb412b23472267293b2b72afd2eb1c015db 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-estonia.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-estonia.book-section.ts
+@@ -5,7 +5,7 @@ export const euResidencyEstonia = {
+   pageTypeSlug: "book-section",
+   slug: "eu-residency-estonia",
+   title: "Estonia",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-finland.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-finland.book-section.ts
+index f878d9595addbf55e82f482b04e2e09fac778a4f..a8bd5d3c0c916218f455e405f70fbd23dec17cf0 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-finland.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-finland.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyFinland = {
+   title: "Finland",
+   description:
+     "Finland residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/finland.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-france.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-france.book-section.ts
+index 06f4fdf2de5c9bd6c549d19b288e4a5f67939fdc..3189ad878660ee8771882208daaef04690858b6f 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-france.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-france.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyFrance = {
+   title: "France",
+   description:
+     "France residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/france.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-germany.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-germany.book-section.ts
+index 4bbf9901b47da7af0d66751d624ba508b9418b90..6ad06b8ae3bb6930918dee800c4f710086f301f7 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-germany.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-germany.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyGermany = {
+   title: "Germany",
+   description:
+     "Germany residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/germany.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-greece.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-greece.book-section.ts
+index c861ea958930e6314d2c7fe97f35869fa13dca6c..3ffa66ce471416cd88487a9122392fb3b9adc8e6 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-greece.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-greece.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyGreece = {
+   title: "Greece",
+   description:
+     "Greece residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/greece.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-hungary.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-hungary.book-section.ts
+index 9dde31e66739b29ce84eb78566c45b2288c3a7b9..f4a763b1426100581c979e0150e7bb8d279cfcca 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-hungary.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-hungary.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyHungary = {
+   title: "Hungary",
+   description:
+     "Hungary residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/hungary.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-ireland.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-ireland.book-section.ts
+index 6f95f924c12c53a4b450b0ee8f6d14e659827924..3fe795608a4b672526511e0c526e38545f6c30e2 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-ireland.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-ireland.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyIreland = {
+   title: "Ireland",
+   description:
+     "Ireland residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/ireland.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-italy.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-italy.book-section.ts
+index 6dd2a5981ba370417b11560c7c9676a7d696bc44..b464f3e4522f8224110d5cff4f1b94d61281a731 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-italy.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-italy.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyItaly = {
+   title: "Italy",
+   description:
+     "Italy residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/italy.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-latvia.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-latvia.book-section.ts
+index a3b3d929f00fe7f7160dbd5af85cc9cdfd318773..6581fb105d0d3ab40ed7a967bf04131423a27566 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-latvia.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-latvia.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyLatvia = {
+   title: "Latvia",
+   description:
+     "Latvia residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/latvia.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-lithuania.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-lithuania.book-section.ts
+index 9520ba23c0791c75fbded9297989e29f2163b178..1b18322b404ea0c35ad0c4050c5368862cf6811b 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-lithuania.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-lithuania.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyLithuania = {
+   title: "Lithuania",
+   description:
+     "Lithuania residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/lithuania.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-luxembourg.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-luxembourg.book-section.ts
+index ad5f4ce9a688d252dcc096dc30f8b8d7d5a29d0f..6c372dd6765e8dd04c2e24df27577b025904d1e7 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-luxembourg.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-luxembourg.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyLuxembourg = {
+   title: "Luxembourg",
+   description:
+     "Luxembourg residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/luxembourg.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-malta.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-malta.book-section.ts
+index d4c90a82473f6b7a16999352774bda2706751076..b5500c47bf66580d77f454817fbce11d60160aef 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-malta.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-malta.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyMalta = {
+   title: "Malta",
+   description:
+     "Malta residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/malta.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-netherlands.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-netherlands.book-section.ts
+index fe954f669b33866d8c430a890b30db644d9072b0..d9acc68a4e6199e40ce129cff216614dbda6bc36 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-netherlands.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-netherlands.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyNetherlands = {
+   title: "Netherlands",
+   description:
+     "Netherlands residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/netherlands.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-poland.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-poland.book-section.ts
+index 3650bbb6b3112c9538353dbb64d4806aac27e427..2373422dd035d481f3d3c6b8bf1aef2377690299 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-poland.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-poland.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyPoland = {
+   title: "Poland",
+   description:
+     "Poland residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/poland.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-portugal.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-portugal.book-section.ts
+index c93bc266b317248c21ab4b304690901814eb88f8..8fc3a8ca1e7b22aaea27297697a717fca60e4f1f 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-portugal.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-portugal.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyPortugal = {
+   title: "Portugal",
+   description:
+     "Portugal residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/portugal.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-romania.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-romania.book-section.ts
+index 6ee161de377b57356d540b573114563aa8ae7afe..5ba7580d19ede1c626bfe4f22909ab67387649e3 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-romania.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-romania.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencyRomania = {
+   title: "Romania",
+   description:
+     "Romania residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/romania.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-slovakia.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-slovakia.book-section.ts
+index 38075063e553b7b0006b92c9017031011fb097f1..d02732a0577574463dbb038026bde609c8e0ac2a 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-slovakia.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-slovakia.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencySlovakia = {
+   title: "Slovakia",
+   description:
+     "Slovakia residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/slovakia.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-slovenia.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-slovenia.book-section.ts
+index 737424999bc712d0b81576c147e89da0aa56c424..658e63021bee3959f3f54c77811c6ded9b3ae71a 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-slovenia.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-slovenia.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencySlovenia = {
+   title: "Slovenia",
+   description:
+     "Slovenia residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/slovenia.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-spain.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-spain.book-section.ts
+index 97cef841bf15f25825a615866e9a3932d018f442..002c4e48be70c3ee36d1942ededa7967ccd0790a 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-spain.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-spain.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencySpain = {
+   title: "Spain",
+   description:
+     "Spain residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/spain.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-summary.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-summary.book-section.ts
+index 5bc0ae622139595dc573de743842237fd75f5ce1..0d0b3a7e47ccc81edfca3f830aca426d16d5d643 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-summary.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-summary.book-section.ts
+@@ -5,7 +5,7 @@ export const euResidencySummary = {
+   pageTypeSlug: "book-section",
+   slug: "eu-residency-summary",
+   title: "Summary",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-sweden.book-section.ts b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-sweden.book-section.ts
+index 72996117786b452d93e1ea20434aaa69de95d1a6..0f82f38d16694fbf480b2cc9c8652caaa20f156b 100644
+--- a/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-sweden.book-section.ts
++++ b/alan/books/my-projects/sections/second-passport/eu-residency/eu-residency-sweden.book-section.ts
+@@ -7,7 +7,7 @@ export const euResidencySweden = {
+   title: "Sweden",
+   description:
+     "Sweden residency paths (May 2026 snapshot). For citizenship paths, see ../citizenship/sweden.md.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["eu-residency"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
