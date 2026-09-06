@@ -18,24 +18,32 @@ export const treeReading = {
     },
     {
       invariantKind: "departure",
+      statement: "The vendored packages and the quarantine are left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Git's own store and the agents' working state are left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Nothing left out of the tree holds a page of this repository's own.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Each folder left out is named rather than matched on a leading dot.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "The vendored packages, the quarantine, git's own store and the agents' working state are left out.",
+        "The quarantine is left out only where the quarantine sits at the top of the tree.",
     },
     {
       invariantKind: "departure",
-      statement: "None of those four holds a page of this repository's own.",
+      statement: "A folder deeper down carrying that name holds pages.",
     },
     {
       invariantKind: "departure",
-      statement: "The four are named rather than matched on a leading dot.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "The quarantine is left out only where it sits at the top of the tree.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A folder deeper down carrying that name holds pages, and is read.",
+      statement: "A folder deeper down carrying that name is read.",
     },
     {
       invariantKind: "departure",
