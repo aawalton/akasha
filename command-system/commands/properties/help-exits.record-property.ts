@@ -17,8 +17,8 @@ export const helpExits = {
   propertySlug: "exits",
   definition: "the codes a command exits with, each with what the code means",
   properties: [
-    { pagePropertySlug: "help-exit-code", required: true, many: false },
-    { pagePropertySlug: "help-exit-meaning", required: true, many: false },
+    { pagePropertySlug: "number-property/help-exit-code", required: true, many: false },
+    { pagePropertySlug: "text-property/help-exit-meaning", required: true, many: false },
   ],
   invariants: [
     {

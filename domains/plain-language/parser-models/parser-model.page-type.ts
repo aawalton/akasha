@@ -27,28 +27,28 @@ export const parserModel = {
   ],
   properties: [
     {
-      pagePropertySlug: "parser-weights",
+      pagePropertySlug: "file-property/parser-weights",
       required: false,
       many: false,
       uncommitted: true,
       default: "onnx",
     },
     {
-      pagePropertySlug: "relation-weights",
+      pagePropertySlug: "file-property/relation-weights",
       required: false,
       many: false,
       uncommitted: true,
       default: "onnx",
     },
     {
-      pagePropertySlug: "word-pieces",
+      pagePropertySlug: "file-property/word-pieces",
       required: false,
       many: false,
       uncommitted: true,
       default: "json",
     },
     {
-      pagePropertySlug: "model-manifest",
+      pagePropertySlug: "file-property/model-manifest",
       required: false,
       many: false,
       uncommitted: true,

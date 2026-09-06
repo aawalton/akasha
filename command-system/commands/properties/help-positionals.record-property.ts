@@ -23,11 +23,11 @@ export const helpPositionals = {
   propertySlug: "positionals",
   definition: "the arguments a command takes in order, with no flag naming them",
   properties: [
-    { pagePropertySlug: "help-arg-name", required: true, many: false },
-    { pagePropertySlug: "help-arg-note", required: true, many: false },
-    { pagePropertySlug: "help-arg-required", required: false, many: false },
-    { pagePropertySlug: "help-arg-variadic", required: false, many: false },
-    { pagePropertySlug: "help-arg-alias-of-flag", required: false, many: false },
+    { pagePropertySlug: "text-property/help-arg-name", required: true, many: false },
+    { pagePropertySlug: "text-property/help-arg-note", required: true, many: false },
+    { pagePropertySlug: "boolean-property/help-arg-required", required: false, many: false },
+    { pagePropertySlug: "boolean-property/help-arg-variadic", required: false, many: false },
+    { pagePropertySlug: "text-property/help-arg-alias-of-flag", required: false, many: false },
   ],
   invariants: [
     {

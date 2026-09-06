@@ -14,7 +14,7 @@ export const pythonModule = {
   pluralSlug: "python-modules",
   partSlugs: ["file-property/python"],
   extendsSlug: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "python", required: true, many: false }],
+  properties: [{ pagePropertySlug: "file-property/python", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

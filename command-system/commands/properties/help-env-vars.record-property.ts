@@ -23,11 +23,11 @@ export const helpEnvVars = {
   propertySlug: "env-vars",
   definition: "the environment variables a command reads",
   properties: [
-    { pagePropertySlug: "help-arg-name", required: true, many: false },
-    { pagePropertySlug: "help-arg-note", required: true, many: false },
-    { pagePropertySlug: "help-arg-required", required: false, many: false },
-    { pagePropertySlug: "help-arg-default", required: false, many: false },
-    { pagePropertySlug: "help-arg-path", required: false, many: false },
+    { pagePropertySlug: "text-property/help-arg-name", required: true, many: false },
+    { pagePropertySlug: "text-property/help-arg-note", required: true, many: false },
+    { pagePropertySlug: "boolean-property/help-arg-required", required: false, many: false },
+    { pagePropertySlug: "text-property/help-arg-default", required: false, many: false },
+    { pagePropertySlug: "boolean-property/help-arg-path", required: false, many: false },
   ],
   invariants: [
     {

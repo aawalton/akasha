@@ -23,11 +23,11 @@ export const directives = {
   propertySlug: "directives",
   definition: "what a domain tells whoever reads it to do, each with the sort it is",
   properties: [
-    { pagePropertySlug: "directive-kind", required: true, many: false },
-    { pagePropertySlug: "name", required: true, many: false },
-    { pagePropertySlug: "act", required: true, many: false },
-    { pagePropertySlug: "warrant", required: true, many: false },
-    { pagePropertySlug: "aids", required: true, many: true, max: 10 },
+    { pagePropertySlug: "relation-property/directive-kind", required: true, many: false },
+    { pagePropertySlug: "text-property/name", required: true, many: false },
+    { pagePropertySlug: "text-property/act", required: true, many: false },
+    { pagePropertySlug: "text-property/warrant", required: true, many: false },
+    { pagePropertySlug: "text-property/aids", required: true, many: true, max: 10 },
   ],
   invariants: [
     {

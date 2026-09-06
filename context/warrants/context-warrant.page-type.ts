@@ -42,10 +42,10 @@ export const contextWarrant = {
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/warranting",
   properties: [
-    { pagePropertySlug: "test", required: true, many: false },
-    { pagePropertySlug: "runs-on-read", required: true, many: false },
-    { pagePropertySlug: "runs-on-write", required: true, many: false },
-    { pagePropertySlug: "transitive", required: true, many: false },
+    { pagePropertySlug: "file-property/test", required: true, many: false },
+    { pagePropertySlug: "boolean-property/runs-on-read", required: true, many: false },
+    { pagePropertySlug: "boolean-property/runs-on-write", required: true, many: false },
+    { pagePropertySlug: "boolean-property/transitive", required: true, many: false },
   ],
   invariants: [
     {

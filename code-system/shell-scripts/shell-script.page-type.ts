@@ -23,8 +23,8 @@ export const shellScript = {
   ],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "shell", required: true, many: false },
-    { pagePropertySlug: "sourced", required: true, many: false },
+    { pagePropertySlug: "file-property/shell", required: true, many: false },
+    { pagePropertySlug: "boolean-property/sourced", required: true, many: false },
   ],
   invariants: [
     {

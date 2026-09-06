@@ -19,9 +19,9 @@ export const route = {
   partSlugs: ["file-property/route-code", "file-property/route-test", "text-property/url-path"],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "route-code", required: true, many: false },
-    { pagePropertySlug: "route-test", required: false, many: false },
-    { pagePropertySlug: "url-path", required: false, many: false },
+    { pagePropertySlug: "file-property/route-code", required: true, many: false },
+    { pagePropertySlug: "file-property/route-test", required: false, many: false },
+    { pagePropertySlug: "text-property/url-path", required: false, many: false },
   ],
   invariants: [
     {

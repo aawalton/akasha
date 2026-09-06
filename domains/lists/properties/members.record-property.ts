@@ -17,8 +17,8 @@ export const members = {
   propertySlug: "members",
   definition: "the things a list's subject is a set of, each with its gloss",
   properties: [
-    { pagePropertySlug: "member-name", required: true, many: false },
-    { pagePropertySlug: "definition", required: true, many: false },
+    { pagePropertySlug: "text-property/member-name", required: true, many: false },
+    { pagePropertySlug: "text-property/definition", required: true, many: false },
   ],
   invariants: [
     {

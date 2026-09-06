@@ -17,8 +17,8 @@ export const taking = {
   propertySlug: "taking",
   definition: "what a command takes on the command line, each with what it is for",
   properties: [
-    { pagePropertySlug: "said", required: true, many: false },
-    { pagePropertySlug: "takes", required: true, many: false },
+    { pagePropertySlug: "text-property/said", required: true, many: false },
+    { pagePropertySlug: "text-property/takes", required: true, many: false },
   ],
   invariants: [
     {

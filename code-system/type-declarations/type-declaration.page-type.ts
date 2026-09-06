@@ -14,7 +14,7 @@ export const typeDeclaration = {
   pluralSlug: "type-declarations",
   partSlugs: ["file-property/ambient-types"],
   extendsSlug: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "ambient-types", required: true, many: false }],
+  properties: [{ pagePropertySlug: "file-property/ambient-types", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

@@ -30,11 +30,11 @@ export const routerApp = {
   ],
   extendsSlug: ["page-type/workspace-package"],
   properties: [
-    { pagePropertySlug: "root-route", required: true, many: false },
-    { pagePropertySlug: "route-table", required: true, many: false },
-    { pagePropertySlug: "server-entry", required: true, many: false },
-    { pagePropertySlug: "router-config", required: true, many: false },
-    { pagePropertySlug: "compile-config", required: false, many: false },
+    { pagePropertySlug: "named-file-property/root-route", required: true, many: false },
+    { pagePropertySlug: "named-file-property/route-table", required: true, many: false },
+    { pagePropertySlug: "named-file-property/server-entry", required: true, many: false },
+    { pagePropertySlug: "named-file-property/router-config", required: true, many: false },
+    { pagePropertySlug: "named-file-property/compile-config", required: false, many: false },
   ],
   invariants: [
     {

@@ -14,7 +14,7 @@ export const stylesheet = {
   pluralSlug: "stylesheets",
   partSlugs: ["file-property/styles"],
   extendsSlug: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "styles", required: true, many: false }],
+  properties: [{ pagePropertySlug: "file-property/styles", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

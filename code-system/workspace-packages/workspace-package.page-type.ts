@@ -14,7 +14,7 @@ export const workspacePackage = {
   pluralSlug: "workspace-packages",
   partSlugs: ["named-file-property/manifest"],
   extendsSlug: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "manifest", required: true, many: false }],
+  properties: [{ pagePropertySlug: "named-file-property/manifest", required: true, many: false }],
   invariants: [
     {
       invariantKind: "departure",

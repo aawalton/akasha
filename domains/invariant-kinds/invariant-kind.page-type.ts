@@ -22,7 +22,9 @@ export const invariantKind = {
     "relation-property/invariant-group-slug",
   ],
   extendsSlug: ["page-type/domain"],
-  properties: [{ pagePropertySlug: "invariant-group-slug", required: true, many: false }],
+  properties: [
+    { pagePropertySlug: "relation-property/invariant-group-slug", required: true, many: false },
+  ],
   invariants: [
     {
       invariantKind: "departure",

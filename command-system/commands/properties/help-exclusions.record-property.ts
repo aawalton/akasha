@@ -14,7 +14,14 @@ export const helpExclusions = {
   slug: "help-exclusions",
   propertySlug: "exclusions",
   definition: "the sets of flags a command takes no two of at once",
-  properties: [{ pagePropertySlug: "help-exclusion-names", required: true, many: true, max: null }],
+  properties: [
+    {
+      pagePropertySlug: "text-property/help-exclusion-names",
+      required: true,
+      many: true,
+      max: null,
+    },
+  ],
   invariants: [
     {
       invariantKind: "departure",

@@ -17,8 +17,13 @@ export const royalRoadAccount = {
   extendsSlug: ["page-type/page"],
   partSlugs: ["email-address-property/royal-road-email", "text-property/royal-road-password"],
   properties: [
-    { pagePropertySlug: "royal-road-email", required: true, many: false },
-    { pagePropertySlug: "royal-road-password", required: true, many: false, secret: true },
+    { pagePropertySlug: "email-address-property/royal-road-email", required: true, many: false },
+    {
+      pagePropertySlug: "text-property/royal-road-password",
+      required: true,
+      many: false,
+      secret: true,
+    },
   ],
   invariants: [
     {

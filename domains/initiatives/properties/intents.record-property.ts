@@ -17,8 +17,8 @@ export const intents = {
   propertySlug: "intents",
   definition: "what an initiative is to make so",
   properties: [
-    { pagePropertySlug: "intent-statement", required: true, many: false },
-    { pagePropertySlug: "working-memory", required: false, many: false },
+    { pagePropertySlug: "text-property/intent-statement", required: true, many: false },
+    { pagePropertySlug: "text-property/working-memory", required: false, many: false },
   ],
   invariants: [
     {

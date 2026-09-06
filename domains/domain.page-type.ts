@@ -40,12 +40,12 @@ export const domain = {
   pluralSlug: "domains",
   extendsSlug: ["page-type/page"],
   properties: [
-    { pagePropertySlug: "definition", required: true, many: false },
-    { pagePropertySlug: "plural-slug", required: false, many: false },
-    { pagePropertySlug: "part-slugs", required: false, many: true, max: null },
-    { pagePropertySlug: "invariants", required: false, many: true, max: null },
-    { pagePropertySlug: "directives", required: false, many: true, max: null },
-    { pagePropertySlug: "expands", required: false, many: false },
+    { pagePropertySlug: "text-property/definition", required: true, many: false },
+    { pagePropertySlug: "text-property/plural-slug", required: false, many: false },
+    { pagePropertySlug: "relation-property/part-slugs", required: false, many: true, max: null },
+    { pagePropertySlug: "record-property/invariants", required: false, many: true, max: null },
+    { pagePropertySlug: "record-property/directives", required: false, many: true, max: null },
+    { pagePropertySlug: "boolean-property/expands", required: false, many: false },
   ],
   invariants: [
     {

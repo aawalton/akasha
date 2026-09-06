@@ -17,8 +17,8 @@ export const luaModule = {
   partSlugs: ["file-property/lua"],
   extendsSlug: ["page-type/domain"],
   properties: [
-    { pagePropertySlug: "lua", required: true, many: false },
-    { pagePropertySlug: "loaded-as", required: false, many: false },
+    { pagePropertySlug: "file-property/lua", required: true, many: false },
+    { pagePropertySlug: "text-property/loaded-as", required: false, many: false },
   ],
   invariants: [
     {
