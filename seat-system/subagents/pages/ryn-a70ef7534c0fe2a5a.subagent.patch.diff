@@ -1,9 +1,9 @@
 runsWarrants: false
 diff --git a/pages/address-kinds/in-part-of/in-part-of.page-address-kind.ts b/pages/address-kinds/in-part-of/in-part-of.page-address-kind.ts
-index 53215b3fcbc962c74e3e52c1d6ac5ba63b756eed..9ebe5268a7b6aea83b725b5746f302dd4227231f 100644
+index 53215b3fcbc962c74e3e52c1d6ac5ba63b756eed..be2faf2d42b36e5fd5afb033949a3aa012c6f290 100644
 --- a/pages/address-kinds/in-part-of/in-part-of.page-address-kind.ts
 +++ b/pages/address-kinds/in-part-of/in-part-of.page-address-kind.ts
-@@ -22,7 +22,7 @@ export const inPartOf = {
+@@ -22,11 +22,11 @@ export const inPartOf = {
      },
      {
        invariantKind: "departure",
@@ -12,3 +12,8 @@ index 53215b3fcbc962c74e3e52c1d6ac5ba63b756eed..9ebe5268a7b6aea83b725b5746f302dd
      },
      {
        invariantKind: "absence",
+-      statement: "No address of this kind is the one address for the page it names.",
++      statement: "No address of this kind is the one address for the page that address names.",
+     },
+   ],
+ } as const satisfies PageAddressKind
