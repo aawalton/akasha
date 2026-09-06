@@ -1,25 +1,3 @@
-diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
-index e373d042f2ce7912ab9e8714f5453895ba8b02f5..3fcfdb908682cbb5f99ebefd5368f831f76436ad 100644
---- a/command-system/asking/asking.module.ts
-+++ b/command-system/asking/asking.module.ts
-@@ -27,7 +27,7 @@ export const asking = {
-     },
-     {
-       invariantKind: "departure",
--      statement: "A draft runs the checks a landing runs and the warrants a landing runs.",
-+      statement: "A draft runs the checks a landing runs and owes the reading a landing owes.",
-     },
-     {
-       invariantKind: "departure",
-@@ -197,7 +197,7 @@ export const asking = {
-     },
-     {
-       invariantKind: "departure",
--      statement: "The kind that ran no check is named in the commit as the reason none ran.",
-+      statement: "The kind that ran no check is named in the commit as the reason no check ran.",
-     },
-     {
-       invariantKind: "departure",
 diff --git a/command-system/calling/calling.module.ts b/command-system/calling/calling.module.ts
 index 7afc868f082e3fbda80db98e4af26720585aa678..0dac9d7f60216ab48372c75ddd2b4d721bf9c4de 100644
 --- a/command-system/calling/calling.module.ts
