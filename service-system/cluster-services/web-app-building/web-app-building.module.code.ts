@@ -329,10 +329,14 @@ export interface Built {
   readonly why: string | null
 }
 
+// A BUILD RESTARTS THE WORKLOAD ONLY WHERE NOTHING ELSE WILL. A caller about to apply a manifest
+// rolls the workload over on that apply, and restarting first would put the pods onto the spec the
+// apply is replacing, which is the spec whose entry point the build just moved out from under.
 export function buildInPod(
   target: BuildTarget,
   sha: string,
-  resolved: Resolved = NOTHING_SET
+  resolved: Resolved = NOTHING_SET,
+  restarting = true
 ): Built {
   const ran: Ran[] = []
   const pod = livePod(target)
@@ -353,6 +357,7 @@ export function buildInPod(
     const why = `${target.packagePath} would not build in ${pod}: ${saidBy(built)}`
     return { pod, ran, why: hiding(why, resolved.hidden) }
   }
+  if (!restarting) return { pod, ran, why: null }
   const named = `${target.kind.toLowerCase()}/${target.workload}`
   const restart = runKubectl(["rollout", "restart", named, "-n", target.namespace])
   ran.push(restart)

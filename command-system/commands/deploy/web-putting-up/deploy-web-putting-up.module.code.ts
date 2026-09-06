@@ -142,7 +142,7 @@ export async function putUpWebApp(slug: string, given: Given, dryRun: boolean): 
   // package that pod runs from, so a manifest moving that package rolls out a pod with no build to
   // start on, and the apply waits on a rollout only this build could have finished.
   if (target !== null && !isBuilt) {
-    const built = buildInPod(target, sha, resolved)
+    const built = buildInPod(target, sha, resolved, !differs && up)
     for (const one of built.ran) {
       report.push(`ran\t${one.argv.slice(0, SAID).join(" ")}\texited ${one.code}`)
     }
