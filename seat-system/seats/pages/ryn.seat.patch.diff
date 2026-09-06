@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/core/view/page-query-times/page-query-times.module.ts b/pages/core/view/page-query-times/page-query-times.module.ts
+index e7741633d762f3b14c6675d1a0683ae1275a13a7..3466a9894ff555914bf2ac1ef2357c76a9e8a931 100644
+--- a/pages/core/view/page-query-times/page-query-times.module.ts
++++ b/pages/core/view/page-query-times/page-query-times.module.ts
+@@ -14,7 +14,7 @@ export const pageQueryTimes = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The next eso day is the one after the eso day the query is answered in.",
++      statement: "The next eso day is the eso day after the eso day the query is answered in.",
+     },
+     {
+       invariantKind: "departure",
