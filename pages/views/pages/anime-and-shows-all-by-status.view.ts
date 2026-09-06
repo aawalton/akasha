@@ -6,6 +6,7 @@ export const animeAndShowsAllByStatus = {
   slug: "anime-and-shows-all-by-status",
   title: "All by Status",
   navSlug: "anime-and-shows",
+  pageType: "ki-show",
   viewPlace: 3,
   layout: "cards",
   viewSorts: [{ key: "title", descending: false }],

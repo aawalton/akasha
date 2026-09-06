@@ -6,5 +6,6 @@ export const alanwaltonTemperTasks = {
   slug: "alanwalton-temper-tasks",
   title: "Tasks",
   navSlug: "alanwalton-temper",
+  pageType: "temper-task",
   viewPlace: 0,
 } as const satisfies View

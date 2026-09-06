@@ -6,6 +6,7 @@ export const alanwaltonIdentityIdentityStatements = {
   slug: "alanwalton-identity-identity-statements",
   title: "Identity Statements",
   navSlug: "alanwalton-identity",
+  pageType: "identity-statement",
   viewPlace: 2,
   layout: "cards",
   viewSorts: [{ key: "title", descending: false }],
