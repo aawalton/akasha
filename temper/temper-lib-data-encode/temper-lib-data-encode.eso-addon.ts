@@ -37,7 +37,7 @@ export const temperLibDataEncode = {
     {
       invariantKind: "departure",
       statement:
-        "A value seen three times or more is put in a dictionary and referred to by index.",
+        "A value seen at least three times is put in a dictionary and referred to by index.",
     },
     {
       invariantKind: "departure",
