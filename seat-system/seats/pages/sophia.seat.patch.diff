@@ -1,5 +1,5 @@
 diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
-index 17f733ec596a0fdf6df4e49381c51a17542dde69..f290ac0f2aeb26c9c618c1a5d103d8a3b82fe655 100644
+index 17f733ec596a0fdf6df4e49381c51a17542dde69..62c4ceeb5b158d824c40b6399070298da98b1c00 100644
 --- a/command-system/drafting/drafting.module.code.ts
 +++ b/command-system/drafting/drafting.module.code.ts
 @@ -8,6 +8,7 @@ import {
@@ -39,3 +39,11 @@ index 17f733ec596a0fdf6df4e49381c51a17542dde69..f290ac0f2aeb26c9c618c1a5d103d8a3
  
  export type Draft = {
    readonly path: string
+@@ -213,6 +226,7 @@ export function runningIn(patch: string | null): Running {
+   return {
+     checks: !lines.includes(NO_CHECKS_AT),
+     writerOwesReading: !lines.includes(NOT_OWED_AT) && !lines.includes(NOT_OWED_WAS),
++    readersOweReading: !lines.includes(NOT_STALED_AT),
+   }
+ }
+ 
