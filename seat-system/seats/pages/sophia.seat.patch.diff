@@ -1,0 +1,678 @@
+writerOwesReading: false
+diff --git a/command-system/applying/applying.module.code.ts b/command-system/applying/applying.module.code.ts
+index 89ec135163747de3c8bc67cc98472688a0407f17..0b155357e845e1bc2ff86fae15b491dab2b6eb0b 100644
+--- a/command-system/applying/applying.module.code.ts
++++ b/command-system/applying/applying.module.code.ts
+@@ -47,7 +47,7 @@ export function warrantedAgain(
+   for (const [path, one] of held) {
+     if (moved.includes(path) || one.was === null) continue
+     const oid = blobIdOf(one.was)
+-    recordRead(root, agentId, { path, oid, seenAt: Date.now(), mechanicalOid: null })
++    recordRead(root, agentId, { path, oid, seenAt: Date.now(), carriedOid: null })
+     again.push(path)
+   }
+   return again.sort()
+@@ -69,7 +69,7 @@ function recordedAsLanded(root: string, agentId: string, changes: readonly FileE
+       path: one.path,
+       oid: blobIdOf(one.body),
+       seenAt: Date.now(),
+-      mechanicalOid: null,
++      carriedOid: null,
+     })
+   }
+ }
+diff --git a/command-system/asking/asking.module.test-fixtures.ts b/command-system/asking/asking.module.test-fixtures.ts
+index a31d57a8ffba8c8d71b293ee1b3290b7dae73283..f651f60dd17d7c2ca8c4fb8fc6b6d2328d530d9a 100644
+--- a/command-system/asking/asking.module.test-fixtures.ts
++++ b/command-system/asking/asking.module.test-fixtures.ts
+@@ -62,7 +62,7 @@ export function repoAt(root: string, named: Readonly<Record<string, string>>): s
+   git(root, ["config", "user.name", "Held"])
+   for (const [path, body] of Object.entries(named)) {
+     put(root, path, body)
+-    recordRead(root, AGENT, { path, oid: blobIdOf(bytes(body)), seenAt: 1, mechanicalOid: null })
++    recordRead(root, AGENT, { path, oid: blobIdOf(bytes(body)), seenAt: 1, carriedOid: null })
+   }
+   git(root, ["add", "-A"])
+   git(root, ["commit", "--quiet", "-m", "first"])
+diff --git a/command-system/change-freshness/change-freshness.module.test.ts b/command-system/change-freshness/change-freshness.module.test.ts
+index 15c8fd6b48ae6090b8201a2a766442062ec13b90..9a3dc73ccab3a896b08bb52ed2ec02d387618760 100644
+--- a/command-system/change-freshness/change-freshness.module.test.ts
++++ b/command-system/change-freshness/change-freshness.module.test.ts
+@@ -35,8 +35,8 @@ function repoWith(named: Readonly<Record<string, string>>): string {
+   return root
+ }
+ 
+-function asRead(path: string, oid: string, mechanicalOid: string | null = null): Reading {
+-  return { path, oid, seenAt: 0, mechanicalOid }
++function asRead(path: string, oid: string, carriedOid: string | null = null): Reading {
++  return { path, oid, seenAt: 0, carriedOid }
+ }
+ 
+ const readA = (): Reading => asRead(AT, blobIdOf(bytes(A)))
+@@ -129,7 +129,7 @@ const said = await landing(
+   { named: ["admits"], over: async () => [] },
+   null,
+   null,
+-  [{ path: ${JSON.stringify(AT)}, oid: ${JSON.stringify(oid)}, seenAt: 0, mechanicalOid: null }]
++  [{ path: ${JSON.stringify(AT)}, oid: ${JSON.stringify(oid)}, seenAt: 0, carriedOid: null }]
+ )
+ console.log("refusals" in said ? said.refusals.join("\\n") : "landed")`,
+     ],
+diff --git a/command-system/commands/move/move.command.test-fixtures.ts b/command-system/commands/move/move.command.test-fixtures.ts
+index 0d91864e5aa8dfb11d247f747c6fd293903ba14b..4672467afe2f7b0cc49315810a50ae4f77b63440 100644
+--- a/command-system/commands/move/move.command.test-fixtures.ts
++++ b/command-system/commands/move/move.command.test-fixtures.ts
+@@ -227,7 +227,7 @@ export function held(root: string, path: string, body: string): undefined {
+     path,
+     oid: blobIdOf(new TextEncoder().encode(body)),
+     seenAt: 1,
+-    mechanicalOid: null,
++    carriedOid: null,
+   })
+ }
+ 
+diff --git a/command-system/commands/move/move.command.test.ts b/command-system/commands/move/move.command.test.ts
+index 4096a8a2960ca8bb54f820fbcd0a3ea0a2a05999..45d404b7a2b986ce7022ee668e2148f33ba83ff9 100644
+--- a/command-system/commands/move/move.command.test.ts
++++ b/command-system/commands/move/move.command.test.ts
+@@ -145,7 +145,7 @@ test("a reading carries to the new path, and the write it warranted is not refus
+   expect(said.refusals).toEqual([])
+   const now = readingIn(root, AGENT, DEEPER)
+   expect(now?.oid).toBe(blobIdOf(new TextEncoder().encode(CODE)))
+-  expect(now?.mechanicalOid).toBe(blobIdOf(readFileSync(join(root, DEEPER))))
++  expect(now?.carriedOid).toBe(blobIdOf(readFileSync(join(root, DEEPER))))
+   expect(readingIn(root, AGENT, HOLDER)).toBeNull()
+   expect(unreadIn(root, AGENT, [DEEPER])).toEqual([])
+ })
+@@ -154,7 +154,7 @@ test("a dry run carries no reading anywhere", async () => {
+   const { root, said } = await readingMoved(["--dry-run"])
+   expect(said.refusals).toEqual([])
+   expect(readingIn(root, AGENT, DEEPER)).toBeNull()
+-  expect(readingIn(root, AGENT, HOLDER)?.mechanicalOid).toBeNull()
++  expect(readingIn(root, AGENT, HOLDER)?.carriedOid).toBeNull()
+ })
+ 
+ test("a file moving in the same act is repointed from its body, not as an importer", async () => {
+diff --git a/command-system/commands/read/read.command.code.ts b/command-system/commands/read/read.command.code.ts
+index daed8bcfea21b87649d9c1ac1766a69789ef82a0..654e387c8d92e8419b6f9944472b25c2a82e59f4 100644
+--- a/command-system/commands/read/read.command.code.ts
++++ b/command-system/commands/read/read.command.code.ts
+@@ -351,7 +351,7 @@ export function readWith(
+         path: at,
+         oid,
+         seenAt: Date.now(),
+-        mechanicalOid: null,
++        carriedOid: null,
+         readThrough: reachedTo(long.run),
+       })
+       break
+@@ -368,7 +368,7 @@ export function readWith(
+         path: at,
+         oid,
+         seenAt: Date.now(),
+-        mechanicalOid: null,
++        carriedOid: null,
+       })
+     }
+   }
+diff --git a/command-system/commands/read/read.command.test-fixtures.ts b/command-system/commands/read/read.command.test-fixtures.ts
+index 25a752fea6c71720661d16294c8336e5dcad5f61..0371d91d164c937dfd35c9a962cd6e50d8e0ff94 100644
+--- a/command-system/commands/read/read.command.test-fixtures.ts
++++ b/command-system/commands/read/read.command.test-fixtures.ts
+@@ -253,7 +253,7 @@ export function telling(was: Uint8Array | null, now: string): readonly string[]
+     path: HELD,
+     oid: blobIdOf(was ?? bodyOf("elsewhere\n")),
+     seenAt: 1,
+-    mechanicalOid: null,
++    carriedOid: null,
+   }
+   return tellingWith(HELD, bytes, blobIdOf(bytes), seen, was)
+ }
+diff --git a/command-system/commands/remove/remove.command.test.ts b/command-system/commands/remove/remove.command.test.ts
+index cf908335228e0bc9d7c9a27779a50e7dfcae6e15..398a67e8dff847b8f15d738ac60b19bbe58d16a7 100644
+--- a/command-system/commands/remove/remove.command.test.ts
++++ b/command-system/commands/remove/remove.command.test.ts
+@@ -70,8 +70,8 @@ test("a path that is not there is already gone, and what does stand is still tak
+ 
+ test("a removal forgets the reading of what went, for every agent holding one", async () => {
+   const root = repoWith({ [HELD]: BODY, [KEPT]: BODY })
+-  recordRead(root, AGENT, { path: HELD, oid: "one", seenAt: 1, mechanicalOid: null })
+-  recordRead(root, AGENT, { path: KEPT, oid: "two", seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: HELD, oid: "one", seenAt: 1, carriedOid: null })
++  recordRead(root, AGENT, { path: KEPT, oid: "two", seenAt: 1, carriedOid: null })
+   const said = await removing(root, naming(HELD))
+   expect(said.refusals).toEqual([])
+   expect(readingIn(root, AGENT, HELD)).toBeNull()
+@@ -81,7 +81,7 @@ test("a removal forgets the reading of what went, for every agent holding one",
+ test("naming a path already gone forgets its reading and commits nothing", async () => {
+   const root = heldWorld()
+   const was = head(root)
+-  recordRead(root, AGENT, { path: GONE, oid: "one", seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: GONE, oid: "one", seenAt: 1, carriedOid: null })
+   const said = await removing(root, naming(GONE))
+   expect(said.refusals).toEqual([])
+   expect(said.code).toBe(0)
+diff --git a/command-system/commands/write/write.command.test-fixtures.ts b/command-system/commands/write/write.command.test-fixtures.ts
+index 7f0554c663070da1f1bfc16e8261eb59e374dc81..b866d03ef1e20901a6d1538f4faf683de7cb2937 100644
+--- a/command-system/commands/write/write.command.test-fixtures.ts
++++ b/command-system/commands/write/write.command.test-fixtures.ts
+@@ -53,5 +53,5 @@ export function alsoCommitted(root: string, path: string, body: string): string
+ }
+ 
+ export function readAs(root: string, path: string, body: string): undefined {
+-  recordRead(root, AGENT, { path, oid: blobIdOf(bytesOf(body)), seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path, oid: blobIdOf(bytesOf(body)), seenAt: 1, carriedOid: null })
+ }
+diff --git a/command-system/landing-reading/landing-reading.module.code.ts b/command-system/landing-reading/landing-reading.module.code.ts
+index 07a7963d75d29c55fe2a9c8dbbceb309a0c82b4b..4e755ebf17e52c0c65cae403ca418e95ddcc9cb3 100644
+--- a/command-system/landing-reading/landing-reading.module.code.ts
++++ b/command-system/landing-reading/landing-reading.module.code.ts
+@@ -18,7 +18,7 @@ export function recordLanded(given: Given, changes: readonly FileEdit[]): undefi
+       path: one.path,
+       oid: blobIdOf(one.body),
+       seenAt: Date.now(),
+-      mechanicalOid: null,
++      carriedOid: null,
+     })
+   }
+ }
+diff --git a/command-system/reading/reading.module.code.ts b/command-system/reading/reading.module.code.ts
+index 166650e80d15fb88597369d2016b810ff244f964..e90e5a1ad72d065f2e501c668493cdb1fa9e8920 100644
+--- a/command-system/reading/reading.module.code.ts
++++ b/command-system/reading/reading.module.code.ts
+@@ -38,7 +38,7 @@ export type Reading = {
+   readonly path: string
+   readonly oid: string
+   readonly seenAt: number
+-  readonly mechanicalOid: string | null
++  readonly carriedOid: string | null
+   readonly readThrough?: number | null
+ }
+ 
+@@ -83,16 +83,16 @@ function readingOf(value: unknown): Reading | null {
+     path?: unknown
+     oid?: unknown
+     seenAt?: unknown
+-    mechanicalOid?: unknown
++    carriedOid?: unknown
+     readThrough?: unknown
+   }
+   const { path, oid, seenAt, readThrough } = held
+   if (typeof path !== "string" || path === "") return null
+   if (typeof oid !== "string" || oid === "") return null
+   if (typeof seenAt !== "number" || !Number.isFinite(seenAt)) return null
+-  const said = held.mechanicalOid
++  const said = held.carriedOid
+   const left = typeof said === "string" && said !== "" ? said : null
+-  return withReach({ path, oid, seenAt, mechanicalOid: left }, reachOf(readThrough))
++  return withReach({ path, oid, seenAt, carriedOid: left }, reachOf(readThrough))
+ }
+ 
+ export function readingIn(root: string, agentId: string, path: string): Reading | null {
+@@ -119,12 +119,12 @@ export function recordRead(root: string, agentId: string, held: Reading): undefi
+ 
+ export function sameBody(held: Reading | null, oid: string): boolean {
+   if (held === null || partly(held)) return false
+-  return held.oid === oid || held.mechanicalOid === oid
++  return held.oid === oid || held.carriedOid === oid
+ }
+ 
+ export function carriedInto(held: Reading, carry: Carry, to: string): Reading | null {
+-  if ((held.mechanicalOid ?? held.oid) !== carry.from) return null
+-  const said = { path: carry.now, oid: held.oid, seenAt: held.seenAt, mechanicalOid: to }
++  if ((held.carriedOid ?? held.oid) !== carry.from) return null
++  const said = { path: carry.now, oid: held.oid, seenAt: held.seenAt, carriedOid: to }
+   return withReach(said, reachOf(held.readThrough))
+ }
+ 
+diff --git a/command-system/reading/reading.module.test.ts b/command-system/reading/reading.module.test.ts
+index 3247011e320090b6d9c97844fb2e6b760617bf39..2a102888b806229e786e7f11ee298d7b022a5e5e 100644
+--- a/command-system/reading/reading.module.test.ts
++++ b/command-system/reading/reading.module.test.ts
+@@ -73,21 +73,21 @@ test("a reading is found by agent, then by path", () => {
+ 
+ test("a reading recorded is the reading read back", () => {
+   const root = scratch.rootFor("akasha-reading-")
+-  const held = { path: "akasha/a.ts", oid: "abc123", seenAt: 1788000000000, mechanicalOid: null }
++  const held = { path: "akasha/a.ts", oid: "abc123", seenAt: 1788000000000, carriedOid: null }
+   recordRead(root, AGENT, held)
+   expect(readingIn(root, AGENT, "akasha/a.ts")).toEqual(held)
+ })
+ 
+ test("a reading of a path replaces the one before it", () => {
+   const root = scratch.rootFor("akasha-reading-")
+-  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "one", seenAt: 1, mechanicalOid: null })
+-  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "two", seenAt: 2, mechanicalOid: null })
++  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "one", seenAt: 1, carriedOid: null })
++  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "two", seenAt: 2, carriedOid: null })
+   expect(readingIn(root, AGENT, "akasha/a.ts")?.oid).toBe("two")
+ })
+ 
+ test("one agent's reading is not another's", () => {
+   const root = scratch.rootFor("akasha-reading-")
+-  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "one", seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "one", seenAt: 1, carriedOid: null })
+   expect(readingIn(root, "another-agent", "akasha/a.ts")).toBeNull()
+ })
+ 
+@@ -115,17 +115,17 @@ test("a line missing what a reading carries reads as nothing", () => {
+ test("a line saying nothing of a mechanical change left none behind", () => {
+   const root = scratch.rootFor("akasha-reading-")
+   thinAt(root, A, { path: A, oid: "abc", seenAt: 1 })
+-  expect(readingIn(root, AGENT, A)).toEqual({ path: A, oid: "abc", seenAt: 1, mechanicalOid: null })
++  expect(readingIn(root, AGENT, A)).toEqual({ path: A, oid: "abc", seenAt: 1, carriedOid: null })
+ })
+ 
+ test("a mechanical id said as nothing at all is read as none", () => {
+   const root = scratch.rootFor("akasha-reading-")
+-  thinAt(root, A, { path: A, oid: "abc", seenAt: 1, mechanicalOid: "" })
+-  expect(readingIn(root, AGENT, A)?.mechanicalOid).toBeNull()
++  thinAt(root, A, { path: A, oid: "abc", seenAt: 1, carriedOid: "" })
++  expect(readingIn(root, AGENT, A)?.carriedOid).toBeNull()
+ })
+ 
+ test("the body read and the body a mechanical change left both answer, and no third", () => {
+-  const held = { path: A, oid: "one", seenAt: 1, mechanicalOid: "two" }
++  const held = { path: A, oid: "one", seenAt: 1, carriedOid: "two" }
+   expect(sameBody(held, "one")).toBe(true)
+   expect(sameBody(held, "two")).toBe(true)
+   expect(sameBody(held, "three")).toBe(false)
+@@ -133,17 +133,17 @@ test("the body read and the body a mechanical change left both answer, and no th
+ })
+ 
+ test("a reading of another body than the change started from is not carried", () => {
+-  const held = { path: A, oid: "one", seenAt: 1, mechanicalOid: null }
++  const held = { path: A, oid: "one", seenAt: 1, carriedOid: null }
+   expect(carriedInto(held, { was: A, now: B, from: "two" }, "three")).toBeNull()
+ })
+ 
+ test("a carry chains off the mechanical id, and the body read stays pinned", () => {
+-  const held = { path: A, oid: "one", seenAt: 1, mechanicalOid: "two" }
++  const held = { path: A, oid: "one", seenAt: 1, carriedOid: "two" }
+   expect(carriedInto(held, { was: A, now: B, from: "two" }, "three")).toEqual({
+     path: B,
+     oid: "one",
+     seenAt: 1,
+-    mechanicalOid: "three",
++    carriedOid: "three",
+   })
+   expect(carriedInto(held, { was: A, now: B, from: "one" }, "three")).toBeNull()
+ })
+@@ -152,13 +152,13 @@ test("a carried reading is at the new path and the old file is gone", () => {
+   const root = scratch.rootFor("akasha-reading-")
+   const was = writing(root, A, "one\n")
+   const now = writing(root, B, "two\n")
+-  recordRead(root, AGENT, { path: A, oid: was, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: A, oid: was, seenAt: 1, carriedOid: null })
+   carryReadings(root, [{ was: A, now: B, from: was }])
+   expect(readingIn(root, AGENT, B)).toEqual({
+     path: B,
+     oid: was,
+     seenAt: 1,
+-    mechanicalOid: now,
++    carriedOid: now,
+   })
+   expect(readingIn(root, AGENT, A)).toBeNull()
+   expect(existsSync(readingFileAt(root, AGENT, A))).toBe(false)
+@@ -168,9 +168,9 @@ test("a body rewritten where it is keeps its path and gains the mechanical id",
+   const root = scratch.rootFor("akasha-reading-")
+   const was = blobIdOf(new TextEncoder().encode("one\n"))
+   const now = writing(root, A, "two\n")
+-  recordRead(root, AGENT, { path: A, oid: was, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: A, oid: was, seenAt: 1, carriedOid: null })
+   carryReadings(root, [{ was: A, now: A, from: was }])
+-  expect(readingIn(root, AGENT, A)).toEqual({ path: A, oid: was, seenAt: 1, mechanicalOid: now })
++  expect(readingIn(root, AGENT, A)).toEqual({ path: A, oid: was, seenAt: 1, carriedOid: now })
+   expect(existsSync(readingFileAt(root, AGENT, A))).toBe(true)
+ })
+ 
+@@ -179,12 +179,12 @@ test("every agent holding the body is carried, not the first one found", () => {
+   const was = writing(root, A, "one\n")
+   const now = writing(root, B, "two\n")
+   for (const one of [AGENT, OTHER]) {
+-    recordRead(root, one, { path: A, oid: was, seenAt: 1, mechanicalOid: null })
++    recordRead(root, one, { path: A, oid: was, seenAt: 1, carriedOid: null })
+   }
+   expect(agentIdsIn(root)).toEqual([OTHER, AGENT])
+   carryReadings(root, [{ was: A, now: B, from: was }])
+   for (const one of [AGENT, OTHER]) {
+-    expect(readingIn(root, one, B)?.mechanicalOid).toBe(now)
++    expect(readingIn(root, one, B)?.carriedOid).toBe(now)
+     expect(readingIn(root, one, A)).toBeNull()
+   }
+ })
+@@ -192,8 +192,8 @@ test("every agent holding the body is carried, not the first one found", () => {
+ test("a removal forgets the reading, for every agent holding one", () => {
+   const root = scratch.rootFor("akasha-reading-")
+   for (const one of [AGENT, OTHER]) {
+-    recordRead(root, one, { path: A, oid: "one", seenAt: 1, mechanicalOid: null })
+-    recordRead(root, one, { path: B, oid: "two", seenAt: 1, mechanicalOid: null })
++    recordRead(root, one, { path: A, oid: "one", seenAt: 1, carriedOid: null })
++    recordRead(root, one, { path: B, oid: "two", seenAt: 1, carriedOid: null })
+   }
+   dropReadings(root, [A])
+   for (const one of [AGENT, OTHER]) {
+@@ -205,7 +205,7 @@ test("a removal forgets the reading, for every agent holding one", () => {
+ 
+ test("forgetting a reading nobody holds takes nothing away and throws nothing", () => {
+   const root = scratch.rootFor("akasha-reading-")
+-  recordRead(root, AGENT, { path: B, oid: "two", seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: B, oid: "two", seenAt: 1, carriedOid: null })
+   expect(() => dropReadings(root, [A])).not.toThrow()
+   expect(() => dropReadings(scratch.rootFor("akasha-reading-"), [A])).not.toThrow()
+   expect(readingIn(root, AGENT, B)?.oid).toBe("two")
+@@ -259,21 +259,21 @@ test("an acting name without a seat named is not honoured either", () => {
+ 
+ test("a subagent's readings sit under its own name and not its seat's", () => {
+   const root = scratch.rootFor("akasha-reading-")
+-  recordRead(root, UNDER, { path: A, oid: "one", seenAt: 1, mechanicalOid: null })
++  recordRead(root, UNDER, { path: A, oid: "one", seenAt: 1, carriedOid: null })
+   expect(readingIn(root, UNDER, A)?.oid).toBe("one")
+   expect(readingIn(root, AGENT, A)).toBeNull()
+ })
+ 
+ test("a seat's readings do not sit under its subagent's name", () => {
+   const root = scratch.rootFor("akasha-reading-")
+-  recordRead(root, AGENT, { path: A, oid: "one", seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: A, oid: "one", seenAt: 1, carriedOid: null })
+   expect(readingIn(root, UNDER, A)).toBeNull()
+ })
+ 
+ test("a composite owner is a folder of its own beside the seat's", () => {
+   const root = scratch.rootFor("akasha-reading-")
+   for (const one of [AGENT, UNDER]) {
+-    recordRead(root, one, { path: A, oid: one, seenAt: 1, mechanicalOid: null })
++    recordRead(root, one, { path: A, oid: one, seenAt: 1, carriedOid: null })
+   }
+   expect(agentIdsIn(root)).toEqual([AGENT, UNDER])
+ })
+@@ -327,7 +327,7 @@ test("output at a terminal reaches whoever asked", () => {
+ 
+ test("a line carrying no reach into the body means the whole body reached the agent", () => {
+   const root = scratch.rootFor("akasha-reading-")
+-  thinAt(root, A, { path: A, oid: "abc", seenAt: 1, mechanicalOid: null })
++  thinAt(root, A, { path: A, oid: "abc", seenAt: 1, carriedOid: null })
+   const held = readingIn(root, AGENT, A)
+   expect(partly(held)).toBe(false)
+   expect(sameBody(held, "abc")).toBe(true)
+@@ -335,12 +335,12 @@ test("a line carrying no reach into the body means the whole body reached the ag
+ 
+ test("a reach into the body is written and read back", () => {
+   const root = scratch.rootFor("akasha-reading-")
+-  recordRead(root, AGENT, { path: A, oid: "abc", seenAt: 1, mechanicalOid: null, readThrough: 42 })
++  recordRead(root, AGENT, { path: A, oid: "abc", seenAt: 1, carriedOid: null, readThrough: 42 })
+   expect(readingIn(root, AGENT, A)?.readThrough).toBe(42)
+ })
+ 
+ test("a reading carrying a reach into the body answers no body", () => {
+-  const held = { path: A, oid: "one", seenAt: 1, mechanicalOid: "two", readThrough: 5 }
++  const held = { path: A, oid: "one", seenAt: 1, carriedOid: "two", readThrough: 5 }
+   expect(sameBody(held, "one")).toBe(false)
+   expect(sameBody(held, "two")).toBe(false)
+   expect(sameBody({ ...held, readThrough: null }, "one")).toBe(true)
+@@ -349,13 +349,13 @@ test("a reading carrying a reach into the body answers no body", () => {
+ test("a reach that is no whole line count is no reach", () => {
+   const root = scratch.rootFor("akasha-reading-")
+   for (const said of [0, -1, 1.5, "7", null]) {
+-    thinAt(root, A, { path: A, oid: "abc", seenAt: 1, mechanicalOid: null, readThrough: said })
++    thinAt(root, A, { path: A, oid: "abc", seenAt: 1, carriedOid: null, readThrough: said })
+     expect(partly(readingIn(root, AGENT, A))).toBe(false)
+   }
+ })
+ 
+ test("a mechanical change carries how far into the body the agent had read", () => {
+-  const held = { path: A, oid: "one", seenAt: 1, mechanicalOid: "two", readThrough: 9 }
++  const held = { path: A, oid: "one", seenAt: 1, carriedOid: "two", readThrough: 9 }
+   const carried = carriedInto(held, { was: A, now: B, from: "two" }, "three")
+   expect(carried?.readThrough).toBe(9)
+   expect(sameBody(carried, "three")).toBe(false)
+diff --git a/context/modules/warranting/warranting.module.test-fixtures.ts b/context/modules/warranting/warranting.module.test-fixtures.ts
+index e942e6c0ff098f035963d8d981a5b932670d20f5..48cb79f2af8aeb3fdf27f328cf370da53371e0bd 100644
+--- a/context/modules/warranting/warranting.module.test-fixtures.ts
++++ b/context/modules/warranting/warranting.module.test-fixtures.ts
+@@ -174,7 +174,7 @@ export function readAt(
+   was: string | null = null,
+   reach: number | null = null
+ ): undefined {
+-  recordRead(root, agentId, { path, oid, seenAt: 1, mechanicalOid: was, readThrough: reach })
++  recordRead(root, agentId, { path, oid, seenAt: 1, carriedOid: was, readThrough: reach })
+ }
+ 
+ export function subaged(root: string, slug: string, path: string): undefined {
+diff --git a/context/modules/warranting/warranting.module.test.ts b/context/modules/warranting/warranting.module.test.ts
+index ec9d8596b939b021ffc2e23a0af185a7d0829077..bff606e8ae6b79389048999a456be6dc120148c2 100644
+--- a/context/modules/warranting/warranting.module.test.ts
++++ b/context/modules/warranting/warranting.module.test.ts
+@@ -148,7 +148,7 @@ test("a reading whose mechanical id is the body there now answers for it", () =>
+ test("when the body was read is not asked, only which body", () => {
+   const root = rootWith()
+   const oid = writing(root, PATH, "one\n")
+-  recordRead(root, AGENT, { path: PATH, oid, seenAt: 0, mechanicalOid: null })
++  recordRead(root, AGENT, { path: PATH, oid, seenAt: 0, carriedOid: null })
+   expect(unreadIn(root, AGENT, [PATH])).toEqual([])
+ })
+ 
+diff --git a/context/warrants/agent-akasha/agent-akasha.context-warrant.test.ts b/context/warrants/agent-akasha/agent-akasha.context-warrant.test.ts
+index ba4721c436e2031c4269d048271d3e609cdb9d20..2e9826d9cc4b041a5b57f706c905ab9c14b29c7f 100644
+--- a/context/warrants/agent-akasha/agent-akasha.context-warrant.test.ts
++++ b/context/warrants/agent-akasha/agent-akasha.context-warrant.test.ts
+@@ -84,7 +84,7 @@ test("an akasha domain not read is refused, and the refusal says why it is owed"
+   const held = domainListed(root, "akasha")
+   const at = seatListed(root, "one", STATED)
+   const oid = writing(root, at, `export const one = { ${STATED} }\n`)
+-  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
+   const said = unreadIn(root, AGENT, [at])
+   expect(said.length).toBe(1)
+   expect(said[0]).toContain(AKASHA)
+diff --git a/context/warrants/agent-role/agent-role.context-warrant.test.ts b/context/warrants/agent-role/agent-role.context-warrant.test.ts
+index 3e75fd6e723b032aff34525c72a1d1eaea26df4a..40739d254d9aeda7ad4f320a07db6649c6869c72 100644
+--- a/context/warrants/agent-role/agent-role.context-warrant.test.ts
++++ b/context/warrants/agent-role/agent-role.context-warrant.test.ts
+@@ -86,7 +86,7 @@ test("a role page type not read is refused, and the refusal says why it is owed"
+   warrantsSeeded(root, ["agent-role"])
+   const held = pageTypeListed(root, "role", ["domain"])
+   const oid = writing(root, SUB_AT, SUB_BODY)
+-  recordRead(root, AGENT, { path: SUB_AT, oid, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: SUB_AT, oid, seenAt: 1, carriedOid: null })
+   const said = unreadIn(root, AGENT, [SUB_AT])
+   expect(said.length).toBe(1)
+   expect(said[0]).toContain(ROLE_TYPE)
+diff --git a/context/warrants/assignment-itself/assignment-itself.context-warrant.test.ts b/context/warrants/assignment-itself/assignment-itself.context-warrant.test.ts
+index f7c2710b93194388ce288ad5184803f1b730d54d..6868512d73e882316b509ee0bb1777a11e9a464c 100644
+--- a/context/warrants/assignment-itself/assignment-itself.context-warrant.test.ts
++++ b/context/warrants/assignment-itself/assignment-itself.context-warrant.test.ts
+@@ -136,7 +136,7 @@ test("an assignment not read is refused, and the refusal says why it is owed", (
+   const held = domainListed(root, "akasha-system")
+   const at = seatListed(root, "one", `assignmentSlug: "domain/akasha-system"`)
+   const oid = writing(root, at, `export const one = { assignmentSlug: "domain/akasha-system" }\n`)
+-  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
+   const said = unreadIn(root, AGENT, [at])
+   expect(said.length).toBe(1)
+   expect(said[0]).toContain(ASSIGNMENT)
+diff --git a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts
+index 8685df5a3f851257c83405f02c6c87132e348388..2cdffede7860b9325592881f5849377755ceac3c 100644
+--- a/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts
++++ b/context/warrants/domain-ancestors/domain-ancestors.context-warrant.test.ts
+@@ -175,7 +175,7 @@ test("a domain above not read is refused, and the refusal says why it is owed",
+   namesPart(root, top, mid)
+   const at = seatListed(root, "one", `assignmentSlug: "domain/context-system"`)
+   const oid = writing(root, at, `export const one = { assignmentSlug: "domain/context-system" }\n`)
+-  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
+   const said = unreadIn(root, AGENT, [at])
+   expect(said.length).toBe(1)
+   expect(said[0]).toContain(ABOVE)
+diff --git a/context/warrants/file-domain/file-domain.context-warrant.test.ts b/context/warrants/file-domain/file-domain.context-warrant.test.ts
+index 01ada2a60d9d6adb9f0966f8a234ef5c8ba07bc8..64ce59fd0e3734f62aa16b6a218745cfd5a8f233 100644
+--- a/context/warrants/file-domain/file-domain.context-warrant.test.ts
++++ b/context/warrants/file-domain/file-domain.context-warrant.test.ts
+@@ -134,7 +134,7 @@ test("a naming page not read is refused, and the refusal says why it is owed", (
+   const part = domainListed(root, "part")
+   namesPart(root, whole, part)
+   const oid = writing(root, part.path, "one\n")
+-  recordRead(root, AGENT, { path: part.path, oid, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: part.path, oid, seenAt: 1, carriedOid: null })
+   const said = unreadIn(root, AGENT, [part.path])
+   expect(said.length).toBe(1)
+   expect(said[0]).toContain(WHOLE)
+diff --git a/context/warrants/file-import/file-import.context-warrant.test.ts b/context/warrants/file-import/file-import.context-warrant.test.ts
+index 896c74515e07d3df288aa584d550beef480125a6..95ca27c014ce958f12d1df59622c09fb20f0ac97 100644
+--- a/context/warrants/file-import/file-import.context-warrant.test.ts
++++ b/context/warrants/file-import/file-import.context-warrant.test.ts
+@@ -277,7 +277,7 @@ test("a page of an import not read is refused, and the refusal says the page is
+     path: at,
+     oid: blobIdOf(new TextEncoder().encode('import { b } from "../b/b.module.code.ts"\n')),
+     seenAt: 1,
+-    mechanicalOid: null,
++    carriedOid: null,
+   })
+   const said = unreadIn(root, AGENT, [at])
+   expect(said.length).toBe(1)
+diff --git a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
+index 5116dd07047bbd9789856bd0230246d44cf7cc65..9a7f8353aa3533a4e5455d299057da53b17810e9 100644
+--- a/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
++++ b/context/warrants/file-page-type/file-page-type.context-warrant.test.ts
+@@ -111,7 +111,7 @@ test("a type not read is refused, and the refusal says the type is owed", () =>
+   warrantsSeeded(root)
+   typeWorld(root)
+   const oid = writing(root, PATH, "one\n")
+-  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, carriedOid: null })
+   const said = unreadIn(root, AGENT, [PATH])
+   expect(said.length).toBe(1)
+   expect(said[0]).toContain(TYPE)
+@@ -127,7 +127,7 @@ test("one reading of a type answers for every path of that type", () => {
+       path: at,
+       oid: writing(root, at, "one\n"),
+       seenAt: 1,
+-      mechanicalOid: null,
++      carriedOid: null,
+     })
+   }
+   expect(unreadIn(root, AGENT, [PATH, other]).length).toBe(1)
+diff --git a/context/warrants/file-property/file-property.context-warrant.test.ts b/context/warrants/file-property/file-property.context-warrant.test.ts
+index de54b3e612bbdb25cb15f7eabacd64d099644448..b8a9308126a9fdc7a8fb3220014827c5a0803c01 100644
+--- a/context/warrants/file-property/file-property.context-warrant.test.ts
++++ b/context/warrants/file-property/file-property.context-warrant.test.ts
+@@ -222,7 +222,7 @@ test("a property not read is refused, and the refusal says the property is owed"
+   warrantsSeeded(root, ["file-property"])
+   const every = statingWorld(root)
+   const oid = stating(root, PATH, ["id", "pageTypeSlug", "slug", "definition"])
+-  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: PATH, oid, seenAt: 1, carriedOid: null })
+   const said = unreadIn(root, AGENT, [PATH])
+   expect(said.length).toBe(every.length)
+   expect(said[0]).toContain(PROPERTY)
+diff --git a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
+index 8d9ee37744f9b6ea604090ea1bcaa110f1fe4641..223229ff3fa3c02ff2395094d1cfcaefcf7608f3 100644
+--- a/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
++++ b/context/warrants/initiative-ancestors/initiative-ancestors.context-warrant.test.ts
+@@ -127,7 +127,7 @@ test("an initiative above not read is refused, and the refusal says why it is ow
+   initiativeListed(root, "one-step", `parentSlug: "initiative/one-work"`)
+   const at = seatListed(root, "one", `assignmentSlug: "initiative/one-step"`)
+   const oid = writing(root, at, `export const one = { assignmentSlug: "initiative/one-step" }\n`)
+-  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
+   const said = unreadIn(root, AGENT, [at])
+   expect(said.length).toBe(1)
+   expect(said[0]).toContain(UNDER)
+diff --git a/context/warrants/person-itself/person-itself.context-warrant.test.ts b/context/warrants/person-itself/person-itself.context-warrant.test.ts
+index 162d280ccdbf0bbd1df7b04bb77eb5e34019f7a6..610bba48ba2b2f1aa2b346f357cdcede33706899 100644
+--- a/context/warrants/person-itself/person-itself.context-warrant.test.ts
++++ b/context/warrants/person-itself/person-itself.context-warrant.test.ts
+@@ -87,7 +87,7 @@ test("a person not read is refused, and the refusal says why it is owed", () =>
+   const held = personListed(root, "alan")
+   const at = seatListed(root, "one", `personSlug: "alan"`)
+   const oid = writing(root, at, `export const one = { personSlug: "alan" }\n`)
+-  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
+   const said = unreadIn(root, AGENT, [at])
+   expect(said.length).toBe(1)
+   expect(said[0]).toContain(PERSON)
+diff --git a/context/warrants/persona-itself/persona-itself.context-warrant.test.ts b/context/warrants/persona-itself/persona-itself.context-warrant.test.ts
+index d42943329483eaae1c78752d2d400ca6c3c1c237..c239763db3e24ffe49223d134c03fdc219d17c8a 100644
+--- a/context/warrants/persona-itself/persona-itself.context-warrant.test.ts
++++ b/context/warrants/persona-itself/persona-itself.context-warrant.test.ts
+@@ -87,7 +87,7 @@ test("a persona not read is refused, and the refusal says why it is owed", () =>
+   const held = personaListed(root, "akasha")
+   const at = seatListed(root, "one", `personaSlug: "akasha"`)
+   const oid = writing(root, at, `export const one = { personaSlug: "akasha" }\n`)
+-  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
+   const said = unreadIn(root, AGENT, [at])
+   expect(said.length).toBe(1)
+   expect(said[0]).toContain(PERSONA)
+diff --git a/context/warrants/role-itself/role-itself.context-warrant.test.ts b/context/warrants/role-itself/role-itself.context-warrant.test.ts
+index bf2d7966a4e8100f6e0e13a2b3d6d62619e851a4..c87cf5c91d7db9c1811e7a9034ce7c26457fc201 100644
+--- a/context/warrants/role-itself/role-itself.context-warrant.test.ts
++++ b/context/warrants/role-itself/role-itself.context-warrant.test.ts
+@@ -79,7 +79,7 @@ test("a role not read is refused, and the refusal says why it is owed", () => {
+   const held = roleListed(root, "definer")
+   const at = seatListed(root, "one", `roleSlug: "definer"`)
+   const oid = writing(root, at, `export const one = { roleSlug: "definer" }\n`)
+-  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
+   const said = unreadIn(root, AGENT, [at])
+   expect(said.length).toBe(1)
+   expect(said[0]).toContain(ROLE)
+diff --git a/context/warrants/seat-persona/seat-persona.context-warrant.test.ts b/context/warrants/seat-persona/seat-persona.context-warrant.test.ts
+index 42748512a1eb3576578928a055b656fca3d6e597..03a4c6cc7c5db7824d93161695d19667f0b4d068 100644
+--- a/context/warrants/seat-persona/seat-persona.context-warrant.test.ts
++++ b/context/warrants/seat-persona/seat-persona.context-warrant.test.ts
+@@ -86,7 +86,7 @@ test("a persona page type not read is refused, and the refusal says why it is ow
+   const held = pageTypeListed(root, "persona", ["domain"])
+   const at = seatListed(root, "one", STATED)
+   const oid = writing(root, at, `export const one = { ${STATED} }\n`)
+-  recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
++  recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
+   const said = unreadIn(root, AGENT, [at])
+   expect(said.length).toBe(1)
+   expect(said[0]).toContain(PERSONA_TYPE)
+diff --git a/domains/findings/pages/one-freshness-refusal-covers-a-stale-record-and-a-partial-read-and-names-only-one.finding.ts b/domains/findings/pages/one-freshness-refusal-covers-a-stale-record-and-a-partial-read-and-names-only-one.finding.ts
+index 6bc46779157795d460c2c0eceab404939fc0c15c..fae3bfc20eda1a79d48d5f5a4c9016330e0daae7 100644
+--- a/domains/findings/pages/one-freshness-refusal-covers-a-stale-record-and-a-partial-read-and-names-only-one.finding.ts
++++ b/domains/findings/pages/one-freshness-refusal-covers-a-stale-record-and-a-partial-read-and-names-only-one.finding.ts
+@@ -8,5 +8,5 @@ export const oneFreshnessRefusalCoversAStaleRecordAndAPartialReadAndNamesOnlyOne
+   claim:
+     "The moved-on-disk refusal at landing.module.code.ts:280 has two causes and its wording names only the first, so the remedy it implies is wrong half the time. `sameBody` at reading.module.code.ts:118-121 returns false on either of two grounds: the recorded body differs from the disk, or `partly(held)` is true, which holds whenever the reading carries a `readThrough` and is therefore true for any file delivered in runs rather than whole. The first is cleared by reading the file again. The second is not, because reading again in runs records another partial reading; it is cleared only by taking the body whole. The refusal says the disk disagrees with what was read, which describes the first cause and misdescribes the second as disagreement when the real defect is incompleteness.",
+   evidence:
+-    "Traced end to end while writing up a related hazard, and every line was opened rather than taken on report.\n\nThe predicate, at akasha/command-system/reading/reading.module.code.ts:118-121, is `if (held === null || partly(held)) return false` followed by `return held.oid === oid || held.mechanicalOid === oid`. The first line is an unconditional refusal for a partial reading: no comparison against the disk happens at all, so no state of the file can satisfy it. `partly` at :73 is `held !== null && reachOf(held.readThrough) !== null`, and `reachOf` at :67 admits any positive integer.\n\nThat the partial road is reachable rather than theoretical: akasha/command-system/commands/read/read.command.code.ts:333 writes `readThrough: reachedTo(long.run)` when a long file comes back in runs, and :208 and :210 both branch on `partly` when deciding what a later read answers. The read command truncates at 28,000 bytes per answer without breaking a file partway, so any file over that ceiling is read in runs and every one of them records a partial reading.\n\nThe caller: `movedOnDisk` at akasha/command-system/change-freshness/change-freshness.module.code.ts:8 blob-ids what is on disk and asks `sameBody` for each recorded reading, collecting the failures; landing.module.code.ts:280 turns each into a refusal saying the disk holds something other than the body that was read, and adds a tail telling the writer to read them again.\n\nWhy the wording matters rather than being a quibble. For the stale-record cause the advice is right and one read clears it. For the partial cause the advice is wrong in a way that wastes a lane: reading again the same way records another partial reading, the refusal returns unchanged, and the writer has every reason to think the file is being changed underneath by another agent, because that is what the message describes and a swarm is running. The remedy is to take the body whole with `--full`, which the refusal never mentions.\n\nThe two causes are also told apart cheaply, which is worth writing down: a stale record is cleared by one read, so a refusal that survives a clean re-read of an unchanged file is the partial cause rather than the stale one.\n\nA third case already on file is neither, and is worth naming so it is not merged into these two: `a-stale-lockfile-record-locks-one-agent-out-of-the-root-manifest` records a path outside `akasha/`, where the read the refusal asks for cannot be run at all, the read command answering only for what is inside the folder.\n\nControls. `rg --no-ignore --hidden -l 'readThrough|partly\\(|sameBody' akasha/domain-system/findings/pages/` exits 1 with no hits, so none of this was already recorded, and the same search shape returns 30 finding pages for `landedMechanically`, so the instrument is sighted and the zero is real.",
++    "Traced end to end while writing up a related hazard, and every line was opened rather than taken on report.\n\nThe predicate, at akasha/command-system/reading/reading.module.code.ts:118-121, is `if (held === null || partly(held)) return false` followed by `return held.oid === oid || held.carriedOid === oid`. The first line is an unconditional refusal for a partial reading: no comparison against the disk happens at all, so no state of the file can satisfy it. `partly` at :73 is `held !== null && reachOf(held.readThrough) !== null`, and `reachOf` at :67 admits any positive integer.\n\nThat the partial road is reachable rather than theoretical: akasha/command-system/commands/read/read.command.code.ts:333 writes `readThrough: reachedTo(long.run)` when a long file comes back in runs, and :208 and :210 both branch on `partly` when deciding what a later read answers. The read command truncates at 28,000 bytes per answer without breaking a file partway, so any file over that ceiling is read in runs and every one of them records a partial reading.\n\nThe caller: `movedOnDisk` at akasha/command-system/change-freshness/change-freshness.module.code.ts:8 blob-ids what is on disk and asks `sameBody` for each recorded reading, collecting the failures; landing.module.code.ts:280 turns each into a refusal saying the disk holds something other than the body that was read, and adds a tail telling the writer to read them again.\n\nWhy the wording matters rather than being a quibble. For the stale-record cause the advice is right and one read clears it. For the partial cause the advice is wrong in a way that wastes a lane: reading again the same way records another partial reading, the refusal returns unchanged, and the writer has every reason to think the file is being changed underneath by another agent, because that is what the message describes and a swarm is running. The remedy is to take the body whole with `--full`, which the refusal never mentions.\n\nThe two causes are also told apart cheaply, which is worth writing down: a stale record is cleared by one read, so a refusal that survives a clean re-read of an unchanged file is the partial cause rather than the stale one.\n\nA third case already on file is neither, and is worth naming so it is not merged into these two: `a-stale-lockfile-record-locks-one-agent-out-of-the-root-manifest` records a path outside `akasha/`, where the read the refusal asks for cannot be run at all, the read command answering only for what is inside the folder.\n\nControls. `rg --no-ignore --hidden -l 'readThrough|partly\\(|sameBody' akasha/domain-system/findings/pages/` exits 1 with no hits, so none of this was already recorded, and the same search shape returns 30 finding pages for `landedMechanically`, so the instrument is sighted and the zero is real.",
+ } as const satisfies Finding
+diff --git a/seat-system/seat-stopping/seat-stopping.module.test.ts b/seat-system/seat-stopping/seat-stopping.module.test.ts
+index 9bf756672e942354b56da1976078646f8dab28f7..cd30167772bac857a7a29005d71a04c39ffafded 100644
+--- a/seat-system/seat-stopping/seat-stopping.module.test.ts
++++ b/seat-system/seat-stopping/seat-stopping.module.test.ts
+@@ -171,7 +171,7 @@ test("a page taken away is forgotten by whoever read it", async () => {
+   try {
+     const root = seatedRoot(world.rootFor("seat-stopping-"))
+     const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, HELD_AT), "utf8")))
+-    recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, mechanicalOid: null })
++    recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
+     expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
+     expect(await took(givenIn(root), [HELD_AT], "athena was stopped, so its page goes")).toBe(true)
+     expect(readingIn(root, AGENT, HELD_AT)).toBe(null)
+@@ -186,7 +186,7 @@ test("a reading is kept where the page it names did not go", async () => {
+     const root = world.rootFor("seat-stopping-unlanded-")
+     writing(root, HELD_AT, HELD_BODY)
+     const oid = blobIdOf(new TextEncoder().encode(HELD_BODY))
+-    recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, mechanicalOid: null })
++    recordRead(root, AGENT, { path: HELD_AT, oid, seenAt: 1, carriedOid: null })
+     expect(readingIn(root, AGENT, HELD_AT)).not.toBe(null)
+     let went: boolean
+     try {
+diff --git a/seat-system/subagents/presence/subagent-presence.module.test.ts b/seat-system/subagents/presence/subagent-presence.module.test.ts
+index c2a3250cf223e7313a16953a3ce7a07d100b7534..e14d5f7344b01ff8a66d809228d0a8d46d5ce8ac 100644
+--- a/seat-system/subagents/presence/subagent-presence.module.test.ts
++++ b/seat-system/subagents/presence/subagent-presence.module.test.ts
+@@ -231,7 +231,7 @@ test("a page taken away is forgotten by whoever read it", async () => {
+     await wrote(root, "akasha", SEAT_ID, OWN, "Explore")
+     const at = pathOf(slugOf("akasha", OWN))
+     const oid = blobIdOf(new TextEncoder().encode(readFileSync(join(root, at), "utf8")))
+-    recordRead(root, AGENT, { path: at, oid, seenAt: 1, mechanicalOid: null })
++    recordRead(root, AGENT, { path: at, oid, seenAt: 1, carriedOid: null })
+     expect(readingIn(root, AGENT, at)).not.toBe(null)
+     expect(await took(root, "akasha", OWN)).toEqual(WENT)
+     expect(readingIn(root, AGENT, at)).toBe(null)
