@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-events-addon/next-boss-colors/next-boss-colors.module.ts b/temper/temper-events-addon/next-boss-colors/next-boss-colors.module.ts
+index 0af06d0bef9aee57a1badfd95a9f46b1ae65042e..d1dca2a9884e59b784b5d7c949e8b7003020327f 100644
+--- a/temper/temper-events-addon/next-boss-colors/next-boss-colors.module.ts
++++ b/temper/temper-events-addon/next-boss-colors/next-boss-colors.module.ts
+@@ -9,7 +9,7 @@ export const nextBossColors = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A district still on its timer is red and one that is up is green.",
++      statement: "A district still on its timer is red and a district that is up is green.",
+     },
+   ],
+ } as const satisfies Module
