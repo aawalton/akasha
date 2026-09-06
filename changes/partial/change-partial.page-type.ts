@@ -8,7 +8,7 @@ export const changePartial = {
   pageTypeSlug: "page-type",
   slug: "change-partial",
   definition: "a piece of a change that leaves the tree broken on its own",
-  pluralSlug: "change-partials",
+  pluralSlug: "change-partial",
   partSlugs: ["change-partial/repoint-imports", "change-partial/respell-export"],
   extendsSlug: ["page-type/module"],
   invariants: [
