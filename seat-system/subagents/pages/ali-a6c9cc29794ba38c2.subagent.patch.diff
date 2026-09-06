@@ -1,3 +1,120 @@
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa/learn-everything-topic-01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa/learn-everything-topic-01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa.learn-everything-topic.ts
+index 4d0714ea1e2972c29622e1a1b6ea7078898b4647..710c0867067c00fcc2f4d14c7b0b358ff49c37e1 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa/learn-everything-topic-01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa/learn-everything-topic-01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic01AncientSouthwestAsiaAndEgyptTheAegeanAndNorth
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-01-ancient-southwest-asia-and-egypt-the-aegean-and-north-africa",
+   node: "The History of Mankind › Ancient Southwest Asia, North Africa, and Europe › Ancient Southwest Asia and Egypt, the Aegean, and North Africa",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-20",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-01-ancient-southwest-asia-north-africa-and-europe"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/01-engagement-loops-and-re-optimization/learn-everything-topic-01-engagement-loops-and-re-optimization.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/01-engagement-loops-and-re-optimization/learn-everything-topic-01-engagement-loops-and-re-optimization.learn-everything-topic.ts
+index aa5979fa5f7ba3b37ac7615f90ce033a6bc16a2a..76033fd0db258f7fd4f61bc9dd9812b3c8de96dd 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/01-engagement-loops-and-re-optimization/learn-everything-topic-01-engagement-loops-and-re-optimization.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/01-engagement-loops-and-re-optimization/learn-everything-topic-01-engagement-loops-and-re-optimization.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic01EngagementLoopsAndReOptimization = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-01-engagement-loops-and-re-optimization",
+   node: "Art › Particular Arts › Game Design › Engagement Loops and Re-optimization",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-25",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-10-game-design"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/01-history-and-foundations-of-mathematics/learn-everything-topic-01-history-and-foundations-of-mathematics.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/01-history-and-foundations-of-mathematics/learn-everything-topic-01-history-and-foundations-of-mathematics.learn-everything-topic.ts
+index 4889818c62b9b100fa8b6c972d912a657a6ce695..3b98e037340dcdc982555d97cf601482e8b3af80 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/01-history-and-foundations-of-mathematics/learn-everything-topic-01-history-and-foundations-of-mathematics.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/01-history-and-foundations-of-mathematics/learn-everything-topic-01-history-and-foundations-of-mathematics.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic01HistoryAndFoundationsOfMathematics = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-01-history-and-foundations-of-mathematics",
+   node: "The Branches of Knowledge › Mathematics › History and Foundations of Mathematics",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-20",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-02-mathematics"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/01-origin-and-development-of-the-earth-and-its-envelopes/learn-everything-topic-01-origin-and-development-of-the-earth-and-its-envelopes.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/01-origin-and-development-of-the-earth-and-its-envelopes/learn-everything-topic-01-origin-and-development-of-the-earth-and-its-envelopes.learn-everything-topic.ts
+index 5462991fcce0de86be8a023de22111e903aecdf3..a0a134a6194fdb263ebdd5dce298b90ceae67869 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/01-origin-and-development-of-the-earth-and-its-envelopes/learn-everything-topic-01-origin-and-development-of-the-earth-and-its-envelopes.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/01-origin-and-development-of-the-earth-and-its-envelopes/learn-everything-topic-01-origin-and-development-of-the-earth-and-its-envelopes.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic01OriginAndDevelopmentOfTheEarthAndItsEnvelopes
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-01-origin-and-development-of-the-earth-and-its-envelopes",
+   node: "The Earth › Earth's History › Origin and Development of the Earth and Its Envelopes",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-19",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-04-earth-s-history"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/01-political-theory/learn-everything-topic-01-political-theory.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/01-political-theory/learn-everything-topic-01-political-theory.learn-everything-topic.ts
+index 784c3c514b9534c601d0480c2c1c62102b8b040f..0a550980f6b305198237bd6879571eb86880daaf 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/01-political-theory/learn-everything-topic-01-political-theory.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/01-political-theory/learn-everything-topic-01-political-theory.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic01PoliticalTheory = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-01-political-theory",
+   node: "Human Society › Politics and Government › Political Theory",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-19",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-04-politics-and-government"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/01-social-structure-and-change/learn-everything-topic-01-social-structure-and-change.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/01-social-structure-and-change/learn-everything-topic-01-social-structure-and-change.learn-everything-topic.ts
+index 778268ce6a8ee402936785eb73ea5167119a0367..62e64c49444af752cd1c928ce828b777aca1b104 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/01-social-structure-and-change/learn-everything-topic-01-social-structure-and-change.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/01-social-structure-and-change/learn-everything-topic-01-social-structure-and-change.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic01SocialStructureAndChange = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-01-social-structure-and-change",
+   node: "Human Society › Social Organization and Social Change › Social Structure and Change",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-23",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-02-social-organization-and-social-change"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/01-structure-and-properties-of-atoms/learn-everything-topic-01-structure-and-properties-of-atoms.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/01-structure-and-properties-of-atoms/learn-everything-topic-01-structure-and-properties-of-atoms.learn-everything-topic.ts
+index 0dddb1ff7b44f404b8c6a080112620240e433974..0344c390a3e05946c450a9b8789d60e80dc6ad4e 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/01-structure-and-properties-of-atoms/learn-everything-topic-01-structure-and-properties-of-atoms.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/01-structure-and-properties-of-atoms/learn-everything-topic-01-structure-and-properties-of-atoms.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic01StructureAndPropertiesOfAtoms = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-01-structure-and-properties-of-atoms",
+   node: "Matter and Energy › Atoms › Structure and Properties of Atoms",
+-  depth: 2,
++  masteryLevelSlug: "mastery-level/student",
+   scoredOn: "2026-06-19",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-01-atoms"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/02-dormant-mechanics-and-content-cadence/learn-everything-topic-02-dormant-mechanics-and-content-cadence.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/02-dormant-mechanics-and-content-cadence/learn-everything-topic-02-dormant-mechanics-and-content-cadence.learn-everything-topic.ts
+index 9640c48391b59d5791714ec7d7ef409f7bfd7e06..4c78516c897b3cf1bcdfdbea40c779e6a2e4998b 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/02-dormant-mechanics-and-content-cadence/learn-everything-topic-02-dormant-mechanics-and-content-cadence.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/02-dormant-mechanics-and-content-cadence/learn-everything-topic-02-dormant-mechanics-and-content-cadence.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic02DormantMechanicsAndContentCadence = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-02-dormant-mechanics-and-content-cadence",
+   node: "Art › Particular Arts › Game Design › Dormant Mechanics and Content Cadence",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-25",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-10-game-design"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/02-foundations-programs/learn-everything-topic-02-foundations-programs.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/02-foundations-programs/learn-everything-topic-02-foundations-programs.learn-everything-topic.ts
+index ffcbe7eaa92c97b9e2fe2331df0bc71a2cf14683..60ffec63d016bf75c94582835673c64af3ede895 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/02-foundations-programs/learn-everything-topic-02-foundations-programs.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/02-foundations-programs/learn-everything-topic-02-foundations-programs.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic02FoundationsPrograms = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-02-foundations-programs",
+   node: "The Branches of Knowledge › Mathematics › History and Foundations of Mathematics › Foundations Programs",
+-  depth: 2,
++  masteryLevelSlug: "mastery-level/student",
+   scoredOn: "2026-07-08",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-01-history-and-foundations-of-mathematics"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/02-meso-american-civilization-to-ad-1540/learn-everything-topic-02-meso-american-civilization-to-ad-1540.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/02-meso-american-civilization-to-ad-1540/learn-everything-topic-02-meso-american-civilization-to-ad-1540.learn-everything-topic.ts
 index 3db1ebeaf738c1cf79ffba9b97e6b283277c00d3..4d77e091bf08cd582231855ccfefb4473ab85c2d 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/02-meso-american-civilization-to-ad-1540/learn-everything-topic-02-meso-american-civilization-to-ad-1540.learn-everything-topic.ts
@@ -141,6 +258,32 @@ index f756c23f953ad57a3c6ebbf56b53e219d9ba480f..1c4e796a72b2eb33d35222b5a7097bfa
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-05-the-biosphere"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/02-the-development-of-human-culture/learn-everything-topic-02-the-development-of-human-culture.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/02-the-development-of-human-culture/learn-everything-topic-02-the-development-of-human-culture.learn-everything-topic.ts
+index a09c2a174c67d3cffa2b109c3faa71a2ffbc086d..45587437e5702069ed611d8c55d21f6b319e66c3 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/02-the-development-of-human-culture/learn-everything-topic-02-the-development-of-human-culture.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/02-the-development-of-human-culture/learn-everything-topic-02-the-development-of-human-culture.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic02TheDevelopmentOfHumanCulture = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-02-the-development-of-human-culture",
+   node: "Human Society › Social Groups: Ethnic groups and Cultures › The Development of Human Culture",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-26",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-01-social-groups-ethnic-groups-and-cultures"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-applications-of-mathematics/learn-everything-topic-03-applications-of-mathematics.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-applications-of-mathematics/learn-everything-topic-03-applications-of-mathematics.learn-everything-topic.ts
+index 360d27208162821faf76bb56adb88210d96007b2..7cdee061a3dc37fd6b95f0b56bd61f8751e55f5b 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-applications-of-mathematics/learn-everything-topic-03-applications-of-mathematics.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-applications-of-mathematics/learn-everything-topic-03-applications-of-mathematics.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic03ApplicationsOfMathematics = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-03-applications-of-mathematics",
+   node: "The Branches of Knowledge › Mathematics › Applications of Mathematics",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-20",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-02-mathematics"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-eras-and-periods-of-geologic-time/learn-everything-topic-03-eras-and-periods-of-geologic-time.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-eras-and-periods-of-geologic-time/learn-everything-topic-03-eras-and-periods-of-geologic-time.learn-everything-topic.ts
 index b28d12f9a27245674dc4ed054e2e3305d69b52e2..ceafe948cd6907ea4be7a964cdb2967026b3385c 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/03-eras-and-periods-of-geologic-time/learn-everything-topic-03-eras-and-periods-of-geologic-time.learn-everything-topic.ts
@@ -193,6 +336,19 @@ index 7d1a6eac5c0c45a2508a737b0a0e622cbac4dc88..755f8f6f5c46407b85472f190b5aea9a
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-04-politics-and-government"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-hinduism-and-other-religions-of-india/learn-everything-topic-03-hinduism-and-other-religions-of-india.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-hinduism-and-other-religions-of-india/learn-everything-topic-03-hinduism-and-other-religions-of-india.learn-everything-topic.ts
+index e63a7ed527d465764d8d9a2d8e8bc7433d219ff6..523248bb1dac932edf4d3c866eff72375ec63c41 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-hinduism-and-other-religions-of-india/learn-everything-topic-03-hinduism-and-other-religions-of-india.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-hinduism-and-other-religions-of-india/learn-everything-topic-03-hinduism-and-other-religions-of-india.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic03HinduismAndOtherReligionsOfIndia = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-03-hinduism-and-other-religions-of-india",
+   node: "Religion › Particular Religions › Hinduism and Other Religions of India",
+-  depth: 2,
++  masteryLevelSlug: "mastery-level/student",
+   scoredOn: "2026-06-23",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-02-particular-religions"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-human-behavior-and-experience/learn-everything-topic-03-human-behavior-and-experience.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-human-behavior-and-experience/learn-everything-topic-03-human-behavior-and-experience.learn-everything-topic.ts
 index fc1da885f4578702603b0579afb6ef4f8f7a9a87..2815936c82c7d4fb7beae047218c092f39091be1 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/03-human-behavior-and-experience/learn-everything-topic-03-human-behavior-and-experience.learn-everything-topic.ts
@@ -232,6 +388,19 @@ index 5a4915e572e97a262d406408c7d6807b686579d2..7b039d4cca5ccd7b9e754075f0032bc5
      scoredOn: "2026-06-19",
      status: "unopened",
      partOfSlugs: ["learn-everything-topic-03-human-behavior-and-experience"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-information-theory/learn-everything-topic-03-information-theory.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-information-theory/learn-everything-topic-03-information-theory.learn-everything-topic.ts
+index fbc2ffd454c30496ec9679081212b2ba499f9632..273f1daef071a0677aec1614da3e2186a7fbf96b 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-information-theory/learn-everything-topic-03-information-theory.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-information-theory/learn-everything-topic-03-information-theory.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic03InformationTheory = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-03-information-theory",
+   node: "The Branches of Knowledge › Mathematics › Applications of Mathematics › Information Theory",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-20",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-03-applications-of-mathematics"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-life-on-earth/learn-everything-topic-03-life-on-earth.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-life-on-earth/learn-everything-topic-03-life-on-earth.learn-everything-topic.ts
 index 6fe2facb065bc9d20d965f10bf907216caece33f..2a17478df13fd6ca5f379f1844d6e8e1b5112e91 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/03-life-on-earth/learn-everything-topic-03-life-on-earth.learn-everything-topic.ts
@@ -310,6 +479,19 @@ index a4f8d7bba7814a6685bc50cc2fccfb4f0e756c5b..b18dfb8a686aed5af3852d1e2e117022
    scoredOn: "2026-06-20",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-08-drawing-painting-printmaking-photography"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-progression-and-economy/learn-everything-topic-03-progression-and-economy.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-progression-and-economy/learn-everything-topic-03-progression-and-economy.learn-everything-topic.ts
+index 1c01d6754c903f068e985ec7a2d773f03c8bfaf0..d66b9858c57af574993874c9de816fa0248d61a7 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-progression-and-economy/learn-everything-topic-03-progression-and-economy.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-progression-and-economy/learn-everything-topic-03-progression-and-economy.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic03ProgressionAndEconomy = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-03-progression-and-economy",
+   node: "Art › Particular Arts › Game Design › Progression and Economy",
+-  depth: 2,
++  masteryLevelSlug: "mastery-level/student",
+   scoredOn: "2026-06-25",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-10-game-design"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-science/learn-everything-topic-03-science.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-science/learn-everything-topic-03-science.learn-everything-topic.ts
 index 20577c791f086af1f37523475a9e82c726ce3631..6b7693ed51ed87a141e68f0ecb92b13f164c3687 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/03-science/learn-everything-topic-03-science.learn-everything-topic.ts
@@ -336,6 +518,19 @@ index 9c5f23f8499c020f7c41c1e45712a6569ce8261f..90035005c8ba384a2accfd5d94e0d6e3
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-02-social-organization-and-social-change"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-structure-and-composition-of-the-earth-s-interior/learn-everything-topic-03-structure-and-composition-of-the-earth-s-interior.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-structure-and-composition-of-the-earth-s-interior/learn-everything-topic-03-structure-and-composition-of-the-earth-s-interior.learn-everything-topic.ts
+index bb4b387d58cfe4bbc9433f23092d87e024748e71..c5689cedf70e767756ec8da5586b835dc3af6a27 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/03-structure-and-composition-of-the-earth-s-interior/learn-everything-topic-03-structure-and-composition-of-the-earth-s-interior.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/03-structure-and-composition-of-the-earth-s-interior/learn-everything-topic-03-structure-and-composition-of-the-earth-s-interior.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic03StructureAndCompositionOfTheEarthSInterior =
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-03-structure-and-composition-of-the-earth-s-interior",
+   node: "The Earth › Earth's Properties, Structure, Composition › Structure and Composition of the Earth's Interior",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-19",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-01-earth-s-properties-structure-composition"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/03-surface-features/learn-everything-topic-03-surface-features.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/03-surface-features/learn-everything-topic-03-surface-features.learn-everything-topic.ts
 index 53ae470cced0035cfc6507a5c7b3fa07e6f87f43..f51833954b80fc51238eb9fbf68f583bc2c7692f 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/03-surface-features/learn-everything-topic-03-surface-features.learn-everything-topic.ts
@@ -401,6 +596,19 @@ index 232cc7fea6cc51283635da90d37812b55c585f28..0c6a31711f3212008e3a6015abd834e5
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-05-the-biosphere"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/04-buddhism/learn-everything-topic-04-buddhism.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/04-buddhism/learn-everything-topic-04-buddhism.learn-everything-topic.ts
+index 9ac796ac5ac9fcb0f1bccd0f5b8dd50789457e55..f7c6c26a0be94b4b607e97145994b7d9c3968a58 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/04-buddhism/learn-everything-topic-04-buddhism.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/04-buddhism/learn-everything-topic-04-buddhism.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic04Buddhism = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-04-buddhism",
+   node: "Religion › Particular Religions › Buddhism",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-23",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-02-particular-religions"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/04-central-africa-to-1885/learn-everything-topic-04-central-africa-to-1885.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/04-central-africa-to-1885/learn-everything-topic-04-central-africa-to-1885.learn-everything-topic.ts
 index cd60d4ba56d720bdb06f0d0451e5c6c8f129d536..ac598f30c1e5da8da8bc093a1e407c069acdf014 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/04-central-africa-to-1885/learn-everything-topic-04-central-africa-to-1885.learn-everything-topic.ts
@@ -674,6 +882,32 @@ index b6329098ce25416e17fa11cec57b4fb61362b829..a632b66082b11d541ba14cff64b687c1
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-09-the-history-of-mankind"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/04-synergy-and-composition/learn-everything-topic-04-synergy-and-composition.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/04-synergy-and-composition/learn-everything-topic-04-synergy-and-composition.learn-everything-topic.ts
+index d577813f4c78ee6e4433f4d2fda796f0d73c31cf..600ff7beeea3fc37265f78db99deea6062a0be0c 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/04-synergy-and-composition/learn-everything-topic-04-synergy-and-composition.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/04-synergy-and-composition/learn-everything-topic-04-synergy-and-composition.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic04SynergyAndComposition = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-04-synergy-and-composition",
+   node: "Art › Particular Arts › Game Design › Synergy and Composition",
+-  depth: 2,
++  masteryLevelSlug: "mastery-level/student",
+   scoredOn: "2026-06-25",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-10-game-design"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/04-teotihuacan/learn-everything-topic-04-teotihuacan.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/04-teotihuacan/learn-everything-topic-04-teotihuacan.learn-everything-topic.ts
+index e42f2910e38e7b5a07453968695f6eb8e62efb6b..897b5203f7ab0ced012f9f895f5b7f8ba4f27b7f 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/04-teotihuacan/learn-everything-topic-04-teotihuacan.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/04-teotihuacan/learn-everything-topic-04-teotihuacan.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic04Teotihuacan = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-04-teotihuacan",
+   node: "The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Teotihuacan",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-20",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-02-meso-american-civilization-to-ad-1540"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/04-the-behavior-of-organisms/learn-everything-topic-04-the-behavior-of-organisms.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/04-the-behavior-of-organisms/learn-everything-topic-04-the-behavior-of-organisms.learn-everything-topic.ts
 index 26809dfaf986618a584bdce666f19cf78a5350a7..2401e8d48051a3d35edf28e1a31cff7d30ade31a 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/04-the-behavior-of-organisms/learn-everything-topic-04-the-behavior-of-organisms.learn-everything-topic.ts
@@ -765,6 +999,19 @@ index 3f35d9cdd93d916e359b3d99d7608b2dff391b56..aa7a384de11357deee1ec677aaab91a7
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-03-fields-of-technology"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/05-balance-and-friction/learn-everything-topic-05-balance-and-friction.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/05-balance-and-friction/learn-everything-topic-05-balance-and-friction.learn-everything-topic.ts
+index c11649f19b436d906cfa92dc035aaa5ff18a0a72..d446c9d9ebb9f0ff6908fa116646fe3e6e0e2292 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/05-balance-and-friction/learn-everything-topic-05-balance-and-friction.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/05-balance-and-friction/learn-everything-topic-05-balance-and-friction.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic05BalanceAndFriction = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-05-balance-and-friction",
+   node: "Art › Particular Arts › Game Design › Balance and Friction",
+-  depth: 2,
++  masteryLevelSlug: "mastery-level/student",
+   scoredOn: "2026-06-25",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-10-game-design"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/05-china-in-revolution-japanese-hegemony/learn-everything-topic-05-china-in-revolution-japanese-hegemony.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/05-china-in-revolution-japanese-hegemony/learn-everything-topic-05-china-in-revolution-japanese-hegemony.learn-everything-topic.ts
 index 1b6a362cfa8ce03cfacb24dcf2f1dceb05ab7409..e3eb452eda305a46d5e2d6f9402d06a1a7839d0b 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/05-china-in-revolution-japanese-hegemony/learn-everything-topic-05-china-in-revolution-japanese-hegemony.learn-everything-topic.ts
@@ -1090,6 +1337,32 @@ index 3dab2a85a2d7fb5a38a36f4e6671bbc1da700650..45c9c6e45021509c282d0fbad9adbec1
    scoredOn: "2026-06-21",
    status: "unopened",
    partOfSlugs: [
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/06-authoring-and-gm-doctrine/learn-everything-topic-06-authoring-and-gm-doctrine.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/06-authoring-and-gm-doctrine/learn-everything-topic-06-authoring-and-gm-doctrine.learn-everything-topic.ts
+index adcfbcbfd6029d159c1d6d8f2dfa5ce3416fe9ae..71c949dc59e3b815b95bd25cf4ffc50410dc0c41 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/06-authoring-and-gm-doctrine/learn-everything-topic-06-authoring-and-gm-doctrine.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/06-authoring-and-gm-doctrine/learn-everything-topic-06-authoring-and-gm-doctrine.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic06AuthoringAndGmDoctrine = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-06-authoring-and-gm-doctrine",
+   node: "Art › Particular Arts › Game Design › Authoring and GM Doctrine",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-25",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-10-game-design"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/06-aztec-mexica-and-the-spanish-conquest/learn-everything-topic-06-aztec-mexica-and-the-spanish-conquest.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/06-aztec-mexica-and-the-spanish-conquest/learn-everything-topic-06-aztec-mexica-and-the-spanish-conquest.learn-everything-topic.ts
+index 5ed6b20e688c6f6df86204ca8d600e0edff0a2e2..59319de58a14c8dd63b3f13d0f8111a8c7ce7285 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/06-aztec-mexica-and-the-spanish-conquest/learn-everything-topic-06-aztec-mexica-and-the-spanish-conquest.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/06-aztec-mexica-and-the-spanish-conquest/learn-everything-topic-06-aztec-mexica-and-the-spanish-conquest.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic06AztecMexicaAndTheSpanishConquest = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-06-aztec-mexica-and-the-spanish-conquest",
+   node: "The History of Mankind › Pre-Columbian America › Meso-American Civilization to AD 1540 › Aztec/Mexica and the Spanish Conquest",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-19",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-02-meso-american-civilization-to-ad-1540"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/06-economic-growth-and-planning/learn-everything-topic-06-economic-growth-and-planning.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/06-economic-growth-and-planning/learn-everything-topic-06-economic-growth-and-planning.learn-everything-topic.ts
 index 238cbc2a813ccb6fe3c7dd4ffaa3744253158f41..12faa87bcef1691c3154a5fc1b1fa4952a489149 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/06-economic-growth-and-planning/learn-everything-topic-06-economic-growth-and-planning.learn-everything-topic.ts
@@ -1311,6 +1584,19 @@ index 8f15a816d0c4085a27b7b24c56b0afbc63a05a1f..3d7d181011c6bb49669352229bdbae0d
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-progress-realness-and-save-design/learn-everything-topic-07-progress-realness-and-save-design.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-progress-realness-and-save-design/learn-everything-topic-07-progress-realness-and-save-design.learn-everything-topic.ts
+index e2669bad4f818f48c53c16810bb1030cdf15a011..abcb324e9f399dab4e71b51bab3ab2380e51c00a 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/07-progress-realness-and-save-design/learn-everything-topic-07-progress-realness-and-save-design.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/07-progress-realness-and-save-design/learn-everything-topic-07-progress-realness-and-save-design.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic07ProgressRealnessAndSaveDesign = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-07-progress-realness-and-save-design",
+   node: "Art › Particular Arts › Game Design › Progress Realness and Save Design",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-25",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-10-game-design"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/07-reproduction-and-sex/learn-everything-topic-07-reproduction-and-sex.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/07-reproduction-and-sex/learn-everything-topic-07-reproduction-and-sex.learn-everything-topic.ts
 index dad36008d0a56263743020bd034713fa5593cd81..96630baaec37158747c774db4d81ac94b37c7c8f 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/07-reproduction-and-sex/learn-everything-topic-07-reproduction-and-sex.learn-everything-topic.ts
@@ -1415,6 +1701,32 @@ index dce238631dfac9b9362952ca28325b15784e3f67..a398838280a6a6b19655b6b3aa513c84
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-09-the-history-of-mankind"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/08-development-growth-differentiation-and-morphogenesis/learn-everything-topic-08-development-growth-differentiation-and-morphogenesis.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/08-development-growth-differentiation-and-morphogenesis/learn-everything-topic-08-development-growth-differentiation-and-morphogenesis.learn-everything-topic.ts
+index 863ce0f51c69205d4c9ffd287970278ea34bc3b0..0dc7a91ee35dff4231d64bb2db4a51c21c523cdc 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/08-development-growth-differentiation-and-morphogenesis/learn-everything-topic-08-development-growth-differentiation-and-morphogenesis.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/08-development-growth-differentiation-and-morphogenesis/learn-everything-topic-08-development-growth-differentiation-and-morphogenesis.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic08DevelopmentGrowthDifferentiationAndMorphogene
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-08-development-growth-differentiation-and-morphogenesis",
+   node: "Life on Earth › The Structures and Functions of Organisms › Development: Growth, Differentiation, and Morphogenesis",
+-  depth: 2,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-09-06",
+   status: "live",
+   partOfSlugs: ["learn-everything-topic-03-the-structures-and-functions-of-organisms"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/08-drawing-painting-printmaking-photography/learn-everything-topic-08-drawing-painting-printmaking-photography.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/08-drawing-painting-printmaking-photography/learn-everything-topic-08-drawing-painting-printmaking-photography.learn-everything-topic.ts
+index 2dc0d89dbefd9d4d9f1d766759c4d60a5c0dc823..e54ebb39a7a88c1ba0948af76bbcfe6ee5f0ddcb 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/08-drawing-painting-printmaking-photography/learn-everything-topic-08-drawing-painting-printmaking-photography.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/08-drawing-painting-printmaking-photography/learn-everything-topic-08-drawing-painting-printmaking-photography.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic08DrawingPaintingPrintmakingPhotography = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-08-drawing-painting-printmaking-photography",
+   node: "Art › Particular Arts › Drawing, Painting, Printmaking, Photography",
+-  depth: 3,
++  masteryLevelSlug: "mastery-level/scholar",
+   scoredOn: "2026-06-19",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-02-particular-arts"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/08-islam/learn-everything-topic-08-islam.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/08-islam/learn-everything-topic-08-islam.learn-everything-topic.ts
 index 9c5ff109a0adcdc813454bdf0d58d4fb70c43791..c839b4964bfc0ec4199a8b7753dd2cced307f51a 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/08-islam/learn-everything-topic-08-islam.learn-everything-topic.ts
@@ -1493,6 +1805,19 @@ index 675d3a1f284e95cf3aa8235aaacefb9079f4fc7c..617cced1ad66637398894b3138f32702
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-03-fields-of-technology"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/08-waves-and-wave-motion/learn-everything-topic-08-waves-and-wave-motion.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/08-waves-and-wave-motion/learn-everything-topic-08-waves-and-wave-motion.learn-everything-topic.ts
+index ce9e482e0171fe418bfa47e09f3e3bab73789b37..ff1b9a2432ad79ad60f9ab2c97870a3ee8f9b575 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/08-waves-and-wave-motion/learn-everything-topic-08-waves-and-wave-motion.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/08-waves-and-wave-motion/learn-everything-topic-08-waves-and-wave-motion.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic08WavesAndWaveMotion = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-08-waves-and-wave-motion",
+   node: "Matter and Energy › Energy, Radiation, and States of Matter › Waves and Wave Motion",
+-  depth: 2,
++  masteryLevelSlug: "mastery-level/student",
+   scoredOn: "2026-07-07",
+   status: "resting",
+   partOfSlugs: ["learn-everything-topic-02-energy-radiation-and-states-of-matter"],
 diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/09-decoration-and-design/learn-everything-topic-09-decoration-and-design.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/09-decoration-and-design/learn-everything-topic-09-decoration-and-design.learn-everything-topic.ts
 index a2421714aaf4cfffb1b1c348e7187cca8d081d72..b1506849b3997d96073f6e3e17675178d7dcfaaf 100644
 --- a/alan/library/book-of-everything/learn-everything-topics/pages/09-decoration-and-design/learn-everything-topic-09-decoration-and-design.learn-everything-topic.ts
@@ -1558,3 +1883,68 @@ index f591ce8d818c517a9b6ab56102d6fab0b1419a84..fab6ad7852b3aae58978215a0facb5ac
    scoredOn: "2026-06-19",
    status: "unopened",
    partOfSlugs: ["learn-everything-topic-06-the-modern-world-to-1920"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/09-the-history-of-mankind/learn-everything-topic-09-the-history-of-mankind.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/09-the-history-of-mankind/learn-everything-topic-09-the-history-of-mankind.learn-everything-topic.ts
+index 319fead757120b94c99d4ad061335442056db2d8..6ae8758396cadcf2a600d3e01d24deb0a3dbaedb 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/09-the-history-of-mankind/learn-everything-topic-09-the-history-of-mankind.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/09-the-history-of-mankind/learn-everything-topic-09-the-history-of-mankind.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic09TheHistoryOfMankind = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-09-the-history-of-mankind",
+   node: "The History of Mankind",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["profile"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/10-china-until-revolution-1839-1911-japan-from-meiji-restoration-to-1910/learn-everything-topic-10-china-until-revolution-1839-1911-japan-from-meiji-restoration-to-1910.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/10-china-until-revolution-1839-1911-japan-from-meiji-restoration-to-1910/learn-everything-topic-10-china-until-revolution-1839-1911-japan-from-meiji-restoration-to-1910.learn-everything-topic.ts
+index bd50e1e42fcbd3edf27e665b7ea585498932ffa3..7e4b30392651e5e6c164d63beaadc6260204d386 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/10-china-until-revolution-1839-1911-japan-from-meiji-restoration-to-1910/learn-everything-topic-10-china-until-revolution-1839-1911-japan-from-meiji-restoration-to-1910.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/10-china-until-revolution-1839-1911-japan-from-meiji-restoration-to-1910/learn-everything-topic-10-china-until-revolution-1839-1911-japan-from-meiji-restoration-to-1910.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic10ChinaUntilRevolution18391911JapanFromMeijiRes
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-10-china-until-revolution-1839-1911-japan-from-meiji-restoration-to-1910",
+   node: "The History of Mankind › The Modern World to 1920 › China until Revolution 1839–1911, Japan from Meiji Restoration to 1910",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-06-the-modern-world-to-1920"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/10-the-branches-of-knowledge/learn-everything-topic-10-the-branches-of-knowledge.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/10-the-branches-of-knowledge/learn-everything-topic-10-the-branches-of-knowledge.learn-everything-topic.ts
+index d6732f38cd4c25f64581cb3f526138766cde531a..59faaf6327c11b644c83b02c41cbf13c12ed7a2a 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/10-the-branches-of-knowledge/learn-everything-topic-10-the-branches-of-knowledge.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/10-the-branches-of-knowledge/learn-everything-topic-10-the-branches-of-knowledge.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic10TheBranchesOfKnowledge = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-10-the-branches-of-knowledge",
+   node: "The Branches of Knowledge",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["profile"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/11-southwest-asia-north-africa-1800-1920-sub-saharan-africa-1885-1920-under/learn-everything-topic-11-southwest-asia-north-africa-1800-1920-sub-saharan-africa-1885-1920-under.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/11-southwest-asia-north-africa-1800-1920-sub-saharan-africa-1885-1920-under/learn-everything-topic-11-southwest-asia-north-africa-1800-1920-sub-saharan-africa-1885-1920-under.learn-everything-topic.ts
+index 75b82de897f5a473863b607697c6e1b42576114f..1c2b14c3cbe12c5007d719b8c5063b5e3d2a150d 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/11-southwest-asia-north-africa-1800-1920-sub-saharan-africa-1885-1920-under/learn-everything-topic-11-southwest-asia-north-africa-1800-1920-sub-saharan-africa-1885-1920-under.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/11-southwest-asia-north-africa-1800-1920-sub-saharan-africa-1885-1920-under/learn-everything-topic-11-southwest-asia-north-africa-1800-1920-sub-saharan-africa-1885-1920-under.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const learnEverythingTopic11SouthwestAsiaNorthAfrica18001920SubSaharanAfr
+   pageTypeSlug: "learn-everything-topic",
+   slug: "learn-everything-topic-11-southwest-asia-north-africa-1800-1920-sub-saharan-africa-1885-1920-under",
+   node: "The History of Mankind › The Modern World to 1920 › Southwest Asia, North Africa 1800–1920, Sub-Saharan Africa 1885–1920: Under European Imperialism",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+   partOfSlugs: ["learn-everything-topic-06-the-modern-world-to-1920"],
+diff --git a/alan/library/book-of-everything/learn-everything-topics/pages/profile/profile.learn-everything-topic.ts b/alan/library/book-of-everything/learn-everything-topics/pages/profile/profile.learn-everything-topic.ts
+index aee7c1929a0ce683fd2890b5b67ded705d42869c..62fa79c99a5075187c927f8ef6c81630eaf6dfdd 100644
+--- a/alan/library/book-of-everything/learn-everything-topics/pages/profile/profile.learn-everything-topic.ts
++++ b/alan/library/book-of-everything/learn-everything-topics/pages/profile/profile.learn-everything-topic.ts
+@@ -5,7 +5,7 @@ export const profile = {
+   pageTypeSlug: "learn-everything-topic",
+   slug: "profile",
+   node: "Everything",
+-  depth: 0,
++  masteryLevelSlug: "mastery-level/novice",
+   scoredOn: "2026-06-19",
+   status: "unopened",
+ } as const satisfies LearnEverythingTopic
