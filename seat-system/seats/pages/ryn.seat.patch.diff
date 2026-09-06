@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/story/story-chapters-read/story-chapter-read.page-type.ts b/story/story-chapters-read/story-chapter-read.page-type.ts
+index 789f9b1e1c1df0a2ef1a9c2762e78b0f64179571..f8f80c50ce88aef2728e75eccfccf496e5017468 100644
+--- a/story/story-chapters-read/story-chapter-read.page-type.ts
++++ b/story/story-chapters-read/story-chapter-read.page-type.ts
+@@ -93,7 +93,7 @@ export const storyChapterRead = {
+ 
+     {
+       invariantKind: "departure",
+-      statement: "The source a chapter came from is the one its story names.",
++      statement: "The source a chapter came from is the source its story names.",
+     },
+     {
+       invariantKind: "departure",
