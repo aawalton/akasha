@@ -1,3 +1,24 @@
+diff --git a/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.swift.swift b/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.swift.swift
+index 3e3e91e7b8a8fa444a9f1a05a63e17ef0587caed..b7a663d45606a0d7417b509301fc0479337588e3 100644
+--- a/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.swift.swift
++++ b/code-system/ios-components/pages/alanwalton-stoplight-ring/alanwalton-stoplight-ring.ios-component.swift.swift
+@@ -6,6 +6,7 @@ struct StoplightRing: View {
+     let nextTier: Tier?
+     let progress: Double?
+     let label: String?
++    var figureOffScale: Bool = false
+ 
+     private static let zero = "0"
+ 
+@@ -41,7 +42,7 @@ struct StoplightRing: View {
+                 radius: tier == .blue ? 6 : 0
+             )
+         ) { metrics in
+-            if !isAtEnd {
++            if figureOffScale || !isAtEnd {
+                 let size = metrics.diameter * Self.readingFraction
+                 let line = size * Self.lineHeightFactor
+                 let halfWidth = max(
 diff --git a/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.swift.swift b/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.swift.swift
 index 474411c369c899f60b1c1fb8590c35ba40075f90..f4048bbc41539d40498d393b1ac53e13c14da51c 100644
 --- a/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.swift.swift
