@@ -12,17 +12,11 @@ index afcd7a7619970f36cc99fe058e55f5be0cf2ca66..7e8f27d82a12c80730acbc74e31f2586
        invariantKind: "departure",
 diff --git a/checks/modules/judging/judging.module.types.ts b/checks/modules/judging/judging.module.types.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..fd98e9343c66452c65633616c7edbe17429c8bbb
+index 0000000000000000000000000000000000000000..7ef1e158a9eab13d3c87c96c9a3b632fd33a4673
 --- /dev/null
 +++ b/checks/modules/judging/judging.module.types.ts
-@@ -0,0 +1,10 @@
-+import { readFileSync } from "node:fs"
-+
+@@ -0,0 +1,4 @@
 +export type Seeded = {
 +  readonly path: string
 +  readonly reason: string
-+}
-+
-+export function seededFrom(at: string): Seeded {
-+  return { path: at, reason: readFileSync(at, "utf-8") }
 +}
