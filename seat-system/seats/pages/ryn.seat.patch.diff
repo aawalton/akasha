@@ -1,5 +1,5 @@
 diff --git a/editor-extension/panel-judging/panel-judging.module.ts b/editor-extension/panel-judging/panel-judging.module.ts
-index adb0a71bb79268a65b6e7f0569caae9c7930f417..27e3a8f06ffa756881bc3ba7beca37891ea4c05a 100644
+index adb0a71bb79268a65b6e7f0569caae9c7930f417..f104fe64210233284364f193952cf4a249522504 100644
 --- a/editor-extension/panel-judging/panel-judging.module.ts
 +++ b/editor-extension/panel-judging/panel-judging.module.ts
 @@ -11,11 +11,11 @@ export const panelJudging = {
@@ -16,7 +16,12 @@ index adb0a71bb79268a65b6e7f0569caae9c7930f417..27e3a8f06ffa756881bc3ba7beca3789
      },
      {
        invariantKind: "departure",
-@@ -31,7 +31,7 @@ export const panelJudging = {
+@@ -27,11 +27,11 @@ export const panelJudging = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row with no label is a blank line in the panel, so that row is red.",
++      statement: "A row with no label is red.",
      },
      {
        invariantKind: "departure",
