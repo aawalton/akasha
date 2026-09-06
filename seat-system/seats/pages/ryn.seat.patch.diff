@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/agents/claude-accounts/properties/five-hour-percent-used.number-property.ts b/agents/claude-accounts/properties/five-hour-percent-used.number-property.ts
+index b0ab659530a3b2d82c0854ebecb463a1d73f293f..2c510e1955abc6c18fcc87bdb3415d25cccdaa5f 100644
+--- a/agents/claude-accounts/properties/five-hour-percent-used.number-property.ts
++++ b/agents/claude-accounts/properties/five-hour-percent-used.number-property.ts
+@@ -12,7 +12,7 @@ export const fiveHourPercentUsed = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An account that has spent its seven-day window has spent its five-hour one.",
++      statement: "An account that has spent its seven-day window has spent its five-hour window.",
+     },
+   ],
+ } as const satisfies NumberProperty
