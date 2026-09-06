@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.ts b/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.ts
+index 8cbc35306c139d88a85a551cb2696c76b0e037e4..7a29f699b7633802cc4a3c3e6635db38a067c04c 100644
+--- a/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.ts
++++ b/alan/harness/monarch/gmail-cache/monarch-gmail-cache.module.ts
+@@ -13,7 +13,8 @@ export const monarchGmailCache = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Messages are fetched eight at a time rather than one by one or all at once.",
++      statement:
++        "Messages are fetched eight at a time rather than one by one or every message at once.",
+     },
+     {
+       invariantKind: "departure",
