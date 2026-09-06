@@ -27,7 +27,7 @@ export const pagesService = {
     {
       invariantKind: "departure",
       statement:
-        "The pages system service answers for the pages standing in akasha and for no others.",
+        "The pages system service answers for the pages in akasha and for no page outside akasha.",
     },
     {
       invariantKind: "departure",
@@ -65,7 +65,7 @@ export const pagesService = {
     },
     {
       invariantKind: "departure",
-      statement: "Writes arriving while one is committing are committed together.",
+      statement: "Writes arriving while a write is committing are committed together.",
     },
     {
       invariantKind: "departure",
