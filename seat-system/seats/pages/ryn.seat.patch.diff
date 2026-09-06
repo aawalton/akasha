@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/supervising/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.ts b/seat-system/supervising/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.ts
+index 80b75b24447ab0639bac256540695f4b85b82c40..7bda59d3943a369aeefb4e8225cd379f9c18c6bc 100644
+--- a/seat-system/supervising/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.ts
++++ b/seat-system/supervising/supervisor-deferred-restart-log/supervisor-deferred-restart-log.module.ts
+@@ -19,7 +19,7 @@ export const supervisorDeferredRestartLog = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Children that could not be enumerated are said as such rather than as none.",
++      statement: "Children that could not be enumerated are said as such rather than as no child.",
+     },
+   ],
+ } as const satisfies Module
