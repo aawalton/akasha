@@ -4,7 +4,7 @@ import { join } from "node:path"
 import { blobIdOf } from "@akasha/command-system/reading"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { writing } from "@akasha/command-system/scratching/testing"
-import { listedFiled, schemaFiled } from "@akasha/indexes/testing"
+import { listedFiled, schemaFiled, valueAlsoFiled } from "@akasha/indexes/testing"
 import { mintedId } from "@akasha/testing-system/minting"
 import { blobAt, knowingIn, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
 import { pathsOf } from "../../modules/warranting/warranting.module.test-fixtures.ts"
@@ -26,20 +26,40 @@ const TEST_PROPERTY_AT = "akasha/properties/test.file-property.ts"
 
 const TYPE_AT = "akasha/file-property/file-property.page-type.ts"
 
-function pageType(root: string, slug: string): string {
+type Declared = {
+  readonly pageTypeSlug: string
+  readonly slug: string
+}
+
+const STATED: readonly Declared[] = [
+  { pageTypeSlug: "file-property", slug: "code" },
+  { pageTypeSlug: "file-property", slug: "test" },
+  { pageTypeSlug: "file-property", slug: "cases" },
+  { pageTypeSlug: "text-property", slug: "notes" },
+]
+
+function declaring(said: readonly Declared[]): readonly Record<string, unknown>[] {
+  return said.map((one) => ({
+    pagePropertySlug: `${one.pageTypeSlug}/${one.slug}`,
+    required: false,
+    many: false,
+  }))
+}
+
+function pageType(root: string, slug: string, said: readonly Declared[] = []): string {
   const id = mintedId(slug)
   const path = `akasha/${slug}/${slug}.page-type.ts`
-  writing(
-    root,
-    path,
-    `export const held = { id: "${id}", pageTypeSlug: "page-type", slug: "${slug}" }\n`
-  )
+  const value = { id, pageTypeSlug: "page-type", slug, properties: declaring(said) }
+  writing(root, path, `export const held = ${JSON.stringify(value)}\n`)
   listedFiled(root, "page-type", slug, [{ path, id }])
+  valueAlsoFiled(root, "page-type", [{ path, value }])
   return path
 }
 
 function schemaed(root: string, slug: string, pageTypeSlug: string): undefined {
-  schemaFiled(root, pageTypeSlug, slug, [{ pageTypeSlug, targetPageTypeSlug: null, slug }])
+  schemaFiled(root, pageTypeSlug, slug, [
+    { pageTypeSlug, targetPageTypeSlug: null, slug, propertySlug: slug },
+  ])
 }
 
 function filed(root: string, slug: string, pageTypeSlug: string): string {
@@ -61,7 +81,7 @@ function property(root: string, slug: string, pageTypeSlug: string): string {
 }
 
 function propertyWorld(root: string): string {
-  pageType(root, "module")
+  pageType(root, "module", STATED)
   pageType(root, "file-property")
   const held = property(root, "code", "file-property")
   property(root, "test", "file-property")
