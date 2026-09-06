@@ -173,6 +173,29 @@ index 474411c369c899f60b1c1fb8590c35ba40075f90..f4048bbc41539d40498d393b1ac53e13
          }
      }
  }
+diff --git a/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.ts b/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.ts
+index 89cd551984652de00035a53ef63850b2820f155a..47758530531bdc9fe36f0ca237bb9405a87403cb 100644
+--- a/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.ts
++++ b/code-system/ios-components/pages/safety-ring/safety-ring.ios-component.ts
+@@ -13,11 +13,16 @@ export const safetyRing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The level is drawn whatever the level is.",
++      statement:
++        "Whether a level past either end of its scale draws its number is read off the reading sent.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A level at either end of its scale draws its number as any other level does.",
++      statement: "A reading saying nothing of that has the level past either end draw no number.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here works out whether a level past either end draws its number.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/code-system/ios-components/pages/smilingjenny-safety-level-widget/smilingjenny-safety-level-widget.ios-component.swift.swift b/code-system/ios-components/pages/smilingjenny-safety-level-widget/smilingjenny-safety-level-widget.ios-component.swift.swift
 index a48185459357a122b1ba1b08c9a3c8995b4749a2..204ae5570f06890434d8ebaae68145246027d940 100644
 --- a/code-system/ios-components/pages/smilingjenny-safety-level-widget/smilingjenny-safety-level-widget.ios-component.swift.swift
