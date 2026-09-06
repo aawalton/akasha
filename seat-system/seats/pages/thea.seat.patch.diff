@@ -1,0 +1,13 @@
+diff --git a/checks/code-checks/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.code-check.ts b/checks/code-checks/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.code-check.ts
+index 19a8a48450fa43728c9a60a4c90e9a042c0369b6..10449370fde913dd98b1a331b601dedd6f5baccc 100644
+--- a/checks/code-checks/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.code-check.ts
++++ b/checks/code-checks/pages/id-is-a-uuid-version-7/id-is-a-uuid-version-7.code-check.ts
+@@ -1,7 +1,7 @@
+ import type { CodeCheck } from "../../code-check.page-type.ts"
+ 
+ export const idIsAUuidVersion7 = {
+-  id: "01a04bcb-c6f6-726e-ad7e-718958087eb4",
++  id: "01a04bcb-c6f6-426e-ad7e-718958087eb4",
+   pageTypeSlug: "code-check",
+   slug: "id-is-a-uuid-version-7",
+   definition:
