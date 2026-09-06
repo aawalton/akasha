@@ -1,3 +1,58 @@
+diff --git a/changes/kinds/change-kind.page-type.ts b/changes/kinds/change-kind.page-type.ts
+index 1de63610b0545c0b91dd418f680a47a9b97263b7..d4efef5bf7dfad7c9c6fc8f39bd2fe34c9e1202c 100644
+--- a/changes/kinds/change-kind.page-type.ts
++++ b/changes/kinds/change-kind.page-type.ts
+@@ -1,11 +1,13 @@
+ import type { Domain } from "../../domains/domain.page-type.ts"
+ import type { PageType } from "../../pages/types/page-type.page-type.ts"
++import type { ReadersOweReading } from "./properties/readers-owe-reading.boolean-property.ts"
+ import type { RunsChecks } from "./properties/runs-checks.boolean-property.ts"
+ import type { WriterOwesReading } from "./properties/writer-owes-reading.boolean-property.ts"
+ 
+ export type ChangeKind = Domain & {
+   runsChecks: RunsChecks
+   writerOwesReading: WriterOwesReading
++  readersOweReading: ReadersOweReading
+ }
+ 
+ export const changeKind = {
+@@ -20,6 +22,7 @@ export const changeKind = {
+     "change-kind/change-mechanical",
+     "change-kind/change-none",
+     "change-kind/change-restated",
++    "boolean-property/readers-owe-reading",
+     "boolean-property/runs-checks",
+     "boolean-property/writer-owes-reading",
+   ],
+@@ -27,6 +30,7 @@ export const changeKind = {
+   properties: [
+     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
+     { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
++    { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
+   ],
+   invariants: [
+     {
+@@ -36,11 +40,19 @@ export const changeKind = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The checks a change runs and the reading its writer owes are read off the change kind's page.",
++        "The checks a change runs and the readings a change owes are read off the change kind's page.",
+     },
+     {
+       invariantKind: "departure",
+       statement: "Whether the checks run and whether the writer owes reading are two answers.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Whether the writer owes reading and whether the readers do are two answers.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "No change kind stales its readers without owing its writer reading.",
++    },
+   ],
+ } as const satisfies PageType
 diff --git a/changes/kinds/pages/change-authored.change-kind.ts b/changes/kinds/pages/change-authored.change-kind.ts
 index c008e623201bae38116d2c1424e9a0ed740dba40..f4c6341a7f4fedaf22b91c790f41a7ab8278e395 100644
 --- a/changes/kinds/pages/change-authored.change-kind.ts
