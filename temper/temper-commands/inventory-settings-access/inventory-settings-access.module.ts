@@ -17,7 +17,7 @@ export const inventorySettingsAccess = {
     },
     {
       invariantKind: "departure",
-      statement: "A rule page no rule wants any more is taken away in the same write.",
+      statement: "A rule page no rule wants is taken away in the same write.",
     },
     {
       invariantKind: "departure",
@@ -25,16 +25,20 @@ export const inventorySettingsAccess = {
     },
     {
       invariantKind: "departure",
-      statement: "A slice that is not there reads as the empty one rather than refusing.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A write carrying an item rule or a buy rule is refused by how many it carries.",
+      statement: "A slice that is not there reads as an empty slice rather than refusing.",
     },
     {
       invariantKind: "departure",
       statement:
-        "The automation settings live under one settings key, and the page store refuses every keyed write.",
+        "A write carrying an item rule or a buy rule is refused naming how many rules the write carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The automation settings live under one settings key.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page store refuses every keyed write.",
     },
     {
       invariantKind: "gap",
@@ -47,7 +51,7 @@ export const inventorySettingsAccess = {
     {
       invariantKind: "departure",
       statement:
-        "A refusal says how much went unkept rather than only that the page store refused.",
+        "A refusal says how many characters went unkept rather than only that the page store refused.",
     },
   ],
 } as const satisfies Module
