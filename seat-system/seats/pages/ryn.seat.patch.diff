@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/seat-system/supervising/supervisor-env/supervisor-env.module.ts b/seat-system/supervising/supervisor-env/supervisor-env.module.ts
+index 517a81e4b4b0e2b8de9e34e48bb67def858bf709..0e26d2a418ea88109255b7e07ce8eba96193b7af 100644
+--- a/seat-system/supervising/supervisor-env/supervisor-env.module.ts
++++ b/seat-system/supervising/supervisor-env/supervisor-env.module.ts
+@@ -18,7 +18,7 @@ export const supervisorEnv = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An inherited tool timeout wins over the one the seat conditions state.",
++      statement: "An inherited tool timeout wins over the timeout the seat conditions state.",
+     },
+     {
+       invariantKind: "departure",
