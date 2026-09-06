@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 right files, 3 cheap, 4 on, at patch. Seed a fault before believing a zero; the count of checks judged rises when one goes on. Charge a check what it adds on a warm shadow. Count how often the refused files change before calling a blast radius blocking. A tested decision can be wrong. key-names-one-property refuses 57, lint-clean 302, manifest-names-what-is-reached 67, no-class 8. manifest-lands-on-a-file and name-format-judges-by-one-shape green. no-code-comments next.",
+        "Steps: 1 category, 2 right files, 3 cheap, 4 on, at patch. Seed a fault before believing a zero; the count of checks judged rises when one goes on. Charge a check what it adds on a warm shadow. Count how often the refused files change before calling a blast radius blocking. A tested decision can be wrong. key-names-one-property refuses 57, lint-clean 302, manifest-names-what-is-reached 67, no-class 8, no-code-comments 3020 over 426 files all touched this week. no-enum-or-namespace next.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
