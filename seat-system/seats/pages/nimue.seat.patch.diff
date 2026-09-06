@@ -70,6 +70,23 @@ index b1eb64c3a833c952a6e561c3bf2e812dc824354a..3ccb78d390a29edc502012b3596ffd4f
      },
  
      {
+diff --git a/agents/claude-accounts/modules/reading/claude-account-reading.module.test.ts b/agents/claude-accounts/modules/reading/claude-account-reading.module.test.ts
+index 77193ef339867b218a654f663b72d3637c8fd95a..533909a607aca05bcf1f598063bb0e933e828298 100644
+--- a/agents/claude-accounts/modules/reading/claude-account-reading.module.test.ts
++++ b/agents/claude-accounts/modules/reading/claude-account-reading.module.test.ts
+@@ -297,8 +297,10 @@ test("reading one account lists no directory of the fleet", () => {
+   ])
+   const two = counting(root)
+   expect(everyAccountSlugIn(two.reading)).toEqual(["aine", "aow", "ctw"])
+-  expect(two.seen.filter((said) => said.startsWith("listing "))).toEqual([
+-    "listing identity/claude-account/slug",
++  expect(two.seen.filter((said) => said.startsWith("listing "))).toEqual([])
++  expect(two.seen.filter((said) => said.startsWith("lines "))).toEqual([
++    `lines identity/page/id/${ACCOUNT_TYPE}.jsonl`,
++    "lines value/claude-account.jsonl",
+   ])
+ })
+ 
 diff --git a/agents/claude-accounts/modules/reading/claude-account-reading.module.ts b/agents/claude-accounts/modules/reading/claude-account-reading.module.ts
 index 631125aa040432d17d8165cf62274fe54fe81069..d2ef70835ba09aaa2c1a2c8bd627ab486d449f18 100644
 --- a/agents/claude-accounts/modules/reading/claude-account-reading.module.ts
