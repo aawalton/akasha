@@ -22,7 +22,7 @@ export const namespace = {
     {
       invariantKind: "departure",
       statement:
-        "A namespace under another namespace opens its own slug with that one's and a hyphen.",
+        "A namespace under another namespace opens its own slug with the outer slug and a hyphen.",
     },
     {
       invariantKind: "departure",
