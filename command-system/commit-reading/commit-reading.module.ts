@@ -34,7 +34,7 @@ export const commitReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A reader that has answered enough bytes is retired for a fresh one.",
+      statement: "A reader that has answered enough bytes is retired for a fresh reader.",
     },
     {
       invariantKind: "departure",
