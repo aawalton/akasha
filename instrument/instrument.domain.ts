@@ -57,7 +57,8 @@ export const instrument = {
     },
     {
       invariantKind: "departure",
-      statement: "A first run against an empty cache costs more than the run that first run is.",
+      statement:
+        "A first run against an empty cache costs beyond the same run against a full cache.",
     },
     {
       invariantKind: "departure",
