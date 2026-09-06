@@ -1,0 +1,13 @@
+diff --git a/checks/code-checks/pages/typecheck/typecheck.code-check.ts b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
+index 0b696d34e0058f9b9350c55fb5fa24344e6237e5..3bae3ef8ba4647d625ce68a591783826c07e65af 100644
+--- a/checks/code-checks/pages/typecheck/typecheck.code-check.ts
++++ b/checks/code-checks/pages/typecheck/typecheck.code-check.ts
+@@ -28,7 +28,7 @@ export const typecheck = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The index read is the one the change leaves.",
++      statement: "The index read is the index the change leaves.",
+     },
+     {
+       invariantKind: "departure",
