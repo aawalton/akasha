@@ -3153,10 +3153,10 @@ index f1763ed5264894702e457bf37adbb39723283900..7feb27780ed557a3c152ee27175857eb
    unique: "page-type",
    invariants: [
 diff --git a/code-system/routes/properties/url-path.text-property.ts b/code-system/routes/properties/url-path.text-property.ts
-index 43e43f42d257ad41db942ea1df2639e039d5b78a..13f45a7308c3eb87034741e20332cc6147938bf8 100644
+index 43e43f42d257ad41db942ea1df2639e039d5b78a..d87be7c7f2a26ef57b2b58faf99ec24e230e043b 100644
 --- a/code-system/routes/properties/url-path.text-property.ts
 +++ b/code-system/routes/properties/url-path.text-property.ts
-@@ -8,7 +8,7 @@ export const urlPath = {
+@@ -8,12 +8,16 @@ export const urlPath = {
    slug: "url-path",
    propertySlug: "url-path",
    definition: "the path a router serves a route under",
@@ -3165,6 +3165,16 @@ index 43e43f42d257ad41db942ea1df2639e039d5b78a..13f45a7308c3eb87034741e20332cc61
    nameFormatSlug: null,
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "A path is written as the router takes that path, with no leading slash.",
++      statement: "A path is written as the router takes that path.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path carries no leading slash.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/code-system/rust-crates/rust-crate.page-type.ts b/code-system/rust-crates/rust-crate.page-type.ts
 index 7cfbeec328451d60d72b1f4ca810d8acece0ae99..995a831c8f0e727dbb25fa2a2d944c9bfc153d2f 100644
 --- a/code-system/rust-crates/rust-crate.page-type.ts
