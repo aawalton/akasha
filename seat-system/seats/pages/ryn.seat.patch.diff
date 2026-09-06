@@ -1,8 +1,8 @@
 diff --git a/pages/commands/page-secret-acting/page-secret-acting.module.ts b/pages/commands/page-secret-acting/page-secret-acting.module.ts
-index b5f7e1702078f146819728cafe225e73611639c4..687694103760e3fccf36e48b53d6bb47dfda143e 100644
+index b5f7e1702078f146819728cafe225e73611639c4..514a2d2c94d78ae2d05ed81fc333708b13d052ea 100644
 --- a/pages/commands/page-secret-acting/page-secret-acting.module.ts
 +++ b/pages/commands/page-secret-acting/page-secret-acting.module.ts
-@@ -26,12 +26,12 @@ export const pageSecretActing = {
+@@ -26,16 +26,16 @@ export const pageSecretActing = {
      },
      {
        invariantKind: "departure",
@@ -14,6 +14,11 @@ index b5f7e1702078f146819728cafe225e73611639c4..687694103760e3fccf36e48b53d6bb47
        statement:
 -        "A flag carrying no value is read as said rather than as taking the word after it.",
 +        "A flag carrying no value is read as said rather than as taking the word after the flag.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A word said as no flag is refused, since everything taken here is named by one.",
++      statement: "A word said as no flag is refused.",
      },
      {
        invariantKind: "departure",
