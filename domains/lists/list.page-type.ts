@@ -24,7 +24,11 @@ export const list = {
     },
     {
       invariantKind: "departure",
-      statement: "A member is a name and a gloss, and carries nothing else.",
+      statement: "A member is a name and a gloss.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A member carries nothing else.",
     },
     {
       invariantKind: "departure",
@@ -32,7 +36,7 @@ export const list = {
     },
     {
       invariantKind: "departure",
-      statement: "A member that wants more than a gloss is a page of its own.",
+      statement: "A member wanting a paragraph is a page of its own.",
     },
   ],
 } as const satisfies PageType
