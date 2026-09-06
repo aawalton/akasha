@@ -9,7 +9,7 @@ export const fileBacking = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The roster names the page types kept in files and no others.",
+      statement: "The roster names the page types kept in files and no other page type.",
     },
     {
       invariantKind: "departure",
