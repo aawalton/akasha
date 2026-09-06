@@ -46,6 +46,11 @@ export const theaChecksSystem = {
       workingMemory:
         "Alan ruled the figures wrong and confusing: aelwyn holds 50,909 against a computed 22,537, unsettled. Retire leaf-first — `recompute-totals`, `health-total-points`, `landTotalPoints` out of `session-points-totals`, `persona-total-landing`. Then the field off `session-points-compute` and `persona-recipe-rows`, 3 persona views, `persona-all`, 10 persona pages, 6 value pages, the declarations on `persona` and `value`, the property page, and the finding. The command that opened this list went with the ops CLI.",
     },
+    {
+      statement: "Every check is green.",
+      workingMemory:
+        "Was the last of the steps taken over each check, split off because a check goes on at patch before the tree reaches zero and so is on while still refusing. Nothing measures greenness per check yet. file-has-its-page is the worked case: 629 tracked files claimed by no page, none of them refused today because patch judges only what a change carries.",
+    },
   ],
   constraints: [
     "Each check takes one turn per step, and no turn carries two steps.",
