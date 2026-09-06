@@ -10,7 +10,7 @@ export const automationToggleChange = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A scope is either everyone or one named character or one named companion.",
+      statement: "A scope is the global scope or a named character or a named companion.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const automationToggleChange = {
     },
     {
       invariantKind: "departure",
-      statement: "A toggle both characters and companions carry needs a target to tell which.",
+      statement: "A toggle characters and companions both carry needs a target naming the side.",
     },
     {
       invariantKind: "departure",
