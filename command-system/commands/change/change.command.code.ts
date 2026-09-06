@@ -30,7 +30,7 @@ import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { inputIn, type Piping } from "../../piping/piping.module.code.ts"
-import { offRepo, pathAt, unknownIn } from "../write/write.command.code.ts"
+import { MESSAGE, offRepo, pathAt, unknownIn } from "../write/write.command.code.ts"
 
 const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
 
@@ -39,6 +39,10 @@ const BARE: readonly string[] = []
 const BYTES = new TextEncoder()
 
 const AT = "at"
+
+const APPLY = "apply"
+
+const NO_MESSAGE = "`apply` takes what the commit says, and the message given is empty"
 
 const CHANGE_COMMAND = "change-command"
 
@@ -107,6 +111,21 @@ export function rootedIn(root: string, given: Arguments): Arguments | string {
   return path === null ? offRepo(said) : { ...given, [AT]: path }
 }
 
+export type Asked = { readonly message: string | null; readonly given: Arguments }
+
+// The message an apply commits is free text, so it arrives with the bodies rather than on the
+// command line, where a shell would read a quote or a backslash before this command saw either.
+export function applyIn(given: Arguments): Asked | string {
+  const said = given[APPLY]
+  if (said === undefined) return { message: null, given }
+  const message = said.trim()
+  if (message === "") return NO_MESSAGE
+  return {
+    message,
+    given: Object.fromEntries(Object.entries(given).filter(([key]) => key !== APPLY)),
+  }
+}
+
 // A change states whether the checks run over it, so a partial costs nothing here. The edits kept
 // are judged as a whole rather than one at a time, because that whole is what an apply lands.
 export function editsFor(rows: readonly Edit[]): readonly FileEdit[] {
@@ -145,7 +164,12 @@ export function dropping(root: string, page: string): Answer {
   return { report: [...went, DROPPED], refusals: [], code: 0 }
 }
 
-export async function appending(root: string, page: string, over: Over): Promise<Answer> {
+export async function appending(
+  root: string,
+  page: string,
+  over: Over,
+  applied = false
+): Promise<Answer> {
   let answer: Answer = mistaking([NO_PAGE])
   const kept = keptEdits(root, page, (had) => {
     const before = foldedIn(had)
@@ -167,7 +191,9 @@ export async function appending(root: string, page: string, over: Over): Promise
     answer = {
       report: [
         ...said.edits.map(saidOf).sort(),
-        `the edits are kept at ${editsAt(page) ?? ""}, and \`akasha apply\` lands them`,
+        ...(applied
+          ? []
+          : [`the edits are kept at ${editsAt(page) ?? ""}, and \`akasha apply\` lands them`]),
       ],
       refusals: [],
       code: 0,
@@ -180,6 +206,8 @@ export async function appending(root: string, page: string, over: Over): Promise
 
 export type Loading = (world: World, at: string) => Promise<Loaded | string>
 
+export type Applying = (message: string) => Promise<Answer>
+
 // The change is loaded before the turn over the edits is taken, because loading reaches the disk
 // and the turn holds every other caller out while the turn runs.
 export async function changing(
@@ -187,7 +215,8 @@ export async function changing(
   page: string,
   argv: readonly string[],
   piping: Piping,
-  loading: Loading
+  loading: Loading,
+  applying: Applying
 ): Promise<Answer> {
   const world = worldAt(root, textIn(root))
   const slug = argv[0]
@@ -201,14 +230,38 @@ export async function changing(
   if (typeof said === "string") return mistaking([said])
   const given = rootedIn(root, said)
   if (typeof given === "string") return mistaking([given])
+  const asked = applyIn(given)
+  if (typeof asked === "string") return mistaking([asked])
   const loaded = await loading(world, `${typeOf(world, slug)}/${slug}`)
   if (typeof loaded === "string") return mistaking([loaded, DROP_SAID])
   const held: Loaded = loaded
-  return await appending(root, page, (one) => ranBy(one, held, given))
+  const message = asked.message
+  const answered = await appending(
+    root,
+    page,
+    (one) => ranBy(one, held, asked.given),
+    message !== null
+  )
+  if (message === null || answered.code !== 0) return answered
+  const landed = await applying(message)
+  return {
+    report: [...answered.report, ...landed.report],
+    refusals: landed.refusals,
+    code: landed.code,
+  }
+}
+
+// The apply is reached at the call rather than by an import at the top, because `akasha apply`
+// reads the edits this command appends and a static edge between the two would be a cycle.
+function applyingFor(given: Given): Applying {
+  return async (message) => {
+    const { apply } = await import("../apply/apply.command.code.ts")
+    return await apply([MESSAGE, message], given)
+  }
 }
 
 export async function change(argv: readonly string[], given: Given): Promise<Answer> {
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
   if (page === null || editsAt(page) === null) return mistaking([NO_PAGE])
-  return await changing(given.root, page, argv, inputIn, loadedAt)
+  return await changing(given.root, page, argv, inputIn, loadedAt, applyingFor(given))
 }
