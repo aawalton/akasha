@@ -59,3 +59,17 @@ index e6b8b6999a4c0568aa8bbb181c196383890f953a..ff853c7c36567efef74ec3a3ba340510
        if (why !== null) said.push(why)
        const off = offFormat(each, format, formatting, `${slug} ${field}`)
        if (off !== null) said.push(off)
+diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
+index c077c84259985b9aefdf39af0955b39939b8f502..7a551d601e32568f1a3b2dcd79ed3f241588380c 100644
+--- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
++++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.code.ts
+@@ -20,8 +20,7 @@ import {
+   fieldsFor,
+   fieldsOf,
+   offFormat,
+-  overMax,
+-  overTotal,
++  overLength,
+   type Shaping,
+   twiceIn,
+ } from "./modules/entry-reasons/entry-reasons.module.code.ts"
