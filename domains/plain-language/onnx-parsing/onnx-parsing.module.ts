@@ -33,7 +33,7 @@ export const onnxParsing = {
     },
     {
       invariantKind: "absence",
-      statement: "No process outside this one is started to parse a text.",
+      statement: "No process outside this process is started to parse a text.",
     },
     {
       invariantKind: "departure",
