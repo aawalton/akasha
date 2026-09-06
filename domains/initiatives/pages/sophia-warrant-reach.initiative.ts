@@ -11,7 +11,7 @@ export const sophiaWarrantReach = {
       statement:
         "A change kind states separately what its writer owes and what its landing stales for others.",
       workingMemory:
-        "`writerOwesReading` has landed across the pages, the code and the prose, and reads the same in all three. Left: `readersOweReading` does not exist, and the carry it would drive is four hand-written `carryReadings` calls, three in refactor and one in move, so `replace` at change-checked still stales the fleet. `warranting` still states `Warrants apply to an authored change alone`, which restated is about to falsify. `mechanicalOid` still names the kind. `drafting` reads the old header spelling under a stopgap.",
+        "Both flags landed: authored owes both, restated owes its writer alone, checked owes neither, verified through `kindNamed`. `carryLanded` fires from `landingAsked`, proved three ways beside it. Left: the four hand-written `carryReadings` calls in move and refactor bind the rule a second time until they hand their rename pairs in at `asked.readings`. `warranting` still states `Warrants apply to an authored change alone`, which restated falsifies. `mechanicalOid` names the kind, not the carry.",
     },
   ],
 } as const satisfies Initiative
