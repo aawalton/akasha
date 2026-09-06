@@ -1,3 +1,25 @@
+diff --git a/code-system/ios-components/pages/alanwalton-inbox-stoplights-widget/alanwalton-inbox-stoplights-widget.ios-component.swift.swift b/code-system/ios-components/pages/alanwalton-inbox-stoplights-widget/alanwalton-inbox-stoplights-widget.ios-component.swift.swift
+index 4eca7df00de963bd9256c70c2a45afffd696e79e..7d7114a95ec3a1d6a90b6c5f8be6347137c6483c 100644
+--- a/code-system/ios-components/pages/alanwalton-inbox-stoplights-widget/alanwalton-inbox-stoplights-widget.ios-component.swift.swift
++++ b/code-system/ios-components/pages/alanwalton-inbox-stoplights-widget/alanwalton-inbox-stoplights-widget.ios-component.swift.swift
+@@ -8,6 +8,7 @@ struct InboxStoplight: Decodable, Hashable {
+     let nextTier: Tier?
+     let progress: Double?
+     let label: String?
++    var figureOffScale: Bool? = nil
+ }
+ 
+ struct InboxStoplightsResponse: Decodable {
+@@ -92,7 +93,8 @@ struct InboxHomeView: View {
+                     reading: $0.reading,
+                     nextTier: $0.nextTier,
+                     progress: $0.progress,
+-                    label: INBOX_LABEL[$0.inbox] ?? $0.inbox
++                    label: INBOX_LABEL[$0.inbox] ?? $0.inbox,
++                    figureOffScale: $0.figureOffScale ?? false
+                 )
+             }
+         }
 diff --git a/code-system/ios-components/pages/alanwalton-safety-level-widget/alanwalton-safety-level-widget.ios-component.swift.swift b/code-system/ios-components/pages/alanwalton-safety-level-widget/alanwalton-safety-level-widget.ios-component.swift.swift
 index b66890e9e8297da9f913d1ca0f61914d4d7041ec..4b678b2f08b2e88ff04d4ad80e20ec29070930e9 100644
 --- a/code-system/ios-components/pages/alanwalton-safety-level-widget/alanwalton-safety-level-widget.ios-component.swift.swift
