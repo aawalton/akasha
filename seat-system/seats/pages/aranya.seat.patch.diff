@@ -137,6 +137,24 @@ index 3aeec0ac2021081c0650b252b9112df07bb6555e..00000000000000000000000000000000
 -  evidence:
 -    "Measured 2026-09-03 10:55 MDT.\n\nTHE MATCH IS ON FIELDS, NOT ON ID. The page states resourceName `cloudflare-api-token` and resourceKey `api-token`. The manifest's plaintext head reads kind: Secret, metadata.name: cloudflare-api-token, namespace: cert-manager, and its single encrypted entry under stringData is keyed `api-token`. Same resource, same key, two sources.\n\nWHY NEITHER WENT. Sops ciphertext differs for identical plaintext, so byte comparison settles nothing and only decryption would. Alan's ruling stands: leave live credentials where they are, he rotates before launch. Deleting the wrong one of two would lose the only working copy of a credential cert-manager needs to answer DNS01.\n\nWHO WOULD COLLIDE. deploy-system/secret/secret.ts:96-107 refuses a deploy where two secret pages place a value in one resource under one key. Only one of these two is a page, so that guard does not fire; the manifest path and the page path are separate and neither knows about the other.\n\nWHAT TO DO LATER. Once rotation happens, one of the two is the survivor and the other is deleted. Until then this is recorded rather than resolved.",
 -} as const satisfies Finding
+diff --git a/domains/findings/pages/twenty-k8s-secret-sops-files-inside-akasha-stand-beside-no-page.finding.ts b/domains/findings/pages/twenty-k8s-secret-sops-files-inside-akasha-stand-beside-no-page.finding.ts
+deleted file mode 100644
+index 2549e18ad53d0db0180f4461ed221ebc04bb5ac1..0000000000000000000000000000000000000000
+--- a/domains/findings/pages/twenty-k8s-secret-sops-files-inside-akasha-stand-beside-no-page.finding.ts
++++ /dev/null
+@@ -1,12 +0,0 @@
+-import type { Finding } from "../finding.page-type.ts"
+-
+-export const twentyK8sSecretSopsFilesInsideAkashaStandBesideNoPage = {
+-  id: "01a0683c-3c7f-7b37-b3ea-b6a2644934c4",
+-  pageTypeSlug: "finding",
+-  slug: "twenty-k8s-secret-sops-files-inside-akasha-stand-beside-no-page",
+-  domainSlug: "domain/secret",
+-  claim:
+-    "Every one of the twenty `*.k8s-secret.sops.yaml` files inside akasha stands beside no page. There is no `k8s-secret` page type and no `*.k8s-secret.ts` anywhere in the tree, so nothing declares which of their keys are secret, `akasha page-secret-show` cannot be pointed at them, and a folder sweep that keys on pages would take twenty encrypted credentials away without a page refusing.",
+-  evidence:
+-    "Measured 2026-09-03 11:0x MDT. `find akasha -name '*.k8s-secret.sops.yaml'` answers 20 files; for each, the sibling the naming rule requires — the same path with `.sops.yaml` replaced by `.ts` — does not exist. 20 of 20 are orphans.\n\nWHERE THEY STAND. Eighteen under akasha/service-system/cluster-services/pages/, in cloudflared, gotrue, grafana, headscale, pgbouncer, postgres-cnpg, postgrest, prometheus, registry and supabase-realtime; two under akasha/infrastructure/cluster-manifests/cluster-secrets/, being cloudflare-api-token and collections.\n\nWHY THE NAMING SAYS ORPHAN. akasha/pages-system/pages/file-name/page-file-name.module.code.ts:155 defines secretAt as the page path with `.ts` replaced by `.sops.yaml`, so `grafana.k8s-secret.sops.yaml` is the sidecar of a page `grafana.k8s-secret.ts`. `find akasha -name '*k8s-secret*' -name '*.ts'` answers nothing.\n\nWHY THEY STILL WORK. .sops.yaml at the repository root keys its first creation rule on the filename `\\.k8s-secret\\.sops\\.yaml$` with encrypted_regex `^(data|stringData)$`, so these are whole Kubernetes Secret manifests encrypted in place rather than page sidecars, and whatever applies them reads the yaml directly. They are sound as manifests and orphaned as pages.\n\nNOT TOUCHED. No file named here was read for its value, moved or deleted.",
+-} as const satisfies Finding
 diff --git a/infrastructure/cluster-manifests/cluster-secrets/cloudflare-api-token.k8s-secret.sops.yaml b/infrastructure/cluster-manifests/cluster-secrets/cloudflare-api-token.k8s-secret.sops.yaml
 deleted file mode 100644
 index b8cfcb5ef767cfc09ed3e425e373af76b2cffbf6..0000000000000000000000000000000000000000
