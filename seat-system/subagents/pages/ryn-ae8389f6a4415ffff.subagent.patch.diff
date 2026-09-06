@@ -1,9 +1,9 @@
-runsWarrants: false
+writerOwesReading: false
 diff --git a/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts b/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
-index e62ca33b4db76a7bbc5e9084cb55bb200432df11..14271ddcc21c1b964b87f99ec7c8c27f16770dd1 100644
+index e62ca33b4db76a7bbc5e9084cb55bb200432df11..8867a3e1d9afe1bc65a7054ee46744d0d6f2fd17 100644
 --- a/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
 +++ b/seat-system/seat-transcript-rotation/seat-transcript-rotation.module.ts
-@@ -10,11 +10,11 @@ export const seatTranscriptRotation = {
+@@ -10,15 +10,16 @@ export const seatTranscriptRotation = {
    invariants: [
      {
        invariantKind: "departure",
@@ -14,6 +14,12 @@ index e62ca33b4db76a7bbc5e9084cb55bb200432df11..14271ddcc21c1b964b87f99ec7c8c27f
        invariantKind: "departure",
 -      statement: "A transcript the seat names that is not on the disk has none rotated.",
 +      statement: "A transcript the seat names that is not on the disk has no transcript rotated.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A transcript written within the last minute is still live and rotates to none.",
++      statement:
++        "A transcript written within the last minute is still live and rotates to no transcript.",
      },
      {
        invariantKind: "departure",
