@@ -106,6 +106,18 @@ index e7364839103237b05132534312ec911e6259178d..9c4ce60cb5318ca45ee5b751f116b12a
 -  resourceKey: "secret_key",
 +  placements: [{ resourceName: "seaweedfs-creds", resourceKey: "secret_key" }],
  } as const satisfies Secret
+diff --git a/service-system/secrets/pages/subnet-router-auth.secret.ts b/service-system/secrets/pages/subnet-router-auth.secret.ts
+index a1bc3910a0c986e09d859fe49cc05e4fdbf096c0..1b19b440069e6a19f310c18260bc95fc0b552e9e 100644
+--- a/service-system/secrets/pages/subnet-router-auth.secret.ts
++++ b/service-system/secrets/pages/subnet-router-auth.secret.ts
+@@ -4,6 +4,5 @@ export const subnetRouterAuth = {
+   id: "01a06832-cf2d-739c-b805-44e0c58b4757",
+   pageTypeSlug: "secret",
+   slug: "subnet-router-auth",
+-  resourceName: "subnet-router-auth",
+-  resourceKey: "TS_AUTHKEY",
++  placements: [{ resourceName: "subnet-router-auth", resourceKey: "TS_AUTHKEY" }],
+ } as const satisfies Secret
 diff --git a/service-system/secrets/properties/placements.record-property.ts b/service-system/secrets/properties/placements.record-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..a5169276a8d50bbdb85c294495da1c201c0cf4d2
