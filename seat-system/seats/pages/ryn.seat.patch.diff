@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-page-beat/seat-page-beat.module.ts b/seat-system/seat-page-beat/seat-page-beat.module.ts
-index 779ef98a27bdf301aef5615d3fdbad2fee10e12e..46451160cee4c0a3ce64fe247761758faf5b10bc 100644
+index 779ef98a27bdf301aef5615d3fdbad2fee10e12e..65439a0591f0e8dcd29634bbccbae1dfff9652de 100644
 --- a/seat-system/seat-page-beat/seat-page-beat.module.ts
 +++ b/seat-system/seat-page-beat/seat-page-beat.module.ts
 @@ -9,11 +9,13 @@ export const seatPageBeat = {
@@ -18,12 +18,17 @@ index 779ef98a27bdf301aef5615d3fdbad2fee10e12e..46451160cee4c0a3ce64fe247761758f
      },
      {
        invariantKind: "departure",
-@@ -25,7 +27,7 @@ export const seatPageBeat = {
+@@ -25,11 +27,11 @@ export const seatPageBeat = {
      },
      {
        invariantKind: "departure",
 -      statement: "A seat with no composed name and none in its history is left unwritten.",
 +      statement: "A seat with no composed name and no name in its history is left unwritten.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The report is one line of JSON on stdout, carrying the outcome and the seat.",
++      statement: "The report is one line of JSON on stdout carrying the outcome and the seat.",
      },
      {
        invariantKind: "departure",
