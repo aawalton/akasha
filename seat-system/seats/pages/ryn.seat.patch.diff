@@ -1,5 +1,5 @@
 diff --git a/inference/runs/inference-run-store/inference-run-store.module.ts b/inference/runs/inference-run-store/inference-run-store.module.ts
-index c3e89e099a81e10cf08071aeabd05a7a6864015e..3bf49a01081ceb53da698bd6a061a33650801328 100644
+index c3e89e099a81e10cf08071aeabd05a7a6864015e..aeb6d2b59d29b401a69059fedbfa4bd96bf29da9 100644
 --- a/inference/runs/inference-run-store/inference-run-store.module.ts
 +++ b/inference/runs/inference-run-store/inference-run-store.module.ts
 @@ -9,12 +9,16 @@ export const inferenceRunStore = {
@@ -21,3 +21,12 @@ index c3e89e099a81e10cf08071aeabd05a7a6864015e..3bf49a01081ceb53da698bd6a061a336
      },
      {
        invariantKind: "departure",
+@@ -23,7 +27,7 @@ export const inferenceRunStore = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A run lands at most one of an image page and an audio page.",
++      statement: "No run lands both an image page and an audio page.",
+     },
+   ],
+ } as const satisfies Module
