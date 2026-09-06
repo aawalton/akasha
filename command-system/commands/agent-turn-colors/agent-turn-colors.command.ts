@@ -64,7 +64,7 @@ export const agentTurnColors = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat that kept records before a hook stamped one reads as idle.",
+      statement: "A seat that kept records before a hook stamped a record reads as idle.",
     },
     {
       invariantKind: "departure",
