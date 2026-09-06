@@ -1,3 +1,17 @@
+diff --git a/readout-system/readout-widgets/pages/alanwalton-upkeep-stoplights.readout-widget.ts b/readout-system/readout-widgets/pages/alanwalton-upkeep-stoplights.readout-widget.ts
+index b6b83b22e27a590de39b35949cf046df3da31c25..e88407feb7939988b5c367012cb6d28785fcd805 100644
+--- a/readout-system/readout-widgets/pages/alanwalton-upkeep-stoplights.readout-widget.ts
++++ b/readout-system/readout-widgets/pages/alanwalton-upkeep-stoplights.readout-widget.ts
+@@ -12,7 +12,8 @@ export const alanwaltonUpkeepStoplights = {
+   feed: "https://alanwalton.com/api/habit-stoplights",
+   galleryName: "Upkeep",
+   galleryDescription: "Your four upkeep stoplights, at a glance.",
+-  opens: "capacitor://localhost/nav/tracking-690c624f?tab=20f5f031-8fa1-44d2-be3a-561b457548f1",
++  opens:
++    "capacitor://localhost/nav/tracking-690c624f?tab=20f5f031-8fa1-44d2-be3a-561b457548f1#widget=alanwalton-upkeep-stoplights",
+   groupSlugs: ["upkeep"],
+   place: 6,
+ } as const satisfies ReadoutWidget
 diff --git a/readout-system/readout-widgets/properties/opens.text-property.ts b/readout-system/readout-widgets/properties/opens.text-property.ts
 index eb84b501aadb37e0ae21fabf80beaf67609831ff..88b82b420e7d83bb969cf963aca4c62cad99b664 100644
 --- a/readout-system/readout-widgets/properties/opens.text-property.ts
