@@ -14,8 +14,11 @@ export const seatStart = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The command reads arguments and writes the answer, and the function the command calls does neither.",
+      statement: "The command reads arguments and writes the answer.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The function the command calls reads no argument and writes no answer.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +31,7 @@ export const seatStart = {
     {
       invariantKind: "departure",
       statement:
-        "A headless start launches the seat here and an interactive one leaves that seat detached.",
+        "A headless start launches the seat here and an interactive start leaves that seat detached.",
     },
     {
       invariantKind: "departure",
@@ -37,7 +40,7 @@ export const seatStart = {
     {
       invariantKind: "departure",
       statement:
-        "A headless start answers the pid that start launched and an interactive one answers none.",
+        "A headless start answers the pid that start launched and an interactive start answers no pid.",
     },
   ],
 } as const satisfies Module
