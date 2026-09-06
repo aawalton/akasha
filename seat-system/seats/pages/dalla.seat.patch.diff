@@ -1,0 +1,60 @@
+diff --git a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts
+index 7a31dbd7badb920308198503b47bdfac723ff3d4..05e7cb8babbf98a9cf99e505af7fe6d41f37f7f1 100644
+--- a/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts
++++ b/changes/atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts
+@@ -5,6 +5,10 @@ import { slugFor } from "@akasha/pages/page-property-key"
+ import ts from "typescript"
+ import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
+ import { respelled } from "../../../partial/pages/respell-export/respell-export.change-partial.code.ts"
++import {
++  restated,
++  statedIn,
++} from "../../../partial/pages/restate-value/restate-value.change-partial.code.ts"
+ 
+ const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
+ 
+@@ -14,11 +18,14 @@ const SLUG = "slug"
+ 
+ const PAGE_TYPE_SLUG = "pageTypeSlug"
+ 
++const PLURAL_SLUG = "pluralSlug"
++
+ const ID = "id"
+ 
+ export type Asked = {
+   readonly at: string
+   readonly to: string
++  readonly plural?: string
+ }
+ 
+ export type Renamed = {
+@@ -55,29 +62,6 @@ function exported(statement: ts.VariableStatement): boolean {
+   return statement.modifiers?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword) === true
+ }
+ 
+-function textsOf(held: ts.ObjectLiteralExpression): ReadonlyMap<string, ts.StringLiteral> {
+-  const found = new Map<string, ts.StringLiteral>()
+-  for (const one of held.properties) {
+-    if (!ts.isPropertyAssignment(one)) continue
+-    const key = keyOf(one)
+-    if (key === null || !ts.isStringLiteral(one.initializer)) continue
+-    found.set(key, one.initializer)
+-  }
+-  return found
+-}
+-
+-export function statedIn(source: ts.SourceFile): ReadonlyMap<string, ts.StringLiteral> {
+-  for (const statement of source.statements) {
+-    if (!ts.isVariableStatement(statement) || !exported(statement)) continue
+-    for (const one of statement.declarationList.declarations) {
+-      if (one.initializer === undefined) continue
+-      const held = literalOf(one.initializer)
+-      if (held !== null) return textsOf(held)
+-    }
+-  }
+-  return new Map()
+-}
+-
+ function boundIn(source: ts.SourceFile): string | null {
+   for (const statement of source.statements) {
+     if (!ts.isVariableStatement(statement) || !exported(statement)) continue
