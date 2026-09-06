@@ -1,32 +1,3 @@
-diff --git a/persona-system/personas/points/day-score/persona-day-score.domain.ts b/persona-system/personas/points/day-score/persona-day-score.domain.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..a9feebcc831e6c249eceb82d14933e6d86d5fd10
---- /dev/null
-+++ b/persona-system/personas/points/day-score/persona-day-score.domain.ts
-@@ -0,0 +1,23 @@
-+import type { Domain } from "../../../../domains/domain.page-type.ts"
-+
-+export const personaDayScore = {
-+  id: "01a0675b-16f7-7934-860f-30346687b95a",
-+  pageTypeSlug: "domain",
-+  slug: "persona-day-score",
-+  definition: "what one persona is worth on one day",
-+  invariants: [
-+    {
-+      invariantKind: "departure",
-+      statement:
-+        "A persona day states its own points, computed from the formula its property declares.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "Active calories already sit inside a persona day's points.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "Replacing a day's active calories moves that day's points by the difference.",
-+    },
-+  ],
-+} as const satisfies Domain
 diff --git a/persona-system/personas/points/persona-points.domain.ts b/persona-system/personas/points/persona-points.domain.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..9adf3fac345b12d28268b2c9eea957c39df95862
