@@ -15,7 +15,7 @@ export const inventoryRuleRows = {
     },
     {
       invariantKind: "departure",
-      statement: "An item rule prints the fields its columns name and no others.",
+      statement: "An item rule prints the fields its columns name and no other field.",
     },
     {
       invariantKind: "absence",
