@@ -1,0 +1,271 @@
+diff --git a/readout-system/widget-tap-counting/widget-tap-counting.module.code.ts b/readout-system/widget-tap-counting/widget-tap-counting.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..26ba72f25ede4cf16ab6651a4df53ab0bf825340
+--- /dev/null
++++ b/readout-system/widget-tap-counting/widget-tap-counting.module.code.ts
+@@ -0,0 +1,46 @@
++import { listedAt } from "@akasha/pages/index-reading"
++import { mergeUncommitted, uncommittedIn } from "@akasha/pages/page-uncommitted"
++
++const PAGE_TYPE = "readout-widget"
++
++const TAPS = "taps"
++
++const LAST_TAPPED_AT = "lastTappedAt"
++
++export type Tapped = {
++  readonly taps: number
++  readonly at: string
++}
++
++export function widgetPage(root: string, slug: string): string | null {
++  const listed = listedAt(root, PAGE_TYPE, slug)[0]
++  return listed === undefined ? null : listed.path
++}
++
++export function tapsKept(root: string, page: string): number {
++  const held = uncommittedIn(root, page)
++  if (held === null) return 0
++  const taps = held[TAPS]
++  if (taps === undefined) return 0
++  if (typeof taps !== "number") {
++    throw new Error(
++      `'${page}' sits beside a tap count that is no number, so how often it was tapped is ` +
++        "unknown rather than never"
++    )
++  }
++  return taps
++}
++
++/**
++ * One more tap on the widget at `page`.
++ *
++ * THE COUNT IS READ AND WRITTEN BACK RATHER THAN ADDED TO IN PLACE. Two taps arriving together read
++ * the same count and write the same count back, so one of the two is lost. Alan reads this number to
++ * tell a widget he uses from one he leaves alone, and that reading survives a tap going missing.
++ */
++export function countTap(root: string, page: string, at: Date): Tapped {
++  const taps = tapsKept(root, page) + 1
++  const moment = at.toISOString()
++  mergeUncommitted(root, page, { [TAPS]: taps, [LAST_TAPPED_AT]: moment })
++  return { taps, at: moment }
++}
+diff --git a/readout-system/widget-tap-counting/widget-tap-counting.module.test.ts b/readout-system/widget-tap-counting/widget-tap-counting.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..19b87bd36ed7f7e6f5ecc8f10a299625db8abad2
+--- /dev/null
++++ b/readout-system/widget-tap-counting/widget-tap-counting.module.test.ts
+@@ -0,0 +1,49 @@
++import { afterAll, expect, test } from "bun:test"
++import { scratchWorld } from "@akasha/command-system/scratching"
++import { akashaRoot } from "@akasha/pages/checkout-roots"
++import { mergeUncommitted } from "@akasha/pages/page-uncommitted"
++import { countTap, tapsKept, widgetPage } from "./widget-tap-counting.module.code.ts"
++
++const PAGE = "akasha/readout-system/readout-widgets/pages/alanwalton-surplus.readout-widget.ts"
++
++const TAPPED = "2026-09-06T12:00:00.000Z"
++
++const scratch = scratchWorld()
++
++afterAll(() => scratch.sweep())
++
++test("a widget with nothing beside it has taken no tap", () => {
++  expect(tapsKept(scratch.rootFor("widget-tap-counting-"), PAGE)).toBe(0)
++})
++
++test("a tap counted is the tap read back", () => {
++  const root = scratch.rootFor("widget-tap-counting-")
++  expect(countTap(root, PAGE, new Date(TAPPED))).toEqual({ taps: 1, at: TAPPED })
++  expect(tapsKept(root, PAGE)).toBe(1)
++})
++
++test("a tap adds to the taps counted before it", () => {
++  const root = scratch.rootFor("widget-tap-counting-")
++  countTap(root, PAGE, new Date(TAPPED))
++  countTap(root, PAGE, new Date(TAPPED))
++  expect(countTap(root, PAGE, new Date("2026-09-06T12:05:00.000Z"))).toEqual({
++    taps: 3,
++    at: "2026-09-06T12:05:00.000Z",
++  })
++})
++
++test("a count that is no number is refused rather than read as no tap", () => {
++  const root = scratch.rootFor("widget-tap-counting-")
++  mergeUncommitted(root, PAGE, { taps: "many" })
++  expect(() => tapsKept(root, PAGE)).toThrow()
++})
++
++test("a widget slug answers the page carrying that slug", () => {
++  expect(widgetPage(akashaRoot(), "alanwalton-surplus")).toBe(
++    "readout-system/readout-widgets/pages/alanwalton-surplus.readout-widget.ts"
++  )
++})
++
++test("a slug no widget page carries answers with no path", () => {
++  expect(widgetPage(akashaRoot(), "no-such-widget")).toBeNull()
++})
+diff --git a/readout-system/widget-tap-counting/widget-tap-counting.module.ts b/readout-system/widget-tap-counting/widget-tap-counting.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ae8423e9c87858b0337e459d9b37aab8b741fe4a
+--- /dev/null
++++ b/readout-system/widget-tap-counting/widget-tap-counting.module.ts
+@@ -0,0 +1,48 @@
++import type { Module } from "@akasha/code/module"
++
++export const widgetTapCounting = {
++  id: "01a078a5-b8d6-714a-8da1-93988ac0c7dc",
++  pageTypeSlug: "module",
++  slug: "widget-tap-counting",
++  definition: "the taps a widget has taken, kept beside its page",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A widget's taps are kept in the file beside that widget's page.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A tap never reaches the commit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The moment of the last tap is kept beside the count.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A widget with nothing beside that widget has taken no tap.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The two keys a tap is counted under are named here alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A count that is no number is refused rather than read as no tap.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A slug no widget page carries answers with no path.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here decides a tap happened.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads a link.",
++    },
++  ],
++} as const satisfies Module
+diff --git a/readout-system/widget-tap-link/widget-tap-link.module.code.ts b/readout-system/widget-tap-link/widget-tap-link.module.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bb3fd62f72d4566ed4e39386398574fd9d5473ed
+--- /dev/null
++++ b/readout-system/widget-tap-link/widget-tap-link.module.code.ts
+@@ -0,0 +1,22 @@
++/** The key a widget's link names that widget under. */
++const WIDGET = "widget"
++
++/**
++ * The widget a link names, or nothing where the link names none.
++ *
++ * THE NAME SITS IN THE FRAGMENT RATHER THAN THE QUERY. `decideOpenUrlRoute` builds the path a deep
++ * link navigates to out of the pathname and the search alone, so a name in the fragment cannot
++ * change where a tap lands. Two of Alan's widgets carry the same path and the same query, and the
++ * fragment is what tells the two apart.
++ */
++export function widgetTapped(rawUrl: unknown): string | null {
++  if (typeof rawUrl !== "string") return null
++  let parsed: URL
++  try {
++    parsed = new URL(rawUrl)
++  } catch {
++    return null
++  }
++  const named = new URLSearchParams(parsed.hash.slice(1)).get(WIDGET)
++  return named === null || named === "" ? null : named
++}
+diff --git a/readout-system/widget-tap-link/widget-tap-link.module.test.ts b/readout-system/widget-tap-link/widget-tap-link.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6e94daa360f02bbd6510511489742d7776767b56
+--- /dev/null
++++ b/readout-system/widget-tap-link/widget-tap-link.module.test.ts
+@@ -0,0 +1,34 @@
++import { expect, test } from "bun:test"
++import { widgetTapped } from "./widget-tap-link.module.code.ts"
++
++test("a link names its widget in the fragment", () => {
++  expect(widgetTapped("capacitor://monarch-relay#widget=alanwalton-categorize")).toBe(
++    "alanwalton-categorize"
++  )
++})
++
++test("two links sharing a path and a query name different widgets", () => {
++  const path = "capacitor://localhost/nav/tracking-690c624f?tab=20f5f031"
++  expect(widgetTapped(`${path}#widget=alanwalton-upkeep-stoplights`)).toBe(
++    "alanwalton-upkeep-stoplights"
++  )
++  expect(widgetTapped(`${path}#widget=alanwalton-surplus`)).toBe("alanwalton-surplus")
++})
++
++test("a link naming no widget names none", () => {
++  expect(widgetTapped("capacitor://localhost/nav/tasks-a7242626")).toBe(null)
++  expect(widgetTapped("capacitor://localhost/nav/tasks-a7242626#tab=1")).toBe(null)
++  expect(widgetTapped("capacitor://localhost/nav/tasks-a7242626?widget=alanwalton-surplus")).toBe(
++    null
++  )
++})
++
++test("a link naming a widget with an empty name names none", () => {
++  expect(widgetTapped("capacitor://monarch-relay#widget=")).toBe(null)
++})
++
++test("text that is no link names no widget", () => {
++  expect(widgetTapped("not a url")).toBe(null)
++  expect(widgetTapped(null)).toBe(null)
++  expect(widgetTapped(7)).toBe(null)
++})
+diff --git a/readout-system/widget-tap-link/widget-tap-link.module.ts b/readout-system/widget-tap-link/widget-tap-link.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c7db5bd4949e529e951613b87bd08a25ecef02ba
+--- /dev/null
++++ b/readout-system/widget-tap-link/widget-tap-link.module.ts
+@@ -0,0 +1,36 @@
++import type { Module } from "@akasha/code/module"
++
++export const widgetTapLink = {
++  id: "01a078a5-b8d4-7914-bdf7-41f482a36806",
++  pageTypeSlug: "module",
++  slug: "widget-tap-link",
++  definition: "the widget a link names, read off the link's fragment",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The key a widget is named under is stated here alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A link naming no widget answers with nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Text that is no link answers with nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A link naming a widget with an empty name answers with nothing.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here counts a tap.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here navigates.",
++    },
++  ],
++} as const satisfies Module
