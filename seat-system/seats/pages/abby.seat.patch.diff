@@ -1,0 +1,36 @@
+diff --git a/alan/books/all-about-alan/topics/pages/what-makes-a-person-expensive.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-makes-a-person-expensive.all-about-alan-topic.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a62200ee672759b7dd919239f2a1c5acda0370b1
+--- /dev/null
++++ b/alan/books/all-about-alan/topics/pages/what-makes-a-person-expensive.all-about-alan-topic.ts
+@@ -0,0 +1,13 @@
++import type { AllAboutAlanTopic } from "../all-about-alan-topic.page-type.ts"
++
++export const whatMakesAPersonExpensive = {
++  id: "01a07866-7795-75e8-9ed9-5c69ef2ffc1a",
++  pageTypeSlug: "all-about-alan-topic",
++  slug: "what-makes-a-person-expensive",
++  title: "What Makes A Person Expensive",
++  definition: "what drives the difficulty I rate time with a particular person at",
++  parentSlugs: ["how-much-company-i-can-take"],
++  relatedSlugs: ["why-i-overspend-on-the-marriage", "why-getting-close-hurts"],
++  settled:
++    "Conflict is the single biggest factor in what a person's company costs me.\n\nLizzy is usually a two, and I think that is because she is very conflict-avoidant.\n\nJen is conflict-able. She does not seek conflict out and she does not avoid it either.",
++} as const satisfies AllAboutAlanTopic
+diff --git a/alan/books/all-about-alan/topics/pages/why-people-read-as-unsafe.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/why-people-read-as-unsafe.all-about-alan-topic.ts
+index 26f6864387650f17d92f1db7dabb29d9ec557bc0..0302bc8664d19fb7b49181af0877741acbec1421 100644
+--- a/alan/books/all-about-alan/topics/pages/why-people-read-as-unsafe.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/why-people-read-as-unsafe.all-about-alan-topic.ts
+@@ -7,7 +7,11 @@ export const whyPeopleReadAsUnsafe = {
+   title: "Why People Read As Unsafe",
+   definition: "the childhood setting that makes people dangerous before any evidence arrives",
+   parentSlugs: ["alan"],
+-  relatedSlugs: ["who-is-safe-to-be-around", "why-i-have-to-be-perfect"],
++  relatedSlugs: [
++    "who-is-safe-to-be-around",
++    "why-i-have-to-be-perfect",
++    "blank-check-mode-and-recovery-mode",
++  ],
+   settled:
+     "The deepest thing my body learned as a child is that people are not safe. A setting rather than a conclusion.\n\nMy behaviour did not read to my parents, undiagnosed themselves, and correction came as pain. No cruelty in it.\n\nPunishment I could not see coming had nothing to attach to, so it attached to people as a whole.\n\nUnder it sits an earlier verdict poured by absence: my needs are not important. The same warm hands.\n\nIt was learned, so it can move, but it sits below where argument reaches.",
+ } as const satisfies AllAboutAlanTopic
