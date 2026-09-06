@@ -58,7 +58,7 @@ export const allAboutAlanTopic = {
     },
     {
       invariantKind: "departure",
-      statement: "A topic that has neither is a title and a definition alone.",
+      statement: "A topic with no settled text is a title and a definition alone.",
     },
   ],
 } as const satisfies PageType
