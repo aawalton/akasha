@@ -1,5 +1,5 @@
 diff --git a/seat-system/terminal-init/document-present/document-present.module.ts b/seat-system/terminal-init/document-present/document-present.module.ts
-index 6fb2094a07fde6fb35e28ffc22f94b10810f9e08..0be6a95aae43b4df948995f2c1de0ce99652d3d9 100644
+index 6fb2094a07fde6fb35e28ffc22f94b10810f9e08..d5f1bb9ac9db72156927b072f17b2a0258a12a83 100644
 --- a/seat-system/terminal-init/document-present/document-present.module.ts
 +++ b/seat-system/terminal-init/document-present/document-present.module.ts
 @@ -14,16 +14,19 @@ export const documentPresent = {
@@ -26,12 +26,21 @@ index 6fb2094a07fde6fb35e28ffc22f94b10810f9e08..0be6a95aae43b4df948995f2c1de0ce9
      },
      {
        invariantKind: "departure",
-@@ -39,7 +42,7 @@ export const documentPresent = {
+@@ -39,11 +42,15 @@ export const documentPresent = {
      },
      {
        invariantKind: "departure",
 -      statement: "A persona whose document has not moved in has none yet.",
 +      statement: "A persona whose document has not moved in has no document yet.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A seat with no persona document takes on no persona.",
      },
      {
        invariantKind: "departure",
+-      statement: "Either way there is no identity to seat and a fresh session cannot reseed one.",
++      statement: "A fresh session reseeds no persona document.",
+     },
+     {
+       invariantKind: "absence",
