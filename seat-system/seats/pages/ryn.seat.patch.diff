@@ -1,5 +1,5 @@
 diff --git a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
-index d637d9be9f66b0a14f75bb0cfcc146608b1e9789..946a933176e6dd3b5dc912e7e3524596144042ea 100644
+index d637d9be9f66b0a14f75bb0cfcc146608b1e9789..34a63eb983254ac9db9787e284b073a2b3e46e9e 100644
 --- a/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
 +++ b/changes/atomic-changes/pages/rename-property-signature/rename-property-signature.atomic-change.ts
 @@ -10,7 +10,8 @@ export const renamePropertySignature = {
@@ -22,3 +22,12 @@ index d637d9be9f66b0a14f75bb0cfcc146608b1e9789..946a933176e6dd3b5dc912e7e3524596
      },
  
      {
+@@ -28,7 +30,7 @@ export const renamePropertySignature = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A shorthand filling the renamed property is spelled out so the name it named is kept.",
++        "A shorthand filling the renamed property is spelled out so the name that shorthand named is kept.",
+     },
+     {
+       invariantKind: "departure",
