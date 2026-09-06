@@ -1,0 +1,18 @@
+diff --git a/git/git-committing/git-committing.module.ts b/git/git-committing/git-committing.module.ts
+index 47696e1c7ff686fcbcfbecde03200a0999639a4f..09e03afa803e7d51230d7f3a54efe21ef87bbe8e 100644
+--- a/git/git-committing/git-committing.module.ts
++++ b/git/git-committing/git-committing.module.ts
+@@ -21,8 +21,11 @@ export const gitCommitting = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A new path is given intent to add before the commit, so the commit names that path.",
++      statement: "A new path is given intent to add before the commit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The commit names that path.",
+     },
+     {
+       invariantKind: "departure",
