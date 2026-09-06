@@ -35,7 +35,7 @@ export const aranyaClusterCleanup = {
     {
       statement: "A subagent whose page did not land does not work unseen.",
       workingMemory:
-        "13 landings were refused in `.supervisors/<seat id>/subagent-presence.log`, each one because another landing held `.git/akasha-landing.lock` past 120s: 4 put-ups, whose subagents held no page from their first moment, and 9 take-downs, which are among the pages on disk. `state-subagent.agent-hook.ts` already carries the gap as `Nothing reads that log to put up a page the refusal left unwritten.` All 13 fell in one 97-second window rather than under load, so a refusal is rare and the unread log is what makes it lasting.",
+        "13 landings were refused in `.supervisors/<seat id>/subagent-presence.log`, each because another landing held `.git/akasha-landing.lock` past 120s: 4 put-ups naming 3 subagents, and 9 take-downs. `state-subagent.agent-hook.ts` carries the gap as `Nothing reads that log to put up a page the refusal left unwritten.` No reader of that log can recompose the page: the line names the seat and the own id and not the kind, which `puttingUp` takes.",
     },
   ],
 } as const satisfies Initiative
