@@ -28,6 +28,41 @@ index 31175dfc23325325e2e089cfb60c0dd872d6b333..a31d57a8ffba8c8d71b293ee1b3290b7
    })
  
  export function seeded(root: string): boolean {
+diff --git a/command-system/calling/calling.module.code.ts b/command-system/calling/calling.module.code.ts
+index 5249c6cedf8d515c6be900dbd70b93129ccef296..3ddc5ddfd9d3b6b86e60615ccf379e5f63ca28c9 100644
+--- a/command-system/calling/calling.module.code.ts
++++ b/command-system/calling/calling.module.code.ts
+@@ -11,6 +11,7 @@ export type Kind = {
+   readonly slug: string
+   readonly runsChecks: boolean
+   readonly writerOwesReading: boolean
++  readonly readersOweReading: boolean
+ }
+ 
+ export type Outside = {
+@@ -49,6 +50,8 @@ const RUNS_CHECKS = "runsChecks"
+ 
+ const WRITER_OWES_READING = "writerOwesReading"
+ 
++const READERS_OWE_READING = "readersOweReading"
++
+ const CHANGE_KIND_TYPE = "01a05e11-d3f8-72af-b104-6cdd1255b0eb"
+ 
+ const TAKING = "taking"
+@@ -159,8 +162,11 @@ export function kindNamed(root: string, slug: string): Kind | null {
+   if (page === null) return null
+   const checks = page[RUNS_CHECKS]
+   const owed = page[WRITER_OWES_READING]
+-  if (typeof checks !== "boolean" || typeof owed !== "boolean") return null
+-  return { slug, runsChecks: checks, writerOwesReading: owed }
++  const stales = page[READERS_OWE_READING]
++  if (typeof checks !== "boolean" || typeof owed !== "boolean" || typeof stales !== "boolean") {
++    return null
++  }
++  return { slug, runsChecks: checks, writerOwesReading: owed, readersOweReading: stales }
+ }
+ 
+ function kindOf(root: string, page: Record<string, unknown> | null): Kind | null {
 diff --git a/command-system/calling/calling.module.test.ts b/command-system/calling/calling.module.test.ts
 index 795624d305e291b1c295fd98ba8465fa5da9f659..ba96faeb3ebdd13511cc4774d350503511458887 100644
 --- a/command-system/calling/calling.module.test.ts
