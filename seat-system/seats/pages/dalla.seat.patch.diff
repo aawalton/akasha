@@ -120,3 +120,15 @@ index 0000000000000000000000000000000000000000..573f8e3f48c368afbfacf8d58e560c70
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/pages/types/page-type.page-type.ts b/pages/types/page-type.page-type.ts
+index 1f73d9d25edfb241e2c3dddf94ce77e6d9eea326..d9fcd5b96dd7a9a0990e3284b862c4958a905035 100644
+--- a/pages/types/page-type.page-type.ts
++++ b/pages/types/page-type.page-type.ts
+@@ -37,6 +37,7 @@ export const pageType = {
+   pluralSlug: "page-types",
+   partSlugs: [
+     "module/page-type-descent",
++    "module/page-type-folder",
+     "module/declared-properties",
+     "boolean-property/allows-tmp-paths",
+     "boolean-property/frame-edge-to-edge",
