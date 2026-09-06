@@ -1,0 +1,18 @@
+diff --git a/alan/fitness/exercise-access/session-closing/session-closing.module.ts b/alan/fitness/exercise-access/session-closing/session-closing.module.ts
+index 871c30f3a0037e65e1e5a4d4912a6d84db6064e6..6c6dc3c24ed087523c929b5f87412e475e51d281 100644
+--- a/alan/fitness/exercise-access/session-closing/session-closing.module.ts
++++ b/alan/fitness/exercise-access/session-closing/session-closing.module.ts
+@@ -19,8 +19,11 @@ export const sessionClosing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A session abandoned closes at its last set, and at its start where no set states a time.",
++      statement: "A session abandoned closes at its last set.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A session whose sets state no time closes at that session's start.",
+     },
+     {
+       invariantKind: "departure",
