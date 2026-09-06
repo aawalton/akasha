@@ -10,6 +10,25 @@ index be9030561fa8efe48bea725dc713bdec62eda8f6..5772281c09ba196d025e789f465d847e
      const text = textIn(change, path)
      if (text !== null && text.includes(SPELT)) return true
    }
+diff --git a/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts b/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts
+index 0ab53dbe91dc6dd638295ee2b411b8d3092b48f9..c6a835b959b82a0e59b4ddb57aed67b8e002fcb8 100644
+--- a/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts
++++ b/checks/code-checks/pages/global-declared-once/global-declared-once.code-check.ts
+@@ -105,6 +105,14 @@ export const globalDeclaredOnce = {
+       invariantKind: "departure",
+       statement: "A file spelling no `declare global` and named no declaration is read no further.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The spelling is looked for only in the files this check takes as input.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A file holding bytes rather than text is one this check takes no input from.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Two module bodies declaring one name are not judged here.",
 diff --git a/personas/amy/amy.persona.mobile-wallpaper.png b/personas/amy/amy.persona.mobile-wallpaper.png
 new file mode 100644
 index 0000000000000000000000000000000000000000..31ba9e416aa24b2393f8c37dfc35db2302e8854c
