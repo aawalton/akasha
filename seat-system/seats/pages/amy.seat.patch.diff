@@ -1,0 +1,19 @@
+diff --git a/code-system/ios-apps/pages/alanwalton/scripts/ios-add/alanwalton-ios-add.shell-script.shell.sh b/code-system/ios-apps/pages/alanwalton/scripts/ios-add/alanwalton-ios-add.shell-script.shell.sh
+index 5030466e5641f179a9f752597ac2fda3109092f1..11ff5af4e3a5a1d02e18a381dad7dff155a0528b 100644
+--- a/code-system/ios-apps/pages/alanwalton/scripts/ios-add/alanwalton-ios-add.shell-script.shell.sh
++++ b/code-system/ios-apps/pages/alanwalton/scripts/ios-add/alanwalton-ios-add.shell-script.shell.sh
+@@ -16,7 +16,7 @@ esac
+ 
+ HERE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+ PACKAGE="$(cd "$HERE/../.." && pwd)"
+-SHARED="$(cd "$PACKAGE/../../shell-scripts" && pwd)"
++SHARED="$(cd "$PACKAGE/../../scripts" && pwd)"
+ cd "$PACKAGE"
+ 
+ # cap is a devDependency binary, and bun hoists it to the workspace root rather
+@@ -47,4 +47,4 @@ fi
+ bash "$SHARED/write-capacitor-config/write-capacitor-config.shell-script.shell.sh" \
+   "$PACKAGE/alanwalton.ios-app.capacitor-config.json"
+ "$CAP" "$MODE" ios
+-bash "$HERE/../alanwalton-ios-seam/alanwalton-ios-seam.shell-script.shell.sh"
++bash "$HERE/../ios-seam/alanwalton-ios-seam.shell-script.shell.sh"
