@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/pages/commands/icon-index-rendering/icon-index-rendering.module.ts b/pages/commands/icon-index-rendering/icon-index-rendering.module.ts
+index 217cdda71918f52cfd486122356d907d940bc07f..4caf165e506b4a89c3eb41c25264b3222721aec5 100644
+--- a/pages/commands/icon-index-rendering/icon-index-rendering.module.ts
++++ b/pages/commands/icon-index-rendering/icon-index-rendering.module.ts
+@@ -38,7 +38,8 @@ export const iconIndexRendering = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The page anything outside imports reaches its shards by the path each stands at.",
++      statement:
++        "The page anything outside imports reaches its shards by the path every shard sits at.",
+     },
+     {
+       invariantKind: "departure",
