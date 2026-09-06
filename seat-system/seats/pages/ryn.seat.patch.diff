@@ -1,0 +1,17 @@
+diff --git a/alan/fitness/exercise-access/schedule-focus/schedule-focus.module.ts b/alan/fitness/exercise-access/schedule-focus/schedule-focus.module.ts
+index f151779f93c979daa450446908d10d29fccc9014..bb10db3802244c634efe90c7f9ad008503782edf 100644
+--- a/alan/fitness/exercise-access/schedule-focus/schedule-focus.module.ts
++++ b/alan/fitness/exercise-access/schedule-focus/schedule-focus.module.ts
+@@ -10,7 +10,11 @@ export const scheduleFocus = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "One schedule is active, and a day is read against that one.",
++      statement: "One schedule is active.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A day is read against the active schedule.",
+     },
+     {
+       invariantKind: "departure",
