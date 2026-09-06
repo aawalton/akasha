@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.test.ts b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.test.ts
-index 3a4cd1a17784538fdfed08993dfd38282dfdd19b..eb0ea646c21364d877cb4a5e84d35b2011febf49 100644
+index 3a4cd1a17784538fdfed08993dfd38282dfdd19b..0d1393645082c3eaf498c227f6a8ccfb1b4ebd0d 100644
 --- a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.test.ts
 +++ b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.test.ts
 @@ -2,7 +2,7 @@ import { afterAll, expect, test } from "bun:test"
@@ -11,8 +11,18 @@ index 3a4cd1a17784538fdfed08993dfd38282dfdd19b..eb0ea646c21364d877cb4a5e84d35b20
  import type { Change } from "@akasha/pages/change"
  import { type Shadow, shadowFor } from "@akasha/pages/shadow"
  import {
+@@ -67,6 +67,9 @@ function typed(
+ ): undefined {
+   const path = pathFor(slug)
+   listedFiled(root, PAGE_TYPE, slug, [{ path, id: `id-${slug}` }])
++  valueAlsoFiled(root, PAGE_TYPE, [
++    { path, value: { id: `id-${slug}`, pageTypeSlug: PAGE_TYPE, slug } },
++  ])
+   mkdirSync(join(root, "akasha"), { recursive: true })
+   writeFileSync(join(root, path), stated(slug, above, declares, parts))
+ }
 diff --git a/pages/types/descent/page-type-descent.module.test.ts b/pages/types/descent/page-type-descent.module.test.ts
-index 24ce80d421d1f2bec66cedd243d571d78eed20bf..8b4b844ff48ca039e036241d9ca7fbe2151d7b35 100644
+index 24ce80d421d1f2bec66cedd243d571d78eed20bf..0e104526e6d80236f020c1d66dbbcd04032c7f70 100644
 --- a/pages/types/descent/page-type-descent.module.test.ts
 +++ b/pages/types/descent/page-type-descent.module.test.ts
 @@ -3,7 +3,7 @@ import { mkdirSync, writeFileSync } from "node:fs"
@@ -24,3 +34,13 @@ index 24ce80d421d1f2bec66cedd243d571d78eed20bf..8b4b844ff48ca039e036241d9ca7fbe2
  import { valueAt } from "@akasha/pages/page-value"
  import { kindsUnder, listedAbove } from "./page-type-descent.module.code.ts"
  
+@@ -26,6 +26,9 @@ function namedIn(above: readonly string[]): readonly string[] {
+ function typed(root: string, slug: string, above: readonly string[] | null): undefined {
+   const path = `akasha/held/${slug}.page-type.ts`
+   listedFiled(root, "page-type", slug, [{ path, id: `id-${slug}` }])
++  valueAlsoFiled(root, "page-type", [
++    { path, value: { id: `id-${slug}`, pageTypeSlug: "page-type", slug } },
++  ])
+   const page = join(root, path)
+   mkdirSync(dirname(page), { recursive: true })
+   const said = above === null ? "[]" : JSON.stringify(namedIn(above))
