@@ -179,9 +179,9 @@ test("a value kept for two pages is kept for each", () => {
   expect(kept.map((one) => one.path)).toEqual(["akasha/a.thing.ts", "akasha/b.thing.ts"])
 })
 
-test("a write carrying only kept values lands no commit and writes beside the page", () => {
+test("a write carrying only kept values lands no commit and writes beside the page", async () => {
   const root = mkdtempSync(join(SCRATCH_AT, "page-writing-"))
-  const said = landedIn(root, [
+  const said = await landedIn(root, [
     asking({
       kept: [{ path: "akasha/a.thing.ts", values: { lastSeenAt: "2026-09-01T00:00:00.000Z" } }],
     }),
@@ -209,20 +209,20 @@ test("a throw carrying no path is answered naming the paths the write carried", 
   expect(said).toContain("the write carried akasha/a.ts")
 })
 
-test("a write that throws is refused naming what the write carried", () => {
+test("a write that throws is refused naming what the write carried", async () => {
   const root = mkdtempSync(join(SCRATCH_AT, "page-writing-"))
-  const said = landedIn(root, [
+  const said = await landedIn(root, [
     asking({ puts: [{ path: "akasha/a.thing.ts", content: "export const a = 1\n" }] }),
   ])
   expect("refused" in said && said.refused).toContain("the write carried akasha/a.thing.ts")
   rmSync(root, { recursive: true, force: true })
 })
 
-test("a value kept again merges onto what the page already keeps", () => {
+test("a value kept again merges onto what the page already keeps", async () => {
   const root = mkdtempSync(join(SCRATCH_AT, "page-writing-"))
   const at = "akasha/a.thing.ts"
-  landedIn(root, [asking({ kept: [{ path: at, values: { one: 1, two: 2 } }] })])
-  landedIn(root, [asking({ kept: [{ path: at, values: { two: 22 } }] })])
+  await landedIn(root, [asking({ kept: [{ path: at, values: { one: 1, two: 2 } }] })])
+  await landedIn(root, [asking({ kept: [{ path: at, values: { two: 22 } }] })])
   const held = readFileSync(join(root, "akasha/a.thing.uncommitted.ts"), "utf8")
   expect(held).toContain('"one": 1')
   expect(held).toContain('"two": 22')
