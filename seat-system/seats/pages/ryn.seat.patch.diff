@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/cluster-checks/modules/audit-reading/audit-reading.module.ts b/checks/cluster-checks/modules/audit-reading/audit-reading.module.ts
+index 110e8372fc483736cb3b54eda7b01debdc2e13c1..f355dd05285bb79eb8aa43ae39afd89a0be22f83 100644
+--- a/checks/cluster-checks/modules/audit-reading/audit-reading.module.ts
++++ b/checks/cluster-checks/modules/audit-reading/audit-reading.module.ts
+@@ -10,7 +10,7 @@ export const auditReading = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An audit that scanned nothing is no population rather than a finding of none.",
++      statement: "An audit that scanned nothing is no population rather than a finding of zero.",
+     },
+     {
+       invariantKind: "departure",
