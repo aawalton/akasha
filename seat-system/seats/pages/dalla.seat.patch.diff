@@ -82,6 +82,32 @@ index a5928dac150c859268a4c0711477d56365189854..75275095dbc1819574c6bfe487b8f5fe
          })
        }
      }
+diff --git a/pages/indexes/reaching/reaching.module.ts b/pages/indexes/reaching/reaching.module.ts
+index a021d240ba4c7104e6ad322fd9100e92bb9108e2..07954a149ca65dc6ddf82b91a962f7f0eeaf4b65 100644
+--- a/pages/indexes/reaching/reaching.module.ts
++++ b/pages/indexes/reaching/reaching.module.ts
+@@ -90,19 +90,11 @@ export const reaching = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page's `id` is answered as the page's own.",
++      statement: "A page's `id`, `slug` and `pageTypeSlug` are answered as that page's identity.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page's `slug` is answered as the page's own.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page's `pageTypeSlug` is answered as the page's own.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "How a caller answers a key being the page's own is that caller's own.",
++      statement: "How a caller answers a naming being an identity is that caller's own.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/pages/indexes/relation/index-relation.index.code.ts b/pages/indexes/relation/index-relation.index.code.ts
 index 81e7b483c9832e3637c1ecd3de8c14b6fc56734f..266ca1db9888039c3b6906214f47ad0f4df6102c 100644
 --- a/pages/indexes/relation/index-relation.index.code.ts
