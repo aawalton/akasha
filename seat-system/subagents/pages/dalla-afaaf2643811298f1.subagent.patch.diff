@@ -1,7 +1,0 @@
-diff --git a/seat-system/notices/pages/restart-immediate.notice.text.md b/seat-system/notices/pages/restart-immediate.notice.text.md
-index 4d10f5d95511e6eb88a92e92641646d11367c2a7..348003e6c0382a91f7734b347194d9a9fb0922c7 100644
---- a/seat-system/notices/pages/restart-immediate.notice.text.md
-+++ b/seat-system/notices/pages/restart-immediate.notice.text.md
-@@ -1 +1 @@
--[supervisor] You have been restarted.
-+[supervisor] You have been restarted again.
