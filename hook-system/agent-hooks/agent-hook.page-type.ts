@@ -53,7 +53,7 @@ export const agentHook = {
     },
     {
       invariantKind: "departure",
-      statement: "A hook is handed no others.",
+      statement: "A hook is handed no other calls.",
     },
     {
       invariantKind: "departure",
