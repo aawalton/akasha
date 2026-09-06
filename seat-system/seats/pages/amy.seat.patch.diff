@@ -19,6 +19,24 @@ index 20b615464f1717edf2101e11b6cdc9ea62cbe983..00288c61f8169d36c9eda74c7112952b
    if ("refused" in span) return { reading: args.storedReading ?? null, unread: span.refused }
    const samples = await selectHealthSamples({
      metric: "activeEnergy",
+diff --git a/health-samples-day/active-calories/active-calories.module.ts b/health-samples-day/active-calories/active-calories.module.ts
+index 18e0fda7094395733fe7a62278a105a61389bf63..a8ddba2c9941c85d14424f265aef2c7a214e3a76 100644
+--- a/health-samples-day/active-calories/active-calories.module.ts
++++ b/health-samples-day/active-calories/active-calories.module.ts
+@@ -22,8 +22,11 @@ export const activeCalories = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A day with no recorded wake keeps its stored reading and is named back as uncounted.",
++      statement: "A day with no recorded wake is counted over the ESO day instead.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The day being lived is counted as far as the readings taken so far reach.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/health-samples-day/wake-day-window/wake-day-window.module.code.ts b/health-samples-day/wake-day-window/wake-day-window.module.code.ts
 index 5de307229da53a3947a221c8a577f755d6b0eed6..52898fdaec0cda79ff280c78f12c39548ef5040c 100644
 --- a/health-samples-day/wake-day-window/wake-day-window.module.code.ts
