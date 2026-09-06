@@ -1,14 +1,19 @@
 writerOwesReading: false
 diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
-index 1771722fee59f958a5fc19b703ddf2880b2ea275..06f95829770e3c81069d7d4a5f7ac274b186ca95 100644
+index 1771722fee59f958a5fc19b703ddf2880b2ea275..86f20a74866bea72d1933bf42bdef7cc68b89274 100644
 --- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
 +++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
-@@ -20,7 +20,7 @@ export const keyNamesOneProperty = {
+@@ -20,11 +20,11 @@ export const keyNamesOneProperty = {
      },
      {
        invariantKind: "departure",
 -      statement: "One inherited and one declared meet as surely as two declared.",
 +      statement: "An inherited key and a declared key meet as surely as two declared keys.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Two declarations at one key naming different properties collide.",
++      statement: "Two declarations at the same key naming different properties collide.",
      },
      {
        invariantKind: "departure",
