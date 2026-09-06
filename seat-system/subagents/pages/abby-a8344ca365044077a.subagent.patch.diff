@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-picks-my-next-move-among-fair-options.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-picks-my-next-move-among-fair-options.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9d3197f3f8b1ae76c5bb60f6c08b3946f5cea72e
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-picks-my-next-move-among-fair-options.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatPicksMyNextMoveAmongFairOptions = {
++  id: "01a077e7-137e-78af-be60-8b7683c426bc",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-picks-my-next-move-among-fair-options",
++  topicSlug: "how-a-want-fires",
++  ask: "When fair options sit there and nothing forces my hand, what picks my next move: interest, the reversibility rubric, or the raw pull of a gap?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-given-want-can-be-retired.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-given-want-can-be-retired.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a2bde72c1efab87c4890dd65882fa9285d69b5e0
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-given-want-can-be-retired.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAGivenWantCanBeRetired = {
++  id: "01a077e7-137d-7a08-9092-44d563318c1d",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-given-want-can-be-retired",
++  topicSlug: "how-a-want-fires",
++  ask: "Can a want that was given to me rather than written in be retired, or only managed for the rest of my life?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-line-between-present-and-projected-wants-holds.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-line-between-present-and-projected-wants-holds.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1e3c1b538112423934e8345bbc6d605df7071573
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-line-between-present-and-projected-wants-holds.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheLineBetweenPresentAndProjectedWantsHolds = {
++  id: "01a077e7-137f-7252-b0e6-666abcc1c323",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-line-between-present-and-projected-wants-holds",
++  topicSlug: "how-a-want-fires",
++  ask: "Does the line between a want anchored in the present and a want projected forward hold against cases? I use that line to say which want can be installed.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-a-want-fires.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-a-want-fires.all-about-alan-topic.ts
+index fd8bb45cafaef236ec3249576a27112ab86ab853..8c79fed8a8fb4e8ebece9e09e024f3ff9ea37088 100644
+--- a/alan/books/all-about-alan/topics/pages/how-a-want-fires.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-a-want-fires.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const howAWantFires = {
+   relatedSlugs: ["not-wanting-to-is-the-gauge", "self-improvement"],
+   settled:
+     "I do not author a want. I see something, a gap opens against what it should be, and the want is that pull.\n\nThe only place I can act is upstream, on what I let myself see. Most of how I arrange my surroundings is that.\n\nInside the guardrails I do what I want; wanting nothing routes to rest.\n\nSome are given and fire as desire or irritation: hunger, loneliness, needless complexity. Others I wrote in.\n\nNearly all the written ones serve something else. Improving myself is the one I want for itself.",
+-  unsettled:
+-    "Some wants are given rather than written in, and whether a given one can be retired or only managed for the rest of my life is unknown.\n\nWhen several fair options sit there and nothing forces my hand, what picks the next move is unprobed. Interest, the reversibility rubric and the raw pull of a gap are all candidates.\n\nThe line between wants anchored in the present and wants projected forward is used to say which can be installed, and has never been checked against cases.",
+ } as const satisfies AllAboutAlanTopic
