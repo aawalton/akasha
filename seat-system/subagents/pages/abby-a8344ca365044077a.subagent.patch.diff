@@ -1,0 +1,26 @@
+diff --git a/alan/books/all-about-alan/questions/pages/where-my-prior-in-her-favour-yields.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-my-prior-in-her-favour-yields.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6e032a8eb081276f6c84fd8f07cb89fbb23ce35f
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-my-prior-in-her-favour-yields.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereMyPriorInHerFavourYields = {
++  id: "01a077e2-88c0-7672-a9a2-187befac9b53",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-my-prior-in-her-favour-yields",
++  topicSlug: "giving-her-the-benefit-of-the-doubt",
++  ask: "How does my thumb on the scale in her favour behave under a real conflict with contrary evidence, where does the prior yield, and does it drift into a blank cheque?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/giving-her-the-benefit-of-the-doubt.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/giving-her-the-benefit-of-the-doubt.all-about-alan-topic.ts
+index 58ad629e0a945e1a3075e304194b927c62905961..9f6854ce59b8d5d8db17b552895c382cfd1bdc5a 100644
+--- a/alan/books/all-about-alan/topics/pages/giving-her-the-benefit-of-the-doubt.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/giving-her-the-benefit-of-the-doubt.all-about-alan-topic.ts
+@@ -8,6 +8,4 @@ export const givingHerTheBenefitOfTheDoubt = {
+   definition: "a standing thumb on the scale in her favour",
+   parentSlugs: ["working-out-what-love-is"],
+   settled: "It is commitment plus a named difference, and it compiled.",
+-  unsettled:
+-    "How it behaves under a real conflict between the prior and contrary evidence is untested, including where the prior yields and whether it drifts into a blank cheque.",
+ } as const satisfies AllAboutAlanTopic
