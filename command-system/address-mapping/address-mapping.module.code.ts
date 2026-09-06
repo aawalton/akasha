@@ -10,7 +10,7 @@ import { textIn } from "../worked-typing/worked-typing.module.code.ts"
 
 const RUNNER = "change-runner"
 
-const REACHED = ["change-partial", "change-command"]
+const REACHED = ["change", "change-partial", "change-command"]
 
 const ADDRESSED = "addressed"
 
