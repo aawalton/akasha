@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/what-a-hard-night-costs-in-general.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-a-hard-night-costs-in-general.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f07c6cab42e43867a4c1824a79f949bf8f8f8f0b
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-a-hard-night-costs-in-general.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatAHardNightCostsInGeneral = {
++  id: "01a077eb-b42d-773e-88ce-c90fdc4ad930",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-a-hard-night-costs-in-general",
++  topicSlug: "the-two-nights-we-keep",
++  ask: "One hard night is one observation. Is about six hours and a delayed cost the price of a hard night in general, or the price of that one night?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-makes-me-provide-the-beautiful-night.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-makes-me-provide-the-beautiful-night.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ecfc2c03342b79582fc9babef54e4cfbe2f175d0
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-makes-me-provide-the-beautiful-night.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatMakesMeProvideTheBeautifulNight = {
++  id: "01a077eb-b42e-7901-8b21-5c264cf384c5",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-makes-me-provide-the-beautiful-night",
++  topicSlug: "the-two-nights-we-keep",
++  ask: "The beautiful night is Jen's pattern and I am not reliably providing it. What mechanism would make me provide that night reliably?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-a-hard-night-works-from-a-low-base.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-a-hard-night-works-from-a-low-base.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..85f11f175ef2104fd44076ef25329aba53dc3b51
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-a-hard-night-works-from-a-low-base.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherAHardNightWorksFromALowBase = {
++  id: "01a077eb-b42e-7806-af48-e484d82eb03a",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-a-hard-night-works-from-a-low-base",
++  topicSlug: "the-two-nights-we-keep",
++  ask: "Both nights ran from near the top of my normal range, and the calendar schedules them rather than my level. Does the same night from a low base produce the same change?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/the-two-nights-we-keep.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/the-two-nights-we-keep.all-about-alan-topic.ts
+index 303eba1aca2499a3175a4a5b0549369973dbf9e0..7147eef264130594b6616c7a24ba8a7d6fd8d7c6 100644
+--- a/alan/books/all-about-alan/topics/pages/the-two-nights-we-keep.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/the-two-nights-we-keep.all-about-alan-topic.ts
+@@ -14,6 +14,4 @@ export const theTwoNightsWeKeep = {
+   ],
+   settled:
+     "They are calendar items, not set by how I am on the day, because unscheduled they do not happen.\n\nThe hard night clears things that stood for years, and the clearing holds because what changed is understanding, not a promise.\n\nThe cost is delayed: it lands the day after rather than during the night.\n\nI have noticed a pull in myself to cancel the hard one.\n\nBoth sit on top of a cost that lands almost every night anyway.",
+-  unsettled:
+-    "One hard night is one observation and I am not certain the cost is fixed. Whether about six hours and a delayed cost is the price in general, or the price of that night, is open.\n\nBoth nights ran from near the top of my normal range. Whether the same night from a low base produces the same change is untested, and it is scheduled by calendar rather than by level.\n\nThe beautiful night is Jen's pattern and I am not reliably providing it. No mechanism for that is recorded.",
+ } as const satisfies AllAboutAlanTopic
