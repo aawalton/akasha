@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/inference/commands/inference-voice-clone/inference-voice-clone.command.ts b/inference/commands/inference-voice-clone/inference-voice-clone.command.ts
+index 86f65be1a68c7820cfe9f445ccc047af8072a440..e55432a7fbe5d0fe6125a803286dc25eaa24fcf8 100644
+--- a/inference/commands/inference-voice-clone/inference-voice-clone.command.ts
++++ b/inference/commands/inference-voice-clone/inference-voice-clone.command.ts
+@@ -43,7 +43,7 @@ export const inferenceVoiceClone = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A call naming no clip uses the one the host was provisioned with.",
++      statement: "A call naming no clip uses the clip the host was provisioned with.",
+     },
+     {
+       invariantKind: "departure",
