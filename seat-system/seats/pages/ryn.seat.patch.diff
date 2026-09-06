@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/browser/browser-commands/browser-commands.workspace-package.ts b/browser/browser-commands/browser-commands.workspace-package.ts
+index 24d85a1c9d6f1092bf0cb2fb85b420b444417fc4..4b0a620de4e02b3cccb4be84b42f599ea589f2f8 100644
+--- a/browser/browser-commands/browser-commands.workspace-package.ts
++++ b/browser/browser-commands/browser-commands.workspace-package.ts
+@@ -23,7 +23,7 @@ export const browserCommands = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The user a command here signs in as is checked against the protected one.",
++      statement: "The user a command here signs in as is checked against the protected user.",
+     },
+     {
+       invariantKind: "absence",
