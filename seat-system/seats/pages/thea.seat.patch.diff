@@ -4564,7 +4564,7 @@ index c128aab5edc852524d8dcc8dd8f977902de3558b..94c862dff6b304fd0eb3b0747778607b
        secret: one["secret"] === true,
      })
 diff --git a/pages/types/declared-properties/declared-properties.module.test.ts b/pages/types/declared-properties/declared-properties.module.test.ts
-index d8b8759f311c080593f4edf989c8453ffed3de60..3e5311785c53133a854aafb7cab6af67f802b131 100644
+index d8b8759f311c080593f4edf989c8453ffed3de60..557c3f5e4764f60c145c8fe3bf2a41f84b0ffc39 100644
 --- a/pages/types/declared-properties/declared-properties.module.test.ts
 +++ b/pages/types/declared-properties/declared-properties.module.test.ts
 @@ -80,8 +80,8 @@ test("a page type carries the properties it declares itself", () => {
@@ -4587,6 +4587,17 @@ index d8b8759f311c080593f4edf989c8453ffed3de60..3e5311785c53133a854aafb7cab6af67
  })
  
  test("a declaration reaching no page property is left out rather than keyed by what it states", () => {
+@@ -244,7 +244,9 @@ test("every declaration is answered, the shadowed one standing beside the one th
+     [{ pagePropertySlug: "properties", required: true, many: true, max: 20 }]
+   )
+ 
+-  expect(declaredIn(root, "page-type").map((one) => [one.declaredBy, one.key, one.max])).toEqual([
++  expect(
++    declaredIn(root, "page-type").map((one) => [one.declaredBy, one.key, one.maxCount])
++  ).toEqual([
+     ["page-type", "properties", 20],
+     ["domain", "properties", null],
+   ])
 diff --git a/pages/types/page-properties/page-property.page-type.ts b/pages/types/page-properties/page-property.page-type.ts
 index 66302224b95717126a926442b9d509e4b40a550b..8b662114a86df7089703c959df40f8cad8e58a01 100644
 --- a/pages/types/page-properties/page-property.page-type.ts
