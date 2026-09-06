@@ -114,7 +114,15 @@ export function namesWholeTask(key: string): boolean {
   return key.indexOf(":", SCOPE_MARK_AT) < 0
 }
 
-export function parseTaskCompletions(content: string): readonly ParsedTaskCompletion[] {
+export interface TaskCompletionsRead {
+  readonly entries: readonly ParsedTaskCompletion[]
+  readonly heldBack: number
+}
+
+// The game keys a completion it records against one character as `<taskId>:<characterId>`, and only
+// a key naming the whole task is imported. Counting what is held back tells a task no character has
+// finished apart from a task some characters have, which read alike while both imported as nothing.
+export function readTaskCompletions(content: string): TaskCompletionsRead {
   const root = parseLuaSavedVariablesFile(content, TASKS_GLOBAL_NAME)
   const defaultTable = asRecord(root.Default)
   if (!defaultTable) {
@@ -128,12 +136,20 @@ export function parseTaskCompletions(content: string): readonly ParsedTaskComple
   }
   const completionsTable = asRecord(accountWide.completions) ?? {}
   const entries: ParsedTaskCompletion[] = []
+  let heldBack = 0
   for (const [key, value] of Object.entries(completionsTable)) {
     if (typeof value !== "number") continue
-    if (!namesWholeTask(key)) continue
+    if (!namesWholeTask(key)) {
+      heldBack++
+      continue
+    }
     entries.push({ taskId: key, timestamp: value })
   }
-  return entries
+  return { entries, heldBack }
+}
+
+export function parseTaskCompletions(content: string): readonly ParsedTaskCompletion[] {
+  return readTaskCompletions(content).entries
 }
 
 export function rolledDueDate(task: TaskPage, completedAtMs: number, at: Date): string | undefined {
@@ -303,8 +319,12 @@ export async function runImportTasks(
   options: ImportTasksOptions = {}
 ): Promise<void> {
   const seams = seamsReady(options)
-  const entries = parseTaskCompletions(content)
-  seams.report(`Task import: ${entries.length} task completion(s) captured.`)
+  const { entries, heldBack } = readTaskCompletions(content)
+  seams.report(
+    heldBack === 0
+      ? `Task import: ${entries.length} task completion(s) captured.`
+      : `Task import: ${entries.length} task completion(s) captured, and ${heldBack} held back, each naming one character rather than the whole task.`
+  )
 
   const userId = await userIdFor(supabase, options.userId, "import these completions")
   const tasks = await readTaskPages(userId, seams)

@@ -23,6 +23,10 @@ export const watcherImportTasks = {
     },
     {
       invariantKind: "departure",
+      statement: "The keys left out are reported beside the completions captured.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A task is reached by the id the addon carries and by the task's slug alike.",
     },
     {
