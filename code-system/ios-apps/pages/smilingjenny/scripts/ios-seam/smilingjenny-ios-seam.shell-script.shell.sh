@@ -14,10 +14,10 @@ APPDELEGATE="ios/App/App/AppDelegate.swift"
 CONFIG="ios/App/App/capacitor.config.json"
 PB="/usr/libexec/PlistBuddy"
 
-SHARED_WIDGET_SRC_DIR="$CODE_SYSTEM/ios-components"
+SHARED_WIDGET_SRC_DIR="$CODE_SYSTEM/ios-components/pages"
 # Each thing this package builds is an akasha ios-program page, and the files Xcode
 # reads by a fixed name stand beside that page under names the grammar builds.
-PROGRAMS_DIR="$CODE_SYSTEM/ios-programs"
+PROGRAMS_DIR="$CODE_SYSTEM/ios-programs/pages"
 WIDGET_PROGRAM="smilingjenny-widget"
 APP_PROGRAM="smilingjenny-app"
 WIDGET_INFO_PLIST="$PROGRAMS_DIR/$WIDGET_PROGRAM/$WIDGET_PROGRAM.ios-program.info-plist.plist"
