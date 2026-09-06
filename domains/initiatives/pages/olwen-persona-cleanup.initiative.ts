@@ -4,7 +4,7 @@ export const olwenPersonaCleanup = {
   id: "01a06d80-f837-7845-8ef8-bfccd653aab4",
   pageTypeSlug: "initiative",
   slug: "olwen-persona-cleanup",
-  domainSlug: "workspace-package/persona-system",
+  domainSlug: "workspace-package/persona",
   personaSlug: "olwen",
   constraints: [
     "The folder is named `personas/` and the package `@akasha/personas`, while the workspace package page beside the persona page type is slugged `persona`, as `domains/` is.",
