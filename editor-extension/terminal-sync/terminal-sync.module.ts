@@ -25,7 +25,7 @@ export const terminalSync = {
     },
     {
       invariantKind: "departure",
-      statement: "A terminal is given the color its caller worked out rather than finding one.",
+      statement: "A terminal is given the color its caller worked out rather than finding a color.",
     },
     {
       invariantKind: "departure",
