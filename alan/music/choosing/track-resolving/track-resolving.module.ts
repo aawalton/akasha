@@ -46,7 +46,7 @@ export const trackResolving = {
     },
     {
       invariantKind: "departure",
-      statement: "A device carrying an id is taken where Spotify calls none active.",
+      statement: "A device carrying an id is taken where Spotify calls no device active.",
     },
     {
       invariantKind: "departure",
