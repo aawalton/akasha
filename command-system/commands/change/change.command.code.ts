@@ -37,6 +37,12 @@ const CHANGE_COMMAND = "change-command"
 const STILL_KEPT =
   "the edits are kept — mend what refused with more changes before `akasha apply` lands them"
 
+const DROP = "drop"
+
+const DROPPED = "these edits are gone, and no apply lands them"
+
+const NOTHING_KEPT = "no edits are kept beside this agent's page, so nothing went"
+
 export type Wrong = { readonly refusals: readonly string[] }
 
 export type Over = (world: World) => Said
@@ -135,6 +141,18 @@ function saidOf(one: Edit): string {
   return `changes ${one.path}`
 }
 
+// A drop is the only way out of the edits kept, so the paths that went are said rather than counted.
+export function dropping(root: string, page: string): Answer {
+  let went: readonly string[] = []
+  const dropped = keptEdits(root, page, (had) => {
+    went = had.map(saidOf).sort()
+    return null
+  })
+  if ("why" in dropped) return { report: [], refusals: [dropped.why], code: 3 }
+  if (went.length === 0) return { report: [NOTHING_KEPT], refusals: [], code: 0 }
+  return { report: [...went, DROPPED], refusals: [], code: 0 }
+}
+
 export async function appending(
   root: string,
   page: string,
@@ -183,11 +201,18 @@ export async function changing(
   if (slug === undefined) {
     return mistaking([`no change is named, and this runs one of ${optionsSaid()}`])
   }
+  const rest = argv.slice(1)
+  if (slug === DROP) {
+    const said = unknownIn(rest, [], BARE)
+    return said.length > 0 ? mistaking(said) : dropping(root, page)
+  }
   const option = optionFor(slug)
   if (option === null) {
-    return mistaking([`\`${slug}\` is no change this runs, which takes ${optionsSaid()}`])
+    return mistaking([
+      `\`${slug}\` is no change this runs, which takes ${optionsSaid()}`,
+      "`drop` takes away the edits kept, and is the one word here naming no change",
+    ])
   }
-  const rest = argv.slice(1)
   const unknown = unknownIn(rest, option.valued, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const over = option.over(root, rest)

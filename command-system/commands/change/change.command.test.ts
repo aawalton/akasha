@@ -93,7 +93,10 @@ test("a change that refuses appends nothing and says why that change refused", a
 test("a word naming no change is refused with the changes this command runs", async () => {
   const said = await changing(repo(), PAGE, ["remove-file", "--file-path", NAMER_PAGE])
 
-  expect(said.refusals).toEqual(["`remove-file` is no change this runs, which takes `remove-page`"])
+  expect(said.refusals).toEqual([
+    "`remove-file` is no change this runs, which takes `remove-page`",
+    "`drop` takes away the edits kept, and is the one word here naming no change",
+  ])
 })
 
 test("a call naming no change is refused with the changes this command runs", async () => {
@@ -130,6 +133,40 @@ test("a path that is no page keeps no edits", async () => {
   const said = await changing(repo(), "akasha/notes.md", ["remove-page", "--file-path", NAMER_PAGE])
 
   expect(said.refusals).toEqual(["a path that is no page keeps no edits"])
+})
+
+test("a drop takes away every edit kept and names each edit that went", async () => {
+  const root = repo()
+  await changing(root, PAGE, ["remove-page", "--file-path", NAMER_PAGE])
+
+  const said = await changing(root, PAGE, ["drop"])
+
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(said.report).toEqual([
+    ...[`takes ${NAMER_CODE} away`, `takes ${NAMER_PAGE} away`].sort(),
+    "these edits are gone, and no apply lands them",
+  ])
+  expect(pathsIn(root)).toEqual([])
+})
+
+test("a drop over no edit kept says so rather than refusing", async () => {
+  const root = repo()
+
+  const said = await changing(root, PAGE, ["drop"])
+
+  expect(said.refusals).toEqual([])
+  expect(said.code).toBe(0)
+  expect(said.report).toEqual(["no edits are kept beside this agent's page, so nothing went"])
+})
+
+test("a flag given to a drop is refused", async () => {
+  const root = repo()
+
+  const said = await changing(root, PAGE, ["drop", "--file-path", NAMER_PAGE])
+
+  expect(said.code).toBe(2)
+  expect(pathsIn(root)).toEqual([])
 })
 
 test("an edit writing a body becomes a change carrying that body", () => {
