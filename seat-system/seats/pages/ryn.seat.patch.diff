@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/harness/code-editor/code-editor.domain.ts b/alan/harness/code-editor/code-editor.domain.ts
+index b143e1c41b936ae304e59a762733cc3a065f4f46..a9e8b76f068be13061ce215d94e48aa2435bf508 100644
+--- a/alan/harness/code-editor/code-editor.domain.ts
++++ b/alan/harness/code-editor/code-editor.domain.ts
+@@ -212,7 +212,7 @@ export const codeEditor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An intent opens the page of the initiative holding it.",
++      statement: "An intent opens the page of the initiative holding that intent.",
+     },
+     {
+       invariantKind: "gap",
