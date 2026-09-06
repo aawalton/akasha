@@ -13,12 +13,11 @@ export const emailRuleDelay = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule takes the mail when that rule matches, and the delay postpones only the acting.",
+      statement: "The delay postpones the acting rather than the matching.",
     },
     {
       invariantKind: "departure",
-      statement: "A delay is on the rule rather than on one of its actions.",
+      statement: "A delay is on the rule rather than on an action.",
     },
   ],
 } as const satisfies Domain
