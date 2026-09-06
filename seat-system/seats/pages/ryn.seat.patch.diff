@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/domains/initiatives/initiative.page-type.ts b/domains/initiatives/initiative.page-type.ts
+index 6287829db694d25c937894d28b42ffb38eb21dc9..e114c295651d89b32078dfe1a53e6d4c0730151c 100644
+--- a/domains/initiatives/initiative.page-type.ts
++++ b/domains/initiatives/initiative.page-type.ts
+@@ -41,7 +41,7 @@ export const initiative = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An initiative sits under another initiative or under none.",
++      statement: "An initiative sits under another initiative or under no initiative.",
+     },
+     {
+       invariantKind: "departure",
