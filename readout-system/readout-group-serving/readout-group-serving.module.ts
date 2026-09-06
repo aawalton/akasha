@@ -110,6 +110,32 @@ export const readoutGroupServing = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "Whether a reading past either end of its scale draws its figure is read off the group's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That is read once for the group rather than once for each reading in the group.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group stating nothing has no reading of its draw a figure past either end.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group the store withholds is answered as a group stating nothing is answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The answer is carried on each stoplight, a stoplight being what a ring is handed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A group drawing no figure past either end leaves that off rather than saying no.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A stoplight carrying a reading says nothing of how that reading is held.",
     },
     {
