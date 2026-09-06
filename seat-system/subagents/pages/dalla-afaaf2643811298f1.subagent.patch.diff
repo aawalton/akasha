@@ -113,6 +113,19 @@ index 266b849afd483a38ccec1d2ec54a257ab3605dd9..9dd6783a45def6ea0ad80607567842ef
    evidence:
      "The 678 rows of `alan.heard-music.tracks.jsonl` name four sources. Every row sourced `seed-top-tracks` (130), `seed-prior-window` (46) or `observed` (473) names a Spotify track id. Every row sourced `seed-rated` (29) names none, and no row sourced `seed-rated` names one. The split is total either way. All 29 title keys match a rated song page, of the 30 rated song pages the catalog holds. The 649 rows that do name an id were carried across whole, and each of the 649 ids is distinct.",
  } as const satisfies Finding
+diff --git a/domains/findings/pages/streaming-subscriptions-unreviewed.finding.ts b/domains/findings/pages/streaming-subscriptions-unreviewed.finding.ts
+index 6d6803ce4645e952385a165fafd1d5f3520757d2..5a0c7e043aa52b5b688368e2c223dbc81c4b4775 100644
+--- a/domains/findings/pages/streaming-subscriptions-unreviewed.finding.ts
++++ b/domains/findings/pages/streaming-subscriptions-unreviewed.finding.ts
+@@ -6,7 +6,7 @@ export const streamingSubscriptionsUnreviewed = {
+   slug: "streaming-subscriptions-unreviewed",
+   domainSlug: "domain/all-about-alan",
+   claim:
+-    "Four streaming subscriptions — Netflix, Disney+, Crunchyroll and YouTube Premium — all sit at a D grade as convenience purchases in Alan's software audit, and one or two of them are probably redundant against the others. Nothing has compared what each costs against what it delivers, and the whole cluster ranks low for remediation despite being among the easiest things to cancel.",
++    "Four streaming subscriptions — Netflix, Disney+, Crunchyroll and YouTube Premium — all sit at one D grade as convenience purchases in Alan's software audit, and one or two of them are probably redundant against the others. Nothing has compared what each costs against what it delivers, and the whole cluster ranks low for remediation despite being among the easiest things to cancel.",
+   evidence:
+     "My own reading of Abby's backlog at `~/abby-backlog-2026-08-06/`, migrated here as a finding. Carried in `backlog/personal-freedom.md` line 26 as `VENDOR/streaming-audit` (was item 5), citing `notes/software-and-saas.md` for the four D grades and recording the remediation priority as low.\n\nWhat I did not measure: I did not read the software-and-SaaS note, so the four services and their grades are the backlog's account. \"Probably redundant\" is the item's own hedge, not a comparison anyone has run — no overlap analysis exists in what I read. My last clause about ease of cancellation is my own reading and is not in the item.",
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts b/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts
 index ed91a37861d1fa0b4f6f05c4f14d93e95bac7db8..8dabf0b40fd84efc38eaf698a8549c7923d9ace3 100644
 --- a/domains/findings/pages/the-akasha-reminder-carries-no-warrant-and-extends-no-message.finding.ts
