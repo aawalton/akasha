@@ -1,7 +1,7 @@
+import type { ById } from "../address-kinds/by-id/by-id.page-address-kind.code.ts"
+import type { InPageType } from "../address-kinds/in-page-type/in-page-type.page-address-kind.code.ts"
+import type { InPartOf } from "../address-kinds/in-part-of/in-part-of.page-address-kind.code.ts"
 import { lowerUuid } from "../name-formats/pages/lower-uuid/lower-uuid.name-format.code.ts"
-import type { ById } from "../page-address-kinds/by-id/by-id.page-address-kind.code.ts"
-import type { InPageType } from "../page-address-kinds/in-page-type/in-page-type.page-address-kind.code.ts"
-import type { InPartOf } from "../page-address-kinds/in-part-of/in-part-of.page-address-kind.code.ts"
 
 export type PageAddress = ById | InPageType | InPartOf
 
