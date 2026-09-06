@@ -11,7 +11,7 @@ const AKASHA_SLUG = "akasha"
 
 const KEY = "slug"
 
-export function seatAkasha(root: string, path: string): readonly Warrant[] {
+export function agentAkasha(root: string, path: string): readonly Warrant[] {
   if (slugStated(root, path, KEY) === null) return []
   const listed = listedAt(root, DOMAIN_TYPE, AKASHA_SLUG)[0]
   if (listed === undefined) return []

@@ -1,9 +1,9 @@
 import type { ContextWarrant } from "../context-warrant.page-type.ts"
 
-export const seatAkasha = {
+export const agentAkasha = {
   id: "01a07342-4f26-7000-a08d-68ea33c583d6",
   pageTypeSlug: "context-warrant",
-  slug: "seat-akasha",
+  slug: "agent-akasha",
   definition: "what an agent must read for the akasha domain it works within",
   code: "ts",
   test: "ts",

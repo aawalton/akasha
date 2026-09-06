@@ -11,7 +11,7 @@ import {
   seatListed,
   warrantsSeeded,
 } from "../../modules/warranting/warranting.module.test-fixtures.ts"
-import { AKASHA, seatAkasha } from "./seat-akasha.context-warrant.code.ts"
+import { AKASHA, agentAkasha } from "./agent-akasha.context-warrant.code.ts"
 
 const scratch = scratchWorld()
 
@@ -24,53 +24,53 @@ const SUB_AT = "seat-system/subagent/subagents/one-suba.subagent.ts"
 const STATED = `slug: "one"`
 
 test("a seat warrants the akasha domain", () => {
-  const root = scratch.rootFor("akasha-seat-akasha-")
+  const root = scratch.rootFor("akasha-agent-akasha-")
   const held = domainListed(root, "akasha")
   const at = seatListed(root, "one", STATED)
-  expect(pathsOf(seatAkasha(root, at))).toEqual([held.path])
+  expect(pathsOf(agentAkasha(root, at))).toEqual([held.path])
 })
 
 test("a subagent warrants the akasha domain", () => {
-  const root = scratch.rootFor("akasha-seat-akasha-")
+  const root = scratch.rootFor("akasha-agent-akasha-")
   const held = domainListed(root, "akasha")
   writing(root, SUB_AT, `export const oneSuba = { slug: "one-suba" }\n`)
-  expect(pathsOf(seatAkasha(root, SUB_AT))).toEqual([held.path])
+  expect(pathsOf(agentAkasha(root, SUB_AT))).toEqual([held.path])
 })
 
 test("only an agent warrants the akasha domain", () => {
-  const root = scratch.rootFor("akasha-seat-akasha-")
+  const root = scratch.rootFor("akasha-agent-akasha-")
   const held = domainListed(root, "akasha")
-  expect(pathsOf(seatAkasha(root, held.path))).toEqual([])
+  expect(pathsOf(agentAkasha(root, held.path))).toEqual([])
 })
 
 test("an agent whose body cannot be loaded warrants nothing", () => {
-  const root = scratch.rootFor("akasha-seat-akasha-")
+  const root = scratch.rootFor("akasha-agent-akasha-")
   domainListed(root, "akasha")
   const at = "seat-system/seat/seats/one.seat.ts"
   writing(root, at, "this is no module {\n")
-  expect(pathsOf(seatAkasha(root, at))).toEqual([])
+  expect(pathsOf(agentAkasha(root, at))).toEqual([])
 })
 
 test("an akasha domain that is listed nowhere is no warrant", () => {
-  const root = scratch.rootFor("akasha-seat-akasha-")
+  const root = scratch.rootFor("akasha-agent-akasha-")
   domainListed(root, "other")
   const at = seatListed(root, "one", STATED)
-  expect(pathsOf(seatAkasha(root, at))).toEqual([])
+  expect(pathsOf(agentAkasha(root, at))).toEqual([])
 })
 
 test("an akasha domain whose body is gone warrants nothing of itself", () => {
-  const root = scratch.rootFor("akasha-seat-akasha-")
+  const root = scratch.rootFor("akasha-agent-akasha-")
   const held = domainListed(root, "akasha")
   const at = seatListed(root, "one", STATED)
   rmSync(join(root, held.path))
-  expect(pathsOf(seatAkasha(root, at))).toEqual([])
+  expect(pathsOf(agentAkasha(root, at))).toEqual([])
 })
 
 test("a warrant carries the body at the akasha domain, and why it is owed", () => {
-  const root = scratch.rootFor("akasha-seat-akasha-")
+  const root = scratch.rootFor("akasha-agent-akasha-")
   const domain = domainListed(root, "akasha")
   const at = seatListed(root, "one", STATED)
-  const held = seatAkasha(root, at)[0]
+  const held = agentAkasha(root, at)[0]
   expect(held?.path).toBe(domain.path)
   expect(held?.oid).toBe(
     blobIdOf(new TextEncoder().encode(readFileSync(join(root, held?.path ?? ""), "utf8")))
@@ -79,8 +79,8 @@ test("a warrant carries the body at the akasha domain, and why it is owed", () =
 })
 
 test("an akasha domain not read is refused, and the refusal says why it is owed", () => {
-  const root = scratch.rootFor("akasha-seat-akasha-")
-  warrantsSeeded(root, ["seat-akasha"])
+  const root = scratch.rootFor("akasha-agent-akasha-")
+  warrantsSeeded(root, ["agent-akasha"])
   const held = domainListed(root, "akasha")
   const at = seatListed(root, "one", STATED)
   const oid = writing(root, at, `export const one = { ${STATED} }\n`)

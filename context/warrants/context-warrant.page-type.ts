@@ -37,7 +37,7 @@ export const contextWarrant = {
     "context-warrant/persona-page-type",
     "context-warrant/role-itself",
     "context-warrant/role-page-type",
-    "context-warrant/seat-akasha",
+    "context-warrant/agent-akasha",
     "context-warrant/subagent-role",
   ],
   extendsSlug: ["page-type/module"],
