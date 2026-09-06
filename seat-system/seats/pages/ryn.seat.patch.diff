@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/service-system/cluster-services/cluster-service.page-type.ts b/service-system/cluster-services/cluster-service.page-type.ts
+index 1943c69ab2445bb84aef151ada36761b7f925c69..dfcf21696693def4fd7ed972336ffad8e3627b8c 100644
+--- a/service-system/cluster-services/cluster-service.page-type.ts
++++ b/service-system/cluster-services/cluster-service.page-type.ts
+@@ -113,7 +113,7 @@ export const clusterService = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "The resource the cluster calls a Service is not one of these cluster services.",
++      statement: "The resource the cluster calls a Service is no cluster service.",
+     },
+     {
+       invariantKind: "departure",
