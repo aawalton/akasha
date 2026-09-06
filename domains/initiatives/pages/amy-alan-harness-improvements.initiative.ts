@@ -22,5 +22,15 @@ export const amyAlanHarnessImprovements = {
       workingMemory:
         "The figures are the computed properties the total level of each attribute is worked out from, floored rather than rounded to two decimal places.",
     },
+    {
+      statement: "Every persona has a desktop wallpaper.",
+      workingMemory:
+        "Alan takes a persona's desktop wallpaper to belong on the persona as a file property, so the route delivering a desktop wallpaper reads that file property rather than resolving a cover image.",
+    },
+    {
+      statement: "Every persona has a mobile wallpaper.",
+      workingMemory:
+        "Alan takes a persona's mobile wallpaper to belong on the persona as a file property, so the route delivering a mobile wallpaper reads that file property rather than resolving a cover image.",
+    },
   ],
 } as const satisfies Initiative
