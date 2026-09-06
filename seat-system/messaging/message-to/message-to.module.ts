@@ -18,12 +18,12 @@ export const messageTo = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A role stated without a domain names no one seat, the same role being held across every domain.",
+      statement: "A role stated without a domain names no one seat.",
     },
     {
       invariantKind: "departure",
-      statement: "Where several seats state one address, the most recently active is the one.",
+      statement:
+        "The most recently active seat is the seat reached where several seats state one address.",
     },
     {
       invariantKind: "departure",
