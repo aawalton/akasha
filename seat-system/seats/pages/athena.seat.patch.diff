@@ -1,0 +1,112 @@
+diff --git a/editor-extension/status-bar-usage/status-bar-usage.module.code.ts b/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
+index 5816968a67a917db9dabdaee3de5604107b76110..35e3ab95ff5ef8e075fc309e1c7c5b8282830ad6 100644
+--- a/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
++++ b/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
+@@ -1,11 +1,3 @@
+-import { runCommand } from "../harness-call/harness-call.module.code.ts"
+-
+-const CALL_TIMEOUT_MS = 30_000
+-
+-const MAX_BUFFER = 1024 * 1024
+-
+-const COMMAND = "claude-usage"
+-
+ export type Mean = {
+   readonly value: number | null
+   readonly over: number
+@@ -20,40 +12,6 @@ function pctOf(mean: Mean): number | null {
+   return mean.over === 0 ? null : mean.value
+ }
+ 
+-function meanIn(held: Record<string, unknown>, field: string): Mean {
+-  const raw = held[field]
+-  if (raw === null || typeof raw !== "object") {
+-    throw new Error(`${COMMAND}: the answer carries no \`${field}\` mean`)
+-  }
+-  const one = raw as Record<string, unknown>
+-  if (typeof one.over !== "number") {
+-    throw new Error(
+-      `${COMMAND}: \`${field}.over\` is not a number, so nothing says how many accounts were read`
+-    )
+-  }
+-  if (one.value !== null && typeof one.value !== "number") {
+-    throw new Error(`${COMMAND}: \`${field}.value\` is neither a number nor null`)
+-  }
+-  return { value: one.value as number | null, over: one.over }
+-}
+-
+-export async function readUsage(): Promise<UsageReading> {
+-  const stdout = await runCommand(COMMAND, [], {
+-    timeout: CALL_TIMEOUT_MS,
+-    maxBuffer: MAX_BUFFER,
+-  })
+-  let answered: unknown
+-  try {
+-    answered = JSON.parse(stdout)
+-  } catch (err) {
+-    throw new Error(`${COMMAND} did not print JSON: ${String(err)}`)
+-  }
+-  if (answered === null || typeof answered !== "object") {
+-    throw new Error(`${COMMAND}: the answer is not an object, so it names no figure at all`)
+-  }
+-  const held = answered as Record<string, unknown>
+-  return {
+-    sessionPct: pctOf(meanIn(held, "session")),
+-    weeklyPct: pctOf(meanIn(held, "weekly")),
+-  }
++export function readingOf(session: Mean, weekly: Mean): UsageReading {
++  return { sessionPct: pctOf(session), weeklyPct: pctOf(weekly) }
+ }
+diff --git a/editor-extension/status-bar-usage/status-bar-usage.module.ts b/editor-extension/status-bar-usage/status-bar-usage.module.ts
+index dba351e3521cc29e0e56d17c92b3005fd8de0dc6..d8775e418536f6777cb224dc82d22f8b38fc849d 100644
+--- a/editor-extension/status-bar-usage/status-bar-usage.module.ts
++++ b/editor-extension/status-bar-usage/status-bar-usage.module.ts
+@@ -4,41 +4,28 @@ export const statusBarUsage = {
+   id: "01a0655b-ae42-784d-bd36-ba69482649b6",
+   pageTypeSlug: "module",
+   slug: "status-bar-usage",
+-  definition: "the session and weekly figures the fleet's usage command answers with",
++  definition: "the session and weekly figures the status bar draws of the fleet's spend",
+   code: "ts",
+   invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The fleet is asked through a child process rather than read in the editor host.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An account's page body loads under a runtime the editor host does not carry.",
+-    },
+     {
+       invariantKind: "departure",
+       statement: "A mean taken over no account is no figure rather than zero.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A fleet that cannot be read throws rather than answering no figure.",
++      statement: "A mean is handed in rather than read here.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A fleet sitting idle and a checkout that will not answer are told apart by the throw.",
++      statement: "The two means are taken apart from one another.",
+     },
+     {
+-      invariantKind: "departure",
+-      statement: "An answer that is no JSON object names no figure.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A mean missing the count the mean was taken over is refused.",
++      invariantKind: "absence",
++      statement: "Nothing here starts a child process.",
+     },
+     {
+-      invariantKind: "departure",
+-      statement: "A figure that is neither a number nor nothing is refused.",
++      invariantKind: "absence",
++      statement: "Nothing here opens an account's page.",
+     },
+     {
+       invariantKind: "absence",
