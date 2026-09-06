@@ -99,3 +99,79 @@ index 0000000000000000000000000000000000000000..e90f1350969a9a9c49a7326637445075
 +    },
 +  ],
 +} as const satisfies Module
+diff --git a/pages/value/page-value.module.code.ts b/pages/value/page-value.module.code.ts
+index ddb7c7054f2d9c53ccfe09f03302a5b5a6bd9ae5..7d870277217424e1f1ef0d1700ef33372a27fba8 100644
+--- a/pages/value/page-value.module.code.ts
++++ b/pages/value/page-value.module.code.ts
+@@ -1,6 +1,22 @@
+ import { readFileSync, statSync } from "node:fs"
+ import { isAbsolute, join } from "node:path"
+-import { addressIn } from "../address/page-address.module.code.ts"
++import type { Value } from "../value-reading/page-value-reading.module.code.ts"
++
++// WHAT READS A KEY OFF A VALUE IN HAND IS BESIDE THIS, WHERE NO MODULE NODE CARRIES IS IMPORTED.
++//
++// The phone's shell has no node, and the bundler making that shell refuses a build reaching one of
++// node's own modules; loading a body needs `Bun.Transpiler` too, which the phone has no more than
++// it has node. Reading a key off a value in hand needs neither, and a browser reaches only that.
++// Those readers are named again from here so a caller wanting both halves asks once.
++export {
++  numberAt,
++  slugAt,
++  slugOf,
++  slugsIn,
++  textAt,
++  textsAt,
++  type Value,
++} from "../value-reading/page-value-reading.module.code.ts"
+ 
+ function newTranspiler() {
+   return new Bun.Transpiler({ loader: "ts" })
+@@ -24,8 +40,6 @@ const NAMED = /^[A-Za-z_$][\w$]*$/
+ 
+ const DEFAULT = "default"
+ 
+-export type Value = Record<string, unknown>
+-
+ function firstValueIn(declared: Record<string, unknown>): Value | null {
+   for (const one of Object.values(declared)) {
+     if (one !== null && typeof one === "object" && !Array.isArray(one)) return one as Value
+@@ -72,38 +86,3 @@ export function valueAt(path: string, repo: string): Value | null {
+   if (entry === undefined || !entry.isFile()) return null
+   return loadedFrom(readFileSync(at, "utf8")).value
+ }
+-
+-export function slugOf(named: string): string {
+-  const address = addressIn(named)
+-  return address.kind === "id" ? named : address.slug
+-}
+-
+-export function textAt(value: Value, key: string): string | null {
+-  const held = value[key]
+-  return typeof held === "string" ? held : null
+-}
+-
+-export function textsAt(value: Value, key: string): readonly string[] | null {
+-  const held = value[key]
+-  if (!Array.isArray(held)) return null
+-  return held.every((one) => typeof one === "string") ? (held as readonly string[]) : null
+-}
+-
+-export function numberAt(value: Value, key: string): number | null {
+-  const held = value[key]
+-  return typeof held === "number" ? held : null
+-}
+-
+-export function slugAt(value: Value, key: string): string | null {
+-  const named = textAt(value, key)
+-  return named === null ? null : slugOf(named)
+-}
+-
+-export function slugsIn(said: unknown): readonly string[] {
+-  if (!Array.isArray(said)) return []
+-  const named: string[] = []
+-  for (const one of said) {
+-    if (typeof one === "string" && one !== "") named.push(slugOf(one))
+-  }
+-  return named
+-}
