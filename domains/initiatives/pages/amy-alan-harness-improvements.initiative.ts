@@ -21,17 +21,17 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "alanwalton.com loads.",
       workingMemory:
-        "An anonymous request to https://alanwalton.com/ answers 200 with a body of 10613 bytes, so the site serves a reader who has not signed in.",
+        "`/` answers 200 with the app shell, then the app routes to `/home`, which answers 500 and draws `Oops!`. The pod log names the throw: `readHomeNavItemParam` raises because `nav` is no page type the pages system service holds. Akasha carries `pages/navs/nav.page-type.ts` and 29 nav pages, so the pages are here and the service serving the site does not hold them.",
     },
     {
       statement: "Alan can log in to alanwalton.com.",
       workingMemory:
-        "The anonymous request that proved the site loads exercises no login, so nothing here is checked yet.",
+        "Anonymous `/home` answers 302 to `/sign-in?next=%2Fhome`, so the guard sends a signed-out reader to sign in. A signed-in browser reaches `/home` and is answered 500 there, so the login is not what stops the page.",
     },
     {
       statement: "Alan can load a view.",
       workingMemory:
-        "Fifty-five view pages sit under `pages/views/pages/`. Whether a view draws once loaded is unchecked.",
+        "Fifty-five view pages sit under `pages/views/pages/`. A view is drawn inside the app shell, and the shell's own nav read is unheld, so no view is reached until the nav page type is held.",
     },
     {
       statement: "Alan can load the view for task pages.",
