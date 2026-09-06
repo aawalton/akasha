@@ -1,3 +1,33 @@
+diff --git a/changes/workflow-language/secret-place/secret-place.workflow-step.code.ts b/changes/workflow-language/secret-place/secret-place.workflow-step.code.ts
+index 4c93b389da87f135c57b85e4200dd59c1a2485c0..8274088e2dd1dcf18f19ccab6baca071d24dfb29 100644
+--- a/changes/workflow-language/secret-place/secret-place.workflow-step.code.ts
++++ b/changes/workflow-language/secret-place/secret-place.workflow-step.code.ts
+@@ -9,11 +9,15 @@ interface SecretPlaceConfig {
+   namespace: string
+   resource: string
+   type?: string
++  labels?: Readonly<Record<string, string>>
+ }
+ 
+ export function secretPlaceApply(config: SecretPlaceConfig): Step {
+-  const { name, namespace, resource, type } = config
++  const { name, namespace, resource, type, labels } = config
+   const typed = type === undefined ? "" : ` --type ${type}`
++  const labelled = Object.entries(labels ?? {})
++    .map(([key, value]) => ` --label ${key}=${value}`)
++    .join("")
+   return {
+     name,
+     image: IMAGES.CI,
+@@ -23,7 +27,7 @@ export function secretPlaceApply(config: SecretPlaceConfig): Step {
+     },
+     commands: (ci: CIContext) => [
+       "set -e",
+-      `SAID=$(bun "${ci.workspace}/${SAYING}" --root "${ci.workspace}" --resource ${resource} --namespace ${namespace}${typed})`,
++      `SAID=$(bun "${ci.workspace}/${SAYING}" --root "${ci.workspace}" --resource ${resource} --namespace ${namespace}${typed}${labelled})`,
+       `echo "$SAID" | kubectl apply --dry-run=client -n ${namespace} -f -`,
+       `echo "$SAID" | kubectl apply -n ${namespace} -f -`,
+     ],
 diff --git a/service-system/secrets/secret-saying/secret-saying.module.code.ts b/service-system/secrets/secret-saying/secret-saying.module.code.ts
 index 713b517b520929d10f99437d18222ce3806d3c42..057008123102c4439afe4a227bcb7a404a936ee3 100644
 --- a/service-system/secrets/secret-saying/secret-saying.module.code.ts
