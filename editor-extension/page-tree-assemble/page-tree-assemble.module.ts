@@ -59,8 +59,7 @@ export const pageTreeAssemble = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A page type naming two types above that page type is drawn once under each of those types.",
+      statement: "A page type is drawn once under every type above that page type.",
     },
     {
       invariantKind: "departure",
@@ -77,7 +76,7 @@ export const pageTreeAssemble = {
     },
     {
       invariantKind: "departure",
-      statement: "A type already open above the one being drawn is left out.",
+      statement: "A type already open above the type being drawn is left out.",
     },
     {
       invariantKind: "departure",
