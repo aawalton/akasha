@@ -29,6 +29,43 @@ index 7fb091958950ad9786b03474e9f19224cdd75942..89c520df229957668378d7e743cfa845
  function idsIn(said: unknown): readonly string[] | null {
    if (!Array.isArray(said)) return null
    return said.filter((one): one is string => typeof one === "string" && one !== "")
+diff --git a/seat-system/seat-turn/turn-working/turn-working.module.test.ts b/seat-system/seat-turn/turn-working/turn-working.module.test.ts
+index a2657f6b6afa52df04ad3f4467515cefc5a3a5d9..c2dc916f78b3371027323c82f78927dd80da6280 100644
+--- a/seat-system/seat-turn/turn-working/turn-working.module.test.ts
++++ b/seat-system/seat-turn/turn-working/turn-working.module.test.ts
+@@ -10,6 +10,7 @@ import {
+   taskStartedIn,
+   taskStoppedIn,
+   turnEnded,
++  withNothingOpen,
+   workingOf,
+ } from "./turn-working.module.code.ts"
+ 
+@@ -161,3 +162,24 @@ test("a reading kept in a shape this does not know is unread", () => {
+ test("a seat akasha holds nothing for is unread", () => {
+   expect(workingOf("")).toEqual({})
+ })
++
++test("a client spawned afresh runs no task the client before it started", () => {
++  expect(
++    withNothingOpen({ activeTurn: false, scannedTo: 90, openShells: ["b4"], openAgents: ["a0"] })
++  ).toEqual({ activeTurn: false, scannedTo: 90, openShells: [], openAgents: [] })
++})
++
++test("the byte the transcript was read to survives the tasks going", () => {
++  expect(withNothingOpen({ scannedTo: 90, openAgents: ["a0"] }).scannedTo).toBe(90)
++})
++
++test("a reading with nothing open is left as the reading is", () => {
++  const was = { activeTurn: true, scannedTo: 4, openShells: [], openAgents: [] }
++  expect(withNothingOpen(was)).toEqual(was)
++})
++
++test("no task is live once the tasks have gone", () => {
++  const gone = withNothingOpen({ openShells: ["b4"], openAgents: ["a0"] })
++  expect(anyLiveShell(gone)).toBe(false)
++  expect(anyLiveSubagent(gone)).toBe(false)
++})
 diff --git a/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts b/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts
 index 0afbf36f0c5e64eaea300ef7e985736f61304443..d7e38f649b2874f38edd0f624b968e753ea93615 100644
 --- a/seat-system/supervising/supervisor-child-spawn/supervisor-child-spawn.module.code.ts
