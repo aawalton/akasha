@@ -7,5 +7,5 @@ export const writerOwesReading = {
   pageTypeSlug: "boolean-property",
   slug: "writer-owes-reading",
   propertySlug: "writer-owes-reading",
-  definition: "whether warrants run on a change of this kind",
+  definition: "whether the writer of a change of this kind owes the readings its paths warrant",
 } as const satisfies BooleanProperty

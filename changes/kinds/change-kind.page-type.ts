@@ -36,11 +36,11 @@ export const changeKind = {
     {
       invariantKind: "departure",
       statement:
-        "Whether the checks and the warrants run on a change of a kind is read off that kind's page.",
+        "The checks a change runs and the reading its writer owes are read off the change kind's page.",
     },
     {
       invariantKind: "departure",
-      statement: "Whether the checks run and whether the warrants run are two answers.",
+      statement: "Whether the checks run and whether the writer owes reading are two answers.",
     },
   ],
 } as const satisfies PageType
