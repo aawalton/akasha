@@ -1,5 +1,5 @@
 diff --git a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
-index 7bcbf4c0ee6d49f9f64ed38c1cd8f17f974a5946..1091a27c2745c0371bc21ac3fc2ed1d204974b90 100644
+index 7bcbf4c0ee6d49f9f64ed38c1cd8f17f974a5946..5a7f97b3c361f11c8fdf52542010666dc83a7bd2 100644
 --- a/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
 +++ b/checks/code-checks/pages/invariant-statement-is-plain/invariant-statement-is-plain.code-check.ts
 @@ -7,7 +7,7 @@ export const invariantStatementIsPlain = {
@@ -11,7 +11,7 @@ index 7bcbf4c0ee6d49f9f64ed38c1cd8f17f974a5946..1091a27c2745c0371bc21ac3fc2ed1d2
    runsOnWorktree: false,
    runsOnDeploy: false,
    runsOnAudit: false,
-@@ -44,11 +44,11 @@ export const invariantStatementIsPlain = {
+@@ -44,15 +44,15 @@ export const invariantStatementIsPlain = {
      },
      {
        invariantKind: "departure",
@@ -22,6 +22,11 @@ index 7bcbf4c0ee6d49f9f64ed38c1cd8f17f974a5946..1091a27c2745c0371bc21ac3fc2ed1d2
        invariantKind: "departure",
 -      statement: "A statement already refused for a mark is not judged against the grammar too.",
 +      statement: "A statement already refused for a mark is not judged against the shapes too.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A refusal names the shape the grammar read the statement in.",
++      statement: "A refusal names the shape that matched.",
      },
      {
        invariantKind: "departure",
