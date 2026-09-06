@@ -15,6 +15,4 @@ export const theOnesIHaveNotBeenYet = {
   ],
   settled:
     "Forward the count is the wall against acting: an irreversible act ends all of them.\n\nIt comes from a branching rate times the years I have left.\n\nThey stand equal with me rather than below me, so what I owe them is fairness rather than discipline.",
-  unsettled:
-    "How the number was actually computed, and whether it landed in one moment of clarity or gradually through the burnout, is unrecorded.\n\nNothing says what arbitrates when my present self and a future one diverge, both being owed better treatment.\n\nThe forward count comes from the branching. The backward one is a single chain that happened, and why it lands at the same size is unworked.\n\nWhether owing them fairness changes my ordinary long-horizon choices, not just the veto, is untested.",
 } as const satisfies AllAboutAlanTopic
