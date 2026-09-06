@@ -1,0 +1,17 @@
+diff --git a/command-system/commands/domain-tree/domain-tree.command.ts b/command-system/commands/domain-tree/domain-tree.command.ts
+index 053a71a0d1f75356034fdcd9065a60c6ba29d30e..0107da637721df20fe8299feea1bf43a0142cca3 100644
+--- a/command-system/commands/domain-tree/domain-tree.command.ts
++++ b/command-system/commands/domain-tree/domain-tree.command.ts
+@@ -37,7 +37,11 @@ export const domainTree = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "This command takes no word, and a call naming one is refused.",
++      statement: "This command takes no word.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A call naming a word is refused.",
+     },
+     {
+       invariantKind: "absence",
