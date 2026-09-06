@@ -1,6 +1,8 @@
 import { dirname, join } from "node:path"
-import { listedAt, schemaOf } from "@akasha/indexes"
+import { listedAt } from "@akasha/indexes"
 import { besideAt, type Parted, pageNamed, pageOf, partedIn } from "@akasha/pages/page-file-name"
+import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
+import { valueAt } from "@akasha/pages/page-value"
 import {
   blobAt,
   type Knowing,
@@ -20,10 +22,11 @@ function pageBeside(path: string, said: Parted, propertySlug: string): string | 
   return besideAt(held, propertySlug, said.held) === path ? held : null
 }
 
-function propertyOf(root: string, propertySlug: string): Warrant | null {
-  const said = schemaOf(root, propertySlug)
-  if ("refused" in said) return null
-  const listed = listedAt(root, said.schema.pageTypeSlug, propertySlug)[0]
+function propertyOf(root: string, pageType: string, propertySlug: string): Warrant | null {
+  const declared = propertiesIfNamedOf(pageType, root, (at) => valueAt(at, root)) ?? []
+  const under = declared.find((one) => one.propertySlug === propertySlug)
+  if (under === undefined) return null
+  const listed = listedAt(root, under.pageTypeSlug, under.pagePropertySlug)[0]
   if (listed === undefined) return null
   const oid = blobAt(root, listed.path)
   return oid === null ? null : { path: listed.path, oid, owed: PROPERTY }
@@ -40,7 +43,7 @@ export function filePropertyFile(root: string, path: string, knowing: Knowing): 
   const oid = blobAt(root, page)
   if (oid === null) return []
   const found: Warrant[] = [{ path: page, oid: oid, owed: PAGE }]
-  const held = propertyOf(root, only)
+  const held = propertyOf(root, said.pageType, only)
   if (held !== null) found.push(held)
   return found
 }

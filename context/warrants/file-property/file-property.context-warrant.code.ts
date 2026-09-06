@@ -1,9 +1,11 @@
 import { createRequire } from "node:module"
 import { join } from "node:path"
-import { listedAt, schemaOf } from "@akasha/indexes"
+import { listedAt } from "@akasha/indexes"
 import { exportedAs } from "@akasha/pages/page-export-name"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
+import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
+import { valueAt } from "@akasha/pages/page-value"
 import {
   blobAt,
   type Knowing,
@@ -31,11 +33,13 @@ export function fileProperty(root: string, path: string, knowing: Knowing): read
   const said = partedIn(path)
   if (said === null || said.sections.length > 0) return []
   if (!knowing().types.has(said.pageType)) return []
+  const declared = propertiesIfNamedOf(said.pageType, root, (at) => valueAt(at, root)) ?? []
+  const under = new Map(declared.map((one) => [one.propertySlug, one]))
   const found: Warrant[] = []
   for (const slug of statedIn(root, path, said.slug)) {
-    const filed = schemaOf(root, slug)
-    if ("refused" in filed) continue
-    const listed = listedAt(root, filed.schema.pageTypeSlug, slug)[0]
+    const one = under.get(slug)
+    if (one === undefined) continue
+    const listed = listedAt(root, one.pageTypeSlug, one.pagePropertySlug)[0]
     if (listed === undefined || listed.path === path) continue
     const oid = blobAt(root, listed.path)
     if (oid === null) continue
