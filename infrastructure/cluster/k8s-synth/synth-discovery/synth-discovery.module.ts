@@ -22,7 +22,7 @@ export const synthDiscovery = {
     },
     {
       invariantKind: "departure",
-      statement: "Which cluster services those are is read from the index rather than from a glob.",
+      statement: "Which pages are cluster services is read from the index rather than from a glob.",
     },
     {
       invariantKind: "departure",
