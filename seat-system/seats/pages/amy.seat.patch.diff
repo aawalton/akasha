@@ -1,3 +1,25 @@
+diff --git a/code-system/ios-components/pages/alanwalton-attribute-stoplights-widget/alanwalton-attribute-stoplights-widget.ios-component.swift.swift b/code-system/ios-components/pages/alanwalton-attribute-stoplights-widget/alanwalton-attribute-stoplights-widget.ios-component.swift.swift
+index 88011048cbb7c18ea760ba32e1515bf1be2c354b..fef4cd262724c1a2d74787b58293bcaa7267c8ee 100644
+--- a/code-system/ios-components/pages/alanwalton-attribute-stoplights-widget/alanwalton-attribute-stoplights-widget.ios-component.swift.swift
++++ b/code-system/ios-components/pages/alanwalton-attribute-stoplights-widget/alanwalton-attribute-stoplights-widget.ios-component.swift.swift
+@@ -8,6 +8,7 @@ struct AttributeStoplight: Decodable, Hashable {
+     let nextTier: Tier?
+     let progress: Double?
+     let label: String?
++    var figureOffScale: Bool? = nil
+ }
+ 
+ struct AttributeStoplightsResponse: Decodable {
+@@ -89,7 +90,8 @@ struct AttributeHomeView: View {
+                     reading: $0.reading,
+                     nextTier: $0.nextTier,
+                     progress: $0.progress,
+-                    label: $0.label ?? $0.attribute
++                    label: $0.label ?? $0.attribute,
++                    figureOffScale: $0.figureOffScale ?? false
+                 )
+             }
+         }
 diff --git a/code-system/ios-components/pages/alanwalton-inbox-stoplights-widget/alanwalton-inbox-stoplights-widget.ios-component.swift.swift b/code-system/ios-components/pages/alanwalton-inbox-stoplights-widget/alanwalton-inbox-stoplights-widget.ios-component.swift.swift
 index 4eca7df00de963bd9256c70c2a45afffd696e79e..7d7114a95ec3a1d6a90b6c5f8be6347137c6483c 100644
 --- a/code-system/ios-components/pages/alanwalton-inbox-stoplights-widget/alanwalton-inbox-stoplights-widget.ios-component.swift.swift
