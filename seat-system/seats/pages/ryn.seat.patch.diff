@@ -1,0 +1,17 @@
+diff --git a/infrastructure/infrastructure-commands/talos-remote-install/talos-remote-install.command.ts b/infrastructure/infrastructure-commands/talos-remote-install/talos-remote-install.command.ts
+index f4282b87917b448d3730375165aae8452c7c9588..821636eec7884d3807e00a0e3225d693b719b052 100644
+--- a/infrastructure/infrastructure-commands/talos-remote-install/talos-remote-install.command.ts
++++ b/infrastructure/infrastructure-commands/talos-remote-install/talos-remote-install.command.ts
+@@ -40,7 +40,11 @@ export const talosRemoteInstall = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The node is named as a word or after `--node`, and naming both is refused.",
++      statement: "The node is named as a word or after `--node`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Naming the node twice is refused.",
+     },
+     {
+       invariantKind: "departure",
