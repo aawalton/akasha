@@ -12,7 +12,7 @@ export const blockTypecheck = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Every `tsc` call is refused whether that call names a file or none.",
+      statement: "Every `tsc` call is refused whether the call names a file or names no file.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +49,7 @@ export const blockTypecheck = {
     },
     {
       invariantKind: "constraint",
-      statement: "A check reporting success over no file reads exactly like one that passed.",
+      statement: "A check reporting success over no file reads exactly like a check that passed.",
     },
     {
       invariantKind: "absence",
