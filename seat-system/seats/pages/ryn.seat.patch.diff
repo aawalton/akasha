@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-page-values/seat-page-values.module.ts b/seat-system/seat-page-values/seat-page-values.module.ts
-index 01df5fc8f3ec843872dcd0143817cfe1b3153706..ab2679f95421888cfa89cd7a93b421da2440dff7 100644
+index 01df5fc8f3ec843872dcd0143817cfe1b3153706..1fd074c4a16b62104dd3811686b6505bd4946ef7 100644
 --- a/seat-system/seat-page-values/seat-page-values.module.ts
 +++ b/seat-system/seat-page-values/seat-page-values.module.ts
 @@ -9,7 +9,7 @@ export const seatPageValues = {
@@ -8,6 +8,16 @@ index 01df5fc8f3ec843872dcd0143817cfe1b3153706..ab2679f95421888cfa89cd7a93b421da
        invariantKind: "departure",
 -      statement: "A seat's values come from akasha, with no fallback to the older store.",
 +      statement: "A seat's values come from akasha with no fallback to the older store.",
+     },
+     {
+       invariantKind: "departure",
+@@ -17,7 +17,8 @@ export const seatPageValues = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The seat above a subagent is found by splitting its id, not by opening a file.",
++      statement:
++        "The seat above a subagent is found by splitting its id rather than by opening a file.",
      },
      {
        invariantKind: "departure",
