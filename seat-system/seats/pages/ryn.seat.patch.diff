@@ -1,6 +1,5 @@
-readersOweReading: false
 diff --git a/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts b/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts
-index 18e67c6f12b8e6b9664665b7e2fa0610df379eb7..0284cdb12939195275bba632dab6ba8ca490b225 100644
+index 18e67c6f12b8e6b9664665b7e2fa0610df379eb7..5ce1bc3019dd32ac96fc5a2962375a281271cac7 100644
 --- a/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts
 +++ b/alan/fitness/commands/exercise-next-set/exercise-next-set.command.ts
 @@ -59,7 +59,7 @@ export const exerciseNextSet = {
@@ -12,3 +11,16 @@ index 18e67c6f12b8e6b9664665b7e2fa0610df379eb7..0284cdb12939195275bba632dab6ba8c
      },
      {
        invariantKind: "absence",
+@@ -67,7 +67,11 @@ export const exerciseNextSet = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here answers the whole plan; exercise-select is for the whole plan.",
++      statement: "Nothing here answers the whole plan.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The whole plan is answered by exercise-select.",
+     },
+   ],
+ } as const satisfies Command
