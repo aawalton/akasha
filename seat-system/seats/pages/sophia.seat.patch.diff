@@ -111,6 +111,60 @@ index a31d57a8ffba8c8d71b293ee1b3290b7dae73283..0d545e28f338f0b03ef84ecd35032513
  export function reaching(held: number[]): () => undefined {
    return (): undefined => {
      held.push(1)
+diff --git a/command-system/asking/asking.module.test.ts b/command-system/asking/asking.module.test.ts
+index fd14e65fc5310996f2b71941ca5fbc252a0ba4db..844818211773d2feb1f6963baa44cd7a20f4b0cd 100644
+--- a/command-system/asking/asking.module.test.ts
++++ b/command-system/asking/asking.module.test.ts
+@@ -9,11 +9,15 @@ import { write } from "../commands/write/write.command.code.ts"
+ import { baseOf as headOf } from "../landing/landing.module.code.ts"
+ import { landedMechanically, landingAsked, NO_CHECKS, runningOf } from "./asking.module.code.ts"
+ import {
++  AUTHORING,
+   applying,
+   asking,
+   BROKEN,
+   blocked,
+   bodyIn,
++  byAnother,
++  CHECKED,
++  carriedFor,
+   checking,
+   commitIn,
+   drafting,
+@@ -22,6 +26,8 @@ import {
+   holds,
+   LOOSE,
+   mechanically,
++  ONE_AT,
++  overOne,
+   PATCH_AT,
+   PROGRAM,
+   PROPOSED,
+@@ -361,6 +367,24 @@ test("a body that lands is recorded as read, so writing over it again is not ref
+   expect(said.code).toBe(0)
+ })
+ 
++test("a landing whose readers owe no reading carries their readings onto the body it left", async () => {
++  const root = repoWith()
++  const held = asking({ changes: overOne(), saying: () => [] })
++  const said = await landingAsked(byAnother(root, CHECKED), held)
++  expect(said.refusals).toEqual([])
++  expect(said.code).toBe(0)
++  expect(carriedFor(root, ONE_AT)).toBe(true)
++})
++
++test("a landing whose readers owe reading carries none, so every reader goes stale", async () => {
++  const root = repoWith()
++  const held = asking({ changes: overOne(), saying: () => [] })
++  const said = await landingAsked(byAnother(root, AUTHORING), held)
++  expect(said.refusals).toEqual([])
++  expect(said.code).toBe(0)
++  expect(carriedFor(root, ONE_AT)).toBe(false)
++})
++
+ test("a body the formatter changed is recorded as it landed, not as it was handed in", async () => {
+   const root = repoWithTheFormatter()
+   expect((await wrote(root, [], LOOSE)).report).toContain(REFORMATTED)
 diff --git a/command-system/landing-reading/landing-reading.module.code.ts b/command-system/landing-reading/landing-reading.module.code.ts
 index 172cc4038c6b16e39123c6b0b0c8d713e34f2d87..07a7963d75d29c55fe2a9c8dbbceb309a0c82b4b 100644
 --- a/command-system/landing-reading/landing-reading.module.code.ts
