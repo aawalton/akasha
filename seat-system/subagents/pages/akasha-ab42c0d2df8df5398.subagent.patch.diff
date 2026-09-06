@@ -1,0 +1,13 @@
+diff --git a/code-system/ios-apps/app-building/app-building.module.test.ts b/code-system/ios-apps/app-building/app-building.module.test.ts
+index d963d34d22fdf19d1ae83beb14fc3c9e7b2af121..ed9b997221c85211d9b2f627ae94e655165b5f68 100644
+--- a/code-system/ios-apps/app-building/app-building.module.test.ts
++++ b/code-system/ios-apps/app-building/app-building.module.test.ts
+@@ -1,7 +1,7 @@
+ import { afterAll, expect, test } from "bun:test"
+ import { join } from "node:path"
+ import { scratchWorld } from "@akasha/command-system/scratching"
+-import { listedFiled, valueAlsoFiled } from "@akasha/indexes/testing"
++import { listedFiled } from "@akasha/indexes/testing"
+ import { put } from "@akasha/testing-system/putting"
+ import { planFor, SHARED_PATHS } from "./app-building.module.code.ts"
+ 
