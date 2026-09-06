@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/temper/temper-items-rules-core/inventory-rule-to-pages/inventory-rule-to-pages.module.ts b/temper/temper-items-rules-core/inventory-rule-to-pages/inventory-rule-to-pages.module.ts
+index 9149136dd8905e5352b9d231ddc15fe3325e0b00..84f8dfc4970bf607d70b738992a2e658cde7cc38 100644
+--- a/temper/temper-items-rules-core/inventory-rule-to-pages/inventory-rule-to-pages.module.ts
++++ b/temper/temper-items-rules-core/inventory-rule-to-pages/inventory-rule-to-pages.module.ts
+@@ -19,7 +19,7 @@ export const inventoryRuleToPages = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A condition value is written as JSON except where it is text no JSON reader would take.",
++        "A condition value is written as JSON except where the value is text no JSON reader would take.",
+     },
+     {
+       invariantKind: "departure",
