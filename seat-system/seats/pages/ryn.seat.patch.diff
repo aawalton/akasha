@@ -1,5 +1,5 @@
 diff --git a/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts b/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
-index e6f6b75c1468b1873545eb5b3ddc8f46d402a844..28c9a8bf8e16303bb18a9bd521a58d203bc9d417 100644
+index e6f6b75c1468b1873545eb5b3ddc8f46d402a844..b34df546df13a4df9430eea8ea7d3510d0af2a33 100644
 --- a/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
 +++ b/alan/fitness/exercise-access/coaching-context/coaching-context.module.ts
 @@ -15,8 +15,11 @@ export const coachingContext = {
@@ -16,3 +16,12 @@ index e6f6b75c1468b1873545eb5b3ddc8f46d402a844..28c9a8bf8e16303bb18a9bd521a58d20
      },
      {
        invariantKind: "departure",
+@@ -33,7 +36,7 @@ export const coachingContext = {
+     {
+       invariantKind: "gap",
+       statement:
+-        "A piece of kit's kind, its setup and its load are no page properties of that kit yet.",
++        "A piece of kit's kind and its setup and its load are no page properties of that kit yet.",
+     },
+     {
+       invariantKind: "gap",
