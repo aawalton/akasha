@@ -1,5 +1,5 @@
 diff --git a/checks/modules/check-cost/check-cost.module.ts b/checks/modules/check-cost/check-cost.module.ts
-index cf3c6e8ec6848dc1b6c39bda852c287f2f067175..4eed8fe8e734c496a987d5fd76d863b091d2d233 100644
+index cf3c6e8ec6848dc1b6c39bda852c287f2f067175..703147ef0d03ccb1b30c5f787a311c587323f10c 100644
 --- a/checks/modules/check-cost/check-cost.module.ts
 +++ b/checks/modules/check-cost/check-cost.module.ts
 @@ -13,7 +13,7 @@ export const checkCost = {
@@ -22,6 +22,20 @@ index cf3c6e8ec6848dc1b6c39bda852c287f2f067175..4eed8fe8e734c496a987d5fd76d863b0
 +    {
 +      invariantKind: "departure",
 +      statement: "The mark after a run is that run's own peak.",
+     },
+     {
+       invariantKind: "departure",
+@@ -34,8 +37,11 @@ export const checkCost = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A line states whether the mark was forgotten, so a proxy is never read as a measurement.",
++      statement: "A line states whether the mark was forgotten.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A proxy is never read as a measurement.",
      },
      {
        invariantKind: "departure",
