@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/editor-extension/shell-naming/shell-naming.module.ts b/editor-extension/shell-naming/shell-naming.module.ts
+index 2845a0d329dc8095fc7e02b21d5c21eb81f531a4..859bf1b277ae1b1fc7c918c5e430c82c64cef6e5 100644
+--- a/editor-extension/shell-naming/shell-naming.module.ts
++++ b/editor-extension/shell-naming/shell-naming.module.ts
+@@ -10,7 +10,8 @@ export const shellNaming = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A name is read where the kernel holds it rather than asked of a process table.",
++      statement:
++        "A name is read where the kernel holds the name rather than asked of a process table.",
+     },
+     {
+       invariantKind: "departure",
