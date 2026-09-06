@@ -28,7 +28,7 @@ export function typing(
   above: string | null,
   declared: readonly Record<string, unknown>[]
 ): Uint8Array {
-  const said = above === null ? "null" : JSON.stringify(`${PAGE_TYPE}/${above}`)
+  const said = above === null ? "[]" : JSON.stringify([`${PAGE_TYPE}/${above}`])
   filing(root, PAGE_TYPE, slug, id)
   return put(
     root,
