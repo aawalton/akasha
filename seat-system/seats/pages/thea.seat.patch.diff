@@ -154,6 +154,19 @@ index 740480293a6ddd532611f0a33fd9d29fc27aa3d9..918f584f172d38da9beff3184748966c
    pageTypeSlug: "module",
    slug: "retry-transient-ddl",
    definition: "shell lines retrying a data definition statement that failed in passing",
+diff --git a/changes/workflow-language/rollback-image/rollback-image.module.ts b/changes/workflow-language/rollback-image/rollback-image.module.ts
+index e3b7836969c84809734446f0d0056e275f359b25..7f7804ebbacff61e0e56160ab744784063612692 100644
+--- a/changes/workflow-language/rollback-image/rollback-image.module.ts
++++ b/changes/workflow-language/rollback-image/rollback-image.module.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "../../../code-system/modules/module.page-type.ts"
+ 
+ export const rollbackImage = {
+-  id: "01a06f10-7000-700f-b000f-9d4a2f6c000fe1",
++  id: "01a07740-d031-7b0f-a3d3-e0c114b9a9f6",
+   pageTypeSlug: "module",
+   slug: "rollback-image",
+   definition: "the shell line undoing a deployment's last rollout",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
