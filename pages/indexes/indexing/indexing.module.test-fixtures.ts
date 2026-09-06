@@ -4,6 +4,7 @@ import { scratchWorld } from "@akasha/command-system/scratching"
 import { said as git } from "@akasha/git/git-running"
 import { id as idPage } from "@akasha/pages/page/id"
 import { slug as slugPage } from "@akasha/pages/page/slug"
+import { exportedAs } from "@akasha/pages/page-export-name"
 import { declaringUnder } from "@akasha/testing-system/declaring"
 import { indexingAt, rebuiltWhole } from "./indexing.module.code.ts"
 
@@ -18,6 +19,10 @@ export const D = idOf("d")
 
 export function bodyOf(value: Held): string {
   return `export const it = ${JSON.stringify(value, null, 2)} as const\n`
+}
+
+export function pageOf(value: Held): string {
+  return bodyOf(value).replace("export const it", `export const ${exportedAs(String(value.slug))}`)
 }
 
 export type Pair = { readonly tree: string; readonly root: string }
@@ -264,8 +269,8 @@ const modulePage = (slug: string, id: string): Held => ({
 
 const REPO: Readonly<Record<string, string>> = {
   ...Object.fromEntries(REPO_VOCABULARY.map(([at, value]) => [`${TREE}/${at}`, bodyOf(value)])),
-  [HELD_PAGE]: bodyOf(modulePage("held", idOf("8"))),
-  [NAMER_PAGE]: bodyOf({
+  [HELD_PAGE]: pageOf(modulePage("held", idOf("8"))),
+  [NAMER_PAGE]: pageOf({
     ...modulePage("namer", idOf("9")),
     note: HELD_SLUG,
     partSlugs: [`module/${HELD_SLUG}`],

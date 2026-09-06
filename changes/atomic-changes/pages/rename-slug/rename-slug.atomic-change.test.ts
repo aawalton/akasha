@@ -57,6 +57,13 @@ test("a body stating no id is refused", () => {
   expect(whyOf(PAGE, KEPT, holding(body))).toBe(`\`${PAGE}\` states no \`id\``)
 })
 
+test("a body exporting no name its slug makes is refused", () => {
+  const body = WHOLE.replace("export const held", "export const it")
+  expect(whyOf(PAGE, KEPT, holding(body))).toBe(
+    `\`${PAGE}\` exports no \`${HELD_SLUG}\`, the name its slug makes`
+  )
+})
+
 test("a name that is no slug is refused", () => {
   expect(whyOf(PAGE, "Kept", holding(WHOLE))).toBe(
     "`Kept` is no slug, a slug being lower kebab case"
@@ -103,6 +110,14 @@ test("the page's own slug and every name of it are restated", () => {
   expect(said.bodies?.get(NAMER_PAGE)).toContain(`"note": "${KEPT}"`)
   expect(said.bodies?.get(NAMER_PAGE)).toContain(`"module/${KEPT}"`)
   expect(said.bodies?.get(NAMER_PAGE)).not.toContain(HELD_SLUG)
+})
+
+test("the page's exported const is renamed with its slug", () => {
+  const root = indexedRepo()
+  const said = renameSlug(root, { at: HELD_PAGE, to: KEPT }, textIn(root))
+  expect(said.refused).toBe(null)
+  expect(said.bodies?.get(HELD_PAGE)).toContain(`export const ${KEPT} =`)
+  expect(said.bodies?.get(HELD_PAGE)).not.toContain(`export const ${HELD_SLUG} =`)
 })
 
 test("the bodies are answered rather than written", () => {

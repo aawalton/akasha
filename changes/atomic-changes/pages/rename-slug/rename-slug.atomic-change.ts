@@ -43,12 +43,33 @@ export const renameSlug = {
     },
 
     {
-      invariantKind: "absence",
-      statement: "No file moves and no export is renamed, those being the path and export renames.",
+      invariantKind: "departure",
+      statement: "The exported const follows the slug, a page being one object named for its slug.",
     },
     {
       invariantKind: "departure",
-      statement: "A refactor change runs those two beside this one to rename a page whole.",
+      statement: "A page whose body exports no name its slug makes is refused as malformed.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Which bodies import the page is asked of the index rather than walked for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The export is respelled over the bodies the slug rename already answered.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal from the respelling is answered as this change's own refusal.",
+    },
+
+    {
+      invariantKind: "absence",
+      statement: "No file moves, that being the path rename.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refactor change runs the path rename beside this one to rename a page whole.",
     },
     {
       invariantKind: "gap",

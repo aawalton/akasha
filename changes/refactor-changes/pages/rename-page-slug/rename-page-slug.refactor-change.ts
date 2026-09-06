@@ -10,7 +10,11 @@ export const renamePageSlug = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The slug rename, the export rename and the path renames run in that order.",
+      statement: "The slug rename and the path renames run in that order.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The exported const is the slug rename's own rather than a step of this one.",
     },
     {
       invariantKind: "departure",
@@ -51,15 +55,6 @@ export const renamePageSlug = {
     {
       invariantKind: "departure",
       statement: "The bodies and the paths that moved are answered rather than written.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A page exporting no name its slug makes carries no export for this to rename.",
-    },
-    {
-      invariantKind: "gap",
-      statement:
-        "A page exporting the name its slug makes is refused, the export rename barring a page.",
     },
   ],
 } as const satisfies RefactorChange

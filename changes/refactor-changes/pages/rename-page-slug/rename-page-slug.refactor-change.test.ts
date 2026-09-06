@@ -8,6 +8,7 @@ import {
   indexedRepo,
   NAMER_CODE,
   NAMER_PAGE,
+  pageOf,
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
@@ -24,6 +25,8 @@ const CARRIED_CODE = "akasha/one/carried.module.code.ts"
 const OTHER_PAGE = "akasha/three/other-one.module.ts"
 
 const OTHER_SLUG = "other-one"
+
+const OTHER_CARRIED = "akasha/three/carried.module.ts"
 
 const WIDE_PAGE = "akasha/four/wide.module.ts"
 
@@ -87,17 +90,17 @@ test("a refusal from the slug rename is answered as this change's own", () => {
   expect(said.refused).toBe("a `module` carries the slug `namer` already")
 })
 
-test("a refusal from the export rename is answered as this change's own", () => {
+test("a page whose slug is more than one word has its camel export renamed too", () => {
   const value = { id: idOf("f"), pageTypeSlug: "module", slug: OTHER_SLUG, code: "ts" }
   const root = indexedRepo({
     [OTHER_PAGE]: statedAs(value, "otherOne"),
     "akasha/three/other-one.module.code.ts": "export const kept = 2\n",
   })
   const said = renamePageSlug(root, { at: OTHER_PAGE, to: CARRIED }, textIn(root))
-  expect(said.bodies).toBe(null)
-  expect(said.refused).toBe(
-    "`akasha/three/other-one.module.ts` is a page, and a page's export is its slug"
-  )
+  expect(said.refused).toBe(null)
+  const bodies = said.bodies ?? new Map<string, string>()
+  expect(bodies.get(OTHER_CARRIED)).toContain(`export const ${CARRIED} =`)
+  expect(bodies.get(OTHER_CARRIED)).not.toContain("export const otherOne")
 })
 
 test("a page's slug is renamed in its data, and its files are carried with it", () => {
@@ -115,7 +118,9 @@ test("a page's slug is renamed in its data, and its files are carried with it", 
   ])
   const bodies = said.bodies ?? new Map<string, string>()
   expect(bodies.get(CARRIED_PAGE)).toBe(
-    page.replace(`"slug": "${HELD_SLUG}"`, `"slug": "${CARRIED}"`)
+    page
+      .replace(`"slug": "${HELD_SLUG}"`, `"slug": "${CARRIED}"`)
+      .replace(`export const ${HELD_SLUG} =`, `export const ${CARRIED} =`)
   )
   expect(bodies.get(NAMER_PAGE)).toBe(
     namer
@@ -138,7 +143,7 @@ test("a beside file whose key is more than one word is carried too", () => {
       slug: "test-fixtures",
       propertySlug: "test-fixtures",
     }),
-    [WIDE_PAGE]: bodyOf({
+    [WIDE_PAGE]: pageOf({
       id: idOf("f"),
       pageTypeSlug: "module",
       slug: "wide",

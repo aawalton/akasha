@@ -1,11 +1,8 @@
 import { dirname, join } from "node:path"
-import { literalOf, parsedAs } from "@akasha/code-system/code-source"
+import { parsedAs } from "@akasha/code-system/code-source"
 import { schemaOf } from "@akasha/indexes"
-import { exportedAs } from "@akasha/pages/page-export-name"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
-import ts from "typescript"
-import { renameExport } from "../../../atomic-changes/pages/rename-export/rename-export.atomic-change.code.ts"
 import { renamePath } from "../../../atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts"
 import {
   renameSlug,
@@ -36,7 +33,6 @@ export type Renamed = {
 type Held = {
   readonly slug: string
   readonly pageTypeSlug: string
-  readonly exported: string | null
   readonly said: ReadonlyMap<string, string>
 }
 
@@ -55,19 +51,6 @@ function readingOver(
   return (path) => held.get(path) ?? textOf(path)
 }
 
-function exportedIn(source: ts.SourceFile): string | null {
-  for (const statement of source.statements) {
-    if (!ts.isVariableStatement(statement)) continue
-    const said = statement.modifiers?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword)
-    if (said !== true) continue
-    for (const one of statement.declarationList.declarations) {
-      if (one.initializer === undefined || literalOf(one.initializer) === null) continue
-      if (ts.isIdentifier(one.name)) return one.name.text
-    }
-  }
-  return null
-}
-
 function readIn(at: string, text: string): Read {
   const source = parsedAs(at, text)
   const said = statedIn(source)
@@ -79,7 +62,6 @@ function readIn(at: string, text: string): Read {
     held: {
       slug: slug.text,
       pageTypeSlug: pageTypeSlug.text,
-      exported: exportedIn(source),
       said: new Map([...said].map(([key, one]) => [key, one.text])),
     },
   }
@@ -120,12 +102,6 @@ export function renamePageSlug(
   const said = renameSlug(root, { at: given.at, to: given.to }, over)
   if (said.bodies === null) return refusing(said.refused ?? `\`${held.slug}\` was not renamed`)
   for (const [path, body] of said.bodies) bodies.set(path, body)
-  const was = exportedAs(held.slug)
-  if (held.exported === was) {
-    const spelled = renameExport(root, { at: given.at, of: was, to: exportedAs(given.to) }, over)
-    if (spelled.bodies === null) return refusing(spelled.refused ?? `\`${was}\` was not renamed`)
-    for (const [path, body] of spelled.bodies) bodies.set(path, body)
-  }
   const lands = join(dirname(given.at), `${given.to}.${held.pageTypeSlug}${TYPED}`)
   let beside: readonly Move[]
   try {

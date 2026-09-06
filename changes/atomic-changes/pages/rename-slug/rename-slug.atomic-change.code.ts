@@ -1,7 +1,10 @@
 import { literalOf, parsedAs } from "@akasha/code-system/code-source"
+import { respelled } from "@akasha/code-system/export-respelling"
 import { type Named, namersOf, slugsOfType } from "@akasha/indexes"
+import { exportedAs } from "@akasha/pages/page-export-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import ts from "typescript"
+import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 
 const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
 
@@ -73,6 +76,17 @@ export function statedIn(source: ts.SourceFile): ReadonlyMap<string, ts.StringLi
     }
   }
   return new Map()
+}
+
+function boundIn(source: ts.SourceFile): string | null {
+  for (const statement of source.statements) {
+    if (!ts.isVariableStatement(statement) || !exported(statement)) continue
+    for (const one of statement.declarationList.declarations) {
+      if (one.initializer === undefined || literalOf(one.initializer) === null) continue
+      if (ts.isIdentifier(one.name)) return one.name.text
+    }
+  }
+  return null
 }
 
 function readdressed(said: string, one: Renaming): string | null {
@@ -159,6 +173,10 @@ export function renameSlug(
   if (slug === undefined) return refusing(`\`${given.at}\` states no \`${SLUG}\``)
   if (pageType === undefined) return refusing(`\`${given.at}\` states no \`${PAGE_TYPE_SLUG}\``)
   if (id === undefined) return refusing(`\`${given.at}\` states no \`${ID}\``)
+  const bound = exportedAs(slug.text)
+  if (boundIn(source) !== bound) {
+    return refusing(`\`${given.at}\` exports no \`${bound}\`, the name its slug makes`)
+  }
   if (!KEBAB.test(given.to)) {
     return refusing(`\`${given.to}\` is no slug, a slug being lower kebab case`)
   }
@@ -193,5 +211,13 @@ export function renameSlug(
     const next = splicedIn(body, held)
     if (next !== body) bodies.set(path, next)
   }
+  const reading = importingOf(root, new Map([[given.at, given.at]]))
+  if ("unread" in reading) return refusing(reading.unread)
+  const over = [given.at, ...reading.importers]
+  const spelled = respelled(root, given.at, over, bound, exportedAs(given.to), (path) => {
+    return bodies.get(path) ?? textOf(path)
+  })
+  if (spelled.bodies === null) return refusing(spelled.refused ?? `\`${bound}\` was not respelled`)
+  for (const [path, body] of spelled.bodies) bodies.set(path, body)
   return { bodies, refused: null }
 }
