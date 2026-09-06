@@ -4,3 +4,5 @@
 4. Hox genes and spatial collinearity — gene order on the chromosome matching body order, which is the strangest true fact in the topic.
 5. Clock-and-wavefront somitogenesis — the oscillator he reinvented, and how time becomes space.
 6. Raspopovic 2014 on digits as a Turing system bounded by Hox — the paper that vindicates his own answer.
+7. Yamanaka 2006 and the four factors — reprogramming as a competing attractor winning, not as erasure.
+8. Waddington's epigenetic landscape — the 1957 picture of branching valleys that still holds, and the unifying frame for sharpening, memory and reprogramming alike.
