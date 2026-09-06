@@ -1,0 +1,110 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/command-system/argument-reading/argument-reading.module.code.ts b/command-system/argument-reading/argument-reading.module.code.ts
+index 4f7881c9d57a547f08ef570c6ce78bff777b99e6..90d4ac3525ee157c82a088cd5c07a3f17b6f1ebf 100644
+--- a/command-system/argument-reading/argument-reading.module.code.ts
++++ b/command-system/argument-reading/argument-reading.module.code.ts
+@@ -1,6 +1,8 @@
+ const SCALAR = /^([a-z][a-z0-9-]*): ?(.*)$/
+ 
+-const OPENS = /^([a-z][a-z0-9-]*) (\S+)$/
++// A body reads as whole lines, so a caller naming a passage that ends mid-line says so on the
++// opening line, the closing fence being a line of its own either way.
++const OPENS = /^([a-z][a-z0-9-]*) (\S+)( no-newline)?$/
+ 
+ export type Given = Readonly<Record<string, string>>
+ 
+@@ -38,6 +40,7 @@ export function readingIn(text: string): Read {
+     if (opened === null) return { refused: neither(at, line) }
+     const key = opened[1] as string
+     const fence = opened[2] as string
++    const lined = opened[3] === undefined
+     if (key in given) return { refused: twice(key) }
+     const held: string[] = []
+     let closed = false
+@@ -51,7 +54,8 @@ export function readingIn(text: string): Read {
+       held.push(`${one ?? ""}\n`)
+     }
+     if (!closed) return { refused: unclosed(key, fence) }
+-    given[key] = held.join("")
++    const body = held.join("")
++    given[key] = lined ? body : body.slice(0, -1)
+   }
+   return { given }
+ }
+diff --git a/command-system/argument-reading/argument-reading.module.test.ts b/command-system/argument-reading/argument-reading.module.test.ts
+index 18f74ae2fc002a1524fc4d23a95d7b0068e27d80..ced8d47594e6f5353533d6a7dca0a60b55206ae8 100644
+--- a/command-system/argument-reading/argument-reading.module.test.ts
++++ b/command-system/argument-reading/argument-reading.module.test.ts
+@@ -70,3 +70,28 @@ test("a line of neither form refuses the whole reading", () => {
+ test("a body running past its fence refuses at the first line that is neither form", () => {
+   expect(refusal("body ~~~\na\n~~~\nb c d e")).toContain("line 4 is neither")
+ })
++
++test("a body opened with no-newline drops the newline off its last line", () => {
++  expect(given("body ~~~ no-newline\na\nb\n~~~")).toEqual({ body: "a\nb" })
++})
++
++test("a body opened without no-newline keeps the newline on its last line", () => {
++  expect(given("body ~~~\na\nb\n~~~")).toEqual({ body: "a\nb\n" })
++})
++
++test("a body of one line opened with no-newline is that line alone", () => {
++  expect(given("body ~~~ no-newline\nheld\n~~~")).toEqual({ body: "held" })
++})
++
++test("a body holding no line at all is empty with no-newline as without", () => {
++  expect(given("body ~~~ no-newline\n~~~")).toEqual({ body: "" })
++  expect(given("body ~~~\n~~~")).toEqual({ body: "" })
++})
++
++test("a fence spelled no-newline is a fence rather than the marker", () => {
++  expect(given("body no-newline\na\nno-newline")).toEqual({ body: "a\n" })
++})
++
++test("a word after the fence that is not no-newline refuses the whole reading", () => {
++  expect(refusal("body ~~~ held\na\n~~~")).toContain("line 1 is neither")
++})
+diff --git a/command-system/argument-reading/argument-reading.module.ts b/command-system/argument-reading/argument-reading.module.ts
+index 7f88bc4a202587dd5b266c48180502d0c2e87b7b..8b32f1f032dd7f4f7ddffb07209e9306794c120d 100644
+--- a/command-system/argument-reading/argument-reading.module.ts
++++ b/command-system/argument-reading/argument-reading.module.ts
+@@ -32,6 +32,15 @@ export const argumentReading = {
+       invariantKind: "departure",
+       statement: "A line in a body keeps its newline.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A body whose opening line closes with `no-newline` drops the newline off its last line.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A passage ending mid-line is said that way and no other way.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "Nothing in a body is escaped.",
+diff --git a/command-system/commands/change/change.command.ts b/command-system/commands/change/change.command.ts
+index 39263fc30959623f10eaee2966d6537bf0e59b94..0e3854a450968245385a1948559649b333188784 100644
+--- a/command-system/commands/change/change.command.ts
++++ b/command-system/commands/change/change.command.ts
+@@ -18,6 +18,7 @@ export const change = {
+   helpNotes: [
+     "the change is the first word, and the arguments that change takes are piped in.",
+     "an argument is a line `key: value`, or `key <fence>` opening a body that `<fence>` alone closes.",
++    "`key <fence> no-newline` opens a body whose last line keeps no newline, for a passage ending mid-line.",
+     "the fence is yours to pick, so a body carrying one run of characters is opened with another.",
+     "nothing on the command line carries a value, so no shell reads a quote or a backslash.",
+     "`at` names a path, read against the repository root.",
+@@ -57,6 +58,10 @@ export const change = {
+       invariantKind: "departure",
+       statement: "The arguments a change takes are read from standard input.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A body opened with `no-newline` names a passage ending mid-line.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A call piping nothing in is refused rather than run with no argument.",
