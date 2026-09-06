@@ -1,32 +1,3 @@
-diff --git a/alan/books/all-about-alan/questions/properties/open-question.text-property.ts b/alan/books/all-about-alan/questions/properties/open-question.text-property.ts
-new file mode 100644
-index 0000000000000000000000000000000000000000..3d057c33b88421960ee42b18244506517a4be85a
---- /dev/null
-+++ b/alan/books/all-about-alan/questions/properties/open-question.text-property.ts
-@@ -0,0 +1,23 @@
-+import type { TextProperty } from "@akasha/pages/text-property"
-+
-+export type OpenQuestion = string
-+
-+export const openQuestion = {
-+  id: "01a077d9-0c68-748f-be7a-8fe9289da384",
-+  pageTypeSlug: "text-property",
-+  slug: "open-question",
-+  propertySlug: "ask",
-+  definition: "what is still open about a topic, put as one question",
-+  max: 200,
-+  nameFormatSlug: null,
-+  invariants: [
-+    {
-+      invariantKind: "departure",
-+      statement: "An ask is written as a question rather than as a note of what is missing.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "An ask carries no paragraph break.",
-+    },
-+  ],
-+} as const satisfies TextProperty
 diff --git a/alan/books/all-about-alan/questions/properties/question-topic-slug.relation-property.ts b/alan/books/all-about-alan/questions/properties/question-topic-slug.relation-property.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..9d5e7871851d6023c1579ea6ef05b4afe65e0171
