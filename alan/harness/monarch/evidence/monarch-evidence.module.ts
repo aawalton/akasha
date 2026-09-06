@@ -9,13 +9,16 @@ export const monarchEvidence = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Everything here reads and nothing writes, so a seat may be given this module and nothing else.",
+      statement: "Everything here reads and nothing writes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A seat may be given this module and nothing else.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A transaction is looked up alone, by merchant, by account over a span, or by the rows around.",
+        "A transaction is looked up alone or by merchant or by account over a span or by the rows around.",
     },
     {
       invariantKind: "departure",
@@ -28,8 +31,11 @@ export const monarchEvidence = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "How many rows matched is said alongside the rows shown, so a cut list says that list was cut.",
+      statement: "How many rows matched is said alongside the rows shown.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A cut list says that list was cut.",
     },
     {
       invariantKind: "departure",
