@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
-index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..a29c95b7d60a9b446e913b9eaf7f626bf282722f 100644
+index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..48a0a87f12b2dac3483d6f5f1275fc7579bf551f 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/tree-drawing/tree-drawing.module.ts
 @@ -9,7 +9,8 @@ export const treeDrawing = {
@@ -10,6 +10,15 @@ index d9b9dfe7ea4fe520934347a63de162aa9c0e84cb..a29c95b7d60a9b446e913b9eaf7f626b
 -      statement: "A tree is built by the builder that already built it rather than by new code.",
 +      statement:
 +        "A tree is built by the builder that already built the tree rather than by new code.",
+     },
+     {
+       invariantKind: "departure",
+@@ -17,7 +18,7 @@ export const treeDrawing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A row names a document by a whole path rather than one the editor must join.",
++      statement: "A row names a document by a whole path rather than a path the editor must join.",
      },
      {
        invariantKind: "departure",
