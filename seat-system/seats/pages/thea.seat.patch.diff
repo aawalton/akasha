@@ -1,5 +1,3 @@
-writerOwesReading: false
-readersOweReading: false
 diff --git a/agents/claude-accounts/claude-account.page-type.ts b/agents/claude-accounts/claude-account.page-type.ts
 index 3a361bda56e27a8b383d73edc8827e017340e673..a846fc3b5d76e25747c3bc2459024b6f7e4b881a 100644
 --- a/agents/claude-accounts/claude-account.page-type.ts
@@ -4281,6 +4279,32 @@ index c8da18b8448f7545db7e06aca19d197ac2cd5ddc..501d3b6ec9fdc38d858a94877c714174
    ],
    invariants: [
      {
+diff --git a/pages/text-properties/text-property.page-type.ts b/pages/text-properties/text-property.page-type.ts
+index 3e74a7396aace37d5919a95771006b6814f6f077..983045625ae736a01f52bfae170bd158cc28f0e8 100644
+--- a/pages/text-properties/text-property.page-type.ts
++++ b/pages/text-properties/text-property.page-type.ts
+@@ -1,10 +1,10 @@
+ import type { PageProperty } from "../types/page-properties/page-property.page-type.ts"
+-import type { Max } from "../types/page-properties/properties/max.number-property.ts"
++import type { MaxLength } from "../types/page-properties/properties/max-length.number-property.ts"
+ import type { PageType } from "../types/page-type.page-type.ts"
+ import type { NameFormatSlug } from "./properties/name-format-slug.relation-property.ts"
+ 
+ export type TextProperty = PageProperty & {
+-  max: Max
++  maxLength: MaxLength
+   nameFormatSlug: NameFormatSlug | null
+ }
+ 
+@@ -17,7 +17,7 @@ export const textProperty = {
+   partSlugs: ["relation-property/name-format-slug"],
+   extendsSlug: ["page-type/page-property"],
+   properties: [
+-    { pagePropertySlug: "number-property/max", required: true, many: false },
++    { pagePropertySlug: "number-property/max-length", required: true, many: false },
+     { pagePropertySlug: "relation-property/name-format-slug", required: true, many: false },
+   ],
+ } as const satisfies PageType
 diff --git a/pages/types/page-properties/properties/property-slug.text-property.ts b/pages/types/page-properties/properties/property-slug.text-property.ts
 index b0472265b556de9c09af366196fb67c547bacfac..f13d58b6a2fd396d23028bb2fe943f991b459e11 100644
 --- a/pages/types/page-properties/properties/property-slug.text-property.ts
