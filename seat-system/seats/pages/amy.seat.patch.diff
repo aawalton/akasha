@@ -1,0 +1,13 @@
+diff --git a/alan/tracking/daily/wake-days/properties/wisdom-words.number-property.ts b/alan/tracking/daily/wake-days/properties/wisdom-words.number-property.ts
+index 51c54826868f65eb53336162e339d825ec1ced06..aa091856523cc35573edf49a078ae9be78308596 100644
+--- a/alan/tracking/daily/wake-days/properties/wisdom-words.number-property.ts
++++ b/alan/tracking/daily/wake-days/properties/wisdom-words.number-property.ts
+@@ -17,7 +17,7 @@ export const wisdomWords = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "No day before 2026-09-03 carries this reading.",
++      statement: "No day before 2026-09-06 carries this reading.",
+     },
+   ],
+ } as const satisfies NumberProperty
