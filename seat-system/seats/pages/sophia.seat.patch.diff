@@ -181,28 +181,33 @@ index 344a2844d82f80f9081603b138fd8464719c0fa2..00000000000000000000000000000000
 -} as const satisfies ContextWarrant
 diff --git a/context/warrants/seat-persona/seat-persona.context-warrant.code.ts b/context/warrants/seat-persona/seat-persona.context-warrant.code.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..c807253a4dc07272a154cf2a3bbc57817e910157
+index 0000000000000000000000000000000000000000..4e8d0578d19fc9bf6236fa09dde4ce66f20d23ef
 --- /dev/null
 +++ b/context/warrants/seat-persona/seat-persona.context-warrant.code.ts
-@@ -0,0 +1,19 @@
+@@ -0,0 +1,24 @@
 +import { listedAt } from "@akasha/indexes"
++import { partedIn } from "@akasha/pages/page-file-name"
 +import { slugStated } from "../../modules/agent-stated/agent-stated.module.code.ts"
-+import type { Knowing, Warrant } from "../../modules/warranting/warranting.module.code.ts"
-+import { filePageType } from "../file-page-type/file-page-type.context-warrant.code.ts"
++import { blobAt, type Warrant } from "../../modules/warranting/warranting.module.code.ts"
 +
 +export const PERSONA_TYPE =
-+  "A seat works as the persona it states, and what every persona is held to is read before the seat is changed."
++  "A seat works as a persona, and what every persona is held to is read before the seat is changed."
++
++const PAGE_TYPE = "page-type"
 +
 +const PERSONA = "persona"
 +
-+const KEY = "personaSlug"
++const SEAT = "seat"
 +
-+export function seatPersona(root: string, path: string, knowing: Knowing): readonly Warrant[] {
-+  const slug = slugStated(root, path, KEY)
-+  if (slug === null) return []
-+  const listed = listedAt(root, PERSONA, slug)[0]
++const KEY = "slug"
++
++export function seatPersona(root: string, path: string): readonly Warrant[] {
++  if (partedIn(path)?.pageType !== SEAT) return []
++  if (slugStated(root, path, KEY) === null) return []
++  const listed = listedAt(root, PAGE_TYPE, PERSONA)[0]
 +  if (listed === undefined) return []
-+  return filePageType(root, listed.path, knowing).map((one) => ({ ...one, owed: PERSONA_TYPE }))
++  const oid = blobAt(root, listed.path)
++  return oid === null ? [] : [{ path: listed.path, oid, owed: PERSONA_TYPE }]
 +}
 diff --git a/context/warrants/seat-persona/seat-persona.context-warrant.test.ts b/context/warrants/seat-persona/seat-persona.context-warrant.test.ts
 new file mode 100644
