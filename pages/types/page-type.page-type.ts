@@ -38,6 +38,7 @@ export const pageType = {
   partSlugs: [
     "module/page-type-descent",
     "module/page-type-folder",
+    "module/page-type-gathering",
     "module/declared-properties",
     "boolean-property/allows-tmp-paths",
     "boolean-property/frame-edge-to-edge",

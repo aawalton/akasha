@@ -4,6 +4,11 @@ import { besideAt, secretAt, uncommittedAt } from "@akasha/pages/page-file-name"
 import { partsOf, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
 import { slugFor } from "@akasha/pages/page-property-key"
 import { slugAt, slugOf, slugsIn, textAt, type Value } from "@akasha/pages/page-value"
+import {
+  typeSlugsIn,
+  typesAmong,
+  typeValuesIn,
+} from "../../types/gathering/page-type-gathering.module.code.ts"
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { answered, readingIn, valuesOfType } from "../reading/index-reading.module.code.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
@@ -139,11 +144,15 @@ function declaredIn(value: Value): Sidecars {
   return { secret, uncommitted, besides: found }
 }
 
-export function sidecarsIn(values: Iterable<Value>): SidecarsBy {
+export function sidecarsIn(
+  values: Iterable<Value>,
+  among: ReadonlySet<string> = new Set([PAGE_TYPE])
+): SidecarsBy {
   const own = new Map<string, Sidecars>()
   const above = new Map<string, readonly string[]>()
   for (const value of values) {
-    if (textAt(value, "pageTypeSlug") !== PAGE_TYPE) continue
+    const said = textAt(value, "pageTypeSlug")
+    if (said === null || !among.has(said)) continue
     const slug = textAt(value, "slug")
     if (slug === null) continue
     own.set(slug, declaredIn(value))
@@ -175,8 +184,8 @@ export function sidecarsIn(values: Iterable<Value>): SidecarsBy {
 }
 
 export function sidecarsOver(given: string | Reading, left: Iterable<Value>): SidecarsBy {
-  const filed = valuesOfType(given, PAGE_TYPE).map((one) => one.value)
-  return sidecarsIn([...filed, ...left])
+  const among = typeSlugsIn(given)
+  return sidecarsIn([...typeValuesIn(given, among), ...left], among)
 }
 
 function besidesOf(own: string, slug: string, beside: Beside, there: IsThere): readonly string[] {
@@ -290,16 +299,6 @@ function propertiesAmong(values: Iterable<Value>): ReadonlyMap<string, Held> {
   return found
 }
 
-function typesAmong(values: Iterable<Value>): ReadonlyMap<string, Value> {
-  const found = new Map<string, Value>()
-  for (const value of values) {
-    if (textAt(value, "pageTypeSlug") !== PAGE_TYPE) continue
-    const slug = textAt(value, "slug")
-    if (slug !== null) found.set(slug, value)
-  }
-  return found
-}
-
 function carriedBy(
   properties: ReadonlyMap<string, Held>,
   types: ReadonlyMap<string, Value>
@@ -350,34 +349,6 @@ export function filePropertiesIn(values: Iterable<Value>): FilePropertiesBy {
   return carriedBy(propertiesAmong(held), typesAmong(held))
 }
 
-// A page type is a page of any type reaching `page-type` by extending, so the types are gathered
-// out from `page-type` rather than read off that one slug. The walk repeats until nothing joins,
-// because a type reaching `page-type` through another type is filed among the pages of that other.
-function typeSlugsIn(given: string | Reading): ReadonlySet<string> {
-  const seen = new Set<string>([PAGE_TYPE])
-  for (;;) {
-    let grew = false
-    for (const one of [...seen]) {
-      for (const held of valuesOfType(given, one)) {
-        const slug = textAt(held.value, SLUG)
-        if (slug === null || seen.has(slug)) continue
-        if (!slugsIn(held.value[EXTENDS]).some((each) => seen.has(each))) continue
-        seen.add(slug)
-        grew = true
-      }
-    }
-    if (!grew) return seen
-  }
-}
-
-function typeValuesIn(given: string | Reading): readonly Value[] {
-  const found: Value[] = []
-  for (const one of typeSlugsIn(given)) {
-    for (const held of valuesOfType(given, one)) found.push(held.value)
-  }
-  return found
-}
-
 export function filePropertiesOver(
   given: string | Reading,
   left: Iterable<Value>
@@ -385,8 +356,9 @@ export function filePropertiesOver(
   const held = [...left]
   const properties = new Map(filedAmong(given))
   for (const [named, one] of propertiesAmong(held)) properties.set(named, one)
-  const types = new Map(typesAmong(typeValuesIn(given)))
-  for (const [slug, value] of typesAmong(held)) types.set(slug, value)
+  const among = typeSlugsIn(given)
+  const types = new Map(typesAmong(typeValuesIn(given, among), among))
+  for (const [slug, value] of typesAmong(held, among)) types.set(slug, value)
   return carriedBy(properties, types)
 }
 
