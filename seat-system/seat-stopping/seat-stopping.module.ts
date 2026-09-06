@@ -51,7 +51,7 @@ export const seatStopping = {
     {
       invariantKind: "departure",
       statement:
-        "A process is the agent's own where its command line names a supervisor or a client.",
+        "A process is the agent's own where the process command line names a supervisor or a client.",
     },
     {
       invariantKind: "absence",
