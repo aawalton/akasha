@@ -39,21 +39,23 @@ test("a page type admits a target every page type it extends up to also admits",
 function twoParents(): { readonly root: string; readonly repo: string } {
   const repo = scratch.rootFor("akasha-reaching-repo-")
   const root = scratch.rootFor("akasha-reaching-root-")
+  const valued: string[] = []
   const typed = (slug: string, above: readonly string[], id: string): undefined => {
+    const path = `${slug}.page-type.ts`
     const value = { id, pageTypeSlug: "page-type", slug, extendsSlug: above }
-    writeFileSync(
-      join(repo, `${slug}.page-type.ts`),
-      `export const it = ${JSON.stringify(value)}\n`
-    )
+    writeFileSync(join(repo, path), `export const it = ${JSON.stringify(value)}\n`)
     mkdirSync(join(root, "identity/page-type/slug"), { recursive: true })
     writeFileSync(
       join(root, `identity/page-type/slug/${slug}.jsonl`),
-      `${JSON.stringify({ path: `${slug}.page-type.ts`, id })}\n`
+      `${JSON.stringify({ path, id })}\n`
     )
+    valued.push(JSON.stringify({ path, value }))
   }
   typed("module", ["domain"], "1")
   typed("page-property", ["page"], "2")
   typed("computed-property", ["module", "page-property"], "3")
+  mkdirSync(join(root, "value"), { recursive: true })
+  writeFileSync(join(root, "value/page-type.jsonl"), `${valued.join("\n")}\n`)
   return { root, repo }
 }
 

@@ -56,8 +56,11 @@ export const scratch = scratchWorld()
 export function grounded(): { readonly root: string; readonly repo: string } {
   const repo = scratch.rootFor("akasha-entries-repo-")
   const root = scratch.rootFor("akasha-entries-root-")
+  const kept = new Map<string, string[]>()
   const page = (at: string, value: Record<string, unknown>): undefined => {
     writeFileSync(join(repo, at), `export const it = ${JSON.stringify(value)} as const\n`)
+    const type = String(value["pageTypeSlug"])
+    kept.set(type, [...(kept.get(type) ?? []), JSON.stringify({ path: at, value })])
   }
   const filed = (at: string, line: string): undefined => {
     mkdirSync(dirname(join(root, at)), { recursive: true })
@@ -102,6 +105,7 @@ export function grounded(): { readonly root: string; readonly repo: string } {
   filed("schema/page-property/one-of-property/slug/either.jsonl", SCHEMA.either)
   filed(`schema/page-property/${idPage.pageTypeSlug}/slug/id.jsonl`, SCHEMA.id)
   filed(`schema/page-property/${slugPage.pageTypeSlug}/slug/slug.jsonl`, SCHEMA.slug)
+  for (const [type, lines] of kept) filed(`value/${type}.jsonl`, lines.join("\n"))
   return { root, repo }
 }
 
