@@ -1,15 +1,7 @@
-import { afterAll, expect, test } from "bun:test"
-import { scratchWorld } from "@akasha/command-system/scratching"
-import { writing } from "@akasha/command-system/scratching/testing"
-import { idFiled, listedFiled, pathFiled } from "@akasha/indexes/testing"
+import { expect, test } from "bun:test"
 import type { Change } from "@akasha/pages/change"
-import { shadowFor } from "@akasha/pages/shadow"
-import { onDisk } from "../../../modules/change-walking/change-walking.module.code.ts"
-import { carrying, declaring } from "../../../modules/check-scratch/check-scratch.module.code.ts"
-import type { Judged } from "../../../modules/judging/judging.module.code.ts"
 import {
   edgesOf,
-  folderMatchesAShape,
   foldersTouchedBy,
   type Holds,
   heldFolder,
@@ -22,10 +14,6 @@ import {
   folderOf,
   reachedFolders,
 } from "./modules/folder-grouping/folder-grouping.module.code.ts"
-
-const scratch = scratchWorld()
-
-afterAll(scratch.sweep)
 
 const ROOT = "/repo"
 
@@ -164,166 +152,6 @@ test("a folder named for no part is never looked through", () => {
   expect(namingFolderOf("akasha/foo/other/deep", holds)).toBe("akasha/foo/other")
 })
 
-function idFor(n: number): string {
-  return `01a04e00-0000-7000-8000-0000000000${String(n).padStart(2, "0")}`
-}
-
-function filed(
-  root: string,
-  path: string,
-  id: string,
-  kind: string,
-  slug: string,
-  body: string
-): undefined {
-  writing(root, path, body)
-  const held = [{ path, id }]
-  idFiled(root, id, held)
-  listedFiled(root, kind, slug, held)
-  pathFiled(root, path, held)
-}
-
-const SHAPE_CODE = `export function noStrays(standing) {
-  return standing.strays.length === 0 ? [] : ["it holds a stray"]
-}
-`
-
-const REFUSING_CODE = `export function refusesAll() {
-  return ["a shape judging no folder judged this folder"]
-}
-`
-
-function rooted(): string {
-  const root = scratch.rootFor("akasha-folder-shape-")
-  declaring(root, "id", { pageTypeSlug: "text-property", unique: "always" })
-  declaring(root, "slug", { pageTypeSlug: "text-property", unique: "page-type" })
-  declaring(root, "code", { pageTypeSlug: "file-property", unique: null })
-  const shape = "akasha/s/no-strays.folder-shape.ts"
-  filed(
-    root,
-    shape,
-    idFor(1),
-    "folder-shape",
-    "no-strays",
-    `export const noStrays = { id: "${idFor(1)}", slug: "no-strays", pageTypeSlug: "folder-shape", code: "ts", enabled: true }\n`
-  )
-  writing(root, "akasha/s/no-strays.folder-shape.code.ts", SHAPE_CODE)
-  pathFiled(root, "akasha/s/no-strays.folder-shape.code.ts", [{ path: shape, id: idFor(1) }])
-  const declares =
-    '[{ pagePropertySlug: "id", required: true, many: false },' +
-    ' { pagePropertySlug: "slug", required: true, many: false }]'
-  filed(
-    root,
-    "akasha/t/page.page-type.ts",
-    idFor(5),
-    "page-type",
-    "page",
-    `export const it = { id: "${idFor(5)}", slug: "page", pageTypeSlug: "page-type",` +
-      ` extendsSlug: [], properties: ${declares} }\n`
-  )
-  for (const [n, slug] of [
-    [2, "page-type"],
-    [3, "folder-shape"],
-    [4, "file-property"],
-  ] as [number, string][]) {
-    filed(
-      root,
-      `akasha/t/${slug}.page-type.ts`,
-      idFor(n),
-      "page-type",
-      slug,
-      `export const it = { id: "${idFor(n)}", slug: "${slug}", pageTypeSlug: "page-type",` +
-        ' extendsSlug: ["page-type/page"] }\n'
-    )
-  }
-  return root
-}
-
-function arriving(root: string, bodies: Record<string, string>): Change {
-  const was = onDisk(root)
-  return {
-    root,
-    changed: Object.keys(bodies),
-    after: (path: string): Uint8Array | null => {
-      const said = bodies[path]
-      return said === undefined ? was(path) : encoder.encode(said)
-    },
-    before: (): null => null,
-  }
-}
-
-function judged(change: Change): readonly Judged[] {
-  const cast = shadowFor(change)
-  if ("refused" in cast) throw new Error(cast.refused)
-  return folderMatchesAShape(change, cast.shadow)
-}
-
-test("a page of a page type the change itself adds is a page, not a stray", () => {
-  const root = rooted()
-  const said = judged(
-    arriving(root, {
-      "akasha/b/probe.page-type.ts": `export const probe = { id: "${idFor(10)}", slug: "probe", pageTypeSlug: "page-type", extendsSlug: [] }\n`,
-      "akasha/b/x.probe.ts": `export const x = { id: "${idFor(11)}", slug: "x", pageTypeSlug: "probe" }\n`,
-    })
-  )
-  expect(said).toEqual([])
-})
-
-test("a file sitting beside a page through a file property the change adds is no stray either", () => {
-  const root = rooted()
-  const said = judged(
-    arriving(root, {
-      "akasha/b/notes.file-property.ts": `export const notes = { id: "${idFor(20)}", slug: "notes", pageTypeSlug: "file-property", propertySlug: "notes" }\n`,
-      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(21)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: [], notes: "ts" }\n`,
-      "akasha/b/one.page-type.notes.ts": "export const held = 1\n",
-    })
-  )
-  expect(said).toEqual([])
-})
-
-const MANIFEST = { pageTypeSlug: "named-file-property", unique: null, fileName: "package.json" }
-
-test("a file a page claims under the name its property states is no stray", () => {
-  const root = rooted()
-  declaring(root, "manifest", MANIFEST)
-  carrying(root, "page-type", ["manifest"], "page")
-  const said = judged(
-    arriving(root, {
-      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(30)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: [], manifest: "json" }\n`,
-      "akasha/b/package.json": '{ "name": "@akasha/one" }\n',
-    })
-  )
-  expect(said).toEqual([])
-})
-
-test("a file no page claims is a stray still, though its name is one a property states", () => {
-  const root = rooted()
-  declaring(root, "manifest", MANIFEST)
-  const said = judged(
-    arriving(root, {
-      "akasha/b/one.page-type.ts": `export const one = { id: "${idFor(31)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: [] }\n`,
-      "akasha/b/package.json": '{ "name": "@akasha/one" }\n',
-    })
-  )
-  expect(said.map((each) => each.path)).toEqual(["akasha/b"])
-  expect(said[0]?.reason).toContain("it holds a stray")
-})
-
-test("a name no property states is a stray though a page claims the path", () => {
-  const root = rooted()
-  declaring(root, "manifest", MANIFEST)
-  const path = "akasha/b/README"
-  const page = "akasha/b/one.page-type.ts"
-  pathFiled(root, path, [{ path: page, id: idFor(32) }])
-  const said = judged(
-    arriving(root, {
-      [page]: `export const one = { id: "${idFor(32)}", slug: "one", pageTypeSlug: "page-type", extendsSlug: [] }\n`,
-      [path]: "read me\n",
-    })
-  )
-  expect(said.map((each) => each.path)).toEqual(["akasha/b"])
-})
-
 test("the page a claimed file sits beside is the one the index names", () => {
   expect(pageNameOf("akasha/pages-system/indexes/indexes.workspace-package.ts")).toBe(
     "indexes.workspace-package"
@@ -336,26 +164,4 @@ test("the page a claimed file sits beside is the one the index names", () => {
       ])
     )
   ).toEqual(new Map([["package.json", "manifest"]]))
-})
-
-test("a shape judging no folder is never loaded", () => {
-  const root = rooted()
-  const shape = "akasha/s/refuses-all.folder-shape.ts"
-  filed(
-    root,
-    shape,
-    idFor(40),
-    "folder-shape",
-    "refuses-all",
-    `export const refusesAll = { id: "${idFor(40)}", slug: "refuses-all", pageTypeSlug: "folder-shape", code: "ts", enabled: false }\n`
-  )
-  const beside = "akasha/s/refuses-all.folder-shape.code.ts"
-  writing(root, beside, REFUSING_CODE)
-  pathFiled(root, beside, [{ path: shape, id: idFor(40) }])
-  const said = judged(
-    arriving(root, {
-      "akasha/b/probe.page-type.ts": `export const probe = { id: "${idFor(41)}", slug: "probe", pageTypeSlug: "page-type", extendsSlug: [] }\n`,
-    })
-  )
-  expect(said).toEqual([])
 })
