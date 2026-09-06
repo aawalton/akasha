@@ -118,7 +118,7 @@ index 4f60af64fe134831e76e2203e64679cc4c1cfbad..bcfe06c7d0645eed086a0e9839e6633a
        invariantKind: "departure",
        statement: "A cursor no read touched is dropped.",
 diff --git a/seat-system/subagent-census/subagent-census.module.code.ts b/seat-system/subagent-census/subagent-census.module.code.ts
-index 5a064472cf2f1c7bb35a7006513c16e318651acd..140e5d848c49cad92da89d18c53516671f99841f 100644
+index 5a064472cf2f1c7bb35a7006513c16e318651acd..4d6f73cc025bf25e2e42383f1db03116bc6a232e 100644
 --- a/seat-system/subagent-census/subagent-census.module.code.ts
 +++ b/seat-system/subagent-census/subagent-census.module.code.ts
 @@ -23,14 +23,21 @@ import { LOG_AT, SUBAGENTS_AT } from "../subagents/presence/subagent-presence.mo
@@ -176,3 +176,35 @@ index 5a064472cf2f1c7bb35a7006513c16e318651acd..140e5d848c49cad92da89d18c5351667
    }
  }
  
+@@ -174,9 +184,9 @@ function judgedOne(page: SubagentPage, seen: Seen): Judged {
+   if (pids.length > 0) {
+     return { page, verdict: WORKING, pids, why: "a live process acts under this agent id" }
+   }
+-  // THE ONE THING A TRANSCRIPT MAY DO. Every branch below this one can reach STALE, so the
+-  // transcript is asked before them and answers working or says nothing at all. A page whose own id
+-  // is empty is a page no transcript entry could name, and it falls through untouched.
++  // WHAT A TRANSCRIPT SAYS OF LIFE IS ASKED FIRST. Every branch below this one can reach STALE, so
++  // an id the transcript names as still running is answered here and asked nothing further. A page
++  // whose own id is empty is a page no transcript entry could name, and it falls through untouched.
+   if (page.own !== "" && seen.runningOwn.has(page.own)) {
+     return {
+       page,
+@@ -185,6 +195,18 @@ function judgedOne(page: SubagentPage, seen: Seen): Judged {
+       why: "its seat's transcript names it as a subagent that has not returned",
+     }
+   }
++  // AND WHAT A TRANSCRIPT SAYS OF AN END IS ASKED SECOND. An id here was seen launched and then
++  // seen to finish, which is the one thing that tells a subagent the model reaped from a subagent
++  // the model is still thinking for. Neither one runs a process, and neither one leaves a take-down
++  // in the log, so without this the two are the same undetermined page for as long as the seat runs.
++  if (page.own !== "" && seen.endedOwn.has(page.own)) {
++    return {
++      page,
++      verdict: STALE,
++      pids,
++      why: "its seat's transcript names it as a subagent that started and returned",
++    }
++  }
+   if (page.agentId === "" || page.seatId === "") {
+     return {
+       page,
