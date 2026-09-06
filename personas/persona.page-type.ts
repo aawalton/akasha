@@ -8,6 +8,7 @@ import type { EmailAddress } from "./properties/email-address.email-address-prop
 import type { GreenDayPoints } from "./properties/green-day-points.number-property.ts"
 import type { History } from "./properties/history.text-property.ts"
 import type { LastMessagedAt } from "./properties/last-messaged-at.text-property.ts"
+import type { MobileWallpaper } from "./properties/mobile-wallpaper.file-property.ts"
 import type { Origin } from "./properties/origin.relation-property.ts"
 import type { Portrait } from "./properties/portrait.file-property.ts"
 import type { Purpose } from "./properties/purpose.text-property.ts"
@@ -28,6 +29,7 @@ export type Persona = Domain & {
   greenDayPoints?: GreenDayPoints
   history?: History
   lastMessagedAt?: LastMessagedAt
+  mobileWallpaper?: MobileWallpaper
   voiceInstruction?: VoiceInstruction
   voiceReferenceSha256?: VoiceReferenceSha256
 }
@@ -49,6 +51,7 @@ export const persona = {
   },
   partSlugs: [
     "file-property/appearance",
+    "file-property/mobile-wallpaper",
     "file-property/portrait",
     "relation-property/championed-domain-slug",
     "relation-property/origin",
@@ -78,6 +81,7 @@ export const persona = {
       many: false,
       uncommitted: true,
     },
+    { pagePropertySlug: "file-property/mobile-wallpaper", required: false, many: false },
   ],
   invariants: [
     {
