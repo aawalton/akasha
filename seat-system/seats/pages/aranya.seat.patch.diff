@@ -74,3 +74,19 @@ index 0000000000000000000000000000000000000000..aef59bf3c054e292f532913a1b403267
 +    { resourceName: "collections-secrets", resourceKey: "ZERO_AUTH_SECRET" },
 +  ],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-next-public-supabase-anon-key.secret.ts b/service-system/secrets/pages/collections-secrets-next-public-supabase-anon-key.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ac4714311269207bb090632f1833246e3101ca92
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-next-public-supabase-anon-key.secret.ts
+@@ -0,0 +1,10 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsNextPublicSupabaseAnonKey = {
++  id: "01a076b6-a686-738e-b5d6-c8b2e80ecb84",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-next-public-supabase-anon-key",
++  placements: [
++    { resourceName: "collections-secrets", resourceKey: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
++  ],
++} as const satisfies Secret
