@@ -376,6 +376,58 @@ index 90c9450af1059bbfa0bcf4c6b4d981c834eb4919..eae13cabbf114092cbd025194042ead3
    unitSlug: "words",
    chapterText: "md",
  } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/pricing/components.book-section.ts b/alan/books/my-projects/sections/solar-power/pricing/components.book-section.ts
+index d0ce9068997d9db63a1852dc6084bce3b6204cb1..ed1888d38dfe6b0ee27eefd93715f5394187fb6b 100644
+--- a/alan/books/my-projects/sections/solar-power/pricing/components.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/pricing/components.book-section.ts
+@@ -7,7 +7,7 @@ export const components = {
+   title: "Component Breakdown",
+   description:
+     "Component breakdown of residential solar $/W — NREL Q1 2024 benchmark for 8 kW system, plus inverter and battery line items.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["pricing"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/pricing/cost-curve.book-section.ts b/alan/books/my-projects/sections/solar-power/pricing/cost-curve.book-section.ts
+index 2ccb3b15732dcac78bc44d66d36ddafcc3da897a..eda90d3e9505c3e24290b3e565fc4c59d9ebd21c 100644
+--- a/alan/books/my-projects/sections/solar-power/pricing/cost-curve.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/pricing/cost-curve.book-section.ts
+@@ -7,7 +7,7 @@ export const costCurve = {
+   title: "Cost Curve — Past 15 Years",
+   description:
+     "Cost-curve history for residential solar — total retail, modules, inverters, batteries, soft costs.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["pricing"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/pricing/levers.book-section.ts b/alan/books/my-projects/sections/solar-power/pricing/levers.book-section.ts
+index 2d7d0b8e6d778ec12012501a282068455c1b7e6f..d856eb480d5824b584d0193b57e5dd72531e80db 100644
+--- a/alan/books/my-projects/sections/solar-power/pricing/levers.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/pricing/levers.book-section.ts
+@@ -6,7 +6,7 @@ export const levers = {
+   slug: "levers",
+   title: "Levers and Knobs",
+   description: "Levers that move residential solar price up or down for a specific quote.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["pricing"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
+diff --git a/alan/books/my-projects/sections/solar-power/pricing/total-retail.book-section.ts b/alan/books/my-projects/sections/solar-power/pricing/total-retail.book-section.ts
+index 08199aa4c1ff4dc271f4d5e2dfefc219db5df7a3..c460247bb4f88ed2d5b7c1823a7abb25a0ac4d6a 100644
+--- a/alan/books/my-projects/sections/solar-power/pricing/total-retail.book-section.ts
++++ b/alan/books/my-projects/sections/solar-power/pricing/total-retail.book-section.ts
+@@ -6,7 +6,7 @@ export const totalRetail = {
+   slug: "total-retail",
+   title: "Total Retail $/W",
+   description: "Residential solar total retail $/W — national and Utah, cash vs financed.",
+-  partOfSlugs: ["all-about-alan"],
++  partOfSlugs: ["pricing"],
+   unitSlug: "words",
+   chapterText: "md",
+ } as const satisfies BookSection
 diff --git a/alan/books/my-projects/sections/solar-power/scope.book-section.ts b/alan/books/my-projects/sections/solar-power/scope.book-section.ts
 index 85e4c9152a184776559dfd54e442137f5c6cbb8a..9a473e6f8611446e3a19293e12c13820036a8054 100644
 --- a/alan/books/my-projects/sections/solar-power/scope.book-section.ts
