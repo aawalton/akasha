@@ -36,6 +36,20 @@ index bdd0b0808c8b5bafd90dd663b3ba01a89b2a2c9d..b6c005222bbe1efbe3af1036b27dfc55
      },
      {
        invariantKind: "departure",
+diff --git a/instrument/run-cost/run-cost-instant.domain.ts b/instrument/run-cost/run-cost-instant.domain.ts
+deleted file mode 100644
+index 00891c8e80e63f723ae0efe2cf3b4634d56f3732..0000000000000000000000000000000000000000
+--- a/instrument/run-cost/run-cost-instant.domain.ts
++++ /dev/null
+@@ -1,8 +0,0 @@
+-import type { Domain } from "../../domains/domain.page-type.ts"
+-
+-export const runCostInstant = {
+-  id: "01a06860-a0ef-71bb-8c4f-ca7c638ef79e",
+-  pageTypeSlug: "domain",
+-  slug: "run-cost-instant",
+-  definition: "the cost of a run finishing within a second",
+-} as const satisfies Domain
 diff --git a/instrument/run-cost/run-cost.domain.ts b/instrument/run-cost/run-cost.domain.ts
 index 974c6039c036c8e1eaba097c6defb4a82fd83841..9ef7551e80b2abd268d1b2373ffefa19e36994d1 100644
 --- a/instrument/run-cost/run-cost.domain.ts
