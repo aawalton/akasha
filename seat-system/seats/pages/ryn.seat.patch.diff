@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
+index d7be2bd99d0123f49f644a082056f03caf591027..f9d0da8395a9bc6f2ad76c986fcd8fa19e83b4e8 100644
+--- a/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
++++ b/checks/code-checks/pages/no-refused-syntax/syntax-rules/no-akasha-command-from-code/no-akasha-command-from-code.syntax-rule.ts
+@@ -35,7 +35,7 @@ export const noAkashaCommandFromCode = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A test file anywhere else is judged as any other.",
++      statement: "A test file anywhere else is judged as every other file is judged.",
+     },
+     {
+       invariantKind: "departure",
