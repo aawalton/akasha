@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/readout-system/readout-body/readout-body.module.ts b/readout-system/readout-body/readout-body.module.ts
+index 23591b50dee8810c8eddb8911573cbb2460b4813..88c1cbc7f11a17665f6d0858f0a6aefd35647c77 100644
+--- a/readout-system/readout-body/readout-body.module.ts
++++ b/readout-system/readout-body/readout-body.module.ts
+@@ -10,7 +10,7 @@ export const readoutBody = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The wire shape belongs to every readout rather than to the one that first had that shape.",
++        "The wire shape belongs to every readout rather than to the readout that first had that shape.",
+     },
+     {
+       invariantKind: "departure",
