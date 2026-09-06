@@ -25,8 +25,8 @@ export const temperCharacterSkillActivation = {
     "text-property/scaling-stat",
   ],
   properties: [
-    { pagePropertySlug: "description-template", required: true, many: false },
-    { pagePropertySlug: "activation-effects", required: true, many: false },
+    { pagePropertySlug: "text-property/description-template", required: true, many: false },
+    { pagePropertySlug: "page-property-entry/activation-effects", required: true, many: false },
   ],
   invariants: [
     {

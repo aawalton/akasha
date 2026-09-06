@@ -11,7 +11,7 @@ export const temperSkillType = {
   pluralSlug: "temper-skill-types",
   extendsSlug: ["page-type/temper-catalog-thing"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "description", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "text-property/description", required: true, many: false },
   ],
 } as const satisfies PageType

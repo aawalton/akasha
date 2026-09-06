@@ -9,10 +9,10 @@ export const activationEffects = {
   propertySlug: "activation-effects",
   definition: "what firing a skill does, one effect to a line",
   properties: [
-    { pagePropertySlug: "activation-effect-type", required: true, many: false },
-    { pagePropertySlug: "damage-type", required: false, many: false },
-    { pagePropertySlug: "scaling-stat", required: true, many: false },
-    { pagePropertySlug: "scaling-kind", required: true, many: false },
-    { pagePropertySlug: "coefficient", required: true, many: false },
+    { pagePropertySlug: "text-property/activation-effect-type", required: true, many: false },
+    { pagePropertySlug: "text-property/damage-type", required: false, many: false },
+    { pagePropertySlug: "text-property/scaling-stat", required: true, many: false },
+    { pagePropertySlug: "text-property/scaling-kind", required: true, many: false },
+    { pagePropertySlug: "number-property/coefficient", required: true, many: false },
   ],
 } as const satisfies PagePropertyEntry

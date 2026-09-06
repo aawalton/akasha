@@ -17,10 +17,10 @@ export const temperAccountCharacter = {
   extendsSlug: ["page-type/temper-character-thing"],
   partSlugs: ["text-property/first-name", "text-property/live-build-id"],
   properties: [
-    { pagePropertySlug: "eso-character-id", required: true, many: false },
-    { pagePropertySlug: "account-page", required: true, many: false },
-    { pagePropertySlug: "first-name", required: false, many: false },
-    { pagePropertySlug: "live-build-id", required: false, many: false },
+    { pagePropertySlug: "text-property/eso-character-id", required: true, many: false },
+    { pagePropertySlug: "text-property/account-page", required: true, many: false },
+    { pagePropertySlug: "text-property/first-name", required: false, many: false },
+    { pagePropertySlug: "text-property/live-build-id", required: false, many: false },
   ],
   invariants: [
     {

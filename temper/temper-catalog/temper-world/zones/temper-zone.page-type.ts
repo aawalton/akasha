@@ -17,7 +17,7 @@ export const temperZone = {
   extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["boolean-property/drops-scripts", "boolean-property/is-dlc"],
   properties: [
-    { pagePropertySlug: "drops-scripts", required: true, many: false },
-    { pagePropertySlug: "is-dlc", required: true, many: false },
+    { pagePropertySlug: "boolean-property/drops-scripts", required: true, many: false },
+    { pagePropertySlug: "boolean-property/is-dlc", required: true, many: false },
   ],
 } as const satisfies PageType

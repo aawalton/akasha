@@ -17,8 +17,8 @@ export const temperRace = {
   extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/eso-race-id", "text-property/alt-name"],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "alt-name", required: false, many: false },
-    { pagePropertySlug: "eso-race-id", required: true, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "text-property/alt-name", required: false, many: false },
+    { pagePropertySlug: "number-property/eso-race-id", required: true, many: false },
   ],
 } as const satisfies PageType

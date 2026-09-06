@@ -9,11 +9,11 @@ export const zoneCompletionActivities = {
   propertySlug: "zone-completion-activities",
   definition: "the activities a zone is completed by, one activity to a line",
   properties: [
-    { pagePropertySlug: "completion-type", required: true, many: false },
-    { pagePropertySlug: "completion-type-label", required: true, many: false },
-    { pagePropertySlug: "activity-index", required: true, many: false },
-    { pagePropertySlug: "eso-activity-id", required: true, many: false },
-    { pagePropertySlug: "activity-name", required: true, many: false },
+    { pagePropertySlug: "number-property/completion-type", required: true, many: false },
+    { pagePropertySlug: "text-property/completion-type-label", required: true, many: false },
+    { pagePropertySlug: "number-property/activity-index", required: true, many: false },
+    { pagePropertySlug: "number-property/eso-activity-id", required: true, many: false },
+    { pagePropertySlug: "text-property/activity-name", required: true, many: false },
   ],
   invariants: [
     {

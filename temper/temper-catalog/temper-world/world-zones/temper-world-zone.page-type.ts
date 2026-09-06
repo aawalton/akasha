@@ -36,10 +36,14 @@ export const temperWorldZone = {
     "text-property/quest-name",
   ],
   properties: [
-    { pagePropertySlug: "eso-zone-id", required: false, many: false },
-    { pagePropertySlug: "zone-quests", required: false, many: false },
-    { pagePropertySlug: "pois", required: false, many: false },
-    { pagePropertySlug: "zone-completion-activities", required: false, many: false },
+    { pagePropertySlug: "number-property/eso-zone-id", required: false, many: false },
+    { pagePropertySlug: "page-property-entry/zone-quests", required: false, many: false },
+    { pagePropertySlug: "page-property-entry/pois", required: false, many: false },
+    {
+      pagePropertySlug: "page-property-entry/zone-completion-activities",
+      required: false,
+      many: false,
+    },
   ],
   invariants: [
     {

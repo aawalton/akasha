@@ -17,7 +17,7 @@ export const temperAccount = {
   extendsSlug: ["page-type/temper-character-thing"],
   partSlugs: ["text-property/eso-display-name", "text-property/world-name"],
   properties: [
-    { pagePropertySlug: "eso-display-name", required: false, many: false },
-    { pagePropertySlug: "world-name", required: false, many: false },
+    { pagePropertySlug: "text-property/eso-display-name", required: false, many: false },
+    { pagePropertySlug: "text-property/world-name", required: false, many: false },
   ],
 } as const satisfies PageType

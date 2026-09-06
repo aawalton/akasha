@@ -25,10 +25,10 @@ export const characterBuild = {
     "text-property/build-correlation-id",
   ],
   properties: [
-    { pagePropertySlug: "build-hash", required: true, many: false },
-    { pagePropertySlug: "build-visibility", required: true, many: false },
-    { pagePropertySlug: "build-correlation-id", required: false, many: false },
-    { pagePropertySlug: "build-target-count", required: false, many: false },
+    { pagePropertySlug: "text-property/build-hash", required: true, many: false },
+    { pagePropertySlug: "select-property/build-visibility", required: true, many: false },
+    { pagePropertySlug: "text-property/build-correlation-id", required: false, many: false },
+    { pagePropertySlug: "number-property/build-target-count", required: false, many: false },
   ],
   invariants: [
     {

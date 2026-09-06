@@ -29,12 +29,12 @@ export const temperBuildVersion = {
     "text-property/checkpoint-name",
   ],
   properties: [
-    { pagePropertySlug: "account-page", required: true, many: false },
-    { pagePropertySlug: "build", required: true, many: false },
-    { pagePropertySlug: "version-number", required: true, many: false },
-    { pagePropertySlug: "build-hash", required: true, many: false },
-    { pagePropertySlug: "is-checkpoint", required: false, many: false },
-    { pagePropertySlug: "checkpoint-name", required: false, many: false },
+    { pagePropertySlug: "text-property/account-page", required: true, many: false },
+    { pagePropertySlug: "text-property/build", required: true, many: false },
+    { pagePropertySlug: "number-property/version-number", required: true, many: false },
+    { pagePropertySlug: "text-property/build-hash", required: true, many: false },
+    { pagePropertySlug: "boolean-property/is-checkpoint", required: false, many: false },
+    { pagePropertySlug: "text-property/checkpoint-name", required: false, many: false },
   ],
   invariants: [
     {

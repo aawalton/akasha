@@ -17,7 +17,7 @@ export const temperQuestGiver = {
   extendsSlug: ["page-type/temper-catalog-thing"],
   partSlugs: ["number-property/cycle-length", "text-property/epoch"],
   properties: [
-    { pagePropertySlug: "cycle-length", required: true, many: false },
-    { pagePropertySlug: "epoch", required: true, many: false },
+    { pagePropertySlug: "number-property/cycle-length", required: true, many: false },
+    { pagePropertySlug: "text-property/epoch", required: true, many: false },
   ],
 } as const satisfies PageType

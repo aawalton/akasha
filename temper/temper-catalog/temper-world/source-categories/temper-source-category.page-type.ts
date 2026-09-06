@@ -11,7 +11,7 @@ export const temperSourceCategory = {
   pluralSlug: "temper-source-categories",
   extendsSlug: ["page-type/temper-catalog-thing"],
   properties: [
-    { pagePropertySlug: "category-id", required: true, many: false },
-    { pagePropertySlug: "display-order", required: true, many: false },
+    { pagePropertySlug: "text-property/category-id", required: true, many: false },
+    { pagePropertySlug: "number-property/display-order", required: true, many: false },
   ],
 } as const satisfies PageType

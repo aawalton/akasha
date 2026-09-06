@@ -23,11 +23,11 @@ export const temperSkillLine = {
     "text-property/skill-line-class",
   ],
   properties: [
-    { pagePropertySlug: "key", required: true, many: false },
-    { pagePropertySlug: "display-order", required: true, many: false },
-    { pagePropertySlug: "eso-skill-line-id", required: true, many: false },
-    { pagePropertySlug: "max-rank", required: true, many: false },
-    { pagePropertySlug: "subcategory-id", required: true, many: false },
-    { pagePropertySlug: "skill-line-class", required: false, many: false },
+    { pagePropertySlug: "text-property/key", required: true, many: false },
+    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+    { pagePropertySlug: "number-property/eso-skill-line-id", required: true, many: false },
+    { pagePropertySlug: "number-property/max-rank", required: true, many: false },
+    { pagePropertySlug: "text-property/subcategory-id", required: true, many: false },
+    { pagePropertySlug: "text-property/skill-line-class", required: false, many: false },
   ],
 } as const satisfies PageType

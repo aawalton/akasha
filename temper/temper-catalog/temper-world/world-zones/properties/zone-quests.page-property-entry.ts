@@ -9,8 +9,8 @@ export const zoneQuests = {
   propertySlug: "zone-quests",
   definition: "the quests a zone holds, one quest to a line",
   properties: [
-    { pagePropertySlug: "eso-quest-id", required: true, many: false },
-    { pagePropertySlug: "quest-name", required: true, many: false },
+    { pagePropertySlug: "number-property/eso-quest-id", required: true, many: false },
+    { pagePropertySlug: "text-property/quest-name", required: true, many: false },
   ],
   invariants: [
     {

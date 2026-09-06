@@ -9,10 +9,10 @@ export const pois = {
   propertySlug: "pois",
   definition: "the points of interest a zone holds, one place to a line",
   properties: [
-    { pagePropertySlug: "poi-type", required: true, many: false },
-    { pagePropertySlug: "poi-type-label", required: true, many: false },
-    { pagePropertySlug: "poi-index", required: true, many: false },
-    { pagePropertySlug: "poi-name", required: true, many: false },
+    { pagePropertySlug: "number-property/poi-type", required: true, many: false },
+    { pagePropertySlug: "text-property/poi-type-label", required: true, many: false },
+    { pagePropertySlug: "number-property/poi-index", required: true, many: false },
+    { pagePropertySlug: "text-property/poi-name", required: true, many: false },
   ],
   invariants: [
     {
