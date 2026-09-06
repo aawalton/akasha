@@ -256,7 +256,7 @@ index fe41f8d99771e5b1e2f1a99bbd9cda592664e12d..00000000000000000000000000000000
 -  ],
 -} as const satisfies FolderShape
 diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
-index e5d9f739b40440fdd90d54854604dd984519e750..09e0b3a9e943a0712c05cc24f6892aa5eb0f9e04 100644
+index e5d9f739b40440fdd90d54854604dd984519e750..283ad96c41fdd48caf3636fc1e9e93cec20a5186 100644
 --- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
 +++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
 @@ -43,7 +43,7 @@ export const folderShape = {
@@ -277,16 +277,12 @@ index e5d9f739b40440fdd90d54854604dd984519e750..09e0b3a9e943a0712c05cc24f6892aa5
      },
      {
        invariantKind: "departure",
-@@ -133,7 +133,11 @@ export const folderShape = {
+@@ -133,7 +133,7 @@ export const folderShape = {
      {
        invariantKind: "departure",
        statement:
 -        "A page type declares the members of every one-of property in that page type's `properties` folder.",
-+<<<<<<< what this change would leave
-+        "A one-of property in that page type's `properties` folder hands the page type the members that property names.",
-+=======
 +        "A page type declares the properties every one-of property in that page type's `properties` folder names.",
-+>>>>>>> what HEAD holds
      },
      {
        invariantKind: "departure",
