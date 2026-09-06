@@ -1,3 +1,33 @@
+diff --git a/pages/indexes/answering/index-answering.module.code.ts b/pages/indexes/answering/index-answering.module.code.ts
+index e81722764efe2d763bde850d06af96b4670d8358..b6d5f784657a9b8a475f4155fa348f07076540aa 100644
+--- a/pages/indexes/answering/index-answering.module.code.ts
++++ b/pages/indexes/answering/index-answering.module.code.ts
+@@ -21,6 +21,7 @@ import {
+   schemaAt,
+   sidecarsOver,
+ } from "../entries/index-entries.module.code.ts"
++import { manifestsBeside } from "../package-reaching/package-reaching.module.code.ts"
+ import {
+   carryingOf,
+   type Declaring,
+@@ -69,6 +70,9 @@ export type Answering = {
+   readonly listedById: (id: string) => Listed | null
+   readonly listedByPath: (path: string) => readonly Listed[]
+   readonly listedNamed: (scope: string, propertySlug: string, said: string) => readonly Listed[]
++  readonly manifestsBeside: (
++    fileProperties: ReadonlyMap<string, string | null>
++  ) => readonly string[]
+   readonly namersOf: (id: string, indexName?: string) => readonly Named[]
+   readonly pageAt: (pageTypeSlug: string, slug: string) => Value | null
+   readonly pageTypesIn: () => ReadonlySet<string>
+@@ -102,6 +106,7 @@ export function answeringOver(reading: Reading, pageOf: PageOf): Answering {
+     listedById: (id) => listedById(reading, id),
+     listedByPath: (path) => listedByPath(reading, path),
+     listedNamed: (scope, propertySlug, said) => listedNamed(reading, scope, propertySlug, said),
++    manifestsBeside: (fileProperties) => manifestsBeside(reading, fileProperties),
+     namersOf: (id, indexName) => namersOf(reading, id, indexName),
+     pageAt: (pageTypeSlug, slug) => pageAt(reading, pageTypeSlug, slug, pageOf),
+     pageTypesIn: () => pageTypesIn(reading),
 diff --git a/pages/indexes/package-reaching/package-reaching.module.code.ts b/pages/indexes/package-reaching/package-reaching.module.code.ts
 index 7e7f999bb8681e0390272a1c309521f9f5357237..1ba41d162b1a44b0ce499fedac505bbb7ac40959 100644
 --- a/pages/indexes/package-reaching/package-reaching.module.code.ts
