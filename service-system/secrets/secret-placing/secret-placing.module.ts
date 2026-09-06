@@ -7,6 +7,7 @@ export const secretPlacing = {
   definition:
     "the secret values a plan's manifests ask for, put into the cluster from secret pages",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -14,8 +15,21 @@ export const secretPlacing = {
     },
     {
       invariantKind: "departure",
+      statement: "One page places its value into every resource and key that page names.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "Two secret pages placing a value in one resource at one key is refused before anything is applied.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "One page naming a resource and key twice is refused for the same reason two pages are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page naming no placement holds a value nothing asks for and is read past.",
     },
     {
       invariantKind: "departure",

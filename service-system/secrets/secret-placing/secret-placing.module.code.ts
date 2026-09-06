@@ -2,7 +2,7 @@ import { join } from "node:path"
 import { git } from "@akasha/git/git-capping"
 import { secretAt } from "@akasha/pages/page-file-name"
 import { type Secrets, secretsIn } from "@akasha/pages/page-secret"
-import { textAt, valueAt } from "@akasha/pages/page-value"
+import { textAt, type Value, valueAt } from "@akasha/pages/page-value"
 import { parseAllDocuments, stringify } from "yaml"
 import {
   type Plan,
@@ -25,6 +25,8 @@ const SECRET_GLOB = "*.secret.ts"
 const VALUE_KEY = "value"
 
 const EVERY_KEY = "*"
+
+const PLACEMENTS = "placements"
 
 const RESOURCE_NAME = "resourceName"
 
@@ -78,11 +80,29 @@ export function demandedBy(plan: Plan): readonly Demand[] {
   })
 }
 
+export interface Placement {
+  readonly resourceName: string
+  readonly resourceKey: string
+}
+
 export interface SecretPage {
   readonly slug: string
   readonly relPath: string
-  readonly resourceName: string
-  readonly resourceKey: string
+  readonly placements: readonly Placement[]
+}
+
+export function placementsIn(value: Value): readonly Placement[] {
+  const held = value[PLACEMENTS]
+  if (!Array.isArray(held)) return []
+  const found: Placement[] = []
+  for (const one of held) {
+    if (!isRecord(one)) continue
+    const resourceName = one[RESOURCE_NAME]
+    const resourceKey = one[RESOURCE_KEY]
+    if (typeof resourceName !== "string" || typeof resourceKey !== "string") continue
+    found.push({ resourceName, resourceKey })
+  }
+  return found
 }
 
 export function secretPages(akasha: string): readonly SecretPage[] {
@@ -98,25 +118,32 @@ export function secretPages(akasha: string): readonly SecretPage[] {
     const value = valueAt(join(akasha, one), akasha)
     if (value === null) continue
     const slug = textAt(value, "slug")
-    const resourceName = textAt(value, RESOURCE_NAME)
-    const resourceKey = textAt(value, RESOURCE_KEY)
-    if (slug === null || resourceName === null || resourceKey === null) continue
-    found.push({ slug, relPath: one, resourceName, resourceKey })
+    if (slug === null) continue
+    const placements = placementsIn(value)
+    if (placements.length === 0) continue
+    found.push({ slug, relPath: one, placements })
   }
   return found
 }
 
-function placedAt(pages: readonly SecretPage[]): ReadonlyMap<string, SecretPage> {
+export function placedAt(pages: readonly SecretPage[]): ReadonlyMap<string, SecretPage> {
   const at = new Map<string, SecretPage>()
   for (const page of pages) {
-    const key = keyFor(page.resourceName, page.resourceKey)
-    const held = at.get(key)
-    if (held !== undefined) {
-      throw new DeployRefused(
-        `${held.slug} and ${page.slug} both place a value in ${page.resourceName} under ${page.resourceKey}, so which one the cluster would hold is unsettled`
-      )
+    for (const placement of page.placements) {
+      const key = keyFor(placement.resourceName, placement.resourceKey)
+      const held = at.get(key)
+      if (held === page) {
+        throw new DeployRefused(
+          `${page.slug} places a value in ${placement.resourceName} under ${placement.resourceKey} twice, which is one placement written out two times`
+        )
+      }
+      if (held !== undefined) {
+        throw new DeployRefused(
+          `${held.slug} and ${page.slug} both place a value in ${placement.resourceName} under ${placement.resourceKey}, so which one the cluster would hold is unsettled`
+        )
+      }
+      at.set(key, page)
     }
-    at.set(key, page)
   }
   return at
 }
@@ -133,9 +160,7 @@ function valueOf(akasha: string, page: SecretPage): string {
     throw new DeployRefused(thrown instanceof Error ? thrown.message : String(thrown))
   }
   if (read === null) {
-    throw new DeployRefused(
-      `${page.slug} places a value in ${page.resourceName} under ${page.resourceKey}, and ${sidecar} does not exist, so it holds no value to place`
-    )
+    throw new DeployRefused(`${page.slug} holds no value to place, and ${sidecar} does not exist`)
   }
   const held = read.get(VALUE_KEY)
   if (held === undefined) {
@@ -169,9 +194,11 @@ export function placeSecrets(akasha: string, plan: Plan): Placing {
   for (const demand of demands) {
     const keys = wanted.get(demand.name) ?? new Set<string>()
     if (demand.key === EVERY_KEY) {
-      const every = pages.filter((one) => one.resourceName === demand.name)
+      const every = pages.flatMap((one) =>
+        one.placements.filter((two) => two.resourceName === demand.name)
+      )
       if (every.length === 0) unplaced.push(demand)
-      for (const page of every) keys.add(page.resourceKey)
+      for (const placement of every) keys.add(placement.resourceKey)
     } else if (at.has(keyFor(demand.name, demand.key))) {
       keys.add(demand.key)
     } else {
