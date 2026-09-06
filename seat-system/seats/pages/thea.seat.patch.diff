@@ -1,0 +1,16 @@
+diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
+index 08cb4daadaf638a1fce8d603a623af296dd4bc09..8b914850e01b2b22e926bae68a467899c9ab86ca 100644
+--- a/domains/initiatives/pages/thea-checks-system.initiative.ts
++++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
+@@ -19,9 +19,9 @@ export const theaChecksSystem = {
+         "168 routes across 7 apps share one page type and `slug` is unique per type, so `home` repeats 7 times, `sign-in` 6, `api.errors` 6; 5 route tests wait on this. `part-of` is declared and branched at index-identity.index.code.ts:29 but never written, read back or tested. The `unique` declaration field landed. Order: seed a test against the PART_OF branch, which has never run; then the identity map; then the consumers handing a page-type slug as the scope, each answering empty rather than erroring.",
+     },
+     {
+-      statement: "Every check is clean.",
++      statement: "Every check is cheap enough for patch and runs there.",
+       workingMemory:
+-        "Six steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file not judged, 4 over one judged, 5 over the whole repository, 6 whether green. The entries jsonl holds every run. 43 checks, alphabetical over all 43 whether or not one runs already. Done: domain-is-named-by-a-parent, email-address-is-well-formed. Now: file-has-its-page, steps 1 and 2 done; it judges what a change carries, so audit waits on every tracked file being claimed.",
++        "Five steps per check: 1 the failure category prevented, 2 the file set covered, 3 the cost over one file not judged, 4 over one judged, 5 over the whole repository. Then it goes on at patch. The entries jsonl holds every run. 43 checks, alphabetical over all 43 whether or not one runs already; 7 are at patch and nothing runs at any other phase. Done: domain-is-named-by-a-parent, email-address-is-well-formed. Now: file-has-its-page, already at patch, steps 1 and 2 done.",
+     },
+     {
+       statement: "Every file the repository tracks is claimed by a page.",
