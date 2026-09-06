@@ -1,0 +1,13 @@
+diff --git a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
+index fbc7a9818ae1fc6199af11edf6429bbe8c499ead..4fafa392a83297d93d3323d82973610fc25c4739 100644
+--- a/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
++++ b/alan/harness/monarch/rule-documents/monarch-rule-documents.module.ts
+@@ -9,7 +9,7 @@ export const monarchRuleDocuments = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The rules are TypeScript pages, one file to a rule.",
++      statement: "The rules are TypeScript pages with one file to a rule.",
+     },
+     {
+       invariantKind: "departure",
