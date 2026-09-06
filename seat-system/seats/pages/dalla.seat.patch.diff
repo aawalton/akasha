@@ -1,0 +1,16 @@
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index 88e74f789dac2b8d518758276152cfb44a2ee05f..b20576148353a8decb6a5a765586e06e15f9046f 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -82,6 +82,11 @@ export const dallaDraftIntoAPatch = {
+       workingMemory:
+         "`change-running` loads a change by address and runs the guards its page names, so no call reaches a change unguarded. Its `addressed` sidecar maps each address to `Parameters<typeof import(path)['runChange']>[1]`, so the map reads each signature rather than restating one and cannot state a shape that is wrong. Augmentation is barred: the formatter rewrites every `interface` into a type alias, so the map is a plain exported alias read by `import type`. `address-mapping` writes it inside `preparing`, alongside the lockfile and the worked type, in the patch the gate judges. A change joins the map by exporting `runChange`, read off that change's own code. Left: the 13 live changes are typed `change`, which the generator does not reach, so the map holds `remove-page` alone. 8 of those 13 already answer `(World, given): Answer`; 5 are handed a path or the text instead.",
+     },
++    {
++      statement: "One call runs one change, whose edits are kept beside the agent's page.",
++      workingMemory:
++        "`akasha change` runs one change per call, so four substitutions are four calls and one apply. A change whose page reads `runsChecks: true` has the whole kept set judged by the full gate. A refusal there is reported and the edits stay: taking `studying.domain.ts` away kept 2 rows while `domain-is-named-by-a-parent` refused for its three children. The same edits refused at `akasha apply` with nothing written. `akasha change drop` takes the set away. Left: `add-file` and `change-file`.",
++    },
+   ],
+   constraints: [
+     "A read hands back the body at HEAD rather than the body the patch would leave.",
