@@ -1,3 +1,16 @@
+diff --git a/domains/findings/pages/an-anon-key-for-supabase-is-in-the-commit.finding.ts b/domains/findings/pages/an-anon-key-for-supabase-is-in-the-commit.finding.ts
+index c7c4893c54f4c971a5cf25283cdd0d22fe02c4aa..9cd2b0fd54320f9c7a116570f4ff841d91e9d306 100644
+--- a/domains/findings/pages/an-anon-key-for-supabase-is-in-the-commit.finding.ts
++++ b/domains/findings/pages/an-anon-key-for-supabase-is-in-the-commit.finding.ts
+@@ -6,7 +6,7 @@ export const anAnonKeyForSupabaseIsInTheCommit = {
+   slug: "an-anon-key-for-supabase-is-in-the-commit",
+   domainSlug: "page-type/change",
+   claim:
+-    "A workflow template holds a Supabase anon key as a module constant rather than reading it from sops. The key is signed for the self-hosted issuer, carries the anon role, and is good until April 2036. Everyone with a checkout has it, and every checkout taken before it is replaced keeps it.",
++    "A workflow template holds one Supabase anon key as a module constant rather than reading it from sops. The key is signed for the self-hosted issuer, carries the anon role, and is good until April 2036. Everyone with a checkout has it, and every checkout taken before it is replaced keeps it.",
+   evidence:
+     "The key is at pages/workflow-template/workflow-temper-watcher.workflow-template.declaration.attachment.ts, which git tracks. Its payload decodes to role `anon`, issuer `https://supabase.alanwalton.com/auth/v1`, and expiry 2092231506, which is 2036-04-19. Every other secret in the repository is sops-encrypted. Found while surveying which supabase code is not auth code. Service-role and anon values are also in plaintext at alanwalton/web/.env.local, which git does not track, so those remain on the machine holding them and are named here only so the two are not confused.",
+ } as const satisfies Finding
 diff --git a/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts b/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts
 index 266b849afd483a38ccec1d2ec54a257ab3605dd9..9dd6783a45def6ea0ad80607567842efd1633520 100644
 --- a/domains/findings/pages/seed-rated-heard-tracks-were-never-heard.finding.ts
