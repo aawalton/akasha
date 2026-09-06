@@ -1,0 +1,18 @@
+diff --git a/git/push-repo/push-repo.module.ts b/git/push-repo/push-repo.module.ts
+index 694e1855acf78ad92fb325faa7f31b9ba4901117..f46612b60fe93ef958f23c9872d1d824cea02d9e 100644
+--- a/git/push-repo/push-repo.module.ts
++++ b/git/push-repo/push-repo.module.ts
+@@ -9,8 +9,11 @@ export const pushRepo = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "One pusher works a repository at a time, and a second one exits rather than queueing.",
++      statement: "One pusher works a repository at a time.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A second pusher exits rather than queueing.",
+     },
+     {
+       invariantKind: "departure",
