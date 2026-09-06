@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
-index fd54c7a50c4eab21060f7bcfb7fa780ffe4b8917..74601424cfd203bdee4a36f8f5767ef28da82999 100644
+index fd54c7a50c4eab21060f7bcfb7fa780ffe4b8917..dae4be7c687a37c9c8ff9907d52b468d4d9d4695 100644
 --- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
 +++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
 @@ -22,8 +22,7 @@ export const logDaySweeping = {
@@ -12,12 +12,17 @@ index fd54c7a50c4eab21060f7bcfb7fa780ffe4b8917..74601424cfd203bdee4a36f8f5767ef2
      },
      {
        invariantKind: "departure",
-@@ -31,7 +30,7 @@ export const logDaySweeping = {
+@@ -31,11 +30,11 @@ export const logDaySweeping = {
      },
      {
        invariantKind: "departure",
 -      statement: "The removal lands mechanically, in process, owing no read record.",
 +      statement: "The removal lands mechanically in process and owes no read record.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The lines beside a page go with a plain remove, after the page has landed.",
++      statement: "The lines beside a page go with a plain remove after that page has landed.",
      },
      {
        invariantKind: "departure",
