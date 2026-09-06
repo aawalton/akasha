@@ -1,0 +1,395 @@
+runsWarrants: false
+diff --git a/temper/temper-catalog/temper-companions/companion-weapon-roles/temper-companion-weapon-role.page-type.ts b/temper/temper-catalog/temper-companions/companion-weapon-roles/temper-companion-weapon-role.page-type.ts
+index cd6f9d10f79b0488cc81ac646449c6a19a88c4ba..cb96483a703867bd7fd2f54fd05f1e4280cb13ba 100644
+--- a/temper/temper-catalog/temper-companions/companion-weapon-roles/temper-companion-weapon-role.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-weapon-roles/temper-companion-weapon-role.page-type.ts
+@@ -23,9 +23,19 @@ export const temperCompanionWeaponRole = {
+     "text-property/weapon-skill-line-id",
+   ],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "weapon-skill-line-id", required: true, many: false },
+-    { pagePropertySlug: "valid-main-hand-weapon-types", required: false, many: true, max: null },
+-    { pagePropertySlug: "valid-off-hand-weapon-types", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/weapon-skill-line-id", required: true, many: false },
++    {
++      pagePropertySlug: "text-property/valid-main-hand-weapon-types",
++      required: false,
++      many: true,
++      max: null,
++    },
++    {
++      pagePropertySlug: "text-property/valid-off-hand-weapon-types",
++      required: false,
++      many: true,
++      max: null,
++    },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-companions/companion-weapon-slots/temper-companion-weapon-slot.page-type.ts b/temper/temper-catalog/temper-companions/companion-weapon-slots/temper-companion-weapon-slot.page-type.ts
+index 767c2964b4c241a02457081ed80d3ccc8c364303..378617e5e4c4177efe9282f0db10586e65fe0334 100644
+--- a/temper/temper-catalog/temper-companions/companion-weapon-slots/temper-companion-weapon-slot.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-weapon-slots/temper-companion-weapon-slot.page-type.ts
+@@ -10,5 +10,5 @@ export const temperCompanionWeaponSlot = {
+   definition: "a hand a companion holds one weapon in",
+   pluralSlug: "temper-companion-weapon-slots",
+   extendsSlug: ["page-type/temper-companion-thing"],
+-  properties: [{ pagePropertySlug: "key", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-companions/companion-weapon-types/temper-companion-weapon-type.page-type.ts b/temper/temper-catalog/temper-companions/companion-weapon-types/temper-companion-weapon-type.page-type.ts
+index 95e78f2d56e119a17871f1ddac5c18e550d4fe64..234fd7369d0348d67325f3647e177983affb04a6 100644
+--- a/temper/temper-catalog/temper-companions/companion-weapon-types/temper-companion-weapon-type.page-type.ts
++++ b/temper/temper-catalog/temper-companions/companion-weapon-types/temper-companion-weapon-type.page-type.ts
+@@ -15,9 +15,9 @@ export const temperCompanionWeaponType = {
+   extendsSlug: ["page-type/temper-companion-thing"],
+   partSlugs: ["boolean-property/is-off-hand-only"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "is-off-hand-only", required: true, many: false },
+-    { pagePropertySlug: "is-two-handed", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    { pagePropertySlug: "boolean-property/is-off-hand-only", required: true, many: false },
++    { pagePropertySlug: "boolean-property/is-two-handed", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-companions/eso-companion-equipment-constants/temper-eso-companion-equipment-constant.page-type.ts b/temper/temper-catalog/temper-companions/eso-companion-equipment-constants/temper-eso-companion-equipment-constant.page-type.ts
+index 54e8d7097305fd8288a5da3d57190c0f00c29e18..6408803aa7463314eb29cfe65f7d8b7e15fde1f0 100644
+--- a/temper/temper-catalog/temper-companions/eso-companion-equipment-constants/temper-eso-companion-equipment-constant.page-type.ts
++++ b/temper/temper-catalog/temper-companions/eso-companion-equipment-constants/temper-eso-companion-equipment-constant.page-type.ts
+@@ -26,11 +26,11 @@ export const temperEsoCompanionEquipmentConstant = {
+     "text-property/value-text",
+   ],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "constant-kind", required: true, many: false },
+-    { pagePropertySlug: "key-text", required: true, many: false },
+-    { pagePropertySlug: "value-num", required: false, many: false },
+-    { pagePropertySlug: "value-text", required: false, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/constant-kind", required: true, many: false },
++    { pagePropertySlug: "text-property/key-text", required: true, many: false },
++    { pagePropertySlug: "number-property/value-num", required: false, many: false },
++    { pagePropertySlug: "text-property/value-text", required: false, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-companions/eso-companions/temper-eso-companion.page-type.ts b/temper/temper-catalog/temper-companions/eso-companions/temper-eso-companion.page-type.ts
+index c2c9308a42f203d2b16aa262f38db18a3614d749..cfae36483b56a61209e8728af701f31529fbb1dc 100644
+--- a/temper/temper-catalog/temper-companions/eso-companions/temper-eso-companion.page-type.ts
++++ b/temper/temper-catalog/temper-companions/eso-companions/temper-eso-companion.page-type.ts
+@@ -29,11 +29,11 @@ export const temperEsoCompanion = {
+     "text-property/subtitle",
+   ],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "subtitle", required: false, many: false },
+-    { pagePropertySlug: "alliance", required: true, many: false },
+-    { pagePropertySlug: "eso-companion-id", required: true, many: false },
+-    { pagePropertySlug: "class-passive-id", required: false, many: false },
+-    { pagePropertySlug: "passive-effects", required: false, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/subtitle", required: false, many: false },
++    { pagePropertySlug: "text-property/alliance", required: true, many: false },
++    { pagePropertySlug: "number-property/eso-companion-id", required: true, many: false },
++    { pagePropertySlug: "text-property/class-passive-id", required: false, many: false },
++    { pagePropertySlug: "page-property-entry/passive-effects", required: false, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/properties/passive-effects.page-property-entry.ts b/temper/temper-catalog/temper-companions/temper-companion-things/properties/passive-effects.page-property-entry.ts
+index 9b59ed77163a0954584e2208e5076ce9c37728f3..15a6abc78b77d10217c69d83e3e721e7ede9e491 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/properties/passive-effects.page-property-entry.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/properties/passive-effects.page-property-entry.ts
+@@ -9,7 +9,7 @@ export const passiveEffects = {
+   propertySlug: "passive-effects",
+   definition: "what a companion's own passive moves, one metric to a line",
+   properties: [
+-    { pagePropertySlug: "metric-id", required: true, many: false },
+-    { pagePropertySlug: "effect-value", required: true, many: false },
++    { pagePropertySlug: "text-property/metric-id", required: true, many: false },
++    { pagePropertySlug: "number-property/effect-value", required: true, many: false },
+   ],
+ } as const satisfies PagePropertyEntry
+diff --git a/temper/temper-catalog/temper-companions/temper-companion-things/temper-companion-thing.page-type.ts b/temper/temper-catalog/temper-companions/temper-companion-things/temper-companion-thing.page-type.ts
+index 15f53e8e54e4b1f8da83a85b4a5dc2ee58d4ccbd..53b4a1123dde4f5735a88392994cfb62b0bb2dfe 100644
+--- a/temper/temper-catalog/temper-companions/temper-companion-things/temper-companion-thing.page-type.ts
++++ b/temper/temper-catalog/temper-companions/temper-companion-things/temper-companion-thing.page-type.ts
+@@ -14,7 +14,7 @@ export const temperCompanionThing = {
+   pluralSlug: "temper-companion-things",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   partSlugs: ["number-property/equip-type"],
+-  properties: [{ pagePropertySlug: "equip-type", required: false, many: false }],
++  properties: [{ pagePropertySlug: "number-property/equip-type", required: false, many: false }],
+   invariants: [
+     {
+       invariantKind: "departure",
+diff --git a/temper/temper-catalog/temper-effects/buff-majors/temper-buff-major.page-type.ts b/temper/temper-catalog/temper-effects/buff-majors/temper-buff-major.page-type.ts
+index 9bb922ec98eacc19af3af3f226d847c80ef6dd5e..ff477701b3ddbed1799ff09abe98b89ea6369901 100644
+--- a/temper/temper-catalog/temper-effects/buff-majors/temper-buff-major.page-type.ts
++++ b/temper/temper-catalog/temper-effects/buff-majors/temper-buff-major.page-type.ts
+@@ -11,8 +11,8 @@ export const temperBuffMajor = {
+   pluralSlug: "temper-buff-majors",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "description", required: true, many: false },
+-    { pagePropertySlug: "effects", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/effects", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-effects/buff-minors/temper-buff-minor.page-type.ts b/temper/temper-catalog/temper-effects/buff-minors/temper-buff-minor.page-type.ts
+index c74ced619b7a1b5625f8433869184afd4b788f88..077d568b9d9a2b42ca052993278dcae1301a5b06 100644
+--- a/temper/temper-catalog/temper-effects/buff-minors/temper-buff-minor.page-type.ts
++++ b/temper/temper-catalog/temper-effects/buff-minors/temper-buff-minor.page-type.ts
+@@ -11,8 +11,8 @@ export const temperBuffMinor = {
+   pluralSlug: "temper-buff-minors",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "description", required: true, many: false },
+-    { pagePropertySlug: "effects", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/effects", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-effects/buff-others/temper-buff-other.page-type.ts b/temper/temper-catalog/temper-effects/buff-others/temper-buff-other.page-type.ts
+index dbf40e0b004742379fdb91039ee89636c7fa0ab4..4b39924c72c9388e458f0d471f5ccd007e0ab412 100644
+--- a/temper/temper-catalog/temper-effects/buff-others/temper-buff-other.page-type.ts
++++ b/temper/temper-catalog/temper-effects/buff-others/temper-buff-other.page-type.ts
+@@ -11,7 +11,7 @@ export const temperBuffOther = {
+   pluralSlug: "temper-buff-others",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "description", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-effects/curses/temper-curse.page-type.ts b/temper/temper-catalog/temper-effects/curses/temper-curse.page-type.ts
+index bf4cf504ab2f18ceb8028fc27ae6c63fb71100b6..a895eb973bebffd29ac013cd94e939b703e851a1 100644
+--- a/temper/temper-catalog/temper-effects/curses/temper-curse.page-type.ts
++++ b/temper/temper-catalog/temper-effects/curses/temper-curse.page-type.ts
+@@ -15,8 +15,8 @@ export const temperCurse = {
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   partSlugs: ["number-property/eso-curse-ids"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "eso-curse-ids", required: false, many: true, max: null },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    { pagePropertySlug: "number-property/eso-curse-ids", required: false, many: true, max: null },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-effects/debuff-majors/temper-debuff-major.page-type.ts b/temper/temper-catalog/temper-effects/debuff-majors/temper-debuff-major.page-type.ts
+index fa7fce06a4b24fb296838b58b171e0c5f6ebca4e..7f6f623e7498f6b5df4d9b1559b41f7ae002d309 100644
+--- a/temper/temper-catalog/temper-effects/debuff-majors/temper-debuff-major.page-type.ts
++++ b/temper/temper-catalog/temper-effects/debuff-majors/temper-debuff-major.page-type.ts
+@@ -11,8 +11,8 @@ export const temperDebuffMajor = {
+   pluralSlug: "temper-debuff-majors",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "description", required: true, many: false },
+-    { pagePropertySlug: "effects", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
++    { pagePropertySlug: "page-property-entry/effects", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-effects/debuff-minors/temper-debuff-minor.page-type.ts b/temper/temper-catalog/temper-effects/debuff-minors/temper-debuff-minor.page-type.ts
+index cacd3743f06d3233dfd3230652e137e8f19fe66e..fc6d44f17f62a2014cee6f9f2569a9d7c70981e9 100644
+--- a/temper/temper-catalog/temper-effects/debuff-minors/temper-debuff-minor.page-type.ts
++++ b/temper/temper-catalog/temper-effects/debuff-minors/temper-debuff-minor.page-type.ts
+@@ -11,7 +11,7 @@ export const temperDebuffMinor = {
+   pluralSlug: "temper-debuff-minors",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "description", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-effects/debuff-others/temper-debuff-other.page-type.ts b/temper/temper-catalog/temper-effects/debuff-others/temper-debuff-other.page-type.ts
+index 822910c4a406cc47e3eb784f3dfd8d50edf1e1a6..e53237eaf979bc5426d9ba12ca1339b076d1d155 100644
+--- a/temper/temper-catalog/temper-effects/debuff-others/temper-debuff-other.page-type.ts
++++ b/temper/temper-catalog/temper-effects/debuff-others/temper-debuff-other.page-type.ts
+@@ -11,7 +11,7 @@ export const temperDebuffOther = {
+   pluralSlug: "temper-debuff-others",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "description", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-effects/special-effect-types/temper-special-effect-type.page-type.ts b/temper/temper-catalog/temper-effects/special-effect-types/temper-special-effect-type.page-type.ts
+index c6da64a804640fadcbd6ee27b2f5261958d2ea8f..dd32cce87127cd9b129f035d8787686c8e392f9c 100644
+--- a/temper/temper-catalog/temper-effects/special-effect-types/temper-special-effect-type.page-type.ts
++++ b/temper/temper-catalog/temper-effects/special-effect-types/temper-special-effect-type.page-type.ts
+@@ -10,5 +10,5 @@ export const temperSpecialEffectType = {
+   definition: "a kind of effect written as an act rather than as a number",
+   pluralSlug: "temper-special-effect-types",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+-  properties: [{ pagePropertySlug: "key", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-effects/status-effect-types/temper-status-effect-type.page-type.ts b/temper/temper-catalog/temper-effects/status-effect-types/temper-status-effect-type.page-type.ts
+index 46f0322c1c76e00aedba8a2540932fc0dba7d519..ea4b703706b13a328991ceb85eb72907dc3c2f57 100644
+--- a/temper/temper-catalog/temper-effects/status-effect-types/temper-status-effect-type.page-type.ts
++++ b/temper/temper-catalog/temper-effects/status-effect-types/temper-status-effect-type.page-type.ts
+@@ -10,5 +10,5 @@ export const temperStatusEffectType = {
+   definition: "a kind of condition a hit leaves on its target",
+   pluralSlug: "temper-status-effect-types",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+-  properties: [{ pagePropertySlug: "key", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-effects/target-armors/temper-target-armor.page-type.ts b/temper/temper-catalog/temper-effects/target-armors/temper-target-armor.page-type.ts
+index 45441f5caf003752e7dfcecd75f9780ca28c8e69..1e5bb963629b0d446ba342eb2d842b24dbcef2fd 100644
+--- a/temper/temper-catalog/temper-effects/target-armors/temper-target-armor.page-type.ts
++++ b/temper/temper-catalog/temper-effects/target-armors/temper-target-armor.page-type.ts
+@@ -15,7 +15,7 @@ export const temperTargetArmor = {
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   partSlugs: ["number-property/armor"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "armor", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "number-property/armor", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-effects/target-scopes/temper-target-scope.page-type.ts b/temper/temper-catalog/temper-effects/target-scopes/temper-target-scope.page-type.ts
+index 9da64644e797ff76203594887576613e99871daf..e77be51897342cd8d922894cd2dfc229036f4efd 100644
+--- a/temper/temper-catalog/temper-effects/target-scopes/temper-target-scope.page-type.ts
++++ b/temper/temper-catalog/temper-effects/target-scopes/temper-target-scope.page-type.ts
+@@ -10,5 +10,5 @@ export const temperTargetScope = {
+   definition: "the shape of ground an ability reaches over",
+   pluralSlug: "temper-target-scopes",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+-  properties: [{ pagePropertySlug: "key", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-effects/target-types/temper-target-type.page-type.ts b/temper/temper-catalog/temper-effects/target-types/temper-target-type.page-type.ts
+index 4cfd5610d6882b38116b9f76168cf835468e6eee..458144fb602075299fc9cf88ff61d26a8d1f0ddd 100644
+--- a/temper/temper-catalog/temper-effects/target-types/temper-target-type.page-type.ts
++++ b/temper/temper-catalog/temper-effects/target-types/temper-target-type.page-type.ts
+@@ -10,5 +10,5 @@ export const temperTargetType = {
+   definition: "who or what an ability is aimed at",
+   pluralSlug: "temper-target-types",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+-  properties: [{ pagePropertySlug: "key", required: true, many: false }],
++  properties: [{ pagePropertySlug: "text-property/key", required: true, many: false }],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-effects/vampire-stages/temper-vampire-stage.page-type.ts b/temper/temper-catalog/temper-effects/vampire-stages/temper-vampire-stage.page-type.ts
+index 3ec48b000842c7c2334f771a332a7c5b7023711c..9c73c0adf850cf3525a3ff5d3ed8e0baa988a202 100644
+--- a/temper/temper-catalog/temper-effects/vampire-stages/temper-vampire-stage.page-type.ts
++++ b/temper/temper-catalog/temper-effects/vampire-stages/temper-vampire-stage.page-type.ts
+@@ -15,9 +15,9 @@ export const temperVampireStage = {
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   partSlugs: ["number-property/eso-vampire-stage-id"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "description", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "eso-vampire-stage-id", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "text-property/description", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    { pagePropertySlug: "number-property/eso-vampire-stage-id", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-gear/armor-enchants/temper-armor-enchant.page-type.ts b/temper/temper-catalog/temper-gear/armor-enchants/temper-armor-enchant.page-type.ts
+index f8214c1d0da631be7fe343fddd70061a7e37df13..d0ccff9c9de761b761ec0d0758150d7229b18070 100644
+--- a/temper/temper-catalog/temper-gear/armor-enchants/temper-armor-enchant.page-type.ts
++++ b/temper/temper-catalog/temper-gear/armor-enchants/temper-armor-enchant.page-type.ts
+@@ -11,8 +11,8 @@ export const temperArmorEnchant = {
+   pluralSlug: "temper-armor-enchants",
+   extendsSlug: ["page-type/temper-gear-thing"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "eso-enchant-constant-name", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    { pagePropertySlug: "text-property/eso-enchant-constant-name", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-gear/armor-slots/temper-armor-slot.page-type.ts b/temper/temper-catalog/temper-gear/armor-slots/temper-armor-slot.page-type.ts
+index 59056432ad1bcad07af6de585845b927d297d3a9..627e444c7b7e7716781f1f1478a317dea8ac25c9 100644
+--- a/temper/temper-catalog/temper-gear/armor-slots/temper-armor-slot.page-type.ts
++++ b/temper/temper-catalog/temper-gear/armor-slots/temper-armor-slot.page-type.ts
+@@ -11,8 +11,8 @@ export const temperArmorSlot = {
+   pluralSlug: "temper-armor-slots",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "icon", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    { pagePropertySlug: "text-property/icon", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-gear/armor-traits/temper-armor-trait.page-type.ts b/temper/temper-catalog/temper-gear/armor-traits/temper-armor-trait.page-type.ts
+index 6a408f4fe158f624548c6c41b76f7f5334f290b0..f48e31298aa81d0ae044664466ab1768b9e4079f 100644
+--- a/temper/temper-catalog/temper-gear/armor-traits/temper-armor-trait.page-type.ts
++++ b/temper/temper-catalog/temper-gear/armor-traits/temper-armor-trait.page-type.ts
+@@ -11,8 +11,8 @@ export const temperArmorTrait = {
+   pluralSlug: "temper-armor-traits",
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "display-order", required: true, many: false },
+-    { pagePropertySlug: "eso-trait-constant-name", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "number-property/display-order", required: true, many: false },
++    { pagePropertySlug: "text-property/eso-trait-constant-name", required: true, many: false },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-gear/armor-types/temper-armor-type.page-type.ts b/temper/temper-catalog/temper-gear/armor-types/temper-armor-type.page-type.ts
+index 79cbd06b6ee0c99daa5b85c03d066739220090f6..32b9e643c3eb8d0eaaed048394e399e8c40e0b30 100644
+--- a/temper/temper-catalog/temper-gear/armor-types/temper-armor-type.page-type.ts
++++ b/temper/temper-catalog/temper-gear/armor-types/temper-armor-type.page-type.ts
+@@ -17,9 +17,9 @@ export const temperArmorType = {
+   extendsSlug: ["page-type/temper-gear-thing"],
+   partSlugs: ["boolean-property/is-large-enchant-slot", "number-property/armor-multiplier"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "armor-multiplier", required: true, many: false },
+-    { pagePropertySlug: "is-large-enchant-slot", required: true, many: false },
+-    { pagePropertySlug: "valid-slots", required: true, many: true, max: null },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "number-property/armor-multiplier", required: true, many: false },
++    { pagePropertySlug: "boolean-property/is-large-enchant-slot", required: true, many: false },
++    { pagePropertySlug: "text-property/valid-slots", required: true, many: true, max: null },
+   ],
+ } as const satisfies PageType
+diff --git a/temper/temper-catalog/temper-gear/armor-weights/temper-armor-weight.page-type.ts b/temper/temper-catalog/temper-gear/armor-weights/temper-armor-weight.page-type.ts
+index 0feba0b2372adfbb9d5a3a214e8162534af1e1b8..8c9de6d4257bd21faa03ca41420aa62553e61240 100644
+--- a/temper/temper-catalog/temper-gear/armor-weights/temper-armor-weight.page-type.ts
++++ b/temper/temper-catalog/temper-gear/armor-weights/temper-armor-weight.page-type.ts
+@@ -17,9 +17,9 @@ export const temperArmorWeight = {
+   extendsSlug: ["page-type/temper-catalog-thing"],
+   partSlugs: ["boolean-property/is-standard", "number-property/armor-base-value"],
+   properties: [
+-    { pagePropertySlug: "key", required: true, many: false },
+-    { pagePropertySlug: "armor-base-value", required: true, many: false },
+-    { pagePropertySlug: "is-standard", required: true, many: false },
+-    { pagePropertySlug: "skill-line-id", required: true, many: false },
++    { pagePropertySlug: "text-property/key", required: true, many: false },
++    { pagePropertySlug: "number-property/armor-base-value", required: true, many: false },
++    { pagePropertySlug: "boolean-property/is-standard", required: true, many: false },
++    { pagePropertySlug: "text-property/skill-line-id", required: true, many: false },
+   ],
+ } as const satisfies PageType
