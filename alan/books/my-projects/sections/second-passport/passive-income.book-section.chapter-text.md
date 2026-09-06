@@ -1,7 +1,7 @@
 > Passive-income / capital-driven residency-to-citizenship paths surviving the active-work-optionality filter for a US-citizen family (married + 3 kids relocating together) pursuing EU/non-EU citizenship without renouncing US. Includes Golden Visa routes (Tier 0 warehouse permits + Tier 1 capital lock) and the two surviving passive-income permits (Portugal D7, France Visitor) where active work is also allowed. Excluded passive paths and excluded Golden Visa paths (Cyprus Reg 6(2), Greece GV — prohibit work) listed at end. Companion to active-income.md. May 2026 snapshot.
 
 
-For active-work / self-employment / digital-nomad paths, see [active-income.md](active-income.book-chapter.md). Full country surface lives at [eu/citizenship/summary.md](eu/citizenship/summary.book-chapter.md), [eu/residency/summary.md](eu/residency/summary.book-chapter.md), [other/citizenship/summary.md](other/citizenship/summary.book-chapter.md), [other/residency/summary.md](other/residency/summary.book-chapter.md).
+For active-work / self-employment / digital-nomad paths, see [active-income.md](active-income.book-chapter.md). Full country surface lives at [eu-citizenship/summary.md](eu-citizenship/summary.book-chapter.md), [eu-residency/summary.md](eu-residency/summary.book-chapter.md), [other-citizenship/summary.md](other-citizenship/summary.book-chapter.md), [other-residency/summary.md](other-residency/summary.book-chapter.md).
 
 ## Tier 0 — Warehouse Golden Visa with full work rights (0–7 d/yr to maintain)
 

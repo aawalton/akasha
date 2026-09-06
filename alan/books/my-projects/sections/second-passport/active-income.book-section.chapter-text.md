@@ -1,7 +1,7 @@
 > Active-income / self-employment / digital-nomad residency-to-citizenship paths surviving the active-work-optionality filter for a US-citizen family (married + 3 kids relocating together) pursuing EU/non-EU citizenship without renouncing US. Includes self-employment / freelancer permits (Belgium Flanders, Germany Freiberufler, Poland JDG, Romania PFA, France Profession Libérale / Création d'Entreprise) and digital nomad permits (Greece DNV, Italy DNV, Romania DNV, Portugal D8). Companion to passive-income.md. Excluded discretionary, study, continuous-residency, and lottery-tier paths listed at end. May 2026 snapshot.
 
 
-For passive-income / Golden Visa paths, see [passive-income.md](passive-income.book-chapter.md). Full country surface lives at [eu/citizenship/summary.md](eu/citizenship/summary.book-chapter.md), [eu/residency/summary.md](eu/residency/summary.book-chapter.md), [other/citizenship/summary.md](other/citizenship/summary.book-chapter.md), [other/residency/summary.md](other/residency/summary.book-chapter.md).
+For passive-income / Golden Visa paths, see [passive-income.md](passive-income.book-chapter.md). Full country surface lives at [eu-citizenship/summary.md](eu-citizenship/summary.book-chapter.md), [eu-residency/summary.md](eu-residency/summary.book-chapter.md), [other-citizenship/summary.md](other-citizenship/summary.book-chapter.md), [other-residency/summary.md](other-residency/summary.book-chapter.md).
 
 ## Self-employment / freelancer / sole proprietorship
 
