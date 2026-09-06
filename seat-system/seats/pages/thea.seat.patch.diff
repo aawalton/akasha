@@ -843,7 +843,7 @@ index 54432cbc155b468e406c5e61f2bcf09819f8ae6c..b3ec703a7ef2b7241d2899a605d65bcd
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/alan/fitness/exercises/exercise.page-type.ts b/alan/fitness/exercises/exercise.page-type.ts
-index d5a3c3a2dd11b9e64ddd78ca74c2eda4af5b066f..f369e976ec4d3fc6b1483a8ce85045d9df6737a3 100644
+index d5a3c3a2dd11b9e64ddd78ca74c2eda4af5b066f..73385e91f26b00ba11311c6e85529f228f7b269c 100644
 --- a/alan/fitness/exercises/exercise.page-type.ts
 +++ b/alan/fitness/exercises/exercise.page-type.ts
 @@ -116,13 +116,18 @@ export const exercise = {
@@ -867,6 +867,15 @@ index d5a3c3a2dd11b9e64ddd78ca74c2eda4af5b066f..f369e976ec4d3fc6b1483a8ce85045d9
      },
      { pagePropertySlug: "select-property/secondary-pattern", required: false, many: false },
      { pagePropertySlug: "number-property/sfr-score", required: true, many: false },
+@@ -144,7 +149,7 @@ export const exercise = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A movement Alan wrote himself carries no external id, link, image or sync day.",
++      statement: "A movement Alan wrote himself carries nothing an external source would give it.",
+     },
+   ],
+ } as const satisfies PageType
 diff --git a/alan/fitness/exercises/properties/exercise-external-id.text-property.ts b/alan/fitness/exercises/properties/exercise-external-id.text-property.ts
 index e3cb5cba2a0519e24cefffd459f60f3978836d5a..1887b4d4c81d1c5dd58f7a49043ac8e02294f376 100644
 --- a/alan/fitness/exercises/properties/exercise-external-id.text-property.ts
