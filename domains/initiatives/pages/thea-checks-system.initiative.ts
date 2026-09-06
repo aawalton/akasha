@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Four steps: 1 category, 2 right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero. Charge a check only what it adds on a shadow already read: that read is ~650ms the patch pays once for all 14. Peers on at patch run 0-214ms median, typecheck 2858ms. identifier-matches-its-place stays off, 3 findings. key-names-one-property passed step 3 at 6-10ms typical, 530ms touching a root property, 890ms if every page type changes at once; step 4 turns it on.",
+        "Four steps: 1 category, 2 right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero: a flag set true is no proof a check runs. Charge a check only what it adds on a shadow already read; that read is ~650ms the patch pays once for all 14. Peers at patch run 0-214ms median. Widening an approved check needs no approval, and turning one on is widening. identifier-matches-its-place stays off, 3 findings. key-names-one-property is on, refusing 57. lint-clean is next.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
