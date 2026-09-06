@@ -1,6 +1,6 @@
 writerOwesReading: false
 diff --git a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
-index 1771722fee59f958a5fc19b703ddf2880b2ea275..86f20a74866bea72d1933bf42bdef7cc68b89274 100644
+index 1771722fee59f958a5fc19b703ddf2880b2ea275..64e6357e8ad87187933dc31adb29e64bb7c840e8 100644
 --- a/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
 +++ b/checks/code-checks/pages/key-names-one-property/key-names-one-property.code-check.ts
 @@ -20,11 +20,11 @@ export const keyNamesOneProperty = {
@@ -14,6 +14,15 @@ index 1771722fee59f958a5fc19b703ddf2880b2ea275..86f20a74866bea72d1933bf42bdef7cc
        invariantKind: "departure",
 -      statement: "Two declarations at one key naming different properties collide.",
 +      statement: "Two declarations at the same key naming different properties collide.",
+     },
+     {
+       invariantKind: "departure",
+@@ -64,7 +64,7 @@ export const keyNamesOneProperty = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Whether a property is carried once or many never changes.",
++      statement: "Whether a property is carried once or many times never changes.",
      },
      {
        invariantKind: "departure",
