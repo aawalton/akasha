@@ -119184,3 +119184,15 @@ a6Qr5h+5U^q&YU@O24ZP%(PZYG^8WxTp?Na^
 literal 0
 HcmV?d00001
 
+diff --git a/personas/selah/selah.persona.ts b/personas/selah/selah.persona.ts
+index f2b4c772795a4f2df075768b5fc5c17488b4d4d3..efead8fac1bca0ab74d96bed91cc39fb5bf1ed1b 100644
+--- a/personas/selah/selah.persona.ts
++++ b/personas/selah/selah.persona.ts
+@@ -18,6 +18,7 @@ export const selah = {
+     "A warm, low-pitched woman's voice, calm and unhurried, intimate and gentle, with a hushed reverent stillness; speaks softly and close, with quiet steadiness.",
+   voiceReferenceSha256: "1d9f721d47a2254350d563e795e4d6138e59c179d15ac9cd24b8d3cdf2cebcc8",
+   cover: "/api/image/019f324d-657c-7667-ae9c-a4d0e2557563",
++  desktopWallpaper: "png",
+   mobileWallpaper: "png",
+   greenDayPoints: 15,
+   history:
