@@ -5,5 +5,5 @@ export const howTheRightContextReachesAnAgent = {
   pageTypeSlug: "all-about-alan-question",
   slug: "how-the-right-context-reaches-an-agent",
   topicSlug: "why-i-rebuilt-everything",
-  ask: "How do I get an agent the right context at the right time? Abby reads one of mine on 27 August as holding every domain governing its seat and still needing to be told the book about me existed.",
+  ask: "Abby reads an agent of mine on 27 August as holding every domain governing its seat and still needing to be told the book about me existed. How do I get an agent the right context at the right time?",
 } as const satisfies AllAboutAlanQuestion

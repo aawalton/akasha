@@ -5,5 +5,5 @@ export const howShortAnAlignedSuccessorMakesTheWatching = {
   pageTypeSlug: "all-about-alan-question",
   slug: "how-short-an-aligned-successor-makes-the-watching",
   topicSlug: "when-a-company-changes-hands",
-  ask: "A structurally aligned successor, a co-op or a trust, should shorten the watching. How short should the watching then be? I have no rule for it.",
+  ask: "A structurally aligned successor, a co-op or a trust, should shorten the watching, and I have no rule for it. How short should the watching then be?",
 } as const satisfies AllAboutAlanQuestion

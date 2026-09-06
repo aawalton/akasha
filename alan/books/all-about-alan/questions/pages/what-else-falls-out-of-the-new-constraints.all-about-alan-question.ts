@@ -5,5 +5,5 @@ export const whatElseFallsOutOfTheNewConstraints = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-else-falls-out-of-the-new-constraints",
   topicSlug: "when-my-docs-are-my-code",
-  ask: "What else falls out of the new constraints that the old system could not have given me at any price? I am still figuring that out.",
+  ask: "I am still figuring the answer out. What else falls out of the new constraints that the old system could not have given me at any price?",
 } as const satisfies AllAboutAlanQuestion

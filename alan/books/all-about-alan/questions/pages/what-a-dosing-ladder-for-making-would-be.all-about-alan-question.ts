@@ -5,5 +5,5 @@ export const whatADosingLadderForMakingWouldBe = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-a-dosing-ladder-for-making-would-be",
   topicSlug: "why-making-things-hurts",
-  ask: "What dose, what ceiling and what ladder would the graduated-dosing apparatus have here? The apparatus is scoped to connection and was never brought to making.",
+  ask: "The graduated-dosing apparatus is scoped to connection and was never brought to making. What dose, what ceiling and what ladder would the apparatus have for making?",
 } as const satisfies AllAboutAlanQuestion

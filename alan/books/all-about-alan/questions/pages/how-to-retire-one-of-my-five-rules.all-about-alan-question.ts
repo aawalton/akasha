@@ -5,5 +5,5 @@ export const howToRetireOneOfMyFiveRules = {
   pageTypeSlug: "all-about-alan-question",
   slug: "how-to-retire-one-of-my-five-rules",
   topicSlug: "the-five-rules-i-grew-up-with",
-  ask: "How do I retire one of the five rules? This is where a disbelieved reflex still firing bites hardest.",
+  ask: "Retiring a rule is where a disbelieved reflex still firing bites hardest. How do I retire one rule of the five?",
 } as const satisfies AllAboutAlanQuestion

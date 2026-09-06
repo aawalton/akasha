@@ -5,5 +5,5 @@ export const whatEachJobCostMeYearByYear = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-each-job-cost-me-year-by-year",
   topicSlug: "why-i-stopped-working",
-  ask: "What did each role actually cost me, year by year? Only the last role is anchored, and the rest would make the ratchet something that could be shown wrong.",
+  ask: "Only the last role is anchored, and the rest would make the ratchet something that could be shown wrong. What did each role actually cost me, year by year?",
 } as const satisfies AllAboutAlanQuestion
