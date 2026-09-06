@@ -1,0 +1,17 @@
+diff --git a/seat-system/supervising/tick-deadline/tick-deadline.module.ts b/seat-system/supervising/tick-deadline/tick-deadline.module.ts
+index 6306501c3122d4200c6ec6f9bd0460d91fa59466..15ce064ef05296281b5f8e2bc1fcd7340f5f56ec 100644
+--- a/seat-system/supervising/tick-deadline/tick-deadline.module.ts
++++ b/seat-system/supervising/tick-deadline/tick-deadline.module.ts
+@@ -22,7 +22,11 @@ export const tickDeadline = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A timer left behind holds the process up, so every race clears its own.",
++      statement: "A timer left behind holds the process up.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every race clears its own timer.",
+     },
+     {
+       invariantKind: "departure",
