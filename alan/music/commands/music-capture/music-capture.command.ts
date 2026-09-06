@@ -22,7 +22,7 @@ export const musicCapture = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Capture adds to the rows filed and rewrites none of the rows filed.",
+      statement: "Capture adds to the rows filed and rewrites no row already filed.",
     },
 
     {
@@ -43,7 +43,7 @@ export const musicCapture = {
     },
     {
       invariantKind: "departure",
-      statement: "The listens and the heard tracks land as one commit or as none.",
+      statement: "The listens and the heard tracks land as a single commit or not at all.",
     },
     {
       invariantKind: "departure",
