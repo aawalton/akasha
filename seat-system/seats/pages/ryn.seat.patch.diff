@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts b/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
-index 52ec3872487ea29ca33e3cad5a746f192b4f7296..e18f87c17849486e2378b6d71febab8939147db4 100644
+index 52ec3872487ea29ca33e3cad5a746f192b4f7296..53515193c5c74fd1a1388b6e3d2ac6cdccc824ee 100644
 --- a/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
 +++ b/alan/harness/monarch/rule-clauses/monarch-rule-clauses.module.ts
 @@ -9,7 +9,7 @@ export const monarchRuleClauses = {
@@ -11,7 +11,7 @@ index 52ec3872487ea29ca33e3cad5a746f192b4f7296..e18f87c17849486e2378b6d71febab89
      },
      {
        invariantKind: "departure",
-@@ -17,13 +17,11 @@ export const monarchRuleClauses = {
+@@ -17,18 +17,15 @@ export const monarchRuleClauses = {
      },
      {
        invariantKind: "departure",
@@ -24,6 +24,12 @@ index 52ec3872487ea29ca33e3cad5a746f192b4f7296..e18f87c17849486e2378b6d71febab89
 -      statement:
 -        "A clause holding no values is refused, because that clause would weigh against nothing.",
 +      statement: "A clause holding no values is refused.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A rule stating no clause is refused, because that rule would catch every transaction there is.",
++      statement: "A rule stating no clause is refused.",
      },
      {
        invariantKind: "departure",
