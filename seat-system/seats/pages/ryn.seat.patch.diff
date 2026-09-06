@@ -1,0 +1,17 @@
+diff --git a/alan/fitness/exercise-access/exercise-choosing/exercise-choosing.module.ts b/alan/fitness/exercise-access/exercise-choosing/exercise-choosing.module.ts
+index 0aac8d9813bb3c544b8f35e82caae9ef23e646f8..ba3dbaff49b6f710cd020d6f26da4d9c2e62a1cd 100644
+--- a/alan/fitness/exercise-access/exercise-choosing/exercise-choosing.module.ts
++++ b/alan/fitness/exercise-access/exercise-choosing/exercise-choosing.module.ts
+@@ -9,7 +9,11 @@ export const exerciseChoosing = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A value is said as its label or as its dashed id, and either is taken.",
++      statement: "A value is said as its label or as its dashed id.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Either spelling is taken.",
+     },
+     {
+       invariantKind: "departure",
