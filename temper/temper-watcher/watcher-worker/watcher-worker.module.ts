@@ -14,7 +14,7 @@ export const watcherWorker = {
     },
     {
       invariantKind: "departure",
-      statement: "The start is handed a collaborator rather than reaching for one.",
+      statement: "The start is handed a collaborator rather than reaching for a collaborator.",
     },
     {
       invariantKind: "departure",
@@ -31,7 +31,7 @@ export const watcherWorker = {
     {
       invariantKind: "departure",
       statement:
-        "The queue running uploads in turn runs each upload after the one before that upload ends.",
+        "The queue running uploads in turn runs each upload after the upload before that upload ends.",
     },
     {
       invariantKind: "departure",
