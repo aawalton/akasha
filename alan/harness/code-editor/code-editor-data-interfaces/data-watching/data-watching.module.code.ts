@@ -13,7 +13,7 @@ import { dirname, join } from "node:path"
 import { akashaRoot, akashaSeatsThatExist } from "@akasha/seat-system/seat-akasha-beside"
 import { colorOfState } from "@akasha/seat-system/seat-turn-color"
 import { SEAT_TURN_STATES, seatTurnStateOf } from "@akasha/seat-system/seat-turn-state"
-import { followWithin } from "@akasha/service-system/file-following"
+import { followFolders, followWithin } from "@akasha/service-system/file-following"
 import { agentTreeLine, statusBarLine } from "../beat-drawing/beat-drawing.module.code.ts"
 import {
   decide,
@@ -41,11 +41,12 @@ const INTERFACES_AT = "alan/harness/code-editor/code-editor-data-interfaces/page
 const SCRATCH_AT = "alan/harness/code-editor/code-editor-data-interfaces"
 const SEATS_AT = "seat-system/seats/pages"
 const TURN_STATES_AT = "seat-system/seat-turn-states/pages"
-// Every tree is read out of the akasha index, and the index says it moved by one small file.
-// Watching that beats watching every source file: the editor watched `**/*.ts`, 42 writes a
-// minute of which 11 in 318 could move a row.
-const INDEX_AT = ".git/data/index"
-const INDEX_STAMP = "stamp.jsonl"
+// Every tree is read out of the akasha index. Watching the index beats watching every source file:
+// the editor watched `**/*.ts`, 42 writes a minute of which 11 in 318 could move a row. This one
+// folder holds a file for each page type and is written whenever a page of that type lands, so an
+// event there says the index moved. It is followed for its events alone: the folder runs to 387
+// files and 39 MB, which is far more than reading it at every write is worth.
+const INDEX_VALUE_AT = ".git/data/index/value"
 const SIDECAR = ".uncommitted.ts"
 const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
 const SETTLE_MS = 25
@@ -55,10 +56,12 @@ const STATUS_EVERY_MS = 30_000
 
 // One picture, the folders it is made from, and the cooldown it is written under. `holds` answers
 // whether a file is one this picture reads, so a change reaches only the pictures it can move.
+// A picture moving with the index is worked out again on any event under the index instead.
 type Picture = {
   readonly cooldownMs: number
   readonly folders: readonly string[]
   readonly holds: (at: string) => boolean
+  readonly movesWithIndex?: boolean
   readonly line: () => string | null
   readonly refresh?: () => Promise<undefined>
   readonly everyMs?: number
@@ -156,7 +159,6 @@ async function refreshStatusBar(): Promise<undefined> {
 export function picturesOf(root: string): ReadonlyMap<string, Picture> {
   const seats = join(root, SEATS_AT)
   const turnStates = join(root, TURN_STATES_AT)
-  const index = join(root, INDEX_AT)
   return new Map<string, Picture>([
     [
       "agent-colors",
@@ -202,12 +204,12 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "work-tree",
       {
         cooldownMs: 1_000,
-        folders: [index, seats, turnStates],
+        folders: [seats, turnStates],
         holds: either(
-          within(index, INDEX_STAMP),
           within(seats, SIDECAR, ".seat.ts"),
           within(turnStates, ".seat-turn-state.ts")
         ),
+        movesWithIndex: true,
         line: () => workTreeLine(root),
         held: NOTHING_WRITTEN,
         waking: null,
@@ -217,8 +219,9 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "domain-tree",
       {
         cooldownMs: 1_000,
-        folders: [index],
-        holds: within(index, INDEX_STAMP),
+        folders: [],
+        holds: () => false,
+        movesWithIndex: true,
         line: () => domainTreeLine(root),
         held: NOTHING_WRITTEN,
         waking: null,
@@ -228,8 +231,9 @@ export function picturesOf(root: string): ReadonlyMap<string, Picture> {
       "page-tree",
       {
         cooldownMs: 1_000,
-        folders: [index],
-        holds: within(index, INDEX_STAMP),
+        folders: [],
+        holds: () => false,
+        movesWithIndex: true,
         line: () => pageTreeLine(root),
         held: NOTHING_WRITTEN,
         waking: null,
@@ -323,9 +327,19 @@ export function watchEditorData(): () => undefined {
     },
     SETTLE_MS
   )
+  const indexed = followFolders(
+    new Set([join(root, INDEX_VALUE_AT)]),
+    () => {
+      for (const [slug, picture] of pictures) {
+        if (picture.movesWithIndex === true) keep(root, slug, picture)
+      }
+    },
+    SETTLE_MS
+  )
   return () => {
     for (const beat of beats) clearInterval(beat)
     following.stop()
+    indexed.stop()
     return undefined
   }
 }

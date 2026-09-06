@@ -41,6 +41,18 @@ export const dataWatching = {
     },
     {
       invariantKind: "departure",
+      statement: "A picture built out of the index says so rather than naming a file in the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Such a picture is taken again on any event under the index.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index is followed for those events rather than read at each one.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A seat that appears while the service runs is read from then on.",
     },
     {
