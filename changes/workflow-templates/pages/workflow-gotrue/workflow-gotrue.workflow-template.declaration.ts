@@ -2,7 +2,7 @@ import { IMAGES } from "@akasha/workflow-language/images"
 import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
 import { applyRbac } from "@akasha/workflow-language/rbac-apply"
 import { retryTransientDdl } from "@akasha/workflow-language/retry-transient-ddl"
-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
 import { step } from "@akasha/workflow-language/step"
 import { verifyRolloutCommands } from "@akasha/workflow-language/verify-rollout"
 import { workflow } from "@akasha/workflow-language/workflow"
@@ -33,20 +33,11 @@ export default workflow("gotrue", {
     },
 
     {
-      ...sopsDecryptApply({
+      ...secretPlaceApply({
         name: "gotrue-apply-supabase-auth-admin-secrets",
         namespace: "postgres",
-        secretFile:
-          "service-system/cluster-services/pages/gotrue/supabase-auth-admin.k8s-secret.sops.yaml",
+        resource: "supabase-auth-admin-secrets",
       }),
-      commands: (ci) => [
-        "set -e",
-        `CONTENT_HASH="${ci.inputsHash}"`,
-        ...SKIP_CHECK,
-        `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/gotrue/supabase-auth-admin.k8s-secret.sops.yaml)`,
-        `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
-        `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
-      ],
       dependsOn: ["gotrue-apply-namespace"],
     },
 
