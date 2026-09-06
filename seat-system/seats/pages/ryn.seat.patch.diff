@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/agents/models/gateway/modules/auth-failed-retry/auth-failed-retry.module.ts b/agents/models/gateway/modules/auth-failed-retry/auth-failed-retry.module.ts
+index 049929ea76aea973d0ab67f131e72b04d7b29b8f..a9ef778644e196b976944761e32ef1d425106519 100644
+--- a/agents/models/gateway/modules/auth-failed-retry/auth-failed-retry.module.ts
++++ b/agents/models/gateway/modules/auth-failed-retry/auth-failed-retry.module.ts
+@@ -26,7 +26,7 @@ export const authFailedRetry = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A store holding a token other than the one that failed is a retry.",
++      statement: "A store holding a token other than the token that failed is a retry.",
+     },
+     {
+       invariantKind: "departure",
