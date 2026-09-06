@@ -24,6 +24,19 @@ index 9121632423cf48ec65f7a9ddf20ed12e6260a2c0..d65b66cc3a1d6228db5b7e3387970db5
    pageTypeSlug: "module",
    slug: "buildkit",
    definition: "a step building an image through buildctl, retried where the failure was in passing",
+diff --git a/changes/workflow-language/checksum-hash/checksum-hash.module.ts b/changes/workflow-language/checksum-hash/checksum-hash.module.ts
+index 21702f4eb50881a6ff037e504b8778d08bf83b5d..c4035a6b5975d64835304e2c0790a709d30b88d2 100644
+--- a/changes/workflow-language/checksum-hash/checksum-hash.module.ts
++++ b/changes/workflow-language/checksum-hash/checksum-hash.module.ts
+@@ -1,7 +1,7 @@
+ import type { Module } from "../../../code-system/modules/module.page-type.ts"
+ 
+ export const checksumHash = {
+-  id: "01a06f10-7000-7009-b0009-9d4a2f6c0009e1",
++  id: "01a07740-d031-79b0-b157-269a2eb21f84",
+   pageTypeSlug: "module",
+   slug: "checksum-hash",
+   definition: "shell lines hashing a subject and refusing a subject that read empty",
 diff --git a/pages/page.page-type.ts b/pages/page.page-type.ts
 index d994cd544ddf24d8bffa4e4584858d14b102fad4..68d748f166828dcf13f9afab979a9d0854b7453b 100644
 --- a/pages/page.page-type.ts
