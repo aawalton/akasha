@@ -1,5 +1,5 @@
 diff --git a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
-index e4a067b2d2530db18f5b8c041a41c30da030aa54..5de6286d774e2c3fbaa5bc95b58ac8a602f62bd7 100644
+index e4a067b2d2530db18f5b8c041a41c30da030aa54..03f0cfb4ac31cf7ffa84701e2ce0ee9e77a40a78 100644
 --- a/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 +++ b/alan/harness/surplus/surplus-fall-notifying/surplus-fall-notifying.module.ts
 @@ -15,18 +15,24 @@ export const surplusFallNotifying = {
@@ -29,6 +29,15 @@ index e4a067b2d2530db18f5b8c041a41c30da030aa54..5de6286d774e2c3fbaa5bc95b58ac8a6
 +    {
 +      invariantKind: "departure",
 +      statement: "A notification names its rung in its own source.",
+     },
+     {
+       invariantKind: "departure",
+@@ -40,7 +46,7 @@ export const surplusFallNotifying = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The readout, its scale and the day's reading are read on the tick rather than compiled in.",
++        "The readout and its scale and the day's reading are read on the tick rather than compiled in.",
      },
      {
        invariantKind: "departure",
