@@ -1,5 +1,5 @@
 diff --git a/code-system/ios-apps/app-building/app-building.module.test.ts b/code-system/ios-apps/app-building/app-building.module.test.ts
-index d963d34d22fdf19d1ae83beb14fc3c9e7b2af121..ed9b997221c85211d9b2f627ae94e655165b5f68 100644
+index d963d34d22fdf19d1ae83beb14fc3c9e7b2af121..ef8d1293eb1fd3b8f2ef4d7eb9e8acda865d6e1c 100644
 --- a/code-system/ios-apps/app-building/app-building.module.test.ts
 +++ b/code-system/ios-apps/app-building/app-building.module.test.ts
 @@ -1,7 +1,7 @@
@@ -10,4 +10,14 @@ index d963d34d22fdf19d1ae83beb14fc3c9e7b2af121..ed9b997221c85211d9b2f627ae94e655
 +import { listedFiled } from "@akasha/indexes/testing"
  import { put } from "@akasha/testing-system/putting"
  import { planFor, SHARED_PATHS } from "./app-building.module.code.ts"
+ 
+@@ -38,9 +38,6 @@ function namingNoBuildScript(): string {
+   const at = scratch.rootFor("akasha-app-building-")
+   put(at, QUIET_AT, QUIET_BODY)
+   listedFiled(at, "ios-app", "quiet", [{ path: QUIET_AT, id: QUIET_ID }])
+-  valueAlsoFiled(at, "ios-app", [
+-    { path: QUIET_AT, value: { id: QUIET_ID, pageTypeSlug: "ios-app", slug: "quiet" } },
+-  ])
+   return at
+ }
  
