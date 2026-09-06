@@ -331,3 +331,35 @@ index 19b936eda65f168178f1a71866e47831687f3844..cdd33bd6f3441188f50c84e49b2c2152
 +  const updated = statedAt(values[INTELLIGENCE_TOPICS])
 +  return updated === null ? null : updated / TOPICS_TO_THE_POINT
  }
+diff --git a/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.test.ts b/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.test.ts
+index e0dfbc4ba9890a43be24c82a9bc1ba9f69e219fa..030240eb1dd12d9af3727f41ba255d0f4b05522d 100644
+--- a/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.test.ts
++++ b/readout-system/readouts/pages/attribute-intelligence/attribute-intelligence.readout.test.ts
+@@ -1,16 +1,21 @@
+ import { expect, test } from "bun:test"
+-import { intelligenceIn, WORDS_TO_THE_POINT } from "./attribute-intelligence.readout.code.ts"
++import { intelligenceIn, TOPICS_TO_THE_POINT } from "./attribute-intelligence.readout.code.ts"
+ 
+-const held = (figure: unknown) => ({ "intelligence-words": figure })
++const held = (figure: unknown) => ({ "intelligence-topics": figure })
+ 
+ test("the reading is the figure over the amount one point costs", () => {
+-  expect(WORDS_TO_THE_POINT).toBe(10000)
+-  expect(intelligenceIn(held(10000))).toBeCloseTo(1, 10)
+-  expect(intelligenceIn(held(10000 * 2))).toBeCloseTo(2, 10)
++  expect(TOPICS_TO_THE_POINT).toBe(4)
++  expect(intelligenceIn(held(4))).toBeCloseTo(1, 10)
++  expect(intelligenceIn(held(8))).toBeCloseTo(2, 10)
++})
++
++test("the rungs Alan set fall where his topic counts fall", () => {
++  expect(intelligenceIn(held(1))).toBeCloseTo(0.25, 10)
++  expect(intelligenceIn(held(2))).toBeCloseTo(0.5, 10)
+ })
+ 
+ test("a figure given as text is read as the number that text spells", () => {
+-  expect(intelligenceIn(held(String(10000)))).toBeCloseTo(1, 10)
++  expect(intelligenceIn(held(String(4)))).toBeCloseTo(1, 10)
+ })
+ 
+ test("a reading of zero is a reading rather than an absent one", () => {
