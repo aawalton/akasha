@@ -11,9 +11,6 @@ export const amyAlanHarnessImprovements = {
       statement: "The persona Alan messaged most recently is tracked reliably in the code editor.",
     },
     {
-      statement: "Alan's desktop wallpaper shows the persona he messaged most recently.",
-    },
-    {
       statement:
         "`akasha measure attributes` answers each attribute's total level, floored to two decimals.",
       workingMemory:
