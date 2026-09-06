@@ -1,122 +1,52 @@
 import { afterAll, expect, test } from "bun:test"
-import { mkdirSync, rmSync, writeFileSync } from "node:fs"
-import { dirname, join } from "node:path"
 import { patchIn } from "@akasha/agents/patch-keeping"
-import { textIn } from "@akasha/code/body-text"
 import { said as gitSaid } from "@akasha/git/git-running"
 import { bytesOf as bytes } from "@akasha/testing-system/bodying"
 import { CLASH_MARK } from "../body-merging/body-merging.module.code.ts"
-import { blobsIn, bodyOf } from "../patching/patching.module.code.ts"
-import { scratchWorld } from "../scratching/scratching.module.code.ts"
-import { writing } from "../scratching/scratching.module.test-fixtures.ts"
+import { blobsIn } from "../patching/patching.module.code.ts"
 import {
-  type Draft,
   drafted,
-  type Running,
   resolved,
   runningIn,
+  runningOf,
   tookIn,
   wouldHold,
 } from "./drafting.module.code.ts"
-
-const PAGE = "akasha/seat-system/seat/seats/tester.seat.ts"
-const THEIRS = "akasha/seat-system/subagents/pages/tester-a1.subagent.ts"
-const ONE = "akasha/one.page.ts"
-const TWO = "akasha/two.page.ts"
-const BIN = "akasha/three.page.bin"
-const TEN = "a\nb\nc\nd\ne\nf\ng\nh\ni\nj\n"
-const MOVED = "akasha/moved/one.page.ts"
-const FAR = "akasha/far/one.page.ts"
-const NOT_TEXT = new Uint8Array([0xff, 0xfe, 0x01, 0x02])
-const ALSO_NOT_TEXT = new Uint8Array([0x80, 0x81, 0x03])
-const THEN_NOT_TEXT = new Uint8Array([0xc0, 0xaf, 0x07])
-const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=false"]
-
-const NOTHING_RUNS: Running = { checks: false, writerOwesReading: false }
-
-const BOTH_RUN: Running = { checks: true, writerOwesReading: true }
-
-const CHECKS_RUN: Running = { checks: true, writerOwesReading: false }
-
-const scratch = scratchWorld()
+import {
+  ALSO_NOT_TEXT,
+  BIN,
+  BOTH_RUN,
+  CHECKS_RUN,
+  clashing,
+  draft,
+  draftedBody,
+  draftedBytes,
+  FAR,
+  folding,
+  kindOf,
+  landed,
+  landedBytes,
+  MOVED,
+  NOT_TEXT,
+  NOTHING_RUNS,
+  ONE,
+  PAGE,
+  RESTATED,
+  refs,
+  renamed,
+  repoAt,
+  scratch,
+  swapped,
+  TEN,
+  THEIRS,
+  THEN_NOT_TEXT,
+  TWO,
+  textOr,
+} from "./drafting.module.test-fixtures.ts"
 
 afterAll(() => {
   scratch.sweep()
 })
-
-function bytesOr(held: string | null): Uint8Array | null {
-  return held === null ? null : bytes(held)
-}
-
-function textOr(held: Uint8Array | null | undefined): string | null {
-  return held === null || held === undefined ? null : textIn(held)
-}
-
-function draft(path: string, was: string | null, body: string | null): Draft {
-  return { path, was: bytesOr(was), body: bytesOr(body) }
-}
-
-function landed(root: string, bodies: Readonly<Record<string, string>>): undefined {
-  const paths = Object.keys(bodies)
-  for (const path of paths) writing(root, path, bodies[path] ?? "")
-  gitSaid(root, ["add", "--", ...paths])
-  gitSaid(root, [...WHO, "commit", "-q", "-m", "landed", "--", ...paths])
-}
-
-function landedBytes(root: string, path: string, body: Uint8Array): undefined {
-  const at = join(root, path)
-  mkdirSync(dirname(at), { recursive: true })
-  writeFileSync(at, body)
-  gitSaid(root, ["add", "--", path])
-  gitSaid(root, [...WHO, "commit", "-q", "-m", "landed", "--", path])
-}
-
-function renamed(root: string, from: string, to: string, body: string): undefined {
-  rmSync(join(root, from))
-  writing(root, to, body)
-  gitSaid(root, ["add", "-A", "--", from, to])
-  gitSaid(root, [...WHO, "commit", "-q", "-m", "moved", "--", from, to])
-}
-
-function repoAt(): string {
-  const root = scratch.rootFor("drafting-")
-  gitSaid(root, ["init", "-q", "-b", "main", "."])
-  landed(root, { [ONE]: TEN })
-  return root
-}
-
-function swapped(was: string, from: string, to: string): string {
-  return was.replace(`${from}\n`, `${to}\n`)
-}
-
-function refs(root: string): string {
-  return gitSaid(root, ["for-each-ref", "--format=%(refname)", "refs/akasha/patch"])
-}
-
-function folding(root: string, running: Running, next: Running | null): Running {
-  drafted(root, PAGE, [draft(ONE, TEN, swapped(TEN, "b", "B"))], running)
-  if (next !== null) drafted(root, PAGE, [draft(TWO, null, "fresh\n")], next)
-  return runningIn(patchIn(root, PAGE))
-}
-
-function draftedBytes(root: string, path: string): Uint8Array | null {
-  const patch = patchIn(root, PAGE)
-  if (patch === null) return null
-  const blobs = blobsIn(patch).get(path)
-  return blobs === undefined ? null : bodyOf(root, blobs.result)
-}
-
-function draftedBody(root: string, path: string): string | null {
-  return textOr(draftedBytes(root, path))
-}
-
-function clashing(root: string): undefined {
-  drafted(root, PAGE, [draft(ONE, TEN, swapped(TEN, "b", "B"))])
-  landed(root, { [ONE]: swapped(TEN, "b", "X") })
-  const said = drafted(root, PAGE, [draft(TWO, null, "fresh\n")])
-  if ("why" in said) throw new Error(said.why)
-  expect(said.clashed).toEqual([ONE])
-}
 
 test("a patch taken in is folded into the patch taking it, and the one it came from goes", () => {
   const root = repoAt()
@@ -378,4 +308,23 @@ test("what a patch runs is folded one field at a time", () => {
 
 test("a patch carrying no line before the first diff header runs both", () => {
   expect(runningIn(`diff --git a/${ONE} b/${ONE}\n`)).toEqual(BOTH_RUN)
+})
+
+test("a change kind says what a patch runs, its checks apart from each reading owed", () => {
+  expect(runningOf(kindOf(true, true, true))).toEqual(BOTH_RUN)
+  expect(runningOf(kindOf(true, true, false))).toEqual(RESTATED)
+  expect(runningOf(kindOf(true, false, false))).toEqual(CHECKS_RUN)
+  expect(runningOf(kindOf(false, false, false))).toEqual(NOTHING_RUNS)
+})
+
+test("a call carrying no change kind runs every check and owes every reading", () => {
+  expect(runningOf(undefined)).toEqual(BOTH_RUN)
+})
+
+test("a patch a change staling no reader opened stales none", () => {
+  expect(folding(repoAt(), RESTATED, null)).toEqual(RESTATED)
+})
+
+test("a change staling its readers leaves the whole patch staling them", () => {
+  expect(folding(repoAt(), RESTATED, BOTH_RUN)).toEqual(BOTH_RUN)
 })

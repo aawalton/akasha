@@ -7,7 +7,7 @@ import { put } from "@akasha/testing-system/putting"
 import { patch } from "../commands/patch/patch.command.code.ts"
 import { write } from "../commands/write/write.command.code.ts"
 import { baseOf as headOf } from "../landing/landing.module.code.ts"
-import { landedMechanically, landingAsked, NO_CHECKS, runningOf } from "./asking.module.code.ts"
+import { landedMechanically, landingAsked, NO_CHECKS } from "./asking.module.code.ts"
 import {
   applying,
   asking,
@@ -28,7 +28,6 @@ import {
   REFORMATTED,
   REFUSES_LOOSE,
   REFUSES_TAKING,
-  ranBy,
   reaching,
   repoNoCheckLoads,
   repoWith,
@@ -218,16 +217,6 @@ test("a landing made by a program is told apart from a glass that was broken", a
   expect(said.code).toBe(0)
   expect(said.report).toContain(`a \`change-mechanical\` change ${NO_CHECKS}`)
   expect(said.report.join("\n")).not.toContain("the glass was broken")
-})
-
-test("a change kind says what a draft runs, its checks apart from its warrants", () => {
-  expect(ranBy(true, false)).toEqual({ checks: true, writerOwesReading: false })
-  expect(ranBy(true, true)).toEqual({ checks: true, writerOwesReading: true })
-  expect(ranBy(false, false)).toEqual({ checks: false, writerOwesReading: false })
-})
-
-test("a call carrying no change kind runs every check and every warrant", () => {
-  expect(runningOf(givenIn(""))).toEqual({ checks: true, writerOwesReading: true })
 })
 
 test("a mechanical change under an agent drafts into its patch rather than landing", async () => {

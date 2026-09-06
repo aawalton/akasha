@@ -279,12 +279,11 @@ test("a path taken out leaves a mechanical patch mechanical", async () => {
     { path: ONE, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
     { path: TWO, was: BYTES.encode(WAS), body: BYTES.encode(NOW) },
   ]
-  expect("why" in drafted(root, PAGE, draft, { checks: false, writerOwesReading: false })).toBe(
-    false
-  )
-  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, writerOwesReading: false })
+  const nothing = { checks: false, writerOwesReading: false, readersOweReading: false }
+  expect("why" in drafted(root, PAGE, draft, nothing)).toBe(false)
+  expect(runningIn(patchIn(root, PAGE))).toEqual(nothing)
   expect(dropping(root, PAGE, ["--file-path", ONE]).code).toBe(0)
-  expect(runningIn(patchIn(root, PAGE))).toEqual({ checks: false, writerOwesReading: false })
+  expect(runningIn(patchIn(root, PAGE))).toEqual(nothing)
 })
 
 test("a path a rename left the body at is the path named", async () => {

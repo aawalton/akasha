@@ -8,6 +8,7 @@ import {
   mergedOnto,
   sameBody,
 } from "../body-merging/body-merging.module.code.ts"
+import type { Kind } from "../calling/calling.module.code.ts"
 import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
 import { committed } from "../committing/committing.module.code.ts"
 import { holding } from "../holding/holding.module.code.ts"
@@ -42,13 +43,25 @@ const NOT_OWED_AT = "writerOwesReading: false"
 
 const NOT_OWED_WAS = "runsWarrants: false"
 
+const NOT_STALED_AT = "readersOweReading: false"
+
 const DIFF_AT = "diff --git "
 
-export type Running = { readonly checks: boolean; readonly writerOwesReading: boolean }
+export type Running = {
+  readonly checks: boolean
+  readonly writerOwesReading: boolean
+  readonly readersOweReading: boolean
+}
 
-export const AUTHORED: Running = { checks: true, writerOwesReading: true }
+export const AUTHORED: Running = { checks: true, writerOwesReading: true, readersOweReading: true }
 
-const RUNS_NOTHING: Running = { checks: false, writerOwesReading: false }
+const RUNS_NOTHING: Running = { checks: false, writerOwesReading: false, readersOweReading: false }
+
+export function runningOf(kind: Kind | undefined): Running {
+  if (kind === undefined) return AUTHORED
+  const { runsChecks, writerOwesReading, readersOweReading } = kind
+  return { checks: runsChecks, writerOwesReading, readersOweReading }
+}
 
 export type Draft = {
   readonly path: string
@@ -213,6 +226,7 @@ export function runningIn(patch: string | null): Running {
   return {
     checks: !lines.includes(NO_CHECKS_AT),
     writerOwesReading: !lines.includes(NOT_OWED_AT) && !lines.includes(NOT_OWED_WAS),
+    readersOweReading: !lines.includes(NOT_STALED_AT),
   }
 }
 
@@ -220,6 +234,7 @@ function eitherOf(one: Running, two: Running): Running {
   return {
     checks: one.checks || two.checks,
     writerOwesReading: one.writerOwesReading || two.writerOwesReading,
+    readersOweReading: one.readersOweReading || two.readersOweReading,
   }
 }
 
@@ -227,6 +242,7 @@ function preambleOf(running: Running): string {
   const said = [
     ...(running.checks ? [] : [NO_CHECKS_AT]),
     ...(running.writerOwesReading ? [] : [NOT_OWED_AT]),
+    ...(running.readersOweReading ? [] : [NOT_STALED_AT]),
   ]
   return said.length === 0 ? "" : `${said.join("\n")}\n`
 }

@@ -7,6 +7,7 @@ export const drafting = {
   definition: "the change an agent drafts into its patch rather than onto the tree",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -220,8 +221,24 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
+      statement: "A patch carries whether the checks run on its changes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch carries whether its writer owes reading.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A patch carries whether its readers owe reading again.",
+    },
+    {
+      invariantKind: "departure",
       statement:
-        "A patch carries whether the checks run on its changes and whether the writer owes reading.",
+        "The checks a change kind runs and the readings that kind owes become a patch's flags.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A call carrying no change kind runs every check and owes every reading.",
     },
     {
       invariantKind: "departure",
@@ -230,7 +247,7 @@ export const drafting = {
     },
     {
       invariantKind: "departure",
-      statement: "The checks are unioned apart from the reading the writer owes.",
+      statement: "Each flag a patch carries is unioned on its own.",
     },
     {
       invariantKind: "departure",

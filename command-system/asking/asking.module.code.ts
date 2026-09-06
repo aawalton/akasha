@@ -7,7 +7,7 @@ import { agentPathOf } from "@akasha/context/warranting"
 import { nameFaultIn } from "@akasha/pages/page-export-name"
 import { isMissing } from "@akasha/utils-fs/missing"
 import type { Answer, Given, Kind } from "../calling/calling.module.code.ts"
-import { AUTHORED, type Running } from "../drafting/drafting.module.code.ts"
+import { runningOf } from "../drafting/drafting.module.code.ts"
 import { whyOf } from "../fault-saying/fault-saying.module.code.ts"
 import { CHECKING_AT, gateBuilt, NO_GATE } from "../gate-building/gate-building.module.code.ts"
 import { passedOver, reachedIn } from "../judged-saying/judged-saying.module.code.ts"
@@ -239,12 +239,6 @@ export function noCheckSaid(slug: string): string {
   return `a \`${slug}\` change ${NO_CHECKS}`
 }
 
-export function runningOf(given: Given): Running {
-  const kind = given.changeKind
-  if (kind === undefined) return AUTHORED
-  return { checks: kind.runsChecks, writerOwesReading: kind.writerOwesReading }
-}
-
 function bypassIn(given: Given, asked: Asked): Bypass | null {
   if (asked.glass !== null) return { reason: asked.glass, said: glassSaid(asked.glass) }
   const kind = given.changeKind
@@ -351,7 +345,7 @@ async function draftingAsked(
       asked.read ?? null,
       asRead,
       asked.carries ?? [],
-      { page, running: runningOf(given) }
+      { page, running: runningOf(given.changeKind) }
     )
   } catch (thrown) {
     return { report: [], refusals: [`nothing was drafted — ${whyOf(thrown)}`], code: 3 }
