@@ -13,7 +13,7 @@ export const statusBarSlots = {
     },
     {
       invariantKind: "departure",
-      statement: "Where a slot is drawn among the others is worked out from that order.",
+      statement: "Where a slot is drawn among the other slots is worked out from that order.",
     },
     {
       invariantKind: "departure",
