@@ -98,3 +98,7 @@ export function removePage(world: World, given: RemoveOrdinaryPageAsked): Answer
   if (unnamed.refused !== null) return unnamed
   return guardedBy(world, gathered([...taken, unnamed]), GUARDS)
 }
+
+export function runChange(world: World, given: RemoveOrdinaryPageAsked): Answer {
+  return removePage(world, given)
+}

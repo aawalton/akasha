@@ -93,3 +93,7 @@ export function removePropertyValue(world: World, given: RemovePropertyValueAske
   }
   return answered([writing(given.at, text, without(text, source, owner, owner.properties, at))])
 }
+
+export function runChange(world: World, given: RemovePropertyValueAsked): Answer {
+  return removePropertyValue(world, given)
+}

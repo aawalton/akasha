@@ -27,3 +27,7 @@ export function renamePath(world: World, given: RenamePathAsked): Answer {
   }
   return answered(edits)
 }
+
+export function runChange(world: World, given: RenamePathAsked): Answer {
+  return renamePath(world, given)
+}

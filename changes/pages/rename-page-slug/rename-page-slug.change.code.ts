@@ -215,3 +215,7 @@ export function renameSlug(world: World, given: RenamePageSlugAsked): Answer {
   answers.push(spelled)
   return gathered(answers)
 }
+
+export function runChange(world: World, given: RenamePageSlugAsked): Answer {
+  return renameSlug(world, given)
+}

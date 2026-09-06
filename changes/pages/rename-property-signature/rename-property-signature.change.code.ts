@@ -145,3 +145,7 @@ export function renamePropertySignature(world: World, given: RenamePropertySigna
   }
   return answered(edits)
 }
+
+export function runChange(world: World, given: RenamePropertySignatureAsked): Answer {
+  return renamePropertySignature(world, given)
+}

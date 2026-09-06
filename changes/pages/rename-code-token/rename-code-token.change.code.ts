@@ -85,3 +85,7 @@ export function renameCodeToken(world: World, given: RenameCodeTokenAsked): Answ
     renameLocalVariable(given.at, text, { at: named.getStart(source), to: given.to }),
   ])
 }
+
+export function runChange(world: World, given: RenameCodeTokenAsked): Answer {
+  return renameCodeToken(world, given)
+}

@@ -156,3 +156,7 @@ export function renamePage(world: World, given: RenamePageAsked): Answer {
   }
   return folded
 }
+
+export function runChange(world: World, given: RenamePageAsked): Answer {
+  return renamePage(world, given)
+}

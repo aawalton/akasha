@@ -36,3 +36,7 @@ export function renameExport(world: World, given: RenameExportAsked): Answer {
   const over = [given.at, ...reading.importers]
   return respelled(world.root, given.at, over, given.of, given.to, world.textOf)
 }
+
+export function runChange(world: World, given: RenameExportAsked): Answer {
+  return renameExport(world, given)
+}
