@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const syncRun = {
   id: "01a06580-196a-7001-8989-3755d6f4c2ed",

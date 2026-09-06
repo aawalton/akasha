@@ -1,4 +1,4 @@
-import type { Module } from "../../code-system/modules/module.page-type.ts"
+import type { Module } from "../../../code-system/modules/module.page-type.ts"
 
 export const courseTypes = {
   id: "01a06579-f3d8-7000-9391-77da8f1eff7e",
