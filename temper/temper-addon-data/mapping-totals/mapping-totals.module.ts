@@ -17,7 +17,7 @@ export const mappingTotals = {
     },
     {
       invariantKind: "departure",
-      statement: "A mapping with nothing worth counting says an empty total rather than none.",
+      statement: "A mapping with nothing worth counting says an empty total rather than no total.",
     },
     {
       invariantKind: "departure",
