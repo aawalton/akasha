@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/measure/check-measuring/check-measuring.module.ts b/command-system/commands/measure/check-measuring/check-measuring.module.ts
-index deca30d98dfc44057befd023332874825df0bdac..8cded704322c7c58f628879c2942fefd0be1526d 100644
+index deca30d98dfc44057befd023332874825df0bdac..db1c4c7497560f42183f82468b38b75debebf877 100644
 --- a/command-system/commands/measure/check-measuring/check-measuring.module.ts
 +++ b/command-system/commands/measure/check-measuring/check-measuring.module.ts
 @@ -23,7 +23,7 @@ export const checkMeasuring = {
@@ -40,6 +40,15 @@ index deca30d98dfc44057befd023332874825df0bdac..8cded704322c7c58f628879c2942fefd
        invariantKind: "departure",
 -      statement: "How many runs a phase holds is said beside that phase's averages.",
 +      statement: "The count of runs a phase holds is said beside that phase's averages.",
+     },
+     {
+       invariantKind: "departure",
+@@ -93,7 +95,7 @@ export const checkMeasuring = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A check carrying no patch run is ordered after every check carrying one.",
++      statement: "A check carrying no patch run is ordered after every check carrying a patch run.",
      },
      {
        invariantKind: "departure",
