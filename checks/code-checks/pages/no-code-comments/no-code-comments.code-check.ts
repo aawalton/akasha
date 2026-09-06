@@ -7,7 +7,7 @@ export const noCodeComments = {
   definition: "the check refusing a comment that is none of the code comment forms",
   code: "ts",
   test: "ts",
-  runsOnPatch: false,
+  runsOnPatch: true,
   runsOnWorktree: false,
   runsOnDeploy: false,
   runsOnAudit: false,
