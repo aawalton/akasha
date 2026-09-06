@@ -13,7 +13,7 @@ export const errorUrl = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A url is the one the reporting client was reading.",
+      statement: "A url is the url the reporting client was reading.",
     },
     {
       invariantKind: "gap",
