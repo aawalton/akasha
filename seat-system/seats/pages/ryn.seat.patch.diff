@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/command-system/commands/ios-app/ios-app.command.ts b/command-system/commands/ios-app/ios-app.command.ts
+index 44df9244624ca00fac45fdf3f8f63f2f3c3adc40..a9e764499c17dd7df9e4175d392cba8be28cf690 100644
+--- a/command-system/commands/ios-app/ios-app.command.ts
++++ b/command-system/commands/ios-app/ios-app.command.ts
+@@ -44,7 +44,7 @@ export const iosApp = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A workstation that is not a mac hands the build to one that is.",
++      statement: "A workstation that is not a mac hands the build to a mac.",
+     },
+     {
+       invariantKind: "constraint",
