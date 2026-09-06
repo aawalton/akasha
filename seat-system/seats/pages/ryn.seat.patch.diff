@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/graph/edges/graph-edge.page-type.ts b/graph/edges/graph-edge.page-type.ts
+index d8e8d33f53cd7a623c8c19d9271882bb5c98376a..1c468470d27cefc13157e812ab23c234a1073ed2 100644
+--- a/graph/edges/graph-edge.page-type.ts
++++ b/graph/edges/graph-edge.page-type.ts
+@@ -42,7 +42,7 @@ export const graphEdge = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One doing both says on each edge which that edge was.",
++      statement: "An edge kind named by an index and derived here says which way each edge came.",
+     },
+     {
+       invariantKind: "departure",
