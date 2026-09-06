@@ -67,6 +67,48 @@ index 0000000000000000000000000000000000000000..d7272fcfcf51ee27da06082b4955ad80
 +  }
 +  return new Response("Not Found", { status: 404 })
 +}
+diff --git a/alan/web/routes/wallpaper/wallpaper.route.ts b/alan/web/routes/wallpaper/wallpaper.route.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..2d294d7eb76965e39e4eadaba680ef8dcc308d12
+--- /dev/null
++++ b/alan/web/routes/wallpaper/wallpaper.route.ts
+@@ -0,0 +1,36 @@
++import type { Route } from "@akasha/code/route"
++
++export const wallpaper = {
++  id: "01a07855-477e-7aa1-8183-3cb381287569",
++  pageTypeSlug: "route",
++  slug: "wallpaper",
++  definition: "the persona Alan wrote to most recently, answered as a picture for his phone",
++  code: "ts",
++  urlPath: "api/wallpaper",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The persona answered is the persona Alan wrote to most recently.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A tie is settled by the page id.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The picture is read off the persona's own mobile wallpaper.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A persona carrying no mobile wallpaper is passed over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Personas that went unread are refused rather than answered as no wallpaper.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reaches the object store.",
++    },
++  ],
++} as const satisfies Route
 diff --git a/alan/web/wallpaper-candidates/wallpaper-candidates.module.code.ts b/alan/web/wallpaper-candidates/wallpaper-candidates.module.code.ts
 index 48e681f454cedbd219a2737d7c2d7b12cc63140c..e87a3419c1cec71eaf6bb4a61eef5ce164412696 100644
 --- a/alan/web/wallpaper-candidates/wallpaper-candidates.module.code.ts
