@@ -14,7 +14,8 @@ export const completionGenericCheckerProgress = {
     },
     {
       invariantKind: "departure",
-      statement: "A leaf stating its own numbers is taken over counting that leaf as one of one.",
+      statement:
+        "A leaf stating its own numbers is taken over counting that leaf as a single whole.",
     },
     {
       invariantKind: "departure",
