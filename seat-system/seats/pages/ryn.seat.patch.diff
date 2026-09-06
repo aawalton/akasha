@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts b/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts
+index e41f7c08d70884a86266de70f89dc8d932918ba9..e8b8475e8dbaff8fc8161bea27a91ee945c8761b 100644
+--- a/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts
++++ b/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts
+@@ -29,7 +29,7 @@ export const mobileSimType = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A call naming no element types into the one already focused.",
++      statement: "A call naming no element types into the element already focused.",
+     },
+     {
+       invariantKind: "departure",
