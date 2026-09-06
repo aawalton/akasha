@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/code-system/code-specifier/code-specifier.module.ts b/code-system/code-specifier/code-specifier.module.ts
+index 3e775c977ebcb6169f2f70f3fb7ae9f540b0893c..898bca7d8a7638813c53896e3ba968f48c850762 100644
+--- a/code-system/code-specifier/code-specifier.module.ts
++++ b/code-system/code-specifier/code-specifier.module.ts
+@@ -18,7 +18,7 @@ export const codeSpecifier = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A specifier is one of the strings a body spells.",
++      statement: "A specifier is a string among the strings a body spells.",
+     },
+     {
+       invariantKind: "departure",
