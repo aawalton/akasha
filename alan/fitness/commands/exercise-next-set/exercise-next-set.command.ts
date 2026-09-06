@@ -59,7 +59,7 @@ export const exerciseNextSet = {
     {
       invariantKind: "departure",
       statement:
-        "A slot with no load prescribed says to pick one that holds the range at the RIR target.",
+        "A slot with no load prescribed says to pick a load holding the range at the RIR target.",
     },
     {
       invariantKind: "absence",
@@ -67,7 +67,11 @@ export const exerciseNextSet = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here answers the whole plan; exercise-select is for the whole plan.",
+      statement: "Nothing here answers the whole plan.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The whole plan is answered by exercise-select.",
     },
   ],
 } as const satisfies Command
