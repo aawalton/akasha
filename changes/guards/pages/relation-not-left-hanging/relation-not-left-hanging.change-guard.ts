@@ -56,5 +56,17 @@ export const relationNotLeftHanging = {
       invariantKind: "absence",
       statement: "Nothing here reads the working tree or the index on disk.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A page the change rewrites files no edge to the page taken away.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "A name held by such a page is found by no guard here.",
+    },
+    {
+      invariantKind: "gap",
+      statement: "`relation-resolves` judges the name this guard cannot see.",
+    },
   ],
 } as const satisfies ChangeGuard
