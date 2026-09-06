@@ -10,6 +10,7 @@ export const attributes = {
     "workstation-service/attributes-reading-service",
     "workstation-service/attributes-relay-service",
     "module/attributes-totalling",
+    "module/attributes-levelling",
   ],
   invariants: [
     {

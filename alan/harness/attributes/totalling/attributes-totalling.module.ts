@@ -4,13 +4,29 @@ export const attributesTotalling = {
   id: "01a07899-c5db-720d-b555-089ffd6bae07",
   pageTypeSlug: "module",
   slug: "attributes-totalling",
-  definition: "the points each attribute has earned over every day Alan tracked",
+  definition: "the points each attribute has earned since the day the counting begins",
   code: "ts",
   test: "ts",
   invariants: [
     {
+      invariantKind: "constraint",
+      statement: "Every attribute is counted from 2026-09-06 and from no day earlier.",
+    },
+    {
       invariantKind: "departure",
-      statement: "A total is the sum of an attribute's points over every day Alan tracked.",
+      statement: "A counted day is a tracked day falling on or after the day the counting begins.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A total is the sum of an attribute's points over the counted days.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A day before the day the counting begins is left out of every total.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A date is compared as text rather than as a date.",
     },
     {
       invariantKind: "departure",
@@ -34,15 +50,19 @@ export const attributesTotalling = {
     },
     {
       invariantKind: "departure",
-      statement: "The plants are counted over the span the tracked days cover.",
+      statement: "The plants are counted over the span the counted days cover.",
     },
     {
       invariantKind: "departure",
-      statement: "The span opens where the first tracked day opens.",
+      statement: "The span opens where the first counted day opens.",
     },
     {
       invariantKind: "departure",
-      statement: "The span closes where the last tracked day closes.",
+      statement: "The span closes where the last counted day closes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A span reaching no counted day at all leaves the plants unread rather than zero.",
     },
     {
       invariantKind: "departure",

@@ -37,12 +37,18 @@ const DAY_KEYS = [
 ]
 
 const NO_DAY_TRACKED =
-  "no day is tracked, so the span the plants are counted over is unknown rather than empty"
+  "no day on or after the day the counting begins is tracked, so the span the plants are counted " +
+  "over is unknown rather than empty"
 
 const NO_CHECKOUT =
   "no akasha checkout exists here, so the plants Alan ate are unknown rather than none"
 
 const NOTHING_COUNTED = "no day Alan tracked carries what this attribute counts"
+
+// EVERY ATTRIBUTE IS COUNTED FROM ONE DAY RATHER THAN FROM WHERE ITS OWN TRACKING REACHES BACK TO.
+// Alan ruled the totals count from this day, so the six figures are counted over the same span
+// rather than each attribute reaching back as far as its own tracking happens to run.
+export const ATTRIBUTES_COUNTED_FROM = "2026-09-06"
 
 export type Day = Readonly<Record<string, unknown>>
 
@@ -82,8 +88,16 @@ export function totalOver(
   return held
 }
 
-// EVERY DAY IS READ IN ONE ASK RATHER THAN ONE ASK TO THE DAY. A total spans the whole history, so
-// asking day by day would put a hundred and more reads behind a single figure.
+// A DATE IS COMPARED AS TEXT RATHER THAN AS A DATE. A day states its date as YYYY-MM-DD, and that
+// spelling sorts as text exactly as the days themselves fall, so deciding which days count builds
+// no date and loads no calendar.
+export function daysCounted(days: readonly Day[]): readonly Day[] {
+  return days.filter((day) => String(day[DATE] ?? "") >= ATTRIBUTES_COUNTED_FROM)
+}
+
+// EVERY DAY IS READ IN ONE ASK RATHER THAN ONE ASK TO THE DAY. Every day Alan tracked is read here
+// and the days that count are picked out after, so asking day by day would put a hundred and more
+// reads behind a single figure.
 export function daysTracked(root: string): readonly Day[] {
   const asked = asking(root, { pageTypeSlug: WAKE_DAY, keys: DAY_KEYS } as never)
   if ("refused" in asked) {
@@ -130,13 +144,15 @@ export async function totalAttributes(root: string): Promise<Taken> {
     return { kept, unread }
   }
 
+  const counted = daysCounted(days)
+
   for (const summing of OVER_THE_DAYS) {
-    const total = totalOver(days, summing.pointsOf)
+    const total = totalOver(counted, summing.pointsOf)
     if (total === null) unread.push(`${summing.page} — ${NOTHING_COUNTED}`)
     else kept[summing.page] = total
   }
 
-  const [constitution] = await Promise.allSettled([constitutionOver(days)])
+  const [constitution] = await Promise.allSettled([constitutionOver(counted)])
   if (constitution.status === "fulfilled") kept[CONSTITUTION_PAGE] = constitution.value
   else unread.push(`${CONSTITUTION_PAGE} — ${whyOf(constitution.reason)}`)
 

@@ -1,6 +1,12 @@
 import { expect, test } from "bun:test"
 import { wisdomIn } from "@akasha/readout-system/attribute-wisdom"
-import { charismaOf, type Day, totalOver } from "./attributes-totalling.module.code.ts"
+import {
+  ATTRIBUTES_COUNTED_FROM,
+  charismaOf,
+  type Day,
+  daysCounted,
+  totalOver,
+} from "./attributes-totalling.module.code.ts"
 
 const AT_EASE_WITH_SOMEONE = {
   safetyLevel: "3",
@@ -28,6 +34,31 @@ test("an attribute no day carries a figure for is an absent total", () => {
 
 test("a total over no day at all is absent", () => {
   expect(totalOver([], wisdomIn)).toBeNull()
+})
+
+test("the counting begins on 2026-09-06", () => {
+  expect(ATTRIBUTES_COUNTED_FROM).toBe("2026-09-06")
+})
+
+test("a day before the day the counting begins adds nothing", () => {
+  const days: readonly Day[] = [
+    { date: "2026-03-05", "wisdom-words": 10000 },
+    { date: "2026-09-05", "wisdom-words": 10000 },
+    { date: ATTRIBUTES_COUNTED_FROM, "wisdom-words": 10000 },
+  ]
+  expect(totalOver(daysCounted(days), wisdomIn)).toBe(1)
+})
+
+test("a run of days beginning before the day the counting begins opens on that day", () => {
+  const days: readonly Day[] = [
+    { date: "2026-03-05" },
+    { date: ATTRIBUTES_COUNTED_FROM },
+    { date: "2026-09-07" },
+  ]
+  expect(daysCounted(days).map((day) => day["date"])).toEqual([
+    ATTRIBUTES_COUNTED_FROM,
+    "2026-09-07",
+  ])
 })
 
 test("a day's charisma is the hours of its stretches at ease with someone", () => {
