@@ -64,7 +64,7 @@ export const seat = {
     {
       invariantKind: "departure",
       statement:
-        "A supervisor is signalled only where the start time read now matches the one held.",
+        "A supervisor is signalled only where the start time read now matches the start time held.",
     },
     {
       invariantKind: "departure",
@@ -103,7 +103,7 @@ export const seat = {
     },
     {
       invariantKind: "departure",
-      statement: "A seat to stop, to resume or to reset is named as its page is named.",
+      statement: "A seat to stop or to resume or to reset is named as its page is named.",
     },
     {
       invariantKind: "departure",
@@ -112,11 +112,11 @@ export const seat = {
     {
       invariantKind: "departure",
       statement:
-        "The code a resume, a reset or a start runs is reached only once that act is read.",
+        "The code a resume or a reset or a start runs is reached only once that act is read.",
     },
     {
       invariantKind: "departure",
-      statement: "The output a resume, a reset or a start prints is written where that act runs.",
+      statement: "The output a resume or a reset or a start prints is written where that act runs.",
     },
     {
       invariantKind: "departure",
