@@ -842,6 +842,24 @@ index 54432cbc155b468e406c5e61f2bcf09819f8ae6c..b3ec703a7ef2b7241d2899a605d65bcd
 +  maxLength: 500,
    nameFormatSlug: null,
  } as const satisfies TextProperty
+diff --git a/alan/fitness/exercises/exercise.page-type.ts b/alan/fitness/exercises/exercise.page-type.ts
+index d5a3c3a2dd11b9e64ddd78ca74c2eda4af5b066f..941dd09a5db9823272750f73517d49d34aa5f70f 100644
+--- a/alan/fitness/exercises/exercise.page-type.ts
++++ b/alan/fitness/exercises/exercise.page-type.ts
+@@ -116,7 +116,12 @@ export const exercise = {
+     { pagePropertySlug: "select-property/mechanic", required: false, many: false },
+     { pagePropertySlug: "select-property/movement-pattern", required: true, many: false },
+     { pagePropertySlug: "select-property/muscle-focus", required: true, many: false },
+-    { pagePropertySlug: "select-property/primary-muscles", required: true, many: true, max: null },
++    {
++      pagePropertySlug: "select-property/primary-muscles",
++      required: true,
++      many: true,
++      maxCount: null,
++    },
+     { pagePropertySlug: "select-property/scoring-mode", required: true, many: false },
+     {
+       pagePropertySlug: "select-property/secondary-muscles",
 diff --git a/alan/fitness/exercises/properties/exercise-external-id.text-property.ts b/alan/fitness/exercises/properties/exercise-external-id.text-property.ts
 index e3cb5cba2a0519e24cefffd459f60f3978836d5a..1887b4d4c81d1c5dd58f7a49043ac8e02294f376 100644
 --- a/alan/fitness/exercises/properties/exercise-external-id.text-property.ts
