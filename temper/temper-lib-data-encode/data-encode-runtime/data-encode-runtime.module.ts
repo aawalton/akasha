@@ -17,7 +17,7 @@ export const dataEncodeRuntime = {
     },
     {
       invariantKind: "stopgap",
-      statement: "Debug is on for one named account and for no other.",
+      statement: "Debug is on for a single named account and for no other account.",
     },
   ],
 } as const satisfies Module
