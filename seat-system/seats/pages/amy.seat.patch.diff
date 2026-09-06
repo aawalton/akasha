@@ -1,0 +1,192 @@
+diff --git a/alan/fitness/workout-sessions/pages/friday-pull-2026-06-19-18252e37.workout-session.ts b/alan/fitness/workout-sessions/pages/friday-pull-2026-06-19-18252e37.workout-session.ts
+index 504f75651c902e90adc7d645b2e2436749a657c3..c82f2c048f753236127b7a4e0cacefed25c4403f 100644
+--- a/alan/fitness/workout-sessions/pages/friday-pull-2026-06-19-18252e37.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/friday-pull-2026-06-19-18252e37.workout-session.ts
+@@ -7,6 +7,7 @@ export const fridayPull2026061918252e37 = {
+   title: "Friday pull — 2026-06-19",
+   workoutSessionCompletedAt: "2026-06-19T16:25:35.468Z",
+   workoutSessionDate: "2026-06-19",
++  wakeDaySlug: "wake-day-2026-06-19",
+   notes:
+     "First session back post-2wk illness. Pull: bent-over two-DB rows ramped 15→20→25→30 x10 (30lb working weight found, ~2 RIR). Hammer curls 15lb x10 x2; mild R-elbow pain → stopped loaded work (longevity-first). Pivoted to mobility cool-down (elbow-free): ragdoll fold, standing cat-cow, supine hamstring (~45deg SLR, R tighter), half-kneeling hip flexor. No pain in mobility. Strong, smart return.",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-friday",
+diff --git a/alan/fitness/workout-sessions/pages/friday-pull-2026-06-26-105c11ff.workout-session.ts b/alan/fitness/workout-sessions/pages/friday-pull-2026-06-26-105c11ff.workout-session.ts
+index 66d4760bf6e4713240fe65322abe413eb485a7ff..5619525be6cf0c8e387603bb46a28a03b172d218 100644
+--- a/alan/fitness/workout-sessions/pages/friday-pull-2026-06-26-105c11ff.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/friday-pull-2026-06-26-105c11ff.workout-session.ts
+@@ -7,6 +7,7 @@ export const fridayPull20260626105c11ff = {
+   title: "Friday pull — 2026-06-26",
+   workoutSessionCompletedAt: "2026-06-26T19:17:59.306Z",
+   workoutSessionDate: "2026-06-26",
++  wakeDaySlug: "wake-day-2026-06-26",
+   notes:
+     "Pull day — emergent single-set, indoor (AQI 74)\n\nPull day, emergent single-set, indoor. Row rep-PR (30x17 @RPE7, was 30x12@8). Pivoted to bench-braced one-arm rows after low-back/neck feel at high bent-over reps — back fully supported, he confirmed 'more focused, less side effects'. Shrug bumped 20→25 (sticks). Right elbow FULLY CLEAN on hammer curls (muscle not joint). Finisher: one-arm row MAX 30x30/arm @RPE8 — huge PR.",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-friday",
+diff --git a/alan/fitness/workout-sessions/pages/friday-pull-2026-07-03-50a5aaea.workout-session.ts b/alan/fitness/workout-sessions/pages/friday-pull-2026-07-03-50a5aaea.workout-session.ts
+index 8e1edd5efe2e98b0fc9fc23257f10095906b78d9..6af73e10fd5def125a74a4fdcf7daa4aa297681b 100644
+--- a/alan/fitness/workout-sessions/pages/friday-pull-2026-07-03-50a5aaea.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/friday-pull-2026-07-03-50a5aaea.workout-session.ts
+@@ -7,6 +7,7 @@ export const fridayPull2026070350a5aaea = {
+   title: "Friday pull — 2026-07-03",
+   workoutSessionCompletedAt: "2026-07-03T18:33:59.434Z",
+   workoutSessionDate: "2026-07-03",
++  wakeDaySlug: "wake-day-2026-07-03",
+   notes:
+     "Careful return after 6/30-7/01 home-improvement marathon. Pull scheduled but pivoted to grip-free, spine-light session: soreness in lower back, grip, upper back, neck. Chest/legs fresh.",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-friday",
+diff --git a/alan/fitness/workout-sessions/pages/monday-push-2026-06-22-c565f96c.workout-session.ts b/alan/fitness/workout-sessions/pages/monday-push-2026-06-22-c565f96c.workout-session.ts
+index 07f47db4127924396c3a39ef30d6e544178248ce..d6fcf5c23e203ad505659597ca3439db528f15c6 100644
+--- a/alan/fitness/workout-sessions/pages/monday-push-2026-06-22-c565f96c.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/monday-push-2026-06-22-c565f96c.workout-session.ts
+@@ -7,6 +7,7 @@ export const mondayPush20260622C565f96c = {
+   title: "Monday push — 2026-06-22",
+   workoutSessionCompletedAt: "2026-06-22T21:17:36.749Z",
+   workoutSessionDate: "2026-06-22",
++  wakeDaySlug: "wake-day-2026-06-22",
+   notes:
+     "Push day — first push session on PPL rotation; baselines. Emergent single-set.\n\nFirst push day on PPL rotation — baselines established. DB Bench 30x12 (push anchor), Incline DB 25x8 w/ reserve, Side Lateral 10x12, Close-Grip DB Press 20x12. Right elbow fine throughout; overhead mobility ~50% (wall-slide baseline). Strong day-one, green stoplight.",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-monday",
+diff --git a/alan/fitness/workout-sessions/pages/monday-push-2026-06-29-13d28120.workout-session.ts b/alan/fitness/workout-sessions/pages/monday-push-2026-06-29-13d28120.workout-session.ts
+index b353ec9d349707750a33a171cab4296b6212e552..c34da0aec09998af3921a991c509ab5409718f03 100644
+--- a/alan/fitness/workout-sessions/pages/monday-push-2026-06-29-13d28120.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/monday-push-2026-06-29-13d28120.workout-session.ts
+@@ -7,6 +7,7 @@ export const mondayPush2026062913d28120 = {
+   title: "Monday push — 2026-06-29",
+   workoutSessionCompletedAt: "2026-06-29T17:56:58.626Z",
+   workoutSessionDate: "2026-06-29",
++  wakeDaySlug: "wake-day-2026-06-29",
+   notes:
+     "Push: bench built to 30lb working (10,8 @ slow 3-4s tempo), incline 25x10, found shoulder press weight at 20lb, side delts + triceps. Right elbow clean on overhead ext; left elbow + shoulders the end-of-session limiters. Tempo focus all session.",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-monday",
+diff --git a/alan/fitness/workout-sessions/pages/monday-push-2026-08-10-d0622a4d.workout-session.ts b/alan/fitness/workout-sessions/pages/monday-push-2026-08-10-d0622a4d.workout-session.ts
+index a55d97040c3516539b0082c43e13d8e094b4ed51..73f5c7efb07f3a7adc3c642c4d031d74284f6fc8 100644
+--- a/alan/fitness/workout-sessions/pages/monday-push-2026-08-10-d0622a4d.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/monday-push-2026-08-10-d0622a4d.workout-session.ts
+@@ -7,6 +7,7 @@ export const mondayPush20260810D0622a4d = {
+   title: "Monday push — 2026-08-10",
+   workoutSessionCompletedAt: "2026-08-10T20:25:02.961Z",
+   workoutSessionDate: "2026-08-10",
++  wakeDaySlug: "wake-day-2026-08-10",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-monday",
+   workoutSessionStartedAt: "2026-08-10T19:30:06.722Z",
+ } as const satisfies WorkoutSession
+diff --git a/alan/fitness/workout-sessions/pages/saturday-legs-2026-06-20-14b3a37b.workout-session.ts b/alan/fitness/workout-sessions/pages/saturday-legs-2026-06-20-14b3a37b.workout-session.ts
+index d7be7780e623d41b1b11716c3409e20969b11005..1518ecdf574805dfe5f05689bbecebfda4871b32 100644
+--- a/alan/fitness/workout-sessions/pages/saturday-legs-2026-06-20-14b3a37b.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/saturday-legs-2026-06-20-14b3a37b.workout-session.ts
+@@ -7,6 +7,7 @@ export const saturdayLegs2026062014b3a37b = {
+   title: "Saturday legs — 2026-06-20",
+   workoutSessionCompletedAt: "2026-06-20T17:08:41.948Z",
+   workoutSessionDate: "2026-06-20",
++  wakeDaySlug: "wake-day-2026-06-20",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-saturday",
+   workoutSessionStartedAt: "2026-06-20T16:36:22.186Z",
+ } as const satisfies WorkoutSession
+diff --git a/alan/fitness/workout-sessions/pages/saturday-legs-2026-06-27-5c9b6d33.workout-session.ts b/alan/fitness/workout-sessions/pages/saturday-legs-2026-06-27-5c9b6d33.workout-session.ts
+index ec7ea4396f9d16ec4afeb2f1570e3658a0ce322d..6a79e70007425997e541f56f7f03ce6878a2fc85 100644
+--- a/alan/fitness/workout-sessions/pages/saturday-legs-2026-06-27-5c9b6d33.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/saturday-legs-2026-06-27-5c9b6d33.workout-session.ts
+@@ -7,6 +7,7 @@ export const saturdayLegs202606275c9b6d33 = {
+   title: "Saturday legs — 2026-06-27",
+   workoutSessionCompletedAt: "2026-06-27T20:00:58.216Z",
+   workoutSessionDate: "2026-06-27",
++  wakeDaySlug: "wake-day-2026-06-27",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-saturday",
+   workoutSessionStartedAt: "2026-06-27T19:59:16.773Z",
+ } as const satisfies WorkoutSession
+diff --git a/alan/fitness/workout-sessions/pages/saturday-legs-2026-07-25-c0759e62.workout-session.ts b/alan/fitness/workout-sessions/pages/saturday-legs-2026-07-25-c0759e62.workout-session.ts
+index bc64ad239eccf26a5a61d1e45d81e4b16c61f50e..0c778ec0a92ce9235fa7d7687b8d4324c66ad1e1 100644
+--- a/alan/fitness/workout-sessions/pages/saturday-legs-2026-07-25-c0759e62.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/saturday-legs-2026-07-25-c0759e62.workout-session.ts
+@@ -7,6 +7,7 @@ export const saturdayLegs20260725C0759e62 = {
+   title: "Saturday legs — 2026-07-25",
+   workoutSessionCompletedAt: "2026-07-25T13:49:30.692Z",
+   workoutSessionDate: "2026-07-25",
++  wakeDaySlug: "wake-day-2026-07-25",
+   notes:
+     "First session back after 16 days in Europe (walking/stairs/hills, no loading) + a few missed before — 22 days unloaded. FINDINGS: (1) ankle dorsiflexion restriction is the squat limiter — heels lift or chest pitches forward, and under front load the lumbar catches it; (2) goblet position caps leg load via ANTERIOR HOLD fatigue (arms failed first); (3) glute medius is the limiter on single-leg work; (4) right peri-patellar tendon signal on split squat set 2 — strain-not-pain, correctly dosed, ended loaded lunges. Held Bulgarian split squat at 20 rather than the prescribed 20->25 (see #16062).",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-saturday",
+diff --git a/alan/fitness/workout-sessions/pages/sunday-rest-2026-06-28-9367f37c.workout-session.ts b/alan/fitness/workout-sessions/pages/sunday-rest-2026-06-28-9367f37c.workout-session.ts
+index 57a94f685c7cf0438f8cfd9bd4cdd5e90045d9f7..cc61d88c0e04f62cedd9833f695a68454451e6a9 100644
+--- a/alan/fitness/workout-sessions/pages/sunday-rest-2026-06-28-9367f37c.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/sunday-rest-2026-06-28-9367f37c.workout-session.ts
+@@ -7,6 +7,7 @@ export const sundayRest202606289367f37c = {
+   title: "Sunday rest — 2026-06-28",
+   workoutSessionCompletedAt: "2026-06-28T16:27:08.195Z",
+   workoutSessionDate: "2026-06-28",
++  wakeDaySlug: "wake-day-2026-06-28",
+   notes:
+     "Legs — swapped with Saturday: did light grip strength on 6/27 (his rest/break), so taking the planned Sat legs day today. Well-recovered, last real legs 6/24. Emergent single-set.\n\nLegs (swapped from Sat). 6 movements: Goblet Squat 30x15 R4, DB Rear Lunge 20lb-pair x20 R5 (progressed from 15s), RDL 20lb-pair x20 R6 (accidental double, low-back limiter, sore not strained), Goblet Bulgarian Split Squat 20lb x16 L6/R8 (peak, right edge), Single Leg Glute Bridge BWx20 R7, Standing Calf Raise BWx20 R2. Toe-touch PR: warm-up fold ~4in from floor (best warm-up reading yet), warm cooldown fold about the same. Back stayed safe throughout.",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-sunday",
+diff --git a/alan/fitness/workout-sessions/pages/thursday-push-2026-06-25-bc9bc790.workout-session.ts b/alan/fitness/workout-sessions/pages/thursday-push-2026-06-25-bc9bc790.workout-session.ts
+index a9d635c29dd8517bfd2509310baaedfc07e37ac5..f75840de0f687f9647e3cd4815b247c0f9721284 100644
+--- a/alan/fitness/workout-sessions/pages/thursday-push-2026-06-25-bc9bc790.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/thursday-push-2026-06-25-bc9bc790.workout-session.ts
+@@ -7,6 +7,7 @@ export const thursdayPush20260625Bc9bc790 = {
+   title: "Thursday push — 2026-06-25",
+   workoutSessionCompletedAt: "2026-06-25T21:30:47.731Z",
+   workoutSessionDate: "2026-06-25",
++  wakeDaySlug: "wake-day-2026-06-25",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-thursday",
+   workoutSessionStartedAt: "2026-06-25T21:29:32.511Z",
+ } as const satisfies WorkoutSession
+diff --git a/alan/fitness/workout-sessions/pages/thursday-push-2026-06-25-c82b391f.workout-session.ts b/alan/fitness/workout-sessions/pages/thursday-push-2026-06-25-c82b391f.workout-session.ts
+index 8cffdddb62931487afb33c7e4943a3c56ac7cdf1..e198b1ba1b8b927697ff8e08efceb712aa9ba67a 100644
+--- a/alan/fitness/workout-sessions/pages/thursday-push-2026-06-25-c82b391f.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/thursday-push-2026-06-25-c82b391f.workout-session.ts
+@@ -7,6 +7,7 @@ export const thursdayPush20260625C82b391f = {
+   title: "Thursday push — 2026-06-25",
+   workoutSessionCompletedAt: "2026-06-26T02:05:26.666Z",
+   workoutSessionDate: "2026-06-25",
++  wakeDaySlug: "wake-day-2026-06-25",
+   notes: "Spontaneous bonus set — moment of inspiration after recovery time",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-thursday",
+   workoutSessionStartedAt: "2026-06-26T02:05:03.584Z",
+diff --git a/alan/fitness/workout-sessions/pages/tuesday-pull-2026-06-23-27175e57.workout-session.ts b/alan/fitness/workout-sessions/pages/tuesday-pull-2026-06-23-27175e57.workout-session.ts
+index ecc1e6bf3c25b293c354071411f8784c70984fe5..a319e2f8a12006725c4e4dceea2d20098e6806f7 100644
+--- a/alan/fitness/workout-sessions/pages/tuesday-pull-2026-06-23-27175e57.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/tuesday-pull-2026-06-23-27175e57.workout-session.ts
+@@ -7,6 +7,7 @@ export const tuesdayPull2026062327175e57 = {
+   title: "Tuesday pull — 2026-06-23",
+   workoutSessionCompletedAt: "2026-06-23T18:39:58.475Z",
+   workoutSessionDate: "2026-06-23",
++  wakeDaySlug: "wake-day-2026-06-23",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-tuesday",
+   workoutSessionStartedAt: "2026-06-23T18:14:58.991Z",
+ } as const satisfies WorkoutSession
+diff --git a/alan/fitness/workout-sessions/pages/wednesday-legs-2026-06-24-789253e9.workout-session.ts b/alan/fitness/workout-sessions/pages/wednesday-legs-2026-06-24-789253e9.workout-session.ts
+index 04c16de925459e4ba6c18ac3233df7d17ea7e146..afafe214c07a4daa93c9761d82f11475c0f5e54f 100644
+--- a/alan/fitness/workout-sessions/pages/wednesday-legs-2026-06-24-789253e9.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/wednesday-legs-2026-06-24-789253e9.workout-session.ts
+@@ -7,6 +7,7 @@ export const wednesdayLegs20260624789253e9 = {
+   title: "Wednesday legs — 2026-06-24",
+   workoutSessionCompletedAt: "2026-06-24T17:01:46.128Z",
+   workoutSessionDate: "2026-06-24",
++  wakeDaySlug: "wake-day-2026-06-24",
+   notes:
+     "Legs (emergent). Warm-up: cat-cow, side bends, 12 BW squats, forward-fold (mid-shin→3/4). Working: goblet squat 30x12 RPE3; DB rear lunge 15x20 RPE5; RDL 20x10 RPE6 (low-back limited); SL glute bridge BWx20 RPE6; goblet Bulgarian split squat 20x16 (L RPE6/R RPE8, R balance-limited); goblet squat burnout 30x25 (arm+breathing limited, legs never the cap).",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-wednesday",
+diff --git a/alan/fitness/workout-sessions/pages/wednesday-legs-2026-06-24-85078a04.workout-session.ts b/alan/fitness/workout-sessions/pages/wednesday-legs-2026-06-24-85078a04.workout-session.ts
+index c29760d2983ce93721e568e53c59edf990dfb65d..e72db0898504f91058b80ef813e6977ef495e5f4 100644
+--- a/alan/fitness/workout-sessions/pages/wednesday-legs-2026-06-24-85078a04.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/wednesday-legs-2026-06-24-85078a04.workout-session.ts
+@@ -7,6 +7,7 @@ export const wednesdayLegs2026062485078a04 = {
+   title: "Wednesday legs — 2026-06-24",
+   workoutSessionCompletedAt: "2026-06-24T23:50:35.278Z",
+   workoutSessionDate: "2026-06-24",
++  wakeDaySlug: "wake-day-2026-06-24",
+   notes:
+     "Between-turn movement snacks (LitRPG gaps) — light bodyweight leg volume, heart-pumping, not to the edge",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-wednesday",
+diff --git a/alan/fitness/workout-sessions/pages/wednesday-legs-2026-07-29-4f7e63cc.workout-session.ts b/alan/fitness/workout-sessions/pages/wednesday-legs-2026-07-29-4f7e63cc.workout-session.ts
+index c380ae7e8b720f58cbfde1ddb38a210b9e763c18..cfa118d1a1eb05ed0540240fe31b69e00ce6729c 100644
+--- a/alan/fitness/workout-sessions/pages/wednesday-legs-2026-07-29-4f7e63cc.workout-session.ts
++++ b/alan/fitness/workout-sessions/pages/wednesday-legs-2026-07-29-4f7e63cc.workout-session.ts
+@@ -7,6 +7,7 @@ export const wednesdayLegs202607294f7e63cc = {
+   title: "Wednesday legs — 2026-07-29",
+   workoutSessionCompletedAt: "2026-07-29T14:18:31.077Z",
+   workoutSessionDate: "2026-07-29",
++  wakeDaySlug: "wake-day-2026-07-29",
+   scheduleDaySlug: "push-pull-legs-3beb3d9a-wednesday",
+   workoutSessionStartedAt: "2026-07-29T13:53:03.343Z",
+ } as const satisfies WorkoutSession
