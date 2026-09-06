@@ -1,6 +1,6 @@
-runsWarrants: false
+writerOwesReading: false
 diff --git a/alan/music/commands/music-capture/music-capture.command.ts b/alan/music/commands/music-capture/music-capture.command.ts
-index ce542525ee6dbd8c3cfd9185c324a319d1132c58..bf00bab9b26c1ddb16466bcfac37f8cd61002f15 100644
+index ce542525ee6dbd8c3cfd9185c324a319d1132c58..af98829b55cf56532bb439557f84e0d819a349a5 100644
 --- a/alan/music/commands/music-capture/music-capture.command.ts
 +++ b/alan/music/commands/music-capture/music-capture.command.ts
 @@ -22,7 +22,7 @@ export const musicCapture = {
@@ -12,3 +12,12 @@ index ce542525ee6dbd8c3cfd9185c324a319d1132c58..bf00bab9b26c1ddb16466bcfac37f8cd
      },
  
      {
+@@ -43,7 +43,7 @@ export const musicCapture = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The listens and the heard tracks land as one commit or as none.",
++      statement: "The listens and the heard tracks land as a single commit or not at all.",
+     },
+     {
+       invariantKind: "departure",
