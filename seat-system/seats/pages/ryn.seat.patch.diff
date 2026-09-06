@@ -1,0 +1,22 @@
+diff --git a/seat-system/state-spawned-seat/state-spawned-seat.module.ts b/seat-system/state-spawned-seat/state-spawned-seat.module.ts
+index 0c92c09e0929af498d4eba9dbff220f8cf021070..48a6c755840d9efd6c1ad1dd62263f56689e2d4f 100644
+--- a/seat-system/state-spawned-seat/state-spawned-seat.module.ts
++++ b/seat-system/state-spawned-seat/state-spawned-seat.module.ts
+@@ -9,11 +9,15 @@ export const stateSpawnedSeat = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The stating module is imported from beside this one and its function called.",
++      statement: "The stating module is imported from beside this module and its function called.",
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No command is spawned to state a spawned seat, and no ceiling bounds one.",
++      statement: "No command is spawned to state a spawned seat.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "No ceiling bounds a stating.",
+     },
+     {
+       invariantKind: "departure",
