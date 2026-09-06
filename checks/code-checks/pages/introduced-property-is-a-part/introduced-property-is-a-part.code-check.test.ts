@@ -36,9 +36,10 @@ function pathFor(slug: string): string {
   return `akasha/${slug}.page-type.ts`
 }
 
-function aboveValued(above: string | readonly string[] | null): string | readonly string[] | null {
+function aboveValued(above: string | readonly string[] | null): readonly string[] | null {
   if (above === null) return null
-  return typeof above === "string" ? `page-type/${above}` : above.map((one) => `page-type/${one}`)
+  const named = typeof above === "string" ? [above] : above
+  return named.map((one) => `page-type/${one}`)
 }
 
 function abovedIn(above: string | readonly string[] | null): string {
