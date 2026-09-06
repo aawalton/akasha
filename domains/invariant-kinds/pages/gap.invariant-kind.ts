@@ -14,7 +14,7 @@ export const gap = {
     {
       invariantKind: "departure",
       statement:
-        "A gap names a state the domain should be in rather than an act to take or a reason for it.",
+        "A gap names a state the domain should be in rather than an act to take or a reason to act.",
     },
   ],
 } as const satisfies InvariantKind
