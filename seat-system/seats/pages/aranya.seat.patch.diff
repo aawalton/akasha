@@ -90,3 +90,17 @@ index 0000000000000000000000000000000000000000..ac4714311269207bb090632f1833246e
 +    { resourceName: "collections-secrets", resourceKey: "NEXT_PUBLIC_SUPABASE_ANON_KEY" },
 +  ],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-notion-collections-token.secret.ts b/service-system/secrets/pages/collections-secrets-notion-collections-token.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cc37436efb0c4ea77cadd63d5b084ee7178d57bf
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-notion-collections-token.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsNotionCollectionsToken = {
++  id: "01a076b6-ba57-717f-bd7c-674f40b84628",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-notion-collections-token",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "NOTION_COLLECTIONS_TOKEN" }],
++} as const satisfies Secret
