@@ -202,3 +202,17 @@ index 0000000000000000000000000000000000000000..9cd6b036671f49abff1618d13703faa3
 +  slug: "collections-secrets-seaweedfs-bucket",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "SEAWEEDFS_BUCKET" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-seaweedfs-s3-endpoint.secret.ts b/service-system/secrets/pages/collections-secrets-seaweedfs-s3-endpoint.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..247286b0af3403ee9f110d7457f8ca0a34dcf1f3
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-seaweedfs-s3-endpoint.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsSeaweedfsS3Endpoint = {
++  id: "01a076b7-a4ae-75e1-abb3-9bace8258839",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-seaweedfs-s3-endpoint",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "SEAWEEDFS_S3_ENDPOINT" }],
++} as const satisfies Secret
