@@ -13,3 +13,17 @@ index 683f19291a043f08173165eb9f6a2795da381074..7975cb163b8bb88e80bc97e1e6b6aa02
      {
        invariantKind: "upkeep",
        statement:
+diff --git a/seat-system/seats/properties/on-call.boolean-property.ts b/seat-system/seats/properties/on-call.boolean-property.ts
+index de890f53e06986a13a663ca93130946010105544..42ab15788bff8d28a0af9d4068b78bd5c9bcbf02 100644
+--- a/seat-system/seats/properties/on-call.boolean-property.ts
++++ b/seat-system/seats/properties/on-call.boolean-property.ts
+@@ -17,5 +17,9 @@ export const onCall = {
+       invariantKind: "departure",
+       statement: "A page cleared of this property is refused.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A seat whose role is on call starts on call.",
++    },
+   ],
+ } as const satisfies BooleanProperty
