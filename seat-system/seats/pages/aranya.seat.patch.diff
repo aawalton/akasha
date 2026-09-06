@@ -272,3 +272,17 @@ index 0000000000000000000000000000000000000000..1b8ec059f5e96125f2a4c70e8086f5af
 +  slug: "collections-secrets-spotify-redirect-uri",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "SPOTIFY_REDIRECT_URI" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/collections-secrets-trakt-client-id.secret.ts b/service-system/secrets/pages/collections-secrets-trakt-client-id.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..447c4618eef527677efc45024bc90f9708295ed7
+--- /dev/null
++++ b/service-system/secrets/pages/collections-secrets-trakt-client-id.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const collectionsSecretsTraktClientId = {
++  id: "01a076b8-0030-703a-a416-3d07a27e3895",
++  pageTypeSlug: "secret",
++  slug: "collections-secrets-trakt-client-id",
++  placements: [{ resourceName: "collections-secrets", resourceKey: "TRAKT_CLIENT_ID" }],
++} as const satisfies Secret
