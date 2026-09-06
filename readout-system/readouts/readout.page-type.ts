@@ -124,7 +124,7 @@ export const readout = {
     },
     {
       invariantKind: "departure",
-      statement: "A readout names its scale rather than carrying one.",
+      statement: "A readout names its scale rather than carrying a scale.",
     },
     {
       invariantKind: "departure",
