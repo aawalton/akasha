@@ -33,7 +33,7 @@ export const statusBarPanel = {
     },
     {
       invariantKind: "departure",
-      statement: "A click reads the file again rather than waiting to be told it moved.",
+      statement: "A click reads the file again rather than waiting to be told the file moved.",
     },
     {
       invariantKind: "departure",
