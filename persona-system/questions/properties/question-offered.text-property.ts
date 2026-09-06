@@ -13,7 +13,7 @@ export const questionOffered = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An offered answer is a whole answer rather than a label for one.",
+      statement: "An offered answer is a whole answer rather than a label for that answer.",
     },
     {
       invariantKind: "departure",
@@ -21,7 +21,7 @@ export const questionOffered = {
     },
     {
       invariantKind: "absence",
-      statement: "No offered answer says which one Alan took.",
+      statement: "No offered answer says which answer Alan took.",
     },
   ],
 } as const satisfies TextProperty

@@ -13,7 +13,7 @@ export const questionAsk = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An ask is the whole question rather than a title representing one.",
+      statement: "An ask is the whole question rather than a title representing that question.",
     },
     {
       invariantKind: "departure",

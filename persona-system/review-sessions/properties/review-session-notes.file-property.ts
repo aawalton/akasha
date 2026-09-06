@@ -11,7 +11,7 @@ export const reviewSessionNotes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The notes are the persona's own account rather than a summary of one.",
+      statement: "The notes are the persona's own account rather than a summary of that account.",
     },
   ],
 } as const satisfies FileProperty

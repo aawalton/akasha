@@ -12,7 +12,7 @@ export const greenDay = {
   invariants: [
     {
       invariantKind: "stopgap",
-      statement: "A day that drew green states one rather than saying so.",
+      statement: "A day that drew green states its rung rather than saying the day drew green.",
     },
   ],
 } as const satisfies NumberProperty

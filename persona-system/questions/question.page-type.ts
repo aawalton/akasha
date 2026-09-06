@@ -70,7 +70,7 @@ export const question = {
     },
     {
       invariantKind: "departure",
-      statement: "A question offering answers still takes an answer none of those answers spells.",
+      statement: "A question offering answers still takes an answer those answers do not spell.",
     },
     {
       invariantKind: "departure",
