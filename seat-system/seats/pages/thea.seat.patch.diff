@@ -4295,7 +4295,7 @@ index 887f5c1d80f26d8107e6cf9e41973faa405cf926..0019ed8c976ffaf035115f1043100027
    invariants: [
      {
 diff --git a/pages/queries/page-query.page-type.ts b/pages/queries/page-query.page-type.ts
-index 57c39e3a4596841998f0bf065cea7ec0351c6dca..031b312ae655b48463fb40ea725aeb8a25102738 100644
+index 6e5c5ca576ca8c09c81bf595aa7f58279ecc3ff2..aa46de4aa2b4384d0eb60dd7fc40ded4f160c35f 100644
 --- a/pages/queries/page-query.page-type.ts
 +++ b/pages/queries/page-query.page-type.ts
 @@ -53,12 +53,12 @@ export const pageQuery = {
@@ -4315,12 +4315,15 @@ index 57c39e3a4596841998f0bf065cea7ec0351c6dca..031b312ae655b48463fb40ea725aeb8a
      { pagePropertySlug: "text-property/sort-by", required: false, many: false },
      {
        pagePropertySlug: "boolean-property/descending",
-@@ -76,7 +76,7 @@ export const pageQuery = {
+@@ -76,7 +76,11 @@ export const pageQuery = {
      },
      {
        invariantKind: "departure",
--      statement: "A query names one page type rather than several at once.",
++<<<<<<< what this change would leave
 +      statement: "A query names one page type rather than several page types at once.",
++=======
+       statement: "A query names a single page type rather than two at once.",
++>>>>>>> what HEAD holds
      },
      {
        invariantKind: "departure",
@@ -9569,10 +9572,10 @@ index f1635423a82fa7b5610acd72129773b2dd064611..97d2cfeb4490a91c6204bb7a76cdda52
    nameFormatSlug: null,
  } as const satisfies TextProperty
 diff --git a/temper/temper-character/character-builds/properties/build-correlation-id.text-property.ts b/temper/temper-character/character-builds/properties/build-correlation-id.text-property.ts
-index dd5270998ef28d919591ff480a826b074b3d5aa2..8ec232af77310efd15c32f3bbc367baaa9a0e1e5 100644
+index dd5270998ef28d919591ff480a826b074b3d5aa2..bac20a00e6495e01eda1dd69dfc220c63770524c 100644
 --- a/temper/temper-character/character-builds/properties/build-correlation-id.text-property.ts
 +++ b/temper/temper-character/character-builds/properties/build-correlation-id.text-property.ts
-@@ -8,7 +8,7 @@ export const buildCorrelationId = {
+@@ -8,12 +8,12 @@ export const buildCorrelationId = {
    slug: "build-correlation-id",
    propertySlug: "correlation-id",
    definition: "the identity the client minted for a build before the build was kept",
@@ -9581,6 +9584,12 @@ index dd5270998ef28d919591ff480a826b074b3d5aa2..8ec232af77310efd15c32f3bbc367baa
    nameFormatSlug: "name-format/lower-uuid",
    invariants: [
      {
+       invariantKind: "departure",
+-      statement: "A build the client never named carries none.",
++      statement: "A build the client never named carries no correlation id.",
+     },
+     {
+       invariantKind: "departure",
 diff --git a/temper/temper-character/character-skill-activations/properties/activation-effect-type.text-property.ts b/temper/temper-character/character-skill-activations/properties/activation-effect-type.text-property.ts
 index f598285cc7d609a578576095b1194f5a5c96edec..2c0acd694f1f599ffc165d49203dd0fec7cee3c7 100644
 --- a/temper/temper-character/character-skill-activations/properties/activation-effect-type.text-property.ts
