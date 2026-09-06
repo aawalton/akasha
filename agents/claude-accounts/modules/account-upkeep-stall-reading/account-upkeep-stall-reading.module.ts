@@ -14,7 +14,7 @@ export const accountUpkeepStallReading = {
     },
     {
       invariantKind: "departure",
-      statement: "Upkeep says nothing when it dies.",
+      statement: "Upkeep says nothing when upkeep dies.",
     },
     {
       invariantKind: "departure",
@@ -28,7 +28,7 @@ export const accountUpkeepStallReading = {
     {
       invariantKind: "departure",
       statement:
-        "An account holding less token life than the floor is one upkeep should have renewed and did not.",
+        "An account below the token life floor is an account upkeep should have renewed and did not.",
     },
     {
       invariantKind: "departure",
@@ -49,8 +49,11 @@ export const accountUpkeepStallReading = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The population is the claude-account pages there are, and that population is stated on every run.",
+      statement: "The population is the claude-account pages there are.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The population is stated on every run.",
     },
     {
       invariantKind: "departure",
