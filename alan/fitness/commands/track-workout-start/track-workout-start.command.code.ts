@@ -65,7 +65,7 @@ function closingEdits(root: string, closings: readonly Closing[]): Closed {
   return { changes }
 }
 
-export async function exerciseSessionStart(argv: readonly string[], given: Given): Promise<Answer> {
+export async function trackWorkoutStart(argv: readonly string[], given: Given): Promise<Answer> {
   const said = wordsIn(argv, SHAPE)
   if ("refused" in said) return refusedBy(said.refused)
   const dayStr = dayIn(said, DATE, new Date())

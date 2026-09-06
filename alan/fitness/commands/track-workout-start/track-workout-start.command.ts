@@ -1,9 +1,9 @@
 import type { Command } from "@akasha/command-system/command"
 
-export const exerciseSessionStart = {
+export const trackWorkoutStart = {
   id: "01a0685d-b7ab-7443-b385-b009c4eeaa40",
   pageTypeSlug: "command",
-  slug: "exercise-session-start",
+  slug: "track-workout-start",
   definition: "the command opening a workout session for one day from the active schedule's day",
   code: "ts",
   changeKindSlug: "change-mechanical",
