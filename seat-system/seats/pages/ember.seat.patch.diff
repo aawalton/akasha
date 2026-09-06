@@ -1,0 +1,41 @@
+diff --git a/temper/temper-web/use-completion-bodies/use-completion-bodies.module.ts b/temper/temper-web/use-completion-bodies/use-completion-bodies.module.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5fdf8c8b026173aa812916a80bec9326fdb3ccf9
+--- /dev/null
++++ b/temper/temper-web/use-completion-bodies/use-completion-bodies.module.ts
+@@ -0,0 +1,35 @@
++import type { Module } from "@akasha/code-system/module"
++
++export const useCompletionBodies = {
++  id: "01a076b9-598a-7c82-b905-b629a56a823f",
++  pageTypeSlug: "module",
++  slug: "use-completion-bodies",
++  definition: "the completion bodies one view asks for, keyed by the page each body is beside",
++  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A body is asked for by the view that reads it rather than held for every view.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A query naming `files` is the only query a body comes back on.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "`/ask` is a POST.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A body arriving as its own ending is refused rather than read as no completion.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The rows a listing draws are read apart from the bodies those rows carry.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "One account's character bodies run to about six megabytes.",
++    },
++  ],
++} as const satisfies Module
