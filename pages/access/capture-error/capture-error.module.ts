@@ -18,7 +18,7 @@ export const captureError = {
     },
     {
       invariantKind: "departure",
-      statement: "A capture finding no page files one carrying a count of one.",
+      statement: "A capture finding no page files a page carrying a count of 1.",
     },
     {
       invariantKind: "departure",
