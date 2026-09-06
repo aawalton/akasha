@@ -6,6 +6,7 @@ export const renamePageSlug = {
   slug: "rename-page-slug",
   definition: "one page's slug restated in its own body and in the data of every page naming it",
   code: "ts",
+  test: "ts",
   isCommand: false,
   runsChecks: false,
   readersOweReading: false,

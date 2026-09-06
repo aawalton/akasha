@@ -9,6 +9,12 @@ import {
 } from "@akasha/code/code-typing"
 import ts from "typescript"
 import { importingOf } from "../../../pages/indexes/path-naming/path-naming.module.code.ts"
+import {
+  answered,
+  refusing,
+  writing,
+} from "../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer, Edit } from "../../modules/change-answer/change-answer.module.types.ts"
 
 const ADDRESSED = /^([A-Za-z_$][A-Za-z0-9_$]*)\.([A-Za-z_$][A-Za-z0-9_$]*)$/
 
@@ -20,11 +26,6 @@ export type Asked = {
   readonly to: string
 }
 
-export type Renamed = {
-  readonly bodies: ReadonlyMap<string, string> | null
-  readonly refused: string | null
-}
-
 type Spot = {
   readonly start: number
   readonly end: number
@@ -34,10 +35,6 @@ type Spot = {
 type Addressed = {
   readonly type: string
   readonly property: string
-}
-
-function refusing(why: string): Renamed {
-  return { bodies: null, refused: why }
 }
 
 function addressIn(of: string): Addressed | null {
@@ -101,7 +98,7 @@ export function renamePropertySignature(
   root: string,
   given: Asked,
   textOf: (path: string) => string | null
-): Renamed {
+): Answer {
   const address = addressIn(given.of)
   const why = whyNot(given, address)
   if (why !== null || address === null) return refusing(why ?? given.of)
@@ -138,7 +135,7 @@ export function renamePropertySignature(
   if (held.size === 0) {
     return refusing(`nothing spells \`${given.of}\`, so there is nothing to respell`)
   }
-  const bodies = new Map<string, string>()
+  const edits: Edit[] = []
   for (const [path, spots] of held) {
     const text = textOf(path)
     if (text === null) return refusing(`\`${path}\` would change and could not be read`)
@@ -146,7 +143,7 @@ export function renamePropertySignature(
     for (const one of [...spots].sort((here, there) => there.start - here.start)) {
       body = body.slice(0, one.start) + one.put + body.slice(one.end)
     }
-    bodies.set(path, body)
+    edits.push(writing(path, text, body))
   }
-  return { bodies, refused: null }
+  return answered(edits)
 }

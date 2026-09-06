@@ -1,14 +1,11 @@
 import { literalOf, parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
-
-export type Restated = {
-  readonly body: string | null
-  readonly refused: string | null
-}
-
-function refusing(why: string): Restated {
-  return { body: null, refused: why }
-}
+import {
+  answered,
+  refusing,
+  writing,
+} from "../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
 
 function keyOf(held: ts.PropertyAssignment): string | null {
   const name = held.name
@@ -42,12 +39,12 @@ export function statedIn(source: ts.SourceFile): ReadonlyMap<string, ts.StringLi
   return new Map()
 }
 
-export function restated(path: string, text: string, key: string, to: string): Restated {
+export function restated(path: string, text: string, key: string, to: string): Answer {
   const source = parsedAs(path, text)
   const held = statedIn(source).get(key)
   if (held === undefined) return refusing(`\`${path}\` states no text under \`${key}\``)
   if (held.text === to) return refusing(`\`${to}\` is what \`${key}\` states already`)
   const start = held.getStart(source)
   const body = text.slice(0, start) + JSON.stringify(to) + text.slice(held.getEnd())
-  return { body, refused: null }
+  return answered([writing(path, text, body)])
 }

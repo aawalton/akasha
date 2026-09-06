@@ -6,6 +6,7 @@ export const respellExport = {
   slug: "respell-export",
   definition: "a name one body exports spelled anew across the paths a caller hands in",
   code: "ts",
+  test: "ts",
   isCommand: false,
   runsChecks: false,
   readersOweReading: false,

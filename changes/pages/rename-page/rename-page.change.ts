@@ -6,6 +6,7 @@ export const renamePage = {
   slug: "rename-page",
   definition: "a page renamed and carried to where its slug says, in the data and in every name",
   code: "ts",
+  test: "ts",
   isCommand: true,
   runsChecks: true,
   readersOweReading: false,

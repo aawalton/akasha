@@ -4,6 +4,13 @@ import { exportedAs } from "@akasha/pages/page-export-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import ts from "typescript"
 import { importingOf } from "../../../pages/indexes/path-naming/path-naming.module.code.ts"
+import {
+  answered,
+  gathered,
+  refusing,
+  writing,
+} from "../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer, Edit } from "../../modules/change-answer/change-answer.module.types.ts"
 import { respelled } from "../respell-export/respell-export.change.code.ts"
 import { restated, statedIn } from "../restate-value/restate-value.change.code.ts"
 
@@ -25,11 +32,6 @@ export type Asked = {
   readonly plural?: string
 }
 
-export type Renamed = {
-  readonly bodies: ReadonlyMap<string, string> | null
-  readonly refused: string | null
-}
-
 type Spot = {
   readonly start: number
   readonly end: number
@@ -45,10 +47,6 @@ type Renaming = {
 type Reach =
   | { readonly namers: readonly Named[]; readonly slugs: readonly string[] }
   | { readonly unread: string }
-
-function refusing(why: string): Renamed {
-  return { bodies: null, refused: why }
-}
 
 function keyOf(held: ts.PropertyAssignment): string | null {
   const name = held.name
@@ -142,7 +140,7 @@ export function renameSlug(
   root: string,
   given: Asked,
   textOf: (path: string) => string | null
-): Renamed {
+): Answer {
   if (!given.at.endsWith(TYPED)) return refusing(`\`${given.at}\` is no \`.ts\` file`)
   const text = textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
@@ -194,17 +192,21 @@ export function renameSlug(
     put(path, addressedIn(path, body, slugs, one))
   }
   const bodies = new Map<string, string>()
+  const restating: Edit[] = []
   for (const [path, held] of spots) {
     const body = texts.get(path) ?? ""
     const next = splicedIn(body, held)
-    if (next !== body) bodies.set(path, next)
+    if (next === body) continue
+    bodies.set(path, next)
+    restating.push(writing(path, body, next))
   }
+  const answers: Answer[] = [answered(restating)]
   if (given.plural !== undefined) {
-    const stated = restated(given.at, bodies.get(given.at) ?? text, PLURAL_SLUG, given.plural)
-    if (stated.body === null) {
-      return refusing(stated.refused ?? `\`${PLURAL_SLUG}\` was not restated`)
-    }
-    bodies.set(given.at, stated.body)
+    const held = bodies.get(given.at) ?? text
+    const stated = restated(given.at, held, PLURAL_SLUG, given.plural)
+    if (stated.refused !== null) return stated
+    answers.push(stated)
+    for (const edit of stated.edits) if (edit.body !== null) bodies.set(edit.path, edit.body)
   }
   const reading = importingOf(root, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
@@ -212,7 +214,7 @@ export function renameSlug(
   const spelled = respelled(root, given.at, over, bound, exportedAs(given.to), (path) => {
     return bodies.get(path) ?? textOf(path)
   })
-  if (spelled.bodies === null) return refusing(spelled.refused ?? `\`${bound}\` was not respelled`)
-  for (const [path, body] of spelled.bodies) bodies.set(path, body)
-  return { bodies, refused: null }
+  if (spelled.refused !== null) return spelled
+  answers.push(spelled)
+  return gathered(answers)
 }

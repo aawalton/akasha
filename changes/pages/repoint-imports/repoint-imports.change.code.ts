@@ -1,5 +1,7 @@
 import { basename, dirname, extname, join, relative } from "node:path"
 import { landingOf, placedIn, spelledIn } from "@akasha/code/code-specifier"
+import { answered, moving, writing } from "../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
 
 const GENERATED = "+types"
 
@@ -61,7 +63,7 @@ export function repointed(
   now: string,
   text: string,
   moved: ReadonlyMap<string, string>
-): string {
+): Answer {
   const dir = dirname(now)
   const specifier = new Set(placedIn(now, text).map((one) => one.start))
   let out = ""
@@ -72,5 +74,6 @@ export function repointed(
     out = `${out}${text.slice(at, one.start)}${JSON.stringify(next)}`
     at = one.end
   }
-  return `${out}${text.slice(at)}`
+  const body = `${out}${text.slice(at)}`
+  return answered([was === now ? writing(now, text, body) : moving(was, now, text, body)])
 }

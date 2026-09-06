@@ -6,6 +6,7 @@ export const renamePath = {
   slug: "rename-path",
   definition: "one file's path changed, with every body importing it repointed",
   code: "ts",
+  test: "ts",
   isCommand: false,
   runsChecks: false,
   readersOweReading: false,

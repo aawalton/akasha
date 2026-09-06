@@ -6,6 +6,7 @@ export const renameCodeToken = {
   slug: "rename-code-token",
   definition: "a name a code file declares renamed wherever it reaches, exported or not",
   code: "ts",
+  test: "ts",
   isCommand: true,
   runsChecks: true,
   readersOweReading: false,

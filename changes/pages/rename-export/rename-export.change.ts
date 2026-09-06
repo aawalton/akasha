@@ -6,6 +6,7 @@ export const renameExport = {
   slug: "rename-export",
   definition: "the change spelling one export and everything that names it anew",
   code: "ts",
+  test: "ts",
   isCommand: false,
   runsChecks: false,
   readersOweReading: false,

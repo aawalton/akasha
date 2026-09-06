@@ -1,5 +1,7 @@
 import { typed } from "@akasha/code/code-typing"
 import { importingOf } from "../../../pages/indexes/path-naming/path-naming.module.code.ts"
+import { refusing } from "../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
 import { respelled } from "../respell-export/respell-export.change.code.ts"
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
@@ -10,15 +12,6 @@ export type Asked = {
   readonly at: string
   readonly of: string
   readonly to: string
-}
-
-export type Renamed = {
-  readonly bodies: ReadonlyMap<string, string> | null
-  readonly refused: string | null
-}
-
-function refusing(why: string): Renamed {
-  return { bodies: null, refused: why }
 }
 
 function besideAPage(at: string): boolean {
@@ -38,7 +31,7 @@ export function renameExport(
   root: string,
   given: Asked,
   textOf: (path: string) => string | null
-): Renamed {
+): Answer {
   const why = whyNot(given)
   if (why !== null) return refusing(why)
   const reading = importingOf(root, new Map([[given.at, given.at]]))

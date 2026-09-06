@@ -6,20 +6,17 @@ import {
   referencesOf,
   typingOver,
 } from "@akasha/code/code-typing"
-
-export type Respelled = {
-  readonly bodies: ReadonlyMap<string, string> | null
-  readonly refused: string | null
-}
+import {
+  answered,
+  refusing,
+  writing,
+} from "../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer, Edit } from "../../modules/change-answer/change-answer.module.types.ts"
 
 type Spot = {
   readonly start: number
   readonly end: number
   readonly put: string
-}
-
-function refusing(why: string): Respelled {
-  return { bodies: null, refused: why }
 }
 
 export function respelled(
@@ -29,7 +26,7 @@ export function respelled(
   of: string,
   to: string,
   textOf: (path: string) => string | null
-): Respelled {
+): Answer {
   const typing = typingOver(root, over, readingOf(root, textOf))
   const declared = new Set(exportsNamed(typing, at, of))
   if (declared.size === 0) return refusing(`\`${at}\` exports no \`${of}\``)
@@ -51,7 +48,7 @@ export function respelled(
       return refusing(`\`${path}\` already reaches a \`${to}\``)
     }
   }
-  const bodies = new Map<string, string>()
+  const edits: Edit[] = []
   for (const [path, spots] of held) {
     const text = textOf(path)
     if (text === null) return refusing(`\`${path}\` would change and could not be read`)
@@ -59,7 +56,7 @@ export function respelled(
     for (const one of [...spots].sort((here, there) => there.start - here.start)) {
       body = body.slice(0, one.start) + one.put + body.slice(one.end)
     }
-    bodies.set(path, body)
+    edits.push(writing(path, text, body))
   }
-  return { bodies, refused: null }
+  return answered(edits)
 }

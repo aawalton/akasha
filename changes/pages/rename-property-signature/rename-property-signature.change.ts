@@ -6,6 +6,7 @@ export const renamePropertySignature = {
   slug: "rename-property-signature",
   definition: "one property a type declares spelled anew wherever the checker resolves to it",
   code: "ts",
+  test: "ts",
   isCommand: false,
   runsChecks: false,
   readersOweReading: false,

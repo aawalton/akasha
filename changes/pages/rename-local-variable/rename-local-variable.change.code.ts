@@ -1,5 +1,11 @@
 import { parsedAs } from "@akasha/code/code-source"
 import ts from "typescript"
+import {
+  answered,
+  refusing,
+  writing,
+} from "../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
 
 const NAMED = /^[A-Za-z_$][A-Za-z0-9_$]*$/
 
@@ -55,15 +61,6 @@ const RESERVED: ReadonlySet<string> = new Set([
 export type Asked = {
   readonly at: number
   readonly to: string
-}
-
-export type Renamed = {
-  readonly body: string | null
-  readonly refused: string | null
-}
-
-function refusing(why: string): Renamed {
-  return { body: null, refused: why }
 }
 
 function scoping(node: ts.Node): boolean {
@@ -212,7 +209,7 @@ function spanning(source: ts.SourceFile, scope: ts.Node, of: string): readonly t
   return identifiersIn(scope).filter((one) => one.text === of && referencing(one))
 }
 
-export function renameLocalVariable(path: string, text: string, given: Asked): Renamed {
+export function renameLocalVariable(path: string, text: string, given: Asked): Answer {
   if (!NAMED.test(given.to)) return refusing(`\`${given.to}\` is no identifier`)
   if (RESERVED.has(given.to)) return refusing(`\`${given.to}\` is a reserved word`)
   const source = parsedAs(path, text)
@@ -238,5 +235,5 @@ export function renameLocalVariable(path: string, text: string, given: Asked): R
     const put = shorthand ? `${named.text}: ${given.to}` : given.to
     body = body.slice(0, from) + put + body.slice(one.getEnd())
   }
-  return { body, refused: null }
+  return answered([writing(path, text, body)])
 }

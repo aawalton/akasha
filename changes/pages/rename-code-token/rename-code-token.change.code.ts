@@ -8,6 +8,8 @@ import {
   typingOver,
 } from "@akasha/code/code-typing"
 import ts from "typescript"
+import { gathered, refusing } from "../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../modules/change-answer/change-answer.module.types.ts"
 import { renameExport } from "../rename-export/rename-export.change.code.ts"
 import { renameLocalVariable } from "../rename-local-variable/rename-local-variable.change.code.ts"
 
@@ -20,16 +22,7 @@ export type Asked = {
   readonly line?: number
 }
 
-export type Renamed = {
-  readonly bodies: ReadonlyMap<string, string> | null
-  readonly refused: string | null
-}
-
 type Picked = { readonly node: ts.Node } | { readonly refused: string }
-
-function refusing(why: string): Renamed {
-  return { bodies: null, refused: why }
-}
 
 function namedOf(node: ts.Node): ts.Node | null {
   if (ts.isFunctionDeclaration(node)) return node.name ?? null
@@ -71,13 +64,13 @@ export function renameCodeToken(
   root: string,
   given: Asked,
   textOf: (path: string) => string | null
-): Renamed {
+): Answer {
   if (!typed(given.at)) return refusing(`\`${given.at}\` names no TypeScript body`)
   const text = textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const typing = typingOver(root, [given.at], readingOf(root, textOf))
   if (exportsNamed(typing, given.at, given.of).length > 0) {
-    return renameExport(root, { at: given.at, of: given.of, to: given.to }, textOf)
+    return gathered([renameExport(root, { at: given.at, of: given.of, to: given.to }, textOf)])
   }
   const declared = declaredNamed(typing, given.at, given.of)
   if (declared.length === 0) return refusing(`\`${given.at}\` declares no \`${given.of}\``)
@@ -87,7 +80,7 @@ export function renameCodeToken(
   if (source === null) return refusing(`\`${given.at}\` could not be read`)
   const named = namedOf(found.node)
   if (named === null) return refusing(`\`${given.of}\` is no simple declaration`)
-  const said = renameLocalVariable(given.at, text, { at: named.getStart(source), to: given.to })
-  if (said.body === null) return refusing(said.refused ?? `\`${given.of}\` was not renamed`)
-  return { bodies: new Map([[given.at, said.body]]), refused: null }
+  return gathered([
+    renameLocalVariable(given.at, text, { at: named.getStart(source), to: given.to }),
+  ])
 }

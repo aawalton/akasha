@@ -4,6 +4,12 @@ import { filesIn, listedAt, schemaOf } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import { folderFor } from "../../../pages/service/page-composing/page-composing.module.code.ts"
+import {
+  answered,
+  gathered,
+  refusing,
+} from "../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer, Edit } from "../../modules/change-answer/change-answer.module.types.ts"
 import { renameSlug } from "../rename-page-slug/rename-page-slug.change.code.ts"
 import { renamePath } from "../rename-path/rename-path.change.code.ts"
 import { statedIn } from "../restate-value/restate-value.change.code.ts"
@@ -26,12 +32,6 @@ export type Asked = {
   readonly plural?: string
 }
 
-export type Renamed = {
-  readonly moved: ReadonlyMap<string, string> | null
-  readonly bodies: ReadonlyMap<string, string> | null
-  readonly refused: string | null
-}
-
 type Held = {
   readonly slug: string
   readonly pageTypeSlug: string
@@ -41,10 +41,6 @@ type Held = {
 type Read = { readonly held: Held } | { readonly refused: string }
 
 type Move = { readonly from: string; readonly to: string }
-
-function refusing(why: string): Renamed {
-  return { moved: null, bodies: null, refused: why }
-}
 
 function readingOver(
   held: ReadonlyMap<string, string>,
@@ -129,11 +125,32 @@ function landingIn(
   )
 }
 
+/**
+ * `gathered` keys an edit by where that edit lands, so a write to a path and a later move off that
+ * path are two edits rather than one. This folds the pair: the write is dropped and the move states
+ * the body the write started from.
+ */
+function carriedOff(said: Answer): Answer {
+  if (said.refused !== null) return said
+  const held = new Map(said.edits.map((one) => [one.path, one]))
+  const gone = new Set(said.edits.flatMap((one) => (one.from === undefined ? [] : [one.from])))
+  const edits: Edit[] = []
+  for (const one of said.edits) {
+    if (one.from === undefined) {
+      if (!gone.has(one.path)) edits.push(one)
+      continue
+    }
+    const was = held.get(one.from)
+    edits.push(was === undefined ? one : { ...one, was: was.was })
+  }
+  return answered(edits)
+}
+
 export function renamePage(
   root: string,
   given: Asked,
   textOf: (path: string) => string | null
-): Renamed {
+): Answer {
   const text = textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const read = readIn(given.at, text)
@@ -153,24 +170,23 @@ export function renamePage(
     const why = cause instanceof Error ? cause.message : String(cause)
     return refusing(`${why}, so no file was carried`)
   }
+  const answers: Answer[] = []
   if (given.to === held.slug) {
     const carries = `\`${given.to}\` is the slug this page carries`
     if (given.plural !== undefined) return refusing(`${carries}, so no plural is restated`)
     if (lands === given.at) return refusing(`${carries}, in the folder that slug names`)
   } else {
     const said = renameSlug(root, { at: given.at, to: given.to, plural: given.plural }, over)
-    if (said.bodies === null) return refusing(said.refused ?? `\`${held.slug}\` was not renamed`)
-    for (const [path, body] of said.bodies) bodies.set(path, body)
+    if (said.refused !== null) return said
+    answers.push(said)
+    for (const one of said.edits) if (one.body !== null) bodies.set(one.path, one.body)
   }
-  const moved = new Map<string, string>()
   for (const one of [{ from: given.at, to: lands }, ...movesOver(beside, given.at, lands)]) {
     const carried = renamePath(root, one, over)
-    if (carried.bodies === null || carried.moved === null) {
-      return refusing(carried.refused ?? `\`${one.from}\` was not carried`)
-    }
-    for (const [path, body] of carried.bodies) bodies.set(path, body)
-    bodies.delete(carried.moved.from)
-    moved.set(carried.moved.from, carried.moved.to)
+    if (carried.refused !== null) return carried
+    answers.push(carried)
+    for (const edit of carried.edits) if (edit.body !== null) bodies.set(edit.path, edit.body)
+    bodies.delete(one.from)
   }
-  return { moved, bodies, refused: null }
+  return carriedOff(gathered(answers))
 }
