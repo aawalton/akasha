@@ -1,3 +1,17 @@
+diff --git a/context/warrants/file-property-file/file-property-file.context-warrant.code.ts b/context/warrants/file-property-file/file-property-file.context-warrant.code.ts
+index 74fc9f126e3ddc61c4b7a376f8f2db621cb6e810..0bb86cddfa07c695164bb5f269cfdb51e8f15c13 100644
+--- a/context/warrants/file-property-file/file-property-file.context-warrant.code.ts
++++ b/context/warrants/file-property-file/file-property-file.context-warrant.code.ts
+@@ -1,6 +1,8 @@
+ import { dirname, join } from "node:path"
+-import { listedAt, schemaOf } from "@akasha/indexes"
++import { listedAt } from "@akasha/indexes"
+ import { besideAt, type Parted, pageNamed, pageOf, partedIn } from "@akasha/pages/page-file-name"
++import { propertiesIfNamedOf } from "@akasha/pages/page-type-properties"
++import { valueAt } from "@akasha/pages/page-value"
+ import {
+   blobAt,
+   type Knowing,
 diff --git a/context/warrants/file-property/file-property.context-warrant.code.ts b/context/warrants/file-property/file-property.context-warrant.code.ts
 index e72d70d4cd601d12a20b4e3a8f4c2994d04eea55..be8fc933276134192289e0264cf1384a609042e9 100644
 --- a/context/warrants/file-property/file-property.context-warrant.code.ts
