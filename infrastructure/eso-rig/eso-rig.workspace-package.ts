@@ -32,7 +32,7 @@ export const esoRig = {
     },
     {
       invariantKind: "constraint",
-      statement: "A frame a software rasterizer drew is pixel-identical to one the card drew.",
+      statement: "A frame a software rasterizer drew is pixel-identical to a frame the card drew.",
     },
     {
       invariantKind: "constraint",
