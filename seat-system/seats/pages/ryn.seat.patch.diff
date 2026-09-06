@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/change/change.module.ts b/pages/change/change.module.ts
+index 5b87b1549f82a27db0cd6462c83e63eac2a99b2c..96317b2b5ad03af568f91b19811900ef134fa2f7 100644
+--- a/pages/change/change.module.ts
++++ b/pages/change/change.module.ts
+@@ -18,7 +18,7 @@ export const change = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "`before` and `after` answer for any path rather than only one the change carries.",
++        "`before` and `after` answer for any path rather than only a path the change carries.",
+     },
+     {
+       invariantKind: "departure",
