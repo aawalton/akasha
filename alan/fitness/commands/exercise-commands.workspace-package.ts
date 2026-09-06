@@ -42,21 +42,25 @@ export const exerciseCommands = {
     },
     {
       invariantKind: "departure",
-      statement: "A command here answers as lines for a reader, or as JSON when `--json` is said.",
+      statement: "A command here answers as lines for a reader or as JSON when `--json` is said.",
     },
     {
       invariantKind: "departure",
-      statement: "A command here refuses rather than throwing, so a refused call changes nothing.",
+      statement: "A command here refuses rather than throwing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refused call here changes nothing.",
     },
     {
       invariantKind: "gap",
       statement:
-        "Two modules read the words a call was handed, and one of those modules is to absorb the other.",
+        "Two modules read the words a call was handed rather than one module reading those words.",
     },
     {
       invariantKind: "gap",
       statement:
-        "The pre-session digest is not carried yet, so its readings are reached one command at a time.",
+        "The readings a pre-session digest would gather are reached one command at a time.",
     },
   ],
 } as const satisfies WorkspacePackage
