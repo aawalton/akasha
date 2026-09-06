@@ -1,8 +1,14 @@
 diff --git a/command-system/commands/wan/wan-hosting/wan-hosting.module.ts b/command-system/commands/wan/wan-hosting/wan-hosting.module.ts
-index 132cf8b4a0bb547f58ef96c9bb2e7f2c25486bde..5aee7c0197d28083a619acb38ebdef33e4f8d9cc 100644
+index 132cf8b4a0bb547f58ef96c9bb2e7f2c25486bde..85e7186e8c09df47f7762b8fa6b0c4af75e1f1e9 100644
 --- a/command-system/commands/wan/wan-hosting/wan-hosting.module.ts
 +++ b/command-system/commands/wan/wan-hosting/wan-hosting.module.ts
-@@ -15,7 +15,7 @@ export const wanHosting = {
+@@ -10,12 +10,12 @@ export const wanHosting = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The port, the data directory and the scorer's image are read from the environment.",
++        "The port and the data directory and the scorer's image are read from the environment.",
+     },
      {
        invariantKind: "departure",
        statement:
