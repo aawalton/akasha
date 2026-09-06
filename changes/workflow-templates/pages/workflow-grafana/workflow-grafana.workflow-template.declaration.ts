@@ -2,6 +2,7 @@ import { checksumHashCommands } from "@akasha/workflow-language/checksum-hash"
 import { IMAGES } from "@akasha/workflow-language/images"
 import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
 import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
 import { SECRETS, secret } from "@akasha/workflow-language/secrets"
 import { step } from "@akasha/workflow-language/step"
 import { workflow } from "@akasha/workflow-language/workflow"
@@ -26,31 +27,16 @@ export default workflow("grafana", {
     {
       ...applyRbac({
         name: "grafana-apply-rbac",
-        rbacFile:
-          "infrastructure/cluster-manifests/grafana-rbac/grafana-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/grafana-rbac/grafana-rbac.module.code.ts",
       }),
       dependsOn: ["grafana-apply-namespace"],
     },
 
     {
-      ...step({
+      ...secretPlaceApply({
         name: "grafana-apply-secrets",
-        image: IMAGES.CI,
-        environment: {
-          HOME: "/tmp",
-          SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
-        },
-        commands: (ci) => [
-          "set -e",
-          `CONTENT_HASH="${ci.inputsHash}"`,
-          ...SKIP_CHECK,
-          `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/grafana/grafana.k8s-secret.sops.yaml)`,
-          `echo "$DECRYPTED" | kubectl apply --dry-run=client -n grafana -f -`,
-          `echo "$DECRYPTED" | kubectl apply -n grafana -f -`,
-        ],
-        backendOptions: {
-          kubernetes: { serviceAccountName: "pipeline-engine" },
-        },
+        namespace: "grafana",
+        resource: "grafana-secrets",
       }),
       dependsOn: ["grafana-apply-namespace"],
     },
@@ -93,8 +79,8 @@ export default workflow("grafana", {
           }),
           ...checksumHashCommands({
             variable: "SECRET_HASH",
-            read: `sops -d ${ci.workspace}/service-system/cluster-services/pages/grafana/grafana.k8s-secret.sops.yaml`,
-            subject: "grafana.k8s-secret.sops.yaml",
+            read: `bun ${ci.workspace}/service-system/secrets/secret-saying/secret-saying.module.code.ts --root ${ci.workspace} --resource grafana-secrets --namespace grafana`,
+            subject: "the grafana-secrets Secret said from its pages",
           }),
           'sed "s|checksum/config:.*|checksum/config: \\"${GRAFANA_HASH}\\"|" infra/k8s/src/grafana/generated/deployment.generated.yaml \\',
           '  | sed "s|checksum/grafana-secrets:.*|checksum/grafana-secrets: \\"${SECRET_HASH}\\"|" \\',
