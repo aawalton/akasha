@@ -36,17 +36,21 @@ export const transactions = {
     },
     {
       invariantKind: "departure",
-      statement: "Ten thousand transactions arrive from a poller and nobody writes one by hand.",
+      statement:
+        "Ten thousand transactions arrive from a poller and nobody writes a transaction by hand.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An entry states nothing that entry holds no value for.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A value an entry does not state is false or empty.",
     },
     {
       invariantKind: "departure",
       statement:
-        "An entry states nothing that entry holds no value for, so absence is false or empty.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "Entries sit in the order of the day those entries fell on, then of their Monarch id.",
+        "Entries sit in the order of the day those entries fell on and then of their Monarch id.",
     },
     {
       invariantKind: "departure",
