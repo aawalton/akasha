@@ -1,0 +1,103 @@
+diff --git a/domains/initiatives/pages/olwen-command-cleanup.initiative.ts b/domains/initiatives/pages/olwen-command-cleanup.initiative.ts
+deleted file mode 100644
+index a6f3edb2e8bd2a7e58852e40bc6d0df6796c7e99..0000000000000000000000000000000000000000
+--- a/domains/initiatives/pages/olwen-command-cleanup.initiative.ts
++++ /dev/null
+@@ -1,26 +0,0 @@
+-import type { Initiative } from "../initiative.page-type.ts"
+-
+-export const olwenCommandCleanup = {
+-  id: "01a06d80-f837-7845-8ef8-bfccd653aab4",
+-  pageTypeSlug: "initiative",
+-  slug: "olwen-command-cleanup",
+-  domainSlug: "workspace-package/command-system",
+-  personaSlug: "olwen",
+-  constraints: [
+-    "The folder is named `commands/` and the package `@akasha/commands`, while the workspace package page beside the command page type is slugged `command`, as `domains/` is.",
+-    "A page keeps the qualifier its slug carries and sits in a folder named without it, as `purpose/` holds `domain-purpose`. Alan settled this.",
+-    "A page beside the command page type is a part of the package holding its folder, as the move reads a parent from the folder alone.",
+-  ],
+-  intents: [
+-    {
+-      statement: "All command files are organized in the commands/ folder.",
+-      workingMemory:
+-        "`command-system/` holds 162 files and `commands/` holds 244, and neither folder holds a page naming itself. 609 files carry 882 spellings of `@akasha/command-system`, and 152 files outside reach in by a relative path. Nothing claims `workspace-package/command`, and the command page type already states `commands` as its plural.",
+-    },
+-    {
+-      statement: "The commands/ folder passes the folder-matches-a-shape check.",
+-      workingMemory:
+-        "The check refuses once: `commands/` matches no shape because it holds no page of its own. That clears when `command.page-type.ts` and `command.workspace-package.ts` sit at that folder's root as a pair, the shape `domains/` took. `command-system/` refuses nothing across its 162 files.",
+-    },
+-  ],
+-} as const satisfies Initiative
+diff --git a/domains/initiatives/pages/olwen-persona-cleanup.initiative.ts b/domains/initiatives/pages/olwen-persona-cleanup.initiative.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3ca5175b501c111ce3229a7e9cd58348e745d1d3
+--- /dev/null
++++ b/domains/initiatives/pages/olwen-persona-cleanup.initiative.ts
+@@ -0,0 +1,26 @@
++import type { Initiative } from "../initiative.page-type.ts"
++
++export const olwenPersonaCleanup = {
++  id: "01a06d80-f837-7845-8ef8-bfccd653aab4",
++  pageTypeSlug: "initiative",
++  slug: "olwen-persona-cleanup",
++  domainSlug: "workspace-package/command-system",
++  personaSlug: "olwen",
++  constraints: [
++    "The folder is named `commands/` and the package `@akasha/commands`, while the workspace package page beside the command page type is slugged `command`, as `domains/` is.",
++    "A page keeps the qualifier its slug carries and sits in a folder named without it, as `purpose/` holds `domain-purpose`. Alan settled this.",
++    "A page beside the command page type is a part of the package holding its folder, as the move reads a parent from the folder alone.",
++  ],
++  intents: [
++    {
++      statement: "All command files are organized in the commands/ folder.",
++      workingMemory:
++        "`command-system/` holds 162 files and `commands/` holds 244, and neither folder holds a page naming itself. 609 files carry 882 spellings of `@akasha/command-system`, and 152 files outside reach in by a relative path. Nothing claims `workspace-package/command`, and the command page type already states `commands` as its plural.",
++    },
++    {
++      statement: "The commands/ folder passes the folder-matches-a-shape check.",
++      workingMemory:
++        "The check refuses once: `commands/` matches no shape because it holds no page of its own. That clears when `command.page-type.ts` and `command.workspace-package.ts` sit at that folder's root as a pair, the shape `domains/` took. `command-system/` refuses nothing across its 162 files.",
++    },
++  ],
++} as const satisfies Initiative
+diff --git a/seat-system/seats/pages/olwen.seat.ts b/seat-system/seats/pages/olwen.seat.ts
+index 199b315fbefa6cd2d939f20fea2310599225e077..0583656796cbb81f7c93c6456c932d1a1b949ba1 100644
+--- a/seat-system/seats/pages/olwen.seat.ts
++++ b/seat-system/seats/pages/olwen.seat.ts
+@@ -5,7 +5,7 @@ export const olwen = {
+   pageTypeSlug: "seat",
+   slug: "olwen",
+   personaSlug: "olwen",
+-  assignmentSlug: "initiative/olwen-command-cleanup",
++  assignmentSlug: "initiative/olwen-persona-cleanup",
+   roleSlug: "definer",
+   personSlug: "alan",
+   startMode: "interactive",
+diff --git a/seat-system/subagents/pages/olwen-a5b37403d9a3384d3.subagent.ts b/seat-system/subagents/pages/olwen-a5b37403d9a3384d3.subagent.ts
+index a030e0079376407b1f6209aab0369a4fc060dcd4..d4e05fed6f73a730032648ae939f872c7457b368 100644
+--- a/seat-system/subagents/pages/olwen-a5b37403d9a3384d3.subagent.ts
++++ b/seat-system/subagents/pages/olwen-a5b37403d9a3384d3.subagent.ts
+@@ -5,7 +5,7 @@ export const olwenA5b37403d9a3384d3 = {
+   pageTypeSlug: "subagent",
+   slug: "olwen-a5b37403d9a3384d3",
+   principalSeatName: "olwen",
+-  assignmentSlug: "initiative/olwen-command-cleanup",
++  assignmentSlug: "initiative/olwen-persona-cleanup",
+   dispatchedAs: "general-purpose",
+   agentId: "01a06d75-4175-7000-ac04-631a861a42a3--a5b37403d9a3384d3",
+ } as const satisfies Subagent
+diff --git a/seat-system/subagents/pages/olwen-a87eb7fc84096b088.subagent.ts b/seat-system/subagents/pages/olwen-a87eb7fc84096b088.subagent.ts
+index 23af92d2e2babf13766eb9afe14fa532d549900b..610597b0391fd0bc9ec841381dad798636e0c01c 100644
+--- a/seat-system/subagents/pages/olwen-a87eb7fc84096b088.subagent.ts
++++ b/seat-system/subagents/pages/olwen-a87eb7fc84096b088.subagent.ts
+@@ -5,7 +5,7 @@ export const olwenA87eb7fc84096b088 = {
+   pageTypeSlug: "subagent",
+   slug: "olwen-a87eb7fc84096b088",
+   principalSeatName: "olwen",
+-  assignmentSlug: "initiative/olwen-command-cleanup",
++  assignmentSlug: "initiative/olwen-persona-cleanup",
+   dispatchedAs: "general-purpose",
+   agentId: "01a06d75-4175-7000-ac04-631a861a42a3--a87eb7fc84096b088",
+ } as const satisfies Subagent
