@@ -1,0 +1,14 @@
+runsWarrants: false
+diff --git a/command-system/commands/subagent-sweep/subagent-sweep.command.ts b/command-system/commands/subagent-sweep/subagent-sweep.command.ts
+index 36a6d0864a3131049f80c7205459a9a2c1c50da9..094e86cc8b7c3bc4ee13f3e78710e6974f8e72a0 100644
+--- a/command-system/commands/subagent-sweep/subagent-sweep.command.ts
++++ b/command-system/commands/subagent-sweep/subagent-sweep.command.ts
+@@ -29,7 +29,7 @@ export const subagentSweep = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A page goes only where the run was told to remove and the census judged it stale.",
++        "A page goes only where the run was told to remove and the census judged that page stale.",
+     },
+     {
+       invariantKind: "absence",
