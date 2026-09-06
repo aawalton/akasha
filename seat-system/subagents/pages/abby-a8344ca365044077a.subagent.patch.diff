@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-to-keep-clarity-without-false-certainty.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-to-keep-clarity-without-false-certainty.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d9b75b6699213346bf17ba6d79370ea398c5cc79
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-to-keep-clarity-without-false-certainty.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howToKeepClarityWithoutFalseCertainty = {
++  id: "01a077ec-5c6a-763a-959a-625c42c50e9e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-to-keep-clarity-without-false-certainty",
++  topicSlug: "how-i-come-across",
++  ask: "How do I keep the clarity without the false certainty?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-my-delivery-projects-certainty.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-my-delivery-projects-certainty.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d7dab27f5e6d74812aafe5786a24a0c427bda6ad
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-my-delivery-projects-certainty.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherMyDeliveryProjectsCertainty = {
++  id: "01a077ec-5c68-7148-9cb0-63ab541cb4eb",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-my-delivery-projects-certainty",
++  topicSlug: "how-i-come-across",
++  ask: "Does my flat, proof-shaped delivery project near-certainty, so that a tentative idea of mine lands as a challenge?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-certainty-gap-pulls-people-into-conflict.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-certainty-gap-pulls-people-into-conflict.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fda39c81e48af1a69bb6c60332aa3b79d9fa09bc
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-certainty-gap-pulls-people-into-conflict.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheCertaintyGapPullsPeopleIntoConflict = {
++  id: "01a077ec-5c69-73f5-bc18-cd7873e278d2",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-certainty-gap-pulls-people-into-conflict",
++  topicSlug: "how-i-come-across",
++  ask: "Does the gap between how sure I sound and how sure I am pull people into defensiveness, and into the conflict I of anyone can least afford to pay for?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/why-i-trip-the-pattern-knowing-it.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/why-i-trip-the-pattern-knowing-it.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fb2cda834046e9cecb158b9f054987c760580b33
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/why-i-trip-the-pattern-knowing-it.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whyITripThePatternKnowingIt = {
++  id: "01a077ec-5c6a-7973-8dd6-33617dd5de77",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "why-i-trip-the-pattern-knowing-it",
++  topicSlug: "how-i-come-across",
++  ask: "I know the pattern and still trip it. Is that because the same voice that makes me clear is the voice that makes me sound sure?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-i-come-across.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-i-come-across.all-about-alan-topic.ts
+index 0272eff155fdd8511ff2f1aa4a27dedea7ce4ea4..edd2e2b5415838f7e05b6d011814f762124b7e0a 100644
+--- a/alan/books/all-about-alan/topics/pages/how-i-come-across.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-i-come-across.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const howIComeAcross = {
+   relatedSlugs: ["being-known", "how-much-of-me-is-machine"],
+   settled:
+     "I think out loud, in hypotheses and questions, and I drive a conversation by building on what the other person said rather than overriding it.\n\nMy speech and my prose are window-pane: short declaratives, no hedging, no filler, so the words disappear and leave the content.\n\nI reach for mechanism over impression, and my metaphors are computational and economic by instinct.\n\nThe warmth shows less in what I say than in the care I take to get it right, so the regard arrives as rigor before it arrives as words. I give the hard answer and will not flatter to soften it.\n\nI hold most claims at about three-quarters confidence, under a sense that half of everything I believe is wrong.",
+-  unsettled:
+-    "My flat, proof-shaped delivery projects near-certainty, so a tentative idea can land as a challenge.\n\nThat gap pulls people into defensiveness, and into the conflict I of anyone can least afford to pay for.\n\nI know the pattern and still trip it, because the same voice that makes me clear is the voice that makes me sound sure.\n\nHow to keep the clarity without the false certainty is unsolved.",
+ } as const satisfies AllAboutAlanTopic
