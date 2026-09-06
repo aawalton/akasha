@@ -14,7 +14,7 @@ export const esoOptIn = {
     {
       invariantKind: "departure",
       statement:
-        "A manifest naming no function is refused rather than read as a scope that names none.",
+        "A manifest naming no function is refused rather than read as a scope naming no function.",
     },
   ],
 } as const satisfies Module
