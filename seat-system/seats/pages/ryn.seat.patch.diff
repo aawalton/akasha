@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/infrastructure/auth-proxy/ws-bridge/ws-bridge.module.ts b/infrastructure/auth-proxy/ws-bridge/ws-bridge.module.ts
+index 12c9a18e6699f069c2e1ee5479b9cbb5cf4d24d3..c726b9787e5eb88a6916e6e2481f1dc4735e6f87 100644
+--- a/infrastructure/auth-proxy/ws-bridge/ws-bridge.module.ts
++++ b/infrastructure/auth-proxy/ws-bridge/ws-bridge.module.ts
+@@ -14,7 +14,7 @@ export const wsBridge = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Either side closing closes the other.",
++      statement: "Either side closing closes the far side.",
+     },
+   ],
+ } as const satisfies Module
