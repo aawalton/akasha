@@ -1,8 +1,16 @@
 diff --git a/command-system/drafting/drafting.module.code.ts b/command-system/drafting/drafting.module.code.ts
-index 17f733ec596a0fdf6df4e49381c51a17542dde69..2d33318b36410fbddd13dbce0c23af3377cc19a3 100644
+index 17f733ec596a0fdf6df4e49381c51a17542dde69..f290ac0f2aeb26c9c618c1a5d103d8a3b82fe655 100644
 --- a/command-system/drafting/drafting.module.code.ts
 +++ b/command-system/drafting/drafting.module.code.ts
-@@ -42,13 +42,25 @@ const NOT_OWED_AT = "writerOwesReading: false"
+@@ -8,6 +8,7 @@ import {
+   mergedOnto,
+   sameBody,
+ } from "../body-merging/body-merging.module.code.ts"
++import type { Kind } from "../calling/calling.module.code.ts"
+ import { bodyAt } from "../commit-reading/commit-reading.module.code.ts"
+ import { committed } from "../committing/committing.module.code.ts"
+ import { holding } from "../holding/holding.module.code.ts"
+@@ -42,13 +43,25 @@ const NOT_OWED_AT = "writerOwesReading: false"
  
  const NOT_OWED_WAS = "runsWarrants: false"
  
