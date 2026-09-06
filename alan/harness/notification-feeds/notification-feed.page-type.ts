@@ -35,7 +35,7 @@ export const notificationFeed = {
     },
     {
       invariantKind: "departure",
-      statement: "One person has one feed, whatever pushed at that person.",
+      statement: "One person has one feed whatever pushed at that person.",
     },
     {
       invariantKind: "departure",
