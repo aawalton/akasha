@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
-index 7bf38474cec8f2844d5d368cbfeaf49af404210f..da94cf582604c73be41aa6523453587c67c596b3 100644
+index 7bf38474cec8f2844d5d368cbfeaf49af404210f..2711268775cb22897ffca5fd976bde9c233dbee7 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.ts
 +++ b/seat-system/subagents/presence/subagent-presence.module.ts
 @@ -31,15 +31,16 @@ export const subagentPresence = {
@@ -29,6 +29,15 @@ index 7bf38474cec8f2844d5d368cbfeaf49af404210f..da94cf582604c73be41aa6523453587c
        statement:
 -        "A page taken up states the assignment history held only where its seat states none.",
 +        "A page taken up states the assignment history held only where its seat states no assignment.",
+     },
+     {
+       invariantKind: "departure",
+@@ -93,7 +94,7 @@ export const subagentPresence = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A time is said to the millisecond, carrying the offset it was written at.",
++      statement: "A time is said to the millisecond with the offset that time was written at.",
      },
      {
        invariantKind: "departure",
