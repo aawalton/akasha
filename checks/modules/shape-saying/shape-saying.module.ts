@@ -13,7 +13,7 @@ export const shapeSaying = {
     },
     {
       invariantKind: "departure",
-      statement: "A shape may cap how many that shape says.",
+      statement: "A shape may cap how many files that shape says.",
     },
     {
       invariantKind: "departure",
