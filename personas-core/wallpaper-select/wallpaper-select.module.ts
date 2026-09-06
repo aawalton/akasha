@@ -10,11 +10,11 @@ export const wallpaperSelect = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A persona is picked before one of her wallpapers is.",
+      statement: "A persona is picked before her wallpaper is picked.",
     },
     {
       invariantKind: "departure",
-      statement: "A follow pick takes the highest level at or under the one asked for.",
+      statement: "A follow pick takes the highest level at or under the level asked for.",
     },
   ],
 } as const satisfies Module
