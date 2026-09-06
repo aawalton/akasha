@@ -365,3 +365,27 @@ index 46d0a1d11ee52b93de508d3d0155c8b1c9613fe0..576b53aa623c30d6567d42c2dadc46f0
      const darkened = unlit(query, counted.dark)
      if (darkened !== null) return { refused: darkened }
      held = counted.rows.filter((one) => narrows(one.value, query.where))
+diff --git a/pages/system-service/page-serving/page-serving.module.code.ts b/pages/system-service/page-serving/page-serving.module.code.ts
+index d826880307a4cc33637ef867397d7c3b6079da10..09134c88fffeb6be596c797d577e5f3daf63b8c5 100644
+--- a/pages/system-service/page-serving/page-serving.module.code.ts
++++ b/pages/system-service/page-serving/page-serving.module.code.ts
+@@ -99,6 +99,7 @@ export function queryIn(given: unknown): Read {
+     descending?: boolean
+     limit?: number
+     offset?: number
++    files?: readonly string[]
+   } = { pageTypeSlug }
+   if (held.where !== undefined) {
+     const where = objectIn(held.where)
+@@ -132,6 +133,11 @@ export function queryIn(given: unknown): Read {
+     if (typeof held.offset !== "number") return { refused: "`offset` is a number" }
+     query.offset = held.offset
+   }
++  if (held.files !== undefined) {
++    const files = stringsIn(held.files)
++    if (files === null) return { refused: "`files` is a list of strings" }
++    query.files = files
++  }
+   return { query }
+ }
+ 
