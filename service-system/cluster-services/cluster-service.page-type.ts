@@ -113,7 +113,7 @@ export const clusterService = {
     },
     {
       invariantKind: "absence",
-      statement: "The resource the cluster calls a Service is not one of these cluster services.",
+      statement: "The resource the cluster calls a Service is no cluster service.",
     },
     {
       invariantKind: "departure",
