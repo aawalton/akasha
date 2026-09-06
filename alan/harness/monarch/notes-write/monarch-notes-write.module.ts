@@ -9,8 +9,7 @@ export const monarchNotesWrite = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A note is written only where a live read at the moment of writing, not our copy, shows no note.",
+      statement: "A note is written only where a live read at the moment of writing shows no note.",
     },
     {
       invariantKind: "departure",
@@ -19,8 +18,11 @@ export const monarchNotesWrite = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The standing transaction is returned, so a caller can say which transaction was passed over and why.",
+      statement: "The standing transaction is returned.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A caller says which transaction was passed over and why.",
     },
     {
       invariantKind: "departure",
@@ -28,8 +30,11 @@ export const monarchNotesWrite = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Setting tags states the whole list, so the standing tags are carried rather than replaced.",
+      statement: "Setting tags states the whole list.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The standing tags are carried rather than replaced.",
     },
 
     {
