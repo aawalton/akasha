@@ -1,0 +1,17 @@
+diff --git a/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts b/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts
+index 0ae7af6b2280a4bf7f37a69321f58846d37fbf08..ced75ae38a0942b400b3282d93f0dc49600f3ced 100644
+--- a/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts
++++ b/alan/harness/inboxes/inbox-tracking-polling/inbox-tracking-polling.module.ts
+@@ -47,7 +47,11 @@ export const inboxTrackingPolling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One tick is one poll and one write, and then the run is over.",
++      statement: "A tick is one poll followed by one write.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The run is over once that tick is done.",
+     },
+   ],
+ } as const satisfies Module
