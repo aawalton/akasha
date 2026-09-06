@@ -1,6 +1,6 @@
 runsWarrants: false
 diff --git a/command-system/commands/refactor/refactor.command.ts b/command-system/commands/refactor/refactor.command.ts
-index 809e2755b6345bd49330528a3f4d701006939552..40fdb4d91f23c78ec6192302b1ec8d74a99d302c 100644
+index 809e2755b6345bd49330528a3f4d701006939552..0f2806dd592175c5bf1b4d1c24a36a81eb90eb44 100644
 --- a/command-system/commands/refactor/refactor.command.ts
 +++ b/command-system/commands/refactor/refactor.command.ts
 @@ -190,7 +190,7 @@ export const refactor = {
@@ -30,7 +30,17 @@ index 809e2755b6345bd49330528a3f4d701006939552..40fdb4d91f23c78ec6192302b1ec8d74
      },
      {
        invariantKind: "departure",
-@@ -262,7 +262,7 @@ export const refactor = {
+@@ -241,7 +241,8 @@ export const refactor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A package rename wider than one batch lands as expand, migrate and contract.",
++      statement:
++        "A package rename wider than one batch lands as expand then migrate then contract.",
+     },
+     {
+       invariantKind: "departure",
+@@ -262,7 +263,7 @@ export const refactor = {
      {
        invariantKind: "departure",
        statement:
@@ -39,7 +49,7 @@ index 809e2755b6345bd49330528a3f4d701006939552..40fdb4d91f23c78ec6192302b1ec8d74
      },
      {
        invariantKind: "absence",
-@@ -304,7 +304,7 @@ export const refactor = {
+@@ -304,7 +305,7 @@ export const refactor = {
  
      {
        invariantKind: "departure",
