@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/readout-system/readout-groups/pages/inboxes.readout-group.ts b/readout-system/readout-groups/pages/inboxes.readout-group.ts
+index b58331b1ae4a3b1f4935e59d77d46ae57e6342a1..f9a9a00f304261ab1de22dcc949dc5e61d709ec6 100644
+--- a/readout-system/readout-groups/pages/inboxes.readout-group.ts
++++ b/readout-system/readout-groups/pages/inboxes.readout-group.ts
+@@ -9,7 +9,8 @@ export const inboxes = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A daily inbox of a hundred or more is black rather than a reading gone missing.",
++      statement:
++        "A daily inbox of at least a hundred readings is black rather than a reading gone missing.",
+     },
+     {
+       invariantKind: "departure",
