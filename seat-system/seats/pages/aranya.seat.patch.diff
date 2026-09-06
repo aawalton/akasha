@@ -370,3 +370,17 @@ index 0000000000000000000000000000000000000000..ddffa49947ae0c17d28a8ebd7bc4c185
 +  slug: "collections-secrets-zero-admin-password",
 +  placements: [{ resourceName: "collections-secrets", resourceKey: "ZERO_ADMIN_PASSWORD" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/pipeline-engine-secrets-age-secret-key.secret.ts b/service-system/secrets/pages/pipeline-engine-secrets-age-secret-key.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..41158570f782d58d5824010e103ccee8159ed76e
+--- /dev/null
++++ b/service-system/secrets/pages/pipeline-engine-secrets-age-secret-key.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const pipelineEngineSecretsAgeSecretKey = {
++  id: "01a076b8-884b-7b7b-9774-036c6cfd9e2c",
++  pageTypeSlug: "secret",
++  slug: "pipeline-engine-secrets-age-secret-key",
++  placements: [{ resourceName: "pipeline-engine-secrets", resourceKey: "AGE_SECRET_KEY" }],
++} as const satisfies Secret
