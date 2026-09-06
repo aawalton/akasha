@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/temper/temper-items-rules-core/can-sell-filter/can-sell-filter.module.ts b/temper/temper-items-rules-core/can-sell-filter/can-sell-filter.module.ts
+index 6c2106a4cb1e3a0fcb6d51dfe798c28887251f8c..28bcea325dc0401bdc55a6c35fba2fe7066618a5 100644
+--- a/temper/temper-items-rules-core/can-sell-filter/can-sell-filter.module.ts
++++ b/temper/temper-items-rules-core/can-sell-filter/can-sell-filter.module.ts
+@@ -13,8 +13,7 @@ export const canSellFilter = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A rule whose action is other than `sell` or `fence-sell` is offered none of this condition.",
++      statement: "A rule whose action is not `sell` or `fence-sell` is not offered this condition.",
+     },
+   ],
+ } as const satisfies Module
