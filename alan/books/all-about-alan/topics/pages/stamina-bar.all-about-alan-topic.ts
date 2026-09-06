@@ -8,6 +8,4 @@ export const staminaBar = {
   definition: "what my body has left to move with",
   parentSlugs: ["resource-bars"],
   relatedSlugs: ["mana-bar"],
-  unsettled:
-    "Nothing below zero has surfaced for stamina either, and the same three readings fit as for mana.\n\nHow stamina actually moves is uncaptured: what sleep puts back, what the day takes out, and what fatigue, sleep debt, hunger and thirst do to it.",
 } as const satisfies AllAboutAlanTopic
