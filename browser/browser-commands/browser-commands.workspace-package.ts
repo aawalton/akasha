@@ -23,7 +23,7 @@ export const browserCommands = {
     },
     {
       invariantKind: "departure",
-      statement: "The user a command here signs in as is checked against the protected one.",
+      statement: "The user a command here signs in as is checked against the protected user.",
     },
     {
       invariantKind: "absence",
