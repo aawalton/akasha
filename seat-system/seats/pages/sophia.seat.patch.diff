@@ -1,13 +1,16 @@
 diff --git a/mobile-cli/build-stamp-gate/build-stamp-gate.module.test.ts b/mobile-cli/build-stamp-gate/build-stamp-gate.module.test.ts
-index f3f2970ef2d24e5840e53f17e58002a4374b8d47..d61d860b4e5d7057e10d072bee5e86965c9f2919 100644
+index f3f2970ef2d24e5840e53f17e58002a4374b8d47..8d5305705ae1c14917e93b8f257560afc29cdd95 100644
 --- a/mobile-cli/build-stamp-gate/build-stamp-gate.module.test.ts
 +++ b/mobile-cli/build-stamp-gate/build-stamp-gate.module.test.ts
-@@ -14,7 +14,7 @@ import {
+@@ -14,9 +14,9 @@ import {
  } from "./build-stamp-gate.module.code.ts"
  
  const APP = resolveApp("alanwalton")
 -const SHARED_SEAM_DIR = "akasha/code-system/ios-apps/scripts"
 +const SHARED_SEAM_DIR = "code-system/ios-apps/scripts"
  const STAMP_SEAM_REPO_PATH = `${SHARED_SEAM_DIR}/build-stamp/build-stamp.shell-script.shell.sh`
- const APP_SEAM_DIR = "akasha/code-system/ios-apps/pages"
+-const APP_SEAM_DIR = "akasha/code-system/ios-apps/pages"
++const APP_SEAM_DIR = "code-system/ios-apps/pages"
  const COMMIT = "977e7d5a3e2f4fbc3942db6faff252272809668e"
+ const IPA = "build/export/App.ipa"
+ 
