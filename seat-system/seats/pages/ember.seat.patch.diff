@@ -1,3 +1,16 @@
+diff --git a/temper/temper-web/companions-data-content/companions-data-content.module.code.tsx b/temper/temper-web/companions-data-content/companions-data-content.module.code.tsx
+index afc7530f9c2104bac94c24354400bf9a0775400b..9eedf863aa7a4992051e1d3721c349df89d6892f 100644
+--- a/temper/temper-web/companions-data-content/companions-data-content.module.code.tsx
++++ b/temper/temper-web/companions-data-content/companions-data-content.module.code.tsx
+@@ -186,7 +186,7 @@ export function CompanionsDataContent({
+               { key: "accountPage", eq: userId },
+               { key: "companionId", eq: entity.companionId },
+             ],
+-            set: { sortOrder: index },
++            set: { displayOrder: index },
+           })
+         )
+       )
 diff --git a/temper/temper-web/plan-tab/plan-tab.module.code.tsx b/temper/temper-web/plan-tab/plan-tab.module.code.tsx
 index 435909b6177b573890aa88b48f1068394880a980..c7760dfa2bdf4b8d853b371c98fb4716ed46e1cc 100644
 --- a/temper/temper-web/plan-tab/plan-tab.module.code.tsx
