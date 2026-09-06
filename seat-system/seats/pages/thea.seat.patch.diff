@@ -5141,7 +5141,7 @@ index 95cd27462b9d5f9a76b2ebc8b4833b27a9b18dbd..b4329f22aa07484f57aa8d8b517b407c
      { pagePropertySlug: "number-property/page-size", required: false, many: false },
      { pagePropertySlug: "number-property/item-page-size", required: false, many: false },
 diff --git a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts b/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
-index 7ba787eb6911c17f5c71ff99984fa9e62f7d3d65..494f7bde84a67f2dbb4eecacd1f844efa55f19e2 100644
+index 7ba787eb6911c17f5c71ff99984fa9e62f7d3d65..a081a0ba0c31f4b460f9fa1c7cae752dc8247e02 100644
 --- a/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
 +++ b/person-system/device-secrets/properties/device-secret-device-id.text-property.ts
 @@ -8,7 +8,7 @@ export const deviceSecretDeviceId = {
@@ -5153,6 +5153,15 @@ index 7ba787eb6911c17f5c71ff99984fa9e62f7d3d65..494f7bde84a67f2dbb4eecacd1f844ef
    nameFormatSlug: "name-format/upper-uuid",
    invariants: [
      {
+@@ -18,7 +18,7 @@ export const deviceSecretDeviceId = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A device uninstalling the app states a new one.",
++      statement: "A device uninstalling the app states a new identifier.",
+     },
+   ],
+ } as const satisfies TextProperty
 diff --git a/person-system/device-secrets/properties/device-secret-hash.text-property.ts b/person-system/device-secrets/properties/device-secret-hash.text-property.ts
 index 6e3dbdc8197113691f3a802a577545aef95e2aa1..b68d12e175168f8f0affaf870d1d11d4dfccb2b4 100644
 --- a/person-system/device-secrets/properties/device-secret-hash.text-property.ts
