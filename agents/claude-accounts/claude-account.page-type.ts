@@ -60,6 +60,8 @@ export const claudeAccount = {
   partSlugs: [
     "command/claude-account-add",
     "command/claude-account-re-enable",
+    "computed-property/effective-five-hour-percent-used",
+    "computed-property/effective-seven-day-percent-used",
     "email-address-property/email",
     "instant-property/access-token-expires-at",
     "instant-property/five-hour-resets-at",
@@ -198,6 +200,16 @@ export const claudeAccount = {
       required: false,
       many: false,
       uncommitted: true,
+    },
+    {
+      pagePropertySlug: "computed-property/effective-five-hour-percent-used",
+      required: false,
+      many: false,
+    },
+    {
+      pagePropertySlug: "computed-property/effective-seven-day-percent-used",
+      required: false,
+      many: false,
     },
   ],
   invariants: [
