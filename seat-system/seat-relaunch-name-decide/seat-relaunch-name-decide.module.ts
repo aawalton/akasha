@@ -14,13 +14,12 @@ export const seatRelaunchNameDecide = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name stated by the caller binds only where the row holds none, so a relaunch never renames a seat.",
+      statement: "A name stated by the caller binds only where the row holds no name.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A seat with a name on neither the row nor the call needs one before that seat relaunches.",
+        "A seat with a name on neither the row nor the call needs a name before that seat relaunches.",
     },
   ],
 } as const satisfies Module
