@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/code-system/ios-harnesses/scripts/render-harness-run/render-harness-run.shell-script.ts b/code-system/ios-harnesses/scripts/render-harness-run/render-harness-run.shell-script.ts
+index 47a3c41b3fb1d24174a93d3cbbc955b4329dda7a..fedb9d842c7f540ec7b46010352f9e2d1cef62b9 100644
+--- a/code-system/ios-harnesses/scripts/render-harness-run/render-harness-run.shell-script.ts
++++ b/code-system/ios-harnesses/scripts/render-harness-run/render-harness-run.shell-script.ts
+@@ -10,7 +10,7 @@ export const renderHarnessRun = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A workstation that is not a mac hands the run to one that is.",
++      statement: "A workstation that is not a mac hands the run to a workstation that is a mac.",
+     },
+     {
+       invariantKind: "departure",
