@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts b/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
-index 05a2f6be64901df7ee080244a38538a697ad3c04..7336424dc549ab939c6f478e0b2c9000753d6123 100644
+index 05a2f6be64901df7ee080244a38538a697ad3c04..93d57f8511a4a0ea52b44c9684f604174e293832 100644
 --- a/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
 +++ b/alan/harness/monarch/transaction-create/monarch-transaction-create.module.ts
 @@ -9,7 +9,7 @@ export const monarchTransactionCreate = {
@@ -11,13 +11,19 @@ index 05a2f6be64901df7ee080244a38538a697ad3c04..7336424dc549ab939c6f478e0b2c9000
      },
      {
        invariantKind: "departure",
-@@ -18,8 +18,7 @@ export const monarchTransactionCreate = {
+@@ -18,13 +18,12 @@ export const monarchTransactionCreate = {
      },
      {
        invariantKind: "departure",
 -      statement:
 -        "A row created and then refused its tag is refused loudly, because the row stands unmarked.",
 +      statement: "A row created and then refused its tag is refused loudly.",
+     },
+     {
+       invariantKind: "departure",
+       statement:
+-        "A transfer is two rows against one account, one out of a category and one into another.",
++        "A transfer is a row out of one category and a row into another category against one account.",
      },
      {
        invariantKind: "departure",
