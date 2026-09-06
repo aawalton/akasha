@@ -1,5 +1,5 @@
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
-index bf8100a697b850ffe420b0763e21534e841ae263..358cc8c15c98c1d20db18d9bd5d5a5e3d7ff59ba 100644
+index bf8100a697b850ffe420b0763e21534e841ae263..d07eca9cd73fc8ad5287bdf4d512116bd6ce1191 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
 +++ b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
 @@ -13,7 +13,7 @@ import { dirname, join } from "node:path"
@@ -11,3 +11,34 @@ index bf8100a697b850ffe420b0763e21534e841ae263..358cc8c15c98c1d20db18d9bd5d5a5e3
  import { agentTreeLine, statusBarLine } from "../beat-drawing/beat-drawing.module.code.ts"
  import {
    decide,
+@@ -41,11 +41,12 @@ const INTERFACES_AT = "alan/harness/code-editor/code-editor-data-interfaces/page
+ const SCRATCH_AT = "alan/harness/code-editor/code-editor-data-interfaces"
+ const SEATS_AT = "seat-system/seats/pages"
+ const TURN_STATES_AT = "seat-system/seat-turn-states/pages"
+-// Every tree is read out of the akasha index, and the index says it moved by one small file.
+-// Watching that beats watching every source file: the editor watched `**/*.ts`, 42 writes a
+-// minute of which 11 in 318 could move a row.
+-const INDEX_AT = ".git/data/index"
+-const INDEX_STAMP = "stamp.jsonl"
++// Every tree is read out of the akasha index. Watching the index beats watching every source file:
++// the editor watched `**/*.ts`, 42 writes a minute of which 11 in 318 could move a row. This one
++// folder holds a file for each page type and is written whenever a page of that type lands, so an
++// event there says the index moved. It is followed for its events alone: the folder runs to 387
++// files and 39 MB, which is far more than reading it at every write is worth.
++const INDEX_VALUE_AT = ".git/data/index/value"
+ const SIDECAR = ".uncommitted.ts"
+ const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
+ const SETTLE_MS = 25
+@@ -55,10 +56,12 @@ const STATUS_EVERY_MS = 30_000
+ 
+ // One picture, the folders it is made from, and the cooldown it is written under. `holds` answers
+ // whether a file is one this picture reads, so a change reaches only the pictures it can move.
++// A picture moving with the index is worked out again on any event under the index instead.
+ type Picture = {
+   readonly cooldownMs: number
+   readonly folders: readonly string[]
+   readonly holds: (at: string) => boolean
++  readonly movesWithIndex?: boolean
+   readonly line: () => string | null
+   readonly refresh?: () => Promise<undefined>
+   readonly everyMs?: number
