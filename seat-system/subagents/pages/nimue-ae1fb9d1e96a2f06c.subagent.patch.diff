@@ -138,6 +138,26 @@ index f4c920cb9d9d83da19c9986b11a6dfe486387a53..b23d2f325e17f886e912fb7940f3fc3b
    const bypass = bypassIn(given, held)
    const built = gateBuilt(given.root)
    if ("broken" in built && bypass === null) return unloadable(built.broken)
+diff --git a/command-system/asking/asking.module.ts b/command-system/asking/asking.module.ts
+index 94f50526abd5d7e38fae1c215c76303c01fcc06b..68cd7950b493c4606431f5c6e3c56e0bcfeafdc0 100644
+--- a/command-system/asking/asking.module.ts
++++ b/command-system/asking/asking.module.ts
+@@ -126,6 +126,15 @@ export const asking = {
+       invariantKind: "departure",
+       statement: "The lockfile is made again before the gate sees the change.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "Formatting, the lockfile and the worked type are worked out before the hold is taken.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every road that lands works those three out through one step here.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A lockfile that could not be made is said rather than refusing the change.",
 diff --git a/command-system/commands/patch/patch.command.code.ts b/command-system/commands/patch/patch.command.code.ts
 index 0480ff0d6a16c942b8bb238cdcb5213c5af1836c..0f762812f22953e2c75e655f99e0a32afd86519e 100644
 --- a/command-system/commands/patch/patch.command.code.ts
