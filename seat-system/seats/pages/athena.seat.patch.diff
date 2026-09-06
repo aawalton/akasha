@@ -11,6 +11,19 @@ index d232e68e38d9988bd90d1d854d39e99cb31b2acf..4269ae2dcb524bf2431e03e0a67481ce
      },
    ],
    invariants: [
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
+index 53d17d7d807ffcb9e872085cbbf6ce58b2b5d87f..eb408cd79c2f71d5875fbb5d49fdfe36b14ad369 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/data-watching/data-watching.module.code.ts
+@@ -55,7 +55,7 @@ const TURN_STATES_AT = "seat-system/seat-turn-states/pages"
+ // files and 39 MB, which is far more than reading it at every write is worth.
+ const INDEX_VALUE_AT = ".git/data/index/value"
+ const SIDECAR = ".uncommitted.ts"
+-const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.jsonl"
++const STATE_TAIL = ".code-editor-data-interface.state.uncommitted.json"
+ const SETTLE_MS = 25
+ 
+ // One picture, the folders it is made from, and the cooldown it is written under. `holds` answers
 diff --git a/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts b/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
 index 68e88db5016d921c74a19178c9c4b7d510ef6e14..a4c61577a28d6d3f3fb2fd02665da9ab5d4f0d19 100644
 --- a/alan/harness/code-editor/code-editor-data-interfaces/properties/state.file-property.ts
