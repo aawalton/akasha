@@ -25,6 +25,7 @@ export const page = {
     "module/page-secret",
     "module/page-uncommitted",
     "module/page-value",
+    "module/page-value-reading",
     "page-type/view",
     "page-type/nav",
     "page-type/page",

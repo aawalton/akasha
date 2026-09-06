@@ -1,4 +1,4 @@
-import { slugsIn } from "@akasha/pages/page-value"
+import { slugsIn } from "@akasha/pages/page-value-reading"
 import { type MediaConfig, parseMediaConfig } from "@akasha/pages-core/schema/media-config"
 import { parseSequenceConfig, type SequenceConfig } from "@akasha/pages-core/schema/sequence-config"
 import type { Asked, Query } from "@akasha/pages-service/asking"

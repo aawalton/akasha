@@ -1,6 +1,22 @@
 import { readFileSync, statSync } from "node:fs"
 import { isAbsolute, join } from "node:path"
-import { addressIn } from "../address/page-address.module.code.ts"
+import type { Value } from "../value-reading/page-value-reading.module.code.ts"
+
+// WHAT READS A KEY OFF A VALUE IN HAND IS BESIDE THIS, WHERE NO MODULE NODE CARRIES IS IMPORTED.
+//
+// The phone's shell has no node, and the bundler making that shell refuses a build reaching one of
+// node's own modules; loading a body needs `Bun.Transpiler` too, which the phone has no more than
+// it has node. Reading a key off a value in hand needs neither, and a browser reaches only that.
+// Those readers are named again from here so a caller wanting both halves asks once.
+export {
+  numberAt,
+  slugAt,
+  slugOf,
+  slugsIn,
+  textAt,
+  textsAt,
+  type Value,
+} from "../value-reading/page-value-reading.module.code.ts"
 
 function newTranspiler() {
   return new Bun.Transpiler({ loader: "ts" })
@@ -23,8 +39,6 @@ const EXPORTED = /^export\s+/gm
 const NAMED = /^[A-Za-z_$][\w$]*$/
 
 const DEFAULT = "default"
-
-export type Value = Record<string, unknown>
 
 function firstValueIn(declared: Record<string, unknown>): Value | null {
   for (const one of Object.values(declared)) {
@@ -71,39 +85,4 @@ export function valueAt(path: string, repo: string): Value | null {
   const entry = statSync(at, { throwIfNoEntry: false })
   if (entry === undefined || !entry.isFile()) return null
   return loadedFrom(readFileSync(at, "utf8")).value
-}
-
-export function slugOf(named: string): string {
-  const address = addressIn(named)
-  return address.kind === "id" ? named : address.slug
-}
-
-export function textAt(value: Value, key: string): string | null {
-  const held = value[key]
-  return typeof held === "string" ? held : null
-}
-
-export function textsAt(value: Value, key: string): readonly string[] | null {
-  const held = value[key]
-  if (!Array.isArray(held)) return null
-  return held.every((one) => typeof one === "string") ? (held as readonly string[]) : null
-}
-
-export function numberAt(value: Value, key: string): number | null {
-  const held = value[key]
-  return typeof held === "number" ? held : null
-}
-
-export function slugAt(value: Value, key: string): string | null {
-  const named = textAt(value, key)
-  return named === null ? null : slugOf(named)
-}
-
-export function slugsIn(said: unknown): readonly string[] {
-  if (!Array.isArray(said)) return []
-  const named: string[] = []
-  for (const one of said) {
-    if (typeof one === "string" && one !== "") named.push(slugOf(one))
-  }
-  return named
 }
