@@ -1,9 +1,9 @@
 import type { WorkstationService } from "@akasha/service-system/workstation-service"
 
-export const pagesSystemService = {
+export const pagesService = {
   id: "01a05a43-5afa-7d0d-8d60-dbd3c3498f99",
   pageTypeSlug: "workstation-service",
-  slug: "pages-system-service",
+  slug: "pages-service",
   definition: "the service answering page queries and landing page writes",
   runs: ["bun pages/system-service/page-listening/page-listening.module.code.ts"],
   enabled: true,
