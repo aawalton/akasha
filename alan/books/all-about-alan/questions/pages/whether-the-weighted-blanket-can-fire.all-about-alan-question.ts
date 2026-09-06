@@ -5,5 +5,5 @@ export const whetherTheWeightedBlanketCanFire = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-the-weighted-blanket-can-fire",
   topicSlug: "sharing-a-bed",
-  ask: "Does Jen want weight on the bed too, or can the bed carry weight on one side only? That answer decides whether the weighted blanket can fire at all.",
+  ask: "The answer decides whether the weighted blanket can fire at all: does Jen want weight on the bed too, or can the bed carry weight on one side only?",
 } as const satisfies AllAboutAlanQuestion

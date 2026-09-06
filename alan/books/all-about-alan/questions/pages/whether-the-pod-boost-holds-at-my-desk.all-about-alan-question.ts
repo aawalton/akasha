@@ -5,5 +5,5 @@ export const whetherThePodBoostHoldsAtMyDesk = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-the-pod-boost-holds-at-my-desk",
   topicSlug: "what-the-pod-does-to-the-price",
-  ask: "Does the Nuropod boost apply the same way while I am working at a desk? I was wearing the Nuropod while working when this came up.",
+  ask: "I was wearing the Nuropod while working when this came up: does the Nuropod boost apply the same way while I am working at a desk?",
 } as const satisfies AllAboutAlanQuestion

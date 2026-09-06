@@ -5,5 +5,5 @@ export const whetherTheWashOutCurvePredictsMyStart = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-the-wash-out-curve-predicts-my-start",
   topicSlug: "what-shortens-my-nights",
-  ask: "Does the wash-out curve of the dose predict how much later I start the night? My anchor is a rough hour.",
+  ask: "With a rough hour as my anchor, does the wash-out curve of the dose predict how much later I start the night?",
 } as const satisfies AllAboutAlanQuestion

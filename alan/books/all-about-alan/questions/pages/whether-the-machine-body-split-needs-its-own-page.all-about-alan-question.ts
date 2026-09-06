@@ -5,5 +5,5 @@ export const whetherTheMachineBodySplitNeedsItsOwnPage = {
   pageTypeSlug: "all-about-alan-question",
   slug: "whether-the-machine-body-split-needs-its-own-page",
   topicSlug: "how-much-of-me-is-machine",
-  ask: "Does the split between machine-shaped thinking and a human body deserve its own treatment? More instances would say.",
+  ask: "More instances would say: does the split between machine-shaped thinking and a human body deserve its own treatment?",
 } as const satisfies AllAboutAlanQuestion

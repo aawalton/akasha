@@ -5,5 +5,5 @@ export const whichIdentitiesSurvivedTheCollapse = {
   pageTypeSlug: "all-about-alan-question",
   slug: "which-identities-survived-the-collapse",
   topicSlug: "when-i-lost-who-i-was",
-  ask: "Which identities survived, and how were they rebuilt or replaced after? My record stops at what fell.",
+  ask: "My record stops at what fell, so which identities survived, and how were those identities rebuilt or replaced after?",
 } as const satisfies AllAboutAlanQuestion
