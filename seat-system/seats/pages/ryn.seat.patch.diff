@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-companions-addon/companion-qol-interaction-state/companion-qol-interaction-state.module.ts b/temper/temper-companions-addon/companion-qol-interaction-state/companion-qol-interaction-state.module.ts
+index 80f1b8e709091174181103272050ade8003c398b..b7484fab8a4100237b270eb4216f52d6117c3963 100644
+--- a/temper/temper-companions-addon/companion-qol-interaction-state/companion-qol-interaction-state.module.ts
++++ b/temper/temper-companions-addon/companion-qol-interaction-state/companion-qol-interaction-state.module.ts
+@@ -10,7 +10,7 @@ export const companionQolInteractionState = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A companion dismissed by the player is told apart from one dismissed for an interaction.",
++        "A companion dismissed by the player is told apart from a companion dismissed for an interaction.",
+     },
+   ],
+ } as const satisfies Module
