@@ -10,7 +10,7 @@ export const changeGuard = {
   definition: "what judges the answer a change gives and says why that answer is refused",
   pluralSlug: "change-guards",
   extendsSlug: ["page-type/module"],
-  partSlugs: [],
+  partSlugs: ["change-guard/import-not-left-hanging", "change-guard/relation-not-left-hanging"],
   invariants: [
     {
       invariantKind: "departure",
@@ -42,11 +42,19 @@ export const changeGuard = {
     },
     {
       invariantKind: "departure",
+      statement: "A guard reads the committed index for a page the change takes away.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A guard unable to read the index refuses.",
     },
     {
       invariantKind: "departure",
       statement: "A shadow that will not build refuses the guard.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An empty list of references and an index that will not read are two verdicts.",
     },
     {
       invariantKind: "departure",

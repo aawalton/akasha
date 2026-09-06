@@ -19,6 +19,22 @@ export const changeGuarding = {
     },
     {
       invariantKind: "departure",
+      statement: "A guard is handed the root that answer was worked out against.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The index that answer leaves names no page that answer takes away.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The paths an answer takes away are read here rather than by each guard.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path a move leaves behind is no path taken away.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A shadow that will not build refuses rather than answering no reference.",
     },
     {

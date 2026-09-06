@@ -34,6 +34,7 @@ export const change = {
     "module/change-shadow",
     "module/change-guarding",
     "change/remove-file",
+    "change/remove-page",
     "change/rename-code-token",
     "change/rename-export",
     "change/rename-local-variable",
