@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/pages/address-kinds/page-address-kind.page-type.ts b/pages/address-kinds/page-address-kind.page-type.ts
+index 5dde36eb37536870e7b2bb122c02bc13263e1484..274398a9c56dc096b0f9a0148376ce1ac43e164a 100644
+--- a/pages/address-kinds/page-address-kind.page-type.ts
++++ b/pages/address-kinds/page-address-kind.page-type.ts
+@@ -22,7 +22,7 @@ export const pageAddressKind = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Each kind answers one reach a unique property is filed under.",
++      statement: "Each kind answers a single reach a unique property is filed under.",
+     },
+     {
+       invariantKind: "departure",
