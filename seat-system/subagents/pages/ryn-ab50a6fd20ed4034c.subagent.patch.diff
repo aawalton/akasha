@@ -1,0 +1,15 @@
+runsWarrants: false
+diff --git a/temper/temper-progress/inventory-rules/properties/updated-at.instant-property.ts b/temper/temper-progress/inventory-rules/properties/updated-at.instant-property.ts
+index 4cc5fce3190e2fb2a2b7a294b44f4dd5ae7b3241..e263dff2bc7a0dc5bedb9cbbab6a70cbab3895f8 100644
+--- a/temper/temper-progress/inventory-rules/properties/updated-at.instant-property.ts
++++ b/temper/temper-progress/inventory-rules/properties/updated-at.instant-property.ts
+@@ -11,7 +11,8 @@ export const updatedAt = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The game is told this so the game knows which rules it has already seen.",
++      statement:
++        "The game is told when a rule changed so the game knows which rules the game has already seen.",
+     },
+     {
+       invariantKind: "departure",
