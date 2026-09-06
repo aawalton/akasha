@@ -9,7 +9,7 @@ export const pageQuery = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A truncated population is refused rather than answered as the whole one.",
+      statement: "A truncated population is refused rather than answered as the whole population.",
     },
     {
       invariantKind: "departure",
