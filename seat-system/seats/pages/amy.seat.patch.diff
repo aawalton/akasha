@@ -1,3 +1,33 @@
+diff --git a/alan/fitness/commands/exercise-profile-set/exercise-profile-set.command.ts b/alan/fitness/commands/exercise-profile-set/exercise-profile-set.command.ts
+index d35a88a6634e6982b3bef280938ab959c3f130eb..22f5f04aa58f7085207ebe5f77524d3d4a6e9c62 100644
+--- a/alan/fitness/commands/exercise-profile-set/exercise-profile-set.command.ts
++++ b/alan/fitness/commands/exercise-profile-set/exercise-profile-set.command.ts
+@@ -12,13 +12,13 @@ export const exerciseProfileSet = {
+     { said: "--json", takes: "give what was written as JSON rather than as tab-separated rows" },
+   ],
+   helpNotes: [
+-    "the bodyweight is written onto the client-profile page already there rather than onto a new one.",
+-    "the answer names the moment the profile was written as well as the weight it now holds.",
++    "the bodyweight is written onto the person page already there rather than onto a new one.",
++    "the answer names the moment the person was written as well as the weight it now holds.",
+   ],
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "The bodyweight is written onto the client-profile page that is already there.",
++      statement: "The bodyweight is written onto the person page that is already there.",
+     },
+     {
+       invariantKind: "departure",
+@@ -30,7 +30,7 @@ export const exerciseProfileSet = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here creates a profile page.",
++      statement: "Nothing here creates a person page.",
+     },
+   ],
+ } as const satisfies Command
 diff --git a/alan/fitness/exercise-access/selection-policy/selection-policy.module.code.ts b/alan/fitness/exercise-access/selection-policy/selection-policy.module.code.ts
 index e271a33e66f6efc4d2c79ec72d8fb8e230d1f0f0..e82b51e8efecf1af4029f31b30412dab506d5005 100644
 --- a/alan/fitness/exercise-access/selection-policy/selection-policy.module.code.ts
