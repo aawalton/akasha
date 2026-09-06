@@ -29,7 +29,7 @@ export const temperEsoGenerateHudSceneCatalog = {
     },
     {
       invariantKind: "departure",
-      statement: "A run parses by the rules sitting beside it rather than by the tree's.",
+      statement: "A run parses by the rules sitting beside that run rather than by the tree's.",
     },
     {
       invariantKind: "departure",
