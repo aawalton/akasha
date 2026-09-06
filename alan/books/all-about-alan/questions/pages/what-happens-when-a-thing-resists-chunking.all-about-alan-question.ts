@@ -5,5 +5,5 @@ export const whatHappensWhenAThingResistsChunking = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-happens-when-a-thing-resists-chunking",
   topicSlug: "how-something-joins-the-rotation",
-  ask: "What do I do with something so engaging I will not chunk it, or something so dull I chunk it to nothing? Both failure modes are named and unworked.",
+  ask: "Both failure modes are named and unworked. What do I do with something so engaging I will not chunk it, or something so dull I chunk it to nothing?",
 } as const satisfies AllAboutAlanQuestion

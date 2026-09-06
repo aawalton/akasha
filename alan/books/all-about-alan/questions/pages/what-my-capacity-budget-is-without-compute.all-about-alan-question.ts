@@ -5,5 +5,5 @@ export const whatMyCapacityBudgetIsWithoutCompute = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-my-capacity-budget-is-without-compute",
   topicSlug: "the-money-we-are-living-on",
-  ask: "What would the capacity category be sized at with compute taken out of it? That figure has never been given for either half.",
+  ask: "The figure has never been given for either half. What would the capacity category be sized at with compute taken out of the category?",
 } as const satisfies AllAboutAlanQuestion

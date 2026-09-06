@@ -5,5 +5,5 @@ export const whatGroundMyCentreBeliefRestsOn = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-ground-my-centre-belief-rests-on",
   topicSlug: "testing-the-thing-at-my-centre",
-  ask: "What positive ground does the belief at my centre rest on, now that because-an-authority-says-so is gone? I have never stated that ground straight out.",
+  ask: "I have never stated the ground straight out. What positive ground does the belief at my centre rest on, now that because-an-authority-says-so is gone?",
 } as const satisfies AllAboutAlanQuestion

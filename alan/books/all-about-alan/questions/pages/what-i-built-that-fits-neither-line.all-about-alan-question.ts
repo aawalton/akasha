@@ -5,5 +5,5 @@ export const whatIBuiltThatFitsNeitherLine = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-i-built-that-fits-neither-line",
   topicSlug: "what-happens-when-something-gets-cheap",
-  ask: "What did I build this year that fits neither line? Abby asked and I could not recall one, which Abby reads as a fact about what my memory returns.",
+  ask: "Abby asked and I could not recall one, which Abby reads as a fact about what my memory returns. What did I build this year that fits neither line?",
 } as const satisfies AllAboutAlanQuestion

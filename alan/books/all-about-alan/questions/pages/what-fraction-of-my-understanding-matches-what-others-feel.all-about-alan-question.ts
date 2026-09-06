@@ -5,5 +5,5 @@ export const whatFractionOfMyUnderstandingMatchesWhatOthersFeel = {
   pageTypeSlug: "all-about-alan-question",
   slug: "what-fraction-of-my-understanding-matches-what-others-feel",
   topicSlug: "getting-to-a-feeling-through-an-idea",
-  ask: "What fraction of what I understand matches what other people feel? I flagged my own figure provisional and nobody has rechecked it.",
+  ask: "I flagged my own figure provisional and nobody has rechecked the figure. What fraction of what I understand matches what other people feel?",
 } as const satisfies AllAboutAlanQuestion
