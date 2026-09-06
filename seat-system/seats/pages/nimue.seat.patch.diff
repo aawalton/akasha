@@ -1,0 +1,13 @@
+diff --git a/seat-system/seats/pages/nimue.seat.ts b/seat-system/seats/pages/nimue.seat.ts
+index 952e7b7a62f4e83336d4c5f510a7ed35bd724316..59bd2690f72e406d9623137e5c78910c96cd8e1e 100644
+--- a/seat-system/seats/pages/nimue.seat.ts
++++ b/seat-system/seats/pages/nimue.seat.ts
+@@ -5,7 +5,7 @@ export const nimue = {
+   pageTypeSlug: "seat",
+   slug: "nimue",
+   personaSlug: "nimue",
+-  assignmentSlug: "initiative/nimue-computed-properties",
++  assignmentSlug: "workspace-package/page",
+   roleSlug: "definer",
+   personSlug: "alan",
+   startMode: "interactive",
