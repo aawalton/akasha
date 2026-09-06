@@ -40,3 +40,17 @@ index 0000000000000000000000000000000000000000..3ee3a4317d51380ebabe3d87f0b2907c
 +  alpha?: Alpha
 +  zed?: Zed
 +}
+diff --git a/pages/fmt-probe-nested.generated.ts b/pages/fmt-probe-nested.generated.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3ee3a4317d51380ebabe3d87f0b2907c16898f43
+--- /dev/null
++++ b/pages/fmt-probe-nested.generated.ts
+@@ -0,0 +1,8 @@
++import type { Page } from "@akasha/pages/page"
++import type { Alpha } from "./properties/alpha.computed-property.ts"
++import type { Zed } from "./properties/zed.computed-property.ts"
++
++export type WorkedThing = Thing & {
++  alpha?: Alpha
++  zed?: Zed
++}
