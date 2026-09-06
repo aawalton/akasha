@@ -12942,8 +12942,8 @@
     "carryCapacity": 60
   },
   "dailyWrits": {
-    "date": "2026-09-04",
-    "completed": 7
+    "completed": 6,
+    "date": "2026-09-06"
   },
   "dailyWritStates": {
     "completed": {
@@ -12964,7 +12964,7 @@
       "6": 6,
       "7": 7
     },
-    "date": "2026-09-04"
+    "date": "2026-09-06"
   },
   "motifKnowledge": {
     "1": {
