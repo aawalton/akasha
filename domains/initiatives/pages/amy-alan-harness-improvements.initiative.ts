@@ -16,5 +16,11 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "Alan's mobile wallpaper shows the persona he messaged most recently.",
     },
+    {
+      statement:
+        "`akasha measure attributes` answers each attribute's total level, floored to two decimals.",
+      workingMemory:
+        "The figures are the computed properties the total level of each attribute is worked out from, floored rather than rounded to two decimal places.",
+    },
   ],
 } as const satisfies Initiative
