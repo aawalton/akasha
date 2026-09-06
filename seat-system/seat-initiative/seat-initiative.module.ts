@@ -13,12 +13,12 @@ export const seatInitiative = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug reaches one initiative or none.",
+      statement: "A slug reaches one initiative or no initiative.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A seat's initiative is the assignment that seat states, addressed as an initiative.",
+        "A seat's initiative is the assignment that seat states addressed as an initiative.",
     },
     {
       invariantKind: "departure",
@@ -26,7 +26,11 @@ export const seatInitiative = {
     },
     {
       invariantKind: "departure",
-      statement: "A slug naming no initiative is refused, and the known ones are named back.",
+      statement: "A slug naming no initiative is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The initiatives akasha knows are named back.",
     },
     {
       invariantKind: "departure",
