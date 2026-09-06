@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/infrastructure/cluster/k8s-synth/k8s-synth.workspace-package.ts b/infrastructure/cluster/k8s-synth/k8s-synth.workspace-package.ts
+index 6d632b6d5eb32852b700f3de3d79f25c2ff9c41a..2e7b35649df2ba262953794ff654ae482dd0e42d 100644
+--- a/infrastructure/cluster/k8s-synth/k8s-synth.workspace-package.ts
++++ b/infrastructure/cluster/k8s-synth/k8s-synth.workspace-package.ts
+@@ -21,7 +21,7 @@ export const k8sSynth = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A synth file is found by the globs rather than by a list naming each one.",
++      statement: "A synth file is found by the globs rather than by a list naming each file.",
+     },
+   ],
+ } as const satisfies WorkspacePackage
