@@ -1,0 +1,736 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/agents/claude-accounts/properties/access-token.text-property.ts b/agents/claude-accounts/properties/access-token.text-property.ts
+index 880a9083330e504a6a6332ed247e6648d51aef7a..c168a66dd239f3141105c27aa3773685e3d3f958 100644
+--- a/agents/claude-accounts/properties/access-token.text-property.ts
++++ b/agents/claude-accounts/properties/access-token.text-property.ts
+@@ -8,7 +8,7 @@ export const accessToken = {
+   slug: "access-token",
+   propertySlug: "access-token",
+   definition: "the token a call to Anthropic carries",
+-  max: 4000,
++  maxLength: 4000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/agents/claude-accounts/properties/account-uuid.text-property.ts b/agents/claude-accounts/properties/account-uuid.text-property.ts
+index 8d7427fe26006e80afa719bf104891d33b0e9225..1ccc82a8c11b289c852f327550be97ff628f8e55 100644
+--- a/agents/claude-accounts/properties/account-uuid.text-property.ts
++++ b/agents/claude-accounts/properties/account-uuid.text-property.ts
+@@ -8,7 +8,7 @@ export const accountUuid = {
+   slug: "account-uuid",
+   propertySlug: "account-uuid",
+   definition: "the identity Anthropic knows the account by",
+-  max: 36,
++  maxLength: 36,
+   nameFormatSlug: "name-format/lower-uuid",
+   unique: "page-type",
+   invariants: [
+diff --git a/agents/claude-accounts/properties/rate-limit-tier.text-property.ts b/agents/claude-accounts/properties/rate-limit-tier.text-property.ts
+index 7f613751c7a9705fe2543d2dc71ce17b57dc290a..cfe59404c9fd4db3de710b4ebbb0b36d1d7869e7 100644
+--- a/agents/claude-accounts/properties/rate-limit-tier.text-property.ts
++++ b/agents/claude-accounts/properties/rate-limit-tier.text-property.ts
+@@ -8,7 +8,7 @@ export const rateLimitTier = {
+   slug: "rate-limit-tier",
+   propertySlug: "rate-limit-tier",
+   definition: "the band the size of the account's allowance is set by",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/agents/claude-accounts/properties/refresh-token.text-property.ts b/agents/claude-accounts/properties/refresh-token.text-property.ts
+index bc60a854b85d4d09fe9ab55b22b47ead538a0dba..7057e5d5b533a2dda2860240423c8c8f1d48f389 100644
+--- a/agents/claude-accounts/properties/refresh-token.text-property.ts
++++ b/agents/claude-accounts/properties/refresh-token.text-property.ts
+@@ -8,6 +8,6 @@ export const refreshToken = {
+   slug: "refresh-token",
+   propertySlug: "refresh-token",
+   definition: "the token a fresh access token is asked for with",
+-  max: 4000,
++  maxLength: 4000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/agents/claude-accounts/properties/rescued-access-token.text-property.ts b/agents/claude-accounts/properties/rescued-access-token.text-property.ts
+index c42d526dbaa9bb76dbb0bf366c528234f525601a..5bb2f48f2a9a8cfd5d8a4202a40222fcbf50d98b 100644
+--- a/agents/claude-accounts/properties/rescued-access-token.text-property.ts
++++ b/agents/claude-accounts/properties/rescued-access-token.text-property.ts
+@@ -8,7 +8,7 @@ export const rescuedAccessToken = {
+   slug: "rescued-access-token",
+   propertySlug: "access-token",
+   definition: "the access token a rescued credential carries",
+-  max: 4000,
++  maxLength: 4000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/agents/claude-accounts/properties/rescued-refresh-token.text-property.ts b/agents/claude-accounts/properties/rescued-refresh-token.text-property.ts
+index 41e89cde1282da213dcacae66a98ed2669e5283c..48acc47470b9c5b4f74114fc48c9d61c3cc9df18 100644
+--- a/agents/claude-accounts/properties/rescued-refresh-token.text-property.ts
++++ b/agents/claude-accounts/properties/rescued-refresh-token.text-property.ts
+@@ -8,7 +8,7 @@ export const rescuedRefreshToken = {
+   slug: "rescued-refresh-token",
+   propertySlug: "refresh-token",
+   definition: "the refresh token a rescued credential carries",
+-  max: 4000,
++  maxLength: 4000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/agents/claude-accounts/properties/scopes.text-property.ts b/agents/claude-accounts/properties/scopes.text-property.ts
+index 6b3c8c0f794dd51acd2c25a298d938396a4f6f11..f28717f85abd35464810c6db5b58b20d2e57a985 100644
+--- a/agents/claude-accounts/properties/scopes.text-property.ts
++++ b/agents/claude-accounts/properties/scopes.text-property.ts
+@@ -10,7 +10,7 @@ export const scopes = {
+   slug: "scopes",
+   propertySlug: "scopes",
+   definition: "one permission the account's token was granted",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/agents/claude-accounts/properties/subscription-disabled-reason.text-property.ts b/agents/claude-accounts/properties/subscription-disabled-reason.text-property.ts
+index 0b03b4fcc3f9c29346ecbaa932c66e3626e24bfd..3dc7bbbc4f1ee290b827f2ed4ac32adf1da611f2 100644
+--- a/agents/claude-accounts/properties/subscription-disabled-reason.text-property.ts
++++ b/agents/claude-accounts/properties/subscription-disabled-reason.text-property.ts
+@@ -8,7 +8,7 @@ export const subscriptionDisabledReason = {
+   slug: "subscription-disabled-reason",
+   propertySlug: "subscription-disabled-reason",
+   definition: "what stopped the account's subscription being usable",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/agents/claude-accounts/properties/subscription-type.text-property.ts b/agents/claude-accounts/properties/subscription-type.text-property.ts
+index 284719627352f9da9e41a2467a8fcb379c25ec99..fdf304920f3b7525797d84440267052ca668804b 100644
+--- a/agents/claude-accounts/properties/subscription-type.text-property.ts
++++ b/agents/claude-accounts/properties/subscription-type.text-property.ts
+@@ -8,7 +8,7 @@ export const subscriptionType = {
+   slug: "subscription-type",
+   propertySlug: "subscription-type",
+   definition: "the plan the account is subscribed on",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/agents/models/families/properties/model-name.text-property.ts b/agents/models/families/properties/model-name.text-property.ts
+index 35482161d9ff75f224ba662d70765af830d3cb82..ddb466ef2b56c82c8df84faffb59b6dd8789eb55 100644
+--- a/agents/models/families/properties/model-name.text-property.ts
++++ b/agents/models/families/properties/model-name.text-property.ts
+@@ -8,7 +8,7 @@ export const modelName = {
+   slug: "model-name",
+   propertySlug: "name",
+   definition: "the name a call carries to reach this family's model",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/agents/models/tests/properties/case-answer.text-property.ts b/agents/models/tests/properties/case-answer.text-property.ts
+index ac795463b51bb37f7e7d2e3e0d07470514b03068..db87e7270766fa7b29cb68d4660b1b3f39b8c03b 100644
+--- a/agents/models/tests/properties/case-answer.text-property.ts
++++ b/agents/models/tests/properties/case-answer.text-property.ts
+@@ -8,6 +8,6 @@ export const caseAnswer = {
+   slug: "case-answer",
+   propertySlug: "answer",
+   definition: "the answer a case is labelled with",
+-  max: 3,
++  maxLength: 3,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/agents/models/tests/properties/case-statement.text-property.ts b/agents/models/tests/properties/case-statement.text-property.ts
+index f5062af39212dfd9275bdb7c8cdd6a0e7a9e513d..37fe483a9c197e43d23d037809243c4df329b5e9 100644
+--- a/agents/models/tests/properties/case-statement.text-property.ts
++++ b/agents/models/tests/properties/case-statement.text-property.ts
+@@ -8,6 +8,6 @@ export const caseStatement = {
+   slug: "case-statement",
+   propertySlug: "statement",
+   definition: "what a case puts to a model about the page the case names",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/agents/models/tests/properties/prompt.text-property.ts b/agents/models/tests/properties/prompt.text-property.ts
+index f92fb4bb80a2489040dca440c869c1694a0917c8..a9412acd0053c38de145524c8273dd06efea0b29 100644
+--- a/agents/models/tests/properties/prompt.text-property.ts
++++ b/agents/models/tests/properties/prompt.text-property.ts
+@@ -8,6 +8,6 @@ export const prompt = {
+   slug: "prompt",
+   propertySlug: "prompt",
+   definition: "what a model is asked, before the text judged is appended",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/attributes/properties/point-unit.text-property.ts b/alan/attributes/properties/point-unit.text-property.ts
+index a26869ad18fea15d3b21443d1a4b4713bc273ac2..e4132be0b48d5e6fe99cdc3ea43658c2455b2391 100644
+--- a/alan/attributes/properties/point-unit.text-property.ts
++++ b/alan/attributes/properties/point-unit.text-property.ts
+@@ -8,6 +8,6 @@ export const pointUnit = {
+   slug: "point-unit",
+   propertySlug: "point-unit",
+   definition: "what earns one point in an attribute",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/authoring/book-records/properties/kept-by.text-property.ts b/alan/authoring/book-records/properties/kept-by.text-property.ts
+index c2231b2500a6f4fbb9a4447291896ed8244181cf..70cac5f4e129aceade2f0a11655482e4ca5aafe4 100644
+--- a/alan/authoring/book-records/properties/kept-by.text-property.ts
++++ b/alan/authoring/book-records/properties/kept-by.text-property.ts
+@@ -8,7 +8,7 @@ export const keptBy = {
+   slug: "kept-by",
+   propertySlug: "kept-by",
+   definition: "what keeps a record current",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/authoring/book-records/properties/record-book-slug.text-property.ts b/alan/authoring/book-records/properties/record-book-slug.text-property.ts
+index f2c83d2531fb7c13ab522ddbeb066544833d7618..e804c103cb4c21179b8383b228145677ed631538 100644
+--- a/alan/authoring/book-records/properties/record-book-slug.text-property.ts
++++ b/alan/authoring/book-records/properties/record-book-slug.text-property.ts
+@@ -8,7 +8,7 @@ export const recordBookSlug = {
+   slug: "record-book-slug",
+   propertySlug: "book-slug",
+   definition: "the book a record is kept about",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+   invariants: [
+     {
+diff --git a/alan/authoring/book-records/properties/record-brief.text-property.ts b/alan/authoring/book-records/properties/record-brief.text-property.ts
+index c2e0d2cabf217d99af5f06b9e16f1ad116b93160..6306fad58d3d6a4d637c5dc8fabc6f4e833b292c 100644
+--- a/alan/authoring/book-records/properties/record-brief.text-property.ts
++++ b/alan/authoring/book-records/properties/record-brief.text-property.ts
+@@ -8,7 +8,7 @@ export const recordBrief = {
+   slug: "record-brief",
+   propertySlug: "brief",
+   definition: "the summary a record carries apart from its text",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/books/all-about-alan/questions/properties/open-question.text-property.ts b/alan/books/all-about-alan/questions/properties/open-question.text-property.ts
+index be8e71de0504defcba1c6a767d15294ffc9d4521..7bb61a223afffc16fae0a1ef066c7dbf437b81e0 100644
+--- a/alan/books/all-about-alan/questions/properties/open-question.text-property.ts
++++ b/alan/books/all-about-alan/questions/properties/open-question.text-property.ts
+@@ -8,7 +8,7 @@ export const openQuestion = {
+   slug: "open-question",
+   propertySlug: "ask",
+   definition: "what is still open about a topic, put as one question",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/books/all-about-alan/topics/properties/topic-settled.text-property.ts b/alan/books/all-about-alan/topics/properties/topic-settled.text-property.ts
+index 3119f276696e7456d8a24755b24ea6ef45d06cf6..5d801ae55398e16afff4c8ca44be28bdb0574c9e 100644
+--- a/alan/books/all-about-alan/topics/properties/topic-settled.text-property.ts
++++ b/alan/books/all-about-alan/topics/properties/topic-settled.text-property.ts
+@@ -8,7 +8,7 @@ export const topicSettled = {
+   slug: "topic-settled",
+   propertySlug: "settled",
+   definition: "what is worked out about a topic",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+   invariants: [
+     {
+diff --git a/alan/car-research/car-makes/properties/charging-network-access.text-property.ts b/alan/car-research/car-makes/properties/charging-network-access.text-property.ts
+index 7e6992bdd7df60a3e3a61fd3b95aae1b2125aa6f..b5fe46b7d30b88d657eeec1cc8291920358f99ec 100644
+--- a/alan/car-research/car-makes/properties/charging-network-access.text-property.ts
++++ b/alan/car-research/car-makes/properties/charging-network-access.text-property.ts
+@@ -8,6 +8,6 @@ export const chargingNetworkAccess = {
+   slug: "charging-network-access",
+   propertySlug: "charging-network-access",
+   definition: "which charging networks the make's cars can use",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-makes/properties/country.text-property.ts b/alan/car-research/car-makes/properties/country.text-property.ts
+index 4acd3a187ef052d8b1b8473aa9fa80e14331ac67..baec94905750e5c64ab23caa846856d3a3729b49 100644
+--- a/alan/car-research/car-makes/properties/country.text-property.ts
++++ b/alan/car-research/car-makes/properties/country.text-property.ts
+@@ -8,6 +8,6 @@ export const country = {
+   slug: "country",
+   propertySlug: "country",
+   definition: "where the make is headquartered",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-makes/properties/drm-policy.text-property.ts b/alan/car-research/car-makes/properties/drm-policy.text-property.ts
+index 2f02fbf484e384932325f0fd99e48fe2842dca4f..263402c9a9841fe49468b2477b247bddf37a78f7 100644
+--- a/alan/car-research/car-makes/properties/drm-policy.text-property.ts
++++ b/alan/car-research/car-makes/properties/drm-policy.text-property.ts
+@@ -8,6 +8,6 @@ export const drmPolicy = {
+   slug: "drm-policy",
+   propertySlug: "drm-policy",
+   definition: "what the make locks behind its own software",
+-  max: 5000,
++  maxLength: 5000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-makes/properties/electrification-strategy.text-property.ts b/alan/car-research/car-makes/properties/electrification-strategy.text-property.ts
+index 4e451ff59c554c6b30d9e771618e6e0da259b609..7a5f73b89b8710a036e16beb67b39c337a6ec2be 100644
+--- a/alan/car-research/car-makes/properties/electrification-strategy.text-property.ts
++++ b/alan/car-research/car-makes/properties/electrification-strategy.text-property.ts
+@@ -8,6 +8,6 @@ export const electrificationStrategy = {
+   slug: "electrification-strategy",
+   propertySlug: "electrification-strategy",
+   definition: "what the make has said it will build and by when",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-makes/properties/kill-switch-policy.text-property.ts b/alan/car-research/car-makes/properties/kill-switch-policy.text-property.ts
+index 07641b549bba05a60e7be098b5fe59bb4f541050..38a543fb6af3d46d780f64bb485e005580ab4cf7 100644
+--- a/alan/car-research/car-makes/properties/kill-switch-policy.text-property.ts
++++ b/alan/car-research/car-makes/properties/kill-switch-policy.text-property.ts
+@@ -8,6 +8,6 @@ export const killSwitchPolicy = {
+   slug: "kill-switch-policy",
+   propertySlug: "kill-switch-policy",
+   definition: "what the make can stop the car doing from outside it",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-makes/properties/nacs-adoption.text-property.ts b/alan/car-research/car-makes/properties/nacs-adoption.text-property.ts
+index a0aea9112a4ee856a717456dba3070d630efe384..822b663577df33e08871b00dbb12bf2854593e1f 100644
+--- a/alan/car-research/car-makes/properties/nacs-adoption.text-property.ts
++++ b/alan/car-research/car-makes/properties/nacs-adoption.text-property.ts
+@@ -8,6 +8,6 @@ export const nacsAdoption = {
+   slug: "nacs-adoption",
+   propertySlug: "nacs-adoption",
+   definition: "how far the make has taken up the North American Charging Standard",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-makes/properties/parent-corporation.text-property.ts b/alan/car-research/car-makes/properties/parent-corporation.text-property.ts
+index 68c0f127bc76a7de5aa81c9aa3c7086d7a3ef4bf..58f21546c02d3616d93a5288ea2afe687c4799ce 100644
+--- a/alan/car-research/car-makes/properties/parent-corporation.text-property.ts
++++ b/alan/car-research/car-makes/properties/parent-corporation.text-property.ts
+@@ -8,6 +8,6 @@ export const parentCorporation = {
+   slug: "parent-corporation",
+   propertySlug: "parent-corporation",
+   definition: "the group the make belongs to",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-makes/properties/reliability-notes.text-property.ts b/alan/car-research/car-makes/properties/reliability-notes.text-property.ts
+index 5a78ae4f5ec5191130afb6df1ed7963b4ca24ced..da92f0abf81bc68157f218d2984c1129441e2f0c 100644
+--- a/alan/car-research/car-makes/properties/reliability-notes.text-property.ts
++++ b/alan/car-research/car-makes/properties/reliability-notes.text-property.ts
+@@ -8,6 +8,6 @@ export const reliabilityNotes = {
+   slug: "reliability-notes",
+   propertySlug: "reliability-notes",
+   definition: "how the make's cars hold up",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-models/properties/body-style.text-property.ts b/alan/car-research/car-models/properties/body-style.text-property.ts
+index 65ca4a5d777dd07731a2ec2678f27735986edc36..9442070ba5d44f403c6d81af1b733c0b8c6d415e 100644
+--- a/alan/car-research/car-models/properties/body-style.text-property.ts
++++ b/alan/car-research/car-models/properties/body-style.text-property.ts
+@@ -8,6 +8,6 @@ export const bodyStyle = {
+   slug: "body-style",
+   propertySlug: "body-style",
+   definition: "the shape of the body",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-models/properties/generation.text-property.ts b/alan/car-research/car-models/properties/generation.text-property.ts
+index 9ab0c2c47948ac6348e5556d777639e08306e170..e7beed60253959cfa33b31c6c6eca5abbe0b491b 100644
+--- a/alan/car-research/car-models/properties/generation.text-property.ts
++++ b/alan/car-research/car-models/properties/generation.text-property.ts
+@@ -8,6 +8,6 @@ export const generation = {
+   slug: "generation",
+   propertySlug: "generation",
+   definition: "which generation of the nameplate this is",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-models/properties/model-years-available.text-property.ts b/alan/car-research/car-models/properties/model-years-available.text-property.ts
+index aa63d7d2da4262aaa238396a4604b70b06c0d551..cdc674ff8898f8d709f4d9739635ec1f49f374f9 100644
+--- a/alan/car-research/car-models/properties/model-years-available.text-property.ts
++++ b/alan/car-research/car-models/properties/model-years-available.text-property.ts
+@@ -8,6 +8,6 @@ export const modelYearsAvailable = {
+   slug: "model-years-available",
+   propertySlug: "model-years-available",
+   definition: "the model years the nameplate was sold in",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-models/properties/overview.text-property.ts b/alan/car-research/car-models/properties/overview.text-property.ts
+index bb795bfb732c36eef4ff7b2e7cdf6014f8ff9c76..2397ac4c2c11830d6d51f73e5c0b251afde0e0b1 100644
+--- a/alan/car-research/car-models/properties/overview.text-property.ts
++++ b/alan/car-research/car-models/properties/overview.text-property.ts
+@@ -8,6 +8,6 @@ export const overview = {
+   slug: "overview",
+   propertySlug: "overview",
+   definition: "what the model is, in a paragraph",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-models/properties/powertrain-options.text-property.ts b/alan/car-research/car-models/properties/powertrain-options.text-property.ts
+index 0ef05d1cff18facc62d2fa61a8fbba1ce24c56a5..4991277e79fd4158b55cc82a9002017ead34cedb 100644
+--- a/alan/car-research/car-models/properties/powertrain-options.text-property.ts
++++ b/alan/car-research/car-models/properties/powertrain-options.text-property.ts
+@@ -8,6 +8,6 @@ export const powertrainOptions = {
+   slug: "powertrain-options",
+   propertySlug: "powertrain-options",
+   definition: "the kinds of powertrain the model is sold with",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-models/properties/segment.text-property.ts b/alan/car-research/car-models/properties/segment.text-property.ts
+index 05e1831bc35f8e6d43d3562e83611b519d185d9f..d090f4049ce7735b7ecb1361b58cd12f2d91e3a5 100644
+--- a/alan/car-research/car-models/properties/segment.text-property.ts
++++ b/alan/car-research/car-models/properties/segment.text-property.ts
+@@ -8,6 +8,6 @@ export const segment = {
+   slug: "segment",
+   propertySlug: "segment",
+   definition: "the size and price bracket the model sells in",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/car-years/properties/refresh-notes.text-property.ts b/alan/car-research/car-years/properties/refresh-notes.text-property.ts
+index eef6d93da721ca9fbfdfec10e5eed153e0cbe27d..dcf9a1fc52c043ac78a947c067690423bcf18feb 100644
+--- a/alan/car-research/car-years/properties/refresh-notes.text-property.ts
++++ b/alan/car-research/car-years/properties/refresh-notes.text-property.ts
+@@ -8,6 +8,6 @@ export const refreshNotes = {
+   slug: "refresh-notes",
+   propertySlug: "refresh-notes",
+   definition: "what changed from the model year before",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/cars/properties/exclusion-reason.text-property.ts b/alan/car-research/cars/properties/exclusion-reason.text-property.ts
+index aec6b1fd9d974098a50cf7a1e04e8aded59b6592..373b98cac1b015b2812f03813889b4437efc911e 100644
+--- a/alan/car-research/cars/properties/exclusion-reason.text-property.ts
++++ b/alan/car-research/cars/properties/exclusion-reason.text-property.ts
+@@ -8,6 +8,6 @@ export const exclusionReason = {
+   slug: "exclusion-reason",
+   propertySlug: "exclusion-reason",
+   definition: "why this fell off the list of what Alan would buy",
+-  max: 2000,
++  maxLength: 2000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/car-research/cars/properties/sources.text-property.ts b/alan/car-research/cars/properties/sources.text-property.ts
+index 43b310aed66b77244f6d55cfb429d1575d131ef4..20a1e590dd270f9463e4614e6f625121d1fa0fb5 100644
+--- a/alan/car-research/cars/properties/sources.text-property.ts
++++ b/alan/car-research/cars/properties/sources.text-property.ts
+@@ -8,6 +8,6 @@ export const sources = {
+   slug: "sources",
+   propertySlug: "sources",
+   definition: "where what is written here was read from",
+-  max: 20000,
++  maxLength: 20000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-games/properties/chess-black.text-property.ts b/alan/chess/chess-games/properties/chess-black.text-property.ts
+index 199e5f358b10758f8103133ef6cfa2af27b1536a..5d8efdcb653a876b51de798b1b5cbb182576a8b8 100644
+--- a/alan/chess/chess-games/properties/chess-black.text-property.ts
++++ b/alan/chess/chess-games/properties/chess-black.text-property.ts
+@@ -8,6 +8,6 @@ export const chessBlack = {
+   slug: "chess-black",
+   propertySlug: "black",
+   definition: "who played the black pieces",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-games/properties/chess-collection.text-property.ts b/alan/chess/chess-games/properties/chess-collection.text-property.ts
+index ee8e130290c19ca8d0856fbc12c80bc445f42afd..973965ea8373b24410f78d24c58d9e9ec5ed1f5c 100644
+--- a/alan/chess/chess-games/properties/chess-collection.text-property.ts
++++ b/alan/chess/chess-games/properties/chess-collection.text-property.ts
+@@ -8,6 +8,6 @@ export const chessCollection = {
+   slug: "chess-collection",
+   propertySlug: "collection",
+   definition: "the set of games a game belongs to",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-games/properties/chess-source.text-property.ts b/alan/chess/chess-games/properties/chess-source.text-property.ts
+index d1db36e5e21664725d3cc9b346b0f263be620cf6..cab69dbdfdb54526835c085c592fef70897a9af6 100644
+--- a/alan/chess/chess-games/properties/chess-source.text-property.ts
++++ b/alan/chess/chess-games/properties/chess-source.text-property.ts
+@@ -8,6 +8,6 @@ export const chessSource = {
+   slug: "chess-source",
+   propertySlug: "source",
+   definition: "where a game came from",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: "name-format/lower-kebab-case",
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-games/properties/chess-white.text-property.ts b/alan/chess/chess-games/properties/chess-white.text-property.ts
+index 106c014be3a460ca8d4d5eb495e2d1c8d9907e05..3bf1c06bbda4023a5941323bb262a864347acb2f 100644
+--- a/alan/chess/chess-games/properties/chess-white.text-property.ts
++++ b/alan/chess/chess-games/properties/chess-white.text-property.ts
+@@ -8,6 +8,6 @@ export const chessWhite = {
+   slug: "chess-white",
+   propertySlug: "white",
+   definition: "who played the white pieces",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-games/properties/fen.text-property.ts b/alan/chess/chess-games/properties/fen.text-property.ts
+index e13d02ba645d6beee59403b2b43b0355bc071cdf..d8440682c385ce1f4d0e24fc3098ef03a6639634 100644
+--- a/alan/chess/chess-games/properties/fen.text-property.ts
++++ b/alan/chess/chess-games/properties/fen.text-property.ts
+@@ -8,6 +8,6 @@ export const fen = {
+   slug: "fen",
+   propertySlug: "fen",
+   definition: "a position in Forsyth-Edwards notation",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-games/properties/handle.text-property.ts b/alan/chess/chess-games/properties/handle.text-property.ts
+index 8a6318f2506386304cfd1a8d94fd93ec2b7fa4be..9186604cda2b89a03c48c7a12e177c11a5fcc16e 100644
+--- a/alan/chess/chess-games/properties/handle.text-property.ts
++++ b/alan/chess/chess-games/properties/handle.text-property.ts
+@@ -8,6 +8,6 @@ export const handle = {
+   slug: "handle",
+   propertySlug: "handle",
+   definition: "the account name a game was played under",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-games/properties/lesson.text-property.ts b/alan/chess/chess-games/properties/lesson.text-property.ts
+index 274e380ff96f9da9907d3ab2af38802c59d79eed..1f64250e9311b44328234c65bb27dc1c2dad2511 100644
+--- a/alan/chess/chess-games/properties/lesson.text-property.ts
++++ b/alan/chess/chess-games/properties/lesson.text-property.ts
+@@ -8,6 +8,6 @@ export const lesson = {
+   slug: "lesson",
+   propertySlug: "lesson",
+   definition: "what one game teaches",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-games/properties/opening-eco.text-property.ts b/alan/chess/chess-games/properties/opening-eco.text-property.ts
+index 78c7d2e774eb4a2c48c21bd8aa238b0dedc52fe8..0a6e720877ad9a3bfd3f84112445eb260d4cf838 100644
+--- a/alan/chess/chess-games/properties/opening-eco.text-property.ts
++++ b/alan/chess/chess-games/properties/opening-eco.text-property.ts
+@@ -8,6 +8,6 @@ export const openingEco = {
+   slug: "opening-eco",
+   propertySlug: "opening-eco",
+   definition: "the ECO code of an opening",
+-  max: 3,
++  maxLength: 3,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-games/properties/opening-name.text-property.ts b/alan/chess/chess-games/properties/opening-name.text-property.ts
+index 85f669318cfe9c5a75aa652601a7af3791f7b204..48dc29e72b75619f0ab8cbcd41f998bf009cb41f 100644
+--- a/alan/chess/chess-games/properties/opening-name.text-property.ts
++++ b/alan/chess/chess-games/properties/opening-name.text-property.ts
+@@ -8,6 +8,6 @@ export const openingName = {
+   slug: "opening-name",
+   propertySlug: "opening-name",
+   definition: "the opening a game was played into",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-games/properties/source-game-id.text-property.ts b/alan/chess/chess-games/properties/source-game-id.text-property.ts
+index 1aec5f0f26f9fd899ea2314bad1f4428c30eb8e9..848fa645c0a152d483d3abfdc880dd5e9c0af850 100644
+--- a/alan/chess/chess-games/properties/source-game-id.text-property.ts
++++ b/alan/chess/chess-games/properties/source-game-id.text-property.ts
+@@ -8,6 +8,6 @@ export const sourceGameId = {
+   slug: "source-game-id",
+   propertySlug: "source-game-id",
+   definition: "the id a source gives a game",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-games/properties/time-control.text-property.ts b/alan/chess/chess-games/properties/time-control.text-property.ts
+index 90fe7da62ca55fb647a174f2eb2d4489ccd2cfdb..3a13757a6c828e0f8510c04366f6c69672100d8a 100644
+--- a/alan/chess/chess-games/properties/time-control.text-property.ts
++++ b/alan/chess/chess-games/properties/time-control.text-property.ts
+@@ -8,6 +8,6 @@ export const timeControl = {
+   slug: "time-control",
+   propertySlug: "time-control",
+   definition: "the clock a game was played on",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-progresses/properties/motif-id.text-property.ts b/alan/chess/chess-progresses/properties/motif-id.text-property.ts
+index 9b3ac3dca449c66b2dd79cf5efbfdafcf2439692..e168e9717e6bbce045c0c70cb6439fd03ae3fefa 100644
+--- a/alan/chess/chess-progresses/properties/motif-id.text-property.ts
++++ b/alan/chess/chess-progresses/properties/motif-id.text-property.ts
+@@ -8,6 +8,6 @@ export const motifId = {
+   slug: "motif-id",
+   propertySlug: "motif-id",
+   definition: "the Lichess theme a motif is named by",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-puzzle-sets/properties/opening-tags.text-property.ts b/alan/chess/chess-puzzle-sets/properties/opening-tags.text-property.ts
+index ee1015129f8590dfb794143e4c459c043be1d771..9dd7bc32c7f8f7e9fe9b051fbb26e72aa31010c1 100644
+--- a/alan/chess/chess-puzzle-sets/properties/opening-tags.text-property.ts
++++ b/alan/chess/chess-puzzle-sets/properties/opening-tags.text-property.ts
+@@ -8,6 +8,6 @@ export const openingTags = {
+   slug: "opening-tags",
+   propertySlug: "opening-tags",
+   definition: "an opening a puzzle came out of",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-puzzle-sets/properties/puzzle-id.text-property.ts b/alan/chess/chess-puzzle-sets/properties/puzzle-id.text-property.ts
+index cba3b9bac66d42f3a49ad3f327ae966439b10cf4..d9573be7b27df57f395c13bc3f2118979562881c 100644
+--- a/alan/chess/chess-puzzle-sets/properties/puzzle-id.text-property.ts
++++ b/alan/chess/chess-puzzle-sets/properties/puzzle-id.text-property.ts
+@@ -8,6 +8,6 @@ export const puzzleId = {
+   slug: "puzzle-id",
+   propertySlug: "puzzle-id",
+   definition: "the id Lichess gives a puzzle",
+-  max: 20,
++  maxLength: 20,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-puzzle-sets/properties/puzzle-license.text-property.ts b/alan/chess/chess-puzzle-sets/properties/puzzle-license.text-property.ts
+index e5a54ae8392cb2cc80d910a0ac0a808506658d87..66e26042415158f312679583477474643236aa51 100644
+--- a/alan/chess/chess-puzzle-sets/properties/puzzle-license.text-property.ts
++++ b/alan/chess/chess-puzzle-sets/properties/puzzle-license.text-property.ts
+@@ -8,6 +8,6 @@ export const puzzleLicense = {
+   slug: "puzzle-license",
+   propertySlug: "license",
+   definition: "the licence a puzzle is published under",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-puzzle-sets/properties/puzzle-moves.text-property.ts b/alan/chess/chess-puzzle-sets/properties/puzzle-moves.text-property.ts
+index c4cfef0c15e8280cb6a83963d21fcb9dcd46f988..6aa743a589a75a4d22a44b7d49eceebeccf6c3c9 100644
+--- a/alan/chess/chess-puzzle-sets/properties/puzzle-moves.text-property.ts
++++ b/alan/chess/chess-puzzle-sets/properties/puzzle-moves.text-property.ts
+@@ -8,6 +8,6 @@ export const puzzleMoves = {
+   slug: "puzzle-moves",
+   propertySlug: "moves",
+   definition: "a puzzle's answer as moves in long algebraic",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/chess/chess-puzzle-sets/properties/puzzle-themes.text-property.ts b/alan/chess/chess-puzzle-sets/properties/puzzle-themes.text-property.ts
+index 4c071cd1e5774165937bdc91eaea511c33fde64a..4fb86434f1393deef30cd03705623f5dfa550302 100644
+--- a/alan/chess/chess-puzzle-sets/properties/puzzle-themes.text-property.ts
++++ b/alan/chess/chess-puzzle-sets/properties/puzzle-themes.text-property.ts
+@@ -8,6 +8,6 @@ export const puzzleThemes = {
+   slug: "puzzle-themes",
+   propertySlug: "themes",
+   definition: "the motif a puzzle is built around",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/fitness/equipment-items/properties/equipment-item-loads.text-property.ts b/alan/fitness/equipment-items/properties/equipment-item-loads.text-property.ts
+index 0656ff1f6abe0cfec339a7d7128201424404cc08..96e121958a92dd139348df99fb9b618706817c1a 100644
+--- a/alan/fitness/equipment-items/properties/equipment-item-loads.text-property.ts
++++ b/alan/fitness/equipment-items/properties/equipment-item-loads.text-property.ts
+@@ -8,6 +8,6 @@ export const equipmentItemLoads = {
+   slug: "equipment-item-loads",
+   propertySlug: "equipment-item-loads",
+   definition: "the weights in pounds the piece can be set to, said in order and parted by commas",
+-  max: 200,
++  maxLength: 200,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/fitness/equipment-items/properties/equipment-item-notes.text-property.ts b/alan/fitness/equipment-items/properties/equipment-item-notes.text-property.ts
+index 947db90fa714567e4a6f39dc1357c652dad481c2..e0bfe7e71f35d759e842f70044d97689e4a6706a 100644
+--- a/alan/fitness/equipment-items/properties/equipment-item-notes.text-property.ts
++++ b/alan/fitness/equipment-items/properties/equipment-item-notes.text-property.ts
+@@ -8,6 +8,6 @@ export const equipmentItemNotes = {
+   slug: "equipment-item-notes",
+   propertySlug: "equipment-item-notes",
+   definition: "what is worth knowing about the piece that its other fields do not say",
+-  max: 1000,
++  maxLength: 1000,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/fitness/equipment-items/properties/equipment-notes.text-property.ts b/alan/fitness/equipment-items/properties/equipment-notes.text-property.ts
+index 54432cbc155b468e406c5e61f2bcf09819f8ae6c..b3ec703a7ef2b7241d2899a605d65bcd9cecc4b6 100644
+--- a/alan/fitness/equipment-items/properties/equipment-notes.text-property.ts
++++ b/alan/fitness/equipment-items/properties/equipment-notes.text-property.ts
+@@ -8,6 +8,6 @@ export const equipmentNotes = {
+   slug: "equipment-notes",
+   propertySlug: "notes",
+   definition: "what is worth knowing about a piece of kit beyond its numbers",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/fitness/exercises/properties/exercise-external-id.text-property.ts b/alan/fitness/exercises/properties/exercise-external-id.text-property.ts
+index e3cb5cba2a0519e24cefffd459f60f3978836d5a..1887b4d4c81d1c5dd58f7a49043ac8e02294f376 100644
+--- a/alan/fitness/exercises/properties/exercise-external-id.text-property.ts
++++ b/alan/fitness/exercises/properties/exercise-external-id.text-property.ts
+@@ -8,6 +8,6 @@ export const exerciseExternalId = {
+   slug: "exercise-external-id",
+   propertySlug: "exercise-external-id",
+   definition: "what the catalogue it was imported from calls this movement",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/fitness/mobility-readings/properties/mobility-reading-value-text.text-property.ts b/alan/fitness/mobility-readings/properties/mobility-reading-value-text.text-property.ts
+index 640bd6c6d8c83511c362102950c557ac46153ac7..cd0ada3c3b2422c34859568b98198c1070268f0c 100644
+--- a/alan/fitness/mobility-readings/properties/mobility-reading-value-text.text-property.ts
++++ b/alan/fitness/mobility-readings/properties/mobility-reading-value-text.text-property.ts
+@@ -8,6 +8,6 @@ export const mobilityReadingValueText = {
+   slug: "mobility-reading-value-text",
+   propertySlug: "mobility-reading-value-text",
+   definition: "the reading as it was written down",
+-  max: 100,
++  maxLength: 100,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/fitness/set-logs/properties/note.text-property.ts b/alan/fitness/set-logs/properties/note.text-property.ts
+index 0caac26d6033b15fcbe5e5e56ec287faf7e69322..b9bac42f974919a4845b79d5030f25715b531f78 100644
+--- a/alan/fitness/set-logs/properties/note.text-property.ts
++++ b/alan/fitness/set-logs/properties/note.text-property.ts
+@@ -8,6 +8,6 @@ export const note = {
+   slug: "note",
+   propertySlug: "note",
+   definition: "what Alan said about the set as he logged it",
+-  max: 500,
++  maxLength: 500,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
+diff --git a/alan/fitness/workout-schedules/properties/workout-schedule-description.text-property.ts b/alan/fitness/workout-schedules/properties/workout-schedule-description.text-property.ts
+index f504685f61c4dbdcc9c7016914900d239136684d..9f20620a43b935f10b76ef48808979765801390f 100644
+--- a/alan/fitness/workout-schedules/properties/workout-schedule-description.text-property.ts
++++ b/alan/fitness/workout-schedules/properties/workout-schedule-description.text-property.ts
+@@ -8,6 +8,6 @@ export const workoutScheduleDescription = {
+   slug: "workout-schedule-description",
+   propertySlug: "workout-schedule-description",
+   definition: "how the rotation is meant to run",
+-  max: 50,
++  maxLength: 50,
+   nameFormatSlug: null,
+ } as const satisfies TextProperty
