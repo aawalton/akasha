@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Four steps: 1 category, 2 right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero. Time a check warm: the first ask pays ~650ms every patch check shares; a fresh shadow misreads a cost 200x. Its entries jsonl holds the real cost; an audit line is mostly the tree walk. identifier-matches-its-place stays off, 3 findings. Three after it are on and green. key-names-one-property at step 3: its reach now takes every type under a judged one; 57 collide on `description`.",
+        "Four steps: 1 category, 2 right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero. Charge a check only what it adds on a shadow already read: that read is ~650ms the patch pays once for all 14. Peers on at patch run 0-214ms median, typecheck 2858ms. identifier-matches-its-place stays off, 3 findings. key-names-one-property passed step 3 at 6-10ms typical, 530ms touching a root property, 890ms if every page type changes at once; step 4 turns it on.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
