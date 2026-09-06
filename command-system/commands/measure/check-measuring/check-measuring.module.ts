@@ -5,13 +5,37 @@ export const checkMeasuring = {
   pageTypeSlug: "module",
   slug: "check-measuring",
   definition:
-    "how much processor time and memory each check's runs took, split by the phase judged at",
+    "the processor time and memory a check's runs took in the last twenty-four hours, split by phase",
   code: "ts",
   test: "ts",
   invariants: [
     {
       invariantKind: "departure",
       statement: "A check's runs are read from the entries beside that check's page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The window is the twenty-four hours ending at the moment of asking.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run exactly twenty-four hours old is counted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run older than that is not counted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run stamped after the moment of asking is not counted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run whose time cannot be read is not counted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The window the numbers cover is said with the table.",
     },
     {
       invariantKind: "departure",
@@ -85,7 +109,7 @@ export const checkMeasuring = {
     },
     {
       invariantKind: "departure",
-      statement: "A check whose page holds no entries is not answered.",
+      statement: "A check holding no run within the window is not answered.",
     },
     {
       invariantKind: "absence",

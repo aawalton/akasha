@@ -68,7 +68,8 @@ function measurePages(given: Given): Answer {
 }
 
 function measureChecks(given: Given): Answer {
-  return { report: [...checkLinesOf(costsIn(given.root))], refusals: [], code: 0 }
+  const said = checkLinesOf(costsIn(given.root, Date.now()))
+  return { report: [...said], refusals: [], code: 0 }
 }
 
 function measureCost(): Answer {

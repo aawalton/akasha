@@ -9,15 +9,26 @@ import {
   meanOf,
   runsIn,
   secondsAs,
+  withinOf,
 } from "./check-measuring.module.code.ts"
 
 const scratch = scratchWorld()
 
 afterAll(scratch.sweep)
 
+const NOW = Date.parse("2026-09-05T12:00:00.000Z")
+
+const HOUR = 3600000
+
+const DAY = 24 * HOUR
+
+function agoOf(ms: number): string {
+  return new Date(NOW - ms).toISOString()
+}
+
 function lineOf(one: Record<string, unknown>): string {
   return JSON.stringify({
-    ranAt: "2026-09-05T00:00:00.000Z",
+    ranAt: agoOf(HOUR),
     wallMs: 0,
     cpuSeconds: 0,
     childCpuSeconds: 0,
@@ -75,6 +86,62 @@ test("a run that forgot no high-water mark is left out of memory but counted eve
   expect(cost.patchRuns).toBe(4)
 })
 
+test("a run exactly the window's age is counted and a run a moment older is not", () => {
+  const runs = runsIn(
+    [
+      lineOf({ phase: "patch", cpuSeconds: 6, ranAt: agoOf(DAY) }),
+      lineOf({ phase: "patch", cpuSeconds: 60, ranAt: agoOf(DAY + 1) }),
+    ].join("\n")
+  )
+
+  expect(withinOf(runs, NOW).map((one) => one.cpu)).toEqual([6])
+})
+
+test("a run stamped after the moment of asking is not counted", () => {
+  const runs = runsIn(lineOf({ phase: "patch", cpuSeconds: 7, ranAt: agoOf(-HOUR) }))
+
+  expect(withinOf(runs, NOW)).toEqual([])
+})
+
+test("a run whose time cannot be read is not counted", () => {
+  const runs = runsIn(lineOf({ phase: "patch", cpuSeconds: 7, ranAt: "the other day" }))
+
+  expect(withinOf(runs, NOW)).toEqual([])
+})
+
+test("a run older than the window counts towards no average, at the edge or far outside", () => {
+  const root = rootWith({
+    one: [
+      { phase: "patch", cpuSeconds: 2, ranAt: agoOf(HOUR) },
+      { phase: "patch", cpuSeconds: 4, ranAt: agoOf(23 * HOUR) },
+      { phase: "patch", cpuSeconds: 100, ranAt: agoOf(DAY + 1) },
+      { phase: "patch", cpuSeconds: 1000, ranAt: agoOf(30 * DAY) },
+    ],
+  })
+  const cost = costsIn(root, NOW).checks[0]
+
+  expect(cost?.patchRuns).toBe(2)
+  expect(cost?.patchCpu).toBe(3)
+})
+
+test("a check holding no run within the window is not answered", () => {
+  const root = rootWith({
+    fresh: [{ phase: "patch", cpuSeconds: 1, ranAt: agoOf(HOUR) }],
+    stale: [
+      { phase: "patch", cpuSeconds: 9, ranAt: agoOf(DAY + 1) },
+      { phase: "audit", cpuSeconds: 9, ranAt: agoOf(30 * DAY) },
+    ],
+  })
+
+  expect(costsIn(root, NOW).checks.map((one) => one.check)).toEqual(["fresh"])
+})
+
+test("the window the numbers cover is said with the table", () => {
+  const cost = costOf("one", runsIn(lineOf({ phase: "patch", cpuSeconds: 1 })))
+
+  expect(linesOf({ checks: [cost], unread: [], other: [] })[2]).toBe("over the last 24 hours")
+})
+
 test("how many runs a phase holds is counted beside that phase's averages", () => {
   const root = rootWith({
     one: [
@@ -85,7 +152,7 @@ test("how many runs a phase holds is counted beside that phase's averages", () =
       { phase: "worktree", cpuSeconds: 9 },
     ],
   })
-  const cost = costsIn(root).checks[0]
+  const cost = costsIn(root, NOW).checks[0]
 
   expect(cost?.patchRuns).toBe(3)
   expect(cost?.patchCpu).toBe(4)
@@ -129,7 +196,7 @@ test("checks are ordered by what their patch runs took, and no patch run comes l
     ],
   })
 
-  expect(costsIn(root).checks.map((one) => one.check)).toEqual([
+  expect(costsIn(root, NOW).checks.map((one) => one.check)).toEqual([
     "slow",
     "skewed",
     "b-tie",
@@ -145,7 +212,7 @@ test("a patch run and an audit run are split apart", () => {
       { phase: "audit", cpuSeconds: 8, peakAddedBytes: 1048576 },
     ],
   })
-  const cost = costsIn(root).checks[0]
+  const cost = costsIn(root, NOW).checks[0]
 
   expect(cost?.patchRuns).toBe(1)
   expect(cost?.patchCpu).toBe(2)
@@ -162,9 +229,10 @@ test("a run naming a phase this does not split by is counted beneath the table",
       { phase: "worktree", cpuSeconds: 3 },
       { phase: "deploy", cpuSeconds: 4 },
       { phase: "worktree", cpuSeconds: 5 },
+      { phase: "worktree", cpuSeconds: 5, ranAt: agoOf(30 * DAY) },
     ],
   })
-  const costs = costsIn(root)
+  const costs = costsIn(root, NOW)
 
   expect(costs.checks[0]?.patchRuns).toBe(1)
   expect(costs.checks[0]?.patchCpu).toBe(1)
@@ -175,7 +243,7 @@ test("a run naming a phase this does not split by is counted beneath the table",
 test("entries that could not be read are named beneath the table", () => {
   const root = rootWith({ one: [{ phase: "patch", cpuSeconds: 1 }] })
   put(root, "checks/code-checks/pages/bad/bad.code-check.entries.uncommitted.jsonl", "{not json\n")
-  const costs = costsIn(root)
+  const costs = costsIn(root, NOW)
 
   expect(costs.checks.map((one) => one.check)).toEqual(["one"])
   expect(costs.unread).toEqual([
@@ -197,7 +265,7 @@ test("a count of bytes is rounded to the whole byte before it is scaled", () => 
 })
 
 test("a root holding no checks answers no check rather than throwing", () => {
-  expect(costsIn(scratch.rootFor("check-measuring-empty-"))).toEqual({
+  expect(costsIn(scratch.rootFor("check-measuring-empty-"), NOW)).toEqual({
     checks: [],
     unread: [],
     other: [],

@@ -12,6 +12,10 @@ const AUDIT = "audit"
 
 const ABSENT = "-"
 
+const HOURS = 24
+
+const HOUR_MS = 3600000
+
 const HEADING: readonly string[] = [
   "check",
   "patch runs",
@@ -21,6 +25,8 @@ const HEADING: readonly string[] = [
   "full cpu",
   "full mem",
 ]
+
+const WINDOW = `over the last ${String(HOURS)} hours`
 
 const UNREAD = "these were not read, and count no runs:"
 
@@ -34,6 +40,7 @@ const GIB = 1024 * 1024 * 1024
 
 export interface Run {
   readonly phase: string
+  readonly ranAt: number
   readonly cpu: number
   readonly mem: number | null
 }
@@ -66,11 +73,21 @@ export function runsIn(body: string): readonly Run[] {
     const one = JSON.parse(line) as Record<string, unknown>
     found.push({
       phase: String(one["phase"] ?? ""),
+      ranAt: Date.parse(String(one["ranAt"] ?? "")),
       cpu: Number(one["cpuSeconds"] ?? 0) + Number(one["childCpuSeconds"] ?? 0),
       mem: one["peakMeasured"] === true ? Number(one["peakAddedBytes"] ?? 0) : null,
     })
   }
   return found
+}
+
+export function sinceOf(now: number): number {
+  return now - HOURS * HOUR_MS
+}
+
+export function withinOf(runs: readonly Run[], now: number): readonly Run[] {
+  const since = sinceOf(now)
+  return runs.filter((one) => one.ranAt >= since && one.ranAt <= now)
 }
 
 function memoryOf(some: readonly Run[]): readonly number[] {
@@ -106,7 +123,7 @@ function namedIn(root: string, folder: string): string | undefined {
   }
 }
 
-export function costsIn(root: string): Costs {
+export function costsIn(root: string, now: number): Costs {
   let folders: readonly string[]
   try {
     folders = readdirSync(join(root, PAGES_AT))
@@ -122,7 +139,7 @@ export function costsIn(root: string): Costs {
     const path = join(PAGES_AT, folder, name)
     let runs: readonly Run[]
     try {
-      runs = runsIn(readFileSync(join(root, path), "utf8"))
+      runs = withinOf(runsIn(readFileSync(join(root, path), "utf8")), now)
     } catch {
       unread.push(path)
       continue
@@ -166,6 +183,7 @@ function rowOf(one: CheckCost): readonly string[] {
 
 export function linesOf(costs: Costs): readonly string[] {
   const said = [...columnsOf([HEADING, ...costs.checks.map(rowOf)])]
+  said.push(WINDOW)
   if (costs.other.length > 0) said.push("", OTHER, ...costs.other)
   if (costs.unread.length > 0) said.push("", UNREAD, ...costs.unread)
   return said
