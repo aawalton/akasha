@@ -109,7 +109,7 @@ test("a slug becomes an export name that opens with a letter", () => {
 
 test("a page is at a path under the device secrets folder", () => {
   expect(deviceSecretPath("alan-a1b2")).toBe(
-    "akasha/person-system/device-secrets/pages/alan-a1b2.device-secret.ts"
+    "person-system/device-secrets/pages/alan-a1b2.device-secret.ts"
   )
 })
 
