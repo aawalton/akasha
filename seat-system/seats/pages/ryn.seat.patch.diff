@@ -1,5 +1,5 @@
 diff --git a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
-index 34b9da2cdbb9c3b7eb436257d132438fd930456f..652272e6e0871c101b6c0f9084582383aa878f19 100644
+index 34b9da2cdbb9c3b7eb436257d132438fd930456f..27217b51628654e1623ac1d7aef602e4df16a6c8 100644
 --- a/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
 +++ b/alan/fitness/exercise-access/mobility-standing/mobility-standing.module.ts
 @@ -10,11 +10,15 @@ export const mobilityStanding = {
@@ -20,7 +20,7 @@ index 34b9da2cdbb9c3b7eb436257d132438fd930456f..652272e6e0871c101b6c0f9084582383
      },
      {
        invariantKind: "departure",
-@@ -23,7 +27,7 @@ export const mobilityStanding = {
+@@ -23,12 +27,15 @@ export const mobilityStanding = {
      },
      {
        invariantKind: "departure",
@@ -29,3 +29,13 @@ index 34b9da2cdbb9c3b7eb436257d132438fd930456f..652272e6e0871c101b6c0f9084582383
      },
      {
        invariantKind: "departure",
+-      statement:
+-        "The readings arrive oldest first, and the way a metric moved is read in that order.",
++      statement: "The readings arrive oldest first.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The way a metric moved is read in the order the readings arrive.",
+     },
+   ],
+ } as const satisfies Module
