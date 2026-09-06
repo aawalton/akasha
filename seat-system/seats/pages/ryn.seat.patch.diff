@@ -1,14 +1,19 @@
 readersOweReading: false
 diff --git a/alan/harness/inboxes/inbox-count-tick/inbox-count-tick.module.ts b/alan/harness/inboxes/inbox-count-tick/inbox-count-tick.module.ts
-index d26b1d9c7424aaac5b8911713a5cb69b68027668..db83029b04cce0fc6dff85cd2b5b464e799f27a1 100644
+index d26b1d9c7424aaac5b8911713a5cb69b68027668..b121a8bad2263a79d3d33993216138ca892eed08 100644
 --- a/alan/harness/inboxes/inbox-count-tick/inbox-count-tick.module.ts
 +++ b/alan/harness/inboxes/inbox-count-tick/inbox-count-tick.module.ts
-@@ -9,7 +9,7 @@ export const inboxCountTick = {
+@@ -9,11 +9,11 @@ export const inboxCountTick = {
    invariants: [
      {
        invariantKind: "departure",
 -      statement: "One tick is one poll and one write.",
 +      statement: "A tick is a single poll and a single write.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The day polled and the day written are one ESO day settled once.",
++      statement: "The day polled and the day written are a single ESO day settled once.",
      },
      {
        invariantKind: "departure",
