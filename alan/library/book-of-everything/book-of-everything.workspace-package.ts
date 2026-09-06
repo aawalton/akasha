@@ -27,6 +27,11 @@ export const bookOfEverything = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A node with children is scored at a rung of its own just as a node without children is.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A node's coverage is worked out from the children beneath the node.",
     },
     {
