@@ -1,22 +1,5 @@
 writerOwesReading: false
 readersOweReading: false
-diff --git a/places/locations/properties/scheduled-end.instant-property.ts b/places/locations/properties/scheduled-end.instant-property.ts
-deleted file mode 100644
-index b8cd66dbf0d6a334a97a034bcf9835e4bb6d5eb1..0000000000000000000000000000000000000000
---- a/places/locations/properties/scheduled-end.instant-property.ts
-+++ /dev/null
-@@ -1,11 +0,0 @@
--import type { InstantProperty } from "@akasha/pages/instant-property"
--
--export type ScheduledEnd = string
--
--export const scheduledEnd = {
--  id: "01a06583-acfb-739e-8d97-ad51783ebe95",
--  pageTypeSlug: "instant-property",
--  slug: "scheduled-end",
--  propertySlug: "scheduled-end",
--  definition: "when the person is due to leave the place",
--} as const satisfies InstantProperty
 diff --git a/places/locations/properties/scheduled-start.instant-property.ts b/places/locations/properties/scheduled-start.instant-property.ts
 deleted file mode 100644
 index 32b927d2b209790653e4dce5571d9712f0f9966c..0000000000000000000000000000000000000000
