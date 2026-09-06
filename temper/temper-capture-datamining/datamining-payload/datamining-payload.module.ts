@@ -21,7 +21,8 @@ export const dataminingPayload = {
     },
     {
       invariantKind: "departure",
-      statement: "The item sweep and the quest sweep each keep progress apart from the other.",
+      statement:
+        "The item sweep and the quest sweep each keep progress apart from the other sweep.",
     },
     {
       invariantKind: "absence",
