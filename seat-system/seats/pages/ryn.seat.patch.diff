@@ -1,8 +1,13 @@
 diff --git a/pages/types/properties/extends-slug.relation-property.ts b/pages/types/properties/extends-slug.relation-property.ts
-index 6e6670ca5fcbf07d2c14ceff1fd5bd07174053c8..b4c92f8da5b2e10f940e45c1ae66c385f84b9303 100644
+index 6e6670ca5fcbf07d2c14ceff1fd5bd07174053c8..c544d9c490ab958055d17b15b40ef4ae87429419 100644
 --- a/pages/types/properties/extends-slug.relation-property.ts
 +++ b/pages/types/properties/extends-slug.relation-property.ts
-@@ -21,8 +21,11 @@ export const extendsSlug = {
+@@ -17,12 +17,15 @@ export const extendsSlug = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Where two of the types named declare one property, the nearer type decides.",
++      statement: "The nearer type decides where two of the types named declare one property.",
      },
      {
        invariantKind: "departure",
