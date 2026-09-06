@@ -39,3 +39,18 @@ index e7c56b82f165e001688ff9b6620609f60566dcbc..e66f4281cdac7a10fa55455a1aa25f0c
        const addressed = addressedIn(propertySlug)
        if (parts.has(addressed)) continue
        if ((introducers.get(addressed) ?? []).length !== 1) continue
+diff --git a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts
+index 62064ebf70a463502e47516d3f7f736bdfe9515a..e51b95ce370d24f80d0dbef3f3b4ca1803f71b4a 100644
+--- a/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts
++++ b/checks/code-checks/pages/introduced-property-is-a-part/introduced-property-is-a-part.code-check.ts
+@@ -29,6 +29,10 @@ export const introducedPropertyIsAPart = {
+       invariantKind: "departure",
+       statement: "Every page type is judged whenever the change carries a page type.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "What each page type introduces is worked out once for the whole run.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A page type the change carries is read as the change leaves the page type.",
