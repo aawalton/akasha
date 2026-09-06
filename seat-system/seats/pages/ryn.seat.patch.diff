@@ -1,17 +1,27 @@
 diff --git a/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts b/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts
-index 4ffba304db5e59d5af6946af0b751bb5a40091b5..bcb14dfaf1dbaa293700de3f8bea620f292cb8b5 100644
+index 4ffba304db5e59d5af6946af0b751bb5a40091b5..d8d514037ddf1f18f8a3cab728fa0a35af98a77e 100644
 --- a/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts
 +++ b/seat-system/supervising/supervisor-interactive/supervisor-interactive.module.ts
-@@ -14,7 +14,11 @@ export const supervisorInteractive = {
+@@ -14,12 +14,19 @@ export const supervisorInteractive = {
      },
      {
        invariantKind: "departure",
 -      statement: "A null child from adoption ends the loop, and nothing is spawned in its place.",
 +      statement: "A null child from adoption ends the loop.",
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "exit-after-iterations counts passes already begun, so the loop runs exactly that many.",
++      statement: "Nothing is spawned in the place of a null child.",
 +    },
 +    {
 +      invariantKind: "departure",
-+      statement: "Nothing is spawned in the place of a null child.",
++      statement: "exit-after-iterations counts the iterations already begun.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The loop runs exactly the count exit-after-iterations states.",
      },
      {
        invariantKind: "departure",
