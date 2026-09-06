@@ -1,0 +1,26 @@
+diff --git a/alan/books/all-about-alan/questions/pages/where-the-graph-draws-from-elsewhere.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-the-graph-draws-from-elsewhere.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4d5ec03c2152e64baad4bd10540f4577e36f0e86
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-the-graph-draws-from-elsewhere.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereTheGraphDrawsFromElsewhere = {
++  id: "01a077ec-26d2-7d13-bbba-3b2c5d629fd7",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-the-graph-draws-from-elsewhere",
++  topicSlug: "what-the-graph-is-made-of",
++  ask: "Where does the graph draw from something other than pages, the filesystem or code?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-the-graph-is-made-of.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-the-graph-is-made-of.all-about-alan-topic.ts
+index 6719f03aee126ac6ed8dec0f3d939997bb9f4b6f..b6af6a30711f3d62a07de9348695922289f09e64 100644
+--- a/alan/books/all-about-alan/topics/pages/what-the-graph-is-made-of.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-the-graph-is-made-of.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const whatTheGraphIsMadeOf = {
+   parentSlugs: ["the-graph-i-built-to-run-my-checks"],
+   settled:
+     "It is a whole system now, which is why I call it the graph system: nodes, edges, attributes, producers, queries.\n\nParts of it are derived from pages, parts from the filesystem, parts from code, and parts from other places.",
+-  unsettled:
+-    "Where the graph draws from something other than pages, the filesystem or code is unlisted.",
+ } as const satisfies AllAboutAlanTopic
