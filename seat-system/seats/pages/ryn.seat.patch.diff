@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/music/catalog/musicbrainz-client/musicbrainz-client.module.ts b/alan/music/catalog/musicbrainz-client/musicbrainz-client.module.ts
+index 19c93fd0fce0386075a36bc39e0bb976c0795878..f72291803146f9c0961b6f1c308b7e09d241ab44 100644
+--- a/alan/music/catalog/musicbrainz-client/musicbrainz-client.module.ts
++++ b/alan/music/catalog/musicbrainz-client/musicbrainz-client.module.ts
+@@ -21,7 +21,7 @@ export const musicbrainzClient = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An ask that fails waits as long as one that answers.",
++      statement: "An ask that fails waits as long as an ask that answers.",
+     },
+     {
+       invariantKind: "departure",
