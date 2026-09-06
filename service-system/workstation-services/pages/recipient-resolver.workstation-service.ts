@@ -20,7 +20,7 @@ export const recipientResolver = {
     },
     {
       invariantKind: "gap",
-      statement: "A recipient that matches no seat has one created.",
+      statement: "A recipient that matches no seat has a seat created.",
     },
   ],
 } as const satisfies WorkstationService
