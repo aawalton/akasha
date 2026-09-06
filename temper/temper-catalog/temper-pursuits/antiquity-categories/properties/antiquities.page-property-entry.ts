@@ -17,7 +17,7 @@ export const antiquities = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An antiquity here is one a player digs up and reads lore from.",
+      statement: "An antiquity here is an antiquity a player digs up and reads lore from.",
     },
   ],
 } as const satisfies PagePropertyEntry
