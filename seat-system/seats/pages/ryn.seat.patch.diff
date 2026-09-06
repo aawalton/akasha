@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/harness/monarch/poll/monarch-poll.module.ts b/alan/harness/monarch/poll/monarch-poll.module.ts
+index 7f1639c2bed8431f8a527f0dfb7928dc2e01951c..3cee96311a57cf2198939d2c9ea734e013f296ac 100644
+--- a/alan/harness/monarch/poll/monarch-poll.module.ts
++++ b/alan/harness/monarch/poll/monarch-poll.module.ts
+@@ -25,7 +25,7 @@ export const monarchPoll = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Rows are refetched in batches rather than all at once.",
++      statement: "Rows are refetched in batches rather than every row at once.",
+     },
+     {
+       invariantKind: "departure",
