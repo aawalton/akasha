@@ -8,6 +8,4 @@ export const givingHerTheBenefitOfTheDoubt = {
   definition: "a standing thumb on the scale in her favour",
   parentSlugs: ["working-out-what-love-is"],
   settled: "It is commitment plus a named difference, and it compiled.",
-  unsettled:
-    "How it behaves under a real conflict between the prior and contrary evidence is untested, including where the prior yields and whether it drifts into a blank cheque.",
 } as const satisfies AllAboutAlanTopic
