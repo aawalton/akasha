@@ -1,0 +1,528 @@
+writerOwesReading: false
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/chapters-of-the-book-above/chapters-of-the-book-above.folder-shape.code.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/chapters-of-the-book-above/chapters-of-the-book-above.folder-shape.code.ts
+deleted file mode 100644
+index bcad5f7e640c0c90ae682d2ceaddbdb75058062c..0000000000000000000000000000000000000000
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/chapters-of-the-book-above/chapters-of-the-book-above.folder-shape.code.ts
++++ /dev/null
+@@ -1,70 +0,0 @@
+-import { basename, dirname } from "node:path"
+-import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
+-import type { Standing } from "../folder-shape.page-type.ts"
+-
+-const CHAPTERS = "chapters"
+-
+-const BOOK = "alan-book"
+-
+-const CHAPTER = "book-chapter"
+-
+-function slugIn(held: string): string {
+-  const at = held.indexOf("/")
+-  return at === -1 ? held : held.slice(at + 1)
+-}
+-
+-function typeIn(held: string): string {
+-  const at = held.indexOf("/")
+-  return at === -1 ? "" : held.slice(0, at)
+-}
+-
+-export function chaptersOfTheBookAbove(standing: Standing): readonly string[] {
+-  const said: string[] = []
+-  const named = basename(standing.folder)
+-  if (named !== CHAPTERS) said.push(`it is named \`${named}\` rather than \`${CHAPTERS}\``)
+-  const above = standing.holds(dirname(standing.folder))
+-  const first = above[0]
+-  if (first === undefined) {
+-    said.push("the folder above holds no page of its own")
+-    return said
+-  }
+-  const holding = above.find((one) => standing.extending(typeIn(one), BOOK))
+-  if (holding === undefined) {
+-    said.push(`the page above is a \`${typeIn(first)}\` rather than a \`${BOOK}\``)
+-    return said
+-  }
+-  const book = slugIn(holding)
+-  if (standing.strays.length > 0) {
+-    said.push(
+-      `${standing.strays.length} files are neither a chapter nor a file beside one: ${saidInside(standing.folder, standing.strays)}`
+-    )
+-  }
+-  if (standing.subfolders.length > 0) {
+-    said.push(
+-      `${standing.subfolders.length} folders sit in it, and every chapter of \`${book}\` sits in it directly: ${saidInside(standing.folder, standing.subfolders)}`
+-    )
+-  }
+-  const other = standing.pages.filter((one) => one.pageTypeSlug !== CHAPTER)
+-  if (other.length > 0) {
+-    said.push(
+-      `${other.length} pages here are not of \`${CHAPTER}\`: ${saidInside(standing.folder, other)}`
+-    )
+-  }
+-  const loose = standing.pages.filter(
+-    (one) => one.pageTypeSlug === CHAPTER && !standing.partOf(one).includes(book)
+-  )
+-  if (loose.length > 0) {
+-    said.push(
+-      `${loose.length} chapters here name \`${book}\` nowhere as what holds them: ${saidInside(standing.folder, loose)}`
+-    )
+-  }
+-  const here = new Set<string>(standing.pages.map((one) => one.page ?? one.path))
+-  const stranded = standing.properties.filter((one) => !here.has(one.page ?? one.path))
+-  if (stranded.length > 0) {
+-    said.push(
+-      `${stranded.length} files sit beside no chapter here: ${saidInside(standing.folder, stranded)}`
+-    )
+-  }
+-  if (standing.pages.length === 0 && said.length === 0) said.push("it holds no chapter")
+-  return said
+-}
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/chapters-of-the-book-above/chapters-of-the-book-above.folder-shape.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/chapters-of-the-book-above/chapters-of-the-book-above.folder-shape.test.ts
+deleted file mode 100644
+index 38eaa6e9f537b05a63defcede1f3e0725a68d999..0000000000000000000000000000000000000000
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/chapters-of-the-book-above/chapters-of-the-book-above.folder-shape.test.ts
++++ /dev/null
+@@ -1,118 +0,0 @@
+-import { expect, test } from "bun:test"
+-import { folderFrom } from "../../folder-matches-a-shape.code-check.test-fixtures.ts"
+-import type { Standing } from "../folder-shape.page-type.ts"
+-import { chaptersOfTheBookAbove } from "./chapters-of-the-book-above.folder-shape.code.ts"
+-
+-const ABOVE = "akasha/alan/books/my-strategy"
+-
+-const FOLDER = `${ABOVE}/chapters`
+-
+-const BOOK = "my-strategy"
+-
+-const PAGE_TYPES = new Set<string>(["page-type", "alan-book", "book", "book-chapter"])
+-
+-const FILE_PROPERTIES = new Set<string>(["chapter-text"])
+-
+-type Over = {
+-  readonly deep?: readonly string[]
+-  readonly holds?: Standing["holds"]
+-  readonly partOf?: Standing["partOf"]
+-}
+-
+-function over(said: Over): (names: readonly string[]) => Standing {
+-  return folderFrom({
+-    folder: FOLDER,
+-    pageTypes: PAGE_TYPES,
+-    fileProperties: FILE_PROPERTIES,
+-    extending: (pageTypeSlug, wanted) => pageTypeSlug === wanted,
+-    holds: said.holds ?? ((at) => (at === ABOVE ? [`alan-book/${BOOK}`] : [])),
+-    partOf: said.partOf ?? ((): readonly string[] => [BOOK]),
+-    deep: said.deep ?? [],
+-  })
+-}
+-
+-const folder = over({})
+-
+-test("chapters of the book above sitting as flat files take the shape", () => {
+-  expect(chaptersOfTheBookAbove(folder(["one.book-section.ts", "two.book-section.ts"]))).toEqual([])
+-})
+-
+-test("a chapter carrying its prose beside the chapter takes the shape", () => {
+-  const said = chaptersOfTheBookAbove(
+-    folder(["one.book-section.ts", "one.book-section.chapter-text.md"])
+-  )
+-  expect(said).toEqual([])
+-})
+-
+-test("a folder named otherwise is refused, and the reason names both", () => {
+-  const held = over({})
+-  const said = chaptersOfTheBookAbove(
+-    folderFrom({
+-      folder: `${ABOVE}/parts`,
+-      pageTypes: PAGE_TYPES,
+-      fileProperties: FILE_PROPERTIES,
+-      extending: (pageTypeSlug, wanted) => pageTypeSlug === wanted,
+-      holds: (at) => (at === ABOVE ? [`alan-book/${BOOK}`] : []),
+-      partOf: (): readonly string[] => [BOOK],
+-    })(["one.book-section.ts"])
+-  )
+-  expect(held).toBeDefined()
+-  expect(said).toHaveLength(1)
+-  expect(said[0]).toContain("`parts`")
+-  expect(said[0]).toContain("`chapters`")
+-})
+-
+-test("a folder above holding no page of its own is refused", () => {
+-  const held = over({ holds: () => [] })
+-  const said = chaptersOfTheBookAbove(held(["one.book-section.ts"]))
+-  expect(said).toHaveLength(1)
+-  expect(said[0]).toContain("holds no page of its own")
+-})
+-
+-test("a folder above holding a page that is no book Alan writes is refused", () => {
+-  const held = over({ holds: (at) => (at === ABOVE ? ["book/plato-apology-crito"] : []) })
+-  const said = chaptersOfTheBookAbove(held(["one.book-section.ts"]))
+-  expect(said).toHaveLength(1)
+-  expect(said[0]).toContain("`book`")
+-  expect(said[0]).toContain("`alan-book`")
+-})
+-
+-test("a page that is no book chapter is refused", () => {
+-  const said = chaptersOfTheBookAbove(folder(["one.book-section.ts", "other.book.ts"]))
+-  expect(said).toHaveLength(1)
+-  expect(said[0]).toContain("`book-chapter`")
+-  expect(said[0]).toContain("other.book.ts")
+-})
+-
+-test("a chapter naming another book is refused", () => {
+-  const held = over({ partOf: (page) => (page.slug === "two" ? ["my-math"] : [BOOK]) })
+-  const said = chaptersOfTheBookAbove(held(["one.book-section.ts", "two.book-section.ts"]))
+-  expect(said).toHaveLength(1)
+-  expect(said[0]).toContain(`\`${BOOK}\``)
+-  expect(said[0]).toContain("two.book-section.ts")
+-})
+-
+-test("a folder sitting inside chapters is refused", () => {
+-  const held = over({ deep: ["sources/three.book-section.ts"] })
+-  const said = chaptersOfTheBookAbove(held(["one.book-section.ts"]))
+-  expect(said).toHaveLength(1)
+-  expect(said[0]).toContain("sources")
+-})
+-
+-test("a file that is neither a chapter nor a file beside one is refused", () => {
+-  const said = chaptersOfTheBookAbove(folder(["one.book-section.ts", "readme.md"]))
+-  expect(said).toHaveLength(1)
+-  expect(said[0]).toContain("readme.md")
+-})
+-
+-test("a file sitting beside no chapter here is refused", () => {
+-  const said = chaptersOfTheBookAbove(
+-    folder(["one.book-section.ts", "ghost.book-section.chapter-text.md"])
+-  )
+-  expect(said).toHaveLength(1)
+-  expect(said[0]).toContain("ghost.book-section.chapter-text.md")
+-})
+-
+-test("a folder named chapters holding no chapter is refused", () => {
+-  expect(chaptersOfTheBookAbove(folder([]))).toEqual(["it holds no chapter"])
+-})
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/chapters-of-the-book-above/chapters-of-the-book-above.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/chapters-of-the-book-above/chapters-of-the-book-above.folder-shape.ts
+deleted file mode 100644
+index fe41f8d99771e5b1e2f1a99bbd9cda592664e12d..0000000000000000000000000000000000000000
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/chapters-of-the-book-above/chapters-of-the-book-above.folder-shape.ts
++++ /dev/null
+@@ -1,51 +0,0 @@
+-import type { FolderShape } from "../folder-shape.page-type.ts"
+-
+-export const chaptersOfTheBookAbove = {
+-  id: "01a06d79-1d8e-7531-86b1-1116c2aff36f",
+-  pageTypeSlug: "folder-shape",
+-  slug: "chapters-of-the-book-above",
+-  definition: "the shape of a folder named chapters holding the chapters of the book above it",
+-  code: "ts",
+-  test: "ts",
+-  enabled: true,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The folder is named `chapters`.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The folder above holds one book Alan writes.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Every page in the folder is a book chapter.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Every chapter in the folder names the book above as the collection holding that chapter.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A chapter carries its prose in a file beside the chapter rather than in a folder.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The folder holds no folder of its own.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The folder holds no file that is neither a chapter nor a file beside one.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A folder named `chapters` holding no chapter is refused.",
+-    },
+-    {
+-      invariantKind: "gap",
+-      statement: "A chapter filed under a folder inside `chapters` is refused by this shape.",
+-    },
+-  ],
+-} as const satisfies FolderShape
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
+index e5d9f739b40440fdd90d54854604dd984519e750..0b064cf22363b45a2710ad90d805aea5f177447c 100644
+--- a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/folder-shape.page-type.ts
+@@ -43,7 +43,7 @@ export const folderShape = {
+   pluralSlug: "folder-shapes",
+   partSlugs: [
+     "boolean-property/folder-shape-enabled",
+-    "folder-shape/chapters-of-the-book-above",
++    "folder-shape/sections-of-the-book-above",
+     "folder-shape/folders-only",
+     "folder-shape/modules-only",
+     "folder-shape/one-page-with-its-properties",
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bcad5f7e640c0c90ae682d2ceaddbdb75058062c
+--- /dev/null
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.code.ts
+@@ -0,0 +1,70 @@
++import { basename, dirname } from "node:path"
++import { saidInside } from "../../../../../modules/shape-saying/shape-saying.module.code.ts"
++import type { Standing } from "../folder-shape.page-type.ts"
++
++const CHAPTERS = "chapters"
++
++const BOOK = "alan-book"
++
++const CHAPTER = "book-chapter"
++
++function slugIn(held: string): string {
++  const at = held.indexOf("/")
++  return at === -1 ? held : held.slice(at + 1)
++}
++
++function typeIn(held: string): string {
++  const at = held.indexOf("/")
++  return at === -1 ? "" : held.slice(0, at)
++}
++
++export function chaptersOfTheBookAbove(standing: Standing): readonly string[] {
++  const said: string[] = []
++  const named = basename(standing.folder)
++  if (named !== CHAPTERS) said.push(`it is named \`${named}\` rather than \`${CHAPTERS}\``)
++  const above = standing.holds(dirname(standing.folder))
++  const first = above[0]
++  if (first === undefined) {
++    said.push("the folder above holds no page of its own")
++    return said
++  }
++  const holding = above.find((one) => standing.extending(typeIn(one), BOOK))
++  if (holding === undefined) {
++    said.push(`the page above is a \`${typeIn(first)}\` rather than a \`${BOOK}\``)
++    return said
++  }
++  const book = slugIn(holding)
++  if (standing.strays.length > 0) {
++    said.push(
++      `${standing.strays.length} files are neither a chapter nor a file beside one: ${saidInside(standing.folder, standing.strays)}`
++    )
++  }
++  if (standing.subfolders.length > 0) {
++    said.push(
++      `${standing.subfolders.length} folders sit in it, and every chapter of \`${book}\` sits in it directly: ${saidInside(standing.folder, standing.subfolders)}`
++    )
++  }
++  const other = standing.pages.filter((one) => one.pageTypeSlug !== CHAPTER)
++  if (other.length > 0) {
++    said.push(
++      `${other.length} pages here are not of \`${CHAPTER}\`: ${saidInside(standing.folder, other)}`
++    )
++  }
++  const loose = standing.pages.filter(
++    (one) => one.pageTypeSlug === CHAPTER && !standing.partOf(one).includes(book)
++  )
++  if (loose.length > 0) {
++    said.push(
++      `${loose.length} chapters here name \`${book}\` nowhere as what holds them: ${saidInside(standing.folder, loose)}`
++    )
++  }
++  const here = new Set<string>(standing.pages.map((one) => one.page ?? one.path))
++  const stranded = standing.properties.filter((one) => !here.has(one.page ?? one.path))
++  if (stranded.length > 0) {
++    said.push(
++      `${stranded.length} files sit beside no chapter here: ${saidInside(standing.folder, stranded)}`
++    )
++  }
++  if (standing.pages.length === 0 && said.length === 0) said.push("it holds no chapter")
++  return said
++}
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.test.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..5aa50de5d00126bad734e033215f3124a8bc9973
+--- /dev/null
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.test.ts
+@@ -0,0 +1,118 @@
++import { expect, test } from "bun:test"
++import { folderFrom } from "../../folder-matches-a-shape.code-check.test-fixtures.ts"
++import type { Standing } from "../folder-shape.page-type.ts"
++import { chaptersOfTheBookAbove } from "./sections-of-the-book-above.folder-shape.code.ts"
++
++const ABOVE = "akasha/alan/books/my-strategy"
++
++const FOLDER = `${ABOVE}/chapters`
++
++const BOOK = "my-strategy"
++
++const PAGE_TYPES = new Set<string>(["page-type", "alan-book", "book", "book-chapter"])
++
++const FILE_PROPERTIES = new Set<string>(["chapter-text"])
++
++type Over = {
++  readonly deep?: readonly string[]
++  readonly holds?: Standing["holds"]
++  readonly partOf?: Standing["partOf"]
++}
++
++function over(said: Over): (names: readonly string[]) => Standing {
++  return folderFrom({
++    folder: FOLDER,
++    pageTypes: PAGE_TYPES,
++    fileProperties: FILE_PROPERTIES,
++    extending: (pageTypeSlug, wanted) => pageTypeSlug === wanted,
++    holds: said.holds ?? ((at) => (at === ABOVE ? [`alan-book/${BOOK}`] : [])),
++    partOf: said.partOf ?? ((): readonly string[] => [BOOK]),
++    deep: said.deep ?? [],
++  })
++}
++
++const folder = over({})
++
++test("chapters of the book above sitting as flat files take the shape", () => {
++  expect(chaptersOfTheBookAbove(folder(["one.book-section.ts", "two.book-section.ts"]))).toEqual([])
++})
++
++test("a chapter carrying its prose beside the chapter takes the shape", () => {
++  const said = chaptersOfTheBookAbove(
++    folder(["one.book-section.ts", "one.book-section.chapter-text.md"])
++  )
++  expect(said).toEqual([])
++})
++
++test("a folder named otherwise is refused, and the reason names both", () => {
++  const held = over({})
++  const said = chaptersOfTheBookAbove(
++    folderFrom({
++      folder: `${ABOVE}/parts`,
++      pageTypes: PAGE_TYPES,
++      fileProperties: FILE_PROPERTIES,
++      extending: (pageTypeSlug, wanted) => pageTypeSlug === wanted,
++      holds: (at) => (at === ABOVE ? [`alan-book/${BOOK}`] : []),
++      partOf: (): readonly string[] => [BOOK],
++    })(["one.book-section.ts"])
++  )
++  expect(held).toBeDefined()
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("`parts`")
++  expect(said[0]).toContain("`chapters`")
++})
++
++test("a folder above holding no page of its own is refused", () => {
++  const held = over({ holds: () => [] })
++  const said = chaptersOfTheBookAbove(held(["one.book-section.ts"]))
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("holds no page of its own")
++})
++
++test("a folder above holding a page that is no book Alan writes is refused", () => {
++  const held = over({ holds: (at) => (at === ABOVE ? ["book/plato-apology-crito"] : []) })
++  const said = chaptersOfTheBookAbove(held(["one.book-section.ts"]))
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("`book`")
++  expect(said[0]).toContain("`alan-book`")
++})
++
++test("a page that is no book chapter is refused", () => {
++  const said = chaptersOfTheBookAbove(folder(["one.book-section.ts", "other.book.ts"]))
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("`book-chapter`")
++  expect(said[0]).toContain("other.book.ts")
++})
++
++test("a chapter naming another book is refused", () => {
++  const held = over({ partOf: (page) => (page.slug === "two" ? ["my-math"] : [BOOK]) })
++  const said = chaptersOfTheBookAbove(held(["one.book-section.ts", "two.book-section.ts"]))
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain(`\`${BOOK}\``)
++  expect(said[0]).toContain("two.book-section.ts")
++})
++
++test("a folder sitting inside chapters is refused", () => {
++  const held = over({ deep: ["sources/three.book-section.ts"] })
++  const said = chaptersOfTheBookAbove(held(["one.book-section.ts"]))
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("sources")
++})
++
++test("a file that is neither a chapter nor a file beside one is refused", () => {
++  const said = chaptersOfTheBookAbove(folder(["one.book-section.ts", "readme.md"]))
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("readme.md")
++})
++
++test("a file sitting beside no chapter here is refused", () => {
++  const said = chaptersOfTheBookAbove(
++    folder(["one.book-section.ts", "ghost.book-section.chapter-text.md"])
++  )
++  expect(said).toHaveLength(1)
++  expect(said[0]).toContain("ghost.book-section.chapter-text.md")
++})
++
++test("a folder named chapters holding no chapter is refused", () => {
++  expect(chaptersOfTheBookAbove(folder([]))).toEqual(["it holds no chapter"])
++})
+diff --git a/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.ts b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0ac0c8575d167b4863bd6505d5408e8bf5b4ff8a
+--- /dev/null
++++ b/checks/code-checks/pages/folder-matches-a-shape/folder-shapes/sections-of-the-book-above/sections-of-the-book-above.folder-shape.ts
+@@ -0,0 +1,51 @@
++import type { FolderShape } from "../folder-shape.page-type.ts"
++
++export const sectionsOfTheBookAbove = {
++  id: "01a06d79-1d8e-7531-86b1-1116c2aff36f",
++  pageTypeSlug: "folder-shape",
++  slug: "sections-of-the-book-above",
++  definition: "the shape of a folder named chapters holding the chapters of the book above it",
++  code: "ts",
++  test: "ts",
++  enabled: true,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The folder is named `chapters`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The folder above holds one book Alan writes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every page in the folder is a book chapter.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Every chapter in the folder names the book above as the collection holding that chapter.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A chapter carries its prose in a file beside the chapter rather than in a folder.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The folder holds no folder of its own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The folder holds no file that is neither a chapter nor a file beside one.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A folder named `chapters` holding no chapter is refused.",
++    },
++    {
++      invariantKind: "gap",
++      statement: "A chapter filed under a folder inside `chapters` is refused by this shape.",
++    },
++  ],
++} as const satisfies FolderShape
