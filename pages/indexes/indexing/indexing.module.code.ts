@@ -331,7 +331,13 @@ export function settlingOver(
     held.flatMap((one) => (one.now === null ? [] : claim(one.now, one.path, false)))
   )
 
-  const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...schema])
+  const valued = filingOf(
+    reading,
+    held.flatMap((one) => (one.was === null ? [] : valueIn(one.was, one.path, repo))),
+    held.flatMap((one) => (one.now === null ? [] : valueIn(one.now, one.path, repo)))
+  )
+
+  const stepped = overlaidOn(reading, [...imported, ...identity, ...paths, ...schema, ...valued])
   const wasKnown = knownIn(reading, wasPageOf)
   const known = knownIn(stepped, pageOf)
   const was = held.map((one) =>
@@ -344,12 +350,6 @@ export function settlingOver(
     reading,
     was.flatMap((one) => one.entries),
     now.flatMap((one) => one.entries)
-  )
-
-  const valued = filingOf(
-    reading,
-    held.flatMap((one) => (one.was === null ? [] : valueIn(one.was, one.path, repo))),
-    held.flatMap((one) => (one.now === null ? [] : valueIn(one.now, one.path, repo)))
   )
 
   const filings = [...imported, ...identity, ...paths, ...schema, ...relation, ...valued]

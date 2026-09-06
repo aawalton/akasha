@@ -28,6 +28,15 @@ export const indexing = {
     },
     {
       invariantKind: "departure",
+      statement: "The value of every page in a write is settled before any relation is.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A relation naming a page of a page type the write carries reaches that page type.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A rebuild reads the index only to find the values no page carries.",
     },
     {
