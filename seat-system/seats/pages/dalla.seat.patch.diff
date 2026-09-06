@@ -1,0 +1,113 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/changes/atomic-changes/atomic-change.page-type.ts b/changes/atomic-changes/atomic-change.page-type.ts
+deleted file mode 100644
+index d2aaab7ed9d5e3ce31486bf8dc57cea656708c0a..0000000000000000000000000000000000000000
+--- a/changes/atomic-changes/atomic-change.page-type.ts
++++ /dev/null
+@@ -1,45 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-import type { PageType } from "../../pages/types/page-type.page-type.ts"
+-
+-export type AtomicChange = Module
+-
+-export const atomicChange = {
+-  id: "01a072c8-f35d-7ffc-afc3-75b72460b059",
+-  pageTypeSlug: "page-type",
+-  slug: "atomic-change",
+-  definition: "a change to one thing that leaves the tree whole wherever that thing reaches",
+-  pluralSlug: "atomic-changes",
+-  partSlugs: [],
+-  extendsSlug: ["page-type/module"],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A change to two things is two atomic changes.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An atomic change runs partial changes and no other change.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An atomic change lands every file the thing reaches or no file at all.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The bodies the caller lands as a unit are answered rather than written.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "An atomic change asks the index for the files a thing reaches rather than walking the tree.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An index that cannot answer refuses the change rather than narrowing its reach.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An atomic change refuses or leaves the tree whole.",
+-    },
+-  ],
+-} as const satisfies PageType
+diff --git a/changes/change.page-type.ts b/changes/change.page-type.ts
+index c108c012112222f02295efb6200112ae3c259275..8980d6953a263d68815ee5222852fde915a963c7 100644
+--- a/changes/change.page-type.ts
++++ b/changes/change.page-type.ts
+@@ -22,8 +22,6 @@ export const change = {
+   pluralSlug: "changes",
+   extendsSlug: ["page-type/module"],
+   partSlugs: [
+-    "page-type/atomic-change",
+-    "page-type/refactor-change",
+     "page-type/change-partial",
+     "page-type/change-command",
+     "page-type/change-runner",
+diff --git a/changes/refactor-changes/refactor-change.page-type.ts b/changes/refactor-changes/refactor-change.page-type.ts
+deleted file mode 100644
+index eb669c2b20536052699b2d2a1e955d8ab0faf4b1..0000000000000000000000000000000000000000
+--- a/changes/refactor-changes/refactor-change.page-type.ts
++++ /dev/null
+@@ -1,41 +0,0 @@
+-import type { Module } from "../../code-system/modules/module.page-type.ts"
+-import type { PageType } from "../../pages/types/page-type.page-type.ts"
+-
+-export type RefactorChange = Module
+-
+-export const refactorChange = {
+-  id: "01a07313-92e7-7f50-b481-cb1f53b11ceb",
+-  pageTypeSlug: "page-type",
+-  slug: "refactor-change",
+-  definition: "a change built from atomic changes and other refactor changes",
+-  pluralSlug: "refactor-changes",
+-  partSlugs: [],
+-  extendsSlug: ["page-type/module"],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A refactor change runs atomic changes and other refactor changes and nothing else.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A change running an atomic change is a refactor change.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A refactor change lands every change that refactor change runs or lands nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A refactor change refuses where any change that refactor change runs refuses.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The order the changes are run in is the refactor change's own.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A refactor change no command runs is a refactor change all the same.",
+-    },
+-  ],
+-} as const satisfies PageType
