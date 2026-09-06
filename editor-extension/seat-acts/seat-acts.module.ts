@@ -30,12 +30,12 @@ export const seatActs = {
     },
     {
       invariantKind: "departure",
-      statement: "A stop asks the seat's supervisor without forcing it.",
+      statement: "A stop asks the seat's supervisor without forcing the supervisor.",
     },
     {
       invariantKind: "departure",
       statement:
-        "A revive is given the prompt the compose module renders rather than one written here.",
+        "A revive is given the prompt the compose module renders rather than a prompt written here.",
     },
     {
       invariantKind: "departure",
@@ -43,7 +43,7 @@ export const seatActs = {
     },
     {
       invariantKind: "departure",
-      statement: "The attach line is built before the resume, so a bad name costs no turn.",
+      statement: "The attach line is built before the resume.",
     },
     {
       invariantKind: "constraint",
