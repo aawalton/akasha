@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/where-physical-load-starts-to-swamp-my-thinking.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-physical-load-starts-to-swamp-my-thinking.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1f57a45f4d1909afa575adf9dca914c9b78a6a82
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-physical-load-starts-to-swamp-my-thinking.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const wherePhysicalLoadStartsToSwampMyThinking = {
++  id: "01a077e5-a848-737d-8136-628430d835c2",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-physical-load-starts-to-swamp-my-thinking",
++  topicSlug: "why-feeling-cannot-take-my-thinking",
++  ask: "Where do the inputs actually start to swamp my thinking, and do I get any read of coming up on that edge before consciousness goes?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/where-the-swamping-line-sits.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/where-the-swamping-line-sits.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cba04c2b1ff9f95ec5e94807a1ed00245e55e7cc
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/where-the-swamping-line-sits.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whereTheSwampingLineSits = {
++  id: "01a077e5-a849-77d5-a138-97026549d47f",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "where-the-swamping-line-sits",
++  topicSlug: "why-feeling-cannot-take-my-thinking",
++  ask: "Is the swamping line the same as bearable-to-unbearable, or the physical floor where I break, or its own boundary, and does the crossing run only one way?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-empty-and-listen-subtracts-anything.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-empty-and-listen-subtracts-anything.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..7dbd3c9015589fee11c2219ca4932637af986763
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-empty-and-listen-subtracts-anything.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherEmptyAndListenSubtractsAnything = {
++  id: "01a077e5-a849-7858-8f4e-8c5d6212a35e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-empty-and-listen-subtracts-anything",
++  topicSlug: "why-feeling-cannot-take-my-thinking",
++  ask: "Is my empty-and-listen posture actively subtracting candidates, or simply my default with nothing there to subtract?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/why-feeling-cannot-take-my-thinking.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/why-feeling-cannot-take-my-thinking.all-about-alan-topic.ts
+index 9c58a8581129bfa466bfc218dd3ed8afaa03a4b0..111272319f229f560926662ea0af252e15bcb496 100644
+--- a/alan/books/all-about-alan/topics/pages/why-feeling-cannot-take-my-thinking.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/why-feeling-cannot-take-my-thinking.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whyFeelingCannotTakeMyThinking = {
+   relatedSlugs: ["what-i-think-truth-is", "what-praying-does-for-me"],
+   settled:
+     "Feeling and thinking reach each other only by my watching. There is no direct wire between them.\n\nA flood lands in my body, never in the thinking. Even at my lowest I was still reasoning, on brutal inputs.\n\nSo my own inside is something I read from outside, the way I read anything else in the room.\n\nThe engine does not break. When I get a thing wrong it is the inputs that were bad.\n\nFeeling cannot seize it, but enough physical load can swamp it. It never went out while I was conscious.",
+-  unsettled:
+-    "Where the inputs actually start to swamp, and whether I get any read of coming up on that edge before consciousness goes, is open.\n\nWhether my empty-and-listen posture is actively subtracting candidates or is simply my default with nothing there to subtract is unsettled.\n\nWhether that line is the same one as bearable-to-unbearable, or the physical floor where I break, or its own boundary, is unplaced, and whether the crossing runs only one way is open.",
+ } as const satisfies AllAboutAlanTopic
