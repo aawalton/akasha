@@ -1,0 +1,56 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-long-a-cue-stays-clean-before-it-is-safe.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-long-a-cue-stays-clean-before-it-is-safe.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..43578dceac31d5b6412e1f8cafed02382afc8562
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-long-a-cue-stays-clean-before-it-is-safe.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howLongACueStaysCleanBeforeItIsSafe = {
++  id: "01a077e5-95f0-74c4-94c3-1f64ff114f57",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-long-a-cue-stays-clean-before-it-is-safe",
++  topicSlug: "how-an-alarm-wears-off",
++  ask: "How many clean repetitions, over how long, before my nervous system marks a cue safe?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-fading-runs-on-four-dials-or-one.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-fading-runs-on-four-dials-or-one.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f60570c7362d99c5ac5bcfeab977869d54c2bfa4
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-fading-runs-on-four-dials-or-one.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherFadingRunsOnFourDialsOrOne = {
++  id: "01a077e5-95f0-7efc-9e3f-1c09b0006ccb",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-fading-runs-on-four-dials-or-one",
++  topicSlug: "how-an-alarm-wears-off",
++  ask: "Not habituating, noticing change, novelty wearing off and extinction all govern whether a response of mine fades. Are those four dials or one?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-the-catastrophic-band-drifts-down.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-the-catastrophic-band-drifts-down.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8b59f0ebddf6530c888c1f50ad7fe3cd72f17eab
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-the-catastrophic-band-drifts-down.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherTheCatastrophicBandDriftsDown = {
++  id: "01a077e5-95ef-7682-ad4e-bd9bc3a76594",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-the-catastrophic-band-drifts-down",
++  topicSlug: "how-an-alarm-wears-off",
++  ask: "The truly-catastrophic band is described as fixed. Does that band drift down as my centre rises, so fewer things count as catastrophic, or does it stay put?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/how-an-alarm-wears-off.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/how-an-alarm-wears-off.all-about-alan-topic.ts
+index 89f22b38d9e9345ef32c6a83b9d38d3dcc4e7d16..d6733f37f3bb5ffaa05413737e14dee4d6f197ae 100644
+--- a/alan/books/all-about-alan/topics/pages/how-an-alarm-wears-off.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/how-an-alarm-wears-off.all-about-alan-topic.ts
+@@ -9,6 +9,4 @@ export const howAnAlarmWearsOff = {
+   parentSlugs: ["safety-bar"],
+   settled:
+     "A bad thing landing below my safety line proves the alarm wrong. Above it, it proves the alarm right.\n\nOne band is catastrophic whatever my level, and no level I could reach clears it.",
+-  unsettled:
+-    "The truly-catastrophic band is described as fixed, cleared by no level I could reach. Does it drift down as the centre rises, so fewer things count as catastrophic, or does it stay put?\n\nLow enough for long enough names a hold time without quantifying it. How many clean repetitions, over how long, before my nervous system marks the cue safe?\n\nFour things govern whether a response fades: not habituating, noticing change, novelty wearing off, extinction. Whether that is four dials or one is open.",
+ } as const satisfies AllAboutAlanTopic
