@@ -1,3 +1,16 @@
+diff --git a/command-system/commands/work-tree/work-tree.command.code.ts b/command-system/commands/work-tree/work-tree.command.code.ts
+index 18935277fbed5200aa3ca014ac948a6b7a4fe74d..a56c358178cd791eb43351357b6248e8636bab98 100644
+--- a/command-system/commands/work-tree/work-tree.command.code.ts
++++ b/command-system/commands/work-tree/work-tree.command.code.ts
+@@ -1,7 +1,7 @@
+ import { resolve } from "node:path"
+ import type { Answer, Given } from "@akasha/command-system/calling"
+ import { whyOf } from "@akasha/command-system/fault-saying"
+-import { type InitiativeRow, initiativesDrawn } from "@akasha/editor-extension/work-initiatives"
++import { type InitiativeRow, initiativesDrawn } from "@akasha/domains/work-initiatives"
+ import { type Drawn, drawnNow } from "@akasha/seat-system/work-tree-drawn"
+ 
+ export const JSON_OUT = "--json"
 diff --git a/domains/domain.workspace-package.ts b/domains/domain.workspace-package.ts
 index c539546892c12cebae214beb180e681a31ed53ce..480577f989cd4aca74faac5cd4512f2ec93e3543 100644
 --- a/domains/domain.workspace-package.ts
