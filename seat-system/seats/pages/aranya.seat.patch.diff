@@ -22,3 +22,41 @@ index bd4fb7f4bb5fbd5b135539a4a1603213fecf6863..25f8c8162bf9d3c8f56e4677f2082f73
 +  }
 +  return out.sort()
 +}
+diff --git a/editor-extension/subagent-core/subagent-core.module.ts b/editor-extension/subagent-core/subagent-core.module.ts
+index fcb97004f625876cb78201526602e671bef6bde8..c5b4692eed4e7221f571bde1c18ea82ff25d27c1 100644
+--- a/editor-extension/subagent-core/subagent-core.module.ts
++++ b/editor-extension/subagent-core/subagent-core.module.ts
+@@ -55,5 +55,33 @@ export const subagentCore = {
+       invariantKind: "departure",
+       statement: "Running subagents are ordered by label and then by the id of the tool call.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "An agent id is learned from a launch receipt and from nowhere else.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A subagent that stopped keeps its row rather than leaving the records.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An ended subagent is one whose launch and whose stop were both read.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A launch that was not read leaves no subagent to end.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A stop that was not read leaves its subagent running.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "The absence of a running subagent is no end.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Ended subagents are ordered by the id each subagent acts under.",
++    },
+   ],
+ } as const satisfies Module
