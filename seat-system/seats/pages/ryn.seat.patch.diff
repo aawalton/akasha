@@ -1,9 +1,14 @@
 readersOweReading: false
 diff --git a/alan/fitness/commands/exercise-ranks/exercise-ranks.command.ts b/alan/fitness/commands/exercise-ranks/exercise-ranks.command.ts
-index 7db02c5580d955b21cd7acc985ef22e4fc4dac48..99fb8b418cf414ae3261d99bf7525917e1fcdb95 100644
+index 7db02c5580d955b21cd7acc985ef22e4fc4dac48..c5f84d34882de0a4363015ee44236cfae7d8415b 100644
 --- a/alan/fitness/commands/exercise-ranks/exercise-ranks.command.ts
 +++ b/alan/fitness/commands/exercise-ranks/exercise-ranks.command.ts
-@@ -34,8 +34,7 @@ export const exerciseRanks = {
+@@ -30,12 +30,11 @@ export const exerciseRanks = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The movements are ordered by their blended score, highest first.",
++      statement: "The movements are ordered by their blended score from highest to lowest.",
      },
      {
        invariantKind: "departure",
