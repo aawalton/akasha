@@ -71,7 +71,7 @@ index b1eb64c3a833c952a6e561c3bf2e812dc824354a..3ccb78d390a29edc502012b3596ffd4f
  
      {
 diff --git a/agents/claude-accounts/modules/reading/claude-account-reading.module.ts b/agents/claude-accounts/modules/reading/claude-account-reading.module.ts
-index 631125aa040432d17d8165cf62274fe54fe81069..15b332d93ae8ccf8620fc70d2e35243220eb1fb8 100644
+index 631125aa040432d17d8165cf62274fe54fe81069..d2ef70835ba09aaa2c1a2c8bd627ab486d449f18 100644
 --- a/agents/claude-accounts/modules/reading/claude-account-reading.module.ts
 +++ b/agents/claude-accounts/modules/reading/claude-account-reading.module.ts
 @@ -19,11 +19,12 @@ export const claudeAccountReading = {
@@ -89,3 +89,12 @@ index 631125aa040432d17d8165cf62274fe54fe81069..15b332d93ae8ccf8620fc70d2e352432
      },
      {
        invariantKind: "departure",
+@@ -119,7 +120,7 @@ export const claudeAccountReading = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "A rescued pair spelled in kebab-case is read as one spelled in akasha's keys.",
++      statement: "A rescued pair spelled in kebab-case is read as a pair spelled in akasha's keys.",
+     },
+     {
+       invariantKind: "gap",
