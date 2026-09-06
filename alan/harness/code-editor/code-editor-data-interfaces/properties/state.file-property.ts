@@ -34,7 +34,7 @@ export const state = {
     },
     {
       invariantKind: "departure",
-      statement: "A write replaces that line rather than adding one after that line.",
+      statement: "A write replaces that line rather than adding a line after that line.",
     },
   ],
 } as const satisfies FileProperty
