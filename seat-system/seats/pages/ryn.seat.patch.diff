@@ -1,9 +1,14 @@
-readersOweReading: false
 diff --git a/command-system/commands/elaine/elaine.command.ts b/command-system/commands/elaine/elaine.command.ts
-index 2b20f0abb75a4a15f98cdeb1e7b65a613e34c089..dafb913b05bba0c684edf5663e579e45c47ed29f 100644
+index 2b20f0abb75a4a15f98cdeb1e7b65a613e34c089..b551dde20d9c2e9654574faa9efdfbdf57531625 100644
 --- a/command-system/commands/elaine/elaine.command.ts
 +++ b/command-system/commands/elaine/elaine.command.ts
-@@ -49,7 +49,7 @@ export const elaine = {
+@@ -44,12 +44,11 @@ export const elaine = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The window reaches a day further back than the days asked for, so the oldest day asked for is whole.",
++      statement: "The window reaches a day further back than the days asked for.",
      },
      {
        invariantKind: "departure",
@@ -12,7 +17,7 @@ index 2b20f0abb75a4a15f98cdeb1e7b65a613e34c089..dafb913b05bba0c684edf5663e579e45
      },
      {
        invariantKind: "departure",
-@@ -59,7 +59,7 @@ export const elaine = {
+@@ -59,7 +58,7 @@ export const elaine = {
      {
        invariantKind: "departure",
        statement:
