@@ -7,12 +7,12 @@ export const bodyweight = {
   pageTypeSlug: "number-property",
   slug: "bodyweight",
   propertySlug: "bodyweight",
-  definition: "what the body being trained weighs, in pounds",
+  definition: "what a person's body weighs, in pounds",
   max: null,
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The weight is read off the profile rather than handed in by a caller.",
+      statement: "The weight is read off the person's page rather than handed in by a caller.",
     },
     {
       invariantKind: "departure",
