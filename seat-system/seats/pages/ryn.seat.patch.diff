@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/harness/monarch/amazon-notes/monarch-amazon-notes.module.ts b/alan/harness/monarch/amazon-notes/monarch-amazon-notes.module.ts
+index 305c551b7ecbc0c37c192da938d0ddd9ccd20909..3c41b5de20c046c91dd7924d7b1400b0eed4b1a5 100644
+--- a/alan/harness/monarch/amazon-notes/monarch-amazon-notes.module.ts
++++ b/alan/harness/monarch/amazon-notes/monarch-amazon-notes.module.ts
+@@ -9,7 +9,7 @@ export const monarchAmazonNotes = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A charge matching two or more orders is abstained on and never written.",
++      statement: "A charge matching several orders is abstained on and never written.",
+     },
+     {
+       invariantKind: "departure",
