@@ -35,7 +35,7 @@ export const noAkashaCommandFromCode = {
     },
     {
       invariantKind: "departure",
-      statement: "A test file anywhere else is judged as any other.",
+      statement: "A test file anywhere else is judged as every other file is judged.",
     },
     {
       invariantKind: "departure",
