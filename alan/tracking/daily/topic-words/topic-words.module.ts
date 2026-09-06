@@ -14,6 +14,18 @@ export const topicWords = {
     },
     {
       invariantKind: "departure",
+      statement: "Every word a commit added is counted.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A word a commit took away is subtracted from no count.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A file that moved is read as the move rather than as the whole file written.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The wisdom words land before the intelligence words.",
     },
     {
