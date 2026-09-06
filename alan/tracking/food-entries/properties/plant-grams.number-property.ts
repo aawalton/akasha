@@ -12,8 +12,11 @@ export const plantGrams = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A plant processed into something else stops counting: muesli counts and bread does not.",
+      statement: "A plant processed into something else stops counting.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Muesli counts and bread does not.",
     },
     {
       invariantKind: "departure",
