@@ -14,7 +14,7 @@ export const renamePageSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "The exported const is the slug rename's own rather than a step of this one.",
+      statement: "The exported const is renamed by the slug rename rather than by a step here.",
     },
     {
       invariantKind: "departure",
@@ -26,11 +26,15 @@ export const renamePageSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "Each change reads the bodies the changes before it answered.",
+      statement: "Each change reads the bodies the changes before that change answered.",
     },
     {
       invariantKind: "departure",
-      statement: "A file beside the page is found from the keys its body states, not by a listing.",
+      statement: "A file beside the page is found from the keys the page's body states.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No file beside the page is found by listing the folder.",
     },
     {
       invariantKind: "departure",
@@ -42,7 +46,7 @@ export const renamePageSlug = {
     },
     {
       invariantKind: "departure",
-      statement: "The page's own file is carried before the files beside it.",
+      statement: "The page's own file is carried before the files beside that file.",
     },
     {
       invariantKind: "departure",

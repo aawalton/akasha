@@ -23,15 +23,15 @@ export const refactorChange = {
     },
     {
       invariantKind: "departure",
-      statement: "A refactor change lands everything it runs or none of it.",
+      statement: "A refactor change lands every change that refactor change runs or lands nothing.",
     },
     {
       invariantKind: "departure",
-      statement: "A refactor change refuses where any change it runs refuses.",
+      statement: "A refactor change refuses where any change that refactor change runs refuses.",
     },
     {
       invariantKind: "departure",
-      statement: "The order the changes it runs are run in is the refactor change's own.",
+      statement: "The order the changes are run in is the refactor change's own.",
     },
     {
       invariantKind: "departure",
