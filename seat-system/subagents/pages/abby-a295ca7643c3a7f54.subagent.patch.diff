@@ -1,0 +1,41 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-reaching-for-food-moves-the-light.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-reaching-for-food-moves-the-light.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..41c4fae0aed07143583826efcd3b5485b7bc7310
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-reaching-for-food-moves-the-light.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howReachingForFoodMovesTheLight = {
++  id: "01a077ee-526f-7928-88ae-c9bf709da104",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-reaching-for-food-moves-the-light",
++  topicSlug: "what-makes-me-start-eating",
++  ask: "The green-to-blue pull was written up from a design session rather than from anything I said. What is my own account of reaching for food to move the light?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-stress-reaches-my-appetite-bodily.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-stress-reaches-my-appetite-bodily.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4e4e5cf8883b551480c69c16b2a1578895fecab2
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-stress-reaches-my-appetite-bodily.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherStressReachesMyAppetiteBodily = {
++  id: "01a077ee-5270-7ca2-9c7d-4961ca9995aa",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-stress-reaches-my-appetite-bodily",
++  topicSlug: "what-makes-me-start-eating",
++  ask: "Does stress reach my appetite by any bodily route, rather than only through capacity and convenience?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/what-makes-me-start-eating.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/what-makes-me-start-eating.all-about-alan-topic.ts
+index a97a6cb1e98f89e7c7bce905e87a21144b971717..6c4c8eb036416cbcc4ec3a5dc1a0eaa3d1fd0bc1 100644
+--- a/alan/books/all-about-alan/topics/pages/what-makes-me-start-eating.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/what-makes-me-start-eating.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whatMakesMeStartEating = {
+   relatedSlugs: ["the-coloured-circles-i-run-on", "the-repeating-i-do-to-settle"],
+   settled:
+     "Hunger often does not fire at all, and when it does it is gone in a quarter of an hour whether I eat or not.\n\nThere is no fullness signal at either end, so the whole arc is missing.\n\nThe risk runs one way. I skip meals rather than overeat, which is why the household rule exists.\n\nSo I built a trigger: points and a stoplight I want to move green, then blue.\n\nRanked by what actually starts a meal: stimming first, then food someone brought me, then the points, then rarely hunger.",
+-  unsettled:
+-    "The green-to-blue pull was written up from a design session rather than from anything I said. A first-person account of reaching for food to move the light would anchor it.\n\nWhether stress reaches my appetite by any bodily route, rather than only through capacity and convenience, is undocumented and may be absent.",
+ } as const satisfies AllAboutAlanTopic
