@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
-index fd54c7a50c4eab21060f7bcfb7fa780ffe4b8917..dae4be7c687a37c9c8ff9907d52b468d4d9d4695 100644
+index fd54c7a50c4eab21060f7bcfb7fa780ffe4b8917..f577df82385bcda4e6ac034121aa57f597afe6fe 100644
 --- a/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
 +++ b/seat-system/seat-log-days/log-day-sweeping/log-day-sweeping.module.ts
 @@ -22,8 +22,7 @@ export const logDaySweeping = {
@@ -40,3 +40,13 @@ index fd54c7a50c4eab21060f7bcfb7fa780ffe4b8917..dae4be7c687a37c9c8ff9907d52b468d
      },
      {
        invariantKind: "departure",
+@@ -52,8 +54,7 @@ export const logDaySweeping = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "Nothing is taken away unless the sweep is asked to, because a removal the sweep makes is a commit.",
++      statement: "Nothing is taken away unless the sweep is asked to.",
+     },
+     {
+       invariantKind: "gap",
