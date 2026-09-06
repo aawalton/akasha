@@ -1,9 +1,14 @@
 readersOweReading: false
 diff --git a/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.ts b/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.ts
-index c1a8825d9de4546f36cb4cc4524aa33b14cd9a1f..7189063eb579b56c583dc0ea954173316c1a1d13 100644
+index c1a8825d9de4546f36cb4cc4524aa33b14cd9a1f..b0f062a2436fc9a4b928af01af823930daa54d2d 100644
 --- a/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.ts
 +++ b/seat-system/supervising/supervisor-idle-rule/supervisor-idle-rule.module.ts
-@@ -13,7 +13,7 @@ export const supervisorIdleRule = {
+@@ -9,11 +9,11 @@ export const supervisorIdleRule = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An unreachable rule answers not idle, with the reason rule-unreachable.",
++      statement: "An unreachable rule answers not idle with the reason rule-unreachable.",
      },
      {
        invariantKind: "departure",
