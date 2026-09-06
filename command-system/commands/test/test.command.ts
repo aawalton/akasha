@@ -48,16 +48,19 @@ export const test = {
     {
       invariantKind: "departure",
       statement:
-        "A run reaching fewer files because one batch died names the signal that batch died on.",
+        "A run reaching fewer files where a batch died names the signal that batch died on.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "That tail is bounded in lines and in bytes alike, and a whole line goes rather than part of one.",
+      statement: "That tail is bounded in lines and in bytes alike.",
     },
     {
       invariantKind: "departure",
-      statement: "A run printing no summary names no test, no test having run to be named.",
+      statement: "A whole line goes rather than part of a line.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A run printing no summary names no test.",
     },
     {
       invariantKind: "departure",
@@ -82,7 +85,7 @@ export const test = {
     {
       invariantKind: "departure",
       statement:
-        "A run naming no test points at naming one rather than carrying the output the runner printed.",
+        "A run naming no test points at naming a test rather than carrying the output the runner printed.",
     },
     {
       invariantKind: "departure",
