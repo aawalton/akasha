@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorLifecycleDeathWrite = {
   id: "01a06838-5a84-7002-b23a-fa3c1a68a559",

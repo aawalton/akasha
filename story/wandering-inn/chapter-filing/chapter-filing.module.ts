@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const chapterFiling = {
   id: "01a0686c-fd2c-7001-b7a4-465b147c2a2c",

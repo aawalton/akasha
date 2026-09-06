@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addonDataWritesCodec = {
   id: "01a06837-d6c9-7fd4-9904-6563858424cb",

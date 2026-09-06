@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorDeferredRestartProbe = {
   id: "01a0683e-3dbe-701d-8d02-1a1db2476e25",

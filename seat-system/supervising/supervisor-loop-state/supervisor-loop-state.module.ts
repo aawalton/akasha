@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorLoopState = {
   id: "01a0687b-aa89-7000-8261-58bdfde2d6c5",

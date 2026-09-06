@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorIterationOutcomeHandlers = {
   id: "01a06871-3115-700b-b125-962ed5e09687",

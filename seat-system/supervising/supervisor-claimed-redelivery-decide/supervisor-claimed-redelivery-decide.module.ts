@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorClaimedRedeliveryDecide = {
   id: "01a0686d-9d5e-7008-9fde-93e647443261",

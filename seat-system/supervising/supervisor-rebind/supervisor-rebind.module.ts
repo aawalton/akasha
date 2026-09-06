@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorRebind = {
   id: "01a06876-abda-7005-af0e-5acf7955f194",

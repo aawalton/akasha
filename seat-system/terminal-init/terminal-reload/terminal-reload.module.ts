@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const terminalReload = {
   id: "01a0680a-fa30-773e-a23e-fcd5bda782a7",

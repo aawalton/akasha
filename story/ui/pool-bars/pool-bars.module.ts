@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const poolBars = {
   id: "01a0628e-a5db-70f1-8dcb-7662895abef7",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tickSleeping = {
   id: "01a0686a-7a57-7c23-b825-02e6e8625bad",

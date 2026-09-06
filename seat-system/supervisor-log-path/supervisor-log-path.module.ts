@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorLogPath = {
   id: "01a06838-5a84-7007-ad97-0d2824c6293d",

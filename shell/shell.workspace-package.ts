@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const shell = {
   id: "01a05d9b-277a-7000-be3d-95c4cf94638d",

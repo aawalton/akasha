@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const jennyCapacitorBridge = {
   id: "01a06558-c2cc-700b-8c63-64111f2259ac",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorCredentials = {
   id: "01a0683e-3dbe-7016-a806-44c493fde84f",

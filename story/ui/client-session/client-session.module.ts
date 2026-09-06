@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const clientSession = {
   id: "01a0628e-a5da-732b-938e-933b89640adc",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const revealedFrontier = {
   id: "01a0628e-a5db-70ff-a3bc-cbc6c85df921",

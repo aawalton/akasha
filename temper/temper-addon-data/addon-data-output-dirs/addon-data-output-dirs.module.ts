@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addonDataOutputDirs = {
   id: "01a06837-d6c8-7575-95dd-44fa2e3c7d3e",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const clientEnvelope = {
   id: "01a0628e-a5da-73a4-b9b1-51a95f732859",

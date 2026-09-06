@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const sessionEnvelope = {
   id: "01a0628e-a5db-798a-bf9f-8f522487f7b9",

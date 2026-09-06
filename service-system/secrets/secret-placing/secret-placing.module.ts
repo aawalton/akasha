@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const secretPlacing = {
   id: "01a06977-65e5-74e7-9c45-ae62673340e9",

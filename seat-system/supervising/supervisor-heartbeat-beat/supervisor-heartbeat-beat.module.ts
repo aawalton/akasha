@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorHeartbeatBeat = {
   id: "01a06871-3115-7000-88a3-356a4726a3a1",

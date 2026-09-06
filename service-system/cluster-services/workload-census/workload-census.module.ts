@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const workloadCensus = {
   id: "01a06977-65e4-7fe1-86eb-b5c80ca5d400",

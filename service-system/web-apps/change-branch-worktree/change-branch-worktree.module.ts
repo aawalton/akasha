@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const changeBranchWorktree = {
   id: "01a069c1-1f43-7000-bf9c-42ecd1235cba",

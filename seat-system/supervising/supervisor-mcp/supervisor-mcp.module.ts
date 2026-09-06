@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorMcp = {
   id: "01a0687b-aa8a-7000-b99b-66144cf69680",

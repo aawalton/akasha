@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addonDataPages = {
   id: "01a06369-1e85-7bbd-9679-9ca88a924caa",

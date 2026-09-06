@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const narrativeLog = {
   id: "01a06327-e488-7b24-b7a4-8d756fe834de",

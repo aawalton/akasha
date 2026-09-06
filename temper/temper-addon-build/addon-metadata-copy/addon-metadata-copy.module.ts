@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addonMetadataCopy = {
   id: "01a062d1-4a71-7f08-a4d5-3b9e7c02a1df",

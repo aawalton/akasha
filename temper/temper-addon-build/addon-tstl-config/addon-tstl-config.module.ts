@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addonTstlConfig = {
   id: "01a060ed-2e23-72af-af9e-fc35df5b70c3",

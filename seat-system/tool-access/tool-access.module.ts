@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const toolAccess = {
   id: "01a06964-d998-7eb2-b409-f7b943e17909",

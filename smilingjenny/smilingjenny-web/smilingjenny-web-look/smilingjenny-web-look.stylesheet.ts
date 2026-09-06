@@ -1,4 +1,4 @@
-import type { Stylesheet } from "@akasha/code-system/stylesheet"
+import type { Stylesheet } from "@akasha/code/stylesheet"
 
 export const smilingjennyWebLook = {
   id: "01a06558-c2cc-7009-a5c7-8d674f0943d8",

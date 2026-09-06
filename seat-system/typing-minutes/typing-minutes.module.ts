@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const typingMinutes = {
   id: "01a0695a-d2ea-7934-8ccb-470e6b1ea2ac",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const jennyRingCredential = {
   id: "01a06558-c2cc-700e-a3eb-ad9e4f295d16",

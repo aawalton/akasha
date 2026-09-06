@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorIdleObserve = {
   id: "01a06871-3115-7002-a786-a3fb7a53c159",

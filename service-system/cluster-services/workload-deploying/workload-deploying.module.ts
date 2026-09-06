@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const workloadDeploying = {
   id: "01a05af7-5996-7001-8793-177eb8ddfa66",

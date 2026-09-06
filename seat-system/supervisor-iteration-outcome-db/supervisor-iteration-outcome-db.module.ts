@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorIterationOutcomeDb = {
   id: "01a06838-5a84-7001-a522-1f0b3c183f21",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addonDataWritesCompanionMappings = {
   id: "01a06837-d6c9-7650-a4df-e2a75b0339c5",

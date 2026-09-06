@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorInteractiveBootContract = {
   id: "01a06871-3115-7004-85f9-3b541e6a385e",

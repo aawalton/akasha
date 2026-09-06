@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const logBoundSaying = {
   id: "01a06583-0030-7002-a537-54289a8c69bf",

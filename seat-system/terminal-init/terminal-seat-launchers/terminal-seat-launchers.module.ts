@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const terminalSeatLaunchers = {
   id: "01a0680a-fa30-755d-8c2b-8b46724afdcd",

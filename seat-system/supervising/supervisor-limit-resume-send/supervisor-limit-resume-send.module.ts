@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorLimitResumeSend = {
   id: "01a0687b-aa88-7000-b039-fafb48729444",

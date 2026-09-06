@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorRcDegradedThresholds = {
   id: "01a0686d-9d5e-7000-9ba6-012f0d13fc71",

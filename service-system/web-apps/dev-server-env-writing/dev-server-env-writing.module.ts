@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const devServerEnvWriting = {
   id: "01a06583-0030-7006-a432-522c63fe9935",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const workTreeDrawn = {
   id: "01a06966-501e-74ec-85ca-90de74b884d1",

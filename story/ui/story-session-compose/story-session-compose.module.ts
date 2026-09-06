@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const storySessionCompose = {
   id: "01a0628e-a5db-74a4-9d09-0e0e0bee96f7",

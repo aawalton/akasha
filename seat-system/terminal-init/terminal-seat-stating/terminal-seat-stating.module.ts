@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const terminalSeatStating = {
   id: "01a0680a-fa30-7f40-a5ba-c3374e395ecb",

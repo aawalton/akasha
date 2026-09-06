@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorInteractiveSeams = {
   id: "01a06871-3115-7007-ad27-cd0693dae709",

@@ -1,7 +1,7 @@
 import { readFileSync } from "node:fs"
 import { dirname, join, normalize } from "node:path"
-import type { Naming } from "@akasha/code-system/code-specifier"
-import { reachesIn, reachingOver } from "@akasha/code-system/package-manifest"
+import type { Naming } from "@akasha/code/code-specifier"
+import { reachesIn, reachingOver } from "@akasha/code/package-manifest"
 import { AGENT_SETTINGS_PATH } from "@akasha/seat-system/supervisor-spawn-settings"
 import { listWorkspaceDirs } from "@akasha/workspace-paths/workspace-dirs"
 

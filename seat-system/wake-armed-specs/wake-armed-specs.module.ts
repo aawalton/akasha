@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const wakeArmedSpecs = {
   id: "01a0695a-d2ea-7f65-af9d-c2744d0e96c8",

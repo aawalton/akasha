@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const serviceReaching = {
   id: "01a05a5e-4f46-7ee6-a76e-5244d5852c62",

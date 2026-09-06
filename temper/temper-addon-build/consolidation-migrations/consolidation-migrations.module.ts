@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const consolidationMigrations = {
   id: "01a06038-2cc2-79bf-bf75-d6b79d64ce35",

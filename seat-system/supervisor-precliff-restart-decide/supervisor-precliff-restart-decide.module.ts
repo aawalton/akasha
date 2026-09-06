@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorPrecliffRestartDecide = {
   id: "01a06838-5a84-7003-a0ce-e7e92276f897",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const luaBuildCommand = {
   id: "01a06038-2cc1-7c3a-8b5e-0c9e254e7632",

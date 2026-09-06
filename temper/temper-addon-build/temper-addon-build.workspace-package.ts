@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const temperAddonBuild = {
   id: "01a06038-2cc1-7116-80a1-184fa5a8f3f6",

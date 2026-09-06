@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const globalNameDependents = {
   id: "01a06038-2cc1-77dd-90fd-2e476aa73f6c",

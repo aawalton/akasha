@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorSelfHealJitterDecide = {
   id: "01a06876-abda-7011-9a1d-2d00377d8021",

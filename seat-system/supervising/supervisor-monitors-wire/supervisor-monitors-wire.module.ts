@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorMonitorsWire = {
   id: "01a0687c-0431-7000-a70a-a045c6252226",

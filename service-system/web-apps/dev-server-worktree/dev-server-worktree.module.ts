@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const devServerWorktree = {
   id: "01a06583-0030-7007-bd2f-2f51bdbb851c",

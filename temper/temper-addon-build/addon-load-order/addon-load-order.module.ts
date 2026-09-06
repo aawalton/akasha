@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addonLoadOrder = {
   id: "01a062d1-4a70-7b3c-9e21-6d0a51f4c7e8",

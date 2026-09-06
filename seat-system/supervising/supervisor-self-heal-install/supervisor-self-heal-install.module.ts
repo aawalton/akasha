@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const supervisorSelfHealInstall = {
   id: "01a06876-abda-7010-b833-f472fa23d6e8",

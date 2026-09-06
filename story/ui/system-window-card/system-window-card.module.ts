@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const systemWindowCard = {
   id: "01a06327-e488-7762-ad43-9a83d08d2b73",
