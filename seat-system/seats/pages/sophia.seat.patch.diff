@@ -172,3 +172,34 @@ index 17f733ec596a0fdf6df4e49381c51a17542dde69..6aef4f2a8034b12f041a07ff1aaa9feb
    ]
    return said.length === 0 ? "" : `${said.join("\n")}\n`
  }
+diff --git a/command-system/drafting/drafting.module.test.ts b/command-system/drafting/drafting.module.test.ts
+index 617880ccbb324e91f3e2a67e6d425a6697f4246c..fa02a5a8c6f4a5086499667af809c9c6d344b604 100644
+--- a/command-system/drafting/drafting.module.test.ts
++++ b/command-system/drafting/drafting.module.test.ts
+@@ -32,11 +32,23 @@ const ALSO_NOT_TEXT = new Uint8Array([0x80, 0x81, 0x03])
+ const THEN_NOT_TEXT = new Uint8Array([0xc0, 0xaf, 0x07])
+ const WHO = ["-c", "user.email=t@t", "-c", "user.name=t", "-c", "commit.gpgsign=false"]
+ 
+-const NOTHING_RUNS: Running = { checks: false, writerOwesReading: false }
++const NOTHING_RUNS: Running = {
++  checks: false,
++  writerOwesReading: false,
++  readersOweReading: false,
++}
++
++const BOTH_RUN: Running = { checks: true, writerOwesReading: true, readersOweReading: true }
++
++const CHECKS_RUN: Running = { checks: true, writerOwesReading: false, readersOweReading: false }
+ 
+-const BOTH_RUN: Running = { checks: true, writerOwesReading: true }
++const RESTATED: Running = { checks: true, writerOwesReading: true, readersOweReading: false }
+ 
+-const CHECKS_RUN: Running = { checks: true, writerOwesReading: false }
++const kindOf = (
++  runsChecks: boolean,
++  writerOwesReading: boolean,
++  readersOweReading: boolean
++): Kind => ({ slug: "held", runsChecks, writerOwesReading, readersOweReading })
+ 
+ const scratch = scratchWorld()
+ 
