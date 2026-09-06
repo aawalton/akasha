@@ -21,7 +21,7 @@ export const amyAlanHarnessImprovements = {
     {
       statement: "Alan can load a view.",
       workingMemory:
-        "Four faults each stopped every view, and each is landed. `/api/page-types` answers a roster of 462 page type slugs where it answered 501 by design. The interface narrows `nav` by `appSlug` and `view` by `navSlug`, where it named keys neither type declares, and a key a page type declares nothing for is refused rather than left out. The `view` page type declares `pageType`, and 46 views name the type each lists, recovered from the `drawsSlug` that `1145f75519` deleted from 45 files. `page-detail-loading` asks for `externalId` and `gameEngine` only of a type declaring them. In the serving pod 46 of 55 views resolve a subject and 36 hold rows.",
+        "Five faults each stopped every view, and each is landed and deployed. `/api/page-types` answers a roster of page type slugs where it answered 501 by design. The interface narrows `nav` by `appSlug` and `view` by `navSlug`, where it named keys neither type declares, and a key a page type declares nothing for is refused rather than left out. The `view` page type declares `pageType`, and 46 views name the type each lists, recovered from the `drawsSlug` that `1145f75519` deleted from 45 files. `page-detail-loading` asks for `externalId` and `gameEngine` only of a type declaring them. Last, `PageRowSchema` read `seq` as a number or text and refused null, and a page kept as a file carries no sequence number, so one row refused threw away the whole batch of every file-backed page type. A browser signed in as Alan now shows twelve nav items and the Tasks tabs over 36 rows.",
     },
     {
       statement: "Alan can load the view for task pages.",
