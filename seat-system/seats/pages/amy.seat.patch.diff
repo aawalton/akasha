@@ -1,3 +1,15 @@
+diff --git a/seat-system/seat-turn-states/pages/idle.seat-turn-state.ts b/seat-system/seat-turn-states/pages/idle.seat-turn-state.ts
+index b1303666dc17f1355536d655d05c14857f06ba96..d459b7128ccc124c0d8b97ee727399cf299da43d 100644
+--- a/seat-system/seat-turn-states/pages/idle.seat-turn-state.ts
++++ b/seat-system/seat-turn-states/pages/idle.seat-turn-state.ts
+@@ -5,6 +5,6 @@ export const idle = {
+   pageTypeSlug: "seat-turn-state",
+   slug: "idle",
+   definition: "an agent between turns",
+-  partSlugs: ["seat-turn-state/idle-pending"],
++  partSlugs: ["seat-turn-state/idle-pending", "seat-turn-state/ready"],
+   colorSlug: "yellow",
+ } as const satisfies SeatTurnState
 diff --git a/seat-system/seat-turn-states/pages/ready.seat-turn-state.ts b/seat-system/seat-turn-states/pages/ready.seat-turn-state.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..a9b30e0fc94fc544ee30b91a136b210804c62741
