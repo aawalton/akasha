@@ -1,0 +1,9 @@
+import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
+
+export const whetherTheStatelessSelfAccountIsMine = {
+  id: "01a077e9-5956-7fa3-bf83-58c12574ba21",
+  pageTypeSlug: "all-about-alan-question",
+  slug: "whether-the-stateless-self-account-is-mine",
+  topicSlug: "the-three-seconds-i-am",
+  ask: "The stateless-self account was offered to me and I never confirmed it. Would I confirm that account in my own words?",
+} as const satisfies AllAboutAlanQuestion
