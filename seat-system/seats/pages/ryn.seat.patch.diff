@@ -1,9 +1,22 @@
-readersOweReading: false
 diff --git a/pages/access/file-write/file-write.module.ts b/pages/access/file-write/file-write.module.ts
-index e1a66ad8c704fb9fb6b1e59ca2bbb961cb5d9b6c..2611d07992909d5bf07bb0f59a9589efc1c0cfa7 100644
+index e1a66ad8c704fb9fb6b1e59ca2bbb961cb5d9b6c..607bb4d5b5045f49ecd9414ee3e57a1596f8a206 100644
 --- a/pages/access/file-write/file-write.module.ts
 +++ b/pages/access/file-write/file-write.module.ts
-@@ -43,11 +43,11 @@ export const fileWrite = {
+@@ -18,8 +18,11 @@ export const fileWrite = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A `where` is answered by the service, and the slugs it names are the pages written.",
++      statement: "A `where` is answered by the service.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The slugs that answer names are the pages written.",
+     },
+     {
+       invariantKind: "departure",
+@@ -43,11 +46,11 @@ export const fileWrite = {
      },
      {
        invariantKind: "departure",
