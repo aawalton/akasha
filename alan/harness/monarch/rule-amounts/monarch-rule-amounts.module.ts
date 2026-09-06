@@ -11,16 +11,23 @@ export const monarchRuleAmounts = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An amount is weighed in cents, so two sums a hundredth apart are two sums.",
+      statement: "An amount is weighed in cents.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "An exclusion is weighed before an inclusion, so an excluded amount never matches.",
+      statement: "Two sums a hundredth apart are two sums.",
     },
     {
       invariantKind: "departure",
-      statement: "A clause naming no amount matches every amount rather than none.",
+      statement: "An exclusion is weighed before an inclusion.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "An excluded amount never matches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A clause naming no amount matches every amount rather than no amount.",
     },
     {
       invariantKind: "departure",
