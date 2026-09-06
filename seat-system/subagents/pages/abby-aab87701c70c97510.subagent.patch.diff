@@ -1,0 +1,71 @@
+diff --git a/alan/books/all-about-alan/questions/pages/how-short-an-aligned-successor-makes-the-watching.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/how-short-an-aligned-successor-makes-the-watching.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b4fdb1bafc5e6fb97ea011158a8a7c0afa526cbd
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/how-short-an-aligned-successor-makes-the-watching.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const howShortAnAlignedSuccessorMakesTheWatching = {
++  id: "01a077ee-d279-7cdf-ab71-41868e2f9fd3",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "how-short-an-aligned-successor-makes-the-watching",
++  topicSlug: "when-a-company-changes-hands",
++  ask: "A structurally aligned successor, a co-op or a trust, should shorten the watching. How short should the watching then be? I have no rule for it.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/what-to-look-for-in-a-new-charter.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/what-to-look-for-in-a-new-charter.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..81d4d325547c0c42e8eb3204ecf3280bbdc42ee8
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/what-to-look-for-in-a-new-charter.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whatToLookForInANewCharter = {
++  id: "01a077ee-d27a-7df9-8f3f-1b9dff3c040e",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "what-to-look-for-in-a-new-charter",
++  topicSlug: "when-a-company-changes-hands",
++  ask: "What should I actually look for in a new charter or mission statement at the moment a company changes hands?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/whether-long-serving-staff-count-as-continuity.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/whether-long-serving-staff-count-as-continuity.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4782064d8c988d02701354d055e730b1cb5c2b71
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/whether-long-serving-staff-count-as-continuity.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whetherLongServingStaffCountAsContinuity = {
++  id: "01a077ee-d27a-7a89-944e-859a6d42b34a",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "whether-long-serving-staff-count-as-continuity",
++  topicSlug: "when-a-company-changes-hands",
++  ask: "Do long-serving staff count as continuity once the leaders turn over? My leaning is no.",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/questions/pages/who-builds-the-watcher-on-filings.all-about-alan-question.ts b/alan/books/all-about-alan/questions/pages/who-builds-the-watcher-on-filings.all-about-alan-question.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..9a5aab6aa446d97560049e7ca860c7f49998d7f8
+--- /dev/null
++++ b/alan/books/all-about-alan/questions/pages/who-builds-the-watcher-on-filings.all-about-alan-question.ts
+@@ -0,0 +1,9 @@
++import type { AllAboutAlanQuestion } from "../all-about-alan-question.page-type.ts"
++
++export const whoBuildsTheWatcherOnFilings = {
++  id: "01a077ee-d27a-7329-94a9-3bfb659ce040",
++  pageTypeSlug: "all-about-alan-question",
++  slug: "who-builds-the-watcher-on-filings",
++  topicSlug: "when-a-company-changes-hands",
++  ask: "Nothing tells me a company changed hands but the service getting worse. My framework names a watcher reading filings and governance on a schedule, so who builds that watcher?",
++} as const satisfies AllAboutAlanQuestion
+diff --git a/alan/books/all-about-alan/topics/pages/when-a-company-changes-hands.all-about-alan-topic.ts b/alan/books/all-about-alan/topics/pages/when-a-company-changes-hands.all-about-alan-topic.ts
+index cc2d418018af3549a606388e9eeeb5c6413ef6fc..695b2215e99b0f019c08702cef571af1368f14e1 100644
+--- a/alan/books/all-about-alan/topics/pages/when-a-company-changes-hands.all-about-alan-topic.ts
++++ b/alan/books/all-about-alan/topics/pages/when-a-company-changes-hands.all-about-alan-topic.ts
+@@ -10,6 +10,4 @@ export const whenACompanyChangesHands = {
+   relatedSlugs: ["how-i-grade-an-organisation", "getting-out-from-under-a-dependency"],
+   settled:
+     "The old record tells me what the old entity did, not what the new one will do.\n\nA sale, a flotation, an acquisition, a new chief, a reshuffled board or a rewritten mission each counts.\n\nI would rather reset one that was fine than keep leaning on one that has changed, so the list is deliberately wide.\n\nRe-earning is quick, because everyone's first decisions under pressure right now show up fast.\n\nI only notice reactively, when the service gets worse, and then go and look at who owns it.",
+-  unsettled:
+-    "A successor structurally aligned, a co-op or a trust, should shorten the watching. How short has no rule.\n\nWhat to actually look for in a new charter or mission statement at the moment of change has never been set out.\n\nWhether long-serving staff count as continuity once the leaders turn over is unsettled. My leaning is no.\n\nNothing tells me one has changed hands but the service getting worse. A watcher reading filings and governance on a schedule is named in my own framework and does not exist.",
+ } as const satisfies AllAboutAlanTopic
