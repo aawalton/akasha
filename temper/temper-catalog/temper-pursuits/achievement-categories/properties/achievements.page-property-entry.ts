@@ -17,7 +17,8 @@ export const achievements = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "An achievement here is one the game files under the heading carrying the line.",
+      statement:
+        "An achievement here is an achievement the game files under the heading carrying the line.",
     },
     {
       invariantKind: "departure",
