@@ -5978,7 +5978,7 @@ index adfdb0112bd2a0d1751a32e748fbffaa3578e1c8..8770be70c07b68188a054d9e0f6bb766
    invariants: [
      {
 diff --git a/readout-system/readout-scales/properties/earned-color-slug.text-property.ts b/readout-system/readout-scales/properties/earned-color-slug.text-property.ts
-index 64a0359734cf34c61c426f980be8a0c146a18f01..9de30529088e2915e731858f622901cd8d461830 100644
+index 64a0359734cf34c61c426f980be8a0c146a18f01..76c5056f304e102023f29f0d3826716500537f85 100644
 --- a/readout-system/readout-scales/properties/earned-color-slug.text-property.ts
 +++ b/readout-system/readout-scales/properties/earned-color-slug.text-property.ts
 @@ -8,7 +8,7 @@ export const earnedColorSlug = {
@@ -5990,6 +5990,15 @@ index 64a0359734cf34c61c426f980be8a0c146a18f01..9de30529088e2915e731858f622901cd
    nameFormatSlug: null,
    invariants: [
      {
+@@ -17,7 +17,7 @@ export const earnedColorSlug = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A scale states one earned color whatever readouts are read against that scale.",
++      statement: "A scale states its earned color whatever readouts are read against that scale.",
+     },
+     {
+       invariantKind: "gap",
 diff --git a/readout-system/readout-widgets/properties/caption.text-property.ts b/readout-system/readout-widgets/properties/caption.text-property.ts
 index 20a4e3b702cfe94f3a6387c27452f982cc3cb9a5..7c6e8bec158d6ffeeae271219de46af1d8020b4c 100644
 --- a/readout-system/readout-widgets/properties/caption.text-property.ts
