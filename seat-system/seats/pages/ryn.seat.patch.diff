@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.ts b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.ts
+index e7c793301e71b4fa45c5791c29608bc739397329..36ebeb826806405bc190590e1cfd588c947c9350 100644
+--- a/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.ts
++++ b/hook-system/agent-hooks/clear-reads-on-context-replaced/clear-reads-on-context-replaced.agent-hook.ts
+@@ -11,7 +11,7 @@ export const clearReadsOnContextReplaced = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A context replaced holds none of the pages read into that context.",
++      statement: "A context replaced holds no page read into that context.",
+     },
+     {
+       invariantKind: "departure",
