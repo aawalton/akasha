@@ -9,31 +9,28 @@ export const monarchRuleClauses = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "Nothing skips a clause it does not understand.",
+      statement: "Nothing skips a clause that is not understood.",
     },
     {
       invariantKind: "departure",
-      statement: "A comparison a key does not take is refused, even where both words are known.",
+      statement: "A comparison a key does not take is refused even where both words are known.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Two clauses over the same key and comparison are refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A clause holding no values is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rule stating no clause is refused.",
     },
     {
       invariantKind: "departure",
       statement:
-        "Two clauses over the same key and comparison are refused, because only one would be kept.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A clause holding no values is refused, because that clause would weigh against nothing.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A rule stating no clause is refused, because that rule would catch every transaction there is.",
-    },
-    {
-      invariantKind: "departure",
-      statement:
-        "A rule narrowing on nothing but a sign, an amount, a counterpart or a date is refused.",
+        "A rule narrowing on nothing but a sign or an amount or a counterpart or a date is refused.",
     },
     {
       invariantKind: "departure",
@@ -49,7 +46,7 @@ export const monarchRuleClauses = {
     },
     {
       invariantKind: "departure",
-      statement: "An empty note is refused, because that note writes a blank over nothing.",
+      statement: "An empty note is refused.",
     },
     {
       invariantKind: "departure",
