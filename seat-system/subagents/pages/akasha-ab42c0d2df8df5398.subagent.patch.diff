@@ -1,5 +1,5 @@
 diff --git a/command-system/commands/read/read.command.test-fixtures.ts b/command-system/commands/read/read.command.test-fixtures.ts
-index 0371d91d164c937dfd35c9a962cd6e50d8e0ff94..b274c49b1a1cf2be71d4016c4abdd515bf0b1c69 100644
+index 0371d91d164c937dfd35c9a962cd6e50d8e0ff94..cd710577cb4e0590db4fc92c3a1d782e07cf3da3 100644
 --- a/command-system/commands/read/read.command.test-fixtures.ts
 +++ b/command-system/commands/read/read.command.test-fixtures.ts
 @@ -1,7 +1,7 @@
@@ -29,3 +29,21 @@ index 0371d91d164c937dfd35c9a962cd6e50d8e0ff94..b274c49b1a1cf2be71d4016c4abdd515
  ]
  
  export const WARRANTED: readonly string[] = [THING, THING_TYPE, PAGE_TYPE]
+@@ -430,6 +435,17 @@ export function rootWarranting(
+   for (const [order, one] of TYPES.entries()) {
+     const id = `01a04f59-0000-7000-8000-${String(order).padStart(12, "0")}`
+     listedFiled(root, PAGE_TYPE_SLUG, one.slug, [{ path: one.at, id }])
++    valueAlsoFiled(root, PAGE_TYPE_SLUG, [
++      {
++        path: one.at,
++        value: {
++          id,
++          pageTypeSlug: PAGE_TYPE_SLUG,
++          slug: one.slug,
++          extendsSlug: one.above,
++        },
++      },
++    ])
+   }
+   for (const one of [...REAL, ...also]) {
+     const id = mintedId(one.slug)
