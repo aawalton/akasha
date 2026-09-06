@@ -14,7 +14,8 @@ export const seatWakeMatchDecide = {
     },
     {
       invariantKind: "departure",
-      statement: "An absent seat is revived only where the work matches one of its wake sources.",
+      statement:
+        "An absent seat is revived only where the work matches a wake source that seat states.",
     },
     {
       invariantKind: "departure",
