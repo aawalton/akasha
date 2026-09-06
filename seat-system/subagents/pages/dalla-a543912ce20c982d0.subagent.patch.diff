@@ -292,3 +292,37 @@ index 41387ce9d6c24b67fb63ee89042ffdee10850d0f..241cec4bedcd60ccb1ed5c5e975131c9
 -    },
    ],
  } as const satisfies RefactorChange
+diff --git a/pages/indexes/indexing/indexing.module.test-fixtures.ts b/pages/indexes/indexing/indexing.module.test-fixtures.ts
+index c4c4abe91e1b2aeb4b0fea481debab539bb8e634..41ee54a5711e7351d994943ccaf49bf63f49a242 100644
+--- a/pages/indexes/indexing/indexing.module.test-fixtures.ts
++++ b/pages/indexes/indexing/indexing.module.test-fixtures.ts
+@@ -4,6 +4,7 @@ import { scratchWorld } from "@akasha/command-system/scratching"
+ import { said as git } from "@akasha/git/git-running"
+ import { id as idPage } from "@akasha/pages/page/id"
+ import { slug as slugPage } from "@akasha/pages/page/slug"
++import { exportedAs } from "@akasha/pages/page-export-name"
+ import { declaringUnder } from "@akasha/testing-system/declaring"
+ import { indexingAt, rebuiltWhole } from "./indexing.module.code.ts"
+ 
+@@ -20,6 +21,10 @@ export function bodyOf(value: Held): string {
+   return `export const it = ${JSON.stringify(value, null, 2)} as const\n`
+ }
+ 
++export function pageOf(value: Held): string {
++  return bodyOf(value).replace("export const it", `export const ${exportedAs(String(value.slug))}`)
++}
++
+ export type Pair = { readonly tree: string; readonly root: string }
+ 
+ export const scratch = scratchWorld()
+@@ -264,8 +269,8 @@ const modulePage = (slug: string, id: string): Held => ({
+ 
+ const REPO: Readonly<Record<string, string>> = {
+   ...Object.fromEntries(REPO_VOCABULARY.map(([at, value]) => [`${TREE}/${at}`, bodyOf(value)])),
+-  [HELD_PAGE]: bodyOf(modulePage("held", idOf("8"))),
+-  [NAMER_PAGE]: bodyOf({
++  [HELD_PAGE]: pageOf(modulePage("held", idOf("8"))),
++  [NAMER_PAGE]: pageOf({
+     ...modulePage("namer", idOf("9")),
+     note: HELD_SLUG,
+     partSlugs: [`module/${HELD_SLUG}`],
