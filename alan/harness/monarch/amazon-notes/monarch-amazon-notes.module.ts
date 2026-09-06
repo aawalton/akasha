@@ -9,7 +9,7 @@ export const monarchAmazonNotes = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A charge matching two or more orders is abstained on and never written.",
+      statement: "A charge matching several orders is abstained on and never written.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,7 @@ export const monarchAmazonNotes = {
     {
       invariantKind: "departure",
       statement:
-        "The rows written, the rows declined and the order numbers owed are all tallied at the end.",
+        "The rows written and the rows declined and the order numbers owed are all tallied at the end.",
     },
   ],
 } as const satisfies Module
