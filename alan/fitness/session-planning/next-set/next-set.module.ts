@@ -30,8 +30,11 @@ export const nextSet = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The next set says why the movement before that set ended, unless that movement simply finished.",
+      statement: "The next set says why the movement before that set ended.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A movement that simply finished has no reason said.",
     },
     {
       invariantKind: "departure",
