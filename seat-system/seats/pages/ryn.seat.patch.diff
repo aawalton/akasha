@@ -1,5 +1,5 @@
 diff --git a/seat-system/seat-page-beat/seat-page-beat.module.ts b/seat-system/seat-page-beat/seat-page-beat.module.ts
-index 779ef98a27bdf301aef5615d3fdbad2fee10e12e..7e7c34e4d8aaab61f19a69417394769ccd5e538b 100644
+index 779ef98a27bdf301aef5615d3fdbad2fee10e12e..46451160cee4c0a3ce64fe247761758faf5b10bc 100644
 --- a/seat-system/seat-page-beat/seat-page-beat.module.ts
 +++ b/seat-system/seat-page-beat/seat-page-beat.module.ts
 @@ -9,11 +9,13 @@ export const seatPageBeat = {
@@ -24,6 +24,15 @@ index 779ef98a27bdf301aef5615d3fdbad2fee10e12e..7e7c34e4d8aaab61f19a69417394769c
        invariantKind: "departure",
 -      statement: "A seat with no composed name and none in its history is left unwritten.",
 +      statement: "A seat with no composed name and no name in its history is left unwritten.",
+     },
+     {
+       invariantKind: "departure",
+@@ -42,7 +44,7 @@ export const seatPageBeat = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A transcript found to have been superseded is written in place of the one the run names.",
++        "A transcript found to have been superseded is written in place of the transcript the run names.",
      },
      {
        invariantKind: "departure",
