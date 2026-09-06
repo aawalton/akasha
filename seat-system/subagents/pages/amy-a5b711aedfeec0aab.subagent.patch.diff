@@ -1,0 +1,35 @@
+diff --git a/readout-system/readout-widgets/properties/last-tapped-at.instant-property.ts b/readout-system/readout-widgets/properties/last-tapped-at.instant-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a65f79f76ab04150cf2043563ed56a4f0daafcae
+--- /dev/null
++++ b/readout-system/readout-widgets/properties/last-tapped-at.instant-property.ts
+@@ -0,0 +1,11 @@
++import type { InstantProperty } from "@akasha/pages/instant-property"
++
++export type LastTappedAt = string
++
++export const lastTappedAt = {
++  id: "01a0789e-7d06-7226-b458-b590857e10da",
++  pageTypeSlug: "instant-property",
++  slug: "last-tapped-at",
++  propertySlug: "last-tapped-at",
++  definition: "when a widget was last tapped",
++} as const satisfies InstantProperty
+diff --git a/readout-system/readout-widgets/properties/taps.number-property.ts b/readout-system/readout-widgets/properties/taps.number-property.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..04f785d3c7017482f87e9cf087689d3975fce884
+--- /dev/null
++++ b/readout-system/readout-widgets/properties/taps.number-property.ts
+@@ -0,0 +1,12 @@
++import type { NumberProperty } from "@akasha/pages/number-property"
++
++export type Taps = number
++
++export const taps = {
++  id: "01a0789e-7d05-7c5b-80d4-d734a14fed93",
++  pageTypeSlug: "number-property",
++  slug: "taps",
++  propertySlug: "taps",
++  definition: "how many taps a widget has taken",
++  max: null,
++} as const satisfies NumberProperty
