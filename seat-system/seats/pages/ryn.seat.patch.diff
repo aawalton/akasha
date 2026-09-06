@@ -1,9 +1,9 @@
 readersOweReading: false
 diff --git a/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts b/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts
-index e8fad1ee5e0219259cd5f776d41092bd8142aa0a..d1cbc628812a17b757e6c24fe5d0c8c93facf48b 100644
+index e8fad1ee5e0219259cd5f776d41092bd8142aa0a..1abe859524caf6589bfa16fdf8c16cded00b2be0 100644
 --- a/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts
 +++ b/temper/temper-addon-data/addon-data-writes-alchemy/addon-data-writes-alchemy.module.ts
-@@ -10,7 +10,7 @@ export const addonDataWritesAlchemy = {
+@@ -10,11 +10,11 @@ export const addonDataWritesAlchemy = {
      {
        invariantKind: "departure",
        statement:
@@ -12,3 +12,8 @@ index e8fad1ee5e0219259cd5f776d41092bd8142aa0a..d1cbc628812a17b757e6c24fe5d0c8c9
      },
      {
        invariantKind: "departure",
+-      statement: "A section states its writes rather than performing those writes.",
++      statement: "A section states its writes rather than performing a write.",
+     },
+   ],
+ } as const satisfies Module
