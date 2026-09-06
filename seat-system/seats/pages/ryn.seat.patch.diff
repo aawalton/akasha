@@ -1,17 +1,27 @@
 diff --git a/seat-system/supervising/tick-deadline/tick-deadline.module.ts b/seat-system/supervising/tick-deadline/tick-deadline.module.ts
-index 6306501c3122d4200c6ec6f9bd0460d91fa59466..15ce064ef05296281b5f8e2bc1fcd7340f5f56ec 100644
+index 6306501c3122d4200c6ec6f9bd0460d91fa59466..3d9425feb4f8b9b0b0f629ed238451f451d8faf0 100644
 --- a/seat-system/supervising/tick-deadline/tick-deadline.module.ts
 +++ b/seat-system/supervising/tick-deadline/tick-deadline.module.ts
-@@ -22,7 +22,11 @@ export const tickDeadline = {
+@@ -22,12 +22,19 @@ export const tickDeadline = {
      },
      {
        invariantKind: "departure",
 -      statement: "A timer left behind holds the process up, so every race clears its own.",
 +      statement: "A timer left behind holds the process up.",
-+    },
-+    {
-+      invariantKind: "departure",
-+      statement: "Every race clears its own timer.",
      },
      {
        invariantKind: "departure",
+-      statement:
+-        "A listener left on the signal outlives the tick, so every race takes its own off.",
++      statement: "Every race clears its own timer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A listener left on the signal outlives the tick.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every race takes its own listener off.",
+     },
+   ],
+ } as const satisfies Module
