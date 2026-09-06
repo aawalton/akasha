@@ -9,8 +9,11 @@ export const personaPoints = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "Attention counts where that attention made that part of Alan's life better, no matter the worker.",
+      statement: "Attention counts where that attention made that part of Alan's life better.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Attention counts the same from every worker.",
     },
     {
       invariantKind: "departure",
@@ -31,8 +34,11 @@ export const personaPoints = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A persona's running total only ever rises, unless a rebuild rewrites that total downward.",
+      statement: "A persona's running total only ever rises.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A rebuild rewrites a persona's running total downward.",
     },
     {
       invariantKind: "departure",
@@ -40,8 +46,7 @@ export const personaPoints = {
     },
     {
       invariantKind: "gap",
-      statement:
-        "A stored day agrees with the points its recipe computes, for every persona at once.",
+      statement: "A stored day agrees with the points its recipe computes.",
     },
     {
       invariantKind: "gap",

@@ -8,8 +8,11 @@ export const personaDayScore = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "A persona day states its own points, computed from the formula its property declares.",
+      statement: "A persona day states its own points.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A persona day's points are computed from the formula its property declares.",
     },
     {
       invariantKind: "departure",
