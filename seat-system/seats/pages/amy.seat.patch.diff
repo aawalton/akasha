@@ -1,0 +1,18 @@
+diff --git a/command-system/commands/measure-attributes/measure-attributes.command.code.ts b/command-system/commands/measure-attributes/measure-attributes.command.code.ts
+index 2f49e1a706e70436eb8bf11f4f25d668d12fb50e..dbf1220d4763b12130a0ad7bebf8c35e3c66f67c 100644
+--- a/command-system/commands/measure-attributes/measure-attributes.command.code.ts
++++ b/command-system/commands/measure-attributes/measure-attributes.command.code.ts
+@@ -66,9 +66,12 @@ export function measuredIn(taken: Taken, drawn: ReadonlyMap<string, Drawn>): rea
+   return held.map((one) => ({ label: one.label, figure: one.figure }))
+ }
+ 
++// EVERY FIGURE IS WRITTEN TO THE SAME WIDTH. A number written as the number it is drops the places
++// it has no digits for, so a column reads `0`, `0.6` and `0.63`, and the hundredths of one
++// attribute sit under the tenths of the next.
+ export function linesOf(measured: readonly Measured[]): readonly string[] {
+   const width = measured.reduce((most, one) => Math.max(most, one.label.length), 0)
+-  return measured.map((one) => `${one.label.padEnd(width)}  ${one.figure}`)
++  return measured.map((one) => `${one.label.padEnd(width)}  ${one.figure.toFixed(PLACES)}`)
+ }
+ 
+ export async function measureAttributes(_argv: readonly string[], given: Given): Promise<Answer> {
