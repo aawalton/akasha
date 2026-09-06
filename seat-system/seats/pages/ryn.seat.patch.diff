@@ -1,0 +1,13 @@
+diff --git a/seat-system/supervising/supervisor-interactive-iteration/supervisor-interactive-iteration.module.ts b/seat-system/supervising/supervisor-interactive-iteration/supervisor-interactive-iteration.module.ts
+index 870913fb874d0dd5913df33ba6c19b2c4d73f1b6..8c1dfecdb53470c79fb90256447514c692fc46ce 100644
+--- a/seat-system/supervising/supervisor-interactive-iteration/supervisor-interactive-iteration.module.ts
++++ b/seat-system/supervising/supervisor-interactive-iteration/supervisor-interactive-iteration.module.ts
+@@ -9,7 +9,7 @@ export const supervisorInteractiveIteration = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "An agent id is created only where the pass was handed none.",
++      statement: "An agent id is created only where no agent id was handed in.",
+     },
+     {
+       invariantKind: "departure",
