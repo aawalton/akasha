@@ -18,7 +18,7 @@ export const temperInventoryBankTrace = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "The trace read is the most recent one.",
+      statement: "The trace read is the most recent trace.",
     },
     {
       invariantKind: "departure",
