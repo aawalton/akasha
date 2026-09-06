@@ -1,0 +1,15 @@
+readersOweReading: false
+diff --git a/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.ts b/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.ts
+index 13e82a3183ac0afe703ea7f7338ec271b01bf504..e845911e0106a5f219e2874ebf559633311ec536 100644
+--- a/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.ts
++++ b/alan/harness/code-editor/code-editor-data-interfaces/beat-drawing/beat-drawing.module.ts
+@@ -9,7 +9,8 @@ export const beatDrawing = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A fleet is read by the reader that already read it rather than by new code.",
++      statement:
++        "A fleet is read by the reader that already read the fleet rather than by new code.",
+     },
+     {
+       invariantKind: "departure",
