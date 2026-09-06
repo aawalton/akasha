@@ -176,3 +176,15 @@ index fadc1191b41210bbcfc365dea1a039fe622b8de4..68b51514d8324ae1a213fca55313bde6
    viewPlace: 5,
    layout: "cards",
    viewSorts: [{ key: "alias-index", descending: false }],
+diff --git a/pages/views/pages/personas-covers-by-level.view.ts b/pages/views/pages/personas-covers-by-level.view.ts
+index ac56219bbd0c86c9b5f29267ce4a310b35b8601b..d99a3daf4e066cd517a834fed4647804864d9c2d 100644
+--- a/pages/views/pages/personas-covers-by-level.view.ts
++++ b/pages/views/pages/personas-covers-by-level.view.ts
+@@ -6,6 +6,7 @@ export const personasCoversByLevel = {
+   slug: "personas-covers-by-level",
+   title: "Covers by Level",
+   navSlug: "personas",
++  pageType: "persona-cover-image",
+   viewPlace: 7,
+   layout: "gallery",
+   viewSorts: [
