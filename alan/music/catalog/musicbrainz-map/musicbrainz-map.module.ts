@@ -54,7 +54,7 @@ export const musicbrainzMap = {
     },
     {
       invariantKind: "departure",
-      statement: "A work performed by the artist is one a recording of the artist's points at.",
+      statement: "A work performed by the artist is a work a recording of the artist's points at.",
     },
     {
       invariantKind: "departure",
@@ -62,7 +62,7 @@ export const musicbrainzMap = {
     },
     {
       invariantKind: "departure",
-      statement: "The kept recording of a title is the one with the lowest MusicBrainz id.",
+      statement: "The kept recording of a title is the recording with the lowest MusicBrainz id.",
     },
     {
       invariantKind: "departure",
