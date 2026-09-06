@@ -19,7 +19,7 @@ function namedAbove(value: Value | null): readonly string[] {
 }
 
 export function listedAbove(
-  given: Reading,
+  given: string | Reading,
   pageOf: (path: string) => Value | null
 ): ReadonlyMap<string, readonly string[]> {
   const above = new Map<string, readonly string[]>()
@@ -34,7 +34,7 @@ export function listedAbove(
 
 export function kindsUnder(
   slug: string,
-  given: Reading,
+  given: string | Reading,
   pageOf: (path: string) => Value | null
 ): ReadonlySet<string> {
   const above = listedAbove(given, pageOf)
