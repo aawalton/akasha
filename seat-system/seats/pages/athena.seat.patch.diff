@@ -1,5 +1,5 @@
 diff --git a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
-index 42193d452f106d3d48ca53bd3c89714f73376770..1b00a54c7ddfb08841b2c53781a868e3ab3ad083 100644
+index 42193d452f106d3d48ca53bd3c89714f73376770..8fca946c3cafd47a938bdc769e115ed9775f6b85 100644
 --- a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
 +++ b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
 @@ -41,7 +41,7 @@ export const athenaCommandsAtTheRoot = {
@@ -11,3 +11,12 @@ index 42193d452f106d3d48ca53bd3c89714f73376770..1b00a54c7ddfb08841b2c53781a868e3
      },
      {
        statement: "The index holds no folder left behind by a design that is gone.",
+@@ -51,7 +51,7 @@ export const athenaCommandsAtTheRoot = {
+     {
+       statement: "The index tells a reader which commit that index describes.",
+       workingMemory:
+-        "`.git/data/index/stamp.jsonl` was last written 2026-09-05 09:58 and names commit 366080ef, 10091 commits behind HEAD. Nothing in the tree writes it: 958d7455c9 deleted the stamp module and fdd2ee2f67 took the stamp out of the rebuild. One reader is left. `data-watching.module.code.ts` refreshes the code editor's work-tree, domain-tree and page-tree pictures only when that file changes, so those three have not refreshed since. A finding reads the stale stamp as lag; it is dead.",
++        "`.git/data/index/stamp.jsonl` names commit 366080ef, unchanged since 09:58 on 2026-09-05 and 12842 behind HEAD at d68a11cd26. The file was rewritten at 18:00 and grew, yet no file at HEAD writes it: 958d7455c9 deleted the stamp module and fdd2ee2f67 took the stamp out of the rebuild. So the writer is outside the tree and its commit has not moved.`data-watching.module.code.ts` is the one reader left, refreshing the editor's work-tree, domain-tree and page-tree only when that file changes.",
+     },
+   ],
+   constraints: [
