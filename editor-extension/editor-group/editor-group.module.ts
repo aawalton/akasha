@@ -21,7 +21,8 @@ export const editorGroup = {
     },
     {
       invariantKind: "departure",
-      statement: "The lowest open column is chosen where neither of the other two is open.",
+      statement:
+        "The lowest open column is chosen where no remembered column and no ancestor's column is open.",
     },
     {
       invariantKind: "departure",
@@ -29,7 +30,7 @@ export const editorGroup = {
     },
     {
       invariantKind: "departure",
-      statement: "The first column is numbered one.",
+      statement: "The first column carries the number one.",
     },
     {
       invariantKind: "departure",
