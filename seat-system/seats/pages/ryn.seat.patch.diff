@@ -1,5 +1,5 @@
 diff --git a/alan/harness/monarch/apply/monarch-apply.module.ts b/alan/harness/monarch/apply/monarch-apply.module.ts
-index 563b39b60bc09baffce2ecb20b948f30c7d3eea0..c1919cf3e2b9a73ad16c18c7f463e63eb73fe0ea 100644
+index 563b39b60bc09baffce2ecb20b948f30c7d3eea0..2ad49257f24a9fc27155d086e2cec39fa049480e 100644
 --- a/alan/harness/monarch/apply/monarch-apply.module.ts
 +++ b/alan/harness/monarch/apply/monarch-apply.module.ts
 @@ -17,8 +17,7 @@ export const monarchApply = {
@@ -9,6 +9,15 @@ index 563b39b60bc09baffce2ecb20b948f30c7d3eea0..c1919cf3e2b9a73ad16c18c7f463e63e
 -      statement:
 -        "An unpaired decision is refused, because the rule reached no conclusion to apply.",
 +      statement: "An unpaired decision is refused.",
+     },
+     {
+       invariantKind: "departure",
+@@ -26,7 +25,7 @@ export const monarchApply = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Both legs of a paired decision are categorized, not only the subject.",
++      statement: "Both legs of a paired decision are categorized rather than only the subject.",
      },
      {
        invariantKind: "departure",
