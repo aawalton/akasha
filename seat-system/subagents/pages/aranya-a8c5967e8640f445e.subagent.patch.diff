@@ -1,0 +1,88 @@
+diff --git a/changes/workflow-templates/pages/workflow-postgrest/workflow-postgrest.workflow-template.declaration.ts b/changes/workflow-templates/pages/workflow-postgrest/workflow-postgrest.workflow-template.declaration.ts
+index 69ba2cef7fca6fdf43bf907e38c0c53b3d2bb9af..118ba09d441eebc83a125e8267e26d050afdd78a 100644
+--- a/changes/workflow-templates/pages/workflow-postgrest/workflow-postgrest.workflow-template.declaration.ts
++++ b/changes/workflow-templates/pages/workflow-postgrest/workflow-postgrest.workflow-template.declaration.ts
+@@ -3,8 +3,7 @@ import { IMAGES } from "@akasha/workflow-language/images"
+ import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
+ import { applyRbac } from "@akasha/workflow-language/rbac-apply"
+ import { retryTransientDdl } from "@akasha/workflow-language/retry-transient-ddl"
+-import { SECRETS, secret } from "@akasha/workflow-language/secrets"
+-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
++import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
+ import { step } from "@akasha/workflow-language/step"
+ import { verifyRolloutCommands } from "@akasha/workflow-language/verify-rollout"
+ import { workflow } from "@akasha/workflow-language/workflow"
+@@ -29,45 +28,26 @@ export default workflow("postgrest", {
+     {
+       ...applyRbac({
+         name: "postgrest-apply-rbac",
+-        rbacFile:
+-          "infrastructure/cluster-manifests/postgrest-rbac/postgrest-rbac.module.code.ts",
++        rbacFile: "infrastructure/cluster-manifests/postgrest-rbac/postgrest-rbac.module.code.ts",
+       }),
+       dependsOn: ["postgrest-apply-namespace"],
+     },
+ 
+     {
+-      ...sopsDecryptApply({
++      ...secretPlaceApply({
+         name: "postgrest-apply-secrets",
+         namespace: "postgrest",
+-        secretFile:
+-          "service-system/cluster-services/pages/postgrest/postgrest.k8s-secret.sops.yaml",
++        resource: "postgrest-secrets",
+       }),
+-      commands: (ci) => [
+-        "set -e",
+-        `CONTENT_HASH="${ci.inputsHash}"`,
+-        ...SKIP_CHECK,
+-        `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/postgrest/postgrest.k8s-secret.sops.yaml)`,
+-        `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgrest -f -`,
+-        `echo "$DECRYPTED" | kubectl apply -n postgrest -f -`,
+-      ],
+       dependsOn: ["postgrest-apply-namespace"],
+     },
+ 
+     {
+-      ...sopsDecryptApply({
++      ...secretPlaceApply({
+         name: "postgrest-apply-authenticator-secrets",
+         namespace: "postgres",
+-        secretFile:
+-          "service-system/cluster-services/pages/postgrest/authenticator.k8s-secret.sops.yaml",
++        resource: "authenticator-secrets",
+       }),
+-      commands: (ci) => [
+-        "set -e",
+-        `CONTENT_HASH="${ci.inputsHash}"`,
+-        ...SKIP_CHECK,
+-        `DECRYPTED=$(sops -d ${ci.workspace}/service-system/cluster-services/pages/postgrest/authenticator.k8s-secret.sops.yaml)`,
+-        `echo "$DECRYPTED" | kubectl apply --dry-run=client -n postgres -f -`,
+-        `echo "$DECRYPTED" | kubectl apply -n postgres -f -`,
+-      ],
+       dependsOn: ["postgrest-apply-namespace"],
+     },
+ 
+@@ -154,10 +134,7 @@ export default workflow("postgrest", {
+       ...step({
+         name: "postgrest-apply-manifests",
+         image: IMAGES.CI,
+-        environment: {
+-          HOME: "/tmp",
+-          SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
+-        },
++        environment: { HOME: "/tmp" },
+         commands: (ci) => [
+           "set -e",
+           `CONTENT_HASH="${ci.inputsHash}"`,
+@@ -165,8 +142,8 @@ export default workflow("postgrest", {
+           "kubectl apply --server-side --force-conflicts -n postgrest -f infra/k8s/src/postgrest/generated/service.generated.yaml",
+           ...checksumHashCommands({
+             variable: "SECRET_HASH",
+-            read: `sops -d ${ci.workspace}/service-system/cluster-services/pages/postgrest/postgrest.k8s-secret.sops.yaml`,
+-            subject: "postgrest.k8s-secret.sops.yaml",
++            read: "kubectl get secret postgrest-secrets -n postgrest -o jsonpath='{.data.DATABASE_URL}{.data.PGRST_JWT_SECRET}'",
++            subject: "postgrest-secrets",
+           }),
+           `sed "s|checksum/postgrest-secrets:.*|checksum/postgrest-secrets: \\"${"$"}{SECRET_HASH}\\"|" infra/k8s/src/postgrest/generated/deployment.generated.yaml | kubectl apply --server-side --force-conflicts -n postgrest -f -`,
+           ...verifyRolloutCommands({
