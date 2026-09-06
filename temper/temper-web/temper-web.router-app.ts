@@ -6,6 +6,7 @@ export const temperWeb = {
   slug: "temper-web",
   definition: "the routes Temper serves to a browser",
   manifest: "json",
+  appLayout: "tsx",
   rootRoute: "tsx",
   routeTable: "ts",
   serverEntry: "tsx",

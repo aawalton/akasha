@@ -4,7 +4,7 @@ import { getUser } from "@akasha/supabase-rr/auth-server"
 import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { SupabaseProvider } from "@akasha/supabase-rr/supabase-provider"
 import { data, Outlet } from "react-router"
-import { ARCHIVE_OF_WORLDS_APP_ID } from "../archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
+import { ARCHIVE_OF_WORLDS_APP_SLUG } from "../archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
 import { AppShell } from "../archive-of-worlds-app-shell/archive-of-worlds-app-shell.module.code.tsx"
 import { AuthProvider } from "../archive-of-worlds-auth-provider/archive-of-worlds-auth-provider.module.code.tsx"
 import type { Route } from "./+types/_app-layout"
@@ -19,7 +19,7 @@ export async function loader({ request }: Route.LoaderArgs) {
     try {
       const result = await getPages({
         pageTypeSlug: "nav",
-        where: [{ key: "app", eq: ARCHIVE_OF_WORLDS_APP_ID }],
+        where: [{ key: "appSlug", eq: ARCHIVE_OF_WORLDS_APP_SLUG }],
         limit: 200,
       })
       navItems = result.rows

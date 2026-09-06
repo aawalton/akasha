@@ -3,7 +3,7 @@ import { getUser } from "@akasha/supabase-rr/auth-server"
 import { data, Outlet } from "react-router"
 import { AuthProviderWrapper } from "../auth-provider-wrapper/auth-provider-wrapper.module.code.tsx"
 import { usePathTracking } from "../path-tracker/path-tracker.module.code.ts"
-import { TEMPER_APP_ID } from "../temper-app-id/temper-app-id.module.code.ts"
+import { TEMPER_APP_SLUG } from "../temper-app-id/temper-app-id.module.code.ts"
 import { AppShell } from "../temper-app-shell/temper-app-shell.module.code.tsx"
 import type { Route } from "./+types/_app-layout"
 
@@ -15,7 +15,7 @@ export async function loader({ request }: Route.LoaderArgs) {
     try {
       const result = await getPages({
         pageTypeSlug: "nav",
-        where: [{ key: "app", eq: TEMPER_APP_ID }],
+        where: [{ key: "appSlug", eq: TEMPER_APP_SLUG }],
         limit: 200,
       })
       navItems = result.rows

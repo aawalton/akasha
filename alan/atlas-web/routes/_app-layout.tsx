@@ -5,7 +5,7 @@ import { createServerClient } from "@akasha/supabase-rr/server-client"
 import { SupabaseProvider } from "@akasha/supabase-rr/supabase-provider"
 import { useEffect } from "react"
 import { data, Outlet } from "react-router"
-import { ATLAS_APP_ID } from "../atlas-app-id/atlas-app-id.module.code.ts"
+import { ATLAS_APP_SLUG } from "../atlas-app-id/atlas-app-id.module.code.ts"
 import { AppShell } from "../atlas-app-shell/atlas-app-shell.module.code.tsx"
 import { AuthProvider } from "../atlas-auth-provider/atlas-auth-provider.module.code.tsx"
 import type { Route } from "./+types/_app-layout"
@@ -20,7 +20,7 @@ export async function loader({ request }: Route.LoaderArgs) {
     try {
       const result = await getPages({
         pageTypeSlug: "nav",
-        where: [{ key: "app", eq: ATLAS_APP_ID }],
+        where: [{ key: "appSlug", eq: ATLAS_APP_SLUG }],
         limit: 200,
       })
       navItems = result.rows

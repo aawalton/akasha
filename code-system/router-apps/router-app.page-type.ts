@@ -1,5 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { WorkspacePackage } from "../workspace-packages/workspace-package.page-type.ts"
+import type { AppLayout } from "./properties/app-layout.named-file-property.ts"
 import type { CompileConfig } from "./properties/compile-config.named-file-property.ts"
 import type { RootRoute } from "./properties/root-route.named-file-property.ts"
 import type { RouteTable } from "./properties/route-table.named-file-property.ts"
@@ -12,6 +13,7 @@ export type RouterApp = WorkspacePackage & {
   serverEntry: ServerEntry
   routerConfig: RouterConfig
   compileConfig?: CompileConfig
+  appLayout?: AppLayout
 }
 
 export const routerApp = {
@@ -21,6 +23,7 @@ export const routerApp = {
   definition: "what serves the routes its own table declares",
   pluralSlug: "router-apps",
   partSlugs: [
+    "named-file-property/app-layout",
     "named-file-property/compile-config",
     "named-file-property/root-route",
     "named-file-property/route-table",
@@ -35,6 +38,7 @@ export const routerApp = {
     { pagePropertySlug: "named-file-property/server-entry", required: true, many: false },
     { pagePropertySlug: "named-file-property/router-config", required: true, many: false },
     { pagePropertySlug: "named-file-property/compile-config", required: false, many: false },
+    { pagePropertySlug: "named-file-property/app-layout", required: false, many: false },
   ],
   invariants: [
     {
