@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
-index 4a4ce62da0b1d5a2bd4e59439d828d2d25ff5293..9ac0cb011aaa770f32780c36282fb3d1254df01d 100644
+index 4a4ce62da0b1d5a2bd4e59439d828d2d25ff5293..04ac430053e989ea49205a1e23b808ce761e3a50 100644
 --- a/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
 +++ b/checks/code-checks/pages/restatement-narrows-something/restatement-narrows-something.code-check.test.ts
 @@ -83,8 +83,8 @@ test("a restatement lowering a max is let through", () => {
@@ -23,6 +23,17 @@ index 4a4ce62da0b1d5a2bd4e59439d828d2d25ff5293..9ac0cb011aaa770f32780c36282fb3d1
 -    { required: true, many: true, max: 5 }
 +    { required: true, many: true, maxCount: null },
 +    { required: true, many: true, maxCount: 5 }
+   )
+ 
+   expect(said).toEqual([])
+@@ -155,8 +155,8 @@ test("a restatement raising a max is left to the check refusing that", () => {
+   const said = restating(
+     root,
+     judged,
+-    { required: true, many: true, max: 5 },
+-    { required: true, many: true, max: 20 }
++    { required: true, many: true, maxCount: 5 },
++    { required: true, many: true, maxCount: 20 }
    )
  
    expect(said).toEqual([])
