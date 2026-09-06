@@ -1,15 +1,21 @@
 runsWarrants: false
 diff --git a/command-system/commands/move/outside/move-outside.module.ts b/command-system/commands/move/outside/move-outside.module.ts
-index d7446d745c8ce9e2f100444be17cba76d5e0326d..dc00ff504da17bad4bf029f54fa12d09ac20638a 100644
+index d7446d745c8ce9e2f100444be17cba76d5e0326d..16436e60b3647400e134591b9d0d51602da4f19c 100644
 --- a/command-system/commands/move/outside/move-outside.module.ts
 +++ b/command-system/commands/move/outside/move-outside.module.ts
-@@ -18,7 +18,8 @@ export const moveOutside = {
+@@ -18,11 +18,13 @@ export const moveOutside = {
      },
      {
        invariantKind: "departure",
 -      statement: "The tail of a path that moved from each folder above it is looked for too.",
 +      statement:
 +        "The tail of a path that moved from each folder above that path is looked for too.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The longest folder that moved is the one a path beneath it arrives under.",
++      statement:
++        "The longest folder that moved is the folder a path beneath that folder arrives under.",
      },
      {
        invariantKind: "departure",
