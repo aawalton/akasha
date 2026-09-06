@@ -1,6 +1,6 @@
 readersOweReading: false
 diff --git a/alan/harness/code-editor/code-editor.domain.ts b/alan/harness/code-editor/code-editor.domain.ts
-index b143e1c41b936ae304e59a762733cc3a065f4f46..e15a783d3bfad7fc2530e6236023cdc08f616867 100644
+index b143e1c41b936ae304e59a762733cc3a065f4f46..efc6405729ba4f86e9f4d1ea5f4abb79f390ea30 100644
 --- a/alan/harness/code-editor/code-editor.domain.ts
 +++ b/alan/harness/code-editor/code-editor.domain.ts
 @@ -25,7 +25,7 @@ export const codeEditor = {
@@ -9,6 +9,15 @@ index b143e1c41b936ae304e59a762733cc3a065f4f46..e15a783d3bfad7fc2530e6236023cdc0
        statement:
 -        "A panel, a tab or the status line reads one file and works nothing out from the repository.",
 +        "A panel or a tab or the status line reads one file and works nothing out from the repository.",
+     },
+     {
+       invariantKind: "departure",
+@@ -33,7 +33,7 @@ export const codeEditor = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A panel, a tab or the status line re-reads when its own file is written.",
++      statement: "A panel or a tab or the status line re-reads when its own file is written.",
      },
      {
        invariantKind: "departure",
