@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Four steps: 1 the category prevented, 2 the right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero; a blind zero and a clean zero read alike. 43 checks, alphabetical, done through folder-matches-a-shape. Now global-declared-once: it catches a member two files restate alike, which typecheck takes in silence. It refuses changes carrying neither offending file, and reads 79024 files to use 296. Both repairs delegated.",
+        "Four steps: 1 the category prevented, 2 the right files at patch, 3 cheap at patch, 4 turned on. Seed a fault before believing a zero, and check the scratch world exercises the path rather than a fallback. 43 checks, alphabetical, done through global-declared-once, now on at patch: it reads the 280 declaration files the index names, and answers nothing where the change carries neither one nor a `declare global`. Next id-is-a-uuid-version-7.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
