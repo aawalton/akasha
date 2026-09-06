@@ -12,3 +12,17 @@ index 0000000000000000000000000000000000000000..709630c8f95f04f9d6502d9083e87b18
 +  slug: "alertmanager-config-alertmanager-yml",
 +  placements: [{ resourceName: "alertmanager-config", resourceKey: "alertmanager.yml" }],
 +} as const satisfies Secret
+diff --git a/service-system/secrets/pages/prometheus-secrets-database-url.secret.ts b/service-system/secrets/pages/prometheus-secrets-database-url.secret.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..cfd0ae5c2c3da035afdce7b4143be24f5be52fd0
+--- /dev/null
++++ b/service-system/secrets/pages/prometheus-secrets-database-url.secret.ts
+@@ -0,0 +1,8 @@
++import type { Secret } from "../secret.page-type.ts"
++
++export const prometheusSecretsDatabaseUrl = {
++  id: "01a07698-3a07-7f5e-be97-8edd8233e05d",
++  pageTypeSlug: "secret",
++  slug: "prometheus-secrets-database-url",
++  placements: [{ resourceName: "prometheus-secrets", resourceKey: "DATABASE_URL" }],
++} as const satisfies Secret
