@@ -23,7 +23,8 @@ export const activity = {
 
     {
       invariantKind: "departure",
-      statement: "Every site showing the activity is carried the activity rather than taking one.",
+      statement:
+        "Every site showing the activity is carried the activity rather than taking that activity.",
     },
     {
       invariantKind: "departure",
