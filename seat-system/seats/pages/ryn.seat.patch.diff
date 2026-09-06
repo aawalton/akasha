@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-data-encode/data-encode-runtime/data-encode-runtime.module.ts b/temper/temper-lib-data-encode/data-encode-runtime/data-encode-runtime.module.ts
+index 984be28686a0d8cf798fe0c53840d30bcb5c9a44..24e8d82d2bddbffc3fd8f415946f41ac362e993c 100644
+--- a/temper/temper-lib-data-encode/data-encode-runtime/data-encode-runtime.module.ts
++++ b/temper/temper-lib-data-encode/data-encode-runtime/data-encode-runtime.module.ts
+@@ -17,7 +17,7 @@ export const dataEncodeRuntime = {
+     },
+     {
+       invariantKind: "stopgap",
+-      statement: "Debug is on for one named account and for no other.",
++      statement: "Debug is on for a single named account and for no other account.",
+     },
+   ],
+ } as const satisfies Module
