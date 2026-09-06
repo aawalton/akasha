@@ -1,0 +1,13 @@
+diff --git a/inference/generations/logs/generation-log.page-type.ts b/inference/generations/logs/generation-log.page-type.ts
+index 43c188bfead6a5475f4a1cd9b3d2e6c0620dde38..55b350b2cab4330e98b5384057b7590b32fae6d9 100644
+--- a/inference/generations/logs/generation-log.page-type.ts
++++ b/inference/generations/logs/generation-log.page-type.ts
+@@ -25,7 +25,7 @@ export const generationLog = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A generation log holds its runs and their outputs beside the log rather than filing each on its own.",
++        "A generation log holds its runs and their outputs beside the log rather than in pages of their own.",
+     },
+     {
+       invariantKind: "departure",
