@@ -1,0 +1,13 @@
+diff --git a/pages/core/view-state/view-state-change/view-state-change.module.code.ts b/pages/core/view-state/view-state-change/view-state-change.module.code.ts
+index c415f25bd5438210be1bc545f5c214216a3e057b..b6653475c11f07bd12243ab29920c850a32120f6 100644
+--- a/pages/core/view-state/view-state-change/view-state-change.module.code.ts
++++ b/pages/core/view-state/view-state-change/view-state-change.module.code.ts
+@@ -14,7 +14,7 @@ export interface ViewRow {
+ 
+ export interface ReducerCtx {
+   newPageId: string
+-  ownerNavItemId: string
++  ownerNavSlug: string
+ }
+ 
+ export interface PropertyWrite {
