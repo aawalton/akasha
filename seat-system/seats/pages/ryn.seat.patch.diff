@@ -1,0 +1,17 @@
+diff --git a/seat-system/compose-notices/compose-notices.module.ts b/seat-system/compose-notices/compose-notices.module.ts
+index 8fc620e81a1a70307fb9b8582c656e3a6a6a7cf9..59c4fcb7ce962a16a563d13795864bb344363fdc 100644
+--- a/seat-system/compose-notices/compose-notices.module.ts
++++ b/seat-system/compose-notices/compose-notices.module.ts
+@@ -14,7 +14,11 @@ export const composeNotices = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A notice is named by its file stem, so a page renamed here is a notice gone.",
++      statement: "A notice is named by its file stem.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page renamed here is a notice gone.",
+     },
+     {
+       invariantKind: "departure",
