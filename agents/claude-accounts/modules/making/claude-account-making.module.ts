@@ -23,7 +23,7 @@ export const claudeAccountMaking = {
     {
       invariantKind: "departure",
       statement:
-        "An account states its id, its page type, its slug, its address and its alias slot.",
+        "An account states its id and its page type and its slug and its address and its alias slot.",
     },
     {
       invariantKind: "departure",
@@ -64,7 +64,7 @@ export const claudeAccountMaking = {
     },
     {
       invariantKind: "departure",
-      statement: "An identity the caller names is written rather than a fresh one.",
+      statement: "An identity the caller names is written rather than a fresh identity.",
     },
     {
       invariantKind: "departure",
