@@ -1,5 +1,5 @@
 import type { Work } from "@akasha/pages/computed-property"
-import type { ClaudeAccount } from "../claude-account.page-type.ts"
+import type { WorkedClaudeAccount } from "../claude-account.page-type.worked.ts"
 
 const CEILING = 100
 
@@ -14,7 +14,7 @@ function percentIn(said: unknown): number | null {
   return Number.isFinite(found) ? found : null
 }
 
-export const work: Work<ClaudeAccount, number> = (page) => {
+export const work: Work<WorkedClaudeAccount, number> = (page) => {
   if (withdrawn(page.subscriptionDisabledReason)) return CEILING
   return percentIn(page.sevenDayPercentUsed)
 }

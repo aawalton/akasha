@@ -212,6 +212,7 @@ export const claudeAccount = {
       many: false,
     },
   ],
+  worked: "ts",
   invariants: [
     {
       invariantKind: "departure",
