@@ -14,12 +14,11 @@ export const treasureUpstreamPort = {
     },
     {
       invariantKind: "departure",
-      statement: "A table keyed only by its own count from one is written as an array.",
+      statement: "A table whose keys count up from the first index is written as an array.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "This module keeps its own serializer because the shared one writes every table as an object.",
+      statement: "This module keeps its own serializer rather than the shared serializer.",
     },
     {
       invariantKind: "departure",
