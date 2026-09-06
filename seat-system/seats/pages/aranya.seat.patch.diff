@@ -377,7 +377,7 @@ index 5a064472cf2f1c7bb35a7006513c16e318651acd..4d6f73cc025bf25e2e42383f1db03116
      return {
        page,
 diff --git a/seat-system/subagent-census/subagent-census.module.ts b/seat-system/subagent-census/subagent-census.module.ts
-index 31dae6ddd7b2f0f3387678f5c5a147b4b2f7938a..88a2ddc2533f6424fbc7b5fb2c9077ca7484d661 100644
+index 31dae6ddd7b2f0f3387678f5c5a147b4b2f7938a..6cc1919760fe037839af515b11f97fc460a03954 100644
 --- a/seat-system/subagent-census/subagent-census.module.ts
 +++ b/seat-system/subagent-census/subagent-census.module.ts
 @@ -31,11 +31,25 @@ export const subagentCensus = {
@@ -405,6 +405,74 @@ index 31dae6ddd7b2f0f3387678f5c5a147b4b2f7938a..88a2ddc2533f6424fbc7b5fb2c9077ca
 +    {
 +      invariantKind: "departure",
 +      statement: "An agent id a transcript never read a launch receipt for ends no page.",
+     },
+     {
+       invariantKind: "departure",
+@@ -51,11 +65,16 @@ export const subagentCensus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "That log carries a line only where a landing refused, so a line is a record.",
++      statement: "That log carries a line only where a landing refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A line in that log is therefore a record rather than an inference.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A take-down is read whether or not its line opens with the time it was written.",
++      statement:
++        "A take-down is read whether or not that take-down's line opens with the time it was written.",
+     },
+     {
+       invariantKind: "departure",
+@@ -63,7 +82,11 @@ export const subagentCensus = {
+     },
+     {
+       invariantKind: "absence",
+-      statement: "No command line is read, because a removal leans on no pattern matching one.",
++      statement: "No command line is read here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A removal leans on no pattern matching a command line.",
+     },
+     {
+       invariantKind: "departure",
+@@ -75,8 +98,11 @@ export const subagentCensus = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A subagent between tool calls answers on no process, so no process is no evidence of an end.",
++      statement: "A subagent between tool calls answers on no process.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "No process is therefore no evidence of an end.",
+     },
+     {
+       invariantKind: "departure",
+@@ -89,11 +115,19 @@ export const subagentCensus = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "The census names the seat, the agent id, the processes answering, and why, for every page.",
++        "The census names for every page its seat and its agent id and the processes answering and why.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here writes a page.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here removes a page.",
+     },
+     {
+       invariantKind: "absence",
+-      statement: "Nothing here writes, removes or commits.",
++      statement: "Nothing here commits.",
      },
      {
        invariantKind: "departure",
