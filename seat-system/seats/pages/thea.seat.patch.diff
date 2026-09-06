@@ -2565,42 +2565,6 @@ index 1ae1f614b0451b489dda7df9e2045afde1f1ec3b..c077c84259985b9aefdf39af0955b399
      const format = textAt(page, FORMAT)
      for (const each of listed ? held : [held]) {
        const why = overMax(each, max, slug, "")
-diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
-index 2e3a9fc7c1650366bf45fdd1a9ee9cae4c4483f0..f2a0bca035b291743975ae6322ae057ab0374b9d 100644
---- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
-+++ b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.test-fixtures.ts
-@@ -212,14 +212,14 @@ const PROPERTIES: Record<string, Value> = {
-     pageTypeSlug: "number-property",
-     slug: "max",
-     propertySlug: "max",
--    max: null,
-+    maxCount: null,
-   },
-   total: {
-     id: "01a0540d-0000-7000-8000-00000000001e",
-     pageTypeSlug: "number-property",
-     slug: "total",
-     propertySlug: "total",
--    max: null,
-+    maxCount: null,
-   },
-   properties: {
-     id: "01a0540d-0000-7000-8000-00000000001f",
-@@ -413,8 +413,13 @@ export function besideCarried(uncommitted: boolean, secret = false): readonly Ca
-       declaredBy: "beside",
-       required: true,
-       many: false,
--      max: null,
-+<<<<<<< what this change would leave
-+      maxCount: null,
-       total: null,
-+=======
-+      max: null,
-+      maxLength: null,
-+>>>>>>> what HEAD holds
-       uncommitted,
-       secret,
-     },
 diff --git a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts b/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
 index 4a1852b02ab8be6cb9ad17429238822d8d1e3ff1..97035222bcfec4f34c9ce68deac3914af82e61ae 100644
 --- a/checks/code-checks/pages/page-matches-its-type/page-matches-its-type.code-check.ts
