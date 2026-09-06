@@ -19,3 +19,16 @@ index 0000000000000000000000000000000000000000..fed0c1c478368759d26f24344b7003c7
 +    },
 +  ],
 +} as const satisfies Initiative
+diff --git a/seat-system/seats/pages/sophia.seat.ts b/seat-system/seats/pages/sophia.seat.ts
+index 35880d3f77f0a5bb270275cb442460181a09fd97..c0eeef80d902d5746fd48327483a45d706b84879 100644
+--- a/seat-system/seats/pages/sophia.seat.ts
++++ b/seat-system/seats/pages/sophia.seat.ts
+@@ -5,7 +5,7 @@ export const sophia = {
+   pageTypeSlug: "seat",
+   slug: "sophia",
+   personaSlug: "sophia",
+-  assignmentSlug: "page-type/persona",
++  assignmentSlug: "initiative/sophia-warrant-reach",
+   roleSlug: "persona-craft",
+   personSlug: "alan",
+   startMode: "interactive",
