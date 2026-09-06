@@ -19,7 +19,7 @@ export const bashEnv = {
     {
       invariantKind: "departure",
       statement:
-        "A shell that was handed no credentials file is pointed at the one its account signed in with.",
+        "A shell that was handed no credentials file is pointed at the file its account signed in with.",
     },
     {
       invariantKind: "departure",
@@ -31,8 +31,11 @@ export const bashEnv = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The script ends true, so a shell reading that script is not left holding a failing status.",
+      statement: "The script ends true.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A shell reading the script is not left holding a failing status.",
     },
     {
       invariantKind: "gap",
