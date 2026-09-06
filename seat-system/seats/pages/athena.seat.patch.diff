@@ -1,0 +1,13 @@
+diff --git a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+index 74be747d79901526084bac2405dadd7b7d26c3c0..c804158a1d28d957032643f7c87e73f33243778c 100644
+--- a/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
++++ b/domains/initiatives/pages/athena-commands-at-the-root.initiative.ts
+@@ -41,7 +41,7 @@ export const athenaCommandsAtTheRoot = {
+     {
+       statement: "An index written as changes land matches what a rebuild would write.",
+       workingMemory:
+-        "A refresh over 44ac2d3df9 read 0 files missing, 0 wrong and 4 the pages no longer imply, over 70169 pages and 537303 entries. A day earlier one over d68a11cd26 read 9 missing, 2 wrong and 175 stale, and one over 5e6b09d17d added 30933 after the 09:36 outage left the index unable to read its own page types. So the settle leaves entries behind as pages move. Nothing measures this between rebuilds and nothing fails as it grows.",
++        "A refresh over 4041e390fe read 136 files missing, 1 wrong and 8 stale, over 70177 pages and 537511 entries, taken while a swarm was qualifying property slugs across the page types. One over 44ac2d3df9 the same day read 0, 0 and 4. One over d68a11cd26 read 9, 2 and 175, and one over 5e6b09d17d added 30933 after an outage left the index unable to read its own page types. So the settle falls behind while pages move fast. Nothing measures this between rebuilds.",
+     },
+   ],
+   constraints: [
