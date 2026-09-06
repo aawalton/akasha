@@ -1,6 +1,6 @@
 import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
 import { applyRbac } from "@akasha/workflow-language/rbac-apply"
-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
 import { workflow } from "@akasha/workflow-language/workflow"
 
 export const workflows = [
@@ -11,8 +11,7 @@ export const workflows = [
     steps: [
       applyRbac({
         name: "temper-apply-rbac",
-        rbacFile:
-          "infrastructure/cluster-manifests/temper-web-rbac/temper-web-rbac.module.code.ts",
+        rbacFile: "infrastructure/cluster-manifests/temper-web-rbac/temper-web-rbac.module.code.ts",
       }),
       kubectlApply({
         name: "temper-infra-apply-service",
@@ -20,10 +19,10 @@ export const workflows = [
         files: "temper/temper-web/generated/web-service.generated.yaml",
         serverSide: true,
       }),
-      sopsDecryptApply({
+      secretPlaceApply({
         name: "temper-infra-apply-secrets",
         namespace: "temper",
-        secretFile: "temper/temper-web/deploy/secrets.sops.yaml",
+        resource: "temper-secrets",
       }),
     ],
   }),

@@ -1,6 +1,6 @@
 import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
 import { applyRbac } from "@akasha/workflow-language/rbac-apply"
-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
 import { workflow } from "@akasha/workflow-language/workflow"
 
 export const workflows = [
@@ -17,14 +17,13 @@ export const workflows = [
       kubectlApply({
         name: "archive-of-worlds-infra-apply-service",
         namespace: "archive-of-worlds",
-        files:
-          "archive-of-worlds/archive-of-worlds-web/generated/web-service.generated.yaml",
+        files: "archive-of-worlds/archive-of-worlds-web/generated/web-service.generated.yaml",
         serverSide: true,
       }),
-      sopsDecryptApply({
+      secretPlaceApply({
         name: "archive-of-worlds-infra-apply-secrets",
         namespace: "archive-of-worlds",
-        secretFile: "archive-of-worlds/archive-of-worlds-web/deploy/secrets.sops.yaml",
+        resource: "archive-of-worlds-secrets",
       }),
     ],
   }),

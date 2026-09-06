@@ -1,6 +1,6 @@
 import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
 import { applyRbac } from "@akasha/workflow-language/rbac-apply"
-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
 import { workflow } from "@akasha/workflow-language/workflow"
 
 export const workflows = [
@@ -20,10 +20,10 @@ export const workflows = [
         files: "smilingjenny/smilingjenny-web/generated/web-service.generated.yaml",
         serverSide: true,
       }),
-      sopsDecryptApply({
+      secretPlaceApply({
         name: "smilingjenny-infra-apply-secrets",
         namespace: "smilingjenny",
-        secretFile: "smilingjenny/smilingjenny-web/deploy/secrets.sops.yaml",
+        resource: "smilingjenny-secrets",
       }),
     ],
   }),

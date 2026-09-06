@@ -1,6 +1,6 @@
 import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
 import { applyRbac } from "@akasha/workflow-language/rbac-apply"
-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
 import { workflow } from "@akasha/workflow-language/workflow"
 
 export const workflows = [
@@ -20,10 +20,10 @@ export const workflows = [
         files: "audhdalan/audhdalan-web/generated/web-service.generated.yaml",
         serverSide: true,
       }),
-      sopsDecryptApply({
+      secretPlaceApply({
         name: "audhdalan-infra-apply-secrets",
         namespace: "audhdalan",
-        secretFile: "audhdalan/audhdalan-web/deploy/secrets.sops.yaml",
+        resource: "audhdalan-secrets",
       }),
     ],
   }),

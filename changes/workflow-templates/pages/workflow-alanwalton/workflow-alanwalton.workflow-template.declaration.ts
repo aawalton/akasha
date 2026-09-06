@@ -1,7 +1,7 @@
 import { IMAGES } from "@akasha/workflow-language/images"
 import { kubectlApply } from "@akasha/workflow-language/kubectl-apply"
 import { applyRbac } from "@akasha/workflow-language/rbac-apply"
-import { sopsDecryptApply } from "@akasha/workflow-language/sops-decrypt"
+import { secretPlaceApply } from "@akasha/workflow-language/secret-place"
 import { step } from "@akasha/workflow-language/step"
 import { workflow } from "@akasha/workflow-language/workflow"
 
@@ -22,10 +22,10 @@ export const workflows = [
         files: "alan/web/generated/web-service.generated.yaml",
         serverSide: true,
       }),
-      sopsDecryptApply({
+      secretPlaceApply({
         name: "alanwalton-infra-apply-secrets",
         namespace: "alanwalton",
-        secretFile: "alan/web/deploy/secrets.sops.yaml",
+        resource: "alanwalton-secrets",
       }),
       step({
         name: "alanwalton-mirror-s3-creds",
