@@ -73,7 +73,7 @@ export const role = {
     {
       directiveKind: "rule",
       name: "Irreversibility",
-      act: "Look at what an irreversible act lands on before making it.",
+      act: "Look at what an irreversible command lands on before running it.",
       warrant:
         "A reversible command and an irreversible one run the same motion, and the difference shows too late.",
       aids: ["Looking means listing what it hits, not thinking.", "Overwriting is deleting."],
