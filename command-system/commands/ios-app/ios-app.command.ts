@@ -44,7 +44,7 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "A workstation that is not a mac hands the build to one that is.",
+      statement: "A workstation that is not a mac hands the build to a mac.",
     },
     {
       invariantKind: "constraint",
@@ -56,7 +56,7 @@ export const iosApp = {
     },
     {
       invariantKind: "departure",
-      statement: "A site handed in takes the place of the one the app's page would stage.",
+      statement: "A site handed in takes the place of the site the app's page would stage.",
     },
   ],
 } as const satisfies Command
