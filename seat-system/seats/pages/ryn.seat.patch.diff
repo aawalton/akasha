@@ -1,0 +1,13 @@
+diff --git a/editor-extension/agent-forest-answer/agent-forest-answer.module.ts b/editor-extension/agent-forest-answer/agent-forest-answer.module.ts
+index 06585e97edb579a3a269bdf92873b8113668b6e0..81a9b893e3acc860ea03fd7b0bf93326697c0b1f 100644
+--- a/editor-extension/agent-forest-answer/agent-forest-answer.module.ts
++++ b/editor-extension/agent-forest-answer/agent-forest-answer.module.ts
+@@ -13,7 +13,7 @@ export const agentForestAnswer = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A row carrying no id is refused, because a row with none is no seat.",
++      statement: "A row carrying no id is refused.",
+     },
+     {
+       invariantKind: "constraint",
