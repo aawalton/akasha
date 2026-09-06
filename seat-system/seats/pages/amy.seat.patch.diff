@@ -144,3 +144,68 @@ index da9c7761996fccfe93849c91ef3d4295896bb1dd..ec290c44491d7c92f3efd230600ed037
      "module/seat-rotated-session",
      "module/seat-session",
      "module/seat-stated",
+diff --git a/seat-system/seat-turn-state/seat-turn-state.module.code.ts b/seat-system/seat-turn-state/seat-turn-state.module.code.ts
+index 1c4e34423492bf6b75a15afcfddf809e6bbecc56..7774d77ada6d996aec3c970952e768ef5c305c88 100644
+--- a/seat-system/seat-turn-state/seat-turn-state.module.code.ts
++++ b/seat-system/seat-turn-state/seat-turn-state.module.code.ts
+@@ -1,5 +1,7 @@
++import { attributesOf } from "../seat-attributes/seat-attributes.module.code.ts"
+ import { agentPresence } from "../seat-presence-read/seat-presence-read.module.code.ts"
+ import type { SeatPresence } from "../seat-proc-key/seat-proc-key.module.code.ts"
++import { roleIsOnCall } from "../seat-role-on-call/seat-role-on-call.module.code.ts"
+ import {
+   anyWorking,
+   anyWorkingRead,
+@@ -21,6 +23,7 @@ export interface SeatTurnRecords {
+   readonly presence: SeatPresence
+   readonly pending: TurnPending
+   readonly working: TurnWorking
++  readonly onCallRole: boolean
+ }
+ 
+ export interface SeatTurnReading {
+@@ -32,7 +35,22 @@ const NO_TURN_TAKEN: SeatTurnState = "stopped"
+ 
+ const GONE: SeatPresence = "absent"
+ 
+-function idleIn(): SeatTurnReading {
++// What a seat in an on-call role is between turns: ready for whatever is sent to it, which is the
++// phrase the on-call property itself is defined by.
++const SENT_TO_IT = "work sent to it"
++
++// A SEAT IN AN ON-CALL ROLE IS WAITING EVEN WHEN IT HOLDS NOTHING TO WAIT ON. Idle and waiting are
++// two different things to see on a row: idle says nobody is coming, and waiting says the seat is
++// between one piece of work and the next. A handler between messages is the second, and it drew as
++// the first — yellow, the color for a seat that has finished and been left — for as long as the
++// states have had colors.
++//
++// THE ROLE ANSWERS THIS RATHER THAN THE SEAT'S OWN ON-CALL FLAG. Those are two facts: the flag says
++// this seat was put on call, which a seat of any role may be, and the role says every seat of that
++// role is on call by what the role is. A seat put on call to carry one errand is still idle between
++// turns; a handler never is.
++function idleIn(kept: SeatTurnRecords): SeatTurnReading {
++  if (kept.onCallRole) return { state: "idle-pending", waitingOn: SENT_TO_IT }
+   return { state: "idle", waitingOn: null }
+ }
+ 
+@@ -46,10 +64,10 @@ export function readSeatTurn(kept: SeatTurnRecords): SeatTurnReading {
+   if (anyWorking(kept.working)) return { state: "working", waitingOn: null }
+   if (anyPendingRead(kept.pending)) {
+     const on = pendingOn(kept.pending)
+-    if (on.length === 0) return idleIn()
++    if (on.length === 0) return idleIn(kept)
+     return { state: "idle-pending", waitingOn: on.join(", ") }
+   }
+-  return idleIn()
++  return idleIn(kept)
+ }
+ 
+ export function seatTurnRecordsOf(agent: string): SeatTurnRecords {
+@@ -57,6 +75,7 @@ export function seatTurnRecordsOf(agent: string): SeatTurnRecords {
+     presence: agentPresence(agent),
+     pending: pendingOf(agent),
+     working: workingOf(agent),
++    onCallRole: roleIsOnCall(attributesOf(agent).role?.slug ?? null),
+   }
+ }
+ 
