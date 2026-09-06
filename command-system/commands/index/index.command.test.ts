@@ -254,6 +254,18 @@ test("the files the index differed in are named rather than only counted", () =>
   expect(said(answer)).toContain(".jsonl")
 })
 
+test("a dry run names a path belonging to no index and leaves that path alone", () => {
+  const root = repoAt()
+  seeded(root)
+  const stray = join(root, ".git", "data", "index", "athena-stray.jsonl")
+  writeFileSync(stray, "{}\n")
+  const answer = index(["refresh", "--dry-run"], givenAt(root))
+  expect(answer.code).toBe(OK)
+  expect(said(answer)).toContain("belonging to no index would be taken away")
+  expect(said(answer)).toContain("athena-stray.jsonl")
+  expect(existsSync(stray)).toBe(true)
+})
+
 test("every act and flag the surface shows is one this takes", () => {
   for (const one of indexCommand.taking) {
     const said = readIn([one.said.split(" ")[0] ?? ""])
