@@ -13,7 +13,7 @@ index e82ba15b20bb164fb438597376cf79202af42313..30cc08ecd57a5838a7fc73f5dcab829d
      read.dryRun
        ? `nothing was put in place — ${DRY_RUN}`
 diff --git a/command-system/commands/index/index.command.ts b/command-system/commands/index/index.command.ts
-index 1aa59aa4de05ea7e346e6b5ce6ff16bdfc4c0040..8680ddc91209642db0f161777f6011a220983c79 100644
+index 1aa59aa4de05ea7e346e6b5ce6ff16bdfc4c0040..8823c4cba2e434a85836257443c13950c929d12a 100644
 --- a/command-system/commands/index/index.command.ts
 +++ b/command-system/commands/index/index.command.ts
 @@ -4,7 +4,7 @@ export const index = {
@@ -25,6 +25,16 @@ index 1aa59aa4de05ea7e346e6b5ce6ff16bdfc4c0040..8680ddc91209642db0f161777f6011a2
    code: "ts",
    test: "ts",
    changeKindSlug: "change-none",
+@@ -13,8 +13,7 @@ export const index = {
+       said: "refresh",
+       takes: "build the index over the repository as it stands and put it in place",
+     },
+-    { said: "--dry-run", takes: "say what the rebuild would change and put nothing in place" },
+-    { said: "--unlanded", takes: "build over paths standing apart from HEAD" },
++    { said: "--dry-run", takes: "say what the repair would change and write nothing" },
+   ],
+   helpNotes: [
+     "refresh is the act it carries, and one call names one act.",
 diff --git a/pages/indexes/indexing/indexing.module.code.ts b/pages/indexes/indexing/indexing.module.code.ts
 index c049133ce6ffad2655675c56e6adacdc5bf20243..5199324f0ab21d9fd436e314e0e32e71e304b1ba 100644
 --- a/pages/indexes/indexing/indexing.module.code.ts
