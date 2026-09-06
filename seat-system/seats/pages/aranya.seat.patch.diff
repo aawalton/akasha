@@ -1,3 +1,41 @@
+diff --git a/changes/workflow-language/secret-place/secret-place.workflow-step.code.ts b/changes/workflow-language/secret-place/secret-place.workflow-step.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..257ad04580768a2def3a67bbbc7f576fb0a500a7
+--- /dev/null
++++ b/changes/workflow-language/secret-place/secret-place.workflow-step.code.ts
+@@ -0,0 +1,32 @@
++import { IMAGES } from "../images/images.module.code.ts"
++import { SECRETS, secret } from "../secrets/secrets.module.code.ts"
++import type { CIContext, Step } from "../workflow-types/workflow-types.module.code.ts"
++
++const SAYING = "service-system/secrets/secret-saying/secret-saying.module.code.ts"
++
++interface SecretPlaceConfig {
++  name: string
++  namespace: string
++  resource: string
++}
++
++export function secretPlaceApply(config: SecretPlaceConfig): Step {
++  const { name, namespace, resource } = config
++  return {
++    name,
++    image: IMAGES.CI,
++    environment: {
++      HOME: "/tmp",
++      SOPS_AGE_KEY: secret(SECRETS.AGE_SECRET_KEY),
++    },
++    commands: (ci: CIContext) => [
++      "set -e",
++      `SAID=$(bun "${ci.workspace}/${SAYING}" --root "${ci.workspace}" --resource ${resource} --namespace ${namespace})`,
++      `echo "$SAID" | kubectl apply --dry-run=client -n ${namespace} -f -`,
++      `echo "$SAID" | kubectl apply -n ${namespace} -f -`,
++    ],
++    backendOptions: {
++      kubernetes: { serviceAccountName: "pipeline-engine" },
++    },
++  }
++}
 diff --git a/changes/workflow-language/secret-place/secret-place.workflow-step.ts b/changes/workflow-language/secret-place/secret-place.workflow-step.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..cbbddb8311a92fcf189d908b5fe3147c9c265abc
