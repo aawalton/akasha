@@ -1,14 +1,19 @@
 runsWarrants: false
 diff --git a/seat-system/subagents/presence/subagent-presence.module.ts b/seat-system/subagents/presence/subagent-presence.module.ts
-index 7bf38474cec8f2844d5d368cbfeaf49af404210f..185f6d124c5d8190de2cfd0f74e80287bb95fd18 100644
+index 7bf38474cec8f2844d5d368cbfeaf49af404210f..0942e8a98b17817e0750b9e510eb624b803f5bee 100644
 --- a/seat-system/subagents/presence/subagent-presence.module.ts
 +++ b/seat-system/subagents/presence/subagent-presence.module.ts
-@@ -31,7 +31,7 @@ export const subagentPresence = {
+@@ -31,11 +31,11 @@ export const subagentPresence = {
      },
      {
        invariantKind: "departure",
 -      statement: "A subagent whose page is in history takes up that page rather than a new one.",
 +      statement: "A subagent whose page is in history takes up that page rather than a new page.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The page taken up is the one the newest commit wrote at the same path.",
++      statement: "The page taken up is the page the newest commit wrote at the same path.",
      },
      {
        invariantKind: "departure",
