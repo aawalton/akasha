@@ -4,10 +4,8 @@ import { schemaOf } from "@akasha/indexes"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { slugFor } from "@akasha/pages/page-property-key"
 import { renamePath } from "../../../atomic-changes/pages/rename-path/rename-path.atomic-change.code.ts"
-import {
-  renameSlug,
-  statedIn,
-} from "../../../atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts"
+import { renameSlug } from "../../../atomic-changes/pages/rename-slug/rename-slug.atomic-change.code.ts"
+import { statedIn } from "../../../partial/pages/restate-value/restate-value.change-partial.code.ts"
 
 const TYPED = ".ts"
 
@@ -22,6 +20,7 @@ const FILE_PROPERTY = "file-property"
 export type Asked = {
   readonly at: string
   readonly to: string
+  readonly plural?: string
 }
 
 export type Renamed = {
@@ -99,7 +98,7 @@ export function renamePageSlug(
   }
   const bodies = new Map<string, string>()
   const over = readingOver(bodies, textOf)
-  const said = renameSlug(root, { at: given.at, to: given.to }, over)
+  const said = renameSlug(root, { at: given.at, to: given.to, plural: given.plural }, over)
   if (said.bodies === null) return refusing(said.refused ?? `\`${held.slug}\` was not renamed`)
   for (const [path, body] of said.bodies) bodies.set(path, body)
   const lands = join(dirname(given.at), `${given.to}.${held.pageTypeSlug}${TYPED}`)

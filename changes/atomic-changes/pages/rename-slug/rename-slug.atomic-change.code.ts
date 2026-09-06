@@ -5,6 +5,10 @@ import { slugFor } from "@akasha/pages/page-property-key"
 import ts from "typescript"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
 import { respelled } from "../../../partial/pages/respell-export/respell-export.change-partial.code.ts"
+import {
+  restated,
+  statedIn,
+} from "../../../partial/pages/restate-value/restate-value.change-partial.code.ts"
 
 const KEBAB = /^[a-z][a-z0-9]*(-[a-z0-9]+)*$/
 
@@ -14,11 +18,14 @@ const SLUG = "slug"
 
 const PAGE_TYPE_SLUG = "pageTypeSlug"
 
+const PLURAL_SLUG = "pluralSlug"
+
 const ID = "id"
 
 export type Asked = {
   readonly at: string
   readonly to: string
+  readonly plural?: string
 }
 
 export type Renamed = {
@@ -53,29 +60,6 @@ function keyOf(held: ts.PropertyAssignment): string | null {
 
 function exported(statement: ts.VariableStatement): boolean {
   return statement.modifiers?.some((one) => one.kind === ts.SyntaxKind.ExportKeyword) === true
-}
-
-function textsOf(held: ts.ObjectLiteralExpression): ReadonlyMap<string, ts.StringLiteral> {
-  const found = new Map<string, ts.StringLiteral>()
-  for (const one of held.properties) {
-    if (!ts.isPropertyAssignment(one)) continue
-    const key = keyOf(one)
-    if (key === null || !ts.isStringLiteral(one.initializer)) continue
-    found.set(key, one.initializer)
-  }
-  return found
-}
-
-export function statedIn(source: ts.SourceFile): ReadonlyMap<string, ts.StringLiteral> {
-  for (const statement of source.statements) {
-    if (!ts.isVariableStatement(statement) || !exported(statement)) continue
-    for (const one of statement.declarationList.declarations) {
-      if (one.initializer === undefined) continue
-      const held = literalOf(one.initializer)
-      if (held !== null) return textsOf(held)
-    }
-  }
-  return new Map()
 }
 
 function boundIn(source: ts.SourceFile): string | null {
@@ -173,6 +157,13 @@ export function renameSlug(
   if (slug === undefined) return refusing(`\`${given.at}\` states no \`${SLUG}\``)
   if (pageType === undefined) return refusing(`\`${given.at}\` states no \`${PAGE_TYPE_SLUG}\``)
   if (id === undefined) return refusing(`\`${given.at}\` states no \`${ID}\``)
+  const plural = said.get(PLURAL_SLUG)
+  if (plural !== undefined && given.plural === undefined) {
+    return refusing(`\`${given.at}\` states a \`${PLURAL_SLUG}\`, so the plural it becomes is said`)
+  }
+  if (plural === undefined && given.plural !== undefined) {
+    return refusing(`\`${given.at}\` states no \`${PLURAL_SLUG}\`, so no plural is said`)
+  }
   const bound = exportedAs(slug.text)
   if (boundIn(source) !== bound) {
     return refusing(`\`${given.at}\` exports no \`${bound}\`, the name its slug makes`)
@@ -210,6 +201,13 @@ export function renameSlug(
     const body = texts.get(path) ?? ""
     const next = splicedIn(body, held)
     if (next !== body) bodies.set(path, next)
+  }
+  if (given.plural !== undefined) {
+    const stated = restated(given.at, bodies.get(given.at) ?? text, PLURAL_SLUG, given.plural)
+    if (stated.body === null) {
+      return refusing(stated.refused ?? `\`${PLURAL_SLUG}\` was not restated`)
+    }
+    bodies.set(given.at, stated.body)
   }
   const reading = importingOf(root, new Map([[given.at, given.at]]))
   if ("unread" in reading) return refusing(reading.unread)
