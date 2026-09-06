@@ -35,7 +35,7 @@ export const chainRefusal = {
     },
     {
       invariantKind: "absence",
-      statement: "A hook is handed back the one refusal or none.",
+      statement: "A hook is handed back the one refusal or no refusal.",
     },
   ],
 } as const satisfies Module
