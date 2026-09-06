@@ -9,7 +9,7 @@ export const dataEncodeDictionary = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A value already in the global dictionary is left out of the local one.",
+      statement: "A value already in the global dictionary is left out of the local dictionary.",
     },
     {
       invariantKind: "departure",
@@ -22,7 +22,7 @@ export const dataEncodeDictionary = {
     {
       invariantKind: "departure",
       statement:
-        "A string or a number of two characters or fewer is too short to be worth an index.",
+        "A string or a number running to two characters at most is too short to be worth an index.",
     },
     {
       invariantKind: "departure",
