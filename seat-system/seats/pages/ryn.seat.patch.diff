@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/alan/harness/notifications/push-notifier-tick/push-notifier-tick.module.ts b/alan/harness/notifications/push-notifier-tick/push-notifier-tick.module.ts
+index 2ccc62b7c0a50c85f8cd51522a390974af51096f..6073369cf0736de37ab3280dd1eae7ba10e08f1f 100644
+--- a/alan/harness/notifications/push-notifier-tick/push-notifier-tick.module.ts
++++ b/alan/harness/notifications/push-notifier-tick/push-notifier-tick.module.ts
+@@ -37,7 +37,7 @@ export const pushNotifierTick = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A tick past its ceiling is ended rather than left to run beside the next one.",
++      statement: "A tick past its ceiling is ended rather than left to run beside the next tick.",
+     },
+     {
+       invariantKind: "absence",
