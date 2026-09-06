@@ -441,6 +441,31 @@ index 7068d06d9a7c524485014cc42a14ddd1a364a437..bf981f301eee13db66bd88423ae985c4
  test("a fleet holding no seat answers an empty list rather than nothing at all", () => {
    const said = JSON.parse(saidOf(forestOver("/repo", reading([], {}))))
  
+diff --git a/command-system/commands/agent-forest/agent-forest.command.ts b/command-system/commands/agent-forest/agent-forest.command.ts
+index 4d0c31bd33bf953f185196c358df344f3c89d8bb..b9681a329308def826425e7cbe4193fb2617343a 100644
+--- a/command-system/commands/agent-forest/agent-forest.command.ts
++++ b/command-system/commands/agent-forest/agent-forest.command.ts
+@@ -43,7 +43,8 @@ export const agentForest = {
+     "both of those are read off the page rather than taken apart from its file name.",
+     "which subagents are running is not answered here and cannot be: it is read from what each seat is doing.",
+     "these are the pages, for a caller holding the running ones to join against.",
+-    "the editor's agent tree asks this as a child and joins `repo` onto each `at` to open a page.",
++    "each page carries `dispatchedAs`, the kind that subagent was run as, or null where its page states none.",
++    "the editor's agent tree calls `forestOver` in the workstation service rather than asking for this as a child.",
+   ],
+   invariants: [
+     {
+@@ -140,6 +141,10 @@ export const agentForest = {
+       statement:
+         "A subagent's seat name and agent id are read off its page rather than off its file name.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A subagent page states the kind that subagent was dispatched as or states none.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Which subagents are running is not answered here.",
 diff --git a/editor-extension/status-bar-usage/status-bar-usage.module.code.ts b/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
 index 5816968a67a917db9dabdaee3de5604107b76110..35e3ab95ff5ef8e075fc309e1c7c5b8282830ad6 100644
 --- a/editor-extension/status-bar-usage/status-bar-usage.module.code.ts
