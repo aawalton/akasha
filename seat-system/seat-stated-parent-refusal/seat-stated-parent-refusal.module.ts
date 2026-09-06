@@ -10,8 +10,11 @@ export const seatStatedParentRefusal = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The seat above a new one is the seat running the call, read from its environment.",
+      statement: "The seat above a new seat is the seat running the call.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "That seat is read from the environment.",
     },
     {
       invariantKind: "departure",
