@@ -1,10 +1,10 @@
 import type { Named } from "@akasha/indexes"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
-import { gathered, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
+import { gathered, refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { reach, type World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { claimedIn } from "../../../../modules/page-claiming/page-claiming.module.code.ts"
 
 const PAGE_TYPE = "page-type"
 

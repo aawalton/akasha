@@ -1,4 +1,4 @@
-import type { ChangeMechanicalFolder } from "../../folder/change-mechanical-folder.page-type.ts"
+import type { ChangeMechanicalFolder } from "../../change-mechanical-folder.page-type.ts"
 
 export const removePageType = {
   id: "01a0783a-11c0-7708-a1a5-f138cd15644b",

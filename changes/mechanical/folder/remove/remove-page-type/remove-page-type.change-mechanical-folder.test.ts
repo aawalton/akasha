@@ -8,14 +8,14 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import {
   type Reaching,
   type World,
   worldAt,
-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
-import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical-data.code.ts"
+} from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+import { removeFile } from "../../../pages/remove-file/remove-file.change-mechanical-file.code.ts"
+import { removePropertyValue } from "../../../pages/remove-property-value/remove-property-value.change-mechanical-data.code.ts"
 import { removePageType } from "./remove-page-type.change-mechanical-folder.code.ts"
 
 afterAll(scratch.sweep)

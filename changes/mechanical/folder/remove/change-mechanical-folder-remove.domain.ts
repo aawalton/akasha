@@ -1,0 +1,9 @@
+import type { Domain } from "../../../../domains/domain.page-type.ts"
+
+export const changeMechanicalFolderRemove = {
+  id: "01a07cba-a0dd-78e7-8ddf-7002bfc44247",
+  pageTypeSlug: "domain",
+  slug: "change-mechanical-folder-remove",
+  definition: "a mechanical change taking a folder away",
+  partSlugs: ["change-mechanical-folder/remove-page-type"],
+} as const satisfies Domain
