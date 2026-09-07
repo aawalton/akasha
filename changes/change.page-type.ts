@@ -4,9 +4,13 @@ import type { ReadersOweReading } from "./kinds/properties/readers-owe-reading.b
 import type { RunsChecks } from "./kinds/properties/runs-checks.boolean-property.ts"
 import type { WriterOwesReading } from "./kinds/properties/writer-owes-reading.boolean-property.ts"
 import type { ChangeModeSlug } from "./properties/change-mode-slug.relation-property.ts"
+import type { ChangeTargetSubtypeSlug } from "./properties/change-target-subtype-slug.relation-property.ts"
+import type { ChangeTargetTypeSlug } from "./properties/change-target-type-slug.relation-property.ts"
 
 export type Change = Module & {
   changeModeSlug: ChangeModeSlug
+  changeTargetTypeSlug?: ChangeTargetTypeSlug
+  changeTargetSubtypeSlug?: ChangeTargetSubtypeSlug
   runsChecks: RunsChecks
   readersOweReading: ReadersOweReading
   writerOwesReading: WriterOwesReading
@@ -39,9 +43,23 @@ export const change = {
     "module/edits-keeping",
     "page-type/change-mode",
     "relation-property/change-mode-slug",
+    "page-type/change-target-type",
+    "page-type/change-target-subtype",
+    "relation-property/change-target-type-slug",
+    "relation-property/change-target-subtype-slug",
   ],
   properties: [
     { pagePropertySlug: "relation-property/change-mode-slug", required: true, many: false },
+    {
+      pagePropertySlug: "relation-property/change-target-type-slug",
+      required: false,
+      many: false,
+    },
+    {
+      pagePropertySlug: "relation-property/change-target-subtype-slug",
+      required: false,
+      many: false,
+    },
     { pagePropertySlug: "boolean-property/runs-checks", required: true, many: false },
     { pagePropertySlug: "boolean-property/readers-owe-reading", required: true, many: false },
     { pagePropertySlug: "boolean-property/writer-owes-reading", required: true, many: false },
