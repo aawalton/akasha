@@ -3,7 +3,7 @@ import { refusing } from "../../../modules/change-answer/change-answer.module.co
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
-const REMOVE_FILE = "change-mechanical/remove-file"
+const REMOVE_FILE = "change-mechanical-file/remove-file"
 
 const CODE = new Set([".ts", ".tsx"])
 

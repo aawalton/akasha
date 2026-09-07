@@ -7,7 +7,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { addFile } from "../../mechanical/pages/add-file/add-file.change-mechanical.code.ts"
-import { removeFile } from "../../mechanical/pages/remove-file/remove-file.change-mechanical.code.ts"
+import { removeFile } from "../../mechanical/pages/remove-file/remove-file.change-mechanical-file.code.ts"
 import {
   answered,
   gathered,
@@ -34,7 +34,7 @@ const OTHER = "akasha/one/other.module.code.ts"
 
 const ADD_FILE = "change-mechanical/add-file"
 
-const REMOVE_FILE = "change-mechanical/remove-file"
+const REMOVE_FILE = "change-mechanical-file/remove-file"
 
 const NO_BODY = `\`${AT}\` holds no body, so a removal takes nothing away`
 

@@ -13,12 +13,12 @@ import {
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { runChange as removeCodeFile } from "../remove-code-file/remove-code-file.change-mechanical.code.ts"
-import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
+import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange } from "./remove-page-file.change-mechanical.code.ts"
 
 const REMOVE_CODE_FILE = "change-mechanical/remove-code-file"
 
-const REMOVE_FILE = "change-mechanical/remove-file"
+const REMOVE_FILE = "change-mechanical-file/remove-file"
 
 const RUNS: Reaching = (world, at, given) => {
   if (at === REMOVE_CODE_FILE) return removeCodeFile(world, given as { at: string })

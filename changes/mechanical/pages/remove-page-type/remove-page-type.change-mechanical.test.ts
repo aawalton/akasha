@@ -14,7 +14,7 @@ import {
   type World,
   worldAt,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
+import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
 import { removePageType } from "./remove-page-type.change-mechanical.code.ts"
 
@@ -40,7 +40,7 @@ const PAGE = pageOf({ id: idOf("f"), pageTypeSlug: "kept", slug: "one" })
 type Unnaming = { at: string; key: string; value: string }
 
 const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical/remove-file") {
+  if (at === "change-mechanical-file/remove-file") {
     return Promise.resolve(removeFile(given as { at: string }, world.textOf))
   }
   if (at === "change-mechanical/remove-property-value") {

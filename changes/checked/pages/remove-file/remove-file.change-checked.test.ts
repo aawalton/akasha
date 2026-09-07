@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { runChange as removeFileMechanical } from "../../../mechanical/pages/remove-file/remove-file.change-mechanical.code.ts"
+import { runChange as removeFileMechanical } from "../../../mechanical/pages/remove-file/remove-file.change-mechanical-file.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
@@ -10,7 +10,7 @@ import { removeFile } from "./remove-file.change-checked.code.ts"
 
 const ASKED = "the world was asked"
 
-const REMOVE_FILE = "change-mechanical/remove-file"
+const REMOVE_FILE = "change-mechanical-file/remove-file"
 
 const ORDINARY = "akasha/notes.md"
 

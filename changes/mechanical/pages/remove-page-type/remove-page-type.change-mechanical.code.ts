@@ -12,7 +12,7 @@ const PART_SLUGS = "part-slugs"
 
 const PART_SLUGS_KEY = "partSlugs"
 
-const REMOVE_FILE = "change-mechanical/remove-file"
+const REMOVE_FILE = "change-mechanical-file/remove-file"
 
 const REMOVE_PROPERTY_VALUE = "change-mechanical/remove-property-value"
 

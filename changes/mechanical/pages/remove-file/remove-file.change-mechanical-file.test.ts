@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { reading } from "@akasha/pages/page-value/testing"
-import { removeFile } from "./remove-file.change-mechanical.code.ts"
+import { removeFile } from "./remove-file.change-mechanical-file.code.ts"
 
 const AT = "akasha/one.held.ts"
 

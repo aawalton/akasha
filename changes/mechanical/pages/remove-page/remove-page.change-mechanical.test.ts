@@ -31,7 +31,7 @@ import {
   worldOver,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { runChange as removeCodeFile } from "../remove-code-file/remove-code-file.change-mechanical.code.ts"
-import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
+import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange as removePageFile } from "../remove-page-file/remove-page-file.change-mechanical.code.ts"
 import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
 import { parentsOf, removePage } from "./remove-page.change-mechanical.code.ts"
@@ -45,7 +45,7 @@ const REMOVE_CODE_FILE = "change-mechanical/remove-code-file"
 const RUNS: Reaching = (world, at, given) => {
   if (at === REMOVE_PAGE_FILE) return removePageFile(world, given as { at: string })
   if (at === REMOVE_CODE_FILE) return removeCodeFile(world, given as { at: string })
-  if (at === "change-mechanical/remove-file") {
+  if (at === "change-mechanical-file/remove-file") {
     return Promise.resolve(removeFile(given as { at: string }, world.textOf))
   }
   if (at === "change-mechanical/remove-property-value") {
