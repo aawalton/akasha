@@ -1,0 +1,81 @@
+writerOwesReading: false
+diff --git a/command-system/landing/landing.module.code.ts b/command-system/landing/landing.module.code.ts
+index 0afc1cb43eab7766423f9bb354f2ba1ede8b5fb3..da251063c7d5192bed0c3688047952d9c906448b 100644
+--- a/command-system/landing/landing.module.code.ts
++++ b/command-system/landing/landing.module.code.ts
+@@ -33,6 +33,7 @@ export type FileCarry = {
+ export type Proposed = {
+   readonly base: string
+   readonly edits: readonly FileEdit[]
++  readonly carries?: readonly FileCarry[]
+ }
+ 
+ export type Landed = {
+@@ -81,8 +82,11 @@ export function baseOf(root: string): string {
+ }
+ 
+ export function changeOf(root: string, proposed: Proposed): Change {
++  const carries = proposed.carries ?? []
+   const held = new Map<string, Uint8Array | null>()
++  for (const one of carries) held.set(one.from, null)
+   for (const one of proposed.edits) held.set(one.path, one.body)
++  const came = new Map(carries.map((one) => [one.to, one.from]))
+   const read = new Map<string, Uint8Array | null>()
+   const based = (path: string): Uint8Array | null => {
+     const found = read.get(path)
+@@ -94,12 +98,14 @@ export function changeOf(root: string, proposed: Proposed): Change {
+   }
+   return {
+     root,
+-    changed: proposed.edits.map((one) => one.path).sort(),
++    changed: [...new Set([...held.keys(), ...came.keys()])].sort(),
+     before: based,
+     after: (path) => {
+       const said = held.get(path)
+       if (said !== undefined) return said
+       if (held.has(path)) return null
++      const from = came.get(path)
++      if (from !== undefined) return based(from)
+       return based(path)
+     },
+   }
+@@ -157,11 +163,11 @@ function heldBack(
+ function beforeOf(
+   root: string,
+   base: string,
+-  changed: readonly FileEdit[]
++  paths: readonly string[]
+ ): Map<string, Uint8Array | null> {
+   try {
+     const held = new Map<string, Uint8Array | null>()
+-    for (const one of changed) held.set(one.path, bodyAt(root, base, one.path))
++    for (const one of paths) held.set(one, bodyAt(root, base, one))
+     return held
+   } finally {
+     readingEnded()
+@@ -253,7 +259,11 @@ function indexed(
+ }
+ 
+ function draftsOf(root: string, base: string, changes: readonly FileEdit[]): readonly Draft[] {
+-  const before = beforeOf(root, base, changes)
++  const before = beforeOf(
++    root,
++    base,
++    changes.map((one) => one.path)
++  )
+   return changes.map((one) => ({
+     path: one.path,
+     was: before.get(one.path) ?? null,
+@@ -380,7 +390,11 @@ export async function landing(
+     const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN)
+     if (stale !== null) return { refusals: stale }
+     const split = heldBack(root, changes)
+-    const before = beforeOf(root, base, split.committing)
++    const before = beforeOf(
++      root,
++      base,
++      split.committing.map((one) => one.path)
++    )
+     const keeping = indexingLoaded()
+     try {
+       const put = wroteOnto(root, split.committing)
