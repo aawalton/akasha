@@ -5,7 +5,7 @@ export const ryn = {
   pageTypeSlug: "seat",
   slug: "ryn",
   personaSlug: "ryn",
-  assignmentSlug: "initiative/ryn-trained-parser",
+  assignmentSlug: "initiative/ryn-standard-agent-english",
   roleSlug: "definer",
   personSlug: "alan",
   startMode: "interactive",
