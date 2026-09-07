@@ -1,8 +1,8 @@
 import { computeModelGatewayTreeVersion } from "@akasha/agents/gateway-tree-version"
 import type { LiveProxySeat } from "@akasha/agents/proxy-seats"
 import type { Answer, Given } from "../../../command-system/calling/calling.module.code.ts"
-import { liveSeats } from "../../../command-system/commands/model-gateway/live-gateway-seats/live-gateway-seats.module.code.ts"
 import { whyOf } from "../../../command-system/fault-saying/fault-saying.module.code.ts"
+import { liveSeats } from "../../modules/live-gateway-seats/live-gateway-seats.module.code.ts"
 
 export const JSON_OUT = "--json"
 

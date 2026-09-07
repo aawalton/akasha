@@ -4,7 +4,7 @@ import {
   answering,
   type Drawn,
   dagLines,
-} from "../../../command-system/commands/domain/domain-drawing/domain-drawing.module.code.ts"
+} from "../../modules/domain-drawing/domain-drawing.module.code.ts"
 
 export const AT_DOMAIN = "--domain"
 

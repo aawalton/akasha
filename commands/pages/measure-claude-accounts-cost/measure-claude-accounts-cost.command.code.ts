@@ -4,7 +4,7 @@ import {
   linesOf,
   sinceOf,
   storeHere,
-} from "../../../command-system/commands/measure/claude-account-costing/claude-account-costing.module.code.ts"
+} from "../../modules/claude-account-costing/claude-account-costing.module.code.ts"
 
 const DAYS = 30
 

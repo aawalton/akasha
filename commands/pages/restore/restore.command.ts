@@ -1,4 +1,4 @@
-import type { Command } from "../command.page-type.ts"
+import type { Command } from "../../../command-system/commands/command.page-type.ts"
 
 export const restore = {
   id: "01a07267-f795-738d-90c6-a5e16e277228",
