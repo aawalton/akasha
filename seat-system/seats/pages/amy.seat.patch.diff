@@ -1,3 +1,22 @@
+diff --git a/pages/views/pages/tasks-not-completed.view.ts b/pages/views/pages/tasks-not-completed.view.ts
+index 309cfc29187357a86d8fba90c4ff0e231c3019f5..ce28d70fb06f55a95267c492ea673793e3ad5ead 100644
+--- a/pages/views/pages/tasks-not-completed.view.ts
++++ b/pages/views/pages/tasks-not-completed.view.ts
+@@ -9,10 +9,10 @@ export const tasksNotCompleted = {
+   pageType: "to-do",
+   viewPlace: 2,
+   layout: "cards",
+-  narrows: [{ key: "completed-at", comparison: "empty", values: ["true"] }],
+-  viewSorts: [{ key: "created-at", descending: false }],
+-  visibleProperties: ["due-date", "due-time", "link"],
+-  hiddenPropertiesOrder: ["recurrence", "sort-order", "due-date", "category"],
++  narrows: [{ key: "to-do-completed-at", comparison: "empty", values: ["true"] }],
++  viewSorts: [{ key: "to-do-sort-order", descending: false }],
++  visibleProperties: ["to-do-due-date", "due-time", "link"],
++  hiddenPropertiesOrder: ["to-do-recurrence", "to-do-sort-order", "to-do-category"],
+   pageSize: 12,
+   itemPageSize: 12,
+   groupPageSize: 6,
 diff --git a/pages/views/pages/tasks-today.view.ts b/pages/views/pages/tasks-today.view.ts
 index c2f637bc6ad1890b3611744b315d9e6ebe6f1250..42507a92086221f3c7a5eba23530fda6be5b9a7b 100644
 --- a/pages/views/pages/tasks-today.view.ts
