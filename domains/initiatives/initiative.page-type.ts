@@ -27,7 +27,7 @@ export const initiative = {
     "relation-property/parent-slug",
     "text-property/constraints",
     "standard-agent-english-property/intent-statement",
-    "text-property/working-memory",
+    "standard-agent-english-property/working-memory",
   ],
   extendsSlug: ["page-type/page"],
   properties: [
