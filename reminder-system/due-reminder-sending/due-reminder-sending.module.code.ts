@@ -59,7 +59,7 @@ async function main(): Promise<number> {
       armFor(root, one.path, elapse.ms)
       continue
     }
-    const why = tookReminder(
+    const why = await tookReminder(
       root,
       one.path,
       `the reminder to ${one.to} named one time and has sent, so its page goes`
