@@ -10,7 +10,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "A change is reached by its address rather than by an import.",
       workingMemory:
-        "The `addressed` sidecar holds 25 addresses, all `change-mechanical-*`, so no checked change has an address and an import is the only route one has to another. `move-folder-package.change-checked.code.ts` calls `moveFolder` and `renamePage` by import and makes no `reach` call, so neither sibling's guards run. `remove-package-alias` and `change-page-page-type` import helpers the same way. `change-runner.page-type.ts` files this as a gap.",
+        "No guard exists to bypass: `guardSlugs` is declared on `ChangeMechanical` alone, and a guard runs on a mechanical change alone, so `move-folder-package`, `move-folder` and `rename-page` each report none. Converting its two imports to `reach` was run against the real change and answered the same. It is the only site: the imports in `remove-package-alias` and `change-page-page-type` are shared helpers no address reaches. `address-mapping` bars a command-line change from the map.",
     },
     {
       statement: "An applied patch runs the checks and the warrants its changes call for.",
