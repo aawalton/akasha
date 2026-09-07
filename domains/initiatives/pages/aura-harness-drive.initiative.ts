@@ -8,11 +8,6 @@ export const auraHarnessDrive = {
   personaSlug: "aura",
   intents: [
     {
-      statement: "Alan's harness drives the behavior he wants to drive.",
-      workingMemory:
-        "Chou's eight drives are pages under game-design, each carrying his number, name and definition beside ours. The harness is a memory prosthetic and an executive function support before it is a game, and its win condition is going quiet so Alan leaves. Warm colours and black mean a goal unmet; green and blue are both wins. Recovery is a chain of integrals, stress level to surplus to safety to life satisfaction, each on a longer cadence than the last.",
-    },
-    {
       statement: "Both stoplight sets draw as widgets in Alan's native app.",
       workingMemory:
         "The widget, its feed at /api/attribute-stoplights, the readout-widget page and the bundle entry naming AttributeStoplightsWidget are all on origin/main. The akasha migration closed on 2026-09-04 and its bar on pushing went with it; `akasha push` is the route, and `git push` stays refused for a reason the hook now states on its own. What is left is a build and an upload, and whether the tile reaches Alan's phone is unverified.",
