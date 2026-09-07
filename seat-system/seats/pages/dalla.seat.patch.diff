@@ -1,0 +1,91 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index e5f96811fc6f4bcd7ac9278bd1c24d5f095a4c6c..f05b47b63e06b0286a67ac8956c7517dedec3567 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -7,15 +7,10 @@ export const dallaDraftIntoAPatch = {
+   domainSlug: "page-type/change",
+   personaSlug: "dalla",
+   intents: [
+-    {
+-      statement: "A body reaches write and edit on the command line rather than in a file.",
+-      workingMemory:
+-        "`rebasedOnto` follows a path gone from HEAD to the path a rename left it at, hop by hop, by `git log --diff-filter=D` and `git diff-tree -M`. It answers under the path the rename reached, so `showing` lists and marks from `said.held` rather than the stored file. A path taken away by no rename is carried in as a conflict `markedAway` builds, so `patch resolve` acts on it and every other path still applies. `patch drop --file-path` takes one path out and leaves the patch carrying the rest, and takes the patch away where that path was the last.",
+-    },
+     {
+       statement: "Every change command drafts into the patch rather than landing on its own.",
+       workingMemory:
+-        "A patch carries `runsChecks` and `runsWarrants` before the first `diff --git`, each unioned over every change drafted in, and a flag is written only where false, so a line lost reads as true. Move, remove, replace and refactor draft under an agent id and land under none. Left: `retype` alone still lands, its file over the length ceiling until split; and a draft expresses no removal of a path HEAD carries no body for, so `write --remove` answers success and leaves the file.",
++        "A patch carries `runsChecks` and `runsWarrants` before the first `diff --git`, each unioned over every change drafted in, and a flag is written only where false, so a line lost reads as true. `replace` drafts under an agent id and lands under none. Move, remove, refactor and the `retype` act are deleted rather than ported, so `replace` and the change commands are all that this now binds.",
+     },
+     {
+       statement: "A seat and its subagents draft against one worktree of their own.",
+@@ -25,27 +20,22 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "Every change is a patch before it is applied.",
+       workingMemory:
+-        "Not so at the `landedMechanically` call sites, 21 outside tests when last counted, which land straight onto the tree; at `page-writing.module.code.ts:140`, which calls `landing()` with a null gate and skips the ask; and at `page-retyping.module.code.ts:294`, whose `Asked` carries no `draft` key though its five siblings do. Only `write`, `edit` and the four change commands draft today.",
++        "Not so at the `landedMechanically` call sites, which land straight onto the tree, nor at `page-writing.module.code.ts:147`, which calls `landing()` with a null gate and skips the ask. `page-retyping` went with `refactor`. `replace` and the change commands are what drafts today, so porting those mechanical call sites onto one batched call is the work left.",
+     },
+     {
+       statement: "An applied patch runs the checks and the warrants its changes call for.",
+       workingMemory:
+-        "`owedIn` is called by `write`, `edit`, `replace` and by the apply, which warrants every row whose writer owes reading before the edits fold. A row saying nothing of its writer is warranted, so a flag lost reads as owing. `--break-the-glass` passes the checks and passes no warrant. Left: `lint-exception` and `patch` declare `change-authored`, whose data says they owe reads, and never ask.",
++        "`unwarrantedIn` lives in `warrant-owing` and is called by `replace` and by the apply, which warrants every row whose writer owes reading before the edits fold. A row saying nothing of its writer is warranted, so a flag lost reads as owing. `--break-the-glass` passes the checks and passes no warrant. Left: `lint-exception` and `patch` declare `change-authored`, whose data says they owe reads, and never ask.",
+     },
+     {
+       statement: "One command run carries several changes, each judged by its own requirements.",
+       workingMemory:
+-        "`changeKindSlug` is `many: false` on the command page and a landing is one commit, so a per-change kind cannot be said. Four shapes found: a sequence of acts (`food` lands three commits), batch until done (`migration-system`, which buys it by leaving the gate), budget and re-run, and accumulate-then-apply (the patch). `package-phasing` is built and tested and nothing imports it.",
++        "`changeKindSlug` is `many: false` on the command page and a landing is one commit, so a per-change kind cannot be said. Four shapes found: a sequence of acts (`food` lands three commits), batch until done (`migration-system`, which buys it by leaving the gate), budget and re-run, and accumulate-then-apply (the patch).",
+     },
+     {
+       statement: "A command declares the guards and the capabilities it carries.",
+       workingMemory:
+-        "22 of the 27 properties on `command.page-type.ts` are written by no page, because nothing reads them. `verdict`, `reading` and `irreversible` are typed at `command-declaring.module.code.ts:61` and cannot be reached from a page. Whether a command drafts, takes a dry run, or takes the glass is a literal at each call site, which is why `remove` offers no preview. An opt-out is data on the subject page and nowhere on the command.",
+-    },
+-    {
+-      statement: "No command reaches into another command for a capability.",
+-      workingMemory:
+-        "`command-system/commands/refactor` imports `naming`, `repointing`, `manifesting`, `outside` and `renaming` out of `command-system/commands/move`; `move/listing` and `move/renaming` import back out of `refactor`. `move/spreading` imports `trackedUnder` from `remove`'s entry file. `write.command.code.ts` exports 20 names to 17 importers, `glassIn` and `messageIn` among them.",
++        "22 of the 27 properties on `command.page-type.ts` are written by no page, because nothing reads them. `verdict`, `reading` and `irreversible` are typed at `command-declaring.module.code.ts:61` and cannot be reached from a page. Whether a command drafts, takes a dry run, or takes the glass is a literal at each call site rather than read off the command's page. An opt-out is data on the subject page and nowhere on the command.",
+     },
+     {
+       statement: "A guard that cannot see what it judges refuses rather than passing.",
+@@ -55,17 +45,17 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "The record is carried and dropped by the landing rather than by each command.",
+       workingMemory:
+-        "`carryLanded` in `landing-reading` is the one carry site, gated on the change kind's `readersOweReading` and handed the rename pairs at `asked.readings`, so the landing binds the carry. The drop is still each command's. `dropReadings` is called from `remove` twice and from four sweeps, and from neither `write` nor `edit`, so `write --remove` and `edit --remove` take a path away and leave the record naming it.",
++        "`carryLanded` in `landing-reading` is the one carry site, gated on the change kind's `readersOweReading` and handed the rename pairs at `asked.readings`, so the landing binds the carry. The drop is not the landing's yet: `dropReadings` is called from `reading`, `landing-reading`, `subagent-sweep`, `seat-stopping`, `subagent-presence` and `log-day-sweeping` rather than from one place.",
+     },
+     {
+-      statement: "Every mechanical change is a change page a refactor command runs.",
++      statement: "Every mechanical change is a change page rather than code a command holds.",
+       workingMemory:
+-        "The three tiers are one, every change sitting under `changes/pages` and taking a `World`. `page-renaming` reads the edits `rename-page` answers into the paths that moved and the bodies written, so `akasha refactor rename page-slug` runs the live change and takes no dry run. Left: `rename-page-type-slug` and `rename-page-type`. `retype` is the last act of that command still landing through the code a change page replaces.",
++        "The three tiers are one, every change sitting under `changes/pages` and taking a `World`. The `refactor` command that ran them is deleted, so a mechanical change is reached by its address through `change-running` or from the `akasha change` command line. `rename-page-address` and `rename-page-slug` are mechanical pages and `rename-page` is a checked one. Left: renaming a page type and its slug.",
+     },
+     {
+       statement: "Every change page is mechanical, checked or authored.",
+       workingMemory:
+-        "The four page types `akasha change` dispatches over are named at `change.command.code.ts:58`, so the page type carries whether a change is reached from the command line. A mechanical change is a building block a checked change composes, and no command line reaches a mechanical change. One slug sits under two page types, which `slug` allows by being unique per page type, so `add-file` and `change-file` each name a mechanical page and an authored page. Left: `change-command` names no page and is still dispatched over.",
++        "The four page types `akasha change` dispatches over are named at `change.command.code.ts:72`, so the page type carries whether a change is reached from the command line. A mechanical change is a building block a checked change composes, and no command line reaches one. `slug` is unique per page type, so `add-file` and `change-file` each name a mechanical page and an authored page. Left: `change-command` names no page and is still dispatched over.",
+     },
+     {
+       statement: "Removing a page, a page type and a page property are three peer changes.",
+@@ -75,12 +65,12 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "A page type is not removed while the value index still holds pages of that type.",
+       workingMemory:
+-        "`remove-page-type` reads that population off `everyOfType` and refuses naming the pages, because `pageTypeSlug` files no relation edge: `reaching.module.code.ts:28` holds that key in FILED_AS_IDENTITY, so `namersOf` never answers pages of a type. The import guard caught this before, through the `satisfies` import every page of a type carries, and that import is a convention rather than a rule. The fixture had `page-type` extending `page` where the tree has `page-type` extending `domain`, so no fixture filed a `part-slugs` edge onto a page type until that was mended.",
++        "`remove-page-type` reads that population off `everyOfType` and refuses naming the pages, because `pageTypeSlug` files no relation edge: `reaching.module.code.ts:28` holds that key in FILED_AS_IDENTITY, so `namersOf` never answers pages of a type. The import guard caught this before, through the `satisfies` import every page of a type carries, and that import is a convention rather than a rule.",
+     },
+     {
+       statement: "A change is reached by its address rather than by an import.",
+       workingMemory:
+-        "`change-running` loads a change by address and runs the guards its page names, so no call reaches a change unguarded. Its `addressed` sidecar maps each address to `Parameters<typeof import(path)['runChange']>[1]`, so the map reads each signature rather than restating one. Augmentation is barred: the formatter rewrites every `interface` into a type alias, so the map is a plain exported alias read by `import type`. `address-mapping` writes it inside `preparing`, in the patch the gate judges. Every change page is mapped, each by exporting `runChange(World, given)`; a wrong argument shape refuses at `TS2353`. Left: a change still reaches another change by import rather than through the runner.",
++        "`change-running` loads a change by address and runs the guards its page names, so no call reaches one unguarded. Its `addressed` sidecar maps each address to `Parameters<typeof import(path)['runChange']>[1]`, reading each signature rather than restating one, and `address-mapping` writes it inside `preparing` where the gate judges it. The map reaches `change-mechanical` alone, so any other address refuses at compile time. Left: a change still reaches another change by import.",
+     },
+   ],
+   constraints: [
