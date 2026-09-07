@@ -36,7 +36,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "The patch a landing works out is held by no page property.",
       workingMemory:
-        "Alan ruled that the patch store and the `patch` commands both go, `resolve` ablated rather than reshaped, leaving the edits ref the sole store and a patch worked out in memory for the git mechanics. It is proven derivable: a patch rebuilds from the edits byte for byte, and a conflict mark is recomputed rather than remembered. In order: close the fold's crash window, hand the patch to the landing in memory, clear the residue, stop the writer, drop the properties.",
+        "Alan ruled the patch store and every `patch` command go, `show` and `resolve` with them, leaving the edits ref the sole store and a patch worked out in memory for the git mechanics. No command then answers what a draft would leave, which is accepted rather than overlooked. A patch is proven derivable, rebuilding from the edits byte for byte. In order: move `applying` out of the patch file, hand it to the landing in memory, clear the residue, stop the writer, drop the properties.",
     },
     {
       statement: "Every property a command's page type declares is read.",
