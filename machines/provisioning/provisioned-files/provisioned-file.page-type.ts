@@ -78,7 +78,11 @@ export const provisionedFile = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here places a file; a page only says where the file goes.",
+      statement: "Nothing here places a file.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "A page only says where a file goes.",
     },
   ],
 } as const satisfies PageType
