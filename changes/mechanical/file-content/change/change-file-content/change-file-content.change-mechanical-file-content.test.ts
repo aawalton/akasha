@@ -40,7 +40,7 @@ test("a path holding no body is refused and answers no edit", () => {
 test("a passage of no characters is refused and answers no edit", () => {
   const said = ranOn({ [AT]: "one\n" }, { at: AT, old: "", new: "four" })
 
-  expect(said.refused ?? "").toMatch(/no characters/)
+  expect(said.refused).toBe("a passage of no characters names no place in a body")
 })
 
 test("a passage replaced by itself is refused and answers no edit", () => {
