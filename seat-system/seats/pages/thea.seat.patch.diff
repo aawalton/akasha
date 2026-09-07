@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/utils-fs/text-on-disk/text-on-disk.module.test.ts b/utils-fs/text-on-disk/text-on-disk.module.test.ts
+index 15c14ea496fecece85abe6c9a9a8384e910318de..3d3fa01fe48db0eb9678ead55b0e1a315c8a7cb9 100644
+--- a/utils-fs/text-on-disk/text-on-disk.module.test.ts
++++ b/utils-fs/text-on-disk/text-on-disk.module.test.ts
+@@ -5,7 +5,7 @@ import { join } from "node:path"
+ import { textOnDisk } from "./text-on-disk.module.code.ts"
+ 
+ function scratch(): string {
+-  return mkdtempSync(join(tmpdir(), "text-on-disk-"))
++  return mkdtempSync(join(tmpdir(), "text-on-disk-scratch-"))
+ }
+ 
+ test("the text a file holds is answered", () => {
