@@ -24,3 +24,21 @@ index 43f895546293cbe7a63fbebe79ee2dc8a3061213..1d5e9e19d00285a3d013806697463308
    return said
  }
  
+diff --git a/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.test.ts b/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.test.ts
+index 39026a2b7e3f7dd14a5f6d3ef3ffcd61db7221b2..fef905b7214681e2eab326aed391462592416852 100644
+--- a/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.test.ts
++++ b/checks/code-checks/pages/no-global-in-a-module/no-global-in-a-module.code-check.test.ts
+@@ -85,3 +85,13 @@ test("a module naming a namespace that is not global is refused nothing", () =>
+   const held = "export const away = 1\n\ndeclare module Held {\n  const ONE: number\n}\n"
+   expect(reasonsIn({ root: "", path: ONE_AT, text: held })).toEqual([])
+ })
++
++test("a block standing inside a declaration about a package is refused like one at the top", () => {
++  const held = 'declare module "foo" {\n  global {\n    const ONE: number\n  }\n}\n'
++  expect(reasonsIn({ root: "", path: ONE_AT, text: held })).toHaveLength(1)
++})
++
++test("a block standing inside a namespace is refused like one at the top", () => {
++  const held = "declare namespace Held {\n  global {\n    const ONE: number\n  }\n}\n"
++  expect(reasonsIn({ root: "", path: ONE_AT, text: held })).toHaveLength(1)
++})
