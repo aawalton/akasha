@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
-index 78553420d50382f202e4e54b81bbf80088baf20d..5402568a80acbaf94e51a8199fb44e187c4a2860 100644
+index 78553420d50382f202e4e54b81bbf80088baf20d..eccff710ab3e6781dc62d9928acb4a68a1c4048c 100644
 --- a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
 +++ b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
 @@ -1,3 +1,4 @@
@@ -27,7 +27,7 @@ index 78553420d50382f202e4e54b81bbf80088baf20d..5402568a80acbaf94e51a8199fb44e18
    if [ -n "$_rc" ] && [ -f "$_rc_roots" ]; then . "$_rc_roots"; break; fi
  done
  unset _rc _rc_dir _rc_roots
-@@ -56,27 +58,6 @@ if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
+@@ -56,29 +58,7 @@ if [ -z "${debian_chroot:-}" ] && [ -r /etc/debian_chroot ]; then
      debian_chroot=$(cat /etc/debian_chroot)
  fi
  
@@ -53,5 +53,7 @@ index 78553420d50382f202e4e54b81bbf80088baf20d..5402568a80acbaf94e51a8199fb44e18
 -fi
 -
  PS1='\w\$ '
- unset color_prompt force_color_prompt
+-unset color_prompt force_color_prompt
  
+ # If this is an xterm set the title to user@host:dir
+ case "$TERM" in
