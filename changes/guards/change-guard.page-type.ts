@@ -10,7 +10,11 @@ export const changeGuard = {
   definition: "what judges the answer a change gives and says why that answer is refused",
   pluralSlug: "change-guards",
   extendsSlug: ["page-type/module"],
-  partSlugs: ["change-guard/import-not-left-hanging", "change-guard/relation-not-left-hanging"],
+  partSlugs: [
+    "change-guard/body-not-written-over",
+    "change-guard/import-not-left-hanging",
+    "change-guard/relation-not-left-hanging",
+  ],
   invariants: [
     {
       invariantKind: "departure",
