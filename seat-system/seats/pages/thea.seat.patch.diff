@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.code.ts b/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.code.ts
-index 8e8e8c816c5de1b2826341c53c9b675035dcc3d9..319023e9d480bc4c5fd18c1107a7298efbc366ca 100644
+index 8e8e8c816c5de1b2826341c53c9b675035dcc3d9..0687665f320d310ba1434b30ee7ea2c0021e3148 100644
 --- a/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.code.ts
 +++ b/checks/code-checks/pages/no-import-cycle/no-import-cycle.code-check.code.ts
 @@ -47,10 +47,27 @@ export function reachedIn(at: string, text: string): readonly string[] {
@@ -48,3 +48,17 @@ index 8e8e8c816c5de1b2826341c53c9b675035dcc3d9..319023e9d480bc4c5fd18c1107a7298e
      }
      found.set(path, outs)
    }
+@@ -116,9 +137,11 @@ export function reasonFor(at: string, held: readonly string[]): string {
+   return `sits in a cycle reaching ${first}${rest} — ${ITSELF}`
+ }
+ 
+-function refusalsIn(change: Change): readonly Judged[] {
++function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
++  const carried = new Set(change.changed)
+   const said: Judged[] = []
+-  for (const held of cyclesIn(reachingIn(change))) {
++  for (const held of cyclesIn(reachingIn(change, shadow.index.importersOf))) {
++    if (!held.some((one) => carried.has(one))) continue
+     for (const path of held) said.push({ path, reason: reasonFor(path, held) })
+   }
+   return said.sort((one, two) => (one.path < two.path ? -1 : one.path > two.path ? 1 : 0))
