@@ -2,12 +2,6 @@
 # ~/.bashrc: executed by bash(1) for non-login shells.
 # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
 # for examples
-#
-# PARITY: keep feature-aligned with the `zshrc` provisioned-file page (the macOS
-# MacBook's zsh config). This file is Linux/bash-specific (linuxbrew prefix,
-# /home paths, `shopt`, bash completions); .zshrc carries the macOS-correct
-# equivalents. When you add a shared feature (a PATH entry, a secret load, a
-# tool init) here, add the platform-correct version to .zshrc too.
 
 # If not running interactively, don't do anything
 case $- in

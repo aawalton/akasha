@@ -38,7 +38,6 @@ export const provisionedFile = {
     "provisioned-file/tmux-config",
     "provisioned-file/wallpaper-black-launcher",
     "provisioned-file/workstation-brewfile",
-    "provisioned-file/zshrc",
     "select-property/only-on",
     "select-property/placed-by",
     "text-property/install-path",
