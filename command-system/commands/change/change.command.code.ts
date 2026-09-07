@@ -31,7 +31,7 @@ import {
   type Given as Arguments,
   readingIn,
 } from "../../argument-reading/argument-reading.module.code.ts"
-import { mistaking } from "../../asking/asking.module.code.ts"
+import { mistaking, puttingUpSaid } from "../../asking/asking.module.code.ts"
 import {
   type Answer,
   type Given,
@@ -47,6 +47,14 @@ import { MESSAGE, offRepo, pathAt, unknownIn } from "../write/write.command.code
 import { change as changePage } from "./change.command.ts"
 
 const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
+
+export const PAGE_LANDING =
+  "A subagent dispatched a moment ago can run before its page lands, and a landing refused leaves" +
+  " that subagent with no page at all. Run this from a terminal to put the page up, then ask again:"
+
+export function noPageSaid(root: string, agentId: string | null): string {
+  return `${NO_PAGE}. ${PAGE_LANDING}\n  ${puttingUpSaid(root, agentId)}`
+}
 
 const BARE: readonly string[] = []
 
@@ -409,6 +417,8 @@ export async function change(argv: readonly string[], given: Given): Promise<Ans
   const first = argv[0]
   if (first === HELP || first === HELP_SHORT) return helping(given.root, given.calledAs)
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
-  if (page === null || editsAt(page) === null) return mistaking([NO_PAGE])
+  if (page === null || editsAt(page) === null) {
+    return mistaking([noPageSaid(given.root, given.agentId)])
+  }
   return await changing(given.root, page, argv, inputIn, loadedAt, applyingFor(given))
 }

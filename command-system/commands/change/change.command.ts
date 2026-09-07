@@ -146,6 +146,14 @@ export const change = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal names the command putting a subagent's page up.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A subagent dispatched a moment ago can run before that page lands.",
+    },
+    {
+      invariantKind: "departure",
       statement: "Two runs leave two sets of edits in the order the runs were made.",
     },
     {

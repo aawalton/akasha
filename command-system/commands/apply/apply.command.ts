@@ -121,6 +121,10 @@ export const apply = {
     },
     {
       invariantKind: "departure",
+      statement: "That refusal is the refusal `akasha change` gives.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The paths folded in are named in the report before the report the apply makes.",
     },
     {

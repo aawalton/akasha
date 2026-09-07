@@ -14,7 +14,7 @@ import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { type Draft, drafted, putBack, type Running } from "../../drafting/drafting.module.code.ts"
 import { gateBuilt } from "../../gate-building/gate-building.module.code.ts"
 import { baseOf, changeOf } from "../../landing/landing.module.code.ts"
-import { editsFor, waitingSaid } from "../change/change.command.code.ts"
+import { editsFor, noPageSaid, waitingSaid } from "../change/change.command.code.ts"
 import { applying } from "../patch/patch.command.code.ts"
 import { MESSAGE, MESSAGE_FILE, unknownIn } from "../write/write.command.code.ts"
 
@@ -25,8 +25,6 @@ const TEXT = new TextDecoder()
 const APPLYING = [MESSAGE, MESSAGE_FILE, BREAK_GLASS]
 
 const BARE: readonly string[] = []
-
-const NO_PAGE = "this call names no agent whose page the edits would be kept beside"
 
 const CHANGED: Running = { checks: true, writerOwesReading: false, readersOweReading: true }
 
@@ -142,7 +140,9 @@ export async function apply(argv: readonly string[], given: Given): Promise<Answ
   const unknown = unknownIn(argv, APPLYING, BARE)
   if (unknown.length > 0) return mistaking(unknown)
   const page = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
-  if (page === null || editsAt(page) === null) return mistaking([NO_PAGE])
+  if (page === null || editsAt(page) === null) {
+    return mistaking([noPageSaid(given.root, given.agentId)])
+  }
   const held = keptEdits(given.root, page, (had) => had)
   if ("why" in held) return { report: [], refusals: [held.why], code: 3 }
   const owing = unwarranted(given.root, given.agentId, held.rows)
