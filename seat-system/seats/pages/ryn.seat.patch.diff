@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/temper/temper-lib-main-menu/main-menu-casts/main-menu-casts.module.ts b/temper/temper-lib-main-menu/main-menu-casts/main-menu-casts.module.ts
+index baac1517a7a60d43141dfc459b16286ea84200f1..6ca2f2745db4cc4e20faac763afffbe9b9b8b629 100644
+--- a/temper/temper-lib-main-menu/main-menu-casts/main-menu-casts.module.ts
++++ b/temper/temper-lib-main-menu/main-menu-casts/main-menu-casts.module.ts
+@@ -9,7 +9,7 @@ export const mainMenuCasts = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A narrowing here asserts a shape rather than checking one.",
++      statement: "A narrowing here asserts a shape rather than checking a shape.",
+     },
+     {
+       invariantKind: "departure",
