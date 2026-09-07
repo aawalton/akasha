@@ -51,6 +51,12 @@ function lined(...rows: readonly unknown[]): string {
   return rows.map((one) => `${JSON.stringify(one)}\n`).join("")
 }
 
+function storedIn(root: string): readonly string[] {
+  return readFileSync(join(root, AT), "utf8")
+    .split("\n")
+    .filter((one) => one !== "")
+}
+
 test("the file is named beside the page by the rule every file beside a page is named by", () => {
   expect(editsAt(PAGE)).toBe(AT)
 })
@@ -68,6 +74,7 @@ test("an agent that has appended nothing holds no row", () => {
 
 test("two appends leave both sets of rows in the order the rows were appended", () => {
   const root = rootFor()
+  putting(root, "b\n", TWO)
 
   appendEdits(root, PAGE, [writing(ONE, null, "a\n")])
   appendEdits(root, PAGE, [taking(TWO, "b\n"), writing(ONE, "a\n", "c\n")])
@@ -77,6 +84,7 @@ test("two appends leave both sets of rows in the order the rows were appended", 
 
 test("a row comes back holding the path, the body it was worked out from and the body it leaves", () => {
   const root = rootFor()
+  putting(root, "a\n", ONE)
 
   appendEdits(root, PAGE, [taking(ONE, "a\n")])
 
@@ -85,6 +93,7 @@ test("a row comes back holding the path, the body it was worked out from and the
 
 test("a row naming the path it came from keeps that path", () => {
   const root = rootFor()
+  putting(root, "a\n", ONE)
 
   appendEdits(root, PAGE, [{ path: TWO, was: "a\n", body: "a\n", from: ONE }])
 
@@ -312,4 +321,74 @@ test("a whole row and a narrow row are read side by side", () => {
   putting(root, lined(writing(ONE, null, "a\n"), { kind: "add", path: TWO, content: "b\n" }))
 
   expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE, TWO])
+})
+
+test("a row taking a path away is written without the body that path held", () => {
+  const root = rootFor()
+  putting(root, "a\n", ONE)
+
+  appendEdits(root, PAGE, [taking(ONE, "a\n")])
+
+  expect(storedIn(root)).toEqual([JSON.stringify({ kind: "remove", path: ONE })])
+  expect(editsIn(root, PAGE)).toEqual({ rows: [taking(ONE, "a\n")] })
+})
+
+test("a row carrying a body across is written without that body", () => {
+  const root = rootFor()
+  putting(root, "a\n", ONE)
+  const row = { path: TWO, was: "a\n", body: "a\n", from: ONE }
+
+  appendEdits(root, PAGE, [row])
+
+  expect(storedIn(root)).toEqual([JSON.stringify({ kind: "move", pathFrom: ONE, pathTo: TWO })])
+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+})
+
+test("a row adding a path is written without the body that path lacked", () => {
+  const root = rootFor()
+  const row = writing(ONE, null, "a\n")
+
+  appendEdits(root, PAGE, [row])
+
+  expect(storedIn(root)).toEqual([JSON.stringify({ kind: "add", path: ONE, content: "a\n" })])
+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+})
+
+test("a row that would read back as no row states the whole body", () => {
+  const root = rootFor()
+  const row = writing(ONE, "a\n", "a\n")
+
+  appendEdits(root, PAGE, [row])
+
+  expect(storedIn(root)).toEqual([JSON.stringify(row)])
+})
+
+test("a row that would read back under another path states the whole body", () => {
+  const root = rootFor()
+  const row = { path: TWO, was: "a\n", body: null, from: ONE }
+
+  appendEdits(root, PAGE, [row])
+
+  expect(storedIn(root)).toEqual([JSON.stringify(row)])
+})
+
+test("a row that would read back refused states the whole body", () => {
+  const root = rootFor()
+  const row = { path: TWO, was: null, body: "a\n", from: ONE }
+
+  appendEdits(root, PAGE, [row])
+
+  expect(storedIn(root)).toEqual([JSON.stringify(row)])
+  expect(editsIn(root, PAGE)).toEqual({ rows: [row] })
+})
+
+test("the rows a settle writes again state the whole body", () => {
+  const root = rootFor()
+  putting(root, "a\n", ONE)
+  putting(root, "b\n", TWO)
+  appendEdits(root, PAGE, [taking(ONE, "a\n"), taking(TWO, "b\n")])
+
+  keptEdits(root, PAGE, (had) => had.slice(1))
+
+  expect(storedIn(root)).toEqual([JSON.stringify(taking(TWO, "b\n"))])
 })

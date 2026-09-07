@@ -67,6 +67,23 @@ export const editsKeeping = {
     },
     {
       invariantKind: "departure",
+      statement:
+        "A row appended states the edit narrowly where the narrow row reads back as that row.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row that would read back as any other row states the whole body instead.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Whether a row reads back is answered against the body that row states.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A row written again beside rows that went states the whole body.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A row is appended to the last numbered file rather than to a file written anew.",
     },
     {

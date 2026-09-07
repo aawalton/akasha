@@ -6,7 +6,12 @@ import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
 import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
 import { besideAt } from "@akasha/pages/page-file-name"
 import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
-import { type BodyOf, gathered, widened } from "../change-answer/change-answer.module.code.ts"
+import {
+  type BodyOf,
+  gathered,
+  narrowed,
+  widened,
+} from "../change-answer/change-answer.module.code.ts"
 import type { Answer, Edit, Reading, Stated } from "../change-answer/change-answer.module.types.ts"
 
 const SLUG = "edits"
@@ -218,11 +223,50 @@ function poured(root: string, page: string, lines: readonly string[]): undefined
   if (held.length > 0) appended(root, page, held.join(""))
 }
 
-function appending(root: string, page: string, rows: readonly Edit[]): undefined {
+function wasIn(one: Edit): BodyOf {
+  const came = one.from === undefined || one.from === one.path ? one.path : one.from
+  return (path) => (path === came ? one.was : null)
+}
+
+function sameRow(one: Edit, two: Edit): boolean {
+  return (
+    one.path === two.path &&
+    one.was === two.was &&
+    one.body === two.body &&
+    one.from === two.from &&
+    one.readersOweReading === two.readersOweReading &&
+    one.writerOwesReading === two.writerOwesReading
+  )
+}
+
+function narrowIn(one: Edit): Stated | null {
+  const narrow = narrowed(one)
+  const only = narrow.length === 1 ? narrow[0] : undefined
+  if (only === undefined) return null
+  const back = widened({ edits: [only], refused: null }, wasIn(one))
+  const got = back.edits[0]
+  if (back.refused !== null || back.edits.length !== 1 || got === undefined) return null
+  return sameRow(got, one) ? only : null
+}
+
+function narrowly(one: Edit): string {
+  return JSON.stringify(narrowIn(one) ?? one)
+}
+
+function wholly(one: Edit): string {
+  return JSON.stringify(one)
+}
+
+function appending(
+  root: string,
+  page: string,
+  rows: readonly Edit[],
+  said: (one: Edit) => string
+): undefined {
   poured(
     root,
     page,
-    rows.map((one) => `${JSON.stringify(one)}\n`)
+    rows.map((one) => `${said(one)}\n`)
   )
 }
 
@@ -269,7 +313,7 @@ function migrated(root: string, page: string): undefined {
   if (stale === null) return
   const read = rowsIn(stale, bodyIn(root))
   if ("why" in read) return
-  appending(root, page, read.rows)
+  appending(root, page, read.rows, narrowly)
   abandoned(root, page)
 }
 
@@ -287,11 +331,11 @@ function settled(root: string, page: string, had: readonly Edit[], next: Rows): 
     return { rows: [] }
   }
   if (followsOn(had, next)) {
-    appending(root, page, next.slice(had.length))
+    appending(root, page, next.slice(had.length), narrowly)
     return { rows: next }
   }
   swept(root, page)
-  appending(root, page, next)
+  appending(root, page, next, wholly)
   return { rows: next }
 }
 
@@ -329,7 +373,7 @@ export function appendEdits(root: string, page: string, edits: readonly Edit[]):
   mkdirSync(dirname(full), { recursive: true })
   return exclusively(full, (): Kept => {
     migrated(root, page)
-    appending(root, page, edits)
+    appending(root, page, edits, narrowly)
     return { rows: edits }
   })
 }
