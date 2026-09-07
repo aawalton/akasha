@@ -11,5 +11,6 @@ export const utilsFs = {
     "module/expand-tilde",
     "module/missing",
     "module/read-stdin-or-file",
+    "module/text-on-disk",
   ],
 } as const satisfies WorkspacePackage

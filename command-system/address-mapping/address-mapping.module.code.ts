@@ -1,10 +1,10 @@
-import { readFileSync } from "node:fs"
 import { dirname, join, relative } from "node:path"
 import { formattedBody } from "@akasha/code/code-format"
 import type { Change } from "@akasha/pages/change"
 import { besideAt, partedIn } from "@akasha/pages/page-file-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import { shadowFor } from "@akasha/pages/shadow"
+import { textOnDisk } from "@akasha/utils-fs/text-on-disk"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 
@@ -16,6 +16,7 @@ const REACHED = [
   "change-mechanical",
   "change-checked",
   "change-authored",
+  "change-restated",
 ]
 
 const ADDRESSED = "addressed"
@@ -42,14 +43,6 @@ export type Mapped = {
 
 const NOTHING_MAPPED: Mapped = { edits: [], said: [] }
 
-function onDisk(at: string): string | null {
-  try {
-    return readFileSync(at, "utf8")
-  } catch {
-    return null
-  }
-}
-
 function specifierFor(from: string, to: string): string {
   const said = relative(dirname(from), to)
   return said.startsWith(".") ? said : `./${said}`
@@ -62,7 +55,7 @@ function declaresRun(text: string): boolean {
 export function textOver(root: string, change: Change): (path: string) => string | null {
   const carried = new Set(change.changed)
   return (path) => {
-    if (!carried.has(path)) return onDisk(join(root, path))
+    if (!carried.has(path)) return textOnDisk(join(root, path))
     const after = change.after(path)
     return after === null ? null : new TextDecoder().decode(after)
   }

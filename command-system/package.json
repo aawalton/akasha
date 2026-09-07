@@ -43,6 +43,7 @@
     "@akasha/errors-core": "workspace:*",
     "@akasha/inference-clients": "workspace:*",
     "@akasha/inference-runs": "workspace:*",
+    "@akasha/utils-fs": "workspace:*",
     "@akasha/wan": "workspace:*",
     "@akasha/zimage": "workspace:*",
     "typescript": "5.9.3"
