@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/akasha-folder-shape.initiative.ts b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
+index 98690b911fcef133f872f29e3edae9ec2d5fc277..5922b034cae639fd83a23fdca429244b12292e72 100644
+--- a/domains/initiatives/pages/akasha-folder-shape.initiative.ts
++++ b/domains/initiatives/pages/akasha-folder-shape.initiative.ts
+@@ -25,7 +25,7 @@ export const akashaFolderShape = {
+     {
+       statement: "No relation value lands that akasha cannot key to one page.",
+       workingMemory:
+-        "`identifier-names-one-page` is the only guard, and it runs on a patch alone: `runsOnWorktree`, `runsOnDeploy` and `runsOnAudit` are all false. `akasha replace` and `akasha remove` land as `change-mechanical` and are judged by no check at all, which is the path a bulk migration takes. Measured clean today: no second line in any of the 70040 id files, nor in any file under a `slug` key.",
++        "`identifier-names-one-page` is the only guard, and it runs on a patch alone: `runsOnWorktree`, `runsOnDeploy` and `runsOnAudit` are all false. `akasha replace` lands as `change-mechanical` and is judged by no check at all, which is the path a bulk migration takes. Measured clean today: no second line in any of the 70040 id files, nor in any file under a `slug` key.",
+     },
+     {
+       statement: "No relation property's name ends in `slug`.",
