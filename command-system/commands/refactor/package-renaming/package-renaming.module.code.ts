@@ -4,6 +4,7 @@ import type { Held } from "../../../asking/asking.module.code.ts"
 import { counted, landedMechanically, landingAsked } from "../../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../calling/calling.module.code.ts"
 import { answering } from "../../../calling/calling.module.code.ts"
+import { glassIn, messageIn } from "../../../command-flags/command-flags.module.code.ts"
 import { bodyAt } from "../../../commit-reading/commit-reading.module.code.ts"
 import type { FileEdit } from "../../../landing/landing.module.code.ts"
 import { baseOf } from "../../../landing/landing.module.code.ts"
@@ -13,7 +14,6 @@ import {
   spelledRespelt,
 } from "../../../outside-naming/outside-naming.module.code.ts"
 import { nameIn, reachedOver } from "../../../package-linking/package-linking.module.code.ts"
-import { glassIn, messageIn } from "../../write/write.command.code.ts"
 import { bodyTextOf } from "../landing/refactor-landing.module.code.ts"
 import {
   aliasAddedIn,

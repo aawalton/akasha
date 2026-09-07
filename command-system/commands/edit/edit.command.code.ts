@@ -10,6 +10,15 @@ import {
   troubling,
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import {
+  FILE_PATH,
+  glassIn,
+  MESSAGE,
+  MESSAGE_FILE,
+  messageIn,
+  REMOVE,
+  unknownIn,
+} from "../../command-flags/command-flags.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
 import {
@@ -25,18 +34,11 @@ import {
   barredIn,
   besideTaken,
   defaultMessage,
-  FILE_PATH,
-  glassIn,
-  MESSAGE,
-  MESSAGE_FILE,
-  messageIn,
   offRepo,
   pathAt,
-  REMOVE,
   RESTATED,
   removingIn,
   restatedIn,
-  unknownIn,
   unrestatedFor,
   unwarrantedIn,
 } from "../write/write.command.code.ts"

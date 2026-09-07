@@ -9,7 +9,6 @@ import {
   wroteAndTook,
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
-import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 import {
   glassIn,
   MESSAGE,
@@ -17,7 +16,8 @@ import {
   messageIn,
   unknownIn,
   valuesOf,
-} from "../write/write.command.code.ts"
+} from "../../command-flags/command-flags.module.code.ts"
+import { whyOf } from "../../fault-saying/fault-saying.module.code.ts"
 
 export const PACKAGE_PATH = "--package-path"
 

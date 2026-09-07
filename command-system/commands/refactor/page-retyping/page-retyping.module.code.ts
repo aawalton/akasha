@@ -13,11 +13,11 @@ import type { Asked as Asking } from "../../../asking/asking.module.code.ts"
 import { counted, landingAsked } from "../../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../../calling/calling.module.code.ts"
 import { answering } from "../../../calling/calling.module.code.ts"
+import { glassIn, messageIn } from "../../../command-flags/command-flags.module.code.ts"
 import type { FileEdit } from "../../../landing/landing.module.code.ts"
 import { baseOf } from "../../../landing/landing.module.code.ts"
 import type { Carry as Reading } from "../../../reading/reading.module.code.ts"
 import { outsideIn, saidFrom } from "../../move/outside/move-outside.module.code.ts"
-import { glassIn, messageIn } from "../../write/write.command.code.ts"
 import { bodyTextOf, were } from "../landing/refactor-landing.module.code.ts"
 import type {
   Carry,
@@ -266,7 +266,7 @@ export async function retypeLanded(
   const specifier = specifierFor(one.path, one.typePath, bodyText)
   if ("refused" in specifier) return answering([], [specifier.refused], 1)
   const carries = carriesFor(root, one)
-  const moved = new Map<string, string>(carries.map((held) => [held.from, held.to]))
+  const moved = new Map<string, string>(carries.map((each) => [each.from, each.to]))
   const held: Rewriting = {
     one,
     moved,

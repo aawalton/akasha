@@ -1,6 +1,5 @@
 import { patchAt, patchIn } from "@akasha/agents/patch-keeping"
 import { agentPathOf } from "@akasha/context/warranting"
-import { said as gitSaid } from "@akasha/git/git-running"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { textAt as textIn, valueAt } from "@akasha/pages/page-value"
 import { applied } from "../../applying/applying.module.code.ts"
@@ -17,10 +16,21 @@ import {
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import {
+  CONTENT_FILE,
+  FILE_PATH,
+  glassIn,
+  MESSAGE,
+  MESSAGE_FILE,
+  messageIn,
+  unknownIn,
+  valuesOf,
+} from "../../command-flags/command-flags.module.code.ts"
+import {
   type Bodies,
   DROPPED,
   droppedAt,
   droppedPatch,
+  headOf,
   type Rebased,
   rebasedOnto,
   resolved,
@@ -34,18 +44,7 @@ import { formattedSaid } from "../../landing-saying/landing-saying.module.code.t
 import { added, type Blobs, blobsIn, deleted } from "../../patching/patching.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
 import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
-import {
-  CONTENT_FILE,
-  FILE_PATH,
-  glassIn,
-  MESSAGE,
-  MESSAGE_FILE,
-  messageIn,
-  offRepo,
-  pathAt,
-  unknownIn,
-  valuesOf,
-} from "../write/write.command.code.ts"
+import { offRepo, pathAt } from "../write/write.command.code.ts"
 
 export const APPLY = "apply"
 
@@ -99,10 +98,6 @@ const NO_REBASE = "the patch does not rebase onto the commit at HEAD"
 const MOVED = " — moved under the patch since it was drafted"
 
 const WHY = "the patch this agent drafted"
-
-function headOf(root: string): string {
-  return gitSaid(root, ["rev-parse", "HEAD"]).trim()
-}
 
 function markOf(one: Blobs): string {
   if (added(one)) return "added"

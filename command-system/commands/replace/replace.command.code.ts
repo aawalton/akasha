@@ -12,6 +12,15 @@ import {
   troubling,
 } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import {
+  FILE_PATH,
+  glassIn,
+  MESSAGE,
+  MESSAGE_FILE,
+  messageIn,
+  unknownIn,
+  valuesOf,
+} from "../../command-flags/command-flags.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
 import {
@@ -27,16 +36,9 @@ import { counted as countedIn } from "../edit/edit.command.code.ts"
 import {
   barredIn,
   defaultMessage,
-  FILE_PATH,
-  glassIn,
-  MESSAGE,
-  MESSAGE_FILE,
-  messageIn,
   offRepo,
   pathAt,
-  unknownIn,
   unwarrantedIn,
-  valuesOf,
 } from "../write/write.command.code.ts"
 
 const OLD_FILE = "--old-file"

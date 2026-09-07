@@ -11,20 +11,17 @@ import type { Asked } from "../../asking/asking.module.code.ts"
 import { BREAK_GLASS, landingAsked } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
-import type { FileEdit } from "../../landing/landing.module.code.ts"
-import { baseOf } from "../../landing/landing.module.code.ts"
-import { dropReadings } from "../../reading/reading.module.code.ts"
 import {
-  barredIn,
   FILE_PATH,
-  GIT_DIR,
   glassIn,
   MESSAGE,
   MESSAGE_FILE,
   messageIn,
-  offRepo,
-  pathAt,
-} from "../write/write.command.code.ts"
+} from "../../command-flags/command-flags.module.code.ts"
+import type { FileEdit } from "../../landing/landing.module.code.ts"
+import { baseOf } from "../../landing/landing.module.code.ts"
+import { dropReadings } from "../../reading/reading.module.code.ts"
+import { barredIn, GIT_DIR, offRepo, pathAt } from "../write/write.command.code.ts"
 import { manifestingFor, manifestingSaid } from "./manifesting/remove-manifesting.module.code.ts"
 import type { Span } from "./workspacing/remove-workspacing.module.code.ts"
 import {

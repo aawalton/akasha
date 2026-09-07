@@ -15,12 +15,12 @@ import type { Asked } from "../../asking/asking.module.code.ts"
 import { counted, DRY_RUN, landingAsked, textOf } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
 import { answering } from "../../calling/calling.module.code.ts"
+import { glassIn, messageIn } from "../../command-flags/command-flags.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
 import type { FileCarry, FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
 import type { Carry as Reading } from "../../reading/reading.module.code.ts"
 import { blobIdOf } from "../../reading/reading.module.code.ts"
-import { glassIn, messageIn } from "../write/write.command.code.ts"
 import {
   AT,
   FROM,

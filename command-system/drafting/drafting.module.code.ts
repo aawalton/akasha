@@ -98,7 +98,7 @@ type Held = Map<string, Body>
 
 type Worked = { readonly held: Held } | { readonly why: string }
 
-function headOf(root: string): string {
+export function headOf(root: string): string {
   return gitSaid(root, ["rev-parse", "HEAD"]).trim()
 }
 

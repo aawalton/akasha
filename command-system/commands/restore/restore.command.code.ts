@@ -2,9 +2,10 @@ import { chmodSync, mkdirSync, readFileSync, writeFileSync } from "node:fs"
 import { dirname, join, resolve } from "node:path"
 import { said as gitIn } from "@akasha/git/git-running"
 import { type Answer, answering, type Given } from "../../calling/calling.module.code.ts"
+import { FILE_PATH } from "../../command-flags/command-flags.module.code.ts"
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
 import { saidBy } from "../../fault-saying/fault-saying.module.code.ts"
-import { FILE_PATH, offRepo, pathAt } from "../write/write.command.code.ts"
+import { offRepo, pathAt } from "../write/write.command.code.ts"
 
 const HEAD = "HEAD"
 

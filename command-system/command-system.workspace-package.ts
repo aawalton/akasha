@@ -62,6 +62,7 @@ export const commandSystem = {
     "module/command-server",
     "module/orphaning",
     "module/seat-act-calling",
+    "module/command-flags",
   ],
   invariants: [
     {

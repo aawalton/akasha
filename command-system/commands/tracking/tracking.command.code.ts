@@ -5,15 +5,9 @@ import {
 } from "../../../alan/tracking/tracking-landing/tracking-landing.module.code.ts"
 import { BREAK_GLASS, mistaking } from "../../asking/asking.module.code.ts"
 import type { Answer, Given } from "../../calling/calling.module.code.ts"
+import { FILE_PATH, REMOVE, valuesOf } from "../../command-flags/command-flags.module.code.ts"
 import { inputIn } from "../../piping/piping.module.code.ts"
-import {
-  builtIn,
-  FILE_PATH,
-  pathAt,
-  REMOVE,
-  VALUED,
-  valuesOf,
-} from "../write/write.command.code.ts"
+import { builtIn, pathAt, VALUED } from "../write/write.command.code.ts"
 
 export const NO_GLASS = `${BREAK_GLASS} is no flag this takes: a body the checks refuse is a fault in the program that composed it`
 
