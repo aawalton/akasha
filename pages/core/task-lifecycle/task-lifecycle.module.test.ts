@@ -89,8 +89,18 @@ test("a to-do reads as done only where it carries the key saying so", () => {
   expect(readsAsDone(shape, { toDoLastCompletedAt: "2026-09-06T22:00:00.000Z" })).toBe(false)
 })
 
-test("a temper task never reads as done", () => {
-  expect(readsAsDone(shapeFor("temper-task"), { lastCompletedAt: "x" })).toBe(false)
+test("a temper task reads as done only where it carries the key saying so", () => {
+  const shape = shapeFor("temper-task")
+  expect(readsAsDone(shape, { completedAt: "2026-09-06T22:00:00.000Z" })).toBe(true)
+  expect(readsAsDone(shape, { lastCompletedAt: "2026-09-06T22:00:00.000Z" })).toBe(false)
+})
+
+test("a temper task holding no rule reads as done from the instant it was marked", () => {
+  const said = completionValues(shapeFor("temper-task"), { dueDate: "2026-09-06" }, AT)
+  expect(said).toEqual({
+    lastCompletedAt: "2026-09-06T22:00:00.000Z",
+    completedAt: "2026-09-06T22:00:00.000Z",
+  })
 })
 
 test("taking a completion back clears the key that said it was done", () => {
@@ -98,7 +108,10 @@ test("taking a completion back clears the key that said it was done", () => {
     toDoLastCompletedAt: null,
     toDoCompletedAt: null,
   })
-  expect(uncompletionValues(shapeFor("temper-task"))).toEqual({ lastCompletedAt: null })
+  expect(uncompletionValues(shapeFor("temper-task"))).toEqual({
+    lastCompletedAt: null,
+    completedAt: null,
+  })
 })
 
 test("a rule that answers no next day leaves the due date alone", () => {

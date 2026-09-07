@@ -1,6 +1,7 @@
 import type { PageType } from "@akasha/pages/page-type"
 import type { TemperProgressThing } from "../progress-things/temper-progress-thing.page-type.ts"
 import type { CharacterSortOrder } from "./properties/character-sort-order.number-property.ts"
+import type { CompletedAt } from "./properties/completed-at.instant-property.ts"
 import type { DueTime } from "./properties/due-time.calendar-time-property.ts"
 import type { EffectiveCharacter } from "./properties/effective-character.text-property.ts"
 import type { LastCompletedAt } from "./properties/last-completed-at.instant-property.ts"
@@ -11,6 +12,7 @@ import type { ProgressTotal } from "./properties/progress-total.number-property.
 
 export type TemperTask = TemperProgressThing & {
   characterSortOrder?: CharacterSortOrder
+  completedAt?: CompletedAt
   dueTime?: DueTime
   effectiveCharacter?: EffectiveCharacter
   lastCompletedAt?: LastCompletedAt
@@ -30,6 +32,7 @@ export const temperTask = {
   partSlugs: [
     "boolean-property/pending-sync",
     "calendar-time-property/due-time",
+    "instant-property/completed-at",
     "instant-property/last-completed-at",
     "number-property/character-sort-order",
     "number-property/progress-current",
@@ -45,6 +48,7 @@ export const temperTask = {
     { pagePropertySlug: "calendar-time-property/due-time", required: false, many: false },
     { pagePropertySlug: "text-property/effective-character", required: false, many: false },
     { pagePropertySlug: "instant-property/last-completed-at", required: false, many: false },
+    { pagePropertySlug: "instant-property/completed-at", required: false, many: false },
     { pagePropertySlug: "page-property-entry/progress", required: false, many: false },
     { pagePropertySlug: "number-property/progress-total", required: false, many: false },
     { pagePropertySlug: "number-property/progress-current", required: false, many: false },
@@ -59,7 +63,7 @@ export const temperTask = {
   invariants: [
     {
       invariantKind: "departure",
-      statement: "A task stating no recurrence is done once and then deleted.",
+      statement: "A task stating no recurrence is marked done and kept.",
     },
     {
       invariantKind: "departure",

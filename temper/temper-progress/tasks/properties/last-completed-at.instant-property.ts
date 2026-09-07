@@ -7,5 +7,5 @@ export const lastCompletedAt = {
   pageTypeSlug: "instant-property",
   slug: "last-completed-at",
   propertySlug: "last-completed-at",
-  definition: "when a recurring task was last marked done",
+  definition: "when a task was last marked done",
 } as const satisfies InstantProperty

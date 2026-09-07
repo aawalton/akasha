@@ -22,15 +22,11 @@ export const overdueRolling = {
     },
     {
       invariantKind: "departure",
-      statement: "A to-do already completed is not moved.",
+      statement: "A task already marked done is not moved.",
     },
     {
-      invariantKind: "absence",
-      statement: "A temper task states no completion.",
-    },
-    {
-      invariantKind: "gap",
-      statement: "A temper task already done is moved.",
+      invariantKind: "departure",
+      statement: "The key saying a task is done is read from the page type moved.",
     },
     {
       invariantKind: "departure",

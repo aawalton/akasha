@@ -33,12 +33,8 @@ export const taskLifecycle = {
       statement: "A task holding no rule reads as done from the day of the marking onward.",
     },
     {
-      invariantKind: "absence",
-      statement: "A temper task holds no key saying that task is done.",
-    },
-    {
       invariantKind: "departure",
-      statement: "A temper task never reads as done.",
+      statement: "Every page type here carries a key saying the task is done.",
     },
     {
       invariantKind: "departure",

@@ -6,7 +6,7 @@ export type CompletionShape = {
   readonly dueKey: string
   readonly recurrenceKey: string
   readonly anchorKey: string
-  readonly doneKey: string | null
+  readonly doneKey: string
 }
 
 export const COMPLETION_SHAPES: Readonly<Record<string, CompletionShape>> = {
@@ -22,7 +22,7 @@ export const COMPLETION_SHAPES: Readonly<Record<string, CompletionShape>> = {
     dueKey: "dueDate",
     recurrenceKey: "rruleRule",
     anchorKey: "rruleAnchorFromCompletion",
-    doneKey: null,
+    doneKey: "completedAt",
   },
 }
 
@@ -79,21 +79,16 @@ export function completionValues(
 ): Readonly<Record<string, string>> {
   const stamp = new Date(atMs).toISOString()
   const rule = textAt(values, shape.recurrenceKey)
-  if (rule === null) {
-    if (shape.doneKey === null) return { [shape.stampKey]: stamp }
-    return { [shape.stampKey]: stamp, [shape.doneKey]: stamp }
-  }
+  if (rule === null) return { [shape.stampKey]: stamp, [shape.doneKey]: stamp }
   const due = nextDueFor(shape, values, rule, atMs)
   if (due === null) return { [shape.stampKey]: stamp }
   return { [shape.stampKey]: stamp, [shape.dueKey]: due }
 }
 
 export function uncompletionValues(shape: CompletionShape): Readonly<Record<string, null>> {
-  if (shape.doneKey === null) return { [shape.stampKey]: null }
   return { [shape.stampKey]: null, [shape.doneKey]: null }
 }
 
 export function readsAsDone(shape: CompletionShape, values: TaskValues): boolean {
-  if (shape.doneKey === null) return false
   return textAt(values, shape.doneKey) !== null
 }

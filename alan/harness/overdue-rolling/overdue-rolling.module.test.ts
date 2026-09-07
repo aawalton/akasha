@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Page, PageWhere } from "@akasha/pages-core/page-types"
+import { asPage, type Page, type PageWhere } from "@akasha/pages-core/page-types"
 import {
   narrowFor,
   ROLLED,
@@ -18,7 +18,7 @@ function rollingFor(pageTypeSlug: string): Rolling {
 }
 
 function pageNamed(slug: string | null): Page {
-  return { slug } as unknown as Page
+  return asPage({ slug })
 }
 
 test("a to-do is narrowed by its due date and by carrying no completion", () => {
@@ -28,8 +28,11 @@ test("a to-do is narrowed by its due date and by carrying no completion", () => 
   ])
 })
 
-test("a temper task is narrowed by its due date alone", () => {
-  expect(narrowFor(rollingFor("temper-task"), DAY)).toEqual([{ key: "dueDate", lt: DAY }])
+test("a temper task is narrowed by its due date and by carrying no completion", () => {
+  expect(narrowFor(rollingFor("temper-task"), DAY)).toEqual([
+    { key: "dueDate", lt: DAY },
+    { key: "completedAt", isEmpty: true },
+  ])
 })
 
 test("a roll sets the due date to the day it rolls onto", async () => {
