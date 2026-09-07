@@ -22,6 +22,7 @@ import {
   guardedBy,
   NOT_READ,
 } from "../../../modules/change-guarding/change-guarding.module.code.ts"
+import { tookAway } from "../../../modules/change-guarding/change-guarding.module.test-fixtures.ts"
 import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { relationNotLeftHanging } from "./relation-not-left-hanging.change-guard.code.ts"
 
@@ -64,8 +65,7 @@ function brokenRoot(): string {
 }
 
 function takingAway(root: string, path: string): Answer {
-  const was = textIn(root)(path) ?? ""
-  return guardedBy(worldAt(root, textIn(root)), answered([taking(path, was)]), GUARDS)
+  return tookAway(root, path, GUARDS)
 }
 
 test("a shadow that will not build refuses rather than answering no hanging relation", () => {

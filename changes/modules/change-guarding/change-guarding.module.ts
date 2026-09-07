@@ -8,7 +8,12 @@ export const changeGuarding = {
   code: "ts",
   types: "ts",
   test: "ts",
+  testFixtures: "ts",
   invariants: [
+    {
+      invariantKind: "departure",
+      statement: "An answer taking one path away is judged by the guards a test names here.",
+    },
     {
       invariantKind: "departure",
       statement: "A guard is handed the answer a change gives.",
