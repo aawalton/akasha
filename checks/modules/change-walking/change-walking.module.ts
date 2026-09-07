@@ -51,11 +51,19 @@ export const changeWalking = {
     },
     {
       invariantKind: "departure",
-      statement: "A path a folder sits at reads as nothing, holding no body a check judges.",
+      statement: "A path a folder sits at reads as nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A folder holds no body a check judges.",
     },
     {
       invariantKind: "constraint",
-      statement: "Git tracks the link a package is reached by, and that link leads to a folder.",
+      statement: "Git tracks the link a package is reached by.",
+    },
+    {
+      invariantKind: "constraint",
+      statement: "That link leads to a folder.",
     },
     {
       invariantKind: "departure",
