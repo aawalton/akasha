@@ -6,7 +6,7 @@ import { codeRoot } from "@akasha/pages/code-root"
 import { tstlConfigPathFor } from "@akasha/temper-addon-build/addon-tstl-config"
 import { type AddonInfo, listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { ran } from "@akasha/utils-run/running"
-import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const DATA = 2
 

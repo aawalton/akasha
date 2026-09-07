@@ -4,7 +4,10 @@ import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { listDeployables } from "@akasha/temper-addons-resolve/deployable-addons"
 import { installNamedAddon } from "@akasha/temper-community-addons/install-named-addon"
 import { addonsDir } from "@akasha/temper-eso-paths/eso-paths-resolve"
-import { namesIn, valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+import {
+  namesIn,
+  valuesOf,
+} from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 

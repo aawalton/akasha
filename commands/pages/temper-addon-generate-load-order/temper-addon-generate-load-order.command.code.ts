@@ -3,9 +3,9 @@ import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
-import { copyAddonMetadata } from "@akasha/temper-addon-build/addon-metadata-copy"
+import { writeLoadOrder } from "@akasha/temper-addon-build/addon-load-order"
 import { listAllAddons, resolveAddon } from "@akasha/temper-addons-resolve/addon-roster"
-import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const SAID_WRONG = 1
 const DATA = 2
@@ -13,17 +13,17 @@ const DATA = 2
 const ADDON = "--addon"
 const CODE_ROOT = "--code-root"
 
-export async function temperAddonCopyMetadata(argv: readonly string[] = []): Promise<Answer> {
+export async function temperAddonGenerateLoadOrder(argv: readonly string[] = []): Promise<Answer> {
   const asked = valuesOf(argv, ADDON)
   if (asked.length === 0) {
     return refused(
-      `name the addon whose metadata is copied with ${ADDON}, since copying for an addon nobody named would overwrite build output nobody asked about`,
+      `name the addon a load order is written for with ${ADDON}, since writing one for an addon nobody named would overwrite build output nobody asked about`,
       SAID_WRONG
     )
   }
   if (asked.length > 1) {
     return refused(
-      `one addon's metadata is copied at a time, and ${asked.join(", ")} names several`,
+      `one load order is written at a time, and ${asked.join(", ")} names several`,
       SAID_WRONG
     )
   }
@@ -40,11 +40,11 @@ export async function temperAddonCopyMetadata(argv: readonly string[] = []): Pro
   }
 
   try {
-    const done = await copyAddonMetadata(root, found.dir, found.canonicalName)
+    const written = await writeLoadOrder(root, found.dir, found.canonicalName)
     return {
       report: [
-        `copied ${found.canonicalName} metadata from ${found.dir} into ${done.distDir}`,
-        `${String(done.namedFiles)} named file(s), ${String(done.metadataFolders)} metadata folder(s), ${String(done.siblings.length)} sibling addon(s)${done.siblings.length === 0 ? "" : `: ${done.siblings.join(", ")}`}`,
+        `wrote ${found.canonicalName} over ${String(written.luaCount)} Lua file(s) from ${found.dir}`,
+        `${String(written.bytes)} byte(s) at ${written.manifestPath}, beside ${written.buildIdPath}`,
       ],
       refusals: [],
       code: 0,

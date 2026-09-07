@@ -3,7 +3,7 @@ import type { Answer } from "@akasha/command-system/calling"
 import { refused } from "@akasha/command-system/calling"
 import { saidBy as messageOf } from "@akasha/command-system/fault-saying"
 import { codeRoot } from "@akasha/pages/code-root"
-import { valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+import { valuesOf } from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const DATA = 2
 

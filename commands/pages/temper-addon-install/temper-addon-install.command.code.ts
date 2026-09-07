@@ -30,7 +30,10 @@ import {
   type ConsolidationMigration,
   migrateAddonSavedVars,
 } from "@akasha/temper-saved-vars-migration/saved-vars-migration"
-import { saidFor, saidShort } from "../flag-fault-stage/flag-fault-stage.module.code.ts"
+import {
+  saidFor,
+  saidShort,
+} from "../../../temper/temper-commands/flag-fault-stage/flag-fault-stage.module.code.ts"
 
 const DATA = 2
 const FAILED = 3

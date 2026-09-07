@@ -12,7 +12,10 @@ import { addonManifestSchema } from "@akasha/temper-addons-resolve/addon-json"
 import { addonManifestPathIn } from "@akasha/temper-addons-resolve/addon-manifest-file"
 import { listAllAddons } from "@akasha/temper-addons-resolve/addon-roster"
 import { collectGlobalWritesFromSource } from "@akasha/temper-build-deploy-checks/addon-global-ownership"
-import { namesIn, valuesOf } from "../argument-word-reading/argument-word-reading.module.code.ts"
+import {
+  namesIn,
+  valuesOf,
+} from "../../../temper/temper-commands/argument-word-reading/argument-word-reading.module.code.ts"
 
 const DATA = 2
 
