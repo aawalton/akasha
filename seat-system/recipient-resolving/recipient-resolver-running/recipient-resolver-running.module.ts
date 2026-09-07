@@ -39,8 +39,11 @@ export const recipientResolverRunning = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "The recipient resolver runs until stopped, and a stop ends the loop at its next boundary.",
+      statement: "The recipient resolver runs until stopped.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A stop ends the loop at its next boundary.",
     },
   ],
 } as const satisfies Module
