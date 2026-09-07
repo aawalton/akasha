@@ -10,7 +10,7 @@ export const cadwellSAlmanac = {
   esoCharacterId: "8796093041077613",
   scope: "next_character",
   priority: "p3",
-  dueDate: "2026-09-07",
+  dueDate: "2026-09-08",
   displayOrder: 13,
   completionCardId: "cadwells-almanac",
   lastCompletedAt: "2026-08-19T14:32:40.000Z",
