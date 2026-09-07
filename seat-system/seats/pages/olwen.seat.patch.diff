@@ -1,0 +1,421 @@
+writerOwesReading: false
+diff --git a/command-system/command-system.workspace-package.ts b/command-system/command-system.workspace-package.ts
+index 2266ab1f5fa849fc2bb5ae80d5047adf355a6f39..8995815bbd559c76b8e40163ca49931072ebcb78 100644
+--- a/command-system/command-system.workspace-package.ts
++++ b/command-system/command-system.workspace-package.ts
+@@ -43,7 +43,6 @@ export const commandSystem = {
+     "module/scratching",
+     "module/change-freshness",
+     "module/value-minting",
+-    "module/package-linking",
+     "module/folder-clearing",
+     "module/outside-naming",
+     "module/manifest-locking",
+diff --git a/command-system/package-linking/package-linking.module.code.ts b/command-system/package-linking/package-linking.module.code.ts
+deleted file mode 100644
+index 47e72809b8095493bd8c6ec60ef0cbc979d73611..0000000000000000000000000000000000000000
+--- a/command-system/package-linking/package-linking.module.code.ts
++++ /dev/null
+@@ -1,141 +0,0 @@
+-import {
+-  existsSync,
+-  lstatSync,
+-  mkdirSync,
+-  readlinkSync,
+-  renameSync,
+-  rmdirSync,
+-  rmSync,
+-  symlinkSync,
+-} from "node:fs"
+-import { dirname, join } from "node:path"
+-
+-const PARTED_BY = "/"
+-
+-const MODULES = "node_modules"
+-
+-const UP = "../"
+-
+-const MANIFEST = "package.json"
+-
+-export type Linking = {
+-  readonly name: string
+-  readonly folder: string
+-}
+-
+-export function nameIn(text: string): string | null {
+-  let read: unknown
+-  try {
+-    read = JSON.parse(text)
+-  } catch {
+-    return null
+-  }
+-  if (read === null || typeof read !== "object") return null
+-  const named = (read as Record<string, unknown>).name
+-  return typeof named === "string" ? named : null
+-}
+-
+-export function linkingsIn(
+-  moved: ReadonlyMap<string, string>,
+-  textOf: (path: string) => string | null
+-): readonly Linking[] {
+-  const found: Linking[] = []
+-  for (const [from, to] of moved) {
+-    if (from !== MANIFEST && !from.endsWith(`${PARTED_BY}${MANIFEST}`)) continue
+-    const text = textOf(from)
+-    if (text === null) continue
+-    const name = nameIn(text)
+-    if (name !== null) found.push({ name, folder: dirname(to) })
+-  }
+-  return found
+-}
+-
+-export function reachedAt(root: string, name: string): string {
+-  return join(root, MODULES, ...name.split(PARTED_BY))
+-}
+-
+-export function pointedAt(one: Linking): string {
+-  return `${UP.repeat(one.name.split(PARTED_BY).length)}${one.folder}`
+-}
+-
+-function linkAt(at: string): string | null {
+-  try {
+-    return lstatSync(at).isSymbolicLink() ? readlinkSync(at) : null
+-  } catch {
+-    return null
+-  }
+-}
+-
+-function takenAt(at: string): boolean {
+-  try {
+-    lstatSync(at)
+-    return true
+-  } catch {
+-    return existsSync(at)
+-  }
+-}
+-
+-function madeUnder(root: string, folder: string): readonly string[] {
+-  const made: string[] = []
+-  let at = join(root, folder)
+-  while (at !== root && at !== dirname(at) && !existsSync(at)) {
+-    made.push(at)
+-    at = dirname(at)
+-  }
+-  if (made.length > 0) mkdirSync(join(root, folder), { recursive: true })
+-  return made
+-}
+-
+-function cleared(made: readonly string[]): undefined {
+-  for (const at of made) {
+-    try {
+-      rmdirSync(at)
+-    } catch {
+-      return
+-    }
+-  }
+-}
+-
+-// Whoever resolves a name through this link holds no lock on it, so a link taken away and written
+-// again leaves a gap where the package reaches nothing, and an import landing in that gap fails.
+-// Writing the link beside its place and renaming over that place hands every reader one link or the
+-// other, because a rename within one folder happens all at once.
+-function placed(to: string, at: string): undefined {
+-  const beside = `${at}.${process.pid}.linking`
+-  rmSync(beside, { force: true })
+-  symlinkSync(to, beside)
+-  renameSync(beside, at)
+-}
+-
+-export function reachedFor(root: string, one: Linking): (() => undefined) | null {
+-  const at = reachedAt(root, one.name)
+-  const was = linkAt(at)
+-  if (was === null && takenAt(at)) return null
+-  const now = pointedAt(one)
+-  const made = madeUnder(root, one.folder)
+-  if (was === now) {
+-    return made.length === 0
+-      ? null
+-      : () => {
+-          cleared(made)
+-        }
+-  }
+-  mkdirSync(dirname(at), { recursive: true })
+-  placed(now, at)
+-  return () => {
+-    if (was === null) rmSync(at, { force: true })
+-    else placed(was, at)
+-    cleared(made)
+-  }
+-}
+-
+-export function reachedOver(root: string, many: readonly Linking[]): () => undefined {
+-  const undone: (() => undefined)[] = []
+-  for (const one of many) {
+-    const undo = reachedFor(root, one)
+-    if (undo !== null) undone.push(undo)
+-  }
+-  return () => {
+-    for (const one of [...undone].reverse()) one()
+-  }
+-}
+diff --git a/command-system/package-linking/package-linking.module.test.ts b/command-system/package-linking/package-linking.module.test.ts
+deleted file mode 100644
+index 6f3933a241d8f67f1e188601f4be9734b18ead6a..0000000000000000000000000000000000000000
+--- a/command-system/package-linking/package-linking.module.test.ts
++++ /dev/null
+@@ -1,172 +0,0 @@
+-import { afterAll, expect, test } from "bun:test"
+-import { existsSync, lstatSync, mkdirSync, readlinkSync, symlinkSync, writeFileSync } from "node:fs"
+-import { dirname, join } from "node:path"
+-import { scratchWorld } from "../scratching/scratching.module.code.ts"
+-import { manifest } from "../scratching/scratching.module.test-fixtures.ts"
+-import {
+-  linkingsIn,
+-  nameIn,
+-  pointedAt,
+-  reachedAt,
+-  reachedFor,
+-  reachedOver,
+-} from "./package-linking.module.code.ts"
+-
+-const NAME = "@akasha/held"
+-
+-const FOLDER = "akasha/held"
+-
+-const scratch = scratchWorld()
+-
+-afterAll(() => {
+-  scratch.sweep()
+-})
+-
+-function rooted(): string {
+-  const root = scratch.rootFor("package-linking-")
+-  mkdirSync(join(root, "node_modules/@akasha"), { recursive: true })
+-  return root
+-}
+-
+-function linked(root: string, name: string): string | null {
+-  const at = join(root, "node_modules", ...name.split("/"))
+-  try {
+-    return lstatSync(at).isSymbolicLink() ? readlinkSync(at) : null
+-  } catch {
+-    return null
+-  }
+-}
+-
+-test("a manifest calling its package is read for that name", () => {
+-  expect(nameIn(manifest(NAME))).toBe(NAME)
+-})
+-
+-test("a manifest that will not parse names no package", () => {
+-  expect(nameIn("{ not json")).toBeNull()
+-})
+-
+-test("a manifest calling its package nothing names none", () => {
+-  expect(nameIn('{ "private": true }')).toBeNull()
+-})
+-
+-test("a link sits beside the packages under the name the package carries", () => {
+-  expect(reachedAt("/repo", NAME)).toBe("/repo/node_modules/@akasha/held")
+-})
+-
+-test("a link climbs one folder for each part of the name it carries", () => {
+-  expect(pointedAt({ name: NAME, folder: FOLDER })).toBe("../../akasha/held")
+-})
+-
+-test("a name carrying no scope climbs one folder", () => {
+-  expect(pointedAt({ name: "held", folder: FOLDER })).toBe("../akasha/held")
+-})
+-
+-test("a manifest that moved says its package is now where the manifest arrived", () => {
+-  const moved = new Map([
+-    [`${FOLDER}/package.json`, "akasha/kept/package.json"],
+-    [`${FOLDER}/held.module.ts`, "akasha/kept/held.module.ts"],
+-  ])
+-  expect(linkingsIn(moved, () => manifest(NAME))).toEqual([{ name: NAME, folder: "akasha/kept" }])
+-})
+-
+-test("a move carrying no manifest asks for no link", () => {
+-  const moved = new Map([[`${FOLDER}/held.module.ts`, "akasha/kept/held.module.ts"]])
+-  expect(linkingsIn(moved, () => manifest(NAME))).toEqual([])
+-})
+-
+-test("a link is made where nothing is at that name", () => {
+-  const root = rooted()
+-  mkdirSync(join(root, FOLDER), { recursive: true })
+-  const undo = reachedFor(root, { name: NAME, folder: FOLDER })
+-  expect(linked(root, NAME)).toBe("../../akasha/held")
+-  expect(undo).not.toBeNull()
+-})
+-
+-test("taking back a link this made leaves nothing at that name", () => {
+-  const root = rooted()
+-  mkdirSync(join(root, FOLDER), { recursive: true })
+-  const undo = reachedFor(root, { name: NAME, folder: FOLDER })
+-  undo?.()
+-  expect(linked(root, NAME)).toBeNull()
+-})
+-
+-test("a link pointing somewhere else is repointed", () => {
+-  const root = rooted()
+-  mkdirSync(join(root, "akasha/was"), { recursive: true })
+-  mkdirSync(join(root, FOLDER), { recursive: true })
+-  symlinkSync("../../akasha/was", join(root, "node_modules", NAME))
+-  reachedFor(root, { name: NAME, folder: FOLDER })
+-  expect(linked(root, NAME)).toBe("../../akasha/held")
+-})
+-
+-test("taking back a repointed link puts the old one back", () => {
+-  const root = rooted()
+-  mkdirSync(join(root, "akasha/was"), { recursive: true })
+-  mkdirSync(join(root, FOLDER), { recursive: true })
+-  symlinkSync("../../akasha/was", join(root, "node_modules", NAME))
+-  const undo = reachedFor(root, { name: NAME, folder: FOLDER })
+-  undo?.()
+-  expect(linked(root, NAME)).toBe("../../akasha/was")
+-})
+-
+-test("repointing a link leaves no half-made link beside it, in either direction", () => {
+-  const root = rooted()
+-  mkdirSync(join(root, "akasha/was"), { recursive: true })
+-  mkdirSync(join(root, FOLDER), { recursive: true })
+-  const beside = `${join(root, "node_modules", NAME)}.${process.pid}.linking`
+-  symlinkSync("../../akasha/was", join(root, "node_modules", NAME))
+-  const undo = reachedFor(root, { name: NAME, folder: FOLDER })
+-
+-  expect(linked(root, NAME)).toBe("../../akasha/held")
+-  expect(existsSync(beside)).toBe(false)
+-  undo?.()
+-  expect(linked(root, NAME)).toBe("../../akasha/was")
+-  expect(existsSync(beside)).toBe(false)
+-})
+-
+-test("a link already pointing at that folder asks for nothing", () => {
+-  const root = rooted()
+-  mkdirSync(join(root, FOLDER), { recursive: true })
+-  symlinkSync("../../akasha/held", join(root, "node_modules", NAME))
+-  expect(reachedFor(root, { name: NAME, folder: FOLDER })).toBeNull()
+-})
+-
+-test("a name already taken by something that is no link is left alone", () => {
+-  const root = rooted()
+-  mkdirSync(join(root, "node_modules", NAME), { recursive: true })
+-  expect(reachedFor(root, { name: NAME, folder: FOLDER })).toBeNull()
+-})
+-
+-test("the folder a link points at is made where it is not there", () => {
+-  const root = rooted()
+-  reachedFor(root, { name: NAME, folder: FOLDER })
+-  expect(existsSync(join(root, FOLDER))).toBe(true)
+-})
+-
+-test("taking back what was made clears the folder it made", () => {
+-  const root = rooted()
+-  const undo = reachedFor(root, { name: NAME, folder: FOLDER })
+-  undo?.()
+-  expect(existsSync(join(root, FOLDER))).toBe(false)
+-})
+-
+-test("a folder holding anything is left as it is", () => {
+-  const root = rooted()
+-  const undo = reachedFor(root, { name: NAME, folder: FOLDER })
+-  mkdirSync(dirname(join(root, FOLDER, "one.ts")), { recursive: true })
+-  writeFileSync(join(root, FOLDER, "one.ts"), "export const one = 1\n")
+-  undo?.()
+-  expect(existsSync(join(root, FOLDER, "one.ts"))).toBe(true)
+-})
+-
+-test("many links are made and taken back together", () => {
+-  const root = rooted()
+-  const undo = reachedOver(root, [
+-    { name: NAME, folder: FOLDER },
+-    { name: "@akasha/kept", folder: "akasha/kept" },
+-  ])
+-  expect(linked(root, "@akasha/kept")).toBe("../../akasha/kept")
+-  undo()
+-  expect(linked(root, NAME)).toBeNull()
+-  expect(linked(root, "@akasha/kept")).toBeNull()
+-})
+diff --git a/command-system/package-linking/package-linking.module.ts b/command-system/package-linking/package-linking.module.ts
+deleted file mode 100644
+index a0f607c119c641e4cce964e803b2f7b1476bcea4..0000000000000000000000000000000000000000
+--- a/command-system/package-linking/package-linking.module.ts
++++ /dev/null
+@@ -1,77 +0,0 @@
+-import type { Module } from "@akasha/code/module"
+-
+-export const packageLinking = {
+-  id: "01a05e70-aa0f-7000-8196-db94598b6c0c",
+-  pageTypeSlug: "module",
+-  slug: "package-linking",
+-  definition:
+-    "the link the workspace reaches a package by, pointed at the folder that package is in",
+-  code: "ts",
+-  test: "ts",
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The workspace reaches a package by the name the package was installed under.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The workspace is reached through a link beside the packages.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A link is spelled from where the link is to the folder the package is in.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A link already pointing at that folder is left as that link is.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A link pointing anywhere else is repointed.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A link arrives by being written beside its place and renamed over that place.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A name resolves to the link that was there or to the link arriving.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A name already taken by something that is no link is left alone.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A folder a link points at is made where that folder is not there.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "A link whose folder is not there resolves nowhere.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "A reader resolving a name races every write of the link that name reaches.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Making a link hands back the call that takes that link back.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Taking a link back takes back every folder made for that link.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A folder holding anything is left as that folder is.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The name a link carries is read off the manifest calling the package that name.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A manifest moving says its package is now where the manifest arrives.",
+-    },
+-  ],
+-} as const satisfies Module
