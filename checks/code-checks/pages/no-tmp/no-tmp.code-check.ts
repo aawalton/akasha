@@ -53,5 +53,9 @@ export const noTmp = {
       invariantKind: "gap",
       statement: "A reach for /tmp through a re-export is not seen.",
     },
+    {
+      invariantKind: "gap",
+      statement: "A reach for /tmp outside TypeScript is not seen.",
+    },
   ],
 } as const satisfies CodeCheck
