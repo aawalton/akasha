@@ -1,0 +1,102 @@
+writerOwesReading: false
+diff --git a/command-system/commands/seat-messaged/seat-messaged.command.code.ts b/command-system/commands/seat-messaged/seat-messaged.command.code.ts
+index 106ddc5cf500cee01fe9c20291a52fce8a243871..2d630c7127d6ffde06d8c68988131bded80dee37 100644
+--- a/command-system/commands/seat-messaged/seat-messaged.command.code.ts
++++ b/command-system/commands/seat-messaged/seat-messaged.command.code.ts
+@@ -1,5 +1,5 @@
+ import { asking } from "@akasha/pages-service/asking"
+-import { keepLastMessagedAt, personaOr } from "@akasha/persona-system/persona-reading"
++import { keepLastMessagedAt, personaOr } from "@akasha/personas/persona-reading"
+ import type { Answer, Given } from "../../calling/calling.module.code.ts"
+ 
+ const SEAT = "seat"
+diff --git a/command-system/commit-author/commit-author.module.code.ts b/command-system/commit-author/commit-author.module.code.ts
+index f0edc8f5cdfc3be86eea7a5d0a1e6232bcf21f28..c9817ff2a1399236e66a505ebb26692f608e750c 100644
+--- a/command-system/commit-author/commit-author.module.code.ts
++++ b/command-system/commit-author/commit-author.module.code.ts
+@@ -1,6 +1,6 @@
+ import { ownRepoRoot } from "@akasha/pages/checkout-roots"
+ import { slugOf } from "@akasha/pages/page-value"
+-import { displayNameOf, personaAt } from "@akasha/persona-system/persona-reading"
++import { displayNameOf, personaAt } from "@akasha/personas/persona-reading"
+ import { seat } from "@akasha/seat-system/seat-page-type"
+ import { pageTextOf } from "@akasha/seat-system/seat-page-values"
+ import { writerIn } from "../reading/reading.module.code.ts"
+diff --git a/person-system/people/email/gmail-mailboxes/gmail-mailbox.page-type.ts b/person-system/people/email/gmail-mailboxes/gmail-mailbox.page-type.ts
+index 3d0420d268752f1b06874fe4faa792cc0928f736..caf30a8526806c2d816f2001c4b48cff615ec080 100644
+--- a/person-system/people/email/gmail-mailboxes/gmail-mailbox.page-type.ts
++++ b/person-system/people/email/gmail-mailboxes/gmail-mailbox.page-type.ts
+@@ -1,6 +1,6 @@
+ import type { Page } from "@akasha/pages/page"
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { EmailAddress } from "@akasha/persona-system/email-address"
++import type { EmailAddress } from "@akasha/personas/email-address"
+ import type { Title } from "../../../../pages/properties/title.text-property.ts"
+ import type { ProcessedMessages } from "./properties/processed-messages.page-property-entry.ts"
+ 
+diff --git a/person-system/people/person.page-type.ts b/person-system/people/person.page-type.ts
+index 0f8c56f37aad5a430d96a4b425fd65f38df245dd..aa2fdee26b625fbcb733a0b2b681ea65fd32eb27 100644
+--- a/person-system/people/person.page-type.ts
++++ b/person-system/people/person.page-type.ts
+@@ -1,6 +1,6 @@
+ import type { Domain } from "@akasha/domains/domain"
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { EmailAddress } from "@akasha/persona-system/email-address"
++import type { EmailAddress } from "@akasha/personas/email-address"
+ import type { AnsweredBy } from "./properties/answered-by.relation-property.ts"
+ import type { Bodyweight } from "./properties/bodyweight.number-property.ts"
+ import type { Phone } from "./properties/phone.phone-number-property.ts"
+diff --git a/personas/package.json b/personas/package.json
+index ecdad2fd3456f932254404e3ef6e0f4da422b790..6d5fb806f6336f89126f349c5608d157cddf205e 100644
+--- a/personas/package.json
++++ b/personas/package.json
+@@ -1,5 +1,5 @@
+ {
+-  "name": "@akasha/persona-system",
++  "name": "@akasha/personas",
+   "private": true,
+   "type": "module",
+   "exports": {
+diff --git a/seat-system/compose-seat-name/compose-seat-name.module.code.ts b/seat-system/compose-seat-name/compose-seat-name.module.code.ts
+index 168f6d8dc15293949cefa453d9e3e41f1df31e49..49c46d59e9b8bba59d12021223fe2e7dda6a2d25 100644
+--- a/seat-system/compose-seat-name/compose-seat-name.module.code.ts
++++ b/seat-system/compose-seat-name/compose-seat-name.module.code.ts
+@@ -1,4 +1,4 @@
+-import { personaAt } from "@akasha/persona-system/persona-reading"
++import { personaAt } from "@akasha/personas/persona-reading"
+ import { answeredByOf, peopleStanding } from "@akasha/persons/person-reading"
+ import { personaIsDefault } from "../seat-resolve/seat-resolve.module.code.ts"
+ 
+diff --git a/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts b/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts
+index 442e17a80860c7eb68810cf4f2ef86d6465a03c9..ef8927522ccf4d7485f7b1d42b71b3ca84f2848e 100644
+--- a/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts
++++ b/seat-system/recipient-resolving/recipient-resolver-running/recipient-resolver-running.module.code.ts
+@@ -1,4 +1,4 @@
+-import { listPersonaSlugs, listPersonaWakeSources } from "@akasha/persona-system/persona-targets"
++import { listPersonaSlugs, listPersonaWakeSources } from "@akasha/personas/persona-targets"
+ import {
+   recipientResolverConfigBanner,
+   resolveRecipientResolverConfig,
+diff --git a/seat-system/seat-resolve/seat-resolve.module.code.ts b/seat-system/seat-resolve/seat-resolve.module.code.ts
+index 1f91675fe7bbaf1efe7ce604f96f4a0a99292b63..eb3efd392a886c7437d3656d99bbf17ff166dcd6 100644
+--- a/seat-system/seat-resolve/seat-resolve.module.code.ts
++++ b/seat-system/seat-resolve/seat-resolve.module.code.ts
+@@ -1,6 +1,6 @@
+ import { domainsRead } from "@akasha/domains/domain-reading"
+ import { slugOf } from "@akasha/pages/page-value"
+-import { personaAt, personasStanding } from "@akasha/persona-system/persona-reading"
++import { personaAt, personasStanding } from "@akasha/personas/persona-reading"
+ import {
+   ATTRIBUTES,
+   type AttributeKey,
+diff --git a/seat-system/terminal-init/document-present/document-present.module.code.ts b/seat-system/terminal-init/document-present/document-present.module.code.ts
+index 184ef68cf3d05b9c9d76fad042d829aea12d8b13..78c6a7e1c2f441d76f0b7d4de49c25fbe83153a4 100644
+--- a/seat-system/terminal-init/document-present/document-present.module.code.ts
++++ b/seat-system/terminal-init/document-present/document-present.module.code.ts
+@@ -1,5 +1,5 @@
+ import { ownRepoRoot } from "@akasha/pages/checkout-roots"
+-import { personasStanding } from "@akasha/persona-system/persona-reading"
++import { personasStanding } from "@akasha/personas/persona-reading"
+ import { peopleStanding } from "@akasha/persons/person-reading"
+ 
+ export const SLUG_MARK = "<slug>"
