@@ -388,10 +388,18 @@ index 8cdf51852d37077566c184c73e4548bf04161753..5f3addb793850dd12076e9ce751ec177
    const landed = await landDayPage("patch", day, attrs, INBOX_WRITER)
    if (!landed.ok) throw new Error(`writing ${DAILY_TRACKING} for ${day}: ${landed.why}`)
 diff --git a/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.ts b/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.ts
-index 0808be3ab04a639dc84d7a74f5ecd871b4a51235..66a93fb97b10af8695ccfba64774355d99ad3e64 100644
+index 0808be3ab04a639dc84d7a74f5ecd871b4a51235..6567d6456aab75963a3c735cca804c0fc7020d07 100644
 --- a/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.ts
 +++ b/alan/harness/inboxes/inbox-count-writing/inbox-count-writing.module.ts
-@@ -36,5 +36,13 @@ export const inboxCountWriting = {
+@@ -6,6 +6,7 @@ export const inboxCountWriting = {
+   slug: "inbox-count-writing",
+   definition: "the counts one poll took, written onto that day's tracking row",
+   code: "ts",
++  test: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+@@ -36,5 +37,13 @@ export const inboxCountWriting = {
        invariantKind: "departure",
        statement: "A read or a write that fails ends the run rather than answering half a reading.",
      },
