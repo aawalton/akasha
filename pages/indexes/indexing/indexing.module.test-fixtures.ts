@@ -311,20 +311,31 @@ export const named = ${HELD_EXPORT} + 1
 
 const CHANGE_TYPE = "change-mechanical"
 
-const CHANGE_CODE_AT = "../../../changes/mechanical/pages"
+const CHANGE_CODE_AT = "../../../changes"
 
-const CHANGE_SLUGS: readonly string[] = [
-  "remove-code-file",
-  "remove-file",
-  "remove-page",
-  "remove-page-file",
-  "remove-property-value",
+type Reached = { readonly slug: string; readonly type: string; readonly at: string }
+
+const CHANGE_SLUGS: readonly Reached[] = [
+  { slug: "remove-file", type: "change-mechanical-file", at: "mechanical/file/remove" },
+  { slug: "remove-file-code", type: "change-mechanical-file", at: "mechanical/file/remove" },
+  { slug: "remove-file-page", type: "change-mechanical-file", at: "mechanical/file/remove" },
+  { slug: "remove-page-type", type: "change-mechanical-folder", at: "mechanical/folder/remove" },
+  {
+    slug: "remove-property-value",
+    type: "change-mechanical-data",
+    at: "mechanical/file-content/remove",
+  },
+  { slug: "remove-page", type: "change-checked", at: "agent/file" },
 ]
 
 const changeId = (one: string): string => `01a04a4a-0001-7000-8000-00000000000${one}`
 
 const REPO_VOCABULARY: readonly Named[] = [
   aType(changeId("0"), CHANGE_TYPE, ["page-type/module"]),
+  aType(changeId("a"), "change-mechanical-file", [`page-type/${CHANGE_TYPE}`]),
+  aType(changeId("b"), "change-mechanical-folder", [`page-type/${CHANGE_TYPE}`]),
+  aType(changeId("c"), "change-mechanical-data", [`page-type/${CHANGE_TYPE}`]),
+  aType(changeId("d"), "change-checked", [`page-type/${CHANGE_TYPE}`]),
   aType(idOf("1"), "page", [], ["id", "slug"]),
   aType(idOf("2"), "page-type", ["page-type/domain"]),
   aType(idOf("3"), "page-property", ["page-type/page"]),
@@ -338,24 +349,26 @@ const REPO_VOCABULARY: readonly Named[] = [
   aProperty(idOf("c"), "part-slugs", "relation-property", { targetPageTypeSlug: "domain" }),
 ]
 
-const changePage = (slug: string, one: number): Held => ({
+const changePage = (reached: Reached, one: number): Held => ({
   id: changeId(String(one + 1)),
-  pageTypeSlug: CHANGE_TYPE,
-  slug,
+  pageTypeSlug: reached.type,
+  slug: reached.slug,
   definition: "a mechanical change an indexed repository carries",
   code: "ts",
 })
 
-const changeCode = (slug: string): string => {
-  const at = join(import.meta.dir, CHANGE_CODE_AT, slug, `${slug}.${CHANGE_TYPE}.code.ts`)
+const changeCode = (reached: Reached): string => {
+  const named = `${reached.slug}.${reached.type}.code.ts`
+  const at = join(import.meta.dir, CHANGE_CODE_AT, reached.at, reached.slug, named)
   return `export { runChange } from "${at}"\n`
 }
 
 function changesHeld(): Readonly<Record<string, string>> {
   const found: Record<string, string> = {}
-  for (const [one, slug] of CHANGE_SLUGS.entries()) {
-    found[`${TREE}/changes/${slug}.${CHANGE_TYPE}.ts`] = pageOf(changePage(slug, one))
-    found[`${TREE}/changes/${slug}.${CHANGE_TYPE}.code.ts`] = changeCode(slug)
+  for (const [one, reached] of CHANGE_SLUGS.entries()) {
+    const named = `${reached.slug}.${reached.type}`
+    found[`${TREE}/changes/${named}.ts`] = pageOf(changePage(reached, one))
+    found[`${TREE}/changes/${named}.code.ts`] = changeCode(reached)
   }
   return found
 }
