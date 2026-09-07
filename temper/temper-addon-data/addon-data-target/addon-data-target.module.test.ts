@@ -4,7 +4,6 @@ import {
   type AddonDataEntriesTarget,
   type AddonDataModuleTarget,
   landsAsEntries,
-  partDigitsOf,
   partSlugsOf,
   targetOf,
 } from "./addon-data-target.module.code.ts"
@@ -40,16 +39,14 @@ test("a single-part target is named by its module slug alone", () => {
 })
 
 test("a part slug is written with no fewer than two digits", () => {
-  expect(partDigitsOf(2)).toBe(2)
-  expect(partDigitsOf(4)).toBe(2)
-  expect(partDigitsOf(100)).toBe(2)
   expect(partSlugsOf(withParts(2))).toEqual(["a-part-00", "a-part-01"])
+  expect(partSlugsOf(withParts(4))[0]).toBe("a-part-00")
+  expect(partSlugsOf(withParts(100))[99]).toBe("a-part-99")
 })
 
 test("a part slug is written with as many digits as the highest index needs", () => {
-  expect(partDigitsOf(101)).toBe(3)
-  expect(partDigitsOf(124)).toBe(3)
-  expect(partDigitsOf(1001)).toBe(4)
+  expect(partSlugsOf(withParts(101))[100]).toBe("a-part-100")
+  expect(partSlugsOf(withParts(1001))[1000]).toBe("a-part-1000")
   const held = partSlugsOf(withParts(124))
   expect(held).toHaveLength(124)
   expect(held[0]).toBe("a-part-000")

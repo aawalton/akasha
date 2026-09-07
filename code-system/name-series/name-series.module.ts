@@ -38,7 +38,7 @@ export const nameSeries = {
     },
     {
       invariantKind: "departure",
-      statement: "A page file already there is left alone and only the code beside is rewritten.",
+      statement: "A file already holding the body rendered is left alone.",
     },
     {
       invariantKind: "absence",

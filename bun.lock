@@ -1220,6 +1220,7 @@
         "@akasha/code": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/pages": "workspace:*",
+        "@akasha/utils-run": "workspace:*",
       },
     },
     "pages/core": {

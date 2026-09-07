@@ -1,3 +1,5 @@
+import { ordinalWidth } from "@akasha/code-system/name-series"
+
 export type AddonDataModuleTarget = {
   readonly rendered: string
   readonly workspacePackage: string
@@ -406,17 +408,13 @@ export function targetOf(rendered: string): AddonDataTarget | undefined {
   return ADDON_DATA_TARGETS.find((one) => one.rendered === rendered)
 }
 
-export function partDigitsOf(parts: number): number {
-  return Math.max(2, String(parts - 1).length)
-}
-
 export function landsAsEntries(target: AddonDataTarget): target is AddonDataEntriesTarget {
   return "pageTypeSlug" in target
 }
 
 export function partSlugsOf(target: AddonDataModuleTarget): readonly string[] {
   if (target.parts === 1) return [target.moduleSlug]
-  const width = partDigitsOf(target.parts)
+  const width = ordinalWidth(target.parts)
   const held: string[] = []
   for (let at = 0; at < target.parts; at += 1) {
     held.push(`${target.partPrefix}-${String(at).padStart(width, "0")}`)

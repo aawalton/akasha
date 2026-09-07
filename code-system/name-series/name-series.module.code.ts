@@ -9,7 +9,6 @@ export const RUN_LINE_BUDGET_BYTES = 13_501
 
 const MODULE_PAGE_TYPE_REL = "code-system/modules/module.page-type.ts"
 
-/** The module page type, reached by the id it keeps rather than by the slug it answers to. */
 const MODULE_PAGE_TYPE = "01a04a20-6e04-7b99-81a0-0efe0ad0a02a"
 
 const encoder = new TextEncoder()
@@ -245,8 +244,47 @@ function holdsBody(root: string, rel: string, body: string): boolean {
   return readFileSync(at, "utf8") === body
 }
 
-function quoted(word: string): string {
+export function quoted(word: string): string {
   return `'${word.replaceAll("'", `'\\''`)}'`
+}
+
+const FENCE = "AKASHA-BODY"
+
+export function removingAt(change: string, rel: string): string {
+  return `printf 'at: %s\\n' ${quoted(rel)} | akasha change ${change}`
+}
+
+function fenced(key: string, at: string, body: string): readonly string[] {
+  const whole = body.endsWith("\n")
+  return [
+    `  printf '${key} ${FENCE}${whole ? "" : " no-newline"}\\n'`,
+    `  cat ${quoted(at)}`,
+    `  printf '${whole ? "" : "\\n"}${FENCE}\\n'`,
+  ]
+}
+
+export function addingFile(rel: string, at: string, body: string): readonly string[] {
+  return [
+    "{",
+    `  printf 'at: %s\\n' ${quoted(rel)}`,
+    ...fenced("body", at, body),
+    "} | akasha change add-file",
+  ]
+}
+
+export function changingFile(
+  rel: string,
+  was: string,
+  at: string,
+  body: string
+): readonly string[] {
+  return [
+    "{",
+    `  printf 'at: %s\\n' ${quoted(rel)}`,
+    ...fenced("old", was, readFileSync(was, "utf8")),
+    ...fenced("new", at, body),
+    "} | akasha change change-file",
+  ]
 }
 
 export function stageSeries(
@@ -262,20 +300,17 @@ export function stageSeries(
     .map((slug) => pageRelOf(spec, slug))
 
   const files: StagedFile[] = []
-  const argv: string[] = []
+  const calls: string[] = []
   const changed: string[] = []
 
   for (const page of pages) {
-    const candidates: readonly (readonly [string, string, boolean])[] = [
-      [page.codeRel, page.code, false],
-      [page.pageRel, page.page, true],
+    const candidates: readonly (readonly [string, string])[] = [
+      [page.codeRel, page.code],
+      [page.pageRel, page.page],
     ]
-    for (const [rel, body, isPage] of candidates) {
-      const there = existsSync(resolve(root, rel))
-      if (isPage && there) {
-        files.push({ rel, at: null, alreadyThere: true })
-        continue
-      }
+    for (const [rel, body] of candidates) {
+      const was = resolve(root, rel)
+      const there = existsSync(was)
       if (holdsBody(root, rel, body)) {
         files.push({ rel, at: null, alreadyThere: true })
         continue
@@ -285,23 +320,25 @@ export function stageSeries(
       writeFileSync(at, body)
       files.push({ rel, at, alreadyThere: there })
       changed.push(rel)
-      argv.push("--file-path", rel, "--content-file", at)
+      calls.push(...(there ? changingFile(rel, was, at, body) : addingFile(rel, at, body)))
     }
   }
 
-  for (const rel of goneRels) argv.push("--remove", rel)
+  for (const rel of goneRels) calls.push(removingAt("remove-page", rel))
 
-  if (argv.length === 0) return { files, goneRels, changed, landAt: null }
+  if (calls.length === 0) return { files, goneRels, changed, landAt: null }
 
   const messageAt = join(stage, "message.txt")
   mkdirSync(dirname(messageAt), { recursive: true })
   writeFileSync(messageAt, `${message}\n`)
-  argv.push("--message-file", messageAt)
 
   const landAt = join(stage, "land.sh")
-  writeFileSync(
-    landAt,
-    `#!/usr/bin/env bash\nset -euo pipefail\nakasha write \\\n  ${argv.map(quoted).join(" \\\n  ")}\n`
-  )
+  const script = [
+    "#!/usr/bin/env bash",
+    "set -euo pipefail",
+    ...calls,
+    `akasha apply --message-file ${quoted(messageAt)}`,
+  ]
+  writeFileSync(landAt, `${script.join("\n")}\n`)
   return { files, goneRels, changed, landAt }
 }

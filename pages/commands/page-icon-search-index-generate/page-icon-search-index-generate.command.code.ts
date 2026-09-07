@@ -1,7 +1,8 @@
-import { spawnSync } from "node:child_process"
 import { existsSync, mkdirSync, mkdtempSync, realpathSync, rmSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
+import { quoted } from "@akasha/code/name-series"
 import type { Answer, Given } from "@akasha/command-system/calling"
+import { ran } from "@akasha/utils-run/running"
 import {
   AGGREGATE,
   bytesIn,
@@ -20,7 +21,6 @@ const STAGE = "--stage"
 
 const VALUED: readonly string[] = [CODE_ROOT, STAGE]
 
-/** The release the icons are read from. Bumping this is the whole point of a run. */
 const LUCIDE_TAG = "0.576.0"
 
 const LUCIDE_REPO = "https://github.com/lucide-icons/lucide"
@@ -63,10 +63,6 @@ export function wordsIn(argv: readonly string[]): Reading {
   return refusals.length > 0 ? { refused: refusals } : { named }
 }
 
-export function quoted(word: string): string {
-  return `'${word.replaceAll("'", `'\\''`)}'`
-}
-
 async function fetched(
   into: string
 ): Promise<{ readonly icons: string } | { readonly why: string }> {
@@ -88,9 +84,9 @@ async function fetched(
     return { why: thrown instanceof Error ? thrown.message : String(thrown) }
   }
   await Bun.write(tarball, bytes)
-  const unpacked = spawnSync("tar", ["xzf", tarball, "-C", into])
-  if (unpacked.status !== 0) {
-    return { why: `the lucide ${LUCIDE_TAG} tarball would not unpack: ${String(unpacked.stderr)}` }
+  const unpacked = ran(["tar", "xzf", tarball, "-C", into])
+  if (unpacked.code !== 0) {
+    return { why: `the lucide ${LUCIDE_TAG} tarball would not unpack: ${unpacked.err}` }
   }
   const icons = join(into, `lucide-${LUCIDE_TAG}`, "icons")
   if (!existsSync(icons)) {
@@ -99,8 +95,6 @@ async function fetched(
   return { icons }
 }
 
-/** Writes the bodies into the staging folder and the script that lands them. Nothing under
- *  `akasha/` is touched: a body reaches there through `akasha write` alone. */
 function staged(
   stage: string,
   root: string,
@@ -119,8 +113,6 @@ function staged(
       argv.push("--file-path", at, "--content-file", into)
     }
   }
-  // A removed page carries the files standing beside it, so naming the page file takes the
-  // code body with it and empties the folder.
   for (const slug of gone) argv.push("--remove", pageAtOf(slug))
 
   const messageAt = join(stage, "message.txt")
@@ -136,8 +128,6 @@ function staged(
   return landAt
 }
 
-/** The staging folder is left standing after this returns, because the `akasha write` call
- *  that lands what is in it is made afterwards by whoever ran this. */
 function stagingAt(named: string | undefined): string {
   if (named === undefined) return mkdtempSync(join(realpathSync(SCRATCH_UNDER), STAGE_PREFIX))
   mkdirSync(named, { recursive: true })
