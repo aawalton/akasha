@@ -1,6 +1,6 @@
 import type { PageType } from "@akasha/pages/page-type"
-import type { EmailRuleJudgement } from "../../../../../persons/people/email/rules/agents/properties/email-rule-judgement.text-property.ts"
 import type { EmailRule } from "../email-rule.page-type.ts"
+import type { EmailRuleJudgement } from "./properties/email-rule-judgement.text-property.ts"
 
 export type EmailRuleAgent = EmailRule & {
   judgement: EmailRuleJudgement

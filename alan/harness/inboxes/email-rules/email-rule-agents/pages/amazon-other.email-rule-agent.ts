@@ -1,4 +1,4 @@
-import type { EmailRuleAgent } from "../../../../../../person-system/people/email/rules/agents/email-rule-agent.page-type.ts"
+import type { EmailRuleAgent } from "../../../../../../persons/people/email/rules/agents/email-rule-agent.page-type.ts"
 
 export const amazonOther = {
   id: "01a06863-fbe8-7f83-99bc-93eecc2a6180",

@@ -1,4 +1,4 @@
-import type { EmailRuleAgent } from "../../../../../../person-system/people/email/rules/agents/email-rule-agent.page-type.ts"
+import type { EmailRuleAgent } from "../../../../../../persons/people/email/rules/agents/email-rule-agent.page-type.ts"
 
 export const todoistOther = {
   id: "01a06863-fbe9-78c1-8ffa-abf5582ccf42",
