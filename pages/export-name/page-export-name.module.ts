@@ -23,8 +23,11 @@ export const pageExportName = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A name opening with a digit is no identifier, so the slug making that name is at fault.",
+      statement: "A name opening with a digit is no identifier.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The slug making such a name is at fault.",
     },
     {
       invariantKind: "departure",
@@ -33,7 +36,11 @@ export const pageExportName = {
     },
     {
       invariantKind: "departure",
-      statement: "A word reserved only under strict mode is kept too, because a page is a module.",
+      statement: "A word reserved only under strict mode is kept too.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A page is a module.",
     },
     {
       invariantKind: "departure",
@@ -45,7 +52,7 @@ export const pageExportName = {
     },
     {
       invariantKind: "absence",
-      statement: "Nothing here reaches a page, an index or a change.",
+      statement: "Nothing here reaches a page or an index or a change.",
     },
   ],
 } as const satisfies Module
