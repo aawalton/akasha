@@ -103,6 +103,7 @@ export type Kept = {
   readonly root: string
   readonly base: (path: string) => string | null
   readonly bodies: Map<string, string | null>
+  readonly stated: Map<string, Edit[]>
   over: Answer
   index: Answering | null
 }
@@ -122,6 +123,7 @@ export function ledgerAt(
     root,
     base: textOf,
     bodies: new Map<string, string | null>(),
+    stated: new Map<string, Edit[]>(),
     over: NOTHING_OVER,
     index: null,
   }
@@ -148,13 +150,26 @@ export function ledgerAt(
   }
 }
 
+export function statedIn(kept: Kept, edit: Edit): boolean {
+  const before = kept.stated.get(edit.path)
+  if (before === undefined) return false
+  return before.some(
+    (one) => one.was === edit.was && one.body === edit.body && one.from === edit.from
+  )
+}
+
 export function addedTo(ledger: Ledger, said: Answer): Ledger {
   const kept = ledger.kept
-  for (const one of said.edits) {
+  const fresh = said.edits.filter((one) => !statedIn(kept, one))
+  if (fresh.length === 0) return ledger
+  for (const one of fresh) {
+    const before = kept.stated.get(one.path)
+    if (before === undefined) kept.stated.set(one.path, [one])
+    else before.push(one)
     if (one.from !== undefined) kept.bodies.set(one.from, null)
   }
-  for (const one of said.edits) kept.bodies.set(one.path, one.body)
-  kept.over = gathered([kept.over, said])
+  for (const one of fresh) kept.bodies.set(one.path, one.body)
+  kept.over = gathered([kept.over, { edits: fresh, refused: null }])
   kept.index = null
   return ledger
 }

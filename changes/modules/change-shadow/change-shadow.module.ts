@@ -134,5 +134,14 @@ export const changeShadow = {
       invariantKind: "departure",
       statement: "A reach that refuses adds nothing to the ledger.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A ledger adds an edit that ledger already added no second time.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A reach inside a change states an edit the reach around that change states again.",
+    },
   ],
 } as const satisfies Module
