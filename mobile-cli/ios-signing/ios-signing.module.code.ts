@@ -87,6 +87,7 @@ CERT_SHA1 = (ARGV[0] || "").downcase.gsub(/[^0-9a-f]/, "")
 OUT = ARGV[1] or abort("no uuid out file")
 KEY_PATH = File.expand_path("~/.appstoreconnect/private_keys/AuthKey_#{KEY_ID}.p8")
 def fail_kc(m); puts "SIGNING_KEYCHAIN_ERROR: #{m}"; exit 1; end
+def fail_asc(m); puts "ASC_PROFILE_ERROR: #{m}"; exit 1; end
 def deny!(d); puts "ASC_PERMISSION_DENIED: #{d}"; exit 1; end
 fail_kc("ASC key .p8 missing on the mac") unless File.exist?(KEY_PATH)
 def b64u(s); Base64.urlsafe_encode64(s).delete("="); end
@@ -105,7 +106,7 @@ def api(method, path, body = nil)
   [res.code, (res.body.nil? || res.body.empty? ? {} : JSON.parse(res.body))]
 end
 code, certs = api("GET", "/v1/certificates?limit=200")
-fail_kc("cannot list certificates (#{code})") unless code == "200"
+fail_asc("cannot list certificates (#{code})") unless code == "200"
 cert = (certs["data"] || []).find do |c|
   next false unless (c.dig("attributes","certificateType") || "").include?("DISTRIBUTION")
   content = c.dig("attributes","certificateContent"); next false unless content
@@ -117,14 +118,14 @@ code, bids = api("GET", "/v1/bundleIds?limit=200")
 bid = (bids["data"] || []).find { |b| b.dig("attributes","identifier") == BUNDLE }
 unless bid
   code, created = api("POST", "/v1/bundleIds", {data:{type:"bundleIds",attributes:{identifier:BUNDLE,name:BUNDLE.gsub(".", " "),platform:"IOS"}}})
-  fail_kc("cannot register bundle id (#{code})") unless code == "201"
+  fail_asc("cannot register bundle id (#{code})") unless code == "201"
   bid = created["data"]
 end
 bid_id = bid["id"]
 caps_new = false
 (ENV["ASC_ENSURE_CAPABILITIES"] || "").split(",").map(&:strip).reject(&:empty?).each do |cap|
   code, _ = api("POST", "/v1/bundleIdCapabilities", {data:{type:"bundleIdCapabilities",attributes:{capabilityType:cap},relationships:{bundleId:{data:{type:"bundleIds",id:bid_id}}}}})
-  fail_kc("cannot enable #{cap} capability (#{code})") unless code == "201" || code == "409"
+  fail_asc("cannot enable #{cap} capability (#{code})") unless code == "201" || code == "409"
   caps_new = true if code == "201"
 end
 code, profs = api("GET", "/v1/profiles?limit=200&include=bundleId,certificates")
@@ -140,14 +141,23 @@ end
 match = nil if caps_new
 unless match
   mine.each { |p| api("DELETE", "/v1/profiles/#{p["id"]}") }
-  code, created = api("POST", "/v1/profiles", {data:{type:"profiles",attributes:{name:PROFILE_NAME,profileType:"IOS_APP_STORE"},relationships:{bundleId:{data:{type:"bundleIds",id:bid_id}},certificates:{data:[{type:"certificates",id:cert_id}]}}}})
-  fail_kc("cannot create app-store profile (#{code})") unless code == "201"
-  match = created["data"]
+  made = nil
+  3.times do |attempt|
+    code, created = api("POST", "/v1/profiles", {data:{type:"profiles",attributes:{name:PROFILE_NAME,profileType:"IOS_APP_STORE"},relationships:{bundleId:{data:{type:"bundleIds",id:bid_id}},certificates:{data:[{type:"certificates",id:cert_id}]}}}})
+    if code == "201"
+      made = created
+      break
+    end
+    fail_asc("cannot create app-store profile (#{code})") if code.to_i < 500
+    sleep(2 * (attempt + 1))
+  end
+  fail_asc("App Store Connect would not make the app-store profile in three tries") unless made
+  match = made["data"]
 end
 code, full = api("GET", "/v1/profiles/#{match["id"]}")
 a = full.dig("data","attributes") || {}
 uuid = a["uuid"]; content = a["profileContent"]
-fail_kc("ensured profile has no uuid/content") unless uuid && content
+fail_asc("ensured profile has no uuid/content") unless uuid && content
 dir = File.expand_path("~/Library/MobileDevice/Provisioning Profiles"); FileUtils.mkdir_p(dir)
 File.binwrite("#{dir}/#{uuid}.mobileprovision", Base64.decode64(content))
 File.write(OUT, uuid)
