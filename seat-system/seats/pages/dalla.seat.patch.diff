@@ -1,0 +1,20 @@
+writerOwesReading: false
+diff --git a/pages/indexes/indexing/indexing.module.test-fixtures.ts b/pages/indexes/indexing/indexing.module.test-fixtures.ts
+index d3bcadf406b8a2afe27ae28602bb9afbdbe3cd25..51cbb23360727f53d62d60c731f1e22b9af634b2 100644
+--- a/pages/indexes/indexing/indexing.module.test-fixtures.ts
++++ b/pages/indexes/indexing/indexing.module.test-fixtures.ts
+@@ -270,7 +270,13 @@ const CHANGE_TYPE = "change-mechanical"
+ 
+ const CHANGE_CODE_AT = "../../../changes/mechanical/pages"
+ 
+-const CHANGE_SLUGS: readonly string[] = ["remove-file", "remove-page", "remove-property-value"]
++const CHANGE_SLUGS: readonly string[] = [
++  "remove-code-file",
++  "remove-file",
++  "remove-page",
++  "remove-page-file",
++  "remove-property-value",
++]
+ 
+ const changeId = (one: string): string => `01a04a4a-0001-7000-8000-00000000000${one}`
+ 
