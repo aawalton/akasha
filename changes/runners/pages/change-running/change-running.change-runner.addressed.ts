@@ -5,6 +5,9 @@ export type Changes = {
   "change-authored/change-file": Parameters<
     typeof import("../../../authored/pages/change-file/change-file.change-authored.code.ts")["runChange"]
   >[1]
+  "change-checked/add-property-value": Parameters<
+    typeof import("../../../checked/pages/add-property-value/add-property-value.change-checked.code.ts")["runChange"]
+  >[1]
   "change-checked/change-page-page-type": Parameters<
     typeof import("../../../checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts")["runChange"]
   >[1]
@@ -19,6 +22,9 @@ export type Changes = {
   >[1]
   "change-checked/remove-page-type": Parameters<
     typeof import("../../../checked/pages/remove-page-type/remove-page-type.change-checked.code.ts")["runChange"]
+  >[1]
+  "change-checked/remove-property-value": Parameters<
+    typeof import("../../../checked/pages/remove-property-value/remove-property-value.change-checked.code.ts")["runChange"]
   >[1]
   "change-checked/rename-code-token": Parameters<
     typeof import("../../../checked/pages/rename-code-token/rename-code-token.change-checked.code.ts")["runChange"]

@@ -45,6 +45,16 @@ export function statedIn(source: ts.SourceFile): ReadonlyMap<string, ts.StringLi
   return held === null ? new Map() : textsOf(held)
 }
 
+export function manyIn(source: ts.SourceFile, key: string): boolean {
+  const held = literalIn(source)
+  if (held === null) return false
+  for (const one of held.properties) {
+    if (!ts.isPropertyAssignment(one) || keyOf(one) !== key) continue
+    return ts.isArrayLiteralExpression(one.initializer)
+  }
+  return false
+}
+
 export function restated(path: string, text: string, key: string, to: string): Answer {
   const source = parsedAs(path, text)
   const held = statedIn(source).get(key)

@@ -1,3 +1,5 @@
+import { parsedAs } from "@akasha/code/code-source"
+import { manyIn } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
 import {
   readFor,
   targetsIn,
@@ -28,6 +30,12 @@ export async function changePageProperty(
 ): Promise<Answer> {
   const read = readFor(world, given.at)
   if ("refused" in read) return refusing(`${read.refused}, so no property is stated`)
+  const text = world.textOf(given.at)
+  if (text !== null && manyIn(parsedAs(given.at, text), given.key)) {
+    return refusing(
+      `\`${given.key}\` holds many values, which \`add-property-value\` and \`remove-property-value\` change`
+    )
+  }
   if (targetsIn(read.known, read.value, given.key).length > 0) {
     return await reach(world, CHANGE_PAGE_PROPERTY_RELATION, given)
   }

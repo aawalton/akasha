@@ -33,8 +33,13 @@ export const changePageProperty = {
       statement: "Nothing here works out a body of its own.",
     },
     {
-      invariantKind: "gap",
-      statement: "A key holding a list rather than text is stated anew.",
+      invariantKind: "departure",
+      statement: "A key holding many values is refused here.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The refusal for many values names the changes putting a value in and taking a value out.",
     },
   ],
 } as const satisfies ChangeChecked

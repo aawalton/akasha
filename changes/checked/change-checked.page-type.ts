@@ -15,11 +15,13 @@ export const changeChecked = {
   pluralSlug: "change-checked",
   extendsSlug: ["page-type/change"],
   partSlugs: [
+    "change-checked/add-property-value",
     "change-checked/change-page-page-type",
     "change-checked/change-page-property",
     "change-checked/move-page",
     "change-checked/remove-page",
     "change-checked/remove-page-type",
+    "change-checked/remove-property-value",
     "change-checked/rename-code-token",
     "change-checked/rename-page",
   ],
