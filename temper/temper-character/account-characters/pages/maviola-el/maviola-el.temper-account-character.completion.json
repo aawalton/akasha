@@ -958,6 +958,7 @@
     6381,
     6382,
     6384,
+    6393,
     6394,
     6399,
     6401,
@@ -5446,6 +5447,9 @@
       "34": {
         "1": 64,
         "2": 26
+      },
+      "38": {
+        "1": 1
       }
     }
   },
@@ -6917,8 +6921,8 @@
     "groupDungeonTotal": 26,
     "tutorial": 0,
     "skyshardPoints": 176,
-    "unassigned": 146,
-    "zoneQuestTotal": 104,
+    "unassigned": 147,
+    "zoneQuestTotal": 105,
     "publicDungeons": {
       "EP4": 1,
       "AD1": 1,
@@ -7073,7 +7077,7 @@
       "CY": 0,
       "AD1": 3,
       "IC": 0,
-      "SE": 6,
+      "SE": 7,
       "AD0": 0,
       "CH": 3,
       "TD": 0,
@@ -7114,7 +7118,7 @@
       "AP": 8,
       "GY": 0
     },
-    "total": 434,
+    "total": 435,
     "maelstromArena": 1
   },
   "traitResearch": {
