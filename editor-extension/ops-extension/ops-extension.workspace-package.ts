@@ -18,7 +18,7 @@ export const opsExtension = {
     },
     {
       invariantKind: "departure",
-      statement: "A panel, a command, a menu and a color are stated in the manifest.",
+      statement: "A panel and a command and a menu and a color are stated in the manifest.",
     },
     {
       invariantKind: "departure",
