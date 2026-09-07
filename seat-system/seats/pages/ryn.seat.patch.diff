@@ -22,3 +22,26 @@ index 2d803d262f4886ba54e3cda478b19b60d69d5851..f8fd996a948b2ed98713e26320ac7e93
    }
    const [parser, relations] = await Promise.all([
      ort.InferenceSession.create(files.parserWeights, sessionOptions),
+diff --git a/domains/plain-language/onnx-parsing/onnx-parsing.module.ts b/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
+index fe9019b13958619af5523b91b28185847e1df248..6851b94ee61d9d7a888942c0b08fc09ea4556d2e 100644
+--- a/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
++++ b/domains/plain-language/onnx-parsing/onnx-parsing.module.ts
+@@ -23,6 +23,18 @@ export const onnxParsing = {
+       invariantKind: "departure",
+       statement: "A batch holds sixteen sentences unless the caller says otherwise.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A sentence is parsed on a single thread unless the caller states a thread count.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The model runs slower across every core than on a single thread.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A thread beyond the first costs more time than that thread saves.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A tensor is disposed of whether the run answers or throws.",
