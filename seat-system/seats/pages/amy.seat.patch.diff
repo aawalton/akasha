@@ -41,6 +41,29 @@ index cf2741668d6a0c2bf7e6cac8cfd256f9c7294232..9b0e4504abaf16601cac2bed3227fb5d
 +    },
 +  ],
  } as const satisfies Module
+diff --git a/alan/web/routes/api.pages.$pageTypeSlug.ts b/alan/web/routes/api.pages.$pageTypeSlug.ts
+index 8ce040185521ec9176b9035a7b2af76aba2a2447..d1558271074f3fea985bf192108b560b75acaf7c 100644
+--- a/alan/web/routes/api.pages.$pageTypeSlug.ts
++++ b/alan/web/routes/api.pages.$pageTypeSlug.ts
+@@ -1,10 +1,13 @@
+ import { answerPages } from "../.server/alan-answer-pages/alan-answer-pages.module.code.ts"
++import {
++  capacitorCorsHeaders,
++  corsAnswered,
++  corsPreflight,
++} from "../capacitor-cors/capacitor-cors.module.code.ts"
+ import type { Route } from "./+types/api.pages.$pageTypeSlug"
+ 
+-// `loader` is this module's only export on purpose. React Router strips just
+-// `loader`, `action`, `middleware` and `headers`; anything else exported here
+-// would hold `answer-pages.server` — and the service-role client it reaches —
+-// into the client bundle.
+ export async function loader({ request, params }: Route.LoaderArgs): Promise<Response> {
+-  return answerPages(request, params.pageTypeSlug)
++  const cors = capacitorCorsHeaders(request, "GET, OPTIONS")
++  if (request.method === "OPTIONS") return corsPreflight(cors)
++  return corsAnswered(await answerPages(request, params.pageTypeSlug), cors)
+ }
 diff --git a/code-system/router-apps/router-app.page-type.ts b/code-system/router-apps/router-app.page-type.ts
 index 557b7e91097d6ec35493e1c019bc0df904f752d1..477025ed6e7bfc75d5c5e43f56fe26ff3330b6a4 100644
 --- a/code-system/router-apps/router-app.page-type.ts
