@@ -6,6 +6,7 @@ export const filePropertyDefs = {
   slug: "file-property-defs",
   definition: "the property definitions a file-backed page type declares",
   code: "ts",
+  test: "ts",
   invariants: [
     {
       invariantKind: "departure",
@@ -36,6 +37,18 @@ export const filePropertyDefs = {
       invariantKind: "departure",
       statement:
         "A definition's type is how a value is rendered rather than the page type declaring that property.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every property page type is named here beside the type a screen draws.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A property page type named nowhere here is rendered as text.",
+    },
+    {
+      invariantKind: "absence",
+      statement: "No type a screen has no drawing for leaves here.",
     },
   ],
 } as const satisfies Module
