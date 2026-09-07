@@ -1,0 +1,26 @@
+diff --git a/bun.lock b/bun.lock
+index 80668dfffd60eb275e2a78b87d5013d869cd99d9..5b2a9bba49cbd461d93e8eab912313fec70e619d 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -1560,6 +1560,8 @@
+     "temper/temper-addon-data": {
+       "name": "@akasha/temper-addon-data",
+       "dependencies": {
++        "@akasha/code": "workspace:*",
++        "@akasha/code-system": "workspace:@akasha/code@*",
+         "@akasha/pages": "workspace:*",
+         "@akasha/pages-access": "workspace:*",
+         "@akasha/pages-query": "workspace:*",
+diff --git a/temper/temper-addon-data/package.json b/temper/temper-addon-data/package.json
+index 96b2077ab442dc8fa5f0b45cdfe5363b683771f8..d0b6f8925d372ef8746c5cfbd111ac03d673d315 100644
+--- a/temper/temper-addon-data/package.json
++++ b/temper/temper-addon-data/package.json
+@@ -52,6 +52,8 @@
+     "./validate-equipment-mappings": "./validate-equipment-mappings/validate-equipment-mappings.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/code": "workspace:*",
++    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/pages-access": "workspace:*",
+     "@akasha/pages-query": "workspace:*",
+     "@akasha/pages": "workspace:*",
