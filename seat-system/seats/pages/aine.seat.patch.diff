@@ -326,23 +326,19 @@ index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..195f683b0482411431aa460a839f7e11
    expect(codeOf(shadowFor(carriedOver(repo)))(inside("fresh.ts"))).toBe(null)
  })
 diff --git a/pages/shadow/shadow.module.ts b/pages/shadow/shadow.module.ts
-index 4b05380b2eae65b112b87d2d2d83df4e956ac3fa..ca2d93c9092c2402b2c18102710e67cfa890e9ea 100644
+index 4b05380b2eae65b112b87d2d2d83df4e956ac3fa..582127a9c06b4186ef119117633992e0dc9707f3 100644
 --- a/pages/shadow/shadow.module.ts
 +++ b/pages/shadow/shadow.module.ts
-@@ -80,8 +80,12 @@ export const shadow = {
-     },
+@@ -81,7 +81,7 @@ export const shadow = {
      {
        invariantKind: "departure",
-+<<<<<<< what this change would leave
-+      statement: "A caller setting that index up elsewhere writes what the change files.",
-+=======
        statement:
-         "A caller standing that index up elsewhere writes the entry files the change files.",
-+>>>>>>> what HEAD holds
+-        "A caller standing that index up elsewhere writes the entry files the change files.",
++        "A caller setting that index up elsewhere writes the entry files the change files.",
      },
      {
        invariantKind: "departure",
-@@ -94,11 +98,11 @@ export const shadow = {
+@@ -94,11 +94,11 @@ export const shadow = {
      },
      {
        invariantKind: "departure",
@@ -356,7 +352,7 @@ index 4b05380b2eae65b112b87d2d2d83df4e956ac3fa..ca2d93c9092c2402b2c18102710e67cf
      },
      {
        invariantKind: "departure",
-@@ -106,7 +110,7 @@ export const shadow = {
+@@ -106,7 +106,7 @@ export const shadow = {
      },
      {
        invariantKind: "departure",
@@ -365,7 +361,7 @@ index 4b05380b2eae65b112b87d2d2d83df4e956ac3fa..ca2d93c9092c2402b2c18102710e67cf
      },
      {
        invariantKind: "departure",
-@@ -120,7 +124,7 @@ export const shadow = {
+@@ -120,7 +120,7 @@ export const shadow = {
      {
        invariantKind: "departure",
        statement:
