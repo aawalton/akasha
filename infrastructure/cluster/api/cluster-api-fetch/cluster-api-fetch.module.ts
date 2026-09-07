@@ -18,7 +18,7 @@ export const clusterApiFetch = {
     {
       invariantKind: "departure",
       statement:
-        "A refusal names the call, the HTTP code and whatever body came back with that code.",
+        "A refusal names the call and the HTTP code and whatever body came back with that code.",
     },
     {
       invariantKind: "absence",
