@@ -1,11 +1,25 @@
 import { expect, test } from "bun:test"
 import type { Shaped } from "@akasha/indexes/reaching"
 import type { Value } from "@akasha/pages/page-value"
+import { runChange as changeValue } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
+import { runChange as changeRelation } from "../../../mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.code.ts"
+import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
+  type Reaching,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { changePageProperty, runChange } from "./change-page-property.change-checked.code.ts"
+
+const RUNS: Reaching = async (world, at, given) => {
+  if (at === "change-mechanical/change-page-property") {
+    return changeValue(world, given as Parameters<typeof changeValue>[1])
+  }
+  if (at === "change-mechanical/change-page-property-relation") {
+    return await changeRelation(world, given as Parameters<typeof changeRelation>[1])
+  }
+  return refusing(`\`${at}\` is reached by nothing here`)
+}
 
 const AT = "seat-system/seats/pages/held.seat.ts"
 
@@ -37,13 +51,14 @@ function worldTold(slug: string | null, target: string | null): World {
     index: { knownIn: () => known, pageAt: () => PAGE } as never,
     textOf: () => BODY,
     over: NOTHING_OVER,
+    reaching: RUNS,
   }
 }
 
-test("a key naming a relation is handed to the change for a relation", () => {
+test("a key naming a relation is handed to the change for a relation", async () => {
   const world = worldTold("assignment-slug", "initiative")
 
-  const said = changePageProperty(world, {
+  const said = await changePageProperty(world, {
     at: AT,
     key: "assignmentSlug",
     to: "initiative/nope",
@@ -53,18 +68,41 @@ test("a key naming a relation is handed to the change for a relation", () => {
   expect(said.refused ?? "").toMatch(/names a relation, and/)
 })
 
-test("a key naming no relation is stated anew with no page reached", () => {
+test("a key naming no relation is stated anew with no page reached", async () => {
   const world = worldTold("slug", null)
 
-  const said = changePageProperty(world, { at: AT, key: "slug", to: "other" })
+  const said = await changePageProperty(world, { at: AT, key: "slug", to: "other" })
 
   expect(said.refused).toBeNull()
   expect(said.edits[0]?.body ?? "").toContain(`slug: "other"`)
 })
 
-test("an argument this change was handed no value for is refused by the key", () => {
-  const said = runChange(worldTold("slug", null), { key: "slug" })
+test("an argument this change was handed no value for is refused by the key", async () => {
+  const said = await runChange(worldTold("slug", null), { key: "slug" })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/`at` names what this change is handed/)
+})
+
+test("each key is handed to the change reached at the address that key names", async () => {
+  const reached: string[] = []
+  const seeing = (slug: string, target: string | null): World => ({
+    ...worldTold(slug, target),
+    reaching: (_world, at) => {
+      reached.push(at)
+      return Promise.resolve(NOTHING_OVER)
+    },
+  })
+
+  await changePageProperty(seeing("assignment-slug", "initiative"), {
+    at: AT,
+    key: "assignmentSlug",
+    to: "initiative/found",
+  })
+  await changePageProperty(seeing("slug", null), { at: AT, key: "slug", to: "other" })
+
+  expect(reached).toEqual([
+    "change-mechanical/change-page-property-relation",
+    "change-mechanical/change-page-property",
+  ])
 })

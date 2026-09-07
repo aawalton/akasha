@@ -1,11 +1,23 @@
 import { expect, test } from "bun:test"
 import type { Shaped } from "@akasha/indexes/reaching"
 import type { Value } from "@akasha/pages/page-value"
+import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
+  type Reaching,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical.code.ts"
 import { changePagePropertyRelation } from "./change-page-property-relation.change-mechanical.code.ts"
+
+const RUNS: Reaching = (world, at, given) => {
+  if (at === "change-mechanical/change-page-property") {
+    return Promise.resolve(
+      changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+    )
+  }
+  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+}
 
 const AT = "seat-system/seats/pages/held.seat.ts"
 
@@ -44,24 +56,25 @@ function worldTold(told: Told): World {
     index: { knownIn: () => known, pageAt: () => ("page" in told ? told.page : PAGE) } as never,
     textOf: () => BODY,
     over: NOTHING_OVER,
+    reaching: RUNS,
   }
 }
 
 const ASKED = { at: AT, key: "assignmentSlug", to: "initiative/found" }
 
-test("a key naming no relation is refused", () => {
+test("a key naming no relation is refused", async () => {
   const world = worldTold({ slug: "purpose", target: null, found: [] })
 
-  const said = changePagePropertyRelation(world, { ...ASKED, key: "purpose" })
+  const said = await changePagePropertyRelation(world, { ...ASKED, key: "purpose" })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/names no relation/)
 })
 
-test("a value naming no page is refused in the words the checks use", () => {
+test("a value naming no page is refused in the words the checks use", async () => {
   const world = worldTold({ slug: "assignment-slug", target: "initiative", found: [] })
 
-  const said = changePagePropertyRelation(world, { ...ASKED, to: "initiative/nope" })
+  const said = await changePagePropertyRelation(world, { ...ASKED, to: "initiative/nope" })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toBe(
@@ -69,24 +82,24 @@ test("a value naming no page is refused in the words the checks use", () => {
   )
 })
 
-test("a value reaching a page is handed to the change stating one key anew", () => {
+test("a value reaching a page is handed to the change stating one key anew", async () => {
   const world = worldTold({
     slug: "assignment-slug",
     target: "initiative",
     found: [{ path: "one.initiative.ts", id: ID }],
   })
 
-  const said = changePagePropertyRelation(world, ASKED)
+  const said = await changePagePropertyRelation(world, ASKED)
 
   expect(said.refused).toBeNull()
   expect(said.edits).toHaveLength(1)
   expect(said.edits[0]?.body ?? "").toContain(`assignmentSlug: "initiative/found"`)
 })
 
-test("a path the world names no page at is refused", () => {
+test("a path the world names no page at is refused", async () => {
   const world = worldTold({ slug: "assignment-slug", target: "initiative", found: [], page: null })
 
-  const said = changePagePropertyRelation(world, ASKED)
+  const said = await changePagePropertyRelation(world, ASKED)
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toMatch(/names no page/)

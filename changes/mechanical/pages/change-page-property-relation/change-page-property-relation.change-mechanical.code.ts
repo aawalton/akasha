@@ -3,8 +3,9 @@ import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical.code.ts"
+import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+
+const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
 
 export type ChangePagePropertyRelationAsked = {
   readonly at: string
@@ -39,10 +40,10 @@ export function readFor(world: World, at: string): Read {
   return { known, value }
 }
 
-export function changePagePropertyRelation(
+export async function changePagePropertyRelation(
   world: World,
   given: ChangePagePropertyRelationAsked
-): Answer {
+): Promise<Answer> {
   const read = readFor(world, given.at)
   if ("refused" in read) return refusing(`${read.refused}, so no relation is stated`)
   const targets = targetsIn(read.known, read.value, given.key)
@@ -51,9 +52,12 @@ export function changePagePropertyRelation(
   if ("refused" in reached) {
     return refusing(`\`${given.key}\` names a relation, and ${reached.refused}`)
   }
-  return changePageProperty(world, given)
+  return await reach(world, CHANGE_PAGE_PROPERTY, given)
 }
 
-export function runChange(world: World, given: ChangePagePropertyRelationAsked): Answer {
-  return changePagePropertyRelation(world, given)
+export async function runChange(
+  world: World,
+  given: ChangePagePropertyRelationAsked
+): Promise<Answer> {
+  return await changePagePropertyRelation(world, given)
 }
