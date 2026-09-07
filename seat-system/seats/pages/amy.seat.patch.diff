@@ -1,0 +1,31 @@
+writerOwesReading: false
+diff --git a/code-system/ios-components/pages/alanwalton-attribute-stoplights-widget/alanwalton-attribute-stoplights-widget.ios-component.swift.swift b/code-system/ios-components/pages/alanwalton-attribute-stoplights-widget/alanwalton-attribute-stoplights-widget.ios-component.swift.swift
+index fef4cd262724c1a2d74787b58293bcaa7267c8ee..70be12339ce805877707075b89e100958112c086 100644
+--- a/code-system/ios-components/pages/alanwalton-attribute-stoplights-widget/alanwalton-attribute-stoplights-widget.ios-component.swift.swift
++++ b/code-system/ios-components/pages/alanwalton-attribute-stoplights-widget/alanwalton-attribute-stoplights-widget.ios-component.swift.swift
+@@ -79,6 +79,12 @@ struct AttributeHomeView: View {
+                 RefusedView()
+             }
+         }
++        .widgetURL(
++            URL(
++                string:
++                    "capacitor://localhost/nav/attributes-970234ac?tab=01a07cd7-2bb6-7d40-acb4-895746f0208f#widget=alanwalton-attribute-stoplights"
++            )
++        )
+     }
+ 
+     private func grid(_ stoplights: [AttributeStoplight]) -> some View {
+diff --git a/readout-system/readout-widgets/pages/alanwalton-attribute-stoplights.readout-widget.ts b/readout-system/readout-widgets/pages/alanwalton-attribute-stoplights.readout-widget.ts
+index af00c522b352fb8fc2be1b874e9c516390ea13f7..2aa6afadb2f916cc1e76edd7f1d542c22f88fa13 100644
+--- a/readout-system/readout-widgets/pages/alanwalton-attribute-stoplights.readout-widget.ts
++++ b/readout-system/readout-widgets/pages/alanwalton-attribute-stoplights.readout-widget.ts
+@@ -12,6 +12,8 @@ export const alanwaltonAttributeStoplights = {
+   feed: "https://alanwalton.com/api/attribute-stoplights",
+   galleryName: "Attributes",
+   galleryDescription: "Your six attribute stoplights, at a glance.",
++  opens:
++    "capacitor://localhost/nav/attributes-970234ac?tab=01a07cd7-2bb6-7d40-acb4-895746f0208f#widget=alanwalton-attribute-stoplights",
+   groupSlugs: ["attributes"],
+   place: 11,
+ } as const satisfies ReadoutWidget
