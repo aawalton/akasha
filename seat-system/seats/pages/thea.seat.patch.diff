@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/domains/initiatives/pages/thea-checks-system.initiative.ts b/domains/initiatives/pages/thea-checks-system.initiative.ts
+index 76329c846b262d2eaa7934e20aa55c6bf7dfea18..186196a262f40d031e539d9308a836487b0ffc09 100644
+--- a/domains/initiatives/pages/thea-checks-system.initiative.ts
++++ b/domains/initiatives/pages/thea-checks-system.initiative.ts
+@@ -10,7 +10,7 @@ export const theaChecksSystem = {
+     {
+       statement: "Every check is cheap enough for patch and runs there.",
+       workingMemory:
+-        "Steps: 1 category, 2 right files, 3 cheap, 4 on, at patch. Seed a fault before believing a zero; the count of checks judged rises when one goes on. Charge a check what it adds on a warm shadow. Count how often the refused files change before calling a blast radius blocking. A tested decision can be wrong. key-names-one-property refuses 57, lint-clean 302, manifest-names-what-is-reached 67, no-class 8, no-code-comments 3020 over 426 files all touched this week. no-enum-or-namespace next.",
++        "Steps: 1 category, 2 right files, 3 cheap, 4 on. Seed a fault before believing a zero; the count of checks judged rises when one goes on. Count how often the refused files change before calling a blast radius blocking. A tested decision can be wrong. A .d.ts emits nothing, so a runtime rule skips it. key-names-one-property refuses 57, lint-clean 302, manifest-names-what-is-reached 67, no-class 8, no-code-comments 3020. Three checks reparse each text: 195ms at 780. no-global-in-a-module next.",
+     },
+     {
+       statement: "The tests beside a changed file judge the change that carries it.",
