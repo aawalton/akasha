@@ -59,6 +59,10 @@ export const changeRunning = {
     },
     {
       invariantKind: "departure",
+      statement: "A change a move carries elsewhere is loaded from the path that code came from.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A change reaching another change loads that change while the first change runs.",
     },
     {

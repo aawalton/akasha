@@ -27,10 +27,15 @@ export function codeAt(world: World, address: string): string | null {
   return besideAt(listed.path, CODE, TS)
 }
 
+export function sittingAt(world: World, path: string): string {
+  const moved = world.over.edits.find((one) => one.path === path && one.from !== undefined)
+  return moved?.from ?? path
+}
+
 async function exportedAt(world: World, address: string, named: string): Promise<unknown> {
   const at = codeAt(world, address)
   if (at === null) return null
-  const held = (await import(join(world.root, at))) as Record<string, unknown>
+  const held = (await import(join(world.root, sittingAt(world, at)))) as Record<string, unknown>
   return held[named] ?? null
 }
 

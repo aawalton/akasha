@@ -9,11 +9,28 @@ import {
   NOTHING_OVER,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { partsOf, ranBy } from "./change-running.change-runner.code.ts"
+import { partsOf, ranBy, sittingAt } from "./change-running.change-runner.code.ts"
 
 const AT = "akasha/one.held.ts"
 
+const WAS = "akasha/one/one.held.code.ts"
+
+const NOW = "akasha/one/one.held-anew.code.ts"
+
 const WROTE: Answer = answered([writing(AT, null, "held\n")])
+
+test("a path a move carries a body to is loaded from the path that body came from", () => {
+  const world = {
+    ...worldOf(),
+    over: answered([{ path: NOW, was: "held\n", body: "held\n", from: WAS }]),
+  }
+
+  expect(sittingAt(world, NOW)).toBe(WAS)
+})
+
+test("a path no move carries a body to is loaded from that path", () => {
+  expect(sittingAt(worldOf(), AT)).toBe(AT)
+})
 
 function worldOf(): World {
   return {
