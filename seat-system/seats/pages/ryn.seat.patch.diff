@@ -1,0 +1,18 @@
+diff --git a/checks/cluster-checks/modules/blank-comments/blank-comments.module.ts b/checks/cluster-checks/modules/blank-comments/blank-comments.module.ts
+index 9ccc1d6408bccb83d5a21d0cedeb9e1caea2663a..91a8a014106f642734936ac76785c5b5c8ea81a0 100644
+--- a/checks/cluster-checks/modules/blank-comments/blank-comments.module.ts
++++ b/checks/cluster-checks/modules/blank-comments/blank-comments.module.ts
+@@ -10,8 +10,11 @@ export const blankComments = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement:
+-        "A blanked span keeps the replaced text's length and line breaks, so every line and column lands.",
++      statement: "A blanked span keeps the replaced text's length and line breaks.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Every line and column lands where that text sat.",
+     },
+     {
+       invariantKind: "departure",
