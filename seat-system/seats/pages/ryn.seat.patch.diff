@@ -1,0 +1,17 @@
+diff --git a/seat-system/messages/properties/message-claimed-at.instant-property.ts b/seat-system/messages/properties/message-claimed-at.instant-property.ts
+index 0d4738096ec02ecd2ad9bf6e416dd53c99a80361..93c113cf68a357c07f8a66ae5c3fff56d210feca 100644
+--- a/seat-system/messages/properties/message-claimed-at.instant-property.ts
++++ b/seat-system/messages/properties/message-claimed-at.instant-property.ts
+@@ -15,7 +15,11 @@ export const messageClaimedAt = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A claim is let go rather than taken back, and the message waits again.",
++      statement: "A claim is let go rather than taken back.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A message whose claim is let go waits again.",
+     },
+     {
+       invariantKind: "departure",
