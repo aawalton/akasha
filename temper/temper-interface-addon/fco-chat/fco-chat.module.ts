@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoChat = {
   id: "01a06115-1ac4-787f-b668-6c13195cf51b",

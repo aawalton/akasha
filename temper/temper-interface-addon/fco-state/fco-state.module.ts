@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoState = {
   id: "01a06115-1ad7-727c-82ba-e642fbacbb34",

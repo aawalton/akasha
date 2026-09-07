@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const asyncMain = {
   id: "01a0606a-1c55-7ece-9605-df5b14cabe22",

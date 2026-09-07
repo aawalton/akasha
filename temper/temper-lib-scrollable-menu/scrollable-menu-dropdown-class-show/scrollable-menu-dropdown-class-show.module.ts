@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scrollableMenuDropdownClassShow = {
   id: "01a06275-c448-7005-be53-d0fe0ff38c84",

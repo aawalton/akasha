@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pageRowTotals = {
   id: "01a06837-d6c9-77dc-8a16-d5a80b2b38cb",

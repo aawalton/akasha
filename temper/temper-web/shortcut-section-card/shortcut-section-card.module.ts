@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const shortcutSectionCard = {
   id: "01a06432-b190-7746-bbbc-15e16fa5228e",

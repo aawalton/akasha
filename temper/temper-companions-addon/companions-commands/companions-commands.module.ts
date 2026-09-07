@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionsCommands = {
   id: "01a0611d-84d1-76d7-bc57-493947e69afe",

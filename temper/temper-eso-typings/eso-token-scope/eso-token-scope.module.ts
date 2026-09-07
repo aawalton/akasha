@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const esoTokenScope = {
   id: "01a0673e-3ddf-7002-9c1f-4402e2e05fcd",

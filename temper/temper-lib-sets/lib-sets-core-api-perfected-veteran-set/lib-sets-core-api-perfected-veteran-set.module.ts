@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCoreApiPerfectedVeteranSet = {
   id: "01a061fc-ceed-7641-95c2-68e8bbf2731c",

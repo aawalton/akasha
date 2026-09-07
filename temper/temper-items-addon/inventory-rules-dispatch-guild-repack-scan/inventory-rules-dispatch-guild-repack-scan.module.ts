@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryRulesDispatchGuildRepackScan = {
   id: "01a06258-b531-7f28-97da-ca3662d560d3",

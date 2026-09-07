@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const quietSettingsDialogs = {
   id: "01a060f1-693e-7dae-a9fe-7cee68a4ae6d",

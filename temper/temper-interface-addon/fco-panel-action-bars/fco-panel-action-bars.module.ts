@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoPanelActionBars = {
   id: "01a06115-1acf-7b18-8475-506254e87d68",

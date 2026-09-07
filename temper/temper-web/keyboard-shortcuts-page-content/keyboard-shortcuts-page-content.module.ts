@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const keyboardShortcutsPageContent = {
   id: "01a06432-b190-7b3f-a5ae-593135ca5efe",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperDebuffMajor = {
   id: "01a0607b-e916-75e2-a41c-bbd4d6a06b93",

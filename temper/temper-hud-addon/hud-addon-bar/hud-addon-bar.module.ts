@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const hudAddonBar = {
   id: "01a061c5-18dd-7007-b0fb-76457ff3f070",

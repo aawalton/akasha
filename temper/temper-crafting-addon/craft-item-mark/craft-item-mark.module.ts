@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const craftItemMark = {
   id: "01a061c7-e851-7abd-8f72-757c171ac740",

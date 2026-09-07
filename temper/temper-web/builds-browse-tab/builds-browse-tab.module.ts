@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const buildsBrowseTab = {
   id: "01a0642c-5b8f-74e0-93ce-35ce478bf46e",

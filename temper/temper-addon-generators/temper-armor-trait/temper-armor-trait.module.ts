@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperArmorTrait = {
   id: "01a0607b-1540-79b0-872d-426a227291ca",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherPageLanding = {
   id: "01a06381-35cf-745a-9478-62105eeced57",

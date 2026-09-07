@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addonRoster = {
   id: "01a06060-ec3e-72ca-8583-d3120bbc8269",

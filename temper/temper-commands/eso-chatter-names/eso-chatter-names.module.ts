@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const esoChatterNames = {
   id: "01a069cf-7042-7000-8df6-e6b7ffd0efc8",

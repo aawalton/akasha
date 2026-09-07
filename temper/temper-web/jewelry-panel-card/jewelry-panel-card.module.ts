@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const jewelryPanelCard = {
   id: "01a0642d-9a17-7e93-9404-efd12df3f8b9",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionQolInteractionState = {
   id: "01a0611d-84c9-773b-b409-f70118da30cb",

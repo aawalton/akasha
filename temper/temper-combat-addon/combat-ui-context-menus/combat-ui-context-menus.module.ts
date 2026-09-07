@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatUiContextMenus = {
   id: "01a0617f-5854-79d6-ad55-9fe1581443e3",

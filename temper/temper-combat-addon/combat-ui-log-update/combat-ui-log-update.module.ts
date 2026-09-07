@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatUiLogUpdate = {
   id: "01a0617f-5856-7354-93f4-37e0d429972c",

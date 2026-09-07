@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scrollableMenuButtongroup = {
   id: "01a06275-c443-732e-93a1-d70a36b10e6c",

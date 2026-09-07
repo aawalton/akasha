@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatUiPlotDraw = {
   id: "01a0617f-5859-74ac-8ea5-b65d30b2966e",

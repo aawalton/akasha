@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const potionSettingsMenu = {
   id: "01a061c7-e889-76ad-a578-48b1401ee291",

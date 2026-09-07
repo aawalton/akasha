@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const recentCompanionsCard = {
   id: "01a06432-b190-707d-9aa2-09a10504c822",

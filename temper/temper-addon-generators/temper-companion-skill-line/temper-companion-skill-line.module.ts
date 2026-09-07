@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperCompanionSkillLine = {
   id: "01a0607b-1544-7f23-b945-c45acce7c37a",

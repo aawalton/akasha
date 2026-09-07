@@ -1,4 +1,4 @@
-import type { LuaModule } from "@akasha/code-system/lua-module"
+import type { LuaModule } from "@akasha/code/lua-module"
 
 export const charactersConfigGlobal = {
   id: "01a062e8-bed7-7010-8998-ffe3116644d2",

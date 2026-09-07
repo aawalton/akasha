@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryRulesCoreConfirmDialog = {
   id: "01a06258-b52f-7911-b65b-636ea6e3179f",

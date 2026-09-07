@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryTemperLockCore = {
   id: "01a06258-b534-7c10-a22d-7d1a59e430a4",

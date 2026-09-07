@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionEngineContext = {
   id: "01a0617f-5831-7c52-81d7-82ea767c675a",

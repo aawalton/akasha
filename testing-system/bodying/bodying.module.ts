@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const bodying = {
   id: "01a04ee7-be07-7a1b-9f3f-f5e6d4693e70",

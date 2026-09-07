@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsPreloadedWayshrineNodeToZone01 = {
   id: "01a061dd-1562-7a36-93d9-0028ee39b743",

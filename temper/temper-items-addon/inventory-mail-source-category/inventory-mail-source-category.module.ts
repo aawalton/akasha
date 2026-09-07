@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryMailSourceCategory = {
   id: "01a06258-b52d-74ad-ae6b-581d8eff3bac",

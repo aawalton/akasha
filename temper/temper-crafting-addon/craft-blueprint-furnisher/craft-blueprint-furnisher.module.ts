@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const craftBlueprintFurnisher = {
   id: "01a061c7-e847-76bc-ac92-f563b54df85f",

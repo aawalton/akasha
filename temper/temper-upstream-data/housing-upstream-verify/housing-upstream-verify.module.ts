@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const housingUpstreamVerify = {
   id: "01a06282-dfc3-7813-b3f1-ca3f89826794",

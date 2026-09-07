@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPingHandlerState = {
   id: "01a0605f-6262-75fe-be54-df973258bb60",

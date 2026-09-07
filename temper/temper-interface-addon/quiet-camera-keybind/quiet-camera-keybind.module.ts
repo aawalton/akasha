@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const quietCameraKeybind = {
   id: "01a060f1-690f-77b2-8f75-a0377d9ee2f4",

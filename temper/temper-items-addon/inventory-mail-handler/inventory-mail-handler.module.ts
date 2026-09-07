@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryMailHandler = {
   id: "01a06258-b52d-7eec-8d2a-ba02347333d0",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addonsBundleDir = {
   id: "01a0640f-850f-76fa-aa1c-8817cc184e55",

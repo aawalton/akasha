@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const rankByKey = {
   id: "01a06111-70c6-7f6d-94bf-cc301947ba92",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionContext = {
   id: "01a06421-2528-7269-885e-0306abe8e267",

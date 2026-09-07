@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const dataminingPublicApi = {
   id: "01a06341-d9e8-7006-a2dc-0b3e1ae1c2a6",

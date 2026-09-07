@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperAppShell = {
   id: "01a06429-76ff-706c-b325-038f0e4a4fb7",

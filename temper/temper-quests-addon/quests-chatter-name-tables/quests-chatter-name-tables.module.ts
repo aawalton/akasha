@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const questsChatterNameTables = {
   id: "01a0635f-391c-79f3-87e1-6c303b4a5402",

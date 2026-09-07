@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const quietWorld = {
   id: "01a060f1-6951-7177-beb5-37bc81e3da8e",

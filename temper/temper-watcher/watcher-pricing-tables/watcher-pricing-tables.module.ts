@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherPricingTables = {
   id: "01a06381-35cf-7f9a-8a86-81d472cd7c24",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const catalogApiTest = {
   id: "01a063ba-94e5-7e5c-ad37-4144ed456b26",

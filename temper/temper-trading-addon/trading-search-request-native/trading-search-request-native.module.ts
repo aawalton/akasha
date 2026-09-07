@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tradingSearchRequestNative = {
   id: "01a06160-2a5c-7131-9d9b-e1b27ea4e7cd",

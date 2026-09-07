@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const webRuleConditions = {
   id: "01a0607c-1797-762c-b7ba-f2b49668eb10",

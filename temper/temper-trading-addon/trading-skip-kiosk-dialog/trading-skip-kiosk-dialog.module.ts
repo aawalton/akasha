@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tradingSkipKioskDialog = {
   id: "01a06160-2a5d-7701-bfcb-d89a2bf8ddf3",

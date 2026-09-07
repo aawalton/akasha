@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCoreApiDropMechanics = {
   id: "01a06231-8f1c-7ec0-9f99-9b6132b3a27b",

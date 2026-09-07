@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const debugLoggerCompatibility = {
   id: "01a06061-408d-7ca3-a675-c45961d9bbc9",

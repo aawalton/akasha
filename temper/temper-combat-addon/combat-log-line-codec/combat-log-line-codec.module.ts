@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatLogLineCodec = {
   id: "01a0617f-584c-7c86-8969-cbdbf077d301",

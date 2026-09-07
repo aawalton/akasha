@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const craftLangBr = {
   id: "01a061c7-e853-7451-ae9e-eda18e4eaf4c",

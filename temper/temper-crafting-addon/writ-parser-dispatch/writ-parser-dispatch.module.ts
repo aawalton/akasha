@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writParserDispatch = {
   id: "01a061c7-e8a5-751f-9b60-ec7a0b21525a",

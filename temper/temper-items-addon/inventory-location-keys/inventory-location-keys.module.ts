@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryLocationKeys = {
   id: "01a06258-b52d-73dd-a737-4d65e20a8ab3",

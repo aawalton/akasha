@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const orderListBoxMoveButtons = {
   id: "01a06207-bdf5-7fd4-8f0f-16aa4a732fd7",

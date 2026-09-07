@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionBarPatch = {
   id: "01a0617f-582c-7f13-aadf-7cab952d86cc",

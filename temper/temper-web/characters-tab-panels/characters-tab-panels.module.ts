@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const charactersTabPanels = {
   id: "01a06421-f74b-7bd9-bd47-bf63d6f70019",

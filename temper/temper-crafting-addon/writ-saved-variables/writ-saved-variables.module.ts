@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writSavedVariables = {
   id: "01a061c7-e8af-75fd-99d8-0c653780ef31",

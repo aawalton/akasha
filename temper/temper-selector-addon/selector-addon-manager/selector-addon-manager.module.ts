@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const selectorAddonManager = {
   id: "01a061ef-c8a5-7cfb-8274-8a9896bd3526",

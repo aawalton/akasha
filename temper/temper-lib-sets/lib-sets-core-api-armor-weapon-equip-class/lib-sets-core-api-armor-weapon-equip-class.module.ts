@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCoreApiArmorWeaponEquipClass = {
   id: "01a06231-8f1d-717e-ad62-dd5ee6472601",

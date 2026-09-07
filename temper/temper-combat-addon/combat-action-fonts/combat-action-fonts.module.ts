@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionFonts = {
   id: "01a0617f-5831-72ff-bc69-ccfe46ca94c7",

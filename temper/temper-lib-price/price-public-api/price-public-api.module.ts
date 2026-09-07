@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pricePublicApi = {
   id: "01a0615d-c21a-7571-94be-201fca4af067",

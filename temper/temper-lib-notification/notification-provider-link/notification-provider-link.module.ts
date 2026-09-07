@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const notificationProviderLink = {
   id: "01a0605a-0515-7dbe-bba3-edd17cf7cb35",

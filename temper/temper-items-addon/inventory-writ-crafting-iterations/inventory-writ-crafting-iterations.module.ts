@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryWritCraftingIterations = {
   id: "01a06258-b535-7e3b-ab50-7dccf48d7e10",

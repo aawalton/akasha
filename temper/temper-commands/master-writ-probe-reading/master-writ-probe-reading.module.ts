@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const masterWritProbeReading = {
   id: "01a06864-aa2b-7004-b089-84cb8530cec4",

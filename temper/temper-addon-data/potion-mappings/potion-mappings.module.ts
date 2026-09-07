@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const potionMappings = {
   id: "01a06340-4915-7eb7-8ab7-24d059174125",

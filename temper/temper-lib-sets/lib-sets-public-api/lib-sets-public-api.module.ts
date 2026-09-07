@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsPublicApi = {
   id: "01a0623e-53a2-7b73-9549-80f57a6b383c",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const raceSelectDialog = {
   id: "01a0642c-5b81-7c38-b0c2-960dd7e2e29e",

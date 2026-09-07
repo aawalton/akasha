@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const priceState = {
   id: "01a0615d-c21c-7ade-9238-82472ae69733",

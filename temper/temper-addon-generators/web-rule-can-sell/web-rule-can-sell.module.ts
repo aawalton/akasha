@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const webRuleCanSell = {
   id: "01a0607c-1797-7a57-8375-930a8d1bd6f0",

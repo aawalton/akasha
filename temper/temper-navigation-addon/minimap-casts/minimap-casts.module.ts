@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const minimapCasts = {
   id: "01a06269-296c-7622-b734-388f9903af7b",

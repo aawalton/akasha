@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const treasurePinsData = {
   id: "01a061d5-d0bd-7727-b9ce-b4477741a289",

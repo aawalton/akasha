@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsKbfLsmOptions = {
   id: "01a0623e-53a1-71f3-a8c2-70d8d97f411d",

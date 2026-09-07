@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const skillCollapsibleCard = {
   id: "01a0642c-5bab-77bc-bd5f-4f4709582c75",

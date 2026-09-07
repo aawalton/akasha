@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const distributableSet = {
   id: "01a06060-ec3f-72a0-9eb4-c159dfd1784e",

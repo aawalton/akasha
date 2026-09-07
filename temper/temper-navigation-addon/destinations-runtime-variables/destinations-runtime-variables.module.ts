@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsRuntimeVariables = {
   id: "01a06269-2912-7bf3-bde4-b03593c8b6c7",

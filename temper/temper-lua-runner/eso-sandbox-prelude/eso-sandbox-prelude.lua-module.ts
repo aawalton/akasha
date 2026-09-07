@@ -1,4 +1,4 @@
-import type { LuaModule } from "@akasha/code-system/lua-module"
+import type { LuaModule } from "@akasha/code/lua-module"
 
 export const esoSandboxPrelude = {
   id: "01a06059-2490-71da-a837-990f36920c7e",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPingPublicApi = {
   id: "01a0605f-6263-7cb1-beca-3555572b59a9",

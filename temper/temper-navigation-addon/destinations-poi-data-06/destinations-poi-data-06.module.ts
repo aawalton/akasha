@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsPoiData06 = {
   id: "01a06269-29c9-7b7b-8275-9c285614e3d0",

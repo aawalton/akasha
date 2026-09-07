@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperRotationBreakdownRow = {
   id: "01a0607b-e91e-71ab-a3a4-65e4e83e2c55",

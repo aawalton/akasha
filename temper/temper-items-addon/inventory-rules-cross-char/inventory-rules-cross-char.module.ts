@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryRulesCrossChar = {
   id: "01a06258-b52f-788c-b7d1-9a86b1d3e44b",

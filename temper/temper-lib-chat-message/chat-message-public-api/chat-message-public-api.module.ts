@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const chatMessagePublicApi = {
   id: "01a06060-0d18-7688-8eab-91ba2a064865",

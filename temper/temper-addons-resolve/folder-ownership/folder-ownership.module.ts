@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const folderOwnership = {
   id: "01a06060-ec3f-739d-a84d-9007047669a6",

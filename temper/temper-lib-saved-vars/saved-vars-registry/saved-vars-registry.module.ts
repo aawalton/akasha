@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const savedVarsRegistry = {
   id: "01a06177-abfa-7858-a67f-0c74e2b865b5",

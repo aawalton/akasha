@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const housingVisitCardsInteract = {
   id: "01a06128-d5d6-7897-939f-8aa6659a7dcf",

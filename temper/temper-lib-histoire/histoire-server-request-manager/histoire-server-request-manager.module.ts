@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoireServerRequestManager = {
   id: "01a06197-4c9a-7dc6-b864-a6bb213acebc",

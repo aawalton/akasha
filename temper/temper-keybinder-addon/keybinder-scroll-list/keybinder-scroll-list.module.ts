@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const keybinderScrollList = {
   id: "01a06381-67c1-733c-93c4-841be62e7306",

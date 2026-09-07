@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsPinsInitVariables = {
   id: "01a06269-28f1-7345-b352-454bce195015",

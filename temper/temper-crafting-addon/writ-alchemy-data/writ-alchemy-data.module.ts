@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writAlchemyData = {
   id: "01a061c7-e893-796b-b2b2-2dbf4acdc6c4",

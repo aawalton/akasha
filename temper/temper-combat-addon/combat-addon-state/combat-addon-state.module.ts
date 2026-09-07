@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatAddonState = {
   id: "01a0617f-5839-7d31-a637-4ab0dc45a230",

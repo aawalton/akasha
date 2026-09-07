@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsKbfGearFilters = {
   id: "01a0623e-53a1-757f-b98f-e17326c7f464",

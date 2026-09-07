@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const asyncTaskTimer = {
   id: "01a0606a-1c59-7cbd-b45b-61c3cf20d13d",

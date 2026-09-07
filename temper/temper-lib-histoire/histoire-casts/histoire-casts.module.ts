@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoireCasts = {
   id: "01a06197-4c8d-7e6e-bfff-6aafd040c559",

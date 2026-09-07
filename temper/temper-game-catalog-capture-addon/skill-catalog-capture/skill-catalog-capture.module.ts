@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const skillCatalogCapture = {
   id: "01a0616b-6c91-7d4d-bf92-d71053bf0321",

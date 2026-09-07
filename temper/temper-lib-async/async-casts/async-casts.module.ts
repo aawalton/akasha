@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const asyncCasts = {
   id: "01a0606a-1c54-73cf-ae99-1c6521dc4d94",

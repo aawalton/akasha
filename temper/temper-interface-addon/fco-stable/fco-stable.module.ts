@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoStable = {
   id: "01a06115-1ad7-73e4-ae36-acf5f80740be",

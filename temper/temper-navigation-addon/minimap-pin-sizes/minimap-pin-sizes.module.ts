@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const minimapPinSizes = {
   id: "01a06269-299f-7745-be0e-60b28d8229dc",

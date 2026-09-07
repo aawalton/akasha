@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherRetry = {
   id: "01a0635b-79f7-7535-a528-c30b24b36eed",

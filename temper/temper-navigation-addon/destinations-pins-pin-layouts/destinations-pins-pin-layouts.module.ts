@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsPinsPinLayouts = {
   id: "01a06269-28f7-7874-a632-478526de2780",

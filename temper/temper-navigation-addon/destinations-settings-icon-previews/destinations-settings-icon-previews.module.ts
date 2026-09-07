@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsSettingsIconPreviews = {
   id: "01a06269-2927-7b18-9833-1079e97cde91",

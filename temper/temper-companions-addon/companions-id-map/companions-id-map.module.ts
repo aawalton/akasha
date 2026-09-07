@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionsIdMap = {
   id: "01a0611d-84dd-7991-bda4-54827db48eac",

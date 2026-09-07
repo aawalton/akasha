@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsPreloadedSetsWeaponTypes12 = {
   id: "01a061d8-e484-7f9e-ab27-625ed9474ed3",

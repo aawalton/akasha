@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const nextBossTimers = {
   id: "01a06157-8358-7ee9-8d50-84cac768c2cb",

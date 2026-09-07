@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const treasureUpstreamVerify = {
   id: "01a06282-dfc3-7860-9a09-26dd6febe9a4",

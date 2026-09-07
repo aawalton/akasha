@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterCaptureSkillName05 = {
   id: "01a0616b-3bb0-7a24-ab5c-9124df3378e2",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const keybinderShare = {
   id: "01a06381-67c1-7b12-b16d-aa11abf8a0bf",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const foodMappings = {
   id: "01a06340-4914-7ea9-9806-2153d168e3ba",

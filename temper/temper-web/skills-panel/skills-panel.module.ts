@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const skillsPanel = {
   id: "01a0642c-5baf-76da-97a7-2f5fa510dec7",

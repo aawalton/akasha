@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const dataminingSavedVariables = {
   id: "01a06341-d9e8-7003-86e4-05d88c5ad77a",

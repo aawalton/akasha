@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const shifterListMethodsDrag = {
   id: "01a06187-364a-722e-9454-dbcbd6808350",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const itemSetsProgressPanelCard = {
   id: "01a06421-f74b-79e4-bc03-64247ee4002b",

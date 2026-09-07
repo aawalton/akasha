@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const selectorSlashCommands = {
   id: "01a061ef-c8a5-7879-8c99-f702637bbf1e",

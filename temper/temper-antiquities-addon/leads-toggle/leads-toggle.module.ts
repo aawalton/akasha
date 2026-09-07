@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const leadsToggle = {
   id: "01a06274-b08a-7259-9ab9-8679894dbe99",

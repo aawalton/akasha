@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const minting = {
   id: "01a04e33-9351-7e79-8041-89abfa036830",

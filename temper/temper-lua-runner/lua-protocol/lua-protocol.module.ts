@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const luaProtocol = {
   id: "01a06059-2491-7831-9607-9a067a9a884b",

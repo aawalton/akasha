@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const webRulePotionEffects = {
   id: "01a0607c-179a-7789-b4ca-bbd8ef4062ec",

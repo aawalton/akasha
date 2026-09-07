@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writProvRecipeMap2 = {
   id: "01a061c7-e8ad-719f-9e0e-7e79c3b3e352",

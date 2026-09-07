@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryEquipmentLockOverlay = {
   id: "01a06258-b52a-7916-b02f-941f3206b2a4",

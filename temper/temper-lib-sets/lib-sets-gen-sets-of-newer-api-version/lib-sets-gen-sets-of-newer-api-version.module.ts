@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsGenSetsOfNewerApiVersion = {
   id: "01a061fc-cee6-7d32-b8da-97ba90d2da12",

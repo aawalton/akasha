@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addonDownload = {
   id: "01a06069-b78f-70ea-813a-1ddfccad983a",

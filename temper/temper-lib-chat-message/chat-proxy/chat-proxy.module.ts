@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const chatProxy = {
   id: "01a06060-0d16-7e3b-99f0-9bc14b4374ad",

@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const temperEsoTypings = {
   id: "01a0673e-3ddf-7000-a6f4-66fa0861fb9d",

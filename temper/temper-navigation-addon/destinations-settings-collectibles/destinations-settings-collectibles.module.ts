@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsSettingsCollectibles = {
   id: "01a06269-2920-732d-b12a-bc6fab50e4c7",

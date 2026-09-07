@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const zoneLibState = {
   id: "01a061e7-932c-7a48-93e6-6b0f3360a096",

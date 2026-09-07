@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const catalogAutoCollect = {
   id: "01a063ba-94e5-761c-9dd4-1124b1de80bb",

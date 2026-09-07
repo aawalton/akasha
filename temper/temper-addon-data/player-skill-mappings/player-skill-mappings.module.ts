@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const playerSkillMappings = {
   id: "01a06340-4915-782c-be8b-02e632022ea8",

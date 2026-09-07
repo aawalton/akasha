@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsConstDropmechanics = {
   id: "01a061d6-3e22-7cb9-b1f5-2605e32ae7a6",

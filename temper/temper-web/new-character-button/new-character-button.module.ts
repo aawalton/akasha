@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const newCharacterButton = {
   id: "01a0642c-5b9c-748d-9111-0b2a062c4a0c",

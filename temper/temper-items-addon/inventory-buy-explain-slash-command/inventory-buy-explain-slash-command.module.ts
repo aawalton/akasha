@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryBuyExplainSlashCommand = {
   id: "01a06258-b52a-749d-a3ac-297ef704c9e4",

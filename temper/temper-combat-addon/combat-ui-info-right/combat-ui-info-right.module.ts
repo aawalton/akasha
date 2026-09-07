@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatUiInfoRight = {
   id: "01a0617f-5855-7355-b2a5-cb63de850f8a",

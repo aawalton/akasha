@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoKeybinds = {
   id: "01a06115-1acb-7ea5-a65c-1eb4a2a91565",

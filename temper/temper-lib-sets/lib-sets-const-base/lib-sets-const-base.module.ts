@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsConstBase = {
   id: "01a061d6-3e1f-78d4-ae78-a17b737f3690",

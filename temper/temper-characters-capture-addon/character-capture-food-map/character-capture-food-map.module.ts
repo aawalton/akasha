@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterCaptureFoodMap = {
   id: "01a0616b-a193-7b4e-8eda-59845fbc07d4",

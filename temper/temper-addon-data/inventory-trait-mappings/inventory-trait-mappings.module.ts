@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryTraitMappings = {
   id: "01a06340-4914-7445-96c3-07f433ebc4e8",

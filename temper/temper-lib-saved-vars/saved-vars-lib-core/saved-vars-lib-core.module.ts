@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const savedVarsLibCore = {
   id: "01a06177-abfc-780c-9a83-7e8005d54634",

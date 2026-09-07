@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const charactersDataContent = {
   id: "01a0642c-5b8e-74d3-bd53-7a1a3bf7bf10",

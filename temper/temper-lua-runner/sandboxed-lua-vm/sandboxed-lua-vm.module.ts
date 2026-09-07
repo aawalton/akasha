@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const sandboxedLuaVm = {
   id: "01a06059-2493-7f9b-a205-1e78ff949f76",

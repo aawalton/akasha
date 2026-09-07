@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code-system/eso-interface"
+import type { EsoInterface } from "@akasha/code/eso-interface"
 
 export const combatReportLayout = {
   id: "01a0617f-584e-76ce-83fb-c830e5da8925",

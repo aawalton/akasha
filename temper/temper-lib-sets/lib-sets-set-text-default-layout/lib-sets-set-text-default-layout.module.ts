@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsSetTextDefaultLayout = {
   id: "01a06231-8f1f-72c7-bfe2-63ccfb8e40b5",

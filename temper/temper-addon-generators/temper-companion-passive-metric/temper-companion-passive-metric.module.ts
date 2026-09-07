@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperCompanionPassiveMetric = {
   id: "01a0607b-1543-7b88-a086-6bf20a6735f6",

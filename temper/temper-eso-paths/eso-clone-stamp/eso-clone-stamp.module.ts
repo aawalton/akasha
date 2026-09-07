@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const esoCloneStamp = {
   id: "01a06050-639f-76e4-94da-ea05355aa7da",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoPanelMain = {
   id: "01a06115-1ad2-7d98-a096-5ac1cf44c341",

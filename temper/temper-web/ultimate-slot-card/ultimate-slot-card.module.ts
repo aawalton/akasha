@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const ultimateSlotCard = {
   id: "01a0642c-5bb1-70ad-ba21-7cb45c72fc9c",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const orderListBoxDragCursor = {
   id: "01a06207-bdf1-7c7e-8938-7ce03c0df707",

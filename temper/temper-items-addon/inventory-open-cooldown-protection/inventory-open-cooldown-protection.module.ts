@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryOpenCooldownProtection = {
   id: "01a06258-b52e-754e-a4cf-62565f88dff8",

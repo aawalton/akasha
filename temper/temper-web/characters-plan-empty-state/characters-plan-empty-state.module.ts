@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const charactersPlanEmptyState = {
   id: "01a0642c-5b94-7f50-a436-a26606db51d9",

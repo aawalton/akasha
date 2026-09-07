@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const orderListBoxErrors = {
   id: "01a06207-bdf4-7de2-8e7c-b6bc01888758",

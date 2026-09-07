@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionsProgress = {
   id: "01a0611d-84de-7012-b6a4-85e9b16fe633",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writLinkDataTableLate = {
   id: "01a061c7-e89f-7e81-ba61-d003ac412a2d",

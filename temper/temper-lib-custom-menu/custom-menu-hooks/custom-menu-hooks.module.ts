@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const customMenuHooks = {
   id: "01a0605a-581e-714a-b5ed-989083626e25",

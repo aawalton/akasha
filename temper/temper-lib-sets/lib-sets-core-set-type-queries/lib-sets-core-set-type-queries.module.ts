@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCoreSetTypeQueries = {
   id: "01a061fc-ceec-7138-838e-448841d39974",

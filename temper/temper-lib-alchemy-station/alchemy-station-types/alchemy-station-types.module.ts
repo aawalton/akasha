@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const alchemyStationTypes = {
   id: "01a06054-98bd-71bf-8f8d-ba29e4db147c",

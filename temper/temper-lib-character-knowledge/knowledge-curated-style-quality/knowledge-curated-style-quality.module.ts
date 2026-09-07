@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const knowledgeCuratedStyleQuality = {
   id: "01a0622b-dc59-7bd2-bd67-d27fe2d4f929",

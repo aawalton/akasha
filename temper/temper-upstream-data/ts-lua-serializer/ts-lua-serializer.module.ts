@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tsLuaSerializer = {
   id: "01a06038-2cc0-7ae7-b7d4-dad6f274caff",

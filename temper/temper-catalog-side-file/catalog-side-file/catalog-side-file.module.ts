@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const catalogSideFile = {
   id: "01a060ce-b8cb-776b-b2b7-0589a741c9c4",

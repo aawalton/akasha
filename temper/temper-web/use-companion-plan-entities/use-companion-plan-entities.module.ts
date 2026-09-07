@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useCompanionPlanEntities = {
   id: "01a06421-2529-7d18-8a05-2abe0111a88a",

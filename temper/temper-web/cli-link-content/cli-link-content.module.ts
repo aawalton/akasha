@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const cliLinkContent = {
   id: "01a06432-b190-758b-9385-66e342c3a385",

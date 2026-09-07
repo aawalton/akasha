@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionWeaponBarPanelCard = {
   id: "01a06421-251e-7ab9-8fd5-d60f4ba996b4",

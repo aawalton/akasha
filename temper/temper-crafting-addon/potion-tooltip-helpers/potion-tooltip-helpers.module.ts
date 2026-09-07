@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const potionTooltipHelpers = {
   id: "01a061c7-e88a-7caa-b7bb-de1efbf61963",

@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "@akasha/code-system/type-declaration"
+import type { TypeDeclaration } from "@akasha/code/type-declaration"
 
 export const scrollableMenuStringIds = {
   id: "01a06275-c449-7450-b084-116e9474b73b",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scrollableMenuUtilHiddenContext = {
   id: "01a06275-c449-7aad-8c3a-da995ae989c7",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoSounds = {
   id: "01a06115-1ad6-7306-8392-0f9139c0af76",

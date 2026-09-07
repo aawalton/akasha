@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mappingGeneratorWrites = {
   id: "01a06837-d6c9-766c-840f-c3c60f7c9637",

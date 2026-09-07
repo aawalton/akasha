@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const antiquitiesAddonLoaded = {
   id: "01a06274-b089-76d5-b517-b6dce0c49cf4",

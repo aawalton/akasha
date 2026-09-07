@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const shifterBoxCreate = {
   id: "01a06187-364b-75c3-a921-960f81950ace",

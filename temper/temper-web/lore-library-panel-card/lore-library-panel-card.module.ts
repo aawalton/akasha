@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const loreLibraryPanelCard = {
   id: "01a06421-f74b-7373-9a5c-c7e2f302002c",

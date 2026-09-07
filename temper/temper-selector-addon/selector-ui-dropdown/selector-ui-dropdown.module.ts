@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const selectorUiDropdown = {
   id: "01a061ef-c8a5-717a-b5c0-6e236eea191f",

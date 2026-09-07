@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoireLegacyEventListener = {
   id: "01a06197-4c97-7d9a-80b4-881bd406a616",

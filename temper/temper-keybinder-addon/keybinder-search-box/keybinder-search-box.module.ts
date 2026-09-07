@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const keybinderSearchBox = {
   id: "01a06381-67c1-7df3-9f12-953a58355bdc",

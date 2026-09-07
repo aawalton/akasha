@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writPublicApi = {
   id: "01a061c7-e8ae-7e0d-8122-4e5a98fd8e36",

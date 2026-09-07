@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addonMenuWidgetDivider = {
   id: "01a06100-0000-7000-8000-000000000018",

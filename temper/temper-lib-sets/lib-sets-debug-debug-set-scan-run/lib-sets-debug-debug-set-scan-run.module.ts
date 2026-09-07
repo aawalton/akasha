@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsDebugDebugSetScanRun = {
   id: "01a0623c-2df7-774b-b28f-3e28f57b8014",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionEffectLookup = {
   id: "01a0617f-5830-7cf4-8eae-e540b17a85ce",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCoreLifecycleSlashCommands = {
   id: "01a06231-8f1d-7ec6-9b08-f776872caaa1",

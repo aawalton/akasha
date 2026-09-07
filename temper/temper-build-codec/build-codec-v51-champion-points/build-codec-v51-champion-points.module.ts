@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const buildCodecV51ChampionPoints = {
   id: "01a062e7-4dcd-72f6-a350-7384fa210dc4",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const shifterDragHelpers = {
   id: "01a06187-3649-72e2-804c-a9b1561c21c0",

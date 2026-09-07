@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const errorsLiveness = {
   id: "01a060cd-5651-794e-9cb4-d37959543fd2",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoCollectiblesTooltips = {
   id: "01a06115-1ac5-7050-946e-7d240ac0b33f",

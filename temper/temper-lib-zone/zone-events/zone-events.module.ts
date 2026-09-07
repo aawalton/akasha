@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const zoneEvents = {
   id: "01a061e7-9335-7156-b220-88071540ff6c",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperSignatureScript = {
   id: "01a0607b-e920-74d3-b1bc-3ffc1173b3e2",

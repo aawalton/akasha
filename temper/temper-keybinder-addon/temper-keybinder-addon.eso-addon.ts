@@ -1,4 +1,4 @@
-import type { EsoAddon } from "@akasha/code-system/eso-addon"
+import type { EsoAddon } from "@akasha/code/eso-addon"
 
 export const temperKeybinderAddon = {
   id: "01a06381-67c1-79b7-93fa-01801fc096e7",

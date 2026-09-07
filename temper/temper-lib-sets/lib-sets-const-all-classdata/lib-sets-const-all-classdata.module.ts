@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsConstAllClassdata = {
   id: "01a061d7-7bc9-7ba9-94c0-a91d978b1f8a",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherSelfWriteGuard = {
   id: "01a0633f-8d1e-7131-89f2-3109de33dbad",

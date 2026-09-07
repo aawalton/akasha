@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperComparisonOp = {
   id: "01a0607b-1546-79f6-8895-872da7a3e3ec",

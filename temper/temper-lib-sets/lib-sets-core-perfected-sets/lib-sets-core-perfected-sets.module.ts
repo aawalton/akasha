@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCorePerfectedSets = {
   id: "01a061fc-ceeb-71fc-bced-c9b4d1f3537a",

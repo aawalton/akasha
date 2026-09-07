@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const underConstructionDialog = {
   id: "01a06432-b190-752f-9687-9eb4441d0c29",

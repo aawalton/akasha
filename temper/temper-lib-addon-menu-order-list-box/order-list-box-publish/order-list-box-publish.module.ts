@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const orderListBoxPublish = {
   id: "01a06207-bdf7-7fea-98e8-fdbf3c5d25c0",

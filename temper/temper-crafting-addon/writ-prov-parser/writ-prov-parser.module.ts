@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writProvParser = {
   id: "01a061c7-e8ab-76e2-8e56-ad161565c7a4",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventorySettingsHandle = {
   id: "01a068f6-dedf-7107-8dc8-aa181b13b60d",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const nextBossGlobal = {
   id: "01a06157-8357-7112-8787-b5ac39b4f125",

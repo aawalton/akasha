@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const knowledgeSettingsExportImport = {
   id: "01a06229-580f-7d5d-bfdc-8d74f60a3b62",

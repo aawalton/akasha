@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const quietCamera = {
   id: "01a060f1-6912-7f58-a570-015058778d9f",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const debugLoggerMain = {
   id: "01a06061-408f-7340-8c9c-c97f192b2642",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const submenuWindow = {
   id: "01a0605a-5820-702f-bd91-46c5fa9263c6",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoireEventProcessor = {
   id: "01a06197-4c93-7dea-a044-f963d916fcf6",

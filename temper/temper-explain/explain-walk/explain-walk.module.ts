@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const explainWalk = {
   id: "01a06036-188c-735e-bae8-be4f3d907a2f",

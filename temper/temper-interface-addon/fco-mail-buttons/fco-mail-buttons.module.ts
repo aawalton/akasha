@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoMailButtons = {
   id: "01a06115-1acb-7877-8a8e-2ef44990c8ac",

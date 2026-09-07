@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsTipSettingsLam = {
   id: "01a0623c-2df6-7308-a66d-91a7225dd61b",

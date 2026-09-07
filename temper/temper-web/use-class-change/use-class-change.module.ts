@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useClassChange = {
   id: "01a0642c-5b9f-7d62-9709-df0efcf93317",

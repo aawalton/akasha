@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mundusMappings = {
   id: "01a06340-4915-7e1b-9c9c-b6af7e10f3de",

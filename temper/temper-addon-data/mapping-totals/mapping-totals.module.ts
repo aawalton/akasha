@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mappingTotals = {
   id: "01a06837-d6c9-7395-b513-0aa2bf21e2a4",

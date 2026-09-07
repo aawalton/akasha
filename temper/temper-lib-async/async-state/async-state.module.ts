@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const asyncState = {
   id: "01a0606a-1c57-75ad-a81f-1f1105255842",

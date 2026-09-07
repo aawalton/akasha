@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const slashCommanderEntry = {
   id: "01a06066-8404-74f8-810a-0930b5a79f11",

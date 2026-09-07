@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const domGuarding = {
   id: "01a06558-bbb0-7000-8634-6cb45e4b961e",

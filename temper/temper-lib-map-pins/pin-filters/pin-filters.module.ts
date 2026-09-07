@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pinFilters = {
   id: "01a06062-57e0-7e1a-b3d7-a8820fb90bc1",

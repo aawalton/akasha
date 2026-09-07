@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterContext = {
   id: "01a0642c-5b97-71c3-b22c-afcee19dc627",

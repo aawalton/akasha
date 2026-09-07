@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const renderBuffEffectEntry = {
   id: "01a06105-a76c-7373-8eb0-12187e764091",

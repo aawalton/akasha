@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const minedRestorePotions = {
   id: "01a06369-1e85-7a7e-8572-17d2ceab1b11",

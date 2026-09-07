@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionAbility = {
   id: "01a0617f-582a-7949-864e-3f2a51c7d87d",

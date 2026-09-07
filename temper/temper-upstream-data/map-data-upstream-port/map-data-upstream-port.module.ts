@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapDataUpstreamPort = {
   id: "01a0683b-e6a4-7275-8265-3fa1d955b928",

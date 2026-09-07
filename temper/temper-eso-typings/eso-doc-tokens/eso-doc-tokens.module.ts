@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const esoDocTokens = {
   id: "01a0673e-3ddf-7001-acad-9b0751ef4567",

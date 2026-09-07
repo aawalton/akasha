@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterImport = {
   id: "01a0640f-8510-7c04-b799-f12ba75125ab",

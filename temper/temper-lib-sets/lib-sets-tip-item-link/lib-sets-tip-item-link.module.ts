@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsTipItemLink = {
   id: "01a06231-8f1e-7646-8b29-68d015b765db",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsPinsMapContext = {
   id: "01a06269-28f4-77d8-93a4-f169b47d54aa",

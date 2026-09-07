@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatUnitStats = {
   id: "01a0617f-585e-7f4d-8470-d3873a769189",

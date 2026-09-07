@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const errorsSavedVariables = {
   id: "01a060cd-564f-7386-bf3f-219a42b803ca",

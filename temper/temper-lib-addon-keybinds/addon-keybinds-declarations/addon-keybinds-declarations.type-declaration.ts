@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "@akasha/code-system/type-declaration"
+import type { TypeDeclaration } from "@akasha/code/type-declaration"
 
 export const addonKeybindsDeclarations = {
   id: "01a06259-bfbc-7d5e-8b4b-5bbe42c3459a",

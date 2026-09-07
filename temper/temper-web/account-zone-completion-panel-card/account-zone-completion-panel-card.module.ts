@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const accountZoneCompletionPanelCard = {
   id: "01a06421-f74b-793e-882c-e2f59826000d",

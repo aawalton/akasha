@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const recipesProgressPanelCard = {
   id: "01a06421-f74b-7fd7-9a00-13680c630033",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryWritCraftingEnchantSoundGuard = {
   id: "01a06258-b535-77fc-8a96-1f6e6a80d513",

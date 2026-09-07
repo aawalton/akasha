@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoMailContextSubmenus = {
   id: "01a06115-1acc-7449-b30b-640773d8b5ce",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsSearchUiSharedTooltipFavorites = {
   id: "01a0623c-2df8-7a8a-a8eb-08922192505b",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterAchievementsPanelCard = {
   id: "01a06421-f74b-7d4b-bfa1-cf2d5df70013",

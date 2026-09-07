@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatGlobalDictionary = {
   id: "01a0617f-5843-7e9b-8810-f161aa0b40e7",

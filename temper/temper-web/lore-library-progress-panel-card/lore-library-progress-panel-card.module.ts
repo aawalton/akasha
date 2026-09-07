@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const loreLibraryProgressPanelCard = {
   id: "01a06421-f74b-7ea3-9eba-17ba7992002d",

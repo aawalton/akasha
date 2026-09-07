@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const craftPanelInit = {
   id: "01a061c7-e85d-7dbd-badd-8852eeaa18f0",

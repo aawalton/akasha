@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const completionCompanionsTab = {
   id: "01a06421-f74b-7e15-a4f9-2699e4940023",

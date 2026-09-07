@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const chatMessageStrings = {
   id: "01a06060-0d17-7474-a7d9-f6b686914917",

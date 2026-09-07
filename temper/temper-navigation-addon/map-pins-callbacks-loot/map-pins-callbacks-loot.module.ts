@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPinsCallbacksLoot = {
   id: "01a06269-2950-7d6f-ba53-9779732622ac",

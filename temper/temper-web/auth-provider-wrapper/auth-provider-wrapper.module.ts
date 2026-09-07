@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const authProviderWrapper = {
   id: "01a06432-b190-7bdd-9689-8a19b01cb487",

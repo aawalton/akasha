@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const dataEncodeCharset = {
   id: "01a06061-969f-7a3f-8f90-cd7a3e2551ba",

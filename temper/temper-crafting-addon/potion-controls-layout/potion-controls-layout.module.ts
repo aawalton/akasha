@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const potionControlsLayout = {
   id: "01a061c7-e87c-7eac-abfe-fa066dae05b5",

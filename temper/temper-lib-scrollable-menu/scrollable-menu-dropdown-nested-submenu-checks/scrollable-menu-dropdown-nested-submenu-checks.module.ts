@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scrollableMenuDropdownNestedSubmenuChecks = {
   id: "01a06275-c448-7cca-97e0-574c0568da33",

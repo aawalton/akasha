@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const esoColonMethods = {
   id: "01a069cf-7042-7001-90b1-8e56032f7b2d",

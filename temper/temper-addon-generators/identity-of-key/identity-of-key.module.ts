@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const identityOfKey = {
   id: "01a06118-fdf7-7723-bad1-b6bb631ba05f",

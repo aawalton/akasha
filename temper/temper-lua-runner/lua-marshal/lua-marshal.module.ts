@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const luaMarshal = {
   id: "01a06059-2491-7221-94a1-8905cd719a95",

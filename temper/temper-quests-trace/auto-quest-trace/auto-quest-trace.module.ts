@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const autoQuestTrace = {
   id: "01a06098-98a3-7c4d-b67f-e657dc450ff5",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoirePublicApi = {
   id: "01a06197-4c99-7088-8994-26438817c5fc",

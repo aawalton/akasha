@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const customMenuPublicApi = {
   id: "01a0605a-581f-70cd-a87d-789035bb7e50",

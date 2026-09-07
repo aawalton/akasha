@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsDropTipTooltipsZh = {
   id: "01a061d6-3e40-7401-94ea-975c5f3f2541",

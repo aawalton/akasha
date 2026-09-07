@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const temperUpstreamData = {
   id: "01a06038-2cbe-79d6-9497-4ef8b26650e5",

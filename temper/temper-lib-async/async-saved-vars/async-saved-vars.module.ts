@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const asyncSavedVars = {
   id: "01a0606a-1c56-7944-b92f-f954e0fa0d94",

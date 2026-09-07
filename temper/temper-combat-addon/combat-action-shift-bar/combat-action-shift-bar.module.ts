@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionShiftBar = {
   id: "01a0617f-5835-7ad7-b03c-0bddd7497571",

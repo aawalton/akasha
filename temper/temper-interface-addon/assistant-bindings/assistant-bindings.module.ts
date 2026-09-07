@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const assistantBindings = {
   id: "01a060e7-1bec-71bf-a376-11634f9d6337",

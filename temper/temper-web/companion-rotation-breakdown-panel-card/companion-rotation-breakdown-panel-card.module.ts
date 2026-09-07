@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionRotationBreakdownPanelCard = {
   id: "01a0642f-8c31-7446-baa2-3fd036763c17",

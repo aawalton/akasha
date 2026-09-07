@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionVersionActions = {
   id: "01a06591-9eb0-7000-9053-bdd9b8e2dcfd",

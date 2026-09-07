@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const zoneUpstreamPort = {
   id: "01a0685a-f9b2-7000-8097-747bc58d26f6",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperInventoryCurrency = {
   id: "01a0607b-e91a-7d04-bb08-f4146cc00979",

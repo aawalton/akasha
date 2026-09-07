@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapDataUpstreamVerify = {
   id: "01a06282-dfc3-7a2b-87b4-c262c2239e92",

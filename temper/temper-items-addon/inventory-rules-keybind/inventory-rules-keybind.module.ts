@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryRulesKeybind = {
   id: "01a06258-b533-714c-8fd9-0edc62970ea2",

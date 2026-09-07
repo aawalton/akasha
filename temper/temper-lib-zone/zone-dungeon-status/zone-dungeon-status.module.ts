@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const zoneDungeonStatus = {
   id: "01a061e7-9331-74ea-900c-b22742652fc8",

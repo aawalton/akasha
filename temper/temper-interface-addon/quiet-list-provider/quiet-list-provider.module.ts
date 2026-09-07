@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const quietListProvider = {
   id: "01a060f1-691f-7655-950a-8c9728855629",

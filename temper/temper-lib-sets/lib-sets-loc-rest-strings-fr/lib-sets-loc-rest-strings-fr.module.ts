@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsLocRestStringsFr = {
   id: "01a061d7-7bbc-7f0c-bbdf-e97e3a3f9882",

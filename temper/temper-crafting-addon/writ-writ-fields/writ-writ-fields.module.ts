@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writWritFields = {
   id: "01a061c7-e8bd-7c1d-a664-4040c3315035",

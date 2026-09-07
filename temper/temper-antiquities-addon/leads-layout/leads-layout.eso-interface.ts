@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code-system/eso-interface"
+import type { EsoInterface } from "@akasha/code/eso-interface"
 
 export const leadsLayout = {
   id: "01a06274-b08b-7c8c-bbc7-d352dfe6b43f",

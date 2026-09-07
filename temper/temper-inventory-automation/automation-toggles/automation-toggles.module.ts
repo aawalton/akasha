@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const automationToggles = {
   id: "01a06038-b7a3-702e-9416-158e24c98857",

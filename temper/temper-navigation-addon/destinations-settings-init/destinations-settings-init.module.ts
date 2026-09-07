@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsSettingsInit = {
   id: "01a06269-2929-71ce-be96-0f972719a3d6",

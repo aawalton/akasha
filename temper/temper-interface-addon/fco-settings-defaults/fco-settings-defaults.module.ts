@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoSettingsDefaults = {
   id: "01a06115-1ad4-7c87-8227-90cbd0e07c05",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoMailEvents = {
   id: "01a06115-1acc-7659-bffe-50004af7c14a",

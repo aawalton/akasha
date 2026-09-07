@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const knowledgeSettingsMainSection = {
   id: "01a06229-580d-78a3-ba2e-9a80baec0fcd",

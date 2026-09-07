@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoireStatusLinkedIcon = {
   id: "01a06197-4c9b-713e-8eb3-c7cfdace0097",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const webRuleStackFullness = {
   id: "01a0607c-179b-7cc3-9f57-92b216684cbd",

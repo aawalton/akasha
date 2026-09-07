@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writLinkData = {
   id: "01a061c7-e89c-7561-abe9-924ff36d0056",

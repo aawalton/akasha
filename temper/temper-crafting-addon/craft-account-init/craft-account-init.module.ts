@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const craftAccountInit = {
   id: "01a061c7-e846-79cf-805e-edb321e6e3d2",

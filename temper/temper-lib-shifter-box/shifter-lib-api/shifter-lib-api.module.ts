@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const shifterLibApi = {
   id: "01a06187-364c-70cd-ab74-6d1f38cb4fdc",

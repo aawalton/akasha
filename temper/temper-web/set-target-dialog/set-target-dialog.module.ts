@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const setTargetDialog = {
   id: "01a06429-76ff-7b98-9350-f3aedb167a1a",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const completionSummary = {
   id: "01a063a1-6ec2-7027-8d27-e1641844f7dc",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsSearchUiSharedContextmenu = {
   id: "01a0623e-53a0-784d-a83c-91ac526137c8",

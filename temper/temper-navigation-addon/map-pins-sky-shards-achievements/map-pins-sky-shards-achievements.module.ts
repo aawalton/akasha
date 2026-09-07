@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPinsSkyShardsAchievements = {
   id: "01a06269-2aec-7823-a9a9-301dd5bf6066",

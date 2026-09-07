@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPinsZoneAchievementAll = {
   id: "01a06269-2b0f-7500-886d-b52fac535848",

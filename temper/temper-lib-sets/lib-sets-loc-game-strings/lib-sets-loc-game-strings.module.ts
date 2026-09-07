@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsLocGameStrings = {
   id: "01a061d6-3e44-79de-bd12-2d56ced1d758",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const equipmentPanel = {
   id: "01a0642d-9a17-7211-b1be-9d0aa3197165",

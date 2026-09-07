@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const quietSettingsHeader = {
   id: "01a060f1-6942-7847-8e86-4639db243b58",

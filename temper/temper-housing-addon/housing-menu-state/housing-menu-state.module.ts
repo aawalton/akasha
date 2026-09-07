@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const housingMenuState = {
   id: "01a06113-b7d1-7b8c-b88f-ba1df4ff6bdf",

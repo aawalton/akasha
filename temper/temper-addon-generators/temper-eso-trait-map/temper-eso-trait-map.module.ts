@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperEsoTraitMap = {
   id: "01a0607b-e919-7ff3-af94-2f62d9461290",

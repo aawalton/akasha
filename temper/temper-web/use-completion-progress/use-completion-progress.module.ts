@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useCompletionProgress = {
   id: "01a06421-f74b-726d-a820-51afc5be003b",

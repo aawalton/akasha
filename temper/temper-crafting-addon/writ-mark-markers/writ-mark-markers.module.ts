@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writMarkMarkers = {
   id: "01a061c7-e8a3-7d0b-825a-af08c755bdc2",

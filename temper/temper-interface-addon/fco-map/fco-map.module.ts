@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoMap = {
   id: "01a06115-1acf-7c2b-b2a3-d70d8fd0f32b",

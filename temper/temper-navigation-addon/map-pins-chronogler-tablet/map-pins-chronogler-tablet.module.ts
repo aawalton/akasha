@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPinsChronoglerTablet = {
   id: "01a06269-2aa6-7eea-8f15-d708ad431d24",

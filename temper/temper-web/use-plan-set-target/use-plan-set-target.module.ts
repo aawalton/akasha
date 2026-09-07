@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const usePlanSetTarget = {
   id: "01a0641f-8bf1-7577-9003-dc383cf41990",

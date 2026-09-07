@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const esoMenu = {
   id: "01a0605a-581e-7142-806e-c83e2c7a8fe8",

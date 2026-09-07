@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatMenuTail = {
   id: "01a0617f-584d-7716-b37c-f6c7c2ba573b",

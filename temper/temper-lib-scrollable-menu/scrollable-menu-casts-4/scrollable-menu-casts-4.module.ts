@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scrollableMenuCasts4 = {
   id: "01a06275-c444-73ec-bebb-809fa9799246",

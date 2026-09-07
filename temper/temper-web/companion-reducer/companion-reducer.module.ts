@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionReducer = {
   id: "01a06421-2528-75c2-a9a0-f611559663f2",

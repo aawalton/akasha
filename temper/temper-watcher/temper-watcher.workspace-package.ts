@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const temperWatcher = {
   id: "01a06039-9c87-70d4-a728-02d7341ee89e",

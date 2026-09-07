@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventorySkillLineRanks = {
   id: "01a06258-b534-7262-a1c8-bf99754c5ba6",

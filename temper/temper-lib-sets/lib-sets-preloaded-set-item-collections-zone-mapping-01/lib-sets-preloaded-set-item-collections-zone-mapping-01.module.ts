@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsPreloadedSetItemCollectionsZoneMapping01 = {
   id: "01a061d8-e488-7143-8efe-91e1d6c6d005",

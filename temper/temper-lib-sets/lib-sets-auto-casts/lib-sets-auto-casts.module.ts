@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsAutoCasts = {
   id: "01a0623c-2df7-7f2f-b3b7-48c1971bcba2",

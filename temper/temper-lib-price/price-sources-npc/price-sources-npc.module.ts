@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const priceSourcesNpc = {
   id: "01a0615d-c21b-71c6-af18-6daf1799bdbc",

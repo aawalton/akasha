@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterCapturePotionMap = {
   id: "01a0616b-4d67-7eae-a7e9-5dba894d679f",

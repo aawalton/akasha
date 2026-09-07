@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const zoneGeoDebug = {
   id: "01a061e7-9333-75ac-92dd-634d42b97b34",

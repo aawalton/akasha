@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const knowledgeBaseDataPlans = {
   id: "01a0622b-dc53-778f-984b-f2eee085d95d",

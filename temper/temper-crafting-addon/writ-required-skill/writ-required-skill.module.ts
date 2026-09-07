@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writRequiredSkill = {
   id: "01a061c7-e8af-74aa-84f5-c3d4f0fe6aaf",

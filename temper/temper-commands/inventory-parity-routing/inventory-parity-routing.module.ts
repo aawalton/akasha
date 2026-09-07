@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryParityRouting = {
   id: "01a068e2-2270-76c1-aca3-9375d572748b",

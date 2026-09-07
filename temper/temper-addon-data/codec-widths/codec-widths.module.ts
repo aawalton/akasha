@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const codecWidths = {
   id: "01a06340-4910-7c4a-9758-0704b6fc9b42",

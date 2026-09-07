@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatCoreInit = {
   id: "01a0617f-5840-71df-aff8-afda3c3a25b5",

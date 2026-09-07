@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const skillBarPanelCard = {
   id: "01a0642c-5baa-748d-8bed-0549533fa6c4",

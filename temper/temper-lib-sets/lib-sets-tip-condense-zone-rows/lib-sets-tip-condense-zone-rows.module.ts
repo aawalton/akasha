@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsTipCondenseZoneRows = {
   id: "01a06231-8f1f-78f5-97c7-1f55147e7bd8",

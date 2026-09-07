@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const completionSummaryAccount = {
   id: "01a063a1-6ec3-7070-a4c2-0e4e020a6407",

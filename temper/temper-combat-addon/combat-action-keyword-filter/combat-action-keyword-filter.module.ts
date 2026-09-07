@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionKeywordFilter = {
   id: "01a0617f-5832-7960-ba89-840d9da07f47",

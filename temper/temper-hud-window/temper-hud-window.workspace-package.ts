@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const temperHudWindow = {
   id: "01a060c4-17cf-71ca-8cd3-af5a3fa3c40d",

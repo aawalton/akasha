@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const bankTraceReading = {
   id: "01a06864-aa2b-7002-9f57-fb06fdfa105a",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherSettingsLuaBlock = {
   id: "01a06367-c4f5-7b19-af43-529bb67df9da",

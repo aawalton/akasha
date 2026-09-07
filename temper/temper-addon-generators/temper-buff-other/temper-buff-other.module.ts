@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperBuffOther = {
   id: "01a0607b-1541-74c7-bed5-c4697f03c510",

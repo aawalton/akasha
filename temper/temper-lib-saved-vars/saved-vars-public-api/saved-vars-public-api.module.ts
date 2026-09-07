@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const savedVarsPublicApi = {
   id: "01a06177-ac00-72c6-8172-80d24ba17412",

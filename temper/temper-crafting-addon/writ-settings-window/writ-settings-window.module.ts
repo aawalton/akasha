@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writSettingsWindow = {
   id: "01a061c7-e8b0-704d-8534-7e31ea2bfb1e",

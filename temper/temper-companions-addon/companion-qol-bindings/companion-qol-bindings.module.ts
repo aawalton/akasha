@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionQolBindings = {
   id: "01a0611d-84c3-76da-bd79-5f0adf6ca49f",

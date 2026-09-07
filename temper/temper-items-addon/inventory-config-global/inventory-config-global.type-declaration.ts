@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "@akasha/code-system/type-declaration"
+import type { TypeDeclaration } from "@akasha/code/type-declaration"
 
 export const inventoryConfigGlobal = {
   id: "01a06258-b536-7222-b836-d2bea94dec2e",

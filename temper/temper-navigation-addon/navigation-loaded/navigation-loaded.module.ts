@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const navigationLoaded = {
   id: "01a06269-2898-7ed5-aa02-7c440a7ea8f6",

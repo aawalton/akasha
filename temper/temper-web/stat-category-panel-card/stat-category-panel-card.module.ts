@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const statCategoryPanelCard = {
   id: "01a0642c-5bb6-7392-8ded-f7680eb7c35c",

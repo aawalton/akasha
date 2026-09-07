@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const keybinderPublicApi = {
   id: "01a06381-67c1-75f6-ba15-5366cbc95058",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPinsTimeBreach = {
   id: "01a06269-2afa-7976-8774-81a443e86b6a",

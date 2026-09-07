@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const minimapTweaksRefreshPins = {
   id: "01a06269-2997-781e-a33a-db5d2d258898",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const cadwellProgressPanelCard = {
   id: "01a06421-f74b-7cbd-b36d-266f303f0011",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterCaptureMorphable02 = {
   id: "01a0616b-8593-7efc-872a-ef493babde35",

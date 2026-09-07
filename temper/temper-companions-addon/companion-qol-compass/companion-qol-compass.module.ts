@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionQolCompass = {
   id: "01a0611d-84c5-7033-849d-5e422d08a22a",

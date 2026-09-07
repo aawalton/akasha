@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const leadsFindScryOverrides = {
   id: "01a06274-b08a-79f4-9154-6f6e65d09153",

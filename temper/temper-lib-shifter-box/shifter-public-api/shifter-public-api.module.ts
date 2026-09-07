@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const shifterPublicApi = {
   id: "01a06187-364c-7039-9c69-731d56e74e47",

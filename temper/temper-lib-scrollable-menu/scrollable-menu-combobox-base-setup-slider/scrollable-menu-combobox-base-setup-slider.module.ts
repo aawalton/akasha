@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scrollableMenuComboboxBaseSetupSlider = {
   id: "01a06275-c446-7bcc-a7cd-2864c24f89cb",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const journalLcccColor = {
   id: "01a0617d-5450-7d60-8e4e-0293f18b3bc2",

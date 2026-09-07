@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const renderSetCategoryMappings = {
   id: "01a06340-4915-72f2-ac0f-fe2f19817f7e",

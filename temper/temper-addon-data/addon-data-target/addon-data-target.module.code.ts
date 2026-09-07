@@ -1,4 +1,4 @@
-import { ordinalWidth } from "@akasha/code-system/name-series"
+import { ordinalWidth } from "@akasha/code/name-series"
 
 export type AddonDataModuleTarget = {
   readonly rendered: string

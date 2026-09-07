@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const putting = {
   id: "01a04efb-4361-7984-87ce-b338a39e98b3",

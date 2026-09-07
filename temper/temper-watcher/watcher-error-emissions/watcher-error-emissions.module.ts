@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherErrorEmissions = {
   id: "01a06365-5d76-75c1-a0a0-106da27f95b1",

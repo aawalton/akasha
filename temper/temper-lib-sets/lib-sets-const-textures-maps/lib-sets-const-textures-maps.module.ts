@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsConstTexturesMaps = {
   id: "01a061d7-7bc6-7787-8d3b-7e85249583b9",

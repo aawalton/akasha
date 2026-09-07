@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const gpsConstants = {
   id: "01a0614d-4762-7e2c-8708-60132729345a",

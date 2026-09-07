@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoireStatusTooltip = {
   id: "01a06197-4c9b-7dd5-89f9-ff0114a5f0ba",

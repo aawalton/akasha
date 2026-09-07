@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherLogMerging = {
   id: "01a06039-9c89-7e8b-b406-28150d37543f",

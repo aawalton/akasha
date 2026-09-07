@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryWritCraftingMasterTemplate = {
   id: "01a06258-b536-7620-aa4d-84238ee15a86",

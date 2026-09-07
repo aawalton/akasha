@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const journalMainMenu = {
   id: "01a0617d-5451-79c9-80f6-78c5420d00bd",

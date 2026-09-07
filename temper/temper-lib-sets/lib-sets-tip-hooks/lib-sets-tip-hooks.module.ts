@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsTipHooks = {
   id: "01a0623c-2df7-7f7d-84bd-015a8c088157",

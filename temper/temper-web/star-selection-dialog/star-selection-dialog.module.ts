@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const starSelectionDialog = {
   id: "01a06432-b190-70ca-8fae-defba6b87018",

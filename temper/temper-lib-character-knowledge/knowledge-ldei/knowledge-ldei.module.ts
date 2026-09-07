@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const knowledgeLdei = {
   id: "01a0621c-516c-7e6c-b88e-6a86a6f54d21",

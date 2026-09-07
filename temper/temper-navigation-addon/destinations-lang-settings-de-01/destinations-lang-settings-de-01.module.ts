@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsLangSettingsDe01 = {
   id: "01a06269-29fd-7c1a-8662-200de080b4c9",

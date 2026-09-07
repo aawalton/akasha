@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const playerSettings = {
   id: "01a0640f-8510-7ec4-bf91-bd8c41002f73",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryWritToggles = {
   id: "01a06258-b536-77ea-bcb3-052c1720a04f",

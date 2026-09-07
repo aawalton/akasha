@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const workspaceClosure = {
   id: "01a06060-ec3e-7582-ae88-090d58ee8ee9",

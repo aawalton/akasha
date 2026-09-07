@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const editorTabLabels = {
   id: "01a0642c-5b84-7439-b9ba-eebdb86d7a62",

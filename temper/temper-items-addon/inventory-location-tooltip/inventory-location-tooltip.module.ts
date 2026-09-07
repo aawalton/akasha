@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryLocationTooltip = {
   id: "01a06258-b52d-7912-b267-338d41a0269c",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryJunkQueue = {
   id: "01a06258-b52d-7f4b-bdbd-e12809ac7ab9",

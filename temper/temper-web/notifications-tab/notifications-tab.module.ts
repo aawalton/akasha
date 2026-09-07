@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const notificationsTab = {
   id: "01a06432-b190-74d1-baf2-ed7d76418c85",

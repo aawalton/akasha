@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsKbfFilterPanel = {
   id: "01a0623e-53a1-7dd5-a1ad-b9e1e7101b97",

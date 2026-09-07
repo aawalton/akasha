@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const temperEsoPaths = {
   id: "01a06050-639d-78c1-a9ff-c6579f3deebd",

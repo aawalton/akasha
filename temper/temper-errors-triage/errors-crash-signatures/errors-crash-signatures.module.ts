@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const errorsCrashSignatures = {
   id: "01a060cd-5650-7e48-8597-777c84f0ffa4",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionPriority = {
   id: "01a0617f-5833-730c-9a17-c9a43f533391",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const esoPathsResolve = {
   id: "01a06079-c3b5-7e9b-86a5-dfbfd908990c",

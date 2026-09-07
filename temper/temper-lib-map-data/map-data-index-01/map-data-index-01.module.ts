@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapDataIndex01 = {
   id: "01a061e1-aea4-70e1-ab44-4d4e180e9d8e",

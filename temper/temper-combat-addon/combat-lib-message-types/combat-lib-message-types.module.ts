@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatLibMessageTypes = {
   id: "01a0617f-5849-75c1-84cf-de09a002a3a3",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterReducer = {
   id: "01a0642c-5b98-75f5-a763-12dff8b280df",

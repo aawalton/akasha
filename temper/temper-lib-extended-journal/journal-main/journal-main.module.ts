@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const journalMain = {
   id: "01a0617d-5451-73e4-a840-02c783671f56",

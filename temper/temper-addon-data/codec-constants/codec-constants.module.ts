@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const codecConstants = {
   id: "01a06340-4913-720a-8fd0-f609eccfd062",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const priceCasts = {
   id: "01a0615d-c219-7729-a4bf-b8c0493920a7",

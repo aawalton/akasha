@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const compassPinsManager = {
   id: "01a06269-28b1-7893-a16b-8a5578a1dd0c",

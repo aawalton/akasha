@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "@akasha/code-system/type-declaration"
+import type { TypeDeclaration } from "@akasha/code/type-declaration"
 
 export const scrollableMenuDropdownObjectShapes = {
   id: "01a06275-c448-7fb8-a961-82468c844992",

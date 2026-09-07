@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatSortedPairs = {
   id: "01a0617f-5850-7959-a89a-59cd0f9d7a74",

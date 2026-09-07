@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoireCategoryClassShape = {
   id: "01a06197-4c8e-7135-bef8-3f67fb37c2bb",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsLocOnOffLabels = {
   id: "01a061d7-7bb7-7e19-ab98-7217b31320b1",

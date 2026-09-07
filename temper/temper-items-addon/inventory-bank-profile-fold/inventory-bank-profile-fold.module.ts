@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryBankProfileFold = {
   id: "01a06258-b527-7d64-bf4a-3aef766f65de",

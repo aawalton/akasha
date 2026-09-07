@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const dataminingItemMiner = {
   id: "01a06341-d9e8-7004-990d-d242df0e2bd1",

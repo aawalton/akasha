@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatProcessLogTimings = {
   id: "01a0617f-584e-70a8-98a0-448121bd6ea0",

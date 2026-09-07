@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const selectorSearch = {
   id: "01a061ef-c8a5-7d4f-ba77-d69163181a9f",

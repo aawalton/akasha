@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const charactersFilterTypes = {
   id: "01a0642c-5b92-7b84-b68b-7c30a2e454c0",

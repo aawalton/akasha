@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const orderListBoxEntry = {
   id: "01a06207-bdf3-79e2-9e63-14aa5448d6e1",

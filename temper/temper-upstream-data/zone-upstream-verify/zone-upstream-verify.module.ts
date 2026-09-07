@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const zoneUpstreamVerify = {
   id: "01a06288-c640-74b3-b566-c847f9efc2c9",

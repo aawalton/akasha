@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const slashCommanderCasts = {
   id: "01a06066-8403-7a32-b1b3-df88bb610cb2",

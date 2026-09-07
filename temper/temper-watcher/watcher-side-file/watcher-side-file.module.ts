@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherSideFile = {
   id: "01a06381-35cf-7b8f-8505-ad3ea6755991",

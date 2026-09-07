@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const leadsInit = {
   id: "01a06274-b08a-713c-8263-d0c81956cd55",

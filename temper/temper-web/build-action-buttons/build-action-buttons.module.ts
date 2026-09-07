@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const buildActionButtons = {
   id: "01a06429-76ff-76d2-871d-396183de31fd",

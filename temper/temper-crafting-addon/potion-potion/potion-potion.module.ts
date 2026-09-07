@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const potionPotion = {
   id: "01a061c7-e882-7c25-b043-66c03683427e",

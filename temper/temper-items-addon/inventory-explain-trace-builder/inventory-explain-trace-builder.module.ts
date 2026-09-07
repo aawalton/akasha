@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryExplainTraceBuilder = {
   id: "01a06258-b52c-7a1c-ba55-5a00c1d5de54",

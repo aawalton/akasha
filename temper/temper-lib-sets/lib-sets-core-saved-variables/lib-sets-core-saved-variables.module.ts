@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCoreSavedVariables = {
   id: "01a061fc-ceea-76dd-8b6b-a1e1f14f9219",

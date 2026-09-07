@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const housingComboboxes = {
   id: "01a06128-d5c9-78cc-9a1a-1b0d3985edd8",

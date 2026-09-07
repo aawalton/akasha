@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsSettingsMiscPoi = {
   id: "01a06269-292e-747e-8d58-29133fdb875b",

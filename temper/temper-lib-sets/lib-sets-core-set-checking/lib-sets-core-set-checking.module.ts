@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCoreSetChecking = {
   id: "01a061fc-ceeb-7357-a58d-cb080d3977c2",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterProgress = {
   id: "01a06421-f74b-78cf-a4a8-43342bc70016",

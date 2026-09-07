@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scriptEditDialog = {
   id: "01a0642c-5ba9-7595-9272-3c4468593f64",

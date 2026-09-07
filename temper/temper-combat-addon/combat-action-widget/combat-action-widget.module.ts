@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionWidget = {
   id: "01a0617f-5839-710d-b891-97cc44fe55f8",

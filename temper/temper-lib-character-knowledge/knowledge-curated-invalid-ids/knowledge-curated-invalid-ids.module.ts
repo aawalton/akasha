@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const knowledgeCuratedInvalidIds = {
   id: "01a0622b-dc57-7c4b-8f62-fa6a29f7844e",

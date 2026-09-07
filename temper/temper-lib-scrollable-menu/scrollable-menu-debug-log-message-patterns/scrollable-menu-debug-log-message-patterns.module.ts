@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scrollableMenuDebugLogMessagePatterns = {
   id: "01a06275-c447-77e7-8ff2-b52861a169f3",

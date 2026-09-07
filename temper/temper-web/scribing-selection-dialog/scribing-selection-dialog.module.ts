@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scribingSelectionDialog = {
   id: "01a0642c-5ba8-76f0-8d13-0dc1889af9a0",

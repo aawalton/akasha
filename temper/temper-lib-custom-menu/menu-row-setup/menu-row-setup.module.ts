@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const menuRowSetup = {
   id: "01a0605a-5821-7f11-b1c6-61c921c020da",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const questsSlashCommands = {
   id: "01a0635f-391c-7ae6-a1ab-5e89ac12419c",

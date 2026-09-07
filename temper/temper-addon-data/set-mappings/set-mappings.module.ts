@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const setMappings = {
   id: "01a06340-4915-7e3a-82b6-13e8e6577167",

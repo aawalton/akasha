@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionsSkillMap = {
   id: "01a0611d-84e2-7459-a5ca-157255030bb6",

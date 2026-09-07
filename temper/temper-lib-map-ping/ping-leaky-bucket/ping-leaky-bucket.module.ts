@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pingLeakyBucket = {
   id: "01a0605f-6261-7d76-ba42-e30ce5260d08",

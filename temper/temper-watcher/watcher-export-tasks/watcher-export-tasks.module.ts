@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherExportTasks = {
   id: "01a06381-35cf-79d7-a1eb-ab708052aacb",

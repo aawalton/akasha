@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherLogLine = {
   id: "01a06039-9c89-7ba8-aee4-a339fadf4824",

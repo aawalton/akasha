@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCopyTextSplit = {
   id: "01a0623c-2df8-7447-8782-334bfe087f89",

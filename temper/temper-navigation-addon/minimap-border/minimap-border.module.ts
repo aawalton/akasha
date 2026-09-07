@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const minimapBorder = {
   id: "01a06269-2977-7484-a59c-e6669eeef350",

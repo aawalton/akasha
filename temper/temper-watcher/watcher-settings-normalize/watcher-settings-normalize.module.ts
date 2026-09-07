@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherSettingsNormalize = {
   id: "01a06367-c4f5-75c7-bf34-7f05e44866aa",

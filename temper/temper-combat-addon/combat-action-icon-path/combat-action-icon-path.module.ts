@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionIconPath = {
   id: "01a0617f-5832-738f-b0ec-2841c13d1db0",

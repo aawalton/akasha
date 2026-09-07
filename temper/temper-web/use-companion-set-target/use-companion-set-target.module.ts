@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useCompanionSetTarget = {
   id: "01a0642f-8c3c-7327-a586-7f38b3e81460",

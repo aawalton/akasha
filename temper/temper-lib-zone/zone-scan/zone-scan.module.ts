@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const zoneScan = {
   id: "01a061e7-9330-72c0-b74e-bcc6d1057966",

@@ -1,4 +1,4 @@
-import type { TypeDeclaration } from "@akasha/code-system/type-declaration"
+import type { TypeDeclaration } from "@akasha/code/type-declaration"
 
 export const orderListBoxShape = {
   id: "01a06207-bdf8-746c-ad6e-67efcc323489",

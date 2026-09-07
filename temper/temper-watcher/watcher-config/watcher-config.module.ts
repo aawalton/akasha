@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherConfig = {
   id: "01a06377-d8cc-7874-ab3c-63e6604b4df8",

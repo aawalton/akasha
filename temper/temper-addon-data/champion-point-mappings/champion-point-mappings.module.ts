@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const championPointMappings = {
   id: "01a06340-4913-75fd-b073-fa15cf0ed3c4",

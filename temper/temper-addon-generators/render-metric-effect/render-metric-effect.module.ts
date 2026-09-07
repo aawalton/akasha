@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const renderMetricEffect = {
   id: "01a06102-20e7-72f9-bef3-a4eb520fa9e8",

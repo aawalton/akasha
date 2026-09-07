@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const metricTreeRenderer = {
   id: "01a0642c-5bb4-73c6-b274-bca93a1ed99f",

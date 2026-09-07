@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scrollableMenuDebugLoggingToggle = {
   id: "01a06275-c447-7d33-a40a-ab1f81aa2b8b",

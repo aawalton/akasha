@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const errorsAddonLimits = {
   id: "01a060d8-0917-72f6-9712-2e34f6088161",

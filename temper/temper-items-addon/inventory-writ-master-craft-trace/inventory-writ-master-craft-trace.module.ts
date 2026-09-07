@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryWritMasterCraftTrace = {
   id: "01a06258-b536-7fdf-8b90-817cdb60d5dd",

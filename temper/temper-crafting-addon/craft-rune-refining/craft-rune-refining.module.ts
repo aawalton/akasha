@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const craftRuneRefining = {
   id: "01a061c7-e865-7b12-a3de-cbcea91aac33",

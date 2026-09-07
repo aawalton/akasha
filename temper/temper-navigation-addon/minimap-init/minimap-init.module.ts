@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const minimapInit = {
   id: "01a06269-2982-7852-8cbe-8084680d1aac",

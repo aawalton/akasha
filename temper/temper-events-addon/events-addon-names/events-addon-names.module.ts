@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const eventsAddonNames = {
   id: "01a06157-8354-759a-9d58-c6830ee43968",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mainMenuCasts = {
   id: "01a0605b-c801-75ea-bec7-99b3645fcbda",

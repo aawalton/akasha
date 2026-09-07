@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const bulkSetEditTag = {
   id: "01a0642d-9a17-7914-a5e0-bc31c4a7d032",

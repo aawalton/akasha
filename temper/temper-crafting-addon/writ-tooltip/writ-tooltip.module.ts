@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writTooltip = {
   id: "01a061c7-e8b7-712a-8b8c-30ba43a14c5c",

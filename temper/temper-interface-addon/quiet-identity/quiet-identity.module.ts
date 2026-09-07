@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const quietIdentity = {
   id: "01a060f1-691e-76ef-9597-e0128aafcf7f",

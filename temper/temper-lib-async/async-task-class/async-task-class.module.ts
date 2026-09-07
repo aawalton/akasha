@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const asyncTaskClass = {
   id: "01a0606a-1c58-7ece-b623-19549164bc35",

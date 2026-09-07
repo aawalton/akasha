@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const savedVarsProtectedMigrate = {
   id: "01a06177-abfb-7913-83a5-ec279a64ae25",

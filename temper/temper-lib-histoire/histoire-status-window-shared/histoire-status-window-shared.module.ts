@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoireStatusWindowShared = {
   id: "01a06197-4c9f-7794-8927-89a60ea440aa",

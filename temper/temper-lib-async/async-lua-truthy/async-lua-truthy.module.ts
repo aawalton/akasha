@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const asyncLuaTruthy = {
   id: "01a0606a-1c55-7be8-906d-f6520a9cb651",

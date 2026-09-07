@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pathTracker = {
   id: "01a06432-b190-71fc-9819-f71d76c95c14",

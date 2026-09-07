@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scrollableMenuDropdownHeaderRefresh = {
   id: "01a06275-c448-7d4f-b5d1-337777f5d2dd",

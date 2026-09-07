@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const renderConstOrNull = {
   id: "01a06118-fdf9-7d79-92b1-3e8e75c3b5be",

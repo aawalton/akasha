@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tradingTypes = {
   id: "01a06160-2a5e-7579-bb70-416bf4fbc1c8",

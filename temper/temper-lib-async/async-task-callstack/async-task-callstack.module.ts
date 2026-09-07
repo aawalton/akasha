@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const asyncTaskCallstack = {
   id: "01a0606a-1c58-7824-9a32-89e327147359",

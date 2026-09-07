@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperRuleTemplate = {
   id: "01a0607b-e91f-7449-ba4b-c44d3f2b89e5",

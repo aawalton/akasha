@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const buildCodec = {
   id: "01a062e7-4dbe-73e5-abaa-b0cc07a64bac",

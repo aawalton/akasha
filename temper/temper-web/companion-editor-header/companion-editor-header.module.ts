@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionEditorHeader = {
   id: "01a0642f-8c36-7da9-a4d9-03b20ba5fade",

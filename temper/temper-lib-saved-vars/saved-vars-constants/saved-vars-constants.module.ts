@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const savedVarsConstants = {
   id: "01a06177-abf9-7884-8e65-a2c3ae09d514",

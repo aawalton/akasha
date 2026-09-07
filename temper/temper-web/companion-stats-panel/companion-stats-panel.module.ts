@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionStatsPanel = {
   id: "01a06436-3557-72c0-9712-d936c8e8eaa3",

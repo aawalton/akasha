@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsKbfSorting = {
   id: "01a0623e-53a1-7fe8-aa65-3bdbcb7ee465",

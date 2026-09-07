@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scrollableMenuLibState = {
   id: "01a06275-c449-7718-96d3-f0cd0abfd3ab",

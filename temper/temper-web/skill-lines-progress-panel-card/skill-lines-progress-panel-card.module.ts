@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const skillLinesProgressPanelCard = {
   id: "01a06421-f74b-752f-a6b5-360b99270035",

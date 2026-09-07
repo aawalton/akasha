@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const selectorPublicApi = {
   id: "01a061ef-c8a5-7735-8ac1-30a7ea57d297",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryBrowserFilterbar = {
   id: "01a06258-b529-7a93-8a15-c32cbdacd6ba",

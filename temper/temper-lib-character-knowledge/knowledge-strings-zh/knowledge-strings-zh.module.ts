@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const knowledgeStringsZh = {
   id: "01a0621c-5172-7f77-ac9d-2227d84d948f",

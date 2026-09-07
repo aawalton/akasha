@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsDropNameNamesJp = {
   id: "01a061d6-3e29-71a2-9796-db0823650883",

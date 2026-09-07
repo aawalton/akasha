@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryTooltipRuleLine = {
   id: "01a06258-b534-70ec-b172-fd006cbff261",

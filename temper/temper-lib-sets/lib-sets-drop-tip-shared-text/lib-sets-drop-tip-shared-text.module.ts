@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsDropTipSharedText = {
   id: "01a061d6-3e2f-7e0d-9a09-bb42b6898cfa",

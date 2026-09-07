@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryWritCraftingGlyphTable = {
   id: "01a06258-b535-71b6-9383-a435d56f7723",

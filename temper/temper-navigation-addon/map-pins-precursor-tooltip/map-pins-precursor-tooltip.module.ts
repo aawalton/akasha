@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPinsPrecursorTooltip = {
   id: "01a06269-2ae6-7296-a8b5-f9f9d9ab737a",

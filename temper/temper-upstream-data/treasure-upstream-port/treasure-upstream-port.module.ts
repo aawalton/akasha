@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const treasureUpstreamPort = {
   id: "01a0683b-e6a4-74fb-9866-3bb7e5c636f1",

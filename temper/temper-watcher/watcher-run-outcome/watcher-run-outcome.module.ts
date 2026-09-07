@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherRunOutcome = {
   id: "01a0633f-8d1d-7d93-a711-1559acdac009",

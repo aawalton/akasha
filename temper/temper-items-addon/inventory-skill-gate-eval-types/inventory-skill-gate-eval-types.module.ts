@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventorySkillGateEvalTypes = {
   id: "01a06267-2a35-7892-a34c-d80efea2af72",

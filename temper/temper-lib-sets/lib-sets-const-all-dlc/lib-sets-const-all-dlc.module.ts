@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsConstAllDlc = {
   id: "01a061d7-7bc8-7a36-91a7-b3880f734351",

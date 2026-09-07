@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsTipDropMechanicGroupSelect = {
   id: "01a06231-8f1e-710c-b8c6-91c1c5518292",

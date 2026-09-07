@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const bundleMemberSavedVars = {
   id: "01a06072-5abd-75b9-b1b8-07150462637e",

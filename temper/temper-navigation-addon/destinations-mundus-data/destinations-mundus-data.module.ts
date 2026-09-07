@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsMundusData = {
   id: "01a06269-29b9-7e03-beb8-590215cb417d",

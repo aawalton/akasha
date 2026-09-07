@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionQolCasts = {
   id: "01a0611d-84c4-7502-90cd-7bbaa684cb7d",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryCategoryTree = {
   id: "01a06258-b52a-7a34-8e85-b99f40b1b436",

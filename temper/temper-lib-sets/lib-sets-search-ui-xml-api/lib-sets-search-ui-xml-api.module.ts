@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsSearchUiXmlApi = {
   id: "01a0623e-53a0-708b-a8c0-947cba1427e9",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const priceSourcesRolis = {
   id: "01a0615d-c21c-7c3c-ad30-8d1512ee7583",

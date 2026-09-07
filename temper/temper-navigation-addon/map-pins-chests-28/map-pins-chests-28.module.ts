@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPinsChests28 = {
   id: "01a06269-2aa2-786e-8203-378efdce0ada",

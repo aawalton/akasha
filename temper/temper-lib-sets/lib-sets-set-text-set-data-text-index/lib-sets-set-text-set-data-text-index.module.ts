@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsSetTextSetDataTextIndex = {
   id: "01a0623c-2df5-73ef-a197-343f411ab7d3",

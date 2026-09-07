@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const temperErrorsTriage = {
   id: "01a060cd-564e-7685-8e5f-1bf87cbf4467",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsSearchUiSharedSearch = {
   id: "01a0623c-2df8-77cc-aa20-7ad23b772da9",

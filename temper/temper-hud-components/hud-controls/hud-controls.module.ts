@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const hudControls = {
   id: "01a060a4-fa3b-745a-a9a7-a90e32641060",

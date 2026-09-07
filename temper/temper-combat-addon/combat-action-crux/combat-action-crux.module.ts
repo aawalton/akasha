@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionCrux = {
   id: "01a0617f-582e-7cc0-9eac-fc71772d81fa",

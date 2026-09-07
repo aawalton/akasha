@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const hudAddonVisibilityVersion = {
   id: "01a061c5-18dd-7002-98bb-12e2b151ea28",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const runeWrits = {
   id: "01a061c7-e893-75c7-894e-78ed783b4905",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const declaring = {
   id: "01a04f4e-cc2d-7607-9fbc-82d1c0c0d9be",

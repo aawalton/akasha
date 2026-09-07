@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const generateAddonData = {
   id: "01a0685f-fd9b-7000-b2e8-a507f1d0986d",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoirePerformanceTracker = {
   id: "01a06197-4c98-7bf9-b126-d55040912390",

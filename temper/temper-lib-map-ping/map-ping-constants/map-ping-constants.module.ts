@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPingConstants = {
   id: "01a0605f-625f-76ae-9f25-ff0c59770ee5",

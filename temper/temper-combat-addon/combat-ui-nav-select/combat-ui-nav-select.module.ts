@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatUiNavSelect = {
   id: "01a0617f-5857-77c5-b6f2-723b3c0c7dea",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatUiSettingsMenu = {
   id: "01a0617f-585b-724a-879e-67c57979348b",

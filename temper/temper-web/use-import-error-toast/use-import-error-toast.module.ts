@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useImportErrorToast = {
   id: "01a0640f-8510-7768-9aee-350974e45eea",

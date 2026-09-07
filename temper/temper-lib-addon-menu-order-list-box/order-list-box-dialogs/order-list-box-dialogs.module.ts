@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const orderListBoxDialogs = {
   id: "01a06207-bdf0-770d-80f0-db4744058c0a",

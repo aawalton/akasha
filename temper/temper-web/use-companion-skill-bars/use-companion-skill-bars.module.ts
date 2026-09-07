@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useCompanionSkillBars = {
   id: "01a0641f-8bec-7106-acdb-36270869ee98",

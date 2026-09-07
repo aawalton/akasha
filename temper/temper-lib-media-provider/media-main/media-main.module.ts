@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mediaMain = {
   id: "01a06069-f8c4-7b14-aede-050c4b2d0c98",

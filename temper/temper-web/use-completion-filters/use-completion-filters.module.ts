@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useCompletionFilters = {
   id: "01a06421-f74b-74c4-922b-3697172b003a",

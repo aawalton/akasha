@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const restoreConfirmDialog = {
   id: "01a0641f-8bf0-7201-9eb5-41690b29ef6c",

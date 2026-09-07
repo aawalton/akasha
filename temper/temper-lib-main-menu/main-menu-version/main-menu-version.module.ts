@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mainMenuVersion = {
   id: "01a0605b-c805-735a-a5cc-35a007da2712",

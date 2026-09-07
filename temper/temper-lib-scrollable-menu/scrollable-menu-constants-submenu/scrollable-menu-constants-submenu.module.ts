@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const scrollableMenuConstantsSubmenu = {
   id: "01a06275-c446-71a1-b332-1345a2da6cf2",

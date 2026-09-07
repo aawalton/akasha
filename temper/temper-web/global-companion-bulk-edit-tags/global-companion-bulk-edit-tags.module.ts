@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const globalCompanionBulkEditTags = {
   id: "01a06421-251f-7df1-a395-cd35a895a07e",

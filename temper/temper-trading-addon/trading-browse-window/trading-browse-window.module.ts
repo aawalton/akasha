@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tradingBrowseWindow = {
   id: "01a06160-2a59-7df3-a77c-588f057cc94c",

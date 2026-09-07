@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const upstreamLibraries = {
   id: "01a06038-2cbf-7931-aedd-7a1b9a4637c4",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCoreApiNav = {
   id: "01a061fc-ceed-790c-89ab-adf54c99f601",

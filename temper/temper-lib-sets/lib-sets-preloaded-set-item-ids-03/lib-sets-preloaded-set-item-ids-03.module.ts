@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsPreloadedSetItemIds03 = {
   id: "01a061dd-1557-7c79-8192-52350c5124a0",

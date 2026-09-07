@@ -1,4 +1,4 @@
-import type { LuaModule } from "@akasha/code-system/lua-module"
+import type { LuaModule } from "@akasha/code/lua-module"
 
 export const catalogConfigFile = {
   id: "01a063ba-94e5-7985-98c9-01225f7eeb33",

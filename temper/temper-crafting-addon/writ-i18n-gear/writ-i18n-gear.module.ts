@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writI18nGear = {
   id: "01a061c7-e899-7133-a0b6-76946f426ad2",

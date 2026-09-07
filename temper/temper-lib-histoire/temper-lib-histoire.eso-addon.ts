@@ -1,4 +1,4 @@
-import type { EsoAddon } from "@akasha/code-system/eso-addon"
+import type { EsoAddon } from "@akasha/code/eso-addon"
 
 export const temperLibHistoire = {
   id: "01a06197-4ca1-7e27-83d1-a375f8179328",

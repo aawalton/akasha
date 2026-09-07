@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPinsAllianceColors = {
   id: "01a06269-2937-7ce3-a774-3a5b13cfecbf",

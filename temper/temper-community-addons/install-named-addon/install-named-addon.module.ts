@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const installNamedAddon = {
   id: "01a06069-b790-7f2c-a237-0a215f888c46",

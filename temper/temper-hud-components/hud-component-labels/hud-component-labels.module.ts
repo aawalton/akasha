@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const hudComponentLabels = {
   id: "01a060a4-fa3a-7e69-ab6f-7e0aaefa14c1",

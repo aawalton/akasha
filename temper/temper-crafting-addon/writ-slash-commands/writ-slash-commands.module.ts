@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writSlashCommands = {
   id: "01a061c7-e8b0-7372-9b39-243651375383",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const runePanel = {
   id: "01a061c7-e890-7c1c-9db8-70cf52878c41",

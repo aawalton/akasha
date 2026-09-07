@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const parseRestoreMetricsFromAbilityText = {
   id: "01a0607b-153e-74fc-b163-ad1edc06eba6",

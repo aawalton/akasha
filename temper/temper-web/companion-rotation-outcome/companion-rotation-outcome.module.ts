@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionRotationOutcome = {
   id: "01a0641f-8bea-77b6-89d6-102ff4463da9",

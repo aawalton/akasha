@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const hudSceneParse = {
   id: "01a060a4-fa3a-750c-9ca2-1bb7318f8b00",

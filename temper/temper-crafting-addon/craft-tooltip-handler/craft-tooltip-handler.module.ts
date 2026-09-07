@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const craftTooltipHandler = {
   id: "01a061c7-e872-7476-a0c7-fa1d3f7070ee",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperPagesResolver = {
   id: "01a0640f-8510-7c72-8ea7-ff3cbcdf74b3",

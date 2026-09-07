@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const tableFunctionsEntry = {
   id: "01a06052-2ca6-7783-9f7b-c66a284047c9",

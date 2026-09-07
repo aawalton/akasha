@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addonUpdatePlan = {
   id: "01a06069-b78f-7b28-b528-03c2f328ce0c",

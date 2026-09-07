@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const statChangesDescription = {
   id: "01a0642c-5b9e-7e2d-900f-e5523b61154d",

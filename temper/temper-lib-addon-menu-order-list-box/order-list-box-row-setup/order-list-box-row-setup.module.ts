@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const orderListBoxRowSetup = {
   id: "01a06207-bdf7-755b-88bf-b9588192e64b",

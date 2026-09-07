@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const orderListBoxWidget = {
   id: "01a06207-bdf9-7fdb-a11c-b38837f874d1",

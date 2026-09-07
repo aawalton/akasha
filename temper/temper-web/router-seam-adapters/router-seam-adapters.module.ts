@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const routerSeamAdapters = {
   id: "01a0640f-8510-73e8-9766-6087a7ac4f3b",

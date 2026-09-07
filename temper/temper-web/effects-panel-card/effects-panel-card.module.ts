@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const effectsPanelCard = {
   id: "01a0642c-5bb3-7bdb-83ac-f01c253585a7",

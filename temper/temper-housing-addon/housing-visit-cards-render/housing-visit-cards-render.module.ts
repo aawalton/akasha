@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const housingVisitCardsRender = {
   id: "01a06128-d5d6-7c5b-a636-be1909ea5a7d",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const errorsAddonTraceback = {
   id: "01a060d8-0918-794b-b5f8-4d8440ca2d4b",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libsetsUpstreamVerify = {
   id: "01a060d0-ca2a-7b19-860d-b24372089328",

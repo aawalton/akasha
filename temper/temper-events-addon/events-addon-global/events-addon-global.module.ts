@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const eventsAddonGlobal = {
   id: "01a06157-8355-7167-94a2-afe46cd04bb8",

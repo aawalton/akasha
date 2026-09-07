@@ -1,4 +1,4 @@
-import type { EsoAddon } from "@akasha/code-system/eso-addon"
+import type { EsoAddon } from "@akasha/code/eso-addon"
 
 export const temperLibMediaProvider = {
   id: "01a06069-f8c0-7024-bde1-26d49b2a6bff",

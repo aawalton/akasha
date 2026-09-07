@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const craftingHelpers = {
   id: "01a061c7-e878-7f6f-9acf-22a044cfa382",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionRefine = {
   id: "01a0617f-5834-710d-b595-a8edf56ff070",

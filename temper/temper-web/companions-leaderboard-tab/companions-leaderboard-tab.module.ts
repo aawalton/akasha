@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionsLeaderboardTab = {
   id: "01a06421-2527-75e7-b164-c11779b96bfc",

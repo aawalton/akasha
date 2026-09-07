@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mainMenuKeyboard = {
   id: "01a0605b-c803-7076-8256-6e18f678aa85",

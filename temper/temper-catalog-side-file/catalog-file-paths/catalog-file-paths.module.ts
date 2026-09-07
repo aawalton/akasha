@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const catalogFilePaths = {
   id: "01a060ce-b8cc-7704-9bd1-cd4631423a3c",

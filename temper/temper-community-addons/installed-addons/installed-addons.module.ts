@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const installedAddons = {
   id: "01a06069-b78f-7051-8fb2-ebe10b403037",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const useSkillBars = {
   id: "01a0642c-5ba5-78a4-86dc-ff5e65b8a5ef",

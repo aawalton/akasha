@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPingCompatibility = {
   id: "01a0605f-6263-7b5a-b8a6-e1817c4462aa",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventorySnapshotReading = {
   id: "01a068e2-226c-7031-8b22-521c27850f03",

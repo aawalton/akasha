@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterCaptureEnchantQuality = {
   id: "01a0616b-9b51-721f-941f-564f2f6934aa",

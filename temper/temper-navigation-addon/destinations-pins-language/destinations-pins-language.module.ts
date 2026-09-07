@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsPinsLanguage = {
   id: "01a06269-28f2-72e1-8db1-3c7dc96c1916",

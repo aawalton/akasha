@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const errorsAddonEntry = {
   id: "01a060d8-091a-7ce1-8550-de2e11a20429",

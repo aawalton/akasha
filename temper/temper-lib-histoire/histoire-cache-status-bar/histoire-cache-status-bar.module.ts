@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoireCacheStatusBar = {
   id: "01a06197-4c8d-758c-ad11-254d709cb353",

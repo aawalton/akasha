@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsSearchUiSharedXmlHandlers = {
   id: "01a0623e-53a0-7102-9ecb-77c73ed004d4",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionSkillSelectDialog = {
   id: "01a0642f-8c32-7775-b161-276fc7d4c191",

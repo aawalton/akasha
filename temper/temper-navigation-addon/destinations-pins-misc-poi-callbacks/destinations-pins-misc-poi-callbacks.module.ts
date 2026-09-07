@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsPinsMiscPoiCallbacks = {
   id: "01a06269-28f5-79f9-b449-88128634a68b",

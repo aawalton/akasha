@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const addonKeybindsTypes = {
   id: "01a0605a-051c-71ee-b5b4-2aa2ec58d9e0",

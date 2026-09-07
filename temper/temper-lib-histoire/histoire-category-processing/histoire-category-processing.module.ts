@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoireCategoryProcessing = {
   id: "01a06197-4c8f-7a02-b7a0-7f1f4d662cee",

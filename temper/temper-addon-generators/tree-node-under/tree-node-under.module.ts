@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const treeNodeUnder = {
   id: "01a06118-fdf8-7a23-8878-9723c690026e",

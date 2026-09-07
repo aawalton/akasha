@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const renderQualityValues = {
   id: "01a06102-20e9-7554-81d6-0034a9fe914b",

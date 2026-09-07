@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatStringsTable = {
   id: "01a0617f-5851-7da3-b39f-3a238a17ca33",

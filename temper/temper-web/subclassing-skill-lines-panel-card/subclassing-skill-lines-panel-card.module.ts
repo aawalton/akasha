@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const subclassingSkillLinesPanelCard = {
   id: "01a06421-f74b-7c10-81f6-98e711570037",

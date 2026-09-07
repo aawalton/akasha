@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoireQuickNavigation = {
   id: "01a06197-4c99-7caf-8140-c9ca23195874",

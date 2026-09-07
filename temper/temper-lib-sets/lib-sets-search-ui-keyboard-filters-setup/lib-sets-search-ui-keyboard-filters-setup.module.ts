@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsSearchUiKeyboardFiltersSetup = {
   id: "01a0623e-53a1-71e5-8547-9eccb2b6b04b",

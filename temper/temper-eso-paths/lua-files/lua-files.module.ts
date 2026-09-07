@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const luaFiles = {
   id: "01a06919-a938-7c99-866b-0f9382740997",

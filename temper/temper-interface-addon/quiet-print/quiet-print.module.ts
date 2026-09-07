@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const quietPrint = {
   id: "01a060f1-6939-7e66-bda8-537dbe53d04e",

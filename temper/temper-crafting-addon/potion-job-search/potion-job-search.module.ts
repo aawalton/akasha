@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const potionJobSearch = {
   id: "01a061c7-e87f-7fff-a945-ae7a2747907c",

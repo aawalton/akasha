@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const questsClassify = {
   id: "01a0635f-391c-79c4-8464-429301bdaa3c",

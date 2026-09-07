@@ -1,4 +1,4 @@
-import type { WorkspacePackage } from "@akasha/code-system/workspace-package"
+import type { WorkspacePackage } from "@akasha/code/workspace-package"
 
 export const temperLuaRunner = {
   id: "01a06059-248e-7afb-9115-253f8636048f",

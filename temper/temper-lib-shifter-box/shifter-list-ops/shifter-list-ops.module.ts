@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const shifterListOps = {
   id: "01a06187-364b-743c-bebc-5b300ba6741a",

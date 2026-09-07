@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsBoolPair = {
   id: "01a0617b-4b74-7947-906e-dc19a68d36b8",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionVampireView = {
   id: "01a0617f-5838-7b83-8654-868e16e4e482",

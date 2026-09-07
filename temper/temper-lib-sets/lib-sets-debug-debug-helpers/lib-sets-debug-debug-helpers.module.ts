@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsDebugDebugHelpers = {
   id: "01a0623c-2df7-7868-8d71-09bd658923d5",

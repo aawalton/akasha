@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const orderListBoxCasts = {
   id: "01a06207-bdee-719b-9def-b29a859b1aaa",

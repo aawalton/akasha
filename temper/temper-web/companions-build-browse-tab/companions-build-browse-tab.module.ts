@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionsBuildBrowseTab = {
   id: "01a06421-2526-7939-a8fa-76def00c5943",

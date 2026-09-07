@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const catalogConstants = {
   id: "01a063ba-94e5-7067-b212-ee1558bee77b",

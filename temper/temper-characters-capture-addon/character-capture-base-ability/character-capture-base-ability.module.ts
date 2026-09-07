@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterCaptureBaseAbility = {
   id: "01a0616b-2ab0-76e4-88f5-494ff9be08f5",

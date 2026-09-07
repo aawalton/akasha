@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const runeFavorites = {
   id: "01a061c7-e88e-7996-83f9-4b9f701d7989",

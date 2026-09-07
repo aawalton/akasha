@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code-system/eso-interface"
+import type { EsoInterface } from "@akasha/code/eso-interface"
 
 export const nextBossLayout = {
   id: "01a06157-835b-7886-981b-c885f8cbe8e7",

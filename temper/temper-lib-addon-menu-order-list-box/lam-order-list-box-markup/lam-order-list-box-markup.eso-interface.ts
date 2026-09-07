@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code-system/eso-interface"
+import type { EsoInterface } from "@akasha/code/eso-interface"
 
 export const lamOrderListBoxMarkup = {
   id: "01a06207-bdeb-77bc-a92f-e711237f036c",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mountTrainingPanelCard = {
   id: "01a06421-f74b-7aed-a3f9-5ade7268002e",

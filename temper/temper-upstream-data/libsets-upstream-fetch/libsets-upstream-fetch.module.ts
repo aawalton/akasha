@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libsetsUpstreamFetch = {
   id: "01a06341-d9e8-7000-b612-9ac2472fbb2d",

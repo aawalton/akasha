@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const minimapSavedVariables = {
   id: "01a06269-2973-74c0-9de8-f62c170be09f",

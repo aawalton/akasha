@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const quietMapPins = {
   id: "01a060f1-692c-79bd-802e-0f75b32496db",

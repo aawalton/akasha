@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const constraintBadges = {
   id: "01a06421-2522-7797-9798-69269634bacb",

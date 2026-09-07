@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPinsFishIcon = {
   id: "01a06269-2aa7-796f-9777-7ed391d39ca9",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionsApplyBuild = {
   id: "01a0611d-84cf-76fc-9899-547c8ff795c5",

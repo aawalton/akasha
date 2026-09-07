@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterCaptureScribingMap = {
   id: "01a0616b-73d4-7812-9a51-9ac08a5b1406",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCoreInitSearchUi = {
   id: "01a061fc-ceeb-71e2-af64-075a353ff4c6",

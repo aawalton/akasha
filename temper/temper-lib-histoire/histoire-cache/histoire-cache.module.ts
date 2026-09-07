@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoireCache = {
   id: "01a06197-4c8c-78ed-8745-f6b7f743dc38",

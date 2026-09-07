@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pinState = {
   id: "01a06062-57df-7c3f-ac72-528c32955542",

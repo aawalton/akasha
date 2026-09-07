@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const quietRaidLeaderboard = {
   id: "01a060f1-693b-74ef-b1c9-26061fdfe741",

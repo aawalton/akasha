@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const questsSavedVariables = {
   id: "01a0635f-391c-721c-be7d-e4fb741328a6",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const errorsTriageGather = {
   id: "01a060cd-5652-70fe-ac43-14c6188a70ae",

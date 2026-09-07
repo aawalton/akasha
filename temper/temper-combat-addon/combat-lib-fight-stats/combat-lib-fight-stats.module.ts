@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatLibFightStats = {
   id: "01a0617f-5846-797a-9e97-071bc1a48fb0",

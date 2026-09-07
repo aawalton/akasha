@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libsetsDataPort = {
   id: "01a06341-d9e8-7001-b3d8-ac888e8c7c0b",

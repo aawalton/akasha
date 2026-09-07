@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const housingBuildHouseTab = {
   id: "01a06128-d5c3-7317-b94a-8a7fbeb939ac",

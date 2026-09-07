@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const noOp = {
   id: "01a05cf2-453a-7cba-9514-812f41ef987e",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCoreItemidDecompress = {
   id: "01a061fc-ceea-731b-8df7-55b760383102",

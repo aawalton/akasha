@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryExplainMatchContext = {
   id: "01a0625b-1d8e-7d1b-b744-5ae9147811c6",

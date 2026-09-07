@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapDataTable = {
   id: "01a061e1-aea9-7add-a55c-bee8f3e85491",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsKbfDlcFilter = {
   id: "01a0623e-53a1-7955-ac07-165fbac5661b",

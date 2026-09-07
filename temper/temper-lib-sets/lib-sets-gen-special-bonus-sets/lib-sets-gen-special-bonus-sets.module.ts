@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsGenSpecialBonusSets = {
   id: "01a061fc-cee7-751f-805d-2742902010bd",

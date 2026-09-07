@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterCaptureClassMap = {
   id: "01a0616b-83c5-7863-8ef6-9a4458d16ae4",

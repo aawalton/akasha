@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperReagents = {
   id: "01a0607b-e91e-7789-9a71-91f9a0744b0c",

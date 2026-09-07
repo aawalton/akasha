@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const housingPtfPublish = {
   id: "01a06128-d5d1-7cd2-9610-4f78ee6356ae",

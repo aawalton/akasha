@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const inventoryRulesCoreOverrides = {
   id: "01a06258-b52f-7a76-8493-ee83f54b074a",

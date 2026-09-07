@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const watcherRunStatusCard = {
   id: "01a06432-b190-77c4-a0e2-46c923c46a0e",

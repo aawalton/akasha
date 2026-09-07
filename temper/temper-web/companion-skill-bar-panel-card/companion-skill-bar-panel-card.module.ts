@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionSkillBarPanelCard = {
   id: "01a0642f-8c32-7734-89b3-d6023374ce17",

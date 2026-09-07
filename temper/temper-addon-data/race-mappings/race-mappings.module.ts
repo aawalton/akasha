@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const raceMappings = {
   id: "01a06340-4915-70c9-9152-d1a25227e855",

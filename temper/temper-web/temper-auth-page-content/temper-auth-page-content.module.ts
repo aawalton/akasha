@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperAuthPageContent = {
   id: "01a06432-b190-7fec-b12f-eccf2568e2d5",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCopyDialog = {
   id: "01a0623c-2df8-7c0d-ae66-7d2de026a998",

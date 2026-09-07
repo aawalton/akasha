@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const housingLibraryLookup = {
   id: "01a06128-d5ce-7064-a84c-9ce7846075e6",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const asBoolean = {
   id: "01a05cf2-453a-79a8-abf8-4a76a72f4145",

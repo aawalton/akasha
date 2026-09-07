@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const statsFiltering = {
   id: "01a0642c-5bbf-732d-9839-5952186d77f9",

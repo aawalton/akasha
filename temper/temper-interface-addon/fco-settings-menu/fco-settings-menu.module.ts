@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const fcoSettingsMenu = {
   id: "01a06115-1ad4-7da9-bc03-79782a698425",

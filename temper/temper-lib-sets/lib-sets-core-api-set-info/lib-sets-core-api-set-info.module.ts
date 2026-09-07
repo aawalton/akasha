@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCoreApiSetInfo = {
   id: "01a06231-8f1d-7816-b46e-caba9de72027",

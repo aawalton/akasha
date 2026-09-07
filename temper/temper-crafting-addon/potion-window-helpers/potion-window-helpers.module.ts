@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const potionWindowHelpers = {
   id: "01a061c7-e88d-777e-bcf0-06822b1e1530",

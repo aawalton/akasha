@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const pingRollingAverage = {
   id: "01a0605f-6260-7684-a583-fe4d1368b346",

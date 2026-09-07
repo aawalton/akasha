@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const destinationsLangCollectiblesJf = {
   id: "01a06269-29f4-7c37-acc6-fc4631895396",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const housingHover = {
   id: "01a06128-d5ce-79e1-bfae-231c44c3e43b",

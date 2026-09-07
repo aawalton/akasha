@@ -1,4 +1,4 @@
-import type { EsoInterface } from "@akasha/code-system/eso-interface"
+import type { EsoInterface } from "@akasha/code/eso-interface"
 
 export const scrollableMenuControls = {
   id: "01a06275-c447-7a91-b3a6-e3e6daef8679",

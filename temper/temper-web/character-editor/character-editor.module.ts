@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterEditor = {
   id: "01a06589-8d58-7000-a46b-4c6434b14ef9",

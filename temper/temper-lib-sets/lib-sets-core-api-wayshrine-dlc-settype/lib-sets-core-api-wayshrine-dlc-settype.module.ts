@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const libSetsCoreApiWayshrineDlcSettype = {
   id: "01a06231-8f1c-7200-9fb9-2df4b2450fce",

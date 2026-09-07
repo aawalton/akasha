@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const slashCommanderDisplayText = {
   id: "01a06066-8403-7b7f-9cb8-3e4ef1a60407",

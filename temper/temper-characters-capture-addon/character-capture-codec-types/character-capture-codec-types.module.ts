@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterCaptureCodecTypes = {
   id: "01a0616b-8743-7689-94a2-936218e8c171",

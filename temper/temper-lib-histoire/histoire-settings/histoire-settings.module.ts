@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const histoireSettings = {
   id: "01a06197-4c9a-753f-9265-31468ba1c486",

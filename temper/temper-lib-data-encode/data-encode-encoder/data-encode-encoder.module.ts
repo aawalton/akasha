@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const dataEncodeEncoder = {
   id: "01a06061-969e-7a22-9872-bfd327e2b7c1",

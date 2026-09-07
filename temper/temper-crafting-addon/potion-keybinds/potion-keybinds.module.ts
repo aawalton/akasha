@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const potionKeybinds = {
   id: "01a061c7-e880-73d2-811a-bb2276a1646d",

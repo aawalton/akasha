@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const companionsSavedVariables = {
   id: "01a0611d-84df-7d7e-8754-8460553e63d0",

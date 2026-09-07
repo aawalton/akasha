@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const missing = {
   id: "01a05cb3-7cca-757d-a132-d9a2d47fcba0",

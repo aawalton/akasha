@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const interfaceGlobal = {
   id: "01a06115-1ad9-7577-a428-e1094528e7bc",

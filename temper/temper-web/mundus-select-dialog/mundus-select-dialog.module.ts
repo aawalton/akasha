@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mundusSelectDialog = {
   id: "01a0642c-5b7e-73e5-82b3-b4a417f524d1",

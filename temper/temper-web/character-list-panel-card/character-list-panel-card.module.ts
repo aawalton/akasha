@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const characterListPanelCard = {
   id: "01a0642c-5b8b-7971-a7c4-bf6ce0ed0da9",

@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const writMatRow = {
   id: "01a061c7-e8a5-7afc-8536-502e866f4639",

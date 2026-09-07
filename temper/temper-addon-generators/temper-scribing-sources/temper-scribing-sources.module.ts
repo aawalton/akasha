@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const temperScribingSources = {
   id: "01a0607b-e920-7aaf-aa60-e48a04537893",

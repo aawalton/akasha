@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatActionSafeSort = {
   id: "01a0617f-5835-79b1-9d4b-055b608fc583",

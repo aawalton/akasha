@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const antiquityLorePanelCard = {
   id: "01a06421-f74b-719d-8e90-1cedaaf2000f",

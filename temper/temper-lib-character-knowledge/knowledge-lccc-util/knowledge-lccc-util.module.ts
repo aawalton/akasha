@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const knowledgeLcccUtil = {
   id: "01a06212-55be-7ab3-821b-f37d1a394cf6",

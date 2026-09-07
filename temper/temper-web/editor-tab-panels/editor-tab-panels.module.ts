@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const editorTabPanels = {
   id: "01a06589-8da7-7000-af91-87806abed90e",

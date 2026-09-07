@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const dataEncodeRuntime = {
   id: "01a06061-96a0-7c1f-a7ed-6104c85448b3",

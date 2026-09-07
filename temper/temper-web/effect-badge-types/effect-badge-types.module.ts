@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const effectBadgeTypes = {
   id: "01a0641f-8bec-7372-8d2c-a499411a75f6",

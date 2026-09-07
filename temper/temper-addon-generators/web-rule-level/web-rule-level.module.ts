@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const webRuleLevel = {
   id: "01a0607c-1799-7d4e-96ed-7ec18b0c4021",

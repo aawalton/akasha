@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const journalTabs = {
   id: "01a0617d-5453-7834-90b6-4d7f16d845f4",

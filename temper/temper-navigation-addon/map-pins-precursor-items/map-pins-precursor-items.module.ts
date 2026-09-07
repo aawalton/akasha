@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const mapPinsPrecursorItems = {
   id: "01a06269-2ae5-7f79-8e4b-0756b0c7dbb6",

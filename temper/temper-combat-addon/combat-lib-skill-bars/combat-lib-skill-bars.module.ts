@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const combatLibSkillBars = {
   id: "01a0617f-584a-7ddc-a3dd-23c173d6f3ef",

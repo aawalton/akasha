@@ -1,4 +1,4 @@
-import type { Module } from "@akasha/code-system/module"
+import type { Module } from "@akasha/code/module"
 
 export const potionRenderPage = {
   id: "01a061c7-e887-718b-96a1-3b8bbf1ad386",
