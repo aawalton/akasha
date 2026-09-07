@@ -384,6 +384,10 @@ export async function changing(
     stamped(await ranBy(one, held, asked.given), owed, owing)
   )
   if (answered.code !== 0) return answered
+  if (asked.drafts) {
+    const drafted = `the edits are kept at ${keptAt(page) ?? ""}, and \`akasha apply\` lands them`
+    return { ...answered, report: [...answered.report, drafted] }
+  }
   const landed = await applying(asked.message)
   return {
     report: [...answered.report, ...landed.report, ...(landed.code === 0 ? [] : [keptSaid(page)])],
