@@ -8,6 +8,7 @@ import {
 import {
   appendEdits,
   editsIn,
+  foldedIn,
 } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
 import { drafted } from "../../../command-system/drafting/drafting.module.code.ts"
 import { baseOf } from "../../../command-system/landing/landing.module.code.ts"
@@ -91,6 +92,19 @@ test("a row worked out from the body at HEAD is judged as that row states", asyn
   const said = rebasedRows(root, baseOf(root), rows)
   if ("why" in said) throw new Error(said.why)
   expect(TEXT.decode(said.held.get(NOTES)?.body ?? new Uint8Array())).toBe(MINE)
+})
+
+test("two rows for one path the later did not follow refuse the checks as they refuse the fold", async () => {
+  const root = await repo()
+  await committing(root, NOTES, THREE)
+  const rows = [
+    { path: NOTES, was: THREE, body: MINE },
+    { path: NOTES, was: "z\n", body: BOTH },
+  ]
+  const said = rebasedRows(root, baseOf(root), rows)
+
+  expect(foldedIn(rows).refused).not.toBe(null)
+  expect("why" in said ? said.why : null).toBe(foldedIn(rows).refused)
 })
 
 async function committing(root: string, path: string, body: string): Promise<undefined> {
