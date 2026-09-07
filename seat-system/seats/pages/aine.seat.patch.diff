@@ -1,0 +1,324 @@
+writerOwesReading: false
+diff --git a/changes/guards/change-guard.page-type.ts b/changes/guards/change-guard.page-type.ts
+index 8d78edf4e0053dbd7422e002cfddf4c19c6ffb7d..b4508bf9d0907e548c9c864bd402f17c68e714ac 100644
+--- a/changes/guards/change-guard.page-type.ts
++++ b/changes/guards/change-guard.page-type.ts
+@@ -15,6 +15,7 @@ export const changeGuard = {
+     "change-guard/import-not-left-hanging",
+     "change-guard/import-reaches-a-file",
+     "change-guard/relation-not-left-hanging",
++    "change-guard/relation-reaches-a-page",
+   ],
+   invariants: [
+     {
+diff --git a/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.code.ts b/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a1c31f0dab231b0e034e878177c556a3d130641b
+--- /dev/null
++++ b/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.code.ts
+@@ -0,0 +1,40 @@
++import { eachTarget, namesIn, namingsIn, reaches, type Shaped } from "@akasha/indexes/reaching"
++import { pageNamed } from "@akasha/pages/page-file-name"
++import { unreadable } from "../../../modules/change-guarding/change-guarding.module.code.ts"
++import type {
++  Guard,
++  Guarding,
++} from "../../../modules/change-guarding/change-guarding.module.types.ts"
++
++function danglingAt(given: Guarding, known: Shaped, path: string): string | null {
++  const value = given.shadow.pageOf(path)
++  if (value === null) return null
++  for (const one of namingsIn(value, known)) {
++    const wanted = known.targetOf(one.propertySlug)
++    if (eachTarget(wanted).length === 0) continue
++    for (const named of namesIn(one.held)) {
++      const reached = reaches(named, wanted, known)
++      if ("refused" in reached) {
++        return `\`${path}\` states \`${one.said}\`, and ${reached.refused}`
++      }
++    }
++  }
++  return null
++}
++
++export function relationReachesAPage(given: Guarding): string | null {
++  try {
++    const pageTypes = given.shadow.index.pageTypesIn()
++    const known = given.shadow.index.knownIn()
++    for (const one of given.said.edits) {
++      if (one.body === null || !pageNamed(one.path, pageTypes)) continue
++      const why = danglingAt(given, known, one.path)
++      if (why !== null) return why
++    }
++    return null
++  } catch (cause) {
++    return unreadable(cause)
++  }
++}
++
++export const runGuard: Guard = relationReachesAPage
+diff --git a/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.test.ts b/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3bbf33350c79fc0729a2a1c51072b634a5138654
+--- /dev/null
++++ b/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.test.ts
+@@ -0,0 +1,70 @@
++import { afterAll, expect, test } from "bun:test"
++import { idOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
++import { answered, writing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
++import { worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { relationReachesAPage } from "./relation-reaches-a-page.change-guard.code.ts"
++
++afterAll(scratch.sweep)
++
++const GUARDS = [relationReachesAPage]
++
++const AT = "akasha/one/fresh.module.ts"
++
++const MADE = "akasha/one/made.module.ts"
++
++function naming(seed: string, slug: string, named: readonly string[]): string {
++  return pageOf({
++    id: idOf(seed),
++    pageTypeSlug: "module",
++    slug,
++    definition: "a page naming other pages",
++    code: "ts",
++    partSlugs: named,
++  })
++}
++
++function judged(root: string, said: Answer): Answer {
++  return guardedBy(worldAt(root, textIn(root)), said, GUARDS)
++}
++
++test("a page naming a page that reaches nothing is refused", () => {
++  const root = indexedRepo()
++
++  const said = judged(root, answered([writing(AT, null, naming("f", "fresh", ["module/gone"]))]))
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toContain("module/gone")
++})
++
++test("a page naming a page that reaches a page is not refused", () => {
++  const root = indexedRepo()
++
++  const said = judged(root, answered([writing(AT, null, naming("f", "fresh", ["module/held"]))]))
++
++  expect(said.refused).toBe(null)
++})
++
++test("a page naming a page the same answer writes is not refused", () => {
++  const root = indexedRepo()
++
++  const said = judged(
++    root,
++    answered([
++      writing(MADE, null, naming("m", "made", [])),
++      writing(AT, null, naming("f", "fresh", ["module/made"])),
++    ])
++  )
++
++  expect(said.refused).toBe(null)
++})
++
++test("a path under no page name is judged by nothing", () => {
++  const root = indexedRepo()
++  const beside = "akasha/one/fresh.module.code.ts"
++
++  const said = judged(root, answered([writing(beside, null, "export const fresh = 1\n")]))
++
++  expect(said.refused).toBe(null)
++})
+diff --git a/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.ts b/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..de513518b57a74199d1e69e8239a30e28e18d1fb
+--- /dev/null
++++ b/changes/guards/pages/relation-reaches-a-page/relation-reaches-a-page.change-guard.ts
+@@ -0,0 +1,44 @@
++import type { ChangeGuard } from "../../change-guard.page-type.ts"
++
++export const relationReachesAPage = {
++  id: "01a07976-d28f-7fac-9491-0467366b86b4",
++  pageTypeSlug: "change-guard",
++  slug: "relation-reaches-a-page",
++  definition: "the guard refusing an answer whose written page names a page reaching nothing",
++  code: "ts",
++  test: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The page judged is read from the index the answer leaves.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Which of a page's keys are relations is read from the index.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name reaches a page the answer itself writes.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A name reaching no page refuses the answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The refusal names the key the name is held under.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path under no page name is judged by nothing here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An index a guard cannot read refuses the answer.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Whether a page may name a mortal page is judged by `relation-resolves`.",
++    },
++  ],
++} as const satisfies ChangeGuard
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index 54f7f81118abe7cead3eec1a7d7ac53a06957487..a67eb6233dd299193961e93e2d62b551ffaa240e 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -24,6 +24,7 @@ export const changeMechanical = {
+     "change-mechanical/change-page-property-relation",
+     "change-mechanical/add-file",
+     "change-mechanical/add-code-file",
++    "change-mechanical/add-page-file",
+     "change-mechanical/add-property-value",
+     "change-mechanical/change-file",
+     "change-mechanical/remove-page",
+diff --git a/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.code.ts b/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c5fd12c1b14417df6066f61f57a6abe42b0d8767
+--- /dev/null
++++ b/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.code.ts
+@@ -0,0 +1,18 @@
++import { pageNamed } from "@akasha/pages/page-file-name"
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++
++const ADD_CODE_FILE = "change-mechanical/add-code-file"
++
++export type Asked = {
++  readonly at: string
++  readonly body: string
++}
++
++export async function runChange(world: World, given: Asked): Promise<Answer> {
++  if (!pageNamed(given.at, world.index.pageTypesIn())) {
++    return refusing(`\`${given.at}\` is under no page name, so this change writes nothing`)
++  }
++  return await reach(world, ADD_CODE_FILE, { at: given.at, body: given.body })
++}
+diff --git a/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.test.ts b/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..944cd0e84a68ced52122ecc3bf13b90602605994
+--- /dev/null
++++ b/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.test.ts
+@@ -0,0 +1,59 @@
++import { afterAll, expect, test } from "bun:test"
++import { indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
++import {
++  answered,
++  refusing,
++  writing,
++} from "../../../modules/change-answer/change-answer.module.code.ts"
++import {
++  type Reaching,
++  type World,
++  worldAt,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { type Asked, runChange } from "./add-page-file.change-mechanical.code.ts"
++
++const RUNS: Reaching = (_world, at, given) => {
++  if (at === "change-mechanical/add-code-file") {
++    const asked = given as Asked
++    return Promise.resolve(answered([writing(asked.at, null, asked.body)]))
++  }
++  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
++}
++
++afterAll(scratch.sweep)
++
++const BODY = "export const fresh = 1\n"
++
++function worldIn(root: string): World {
++  return worldAt(root, textIn(root), RUNS)
++}
++
++test("a page path is written by the change this change reaches", async () => {
++  const root = indexedRepo()
++  const at = "akasha/one/fresh.module.ts"
++
++  const said = await runChange(worldIn(root), { at, body: BODY })
++
++  expect(said.refused).toBe(null)
++  expect(said.edits).toEqual([{ path: at, was: null, body: BODY }])
++})
++
++test("a path beside a page is refused", async () => {
++  const root = indexedRepo()
++  const at = "akasha/one/fresh.module.code.ts"
++
++  const said = await runChange(worldIn(root), { at, body: BODY })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${at}\` is under no page name, so this change writes nothing`)
++})
++
++test("a path under no page type is refused", async () => {
++  const root = indexedRepo()
++  const at = "akasha/one/fresh.notatype.ts"
++
++  const said = await runChange(worldIn(root), { at, body: BODY })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused).toBe(`\`${at}\` is under no page name, so this change writes nothing`)
++})
+diff --git a/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.ts b/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c761f6b2695667ff258ff78a49570b8e780f004e
+--- /dev/null
++++ b/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.ts
+@@ -0,0 +1,32 @@
++import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
++
++export const addPageFile = {
++  id: "01a07976-d290-7a2a-b91c-bc7a0bc36dca",
++  pageTypeSlug: "change-mechanical",
++  slug: "add-page-file",
++  definition: "one page written at one path, with the pages that page names judged",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++  guardSlugs: ["change-guard/relation-reaches-a-page"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A path under no page name is refused here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The page types a name is read against are the ones the world files.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body is written by the change this change reaches.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The pages the body names are judged by the guard this change names.",
++    },
++  ],
++} as const satisfies ChangeMechanical
