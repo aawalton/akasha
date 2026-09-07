@@ -10,15 +10,3 @@ index 302be61a16b18d7fe4777ff9379158fcf0d7b86c..59b885789f4a4ca38548e14044f694bd
          "@akasha/errors-core": "workspace:*",
          "@akasha/git": "workspace:*",
          "@akasha/k8s-types": "workspace:*",
-diff --git a/service-system/package.json b/service-system/package.json
-index 49cbcf878084a95ec7a0c6b10a7ca00034b59c42..9338bcc3a3840aaca4313afff000c1bb624acbae 100644
---- a/service-system/package.json
-+++ b/service-system/package.json
-@@ -26,6 +26,7 @@
-   },
-   "dependencies": {
-     "@akasha/cluster-manifests": "workspace:*",
-+    "@akasha/code": "workspace:*",
-     "@akasha/errors-core": "workspace:*",
-     "@akasha/git": "workspace:*",
-     "@akasha/k8s-types": "workspace:*",
