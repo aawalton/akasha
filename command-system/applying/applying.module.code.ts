@@ -109,8 +109,8 @@ export async function applied(
   const asRead = agentId === null ? [] : asReadOf(root, agentId, said.held)
   const done = await landing(root, prepared.changes, said0, gate, writer, head, asRead, carries)
   if ("refusals" in done) return done
-  if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
   carryLanded(root, head, running, prepared.changes, [])
+  if (agentId !== null) recordedAsLanded(root, agentId, formatting.changes)
   droppedPatch(root, page, APPLIED)
   const put = installingIn(root, prepared.changes)
   return {

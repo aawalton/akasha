@@ -409,8 +409,8 @@ export async function landingAsked(given: Given, asked: Asked): Promise<Answer> 
     }
   }
   if ("refusals" in said) return { report: [], refusals: said.refusals, code: 3 }
-  recordLanded(given, formatting.changes)
   carryLanded(given.root, base, runningOf(given.changeKind), held.changes, held.readings ?? [])
+  recordLanded(given, formatting.changes)
   const put = installingIn(given.root, held.changes)
   return {
     report: reported(counted, said, {

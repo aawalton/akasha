@@ -126,7 +126,8 @@ export const applying = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading is carried after the applying agent's own reading is recorded.",
+      statement:
+        "A reading is carried and dropped before the applying agent's own reading is recorded.",
     },
     {
       invariantKind: "gap",

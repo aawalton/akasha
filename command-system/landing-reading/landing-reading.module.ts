@@ -82,7 +82,12 @@ export const landingReading = {
     },
     {
       invariantKind: "departure",
-      statement: "A reading is carried after the writer's own reading is recorded.",
+      statement: "A reading is carried and dropped before the writer's own reading is recorded.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A landing leaves the agent that landed holding a reading of every body that landing wrote.",
     },
     {
       invariantKind: "absence",
