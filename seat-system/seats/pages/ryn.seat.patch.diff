@@ -1,0 +1,13 @@
+diff --git a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
+index 2d803d262f4886ba54e3cda478b19b60d69d5851..97524cb3daa38bc8ec0e0df209a68b7562b9b823 100644
+--- a/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
++++ b/domains/plain-language/onnx-parsing/onnx-parsing.module.code.ts
+@@ -69,6 +69,8 @@ const MODEL_PAGE = new URL(
+ 
+ const DEFAULT_MAX_BATCH_SENTENCES = 16
+ 
++const DEFAULT_INTRA_OP_THREADS = 1
++
+ const OTHER_CLASS = "X"
+ 
+ const UNSPECIFIED_RELATION = "dep"
