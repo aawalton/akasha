@@ -1,0 +1,1339 @@
+writerOwesReading: false
+diff --git a/alan/web/alan-web.router-app.ts b/alan/web/alan-web.router-app.ts
+index 2f90da887ead1b8584f1dc1503c578964a637387..8f8940d5c0c45eba0a25ee4b20aedaade8bb9574 100644
+--- a/alan/web/alan-web.router-app.ts
++++ b/alan/web/alan-web.router-app.ts
+@@ -150,6 +150,7 @@ export const alanWeb = {
+     "route/inbox-stoplights",
+     "route/no-such-route",
+     "route/pages-ready",
++    "route/surplus",
+     "route/wallpaper",
+     "route/widget-tap",
+   ],
+diff --git a/alan/web/routes.ts b/alan/web/routes.ts
+index c5064529a6b2b78fdd936f7a55ae716f2f008693..e8545ac94196e1faaf3c508371af86a7a1b038fa 100644
+--- a/alan/web/routes.ts
++++ b/alan/web/routes.ts
+@@ -27,7 +27,7 @@ export default [
+   route("api/inbox-stoplights", "routes/inbox-stoplights/inbox-stoplights.route.code.ts"),
+   route("api/habit-stoplights", "routes/api.habit-stoplights.ts"),
+   route("api/attribute-stoplights", "attribute-stoplights/attribute-stoplights.module.code.ts"),
+-  route("api/surplus", "routes/api.surplus.ts"),
++  route("api/surplus", "routes/surplus/surplus.route.code.ts"),
+   route("api/safety-level", "routes/api.safety-level.ts"),
+   route("api/categorization", "routes/api.categorization.ts"),
+   route("api/readout-relay", "routes/api.readout-relay.ts"),
+diff --git a/alan/web/routes/api.surplus.test.ts b/alan/web/routes/api.surplus.test.ts
+deleted file mode 100644
+index d3c36372e9f21f8f341a6ca3baa9862973b8ab8f..0000000000000000000000000000000000000000
+--- a/alan/web/routes/api.surplus.test.ts
++++ /dev/null
+@@ -1,234 +0,0 @@
+-// Alan's surplus tile, driven over real HTTP: the relay carrier POSTs a reading into his receiving
+-// route, and the group-serving path answers it as the `stoplights` body his shipped widget
+-// decodes. The relay secret is the only made-up thing here, generated fresh for each run.
+-//
+-// The reading in these tests is a fixture. Alan's own surplus is never read here, and no test
+-// asserts an hour count as though it were his.
+-//
+-// What this pins that the safety file does not: the `surplus-hours` scale is the first one whose
+-// rungs are negative. A day that has eaten into the night reads below zero, and the widget still
+-// has to receive a tier, a next tier and a fraction between them. A scale read as though it began
+-// at zero would answer black for every ordinary day.
+-import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+-import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group-serving"
+-import { dropRelayed, RELAY_PATH, relayReading } from "@akasha/readout-system/readout-relay"
+-import { action } from "./api.readout-relay.ts"
+-
+-// This workspace preloads happy-dom, which replaces `globalThis.Response` with one `Bun.serve`
+-// refuses to answer with. The preload keeps the native `fetch`, so the native `Response` comes
+-// back off any answer that fetch gives.
+-globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
+-
+-const RELAY_SECRET = crypto.randomUUID()
+-const READOUT = "upkeep-surplus"
+-const GROUP = "surplus"
+-
+-process.env.READING_RELAY_SECRET = RELAY_SECRET
+-
+-const TIERS = ["black", "red", "orange", "yellow", "green", "blue"]
+-
+-// The rungs Alan's `surplus-hours` scale page states, and the keys his `upkeep-surplus` readout
+-// page carries. Held here so a change to either page shows up as a failure rather than as a
+-// blank tile.
+-const READOUT_ROW = {
+-  slug: READOUT,
+-  label: "Surplus",
+-  unit: "hours",
+-  place: 2,
+-  figureFormat: "decimal",
+-  scaleSlug: "surplus-hours",
+-  wireKey: GROUP,
+-  groupSlugs: [GROUP],
+-}
+-
+-const SCALE_ROW = {
+-  slug: "surplus-hours",
+-  blackAt: -12,
+-  redAt: -8,
+-  yellowAt: -4,
+-  greenAt: 0,
+-  blueAt: 4,
+-}
+-
+-const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: [READOUT_ROW] }
+-
+-let store: ReturnType<typeof Bun.serve>
+-let server: ReturnType<typeof Bun.serve>
+-let origin: string
+-let heldOrigin: string | undefined
+-
+-beforeAll(() => {
+-  store = Bun.serve({
+-    port: 0,
+-    fetch: async (request) => {
+-      const asked = (await request.json()) as { pageTypeSlug: string }
+-      if (asked.pageTypeSlug === "readout") return Response.json({ rows: ANSWERED.readouts })
+-      return Response.json({ rows: [SCALE_ROW] })
+-    },
+-  })
+-  heldOrigin = process.env.PAGES_SERVICE_ORIGIN
+-  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
+-  server = Bun.serve({
+-    port: 0,
+-    fetch(request) {
+-      const { pathname } = new URL(request.url)
+-      if (pathname === RELAY_PATH) return action({ request } as never)
+-      if (pathname === "/api/surplus") {
+-        return answerStoplightsAdmittedBy(request, () => null, GROUP)
+-      }
+-      return new Response("no such route", { status: 404 })
+-    },
+-  })
+-  origin = `http://localhost:${server.port}`
+-})
+-
+-// THE ORIGIN THIS FILE SET IS THE WHOLE PROCESS'S, AND COMES BACK WHEN THE STORE GOES.
+-//
+-// Every test file in one run shares one process, so a file leaving this origin in place leaves
+-// every later file asking this store rather than the store the run was pointed at. Stopping the
+-// store does not cover that on its own: `stop` leaves an open connection open, and `fetch` holds
+-// one, so a stopped store goes on answering the file that runs next.
+-afterAll(() => {
+-  server.stop()
+-  store.stop(true)
+-  if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
+-  else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
+-})
+-
+-beforeEach(() => {
+-  dropRelayed()
+-  ANSWERED.readouts = [READOUT_ROW]
+-})
+-
+-type Stoplight = {
+-  habit?: string
+-  label?: string
+-  tier: string
+-  reading?: string
+-  readingHeld?: string
+-  nextTier?: string
+-  progress?: number
+-}
+-
+-const tile = () => fetch(`${origin}/api/surplus`)
+-
+-const carryNow = (value: number, at: Date = new Date()) =>
+-  relayReading(origin, RELAY_SECRET, { readout: READOUT, value, at: at.toISOString() })
+-
+-async function drawn(): Promise<readonly Stoplight[]> {
+-  const answered = await tile()
+-  expect(answered.status).toBe(200)
+-  const body = (await answered.json()) as { stoplights: readonly Stoplight[] }
+-  return body.stoplights
+-}
+-
+-test("nothing carried in shows an empty ring rather than a surplus of zero", async () => {
+-  const [one] = await drawn()
+-  expect(one?.readingHeld).toBe("none")
+-  expect(one?.reading).toBe("")
+-  expect(one?.tier).toBe("black")
+-  expect(one?.label).toBe("Surplus")
+-})
+-
+-test("the widget's body is a non-empty list under `stoplights`", async () => {
+-  await carryNow(1.5)
+-  const stoplights = await drawn()
+-  expect(Array.isArray(stoplights)).toBe(true)
+-  expect(stoplights.length).toBeGreaterThan(0)
+-})
+-
+-test("a day that has eaten into the night reads below zero and still draws a tier", async () => {
+-  await carryNow(-2)
+-  const [one] = await drawn()
+-  expect(one?.reading).toBe("-2")
+-  expect(one?.tier).toBe("yellow")
+-  expect(one?.nextTier).toBe("green")
+-  expect(one?.progress).toBe(0.5)
+-})
+-
+-test("every stoplight carries a tier that is one of the six colours the phone decodes", async () => {
+-  for (const hours of [-20, -12, -9, -6, -4, -1, 0, 2, 4, 9]) {
+-    dropRelayed()
+-    await carryNow(hours)
+-    for (const one of await drawn()) {
+-      expect(TIERS).toContain(one.tier)
+-      if (one.nextTier !== undefined) expect(TIERS).toContain(one.nextTier)
+-    }
+-  }
+-})
+-
+-test("a whole night still ahead is the top rung, with no tier above it", async () => {
+-  await carryNow(5)
+-  const [one] = await drawn()
+-  expect(one?.tier).toBe("blue")
+-  expect(one?.nextTier).toBeUndefined()
+-})
+-
+-test("a surplus below every rung is black", async () => {
+-  await carryNow(-20)
+-  const [one] = await drawn()
+-  expect(one?.tier).toBe("black")
+-})
+-
+-test("a surplus of exactly zero is green rather than the rung beneath it", async () => {
+-  await carryNow(0)
+-  expect((await drawn())[0]?.tier).toBe("green")
+-})
+-
+-test("the label and the key are read off the readout's page rather than named in the route", async () => {
+-  await carryNow(1)
+-  const [one] = await drawn()
+-  expect(one?.label).toBe("Surplus")
+-  expect(one?.habit).toBe(GROUP)
+-})
+-
+-test("the reading is a string, which is what the widget decodes", async () => {
+-  await carryNow(1)
+-  expect(typeof (await drawn())[0]?.reading).toBe("string")
+-})
+-
+-test("a reading past forty-five minutes shows an empty ring rather than the surplus it held", async () => {
+-  await carryNow(1, new Date(Date.now() - 46 * 60_000))
+-  const [one] = await drawn()
+-  expect(one?.readingHeld).toBe("stale")
+-  expect(one?.reading).toBe("")
+-})
+-
+-test("a surplus of zero and a surplus never carried are told apart on the wire", async () => {
+-  await carryNow(0)
+-  const carried = (await drawn())[0]
+-  expect(carried?.reading).toBe("0")
+-  expect(carried?.readingHeld).toBeUndefined()
+-
+-  dropRelayed()
+-  const absent = (await drawn())[0]
+-  expect(absent?.reading).toBe("")
+-  expect(absent?.readingHeld).toBe("none")
+-})
+-
+-// A surplus is added up out of session hours, so it arrives as a float carrying its whole tail —
+-// twenty digits of it, and a tile drawing that on one line at one size breaks it off mid-number
+-// with an ellipsis. The readout page states `figure-format: decimal`, and these pin that the
+-// figure reaching the widget is written to that rather than handed over raw.
+-test("a surplus added up out of hours is written to the places the readout states", async () => {
+-  await carryNow(-0.008333333333334636)
+-  const [one] = await drawn()
+-  expect(one?.reading).toBe("-0.01")
+-})
+-
+-test("a surplus is never sent to the tile as the whole tail of a float", async () => {
+-  await carryNow(2.6666666666666665)
+-  const said = (await drawn())[0]?.reading ?? ""
+-  expect(said).toBe("2.67")
+-  expect(said.length).toBeLessThanOrEqual(6)
+-})
+-
+-test("a surplus rounding onto zero is written as zero rather than as a signed zero", async () => {
+-  await carryNow(-0.0004)
+-  expect((await drawn())[0]?.reading).toBe("0")
+-})
+-
+-test("nothing between here and the tile is allowed to keep an answer", async () => {
+-  await carryNow(1)
+-  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
+-})
+diff --git a/alan/web/routes/surplus/surplus.route.code.ts b/alan/web/routes/surplus/surplus.route.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..78357a5b92e6c5938c19576460e546bd04e1af2b
+--- /dev/null
++++ b/alan/web/routes/surplus/surplus.route.code.ts
+@@ -0,0 +1,8 @@
++import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group-serving"
++import { guardReadout } from "../../.server/readout-guarding/readout-guarding.module.code.ts"
++
++const GROUP = "surplus"
++
++export function loader({ request }: { request: Request }): Promise<Response> {
++  return answerStoplightsAdmittedBy(request, guardReadout, GROUP)
++}
+diff --git a/alan/web/routes/surplus/surplus.route.test.ts b/alan/web/routes/surplus/surplus.route.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e4a0836ac768dd6c1acf7d373ad9a6b6efaf72e5
+--- /dev/null
++++ b/alan/web/routes/surplus/surplus.route.test.ts
+@@ -0,0 +1,192 @@
++import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
++import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group-serving"
++import { type Tile, tileAt } from "@akasha/readout-system/readout-group-serving/testing"
++import { dropRelayed, RELAY_PATH } from "@akasha/readout-system/readout-relay"
++import { type Relaying, relayingTo } from "@akasha/readout-system/readout-relay/testing"
++import { action } from "../api.readout-relay.ts"
++
++globalThis.Response = (await fetch("data:text/plain,")).constructor as typeof Response
++
++const RELAY_SECRET = crypto.randomUUID()
++const READOUT = "upkeep-surplus"
++const GROUP = "surplus"
++const PATH = "/api/surplus"
++
++process.env.READING_RELAY_SECRET = RELAY_SECRET
++
++const TIERS = ["black", "red", "orange", "yellow", "green", "blue"]
++
++const READOUT_ROW = {
++  slug: READOUT,
++  label: "Surplus",
++  unit: "hours",
++  place: 2,
++  scaleSlug: "surplus-hours",
++  wireKey: GROUP,
++  groupSlugs: [GROUP],
++}
++
++const SCALE_ROW = {
++  slug: "surplus-hours",
++  blackAt: -12,
++  redAt: -8,
++  yellowAt: -4,
++  greenAt: 0,
++  blueAt: 4,
++}
++
++const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: [READOUT_ROW] }
++
++let store: ReturnType<typeof Bun.serve>
++let server: ReturnType<typeof Bun.serve>
++let heldOrigin: string | undefined
++let tile: Tile
++let carried: Relaying
++
++beforeAll(() => {
++  store = Bun.serve({
++    port: 0,
++    fetch: async (request) => {
++      const asked = (await request.json()) as { pageTypeSlug: string }
++      if (asked.pageTypeSlug === "readout") return Response.json({ rows: ANSWERED.readouts })
++      return Response.json({ rows: [SCALE_ROW] })
++    },
++  })
++  heldOrigin = process.env.PAGES_SERVICE_ORIGIN
++  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
++  server = Bun.serve({
++    port: 0,
++    fetch(request) {
++      const { pathname } = new URL(request.url)
++      if (pathname === RELAY_PATH) return action({ request } as never)
++      if (pathname === PATH) {
++        return answerStoplightsAdmittedBy(request, () => null, GROUP)
++      }
++      return new Response("no such route", { status: 404 })
++    },
++  })
++  const origin = `http://localhost:${server.port}`
++  tile = tileAt(origin, PATH, GROUP)
++  carried = relayingTo(origin, RELAY_SECRET)
++})
++
++afterAll(() => {
++  server.stop()
++  store.stop(true)
++  if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
++  else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
++})
++
++beforeEach(() => {
++  dropRelayed()
++  ANSWERED.readouts = [READOUT_ROW]
++})
++
++const carryNow = (value: number, at: Date = new Date()) => carried(READOUT, value, at)
++
++test("nothing carried in shows an empty ring rather than a surplus of zero", async () => {
++  const [one] = await tile.drawn()
++  expect(one?.readingHeld).toBe("none")
++  expect(one?.reading).toBe("")
++  expect(one?.tier).toBe("black")
++  expect(one?.label).toBe("Surplus")
++})
++
++test("the widget's body is a non-empty list under `stoplights`", async () => {
++  await carryNow(1.5)
++  const stoplights = await tile.drawn()
++  expect(Array.isArray(stoplights)).toBe(true)
++  expect(stoplights.length).toBeGreaterThan(0)
++})
++
++test("a day that has eaten into the night reads below zero and still draws a tier", async () => {
++  await carryNow(-2)
++  const [one] = await tile.drawn()
++  expect(one?.reading).toBe("-2")
++  expect(one?.tier).toBe("yellow")
++  expect(one?.nextTier).toBe("green")
++  expect(one?.progress).toBe(0.5)
++})
++
++test("every stoplight carries a tier that is one of the six colors the phone decodes", async () => {
++  for (const hours of [-20, -12, -9, -6, -4, -1, 0, 2, 4, 9]) {
++    dropRelayed()
++    await carryNow(hours)
++    for (const one of await tile.drawn()) {
++      expect(TIERS).toContain(String(one.tier))
++      if (one.nextTier !== undefined) expect(TIERS).toContain(String(one.nextTier))
++    }
++  }
++})
++
++test("a whole night still ahead is the top rung, with no tier above it", async () => {
++  await carryNow(5)
++  const [one] = await tile.drawn()
++  expect(one?.tier).toBe("blue")
++  expect(one?.nextTier).toBeUndefined()
++})
++
++test("a surplus below every rung is black", async () => {
++  await carryNow(-20)
++  const [one] = await tile.drawn()
++  expect(one?.tier).toBe("black")
++})
++
++test("a surplus of exactly zero is green rather than the rung beneath it", async () => {
++  await carryNow(0)
++  expect((await tile.drawn())[0]?.tier).toBe("green")
++})
++
++test("the label and the key are read off the readout's page rather than named in the route", async () => {
++  await carryNow(1)
++  const [one] = await tile.drawn()
++  expect(one?.label).toBe("Surplus")
++  expect(one?.habit).toBe(GROUP)
++})
++
++test("the reading is a string, which is what the widget decodes", async () => {
++  await carryNow(1)
++  expect(typeof (await tile.drawn())[0]?.reading).toBe("string")
++})
++
++test("a reading past forty-five minutes shows an empty ring rather than the surplus it held", async () => {
++  await carryNow(1, new Date(Date.now() - 46 * 60_000))
++  const [one] = await tile.drawn()
++  expect(one?.readingHeld).toBe("stale")
++  expect(one?.reading).toBe("")
++})
++
++test("a surplus of zero and a surplus never carried are told apart on the wire", async () => {
++  await carryNow(0)
++  const held = (await tile.drawn())[0]
++  expect(held?.reading).toBe("0")
++  expect(held?.readingHeld).toBeUndefined()
++
++  dropRelayed()
++  const absent = (await tile.drawn())[0]
++  expect(absent?.reading).toBe("")
++  expect(absent?.readingHeld).toBe("none")
++})
++
++test("a surplus added up out of hours is floored to two significant figures", async () => {
++  await carryNow(-0.008333333333334636)
++  const [one] = await tile.drawn()
++  expect(one?.reading).toBe("-0.0084")
++})
++
++test("a surplus is never sent to the tile as the whole tail of a float", async () => {
++  await carryNow(2.6666666666666665)
++  const said = String((await tile.drawn())[0]?.reading ?? "")
++  expect(said).toBe("2.6")
++  expect(said.length).toBeLessThanOrEqual(6)
++})
++
++test("a surplus smaller than a hundredth still carries two figures", async () => {
++  await carryNow(-0.0004)
++  expect((await tile.drawn())[0]?.reading).toBe("-0.00040")
++})
++
++test("nothing between here and the tile is allowed to keep an answer", async () => {
++  await carryNow(1)
++  expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
++})
+diff --git a/alan/web/routes/surplus/surplus.route.ts b/alan/web/routes/surplus/surplus.route.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..36cf8fa5ff61a61e94dbf427ddb2a6a3c7510aa4
+--- /dev/null
++++ b/alan/web/routes/surplus/surplus.route.ts
+@@ -0,0 +1,44 @@
++import type { Route } from "@akasha/code/route"
++
++export const surplus = {
++  id: "01a07c5c-cffc-7e06-993e-f7b533204f65",
++  pageTypeSlug: "route",
++  slug: "surplus",
++  definition: "Alan's surplus as the color the hours left in his night reach",
++  code: "ts",
++  test: "ts",
++  urlPath: "api/surplus",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The group of readings served is the one thing named here.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The readouts the group holds, their labels, their scales and their colors are read off those pages.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The surplus is what Alan slept less what his day has cost him so far.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The reading lives in tracking rows no pod can see, so the reading is carried in rather than read here.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A group with nothing carried in answers a stoplight carrying no figure rather than an hour count.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An empty figure is what keeps a night Alan does not have off the ring.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Only a group no readout is left in answers 503.",
++    },
++  ],
++} as const satisfies Route
+diff --git a/changes/checked/pages/remove-file/remove-file.change-checked.code.ts b/changes/checked/pages/remove-file/remove-file.change-checked.code.ts
+index 073fdf5b6cda343ef5ef1b0cda688576e923b0a1..1f73bf5ffadbe98320725bf3447148106cd72110 100644
+--- a/changes/checked/pages/remove-file/remove-file.change-checked.code.ts
++++ b/changes/checked/pages/remove-file/remove-file.change-checked.code.ts
+@@ -1,4 +1,4 @@
+-import { partedIn } from "@akasha/pages/page-file-name"
++import { pageNamed } from "@akasha/pages/page-file-name"
+ import { missing, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+ import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+@@ -12,8 +12,7 @@ export type RemoveFileAsked = {
+ }
+ 
+ export async function removeFile(world: World, given: RemoveFileAsked): Promise<Answer> {
+-  const said = partedIn(given.at)
+-  if (said !== null && said.sections.length === 0) {
++  if (pageNamed(given.at, world.index.pageTypesIn())) {
+     return refusing(
+       `\`${given.at}\` is a page file, which \`remove-page\` takes away rather than this change`
+     )
+diff --git a/changes/checked/pages/remove-file/remove-file.change-checked.test.ts b/changes/checked/pages/remove-file/remove-file.change-checked.test.ts
+index 4ba517e7072cf42db4b287343af97846031559cd..1855eef045fa111b46836c71ac47d61395670268 100644
+--- a/changes/checked/pages/remove-file/remove-file.change-checked.test.ts
++++ b/changes/checked/pages/remove-file/remove-file.change-checked.test.ts
+@@ -16,6 +16,10 @@ const ORDINARY = "akasha/notes.md"
+ 
+ const PAGE = "changes/change.page-type.ts"
+ 
++const SHAPED = "alan/web/routes/api.surplus.ts"
++
++const PAGE_TYPES = new Set(["page-type"])
++
+ const BODY = "alpha\n"
+ 
+ const UNASKED: World = {
+@@ -23,7 +27,8 @@ const UNASKED: World = {
+   index: new Proxy(
+     {},
+     {
+-      get() {
++      get(_held, named) {
++        if (named === "pageTypesIn") return () => PAGE_TYPES
+         throw new Error(ASKED)
+       },
+     }
+@@ -60,8 +65,11 @@ test("a page file is refused, and the refusal names the change that takes a page
+   expect(said.refused ?? "").toMatch(/remove-page/)
+ })
+ 
+-test("a page file is refused from the path alone, with the world never asked", async () => {
+-  await expect(removeFile(UNASKED, { at: PAGE })).resolves.toBeDefined()
++test("a file named as a page of no page type is taken away rather than refused", async () => {
++  const said = await removeFile(worldOf({ [SHAPED]: BODY }), { at: SHAPED })
++
++  expect(said.refused).toBeNull()
++  expect(said.edits).toEqual([{ path: SHAPED, was: BODY, body: null }])
+ })
+ 
+ test("a path holding no body is refused and answers no edit", async () => {
+diff --git a/changes/checked/pages/remove-file/remove-file.change-checked.ts b/changes/checked/pages/remove-file/remove-file.change-checked.ts
+index e5e799afb12fb20ab0b94706010e7516bd6c11c8..f3270dd031754ac0ec1ff1edfac23ac9b90b58f1 100644
+--- a/changes/checked/pages/remove-file/remove-file.change-checked.ts
++++ b/changes/checked/pages/remove-file/remove-file.change-checked.ts
+@@ -22,7 +22,11 @@ export const removeFile = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A page file is read from the path rather than from the index.",
++      statement: "A page file is read from the path against the page types the index holds.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A path naming a page type that is no page type is no page file.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.test-fixtures.ts b/readout-system/readout-group-serving/readout-group-serving.module.test-fixtures.ts
+index 9feb73e26b026f4cf7bb4bb387b098308d296240..4ccfec95d49947b12608a5c961f4c060919fa265 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.test-fixtures.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.test-fixtures.ts
+@@ -91,8 +91,10 @@ export function colorIn(one: Drawn, key: string): string {
+   return held
+ }
+ 
+-async function stoplightsAt(url: string): Promise<readonly Drawn[]> {
+-  const answered = await fetch(url)
++type Sent = Readonly<Record<string, string>>
++
++async function stoplightsAt(url: string, headers: Sent): Promise<readonly Drawn[]> {
++  const answered = await fetch(url, { headers })
+   if (answered.status !== 200) {
+     throw new Error(`the tile at ${url} answered ${answered.status} rather than 200`)
+   }
+@@ -100,12 +102,12 @@ async function stoplightsAt(url: string): Promise<readonly Drawn[]> {
+   return body.stoplights
+ }
+ 
+-export function tileAt(origin: string, path: string, key: string): Tile {
++export function tileAt(origin: string, path: string, key: string, headers: Sent = {}): Tile {
+   const url = `${origin}${path}`
+   return {
+-    answer: () => fetch(url),
+-    drawn: () => stoplightsAt(url),
+-    ringFor: async (named) => (await stoplightsAt(url)).find((one) => one[key] === named),
++    answer: () => fetch(url, { headers }),
++    drawn: () => stoplightsAt(url, headers),
++    ringFor: async (named) => (await stoplightsAt(url, headers)).find((one) => one[key] === named),
+   }
+ }
+ 
+diff --git a/readout-system/readout-relay/readout-relay.module.test-fixtures.ts b/readout-system/readout-relay/readout-relay.module.test-fixtures.ts
+index 01c055a2a188920b9843a6cdd0ff0033cb8eae21..41ba634941fcd88abbe04ff58c341192c64b6365 100644
+--- a/readout-system/readout-relay/readout-relay.module.test-fixtures.ts
++++ b/readout-system/readout-relay/readout-relay.module.test-fixtures.ts
+@@ -1,5 +1,16 @@
+-import { holdRelayed } from "./readout-relay.module.code.ts"
++import { holdRelayed, relayReading } from "./readout-relay.module.code.ts"
+ 
+ export function relayedFor(readout: string, value: number, at: Date = new Date()): undefined {
+   holdRelayed({ readout, value, at: at.toISOString() })
+ }
++
++export type Relaying = (
++  readout: string,
++  value: number,
++  at?: Date
++) => ReturnType<typeof relayReading>
++
++export function relayingTo(origin: string, secret: string): Relaying {
++  return (readout, value, at = new Date()) =>
++    relayReading(origin, secret, { readout, value, at: at.toISOString() })
++}
+diff --git a/readout-system/readout-relay/readout-relay.module.ts b/readout-system/readout-relay/readout-relay.module.ts
+index d11a7446ab0d6243a110408b804aa4dd8f9218cf..280facff72ee2bda69c9883f9ff01f77087aba6d 100644
+--- a/readout-system/readout-relay/readout-relay.module.ts
++++ b/readout-system/readout-relay/readout-relay.module.ts
+@@ -102,6 +102,11 @@ export const readoutRelay = {
+       invariantKind: "departure",
+       statement: "A reading held is dropped only to prove that no reading is held.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "The helper a test carries a reading over HTTP with sits here rather than in each test.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here takes a reading.",
+diff --git a/readout-system/readout-scales/pages/surplus-hours.readout-scale.ts b/readout-system/readout-scales/pages/surplus-hours.readout-scale.ts
+index 1fb2eb2a0aaa4be50d6a109520da2c7d955887fb..2d2fbe3d145b91449fcb78a00b2732ac02b7abee 100644
+--- a/readout-system/readout-scales/pages/surplus-hours.readout-scale.ts
++++ b/readout-system/readout-scales/pages/surplus-hours.readout-scale.ts
+@@ -10,4 +10,20 @@ export const surplusHours = {
+   yellowAt: -4,
+   greenAt: 0,
+   blueAt: 4,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The rungs of this scale run below zero as well as above zero.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A reading below zero reaches a rung rather than being read as though the scale began at zero.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A day that has eaten into the night is read against this scale rather than another.",
++    },
++  ],
+ } as const satisfies ReadoutScale
+diff --git a/smilingjenny/smilingjenny-web/routes.ts b/smilingjenny/smilingjenny-web/routes.ts
+index 697c2a65d3f50a9c9502b6b4ba7ba4882cee0d10..6bef21e2489020090f3eb038669203dda84efdc8 100644
+--- a/smilingjenny/smilingjenny-web/routes.ts
++++ b/smilingjenny/smilingjenny-web/routes.ts
+@@ -9,7 +9,7 @@ export default [
+   route("api/categorization", "routes/api.categorization.ts"),
+   route("api/readout-relay", "routes/api.readout-relay.ts"),
+   route("api/safety-level", "routes/api.safety-level.ts"),
+-  route("api/surplus", "routes/api.surplus.ts"),
++  route("api/surplus", "routes/jenny-surplus/jenny-surplus.route.code.ts"),
+   route("api/push/register", "routes/api.push.register.ts"),
+   route("api/errors", "routes/api.errors.ts"),
+ ] satisfies RouteConfig
+diff --git a/smilingjenny/smilingjenny-web/routes/api.surplus.test.ts b/smilingjenny/smilingjenny-web/routes/api.surplus.test.ts
+deleted file mode 100644
+index c82af16bb83b13a5ffc7843a91bafd1c1157005e..0000000000000000000000000000000000000000
+--- a/smilingjenny/smilingjenny-web/routes/api.surplus.test.ts
++++ /dev/null
+@@ -1,291 +0,0 @@
+-// Jenny's surplus tile, driven over real HTTP: the relay carrier POSTs a reading into her
+-// receiving route, and her own route answers it as the `stoplights` body her shipped widget
+-// decodes. The two secrets are the only made-up things here, generated fresh for each run.
+-//
+-// The reading in these tests is a fixture. The surplus Alan actually has is never read here, and
+-// no test asserts an hour count as though it were his.
+-//
+-// The surplus is Alan's. Jenny's widget says so in its own words — "Hours of sleep left after
+-// what Alan's day cost" — so the group her route serves is the same one his site serves, and the
+-// reading reaching her pod is the same reading, carried to two sites rather than taken twice.
+-//
+-// What this pins that her safety file does not: the `surplus-hours` scale is the first one whose
+-// rungs are negative. A day that has eaten into the night reads below zero, and the widget still
+-// has to receive a tier, a next tier and a fraction between them. A scale read as though it began
+-// at zero would answer black for every ordinary day, which draws on Jenny's phone as an alarm.
+-import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
+-import { dropRelayed, RELAY_PATH, relayReading } from "@akasha/readout-system/readout-relay"
+-import { action } from "./api.readout-relay.ts"
+-import { loader } from "./api.surplus.ts"
+-
+-const RING_CREDENTIAL = crypto.randomUUID()
+-const RELAY_SECRET = crypto.randomUUID()
+-const READOUT = "upkeep-surplus"
+-const GROUP = "surplus"
+-
+-process.env.SMILINGJENNY_RING_CREDENTIAL = RING_CREDENTIAL
+-process.env.READING_RELAY_SECRET = RELAY_SECRET
+-
+-const TIERS = ["black", "red", "orange", "yellow", "green", "blue"]
+-
+-// The rungs the `surplus-hours` scale page states, and the keys the `upkeep-surplus` readout page
+-// carries. Both pages are the ones Alan's site reads too, held here so a change to either shows
+-// up as a failure rather than as a blank tile on Jenny's home screen.
+-const READOUT_ROW = {
+-  slug: READOUT,
+-  label: "Surplus",
+-  unit: "hours",
+-  place: 2,
+-  figureFormat: "decimal",
+-  scaleSlug: "surplus-hours",
+-  wireKey: GROUP,
+-  groupSlugs: [GROUP],
+-}
+-
+-const SCALE_ROW = {
+-  slug: "surplus-hours",
+-  blackAt: -12,
+-  redAt: -8,
+-  yellowAt: -4,
+-  greenAt: 0,
+-  blueAt: 4,
+-}
+-
+-const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: [READOUT_ROW] }
+-
+-let store: ReturnType<typeof Bun.serve>
+-let server: ReturnType<typeof Bun.serve>
+-let origin: string
+-let heldOrigin: string | undefined
+-
+-beforeAll(() => {
+-  store = Bun.serve({
+-    port: 0,
+-    fetch: async (request) => {
+-      const asked = (await request.json()) as { pageTypeSlug: string }
+-      if (asked.pageTypeSlug === "readout") return Response.json({ rows: ANSWERED.readouts })
+-      return Response.json({ rows: [SCALE_ROW] })
+-    },
+-  })
+-  heldOrigin = process.env.PAGES_SERVICE_ORIGIN
+-  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
+-  server = Bun.serve({
+-    port: 0,
+-    fetch(request) {
+-      const { pathname } = new URL(request.url)
+-      if (pathname === RELAY_PATH) return action({ request } as never)
+-      if (pathname === "/api/surplus") return loader({ request } as never)
+-      return new Response("no such route", { status: 404 })
+-    },
+-  })
+-  origin = `http://localhost:${server.port}`
+-})
+-
+-// THE ORIGIN THIS FILE SET IS THE WHOLE PROCESS'S, AND COMES BACK WHEN THE STORE GOES.
+-//
+-// Every test file in one run shares one process, so a file leaving this origin in place leaves
+-// every later file asking this store rather than the store the run was pointed at. Stopping the
+-// store does not cover that on its own: `stop` leaves an open connection open, and `fetch` holds
+-// one, so a stopped store goes on answering the file that runs next.
+-afterAll(() => {
+-  server.stop()
+-  store.stop(true)
+-  if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
+-  else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
+-})
+-
+-beforeEach(() => {
+-  dropRelayed()
+-  ANSWERED.readouts = [READOUT_ROW]
+-})
+-
+-type Stoplight = {
+-  habit?: string
+-  label?: string
+-  tier: string
+-  reading?: string
+-  readingHeld?: string
+-  nextTier?: string
+-  progress?: number
+-}
+-
+-// `null` is the caller holding nothing. `undefined` would take the default back, which is how a
+-// test meaning to send no credential quietly sends the right one and passes.
+-const tile = (credential: string | null = RING_CREDENTIAL) =>
+-  fetch(`${origin}/api/surplus`, {
+-    headers: credential === null ? {} : { "X-Ring-Credential": credential },
+-  })
+-
+-const carry = (secret: string, body: unknown) =>
+-  fetch(`${origin}${RELAY_PATH}`, {
+-    method: "POST",
+-    headers: { "Content-Type": "application/json", "X-Relay-Secret": secret },
+-    body: JSON.stringify(body),
+-  })
+-
+-const carryNow = (value: number, at: Date = new Date()) =>
+-  relayReading(origin, RELAY_SECRET, { readout: READOUT, value, at: at.toISOString() })
+-
+-async function drawn(): Promise<readonly Stoplight[]> {
+-  const answered = await tile()
+-  expect(answered.status).toBe(200)
+-  const body = (await answered.json()) as { stoplights: readonly Stoplight[] }
+-  return body.stoplights
+-}
+-
+-test("a caller holding no ring credential is refused", async () => {
+-  await carryNow(1)
+-  expect((await tile(null)).status).toBe(401)
+-  expect((await tile(crypto.randomUUID())).status).toBe(401)
+-})
+-
+-test("a carrier holding no relay secret is refused", async () => {
+-  const bare = await fetch(`${origin}${RELAY_PATH}`, {
+-    method: "POST",
+-    headers: { "Content-Type": "application/json" },
+-    body: "{}",
+-  })
+-  expect(bare.status).toBe(401)
+-  expect((await carry(crypto.randomUUID(), {})).status).toBe(401)
+-})
+-
+-test("a body that is not a whole reading is refused rather than held", async () => {
+-  expect((await carry(RELAY_SECRET, { nope: 1 })).status).toBe(400)
+-  expect((await carry(RELAY_SECRET, { readout: READOUT, value: 1 })).status).toBe(400)
+-  expect((await carry(RELAY_SECRET, { readout: READOUT, value: 1, at: "soon" })).status).toBe(400)
+-})
+-
+-test("nothing carried in shows an empty ring rather than a surplus of zero", async () => {
+-  const [one] = await drawn()
+-  expect(one?.readingHeld).toBe("none")
+-  expect(one?.reading).toBe("")
+-  expect(one?.tier).toBe("black")
+-})
+-
+-test("a surplus below zero and between whole numbers crosses the relay whole", async () => {
+-  await carryNow(-1.5)
+-  const [one] = await drawn()
+-  expect(one?.reading).toBe("-1.5")
+-})
+-
+-test("the widget's body is a non-empty list under `stoplights`", async () => {
+-  await carryNow(1.5)
+-  const stoplights = await drawn()
+-  expect(Array.isArray(stoplights)).toBe(true)
+-  expect(stoplights.length).toBeGreaterThan(0)
+-})
+-
+-test("every stoplight carries a tier that is one of the six colours the phone decodes", async () => {
+-  for (const hours of [-20, -12, -9, -6, -4, -1, 0, 2, 4, 9]) {
+-    dropRelayed()
+-    await carryNow(hours)
+-    for (const one of await drawn()) {
+-      expect(TIERS).toContain(one.tier)
+-      if (one.nextTier !== undefined) expect(TIERS).toContain(one.nextTier)
+-    }
+-  }
+-})
+-
+-test("the colour is resolved here rather than sent as rungs for the phone to work out", async () => {
+-  await carryNow(-2)
+-  const [one] = await drawn()
+-  expect(one?.tier).toBe("yellow")
+-  expect(one?.nextTier).toBe("green")
+-  expect(one?.progress).toBe(0.5)
+-  expect((one as Record<string, unknown>).scale).toBeUndefined()
+-
+-  dropRelayed()
+-  await carryNow(0)
+-  expect((await drawn())[0]?.tier).toBe("green")
+-})
+-
+-test("the label and the key are read off the readout's page rather than named in the route", async () => {
+-  await carryNow(1)
+-  const [one] = await drawn()
+-  expect(one?.label).toBe("Surplus")
+-  expect(one?.habit).toBe(GROUP)
+-
+-  ANSWERED.readouts = [{ ...READOUT_ROW, label: "Night left" }]
+-  expect((await drawn())[0]?.label).toBe("Night left")
+-})
+-
+-test("the rungs come off the scale page, so a surplus below every rung is black", async () => {
+-  await carryNow(-20)
+-  expect((await drawn())[0]?.tier).toBe("black")
+-
+-  dropRelayed()
+-  await carryNow(-12)
+-  const [atTheRung] = await drawn()
+-  expect(atTheRung?.tier).toBe("black")
+-  expect(atTheRung?.nextTier).toBe("red")
+-})
+-
+-test("a whole night still ahead is the top rung, with no tier above it", async () => {
+-  await carryNow(5)
+-  const [one] = await drawn()
+-  expect(one?.tier).toBe("blue")
+-  expect(one?.nextTier).toBeUndefined()
+-})
+-
+-test("the reading is a string, which is what the widget decodes", async () => {
+-  await carryNow(1)
+-  expect(typeof (await drawn())[0]?.reading).toBe("string")
+-})
+-
+-test("a reading arriving replaces the one held before it", async () => {
+-  await carryNow(-3)
+-  await carryNow(2)
+-  expect((await drawn())[0]?.reading).toBe("2")
+-})
+-
+-test("a reading past forty-five minutes shows an empty ring rather than what it held", async () => {
+-  await carryNow(1, new Date(Date.now() - 46 * 60_000))
+-  const [one] = await drawn()
+-  expect(one?.readingHeld).toBe("stale")
+-  expect(one?.reading).toBe("")
+-})
+-
+-test("a machine that starts again holds no reading, and says so rather than losing the ring", async () => {
+-  await carryNow(1)
+-  dropRelayed()
+-  const [one] = await drawn()
+-  expect(one?.readingHeld).toBe("none")
+-  expect(one?.reading).toBe("")
+-})
+-
+-test("a reading never taken and one gone stale are told apart on the wire", async () => {
+-  const never = (await drawn())[0]?.readingHeld
+-  await carryNow(1, new Date(Date.now() - 46 * 60_000))
+-  const stale = (await drawn())[0]?.readingHeld
+-  expect(never).toBe("none")
+-  expect(stale).toBe("stale")
+-})
+-
+-// A surplus is added up out of session hours, so it arrives as a float carrying its whole tail —
+-// twenty digits of it, and a tile drawing that on one line at one size breaks it off mid-number
+-// with an ellipsis. The readout page states `figure-format: decimal`, and these pin that the
+-// figure reaching the widget is written to that rather than handed over raw.
+-test("a surplus added up out of hours is written to the places the readout states", async () => {
+-  await carryNow(-0.008333333333334636)
+-  const [one] = await drawn()
+-  expect(one?.reading).toBe("-0.01")
+-})
+-
+-test("a surplus is never sent to the tile as the whole tail of a float", async () => {
+-  await carryNow(2.6666666666666665)
+-  const said = (await drawn())[0]?.reading ?? ""
+-  expect(said).toBe("2.67")
+-  expect(said.length).toBeLessThanOrEqual(6)
+-})
+-
+-test("a surplus rounding onto zero is written as zero rather than as a signed zero", async () => {
+-  await carryNow(-0.0004)
+-  expect((await drawn())[0]?.reading).toBe("0")
+-})
+-
+-test("nothing between here and the tile is allowed to keep an answer", async () => {
+-  await carryNow(1)
+-  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
+-  dropRelayed()
+-  expect((await tile()).headers.get("Cache-Control")).toBe("no-store")
+-})
+diff --git a/smilingjenny/smilingjenny-web/routes/jenny-surplus/jenny-surplus.route.code.ts b/smilingjenny/smilingjenny-web/routes/jenny-surplus/jenny-surplus.route.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..09faa9171218ac5c6de68bfbbee06d5a471f14d7
+--- /dev/null
++++ b/smilingjenny/smilingjenny-web/routes/jenny-surplus/jenny-surplus.route.code.ts
+@@ -0,0 +1,8 @@
++import { answerStoplightsAdmittedBy } from "@akasha/readout-system/readout-group-serving"
++import { refuseUncredentialedRingCaller } from "../../.server/jenny-ring-credential/jenny-ring-credential.module.code.ts"
++
++const GROUP = "surplus"
++
++export function loader({ request }: { request: Request }): Promise<Response> {
++  return answerStoplightsAdmittedBy(request, refuseUncredentialedRingCaller, GROUP)
++}
+diff --git a/smilingjenny/smilingjenny-web/routes/jenny-surplus/jenny-surplus.route.test.ts b/smilingjenny/smilingjenny-web/routes/jenny-surplus/jenny-surplus.route.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..32874fb551d0dec0f6a5ee23ebc0f50ea78a7c2a
+--- /dev/null
++++ b/smilingjenny/smilingjenny-web/routes/jenny-surplus/jenny-surplus.route.test.ts
+@@ -0,0 +1,251 @@
++import { afterAll, beforeAll, beforeEach, expect, test } from "bun:test"
++import { type Tile, tileAt } from "@akasha/readout-system/readout-group-serving/testing"
++import { dropRelayed, RELAY_PATH } from "@akasha/readout-system/readout-relay"
++import { type Relaying, relayingTo } from "@akasha/readout-system/readout-relay/testing"
++import { action } from "../api.readout-relay.ts"
++import { loader } from "./jenny-surplus.route.code.ts"
++
++const RING_CREDENTIAL = crypto.randomUUID()
++const RELAY_SECRET = crypto.randomUUID()
++const READOUT = "upkeep-surplus"
++const GROUP = "surplus"
++const PATH = "/api/surplus"
++
++process.env.SMILINGJENNY_RING_CREDENTIAL = RING_CREDENTIAL
++process.env.READING_RELAY_SECRET = RELAY_SECRET
++
++const TIERS = ["black", "red", "orange", "yellow", "green", "blue"]
++
++const READOUT_ROW = {
++  slug: READOUT,
++  label: "Surplus",
++  unit: "hours",
++  place: 2,
++  scaleSlug: "surplus-hours",
++  wireKey: GROUP,
++  groupSlugs: [GROUP],
++}
++
++const SCALE_ROW = {
++  slug: "surplus-hours",
++  blackAt: -12,
++  redAt: -8,
++  yellowAt: -4,
++  greenAt: 0,
++  blueAt: 4,
++}
++
++const ANSWERED: { readouts: readonly Record<string, unknown>[] } = { readouts: [READOUT_ROW] }
++
++let store: ReturnType<typeof Bun.serve>
++let server: ReturnType<typeof Bun.serve>
++let origin: string
++let heldOrigin: string | undefined
++let tile: Tile
++let carried: Relaying
++
++beforeAll(() => {
++  store = Bun.serve({
++    port: 0,
++    fetch: async (request) => {
++      const asked = (await request.json()) as { pageTypeSlug: string }
++      if (asked.pageTypeSlug === "readout") return Response.json({ rows: ANSWERED.readouts })
++      return Response.json({ rows: [SCALE_ROW] })
++    },
++  })
++  heldOrigin = process.env.PAGES_SERVICE_ORIGIN
++  process.env.PAGES_SERVICE_ORIGIN = `http://localhost:${store.port}`
++  server = Bun.serve({
++    port: 0,
++    fetch(request) {
++      const { pathname } = new URL(request.url)
++      if (pathname === RELAY_PATH) return action({ request } as never)
++      if (pathname === PATH) return loader({ request })
++      return new Response("no such route", { status: 404 })
++    },
++  })
++  origin = `http://localhost:${server.port}`
++  tile = tileAt(origin, PATH, GROUP, { "X-Ring-Credential": RING_CREDENTIAL })
++  carried = relayingTo(origin, RELAY_SECRET)
++})
++
++afterAll(() => {
++  server.stop()
++  store.stop(true)
++  if (heldOrigin === undefined) delete process.env.PAGES_SERVICE_ORIGIN
++  else process.env.PAGES_SERVICE_ORIGIN = heldOrigin
++})
++
++beforeEach(() => {
++  dropRelayed()
++  ANSWERED.readouts = [READOUT_ROW]
++})
++
++const askedWith = (credential: string | null) =>
++  fetch(`${origin}${PATH}`, {
++    headers: credential === null ? {} : { "X-Ring-Credential": credential },
++  })
++
++const carry = (secret: string, body: unknown) =>
++  fetch(`${origin}${RELAY_PATH}`, {
++    method: "POST",
++    headers: { "Content-Type": "application/json", "X-Relay-Secret": secret },
++    body: JSON.stringify(body),
++  })
++
++const carryNow = (value: number, at: Date = new Date()) => carried(READOUT, value, at)
++
++const drawn = () => tile.drawn()
++
++test("a caller holding no ring credential is refused", async () => {
++  await carryNow(1)
++  expect((await askedWith(null)).status).toBe(401)
++  expect((await askedWith(crypto.randomUUID())).status).toBe(401)
++})
++
++test("a carrier holding no relay secret is refused", async () => {
++  const bare = await fetch(`${origin}${RELAY_PATH}`, {
++    method: "POST",
++    headers: { "Content-Type": "application/json" },
++    body: "{}",
++  })
++  expect(bare.status).toBe(401)
++  expect((await carry(crypto.randomUUID(), {})).status).toBe(401)
++})
++
++test("a body that is not a whole reading is refused rather than held", async () => {
++  expect((await carry(RELAY_SECRET, { nope: 1 })).status).toBe(400)
++  expect((await carry(RELAY_SECRET, { readout: READOUT, value: 1 })).status).toBe(400)
++  expect((await carry(RELAY_SECRET, { readout: READOUT, value: 1, at: "soon" })).status).toBe(400)
++})
++
++test("nothing carried in shows an empty ring rather than a surplus of zero", async () => {
++  const [one] = await drawn()
++  expect(one?.readingHeld).toBe("none")
++  expect(one?.reading).toBe("")
++  expect(one?.tier).toBe("black")
++})
++
++test("a surplus below zero and between whole numbers crosses the relay whole", async () => {
++  await carryNow(-1.5)
++  const [one] = await drawn()
++  expect(one?.reading).toBe("-1.5")
++})
++
++test("the widget's body is a non-empty list under `stoplights`", async () => {
++  await carryNow(1.5)
++  const stoplights = await drawn()
++  expect(Array.isArray(stoplights)).toBe(true)
++  expect(stoplights.length).toBeGreaterThan(0)
++})
++
++test("every stoplight carries a tier that is one of the six colors the phone decodes", async () => {
++  for (const hours of [-20, -12, -9, -6, -4, -1, 0, 2, 4, 9]) {
++    dropRelayed()
++    await carryNow(hours)
++    for (const one of await drawn()) {
++      expect(TIERS).toContain(String(one.tier))
++      if (one.nextTier !== undefined) expect(TIERS).toContain(String(one.nextTier))
++    }
++  }
++})
++
++test("the color is resolved here rather than sent as rungs for the phone to work out", async () => {
++  await carryNow(-2)
++  const [one] = await drawn()
++  expect(one?.tier).toBe("yellow")
++  expect(one?.nextTier).toBe("green")
++  expect(one?.progress).toBe(0.5)
++  expect(one?.scale).toBeUndefined()
++
++  dropRelayed()
++  await carryNow(0)
++  expect((await drawn())[0]?.tier).toBe("green")
++})
++
++test("the label and the key are read off the readout's page rather than named in the route", async () => {
++  await carryNow(1)
++  const [one] = await drawn()
++  expect(one?.label).toBe("Surplus")
++  expect(one?.habit).toBe(GROUP)
++
++  ANSWERED.readouts = [{ ...READOUT_ROW, label: "Night left" }]
++  expect((await drawn())[0]?.label).toBe("Night left")
++})
++
++test("the rungs come off the scale page, so a surplus below every rung is black", async () => {
++  await carryNow(-20)
++  expect((await drawn())[0]?.tier).toBe("black")
++
++  dropRelayed()
++  await carryNow(-12)
++  const [atTheRung] = await drawn()
++  expect(atTheRung?.tier).toBe("black")
++  expect(atTheRung?.nextTier).toBe("red")
++})
++
++test("a whole night still ahead is the top rung, with no tier above it", async () => {
++  await carryNow(5)
++  const [one] = await drawn()
++  expect(one?.tier).toBe("blue")
++  expect(one?.nextTier).toBeUndefined()
++})
++
++test("the reading is a string, which is what the widget decodes", async () => {
++  await carryNow(1)
++  expect(typeof (await drawn())[0]?.reading).toBe("string")
++})
++
++test("a reading arriving replaces the one held before it", async () => {
++  await carryNow(-3)
++  await carryNow(2)
++  expect((await drawn())[0]?.reading).toBe("2")
++})
++
++test("a reading past forty-five minutes shows an empty ring rather than what it held", async () => {
++  await carryNow(1, new Date(Date.now() - 46 * 60_000))
++  const [one] = await drawn()
++  expect(one?.readingHeld).toBe("stale")
++  expect(one?.reading).toBe("")
++})
++
++test("a machine that starts again holds no reading, and says so rather than losing the ring", async () => {
++  await carryNow(1)
++  dropRelayed()
++  const [one] = await drawn()
++  expect(one?.readingHeld).toBe("none")
++  expect(one?.reading).toBe("")
++})
++
++test("a reading never taken and one gone stale are told apart on the wire", async () => {
++  const never = (await drawn())[0]?.readingHeld
++  await carryNow(1, new Date(Date.now() - 46 * 60_000))
++  const stale = (await drawn())[0]?.readingHeld
++  expect(never).toBe("none")
++  expect(stale).toBe("stale")
++})
++
++test("a surplus added up out of hours is floored to two significant figures", async () => {
++  await carryNow(-0.008333333333334636)
++  const [one] = await drawn()
++  expect(one?.reading).toBe("-0.0084")
++})
++
++test("a surplus is never sent to the tile as the whole tail of a float", async () => {
++  await carryNow(2.6666666666666665)
++  const said = String((await drawn())[0]?.reading ?? "")
++  expect(said).toBe("2.6")
++  expect(said.length).toBeLessThanOrEqual(6)
++})
++
++test("a surplus smaller than a hundredth still carries two figures", async () => {
++  await carryNow(-0.0004)
++  expect((await drawn())[0]?.reading).toBe("-0.00040")
++})
++
++test("nothing between here and the tile is allowed to keep an answer", async () => {
++  await carryNow(1)
++  expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
++  dropRelayed()
++  expect((await tile.answer()).headers.get("Cache-Control")).toBe("no-store")
++})
+diff --git a/smilingjenny/smilingjenny-web/routes/jenny-surplus/jenny-surplus.route.ts b/smilingjenny/smilingjenny-web/routes/jenny-surplus/jenny-surplus.route.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1120dc50614828285e2e47a0a4b5def41dba1bd6
+--- /dev/null
++++ b/smilingjenny/smilingjenny-web/routes/jenny-surplus/jenny-surplus.route.ts
+@@ -0,0 +1,40 @@
++import type { Route } from "@akasha/code/route"
++
++export const jennySurplus = {
++  id: "01a07c5d-9ae4-79ac-8807-7f63c08e44df",
++  pageTypeSlug: "route",
++  slug: "jenny-surplus",
++  definition: "Alan's surplus as the color Jenny's tile draws that surplus in",
++  code: "ts",
++  test: "ts",
++  urlPath: "api/surplus",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The group of readings served is the one thing named here.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The readouts the group holds, their labels, their scales and their colors are read off those pages.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The surplus served here is Alan's rather than Jenny's.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "The reading reaching Jenny is the reading Alan's site shows rather than a second reading taken for her.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A caller into this ring presents Jenny's ring credential.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A group with nothing carried in answers 503, which the widget reads as no signal.",
++    },
++  ],
++} as const satisfies Route
+diff --git a/smilingjenny/smilingjenny-web/smilingjenny-web.router-app.ts b/smilingjenny/smilingjenny-web/smilingjenny-web.router-app.ts
+index 15aeeb4ea7988c87351208111b049247eeabcc83..eca4c87bfecdb34f8fae7b2b8113cda0727919f6 100644
+--- a/smilingjenny/smilingjenny-web/smilingjenny-web.router-app.ts
++++ b/smilingjenny/smilingjenny-web/smilingjenny-web.router-app.ts
+@@ -20,5 +20,6 @@ export const smilingjennyWeb = {
+     "module/jenny-ring-credential",
+     "module/jenny-session",
+     "module/jenny-shell",
++    "route/jenny-surplus",
+   ],
+ } as const satisfies RouterApp
