@@ -16,3 +16,15 @@ index 0000000000000000000000000000000000000000..53ebeae932d7188fb3bee7d3d1e5be75
 +  definition: "what the bundler is told before it builds a router app",
 +  fileName: "vite.config.ts",
 +} as const satisfies NamedFileProperty
+diff --git a/code-system/router-apps/router-app.page-type.ts b/code-system/router-apps/router-app.page-type.ts
+index fd0f4d214da271681cb7f7b3cab33729857fbd3f..37c13e24ee869854b019202aeeb81c659be20117 100644
+--- a/code-system/router-apps/router-app.page-type.ts
++++ b/code-system/router-apps/router-app.page-type.ts
+@@ -6,6 +6,7 @@ import type { RootRoute } from "./properties/root-route.named-file-property.ts"
+ import type { RouteTable } from "./properties/route-table.named-file-property.ts"
+ import type { RouterConfig } from "./properties/router-config.named-file-property.ts"
+ import type { ServerEntry } from "./properties/server-entry.named-file-property.ts"
++import type { ViteConfig } from "./properties/vite-config.named-file-property.ts"
+ 
+ export type RouterApp = WorkspacePackage & {
+   rootRoute: RootRoute
