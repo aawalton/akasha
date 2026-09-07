@@ -105,6 +105,7 @@ export const command = {
     "text-property/help-notes",
     "text-property/said",
     "text-property/takes",
+    "namespace/imessage",
   ],
   extendsSlug: ["page-type/module"],
   loadedBySlug: "module/calling",

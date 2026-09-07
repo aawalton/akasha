@@ -15,11 +15,6 @@ export const imessage = {
     "module/imessage-send",
     "module/message-lines",
     "module/imessage-command-reading",
-    "command/imessage-contacts",
-    "command/imessage-recent",
-    "command/imessage-search",
-    "command/imessage-send",
-    "command/imessage-unread-list",
   ],
   invariants: [
     {
