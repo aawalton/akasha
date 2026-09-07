@@ -446,7 +446,7 @@ export async function landing(
     const stale = unfresh(root, named, base, changes, asRead, AGAIN_WRITTEN)
     if (stale !== null) return stale
     const split = heldBack(root, changes)
-    const before = beforeOf(root, base, changes)
+    const before = beforeOf(root, base, split.committing)
     const keeping = indexingLoaded()
     try {
       const put = wroteOnto(root, split.committing)
