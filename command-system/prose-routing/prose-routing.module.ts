@@ -20,7 +20,7 @@ export const proseRouting = {
     {
       invariantKind: "departure",
       statement:
-        "A route reads its value from a file, or from standard input where the path is `-`.",
+        "A route reads its value from a file or from standard input where the path is `-`.",
     },
     {
       invariantKind: "departure",
@@ -36,7 +36,11 @@ export const proseRouting = {
     },
     {
       invariantKind: "departure",
-      statement: "Saying both a flag and its route says one thing twice, and is refused.",
+      statement: "Saying both a flag and its route says one thing twice.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Saying one thing twice is refused.",
     },
     {
       invariantKind: "departure",
