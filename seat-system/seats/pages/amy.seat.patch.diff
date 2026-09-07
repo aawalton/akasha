@@ -37,6 +37,21 @@ index 05b40a41b01c5812f8622a378281627e5859784b..fa7bfd66f64f3965419379108cd4c118
    if (slugs.size === 0) throw new RosterUnreachable(NO_PAGE_TYPE)
    return slugs
  }
+diff --git a/pages/access/file-read/file-read.module.ts b/pages/access/file-read/file-read.module.ts
+index 602d37e24c91bb35999072994ba07cda9e6016cc..987d9105f714c44f938f8c4a2f4c5f41cb3f441c 100644
+--- a/pages/access/file-read/file-read.module.ts
++++ b/pages/access/file-read/file-read.module.ts
+@@ -49,6 +49,10 @@ export const fileRead = {
+       statement:
+         "Which page types are backed by files is the page types `@akasha/pages-service` lists.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A browser reads that roster from the route its own app answers page types on.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "That roster is asked once and held for a minute rather than per page read.",
 diff --git a/pages/access/over-server/over-server.module.code.ts b/pages/access/over-server/over-server.module.code.ts
 index 1f3f2f039100fc43f320f3ff3b2a7a40d92236d4..c376344fdeacd8f50df3d18a47a3dc15aea34aef 100644
 --- a/pages/access/over-server/over-server.module.code.ts
