@@ -46,10 +46,11 @@ function readingIn(one: Reading): Reading {
 }
 
 function addedIn(one: Adding, textOf: BodyOf): Expanded {
-  if (textOf(one.path) !== null) {
+  const held = textOf(one.path)
+  if (held !== null && held !== "") {
     return { refused: `\`${one.path}\` holds a body already, so nothing is added` }
   }
-  return { edit: { ...readingIn(one), path: one.path, was: null, body: one.content } }
+  return { edit: { ...readingIn(one), path: one.path, was: held, body: one.content } }
 }
 
 function replacedIn(one: Replacing, textOf: BodyOf): Expanded {
