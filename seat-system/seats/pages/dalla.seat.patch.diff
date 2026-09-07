@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+index cb123dbe8d8b46428ed04ac10f9f6b7823fe2a01..ca5a95a2503010fa0ebdd8c1036e10f275ea7ff9 100644
+--- a/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
++++ b/domains/initiatives/pages/dalla-draft-into-a-patch.initiative.ts
+@@ -36,7 +36,7 @@ export const dallaDraftIntoAPatch = {
+     {
+       statement: "The patch a landing works out is held by no page property.",
+       workingMemory:
+-        '`agent.page-type.ts` declares `file-property/patch` and `file-property/edits`, defaulting to `diff` and `jsonl`. The edits moved: `edits-keeping` reads `refs/akasha/edits`, no `.edits.jsonl` is on disk, and `edits.file-property.ts` is stale now. The patch has not: `patch-keeping` still calls `besideAt(page, "patch", "diff")`, 10 tests assert that file, and `refs/akasha/patch` holds trees named for the file rather than replacing it. Five patch files sit beside seat pages.',
++        'The tracked `.patch.diff` files are the old store the edits ref replaces; a patch exists from here only to keep the git mechanics clean. The four still tracked, for ali, athena and the subagents of awen and olwen, are resolved before the property is dropped. `patch-keeping` still calls `besideAt(page, "patch", "diff")` and 10 tests assert that file. `edits.file-property.ts` is already stale, since no `.edits.jsonl` is on disk.',
+     },
+     {
+       statement: "Every property a command's page type declares is read.",
