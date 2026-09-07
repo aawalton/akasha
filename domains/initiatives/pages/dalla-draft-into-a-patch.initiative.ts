@@ -10,7 +10,7 @@ export const dallaDraftIntoAPatch = {
     {
       statement: "An edit holds only the information needed to make that edit.",
       workingMemory:
-        "The union is landed at `change-answer.module.types.ts`: `add` holds a path and content, `replace` a path with `contentFrom` and `contentTo`, `remove` a path, `move` `pathFrom` and `pathTo`. The whole-file row stays the un-kinded member until every reader is widened. Over seven live ledgers holding 441,850,709 bytes, 354,277,044 characters are `was` values and the bodies duplicated on same-body moves: 80%, and a lower bound, as a replace also shrinks `body` to the passage that moved.",
+        "`expanded`, `narrowed`, `widened` and `stating` are landed and tested at `change-answer`, and the round trip is proven both ways for a write, a remove and a move. `ranBy` widens every answer, so a change page may answer the new shape now. What is left: the ledger storing narrow rows, the producers, then `Edit` losing its un-kinded member. Over seven live ledgers holding 441,850,709 bytes, 354,277,044 characters are elidable: 80%, and a lower bound.",
     },
     {
       statement: "The edits an agent keeps are an uncommitted file rather than a git object.",
