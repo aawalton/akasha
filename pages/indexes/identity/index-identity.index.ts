@@ -19,7 +19,7 @@ export const indexIdentity = {
     },
     {
       invariantKind: "departure",
-      statement: "The reaches `always` and `page` name the one scope `page`.",
+      statement: "The reach `always` names the scope `page`.",
     },
     {
       invariantKind: "departure",
