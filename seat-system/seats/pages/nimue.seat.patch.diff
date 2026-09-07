@@ -1,0 +1,27 @@
+diff --git a/domains/initiatives/pages/nimue-code-cleanup.initiative.ts b/domains/initiatives/pages/nimue-code-cleanup.initiative.ts
+index 9e3387fc85688a57fed5fed7c24ea1aa0971a101..73aba72a970f5625d69e52d6edb9415f80d479f8 100644
+--- a/domains/initiatives/pages/nimue-code-cleanup.initiative.ts
++++ b/domains/initiatives/pages/nimue-code-cleanup.initiative.ts
+@@ -7,15 +7,20 @@ export const nimueCodeCleanup = {
+   domainSlug: "workspace-package/code-system",
+   personaSlug: "nimue",
+   intents: [
++    {
++      statement: "No body names `@akasha/code-system`.",
++      workingMemory:
++        "2,714 files name the old package, 2,707 as `@akasha/code-system/...`, and 2,687 of those sit under `temper/`. The root manifest aliases the old name to `workspace:@akasha/code@*`, and that alias goes once no body names the old name. `code-system/package.json` already states `@akasha/code`. The import index keys both spellings on one path, so every body is read off the index rather than walked: 4,322 importers of `code-system/modules/module.page-type.ts`.",
++    },
+     {
+       statement: "All code-system files are in the code/ folder.",
+       workingMemory:
+-        "372 files are under `code-system`, and 7,742 outside it spell that name, 4,649 of those as `@akasha/code/module`. `code/` is taken: `code.domain.ts` is `domain/code`, definition `the code a machine runs`, carrying 4 directives and naming 2 parts. Both pages are parts of `akasha`. A workspace package extends a domain, so the package absorbs the domain the way `collection` absorbed `collection-system`.",
++        "377 files are under `code-system`. `code/` is free: the domain `code` was absorbed into the package, and no domain page carries that slug now. `code.file-property.ts` carries the slug `code` under another page type, which no workspace package collides with. `rename-page` alone leaves the folder unmoved, a package's page never owning its folder, so the folder move waits on a change nothing composes yet.",
+     },
+     {
+       statement: "The code folder tree passes the folder-matches-a-shape check.",
+       workingMemory:
+-        "`akasha audit --check folder-matches-a-shape --file-path code-system` answers no refusal over 372 files. The same call over `code` answers 1 over 3 files: `code/` holds 2 pages where every shape wants one. `code-audit-ast-unused` needs a folder of its own, named `audit-ast-unused`, since a folder never opens with the name of the page above it.",
++        "`akasha audit --check folder-matches-a-shape --file-path code-system` answers 1 refusal over 377 files: the folder `audit-ast-unused` holds the page `code-audit-ast-unused`, and a folder is named for the page that folder holds. Once the package is `code`, that page's slug opens with the name of the package above, so the page becomes `audit-ast-unused` and the folder matches.",
+     },
+   ],
+ } as const satisfies Initiative
