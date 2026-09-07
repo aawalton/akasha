@@ -7,10 +7,16 @@ import { importingOf } from "../../../../../pages/indexes/path-naming/path-namin
 import {
   answered,
   gathered,
+  narrowed,
   refusing,
+  stating,
   writing,
 } from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer, Edit } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import type {
+  Answer,
+  Edit,
+  Said,
+} from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
   reach,
   type World,
@@ -213,6 +219,7 @@ export async function renameSlug(world: World, given: RenamePageSlugAsked): Prom
   return gathered(answers)
 }
 
-export async function runChange(world: World, given: RenamePageSlugAsked): Promise<Answer> {
-  return await renameSlug(world, given)
+export async function runChange(world: World, given: RenamePageSlugAsked): Promise<Said> {
+  const said = await renameSlug(world, given)
+  return said.refused !== null ? said : stating(said.edits.flatMap(narrowed))
 }

@@ -58,7 +58,8 @@ const statedAs = (value: Record<string, unknown>, named: string): string =>
 
 const RUNS: Reaching = async (world, at, given) => {
   if (at === "change-mechanical-file-content/rename-page-slug") {
-    return await renamePageSlug(world, given as Parameters<typeof renamePageSlug>[1])
+    const said = await renamePageSlug(world, given as Parameters<typeof renamePageSlug>[1])
+    return widened(said, world.textOf)
   }
   if (at === "change-mechanical-file/rename-path") {
     return await renamePathChange(world, given as Parameters<typeof renamePathChange>[1])
