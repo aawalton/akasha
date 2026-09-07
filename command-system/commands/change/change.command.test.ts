@@ -8,8 +8,12 @@ import {
   scratch,
 } from "@akasha/indexes/indexing/testing"
 import { removePage } from "../../../changes/checked/pages/remove-page/remove-page.change-checked.code.ts"
+import type { World } from "../../../changes/modules/change-shadow/change-shadow.module.code.ts"
 import { editsIn } from "../../../changes/modules/edits-keeping/edits-keeping.module.code.ts"
-import type { Loaded } from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
+import {
+  type Loaded,
+  loadedAt,
+} from "../../../changes/runners/pages/change-running/change-running.change-runner.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
 import { type Applying, changing, editsFor, owedBy, stamped } from "./change.command.code.ts"
 
@@ -65,9 +69,9 @@ function asking(path: string, message: string): string {
   return `${taking(path)}apply: ${message}\n`
 }
 
-async function loading(_world: unknown, at: string): Promise<Loaded | string> {
+async function loading(world: World, at: string): Promise<Loaded | string> {
   if (at === "change-command/remove-page") return REMOVE_PAGE
-  return `\`${at}\` reaches no change exporting \`runChange\``
+  return await loadedAt(world, at)
 }
 
 function taking(path: string): string {
