@@ -25,6 +25,10 @@ export const removeManifestWays = {
     },
     {
       invariantKind: "departure",
+      statement: "The entries under any key a caller names are spliced out the same way.",
+    },
+    {
+      invariantKind: "departure",
       statement: "The manifest keeps the spacing the manifest already carries.",
     },
     {

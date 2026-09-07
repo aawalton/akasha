@@ -33,7 +33,10 @@ function readsAsObject(text: string): boolean {
   return read !== null && typeof read === "object" && !Array.isArray(read)
 }
 
-function objectAt(source: ts.JsonSourceFile, key: string): ts.ObjectLiteralExpression | null {
+export function objectAt(
+  source: ts.JsonSourceFile,
+  key: string
+): ts.ObjectLiteralExpression | null {
   const first = source.statements[0]
   if (first === undefined || !ts.isExpressionStatement(first)) return null
   const held = first.expression
@@ -91,7 +94,16 @@ export function waysGoneIn(
 }
 
 export function withoutWaysIn(at: string, text: string, dropping: ReadonlySet<string>): string {
-  const held = objectAt(ts.parseJsonText(at, text), EXPORTS)
+  return withoutEntriesIn(at, text, EXPORTS, dropping)
+}
+
+export function withoutEntriesIn(
+  at: string,
+  text: string,
+  holding: string,
+  dropping: ReadonlySet<string>
+): string {
+  const held = objectAt(ts.parseJsonText(at, text), holding)
   if (held === null) return text
   const spans: Span[] = []
   let after = false
