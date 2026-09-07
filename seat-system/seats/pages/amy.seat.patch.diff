@@ -1,3 +1,27 @@
+diff --git a/alan/harness/attributes/attributes.domain.ts b/alan/harness/attributes/attributes.domain.ts
+index 0f8779e69268ef0a71a549131949459818e9001b..6a87f885e7c5b96d6d837038207bf98acac99a01 100644
+--- a/alan/harness/attributes/attributes.domain.ts
++++ b/alan/harness/attributes/attributes.domain.ts
+@@ -65,6 +65,19 @@ export const attributes = {
+       statement:
+         "An attribute nothing can be read for is shown as no signal rather than as a zero.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "`akasha measure attributes` answers an attribute's level beside that attribute's total.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An attribute no readout counts is left out of the answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A total is floored to two decimal places.",
++    },
+     {
+       invariantKind: "constraint",
+       statement: "Points are counted forward from the day an attribute begins.",
 diff --git a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts b/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
 index 55492fa0a3290f4aad32fb0ad8bbb4374dd7eb01..0327282094f79a52ee64253f4721d7b0de476943 100644
 --- a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
