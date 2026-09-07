@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-method-signature/no-method-signature.code-check.ts b/checks/code-checks/pages/no-method-signature/no-method-signature.code-check.ts
+index e68b4a68f76ee931ba9f35696a65c5fefd18c905..a55756d035e81b36c781c1545517316db7445a23 100644
+--- a/checks/code-checks/pages/no-method-signature/no-method-signature.code-check.ts
++++ b/checks/code-checks/pages/no-method-signature/no-method-signature.code-check.ts
+@@ -7,7 +7,7 @@ export const noMethodSignature = {
+   definition: "the check refusing a method signature in an interface or a type literal",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
