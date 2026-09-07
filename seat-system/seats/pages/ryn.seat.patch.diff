@@ -1,0 +1,50 @@
+writerOwesReading: false
+diff --git a/domains/standard-agent-english/standard-agent-english-properties/standard-agent-english-property.page-type.ts b/domains/standard-agent-english/standard-agent-english-properties/standard-agent-english-property.page-type.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..81ff2ab9b212c31e91de084935965fccd62f69a3
+--- /dev/null
++++ b/domains/standard-agent-english/standard-agent-english-properties/standard-agent-english-property.page-type.ts
+@@ -0,0 +1,31 @@
++import type { PageType } from "@akasha/pages/page-type"
++import type { TextProperty } from "@akasha/pages/text-property"
++
++export type StandardAgentEnglishProperty = TextProperty
++
++export const standardAgentEnglishProperty = {
++  id: "01a07c99-fb58-79b6-a204-a2bf1f056902",
++  pageTypeSlug: "page-type",
++  slug: "standard-agent-english-property",
++  definition: "a text property whose value Standard Agent English judges",
++  pluralSlug: "standard-agent-english-properties",
++  extendsSlug: ["page-type/text-property"],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A property of this page type holds a value read as English.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A property whose page type extends this page type is judged the same way.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A property of any other page type is not judged.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A property is moved to this page type rather than named in a list.",
++    },
++  ],
++} as const satisfies PageType
+diff --git a/domains/standard-agent-english/standard-agent-english.domain.ts b/domains/standard-agent-english/standard-agent-english.domain.ts
+index 6d54884b887126834ff08d160ac460fe06291d78..69d2e4d8df4bda84d9bb4a861a8b7bf574e5c1b5 100644
+--- a/domains/standard-agent-english/standard-agent-english.domain.ts
++++ b/domains/standard-agent-english/standard-agent-english.domain.ts
+@@ -8,6 +8,7 @@ export const standardAgentEnglish = {
+   partSlugs: [
+     "domain/standard-agent-english-term",
+     "domain/standard-agent-english-non-term",
++    "page-type/standard-agent-english-property",
+     "module/term-census",
+   ],
+ } as const satisfies Domain
