@@ -26,6 +26,14 @@ export const renamePageAddress = {
     },
     {
       invariantKind: "departure",
+      statement: "A path the answer writes is read beside the paths the index lists.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A path the answer carries away is left out of the bodies read.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A body a machine writes spelling the address is restated too.",
     },
     {

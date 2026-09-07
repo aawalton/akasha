@@ -46,6 +46,16 @@ export function respelled(text: string, spots: readonly Spot[], now: string): st
   return body
 }
 
+export function pathsIn(world: World): readonly string[] {
+  const found = new Set(world.index.everyPath())
+  for (const one of world.over.edits) {
+    if (one.from !== undefined) found.delete(one.from)
+    if (one.body === null) found.delete(one.path)
+    else found.add(one.path)
+  }
+  return [...found]
+}
+
 export function renamePageAddress(world: World, given: RenamePageAddressAsked): Answer {
   if (!ADDRESS.test(given.was)) return refusing(`\`${given.was}\` ${NO_ADDRESS}`)
   if (!ADDRESS.test(given.now)) return refusing(`\`${given.now}\` ${NO_ADDRESS}`)
@@ -54,7 +64,7 @@ export function renamePageAddress(world: World, given: RenamePageAddressAsked): 
   }
   let paths: readonly string[]
   try {
-    paths = world.index.everyPath()
+    paths = pathsIn(world)
   } catch (cause) {
     const why = cause instanceof Error ? cause.message : String(cause)
     return refusing(`${why}, so no address was restated`)

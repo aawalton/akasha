@@ -4,7 +4,31 @@ import {
   NOTHING_OVER,
   type World,
 } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { renamePageAddress } from "./rename-page-address.change-mechanical-data.code.ts"
+import { pathsIn, renamePageAddress } from "./rename-page-address.change-mechanical-data.code.ts"
+
+const MOVED_TO = "akasha/held/one/held-one.held-other.code.ts"
+
+const TAKEN = "akasha/held/one/held-one.held-checked.gone.ts"
+
+test("a path the answer writes is read beside the paths the index lists", () => {
+  const world = worldOf({ [CONST_AT]: CONST_BODY })
+  const over = {
+    ...world,
+    over: { edits: [{ path: MOVED_TO, was: null, body: "held\n", from: CONST_AT }], refused: null },
+  }
+
+  expect(pathsIn(over)).toEqual([MOVED_TO])
+})
+
+test("a path the answer carries away is left out of the bodies read", () => {
+  const world = worldOf({ [CONST_AT]: CONST_BODY, [TAKEN]: "held\n" })
+  const over = {
+    ...world,
+    over: { edits: [{ path: TAKEN, was: "held\n", body: null }], refused: null },
+  }
+
+  expect(pathsIn(over)).toEqual([CONST_AT])
+})
 
 const WAS = ["held-kind", "held-one"].join("/")
 
