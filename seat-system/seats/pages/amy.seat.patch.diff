@@ -22,6 +22,46 @@ index 027610e30512f5f2efb96a43cd63198abf20a86b..b91d77ead6679302b5ba8b2eba1f57b2
  } as const
  
  export const PROMOTED_COLUMN_KEYS: ReadonlySet<string> = new Set(Object.keys(PROMOTED_COLUMN))
+diff --git a/pages/access/routing-core/routing-core.module.test.ts b/pages/access/routing-core/routing-core.module.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..be62aa81f3be3b104e306b484a6f9f7b7a6d7be1
+--- /dev/null
++++ b/pages/access/routing-core/routing-core.module.test.ts
+@@ -0,0 +1,34 @@
++import { expect, test } from "bun:test"
++import { flattenRow, fromColumn, isPromotedKey } from "./routing-core.module.code.ts"
++
++const MARKED_AT = "2026-09-07T02:16:06.577Z"
++
++const ROW = {
++  id: "019fc2a9-cc9f-77d1-8d92-3d4c8bf09b6c",
++  slug: "golden-pursuits-straight-to-the-crate",
++  title: "Golden Pursuits",
++  attributes: { lastCompletedAt: MARKED_AT },
++  completed_at: MARKED_AT,
++  favorited_at: null,
++}
++
++test("a page marked done is read back under the key that page's file states", () => {
++  expect(flattenRow({ ...ROW }).completedAt).toBe(MARKED_AT)
++})
++
++test("a column holding nothing is read back as null", () => {
++  expect(flattenRow({ ...ROW, completed_at: null }).completedAt).toBe(null)
++})
++
++test("a key the attributes hold is read back under that key", () => {
++  expect(flattenRow({ ...ROW }).lastCompletedAt).toBe(MARKED_AT)
++})
++
++test("a column no key is held in is read back under no key", () => {
++  expect(flattenRow({ ...ROW }).favoritedAt).toBe(undefined)
++})
++
++test("the key a column is read under is the key that column is written from", () => {
++  expect(fromColumn("completed_at")).toBe("completedAt")
++  expect(isPromotedKey("completedAt")).toBe(true)
++})
 diff --git a/pages/access/routing-core/routing-core.module.ts b/pages/access/routing-core/routing-core.module.ts
 index b41ff967f2ae3708a6d47e153b9390f566fa436b..c51c32df0087a1071b199bf0de54820df02ecb7d 100644
 --- a/pages/access/routing-core/routing-core.module.ts
