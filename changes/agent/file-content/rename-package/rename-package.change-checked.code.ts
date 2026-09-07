@@ -10,12 +10,11 @@ import { lowerKebabCase } from "@akasha/pages/name-format/lower-kebab-case"
 import type { Matching } from "@akasha/pages/name-format/name-matching"
 import ts from "typescript"
 import {
-  answered,
   missing,
   refusing,
-  writing,
+  stating,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer, Edit } from "../../../modules/change-answer/change-answer.module.types.ts"
+import type { Replacing, Said } from "../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const AT = "at"
@@ -177,7 +176,7 @@ function namedRefusal(given: RenamePackageAsked, matching: Matching): string | n
   return given.from === undefined ? null : refusalOf(given.from, matching)
 }
 
-export function renamePackage(world: World, given: RenamePackageAsked): Answer {
+export function renamePackage(world: World, given: RenamePackageAsked): Said {
   const text = world.textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` could not be read`)
   const held = objectIn(text)
@@ -193,31 +192,33 @@ export function renamePackage(world: World, given: RenamePackageAsked): Answer {
   if (said !== null) return refusing(`${said}, ${UNRENAMED}`)
   const reading = importingOf(world.index, reachedIn(given.at, text))
   if ("unread" in reading) return refusing(reading.unread)
-  const edits: Edit[] = []
+  const edits: Replacing[] = []
   const own = restated(given.at, text, was, given.to)
-  if (own !== text) edits.push(writing(given.at, text, own))
+  if (own !== text) {
+    edits.push({ kind: "replace", path: given.at, contentFrom: text, contentTo: own })
+  }
   for (const path of manifestsOf(world)) {
     if (path === given.at) continue
     const body = world.textOf(path)
     if (body === null || !body.includes(was)) continue
     const next = restated(path, body, was, given.to)
-    if (next !== body) edits.push(writing(path, body, next))
+    if (next !== body) edits.push({ kind: "replace", path, contentFrom: body, contentTo: next })
   }
   for (const path of bodiesReaching(world, given, was, reading.importers)) {
     const body = world.textOf(path)
     if (body === null) return refusing(`\`${path}\` reaches this package and could not be read`)
     const next = spelledAnew(path, body, was, given.to)
-    if (next !== body) edits.push(writing(path, body, next))
+    if (next !== body) edits.push({ kind: "replace", path, contentFrom: body, contentTo: next })
   }
   if (given.from !== undefined && edits.length === 0) {
     return refusing(`nothing names \`${given.from}\`, ${UNRENAMED}`)
   }
-  return answered(edits)
+  return stating(edits)
 }
 
 export type Asked = Readonly<Record<string, string>>
 
-export function runChange(world: World, given: Asked): Answer {
+export function runChange(world: World, given: Asked): Said {
   const at = given[AT]
   if (at === undefined) return refusing(missing(AT))
   const to = given[TO]

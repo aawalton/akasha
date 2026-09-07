@@ -1,6 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { bodyOf, indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+import { widened } from "../../../modules/change-answer/change-answer.module.code.ts"
+import type { Said } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { renamePackage, runChange } from "./rename-package.change-checked.code.ts"
 
@@ -185,19 +186,26 @@ function carried(): World {
 }
 
 function renamed(): ReadonlyMap<string, string | null> {
-  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
+  const world = packaged()
+  const said = widened(renamePackage(world, { at: INNER_MANIFEST, to: HELD }), world.textOf)
   expect(said.refused).toBe(null)
   return new Map(said.edits.map((one) => [one.path, one.body]))
 }
 
 function resumed(): ReadonlyMap<string, string | null> {
-  const said = renamePackage(carried(), { at: INNER_MANIFEST, to: HELD, from: INNER })
+  const world = carried()
+  const said = widened(
+    renamePackage(world, { at: INNER_MANIFEST, to: HELD, from: INNER }),
+    world.textOf
+  )
   expect(said.refused).toBe(null)
   return new Map(said.edits.map((one) => [one.path, one.body]))
 }
 
-function pathsIn(said: Answer): readonly string[] {
-  return said.edits.map((one) => one.path).sort()
+function pathsIn(world: World, said: Said): readonly string[] {
+  return widened(said, world.textOf)
+    .edits.map((one) => one.path)
+    .sort()
 }
 
 test("a manifest that could not be read is refused", () => {
@@ -278,20 +286,28 @@ test("a body reaching the package has each specifier naming it rewritten", () =>
 })
 
 test("only the manifests and the bodies reaching the package are answered", () => {
-  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
+  const world = packaged()
+  const said = renamePackage(world, { at: INNER_MANIFEST, to: HELD })
   expect(said.refused).toBe(null)
-  expect(pathsIn(said)).toEqual([INNER_MANIFEST, OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
+  expect(pathsIn(world, said)).toEqual([INNER_MANIFEST, OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
 })
 
 test("a package no manifest and no body names is answered with its own manifest alone", () => {
-  const said = renamePackage(packaged(), { at: OUTER_MANIFEST, to: "@akasha/wider" })
+  const world = packaged()
+  const said = renamePackage(world, { at: OUTER_MANIFEST, to: "@akasha/wider" })
   expect(said.refused).toBe(null)
-  expect(pathsIn(said)).toEqual([OUTER_MANIFEST])
+  expect(pathsIn(world, said)).toEqual([OUTER_MANIFEST])
+})
+
+test("every body the rename touches is stated as a replace", () => {
+  const said = renamePackage(packaged(), { at: INNER_MANIFEST, to: HELD })
+
+  expect(new Set(said.edits.map((one) => one.kind))).toEqual(new Set(["replace"]))
 })
 
 test("each edit states the body as it was before the change", () => {
   const world = packaged()
-  const said = renamePackage(world, { at: INNER_MANIFEST, to: HELD })
+  const said = widened(renamePackage(world, { at: INNER_MANIFEST, to: HELD }), world.textOf)
   expect(said.refused).toBe(null)
   for (const one of said.edits) expect(one.was).toBe(world.textOf(one.path))
 })
@@ -346,7 +362,8 @@ test("an old name that is no package name is refused", () => {
 })
 
 test("a call handing over an old name renames from that name", () => {
-  const said = runChange(carried(), { at: INNER_MANIFEST, to: HELD, from: INNER })
+  const world = carried()
+  const said = runChange(world, { at: INNER_MANIFEST, to: HELD, from: INNER })
   expect(said.refused).toBe(null)
-  expect(pathsIn(said)).toEqual([OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
+  expect(pathsIn(world, said)).toEqual([OUTER_MANIFEST, READER_CODE, ROOT_MANIFEST])
 })
