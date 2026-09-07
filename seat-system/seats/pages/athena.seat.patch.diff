@@ -1,0 +1,4325 @@
+writerOwesReading: false
+diff --git a/commands/pages/mobile-cut-record/mobile-cut-record.command.code.ts b/commands/pages/mobile-cut-record/mobile-cut-record.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a03f3dc38be8eb397b55ee1f376a31497effee0a
+--- /dev/null
++++ b/commands/pages/mobile-cut-record/mobile-cut-record.command.code.ts
+@@ -0,0 +1,101 @@
++import type { Answer } from "@akasha/command-system/calling"
++import type { CutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
++import { readLatestCutFingerprint, recordCutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
++import {
++  APP_SAID,
++  answering,
++  appIn,
++  countOf,
++  flagsAloneIn,
++  type Reading,
++  refusedBy,
++  told,
++  wordsIn,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const BUILD_NUMBER = "--build-number"
++
++const MAIN_SHA = "--main-sha"
++
++const SHELL_SHA = "--shell-sha"
++
++const TREE_HASH = "--build-input-tree-hash"
++
++const CUT_AT = "--cut-at"
++
++const VALUED = [APP_SAID, BUILD_NUMBER, MAIN_SHA, SHELL_SHA, TREE_HASH, CUT_AT]
++
++const SHORT_SHA = 12
++
++const LEAST_BUILD = 1
++
++export type Read = {
++  readonly appSlug: string
++  readonly fingerprint: CutFingerprint
++}
++
++export function readIn(argv: readonly string[], nowIso: string): Reading<Read> {
++  const said = wordsIn(argv, VALUED, [])
++  if ("refused" in said) return said
++  const loose = flagsAloneIn(said)
++  if (loose.length > 0) return { refused: loose }
++
++  const counted = countOf(said.named[BUILD_NUMBER], BUILD_NUMBER)
++  if (counted === null) {
++    return {
++      refused: [`\`${BUILD_NUMBER}\` names the build App Store Connect gave, and nothing did`],
++    }
++  }
++  if (typeof counted === "object") return counted
++  if (counted < LEAST_BUILD) {
++    return {
++      refused: [
++        `\`${BUILD_NUMBER}\` names a build at or above one, and \`${counted}\` is below it`,
++      ],
++    }
++  }
++
++  const mainSha = said.named[MAIN_SHA]
++  if (mainSha === undefined) {
++    return { refused: [`\`${MAIN_SHA}\` names the commit the cut was taken at, and nothing did`] }
++  }
++
++  const cutAt = said.named[CUT_AT] ?? nowIso
++  if (Number.isNaN(Date.parse(cutAt))) {
++    return { refused: [`\`${cutAt}\` is no instant this can read`] }
++  }
++
++  const app = appIn(said)
++  if ("refused" in app) return app
++
++  return {
++    appSlug: app.slug,
++    fingerprint: {
++      buildNumber: counted,
++      mainSha,
++      shellSha: said.named[SHELL_SHA] ?? null,
++      buildInputTreeHash: said.named[TREE_HASH] ?? null,
++      cutAt,
++    },
++  }
++}
++
++async function filed(read: Read): Promise<Answer> {
++  const last = await readLatestCutFingerprint(read.appSlug)
++  if (last !== null && last.buildNumber === read.fingerprint.buildNumber) {
++    return told([
++      `${read.appSlug}\tbuild ${last.buildNumber} already carries a fingerprint cut at ${last.cutAt}, so nothing was written`,
++    ])
++  }
++  await recordCutFingerprint(read.appSlug, read.fingerprint)
++  return told([
++    `filed\t${read.appSlug}\tbuild ${read.fingerprint.buildNumber}\t` +
++      `main ${read.fingerprint.mainSha.slice(0, SHORT_SHA)}\tcut at ${read.fingerprint.cutAt}`,
++  ])
++}
++
++export async function mobileCutRecord(argv: readonly string[]): Promise<Answer> {
++  const read = readIn(argv, new Date().toISOString())
++  if ("refused" in read) return refusedBy(read.refused)
++  return await answering(async () => await filed(read))
++}
+diff --git a/commands/pages/mobile-cut-record/mobile-cut-record.command.ts b/commands/pages/mobile-cut-record/mobile-cut-record.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..50c8fe538242f07e1bbfe86216902d1126b9b584
+--- /dev/null
++++ b/commands/pages/mobile-cut-record/mobile-cut-record.command.ts
+@@ -0,0 +1,58 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileCutRecord = {
++  id: "01a0685d-ceae-7002-b932-ab750606b438",
++  pageTypeSlug: "command",
++  slug: "mobile-cut-record",
++  definition: "the command filing what a TestFlight build already at Apple was cut from",
++  code: "ts",
++  changeKindSlug: "change-mechanical",
++  taking: [
++    {
++      said: "--app <slug>",
++      takes: "the app the build belongs to, the default app where none is said",
++    },
++    { said: "--build-number <n>", takes: "the number App Store Connect gave the build" },
++    { said: "--main-sha <sha>", takes: "the code-repo commit the cut was taken at" },
++    {
++      said: "--shell-sha <sha>",
++      takes: "the shell-repo commit the cut was taken at, where it named one",
++    },
++    { said: "--build-input-tree-hash <hash>", takes: "the build-input closure the cut worked out" },
++    { said: "--cut-at <instant>", takes: "when the cut was taken, this moment where none is said" },
++  ],
++  helpNotes: [
++    "this is the second caller for a filing the cut itself did not land, and the cut prints the call to make.",
++    "the build number is the one the failed cut printed rather than a guess, since a wrong one files against a build that is not the one at Apple.",
++    "a fingerprint filed without a build-input tree hash reads as predating the basis, which leaves a cut owed.",
++    "the moment defaults to now, which is wrong for any filing that is not immediate.",
++    "a build already carrying a fingerprint is said so and written by nothing.",
++    "the fingerprint is what `mobile cut-status` compares origin/main against.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A build number is a whole number no lower than 1.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A moment that is no instant is refused rather than read as now.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A build the newest fingerprint already names is filed again by nothing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A shell commit and a build-input hash are each absent rather than empty.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A page written without a commit taking it counts as nothing filed.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reaches Apple or the mac.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/mobile-cut-status/mobile-cut-status.command.code.ts b/commands/pages/mobile-cut-status/mobile-cut-status.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..877ed3b9461dadf05fcadca125a37591a7490d23
+--- /dev/null
++++ b/commands/pages/mobile-cut-status/mobile-cut-status.command.code.ts
+@@ -0,0 +1,108 @@
++import type { Answer } from "@akasha/command-system/calling"
++import { buildInputSources } from "@akasha/mobile-cli/build-input-sources"
++import type { CurrentTreeState } from "@akasha/mobile-cli/cut-fingerprint"
++import { compareCutStatus, readLatestCutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
++import {
++  computeBuildInputTreeHash,
++  countCommitsBetween,
++  fetchOrigin,
++  resolveRef,
++  resolveRepoRoot,
++} from "@akasha/mobile-cli/git-tree-hash"
++import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
++import { shellRepoRoot } from "@akasha/mobile-cli/mobile-app"
++import { codeRoot } from "@akasha/pages/code-root"
++import {
++  APP_SAID,
++  answering,
++  appCalledIn,
++  asJson,
++  JSON_SAID,
++  keyedLines,
++  refusedBy,
++  told,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const MAIN = "origin/main"
++
++const SHORT_SHA = 12
++
++const VALUED = [APP_SAID]
++
++const SWITCHES = [JSON_SAID]
++
++export type Read = {
++  readonly app: MobileApp
++  readonly json: boolean
++}
++
++async function stated(read: Read): Promise<Answer> {
++  const repoRoot = resolveRepoRoot(codeRoot())
++  fetchOrigin(repoRoot)
++  const mainSha = resolveRef(repoRoot, MAIN)
++
++  const shellRoot = resolveRepoRoot(shellRepoRoot(read.app))
++  fetchOrigin(shellRoot)
++
++  const current: CurrentTreeState = {
++    mainSha,
++    buildInputTreeHash: computeBuildInputTreeHash(
++      buildInputSources(read.app, { root: repoRoot, ref: MAIN }, { root: shellRoot, ref: MAIN })
++    ),
++  }
++
++  const last = await readLatestCutFingerprint(read.app.slug)
++  const status = compareCutStatus(last, current)
++  const since = last === null ? null : countCommitsBetween(repoRoot, last.mainSha, MAIN)
++
++  if (read.json) {
++    return asJson({
++      owed: status.owed,
++      buildInputChanged: status.buildInputChanged,
++      predatesBasis: status.predatesBasis,
++      app: read.app.slug,
++      currentMainSha: mainSha,
++      lastCut: status.lastCut,
++      commitsSinceLastCut: since,
++    })
++  }
++
++  if (last === null) {
++    return told([
++      `owed\t${read.app.slug}\tno cut is on record, so the phones carry no build from this era`,
++    ])
++  }
++
++  if (status.owed) {
++    return told([
++      `owed\t${read.app.slug}\torigin/main is ahead of the last shipped cut`,
++      ...keyedLines([
++        ["last build", last.buildNumber],
++        ["last main", last.mainSha.slice(0, SHORT_SHA)],
++        ["last cut at", last.cutAt],
++        ["commits since", since],
++        [
++          "why",
++          status.predatesBasis
++            ? "the last cut predates the corrected build-input basis and carries no comparable hash"
++            : "the build inputs changed since the last cut",
++        ],
++      ]),
++    ])
++  }
++
++  return told([
++    `current\t${read.app.slug}\tthe last cut matches origin/main, so no cut is owed`,
++    ...keyedLines([
++      ["last build", last.buildNumber],
++      ["last main", last.mainSha.slice(0, SHORT_SHA)],
++    ]),
++  ])
++}
++
++export async function mobileCutStatus(argv: readonly string[]): Promise<Answer> {
++  const called = appCalledIn(argv, VALUED, SWITCHES)
++  if ("refused" in called) return refusedBy(called.refused)
++  const read = { app: called.app, json: called.flags.has(JSON_SAID) }
++  return await answering(async () => await stated(read))
++}
+diff --git a/commands/pages/mobile-cut-status/mobile-cut-status.command.ts b/commands/pages/mobile-cut-status/mobile-cut-status.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..70363d9f592ad3445fdc4d788bb2edf4bdcb66a4
+--- /dev/null
++++ b/commands/pages/mobile-cut-status/mobile-cut-status.command.ts
+@@ -0,0 +1,44 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileCutStatus = {
++  id: "01a0685d-ceae-7003-b691-5ac97b0f647a",
++  pageTypeSlug: "command",
++  slug: "mobile-cut-status",
++  definition: "the command saying whether a TestFlight cut is owed or the phones are current",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "--app <slug>", takes: "the app to answer about, the default app where none is said" },
++    { said: "--json", takes: "give the answer as JSON rather than as tab-separated rows" },
++  ],
++  helpNotes: [
++    "a cut is owed where origin/main is ahead of what the last shipped cut was taken from.",
++    "the comparison is against origin/main in both the code repo and the shell repo, each fetched first.",
++    "a cut owed is a fact rather than a failure, so this answers plainly whichever way it falls.",
++    "a last cut carrying no build-input hash predates the corrected basis, so it cannot certify the phones current.",
++    "no cut on record at all leaves a cut owed, since the phones carry no build from this era.",
++    "the count of commits since the last cut is worked out against origin/main rather than held anywhere.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A cut owed is answered as a fact rather than as a refusal.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Origin is fetched in both repos before anything is compared.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A last cut carrying no build-input hash leaves a cut owed.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "No cut on record leaves a cut owed.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here builds or uploads or files anything.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/mobile-deploy-device/mobile-deploy-device.command.code.ts b/commands/pages/mobile-deploy-device/mobile-deploy-device.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c02f80e53befe17bff3cbefe80bbc263f750c013
+--- /dev/null
++++ b/commands/pages/mobile-deploy-device/mobile-deploy-device.command.code.ts
+@@ -0,0 +1,157 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  ascAuthArgs,
++  buildKeychainUnlock,
++  buildNativeSync,
++  buildRunCheckout,
++  CHECKOUT_ROOT,
++  readKeychainPassword,
++  readNativeShellApsEnv,
++  readNativeShellHealthkitEnv,
++  SCRIPT_HEADER,
++} from "@akasha/mobile-cli/foundation"
++import { MACBOOK } from "@akasha/mobile-cli/macbook-target"
++import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
++import { iosAppDir, nativeShellDir } from "@akasha/mobile-cli/mobile-app"
++import { runSshCapture } from "@akasha/mobile-cli/mobile-ssh"
++import {
++  APP_SAID,
++  answering,
++  appIn,
++  flagsAloneIn,
++  OPERATIONAL,
++  type Reading,
++  refusedBy,
++  told,
++  wordsIn,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const DEVICE = "--device"
++
++const CONFIGURATION = "--configuration"
++
++const NO_SYNC = "--no-sync"
++
++const VALUED = [APP_SAID, DEVICE, CONFIGURATION]
++
++const SWITCHES = [NO_SYNC]
++
++const CONFIGURATIONS = ["Debug", "Release"]
++
++const DEFAULT_CONFIGURATION = "Debug"
++
++const MAIN = "origin/main"
++
++const OFF = "0"
++
++const A_UDID = /^[0-9A-Za-z-]{8,}$/
++
++const BUILT = "** BUILD SUCCEEDED **"
++
++const INSTALLED = "MOBILE_DEPLOY_DEVICE_OK"
++
++export type Read = {
++  readonly app: MobileApp
++  readonly configuration: string
++  readonly device: string
++  readonly sync: boolean
++}
++
++export function readIn(argv: readonly string[]): Reading<Read> {
++  const said = wordsIn(argv, VALUED, SWITCHES)
++  if ("refused" in said) return said
++  const loose = flagsAloneIn(said)
++  if (loose.length > 0) return { refused: loose }
++
++  const configuration = said.named[CONFIGURATION] ?? DEFAULT_CONFIGURATION
++  if (!CONFIGURATIONS.includes(configuration)) {
++    const known = CONFIGURATIONS.map((one) => `\`${one}\``).join(", ")
++    return {
++      refused: [`\`${configuration}\` is no configuration this builds — it builds ${known}`],
++    }
++  }
++
++  const app = appIn(said)
++  if ("refused" in app) return app
++
++  const device = said.named[DEVICE] ?? app.defaultDeviceUdid
++  if (device === null || device === undefined) {
++    return {
++      refused: [
++        `${app.slug} names no phone of its own, so \`${DEVICE} <udid>\` says which phone to install to`,
++      ],
++    }
++  }
++  if (!A_UDID.test(device)) {
++    return { refused: [`\`${device}\` is no hardware udid`] }
++  }
++
++  return { app, configuration, device, sync: !said.flags.has(NO_SYNC) }
++}
++
++export function scriptOf(read: Read, password: string): string {
++  const appPath = `${iosAppDir(read.app, CHECKOUT_ROOT)}/build/Build/Products/${read.configuration}-iphoneos/App.app`
++  const xcodebuild = [
++    "xcodebuild",
++    "-project App.xcodeproj",
++    "-scheme App",
++    `-configuration ${read.configuration}`,
++    `-destination "platform=iOS,id=${read.device}"`,
++    "-derivedDataPath build",
++    ...ascAuthArgs(),
++    `DEVELOPMENT_TEAM=${read.app.developmentTeam}`,
++    "CODE_SIGN_STYLE=Automatic",
++    "build",
++  ].join(" ")
++
++  const sections: string[] = [SCRIPT_HEADER, buildKeychainUnlock(password), buildRunCheckout(MAIN)]
++  if (read.sync) {
++    sections.push(
++      buildNativeSync({
++        app: read.app,
++        nativeShellDir: nativeShellDir(read.app, CHECKOUT_ROOT),
++        nativeShellAps: readNativeShellApsEnv() ?? OFF,
++        nativeShellHealthkit: readNativeShellHealthkitEnv() ?? OFF,
++      })
++    )
++  }
++  sections.push(
++    `cd ${iosAppDir(read.app, CHECKOUT_ROOT)}`,
++    xcodebuild,
++    `APP=${appPath}`,
++    'CODESIGN_OUT=$(codesign -dv "$APP" 2>&1)',
++    'echo "$CODESIGN_OUT"',
++    `echo "$CODESIGN_OUT" | grep -q "Identifier=${read.app.bundleId}"`,
++    `echo "$CODESIGN_OUT" | grep -q "TeamIdentifier=${read.app.developmentTeam}"`,
++    `xcrun devicectl device install app --device ${read.device} "$APP"`,
++    `echo "${INSTALLED}"`
++  )
++  return sections.join("\n")
++}
++
++async function deployed(read: Read): Promise<Answer> {
++  const password = readKeychainPassword()
++  const report = [
++    `building ${read.app.slug} at ${read.configuration} on ${MACBOOK.host} for phone ${read.device}`,
++  ]
++  const out = await runSshCapture(MACBOOK, scriptOf(read, password))
++  report.push(out.trimEnd())
++  if (!out.includes(BUILT)) {
++    return { report, refusals: [`xcodebuild did not report \`${BUILT}\``], code: OPERATIONAL }
++  }
++  if (!out.includes(INSTALLED)) {
++    return {
++      report,
++      refusals: [`the install did not report \`${INSTALLED}\`, so nothing reached the phone`],
++      code: OPERATIONAL,
++    }
++  }
++  report.push(`installed ${read.app.slug} at ${read.configuration} to phone ${read.device}`)
++  return told(report)
++}
++
++export async function mobileDeployDevice(argv: readonly string[]): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return refusedBy(read.refused)
++  return await answering(async () => await deployed(read))
++}
+diff --git a/commands/pages/mobile-deploy-device/mobile-deploy-device.command.ts b/commands/pages/mobile-deploy-device/mobile-deploy-device.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..1bce44e8a20ea00cc27ebe5fdee076d119b96b7e
+--- /dev/null
++++ b/commands/pages/mobile-deploy-device/mobile-deploy-device.command.ts
+@@ -0,0 +1,64 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileDeployDevice = {
++  id: "01a0685d-ceae-7004-9388-865daf75f565",
++  pageTypeSlug: "command",
++  slug: "mobile-deploy-device",
++  definition: "the command building an app on the mac and installing it to a phone plugged into it",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "--app <slug>", takes: "the app to build, the default app where none is said" },
++    {
++      said: "--device <udid>",
++      takes: "the phone to install to, the one the app's page names where none is said",
++    },
++    { said: "--configuration <name>", takes: "the Xcode configuration, Debug where none is said" },
++    {
++      said: "--no-sync",
++      takes:
++        "build without syncing the native seam first, which is faster and reuses what is there",
++    },
++  ],
++  helpNotes: [
++    "this is the path onto a phone that is plugged into the mac, and TestFlight is the path onto every other phone.",
++    "an app whose page names no phone is refused rather than installed to whichever phone is there.",
++    "the mac checks out origin/main before it builds, so the install carries what is on main rather than what is here.",
++    "the sync runs by default so the build reflects the site and the config as they are.",
++    "the signed app is checked to carry the app's bundle id and the app's team before it is installed.",
++    "nothing is said until the build has finished, because a command prints nothing itself.",
++    "the mac's login keychain is unlocked from `MACBOOK_KEYCHAIN_PASSWORD`, and a call without it is refused.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A phone is named by its hardware udid.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An app whose page names no phone is refused rather than guessed at.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The build runs on the single mac this workstation reaches over ssh.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The commit built is origin/main rather than the commit this checkout is at.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A build is installed only where its signature carries the app's bundle id and team.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A build reporting no success and an install reporting no sentinel each count as nothing installed.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here uploads to App Store Connect.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/mobile-sim-boot/mobile-sim-boot.command.code.ts b/commands/pages/mobile-sim-boot/mobile-sim-boot.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..511aa4f65c281aad256bdbe458936bcba7dc50c7
+--- /dev/null
++++ b/commands/pages/mobile-sim-boot/mobile-sim-boot.command.code.ts
+@@ -0,0 +1,43 @@
++import type { Answer } from "@akasha/command-system/calling"
++import { ensureAppium, resolveAndBootSim } from "@akasha/mobile-cli/sim-macbook"
++import {
++  answering,
++  flagsAloneIn,
++  keyedLines,
++  type Reading,
++  refusedBy,
++  told,
++  UDID_SAID,
++  wordsIn,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const VALUED = [UDID_SAID]
++
++export type Read = {
++  readonly udid: string | undefined
++}
++
++export function readIn(argv: readonly string[]): Reading<Read> {
++  const said = wordsIn(argv, VALUED, [])
++  if ("refused" in said) return said
++  const loose = flagsAloneIn(said)
++  if (loose.length > 0) return { refused: loose }
++  return { udid: said.named[UDID_SAID] }
++}
++
++async function booted(read: Read): Promise<Answer> {
++  const base = await ensureAppium()
++  const udid = await resolveAndBootSim(read.udid)
++  return told(
++    keyedLines([
++      ["udid", udid],
++      ["appium", base],
++    ])
++  )
++}
++
++export async function mobileSimBoot(argv: readonly string[]): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return refusedBy(read.refused)
++  return await answering(async () => await booted(read))
++}
+diff --git a/commands/pages/mobile-sim-boot/mobile-sim-boot.command.ts b/commands/pages/mobile-sim-boot/mobile-sim-boot.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..db3b8463abf89e3cbf9b37c5def22e29a18fbd4f
+--- /dev/null
++++ b/commands/pages/mobile-sim-boot/mobile-sim-boot.command.ts
+@@ -0,0 +1,41 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileSimBoot = {
++  id: "01a0685d-ceae-7006-9cff-358159094688",
++  pageTypeSlug: "command",
++  slug: "mobile-sim-boot",
++  definition: "the command bringing up what the simulator is driven through",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    {
++      said: "--udid <udid>",
++      takes: "the simulator to boot, the first booted or available iPhone where none is said",
++    },
++  ],
++  helpNotes: [
++    "this is the first call of a driving loop, and `mobile sim open-url` is the second.",
++    "the Appium server on the mac is started only where it is down, so a second call costs nothing.",
++    "a simulator already booted is left booted rather than restarted.",
++    "the udid and the Appium base are given back, since the calls after this one are answered against them.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An Appium server already up is left up.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A simulator already booted is left booted.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A call naming no simulator takes the first booted simulator or the first iPhone there is.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here opens a session or installs a build.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/mobile-sim-eval/mobile-sim-eval.command.code.ts b/commands/pages/mobile-sim-eval/mobile-sim-eval.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..f2e92b7d99b33b818df4272ebe11c792ffb9bf7c
+--- /dev/null
++++ b/commands/pages/mobile-sim-eval/mobile-sim-eval.command.code.ts
+@@ -0,0 +1,66 @@
++import type { Answer } from "@akasha/command-system/calling"
++import { inputIn } from "@akasha/command-system/piping"
++import { executeScript } from "@akasha/mobile-cli/appium-client"
++import {
++  answering,
++  bareWordAs,
++  driving,
++  type Reading,
++  refusedBy,
++  told,
++  wordsIn,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const SCRIPT = "--script"
++
++const PIPED = "-"
++
++const VALUED = [SCRIPT]
++
++const INDENT = 2
++
++export type Read = {
++  readonly script: string
++}
++
++function pipedScript(): Reading<string> {
++  const held = inputIn()
++  if ("tty" in held) {
++    return {
++      refused: [`\`${SCRIPT} ${PIPED}\` reads the script from what is piped in, and nothing was`],
++    }
++  }
++  if ("unreadable" in held) return { refused: [held.unreadable] }
++  const said = new TextDecoder().decode(held.bytes)
++  if (said.trim() === "") {
++    return { refused: [`\`${SCRIPT} ${PIPED}\` was piped nothing that could be a script`] }
++  }
++  return said
++}
++
++export function readIn(argv: readonly string[]): Reading<Read> {
++  const words = wordsIn(argv, VALUED, [])
++  if ("refused" in words) return words
++  const said = bareWordAs(words, SCRIPT)
++  if ("refused" in said) return said
++  const script = said.named[SCRIPT]
++  if (script === undefined) {
++    return { refused: [`\`${SCRIPT}\` names the script to run, and nothing did`] }
++  }
++  if (script !== PIPED) return { script }
++  const piped = pipedScript()
++  if (typeof piped !== "string") return piped
++  return { script: piped }
++}
++
++async function evaluated(read: Read): Promise<Answer> {
++  const state = await driving()
++  const result = await executeScript(state.appiumBase, state.sessionId, read.script)
++  return told([JSON.stringify(result, null, INDENT)])
++}
++
++export async function mobileSimEval(argv: readonly string[]): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return refusedBy(read.refused)
++  return await answering(async () => await evaluated(read))
++}
+diff --git a/commands/pages/mobile-sim-eval/mobile-sim-eval.command.ts b/commands/pages/mobile-sim-eval/mobile-sim-eval.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..23c394ec838c0c225063fcd8e604596472ed1cce
+--- /dev/null
++++ b/commands/pages/mobile-sim-eval/mobile-sim-eval.command.ts
+@@ -0,0 +1,46 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileSimEval = {
++  id: "01a0685d-ceae-7007-b4f3-e21611c10292",
++  pageTypeSlug: "command",
++  slug: "mobile-sim-eval",
++  definition:
++    "the command running JavaScript inside the simulator's webview and giving back what it returned",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "<js>", takes: "the script to run, representing `--script`" },
++    { said: "--script <js>", takes: "the script to run, which returns what is to come back" },
++    { said: "--script -", takes: "the script to run, read from what is piped in" },
++  ],
++  helpNotes: [
++    "the script has to `return` what is wanted, since a script returning nothing comes back as nothing.",
++    "a script too long to sit on a call is piped in and named `-`, and the bare word cannot say that.",
++    "the session already there is what this runs in, so `mobile sim open-url` comes first.",
++    "the webview is attached to before the script runs, so a session sitting in the native context still answers.",
++    "what comes back is given as JSON, whatever shape it is.",
++    "this is how a reading a page only shows on screen is taken, the keyboard-geometry counters among them.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A script runs in the session already there rather than in a session opened here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The webview is attached to before a script runs.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The value a script returns is answered as JSON.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A script that throws is a refusal carrying the fault that script threw.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here opens a session.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.code.ts b/commands/pages/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0315f58939ec990be53ebd124b957ab66b635f80
+--- /dev/null
++++ b/commands/pages/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.code.ts
+@@ -0,0 +1,103 @@
++import type { Answer } from "@akasha/command-system/calling"
++import { longPressDrag } from "@akasha/mobile-cli/appium-client"
++import {
++  answering,
++  countOf,
++  driving,
++  flagsAloneIn,
++  type Reading,
++  refusedBy,
++  type Said,
++  told,
++  wordsIn,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const X = "--x"
++
++const Y = "--y"
++
++const TO_X = "--to-x"
++
++const TO_Y = "--to-y"
++
++const HOLD_MS = "--hold-ms"
++
++const STEPS = "--steps"
++
++const STEP_MS = "--step-ms"
++
++const VALUED = [X, Y, TO_X, TO_Y, HOLD_MS, STEPS, STEP_MS]
++
++const DEFAULT_HOLD_MS = 800
++
++const DEFAULT_STEPS = 12
++
++const DEFAULT_STEP_MS = 30
++
++export type Read = {
++  readonly x: number
++  readonly y: number
++  readonly toX: number
++  readonly toY: number
++  readonly holdMs: number
++  readonly steps: number
++  readonly stepMs: number
++}
++
++function neededIn(said: Said, flag: string): Reading<number> {
++  const held = countOf(said.named[flag], flag)
++  if (held === null) return { refused: [`\`${flag}\` names a coordinate, and nothing did`] }
++  return held
++}
++
++function orElse(said: Said, flag: string, instead: number): Reading<number> {
++  const held = countOf(said.named[flag], flag)
++  return held === null ? instead : held
++}
++
++export function readIn(argv: readonly string[]): Reading<Read> {
++  const said = wordsIn(argv, VALUED, [])
++  if ("refused" in said) return said
++  const loose = flagsAloneIn(said)
++  if (loose.length > 0) return { refused: loose }
++
++  const x = neededIn(said, X)
++  if (typeof x !== "number") return x
++  const y = neededIn(said, Y)
++  if (typeof y !== "number") return y
++  const toX = neededIn(said, TO_X)
++  if (typeof toX !== "number") return toX
++  const toY = neededIn(said, TO_Y)
++  if (typeof toY !== "number") return toY
++
++  const holdMs = orElse(said, HOLD_MS, DEFAULT_HOLD_MS)
++  if (typeof holdMs !== "number") return holdMs
++  const steps = orElse(said, STEPS, DEFAULT_STEPS)
++  if (typeof steps !== "number") return steps
++  const stepMs = orElse(said, STEP_MS, DEFAULT_STEP_MS)
++  if (typeof stepMs !== "number") return stepMs
++
++  return { x, y, toX, toY, holdMs, steps, stepMs }
++}
++
++async function dragged(read: Read): Promise<Answer> {
++  const state = await driving()
++  await longPressDrag(state.appiumBase, state.sessionId, {
++    x: read.x,
++    y: read.y,
++    toX: read.toX,
++    toY: read.toY,
++    holdMs: read.holdMs,
++    steps: read.steps,
++    stepMs: read.stepMs,
++  })
++  return told([
++    `dragged\t(${read.x}, ${read.y}) to (${read.toX}, ${read.toY})\theld ${read.holdMs}ms`,
++  ])
++}
++
++export async function mobileSimLongPressDrag(argv: readonly string[]): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return refusedBy(read.refused)
++  return await answering(async () => await dragged(read))
++}
+diff --git a/commands/pages/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts b/commands/pages/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..df101e7c130a9b414ad381c2e17da5348c93a189
+--- /dev/null
++++ b/commands/pages/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
+@@ -0,0 +1,51 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileSimLongPressDrag = {
++  id: "01a0685d-ceae-7008-b721-3b37d87dca97",
++  pageTypeSlug: "command",
++  slug: "mobile-sim-long-press-drag",
++  definition: "the command holding a finger down on the simulator and dragging it somewhere",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "--x <px>", takes: "how far across the viewport the finger goes down" },
++    { said: "--y <px>", takes: "how far down the viewport the finger goes down" },
++    { said: "--to-x <px>", takes: "how far across the viewport the finger ends" },
++    { said: "--to-y <px>", takes: "how far down the viewport the finger ends" },
++    {
++      said: "--hold-ms <ms>",
++      takes: "how long the finger holds before it drags, 800 where none is said",
++    },
++    { said: "--steps <n>", takes: "how many moves the drag is made of, 12 where none is said" },
++    { said: "--step-ms <ms>", takes: "how long each move takes, 30 where none is said" },
++  ],
++  helpNotes: [
++    "the hold is what opens a long-press menu, and the drag is what reaches an item on it.",
++    "a drag that ends where it began is still a drag, which is how a menu is opened and left open.",
++    "the four coordinates are each required, since a gesture missing an end is no gesture.",
++    "the session already there is what is dragged in, so `mobile sim open-url` comes first.",
++    "the drag is made of moves rather than of one jump, because one jump reads as a tap somewhere else.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A gesture names where the finger goes down and where that finger ends.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A hold comes before a drag.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drag is made of moves rather than of one jump.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A drag ending where that drag began is a gesture rather than nothing.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here opens a session.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/mobile-sim-open-url/mobile-sim-open-url.command.code.ts b/commands/pages/mobile-sim-open-url/mobile-sim-open-url.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..a10e179eb332691687ad1cf59c139c849764a531
+--- /dev/null
++++ b/commands/pages/mobile-sim-open-url/mobile-sim-open-url.command.code.ts
+@@ -0,0 +1,83 @@
++import type { Answer } from "@akasha/command-system/calling"
++import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
++import { openSession } from "@akasha/mobile-cli/sim-driver"
++import { ensureAppium, resolveAndBootSim } from "@akasha/mobile-cli/sim-macbook"
++import { loadSessionState } from "@akasha/mobile-cli/sim-session"
++import {
++  APP_SAID,
++  answering,
++  appIn,
++  bareWordAs,
++  keyedLines,
++  type Reading,
++  refusedBy,
++  told,
++  UDID_SAID,
++  wordsIn,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const ROUTE = "--route"
++
++const KB_DEBUG = "--kb-debug"
++
++const AS_REAL_USER = "--as-real-user"
++
++const VALUED = [APP_SAID, ROUTE, UDID_SAID]
++
++const SWITCHES = [KB_DEBUG, AS_REAL_USER]
++
++export type Read = {
++  readonly app: MobileApp
++  readonly route: string
++  readonly kbDebug: boolean
++  readonly asRealUser: boolean
++  readonly udid: string | undefined
++}
++
++export function readIn(argv: readonly string[]): Reading<Read> {
++  const words = wordsIn(argv, VALUED, SWITCHES)
++  if ("refused" in words) return words
++  const said = bareWordAs(words, ROUTE)
++  if ("refused" in said) return said
++  const route = said.named[ROUTE]
++  if (route === undefined) {
++    return { refused: [`\`${ROUTE}\` names the route to open, and nothing did`] }
++  }
++  const app = appIn(said)
++  if ("refused" in app) return app
++  return {
++    app,
++    route,
++    kbDebug: said.flags.has(KB_DEBUG),
++    asRealUser: said.flags.has(AS_REAL_USER),
++    udid: said.named[UDID_SAID],
++  }
++}
++
++async function opened(read: Read): Promise<Answer> {
++  const base = await ensureAppium()
++  const udid = read.udid ?? loadSessionState()?.udid ?? (await resolveAndBootSim())
++  const state = await openSession({
++    base,
++    udid,
++    bundleId: read.app.bundleId,
++    route: read.route,
++    kbDebug: read.kbDebug,
++    asRealUser: read.asRealUser,
++  })
++  return told(
++    keyedLines([
++      ["session", state.sessionId],
++      ["udid", state.udid],
++      ["context", state.webviewContext],
++      ["route", state.route],
++      ["as", read.asRealUser ? "Alan, for reading only" : "the throwaway"],
++    ])
++  )
++}
++
++export async function mobileSimOpenUrl(argv: readonly string[]): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return refusedBy(read.refused)
++  return await answering(async () => await opened(read))
++}
+diff --git a/commands/pages/mobile-sim-open-url/mobile-sim-open-url.command.ts b/commands/pages/mobile-sim-open-url/mobile-sim-open-url.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..bb4722bf7a1ca726c477319efa7a7624df7e829e
+--- /dev/null
++++ b/commands/pages/mobile-sim-open-url/mobile-sim-open-url.command.ts
+@@ -0,0 +1,60 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileSimOpenUrl = {
++  id: "01a0685d-ceae-7009-892c-425eee9c835b",
++  pageTypeSlug: "command",
++  slug: "mobile-sim-open-url",
++  definition: "the command opening a route in the simulator and leaving a session at it",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "<path>", takes: "the route to open, representing `--route`" },
++    { said: "--route <path>", takes: "the route to open, such as `/home` or a page's own path" },
++    { said: "--app <slug>", takes: "the app to open it in, the default app where none is said" },
++    { said: "--kb-debug", takes: "mount the keyboard-geometry readout over the block editor" },
++    {
++      said: "--as-real-user",
++      takes: "sign in as Alan to read what only he can see, and change nothing through it",
++    },
++    {
++      said: "--udid <udid>",
++      takes:
++        "the simulator to open it on, the session's own or the first booted where none is said",
++    },
++  ],
++  helpNotes: [
++    "this is what leaves a session there, and every driving command after it attaches to that session.",
++    "a session already there on the same simulator is reused rather than replaced.",
++    "signing in is done by putting a session in before the route is navigated to, rather than by typing into a form.",
++    "the identity is a throwaway by default, since anything typed in the simulator is written as whoever is signed in.",
++    "`--as-real-user` is for reading what Alan's own pages look like and nothing is to be changed through it.",
++    "the webview is taken hold of again after the navigation, since navigating drops the context.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A session already there on the same simulator is reused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An identity is put in before a route is navigated to.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A call saying nothing about identity signs in as the throwaway.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "Nothing is changed through Alan's own identity.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The webview is taken hold of again after a navigation.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "A call naming no simulator takes the session's own simulator or the first booted simulator.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/mobile-sim-push-tap/mobile-sim-push-tap.command.code.ts b/commands/pages/mobile-sim-push-tap/mobile-sim-push-tap.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..ad1dcea5a3d05a9a6a90217759353ba81527dac7
+--- /dev/null
++++ b/commands/pages/mobile-sim-push-tap/mobile-sim-push-tap.command.code.ts
+@@ -0,0 +1,185 @@
++import type { Answer } from "@akasha/command-system/calling"
++import {
++  createSession,
++  deleteSession,
++  executeScript,
++  getContexts,
++  setContext,
++  tapCoordinates,
++} from "@akasha/mobile-cli/appium-client"
++import { MACBOOK } from "@akasha/mobile-cli/macbook-target"
++import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
++import { runSshCapture } from "@akasha/mobile-cli/mobile-ssh"
++import { buildApnsPayload, buildPushTapScript } from "@akasha/mobile-cli/push-tap-script"
++import { ensureAppium, resolveAndBootSim } from "@akasha/mobile-cli/sim-macbook"
++import {
++  buildBannerTapCapabilities,
++  loadSessionState,
++  resolveWdaLocalPort,
++  WDA_LOCAL_PORT_ENV,
++} from "@akasha/mobile-cli/sim-session"
++import { optionalEnv } from "@akasha/utils-narrow/require-env"
++import { z } from "zod"
++import {
++  APP_SAID,
++  answering,
++  appIn,
++  bareWordAs,
++  OPERATIONAL,
++  type Reading,
++  refusedBy,
++  told,
++  UDID_SAID,
++  wordsIn,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const ROUTE = "--route"
++
++const WARM = "--warm"
++
++const TITLE = "--title"
++
++const VALUED = [APP_SAID, ROUTE, UDID_SAID, TITLE]
++
++const SWITCHES = [WARM]
++
++const BANNER_X = 201
++
++const BANNER_Y = 90
++
++const WEBVIEW = "WEBVIEW_"
++
++const TRIES = 20
++
++const WAIT_MS = 1_500
++
++const A_SECOND = 1_000
++
++const INDENT = 1
++
++const READ_TRACE = "return JSON.stringify(window.getTapTrace ? window.getTapTrace().entries : null)"
++
++const traceEntries = z
++  .array(
++    z
++      .object({
++        traceId: z.string(),
++        launch: z.string(),
++        outcome: z.string(),
++      })
++      .passthrough()
++  )
++  .nullable()
++
++export type Read = {
++  readonly app: MobileApp
++  readonly route: string
++  readonly cold: boolean
++  readonly udid: string | undefined
++  readonly title: string | undefined
++}
++
++export function readIn(argv: readonly string[]): Reading<Read> {
++  const words = wordsIn(argv, VALUED, SWITCHES)
++  if ("refused" in words) return words
++  const said = bareWordAs(words, ROUTE)
++  if ("refused" in said) return said
++  const route = said.named[ROUTE]
++  if (route === undefined) {
++    return { refused: [`\`${ROUTE}\` names the route the push carries, and nothing did`] }
++  }
++  const app = appIn(said)
++  if ("refused" in app) return app
++  return {
++    app,
++    route,
++    cold: !said.flags.has(WARM),
++    udid: said.named[UDID_SAID],
++    title: said.named[TITLE],
++  }
++}
++
++type Traced =
++  | { readonly entries: readonly unknown[] }
++  | { readonly missing: true }
++  | { readonly quiet: true }
++
++async function traceOf(base: string, sessionId: string): Promise<Traced> {
++  for (let attempt = 0; attempt < TRIES; attempt += 1) {
++    await new Promise((keep) => setTimeout(keep, WAIT_MS))
++    const webview = (await getContexts(base, sessionId)).find((one) => one.startsWith(WEBVIEW))
++    if (webview === undefined) continue
++    await setContext(base, sessionId, webview)
++    const raw = await executeScript(base, sessionId, READ_TRACE, [])
++    if (typeof raw !== "string") continue
++    const decoded = traceEntries.safeParse(JSON.parse(raw))
++    if (!decoded.success) continue
++    if (decoded.data === null) return { missing: true }
++    if (decoded.data.length > 0) return { entries: decoded.data }
++  }
++  return { quiet: true }
++}
++
++async function probed(read: Read): Promise<Answer> {
++  const base = await ensureAppium()
++  const udid = read.udid ?? loadSessionState()?.udid ?? (await resolveAndBootSim())
++  const report = [
++    `${read.cold ? "cold" : "warm"} push of ${read.route} to ${read.app.bundleId} on ${udid}`,
++  ]
++
++  const pushed = await runSshCapture(
++    MACBOOK,
++    buildPushTapScript({
++      udid,
++      bundleId: read.app.bundleId,
++      payload: buildApnsPayload({
++        bundleId: read.app.bundleId,
++        route: read.route,
++        ...(read.title === undefined ? {} : { title: read.title }),
++      }),
++      cold: read.cold,
++    })
++  )
++  report.push(pushed.trimEnd())
++
++  const sessionId = await createSession(
++    base,
++    buildBannerTapCapabilities(
++      udid,
++      resolveWdaLocalPort(optionalEnv(WDA_LOCAL_PORT_ENV)),
++      read.app.bundleId
++    )
++  )
++  try {
++    await tapCoordinates(base, sessionId, BANNER_X, BANNER_Y)
++    const traced = await traceOf(base, sessionId)
++    if ("missing" in traced) {
++      return {
++        report,
++        refusals: [
++          "the installed bundle exposes no tap trace, so it was built without the instrument — install one from a tree that carries it",
++        ],
++        code: OPERATIONAL,
++      }
++    }
++    if ("quiet" in traced) {
++      return {
++        report,
++        refusals: [
++          `no trace appeared in ${Math.round((TRIES * WAIT_MS) / A_SECOND)}s of the tap, so either no banner was there to tap or the tap did not reach the push handler`,
++        ],
++        code: OPERATIONAL,
++      }
++    }
++    report.push(JSON.stringify(traced.entries, null, INDENT))
++    return told(report)
++  } finally {
++    await deleteSession(base, sessionId).catch(() => undefined)
++  }
++}
++
++export async function mobileSimPushTap(argv: readonly string[]): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return refusedBy(read.refused)
++  return await answering(async () => await probed(read))
++}
+diff --git a/commands/pages/mobile-sim-push-tap/mobile-sim-push-tap.command.ts b/commands/pages/mobile-sim-push-tap/mobile-sim-push-tap.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d75567a7294020ae20755a4e840b6506fa6364e0
+--- /dev/null
++++ b/commands/pages/mobile-sim-push-tap/mobile-sim-push-tap.command.ts
+@@ -0,0 +1,60 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileSimPushTap = {
++  id: "01a0685d-ceae-700a-91a5-034c3b41a91c",
++  pageTypeSlug: "command",
++  slug: "mobile-sim-push-tap",
++  definition:
++    "the command sending a push to the simulator, tapping its banner and reading what the tap did",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "<path>", takes: "the route the push carries, representing `--route`" },
++    { said: "--route <path>", takes: "the route the push carries, such as a question's own path" },
++    { said: "--app <slug>", takes: "the app the push is for, the default app where none is said" },
++    {
++      said: "--warm",
++      takes: "leave the app running, so the tap measures a warm open rather than a cold one",
++    },
++    {
++      said: "--udid <udid>",
++      takes: "the simulator to push to, the session's own or the first booted where none is said",
++    },
++    { said: "--title <text>", takes: "the notification's title, `Tap probe` where none is said" },
++  ],
++  helpNotes: [
++    "this makes what a tap on a notification does measurable on demand rather than only when one arrives.",
++    "the app is terminated first by default, since a cold open is the one worth measuring.",
++    "a cold run where the app is still running is refused, because it would have measured a warm open and said cold.",
++    "the banner is tapped where a banner sits rather than by finding it, since a banner is not in the page.",
++    "the trace is read out of the running app, so a build carrying no trace instrument is refused rather than answered empty.",
++    "the trace is waited for rather than read once, since the app has to start before it can write one.",
++    "the session opened to tap the banner is ended afterwards, whether the tap led anywhere or not.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A cold run terminates the app before the push goes out.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A cold run finding the app still running is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A banner is tapped where a banner sits rather than by being found.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A bundle exposing no trace instrument is refused rather than answered empty.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A trace is waited for rather than read once.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The session opened to tap the banner is ended whatever the tap did.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/mobile-sim-screenshot/mobile-sim-screenshot.command.code.ts b/commands/pages/mobile-sim-screenshot/mobile-sim-screenshot.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..0118e55d49497068c9733c75ea4d54e1a54facbf
+--- /dev/null
++++ b/commands/pages/mobile-sim-screenshot/mobile-sim-screenshot.command.code.ts
+@@ -0,0 +1,43 @@
++import { writeFileSync } from "node:fs"
++import { join } from "node:path"
++import type { Answer } from "@akasha/command-system/calling"
++import { SCRATCH_AT } from "@akasha/command-system/scratching"
++import { screenshot } from "@akasha/mobile-cli/appium-client"
++import {
++  answering,
++  driving,
++  flagsAloneIn,
++  type Reading,
++  refusedBy,
++  told,
++  wordsIn,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const OUT = "--out"
++
++const VALUED = [OUT]
++
++export type Read = {
++  readonly out: string
++}
++
++export function readIn(argv: readonly string[], nowMs: number): Reading<Read> {
++  const said = wordsIn(argv, VALUED, [])
++  if ("refused" in said) return said
++  const loose = flagsAloneIn(said)
++  if (loose.length > 0) return { refused: loose }
++  return { out: said.named[OUT] ?? join(SCRATCH_AT, `mobile-sim-${nowMs}.png`) }
++}
++
++async function pictured(read: Read): Promise<Answer> {
++  const state = await driving()
++  const png = await screenshot(state.appiumBase, state.sessionId)
++  writeFileSync(read.out, png)
++  return told([read.out])
++}
++
++export async function mobileSimScreenshot(argv: readonly string[]): Promise<Answer> {
++  const read = readIn(argv, Date.now())
++  if ("refused" in read) return refusedBy(read.refused)
++  return await answering(async () => await pictured(read))
++}
+diff --git a/commands/pages/mobile-sim-screenshot/mobile-sim-screenshot.command.ts b/commands/pages/mobile-sim-screenshot/mobile-sim-screenshot.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..8919454d290139cc18edc4c7564d71dca4527a4d
+--- /dev/null
++++ b/commands/pages/mobile-sim-screenshot/mobile-sim-screenshot.command.ts
+@@ -0,0 +1,42 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileSimScreenshot = {
++  id: "01a0685d-ceae-700b-913b-dbf3c509a388",
++  pageTypeSlug: "command",
++  slug: "mobile-sim-screenshot",
++  definition: "the command taking a picture of the simulator screen and saying where it was put",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    {
++      said: "--out <path>",
++      takes:
++        "where to put the picture, a file named for this moment in the temp folder where none is said",
++    },
++  ],
++  helpNotes: [
++    "the path is answered so that whatever called this can read the picture itself.",
++    "the session already there is what is pictured, so `mobile sim open-url` comes first.",
++    "the picture is of the whole screen rather than of the webview alone.",
++    "a path said is taken as it is, and a folder that is not there is not made here.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "A picture is taken of the session already there rather than of a session opened here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The path the picture was put at is the answer.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A call naming no path names one for the moment that call was called at.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads the picture back.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/mobile-sim-status/mobile-sim-status.command.code.ts b/commands/pages/mobile-sim-status/mobile-sim-status.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..4d96b3106b3d12adabe4c9aa41589f7a6bf16485
+--- /dev/null
++++ b/commands/pages/mobile-sim-status/mobile-sim-status.command.code.ts
+@@ -0,0 +1,67 @@
++import type { Answer } from "@akasha/command-system/calling"
++import { getContexts } from "@akasha/mobile-cli/appium-client"
++import { appiumIsUp } from "@akasha/mobile-cli/sim-macbook"
++import { loadSessionState, SIM_SESSION_PATH } from "@akasha/mobile-cli/sim-session"
++import {
++  answering,
++  flagsAloneIn,
++  keyedLines,
++  type Reading,
++  refusedBy,
++  told,
++  wordsIn,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const A_SECOND = 1_000
++
++const NONE = "(none)"
++
++export type Read = Record<string, never>
++
++export function readIn(argv: readonly string[]): Reading<Read> {
++  const said = wordsIn(argv, [], [])
++  if ("refused" in said) return said
++  const loose = flagsAloneIn(said)
++  if (loose.length > 0) return { refused: loose }
++  return {}
++}
++
++async function liveness(up: boolean, base: string, sessionId: string): Promise<boolean> {
++  if (!up) return false
++  try {
++    await getContexts(base, sessionId)
++    return true
++  } catch {
++    return false
++  }
++}
++
++async function stated(): Promise<Answer> {
++  const state = loadSessionState()
++  if (state === null) {
++    return told([
++      `none\tno session is there, since ${SIM_SESSION_PATH} is absent`,
++      "start one with `mobile sim boot` and then `mobile sim open-url`",
++    ])
++  }
++  const up = await appiumIsUp()
++  const live = await liveness(up, state.appiumBase, state.sessionId)
++  const age = Math.max(0, Math.round((Date.now() - state.startedAtMs) / A_SECOND))
++  return told(
++    keyedLines([
++      ["session", state.sessionId],
++      ["udid", state.udid],
++      ["appium", `${state.appiumBase} (${up ? "up" : "down"})`],
++      ["webview", state.webviewContext ?? NONE],
++      ["route", state.route ?? NONE],
++      ["age", `${age}s`],
++      ["live", live ? "yes" : "no, so `mobile sim open-url` would start one again"],
++    ])
++  )
++}
++
++export async function mobileSimStatus(argv: readonly string[]): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return refusedBy(read.refused)
++  return await answering(async () => await stated())
++}
+diff --git a/commands/pages/mobile-sim-status/mobile-sim-status.command.ts b/commands/pages/mobile-sim-status/mobile-sim-status.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..b0608425248ea2c6d1b84a1225fa5b86d029e355
+--- /dev/null
++++ b/commands/pages/mobile-sim-status/mobile-sim-status.command.ts
+@@ -0,0 +1,40 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileSimStatus = {
++  id: "01a0685d-ceae-700c-9489-e7e3a1062803",
++  pageTypeSlug: "command",
++  slug: "mobile-sim-status",
++  definition: "the command saying what simulator session is there",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [],
++  helpNotes: [
++    "no session there is an answer rather than a refusal, and it says which calls would start one.",
++    "the session is asked whether it is live rather than believed from what is written down.",
++    "a session written down that Appium no longer holds is said to be dead rather than repaired here.",
++    "the age is measured from when the session was opened against the moment this was called.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "No session there is answered rather than refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement:
++        "Whether a session is live is asked of Appium rather than read from the session written down.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A session is dead where Appium is down without Appium being asked.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An age is measured against the moment this command was called.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here opens or repairs or ends a session.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/mobile-sim-tap/mobile-sim-tap.command.code.ts b/commands/pages/mobile-sim-tap/mobile-sim-tap.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..afe404073619ef94ef55ca866446deeb1c1b940a
+--- /dev/null
++++ b/commands/pages/mobile-sim-tap/mobile-sim-tap.command.code.ts
+@@ -0,0 +1,80 @@
++import type { Answer } from "@akasha/command-system/calling"
++import { clickElement, findElement, tapCoordinates } from "@akasha/mobile-cli/appium-client"
++import {
++  answering,
++  countOf,
++  driving,
++  flagsAloneIn,
++  type Reading,
++  refusedBy,
++  told,
++  wordsIn,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const SELECTOR = "--selector"
++
++const X = "--x"
++
++const Y = "--y"
++
++const BY_CSS = "css selector"
++
++const VALUED = [SELECTOR, X, Y]
++
++export type Read = { readonly selector: string } | { readonly x: number; readonly y: number }
++
++export function readIn(argv: readonly string[]): Reading<Read> {
++  const said = wordsIn(argv, VALUED, [])
++  if ("refused" in said) return said
++  const loose = flagsAloneIn(said)
++  if (loose.length > 0) return { refused: loose }
++
++  const selector = said.named[SELECTOR]
++  const acrossSaid = said.named[X]
++  const downSaid = said.named[Y]
++
++  if (selector !== undefined && (acrossSaid !== undefined || downSaid !== undefined)) {
++    return {
++      refused: [
++        `\`${SELECTOR}\` names an element and \`${X}\`/\`${Y}\` name a point, and one call taps one of them`,
++      ],
++    }
++  }
++  if (selector !== undefined) return { selector }
++
++  if (acrossSaid === undefined || downSaid === undefined) {
++    return {
++      refused: [
++        `this taps what \`${SELECTOR}\` names or the point \`${X}\` and \`${Y}\` name, and nothing named either`,
++      ],
++    }
++  }
++  const across = countOf(acrossSaid, X)
++  if (typeof across !== "number") {
++    return across === null
++      ? { refused: [`\`${X}\` names a point across, and nothing did`] }
++      : across
++  }
++  const down = countOf(downSaid, Y)
++  if (typeof down !== "number") {
++    return down === null ? { refused: [`\`${Y}\` names a point down, and nothing did`] } : down
++  }
++  return { x: across, y: down }
++}
++
++async function tapped(read: Read): Promise<Answer> {
++  const state = await driving()
++  if ("selector" in read) {
++    const elementId = await findElement(state.appiumBase, state.sessionId, BY_CSS, read.selector)
++    await clickElement(state.appiumBase, state.sessionId, elementId)
++    return told([`tapped\t${read.selector}`])
++  }
++  await tapCoordinates(state.appiumBase, state.sessionId, read.x, read.y)
++  return told([`tapped\t(${read.x}, ${read.y})`])
++}
++
++export async function mobileSimTap(argv: readonly string[]): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return refusedBy(read.refused)
++  return await answering(async () => await tapped(read))
++}
+diff --git a/commands/pages/mobile-sim-tap/mobile-sim-tap.command.ts b/commands/pages/mobile-sim-tap/mobile-sim-tap.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d0d6a3dfaa78627afe6084ace77fa4eb1539fa85
+--- /dev/null
++++ b/commands/pages/mobile-sim-tap/mobile-sim-tap.command.ts
+@@ -0,0 +1,44 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileSimTap = {
++  id: "01a0685d-ceae-700d-a860-a518622e0d4a",
++  pageTypeSlug: "command",
++  slug: "mobile-sim-tap",
++  definition: "the command tapping the simulator screen the way a finger would",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "--selector <css>", takes: "the element to tap, found by CSS in the webview" },
++    { said: "--x <px>", takes: "how far across the viewport to tap, with `--y`" },
++    { said: "--y <px>", takes: "how far down the viewport to tap, with `--x`" },
++  ],
++  helpNotes: [
++    "the tap is native rather than a click in the page, which is what raises the keyboard.",
++    "a call names either an element or a point, and naming both is refused rather than chosen between.",
++    "a point is named by both `--x` and `--y`, and one without the other is no point.",
++    "the session already there is what is tapped, so `mobile sim open-url` comes first.",
++    "an element no selector finds is a refusal rather than a tap at nowhere.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A call names either an element or a point.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An element and a point named together are refused rather than chosen between.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A point is an across and a down.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A tap is native rather than a click in the page.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here opens a session.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/mobile-sim-teardown/mobile-sim-teardown.command.code.ts b/commands/pages/mobile-sim-teardown/mobile-sim-teardown.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..71ca1d209ce00ec50fa6e6346c406434274c1115
+--- /dev/null
++++ b/commands/pages/mobile-sim-teardown/mobile-sim-teardown.command.code.ts
+@@ -0,0 +1,56 @@
++import type { Answer } from "@akasha/command-system/calling"
++import { deleteSession } from "@akasha/mobile-cli/appium-client"
++import { stopAppium } from "@akasha/mobile-cli/sim-macbook"
++import { clearSessionState, loadSessionState } from "@akasha/mobile-cli/sim-session"
++import {
++  answering,
++  flagsAloneIn,
++  type Reading,
++  refusedBy,
++  told,
++  wordsIn,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const STOP_APPIUM = "--stop-appium"
++
++const SWITCHES = [STOP_APPIUM]
++
++export type Read = {
++  readonly stopAppium: boolean
++}
++
++export function readIn(argv: readonly string[]): Reading<Read> {
++  const said = wordsIn(argv, [], SWITCHES)
++  if ("refused" in said) return said
++  const loose = flagsAloneIn(said)
++  if (loose.length > 0) return { refused: loose }
++  return { stopAppium: said.flags.has(STOP_APPIUM) }
++}
++
++async function tornDown(read: Read): Promise<Answer> {
++  const report: string[] = []
++  const state = loadSessionState()
++  if (state === null) {
++    report.push("no session was there, so none was ended")
++  } else {
++    try {
++      await deleteSession(state.appiumBase, state.sessionId)
++      report.push(`ended session ${state.sessionId}`)
++    } catch {
++      report.push(`session ${state.sessionId} was already gone from Appium`)
++    }
++  }
++  clearSessionState()
++  report.push("cleared what was written down about the session")
++  if (read.stopAppium) {
++    await stopAppium()
++    report.push("stopped the mac's Appium server")
++  }
++  return told(report)
++}
++
++export async function mobileSimTeardown(argv: readonly string[]): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return refusedBy(read.refused)
++  return await answering(async () => await tornDown(read))
++}
+diff --git a/commands/pages/mobile-sim-teardown/mobile-sim-teardown.command.ts b/commands/pages/mobile-sim-teardown/mobile-sim-teardown.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..dd2a87e275b2a4ad4c5ee165af4fceb88030e43b
+--- /dev/null
++++ b/commands/pages/mobile-sim-teardown/mobile-sim-teardown.command.ts
+@@ -0,0 +1,37 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileSimTeardown = {
++  id: "01a0685d-ceae-700e-bb0c-c5b113d526fd",
++  pageTypeSlug: "command",
++  slug: "mobile-sim-teardown",
++  definition: "the command ending the simulator session that is there",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "--stop-appium", takes: "stop the mac's Appium server as well as ending the session" },
++  ],
++  helpNotes: [
++    "the Appium server is left running by default, since something driving the simulator by hand may be using it.",
++    "a session Appium has already dropped is forgotten here rather than treated as a failure.",
++    "no session there is nothing to end rather than a refusal.",
++    "the simulator itself is left booted, and `mobile sim boot` finds it again.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "The Appium server is left running unless stopping that server is asked for.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A session Appium no longer holds is forgotten rather than refused over.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The session record is cleared whether or not the session was still there.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here shuts a simulator down.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/mobile-sim-type/mobile-sim-type.command.code.ts b/commands/pages/mobile-sim-type/mobile-sim-type.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..241e8d6cdc2abaff8d32ac026a6a791cb0a2e0bf
+--- /dev/null
++++ b/commands/pages/mobile-sim-type/mobile-sim-type.command.code.ts
+@@ -0,0 +1,82 @@
++import type { Answer } from "@akasha/command-system/calling"
++import { inputIn } from "@akasha/command-system/piping"
++import {
++  activeElement,
++  clickElement,
++  elementSendKeys,
++  findElement,
++} from "@akasha/mobile-cli/appium-client"
++import {
++  answering,
++  driving,
++  flagsAloneIn,
++  type Reading,
++  refusedBy,
++  told,
++  wordsIn,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const TEXT = "--text"
++
++const SELECTOR = "--selector"
++
++const PIPED = "-"
++
++const BY_CSS = "css selector"
++
++const VALUED = [TEXT, SELECTOR]
++
++export type Read = {
++  readonly text: string
++  readonly selector: string | undefined
++}
++
++function pipedText(): Reading<string> {
++  const held = inputIn()
++  if ("tty" in held) {
++    return {
++      refused: [`\`${TEXT} ${PIPED}\` reads the text from what is piped in, and nothing was`],
++    }
++  }
++  if ("unreadable" in held) return { refused: [held.unreadable] }
++  if (held.bytes.byteLength === 0) {
++    return { refused: [`\`${TEXT} ${PIPED}\` was piped nothing to type`] }
++  }
++  return new TextDecoder().decode(held.bytes)
++}
++
++export function readIn(argv: readonly string[]): Reading<Read> {
++  const said = wordsIn(argv, VALUED, [])
++  if ("refused" in said) return said
++  const loose = flagsAloneIn(said)
++  if (loose.length > 0) return { refused: loose }
++  const wanted = said.named[TEXT]
++  if (wanted === undefined) {
++    return { refused: [`\`${TEXT}\` names what to type, and nothing did`] }
++  }
++  const selector = said.named[SELECTOR]
++  if (wanted !== PIPED) return { text: wanted, selector }
++  const piped = pipedText()
++  if (typeof piped !== "string") return piped
++  return { text: piped, selector }
++}
++
++async function typed(read: Read): Promise<Answer> {
++  const state = await driving()
++  const selector = read.selector
++  if (selector === undefined) {
++    const focused = await activeElement(state.appiumBase, state.sessionId)
++    await elementSendKeys(state.appiumBase, state.sessionId, focused, read.text)
++    return told([`typed\t${read.text.length} characters into what was focused`])
++  }
++  const elementId = await findElement(state.appiumBase, state.sessionId, BY_CSS, selector)
++  await clickElement(state.appiumBase, state.sessionId, elementId)
++  await elementSendKeys(state.appiumBase, state.sessionId, elementId, read.text)
++  return told([`typed\t${read.text.length} characters into ${selector}`])
++}
++
++export async function mobileSimType(argv: readonly string[]): Promise<Answer> {
++  const read = readIn(argv)
++  if ("refused" in read) return refusedBy(read.refused)
++  return await answering(async () => await typed(read))
++}
+diff --git a/commands/pages/mobile-sim-type/mobile-sim-type.command.ts b/commands/pages/mobile-sim-type/mobile-sim-type.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..e8b8475e8dbaff8fc8161bea27a91ee945c8761b
+--- /dev/null
++++ b/commands/pages/mobile-sim-type/mobile-sim-type.command.ts
+@@ -0,0 +1,43 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileSimType = {
++  id: "01a0685d-ceae-700f-89c3-712a8a6e7252",
++  pageTypeSlug: "command",
++  slug: "mobile-sim-type",
++  definition: "the command typing text into the simulator's webview",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "--text <text>", takes: "the text to type" },
++    { said: "--text -", takes: "the text to type, read from what is piped in" },
++    {
++      said: "--selector <css>",
++      takes: "the element to put the cursor in first, the one already focused where none is said",
++    },
++  ],
++  helpNotes: [
++    "the element is tapped before the text goes in, since typing into an element nothing focused reaches nothing.",
++    "a call naming no element types into whatever the session already has focused.",
++    "the session already there is what is typed into, so `mobile sim open-url` comes first.",
++    "text too long to sit on a call is piped in and named `-`.",
++    "how many characters went in is the answer, rather than the text itself.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "An element named is tapped before anything is typed into that element.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A call naming no element types into the element already focused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "How many characters went in is the answer rather than the text.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here opens a session.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/commands/pages/mobile-testflight-status/mobile-testflight-status.command.code.ts b/commands/pages/mobile-testflight-status/mobile-testflight-status.command.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..3fdb20874063c3ac27b10a5d7f8b31f4bef2cfe6
+--- /dev/null
++++ b/commands/pages/mobile-testflight-status/mobile-testflight-status.command.code.ts
+@@ -0,0 +1,97 @@
++import type { Answer } from "@akasha/command-system/calling"
++import { createAscJwtSource, fetchLatestBuild, resolveAppId } from "@akasha/mobile-cli/asc-client"
++import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
++import {
++  classifyProcessingState,
++  describeProcessingFailure,
++  POLL_INTERVAL_MS,
++  POLL_TIMEOUT_MS,
++  pollBuildUntilTerminal,
++  processingFailureFor,
++} from "@akasha/mobile-cli/testflight-poll"
++import {
++  APP_SAID,
++  answering,
++  appCalledIn,
++  OPERATIONAL,
++  refusedBy,
++  told,
++} from "../../../mobile-commands/mobile-answering/mobile-answering.module.code.ts"
++
++const WAIT = "--wait"
++
++const VALUED = [APP_SAID]
++
++const SWITCHES = [WAIT]
++
++const A_SECOND = 1_000
++
++const A_MINUTE = 60_000
++
++export type Read = {
++  readonly app: MobileApp
++  readonly wait: boolean
++}
++
++async function waited(read: Read, appId: string, jwt: () => Promise<string>): Promise<Answer> {
++  const report = [
++    `asking App Store Connect about ${read.app.bundleId} every ${POLL_INTERVAL_MS / A_SECOND}s ` +
++      `for up to ${POLL_TIMEOUT_MS / A_MINUTE} minutes`,
++  ]
++  const outcome = await pollBuildUntilTerminal({
++    fetchLatest: async () => await fetchLatestBuild(appId, await jwt()),
++    isTarget: () => true,
++    sleep: async (ms) => await new Promise((keep) => setTimeout(keep, ms)),
++    now: () => Date.now(),
++    intervalMs: POLL_INTERVAL_MS,
++    timeoutMs: POLL_TIMEOUT_MS,
++    onTick: (message) => report.push(message),
++  })
++  if (outcome.kind === "valid") {
++    report.push(`valid\tbuild ${outcome.build.version} is ready to install`)
++    return told(report)
++  }
++  if (outcome.kind === "failed") {
++    return { report, refusals: [describeProcessingFailure(outcome.failure)], code: OPERATIONAL }
++  }
++  return {
++    report,
++    refusals: [
++      `no build reached a terminal state in ${POLL_TIMEOUT_MS / A_MINUTE} minutes ` +
++        `(last state: ${outcome.lastState ?? "no build visible"}), so it is still processing`,
++    ],
++    code: OPERATIONAL,
++  }
++}
++
++async function stated(read: Read): Promise<Answer> {
++  const jwt = createAscJwtSource()
++  const appId = await resolveAppId(read.app.bundleId, await jwt())
++  if (read.wait) return await waited(read, appId, jwt)
++
++  const build = await fetchLatestBuild(appId, await jwt())
++  if (build === null) {
++    return told([`none\tno ${read.app.bundleId} build has been uploaded to App Store Connect`])
++  }
++  const classification = classifyProcessingState(build.processingState)
++  if (classification === "failed") {
++    return {
++      report: [],
++      refusals: [describeProcessingFailure(processingFailureFor(build))],
++      code: OPERATIONAL,
++    }
++  }
++  if (classification === "valid") {
++    return told([`valid\tbuild ${build.version} is ready to install`])
++  }
++  return told([
++    `processing\tbuild ${build.version} is ${build.processingState}, and \`${WAIT}\` holds until it is not`,
++  ])
++}
++
++export async function mobileTestflightStatus(argv: readonly string[]): Promise<Answer> {
++  const called = appCalledIn(argv, VALUED, SWITCHES)
++  if ("refused" in called) return refusedBy(called.refused)
++  const read = { app: called.app, wait: called.flags.has(WAIT) }
++  return await answering(async () => await stated(read))
++}
+diff --git a/commands/pages/mobile-testflight-status/mobile-testflight-status.command.ts b/commands/pages/mobile-testflight-status/mobile-testflight-status.command.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..c516a8d56be3a4c192e3ebe18b5139910f4c2192
+--- /dev/null
++++ b/commands/pages/mobile-testflight-status/mobile-testflight-status.command.ts
+@@ -0,0 +1,51 @@
++import type { Command } from "@akasha/command-system/command"
++
++export const mobileTestflightStatus = {
++  id: "01a0685d-ceae-7005-b619-65388a8bde61",
++  pageTypeSlug: "command",
++  slug: "mobile-testflight-status",
++  definition: "the command saying how far App Store Connect has got with the newest build",
++  code: "ts",
++  changeKindSlug: "change-none",
++  taking: [
++    { said: "--app <slug>", takes: "the app to ask about, the default app where none is said" },
++    {
++      said: "--wait",
++      takes: "hold until the build is valid or has failed rather than answering once",
++    },
++  ],
++  helpNotes: [
++    "this asks App Store Connect and nothing else, so it neither reaches the mac nor builds anything.",
++    "a build still processing is an answer rather than a failure, and a wait is what turns it into one.",
++    "a wait asks every thirty seconds for up to thirty minutes and gives back what it saw on the way.",
++    "the token is minted afresh for each read, since a wait outlives any one token.",
++    "a build that failed or came back invalid is a refusal carrying what App Store Connect said was wrong.",
++    "a wait that runs out is a refusal, and the build is still processing rather than lost.",
++  ],
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A build still processing is answered rather than refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A build that failed or is invalid is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A wait running out is refused rather than answered as still processing.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A token is minted for each read rather than held across a wait.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "An app no build has been uploaded for is answered rather than refused.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here builds or uploads or reaches the mac.",
++    },
++  ],
++} as const satisfies Command
+diff --git a/mobile-commands/mobile-answering/mobile-answering.module.code.ts b/mobile-commands/mobile-answering/mobile-answering.module.code.ts
+index f2165ace573d4b4325a96fe01dc7556bb386e2eb..2db5e81de4de67e56bb566d13bd5add32306ecde 100644
+--- a/mobile-commands/mobile-answering/mobile-answering.module.code.ts
++++ b/mobile-commands/mobile-answering/mobile-answering.module.code.ts
+@@ -121,6 +121,25 @@ export function appIn(said: Said): Reading<MobileApp> {
+   }
+ }
+ 
++export type AppCalled = {
++  readonly app: MobileApp
++  readonly flags: ReadonlySet<string>
++}
++
++export function appCalledIn(
++  argv: readonly string[],
++  valued: readonly string[],
++  switches: readonly string[]
++): Reading<AppCalled> {
++  const said = wordsIn(argv, valued, switches)
++  if ("refused" in said) return said
++  const loose = flagsAloneIn(said)
++  if (loose.length > 0) return { refused: loose }
++  const app = appIn(said)
++  if ("refused" in app) return app
++  return { app, flags: said.flags }
++}
++
+ export function refusedBy(said: readonly string[]): Answer {
+   return { report: [], refusals: said, code: INPUT }
+ }
+diff --git a/mobile-commands/mobile-answering/mobile-answering.module.ts b/mobile-commands/mobile-answering/mobile-answering.module.ts
+index b3d91096923a2ceecb65a539412b71f0448e8286..a050871342453f5282bce0732d453ca0f7566aba 100644
+--- a/mobile-commands/mobile-answering/mobile-answering.module.ts
++++ b/mobile-commands/mobile-answering/mobile-answering.module.ts
+@@ -39,6 +39,10 @@ export const mobileAnswering = {
+       invariantKind: "departure",
+       statement: "An app slug no page carries is refused rather than defaulted.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The app a call names and the switches a call carries are read in one act.",
++    },
+ 
+     {
+       invariantKind: "departure",
+diff --git a/mobile-commands/mobile-cut-record/mobile-cut-record.command.code.ts b/mobile-commands/mobile-cut-record/mobile-cut-record.command.code.ts
+deleted file mode 100644
+index 63590f88a46a3557953c960e07381a93ff851f0e..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-cut-record/mobile-cut-record.command.code.ts
++++ /dev/null
+@@ -1,101 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import type { CutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
+-import { readLatestCutFingerprint, recordCutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
+-import {
+-  APP_SAID,
+-  answering,
+-  appIn,
+-  countOf,
+-  flagsAloneIn,
+-  type Reading,
+-  refusedBy,
+-  told,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const BUILD_NUMBER = "--build-number"
+-
+-const MAIN_SHA = "--main-sha"
+-
+-const SHELL_SHA = "--shell-sha"
+-
+-const TREE_HASH = "--build-input-tree-hash"
+-
+-const CUT_AT = "--cut-at"
+-
+-const VALUED = [APP_SAID, BUILD_NUMBER, MAIN_SHA, SHELL_SHA, TREE_HASH, CUT_AT]
+-
+-const SHORT_SHA = 12
+-
+-const LEAST_BUILD = 1
+-
+-export type Read = {
+-  readonly appSlug: string
+-  readonly fingerprint: CutFingerprint
+-}
+-
+-export function readIn(argv: readonly string[], nowIso: string): Reading<Read> {
+-  const said = wordsIn(argv, VALUED, [])
+-  if ("refused" in said) return said
+-  const loose = flagsAloneIn(said)
+-  if (loose.length > 0) return { refused: loose }
+-
+-  const counted = countOf(said.named[BUILD_NUMBER], BUILD_NUMBER)
+-  if (counted === null) {
+-    return {
+-      refused: [`\`${BUILD_NUMBER}\` names the build App Store Connect gave, and nothing did`],
+-    }
+-  }
+-  if (typeof counted === "object") return counted
+-  if (counted < LEAST_BUILD) {
+-    return {
+-      refused: [
+-        `\`${BUILD_NUMBER}\` names a build at or above one, and \`${counted}\` is below it`,
+-      ],
+-    }
+-  }
+-
+-  const mainSha = said.named[MAIN_SHA]
+-  if (mainSha === undefined) {
+-    return { refused: [`\`${MAIN_SHA}\` names the commit the cut was taken at, and nothing did`] }
+-  }
+-
+-  const cutAt = said.named[CUT_AT] ?? nowIso
+-  if (Number.isNaN(Date.parse(cutAt))) {
+-    return { refused: [`\`${cutAt}\` is no instant this can read`] }
+-  }
+-
+-  const app = appIn(said)
+-  if ("refused" in app) return app
+-
+-  return {
+-    appSlug: app.slug,
+-    fingerprint: {
+-      buildNumber: counted,
+-      mainSha,
+-      shellSha: said.named[SHELL_SHA] ?? null,
+-      buildInputTreeHash: said.named[TREE_HASH] ?? null,
+-      cutAt,
+-    },
+-  }
+-}
+-
+-async function filed(read: Read): Promise<Answer> {
+-  const last = await readLatestCutFingerprint(read.appSlug)
+-  if (last !== null && last.buildNumber === read.fingerprint.buildNumber) {
+-    return told([
+-      `${read.appSlug}\tbuild ${last.buildNumber} already carries a fingerprint cut at ${last.cutAt}, so nothing was written`,
+-    ])
+-  }
+-  await recordCutFingerprint(read.appSlug, read.fingerprint)
+-  return told([
+-    `filed\t${read.appSlug}\tbuild ${read.fingerprint.buildNumber}\t` +
+-      `main ${read.fingerprint.mainSha.slice(0, SHORT_SHA)}\tcut at ${read.fingerprint.cutAt}`,
+-  ])
+-}
+-
+-export async function mobileCutRecord(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv, new Date().toISOString())
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await filed(read))
+-}
+diff --git a/mobile-commands/mobile-cut-record/mobile-cut-record.command.ts b/mobile-commands/mobile-cut-record/mobile-cut-record.command.ts
+deleted file mode 100644
+index 50c8fe538242f07e1bbfe86216902d1126b9b584..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-cut-record/mobile-cut-record.command.ts
++++ /dev/null
+@@ -1,58 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileCutRecord = {
+-  id: "01a0685d-ceae-7002-b932-ab750606b438",
+-  pageTypeSlug: "command",
+-  slug: "mobile-cut-record",
+-  definition: "the command filing what a TestFlight build already at Apple was cut from",
+-  code: "ts",
+-  changeKindSlug: "change-mechanical",
+-  taking: [
+-    {
+-      said: "--app <slug>",
+-      takes: "the app the build belongs to, the default app where none is said",
+-    },
+-    { said: "--build-number <n>", takes: "the number App Store Connect gave the build" },
+-    { said: "--main-sha <sha>", takes: "the code-repo commit the cut was taken at" },
+-    {
+-      said: "--shell-sha <sha>",
+-      takes: "the shell-repo commit the cut was taken at, where it named one",
+-    },
+-    { said: "--build-input-tree-hash <hash>", takes: "the build-input closure the cut worked out" },
+-    { said: "--cut-at <instant>", takes: "when the cut was taken, this moment where none is said" },
+-  ],
+-  helpNotes: [
+-    "this is the second caller for a filing the cut itself did not land, and the cut prints the call to make.",
+-    "the build number is the one the failed cut printed rather than a guess, since a wrong one files against a build that is not the one at Apple.",
+-    "a fingerprint filed without a build-input tree hash reads as predating the basis, which leaves a cut owed.",
+-    "the moment defaults to now, which is wrong for any filing that is not immediate.",
+-    "a build already carrying a fingerprint is said so and written by nothing.",
+-    "the fingerprint is what `mobile cut-status` compares origin/main against.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A build number is a whole number no lower than 1.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A moment that is no instant is refused rather than read as now.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A build the newest fingerprint already names is filed again by nothing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A shell commit and a build-input hash are each absent rather than empty.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A page written without a commit taking it counts as nothing filed.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reaches Apple or the mac.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/mobile-cut-status/mobile-cut-status.command.code.ts b/mobile-commands/mobile-cut-status/mobile-cut-status.command.code.ts
+deleted file mode 100644
+index 31fb3b8b58f372a7494b118d75c7f780840b9dac..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-cut-status/mobile-cut-status.command.code.ts
++++ /dev/null
+@@ -1,120 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import { buildInputSources } from "@akasha/mobile-cli/build-input-sources"
+-import type { CurrentTreeState } from "@akasha/mobile-cli/cut-fingerprint"
+-import { compareCutStatus, readLatestCutFingerprint } from "@akasha/mobile-cli/cut-fingerprint"
+-import {
+-  computeBuildInputTreeHash,
+-  countCommitsBetween,
+-  fetchOrigin,
+-  resolveRef,
+-  resolveRepoRoot,
+-} from "@akasha/mobile-cli/git-tree-hash"
+-import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
+-import { shellRepoRoot } from "@akasha/mobile-cli/mobile-app"
+-import { codeRoot } from "@akasha/pages/code-root"
+-import {
+-  APP_SAID,
+-  answering,
+-  appIn,
+-  asJson,
+-  flagsAloneIn,
+-  JSON_SAID,
+-  keyedLines,
+-  type Reading,
+-  refusedBy,
+-  told,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const MAIN = "origin/main"
+-
+-const SHORT_SHA = 12
+-
+-const VALUED = [APP_SAID]
+-
+-const SWITCHES = [JSON_SAID]
+-
+-export type Read = {
+-  readonly app: MobileApp
+-  readonly json: boolean
+-}
+-
+-export function readIn(argv: readonly string[]): Reading<Read> {
+-  const said = wordsIn(argv, VALUED, SWITCHES)
+-  if ("refused" in said) return said
+-  const loose = flagsAloneIn(said)
+-  if (loose.length > 0) return { refused: loose }
+-  const app = appIn(said)
+-  if ("refused" in app) return app
+-  return { app, json: said.flags.has(JSON_SAID) }
+-}
+-
+-async function stated(read: Read): Promise<Answer> {
+-  const repoRoot = resolveRepoRoot(codeRoot())
+-  fetchOrigin(repoRoot)
+-  const mainSha = resolveRef(repoRoot, MAIN)
+-
+-  const shellRoot = resolveRepoRoot(shellRepoRoot(read.app))
+-  fetchOrigin(shellRoot)
+-
+-  const current: CurrentTreeState = {
+-    mainSha,
+-    buildInputTreeHash: computeBuildInputTreeHash(
+-      buildInputSources(read.app, { root: repoRoot, ref: MAIN }, { root: shellRoot, ref: MAIN })
+-    ),
+-  }
+-
+-  const last = await readLatestCutFingerprint(read.app.slug)
+-  const status = compareCutStatus(last, current)
+-  const since = last === null ? null : countCommitsBetween(repoRoot, last.mainSha, MAIN)
+-
+-  if (read.json) {
+-    return asJson({
+-      owed: status.owed,
+-      buildInputChanged: status.buildInputChanged,
+-      predatesBasis: status.predatesBasis,
+-      app: read.app.slug,
+-      currentMainSha: mainSha,
+-      lastCut: status.lastCut,
+-      commitsSinceLastCut: since,
+-    })
+-  }
+-
+-  if (last === null) {
+-    return told([
+-      `owed\t${read.app.slug}\tno cut is on record, so the phones carry no build from this era`,
+-    ])
+-  }
+-
+-  if (status.owed) {
+-    return told([
+-      `owed\t${read.app.slug}\torigin/main is ahead of the last shipped cut`,
+-      ...keyedLines([
+-        ["last build", last.buildNumber],
+-        ["last main", last.mainSha.slice(0, SHORT_SHA)],
+-        ["last cut at", last.cutAt],
+-        ["commits since", since],
+-        [
+-          "why",
+-          status.predatesBasis
+-            ? "the last cut predates the corrected build-input basis and carries no comparable hash"
+-            : "the build inputs changed since the last cut",
+-        ],
+-      ]),
+-    ])
+-  }
+-
+-  return told([
+-    `current\t${read.app.slug}\tthe last cut matches origin/main, so no cut is owed`,
+-    ...keyedLines([
+-      ["last build", last.buildNumber],
+-      ["last main", last.mainSha.slice(0, SHORT_SHA)],
+-    ]),
+-  ])
+-}
+-
+-export async function mobileCutStatus(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await stated(read))
+-}
+diff --git a/mobile-commands/mobile-cut-status/mobile-cut-status.command.ts b/mobile-commands/mobile-cut-status/mobile-cut-status.command.ts
+deleted file mode 100644
+index 70363d9f592ad3445fdc4d788bb2edf4bdcb66a4..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-cut-status/mobile-cut-status.command.ts
++++ /dev/null
+@@ -1,44 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileCutStatus = {
+-  id: "01a0685d-ceae-7003-b691-5ac97b0f647a",
+-  pageTypeSlug: "command",
+-  slug: "mobile-cut-status",
+-  definition: "the command saying whether a TestFlight cut is owed or the phones are current",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "--app <slug>", takes: "the app to answer about, the default app where none is said" },
+-    { said: "--json", takes: "give the answer as JSON rather than as tab-separated rows" },
+-  ],
+-  helpNotes: [
+-    "a cut is owed where origin/main is ahead of what the last shipped cut was taken from.",
+-    "the comparison is against origin/main in both the code repo and the shell repo, each fetched first.",
+-    "a cut owed is a fact rather than a failure, so this answers plainly whichever way it falls.",
+-    "a last cut carrying no build-input hash predates the corrected basis, so it cannot certify the phones current.",
+-    "no cut on record at all leaves a cut owed, since the phones carry no build from this era.",
+-    "the count of commits since the last cut is worked out against origin/main rather than held anywhere.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A cut owed is answered as a fact rather than as a refusal.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "Origin is fetched in both repos before anything is compared.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A last cut carrying no build-input hash leaves a cut owed.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "No cut on record leaves a cut owed.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here builds or uploads or files anything.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.code.ts b/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.code.ts
+deleted file mode 100644
+index dcc323e65910cf8b4c7e099ac00cbd980b0dedd3..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.code.ts
++++ /dev/null
+@@ -1,157 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  ascAuthArgs,
+-  buildKeychainUnlock,
+-  buildNativeSync,
+-  buildRunCheckout,
+-  CHECKOUT_ROOT,
+-  readKeychainPassword,
+-  readNativeShellApsEnv,
+-  readNativeShellHealthkitEnv,
+-  SCRIPT_HEADER,
+-} from "@akasha/mobile-cli/foundation"
+-import { MACBOOK } from "@akasha/mobile-cli/macbook-target"
+-import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
+-import { iosAppDir, nativeShellDir } from "@akasha/mobile-cli/mobile-app"
+-import { runSshCapture } from "@akasha/mobile-cli/mobile-ssh"
+-import {
+-  APP_SAID,
+-  answering,
+-  appIn,
+-  flagsAloneIn,
+-  OPERATIONAL,
+-  type Reading,
+-  refusedBy,
+-  told,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const DEVICE = "--device"
+-
+-const CONFIGURATION = "--configuration"
+-
+-const NO_SYNC = "--no-sync"
+-
+-const VALUED = [APP_SAID, DEVICE, CONFIGURATION]
+-
+-const SWITCHES = [NO_SYNC]
+-
+-const CONFIGURATIONS = ["Debug", "Release"]
+-
+-const DEFAULT_CONFIGURATION = "Debug"
+-
+-const MAIN = "origin/main"
+-
+-const OFF = "0"
+-
+-const A_UDID = /^[0-9A-Za-z-]{8,}$/
+-
+-const BUILT = "** BUILD SUCCEEDED **"
+-
+-const INSTALLED = "MOBILE_DEPLOY_DEVICE_OK"
+-
+-export type Read = {
+-  readonly app: MobileApp
+-  readonly configuration: string
+-  readonly device: string
+-  readonly sync: boolean
+-}
+-
+-export function readIn(argv: readonly string[]): Reading<Read> {
+-  const said = wordsIn(argv, VALUED, SWITCHES)
+-  if ("refused" in said) return said
+-  const loose = flagsAloneIn(said)
+-  if (loose.length > 0) return { refused: loose }
+-
+-  const configuration = said.named[CONFIGURATION] ?? DEFAULT_CONFIGURATION
+-  if (!CONFIGURATIONS.includes(configuration)) {
+-    const known = CONFIGURATIONS.map((one) => `\`${one}\``).join(", ")
+-    return {
+-      refused: [`\`${configuration}\` is no configuration this builds — it builds ${known}`],
+-    }
+-  }
+-
+-  const app = appIn(said)
+-  if ("refused" in app) return app
+-
+-  const device = said.named[DEVICE] ?? app.defaultDeviceUdid
+-  if (device === null || device === undefined) {
+-    return {
+-      refused: [
+-        `${app.slug} names no phone of its own, so \`${DEVICE} <udid>\` says which phone to install to`,
+-      ],
+-    }
+-  }
+-  if (!A_UDID.test(device)) {
+-    return { refused: [`\`${device}\` is no hardware udid`] }
+-  }
+-
+-  return { app, configuration, device, sync: !said.flags.has(NO_SYNC) }
+-}
+-
+-export function scriptOf(read: Read, password: string): string {
+-  const appPath = `${iosAppDir(read.app, CHECKOUT_ROOT)}/build/Build/Products/${read.configuration}-iphoneos/App.app`
+-  const xcodebuild = [
+-    "xcodebuild",
+-    "-project App.xcodeproj",
+-    "-scheme App",
+-    `-configuration ${read.configuration}`,
+-    `-destination "platform=iOS,id=${read.device}"`,
+-    "-derivedDataPath build",
+-    ...ascAuthArgs(),
+-    `DEVELOPMENT_TEAM=${read.app.developmentTeam}`,
+-    "CODE_SIGN_STYLE=Automatic",
+-    "build",
+-  ].join(" ")
+-
+-  const sections: string[] = [SCRIPT_HEADER, buildKeychainUnlock(password), buildRunCheckout(MAIN)]
+-  if (read.sync) {
+-    sections.push(
+-      buildNativeSync({
+-        app: read.app,
+-        nativeShellDir: nativeShellDir(read.app, CHECKOUT_ROOT),
+-        nativeShellAps: readNativeShellApsEnv() ?? OFF,
+-        nativeShellHealthkit: readNativeShellHealthkitEnv() ?? OFF,
+-      })
+-    )
+-  }
+-  sections.push(
+-    `cd ${iosAppDir(read.app, CHECKOUT_ROOT)}`,
+-    xcodebuild,
+-    `APP=${appPath}`,
+-    'CODESIGN_OUT=$(codesign -dv "$APP" 2>&1)',
+-    'echo "$CODESIGN_OUT"',
+-    `echo "$CODESIGN_OUT" | grep -q "Identifier=${read.app.bundleId}"`,
+-    `echo "$CODESIGN_OUT" | grep -q "TeamIdentifier=${read.app.developmentTeam}"`,
+-    `xcrun devicectl device install app --device ${read.device} "$APP"`,
+-    `echo "${INSTALLED}"`
+-  )
+-  return sections.join("\n")
+-}
+-
+-async function deployed(read: Read): Promise<Answer> {
+-  const password = readKeychainPassword()
+-  const report = [
+-    `building ${read.app.slug} at ${read.configuration} on ${MACBOOK.host} for phone ${read.device}`,
+-  ]
+-  const out = await runSshCapture(MACBOOK, scriptOf(read, password))
+-  report.push(out.trimEnd())
+-  if (!out.includes(BUILT)) {
+-    return { report, refusals: [`xcodebuild did not report \`${BUILT}\``], code: OPERATIONAL }
+-  }
+-  if (!out.includes(INSTALLED)) {
+-    return {
+-      report,
+-      refusals: [`the install did not report \`${INSTALLED}\`, so nothing reached the phone`],
+-      code: OPERATIONAL,
+-    }
+-  }
+-  report.push(`installed ${read.app.slug} at ${read.configuration} to phone ${read.device}`)
+-  return told(report)
+-}
+-
+-export async function mobileDeployDevice(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await deployed(read))
+-}
+diff --git a/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts b/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts
+deleted file mode 100644
+index 1bce44e8a20ea00cc27ebe5fdee076d119b96b7e..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-deploy-device/mobile-deploy-device.command.ts
++++ /dev/null
+@@ -1,64 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileDeployDevice = {
+-  id: "01a0685d-ceae-7004-9388-865daf75f565",
+-  pageTypeSlug: "command",
+-  slug: "mobile-deploy-device",
+-  definition: "the command building an app on the mac and installing it to a phone plugged into it",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "--app <slug>", takes: "the app to build, the default app where none is said" },
+-    {
+-      said: "--device <udid>",
+-      takes: "the phone to install to, the one the app's page names where none is said",
+-    },
+-    { said: "--configuration <name>", takes: "the Xcode configuration, Debug where none is said" },
+-    {
+-      said: "--no-sync",
+-      takes:
+-        "build without syncing the native seam first, which is faster and reuses what is there",
+-    },
+-  ],
+-  helpNotes: [
+-    "this is the path onto a phone that is plugged into the mac, and TestFlight is the path onto every other phone.",
+-    "an app whose page names no phone is refused rather than installed to whichever phone is there.",
+-    "the mac checks out origin/main before it builds, so the install carries what is on main rather than what is here.",
+-    "the sync runs by default so the build reflects the site and the config as they are.",
+-    "the signed app is checked to carry the app's bundle id and the app's team before it is installed.",
+-    "nothing is said until the build has finished, because a command prints nothing itself.",
+-    "the mac's login keychain is unlocked from `MACBOOK_KEYCHAIN_PASSWORD`, and a call without it is refused.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A phone is named by its hardware udid.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An app whose page names no phone is refused rather than guessed at.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The build runs on the single mac this workstation reaches over ssh.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The commit built is origin/main rather than the commit this checkout is at.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A build is installed only where its signature carries the app's bundle id and team.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A build reporting no success and an install reporting no sentinel each count as nothing installed.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here uploads to App Store Connect.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/mobile-sim-boot/mobile-sim-boot.command.code.ts b/mobile-commands/mobile-sim-boot/mobile-sim-boot.command.code.ts
+deleted file mode 100644
+index f96259de3003bf99920bb2edbadcb3e686e06f05..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-boot/mobile-sim-boot.command.code.ts
++++ /dev/null
+@@ -1,43 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import { ensureAppium, resolveAndBootSim } from "@akasha/mobile-cli/sim-macbook"
+-import {
+-  answering,
+-  flagsAloneIn,
+-  keyedLines,
+-  type Reading,
+-  refusedBy,
+-  told,
+-  UDID_SAID,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const VALUED = [UDID_SAID]
+-
+-export type Read = {
+-  readonly udid: string | undefined
+-}
+-
+-export function readIn(argv: readonly string[]): Reading<Read> {
+-  const said = wordsIn(argv, VALUED, [])
+-  if ("refused" in said) return said
+-  const loose = flagsAloneIn(said)
+-  if (loose.length > 0) return { refused: loose }
+-  return { udid: said.named[UDID_SAID] }
+-}
+-
+-async function booted(read: Read): Promise<Answer> {
+-  const base = await ensureAppium()
+-  const udid = await resolveAndBootSim(read.udid)
+-  return told(
+-    keyedLines([
+-      ["udid", udid],
+-      ["appium", base],
+-    ])
+-  )
+-}
+-
+-export async function mobileSimBoot(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await booted(read))
+-}
+diff --git a/mobile-commands/mobile-sim-boot/mobile-sim-boot.command.ts b/mobile-commands/mobile-sim-boot/mobile-sim-boot.command.ts
+deleted file mode 100644
+index db3b8463abf89e3cbf9b37c5def22e29a18fbd4f..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-boot/mobile-sim-boot.command.ts
++++ /dev/null
+@@ -1,41 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileSimBoot = {
+-  id: "01a0685d-ceae-7006-9cff-358159094688",
+-  pageTypeSlug: "command",
+-  slug: "mobile-sim-boot",
+-  definition: "the command bringing up what the simulator is driven through",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    {
+-      said: "--udid <udid>",
+-      takes: "the simulator to boot, the first booted or available iPhone where none is said",
+-    },
+-  ],
+-  helpNotes: [
+-    "this is the first call of a driving loop, and `mobile sim open-url` is the second.",
+-    "the Appium server on the mac is started only where it is down, so a second call costs nothing.",
+-    "a simulator already booted is left booted rather than restarted.",
+-    "the udid and the Appium base are given back, since the calls after this one are answered against them.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "An Appium server already up is left up.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A simulator already booted is left booted.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A call naming no simulator takes the first booted simulator or the first iPhone there is.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here opens a session or installs a build.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.code.ts b/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.code.ts
+deleted file mode 100644
+index d335e02fc7962a47496bc022a0ac828b1ae7f89d..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.code.ts
++++ /dev/null
+@@ -1,66 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import { inputIn } from "@akasha/command-system/piping"
+-import { executeScript } from "@akasha/mobile-cli/appium-client"
+-import {
+-  answering,
+-  bareWordAs,
+-  driving,
+-  type Reading,
+-  refusedBy,
+-  told,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const SCRIPT = "--script"
+-
+-const PIPED = "-"
+-
+-const VALUED = [SCRIPT]
+-
+-const INDENT = 2
+-
+-export type Read = {
+-  readonly script: string
+-}
+-
+-function pipedScript(): Reading<string> {
+-  const held = inputIn()
+-  if ("tty" in held) {
+-    return {
+-      refused: [`\`${SCRIPT} ${PIPED}\` reads the script from what is piped in, and nothing was`],
+-    }
+-  }
+-  if ("unreadable" in held) return { refused: [held.unreadable] }
+-  const said = new TextDecoder().decode(held.bytes)
+-  if (said.trim() === "") {
+-    return { refused: [`\`${SCRIPT} ${PIPED}\` was piped nothing that could be a script`] }
+-  }
+-  return said
+-}
+-
+-export function readIn(argv: readonly string[]): Reading<Read> {
+-  const words = wordsIn(argv, VALUED, [])
+-  if ("refused" in words) return words
+-  const said = bareWordAs(words, SCRIPT)
+-  if ("refused" in said) return said
+-  const script = said.named[SCRIPT]
+-  if (script === undefined) {
+-    return { refused: [`\`${SCRIPT}\` names the script to run, and nothing did`] }
+-  }
+-  if (script !== PIPED) return { script }
+-  const piped = pipedScript()
+-  if (typeof piped !== "string") return piped
+-  return { script: piped }
+-}
+-
+-async function evaluated(read: Read): Promise<Answer> {
+-  const state = await driving()
+-  const result = await executeScript(state.appiumBase, state.sessionId, read.script)
+-  return told([JSON.stringify(result, null, INDENT)])
+-}
+-
+-export async function mobileSimEval(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await evaluated(read))
+-}
+diff --git a/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.ts b/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.ts
+deleted file mode 100644
+index 23c394ec838c0c225063fcd8e604596472ed1cce..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-eval/mobile-sim-eval.command.ts
++++ /dev/null
+@@ -1,46 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileSimEval = {
+-  id: "01a0685d-ceae-7007-b4f3-e21611c10292",
+-  pageTypeSlug: "command",
+-  slug: "mobile-sim-eval",
+-  definition:
+-    "the command running JavaScript inside the simulator's webview and giving back what it returned",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "<js>", takes: "the script to run, representing `--script`" },
+-    { said: "--script <js>", takes: "the script to run, which returns what is to come back" },
+-    { said: "--script -", takes: "the script to run, read from what is piped in" },
+-  ],
+-  helpNotes: [
+-    "the script has to `return` what is wanted, since a script returning nothing comes back as nothing.",
+-    "a script too long to sit on a call is piped in and named `-`, and the bare word cannot say that.",
+-    "the session already there is what this runs in, so `mobile sim open-url` comes first.",
+-    "the webview is attached to before the script runs, so a session sitting in the native context still answers.",
+-    "what comes back is given as JSON, whatever shape it is.",
+-    "this is how a reading a page only shows on screen is taken, the keyboard-geometry counters among them.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A script runs in the session already there rather than in a session opened here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The webview is attached to before a script runs.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The value a script returns is answered as JSON.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A script that throws is a refusal carrying the fault that script threw.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here opens a session.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.code.ts b/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.code.ts
+deleted file mode 100644
+index 1a00f8d6abdc5e6a3069baac694284c5a976de26..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.code.ts
++++ /dev/null
+@@ -1,103 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import { longPressDrag } from "@akasha/mobile-cli/appium-client"
+-import {
+-  answering,
+-  countOf,
+-  driving,
+-  flagsAloneIn,
+-  type Reading,
+-  refusedBy,
+-  type Said,
+-  told,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const X = "--x"
+-
+-const Y = "--y"
+-
+-const TO_X = "--to-x"
+-
+-const TO_Y = "--to-y"
+-
+-const HOLD_MS = "--hold-ms"
+-
+-const STEPS = "--steps"
+-
+-const STEP_MS = "--step-ms"
+-
+-const VALUED = [X, Y, TO_X, TO_Y, HOLD_MS, STEPS, STEP_MS]
+-
+-const DEFAULT_HOLD_MS = 800
+-
+-const DEFAULT_STEPS = 12
+-
+-const DEFAULT_STEP_MS = 30
+-
+-export type Read = {
+-  readonly x: number
+-  readonly y: number
+-  readonly toX: number
+-  readonly toY: number
+-  readonly holdMs: number
+-  readonly steps: number
+-  readonly stepMs: number
+-}
+-
+-function neededIn(said: Said, flag: string): Reading<number> {
+-  const held = countOf(said.named[flag], flag)
+-  if (held === null) return { refused: [`\`${flag}\` names a coordinate, and nothing did`] }
+-  return held
+-}
+-
+-function orElse(said: Said, flag: string, instead: number): Reading<number> {
+-  const held = countOf(said.named[flag], flag)
+-  return held === null ? instead : held
+-}
+-
+-export function readIn(argv: readonly string[]): Reading<Read> {
+-  const said = wordsIn(argv, VALUED, [])
+-  if ("refused" in said) return said
+-  const loose = flagsAloneIn(said)
+-  if (loose.length > 0) return { refused: loose }
+-
+-  const x = neededIn(said, X)
+-  if (typeof x !== "number") return x
+-  const y = neededIn(said, Y)
+-  if (typeof y !== "number") return y
+-  const toX = neededIn(said, TO_X)
+-  if (typeof toX !== "number") return toX
+-  const toY = neededIn(said, TO_Y)
+-  if (typeof toY !== "number") return toY
+-
+-  const holdMs = orElse(said, HOLD_MS, DEFAULT_HOLD_MS)
+-  if (typeof holdMs !== "number") return holdMs
+-  const steps = orElse(said, STEPS, DEFAULT_STEPS)
+-  if (typeof steps !== "number") return steps
+-  const stepMs = orElse(said, STEP_MS, DEFAULT_STEP_MS)
+-  if (typeof stepMs !== "number") return stepMs
+-
+-  return { x, y, toX, toY, holdMs, steps, stepMs }
+-}
+-
+-async function dragged(read: Read): Promise<Answer> {
+-  const state = await driving()
+-  await longPressDrag(state.appiumBase, state.sessionId, {
+-    x: read.x,
+-    y: read.y,
+-    toX: read.toX,
+-    toY: read.toY,
+-    holdMs: read.holdMs,
+-    steps: read.steps,
+-    stepMs: read.stepMs,
+-  })
+-  return told([
+-    `dragged\t(${read.x}, ${read.y}) to (${read.toX}, ${read.toY})\theld ${read.holdMs}ms`,
+-  ])
+-}
+-
+-export async function mobileSimLongPressDrag(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await dragged(read))
+-}
+diff --git a/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts b/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
+deleted file mode 100644
+index df101e7c130a9b414ad381c2e17da5348c93a189..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-long-press-drag/mobile-sim-long-press-drag.command.ts
++++ /dev/null
+@@ -1,51 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileSimLongPressDrag = {
+-  id: "01a0685d-ceae-7008-b721-3b37d87dca97",
+-  pageTypeSlug: "command",
+-  slug: "mobile-sim-long-press-drag",
+-  definition: "the command holding a finger down on the simulator and dragging it somewhere",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "--x <px>", takes: "how far across the viewport the finger goes down" },
+-    { said: "--y <px>", takes: "how far down the viewport the finger goes down" },
+-    { said: "--to-x <px>", takes: "how far across the viewport the finger ends" },
+-    { said: "--to-y <px>", takes: "how far down the viewport the finger ends" },
+-    {
+-      said: "--hold-ms <ms>",
+-      takes: "how long the finger holds before it drags, 800 where none is said",
+-    },
+-    { said: "--steps <n>", takes: "how many moves the drag is made of, 12 where none is said" },
+-    { said: "--step-ms <ms>", takes: "how long each move takes, 30 where none is said" },
+-  ],
+-  helpNotes: [
+-    "the hold is what opens a long-press menu, and the drag is what reaches an item on it.",
+-    "a drag that ends where it began is still a drag, which is how a menu is opened and left open.",
+-    "the four coordinates are each required, since a gesture missing an end is no gesture.",
+-    "the session already there is what is dragged in, so `mobile sim open-url` comes first.",
+-    "the drag is made of moves rather than of one jump, because one jump reads as a tap somewhere else.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A gesture names where the finger goes down and where that finger ends.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A hold comes before a drag.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A drag is made of moves rather than of one jump.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A drag ending where that drag began is a gesture rather than nothing.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here opens a session.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.code.ts b/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.code.ts
+deleted file mode 100644
+index 257da4fa00c721a3dfdc4479965ffcf89aa3ab1c..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.code.ts
++++ /dev/null
+@@ -1,83 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
+-import { openSession } from "@akasha/mobile-cli/sim-driver"
+-import { ensureAppium, resolveAndBootSim } from "@akasha/mobile-cli/sim-macbook"
+-import { loadSessionState } from "@akasha/mobile-cli/sim-session"
+-import {
+-  APP_SAID,
+-  answering,
+-  appIn,
+-  bareWordAs,
+-  keyedLines,
+-  type Reading,
+-  refusedBy,
+-  told,
+-  UDID_SAID,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const ROUTE = "--route"
+-
+-const KB_DEBUG = "--kb-debug"
+-
+-const AS_REAL_USER = "--as-real-user"
+-
+-const VALUED = [APP_SAID, ROUTE, UDID_SAID]
+-
+-const SWITCHES = [KB_DEBUG, AS_REAL_USER]
+-
+-export type Read = {
+-  readonly app: MobileApp
+-  readonly route: string
+-  readonly kbDebug: boolean
+-  readonly asRealUser: boolean
+-  readonly udid: string | undefined
+-}
+-
+-export function readIn(argv: readonly string[]): Reading<Read> {
+-  const words = wordsIn(argv, VALUED, SWITCHES)
+-  if ("refused" in words) return words
+-  const said = bareWordAs(words, ROUTE)
+-  if ("refused" in said) return said
+-  const route = said.named[ROUTE]
+-  if (route === undefined) {
+-    return { refused: [`\`${ROUTE}\` names the route to open, and nothing did`] }
+-  }
+-  const app = appIn(said)
+-  if ("refused" in app) return app
+-  return {
+-    app,
+-    route,
+-    kbDebug: said.flags.has(KB_DEBUG),
+-    asRealUser: said.flags.has(AS_REAL_USER),
+-    udid: said.named[UDID_SAID],
+-  }
+-}
+-
+-async function opened(read: Read): Promise<Answer> {
+-  const base = await ensureAppium()
+-  const udid = read.udid ?? loadSessionState()?.udid ?? (await resolveAndBootSim())
+-  const state = await openSession({
+-    base,
+-    udid,
+-    bundleId: read.app.bundleId,
+-    route: read.route,
+-    kbDebug: read.kbDebug,
+-    asRealUser: read.asRealUser,
+-  })
+-  return told(
+-    keyedLines([
+-      ["session", state.sessionId],
+-      ["udid", state.udid],
+-      ["context", state.webviewContext],
+-      ["route", state.route],
+-      ["as", read.asRealUser ? "Alan, for reading only" : "the throwaway"],
+-    ])
+-  )
+-}
+-
+-export async function mobileSimOpenUrl(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await opened(read))
+-}
+diff --git a/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts b/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
+deleted file mode 100644
+index bb4722bf7a1ca726c477319efa7a7624df7e829e..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-open-url/mobile-sim-open-url.command.ts
++++ /dev/null
+@@ -1,60 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileSimOpenUrl = {
+-  id: "01a0685d-ceae-7009-892c-425eee9c835b",
+-  pageTypeSlug: "command",
+-  slug: "mobile-sim-open-url",
+-  definition: "the command opening a route in the simulator and leaving a session at it",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "<path>", takes: "the route to open, representing `--route`" },
+-    { said: "--route <path>", takes: "the route to open, such as `/home` or a page's own path" },
+-    { said: "--app <slug>", takes: "the app to open it in, the default app where none is said" },
+-    { said: "--kb-debug", takes: "mount the keyboard-geometry readout over the block editor" },
+-    {
+-      said: "--as-real-user",
+-      takes: "sign in as Alan to read what only he can see, and change nothing through it",
+-    },
+-    {
+-      said: "--udid <udid>",
+-      takes:
+-        "the simulator to open it on, the session's own or the first booted where none is said",
+-    },
+-  ],
+-  helpNotes: [
+-    "this is what leaves a session there, and every driving command after it attaches to that session.",
+-    "a session already there on the same simulator is reused rather than replaced.",
+-    "signing in is done by putting a session in before the route is navigated to, rather than by typing into a form.",
+-    "the identity is a throwaway by default, since anything typed in the simulator is written as whoever is signed in.",
+-    "`--as-real-user` is for reading what Alan's own pages look like and nothing is to be changed through it.",
+-    "the webview is taken hold of again after the navigation, since navigating drops the context.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A session already there on the same simulator is reused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An identity is put in before a route is navigated to.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A call saying nothing about identity signs in as the throwaway.",
+-    },
+-    {
+-      invariantKind: "constraint",
+-      statement: "Nothing is changed through Alan's own identity.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The webview is taken hold of again after a navigation.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A call naming no simulator takes the session's own simulator or the first booted simulator.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.code.ts b/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.code.ts
+deleted file mode 100644
+index fcdf2d8c982c12980e71439ac218ba8f753d5401..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.code.ts
++++ /dev/null
+@@ -1,185 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import {
+-  createSession,
+-  deleteSession,
+-  executeScript,
+-  getContexts,
+-  setContext,
+-  tapCoordinates,
+-} from "@akasha/mobile-cli/appium-client"
+-import { MACBOOK } from "@akasha/mobile-cli/macbook-target"
+-import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
+-import { runSshCapture } from "@akasha/mobile-cli/mobile-ssh"
+-import { buildApnsPayload, buildPushTapScript } from "@akasha/mobile-cli/push-tap-script"
+-import { ensureAppium, resolveAndBootSim } from "@akasha/mobile-cli/sim-macbook"
+-import {
+-  buildBannerTapCapabilities,
+-  loadSessionState,
+-  resolveWdaLocalPort,
+-  WDA_LOCAL_PORT_ENV,
+-} from "@akasha/mobile-cli/sim-session"
+-import { optionalEnv } from "@akasha/utils-narrow/require-env"
+-import { z } from "zod"
+-import {
+-  APP_SAID,
+-  answering,
+-  appIn,
+-  bareWordAs,
+-  OPERATIONAL,
+-  type Reading,
+-  refusedBy,
+-  told,
+-  UDID_SAID,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const ROUTE = "--route"
+-
+-const WARM = "--warm"
+-
+-const TITLE = "--title"
+-
+-const VALUED = [APP_SAID, ROUTE, UDID_SAID, TITLE]
+-
+-const SWITCHES = [WARM]
+-
+-const BANNER_X = 201
+-
+-const BANNER_Y = 90
+-
+-const WEBVIEW = "WEBVIEW_"
+-
+-const TRIES = 20
+-
+-const WAIT_MS = 1_500
+-
+-const A_SECOND = 1_000
+-
+-const INDENT = 1
+-
+-const READ_TRACE = "return JSON.stringify(window.getTapTrace ? window.getTapTrace().entries : null)"
+-
+-const traceEntries = z
+-  .array(
+-    z
+-      .object({
+-        traceId: z.string(),
+-        launch: z.string(),
+-        outcome: z.string(),
+-      })
+-      .passthrough()
+-  )
+-  .nullable()
+-
+-export type Read = {
+-  readonly app: MobileApp
+-  readonly route: string
+-  readonly cold: boolean
+-  readonly udid: string | undefined
+-  readonly title: string | undefined
+-}
+-
+-export function readIn(argv: readonly string[]): Reading<Read> {
+-  const words = wordsIn(argv, VALUED, SWITCHES)
+-  if ("refused" in words) return words
+-  const said = bareWordAs(words, ROUTE)
+-  if ("refused" in said) return said
+-  const route = said.named[ROUTE]
+-  if (route === undefined) {
+-    return { refused: [`\`${ROUTE}\` names the route the push carries, and nothing did`] }
+-  }
+-  const app = appIn(said)
+-  if ("refused" in app) return app
+-  return {
+-    app,
+-    route,
+-    cold: !said.flags.has(WARM),
+-    udid: said.named[UDID_SAID],
+-    title: said.named[TITLE],
+-  }
+-}
+-
+-type Traced =
+-  | { readonly entries: readonly unknown[] }
+-  | { readonly missing: true }
+-  | { readonly quiet: true }
+-
+-async function traceOf(base: string, sessionId: string): Promise<Traced> {
+-  for (let attempt = 0; attempt < TRIES; attempt += 1) {
+-    await new Promise((keep) => setTimeout(keep, WAIT_MS))
+-    const webview = (await getContexts(base, sessionId)).find((one) => one.startsWith(WEBVIEW))
+-    if (webview === undefined) continue
+-    await setContext(base, sessionId, webview)
+-    const raw = await executeScript(base, sessionId, READ_TRACE, [])
+-    if (typeof raw !== "string") continue
+-    const decoded = traceEntries.safeParse(JSON.parse(raw))
+-    if (!decoded.success) continue
+-    if (decoded.data === null) return { missing: true }
+-    if (decoded.data.length > 0) return { entries: decoded.data }
+-  }
+-  return { quiet: true }
+-}
+-
+-async function probed(read: Read): Promise<Answer> {
+-  const base = await ensureAppium()
+-  const udid = read.udid ?? loadSessionState()?.udid ?? (await resolveAndBootSim())
+-  const report = [
+-    `${read.cold ? "cold" : "warm"} push of ${read.route} to ${read.app.bundleId} on ${udid}`,
+-  ]
+-
+-  const pushed = await runSshCapture(
+-    MACBOOK,
+-    buildPushTapScript({
+-      udid,
+-      bundleId: read.app.bundleId,
+-      payload: buildApnsPayload({
+-        bundleId: read.app.bundleId,
+-        route: read.route,
+-        ...(read.title === undefined ? {} : { title: read.title }),
+-      }),
+-      cold: read.cold,
+-    })
+-  )
+-  report.push(pushed.trimEnd())
+-
+-  const sessionId = await createSession(
+-    base,
+-    buildBannerTapCapabilities(
+-      udid,
+-      resolveWdaLocalPort(optionalEnv(WDA_LOCAL_PORT_ENV)),
+-      read.app.bundleId
+-    )
+-  )
+-  try {
+-    await tapCoordinates(base, sessionId, BANNER_X, BANNER_Y)
+-    const traced = await traceOf(base, sessionId)
+-    if ("missing" in traced) {
+-      return {
+-        report,
+-        refusals: [
+-          "the installed bundle exposes no tap trace, so it was built without the instrument — install one from a tree that carries it",
+-        ],
+-        code: OPERATIONAL,
+-      }
+-    }
+-    if ("quiet" in traced) {
+-      return {
+-        report,
+-        refusals: [
+-          `no trace appeared in ${Math.round((TRIES * WAIT_MS) / A_SECOND)}s of the tap, so either no banner was there to tap or the tap did not reach the push handler`,
+-        ],
+-        code: OPERATIONAL,
+-      }
+-    }
+-    report.push(JSON.stringify(traced.entries, null, INDENT))
+-    return told(report)
+-  } finally {
+-    await deleteSession(base, sessionId).catch(() => undefined)
+-  }
+-}
+-
+-export async function mobileSimPushTap(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await probed(read))
+-}
+diff --git a/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts b/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts
+deleted file mode 100644
+index d75567a7294020ae20755a4e840b6506fa6364e0..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-push-tap/mobile-sim-push-tap.command.ts
++++ /dev/null
+@@ -1,60 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileSimPushTap = {
+-  id: "01a0685d-ceae-700a-91a5-034c3b41a91c",
+-  pageTypeSlug: "command",
+-  slug: "mobile-sim-push-tap",
+-  definition:
+-    "the command sending a push to the simulator, tapping its banner and reading what the tap did",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "<path>", takes: "the route the push carries, representing `--route`" },
+-    { said: "--route <path>", takes: "the route the push carries, such as a question's own path" },
+-    { said: "--app <slug>", takes: "the app the push is for, the default app where none is said" },
+-    {
+-      said: "--warm",
+-      takes: "leave the app running, so the tap measures a warm open rather than a cold one",
+-    },
+-    {
+-      said: "--udid <udid>",
+-      takes: "the simulator to push to, the session's own or the first booted where none is said",
+-    },
+-    { said: "--title <text>", takes: "the notification's title, `Tap probe` where none is said" },
+-  ],
+-  helpNotes: [
+-    "this makes what a tap on a notification does measurable on demand rather than only when one arrives.",
+-    "the app is terminated first by default, since a cold open is the one worth measuring.",
+-    "a cold run where the app is still running is refused, because it would have measured a warm open and said cold.",
+-    "the banner is tapped where a banner sits rather than by finding it, since a banner is not in the page.",
+-    "the trace is read out of the running app, so a build carrying no trace instrument is refused rather than answered empty.",
+-    "the trace is waited for rather than read once, since the app has to start before it can write one.",
+-    "the session opened to tap the banner is ended afterwards, whether the tap led anywhere or not.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A cold run terminates the app before the push goes out.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A cold run finding the app still running is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A banner is tapped where a banner sits rather than by being found.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A bundle exposing no trace instrument is refused rather than answered empty.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A trace is waited for rather than read once.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The session opened to tap the banner is ended whatever the tap did.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.code.ts b/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.code.ts
+deleted file mode 100644
+index 9bcfba9ea6f9d6fc787d341ff6120bd57e0e60d1..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.code.ts
++++ /dev/null
+@@ -1,43 +0,0 @@
+-import { writeFileSync } from "node:fs"
+-import { tmpdir } from "node:os"
+-import { join } from "node:path"
+-import type { Answer } from "@akasha/command-system/calling"
+-import { screenshot } from "@akasha/mobile-cli/appium-client"
+-import {
+-  answering,
+-  driving,
+-  flagsAloneIn,
+-  type Reading,
+-  refusedBy,
+-  told,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const OUT = "--out"
+-
+-const VALUED = [OUT]
+-
+-export type Read = {
+-  readonly out: string
+-}
+-
+-export function readIn(argv: readonly string[], nowMs: number): Reading<Read> {
+-  const said = wordsIn(argv, VALUED, [])
+-  if ("refused" in said) return said
+-  const loose = flagsAloneIn(said)
+-  if (loose.length > 0) return { refused: loose }
+-  return { out: said.named[OUT] ?? join(tmpdir(), `mobile-sim-${nowMs}.png`) }
+-}
+-
+-async function pictured(read: Read): Promise<Answer> {
+-  const state = await driving()
+-  const png = await screenshot(state.appiumBase, state.sessionId)
+-  writeFileSync(read.out, png)
+-  return told([read.out])
+-}
+-
+-export async function mobileSimScreenshot(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv, Date.now())
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await pictured(read))
+-}
+diff --git a/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts b/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts
+deleted file mode 100644
+index 8919454d290139cc18edc4c7564d71dca4527a4d..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-screenshot/mobile-sim-screenshot.command.ts
++++ /dev/null
+@@ -1,42 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileSimScreenshot = {
+-  id: "01a0685d-ceae-700b-913b-dbf3c509a388",
+-  pageTypeSlug: "command",
+-  slug: "mobile-sim-screenshot",
+-  definition: "the command taking a picture of the simulator screen and saying where it was put",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    {
+-      said: "--out <path>",
+-      takes:
+-        "where to put the picture, a file named for this moment in the temp folder where none is said",
+-    },
+-  ],
+-  helpNotes: [
+-    "the path is answered so that whatever called this can read the picture itself.",
+-    "the session already there is what is pictured, so `mobile sim open-url` comes first.",
+-    "the picture is of the whole screen rather than of the webview alone.",
+-    "a path said is taken as it is, and a folder that is not there is not made here.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "A picture is taken of the session already there rather than of a session opened here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The path the picture was put at is the answer.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A call naming no path names one for the moment that call was called at.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads the picture back.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/mobile-sim-status/mobile-sim-status.command.code.ts b/mobile-commands/mobile-sim-status/mobile-sim-status.command.code.ts
+deleted file mode 100644
+index 36f100ebf2dd47847db15657b5a75a0b27501210..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-status/mobile-sim-status.command.code.ts
++++ /dev/null
+@@ -1,67 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import { getContexts } from "@akasha/mobile-cli/appium-client"
+-import { appiumIsUp } from "@akasha/mobile-cli/sim-macbook"
+-import { loadSessionState, SIM_SESSION_PATH } from "@akasha/mobile-cli/sim-session"
+-import {
+-  answering,
+-  flagsAloneIn,
+-  keyedLines,
+-  type Reading,
+-  refusedBy,
+-  told,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const A_SECOND = 1_000
+-
+-const NONE = "(none)"
+-
+-export type Read = Record<string, never>
+-
+-export function readIn(argv: readonly string[]): Reading<Read> {
+-  const said = wordsIn(argv, [], [])
+-  if ("refused" in said) return said
+-  const loose = flagsAloneIn(said)
+-  if (loose.length > 0) return { refused: loose }
+-  return {}
+-}
+-
+-async function liveness(up: boolean, base: string, sessionId: string): Promise<boolean> {
+-  if (!up) return false
+-  try {
+-    await getContexts(base, sessionId)
+-    return true
+-  } catch {
+-    return false
+-  }
+-}
+-
+-async function stated(): Promise<Answer> {
+-  const state = loadSessionState()
+-  if (state === null) {
+-    return told([
+-      `none\tno session is there, since ${SIM_SESSION_PATH} is absent`,
+-      "start one with `mobile sim boot` and then `mobile sim open-url`",
+-    ])
+-  }
+-  const up = await appiumIsUp()
+-  const live = await liveness(up, state.appiumBase, state.sessionId)
+-  const age = Math.max(0, Math.round((Date.now() - state.startedAtMs) / A_SECOND))
+-  return told(
+-    keyedLines([
+-      ["session", state.sessionId],
+-      ["udid", state.udid],
+-      ["appium", `${state.appiumBase} (${up ? "up" : "down"})`],
+-      ["webview", state.webviewContext ?? NONE],
+-      ["route", state.route ?? NONE],
+-      ["age", `${age}s`],
+-      ["live", live ? "yes" : "no, so `mobile sim open-url` would start one again"],
+-    ])
+-  )
+-}
+-
+-export async function mobileSimStatus(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await stated())
+-}
+diff --git a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts b/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
+deleted file mode 100644
+index b0608425248ea2c6d1b84a1225fa5b86d029e355..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-status/mobile-sim-status.command.ts
++++ /dev/null
+@@ -1,40 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileSimStatus = {
+-  id: "01a0685d-ceae-700c-9489-e7e3a1062803",
+-  pageTypeSlug: "command",
+-  slug: "mobile-sim-status",
+-  definition: "the command saying what simulator session is there",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [],
+-  helpNotes: [
+-    "no session there is an answer rather than a refusal, and it says which calls would start one.",
+-    "the session is asked whether it is live rather than believed from what is written down.",
+-    "a session written down that Appium no longer holds is said to be dead rather than repaired here.",
+-    "the age is measured from when the session was opened against the moment this was called.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "No session there is answered rather than refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Whether a session is live is asked of Appium rather than read from the session written down.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A session is dead where Appium is down without Appium being asked.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An age is measured against the moment this command was called.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here opens or repairs or ends a session.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.code.ts b/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.code.ts
+deleted file mode 100644
+index 3b2cd4f1f417fa6952a5003c8c359da70187f1df..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.code.ts
++++ /dev/null
+@@ -1,80 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import { clickElement, findElement, tapCoordinates } from "@akasha/mobile-cli/appium-client"
+-import {
+-  answering,
+-  countOf,
+-  driving,
+-  flagsAloneIn,
+-  type Reading,
+-  refusedBy,
+-  told,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const SELECTOR = "--selector"
+-
+-const X = "--x"
+-
+-const Y = "--y"
+-
+-const BY_CSS = "css selector"
+-
+-const VALUED = [SELECTOR, X, Y]
+-
+-export type Read = { readonly selector: string } | { readonly x: number; readonly y: number }
+-
+-export function readIn(argv: readonly string[]): Reading<Read> {
+-  const said = wordsIn(argv, VALUED, [])
+-  if ("refused" in said) return said
+-  const loose = flagsAloneIn(said)
+-  if (loose.length > 0) return { refused: loose }
+-
+-  const selector = said.named[SELECTOR]
+-  const acrossSaid = said.named[X]
+-  const downSaid = said.named[Y]
+-
+-  if (selector !== undefined && (acrossSaid !== undefined || downSaid !== undefined)) {
+-    return {
+-      refused: [
+-        `\`${SELECTOR}\` names an element and \`${X}\`/\`${Y}\` name a point, and one call taps one of them`,
+-      ],
+-    }
+-  }
+-  if (selector !== undefined) return { selector }
+-
+-  if (acrossSaid === undefined || downSaid === undefined) {
+-    return {
+-      refused: [
+-        `this taps what \`${SELECTOR}\` names or the point \`${X}\` and \`${Y}\` name, and nothing named either`,
+-      ],
+-    }
+-  }
+-  const across = countOf(acrossSaid, X)
+-  if (typeof across !== "number") {
+-    return across === null
+-      ? { refused: [`\`${X}\` names a point across, and nothing did`] }
+-      : across
+-  }
+-  const down = countOf(downSaid, Y)
+-  if (typeof down !== "number") {
+-    return down === null ? { refused: [`\`${Y}\` names a point down, and nothing did`] } : down
+-  }
+-  return { x: across, y: down }
+-}
+-
+-async function tapped(read: Read): Promise<Answer> {
+-  const state = await driving()
+-  if ("selector" in read) {
+-    const elementId = await findElement(state.appiumBase, state.sessionId, BY_CSS, read.selector)
+-    await clickElement(state.appiumBase, state.sessionId, elementId)
+-    return told([`tapped\t${read.selector}`])
+-  }
+-  await tapCoordinates(state.appiumBase, state.sessionId, read.x, read.y)
+-  return told([`tapped\t(${read.x}, ${read.y})`])
+-}
+-
+-export async function mobileSimTap(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await tapped(read))
+-}
+diff --git a/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts b/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts
+deleted file mode 100644
+index d0d6a3dfaa78627afe6084ace77fa4eb1539fa85..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-tap/mobile-sim-tap.command.ts
++++ /dev/null
+@@ -1,44 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileSimTap = {
+-  id: "01a0685d-ceae-700d-a860-a518622e0d4a",
+-  pageTypeSlug: "command",
+-  slug: "mobile-sim-tap",
+-  definition: "the command tapping the simulator screen the way a finger would",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "--selector <css>", takes: "the element to tap, found by CSS in the webview" },
+-    { said: "--x <px>", takes: "how far across the viewport to tap, with `--y`" },
+-    { said: "--y <px>", takes: "how far down the viewport to tap, with `--x`" },
+-  ],
+-  helpNotes: [
+-    "the tap is native rather than a click in the page, which is what raises the keyboard.",
+-    "a call names either an element or a point, and naming both is refused rather than chosen between.",
+-    "a point is named by both `--x` and `--y`, and one without the other is no point.",
+-    "the session already there is what is tapped, so `mobile sim open-url` comes first.",
+-    "an element no selector finds is a refusal rather than a tap at nowhere.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A call names either an element or a point.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An element and a point named together are refused rather than chosen between.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A point is an across and a down.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A tap is native rather than a click in the page.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here opens a session.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.code.ts b/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.code.ts
+deleted file mode 100644
+index ce6e791d033efeda0a91c64fe1dc6f1a0b7bb567..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.code.ts
++++ /dev/null
+@@ -1,56 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import { deleteSession } from "@akasha/mobile-cli/appium-client"
+-import { stopAppium } from "@akasha/mobile-cli/sim-macbook"
+-import { clearSessionState, loadSessionState } from "@akasha/mobile-cli/sim-session"
+-import {
+-  answering,
+-  flagsAloneIn,
+-  type Reading,
+-  refusedBy,
+-  told,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const STOP_APPIUM = "--stop-appium"
+-
+-const SWITCHES = [STOP_APPIUM]
+-
+-export type Read = {
+-  readonly stopAppium: boolean
+-}
+-
+-export function readIn(argv: readonly string[]): Reading<Read> {
+-  const said = wordsIn(argv, [], SWITCHES)
+-  if ("refused" in said) return said
+-  const loose = flagsAloneIn(said)
+-  if (loose.length > 0) return { refused: loose }
+-  return { stopAppium: said.flags.has(STOP_APPIUM) }
+-}
+-
+-async function tornDown(read: Read): Promise<Answer> {
+-  const report: string[] = []
+-  const state = loadSessionState()
+-  if (state === null) {
+-    report.push("no session was there, so none was ended")
+-  } else {
+-    try {
+-      await deleteSession(state.appiumBase, state.sessionId)
+-      report.push(`ended session ${state.sessionId}`)
+-    } catch {
+-      report.push(`session ${state.sessionId} was already gone from Appium`)
+-    }
+-  }
+-  clearSessionState()
+-  report.push("cleared what was written down about the session")
+-  if (read.stopAppium) {
+-    await stopAppium()
+-    report.push("stopped the mac's Appium server")
+-  }
+-  return told(report)
+-}
+-
+-export async function mobileSimTeardown(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await tornDown(read))
+-}
+diff --git a/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts b/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts
+deleted file mode 100644
+index dd2a87e275b2a4ad4c5ee165af4fceb88030e43b..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-teardown/mobile-sim-teardown.command.ts
++++ /dev/null
+@@ -1,37 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileSimTeardown = {
+-  id: "01a0685d-ceae-700e-bb0c-c5b113d526fd",
+-  pageTypeSlug: "command",
+-  slug: "mobile-sim-teardown",
+-  definition: "the command ending the simulator session that is there",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "--stop-appium", takes: "stop the mac's Appium server as well as ending the session" },
+-  ],
+-  helpNotes: [
+-    "the Appium server is left running by default, since something driving the simulator by hand may be using it.",
+-    "a session Appium has already dropped is forgotten here rather than treated as a failure.",
+-    "no session there is nothing to end rather than a refusal.",
+-    "the simulator itself is left booted, and `mobile sim boot` finds it again.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "The Appium server is left running unless stopping that server is asked for.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A session Appium no longer holds is forgotten rather than refused over.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The session record is cleared whether or not the session was still there.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here shuts a simulator down.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/mobile-sim-type/mobile-sim-type.command.code.ts b/mobile-commands/mobile-sim-type/mobile-sim-type.command.code.ts
+deleted file mode 100644
+index 96715abb013d2a54353176a5c9d6c16dc85b1b84..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-type/mobile-sim-type.command.code.ts
++++ /dev/null
+@@ -1,82 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import { inputIn } from "@akasha/command-system/piping"
+-import {
+-  activeElement,
+-  clickElement,
+-  elementSendKeys,
+-  findElement,
+-} from "@akasha/mobile-cli/appium-client"
+-import {
+-  answering,
+-  driving,
+-  flagsAloneIn,
+-  type Reading,
+-  refusedBy,
+-  told,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const TEXT = "--text"
+-
+-const SELECTOR = "--selector"
+-
+-const PIPED = "-"
+-
+-const BY_CSS = "css selector"
+-
+-const VALUED = [TEXT, SELECTOR]
+-
+-export type Read = {
+-  readonly text: string
+-  readonly selector: string | undefined
+-}
+-
+-function pipedText(): Reading<string> {
+-  const held = inputIn()
+-  if ("tty" in held) {
+-    return {
+-      refused: [`\`${TEXT} ${PIPED}\` reads the text from what is piped in, and nothing was`],
+-    }
+-  }
+-  if ("unreadable" in held) return { refused: [held.unreadable] }
+-  if (held.bytes.byteLength === 0) {
+-    return { refused: [`\`${TEXT} ${PIPED}\` was piped nothing to type`] }
+-  }
+-  return new TextDecoder().decode(held.bytes)
+-}
+-
+-export function readIn(argv: readonly string[]): Reading<Read> {
+-  const said = wordsIn(argv, VALUED, [])
+-  if ("refused" in said) return said
+-  const loose = flagsAloneIn(said)
+-  if (loose.length > 0) return { refused: loose }
+-  const wanted = said.named[TEXT]
+-  if (wanted === undefined) {
+-    return { refused: [`\`${TEXT}\` names what to type, and nothing did`] }
+-  }
+-  const selector = said.named[SELECTOR]
+-  if (wanted !== PIPED) return { text: wanted, selector }
+-  const piped = pipedText()
+-  if (typeof piped !== "string") return piped
+-  return { text: piped, selector }
+-}
+-
+-async function typed(read: Read): Promise<Answer> {
+-  const state = await driving()
+-  const selector = read.selector
+-  if (selector === undefined) {
+-    const focused = await activeElement(state.appiumBase, state.sessionId)
+-    await elementSendKeys(state.appiumBase, state.sessionId, focused, read.text)
+-    return told([`typed\t${read.text.length} characters into what was focused`])
+-  }
+-  const elementId = await findElement(state.appiumBase, state.sessionId, BY_CSS, selector)
+-  await clickElement(state.appiumBase, state.sessionId, elementId)
+-  await elementSendKeys(state.appiumBase, state.sessionId, elementId, read.text)
+-  return told([`typed\t${read.text.length} characters into ${selector}`])
+-}
+-
+-export async function mobileSimType(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await typed(read))
+-}
+diff --git a/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts b/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts
+deleted file mode 100644
+index e8b8475e8dbaff8fc8161bea27a91ee945c8761b..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-sim-type/mobile-sim-type.command.ts
++++ /dev/null
+@@ -1,43 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileSimType = {
+-  id: "01a0685d-ceae-700f-89c3-712a8a6e7252",
+-  pageTypeSlug: "command",
+-  slug: "mobile-sim-type",
+-  definition: "the command typing text into the simulator's webview",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "--text <text>", takes: "the text to type" },
+-    { said: "--text -", takes: "the text to type, read from what is piped in" },
+-    {
+-      said: "--selector <css>",
+-      takes: "the element to put the cursor in first, the one already focused where none is said",
+-    },
+-  ],
+-  helpNotes: [
+-    "the element is tapped before the text goes in, since typing into an element nothing focused reaches nothing.",
+-    "a call naming no element types into whatever the session already has focused.",
+-    "the session already there is what is typed into, so `mobile sim open-url` comes first.",
+-    "text too long to sit on a call is piped in and named `-`.",
+-    "how many characters went in is the answer, rather than the text itself.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "An element named is tapped before anything is typed into that element.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A call naming no element types into the element already focused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "How many characters went in is the answer rather than the text.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here opens a session.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/mobile-testflight-status/mobile-testflight-status.command.code.ts b/mobile-commands/mobile-testflight-status/mobile-testflight-status.command.code.ts
+deleted file mode 100644
+index bb323b59666f7f579048638576cde23f099daa5e..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-testflight-status/mobile-testflight-status.command.code.ts
++++ /dev/null
+@@ -1,109 +0,0 @@
+-import type { Answer } from "@akasha/command-system/calling"
+-import { createAscJwtSource, fetchLatestBuild, resolveAppId } from "@akasha/mobile-cli/asc-client"
+-import type { MobileApp } from "@akasha/mobile-cli/mobile-app"
+-import {
+-  classifyProcessingState,
+-  describeProcessingFailure,
+-  POLL_INTERVAL_MS,
+-  POLL_TIMEOUT_MS,
+-  pollBuildUntilTerminal,
+-  processingFailureFor,
+-} from "@akasha/mobile-cli/testflight-poll"
+-import {
+-  APP_SAID,
+-  answering,
+-  appIn,
+-  flagsAloneIn,
+-  OPERATIONAL,
+-  type Reading,
+-  refusedBy,
+-  told,
+-  wordsIn,
+-} from "../mobile-answering/mobile-answering.module.code.ts"
+-
+-const WAIT = "--wait"
+-
+-const VALUED = [APP_SAID]
+-
+-const SWITCHES = [WAIT]
+-
+-const A_SECOND = 1_000
+-
+-const A_MINUTE = 60_000
+-
+-export type Read = {
+-  readonly app: MobileApp
+-  readonly wait: boolean
+-}
+-
+-export function readIn(argv: readonly string[]): Reading<Read> {
+-  const said = wordsIn(argv, VALUED, SWITCHES)
+-  if ("refused" in said) return said
+-  const loose = flagsAloneIn(said)
+-  if (loose.length > 0) return { refused: loose }
+-  const app = appIn(said)
+-  if ("refused" in app) return app
+-  return { app, wait: said.flags.has(WAIT) }
+-}
+-
+-async function waited(read: Read, appId: string, jwt: () => Promise<string>): Promise<Answer> {
+-  const report = [
+-    `asking App Store Connect about ${read.app.bundleId} every ${POLL_INTERVAL_MS / A_SECOND}s ` +
+-      `for up to ${POLL_TIMEOUT_MS / A_MINUTE} minutes`,
+-  ]
+-  const outcome = await pollBuildUntilTerminal({
+-    fetchLatest: async () => await fetchLatestBuild(appId, await jwt()),
+-    isTarget: () => true,
+-    sleep: async (ms) => await new Promise((keep) => setTimeout(keep, ms)),
+-    now: () => Date.now(),
+-    intervalMs: POLL_INTERVAL_MS,
+-    timeoutMs: POLL_TIMEOUT_MS,
+-    onTick: (message) => report.push(message),
+-  })
+-  if (outcome.kind === "valid") {
+-    report.push(`valid\tbuild ${outcome.build.version} is ready to install`)
+-    return told(report)
+-  }
+-  if (outcome.kind === "failed") {
+-    return { report, refusals: [describeProcessingFailure(outcome.failure)], code: OPERATIONAL }
+-  }
+-  return {
+-    report,
+-    refusals: [
+-      `no build reached a terminal state in ${POLL_TIMEOUT_MS / A_MINUTE} minutes ` +
+-        `(last state: ${outcome.lastState ?? "no build visible"}), so it is still processing`,
+-    ],
+-    code: OPERATIONAL,
+-  }
+-}
+-
+-async function stated(read: Read): Promise<Answer> {
+-  const jwt = createAscJwtSource()
+-  const appId = await resolveAppId(read.app.bundleId, await jwt())
+-  if (read.wait) return await waited(read, appId, jwt)
+-
+-  const build = await fetchLatestBuild(appId, await jwt())
+-  if (build === null) {
+-    return told([`none\tno ${read.app.bundleId} build has been uploaded to App Store Connect`])
+-  }
+-  const classification = classifyProcessingState(build.processingState)
+-  if (classification === "failed") {
+-    return {
+-      report: [],
+-      refusals: [describeProcessingFailure(processingFailureFor(build))],
+-      code: OPERATIONAL,
+-    }
+-  }
+-  if (classification === "valid") {
+-    return told([`valid\tbuild ${build.version} is ready to install`])
+-  }
+-  return told([
+-    `processing\tbuild ${build.version} is ${build.processingState}, and \`${WAIT}\` holds until it is not`,
+-  ])
+-}
+-
+-export async function mobileTestflightStatus(argv: readonly string[]): Promise<Answer> {
+-  const read = readIn(argv)
+-  if ("refused" in read) return refusedBy(read.refused)
+-  return await answering(async () => await stated(read))
+-}
+diff --git a/mobile-commands/mobile-testflight-status/mobile-testflight-status.command.ts b/mobile-commands/mobile-testflight-status/mobile-testflight-status.command.ts
+deleted file mode 100644
+index c516a8d56be3a4c192e3ebe18b5139910f4c2192..0000000000000000000000000000000000000000
+--- a/mobile-commands/mobile-testflight-status/mobile-testflight-status.command.ts
++++ /dev/null
+@@ -1,51 +0,0 @@
+-import type { Command } from "@akasha/command-system/command"
+-
+-export const mobileTestflightStatus = {
+-  id: "01a0685d-ceae-7005-b619-65388a8bde61",
+-  pageTypeSlug: "command",
+-  slug: "mobile-testflight-status",
+-  definition: "the command saying how far App Store Connect has got with the newest build",
+-  code: "ts",
+-  changeKindSlug: "change-none",
+-  taking: [
+-    { said: "--app <slug>", takes: "the app to ask about, the default app where none is said" },
+-    {
+-      said: "--wait",
+-      takes: "hold until the build is valid or has failed rather than answering once",
+-    },
+-  ],
+-  helpNotes: [
+-    "this asks App Store Connect and nothing else, so it neither reaches the mac nor builds anything.",
+-    "a build still processing is an answer rather than a failure, and a wait is what turns it into one.",
+-    "a wait asks every thirty seconds for up to thirty minutes and gives back what it saw on the way.",
+-    "the token is minted afresh for each read, since a wait outlives any one token.",
+-    "a build that failed or came back invalid is a refusal carrying what App Store Connect said was wrong.",
+-    "a wait that runs out is a refusal, and the build is still processing rather than lost.",
+-  ],
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement: "A build still processing is answered rather than refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A build that failed or is invalid is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A wait running out is refused rather than answered as still processing.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A token is minted for each read rather than held across a wait.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "An app no build has been uploaded for is answered rather than refused.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here builds or uploads or reaches the mac.",
+-    },
+-  ],
+-} as const satisfies Command
+diff --git a/mobile-commands/package.json b/mobile-commands/package.json
+index e161acae05fd662ebb3f1887a6b470d0a93febd5..9ee4e8fbec06847969bdb1cf93f1827ceadd2dd2 100644
+--- a/mobile-commands/package.json
++++ b/mobile-commands/package.json
+@@ -2,7 +2,9 @@
+   "name": "@akasha/mobile-commands",
+   "private": true,
+   "type": "module",
+-  "exports": {},
++  "exports": {
++    "./mobile-answering": "./mobile-answering/mobile-answering.module.code.ts"
++  },
+   "dependencies": {
+     "@akasha/code": "workspace:*",
+     "@akasha/command-system": "workspace:*",
