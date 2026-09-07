@@ -1,0 +1,12 @@
+diff --git a/alan/web/alan-web.router-app.ts b/alan/web/alan-web.router-app.ts
+index 612d2e2a4dd3a22eab757804e92c35d6c5333710..2f90da887ead1b8584f1dc1503c578964a637387 100644
+--- a/alan/web/alan-web.router-app.ts
++++ b/alan/web/alan-web.router-app.ts
+@@ -12,6 +12,7 @@ export const alanWeb = {
+   serverEntry: "tsx",
+   routerConfig: "ts",
+   compileConfig: "json",
++  viteConfig: "ts",
+   partSlugs: [
+     "manifest/alanwalton-web",
+     "stylesheet/alan-web-look",
