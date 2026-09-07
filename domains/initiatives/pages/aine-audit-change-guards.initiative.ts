@@ -62,12 +62,6 @@ export const aineAuditChangeGuards = {
       workingMemory:
         "A check to write, so the boundary holds without an agent reading for it. `akasha refactor retype` composed no change address and built its own file edits, which is the shape the check is to refuse. The address map's own descent gap was found this way: a command doing a mechanical change's work carries that work's defects with no page stating them.",
     },
-    {
-      statement:
-        "Every mechanical change is filed under the sub-type naming what that change acts on.",
-      workingMemory:
-        "Six sub-types: file, folder, code, data, text and manifest. 18 of 26 are sorted, and text holds none. Eight wait on latent debt in files the sort touches rather than owns: a duplicated `RUNS`, a duplicated `NOTHING`, and seven `no-double-cast` assertions. Two command defects were mended on the way: the address map keyed to one page type slug, and the runner working a change's code path out from the page's new path, so a page moving mid-run loaded a file that was not on disk yet.",
-    },
   ],
   constraints: [
     "A guard judges the answer a change gives, so what can be judged without that answer is a check.",

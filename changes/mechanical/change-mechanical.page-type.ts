@@ -66,5 +66,9 @@ export const changeMechanical = {
       invariantKind: "departure",
       statement: "A mechanical change runs no check of its own.",
     },
+    {
+      invariantKind: "departure",
+      statement: "A mechanical change is filed under the sub-type naming the thing acted on.",
+    },
   ],
 } as const satisfies PageType
