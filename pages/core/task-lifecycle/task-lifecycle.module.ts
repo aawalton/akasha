@@ -45,6 +45,10 @@ export const taskLifecycle = {
       statement: "The keys a completion touches are read from the page type marked.",
     },
     {
+      invariantKind: "departure",
+      statement: "A rule that will not parse leaves the due date alone.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here writes.",
     },
