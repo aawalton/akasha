@@ -12,7 +12,7 @@ export const wakeDay20260907 = {
   bodyweight: 177.9,
   wisdomWords: 0,
   intelligenceTopics: 0,
-  inboxTasks: 3,
+  inboxTasks: 2,
   inboxTasksClearedToday: false,
   inboxTemperTasks: 14,
   inboxTemperTasksClearedToday: false,
