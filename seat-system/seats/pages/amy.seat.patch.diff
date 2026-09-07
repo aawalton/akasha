@@ -103,3 +103,27 @@ index e09f8895e07e4de26033c251d8c7bdda8798c6be..2d164933b639b8b89877fff58877fc3e
    pageSize: 40,
    itemPageSize: 12,
    groupPageSize: 6,
+diff --git a/pages/views/pages/temper-tasks-up-next.view.ts b/pages/views/pages/temper-tasks-up-next.view.ts
+index 522c3406d1c5280ef238133e9de96a82ddaa193e..ed3236fe4bf1277c340a469808d8887efd65aecc 100644
+--- a/pages/views/pages/temper-tasks-up-next.view.ts
++++ b/pages/views/pages/temper-tasks-up-next.view.ts
+@@ -8,17 +8,13 @@ export const temperTasksUpNext = {
+   navSlug: "temper-tasks",
+   pageType: "temper-task",
+   viewPlace: 1,
+-  narrows: [
+-    { key: "completed-at", comparison: "empty", values: ["true"] },
+-    { key: "due-date", comparison: "at-or-after", values: ["eso-day-next"] },
+-  ],
++  narrows: [{ key: "due-date", comparison: "at-or-after", values: ["eso-day-next"] }],
+   viewSorts: [
+     { key: "priority", descending: false },
+     { key: "character-sort-order", descending: true },
+     { key: "title", descending: false },
+   ],
+-  visibleProperties: ["priority", "progress", "character", "rrule", "due-date", "due-time"],
+-  hiddenPropertiesOrder: ["page-type-id"],
++  visibleProperties: ["priority", "progress", "character", "rrule-rule", "due-date", "due-time"],
+   pageSize: 12,
+   itemPageSize: 12,
+   groupPageSize: 6,
