@@ -4,7 +4,7 @@ import { dirname, join } from "node:path"
 import type { Found } from "@akasha/code/code-lint"
 import type { Given } from "../../calling/calling.module.code.ts"
 import { scratchWorld } from "../../scratching/scratching.module.code.ts"
-import { lint, many, reportOf, sayingOf } from "./lint.command.code.ts"
+import { lintCheck, many, reportOf, sayingOf } from "./lint-check.command.code.ts"
 
 const UNUSED = "export function held(a: number, b: number): number {\n  return a\n}\n"
 
@@ -38,7 +38,7 @@ function repo(files: Record<string, string>, linter: boolean): string {
 }
 
 function given(root: string): Given {
-  return { root, calledAs: "akasha lint", from: root, writer: null, agentId: null }
+  return { root, calledAs: "akasha lint check", from: root, writer: null, agentId: null }
 }
 
 function finding(path: string, line: number): Found {
@@ -47,7 +47,7 @@ function finding(path: string, line: number): Found {
 
 check("a path outside the repository is refused, and nothing is read", () => {
   const root = repo({ "one.ts": UNUSED }, true)
-  const said = lint(["--file-path", "../one.ts"], given(root))
+  const said = lintCheck(["--file-path", "../one.ts"], given(root))
   expect(said.code).toBe(1)
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain("outside the repository")
@@ -56,31 +56,31 @@ check("a path outside the repository is refused, and nothing is read", () => {
 check("every spelling of a path outside the folder is refused the same", () => {
   const root = repo({ "one.ts": UNUSED }, true)
   for (const one of ["../elsewhere", "/etc", join(root, "tools"), "akasha/../tools"]) {
-    expect(lint(["--file-path", one], given(root)).code).toBe(1)
+    expect(lintCheck(["--file-path", one], given(root)).code).toBe(1)
   }
 })
 
 check("a path that is not there is refused rather than read", () => {
   const root = repo({ "one.ts": UNUSED }, true)
-  const said = lint(["--file-path", "akasha/nowhere.ts"], given(root))
+  const said = lintCheck(["--file-path", "akasha/nowhere.ts"], given(root))
   expect(said.refusals[0]).toContain("nothing that is there")
 })
 
 check("an argument this does not take is refused by name", () => {
   const root = repo({ "one.ts": UNUSED }, true)
-  const said = lint(["--write"], given(root))
+  const said = lintCheck(["--write"], given(root))
   expect(said.code).toBe(1)
   expect(said.refusals[0]).toContain("`--write` is not an argument this takes")
 })
 
 check("a flag naming no path is refused", () => {
   const root = repo({ "one.ts": UNUSED }, true)
-  expect(lint(["--file-path"], given(root)).refusals[0]).toContain("nothing followed it")
+  expect(lintCheck(["--file-path"], given(root)).refusals[0]).toContain("nothing followed it")
 })
 
 check("a tree the linter finds nothing in answers 0 and says so", () => {
   const root = repo({ "one.ts": CLEAN }, true)
-  const said = lint([], given(root))
+  const said = lintCheck([], given(root))
   expect(said.refusals).toEqual([])
   expect(said.code).toBe(0)
   expect(said.report.join("\n")).toContain("found nothing under `.`")
@@ -88,7 +88,7 @@ check("a tree the linter finds nothing in answers 0 and says so", () => {
 
 check("a finding is reported where it is, by the rule that named it, and counted", () => {
   const root = repo({ "one.ts": UNUSED }, true)
-  const said = lint([], given(root))
+  const said = lintCheck([], given(root))
   expect(said.code).toBe(1)
   expect(said.report[0]).toBe(
     "akasha/one.ts:1:33  lint/correctness/noUnusedFunctionParameters  This parameter is unused."
@@ -98,13 +98,13 @@ check("a finding is reported where it is, by the rule that named it, and counted
 
 check("one named file is read alone, and its neighbour is not", () => {
   const root = repo({ "one.ts": CLEAN, "two.ts": UNUSED }, true)
-  expect(lint(["--file-path", "akasha/one.ts"], given(root)).code).toBe(0)
-  expect(lint(["--file-path", "akasha/two.ts"], given(root)).code).toBe(1)
+  expect(lintCheck(["--file-path", "akasha/one.ts"], given(root)).code).toBe(0)
+  expect(lintCheck(["--file-path", "akasha/two.ts"], given(root)).code).toBe(1)
 })
 
 check("a run that could not be made answers 3 and says the tree was not judged", () => {
   const root = repo({ "one.ts": UNUSED }, false)
-  const said = lint([], given(root))
+  const said = lintCheck([], given(root))
   expect(said.code).toBe(3)
   expect(said.report).toEqual([])
   expect(said.refusals[0]).toContain("could not look has verified nothing")

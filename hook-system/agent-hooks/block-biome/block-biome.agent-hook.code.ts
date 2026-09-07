@@ -25,17 +25,17 @@ const REFUSAL = toldOf(HOOK, [
   "leaves the akasha index behind HEAD and takes the gate from every agent working here.",
   "",
   "To see what biome finds:",
-  "  akasha lint                     every file under `akasha/`",
-  "  akasha lint --file-path <path>  one path",
+  "  akasha lint check                     every file under `akasha/`",
+  "  akasha lint check --file-path <path>  one path",
   "",
   "akasha formats every body it lands, so there is no formatting here to run by hand.",
-  "Say `akasha lint --help` for what it takes.",
+  "Say `akasha lint check --help` for what it takes.",
 ])
 
 export const SCOPE: readonly string[] = [
   `${HOOK} refuses every call that runs biome, reading as well as writing.`,
   "  biome, a path ending in biome, and biome run through npx, bunx, pnpx or dlx",
-  "`akasha lint` is what says what biome finds, and akasha formats every body it lands.",
+  "`akasha lint check` is what says what biome finds, and akasha formats every body it lands.",
   "",
   "WHERE THE RULE COMES FROM: biome writes files, and `--write` reaches akasha content with no",
   "gate, no index and no commit. That is the shape that has taken the gate down before: content",

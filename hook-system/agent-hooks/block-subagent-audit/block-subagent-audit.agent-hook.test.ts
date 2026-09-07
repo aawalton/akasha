@@ -69,13 +69,13 @@ test("the refusal says what narrowing costs rather than denying that narrowing h
 test("the refusal names what answers instead", () => {
   const err = answerFor(payload("akasha audit", OWN)).err
   expect(err).toContain("akasha test --file-path")
-  expect(err).toContain("akasha lint --file-path")
+  expect(err).toContain("akasha lint check --file-path")
 })
 
 test("every other akasha command is let through", () => {
   expect(asSubagent("akasha read --file-path akasha/akasha.domain.ts")).toBe(ASIDE)
   expect(asSubagent("akasha test --file-path akasha/hook-system")).toBe(ASIDE)
-  expect(asSubagent("akasha lint --file-path akasha/hook-system")).toBe(ASIDE)
+  expect(asSubagent("akasha lint check --file-path akasha/hook-system")).toBe(ASIDE)
   expect(asSubagent("akasha index refresh")).toBe(ASIDE)
 })
 

@@ -20,9 +20,9 @@ test("a biome call is refused, reading as well as writing", () => {
 
 test("the refusal names the command that answers instead", () => {
   const said = judged("biome check .") ?? ""
-  expect(said).toContain("akasha lint")
-  expect(said).toContain("akasha lint --file-path <path>")
-  expect(said).toContain("Say `akasha lint --help` for what it takes.")
+  expect(said).toContain("akasha lint check")
+  expect(said).toContain("akasha lint check --file-path <path>")
+  expect(said).toContain("Say `akasha lint check --help` for what it takes.")
 })
 
 test("biome reached by a path is the same call", () => {
@@ -121,7 +121,7 @@ test("the hook refuses on stdin with exit 2 and a blocking decision", () => {
   expect(done.code).toBe(2)
   const said: unknown = JSON.parse(done.out)
   expect(said).toMatchObject({ decision: "block" })
-  expect((said as { reason: string }).reason).toContain("akasha lint")
+  expect((said as { reason: string }).reason).toContain("akasha lint check")
 })
 
 test("the hook stands aside on stdin for a call that is not biome", () => {

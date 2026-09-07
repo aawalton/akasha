@@ -1,9 +1,9 @@
 import type { Command } from "../command.page-type.ts"
 
-export const lint = {
+export const lintCheck = {
   id: "01a04edb-5f33-7000-9f46-2381be320a7b",
   pageTypeSlug: "command",
-  slug: "lint",
+  slug: "lint-check",
   definition: "the command saying what the linter finds in this repository and fixing none of it",
   code: "ts",
   test: "ts",

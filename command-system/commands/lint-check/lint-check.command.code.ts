@@ -63,7 +63,7 @@ export function sayingOf(found: readonly Found[]): readonly string[] {
   return [...bounded([...reportOf(found), "", counted].join("\n"))]
 }
 
-export function lint(argv: readonly string[], given: Given): Answer {
+export function lintCheck(argv: readonly string[], given: Given): Answer {
   const meant = meaning(argv)
   if (meant.refusal !== null) return { report: [], refusals: [meant.refusal], code: 1 }
   const aimed = aiming(meant.paths, given)
