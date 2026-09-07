@@ -17,7 +17,7 @@ export const scrollableMenuLang = {
     },
     {
       invariantKind: "constraint",
-      statement: "Each string is versioned through SafeAddVersion at version one.",
+      statement: "Each string is versioned through SafeAddVersion at version 1.",
     },
   ],
 } as const satisfies Module
