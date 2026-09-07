@@ -49,7 +49,7 @@ export const lintClean = {
 
     {
       invariantKind: "departure",
-      statement: "Every finding is answered against the file the finding stands in.",
+      statement: "Every finding is answered against the file the finding is in.",
     },
     {
       invariantKind: "departure",

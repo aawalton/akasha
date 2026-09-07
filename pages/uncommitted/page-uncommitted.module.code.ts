@@ -93,12 +93,12 @@ function valuesIn(full: string, at: string): Value | null {
   const held = loadedFrom(readFileSync(full, "utf8"))
   if (held.failed !== null) {
     throw new Error(
-      `'${at}' stands beside a page and could not be loaded, so what it holds is unknown rather than nothing: ${held.failed}`
+      `'${at}' sits beside a page and could not be loaded, so what it holds is unknown rather than nothing: ${held.failed}`
     )
   }
   if (held.value === null) {
     throw new Error(
-      `'${at}' stands beside a page and declares no values, so what it holds is unknown rather than nothing`
+      `'${at}' sits beside a page and declares no values, so what it holds is unknown rather than nothing`
     )
   }
   return held.value
@@ -136,7 +136,7 @@ export function wholeValue(root: string, page: string, value: Value): Value {
 function besideOr(page: string): string {
   const at = uncommittedAt(page)
   if (at === null) {
-    throw new Error(`'${page}' is no TypeScript file, so nothing stands beside it to hold values`)
+    throw new Error(`'${page}' is no TypeScript file, so nothing sits beside it to hold values`)
   }
   return at
 }

@@ -65,7 +65,7 @@ export const pageUncommitted = {
     },
     {
       invariantKind: "departure",
-      statement: "The lock is taken by one create that fails where the lock already stands.",
+      statement: "The lock is taken by one create that fails where the lock is already there.",
     },
     {
       invariantKind: "departure",
@@ -87,11 +87,11 @@ export const pageUncommitted = {
     {
       invariantKind: "departure",
       statement:
-        "A lock naming no holder that can be read is taken once that lock has stood too long.",
+        "A lock naming no holder that can be read is taken once that lock has been there too long.",
     },
     {
       invariantKind: "departure",
-      statement: "Values merge key by key into the values already standing.",
+      statement: "Values merge key by key into the values already there.",
     },
     {
       invariantKind: "departure",

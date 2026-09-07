@@ -229,7 +229,7 @@ test("a relation through a property the same change declares is filed, as a land
   expect(reading.lines(at)).toEqual(readingIn(landedInto(repo, CHANGES)).lines(at))
 })
 
-test("a page of a page type the same change declares stands in the shadow as it stands in a landing", () => {
+test("a page of a page type the same change declares is in the shadow as it is in a landing", () => {
   const repo = seeded()
   const twin = landedInto(repo, CHANGES)
   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
@@ -245,7 +245,7 @@ test("a body the change carries is the body the shadow reads a page from", () =>
   expect(cast.shadow.pageOf(inside("one/same.domain.ts"))).toBe(null)
 })
 
-test("an audit leaves everything as it stands, so nothing is worked out and no body is asked for", () => {
+test("an audit leaves everything as it is, so nothing is worked out and no body is asked for", () => {
   const repo = seeded()
   let asked = 0
   const held = onDisk(repo)
@@ -260,7 +260,7 @@ test("an audit leaves everything as it stands, so nothing is worked out and no b
   expect(everythingRead(cast.reading)).toEqual(everythingRead(readingIn(repo)))
 })
 
-test("a shadow that could not be worked out is refused, never stood in for by the committed index", () => {
+test("a shadow that could not be worked out is refused rather than answered from the committed index", () => {
   const repo = scratch.rootFor("akasha-broken-")
   schemaFiled(repo, "text-property", "held", [
     {
@@ -339,12 +339,12 @@ function codeOf(cast: Cast): (path: string) => string | null {
   return cast.shadow.codeAt
 }
 
-test("a body the change only carries elsewhere stands at the path it came from", () => {
+test("a body the change only carries elsewhere is at the path it came from", () => {
   const repo = seeded()
   expect(codeOf(shadowFor(carriedOver(repo)))(MOVED_TO)).toBe(CODE_AT)
 })
 
-test("a body the change writes anew stands at no path and is answered as nothing", () => {
+test("a body the change writes anew is at no path and is answered as nothing", () => {
   const repo = seeded()
   expect(codeOf(shadowFor(carriedOver(repo)))(inside("fresh.ts"))).toBe(null)
 })

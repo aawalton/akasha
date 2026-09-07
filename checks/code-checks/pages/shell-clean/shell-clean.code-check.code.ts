@@ -20,7 +20,7 @@ const JUDGED: ReadonlySet<number> = new Set([0, 1])
 
 const COMMENTS = "comments"
 
-const WORLD = "the world this change was stood up in"
+const WORLD = "the world this change was set up in"
 
 const UNLOOKED = "A linter that could not look has verified nothing, so this change is not judged."
 
@@ -95,7 +95,7 @@ export function foundIn(output: string): readonly Found[] | null {
 
 export function lookedOver(root: string, named: readonly string[], at: string | null): Looked {
   if (at === null) {
-    return { found: [], failed: `no \`${TOOL}\` stands on PATH, so nothing was looked at` }
+    return { found: [], failed: `no \`${TOOL}\` is on PATH, so nothing was looked at` }
   }
   const done = ran([at, ...ARGV, ...named], { cwd: root })
   if (!JUDGED.has(done.code)) {

@@ -81,7 +81,7 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement:
-        "A caller standing that index up elsewhere writes the entry files the change files.",
+        "A caller setting that index up elsewhere writes the entry files the change files.",
     },
     {
       invariantKind: "departure",
@@ -94,11 +94,11 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "A body the change only carries elsewhere stands at the path the body came from.",
+      statement: "A body the change only carries elsewhere is at the path the body came from.",
     },
     {
       invariantKind: "departure",
-      statement: "A body the change writes anew stands at no path and is answered as nothing.",
+      statement: "A body the change writes anew is at no path and is answered as nothing.",
     },
     {
       invariantKind: "departure",
@@ -106,7 +106,7 @@ export const shadow = {
     },
     {
       invariantKind: "departure",
-      statement: "An audit leaves everything as everything stands.",
+      statement: "An audit leaves everything as everything is.",
     },
     {
       invariantKind: "departure",
@@ -120,7 +120,7 @@ export const shadow = {
     {
       invariantKind: "departure",
       statement:
-        "A shadow that could not be worked out is refused and never stood in for by the committed index.",
+        "A shadow that could not be worked out is refused rather than answered from the committed index.",
     },
     {
       invariantKind: "departure",

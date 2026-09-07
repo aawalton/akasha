@@ -14,7 +14,7 @@ const SKIPPED = "!"
 
 const ANYWHERE = "**/"
 
-const WORLD = "the world this change was stood up in"
+const WORLD = "the world this change was set up in"
 
 const UNLOOKED = "A linter that could not look has verified nothing, so this change is not judged."
 

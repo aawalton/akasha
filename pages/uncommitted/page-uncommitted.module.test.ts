@@ -98,20 +98,20 @@ test("what is kept beside a page is read back from it", () => {
   expect(uncommittedIn(root, PAGE)).toEqual({ claudeCodeSessionUuid: "one", beats: 3 })
 })
 
-test("what is kept stands beside the page under the reserved tail", () => {
+test("what is kept sits beside the page under the reserved tail", () => {
   const root = rooted()
   keepUncommitted(root, PAGE, { held: "one" })
   expect(existsSync(join(root, BESIDE))).toBe(true)
 })
 
-test("keeping again replaces what stood there", () => {
+test("keeping again replaces what was there", () => {
   const root = rooted()
   keepUncommitted(root, PAGE, { held: "one" })
   keepUncommitted(root, PAGE, { held: "two" })
   expect(uncommittedIn(root, PAGE)).toEqual({ held: "two" })
 })
 
-test("a file that stands but will not load is refused rather than read as empty", () => {
+test("a file that is there but will not load is refused rather than read as empty", () => {
   const root = rooted()
   writtenBeside(root, "export const amySeatUncommitted = (\n")
   expect(() => uncommittedIn(root, PAGE)).toThrow(/could not be loaded/)
@@ -123,20 +123,20 @@ test("a file that loads declaring nothing is refused rather than read as empty",
   expect(() => uncommittedIn(root, PAGE)).toThrow(/declares no values/)
 })
 
-test("merging keeps what stands and sets only the keys it names", () => {
+test("merging keeps what is there and sets only the keys it names", () => {
   const root = rooted()
   keepUncommitted(root, PAGE, { held: "one", beats: 1 })
   mergeUncommitted(root, PAGE, { beats: 2, gateway: "up" })
   expect(uncommittedIn(root, PAGE)).toEqual({ held: "one", beats: 2, gateway: "up" })
 })
 
-test("merging where nothing stands writes what it was handed", () => {
+test("merging where nothing is there writes what it was handed", () => {
   const root = rooted()
   mergeUncommitted(root, PAGE, { beats: 1 })
   expect(uncommittedIn(root, PAGE)).toEqual({ beats: 1 })
 })
 
-test("dropping named keys leaves the rest standing", () => {
+test("dropping named keys leaves the rest as it is", () => {
   const root = rooted()
   keepUncommitted(root, PAGE, { held: "one", beats: 1, gateway: "up" })
   dropUncommitted(root, PAGE, ["beats", "never stood"])
@@ -158,7 +158,7 @@ test("removing takes the file away, and the page carries nothing again", () => {
   expect(uncommittedIn(root, PAGE)).toBeNull()
 })
 
-test("removing what never stood is an answer rather than a failure", () => {
+test("removing what was never there is an answer rather than a failure", () => {
   expect(() => removeUncommitted(rooted(), PAGE)).not.toThrow()
 })
 
@@ -180,7 +180,7 @@ test("a path that is no TypeScript file holds nothing and is refused for keeping
   expect(() => mergeUncommitted(root, "akasha/one/notes.txt", {})).toThrow(/no TypeScript file/)
 })
 
-test("a write takes the lock and leaves none standing after it", () => {
+test("a write takes the lock and leaves none there after it", () => {
   const root = rooted()
   keepUncommitted(root, PAGE, { held: "one" })
   mergeUncommitted(root, PAGE, { beats: 1 })
@@ -226,7 +226,7 @@ test("a lock left by a process that is gone is taken rather than waited on", asy
   expect(uncommittedIn(root, PAGE)).toEqual({ held: "one", beats: 1 })
 })
 
-test("a lock whose pid stands for another process than the one that took it is no lock", () => {
+test("a lock whose pid names another process than the one that took it is no lock", () => {
   const root = rooted()
   locked(root, `${process.pid} 1`)
   const from = Date.now()

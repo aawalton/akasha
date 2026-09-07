@@ -102,7 +102,7 @@ test("a change the linter finds fault in is refused, and the reason names the co
   expect(said[0]?.reason).toContain(UNQUOTED)
 })
 
-test("every finding is answered against the file it stands in, in the order they stand", () => {
+test("every finding is answered against the file it is in, in the order they are in", () => {
   const root = rooted()
   const held = landing(root, { [ONE]: bytesOf(FAULT), [TWO]: bytesOf(FAULT) })
   expect(shellClean(held, shadowAt(root)).map((one) => one.path)).toEqual([ONE, TWO])
@@ -119,7 +119,7 @@ test("findings are put in order rather than left in the one the linter printed t
   ])
 })
 
-test("a change is judged by the body it proposes, not the one standing on disk", () => {
+test("a change is judged by the body it proposes, not the one on disk", () => {
   const root = rooted()
   const at = join(root, ONE)
   mkdirSync(dirname(at), { recursive: true })
@@ -131,7 +131,7 @@ test("a change is judged by the body it proposes, not the one standing on disk",
   expect(shellClean(change(root, [ONE]), shadowAt(root))).toEqual([])
 })
 
-test("a change taking a fault away is not refused, though the fault still stands on disk", () => {
+test("a change taking a fault away is not refused, though the fault is still on disk", () => {
   const root = rooted()
   const at = join(root, ONE)
   mkdirSync(dirname(at), { recursive: true })
@@ -177,7 +177,7 @@ test("a linter that could not run is a refusal, not a clean answer", () => {
   const said = judgedOf(looked, ONE, AWAY)
   expect(said.length).toBe(1)
   expect(said[0]?.path).toBe(ONE)
-  expect(said[0]?.reason).toContain("stands on PATH")
+  expect(said[0]?.reason).toContain("is on PATH")
   expect(said[0]?.reason).toContain("nothing was looked at")
   expect(said[0]?.reason).toContain("verified nothing")
 })
@@ -186,16 +186,16 @@ test("a run that failed is answered against the first file named, outside the wo
   const looked = { found: [], failed: `nothing stands at ${AWAY}/${ONE}, under ${AWAY}` }
   const said = judgedOf(looked, ONE, AWAY)
   expect(said[0]?.reason).toBe(
-    `nothing stands at ${ONE}, under the world this change was stood up in. ` +
+    `nothing stands at ${ONE}, under the world this change was set up in. ` +
       "A linter that could not look has verified nothing, so this change is not judged."
   )
 })
 
-test("a finding is said as its code, where it stands and what the linter said", () => {
+test("a finding is said as its code, where it is and what the linter said", () => {
   expect(reasonOf(marked(ONE, 12, 7))).toBe("SC2086 (info) at line 12, column 7 — Held.")
 })
 
-test("the file a finding stands in is named by the refusal rather than said twice", () => {
+test("the file a finding sits in is named by the refusal rather than said twice", () => {
   const said = judgedOf({ found: [marked(TWO, 1, 1)], failed: null }, ONE, AWAY)
   expect(said[0]?.path).toBe(TWO)
   expect(said[0]?.reason).not.toContain(TWO)

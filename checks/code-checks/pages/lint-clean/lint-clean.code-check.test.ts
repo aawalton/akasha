@@ -129,30 +129,30 @@ test("a change the linter finds nothing in is not refused", () => {
 
 test("a change the linter finds fault in is refused, and the reason names the rule", () => {
   const root = repo({ "akasha/one.ts": UNUSED })
-  const said = linted(change(root, ["akasha/one.ts"]))
-  expect(said.length).toBe(1)
-  expect(said[0]?.path).toBe("akasha/one.ts")
-  expect(said[0]?.reason).toContain(RULE)
-  expect(said[0]?.reason).toContain("This variable spare is unused.")
+  const judged = linted(change(root, ["akasha/one.ts"]))
+  expect(judged.length).toBe(1)
+  expect(judged[0]?.path).toBe("akasha/one.ts")
+  expect(judged[0]?.reason).toContain(RULE)
+  expect(judged[0]?.reason).toContain("This variable spare is unused.")
 })
 
-test("every finding is answered, each against the file it stands in", () => {
+test("every finding is answered, each against the file it is in", () => {
   const root = repo({ "akasha/one.ts": UNUSED, "akasha/two.ts": UNUSED })
-  const said = linted(change(root, ["akasha/one.ts", "akasha/two.ts"]))
-  expect(said.map((one) => one.path)).toEqual(["akasha/one.ts", "akasha/two.ts"])
+  const judged = linted(change(root, ["akasha/one.ts", "akasha/two.ts"]))
+  expect(judged.map((one) => one.path)).toEqual(["akasha/one.ts", "akasha/two.ts"])
 })
 
-test("a change is judged by the body it proposes, not the one standing on disk", () => {
+test("a change is judged by the body it proposes, not the one on disk", () => {
   const root = repo({ "akasha/one.ts": CLEAN })
   const at = proposing(root, "akasha/one.ts", UNUSED)
-  const said = linted(change(root, ["akasha/one.ts"], at))
-  expect(said.length).toBe(1)
-  expect(said[0]?.reason).toContain(RULE)
+  const judged = linted(change(root, ["akasha/one.ts"], at))
+  expect(judged.length).toBe(1)
+  expect(judged[0]?.reason).toContain(RULE)
   expect(readFileSync(join(root, "akasha/one.ts"), "utf8")).toBe(CLEAN)
   expect(linted(change(root, ["akasha/one.ts"]))).toEqual([])
 })
 
-test("a change taking a fault away passes, though the fault still stands on disk", () => {
+test("a change taking a fault away passes, though the fault is still on disk", () => {
   const root = repo({ "akasha/one.ts": UNUSED })
   const at = proposing(root, "akasha/one.ts", CLEAN)
   expect(linted(change(root, ["akasha/one.ts"], at))).toEqual([])
@@ -160,37 +160,37 @@ test("a change taking a fault away passes, though the fault still stands on disk
 
 test("a linter that could not run is a refusal, not a pass", () => {
   const root = repo({ "akasha/one.ts": CLEAN }, false)
-  const said = linted(change(root, ["akasha/one.ts"]))
-  expect(said.length).toBe(1)
-  expect(said[0]?.path).toBe("akasha/one.ts")
-  expect(said[0]?.reason).toContain("nothing was looked at")
-  expect(said[0]?.reason).toContain("verified nothing")
+  const judged = linted(change(root, ["akasha/one.ts"]))
+  expect(judged.length).toBe(1)
+  expect(judged[0]?.path).toBe("akasha/one.ts")
+  expect(judged[0]?.reason).toContain("nothing was looked at")
+  expect(judged[0]?.reason).toContain("verified nothing")
 })
 
 test("the reason names no tree that has been swept", () => {
   const root = repo({ "akasha/one.ts": CLEAN }, false)
-  const said = linted(change(root, ["akasha/one.ts"]))
-  expect(said[0]?.reason).not.toContain("/var/tmp/akasha-world-")
-  expect(said[0]?.reason).toContain("the world this change was stood up in")
+  const judged = linted(change(root, ["akasha/one.ts"]))
+  expect(judged[0]?.reason).not.toContain("/var/tmp/akasha-world-")
+  expect(judged[0]?.reason).toContain("the world this change was set up in")
 })
 
 test("the world's root is taken out of what is reported", () => {
   expect(outsideOf("held at /held/one.ts, under /held", "/held")).toBe(
-    "held at one.ts, under the world this change was stood up in"
+    "held at one.ts, under the world this change was set up in"
   )
 })
 
-test("a finding is said as its rule, where it stands and what the linter said", () => {
+test("a finding is said as its rule, where it is and what the linter said", () => {
   const found = { path: "akasha/one.ts", line: 12, column: 7, rule: RULE, said: "This is unused." }
   expect(reasonOf(found)).toBe(`\`${RULE}\` at line 12, column 7 — This is unused.`)
 })
 
 test("a run that failed is answered against the first file named", () => {
-  const linted = { code: -1, errors: 0, found: [], failed: "nothing stands under /held" }
-  const said = judgedOf(linted, "akasha/one.ts", "/held")
-  expect(said.length).toBe(1)
-  expect(said[0]?.path).toBe("akasha/one.ts")
-  expect(said[0]?.reason).toBe(
-    "nothing stands under the world this change was stood up in. A linter that could not look has verified nothing, so this change is not judged."
+  const looked = { code: -1, errors: 0, found: [], failed: "nothing stands under /held" }
+  const judged = judgedOf(looked, "akasha/one.ts", "/held")
+  expect(judged.length).toBe(1)
+  expect(judged[0]?.path).toBe("akasha/one.ts")
+  expect(judged[0]?.reason).toBe(
+    "nothing stands under the world this change was set up in. A linter that could not look has verified nothing, so this change is not judged."
   )
 })

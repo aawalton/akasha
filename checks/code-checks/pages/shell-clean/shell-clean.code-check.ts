@@ -47,17 +47,16 @@ export const shellClean = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A script standing outside the world is a script the linter cannot follow a source into.",
+      statement: "A script outside the world is a script the linter cannot follow a source into.",
     },
 
     {
       invariantKind: "departure",
-      statement: "Every finding is answered against the file the finding stands in.",
+      statement: "Every finding is answered against the file the finding is in.",
     },
     {
       invariantKind: "departure",
-      statement: "The findings are answered in the order the findings stand in the files.",
+      statement: "The findings are answered in the order the findings are in the files.",
     },
     {
       invariantKind: "constraint",
@@ -98,7 +97,7 @@ export const shellClean = {
     },
     {
       invariantKind: "constraint",
-      statement: "The linter stands on the host rather than among the declared dependencies.",
+      statement: "The linter is on the host rather than among the declared dependencies.",
     },
     {
       invariantKind: "gap",
