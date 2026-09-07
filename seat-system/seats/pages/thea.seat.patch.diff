@@ -1,0 +1,17 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
+index 48430d1f281b586e7a677749d031502026ddff7c..013cd766d076efe15330b8ec3a4841eed57c484d 100644
+--- a/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
++++ b/checks/code-checks/pages/no-rule-in-two-files/no-rule-in-two-files.code-check.ts
+@@ -73,10 +73,6 @@ export const noRuleInTwoFiles = {
+       invariantKind: "absence",
+       statement: "A rule in a file no page claims is left unread.",
+     },
+-    {
+-      invariantKind: "departure",
+-      statement: "The check judges at audit alone.",
+-    },
+     {
+       invariantKind: "departure",
+       statement:
