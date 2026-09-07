@@ -2,7 +2,7 @@ import { dirname } from "node:path"
 import { partedIn } from "@akasha/pages/page-file-name"
 import { typedAs } from "../../../../pages/export-name/page-export-name.module.code.ts"
 import { importingOf } from "../../../../pages/indexes/path-naming/path-naming.module.code.ts"
-import { specifierFor } from "../../../mechanical/pages/change-imports/change-imports.change-mechanical-code.code.ts"
+import { specifierFor } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-code.code.ts"
 import {
   answered,
   gathered,

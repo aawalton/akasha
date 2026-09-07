@@ -13,7 +13,7 @@ import {
   worldAt,
   worldOver,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { runChange as changeImports } from "../../../pages/change-imports/change-imports.change-mechanical-code.code.ts"
+import { runChange as changeImports } from "../../../file-content/rename/change-imports/change-imports.change-mechanical-code.code.ts"
 import { renamePath } from "./rename-path.change-mechanical-file.code.ts"
 
 afterAll(scratch.sweep)

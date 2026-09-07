@@ -29,7 +29,7 @@ import {
   worldAt,
   worldOver,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
-import { removePropertyValue } from "../../../pages/remove-property-value/remove-property-value.change-mechanical-data.code.ts"
+import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.code.ts"
 import { removeFile } from "../remove-file/remove-file.change-mechanical-file.code.ts"
 import { runChange as removeCodeFile } from "../remove-file-code/remove-file-code.change-mechanical-file.code.ts"
 import {

@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { changeFile } from "../../../mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
+import { changeFile } from "../../../mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,

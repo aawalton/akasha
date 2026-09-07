@@ -7,8 +7,8 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts"
-import { runChange as renameLocalVariable } from "../../../mechanical/pages/rename-local-variable/rename-local-variable.change-mechanical-code.code.ts"
+import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-code.code.ts"
+import { runChange as renameLocalVariable } from "../../../mechanical/file-content/rename/rename-local-variable/rename-local-variable.change-mechanical-code.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { renameCodeToken } from "./rename-code-token.change-checked.code.ts"

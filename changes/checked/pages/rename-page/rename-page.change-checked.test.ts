@@ -13,10 +13,10 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { runChange as renamePathChange } from "../../../mechanical/file/rename/rename-path/rename-path.change-mechanical-file.code.ts"
-import { runChange as changeImports } from "../../../mechanical/pages/change-imports/change-imports.change-mechanical-code.code.ts"
-import { runChange as changePageProperty } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical-text.code.ts"
-import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts"
-import { runChange as renamePageSlug } from "../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts"
+import { runChange as changePageProperty } from "../../../mechanical/file-content/change/change-page-property/change-page-property.change-mechanical-text.code.ts"
+import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-code.code.ts"
+import { runChange as renameExport } from "../../../mechanical/file-content/rename/rename-export/rename-export.change-mechanical-code.code.ts"
+import { runChange as renamePageSlug } from "../../../mechanical/file-content/rename/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import {

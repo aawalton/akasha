@@ -15,7 +15,7 @@ import {
   worldAt,
 } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 import { removeFile } from "../../../file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
-import { removePropertyValue } from "../../../pages/remove-property-value/remove-property-value.change-mechanical-data.code.ts"
+import { removePropertyValue } from "../../../file-content/remove/remove-property-value/remove-property-value.change-mechanical-data.code.ts"
 import { removePageType } from "./remove-page-type.change-mechanical-folder.code.ts"
 
 afterAll(scratch.sweep)

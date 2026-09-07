@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { bodyOf, idOf, indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
-import { runChange as changeFile } from "../../../mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
-import { runChange as changeImports } from "../../../mechanical/pages/change-imports/change-imports.change-mechanical-code.code.ts"
+import { runChange as changeFile } from "../../../mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
+import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-code.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   type Reaching,
@@ -69,7 +69,7 @@ const RUNS: Reaching = (world, at, given) => {
   }
   if (at === "change-mechanical-data/rename-page-address") {
     return import(
-      "../../../mechanical/pages/rename-page-address/rename-page-address.change-mechanical-data.code.ts"
+      "../../../mechanical/file-content/rename/rename-page-address/rename-page-address.change-mechanical-data.code.ts"
     ).then((held) => held.runChange(world, given as never))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))

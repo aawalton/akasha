@@ -7,7 +7,7 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { runChange as changeImports } from "../../../mechanical/pages/change-imports/change-imports.change-mechanical-code.code.ts"
+import { runChange as changeImports } from "../../../mechanical/file-content/rename/change-imports/change-imports.change-mechanical-code.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { movePage } from "./move-page.change-checked.code.ts"
