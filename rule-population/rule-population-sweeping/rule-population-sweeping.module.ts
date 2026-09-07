@@ -35,8 +35,11 @@ export const rulePopulationSweeping = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A rule weighing nothing is reported and never refused, the call staying a person's.",
+      statement: "A rule weighing nothing is reported and never refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The call stays a person's.",
     },
     {
       invariantKind: "departure",
@@ -44,12 +47,19 @@ export const rulePopulationSweeping = {
     },
     {
       invariantKind: "absence",
-      statement:
-        "No graph cache is read, so the population is the repository as that repository now is.",
+      statement: "No graph cache is read.",
     },
     {
       invariantKind: "departure",
-      statement: "Asked for a dry run, the body is printed and nothing is filed.",
+      statement: "The population is the repository as that repository now is.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A dry run prints the body.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A dry run files nothing.",
     },
   ],
 } as const satisfies Module
