@@ -129,3 +129,16 @@ index 9ccd686c11384abd4909ac3158d69f87e04c9d87..0786c311bf0e3486bf2d02425b72f65e
 +    },
 +  ],
  } as const satisfies Module
+diff --git a/pages/ui/supabase/mutations/build-predicted-row/build-predicted-row.module.code.ts b/pages/ui/supabase/mutations/build-predicted-row/build-predicted-row.module.code.ts
+index c846f6cd470dc289f43088a3f8c19c3160119256..bfb33ecf712b13dc5c543a8f8e2ab836aa01d0d2 100644
+--- a/pages/ui/supabase/mutations/build-predicted-row/build-predicted-row.module.code.ts
++++ b/pages/ui/supabase/mutations/build-predicted-row/build-predicted-row.module.code.ts
+@@ -24,7 +24,7 @@ export function buildPredictedRow(
+     attributes,
+     unique_key: null,
+     status: null,
+-    completed_at: null,
++    completed_at: stringAt(props, "completedAt"),
+     favorited_at: null,
+     last_viewed_at: null,
+   }
