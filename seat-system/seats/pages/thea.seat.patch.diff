@@ -71,3 +71,18 @@ index ce17ffba94aef04b37b69ed9e2eb7b5ec7c5f8f4..45371dfbec1aa00b424024841ff3b5ca
    return found
  }
  
+diff --git a/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts b/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
+index 2cdd0acae975e942353be3c7b9dd5abfb2b2ac3d..de72b22d1d3fd8d384c656900ae11dca8feedd3f 100644
+--- a/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
++++ b/checks/code-checks/pages/no-re-export/no-re-export.code-check.ts
+@@ -29,6 +29,10 @@ export const noReExport = {
+       invariantKind: "departure",
+       statement: "`export *` is refused whole rather than name by name.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A re-export inside another declaration is refused like a re-export at the top.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A barrel quietly undoes one way into a folder.",
