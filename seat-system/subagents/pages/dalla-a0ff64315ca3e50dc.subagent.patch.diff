@@ -1,0 +1,137 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts b/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts
+index 66e0b5af6f413e7271c64cf8df24e2741b451407..a0b4feb1bb11f3aa2891a52c113c9bc35b3bc8f9 100644
+--- a/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts
++++ b/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts
+@@ -1,9 +1,5 @@
+-import {
+-  answered,
+-  refusing,
+-  writing,
+-} from "../../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
++import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
++import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
+ import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+ 
+ export type Asked = {
+@@ -11,14 +7,13 @@ export type Asked = {
+   readonly body: string
+ }
+ 
+-export function addFile(world: World, given: Asked): Answer {
++export function runChange(world: World, given: Asked): Said {
+   const was = world.textOf(given.at)
+   if (was === given.body) {
+     return refusing(`\`${given.at}\` already holds this body, so this change writes nothing`)
+   }
+-  return answered([writing(given.at, was, given.body)])
+-}
+-
+-export function runChange(world: World, given: Asked): Answer {
+-  return addFile(world, given)
++  if (was === null || was === "") {
++    return stating([{ kind: "add", path: given.at, content: given.body }])
++  }
++  return stating([{ kind: "replace", path: given.at, contentFrom: was, contentTo: given.body }])
+ }
+diff --git a/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts b/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts
+index 129861b9a983409e61a599de9d33c3cc7ff424a8..4b1cfcbb5afa888dd2c6560d57de449e7b5a5e3a 100644
+--- a/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts
++++ b/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.test-fixtures.ts
+@@ -1,10 +1,12 @@
+-import { refusing } from "../../../../modules/change-answer/change-answer.module.code.ts"
++import { refusing, widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
+ import type { Reaching } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { addFile } from "./add-file.change-mechanical-file.code.ts"
++import { runChange } from "./add-file.change-mechanical-file.code.ts"
+ 
+ export const REACHING: Reaching = (world, at, given) => {
+   if (at === "change-mechanical-file/add-file") {
+-    return Promise.resolve(addFile(world, given as { at: string; body: string }))
++    return Promise.resolve(
++      widened(runChange(world, given as { at: string; body: string }), world.textOf)
++    )
+   }
+   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+ }
+diff --git a/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.test.ts b/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.test.ts
+index 05de7ef84c464b9c8efe209bee4c0ae5712973a5..63c111a9b21a6f27a416013914421931832116a1 100644
+--- a/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.test.ts
++++ b/changes/mechanical/file/add/add-file/add-file.change-mechanical-file.test.ts
+@@ -1,26 +1,47 @@
+ import { expect, test } from "bun:test"
++import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+ import { worldOf } from "../../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+-import { addFile } from "./add-file.change-mechanical-file.code.ts"
++import { type Asked, runChange } from "./add-file.change-mechanical-file.code.ts"
+ 
+ const AT = "akasha/one.held.ts"
+ 
++function ranOn(held: Readonly<Record<string, string>>, given: Asked): Answer {
++  const world = worldOf(held)
++  return widened(runChange(world, given), world.textOf)
++}
++
+ test("a path holding no body is answered as one edit adding that body", () => {
+-  const said = addFile(worldOf({}), { at: AT, body: "alpha\n" })
++  const said = ranOn({}, { at: AT, body: "alpha\n" })
+ 
+   expect(said.refused).toBeNull()
+   expect(said.edits).toEqual([{ path: AT, was: null, body: "alpha\n" }])
+ })
+ 
+ test("a path holding another body is answered as one edit writing over that body", () => {
+-  const said = addFile(worldOf({ [AT]: "alpha\n" }), { at: AT, body: "beta\n" })
++  const said = ranOn({ [AT]: "alpha\n" }, { at: AT, body: "beta\n" })
+ 
+   expect(said.refused).toBeNull()
+   expect(said.edits).toEqual([{ path: AT, was: "alpha\n", body: "beta\n" }])
+ })
+ 
+ test("a path already holding the body given is refused and answers no edit", () => {
+-  const said = addFile(worldOf({ [AT]: "alpha\n" }), { at: AT, body: "alpha\n" })
++  const said = ranOn({ [AT]: "alpha\n" }, { at: AT, body: "alpha\n" })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused ?? "").toMatch(/already holds this body/)
+ })
++
++test("a path holding no body states an add holding the path and the content", () => {
++  const said = runChange(worldOf({}), { at: AT, body: "alpha\n" })
++
++  expect(said.edits).toEqual([{ kind: "add", path: AT, content: "alpha\n" }])
++})
++
++test("a path holding another body states a replace holding the whole body each side", () => {
++  const said = runChange(worldOf({ [AT]: "alpha\n" }), { at: AT, body: "beta\n" })
++
++  expect(said.edits).toEqual([
++    { kind: "replace", path: AT, contentFrom: "alpha\n", contentTo: "beta\n" },
++  ])
++})
+diff --git a/changes/modules/change-shadow/change-shadow.module.test.ts b/changes/modules/change-shadow/change-shadow.module.test.ts
+index 64f3228846a29cc50742c720bda5c2a6e1eccb64..4000b46cc7fa80fd672c57c8049e3271df3efe64 100644
+--- a/changes/modules/change-shadow/change-shadow.module.test.ts
++++ b/changes/modules/change-shadow/change-shadow.module.test.ts
+@@ -6,7 +6,7 @@ import {
+   scratch,
+   textIn,
+ } from "@akasha/indexes/indexing/testing"
+-import { addFile } from "../../mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
++import { runChange as addFile } from "../../mechanical/file/add/add-file/add-file.change-mechanical-file.code.ts"
+ import { runChange as removeFile } from "../../mechanical/file/remove/remove-file/remove-file.change-mechanical-file.code.ts"
+ import {
+   answered,
+@@ -47,7 +47,9 @@ const BYTES = new TextEncoder()
+ 
+ const RUNS: Reaching = (world, at, given) => {
+   if (at === ADD_FILE) {
+-    return Promise.resolve(addFile(world, given as { at: string; body: string }))
++    return Promise.resolve(
++      widened(addFile(world, given as { at: string; body: string }), world.textOf)
++    )
+   }
+   if (at === REMOVE_FILE) {
+     return Promise.resolve(widened(removeFile(world, given as { at: string }), world.textOf))
