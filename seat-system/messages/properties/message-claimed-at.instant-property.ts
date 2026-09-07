@@ -15,11 +15,19 @@ export const messageClaimedAt = {
     },
     {
       invariantKind: "departure",
-      statement: "A claim is let go rather than taken back, and the message waits again.",
+      statement: "A claim is let go rather than taken back.",
     },
     {
       invariantKind: "departure",
-      statement: "A claim sits outside the commit, so a claim goes when its message goes.",
+      statement: "A message whose claim is let go waits again.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A claim sits outside the commit.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A claim goes when its message goes.",
     },
   ],
 } as const satisfies InstantProperty
