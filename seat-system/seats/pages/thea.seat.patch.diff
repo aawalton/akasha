@@ -1,0 +1,14 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/utils-narrow/sorted-once/sorted-once.module.ts b/utils-narrow/sorted-once/sorted-once.module.ts
+index cb6d141ab4e33e7456d4465e7017fcfaf6f0026e..8ad3f5d68feb3b25554fa5a3cc57a29c0c1e6f34 100644
+--- a/utils-narrow/sorted-once/sorted-once.module.ts
++++ b/utils-narrow/sorted-once/sorted-once.module.ts
+@@ -6,6 +6,7 @@ export const sortedOnce = {
+   slug: "sorted-once",
+   definition: "values given back in sorted order, each one once",
+   code: "ts",
++  invented: "x",
+   test: "ts",
+   invariants: [
+     {
