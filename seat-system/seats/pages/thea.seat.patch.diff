@@ -1,0 +1,131 @@
+writerOwesReading: false
+diff --git a/alan/fitness/equipment-items/equipment-item.page-type.ts b/alan/fitness/equipment-items/equipment-item.page-type.ts
+index 58bfe8d8d8997ed3a85850709d3e8993cf450678..6d67988eeb63bed3ff20da71b017db23e03a5467 100644
+--- a/alan/fitness/equipment-items/equipment-item.page-type.ts
++++ b/alan/fitness/equipment-items/equipment-item.page-type.ts
+@@ -27,16 +27,10 @@ export const equipmentItem = {
+   extendsSlug: ["page-type/page"],
+   partSlugs: [
+     "boolean-property/equipment-available",
+-    "boolean-property/equipment-item-available",
+-    "number-property/equipment-item-sort-order",
+     "number-property/equipment-loads",
+     "number-property/equipment-sort-order",
+     "select-property/equipment-category",
+     "select-property/equipment-configuration",
+-    "select-property/equipment-item-category",
+-    "select-property/equipment-item-configuration",
+-    "text-property/equipment-item-loads",
+-    "text-property/equipment-item-notes",
+     "text-property/equipment-notes",
+   ],
+   properties: [
+diff --git a/alan/fitness/equipment-items/properties/equipment-item-available.boolean-property.ts b/alan/fitness/equipment-items/properties/equipment-item-available.boolean-property.ts
+deleted file mode 100644
+index 398dc86bf7f003b38c1e51d8a03bf51bbba61843..0000000000000000000000000000000000000000
+--- a/alan/fitness/equipment-items/properties/equipment-item-available.boolean-property.ts
++++ /dev/null
+@@ -1,11 +0,0 @@
+-import type { BooleanProperty } from "@akasha/pages/boolean-property"
+-
+-export type EquipmentItemAvailable = boolean
+-
+-export const equipmentItemAvailable = {
+-  id: "01a0685c-7d81-7799-94db-5da2d37a3fce",
+-  pageTypeSlug: "boolean-property",
+-  slug: "equipment-item-available",
+-  propertySlug: "equipment-item-available",
+-  definition: "whether Alan owns the piece rather than only wanting it",
+-} as const satisfies BooleanProperty
+diff --git a/alan/fitness/equipment-items/properties/equipment-item-category.select-property.ts b/alan/fitness/equipment-items/properties/equipment-item-category.select-property.ts
+deleted file mode 100644
+index 590f63fd5c9c72d82ef4f13ba6173d7dd46f1850..0000000000000000000000000000000000000000
+--- a/alan/fitness/equipment-items/properties/equipment-item-category.select-property.ts
++++ /dev/null
+@@ -1,12 +0,0 @@
+-import type { SelectProperty } from "@akasha/pages/select-property"
+-
+-export const equipmentItemCategory = {
+-  id: "01a0685c-7d81-73c0-aa9c-d50017943623",
+-  pageTypeSlug: "select-property",
+-  slug: "equipment-item-category",
+-  propertySlug: "equipment-item-category",
+-  definition: "the sort of kit the piece is",
+-  values: ["dumbbells", "kettlebells", "bench", "band", "vest", "cardio-machine", "other"],
+-} as const satisfies SelectProperty
+-
+-export type EquipmentItemCategory = (typeof equipmentItemCategory.values)[number]
+diff --git a/alan/fitness/equipment-items/properties/equipment-item-configuration.select-property.ts b/alan/fitness/equipment-items/properties/equipment-item-configuration.select-property.ts
+deleted file mode 100644
+index c5e1687bed58d9123b216b8027c216c37638cb36..0000000000000000000000000000000000000000
+--- a/alan/fitness/equipment-items/properties/equipment-item-configuration.select-property.ts
++++ /dev/null
+@@ -1,12 +0,0 @@
+-import type { SelectProperty } from "@akasha/pages/select-property"
+-
+-export const equipmentItemConfiguration = {
+-  id: "01a0685c-7d81-7e9d-9c69-e6d3ec797c49",
+-  pageTypeSlug: "select-property",
+-  slug: "equipment-item-configuration",
+-  propertySlug: "equipment-item-configuration",
+-  definition: "how many of the piece there are and whether the load on it moves",
+-  values: ["pair", "single", "adjustable", "n-a"],
+-} as const satisfies SelectProperty
+-
+-export type EquipmentItemConfiguration = (typeof equipmentItemConfiguration.values)[number]
+diff --git a/alan/fitness/equipment-items/properties/equipment-item-loads.text-property.ts b/alan/fitness/equipment-items/properties/equipment-item-loads.text-property.ts
+deleted file mode 100644
+index 96e121958a92dd139348df99fb9b618706817c1a..0000000000000000000000000000000000000000
+--- a/alan/fitness/equipment-items/properties/equipment-item-loads.text-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type EquipmentItemLoads = string
+-
+-export const equipmentItemLoads = {
+-  id: "01a0685c-7d81-7581-84fb-01633f45cea9",
+-  pageTypeSlug: "text-property",
+-  slug: "equipment-item-loads",
+-  propertySlug: "equipment-item-loads",
+-  definition: "the weights in pounds the piece can be set to, said in order and parted by commas",
+-  maxLength: 200,
+-  nameFormatSlug: null,
+-} as const satisfies TextProperty
+diff --git a/alan/fitness/equipment-items/properties/equipment-item-notes.text-property.ts b/alan/fitness/equipment-items/properties/equipment-item-notes.text-property.ts
+deleted file mode 100644
+index e0bfe7e71f35d759e842f70044d97689e4a6706a..0000000000000000000000000000000000000000
+--- a/alan/fitness/equipment-items/properties/equipment-item-notes.text-property.ts
++++ /dev/null
+@@ -1,13 +0,0 @@
+-import type { TextProperty } from "@akasha/pages/text-property"
+-
+-export type EquipmentItemNotes = string
+-
+-export const equipmentItemNotes = {
+-  id: "01a06865-c57f-71d7-a465-f4e483cb2ca4",
+-  pageTypeSlug: "text-property",
+-  slug: "equipment-item-notes",
+-  propertySlug: "equipment-item-notes",
+-  definition: "what is worth knowing about the piece that its other fields do not say",
+-  maxLength: 1000,
+-  nameFormatSlug: null,
+-} as const satisfies TextProperty
+diff --git a/alan/fitness/equipment-items/properties/equipment-item-sort-order.number-property.ts b/alan/fitness/equipment-items/properties/equipment-item-sort-order.number-property.ts
+deleted file mode 100644
+index e73194f93c07c5020999afea55ad058a8e52603a..0000000000000000000000000000000000000000
+--- a/alan/fitness/equipment-items/properties/equipment-item-sort-order.number-property.ts
++++ /dev/null
+@@ -1,12 +0,0 @@
+-import type { NumberProperty } from "@akasha/pages/number-property"
+-
+-export type EquipmentItemSortOrder = number
+-
+-export const equipmentItemSortOrder = {
+-  id: "01a0685c-7d81-78cb-87ee-fb37993f8538",
+-  pageTypeSlug: "number-property",
+-  slug: "equipment-item-sort-order",
+-  propertySlug: "equipment-item-sort-order",
+-  definition: "where the piece sits when the kit is read as a list",
+-  max: null,
+-} as const satisfies NumberProperty
