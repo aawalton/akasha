@@ -180,6 +180,7 @@
     "alan/fitness/exercise-access": {
       "name": "@akasha/exercise-access",
       "dependencies": {
+        "@akasha/code": "workspace:*",
         "@akasha/command-system": "workspace:*",
         "@akasha/day": "workspace:*",
         "@akasha/indexes": "workspace:*",

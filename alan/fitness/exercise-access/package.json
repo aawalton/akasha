@@ -30,6 +30,7 @@
     "./training-digest": "./training-digest/training-digest.module.code.ts"
   },
   "dependencies": {
+    "@akasha/code": "workspace:*",
     "@akasha/command-system": "workspace:*",
     "@akasha/day": "workspace:*",
     "@akasha/indexes": "workspace:*",
