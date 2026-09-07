@@ -8,7 +8,7 @@ import { indexImport } from "../import/index-import.index.ts"
 import { indexPath } from "../path/index-path.index.ts"
 import { indexRelation } from "../relation/index-relation.index.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
-import type { Reading } from "../shape/index-shape.module.code.ts"
+import type { Reading, Schema } from "../shape/index-shape.module.code.ts"
 import {
   beneath,
   INDEX_AT,
@@ -21,15 +21,6 @@ import { indexValue } from "../value/index-value.index.ts"
 export type Listed = {
   readonly path: string
   readonly id: string
-}
-
-export type Schema = {
-  readonly pageTypeSlug: string
-  readonly targetPageTypeSlug: string | null
-  readonly unique: string | null
-  readonly slug: string | null
-  readonly propertySlug: string | null
-  readonly fileName: string | null
 }
 
 const IDENTITY = indexIdentity.name
@@ -177,13 +168,15 @@ function schemaIn(reading: Reading, at: string): readonly Schema[] {
   for (const line of reading.lines(at)) {
     const said = JSON.parse(line) as Record<string, unknown>
     const pageTypeSlug = stringAt(said, "pageTypeSlug")
-    if (pageTypeSlug === null) continue
+    const slug = stringAt(said, "slug")
+    const propertySlug = stringAt(said, "propertySlug")
+    if (pageTypeSlug === null || slug === null || propertySlug === null) continue
     found.push({
       pageTypeSlug,
       targetPageTypeSlug: stringAt(said, "targetPageTypeSlug"),
       unique: stringAt(said, "unique"),
-      slug: stringAt(said, "slug"),
-      propertySlug: stringAt(said, "propertySlug"),
+      slug,
+      propertySlug,
       fileName: stringAt(said, "fileName"),
     })
   }

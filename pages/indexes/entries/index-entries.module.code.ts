@@ -12,7 +12,7 @@ import {
 import { indexIdentity } from "../identity/index-identity.index.ts"
 import { answered, readingIn } from "../reading/index-reading.module.code.ts"
 import { indexSchema } from "../schema/index-schema.index.ts"
-import type { Reading } from "../shape/index-shape.module.code.ts"
+import type { Reading, Schema } from "../shape/index-shape.module.code.ts"
 
 const ENDING = ".jsonl"
 
@@ -23,15 +23,6 @@ const SCHEMA = indexSchema.name
 export type Entry = {
   readonly at: string
   readonly line: string
-}
-
-export type Schema = {
-  readonly pageTypeSlug: string
-  readonly targetPageTypeSlug: string | null
-  readonly unique: string | null
-  readonly slug: string
-  readonly propertySlug: string
-  readonly fileName: string | null
 }
 
 export function pageTypesIn(given: string | Reading): ReadonlySet<string> {

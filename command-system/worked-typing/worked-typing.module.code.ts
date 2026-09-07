@@ -1,10 +1,10 @@
-import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { formattedBody } from "@akasha/code/code-format"
-import type { Schema } from "@akasha/indexes"
+import type { Schema } from "@akasha/indexes/shape"
 import { exportedAs, typedAs } from "@akasha/pages/page-export-name"
 import type { Shadow } from "@akasha/pages/shadow"
 import { shadowFor } from "@akasha/pages/shadow"
+import { textOnDisk } from "@akasha/utils-fs/text-on-disk"
 import type { FileEdit } from "../landing/landing.module.code.ts"
 import { baseOf, changeOf } from "../landing/landing.module.code.ts"
 
@@ -49,25 +49,10 @@ function specifierFor(from: string, to: string): string {
   return to.startsWith(folder) ? `./${to.slice(folder.length)}` : `./${to}`
 }
 
-// A stored property is re-typed on the worked page only where that property's own file
-// declares the worked form, which is what makes `Omit` necessary. It is read per property
-// rather than per page type, so a second entry shape carrying rows needs no code here.
 function declaresWorked(text: string, typeName: string): boolean {
   return new RegExp(`export type ${WORKED}${typeName}\\b`).test(text)
 }
 
-function onDisk(at: string): string | null {
-  try {
-    return readFileSync(at, "utf8")
-  } catch {
-    return null
-  }
-}
-
-// `codeAt` answers the path on disk holding the body this change leaves at a path rather than
-// that body, so a body is read by reading the path it answers. A path the change carries away
-// to another path stands at the path it came from, and one the change writes anew stands at no
-// path and is answered as nothing.
 export function textIn(
   root: string,
   codeAt: (path: string) => string | null,
@@ -79,12 +64,9 @@ export function textIn(
   }
 }
 
-// The schema is filed under `<page type>/<slug>`, and a page type names a property either way,
-// so a bare slug is taken only where one page property carries it.
 function narrowedIn(schema: ReadonlyMap<string, Schema>): ReadonlyMap<string, Schema | null> {
   const found = new Map<string, Schema | null>()
   for (const filed of schema.values()) {
-    if (filed.slug === null) continue
     found.set(filed.slug, found.has(filed.slug) ? null : filed)
   }
   return found
@@ -106,7 +88,6 @@ export function keysFor(
     const filed = schema.get(named) ?? bareIn.get(named) ?? undefined
     if (filed === undefined || filed === null) continue
     const { pageTypeSlug, slug, propertySlug } = filed
-    if (slug === null || propertySlug === null) continue
     const listed = shadow.index.listedAt(pageTypeSlug, slug)[0]
     if (listed === undefined) continue
     const typeName = typedAs(slug)
@@ -122,8 +103,6 @@ export function keysFor(
   return found
 }
 
-// The keys come out in the order the page type declares its properties, which is the order
-// the page itself states rather than one this chooses.
 export function bodyFor(pageTypePath: string, slug: string, keys: readonly Key[]): string {
   const at = workedAtOf(pageTypePath)
   const stored = typedAs(slug)
@@ -146,14 +125,12 @@ export function bodyFor(pageTypePath: string, slug: string, keys: readonly Key[]
 export function workedOver(root: string, shadow: Shadow): Worked {
   const edits: FileEdit[] = []
   const said: string[] = []
-  const textAt = textIn(root, shadow.codeAt, onDisk)
+  const textAt = textIn(root, shadow.codeAt, textOnDisk)
   for (const listed of shadow.index.everyOfType(PAGE_TYPE)) {
     const value = shadow.pageOf(listed.path)
     if (value === null) continue
     const slug = value[SLUG]
     if (typeof slug !== "string") continue
-    // A page type opts in by stating the property that holds the file, so a type carrying
-    // calculations and claiming no file is left alone rather than given an unclaimed one.
     if (value[WORKED_AT] !== HOLDS) continue
     const keys = keysFor(shadow, value as Record<string, unknown>, textAt)
     if (keys.length === 0) continue

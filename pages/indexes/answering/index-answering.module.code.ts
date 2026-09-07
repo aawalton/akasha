@@ -12,7 +12,6 @@ import {
 import type { Value } from "@akasha/pages/page-value"
 import {
   entryShapesAt,
-  type Schema as Filed,
   type FilePropertiesBy,
   fileKeysAt,
   filePropertiesAt,
@@ -51,7 +50,7 @@ import {
   typeSlugById,
   typeSlugOf,
 } from "../reading/index-reading.module.code.ts"
-import type { Reading } from "../shape/index-shape.module.code.ts"
+import type { Schema as Filed, Reading } from "../shape/index-shape.module.code.ts"
 
 export type PageOf = (path: string) => Value | null
 

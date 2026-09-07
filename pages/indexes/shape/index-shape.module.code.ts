@@ -13,3 +13,12 @@ export type Filing = {
   readonly at: string
   readonly lines: readonly string[]
 }
+
+export type Schema = {
+  readonly pageTypeSlug: string
+  readonly targetPageTypeSlug: string | null
+  readonly unique: string | null
+  readonly slug: string
+  readonly propertySlug: string
+  readonly fileName: string | null
+}

@@ -1,6 +1,6 @@
-import { listedAt, type Schema, schemaOf } from "@akasha/indexes"
+import { listedAt, schemaOf } from "@akasha/indexes"
 import type { Identifier } from "@akasha/indexes/entries"
-import type { Reading } from "@akasha/indexes/shape"
+import type { Reading, Schema } from "@akasha/indexes/shape"
 import { addressIn, slugIn } from "../../address/page-address.module.code.ts"
 import { exportedAs } from "../../export-name/page-export-name.module.code.ts"
 import {
@@ -99,7 +99,6 @@ export function carriedFrom(value: Value, source: Source, declaredBy: string): r
     const schema = source.schemaFor(said)
     if (schema === null) continue
     const { pageTypeSlug, propertySlug } = schema
-    if (propertySlug === null) continue
     carried.push({
       pagePropertySlug: bare,
       pageTypeSlug,
