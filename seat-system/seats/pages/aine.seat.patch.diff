@@ -1,0 +1,478 @@
+writerOwesReading: false
+diff --git a/changes/checked/pages/change-page-property/change-page-property.change-checked.code.ts b/changes/checked/pages/change-page-property/change-page-property.change-checked.code.ts
+index 10390ab81ffc41ad486d78f505a223569bcc7bb5..70a9b878737e0a644c5f4a58c0aef946693cd09a 100644
+--- a/changes/checked/pages/change-page-property/change-page-property.change-checked.code.ts
++++ b/changes/checked/pages/change-page-property/change-page-property.change-checked.code.ts
+@@ -7,7 +7,7 @@ import { manyIn } from "../../../modules/page-literal/page-literal.module.code.t
+ 
+ const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
+ 
+-const CHANGE_PAGE_PROPERTY_RELATION = "change-mechanical/change-page-property-relation"
++const CHANGE_PAGE_PROPERTY_RELATION = "change-mechanical-data/change-page-property-relation"
+ 
+ const AT = "at"
+ 
+diff --git a/changes/checked/pages/change-page-property/change-page-property.change-checked.test.ts b/changes/checked/pages/change-page-property/change-page-property.change-checked.test.ts
+index 75d5d2969b5057f71ca6cb254a5824f603de51a6..25191ccfaacf823f3e11cb2e1ca8f8f7dd555245 100644
+--- a/changes/checked/pages/change-page-property/change-page-property.change-checked.test.ts
++++ b/changes/checked/pages/change-page-property/change-page-property.change-checked.test.ts
+@@ -1,7 +1,7 @@
+ import { expect, test } from "bun:test"
+ import type { Value } from "@akasha/pages/page-value"
+ import { runChange as changeValue } from "../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts"
+-import { runChange as changeRelation } from "../../../mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.code.ts"
++import { runChange as changeRelation } from "../../../mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.code.ts"
+ import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+ import {
+   NOTHING_OVER,
+@@ -15,7 +15,7 @@ const RUNS: Reaching = async (world, at, given) => {
+   if (at === "change-mechanical/change-page-property") {
+     return changeValue(world, given as Parameters<typeof changeValue>[1])
+   }
+-  if (at === "change-mechanical/change-page-property-relation") {
++  if (at === "change-mechanical-data/change-page-property-relation") {
+     return await changeRelation(world, given as Parameters<typeof changeRelation>[1])
+   }
+   return refusing(`\`${at}\` is reached by nothing here`)
+@@ -99,7 +99,7 @@ test("each key is handed to the change reached at the address that key names", a
+   await changePageProperty(seeing("slug", null), { at: AT, key: "slug", to: "other" })
+ 
+   expect(reached).toEqual([
+-    "change-mechanical/change-page-property-relation",
++    "change-mechanical-data/change-page-property-relation",
+     "change-mechanical/change-page-property",
+   ])
+ })
+diff --git a/changes/mechanical/change-mechanical.page-type.ts b/changes/mechanical/change-mechanical.page-type.ts
+index 8958419d7d24a345d8451a26271a458274b62054..c5a8c17c4a2e8fd945ddaf7b6603403a6ae70675 100644
+--- a/changes/mechanical/change-mechanical.page-type.ts
++++ b/changes/mechanical/change-mechanical.page-type.ts
+@@ -29,7 +29,7 @@ export const changeMechanical = {
+     "change-mechanical-file/remove-page-file",
+     "change-mechanical-code/rename-imports",
+     "change-mechanical/change-page-property",
+-    "change-mechanical/change-page-property-relation",
++    "change-mechanical-data/change-page-property-relation",
+     "change-mechanical-file/add-file",
+     "change-mechanical-file/add-code-file",
+     "change-mechanical-file/add-page-file",
+diff --git a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.code.ts b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.code.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..fc297df756190ee3b9ccfb4347bc3b1f121b1d95
+--- /dev/null
++++ b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.code.ts
+@@ -0,0 +1,35 @@
++import { reaches } from "@akasha/indexes/reaching"
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
++import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { readFor, targetsIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
++
++const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
++
++export type ChangePagePropertyRelationAsked = {
++  readonly at: string
++  readonly key: string
++  readonly to: string
++}
++
++export async function changePagePropertyRelation(
++  world: World,
++  given: ChangePagePropertyRelationAsked
++): Promise<Answer> {
++  const read = readFor(world, given.at)
++  if ("refused" in read) return refusing(`${read.refused}, so no relation is stated`)
++  const targets = targetsIn(read.known, read.value, given.key)
++  if (targets.length === 0) return refusing(`\`${given.key}\` names no relation on \`${given.at}\``)
++  const reached = reaches(given.to, targets, read.known)
++  if ("refused" in reached) {
++    return refusing(`\`${given.key}\` names a relation, and ${reached.refused}`)
++  }
++  return (await reach(world, CHANGE_PAGE_PROPERTY, given)).said
++}
++
++export async function runChange(
++  world: World,
++  given: ChangePagePropertyRelationAsked
++): Promise<Answer> {
++  return await changePagePropertyRelation(world, given)
++}
+diff --git a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.test.ts b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.test.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..03ada3f3f3848870ae52cd2a713ccf910d5cf626
+--- /dev/null
++++ b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.test.ts
+@@ -0,0 +1,104 @@
++import { expect, test } from "bun:test"
++import type { Value } from "@akasha/pages/page-value"
++import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
++import {
++  NOTHING_OVER,
++  type Reaching,
++  type World,
++} from "../../../modules/change-shadow/change-shadow.module.code.ts"
++import { knownOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
++import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical.code.ts"
++import { changePagePropertyRelation } from "./change-page-property-relation.change-mechanical-data.code.ts"
++
++const RUNS: Reaching = (world, at, given) => {
++  if (at === "change-mechanical/change-page-property") {
++    return Promise.resolve(
++      changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
++    )
++  }
++  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
++}
++
++const AT = "seat-system/seats/pages/held.seat.ts"
++
++const ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
++
++const BODY = `import type { Seat } from "../seat.page-type.ts"
++
++export const held = {
++  id: "${ID}",
++  pageTypeSlug: "seat",
++  slug: "held",
++  assignmentSlug: "workspace-package/agent",
++} as const satisfies Seat
++`
++
++const PAGE = { id: ID, pageTypeSlug: "seat", slug: "held" } as Value
++
++type Told = {
++  readonly slug: string | null
++  readonly target: string | readonly string[] | null
++  readonly found: readonly { readonly path: string; readonly id: string }[]
++  readonly page?: Value | null
++}
++
++function worldTold(told: Told): World {
++  const known = knownOf({
++    slugOfKeyIn: () => told.slug,
++    targetOf: () => told.target,
++    admitting: (one) => [one],
++    at: () => told.found,
++  })
++  return {
++    root: "/nowhere",
++    index: { knownIn: () => known, pageAt: () => ("page" in told ? told.page : PAGE) } as never,
++    textOf: () => BODY,
++    over: NOTHING_OVER,
++    reaching: RUNS,
++  }
++}
++
++const ASKED = { at: AT, key: "assignmentSlug", to: "initiative/found" }
++
++test("a key naming no relation is refused", async () => {
++  const world = worldTold({ slug: "purpose", target: null, found: [] })
++
++  const said = await changePagePropertyRelation(world, { ...ASKED, key: "purpose" })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/names no relation/)
++})
++
++test("a value naming no page is refused in the words the checks use", async () => {
++  const world = worldTold({ slug: "assignment-slug", target: "initiative", found: [] })
++
++  const said = await changePagePropertyRelation(world, { ...ASKED, to: "initiative/nope" })
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toBe(
++    "`assignmentSlug` names a relation, and no `initiative` carries the slug `nope`"
++  )
++})
++
++test("a value reaching a page is handed to the change stating one key anew", async () => {
++  const world = worldTold({
++    slug: "assignment-slug",
++    target: "initiative",
++    found: [{ path: "one.initiative.ts", id: ID }],
++  })
++
++  const said = await changePagePropertyRelation(world, ASKED)
++
++  expect(said.refused).toBeNull()
++  expect(said.edits).toHaveLength(1)
++  expect(said.edits[0]?.body ?? "").toContain(`assignmentSlug: "initiative/found"`)
++})
++
++test("a path the world names no page at is refused", async () => {
++  const world = worldTold({ slug: "assignment-slug", target: "initiative", found: [], page: null })
++
++  const said = await changePagePropertyRelation(world, ASKED)
++
++  expect(said.edits).toEqual([])
++  expect(said.refused ?? "").toMatch(/names no page/)
++})
+diff --git a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.ts b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..6dbdddc544286a1acf04a692f9ce5b7118f51527
+--- /dev/null
++++ b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical-data.ts
+@@ -0,0 +1,53 @@
++import type { ChangeMechanicalData } from "../../data/change-mechanical-data.page-type.ts"
++
++export const changePagePropertyRelation = {
++  id: "01a07932-2568-72d1-a8c7-94da97d53b1e",
++  pageTypeSlug: "change-mechanical-data",
++  slug: "change-page-property-relation",
++  changeModeSlug: "change-mode-change",
++  definition: "one relation a page states pointed at another page",
++  code: "ts",
++  test: "ts",
++  runsChecks: false,
++  readersOweReading: false,
++  writerOwesReading: false,
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement:
++        "Which property a key names is read from the index rather than from the key alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A key naming no relation is refused here.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A property naming members is a relation where a member is a relation.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The page types a value may name are the targets that property declares.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A value is resolved by the rule `relation-resolves` judges a landing by.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A value naming no page is refused before any body is worked out.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A value naming more than one page is refused.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The body is worked out by `change-page-property` rather than here.",
++    },
++    {
++      invariantKind: "absence",
++      statement: "Nothing here reads the disk.",
++    },
++  ],
++} as const satisfies ChangeMechanicalData
+diff --git a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.code.ts b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.code.ts
+deleted file mode 100644
+index fc297df756190ee3b9ccfb4347bc3b1f121b1d95..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.code.ts
++++ /dev/null
+@@ -1,35 +0,0 @@
+-import { reaches } from "@akasha/indexes/reaching"
+-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+-import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
+-import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { readFor, targetsIn } from "../../../modules/page-knowing/page-knowing.module.code.ts"
+-
+-const CHANGE_PAGE_PROPERTY = "change-mechanical/change-page-property"
+-
+-export type ChangePagePropertyRelationAsked = {
+-  readonly at: string
+-  readonly key: string
+-  readonly to: string
+-}
+-
+-export async function changePagePropertyRelation(
+-  world: World,
+-  given: ChangePagePropertyRelationAsked
+-): Promise<Answer> {
+-  const read = readFor(world, given.at)
+-  if ("refused" in read) return refusing(`${read.refused}, so no relation is stated`)
+-  const targets = targetsIn(read.known, read.value, given.key)
+-  if (targets.length === 0) return refusing(`\`${given.key}\` names no relation on \`${given.at}\``)
+-  const reached = reaches(given.to, targets, read.known)
+-  if ("refused" in reached) {
+-    return refusing(`\`${given.key}\` names a relation, and ${reached.refused}`)
+-  }
+-  return (await reach(world, CHANGE_PAGE_PROPERTY, given)).said
+-}
+-
+-export async function runChange(
+-  world: World,
+-  given: ChangePagePropertyRelationAsked
+-): Promise<Answer> {
+-  return await changePagePropertyRelation(world, given)
+-}
+diff --git a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.test.ts b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.test.ts
+deleted file mode 100644
+index f552dfedc3ce690e74a7794c17e6ea3c72e798ba..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.test.ts
++++ /dev/null
+@@ -1,104 +0,0 @@
+-import { expect, test } from "bun:test"
+-import type { Value } from "@akasha/pages/page-value"
+-import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+-import {
+-  NOTHING_OVER,
+-  type Reaching,
+-  type World,
+-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { knownOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
+-import { runChange as changePageProperty } from "../change-page-property/change-page-property.change-mechanical.code.ts"
+-import { changePagePropertyRelation } from "./change-page-property-relation.change-mechanical.code.ts"
+-
+-const RUNS: Reaching = (world, at, given) => {
+-  if (at === "change-mechanical/change-page-property") {
+-    return Promise.resolve(
+-      changePageProperty(world, given as Parameters<typeof changePageProperty>[1])
+-    )
+-  }
+-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+-}
+-
+-const AT = "seat-system/seats/pages/held.seat.ts"
+-
+-const ID = "01a072c8-f35d-7ffc-afc3-75b72460b059"
+-
+-const BODY = `import type { Seat } from "../seat.page-type.ts"
+-
+-export const held = {
+-  id: "${ID}",
+-  pageTypeSlug: "seat",
+-  slug: "held",
+-  assignmentSlug: "workspace-package/agent",
+-} as const satisfies Seat
+-`
+-
+-const PAGE = { id: ID, pageTypeSlug: "seat", slug: "held" } as Value
+-
+-type Told = {
+-  readonly slug: string | null
+-  readonly target: string | readonly string[] | null
+-  readonly found: readonly { readonly path: string; readonly id: string }[]
+-  readonly page?: Value | null
+-}
+-
+-function worldTold(told: Told): World {
+-  const known = knownOf({
+-    slugOfKeyIn: () => told.slug,
+-    targetOf: () => told.target,
+-    admitting: (one) => [one],
+-    at: () => told.found,
+-  })
+-  return {
+-    root: "/nowhere",
+-    index: { knownIn: () => known, pageAt: () => ("page" in told ? told.page : PAGE) } as never,
+-    textOf: () => BODY,
+-    over: NOTHING_OVER,
+-    reaching: RUNS,
+-  }
+-}
+-
+-const ASKED = { at: AT, key: "assignmentSlug", to: "initiative/found" }
+-
+-test("a key naming no relation is refused", async () => {
+-  const world = worldTold({ slug: "purpose", target: null, found: [] })
+-
+-  const said = await changePagePropertyRelation(world, { ...ASKED, key: "purpose" })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toMatch(/names no relation/)
+-})
+-
+-test("a value naming no page is refused in the words the checks use", async () => {
+-  const world = worldTold({ slug: "assignment-slug", target: "initiative", found: [] })
+-
+-  const said = await changePagePropertyRelation(world, { ...ASKED, to: "initiative/nope" })
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toBe(
+-    "`assignmentSlug` names a relation, and no `initiative` carries the slug `nope`"
+-  )
+-})
+-
+-test("a value reaching a page is handed to the change stating one key anew", async () => {
+-  const world = worldTold({
+-    slug: "assignment-slug",
+-    target: "initiative",
+-    found: [{ path: "one.initiative.ts", id: ID }],
+-  })
+-
+-  const said = await changePagePropertyRelation(world, ASKED)
+-
+-  expect(said.refused).toBeNull()
+-  expect(said.edits).toHaveLength(1)
+-  expect(said.edits[0]?.body ?? "").toContain(`assignmentSlug: "initiative/found"`)
+-})
+-
+-test("a path the world names no page at is refused", async () => {
+-  const world = worldTold({ slug: "assignment-slug", target: "initiative", found: [], page: null })
+-
+-  const said = await changePagePropertyRelation(world, ASKED)
+-
+-  expect(said.edits).toEqual([])
+-  expect(said.refused ?? "").toMatch(/names no page/)
+-})
+diff --git a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.ts b/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.ts
+deleted file mode 100644
+index 17c894b26b2e196fec990362d70962b3802fb88a..0000000000000000000000000000000000000000
+--- a/changes/mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.ts
++++ /dev/null
+@@ -1,53 +0,0 @@
+-import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+-
+-export const changePagePropertyRelation = {
+-  id: "01a07932-2568-72d1-a8c7-94da97d53b1e",
+-  pageTypeSlug: "change-mechanical",
+-  slug: "change-page-property-relation",
+-  changeModeSlug: "change-mode-change",
+-  definition: "one relation a page states pointed at another page",
+-  code: "ts",
+-  test: "ts",
+-  runsChecks: false,
+-  readersOweReading: false,
+-  writerOwesReading: false,
+-  invariants: [
+-    {
+-      invariantKind: "departure",
+-      statement:
+-        "Which property a key names is read from the index rather than from the key alone.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A key naming no relation is refused here.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A property naming members is a relation where a member is a relation.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The page types a value may name are the targets that property declares.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A value is resolved by the rule `relation-resolves` judges a landing by.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A value naming no page is refused before any body is worked out.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "A value naming more than one page is refused.",
+-    },
+-    {
+-      invariantKind: "departure",
+-      statement: "The body is worked out by `change-page-property` rather than here.",
+-    },
+-    {
+-      invariantKind: "absence",
+-      statement: "Nothing here reads the disk.",
+-    },
+-  ],
+-} as const satisfies ChangeMechanical
