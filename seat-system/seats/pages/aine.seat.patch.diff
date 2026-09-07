@@ -1,3 +1,20 @@
+diff --git a/changes/guards/change-guard.page-type.ts b/changes/guards/change-guard.page-type.ts
+index c6fbdd1945ba201d5bb748a801320042c79b6931..ac4d56cb258cd2f8ef57eac6ecfb4edc9847d66c 100644
+--- a/changes/guards/change-guard.page-type.ts
++++ b/changes/guards/change-guard.page-type.ts
+@@ -10,7 +10,11 @@ export const changeGuard = {
+   definition: "what judges the answer a change gives and says why that answer is refused",
+   pluralSlug: "change-guards",
+   extendsSlug: ["page-type/module"],
+-  partSlugs: ["change-guard/import-not-left-hanging", "change-guard/relation-not-left-hanging"],
++  partSlugs: [
++    "change-guard/body-not-written-over",
++    "change-guard/import-not-left-hanging",
++    "change-guard/relation-not-left-hanging",
++  ],
+   invariants: [
+     {
+       invariantKind: "departure",
 diff --git a/changes/guards/pages/body-not-written-over/body-not-written-over.change-guard.code.ts b/changes/guards/pages/body-not-written-over/body-not-written-over.change-guard.code.ts
 new file mode 100644
 index 0000000000000000000000000000000000000000..f1d84da3f4c7c41a09155bedd14f28681f8c376e
