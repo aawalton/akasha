@@ -4,7 +4,8 @@ export const pageKnowing = {
   id: "01a0795c-c0d5-7580-afd1-7b86083ef2dd",
   pageTypeSlug: "module",
   slug: "page-knowing",
-  definition: "the page a world's index answers at a path, and the pages that page's keys name",
+  definition:
+    "the page a world's index answers at a path, and the pages on either side of that page's edges",
   code: "ts",
   test: "ts",
   invariants: [
@@ -35,6 +36,10 @@ export const pageKnowing = {
     {
       invariantKind: "departure",
       statement: "The pages a key names are read from the property the key reaches.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The pages naming a path under one property are answered from the world's index.",
     },
     {
       invariantKind: "departure",

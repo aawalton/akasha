@@ -10,11 +10,6 @@ export const removePage = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
-  guardSlugs: [
-    "change-guard/relation-not-left-hanging",
-    "change-guard/import-not-left-hanging",
-    "change-guard/claimed-file-not-left-behind",
-  ],
   invariants: [
     {
       invariantKind: "departure",
@@ -35,11 +30,27 @@ export const removePage = {
     },
     {
       invariantKind: "departure",
-      statement: "One call of `remove-file` takes each file away.",
+      statement: "The page's own file is taken away by `remove-page-file`.",
     },
     {
       invariantKind: "departure",
-      statement: "A refusal from `remove-file` refuses the whole removal.",
+      statement: "A file beside the page under a TypeScript name goes by `remove-code-file`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Every other file beside the page goes by `remove-file`.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The files beside the page go before the page's own file.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page's entry in the parent's `part-slugs` is dropped before any file goes.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A refusal from any change reached here refuses the whole removal.",
     },
     {
       invariantKind: "departure",
@@ -58,12 +69,8 @@ export const removePage = {
       statement: "A path the world names no page at is refused.",
     },
     {
-      invariantKind: "departure",
-      statement: "The guards named here run over the answer before that answer comes back.",
-    },
-    {
-      invariantKind: "departure",
-      statement: "A guard refusing refuses the removal.",
+      invariantKind: "absence",
+      statement: "This change names no guard of its own.",
     },
     {
       invariantKind: "departure",
@@ -84,7 +91,8 @@ export const removePage = {
     },
     {
       invariantKind: "gap",
-      statement: "The guards named here are imported rather than reached through `guard-slugs`.",
+      statement:
+        "The guards the tests here run are imported rather than reached through `guard-slugs`.",
     },
   ],
 } as const satisfies ChangeMechanical

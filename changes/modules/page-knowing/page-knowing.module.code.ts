@@ -1,3 +1,4 @@
+import type { Named } from "@akasha/indexes"
 import { eachTarget, type Shaped } from "@akasha/indexes/reaching"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
@@ -9,6 +10,16 @@ export function pageIn(world: World, at: string): Value | null {
   const said = partedIn(at)
   if (said === null || said.sections.length > 0) return null
   return world.index.pageAt(said.pageType, said.slug)
+}
+
+export function namersIn(world: World, at: string, propertySlug: string): readonly Named[] {
+  const found: Named[] = []
+  for (const one of world.index.listedByPath(at)) {
+    for (const namer of world.index.namersOf(one.id)) {
+      if (namer.propertySlug === propertySlug) found.push(namer)
+    }
+  }
+  return found
 }
 
 export function targetsIn(known: Shaped, value: Value, key: string): readonly string[] {

@@ -8,7 +8,7 @@ import {
   textIn,
 } from "@akasha/indexes/indexing/testing"
 import { type World, worldAt } from "../change-shadow/change-shadow.module.code.ts"
-import { pageIn, readFor, targetsIn } from "./page-knowing.module.code.ts"
+import { namersIn, pageIn, readFor, targetsIn } from "./page-knowing.module.code.ts"
 
 afterAll(scratch.sweep)
 
@@ -62,4 +62,14 @@ test("a key reaching no property names no page", () => {
   if ("refused" in read) throw new Error(read.refused)
 
   expect(targetsIn(read.known, read.value, "definition")).toEqual([])
+})
+
+test("the pages naming a path under one property are answered", () => {
+  expect(namersIn(worldIn(), HELD_PAGE, "part-slugs")).toEqual([
+    { path: NAMER_PAGE, propertySlug: "part-slugs" },
+  ])
+})
+
+test("a property no page names the path under answers no page", () => {
+  expect(namersIn(worldIn(), HELD_PAGE, "definition")).toEqual([])
 })
