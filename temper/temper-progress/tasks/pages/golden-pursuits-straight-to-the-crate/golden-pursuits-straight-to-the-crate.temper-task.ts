@@ -13,4 +13,6 @@ export const goldenPursuitsStraightToTheCrate = {
   accountPage: "9ba554f7-cb18-48bb-a709-ec935a895ca7",
   scope: "account",
   priority: "p1",
+  lastCompletedAt: "2026-09-07T02:16:06.577Z",
+  completedAt: "2026-09-07T02:16:06.577Z",
 } as const satisfies TemperTask
