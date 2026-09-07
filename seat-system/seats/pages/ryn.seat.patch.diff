@@ -1,0 +1,18 @@
+diff --git a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts
+index e7c74f538b1cf94370a24ea8b40506d7bc83fd4b..2c911aac9f9b34bb8767633474d2a0e404fd88b5 100644
+--- a/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts
++++ b/hook-system/agent-hooks/block-bun-test/block-bun-test.agent-hook.ts
+@@ -38,8 +38,11 @@ export const blockBunTest = {
+     },
+     {
+       invariantKind: "constraint",
+-      statement:
+-        "The repository root is the akasha folder, so every test file that folder holds is an akasha test.",
++      statement: "The repository root is the akasha folder.",
++    },
++    {
++      invariantKind: "constraint",
++      statement: "Every test file the akasha folder holds is an akasha test.",
+     },
+   ],
+ } as const satisfies AgentHook
