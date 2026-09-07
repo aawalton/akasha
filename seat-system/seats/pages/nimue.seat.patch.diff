@@ -358,7 +358,7 @@ index 0000000000000000000000000000000000000000..df1c754609d79ebcffadd07ff2289fe1
 +})
 diff --git a/changes/modules/page-literal/page-literal.module.ts b/changes/modules/page-literal/page-literal.module.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..3259efb376c48b30538f5f32eeffc87dd63f1880
+index 0000000000000000000000000000000000000000..f28ea9b8f1a53ac94d30959cd02cbd156648697e
 --- /dev/null
 +++ b/changes/modules/page-literal/page-literal.module.ts
 @@ -0,0 +1,52 @@
@@ -374,7 +374,7 @@ index 0000000000000000000000000000000000000000..3259efb376c48b30538f5f32eeffc87d
 +  invariants: [
 +    {
 +      invariantKind: "departure",
-+      statement: "The object answered is the first one an exported declaration holds.",
++      statement: "The object answered is the object the first exported declaration holds.",
 +    },
 +    {
 +      invariantKind: "departure",
@@ -406,7 +406,7 @@ index 0000000000000000000000000000000000000000..3259efb376c48b30538f5f32eeffc87d
 +    },
 +    {
 +      invariantKind: "absence",
-+      statement: "Nothing here judges what a key may hold.",
++      statement: "Nothing here judges the value a key holds.",
 +    },
 +    {
 +      invariantKind: "absence",
