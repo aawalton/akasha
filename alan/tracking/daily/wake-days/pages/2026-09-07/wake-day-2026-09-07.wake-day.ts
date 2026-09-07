@@ -8,7 +8,7 @@ export const wakeDay20260907 = {
   date: "2026-09-07",
   version: "3.0",
   nutritionPoints: 160,
-  activeCalories: 42.83200000000001,
+  activeCalories: 69.742,
   wisdomWords: 0,
   intelligenceTopics: 0,
   inboxTasks: 12,
