@@ -1,4 +1,16 @@
-readersOweReading: false
+readersOweReading: false temper/temper-lib-sets/lib-sets-const-base/lib-sets-const-base.module.ts
+diff --git a/bun.lock b/bun.lock
+index a11197ed2f0aba20f63cb4eb382ca87eb1e7ff59..8a8127faa2e77ef4b11c9c6b42a96b193dec581f 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -2440,6 +2440,7 @@
+     "temper/temper-lib-sets": {
+       "name": "@akasha/temper-lib-sets",
+       "dependencies": {
++        "@akasha/code-system": "workspace:@akasha/code@*",
+         "@akasha/temper-eso-types": "workspace:*",
+       },
+     },
 diff --git a/temper/temper-lib-sets/lib-sets-const-base/lib-sets-const-base.module.ts b/temper/temper-lib-sets/lib-sets-const-base/lib-sets-const-base.module.ts
 index 296f2d9e9327de467bdad5bf35d42a0f4e10beb4..b513c1bea4ce91752080fff38b94de0fd71d44ee 100644
 --- a/temper/temper-lib-sets/lib-sets-const-base/lib-sets-const-base.module.ts
@@ -12,3 +24,15 @@ index 296f2d9e9327de467bdad5bf35d42a0f4e10beb4..b513c1bea4ce91752080fff38b94de0f
      },
      {
        invariantKind: "departure",
+diff --git a/temper/temper-lib-sets/package.json b/temper/temper-lib-sets/package.json
+index d40d5ae82d611d03f38b3cc858e44606c4018e99..504d6b62752d597cd6749c24beb33005ce300729 100644
+--- a/temper/temper-lib-sets/package.json
++++ b/temper/temper-lib-sets/package.json
+@@ -6,6 +6,7 @@
+     "./main": "./lib-sets-main/lib-sets-main.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/code-system": "workspace:@akasha/code@*",
+     "@akasha/temper-eso-types": "workspace:*"
+   }
+ }
