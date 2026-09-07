@@ -8,4 +8,5 @@ export const wakeDay20260907 = {
   date: "2026-09-07",
   version: "3.0",
   wisdomWords: 0,
+  intelligenceTopics: 0,
 } as const satisfies WakeDay
