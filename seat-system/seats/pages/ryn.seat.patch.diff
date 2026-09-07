@@ -1,5 +1,5 @@
 diff --git a/google/email/commands/email-command-reading/email-command-reading.module.ts b/google/email/commands/email-command-reading/email-command-reading.module.ts
-index dab119b34c9931eff514c67b490a2c7b3b9bb4fa..554fc229b39da7133c0859c9cd0316a2ff22e156 100644
+index dab119b34c9931eff514c67b490a2c7b3b9bb4fa..83bea52e616f20d2efbdbc8507a604bef8599d22 100644
 --- a/google/email/commands/email-command-reading/email-command-reading.module.ts
 +++ b/google/email/commands/email-command-reading/email-command-reading.module.ts
 @@ -38,8 +38,11 @@ export const emailCommandReading = {
@@ -13,6 +13,19 @@ index dab119b34c9931eff514c67b490a2c7b3b9bb4fa..554fc229b39da7133c0859c9cd0316a2
 +    {
 +      invariantKind: "departure",
 +      statement: "Text said both ways is refused.",
+     },
+     {
+       invariantKind: "departure",
+@@ -47,7 +50,11 @@ export const emailCommandReading = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "One call reads the input once, so two flags naming that input are refused.",
++      statement: "One call reads the input once.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "Two flags naming one input are refused.",
      },
      {
        invariantKind: "departure",
