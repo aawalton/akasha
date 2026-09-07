@@ -60,10 +60,6 @@ export const addressMapping = {
       statement: "A shadow that will not cast is said rather than passed over.",
     },
     {
-      invariantKind: "absence",
-      statement: "No change a command line reaches is in the map.",
-    },
-    {
       invariantKind: "departure",
       statement: "A page type extending the page type changes are filed under is reached too.",
     },

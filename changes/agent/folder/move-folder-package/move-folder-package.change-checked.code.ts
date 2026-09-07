@@ -6,15 +6,17 @@ import {
   refusing,
 } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { type World, worldOver } from "../../../modules/change-shadow/change-shadow.module.code.ts"
-import { renamePage } from "../../file/rename-page/rename-page.change-checked.code.ts"
-import { moveFolder } from "../move-folder/move-folder.change-checked.code.ts"
+import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const PACKAGE = "workspace-package"
 
 const AT = "at"
 
 const TO = "to"
+
+const MOVE_FOLDER = "change-checked/move-folder"
+
+const RENAME_PAGE = "change-checked/rename-page"
 
 export type MoveFolderPackageAsked = {
   readonly at: string
@@ -34,16 +36,16 @@ export async function moveFolderPackage(
     return refusing(`\`${given.at}\` names no \`${PACKAGE}\`, so no folder is carried`)
   }
   const from = dirname(given.at)
-  const carried = await moveFolder(world, { at: from, to: given.to })
-  if (carried.refused !== null) return carried
+  const carried = await reach(world, MOVE_FOLDER, { at: from, to: given.to })
+  if (carried.said.refused !== null) return carried.said
   const named = basename(given.to)
-  if (named === parted.slug) return carried
-  const said = await renamePage(worldOver(world, carried), {
+  if (named === parted.slug) return carried.said
+  const said = await reach(carried.world, RENAME_PAGE, {
     at: landingFor(given.at, from, given.to),
     to: named,
   })
-  if (said.refused !== null) return said
-  return gathered([carried, said])
+  if (said.said.refused !== null) return said.said
+  return gathered([carried.said, said.said])
 }
 
 export type Asked = Readonly<Record<string, string>>
