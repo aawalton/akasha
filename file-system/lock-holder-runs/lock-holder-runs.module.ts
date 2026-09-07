@@ -18,8 +18,11 @@ export const lockHolderRuns = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A pid the caller may not signal is alive, because only ESRCH says the process is gone.",
+      statement: "A pid the caller may not signal is alive.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "Only ESRCH says the process is gone.",
     },
     {
       invariantKind: "departure",
