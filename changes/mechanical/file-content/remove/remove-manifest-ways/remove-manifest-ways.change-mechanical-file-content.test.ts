@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import { reading } from "@akasha/pages/page-value/testing"
+import { widened } from "../../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import {
   landsOn,
@@ -36,7 +37,8 @@ const BETA = "seat-system/beta/beta.module.code.ts"
 const GAMMA = "seat-system/gamma/gamma.module.code.ts"
 
 function saidOf(going: readonly string[], text: string): Answer {
-  return removeManifestWays({ at: AT, going }, reading({ [AT]: text }))
+  const textOf = reading({ [AT]: text })
+  return widened(removeManifestWays({ at: AT, going }, textOf), textOf)
 }
 
 function bodyOf(said: Answer): string {
@@ -68,12 +70,18 @@ test("every way in goes and the exports key stays", () => {
   expect(waysOf(said)).toEqual({})
 })
 
-test("a manifest stating no way in is answered unchanged", () => {
-  expect(bodyOf(saidOf([BETA], NO_WAYS))).toBe(NO_WAYS)
+test("a manifest stating no way in is answered as no edit", () => {
+  const said = saidOf([BETA], NO_WAYS)
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([])
 })
 
-test("a path no way in lands on leaves the manifest as the manifest is", () => {
-  expect(bodyOf(saidOf(["seat-system/delta/delta.module.code.ts"], BODY))).toBe(BODY)
+test("a path no way in lands on is answered as no edit", () => {
+  const said = saidOf(["seat-system/delta/delta.module.code.ts"], BODY)
+
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([])
 })
 
 test("a body that reads as no JSON object is refused", () => {

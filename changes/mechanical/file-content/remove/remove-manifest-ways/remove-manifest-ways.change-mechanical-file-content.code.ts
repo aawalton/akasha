@@ -1,11 +1,7 @@
 import { dirname } from "node:path"
 import ts from "typescript"
-import {
-  answered,
-  refusing,
-  writing,
-} from "../../../../modules/change-answer/change-answer.module.code.ts"
-import type { Answer } from "../../../../modules/change-answer/change-answer.module.types.ts"
+import { refusing, stating } from "../../../../modules/change-answer/change-answer.module.code.ts"
+import type { Said } from "../../../../modules/change-answer/change-answer.module.types.ts"
 import type { World } from "../../../../modules/change-shadow/change-shadow.module.code.ts"
 
 const EXPORTS = "exports"
@@ -126,17 +122,18 @@ export function withoutEntriesIn(
   return body
 }
 
-export function removeManifestWays(given: Asked, textOf: (path: string) => string | null): Answer {
+export function removeManifestWays(given: Asked, textOf: (path: string) => string | null): Said {
   const text = textOf(given.at)
   if (text === null) return refusing(`\`${given.at}\` holds no body, so no way in is dropped`)
   if (!readsAsObject(text)) {
     return refusing(`\`${given.at}\` reads as no JSON object, so no way in is dropped`)
   }
   const ways = waysGoneIn(given.at, text, new Set(given.going))
-  const body = ways.length === 0 ? text : withoutWaysIn(given.at, text, new Set(ways))
-  return answered([writing(given.at, text, body)])
+  if (ways.length === 0) return stating([])
+  const body = withoutWaysIn(given.at, text, new Set(ways))
+  return stating([{ kind: "replace", path: given.at, contentFrom: text, contentTo: body }])
 }
 
-export function runChange(world: World, given: Asked): Answer {
+export function runChange(world: World, given: Asked): Said {
   return removeManifestWays(given, world.textOf)
 }

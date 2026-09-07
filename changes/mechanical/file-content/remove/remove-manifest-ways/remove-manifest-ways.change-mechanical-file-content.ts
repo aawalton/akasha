@@ -44,7 +44,7 @@ export const removeManifestWays = {
     },
     {
       invariantKind: "departure",
-      statement: "A manifest stating no way in is answered unchanged.",
+      statement: "A manifest stating no way in is answered as no edit.",
     },
     {
       invariantKind: "departure",
