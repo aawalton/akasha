@@ -43,6 +43,10 @@ export const codeRule = {
     },
     {
       invariantKind: "departure",
+      statement: "A body spelling neither `function` nor `=>` is answered without a parse.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A function's export status is answered by climbing to the statement holding that function.",
     },

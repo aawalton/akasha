@@ -35,6 +35,10 @@ const SAYING: ReadonlySet<ts.SyntaxKind> = new Set([
   ts.SyntaxKind.TryStatement,
 ])
 
+const DECLARED = "function"
+
+const ARROW = "=>"
+
 function bound(fn: ts.FunctionLikeDeclaration): ReadonlyMap<string, string> {
   const found = new Map<string, string>()
   const take = (name: string): undefined => {
@@ -94,6 +98,7 @@ function exported(node: ts.Node): boolean {
 }
 
 export function speltIn(path: string, text: string): readonly Spelt[] {
+  if (!text.includes(DECLARED) && !text.includes(ARROW)) return []
   const source = parsedAs(path, text)
   const found: Spelt[] = []
   const walk = (node: ts.Node): undefined => {
