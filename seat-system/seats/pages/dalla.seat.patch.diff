@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/command-system/commands/apply/apply.command.code.ts b/command-system/commands/apply/apply.command.code.ts
+index 0df53a67cd192dac3e56c600687c4541f84b299a..8c9b2e3a0b5e5e8ff4522ddfdedb8866c55aef1c 100644
+--- a/command-system/commands/apply/apply.command.code.ts
++++ b/command-system/commands/apply/apply.command.code.ts
+@@ -106,7 +106,7 @@ export function unwarranted(
+   agentId: string | null,
+   rows: readonly Edit[]
+ ): readonly string[] {
+-  const owing = rows.filter((one) => one.writerOwesReading !== false)
++  const owing = rows
+   if (owing.length === 0) return []
+   const edits = editsFor(formattedEdits(root, owing))
+   return owedIn(
