@@ -1,0 +1,11 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
+index 78553420d50382f202e4e54b81bbf80088baf20d..8706674620fc22327cae19ff9a37f8bb0f11627b 100644
+--- a/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
++++ b/machines/provisioning/provisioned-files/pages/bashrc.provisioned-file.content.sh
+@@ -1,3 +1,4 @@
++# shellcheck shell=bash
+ # ~/.bashrc: executed by bash(1) for non-login shells.
+ # see /usr/share/doc/bash/examples/startup-files (in the package bash-doc)
+ # for examples
