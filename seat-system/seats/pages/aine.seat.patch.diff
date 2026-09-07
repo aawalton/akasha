@@ -1,0 +1,232 @@
+diff --git a/pages/shadow/shadow.module.test.ts b/pages/shadow/shadow.module.test.ts
+index 14655b12f1c5e4bb3f6a03c2ef36117150f77dce..195f683b0482411431aa460a839f7e117ac24037 100644
+--- a/pages/shadow/shadow.module.test.ts
++++ b/pages/shadow/shadow.module.test.ts
+@@ -229,7 +229,7 @@ test("a relation through a property the same change declares is filed, as a land
+   expect(reading.lines(at)).toEqual(readingIn(landedInto(repo, CHANGES)).lines(at))
+ })
+ 
+-test("a page of a page type the same change declares stands in the shadow as it stands in a landing", () => {
++test("a page of a page type the same change declares is in the shadow as it is in a landing", () => {
+   const repo = seeded()
+   const twin = landedInto(repo, CHANGES)
+   const reading = shadowOf(shadowFor(changeOver(repo, CHANGES)))
+@@ -245,7 +245,7 @@ test("a body the change carries is the body the shadow reads a page from", () =>
+   expect(cast.shadow.pageOf(inside("one/same.domain.ts"))).toBe(null)
+ })
+ 
+-test("an audit leaves everything as it stands, so nothing is worked out and no body is asked for", () => {
++test("an audit leaves everything as it is, so nothing is worked out and no body is asked for", () => {
+   const repo = seeded()
+   let asked = 0
+   const held = onDisk(repo)
+@@ -260,7 +260,7 @@ test("an audit leaves everything as it stands, so nothing is worked out and no b
+   expect(everythingRead(cast.reading)).toEqual(everythingRead(readingIn(repo)))
+ })
+ 
+-test("a shadow that could not be worked out is refused, never stood in for by the committed index", () => {
++test("a shadow that could not be worked out is refused, and the committed index never takes its place", () => {
+   const repo = scratch.rootFor("akasha-broken-")
+   schemaFiled(repo, "text-property", "held", [
+     {
+@@ -339,12 +339,12 @@ function codeOf(cast: Cast): (path: string) => string | null {
+   return cast.shadow.codeAt
+ }
+ 
+-test("a body the change only carries elsewhere stands at the path it came from", () => {
++test("a body the change only carries elsewhere is at the path it came from", () => {
+   const repo = seeded()
+   expect(codeOf(shadowFor(carriedOver(repo)))(MOVED_TO)).toBe(CODE_AT)
+ })
+ 
+-test("a body the change writes anew stands at no path and is answered as nothing", () => {
++test("a body the change writes anew is at no path and is answered as nothing", () => {
+   const repo = seeded()
+   expect(codeOf(shadowFor(carriedOver(repo)))(inside("fresh.ts"))).toBe(null)
+ })
+diff --git a/pages/shadow/shadow.module.ts b/pages/shadow/shadow.module.ts
+index 4b05380b2eae65b112b87d2d2d83df4e956ac3fa..ca2d93c9092c2402b2c18102710e67cfa890e9ea 100644
+--- a/pages/shadow/shadow.module.ts
++++ b/pages/shadow/shadow.module.ts
+@@ -80,8 +80,12 @@ export const shadow = {
+     },
+     {
+       invariantKind: "departure",
++<<<<<<< what this change would leave
++      statement: "A caller setting that index up elsewhere writes what the change files.",
++=======
+       statement:
+         "A caller standing that index up elsewhere writes the entry files the change files.",
++>>>>>>> what HEAD holds
+     },
+     {
+       invariantKind: "departure",
+@@ -94,11 +98,11 @@ export const shadow = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body the change only carries elsewhere stands at the path the body came from.",
++      statement: "A body the change only carries elsewhere is at the path the body came from.",
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A body the change writes anew stands at no path and is answered as nothing.",
++      statement: "A body the change writes anew is at no path and is answered as nothing.",
+     },
+     {
+       invariantKind: "departure",
+@@ -106,7 +110,7 @@ export const shadow = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An audit leaves everything as everything stands.",
++      statement: "An audit leaves everything as everything is.",
+     },
+     {
+       invariantKind: "departure",
+@@ -120,7 +124,7 @@ export const shadow = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A shadow that could not be worked out is refused and never stood in for by the committed index.",
++        "A shadow that could not be worked out is refused, and the committed index never takes its place.",
+     },
+     {
+       invariantKind: "departure",
+diff --git a/pages/uncommitted/page-uncommitted.module.code.ts b/pages/uncommitted/page-uncommitted.module.code.ts
+index 4c9eab1870351ec7a92b26d31a182d44ce9ca2dd..0676e6633505f941d5ddf2f2d058e38e25aae3dd 100644
+--- a/pages/uncommitted/page-uncommitted.module.code.ts
++++ b/pages/uncommitted/page-uncommitted.module.code.ts
+@@ -93,12 +93,12 @@ function valuesIn(full: string, at: string): Value | null {
+   const held = loadedFrom(readFileSync(full, "utf8"))
+   if (held.failed !== null) {
+     throw new Error(
+-      `'${at}' stands beside a page and could not be loaded, so what it holds is unknown rather than nothing: ${held.failed}`
++      `'${at}' sits beside a page and could not be loaded, so what it holds is unknown rather than nothing: ${held.failed}`
+     )
+   }
+   if (held.value === null) {
+     throw new Error(
+-      `'${at}' stands beside a page and declares no values, so what it holds is unknown rather than nothing`
++      `'${at}' sits beside a page and declares no values, so what it holds is unknown rather than nothing`
+     )
+   }
+   return held.value
+@@ -136,7 +136,7 @@ export function wholeValue(root: string, page: string, value: Value): Value {
+ function besideOr(page: string): string {
+   const at = uncommittedAt(page)
+   if (at === null) {
+-    throw new Error(`'${page}' is no TypeScript file, so nothing stands beside it to hold values`)
++    throw new Error(`'${page}' is no TypeScript file, so nothing sits beside it to hold values`)
+   }
+   return at
+ }
+diff --git a/pages/uncommitted/page-uncommitted.module.test.ts b/pages/uncommitted/page-uncommitted.module.test.ts
+index 4b951ea3e02fbb76b6a94350a9bdaad9df8503c8..d1bf2edcf24fa6c8ccd6cbd6991b542aa3db0114 100644
+--- a/pages/uncommitted/page-uncommitted.module.test.ts
++++ b/pages/uncommitted/page-uncommitted.module.test.ts
+@@ -98,20 +98,20 @@ test("what is kept beside a page is read back from it", () => {
+   expect(uncommittedIn(root, PAGE)).toEqual({ claudeCodeSessionUuid: "one", beats: 3 })
+ })
+ 
+-test("what is kept stands beside the page under the reserved tail", () => {
++test("what is kept sits beside the page under the reserved tail", () => {
+   const root = rooted()
+   keepUncommitted(root, PAGE, { held: "one" })
+   expect(existsSync(join(root, BESIDE))).toBe(true)
+ })
+ 
+-test("keeping again replaces what stood there", () => {
++test("keeping again replaces what was there", () => {
+   const root = rooted()
+   keepUncommitted(root, PAGE, { held: "one" })
+   keepUncommitted(root, PAGE, { held: "two" })
+   expect(uncommittedIn(root, PAGE)).toEqual({ held: "two" })
+ })
+ 
+-test("a file that stands but will not load is refused rather than read as empty", () => {
++test("a file that is there but will not load is refused rather than read as empty", () => {
+   const root = rooted()
+   writtenBeside(root, "export const amySeatUncommitted = (\n")
+   expect(() => uncommittedIn(root, PAGE)).toThrow(/could not be loaded/)
+@@ -123,20 +123,20 @@ test("a file that loads declaring nothing is refused rather than read as empty",
+   expect(() => uncommittedIn(root, PAGE)).toThrow(/declares no values/)
+ })
+ 
+-test("merging keeps what stands and sets only the keys it names", () => {
++test("merging keeps what is there and sets only the keys it names", () => {
+   const root = rooted()
+   keepUncommitted(root, PAGE, { held: "one", beats: 1 })
+   mergeUncommitted(root, PAGE, { beats: 2, gateway: "up" })
+   expect(uncommittedIn(root, PAGE)).toEqual({ held: "one", beats: 2, gateway: "up" })
+ })
+ 
+-test("merging where nothing stands writes what it was handed", () => {
++test("merging where nothing is there writes what it was handed", () => {
+   const root = rooted()
+   mergeUncommitted(root, PAGE, { beats: 1 })
+   expect(uncommittedIn(root, PAGE)).toEqual({ beats: 1 })
+ })
+ 
+-test("dropping named keys leaves the rest standing", () => {
++test("dropping named keys leaves the rest as it is", () => {
+   const root = rooted()
+   keepUncommitted(root, PAGE, { held: "one", beats: 1, gateway: "up" })
+   dropUncommitted(root, PAGE, ["beats", "never stood"])
+@@ -158,7 +158,7 @@ test("removing takes the file away, and the page carries nothing again", () => {
+   expect(uncommittedIn(root, PAGE)).toBeNull()
+ })
+ 
+-test("removing what never stood is an answer rather than a failure", () => {
++test("removing what was never there is an answer rather than a failure", () => {
+   expect(() => removeUncommitted(rooted(), PAGE)).not.toThrow()
+ })
+ 
+@@ -180,7 +180,7 @@ test("a path that is no TypeScript file holds nothing and is refused for keeping
+   expect(() => mergeUncommitted(root, "akasha/one/notes.txt", {})).toThrow(/no TypeScript file/)
+ })
+ 
+-test("a write takes the lock and leaves none standing after it", () => {
++test("a write takes the lock and leaves none there after it", () => {
+   const root = rooted()
+   keepUncommitted(root, PAGE, { held: "one" })
+   mergeUncommitted(root, PAGE, { beats: 1 })
+@@ -226,7 +226,7 @@ test("a lock left by a process that is gone is taken rather than waited on", asy
+   expect(uncommittedIn(root, PAGE)).toEqual({ held: "one", beats: 1 })
+ })
+ 
+-test("a lock whose pid stands for another process than the one that took it is no lock", () => {
++test("a lock whose pid names another process than the one that took it is no lock", () => {
+   const root = rooted()
+   locked(root, `${process.pid} 1`)
+   const from = Date.now()
+diff --git a/pages/uncommitted/page-uncommitted.module.ts b/pages/uncommitted/page-uncommitted.module.ts
+index f10b0ef38dcf55064e31af534546ee7a7e499ae7..d3bb893c3178dc714c044dda8b55184174717135 100644
+--- a/pages/uncommitted/page-uncommitted.module.ts
++++ b/pages/uncommitted/page-uncommitted.module.ts
+@@ -65,7 +65,7 @@ export const pageUncommitted = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "The lock is taken by one create that fails where the lock already stands.",
++      statement: "The lock is taken by one create that fails where the lock is already there.",
+     },
+     {
+       invariantKind: "departure",
+@@ -87,11 +87,15 @@ export const pageUncommitted = {
+     {
+       invariantKind: "departure",
+       statement:
+-        "A lock naming no holder that can be read is taken once that lock has stood too long.",
++        "A lock naming no holder that can be read is taken once that lock has been there too long.",
+     },
+     {
+       invariantKind: "departure",
++<<<<<<< what this change would leave
++      statement: "Values merge key by key into what is there.",
++=======
+       statement: "Values merge key by key into the values already standing.",
++>>>>>>> what HEAD holds
+     },
+     {
+       invariantKind: "departure",
