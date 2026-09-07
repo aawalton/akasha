@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { worldOf } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
-import { changeFile } from "./change-file.change-mechanical-file-content.code.ts"
+import { changeFile } from "./change-file-content.change-mechanical-file-content.code.ts"
 
 const AT = "akasha/one.held.ts"
 

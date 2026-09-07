@@ -8,7 +8,7 @@ const OLD = "old"
 
 const NEW = "new"
 
-const CHANGE_FILE = "change-mechanical-file-content/change-file"
+const CHANGE_FILE = "change-mechanical-file-content/change-file-content"
 
 export type Asked = Readonly<Record<string, string>>
 

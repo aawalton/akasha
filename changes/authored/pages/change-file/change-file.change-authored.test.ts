@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { changeFile } from "../../../mechanical/pages/change-file/change-file.change-mechanical-file-content.code.ts"
+import { changeFile } from "../../../mechanical/pages/change-file-content/change-file-content.change-mechanical-file-content.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import {
   NOTHING_OVER,
@@ -13,7 +13,7 @@ const AT = "akasha/one.held.ts"
 type Passage = { at: string; old: string; new: string }
 
 const RUNS: Reaching = (world, at, given) => {
-  if (at === "change-mechanical-file-content/change-file") {
+  if (at === "change-mechanical-file-content/change-file-content") {
     return Promise.resolve(changeFile(world, given as Passage))
   }
   return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
@@ -71,6 +71,6 @@ test("the passage this change hands on is reached through the runner the world c
     { at: AT, old: "two", new: "four" }
   )
 
-  expect(reached).toBe("change-mechanical-file-content/change-file")
+  expect(reached).toBe("change-mechanical-file-content/change-file-content")
   expect(said.refused).toBeNull()
 })

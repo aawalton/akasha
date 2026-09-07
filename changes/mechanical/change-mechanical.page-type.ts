@@ -37,7 +37,7 @@ export const changeMechanical = {
     "change-mechanical-file/add-file-page-type",
     "change-mechanical-data/add-property-value",
     "change-mechanical-file/add-file-page-property",
-    "change-mechanical-file-content/change-file",
+    "change-mechanical-file-content/change-file-content",
     "change-mechanical-folder/remove-page-type",
     "change-mechanical-data/remove-property-value",
     "change-mechanical-code/rename-export",
