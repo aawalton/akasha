@@ -4,7 +4,7 @@ export const watcherImportTasks = {
   id: "01a06381-35cf-7769-9717-fa7f6b0898ae",
   pageTypeSlug: "module",
   slug: "watcher-import-tasks",
-  definition: "a task capture read into completed-day lines, rolled due dates and tasks taken away",
+  definition: "a task capture read into completions marked on the tasks themselves",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -15,47 +15,43 @@ export const watcherImportTasks = {
     },
     {
       invariantKind: "departure",
-      statement: "A completion of a task carrying no slug or no title is refused.",
-    },
-    {
-      invariantKind: "departure",
       statement: "A completion whose instant is not above zero is refused.",
     },
     {
       invariantKind: "departure",
-      statement: "A completion the day already holds counts as imported rather than as a failure.",
+      statement: "A task completed twice in one logical day is counted once.",
     },
     {
       invariantKind: "departure",
-      statement: "A recurring task completed twice in one logical day is counted once.",
+      statement: "A recurring task takes a rolled due date and keeps its page.",
     },
     {
       invariantKind: "departure",
-      statement: "A recurring task takes a rolled due date and keeps its file.",
+      statement: "A task holding no rule is marked done and keeps its page.",
     },
     {
       invariantKind: "departure",
-      statement: "A one-off task goes with the progress file beside that task.",
+      statement: "A cumulative task at its cap is marked done rather than rolled.",
     },
     {
       invariantKind: "departure",
-      statement: "A cumulative task at its cap goes rather than rolling.",
+      statement: "A task at its cumulative cap that no completion named is marked done at the end.",
     },
     {
       invariantKind: "departure",
-      statement: "A task at its cumulative cap that no completion named goes at the end.",
+      statement: "A task already marked done is marked done no second time.",
     },
     {
       invariantKind: "departure",
-      statement: "A completion whose timestamp is zero clears the newest line naming the task.",
+      statement: "A completion whose timestamp is zero clears the keys that completion set.",
     },
     {
       invariantKind: "departure",
-      statement: "The days are read newest first.",
+      statement: "The keys a completion touches are read from the page type marked.",
     },
     {
-      invariantKind: "departure",
-      statement: "A day that goes unread clears nothing rather than refusing the whole import.",
+      invariantKind: "absence",
+      statement: "A completion is written nowhere but on the task the completion names.",
     },
     {
       invariantKind: "departure",
@@ -89,6 +85,10 @@ export const watcherImportTasks = {
     {
       invariantKind: "departure",
       statement: "A task stating no recurrence is not rolled.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A task already marked done is not rolled.",
     },
     {
       invariantKind: "departure",

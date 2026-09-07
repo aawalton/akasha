@@ -38,7 +38,8 @@ function textAt(values: TaskValues, key: string): string | null {
 }
 
 export function anchorFor(shape: CompletionShape, values: TaskValues, atMs: number): string | null {
-  if (values[shape.anchorKey] === true) return getEsoDayStr(new Date(atMs))
+  const held = values[shape.anchorKey]
+  if (held === true || held === "true") return getEsoDayStr(new Date(atMs))
   return textAt(values, shape.dueKey)
 }
 
@@ -58,12 +59,13 @@ export function nextDueFor(
   shape: CompletionShape,
   values: TaskValues,
   rule: string,
-  atMs: number
+  atMs: number,
+  nowMs: number = atMs
 ): string | null {
   try {
     const next = advanceRecurrenceDueDate(
       { rrule: rule, dueDate: anchorFor(shape, values, atMs), dueTime: null },
-      new Date(atMs),
+      new Date(nowMs),
       getEsoResetTime
     )
     return next === null ? null : next.dueDate
@@ -75,12 +77,13 @@ export function nextDueFor(
 export function completionValues(
   shape: CompletionShape,
   values: TaskValues,
-  atMs: number
+  atMs: number,
+  nowMs: number = atMs
 ): Readonly<Record<string, string>> {
   const stamp = new Date(atMs).toISOString()
   const rule = textAt(values, shape.recurrenceKey)
   if (rule === null) return { [shape.stampKey]: stamp, [shape.doneKey]: stamp }
-  const due = nextDueFor(shape, values, rule, atMs)
+  const due = nextDueFor(shape, values, rule, atMs, nowMs)
   if (due === null) return { [shape.stampKey]: stamp }
   return { [shape.stampKey]: stamp, [shape.dueKey]: due }
 }

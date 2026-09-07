@@ -30,6 +30,15 @@ export const taskLifecycle = {
     },
     {
       invariantKind: "departure",
+      statement: "An anchor written as the text `true` is read as true.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A completion captured earlier comes round from the clock rather than from itself.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A task holding no rule reads as done from the day of the marking onward.",
     },
     {

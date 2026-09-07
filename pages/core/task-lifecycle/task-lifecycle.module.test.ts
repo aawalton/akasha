@@ -114,6 +114,25 @@ test("taking a completion back clears the key that said it was done", () => {
   })
 })
 
+test("an anchor written as the text true is read as true", () => {
+  const shape = shapeFor("temper-task")
+  expect(anchorFor(shape, { dueDate: "2026-08-01", rruleAnchorFromCompletion: "true" }, AT)).toBe(
+    "2026-09-06"
+  )
+})
+
+test("a completion captured on an earlier day comes round from the clock", () => {
+  const captured = Date.parse("2026-08-01T18:00:00.000Z")
+  const said = completionValues(
+    shapeFor("temper-task"),
+    { dueDate: "2026-07-31", rruleRule: "FREQ=DAILY" },
+    captured,
+    AT
+  )
+  expect(said.dueDate).toBe("2026-09-07")
+  expect(said.lastCompletedAt).toBe("2026-08-01T18:00:00.000Z")
+})
+
 test("a rule that answers no next day leaves the due date alone", () => {
   const said = completionValues(
     shapeFor("to-do"),

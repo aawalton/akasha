@@ -7,12 +7,11 @@ import {
 import {
   applyCompletion,
   clearCompletion,
-  completionValuesFor,
+  completionSet,
   isCompleteForever,
   rolledDueDate,
   runImportTasks,
   seamsReady,
-  type TaskPage,
   tasksByName,
 } from "./watcher-import-tasks.module.code.ts"
 import {
@@ -25,10 +24,12 @@ import {
   landing,
   NO_CLIENT,
   NOW,
+  NOW_ISO,
   ONE_OFF_ID,
   OTHER_DAY_MS,
   RECURRING_ID,
   SAME_DAY_MS,
+  tallying,
   taskOf,
   UNKNOWN_ID,
 } from "./watcher-import-tasks.module.test-fixtures.ts"
@@ -139,36 +140,36 @@ test("no rule and a card that is not cumulative each rule out complete forever",
   ).toBe(false)
 })
 
-test("a completion carries what is true of the completion and makes its own id", () => {
-  const task = taskOf({
-    character: "Aawal",
-    esoCharacterId: "eso-1",
-    dueDate: "2024-03-14",
-    completionCardId: "skill-lines",
-    completionItemPath: ["a", "b"],
-  })
-  expect(completionValuesFor(task, COMPLETED_AT_ISO, COMPLETED_AT_MS, () => "minted-id")).toEqual({
-    id: "minted-id",
+test("a task holding no rule takes the stamp and the key saying it is done", () => {
+  expect(completionSet(taskOf({}), COMPLETED_AT_MS, NOW)).toEqual({
+    lastCompletedAt: COMPLETED_AT_ISO,
     completedAt: COMPLETED_AT_ISO,
-    task: "one-off-task",
-    title: "One Off Task",
-    character: "Aawal",
-    esoCharacterId: "eso-1",
-    dueDate: "2024-03-14",
-    completionCardId: "skill-lines",
-    completionItemPath: ["a", "b"],
   })
 })
 
-test("a task carrying no title files no completion", () => {
-  const task = { id: ONE_OFF_ID, slug: "one-off-task" } as TaskPage
-  expect(() =>
-    completionValuesFor(task, COMPLETED_AT_ISO, COMPLETED_AT_MS, () => "minted-id")
-  ).toThrow("the task one-off-task carries no title")
+test("a task holding a rule takes the stamp and its next due date", () => {
+  const task = taskOf({ rruleRule: "FREQ=DAILY", dueDate: "2024-03-14" })
+  expect(completionSet(task, COMPLETED_AT_MS, NOW)).toEqual({
+    lastCompletedAt: COMPLETED_AT_ISO,
+    dueDate: "2024-03-16",
+  })
 })
 
-test("a completion carrying no instant files nothing", () => {
-  expect(() => completionValuesFor(taskOf({}), COMPLETED_AT_ISO, 0, () => "minted-id")).toThrow(
+test("a task at its cumulative cap takes the key saying it is done rather than a due date", () => {
+  const capped = taskOf({
+    rruleRule: "FREQ=DAILY",
+    completionCardId: "skill-lines",
+    progressCurrent: 16,
+    progressTotal: 16,
+  })
+  expect(completionSet(capped, COMPLETED_AT_MS, NOW)).toEqual({
+    lastCompletedAt: COMPLETED_AT_ISO,
+    completedAt: COMPLETED_AT_ISO,
+  })
+})
+
+test("a completion carrying no instant is refused", async () => {
+  await expect(applyCompletion(taskOf({}), 0, seamsReady(landing()))).rejects.toThrow(
     "carries no instant"
   )
 })
@@ -179,134 +180,66 @@ test("a recurring task already completed on this logical day is skipped", async 
   expect(outcome).toEqual({ action: "skip", reason: "already completed this logical day" })
 })
 
-test("a completion the day already holds is reported as imported before", async () => {
-  const seams = seamsReady(
-    landing({ fileCompletion: async () => ({ outcome: "already", at: "c0" }) })
-  )
-  const outcome = await applyCompletion(taskOf({}), COMPLETED_AT_MS, seams)
-  expect(outcome).toEqual({ action: "skip", reason: "already imported" })
-})
-
-test("a recurring task takes its rolled due date and its completion instant", async () => {
-  const rolls: unknown[] = []
-  const seams = seamsReady(
-    landing({
-      rollTask: async (slug, values, message) => {
-        rolls.push({ slug, values, message })
-        return LANDED
-      },
-    })
-  )
+test("a recurring task takes its rolled due date and its completion instant in one landing", async () => {
+  const it = tallying()
   const task = taskOf({ slug: "recurring-task", rruleRule: "FREQ=DAILY", dueDate: "2024-03-14" })
-  const outcome = await applyCompletion(task, COMPLETED_AT_MS, seams)
-  expect(outcome).toEqual({ action: "completed", recurring: true })
-  expect(rolls).toEqual([
+  const outcome = await applyCompletion(task, COMPLETED_AT_MS, it.seams)
+  expect(outcome).toEqual({ action: "completed", nextDue: "2024-03-16" })
+  expect(it.landed).toEqual([
     {
       slug: "recurring-task",
       values: { lastCompletedAt: COMPLETED_AT_ISO, dueDate: "2024-03-16" },
-      message: `temper: recurring-task was completed at ${COMPLETED_AT_ISO}`,
     },
   ])
 })
 
-test("a one-off task goes with the progress file beside that task", async () => {
-  const taken: unknown[] = []
-  const seams = seamsReady(
-    landing({
-      removeTask: async (slug, beside, message) => {
-        taken.push({ slug, beside, message })
-        return LANDED
-      },
-    })
-  )
-  const outcome = await applyCompletion(taskOf({}), COMPLETED_AT_MS, seams)
-  expect(outcome).toEqual({ action: "completed", recurring: false })
-  expect(taken).toHaveLength(1)
+test("a one-off task is marked done and keeps its page", async () => {
+  const it = await applied({})
+  expect(it.outcome).toEqual({ action: "completed", nextDue: null })
+  expect(it.landed).toEqual([
+    {
+      slug: "one-off-task",
+      values: { lastCompletedAt: COMPLETED_AT_ISO, completedAt: COMPLETED_AT_ISO },
+    },
+  ])
 })
 
-test("a cumulative task at its cap goes rather than rolling", async () => {
-  let rolled = 0
-  let taken = 0
+test("a task that will not take its completion refuses by name", async () => {
   const seams = seamsReady(
-    landing({
-      rollTask: async () => {
-        rolled++
-        return LANDED
-      },
-      removeTask: async () => {
-        taken++
-        return LANDED
-      },
-    })
-  )
-  const at = { rruleRule: "FREQ=DAILY", completionCardId: "skill-lines" }
-  await applyCompletion(
-    taskOf({ ...at, progressCurrent: 16, progressTotal: 16 }),
-    COMPLETED_AT_MS,
-    seams
-  )
-  expect(rolled).toBe(0)
-  expect(taken).toBe(1)
-})
-
-test("a completion the day page refuses names the day page it never reached", async () => {
-  const seams = seamsReady(
-    landing({ fileCompletion: async () => ({ outcome: "refused", why: "the store said no" }) })
-  )
-  await expect(applyCompletion(taskOf({}), COMPLETED_AT_MS, seams)).rejects.toThrow(
-    "temper-completed-day/day-2023-11-14"
-  )
-})
-
-test("a task that will not roll refuses by name", async () => {
-  const seams = seamsReady(
-    landing({ rollTask: async () => ({ outcome: "refused", why: "the store said no" }) })
+    landing({ landTask: async () => ({ outcome: "refused", why: "the store said no" }) })
   )
   const task = taskOf({ slug: "recurring-task", rruleRule: "FREQ=DAILY" })
   await expect(applyCompletion(task, COMPLETED_AT_MS, seams)).rejects.toThrow(
-    "the task recurring-task kept its old due date — the store said no"
+    "the task recurring-task was not marked done — the store said no"
   )
 })
 
-test("the newest day holding a line for the task is the day the line comes off", async () => {
-  const cleared: unknown[] = []
-  const seams = seamsReady(
-    landing({
-      ask: async () => ({
-        rows: [
-          { day: "2024-03-15", completions: [{ id: "other", task: "another-task" }] },
-          {
-            day: "2024-03-14",
-            completions: [
-              { id: "first", task: "one-off-task" },
-              { id: "second", task: "one-off-task" },
-            ],
-          },
-        ],
-      }),
-      clearCompletionLine: async (day, id) => {
-        cleared.push({ day, id })
-        return LANDED
-      },
-    })
-  )
-  expect(await clearCompletion(taskOf({}), seams)).toEqual({ action: "cleared" })
-  expect(cleared).toEqual([{ day: "2024-03-14", id: "second" }])
+test("clearing a completion takes off every key the completion set", async () => {
+  const it = tallying()
+  const task = taskOf({ lastCompletedAt: COMPLETED_AT_ISO, completedAt: COMPLETED_AT_ISO })
+  expect(await clearCompletion(task, it.seams)).toEqual({ action: "cleared" })
+  expect(it.landed).toEqual([
+    { slug: "one-off-task", values: { lastCompletedAt: null, completedAt: null } },
+  ])
 })
 
-test("no day holding a line for the task clears nothing", async () => {
-  const seams = seamsReady(landing({ ask: async () => ({ rows: [] }) }))
-  expect(await clearCompletion(taskOf({}), seams)).toEqual({
+test("a task carrying no completion clears nothing", async () => {
+  const it = tallying()
+  expect(await clearCompletion(taskOf({}), it.seams)).toEqual({
     action: "skip",
     reason: "no completion to clear",
   })
+  expect(it.landed).toEqual([])
 })
 
-test("days that go unread clear nothing and say why", async () => {
-  const seams = seamsReady(landing({ ask: async () => ({ refused: "the pages answered 500" }) }))
-  expect(await clearCompletion(taskOf({}), seams)).toEqual({
+test("a clearing the store refuses says why", async () => {
+  const seams = seamsReady(
+    landing({ landTask: async () => ({ outcome: "refused", why: "the store said no" }) })
+  )
+  const task = taskOf({ lastCompletedAt: COMPLETED_AT_ISO })
+  expect(await clearCompletion(task, seams)).toEqual({
     action: "skip",
-    reason: "the days went unread — the pages answered 500",
+    reason: "the completion did not clear — the store said no",
   })
 })
 
@@ -331,10 +264,16 @@ test("a session carrying no user refuses the import, naming the work", async () 
 test("an import completes what it resolves, clears a zero, and reports the rest unknown", async () => {
   const said: string[] = []
   const errors: string[] = []
-  const cleared: unknown[] = []
+  const landed: { slug: string; values: Readonly<Record<string, unknown>> }[] = []
   const tasks = [
     { id: ONE_OFF_ID, slug: "one-off-task", title: "One Off Task", accountPage: "u1" },
-    { id: RECURRING_ID, slug: "recurring-task", title: "Recurring", accountPage: "u1" },
+    {
+      id: RECURRING_ID,
+      slug: "recurring-task",
+      title: "Recurring",
+      accountPage: "u1",
+      lastCompletedAt: COMPLETED_AT_ISO,
+    },
   ]
   await runImportTasks(
     buildLua([
@@ -345,16 +284,9 @@ test("an import completes what it resolves, clears a zero, and reports the rest 
     NO_CLIENT,
     landing({
       userId: "u1",
-      ask: async (query) =>
-        query.pageTypeSlug === "temper-task"
-          ? { rows: tasks }
-          : {
-              rows: [
-                { day: "2024-03-14", completions: [{ id: "line-1", task: "recurring-task" }] },
-              ],
-            },
-      clearCompletionLine: async (day, id) => {
-        cleared.push({ day, id })
+      ask: async (query) => (query.pageTypeSlug === "temper-task" ? { rows: tasks } : { rows: [] }),
+      landTask: async (slug, values) => {
+        landed.push({ slug, values })
         return LANDED
       },
       report: (message) => said.push(message),
@@ -362,14 +294,20 @@ test("an import completes what it resolves, clears a zero, and reports the rest 
     })
   )
   expect(errors).toEqual([`Task ${UNKNOWN_ID}: no such task, skipping`])
-  expect(cleared).toEqual([{ day: "2024-03-14", id: "line-1" }])
+  expect(landed).toEqual([
+    {
+      slug: "one-off-task",
+      values: { lastCompletedAt: COMPLETED_AT_ISO, completedAt: COMPLETED_AT_ISO },
+    },
+    { slug: "recurring-task", values: { lastCompletedAt: null, completedAt: null } },
+  ])
   expect(said[said.length - 1]).toBe(
     "Task import: 1 completed, 1 cleared, 0 swept, 1 skipped, 0 rolled."
   )
 })
 
-test("a task at its cumulative cap that no completion named is swept away", async () => {
-  const taken: string[] = []
+test("a task at its cumulative cap that no completion named is marked done at the end", async () => {
+  const landed: { slug: string; values: Readonly<Record<string, unknown>> }[] = []
   const said: string[] = []
   const capped = {
     id: RECURRING_ID,
@@ -385,52 +323,66 @@ test("a task at its cumulative cap that no completion named is swept away", asyn
     NO_CLIENT,
     landing({
       userId: "u1",
-      ask: async () => ({ rows: [capped] }),
-      removeTask: async (slug) => {
-        taken.push(slug)
+      ask: async (query) =>
+        query.pageTypeSlug === "temper-task" ? { rows: [capped] } : { rows: [] },
+      landTask: async (slug, values) => {
+        landed.push({ slug, values })
         return LANDED
       },
       report: (message) => said.push(message),
     })
   )
-  expect(taken).toEqual(["cumulative-task"])
+  expect(landed).toEqual([
+    { slug: "cumulative-task", values: { lastCompletedAt: NOW_ISO, completedAt: NOW_ISO } },
+  ])
   expect(said[said.length - 1]).toBe(
     "Task import: 0 completed, 0 cleared, 1 swept, 0 skipped, 0 rolled."
   )
 })
 
+test("a task already marked done is swept no second time", async () => {
+  const landed: unknown[] = []
+  const capped = {
+    id: RECURRING_ID,
+    slug: "cumulative-task",
+    title: "Cumulative",
+    rruleRule: "FREQ=DAILY",
+    completionCardId: "skill-lines",
+    progressCurrent: 16,
+    progressTotal: 16,
+    completedAt: COMPLETED_AT_ISO,
+  }
+  await runImportTasks(
+    buildLua([]),
+    NO_CLIENT,
+    landing({
+      userId: "u1",
+      ask: async (query) =>
+        query.pageTypeSlug === "temper-task" ? { rows: [capped] } : { rows: [] },
+      landTask: async (slug, values) => {
+        landed.push({ slug, values })
+        return LANDED
+      },
+    })
+  )
+  expect(landed).toEqual([])
+})
+
 test("a recurring task completed earlier in this same day is skipped", async () => {
   const it = await applied({ rruleRule: "FREQ=DAILY", lastCompletedAt: SAME_DAY_MS })
   expect(it.outcome).toEqual({ action: "skip", reason: "already completed this logical day" })
-  expect(it.filed).toEqual([])
+  expect(it.landed).toEqual([])
 })
 
 test("a recurring task completed on an earlier day rolls on and stays", async () => {
   const it = await applied({ slug: "r", rruleRule: "FREQ=DAILY", lastCompletedAt: OTHER_DAY_MS })
-  expect(it.rolled).toEqual([
+  expect(it.landed).toEqual([
     { slug: "r", values: { lastCompletedAt: COMPLETED_AT_ISO, dueDate: "2024-03-16" } },
   ])
-  expect(it.filed).toHaveLength(1)
-  expect(it.taken).toEqual([])
-})
-
-test("a one-off task rolls nothing at all and goes with its progress file", async () => {
-  const it = await applied({})
-  expect(it.rolled).toEqual([])
-  expect(it.taken).toHaveLength(1)
-})
-
-test("a completion the day already holds neither rolls nor takes the task", async () => {
-  const it = await applied(
-    { rruleRule: "FREQ=DAILY" },
-    { fileCompletion: async () => ({ outcome: "already", at: "c0" }) }
-  )
-  expect(it.rolled).toEqual([])
-  expect(it.taken).toEqual([])
 })
 
 test("seams the caller leaves out fall back to the real ones", () => {
   const ready = seamsReady()
   expect(typeof ready.now()).toBe("object")
-  expect(typeof ready.mintId()).toBe("string")
+  expect(typeof ready.landTask).toBe("function")
 })

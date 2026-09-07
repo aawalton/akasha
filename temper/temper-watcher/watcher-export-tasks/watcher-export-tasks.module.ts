@@ -19,8 +19,7 @@ export const watcherExportTasks = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "A task is keyed by its pgId where that task has one and by its page id otherwise.",
+      statement: "A task is keyed by its page id.",
     },
     {
       invariantKind: "departure",
@@ -29,6 +28,14 @@ export const watcherExportTasks = {
     {
       invariantKind: "departure",
       statement: "A task row carrying no page id is left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A task already marked done is left out.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The key saying a task is done is read from the page type exported.",
     },
     {
       invariantKind: "departure",

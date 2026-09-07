@@ -2,6 +2,7 @@ import { getPages } from "@akasha/pages-access/get"
 import { collectPages } from "@akasha/pages-access/iterate"
 import { patchPageById } from "@akasha/pages-access/patch"
 import type { Page } from "@akasha/pages-core/page-types"
+import { completionShapeOf, readsAsDone } from "@akasha/pages-core/task-lifecycle"
 import type { CompletionOverride } from "@akasha/temper-player-completion/completion-override"
 import type { ParsedCompletionOverrideRow } from "@akasha/temper-player-completion/completion-override-row"
 import { parseCompletionOverrideRow } from "@akasha/temper-player-completion/completion-override-row"
@@ -95,6 +96,12 @@ export function itemPathAt(
 
 export function taskKey(row: Page): string {
   return row.id
+}
+
+export function stillToDo(row: Page): boolean {
+  const shape = completionShapeOf(TASK_PAGE_TYPE_SLUG)
+  if (shape === null) return true
+  return !readsAsDone(shape, row)
 }
 
 export function taskDataFrom(row: Page, esoCharacterId: string | null): TaskData {
@@ -199,7 +206,7 @@ export async function runExportTasks(
     where: [{ key: "accountPage", eq: userId }],
     pageSize: ROWS_PER_READ,
   })
-  const tasks = rows.filter((row) => typeof row.id === "string")
+  const tasks = rows.filter((row) => typeof row.id === "string" && stillToDo(row))
 
   if (tasks.length === 0) {
     report("No tasks to export.")

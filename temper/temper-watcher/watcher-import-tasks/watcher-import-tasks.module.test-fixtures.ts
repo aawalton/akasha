@@ -30,6 +30,8 @@ export const COMPLETED_AT_ISO = new Date(COMPLETED_AT_MS).toISOString()
 
 export const NOW = new Date("2024-03-15T18:00:00.000Z")
 
+export const NOW_ISO = NOW.toISOString()
+
 export const LANDED = { outcome: "landed", at: "c0" } as const
 
 export function buildLua(entries: ReadonlyArray<{ taskId: string; timestamp: number }>): string {
@@ -63,34 +65,25 @@ export const SAME_DAY_MS = Date.UTC(2023, 10, 14, 18, 0, 0)
 
 export const OTHER_DAY_MS = Date.UTC(2023, 10, 12, 18, 0, 0)
 
+export interface Landing {
+  readonly slug: string
+  readonly values: Readonly<Record<string, unknown>>
+}
+
 export interface Tally {
-  readonly filed: unknown[]
-  readonly rolled: unknown[]
-  readonly taken: unknown[]
+  readonly landed: Landing[]
   readonly seams: ReadySeams
   outcome?: CompletionOutcome
 }
 
 export function tallying(over: ImportTasksOptions = {}): Tally {
-  const filed: unknown[] = []
-  const rolled: unknown[] = []
-  const taken: unknown[] = []
+  const landed: Landing[] = []
   return {
-    filed,
-    rolled,
-    taken,
+    landed,
     seams: seamsReady(
       landing({
-        fileCompletion: async (values) => {
-          filed.push(values)
-          return LANDED
-        },
-        rollTask: async (slug, values) => {
-          rolled.push({ slug, values })
-          return LANDED
-        },
-        removeTask: async (slug, beside) => {
-          taken.push({ slug, beside })
+        landTask: async (slug, values) => {
+          landed.push({ slug, values })
           return LANDED
         },
         ...over,
@@ -111,12 +104,8 @@ export async function applied(
 export function landing(seams: ImportTasksOptions = {}): ImportTasksOptions {
   return {
     now: () => NOW,
-    mintId: () => "minted-id",
     ask: async () => ({ rows: [] }),
-    fileCompletion: async () => LANDED,
-    clearCompletionLine: async () => LANDED,
-    rollTask: async () => LANDED,
-    removeTask: async () => LANDED,
+    landTask: async () => LANDED,
     report: () => undefined,
     reportError: () => undefined,
     ...seams,
