@@ -27,3 +27,18 @@ index 75d26e6785514c10e959a6d4b064b5ac96bb2de0..bfeb208dd5ed1d8c9d7e8f4bfcf2f91b
    expect(uncompletionValues(shapeFor("temper-task"))).toEqual({ lastCompletedAt: null })
  })
  
+diff --git a/pages/core/task-lifecycle/task-lifecycle.module.ts b/pages/core/task-lifecycle/task-lifecycle.module.ts
+index bc1e7d458b96cc07702b02475463a94028045353..ff595c0777c6a727baf819ce206de8872be760ed 100644
+--- a/pages/core/task-lifecycle/task-lifecycle.module.ts
++++ b/pages/core/task-lifecycle/task-lifecycle.module.ts
+@@ -48,6 +48,10 @@ export const taskLifecycle = {
+       invariantKind: "departure",
+       statement: "A rule that will not parse leaves the due date alone.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "Taking a completion back clears every key that completion set.",
++    },
+     {
+       invariantKind: "absence",
+       statement: "Nothing here writes.",
