@@ -1,0 +1,18 @@
+diff --git a/inference/clients/cop-fetch/cop-fetch.module.ts b/inference/clients/cop-fetch/cop-fetch.module.ts
+index a54807fe86e49ba0adfc948d86cc92e7218e9649..5e60bd0c39b94e8747003131cabb97c4cb8fa768 100644
+--- a/inference/clients/cop-fetch/cop-fetch.module.ts
++++ b/inference/clients/cop-fetch/cop-fetch.module.ts
+@@ -13,8 +13,11 @@ export const copFetch = {
+     },
+     {
+       invariantKind: "departure",
+-      statement:
+-        "The runtime's own idle timeout is turned off, so a slow cold model load is waited out.",
++      statement: "The runtime's own idle timeout is turned off.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A slow cold model load is waited out.",
+     },
+   ],
+ } as const satisfies Module
