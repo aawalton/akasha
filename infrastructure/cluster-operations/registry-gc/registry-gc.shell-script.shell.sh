@@ -4,7 +4,7 @@ set -euo pipefail
 
 AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
 
-_DEPLOY_LIB_DIR="${AKASHA_ROOT}/infrastructure/cluster-operations/deploy-functions"
+_DEPLOY_LIB_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../deploy-functions" && pwd)"
 # shellcheck source=../deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
 . "${_DEPLOY_LIB_DIR}/deploy-functions.shell-script.shell.sh"
 CONTAINER_REGISTRY="$(cd "$AKASHA_ROOT" && bun -e 'import { REGISTRY } from "@akasha/workflow-language/images"; process.stdout.write(REGISTRY)')" || die "could not read the registry named by @akasha/workflow-language/images"

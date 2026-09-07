@@ -2,9 +2,7 @@
 
 set -euo pipefail
 
-AKASHA_ROOT="${AKASHA_ROOT:-$HOME/repos/akasha}"
-
-_DEPLOY_LIB_DIR="${AKASHA_ROOT}/infrastructure/cluster-operations/deploy-functions"
+_DEPLOY_LIB_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/../deploy-functions" && pwd)"
 # shellcheck source=../deploy-functions/deploy-functions.shell-script.shell.sh disable=SC1091
 . "${_DEPLOY_LIB_DIR}/deploy-functions.shell-script.shell.sh"
 
