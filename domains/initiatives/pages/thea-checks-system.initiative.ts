@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed the fault from the rule's own grammar, at tree scale too. A patch run is 7.7s of check time. A check's fixed cost is usually the index re-deriving. A big refusal count can be one declaration fault repeated. Clear what the fleet edits weekly. Refusing: comments 3020, two-files 1332, method-sig 307, lint 302, syntax 212, page-matches 202, re-export 74, manifest-names 67, key-names 57, no-tmp 45, package-reached 20. page-property-has-its-file next.",
+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. 36 of 44 run at patch. Seed the fault from the rule's own grammar, at tree scale too. A patch run is ~7s, so a paired run under 100ms is noise. A check's fixed cost is the index re-deriving; ask what is new. A big refusal count can be one declaration fault repeated. Clear what the fleet edits weekly. Await a check in a harness: some are async and read as clean. `akasha apply` lands add-file edits; `patch apply` leaves them. phone-number-is-e164 next.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
