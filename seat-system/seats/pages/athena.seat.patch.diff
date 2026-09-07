@@ -106,16 +106,20 @@ index 557c11700ab41381e4eea39eddae67412ceebea7..7ab9a61f7c7767809088981037c38c8a
    const said = await runChange(worldTold({ slug: null, target: null, found: [] }), { at: AT })
  
 diff --git a/changes/checked/pages/add-property-value/add-property-value.change-checked.ts b/changes/checked/pages/add-property-value/add-property-value.change-checked.ts
-index 6848224210eef643fcccee2a0c8de6ebaf1f045c..075839a87451e9ce9430d300eb1abcdb7f414f52 100644
+index 6848224210eef643fcccee2a0c8de6ebaf1f045c..e64fbd2c35d8d1a574697dc789f8282b34690abb 100644
 --- a/changes/checked/pages/add-property-value/add-property-value.change-checked.ts
 +++ b/changes/checked/pages/add-property-value/add-property-value.change-checked.ts
-@@ -32,6 +32,10 @@ export const addPropertyValue = {
+@@ -32,6 +32,14 @@ export const addPropertyValue = {
        invariantKind: "departure",
        statement: "Putting the value in is left to the mechanical change of the same name.",
      },
 +    {
 +      invariantKind: "departure",
-+      statement: "`after` is handed on where it is stated and left out where it is not.",
++      statement: "`after` is handed on where the caller states `after`.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "`after` is left out where the caller states no `after`.",
 +    },
      {
        invariantKind: "departure",
