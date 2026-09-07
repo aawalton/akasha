@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/editor-extension/status-bar-drawing/status-bar-drawing.module.ts b/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
+index 6400bb83e51439c574264088feb2bf48eeedd556..af179c5b99960df9566b83afb0165351501369d7 100644
+--- a/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
++++ b/editor-extension/status-bar-drawing/status-bar-drawing.module.ts
+@@ -21,7 +21,7 @@ export const statusBarDrawing = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A stale slot says in its tooltip since when that slot has been stale.",
++      statement: "A stale slot says in its tooltip how long that slot has been stale.",
+     },
+     {
+       invariantKind: "departure",
