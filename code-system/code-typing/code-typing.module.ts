@@ -152,6 +152,10 @@ export const codeTyping = {
     },
     {
       invariantKind: "departure",
+      statement: "A real path is worked out from the placement before the link on disk is read.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A link is followed whether or not a file is there to follow that link to.",
     },
     {

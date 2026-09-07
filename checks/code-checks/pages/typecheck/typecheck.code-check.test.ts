@@ -20,6 +20,7 @@ import {
 import {
   across,
   basing,
+  breaking,
   CHAINED,
   calling,
   change,
@@ -36,6 +37,8 @@ import {
   IMPORTS_TYPEGEN,
   LOADED_AT,
   MADE,
+  moving,
+  noting,
   numbered,
   ONE_NUMBER,
   packaging,
@@ -43,9 +46,10 @@ import {
   READER_AT,
   reading,
   scratch,
-  staged,
   THING_AT,
   TWO_BREAKS,
+  twinned,
+  unreached,
   WHOLE,
   WITHOUT,
   WRONG,
@@ -194,7 +198,7 @@ test("a proposed body whose type does not hold is refused, and names the line", 
 })
 
 test("a proposed body that fixes what stands on disk is judged clean, so the change is what is read", async () => {
-  const root = staged({ "akasha/one.ts": TWO_BREAKS })
+  const root = breaking()
   expect(await over(root, "akasha/one.ts", ONE_NUMBER)).toEqual([])
   expect(await over(root, "akasha/one.ts", null)).toEqual([])
 })
@@ -238,7 +242,7 @@ test("a file the change takes away is gone for the compiler, so a file still imp
 })
 
 test("a file the change takes away answers for none of its own diagnostics", async () => {
-  const root = staged({ "akasha/one.ts": TWO_BREAKS })
+  const root = breaking()
   expect(await over(root, "akasha/one.ts", null)).toEqual([])
 })
 
@@ -284,7 +288,7 @@ test("a file that is not TypeScript is passed over, and one in any folder under 
 })
 
 test("a folder holding no TypeScript is judged clean without a program being built", async () => {
-  const root = staged({ "akasha/notes.txt": "nothing to compile\n" })
+  const root = noting()
   expect(await judged(change(root, { "akasha/notes.txt": "still nothing\n" }))).toEqual([])
 })
 
@@ -301,10 +305,7 @@ test("the files compiled are the change and everything importing it, however far
 })
 
 test("a file nothing in the change reaches is not compiled, so its standing errors are not this change's", async () => {
-  const root = staged({
-    "akasha/broken.ts": "export const one: string = 1\n",
-    "akasha/apart.ts": "export const apart = 1\n",
-  })
+  const root = unreached()
   expect(await judged(change(root, { "akasha/apart.ts": "export const apart = 2\n" }))).toEqual([])
 })
 
@@ -325,10 +326,7 @@ test("a shadow asked for a change reaches the importers the change itself reache
 })
 
 test("an index standing and naming no importer is an answer, so the change alone is compiled", () => {
-  const root = staged({
-    "akasha/one.ts": "export const one = 1\n",
-    "akasha/two.ts": "export const two = 2\n",
-  })
+  const root = twinned()
   expect(reached(change(root, { "akasha/one.ts": "export const one = 2\n" }))).toEqual([
     "akasha/one.ts",
   ])
@@ -380,4 +378,8 @@ test("a way in that manifest does not name is refused, so not every specifier re
   expect(said).toHaveLength(1)
   expect(said[0]?.path).toBe(READER_AT)
   expect(said[0]?.reason).toContain("TS2307")
+})
+
+test("a moved package is judged where it lands rather than where the link points", async () => {
+  expect(await judged(moving())).toEqual([])
 })

@@ -143,7 +143,11 @@ function hostOver(
   return {
     ...base,
     getCurrentDirectory: () => root,
-    realpath: (path) => linkedOf(root, resolve(base.realpath?.(path) ?? path), placed),
+    realpath: (path) => {
+      const one = resolve(path)
+      const said = linkedOf(root, one, placed)
+      return said === one ? resolve(base.realpath?.(one) ?? one) : said
+    },
     fileExists: (path) =>
       servedOf(root, resolve(path), placed) === null
         ? ts.sys.fileExists(path)
@@ -166,13 +170,9 @@ export function readingOf(root: string, textOf: Bodies, placed: Placing): Readin
   return (at) => {
     const full = linkedOf(root, resolve(at), placed)
     const rel = insideOf(root, full)
-    if (rel !== null) {
-      const text = textOf(rel)
-      return text === null ? undefined : text
-    }
+    if (rel !== null) return textOf(rel) ?? undefined
     const named = manifestOf(root, full, placed)
-    if (named === null) return ts.sys.readFile(at)
-    return textOf(named) ?? ts.sys.readFile(at)
+    return (named === null ? null : textOf(named)) ?? ts.sys.readFile(at)
   }
 }
 

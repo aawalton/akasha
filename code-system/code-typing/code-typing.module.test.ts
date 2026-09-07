@@ -14,7 +14,6 @@ import {
   manifestOf,
   NOWHERE,
   namingOf,
-  placingOver,
   readingOf,
   referencesOf,
   servedOf,
@@ -25,17 +24,17 @@ import {
   linked,
   MANIFEST,
   MANIFEST_AT,
+  MOVED_AT,
+  moving,
   PACKAGED,
+  placing,
   scratch,
+  TWO,
+  TWO_AT,
   typed,
-  unlinked,
 } from "./code-typing.module.test-fixtures.ts"
 
 afterAll(scratch.sweep)
-
-const TWO_AT = "akasha/one/two.module.code.ts"
-
-const TWO = "export const two = 2\n"
 
 test("a body reached through the packages folder is served from inside the akasha folder", () => {
   const root = linked({ [MANIFEST_AT]: MANIFEST }, "one")
@@ -53,15 +52,20 @@ test("a body the change brings is served through the packages folder though no d
 })
 
 test("a package a manifest places is reached there though no link points at it", () => {
-  const root = unlinked({ [MANIFEST_AT]: MANIFEST })
-  const placed = placingOver([MANIFEST_AT], () => MANIFEST)
-  const at = join(root, PACKAGED, "one/package.json")
-  const read = readingOf(root, (rel) => (rel === TWO_AT ? TWO : null), placed)
+  const { root, placed, at, read } = placing()
 
   expect(servedOf(root, at, NOWHERE)).toBe(null)
   expect(servedOf(root, at, placed)).toBe(MANIFEST_AT)
   expect(read(join(root, PACKAGED, "one/two.module.code.ts"))).toBe(TWO)
   expect(linkedOf(root, join(root, PACKAGED, "one"), placed)).toBe(join(root, "akasha/one"))
+})
+
+test("a moved package is reached where it lands rather than where the link points", () => {
+  const { root, placed, at, read } = moving()
+
+  expect(servedOf(root, at, NOWHERE)).toBe(MANIFEST_AT)
+  expect(servedOf(root, at, placed)).toBe(MOVED_AT)
+  expect(read(join(root, PACKAGED, "one/two.module.code.ts"))).toBe(TWO)
 })
 
 test("a body the change takes away reads as nothing through the packages folder", () => {

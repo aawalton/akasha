@@ -1,4 +1,4 @@
-import { mkdirSync, readFileSync, writeFileSync } from "node:fs"
+import { mkdirSync, readFileSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
 import { importEdge } from "@akasha/graph/import-edge"
@@ -311,19 +311,68 @@ export function numbered(): string {
   return staged({ "akasha/one.ts": ONE_NUMBER })
 }
 
+export function breaking(): string {
+  return staged({ "akasha/one.ts": TWO_BREAKS })
+}
+
+export function noting(): string {
+  return staged({ "akasha/notes.txt": "nothing to compile\n" })
+}
+
+export function unreached(): string {
+  return staged({
+    "akasha/broken.ts": "export const one: string = 1\n",
+    "akasha/apart.ts": "export const apart = 1\n",
+  })
+}
+
+export function twinned(): string {
+  return staged({
+    "akasha/one.ts": "export const one = 1\n",
+    "akasha/two.ts": "export const two = 2\n",
+  })
+}
+
 export const READER_AT = "akasha/reader.ts"
 
 const PACKAGE_AT = "akasha/persons/package.json"
 
 const PACKAGE_CODE_AT = "akasha/persons/persons.module.code.ts"
 
+const PACKAGE_FOLDER = "akasha/persons"
+
+const PACKAGES_AT = "node_modules/@akasha"
+
+const MOVED_AT = "akasha/people/package.json"
+
+const MOVED_CODE_AT = "akasha/people/persons.module.code.ts"
+
+const PERSONS = "export const persons = 1\n"
+
 const PACKAGE_MANIFEST =
   '{ "name": "@akasha/persons", "exports": { ".": "./persons.module.code.ts" } }\n'
+
+function readsFrom(specifier: string): string {
+  return `import { persons } from "${specifier}"\n\nexport const said = persons\n`
+}
 
 export function packaging(specifier: string): Readonly<Record<string, string>> {
   return {
     [PACKAGE_AT]: PACKAGE_MANIFEST,
-    [PACKAGE_CODE_AT]: "export const persons = 1\n",
-    [READER_AT]: `import { persons } from "${specifier}"\n\nexport const said = persons\n`,
+    [PACKAGE_CODE_AT]: PERSONS,
+    [READER_AT]: readsFrom(specifier),
   }
+}
+
+export function moving(): Change {
+  const root = staged(packaging("@akasha/persons"))
+  mkdirSync(join(root, PACKAGES_AT), { recursive: true })
+  symlinkSync(join(root, PACKAGE_FOLDER), join(root, PACKAGES_AT, "persons"))
+  return change(root, {
+    [PACKAGE_AT]: null,
+    [PACKAGE_CODE_AT]: null,
+    [MOVED_AT]: PACKAGE_MANIFEST,
+    [MOVED_CODE_AT]: PERSONS,
+    [READER_AT]: readsFrom("@akasha/persons"),
+  })
 }

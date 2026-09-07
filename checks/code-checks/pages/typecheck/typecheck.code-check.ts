@@ -162,6 +162,15 @@ export const typecheck = {
     },
     {
       invariantKind: "departure",
+      statement: "A package the change moves is judged where that change lands the package.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "The compiler is told a package's real path from the placement rather than from the link.",
+    },
+    {
+      invariantKind: "departure",
       statement: "A manifest the change carries reaches the files its ways in name.",
     },
     {

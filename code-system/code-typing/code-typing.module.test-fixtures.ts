@@ -1,14 +1,22 @@
 import { mkdirSync, readFileSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "@akasha/command-system/scratching"
-import type { Typing } from "./code-typing.module.code.ts"
-import { insideOf, placingOver, typingOver } from "./code-typing.module.code.ts"
+import type { Placing, Reading, Typing } from "./code-typing.module.code.ts"
+import { insideOf, placingOver, readingOf, typingOver } from "./code-typing.module.code.ts"
 
 export const PACKAGED = "node_modules/@akasha"
 
 export const MANIFEST = '{ "name": "@akasha/one" }\n'
 
 export const MANIFEST_AT = "akasha/one/package.json"
+
+export const TWO = "export const two = 2\n"
+
+export const TWO_AT = "akasha/one/two.module.code.ts"
+
+export const MOVED_AT = "akasha/two/package.json"
+
+const MOVED_TWO_AT = "akasha/two/two.module.code.ts"
 
 export const KEYS_SAID =
   "export function heldOf(said: readonly string[]): Held {\n  return { keyed: said }\n}\n"
@@ -64,4 +72,33 @@ export function unlinked(said: Readonly<Record<string, string>>): string {
   wrote(root, said)
   mkdirSync(join(root, PACKAGED), { recursive: true })
   return root
+}
+
+export type Moved = {
+  root: string
+  placed: Placing
+  at: string
+  read: Reading
+}
+
+export function placing(): Moved {
+  const root = unlinked({ [MANIFEST_AT]: MANIFEST })
+  const placed = placingOver([MANIFEST_AT], () => MANIFEST)
+  return {
+    root,
+    placed,
+    at: join(root, PACKAGED, "one/package.json"),
+    read: readingOf(root, (rel) => (rel === TWO_AT ? TWO : null), placed),
+  }
+}
+
+export function moving(): Moved {
+  const root = linked({ [MANIFEST_AT]: MANIFEST, [TWO_AT]: TWO }, "one")
+  const placed = placingOver([MOVED_AT], () => MANIFEST)
+  return {
+    root,
+    placed,
+    at: join(root, PACKAGED, "one/package.json"),
+    read: readingOf(root, (rel) => (rel === MOVED_TWO_AT ? TWO : null), placed),
+  }
 }

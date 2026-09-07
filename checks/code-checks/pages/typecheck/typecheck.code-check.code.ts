@@ -208,6 +208,14 @@ export function existingOf(
   }
 }
 
+export function realOver(root: string, placed: Placing): (path: string) => string | undefined {
+  return (path) => {
+    const one = resolve(path)
+    const said = linkedOf(root, one, placed)
+    return said === one ? undefined : said
+  }
+}
+
 export function foldersIn(
   root: string,
   named: readonly string[],
@@ -280,6 +288,7 @@ export async function foundIn(change: Change, shadow: Shadow): Promise<readonly 
       readFile,
       fileExists: existingOf(readFile),
       directoryExists: foldersIn(root, named, placed),
+      realpath: realOver(root, placed),
     },
   })
   try {
