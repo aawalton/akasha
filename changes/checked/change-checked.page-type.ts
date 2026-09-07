@@ -29,6 +29,7 @@ export const changeChecked = {
     "change-checked/change-domain-parent",
     "change-checked/remove-package-alias",
     "change-checked/move-folder",
+    "change-checked/move-folder-package",
   ],
   invariants: [
     {
