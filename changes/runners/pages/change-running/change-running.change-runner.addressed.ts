@@ -8,6 +8,9 @@ export type Changes = {
   "change-checked/change-page-page-type": Parameters<
     typeof import("../../../checked/pages/change-page-page-type/change-page-page-type.change-checked.code.ts")["runChange"]
   >[1]
+  "change-checked/change-page-property": Parameters<
+    typeof import("../../../checked/pages/change-page-property/change-page-property.change-checked.code.ts")["runChange"]
+  >[1]
   "change-checked/move-page": Parameters<
     typeof import("../../../checked/pages/move-page/move-page.change-checked.code.ts")["runChange"]
   >[1]
@@ -31,6 +34,9 @@ export type Changes = {
   >[1]
   "change-mechanical/change-page-property": Parameters<
     typeof import("../../../mechanical/pages/change-page-property/change-page-property.change-mechanical.code.ts")["runChange"]
+  >[1]
+  "change-mechanical/change-page-property-relation": Parameters<
+    typeof import("../../../mechanical/pages/change-page-property-relation/change-page-property-relation.change-mechanical.code.ts")["runChange"]
   >[1]
   "change-mechanical/move-file": Parameters<
     typeof import("../../../mechanical/pages/move-file/move-file.change-mechanical.code.ts")["runChange"]

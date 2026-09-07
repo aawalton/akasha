@@ -16,6 +16,7 @@ export const changeChecked = {
   extendsSlug: ["page-type/change"],
   partSlugs: [
     "change-checked/change-page-page-type",
+    "change-checked/change-page-property",
     "change-checked/move-page",
     "change-checked/remove-page",
     "change-checked/remove-page-type",
