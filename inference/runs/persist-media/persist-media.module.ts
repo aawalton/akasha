@@ -9,8 +9,11 @@ export const persistMedia = {
   invariants: [
     {
       invariantKind: "departure",
-      statement:
-        "The page lands before its bytes are published, so the bytes have an identity to go under.",
+      statement: "The page lands before its bytes are published.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The bytes have an identity to go under.",
     },
     {
       invariantKind: "departure",
