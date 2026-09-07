@@ -18,7 +18,11 @@ export const memoryReaperPlan = {
     },
     {
       invariantKind: "departure",
-      statement: "A tree holding more than one seat is refused, the ceiling answering one seat.",
+      statement: "A tree holding more than one seat is refused.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The ceiling answers one seat.",
     },
     {
       invariantKind: "departure",
