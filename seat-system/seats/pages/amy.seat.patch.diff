@@ -1,0 +1,15 @@
+diff --git a/pages/ui/components/property-badge/property-badge.module.code.tsx b/pages/ui/components/property-badge/property-badge.module.code.tsx
+index e7fccd4b56271c8d7a5ad1308bd9cba765355a1c..a895cf46d1d121817d59f604bf904f22f7014718 100644
+--- a/pages/ui/components/property-badge/property-badge.module.code.tsx
++++ b/pages/ui/components/property-badge/property-badge.module.code.tsx
+@@ -67,7 +67,9 @@ export function PropertyBadge(props: PropertyBadgeProps) {
+   const layout = layoutForContext(context)
+   const rawIcon = property.config?.icon
+   const icon = typeof rawIcon === "string" && rawIcon !== "" ? <Icon name={rawIcon} /> : undefined
+-  const Component = PROPERTY_BADGE_REGISTRY[property.type]
++  const Component: ComponentType<PropertyBadgeProps> | undefined =
++    PROPERTY_BADGE_REGISTRY[property.type]
++  if (Component === undefined) return null
+   const lookup = (type: PropertyType) => PROPERTY_BADGE_REGISTRY[type]
+   return (
+     <BadgeLayoutProvider
