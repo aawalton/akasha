@@ -17,3 +17,15 @@ index 4cb9af754b44d9c8f1f9658d94c2680ee764ee6c..c17f2924b727aebcaa4bd8279049caab
  	. "$HOME/.bashrc"
      fi
  fi
+diff --git a/machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh b/machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh
+index db4063ae45e83d7963da71092a15f353b4915916..aed146fba8ab93b7ae6ea8ff521675b73a203696 100644
+--- a/machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh
++++ b/machines/provisioning/scripts/repo-roots/repo-roots.shell-script.shell.sh
+@@ -8,6 +8,7 @@ if [ ! -f "$_rr_own/akasha.domain.ts" ]; then
+   printf 'repo-roots: derived %s, which holds no akasha.domain.ts, so it is not an akasha checkout\n' \
+     "$_rr_own" >&2
+   unset _rr_self _rr_own _rr_beside
++  # shellcheck disable=SC2317
+   return 1 2>/dev/null || exit 1
+ fi
+ 
