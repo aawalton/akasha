@@ -1,7 +1,7 @@
 writerOwesReading: false
 readersOweReading: false
 diff --git a/checks/code-checks/pages/no-re-export/no-re-export.code-check.code.ts b/checks/code-checks/pages/no-re-export/no-re-export.code-check.code.ts
-index ce17ffba94aef04b37b69ed9e2eb7b5ec7c5f8f4..d548a15bac1aec4e6ed5678befa1b31c82507810 100644
+index ce17ffba94aef04b37b69ed9e2eb7b5ec7c5f8f4..45371dfbec1aa00b424024841ff3b5ca7180cf51 100644
 --- a/checks/code-checks/pages/no-re-export/no-re-export.code-check.code.ts
 +++ b/checks/code-checks/pages/no-re-export/no-re-export.code-check.code.ts
 @@ -16,17 +16,22 @@ type Found = {
@@ -22,6 +22,46 @@ index ce17ffba94aef04b37b69ed9e2eb7b5ec7c5f8f4..d548a15bac1aec4e6ed5678befa1b31c
 +    if (bound === undefined) return
      if (ts.isNamespaceImport(bound)) found.set(bound.name.text, at)
      else for (const each of bound.elements) found.set(each.name.text, at)
+   }
++  const held = (one: ts.Node): undefined => {
++    took(one)
++    ts.forEachChild(one, held)
++  }
++  ts.forEachChild(source, held)
+   return found
+ }
+ 
+@@ -44,26 +49,32 @@ export function reExportsIn(at: string, text: string): readonly Found[] {
+   const source = parsedAs(at, text)
+   const came = cameIn(source)
+   const found: Found[] = []
+-  for (const one of source.statements) {
+-    const line = lineOf(source, one)
++  const took = (one: ts.Node): undefined => {
+     if (ts.isExportAssignment(one) && ts.isIdentifier(one.expression)) {
+       const from = came.get(one.expression.text)
+-      if (from !== undefined) found.push({ named: one.expression.text, line, from })
+-      continue
++      if (from === undefined) return
++      found.push({ named: one.expression.text, line: lineOf(source, one), from })
++      return
+     }
+-    if (!ts.isExportDeclaration(one)) continue
++    if (!ts.isExportDeclaration(one)) return
++    const line = lineOf(source, one)
+     const said = one.moduleSpecifier
+     if (said !== undefined && ts.isStringLiteral(said)) {
+       found.push(...sentOn(one.exportClause, said.text, line))
+-      continue
++      return
+     }
+     const clause = one.exportClause
+-    if (clause === undefined || !ts.isNamedExports(clause)) continue
++    if (clause === undefined || !ts.isNamedExports(clause)) return
+     for (const each of clause.elements) {
+       const from = came.get((each.propertyName ?? each.name).text)
+       if (from !== undefined) found.push({ named: each.name.text, line, from })
+     }
    }
 +  const held = (one: ts.Node): undefined => {
 +    took(one)
