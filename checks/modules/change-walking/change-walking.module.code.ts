@@ -1,4 +1,3 @@
-import { spawnSync } from "node:child_process"
 import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import { everyPath } from "@akasha/indexes"
@@ -9,6 +8,8 @@ import { pageNamed, partedIn, uncommittedHeld } from "@akasha/pages/page-file-na
 import { type Loaded, loadedFrom } from "@akasha/pages/page-value"
 import type { Shadow } from "@akasha/pages/shadow"
 import { isMissing } from "@akasha/utils-fs/missing"
+import { sortedOnce } from "@akasha/utils-narrow/sorted-once"
+import { ran } from "@akasha/utils-run/running"
 import type { Judged, Running, RunningAsync } from "../judging/judging.module.code.ts"
 
 export type Body = {
@@ -228,32 +229,28 @@ export function overEachFile(
   return said
 }
 
-function filedOnce(paths: readonly string[]): readonly string[] {
-  return [...new Set(paths)].sort()
+export function everyFileIn(given: Reading): readonly string[] {
+  return sortedOnce(everyPath(given))
 }
 
-export function everyFileIn(given: Reading): readonly string[] {
-  return filedOnce(everyPath(given))
-}
+const EVERY_PATH = new WeakMap<Answering, readonly string[]>()
 
 export function everyFileOf(index: Answering): readonly string[] {
-  return filedOnce(index.everyPath())
+  const found = EVERY_PATH.get(index)
+  if (found !== undefined) return found
+  const made = sortedOnce(index.everyPath())
+  EVERY_PATH.set(index, made)
+  return made
 }
-
-const WALK_CEILING = 512 * 1024 * 1024
 
 const VENDORED = "node_modules"
 
 function walked(root: string, asked: readonly string[]): readonly string[] {
-  const ran = spawnSync("git", ["-C", root, "ls-files", "-z", "--exclude-standard", ...asked], {
-    encoding: "utf-8",
-    maxBuffer: WALK_CEILING,
-  })
-  if (ran.error !== undefined) throw ran.error
-  if (ran.status !== 0) {
-    throw new Error(`the tree at ${root} could not be walked — ${ran.stderr.trim()}`)
+  const done = ran(["git", "-C", root, "ls-files", "-z", "--exclude-standard", ...asked])
+  if (done.code !== 0) {
+    throw new Error(`the tree at ${root} could not be walked — ${done.err.trim()}`)
   }
-  return ran.stdout.split("\0").filter((one) => one !== "")
+  return done.out.split("\0").filter((one) => one !== "")
 }
 
 function heldThough(path: string): boolean {
@@ -263,7 +260,7 @@ function heldThough(path: string): boolean {
 function everyFileInside(root: string): readonly string[] {
   const kept = walked(root, ["--cached", "--others"])
   const held = walked(root, ["--others", "--ignored"]).filter(heldThough)
-  return filedOnce([...kept, ...held])
+  return sortedOnce([...kept, ...held])
 }
 
 export function everythingIn(root: string): Change {

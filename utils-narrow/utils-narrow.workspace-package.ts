@@ -38,6 +38,7 @@ export const utilsNarrow = {
     "module/require-match",
     "module/require-match-positional",
     "module/require-only",
+    "module/sorted-once",
     "module/string-at",
     "module/text-at",
   ],

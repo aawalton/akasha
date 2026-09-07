@@ -514,6 +514,8 @@
         "@akasha/dockerfiles": "workspace:*",
         "@akasha/k8s-synth": "workspace:*",
         "@akasha/temper-addons-resolve": "workspace:*",
+        "@akasha/utils-narrow": "workspace:*",
+        "@akasha/utils-run": "workspace:*",
         "@akasha/workspace-paths": "workspace:*",
         "typescript": "5.9.3",
         "yaml": "^2.8.1",

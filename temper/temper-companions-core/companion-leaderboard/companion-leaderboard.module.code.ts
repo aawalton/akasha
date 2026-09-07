@@ -1,3 +1,4 @@
+import { sortedOnce } from "@akasha/utils-narrow/sorted-once"
 import { companionBaseRoles } from "../companion-base-roles/companion-base-roles.module.code.ts"
 import { evaluate } from "../companion-optimizer/companion-optimizer.module.code.ts"
 import { calculateCompanionStats } from "../companion-stats-calculator/companion-stats-calculator.module.code.ts"
@@ -33,7 +34,7 @@ export function getBuildScore(buildData: CompanionState): number {
 const DISPLAY_ROLE_ORDER: readonly string[] = companionBaseRoles.ids
 
 export function mapBaseRolesToDisplayRoles(baseRoles: readonly string[]): readonly string[] {
-  return [...new Set(baseRoles)].sort()
+  return sortedOnce(baseRoles)
 }
 
 export function displayRoleComboKey(displayRoles: readonly string[]): string {
