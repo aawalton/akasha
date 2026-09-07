@@ -1,0 +1,98 @@
+writerOwesReading: false
+diff --git a/changes/modules/change-shadow/change-shadow.module.code.ts b/changes/modules/change-shadow/change-shadow.module.code.ts
+index 60f9bcdebfc0bf8725427cf584c4a80d2a798a1a..b25f168c26662de36d3562d6d3fc4a2a8f524588 100644
+--- a/changes/modules/change-shadow/change-shadow.module.code.ts
++++ b/changes/modules/change-shadow/change-shadow.module.code.ts
+@@ -92,11 +92,13 @@ export function worldAt(
+ export function worldOver(world: World, said: Answer): World {
+   const held = bodiesIn(said)
+   const index = shadowAsked(changeOver(world.root, said)).index
++  const over = gathered([world.over, said])
++  if (over.refused !== null) throw new Error(over.refused)
+   return {
+     root: world.root,
+     index,
+     textOf: (path) => (held.has(path) ? (held.get(path) ?? null) : world.textOf(path)),
+-    over: gathered([world.over, said]),
++    over,
+     reaching: world.reaching,
+   }
+ }
+@@ -172,6 +174,11 @@ export function addedTo(ledger: Ledger, said: Answer): Ledger {
+   const kept = ledger.kept
+   const fresh = said.edits.filter((one) => !statedIn(kept, one))
+   if (fresh.length === 0) return ledger
++  const held = { edits: fresh, refused: null }
++  const over = gathered([kept.over, held])
++  if (over.refused !== null) throw new Error(over.refused)
++  const settling = gathered([kept.fresh, held])
++  if (settling.refused !== null) throw new Error(settling.refused)
+   for (const one of fresh) {
+     const before = kept.stated.get(one.path)
+     if (before === undefined) kept.stated.set(one.path, [one])
+@@ -179,9 +186,8 @@ export function addedTo(ledger: Ledger, said: Answer): Ledger {
+     if (one.from !== undefined) kept.bodies.set(one.from, null)
+   }
+   for (const one of fresh) kept.bodies.set(one.path, one.body)
+-  const held = { edits: fresh, refused: null }
+-  kept.over = gathered([kept.over, held])
+-  kept.fresh = gathered([kept.fresh, held])
++  kept.over = over
++  kept.fresh = settling
+   kept.index = null
+   return ledger
+ }
+diff --git a/changes/modules/change-shadow/change-shadow.module.test.ts b/changes/modules/change-shadow/change-shadow.module.test.ts
+index 67386459437c846d1bba31706d6f6404d7fc9a94..266f14947a32acd38304d76adc7cf06f6db543ce 100644
+--- a/changes/modules/change-shadow/change-shadow.module.test.ts
++++ b/changes/modules/change-shadow/change-shadow.module.test.ts
+@@ -301,6 +301,29 @@ test("a path an earlier reach took away is refused rather than taken away twice"
+   expect(gathered([first.said, twice.said])).toEqual(first.said)
+ })
+ 
++const ANSWERED_TWICE = "is answered twice"
++
++test("a gather refusing where an edit is added throws and leaves the ledger as it was", () => {
++  const ledger = ledgerIn(indexedRepo())
++  addedTo(ledger, answered([writing(AT, null, "one\n")]))
++
++  expect(() => addedTo(ledger, answered([writing(AT, "other\n", "two\n")]))).toThrow(ANSWERED_TWICE)
++
++  expect(ledger.over.edits).toEqual([{ path: AT, was: null, body: "one\n" }])
++  expect(ledger.kept.stated.get(AT)).toHaveLength(1)
++  expect(ledger.textOf(AT)).toBe("one\n")
++})
++
++test("a gather refusing where a world is built over an answer throws rather than answering", () => {
++  const world = worldOver(worldIn(indexedRepo()), answered([writing(AT, null, "one\n")]))
++
++  expect(() => worldOver(world, answered([writing(AT, "other\n", "two\n")]))).toThrow(
++    ANSWERED_TWICE
++  )
++
++  expect(world.over.edits).toEqual([{ path: AT, was: null, body: "one\n" }])
++})
++
+ test("a reach inside a change states an edit the reach around that change states again", async () => {
+   const root = indexedRepo()
+   const around = "change-mechanical-file/add-file-around"
+diff --git a/changes/modules/change-shadow/change-shadow.module.ts b/changes/modules/change-shadow/change-shadow.module.ts
+index 075fde4e3f605c0deba322e06b205e42ce2761f0..730f3636dd15619d9ee66fe0479abc89d6978c4a 100644
+--- a/changes/modules/change-shadow/change-shadow.module.ts
++++ b/changes/modules/change-shadow/change-shadow.module.ts
+@@ -146,6 +146,15 @@ export const changeShadow = {
+       invariantKind: "departure",
+       statement: "A reach that refuses adds nothing to the ledger.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A gather that refuses throws rather than being read as an answer holding no edit.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A ledger a gather refused holds the edits that ledger held before.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A ledger adds an edit that ledger already added no second time.",
