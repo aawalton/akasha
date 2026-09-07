@@ -1,3 +1,116 @@
+diff --git a/bun.lock b/bun.lock
+index bab94f396637d954caed807bcb0204ee8cfd7106..0062bf7197e8d5e9ffda20dae06f0529c2f4df19 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -514,6 +514,8 @@
+         "@akasha/dockerfiles": "workspace:*",
+         "@akasha/k8s-synth": "workspace:*",
+         "@akasha/temper-addons-resolve": "workspace:*",
++        "@akasha/utils-narrow": "workspace:*",
++        "@akasha/utils-run": "workspace:*",
+         "@akasha/workspace-paths": "workspace:*",
+         "typescript": "5.9.3",
+         "yaml": "^2.8.1",
+diff --git a/checks/modules/change-walking/change-walking.module.code.ts b/checks/modules/change-walking/change-walking.module.code.ts
+index 7a33d3424db8c036f4d8be6aeaa1f756478c141a..4144e1e8c887ff3c2bfe3e7b3a241474716ef7e0 100644
+--- a/checks/modules/change-walking/change-walking.module.code.ts
++++ b/checks/modules/change-walking/change-walking.module.code.ts
+@@ -1,4 +1,3 @@
+-import { spawnSync } from "node:child_process"
+ import { readFileSync } from "node:fs"
+ import { join } from "node:path"
+ import { everyPath } from "@akasha/indexes"
+@@ -9,6 +8,8 @@ import { pageNamed, partedIn, uncommittedHeld } from "@akasha/pages/page-file-na
+ import { type Loaded, loadedFrom } from "@akasha/pages/page-value"
+ import type { Shadow } from "@akasha/pages/shadow"
+ import { isMissing } from "@akasha/utils-fs/missing"
++import { sortedOnce } from "@akasha/utils-narrow/sorted-once"
++import { ran } from "@akasha/utils-run/running"
+ import type { Judged, Running, RunningAsync } from "../judging/judging.module.code.ts"
+ 
+ export type Body = {
+@@ -228,32 +229,28 @@ export function overEachFile(
+   return said
+ }
+ 
+-function filedOnce(paths: readonly string[]): readonly string[] {
+-  return [...new Set(paths)].sort()
+-}
+-
+ export function everyFileIn(given: Reading): readonly string[] {
+-  return filedOnce(everyPath(given))
++  return sortedOnce(everyPath(given))
+ }
+ 
++const EVERY_PATH = new WeakMap<Answering, readonly string[]>()
++
+ export function everyFileOf(index: Answering): readonly string[] {
+-  return filedOnce(index.everyPath())
++  const found = EVERY_PATH.get(index)
++  if (found !== undefined) return found
++  const made = sortedOnce(index.everyPath())
++  EVERY_PATH.set(index, made)
++  return made
+ }
+ 
+-const WALK_CEILING = 512 * 1024 * 1024
+-
+ const VENDORED = "node_modules"
+ 
+ function walked(root: string, asked: readonly string[]): readonly string[] {
+-  const ran = spawnSync("git", ["-C", root, "ls-files", "-z", "--exclude-standard", ...asked], {
+-    encoding: "utf-8",
+-    maxBuffer: WALK_CEILING,
+-  })
+-  if (ran.error !== undefined) throw ran.error
+-  if (ran.status !== 0) {
+-    throw new Error(`the tree at ${root} could not be walked — ${ran.stderr.trim()}`)
++  const done = ran(["git", "-C", root, "ls-files", "-z", "--exclude-standard", ...asked])
++  if (done.code !== 0) {
++    throw new Error(`the tree at ${root} could not be walked — ${done.err.trim()}`)
+   }
+-  return ran.stdout.split("\0").filter((one) => one !== "")
++  return done.out.split("\0").filter((one) => one !== "")
+ }
+ 
+ function heldThough(path: string): boolean {
+@@ -263,7 +260,7 @@ function heldThough(path: string): boolean {
+ function everyFileInside(root: string): readonly string[] {
+   const kept = walked(root, ["--cached", "--others"])
+   const held = walked(root, ["--others", "--ignored"]).filter(heldThough)
+-  return filedOnce([...kept, ...held])
++  return sortedOnce([...kept, ...held])
+ }
+ 
+ export function everythingIn(root: string): Change {
+diff --git a/checks/modules/change-walking/change-walking.module.ts b/checks/modules/change-walking/change-walking.module.ts
+index fcc41cf96aa2bc344d8aa62c8398c435674da30f..cca87b195cdd3750c2cfac902fcd38d87a6a9488 100644
+--- a/checks/modules/change-walking/change-walking.module.ts
++++ b/checks/modules/change-walking/change-walking.module.ts
+@@ -70,6 +70,10 @@ export const changeWalking = {
+       statement:
+         "A walk over everything takes the files in the tree rather than the files the index names.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "The paths one index names are worked out once and held for that index.",
++    },
+     {
+       invariantKind: "departure",
+       statement:
+diff --git a/checks/package.json b/checks/package.json
+index e4a940cea3fe69619890051796dfc2a45f07a757..db78df69eb5dbd4fe9df3cf60f30f3fc70dc46d5 100644
+--- a/checks/package.json
++++ b/checks/package.json
+@@ -25,6 +25,8 @@
+     "yaml": "^2.8.1",
+     "@akasha/k8s-synth": "workspace:*",
+     "@akasha/temper-addons-resolve": "workspace:*",
++    "@akasha/utils-narrow": "workspace:*",
++    "@akasha/utils-run": "workspace:*",
+     "typescript": "5.9.3"
+   }
+ }
 diff --git a/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts b/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts
 index 7f3d045b4074d63f974922edbda677c707c0d429..bc6b9306fb0fbaa66388619e0b49e00f9f17eb0a 100644
 --- a/temper/temper-companions-core/companion-leaderboard/companion-leaderboard.module.code.ts
