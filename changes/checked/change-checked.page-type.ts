@@ -24,6 +24,7 @@ export const changeChecked = {
     "change-checked/remove-page-type",
     "change-checked/remove-property-value",
     "change-checked/rename-code-token",
+    "change-checked/rename-package",
     "change-checked/rename-page",
     "change-checked/change-domain-parent",
   ],

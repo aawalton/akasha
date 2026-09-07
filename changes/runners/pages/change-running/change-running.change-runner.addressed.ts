@@ -35,6 +35,9 @@ export type Changes = {
   "change-checked/rename-code-token": Parameters<
     typeof import("../../../checked/pages/rename-code-token/rename-code-token.change-checked.code.ts")["runChange"]
   >[1]
+  "change-checked/rename-package": Parameters<
+    typeof import("../../../checked/pages/rename-package/rename-package.change-checked.code.ts")["runChange"]
+  >[1]
   "change-checked/rename-page": Parameters<
     typeof import("../../../checked/pages/rename-page/rename-page.change-checked.code.ts")["runChange"]
   >[1]
