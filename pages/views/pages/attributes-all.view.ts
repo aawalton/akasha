@@ -1,0 +1,31 @@
+import type { View } from "../view.page-type.ts"
+
+export const attributesAll = {
+  id: "01a07cd5-039f-727d-a85a-976ade683a5b",
+  pageTypeSlug: "view",
+  slug: "attributes-all",
+  title: "All",
+  navSlug: "attributes",
+  pageType: "attribute",
+  viewPlace: 0,
+  layout: "table",
+  viewSorts: [{ key: "slug", descending: false }],
+  visibleProperties: ["definition", "point-unit", "lifetime-points"],
+  alwaysShowProperties: ["point-unit", "lifetime-points"],
+  hiddenPropertiesOrder: [
+    "title",
+    "description",
+    "cover",
+    "plural-slug",
+    "part-slugs",
+    "invariants",
+    "directives",
+    "created-at",
+    "updated-at",
+    "seq",
+    "page-type-id",
+  ],
+  pageSize: 24,
+  itemPageSize: 12,
+  groupPageSize: 6,
+} as const satisfies View
