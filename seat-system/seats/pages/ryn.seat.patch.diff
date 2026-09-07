@@ -1,0 +1,17 @@
+diff --git a/seat-system/supervising/supervisor-guard-tick/supervisor-guard-tick.module.ts b/seat-system/supervising/supervisor-guard-tick/supervisor-guard-tick.module.ts
+index feb2693b17a4328d40ae60ddc5a62fd06debf588..34fd83846fc9d164e546f3086b567fd774833bb6 100644
+--- a/seat-system/supervising/supervisor-guard-tick/supervisor-guard-tick.module.ts
++++ b/seat-system/supervising/supervisor-guard-tick/supervisor-guard-tick.module.ts
+@@ -14,7 +14,11 @@ export const supervisorGuardTick = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A tick never rejects, so the timer that called that tick survives.",
++      statement: "A tick never rejects.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The timer that called a tick survives.",
+     },
+   ],
+ } as const satisfies Module
