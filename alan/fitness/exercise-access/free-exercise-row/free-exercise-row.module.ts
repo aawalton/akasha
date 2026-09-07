@@ -11,7 +11,7 @@ export const freeExerciseRow = {
     {
       invariantKind: "departure",
       statement:
-        "A row states an empty list for a muscle, instruction or image that row does not name.",
+        "A row states an empty list for a muscle or instruction or image that row does not name.",
     },
     {
       invariantKind: "departure",
