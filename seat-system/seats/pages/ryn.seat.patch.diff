@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/testing-system/test/test.domain.ts b/testing-system/test/test.domain.ts
+index 811095ec70188add6a5aafaf0f3fd0437cfede80..d2795b31996575c00937c1803c9e728636df9975 100644
+--- a/testing-system/test/test.domain.ts
++++ b/testing-system/test/test.domain.ts
+@@ -20,7 +20,7 @@ export const test = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "Neither test replaces the other.",
++      statement: "A test over invented data and a test over the pages do not replace each other.",
+     },
+     {
+       invariantKind: "departure",
