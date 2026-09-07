@@ -26,6 +26,10 @@ export function answered(edits: readonly Edit[]): Answer {
   return { edits, refused: null }
 }
 
+export function stating(edits: readonly Stated[]): Said {
+  return { edits, refused: null }
+}
+
 export function writing(path: string, was: string | null, body: string): Edit {
   return { path, was, body }
 }
