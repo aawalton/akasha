@@ -128,13 +128,14 @@ test("a page type whose page holds no body refuses", async () => {
 test("each part of the retype is reached at the address that part names", async () => {
   const reached: string[] = []
   const root = repoIn()
-  const world = worldAt(root, textIn(root), (_world, at) => {
+  const world = worldAt(root, textIn(root), (over, at, given) => {
     reached.push(at)
-    return Promise.resolve({ edits: [], refused: null })
+    return RUNS(over, at, given)
   })
 
-  await changePagePageType(world, { at: ONE_PAGE, to: SPARE_TYPE })
+  const said = await changePagePageType(world, { at: ONE_PAGE, to: SPARE_TYPE })
 
+  expect(said.refused).toBeNull()
   expect(new Set(reached)).toEqual(
     new Set(["change-mechanical/repoint-imports", "change-mechanical/change-file"])
   )
