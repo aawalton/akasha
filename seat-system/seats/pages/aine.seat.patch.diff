@@ -103,3 +103,25 @@ index 0000000000000000000000000000000000000000..4b00745a204bd2dee7d7a01028cae899
 +export function reading(held: Record<string, string>): (path: string) => string | null {
 +  return (path) => held[path] ?? null
 +}
+diff --git a/pages/value/page-value.module.ts b/pages/value/page-value.module.ts
+index 727895100f4f2bc67ad8f55b6156f12db9bdcd8b..8172e901a97ae59dc1f69e741e654e5a00d74394 100644
+--- a/pages/value/page-value.module.ts
++++ b/pages/value/page-value.module.ts
+@@ -7,11 +7,17 @@ export const pageValue = {
+   definition: "the value a page's body declares, and what one of its keys holds",
+   code: "ts",
+   test: "ts",
++  testFixtures: "ts",
+   invariants: [
+     {
+       invariantKind: "departure",
+       statement: "A page's body can be loaded after the file the body came from is gone.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A reader answering a body at a path is built here rather than by the test handing the reader in.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The value a body declares is the first object the body exports.",
