@@ -26,6 +26,7 @@ import {
 import { bodyAt } from "../../commit-reading/commit-reading.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
 import { baseOf } from "../../landing/landing.module.code.ts"
+import { defaultMessage } from "../../landing-saying/landing-saying.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
 import { inputIn, markingIn, pipedIn, RUNS_SAID } from "../../piping/piping.module.code.ts"
 import { unrestatedIn } from "../../restating/restating.module.code.ts"
@@ -76,11 +77,6 @@ export function unrestatedFor(given: Given, changes: readonly FileEdit[]): reado
     given.root,
     changes.map((one) => ({ path: one.path, was: wasAt(given.root, one.path), now: one.body }))
   )
-}
-
-export function defaultMessage(what: string, paths: readonly string[]): string {
-  if (paths.length <= 3) return `${what} ${[...paths].sort().join(", ")}`
-  return `${what} ${paths.length} files`
 }
 
 export type Removing = {

@@ -1,8 +1,10 @@
 import { expect, test } from "bun:test"
+import { counted } from "../asking/asking.module.code.ts"
 import { UNNAMED } from "../committing/committing.module.code.ts"
 import type { Drafted, Landed } from "../landing/landing.module.code.ts"
 import {
   committedLine,
+  defaultMessage,
   draftedSaid,
   filledSaid,
   formattedSaid,
@@ -11,8 +13,6 @@ import {
   reported,
   type Saying,
 } from "./landing-saying.module.code.ts"
-
-const count = (many: number, one: string): string => `${many} ${one}${many === 1 ? "" : "s"}`
 
 const LANDED: Landed = {
   base: "held",
@@ -48,13 +48,13 @@ const OVER: Reported = {
 }
 
 test("a report opens with what the caller asked to have said of the landing", () => {
-  const said = reported(count, LANDED, { ...OVER, saying: () => ["said by the caller"] })
+  const said = reported(counted, LANDED, { ...OVER, saying: () => ["said by the caller"] })
   expect(said[0]).toBe("said by the caller")
   expect(said).toContain("1 check judged the 1 path asked for, and none refused")
 })
 
 test("a report says what became of the commit in its last line", () => {
-  expect(reported(count, LANDED, OVER).at(-1)).toBe("committed as c0ffee")
+  expect(reported(counted, LANDED, OVER).at(-1)).toBe("committed as c0ffee")
 })
 
 test("a commit that could not be named is told apart from a landing that committed nothing", () => {
@@ -68,7 +68,7 @@ test("a commit that could not be named is told apart from a landing that committ
 })
 
 test("a report that could not be built names what the landing wrote and took away", () => {
-  const said = reported(count, LANDED, {
+  const said = reported(counted, LANDED, {
     ...OVER,
     aside: ["said beside it"],
     saying: () => {
@@ -85,13 +85,16 @@ test("a report that could not be built names what the landing wrote and took awa
 })
 
 test("a landing that ran no check says why in place of the count", () => {
-  const said = reported(count, LANDED, { ...OVER, bypassed: "no check ran — the glass was broken" })
+  const said = reported(counted, LANDED, {
+    ...OVER,
+    bypassed: "no check ran — the glass was broken",
+  })
   expect(said).toContain("no check ran — the glass was broken")
   expect(said.join("\n")).not.toContain("judged the 1 path")
 })
 
 test("checks that would not load are named beside the reason none ran", () => {
-  const said = reported(count, LANDED, {
+  const said = reported(counted, LANDED, {
     ...OVER,
     bypassed: "no check ran — the glass was broken",
     broken: "the checks would not load",
@@ -100,7 +103,7 @@ test("checks that would not load are named beside the reason none ran", () => {
 })
 
 test("what the index took less than the whole of is named in the report", () => {
-  const said = reported(count, { ...LANDED, noted: ["akasha/two.ts"] }, OVER)
+  const said = reported(counted, { ...LANDED, noted: ["akasha/two.ts"] }, OVER)
   expect(said).toContain("the index took less than the whole of this — akasha/two.ts")
 })
 
@@ -122,20 +125,34 @@ test("the paths of a change are read from the change", () => {
 })
 
 test("what a draft left is named in the report as what was drafted", () => {
-  const said = draftedSaid(count, DRAFTED, "a page", ["said beside it"], 2)
+  const said = draftedSaid(counted, DRAFTED, "a page", ["said beside it"], 2)
   expect(said[0]).toBe("said beside it")
   expect(said).toContain("drafted akasha/two.ts")
   expect(said).toContain("2 checks judged the 1 path the patch would leave, and none refused")
 })
 
 test("where a draft's patch is kept is named in the report", () => {
-  expect(draftedSaid(count, DRAFTED, "a page", [], 2).at(-1)).toBe(
+  expect(draftedSaid(counted, DRAFTED, "a page", [], 2).at(-1)).toBe(
     "the patch is kept at a page against held"
   )
-  expect(draftedSaid(count, DRAFTED, null, [], 2).at(-1)).toBe(
+  expect(draftedSaid(counted, DRAFTED, null, [], 2).at(-1)).toBe(
     "the patch is kept at the page of the agent that asked against held"
   )
-  expect(draftedSaid(count, { ...DRAFTED, patch: null }, "a page", [], 2).at(-1)).toBe(
+  expect(draftedSaid(counted, { ...DRAFTED, patch: null }, "a page", [], 2).at(-1)).toBe(
     "the patch was worked out to nothing and taken away"
   )
+})
+
+test("a landing given no message is said as the act and the paths that landing carries", () => {
+  expect(defaultMessage("write", ["akasha/two.ts", "akasha/one.ts"])).toBe(
+    "write akasha/one.ts, akasha/two.ts"
+  )
+})
+
+test("three paths are still named one by one", () => {
+  expect(defaultMessage("write", ["c.ts", "a.ts", "b.ts"])).toBe("write a.ts, b.ts, c.ts")
+})
+
+test("a landing carrying more than three paths is said as how many paths landed", () => {
+  expect(defaultMessage("replace in", ["a.ts", "b.ts", "c.ts", "d.ts"])).toBe("replace in 4 files")
 })

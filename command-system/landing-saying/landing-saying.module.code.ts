@@ -32,6 +32,11 @@ export function filledSaid(filled: readonly Filled[]): readonly string[] {
   )
 }
 
+export function defaultMessage(what: string, paths: readonly string[]): string {
+  if (paths.length <= 3) return `${what} ${[...paths].sort().join(", ")}`
+  return `${what} ${paths.length} files`
+}
+
 export function pathsOf(changes: readonly FileEdit[]): readonly string[] {
   return changes.map((one) => one.path)
 }

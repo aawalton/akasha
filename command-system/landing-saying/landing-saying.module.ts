@@ -55,6 +55,20 @@ export const landingSaying = {
       statement: "A landing's saying of itself is handed in rather than reached for.",
     },
     {
+      invariantKind: "departure",
+      statement:
+        "A landing given no commit message is said as the act and the paths that landing carries.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The paths in such a message are sorted.",
+    },
+    {
+      invariantKind: "departure",
+      statement:
+        "A landing carrying more than three paths is said as the act and how many paths landed.",
+    },
+    {
       invariantKind: "absence",
       statement: "Nothing here reads a file.",
     },

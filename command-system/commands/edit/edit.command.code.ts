@@ -20,6 +20,7 @@ import {
   unknownIn,
 } from "../../command-flags/command-flags.module.code.ts"
 import type { FileEdit } from "../../landing/landing.module.code.ts"
+import { defaultMessage } from "../../landing-saying/landing-saying.module.code.ts"
 import type { Piping } from "../../piping/piping.module.code.ts"
 import {
   inputIn,
@@ -33,7 +34,6 @@ import {
 import { barredIn, offRepo, pathAt } from "../../said-pathing/said-pathing.module.code.ts"
 import {
   besideTaken,
-  defaultMessage,
   RESTATED,
   removingIn,
   restatedIn,
