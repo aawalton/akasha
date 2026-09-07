@@ -1,0 +1,14 @@
+writerOwesReading: false
+diff --git a/seat-system/terminal-init/terminal-bash/terminal-bash.module.code.ts b/seat-system/terminal-init/terminal-bash/terminal-bash.module.code.ts
+index 45ccf986583baf058039b13ea29ab791d2139b7d..112bcb8418546e6e373e57867309aa7c72db6844 100644
+--- a/seat-system/terminal-init/terminal-bash/terminal-bash.module.code.ts
++++ b/seat-system/terminal-init/terminal-bash/terminal-bash.module.code.ts
+@@ -26,7 +26,7 @@ export type AliasEntry = {
+ }
+ 
+ function claudeUsageFn(): string {
+-  return [`${implName("cu")}() {`, `  ${AKASHA} measure claude-accounts "$@"`, "}"].join("\n")
++  return [`${implName("cu")}() {`, `  ${AKASHA} measure claude-accounts usage "$@"`, "}"].join("\n")
+ }
+ 
+ function aliases(): string {
