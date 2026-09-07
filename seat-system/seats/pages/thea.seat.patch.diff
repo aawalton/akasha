@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.ts b/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.ts
+index 87e5d3c64f928b9ee44f91ff0fc2f9255d51a9e1..6da3b8de68f8c0deab1c420d80f59fd2f95b965a 100644
+--- a/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.ts
++++ b/checks/code-checks/pages/no-enum-or-namespace/no-enum-or-namespace.code-check.ts
+@@ -7,7 +7,7 @@ export const noEnumOrNamespace = {
+   definition: "the check refusing an enum or a named namespace",
+   code: "ts",
+   test: "ts",
+-  runsOnPatch: false,
++  runsOnPatch: true,
+   runsOnWorktree: false,
+   runsOnDeploy: false,
+   runsOnAudit: false,
