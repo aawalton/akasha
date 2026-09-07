@@ -1,0 +1,32 @@
+diff --git a/bun.lock b/bun.lock
+index 7d0d8c44149327835ffec0541653c0a275f61c68..2541f2a0bb867e9f49f036e6ca9ec7d317f7e100 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -1042,7 +1042,6 @@
+     "infrastructure/cluster-manifests": {
+       "name": "@akasha/cluster-manifests",
+       "dependencies": {
+-        "@akasha/code": "workspace:*",
+         "@akasha/k8s-synth": "workspace:*",
+         "@akasha/k8s-types": "workspace:*",
+         "@akasha/pages": "workspace:*",
+@@ -1224,6 +1223,7 @@
+         "@akasha/digit-padding": "workspace:*",
+         "@akasha/id-minting": "workspace:*",
+         "@akasha/pages-url": "workspace:*",
++        "@akasha/recurrence": "workspace:*",
+         "@akasha/utils-narrow": "workspace:*",
+         "zod": "^4.3.6",
+       },
+diff --git a/pages/core/package.json b/pages/core/package.json
+index 72f5798810a14b35e3eb164c73aca8c7183da0ef..74a0986bf7b97fc8d9e03e25e305f952b304c6c0 100644
+--- a/pages/core/package.json
++++ b/pages/core/package.json
+@@ -72,6 +72,7 @@
+     "@akasha/digit-padding": "workspace:*",
+     "@akasha/id-minting": "workspace:*",
+     "@akasha/pages-url": "workspace:*",
++    "@akasha/recurrence": "workspace:*",
+     "@akasha/utils-narrow": "workspace:*",
+     "zod": "^4.3.6"
+   }
