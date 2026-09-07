@@ -8,7 +8,14 @@ import {
   scratch,
   textIn,
 } from "@akasha/indexes/indexing/testing"
-import { type World, worldAt } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
+import {
+  type Reaching,
+  type World,
+  worldAt,
+} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
+import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
 import { carryingIn, removePageType } from "./remove-page-type.change-mechanical.code.ts"
 
 afterAll(scratch.sweep)
@@ -30,8 +37,20 @@ const TYPE = bodyOf({
 
 const PAGE = pageOf({ id: idOf("f"), pageTypeSlug: "kept", slug: "one" })
 
+type Unnaming = { at: string; key: string; value: string }
+
+const RUNS: Reaching = (world, at, given) => {
+  if (at === "change-mechanical/remove-file") {
+    return Promise.resolve(removeFile(given as { at: string }, world.textOf))
+  }
+  if (at === "change-mechanical/remove-property-value") {
+    return Promise.resolve(removePropertyValue(world, given as Unnaming))
+  }
+  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+}
+
 function worldIn(root: string): World {
-  return worldAt(root, textIn(root))
+  return worldAt(root, textIn(root), RUNS)
 }
 
 function naming(named: string): string {
@@ -51,19 +70,19 @@ function bodyIn(
   return said.edits.find((one) => one.path === at)?.body ?? ""
 }
 
-test("a page type the index files pages under is refused, and the refusal names those pages", () => {
+test("a page type the index files pages under is refused, and the refusal names those pages", async () => {
   const root = indexedRepo({ [KEPT_TYPE]: TYPE, [KEPT_PAGE]: PAGE })
 
-  const said = removePageType(worldIn(root), { at: KEPT_TYPE })
+  const said = await removePageType(worldIn(root), { at: KEPT_TYPE })
 
   expect(said.edits).toEqual([])
   expect(said.refused ?? "").toContain(KEPT_PAGE)
 })
 
-test("a page type no page is filed under goes with the files beside that page type", () => {
+test("a page type no page is filed under goes with the files beside that page type", async () => {
   const root = indexedRepo({ [KEPT_TYPE]: TYPE })
 
-  const said = removePageType(worldIn(root), { at: KEPT_TYPE })
+  const said = await removePageType(worldIn(root), { at: KEPT_TYPE })
 
   expect(said.refused).toBe(null)
   expect(said.edits.map((one) => one.path)).toEqual([KEPT_TYPE])
@@ -77,38 +96,38 @@ test("which pages a page type is the page type of is read from the values the in
   expect(carryingIn(worldIn(root), "bare")).toEqual([])
 })
 
-test("a path the world names no page type at is refused", () => {
+test("a path the world names no page type at is refused", async () => {
   const root = indexedRepo()
 
-  const said = removePageType(worldIn(root), { at: NOWHERE })
+  const said = await removePageType(worldIn(root), { at: NOWHERE })
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${NOWHERE}\` names no page type, so no page type is taken away`)
 })
 
-test("a page that is no page type is refused rather than taken away", () => {
+test("a page that is no page type is refused rather than taken away", async () => {
   const root = indexedRepo()
 
-  const said = removePageType(worldIn(root), { at: NAMER_PAGE })
+  const said = await removePageType(worldIn(root), { at: NAMER_PAGE })
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe(`\`${NAMER_PAGE}\` names no page type, so no page type is taken away`)
 })
 
-test("the page type and the parent's entry for that page type go in one answer", () => {
+test("the page type and the parent's entry for that page type go in one answer", async () => {
   const root = indexedRepo({ [KEPT_TYPE]: TYPE, [HOLDER_PAGE]: naming("page-type/kept") })
 
-  const said = removePageType(worldIn(root), { at: KEPT_TYPE })
+  const said = await removePageType(worldIn(root), { at: KEPT_TYPE })
 
   expect(said.refused).toBe(null)
   expect(said.edits.map((one) => one.path).sort()).toEqual([HOLDER_PAGE, KEPT_TYPE])
   expect(bodyIn(said, HOLDER_PAGE)).toContain('"partSlugs": []')
 })
 
-test("a parent naming the page type bare rather than qualified loses that entry too", () => {
+test("a parent naming the page type bare rather than qualified loses that entry too", async () => {
   const root = indexedRepo({ [KEPT_TYPE]: TYPE, [HOLDER_PAGE]: naming("kept") })
 
-  const said = removePageType(worldIn(root), { at: KEPT_TYPE })
+  const said = await removePageType(worldIn(root), { at: KEPT_TYPE })
 
   expect(said.refused).toBe(null)
   expect(said.edits.map((one) => one.path).sort()).toEqual([HOLDER_PAGE, KEPT_TYPE])

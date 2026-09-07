@@ -1,15 +1,10 @@
 import type { Named } from "@akasha/indexes"
 import { partedIn } from "@akasha/pages/page-file-name"
 import type { Value } from "@akasha/pages/page-value"
-import { importNotLeftHanging } from "../../../guards/pages/import-not-left-hanging/import-not-left-hanging.change-guard.code.ts"
-import { relationNotLeftHanging } from "../../../guards/pages/relation-not-left-hanging/relation-not-left-hanging.change-guard.code.ts"
 import { gathered, refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
-import { guardedBy } from "../../../modules/change-guarding/change-guarding.module.code.ts"
-import type { World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
+import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 import { claimedIn } from "../../../modules/page-claiming/page-claiming.module.code.ts"
-import { removeFile } from "../remove-file/remove-file.change-mechanical.code.ts"
-import { removePropertyValue } from "../remove-property-value/remove-property-value.change-mechanical.code.ts"
 
 const PAGE_TYPE = "page-type"
 
@@ -19,7 +14,9 @@ const PART_SLUGS_KEY = "partSlugs"
 
 const NAMED = 5
 
-const GUARDS = [relationNotLeftHanging, importNotLeftHanging]
+const REMOVE_FILE = "change-mechanical/remove-file"
+
+const REMOVE_PROPERTY_VALUE = "change-mechanical/remove-property-value"
 
 export type RemovePageTypeAsked = {
   readonly at: string
@@ -31,8 +28,6 @@ function typeIn(world: World, at: string): Value | null {
   return world.index.pageAt(PAGE_TYPE, said.slug)
 }
 
-// The pages of a page type are read from the values rather than from the relations, because a
-// page's own type is filed as identity, so nothing names a page type the way a parent names a part.
 export function carryingIn(world: World, slug: string): readonly string[] {
   return [...world.index.everyOfType(slug).map((one) => one.path)].sort()
 }
@@ -53,12 +48,11 @@ function parentsOf(world: World, at: string): readonly Named[] {
   return found
 }
 
-/** A parent names the page type qualified or bare, so the bare spelling is tried where the other refuses. */
-function unnamingIn(world: World, at: string, slug: string): Answer {
+async function unnamingIn(world: World, at: string, slug: string): Promise<Answer> {
   const qualified = `${PAGE_TYPE}/${slug}`
   const answers: Answer[] = []
   for (const parent of parentsOf(world, at)) {
-    const one = removePropertyValue(world, {
+    const one = await reach(world, REMOVE_PROPERTY_VALUE, {
       at: parent.path,
       key: PART_SLUGS_KEY,
       value: qualified,
@@ -67,14 +61,18 @@ function unnamingIn(world: World, at: string, slug: string): Answer {
       answers.push(one)
       continue
     }
-    const bare = removePropertyValue(world, { at: parent.path, key: PART_SLUGS_KEY, value: slug })
+    const bare = await reach(world, REMOVE_PROPERTY_VALUE, {
+      at: parent.path,
+      key: PART_SLUGS_KEY,
+      value: slug,
+    })
     if (bare.refused !== null) return one
     answers.push(bare)
   }
   return gathered(answers)
 }
 
-export function removePageType(world: World, given: RemovePageTypeAsked): Answer {
+export async function removePageType(world: World, given: RemovePageTypeAsked): Promise<Answer> {
   const nowhere = `\`${given.at}\` names no page type, so no page type is taken away`
   const said = partedIn(given.at)
   if (said === null) return refusing(nowhere)
@@ -90,12 +88,13 @@ export function removePageType(world: World, given: RemovePageTypeAsked): Answer
     return refusing(`${why}, so \`${given.at}\` was not taken away`)
   }
   if (carrying.length > 0) return refusing(carrySaid(said.slug, carrying))
-  const taken = beside.map((one) => removeFile({ at: one }, world.textOf))
-  const unnamed = unnamingIn(world, given.at, said.slug)
+  const taken: Answer[] = []
+  for (const one of beside) taken.push(await reach(world, REMOVE_FILE, { at: one }))
+  const unnamed = await unnamingIn(world, given.at, said.slug)
   if (unnamed.refused !== null) return unnamed
-  return guardedBy(world, gathered([...taken, unnamed]), GUARDS)
+  return gathered([...taken, unnamed])
 }
 
-export function runChange(world: World, given: RemovePageTypeAsked): Answer {
-  return removePageType(world, given)
+export async function runChange(world: World, given: RemovePageTypeAsked): Promise<Answer> {
+  return await removePageType(world, given)
 }

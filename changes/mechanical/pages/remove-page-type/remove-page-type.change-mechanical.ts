@@ -86,9 +86,5 @@ export const removePageType = {
       invariantKind: "departure",
       statement: "A guard refusing refuses the removal.",
     },
-    {
-      invariantKind: "gap",
-      statement: "The guards named here are imported rather than reached through `guard-slugs`.",
-    },
   ],
 } as const satisfies ChangeMechanical
