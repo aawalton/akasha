@@ -3,7 +3,7 @@ import { refusing } from "../../../modules/change-answer/change-answer.module.co
 import type { Answer } from "../../../modules/change-answer/change-answer.module.types.ts"
 import { reach, type World } from "../../../modules/change-shadow/change-shadow.module.code.ts"
 
-const ADD_PAGE_FILE = "change-mechanical/add-page-file"
+const ADD_PAGE_FILE = "change-mechanical-file/add-page-file"
 
 const PAGE_PROPERTY = "page-property"
 

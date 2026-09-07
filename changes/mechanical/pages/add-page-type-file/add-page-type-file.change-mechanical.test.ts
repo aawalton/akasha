@@ -3,7 +3,7 @@ import { indexedRepo, scratch } from "@akasha/indexes/indexing/testing"
 import { worldIn } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
 import { runChange } from "./add-page-type-file.change-mechanical.code.ts"
 
-const REACHES = "change-mechanical/add-page-file"
+const REACHES = "change-mechanical-file/add-page-file"
 
 afterAll(scratch.sweep)
 

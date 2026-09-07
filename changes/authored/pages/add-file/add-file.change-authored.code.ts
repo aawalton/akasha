@@ -24,7 +24,7 @@ const ADD_FILE = "change-mechanical-file/add-file"
 
 const ADD_CODE_FILE = "change-mechanical-file/add-code-file"
 
-const ADD_PAGE_FILE = "change-mechanical/add-page-file"
+const ADD_PAGE_FILE = "change-mechanical-file/add-page-file"
 
 const CODE = new Set([".ts", ".tsx"])
 
