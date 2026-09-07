@@ -18,7 +18,11 @@ export const seatPageHistory = {
     },
     {
       invariantKind: "departure",
-      statement: "The assignment is also kept whole, so the page type it names is not lost.",
+      statement: "The assignment is also kept whole.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "The page type the assignment names is not lost.",
     },
     {
       invariantKind: "departure",
