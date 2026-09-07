@@ -28,10 +28,10 @@ index 0000000000000000000000000000000000000000..b8ba6884a143cf33b2d64f12f9f4aadf
 +}
 diff --git a/alan/tracking/daily/wake-days/properties/project-hours.computed-property.ts b/alan/tracking/daily/wake-days/properties/project-hours.computed-property.ts
 new file mode 100644
-index 0000000000000000000000000000000000000000..28dea624282b05a37f60420d37396fb062c69b78
+index 0000000000000000000000000000000000000000..3b69d2061ce23459ca11347a7b4f916d2f85d6c5
 --- /dev/null
 +++ b/alan/tracking/daily/wake-days/properties/project-hours.computed-property.ts
-@@ -0,0 +1,13 @@
+@@ -0,0 +1,27 @@
 +import type { ComputedProperty } from "@akasha/pages/computed-property"
 +
 +export type ProjectHours = number
@@ -44,6 +44,20 @@ index 0000000000000000000000000000000000000000..28dea624282b05a37f60420d37396fb0
 +  definition: "the hours Alan spent on projects, added up from the day's own stretches",
 +  holds: "number",
 +  code: "ts",
++  invariants: [
++    {
++      invariantKind: "departure",
++      statement: "A stretch counts where the stretch's title says projects as a word of its own.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A stretch still open counts up to the moment the reading is taken.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A day carrying no stretches is no reading rather than a spend of nothing.",
++    },
++  ],
 +} as const satisfies ComputedProperty
 diff --git a/alan/tracking/daily/wake-days/wake-day.page-type.ts b/alan/tracking/daily/wake-days/wake-day.page-type.ts
 index a6ff84d7f046faf41df060747c6f2b9f0952c859..5b00573bed4727ef348e943831af8258f149217d 100644
