@@ -10,7 +10,7 @@ export const theaChecksSystem = {
     {
       statement: "Every check is cheap enough for patch and runs there.",
       workingMemory:
-        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed the fault the rule defines before believing a zero. Charge a check on a warm shadow, not the shared build. Exempt the outlier, never the class holding it. Check a count against its base rate before calling it a finding. Rules sharing one parse beat separate checks. Refusing: comments 3020, method-sig 307, lint 302, syntax 212, re-export 74, manifest-names 67, key-names 57, no-class 8, cycles 7, index-path 6, globals 2. no-rule-in-two-files next.",
+        "Steps: 1 category, 2 reach, 3 cheap, 4 on. Seed the fault the rule defines before believing a zero. Charge a check on a warm shadow, not the shared build. Check a count against its base rate before calling it a finding. A rule digest normalises bound names but reads free names as written, so a renamed copy is missed. Refusing: comments 3020, two-files 1332, method-sig 307, lint 302, syntax 212, re-export 74, manifest-names 67, key-names 57, no-class 8, cycles 7. two-files at step 2.",
     },
     {
       statement: "The tests beside a changed file judge the change that carries it.",
