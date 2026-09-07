@@ -94,6 +94,40 @@ index e1aa1d7ffd79475c27be358309b7106824fa2a61..1496934e80fdeb04917538aa444291b8
      {
        invariantKind: "departure",
        statement: "A task holding no rule reads as done from the day of the marking onward.",
+diff --git a/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.code.ts b/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.code.ts
+index 79a620da6a0f8857b276148bcdb7d8696551f674..2ffa9889bb53e435639426e5a87699eee540f4b7 100644
+--- a/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.code.ts
++++ b/temper/temper-watcher/watcher-export-tasks/watcher-export-tasks.module.code.ts
+@@ -2,6 +2,7 @@ import { getPages } from "@akasha/pages-access/get"
+ import { collectPages } from "@akasha/pages-access/iterate"
+ import { patchPageById } from "@akasha/pages-access/patch"
+ import type { Page } from "@akasha/pages-core/page-types"
++import { completionShapeOf, readsAsDone } from "@akasha/pages-core/task-lifecycle"
+ import type { CompletionOverride } from "@akasha/temper-player-completion/completion-override"
+ import type { ParsedCompletionOverrideRow } from "@akasha/temper-player-completion/completion-override-row"
+ import { parseCompletionOverrideRow } from "@akasha/temper-player-completion/completion-override-row"
+@@ -97,6 +98,12 @@ export function taskKey(row: Page): string {
+   return row.id
+ }
+ 
++export function stillToDo(row: Page): boolean {
++  const shape = completionShapeOf(TASK_PAGE_TYPE_SLUG)
++  if (shape === null) return true
++  return !readsAsDone(shape, row)
++}
++
+ export function taskDataFrom(row: Page, esoCharacterId: string | null): TaskData {
+   const sortOrder = row.displayOrder
+   return {
+@@ -199,7 +206,7 @@ export async function runExportTasks(
+     where: [{ key: "accountPage", eq: userId }],
+     pageSize: ROWS_PER_READ,
+   })
+-  const tasks = rows.filter((row) => typeof row.id === "string")
++  const tasks = rows.filter((row) => typeof row.id === "string" && stillToDo(row))
+ 
+   if (tasks.length === 0) {
+     report("No tasks to export.")
 diff --git a/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.code.ts b/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.code.ts
 index cae3698be68c42c26b2a70dbd7677d8f2eb88530..5fb2a64c2acb45289687bed59e211080b16e713b 100644
 --- a/temper/temper-watcher/watcher-import-tasks/watcher-import-tasks.module.code.ts
