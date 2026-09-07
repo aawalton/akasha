@@ -1,6 +1,14 @@
 import { afterAll, expect, test } from "bun:test"
-import { indexedRepo, pageOf, scratch, textIn } from "@akasha/indexes/indexing/testing"
+import {
+  aType,
+  bodyOf,
+  indexedRepo,
+  pageOf,
+  scratch,
+  textIn,
+} from "@akasha/indexes/indexing/testing"
 import { runChange as changeImports } from "../../../mechanical/pages/change-imports/change-imports.change-mechanical-code.code.ts"
+import { runChange as renameExport } from "../../../mechanical/pages/rename-export/rename-export.change-mechanical-code.code.ts"
 import { runChange as renamePageSlug } from "../../../mechanical/pages/rename-page-slug/rename-page-slug.change-mechanical-data.code.ts"
 import { runChange as renamePathChange } from "../../../mechanical/pages/rename-path/rename-path.change-mechanical-file.code.ts"
 import { refusing } from "../../../modules/change-answer/change-answer.module.code.ts"
@@ -35,7 +43,14 @@ const HOLDER_ID = "01a07c60-0003-7000-8000-000000000002"
 
 const OUTER_ID = "01a07c60-0003-7000-8000-000000000003"
 
+const [PACKAGE_TYPE_AT, PACKAGE_TYPE] = aType(
+  "01a07c60-0003-7000-8000-000000000009",
+  "workspace-package",
+  ["page-type/domain"]
+)
+
 const HELD: Readonly<Record<string, string>> = {
+  [`akasha/${PACKAGE_TYPE_AT}`]: bodyOf(PACKAGE_TYPE),
   [PACKAGE_PAGE]: pageOf({
     id: PACKAGE_ID,
     pageTypeSlug: "workspace-package",
@@ -63,6 +78,7 @@ const HELD: Readonly<Record<string, string>> = {
 
 const REACHED = {
   "change-mechanical-code/change-imports": changeImports,
+  "change-mechanical-code/rename-export": renameExport,
   "change-mechanical-data/rename-page-slug": renamePageSlug,
   "change-mechanical-file/rename-path": renamePathChange,
 } as const
@@ -103,10 +119,10 @@ test("the package takes the slug naming the folder that package landed in", asyn
 
 test("no body is left at the path the package page carried", async () => {
   const said = await moveFolderPackage(worldIn(), { at: PACKAGE_PAGE, to: INTO })
-  const left = said.edits.find((one) => one.path === PACKAGE_PAGE)
+  const landed = said.edits.find((one) => one.path === `${INTO}/code.workspace-package.ts`)
 
   expect(said.refused).toBeNull()
-  expect(left?.body).toBeNull()
+  expect(landed?.from).toBe(PACKAGE_PAGE)
   expect(pathsOf(said.edits)).not.toContain(`${INTO}/code-system.workspace-package.ts`)
 })
 
