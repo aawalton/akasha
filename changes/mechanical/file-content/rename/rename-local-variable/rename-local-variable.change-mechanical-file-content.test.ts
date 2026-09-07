@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { renameLocalVariable } from "./rename-local-variable.change-mechanical-code.code.ts"
+import { renameLocalVariable } from "./rename-local-variable.change-mechanical-file-content.code.ts"
 
 const AT = "/repo/one.ts"
 
