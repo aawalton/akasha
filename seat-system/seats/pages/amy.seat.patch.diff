@@ -1,0 +1,138 @@
+writerOwesReading: false
+diff --git a/command-system/commands/deploy/deploy.command.ts b/command-system/commands/deploy/deploy.command.ts
+index cff2de130c3e21e051c65b0427cf70a6a4493fd7..7fc3414ca46ccb1b0040db02d983dfcb89147cb8 100644
+--- a/command-system/commands/deploy/deploy.command.ts
++++ b/command-system/commands/deploy/deploy.command.ts
+@@ -28,7 +28,7 @@ export const deploy = {
+     "`--ref` takes whatever git resolves — a branch, a tag or a sha — and a call naming none builds the commit HEAD is at.",
+     "a call naming no `--ref` is refused where a tracked file differs from HEAD, because the build would leave that change out of the app without saying so.",
+     "a `--ref` named is built however the worktree differs from it, since the commit was told rather than worked out.",
+-    "a commit no origin ref reaches is refused whatever names it, because the MacBook builds by fetching origin into its own clone.",
++    "a commit no origin ref reaches is pushed there before the build begins, because the MacBook builds by fetching origin into its own clone.",
+     "the report names the commit asked for before the build begins and the commit each half was pinned to once it has.",
+     "nothing is said until an ios build has finished, because a command prints nothing itself, and what the build said is the report.",
+     "an upload reaches every internal tester, since each app's one group holds all builds and each build notifies, so `--no-upload` is what holds a build back from a phone.",
+diff --git a/command-system/commands/deploy/ios-shipping/deploy-ios-shipping.module.code.ts b/command-system/commands/deploy/ios-shipping/deploy-ios-shipping.module.code.ts
+index 014663bf2d3bb748386ffcba392088a07d51c10c..7863b5c520c4dd06591faeeff5a9a88c4e47ffc5 100644
+--- a/command-system/commands/deploy/ios-shipping/deploy-ios-shipping.module.code.ts
++++ b/command-system/commands/deploy/ios-shipping/deploy-ios-shipping.module.code.ts
+@@ -1,3 +1,4 @@
++import { pushBranch } from "@akasha/git/git-pushing"
+ import { said } from "@akasha/git/git-running"
+ import { readKeychainPassword } from "@akasha/mobile-cli/foundation"
+ import { resolveRepoRoot } from "@akasha/mobile-cli/git-tree-hash"
+@@ -26,8 +27,8 @@ export const NO_UPLOAD_SAID =
+ export const UPLOAD_SAID =
+   "upload\tcarried out, so every internal tester of this app is sent the build"
+ 
+-export function linesOf(said: readonly string[]): readonly string[] {
+-  return said
++export function linesOf(chunks: readonly string[]): readonly string[] {
++  return chunks
+     .join("")
+     .split("\n")
+     .filter((one) => one.trim() !== "")
+@@ -60,6 +61,10 @@ export function saidOfChanged(slug: string, changed: readonly string[]): string
+   return `the worktree holds ${changed.length} tracked ${many} differing from ${WHERE_HEAD_IS} (${first}${rest}), so the commit ${WHERE_HEAD_IS} is at is not what you are looking at, and building it would leave those changes out of the app without saying so. Name the commit to build: \`akasha deploy ${slug} --ref ${WHERE_HEAD_IS}\` builds what is committed, and committing first builds what you have.`
+ }
+ 
++export function saidOfUnpushed(root: string, ref: string): string {
++  return `the branch ${root} is on could not be pushed, and the macbook builds by fetching origin into its own clone, so ${ref} cannot be compiled until that push lands`
++}
++
+ function trackedChanges(root: string): readonly string[] {
+   return changedPaths(said(root, ["status", "--porcelain", "--untracked-files=no"]))
+ }
+@@ -84,10 +89,16 @@ export async function shipIosApp(
+   } catch (err) {
+     return { report, refusals: [saidBy(err)], code: DATA }
+   }
++  let roots: readonly string[]
++  try {
++    roots = rootsOf(app)
++  } catch (err) {
++    return { report, refusals: [saidBy(err)], code: OPERATIONAL }
++  }
+   if (named === null) {
+     let changed: readonly string[]
+     try {
+-      changed = rootsOf(app).flatMap((root) => trackedChanges(root))
++      changed = roots.flatMap((root) => trackedChanges(root))
+     } catch (err) {
+       return { report, refusals: [saidBy(err)], code: OPERATIONAL }
+     }
+@@ -95,6 +106,13 @@ export async function shipIosApp(
+       return { report, refusals: [saidOfChanged(slug, changed)], code: INPUT }
+     }
+   }
++  for (const root of roots) {
++    const pushed = pushBranch(root)
++    report.push(pushed.line)
++    if (pushed.failed) {
++      return { report, refusals: [saidOfUnpushed(root, ref)], code: OPERATIONAL }
++    }
++  }
+   let password: string
+   try {
+     password = readKeychainPassword()
+diff --git a/command-system/commands/deploy/ios-shipping/deploy-ios-shipping.module.test.ts b/command-system/commands/deploy/ios-shipping/deploy-ios-shipping.module.test.ts
+index d0736cc080e1c112ac35345fbf493c4e32183ab5..b2016e75031f13000bc5d5b526867d6f82a18f0a 100644
+--- a/command-system/commands/deploy/ios-shipping/deploy-ios-shipping.module.test.ts
++++ b/command-system/commands/deploy/ios-shipping/deploy-ios-shipping.module.test.ts
+@@ -7,10 +7,18 @@ import {
+   NO_UPLOAD_SAID,
+   SHOWN_PATHS,
+   saidOfChanged,
++  saidOfUnpushed,
+   UPLOAD_SAID,
+   WHERE_HEAD_IS,
+ } from "./deploy-ios-shipping.module.code.ts"
+ 
++test("the refusal over a branch that would not push names the checkout and the commit", () => {
++  const refusal = saidOfUnpushed("/repos/akasha", "83e57975")
++  expect(refusal).toContain("/repos/akasha")
++  expect(refusal).toContain("83e57975")
++  expect(refusal).toContain("origin")
++})
++
+ test("the report names the app and the page it was read from", () => {
+   const lines = linesFor("atlas", "akasha:pages/ios-app/atlas-ios.ios-app.md", true, WHERE_HEAD_IS)
+   expect(lines[0]).toBe("ios-app\tatlas\takasha:pages/ios-app/atlas-ios.ios-app.md")
+diff --git a/command-system/commands/deploy/ios-shipping/deploy-ios-shipping.module.ts b/command-system/commands/deploy/ios-shipping/deploy-ios-shipping.module.ts
+index 000062e5262849f3398afbcee3dcd55282ba2c7b..6f189d50bce5d1b9427c66c6de84b858c204d5ad 100644
+--- a/command-system/commands/deploy/ios-shipping/deploy-ios-shipping.module.ts
++++ b/command-system/commands/deploy/ios-shipping/deploy-ios-shipping.module.ts
+@@ -32,6 +32,18 @@ export const deployIosShipping = {
+       invariantKind: "departure",
+       statement: "A commit named is built however the worktree differs from that commit.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A commit origin does not carry is pushed there before anything is built.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The push carries the branch each repository is on rather than the commit alone.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A push that fails refuses the call rather than building on.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "The report names the commit asked for before anything is built.",
+diff --git a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts b/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
+index d9f759b9874218cfa71039e026040c15776afd4b..781d086666fa2de48e030f6f012d2738b1207514 100644
+--- a/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
++++ b/domains/initiatives/pages/amy-alan-harness-improvements.initiative.ts
+@@ -22,5 +22,10 @@ export const amyAlanHarnessImprovements = {
+       workingMemory:
+         "Asked by Alan on 2026-09-07: a panel parallel to the ones the extension already draws, opening on akasha, then its namespaces and top-level commands, then what sits under each. The tree is the `command` and `namespace` pages, which is what the walk behind `akasha --help` reads. Nothing here is read yet: which panels the extension draws, and how one is registered, is unchecked.",
+     },
++    {
++      statement: "Alan's Endurance stoplight shows a reading rather than zero.",
++      workingMemory:
++        "Reported by Alan on 2026-09-07, a second time: the stoplight reads zero while `akasha measure attributes` prints `Endurance 0 0.17`. The data is landing — the 06:30 run patched 2026-09-04 and 2026-09-07, and 2026-09-07 carries activeCalories 69.742. So what diverges is what the stoplight reads against what the measure reads, rather than what the harness has. Which of the two columns the stoplight is meant to show is unasked.",
++    },
+   ],
+ } as const satisfies Initiative
