@@ -13,13 +13,19 @@ export const orphanResourceListing = {
     },
     {
       invariantKind: "departure",
-      statement:
-        "Every read shares one deadline, so a slow cluster ends the sweep rather than the sweep running on.",
+      statement: "Every read shares one deadline.",
     },
     {
       invariantKind: "departure",
-      statement:
-        "A resource names its manager, or states nothing and is read as managed by nothing.",
+      statement: "A slow cluster ends the sweep rather than the sweep running on.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resource names its manager or states nothing.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A resource stating nothing is read as managed by nothing.",
     },
     {
       invariantKind: "departure",
