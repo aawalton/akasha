@@ -1,0 +1,274 @@
+writerOwesReading: false
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.code.ts b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+index 0e1e8163b099ab0d932edf122a7cf50e47271158..cd4c815e3cd841b9f07b4c58fd2e3dea81cd816b 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.code.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.code.ts
+@@ -6,8 +6,8 @@ import { said as gitIn, told as gitTold } from "@akasha/git/git-running"
+ import { ENTRY_CEILING } from "@akasha/pages/entry-ceiling"
+ import { besideAt } from "@akasha/pages/page-file-name"
+ import { uncommittedPartAt, uncommittedPartsOf } from "@akasha/pages/page-file-parts"
+-import { gathered } from "../change-answer/change-answer.module.code.ts"
+-import type { Answer, Edit } from "../change-answer/change-answer.module.types.ts"
++import { type BodyOf, gathered, widened } from "../change-answer/change-answer.module.code.ts"
++import type { Answer, Edit, Reading, Stated } from "../change-answer/change-answer.module.types.ts"
+ 
+ const SLUG = "edits"
+ 
+@@ -43,26 +43,48 @@ function staleAt(page: string): string | null {
+   return besideAt(page, SLUG, HELD)
+ }
+ 
++function owing(said: Record<string, unknown>): Reading | null {
++  const { readersOweReading, writerOwesReading } = said
++  if (readersOweReading !== undefined && typeof readersOweReading !== "boolean") return null
++  if (writerOwesReading !== undefined && typeof writerOwesReading !== "boolean") return null
++  return {
++    ...(readersOweReading === undefined ? {} : { readersOweReading }),
++    ...(writerOwesReading === undefined ? {} : { writerOwesReading }),
++  }
++}
++
+ function edited(said: unknown): Edit | null {
+   if (typeof said !== "object" || said === null) return null
+-  const { path, was, body, from, readersOweReading, writerOwesReading } = said as Record<
+-    string,
+-    unknown
+-  >
++  const one = said as Record<string, unknown>
++  const { path, was, body, from } = one
+   if (typeof path !== "string") return null
+   if (was !== null && typeof was !== "string") return null
+   if (body !== null && typeof body !== "string") return null
+   if (from !== undefined && typeof from !== "string") return null
+-  if (readersOweReading !== undefined && typeof readersOweReading !== "boolean") return null
+-  if (writerOwesReading !== undefined && typeof writerOwesReading !== "boolean") return null
+-  return {
+-    path,
+-    was,
+-    body,
+-    ...(from === undefined ? {} : { from }),
+-    ...(readersOweReading === undefined ? {} : { readersOweReading }),
+-    ...(writerOwesReading === undefined ? {} : { writerOwesReading }),
++  const owed = owing(one)
++  if (owed === null) return null
++  return { path, was, body, ...(from === undefined ? {} : { from }), ...owed }
++}
++
++function stated(said: unknown): Stated | null {
++  if (typeof said !== "object" || said === null) return null
++  const one = said as Record<string, unknown>
++  const owed = owing(one)
++  if (owed === null) return null
++  const { kind, path, content, contentFrom, contentTo, pathFrom, pathTo } = one
++  const at = typeof path === "string" ? path : null
++  if (kind === "add" && at !== null && typeof content === "string") {
++    return { ...owed, kind: "add", path: at, content }
++  }
++  if (kind === "replace" && at !== null) {
++    if (typeof contentFrom !== "string" || typeof contentTo !== "string") return null
++    return { ...owed, kind: "replace", path: at, contentFrom, contentTo }
++  }
++  if (kind === "remove" && at !== null) return { ...owed, kind: "remove", path: at }
++  if (kind === "move" && typeof pathFrom === "string" && typeof pathTo === "string") {
++    return { ...owed, kind: "move", pathFrom, pathTo }
+   }
++  return null
+ }
+ 
+ function parsed(line: string): unknown {
+@@ -73,17 +95,23 @@ function parsed(line: string): unknown {
+   }
+ }
+ 
+-function rowsIn(text: string): Kept {
+-  const rows: Edit[] = []
++function bodyIn(root: string): BodyOf {
++  return (path) => (existsSync(join(root, path)) ? (textAt(root, path) ?? "") : null)
++}
++
++function rowsIn(text: string, bodyOf: BodyOf): Kept {
++  const said: (Edit | Stated)[] = []
+   const lines = text.split("\n")
+   for (let at = 0; at < lines.length; at += 1) {
+     const line = lines[at]
+     if (line === undefined || line === "") continue
+-    const one = edited(parsed(line))
++    const read = parsed(line)
++    const one = edited(read) ?? stated(read)
+     if (one === null) return { why: `line ${String(at + 1)} ${NO_ROW}` }
+-    rows.push(one)
++    said.push(one)
+   }
+-  return { rows }
++  const grown = widened({ edits: said, refused: null }, bodyOf)
++  return grown.refused === null ? { rows: grown.edits } : { why: grown.refused }
+ }
+ 
+ function textOf(rows: readonly Edit[]): string {
+@@ -136,7 +164,7 @@ function staleIn(root: string, page: string): string | null {
+ 
+ function heldIn(root: string, page: string): Kept {
+   const held = textOver(root, page) ?? staleIn(root, page)
+-  return held === null ? { rows: [] } : rowsIn(held)
++  return held === null ? { rows: [] } : rowsIn(held, bodyIn(root))
+ }
+ 
+ export function editsIn(root: string, page: string): Kept {
+@@ -208,7 +236,7 @@ function migrated(root: string, page: string): undefined {
+   if (at === null || existsSync(join(root, at))) return
+   const stale = staleIn(root, page)
+   if (stale === null) return
+-  const read = rowsIn(stale)
++  const read = rowsIn(stale, bodyIn(root))
+   if ("why" in read) return
+   appending(root, page, read.rows)
+   abandoned(root, page)
+@@ -301,7 +329,7 @@ export function handedIn(root: string, seat: string, under: string): Kept {
+   const ref = handedRef(seat, under)
+   if (ref === null) return { why: NO_PAGE }
+   const held = readUnder(root, ref)
+-  return held === null ? { rows: [] } : rowsIn(held)
++  return held === null ? { rows: [] } : rowsIn(held, bodyIn(root))
+ }
+ 
+ export function handedOver(root: string, seat: string, from: string, under: string): Kept {
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.test.ts b/changes/modules/edits-keeping/edits-keeping.module.test.ts
+index f562d5a4b9970675dea8e8fd6b7a57b56bc6544c..fafcc9cc6a552fbe8552f623d9496b101ffadb59 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.test.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.test.ts
+@@ -41,12 +41,16 @@ function pathsIn(said: ReturnType<typeof editsIn>): readonly string[] {
+   return "why" in said ? [] : said.rows.map((one) => one.path)
+ }
+ 
+-function putting(root: string, text: string): undefined {
+-  const full = join(root, AT)
++function putting(root: string, text: string, at: string = AT): undefined {
++  const full = join(root, at)
+   mkdirSync(dirname(full), { recursive: true })
+   writeFileSync(full, text)
+ }
+ 
++function lined(...rows: readonly unknown[]): string {
++  return rows.map((one) => `${JSON.stringify(one)}\n`).join("")
++}
++
+ test("the file is named beside the page by the rule every file beside a page is named by", () => {
+   expect(editsAt(PAGE)).toBe(AT)
+ })
+@@ -224,3 +228,88 @@ test("the next write moves that ledger into the file and takes the ref away", ()
+ test("the file the edits are kept in is the file the apply reports", () => {
+   expect(keptAt(PAGE)).toBe(AT)
+ })
++
++test("a row stating an add is read as the edit that add leaves", () => {
++  const root = rootFor()
++  putting(root, lined({ kind: "add", path: ONE, content: "a\n" }))
++
++  expect(editsIn(root, PAGE)).toEqual({ rows: [{ path: ONE, was: null, body: "a\n" }] })
++})
++
++test("a row stating a remove is read with the body the file beneath holds", () => {
++  const root = rootFor()
++  putting(root, "a\n", ONE)
++  putting(root, lined({ kind: "remove", path: ONE }))
++
++  expect(editsIn(root, PAGE)).toEqual({ rows: [{ path: ONE, was: "a\n", body: null }] })
++})
++
++test("a row stating a move is read as the edit carrying that body across", () => {
++  const root = rootFor()
++  putting(root, "a\n", ONE)
++  putting(root, lined({ kind: "move", pathFrom: ONE, pathTo: TWO }))
++
++  expect(editsIn(root, PAGE)).toEqual({
++    rows: [{ path: TWO, was: "a\n", body: "a\n", from: ONE }],
++  })
++})
++
++test("a row stating a replace is read as the edit that passage leaves", () => {
++  const root = rootFor()
++  putting(root, "one two\n", ONE)
++  putting(root, lined({ kind: "replace", path: ONE, contentFrom: "two", contentTo: "three" }))
++
++  expect(editsIn(root, PAGE)).toEqual({
++    rows: [{ path: ONE, was: "one two\n", body: "one three\n" }],
++  })
++})
++
++test("a row reads the body the row before it left rather than the body beneath", () => {
++  const root = rootFor()
++  putting(
++    root,
++    lined(
++      { kind: "add", path: ONE, content: "one two\n" },
++      { kind: "replace", path: ONE, contentFrom: "two", contentTo: "three" }
++    )
++  )
++
++  expect(editsIn(root, PAGE)).toEqual({
++    rows: [
++      { path: ONE, was: null, body: "one two\n" },
++      { path: ONE, was: "one two\n", body: "one three\n" },
++    ],
++  })
++})
++
++test("a narrow row saying its readers owe no reading keeps that flag", () => {
++  const root = rootFor()
++  putting(root, lined({ kind: "add", path: ONE, content: "a\n", readersOweReading: false }))
++
++  expect(editsIn(root, PAGE)).toEqual({
++    rows: [{ path: ONE, was: null, body: "a\n", readersOweReading: false }],
++  })
++})
++
++test("a narrow row that will not read against the files beneath refuses the whole file", () => {
++  const root = rootFor()
++  putting(root, lined({ kind: "remove", path: ONE }))
++
++  expect(editsIn(root, PAGE)).toEqual({
++    why: `\`${ONE}\` holds no body, so nothing is taken away`,
++  })
++})
++
++test("a row stating a kind that is no kind refuses the whole file and names the line", () => {
++  const root = rootFor()
++  putting(root, lined({ kind: "swap", path: ONE }))
++
++  expect(editsIn(root, PAGE)).toEqual({ why: "line 1 reads as no edit" })
++})
++
++test("a whole row and a narrow row are read side by side", () => {
++  const root = rootFor()
++  putting(root, lined(writing(ONE, null, "a\n"), { kind: "add", path: TWO, content: "b\n" }))
++
++  expect(pathsIn(editsIn(root, PAGE))).toEqual([ONE, TWO])
++})
+diff --git a/changes/modules/edits-keeping/edits-keeping.module.ts b/changes/modules/edits-keeping/edits-keeping.module.ts
+index 2365cb91812dc00eb75420e3dac9daf3485c751f..251cb2e04da89bb66d951113524ef14297517c4d 100644
+--- a/changes/modules/edits-keeping/edits-keeping.module.ts
++++ b/changes/modules/edits-keeping/edits-keeping.module.ts
+@@ -28,6 +28,23 @@ export const editsKeeping = {
+       invariantKind: "departure",
+       statement: "One line holds one edit written as JSON.",
+     },
++    {
++      invariantKind: "departure",
++      statement:
++        "A line states the edit narrowly or states the whole body that edit was worked out from.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A line stating an edit narrowly is read against the files beneath the root.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A line is read against the bodies the lines before that line leave.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "A line that will not read against those bodies refuses the whole file.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "A line reading as no edit refuses the whole file rather than being passed over.",
