@@ -70,18 +70,8 @@ export const toDo = {
     { pagePropertySlug: "text-property/to-do-recurrence", required: false, many: false },
     { pagePropertySlug: "number-property/to-do-sort-order", required: false, many: false },
     { pagePropertySlug: "relation-property/to-do-value-slug", required: false, many: false },
-    {
-      pagePropertySlug: "instant-property/to-do-last-completed-at",
-      required: false,
-      many: false,
-      uncommitted: true,
-    },
-    {
-      pagePropertySlug: "instant-property/to-do-completed-at",
-      required: false,
-      many: false,
-      uncommitted: true,
-    },
+    { pagePropertySlug: "instant-property/to-do-last-completed-at", required: false, many: false },
+    { pagePropertySlug: "instant-property/to-do-completed-at", required: false, many: false },
     { pagePropertySlug: "file-property/what-it-takes", required: false, many: false },
   ],
   invariants: [
@@ -103,7 +93,11 @@ export const toDo = {
     },
     {
       invariantKind: "departure",
-      statement: "When a to-do was last finished stands outside the commit.",
+      statement: "A to-do's completion history is the git history of that to-do's own page.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A finished to-do is kept as the same page rather than as a page of its own.",
     },
   ],
 } as const satisfies PageType

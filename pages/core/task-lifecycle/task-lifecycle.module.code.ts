@@ -2,11 +2,6 @@ import { getEsoDayStr, getEsoDayStrOffset } from "@akasha/day/eso-day"
 import { assertNever } from "@akasha/utils-narrow/assert-never"
 import type { PageWhere } from "../page-types/page-types.module.code.ts"
 
-export const SNAPSHOT_SLUG_BY_TASK_SLUG: Readonly<Record<string, string>> = {
-  task: "completed-task",
-  "temper-task": "temper-completed-task",
-}
-
 export interface CompletionDecision {
   readonly completedAt: number
   readonly deleteSource: boolean
