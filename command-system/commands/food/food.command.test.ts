@@ -86,7 +86,26 @@ test("a wall clock is read on a 24-hour clock or refused", () => {
 
 test("neither a date nor a time said leaves the instant as now", () => {
   const now = new Date("2026-06-26T18:00:00.000Z")
-  expect(happenedAtFrom(undefined, undefined, now)).toBe(now)
+  const read = happenedAtFrom(undefined, undefined, now)
+  expect(!("refused" in read) && read.at).toBe(now)
+})
+
+test("a wall clock said here is read in Mountain", () => {
+  const now = new Date("2026-09-07T12:00:00.000Z")
+  const read = happenedAtFrom("2026-09-07", { hh: 6, mm: 0 }, now)
+  expect(!("refused" in read) && read.at.toISOString()).toBe("2026-09-07T12:00:00.000Z")
+})
+
+test("a date said with no time is noon in Mountain", () => {
+  const now = new Date("2026-09-07T12:00:00.000Z")
+  const read = happenedAtFrom("2026-09-07", undefined, now)
+  expect(!("refused" in read) && read.at.toISOString()).toBe("2026-09-07T18:00:00.000Z")
+})
+
+test("a wall time the Mountain clock skipped is refused rather than invented", () => {
+  const now = new Date("2026-03-08T12:00:00.000Z")
+  const read = happenedAtFrom("2026-03-08", { hh: 2, mm: 30 }, now)
+  expect("refused" in read).toBe(true)
 })
 
 test("a stem is the day and the food's name, and is bounded", () => {

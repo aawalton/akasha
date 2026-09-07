@@ -15,8 +15,8 @@ export const food = {
     { said: "--image <path>", takes: "a photo on this machine, published as the entry's cover" },
     { said: "--plant-grams <n>", takes: "grams of whole plants in the food" },
     { said: "--estimated-calories <n>", takes: "the food's estimated total calories" },
-    { said: "--date <YYYY-MM-DD>", takes: "the New York calendar date the food was eaten on" },
-    { said: "--time <HH:MM>", takes: "the New York wall clock it was eaten at, read on that date" },
+    { said: "--date <YYYY-MM-DD>", takes: "the Mountain calendar date the food was eaten on" },
+    { said: "--time <HH:MM>", takes: "the Mountain wall clock it was eaten at, read on that date" },
     { said: "--json", takes: "the entry as one JSON object rather than as a row for each field" },
   ],
   helpNotes: [
@@ -24,6 +24,8 @@ export const food = {
     "plant grams are the one source of the nutrition points health pillar, at a point a gram, rolled up for the day after each entry.",
     "the entry records the instant it happened at, and which day it counts to is worked out from that instant against when Alan woke.",
     "a date said without a time is read as noon, and a time said without a date is read on today.",
+    "every time said here is a US Mountain wall time, as akasha track reads one.",
+    "a wall time the Mountain clock skipped or struck twice is refused rather than settled on.",
     "an entry with no photo is a weigh-and-enter row rather than a lesser entry.",
     "publishing the cover and re-rolling the day both happen after the entry, and either one missing leaves the run as it is.",
     "a step that did not land is named, because running the act again would write a second entry rather than mend the first.",
@@ -52,7 +54,11 @@ export const food = {
     },
     {
       invariantKind: "departure",
-      statement: "A wall clock said here is read in New York.",
+      statement: "A wall clock said here is read in Mountain.",
+    },
+    {
+      invariantKind: "departure",
+      statement: "A wall time no Mountain instant reads as is refused rather than settled on.",
     },
     {
       invariantKind: "departure",
