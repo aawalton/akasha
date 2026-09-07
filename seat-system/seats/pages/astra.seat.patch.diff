@@ -1,0 +1,278 @@
+writerOwesReading: false
+diff --git a/alan/harness/notifications/push-device-tokens/push-device-tokens.module.code.ts b/alan/harness/notifications/push-device-tokens/push-device-tokens.module.code.ts
+index e83170ecfe51fabe234a882fbbdc480f938aba20..5f9d8b042d812312a8e95b75a148da1b9c590fa5 100644
+--- a/alan/harness/notifications/push-device-tokens/push-device-tokens.module.code.ts
++++ b/alan/harness/notifications/push-device-tokens/push-device-tokens.module.code.ts
+@@ -1,5 +1,5 @@
+ import type { Fetcher } from "@akasha/pages-service/calling"
+-import { deviceTokensFor, dropDeviceToken } from "@akasha/person-system/device-token"
++import { deviceTokensFor, dropDeviceToken } from "persons/device-token"
+ 
+ export const ON_THE_WORKSTATION = "http://127.0.0.1:8787"
+ 
+diff --git a/alan/harness/notifications/push-payload/push-payload.module.code.ts b/alan/harness/notifications/push-payload/push-payload.module.code.ts
+index 8c59b3c3dae1337c52e2f5260f04b0b31343a172..2e143f0cb4b6c099d0a5986d12c8c2221c76f666 100644
+--- a/alan/harness/notifications/push-payload/push-payload.module.code.ts
++++ b/alan/harness/notifications/push-payload/push-payload.module.code.ts
+@@ -1,6 +1,6 @@
+ import { buildPageHref } from "@akasha/pages-url/page-href"
+ import { toPageTypeSlug } from "@akasha/pages-url/page-type-slug"
+-import { SMILINGJENNY_PUSH_APP } from "@akasha/person-system/push-apps"
++import { SMILINGJENNY_PUSH_APP } from "persons/push-apps"
+ import {
+   type Feed,
+   NOTIFICATION_FEED_PAGE_TYPE_SLUG,
+diff --git a/alan/web/.server/device-secret-context/device-secret-context.module.code.ts b/alan/web/.server/device-secret-context/device-secret-context.module.code.ts
+index a4d1b953c9df4522b246c982700bb1ad7b47113b..4ad4c46b08fb6bdfc5f7dbfccea3931bb6000012 100644
+--- a/alan/web/.server/device-secret-context/device-secret-context.module.code.ts
++++ b/alan/web/.server/device-secret-context/device-secret-context.module.code.ts
+@@ -3,7 +3,7 @@ import {
+   deviceSecretPresented,
+   mintDeviceSecret as mintOverTheStore,
+   revokeDeviceSecret as revokeOverTheStore,
+-} from "@akasha/person-system/device-secret-keeping"
++} from "persons/device-secret-keeping"
+ 
+ export type DeviceSecretContext =
+   | { readonly authenticated: true; readonly userId: string }
+diff --git a/alan/web/.server/route-access-holding/route-access-holding.module.code.ts b/alan/web/.server/route-access-holding/route-access-holding.module.code.ts
+index 5db4700f1ea90e61c2f017fee9505d7bf25ec1d1..5e53a09c9f871c55762f3a7de795e88401f9d8a3 100644
+--- a/alan/web/.server/route-access-holding/route-access-holding.module.code.ts
++++ b/alan/web/.server/route-access-holding/route-access-holding.module.code.ts
+@@ -1,6 +1,6 @@
+-import { routeAccessForAccount } from "@akasha/person-system/route-access"
++import { routeAccessForAccount } from "persons/route-access"
+ 
+-export { ROUTE_TARGETS } from "@akasha/person-system/route-access"
++export { ROUTE_TARGETS } from "persons/route-access"
+ 
+ export async function holdsRouteAccess(accountUserId: string, target: string): Promise<boolean> {
+   const decision = await routeAccessForAccount(accountUserId, target)
+diff --git a/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx b/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx
+index e976b17d1581a14ca98bc07ccf27c1916d7573f3..54e081d6553e7cdfb8f0a97736e5e009e0ca5d5c 100644
+--- a/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx
++++ b/alan/web/deep-link-open-sync/deep-link-open-sync.module.code.tsx
+@@ -1,7 +1,7 @@
+ "use client"
+ 
+-import { decideOpenUrlRoute } from "@akasha/person-system/push-routing"
+ import { widgetTapped } from "@akasha/readout-system/widget-tap-link"
++import { decideOpenUrlRoute } from "persons/push-routing"
+ import { useEffect, useRef } from "react"
+ import { useNavigate } from "react-router"
+ import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
+diff --git a/alan/web/device-secret-sync/device-secret-sync.module.code.tsx b/alan/web/device-secret-sync/device-secret-sync.module.code.tsx
+index 5835d9bedda794061d0cc8bcbf008ec00c273fa0..520231fba02834c93a3648aefbb7462f70553edc 100644
+--- a/alan/web/device-secret-sync/device-secret-sync.module.code.tsx
++++ b/alan/web/device-secret-sync/device-secret-sync.module.code.tsx
+@@ -5,7 +5,7 @@ import {
+   mintDeviceSecretResponseSchema,
+   mintDeviceSecretSchema,
+   revokeDeviceSecretSchema,
+-} from "@akasha/person-system/device-secret-body"
++} from "persons/device-secret-body"
+ import {
+   decideMintAction,
+   decideRecoveryAction,
+@@ -14,7 +14,7 @@ import {
+   type RouteRead,
+   recoveryMarkRead,
+   routeRead,
+-} from "@akasha/person-system/device-secret-minting"
++} from "persons/device-secret-minting"
+ import { useContext, useEffect, useRef } from "react"
+ import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
+ import {
+diff --git a/alan/web/dist/alan/web/.server/route-access-holding/route-access-holding.module.code.d.ts b/alan/web/dist/alan/web/.server/route-access-holding/route-access-holding.module.code.d.ts
+new file mode 100644
+index 0000000000000000000000000000000000000000..d1c5858c2ac53efb3e1dfeeededcc78358ffc0e8
+--- /dev/null
++++ b/alan/web/dist/alan/web/.server/route-access-holding/route-access-holding.module.code.d.ts
+@@ -0,0 +1,2 @@
++export { ROUTE_TARGETS } from "persons/route-access";
++export declare function holdsRouteAccess(accountUserId: string, target: string): Promise<boolean>;
+diff --git a/alan/web/package.json b/alan/web/package.json
+index 1da35824bc1bcaeb5daa434a840c3870e3b88d7d..4dc7e1bc80a5ebbdf5aa41bf5dfbe68472c667e6 100644
+--- a/alan/web/package.json
++++ b/alan/web/package.json
+@@ -60,7 +60,7 @@
+     "@akasha/pages-ui-components": "workspace:*",
+     "@akasha/pages-ui-store": "workspace:*",
+     "@akasha/pages-url": "workspace:*",
+-    "@akasha/person-system": "workspace:*",
++    "persons": "workspace:*",
+     "@akasha/personas-core": "workspace:*",
+     "@akasha/reading": "workspace:*",
+     "@akasha/sms-access": "workspace:*",
+diff --git a/alan/web/push-registration-sync/push-registration-sync.module.code.tsx b/alan/web/push-registration-sync/push-registration-sync.module.code.tsx
+index d41aafe8970f32ee8899625c82d3c923ba12938a..7105d9297af51bd994f755bbf821de1a243f123b 100644
+--- a/alan/web/push-registration-sync/push-registration-sync.module.code.tsx
++++ b/alan/web/push-registration-sync/push-registration-sync.module.code.tsx
+@@ -1,9 +1,9 @@
+ "use client"
+ 
+ import { UserIdContext } from "@akasha/pages-ui/use-user-id"
+-import { decidePermissionAction } from "@akasha/person-system/push-permission"
+-import { registerDeviceTokenSchema } from "@akasha/person-system/push-register-body"
+-import { decidePushRoute } from "@akasha/person-system/push-routing"
++import { decidePermissionAction } from "persons/push-permission"
++import { registerDeviceTokenSchema } from "persons/push-register-body"
++import { decidePushRoute } from "persons/push-routing"
+ import { useContext, useEffect, useRef } from "react"
+ import { useNavigate } from "react-router"
+ import { apiFetch } from "../api-fetch/api-fetch.module.code.ts"
+diff --git a/alan/web/routes/api.device-secret.mint.ts b/alan/web/routes/api.device-secret.mint.ts
+index d966faf2ef33ebdcd6ae18a3a1f436842e8460d4..7a28c0fa71c335d30c8b155c7591ff1bdf7ae1b1 100644
+--- a/alan/web/routes/api.device-secret.mint.ts
++++ b/alan/web/routes/api.device-secret.mint.ts
+@@ -1,4 +1,4 @@
+-import { mintDeviceSecretSchema } from "@akasha/person-system/device-secret-body"
++import { mintDeviceSecretSchema } from "persons/device-secret-body"
+ import { mintDeviceSecret } from "../.server/device-secret-context/device-secret-context.module.code.ts"
+ import { resolveDeviceTokenContext } from "../.server/device-token-context/device-token-context.module.code.ts"
+ import {
+diff --git a/alan/web/routes/api.device-secret.revoke.ts b/alan/web/routes/api.device-secret.revoke.ts
+index 96063ac97052af5fe23345142b9d55f4c656999a..aea70d63508a6ff3c54fc7c9c05e957336c0cb57 100644
+--- a/alan/web/routes/api.device-secret.revoke.ts
++++ b/alan/web/routes/api.device-secret.revoke.ts
+@@ -1,4 +1,4 @@
+-import { revokeDeviceSecretSchema } from "@akasha/person-system/device-secret-body"
++import { revokeDeviceSecretSchema } from "persons/device-secret-body"
+ import { revokeDeviceSecret } from "../.server/device-secret-context/device-secret-context.module.code.ts"
+ import { resolveDeviceTokenContext } from "../.server/device-token-context/device-token-context.module.code.ts"
+ import { capacitorCorsHeaders, withCors } from "../capacitor-cors/capacitor-cors.module.code.ts"
+diff --git a/alan/web/routes/api.push.register.ts b/alan/web/routes/api.push.register.ts
+index a067d90443d9b73e6f65c12faba69543cf742f2f..019c29f7bad740e8362ec35b22d1f25d111bcf29 100644
+--- a/alan/web/routes/api.push.register.ts
++++ b/alan/web/routes/api.push.register.ts
+@@ -1,6 +1,6 @@
+-import { registerDeviceToken } from "@akasha/person-system/device-token"
+-import { ALANWALTON_PUSH_APP } from "@akasha/person-system/push-apps"
+-import { registerDeviceTokenSchema } from "@akasha/person-system/push-register-body"
++import { registerDeviceToken } from "persons/device-token"
++import { ALANWALTON_PUSH_APP } from "persons/push-apps"
++import { registerDeviceTokenSchema } from "persons/push-register-body"
+ import { resolveDeviceTokenContext } from "../.server/device-token-context/device-token-context.module.code.ts"
+ import { capacitorCorsHeaders, withCors } from "../capacitor-cors/capacitor-cors.module.code.ts"
+ import type { Route } from "./+types/api.push.register"
+diff --git a/alan/web/routes/api.tracking.health-samples.ts b/alan/web/routes/api.tracking.health-samples.ts
+index 1414a8fccbadbac225ccfebb1fedf7a3362c9d8d..a09bcfa3ab037f36b5f493b76ebc2bd758aa44b2 100644
+--- a/alan/web/routes/api.tracking.health-samples.ts
++++ b/alan/web/routes/api.tracking.health-samples.ts
+@@ -1,6 +1,6 @@
+ import type { HealthSample } from "@akasha/health-samples-access/sample-shape"
+ import { upsertHealthSamples } from "@akasha/health-samples-access/sample-upsert"
+-import { healthSamplesIngestSchema } from "@akasha/person-system/health-samples-body"
++import { healthSamplesIngestSchema } from "persons/health-samples-body"
+ import { resolveDeviceSecretContext } from "../.server/device-secret-context/device-secret-context.module.code.ts"
+ import { capacitorCorsHeaders, withCors } from "../capacitor-cors/capacitor-cors.module.code.ts"
+ import type { Route } from "./+types/api.tracking.health-samples"
+diff --git a/alan/web/routes/sms.tsx b/alan/web/routes/sms.tsx
+index af8ae2c9a39ecfba40f9d5b856967cae58b9c765..d6ff761dafcb1bf9ca8df00118fe37040f5e063e 100644
+--- a/alan/web/routes/sms.tsx
++++ b/alan/web/routes/sms.tsx
+@@ -1,7 +1,7 @@
+ import { PageTitle } from "@akasha/design-layout/page-layout"
+ import { PanelCard } from "@akasha/design-layout/panel-card"
+ import { Heading } from "@akasha/design-primitives/heading"
+-import { SmsOptInForm } from "@akasha/person-system/sms-opt-in"
++import { SmsOptInForm } from "persons/sms-opt-in"
+ 
+ export function meta() {
+   return [
+diff --git a/email-watch/inbox-run/inbox-run.module.code.ts b/email-watch/inbox-run/inbox-run.module.code.ts
+index f4f7ba9f107ff71ec42f353a64f3140223850917..00a34d15a36309522cbb287db3a8266bf1d56de1 100644
+--- a/email-watch/inbox-run/inbox-run.module.code.ts
++++ b/email-watch/inbox-run/inbox-run.module.code.ts
+@@ -4,7 +4,7 @@ import type { Rule } from "@akasha/email-watch/email-rule-reading"
+ import { rulesOf } from "@akasha/email-watch/email-rule-reading"
+ import { forwardOf } from "@akasha/google-email/forwarded-message"
+ import type { Mailbox, Message } from "@akasha/google-email/gmail-mailbox"
+-import { personOr } from "@akasha/person-system/person-reading"
++import { personOr } from "persons/person-reading"
+ 
+ const STATE_DIR = `${process.env.HOME ?? "/nonexistent"}/.local/state/alan-email`
+ const STATE_FILE = `${STATE_DIR}/state.json`
+diff --git a/person-system/package.json b/person-system/package.json
+index 900b52135aaf8750a668af596ca27ac1fcab6e84..8316452562cc0f5b8532f59ccbf62cf045ae9348 100644
+--- a/person-system/package.json
++++ b/person-system/package.json
+@@ -1,5 +1,5 @@
+ {
+-  "name": "@akasha/person-system",
++  "name": "persons",
+   "private": true,
+   "type": "module",
+   "exports": {
+diff --git a/personas/persona.page-type.ts b/personas/persona.page-type.ts
+index 0cdd7b61a692f100b7b436dd31b344b9c487897b..b6bc739919467875904a3d46e5466cd60802f69c 100644
+--- a/personas/persona.page-type.ts
++++ b/personas/persona.page-type.ts
+@@ -1,7 +1,7 @@
+ import type { Domain } from "@akasha/domains/domain"
+ import type { PageType } from "@akasha/pages/page-type"
+-import type { Phone } from "@akasha/person-system/phone"
+ import type { RoleSlug } from "@akasha/seat-system/role-slug"
++import type { Phone } from "persons/phone"
+ import type { Appearance } from "./properties/appearance.file-property.ts"
+ import type { ChampionedDomainSlug } from "./properties/championed-domain-slug.relation-property.ts"
+ import type { DesktopWallpaper } from "./properties/desktop-wallpaper.file-property.ts"
+diff --git a/seat-system/compose-seat-name/compose-seat-name.module.code.ts b/seat-system/compose-seat-name/compose-seat-name.module.code.ts
+index 47d2afef47ce623711d78e61d0170602a8dd0efd..07609bd9b871056b72692bddbdfbc9c068efc701 100644
+--- a/seat-system/compose-seat-name/compose-seat-name.module.code.ts
++++ b/seat-system/compose-seat-name/compose-seat-name.module.code.ts
+@@ -1,5 +1,5 @@
+-import { answeredByOf, peopleStanding } from "@akasha/person-system/person-reading"
+ import { personaAt } from "@akasha/persona-system/persona-reading"
++import { answeredByOf, peopleStanding } from "persons/person-reading"
+ import { personaIsDefault } from "../seat-resolve/seat-resolve.module.code.ts"
+ 
+ export const JOINER = "-"
+diff --git a/seat-system/recipient-resolving/person-handlers/person-handlers.module.code.ts b/seat-system/recipient-resolving/person-handlers/person-handlers.module.code.ts
+index 50392d9e5022e2287c4bfbfb213aa75983f467c3..f2cc6926c27d986677f465e00198c3a74db21219 100644
+--- a/seat-system/recipient-resolving/person-handlers/person-handlers.module.code.ts
++++ b/seat-system/recipient-resolving/person-handlers/person-handlers.module.code.ts
+@@ -1,5 +1,5 @@
+ import { AKASHA, resolveRoots, rootFor } from "@akasha/pages/checkout-roots"
+-import { peopleStanding } from "@akasha/person-system/person-reading"
++import { peopleStanding } from "persons/person-reading"
+ 
+ export interface PersonHandlerTarget {
+   readonly persona: string
+diff --git a/seat-system/terminal-init/document-present/document-present.module.code.ts b/seat-system/terminal-init/document-present/document-present.module.code.ts
+index 4da8e2073d2866afa7883d0fa56310a249bc142e..9e3d66e68b5f82c833626da278b272c61a12c91c 100644
+--- a/seat-system/terminal-init/document-present/document-present.module.code.ts
++++ b/seat-system/terminal-init/document-present/document-present.module.code.ts
+@@ -1,6 +1,6 @@
+ import { ownRepoRoot } from "@akasha/pages/checkout-roots"
+-import { peopleStanding } from "@akasha/person-system/person-reading"
+ import { personasStanding } from "@akasha/persona-system/persona-reading"
++import { peopleStanding } from "persons/person-reading"
+ 
+ export const SLUG_MARK = "<slug>"
+ 
+diff --git a/smilingjenny/smilingjenny-web/package.json b/smilingjenny/smilingjenny-web/package.json
+index 240cebaa87d4118bd5a20529aa841f89edfb8d27..0b6e5d6a280427d1b002884ee960aadb2bf627a0 100644
+--- a/smilingjenny/smilingjenny-web/package.json
++++ b/smilingjenny/smilingjenny-web/package.json
+@@ -27,7 +27,7 @@
+     "@akasha/errors-client": "workspace:*",
+     "@akasha/errors-core": "workspace:*",
+     "@akasha/pages-access": "workspace:*",
+-    "@akasha/person-system": "workspace:*",
++    "persons": "workspace:*",
+     "@akasha/status-bar-access": "workspace:*",
+     "@akasha/supabase-auth": "workspace:*",
+     "@akasha/supabase-rr": "workspace:*",
+diff --git a/smilingjenny/smilingjenny-web/routes/api.push.register.ts b/smilingjenny/smilingjenny-web/routes/api.push.register.ts
+index f23256f4479d2aa5fab6c8c0580acab6261e2a6f..4b4aa86845244beeebdcdc2db5a7380dc6fbdca8 100644
+--- a/smilingjenny/smilingjenny-web/routes/api.push.register.ts
++++ b/smilingjenny/smilingjenny-web/routes/api.push.register.ts
+@@ -1,5 +1,5 @@
+-import { registerDeviceToken } from "@akasha/person-system/device-token"
+-import { SMILINGJENNY_PUSH_APP } from "@akasha/person-system/push-apps"
++import { registerDeviceToken } from "persons/device-token"
++import { SMILINGJENNY_PUSH_APP } from "persons/push-apps"
+ import { z } from "zod"
+ import { requireApiJenny } from "../.server/jenny-session/jenny-session.module.code.ts"
+ import type { Route } from "./+types/api.push.register"
