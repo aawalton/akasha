@@ -1,0 +1,275 @@
+writerOwesReading: false
+diff --git a/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.test.ts b/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.test.ts
+index b616cffceffb19678b30140c42d0765dabdcae31..d173cc951770846bc4fd95026f6147261424b41c 100644
+--- a/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.test.ts
++++ b/changes/mechanical/pages/add-page-file/add-page-file.change-mechanical.test.ts
+@@ -1,38 +1,19 @@
+ import { afterAll, expect, test } from "bun:test"
+-import { indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
+-import {
+-  answered,
+-  refusing,
+-  writing,
+-} from "../../../modules/change-answer/change-answer.module.code.ts"
+-import {
+-  type Reaching,
+-  type World,
+-  worldAt,
+-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { type Asked, runChange } from "./add-page-file.change-mechanical.code.ts"
+-
+-const RUNS: Reaching = (_world, at, given) => {
+-  if (at === "change-mechanical-file/add-code-file") {
+-    const asked = given as Asked
+-    return Promise.resolve(answered([writing(asked.at, null, asked.body)]))
+-  }
+-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+-}
++import { indexedRepo, scratch } from "@akasha/indexes/indexing/testing"
++import { worldIn } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
++import { runChange } from "./add-page-file.change-mechanical.code.ts"
++
++const REACHES = "change-mechanical-file/add-code-file"
+ 
+ afterAll(scratch.sweep)
+ 
+ const BODY = "export const fresh = 1\n"
+ 
+-function worldIn(root: string): World {
+-  return worldAt(root, textIn(root), RUNS)
+-}
+-
+ test("a page path is written by the change this change reaches", async () => {
+   const root = indexedRepo()
+   const at = "akasha/one/fresh.module.ts"
+ 
+-  const said = await runChange(worldIn(root), { at, body: BODY })
++  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
+ 
+   expect(said.refused).toBe(null)
+   expect(said.edits).toEqual([{ path: at, was: null, body: BODY }])
+@@ -42,7 +23,7 @@ test("a path beside a page is refused", async () => {
+   const root = indexedRepo()
+   const at = "akasha/one/fresh.module.code.ts"
+ 
+-  const said = await runChange(worldIn(root), { at, body: BODY })
++  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused).toBe(`\`${at}\` is under no page name, so this change writes nothing`)
+@@ -52,7 +33,7 @@ test("a path under no page type is refused", async () => {
+   const root = indexedRepo()
+   const at = "akasha/one/fresh.notatype.ts"
+ 
+-  const said = await runChange(worldIn(root), { at, body: BODY })
++  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused).toBe(`\`${at}\` is under no page name, so this change writes nothing`)
+diff --git a/changes/mechanical/pages/add-page-property-file/add-page-property-file.change-mechanical.test.ts b/changes/mechanical/pages/add-page-property-file/add-page-property-file.change-mechanical.test.ts
+index 217c1ee9b04092969fa0e281c1c31a784e399489..6e7522307b4cd8374fd62e4ae501d0945f6cb0d4 100644
+--- a/changes/mechanical/pages/add-page-property-file/add-page-property-file.change-mechanical.test.ts
++++ b/changes/mechanical/pages/add-page-property-file/add-page-property-file.change-mechanical.test.ts
+@@ -1,33 +1,14 @@
+ import { afterAll, expect, test } from "bun:test"
+-import { indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
+-import {
+-  answered,
+-  refusing,
+-  writing,
+-} from "../../../modules/change-answer/change-answer.module.code.ts"
+-import {
+-  type Reaching,
+-  type World,
+-  worldAt,
+-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { type Asked, runChange } from "./add-page-property-file.change-mechanical.code.ts"
+-
+-const RUNS: Reaching = (_world, at, given) => {
+-  if (at === "change-mechanical/add-page-file") {
+-    const asked = given as Asked
+-    return Promise.resolve(answered([writing(asked.at, null, asked.body)]))
+-  }
+-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+-}
++import { indexedRepo, scratch } from "@akasha/indexes/indexing/testing"
++import { worldIn } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
++import { runChange } from "./add-page-property-file.change-mechanical.code.ts"
++
++const REACHES = "change-mechanical/add-page-file"
+ 
+ afterAll(scratch.sweep)
+ 
+ const BODY = "export const fresh = 1\n"
+ 
+-function worldIn(root: string): World {
+-  return worldAt(root, textIn(root), RUNS)
+-}
+-
+ function whyRefused(at: string): string {
+   return `\`${at}\` is under no page property name, so this change writes nothing`
+ }
+@@ -36,7 +17,7 @@ test("a page property path is written by the change this change reaches", async
+   const root = indexedRepo()
+   const at = "akasha/one/fresh.relation-property.ts"
+ 
+-  const said = await runChange(worldIn(root), { at, body: BODY })
++  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
+ 
+   expect(said.refused).toBe(null)
+   expect(said.edits).toEqual([{ path: at, was: null, body: BODY }])
+@@ -46,7 +27,7 @@ test("a page that is no page property is refused", async () => {
+   const root = indexedRepo()
+   const at = "akasha/one/fresh.module.ts"
+ 
+-  const said = await runChange(worldIn(root), { at, body: BODY })
++  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused).toBe(whyRefused(at))
+@@ -56,7 +37,7 @@ test("a path beside a page property is refused", async () => {
+   const root = indexedRepo()
+   const at = "akasha/one/fresh.relation-property.code.ts"
+ 
+-  const said = await runChange(worldIn(root), { at, body: BODY })
++  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused).toBe(whyRefused(at))
+@@ -66,7 +47,7 @@ test("a path under no page type is refused", async () => {
+   const root = indexedRepo()
+   const at = "akasha/one/fresh.notatype.ts"
+ 
+-  const said = await runChange(worldIn(root), { at, body: BODY })
++  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused).toBe(whyRefused(at))
+diff --git a/changes/mechanical/pages/add-page-type-file/add-page-type-file.change-mechanical.test.ts b/changes/mechanical/pages/add-page-type-file/add-page-type-file.change-mechanical.test.ts
+index 6645041680e1f148ddf00ed7016d8a0a9664bd0f..aae3c9c28c37c00d5793cca0930b6becf6323aaf 100644
+--- a/changes/mechanical/pages/add-page-type-file/add-page-type-file.change-mechanical.test.ts
++++ b/changes/mechanical/pages/add-page-type-file/add-page-type-file.change-mechanical.test.ts
+@@ -1,24 +1,9 @@
+ import { afterAll, expect, test } from "bun:test"
+-import { indexedRepo, scratch, textIn } from "@akasha/indexes/indexing/testing"
+-import {
+-  answered,
+-  refusing,
+-  writing,
+-} from "../../../modules/change-answer/change-answer.module.code.ts"
+-import {
+-  type Reaching,
+-  type World,
+-  worldAt,
+-} from "../../../modules/change-shadow/change-shadow.module.code.ts"
+-import { type Asked, runChange } from "./add-page-type-file.change-mechanical.code.ts"
+-
+-const RUNS: Reaching = (_world, at, given) => {
+-  if (at === "change-mechanical/add-page-file") {
+-    const asked = given as Asked
+-    return Promise.resolve(answered([writing(asked.at, null, asked.body)]))
+-  }
+-  return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
+-}
++import { indexedRepo, scratch } from "@akasha/indexes/indexing/testing"
++import { worldIn } from "../../../modules/change-shadow/change-shadow.module.test-fixtures.ts"
++import { runChange } from "./add-page-type-file.change-mechanical.code.ts"
++
++const REACHES = "change-mechanical/add-page-file"
+ 
+ afterAll(scratch.sweep)
+ 
+@@ -26,15 +11,11 @@ const BODY = "export const fresh = 1\n"
+ 
+ const REFUSED = "is under no `page-type` name, so this change writes nothing"
+ 
+-function worldIn(root: string): World {
+-  return worldAt(root, textIn(root), RUNS)
+-}
+-
+ test("a page type path is written by the change this change reaches", async () => {
+   const root = indexedRepo()
+   const at = "akasha/one/fresh.page-type.ts"
+ 
+-  const said = await runChange(worldIn(root), { at, body: BODY })
++  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
+ 
+   expect(said.refused).toBe(null)
+   expect(said.edits).toEqual([{ path: at, was: null, body: BODY }])
+@@ -44,7 +25,7 @@ test("a path under another page type is refused", async () => {
+   const root = indexedRepo()
+   const at = "akasha/one/fresh.module.ts"
+ 
+-  const said = await runChange(worldIn(root), { at, body: BODY })
++  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused).toBe(`\`${at}\` ${REFUSED}`)
+@@ -54,7 +35,7 @@ test("a path beside a page type is refused", async () => {
+   const root = indexedRepo()
+   const at = "akasha/one/fresh.page-type.code.ts"
+ 
+-  const said = await runChange(worldIn(root), { at, body: BODY })
++  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused).toBe(`\`${at}\` ${REFUSED}`)
+@@ -64,7 +45,7 @@ test("a path under no page type is refused", async () => {
+   const root = indexedRepo()
+   const at = "akasha/one/fresh.notatype.ts"
+ 
+-  const said = await runChange(worldIn(root), { at, body: BODY })
++  const said = await runChange(worldIn(root, REACHES), { at, body: BODY })
+ 
+   expect(said.edits).toEqual([])
+   expect(said.refused).toBe(`\`${at}\` ${REFUSED}`)
+diff --git a/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts b/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts
+index 31d6dd7680ba30dbeba276ec33204e6e57e94193..492dbc5df89a01547ef43a944b91fc34827e8413 100644
+--- a/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts
++++ b/changes/modules/change-shadow/change-shadow.module.test-fixtures.ts
+@@ -1,4 +1,11 @@
+-import { NOTHING_OVER, type World } from "./change-shadow.module.code.ts"
++import { textIn } from "@akasha/indexes/indexing/testing"
++import { answered, refusing, writing } from "../change-answer/change-answer.module.code.ts"
++import { NOTHING_OVER, type Reaching, type World, worldAt } from "./change-shadow.module.code.ts"
++
++type Adding = {
++  readonly at: string
++  readonly body: string
++}
+ 
+ export function worldOf(held: Readonly<Record<string, string>>): World {
+   return {
+@@ -8,3 +15,17 @@ export function worldOf(held: Readonly<Record<string, string>>): World {
+     over: NOTHING_OVER,
+   }
+ }
++
++export function running(address: string): Reaching {
++  return (_world, at, given) => {
++    if (at === address) {
++      const asked = given as Adding
++      return Promise.resolve(answered([writing(asked.at, null, asked.body)]))
++    }
++    return Promise.resolve(refusing(`\`${at}\` is reached by nothing here`))
++  }
++}
++
++export function worldIn(root: string, address: string): World {
++  return worldAt(root, textIn(root), running(address))
++}
+diff --git a/changes/modules/change-shadow/change-shadow.module.ts b/changes/modules/change-shadow/change-shadow.module.ts
+index 738c9ec9a0f84b731916a5496477f4534303dfb6..1d5db7136bb98b726bee694e5ed1d65c94076e09 100644
+--- a/changes/modules/change-shadow/change-shadow.module.ts
++++ b/changes/modules/change-shadow/change-shadow.module.ts
+@@ -13,6 +13,10 @@ export const changeShadow = {
+       invariantKind: "departure",
+       statement: "A world over bodies held in memory is built here rather than by each test.",
+     },
++    {
++      invariantKind: "departure",
++      statement: "A world reaching one address is built here rather than by each test.",
++    },
+     {
+       invariantKind: "departure",
+       statement: "An answer is cast as the change shape the shadow already reads.",
