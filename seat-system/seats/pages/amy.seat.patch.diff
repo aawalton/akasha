@@ -52,3 +52,25 @@ index 6dcd5adde203d5d92f891a4b860b6d0c6f1effdb..380ea0f0387f00e363c5ffd6dc6f1408
          return [key, undefined] as const
        }
      })
+diff --git a/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.ts b/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.ts
+index f60c0f69eda4c546fd6b433bf5caf09ac215bcf1..3f4ddab704c8d7cdbdb2c44f880378602ec816ab 100644
+--- a/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.ts
++++ b/alan/harness/inboxes/inbox-count-polling/inbox-count-polling.module.ts
+@@ -29,11 +29,15 @@ export const inboxCountPolling = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "A temper task is owed on its due date alone.",
++      statement: "A temper task is owed where its day has come and the task is not done.",
+     },
+     {
+       invariantKind: "constraint",
+-      statement: "A temper task's recurrence moves its due date on once the task is done.",
++      statement: "A temper task that recurs no further keeps the due date that task was done on.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "The two counts read from the checkout are taken together on their own.",
+     },
+     {
+       invariantKind: "constraint",
