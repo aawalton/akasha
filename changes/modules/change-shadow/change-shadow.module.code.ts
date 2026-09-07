@@ -167,7 +167,9 @@ export function statedIn(kept: Kept, edit: Edit): boolean {
   if (before === undefined) return false
   if (before.some((one) => sameEdit(one, edit))) return true
   const last = before[before.length - 1]
-  return last !== undefined && last.body === edit.body && last.from === edit.from
+  if (last === undefined || last.body !== edit.body) return false
+  if (last.from === edit.from) return true
+  return edit.from !== undefined && kept.bodies.get(edit.from) === null
 }
 
 export function addedTo(ledger: Ledger, said: Answer): Ledger {

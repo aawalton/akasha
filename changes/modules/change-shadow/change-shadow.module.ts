@@ -171,6 +171,10 @@ export const changeShadow = {
     },
     {
       invariantKind: "departure",
+      statement: "An edit is read as coming from a path the ledger already left holding nothing.",
+    },
+    {
+      invariantKind: "departure",
       statement:
         "A reach inside a change states an edit the reach around that change states again.",
     },
