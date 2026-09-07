@@ -1,0 +1,14 @@
+readersOweReading: false
+diff --git a/inference/generations/logs/properties/generation-images.file-property.ts b/inference/generations/logs/properties/generation-images.file-property.ts
+index ee02fb6c2c62841b7974bbc28304a1f752e2030c..ffc4a3b8310525e16c1d058b7df328fd94b07018 100644
+--- a/inference/generations/logs/properties/generation-images.file-property.ts
++++ b/inference/generations/logs/properties/generation-images.file-property.ts
+@@ -15,7 +15,7 @@ export const generationImages = {
+     },
+     {
+       invariantKind: "departure",
+-      statement: "An image row records where its bytes are, never the bytes.",
++      statement: "An image row records where its bytes are rather than the bytes.",
+     },
+   ],
+ } as const satisfies FileProperty
