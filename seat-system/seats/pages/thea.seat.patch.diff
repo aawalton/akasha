@@ -1,0 +1,15 @@
+writerOwesReading: false
+readersOweReading: false
+diff --git a/alan/harness/monarch/category-rules/properties/match-key.select-property.ts b/alan/harness/monarch/category-rules/properties/match-key.select-property.ts
+index aa35b2a78a870cf5c1ee7e71ea5ba44622665598..b85d55bf652f2326b506f45fb48e518634c798ba 100644
+--- a/alan/harness/monarch/category-rules/properties/match-key.select-property.ts
++++ b/alan/harness/monarch/category-rules/properties/match-key.select-property.ts
+@@ -4,7 +4,7 @@ export const matchKey = {
+   id: "01a0680c-3c00-7000-9b28-4e7a1d5c3101",
+   pageTypeSlug: "select-property",
+   slug: "match-key",
+-  propertySlug: "match-key",
++  propertySlug: "key",
+   definition: "what about a transaction a clause tests",
+   values: ["merchant", "sign", "account", "amount", "month", "date"],
+   invariants: [
