@@ -1,8 +1,8 @@
-import type { ChangeMechanical } from "../../change-mechanical.page-type.ts"
+import type { ChangeMechanicalData } from "../../data/change-mechanical-data.page-type.ts"
 
 export const renamePageSlug = {
   id: "01a07718-c9b6-7230-ae96-ff2f36a19ec1",
-  pageTypeSlug: "change-mechanical",
+  pageTypeSlug: "change-mechanical-data",
   slug: "rename-page-slug",
   definition: "one page's slug restated in its own body and in the data of every page naming it",
   code: "ts",
@@ -10,4 +10,4 @@ export const renamePageSlug = {
   runsChecks: false,
   readersOweReading: false,
   writerOwesReading: false,
-} as const satisfies ChangeMechanical
+} as const satisfies ChangeMechanicalData
