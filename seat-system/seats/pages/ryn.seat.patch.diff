@@ -1,0 +1,17 @@
+diff --git a/service-system/workstation-services/pages/great-courses-sync.workstation-service.ts b/service-system/workstation-services/pages/great-courses-sync.workstation-service.ts
+index 56f648dbb63c31ee2b6124aea1af3cab3727554c..71f7bfd5d5a7c8d6e743aa07a774a960497fd773 100644
+--- a/service-system/workstation-services/pages/great-courses-sync.workstation-service.ts
++++ b/service-system/workstation-services/pages/great-courses-sync.workstation-service.ts
+@@ -17,7 +17,11 @@ export const greatCoursesSync = {
+   invariants: [
+     {
+       invariantKind: "departure",
+-      statement: "A course sits on a shelf by that shelf's slug, `partOf` being a relation-slug.",
++      statement: "A course sits on a shelf by that shelf's slug.",
++    },
++    {
++      invariantKind: "departure",
++      statement: "`partOf` is a relation-slug.",
+     },
+     {
+       invariantKind: "departure",
