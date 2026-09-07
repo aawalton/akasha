@@ -1,3 +1,61 @@
+diff --git a/readout-system/readout-group-serving/readout-group-serving.module.code.ts b/readout-system/readout-group-serving/readout-group-serving.module.code.ts
+index 515f568e794bd2097a071d0a1931054804e22b2b..54851542d7a2e9de10c8a4ff70e91c2cf9288ac2 100644
+--- a/readout-system/readout-group-serving/readout-group-serving.module.code.ts
++++ b/readout-system/readout-group-serving/readout-group-serving.module.code.ts
+@@ -66,12 +66,6 @@ async function rungsOf(scaleSlug: string): Promise<readonly Rung[]> {
+   return row === undefined ? [] : rungsIn(row)
+ }
+ 
+-// THE STOPLIGHT ONE ROW AND ITS RUNGS MAKE, WITH NOTHING FETCHED.
+-//
+-// Two callers compose a group. The route below asks the store for every page it needs. The
+-// workstation's status bar reads the same pages off the checkout it is already sitting in, and is
+-// called from a file watch that has no turn to await in. So what the two share is stated once here
+-// and takes its rungs handed in.
+ export function stoplightWith(
+   row: Values,
+   rungs: readonly Rung[],
+@@ -104,14 +98,12 @@ export function stoplightWith(
+     ...wireKeyed(wireKeyName, wireKey),
+     label,
+     tier: reached.tier,
+-    reading: readingSaid(reading.value, stated(row.figureFormat)),
++    reading: readingSaid(reading.value),
+     ...(reached.nextTier === null ? {} : { nextTier: reached.nextTier }),
+     ...(reached.progress === null ? {} : { progress: reached.progress }),
+   }
+ }
+ 
+-// The scale is asked for only where a fresh reading will be read against it, so a readout carrying
+-// no reading or a reading too old costs no ask.
+ export async function stoplightOf(
+   row: Values,
+   wireKeyName: string = HABIT,
+@@ -128,15 +120,6 @@ export function stilled(row: Values): boolean {
+   return row.enabled === false
+ }
+ 
+-// WHETHER A READING PAST EITHER END OF ITS SCALE STILL DRAWS ITS FIGURE BELONGS TO THE GROUP.
+-//
+-// One readout is drawn in more than one group: safety is drawn alone on a tile of its own and again
+-// among the upkeep stoplights, and those two drawings answer this differently. A tile drawing one
+-// reading has room for the figure at every reading; six readings to a tile has room for none past
+-// the ends. So the readout cannot carry the answer and the group can, one answer to each drawing.
+-//
+-// A group stating nothing draws no figure past either end, which is what every group did before any
+-// group stated anything.
+ async function figureOffScaleOf(groupSlug: string): Promise<boolean> {
+   const asked = await askingFor({
+     pageTypeSlug: READOUT_GROUP,
+@@ -158,8 +141,6 @@ export async function stoplightsInGroup(
+   })
+   if ("refused" in asked) return []
+ 
+-  // The group is asked for once for the group rather than once for each reading in it, and the
+-  // answer is carried on each reading because each reading is what a ring is handed.
+   const figureOffScale = await figureOffScaleOf(groupSlug)
+ 
+   const stoplights: Stoplight[] = []
 diff --git a/readout-system/readout-group-serving/readout-group-serving.module.ts b/readout-system/readout-group-serving/readout-group-serving.module.ts
 index 7c9522db1468c5efeace4197190ab7e80e77b8cf..c28bdf80f3eb0a0dd19398abce987361a862b9b0 100644
 --- a/readout-system/readout-group-serving/readout-group-serving.module.ts
