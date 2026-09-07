@@ -1,0 +1,24 @@
+diff --git a/bun.lock b/bun.lock
+index 0539930e7da6503c6c8beb79a3ad68172995086c..43ae0158ad762ea081f11caa67f84811d6e605b7 100644
+--- a/bun.lock
++++ b/bun.lock
+@@ -561,6 +561,7 @@
+     "collections/great-courses": {
+       "name": "@akasha/great-courses",
+       "dependencies": {
++        "@akasha/code": "workspace:*",
+         "@akasha/pages-query": "workspace:*",
+         "jsdom": "^28.1.0",
+       },
+diff --git a/collections/great-courses/package.json b/collections/great-courses/package.json
+index 70610053d4ce23f400ab6850458e5a025a513f00..bb35941c561a6a22219b8df6d9f4d6680f414e2f 100644
+--- a/collections/great-courses/package.json
++++ b/collections/great-courses/package.json
+@@ -7,6 +7,7 @@
+     "./sync-run": "./sync-run/sync-run.module.code.ts"
+   },
+   "dependencies": {
++    "@akasha/code": "workspace:*",
+     "@akasha/pages-query": "workspace:*",
+     "jsdom": "^28.1.0"
+   }
